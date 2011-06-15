@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the grandtheftwiki.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214214313id_/http%3A//www.grandtheftwiki.com/Grand_Theft_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandtheftwiki.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615055822id_/http%3A//grandtheftwiki.com/Grand_Theft_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Grand Theft Wiki:Privacy Policy - Grand Theft Wiki, the GTA wiki
 
 From Grand Theft Wiki
 
-[](https://web.archive.org/File:Rules.png) |  **This page documents official[Policy](https://web.archive.org/Grand_Theft_Wiki:Policy "Grand Theft Wiki:Policy") on Grand Theft Wiki. It concerns standards that all users should follow.**
+[](https://web.archive.org/File:Rules.png) | **This page documents official[Policy](https://web.archive.org/Grand_Theft_Wiki:Policy "Grand Theft Wiki:Policy") on Grand Theft Wiki. It concerns standards that all users should follow.**
 
 When editing this page, please ensure that your revision reflects consensus. When in doubt, discuss first on the [talk page](https://web.archive.org/index.php?title=Grand_Theft_Wiki_talk:Privacy_Policy&action=edit&redlink=1 "Grand Theft Wiki talk:Privacy Policy \(page does not exist\)"). 
 
@@ -13,15 +13,15 @@ When editing this page, please ensure that your revision reflects consensus. Whe
   
 Grand Theft Wiki is a public website, meaning that most of its information can be accessed by anybody. Certain information (such as a user's personal details) is not accessible by unauthorised users. 
 
-## [[edit](https://web.archive.org/index.php?title=Grand_Theft_Wiki:Privacy_Policy&action=edit&section=1 "Edit section: Your Articles")] Your Articles 
+##  Your Articles 
 
 Anything you write on Grand Theft Wiki is public, and can be read by anybody anywhere. This includes articles, user pages and talk pages. Do not add anything you would not want everyone to see. 
 
-If you are logged in, your articles and edits can be traced to your account, even if the articles are subsequently edited or deleted. If you are not logged in, your edits are assigned to your IP address, which can be traced to your ISP or company. 
+Your articles and edits can be traced to your username, even if the articles are subsequently edited or deleted. [Certain staff](https://web.archive.org/Special:ListUsers/checkuser "Special:ListUsers/checkuser") can also view your IP address, which can be trace to your ISP or company. The viewing of this information is restricted to only selected staff to maintain user privacy. 
 
-    _See also:[Grand Theft Wiki:Copyright](https://web.archive.org/Grand_Theft_Wiki:Copyright)_
+    _See also:[Grand Theft Wiki:Copyright](https://web.archive.org/Grand_Theft_Wiki:Copyright "Grand Theft Wiki:Copyright")_
 
-## [[edit](https://web.archive.org/index.php?title=Grand_Theft_Wiki:Privacy_Policy&action=edit&section=2 "Edit section: Your Details")] Your Details 
+##  Your Details 
 
 Grand Theft Wiki will not sell or share private information (such as email addresses) with third parties, unless you agree to release this information or it is required by law or policy to release the information. 
 
