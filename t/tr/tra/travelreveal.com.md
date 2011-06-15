@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelreveal.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101071518id_/http%3A//www.travelreveal.com/htm/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelreveal.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615200656id_/http%3A//www.travelreveal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Travelreveal.com – deny unauthorized access to application.
 
@@ -19,6 +19,3 @@ We see to it that your personal information is not shared by any of the advertis
 Though **travelreveal.com** allows all ages of users, we recommend against children under the age of 13 submitting any information to our website. Also, we recommend you to take your parent/ guardian’s permission before providing any personal information to us if you are aged 16 or under. **Travelreveal.com** reserves the right to change or amend this policy. If we make any changes that can affect your personal information that we have already collected from you then we will make necessary efforts to notify you about the changes and to give you the options to amend or cancel your registration.
 
 We recommend you to go through the privacy policy each time you intend to provide personal information. 
-
-  
-
