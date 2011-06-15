@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istudio.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501232424id_/http%3A//www.istudio.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istudio.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615201003id_/http%3A//www.istudio.com/info/privacy) for the most accurate reproduction.*
 
 # iStudio.com - Privacy
 
