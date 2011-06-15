@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the profy.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222130140id_/http%3A//profy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profy.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616010503id_/http%3A//profy.com/privacy) for the most accurate reproduction.*
 
 # Profy Privacy Policy | Profy | Internet news and commentary
 
 _Last updated: June 26, 2009_
 
-Profy website at [http://profy.com](https://web.archive.org/web/) is provided to you by Profy, Inc. ( _Profy_ ), a California corporation. At Profy we take your privacy seriously. Please, read the following to know exactly how and when we collect and use information that can specifically identify you.
+Profy website at [http://profy.com](https://web.archive.org/) is provided to you by Profy, Inc. ( _Profy_ ), a California corporation. At Profy we take your privacy seriously. Please, read the following to know exactly how and when we collect and use information that can specifically identify you.
 
 INFORMATION COLLECTION AND USE
 
