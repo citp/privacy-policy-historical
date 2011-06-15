@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originaltrilogy.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222043158id_/http%3A//originaltrilogy.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originaltrilogy.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615203833id_/http%3A//originaltrilogy.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - originaltrilogy.com
 
