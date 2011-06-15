@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androinica.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128093157id_/http%3A//androinica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androinica.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615053609id_/http%3A//androinica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Androinica
+# Androinica » Privacy Policy
 
 When accessing our Website, Androinica.com will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
