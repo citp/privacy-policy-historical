@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotweet.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231060154id_/http%3A//cotweet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotweet.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615123750id_/http%3A//cotweet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — CoTweet® by ExactTarget
 
