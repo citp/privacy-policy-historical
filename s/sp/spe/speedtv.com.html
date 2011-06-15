@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the speedtv.com privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217022746id_/http%3A//www.speedtv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedtv.com privacy policy that was archived on 2011-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615192758id_/http%3A//www.speedtv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
 
 <!-- Meta Tags -->
-<meta name="description" content="SPEED.com is the Motor Sports Authority for NASCAR News, Formula 1 News, F1 News, Auto Racing News, Moto Racing News, and Automotive News.">
-<meta name="keywords" content="nascar news, formula 1 news, f1 news, auto racing news, moto racing news, speed channel, speed, speed schedule, automotive news, motorsports news">
+<meta name="description" content="SPEED.com - The Motor Sports Authority for racing news, info, schedules, results and commentary including NASCAR, Formula 1, auto racing, moto racing, automotive, and motorcycling.">
+<meta name="keywords" content="nascar, formula 1, f1, auto racing, moto racing, indycar, motogp, superbike, supercross, sx, speed center, wind tunnel, car warriors, ama, trucks, nationwide, schedules, news, photos, videos, trivia, fantasy">
 <!-- 
 This URL:         /index.php/privacy/ 
 Using this entry: /
@@ -20,7 +19,7 @@ Using this entry: /
 
 
 
-<title>PRIVACY - The Motor Sports Authority - Auto Racing, Formula 1, Moto Racing, NASCAR, News, Photos, Videos, Blogs, &amp; more...</title>
+<title>PRIVACY - SPEED - The Motor Sports Authority - Auto Racing, Formula 1, Moto Racing, NASCAR, News, Photos, Videos, Fantasy, Trivia</title>
 
 
 <!-- Google Webmaster Tools -->
@@ -40,6 +39,7 @@ Using this entry: /
 <link type="text/css" rel="stylesheet" href="http://assets.speedtv.com/_assets/css/navigation.css">
 <link type="text/css" rel="stylesheet" href="http://assets.speedtv.com/_assets/css/slider_default.css">
 <link type="text/css" rel="stylesheet" href="http://assets.speedtv.com/_assets/css/jquery.tooltip.css">
+<link type="text/css" rel="stylesheet" href="http://assets.speedtv.com/_assets/css/modal_login.css">
 
 
 <script type="text/javascript">
@@ -83,7 +83,10 @@ Using this entry: /
 </script>
 
 <!-- Thickbox includes -->
+<!-- 
 <script type="text/javascript" src="http://assets.speedtv.com/js/jquery/jquery.js"></script>
+-->
+<script type="text/javascript" src="/_assets/js/jquery/jquery-1.6.1.min.js"></script>
 <script type="text/javascript" src="http://assets.speedtv.com/js/thickbox-no-conflict.js"></script>
 <script type="text/javascript" src="http://assets.speedtv.com/js/jquery.dimensions-no-conflict.js"></script>
 
@@ -182,14 +185,6 @@ function google_search()
         window.location.href="http://www.speedtv.com/search/google/"+query;     
 }     
 
-function keyword_search()     
-{     
-        var query = document.getElementById("txtQuery").value;     
-        query = query.replace(' ', '-');
-        jQuery.get("/ajax/keyword_relationship/"+query, function(data){
-          if (data == '' || data == null) {google_search();} else {window.location.href=data;}
-        });
-}
 function mustLogin(e) {
     alert('We\'re sorry but you must be logged in to be able to set reminders for SpeedTV Shows.');
     e.checked = false;
@@ -209,15 +204,17 @@ function selectToggle(d) {
 //-->
 </script>
 <link type="text/css" rel="stylesheet" href="http://assets.speedtv.com/_assets/css/toolbar.css">
-<!--[if IE 7]>
-<link type="text/css" rel="stylesheet" href="http://assets.speedtv.com/_assets/css/toolbar_ie.css" />
-<![endif]-->
 <!--[if lte IE 6]>
 <link type="text/css" rel="stylesheet" href="http://assets.speedtv.com/_assets/css/toolbar_ie6.css" />
 <![endif]-->
 
-<script type="text/javascript" src="http://assets.speedtv.com/js/jquery/jquery-autocomplete/lib/jquery.ajaxQueue.js"></script>
-<script type="text/javascript" src="http://assets.speedtv.com/js/jquery/jquery-autocomplete/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="http://assets.speedtv.com/js/jquery/jquery-easing-1.3.pack.js"></script>
+
+<script type="text/javascript" src="http://assets.speedtv.com/_assets/js/jquery/jquery-ui/jquery.ui.core.js"></script>
+<script type="text/javascript" src="http://assets.speedtv.com/_assets/js/jquery/jquery-ui/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="http://assets.speedtv.com/_assets/js/jquery/jquery-ui/jquery.ui.position.js"></script>
+<script type="text/javascript" src="http://assets.speedtv.com/_assets/js/jquery/jquery-ui/jquery.ui.autocomplete.js"></script>
+
 <script type="text/javascript" src="http://assets.speedtv.com/_assets/js/toolbar.js"></script>
 <!--[if lt IE 7]>
 <style type="text/css">
@@ -232,7 +229,6 @@ function selectToggle(d) {
 
 
  
-
 <meta name="verify-v1" content="5+9D02IJQGIozsi+2eP4Tu66G5XDjJPKuCXVSaNbOWo=">
 </head>
 
@@ -240,29 +236,146 @@ function selectToggle(d) {
 <div id="shim"></div>
  <!-- Interstitial -->
 
-<div class="header_toolbar">
+<div style="position: absolute; left: -5000px; 	z-index: 2147483647;">
+	<script type="text/javascript"><!--
+		var extra = '';
+		
+				if (window.location.hostname !== 'my.speedtv.com') {
+					var callback_uri = 'http://www.speedtv.com/connection.html';
+					extra = '&callback_url=' + encodeURIComponent(callback_uri);
+				}
+
+				document.write(
+					'<script type="text/javascript" src="'
+					+ 'http://widgets.my.speedtv.com/js/socialLogin/display'
+					+ '?one_widget_node=my.speedtv.com'
+					+ '&devkey=speedwidgetkey'
+					+ '&js_callback=processSSO'
+					+ extra
+					+ '&load_profile=false'
+					+ '"><' + '/script>'
+				);
+			// This is fired from the OneSite modal login script, it will pass in the action the user is taking
+			function processSSO(action)
+			{
+				switch(action){
+					case "login":
+						processLogin();
+						break;
+					case "signup":
+						processLogin();
+						break;
+					case "associate":
+						processLogin();
+						break;
+				}
+			}
+
+			// This will send a json request to the ajax handler, telling the system to log the user in and
+			// create the proper cookies on speedtv.com
+			function processLogin()
+			{
+				  // Send a request to get the Now on speed content
+				  jQuery.ajax({
+					  url: "http://www.speedtv.com/ajax/handler/?callback=?",
+					  data: {
+							"c" : "Speed_Auth_SpeedTV",
+							"m" : "login"
+							},
+					  dataType: 'jsonp',
+					  success: function(data){loginFinished(data);}
+				  });
+			}
+
+			// Check the users account status after the call is complete
+			var loginFinished = function(data){
+				if(data.result.account_status == "pending"){
+//					alert("Your profile is incomplete, please complete the required fields!");
+//					window.location = "http://my.speedtv.com/"+data.result.subdir+"/blog/wizard.one";
+					window.location.reload();
+				}else if(data.result.account_status == "good-standing"){window.location.reload();}
+			};
+			//--> 
+        </script><script type="text/javascript" src="http://widgets.my.speedtv.com/js/socialLogin/display?one_widget_node=my.speedtv.com&amp;devkey=speedwidgetkey&amp;js_callback=processSSO&amp;callback_url=http%3A%2F%2Fwww.speedtv.com%2Fconnection.html&amp;load_profile=false"></script>
+    </div>
 
 
+<div id="toolbarHeader" class="header_toolbar">
     <div class="content">
         <div id="user">
-            <div class="my_speed">
-                <a href="http://my.speedtv.com/"><img src="http://assets.speedtv.com/_assets/img/header/toolbar/my_speed.jpg" width="100" height="36"></a>
-            </div>
-            <div id="u_login" class="u_off">
-                <div class="u_loading"><img src="http://assets.speedtv.com/_assets/img/header/toolbar/u_loading.gif"></div>  
-            </div>
+            <div class="fanatics"></div>
+            <div id="u_login" class="u_blank">
+					<div id="userLoginTitle" class="u_logged_in_txt"><div class="u_loading"></div></div>
+					<div id="u_flyout_li" style="">
+					    <div class="li_link_header">TAKE ME TO...</div>
+					    <div id="mySiteLink" class="li_link_site"></div>
+					    <div id="myHubLink" class="li_link_hub"></div>
+					    <div id="myProfileLink" class="li_link_profile"></div>
+					    <div id="myInboxLink" class="li_link_inbox"></div>
+					    <div class="li_cta_register">
+					    <p class="flyout_txt_b">Welcome Member!</p>
+					    <p class="flyout_txt">Have a FaceBook, Twitter, or other social sites? associate them below:</p>
+					    <p class="flyout_txt">
+						    <a onclick="oneSocialLogin.init(); return false;" href="javascript:void(0)" class="button oneButtonGlobal button-large-green" id="socialLoginLinkAddAcct">
+								<span>Add Account</span>
+							</a>
+						</p>
+					    
+					    </div>
+					    <div id="loggedInAs" class="li_logout"></div>
+					    <div class="li_logout_button">
+					       <a href="http://my.speedtv.com/tools/logout.one?origin_url=aHR0cDovL3d3dy5zcGVlZHR2LmNvbS9sb2dvdXQ=" id="fly_logout"><img src="http://assets.speedtv.com/_assets/img/header/toolbar/btn-toolbar-logout.png" width="56" height="20"></a>
+					   </div>
+					</div>
+				</div>
         </div>
-        <div class="toolbar_dividerL"><img src="http://assets.speedtv.com/_assets/img/header/toolbar/toolbar_divider.jpg"></div>
-        <div class="search">
-            <div class="search_input"><input id="txtQuery" type="text" class="search_box" name="search" value="Search keywords, programs, or site" onfocus="if (this.value.indexOf('Search keywords, programs, or site') != -1) this.value='';"></div>
-            <div class="search_button"><input onclick="javascript: google_search();" type="image" src="http://assets.speedtv.com/_assets/img/header/toolbar/search_button.jpg"></div>
-        </div>
-        <div class="toolbar_dividerR"><img src="http://assets.speedtv.com/_assets/img/header/toolbar/toolbar_divider.jpg"></div>
-        <div id="now_playing" class="nos_off">
-            <div class="nos_loading"><img src="http://assets.speedtv.com/_assets/img/header/toolbar/nos_loading.gif"></div>
-        </div>
+        <div class="toolbar_dividerL"></div>
+        <form name="searchForm" id="googleSearchForm" onsubmit="return false;">
+	        <div class="search">
+	            <div class="search_input">
+	                <input id="txtQuery" type="text" class="search_box" name="search" value="Search SPEED" onfocus="if (this.value.indexOf('Search SPEED') != -1) this.value='';">
+	            </div>
+	            <div class="search_button">
+	                    <input id="googleSearch" type="image" src="http://assets.speedtv.com/_assets/img/header/toolbar/btn-go.gif">
+	           </div>
+	        </div>
+        </form>
+        <div class="fox_sports_logo_div"></div>
+            <ul id="FoxSportsNavBar">
+                <li>
+                    <a href="http://msn.foxsports.com/" target="_blank" title="Fox Sports">
+                        <img src="http://assets.speedtv.com/_assets/img/header/toolbar/logo_foxsports.png" alt="Fox Sports">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.scout.com" target="_blank" title="Scout">
+                        <img src="http://assets.speedtv.com/_assets/img/header/toolbar/logo_scout.png" alt="Scout">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.fuel.tv" target="_blank" title="Fuel TV">
+                        <img src="http://assets.speedtv.com/_assets/img/header/toolbar/logo_fueltv.png" alt="Fuel TV">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.yardbarker.com" target="_blank" title="Yardbarker">
+                        <img src="http://assets.speedtv.com/_assets/img/header/toolbar/logo_yardbarker.png" alt="Yardbarker">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.foxsoccer.com" target="_blank" title="Fox Soccer">
+                        <img src="http://assets.speedtv.com/_assets/img/header/toolbar/logo_foxsoccer_blk.png" alt="Fox Soccer">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.speed2.com" target="_blank" title="Speed 2">
+                        <img src="http://assets.speedtv.com/_assets/img/header/toolbar/logo_SPEED2_blk.png" alt="Speed 2">
+                    </a>
+                </li>
+            </ul>
     </div>
 </div>
+
 
 <!--[if lt IE 7]> 
  <div id="ie6warning">
@@ -301,8 +414,8 @@ function selectToggle(d) {
 
 <div class="header_gap">
     <div class="logo">
-        <a href="http://www.speedtv.com/">
-            <img class="pngfix" src="http://assets.speedtv.com/_assets/img/header/new_speed_logo.png" alt="SpeedTV.com" width="340" height="53">
+        <a href="http://www.speed.com/">
+            <img class="pngfix" src="http://assets.speedtv.com/_assets/img/header/newest_speed_logo.png" alt="SPEED.com" width="175" height="67">
         </a>
     </div>
     <div class="featured">
@@ -313,21 +426,21 @@ function selectToggle(d) {
 		    			<img src="http://assets.speedtv.com/_assets/img/header/watch.png" style="margin-top:-3px">
 		    		</li>
 		    			    	<li>
-		    		<a href="http://speedperformanceawards.com/category/temper_temper">Temper Temper</a>
+		    		<a href="http://www.speedtv.com//video/nascar/nascar-hof-richie-evans-bio-993323627001/1#_vtop">Richie Evans Bio</a>
 		    	</li>
 	    	
 		    			    		<li>
 		    			<img src="http://assets.speedtv.com/_assets/img/header/bullet.png" style="margin-top:2px">
 		    		</li>
 		    			    	<li>
-		    		<a href="http://speedperformanceawards.com/category/biggest_hit">Biggest Hit</a>
+		    		<a href="http://www.speedtv.com//video/nascar/nascar-hof-dale-inman-bio-993318374001/1#_vtop">Dale Inman Bio</a>
 		    	</li>
 	    	
 		    			    		<li>
 		    			<img src="http://assets.speedtv.com/_assets/img/header/bullet.png" style="margin-top:2px">
 		    		</li>
 		    			    	<li>
-		    		<a href="http://speedperformanceawards.com/category/rookie">Rookie of the Year</a>
+		    		<a href="http://www.speedtv.com//video/nascar/seat-swap-hamilton-vs-stewart-993422965001/1#_vtop">Hamilton vs. Stewart</a>
 		    	</li>
 	    	
     	</ul>
@@ -340,14 +453,21 @@ function selectToggle(d) {
 		    			<img src="http://assets.speedtv.com/_assets/img/header/hot.png" style="margin-top:-3px">
 		    		</li>
 		    			    	<li>
-		    		<a href="http://automotive.speedtv.com/article/speed-launching-most-aggressive-prime-time-programming-initiative-in-networ/">SPEED™ Making Prime Time History</a>
+		    		<a href="http://nascar.speedtv.com/article/cup-yarborough-waltrip-inman-lead-third-nascar-hall-class">Hall Class Named</a>
 		    	</li>
     		
     				    		<li>
 		    			<img src="http://assets.speedtv.com/_assets/img/header/bullet.png" style="margin-top:2px">
 		    		</li>
 		    			    	<li>
-		    		<a href="http://nascar.speedtv.com/article/cup-drivers-say-daytona-will-be-closer-to-talladega/">NASCAR Drivers At Daytona</a>
+		    		<a href="http://moto-racing.speedtv.com/article/ama-sbk-the-case-for-blake-young/">AMA SBK: Blake Young</a>
+		    	</li>
+    		
+    				    		<li>
+		    			<img src="http://assets.speedtv.com/_assets/img/header/bullet.png" style="margin-top:2px">
+		    		</li>
+		    			    	<li>
+		    		<a href="http://formula-one.speedtv.com/article/f1-fia-returns-india-to-oct-30-date">F1: India Date Reinstated</a>
 		    	</li>
     		
     	</ul>
@@ -357,11 +477,10 @@ function selectToggle(d) {
    
    <style type="text/css">
 		.takeover_link {
-		width: 250px; 
-		float: right; 
-		margin-top: -10px; 
-		height: 69px; 
-		border:none;
+	    float: right;
+	    height: 95px;
+	    margin-top: 39px;
+	    width: 250px;
 	}
 	</style>
 		
@@ -377,28 +496,28 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://my.speedtv.com" name="my_speed" target="" onclick="">My SPEED</a></li><li><a href="http://www.speedtv.com/programs/primetime" name="speed_primetime" target="" onclick="">SPEED Primetime</a></li><li><a href="http://www.shopspeedtv.com/" name="65%_off_sale" target="_new" onclick="">65% Off Sale</a></li><li><a href="http://www.speeddreamride.com" name="speed_dream_ride" target="" onclick="">SPEED Dream Ride</a></li><li><a href="http://www.speedtv.com/feedback" name="faq" target="" onclick="">FAQ</a></li><li><a href="http://msn.foxsports.com/" name="fox_sports" target="" onclick="">FOX Sports</a></li><li><a href="http://www.speedtv.com/games/" name="games" target="_new" onclick="">Games</a></li><li><a href="http://www.speedtv.com/news-archive/" name="news_archive" target="" onclick="">News Archive</a></li><li class="last"><a href="http://www.speedtv.com/feature/chat/" name="chat" target="" onclick="">Chat</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://www.speedtv.com/programs/primetime" name="speed_primetime" target="" onclick="">SPEED Primetime</a></li><li><a href="https://windtunnel.fmfl.net/Login.aspx" name="super_7" target="_new" onclick="">Super 7</a></li><li><a href="http://www.speedtv.com/programs/motogp-world-championship" name="motogp" target="" onclick="">MotoGP</a></li><li><a href="http://www.speedtv.com/programs/nascar-race-hub" name="nascar_race_hub" target="" onclick="">NASCAR Race Hub</a></li><li><a href="http://msn.foxsports.com/" name="fox_sports" target="" onclick="">FOX Sports</a></li><li><a href="http://www.speedfantasyracing.com" name="fantasy_racing" target="" onclick="">Fantasy Racing</a></li><li><a href="http://www.speedtv.com/games/" name="games" target="_new" onclick="">Games</a></li><li><a href="http://www.speedtv.com/news-archive/" name="news_archive" target="" onclick="">News Archive</a></li><li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=263028877" name="podcasts" target="_new" onclick="">Podcasts</a></li><li><a href="http://www.speedtv.com/feature/chat/" name="chat" target="" onclick="">Chat</a></li><li class="last"><a href="http://www.speedtv.com/faq" name="faq" target="" onclick="">FAQ</a></li></ul>
                                     
                                 </td>
                                 <td class="subright">
                                     <div>Latest Headlines</div>
                                     <ul>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/ama-sbk-jordan-suzuki-confirms-team-alignments/"> &gt; AMA SBK: Jordan Suzuki Confirms Team Alignments…</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-spies-and-edwards-auction-items-for-children/"> &gt; BIKES: Spies And Edwards Auction Items…</a></li>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/motogp-jorge-premiers-in-madrid/"> &gt; MOTOGP: 'Jorge' Premiers In Madrid</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/ama-sbk-josh-hayes-pt-ii-the-mat-factor/"> &gt; AMA SBK: Josh Hayes Pt. II - The Mat Factor…</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-farewell-to-ando/"> &gt; INDYCAR: Farewell To Ando</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-introducing-schwantz-school-lites/"> &gt; BIKES: Introducing Schwantz School Lites…</a></li>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/autos-car-truck-of-year-finalists/"> &gt; AUTOS: Car, Truck Of The Year Finalists…</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/autos-bmw-reveals-2012-m5/"> &gt; AUTOS: BMW Rolls Out 2012 M5</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-ganassis-growth/"> &gt; INDYCAR: Ganassi's Growth</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-stay-a-hero-stay-safe-campaign/"> &gt; BIKES: "Stay A Hero, Stay Safe" Campaign…</a></li>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-miller-motorsports-park-announces-2011-schedule/"> &gt; BIKES: Miller Motorsports Park Announces…</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-renault-frustrated-by-exhaust-ban/"> &gt; F1: Renault Frustrated By Exhaust Ban</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/taylor-formula-medicine-day-2/"> &gt; TAYLOR: Formula Medicine Day 2</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-ride-for-our-heroes/"> &gt; BIKES: Ride For Our Heroes</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-the-lotus-that-dominated-indy/"> &gt; INDYCAR: The Lotus That Dominated Indy</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/cup-ford-positioning-itself-for-nascar-sprint-cup-series-title-run/"> &gt; CUP: Ford Positioning Itself For Title…</a></li>
                                     
                                     </ul>
                                 </td>
@@ -415,14 +534,14 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://www.speedtv.com/programs/primetime/" name="primetime" target="" onclick="">Primetime</a></li><li><a href="http://www.speedtv.com/programs/filter/category/73/" name="nascar" target="" onclick="">NASCAR</a></li><li><a href="http://www.speedtv.com/programs/filter/category/84/" name="auto_racing" target="" onclick="">Auto Racing</a></li><li><a href="http://www.speedtv.com/programs/filter/category/26/" name="automotive" target="" onclick="">Automotive</a></li><li><a href="http://www.speedtv.com/programs/filter/category/74/" name="moto_racing" target="" onclick="">Moto Racing</a></li><li><a href="http://www.speedtv.com/programs/filter/category/75/" name="motorcycling" target="" onclick="">Motorcycling</a></li><li class="last"><a href="http://www.speedtv.com/programs/" name="view_all" target="" onclick="">View All</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://www.speedtv.com/programs/primetime/" name="primetime" target="" onclick="">Primetime</a></li><li><a href="http://www.speedtv.com/programs/filter/category/73/" name="nascar" target="" onclick="">NASCAR</a></li><li><a href="http://www.speedtv.com/schedule//filter/category/311" name="formula_1" target="" onclick="">Formula 1</a></li><li><a href="http://www.speedtv.com/programs/filter/category/84/" name="auto_racing" target="" onclick="">Auto Racing</a></li><li><a href="http://www.speedtv.com/programs/filter/category/74/" name="moto_racing" target="" onclick="">Moto Racing</a></li><li><a href="http://www.speedtv.com/programs/filter/category/75/" name="motorcycling" target="" onclick="">Motorcycling</a></li><li><a href="http://www.speedtv.com/programs/" name="view_all" target="" onclick="">View All</a></li><li class="last"><a href="http://www.speedtv.com/programs/filter/category/26/" name="automotive" target="" onclick="">Automotive</a></li></ul>
                                     
                                 </td>
                                 <td class="subrightTVSh">
                                     <div class="headerTVSh">Featured Shows</div>
                                     <div class="bodyTVSh">
                                     
-                                    <div class="subnav_wrapper"><ul class="subnav_col"><li class="first"><a href="http://www.speedtv.com/programs/pinks-all-out/" name="pinks_all-out" target="" onclick="">PINKS All-Out</a></li><li><a href="http://www.speedtv.com/programs/nascar-race-hub/" name="nascar_race_hub" target="" onclick="">NASCAR Race Hub</a></li><li><a href="http://www.speedtv.com/programs/battle-of-the-supercars/" name="battle_of_the_supercars" target="" onclick="">Battle of the Supercars</a></li><li><a href="http://www.speedtv.com/programs/wind-tunnel-with-dave-despain/" name="wind_tunnel" target="" onclick="">Wind Tunnel</a></li><li><a href="http://www.speedtv.com/programs/the-speed-report/" name="the_speed_report" target="" onclick="">The SPEED Report</a></li><li><a href="http://www.speedtv.com/programs/barrett-jackson-2010-the-auctions/" name="barrett-jackson" target="" onclick="">Barrett-Jackson </a></li><li><a href="http://www.speedtv.com/programs/gearz" name="gearz" target="" onclick="">Gearz</a></li></ul><ul class="subnav_col"><li><a href="http://www.speedtv.com/programs/dangerous-drives/" name="dangerous_drives" target="" onclick="">Dangerous Drives</a></li><li><a href="http://www.speedtv.com/programs/stealth-rider/" name="stealth_rider" target="" onclick="">Stealth Rider</a></li><li><a href="http://www.speedtv.com/programs/hot-rod-tv" name="hot_rod_tv" target="" onclick="">Hot Rod TV</a></li><li><a href="http://www.speedtv.com/programs/my-classic-car" name="my_classic_car" target="" onclick="">My Classic Car</a></li><li><a href="http://www.speedtv.com/programs/monster-jam/" name="monster_jam" target="" onclick="">Monster Jam</a></li><li><a href="http://www.speedtv.com/programs/intersections/" name="intersections" target="" onclick="">Intersections</a></li><li class="last"><a href="http://www.speedtv.com/programs/pass-time" name="pass_time" target="" onclick="">Pass Time</a></li></ul></div>
+                                    <div class="subnav_wrapper"><ul class="subnav_col"><li class="first"><a href="http://www.speedtv.com/programs/car-warriors/" name="car_warriors" target="" onclick="">Car Warriors</a></li><li><a href="http://www.speedtv.com/programs/nascar-race-hub/" name="nascar_race_hub" target="" onclick="">NASCAR Race Hub</a></li><li><a href="http://www.speedtv.com/programs/speed-center/" name="speed_center" target="" onclick="">SPEED Center</a></li><li><a href="http://www.speedtv.com/programs/wind-tunnel-with-dave-despain/" name="wind_tunnel" target="" onclick="">Wind Tunnel</a></li><li><a href="http://www.speedtv.com/programs/car-science/" name="car_science" target="" onclick="">Car Science</a></li><li><a href="http://www.speedtv.com/programs/american-trucker/" name="american_trucker" target="" onclick="">American Trucker</a></li><li><a href="http://www.speedtv.com/programs/the-10" name="the_10" target="" onclick="">The 10</a></li></ul><ul class="subnav_col"><li><a href="http://www.speedtv.com/programs/speedmakers/" name="speedmakers" target="" onclick="">Speedmakers</a></li><li><a href="http://www.speedtv.com/programs/ticket-to-ride/" name="ticket_to_ride" target="" onclick="">Ticket to Ride</a></li><li><a href="http://www.speedtv.com/programs/barrett-jackson-2010-the-auctions/" name="barrett-jackson" target="" onclick="">Barrett-Jackson </a></li><li><a href="http://www.speedtv.com/programs/gearz" name="gearz" target="" onclick="">Gearz</a></li><li><a href="http://www.speedtv.com/programs/monster-jam/" name="monster_jam" target="" onclick="">Monster Jam</a></li><li><a href="http://www.speedtv.com/programs/pass-time" name="pass_time" target="" onclick="">Pass Time</a></li><li class="last"><a href="http://www.speedtv.com/programs/my-classic-car" name="my_classic_car" target="" onclick="">My Classic Car</a></li></ul></div>
                                     
                                     </div>
                                 </td>
@@ -440,12 +559,12 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://www.speedtv.com/schedule/" name="today_on_speed" target="" onclick="">Today on SPEED</a></li><li><a href="http://www.speedtv.com/programs/primetime/" name="primetime" target="" onclick="">Primetime</a></li><li><a href="http://www.speedtv.com/schedule/printview/" name="printer_friendly" target="" onclick="">Printer Friendly</a></li><li><a href="http://apps.facebook.com/speedschedule/" name="facebook_app" target="_new" onclick="">Facebook App</a></li><li class="last"><a href="http://www.speedtv.com/feature/speedwire/" name="schedule_widget" target="" onclick="">Schedule Widget</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://www.speedtv.com/programs/primetime/" name="primetime" target="" onclick="">Primetime</a></li><li><a href="http://www.speedtv.com/programs/car-warriors/" name="car_warriors" target="" onclick="">Car Warriors</a></li><li><a href="http://www.speedtv.com/schedule/" name="today_on_speed" target="" onclick="">Today on SPEED</a></li><li><a href="http://apps.facebook.com/speedapp" name="facebook_app" target="_new" onclick="">Facebook App</a></li><li><a href="http://www.speedtv.com/schedule/printview/" name="printer_friendly" target="" onclick="">Printer Friendly</a></li><li class="last"><a href="http://www.speedtv.com/feature/speedwire/" name="schedule_widget" target="" onclick="">Schedule Widget</a></li></ul>
                                     
                                 </td>
                                 <td class="subrightTVSc">
                                     <div class="headerTVSc">SPEED Showcase</div>
-                                    <div class="ad_unitTVSc"><a href="http://www.speedperformanceawards.com/" target="_new"><img src="http://assets.speedtv.com/images/ad_assets/13601/13601.gif" width="240" height="200"></a></div>
+                                    <div class="ad_unitTVSc"><a href="http://www.speedtv.com/programs/nascar-race-hub" target=""><img src="http://assets.speedtv.com/images/ad_assets/14179/14179.jpg" width="240" height="200"></a></div>
                                 </td>
                             </tr>
                         </tbody></table>
@@ -461,28 +580,28 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://nascar.speedtv.com/sprint-cup/" name="sprint-cup" target="" onclick="">Sprint Cup</a></li><li><a href="http://nascar.speedtv.com/nationwide/" name="nationwide" target="" onclick="">Nationwide</a></li><li><a href="http://nascar.speedtv.com/camping-world-trucks/" name="camping_world_trucks" target="" onclick="">Camping World Trucks</a></li><li><a href="http://nascar.speedtv.com/results/" name="results_&amp;_standings" target="" onclick="">Results &amp; Standings</a></li><li><a href="http://nascar.speedtv.com/schedule/" name="series_schedules" target="" onclick="">Series Schedules</a></li><li><a href="http://www.speedtv.com/video/nascar" name="nascar_video" target="" onclick="">NASCAR Video</a></li><li class="last"><a href="http://msn.foxsports.com/nascar" name="nascar_on_fox" target="_new" onclick="">NASCAR on FOX</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://nascar.speedtv.com/results/" name="results_&amp;_standings" target="" onclick="">Results &amp; Standings</a></li><li><a href="http://nascar.speedtv.com/schedule/" name="series_schedules" target="" onclick="">Series Schedules</a></li><li><a href="http://nascar.speedtv.com/sprint-cup/" name="sprint-cup" target="" onclick="">Sprint Cup</a></li><li><a href="http://nascar.speedtv.com/camping-world-trucks/" name="camping_world_trucks" target="" onclick="">Camping World Trucks</a></li><li><a href="http://nascar.speedtv.com/nationwide/" name="nationwide" target="" onclick="">Nationwide</a></li><li><a href="http://www.speedtv.com/programs/nascar-raceday/myraceday_planner/" name="raceday_planner" target="" onclick="">RaceDay Planner</a></li><li><a href="http://nascar.speedtv.com/sprint-cup/drivers" name="sprint_cup_drivers" target="" onclick="">Sprint Cup Drivers</a></li><li><a href="http://nascar.speedtv.com/sprint-cup/schedule/" name="tracks" target="" onclick="">Tracks</a></li><li><a href="http://www.speedtv.com/video/nascar" name="nascar_video" target="" onclick="">NASCAR Video</a></li><li><a href="http://msn.foxsports.com/nascar" name="nascar_on_fox" target="_new" onclick="">NASCAR on FOX</a></li><li class="last"><a href="http://www.speedtv.com/cut-away-car" name="autozone_cutaway_car" target="" onclick="">AutoZone Cutaway Car</a></li></ul>
                                     
                                 </td>
                                 <td class="subright">
                                     <div>Latest Headlines: NASCAR</div>
                                     <ul>
                                     
-                                        <li><a href="http://nascar.speedtv.com/article/green-hendrick-buys-first-chevy-volt/"> &gt; GREEN: Hendrick Buys First Chevy Volt</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/cup-ford-positioning-itself-for-nascar-sprint-cup-series-title-run/"> &gt; CUP: Ford Positioning Itself For Title…</a></li>
                                     
-                                        <li><a href="http://nascar.speedtv.com/article/cup-drivers-say-daytona-will-be-closer-to-talladega/"> &gt; CUP: Drivers Say Daytona Will Be Closer…</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/video-jimmys-nascar-take-get-over-it2/"> &gt; VIDEO: Jimmy's Take - Get Over It!</a></li>
                                     
-                                        <li><a href="http://nascar.speedtv.com/article/nns-boris-said-max-papis-put-on-a-nascar-show/"> &gt; NNS: Said, Papis Put On A Show</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/cup-the-nascar-hall-the-righteous-and-the-rebel/"> &gt; CUP: The Hall – The Righteous And…</a></li>
                                     
-                                        <li><a href="http://nascar.speedtv.com/article/cup-jimmie-johnson-spreading-the-hendrick-motorsports-nascar-wealth/"> &gt; CUP: Johnson Spreading The Wealth</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/cup-calinoffs-nascar-capsule-comments14/"> &gt; CUP: Calinoff’s Capsule Comments</a></li>
                                     
-                                        <li><a href="http://nascar.speedtv.com/article/cup-who-will-stop-jimmie-johnsons-nascar-reign/"> &gt; CUP: Who Will Stop Johnson’s Reign?…</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/photos-2012-nascar-hall-of-fame-class/"> &gt; PHOTOS: 2012 NASCAR Hall Of Fame Class,…</a></li>
                                     
-                                        <li><a href="http://nascar.speedtv.com/article/nns-brad-keselowski-stormed-to-nascar-nationwide-title/"> &gt; NNS: Keselowski Stormed To Nationwide Title…</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/speed-quotes-reaction-to-darrell-waltrips-election-to-nascar-hall-of-fame/"> &gt; SPEED Quotes: Reaction To Darrell Waltrip's…</a></li>
                                     
-                                        <li><a href="http://nascar.speedtv.com/article/cup-safety-advances-not-altogether-good-for-nascar/"> &gt; CUP: Safety Advances Not Altogether Good…</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/cup-seat-swaps-thrills-drivers-fans/"> &gt; CUP: Seat Swap Thrills Drivers, Fans</a></li>
                                     
-                                        <li><a href="http://nascar.speedtv.com/article/cup-goodyear-nascar-tire-testing-underway-at-newly-repaved-daytona/"> &gt; CUP: Tire Testing Gets Started At Newly…</a></li>
+                                        <li><a href="http://nascar.speedtv.com/article/cup-yarborough-waltrip-inman-lead-third-nascar-hall-class/"> &gt; CUP: Yarborough, Waltrip, Inman Lead Third…</a></li>
                                     
                                     </ul>
                                 </td>
@@ -501,28 +620,28 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://formula-one.speedtv.com/f1/" name="f1" target="" onclick="">Formula 1</a></li><li><a href="http://formula-one.speedtv.com/f1/schedule/" name="schedule" target="" onclick="">Schedule</a></li><li><a href="http://formula-one.speedtv.com/f1/results/" name="results_&amp;_standings" target="" onclick="">Results &amp; Standings</a></li><li><a href="http://www.speedtv.com/video/formula-1" name="f1_video" target="" onclick="">F1 Video</a></li><li><a href="http://www.speedtv.com/gallery/" name="f1_photos" target="" onclick="">F1 Photos</a></li><li class="last"><a href="http://my.speedtv.com/go/forum/viewcategory/55846/Formula_One" name="f1_forums" target="_new" onclick="">F1 Forums</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://formula-one.speedtv.com/f1/results/" name="results_&amp;_standings" target="" onclick="">Results &amp; Standings</a></li><li><a href="http://formula-one.speedtv.com/f1/schedule/" name="schedule" target="" onclick="">Schedule</a></li><li><a href="http://gpedition.speedfantasyracing.com/" name="gp_fantasy_racing" target="_new" onclick="">GP Fantasy Racing</a></li><li><a href="http://www.speedtv.com/f1-racecast/" name="gp_racecast" target="" onclick="">GP Racecast</a></li><li><a href="http://stream.speedtv.com/formula-one" name="formula_1_stream" target="" onclick="">Formula 1 Stream</a></li><li><a href="http://www.speedtv.com/video/formula-1" name="formula_1_video" target="" onclick="">Formula 1 Video</a></li><li><a href="http://www.speedtv.com/gallery/category/formula-one" name="formula_1_photos" target="" onclick="">Formula 1 Photos</a></li><li class="last"><a href="http://my.speedtv.com/go/forum/viewcategory/55846/Formula_One" name="formula_1_forums" target="_new" onclick="">Formula 1 Forums</a></li></ul>
                                     
                                 </td>
                                 <td class="subright">
                                     <div>Latest Headlines: Formula One</div>
                                     <ul>
                                     
-                                        <li><a href="http://formula-one.speedtv.com/article/f1-india-to-host-fia-gala-key-meetings-next-year/"> &gt; F1: India To Host FIA Gala, Key Meetings…</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-renault-frustrated-by-exhaust-ban/"> &gt; F1: Renault Frustrated By Exhaust Ban</a></li>
                                     
-                                        <li><a href="http://formula-one.speedtv.com/article/f1-ferrari-names-ganassi-penske-as-ideal-third-car-partners/"> &gt; F1: Ferrari Names Ganassi, Penske As Ideal…</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-fia-returns-india-to-oct-30-date/"> &gt; F1: FIA Returns India To Oct. 30 Date</a></li>
                                     
-                                        <li><a href="http://formula-one.speedtv.com/article/f1-ferrari-opposed-to-grand-prix-in-rome/"> &gt; F1: Ferrari Opposed To Grand Prix In Rome…</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-mark-webber-no-reason-to-talk-to-sebastian-vettel/"> &gt; F1: Webber - 'No Reason' To Talk To Vettel…</a></li>
                                     
-                                        <li><a href="http://formula-one.speedtv.com/article/f1-group-lotus-not-ruling-out-own-engine-in-future/"> &gt; F1: Group Lotus Not Ruling Out Own Engine…</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-jenson-button-denies-wanting-long-term-mclaren-deal/"> &gt; F1: Button Denies Wanting Long-Term McLaren…</a></li>
                                     
-                                        <li><a href="http://formula-one.speedtv.com/article/f1-kimi-raikkonen-set-for-rally-team-switch-nascar-races/"> &gt; F1: Raikkonen Set For Rally Team Switch,…</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-mercedes-too-weak-technically-to-compete-in-2011-ross-brawn/"> &gt; F1: Mercedes Too Weak Technically To Compete…</a></li>
                                     
-                                        <li><a href="http://formula-one.speedtv.com/article/f1-montezemolo-gets-unusual-question/"> &gt; F1: Montezemolo Gets Unusual Question</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-lewis-hamilton-plays-down-chats-with-christian-horner-domenicali/"> &gt; F1: Hamilton Plays Down Chats With Horner,…</a></li>
                                     
-                                        <li><a href="http://formula-one.speedtv.com/article/f1-giedo-van-der-garde-still-in-running-for-virgin-seat/"> &gt; F1: Van Der Garde Still In Running For…</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-red-bull-rivals-to-eye-silverstone-exhaust-clampdown/"> &gt; F1: Red Bull Rivals To Eye Silverstone…</a></li>
                                     
-                                        <li><a href="http://formula-one.speedtv.com/article/f1-calm-vitantonio-liuzzi-expects-to-keep-force-india-seat/"> &gt; F1: 'Calm' Liuzzi Expects To Keep Force…</a></li>
+                                        <li><a href="http://formula-one.speedtv.com/article/f1-ferrari-figures-insist-team-not-giving-up/"> &gt; F1: Ferrari Figures Insist Team Not Giving…</a></li>
                                     
                                     </ul>
                                 </td>
@@ -540,28 +659,28 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://auto-racing.speedtv.com/indy-car/" name="indy-car" target="" onclick="">IndyCar</a></li><li><a href="http://auto-racing.speedtv.com/grand-am/" name="grand-am" target="" onclick="">GRAND-AM</a></li><li><a href="http://auto-racing.speedtv.com/lemans-alms/" name="lemans-alms" target="" onclick="">LeMans / ALMS</a></li><li><a href="http://auto-racing.speedtv.com/arca/" name="arca" target="" onclick="">ARCA</a></li><li><a href="http://auto-racing.speedtv.com/nhra/" name="nhra" target="" onclick="">NHRA</a></li><li><a href="http://auto-racing.speedtv.com/scca/" name="scca" target="" onclick="">SCCA</a></li><li><a href="http://auto-racing.speedtv.com/world-of-outlaws/" name="world_of_outlaws" target="" onclick="">World of Outlaws</a></li><li><a href="http://auto-racing.speedtv.com/other-auto-racing/" name="other-auto-racing" target="" onclick="">More Racing</a></li><li><a href="http://auto-racing.speedtv.com/results/" name="results_&amp;_standings" target="" onclick="">Results &amp; Standings</a></li><li class="last"><a href="http://auto-racing.speedtv.com/schedule/" name="series_schedules" target="" onclick="">Series Schedules</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://auto-racing.speedtv.com/results/" name="results_&amp;_standings" target="" onclick="">Results &amp; Standings</a></li><li><a href="http://auto-racing.speedtv.com/schedule/" name="series_schedules" target="" onclick="">Series Schedules</a></li><li><a href="http://auto-racing.speedtv.com/grand-am/" name="grand-am" target="" onclick="">GRAND-AM</a></li><li><a href="http://auto-racing.speedtv.com/indy-car/" name="indy-car" target="" onclick="">IndyCar</a></li><li><a href="http://auto-racing.speedtv.com/lemans-alms/" name="lemans-alms" target="" onclick="">Le Mans / ALMS</a></li><li><a href="http://auto-racing.speedtv.com/nhra/" name="nhra" target="" onclick="">NHRA</a></li><li><a href="http://auto-racing.speedtv.com/arca/" name="arca" target="" onclick="">ARCA</a></li><li><a href="http://auto-racing.speedtv.com/scca/" name="scca" target="" onclick="">SCCA</a></li><li><a href="http://auto-racing.speedtv.com/world-of-outlaws/" name="world_of_outlaws" target="" onclick="">World of Outlaws</a></li><li class="last"><a href="http://auto-racing.speedtv.com/other-auto-racing/" name="other-auto-racing" target="" onclick="">More Racing</a></li></ul>
                                     
                                 </td>
                                 <td class="subright">
                                     <div>Latest Headlines: Auto Racing</div>
                                     <ul>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-farewell-to-ando/"> &gt; INDYCAR: Farewell To Ando</a></li>
+                                        <li><a href="http://auto-racing.speedtv.com/article/video-ricky-taylor-on-wind-tunnel/"> &gt; VIDEO: Ricky Taylor On Wind Tunnel</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-ganassis-growth/"> &gt; INDYCAR: Ganassi's Growth</a></li>
+                                        <li><a href="http://auto-racing.speedtv.com/article/le-mans-robertsons-dream-podium-debut/"> &gt; LE MANS: Robertson's Dream Podium Debut…</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/taylor-formula-medicine-day-2/"> &gt; TAYLOR: Formula Medicine Day 2</a></li>
+                                        <li><a href="http://auto-racing.speedtv.com/article/in-the-cockpit-oliver-gavin-le-mans/"> &gt; IN THE COCKPIT: Oliver Gavin, Le Mans</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-the-lotus-that-dominated-indy/"> &gt; INDYCAR: The Lotus That Dominated Indy</a></li>
+                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-pippa-mann-joins-rll-for-three-races/"> &gt; INDYCAR: Pippa Mann Joins RLL For Three…</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-ganassi-confirms-kimball-and-rahal/"> &gt; INDYCAR: Ganassi Confirms Kimball And Rahal…</a></li>
+                                        <li><a href="http://auto-racing.speedtv.com/article/grand-am-rolex-series-to-race-at-indy-in-2012/"> &gt; GRAND-AM: Rolex Series To Race At Indy…</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/alms-a-merry-sportscar-christmas/"> &gt; ALMS: A Merry Sportscar Christmas</a></li>
+                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-texas-notebook/"> &gt; INDYCAR: Texas Notebook</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/photos-alms-gtc-season-review-gallery/"> &gt; PHOTOS: ALMS GTC Season Review Gallery</a></li>
+                                        <li><a href="http://auto-racing.speedtv.com/article/le-mans-watch-24-hours-of-le-mans-june-11-12-2011-speed/"> &gt; LE MANS WATCH: 24 Hours Of Le Mans-June…</a></li>
                                     
-                                        <li><a href="http://auto-racing.speedtv.com/article/indycar-the-canadalonian-combo/"> &gt; INDYCAR: The Canadalonian Combo</a></li>
+                                        <li><a href="http://auto-racing.speedtv.com/article/video-michael-waltrip-le-mans-race-vblog/"> &gt; VIDEO: Michael Waltrip Le Mans Race vBlog…</a></li>
                                     
                                     </ul>
                                 </td>
@@ -578,28 +697,28 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://moto-racing.speedtv.com/moto-gp/" name="moto-gp" target="" onclick="">MotoGP</a></li><li><a href="http://moto-racing.speedtv.com/ama-superbike/" name="ama-superbike" target="" onclick="">AMA Superbike</a></li><li><a href="http://moto-racing.speedtv.com/wsbk/" name="wsbk" target="" onclick="">World Superbike</a></li><li><a href="http://moto-racing.speedtv.com/super-moto/" name="super-moto" target="" onclick="">Supermoto</a></li><li><a href="http://moto-racing.speedtv.com/ama-supercross-motocross/" name="ama-supercross-motocross" target="" onclick="">Supercross &amp; Motocross</a></li><li><a href="http://moto-racing.speedtv.com/results/" name="results_&amp;_standings" target="" onclick="">Results &amp; Standings</a></li><li class="last"><a href="http://moto-racing.speedtv.com/schedule/" name="series_schedules" target="" onclick="">Series Schedules</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://moto-racing.speedtv.com/results/" name="results_&amp;_standings" target="" onclick="">Results &amp; Standings</a></li><li><a href="http://moto-racing.speedtv.com/schedule/" name="series_schedules" target="" onclick="">Series Schedules</a></li><li><a href="http://moto-racing.speedtv.com/moto-gp/" name="moto-gp" target="" onclick="">MotoGP</a></li><li><a href="http://moto-racing.speedtv.com/super-moto/" name="super-moto" target="" onclick="">Supermoto</a></li><li><a href="http://moto-racing.speedtv.com/ama-supercross-motocross/" name="ama-supercross-motocross" target="" onclick="">Supercross &amp; Motocross</a></li><li><a href="http://moto-racing.speedtv.com/ama-superbike/" name="ama-superbike" target="" onclick="">AMA Superbike</a></li><li class="last"><a href="http://moto-racing.speedtv.com/wsbk/" name="wsbk" target="" onclick="">World Superbike</a></li></ul>
                                     
                                 </td>
                                 <td class="subright">
                                     <div>Latest Headlines: Moto-Racing</div>
                                     <ul>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/ama-sbk-jordan-suzuki-confirms-team-alignments/"> &gt; AMA SBK: Jordan Suzuki Confirms Team Alignments…</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/ama-sbk-josh-hayes-pt-ii-the-mat-factor/"> &gt; AMA SBK: Josh Hayes Pt. II - The Mat Factor…</a></li>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/motogp-jorge-premiers-in-madrid/"> &gt; MOTOGP: 'Jorge' Premiers In Madrid</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/ama-flat-track-mess-unmatched-in-michigan/"> &gt; AMA FLAT TRACK: Mess Unmatched In Michigan…</a></li>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/motogp-aragon-claims-irta-best-grand-prix-honor/"> &gt; MOTOGP: Aragon Claims IRTA 'Best Grand…</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/wss-scassa-back-in-business/"> &gt; WSS: Scassa Back In Business</a></li>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/motogp-house-call-pt-2/"> &gt; MOTOGP: House Call Pt. 2</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/motogp-six-new-teams-selected-for-2012/"> &gt; MOTOGP: Six New Teams Selected For 2012…</a></li>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/ama-flat-track-flat-track-legend-carr-announces-farwell-tour/"> &gt; AMA FLAT TRACK: Flat Track Legend Carr…</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/ama-sbk-the-case-for-blake-young/"> &gt; AMA SBK: The Case For Blake Young</a></li>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/ama-sx-dungey-looks-to-make-more-history/"> &gt; AMA SX: Dungey Looks To Make More History…</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/ama-mx-the-pit-board-high-point/"> &gt; AMA MX: The Pit Board - High Point</a></li>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/motogp-house-call-pt-1/"> &gt; MOTOGP: House Call Pt. 1</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/wsbk-melandri-takes-prior-race-experience-to-aragon/"> &gt; WSBK: Melandri Takes Race Experience To…</a></li>
                                     
-                                        <li><a href="http://moto-racing.speedtv.com/article/wsbk-former-champ-toseland-excited-about-s-1000-rrs-potential/"> &gt; WSBK: Former Champ Toseland Excited About…</a></li>
+                                        <li><a href="http://moto-racing.speedtv.com/article/ama-sbk-josh-hayes-from-underdog-to-overdog/"> &gt; AMA SBK: Hayes - From Underdog To Overdog…</a></li>
                                     
                                     </ul>
                                 </td>
@@ -617,28 +736,28 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://automotive.speedtv.com/automotive-lifestyle/" name="automotive-lifestyle" target="" onclick="">Lifestyle</a></li><li><a href="http://automotive.speedtv.com/new-models-automotive/" name="new-models-automotive" target="" onclick="">New Models</a></li><li><a href="http://automotive.speedtv.com/technology-automotive/" name="technology-automotive" target="" onclick="">Technology</a></li><li><a href="http://automotive.speedtv.com/automotive-consumer/" name="automotive-consumer" target="" onclick="">Consumer</a></li><li><a href="http://automotive.speedtv.com/industry-automotive/" name="industry-automotive" target="" onclick="">Industry</a></li><li><a href="http://automotive.speedtv.com/green/" name="green" target="" onclick="">Green</a></li><li><a href="http://www.speedtv.com/news-archive/category/automotive/" name="news" target="" onclick="">News</a></li><li><a href="http://www.barrett-jackson.com" name="barrett-jackson.com" target="_new" onclick="">Barrett-Jackson.com</a></li><li class="last"><a href="http://www.speedtv.com/programs/my-classic-car" name="my_classic_car" target="" onclick="">My Classic Car</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://automotive.speedtv.com/automotive-lifestyle/" name="automotive-lifestyle" target="" onclick="">Lifestyle</a></li><li><a href="http://automotive.speedtv.com/new-models-automotive/" name="new-models-automotive" target="" onclick="">New Models</a></li><li><a href="http://automotive.speedtv.com/technology-automotive/" name="technology-automotive" target="" onclick="">Technology</a></li><li><a href="http://automotive.speedtv.com/automotive-consumer/" name="automotive-consumer" target="" onclick="">Consumer</a></li><li><a href="http://automotive.speedtv.com/industry-automotive/" name="industry-automotive" target="" onclick="">Industry</a></li><li><a href="http://automotive.speedtv.com/green/" name="green" target="" onclick="">Green</a></li><li><a href="http://www.speedtv.com/news-archive/category/automotive/" name="news" target="" onclick="">News</a></li><li><a href="http://www.barrett-jackson.com" name="barrett-jackson.com" target="_new" onclick="">Barrett-Jackson.com</a></li><li><a href="http://www.speedtv.com/video/cars/engine-block" name="engine_block_videos" target="" onclick="">Engine Block Videos</a></li><li><a href="http://www.speedtv.com/video/cars/test-drive" name="test_drive_videos" target="" onclick="">Test Drive Videos</a></li><li class="last"><a href="http://www.speedtv.com/video/barrett-jackson" name="barrett-jackson_highlights" target="" onclick="">Barrett-Jackson Highlights</a></li></ul>
                                     
                                 </td>
                                 <td class="subright">
                                     <div>Latest Headlines: Automotive</div>
                                     <ul>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/autos-car-truck-of-year-finalists/"> &gt; AUTOS: Car, Truck Of The Year Finalists…</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/autos-bmw-reveals-2012-m5/"> &gt; AUTOS: BMW Rolls Out 2012 M5</a></li>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/green-hendrick-buys-first-chevy-volt/"> &gt; GREEN: Hendrick Buys First Chevy Volt</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/driven-scion-xb-is-so-square-its-cool/"> &gt; DRIVEN: Scion xB Is So Square, It's Cool…</a></li>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/speed-launching-most-aggressive-prime-time-programming-initiative-in-networ/"> &gt; SPEED™ Launching Most Aggressive…</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/autos-zenvo-supercar-set-for-us-sale/"> &gt; AUTOS: Zenvo Supercar Set For U.S. Sale…</a></li>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/autos-rally-to-start-up-barrett-jackson/"> &gt; AUTOS: Rally To Start Up Barrett-Jackson…</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/autos-another-chinese-partner-for-saab/"> &gt; AUTOS: Another Chinese Partner For Saab?…</a></li>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/driven-audi-q5-scores-top-grades/"> &gt; DRIVEN: Audi Q5 Scores Top Grades</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/autos-barrett-jackson-readies-oc-auction/"> &gt; AUTOS: Barrett-Jackson Readies OC Auction…</a></li>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/autos-domestics-raise-reliability-image/"> &gt; AUTOS: Domestics Raise Reliability Image…</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/autos-porsches-that-get-driven-every-day/"> &gt; AUTOS: Porsches That Get Driven Every Day…</a></li>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/autos-car-auctions-dispute-site-plan/"> &gt; AUTOS: Auctions Face Off Over Site Plan…</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/autos-best-of-the-web82/"> &gt; AUTOS: Best Of The Web</a></li>
                                     
-                                        <li><a href="http://automotive.speedtv.com/article/autos-honda-teases-with-civic-sketch/"> &gt; AUTOS: Honda Teases With Civic Sketch</a></li>
+                                        <li><a href="http://automotive.speedtv.com/article/autos-carroll-shelbys-le-mans-triumph/"> &gt; AUTOS: Carroll Shelby's Le Mans Triumph…</a></li>
                                     
                                     </ul>
                                 </td>
@@ -656,28 +775,28 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://motorcycling.speedtv.com/motorcycling-lifestyles/" name="motorcycling-lifestyles" target="" onclick="">Lifestyle</a></li><li><a href="http://motorcycling.speedtv.com/motorcycling-new-models/" name="motorcycling-new-models" target="" onclick="">New Models</a></li><li><a href="http://motorcycling.speedtv.com/destinations/" name="destinations" target="" onclick="">Destinations</a></li><li><a href="http://motorcycling.speedtv.com/gearbag/" name="gearbag" target="" onclick="">Gearbag</a></li><li><a href="http://www.speedtv.com/feature/wsbk-in-focus/" name="wsbk_in_focus" target="" onclick="">WSBK in Focus</a></li><li><a href="http://www.speedtv.com/feature/honda-moto2" name="honda_moto2_spotlight" target="" onclick="">Honda Moto2 Spotlight</a></li><li><a href="http://www.speedtv.com/feature/speed-bike-build-yamaha-r6" name="yamaha_r6_project_bike" target="" onclick="">Yamaha R6 Project Bike</a></li><li class="last"><a href="http://www.speedtv.com/news-archive/category/motorcycling/" name="bikes_archive" target="" onclick="">Bikes Archive</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://motorcycling.speedtv.com/motorcycling-lifestyles/" name="motorcycling-lifestyles" target="" onclick="">Lifestyle</a></li><li><a href="http://motorcycling.speedtv.com/motorcycling-new-models/" name="motorcycling-new-models" target="" onclick="">New Models</a></li><li><a href="http://motorcycling.speedtv.com/destinations/" name="destinations" target="" onclick="">Destinations</a></li><li><a href="http://motorcycling.speedtv.com/gearbag/" name="gearbag" target="" onclick="">Gearbag</a></li><li><a href="http://www.speedtv.com/feature/honda-cbr-1000rr" name="honda_cbr1000rr" target="" onclick="">Honda CBR1000RR</a></li><li><a href="http://www.speedtv.com/feature/yamaha-experience" name="gytr_yamaha_experience" target="" onclick="">GYTR Yamaha Experience</a></li><li><a href="http://www.speedtv.com/video/bikes/test-rides" name="motorcycling_videos" target="" onclick="">Motorcycling Videos</a></li><li class="last"><a href="http://www.speedtv.com/news-archive/category/motorcycling/" name="bikes_archive" target="" onclick="">Bikes Archive</a></li></ul>
                                     
                                 </td>
                                 <td class="subright">
                                     <div>Latest Headlines: Motorcycling</div>
                                     <ul>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-miller-motorsports-park-announces-2011-schedule/"> &gt; BIKES: Miller Motorsports Park Announces…</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-spies-and-edwards-auction-items-for-children/"> &gt; BIKES: Spies And Edwards Auction Items…</a></li>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-2011-star-stryker-first-ride/"> &gt; BIKES: 2011 Star Stryker First Ride</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-introducing-schwantz-school-lites/"> &gt; BIKES: Introducing Schwantz School Lites…</a></li>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/gearbag-flexit-light/"> &gt; GEARBAG: FLEXiT Light</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-stay-a-hero-stay-safe-campaign/"> &gt; BIKES: "Stay A Hero, Stay Safe" Campaign…</a></li>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-have-wrenches-will-travel-vintage-motorcycles/"> &gt; BIKES: Have Wrenches, Will Travel</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-ride-for-our-heroes/"> &gt; BIKES: Ride For Our Heroes</a></li>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-ducati-announces-the-2011-diavel-in-diamond-black/"> &gt; BIKES: Ducati Announces The 2011 Diavel…</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/ama-coolbeth-and-harley-team-second-on-hartford-half-mile/"> &gt; AMA: Coolbeth And Harley Team Second On…</a></li>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-the-little-book-of-fast-bikes-by-jon-stroud/"> &gt; BIKES: “The Little Book of Fast Bikes”…</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-cornerspeed-summer-special/"> &gt; BIKES: Cornerspeed Summer Special</a></li>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-2011-victory-motorcycle-introduced-in-gateway-colorado/"> &gt; BIKES: 2011 Victory Motorcycles Introduced…</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/ama-maine-adopts-practical-test-for-measuring-motorcycle-sound/"> &gt; AMA: Maine Adopts A Practical Test For…</a></li>
                                     
-                                        <li><a href="http://motorcycling.speedtv.com/article/bikes-triumph-returns-to-progressive-international-motorcycle-shows/"> &gt; BIKES: Triumph Returns To Progressive®…</a></li>
+                                        <li><a href="http://motorcycling.speedtv.com/article/ama-vintage-motorcycle-days-to-feature-north-americas-largest-motorcycle-sw/"> &gt; AMA: Vintage Motorcycle Days To Feature…</a></li>
                                     
                                     </ul>
                                 </td>
@@ -694,7 +813,7 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://www.speedtv.com/feature/speed-store-discount/" name="65%_off_sale" target="_new" onclick="">65% Off Sale</a></li><li><a href="http://www.shopspeedtv.com/" name="speed_apparel" target="" onclick="">SPEED Apparel</a></li><li><a href="http://www.pinksalloutpitshop.com/  " name="pinks_all_out_apparel" target="_new" onclick="">PINKS All Out Apparel</a></li><li><a href="http://store.nascar.com/category/index.jsp?categoryId=3893104" name="nascar_on_speed_store" target="_new" onclick="">NASCAR on SPEED Store</a></li><li><a href="http://www.shopspeedtv.com/catalog/category/category/dvd-accessories" name="dvds_&amp;_accessories" target="" onclick="">DVDs &amp; Accessories</a></li><li><a href="http://speedtvbooks.com/" name="books" target="" onclick="">Books</a></li><li class="last"><a href="http://speed.racingjunk.com/" name="classifieds" target="_new" onclick="">Classifieds</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://www.shopspeedtv.com/" name="speed_apparel" target="" onclick="">SPEED Apparel</a></li><li><a href="http://www.speedtv.com/deals" name="exclusive_ticket_deals" target="" onclick="">Exclusive Ticket Deals</a></li><li><a href="http://www.pinksalloutpitshop.com/  " name="pinks_all_out_apparel" target="_new" onclick="">PINKS All Out Apparel</a></li><li><a href="http://store.nascar.com/category/index.jsp?categoryId=3893104" name="nascar_on_speed_store" target="_new" onclick="">NASCAR on SPEED Store</a></li><li><a href="http://www.shopspeedtv.com/catalog/category/category/dvd-accessories" name="dvds_&amp;_accessories" target="" onclick="">DVDs &amp; Accessories</a></li><li><a href="http://speedtvbooks.com/" name="books" target="" onclick="">Books</a></li><li class="last"><a href="http://speed.racingjunk.com/" name="classifieds" target="_new" onclick="">Classifieds</a></li></ul>
                                     
                                 </td>
                             </tr>
@@ -726,7 +845,7 @@ function selectToggle(d) {
                             <tbody><tr>
                                 <td class="subleft">
                                     
-                                    <ul class="subnav"><li class="first"><a href="http://www.speedtv.com/nascar-trivia/" name="nascar_trivia" target="_new" onclick="window.open(&quot;http://www.speedtv.com/nascar-trivia/&quot;, &quot;&quot;, &quot;scrollbars=no,resizable=no,status=no,toolbar=no,menubar=no,location=no,addressbar=no,width=800,height=580&quot;);  return false;">NASCAR Trivia</a></li><li><a href="http://www.speedtv.com/formula-one-trivia/" name="grand_prix_trivia" target="_new" onclick="window.open(&quot;http://www.speedtv.com/formula-one-trivia/&quot;, &quot;&quot;, &quot;scrollbars=no,resizable=no,status=no,toolbar=no,menubar=no,location=no,addressbar=no,width=800,height=580&quot;);  return false;">Grand Prix Trivia</a></li><li class="last"><a href="http://www.speedtv.com/barrett-jackson-trivia/" name="barrett-jackson_trivia" target="_new" onclick="window.open(&quot;http://www.speedtv.com/barrett-jackson-trivia/&quot;, &quot;&quot;, &quot;scrollbars=no,resizable=no,status=no,toolbar=no,menubar=no,location=no,addressbar=no,width=800,height=580&quot;);  return false;">Barrett-Jackson Trivia</a></li></ul>
+                                    <ul class="subnav"><li class="first"><a href="http://gpedition.speedfantasyracing.com/" name="gp_fantasy_racing" target="_new" onclick="">GP Fantasy Racing</a></li><li><a href="https://windtunnel.fmfl.net/Login.aspx" name="wind_tunnel_super_7" target="" onclick="">Wind Tunnel Super 7</a></li><li><a href="http://www.speedtv.com/nascar-trivia/" name="nascar_trivia" target="_new" onclick="window.open(&quot;http://www.speedtv.com/nascar-trivia/&quot;, &quot;&quot;, &quot;scrollbars=no,resizable=no,status=no,toolbar=no,menubar=no,location=no,addressbar=no,width=800,height=580&quot;);  return false;">NASCAR Trivia</a></li><li><a href="http://www.speedtv.com/formula-one-trivia/" name="grand_prix_trivia" target="_new" onclick="window.open(&quot;http://www.speedtv.com/formula-one-trivia/&quot;, &quot;&quot;, &quot;scrollbars=no,resizable=no,status=no,toolbar=no,menubar=no,location=no,addressbar=no,width=800,height=580&quot;);  return false;">Grand Prix Trivia</a></li><li class="last"><a href="http://www.speedtv.com/barrett-jackson-trivia/" name="barrett-jackson_trivia" target="_new" onclick="window.open(&quot;http://www.speedtv.com/barrett-jackson-trivia/&quot;, &quot;&quot;, &quot;scrollbars=no,resizable=no,status=no,toolbar=no,menubar=no,location=no,addressbar=no,width=800,height=580&quot;);  return false;">Barrett-Jackson Trivia</a></li></ul>
                                     
                                 </td>
                             </tr>
@@ -740,8 +859,8 @@ function selectToggle(d) {
                
             </li>
             <li id="light_divider"></li>
-            <li id="podcasts" class="lt_grey">
-                                    <a class="centerNavText" href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=263028877" title="Check out the latest SPEED podcasts on iTunes">Podcast</a>
+            <li id="deals" class="lt_grey">
+                                    <a class="centerNavText" href="http://www.speedtv.com/deals" title="Speed.com Deals">Deals</a>
             </li>
             <li id="light_divider"></li>
             <li id="videos" class="lt_grey">
@@ -756,7 +875,7 @@ function selectToggle(d) {
         </div>
     <div class="sub">
         
-        <!-- SUBNAV / privacy--><ul class="tier2"><li id="first"><a href="http://my.speedtv.com" title="My SPEED" name="my_speed" target="" onclick="">My SPEED</a></li><li><a href="http://www.speedtv.com/programs/primetime" title="SPEED Primetime" name="speed_primetime" target="" onclick="">SPEED Primetime</a></li><li><a href="http://www.shopspeedtv.com/" title="65% Off Sale" name="65%_off_sale" target="_new" onclick="">65% Off Sale</a></li><li><a href="http://www.speeddreamride.com" title="SPEED Dream Ride" name="speed_dream_ride" target="" onclick="">SPEED Dream Ride</a></li><li><a href="http://www.speedtv.com/feedback" title="FAQ" name="faq" target="" onclick="">FAQ</a></li><li><a href="http://msn.foxsports.com/" title="FOX Sports" name="fox_sports" target="" onclick="">FOX Sports</a></li><li><a href="http://www.speedtv.com/games/" title="Games" name="games" target="_new" onclick="">Games</a></li><li><a href="http://www.speedtv.com/news-archive/" title="News Archive" name="news_archive" target="" onclick="">News Archive</a></li><li><a href="http://www.speedtv.com/feature/chat/" title="Chat" name="chat" target="" onclick="">Chat</a></li></ul>
+        <!-- SUBNAV / privacy--><ul class="tier2"><li id="first"><a href="http://www.speedtv.com/programs/primetime" title="SPEED Primetime" name="speed_primetime" target="" onclick="">SPEED Primetime</a></li><li><a href="https://windtunnel.fmfl.net/Login.aspx" title="Super 7" name="super_7" target="_new" onclick="">Super 7</a></li><li><a href="http://www.speedtv.com/programs/motogp-world-championship" title="MotoGP" name="motogp" target="" onclick="">MotoGP</a></li><li><a href="http://www.speedtv.com/programs/nascar-race-hub" title="NASCAR Race Hub" name="nascar_race_hub" target="" onclick="">NASCAR Race Hub</a></li><li><a href="http://msn.foxsports.com/" title="FOX Sports" name="fox_sports" target="" onclick="">FOX Sports</a></li><li><a href="http://www.speedfantasyracing.com" title="Fantasy Racing" name="fantasy_racing" target="" onclick="">Fantasy Racing</a></li><li><a href="http://www.speedtv.com/games/" title="Games" name="games" target="_new" onclick="">Games</a></li><li><a href="http://www.speedtv.com/news-archive/" title="News Archive" name="news_archive" target="" onclick="">News Archive</a></li><li><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=263028877" title="Podcasts" name="podcasts" target="_new" onclick="">Podcasts</a></li><li><a href="http://www.speedtv.com/feature/chat/" title="Chat" name="chat" target="" onclick="">Chat</a></li><li><a href="http://www.speedtv.com/faq" title="FAQ" name="faq" target="" onclick="">FAQ</a></li></ul>
         
     </div>
     <div style="clear: both;"> </div>
@@ -767,8 +886,14 @@ function selectToggle(d) {
     <div class="container" id="darkred">
     
 
-        <div class="ad_info_block">
-            <div class="leaderboard_widget"><!-- speedtv, privacy --><script language="JavaScript">
+ 
+        
+    
+
+        
+    <div class="ad_info_block ad_info_block_tall">    
+        <div class="leaderboard_widget">
+            <!-- speedtv, privacy --><script language="JavaScript">
 dc_tile = dc_tile + 1;
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0 || navigator.userAgent.indexOf("MSIE 6") >= 0)
 {
@@ -782,9 +907,10 @@ if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || nav
 <A HREF="http://ad.doubleclick.net/jump/sptv.speedtv/privacy;abr=ie6;abr=ie5;abr=ie4;sz=225x90;tile=' + dc_tile + ';ord=123456789?" TARGET="_blank">
 	<IMG SRC="http://ad.doubleclick.net/ad/sptv.speedtv/privacy;abr=ie6;abr=ie5;abr=ie4;sz=225x90;tile=' + dc_tile + ';ord=123456789?" WIDTH="225" HEIGHT="90" BORDER="0" ALT="">
 </A>
-</noscript></div> <!-- programming widget -->
-            <div class="leaderboard_ad" id="page_top_ad">
-                <!-- speedtv, privacy --><script language="JavaScript">
+</noscript>
+        </div> <!-- /leaderboard widget -->
+        <div class="leaderboard_ad" id="page_top_ad">
+            <!-- speedtv, privacy --><script language="JavaScript">
 dc_tile = dc_tile + 1;
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0 || navigator.userAgent.indexOf("MSIE 6") >= 0)
 {
@@ -799,9 +925,13 @@ if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || nav
 	<IMG SRC="http://ad.doubleclick.net/ad/sptv.speedtv/privacy;abr=ie6;abr=ie5;abr=ie4;sz=728x90;tile=' + dc_tile + ';ord=123456789?" WIDTH="728" HEIGHT="90" BORDER="0" ALT="">
 </A>
 </noscript>
-            </div>
-        </div>
+        </div><!--  /leaderboard_ad -->
+</div><!-- /ad_info_block -->
+        
 
+
+
+        
 
                 <div class="content">
 
@@ -1096,145 +1226,155 @@ You may also request a written response to your concerns, which will be made no 
 
 
 <div id="clear"></div>		
-	<div class="footer_container">
+<div class="footer_container">
 	<div class="footer">
-	<div class="footer_inner_container">
-		<ul class="breadcrumbs">
-		<li class="home">
-		   <a href="http://www.speedtv.com/">Speedtv.com</a>
-		</li>
+        <div class="footer_inner_container">
+        <ul id="breadcrumb-footer">
+			<li class="home">
+				<a href="#">SPEED.com Home</a>
+			</li>
 		<li>Privacy</li>			
 	
 	</ul>
 	
 	
 	
-	<ul>
-		<li>
-        <div id="sp_site_links" title="Speedtv.com Site Links">
-            <div class="first_seo_div">
-            <h3>Content Hubs</h3>
-            <ul title="Content Hubs">
-            <li title="NASCAR"><a href="http://nascar.speedtv.com/" title="NASCAR">NASCAR</a></li>
-            <li title="FORMULA ONE"><a href="http://formula-one.speedtv.com/" title="FORMULA ONE">FORMULA 1</a></li>
-            <li title="AUTO RACING"><a href="http://auto-racing.speedtv.com/" title="AUTO RACING">AUTO RACING</a></li>
-            <li title="MOTO RACING"><a href="http://moto-racing.speedtv.com/" title="MOTO RACING">MOTO RACING</a></li>
-            <li title="CARS"><a href="http://automotive.speedtv.com/" title="CARS">CARS</a></li>
-            <li title="BIKES"><a href="http://motorcycling.speedtv.com/" title="BIKES">BIKES</a></li>
-            <li title="GAMES"><a href="http://www.speedtv.com/games/" title="GAMES">GAMES</a></li>
-            <li title="COMMUNITY"><a href="http://my.speedtv.com" title="COMMUNITY">COMMUNITY</a></li>
-            <li title="VIDEO"><a href="http://www.speedtv.com/video" title="VIDEO">VIDEO</a></li>
-            <li title="PHOTOS"><a href="http://www.speedtv.com/gallery/" title="PHOTOS">PHOTOS</a></li>
-            <li title="TV SCHEDULE"><a href="http://www.speedtv.com/schedule" title="TV SCHEDULE">TV SCHEDULE</a></li>
-            </ul>
-            </div>
-        
-            <div class="last_seo_div">
-            <h3>Racing News</h3>
-            <ul title="Racing News">
-            <li title="Formula One"><a href="http://formula-one.speedtv.com/f1/" title="Formula One">Formula 1</a></li>
-            <li title="IndyCar"><a href="http://auto-racing.speedtv.com/indy-car/" title="IndyCar">IndyCar</a></li>
-            <li title="Sprint Cup"><a href="http://nascar.speedtv.com/sprint-cup/" title="Sprint Cup">Sprint Cup</a></li>
-            <li title="Nationwide"><a href="http://nascar.speedtv.com/nationwide/" title="Nationwide">Nationwide</a></li>
-            <li title="Camping World Trucks"><a href="http://nascar.speedtv.com/camping-world-trucks/" title="Camping World Trucks">Camping World Trucks</a></li>
-            <li title="American Le Mans"><a href="http://auto-racing.speedtv.com/lemans-alms/" title="American Le Mans">ALMS</a></li>
-            <li title="Grand-Am"><a href="http://auto-racing.speedtv.com/grand-am/" title="Grand-Am">GRAND AM</a></li>
-            <li title="NHRA"><a href="http://auto-racing.speedtv.com/nhra/" title="NHRA">NHRA</a></li>
-            <li title="World of Outlaws"><a href="http://auto-racing.speedtv.com/world-of-outlaws/" title="World of Outlaws">World of Outlaws</a></li>
-            <li title="V8 Supercars"><a href="http://news.speedtv.com/page/australian-v8-supercars" title="V8 Supercars">V8 Supercars</a></li>
-            <li title="ARCA"><a href="http://auto-racing.speedtv.com/arca/" title="ARCA">ARCA</a></li>
-            <li title="AMA Supercross"><a href="http://moto-racing.speedtv.com/ama-supercross-motocross/" title="AMA Motocross">AMA Supercross</a></li>
-            <li title="AMA Superbike"><a href="http://moto-racing.speedtv.com/ama-superbike/" title="AMA Superbike">AMA Superbike</a></li>
-            <li title="World Superbike"><a href="http://moto-racing.speedtv.com/wsbk/" title="World Superbike">World Superbike</a></li>
-            </ul>
-            </div>
-        
-            <div class="last_seo_div">
-            <h3>SPEEDwire</h3>
-            <ul title="SPEEDwire and Mobile">
-            <li title="RSS Feeds"><a href="http://www.speedtv.com/feature/speedwire/" title="RSS Feeds">RSS Feeds</a></li>
-            <li title="Widgets"><a href="http://www.speedtv.com/feature/speedwire/" title="Widgets">Widgets</a></li>
-            <li title="SPEED Radio"><a href="http://my.speedtv.com/rob_damico" title="SPEED Radio">SPEED Radio</a></li>
-            <li title="SPEED Mobile"><a href="http://www.speedtv.com/feature/mobile/" title="SPEED Mobile">SPEED Mobile</a></li>
-            <li title="Podcasts"><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=263028877" title="Podcasts">Podcasts</a></li>
-            <li title="Alerts"><a href="http://www.speedtv.com/feature/mobile/" title="Alerts">SMS Alerts</a></li>
-            <li>&nbsp;</li>
+            <ul>
+                <li style="list-style:none;">
+                    <div title="Speedtv.com Site Links" id="sp_site_links">
+                        <div class="first_seo_div">
+			            <h3>Content Hubs</h3>
+			            <ul title="Content Hubs">
+			            <li title="NASCAR"><a href="http://nascar.speedtv.com/" title="NASCAR">NASCAR</a></li>
+			            <li title="FORMULA ONE"><a href="http://formula-one.speedtv.com/" title="FORMULA ONE">FORMULA 1</a></li>
+			            <li title="AUTO RACING"><a href="http://auto-racing.speedtv.com/" title="AUTO RACING">AUTO RACING</a></li>
+			            <li title="MOTO RACING"><a href="http://moto-racing.speedtv.com/" title="MOTO RACING">MOTO RACING</a></li>
+			            <li title="CARS"><a href="http://automotive.speedtv.com/" title="CARS">AUTOMOTIVE NEWS</a></li>
+			            <li title="BIKES"><a href="http://motorcycling.speedtv.com/" title="BIKES">MOTORCYCLING NEWS</a></li>
+			            <li title="GAMES"><a href="http://www.speedtv.com/games/" title="GAMES">GAMES</a></li>
+			            <li title="COMMUNITY"><a href="http://my.speedtv.com" title="COMMUNITY">COMMUNITY</a></li>
+			            <li title="VIDEO"><a href="http://www.speedtv.com/video" title="VIDEO">VIDEO</a></li>
+			            <li title="PHOTOS"><a href="http://www.speedtv.com/gallery/" title="PHOTOS">PHOTOS</a></li>
+			            <li title="TV SCHEDULE"><a href="http://www.speedtv.com/schedule" title="TV SCHEDULE">TV SCHEDULE</a></li>
+			            </ul>
+			            </div>
+
+			            <div class="last_seo_div">
+			            <h3>Racing News</h3>
+			            <ul title="Racing News">
+			            <li title="Formula One"><a href="http://formula-one.speedtv.com/f1/" title="Formula One">Formula 1</a></li>
+			            <li title="IndyCar"><a href="http://auto-racing.speedtv.com/indy-car/" title="IndyCar">IndyCar</a></li>
+			            <li title="Sprint Cup"><a href="http://nascar.speedtv.com/sprint-cup/" title="Sprint Cup">Sprint Cup</a></li>
+			            <li title="Nationwide"><a href="http://nascar.speedtv.com/nationwide/" title="Nationwide">Nationwide</a></li>
+			            <li title="Camping World Trucks"><a href="http://nascar.speedtv.com/camping-world-trucks/" title="Camping World Trucks">Camping World Trucks</a></li>
+			            <li title="American Le Mans"><a href="http://auto-racing.speedtv.com/lemans-alms/" title="American Le Mans">ALMS</a></li>
+			            <li title="Grand-Am"><a href="http://auto-racing.speedtv.com/grand-am/" title="Grand-Am">GRAND AM</a></li>
+			            <li title="NHRA"><a href="http://auto-racing.speedtv.com/nhra/" title="NHRA">NHRA</a></li>
+			            <li title="World of Outlaws"><a href="http://auto-racing.speedtv.com/world-of-outlaws/" title="World of Outlaws">World of Outlaws</a></li>
+			            <li title="V8 Supercars"><a href="http://news.speedtv.com/page/australian-v8-supercars" title="V8 Supercars">V8 Supercars</a></li>
+			            <li title="MotoGP"><a href="http://moto-racing.speedtv.com/moto-gp/" title="MotoGP">MotoGP</a></li>
+			            <li title="AMA Supercross"><a href="http://moto-racing.speedtv.com/ama-supercross-motocross/" title="AMA Motocross">AMA Supercross</a></li>
+			            <li title="AMA Superbike"><a href="http://moto-racing.speedtv.com/ama-superbike/" title="AMA Superbike">AMA Superbike</a></li>
+			            <li title="World Superbike"><a href="http://moto-racing.speedtv.com/wsbk/" title="World Superbike">World Superbike</a></li>
+			            </ul>
+			            </div>
+
+			            <div class="last_seo_div">
+			            <h3>SPEEDwire</h3>
+			            <ul title="SPEEDwire and Mobile">
+			            <li title="RSS Feeds"><a href="http://www.speedtv.com/feature/speedwire/" title="RSS Feeds">RSS Feeds</a></li>
+			            <li title="Widgets"><a href="http://www.speedtv.com/feature/speedwire/" title="Widgets">Widgets</a></li>
+			            <li title="SPEED Radio"><a href="http://my.speedtv.com/rob_damico" title="SPEED Radio">SPEED Radio</a></li>
+			            <li title="SPEED Mobile"><a href="http://www.speedtv.com/feature/mobile/" title="SPEED Mobile">SPEED Mobile</a></li>
+			            <li title="Podcasts"><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=263028877" title="Podcasts">SPEED Podcasts</a></li>
+			            <li title="Alerts"><a href="http://www.speedtv.com/feature/mobile/" title="Alerts">SMS Alerts</a></li>
+			            <li>&nbsp;</li>
+									</ul>
+									<h3>More</h3>
+			            <ul title="More">
+			            <!--<li title="Race Tickets"><a href="#" title="Race Tickets">Race Tickets</a></li>-->
+			            <li title="SPEED Fanatics"><a href="http://my.speedtv.com/fanatics" title="SPEED Fanatics">SPEED Fanatics</a></li>
+			            <li title="Fantasy Racing"><a href="http://www.speedtv.com/games/" title="Fantasy Racing">Fantasy Racing</a></li>
+			            <li title="Trivia"><a href="http://www.speedtv.com/games/" title="Trivia">Trivia</a></li>
+						<li title="Chat"><a href="http://www.speedtv.com/feature/chat/" title="Chat">Chat</a></li>
+						<li title="FAQs"><a href="http://www.speedtv.com/faq/" title="FAQs">FAQs</a></li>
+						<li title="SPEED on Facebook"><a href="http://www.facebook.com/speed" title="SPEED on Facebook">SPEED on Facebook</a></li>
+						<li title="SPEED on Twitter"><a href="http://www.twitter.com/speed" title="SPEED on Twitter">SPEED on Twitter</a></li>
 						</ul>
-						<h3>More</h3>
-            <ul title="More">
-            <!--<li title="Race Tickets"><a href="#" title="Race Tickets">Race Tickets</a></li>-->
-            <li title="SPEED Fanatics"><a href="http://my.speedtv.com/fanatics" title="SPEED Fanatics">SPEED Fanatics</a></li>
-            <li title="Fantasy Racing"><a href="http://www.speedtv.com/games/" title="Fantasy Racing">Fantasy Racing</a></li>
-            <li title="Trivia"><a href="http://www.speedtv.com/games/" title="Trivia">Trivia</a></li>
-			<li title="Chat"><a href="http://www.speedtv.com/feature/chat/" title="Chat">Chat</a></li>
-			<li title="FAQs"><a href="http://www.speedtv.com/faq/" title="FAQs">FAQs</a></li>
-			<li title="SPEED on Facebook"><a href="http://www.facebook.com/speed" title="SPEED on Facebook">SPEED on Facebook</a></li>
-			<li title="SPEED on Twitter"><a href="http://www.twitter.com/speed" title="SPEED on Twitter">SPEED on Twitter</a></li>
-			</ul>
-            </div>
-        
-            <div class="last_seo_div">
-            <h3>SPEED Video</h3>
-            <ul title="SPEED Video">
-            <li title="Formula 1"><a href="http://www.speedtv.com/video/formula-1" title="Formula 1">Formula 1</a></li>
-            <li title="NASCAR"><a href="http://www.speedtv.com/video/nascar" title="NASCAR">NASCAR</a></li>
-            <li title="Auto Racing"><a href="http://www.speedtv.com/video/auto-racing" title="Auto Racing">Auto Racing</a></li>
-            <li title="Moto Racing"><a href="http://www.speedtv.com/video/moto-racing" title="Moto Racing">Moto Racing</a></li>
-            <li title="TV Shows"><a href="http://www.speedtv.com/video/tv-shows" title="TV Shows">TV Shows</a></li>
-            <li title="Bikes"><a href="http://www.speedtv.com/video/bikes" title="Bikes">Bikes</a></li>
-            <li title="Cars"><a href="http://www.speedtv.com/video/cars" title="Cars">Cars</a></li>
-            <li title="Wind Tunnel"><a href="http://www.speedtv.com/video/windtunnel" title="Wind Tunnel">Wind Tunnel</a></li>
-            <li title="Barrett-Jackson"><a href="http://www.speedtv.com/video/barrett-jackson" title="Barrett-Jackson">Barrett-Jackson</a></li>
-            <li title="Most Popular"><a href="http://www.speedtv.com/video/most-popular" title="Most Popular">Most Popular</a></li>
-            <li title="SPEED on Hulu"><a href="http://www.hulu.com/search?query=SPEED&amp;st=0&amp;fs=" title="SPEED on Hulu">SPEED on Hulu</a></li>
-            <li title="Podcasts"><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=263028877" title="Podcasts">Podcasts</a></li> 
-	        </ul>
-    	    </div>
-        
-            <div class="last_seo_div">
-        	<h3>SPEED Primetime</h3>
-            <ul title="SPEED Primetime">
-            <li title="Primetime"><a href="http://www.speedtv.com/programs/primetime" title="Primetime">Primetime</a></li>
-            <li title="Dream Ride"><a href="http://www.speeddreamride.com/" title="Dream Ride">Dream Ride</a></li>
-            <li title="PINKS All Out"><a href="http://www.speedtv.com/programs/pinks-all-out/" title="PINKS All Out">PINKS All Out</a></li>
-            <li title="SPEED Report"><a href="http://www.speedtv.com/programs/the-speed-report/" title="SPEED Report">The SPEED Report</a></li>
-            <li title="Wind Tunnel"><a href="http://www.speedtv.com/programs/wind-tunnel-with-dave-despain" title="Wind Tunnel">Wind Tunnel</a></li>
-            <li title="Stealth Rider"><a href="http://www.speedtv.com/programs/stealth-rider" title="Stealth Rider">Stealth Rider</a></li>
-            <li title="Battle of the Supercars"><a href="http://www.speedtv.com/programs/battle-of-the-supercars" title="Battle of the Supercars">Battle of the Supercars</a></li>
-            <li title="Wheel Wars"><a href="http://www.speedtv.com/programs/wheel-wars" title="Wheel Wars">Wheel Wars</a></li>
-            <li title="Barrett-Jackson"><a href="http://www.speedtv.com/programs/barrett-jackson-automobile-auction" title="Barrett-Jackson">Barrett-Jackson</a></li>
-            <li title="Intersections"><a href="http://www.speedtv.com/programs/intersections" title="Intersections">Intersections</a></li>
-            <li title="Pass Time"><a href="http://www.speedtv.com/programs/pass-time/" title="Pass Time">Pass Time</a></li>
-						<li>&nbsp;</li>
-            <li title="...all SPEED shows"><a href="http://www.speedtv.com/programs/" title="...all SPEED shows">...all SPEED shows</a></li>
+			            </div>
+
+			            <div class="last_seo_div">
+			            <h3>SPEED Video</h3>
+			            <ul title="SPEED Video">
+			            <li title="Formula 1"><a href="http://www.speedtv.com/video/formula-1" title="Formula 1">Formula 1</a></li>
+			            <li title="NASCAR"><a href="http://www.speedtv.com/video/nascar" title="NASCAR">NASCAR</a></li>
+			            <li title="Auto Racing"><a href="http://www.speedtv.com/video/auto-racing" title="Auto Racing">Auto Racing</a></li>
+			            <li title="Moto Racing"><a href="http://www.speedtv.com/video/moto-racing" title="Moto Racing">Moto Racing</a></li>
+			            <li title="TV Shows"><a href="http://www.speedtv.com/video/tv-shows" title="TV Shows">TV Shows</a></li>
+			            <li title="Bikes"><a href="http://www.speedtv.com/video/bikes" title="Bikes">Bikes</a></li>
+			            <li title="Cars"><a href="http://www.speedtv.com/video/cars" title="Cars">Cars</a></li>
+			            <li title="Wind Tunnel"><a href="http://www.speedtv.com/video/windtunnel" title="Wind Tunnel">Wind Tunnel</a></li>
+			            <li title="Barrett-Jackson"><a href="http://www.speedtv.com/video/barrett-jackson" title="Barrett-Jackson">Barrett-Jackson</a></li>
+			            <li title="Most Popular"><a href="http://www.speedtv.com/video/most-popular" title="Most Popular">Most Popular</a></li>
+			            <li title="Podcasts"><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=263028877" title="Podcasts">SPEED Podcasts</a></li>
+			            <li title="SPEED on Hulu"><a href="http://www.hulu.com/network/speed" title="SPEED on Hulu">SPEED on Hulu</a></li>
+				        </ul>
+			    	    </div>
+
+			            <div class="last_seo_div">
+			            <h3>SPEED Programs</h3>
+			            
+			            <ul title="Speed Programs">
+			            <li title="Primetime Schedule"><a href="http://www.speedtv.com/programs/filter/originals/" title="Primetime Schedule">Primetime Schedule</a></li>
+			            <li title="Car Warriors"><a href="http://www.speedtv.com/programs/car-warriors" title="Car Warriors">Car Warriors</a></li>
+			            <li title="The 10"><a href="http://www.speedtv.com/programs/the-10" title="The 10">The 10</a></li>
+			            
+			            <li title="Car Science"><a href="http://www.speedtv.com/programs/car-science" title="Car Science">Car Science</a></li>
+						<li title="Speedmakers"><a href="http://www.speedtv.com/programs/speed-makers" title="Speedmakers">Speedmakers</a></li>
+						<li title="American Trucker"><a href="http://www.speedtv.com/programs/american-trucker" title="American Trucker">American Trucker</a></li>
+						<li title="Ticket to Ride"><a href="http://www.speedtv.com/programs/ticket-to-ride/" title="Ticket to Ride">Ticket to Ride</a></li>
+						<li title="Barrett-Jackson"><a href="http://www.speedtv.com/programs/barrett-jackson-automobile-auction/" title="Barrett-Jackson">Barrett-Jackson</a></li>
+						<li title="PINKS All Out"><a href="http://www.speedtv.com/programs/pinks-all-out/" title="PINKS All Out">PINKS All Out</a></li>
+						<li title="Pass Time"><a href="http://www.speedtv.com/programs/pass-time/" title="Pass Time">Pass Time</a></li>
+						<li title="Gearz"><a href="http://www.speedtv.com/programs/gearz/" title="Gearz">Gearz</a></li>
+						<li title="Hot Rod TV"><a href="http://www.speedtv.com/programs/hot-rod-tv/" title="Hot Rod TV">Hot Rod TV</a></li>
+						<li title="Monster Jam"><a href="http://www.speedtv.com/programs/monster-jam/" title="Monster Jam">Monster Jam</a></li>
+						<li title="all Speed Shows"><a href="http://www.speedtv.com/programs/" title="SPEED shows">all SPEED shows</a></li>
+						</ul>
+			            </div>
+
+			            <div class="last_seo_div">
+			        	    <h3>NASCAR</h3>
+			                <ul title="NASCAR on SPEED">
+			                    <li title="NASCAR Race Hub"><a href="http://www.speedtv.com/programs/nascar-race-hub/" title="NASCAR Race Hub">NASCAR Race Hub</a></li>
+			                    <li title="NASCAR RaceDay"><a href="http://www.speedtv.com/programs/nascar-raceday/" title="NASCAR RaceDay">NASCAR RaceDay</a></li>
+			                    <li title="NASCAR Victory Lane"><a href="http://www.speedtv.com/programs/nascar-victory-lane" title="NASCAR Victory Lane">NASCAR Victory Lane</a></li>
+			                    <li title="NASCAR Trackside"><a href="http://www.speedtv.com/programs/nascar-trackside/" title="NASCAR Trackside">NASCAR Trackside</a></li>
+													<li title="The 10"><a href="http://www.speedtv.com/programs/the-10" title="The 10">The 10</a></li>
+													<li title="NASCAR Live"><a href="http://www.speedtv.com/programs/nascar-live" title="NASCAR Live">NASCAR Live</a></li>
+			                    <li title="NASCAR Performance"><a href="http://www.speedtv.com/programs/nascar-performance/" title="NASCAR Performance">NASCAR Performance</a></li>
+			                    <li title="NASCAR on SPEED"><a href="http://www.speedtv.com/programs/nascar-on-speed" title="NASCAR on SPEED">NASCAR on SPEED</a></li>
+						        <li title="...all NASCAR shows"><a href="http://www.speedtv.com/programs/filter/category/73/" title="...all NASCAR shows">...all NASCAR shows</a></li>
+			               									<li>&nbsp;</li>
+			               
+			                </ul>
+							<h3>WEEKEND NEWS</h3>
+			            
+			            	<ul title="Weekend News">
+			            		<li title="Speed Center"><a href="http://www.speedtv.com/programs/speed-center/" title="SPEED Center">SPEED Center</a></li>
+								<li title="Windtunnel"><a href="http://www.speedtv.com/programs/wind-tunnel-with-dave-despain" title="Wind Tunnel">Wind Tunnel</a></li>
+							
+							</ul>
+			             </div>
+                    </div>
+                </li>
             </ul>
-            </div>
-        
-            <div class="last_seo_div">
-        	    <h3>NASCAR on SPEED</h3>
-                <ul title="NASCAR on SPEED">
-                    <li title="NASCAR Race Hub"><a href="http://www.speedtv.com/programs/nascar-race-hub/" title="NASCAR Race Hub">NASCAR Race Hub</a></li>
-                    <li title="NASCAR on SPEED"><a href="http://www.speedtv.com/programs/nascar-on-speed" title="NASCAR on SPEED">NASCAR on SPEED</a></li>
-                    <li title="NASCAR RaceDay"><a href="http://www.speedtv.com/programs/nascar-raceday/" title="NASCAR RaceDay">NASCAR RaceDay</a></li>
-                    <li title="NASCAR Performance"><a href="http://www.speedtv.com/programs/nascar-performance/" title="NASCAR Performance">NASCAR Performance</a></li>
-                    <li title="NASCAR Live"><a href="http://www.speedtv.com/programs/nascar-live" title="NASCAR Live">NASCAR Live</a></li>
-                    <li title="NASCAR Trackside"><a href="http://www.speedtv.com/programs/nascar-trackside/" title="NASCAR Trackside">NASCAR Trackside</a></li>
-                    <li title="NASCAR Victory Lane"><a href="http://www.speedtv.com/programs/nascar-victory-lane" title="NASCAR Victory Lane">NASCAR Victory Lane</a></li>
-			        <li>&nbsp;</li>
-			        <li title="...all NASCAR shows"><a href="http://www.speedtv.com/programs/filter/category/73/" title="...all NASCAR shows">...all NASCAR shows</a></li>
-                </ul>
-                
-             </div>
-             </div>
-            </li>
-           </ul>
-           </div>
-           
-           <!-- Footer Links -->
+        </div>
+<!-- Footer Links -->
            <div style="clear:both"></div>
            <div class="toes">
 	           	<div class="footer_speed_logo">
-	           		<img src="/_assets/img/general/speed_logo_footer.png" alt="SpeedTV">
+	           		<img src="/_assets/img/general/new_speed_logo-footer.png" alt="SpeedTV">
 	           	</div>
 	           	
             
@@ -1242,13 +1382,17 @@ You may also request a written response to your concerns, which will be made no 
 	            	<div class="links">
 	            	
 	            	<a href="http://www.speedtv.com/news-archive/category/press-releases/" target="_self">Press Releases</a> | <a href="http://advertising.speedtv.com" target="_self">Advertising</a> | <a href="http://www.foxcareers.com/" target="_new">Jobs</a> | <a href="http://www.speedtv.com/feedback/" target="_self">Feedback</a> | <a href="http://www.speedtv.com/faq/" target="_self">FAQ</a> | <a href="http://www.speedtv.com/terms/" target="_self">Terms &amp; Conditions</a> | <a href="http://www.speedtv.com/privacy/" target="_self">Privacy</a> | <a href="http://www.speedtv.com/site_map/" target="_self">Site Map</a> <br>
-	            	<a style="font-weight:bold;" href="http://www.foxsports.com" target="_new">Fox Sports</a>  | <a style="font-weight:bold;" href="http://www.fuel.tv" target="_new">FUEL TV</a>  | <a style="font-weight:bold;" href="http://www.fxnetwork.com" target="_new">FX Network</a>  | <a style="font-weight:bold;" href="http://www.nationalgeographic.com" target="_new">National Geographic</a>  | <a style="font-weight:bold;" href="http://www.ign.com" target="_new">IGN</a>  | <a style="font-weight:bold;" href="http://www.askmen.com" target="_new">AskMen</a>  | <a style="font-weight:bold;" href="http://www.honk.com" target="_new">Honk</a>  
+	            	<a style="font-weight:bold;" href="http://www.foxsports.com" target="_new">Fox Sports</a>  | <a style="font-weight:bold;" href="http://www.fuel.tv" target="_new">FUEL TV</a>  | <a style="font-weight:bold;" href="http://www.fxnetwork.com" target="_new">FX Network</a>  | <a style="font-weight:bold;" href="http://www.nationalgeographic.com" target="_new">National Geographic</a>  | <a style="font-weight:bold;" href="http://www.ign.com" target="_new">IGN</a>  | <a style="font-weight:bold;" href="http://www.askmen.com" target="_new">AskMen</a>  
 	            	
-	            	<br>The Motor Sports Authority © Copyright 2010 Speed Channel, Inc. 
-	            	All Rights Reserved.
-	            	
+	            	<br>
+	            	The Motor Sports Authority, SPEED and associated logos are registered 
+	            	trademarks of Speed Channel Inc.<br> All Rights Reserved © 
+	            	Speed Channel, Inc. 2011 	            	
 	            	</div>
 	            </div>
+            <div class="disclaimer">
+            	<p>All external links will open in a new browser window. SPEED.com does not endorse external sites.</p>
+            </div>
         	</div>
 			
 			
@@ -1258,7 +1402,6 @@ You may also request a written response to your concerns, which will be made no 
 	</div>
 	
 <!-- FetchBack tag -->
-<iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3561" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 
 <!--  STATS -->
 <script type="text/javascript" src="http://assets.speedtv.com/js/interstitial.js"></script>
@@ -1320,7 +1463,7 @@ s_analytics.prop9="speedtv:privacy"
 s_analytics.prop15="section:home"
 s_analytics.prop34=""
 
-s_analytics.prop35="The Motor Sports Authority - Auto Racing, Formula 1, Moto Racing, NASCAR, News, Photos, Videos, Blogs, & more..."
+s_analytics.prop35="SPEED - The Motor Sports Authority - Auto Racing, Formula 1, Moto Racing, NASCAR, News, Photos, Videos, Fantasy, Trivia"
 
 if (s_analytics.prop35.substring(s_analytics.prop35.length-3,s_analytics.prop35.length) == " - ") {
 	s_analytics.prop35 = s_analytics.prop35.substring(0,s_analytics.prop35.length-3)
@@ -1347,7 +1490,7 @@ s_analytics.t()//]]></script>
 var axel = Math.random()+"";
 var a = axel * 10000000000000;
 document.write('<IMG SRC="http://ad.doubleclick.net/activity;src=1286494;type=speed427;cat=homep767;ord='+ a + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
-</script><img src="http://ad.doubleclick.net/activity;src=1286494;type=speed427;cat=homep767;ord=7575268166900.981?" width="1" height="1" border="0">
+</script><img src="http://ad.doubleclick.net/activity;src=1286494;type=speed427;cat=homep767;ord=7693727088901.154?" width="1" height="1" border="0">
 <noscript>
 <IMG SRC="http://ad.doubleclick.net/activity;src=1286494;type=speed427;cat=homep767;ord=1?" WIDTH=1 HEIGHT=1 BORDER=0>
 </noscript>
