@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094325id_/http%3A//www.wetv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615064440id_/http%3A//www.wetv.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WEtv.com
+# Privacy Policy – WE tv
+
+Privacy Policy
 
 Thank you for visiting this website (the "Website"). Your patronage means a lot to us.   At WE: Women's Entertainment LLC  ("Company"), we understand that privacy is an important issue for visitors to our websites and we are committed to providing you clear information about how we treat information provided to us.  This Privacy Policy ("Policy") describes the information we collect, what we do with it and the safeguards we have in place to protect it.  
 
@@ -20,7 +22,7 @@ We may also use cookies and other technologies to learn about how you interact w
 
  **INFORMATION USE**
 
-By providing information on the Website, you agree that personal information that you provide may be used by Company, its parents, affiliates, and subsidiaries to communicate with you for the purposes of: offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, and similar purposes.  For a current list of Company's affiliates, please [click here](http://www.cablevision.com/about/index.jsp). 
+By providing information on the Website, you agree that personal information that you provide may be used by Company, its parents, affiliates, and subsidiaries to communicate with you for the purposes of: offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, and similar purposes.  For a current list of Company's affiliates, please [click here](http://www.cablevision.com/about/index.jsp).
 
 From time to time, we may provide access to information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to companies providing services to us, including billing, sales and marketing, market research, fulfillment, data storage, analysis and processing, and legal services.  We may also provide access to third parties who assist us in providing targeted advertising. Third parties who have such access may not use the information for any other purpose, including their own marketing.
 
@@ -42,7 +44,7 @@ If you have provided personally identifiable information on one of our Websites 
 
 **UPDATING YOUR INFORMATION**
 
-To keep information that you provide via this Website accurate, current and complete, visit your Website subscription page(s) or email CONTACTWE@wetv.com. If a member name and password were required to access the feature, you will need to provide such information to update your registration information. 
+To keep information that you provide via this Website accurate, current and complete, visit your Website subscription page(s) or email CONTACTWE@WEtvNetworks.com. If a member name and password were required to access the feature, you will need to provide such information to update your registration information. 
 
 **LINKS**
 
@@ -54,7 +56,7 @@ Data is gathered through the use of Internet server logs and cookies. A web serv
 
 Company and its advertisers may use third party ad servers and ad networks, including without limitation, DoubleClick, to serve or present the ads that appear on our site and to conduct research about the advertisements. Our Privacy Policy does not cover their use of information.  For more information about third-party ad servers generally and to express your preferences regarding these activities, including opting out of ad targeting, you may find more information at the website of the individual ad network, or click here to link to [Network Advertising Initiative](http://www.networkadvertising.org/). 
 
-  **CHILDREN'S PRIVACY POLICY**
+**CHILDREN'S PRIVACY POLICY**
 
 Company does not target this Website to children under the age of thirteen and we do not knowingly collect or solicit Personally Identifiable Information from or about children under the age of thirteen except as permitted by law.  If we discover we have received any information from a child under the age of thirteen in violation of this Policy, we will delete that information immediately. If you believe Company has any information from or about anyone under the age of thirteen, please contact us at the address listed below.
 
@@ -72,7 +74,7 @@ WE: Women's Entertainment LLC
 11 Penn Plaza  
 New York, NY 10001
 
- Or, emailing us at: CONTACTWE@wetv.com.
+Or, emailing us at: CONTACTWE@WEtvNetworks.com.
 
  **SECURITY**
 
@@ -80,8 +82,8 @@ We use reasonable commercial efforts to protect the security of personal informa
 
 Please be careful and responsible whenever you are on line.  Should you choose to voluntarily disclose personally identifiable information on our Website, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Company and this Policy.
 
-  **GOVERNING LAW**
+**GOVERNING LAW**
 
 This Policy and the use of this Website are governed by New York law. Any claim related to this Policy shall be brought in a federal or state court in New York counties, New York, within one year after the claim arises. You agree that no such claim may be brought as a class action. Users of this Website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this Policy.   
 
-Copyright © 2010 WE: Women's Entertainment LLC   
+Copyright © 2011 WE: Women's Entertainment LLC
