@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210012625id_/http%3A//www.azfamily.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616211419id_/http%3A//www.azfamily.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Phoenix News | Arizona News | azfamily.com | Privacy Policy
 
