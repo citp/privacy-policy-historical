@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblackkeys.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216170021id_/http%3A//www.theblackkeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblackkeys.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616214405id_/http%3A//www.theblackkeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Black Keys
 
