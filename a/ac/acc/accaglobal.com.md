@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accaglobal.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225123330id_/http%3A//www.accaglobal.com/documents/protection_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accaglobal.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616225243id_/http%3A//www.accaglobal.com/documents/protection_notice.pdf) for the most accurate reproduction.*
 
 # ASSOCIATION OF CHARTERED CERTIFIED ACCOUNTANTS CUSTOMER DATA PROTECTION NOTICE
 
