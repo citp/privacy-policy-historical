@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freegames14.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414001448id_/http%3A//www.freegames14.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames14.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617013935id_/http%3A//www.hotgames14.com/page/1.html) for the most accurate reproduction.*
 
-# Free games 14 - Privacy Policy
+# Hot games 14 - Privacy Policy
 
 **Personal Information**  
 FreeGames14.com is committed to protecting your privacy online. FreeGames14.com does not collect any personal information. 
