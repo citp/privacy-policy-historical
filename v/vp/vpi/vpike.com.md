@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpike.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112359id_/http%3A//www.vpike.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpike.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616031555id_/http%3A//www.vpike.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
 
 # vPike.com Privacy Policy
 
@@ -6,7 +6,11 @@ vPike.com has created this privacy statement in order to demonstrate our firm co
 
 This site contains links to other sites. **vPike.com** is not responsible for the privacy practices or the content of such websites.
 
-The vPike.com website does not provide email addresses to other individuals or organizations.
+* * *
+
+## Google Maps API
+
+As part of the services offered by vPike.com we may display a map via the [Google Maps API](http://code.google.com/apis/maps/index.html). [Click here](http://www.google.com/privacy.html) to view Google's Privacy Policy.
 
 * * *
 
@@ -16,7 +20,7 @@ The vPike.com website does not provide email addresses to other individuals or o
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-##### Google
+### Google
 
   1. Google, as a third party vendor, uses cookies to serve ads on your site.
   2. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
