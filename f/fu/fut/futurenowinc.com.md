@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurenowinc.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124172147id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurenowinc.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616045107id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Future Now Inc and GrokDotCom
 
