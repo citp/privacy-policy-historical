@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the techsatishmallu.com privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215135419id_/http%3A//www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techsatishmallu.com privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616020151id_/http%3A//www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
 <noscript>
@@ -37,8 +37,8 @@ document.oncontextmenu=function(){ return false; }
 <meta content="MALAYALAM SONGS, MALAYALAM SONGS ONLINE, ONLINE MALAYALAM SONGS, MALAYALAM MUSIC, MUSIC MALAYALAM, OLD MALAYALAM SONGS, SONG MALAYALAM, MALAYALAM SONGS, MALAYALAM SONG, Malayalam Songs from Kerals.com - kerala songs, songs kerala, kerala song, kerala songs old, old kerala songs, malayalam music, videos and latest movies, Malayalam songs, Malayalam music, Malayalam top 10, Malayalam movies reviews, realauido streaming,Malayalam mp3,bakthi,padal,paadal,Malayalam films,latest Malayalam movies,Illayaraja,Ilaiyaraja,A.R.Rahman,rahman,Deva,M.S.Viswanathan,MSV,Kamal Hassan,Rajinikanth,Ajith,Madhavan, Aishwarya Rai,A.M.Raja,P.B.Srinivas,S.P.B,T.M.Soundarajan,Susheela,Janaki,Shailaja,Chithra,Hariharan,Karthik Raja,Bavatharini,Vidhyasagar,S.A.Rajkumar,Gangai Amaran, free malayalam music download, malayalam movie music, malayalam music songs, malayalam film music, malayalam light music, malayalam song download, malayalam christian song, malayalam christian song free download, malayalam film song, malayalam movie song free download, malayalam mp4 song, malayalam new film songs, free malayalam christian songs mp3, malayalam songs download, download malayalam mp3 songs, malayalam album songs, malayalam songs free download, malayalam movie songs, old malayalam songs,Mohanlal,Mammootty,Bhavana,Meera Jasmine,Nayantara,Asin,Trisha,Kavya Madhavan,Mamta Mohandas,Navya Nair,Aishwarya Rai Abhishek Bachan Wedding Marriage,Mallu Malayalam Actress Photos Gallery Wallpapers Fans Discussion,kerala,malayalam,malayali,forum,discussion,portal,movie,cinema,film,actor,actress,music,NRI,comedy,news,song,lyrics,CD,DVD,video,mp3,audio,picture,wallpaper,screensaver" name="keywords">
 <meta content="Malayalam Movies Reviews View Malayalam Video Songs Enjoy Malayalam Comedies View Watch Indian TV Channels Watch Malayalam TV Channels Watch English TV Channels Enjoy Malayalam FM Malayalam MP3 Songs" name="description">
 <title>techsatishmallu.com - you love it! &gt;&gt; malayalam movies watch online,malayalam serials live: TECHSATISHMALLU Privacy Policy</title>
-<link type="text/css" rel="stylesheet" href="http://www.blogger.com/static/v1/widgets/1743847221-widget_css_bundle.css">
- <link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=5209290695738216391&amp;zx=90f4e708-4ddb-4169-9933-f86c43a0cdae">
+<link type="text/css" rel="stylesheet" href="http://www.blogger.com/static/v1/widgets/129348724-widget_css_bundle.css">
+ <link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=5209290695738216391&amp;zx=537bda37-c44b-46ac-ac2e-0df6fe07183b">
 <style type="text/css">#navbar-iframe { display:block }
 </style>
 
@@ -222,17 +222,16 @@ font-style:italic;
 color:gray;
 }
 #blog-pager-newer-link {
-float: left;
+display: none;
 }
 #blog-pager-older-link {
-float: right;
+display: none;
 }
 #blog-pager {
-text-align: center;
+display: none;
 }
 .feed-links {
-clear: both;
-line-height: 2.5em;
+display: none;
 }
 /* Sidebar Content
 ----------------------------------------------- */
@@ -396,8 +395,38 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
         window.attachEvent('onload', function(){ object[attribute] = val; });
       }
     }
+    function showRelatedContent(args) {
+      var el = document.getElementById('related-iframe');
+      if (el.parentNode.style.display != 'none') {
+        el.parentNode.style.display = 'none';
+        document.onclick = showRelatedContent.prevOnClick;
+        return;
+      }
+      
+      var match = /(?:^[?]|&)c=([0-9]+)(?:&|(?!.))/.exec(args);
+      if (match !== null) {
+        document.getElementById('related-loading').style.left = match[1] + 'px';
+        el.style.left = Math.max(0, match[1] - parseInt(el.width) / 2) + 'px';
+      }
+      el.src = "http://www.blogger.com"
+          + '/related-content.g?q='
+          + window.location.href
+          + '&id=' + "5209290695738216391";
+      el.parentNode.style.display = 'block';
+      showRelatedContent.prevOnClick = document.onclick;
+
+      // Hide related-content dropdown when clicking anywhere but on it.
+      document.onclick = function() {
+        var el = document.getElementById('related-iframe');
+        if (el.parentNode.style.display != 'none') {
+          el.parentNode.style.display = 'none';
+        }
+        document.onclick = showRelatedContent.prevOnClick;
+      };
+    }
   </script>
 <iframe src="http://www.blogger.com/navbar.g?targetBlogID=5209290695738216391&amp;blogName=techsatishmallu.com+-+you+love+it%21+%3E%3E...&amp;publishMode=PUBLISH_MODE_HOSTED&amp;navbarType=BLUE&amp;layoutType=LAYOUTS&amp;searchRoot=http%3A%2F%2Fwww.techsatishmallu.com%2Fsearch&amp;blogLocale=en_US&amp;homepageUrl=http%3A%2F%2Fwww.techsatishmallu.com%2F&amp;targetPostID=7773964733630787751" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="30px" width="100%" id="navbar-iframe" allowtransparency="true" title="Blogger Navigation and Search"></iframe>
+
 <div></div></div></div>
 <br>
 <div id="outer-wrapper"><div id="wrap2">
@@ -410,14 +439,14 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="crosscol section" id="crosscol"></div>
 </div>
 <div id="main-wrapper">
-<div class="main section" id="main"><div class="widget HTML" id="HTML10">
+<div class="main section" id="main"><div class="widget HTML" id="HTML2">
 <div class="widget-content">
-<br><br><a href="http://www.techsatishmallu.com"><img alt="you love it!" src="http://bp1.blogger.com/_Qul3VnFzlPw/RsjABF0_CEI/AAAAAAAAFN8/PITeldrwjwg/s400/techsatishmallulogo.jpg" title="you love it!"></a>
+<div style="text-align: left;"><a href="http://www.techsatishmallu.com/"><img alt="you love it!" src="http://2.bp.blogspot.com/_Qul3VnFzlPw/RsjABF0_CEI/AAAAAAAAFN8/PITeldrwjwg/s400/techsatishmallulogo.jpg&#10;" title="you love it!"></a></div>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML10&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML10&quot;));" target="configHTML10" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -434,13 +463,13 @@ var AdBrite_Border_Color = 'FFFFFF';
 var AdBrite_URL_Color = '1B703A';
 try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
 </script>
-<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=586528&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=586528&amp;zs=3436385f3630&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20101215135419id_%2Fhttp%253A%2F%2Fwww.techsatishmallu.com%2F2007%2F07%2Ftechsatishmallu-privacy-policy.html" type="text/javascript"></script>
+<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=586528&zs=3436385f3630&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=586528&amp;zs=3436385f3630&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110616020151id_%2Fhttp%253A%2F%2Fwww.techsatishmallu.com%2F2007%2F07%2Ftechsatishmallu-privacy-policy.html" type="text/javascript"></script>
 <!-- End: AdBrite --></span>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML11&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML11&quot;));" target="configHTML11" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML11&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML11&quot;));" target="configHTML11" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -448,40 +477,35 @@ try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document
 <div class="clear"></div>
 </div><div class="widget Blog" id="Blog1">
 <div class="blog-posts hfeed">
-<!-- google_ad_section_start -->
-<div class="post uncustomized-post-template">
+<!-- google_ad_section_start(name=default) -->
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class="post-outer">
+<div class="post hentry">
 <a name="7773964733630787751"></a>
-<h3 class="post-title">
-<a href="http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html">TECHSATISHMALLU Privacy Policy</a>
+<h3 class="post-title entry-title">
+TECHSATISHMALLU Privacy Policy
 </h3>
+<div class="post-header">
 <div class="post-header-line-1"></div>
-<span id="orkut-share" style="cursor:pointer; border:0px solid black">
-<img alt="share this post on orkut" src="http://i45.tinypic.com/33ug3li.jpg" title="share this post on orkut">
-</span>
+<a href="http://promote.orkut.com/preview?nt=orkut.com&amp;du=http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html">
+<img alt="share this post on orkut" src="http://2.bp.blogspot.com/_fEWbE3RcGAY/TSs1NsOii9I/AAAAAAAABak/MRL4SnleL0M/s320/Untitled.jpg" title="share this post on orkut"></a>
 <a href="http://www.facebook.com/share.php?u=http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html">
-<img alt="share this post on facebook" src="http://i46.tinypic.com/11j2cuw.jpg" title="share this post on facebook"></a>
-<a href="http://twitter.com/home?status=Currently visiting http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html"><img alt="share this post on twitter" src="http://i48.tinypic.com/n30sqs.jpg" title="share this post on twitter"></a>
+<img alt="share this post on facebook" src="http://2.bp.blogspot.com/_fEWbE3RcGAY/TSs2on72WeI/AAAAAAAABas/InH4APe6Lz8/s320/Untitled.jpg" title="share this post on facebook"></a>
+<a href="http://twitter.com/home?status=Currently visiting http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html"><img alt="share this post on twitter" src="http://1.bp.blogspot.com/_fEWbE3RcGAY/TSs5FJ3f-MI/AAAAAAAABbE/fFuN9R3ASqE/s320/Untitled.jpg" title="share this post on twitter"></a>
 <a href="http://www.linkedin.com/shareArticle?url=http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html">
-<img alt="share this post on linkedin" src="http://i50.tinypic.com/29nbcx2.jpg" title="share this post on linkedin"></a>
-<div class="post-body">
-<p>techsatishmallu Privacy Policy<br><br>techsatishmallu, being a portal site catering to India and India related topics, acts as conduit for a large amount of sensitive and private data. We use the information we collect from your requests to process orders of our services at present stage which are sharing time, feedback and future developments which includes email, homepages and etc.<br><br>Utmost care is taken to maintain the privacy of our visitors. It is our strict policy not to share, rent or sell such data to anyone under any circumstances. No specific information is used for any other purpose whatsoever.<br><br>It's important for us to have your correct email address when you send an inquiry, subscribe to newsletter and/or register for a survey in the database so that we can contact you and as certain the time of your visit to techsatishmallu.<br><br>Please be advised that we NEVER update your information. Each time you send us any information, whether it's an inquiry, feedback, compliment, business related or general, we separate it from the last time so there is never a security concern. Also, we don't have any features to review your information such as, "cookies" or other fancy styles. Again, we respect your privacy and each email or details is done separately and one at a time.<br><br>Changes to this Privacy Policy<br><br>techsatishmallu may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your mail subscribtion or by placing a prominent notice on our site.<br><br>Questions and Suggestions<br><br>If you have questions or suggestions, please complete a feedback form or you can contact us at:info@techsatishmallu.com</p>
-<div id="related-posts">
-<font face="Arial" size="3"><b>Related Posts : </b></font><font color="#FFFFFF">
-</font>
-<script type="text/javascript"> removeRelatedDuplicates(); printRelatedLabels();
-</script>
+<img alt="share this post on linkedin" src="http://3.bp.blogspot.com/_fEWbE3RcGAY/TSs4bkfbkhI/AAAAAAAABa8/ikArlubxg9E/s320/Untitled.jpg" title="share this post on linkedin"></a>
 </div>
+<div class="post-body entry-content" id="post-body-7773964733630787751">
+techsatishmallu Privacy Policy<br><br>techsatishmallu, being a portal site catering to India and India related topics, acts as conduit for a large amount of sensitive and private data. We use the information we collect from your requests to process orders of our services at present stage which are sharing time, feedback and future developments which includes email, homepages and etc.<br><br>Utmost care is taken to maintain the privacy of our visitors. It is our strict policy not to share, rent or sell such data to anyone under any circumstances. No specific information is used for any other purpose whatsoever.<br><br>It's important for us to have your correct email address when you send an inquiry, subscribe to newsletter and/or register for a survey in the database so that we can contact you and as certain the time of your visit to techsatishmallu.<br><br>Please be advised that we NEVER update your information. Each time you send us any information, whether it's an inquiry, feedback, compliment, business related or general, we separate it from the last time so there is never a security concern. Also, we don't have any features to review your information such as, "cookies" or other fancy styles. Again, we respect your privacy and each email or details is done separately and one at a time.<br><br>Changes to this Privacy Policy<br><br>techsatishmallu may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your mail subscribtion or by placing a prominent notice on our site.<br><br>Questions and Suggestions<br><br>If you have questions or suggestions, please complete a feedback form or you can contact us at:info@techsatishmallu.com
 <div style="clear: both;"></div>
 </div>
 <div class="post-footer">
-<p class="post-footer-line post-footer-line-1">
-<span class="post-author">
-</span>
-<span class="post-timestamp">
-</span>
-<span class="post-comment-link">
-</span>
-<span class="post-backlinks post-comment-link">
+<div class="post-footer-line post-footer-line-1"><span class="post-comment-link">
 </span>
 <span class="post-icons">
 <span class="item-control blog-admin pid-1846731288">
@@ -490,12 +514,11 @@ try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document
 </a>
 </span>
 </span>
-</p>
-<p class="post-footer-line post-footer-line-2">
-<span class="post-labels">
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
 </span>
-</p>
-<p class="post-footer-line post-footer-line-3"></p>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
 </div>
 </div>
 <div class="comments" id="comments">
@@ -593,7 +616,7 @@ comments:
     registerGetBlogUrls();
   }
   </script>
-<script type="text/javascript" src="http://www.blogger.com/static/v1/jsbin/528630121-comment_from_post_iframe.js"></script>
+<script type="text/javascript" src="http://www.blogger.com/static/v1/jsbin/1692257196-comment_from_post_iframe.js"></script>
 <script type="text/javascript">
       BLOG_CMT_createIframe('http://www.blogger.com/rpc_relay.html', '06959803101099078869');
     </script>
@@ -604,7 +627,28 @@ comments:
 </div>
 </div>
 </div>
+</div>
+<div id="latency-7773964733630787751"></div><script type="text/javascript">if (window['tickAboveFold']) {window['tickAboveFold'](document.getElementById("latency-7773964733630787751")); } </script>
+
+        </div></div>
+      
 <!-- google_ad_section_end -->
+</div>
+<div class="blog-pager" id="blog-pager">
+<span id="blog-pager-newer-link">
+<a class="blog-pager-newer-link" href="http://www.techsatishmallu.com/2007/07/liability-disclaimer_22.html" id="Blog1_blog-pager-newer-link" title="Newer Post">Newer Post</a>
+</span>
+<span id="blog-pager-older-link">
+<a class="blog-pager-older-link" href="http://www.techsatishmallu.com/2007/06/techsatishmallu-site-terms-of-service.html" id="Blog1_blog-pager-older-link" title="Older Post">Older Post</a>
+</span>
+<a class="home-link" href="http://www.techsatishmallu.com/">Home</a>
+</div>
+<div class="clear"></div>
+<div class="post-feeds">
+<div class="feed-links">
+Subscribe to:
+<a class="feed-link" href="http://www.techsatishmallu.com/feeds/7773964733630787751/comments/default" target="_blank" type="application/atom+xml">Post Comments (Atom)</a>
+</div>
 </div>
 </div><div class="widget HTML" id="HTML17">
 <div class="widget-content">
@@ -637,7 +681,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML17&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML17&quot;));" target="configHTML17" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML17&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML17&quot;));" target="configHTML17" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -647,7 +691,18 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 </div>
 <div id="sidebar-wrapper">
 <div class="sidebar section" id="sidebar"><div class="widget HTML" id="HTML12">
+<div class="widget-content">
 <script language="JavaScript">var OB_platformType =1;var OB_demoMode = false;var OB_langJS = "http://widgets.outbrain.com/lang_en.js";var OBITm = "1254454895823";</script><input value="2kLvvSfUH5QSOQ8p6xDLPQ==" name="OBKey" type="hidden"> <script language="JavaScript" src="http://widgets.outbrain.com/OutbrainRater.js"> </script><script language="JavaScript">var OBCTm=1254454895823; </script><script language="JavaScript" src="http://widgets.outbrain.com/claim.js"> </script>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML12&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML12&quot;));" target="configHTML12" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+</a>
+</span>
+</span>
+<div class="clear"></div>
 </div><div class="widget HTML" id="HTML3">
 <div class="widget-content">
 <br><br><form action="http://www.google.com/translate"><script language="JavaScript"><!-- document.write ("<input name=u value="+location.href+" type=hidden>") // --> </script><input value="en" name="hl" type="hidden"><input value="UTF8" name="ie" type="hidden"><input value="" name="langpair" type="hidden"><input onclick="this.form.langpair.value=this.value" title="French" value="en|fr" type="image" height="20" src="http://photos1.blogger.com/img/43/1633/320/13539949_e76af75976.jpg" width="30" name="langpair"><input onclick="this.form.langpair.value=this.value" title="German" value="en|de" type="image" height="20" src="http://photos1.blogger.com/img/43/1633/320/13539933_041ca1eda2.jpg" width="30" name="langpair"><input onclick="this.form.langpair.value=this.value" title="Italian" value="en|it" type="image" height="20" src="http://photos1.blogger.com/img/43/1633/320/13539953_0384ccecf9.jpg" width="30" name="langpair"><input onclick="this.form.langpair.value=this.value" title="Spanish" value="en|es" type="image" height="20" src="http://photos1.blogger.com/img/43/1633/320/13539946_2fabed0dbf.jpg" width="30" name="langpair"><input onclick="this.form.langpair.value=this.value" title="Japanese" value="en|ja" type="image" height="20" src="http://photos1.blogger.com/img/43/1633/320/13539955_925e6683c8.jpg" width="30" name="langpair"><input onclick="this.form.langpair.value=this.value" title="Korean" value="en|ko" type="image" height="20" src="http://photos1.blogger.com/img/43/1633/320/13539958_3c3b482c95.jpg" width="30" name="langpair"><input onclick="this.form.langpair.value=this.value" title="Chinese Simplified" value="en|zh-CN" type="image" height="20" src="http://photos1.blogger.com/img/43/1633/320/14324441_5ca5ce3423.jpg" width="30" name="langpair"><input onclick="this.form.langpair.value=this.value" title="Arabic" value="en|ar" type="image" height="20" src="http://bp0.blogger.com/_Qul3VnFzlPw/R_LHYrQ6rWI/AAAAAAAAJRo/ROXrRQ_PCqA/s400/arabic-flag.gif" width="30" name="langpair2"></form>
@@ -655,7 +710,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" target="configHTML3" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" target="configHTML3" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -677,7 +732,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" target="configHTML7" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" target="configHTML7" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -691,7 +746,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML13&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML13&quot;));" target="configHTML13" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML13&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML13&quot;));" target="configHTML13" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -705,7 +760,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML8&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML8&quot;));" target="configHTML8" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML8&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML8&quot;));" target="configHTML8" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -713,14 +768,15 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 </div><div class="widget HTML" id="HTML9">
 <div class="widget-content">
-<!-- BEGIN STANDARD TAG - 300 x 250 - ROS: Run-of-site - DO NOT MODIFY -->
-<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://ad.globaltakeoff.net/st?ad_type=iframe&amp;ad_size=300x250&amp;section=672204"></iframe>
+<!-- BEGIN STANDARD TAG - 300 x 250 - techsatishmallu.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=334811"></iframe>
 <!-- END TAG -->
 
 <script type="text/javascript"> 
 //default pop-under house ad url 
 infinityads_enable_pop = true; 
-infinityads_frequencyCap =24;
+infinityads_adhere_opt='left'; 
+infinityads_frequencyCap =12;
 durl = '';
 infinityads_layer_border_color = '';
 infinityads_layer_ad_bg = '';
@@ -730,11 +786,16 @@ infinityads_text_link_bg = '';
 infinityads_text_link_color = '';
 infinityads_enable_text_link = false;
 </script>
+ <script type="text/javascript" src="http://ads.lzjl.com/newServing/showAd.php?nid=5&amp;pid=5248&amp;adtype=&amp;sid=8226"></script> <noscript><a href="http://www.yesads.com">online marketing</a></noscript>
+
+<!-- BEGIN STANDARD TAG - popup or popunder - techsatishmallu.com: Run-of-site - DO NOT MODIFY -->
+<script type="text/javascript" src="http://adserving.cpxinteractive.com/st?ad_type=pop&amp;ad_size=0x0&amp;section=334811&amp;banned_pop_types=28&amp;pop_times=1&amp;pop_frequency=86400"></script>
+<!-- END TAG -->
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML9&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML9&quot;));" target="configHTML9" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML9&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML9&quot;));" target="configHTML9" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -743,36 +804,14 @@ infinityads_enable_text_link = false;
 </div><div class="widget HTML" id="HTML1">
 <h2 class="title">MALAYALAM ENTERTAINMENT</h2>
 <div class="widget-content">
-<div id="menu9"><ul><li><a href="http://www.techsatishmallu.com/2009/07/malayalam-movie-downloads-index.html" title="Download Malayalam Movie Links"> &nbsp;&nbsp;MOVIE DOWNLOADS</a></li><li><a href="http://www.techsatishmallu.com/2008/08/hq-movies-index.html" title="HQ MOVIES"> &nbsp;&nbsp;HQ MOVIES</a></li><li><a href="http://www.techsatishmallu.com/2008/02/live-movies-index.html" title="Download Malayalam Movie Links"> &nbsp;&nbsp;LIVE MOVIES</a></li>
-<li><a href="http://www.techsatishmallu.com/2010/10/mp4-for-ipodiphone.html"> &nbsp;&nbsp;MP4 SONGS FOR IPOD</a></li><li><a href="http://www.techsatishmallu.com/2008/11/tv-shows-index.html" title="Tv shows"> &nbsp;&nbsp;TV SHOWS</a></li><li><a href="http://www.techsatishmallu.com/2010/09/idea-star-singer-season-5-index_28.html" title="IDEA STAR SINGER SEASON 5"> &nbsp;&nbsp;ISS SEASON 5</a></li><li><a href="http://www.techsatishmallu.com/2009/07/akkarakazhchakal-comedy-serial-index.html" title="AKKARAKAZHCHAKAL"> &nbsp;&nbsp;AKKARAKAZHCHAKAL</a></li><li><a href="http://www.techsatishmallu.com/2007/09/malayalam-movie-songs-index.html" title="Movie Songs"> &nbsp;&nbsp;MOVIE SONGS VIDEOS</a></li><li><a href="http://www.techsatishmallu.com/2008/06/movie-comedy-videos-index.html" title="Movie Comedies"> &nbsp;&nbsp;MOVIE COMEDY VIDEOS</a></li><li><a href="http://www.techsatishmallu.com/2008/03/news.html" title="LIVE MOVIES"> &nbsp;&nbsp;KERALA NEWS </a></li><li><a href="http://www.techsatishmallu.com/2008/03/tv-serials-index.html" title="Tv Serials"> &nbsp;&nbsp;TV SERIALS</a></li><li><a href="http://www.techsatishmallu.com/2007/10/malayalam-mp3-download-index.html" title="malayalam mp3"> &nbsp;&nbsp;MP3 SONGS DOWNLOAD</a></li><li><a href="http://www.techsatishmallu.com/2007/09/malayalam-album-index.html" title="malayalam albums"> &nbsp;&nbsp; MP3 ALBUMS LIVE</a></li><li><a href="http://www.techsatishmallu.com/2008/06/trailers-movie-clips-index.html" title="LIVE MOVIES"> &nbsp;&nbsp;TRAILERS &amp; CLIPS </a></li><li><a href="http://www.techsatishmallu.com/2008/05/cricket-matches-highlights-index.html" title="CRICKET"> &nbsp;&nbsp; CRICKET HIGHLIGHTS</a></li><li><a href="http://www.techsatishmallu.com/2008/03/kids-zone.html" title="KIDS Zone"> &nbsp;&nbsp; KIDS ZONE</a></li><li><a href="http://www.techsatishmallu.com/2008/06/interviews.html" title="Interview"> &nbsp;&nbsp;INTERVIEWS</a></li><li><a href="http://www.techsatishmallu.com/2008/06/indian-recipes.html" title=""> &nbsp;&nbsp;LADIES SECTION</a></li></ul></div>
+<div id="menu9"><ul><li><a href="http://www.techsatishmallu.com/2011/03/movie-download-index.html" title="Download Malayalam Movie Links"> &nbsp;&nbsp;MOVIE DOWNLOADS</a><a href="http://www.techsatishmallu.com/2007/09/live-movies-index.html"> &nbsp;&nbsp;LIVE MOVIES</a></li>
+<li><a href="http://www.techsatishmallu.com/2011/02/tv-serial-index.html" title="Tv Serials"> &nbsp;&nbsp;TV SERIALS</a></li>
+<li><a href="http://www.techsatishmallu.com/2011/02/tv-shows.html" title="Tv shows"> &nbsp;&nbsp;TV SHOWS</a></li><li><a href="http://www.techsatishmallu.com/2011/02/iss-season-5.html" title="IDEA STAR SINGER SEASON 5"> &nbsp;&nbsp;ISS SEASON 5</a></li><li><a href="http://www.techsatishmallu.com/2009/07/akkarakazhchakal-comedy-serial-index.html" title="AKKARAKAZHCHAKAL"> &nbsp;&nbsp;AKKARAKAZHCHAKAL</a></li><li><a href="http://www.techsatishmallu.com/2008/03/news.html" title="LIVE MOVIES"> &nbsp;&nbsp;KERALA NEWS </a></li><li><a href="http://www.techsatishmallu.com/2007/10/malayalam-mp3-download-index.html" title="malayalam mp3"> &nbsp;&nbsp;MP3 SONGS DOWNLOAD</a></li><li><a href="http://www.techsatishmallu.com/2011/04/mohanlal-movies.html" title="MOHANLAL MOVIES"> &nbsp;&nbsp;MOHANLAL MOVIES</a></li><li><a href="http://www.techsatishmallu.com/2011/02/mohanlal-songs.html" title="MOHANLAL SONGS"> &nbsp;&nbsp;MOHANLAL SONGS</a></li></ul></div>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML2">
-<div class="widget-content">
-<!-- Begin: AdBrite, Generated: 2009-11-23 14:08:03  -->
-<script type="text/javascript">
-var AdBrite_Title_Color = '2D8930';
-var AdBrite_Text_Color = '000000';
-var AdBrite_Background_Color = 'FFFFFF';
-var AdBrite_Border_Color = 'FFFFFF';
-var AdBrite_URL_Color = '2D8930';
-try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
-</script>
-<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=438428&zs=3330305f323530&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=438428&amp;zs=3330305f323530&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20101215135419id_%2Fhttp%253A%2F%2Fwww.techsatishmallu.com%2F2007%2F07%2Ftechsatishmallu-privacy-policy.html" type="text/javascript"></script>
-<!-- End: AdBrite -->
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -786,7 +825,7 @@ try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" target="configHTML4" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" target="configHTML4" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -801,7 +840,7 @@ try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML16&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML16&quot;));" target="configHTML16" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML16&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML16&quot;));" target="configHTML16" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -822,7 +861,7 @@ smowtion_section = "773442";
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML24&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML24&quot;));" target="configHTML24" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML24&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML24&quot;));" target="configHTML24" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -838,7 +877,7 @@ smowtion_section = "773442";
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=Feed&amp;widgetId=Feed1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Feed1&quot;));" target="configFeed1" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=Feed&amp;widgetId=Feed1&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Feed1&quot;));" target="configFeed1" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -870,7 +909,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML19&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML19&quot;));" target="configHTML19" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML19&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML19&quot;));" target="configHTML19" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -886,7 +925,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=Feed&amp;widgetId=Feed2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Feed2&quot;));" target="configFeed2" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=Feed&amp;widgetId=Feed2&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Feed2&quot;));" target="configFeed2" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -901,7 +940,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML21&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML21&quot;));" target="configHTML21" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML21&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML21&quot;));" target="configHTML21" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -928,7 +967,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML15&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML15&quot;));" target="configHTML15" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML15&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML15&quot;));" target="configHTML15" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -942,7 +981,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML18&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML18&quot;));" target="configHTML18" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML18&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML18&quot;));" target="configHTML18" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -957,7 +996,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML14&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML14&quot;));" target="configHTML14" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML14&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML14&quot;));" target="configHTML14" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -971,7 +1010,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML5&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML5&quot;));" target="configHTML5" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML5&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML5&quot;));" target="configHTML5" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1058,7 +1097,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
     registerGetBlogUrls();
   }
   </script>
-<div id="div-vbwfs22smbaw" style="width: 100%; "></div>
+<div id="div-16jcbh46isn2q" style="width: 100%; "></div>
 <script type="text/javascript">
     var skin = {};
     skin['FACE_SIZE'] = '32';
@@ -1079,7 +1118,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
     skin['FONT_FACE'] = "normal normal 81% Verdana, sans-serif";
     google.friendconnect.container.setParentUrl("/");
     google.friendconnect.container["renderMembersGadget"](
-    {id: "div-vbwfs22smbaw",
+    {id: "div-16jcbh46isn2q",
      height: 260,
      
      
@@ -1094,7 +1133,7 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=Followers&amp;widgetId=Followers1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Followers1&quot;));" target="configFollowers1" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=Followers&amp;widgetId=Followers1&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Followers1&quot;));" target="configFollowers1" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1105,11 +1144,28 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 <h2 class="title">Other Websites of Interest</h2>
 <div class="widget-content">
 <a href="http://www.techsatish.com">techsatish.com</a><br><a href="http://www.techsatish.net">techsatish.net</a><br><a href="http://www.techsatishdesi.com">techsatishdesi.com</a> <br><a href="http://www.techsatishtelugu.com">techsatishtelugu.com</a><br><a href="http://www.techsatishkannada.com">techsatishkannada.com</a><br><a href="http://www.techsatish.tv">techsatish.tv</a><br><a href="http://gallery.techsatish.net">gallery.techsatish.net</a><br><a href="http://twitter.com/techsatish">twitter.com/techsatish</a><br><a href="http://facebook.com/techsatish">facebook.com/techsatish</a><br>
+
+<script type="text/javascript">
+clicksor_enable_adhere = false;
+//default pop-under house ad url
+clicksor_enable_pop = true; clicksor_frequencyCap = 1;
+durl = '';//default banner house ad url 
+clicksor_default_url = '';
+clicksor_banner_border = '#99CC33'; clicksor_banner_ad_bg = '#FFFFFF';
+clicksor_banner_link_color = '#000000'; clicksor_banner_text_color = '#666666';
+clicksor_banner_image_banner = true; clicksor_banner_text_banner = true;
+clicksor_layer_border_color = '';
+clicksor_layer_ad_bg = ''; clicksor_layer_ad_link_color = '';
+clicksor_layer_ad_text_color = ''; clicksor_text_link_bg = '';
+clicksor_text_link_color = ''; clicksor_enable_text_link = true;
+</script>
+<script type="text/javascript" src="http://ads.clicksor.com/showAd.php?nid=1&amp;pid=93720&amp;adtype=7&amp;sid=140434"></script>
+<noscript><a href="http://www.yesadvertising.com">affiliate marketing</a></noscript>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML6&quot;));" target="configHTML6" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=5209290695738216391&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML6&quot;));" target="configHTML6" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1128,11 +1184,11 @@ clicksor_text_link_color = ''; clicksor_enable_text_link = true;
 </center>
 <!-- end outer-wrapper --><script type="text/javascript">disableSelection(document.body)</script><!-- Start of StatCounter Code --><script type="text/javascript">sc_project=2678939; sc_invisible=1; sc_partition=26; sc_security="7f940ed2"; </script><script src="http://www.statcounter.com/counter/counter.js" type="text/javascript"></script><!-- End of StatCounter Code --><script language="JavaScript" src="http://www.ltassrv.com/serve/api5.4.asp?d=11070&amp;s=13061&amp;c=10554&amp;v=1"></script><script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="http://www.blogger.com/static/v1/widgets/512629240-widgets.js"></script>
+</script><script type="text/javascript" src="http://www.blogger.com/static/v1/widgets/211018530-widgets.js"></script>
 <script type="text/javascript">
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '5209290695738216391';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('http://www.blogger.com/rearrange?blogID=5209290695738216391','http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html','5209290695738216391');
-_WidgetManager._SetPageActionUrl('http://www.blogger.com/display?blogID=5209290695738216391','wDoH_ij0Wn62pp41u010Fzu15PQ:1292421259028','AOuZoY7oG594LFJKwlRUcYEYRMoBK5L-2g:1292421259028');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'title': 'techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live', 'pageType': 'item', 'url': 'http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html', 'canonicalUrl': 'http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html', 'homepageUrl': 'http://www.techsatishmallu.com/', 'enabledCommentProfileImages': true, 'searchLabel': '', 'searchQuery': '', 'pageName': 'TECHSATISHMALLU Privacy Policy', 'pageTitle': 'techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live: TECHSATISHMALLU Privacy Policy', 'encoding': 'UTF-8', 'locale': 'en-US', 'isPrivate': false, 'isMobile': false, 'mobileClass': '', 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live - Atom\42 href\75\42http://www.techsatishmallu.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live - RSS\42 href\75\42http://www.techsatishmallu.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live - Atom\42 href\75\42http://www.blogger.com/feeds/5209290695738216391/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0755209290695738216391\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live - Atom\42 href\75\42http://www.techsatishmallu.com/feeds/7773964733630787751/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window;function c(b){this.t\75{};this.tick\75function(d,i,e){e\75e?e:(new Date).getTime();this.t[d]\75[e,i]};this.tick(\42start\42,null,b)}var f\75new c;a.jstiming\75{Timer:c,load:f};try{var g\75null;if(a.chrome\46\46a.chrome.csi)g\75Math.floor(a.chrome.csi().pageT);if(g\75\75null)if(a.gtbExternal)g\75a.gtbExternal.pageT();if(g\75\75null)if(a.external)g\75a.external.pageT;if(g)a.jstiming.pt\75g}catch(h){};a.tickAboveFold\75function(b){b\75b;var d\0750;if(b.offsetParent){do d+\75b.offsetTop;while(b\75b.offsetParent)}b\75d;b\74\075750\46\46a.jstiming.load.tick(\42aft\42)};var j\75false;function k(){if(!j){j\75true;a.jstiming.load.tick(\42firstScrollTime\42)}}a.addEventListener?a.addEventListener(\42scroll\42,k,false):a.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': ''}}]);
+_WidgetManager._SetPageActionUrl('http://www.blogger.com/display?blogID=5209290695738216391','APq4FmDtXKYaTH_S9TFrlDXonJa70pmdDzZZzH-_75j95TNT6yCfkOvWZftp9g7dbVva0wYcN0bbTzJt6Tw63RDMBFyzRSAMHBsAaeTFGBYTPEhjspNlKdY=','AOuZoY49VBUZsTCH6I7YIbGGEEC5BfrXxw:1308189710191');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'title': 'techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live', 'pageType': 'item', 'url': 'http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html', 'canonicalUrl': 'http://www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html', 'homepageUrl': 'http://www.techsatishmallu.com/', 'blogspotFaviconUrl': 'http://www.techsatishmallu.com/favicon.ico', 'enabledCommentProfileImages': true, 'searchLabel': '', 'searchQuery': '', 'pageName': 'TECHSATISHMALLU Privacy Policy', 'pageTitle': 'techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live: TECHSATISHMALLU Privacy Policy', 'encoding': 'UTF-8', 'locale': 'en-US', 'isPrivate': false, 'isMobile': false, 'mobileClass': '', 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live - Atom\42 href\75\42http://www.techsatishmallu.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live - RSS\42 href\75\42http://www.techsatishmallu.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live - Atom\42 href\75\42http://www.blogger.com/feeds/5209290695738216391/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0755209290695738216391\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42techsatishmallu.com - you love it! \46gt;\46gt; malayalam movies watch online,malayalam serials live - Atom\42 href\75\42http://www.techsatishmallu.com/feeds/7773964733630787751/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window;function c(b){this.t\75{};this.tick\75function(b,i,d){d\75d!\75void 0?d:(new Date).getTime();this.t[b]\75[d,i]};this.tick(\42start\42,null,b)}var e\75new c;a.jstiming\75{Timer:c,load:e};try{var g\75null;a.chrome\46\46a.chrome.csi\46\46(g\75Math.floor(a.chrome.csi().pageT));g\75\75null\46\46a.gtbExternal\46\46(g\75a.gtbExternal.pageT());g\75\75null\46\46a.external\46\46(g\75a.external.pageT);g\46\46(a.jstiming.pt\75g)}catch(h){};a.tickAboveFold\75function(b){var f\0750;if(b.offsetParent){do f+\75b.offsetTop;while(b\75b.offsetParent)}b\75f;b\74\075750\46\46a.jstiming.load.tick(\42aft\42)};var j\75!1;function k(){j||(j\75!0,a.jstiming.load.tick(\42firstScrollTime\42))}a.addEventListener?a.addEventListener(\42scroll\42,k,!1):a.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': ''}}]);
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebar', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar', null, document.getElementById('HTML7'), {}, 'displayModeFull'));
@@ -1140,7 +1196,6 @@ _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML13', 'sidebar',
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebar', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML16', 'sidebar', null, document.getElementById('HTML16'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML24', 'sidebar', null, document.getElementById('HTML24'), {}, 'displayModeFull'));
@@ -1152,12 +1207,12 @@ _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML15', 'sidebar',
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML18', 'sidebar', null, document.getElementById('HTML18'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'sidebar', null, document.getElementById('HTML14'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar', null, document.getElementById('HTML5'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', null, document.getElementById('Followers1'), {'title': 'techsatish fans', 'codeSnippet': '\74script type\75\42text/javascript\42\76\n        if (!window.google || !google.friendconnect) {\n          document.write(\47\74script type\75\42text/javascript\42\47 +\n              \47src\75\42http://www.google.com/friendconnect/script/friendconnect.js\42\76\47 +\n              \47\74/scr\47 + \47ipt\76\47);\n        }\n      \74/script\76\n\74script type\75\42text/javascript\42\76\n      if (!window.registeredBloggerCallbacks) {\n        window.registeredBloggerCallbacks \75 true;\n\n        \n\n        \n        gadgets.rpc.register(\47requestReload\47, function() {\n          document.location.reload();\n        });\n\n        \n        gadgets.rpc.register(\47requestSignOut\47, function(siteId) {\n          \n          google.friendconnect.container.openSocialSiteId \75 siteId;\n          google.friendconnect.requestSignOut();\n        });\n      }\n    \74/script\76\n\74script type\75\42text/javascript\42\76\n    \n    function registerGetBlogUrls() {\n      gadgets.rpc.register(\47getBlogUrls\47, function() {\n        var holder \75 {};\n        \n          \n            \n            \n              holder.currentPost \75 \42http://www.blogger.com/feeds/5209290695738216391/posts/default/7773964733630787751\42;\n            \n            \n            \n              holder.currentComments \75 \42http://www.blogger.com/feeds/5209290695738216391/7773964733630787751/comments/default\42;\n            \n            holder.currentPostUrl \75 \42\42;\n            holder.currentPostId \75 7773964733630787751\n          \n          \n          \n            holder.postFeed \75 \42http://www.blogger.com/feeds/5209290695738216391/posts/default\42;\n          \n          \n          \n            holder.commentFeed \75 \42http://www.blogger.com/feeds/5209290695738216391/comments/default\42;\n          \n          holder.currentBlogUrl \75 \42http://www.techsatishmallu.com/\42;\n          holder.currentBlogId \75 \0425209290695738216391\42;\n        \n        return holder;\n      });\n    }\n  \74/script\76\n\74script type\75\42text/javascript\42\76\n  if (!window.registeredCommonBloggerCallbacks) {\n    window.registeredCommonBloggerCallbacks \75 true;\n\n    gadgets.rpc.register(\47resize_iframe\47, function(height) {\n      var el \75 document.getElementById(this[\47f\47]);\n      if (el) {\n        el.style.height \75 height + \47px\47;\n      }\n    });\n\n    \n    gadgets.rpc.register(\47set_pref\47, function() {});\n\n    registerGetBlogUrls();\n  }\n  \74/script\76\n\74div id\75\42div-rqmbe1s5crp7\42 style\75\42width: 100%; \42\76\74/div\76\n\74script type\75\42text/javascript\42\76\n    var skin \75 {};\n    skin[\47FACE_SIZE\47] \75 \04732\47;\n    skin[\47HEIGHT\47] \75 \042260\42;\n    skin[\47TITLE\47] \75 \42techsatish fans\42;\n    skin[\47BORDER_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47ENDCAP_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47ALTERNATE_BG_COLOR\47] \75 \42transparent\42;\n    \n    skin[\47CONTENT_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47CONTENT_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_SECONDARY_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_SECONDARY_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_HEADLINE_COLOR\47] \75 \42#003300\42;\n    skin[\47FONT_FACE\47] \75 \42normal normal 81% Verdana, sans-serif\42;\n    google.friendconnect.container.setParentUrl(\42/\42);\n    google.friendconnect.container[\42renderMembersGadget\42](\n    {id: \42div-rqmbe1s5crp7\42,\n     height: 260,\n     \n     \n     \n     site: \04206959803101099078869\42,\n      \n     locale: \47en_US\47 },\n     skin);\n  \74/script\076'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', null, document.getElementById('Followers1'), {'title': 'techsatish fans', 'codeSnippet': '\74script type\75\42text/javascript\42\76\n        if (!window.google || !google.friendconnect) {\n          document.write(\47\74script type\75\42text/javascript\42\47 +\n              \47src\75\42http://www.google.com/friendconnect/script/friendconnect.js\42\76\47 +\n              \47\74/scr\47 + \47ipt\76\47);\n        }\n      \74/script\76\n\74script type\75\42text/javascript\42\76\n      if (!window.registeredBloggerCallbacks) {\n        window.registeredBloggerCallbacks \75 true;\n\n        \n\n        \n        gadgets.rpc.register(\47requestReload\47, function() {\n          document.location.reload();\n        });\n\n        \n        gadgets.rpc.register(\47requestSignOut\47, function(siteId) {\n          \n          google.friendconnect.container.openSocialSiteId \75 siteId;\n          google.friendconnect.requestSignOut();\n        });\n      }\n    \74/script\76\n\74script type\75\42text/javascript\42\76\n    \n    function registerGetBlogUrls() {\n      gadgets.rpc.register(\47getBlogUrls\47, function() {\n        var holder \75 {};\n        \n          \n            \n            \n              holder.currentPost \75 \42http://www.blogger.com/feeds/5209290695738216391/posts/default/7773964733630787751\42;\n            \n            \n            \n              holder.currentComments \75 \42http://www.blogger.com/feeds/5209290695738216391/7773964733630787751/comments/default\42;\n            \n            holder.currentPostUrl \75 \42\42;\n            holder.currentPostId \75 7773964733630787751\n          \n          \n          \n            holder.postFeed \75 \42http://www.blogger.com/feeds/5209290695738216391/posts/default\42;\n          \n          \n          \n            holder.commentFeed \75 \42http://www.blogger.com/feeds/5209290695738216391/comments/default\42;\n          \n          holder.currentBlogUrl \75 \42http://www.techsatishmallu.com/\42;\n          holder.currentBlogId \75 \0425209290695738216391\42;\n        \n        return holder;\n      });\n    }\n  \74/script\76\n\74script type\75\42text/javascript\42\76\n  if (!window.registeredCommonBloggerCallbacks) {\n    window.registeredCommonBloggerCallbacks \75 true;\n\n    gadgets.rpc.register(\47resize_iframe\47, function(height) {\n      var el \75 document.getElementById(this[\47f\47]);\n      if (el) {\n        el.style.height \75 height + \47px\47;\n      }\n    });\n\n    \n    gadgets.rpc.register(\47set_pref\47, function() {});\n\n    registerGetBlogUrls();\n  }\n  \74/script\76\n\74div id\75\42div-104squzz32hqr\42 style\75\42width: 100%; \42\76\74/div\76\n\74script type\75\42text/javascript\42\76\n    var skin \75 {};\n    skin[\47FACE_SIZE\47] \75 \04732\47;\n    skin[\47HEIGHT\47] \75 \042260\42;\n    skin[\47TITLE\47] \75 \42techsatish fans\42;\n    skin[\47BORDER_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47ENDCAP_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47ALTERNATE_BG_COLOR\47] \75 \42transparent\42;\n    \n    skin[\47CONTENT_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47CONTENT_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_SECONDARY_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_SECONDARY_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_HEADLINE_COLOR\47] \75 \42#003300\42;\n    skin[\47FONT_FACE\47] \75 \42normal normal 81% Verdana, sans-serif\42;\n    google.friendconnect.container.setParentUrl(\42/\42);\n    google.friendconnect.container[\42renderMembersGadget\42](\n    {id: \42div-104squzz32hqr\42,\n     height: 260,\n     \n     \n     \n     site: \04206959803101099078869\42,\n      \n     locale: \47en_US\47 },\n     skin);\n  \74/script\076'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'main', null, document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'main', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'main', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'commentInteractionIframeUrl': 'http://www.blogger.com/comment-interaction-iframe.g?blogId\0755209290695738216391', 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML17', 'main', null, document.getElementById('HTML17'), {}, 'displayModeFull'));
 </script>
 </body></html>
