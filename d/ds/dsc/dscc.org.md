@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708144946id_/http%3A//dscc.org/content%3Fcontent_item_KEY%3D1443) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617013002id_/http%3A//www.dscc.org/about%3Fcontent_item_KEY%3D1443) for the most accurate reproduction.*
 
 # DSCC: Democratic Senatorial Campaign Committee
 
-April 11, 2005
+_Updated April 27, 2011_
 
-The Democratic Senatorial Campaign Committee ("DSCC") is serious about your privacy rights, and about providing you with the information you need in order to protect them. Accordingly, we've created this policy to explain our privacy practices. This applies to www.dscc.org only.
+The Democratic Senatorial Campaign Committee ("DSCC") is serious about your privacy rights, and about providing you with the information you need in order to protect them. Accordingly, we've created this policy to explain our privacy practices. This applies to **www.dscc.org** only.
 
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices. We may also modify this policy if we find better ways to inform you of products or services that we think will be of interest. You should refer back to this page often for the latest information.
 
@@ -14,7 +14,7 @@ We collect a variety of personal information about those who register on our sit
 
 We collect information you give us when you register on our site, contact us or make an online contribution. For example, when making a contribution, in addition to providing us your name, address, occupation and name of employer, you will need to provide us a billing address and credit card or bank account information, and answer a series of brief questions to make sure we may legally accept your contribution.
 
-You may make changes to the information you have provided by visiting any "Update Profile" page throughout the www.dscc.org site. You may also contact us at info@dscc.org with any questions or changes to your account.
+You may make changes to the information you have provided by visiting any "Update Profile" page throughout the www.dscc.org site. You may also contact us at [info@dscc.org](mailto:info@dscc.org?subject=Privacy%20Policy%20Question) with any questions or changes to your account.
 
 _Automatically Collected Information:_ We automatically receive certain types of information whenever you interact with us online. For example, when you visit our site, our systems automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of "cookies" (more information below). We also collect "clickstream" data about your use of the site.
 
@@ -36,15 +36,17 @@ _To Protect You and Ourselves._ We release personal information when we believe 
 
 _To Support Democratic Candidates and Organizations._ We may disclose selected personal information (other than credit card or bank information) to other Democratic campaigns or organizations for their use in campaign activities and other special projects. We require that the information be used only for that specific purpose.
 
-## Cookies and Web Beacons
+## Cookies
 
-A cookie is a tiny text file that is stored on your computer by www.dscc.org, but does not itself contain any personal information. We use cookies to tailor your experience on our site according to the preferences you have specified, and to save you the effort of having to log in or provide information each time you visit our site. When you visit dscc.org we only access the cookie file that we have stored on your computer. We cannot and do not access any information stored in a cookie by other, non-DSCC websites.
+We may automatically collect information using "cookies" or cookie-like files called Local Shared Objects (Flash cookies).  Cookies are small data files stored on your hard drive by a Web site.  Local Shared Objects are larger data files stored on your hard drive.  Among other things, cookies and Local Shared Objects help us improve our site and your experience, count visits to our site and to tailor your experience on our site according to which areas you have visited on our site and the preferences you have specified, and to save you the effort of having to log in or provide information each time you visit our Web site.  These cookies and Local Shared Objects may be linked to your personal information.  Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.  If you choose to remove cookies or reject cookies, this could affect certain features or services of our site.  Browser settings will not affect Local Shared Objects.  To identify the Local Shared Objects on your computer and adjust your settings, you need to go to this website: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
-You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see <http://www.cookiecentral.com/faq/>.
+## Web Beacons
 
-However, note that if you reject some or all cookies, your experience at our site and on other sites throughout the World Wide Web may not be complete. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by other Internet sites or by us.
+We may collect information using Web beacons. Web beacons are electronic images that may be used on our sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
-We also make some use of "web beacons," so that we might better understand your viewing preferences. These are small, graphic images on a Web page, Web-based document or in an e-mail message that collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons can also be linked to Personal Information.
+## Third Party Advertisements.
+
+We may also use third parties to show you ads for other organizations on our site.  We may also use third parties to show our ads on other organizations' Web sites based on your prior visits to our site. To show these ads, these third parties may automatically collect information about your visits to our site and other Web sites, your IP address, your ISP, the browser you use to visit our site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our site and the other Web sites tracked by these third parties.  This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads or on third party Web sites, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these third parties, [click here.](http://www.networkadvertising.org/)
 
 ## Children's Online Privacy Protection Act
 
