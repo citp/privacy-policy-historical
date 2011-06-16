@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rezlive.com privacy policy that was archived on 2010-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100607093241id_/http%3A//www.rezlive.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rezlive.com privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616023254id_/http%3A//rezlive.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -84,6 +84,81 @@ function setSlideDownSpeed(newSpeed) {
 
 <script language="javascript1.2" type="text/javascript">
 
+function manage_date(d,ci,co){
+	co_day = document.forms["hotel_form"].CO_Day;
+	co_month = document.forms["hotel_form"].CO_Month;
+	co_year = document.forms["hotel_form"].CO_Year;
+	ci_day = document.forms["hotel_form"].CI_Day;
+	ci_month = document.forms["hotel_form"].CI_Month;
+	ci_year = document.forms["hotel_form"].CI_Year;
+	days = document.forms["hotel_form"].sel_days;
+	cifromDate = ci_month.value+"/"+ci_day.value+"/"+ci_year.value;
+	cotoDate = co_month.value+"/"+co_day.value+"/"+co_year.value;
+	if (co){
+		if (Date.parse(cifromDate) > Date.parse(cotoDate)){
+			alert("Check In date should be greater than Check Out date") ;												
+			co_day.value=(ci_day.value*1)+(1);
+			return false;
+		}
+	}
+		if(d) {
+			// change CO
+			var myDate = new Date();
+			myDate.setFullYear(ci_year.value,ci_month.value-1,ci_day.value);
+			myDate.setDate(myDate.getDate() + (days.value)*1);
+			day_o = myDate.getDate();
+			if(day_o <= 9) 
+				day_o = "0"+day_o; 
+				co_day.value = day_o;
+				month = myDate.getMonth();
+				month = month+1;
+			if(month <= 9) 
+				month = "0"+month; 
+				co_month.value = month;
+				co_year.value = myDate.getFullYear();
+		}
+
+
+		if(ci){
+			// change CO
+			var myDate = new Date();
+			myDate.setFullYear(ci_year.value,ci_month.value-1,ci_day.value)	;
+			myDate.setDate(myDate.getDate() + (days.value)*1);
+			day_o = myDate.getDate();
+			if(day_o <= 9) 
+				day_o = "0"+day_o; 
+				co_day.value = day_o;
+				month = myDate.getMonth();
+				month = month+1;
+				if(month <= 9) 
+					month = "0"+month; 
+					co_month.value = month;
+					co_year.value = myDate.getFullYear();
+				}
+		if(co){
+
+
+			// change CO
+
+
+			var myCiDate = new Date();
+			var myCoDate = new Date();
+			myCiDate.setFullYear(ci_year.value,ci_month.value-1,ci_day.value);	
+			myCoDate.setFullYear(co_year.value,co_month.value-1,co_day.value);	
+			days.value = (myCoDate-myCiDate)/(24*60*60*1000);
+		}
+		if (isDate(cifromDate)==false){		
+			document.forms["hotel_form"].CI_Day.focus();			
+			return false;
+			
+		}
+		if (isDate(cotoDate)==false){		
+			document.forms["hotel_form"].CO_Month.focus();			
+		return false;
+			
+		}
+	}
+
 function hotels(arg1){
 		var i=0;
 		for(i=1; i<=3; i++){
@@ -143,7 +218,10 @@ function Visa_Processing() {
 <script type="text/javascript" src="js/check_date.js"></script>			
 <script type="text/javascript" src="js/chk_date.js"></script> 
 <script type="text/javascript">
+//alert('hello');
+
 function validate_room_type(sId) {
+	//alert('hello');
  var check_counter = parseInt(0) ;
     var outArray = new Array();	
 	if(typeof(sId)!='string' || !sId)	{	
@@ -172,7 +250,7 @@ function validate_room_type(sId) {
 	//alert("mycount is" + mycount);
 	//alert("flag  is" + flag);	
 	if (mycount == flag)	{
-		alert("Select atleast one Room Typed");
+		alert("Select atleast one Room Type");
 	}
 	
  }
@@ -260,38 +338,22 @@ function search_frm() {
 	}*/
 
 					
-	smonth	=	CI_Month 
-	sday	=	CI_Day
-	syear	=	CI_Year
+	smonth	=	CI_Month; 
+	sday	=	CI_Day;
+	syear	=	CI_Year;
 
-	emonth	=	CO_Month
-	eday	=	CO_Day
-	eyear	=	CO_Year
+	emonth	=	CO_Month;
+	eday	=	CO_Day;
+	eyear	=	CO_Year;
 
 	fromDate = smonth+"/"+sday+"/"+syear;
 	toDate = emonth+"/"+eday+"/"+eyear;
 
-	//if (isDate(fromDate)==false){					
-		//return false
-	//}
-
-	//if (isDate(toDate)==false){					
-		//return false
-	//}
-						
-	var curr_date=new Date()
+					
+	var curr_date=new Date();
 	curr_date = curr_date.getMonth()+1+"/"+curr_date.getDate()+"/"+curr_date.getFullYear();
 	
-	//if (Date.parse(fromDate) > Date.parse(toDate)) {
-	//	alert("Check Out date should be after Check In Date")
-	//	return false;
-	//}
-
-	//if (Date.parse(toDate)-Date.parse(fromDate) > (30*24*60*60*1000)) {
-	//	alert("You are allowed to book for a maximum 30 Nights")
-	//	return false;
-	//}
-				
+			
 	var total_count = 0;
 	for(var i=0;i<total.length;i++) {
 		if(total[i]) {
@@ -336,17 +398,6 @@ function search_frm() {
 			}
 		}
 						
-		/*
-		if((rating < 1 || rating > 2)){
-				alert("You Have To Choose two ratings and minimum one rating ");
-				return false;
-		}
-		*/
-
-		//if(!selected){
-		//	alert("You Have To Choose A Room Type");
-		//	return false;
-		//}
 		if(MformObj.sel_hotel.value == "") {						
 			if(validate_room_type('room') && validate_room_and_pax_count('room','roomtypePaxCount') && validate_rating('rating_chk')){				
 				MformObj.submit();
@@ -360,11 +411,7 @@ function search_frm() {
 }
 
 function unselect_ratings(formObj){
-	//for(i=0;i<formObj.elements.length;i++){
-		//if(formObj.elements[i].type == "radio"){
-			//formObj.elements[i].checked = false;
-		//}
-	//}
+	
 }
 var ajax = new sack();
 
@@ -409,7 +456,8 @@ function createHotels() {
 	document.getElementById('sel_hotel').disabled = false;
 }
 
-function manage_date(d,ci,co){
+/*function manage_date(d,ci,co){
+	alert("testing");
 	selected_ci_date=document.forms["hotel_form"].arrivalDate.value;
 	selected_co_date=document.forms["hotel_form"].departureDate.value;
 	
@@ -421,18 +469,16 @@ function manage_date(d,ci,co){
 	co_day=co_dateArray[0];
 	co_month=co_dateArray[1];
 	co_year=co_dateArray[2];
-	//alert(ci_year);
+
 
 	days = document.forms["hotel_form"].sel_days;
 	
 	cifromDate = ci_month+"/"+ci_day+"/"+ci_year;
 	cotoDate = co_month+"/"+co_day+"/"+co_year;
-	//alert(cifromDate) ;
-	//alert(cotoDate) ;
-					
+						
 	if (co){
 		if (Date.parse(cifromDate) > Date.parse(cotoDate)){
-			alert("Check In date should be greater than Check Out date") ;												
+			alert("Check In date should be greater than Check Out date");												
 			co_day.value=(ci_day.value*1)+(1);
 			return false;
 		}
@@ -442,7 +488,7 @@ function manage_date(d,ci,co){
 		// change CO
 		//alert('nikhil');						
 		var myDate = new Date();
-		myDate.setFullYear(ci_year,ci_month-1,ci_day)	;
+		myDate.setFullYear(ci_year,ci_month-1,ci_day);
 		
 		myDate.setDate(myDate.getDate() + (days.value)*1);
 		
@@ -459,14 +505,14 @@ function manage_date(d,ci,co){
 
 		co_month = month;
 		co_year = myDate.getFullYear();
-		//alert(co_day);alert(co_month);alert(co_year);
+		
 		document.forms["hotel_form"].departureDate.value = co_day+"/"+co_month+"/"+co_year;						
 	}
 					
 	if(ci){
 		// change CO
 		var myDate = new Date();
-		myDate.setFullYear(ci_year,ci_month-1,ci_day)	;
+		myDate.setFullYear(ci_year,ci_month-1,ci_day);
 		myDate.setDate(myDate.getDate() + (days.value)*1);
 		
 		day_o = myDate.getDate();
@@ -487,12 +533,12 @@ function manage_date(d,ci,co){
 		// change CO
 		var myCiDate = new Date();
 		var myCoDate = new Date();
-		myCiDate.setFullYear(ci_year,ci_month-1,ci_day)	
-		myCoDate.setFullYear(co_year,co_month-1,co_day)	
+		myCiDate.setFullYear(ci_year,ci_month-1,ci_day);	
+		myCoDate.setFullYear(co_year,co_month-1,co_day);	
 		days.value = (myCoDate-myCiDate)/(24*60*60*1000);
 	}
 				
-}
+}*/
 			//-->
 </script>
 
@@ -699,6 +745,7 @@ function submit_login_form(formObj){
 <div class="float_left" style="padding:27px 0px 0px; width:100%;border:0px solid red;">
 	<div class="float_left" style="width:463px; padding:5px 0px 0px 10px; ">
 		<div class="width_auto float_left color_white">» <a href="agent_registration.php" class="color_white">Agents Register Here</a></div>
+		<div class="width_auto float_left color_white">» <a href="supplier_registration.php" class="color_white">Supplier Register Here</a></div>
 		<div class="width_auto float_right color_white">» <a href="forgot_password.php" class="color_white">Forgot Password</a></div>
 		<div class="float_left" style="width:100%; padding:3px 0px 0px;">
 			
@@ -735,7 +782,7 @@ function submit_login_form(formObj){
 				<td align="left" valign="top" style="height:17px;"><img src="images/img_002_2.jpg" alt=""></td>
 			  </tr>
 		  </tbody></table>
-		  <div id="abc" style="display:none;"></div>
+		  <div id="abc" style="display: block;"></div>
 		</div>
 	</div>
 	<div class="float_right" style="width:483px; padding:0px 10px 0px 0px;">
@@ -759,40 +806,47 @@ function submit_login_form(formObj){
 	</div>
 </div>
 			 <div class="vertical_spacing" style="height:8px;"></div>
-            <!-- banner starts-->
-			 <div class="float_left" style="width:100%; background:#FFFFFF; ">
+            <!--   banner starts-->
+		     <div class="float_left" style="width:100%; background:#FFFFFF; ">
   <div style="width:auto; margin:auto; text-align:center;">
 		<img src="images/banner_privacy_policy.jpg" alt="" border="1">
   </div>
   <div class="vertical_spacing" style="height:8px;"></div>
 </div>
 
- 
             <!-- banner ends-->
+            
             <div class="vertical_spacing"></div>
             <!--mid nav start-->
             <div class="float_left" style="width:98%; background:#FFFFFF; padding:0px 10px;">
             	<!--mid left start-->
-                 <div class="float_left width_100per;" style="margin-left:2px;border:0px solid red;">
-  <div class="float_left" style="width:680px;">
-	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <div class="float_left width_100per;" style="margin-left:2px;border:0px solid red;">
+  <div class="float_left" style="width:680px;background:url(images/img_012.jpg) top left repeat-x;">
+		<div class="float_left">
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
 	<tbody><tr>
-	  <td width="39" align="left" valign="top"><a href="index.php"><img src="images/btn_home.jpg" alt="" width="39" height="27"></a></td>
-	  <td width="65" align="left" valign="top"><a href="packages.php"><img src="images/btn_packages.jpg" alt="" width="65" height="27"></a></td>
-	  <td width="78" align="left" valign="top"><a href="car_rentals.php"><img src="images/btn_car_rentals.jpg" alt="" width="78" height="27"></a></td>
-	  <td width="62" align="left" valign="top"><a href="groups.php"><img src="images/btn_services.jpg" alt="" width="91" height="27"></a></td>
-	  <td width="82" align="left" valign="top"><a href="destinations.php"><img src="images/btn_destinations.jpg" alt="" width="82" height="27"></a></td>
-	  <td width="51" align="left" valign="top"><a href="hotel_search.php"><img src="images/btn_hotels.gif" width="51" height="28"></a></td>
-	  <td width="80" align="left" valign="top"><a href="sight_search.php"><img src="images/btn_sight_seeing.gif" alt="" width="80" height="28"></a></td>
+	  <td align="left" valign="top"><a href="index.php"><img src="images/btn_home.jpg" alt="" width="39" height="27"></a></td>
+	  
+	  <td align="left" valign="top"><a href="hotel_search.php"><img src="images/btn_hotels.gif" width="51" height="28"></a></td>
+	  <td align="left" valign="top"><a href="sight_search.php"><img src="images/btn_sight_seeing.gif" alt="" width="80" height="28"></a></td>
 	  <td align="left" valign="top"><a href="transfer_search.php"><img src="images/btn_transfers.gif" alt="" width="69" height="28"></a></td>
-		<td width="136" align="right" valign="middle" style="background:url(images/img_012.jpg) top left repeat-x;">
-		<a href="login.php"><img src="images/login_btn.jpg" alt="" style="padding-right:5px;"></a></td>
+	<td width="78" align="left" valign="top">&nbsp;</td>
+	  <td width="62" align="left" valign="top">&nbsp;</td>
+	  <td width="82" align="left" valign="top">&nbsp;</td>  
+	<td width="82" align="left" valign="top">&nbsp;</td>    
+		<td align="right" valign="middle" width="82">
+		<a href="login.php"><img src="images/login_btn.jpg" alt="" style="padding-right:5px;padding-left:2px;"></a></td>
 	</tr>
     </tbody></table>
-
+	</div>
   </div>
     <div class="float_left width_auto"><img src="images/call_us_img.jpg" alt=""></div>
-</div>  
+</div>
+
+<!--<a href="car_rentals.php"><img src="images/btn_car_rentals.jpg" alt="" width="78" height="27" /></a>-->
+<!--<a href="groups.php"><img src="images/btn_services.jpg" alt="" width="91" height="27" /></a>-->
+<!--<a href="destinations.php"><img src="images/btn_destinations.jpg" alt="" width="82" height="27" /></a>-->
+<!--<td  align="left" valign="top"><a href="packages.php"><img src="images/btn_packages.jpg" alt="" width="65" height="27" /></a></td>--> 
 				<div class="float_left color_black " style="width:69.4%; border:1px solid #bdbdbd; text-align:justify">
 	<div style="background:#fff8eb; padding:6px; border-bottom:1px solid #b2b2b2;"><img src="images/privacy_policy.jpg" alt=""></div>
 	<div style="padding:5px;">
@@ -866,7 +920,20 @@ function submit_login_form(formObj){
 	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
 	    <td width="60" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="advertising.php">Advertising</a></td>
 	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
-	    <td align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="jobs.php">Jobs</a></td>
+        <!--  <td width="40" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="http://www.rezlive.com/cruises" target="_blank">Cruises</a></td>-->
+	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
+	    <td align="left" valign="top" style="padding:0px 0px 0px 5px;"><!--<a href="jobs.php">Jobs</a> -->
+        	<div id="jobs"> </div>
+			<script type="text/javascript">
+            // <![CDATA[
+            var so = new SWFObject("images/jobs.swf", "Index", "92px", "26px", "9", "#000000");
+            so.addVariable("flashVarText", "this is passed in via FlashVars for example only");
+            so.addParam("scale", "noscale");
+            so.addParam("wmode", "transparent");
+            so.write("jobs");
+            // ]]>
+            </script>
+        </td>
 	    
 	</tr>
 	</tbody></table>
