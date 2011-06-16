@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextjump.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023123805id_/http%3A//www.nextjump.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextjump.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616054324id_/http%3A//www.nextjump.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- Next Jump
 
@@ -10,7 +10,7 @@ We are committed to protecting your privacy. At no time will we trade, sell, or 
 
 Next Jump Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site(s) www.nextjump.com, www.corporateperks.com and private label sub-domains delivered by Next Jump Inc., (i.e. uk.corporateperks.com, etc.). Because Next Jump Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/web/20101023123805id_/http%3A//www.nextjump.com/index/info@nextjump.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, please [contact us](mailto:info@nextjump.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Next Jump Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
@@ -55,9 +55,9 @@ This privacy statement covers the use of cookies by www.nextjump.com and www.cor
 
 Next Jump Inc. will not send unsolicited emails to registered users of Perks without consent. Additionally, users may choose to receive Perks correspondence, including email reminders of specific vendor offers and Perks newsletters. The "my account" channel on the site displays the correspondence you've elected to receive, and provides the option to unsubscribe from future Perks related emails. 
 
-All emails sent by Perks contain directions on how to unsubscribe from future correspondence. At any time, users may opt-out of Perks related correspondence by reaching us on our [contact us](https://web.archive.org/web/20101023123805id_/http%3A//www.nextjump.com/index/info@nextjump.com). Users may also access their personal information, including email address to make edits in the “My Account” section of the website. 
+All emails sent by Perks contain directions on how to unsubscribe from future correspondence. At any time, users may opt-out of Perks related correspondence by reaching us on our [contact us](mailto:info@nextjump.com). Users may also access their personal information, including email address to make edits in the “My Account” section of the website. 
 
-In addition, a registered user who wishes that their personal information, including email address to be completely removed from the Perks database should [contact us](https://web.archive.org/web/20101023123805id_/http%3A//www.nextjump.com/index/info@nextjump.com) We will respond to your request within twenty [20] business days. An employee's complete removal of his or her personal information from the database negates that employee's ability to login to Perks. 
+In addition, a registered user who wishes that their personal information, including email address to be completely removed from the Perks database should [contact us](mailto:info@nextjump.com) We will respond to your request within twenty [20] business days. An employee's complete removal of his or her personal information from the database negates that employee's ability to login to Perks. 
 
 Users will be notified of changes or revisions to this Privacy Policy, including our email practices, by a notice posted on the Perks login page. The notice will contain a link, whereby the Privacy Policy can be examined in full. In this way registered users are made aware of policy changes prior to shopping or browsing the Web Site. As always, a user who is not amenable to the conditions of a revised Privacy Policy may opt-out of Perks by means outlined earlier in this document. 
 
@@ -96,7 +96,7 @@ Next Jump Inc. is committed to protecting your privacy. Next Jump Inc. does not 
 
 Next Jump Inc. uses the information collected on the site to make shopping and promotional activities possible and to enhance your overall experience with Perks. 
 
-If you have any questions regarding the Privacy Policy please [contact us](https://web.archive.org/web/20101023123805id_/http%3A//www.nextjump.com/index/info@nextjump.com).
+If you have any questions regarding the Privacy Policy please [contact us](mailto:info@nextjump.com).
   *[IDs]: Identifications
   *[Inc.]: Incorporated
   *[RSVP]: Reply, please
