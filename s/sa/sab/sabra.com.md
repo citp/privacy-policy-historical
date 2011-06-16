@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sabra.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129105007id_/http%3A//www.sabra.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabra.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616203846id_/http%3A//sabra.com/privacy_policy) for the most accurate reproduction.*
 
-# Sabra | Adventure Awaits
+# Privacy Policy
 
 Sabra Dipping Company, LLC (“Sabra”) respects your concerns about privacy. This Privacy Policy applies to personal information we collect on Sabra.com (the “Site”). It does not apply to the [careers page.](http://www.careerbuilder.com/csh/search.aspx?csh=CSH_SabraDippingComp&pubjobs=true&privjobs=true&int=false)
 
