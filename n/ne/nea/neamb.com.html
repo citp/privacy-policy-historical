@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the neamb.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229163823id_/http%3A//www.neamb.com/home/775.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neamb.com privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616235248id_/http%3A//www.neamb.com/home/775.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Code trims pageId from page title --><head><!-- PageID 775 - published by RedDot 7.5 - 7.5.2.17 - 27047 -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -47,6 +47,10 @@
       
 
 <!-- **************** SSL DYNAMENT REDIRECT LOGIC END (MB) ************************** -->
+
+<!-- **************** CONDITION TO CHECK FOR DUPLICATE REGISTRATIONS ***************** -->
+
+<!-- ******************************************************************************** -->
 
    
 
@@ -101,20 +105,15 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <!-- Related sites Panel END-->
 <span style="float:left">
 <img src="/assets/template/images/lock.gif">
-
 </span>
 
 
-
         <span>
-          <a href="/home/home.htm" class="headerLinks">Home</a> <a href="/home/ns/788.htm" class="headerLinks">About</a><a href="/home/584.htm" class="headerLinks">Register</a><a href="/home/newsitemap.htm" class="headerLinks">Sitemap</a> <a href="/home/helpme.htm" class="headerLinks">Help Me</a> <a href="/home/847.htm" class="headerLinks">Contact Us</a>             
+          <a href="/home/home.htm" class="headerLinks">Home</a> <a href="/home/788.htm" class="headerLinks">About</a><a href="/home/584.htm" class="headerLinks">Register</a><a href="/home/newsitemap.htm" class="headerLinks">Sitemap</a> <a href="/home/helpme.htm" class="headerLinks">Help Me</a> <a href="/home/847.htm" class="headerLinks">Contact Us</a>             
         </span>
       
 
-
-
         </div>
-
 <!-- top navigation END -->      
   <div class="top_items" style="">
                 <a href="/home/home.htm" style="float:left; display:inline; clear:none;"><img src="/assets/template/images/bkg_neambLogo.jpg" width="231" height="71" border="0"></a>
@@ -139,17 +138,13 @@ width:194px;
 cursor:pointer;
 }
 
-
 .loginLinkHeader{
 background:url(/assets/template/images/loginHeader.gif) no-repeat;
 height:25px;
 }
-
 * html .loginLinkOn {
 margin-left:4px;
-
 }
-
 .loginLinkOn a{
 font-size:11px;}
 .loginLinkBody{
@@ -180,17 +175,11 @@ position:absolute;
 width:200px !important;
 position:absolute;
 }
-
-@media screen and (-webkit-min-device-pixel-ratio:0 ) {
-.helpLoginLink{margin-left:19px;}
-}
 @media screen and (-webkit-min-device-pixel-ratio:0 ) {
 #helpImageChange{margin-right:-7px;}
 }
-
 .loginLink, x:-moz-any-link {margin-left:-4px;}
 .loginLink, x:-moz-any-link, x:default {margin-left:4px;}
-
 .loginLinkOn, x:-moz-any-link {
 margin-left:-4px;
 width:194px;
@@ -199,10 +188,8 @@ width:194px;
 margin-left:4px;
 width:194px;
 }
-
 .hoverGoBtn {height: 25px; width: 28px; background: url(/assets/template/images/goBtnLoginOver.jpg) 0 0 no-repeat;float:right; border:0;margin-top:-10px}
 .hoverGoBtn:hover {background-position: -28px 0px;}
-
 @media screen and (-webkit-min-device-pixel-ratio:0) {
    .hoverGoBtn {
     height: 25px; width: 28px; background: url(/assets/template/images/goBtnLoginOver.jpg) 0 0 no-repeat;float:right; border:0;margin-top:-10px;
@@ -215,7 +202,6 @@ width:194px;
    }
 }
  </style>
-
 <script type="text/javascript">
 $(document).ready(function(){
 $('#login-username').attr("value","Username");
@@ -242,7 +228,11 @@ $('#login-password').show();
 $('#login-password').focus();
 }
 function clearUser(){
-$('#login-username').attr("value","");
+var value;
+value =  $('#login-username').attr("value");
+    if (value == "Username") {
+        $('#login-username').attr("value","");
+    }
 }
 function changeState(){
 var userBox=document.getElementById('login-username').value;
@@ -257,6 +247,7 @@ $('#errloginMsg').remove();
 $('.loginLinkBody').append('<div id="errloginMsg" style="color: rgb(255, 0, 0); font-size: 10px; font-family: Verdana; margin-bottom: 0px;">We are sorry, but the email address and/or password you entered were not recognized. Please try again.</div>');
 }
 else{
+toggleCookie();
 document.getElementById('login-form').submit();
 }
 }
@@ -274,13 +265,13 @@ $('#helpImageChange').attr('src','/assets/template/images/helpIcon2.png');
 }
   function changeLoginLayout(){    
                                                     $('#ckbLabel').css('width','100px');
-                                                    $('#ckbLabel').css('margin-top','5px');
+                                                   // $('#ckbLabel').css('margin-top','5px');
                                                     $('#cbk_remember').css('margin-top','2px');
-                                                    $('#login-password').css('margin-top','10px');
-                                                    $('#login-password').css('margin-bottom','15px');     
-                                                    $('#linksLogin2').css('margin-top','-15px');
+                                                   // $('#login-password').css('margin-top','10px');
+                                                   // $('#login-password').css('margin-bottom','15px');     
+                                                   // $('#linksLogin2').css('margin-top','-15px');
                                                     $('#linksLogin').css('padding-left','12px');
-                                                    $('#linksLogin2').css('margin-left','-5px');
+                                                   // $('#linksLogin2').css('margin-left','-5px');
                                                     $('#loginBtnGo').css('margin-top','-6px');
                                                     $('.registerlinksLogin2 ').css('padding-left','6px');
                                                     $('.helplinksLogin2').css('margin-left','19px');
@@ -330,18 +321,24 @@ return true
                 }
             </script>
             
-        <input type="text" size="28" id="login-username" name="login-username" style="padding-left:8px;color:#000;width:160px; " onfocus="clearUser()" value=""> 
+        <input type="text" size="28" id="login-username" name="login-username" style="padding-left:8px;color:#000;width:160px; " onfocus="clearUser()" onkeypress="checkEnter(event)" value=""> 
         <div class="fnameError"></div><br>
  <input type="text" size="28" value="Password" id="login-password1" style=" padding-left:8px;color:#000;width:160px;" name="login-password1" onkeypress="checkEnter(event)" onfocus="convertPass()">
         <input type="password" size="28" value="" id="login-password" style=" padding-left:8px;color:#000;width:160px;display:none;" name="login-password" onkeypress="checkEnter(event)">
         <div class="fnameError"></div><br>
-        <input class="ckb" id="ckb_remember" type="checkbox" name="rememberMe" style="float:left;margin:0px; padding:0px;" onclick="toggleCookie();"> 
-        <label id="ckbLabel" style="float:left;color:#444444;padding-left:3px;font-family:Tahoma;font-size:9px;margin-top:3px;">Remember me</label>
+        <input class="ckb" id="ckb_remember" type="checkbox" checked="checked" name="rememberMe" style="float:left;margin:0px; padding:0px;" onclick="toggleCookie();"> 
+        <label id="ckbLabel" style="float:left;color:#444444;padding-left:3px;font-family:Tahoma;font-size:9px;">Remember me</label>
         <a href="#" id="loginBtnGo" onclick="changeState();" name="loginBtn" alt="Login" class="hoverGoBtn" style=""></a> 
              </form>
          <br>
-         <div style="margin-top:15px;"></div>
-         <div id="linksLogin2" style="width:194px;padding:0px;margin-left:-5px;"><a href="/home/584.htm" class="registerlinksLogin" id="registerLoginLink" style="" onmouseover="linkRollReg();" onmouseout="outlinkRollReg();"><strong>Register</strong>&nbsp;<img id="regImageChange" src="/assets/template/images/registerIcon.png" alt="register"></a> <a href="/home/4679.htm" id="helpLoginLink" class="helplinksLogin" style="margin-left:21px;" onmouseover="linkRollHelp();" onmouseout="outlinkRollHelp();"><strong>Log-In help&nbsp;<img id="helpImageChange" src="/assets/template/images/helpIcon.png" alt="help" style="border:0px;"></strong></a><br>
+         <div style="margin-top:15px;clear:both;"></div>
+         <div id="linksLogin2" style="padding:0px;">
+            <a href="/home/584.htm" class="registerlinksLogin" id="registerLoginLink" style="float:left;" onmouseover="linkRollReg();" onmouseout="outlinkRollReg();">
+            <strong>Register</strong><img id="regImageChange" src="/assets/template/images/registerIcon.png" alt="register"></a> 
+            <a href="/home/4679.htm" id="helpLoginLink" class="helplinksLogin" style="float:right;" onmouseover="linkRollHelp();" onmouseout="outlinkRollHelp();">
+            <strong>Log-In help<img id="helpImageChange" src="/assets/template/images/helpIcon.png" alt="help" style="border:0px;"></strong></a>
+            <br>
+            <div style="clear:both;"></div>
         </div>
          </div>
         <div class="loginLinkFooter"></div>
@@ -475,19 +472,19 @@ var selectedItemContent=Array();
 </script>
 <div class="wrapper_announcement" style="">
 <div class="DefaultBgAnounce" style="padding-left:1px;pading-right:1px;font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; text-align:center; color:#02327A;">
-<a href="http://www.neaacademy.org/" id="anchorAnnouncement"><img id="imageAnnouncement" class="imgAnnounce" src="/assets/template/images/academy_universalbanner.gif" style="vertical-align:middle; width:700px;height:32px;"></a></div>
+<a href="http://www.neamb.com/assistance" id="anchorAnnouncement"><img id="imageAnnouncement" class="imgAnnounce" src="/assets/template/images/AnnounceAd_MAPuniversal.gif" style="vertical-align:middle; width:700px;height:32px;" onload="ga_track_impression('AnnouncementBar - ' + getFileName(this.src).split('.',1))" onclick="ga_track_link('AnnouncementBar - ' + getFileName(this.src).split('.',1))"></a></div>
 </div>
 
 <script type="text/javascript">
 if(currentChannelAn=="Money")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_moneybanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_moneybanner.gif";
 }
 if(currentChannelAn=="")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_moneybanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_moneybanner.gif";
 }
 </script>
 <!--/home/2899.htm-->
@@ -495,13 +492,13 @@ selectedItemContent[1]="/assets/template/images/academy_moneybanner.gif";
 <script type="text/javascript">
 if(currentChannelAn=="Everyday Living")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_everydaylivingbanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_everydaylivingbanner.gif";
 }
 if(currentChannelAn=="")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_everydaylivingbanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_everydaylivingbanner.gif";
 }
 </script>
 <!--/home/2900.htm-->
@@ -509,13 +506,13 @@ selectedItemContent[1]="/assets/template/images/academy_everydaylivingbanner.gif
 <script type="text/javascript">
 if(currentChannelAn=="Health & Wellness")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_healthbanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_healthbanner.gif";
 }
 if(currentChannelAn=="")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_healthbanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_healthbanner.gif";
 }
 </script>
 <!--/home/2901.htm-->
@@ -523,13 +520,13 @@ selectedItemContent[1]="/assets/template/images/academy_healthbanner.gif";
 <script type="text/javascript">
 if(currentChannelAn=="Professional Resources")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_professionalresourcesbanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_professionalresourcesbanner.gif";
 }
 if(currentChannelAn=="")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_professionalresourcesbanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_professionalresourcesbanner.gif";
 }
 </script>
 <!--/home/2902.htm-->
@@ -537,13 +534,13 @@ selectedItemContent[1]="/assets/template/images/academy_professionalresourcesban
 <script type="text/javascript">
 if(currentChannelAn=="Travel & Leisure")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_travelbanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_travelbanner.gif";
 }
 if(currentChannelAn=="")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_travelbanner.gif";
+selectedItemContent[0]="http://www.educationvotes.nea.org/";
+selectedItemContent[1]="/assets/template/images/whatshappening_travelbanner.gif";
 }
 </script>
 <!--/home/2903.htm-->
@@ -551,13 +548,13 @@ selectedItemContent[1]="/assets/template/images/academy_travelbanner.gif";
 <script type="text/javascript">
 if(currentChannelAn=="Default")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_universalbanner.gif";
+selectedItemContent[0]="http://www.neamb.com/assistance";
+selectedItemContent[1]="/assets/template/images/AnnounceAd_MAPuniversal.gif";
 }
 if(currentChannelAn=="")
 {
-selectedItemContent[0]="http://www.neaacademy.org/";
-selectedItemContent[1]="/assets/template/images/academy_universalbanner.gif";
+selectedItemContent[0]="http://www.neamb.com/assistance";
+selectedItemContent[1]="/assets/template/images/AnnounceAd_MAPuniversal.gif";
 }
 </script>
 <!--/home/2898.htm-->
@@ -649,6 +646,7 @@ $('#benDrop').show();
 </script>
 
 <style>
+.dropBody,.dropFooter {position:relative;z-index:1}
 .dropBody li a{
 font-family:Verdana;
 font-size:11px;
@@ -715,7 +713,34 @@ color:#002c71;
         </div>
     </div>
 </div>
-<div class="moduleDivider_Default">  </div>
+<div class="moduleDivider_Default">  </div>  
+ 
+<div class="myStatusRail">
+    <div class="myStatusTop"></div>
+    <div class="myStatusMid">
+    
+   
+     
+        
+
+
+
+        <p style="*margin-bottom:9px;" class="pleaseLoginMyStatus">Please <a href="/home/login.htm">log in</a> to view your status.</p><br>
+        
+        
+            
+        </div>
+        <div class="myStatusBottom"></div>   
+ </div>
+  <div class="moduleDivider_Default"></div>
+<script>
+$(document).ready(function() {
+$('.mystatus_email').mouseover(function(){$('.myStatus_longEmail').show();})
+$('.mystatus_email').mouseout(function(){$('.myStatus_longEmail').hide();})
+    $('.myStatus_longEmail').mouseover(function(){$('.myStatus_longEmail').show();})
+    $('.myStatus_longEmail').mouseout(function(){$('.myStatus_longEmail').hide();}) 
+});
+</script>
 <style>
 .sweepImage{
 padding-top:15px;
@@ -728,31 +753,20 @@ overflow:hidden;
 
 <div class="contentRailModule" style="padding:0; text-align:center;">
     
-    <div class="sweepImage"><a href="http://www.neamb.com/home/4517.htm"><img style="border:0;" src="/assets/content/images/holiday2010_rail.jpg" onclick="googleAnalyticsSubmit();"></a></div>
+    <div class="sweepImage"><a href="http://www.neamb.com/home/1199_864.htm"><img style="border:0;" src="/assets/content/images/100sc_complete_rail.jpg" onload="ga_track_impression('Sweepstakes - ' + getFileName('/assets/content/images/100sc_complete_rail.jpg').split('.',1))" onclick="ga_track_link('Sweepstakes - ' + getFileName('/assets/content/images/100sc_complete_rail.jpg').split('.',1))"></a></div>
    </div>
- <div class="moduleDivider_Default"></div>  
-
-
-<script type="text/javascript">
-function googleAnalyticsSubmit()
-{
-  neambnav="mm_" + "SweepstakesModule" + "_" + "/assets/content/images/holiday2010_rail.jpg";
-  var pageTracker = _gat._getTracker("UA-5935845-1");
-  pageTracker._trackPageview(neambnav);
-}
-</script>
-
+ <div class="moduleDivider_Default"></div>
 <div id="discount_module" class="contentRailModule" style="padding: 0pt; text-align: center;">
     
     <div id="discount_img" style="">
         
         
         
-            <a id="discountAnchor" href="http://www.neamb.com/home/1207_2678.htm"><img id="discountImage" onclick="googleAnalyticsSubmit();" src="/assets/content/documents/B036_ClickAndSave_discount_mod.jpg"></a>
+            <a id="discountAnchor" href="http://www.neamb.com/home/1207_2678.htm"><img id="discountImage" onload="ga_track_impression('DiscountModule - ' + getFileName(this.src).split('.',1))" onclick="ga_track_link('DiscountModule - ' + getFileName(this.src).split('.',1))" src="/assets/content/documents/B036_ClickAndSave_discount_mod.jpg"></a>
         
     </div>
     <div id="discount_all_link" style="">
-        <a id="discount_all" style="font-size:11px;font-weight:bold;" href="/home/productsAndServices_750.htm?category=Discounts">View all Discounts</a>
+        <a id="discount_all" style="font-size:11px;font-weight:bold;" href="http://www.neamb.com/teacher-discounts">View all Discounts</a>
         
     </div>    
   
@@ -762,14 +776,6 @@ function googleAnalyticsSubmit()
         {prod:'',img:'', anchor:''}]};
     </script>
    
-    <script type="text/javascript">
-    function googleAnalyticsSubmit()
-    {
-        neambnav="mm_" + "DiscountModule" + "_" + "/assets/content/images/smithsonian.jpg";
-        var pageTracker = _gat._getTracker("UA-5935845-1");
-        pageTracker._trackPageview(neambnav);
-    }
-   </script>
  
     <script type="text/javascript" src="/home/cookies.js"></script>
     <script type="text/javascript" src="/home/discountModule.js"></script>
@@ -814,9 +820,9 @@ font-size:11px;
 
 <div class="contentRailModule" style="padding:0;text-align:center;">
   
-  <div class="didUknowTitle"><img src="/assets/content/images/cash_back_header.jpg"></div>
+  <div class="didUknowTitle"><img src="/assets/content/images/sallie_mae_sweeps_header.gif"></div>
   
-  <div class="didUknowText"><a style="TEXT-DECORATION: none" href="http://www.neamb.com/home/1199_4723.htm"><img src="/assets/images/cash_rewards.gif"></a><br><br><a style="TEXT-DECORATION: none" href="http://www.neamb.com/home/1199_4723.htm">The New NEA Cash Rewards<sup>SM</sup><br>Visa Signature<sup>®</sup> Card<br><br>Enjoy the benefits of membership<br>with more ways to earn<br>cash back and save money.</a></div>
+  <div class="didUknowText"><a style="TEXT-DECORATION: none" onclick="ga_track_link('sallie mae sweeps - home')" href="http://www.neamb.com/home/192.htm"><img src="/assets/images/sallie_mae_sweeps_160x110.jpg"></a><br><a style="TEXT-DECORATION: none" onclick="ga_track_link('sallie mae sweeps - home')" href="http://www.neamb.com/home/192.htm">Every month through August,<br>we’re giving away a $2,000<br>scholarship from Sallie Mae.<br>Enter today!</a></div>
   
 
 <style>
@@ -964,19 +970,19 @@ margin-left:24px;
         
 <div id="prodAdDiv">
 <div id="productAdItem1" xmlns:ns="http://ws.neamb.org">
-<a href="/home/1199_884.htm"><img src="/assets/images/ProductAdModuleImages/B016_GroupTerm_product_mod.jpg"></a><input id="productAdCount" type="hidden" value="1"><input id="productAdElementsNumber" type="hidden" value="5">
+<a href="/home/1199_884.htm"><img src="/assets/images/ProductAdModuleImages/B016_GroupTerm_product_mod.jpg" onload="ga_track_impression('ProductAD - ' + getFileName(this.src).split('.',1))" onclick="ga_track_link('ProductAD - ' + getFileName(this.src).split('.',1))"></a><input id="productAdCount" type="hidden" value="1"><input id="productAdElementsNumber" type="hidden" value="5">
 </div>
 <div style="display:none;" id="productAdItem2" xmlns:ns="http://ws.neamb.org">
-<a href="/home/1199_875.htm"><img src="/assets/images/ProductAdModuleImages/B010_refi_product_mod.jpg"></a>
+<a href="/home/1199_875.htm"><img src="/assets/images/ProductAdModuleImages/B010_refi_product_mod.jpg" onload="ga_track_impression('ProductAD - ' + getFileName(this.src).split('.',1))" onclick="ga_track_link('ProductAD - ' + getFileName(this.src).split('.',1))"></a>
 </div>
 <div style="display:none;" id="productAdItem3" xmlns:ns="http://ws.neamb.org">
-<a href="/home/1199_4750.htm"><img src="/assets/images/ProductAdModuleImages/sallie_mae_product_mod.jpg"></a>
+<a href="/home/1199_4750.htm"><img src="/assets/images/ProductAdModuleImages/sallie_mae_product_mod.jpg" onload="ga_track_impression('ProductAD - ' + getFileName(this.src).split('.',1))" onclick="ga_track_link('ProductAD - ' + getFileName(this.src).split('.',1))"></a>
 </div>
 <div style="display:none;" id="productAdItem4" xmlns:ns="http://ws.neamb.org">
-<a href="/home/1199_905.htm"><img src="/assets/images/ProductAdModuleImages/B028_valebuilder_product_mod.jpg"></a>
+<a href="/home/1199_905.htm"><img src="/assets/images/ProductAdModuleImages/B028_valebuilder_product_mod.jpg" onload="ga_track_impression('ProductAD - ' + getFileName(this.src).split('.',1))" onclick="ga_track_link('ProductAD - ' + getFileName(this.src).split('.',1))"></a>
 </div>
 <div style="display:none;" id="productAdItem5" xmlns:ns="http://ws.neamb.org">
-<a href="/home/1207_864.htm"><img src="/assets/images/ProductAdModuleImages/B002_wpvisa_product_mod.jpg"></a>
+<a href="http://www.neamb.com/home/1199_4723.htm"><img src="/assets/images/ProductAdModuleImages/productad_cashrewards.jpg" onload="ga_track_impression('ProductAD - ' + getFileName(this.src).split('.',1))" onclick="ga_track_link('ProductAD - ' + getFileName(this.src).split('.',1))"></a>
 </div>
 <script language="JavaScript" type="text/javascript" xmlns:ns="http://ws.neamb.org">
 					$("#productAdCount#").val(1);
@@ -1002,10 +1008,11 @@ setTimeout('slideProductAdJS(5000)',5000);
         <div class="greatOfferText">
             
             <ul>
+<li><a onclick="ga_track_link('MostPopular - NEA Auto Purchase Advantage')" href="http://www.neamb.com/home/1207_4555.htm"><font size="1"><strong>NEA Auto Purchase Advantage</strong></font></a> </li>
 <li><a onclick="ga_track_link('MostPopular - Click &amp; Save')" href="http://www.neamb.com/home/1207_2678.htm"><font size="1"><strong>NEA Click &amp; Save</strong></font></a> </li>
 <li><a onclick="ga_track_link('MostPopular - Life Insurance Plans')" href="http://www.neamb.com/life-insurance"><font size="1"><strong>NEA Life Insurance Plans</strong></font></a> </li>
 <li><a onclick="ga_track_link('MostPopular - 5 Min Retirement')" href="http://www.neamb.com/home/1221_1143.htm"><font size="1"><strong>5 Min. Retirement Checkup</strong></font></a> </li>
-<li><a onclick="ga_track_link('MostPopular - Previous Sweeps Winners')" href="http://www.neamb.com/home/2784.htm"><font size="1"><strong>Previous Sweepstakes Winners</strong></font></a> </li></ul>
+<li><a onclick="ga_track_link('MostPopular - Sweepstakes Winners')" href="https://www.neamb.com/home/2784.htm"><font size="1"><strong>Previous Sweepstakes Winners</strong></font></a> </li></ul>
         </div>
     
 </div>
@@ -1013,8 +1020,8 @@ setTimeout('slideProductAdJS(5000)',5000);
 <div class="contentRailModule">
 
 <div style="">
-<!-- <a href="<a href="mailto:ask-us@neamb.com"><img src="/assets/content/images/needHelp.jpg"></a>"><img src="<img src="/assets/content/images/needHelp.jpg">" style="border:0px;" /></a> -->
-<a href="mailto:ask-us@neamb.com"><img src="/assets/content/images/needHelp.jpg"></a>
+<!-- <a href="<a href="/home/webinquiry.htm"><img src="/assets/content/images/needHelp.jpg"></a>"><img src="<img src="/assets/content/images/needHelp.jpg">" style="border:0px;" /></a> -->
+<a href="/home/webinquiry.htm"><img src="/assets/content/images/needHelp.jpg"></a>
 </div>
 </div>
 <div class="moduleDivider_Default">  </div>
@@ -1028,7 +1035,7 @@ setTimeout('slideProductAdJS(5000)',5000);
     <div>
         <div id="footer_menu" class="footerLinks" style="width:550px;margin:0 auto;color:#5F5D5E; padding-left:50px;">
             <a href="/home/home.htm">Home</a>
-            <a href="/home/ns/788.htm">About</a>
+            <a href="/home/788.htm">About</a>
             <a href="/home/783.htm">Careers</a>
             
             <a href="/home/1088.htm">Advertising</a>
@@ -1040,7 +1047,7 @@ setTimeout('slideProductAdJS(5000)',5000);
             <a style="text-decoration: none;" class="" href="http://www.nea.org/home/1621.htm" target="_blank"><span style="text-decoration: underline;">State Affiliate Sites</span><img src="/assets/template/images/arrows.jpg"></a>
         </div>
         <div class="footer_info" style="font-size:10px;color:#A4A3A1;height:35px">
-            <br>© 2010 NEA’s Member Benefits Corp.
+            <br>© 2011 NEA’s Member Benefits Corp.
             <div id="footer_bar">
             </div>
         </div>
