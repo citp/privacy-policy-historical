@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231200656id_/http%3A//www.independenttraveler.com/aboutus/%3FID%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616202204id_/http%3A//www.independenttraveler.com/aboutus/%3FID%3D11) for the most accurate reproduction.*
 
 # The Independent Traveler: About Us
 
@@ -21,4 +21,11 @@ We have adopted the following Principles of Privacy, which summarize and clarify
 
 _Information Collected by Third Parties_. Third parties, such as vendors, advertising entities, and business partners, may use cookies and other technologies to collect information about your online activities. The purposes for collecting this information include: to measure usage of our site; to analyze, modify, and personalize advertising content on this and other sites; and to provide ads about goods and services that may be of interest to you. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy. Some of these third parties may be third-party network advertisers that offer you the option of not having this information collected. To learn more, please see <http://www.networkadvertising.org/>. 
 
-This Privacy Policy is effective as of 11/12/2008. 
+7\. Email newsletters. If you wish to unsubscribe from our email newsletters at any time, please visit <http://www.independenttraveler.com/newsletter/manage.cfm> or contact the [Community Manager](mailto:community@independenttraveler.com). 
+
+The Independent Traveler, Inc.   
+7 Tree Farm Road   
+Pennington, NJ 08534   
+609-730-9155 
+
+This Privacy Policy is effective as of 02/24/2011. 
