@@ -1,103 +1,54 @@
-> *The following text is extracted and transformed from the gocityguides.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811074630id_/http%3A//www.gocityguides.com/main/privacy_policy%2520.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocityguides.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616220243id_/http%3A//www.gocityguides.com/delhi/content/privacy-policy.aspx) for the most accurate reproduction.*
 
-# privacy_policy
+# Vasundhara Media Pvt. Ltd
 
-This site is the responsibility of **Vasundhara Publications**. We want you to: 
+Privacy Policy 
 
-**1.** feel comfortable using our web sites  
-**2.** feel secure submitting information to us  
-**3.** contact us with your questions or concerns about privacy on this site  
-**4.** know that by using our sites you are consenting to the collection of certain data
+**Privacy Policy**
 
-**WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?**
+  
+We are committed in respecting the privacy of every person who accesses / avails our Service either though the website - gocityguides.com or WAP or SMS through Mobile phones or telephone search by calling us or any other medium through which planyourweddding.co.in may provide its service ("Service"). You may share your personal information upon you accessing / availing our Service. Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you.  
+The purpose of this Privacy Policy (the "Policy"), as amended from time to time, is to give you an understanding on how we intend to collect and use the information you provide to us. The Policy is subject to our changes. Upon updating the Policy, we will also revise the "Updated" date at the bottom of this Policy.  
+By accessing the Service and providing us such information, you hereby consent to the collection and use of such information for the purposes disclosed in this Policy.
 
-We may collect certain anonymous information in standard usage logs through our Web server, including: computer-identification information obtained from "cookies", sent to your browser from a
+**Personal Information**  
+When you register with or access the Service, you may be required to give information not limited to your age, gender, first and last name, birth date, title, zip code/ pin code, occupation, industry, personal interests, company or any other physical address, contact number, email or other contact information and other relevant data as desired by us("Personal Information"). Questions or comments submitted by visitors may also be included as Personal Information.
 
-**1.** web server and stored on your hard drive   
-**2.** an IP address, assigned to the computer which you use   
-**3.** the domain server through which you access our service   
-**4.** the type of computer you're using   
-**5.** the type of web browser you're using 
+**Personal Information and its usage**  
+We may use your Personal Information to:  
+send you, from time to time, updates or news regarding the Service;  
+respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;  
+to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the www.gocityguides.com/termsofuse or as otherwise required by law;  
+transfer information about you if we are acquired by or merged with another company.  
+send you updates or news regarding the Service, but you may choose not to receive email of this type by using the unsubscribe option.  
+seek your feedback or to contact you in relation to the Service offered;  
+administer or otherwise carry out our obligations in relation to any agreement you have with us;  
+anticipate and resolve problems related to the Service; and  
+allow you to subscribe to our newsletters;  
+allow you to enter promotions or sweepstakes.  
+allow you to get the best offers and discounts from merchants and advertisers in any category of your interest and share your Personal Information with such merchants and advertisers.  
+We may also remove all the personally identifiable information and use the rest for historical, statistical or scientific purposes.  
+You hereby consent that the collection and use of any Personal Information or any other information as disclosed under this Policy shall not cause any loss or wrongful gain to you. Further, you also hereby consent and acknowledge to be bound by the terms and conditions as detailed under - www.asklaila.com/termsofuse
 
-We may collect the following personally identifiable information about you:
+**Non-Personal Information and its usage**  
+We may additionally collect and track non-Personal Information about your visit including the domain name and the name of the web page from which you use our Service, how much time you spend on each of our web pages, the Internet Protocol (IP) address associated with your computer, operating system and platform, transaction history, pages viewed, information searched for or requested for, access time and other relevant statistics. We will use this information for the purposes of improving the performance and operations of our Service and attract advertisers and listings for our Service.
 
-**1.** name   
-**2.** email address   
-**3.** ZIP/Postal code   
-**4.** demographic profile (like your age, gender,occupation,education and durables owned)  
-**5.** interests (such as news, sports, travel and so on)  
-**6.** financial information (like account or credit card numbers)  
-**7.** opinions of features on our website(s). 
+**Authorization**  
+You authorize us to exchange, share, part with all information (Personal and non-personal), across borders and from your country and jurisdiction to any other countries and jurisdictions across the world, with any agent/third party service provider/banks/financial institutions/credit bureaus/agencies/participation in any telecommunication or electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management and shall not hold us liable for use or disclosure of this information.
 
-**WHO COLLECTS THE INFORMATION?**
+**Information placed on your computer**  
+We may store some information such as cookies on your computer when you access our Service. This information facilitates your use of the Service and ensures that you do not need to re-enter your details every time you visit our website to avail or access the Service. You can erase or choose to block this information from your computer. The cookies do not contain or capture any personal information. You can configure your computer's browser to alert you when our website while availing the Service is attempting to send you a cookie and allow you to accept or refuse the cookie. Your decision to refuse cookies will not prevent you from using the Service, but may limit your ability to take advantage of some of our advanced features.
 
-**1.** We will collect anonymous traffic information from you when you visit our site.  
-**2.** We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey or contest.  
-**3.** Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.  
-**4.** The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites.  
-**5.** We may make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. 
+**Children's Privacy**  
+Protecting the privacy of every minor is especially important to us. The Service is not structured to attract minor children under eighteen (18) years and you hereby acknowledge that you are above the age of eighteen (18) years while accessing / availing the Service.
 
-**HOW'S THE INFORMATION USED?**
+**Third Party Links**  
+As a matter of convenience to you, the Service may provide links and hyperlinks to third party advertisements as well as provide links and hyperlinks to external sites. The listing of an external site does not imply endorsement of such site by us. We do not make any representations regarding the availability and performance of the Service or any of the external sites which could be provided. If You click on any advertising banner, sponsor link, or other external link from the Service, you may automatically be directed to a new third party service / browser that is not hosted or controlled by us and we are not responsible for the content, terms of use, privacy policies and practices of such third party service / browser.
 
-We use personal information to:
+**Access/Accuracy**  
+To the extent that you provide us with Your Personal Information, we wish to maintain your Personal Information accurate at all times. If you need to update or correct Your Personal Information for any reason, you may send updates and corrections to us at privacy@gocityguides.com and we may take all reasonable efforts to incorporate the changes in your Personal Information within a reasonable period of time.
 
-**1.** help us provide personalized features   
-**2.** tailor our sites to your interest  
-**3.** get in touch with you when necessary 
+**Contacting Us**  
+We will address any questions, comments and concerns about our online privacy practice and policy. Please write to us at delhi@gocityguides.com
 
-We use contact information internally to: 
-
-**1.** direct our efforts for product improvement  
-**2.** contact you as a survey respondent  
-**3.** notify you if you win any contest  
-**4.** send you promotional materials from our contest sponsors or advertisers
-
-Generally, we use anonymous traffic information to: 
-
-**1.** remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective  
-**2.** recognize your access privileges to our Web sites  
-**3.** track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings  
-**4.** make sure that you don't see the same ad repeatedly  
-**5.** help diagnose problems with our server  
-**6.** administer our Web sites  
-**7.** track your session so that we can understand better how people use our sites 
-
-**WITH WHOM WILL YOUR INFORMATION BE SHARED?**
-
-We will not disclose any of your personally identifiable information to third parties unless: 
-
-**1.** we have your permission   
-**2.** special circumstances such as compliance with legal authorities require disclosure
-
-We will not use your financial information for any purpose other than to complete a transaction with you. We share survey contact information with advertisers on an aggregate basis only.
-
-**WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?**
-
-Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. 
-
-Upon request, we will remove your personally identifiable information from our database, thereby canceling your registration. See contact information below. 
-
-If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes. 
-
-All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. 
-
-**WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?**
-
-To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel. 
-
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. 
-
-**IN WHAT WAYS CAN THIRD PARTY ADVERTISING WORK?**
-
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
-
-**HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?**
-
-To correct or update any information you have provided, our sites give you the following options for changing:
-
-Send an e-mail to[ **vishy@thedelhicity.com**](mailto:vishy@thedelhicity.com)  
-Call the following telephone number: **+91 (11) 24107323, 24103561**
-
-**POLICY UPDATES**
-
-We reserve the right to change or update these policies at any time upon reasonable notice, effective immediately upon posting to this site.
+Date Updated: 25th October 2010
