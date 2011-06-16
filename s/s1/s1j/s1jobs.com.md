@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216060953id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616131730id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
