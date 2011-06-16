@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the churpchurp.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123190406id_/http%3A//www.churpchurp.com/wp-content/themes/churpchurp-2.0.0/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churpchurp.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616215233id_/http%3A//www.churpchurp.com/policy) for the most accurate reproduction.*
 
-# ChurpChurp | Social Media Solutions Community » Policy
+# ChurpChurp | A Community for Social Media Influencers » Policy
 
 ## Privacy Policy
 
