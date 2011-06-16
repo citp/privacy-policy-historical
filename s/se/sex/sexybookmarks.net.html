@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sexybookmarks.net privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227002558id_/http%3A//www.shareaholic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sexybookmarks.net privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616050103id_/http%3A//www.shareaholic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     
@@ -10,13 +10,38 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="alternate" type="application/rss+xml" title="Shareaholic Updates" href="http://feeds.feedburner.com/shareaholic/">    <title>Privacy - Shareaholic</title>
-    <link rel="stylesheet" type="text/css" href="http://www.shareaholic.com/media/css/main.css?1293030115" media="screen, projection">
+    <link rel="stylesheet" type="text/css" href="http://www.shareaholic.com/media/css/main.css?1307902824" media="screen, projection">
         
-            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
-    <script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://www.shareaholic.com/media/js/jquery.cookie.min.js?1307902856" type="text/javascript"></script>
+        
+            <script type="text/javascript"> 
+        
+        	$(window).load(function() {
+        		setTimeout(function() {
+        		    if($('.extLives').length == 0) {
+        			var extpromoPrompt = $.cookie("no_cp");
+        			if(extpromoPrompt != 1) {
+        			    $('div#ext-promo-prompt').slideDown();
+        			    $('div#ext-promo-prompt a.install').slideDown();
+        			    $('div#ext-promo-prompt a.close').slideDown();
+        			}		
+        		    }
+    		    }, 1000);
+        	});
+            
+        	function ext_promo_noThanks() {
+        		$.cookie('no_cp', '1', { expires: 30, path: '/' });
+        		$('div#ext-promo-prompt a.install').slideUp('fast', function() { jQuery(this).remove(); });
+        		$('div#ext-promo-prompt a.close').slideUp('fast', function() { jQuery(this).remove(); });
+        		$('div#ext-promo-prompt').slideUp('fast', function() { jQuery(this).remove(); });
+        	}
+        	
+        </script>    
+<script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
 
 <body>
- 
+  
  <div class="common_header_bg">
     <div class="common_header">
 	    <div class="spacer_h10"></div>
@@ -30,7 +55,7 @@
 	
 	<div class="right">
     <ul id="loginbox">
-		<li><span class="fs_c_darkgrey">Already a member?</span> 
+		<li><span class="fs_c_darkgrey">Have an account?</span> 
 			<strong> <img src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_light_small_short.gif" style="margin-right:2px;" height="14" width="14" align="absbottom"> <a href="http://www.shareaholic.com/login">
 			Sign In		    </a></strong></li> 
 		<li><a href="http://www.shareaholic.com/signup" class="yellow_highlight">Create an account</a> <span class="new-indicator" style="font-size: 11px;">free!</span> </li>
@@ -49,7 +74,9 @@
             <ul>
             					<li class=""><a href="http://www.shareaholic.com/tools/browser">Web Browser Tools</a></li>
 								<li class=""><a href="http://www.shareaholic.com/tools/wordpress">Website &amp; Blog Tools</a></li>
+								<li class=""><a href="http://www.shareaholic.com/siteinfo/">Analytics</a></li>
 								<li class=""><a href="http://www.shareaholic.com/services/">Service Directory</a></li>
+								<li class=""><a href="http://www.shareaholic.com/top/users">Leaderboard</a></li>
 								<li class=""><a href="http://www.shareaholic.com/api/">API</a></li>
 								<li class=""><a href="http://blog.shareaholic.com">Our Blog</a></li>
 							</ul>
@@ -127,7 +154,7 @@
       <li><strong>Other sites:</strong> This Privacy Policy applies to Shareaholic services only. We do not exercise control over the sites that include Shareaholic applications, products or services, or links from within our various services. These other third party sites operate under their own privacy and security policy and may place their own cookies or other files on your computer, collect data or solicit personal information from you. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. We encourage you to review the privacy policies of any other service provider from whom you request services.<br>
       </li>
     </ul>
-
+    
     <p class="bold">In addition, some Shareaholic services may send limited additional information to Shareaholic:</p>
     
     <p class="style11">Browser Tools &amp; Plugins</p>
@@ -165,6 +192,11 @@
       <li><strong> With Your Consent:</strong> Except as set forth above,  you will be notified when your personal information may be shared with  third parties or used for a purpose incompatible with the purpose(s)  for which it was originally collected, and you will be able to prevent  the sharing of this information by opting out.<br>
       </li>
       </ul>
+
+      <p class="style11">Google Analytics</p>
+
+      <p>Some of our services use Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the service (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
+            
     <p class="style11">Children</p>
 
     <p>You must be at least 13 years old to use Shareaholic. We do not knowingly collect or use personal information about visitors under 13 years of age. If you are under 13 years of age, you can use the services offered only in conjunction with your parents or guardians.</p>
@@ -216,7 +248,8 @@
 					<li><a href="http://www.shareaholic.com/careers/">Join the team!</a></li>
 					<li><a href="http://www.shareaholic.com/contact/">Contact Us</a></li>
 				    <li><h5>Developer Tools</h5></li>
-					<li><a href="http://www.shareaholic.com/api/">Shareaholic Share API</a></li>
+					<li><a href="http://www.shareaholic.com/api/">Share API</a></li>
+					<li><a href="http://www.shareaholic.com/api/data/">Share Data API</a></li>
 					<li><a href="http://www.openshareicons.com">Open Share Icons</a></li>
 				</ul>
 			</li>
@@ -228,7 +261,6 @@
 					<li><a href="http://www.shareaholic.com/tools/ie/">Internet Explorer 8</a></li>
 					<li><a href="http://www.shareaholic.com/tools/safari/">Safari</a></li>
 					<li><a href="http://www.shareaholic.com/tools/opera/">Opera</a></li>
-					<li><a href="http://www.shareaholic.com/tools/flock/">Flock</a></li>
 					<li><a href="http://www.shareaholic.com/tools/songbird/">Songbird Music Player</a></li>
 					<li><a href="http://www.shareaholic.com/tools/bookmarklet/">Bookmarklet</a></li>
 				</ul>	
@@ -237,6 +269,10 @@
 				<ul>
 					<li><h5>Website Tools</h5></li>
 					<li><a href="http://www.shareaholic.com/tools/wordpress/">WordPress Blog / CMS</a></li>
+					<li><h5>Analytics</h5></li>
+					<li><a href="http://www.shareaholic.com/siteinfo/">Website Profiles</a></li>
+					<li><a href="http://www.shareaholic.com/top/users/">User Leaderboard</a></li>
+					<li><a href="http://www.shareaholic.com/services/trends/">Service Trends</a></li>
 				</ul>
 			</li>	
 			<li class="footer-help">
@@ -305,6 +341,13 @@ var _sf_async_config={uid:91,domain:"shareaholic.com"};
 </script>
 
 <!-- End Chartbeat -->
+
+<!-- Start Performable -->
+
+<script src="//d1nu2rn22elx8m.cloudfront.net/performable/pax/3cAQct.js" type="text/javascript"></script>
+
+<!-- End Performable -->
+
 		<script type="text/javascript">
 		var uservoiceOptions = {
 		  /* required */
@@ -328,7 +371,4 @@ var _sf_async_config={uid:91,domain:"shareaholic.com"};
 		}
 		_loadSuper = window.onload;
 		window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); }; </script>
-
-
-
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
