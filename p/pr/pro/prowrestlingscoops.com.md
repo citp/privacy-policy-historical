@@ -1,51 +1,47 @@
-> *The following text is extracted and transformed from the prowrestlingscoops.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140259id_/http%3A//www.prowrestlingscoops.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestlingscoops.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616121726id_/http%3A//www.prowrestlingscoops.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to PWScoops Wrestling & Sports News!
+# Privacy Policy | ProWrestlingSCOOPS.com
 
-**ProWrestlingScoops.com/Privacy Policy**
+**What information do we collect?**
 
-**ProWrestlingScoops.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [**ProWrestlingScoops.com**](http://www.prowrestlingscoops.com/)
+We collect information from you when you fill out a form.
 
-#### _Information Automatically Logged_
+**What do we use your information for?**
 
-We use your IP address to help diagnose problems with our server and to administer our Web site.
+Any of the information we collect from you may be used in one of the following ways:
 
-#### _Cookies_
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Our Site uses cookies to make sure you don't see the same ad repeatedly. 
+• To administer a contest, promotion, survey or other site feature
 
-#### A _dvertisers_
+**Do we use cookies?**
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-**_Third Party Advertising_**  
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [ click here.](http://www.networkadvertising.org/optout_nonppii.asp)
+We use cookies to keep track of advertisements and .
 
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+**Do we disclose any information to outside parties?**
 
-#### _Contests_
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-We run contests on our site in which we ask visitors for contact information (like email address).
+**Third party links**
 
-Contact information from the contests is used to get in touch with the visitor when necessary.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-#### E _xternal Links_
+**Your Consent**
 
-This site contains links to other sites. **ProWrestlingScoops.com** is not responsible for the privacy practices or the content of such Web sites.
+By using our site, you consent to our website privacy policy.
 
-#### _Public Forums_
+**Changes to our Privacy Policy**
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-#### _Data Quality/Access_
+This policy was last modified on November 4th, 2010
 
-This site gives users the following options for changing and modifying information previously provided:
+**Contacting Us**
 
-  1. You can send email to [**Ryan Clark**](mailto:RClarkPWS@yahoo.com)
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-
-
-## _Contacting the Web Site_
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [**Ryan Clark**](mailto:RClarkPWS@yahoo.com)
+http://www.prowrestlingscoops.com  
+webmaster@prowrestlingscoops.com
