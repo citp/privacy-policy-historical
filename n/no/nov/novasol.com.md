@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808090417id_/http%3A//www.novasol.com/faq/rental-terms/personal-data-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616093359id_/http%3A//www.novasol.com/faq/personal-data-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-Below you'll find our privacy policy. If you have any questions you are welcome to contact us by phone +45 7375 6611 or e-mail novasol@novasol.co.uk 
+## Privacy policy
+
+Below you'll find our privacy policy. If you have any questions you are welcome to contact us by phone +45 3914 3555 or e-mail [novasol@novasol.com](mailto:novasol@novasol.com)
 
 ### What kind of information is gathered and why?
 
@@ -58,7 +60,9 @@ Rygaards Alle 104
 
 2900 Hellerup
 
-tlf: +45 7042 4424
+tlf: +45 3914 3555
+
+[novasol@novasol.com](mailto:novasol@novasol.com)
 
 ### Cookies
 
