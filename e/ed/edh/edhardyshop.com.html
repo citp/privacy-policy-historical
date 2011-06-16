@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edhardyshop.com privacy policy that was archived on 2010-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101114205257id_/http%3A//edhardyshop.com/policy-stat.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edhardyshop.com privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616040825id_/http%3A//edhardyshop.com/policy-stat.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -25,7 +25,7 @@
 <script type="text/javascript" src="/js/modalbox/modalbox.js"></script>
 <script type="text/javascript" src="/js/accordion.js"></script>
 <script type="text/javascript" src="/js/jquery.scrollable-1.0.1.js"></script>
-<script src="http://static.flowplayer.org/js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="/js/jquery.mousewheel.js"></script>
 <script type="text/javascript" src="/resources/edhardyshop.com/main.js"></script>
 
 <link rel="stylesheet" type="text/css" href="/js/modalbox/modalbox.css">
@@ -115,9 +115,9 @@ window.onload = function() {
 <script type="text/javascript" src="/js/mojozoom/mojozoom.js"></script>
 
 
-<link href="/resources/edhardyshop.com/css/main.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/resources/edhardyshop.com/css/main.css?v1" media="screen" rel="stylesheet" type="text/css">
 <link href="/resources/edhardyshop.com/css/print.css" media="print" rel="stylesheet" type="text/css">
-
+<link type="text/css" rel="stylesheet" href="/css/header.css">
 </head>
 <body>
 <div id="lightbox_messages" style="display:none;"></div>
@@ -126,19 +126,23 @@ window.onload = function() {
 
 	<div class="header">
 		<div class="toplink">
-			<div id="edhardy-tab" class="left"><a href="http://edhardyshop.com/"><img src="/resources/edhardyshop.com/images/ed-hardy-h.jpg" alt=""></a></div>
-			<div id="cristian-tab" class="left"><a href="http://christianaudigier.com/"><img src="/resources/edhardyshop.com/images/christian.jpg" alt=""></a></div>
-			<div id="cristal-tab" class="left"><a href="http://shopcrystalrock.com/"><img src="/resources/edhardyshop.com/images/crystal.jpg" alt=""></a></div>
-			<div id="paco-tab" class="left"><a href="http://pacochicano.com/"><img src="/resources/edhardyshop.com/images/gaco-chicans.jpg" alt=""></a></div>
+			<div style="margin-left:0px;padding-bottom:4px;" class="top-brands">
+	            <ul>
+	                <li style="margin-top:-17px;" id="edhardy-tab"><a href="http://edhardyshop.com/" class="active"><img alt="" src="/resources/edhardyshop.com/images/ed-hardy-h.jpg"></a></li>
+	                <li id="cristian-tab"><a href="http://christianaudigier.com/" class="unactive"><img width="136" height="40" alt="" src="/img/0.gif"></a></li>
+	                <li id="cristal-tab"><a href="http://shopcrystalrock.com/" class="unactive"><img width="84" height="40" alt="" src="/img/0.gif"></a></li>
+	                <li id="paco-tab"><a href="http://pacochicano.com/" class="unactive"><img width="118" height="40" alt="" src="/img/0.gif"></a></li>
+	            	<li id="thesame-tab"><a href="http://thesameguy.net/" class="unactive"><img width="143" height="40" src="/img/0.gif"></a></li>
+				</ul>
+	        </div>	
 		</div>
 		<div class="item-box">
-			<div class="create-box">
+		    <div class="btn-box">
+			    
+					<a class="account" href="/customer.html?create_account=1"><img width="106" height="16" alt="" src="/img/0.gif"></a>
+					<a class="login" href="/login.html?create_account=1"><img width="58" height="16" alt="" src="/img/0.gif"></a>
 				
-				<div class="left"><a href="/customer.html?create_account=1" title="CREATE ACCOUNT"><img src="/resources/edhardyshop.com/images/create-account.jpg" alt="CREATE ACCOUNT"></a></div>
-					<div class="left"><a href="/login.html?create_account=1" title="LOGIN"><img src="/resources/edhardyshop.com/images/login.jpg" alt="LOGIN"></a></div>
-				
-			</div>
-			<div class="left"><a href="/cart.html"><span id="cart_count" class="top-cart-count">
+					 <a class="item" href="/cart.html"><span id="cart_count">
 	
 0
 
@@ -150,9 +154,9 @@ window.onload = function() {
 
 
 
-</span><img src="/resources/edhardyshop.com/images/item-bt.jpg"></a></div>
-			<div class="left"><a href="/checkout.html" title="CHECKOUT"><img src="/resources/edhardyshop.com/images/checkout.jpg" alt="CHECKOUT"></a></div>
-		</div>
+</span> ITEMS IN YOUR BAG</a>
+					 <a class="checkout" href="/checkout.html"><img width="79" height="26" alt="" src="/img/0.gif"></a>
+		    </div>
 		<div class="clr"></div>
 	</div>
 
@@ -177,9 +181,9 @@ window.onload = function() {
 					
 					<li><a href="/categories/edhardy-caps.html" title="CAPS">CAPS</a></li>
 					
-					<li><a href="/categories/lifestyle.html" title="LIFESTYLE">LIFESTYLE</a></li>
+					<li><a href="/categories/shoes.html" title="SHOES">SHOES</a></li>
 					
-					<li><a href="/categories/new-arrival.html" title="NEW ARRIVALS">NEW ARRIVALS</a></li>
+					<li><a href="/categories/lifestyle.html" title="LIFESTYLE">LIFESTYLE</a></li>
 					
 					<li><a href="/categories/edhardy-sale.html" title="SALE">SALE</a></li>
 					
@@ -201,9 +205,9 @@ window.onload = function() {
 								
 									<option value="252">Caps</option>
 								
-									<option value="253">Lifestyle</option>
+									<option value="538">Shoes</option>
 								
-									<option value="462">New Arrivals</option>
+									<option value="253">Lifestyle</option>
 								
 									<option value="255">Sale</option>
 								
@@ -358,7 +362,7 @@ By using our site, you consent to our privacy policy.</span></span>
 
 						
 
-<img src="http://media.fastclick.net/w/tre?ad_id=22847;evt=15613;cat1=18623;cat2=18624;rand=1289767977" width="1" height="1" border="0">
+<img src="http://media.fastclick.net/w/tre?ad_id=22847;evt=15613;cat1=18623;cat2=18624;rand=1308197305" width="1" height="1" border="0">
 					
 				
 
@@ -392,32 +396,14 @@ By using our site, you consent to our privacy policy.</span></span>
 			<div class="banner">
 				<div class="left"> 
 	
-  
-    
-        <div class="left last noteven"><a target="_self" href="https://christianaudigier.com/customer/newsletter.html"><img src="/cms/banners/newsletter.jpg" alt="image"></a></div>
-    
-  
-
 </div>
 				<div class="left"> 
 	
-  
-    
-        <div class="left last noteven"><a target="_blank" href="http://legacy.donedhardy.com/"><img src="/cms/banners/life-style_1.jpg" alt="image"></a></div>
-    
-  
-
 </div>
 			</div>
 			<div class="clr"></div>
 			<div class="banner">
-				<div class="left"><img src="/resources/edhardyshop.com/images/keep-pic.jpg" alt="" border="0" usemap="#Map">
-					<map name="Map" id="Map">
-						<area shape="rect" coords="815,15,852,54" href="http://www.facebook.com/edhardy" alt="">
-						<area shape="rect" coords="861,15,897,55" href="http://www.myspace.com/edhardy" alt="">
-						<area shape="rect" coords="906,15,943,54" href="http://twitter.com/edhardyonline" alt="">
-					</map>
-				</div>
+				
 			</div>
 		</div>
 	</div>
@@ -453,11 +439,13 @@ By using our site, you consent to our privacy policy.</span></span>
     <li><a href="/policy-stat.html">Privacy Policy</a></li>
     <li><a href="/terms.html">Terms &amp; Conditions</a></li>
     <li><a href="/sitemap.html">Site Map</a></li>
+    <li><a href="/links.html">Related Sites</a></li>
 </ul>
 </div>
 <div class="footer-link mar_rt">
 <ul>
     <li><a target="_blank" href="http://legacy.donedhardy.com">Company Brand Site</a></li>
+    <li><a target="_blank" href="http://itunes.apple.com/us/app/ed-hardy-tattoo-artist/id408945425?mt=8">iPhone/iPad App</a></li>
     <li><a target="_blank" href="http://www.shopedhardy.fr">Ed Hardy France</a></li>
     <li><a href="/about-us.html">About Tattoo Clothing</a></li>
 </ul>
@@ -492,61 +480,7 @@ By using our site, you consent to our privacy policy.</span></span>
 				<li><a href="http://pacochicano.com/">paco chicano</a></li>
 			</ul>
 		</div>
-		
-<!-- DROP DOWN CONTENT -->
-<style>
-#drop_down { color: black; clear:both; border-bottom:1px solid silver; border-top:1px solid silver; }
-#drop_down #drop_down_title { text-align:center; display:block;}
-#drop_down #drop_down_title a { color:#555556; font-size:13px; font-weight:bold; margin-left:7px; text-transform:none; text-decoration:none;}
-#drop_down #drop_down_content { display:none; padding-left:7px; }
-</style>
-
-<div id="drop_down">
-  <span id="drop_down_title"><a href="#drop_content">Tattoo Clothing Shops</a></span>
-  <div id="drop_down_content">
-    <p><i><u>Ed Hardy Men:</u></i><br>
-Visit <i>Ed Hardy Men</i> to shop for the latest men’s tattoo clothing. Find the newest styles of graphic tees, vintage tee shirts, and men’s tattoo accessories. Make <i>Ed Hardy Men</i> the first stop in your search for men’s canvas shoes and <a href="http://edhardyshop.com/categories/edhardy-mens.html">trendy clothes online</a>. Our men’s department has the best selection of tattoo clothing that you can find online.</p>
-<br>
-<p><i><u>Ed Hardy Women:</u></i><br>
-<i>Ed Hardy Women</i> has the hottest women’s tattoo clothing and accessories. Shop for flattering styles of <a href="http://edhardyshop.com/categories/edhardy-womens/womens-apparel/edhardy-womens-tshirts.html">women’s tank tops</a>, graphic tees, designer t-shirts, ladies vintage t- shirts, women’s bottoms, and an extensive collection of tattoo accessories including Ed Hardy Bags, Ed Hardy Shoes, and many others. Finding trendy clothes online for women has never been easier.</p>
-<br>
-<p><i><u>Ed Hardy Kids:</u></i><br>
-Keep the little ones fashionable with <i>Ed Hardy Kids</i> tattoo clothing. <i>Ed Hardy Kids</i> has a wide selection of trendy clothes such as colorful graphic tees, <a href="http://edhardyshop.com/categories/kids.html">vintage tee shirts</a>, denim, and canvas shoes. Shop the latest tattoo clothing for juniors of all ages at <i>Ed Hardy Kids</i> online.</p>
-<br>
-<p><i><u>Ed Hardy Caps:</u></i><br>
-Looking for the latest caps to accessorize your tattoo clothing? Shop <i>Ed Hardy Caps</i> for colorful, graphic and vintage styles <a href="http://edhardyshop.com/categories/edhardy-caps.html">trucker hats</a> to match your tattoo clothing. <i>Ed Hardy Caps</i> come in a wide range of colors, with a variety of graphics to complement our vintage tee shirts, graphic tees, and designer hoodies. Find colors and styles to match and complete any outfit.</p>
-<br>
-<p><i><u>Ed Hardy Lifestyle:</u></i><br>
-Ed Hardy is the original <a href="http://edhardyshop.com/categories/lifestyle.html">tattoo clothing lifestyle brand</a>. Visit <i>Ed Hardy Lifestyle</i> for accessories and extras to complete your tattoo collection. Express your tattoo style and protect your mobile products with tattoo cases, skins and bags. Add color and graphics to your office or school with Ed Hardy computer accessories and school supplies. Visit <i>Ed Hardy Lifestyle</i> to complete your tattoo lifestyle.</p>
-<br>
-<p><i><u>New Arrivals:</u></i><br>
-Can’t wait for the latest items to hit store shelves? Visit <i>Ed Hardy New Arrivals</i> and be the first to buy the newest Ed Hardy designer t-shirts, vintage t-shirts, <a href="http://edhardyshop.com/categories/new-arrival.html">graphic tees</a> and so much more.</p>
-<br>
-<p><i><u>Ed Hardy Sale:</u></i><br>
-Save money and keep up with the latest clothing trends at <a href="http://edhardyshop.com/categories/edhardy-sale.html"><i>Ed Hardy Sale</i></a>. Visit early and often for the biggest selection and best deals on the latest merchandise. Saving 30 – 50% off of great tattoo clothing is only a click away at <i>Ed Hardy Sale</i>.</p>
-<br>
-<p><i><u>Ed Hardy Leadership:</u></i><br>
-French fashion designer <a target="_blank" href="http://legacy.donedhardy.com/contact.html">Christian Audigier</a>, together with Ed Hardy CEO <a target="_blank" href="http://legacy.donedhardy.com/contact.html">Hubert Guez</a>, continue to reinvent tattoo clothing and create trends with their bold vision, innovative designs, and diverse styles.</p>
-  </div>
-  <a name="drop_content"></a>
-</div>
-
-<script>
-$j("#drop_down a").click(function(){
-  $j("#drop_down_content").animate(
-    {
-      "height": "toggle",
-      "opacity": "toggle"
-    }, 
-    { 
-      duration: "slow" 
-    }
-  );
-  return true;
-});
-</script>
-<!-- /DROP DOWN CONTENT -->
-
+			
 	</div>
 
 </div>
@@ -561,7 +495,7 @@ var pageTracker = _gat._getTracker("UA-4009062-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<img src="http://media.fastclick.net/w/tre?ad_id=22847;evt=15613;cat1=18623;cat2=18624;rand=1289767977" width="1" height="1" border="0">
+<img src="http://media.fastclick.net/w/tre?ad_id=22847;evt=15613;cat1=18623;cat2=18624;rand=1308197305" width="1" height="1" border="0">
 
 
 
@@ -576,6 +510,6 @@ pageTracker._trackPageview();
 
 <!-- statistic saved -->
 <!-- BEGIN PERFORMANCE REPORT
-TOTAL (1): 0.0693 100% M (s): 1238996b M (e): 1473748b
-echo_big (1): 0.0002 0.28% M (s): 1474468b M (e): 1474484b
- END PERFORMANCE REPORT --></body></html>
+TOTAL (1): 0.057 100% M (s): 299032b M (e): 521232b
+echo_big (1): 0.0001 0.25% M (s): 521952b M (e): 521968b
+ END PERFORMANCE REPORT --></div></body></html>
