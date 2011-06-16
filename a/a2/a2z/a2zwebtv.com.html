@@ -1,0 +1,368 @@
+<!--The following is the downloaded HTML source of the a2zwebtv.com privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616211258id_/http%3A//www.a2zwebtv.com/contact-us/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Privacy Policy | A2ZWebTV.Com</title>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.a2zwebtv.com/wp-content/themes/zbench/style.css">
+	<link rel="pingback" href="http://www.a2zwebtv.com/xmlrpc.php">
+	<link rel="alternate" type="application/rss+xml" title="A2ZWebTV.Com » Feed" href="http://www.a2zwebtv.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="A2ZWebTV.Com » Comments Feed" href="http://www.a2zwebtv.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="A2ZWebTV.Com » Privacy Policy Comments Feed" href="http://www.a2zwebtv.com/contact-us/privacy-policy/feed/">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.a2zwebtv.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.a2zwebtv.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.a2zwebtv.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.a2zwebtv.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="A2ZWebTV.Com" href="http://www.a2zwebtv.com/">
+<link rel="up" title="Contact Us" href="http://www.a2zwebtv.com/contact-us/">
+<link rel="prev" title="Aaj News" href="http://www.a2zwebtv.com/watch-geo-news-live/aaj-news/">
+<link rel="next" title="Contact Us" href="http://www.a2zwebtv.com/contact-us/">
+<meta name="generator" content="WordPress 3.1.3">
+
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[308,346] -->
+<link rel="canonical" href="http://www.a2zwebtv.com/contact-us/privacy-policy/">
+<!-- /all in one seo pack -->
+<script type="text/javascript" src="http://www.a2zwebtv.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+		<script type="text/javascript">
+			function quick_contact_send() { //Send Message Ajax Call
+				//Deactivate submit button 
+				var submit_button = document.getElementById('quick_contact_submit');
+				submit_button.disabled = true;
+				//Get Input Fields (Clear them if they are the autofill message)
+				var name = document.getElementById('quick_contact_name').value;
+				if(name == "Please enter your name...")
+					name = "";
+				var email = document.getElementById('quick_contact_email').value;
+				if(email == "So that we can reply to you...")
+					email = "";
+				var phone = document.getElementById('quick_contact_phone').value;
+				if(phone == "So that we can reply to you...")
+					phone = "";
+				var message = document.getElementById('quick_contact_message').value;
+				if(message == "Questions? Comments? Enter them here (no HTML please)...")
+					message = "";
+				var captcha = document.getElementById('quick_contact_captcha_text').value;
+				if(captcha == "Type text at left...")
+					captcha = "";
+				//Ensure that there is at least a name and an email or phone
+				var error_default = "Please fill out the following before submitting:\n";
+				var error = error_default;
+				if(name == "" || name == null)
+					error += "  - Please enter your name.\n";
+				if((email == "" || email == null) && (phone == "" || phone == null)) 
+					if(error != "") error += "  - Please enter either a phone number or email for us to contact you.\n";
+				if(captcha == "" || captcha == null)
+					error += "  - Please enter the text from the image.\n";
+				if(error != error_default) {
+					submit_button.disabled = false;
+					alert(error);
+					return;
+				}
+				//If the message is empty ask the user to conferm that they ment to hit the submit button
+				if(message == "" && !confirm("Are you sure you want to send without entering a message?")) {
+					submit_button.disabled = false;
+					return;
+				}
+				//Display processing message
+				submit_message = document.getElementById('quick_contact_submit_message');
+				submit_message.className = "quick_contact_message";
+				submit_message.innerHTML = "Submitting Message, Please Wait...";
+				//Build SACK Call
+				var mysack = new sack("http://www.a2zwebtv.com/wp-content/plugins/quick-contact/quick-contact.php");
+				mysack.execute = 1;
+				mysack.method = 'POST';
+				mysack.setVar("quick_contact_name",name);
+				mysack.setVar("quick_contact_email",email);
+				mysack.setVar("quick_contact_phone",phone);
+				mysack.setVar("quick_contact_message",message);
+				mysack.setVar("quick_contact_captcha",captcha);
+				mysack.setVar("quick_contact_action","send_message");
+				mysack.onError = function() { alert('An ajax error occured while sending your message. Please reload the page and try again.') };
+				mysack.runAJAX();//excecute
+				return;
+			}
+			
+			function quick_contact_reset_form() { //Reset Form Javascript Call
+				document.getElementById('quick_contact_form').innerHTML = '<table width=\'100%\'  border=\'0\' cellspacing=\'0\' cellpadding=\'0\'><tr><th>Name:</th><td><input type=\'text\' id=\'quick_contact_name\' class=\'quick_contact_faded\' value=\'Please enter your name...\' maxlength=\'100\' onFocus=\'if(this.value == "Please enter your name..."){ this.value = ""; this.className = "quick_contact_focused"; }\'/></td></tr><tr><th>Email:</th><td><input type=\'text\' id=\'quick_contact_email\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'150\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Phone:</th><td><input type=\'text\' id=\'quick_contact_phone\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'100\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Message:</th><td><textarea id=\'quick_contact_message\' class=\'quick_contact_faded\' onFocus=\'if(this.value == "Questions? Comments? Enter them here (no HTML please)..."){ this.value = ""; this.className = "quick_contact_focused"; };\'>Questions? Comments? Enter them here (no HTML please)...</textarea></td></tr><tr><th><img id=\'quick_contact_captcha\' src=\'?quick_contact_action=get_captcha\' align=\'right\'/></th><td><input type=\'text\' id=\'quick_contact_captcha_text\' class=\'quick_contact_faded\' style=\'width:110px;\' value=\'Type text at left...\' maxlength=\'20\' onFocus=\'if(this.value == "Type text at left..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/> <small><a href=\'javascript:quick_contact_reset_captcha();\'>I can\'t read the text, please reset it.</a></small></td></tr><tr><th>&nbsp;</th><td style=\'padding-top:2px;\'><input type=\'submit\' id=\'quick_contact_submit\' value=\'Send\' onClick=\'quick_contact_send(); return false;\' style=\'width:50px;\'><input type=\'button\' id=\'quick_contact_cancel\' value=\'Cancel\' style=\'width:60px;\' onClick=\'quick_contact_reset_form();\'> <span style=\'font-size:0.7em;\'>Powered by <a href=\'http://quickcontact.squarecompass.com/\'>Quick Contact</a></span><br/><div id=\'quick_contact_submit_message\'>&nbsp;</div></td></tr><tr><th>&nbsp;</th><td></td></tr></table>';
+			}
+			
+			var quick_contact_reset_captcha_count = 0;
+			function quick_contact_reset_captcha() { //Reset Form Javascript Call
+				quick_contact_reset_captcha_count++;
+				document.getElementById('quick_contact_captcha').src = 'http://www.a2zwebtv.com/wp-content/plugins/quick-contact/quick-contact.php?quick_contact_action=get_captcha&count='+quick_contact_reset_captcha_count;
+			}
+		</script>
+	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23919296-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="page page-id-466 page-child parent-pageid-484 page-template page-template-default">
+<div id="nav">
+	<div id="menus">
+		<ul><li><a href="http://www.a2zwebtv.com">Home</a></li></ul>
+		<div class="menu"><ul><li class="page_item page-item-13"><a href="http://www.a2zwebtv.com/watch-geo-news-live/" title="Pakistani">Pakistani</a><ul class="children"><li class="page_item page-item-320"><a href="http://www.a2zwebtv.com/watch-geo-news-live/aaj-news/" title="Aaj News">Aaj News</a></li><li class="page_item page-item-2740"><a href="http://www.a2zwebtv.com/watch-geo-news-live/ary-one-world-news/" title="ARY One World News">ARY One World News</a><ul class="children"><li class="page_item page-item-2743"><a href="http://www.a2zwebtv.com/watch-geo-news-live/ary-one-world-news/ary-news-server-2/" title="ARY News Server 2">ARY News Server 2</a></li></ul></li><li class="page_item page-item-2715"><a href="http://www.a2zwebtv.com/watch-geo-news-live/dawn-news/" title="Dawn News">Dawn News</a></li><li class="page_item page-item-166"><a href="http://www.a2zwebtv.com/watch-geo-news-live/dunya-news-2/" title="Dunya News">Dunya News</a></li><li class="page_item page-item-90"><a href="http://www.a2zwebtv.com/watch-geo-news-live/express-news-live/" title="Express News">Express News</a></li><li class="page_item page-item-2690"><a href="http://www.a2zwebtv.com/watch-geo-news-live/geo-news/" title="Geo News">Geo News</a><ul class="children"><li class="page_item page-item-2693"><a href="http://www.a2zwebtv.com/watch-geo-news-live/geo-news/geo-news-server-2/" title="Geo News Server 2">Geo News Server 2</a></li></ul></li><li class="page_item page-item-177"><a href="http://www.a2zwebtv.com/watch-geo-news-live/islam-tv/" title="Islam TV">Islam TV</a></li><li class="page_item page-item-2754"><a href="http://www.a2zwebtv.com/watch-geo-news-live/ptv-news/" title="PTV News">PTV News</a></li><li class="page_item page-item-2902"><a href="http://www.a2zwebtv.com/watch-geo-news-live/royal-news/" title="Royal News">Royal News</a></li><li class="page_item page-item-956"><a href="http://www.a2zwebtv.com/watch-geo-news-live/samaa-tv/" title="Samaa TV">Samaa TV</a></li><li class="page_item page-item-2756"><a href="http://www.a2zwebtv.com/watch-geo-news-live/waqt-news/" title="Waqt News">Waqt News</a></li></ul></li><li class="page_item page-item-2696"><a href="http://www.a2zwebtv.com/indian/" title="Indian">Indian</a><ul class="children"><li class="page_item page-item-2698"><a href="http://www.a2zwebtv.com/indian/aaj-tak/" title="Aaj Tak">Aaj Tak</a></li><li class="page_item page-item-2700"><a href="http://www.a2zwebtv.com/indian/cnn-ibn/" title="CNN IBN">CNN IBN</a></li><li class="page_item page-item-2889"><a href="http://www.a2zwebtv.com/indian/headlines-today/" title="Headlines Today">Headlines Today</a></li><li class="page_item page-item-2708"><a href="http://www.a2zwebtv.com/indian/indiavision/" title="Indiavision">Indiavision</a></li><li class="page_item page-item-2851"><a href="http://www.a2zwebtv.com/indian/inews/" title="iNews">iNews</a></li><li class="page_item page-item-2750"><a href="http://www.a2zwebtv.com/indian/ndtv/" title="NDTV 24×7">NDTV 24×7</a></li><li class="page_item page-item-2895"><a href="http://www.a2zwebtv.com/indian/ndtv-hindi/" title="NDTV Hindi">NDTV Hindi</a></li><li class="page_item page-item-2801"><a href="http://www.a2zwebtv.com/indian/sahara-news/" title="Sahara News">Sahara News</a></li><li class="page_item page-item-2703"><a href="http://www.a2zwebtv.com/indian/times-now/" title="Times Now">Times Now</a></li><li class="page_item page-item-2819"><a href="http://www.a2zwebtv.com/indian/tv-5-telugu/" title="TV 5 Telugu">TV 5 Telugu</a></li></ul></li><li class="page_item page-item-2137"><a href="http://www.a2zwebtv.com/bbc-news-2/" title="English">English</a><ul class="children"><li class="page_item page-item-2734"><a href="http://www.a2zwebtv.com/bbc-news-2/al-jazeera/" title="Al Jazeera">Al Jazeera</a></li><li class="page_item page-item-2713"><a href="http://www.a2zwebtv.com/" title="BBC World">BBC World</a></li><li class="page_item page-item-2899"><a href="http://www.a2zwebtv.com/bbc-news-2/cctv-china/" title="CCTV China">CCTV China</a></li><li class="page_item page-item-2719"><a href="http://www.a2zwebtv.com/bbc-news-2/cnn/" title="CNN">CNN</a></li><li class="page_item page-item-2803"><a href="http://www.a2zwebtv.com/bbc-news-2/france-24/" title="France 24">France 24</a></li><li class="page_item page-item-2747"><a href="http://www.a2zwebtv.com/bbc-news-2/press-tv/" title="Press TV">Press TV</a></li><li class="page_item page-item-2717"><a href="http://www.a2zwebtv.com/bbc-news-2/sky-news/" title="Sky News">Sky News</a></li></ul></li><li class="page_item page-item-2788"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/" title="Sports">Sports</a><ul class="children"><li class="page_item page-item-2873"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/aldawri-football/" title="Aldawri Football">Aldawri Football</a></li><li class="page_item page-item-2863"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/espn-sports-center/" title="ESPN Sports Center">ESPN Sports Center</a></li><li class="page_item page-item-2866"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/euro-sports/" title="Euro Sports">Euro Sports</a></li><li class="page_item page-item-2876"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/fox-soccer/" title="Fox Soccer">Fox Soccer</a></li><li class="page_item page-item-2879"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/orange-sports/" title="Orange Sports">Orange Sports</a></li><li class="page_item page-item-2871"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/sky-sports/" title="Sky Sports">Sky Sports</a></li><li class="page_item page-item-2884"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/sports-italia/" title="Sports Italia">Sports Italia</a></li><li class="page_item page-item-2857"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/star-cricket/" title="Star Cricket">Star Cricket</a></li><li class="page_item page-item-2868"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/sun-sports/" title="Sun Sports">Sun Sports</a></li><li class="page_item page-item-2859"><a href="http://www.a2zwebtv.com/watch-sports-channel-live/ten-sports/" title="Ten Sports">Ten Sports</a></li></ul></li><li class="page_item page-item-2829"><a href="http://www.a2zwebtv.com/arabic/" title="Arabic">Arabic</a><ul class="children"><li class="page_item page-item-2848"><a href="http://www.a2zwebtv.com/arabic/al-aan-tv/" title="Al Aan TV">Al Aan TV</a></li><li class="page_item page-item-2835"><a href="http://www.a2zwebtv.com/arabic/al-jazeera/" title="Al Jazeera">Al Jazeera</a></li><li class="page_item page-item-2837"><a href="http://www.a2zwebtv.com/arabic/bbc-arabic/" title="BBC Arabic">BBC Arabic</a></li><li class="page_item page-item-2832"><a href="http://www.a2zwebtv.com/arabic/russia-alyum/" title="Russia Alyum">Russia Alyum</a></li><li class="page_item page-item-2881"><a href="http://www.a2zwebtv.com/arabic/saudi-tv-1/" title="Saudi TV 1">Saudi TV 1</a></li></ul></li><li class="page_item page-item-2839"><a href="http://www.a2zwebtv.com/french/" title="French">French</a><ul class="children"><li class="page_item page-item-2846"><a href="http://www.a2zwebtv.com/french/bfm-news/" title="BFM News">BFM News</a></li><li class="page_item page-item-2843"><a href="http://www.a2zwebtv.com/french/france-24/" title="France 24">France 24</a></li></ul></li><li class="page_item page-item-484 current_page_ancestor current_page_parent"><a href="http://www.a2zwebtv.com/contact-us/" title="Contact Us">Contact Us</a><ul class="children"><li class="page_item page-item-466 current_page_item"><a href="http://www.a2zwebtv.com/contact-us/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li><li class="page_item page-item-2142"><a href="http://www.a2zwebtv.com/contact-us/report-a-broken-channel/" title="Request a Channel">Request a Channel</a></li><li class="page_item page-item-2917"><a href="http://www.a2zwebtv.com/contact-us/system-requirements/" title="System Requirements">System Requirements</a></li></ul></li></ul></div>
+	</div>
+	<div id="search">
+		<form id="searchform" method="get" action="http://www.a2zwebtv.com/">
+<input type="text" value="Search: type, hit enter" onfocus="if (this.value == 'Search: type, hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search: type, hit enter';}" size="35" maxlength="50" name="s" id="s">
+<input type="submit" id="searchsubmit" value="SEARCH">
+</form>	</div>
+</div>
+<div id="wrapper">
+	<div id="header">
+		<h1><a href="http://www.a2zwebtv.com">A2ZWebTV.Com</a></h1>
+		<h2>News, Sports, Documentaries, Cartoons and many more</h2>
+		<div class="clear"></div>
+			</div>
+<div id="content">
+		<div class="post-466 page type-page status-publish hentry post post-page" id="post-466"><!-- post div -->
+		<h2 class="title title-single">Privacy Policy</h2>
+				<div class="post-info-top">
+			<span id="addcomment"><a href="#respond" rel="nofollow" title="Leave a comment ?">Leave a comment</a> (0)</span>
+			<span id="gotocomments"><a href="#comments" rel="nofollow" title="Go to comments ?">Go to comments</a></span>
+		</div>
+				<div class="clear"></div>
+		<div class="entry">
+			
+<!-- Quick Adsense WordPress Plugin: http://techmilieu.com/quick-adsense -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0779678713350889";
+/* 300x250, created 6/1/11 a2znews top */
+google_ad_slot = "4416087628";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type="text/javascript"><!--
+google_ad_client = "pub-0779678713350889";
+/* 300x250, created 6/1/11 a2znews top */
+google_ad_slot = "4416087628";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br> If You Are Having Any Problem Watching Online TV Then Please<strong><a href="http://www.a2zwebtv.com/contact-us/system-requirements/" target="_blank">Visit This Page</a></strong>
+</div>
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at <a href="mailto:admin@a2znewstv.com">admin@a2zwebtv.com</a>.</p>
+<p>At http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a>, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a> and how it is used.</p>
+<p><strong>Log Files</strong><br>
+Like many other Web sites, http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a> makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+<p><strong>Cookies and Web Beacons</strong><br>
+http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a> does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
+<p><strong>DoubleClick DART Cookie</strong><br>
+.:: Google, as a third party vendor, uses cookies to serve ads on http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a>.<br>
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a> and other sites on the Internet.<br>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html</p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….<br>
+Google Adsense<br>
+Commission Junction<br>
+Adbrite<br>
+Clickbank</p>
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a> send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
+<p>http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a> has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://<a href="mailto:admin@a2znewstv.com">a2zwebtv.com</a>‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+
+<!-- Quick Adsense WordPress Plugin: http://techmilieu.com/quick-adsense -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<strong>Please Click Like to Support us...</strong>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2Fa2zNewsTVcom%2F231882600159018%3Fcreated&amp;width=600&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=250" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:600px; height:250px;" allowtransparency="true"></iframe>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div>					</div><!-- END entry -->
+	</div><!-- END post -->
+	<!-- You can start editing here. -->
+
+		
+	
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		function grin(tag) {
+			var myField;
+			tag = ' ' + tag + ' ';
+			if (document.getElementById('comment') && document.getElementById('comment').type == 'textarea') {
+				myField = document.getElementById('comment');
+			} else {
+				return false;
+			}
+			if (document.selection) {
+				myField.focus();
+				sel = document.selection.createRange();
+				sel.text = tag;
+				myField.focus();
+			}
+			else if (myField.selectionStart || myField.selectionStart == '0') {
+				var startPos = myField.selectionStart;
+				var endPos = myField.selectionEnd;
+				var cursorPos = endPos;
+				myField.value = myField.value.substring(0, startPos)
+							  + tag
+							  + myField.value.substring(endPos, myField.value.length);
+				cursorPos += tag.length;
+				myField.focus();
+				myField.selectionStart = cursorPos;
+				myField.selectionEnd = cursorPos;
+			}
+			else {
+				myField.value += tag;
+				myField.focus();
+			}
+		}
+	/* ]]> */
+	</script>
+									<div id="respond">
+				<h3 id="reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/contact-us/privacy-policy/#respond" style="display:none;"><small>Cancel reply</small></a></small></h3>
+									<form action="http://www.a2zwebtv.com/wp-comments-post.php" method="post" id="commentform">
+																										<p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30"> <label for="author"><small>NAME</small></label></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" value="" size="30"> <label for="email">EMAIL</label></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" value="" size="30"> <label for="url">Website URL</label></p>
+												<p class="smilies">
+	<a href="javascript:grin(':?:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_question.gif" alt=""></a>
+	<a href="javascript:grin(':razz:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_razz.gif" alt=""></a>
+	<a href="javascript:grin(':sad:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_sad.gif" alt=""></a>
+	<a href="javascript:grin(':evil:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_evil.gif" alt=""></a>
+	<a href="javascript:grin(':!:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_exclaim.gif" alt=""></a>
+	<a href="javascript:grin(':smile:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_smile.gif" alt=""></a>
+	<a href="javascript:grin(':oops:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_redface.gif" alt=""></a>
+	<a href="javascript:grin(':grin:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_biggrin.gif" alt=""></a>
+	<a href="javascript:grin(':eek:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_surprised.gif" alt=""></a>
+	<a href="javascript:grin(':shock:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_eek.gif" alt=""></a>
+	<a href="javascript:grin(':???:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_confused.gif" alt=""></a>
+	<a href="javascript:grin(':cool:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_cool.gif" alt=""></a>
+	<a href="javascript:grin(':lol:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_lol.gif" alt=""></a>
+	<a href="javascript:grin(':mad:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_mad.gif" alt=""></a>
+	<a href="javascript:grin(':twisted:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_twisted.gif" alt=""></a>
+	<a href="javascript:grin(':roll:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_rolleyes.gif" alt=""></a>
+	<a href="javascript:grin(':wink:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_wink.gif" alt=""></a>
+	<a href="javascript:grin(':idea:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_idea.gif" alt=""></a>
+	<a href="javascript:grin(':arrow:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_arrow.gif" alt=""></a>
+	<a href="javascript:grin(':neutral:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_neutral.gif" alt=""></a>
+	<a href="javascript:grin(':cry:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_cry.gif" alt=""></a>
+	<a href="javascript:grin(':mrgreen:')"><img src="http://www.a2zwebtv.com/wp-includes/images/smilies/icon_mrgreen.gif" alt=""></a>
+	<br></p><p class="comment-form-comment"><textarea aria-required="true" rows="8" cols="45" name="comment" id="comment" onkeydown="if(event.ctrlKey){if(event.keyCode==13){document.getElementById('submit').click();return false}};"></textarea></p>						<p class="comment-note">NOTE - You can use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:<br> <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="SUBMIT">
+							<input type="hidden" name="comment_post_ID" value="466" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+						</p>
+											</form>
+							</div><!-- #respond -->
+						</div><!--content-->
+<div id="sidebar-border">
+		<div id="rss"><a href="http://www.a2zwebtv.com/feed/" rel="nofollow" title="RSS Feed">RSS Feed</a></div>
+			<div id="sidebar">
+
+<div id="text-3" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">
+
+if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
+var url="http://a2zwebtv.com";
+var title="a2zwebtv.com";
+document.write('<A HREF="javascript:window.external.AddFavorite(url,title)');
+document.write('"><font color=#000000 ><strong>Save This Page to Favourites</strong></font></a>');
+}
+else {
+var alt = "<font color=#000000 ><strong>Save a2zwebTV to Favourites</strong></font><BR>";
+if(navigator.appName == "Netscape") alt += "Press (Ctrl-D) on your keyboard.</font>";
+document.write(alt);
+}
+
+</script><font color="#000000"><strong>Save a2zwebTV to Favourites</strong></font><br>Press (Ctrl-D) on your keyboard.
+</div>
+		</div><div id="text-4" class="widget widget_text"><h3 class="widgettitle">Share This Page With Friends</h3>			<div class="textwidget"><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4cdaeb20093fb024" class="addthis_button_compact">Share</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_5"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_9"></a>
+<a class="addthis_button_preferred_10"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4cdaeb20093fb024"></script>
+<!-- AddThis Button END -->
+</div>
+		</div><div id="text-7" class="widget widget_text">			<div class="textwidget"><strong>Please Click Like to Support us...</strong>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2Fa2zNewsTVcom%2F231882600159018%3Fcreated&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=250" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:250px;" allowtransparency="true"></iframe></div>
+		</div><div id="text-5" class="widget widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-0779678713350889";
+/* 250x250, created 5/30/11 a2znews side */
+google_ad_slot = "7991618601";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div><div id="text-6" class="widget widget_text">			<div class="textwidget"><a href="http://30df67xbldk7x25rraoczr1yb5.hop.clickbank.net/" target="_blank"><img src="http://www.a2znewstv.com/wp-content/uploads/2011/06/fatloss.gif" width="300" height="250"></a></div>
+		</div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle">Most Favorite Channels</h3>		<ul>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/times-now-tv-channel-watch-live-online-free-streaming/" title="Times Now TV Channel Watch Live Online Free Streaming">Times Now TV Channel Watch Live Online Free Streaming</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/ndtv-hindi-news-tv-channel-live-online/" title="NDTV Hindi News TV Channel Live Online">NDTV Hindi News TV Channel Live Online</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/ndtv-24x7-watch-live-online-streaming-video/" title="NDTV 24×7 Watch Live Online Streaming Video">NDTV 24×7 Watch Live Online Streaming Video</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/inews-live-online-tv-channel/" title="iNews Live Online TV Channel">iNews Live Online TV Channel</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/india-vision-news-channel-live-online-streaming-video/" title="India Vision News Channel Live Online Streaming Video">India Vision News Channel Live Online Streaming Video</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/headlines-today-watch-live-news-channel-free-online/" title="Headlines Today Watch Live News Channel Free Online">Headlines Today Watch Live News Channel Free Online</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/cnn-ibn-watch-live-online-streaming-video/" title="CNN IBN Watch Live Online Streaming Video">CNN IBN Watch Live Online Streaming Video</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/aaj-tak-news-channel-live-streaming-online/" title="Aaj Tak News Channel Live Streaming Online">Aaj Tak News Channel Live Streaming Online</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/waqt-news-tv-channel-live-online-free-streaming/" title="Waqt News TV Channel Live Online Free Streaming">Waqt News TV Channel Live Online Free Streaming</a></li>
+				<li><a href="http://www.a2zwebtv.com/2011/06/12/samaa-tv-news-channel-live-online-streaming/" title="Samaa TV News Channel Live Online Streaming">Samaa TV News Channel Live Online Streaming</a></li>
+				</ul>
+		</div><div id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widgettitle">Newly Added Channels</h3><div class="menu-side-menu-container"><ul id="menu-side-menu" class="menu"><li id="menu-item-2936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2936"><a href="http://www.a2zwebtv.com/watch-geo-news-live/geo-news/">Geo News</a></li>
+<li id="menu-item-2925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2925"><a href="http://www.a2zwebtv.com/bbc-news-2/cnn/">CNN</a></li>
+<li id="menu-item-2932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2932"><a href="http://www.a2zwebtv.com/indian/aaj-tak/">Aaj Tak</a></li>
+<li id="menu-item-2919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2919"><a href="http://www.a2zwebtv.com/watch-geo-news-live/waqt-news/">Waqt News</a></li>
+<li id="menu-item-2929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2929"><a href="http://www.a2zwebtv.com/indian/indiavision/">Indiavision</a></li>
+<li id="menu-item-2921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2921"><a href="http://www.a2zwebtv.com/indian/ndtv/">NDTV 24×7</a></li>
+<li id="menu-item-1860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1860"><a href="http://www.a2zwebtv.com/watch-geo-news-live/dunya-news-2/">Dunya News</a></li>
+<li id="menu-item-2922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2922"><a href="http://www.a2zwebtv.com/bbc-news-2/press-tv/">Press TV</a></li>
+<li id="menu-item-1859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1859"><a href="http://www.a2zwebtv.com/watch-geo-news-live/aaj-news/">Aaj News</a></li>
+<li id="menu-item-2923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2923"><a href="http://www.a2zwebtv.com/watch-geo-news-live/ary-one-world-news/">ARY One World News</a></li>
+<li id="menu-item-2924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2924"><a href="http://www.a2zwebtv.com/bbc-news-2/al-jazeera/">Al Jazeera</a></li>
+<li id="menu-item-2920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2920"><a href="http://www.a2zwebtv.com/watch-geo-news-live/ptv-news/">PTV News</a></li>
+<li id="menu-item-2926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2926"><a href="http://www.a2zwebtv.com/bbc-news-2/sky-news/">Sky News</a></li>
+<li id="menu-item-2927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2927"><a href="http://www.a2zwebtv.com/watch-geo-news-live/dawn-news/">Dawn News</a></li>
+<li id="menu-item-2928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2928"><a href="http://www.a2zwebtv.com/">BBC World</a></li>
+<li id="menu-item-2930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2930"><a href="http://www.a2zwebtv.com/indian/times-now/">Times Now</a></li>
+<li id="menu-item-2931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2931"><a href="http://www.a2zwebtv.com/indian/cnn-ibn/">CNN IBN</a></li>
+<li id="menu-item-2933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2933"><a href="http://www.a2zwebtv.com/bbc-news-2/al-jazeera/">Al Jazeera</a></li>
+<li id="menu-item-2934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2934"><a href="http://www.a2zwebtv.com/">BBC World</a></li>
+<li id="menu-item-2935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2935"><a href="http://www.a2zwebtv.com/watch-geo-news-live/dawn-news/">Dawn News</a></li>
+<li id="menu-item-1861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1861"><a href="http://www.a2zwebtv.com/watch-geo-news-live/express-news-live/">Express News</a></li>
+<li id="menu-item-1862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1862"><a href="http://www.a2zwebtv.com/watch-geo-news-live/islam-tv/">Islam TV</a></li>
+<li id="menu-item-2937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2937"><a href="http://www.a2zwebtv.com/watch-geo-news-live/ptv-news/">PTV News</a></li>
+<li id="menu-item-2938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2938"><a href="http://www.a2zwebtv.com/watch-geo-news-live/samaa-tv/">Samaa TV</a></li>
+</ul></div></div>
+
+	</div><!-- end: #sidebar -->
+</div><!-- end: #sidebar-border --></div><!--wrapper-->
+<div class="clear"></div>
+<div id="footer">
+	<div id="footer-inside">
+		<p>
+			Copyright&nbsp;©&nbsp;2011&nbsp;A2ZWebTV.Com			&nbsp;|&nbsp;Theme <a href="http://zww.me" title="designed by zwwooooo">zBench</a>
+			&nbsp;|&nbsp;Powered by <a href="http://wordpress.org/">WordPress</a> 
+		</p>
+		<span id="back-to-top">Δ <a href="#nav" rel="nofollow" title="Back to top">Top</a></span>
+Disclaimer: We are NOT broadcasting any Channel. We are just sharing links from other websites in frames that are providing live channels. If you have any query or objection please visit contact us page.
+
+	</div>
+</div><!--footer-->
+<script type="text/javascript" src="http://widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('ohdmyrjfg8hi')</script>
+<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+</body></html>
