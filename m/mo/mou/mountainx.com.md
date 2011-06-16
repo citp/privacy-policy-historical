@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainx.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206222951id_/http%3A//www.mountainx.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainx.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617000039id_/http%3A//www.mountainx.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Mountain Xpress privacy policy
 
