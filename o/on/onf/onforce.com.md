@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216004814id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020437id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
 
 # OnForce Privacy & Security Policies
 
@@ -89,7 +89,7 @@ This Platform gives the following options for changing and modifying information
 
 
 
-For other requests, please contact [info@onforce.com](mailto:info@onforce.com) .
+For other requests, please contact [info@onforce.com](mailto:info@onforce.com).
 
 * **Transmittal of Data**
 
