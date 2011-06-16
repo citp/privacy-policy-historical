@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212184032id_/http%3A//bremer.com/Home/Content.aspx%3Fid%3D137) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616183747id_/http%3A//www.bremer.com/Home/Content.aspx%3Fid%3D137) for the most accurate reproduction.*
 
 # Bremer Bank - Privacy Statement - Understanding your financial privacy rights
 
-## Understanding your financial privacy rights
+##  Understanding your financial privacy rights
 
 PROTECTING YOUR PRIVACY
 
