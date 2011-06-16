@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thepapalvisit.org.uk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221190902id_/http%3A//thepapalvisit.org.uk/Contact-and-Legal-Documents/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepapalvisit.org.uk privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616145927id_/http%3A//www.thepapalvisit.org.uk/Papal-Visit-2010/Contact-and-Legal-Documents/Privacy-Policy) for the most accurate reproduction.*
 
-# Article-Privacy Policy / Contact and Legal Documents / Home - The Visit
+# Article-Privacy Policy / Contact and Legal Documents / Papal Visit 2010 / Home - The Visit
 
 ### 1\. Introduction
 
 1.1 Catholic Trust for England and Wales ("we" or "us") is committed to preserving the privacy of all visitors to this website. 
 
-1.2 This policy explains what personal information we collect from users of this website and how we use that information from time to time. This policy should be read in conjunction with our [Website Terms and Conditions](https://web.archive.org/Contact-and-Legal-Documents/Terms-and-Conditions "Internal link to the website Terms and Conditions. Opens in this window."). 
+1.2 This policy explains what personal information we collect from users of this website and how we use that information from time to time. This policy should be read in conjunction with our [Website Terms and Conditions](https://web.archive.org/Papal-Visit-2010/Contact-and-Legal-Documents/Terms-and-Conditions "Internal link to the website Terms and Conditions. Opens in this window."). 
 
 ### 2\. Information collection
 
