@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231084327id_/http%3A//www.swimsuitsforall.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616130957id_/http%3A//www.swimsuitsforall.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
    [](https://web.archive.org/)
 
-[www.swimsuitsforall.com](https://web.archive.org/web/20101231084327id_/http%3A//www.swimsuitsforall.com/customer-service/www.swimsuitsforall.com) (the "Site") is brought to you by Swimsuits for All inc. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
+[www.swimsuitsforall.com](https://web.archive.org/web/20110616130957id_/http%3A//www.swimsuitsforall.com/customer-service/www.swimsuitsforall.com) (the "Site") is brought to you by Swimsuits for All inc. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
 
 ## Collection of Information
 
@@ -64,6 +64,6 @@ Swimsuits for All Inc. 265 Route 36 West. Suite 205A West Long Branch, N.J. 0776
 
 ## Contact Us
 
-If you have questions or concerns about this Privacy Policy, contact us at [**privacy@swimsuitsforall.com**](https://web.archive.org/web/20101231084327id_/http%3A//www.swimsuitsforall.com/customer-service/privacy@swimsuitsforall.com)
+If you have questions or concerns about this Privacy Policy, contact us at [**privacy@swimsuitsforall.com**](https://web.archive.org/web/20110616130957id_/http%3A//www.swimsuitsforall.com/customer-service/privacy@swimsuitsforall.com)
 
 [](https://web.archive.org/)
