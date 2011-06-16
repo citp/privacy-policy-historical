@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124060100id_/http%3A//shimadzu.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616202244id_/http%3A//www.shimadzu.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy : SHIMADZU (Shimadzu Corporation)
 
@@ -65,7 +65,8 @@ For details, refer to [(Scope of Personal Information Shared)](https://web.archi
 Contact information regarding personal information usage confirmation, disclosure, correction, addition, deletion, cessation of offering, and complaints, etc, are as noted below.
 
 ##### -Contacts-  
-Shimadzu Corporation IT Center
+Shimadzu Corporation  
+Information and Communications Technology
 
 1, Nishinokyo-Kuwabarcho, Nakagyo-ku, Kyoto 604-8511, Japan Telephone: 81(75)823-1278, Fax: 81(75)823-2091
 
