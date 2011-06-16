@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsdna.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226091208id_/http%3A//www.gadgetsdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsdna.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616040159id_/http%3A//www.gadgetsdna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gadgets DNA
 
