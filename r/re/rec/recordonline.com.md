@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229230354id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617001520id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # recordonline.com - Times Herald-Record – Privacy Policy
 
@@ -84,7 +84,7 @@ Except as set forth herein, or if we inform you otherwise at the time of data co
 
 **Affiliates:** We may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. 
 
-**Service Providers:** We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access to your PII and Related Data solely for the purpose of providing these services to us or on our behalf. 
+**Service Providers:** We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access (see "Access" below) to your PII and Related Data solely for the purpose of providing these services to us or on our behalf. 
 
 **Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of Dow Jones, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Dow Jones sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction. 
 
