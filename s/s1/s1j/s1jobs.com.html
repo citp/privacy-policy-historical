@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the s1jobs.com privacy policy that was archived on 2010-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216060953id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the s1jobs.com privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616131730id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,10 +15,16 @@
 <script type="text/javascript" src="/s1js/libs/jquery/jquery-1.2.6.js"></script> 
 <script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.core.js"></script> 
 <script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.dialog.js"></script> 
+<script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.tabs.js"></script> 
 <script type="text/javascript" src="/ui/js/utilities/jquery.popup.js"></script> 
 <script type="text/javascript" src="/ui/js/s1jobs.js"></script> 
+<script type="text/javascript" src="/ui/js/cookies.js"></script>
 
-<script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580465953216"></script></head>
+
+ 
+
+
+<script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580465953950"></script></head>
 
 <body id="search">
 <div id="wrapper">
@@ -167,7 +173,7 @@ playback timings (ms):
 <!-- NAVIGATION AND LEADER BOARD -->
 
     <div id="nav-bar">
-        <div id="logo"><a href="/"><img src="/ui/images/general/logo.gif" alt="s1jobs.com"></a></div><!-- end logo -->
+        <div id="logo"><a href="/"><img src="/ui/images/general/logo.gif" alt="s1jobs.com" title=""></a></div><!-- end logo -->
         
             <ul id="nav-menu">
                 <li class="home-nav"><a href="/" title="home">home</a></li>
@@ -180,7 +186,7 @@ playback timings (ms):
 
             <ul id="sub-menu">
             	<li><a href="/search/">advanced search</a></li>
-                <li><a href="/recruiterprofiles/">recruiter profiles</a></li>
+                <li><a href="/recruiterprofiles.html">recruiter profiles</a></li>
                 <li><a href="/myaccount/">job alerts by email</a></li>
                 <li><a href="/myaccount/career-profile/select/">add cv</a></li>
                 <li><a href="/help/">help</a></li>
@@ -209,7 +215,7 @@ s1JS.Jobs.fastAds.renderAd('leaderboard');
         <ul id="s1network" class="clearfix">
             <li class="first"><a href="http://www.s1homes.com">s1homes</a></li>
             <li><a href="http://www.s1play.com">s1play</a></li>
-            <li><a href="http://www.s1learning.com">s1learning</a></li>
+            <li><a href="http://www.s1date.com">s1date</a></li>
             <li><a href="http://www.s1cars.com">s1cars</a></li>
 			<li><a href="http://www.s1community.com">s1community</a></li>
         </ul>
@@ -319,7 +325,10 @@ s1JS.Jobs.fastAds.renderAd('skyscraper');
 </div></div>
    
 <script language="Javascript" type="text/javascript">
-
+var mys1Location = getCookie("mys1_location");
+if(mys1Location){
+	mys1Location = "location=" + mys1Location;
+}
 s1JS.Jobs.fireLoaders();
 
 OAS_url = 'http://oas.newsquestdigital.co.uk/RealMedia/ads/';
@@ -369,11 +378,13 @@ function OAS_AD(pos)
 		}
 	    }
 	}
-	
+	if (mys1Location) {
+		skeywords.push(mys1Location);
+	}
 
 
 document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + skeywords.join('&') + '"><\/SCR' + 'IPT>');
-</script><script language="JavaScript1.1" src="http://oas.newsquestdigital.co.uk/RealMedia/ads/adstream_mjx.ads/www.s1jobs.com/ads/s1jobs-run_of_site/1894824610@x05,x01,Right?"></script>
+</script><script language="JavaScript1.1" src="http://oas.newsquestdigital.co.uk/RealMedia/ads/adstream_mjx.ads/www.s1jobs.com/ads/s1jobs-run_of_site/1680228163@x05,x01,Right?"></script>
 
 
 
@@ -486,7 +497,7 @@ writeTracker();
                 </li>
                 
                 <li>
-                    <input type="hidden" id="sign-in-return-to" name="return_to" value="/web/20101216060953id_/http://www.s1jobs.com/privacy/">
+                    <input type="hidden" id="sign-in-return-to" name="return_to" value="/web/20110616131730id_/http://www.s1jobs.com/privacy/">
                     <span class="buttons"><button type="submit" class="standard">Sign In</button></span>
                     <a href="/web/20120120011458/http://www.s1jobs.com/myaccount/forgotten-password/" class="inline-link forgot-password">Forgotten Password</a>                
               </li>  
