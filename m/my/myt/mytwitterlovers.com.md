@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the mytwitterlovers.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905050141id_/http%3A//mytwitterlovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytwitterlovers.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616024421id_/http%3A//www.gatorapps.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - My Twitter Lovers
-
-## Privacy Policy
+# Privacy Policy - Gator Apps
 
 **Privacy Policy**
 
-Here at My Twitter Lovers, we respect your privacy. However, just like anywhere on the web, privacy is not perfect. Therefore, we ask you to understand the following:
+Here at Gator Apps, we respect your privacy. However, just like anywhere on the web, privacy is not perfect. Therefore, we ask you to understand the following:
 
 **Website Visitors**
 
-Just like when visiting any website, information such as your web browser, operating system, system language, referring site, and the date of each request is sent. These information are, in fact, collected by My Twitter Lovers, and are used in reasons such as understanding how visitors use our site. We may also decide to publish trends of our site usage.
+Just like when visiting any website, information such as your web browser, operating system, system language, referring site, and the date of each request is sent. These information are, in fact, collected by Gator Apps, and are used in reasons such as understanding how visitors use our site. We may also decide to publish trends of our site usage.
 
 Personally-identifying information such as your Internet Protocol (IP) addresses. This information may be used to prevent abusers, who are violating our Terms of Service. We might also report your IP addresses to authority if you're caught abusing our site.
 
