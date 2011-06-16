@@ -1,54 +1,68 @@
-> *The following text is extracted and transformed from the pepsicojobs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615101011id_/http%3A//www.pepsicocareercenter.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepsicojobs.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020458id_/http%3A//www.pepsico.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Pepsico Career Center Privacy Policy
+# PepsiCo Privacy Policy | PepsiCo.com
 
-**PEPSICO CAREER CENTER PRIVACY POLICY**
+#####  PepsiCo, Inc. -- Privacy Policy
 
-**The Information PepsiCo Collects**
+Welcome to the PepsiCo, Inc. ("PepsiCo") web site. Below you will find our Privacy Policy regarding any personal information that you may supply to us through this web site. Our goal is to protect your privacy and the information that you submit to us through the Internet.
 
-This policy applies to all personal information you might voluntarily submit to us through the PepsiCo Career Center web site. The type of personal information collected on this page relates to employment opportunities for you at PepsiCo or its divisions or affiliates, and may include name, contact information, employment history, education, skills and job preferences ("Profile Information").
+PepsiCo operates this web site from its offices in Purchase, New York in the United States. All matters pertaining to this web site are governed and interpreted under the laws of the State of New York, United States.
 
-By submitting your resume and Profile Information to PepsiCo, you agree that we may use it for recruitment purposes (including transferring the data to other countries, transferring your information to other companies authorized to perform specific services for PepsiCo, and/or other processing purposes relevant to recruitment purposes). It will not be shared with others for non-recruitment purposes.
+By accessing this web site, you indicate your acceptance of this Privacy Policy and the Terms of Use posted on this site. 
 
-**Children**
+This web site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the site, we will delete the information from our records. 
 
-This web site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. In the event we are notified that a child's personal information has been submitted to us, we will take reasonable steps towards removing this information from our database.
+#####  Linking to Other Sites 
 
-**The Way PepsiCo Uses Your Information**
+This policy covers [www.PepsiCo.com](http://www.pepsico.com/) (PepsiCo's corporate web site). Some of our subsidiaries and/or programs may have their own, possibly different, policies that are posted on their own web sites. We encourage you to review those policies when linking to those web sites. 
 
-Once you submit your Profile Information to us, it will be used only for employment and recruiting related purposes within PepsiCo or its divisions or affiliates. PepsiCo will not disclose any of your Profile Information to third parties, except as otherwise stated, without your express consent.
+#####  Information we collect and how we use it 
 
-We may use your contact information to notify you that we have received your information or that you are qualified for certain job opportunities. We will not use your contact information to send you any other information or for any other purpose without your express consent. 
+Personal Information - You may choose to provide personal information (such as your name, address, telephone number and email address) on this web site. Here are some of the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information. 
 
-Occasionally you will be able to forward pages or information directly from the PepsiCo Career Center web site to friends. The email addresses you provide to us are used on a one-time basis to facilitate this email communication and are not collected or retained by PepsiCo or any of its divisions or affiliates. 
+  * **Contact Us** \- If you email us through the “Contact Us” link on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
 
-**Disclosure of Information to Others**
+  * **Investor Relations Alerts** \- If you would like to receive company financial news from PepsiCo’s Investor Relations team, we ask for your name and email address so we can send you the news alerts.
 
-We do not disclose your personal information to third parties except in the following circumstances:
+  * **News Alerts** \- If you would like to receive company press releases from PepsiCo’s Media team, we ask for your name and email address so we can send you the news alerts.
 
-1\. We may disclose such information to companies and individuals we employ to perform functions on our behalf. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.  
-2\. We may disclose such information if legally required to do so or if requested to do so by a governmental entity.  
-3\. We may disclose and transfer such information to a third party who acquires a portion of PepsiCo's business, whether such acquisition is by way of merger, consolidation or purchase of all or a portion of our assets.
+  * **Send Content to a Friend** \- You can send certain content to your friends. To do so, we ask you to provide your name and your friend’s email address. We use this information to send the content to your friend. 
 
-**Updating Your Information**
+  * **Contact our Board of Directors** \- On our site we provide a phone number, a postal address and an email address so visitors can report matters or other concerns to the board of directors or Audit Committee. If you email us, please be aware that you will be providing us with your email address and any other information you include in your email.
 
-To ensure the Profile Information you submit remains accurate, PepsiCo will also provide you with access to your Profile Information. This access allows you to view, update or correct your Profile Information at the PepsiCo Career Center web site. To access your information, click on the "Edit Profile" link on the left-hand side of the page. Enter your email address and password and click "Submit".
 
-To protect your privacy and security, we also take reasonable steps to verify your identity before granting you access or enabling you to make corrections to your Profile Information. 
 
-If you wish to remove your resume and personal information from the PepsiCo database, please send an email to opportunity@pepsi.com. hyperlink email address
 
-**Data Security**
+#####  Internet Protocol Address 
 
-We take reasonable precautions to safeguard the personal information you submit through this web site. Accordingly, we have put in place various data protection procedures, including state of the art intrusion detection and rigid checks on our code base, to ensure compliance with the most rigid security standards. 
+We collect an Internet Protocol address from all visitors to our site. We use your IP address to help us administer our site. Your IP address is also used to help identify you when you visit our site. 
 
-**For Users Outside the U.S.**
+#####  Additional Policies for “Careers” Section of Site 
 
-Your information will be processed and/or stored in our U.S. database. By submitting your resume and personal information, you are consenting to the export of your information to the U.S. for processing and storage.
+If you submit personal information on the “Careers” or “Job Opportunities” sections of this site, the use and protection of such information is governed by the Jobs2Web Privacy Policy posted on that particular web page. Visit <http://www.jobs2web.com/privacy-policy/> for more information. 
 
-**Changes in our Policy**
+#####  Your Choices 
 
-We reserve the right to change or remove this Privacy Policy at our discretion. If we decide to change our Privacy Policy we will post those changes here. We encourage you to visit this area frequently to stay informed. 
+If you are a shareholder and have requested electronic delivery of information, you may update the information you have provided to us through this web site by sending an email to [investor@pepsico.com](mailto:investor@pepsico.com). 
 
-For additional information, including how we may automatically collect some data, please visit our main Privacy Policy.  
+#####  Information We Share 
 
+We do not sell or otherwise disclose personal information about our web site visitors, except as described here. We may share information provided by our visitors to this site with service providers we have retained to perform services on our behalf. These service providers are restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. 
+
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided through this web site in a manner that is consistent with this Privacy Policy. 
+
+#####  Information We Transfer 
+
+We may transfer the personal information we collect on this site to other countries where we do business, but we will do so only for the purposes described above. When we transfer your information to other countries, we will protect that information as described here unless otherwise required by applicable laws. 
+
+#####  How We Protect Personal Information 
+
+We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on this web site. We use secure socket layer (SSL) technology to help keep the personal information you provide on this site secure. 
+
+#####  Updates to Our Privacy Statement 
+
+This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our online information practices. We will post a notice on this web site to notify you of any significant changes to our Privacy Statement and indicate when it was most recently updated. 
+
+#####  How to Contact Us 
+
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us via one of the addresses or telephone numbers listed [here](http://www.pepsico.com/Contacts.html). 
