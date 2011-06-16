@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the circuitcity.com privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223182353id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the circuitcity.com privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616032900id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy at CircuitCity.com</title>
@@ -604,23 +604,26 @@ width:941px;
 
 
 div#hom_24Ex_wrapper{display:none; position:absolute; top:0%; left: 0%; z-index:9991; width:100%; height:2150px; background-color:black; z-index:99990; -moz-opacity:0.8; opacity:.80; filter:alpha(opacity=80);}
-#ccExO_wrapper{display:none; position:absolute; top:5%; left: 20%; z-index:99990; width:750px; height:630px; background:#121212; border:2px solid #595757; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; padding:28px 0;}
-#ccExO_wrapper2{display:none; position:absolute; top:5%; left: 20%; z-index:99990; width:750px; height:454px; background:#121212; border:2px solid #595757; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; padding:28px 0;}
-span#ccExO_title{text-align:center; letter-spacing:-2px; color:#cc0331; font-size:50px; font-weight:bold; display:block; margin:0;}
-span#ccExO_subtitle{text-align:center; letter-spacing:-1px; font-size:28px; display:block; margin:0 0 30px 0}
-#ccExO_mid{width:100%; background:#2a2929; padding:20px 0; margin:0 0 20px 0;}
+#ccExO_wrapper{display:none; position:absolute; top:5%; left: 30%; z-index:99990; width:450px; height:500px; background:#121212; border:1px solid #888; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; padding:28px 0;}
+#ccExO_wrapper2{display:none; position:absolute; top:5%; left: 30%; z-index:99990; width:450px; height:500px; background:#121212; border:1px solid #888; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; padding:28px 0;}
+span#ccExO_title{text-align:center; letter-spacing:-2px; color:#cc0331; font-size:26px; font-weight:bold; display:block; margin:0; padding:25px 0 0 0;}
+span#ccExO_subtitle{text-align:center; letter-spacing:-1px; font-size:18px; display:block; margin:0 0 3px 0}
+#ccExO_mid{width:100%; background:#2a2929;  padding:10px 0; margin:0 0 10px 0px;}
 span#ccExO_mid_inner{ display:block; padding:20px; font-size:22px; letter-spacing:-1px;}
-#ccExForm{display:block; width:550px; margin:0 0 0 105px;}
-#ccExForm_email, #ccExForm_captcha{font-size:30px; letter-spacing:-1px; color:#999999; padding:3px 0 3px; margin:5px 0 30px 0;}
-#ccExForm_email{width:500px;}
-#ccExForm_captcha{width:256px;}
-.ccExForm_text{font-size:20px; letter-spacing:-1px;}
-#ccExForm_CaptchImg{float:left; width:200px; height:100px; margin:-14px 40px 0 0;}
-#ccExForm_CaptchInput{float:left;}
-#ccExForm_submit{display:block; width:255px; margin:0 0 0 145px;}
+#ccExForm{display:block; width:100%; margin:0 0 0 10px;}
+#ccExForm_textInput{padding:0px; margin:0px;}
+#ccExForm_email, #ccExForm_captcha{font-size:15px; letter-spacing:-1px; color:#999999;  padding:3px 0 3px; margin:5px 0 15px 0;}
+#ccExForm_email{width:389px;}
+#ccExForm_captcha{width:207px;}
+.ccExForm_text{font-size:17px; letter-spacing:-1px; text-align:left;}
+#ccExForm_CaptchWrap{width:450px; margin:10px 0; height:91px;}
+#ccExForm_CaptchImg{float:left; width:200px; height:100px; margin:0 0 0 0px; padding:0 15px 0 0;}
+#ccExForm_CaptchInput{float:left; margin:27px 0 0 0; width:210px;}
+#ccExForm_submit{display:block; width:166px; margin:0 auto;}
 #ccEx_TC{font-size:12px; text-align:center; margin:20px 10px;}
 #cc_miniBanner a{display:block; width:225px; height:46px;}
-
+#ccExO_top #closebuttonPos{position:absolute; top:4px; right:6px;}
+#ccExO_top #site_logo{position:absolute; top:-29px; left:-33px;}
 
 </style>
 
@@ -631,12 +634,21 @@ var emailID=document.ccExForm.email;
 document.write(emailID);
 }
 
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toUTCString());
+}
+
 function lightbox(div,action){
 
 	if ((div=="ccExO_wrapper") && (action == "close")){
 	
 	document.getElementById('ccExO_wrapper').style.display='none';
 	document.getElementById('hom_24Ex_wrapper').style.display='none';
+	setCookie('visited','yes',30);
 	}
 
 	else if ((div=="ccExO_wrapper") && (action == "open"))  {
@@ -651,6 +663,7 @@ function lightbox(div,action){
 	else if ((div=="ccExO_wrapper2") && (action == "open"))  {
 	document.getElementById('ccExO_wrapper2').style.display='block';
 	document.getElementById('hom_24Ex_wrapper').style.display='block';
+	setCookie('visited','yes',30);
 	setTimeout("lightbox('ccExO_wrapper2','close')",10000);
 	}
 
@@ -869,6 +882,7 @@ function overlay_ValidateForm(){
           <li><a href="/applications/category/category_tlc.asp?CatId=2814&amp;cm_sp=Header-_-CO-_-CatID_2814" title="Netbooks">Netbooks</a></li>
           <li><a href="/applications/Category/category_tlc.asp?CatId=6&amp;name=Desktop-PCs&amp;cm_sp=Header-_-CO-_-CatID_6" title="Desktops">Desktops</a></li>
           <li><a href="/applications/category/category_slc.asp?CatId=114&amp;cm_sp=Header-_-CO-_-CatID_114" title="Gaming PCs">Gaming PCs</a></li>
+          <li><a href="/applications/category/category_tlc.asp?CatId=6838&amp;cm_sp=Header-_-CO-_-CatID_6838" title="Tablets / E-readers">Tablets / E-readers</a></li>
 		  <li><a href="/applications/Category/category_tlc.asp?CatId=1625&amp;cm_sp=Header-_-CO-_-CatID_1625" title=" Communications "> Communications</a></li>
           <li><a href="/applications/Category/category_tlc.asp?CatId=30&amp;name=Servers&amp;cm_sp=Header-_-CO-_-CatID_30" title="Servers">Servers</a></li>          
           <li><a href="/applications/Category/category_tlc.asp?CatId=12&amp;name=Monitor-LCDs&amp;cm_sp=Header-_-CO-_-CatID_12" title="Monitor&quot;&quot;">Monitors</a></li>          
@@ -933,6 +947,7 @@ function overlay_ValidateForm(){
           <div class="circuitCurrent" id="cc_hovertab_cameras"><a href="/sectors/camera/cameras.asp" title="Cameras &amp; Camcorders"><span>CAMERAS &amp;<br>CAMCORDERS&nbsp;<img id="arrow1" src="http://images.highspeedbackbone.net/masthead/circuit/downarrow.gif" width="7" height="4" border="0"></span></a></div>
           <li class="cc_menuhoveradjust"><a href="/applications/Category/guidedSearch.asp?CatId=7&amp;name=Cameras&amp;cm_sp=Header-_-DC-_-CatID_7" title="Cameras">Cameras</a></li>
           <li><a href="/applications/Category/category_tlc.asp?CatId=4441&amp;name=Camcorders&amp;cm_sp=Header-_-DC-_-CatID_4441" title="Camcorders">Camcorders</a></li>
+          <li><a href="/applications/category/guidedSearch.asp?CatId=4442&amp;cm_sp=Header-_-DC-_-CatID_4442" title="Surveillance">Surveillance</a></li>
           <li><a href="/applications/category/category_tlc.asp?CatId=4462&amp;name=Web-Cams&amp;cm_sp=Header-_-DC-_-CatID_130" title="Webcams">Webcams</a></li>
           <li><a href="/applications/category/category_slc.asp?CatId=5230&amp;cm_sp=Header-_-DC-_-CatID_5230" title="Digital Picture Frames">Digital Picture Frames</a></li>
           <li><a href="/applications/Category/category_tlc.asp?CatId=36&amp;name=Flash-Memory-Cards&amp;cm_sp=Header-_-DC-_-CatID_36" title="Flash Memory">Flash Memory</a></li>
@@ -951,7 +966,7 @@ function overlay_ValidateForm(){
         <ul id="circuitsubmenuPCComp">
           <div class="circuitCurrent" id="cc_hovertab_housewares"><a href="/sectors/housewares/housewares.asp?cm_sp=Header-_-HW-_-CatID_2707" title="Housewares and Appliances "><span>HOUSEWARES<br>&amp; APPLIANCES&nbsp;<img id="arrow1" src="http://images.highspeedbackbone.net/masthead/circuit/downarrow.gif" width="7" height="4" border="0"></span></a></div>
         
-           <li id="leftside" class="cc_menuhoveradjust"><a href="/applications/category/category_tlc.asp?CatId=4624&amp;name=Coffee-Makers&amp;cm_sp=Header-_-HW-_-CatID_4624" title="Coffee Makers">Coffee Makers</a></li>
+           <li id="leftside" class="cc_menuhoveradjust"><a href="/applications/category/category_tlc.asp?CatId=4559&amp;name=Coffee-Makers&amp;cm_sp=Header-_-HW-_-CatID_4559" title="Coffee Makers">Coffee Makers</a></li>
                    
            <li id="rightside" class="cc_menuhoveradjust"><a href="/applications/category/category_slc.asp?CatId=4681&amp;name=Cookers-&amp;-Steamers&amp;cm_sp=Header-_-HW-_-CatID_4681" title="Cookers &amp; Steamers">Cookers &amp; Steamers</a></li>
            
@@ -1055,8 +1070,11 @@ function overlay_ValidateForm(){
 <div id="ccExO_wrapper">
 	<a id="ccExo_wrapbtn" href="#" onclick="lightbox('ccExO_wrapper','close')"></a>
 	<div id="ccExO_top">
+    	<div id="site_logo"><img src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/ccLogo_overlay.png"></div>
+        <div id="closebuttonPos"><a href="#" onclick="lightbox('ccExO_wrapper','close')"><img src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/closeButton.png" alt="Close Overlay" border="0"></a></div>
     <span id="ccExO_title">ONE DAY EXCLUSIVE OFFER!</span>
-    <span id="ccExO_subtitle">Sign up for our Circuit City Exclusive Email Offers and get<br><b>$10 Off YOUR NEXT ORDER</b></span>
+    <span id="ccExO_subtitle">Sign up for our Circuit City Exclusive Email Offers and get<br>
+    <b>$10 Off* YOUR NEXT ORDER</b></span>
     </div>
     <div id="ccExO_mid">
     <form id="ccExForm" name="ccExForm" method="post" action="http://www.circuitcity.com/include/LyrisProxy.asp">
@@ -1073,11 +1091,12 @@ function overlay_ValidateForm(){
         </div><br clear="all">
         <input type="hidden" name="ListCode" value="CO">
         <input name="list" type="hidden" value="ccoverlay">
-        <input type="hidden" name="SrcCode" value="CCITYWEB" size="10" maxlength="100">
+        <input type="hidden" name="SrcCode" value="CCEM620TT" size="10" maxlength="100">
         <input type="hidden" name="demographics" value="ListCode SrcCode">
         <input type="hidden" name="confirm" value="one">
         <input type="hidden" name="showconfirm" value="F">
-        <input id="ccExForm_submit" type="image" onclick="return overlay_ValidateForm()" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/submitbtn.jpg">        <input type="hidden" name="url" value="http://www.circuitcity.com/sectors/aboutus/privacy.asp?page=ty&amp;">        
+        <center><input id="ccExForm_submit" type="image" onclick="return overlay_ValidateForm()" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/submitbtn.jpg"></center>
+        <input type="hidden" name="url" value="http://www.circuitcity.com/sectors/aboutus/privacy.asp?page=ty&amp;">        
     </form>
        
     <br clear="all">
@@ -1982,7 +2001,7 @@ a.sidebox-buy-link { color:#cc0000 !important; }
   <div class="sideboxCC">
   
   
-  	<a href="/applications/searchtools/item-Details.asp?EdpNo=6738398&amp;sku=C91-41294&amp;cm_sp=Right Nav-_-CatID_4592-_-EmailSpot"><img src="http://images.highspeedbackbone.net/homepage/circuitHome/cc_subfeature_WEEKRNC91-41294.jpg" alt="Circuit City C91-41294 Wireless Speaker System - 100ft Range, Transmitter, Cradle Adapter, Indoor/Outdoor, Water-Resistant, Built-In Subwoofer and Tweeter, Black" border="0"></a>
+  	<a href="/email/circuitCity/CCEM664.asp?cm_sp=Right Nav-_-Email-_-CCEM664"><img src="http://images.highspeedbackbone.net/homepage/circuitEmail/cc_subfeature_CCEM664RN.jpg" border="0"></a>
     
   </div>
 <!--end email spot -->
@@ -1994,24 +2013,24 @@ a.sidebox-buy-link { color:#cc0000 !important; }
     <div class="sidebox-content-hot-deals">
     
       <div class="sidebox-hot-deal">
-        <strong>4-Pack 6ft HDMI Cable Bundle</strong>
-        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=6727652&amp;sku=D15-80644&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_3_D15-80644"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_D15-80644.jpg" alt="4-Pack 6ft HDMI Cable Bundle" width="140" height="100" border="0"></a>
-        <p class="circuit_Detail">Support up to 1080P Resolutions and 8 Channel Surround Sound</p>
-        <span class="price"><strong>$14.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=6727652&amp;sku=D15-80644&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_3_D15-80644">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=6727652&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_3_D15-80644">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
+        <strong>Flip UltraHD Pocket Digital Camcorder</strong>
+        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=5531983&amp;sku=P229-1058&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4441_P229-1058"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_P229-1058.jpg" alt="Flip UltraHD Pocket Digital Camcorder" width="140" height="100" border="0"></a>
+        <p class="circuit_Detail">120 Minute Video Capture, 8GB HDD, 2.0-inch LCD, Black, Refurbished</p>
+        <span class="price"><strong>$89.96</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=5531983&amp;sku=P229-1058&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4441_P229-1058">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=5531983&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4441_P229-1058">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
       </div>
       
       <div class="sidebox-hot-deal">
-        <strong>Samsung Bluetooth Headset</strong>
-        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7038847&amp;sku=S127-1522&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_1736_S127-1522"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_S127-1522.jpg" alt="Samsung Bluetooth Headset" width="140" height="100" border="0"></a>
-        <p class="circuit_Detail">Bluetooth 2.1 +EDR, Up To 7 Hours Talk Time</p>
-        <span class="price"><strong>$1.99*</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7038847&amp;sku=S127-1522&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_1736_S127-1522">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=7038847&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_1736_S127-1522">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
+        <strong>Verbatim 50-Pack 16X DVD-R Spindle</strong>
+        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7335385&amp;sku=V34-2910&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_2_V34-2910"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_V34-2910.jpg" alt="Verbatim 50-Pack 16X DVD-R Spindle" width="140" height="100" border="0"></a>
+        <p class="circuit_Detail">Ideal for recording up to 2 hours of DVD quality home movies and video clips</p>
+        <span class="price"><strong>$9.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7335385&amp;sku=V34-2910&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_2_V34-2910">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=7335385&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_2_V34-2910">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
       </div>
       
       <div class="sidebox-hot-deal last-hot-deal">
-        <strong>Netgear Wireless N Router</strong>
-        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=5569261&amp;sku=N100-2219&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_35_N100-2219"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_N100-2219.jpg" alt="Netgear Wireless N Router" width="140" height="100" border="0"></a>
-        <p class="circuit_Detail">300Mbps, 802.11n, 4-Port, Recertified</p>
-        <span class="price"><strong>$34.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=5569261&amp;sku=N100-2219&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_35_N100-2219">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=5569261&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_35_N100-2219">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
+        <strong>Samsung 1080p Blu-ray Player</strong>
+        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=6307010&amp;sku=S223-1306&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_54670_S223-1306"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_S223-1306.jpg" alt="Samsung 1080p Blu-ray Player" width="140" height="100" border="0"></a>
+        <p class="circuit_Detail">1080p, 1920x1080, Internet@TV, BD-Live, Wireless LAN-ready, 2x USB, HDMI, (Refurbished)</p>
+        <span class="price"><strong>$89.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=6307010&amp;sku=S223-1306&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_54670_S223-1306">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=6307010&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_54670_S223-1306">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
       </div>
       
 		
@@ -2068,14 +2087,14 @@ a.sidebox-buy-link { color:#cc0000 !important; }
             margin-top: 20px;"><br>
     </center>
     <!-- begin ad tag-->
-    <iframe src="http://ad.doubleclick.net/adi/CircuitCity/ROS_160x600;sz=160x600;ord=7313457727432?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-        <script language="JavaScript" src="http://ad.doubleclick.net/adj/CircuitCity/ROS_160x600;sz=160x600;abr=!ie;ord=7313457727432?"
+    <iframe src="http://ad.doubleclick.net/adi/CircuitCity/ROS_160x600;sz=160x600;ord=1884467601776?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+        <script language="JavaScript" src="http://ad.doubleclick.net/adj/CircuitCity/ROS_160x600;sz=160x600;abr=!ie;ord=1884467601776?"
             type="text/javascript"></script>
     </iframe>
     <noscript>
-        <a href="http://ad.doubleclick.net/jump/CircuitCity/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=7313457727432?"
+        <a href="http://ad.doubleclick.net/jump/CircuitCity/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=1884467601776?"
             target="_blank">
-            <img src="http://ad.doubleclick.net/ad/CircuitCity/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=7313457727432?"
+            <img src="http://ad.doubleclick.net/ad/CircuitCity/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=1884467601776?"
                 width="160" height="600" border="0" alt=""></a></noscript>
     <!-- End ad tag -->
 
@@ -2238,9 +2257,45 @@ a.circuitFooter:hover  {color:#6699cc; text-decoration:underline;}
 .float_left{
 float:left;
 }
+
+#bannerAdWrapper{
+	clear:both; margin:10px 0 5px;	
+}
+
+#bAd728{
+	width:728px; text-align:center; float:left;
+}
 -->
 </style>
 
+<div id="bannerAdWrapper">
+		
+	<br clear="all">        
+    <div style="width:5px; height:70px; float:left; margin:10px 0 0 25px;"> <img src="http://images.highspeedbackbone.net/masthead/v_advert.gif"> </div>
+    <div id="bAd728">
+
+        <!-- begin ad tag -->
+        
+        <!-- To be placed in the body of the page, where you want the banner to appear -->
+        
+        <nolayer>
+        <iframe src="http://ad.doubleclick.net/adi/CircuitCity/ROS_728x90;sz=728x90;ord=[timestamp]?" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+        <a href="http://ad.doubleclick.net/jump/CircuitCity/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?">
+        <img src="http://ad.doubleclick.net/ad/CircuitCity/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=[timestamp]?" width="728" height="90" border="0" alt="" /></a>
+        </iframe>
+        </nolayer>
+        <table align="center"><tbody><tr><td><ilayer id="layer1" visibility="hidden" width="728" height="90"></ilayer></td></tr></tbody></table>
+        
+        <!-- To be placed at the end of the HTML page code, just before the /BODY tag -->
+        <layer src="http://ad.doubleclick.net/adl/CircuitCity/ROS_728x90;sz=728x90;ord=[timestamp]?" width="728" height="90" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.width=728;clip.height=90 visibility='show';"></layer>
+        <noscript><a href="http://ad.doubleclick.net/jump/CircuitCity/ROS_728x90;sz=728x90;ord=[timestamp]?"><img src="http://ad.doubleclick.net/ad/CircuitCity/ROS_728x90;sz=728x90;ord=[timestamp]?" border="0" alt="" /></a></noscript>
+        <!-- end ad tag -->
+        
+          
+    </div>
+</div>
+
+<br clear="all">
 <div class="circuit_FooterContainer">
 	<div style="float:left; width:10px;"><img src="http://images.highspeedbackbone.net/footer-circuit/topLeft.gif"></div>
 	<div style="float:right; width:10px;"><img src="http://images.highspeedbackbone.net/footer-circuit/topRight.gif"></div>    
@@ -2249,7 +2304,7 @@ float:left;
 <div id="circuit_ShopCategory"> 
     <div class="circuit_FootCategoryTitle">Shopping</div>
     <a href="/cgi-bin/ShoppingCart.asp" class="circuitFooter" rel="nofollow">View Cart</a> <a href="/secure/orderlogin.asp?PG=1" class="circuitFooter" rel="nofollow">My 
-    Account</a> <a href="/cgisec/orderTrack.asp" class="circuitFooter" rel="nofollow">Order Status</a><a href="/rss/index.asp" class="circuitFooter">RSS Feeds</a><a href="/sectors/campaigns/shopbybrand/" class="circuitFooter">Shop By Brand</a><a href="http://circuitcity.cexchange.com" class="circuitFooter" target="_blank">Trade-in Program</a></div>      
+    Account</a> <a href="/cgisec/orderTrack.asp" class="circuitFooter" rel="nofollow">Order Status</a><a href="/rss/index.asp" class="circuitFooter">RSS Feeds</a><a href="/sectors/campaigns/shopbybrand/" class="circuitFooter">Shop By Brand</a><a href="http://circuitcity.cexchange.com" class="circuitFooter" target="_blank">Trade-in Program</a><a href="http://circuitcity.brtpartstore.com" class="circuitFooter" target="_blank">Hard to Find Parts</a></div>      
 
 <!--     
    <div id="circuit_DealsCategory"> 
@@ -2273,7 +2328,7 @@ float:left;
     </div>
 </div>  
 
-  <div id="circuitPriorityCode">Priority Code: <span id="priorityBox">CCEM475TT</span>  </div>
+  <div id="circuitPriorityCode">Priority Code: <span id="priorityBox">CCEM620TT</span>  </div>
   <div class="circuit_BottomLinks">
   <a href="http://www.twitter.com/circuitcity" target="_blank"><img src="http://images.highspeedbackbone.net/footer-circuit/circuit_Twitter3.gif" alt="Add to Twitter" width="189" height="46" border="0" class="circuit_Links"></a><a href="http://www.facebook.com/CircuitCity" target="_blank"><img src="http://images.highspeedbackbone.net/footer-circuit/circuit_Facebook2.gif" alt="Add to Facebook" width="189" height="46" border="0" class="circuit_Links"></a><br>
 
@@ -2282,13 +2337,13 @@ float:left;
 	<div style="float:left; width:10px;"><img src="http://images.highspeedbackbone.net/footer-circuit/BotLeft.gif"></div>
 	<div style="float:right; width:10px;"><img src="http://images.highspeedbackbone.net/footer-circuit/BotRight.gif"></div>    
   <div id="circuit_DisclaimerContainer">
-<div id="circuit_Disclaimer">© Circuit City 2010. Circuit City is not responsible for typographical or photographic errors. Prices and specifications are subject to change without notice.<br>
+<div id="circuit_Disclaimer">© Circuit City 2011. Circuit City is not responsible for typographical or photographic errors. Prices and specifications are subject to change without notice.<br>
   <p>
   *Price after manufacturer mail-in rebate. Restrictions apply. Click <span style="color:#0099FF">MORE INFO</span> button next to your selected product above, then click "Rebate Terms and Conditions" for terms and conditions.
 
   </p>
   <p>
-  © 2010 CircuitCity.com Inc. All Rights Reserved. Circuit City, Circle logo and CircuitCity.com are registered trademarks of CircuitCity.com Inc. All others trademarks and copyrights mentioned herein are the property of their respective owners. Some images used herein were obtained from Jupiterimages Corporation. ©2008 Jupiterimages Corporation. CircuitCity.com, Inc. 
+  © 2011 CircuitCity.com Inc. All Rights Reserved. Circuit City, Circle logo and CircuitCity.com are registered trademarks of CircuitCity.com Inc. All others trademarks and copyrights mentioned herein are the property of their respective owners. Some images used herein were obtained from Jupiterimages Corporation. ©2008 Jupiterimages Corporation. CircuitCity.com, Inc. 
   </p>
 <br>
 </div>
@@ -2345,39 +2400,37 @@ float:left;
 <script language="javascript" type="text/javascript">
 <!--
  var cmCId = '90250863', cmDmn = 'circuitcity.com';
+ 
 -->
 </script>
 <script language="javascript" type="text/javascript" src="/javascript/cm/eluminate.js"></script>
 <script language="javascript" type="text/javascript" src="/javascript/cm/cmdatatagutils.js"></script> 
 <script language="javascript" type="text/javascript">
 <!--
-cmSetProduction();
+cmStartTagSet();cmSetProduction();
 cmCreatePageviewTag('Legal : Privacy Rights','LEGAL',null,null);
-
+cmSendTagSet();
 -->
 </script>
-<!--pop_check           :active-->
 <!--Cart(PHRoutine)     :10-->
-<!--Cart(rNavEdpDesc)   :^D>>Garmin Nuvi 265W/WT 4.3"  Bluetooth, TTS, Traffic>>EdpNo=4177813^D>>Centon 8GBSDHC4 Class 4 SDHC Flash Card >>EdpNo=528605-->
+<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product-->
 <!--Cart(rNavLastVisit) :-->
-<!--Cart(rNavCatId)     :^C>>Refurbished Desktops>>category_tlc.asp?CatId=2628^C>>Cameras>>category_tlc.asp?CatId=7^C>>Laptops & Notebooks>>guidedsearch.asp?CatId=17-->
-<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product: >>-->
-<!--visited             :yes-->
-<!--DB(GuidSort)        :-->
-<!--DB(msRandX)         :41-->
-<!--DB(PageSize)        :10-->
-<!--DB(msProduct)       :1782290-->
-<!--DB(gq)              :-->
+<!--Cart(rNavCatId)     :^C>>Laptops & Notebooks>>guidedsearch.asp?CatId=17^C>>MP3 Players>>category_tlc.asp?CatId=15-->
+<!--Cart(rNavEdpDesc)   :^D>>Logitech - V220 - Cordless Optical Mouse>>EdpNo=3198091^D>>Garmin Nuvi 265WT 4.3" GPS, TTS/BT - Refurbished>>EdpNo=4942688^D>>Fantom 2TB GreenDrive External Hard Drive>>EdpNo=5384379-->
+<!--visited             :tempyes-->
+<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150C.jpg-->
+<!--DB(Sidenav)         :B-->
+<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150C.jpg-->
 <!--DB(ItemDetailsBeta) :Y-->
-<!--DB(Sidenav)         :A-->
-<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150B.jpg-->
-<!--DB(CatSort)         :0-->
-<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150B.jpg-->
-<!--SRVR                :WEBX53--->
-<!--SessionId           :1485931620101223132048204236226210-->
-<!--Wish(PoppedComment) :false-->
-<!--SRCCODE             :CCEM475TT-->
-<!--Warranty            :POPPED-->
+<!--DB(msProduct)       :1782427-->
+<!--DB(PageSize)        :10-->
+<!--DB(gq)              :-->
+<!--DB(msRandX)         :84-->
+<!--DB(GuidSort)        :-->
+<!--SRVR                :WEBX54--->
+<!--beta                :Y-->
+<!--SessionId           :2504340820110615232502204236226210-->
+<!--SRCCODE             :CCEM620TT-->
 
 
 
