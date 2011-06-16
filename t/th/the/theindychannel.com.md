@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216170050id_/http%3A//www.theindychannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020008id_/http%3A//www.theindychannel.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
