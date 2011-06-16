@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justthejob.co.za privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134315id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justthejob.co.za privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020113id_/http%3A//www.justthejob.co.za/privacy.php) for the most accurate reproduction.*
 
 # privacy policy
 
