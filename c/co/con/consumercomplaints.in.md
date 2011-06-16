@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226115934id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617015252id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
   | 
 
 ### Recently discussed
-
-(1 minutes ago)  
-[TATA DOCOMO 3G](https://web.archive.org/complaints/tata-docomo-3g-c475601.html)  
-Pathetic internet speed on 3G
 
 [](http://www.yadsi.in/ "India Classifieds")
 
@@ -18,8 +14,8 @@ Pathetic internet speed on 3G
 
 ### Complaints with most comments
 
-[UNIPAY2U](https://web.archive.org/complaints/unipay2u-c284798.html) (19)  
-BUY GOLD ONLINE & EARN 20% OF THE AMOUNT TILL 10 MONTHS
+[speak asia](https://web.archive.org/complaints/speak-asia-c432939.html) (69)  
+BAWARE: online froud company
 
 ### Stay away
 
