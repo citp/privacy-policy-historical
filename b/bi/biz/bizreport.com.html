@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bizreport.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127160442id_/http%3A//www.bizreport.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizreport.com privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616075625id_/http%3A//www.bizreport.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,7 +11,7 @@
 
 <title>Privacy Policy Statement - BizReport</title>
 
-</head>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script><style type="text/css">.mce_inline_error {margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;}</style></head>
 
 <body>
 
@@ -35,6 +35,57 @@ window.google_analytics_uacct = "UA-30631-1";
 	<div class="banner">
 				<a href="/"><img alt="BizReport" title="BizReport" src="/images/misc/logo_biz_report.gif" width="246" height="47" border="0"></a><img alt="News &amp; Insight for Online Marketers" title="News &amp; Insight for Online Marketers" src="/images/misc/logo_description.gif" width="224" height="36" border="0">
 	</div>
+	<div class="widget-sign-in widget">
+    <div id="signin-widget-content" class="widget-content"></div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+function mtUpdateSignInWidget(u) {
+    var separator = '&nbsp;&nbsp;|&nbsp;&nbsp;';
+    var el = document.getElementById('signin-widget-content');
+    var content = '';
+    if (!el) return;
+    if (u) {
+        if (u && u.is_authenticated) {
+            user = u;
+            mtSaveUser();
+        } else {
+            // user really isn't logged in; so let's do this!
+            return mtSignIn();
+        }
+    } else {
+        u = mtGetUser();
+    }
+    if (u && u.name) {
+        var url;
+        if (u.is_authenticated) {
+            if (u.is_author) {
+                url = 'http://www.bizreport.com/login/mt-cp.cgi?__mode=view&blog_id=1';
+                url += '&static=' + encodeURIComponent( location.href );
+            } else {
+                url = u.url;
+            }
+        } else if (u.url) {
+            url = u.url;
+        } else {
+            url = null;
+        }
+        if (url)
+            content += 'You are signed in as <a href="' + url + '">' + u.name + '</a>';
+        else
+            content += 'You are signed in as ' + u.name + '';
+        if (u.is_author)
+            content += separator + '<a href="http://www.bizreport.com/login/mt-cp.cgi?__mode=edit&blog_id=1&return_to=' + encodeURIComponent(document.URL) + '">Edit profile</a>';
+        
+        content += separator + '<a href="javascript:void(0)" onclick="return mtSignOutOnClick()">Sign out</a>';
+        
+    }
+    el.innerHTML = content;
+}
+mtAttachEvent('usersignin', mtUpdateSignInWidget);
+mtUpdateSignInWidget();
+/* ]]> */
+</script>
 </div>
 <div class="content">
 
@@ -197,7 +248,7 @@ google_color_url = "999999";
 </script>
 
 </div>
-<div class="leftadsense">
+<div class="slot_160x600">
 
 <script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=501497&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=7818"></script>
 
@@ -270,21 +321,21 @@ google_ad_height = 90;
 
 <ul>
 
-<li><a href="http://www.bizreport.com/2010/11/cyber-monday-is-nearly-here-is-your-checkout-ready.html">Cyber Monday is nearly here. Is your checkout ready?</a></li>
+<li><a href="http://www.bizreport.com/2011/06/retailers-fail-to-meet-demands-of-todays-savvy-shoppers.html">Retailers fail to meet demands of today's savvy shoppers</a></li>
 
-<li><a href="http://www.bizreport.com/2010/11/social-media-market-research---are-you-listening.html">Social media market research - are you listening?</a></li>
+<li><a href="http://www.bizreport.com/2011/06/uk-consumers-facing-service-black-hole-with-every-online-pur.html">Customer service email a "black hole" in UK</a></li>
 
-<li><a href="http://www.bizreport.com/2010/11/security-tips-for-2011-from-deloitte.html">Security tips for 2011 from Deloitte</a></li>
+<li><a href="http://www.bizreport.com/2011/06/study-brands-would-increase-online-spend-if-metrics-were-bet.html">Study: Brands would increase online spend if metrics were better</a></li>
 
-<li><a href="http://www.bizreport.com/2010/11/amazon-selling-black-friday-to-the-brits.html">Amazon selling Black Friday to the Brits</a></li>
+<li><a href="http://www.bizreport.com/2011/06/study-shoppers-spending-more-time-on-research.html">Study: Shoppers spending more time on research </a></li>
 
-<li><a href="http://www.bizreport.com/2010/11/survey-in-2011-search-advertising-is-all-about-social.html">Survey: In 2011 search advertising is all about social </a></li>
+<li><a href="http://www.bizreport.com/2011/06/study-video-wanted-on-all-screens-all-the-time.html">Study: Video wanted on all screens, all the time</a></li>
 
-<li><a href="http://www.bizreport.com/2010/11/gaming-expected-to-grow-20-what-brands-can-do-to-engage.html">Gaming expected to grow 20%, what brands can do to engage</a></li>
+<li><a href="http://www.bizreport.com/2011/06/most-daily-deal-buyers-dont-come-back.html">Most daily deal buyers don't come back</a></li>
 
-<li><a href="http://www.bizreport.com/2010/11/mobile-shoppers-get-kickbacks-via-kickbucks.html">Retailers welcome shoppers with rewards via mobile</a></li>
+<li><a href="http://www.bizreport.com/2011/06/strongmail-study-finds-life-events-engage-consumers.html">StrongMail study finds life events engage consumers</a></li>
 
-<li><a href="http://www.bizreport.com/2010/11/9-out-of-10-mobile-shoppers-log-on-in-store.html">9 out of 10 mobile shoppers log on in-store</a></li>
+<li><a href="http://www.bizreport.com/2011/06/73-of-ceos-think-marketers-lack-business-credibility.html">CEOs think marketers too "fluffy" and not business-minded</a></li>
 
 </ul>
 
@@ -342,77 +393,9 @@ google_ad_height = 280;
 	</div>
 	<div class="credit">
 		<div>
-			© 1999-2010 BizReport. All Rights Reserved | <a href="/about/privacy/">Privacy Policy</a> | <a href="/about/disclaimer/">Disclaimer</a>		</div>
+			© 1999-2011 BizReport. All Rights Reserved | <a href="/about/privacy/">Privacy Policy</a> | <a href="/about/disclaimer/">Disclaimer</a>		</div>
 	</div>
 </div>
-
-<!-- Begin MailChimp Signup Form -->
-<!--[if IE]>
-<style type="text/css" media="screen">
-	#mc_embed_signup fieldset {position: relative;}
-	#mc_embed_signup legend {position: absolute; top: -1em; left: .2em;}
-</style>
-<![endif]--> 
-
-<!--[if IE 7]>
-<style type="text/css" media="screen">
-	.mc-field-group {overflow:visible;}
-</style>
-<![endif]--><script type="text/javascript" src="http://bizreport.us1.list-manage.com/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="http://bizreport.us1.list-manage.com/js/jquery.validate.js"></script>
-<script type="text/javascript" src="http://bizreport.us1.list-manage.com/js/jquery.form.js"></script>
-<script type="text/javascript" src="http://bizreport.us1.list-manage.com/subscribe/xs-js?u=32dbe8c9891d46a2c90138659&amp;id=c5c454bd48"></script>
-
-<div id="mc_embed_signup" style="width: 100%;position: absolute;top: 0;left: 0;height: 100%;background-color: rgba(0,0,0,.8);display: none;">
-<form action="http://bizreport.us1.list-manage.com/subscribe/post?u=32dbe8c9891d46a2c90138659&amp;id=c5c454bd48" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" style="position: fixed;top: 10%;left: 50%;width: 50%;margin-left: -25%;font: normal 100% Arial;font-size: 12px;">
-	<fieldset style="-moz-border-radius: 4px;border-radius: 4px;-webkit-border-radius: 4px;border: 1px  #000000;padding-top: 1.5em;margin: .5em 0;background-color: #FFFFFF;color: #333333;">
-	<legend style="text-transform: capitalize;font-weight: bold;color: #666666;background: #ffffff;padding: .5em 1em;border: 1px solid #000000;-moz-border-radius: 4px;border-radius: 4px;-webkit-border-radius: 4px;font-size: 1.2em;">join BizReport's mailing list</legend>
-<div class="mc-field-group" style="margin: 0 5% 0 5%;padding: 2px 0;clear: both;overflow: hidden;">
-<label for="mce-EMAIL" style="display: block;margin: 15px 0 .3em 0;font-weight: bold;">Email Address </label>
-<input type="text" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="margin-right: 1.5em;padding: .2em .3em;width: 95%;float: left;z-index: 999;">
-</div>
-		<div id="mce-responses" style="float: left;top: -1.4em;padding: 0em .5em 0em .5em;overflow: hidden;width: 90%;margin: 0 5%;clear: both;">
-			<div class="response" id="mce-error-response" style="display: none;margin: 1em 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: #FFEEEE;color: #FF0000;"></div>
-			<div class="response" id="mce-success-response" style="display: none;margin: 1em 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: #;color: #529214;"></div>
-		</div>
-		<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn" style="clear: both;margin: 1em 0 1em 5%;width: auto;display: block;"></div>
-	</fieldset>	
-	<a href="#" id="mc_embed_close" class="mc_embed_close" style="background: transparent url(http://bizreport.us1.list-manage.com/images/closebox.png) no-repeat;display: none;height: 30px;width: 30px;text-indent: -999em;position: absolute;top: 10px;right: -10px;">Close</a>
-</form>
-</div>
-<script type="text/javascript">
-    mce_jQuery(document).ready(function(){
-	    mce_jQuery('#mc_embed_signup').hide();
-	    cks = document.cookie.split( ';' );
-	    var show=true;
-        for(i=0;i<cks.length;i++){
-            parts = cks[i].split('=');
-            if( parts[0].indexOf('MCEvilPopupClosed')>0 ) show = false;
-        }
-        if (show){
-    	    mce_jQuery('#mc_embed_signup a.mc_embed_close').show();
-    	    setTimeout( function(){ mce_jQuery('#mc_embed_signup').fadeIn();} , 3000);
-        	mce_jQuery('#mc_embed_signup a.mc_embed_close').click(function(){ mcEvilPopupClose();});
-        }
-    });
-    mce_jQuery(document).keydown(function(e){
-	    if (e == null) { 
-	      keycode = event.keyCode;
-	    } else { 
-	      keycode = e.which;
-	    }
-	    if(keycode == 27){
-            mcEvilPopupClose();
-	    }
-    });
-    function mcEvilPopupClose(){
-	    mce_jQuery('#mc_embed_signup').hide();
-	    var now = new Date();
-        var expires_date = new Date( now.getTime() + 31536000000 );
-        document.cookie = 'MCEvilPopupClosed=yes;expires=' + expires_date.toGMTString()+';path=/';
-    }
-</script>
-<!--End mc_embed_signup-->
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -421,4 +404,221 @@ _uacct = "UA-30631-1";
 urchinTracker();
 </script>
 
-</body></html>
+
+
+<!-- Begin MailChimp Signup Form -->
+<!--[if IE]>
+<style type="text/css" media="screen">
+	#mc_embed_signup fieldset {position: relative;}
+	#mc_embed_signup legend {position: absolute; top: -1em; left: .2em;}
+</style>
+<![endif]--> 
+<!--[if IE 7]>
+<style type="text/css" media="screen">
+	.mc-field-group {overflow:visible;}
+</style>
+<![endif]-->
+
+<div id="mc_embed_signup" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,.8);display: none;z-index: 10000;">
+<form action="http://bizreport.us1.list-manage.com/subscribe/post?u=32dbe8c9891d46a2c90138659&amp;id=c5c454bd48" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" style="position: fixed;top: 10%;left: 50%;width: 50%;margin-left: -25%;font: normal 100% Arial, sans-serif;font-size: 12pxpx;">
+	<fieldset style="-moz-border-radius: 4px;border-radius: 4px;-webkit-border-radius: 4px;border: 1px  #000000;padding-top: 1.5em;margin: .5em 0;background-color: #FFFFFF;color: #333333;text-align: left;">
+	<legend style="white-space: normal;text-transform: capitalize;font-weight: bold;color: #666666;background: #ffffff;padding: .5em 1em;border: 1px solid #1px  #000000_COLOR;-moz-border-radius: 4px;border-radius: 4px;-webkit-border-radius: 4px;font-size: 1.2em;"><span>Join BizReport's mailing list</span></legend>
+<div class="mc-field-group" style="margin: 0 5% 0 5%;padding: 2px 0;clear: both;overflow: hidden;">
+<label for="mce-EMAIL" style="display: block;margin: 15px 0 .3em 0;font-weight: bold;">Email Address </label>
+<input type="text" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="margin-right: 1.5em;padding: .2em .3em;width: 90%;float: left;z-index: 999;">
+</div>
+		<div id="mce-responses" style="float: left;top: -1.4em;padding: 0em .5em 0em .5em;overflow: hidden;width: 90%;margin: 0 5%;clear: both;">
+			<div class="response" id="mce-error-response" style="display: none;margin: 1em 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: FBE3E4;color: #D12F19;"></div>
+			<div class="response" id="mce-success-response" style="display: none;margin: 1em 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: #E3FBE4;color: #529214;"></div>
+		</div>
+		<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn" style="clear: both;margin: 1em 0 1em 5%;width: auto;display: block;"></div>
+	</fieldset>	
+	<a href="#" id="mc_embed_close" class="mc_embed_close" style="background: transparent url(http://bizreport.us1.list-manage1.com/images/closebox.png) no-repeat;display: none;height: 30px;width: 30px;text-indent: -999em;position: absolute;top: 10px;right: -10px;">Close</a>
+</form>
+</div>
+<script type="text/javascript">
+try {
+    var jqueryLoaded=jQuery;
+    jqueryLoaded=true;
+} catch(err) {
+    var jqueryLoaded=false;
+}
+if (!jqueryLoaded) {
+    var head= document.getElementsByTagName('head')[0];
+    var script= document.createElement('script');
+    script.type= 'text/javascript';
+    script.src= 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
+    head.appendChild(script);    
+}
+</script>
+<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.form-n-validate.js"></script>
+
+<script type="text/javascript">
+var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='REGREADY';ftypes[1]='number';var err_style = '';
+try{
+    err_style = mc_custom_error_style;
+} catch(e){
+    err_style = 'margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;';
+}
+var head= document.getElementsByTagName('head')[0];
+var style= document.createElement('style');
+style.type= 'text/css';
+if (style.styleSheet) {
+  style.styleSheet.cssText = '.mce_inline_error {' + err_style + '}';
+} else {
+  style.appendChild(document.createTextNode('.mce_inline_error {' + err_style + '}'));
+}
+head.appendChild(style);
+$(document).ready( function($) {
+  var options = { errorClass: 'mce_inline_error', errorElement: 'div', onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
+  var mce_validator = $("#mc-embedded-subscribe-form").validate(options);
+  options = { url: 'http://bizreport.us1.list-manage1.com/subscribe/post-json?u=32dbe8c9891d46a2c90138659&id=c5c454bd48&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
+                beforeSubmit: function(){
+                    $('#mce_tmp_error_msg').remove();
+                    $('.datefield','#mc_embed_signup').each(
+                        function(){
+                            var txt = 'filled';
+                            var fields = new Array();
+                            var i = 0;
+                            $(':text', this).each(
+                                function(){
+                                    fields[i] = this;
+                                    i++;
+                                });
+                            $(':hidden', this).each(
+                                function(){
+                                	if ( fields[0].value=='MM' && fields[1].value=='DD' && fields[2].value=='YYYY' ){
+                                		this.value = '';
+									} else if ( fields[0].value=='' && fields[1].value=='' && fields[2].value=='' ){
+                                		this.value = '';
+									} else {
+	                                    this.value = fields[0].value+'/'+fields[1].value+'/'+fields[2].value;
+	                                }
+                                });
+                        });
+                    return mce_validator.form();
+                }, 
+                success: mce_success_cb
+            };
+  $('#mc-embedded-subscribe-form').ajaxForm(options);
+
+});
+function mce_success_cb(resp){
+    $('#mce-success-response').hide();
+    $('#mce-error-response').hide();
+    if (resp.result=="success"){
+        $('#mce-'+resp.result+'-response').show();
+        $('#mce-'+resp.result+'-response').html(resp.msg);
+        $('#mc-embedded-subscribe-form').each(function(){
+            this.reset();
+    	});
+    } else {
+        var index = -1;
+        var msg;
+        try {
+            var parts = resp.msg.split(' - ',2);
+            if (parts[1]==undefined){
+                msg = resp.msg;
+            } else {
+                i = parseInt(parts[0]);
+                if (i.toString() == parts[0]){
+                    index = parts[0];
+                    msg = parts[1];
+                } else {
+                    index = -1;
+                    msg = resp.msg;
+                }
+            }
+        } catch(e){
+            index = -1;
+            msg = resp.msg;
+        }
+        try{
+            if (index== -1){
+                $('#mce-'+resp.result+'-response').show();
+                $('#mce-'+resp.result+'-response').html(msg);            
+            } else {
+                err_id = 'mce_tmp_error_msg';
+                html = '<div id="'+err_id+'" style="'+err_style+'"> '+msg+'</div>';
+                
+                var input_id = '#mc_embed_signup';
+                var f = $(input_id);
+                if (ftypes[index]=='address'){
+                    input_id = '#mce-'+fnames[index]+'-addr1';
+                    f = $(input_id).parent().parent().get(0);
+                } else if (ftypes[index]=='date'){
+                    input_id = '#mce-'+fnames[index]+'-month';
+                    f = $(input_id).parent().parent().get(0);
+                } else {
+                    input_id = '#mce-'+fnames[index];
+                    f = $().parent(input_id).get(0);
+                }
+                if (f){
+                    $(f).append(html);
+                    $(input_id).focus();
+                } else {
+                    $('#mce-'+resp.result+'-response').show();
+                    $('#mce-'+resp.result+'-response').html(msg);
+                }
+            }
+        } catch(e){
+            $('#mce-'+resp.result+'-response').show();
+            $('#mce-'+resp.result+'-response').html(msg);
+        }
+    }
+}
+$(document).ready(function(){
+    $('#mc_embed_signup').hide();
+    cks = document.cookie.split( ';' );
+    var show=true;
+    for(i=0;i<cks.length;i++){
+        parts = cks[i].split('=');
+        if( parts[0].indexOf('MCEvilPopupClosed')>0 ) show = false;
+    }
+    if (show){
+	    $('#mc_embed_signup a.mc_embed_close').show();
+	    setTimeout( function(){ $('#mc_embed_signup').fadeIn();} , 5000);
+    	$('#mc_embed_signup a.mc_embed_close').click(function(){ mcEvilPopupClose();});
+    }
+});
+$(document).keydown(function(e){
+    if (e == null) { 
+      keycode = event.keyCode;
+    } else { 
+      keycode = e.which;
+    }
+    if(keycode == 27){
+        mcEvilPopupClose();
+    }
+});
+function mcEvilPopupClose(){
+    $('#mc_embed_signup').hide();
+    var now = new Date();
+    var expires_date = new Date( now.getTime() + 31536000000 );
+    document.cookie = 'MCEvilPopupClosed=yes;expires=' + expires_date.toGMTString()+';path=/';
+}
+</script>
+<!--End mc_embed_signup-->
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:21920,domain:"bizreport.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
