@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgestore.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125020903id_/http%3A//www.pgestore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgestore.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616032908id_/http%3A//www.pgestore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # eStore Retail Services | eStore Retail Services Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy & Security | Privacy Policy
 
 * * *
 
-eCost.com, Inc. dba eStore Retail Services (together “we”, “us”, or “our”) has established the following privacy policy (the “Policy”) for each visitor or person who accesses or visits this site and related subdomains and/or online content (“Site”) and/or customer who orders or purchases products or services offered on or through the Site (“you” or “ your”). This Policy governs your use of the Site. Terms of this Policy apply when you interact with the Site in anyway (including, but not limited to, just visiting the Site (browsing the site) or becoming a registered account user). By using our Site, you acknowledge that you have read and understand the following Policy and that you agree to be bound by all of its terms.
+eStore Retail Services (together “we”, “us”, or “our”) has established the following privacy policy (the “Policy”) for each visitor or person who accesses or visits this site and related subdomains and/or online content (“Site”) and/or customer who orders or purchases products or services offered on or through the Site (“you” or “ your”). This Policy governs your use of the Site. Terms of this Policy apply when you interact with the Site in anyway (including, but not limited to, just visiting the Site (browsing the site) or becoming a registered account user). By using our Site, you acknowledge that you have read and understand the following Policy and that you agree to be bound by all of its terms.
 
 ### Our Policy
 
@@ -153,6 +153,6 @@ We will remain committed to protecting your privacy online. We may change this P
 
 Questions regarding this Policy should be directed to [privacy@estoreretailservices.com](mailto:privacy@estoreretailservices.com) or may also be sent directly to the following address:
 
-eCOST.com, Inc. dba eStore Retail Services  
-200 N. Sepulveda Blvd., Suite 101  
-El Segundo, CA 90245
+PFSweb Retail Connect, Inc.  
+500 N. Central Expressway, Ste. 500  
+Plano, TX 75074
