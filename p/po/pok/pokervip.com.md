@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokervip.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501141619id_/http%3A//www.pokervip.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokervip.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616210114id_/http%3A//pokervip.com/privacy-policy) for the most accurate reproduction.*
 
 # PokerVIP.com - Privacy Policy
 
@@ -8,7 +8,7 @@ At PokerVip.com we respect your privacy. Please read the following to learn more
 
 ## What This Privacy Policy Covers 
 
-This policy covers the PokerVip.com's use of personal information that the PokerVip.com collects when you use PokerVip.com. Personal information is information about you that is personally identifiable, like your name, address, e-mail address, or phone number, and that is not otherwise publicly available.
+This policy covers the PokerVip.com’s use of personal information that the PokerVip.com collects when you use PokerVip.com. Personal information is information about you that is personally identifiable, like your name, address, e-mail address, or phone number, and that is not otherwise publicly available.
 
 ## Information Collection 
 
@@ -24,13 +24,13 @@ PokerVip.com uses the information it collects from you in a variety of ways, ncl
 
 PokerVip.com reserves the right to use and to disclose to third parties all of the information that PokerVip.com collects online about you and other visitors in any way and for any purpose, with one important exception. PokerVip.com will not use the information that it collects online from you while you are using the Service, nor will PokerVip.com authorize third parties to use such information, to mail or email promotional offers directly to you unless you have specifically informed PokerVip.com that you would like to receive promotional offers from PokerVip.com and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or email marketing.
 
-PokerVip.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+PokerVip.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
 \- We respond to court orders or legal process to establish or exercise our legal rights or defend against legal claims;
 
 \- We provide the information to trusted partners who work on behalf of or with PokerVip.com under confidentiality agreements. However, these companies do not have any independent right to share this information
 
-\- We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of PokerVip.com's terms of use, or as otherwise required by law.
+\- We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of PokerVip.com’s terms of use, or as otherwise required by law.
 
 ## Cookies 
 
