@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216170707id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616200926id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # IT jobs, Telecom jobs and Engineering jobs in London & the UK - PlanetRecruit
 
