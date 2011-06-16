@@ -1,37 +1,32 @@
-> *The following text is extracted and transformed from the tips4pc.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201095918id_/http%3A//tips4pc.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tips4pc.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616034252id_/http%3A//tips4pc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Computer Tips
 
-Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**Note:** the privacy practices set forth in this privacy policy are for this web [site](https://web.archive.org/web/20100201095918id_/http%3A//tips4pc.com/index.htm) and this [Forum](http://www.pctipforum.com/). If you link to other web sites, please review the privacy policies posted at those sites.
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-**Collection of Information  
-**We do not collect personally identifiable information like names and postal addresses. The only information we collect is an email address when you sign up for the free newsletter. Also any information shared by a user of this website within the forum is for public view, therefore you should be aware of what information you are giving out. 
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [http://www.google.com/privacy_ads.html](http://www.google.com/privacy/ads/) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-**Distribution of Information**  
-We do not share information with any other companies. The collection of your email address is to send a monthly newsletter showing updates and new articles on our website. We will never sell or distribute your email address. Our mailing list is managed by a professional company to ensure top security. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, tips4pc.com has no access or control over these cookies that may be used by third party advertisers.
 
-**Commitment to Data Security**  
-Your email address is kept securely on a third party professional email manage website. Only authorized employees, (who have agreed to keep information secure and confidential) have access to this information. 
+**Other Advertising**
 
-**Opting Out**
+We use third-party companies to serve ads and collect non-personally identifiable information ( _e.g.,_ the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
-All emails and newsletters from this site allow you to opt out of further mailings. We will not make it difficult to unsubscribe.
+**Collection of Personal Information**  
+When visiting this website, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**Cookie/Tracking Technology  
-**The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Personal information cannot be collected via cookies on this website. It is only used for internet traffic statistics.  We also use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html). 
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-**Links to other Websites or Paid advertising**  
-Our website may contain links to other relevant sites. They may be ads from Google Adsense or from other computer related sites. However when you click on these links or ads this privacy policy no longer applies as you are no longer at this site. If you are providing personal information on a website it is recommended that you read their privacy policy. 
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
 
-**Free Computer Help Offer**  
-Our website offers free computer help, tips, and video tutorials, that have 99% of the time been tested and work. However we cannot take any responsibility for the damage you may cause to your computer while following instructions from this website. The information is provided free and is yours to use at your own risk. 
+If you have any questions regarding the privacy policy of Tips4pc then you may contact us at admin@tips4pc.com
 
-**Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/web/20100201095918id_/http%3A//tips4pc.com/contact_us.htm) for more information.  
- 
+This privacy policy was generated by the [Easy Privacy Policy](http://europeancruiseadvisor.com/ "Easy Privacy Policy homepage") plugin for WordPress.
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.
-
-Browse Sitemap for more [Free Computer Help](https://web.archive.org/web/20100201095918id_/http%3A//tips4pc.com/browse_our_database.htm)
+Last updated Sat, 05 Jun 2010 10:26
