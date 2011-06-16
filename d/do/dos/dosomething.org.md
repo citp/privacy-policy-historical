@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226133549id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616111427id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Do Something
-
-## Privacy
 
 DoSomething.org is a not-for-profit organization for teens that want to change our world. This site is designed to offer resources to help teens change our world and has established online security measures to ensure the safety of every user.
 
@@ -33,6 +31,37 @@ DoSomething.org only links to other non-profit or for-profit organizations that 
 ### User Generated Content
 
 The views, opinions, and comments expressed on our message boards DO NOT reflect the views and opinions of DoSomething.org as an organization. DoSomething.org is a not-for-profit and does not directly support or push any political, social, or religious agendas. We love all of our users equally.
+
+**Digital Millennium Copyright Act**
+
+A. If you are a copyright owner or an agent thereof and believe that any Content infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing our Copyright Agent with the following information in  
+writing (see 17 U.S.C 512(c)(3) for further detail):
+
+  * A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+  * Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+  * Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit the service provider to locate the material;
+  * Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+  * A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+  * A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+  * DoSomething.org's designated Copyright Agent to  
+receive notifications of claimed infringement is Peter Weinberg, 200 Park Avenue, New York, NY 10166, email: [copyright@dosomething.org](mailto:copyright@dosomething.org), fax: 212-254-2391. For clarity, only DMCA notices should go to the Copyright  
+Agent; any other feedback, comments, requests for technical support, and other communications should be directed to DoSomething.org user relations through [user@dosomething.org](mailto:user@dosomething.org). You acknowledge that if you fail to comply with all of the requirements of this Section 5(D),  
+your DMCA notice may not be valid.
+
+
+
+B. Counter-Notice. If you believe that your Content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to post and use the material in your Content, you may send a counter-notice containing the following  
+information to the Copyright Agent:
+
+  * Your physical or electronic signature;
+  * Identification of the Content that has been removed or to which access has been disabled and the location at which the Content appeared before it was removed or disabled;
+  * A statement that you have a good faith belief that the Content was removed or disabled as a result of mistake or a misidentification of the Content; and
+  * Your name, address, telephone number, and e-mail address, a statement that you consent to the jurisdiction of the federal court in New York, New York, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+
+
+
+If a counter-notice is received by the Copyright Agent, DoSomething.org may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed Content or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the  
+Content provider, member or user, the removed Content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at DoSomething.org's sole discretion.
 
 Content and pictures posted on DoSomething.org may be reused across the site and in promotional materials. DoSomething reserves the right to use photographs uploaded to the site in order to promote and publicize itself and its mission. If you have questions email [help@dosomething.org](mailto:help@dosomething.org)
 
