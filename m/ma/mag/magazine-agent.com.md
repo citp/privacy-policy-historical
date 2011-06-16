@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231004133id_/http%3A//www.magazine-agent.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616223439id_/http%3A//www.magazine-agent.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Magazine-Agent.com
 
