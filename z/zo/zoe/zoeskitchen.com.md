@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoeskitchen.com privacy policy that was archived on 2010-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100828043518id_/http%3A//zoeskitchen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoeskitchen.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616153730id_/http%3A//www.zoeskitchen.com/privacy.asp) for the most accurate reproduction.*
 
 # Zoës Kitchen
 
@@ -36,7 +36,7 @@ Zoë's contracts with one or more third parties to maintain and host the Site. 
 
 **How will I be notified of changes to this privacy statement?**
 
-Zoë's reserves the right to change this Policy at any time and will post all changes on this Site.  All changes will apply from the effective date forward, and will not be retroactive.  If you have any questions or concerns about this Policy, please contact our <customer service department>. 
+Zoë's reserves the right to change this Policy at any time and will post all changes on this Site.  All changes will apply from the effective date forward, and will not be retroactive.  If you have any questions or concerns about this Policy, please contact our . 
 
 **Who can I contact if I have additional questions?**
 
@@ -49,5 +49,3 @@ Zoë's Kitchen Corporate
 Suite 155
 
 Birmingham, AL 35233
-
-**[JenniferTraywick@zoeskitchen.com](mailto:JenniferTraywick@zoeskitchen.com) **
