@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128050745id_/http%3A//polarbearsinternational.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617004107id_/http%3A//www.polarbearsinternational.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Polar Bears International
 
