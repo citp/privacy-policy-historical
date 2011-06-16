@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229014459id_/http%3A//www.bmc.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616214625id_/http%3A//www.bmc.com/legal/privacy) for the most accurate reproduction.*
 
 # BMC Privacy Policy - BMC Software
-
-BMC Privacy Policy
 
 Our Commitment to Privacy
 
