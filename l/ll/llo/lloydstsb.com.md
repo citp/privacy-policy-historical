@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsb.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327185221id_/http%3A//www.lloydstsb.com/privacy2.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616025637id_/http%3A//www.lloydstsb.com/privacy2.asp) for the most accurate reproduction.*
 
 # Lloyds TSB - Privacy
 
