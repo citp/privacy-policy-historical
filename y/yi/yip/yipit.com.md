@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216232351id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616192757id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yipit
 
@@ -68,6 +68,6 @@ If you have any other questions about our privacy policy, shoot an email to [pri
 
 Yipit reserves the right to change this policy from time to time, however, all changes will be posted to this Privacy Policy at the time such changes are made. The date of the most recent revisions will appear on this page so please check back. Please note that continued access of Yipit will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-If you have concerns or questions about any aspect of the Yipit Privacy Policy, please e-mail us. We welcome your questions and feedback. Please send all emails to: [privacy@yipit.com](mailto:privacy@yipit.com).
+If you have concerns or questions about any aspect of the Yipit Privacy Policy, please e-mail us. We welcome your questions and feedback. Please send all emails to: [privacy@yipit.com](mailto:privacy@yipit.com). Our corporate mailing address is Yipit, Inc., 902 Broadway, 4th Fl, c/o General Assembly, New York, NY 10010.
 
-Last modified: September 30, 2009.
+Last modified: January 12, 2011.
