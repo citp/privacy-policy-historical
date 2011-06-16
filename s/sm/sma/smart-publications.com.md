@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smart-publications.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215003507id_/http%3A//smart-publications.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smart-publications.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616142243id_/http%3A//smart-publications.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart Publications
 
