@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the bbkonline.com privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410132933id_/http%3A//www.bbkonline.com/bbk/enbbk/Privacy%2520and%2520Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbkonline.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616150930id_/http%3A//www.bbkonline.com/PrivacyandSecurity) for the most accurate reproduction.*
 
-# Welcome to the BBK
+# - Privacy & Security Welcome to BBK
 
-Privacy Policy:
+**  Privacy Policy **
 
-  
-BBK has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: www.bbkonline.com Our site's registration form requires you to give us contact information (like your email address) and demographic information (like your Mailing Address, etc). Your contact information is used to notify you when there is a new product available for you or to communicate Member news (e.g., Special Offers from BBK & Third Parties). You may opt-out of receiving future mailings. Demographic and profile data collected at our site is used for marketing purposes only and will NEVER be sold on an individual basis. 
+> BBK has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for BBK’s official website: www.bbkonline.com. Our Internet Banking Service requires you to provide your contact details i.e. email address and demographic information if applicable. Your contact information is used to notify you about new products available, special offers or to communicate other BBK news. You may opt-out of receiving future mailings by logging into Internet Retail Banking, then selecting Customer Profile and unselecting the options available under the Promotion Center. Your data collected at our website is used for marketing purposes only and will NEVER be sold on an individual basis. 
 
-Cookies: 
+**  Cookies**
 
-Our website may use browser cookies to maintain information about your site session; most notably, the 'state' of your current web session. Cookies help us identify you; this in-turn makes your experience at www.bbkonline.com smoother and more enjoyable. These cookies contain absolutely no personal and confidential information.
+> Our website may use browser cookies to maintain information about your site session; most notably, the 'state' of your current web session. Cookies help us identify you; this in-turn makes your experience at www.bbkonline.com smoother and more enjoyable. These cookies contain absolutely no personal and confidential information.
 
-Security: 
+** ** **Security**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Parts of this site are password protected.
+> Our website and Internet Banking services have security measures in place to protect the loss, misuse and alteration of the information under our control. All information you send to BBK Internet Banking such as your Customer ID and ePIN and other transaction details are encrypted using the Secure Socket Layer (SSL) Certificate. The security of your information is a vital role; therefore, multiple types of additional security measures have been put in place for your protection. These measures include frequent professional evaluations of both external and internal security structures, detection of uncharacteristic customer behavior and monitoring and quickly blocking attempts by fraudsters to obtain Customer IDs, passwords and ePINs.
 
-Choice/Opt-Out:
+**  Choice/Opt-Out**
 
-Our site provides you the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about you. This site gives you the option to remove your email address from our mailing list and to no longer receive future communications from our site. To do so, please send an email to [contact@bbkonline.com](mailto:contact@bbkonline.com).
+> Our website provides you the opportunity to opt-out of receiving communications from BBK and our partners. BBK Internet Banking services give you the option to remove these services by unselecting the options available in the promotional center under Customer Profile after successfully logging into your account. After unselecting the options, you will no longer receive future communications from us.
 
-Correct/Update:
+**  Contact**
 
-This site gives you the following option for changing and modifying information previously provided. To do so, please visit: http://www.bbkonline.com and Log In. To change your email address or Password, or make changes to your profile visit www.bbkonline.com or send an email to [contact@bbkonline.com](mailto:contact@bbkonline.com).
-
-Contact: 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-e-Banking  
-Bank of Bahrain & Kuwait, P.O. Box 597, Manama -Bahrain  
-Email: [ebank@bbkonline.com](mailto:ebank@bbkonline.com)   
-Fax: +973 - 17211125
+> For any further inquiry about this privacy statement, the practices of  BBK website, or your dealings with this website, please do not hesitate to contact us: 
+>
+>> Address: BBK, P.O. Box 597, Manama – Kingdom of Bahrain  
+> Email:     [feedback@bbkonline.com](mailto:feedback@bbkonline.com)   
+> Tel:        +973 – 17223388  
+> Fax:       +973 17229822   
+> 
