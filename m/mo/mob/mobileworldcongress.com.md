@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileworldcongress.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125125151id_/http%3A//www.mobileworldcongress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileworldcongress.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616042252id_/http%3A//www.mobileworldcongress.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -33,7 +33,7 @@ Any financial details supplied to us such as bank details and/or credit card det
 
 **Sharing of information**
 
-Your data may be passed to third-party companies who provide training courses, mailing services, and event management on behalf of GSMA. In addition, we may pass your information to our related companies [The GSM Association and its affiliated companies], carefully selected business partners, or other carefully selected third parties who may contact you to provide you with information, including marketing information in relation to upcoming industry events, meetings, conferences, seminars, offers, products, or services which could be of interest to you or your business, and/or to carry out surveys and to get your views in relation to the products or services which third parties provide. If you do not wish us to provide your information to third parties for these purposes, please indicate that to us at the time of providing your information by contacting us at [database@gsm.org](mailto:database@gsm.org). On occasion, we may use third-party agents and service providers to assist us in the use of your data as outlined above.
+Your data may be passed to third-party companies who provide training courses, mailing services, and event management on behalf of GSMA. In addition, we may pass your information to our related companies [The GSM Association and its affiliated companies], carefully selected business partners, or other carefully selected third parties who may contact you to provide you with information, including marketing information in relation to upcoming industry events, meetings, conferences, seminars, offers, products, or services which could be of interest to you or your business, and/or to carry out surveys and to get your views in relation to the products or services which third parties provide. If you do not wish us to provide your information to third parties for these purposes, please indicate that to us at the time of providing your information by contacting us at [crm@gsm.org](mailto:crm@gsm.org). On occasion, we may use third-party agents and service providers to assist us in the use of your data as outlined above.
 
 We may provide your personal information to a third party as part of a sale or transfer of some or all of our business and assets to any third party, or as part of any business restructuring or reorganisation, but we will take steps with the aim of ensuring that your privacy rights continue to be protected.
 
@@ -57,7 +57,7 @@ When you visit the Site, we may store some information (commonly known as a "coo
 
 **Changes to your details**
 
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details that we hold about you, please contact us at [database@gsm.org](mailto:database@gsm.org).
+We aim to keep our information about you as accurate as possible. If you would like to review or change the details that we hold about you, please contact us at [crm@gsm.org](mailto:crm@gsm.org).
 
 **Security**
 
@@ -71,4 +71,4 @@ In addition, if you linked to this Site from a third-party site, we are not resp
 
 **Contact us**
 
-If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, or if you do not wish us to continue using your information as outlined above, you can do so by sending an e-mail to [database@gsm.org](mailto:database@gsm.org) or write to CRM Manager, GSMA, 1000 Abernathy Road NE, Suite 450, Atlanta, GA 30328 USA.
+If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, or if you do not wish us to continue using your information as outlined above, you can do so by sending an e-mail to [crm@gsm.org](mailto:crm@gsm.org) or write to CRM Manager, GSMA, 1000 Abernathy Road NE, Suite 450, Atlanta, GA 30328 USA.
