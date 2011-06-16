@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hrp.org.uk privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231133819id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hrp.org.uk privacy policy that was archived on 2011-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616183132id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="EN"><head>
         <title>Historic Royal Palaces &gt; Home &gt; Privacy Policy</title>
@@ -10,7 +10,10 @@
         <meta name="description" content="Privacy Policy">
 
         <!-- include swfobject	-->
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Includes/JS/swfObject.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+            var baseUrl = '/';
+        </script>
+        <script type="text/javascript" src="/Includes/JS/swfObject.js"></script>
 
         <link href="/Includes/CSS/undohtml.css" rel="stylesheet" type="text/css" media="all">
         <link href="/Includes/CSS/print.css" rel="stylesheet" type="text/css" media="print">
@@ -21,15 +24,10 @@
         <link id="ctl00_Head1_ImportWidthStyleSheet1_linkCSS_Width" rel="stylesheet" type="text/css" media="screen,projection" href="/Includes/CSS/structure/1024Inner.css" title="For most (1024 x 768) browser windows">
         <link id="ctl00_Head1_ImportPalaceStyleSheet1_linkCSS_Palace" rel="stylesheet" type="text/css" media="screen,projection" href="/Includes/CSS/colourScheme/NoPalace.css">       
         
-        <script src="/Includes/JS/jquery-1.4.2.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="/Includes/JS/jquery-1.5.1.js"></script>
 
         
 
-        <!--sifr inlcudes-->
-        <link href="/Includes/CSS/sIFR-screen.css" type="text/css" rel="stylesheet" media="screen">
-        <link href="/Includes/CSS/sIFR-print.css" type="text/css" rel="stylesheet" media="print">
-        <script src="/Includes/JS/sifr.js" type="text/javascript"></script>
-        <script src="/Includes/JS/sifr-addons.js" type="text/javascript"></script>
         <script src="/Includes/JS/Popup.js" type="text/javascript"></script>
                 
         
@@ -37,6 +35,7 @@
         <script type="text/javascript" src="/Includes/JS/jquery.pngFix.js"></script>
         <script type="text/javascript" src="/Includes/JS/jquery.datePicker.js"></script>
         <script type="text/javascript" src="/Includes/JS/date.js"></script>
+        <script type="text/javascript" src="/Includes/JS/jquery.palacenavigation.js"></script>
 
         <!--[if IE]><script type="text/javascript" src="/Includes/JS/jquery.bgiframe.js"></script><![endif]-->
 
@@ -52,7 +51,6 @@
         <script type="text/javascript" src="/Includes/JS/gallery/flashGallery.js"></script>
         <!-- end flash gallery includes -->
 
-
     </head>
 
 <body>
@@ -65,53 +63,56 @@
 
 <a href="#contentContainer" class="skip">Skip to Content</a>
 
+<a id="newsLetterLink" href="/NewsletterSignup.aspx">Sign up to our newsletter</a>
+
 <!--start language selection-->
 <div id="selectLanguage">
     <ul>
-        <li class="last">Other languages:</li>
-        <li><a href="/learninganddiscovery/discoverthehistoricroyalpalaces/espanol.aspx" lang="ES">Español</a></li><li class="last"><a href="/learninganddiscovery/discoverthehistoricroyalpalaces/francais.aspx" lang="FR">Français</a></li>
+        <li class="first">Languages</li>
+        <li><a href="/learninganddiscovery/discoverthehistoricroyalpalaces/espanol.aspx" lang="ES"><img src="/SiteImages/Icons/Flags/spain.gif" alt="Español"></a></li>
+        <li><a href="/learninganddiscovery/discoverthehistoricroyalpalaces/francais.aspx" lang="FR"><img src="/SiteImages/Icons/Flags/france.gif" alt="Français"></a></li>
+        <li class="last"><a href="/" lang="EN"><img src="/SiteImages/Icons/Flags/unitedkingdom.gif" alt="English"></a></li>
     </ul>
 </div>
 <!--end language selection-->
 
-<label>Search Historic Royal Palaces</label>
+<div id="uiGoogle">
+    <label>Search Historic Royal Palaces</label>
 
-<!-- Google CSE Search Box Begins  -->
-<form action="http://www.hrp.org.uk/search.aspx" id="searchbox_018165609896182893264:wwb_fmmw2n0">
-  <input type="hidden" name="cx" value="018165609896182893264:wwb_fmmw2n0">
-  <input type="hidden" name="cof" value="FORID:11">
-  <input type="text" name="q" size="25">
-  <input type="submit" name="sa" value="Search" class="mainSearchSubmit">
-</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_018165609896182893264%3Awwb_fmmw2n0&amp;lang=en"></script>
-<!-- Google CSE Search Box Ends -->
+    <!-- Google CSE Search Box Begins  -->
+    <form action="http://www.hrp.org.uk/search.aspx" id="searchbox_018165609896182893264:wwb_fmmw2n0">
+      <input type="hidden" name="cx" value="018165609896182893264:wwb_fmmw2n0">
+      <input type="hidden" name="cof" value="FORID:11">
+      <input type="text" name="q" size="25" class="uiGoogleText">
+      <input type="submit" name="sa" value="Search site" class="mainSearchSubmit">
+    </form>
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_018165609896182893264%3Awwb_fmmw2n0&amp;lang=en"></script>
+    <!-- Google CSE Search Box Ends -->
+</div>
 
 
 		</div><!--[if !IE]> /searchPanel <![endif]-->
 		<form name="aspnetForm" method="post" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBGYPZBYOZg8WAh4EVGV4dAUuSGlzdG9yaWMgUm95YWwgUGFsYWNlcyA+IEhvbWUgPiBQcml2YWN5IFBvbGljeWQCAQ8WAh8ABRZIaXN0b3JpYyBSb3lhbCBQYWxhY2VzZAICDxYCHwAFOSZjb3B5OyAyMDA3IEhpc3RvcmljIFJveWFsIFBhbGFjZXMuICBBbGwgcmlnaHRzIHJlc2VydmVkLmQCAw8WAh8ABQ5Qcml2YWN5IFBvbGljeWQCBA8WAh8ABQ5Qcml2YWN5IFBvbGljeWQCBQ9kFgJmDxYEHgRocmVmBSUvSW5jbHVkZXMvQ1NTL3N0cnVjdHVyZS8xMDI0SW5uZXIuY3NzHgV0aXRsZQUlRm9yIG1vc3QgKDEwMjQgeCA3NjgpIGJyb3dzZXIgd2luZG93c2QCBg9kFgJmDxYCHwEFJy9JbmNsdWRlcy9DU1MvY29sb3VyU2NoZW1lL05vUGFsYWNlLmNzc2QCAw9kFhACBQ9kFgJmDxYCHwBlZAIJD2QWAmYPFgIfAAVWPG9sPjxsaT48YSBocmVmPSIvRGVmYXVsdC5hc3B4IiB0aXRsZT0iSG9tZSI+SG9tZTwvYT48L2xpPjxsaT5Qcml2YWN5IFBvbGljeTwvbGk+PC9vbD5kAg8PZBYCZg9kFgICBQ9kFgJmD2QWAgIDEBBkZBYAZGQCEQ8PFgIeB1Zpc2libGVoZGQCEw8PFgIfA2hkZAIVDw8WAh8DaGRkAhcPZBYCAgEPZBYGZg9kFgICAQ9kFgRmD2QWAgIBD2QWAmYPDxYCHgtOYXZpZ2F0ZVVybAUjL1ByaXZhY3lQb2xpY3kuYXNweD9TdGFydFRyYWlsPXRydWVkZAIBD2QWAgIBD2QWAmYPDxYCHwQFIy9Qcml2YWN5UG9saWN5LmFzcHg/U3RhcnRUcmFpbD10cnVlZGQCAQ9kFgICAQ9kFgRmD2QWBAIFD2QWAmYPDxYCHwQFHS9Qcml2YWN5UG9saWN5LmFzcHg/U2F2ZT10cnVlZGQCEQ9kFgJmDw8WAh8EBSMvUHJpdmFjeVBvbGljeS5hc3B4P0Nsb3NlVHJhaWw9dHJ1ZWRkAgEPZBYCAgsPZBYCZg8PFgIfBAUjL1ByaXZhY3lQb2xpY3kuYXNweD9DbG9zZVRyYWlsPXRydWVkZAICD2QWAgIGD2QWAmYPDxYCHwQFIy9Qcml2YWN5UG9saWN5LmFzcHg/Q2xvc2VUcmFpbD10cnVlZGQCGw8PFgIfA2hkFhRmDw8WAh8EBaQBaHR0cDovL3VrLnNpdGVzdGF0LmNvbS9ocnAvaHJwL3M/SG9tZS5Qcml2YWN5X1BvbGljeSZhbXA7bnNfdHlwZT1jbGlja291dCZhbXA7bnNfdXJsPWh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA/dT1odHRwOi8vd3d3LmhycC5vcmcudWslMmZwcml2YWN5cG9saWN5LmFzcHhkZAIBDw8WAh8EBbsBaHR0cDovL3VrLnNpdGVzdGF0LmNvbS9ocnAvaHJwL3M/SG9tZS5Qcml2YWN5X1BvbGljeSZhbXA7bnNfdHlwZT1jbGlja291dCZhbXA7bnNfdXJsPWh0dHA6Ly90d2l0dGVyLmNvbS9ob21lP3NvdXJjZT1pY2hjJnN0YXR1cz1odHRwOi8vd3d3LmhycC5vcmcudWslMmZQcml2YWN5UG9saWN5LmFzcHggLSBQcml2YWN5K1BvbGljeWRkAgIPDxYCHwQFsgFodHRwOi8vdWsuc2l0ZXN0YXQuY29tL2hycC9ocnAvcz9Ib21lLlByaXZhY3lfUG9saWN5JmFtcDtuc190eXBlPWNsaWNrb3V0JmFtcDtuc191cmw9aHR0cDovL2RlbGljaW91cy5jb20vcG9zdD91cmw9aHR0cDovL3d3dy5ocnAub3JnLnVrJTJmUHJpdmFjeVBvbGljeS5hc3B4JnRpdGxlPVByaXZhY3kr">
-<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="UG9saWN5ZGQCAw8PFgIfBAW3AWh0dHA6Ly91ay5zaXRlc3RhdC5jb20vaHJwL2hycC9zP0hvbWUuUHJpdmFjeV9Qb2xpY3kmYW1wO25zX3R5cGU9Y2xpY2tvdXQmYW1wO25zX3VybD1odHRwOi8vZGlnZy5jb20vc3VibWl0P3BoYXNlPTImdXJsPWh0dHA6Ly93d3cuaHJwLm9yZy51ayUyZlByaXZhY3lQb2xpY3kuYXNweCZ0aXRsZT1Qcml2YWN5K1BvbGljeWRkAgQPDxYCHwQFtAFodHRwOi8vdWsuc2l0ZXN0YXQuY29tL2hycC9ocnAvcz9Ib21lLlByaXZhY3lfUG9saWN5JmFtcDtuc190eXBlPWNsaWNrb3V0JmFtcDtuc191cmw9aHR0cDovL3d3dy5iZWJvLmNvbS9jL3NoYXJlP1VybD1odHRwOi8vd3d3LmhycC5vcmcudWslMmZQcml2YWN5UG9saWN5LmFzcHgmVGl0bGU9UHJpdmFjeStQb2xpY3lkZAIFDw8WAh8EBcYBaHR0cDovL3VrLnNpdGVzdGF0LmNvbS9ocnAvaHJwL3M/SG9tZS5Qcml2YWN5X1BvbGljeSZhbXA7bnNfdHlwZT1jbGlja291dCZhbXA7bnNfdXJsPWh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9ib29rbWFya3MvbWFyaz9vcD1lZGl0JmJrbWs9aHR0cDovL3d3dy5ocnAub3JnLnVrJTJmUHJpdmFjeVBvbGljeS5hc3B4JnRpdGxlPVByaXZhY3krUG9saWN5ZGQCBg8PFgIfBAWxAWh0dHA6Ly91ay5zaXRlc3RhdC5jb20vaHJwL2hycC9zP0hvbWUuUHJpdmFjeV9Qb2xpY3kmYW1wO25zX3R5cGU9Y2xpY2tvdXQmYW1wO25zX3VybD1odHRwOi8vcmVkZGl0LmNvbS9zdWJtaXQ/dXJsPWh0dHA6Ly93d3cuaHJwLm9yZy51ayUyZlByaXZhY3lQb2xpY3kuYXNweCZ0aXRsZT1Qcml2YWN5K1BvbGljeWRkAgcPDxYCHwQFugFodHRwOi8vdWsuc2l0ZXN0YXQuY29tL2hycC9ocnAvcz9Ib21lLlByaXZhY3lfUG9saWN5JmFtcDtuc190eXBlPWNsaWNrb3V0JmFtcDtuc191cmw9aHR0cDovL3d3dy5zdHVtYmxldXBvbi5jb20vc3VibWl0P3VybD1odHRwOi8vd3d3LmhycC5vcmcudWslMmZQcml2YWN5UG9saWN5LmFzcHgmdGl0bGU9UHJpdmFjeStQb2xpY3lkZAIIDw8WAh8EBbgBaHR0cDovL3VrLnNpdGVzdGF0LmNvbS9ocnAvaHJwL3M/SG9tZS5Qcml2YWN5X1BvbGljeSZhbXA7bnNfdHlwZT1jbGlja291dCZhbXA7bnNfdXJsPWh0dHA6Ly93d3cubWl4eC5jb20vc3VibWl0P3BhZ2VfdXJsPWh0dHA6Ly93d3cuaHJwLm9yZy51ayUyZlByaXZhY3lQb2xpY3kuYXNweCZ0aXRsZT1Qcml2YWN5K1BvbGljeWRkAgkPDxYCHwQFtQFodHRwOi8vdWsuc2l0ZXN0YXQuY29tL2hycC9ocnAvcz9Ib21lLlByaXZhY3lfUG9saWN5JmFtcDtuc190eXBlPWNsaWNrb3V0JmFtcDtuc191cmw9aHR0cDovL3d3dy5uZXdzdmluZS5jb20vX3dpbmUvc2F2ZT91PWh0dHA6Ly93d3cuaHJwLm9yZy51ayUyZlByaXZhY3lQb2xpY3kuYXNweCZoPVByaXZhY3krUG9saWN5ZGQYBgUsY3RsMDAkUGFsYWNlQ29ubmVjdGlvbnNTaWRlYmFyMSRtbHR2d0luaXRpYWwPD2QCAWQFLGN0bDAwJFBhbGFjZUNvbm5lY3Rpb25zU2lkZWJhcjEkbWx0dndTaWRlYmFyDw9kZmQFR2N0bDAwJFBhbGFjZUNvbm5lY3Rpb25zU2lkZWJhcjEkVHJ1bmNhdGVk">
-<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="SW5pdGlhbENvbm5lY3Rpb25zMiRtdGx2d1N0YXRlDw9kZmQFFGN0bDAwJFBvbGwxJHVpTXZQb2xsDw9kZmQFKGN0bDAwJFBhbGFjZUNvbm5lY3Rpb25zU2lkZWJhcjEkbWx0dndNaWQPD2RmZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFGGN0bDAwJExvZ2luU3RhdHVzMSRjdGwwMQUYY3RsMDAkTG9naW5TdGF0dXMxJGN0bDAzoCpcWcNOUY64tcA+cyShe96dMlU=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBGYPZBYOZg8WAh4EVGV4dAUuSGlzdG9yaWMgUm95YWwgUGFsYWNlcyA+IEhvbWUgPiBQcml2YWN5IFBvbGljeWQCAQ8WAh8ABRZIaXN0b3JpYyBSb3lhbCBQYWxhY2VzZAICDxYCHwAFOSZjb3B5OyAyMDA3IEhpc3RvcmljIFJveWFsIFBhbGFjZXMuICBBbGwgcmlnaHRzIHJlc2VydmVkLmQCAw8WAh8ABQ5Qcml2YWN5IFBvbGljeWQCBA8WAh8ABQ5Qcml2YWN5IFBvbGljeWQCBQ9kFgJmDxYEHgRocmVmBSUvSW5jbHVkZXMvQ1NTL3N0cnVjdHVyZS8xMDI0SW5uZXIuY3NzHgV0aXRsZQUlRm9yIG1vc3QgKDEwMjQgeCA3NjgpIGJyb3dzZXIgd2luZG93c2QCBg9kFgJmDxYCHwEFJy9JbmNsdWRlcy9DU1MvY29sb3VyU2NoZW1lL05vUGFsYWNlLmNzc2QCAw9kFhICAQ9kFgICEw8WAh4FY2xhc3MFBGxhc3RkAgMPZBYCZg8WAh8AZWQCBw9kFgJmDxYCHwAFVjxvbD48bGk+PGEgaHJlZj0iL0RlZmF1bHQuYXNweCIgdGl0bGU9IkhvbWUiPkhvbWU8L2E+PC9saT48bGk+UHJpdmFjeSBQb2xpY3k8L2xpPjwvb2w+ZAIND2QWAmYPZBYCAgUPZBYCZg9kFgICAxAQZGQWAGRkAg8PDxYCHgdWaXNpYmxlaGRkAhEPDxYCHwRoZGQCEw8PFgIfBGhkZAIVD2QWAgIBD2QWBmYPZBYCAgEPZBYEZg9kFgICAQ9kFgJmDw8WAh4LTmF2aWdhdGVVcmwFIy9Qcml2YWN5UG9saWN5LmFzcHg/U3RhcnRUcmFpbD10cnVlZGQCAQ9kFgICAQ9kFgJmDw8WAh8FBSMvUHJpdmFjeVBvbGljeS5hc3B4P1N0YXJ0VHJhaWw9dHJ1ZWRkAgEPZBYCAgEPZBYEZg9kFgQCBQ9kFgJmDw8WAh8FBR0vUHJpdmFjeVBvbGljeS5hc3B4P1NhdmU9dHJ1ZWRkAhEPZBYCZg8PFgIfBQUjL1ByaXZhY3lQb2xpY3kuYXNweD9DbG9zZVRyYWlsPXRydWVkZAIBD2QWAgILD2QWAmYPDxYCHwUFIy9Qcml2YWN5UG9saWN5LmFzcHg/Q2xvc2VUcmFpbD10cnVlZGQCAg9kFgICBg9kFgJmDw8WAh8FBSMvUHJpdmFjeVBvbGljeS5hc3B4P0Nsb3NlVHJhaWw9dHJ1ZWRkAhkPDxYCHwRoZGQYBgUsY3RsMDAkUGFsYWNlQ29ubmVjdGlvbnNTaWRlYmFyMSRtbHR2d0luaXRpYWwPD2QCAWQFKGN0bDAwJFBhbGFjZUNvbm5lY3Rpb25zU2lkZWJhcjEkbWx0dndNaWQPD2RmZAUsY3RsMDAkUGFsYWNlQ29ubmVjdGlvbnNTaWRlYmFyMSRtbHR2d1NpZGViYXIPD2RmZAUUY3RsMDAkUG9sbDEkdWlNdlBvbGwPD2RmZAVHY3RsMDAkUGFsYWNlQ29ubmVjdGlvbnNTaWRlYmFyMSRUcnVuY2F0ZWRJbml0aWFsQ29ubmVjdGlvbnMyJG10bHZ3U3RhdGUPD2RmZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFIGN0bDAwJEZvb3RlcjEkTG9naW5TdGF0dXMxJGN0bDAxBSBjdGwwMCRGb290ZXIxJExvZ2luU3RhdHVzMSRjdGwwM9nwMA0BFXwIJGqGDtJBfbiYUb4c">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLrkaaWAgLh8vmTCNFrnURc6vRcBAJNJDYqI/PUsSDx">
-		<div id="loginPanel">
-		    <a id="ctl00_LoginStatus1" title="" class="AspNet-LoginStatus" href="javascript:__doPostBack('ctl00$LoginStatus1$ctl02','')">Log in</a>
-		</div><!--[if !IE]> /loginPanel <![endif]-->
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLJndT9BALH9byrDA5m4pMN/2ospjiBgJfZcwkqo7mm">
 		<div id="siteNavigation">
 			
-<ol>
-    <li><a href="/">Home</a></li>
-    <li><a href="/AboutUs/">About us</a></li>
-    <li><a href="/SupportUs/">Support us</a></li>
-    <li><a href="/SupportUs/Membership/Default.aspx">Membership</a></li>
-    <li><a href="/Shopping/">Shopping</a></li>
-    <li><a href="/Discoverthepalaces/">Discover the palaces</a></li>
-    <li><a href="/Learning/">Learning</a></li>
-    <li><a href="/NewsAndMedia/">News and media</a></li>
-    <li><a href="/TravelTradeAndGroups/">Travel trade and groups</a></li>
-    <li class="last"><a href="/HireAVenue/">Hire a venue</a></li>
-</ol>
+<div class="theBreaker"></div>
+<div class="gutter">
+    <ol>
+        <li id="ctl00_TopNavigation1_uiLiHome"><a href="/">Home</a></li>
+        <li id="ctl00_TopNavigation1_uiLiAbout"><a href="/AboutUs/">About us</a></li>
+        <li id="ctl00_TopNavigation1_uiLiSupport"><a href="/SupportUs/">Support us</a></li>
+        <li id="ctl00_TopNavigation1_uiLiMembership"><a href="/SupportUs/Membership/Default.aspx">Membership</a></li>
+        <li id="ctl00_TopNavigation1_uiLiShopping"><a href="http://www.historicroyalpalaces.com/">Shopping</a></li>
+        <li id="ctl00_TopNavigation1_uiLiDiscover"><a href="/Discoverthepalaces/">Discover the palaces</a></li>
+        <li id="ctl00_TopNavigation1_uiLiLearning"><a href="/Learning/">Learning</a></li>
+        <li id="ctl00_TopNavigation1_uiLiFun"><a href="/learninganddiscovery/funandgames/default.aspx">Fun and games</a></li>
+        <li id="ctl00_TopNavigation1_uiLiTravel"><a href="/TravelTradeAndGroups/">Travel trade and groups</a></li>
+        <li id="ctl00_TopNavigation1_uiLiHire" class="last"><a href="/HireAVenue/">Hire a venue</a></li>
+    </ol>
+</div>
 			<div class="theBreaker"></div>
 		</div><!--[if !IE]> /siteNavigation <![endif]-->
 		<div id="pageContainerBorder">
@@ -134,7 +135,8 @@
 			</noscript>
 		</li>
 		<li id="emailPage"><a href="mailto:?subject=Historic%20Royal%20Palaces%20website&amp;body=I%20saw%20this%20page%20on%20the%20Historic%20Royal%20Palaces%20website%20and%20thought%20you%20might%20like%20to%20read%20it.%0d%0aVisit:%20http://www.hrp.org.uk/PrivacyPolicy.aspx"><span></span>Email this page</a></li>
-	</ul>
+	    <li id="newsletterSpine"><a href="/NewsletterSignup.aspx"><span></span>Sign up to our newsletter</a></li>
+    </ul>
 </div><!--[if !IE]> /pageOptions <![endif]-->
 <div class="theBreaker"></div>
 					</div><!--[if !IE]> /sectionNavigation <![endif]-->
@@ -144,97 +146,70 @@
 						
 <div id="palaceNavigation">
     <ol>
-        <li>
+        <li id="tol">
 			<div class="palaceRollContainer" id="flashContainerTol">
 				<div class="TowerOfLondon palace">
+                    <div class="wipe"></div>
 					<a class="navTol" href="/TowerOfLondon/">
-						Tower of London
-						<span class="palaceEnterText invisible">Enter</span>
+						Tower of London <span class="icon"></span>
 					</a>
 				</div><!--[if !IE]> /TowerOfLondon <![endif]-->
-			    <a class="invisible palaceBuyTickets" href="/TowerOfLondon/admissionsprices/toweroflondonadmission.aspx" title="Buy tickets for Tower of London admission">Buy Tickets</a>
+			    <a class="invisible palaceBuyTickets" href="/TowerOfLondon/admissionsprices/toweroflondonadmission.aspx" title="Buy tickets for Tower of London">Buy tickets</a>
 			    <div class="theBreaker"></div>
 		    </div><!--[if !IE]> /palaceRollContainer <![endif]-->
 	    </li>
-        <li>
+        <li id="hcp">
 			<div class="palaceRollContainer" id="flashContainerHcp">
 				<div class="HamptonCourtPalace palace">
+                    <div class="wipe"></div>
 					<a id="navHcp" href="/HamptonCourtPalace/">
-						Hampton Court Palace
-						<span class="palaceEnterText invisible">Enter</span>
+						Hampton Court Palace <span class="icon"></span>
 					</a>
 				</div><!--[if !IE]> /HamptonCourtPalace <![endif]-->
-				<a class="invisible palaceBuyTickets" href="/HamptonCourtPalace/hamptoncourtadmission.aspx" title="Buy tickets for Hampton Court admission">Buy Tickets</a>
+				<a class="invisible palaceBuyTickets" href="/HamptonCourtPalace/hamptoncourtadmission.aspx" title="Buy tickets for Hampton Court Palace">Buy tickets</a>
 				<div class="theBreaker"></div>
 		    </div><!--[if !IE]> /palaceRollContainer <![endif]-->
 	    </li>
-        <li>
+        <li id="bh">
 			<div class="palaceRollContainer" id="flashContainerBh">
 				<div class="BanquetingHouse palace">
+                    <div class="wipe"></div>
 					<a id="navBh" href="/BanquetingHouse/">
-						Banqueting House
-						<span class="palaceEnterText invisible">Enter</span>
+						Banqueting House <span class="icon"></span>
 					</a>
 				</div><!--[if !IE]> /BanquetingHouse <![endif]-->
-				<a class="invisible palaceBuyTickets" href="/BanquetingHouse/TicketsAndPrices.aspx" title="Buy tickets for Buy tickets now">Buy Tickets</a>
+				<a class="invisible palaceBuyTickets" href="/BanquetingHouse/TicketsAndPrices.aspx" title="Buy tickets for Banqueting House">Buy tickets</a>
 				<div class="theBreaker"></div>
 		    </div><!--[if !IE]> /palaceRollContainer <![endif]-->
 	    </li>
-        <li>
+        <li id="kenp">
 			<div class="palaceRollContainer" id="flashContainerKen">
 				<div class="KensingtonPalace palace">
+                    <div class="wipe"></div>
 					<a id="navKenp" href="/KensingtonPalace/">
-						Kensington Palace
-						<span class="palaceEnterText invisible">Enter</span>
+						Kensington Palace <span class="icon"></span>
 					</a>
 				</div><!--[if !IE]> /KensingtonPalace <![endif]-->
-				<a class="invisible palaceBuyTickets" href="/KensingtonPalace/kensingtonpalacetickets.aspx" title="Buy tickets for Kensington Palace admission">Buy Tickets</a>
+				<a class="invisible palaceBuyTickets" href="/KensingtonPalace/kensingtonpalacetickets.aspx" title="Buy tickets for Kensington Palace">Buy tickets</a>
 				<div class="theBreaker"></div>
 		    </div><!--[if !IE]> /palaceRollContainer <![endif]-->
 	    </li>
-        <li class="last">
+        <li id="kewp" class="last">
 			<div class="palaceRollContainer" id="flashContainerKew">
 				<div class="KewPalace palace">
+                    <div class="wipe"></div>
 					<a id="navKewp" href="/KewPalace/">
-						Kew Palace
-						<span class="palaceEnterText invisible">Enter</span>
+						Kew<br> Palace <span class="icon"></span>
 					</a>
 				</div><!--[if !IE]> /KewPalace <![endif]-->
-				<a class="invisible palaceBuyTickets" href="/KewPalace/AdmissionsPrices.aspx" title="Buy tickets for Buy tickets now">Buy Tickets</a>
+				<a class="invisible palaceBuyTickets" href="/KewPalace/AdmissionsPrices.aspx" title="Buy tickets for Kew Palace">Buy tickets</a>
 				<div class="theBreaker"></div>
 		    </div><!--[if !IE]> /palaceRollContainer <![endif]-->
 	    </li>
     </ol>
     <div class="theBreaker"></div>
 </div><!--[if !IE]> /palaceNavigation <![endif]--> 
-<script type="text/javascript">
-	<!--
-	var soPalaceNavTol = new SWFObject("/SiteFlash/palaceNavigation.swf?id=TOL&configXML=/Includes/XML/FlashConfig/config_TOL.xml&buy_ticketsUrl=/TowerOfLondon/admissionsprices/toweroflondonadmission.aspx&enterUrl=/TowerOfLondon/&current_palace=false", "PalaceNavigation", "100%", "126", "8", "#ffffff");
-	soPalaceNavTol.addParam("salign", "tl");
-	soPalaceNavTol.addParam("wmode", "transparent");
-	soPalaceNavTol.write("flashContainerTol");
-
-	var soPalaceNavHcp = new SWFObject("/SiteFlash/palaceNavigation.swf?id=HCP&configXML=/Includes/XML/FlashConfig/config_HCP.xml&buy_ticketsUrl=/HamptonCourtPalace/hamptoncourtadmission.aspx&enterUrl=/HamptonCourtPalace/&current_palace=false", "PalaceNavigation", "100%", "126", "8", "#ffffff");
-	soPalaceNavHcp.addParam("salign", "tl");
-	soPalaceNavHcp.addParam("wmode", "transparent");
-	soPalaceNavHcp.write("flashContainerHcp");
-
-	var soPalaceNavBh = new SWFObject("/SiteFlash/palaceNavigation.swf?id=BH&configXML=/Includes/XML/FlashConfig/config_BH.xml&buy_ticketsUrl=/BanquetingHouse/TicketsAndPrices.aspx&enterUrl=/BanquetingHouse/&current_palace=false", "PalaceNavigation", "100%", "126", "8", "#ffffff");
-	soPalaceNavBh.addParam("salign", "tl");
-	soPalaceNavBh.addParam("wmode", "transparent");
-	soPalaceNavBh.write("flashContainerBh");
-
-	var soPalaceNavKen = new SWFObject("/SiteFlash/palaceNavigation.swf?id=KP&configXML=/Includes/XML/FlashConfig/config_KEN.xml&buy_ticketsUrl=/KensingtonPalace/kensingtonpalacetickets.aspx&enterUrl=/KensingtonPalace/&current_palace=false", "PalaceNavigation", "100%", "126", "8", "#ffffff");
-	soPalaceNavKen.addParam("salign", "tl");
-	soPalaceNavKen.addParam("wmode", "transparent");
-	soPalaceNavKen.write("flashContainerKen");
-
-	var soPalaceNavKew = new SWFObject("/SiteFlash/palaceNavigation.swf?id=KEW&configXML=/Includes/XML/FlashConfig/config_KEW.xml&buy_ticketsUrl=/KewPalace/AdmissionsPrices.aspx&enterUrl=/KewPalace/&current_palace=false", "PalaceNavigation", "100%", "126", "8", "#ffffff");
-	soPalaceNavKew.addParam("salign", "tl");
-	soPalaceNavKew.addParam("wmode", "transparent");
-	soPalaceNavKew.write("flashContainerKew");
-	// -->
-</script>  
+  
 						
 						<div id="breadcrumb">
                             <span class="locationText">You are here: </span><ol><li><a href="/Default.aspx" title="Home">Home</a></li><li>Privacy Policy</li></ol>            							
@@ -391,7 +366,7 @@
         
                     <div class="borderEffect">
 				        <div class="twoLineHeading">
-					        <h2 class="sifr">Palace Connections</h2>
+					        <h2>Palace Connections</h2>
 				        </div>
 				        
 			        </div><!--[if !IE]> /borderEffect <![endif]-->
@@ -412,7 +387,7 @@
 							
                              
 						</div><!--[if !IE]> /subContentContainer <![endif]-->
-					
+					<div class="theBreaker"></div>
 					</div><!--[if !IE]> /sectionContainer <![endif]-->
 					<div class="theBreaker"></div>
 					
@@ -420,6 +395,41 @@
 				<div id="siteInformationNavigation">
                     
 				    
+<div id="social">
+    <div class="gutter">
+        <h3 class="hide">Follow</h3>
+        <ul>
+            <li>Follow us on:</li>
+            <li id="facebook"><a href="http://www.facebook.com/pages/Historic-Royal-Palaces/46388888467" title="Follow us on Facebook" target="_blank"><img src="/SiteImages/Icons/Social/facebook.jpg" alt=""></a></li>
+            <li id="twitter"><a href="http://twitter.com/hrp_palaces " title="Follow us on  Twitter" target="_blank"><img src="/SiteImages/Icons/Social/twitter.jpg" alt=""></a></li>
+            <li id="youtube"><a href="http://www.youtube.com/user/HistoricRoyalPalaces" title="Follow us on  YouTube" target="_blank"><img src="/SiteImages/Icons/Social/youtube.jpg" alt=""></a></li>
+            <li id="palaceConnections" class="last"><a id="ctl00_Footer1_LoginStatus1" title="" class="AspNet-LoginStatus" href="javascript:__doPostBack('ctl00$Footer1$LoginStatus1$ctl02','')">Log in to Palace Connections</a></li>
+        </ul>
+        <div class="theBreaker"></div>
+    </div>
+</div>
+
+
+<div id="bookmark">
+    <div class="gutter">
+        <h3>Bookmark and share - <span title="These are for sharing this page via various 3rd party social media platforms">What is this?</span></h3>
+      <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style ">
+    <a class="addthis_button_facebook_like"></a>
+    <a class="addthis_button_tweet"></a>
+    <a class="addthis_counter addthis_pill_style"></a>
+    </div>
+
+    <script type="text/javascript">    var addthis_config = { "data_track_clickback": true };</script>
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d7e02796dd46cf7"></script>
+
+   
+    <!-- AddThis Button END -->
+
+
+    </div>
+</div>
+
 <ol class="clearfix">
     <li><a href="/Accessibility.aspx" title="An explanation of the accessibility features included throughout the site">
         Accessibility help</a></li>
@@ -431,10 +441,10 @@
         map</a></li>
     <li><a href="/aboutus/photolibrary.aspx">
         Photo library</a></li>
-    <li><a href="/Newsletter/Default.aspx">
-        Newsletter</a></li>
     <li><a href="/discoverthepalaces/MediaPlayerhomepage.aspx">
         Media player</a></li>
+    <li><a href="/NewsAndMedia/">
+        Press office</a></li>
     <li><a href="/AboutUs/WorkingForUs/Default.aspx">
         Jobs</a></li>
     <li><a href="/Default/FAQs.aspx">
@@ -445,7 +455,7 @@
 <div class="theBreaker">
 </div>
 <p>
-    Copyright © Historic Royal Palaces 2004-2010</p>
+    Copyright © Historic Royal Palaces 2004-2011</p>
 <iframe src="javascript:'';" id="ecos_iframe" style="position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe>
 <iframe src="javascript:'';" id="ecos_iframe2" style="position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe>
 <div id="ecos_surveylayer" style="position: absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title="Visitor Survey (dynamically generated)">
