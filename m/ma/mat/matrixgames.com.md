@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124212431id_/http%3A//www.matrixgames.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616140859id_/http%3A//www.matrixgames.com/privacy.asp) for the most accurate reproduction.*
 
 # Matrix Games - Privacy Policy
 
