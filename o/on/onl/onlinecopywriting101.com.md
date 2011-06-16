@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecopywriting101.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215111838id_/http%3A//onlinecopywriting101.com/members/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecopywriting101.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616083848id_/http%3A//www.onlinecopywriting101.com/members/about/privacy) for the most accurate reproduction.*
 
 # Online Copywriting 101 Privacy Policy — Online Copywriting 101
 
