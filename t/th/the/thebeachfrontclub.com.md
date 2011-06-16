@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebeachfrontclub.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217011059id_/http%3A//www.thebeachfrontclub.com/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebeachfrontclub.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616063034id_/http%3A//www.thebeachfrontclub.com/s/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies of The Beachfront Club - The Beachfront Club
 
@@ -6,7 +6,7 @@
 
 The BFC will never sell or give away your private contacts or information to third parties for the purpose of spamming, advertising or commercial benefit of any kind.
 
-We also limit the information that the BFC sends to its members in an attempt to give you only those things that interest you and that you want. That includes nothing, if wanted. Please read our full Privacy Policies:
+We also limit the information that the BFC sends to its members in an attempt to give you only those things that interest you and that you want. That includes sending you nothing, if thats preferred. Please read our full Privacy Policies.
 
 ### 2\. minimal log-in information
 
@@ -40,7 +40,7 @@ Those people who are eager to share information about themselves in order to mak
 
 ### 9\. newsletters & bulletins
 
-Our newsletters, bulletins and promotions are restricted to our own BFC on-line publications dealing with topics directly related to the concerns of the BFC. These are the only e-mails you will receive from us. However, every user has the choice to opt-out of or opt-in for our on-line publications, or select a range of suitable publications at any time by using the settings within .Newsletter. under Community in the Global Navigation Bar. This range includes selections of newsletters by topic, geographic location and other criteria.
+Our newsletters, bulletins and promotions are restricted to our own BFC on-line publications dealing with topics directly related to the concerns of the BFC. These are the only e-mails you will receive from us. However, every user has the choice to opt-out of or opt-in for our on-line publications, or select a range of suitable publications at any time by using the settings within 'Newsletter' under 'Community' in the Global Navigation Bar. This range includes selections of newsletters by topic, geographic location and other criteria.
 
 ### 10\. e-mails and mail lists 
 
@@ -60,4 +60,4 @@ Following standard practice for membership websites we may place cookies in your
 
 ### 13\. keep up-to-date on The Beachfront Club's policies
 
-The Beachfront Club reserves the right to make changes to its Privacy Policies or to update them as and when it sees the need. It is your responsibility to check these policies on our Website in a timely manner to keep abreast of any changes to clauses that might affect you.
+The Beachfront Club reserves the right to make changes to its Privacy Policies or to update them as and when it sees the need. It is your responsibility to check these policies on our website in a timely manner to keep abreast of any changes to clauses that might affect you.
