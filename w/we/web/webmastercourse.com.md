@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108005959id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616063153id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy WebmasterCourse.Com
 
-## You May Use This Free Privacy Policy For Your Blog Or Website - _Details Here >>_
+* * *
 
 The privacy of our visitors to webmastercourse.com is very crucial to us. 
 
@@ -30,6 +30,6 @@ AdSense Privacy Policy Provided by [http://www.webmastercourse.com](http://www.w
 
 You may use this free privacy policy template for your personal or business website. Just replace the word **webmastercourse.com** with **your own domain name** and it's ready to go.
 
-The only other requirement is that you leave the link to Webmaster Course intact. Please abide by this rule.
-
-* * *
+The only other requirement is that you leave the link to Webmaster Course intact. Please abide by this rule.  
+  
+© Copyright WebMasterCourse.com - All Rights Reserved. - Cheap web design
