@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emmys.tv privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227093605id_/http%3A//www.emmys.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emmys.tv privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617034510id_/http%3A//www.emmys.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Academy of Television Arts & Sciences
 
