@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rightcelebrity.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226155427id_/http%3A//www.rightcelebrity.com/%3Fpage_id%3D3018) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightcelebrity.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618011051id_/http%3A//www.rightcelebrity.com/%3Fpage_id%3D3018) for the most accurate reproduction.*
 
-# Privacy Policy » Right Celebrity
+# Privacy Policy | Right Celebrity
 
 Right Celebrity desires to protect the privacy of our visitors. When leaving comments, an email address is required to post. You are free to fake that email address or leave a real one. Regardless, this information is not available to the public and will not become part of a commercial mailing list or sold. We do not even keep a mailing list. 
 
