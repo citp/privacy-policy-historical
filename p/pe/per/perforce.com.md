@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perforce.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192151id_/http%3A//www.perforce.com/perforce/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perforce.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617120253id_/http%3A//www.perforce.com/perforce/corp/privacy.html) for the most accurate reproduction.*
 
 # Perforce Software Online Privacy Policy
 
