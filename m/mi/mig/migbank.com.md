@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the migbank.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215194255id_/http%3A//www.migbank.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migbank.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617112750id_/http%3A//www.migbank.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# MIG BANK: Privacy Policy
+# Privacy Policy - MIG BANK
 
 MIG BANK places a high priority on the protection and safeguard of our client’s personal and financial information.  We operate under leading-edge security procedures and systems to provide you a safe and secure operating environment. 
 
@@ -12,4 +12,4 @@ Occasionally, in order to provide you with information on products and services 
 
 MIG BANK also reserves the right to disclose personal information to non-affiliated third parties for regulatory or reporting purposes as required by law, to protect our rights or property. 
 
-If you have any questions not covered in our Privacy Policy, please [contact us](http://www.migbank.com/about-us/around-the-world/choose-your-region/) or [request a call back.](http://www.migbank.com/pages/request-call-back/)
+If you have any questions not covered in our Privacy Policy, please [contact us](http://www.migbank.com/about-us/contacts/choose-your-region/) or [request a call back.](http://www.migbank.com/pages/request-call-back/)
