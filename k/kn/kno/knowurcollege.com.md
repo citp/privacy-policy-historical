@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228185827id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617234123id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.knowurcollege.com | KnowurCollege.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@knowurcollege.com.
+**Privacy Policy for www.knowurcollege.com**
+
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.knowurcollege.com/contact-us/ "contact us") by email at info@knowurcollege.com.
 
 At www.knowurcollege.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.knowurcollege.com and how it is used.
 
@@ -28,6 +30,16 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
+**Content   Policy**
+
+  * Content on this website has been written with the reference of online material, news and different source of websites.  It is possible that the present information can be vary from our content as it has been written a long ago. In This case Please request us to change the content as per present scenario. Please email us at info@knowurcollege.com  
+
+  * We reserved right to change the content, delete the content, delete the pages and information on this website any time.  
+
+  * We believe the content presented here can not be %100 accurate as well correct. It could be vary from other source of information. 
+
+
+
 **Image Policy**
 
   * Images we have shown here is contains ownership of their respected owner. We are not owning this images and used here for reference purpose only.
@@ -40,6 +52,4 @@ If you wish to disable cookies, you may do so through your individual browser op
   * Knowurcollege.com is created for information purpose only . The information we have presented here is a best with our knowledge and collected from web.  The information might be wrong or out dated  and Visitor will only responsible for his/her own decision.
   * we are not providing any services.
 
-**Are you Looking for some thing else which is not here ?  
-Please Search Here**  
 
