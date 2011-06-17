@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmpnews.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231184048id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmpnews.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618010303id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
 
 # UBM Canon - Privacy Policy
 
@@ -10,7 +10,7 @@ Last modified on May 4, 2010
   
 #### Introduction
 
-UBM Canon is committed to protecting and respecting your privacy.
+Canon Communications LLC, known as UBM Canon is committed to protecting and respecting your privacy.
 
 This privacy policy and the other documents referred to herein set out the basis on which any personal data we obtain from you will be used by us. This policy applies to our website and all of our trade show, trade conference, award and publication websites only, and does not apply to any other website or offline contact point. References in this policy to “the website,” “this website,” “the site” or “this site” include all of our related trade show, trade conference, award and publication websites, whether accessible from this website or directly. By visiting the website and allowing us to collect personal data from you, you are agreeing to and accepting the practices in this privacy policy.
 
