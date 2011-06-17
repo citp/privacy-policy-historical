@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localmole.co.uk privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217011005id_/http%3A//www.localmole.co.uk/legals/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmole.co.uk privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617051654id_/http%3A//www.localmole.co.uk/legals/privacypolicy) for the most accurate reproduction.*
 
 # LocalMole UK Business Directory - Privacy Policy
 
