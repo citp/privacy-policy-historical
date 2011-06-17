@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycfe.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219032653id_/http%3A//mycfe.com/resources/Disclosures/privacy%2520notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycfe.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617103129id_/https%3A//mycfe.com/resources/Disclosures/privacy%2520notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
