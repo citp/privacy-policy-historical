@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216211219id_/http%3A//www.homemediamagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617044728id_/http%3A//www.homemediamagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | homemediamagazine.com
-
-  
-
+# Privacy Policy | Home Media Magazine
 
 #### **PRIVACY STATEMENT**
 
 The following Privacy Statement summarizes the various ways that **Questex Media Group LLC**. (“Questex Media Group”) treats the information you provide while using **www.questex.com** or any other Questex Media Group site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
 
-Please read this Privacy Statement carefully. **Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement**. If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@questex.com](mailto:privacy@questex.com)
+Please read this Privacy Statement carefully. **Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement**. If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at 
+
+[privacy@questex.com](mailto:privacy@questex.com)
 
 In addition to reviewing this Privacy Policy, please read our Terms of Use. Your use of the our sites constitutes agreement to its terms and conditions as well.
 
@@ -55,8 +54,7 @@ While your personally identifying information is protected as outlined above, we
 
 As a business-to-business company, we have created and maintain sites that are not intended for use by children, particularly those under age 13, and we do not knowingly collect information from children. On-line registration and website usage is restricted to adults who are professionally engaged in the businesses we serve. No one under age 13 is allowed to provide any personal information or use any public discussion areas, forums and chats comprising part of our sites. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on our sites. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible
 
-####   
-**Updating Visitor Information**
+####  **Updating Visitor Information**
 
 Many of our Site functions (but not all) provide you with the option of correcting, updating and modifying your personal and/or financial information, or visitor profile, at any time and as often as desired. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference.
 
@@ -87,16 +85,17 @@ We use procedural and technical safeguards to protect your personal information 
 
 #### **Privacy Statement Coordinator**
 
-If you have any questions regarding our privacy statement, please feel free to contact us by letter at the address below, or by e-mail at [privacy@questex.com](mailto:privacy@questex.com) . We read every message submitted and try to reply promptly to every one.
+If you have any questions regarding our privacy statement, please feel free to contact us by letter at the address below, or by e-mail at 
 
-  
+[privacy@questex.com](mailto:privacy@questex.com) . We read every message submitted and try to reply promptly to every one.
+
 **Questex Media Group LLC.**  
 275 Grove Street  
 Suite 2-130  
-Newton, MA 02464  
+Newton, MA 02464 
+
 [privacy@questex.com](mailto:privacy@questex.com)
 
-  
 Copyright © 2008 Questex Media Group LLC. Privacy Statement
 
 Revised and Posted As Of: February 5th, 2008
