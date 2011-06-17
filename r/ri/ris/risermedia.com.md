@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the risermedia.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211225239id_/http%3A//risermedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risermedia.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617191915id_/http%3A//risermedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Riser Media | Creative Graphic & Web Design Agency in SLC, Utah
 
