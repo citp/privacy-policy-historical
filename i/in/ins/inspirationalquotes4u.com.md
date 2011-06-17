@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the inspirationalquotes4u.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213140302id_/http%3A//www.inspirationalquotes4u.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirationalquotes4u.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618003502id_/http%3A//www.inspirationalquotes4u.com/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Policy, Famous Inspirational Quotes
+# Privacy Policy
 
-|  |  _of Famous Inspirational Quotes_
-
-The privacy of our visitors to Famous Inspirational Quotes, http://www.inspirationalquotes4u.com is important to us. At www.inspirationalquotes4u.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit www.inspirationalquotes4u.com, and how we safeguard your information. We never sell your personal information to third parties. 
+|  The privacy of our visitors to Inspirational Quotes and Sayings, http://www.inspirationalquotes4u.com is important to us. At www.inspirationalquotes4u.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit www.inspirationalquotes4u.com, and how we safeguard your information. We never sell your personal information to third parties. 
 
 _Emails_   
 All emails that are sent to us are kept private. The emails are never sold or distributed to anyone. 
@@ -20,5 +18,3 @@ We do use add free stats to manage our website. Here is the link for their [Priv
 
 _Questions on our Practices_   
 If you have any questions regarding our privacy practices, please feel free to email us at: wow4u35@gmail.com 
-
-| 
