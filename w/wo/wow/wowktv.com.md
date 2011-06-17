@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225155354id_/http%3A//wowktv.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617172743id_/http%3A//wowktv.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
 
 # WOWK-TV – News for Charleston and Huntington, West Virginia - WOWKTV.com
 
-[Home](https://web.archive.org/web/20101225155354id_/http%3A//wowktv.com/index.cfm) > Privacy Policy
+[Home](https://web.archive.org/web/20110617172743id_/http%3A//wowktv.com/index.cfm) > Privacy Policy
 
 Privacy Policy
 
