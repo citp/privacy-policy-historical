@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217154243id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617202136id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
 
 # Privacy | OUT-LAW.COM by Pinsent Masons LLP
 
@@ -109,7 +109,7 @@ If we make changes to our Privacy Policy that affect how we handle your data, we
 
 ## Contact
 
-If you have any queries concerning your personal information or any questions on our use of the information, please contact our editor, [Struan Robertson](mailto:Struan.Robertson@out-law.com).
+If you have any queries concerning your personal information or any questions on our use of the information, please contact our editor, [Matthew Magee](mailto:matthew.magee@pinsentmasons.com).
 
 [Back to top](http://www.out-law.com/page-293#1148)
 
