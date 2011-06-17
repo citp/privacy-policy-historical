@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpagefx.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421015235id_/http%3A//www.webpagefx.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagefx.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617045815id_/http%3A//www.webpagefx.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -10,4 +10,4 @@ WebpageFX uses this information only as anonymous aggregate data to determine th
 
 WebpageFX does not use persistent "cookies" or tracking mechanisms that collect personally identifying information on our sites. 
 
-Call 1-888-44WEBFX or [contact us](https://web.archive.org/web/20090421015235id_/http%3A//www.webpagefx.com/contact.htm) online today to find out more about our services. 
+Call 1-888-44WEBFX or [contact us](https://web.archive.org/web/20110617045815id_/http%3A//www.webpagefx.com/contact.htm) online today to find out more about our services. 
