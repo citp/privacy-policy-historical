@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kiwibox.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091322id_/http%3A//www.kiwibox.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwibox.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617044713id_/http%3A//www.kiwibox.com/about/privacy%3F__framed%3D1) for the most accurate reproduction.*
 
 # About us | Kiwibox Community
+
+| 
 
 **Privacy Policy** Your privacy is an important issue with us as it is with you. Our goal in collecting personal information from you upon registration is to provide   
 you, the user, with the best experience possible by targeting site content and advertisements to our audience. Your information is stored in our   
