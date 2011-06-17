@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the knowurcollege.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228185827id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knowurcollege.com privacy policy that was archived on 2011-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110617234123id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 <title>Privacy Policy for www.knowurcollege.com  | KnowurCollege.com</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta name="generator" content="WordPress 3.0.3">
+<meta name="generator" content="WordPress 3.1">
 <!-- leave this for stats -->
 <link rel="stylesheet" href="http://www.knowurcollege.com/wp-content/themes/themasterplan_tma_v2/tma/style.css" type="text/css" media="screen, projection">
 <!--[if lt IE 7]>
@@ -19,12 +19,83 @@
 <link rel="index" title="KnowurCollege.com" href="http://www.knowurcollege.com/">
 <link rel="prev" title="Top Colleges In India" href="http://www.knowurcollege.com/colleges/">
 <link rel="next" title="Sitemap" href="http://www.knowurcollege.com/sitemap/">
-<meta name="generator" content="WordPress 3.0.3">
+<meta name="generator" content="WordPress 3.1">
 <link rel="canonical" href="http://www.knowurcollege.com/privacy-policy/">
 
-<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[202,274] -->
-<meta name="description" content="If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@knowurcollege.com. At">
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[204,276] -->
+<meta name="description" content="Privacy Policy for www.knowurcollege.com If you require any more information or have any questions about our privacy policy, please feel free to contact us by">
 <!-- /all in one seo pack -->
+<script type="text/javascript" src="http://www.knowurcollege.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+		<script type="text/javascript">
+			function quick_contact_send() { //Send Message Ajax Call
+				//Deactivate submit button 
+				var submit_button = document.getElementById('quick_contact_submit');
+				submit_button.disabled = true;
+				//Get Input Fields (Clear them if they are the autofill message)
+				var name = document.getElementById('quick_contact_name').value;
+				if(name == "Please enter your name...")
+					name = "";
+				var email = document.getElementById('quick_contact_email').value;
+				if(email == "So that we can reply to you...")
+					email = "";
+				var phone = document.getElementById('quick_contact_phone').value;
+				if(phone == "So that we can reply to you...")
+					phone = "";
+				var message = document.getElementById('quick_contact_message').value;
+				if(message == "Questions? Comments? Enter them here (no HTML please)...")
+					message = "";
+				var captcha = document.getElementById('quick_contact_captcha_text').value;
+				if(captcha == "Type text at left...")
+					captcha = "";
+				//Ensure that there is at least a name and an email or phone
+				var error_default = "Please fill out the following before submitting:\n";
+				var error = error_default;
+				if(name == "" || name == null)
+					error += "  - Please enter your name.\n";
+				if((email == "" || email == null) && (phone == "" || phone == null)) 
+					if(error != "") error += "  - Please enter either a phone number or email for us to contact you.\n";
+				if(captcha == "" || captcha == null)
+					error += "  - Please enter the text from the image.\n";
+				if(error != error_default) {
+					submit_button.disabled = false;
+					alert(error);
+					return;
+				}
+				//If the message is empty ask the user to conferm that they ment to hit the submit button
+				if(message == "" && !confirm("Are you sure you want to send without entering a message?")) {
+					submit_button.disabled = false;
+					return;
+				}
+				//Display processing message
+				submit_message = document.getElementById('quick_contact_submit_message');
+				submit_message.className = "quick_contact_message";
+				submit_message.innerHTML = "Submitting Message, Please Wait...";
+				//Build SACK Call
+				var mysack = new sack("http://www.knowurcollege.com/wp-content/plugins/quick-contact/quick-contact.php");
+				mysack.execute = 1;
+				mysack.method = 'POST';
+				mysack.setVar("quick_contact_name",name);
+				mysack.setVar("quick_contact_email",email);
+				mysack.setVar("quick_contact_phone",phone);
+				mysack.setVar("quick_contact_message",message);
+				mysack.setVar("quick_contact_captcha",captcha);
+				mysack.setVar("quick_contact_action","send_message");
+				mysack.onError = function() { alert('An ajax error occured while sending your message. Please reload the page and try again.') };
+				mysack.runAJAX();//excecute
+				return;
+			}
+			
+			function quick_contact_reset_form() { //Reset Form Javascript Call
+				document.getElementById('quick_contact_form').innerHTML = '<table width=\'100%\'  border=\'0\' cellspacing=\'0\' cellpadding=\'0\'><tr><th>Name:</th><td><input type=\'text\' id=\'quick_contact_name\' class=\'quick_contact_faded\' value=\'Please enter your name...\' maxlength=\'100\' onFocus=\'if(this.value == "Please enter your name..."){ this.value = ""; this.className = "quick_contact_focused"; }\'/></td></tr><tr><th>Email:</th><td><input type=\'text\' id=\'quick_contact_email\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'150\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Phone:</th><td><input type=\'text\' id=\'quick_contact_phone\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'100\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Message:</th><td><textarea id=\'quick_contact_message\' class=\'quick_contact_faded\' onFocus=\'if(this.value == "Questions? Comments? Enter them here (no HTML please)..."){ this.value = ""; this.className = "quick_contact_focused"; };\'>Questions? Comments? Enter them here (no HTML please)...</textarea></td></tr><tr><th><img id=\'quick_contact_captcha\' src=\'?quick_contact_action=get_captcha\' align=\'right\'/></th><td><input type=\'text\' id=\'quick_contact_captcha_text\' class=\'quick_contact_faded\' style=\'width:110px;\' value=\'Type text at left...\' maxlength=\'20\' onFocus=\'if(this.value == "Type text at left..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/> <small><a href=\'javascript:quick_contact_reset_captcha();\'>I can\'t read the text, please reset it.</a></small></td></tr><tr><th>&nbsp;</th><td style=\'padding-top:2px;\'><input type=\'submit\' id=\'quick_contact_submit\' value=\'Send\' onClick=\'quick_contact_send(); return false;\' style=\'width:50px;\'><input type=\'button\' id=\'quick_contact_cancel\' value=\'Cancel\' style=\'width:60px;\' onClick=\'quick_contact_reset_form();\'> <span style=\'font-size:0.7em;\'>Powered by <a href=\'http://quickcontact.squarecompass.com/\'>Quick Contact</a></span><br/><div id=\'quick_contact_submit_message\'>&nbsp;</div></td></tr><tr><th>&nbsp;</th><td></td></tr></table>';
+			}
+			
+			var quick_contact_reset_captcha_count = 0;
+			function quick_contact_reset_captcha() { //Reset Form Javascript Call
+				quick_contact_reset_captcha_count++;
+				document.getElementById('quick_contact_captcha').src = 'http://www.knowurcollege.com/wp-content/plugins/quick-contact/quick-contact.php?quick_contact_action=get_captcha&count='+quick_contact_reset_captcha_count;
+			}
+		</script>
+	<meta name="y_key" content="fb9c7bbc30fe23ec">
 </head>
 <body>
 <!--start body-->
@@ -60,7 +131,7 @@
         </div>
         <ul id="menu">
     <li><span class="home"><a href="http://www.knowurcollege.com">Home</a></span></li>
-<li><span class="contact"><a href="http://www.knowurcollege.com/contact-us">Advertise</a></span></li>
+<li><span class="contact"><a href="http://www.knowurcollege.com/advertise/">Advertise</a></span></li>
     <li><span class="about"><a href="http://www.knowurcollege.com/contact-us">Contact</a></span></li>
     <li><span class="subscribe"><a href="http://www.knowurcollege.com/article">Articles</a></span></li>
     <li><span class="contact"><a href="http://www.knowurcollege.com/career/">Career</a></span></li>
@@ -85,16 +156,16 @@
 			<li><b><a href="http://www.knowurcollege.com/colleges/">Top Colleges</a></b></li>
             
  <li>
-                <b><a href="http://www.knowurcollege.com/colleges/top-mba-colleges-in-india/">MBA Colleges</a></b>
+                <b><a href="http://www.knowurcollege.com/colleges/top-best-mba-colleges-in-india/" title="top mba colleges in india">MBA Colleges</a></b>
             </li>
             <li>
-                <b><a href="http://www.knowurcollege.com/colleges/top-engineering-colleges-in-india">Engineering Colleges</a></b>
+                <b><a href="http://www.knowurcollege.com/colleges/top-best-engineering-colleges-in-india">Engineering Colleges</a></b>
             </li>
             <li class="last">
-                <b><a href="http://www.knowurcollege.com/colleges/top-medical-colleges-in-india/">Medical Colleges</a></b>
+                <b><a href="http://www.knowurcollege.com/colleges/top-best-medical-colleges-in-india/">Medical Colleges</a></b>
             </li>
 <li class="last">
-                <b><a href="http://www.knowurcollege.com/colleges/top-mca-colleges-in-india">MCA Colleges</a></b>
+                <b><a href="http://www.knowurcollege.com/colleges/top-best-mca-colleges-in-india">MCA Colleges</a></b>
             </li>
  <li>
                 <b><a href="http://www.knowurcollege.com/colleges/top-bca-colleges-in-india/">BCA Colleges</a></b>
@@ -115,7 +186,7 @@
             		            		 
             		<div class="ad_block">
 	<div class="ad180">
-<script type="text/javascript"><!--
+<center><script type="text/javascript"><!--
 google_ad_client = "pub-2364504889607642";
 /* 160x600, created 12/30/09 */
 google_ad_slot = "7032350131";
@@ -124,7 +195,7 @@ google_ad_height = 600;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script> <br>
+</script></center> <br>
 
 		<!-- Insert your ad code here. Make sure the ad size is 180px in width. -->
 	</div>
@@ -132,7 +203,17 @@ google_ad_height = 600;
 
 <div class="ad_block">
 	<div class="ad180">
-Advertise here
+<!-- Begin Adify tag for "KnowurCollege" Ad Space (115x129) ID #2000001036607 -->
+<script type="text/javascript">
+	sr_adspace_id = 2000001036607;
+	sr_adspace_width = 115;
+	sr_adspace_height = 129;
+	sr_ad_new_window = false;
+	sr_adspace_type = "graphic";
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=2000001036607">
+</script>
+<!-- End Adify tag for "KnowurCollege" Ad Space (115x129) ID #2000001036607 -->
 		<!-- Insert your ad code here. Make sure the ad size is 180px in width. -->
 	 </div>
 </div>
@@ -162,40 +243,17 @@ Advertise here
 			         
         			<div class="column span-11 first">
             
-            <div class="contentBorder" style="margin-bottom: 5px; padding: 5px;">
-        		<h1 class="post_name" id="post-62">Privacy Policy for www.knowurcollege.com</h1>
-            </div>
-            <div class="contentBorder" style="padding: 10px;">    
-            
-<script type="text/javascript"><!--
-google_ad_client = "pub-2364504889607642";
-/* 728x90, created 1/11/10 */
-google_ad_slot = "2064742182";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br><div style="float:left;">
-<script type="text/javascript"><!--
-google_ad_client = "pub-2364504889607642";
-/* 336x280, created 1/11/10 */
-google_ad_slot = "1387655388";
-google_ad_width = 336;
-google_ad_height = 280;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script> &nbsp;&nbsp;&nbsp;</div>
+                      
 
         		            	
-            	<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@knowurcollege.com.</p>
+            	<p style="text-align: center;"><span style="font-size: medium; color: #0000ff;"><strong>Privacy Policy for www.knowurcollege.com</strong></span></p>
+<p>If you require any more information or have any questions about our privacy policy, please feel free to <a title="contact us" href="http://www.knowurcollege.com/contact-us/">contact us</a> by email at info@knowurcollege.com.</p>
 <p>At www.knowurcollege.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.knowurcollege.com and how it is used.</p>
-<p><span style="color: #008000;"><strong>Log Files</strong></span><br>
+<p><span style="color: #0000ff;"><strong>Log Files</strong></span><br>
 Like many other Web sites, www.knowurcollege.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
-<p><span style="color: #008000;"><strong>Cookies and Web Beacons</strong></span><br>
+<p><span style="color: #0000ff;"><strong>Cookies and Web Beacons</strong></span><br>
 www.knowurcollege.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
-<p><span style="color: #008000;"><strong>DoubleClick DART Cookie</strong></span><br>
+<p><span style="color: #0000ff;"><strong>DoubleClick DART Cookie</strong></span><br>
 .:: Google, as a third party vendor, uses cookies to serve ads on www.knowurcollege.com.<br>
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.knowurcollege.com and other sites on the Internet.<br>
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html</p>
@@ -205,43 +263,48 @@ Google Adsense</p>
 <p>www.KnowurCollege.com has no access to or control over these cookies that are used by third-party advertisers.</p>
 <p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.knowurcollege.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
 <p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
-<p><span style="color: #008000;"><strong>Image Policy</strong></span></p>
+<p><span style="color: #0000ff;"><strong>Content&nbsp; Policy</strong></span></p>
+<ul>
+<li><span style="color: #008000;"><span style="color: #000000;">Content on this website has been written with the reference of online material, news and different source of websites.&nbsp; It is possible that the present information can be vary from our content as it has been written a long ago. In This case Please request us to change the content as per present scenario. Please email us at info@knowurcollege.com<br>
+</span></span></li>
+<li><span style="color: #008000;"><span style="color: #000000;">We reserved right to change the content, delete the content, delete the pages and information on this website any time.<br>
+</span></span></li>
+<li><span style="color: #008000;"><span style="color: #000000;">We believe the content presented here can not be %100 accurate as well correct. It could be vary from other source of information. </span></span></li>
+</ul>
+<p><span style="color: #0000ff;"><strong>Image Policy</strong></span></p>
 <ul>
 <li>Images we have shown here is contains ownership of their respected owner. We are not owning this images and used here for reference purpose only.</li>
 <li>If You are contain ownership for Images and do want us to use it. kindly email us at info@knowurcollege.com to remove it.</li>
 </ul>
-<p><span style="color: #008000;"><strong>Along with</strong></span></p>
+<p><span style="color: #0000ff;"><strong>Along with</strong></span></p>
 <ul>
 <li>Knowurcollege.com is created for information purpose only . The information we have presented here is a best with our knowledge and collected from web.&nbsp; The information might be wrong or out dated&nbsp; and Visitor will only responsible for his/her own decision.</li>
 <li>we are not providing any services.</li>
 </ul>
-
-
 								
-
 								
-            	  
-<center><b>Are you Looking for some thing else which is not here ? <br>Please Search Here</b><br><center><form action="http://www.knowurcollege.com/search/" id="cse-search-box">
-  <div>
-    <input type="hidden" name="cx" value="partner-pub-2364504889607642:czf7qr-5ynw">
-    <input type="hidden" name="cof" value="FORID:10">
-    <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" size="42">
-    <input type="submit" name="sa" value="Search">
-  </div>
-</form>
-<script type="text/javascript" src="http://www.google.co.in/cse/brand?form=cse-search-box&amp;lang=en"></script></center>
-            </center></div>
+            	
             </div>
-
-         
-                         
+            </div>
+                        
     </div>
     <div class="clear">&nbsp;</div>
-
 	            <div style="padding-top:10px;margin-bottom:10px; border-bottom:1px solid #CCCCCC;"></div>
     <!-- WordPress theme by Arun Kale / The Masterplan | Download it at http://themasterplan.in/themes/the-morning/after/ -->
-<center><a href="http://www.knowurcollege.com/sitemap">Sitemap</a> | <a href="http://www.knowurcollege.com/privacy-policy/">Privacy Policy</a> | <a href="http://www.knowurcollege.com/privacy-policy/">Disclaimer</a> | <a href="http://www.knowurcollege.com/contact-us">Contact</a><br> <a href="http://ignou4u.blogspot.com">IGNOU Assignments 2010</a> | <a href="http://www.knowurcollege.com" title="Top Colleges in India">Top Colleges</a> | <a href="http://www.knowurcollege.com/state" title="state wise colleges">State</a> | <a href="http://www.knowurcollege.com/colleges/top-mba-colleges-in-india" title="Top MBA Colleges in India">MBA Colleges</a> | <a href="http://ignou4u.blogspot.com/2009/12/ignou-assignments-2010-download-ignou.html" title="IGNOU Assignments">IGNOU Assignments</a></center>
+<center>
+<!-- Begin Adify tag for "KN728" Ad Space (728x90) ID #2000001037007 -->
+<script type="text/javascript">
+	sr_adspace_id = 2000001037007;
+	sr_adspace_width = 728;
+	sr_adspace_height = 90;
+	sr_ad_new_window = true;
+	sr_adspace_type = "graphic";
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=2000001037007">
+</script>
+<!-- End Adify tag for "KN728" Ad Space (728x90) ID #2000001037007 -->
+</center><br>
+<center><a href="http://www.knowurcollege.com/sitemap">Sitemap</a> | <a href="http://www.knowurcollege.com/privacy-policy/">Privacy Policy</a> | <a href="http://www.knowurcollege.com/privacy-policy/">Disclaimer</a> | <a href="http://www.knowurcollege.com/contact-us">Contact</a><br> <a href="http://ignou4u.blogspot.com/2010/08/solved-ignou-assignments-download-ignou.html">IGNOU Assignments 2011</a> | <a href="http://www.knowurcollege.com" title="Top Colleges in India">Top Colleges</a> | <a href="http://www.knowurcollege.com/state" title="state wise colleges">State</a> | <a href="http://www.knowurcollege.com/colleges/top-mba-colleges-in-india" title="Top MBA Colleges in India">MBA Colleges</a> | <a href="http://ignou4u.blogspot.com/2010/08/solved-ignou-assignments-download-ignou.html" title="IGNOU Assignments">IGNOU Assignments</a>| <a href="http://ignou4u.blogspot.com/" title="IGNOU Courses">IGNOU Courses</a>| <a href="http://ignou4u.blogspot.com/2010/06/how-to-get-admission-in-ignou-mba.html" title="IGNOU MBA">IGNOU MBA</a></center>
     
 <div align="center"><font style="font-size: 10px;">Google Analytics integration offered by </font><a target="_blank" href="http://www.googleanalyticsplugin.com/" style="font-size: 9px;">Wordpress Google Analytics Plugin</a></div><!-- Here goes the code from google analytics added by Google Analytics Plugin --><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -256,4 +319,4 @@ pageTracker._trackPageview();
   <!--end body-->
 
     
-</div></div></body></html>
+</div></body></html>
