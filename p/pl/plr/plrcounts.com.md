@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrcounts.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126054400id_/http%3A//plrcounts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrcounts.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617064914id_/http%3A//plrcounts.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
