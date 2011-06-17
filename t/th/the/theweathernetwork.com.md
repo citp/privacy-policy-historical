@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214082714id_/http%3A//www.theweathernetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071137id_/http%3A//www.theweathernetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weather Network
 
 Pelmorex Media Inc. ("PMI"), operator of this website at theweathernetwork.com ("the Website"), is committed to respecting and safeguarding the privacy of our stakeholders and ensuring the protection of personal information of our customers, clients and other users of this Website.
 
-Personal information is any information that can be used to identify you as an individual, including your name, age, personal telephone number, address, email address, and any other personally identifiable information that you choose to provide to PMI. Personal information does not include so-called "business card information" such as your business telephone number and address in your capacity as an employee of an organization.
+Personal information is any information that can be used to identify you as an individual, including your name, age, personal telephone number, address, e-mail address, and any other personally identifiable information that you choose to provide to PMI. Personal information does not include so-called "business card information" such as your business telephone number and address in your capacity as an employee of an organization.
 
 Our Privacy Policy includes the principles of the _Personal Information Protection and Electronic Documents Act_ , which are outlined below.
 
@@ -62,9 +62,9 @@ PMI has procedures in place to receive and respond to complaints or inquiries ab
 
 PMI collects personal information from Website users when they:
 
-  * register with the WeatherCentre (an email subscription service that delivers weather forecasts for free); 
+  * register for Subscriptions (weather forecasts, alerts and more delivered by e-mail);
   * sign up to add a 'Weather Button' on their website; 
-  * create an account to upload images or videos to the 'Your Weather' section; 
+  * create an account to upload images or videos to the 'Photos & Videos' section; 
   * submit a comment or inquiry using our online feedback form; or
   * otherwise provide personal information to PMI via the PMI Website or otherwise.
 
@@ -75,32 +75,32 @@ Some examples of how PMI collects, uses and discloses personal information are s
   
 
 
-#### WeatherCentre
+#### Subscriptions
 
-When an individual registers with the WeatherCentre, they are required to provide their name, email address and password. This information allows us to deliver weather forecasts to a subscriber's email address and enables them to change their preferences associated with this service. We also ask subscribers for additional, optional, information, which is not required to participate in the email service. The purpose of gathering this optional information is twofold: 1) with a greater understanding of our users we can develop an email service even better suited to the needs of our subscribers and 2) to generate a statistical profile of all subscribers that is shared with advertisers on The Weather Network.
+When an individual registers for Subscriptions, they are required to provide their name, e-mail address and password. This information allows us to deliver weather forecasts to a subscriber's e-mail address and enables them to change their preferences associated with this service. We also ask subscribers for additional, optional, information, which is not required to participate in the e-mail service. The purpose of gathering this optional information is twofold: 1) with a greater understanding of our users we can develop an e-mail service even better suited to the needs of our subscribers and 2) to generate a statistical profile of all subscribers that is shared with advertisers on The Weather Network.
 
-When a subscriber cancels his or her subscription to the WeatherCentre, that individual's personal information (name and email address) will be deleted from our database within 30 days.
+When a subscriber cancels his or her subscription account, that individual's personal information (name and e-mail address) will be deleted from our database within 30 days.
 
   
 
 
 #### Weather Button
 
-When users sign up to obtain a 'Weather Button' we request their name, email address, company name (if available) and website URL. The purpose of this is to be able to contact users of the button to communicate changes in the program as well as for record keeping purposes in respect of where the Weather Button is posted. This information will be retained until the operator of the website using the Weather Button informs us that they have removed the Weather Button from their website. 
+When users sign up to obtain a 'Weather Button' we request their name, e-mail address, company name (if available) and website URL. The purpose of this is to be able to contact users of the button to communicate changes in the program as well as for record keeping purposes in respect of where the Weather Button is posted. This information will be retained until the operator of the website using the Weather Button informs us that they have removed the Weather Button from their website. 
 
   
 
 
-#### Your Weather
+#### Photos & Videos
 
-When Website users create an account to upload images or videos to the "Your Weather" section, we request their name, email address, password and postal code. The purpose of this is to enable users to identify themselves having taken the imagery and video they choose to upload, and to facilitate display of their name and home location on any items posted to the Website or used on The Weather Network on television. By registering for and providing material for upload, users agree to the publication of their name and home location together with their uploaded image or video. 
+When Website users create an account to upload images or videos to the "Photos & Videos" section, we request their name, e-mail address, password and postal code. The purpose of this is to enable users to identify themselves having taken the imagery and video they choose to upload, and to facilitate display of their name and home location on any items posted to the Website or used on The Weather Network on television. By registering for and providing material for upload, users agree to the publication of their name and home location together with their uploaded image or video. 
 
   
 
 
 #### Feedback Form
 
-When a Website user submits a comment or inquiry using the online feedback form, we request their name and email address, along with the comment or inquiry in the body of the message for the purpose of responding to their message. This information may be shared with persons outside of PMI as required to respond effectively to a query or address a reported issue. We retain all email correspondence for 24 months. Where email correspondence is retained for longer than 24 months, we will remove Personal Information from the email correspondence. 
+When a Website user submits a comment or inquiry using the online feedback form, we request their name and e-mail address, along with the comment or inquiry in the body of the message for the purpose of responding to their message. This information may be shared with persons outside of PMI as required to respond effectively to a query or address a reported issue. We retain all e-mail correspondence for 24 months. Where e-mail correspondence is retained for longer than 24 months, we will remove Personal Information from the e-mail correspondence. 
 
   
 
@@ -113,7 +113,7 @@ PMI uses cookies on theweathernetwork.com:
 
 
   * to remember searched locations for quick future reference by visitors; and
-  * to save login information for WeatherCentre and Your Weather registrants (if they select the "Remember me" option when logging in).
+  * to save login information for Subscription and Photos & Videos registrants (if they select the "Remember me" option when logging in).
 
 
 
@@ -125,7 +125,7 @@ You have the option to set your browser to either accept cookies openly, to noti
 
 ## Limitation of Liability
 
-Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that public postings to some sites have resulted in unsolicited email from spammers. You acknowledge and agree that PMI, its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.
+Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that public postings to some sites have resulted in unsolicited e-mail from spammers. You acknowledge and agree that PMI, its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.
 
   
 
@@ -154,4 +154,4 @@ Ottawa, ON K1A 1H3
 
 ## Updates
 
-PMI reserves the right to update and amend this Privacy Policy as it is deemed necessary or appropriate to do so. Please check back often to be appraised of any changes. By continuing to use the Website, you accept any updates to this Privacy Policy. This version was updated on July 26, 2010.
+PMI reserves the right to update and amend this Privacy Policy as it is deemed necessary or appropriate to do so. Please check back often to be appraised of any changes. By continuing to use the Website, you accept any updates to this Privacy Policy. This version was updated on January 20, 2011.
