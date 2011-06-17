@@ -1,304 +1,326 @@
-<!--The following is the downloaded HTML source of the parcelmonkey.co.uk privacy policy that was archived on 2009-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522143152id_/http%3A//www.parcelmonkey.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parcelmonkey.co.uk privacy policy that was archived on 2011-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110617054403id_/http%3A//www.parcelmonkey.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-<title>Privacy Policy | Parcel Monkey</title>
-<meta name="keywords" content="">
-<meta name="description" content="">
-
-<style type="text/css">
-	
-	html {
-		height:101%;
-	}
-	
-	body {
-		background-color: #ffff99;
-		font-size:76%;
-		color: #333;
-		font-family: Arial;
-	}
-
-	.onepixborder {
-		border: 1px solid #000000;
-	}
-	.input_brownborder {
-		border: 1px solid #4F360A;
-		background-color: #FFFFFF;
-	}
-	
-	#mainbody {
-		background-image:url(images/pagebg.jpg);
-		background-position: center;
-		background-repeat: repeat-y;
-		padding-top:20px;
-	}
-	
-	a {
-		color:#4f360a;
-		text-decoration: underline;
-	}
-	
-	#menu {
-		margin-bottom:15px;
-	}
-	
-	#menu a {
-		font-weight: bold;
-		color: #4f360a;
-		font-size:12px;
-		margin-right: 12px;
-		text-decoration: none;
-	}
-	
-	#menu a:hover {
-		color:#dda01d;
-	}
-	
-	h1 {
-		font-size: 1.6em;
-		color: #4f360a;
-		margin:0 0 0.5em 0;
-	}
-
-	h2 {
-		font-size: 1.2em;
-		color: #4f360a;
-		margin:0 0 0.5em 0;
-	}
-	
-	#footer {
-		color: #4f360a;
-		font-size:0.8em;
-		position: relative;
-		bottom: 7px;
-	}
-	
-	.oddrow td,.oddrow th {
-	}
-	
-	.evenrow td,.evenrow th {
-		background-color:#ffffda;
-	}
-	
-	.actionbutton {
-		padding: 3px 10px 3px 10px;
-		background-color:#ddbb1d;
-		color:#4f370b;
-		font-weight:bold;
-		border: solid 1px #4f370b;
-		cursor:pointer;
-		text-decoration: none;
-	}
-	
-	.actionbutton:hover {
-		background-color:#de8d17;
-	}
-
-</style>
-<style type="text/css">
-
-div.box2 {
-	background-image:url(images/box-bg.jpg); 
-	background-repeat: repeat-y; 
-	background-position: center; 
-	width:360px;
-}
-
-.box2 div {
-	background-image:url(images/box-top.jpg); 
-	background-repeat: no-repeat; 
-	background-position: top center;
-}
-
-.box2 div div {
-	background-image:url(images/box-bottom.jpg); 
-	background-repeat: no-repeat; 
-	background-position: bottom center; 
-	padding:15px;
-	text-align:left;
-}
-
-.box2 div div div {
-	background-image:none;
-	padding:0;
-}
-
-
-</style>
-<script type="text/javascript" src="jquery.js"></script>
-
-<style type="text/css">
-	
-	.tabs div {
-		display:none;
-		padding:10px 0 10px 0;
-		border-top:solid 1px #CCC;
-		clear:both;
-	}
-	
-	.tabs ul {
-		list-style:none;
-		padding:0;
-		margin:0;
-	}
-	
-	.tabs ul li {
-		margin:0;
-		padding:0;
-		float:left;
-	}
-	
-	.tabs ul li a {
-		display:block;
-		padding:5px 15px 5px 15px;
-		border-top:solid 1px #CCC;
-		border-left:solid 1px #CCC;
-		border-right:solid 1px #CCC;
-		background-color:#F1F1F1;
-		color:#000;
-		color:#555;
-		font-weight:bold;
-		text-decoration: none;
-		margin-right:5px;
-		position:relative;
-		top:1px;
-		border-bottom:solid 1px #CCC;
-	}
-	
-	.tabs ul li:first-of-type a {
-		margin-left:5px;
-	}
-	
-	.tabs ul li a:hover {
-		color:#000;
-	}
-	
-	.tabs ul li a.active {
-		border-bottom:solid 1px #FFF;
-		background-color:#FFF;
-		color:#000;
-	}
-	
-	.box1 {
-		padding:15px; background-color:#fce7c2; border:solid 1px #4f370b;
-	}
-	
-	form {
-		padding:0;
-		margin:0;
-	}
-	
-</style>
-
-<script type="text/javascript">
-
-function multipack() {
-	if($('#multi_pack').attr('checked') == true) {
-		// expand it
-		$('#pieces').attr('value','');
-		$('#multi_pack_info').slideDown('fast',function() {
-			//$('#pieces').focus();
-		});
-		
-	}else{
-		// close it
-		$('#multi_pack_info').slideUp('fast',function() {
-			$('#pieces').attr('value','1');			
-		});
-	}	
-}
-
-$(document).ready(function() {
-	// make current tab active
-	var myFile = document.location.toString();
-	if (myFile.match('#')) { // the URL contains an anchor
-	  var myAnchor = myFile.split('#')[1];
-		$('.tabs div#' + myAnchor).show();
-		var original=$('.tabs div#' + myAnchor);
-	}else{
-		// Make first active
-		$('.tabs div:first').show();
-		var original=$('.tabs div:first');
-	}
-	$('.tabs ul li a[href="#' + original.attr('id') + '"]').addClass('active');
-	$('.tabs ul li a').each(function() {
-		$(this).click(function(e) {
-			$('.tabs div').hide();
-			$('.tabs ul li a').removeClass('active');
-			$(this).addClass('active');
-			$('.tabs div' + $(this).attr('href')).show();						
-		});
-	});
-	
-	// If Pieces > 0 show it
-	if($('#pieces').attr('value') > 1) {
-		$('#multi_pack_info').show();
-		$('#multi_pack').attr('checked',true);
-	}
-	
-});
-
-
-</script>
-
-</head>
-<body>
-
-<div align="center">
-	
-	<div style="background-image:url(images/header.jpg); height: 150px; background-repeat: no-repeat; background-position: center">
-		<table cellpadding="0" cellspacing="0" width="740">
-			<tbody><tr>
-				<td style="padding-top: 38px;">
-					<a href="index.php"><img src="images/spacer.gif" border="0" alt="Parcel Monkey" height="75" width="300"></a>
-				</td>
-				<td align="right" style="color: #FFF; font-weight:bold; font-size:18px; padding-top: 58px; line-height: 22px;">
-			
-					next day? SMS tracking?<br>
-					door to door courier? insurance?<br>
-					<span style="color:#ddbb1d">good bananas!</span>
-					
-				</td>
-			</tr><tr>
-		</tr></tbody></table>
-	</div>
-	
-	<div id="mainbody">
-		<div style="width:740px;" align="left">
-			
-			<div id="menu">
-				<a href="index.php">HOME</a><a href="news">NEWS</a><a href="professional-courier-company">ABOUT US</a><a href="faqs">FAQS</a><a href="api-integration">API INTEGRATION</a><a href="regular-sender">REGULAR SENDER?</a><a href="cart">CART</a><a href="orders">ORDERS</a><a href="contact-us">CONTACT US</a>
-			</div>
-			<h1>Privacy Policy</h1><p><a href="index.php"><img src="images/monkey/button_back.gif" border="0" alt="Back" width="53" height="17"></a></p><p>Parcel Monkey is committed to preserving the privacy of users of our web sites. Any information about you that we collect is used purely to improve the services we offer to you, and to make our web site's content and services easier to use and more appropriate to you. We may use this information, with your permission, to contact you with information about updates to our web site or other marketing information. DHL has never shared any information obtained on or from its web sites with any other organisation, and will not do so in future, unless required by law. Nor will we sell information obtained on this site to any party or parties external to DHL and its subsidiaries. <br><br>Certain areas of the Parcel Monkey web site including, but not limited to, Web Shipping require registration or a password for access. Information obtained from users of these areas may also be used for Parcel Monkeys marketing purposes. Parcel Monkey provides a right of access and rectification of personal data under the applicable legislation.<br><br>Certain shipment data will be provided to the authorities of the country of transit or destination for customs and tax clearance or for security screening, as required by the laws of such country. The information provided would usually include: shipper name and address, receiver name and address, description of the goods, number of pieces, weight and value of shipment.<br><br>Parcel Monkey reserves the right to change its privacy policy at any time with or without prior notice. Please check back frequently to be informed of any changes. By using the Parcel Monkey web site you agree to this Privacy Policy.</p>
-		    
-            <div align="right" style="vertical-align:middle"><br>
-              <a href="http://www.facebook.com/group.php?gid=56206860307"><img src="images/facebook.gif" alt="Follow us on Facebook" border="0"></a><a href="http://twitter.com/parcelmonkey/"><img src="images/twitter.gif" alt="Follow us on Twitter" border="0"></a>
-            <!-- AddThis Button BEGIN -->
-<script type="text/javascript">var addthis_pub="49feee7025602b73";</script>
-<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script><!-- AddThis Button END -->
-			</div>
-		</div>
-		
-	</div>
-	
-	<div>
-		<img src="images/base.jpg">
-	</div>
-	
-			<div id="menu">
-				<a href="index.php">HOME</a><a href="news">NEWS</a><a href="professional-courier-company">ABOUT US</a><a href="faqs">FAQS</a><a href="api-integration">API INTEGRATION</a><a href="regular-sender">REGULAR SENDER?</a><a href="cart">CART</a><a href="orders">ORDERS</a><a href="contact-us">CONTACT US</a>
-			</div>    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1777/xhtml"><head>
+  
+  <title>Privacy Policy | Parcel Monkey | Parcel Monkey</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="google-site-verification" content="3utezoctMmdOWc0RXJ3f0DtvCq90pdKSBjyba1Cvf-o">
+  
     
-	<div style="width: 740px;" align="left" id="footer">
-		<div align="center">Copyright © 2006-2009 Parcel Connect Limited company number 05856854 trading as Parcel Monkey. <a href="/privacy-policy">Privacy Policy</a> <a href="/terms-and-conditions">Terms &amp; Conditions</a> <a href="/site-map">Site Map</a>		  <br>
-		  <a href="http://www.buckleconsulting.com/"><br>
-		  Designed, Built and Powered by Buckle Consulting</a>	    </div>
-	</div>
-	
+    <meta name="description" content="Review the Parcel Monkey Privacy Policy.">
+    
+  <link rel="apple-touch-icon" href="/templates/monkey/images/iphone.jpg">
+  <link rel="stylesheet" type="text/css" href="templates/monkey/assets/css/common.css">
+  
+  <link rel="shortcut icon" href="/favicon.ico">
+    
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script type="text/javascript" src="templates/monkey/assets/js/jquery.cyclelite.js"></script>
+  
+  <script type="text/javascript" src="js/facebox/facebox.js"></script>
+           <link rel="stylesheet" type="text/css" href="js/facebox/facebox.css">
+           
+  <script type="text/javascript" src="templates/monkey/assets/js/common.js"></script>
+  
+
+    
+  <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+  
+</head>
+<body><script language="JavaScript">
+var axel = Math.random()+"";
+var a = axel * 10000000000000;
+document.write('<IMG SRC="http://uk.ebayobjects.com/4a;src=2536609;type=spotl897;cat=pagev497;ord='+ a + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
+</script><img src="http://uk.ebayobjects.com/4a;src=2536609;type=spotl897;cat=pagev497;ord=4167807559132.799?" width="1" height="1" border="0"><noscript>
+<IMG SRC="http://uk.ebayobjects.com/4a;src=2536609;type=spotl897;cat=pagev497;ord=1?" WIDTH=1 HEIGHT=1 BORDER=0></noscript><script language="JavaScript">
+var axel = Math.random()+"";
+var a = axel * 10000000000000;
+document.write('<IMG SRC="http://uk.ebayobjects.com/4a;src=2536609;type=spotl897;cat=daily378;ord='+ a + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
+</script><img src="http://uk.ebayobjects.com/4a;src=2536609;type=spotl897;cat=daily378;ord=2352354534282.579?" width="1" height="1" border="0"><noscript><IMG SRC="http://uk.ebayobjects.com/4a;src=2536609;type=spotl897;cat=daily378;ord=1?" WIDTH=1 HEIGHT=1 BORDER=0></noscript>
+<div align="center">
+  
+  <!-- HEADER BAR -->
+  <div id="header">  
+    <div class="pagewidth">
+      
+      <a href="/" id="logo"><img src="templates/monkey/assets/img/logo.gif" border="0"></a>
+      <a href="/" id="tagline"><img src="templates/monkey/assets/img/tagline.gif" border="0"></a>
+            
+    </div>
+  </div>
+  <!-- // HEADER BAR -->
+  
+  <!-- MAIN MENU -->
+  <div id="mainmenu">
+    <div class="pagewidth">
+      
+      <a class="first" href="/">HOME</a>
+      <a href="/quote.php">QUOTE</a>
+      <a href="/uk-parcel-delivery">UK PARCELS</a>
+      <a href="/international-parcel-delivery">INTERNATIONAL PARCELS</a>
+      <a href="/about-us">ABOUT US</a>
+      <a href="/faqs">FAQs</a>
+      
+            <a href="http://blog.parcelmonkey.co.uk">BLOG</a>
+      <a href="/reviews.php">REVIEWS</a>
+            
+      
+      <a href="/contactus.php">CONTACT US</a>
+      
+            <a class="right end" href="/register.php" style="color:#c42126;">REGISTER</a>
+      <a class="right" href="/login.php">LOGIN</a>
+      
+            
+      
+            
+    </div>
+  </div>
+  <!-- // MAIN MENU -->
+  
+  <!-- GRASS BG -->
+  
+  <div id="grass">
+    <div class="pagewidth">
+    
+      <div id="top" style="display:none;">
+        
+        
+        <div id="quote" style="">
+          
+          <form method="post" action="/quote.php">
+          
+          <select class="services" style="font-size:14px; background-color:#FFF; border:0; width:280px; position:absolute; left:92px; top:68px;">
+            <option value="">UK &amp; International Parcels / Pallets</option>
+            <option value="/quoteSpecialDeliveryMail.php">Secure Mail Service</option>
+            <option value="/import-export">Container Import/Export</option>
+          </select>  
+        
+          <input name="length[]" type="hidden" value="1">
+          <input name="width[]" type="hidden" value="1">
+          <input name="height[]" type="hidden" value="1">
+          <input name="weight[]" type="hidden" value="1">
+          
+          <input name="length[]" value="" type="text" style="border:0; font-size:14px; font-weight:Bold; position:absolute; left:90px; top:103px; width:35px;">
+          <input name="width[]" value="" type="text" style="border:0; font-size:14px; font-weight:Bold; position:absolute; left:157px; top:103px; width:35px;">
+          <input name="height[]" value="" type="text" style="border:0; font-size:14px; font-weight:Bold; position:absolute; left:265px; top:103px; width:35px;">
+
+
+          <input name="weight[]" id="weight" class="weight" value="" type="text" style="border:0; font-size:14px; font-weight:bold; position:absolute; left:88px; top:138px; width:250px;">
+
+          <a href="/quote.php" style="width:134px; height:30px; position:absolute; top:208px; left:16px;"><img width="134" height="30" border="0" src="templates/monkey/images/spacer.gif"></a>
+          
+          <a href="/quote.php?pallet" style="width:114px; height:30px; position:absolute; top:208px; left:156px;"><img width="114" height="30" border="0" src="templates/monkey/images/spacer.gif"></a>
+
+          <input type="image" src="templates/monkey/images/spacer.gif" style="width:95px; height:30px; position:absolute; top:208px; left:283px;">
+          
+          <select name="destination" style="font-size:14px; background-color:#FFF; border:0; width:255px; position:absolute; left:117px; top:171px;">
+
+            <option value="1">Afghanistan</option><option value="2">Albania</option><option value="3">Algeria</option><option value="4">American Samoa</option><option value="5">Andorra</option><option value="6">Angola</option><option value="7">Anguilla</option><option value="8">Antigua</option><option value="9">Argentina</option><option value="10">Armenia</option><option value="11">Aruba</option><option value="12">Australia</option><option value="13">Austria</option><option value="14">Azerbaijan</option><option value="15">Bahamas</option><option value="16">Bahrain</option><option value="17">Bangladesh</option><option value="18">Barbados</option><option value="19">Belarus</option><option value="20">Belgium</option><option value="21">Belize</option><option value="22">Benin</option><option value="23">Bermuda</option><option value="24">Bhutan</option><option value="25">Bolivia</option><option value="26">Bonaire</option><option value="27">Bosnia Herzegovina</option><option value="28">Botswana</option><option value="29">Brazil</option><option value="30">Brunei</option><option value="31">Bulgaria</option><option value="32">Burkina Faso</option><option value="33">Burundi</option><option value="34">Cambodia</option><option value="35">Cameroon</option><option value="36">Canada</option><option value="37">Canary Islands</option><option value="38">Cape Verde Islands</option><option value="231">Caroline Islands</option><option value="39">Cayman Islands</option><option value="40">Central African Rep.</option><option value="41">Chad</option><option value="43">Chile</option><option value="44">China People's Rep.</option><option value="232">Chuuk Island</option><option value="45">Colombia</option><option value="46">Comoros Islands</option><option value="47">Congo</option><option value="48">Congo, Dem. Rep.</option><option value="49">Cook Islands</option><option value="50">Costa Rica</option><option value="51">Croatia</option><option value="52">Cuba</option><option value="53">Curacao</option><option value="54">Cyprus</option><option value="55">Czech Republic</option><option value="56">Denmark</option><option value="57">Djibouti</option><option value="58">Dominica</option><option value="59">Dominican Rep.</option><option value="60">East Timor</option><option value="241">Ebeye Island</option><option value="61">Ecuador</option><option value="62">Egypt</option><option value="63">El Salvador</option><option value="64">Equatorial Guinea</option><option value="65">Eritrea</option><option value="66">Estonia</option><option value="67">Ethiopia</option><option value="68">Falkland Islands</option><option value="69">Faroe Islands</option><option value="70">Fiji</option><option value="71">Finland</option><option value="72">France - Paris</option><option value="73">France All Other Locations</option><option value="74">French Guiana</option><option value="75">Gabon</option><option value="76">Gambia</option><option value="77">Georgia</option><option value="78">Germany - Cologne</option><option value="79">Germany - Frankfurt</option><option value="80">Germany All Other Locations</option><option value="81">Ghana</option><option value="82">Gibraltar</option><option value="83">Greece</option><option value="84">Greenland</option><option value="85">Grenada</option><option value="86">Guadeloupe</option><option value="87">Guam</option><option value="234">Guam</option><option value="88">Guatemala</option><option value="244">Guernsey</option><option value="89">Guinea Rep.</option><option value="90">Guinea-Bissau</option><option value="91">Guyana</option><option value="92">Haiti</option><option value="93">Honduras Rep.</option><option value="94">Hong Kong</option><option value="95">Hungary</option><option value="96">Iceland</option><option value="97">India</option><option value="98">Indonesia</option><option value="99">Iran</option><option value="100">Iraq</option><option value="101">Ireland Republic of</option><option value="253">Isle of Mann</option><option value="250">Isles of Scilly</option><option value="102">Israel</option><option value="103">Italy</option><option value="104">Ivory Coast</option><option value="105">Jamaica</option><option value="106">Japan</option><option value="243">Jersey</option><option value="107">Jordan</option><option value="108">Kazakhstan</option><option value="109">Kenya</option><option value="110">Kiribati</option><option value="111">Korea, D.P.R of (North)</option><option value="112">Korea, Rep of (South)</option><option value="235">Koror Island</option><option value="236">Kosrae Island</option><option value="113">Kuwait</option><option value="114">Kyrgyzstan</option><option value="115">Laos Peoples Dem. Rep</option><option value="116">Latvia</option><option value="117">Lebanon</option><option value="118">Lesotho</option><option value="119">Liberia</option><option value="120">Libya</option><option value="121">Liechtenstein</option><option value="122">Lithuania</option><option value="123">Luxembourg</option><option value="124">Macau</option><option value="125">Macedonia</option><option value="126">Madagascar</option><option value="242">Majuro Island</option><option value="127">Malawi</option><option value="128">Malaysia</option><option value="129">Maldives</option><option value="130">Mali</option><option value="131">Malta</option><option value="245">Manua Island</option><option value="132">Marshall Islands</option><option value="133">Martinique</option><option value="134">Mauritania</option><option value="135">Mauritius</option><option value="136">Mayotte</option><option value="137">Mexico</option><option value="233">Micronesia</option><option value="138">Moldova, Rep of</option><option value="139">Monaco</option><option value="140">Mongolia</option><option value="141">Montenegro</option><option value="142">Montserrat</option><option value="143">Morocco</option><option value="144">Mozambique</option><option value="145">Myanmar (Burma)</option><option value="146">Namibia</option><option value="147">Nauru, Rep of</option><option value="148">Nepal</option><option value="149">Netherlands</option><option value="247">Netherlands Antilles</option><option value="150">Nevis</option><option value="151">New Caledonia</option><option value="152">New Zealand</option><option value="153">Nicaragua</option><option value="154">Niger</option><option value="155">Nigeria</option><option value="156">Niue</option><option value="248">Northern Ireland</option><option value="157">Norway</option><option value="158">Oman</option><option value="252">Orkney Isles</option><option value="159">Pakistan</option><option value="237">Palau</option><option value="160">Panama</option><option value="161">Papua New Guinea</option><option value="162">Paraguay</option><option value="163">Peru</option><option value="164">Philippines</option><option value="238">Pohnpei Island</option><option value="165">Poland</option><option value="166">Portugal</option><option value="167">Puerto Rico</option><option value="168">Qatar</option><option value="169">Reunion, Island of</option><option value="170">Romania</option><option value="239">Rota Island</option><option value="172">Rwanda</option><option value="173">Saipan</option><option value="174">Samoa</option><option value="175">San Marino</option><option value="176">Sao Tome &amp; Principe</option><option value="177">Saudi Arabia</option><option value="178">Senegal</option><option value="179">Serbia</option><option value="180">Seychelles</option><option value="251">Shetland Isles</option><option value="181">Sierra Leone</option><option value="182">Singapore</option><option value="183">Slovakia</option><option value="184">Slovenia</option><option value="185">Solomon Islands</option><option value="186">Somalia</option><option value="187">Somaliland Rep. Of</option><option value="188">South Africa</option><option value="189">Spain</option><option value="190">Sri Lanka</option><option value="191">St Barthelemy</option><option value="192">St Eustatius</option><option value="193">St Kitts</option><option value="194">St Lucia</option><option value="195">St Maarten</option><option value="196">St Vincent</option><option value="197">Sudan</option><option value="198">Suriname</option><option value="199">Swaziland</option><option value="200">Sweden</option><option value="201">Switzerland</option><option value="202">Syria</option><option value="203">Tahiti</option><option value="204">Taiwan</option><option value="205">Tajikistan</option><option value="206">Tanzania</option><option value="207">Thailand</option><option value="208">Togo</option><option value="209">Tonga</option><option value="210">Trinidad &amp; Tobago</option><option value="211">Tunisia</option><option value="212">Turkey</option><option value="213">Turkmenistan</option><option value="214">Turks &amp; Caicos Islands</option><option value="246">Tutuila Island</option><option value="215">Tuvalu</option><option value="216">Uganda</option><option value="217">Ukraine</option><option value="218">United Arab Emirates</option><option selected="" value="219">United Kingdom</option><option value="220">Uruguay</option><option value="221">USA</option><option value="222">Uzbekistan</option><option value="223">Vanuatu</option><option value="224">Venezuela</option><option value="225">Vietnam</option><option value="226">Virgin Islands, British</option><option value="227">Virgin Islands, US</option><option value="240">Yap Island</option><option value="228">Yemen</option><option value="229">Zambia</option><option value="230">Zimbabwe</option>            
+            
+          </select>
+          
+        </form>
+          
+        </div>
+        
+        
+      </div>
+      
+      <div id="content" style="padding-top:20px;">
+        
+                <div class="fullbox">
+          <div style="padding:45px;">
+          <div class="box white"><h1>Privacy Policy</h1><br>Effective Date: 11/11/2009<br>Last Updated: 11/11/2009<br><br>This Privacy Policy describes our privacy practices with respect to information we collect about our customers and visitors who (1) Use, browse and shop at the Parcel Monkey website and (2) Register to use our site. <br><br>Parcel Monkey understands its legal obligations conferred to it under the Data Protection Act and will take every reasonable step to follow its guidelines, ensuring your protection as a User of the Parcel Monkey Site.<br><br><h2>COMMITMENT TO PRIVACY</h2><br>As a Broker for Parcel Delivery services, Parcel Monkey knows that you care about how your information is used and shared.&nbsp;We respect your right to privacy.&nbsp;Your ability to make informed choices about the use of your information is very important to us.&nbsp;We want to make sure that you understand the type of information we along with Fed Ex and DHL collect about you, how it is used and the safeguards implemented to protect it.<br><br><h2>WHAT INFORMATION DOES PARCEL MONKEY COLLECT?</h2><br>The type of information that we collect and retain depends upon your interaction with our site.&nbsp;Here is a brief overview of the two main types of interactions.<br><br>Information You Give Us – We collect the personally identifiable information you provide to us when registering for a user account.&nbsp;This will include your full contact details including your name and address.&nbsp;You have the final decision on whether to proceed with any activity that requests personal information.&nbsp;However, if you do not wish to provide the information needed for a user account or transaction, you may not be able to complete it.<br><br>Information Collected and Stored Automatically – When you interact with the Parcel Monkey web site, we may maintain a record of the following types of information:<br><br>Your Internet Protocol (“IP”) address or other technical information such as a referring web site or the path you took to access the Parcel Monkey website<br><br>The amount of times each User has visited the web site and the amount of completed orders that User has made<br><br><h2>HOW DO WE USE THE INFORMATION WE COLLECT?</h2><br>The personal information we collect is used to process your requests and transactions, to provide you with high quality service, to tell you about opportunities we think will be of interest to you and to customize your experience on our site. <br><br><h2>WITH WHOM DO WE SHARE YOUR INFORMATION?</h2><br>Parcel Monkey does not sell or rent your personally identifiable information to third parties.&nbsp;Under certain circumstances, Parcel Monkey may share your personally identifiable information with third parties as set forth below.&nbsp;In such circumstances, we provide only the information necessary to facilitate the function or to provide the service for which it has been shared.&nbsp;These third parties are required to keep the information confidential and are not permitted to use the personal information provided by us for any purpose, except as authorized by Parcel Monkey.<br><br>Parcel Monkey may share your information with third parties such as:<br><br><strong>DHL</strong> – We may share your personally identifiable information with the trusted service provider in order to dispatch all items delivered within the United Kingdom.&nbsp;DHL offers its own Privacy Policy which we highly recommend reading.&nbsp;The Privacy Policy can be accessed using the Link below:<br><br>http://www.dhl.co.uk/publish/gb/en/information/customer/legal/privacy.high.html<br><br><strong>FedEx</strong> - We may share your personally identifiable information with the trusted service provider in order to dispatch all items delivered internationally.&nbsp;FedEx offers its own Privacy Policy which we highly recommend reading.&nbsp;The Privacy Policy can be accessed using the Link below:<br><br>http://fedex.com/kr_english/privacystatement.html<br><br>Parcel Monkey reserves the right to disclaim any liability for the Data Processing activities of our distributors (listed above) which act as independent data processing controllers.&nbsp;Should there be a problem accessing the Distributors Privacy Policy using the links provided, please take the appropriate measure necessary in ensuring you have fully read and understood the Privacy Policy which applies to you.<br><br><h2>CHANGES OF PRIVACY POLICY</h2><br>We reserve the right to change this Privacy Policy at any time with or without prior notice.&nbsp;Please check back frequently to be informed of any changes.<br><br><h2>CONSENT</h2><br>By providing us with your personal information when registering at our site or when you use our service, you consent to the collection, use and disclosure by Parcel Monkey of your personal information as provided in this Privacy Policy.<br><br>Your consent includes the retention of personal information that is collected through our Site, including your personal information that you submit through a registration process, for as long as you are registered at our site unless and until you withdraw your consent.<br><br>By using the Parcel Monkey web site and the services it provides, you agree to have read and understood the Privacy Policy and are aware of your legal obligations to be bound by this agreement.</div>          </div>
+        </div>
+              
+      </div>
+    
+    </div>
+  </div>
+  
+  <!-- // GRASS BG -->
+  
+  
+  <!-- FOOTER -->
+  <div id="footer">
+    <div class="pagewidth">
+      
+  
+      <div class="fullbox">
+        <div class="box" style="padding: 15px 30px 15px 30px;">
+          
+          <table cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+              <td width="33%" valign="top">
+                
+                <div style="padding: 0 0 0 10px;">
+                  
+                                    
+                  <div class="boxheading">Customer Login</div>
+                
+                  <form method="post" action="/login.php" class="bigform"> 
+                    <div><input type="text" name="UserEmail" class="textinput emptyBlank" style="width:250px; padding:5px;" value="email"></div>
+                    
+                    <div>
+                      <div class="pwswitch">
+                        <input type="text" name="UserPassword" class="textinput" style="width:250px; padding:5px;" value="password">
+                        <input type="password" name="UserPassword" class="textinput" style="width:250px; padding:5px;" value="">
+                      
+                      </div>
+                    </div>
+                    <div>
+                      <input type="submit" value="Login"> &nbsp; &nbsp;&nbsp; <a href="/forgottenpassword.php">Forgotten Password</a> / <a href="/register.php">Register Free</a>
+                    </div>
+                  </form>
+                  
+                                  
+                </div>
+                
+                
+              </td>
+              <td width="33%" valign="top">
+                
+                <div style="padding: 0 10px 0 10px;">
+              
+                  <div class="boxheading">Track &amp; Trace</div>
+                  
+                  <div style="margin:7px 0 21px 0;">Enter your tracking number below:</div>
+                
+                  <form target="_blank" method="post" action="/tracking.php" class="bigform"> 
+                    <div><input type="text" name="tracking" class="textinput emptyBlank" style="width:250px; padding:5px;" value="PM_######_######"></div>
+                    <div>
+                      <input type="submit" value="Track">
+                    </div>
+                  </form>
+                
+                </div>
+              
+              </td>
+              <td width="33%" valign="top">
+              
+                <div style="padding: 0 0 0 10px; line-height:1.6em;">
+              
+                  <div class="boxheading">
+                    Customer Reviews
+                    <div style="float:right;"><a style="font-weight:normal;" href="/reviews.php">Read more</a></div>
+                  
+                  </div>
+                  
+                                    
+                  <div>
+                    <img src="modules/feedback/templates/star-yellow.gif" border="0">
+                    <img src="modules/feedback/templates/star-yellow.gif" border="0">
+                    <img src="modules/feedback/templates/star-yellow.gif" border="0">
+                    <img src="modules/feedback/templates/star-yellow.gif" border="0">
+                    <img src="modules/feedback/templates/star-yellow.gif" border="0">                    
+                  </div>
+                  
+                  
+                  <div>
+                    EXCELLENT service! Couldn't believe how quickly + well organised it all was AND delivered as promised before1pm on Saturday! Thanks 2 U all!                  </div>
+                    
+                  <div style="font-size:0.8em;">
+                    Today at 00:21                  </div>
+                    
+
+                
+                </div>
+              
+              </td>
+            </tr>
+          </tbody></table>
+          
+          
+        </div>    
+      </div>
+      
+            
+      <!-- FOOTER LINKS -->
+      <div id="footerlinks">
+        Copyright © 2006-2011 Parcel Monkey Limited. Company No. 07097496 trading as Parcel Monkey. VAT No. 981509987 <a href="/privacy-policy">Privacy Policy</a> <a href="/terms-and-conditions">Terms &amp; Conditions</a> <a href="/site-map">Site Map</a>
+      </div>
+      <!-- // FOOTER LINKS -->
+      
+      <br>&nbsp;
+      
+      <div style="padding-left:15px;" id="intlflags">
+        
+        <div style="float: left;  width: 700px;">
+
+          <div style="margin-bottom:3px; font-size:0.8em; color:#fff;"><strong>Europe</strong></div>
+          <a href="http://www.parcelmonkey.co.uk"><img style="width: 24px; height:auto;" src="images/flags/United%20Kingdom.png" border="0" alt="United Kingdom" title="United Kingdom"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Ireland.png" border="0" alt="Ireland" title="Ireland"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Germany.png" border="0" alt="Germany" title="Germany"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/France.png" border="0" alt="France" title="France"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Belgium.png" border="0" alt="Belgium" title="Belgium"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Italy.png" border="0" alt="Italy" title="Italy"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Spain.png" border="0" alt="Spain" title="Spain"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Denmark.png" border="0" alt="Denmark" title="Denmark"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Portugal.png" border="0" alt="Portugal" title="Portugal"></a>
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Sweden.png" border="0" alt="Sweden" title="Sweden"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Switzerland.png" border="0" alt="Switzerland" title="Switzerland"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Turkey.png" border="0" alt="Turkey" title="Turkey"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Netherlands.png" border="0" alt="Netherlands" title="Netherlands"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Norway.png" border="0" alt="Norway" title="Norway"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Poland.png" border="0" alt="Poland" title="Poland"></a> 
+           
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Austria.png" border="0" alt="Austria" title="Austria"></a> 
+          <a href="#intlcomingsoon" class="facebox"></a><a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Andorra.png" border="0" alt="Andorra" title="Andorra"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Cyprus.png" border="0" alt="Cyprus" title="Cyprus"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Czech%20Republic.png" border="0" alt="Czech Republic" title="Czech Republic"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Denmark.png" border="0" alt="Denmark" title="Denmark"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Estonia.png" border="0" alt="Estonia" title="Estonia"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Finland.png" border="0" alt="Finland" title="Finland"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Gibraltar.png" border="0" alt="Gibraltar" title="Gibraltar"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Greece.png" border="0" alt="Greece" title="Greece"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Hungary.png" border="0" alt="Hungary" title="Hungary"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Latvia.png" border="0" alt="Latvia" title="Latvia"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Liechtenstein.png" border="0" alt="Liechtenstein" title="Liechtenstein"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Lithuania.png" border="0" alt="Lithuania" title="Lithuania"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Luxembourg.png" border="0" alt="Luxembourg" title="Luxembourg"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Malta.png" border="0" alt="Malta" title="Malta"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Monaco.png" border="0" alt="Monaco" title="Monaco"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Romania.png" border="0" alt="Romania" title="Romania"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/San%20Marino.png" border="0" alt="San Marino" title="San Marino"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Slovakia.png" border="0" alt="Slovakia" title="Slovakia"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Slovenia.png" border="0" alt="Slovenia" title="Slovenia"></a> 
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/Vatican%20City.png" border="0" alt="Vatican City" title="Vatican City"></a> 
+        </div>
+
+        <div style="float: left; margin-bottom:3px; margin-left:24px;">
+          <div style="margin-bottom:3px; font-size:0.8em; color:#fff;"><strong>Asia</strong></div>
+          <a href="http://www.parcelmonkey.in"><img style="width: 24px; height:auto;" src="images/flags/India.png" border="0" alt="India" title="India"></a>
+        </div>
+
+        <div style="float: left; margin-bottom:3px; margin-left:24px;">
+          <div style="margin-bottom:3px; font-size:0.8em; color:#fff;"><strong>Americas</strong></div>
+          <a href="#intlcomingsoon" class="facebox"><img style="width: 24px; height:auto;" src="images/flags/United%20States%20of%20America.png" border="0" alt="USA" title="USA"></a>
+        </div>
+
+
+        <div style="clear:both;"></div>
+
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+      
+        <div id="intlcomingsoon" style="display:none;">
+          <img src="images/goingglobal.jpg" border="0">
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+  <!-- // FOOTER -->
+  
+  
+  
+  
 </div>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -306,10 +328,12 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
-var pageTracker = _gat._getTracker("UA-8152899-1");
+var pageTracker = _gat._getTracker("UA-453413-5");
 pageTracker._trackPageview();
-} catch(err) {}
-</script>
+} catch(err) {}</script>
+
+
+<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1568.js"> </script>
 
 
 </body></html>
