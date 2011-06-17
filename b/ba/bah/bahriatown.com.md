@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bahriatown.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215010327id_/http%3A//www.bahriatown.com/content/view/33/44) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahriatown.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617021400id_/http%3A//www.bahriatown.com/content/view/33/44) for the most accurate reproduction.*
 
 # Privacy Policy - Bahria Town - Your Lifestyle Destination
 
