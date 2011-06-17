@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profootballfocus.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216214520id_/http%3A//www.profootballfocus.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballfocus.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617045302id_/http%3A//www.profootballfocus.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ProFootballFocus.com
 
