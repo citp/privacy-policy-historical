@@ -1,146 +1,191 @@
-> *The following text is extracted and transformed from the vulture.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617063456id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vulture.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617045918id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
 
 # New York Magazine - Nymag.com - Privacy Policy
 
-_Amended as of April 16, 2010_ **
+**New York Media Privacy Policy – Highlights**
+
+The New York Media Privacy Policy describes the information that the New York Magazine, Grub Street and MenuPages websites (collectively, the “Sites” or “we”) collect about you, how we use that information, and the choices you can make about the uses of your personal information. This summary gives some highlights from our Privacy Policy, but you should read the whole [Privacy Policy](https://web.archive.org/newyork/privacy/index.html#target) to fully understand New York Media’s privacy practices.
+
+**What Information Do We Collect?**
+
+  * We collect personal information you give us, either by registering as a member on our Sites or by participating in Interactive Areas available on our Sites. Personal information is information that identifies a person, like a name or address. 
+  
+
+  * We may collect demographic information about you (e.g., age, gender, geographic location) from third parties to enhance our advertising activities. 
+  
+
+  * We collect certain other non-identifying information automatically, such as statistics on website usage patterns through the use of cookies and other technologies, when you visit our Sites. 
+
+
+
+**How Do We Use the Information We Collect?**
+
+  * Our Sites use your personal information to communicate with you and to complete transactions. 
+  
+
+  * We may share your personal information and aggregate information with third parties who co-sponsor surveys, contests or sweepstakes or with whom we partner for joint activities. 
+  
+
+  * We may share your personal information with operational providers that help us fulfill certain business functions and with other third parties to comply with legal processes such as subpoenas and court orders and when we believe in good faith that the law requires the sharing of your personal information.
+  
+
+  * We or our operational providers use information collected through cookies and other technologies to analyze site usage activity and patterns to help improve the Sites. <
+  
+
+  * Our third party advertising company partners may collect non-identifiable information derived from cookies and other technologies about your visits to our Sites. They may combine this information with data about your web activities at third party websites or with demographic information to identify your likely interests so that they and we can provide you with more useful and relevant advertisements. This is often called Behavioral Advertising. 
+
+
+
+**What Choices Do I Have About How My Personal Information Is Used?**
+
+  * Once you provide our Sites with personal information, we will correct, update, or remove your details or process your request to be removed from future communications if you contact us using the information listed below.
+  
+
+  * Additionally, you can opt out of any email communications you receive from our Sites using the opt-out links found at the bottom of each email we send. 
+  
+
+  * If you would like to opt-out of the Behavioral Advertising done by our Sites’ third party advertising company partners, most are NAI members. You can [click here](http://www.networkadvertising.org/managing/opt_out.asp) for more information on NAI, including instructions on how to opt out of this advertising.
+
+
+
+**How Can I Ask Questions or Raise Concerns?**
+
+Please do not hesitate to contact us if you have any questions about this Privacy Policy. 
+
+_Contact us at:_
+
+Attn: Privacy Department  
+75 Varick Street, 4th Floor, New York, New York 10013   
+Phone: (212) 508-0700  
+Email: [privacy@nymag.com](mailto:privacy@nymag.com)
+
+* * *
+
+**New York Media Privacy Policy**
+
+_Amended as of February 10, 2011_ **
 
 Click below for specific information about:
 
 **  
-Website Membership Eligibility and Participation  
-Types of Information Collected and Purpose  
-Use and Collection of Information by Operational Providers  
-Disclosure to Third Parties  
-Cookies and Tracking Devices  
-Third Party Advertising  
-Third Party Cookies  
-Our Security Procedures    
-Children's Privacy Policy  
+What Does This Privacy Policy Cover?  
+What Information Do We Collect?  
+How Do We Use the Information We Collect?  
+Who Do We Share Your Personal Information With?  
+What Choices Do I Have About How My Personal Information Is Used?  
+What About Links to Third Party Websites?  
+Is My Personal Information Protected?  
+What About Changes to This Privacy Policy?  
+What if NYMag.com or MenuPages.com is Sold or Goes Out of Business?   
+What About Children’s Privacy?  
+How Can I Ask Questions or Raise Concerns?  
 [Terms of Usage Agreement ](https://web.archive.org/newyork/terms/index.html)
 
-Safeguarding your privacy is very important to us. We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of our website communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below. 
+**What Does This Privacy Policy Cover?**
 
-**Who We Are And How To Reach Us**
+New York Media LLC (“New York Media”) owns and operates the New York Magazine ("NYMag.com"), Grub Street (“GrubStreet.com”) and the MenuPages websites (“MenuPages.com”) (collectively, the “Sites” or “we”). New York Media respects and values your privacy. We have created this Privacy Policy to describe the personal information we collect when you visit our Sites and how we use that information. This Privacy Policy applies to NYMag.com, GrubStreet.com and MenuPages.com. 
 
-New York Media LLC, doing business in the State of New York as New York Media (DE) LLC owns and operates the New York Magazine website ("NYMag.com"). NYMag.com is a division of New York Media LLC, doing business in the State of New York as New York Media (DE) LLC and is the only operator of this website. You may contact us directly if you have any questions regarding the content and material on our website or if you have any questions about our privacy policies. Please contact our Privacy Officer at:
+* * *
 
-Michael Silberman   
-Online General Manager  
-NewYorkMagazine.com   
-75 Varick Street  
-New York, NY 10013  
-Phone: (212) 508-0803  
-E-mail: [michael.silberman@newyorkmag.com](mailto:michael.silberman@newyorkmag.com)   
-[Submit a Comment](https://web.archive.org/newyork/contactus/)
+**What Information Do We Collect?**
 
-**Website Membership and Participation Eligibility**
+**Personal Information**  
+Personal information is any information that allows our Sites to identify an individual consumer, such as a name, phone number, home address or email address. Certain information is only personal information when it is linked to other information, such as your name. For example, your birth date and gender are only personal information when associated with you. To become a member of one of our Sites or to access certain of our services, such as contests, you may be required to provide personal information such as your name, home and email addresses, birth date and gender. Similar information may also be required to participate in other online activities, special events, contests, sweepstakes or Interactive Areas. "Interactive Areas" include, when offered, chat rooms, bulletin boards, message boards, article or blog comment areas, reader photo upload, reader ratings and reviews, saving favorite restaurants or fashion looks, SMS text messaging and mobile alerts.   
+_Posting Reviews or Comments and Use of Interactive Areas_  
+We collect information when you submit it for posting on our Sites. Any communication you submit or that may be posted to any publicly viewable area of our Sites, such as a comment on a blog posting or a review, is a public communication and may be viewed by the general public. Therefore, you acknowledge and understand that you have no expectation of privacy or confidentiality in the content you submit to such services over our Sites, whether or not it includes personal information. If you display your personal information in any communication submitted to such services or features, other individuals may collect and use your personal information. The Sites are not responsible for, nor can we guarantee the protection of, any personal information you disclose in a communication submitted to such services or features for posting or contained in an email or other communication submitted to us for such posting, and thus, you acknowledge that if you disclose personal information in any such material, you do so at your own risk. 
 
-Parts of our website may require that you be thirteen (13) years of age or older to participate and/or be a member and receive membership benefits, and you must be eighteen (18) years of age or older to participate in our A-List Invitations. We may conduct other contests, sweepstakes and/or special events over our site. To participate in these events, you must meet the designated minimum age requirements (for example, twenty-one (21) years of age or older) for the specific event. Please see our Terms of Usage Agreement for additional information on membership and/or participation on our website. 
+**Non-Personal Information**  
+To gauge the effectiveness of our Sites, we may collect non-personal information about our members and visitors, such as Internet server and browser identification, the Internet service provider used, clickstream information, the web page from which a person enters our site, webpages visited, duration of visit and domain type. However, this information does not reveal your identity. We gather this information through the use of cookies and similar devices as discussed below.
 
-**Collection of Personal Information**
+* * *
 
-We provide various informative, educational, and entertaining features as part of this website. To operate these features, we collect certain non-personal and personal information from our visitors for specific purposes. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website activities will be canceled without notice if at any time we discover that you provide false information, or violate any term of our Privacy Policy or our Terms of Usage Agreement. We may retain personal information for an indefinite amount of time to preserve our database and to comply with various federal and state laws. 
+**How Do We Use the Information We Collect?**
 
-**Registration for Participation in Website Activities and Services and Services**
+**Use of Personal Information**  
+We collect personal information for several important purposes, including to operate our membership base, protect the security of our visitors and the Sites, improve our service and Sites, distribute our newsletters, notify the winners of our contests and sweepstakes, allow participation in Interactive Areas, and for future marketing and/or promotional use. We may also survey visitors about various topics, including local events and experiences, media consumption preferences and how we can improve our Sites and services. Response to our surveys is entirely voluntary. The Sites or our operational providers may enhance or merge the information we collect with other data collected from other sources, such as demographic data including age and gender, to enhance our marketing activities. 
 
-**Use and Collection of Information by NYMag.com**
+We may offer SMS text message mobile alerts for our restaurant and bar listings. We may also offer an "Email This” feature that allows visitors to email a link to another person to inform them about an article or feature on the Sites. On NYMag.com, we may also offer an “Email Album” feature that allows members to share a fashion album they create with others. If you email your fashion albums to others, the emailed albums will automatically be made public for anyone to access. You can also choose to make your albums private so only you can access them. We do not retain telephone numbers or email addresses collected for these purposes after sending the SMS text message or email. 
 
-To participate as a member of our website, or in online activities, special events, contests, sweepstakes or Interactive Areas ("Interactive Areas" include chat rooms, bulletin boards, message boards or auditoriums, article or blog comment areas, SMS text messaging, mobile alerts, and mobile e-mail updates), you may be required to provide personally identifiable information such as your name, home and e-mail addresses, telephone number, birth date, gender and affiliation(s) with and within third party website(s) ("personal information"). We may also survey visitors about various topics, including local events and experiences, television viewing preferences and how we can improve our website and services. Response to our surveys is entirely voluntary. 
+We may produce contests, sweepstakes and special events with the support of promotional partners. Personal information collected by our Sites in conjunction with such events may also be used for the marketing of additional services and events by the Sites and/or their promotional partners. Please see the rules of each individual event and any applicable privacy policies for information on the choices you can exercise with respect to the use of your personal information. To the extent there is a conflict between this privacy policy and the rules or policies applicable to a special event, the rules and policies associated with the special event shall govern. 
 
-We offer SMS text message mobile alerts and mobile e-mail updates as a text messaging/mobile e-mail service for our restaurant and bar listings. We do not collect the sender's e-mail or telephone number on this feature. 
+For your convenience, we may provide the opportunity to purchase certain goods, merchandise and services through the Sites (including, without limitation, print magazine subscriptions and special events). Companies other than New York Media process these transactions. We may also use outside companies to provide or operate Interactive Areas. We call these companies that conduct our e-commerce operations, order and contest fulfillment and/or contract services "operational providers." They are third parties that perform services on our behalf. If you choose to use these optional services, our operational providers will request certain personal information in order to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of use and privacy policies. We will store this information in our membership database. We may also share personal information with operational providers for the purpose of facilitating your experience on our Sites, for example, to allow you to register, log in, post a comment or receive an email newsletter. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested service or order. However, the Sites are not responsible for the collection, use and disclosure practices of operational providers.
 
-We collect personal information for several important purposes, including to operate our membership base, protect the security of our visitors and the site, improve our service and website, distribute our newsletters, notify the winners of our contests and sweepstakes, allow participation in specified activities or Interactive Areas and for future marketing and/or promotional use about our program service or website. We may also offer an "Email This” feature that allows visitors to e-mail a link to another person to inform them about the NYMag.com site and our features. We do not collect the sender's or the recipient's e-mail information on this feature. 
+**Use of Non-Personal Information Including Cookies**  
+The Sites use cookies and other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a website. The cookie is able to store information such as data about your computer, the type of browser you use and how many times your computer visits a certain site. The cookies we use on the Sites do not contain any personal information. Cookies enable us to track how often visitors are visiting our Sites and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers and user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your browser software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of the content on our Sites. However, you may find that some areas on the Sites will be slower, or may not function at all, and you may not be able to participate in certain activities, such as commenting, contests or sweepstakes, if the cookies are disabled. We do not use so-called “Flash cookies” or other “Locally Stored Objects,” which allow persistent storage and retrieval of information about your browsing sessions, even if you delete or block standard cookies, however, some third party audience measurement companies which provide services to us may use such objects during your visit to our Sites, including, but not limited to Nielsen and Quantcast. If you would like more information about these companies’ use of cookies and how to opt out, please click these links: [Nielsen](http://www.nielsen-netratings.com/privacy/sitecensus.htm); [Quantcast](http://www.quantcast.com/info/privacy).
 
-We may also offer an “Email Album” feature that allows members to share their fashion albums with others. If you e-mail your fashion albums to others, the emailed albums will automatically be made public for anyone to access. You can also choose to make your albums private so only you can access them. We do not collect the sender’s e-mail information on this feature. 
+Our Sites also uses clear GIFs [Graphics Interchange Formats] (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code, only 1 by 1 pixel in size, that is programmed to collect certain information about a visit to a particular website. We use clear GIFs to gather non-personal, aggregate information on visits to our Sites, track usage of website links and email delivery, and assist with registration and log-on features, including in chat rooms and email. We do not disclose personal information that may be linked to our clear GIF collection practices to third parties. The Sites are not responsible for the use of clear GIFs by other website operators. 
 
-The only personal information this website obtains about you is information voluntarily provided by you through our website. This means that a person can visit our website and navigate through the site without giving us personal information. This website does not collect additional personal information about individual visitors or members from other sources. To gauge the effectiveness of our website, we may collect non-personal information about our members and visitors, such as Internet server and browser identification, the Internet service provider, clickstream information, the web page from which a person enters our site, webpages visited, duration of visit and domain type. This information does not reveal a visitor's personal identity.
+You should review other website operators' privacy policies to determine the type and extent of tracking devices used at other websites you visit. 
 
-We may produce certain contests, sweepstakes and special events with the support of affiliated or non-affiliated sponsors and/or promotional partners. The personal information collected by our website in conjunction with such events may also be used for the marketing of additional services and events by NYMag.com and/or its promotional partners and sponsors beyond the contest, sweepstakes and/or special event. Depending on the event, visitors will be able to either grant their approval on how their personal information will be used before it is collected ("opt-in"), or choose to deny use of their information for additional purposes ("opt-out"). For each contest, sweepstakes, and/or special event, we will post on the website applicable rules for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. To the extent there is a conflict between those privacy provisions and this policy, the privacy provisions for the specific event will govern. 
-
-**Use and Collection of Information by Operational Providers**
-
+**Use and Collection of Information by Operational Providers**   
 For the convenience of our visitors, we may provide the opportunity to purchase certain goods, merchandise and services through this website (including, without limitation, on-line personals services). Companies other than NYMag.com, its parents, partners, affiliates or subsidiaries may handle some of these transactions. We call these companies that conduct our e-commerce operations, order fulfillment and/or contract services "operational providers." If you choose to use these optional services, our operational providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these operational providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. To facilitate an order or request, we may share your personal information with the provider. The operational provider may also share your personal information with us. We will store this information in our membership database. In most instances, we request that our operational providers adhere to the provisions in NYMag.com's Privacy Policy and that such providers only share visitors' personal information with NYMag.com, unless necessary to complete a visitor's request or order. We also request that these providers only use the personal information for the purpose of conducting the sale or fulfilling the requested service or order. However, you must read an operational provider's privacy policy to determine the extent of use and disclosure of your personal information collected online. NYMag.com, its parents, affiliates and subsidiaries are not responsible for the collection, use and disclosure practices of operational providers, nor is the NYMag.com family responsible or liable for the products or services provided by operational providers. 
 
-** ****Our Policy on Disclosing Your Information to Parties Other than New York Magazine**
+* * *
 
-We only share or disclose your personal information with companies other than NYMag.com when it is required by law, when we believe disclosure would enhance or improve operation of the website or certain website services, to protect the safety of our visitors, employees or property and/or when disclosure is consistent with NYMag.com's practices for services that are similarly provided offline. The website may offer you the opportunity to give user reviews, ratings and comments for restaurants, hotels, bars, events, articles or other items, or to participate in Interactive Areas. Your member name may appear next to your user reviews, ratings, comments or other postings or participation in Interactive Areas on the website. Your member name may also appear on a member profile section of the website. We may also use and disclose your member name and reviews and ratings in any other manner in accordance with the Terms of Usage Agreement.
+**Who Do We Share Your Personal Information With?**
 
-NYMag.com is a division of New York Media LLC, doing business in the State of New York as New York Media (DE) LLC. We may in the future share personal information with our parents, partners, affiliates or other entities to conduct joint activities or for other purposes. 
+**Sharing of Information with Partners**  
+We may collect and provide aggregate information about our visitors to our advertisers, sponsors, promotional partners and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on the site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor. We may also obtain other demographic information from third parties for marketing purposes or to display more relevant advertising. 
 
-When visitors send an e-mail to us, we will protect your e-mail address and other personal contact information. However, we may disclose the content of your e-mail to other persons. Please see our Terms of Usage Agreement. We may share your personal information with our operational providers or those persons, companies or agents who provide support for the internal operations of the website, such as contest fulfillment services, maintenance and technical services, and e-commerce and auction contractors. If you are purchasing goods, merchandise or services on this website and use a credit card to complete the transaction, our operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your order.
+Online advertising for the Sites is delivered by third-party advertising companies. These companies create networks of websites to facilitate the delivery of ads and conduct market research on our Sites and other sites. These companies place cookies on your hard drive so that their systems can identify your computer. By placing such cookies on your system, they are able, among other things, to determine automatically whether you have seen a particular advertisement before and avoid sending you duplicate advertisements. These cookies also enable the companies to serve you ads tailored to things you have shown interest in based on the Sites and other sites you have visited. For example, if you frequently read movie reviews, you may see ads relating to upcoming movie openings. Online advertising companies generally conduct this activity in an anonymous format, with online information not combined with information that would allow for your identification, such as a name, address or email address. 
 
-We may collect and provide aggregate information about our visitors to our advertisers, sponsors, promotional partners, and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on the site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor. 
+The third-party companies that currently serve advertisements or provide ad targeting data on the Sites include, but are not limited to [DoubleClick](http://www.google.com/doubleclick/privacy/), [Google](http://www.google.com/privacy_cookies.html) and [TargusInfo](http://www.adadvisor.net/privacy.html). If you would like more information about the collection, use and disclosure practices of these third party advertising companies and to know your choices about not having this information used by these companies, click on the company names above and follow the links to the company websites.
 
-******Use of Cookies and Tracking Devices**
+The Sites’ third party advertising company partners typically belong and/or conform to the standards and principles of the Network Advertising Initiative (NAI). The NAI allows you to opt-out of the cookies used to tailor advertisements to you through the NAI website. If you would like to opt-out of the storage of anonymous information used by our third party advertising company partners, visit [www.nai.org](http://www.nai.org/). The NAI opt-out tool is cookie based. In order for it to work on your computer, your browser must be set to accept third party cookies.
 
-This site uses cookies or other tracking devices. A cookie is a small data file that contains a unique identification number that a website places on your hard drive when you visit a site. The "cookie" is able to store information such as data about your computer, the type of browser you use, and how many times your computer visits a certain site. Cookies do not allow the website to access personal information that you haven't already provided. Cookies enable us to track how often visitors are visiting our website and specific pages, the number of entries in specific events, the estimated audience size for sponsors and advertisers, and user preferences. You can refuse to use cookies by turning them off in your browser. Please contact your software manufacturer for questions on how to disable your cookies. You do not need to have cookies turned on to use most of this site. However, you may find that some areas on the website will be slower, or may not function at all, and you may not be able to participate in certain activities such as contests or sweepstakes if the cookies are disabled. 
+**Other Information Sharing**  
+Other than as disclosed in this Privacy Policy, we only share or disclose your personal information with companies other than New York Media LLC and its affiliates when it is required by law, regulation, legal process or enforceable governmental request; when we believe disclosure would enhance or improve operation of the Sites or certain website services and/or when we believe disclosure is necessary to protect the safety of our visitors.
 
-This site uses clear GIFs [Graphics Interchange Formats] (also known as pixel tags, web beacons or web bugs). A clear GIF is a tiny line of code only 1 by 1 pixel in size that is programmed to collect certain information about a visit to a particular website. We use GIFs to gather non-personal, aggregate information on visits to our website, track usage of website links and assist with registration and log-on features, including chat rooms and e-mail. We do not disclose personal information that may be linked to our GIF collection practices to third parties. Other websites may also use clear GIFs. NYMag.com, its parents and subsidiaries are not responsible for the use of clear GIFs by other website operators. Visitors must review other website operators' privacy policies to determine the type and extent of tracking devices used. 
+The Sites may in the future share personal information with our parents, partners, and affiliates to conduct joint activities. 
 
-**Use and Collection of Information by Advertisers and Sponsors**
+When you send us an email, we will reasonably safeguard your email address and other personal contact information. However, we may disclose the content of your email to other persons in accordance with our [Terms of Use Agreement](https://web.archive.org/newyork/terms/index.html). 
 
-We use a third-party advertising company to serve ads when you visit our site. This advertising company may collect and use information (not including your name, address, e-mail address or telephone number) about your visits to our site and other websites not owned and operated by NYMag.com, and may also combine this information with other data about your purchases and interests from other online and offline sources, in order to provide advertisements about goods and services of interest to you. In addition, we may share non-personal website usage information about visitors to this site with this company for the purpose of managing and targeting advertisements and for market research analysis on our site and other sites. For these purposes, NYMag.com and our third party advertising company may note some of the pages you visit on our site through the use of pixel tags (also called clear GIFs). In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique "cookie" on your computer. If you would like more information about the collection, use and disclosure practices of this third party advertising company and to know your choices about not having this information used by this company, [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&). 
+* * *
 
-Our website may post banner ads and other forms of advertisements, and/or links to the websites of affiliate entities or of advertisers or sponsors which are companies that are not owned or operated by NYMag.com, its parents, affiliates or subsidiaries. These entities may independently solicit and collect personal information, or send their own cookies to our visitors. Please be advised that when you link to or visit an advertiser's or sponsor's website, we may frame the site with our website logo; however, you will be subject to the privacy policy and terms of usage agreement of that website operator. NYMag.com, its parents, affiliates or subsidiaries will not be responsible for advertiser or sponsor ads and/or links or the content, activities, information collection, use and disclosure practices of the websites of advertisers and sponsors. 
+**What Choices Do I Have About How My Personal Information Is Used?**
 
-We may also provide co-branded services or promotions with certain sponsors or other entities. As a part of these services or promotions, we may request the submission of your personal information over our website for participation and/or registration. We may also share your information with the sponsor or entity assisting with the service or promotion to fulfill your request. If the co-sponsor or other entity collects your personal information, they may also share your information with us. 
+You can choose not to provide our Sites with any personal information. If personal information you provide our Sites changes, if you no longer wish to receive a service or marketing communications from us or if you wish to inquire about the information we hold about you, please contact us using the contact information below and we will correct, update or remove your details or process your request to be removed from future communications. Additionally, you can opt out of any email communications you receive from us using the opt-out links found at the bottom of each email we send.
 
-**Third Party Advertising**
+* * *
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy). 
+**What About Links to Third Party Websites?**
 
-**Third Party Cookies**
+The Sites contain links, sometimes in the form of ads or links to other sites, such as information about other services such as online personals services, to other sites, including sites operated by other entities. These advertisers and sites that have links on our Sites may collect personal information directly from you and/or use their own tracking technologies. When you link to or visit an advertiser's or sponsor's website, we may frame the site with one of our Sites’ logos; however, you will be subject to the privacy policy and terms of use agreement of that website operator. New York Media is not responsible for the privacy policies or contents of our advertisers, sponsors or other sites or businesses to which we provide hyperlinks or access. Please visit the sites of these businesses to review their privacy policies. 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+* * *
 
-**Our Security Procedures**
+**Is My Personal Information Protected?**
 
-We require our employees to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. Credit card information is transmitted via encrypted technology. If we decide to share visitor information with other members of the NYMag.com family, the receiving entity will also maintain the security and integrity of personal information collected over our website. That said, it is not possible to guarantee the security or integrity of information you disclose online since a sufficiently powerful attack from an unauthorized third party, however unlikely, could compromise your data.
+We endeavor to safeguard and protect you personal information. When you submit personal information on our Sites, such information is protected both online and offline. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. Credit card information is transmitted via encrypted technology. Please be advised that, although we take reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, our Sites cannot warrant that your information will be absolutely secure. Any transmission of data through our Sites is at your own risk. 
 
-For the convenience of our visitors, we may offer a list of helpful website links provided by other entities and/or persons. NYMag.com does not endorse or recommend, nor is it liable for, the products or services of any websites not owned or operated by NYMag.com. When you visit other websites you will also be subject to the privacy policies and terms of usage agreements, if any, of that website operator. 
+* * *
 
-**Notification of Changes in the Privacy Policy**
+**What About Changes to This Privacy Policy?**
 
-We will review our security measures and Privacy Policy on a periodic basis, and we may modify our policies as NYMag.com deems appropriate. We may also change or update our Privacy Policy if we add new services or features and will post these changes in this policy. We encourage you to review our Privacy Policy on a regular basis. 
+We may periodically modify, alter or otherwise update this Privacy Policy. We may also change or update our Privacy Policy if we add new services or features. We will notify you of any material changes to this Privacy Policy by posting the revised policy with the date it was revised on this page. We encourage you to review our Privacy Policy on a regular basis to stay informed about how we are protecting the personal information we collect. Your continued use of our Sites constitutes your agreement to this Privacy Policy and any updates.
 
-**CHILDREN'S PRIVACY POLICY**
+* * *
 
-NYMag.com respects the privacy of your child and we want to share with you our policies regarding children under the age of thirteen (13). We have developed this site to appeal to visitors over the age of thirteen (13). Although visitors of all ages may navigate through our website, we do not knowingly collect personal information from persons under the age of thirteen (13). Upon notification by a parent or guardian, or discovery by other means, that a child under thirteen (13) has improperly registered on this site by using false information, we will immediately cancel the child's membership and/or participation, and delete the child's personally identifiable information, member name and password from our records.
+**What if NYMag.com, GrubStreet.com or MenuPages.com is Sold or Goes Out of Business?**
 
-If we decide to request information from children, we will require verifiable parental consent before we collect any personal information from children under thirteen (13) years of age, except in the following circumstances allowed by law: 
+In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, New York Media reserves the right to transfer your personal information to the new party in control or the party acquiring assets.
 
-  * To provide notice and get consent from a parent or guardian; 
-  * To respond to a one-time request from a child, after which we will immediately delete the child's information; 
-  * To fulfill a child's request for a subscription to a online newspaper, magazine or specific information on a regular basis and we will notify the parent or guardian before we contact the child again; 
-  * To protect the safety of a child who is participating on this site; and 
-  * To protect the security or integrity of the site, take precautions against liability, respond to a validly executed subpoena or warrant from law enforcement, or if permitted under other provisions of law. 
+* * *
 
+**What About Children’s Privacy?**
 
+We have developed our Sites to appeal to visitors over the age of 13, and we do not knowingly collect personal information from persons under the age of 13. If we learn that we have personal information for a child under the age of 13, we will delete that information.
 
-**Guidelines for Parents**
+* * *
 
-By taking responsibility for your children's online computer use, parents can greatly minimize any potential risks for being online. The best way to assure that your children are having positive online experiences is to stay in touch with what they are doing. One way to do this is to spend time with your children while they are online. Have them show you what they are doing and ask them to teach you how to access the services. 
-
-While children and teenagers need a certain amount of privacy, they also need parental involvement and supervision in their daily lives. The same general parenting skills that apply to the "real world" also apply while online. 
-
-**_Make it a family rule to:_**
-
-  * Never give out identifying information-home address, school name, or telephone number — in a public message such as chat or bulletin boards, and be sure you're dealing with someone that both you and your child know and trust before giving it out via email. Think carefully before revealing any personal information such as age, marital status, or financial information. Consider using a pseudonym or unlisting your child's name if your service allows it.
-  * Get to know the services your child uses. If you don't know how to log on, get your child to show you. Find out what types of information it offers, and whether there are ways for parents to block out objectionable material.
-  * Never allow a child to arrange a face-to-face meeting with another computer user without parental permission. If a meeting is arranged, make the first one in a public spot, and be sure to accompany your child.
-  * Never respond to messages or bulletin board items that are suggestive, obscene, belligerent, threatening, or make you feel uncomfortable. Encourage your children to tell you if they encounter such messages. If you or your child receives a message that is harassing, of a sexual nature, or threatening, forward a copy of the message to your service provider and ask for their assistance.
-  * Should you become aware of the transmission, use, or viewing of child pornography while online, immediately report this to the National Center for Missing and Exploited Children by calling 1-800-843-5678. You should also notify your online service. Remember that people online may not be who they seem. Because you can't see or even hear the person it would be easy for someone to misrepresent him-or herself. Thus, someone indicating that "she" is a "12 year-old girl" could in reality be a 40-year-old man. 
-  * Remember that everything you read online may not be true. Any offer that's "too good to be true" probably is. Be very careful about any offers that involve your coming to a meeting or having someone visit your house. 
-  * Set reasonable rules and guidelines for computer use by your children. Discuss these rules and post them near the computer as a reminder. Remember to monitor their compliance with these rules, especially when it comes to the amount of time your children spend on the computer. A child or teenager's excessive use of online services or bulletin boards, especially late at night, may be a clue that there is a potential problem. Remember that personal computers and online services should not be used as electronic babysitters. Be sure to make this a family activity. Consider keeping the computer in a family room rather than the child's bedroom. Get to know their "online friends" just as you get to know all of their other friends. 
-
-
+**How Can You Ask Questions or Raise Concerns?**
 
 Please do not hesitate to contact us if you have any questions about this Privacy Policy. 
 
-_Contact us at:_ 75 Varick Street, 4th Floor, New York, New York 10013   
-_Phone:_ (212) 508-0803  
-_E-mail:_ [michael.silberman@newyorkmag.com](mailto:michael.silberman@newyorkmag.com)
+_Contact us at:_  
+Attn: Privacy Department  
+75 Varick Street, 4th Floor, New York, New York 10013   
+_Phone:_ (212) 508-0700  
+_E-mail:_ [privacy@nymag.com](mailto:privacy@nymag.com)
 
 Thank you for visiting! 
-
-[an error occurred while processing this directive] 
