@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224004624id_/http%3A//www.bigotires.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617042258id_/http%3A//www.bigotires.com/Privacy) for the most accurate reproduction.*
 
 # Big O Tires - Privacy Policy
 
