@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217002619id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617202932id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
 
 # privacypolicy | Gainesville.com | The Gainesville Sun
 
@@ -47,27 +47,40 @@ We may elect to offer certain text messaging services (the "SMS Service"). We us
 
 The Gainesville Sun collects the mobile phone number you use to send us a text message and the content of the messages sent between you and The Gainesville Sun. When you send a text message to The Gainesville Sun or via The Gainesville Sun, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. The Gainesville Sun uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service. 
 
-#### Aggregate Information Collected Through Technology
+#### Non-personally Identifiable Information
 
-### Cookies and Other Technologies
+### Information Collected by Us using Technology
 
-As is standard practice on many Web sites, The Gainesville Sun uses "cookies" and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "Gainesville.com" cannot access most areas of our sites.
+As is standard practice on many Web sites, we use “cookies”, Web Beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand, where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites, including Gainesville.com, if your computer does not accept cookies from us.
 
-We reserve the right to place a The Gainesville Sun Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
+We reserve the right to place a Gainesville.com cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
 
-For detailed information about our use of cookies, see the Frequently Asked Questions area of our Member Center.
+For more detailed information about our use of cookies, see the “[Cookies](https://web.archive.org/section/registrationfaq#cookies)” section on the [Registration FAQ](https://web.archive.org/section/registrationfaq).
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+### Information Collected by Third Parties using Technology
+
+Some of the services and/or advertisements on certain of our Web sites (including Gainesville.com) are delivered or served by third-party companies that may place or recognize cookies or Web Beacon to track certain non-personally identifiable information about our Web site users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser, in order to collect certain non-personally identifiable information about your visits to our Web sites and other Web sites. In many cases, this information could be used to show you ads based on your interests on other Web sites.
+
+We do not have access to, nor control over, advertisers’ or service providers' cookies or how they may be used.
+
+You have choices about the collection of interest based information in this way:
+
+  1. If you would like more information about advertisers’ use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+  2. If you would like to opt-out of having interest-based information collected during your visits to this or other sites, [click here](http://www.aboutads.info/choices/).
+
+
+
+Your access to our Web sites will not be affected if you do not accept cookies served by third parties.
+
+### Yahoo Ads
 
 Yahoo! is an ad network partner that displays ads on NYTRMG sites. To improve your ad experience on NYTRMG sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more about Yahoo!'s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you.
 
-NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of Gainesville.com is owned and used by The Gainesville Sun or NYTRMG. The Gainesville Sun reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
+### Analytics Technologies
+
+NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of Gainesville.com is owned and used by The Gainesville Sun or NYTRMG. The Gainesville Sun reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to <http://www.omniture.com/en/privacy/policy>
 
 We reserve the right to change the vendors who provide us with usage data.
-
-### Clear Gifs (Web Beacons/Web Bugs)
-
-Advertisers on Gainesville.com may elect to use third party advertising companies to serve ads on our Web site, and in these instances may use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs/action tags/pixel tags) to better manage advertising on our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may ping or alert the advertiser's server about the online movements of Web users. For instance, advertisers may place a clear gif allowing them to recognize an existing cookie on your browser if from the same service. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Please keep in mind, we do not have access to any information collected by these clear gifs nor additional information they may be tied to by the advertiser.
 
 ### IP Addresses
 
@@ -75,7 +88,7 @@ The Gainesville Sun logs IP (Internet Protocol) addresses, or the location of yo
 
 ### Log Files
 
-Log data is only used in aggregate to analyze usage of our Web.
+Log data is only used in aggregate to analyze usage of our Web site.
 
 ## What do we do with the information we gather about you?
 
@@ -101,7 +114,7 @@ If you choose to receive them, The Gainesville Sun will periodically send you e-
 
 ## What is our e-mail policy?
 
-The Gainesville Sun complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ online@gvillesun.com](mailto:online@gvillesun.com). 
+The Gainesville Sun complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ online@gvillesun.com](mailto:%20%20online@gvillesun.com). 
 
 ### Account and Service-Related E-mail:
 
@@ -113,9 +126,9 @@ We offer e-mail newsletters. If you no longer wish to receive a specific newslet
 
 ### Promotional E-mail:
 
-If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
+If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/apps/pbcs.dll/section?category=manage&template=manage).
 
-From time to time, The Gainesville Sun may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
+From time to time, The Gainesville Sun may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/apps/pbcs.dll/section?category=manage&template=manage).
 
 ### Survey E-mail:
 
@@ -133,7 +146,7 @@ Gainesville.com readers may use this feature to send links to articles to others
 
 If you have registered to one of our sites, The Gainesville Sun will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.
 
-If you are a print subscriber to The Gainesville Sun and you subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](https://web.archive.org/section/manage/).
+If you are a print subscriber to The Gainesville Sun and you subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](https://web.archive.org/apps/pbcs.dll/section?category=manage&template=manage).
 
 ### Service Providers
 
@@ -143,9 +156,9 @@ We reserve the right to disclose your opt-out information to third parties so th
 
 ## How do I change or update my personal information?
 
-Manage your Gainesville.com account at Member Center: You may review and update your Gainesville.com membership or account information and access your transaction history in the [Member Center](https://web.archive.org/section/manage/).
+Manage your Gainesville.com account at Member Center: You may review and update your Gainesville.com membership or account information and access your transaction history in the [Member Center](https://web.archive.org/apps/pbcs.dll/section?category=manage&template=manage).
 
-There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at 352-378-1411 or [ online@gvillesun.com](mailto:online@gvillesun.com). 
+There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at 352-378-1411 or [ online@gvillesun.com](mailto:%20%20online@gvillesun.com). 
 
 ## How do I opt-out from receiving promtional offers?
 
