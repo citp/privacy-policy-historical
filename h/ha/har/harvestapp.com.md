@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the harvestapp.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030114419id_/http%3A//www.getharvest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvestapp.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617052403id_/http%3A//www.getharvest.com/services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Harvest Time Tracker & Invoicing Software
+# Privacy Policy - Harvest
 
 Harvest is committed to protect the privacy of our customers. This Privacy Policy outlines what information we collect and how we may use it on [www.getharvest.com](http://www.getharvest.com/). 
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.getharvest.com/seal_m "Validate TRUSTe privacy certification")Harvest, a product of Iridesco LLC, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Danny Wen at [danny@getharvest.com](mailto:danny@getharvest.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.getharvest.com/seal_m "Validate TRUSTe privacy certification")Harvest, a product of Iridesco LLC, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Danny Wen at [](http://getharvest.com/). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at . 
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at [](http://getharvest.com/). 
 
   1. When you register with Harvest, we need to ask for information such as your name, company name, email address.
   2. Harvest uses the collected information for the following general purposes: to create your account, provide you with email communications in regards to our service, to send you newsletters, service improvement, and research.
@@ -34,13 +34,13 @@ The use of cookies by third parties is not covered by our privacy statement. We 
 
   1. Harvest uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run HARVEST. Although Iridesco owns the code, databases, and all rights to the HARVEST application, you retain all rights to your data.
   2. Harvest may periodically update this Privacy Policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your HARVEST account or by placing a prominent notice on our site.
-  3. If you have any question about this Privacy Policy, please contact us at .
+  3. If you have any question about this Privacy Policy, please contact us  at [](http://getharvest.com/).
 
 
 
 ### Updating or Correcting Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by emailing our Customer Support at support@getharvest.com or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by emailing our Customer Support at [](http://harvestapp.com/) or by contacting us by telephone or postal mail at the contact information listed below. 
 
 ### Customer Testimonials
 
@@ -54,7 +54,7 @@ If you use the blog on this Web site, you should be aware that any personally id
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at 
+If you have any questions about security on our Web site, you can email us at [](http://harvestapp.com/). 
 
 ### Changes in this Privacy Statement
 
@@ -74,6 +74,6 @@ By telephone:
 +1 212-226-4160 (Worldwide)  
 
 
-By Email: 
+By Email: [](http://harvestapp.com/)
 
 _Last updated: 2 June 2010_
