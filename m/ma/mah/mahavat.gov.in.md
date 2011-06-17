@@ -1,0 +1,5 @@
+> *The following text is extracted and transformed from the mahavat.gov.in privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618010500id_/http%3A//mahavat.gov.in/Mahavat/PrivacyPolicy.jsp) for the most accurate reproduction.*
+
+# Department Of Sales Tax - Govt. of Maharashtra
+
+As a general rule, this site does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information. Any personal information collected shall be used only for the stated purpose and shall NOT be shared with any other department/ organization (public/private). This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notice of those sites. 
