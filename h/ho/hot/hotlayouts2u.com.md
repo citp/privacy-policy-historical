@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the hotlayouts2u.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217072039id_/http%3A//hotlayouts2u.com/content.php%3Fmyspace%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlayouts2u.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617070845id_/http%3A//www.hotlayouts2u.com/content.php%3Fmyspace%3Dprivacy-policy) for the most accurate reproduction.*
 
 # 
 
 **About HotLayouts2u.com**
 
-HotLayouts2u.com is an online service that allows the members of MySpace.com to customize their profiles.
+HotLayouts2u.com is an online service that allows the members to customize their profiles.
+
+[](http://creativecommons.org/licenses/by-nc-nd/3.0/)  
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/).;
 
 **Information Collection and Use by HotLayouts2u.com**
 
-HotLayouts2u.com logs non-personally-identifiable information including IP address, demographic data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. We will also use a visitors email address to send updates, newsletters or news regarding the service if the user or visitor choses to opt-in to such services. To opt-out you must use to contact form* and request to have such information removed. Please be aware that whenever you voluntarily post public information to any Public Forum that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Some features on this site enable the user to enter in their MySpace credentials, including username and password, to automate the process of installing some features on HotLayouts2u.com. By providing HotLayouts2u.com with your myspace credentials you allow HotLayouts2u.com to automatically install codes for you. We do not store, save, or use this information. We simply provide this option to make installing code simple.
+HotLayouts2u.com logs non-personally-identifiable information including IP address, demographic data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. We will also use a visitors email address to send updates, newsletters or news regarding the service if the user or visitor choses to opt-in to such services. To opt-out you must use to contact form* and request to have such information removed. Please be aware that whenever you voluntarily post public information to any Public Forum that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Some features on this site enable the user to enter in their credentials, including username and password, to automate the process of installing some features on HotLayouts2u.com. By providing HotLayouts2u.com with your credentials you allow HotLayouts2u.com to automatically install codes for you. We do not store, save, or use this information. We simply provide this option to make installing code simple.
 
 **Links**
 
