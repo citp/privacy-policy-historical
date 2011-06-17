@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handelot.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229004801id_/http%3A//www.handelot.com/int.php%3Fp%3Dcms%26CMSID%3D28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handelot.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617044815id_/http%3A//www.handelot.com/int.php%3Fp%3Dcms%26CMSID%3D28) for the most accurate reproduction.*
 
 # handelot - Terms and Conditions
 
