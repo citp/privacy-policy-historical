@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopmag.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127162450id_/http%3A//www.bedfordcommunications.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopmag.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618003823id_/http%3A//www.bedfordcommunications.com/Privacy.php) for the most accurate reproduction.*
 
 # Bedford Communications, Inc. - Privacy Policy
 
