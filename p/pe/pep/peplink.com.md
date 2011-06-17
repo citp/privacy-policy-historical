@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peplink.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216123907id_/http%3A//www.peplink.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peplink.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071716id_/http%3A//www.peplink.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Peplink
 
