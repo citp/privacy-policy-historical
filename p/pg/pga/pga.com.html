@@ -1,148 +1,78 @@
-<!--The following is the downloaded HTML source of the pga.com privacy policy that was archived on 2010-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617060239id_/http%3A//www.pga.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pga.com privacy policy that was archived on 2011-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618002600id_/http%3A//www.pga.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<title>PGA.com :: About :: Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta http-equiv="Content-Language" content="en-us">
-<meta name="description" content="Get golf information, golf tournament updates and golf news from the official site of the PGA of America.">
-<meta name="keywords" content="PGA of America, golf news,  golf tournaments, instruction,  improve your golf game,  play golf,  golf equipment,  PGA.com store,  golf scores,  PGA,  golf news,  golf video,  golf highlights,  PGA Championship,  Ryder Cup,  golf travel,  book tee times,  PGA Grand Slam of Golf,  Senior PGA Championship,  leaderboards,  PGA Tour,  fantasy golf,  golf screen savers,  golf">
-<link type="text/css" rel="stylesheet" href="http://i.cdn.turner.com/pga/.element/ssi/css/1.0/global/pga.css">
-<script language="JavaScript" src="http://i.cdn.turner.com/pga/.element/ssi/js/1.0/global/pga.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://i.cdn.turner.com/pga/.element/ssi/js/1.0/global/PGALib.js"></script>
-<link rel="shortcut icon" href="/favicon.ico">
-
-<style type="text/css">
-<!--
-.aoltextad { text-align: justify; font-size: 12px; color: black; font-family: Georgia, sans-serif }
--->
-</style>
-
-<script language="JavaScript1.2" type="text/javascript">
-//<![CDATA[
-function CNN_getCookies() {
-	var hash = new Array;
-	if ( document.cookie ) {
-		var cookies = document.cookie.split( '; ' );
-		for ( var i = 0; i < cookies.length; i++ ) {
-			var namevaluePairs = cookies[i].split( '=' );
-			hash[namevaluePairs[0]] = unescape( namevaluePairs[1] ) || null;
-		}
-	}
-	return hash;
-}
-
-function CNN_parseCookieData( cookieDataString ) {
-	var cookieValues = new Object();
-	var separatePairs = cookieDataString.split( '&' );
-	for ( var i = 0; i < separatePairs.length; i++  ) {
-		var separateValues = separatePairs[i].split( ':' );
-		cookieValues[separateValues[0]] = separateValues[1] || null;
-	}
-	return cookieValues;
-}
-
-// default values
-var adHeadOffset = 0;
-var adHeadClass = "us.low";
-
-var allCookies = CNN_getCookies();
-var adHeadCookie = allCookies[ "Target" ] || null;
-var isClassAndOffsetValid = false;
-var alreadySwappedTargetImage = false;
-var alreadySwappedCookieCrumb = false;
-
-if ( adHeadCookie ) {	// got milk?
-	var adHeadHash = CNN_parseCookieData( adHeadCookie );
-	//alert("o=" +  adHeadHash[ "o" ] + "\nclass=" + adHeadHash[ "class"]);
-	if ( adHeadHash[ "o" ] && adHeadHash[ "class" ] ) {
-		var validClassesAndOffsets = [ 'us.low', 0, 'us.high', 1, 'intl', 2, 'intl', 3, 'us.edu', 0, 'us.gov', 0, 'us.mil', 0, 'us.org', 0 ];
-		for ( var i = 0; i < validClassesAndOffsets.length; i+=2 ) {
-			if ( validClassesAndOffsets[i] == adHeadHash[ "class" ] && validClassesAndOffsets[i+1] == adHeadHash[ "o" ] ) {
-				isClassAndOffsetValid = true;
-				break;
-			}
-		}
-	}
-	if ( isClassAndOffsetValid ) {
-		adHeadOffset = adHeadHash[ "o" ];
-		adHeadClass = adHeadHash[ "class" ];
-	}
-}
-
-document.adoffset = adHeadOffset;
-
-//alert( "GLOBAL\nalreadySwappedTargetImage=" + alreadySwappedTargetImage + "\nisClassAndOffsetValid=" + isClassAndOffsetValid );
-
-function getAdHeadCookie( imageRef ) {
-	//alert( "isClassAndOffsetValid=" + isClassAndOffsetValid + "\nadHeadOffset=" + adHeadOffset + "\nadHeadClass=" + adHeadClass);
-	var newSrc = "http://www.pga.com/.element/img/1.0/global/1x1.gif?" + new Date().getTime();
-	if ( !alreadySwappedTargetImage && !isClassAndOffsetValid && (typeof WM_browserAcceptsCookies != "undefined") && WM_browserAcceptsCookies() ) {
-		//alert( "getAdHeadCookie\nalreadySwappedTargetImage=" + alreadySwappedTargetImage + "\nisClassAndOffsetValid=" + isClassAndOffsetValid );
-		imageRef.src = newSrc;
-		alreadySwappedTargetImage = true;
-	}
-}
-
-var alreadySwappedDETargetImage = false;
-var cnnDEadDEonCookie = false;
-
-
-function WM_readCookie( name ) {
-        if ( document.cookie == '' ) { // there's no cookie, so go no further
-            return false;
-        } else { // there is a cookie
-            var firstChar, lastChar;
-                var theBigCookie = document.cookie;
-                firstChar = theBigCookie.indexOf(name); // find the start of 'name'
-                var NN2Hack = firstChar + name.length;
-                if ( (firstChar != -1) && (theBigCookie.charAt(NN2Hack) == '=') ) { // if you found the cookie
-                        firstChar += name.length + 1; // skip 'name' and '='
-                        lastChar = theBigCookie.indexOf(';', firstChar); // Find the end of the value string (i.e. the next ';').
-                        if (lastChar == -1) lastChar = theBigCookie.length;
-                        return unescape( theBigCookie.substring(firstChar, lastChar) );
-                } else { // If there was no cookie of that name, return false.
-                        return false;
-                }
-        }
-} // WM_readCookie
-
-
-
-function getDEAdHeadCookie( imageRef ) {
-	if (typeof(WM_readCookie) != "undefined") {
-		cnnDEadDEonCookie = WM_readCookie( 'adDEon' );
-	}
-	var newSrc = "http://gdyn.pga.com/1.1/1.gif?" + new Date().getTime();
-	if ( !alreadySwappedDETargetImage && !cnnDEadDEonCookie) {
-		imageRef.src = newSrc;
-		alreadySwappedDETargetImage = true;
-	}
-}
-//]]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Privacy Policy | PGA.com</title>
+  <meta name="keywords" content="PGA Feature">
+<meta name="description" content="Thank you for visiting PGA.com. Turner Broadcasting System, Inc.">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/supert/quicktabs.css">
+<meta property="fb:app_id" content="128263543875281">
+<link rel="canonical" href="http://www.pga.com/about/privacy">
+<link rel="shortcut icon" href="http://i2.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/favicon.ico" type="image/x-icon">
+  <link type="text/css" rel="stylesheet" media="all" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/css/css_9aec45a89524d13c1e80a3a189b0fad2.css">
+<link type="text/css" rel="stylesheet" media="print" href="http://i2.cdn.turner.com/dr/pga/sites/default/files/css/css_64c77e9059125b912210da9bf5657b52.css">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie.css?P" />
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie7.css?P" />
+<![endif]-->
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie8.css?P" />
+<![endif]-->
+  <script type="text/javascript" src="http://i2.cdn.turner.com/dr/pga/sites/default/files/js/js_40b9b092171bef6f6cd32a28fec37438.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","fb_connect":{"front_url":"\/","fbu":null,"uid":0},"CTools":{"pageId":"page-74f9f209e7273243d9664f5cc77ff806"},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"fb":{"ajax_event_url":"http:\/\/www.pga.com\/fb\/ajax","apikey":"d20a4e91794e59799455cbeeeb81ed9c","label":"PGAIntegration","perms":"email,publish_stream,user_photos","reload_url":"http:\/\/www.pga.com\/about\/privacy","controls":"","js_sdk_url":"http:\/\/connect.facebook.net\/en_US\/all.js"},"user_info":[],"node_info":{"nid":"31665","type":"html","uid":"31","status":"1","created":"1275841565","changed":"1306954102","comment":"0","promote":"0","moderate":"0","sticky":"0","tnid":"0","translate":"0","vid":"31665","revision_uid":"315075","title":"Privacy Policy","log":"","revision_timestamp":"1306954102","format":"0","name":"Chris Pellani","picture":"","path":"about\/privacy","field_section":[{"value":"pga-america","safe":"pga-america"}],"field_associated_course":[{"nid":null,"safe":[],"view":""},{"nid":null,"safe":[],"view":""}],"field_associated_pros":[{"nid":null,"safe":[],"view":""}],"print_display":0,"print_display_comment":0,"print_display_urllist":0,"print_mail_display":0,"print_mail_display_comment":0,"print_mail_display_urllist":0,"last_comment_timestamp":"1275841565","last_comment_name":null,"comment_count":"0","taxonomy":{"58":{"tid":"58","vid":"1","name":"PGA Feature","description":"","weight":"0"}},"page_title":"Privacy Policy","nodewords_nodetype_override":null,"build_mode":0,"readmore":false,"realname_save":"chris.pellani","realname":"Chris Pellani","homepage":null}});
+//--><!]]>
 </script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){
+ $('ul#superfish-1').superfish({
+ delay: 0,
 
-
-
-
-	<meta http-equiv="refresh" content="600">
-<link type="text/css" rel="stylesheet" href="http://i.cdn.turner.com/pga/.element/ssi/css/1.0/sect/about.css">
+ speed: 'fast',
+ autoArrows: true,
+ dropShadows: true
+})
+});
+//--><!]]>
+</script>
+  
 </head>
-<body id="home">
-<div id="pgaMainDiv">
-	<div id="pgaMainBorderDiv">
-		<!-- Body Section Starts Here -->
-		<div>
-			<!-- Header Section Starts Here -->
-			<div id="headerWrapper">
-			<div><ul id="pgaLogoSpriteUL">
-		<li id="pgaLogoSpriteLI">
-		<a id="pgaLogoSpriteA" href="/home/"></a></li>
-</ul></div>
-	<div class="ad_728">
-	<!-- ADSPACE: homepage/top.728x90 --><div id="ad-808391" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+<body class="not-front not-logged-in node-type-html page-about-privacy section-about one-sidebar sidebar-first">
 
+      <div id="top-navigation">
+    
+    <div class="top-navigation-wrapper">
+        <div class="region region-top-navigation">
+  <div id="block-block-133" class="block block-block region-odd odd region-count-1 count-1">
+  
+  <div class="content">
+    <a href="http://www.pga.com/tickets"><img src="http://i.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/graphics/topnav-tickets.gif" alt="Tickets" title="Tickets" width="43" height="5"></a>
+<a href="http://www.pga.com/golf-travel"><img src="http://i.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/graphics/topnav-travel.gif" alt="Travel" title="Travel" width="39" height="5"></a>
+<a href="http://www.pga.com/shoppga"><img src="http://i.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/graphics/topnav-shop.gif" alt="PGA Shop" title="PGA Shop" width="26" height="5"></a>
+<a href="http://www.pgatour.com" target="_blank"><img src="http://i.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/graphics/topnav-pgatour.gif" alt="PGA TOUR" title="PGA TOUR" class="strip" width="71" height="5"></a>  </div>
 
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+        <!-- /.section -->
+    </div> <!-- /#top-navigation -->
+    
+    </div> 
+  
+      <div id="skip-to-nav"><a href="#main-menu">Jump to Navigation</a></div>
+  
+      <div id="page-header">
+      <div class="section">
+        <div class="region region-page-header">
+  <div id="block-block-40" class="block block-block region-odd even region-count-1 count-2">
+  
+  <div class="content">
+    <!-- ADSPACE: pga/top.728x90 --><div id="ad-199493" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
 
 
 
@@ -161,143 +91,13 @@ function getDEAdHeadCookie( imageRef ) {
 
 
 
-
-
-
-
-
-
-//<![CDATA[
-cnnad_createAd("808391","http://ads.pga.com/html.ng/site=pga&pga_pos=728x90_top&pga_rollup=homepage&params.styles=fs","90","728");
-//]]>
-
-
-
-
-</script></div>
-	</div>
-</div>
-			<!-- Header Section Ends Here -->
-
-			<!-- Navigation Section Starts Here -->
-			<div id="navwrapper">
-	<ul id="navigation">
-	  <li><a href="/home/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/home_off.gif" id="homeNavT" class="first" alt="Home"></a></li>
-	  <li><a href="/pgaofamerica/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/pgaoa_off.gif" id="pgaoaNavT" alt="PGA of America"></a>
-	      <ul id="pgaoaNav">
-	        <li><a href="/pgaofamerica/sponsors/">PGA Partners</a></li>
-			<li><a href="https://ems.pgalinks.com" target="_blank">Tickets</a></li>
-			<li><a href="http://www.playgolfamerica.com/" target="_blank">Play Golf America</a></li>
-			<li><a href="/pgaofamerica/history/">History</a></li>
-	        <li><a href="http://pgajobfinder.pgalinks.com/helpwanted/empcenter/" target="_blank">Employment Center</a></li>
-	        <li><a href="http://www.pgavillage.com/" target="_blank">PGA Golf Club</a></li>
-	        <li><a href="http://www.pga.com/profinder/">PGA Professional Search</a></li>
-	        <li><a href="/pgaofamerica/sections/">Sections</a></li>
-	        <li><a href="/pgaofamerica/classifications/">Member Classifications</a></li>
-			<li><a href="/pgaofamerica/juniors/">Juniors</a></li>
-			<li><a href="http://www.pgalinks.com/diversity/index.cfm" target="_blank">PGA Diversity</a></li>
-	      </ul>
-	  </li>
-	  <li><a href="https://ems.pgalinks.com" target="_blank"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/tickets_off.gif" alt="tickets"></a> </li>
-	  <li><a href="/news/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/news_off.gif" id="newsNavT" alt="News"></a>
-	      <ul id="newsNav">
-	        <li><a href="/news/pgaofamerica/">PGA of America News</a></li>
-			<li><a href="/news/industrynews/">Industry News</a></li>
-	        <li><a href="/news/localknowledge/">Local Knowledge</a></li>
-	        <!--<li><a href="/news/grantmethis/">Grant Me This</a></li>-->
-			<li><a href="/news/rss/">RSS</a></li>
-	      </ul>
-	  </li>
-	<li><a href="/video/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/video_off.gif" id="videoNavT" alt="Video"></a> </li>
-	  <li><a href="/instruction/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/instruction_off.gif" id="instructionNavT" alt="Instruction"></a>
-	      <ul id="instructionNav">
-	        <li><a href="/instruction/off_the_tee">Off the Tee</a></li>
-	        <li><a href="/instruction/irons_and_hybrids">Irons &amp; Hybrids</a></li>
-			<li><a href="/instruction/short_game">Short Game</a></li>
-			<li><a href="/instruction/putting">Putting</a></li>
-			<li><a href="/instruction/bunkers">Bunkers</a></li>
-			<li><a href="/instruction/fundamentals">Fundamentals</a></li>
-			<li><a href="/instruction/alessonlearned/">Lesson Learned</a></li>
-			<li><a href="/instruction/asktheexperts/">Ask the Experts</a></li>
-			<li><a href="http://www.pga.com/instruction/dvdseries/" target="_blank">DVD Series</a></li>
 
-	      </ul>
-	  </li>
-	  <li><a href="/play/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/play_off.gif" id="playNavT" alt="Play"></a>
-	      <ul id="playNav">
-	        <li><a href="/profinder/">ProFinder</a></li>
-	        <li><a href="http://dyn.pga.com/searchtools/play/holeinone/">PGA Hole-in-One</a></li>
-	        <li><a href="http://www.usga.org/playing/rules/rules.html" target="_blank">Rules of Golf</a></li>
-	        <li><a href="/play/etiquette/">Golf Etiquette</a></li>
-	        <li><a href="/play/glossary/">Glossary</a></li>
-	        <li><a href="/play/games/">Games</a></li>
-	        <li><a href="/play/contests/">Contests &amp; Promotions</a></li>
-			<li><a href="/play/advisory/">Advisory Board</a></li>
-			<li><a href="/play/women/">Women</a></li>
-			<li><a href="/play/wmbc/">World's Most Beautiful Courses</a></li>
-	      </ul>
-	  </li>
-	  <li><a href="/travel/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/travel_off.gif" id="travelNavT" alt="Travel"></a> </li>
-	  <li><a href="/equipment/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/equipment_off.gif" id="equipmentNavT" alt="equipment"></a>
-           <ul id="equipmentNav">
-	        <li><a href="/equipment/drivers_and_woods">Drivers and Woods</a></li>
-	        <li><a href="/equipment/irons_and_hybrids">Irons &amp; Hybrids</a></li>
-			<li><a href="/equipment/wedges">Wedges</a></li>
-			<li><a href="/equipment/putters">Putters</a></li>
-			<li><a href="/equipment/balls_and_apparel">Balls and Apparel</a></li>
-			<li><a href="/equipment/training_and_technology">Training and Technology</a></li>
-			<li><a href="http://valueguide.pga.com/" target="_blank">Value Guide</a></li>
 
-	      </ul>
-      </li>
-	  <li><a href="/schedules/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/schedules_off.gif" id="schedulesNavT" alt="schedules"></a>
-	      <ul id="schedulesNav">
-	        <li><a href="/schedules/scoring/">Scoring</a></li>
-	        <li><a href="/schedules/pgaofamerica/">PGA of America Schedule</a></li>
-	        <!--<li><a href="/schedules/golfontv">Golf on TV</a></li>-->
-			<li><a href="/2008/schedules/GolfOnTV/index.html">Golf on TV</a></li>
-	      </ul>
-	  </li>
-	  <li><a href="http://www.shoppga.com/index.asp" target="_blank"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/shop_off.gif" alt="shop"></a>
-	  </li>
-	  <li><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/nav/placeholder.gif" width="10" alt="shop">
-	  </li>
-	</ul>
-	<!--  PGA Search Bar  -->
-<div id="pgaSearchBar">
-	<form name="frmSearch" id="frmSearch" method="get" action="/search/">
-		<table width="253" cellpadding="0">
-		<tbody><tr>
-		<td height="29" width="110"><input type="text" id="pgaInputBox" name="text" value=""></td>
-		<td height="29" width="33"><input type="image" src="http://i.cdn.turner.com/pga/.element/img/1.0/global/btn-search.jpg" id="pgaButton" name="submit"></td>
-		<td height="29" width="110"><a href="http://www.pgatour.com/" target="_blank">
-			<img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/btn-pgatour.gif" width="101" height="29" align="right" alt="PGATOUR.COM" title=""></a></td>
-		</tr>
-	   </tbody></table>
- 	</form>
-</div>
-</div>
-<div class="clear"></div>
-			<!-- Navigation Section Ends Here -->
 
-			<!-- Sub Navigation Section -->
-			<!-- #include virtual="/.element/ssi/sect/1.0/about/.header/subnav.html" -->
-			<!-- /Sub Navigation Section Ends -->
 
-			<!-- Start Content -->
-			<div id="pgaContent">
-				<!-- Start Left Column -->
-				<div id="pgaLeftPanel">
-					<div class="pgaMNavShdw"></div>
-					<!--  Promo Block  -->
-					<!--  Promo Block  -->			
 
 
-<!--  Promo Block  End -->
 
-<!--  Promo Block  -->			
-<!-- #include virtual="/pga_promoplates/default/.rail/lr_209x75_1.html" -->
-<div class="pgaLeftAd"><div style="margin-left:8px;"><!-- ADSPACE: homepage/spon1.209x75 --><div id="ad-253800" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
 
 
 
@@ -305,6 +105,7 @@ cnnad_createAd("808391","http://ads.pga.com/html.ng/site=pga&pga_pos=728x90_top&
 
 
 
+cnnad_createAd("199493","http://ads.pga.com/html.ng/site=pga&pga_pos=728x90_top&pga_rollup=pga&page.allowcompete=yes&params.styles=fs","90","728");
 
 
 
@@ -322,660 +123,524 @@ cnnad_createAd("808391","http://ads.pga.com/html.ng/site=pga&pga_pos=728x90_top&
 
 
 
+</script></div>  </div>
 
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+      </div> <!-- /.section -->
+    </div> <!-- /#page-header -->
+  
+  <div id="page-wrapper">
+    <div id="glow">
+      <div id="page-wrapper-inner">
+        <div id="page-wrapper-inner-inner">
+          <div id="page">
 
-//<![CDATA[
-cnnad_createAd("253800","http://ads.pga.com/html.ng/site=pga&pga_pos=209x75_spon1&pga_rollup=homepage&params.styles=fs","75","209");
-//]]>
+    <div id="header"><div class="section clearfix">
 
-
-
-
-</script></div></div></div>
-<!--  Promo Block  End -->
-				
-<!--  Promo Block  -->
-<!-- #include virtual="/pga_promoplates/default/.rail/lr_209x75_2.html" -->
-<div class="pgaLeftAd"><div style="margin-left:8px;"><!-- ADSPACE: homepage/spon2.209x75 --><div id="ad-704022" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//<![CDATA[
-cnnad_createAd("704022","http://ads.pga.com/html.ng/site=pga&pga_pos=209x75_spon2&pga_rollup=homepage&params.styles=fs","75","209");
-//]]>
-
-
-
-
-</script></div></div></div>
-
-<!--  Promo Block  End -->
-				
-<!--  Promo Block  -->
-<!-- #include virtual="/pga_promoplates/default/.rail/lr_209x75_3.html" -->
-<div class="pgaLeftAd"><div style="margin-left:8px;"><!-- ADSPACE: homepage/spon3.209x75 --><div id="ad-310410" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//<![CDATA[
-cnnad_createAd("310410","http://ads.pga.com/html.ng/site=pga&pga_pos=209x75_spon3&pga_rollup=homepage&params.styles=fs","75","209");
-//]]>
-
-
-
-
-</script></div></div></div>
-<!--  Promo Block  End -->
-				
-<!--  Promo Block  -->
-<div class="pgaLeftAd">
-<a href="http://www.shoppga.com/event.asp?evn=2010+Ryder+Cup&amp;rf=14656">
-<img src="http://i.cdn.turner.com/pga/.element/img/1.0/promo/lr_209x157_RyderCup.gif" alt="Shop PGA"></a>
-</div>
-
-<!--  Promo Block  End -->
-					<!--  Promo Block  End -->
-
-					<!-- Ad Space Block -->
-					<div id="lrAd160x600Wrap">
-	<!-- ADSPACE: homepage/left.160x600 --><div id="ad-934850" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//<![CDATA[
-cnnad_createAd("934850","http://ads.pga.com/html.ng/site=pga&pga_pos=160x600_lft&pga_rollup=homepage&params.styles=fs","600","160");
-//]]>
-
-
-
-
-</script></div>
-</div>
-					<!-- Ad Space End -->
-					<div class="pga-vspc-botpad">&nbsp;</div>
-				</div>
-				<!-- End Left Column -->
-
-				<!-- Start Center Column -->
-				<div id="pgaCenterPanel">
-					<!-- Center Content Area -->
-					<div id="ctrContent">
-						<!-- Breadcrumbs -->
-						<div>
-							<img src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/about/pga_header_forms_434x55.jpg" alt="PGA of America">
-							<div id="pgaBreadCrumbL">
-	<script language="JavaScript" type="text/javascript" src="http://i.cdn.turner.com/pga/.element/ssi/js/1.0/global/breadcrumbs.js"></script>
-</div>
-
-						</div>
-
-						<h1><img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/title/privacypolicy.gif" alt="Privacy Policy"></h1>
-						<div id="pga_t1">
-							<p>Thank you for visiting PGA.com. Turner Broadcasting System, Inc. operates PGA.com pursuant to agreements with the Professional Golfers Association of America ("PGA"). Your privacy is important to Turner and PGA ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at PGA.com. Please be advised that the practices described in this Privacy Statement apply only to information gathered through and in connection with this web site and do not necessarily reflect our practices for other sites we operate.</p>
-							<br>
-							<h3>The Information We Collect</h3>
-							<p>At our site, you may now or in the future be able to order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be asked to be submitted include: name, address, e-mail address, telephone number, fax number, date of birth, gender, credit card information, and information about your interests in and use of various products, programs, and services.</p>
-							<p>You may also be able to submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.</p>
-							<p>Certain features of our site may only be available to persons who provide us with the requested personally identifiable information such as persons ordering products, programs, and services or otherwise participating in the site's activities and offerings.</p>
-							<p>We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).</p>
-							<br>
-							<h3>How We Use the Information</h3>
-							<p>We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, advertisements, programs or services that we believe may be of interest to you.</p>
-							<p>We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.</p>
-							<p>We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.</p>
-							<p>If you choose to submit content for publication (e.g., questions for an online chat guest, a posting to a blog or a discussion board), we may publish your screen name and other information you have provided to us (e.g. transcript of the chat, including your question).</p>
-							<p>We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our Web Site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, or sold to, or merged with another company.</p>
-							<p>Agents and contractors of PGA.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for PGA.com.</p>
-							<p>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that is collected will never be disclosed in a manner that is inconsistent with this Privacy Statement.</p>
-							<p>We may also disclose personally identifiable information to companies whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non- profit organizations) that want to market products or services to you. If our site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.</p>
-							<p>We may on occasion combine information we receive online with other information and outside records to enhance our ability to market to you those products or services that may be of interest to you. If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the ?unsubscribe? instructions provided at the bottom of this statement.</p>
-							<p>Finally, PGA.com will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.</p>
-							<br>
-							<h3>Cookies &amp; Web Beacons</h3>
-							<p>To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e- mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.</p>
-							<p>"Web beacons" or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this site from time to time for this and other purposes.</p>
-							<br>
-							<h3>Collection of Information by Third-Party Sites, Ad Servers, and Sponsors</h3>
-							<p>Our site may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we may not have control over information that is submitted to, or collected by, these third parties.</p>
-							<p>We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. PGA.com does not have ultimate control over these third parties' use of this information. PGA.com will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. We may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement.  You can learn more about <a href="#adserv">this site's use of such third-party ad servers</a> data collection.</p>
-							<br>
-							<h3>Our Commitment to Security</h3>
-							<p>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.</p>
-							<br>
-							<h3>How You can Access or Correct Information</h3>
-							<p>Access to personally identifiable information that is collected from our sites may be accessible for a limited period of time from the point of collection.  For example, if you created a password-protected account within our site, you can access that account to review the information you provided.</p>
-							<p>You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information.  For verification purposes, please include your first name, last name, e-mail address and the password you use for said service.</p>
-							<br>
-							<p>Email Administration<br>CNN.com<br>One CNN Center<br>Atlanta, GA  30303<br>Email: <a href="mailto:privacy.pga@turner.com" title="send an email">privacy.pga@turner.com</a></p>
-							<br>
-							<h3>Special Note for Parents</h3>
-							<p>The site you are visiting is considered a general audience site. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.</p>
-							<br>
-							<h3>How to Contact Us</h3>
-							<p>If you have any questions or concerns about the online statement for this site or its implementation you may contact us at <a href="mailto:privacy.pga@turner.com" title="send an email">privacy.pga@turner.com</a>.</p>
-							<a name="unsub"></a>
-							<br>
-							<h3>Unsubscribing from e-mail lists</h3>
-							<p>If you have signed up to receive our emails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this site.</p>
-							<a name="adserv"></a>
-							<br>
-							<h3>Third Party Ad Servers</h3>
-							<p>We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. Below is a representative list of such third parties and a link to their privacy notices. For more information, clink on the links below. You can also read more <a href="http://www.nai.org/" target="_blank" title="General information about third party ad servers">general information about third party ad servers</a>.</p>
-							<br>
-							<p class="padSeventeenL">
-								<a href="http://www.atlassolutions.com/privacy.aspx" target="_blank" class="tictac">Atlas DMT</a><br>
-								<a href="http://www.bluestreak.com/privacy/privacy.asp" target="_blank" class="tictac">Bluestreak</a><br>
-								<a href="http://www.doubleclick.com/us/about_doubleclick/privacy/" target="_blank" class="tictac">DoubleClick</a><br>
-								<a href="http://www.eyeblaster.com/privacy.asp" target="_blank" class="tictac">Eyeblaster</a><br>
-								<a href="http://www.eyewonder.com/ewNPrivacy/privacy.cfm" target="_blank" class="tictac">EyeWonder</a><br>
-								<a href="http://www.dynamiclogic.com/privacy_policy.php" target="_blank" class="tictac">Dynamic Logic</a><br>
-								<a href="http://www.dartmotif.com/privacy/privacy_policy.asp" target="_blank" class="tictac">Klipmart</a><br>
-								<a href="http://www.millwardbrown.com/Sites/millwardbrown/Content/Global/TermsAndConditions.aspx" target="_blank" class="tictac">Millward Brown IntelliQuest</a><br>
-								<a href="http://www.unicast.com/privacy-policy.shtml" target="_blank" class="tictac">Unicast</a>
-							</p>
-							<a name="corrections"></a>
-							<br>
-							<h3>Access to personal information</h3>
-							<p>If you created a password-protected account within our site go back to that portion of the site to review the information you provided.</p>
-							<p>If you have any questions or concerns regarding PGA.com's Privacy Statement, you should contact PGA.com at <a href="mailto:privacy.pga@turner.com" title="Send an email">privacy@pga.com</a></p>
-						</div>
-						<div class="pga-vspc2">&nbsp;</div>
-					<!-- Promo Plates -->
-					<div class="centerColRow padThirteenT">
-	<div class="ctrColLeftCell">
-		<!--<a href="/instruction/asktheexperts/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/promo/lr_209x157_askthepgaexperts.gif" alt="Ask The PGA Experts" /></a>-->
-<a href="https://ems.pgalinks.com/ticketing/index.cfm?action=sale&amp;sale_id=55" target="_blank"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/promo/lr_209x157_pgachamp-tkts.gif" alt="2010 PGA Championship Tickets"></a>
-	</div>
-	<div class="ctrColRgtCell">
-		<a href="/instruction/alessonlearned/"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/promo/lr_209x157_lessonlearned.gif" alt="Ryder Cup" class="promoPlate"></a>
-	</div>
-	<div class="clear"></div>
-</div>
-
-					
-					<!-- Sponsor Ad Links -->
-					<!-- !! Quigo Sponsored Ads begin !! -->
-<iframe src="/.element/ssi/global/1.0/cgroups/home.html" width="430" height="150" align="left" frameborder="0" scrolling="no" marginwidth="0"></iframe>
-<!-- !! Quigo Sponsored Ads end !! -->
-					<div class="pga-vspc-botpad">&nbsp;</div>
-					</div>
-					<!-- / Center Content Area -->
-				</div>
-				<!-- End Center Column -->
-
-				<!--Start Right Column -->
-				<div id="pgaRightPanel">
-					<div class="pgaMNavShdw"></div>
-
-					<!-- Section Modules -->
-										<!-- PGA of America Info -->
-					<div class="rrModWrap">
-						<div class="rrGenericMod">
-							<div>
-	<img src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/pgaofamerica/pga_logo_grey-bg.jpg" class="marginten" alt="PGA of America">
-	<h3 class="nopadmargin">Experts in the Game and Business of Golf</h3>
-	<p class="nomarginT">Founded in 1916, The PGA of America is the largest working sports organization in the world, comprised of more than 28,000 dedicated men and women promoting the game of golf to everyone, everywhere.</p>
-	<p class="padFiveT">The PGA of America<br>
-    	100 Avenue of the Champions<br>
-		Palm Beach Gardens, FL 33418<br>
-		(561) 624-8400						
-	</p>
-</div>
-						</div>
-					</div>
-
-					<!--  Tickets  -->
-					<div class="rrModWrap">
-						<div class="rrGenericMod">
-														<div class="pgaRemoveBorder">
-								<h1>Tickets</h1>
-								
-                        
-                            
-                                
-                                    
-                                          
-                                        <div class="imageBox">  <!--===========IMAGE============--> <a href="/pgachampionship/2010/"> <img class="borderedImage" src="http://i2.cdn.turner.com/pga/2009/images/12/29/pgachamp2010_thumb.gif" alt="2010 PGA Championship" width="76" height="65" border="0"></a></div><div class="contentBoxSML"><h3><a href="/pgachampionship/2010/">2010 PGA Championship</a></h3><p>2010 promises to be an historic year in golf. Get your tickets now to "Glory's Last Shot" at beautiful Whistling Straits, Aug. 9-15. </p></div>
-                                    									
-                                
-                                <div class="clear"></div>
-                            
-                        
-                    
-							</div>
-						</div>
-					</div>
-
-					<!-- 300x250 Ad -->
-					<div class="rrModWrap">
-						<div id="rrAd-300x250-1">
-							<!-- ADSPACE: pga_of_america/right.300x250 --><div id="ad-635028" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//<![CDATA[
-cnnad_createAd("635028","http://ads.pga.com/html.ng/site=pga&pga_pos=300x250_rgt&pga_rollup=pga_of_america&params.styles=fs","250","300");
-//]]>
-
-
-
-
-</script></div>
-						</div>
-					</div>
-
-					<!-- Middle/Cross-reference Modules -->
-										<!-- PGA of America Leaders -->
-					<div class="rrModWrap">
-						<div class="rrGenericMod">
-														<div id="leaders">
-								<h1>PGA of America Leaders</h1>
-								<table>
-									<tbody><tr>
-										<td colspan="2">
-											<a href="/pgaofamerica/leaders/jim_remy.html"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/pgaofamerica/pga_photo_jim-remy_76x64.jpg" width="76" height="64" alt="Jim Remy"></a>
-											<h3>Jim Remy</h3>
-											<p>President</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<a href="/pgaofamerica/leaders/allen_wronowski.html"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/pgaofamerica/pga_photo_allen-wronowski_76x64.jpg" width="76" height="64" alt="Allen Wronowski"></a>
-											<h3>Allen Wronowski</h3>
-											<p>Vice President</p>
-										</td>
-										<td>
-											<a href="/pgaofamerica/leaders/ted_bishop.html"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/pgaofamerica/pga_photo_ted-bishop_76x64.jpg" width="76" height="64" alt="Ted Bishop"></a>
-											<h3>Ted Bishop</h3>
-											<p>Secretary</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<a href="/pgaofamerica/leaders/brian_whitcomb.html"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/pgaofamerica/pga_photo_brian-whitcomb_76x64.jpg" width="76" height="64" alt="Brian Whitcomb"></a>
-											<h3>Brian Whitcomb</h3>
-											<p>Honorary President</p>
-										</td>
-										<td>
-											<a href="/pgaofamerica/leaders/joe_steranka.html"><img src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/pgaofamerica/pga_photo_joe-steranka_76x64.jpg" width="76" height="64" alt="Joe Steranka"></a>
-											<h3>Joe Steranka</h3>
-											<p>CEO</p>
-										</td>
-									</tr>
-								</tbody></table>
-							</div>
-						</div>
-					</div>
-
-					<!-- More from the PGA of America -->
-					<div class="rrModWrap">
-						<div class="rrGenericMod">
-							<h1>More From the PGA of America</h1>
-  <div class="contentBoxFULL"><h3><a href="http://www.pgaexpo.com/" target="new">PGA Fall Expo</a></h3><p>The PGA Fall Expo is the industry's premier Fall pre-book and apparel buying event. </p></div>    <div class="contentBoxFULL"><h3><a href="http://www.pgafoundation.com/" target="new">The PGA Foundation</a></h3><p>The PGA Foundation is the charitable arm of The PGA of America. This philanthropic organization was founded in 1954 and is a licensed 501 (c) (3 foundation. </p></div>  
-<ul>
-	<li><a href="/schedules/pgaofamerica/">more PGA of America initiatives</a></li>
+      <div id="name-and-slogan" class="element-invisible">
+                              <div id="site-name"><strong>
+              <a href="/home" title="Home" rel="home"><span>PGA.com</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">The Official Home of The PGA of America</div>
+              </div> <!-- /#name-and-slogan -->
+
+              <div id="header-widget">
+          <div class="section clearfix">
+            <div class="region region-header-widgets">
+  <div id="block-block-101" class="block block-block region-odd odd region-count-1 count-3">
+  
+  <div class="content">
+    <div id="block-follow-site">
+<div class="title" style="color:#C4BEAF;display:inline;font-family:'Lucida Grande','Lucida Sans Unicode',sans-serif;font-size:1em;font-weight:normal;line-height:28px;margin-bottom:0;margin-top:0;padding-right:10px;">Follow us</div>
+<ul id="follow-links" class="links">
+<li><a href="http://www.facebook.com/PGAcom" class="follow-link follow-link-facebook" target="_blank"><img src="http://i.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/images/icon-facebook.png" style="text-decoration:none;border:0px;" alt="facebook page" title="facebook page" width="12" height="12"></a></li>
+<li><a href="http://twitter.com/PGA_com" class="follow-link follow-link-twitter" target="_blank"><img src="http://i.cdn.turner.com/dr/pga/sites/default/themes/sitetheme/images/icon-twitter.png" alt="twitter" title="twitter" width="12" height="12"></a></li>
 </ul>
-						</div>
-					</div>
-
-					<!-- Global Modules -->
-										<!-- Event Accordion -->
-					<div class="nopad">
-						<div id="event_accordion">
-	<div id="vertical_container">
-		<div class="accordion_toggle">PGA OF AMERICA CHAMPIONSHIPS</div>
-		<div class="accordion_content">
-			<div class="pgaRemoveBorder">
-				
-				<!--<div class="imageBox" style="_position:absolute;">
-					<a href="http://www.pga.com/nationalchampionship/2009/">
-					<img height="65" border="0" width="76" alt="PGA Professional National Championships" src="/.element/img/1.0/sect/tournaments/ppnc2009_thumb.gif" class="borderedImage"/></a>
-					</div>
-
-				<div class="contentBoxSML">
-					<h3>
-						<a href="http://www.pga.com/nationalchampionship/2009/">PGA Professional National Championship</a>
-					</h3>
-					<p>
-						Twin Warriors Golf Club
-						<br/>
-						Santa Ana Pueblo, N.M. 
-						<br/>
-						June 28 - July 1, 2009
-					</p>
-				</div>
-				<div class="clear"/></div>-->
-
-				<div class="imageBox" style="_position:absolute;">
-					<a href="http://www.pga.com/pgachampionship/2010"><img class="borderedImage" src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/tournaments/pgachamp2010_thumb.gif" alt="2010 PGA Championship" border="0"></a>
-				</div>
-				<div class="contentBoxSML">
-					<h3><a href="http://www.pga.com/pgachampionship/2010/">PGA Championship</a></h3>
-					<p>
-						Whistling Straits<br>
-						Kohler, WI<br>
-						August 9-15, 2010<br>
-						<a href="http://www.pga.com/pgachampionship/2010">2010</a> | 
-						<a href="http://www.pga.com/pgachampionship/2011">2011</a> |
-						<a href="http://www.pga.com/pgachampionship/2012">2012</a>
-					</p>
-				</div>
-				<div class="clear"></div>
-
-				<div class="imageBox">
-					<a href="http://www.pga.com/grandslam/2010"><img class="borderedImage" src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/tournaments/gsog2009_thumb.gif" alt="2010 Grand Slam of Golf" width="76" height="65" border="0"></a>
-				</div>
-				<div class="contentBoxSML">
-					<h3><a href="http://www.pga.com/grandslam/2010">PGA Grand Slam of Golf</a></h3>
-					<p>
-						Port Royal Golf Club<br>
-						Southampton, Bermuda<br>
-						October 18-20, 2010 
-					</p>
-				</div>
-				<div class="clear"></div>
-
-				<div class="imageBox">
-					<a href="http://www.pga.com/seniorpga/2010"><img class="borderedImage" src="/.element/img/1.0/sect/tournaments/srpga2010_thumb.gif" alt="2010 Senior PGA Championship" width="76" height="65" border="0"></a>
-				</div>
-				<div class="contentBoxSML">
-					<h3><a href="http://www.pga.com/seniorpga/2010">Senior PGA Championship</a></h3>
-					<p>
-						Colorado Golf Club <br>
-						Denver, CO<br>
-						May 25-30, 2010<br>
-						<a href="http://www.pga.com/seniorpga/2010">2010</a> | 
-						<a href="http://www.pga.com/seniorpga/2011">2011</a>
-					</p>
-				</div>
-				<div class="clear"></div>
-				<!--
-				<div class="imageBox">
-					<a href="/pgacup/2009/"><img class="borderedImage" src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/tournaments/pgacup_thumb.gif" alt="PGA Cup" width="76" height="65" border="0" /></a>
-				</div>
-				<div class="contentBoxSML">
-					<h3><a href="/pgacup/2009/">PGA Cup</a></h3>
-					<p>
-						DeVere Deluxe Resort<br>
-						Loch Lomond, Scotland<br>
-						September 18-20, 2009
-					</p>
-				</div>
-				<div class="clear"></div> -->
-				<div class="imageBox">
-					<a href="http://www.rydercup.com/2010"><img class="borderedImage" src="http://i.cdn.turner.com/pga/.element/img/1.0/sect/tournaments/rydercup2010_thumb.gif" alt="2010 Ryder Cup" width="76" height="65" border="0"></a>
-				</div>
-				<div class="contentBoxSML">
-					<h3><a href="http://www.rydercup.com/2010">Ryder Cup</a></h3>
-					<p>
-						The Celtic Manor Resort<br>
-						Newport, Wales<br>
-						October 1-3, 2010
-					</p>
-				</div>
-				<div class="clear"></div>
-				<div class="contentBoxSML" style="float:left;left:15px;padding-bottom:7px;">
-					<a href="/schedules/pgaofamerica/" class="tictac">All PGA of America Events</a>
-				</div>
-				<div class="clear"></div>
-			</div>
-		</div>
-		<div class="accordion_toggle">MAJORS</div>
-		<div class="accordion_content">
-			<a href="http://www.pga.com/pgachampionship/" class="tictac" style="display:inline;">PGA Championship</a>&nbsp;&nbsp;&nbsp;<a href="http://www.pga.com/pgachampionship/2009">2009</a> | <a href="http://www.pga.com/pgachampionship/2010">2010</a>
-			<a href="http://www.majorschampionships.com/masters/2010/" class="tictac">The Masters</a>
-			<a href="http://www.majorschampionships.com/usopen/2010/" class="tictac">U.S. Open</a>
-			<a href="http://www.pga.com/openchampionship/2010/" class="tictac">The Open Championship</a>
-		</div>
-		<!--div class="accordion_toggle">PGA OF AMERICA EVENTS</div-->
-		<!--div class="accordion_content">
-			<a href="http://www.pga.com/nationalchampionship/2009/" class="tictac">PGA Professional National Championship</a>
-			<a href="http://www.pga.com/merchandise/2009/" class="tictac">PGA Merchandise Show</a>
-			<a href="http://www.pga.com/pgacup/2009/" class="tictac">PGA CUP</a>
-			<a href="/schedules/pgaofamerica/" class="tictac">more</a>
-		</div-->
-
-	</div>
 </div>
-					</div>
+  </div>
 
-					<!--  Find A PGA Professional -->
-					<!-- <div class="rrModWrap rrModWrap-first"> -->
-						<!-- #include virtual="/.element/ssi/global/1.0/.rail/rr_prosearch.html" -->
-					<!-- </div> -->
+  </div> <!-- /.block -->
+<div id="block-custom-login" class="block block-custom region-even even region-count-2 count-4">
+  
+  <div class="content">
+    <a href="/user/login?destination=node%2F31665" class="drupal-login">Login</a>  </div>
 
-					<!--  Play Golf America  -->
-					<div class="rrModWrap rrModWrap-first rrModWrap-last">
-						<div class="rrGenericMod">
-							<!--  Play Golf America  -->
-<div id="pgaPlayGolf">
-	<h1>Play Golf America</h1>
-	
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+          </div> <!-- /.section -->
+        </div> <!-- /#header-widget -->
+      
+      <div id="navigation"><div class="section clearfix">
+        <div class="region region-navigation">
+  <div id="block-search-0" class="block block-search region-odd odd region-count-1 count-5">
+  
+  <div class="content">
+    <form action="/about/privacy" accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<span class="submit-button-wrapper"><input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"></span>
+<input type="hidden" name="form_build_id" id="form-daa0bc0b2a11006ace193b766cd451b8" value="form-daa0bc0b2a11006ace193b766cd451b8">
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
+</div>
+
+</div></form>
+  </div>
+
+  </div> <!-- /.block -->
+<div id="block-superfish-1" class="block block-superfish region-even even region-count-2 count-6">
+  
+  <div class="content">
+    <ul class="sf-menu sf-horizontal sf-style-white" id="superfish-1">
+<li id="menu-925-1" class="first sf-item-1 menuparent"><a href="/home" title="">PGA</a>
+<ul>
+<li id="menu-926-1" class="first sf-item-1"><a href="/pga-america" title="PGA of America">PGA of America</a></li>
+<li id="menu-2883-1" class="sf-item-2"><a href="http://www.pga.com/tickets" title="PGA Tickets">Tickets</a></li>
+<li id="menu-2884-1" class="sf-item-3"><a href="http://www.playgolfamerica.com/" title="Play Golf of America">Play Golf America</a></li>
+<li id="menu-8855-1" class="sf-item-4"><a href="/pga-america/find-professionals" title="Find a PGA Professional">Find a PGA Professional</a></li>
+<li id="menu-2885-1" class="sf-item-5"><a href="http://pgajobfinder.pgalinks.com/helpwanted/empcenter/" title="Jobs in Golf">Employment Center</a></li>
+<li id="menu-3248-1" class="sf-item-6"><a href="/pga-america/sections" title="PGA Sections">PGA Sections</a></li>
+<li id="menu-3247-1" class="sf-item-7"><a href="/pga-america/partners" title="PGA Partners">PGA Partners</a></li>
+<li id="menu-3246-1" class="sf-item-8"><a href="/pga-america/history" title="PGA History">History</a></li>
+<li id="menu-3249-1" class="sf-item-9"><a href="/pga-america/member-classifications" title="PGA Member Classifications">Member Classifications</a></li>
+<li id="menu-15887-1" class="sf-item-10"><a href="http://www.pgatournaments.com/index.cfm?menu=4113&amp;openitem=4113" title="">PGA Member Tournaments</a></li>
+<li id="menu-2886-1" class="sf-item-11"><a href="http://www.pgavillage.com/" title="">PGA Golf Club</a></li>
+<li id="menu-3250-1" class="sf-item-12"><a href="/pga-america/juniors" title="Juniors">Juniors</a></li>
+<li id="menu-2887-1" class="sf-item-13"><a href="http://www.pgalinks.com/diversity/" title="Success with Diversity">PGA Diversity</a></li>
+<li id="menu-6563-1" class="sf-item-14"><a href="http://www.playgolfamerica.com/holeinone/index.cfm" title="PGA Hole-in-One">Hole-in-One Search</a></li>
+<li id="menu-8955-1" class="sf-item-15"><a href="/global" title="">PGA Global</a></li>
+<li id="menu-9069-1" class="last sf-item-16"><a href="http://wearegolf.org/" title="We Are Golf">We Are Golf</a></li>
+</ul>
+</li>
+<li id="menu-3276-1" class="sf-item-2 menuparent"><a href="/news" title="Golf News &amp; Championship Coverage">News &amp; Events</a>
+<ul>
+<li id="menu-3285-1" class="first sf-item-1"><a href="/news" title="Latest Golf News">Latest News</a></li>
+<li id="menu-3287-1" class="sf-item-2"><a href="/news/golf-leaderboard" title="Golf Leaderboards">Latest Leaderboard</a></li>
+<li id="menu-3288-1" class="sf-item-3"><a href="/news/golf-tv-schedule" title="Golf TV Schedule">Golf on TV</a></li>
+<li id="menu-3280-1" class="sf-item-4"><a href="http://www.pga.com/pgachampionship/2011/" title="The PGA Championship">PGA Championship</a></li>
+<li id="menu-3283-1" class="sf-item-5"><a href="http://www.rydercup.com/2012/" title="The Ryder Cup">Ryder Cup</a></li>
+<li id="menu-3282-1" class="sf-item-6"><a href="http://www.pga.com/seniorpga/2011/" title="The Senior PGA Championship">Senior PGA</a></li>
+<li id="menu-3281-1" class="sf-item-7"><a href="http://www.pga.com/grandslam/2011/index.cfm" title="The PGA Grand Slam of Golf">PGA Grand Slam</a></li>
+<li id="menu-3284-1" class="sf-item-8"><a href="/pga-america/pga/2011-pga-america-schedule-events" title="PGA of America Event Schedule">PGA of America Events</a></li>
+<li id="menu-3286-1" class="sf-item-9"><a href="/news/event-schedule" title="Full Golf Event Schedule">Full Golf Schedule</a></li>
+<li id="menu-3894-1" class="sf-item-10"><a href="/about/contests-promotions" title="PGA.com Contests and Promotions">Contests &amp; Promotions</a></li>
+<li id="menu-3228-1" class="last sf-item-11"><a href="/golf-travel" title="Golf Travel">Golf Travel</a></li>
+</ul>
+</li>
+<li id="menu-929-1" class="sf-item-3 menuparent"><a href="/golf-courses" title="Golf Courses">Courses</a>
+<ul>
+<li id="menu-930-1" class="first sf-item-1"><a href="/golf-courses" title="Find a Golf Course">Find a Course</a></li>
+<li id="menu-3229-1" class="sf-item-2"><a href="/golf-courses/details" title="Browse Golf Courses">Browse by State</a></li>
+<li id="menu-3230-1" class="last sf-item-3"><a href="/golf-courses/worlds-most-beautiful-courses" title="World's Most Beautiful Courses">Most Beautiful Courses</a></li>
+</ul>
+</li>
+<li id="menu-3231-1" class="sf-item-4 menuparent"><a href="/golf-equipment" title="Golf Equipment">Equipment</a>
+<ul>
+<li id="menu-8767-1" class="first sf-item-1"><a href="/golf-equipment" title="Find a Golf Club">Find a Club</a></li>
+<li id="menu-8769-1" class="sf-item-2"><a href="/golf-equipment/brand-summary" title="">Browse by Brand</a></li>
+<li id="menu-8771-1" class="sf-item-3"><a href="/golf-equipment/type" title="">Browse by Type</a></li>
+<li id="menu-933-1" class="last sf-item-4"><a href="http://valueguide.pga.com/" title="Golf Club Values and Info">Trade-in Your Clubs</a></li>
+</ul>
+</li>
+<li id="menu-934-1" class="last sf-item-5 menuparent"><a href="/golf-instruction" title="Golf Instruction">Instruction</a>
+<ul>
+<li id="menu-3237-1" class="first sf-item-1"><a href="/golf-instruction/find-instructor" title="Find a PGA Instructor">Find an Instructor</a></li>
+<li id="menu-9587-1" class="sf-item-2"><a href="/golf-instruction" title="Golf Instruction Videos">Instruction Videos</a></li>
+<li id="menu-3251-1" class="last sf-item-3"><a href="/golf-instruction/golf-101" title="Golf Rules, Etiquette &amp; Glossary">Golf Basics</a></li>
+</ul>
+</li>
+</ul>
+  </div>
+
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+      </div></div> <!-- /.section, /#navigation -->
+
+    </div></div> <!-- /.section, /#header -->
+
+    <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+      
+              <h1 class="title">Privacy Policy</h1>
+      
+      <div id="content" class="column"><div class="section">
+
+        
+        
                         
-                            
-                                
-                                    
-                                          
-                                        <div class="imageBox">  <!--===========IMAGE============--><a href="http://www.playgolfamerica.com" target="_blank">  <img class="borderedImage" src="http://i2.cdn.turner.com/pga/2008/images/01/13/play-golf-america.jpg" alt="Helping To Grow The Game" width="76" height="64" border="0"></a></div><div class="contentBoxSML"><h3><a href="http://www.playgolfamerica.com" target="new">Helping To Grow The Game</a></h3><p>One of the most important missions for the PGA of America is to promote and grow the game of golf. </p></div>
-                                    
-                                
-                            
-                        
-                    
-	<div class="clear"></div>
+          
+        <div id="content-area">
+          <div id="node-31665" class="node node-type-html clearfix">
+  
+  
+  
+      <div class="meta">
+          </div>
+  
+  <div class="content">
+    <span class="print-link"></span><div class="field field-type-text field-field-body">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <p>Thank you for visiting PGA.com. Turner Broadcasting System, Inc. (including its subsidiaries, collectively, "Turner") operates PGA.com pursuant to agreements with the Professional Golfers Association of America ("PGA"). Your privacy is important to Turner and PGA ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at PGA.com (including the website located at <a href="http://www.pga.com">www.pga.com</a> and those other PGA-branded sites and platforms operated by Turner which post a link to this privacy policy).  PGA.com is a general audience Turner site and is part of Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates. </p>
+<h3>The Information We Collect</h3>
+<p>At some Turner Network sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of personal information. Examples of the types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. </p><p>
+At some Turner Network sites, you may also be able to submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. Examples of the types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. </p><p>
+At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. </p><p>
+We, our service providers, advertisers and partners may collect various types of non-personally identifiable information when you visit any of our sites. A representative list of the types of non-personally identifiable information we may collect include: current Internet protocol address and type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&amp;T), the web pages you have visited, sites visited before and after you visit a site on the Turner Network, the type of handheld or mobile device used to view the site (e.g., iPhone, Blackberry), location information, the content you have accessed and the advertisements you have been shown and/or clicked on. </p><p>
+You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, and Turner Network or third-party social media plug-ins and applications.   When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes' you make) to deliver the content or as part of the operation of the application.  We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.
+ </p><p>
+When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards.  By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+ </p><p>
+Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use. </p>
+<h3>How We Use the Information</h3>
+<p>We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our sites, and/or for the purposes for which you provided the information. </p><p>
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our terms of use, to fulfill a request by you for an online newsletter, or to contact you about your account with us. </p><p>
+We use the information that you provide about others to enable us to send them your gifts or cards or emails you may wish to send them from our sites, and for such other purposes as may be stated at the point where the information is collected. </p><p>
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. </p><p>
+If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us.  Without limiting the generality of the foregoing, if you register and create a profile with our site, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the site and may be reused and redistributed by us in our discretion. </p><p>
+We may on occasion combine information we collect through our sites with information that we collect from other sources. </p><p>
+We use the non-personally identifiable information that we collect to improve the design and content of our sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our sites, as well as to offer you products, programs, or services. </p>
+<h3>Information Sharing and Disclosure</h3>
+<p>We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. </p><p>
+In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, merged with or otherwise transferred to another entity. </p><p>
+Our agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this privacy statement and are not authorized to use the information for any purpose other than to carry out the services they are performing for us. </p><p>
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy statement. </p><p>
+We may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a Turner Network site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure. </p><p>
+If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this site. </p><p>
+To provide visitors with additional or more relevant product and service opportunities, we may share non-personally identifiable information with third parties. </p>
+<h3>Cookies &amp; Web Beacons</h3>
+<p>To enhance your online experience, we use "cookies" or similar technologies. Cookies are text files placed in your computer's browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie. </p><p>
+We use cookies to understand site and Internet usage and to improve or customize the content, offerings or advertisements on our sites. For example, we may use cookies to personalize your experience at our sites (e.g., to recognize you by name when you return to a site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising. </p><p>
+We, our third party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or sites. This also helps us, our service providers and partners provide more relevant advertising. For more information regarding third-party ad servers, see "Collection of Information by Third-Party Sites, Ad Servers, and Sponsors" below. </p><p>
+The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the Turner Network employ locally stored objects (sometimes referred to as "Flash cookies") in certain situations where we use Flash to provide special content such as video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank">Adobe's website</a> directly. </p><p>
+We, our third party service providers, advertiser or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. </p><p>
+You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information. </p>
+<h3>Collection of Information by Third-Party Sites, Ad Servers, and Sponsors</h3>
+<p>Some of our sites contain links to or integrations with other sites such as Facebook, Twitter, LinkedIn, etc., whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. </p><p>
+Turner Network sites covered by this privacy statement may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. </p><p>
+We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. </p>
+<h3>Ad Choices</h3>
+<p>Our goal at the Turner Network is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which sites on the Turner Network are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across the Turner Network's diverse websites. 
+</p><p>
+For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies do not use personally identifiable information to make this happen but instead use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our <a href="/ad-choices">Ad Choices</a> page.
+</p>
+<h3>Turner's Participation in the Industry Self Regulatory Program for Interest Based Ads; Additional Choice Options</h3>
+<p>Turner is a participant in the online industry's self regulatory program administered by the Digital Advertising Alliance (the "DAA") and has agreed to adhere to the DAA's principles applicable to interest-based ads.  Please visit the <a href="http://www.aboutads.info/" target="_blank">Self Regulatory Program site</a> for more information about the DAA, the self regulatory principles and choices you can make regarding interest-based ads. </p><p>
+You may find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the <a href="http://www.networkadvertising.org" target="_blank">NAI site</a>.</p>
+<h3>International Transfer</h3>
+<p>Turner operates globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and other laws of other countries, such as the United States, may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using this site you consent to your information being collected, used and transferred as set forth in this privacy statement. </p>
+<h3>Our Commitment to Security</h3>
+<p>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. </p>
+<h3>How You Can Access or Correct Information</h3>
+<p>Access to personally identifiable information that is collected from our sites and that we maintain may be available to you. For example, if you created a password-protected account within our site, you can access that account to review the information you provided. </p><p>
+You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service. </p>
+<p>E-mail Administration<br>
+Turner Broadcasting System, Inc. <br>
+Attention: Privacy<br>
+One CNN Center, 13 North<br>
+Atlanta, GA 30303<br>
+email: <a href="mailto:privacy.pga@turner.com">privacy.pga@turner.com</a></p>
+<h3>How to Contact Us</h3>
+<p>If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at <a href="mailto:privacy.pga@turner.com">privacy.pga@turner.com</a>. </p>
+<h3>Updates &amp; Effective Date</h3>
+<p>From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it. </p><p>
+The Privacy Statement posted on this site was updated in February, 2011.
+</p>
+        </div>
+        </div>
 </div>
-						</div>
-					</div>
+  </div>
+</div> <!-- /.node -->
+        </div>
 
-					<div class="pga-vspc-botpad">&nbsp;</div>
-				</div>
-				<!--End Right Column -->
-				<div class="clear"></div>
-			</div>
-			<!-- End Content-->
-		</div>
-		<!-- Footer Section Starts Here -->
-		<!--  PGA Footer  -->
-<div id="pgaFooter">
-	<div id="pgaFooterText">
-		<img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/pgalogo_footer.gif" class="flogo" alt=""><!--PGA.com--><br>
-		<div id="pgaFooterLinks">
-	<div class="pgaFooterLinks" id="pgaFooterLinksLeft">
-		<h2>The PGA <i>of</i> America</h2>
-		<ul>
-			<li><a href="http://www.pga.com/pgaofamerica/history/">About The PGA</a></li>
-			<li><a href="https://ems.pgalinks.com/index_all_events.cfm?CFID=1374400&amp;CFTOKEN=53783287&amp;jsessionid=1830b9e5f02c8d55109f58f483ba4a402b63">Championship Tickets</a></li>
-			<li><a href="http://pgajobfinder.pgalinks.com/helpwanted/empcenter/">Employment Center</a></li>
-			<li><a href="http://www.pga.com/pgaofamerica/sections/">PGA Sections</a></li>
-			<li><a href="http://www.pga.com/pgaofamerica/classifications/">PGA Member Classification</a></li>
-			<li><a href="http://www.pga.com/pgaofamerica/juniors/">Juniors</a></li>
-			<li><a href="http://www.pgalinks.com/diversity/index.cfm">PGA Diversity</a></li>
-			<li><a href="http://www.pga.com/pgaofamerica/associations/">Allied Associations</a></li>
-			<li><a href="http://www.pga.com/global/">PGA Global</a></li>
-			<li><a href="https://ems.pgalinks.com/index_all_events.cfm?CFID=1374400&amp;CFTOKEN=53783287&amp;jsessionid=1830b9e5f02c8d55109f58f483ba4a402b63">Volunteer</a></li>
-			<li><a href="http://www.pga.com/about/contact/">Contact Us</a></li>			
-		</ul>
-	</div>
-	<div class="pgaFooterLinks" id="pgaFooterLinksCenterLeft">
-		<h2>Courses <i>&amp;</i> Travel</h2>
-		<ul>
-			<li><a href="http://www.pga.com/profinder/">PGA Profinder</a></li>
-			<li><a href="http://www.pgavillage.com/">PGA Golf Properties</a></li>
-			<li><a href="http://www.pgavillage.com/stlucie/index.cfm?page=pga_learning_center">PGA Center for Golf Learning &amp; <br>&nbsp;&nbsp;&nbsp;Performance</a></li>
-		</ul>
-		<h2>Sales <i>&amp;</i> Marketing</h2>
-		<ul>
-			<li><a href="http://www.pga.com/about/advertising/">Online Advertising &amp; Promotion</a></li>
-			<li><a href="http://www.pga.com/pgaofamerica/sponsors/">PGA Partners &amp; Licensees</a></li>
-			<li><a href="http://www.pgamarketingcenter.com/">Marketing Center</a></li>
-			<li><a href="http://www.pga.com/pgaofamerica/hospitality/">Corporate Hospitality</a></li>	
-		</ul>
-	</div>
-	<div class="pgaFooterLinks" id="pgaFooterLinksCenter">
-		<h2>PGA.com</h2>
-		<ul>
-			<li><a href="http://www.pga.com/about/">About Us</a></li>
-			<li><a href="http://www.pga.com/about/terms/">Terms of Service</a></li>
-			<li><a href="http://www.pga.com/about/privacy/">Privacy Policy</a></li>
-			<li><a href="http://www.pga.com/about/feedback/">Feedback</a></li>
-			<li><a href="http://www.pga.com/about/contact/">Contact Us</a></li>			
-		</ul>		
-		<h2 id="pgaFooterSocial">Social Media</h2>
-		<ul id="pgaFooterSocialLinks">
-			<li><a href="http://www.facebook.com/PGAcom">Facebook</a></li>
-			<li><a href="http://twitter.com/PGA_com">Twitter</a></li>		
-		</ul>		
-	</div>
-	<div class="pgaFooterLinks" id="pgaFooterLinksCenterRight">
-		<h2>Media Room</h2>
-		<ul>
-			<li><a href="http://www.pgamediacenter.com/">Media Center</a></li>
-			<li><a href="http://www.pgamediacenter.com/pressReleases/pressRelease.cfm">Press Releases</a></li>
-			<li><a href="http://www.pgalinks.com/index.cfm?ctc=1778">PGA PerformanceTrak</a></li>
-			<li><a href="http://www.pgamagazine.com/">PGA Magazine</a></li>
-			<li><a href="http://www.pga.com/2009/news/other/11/17/pga_mobile/index.html">Mobile</a></li>
-			<li><a href="http://www.imgmediaarchive.com/">PGA Films &amp; Videos</a></li>		
-		</ul>		
-	</div>
-	<div class="pgaFooterLinks" id="pgaFooterLinksRight">
-		<h2>PGA Programs</h2>
-		<ul>
-			<li><a href="http://www.playgolfamerica.com/">Play Golf America</a></li>
-			<li><a href="http://www.pgafoundation.com/">PGA Foundation</a></li>
-			<li><a href="http://pgajobfinder.pgalinks.com/helpwanted/empcenter/pgaandyou/universities.cfm">PGA Education</a></li>
-			<li><a href="http://www.pgaexpo.com/">PGA Expos</a></li>
-			<li><a href="http://www.pgasupplierdiversity.com/">PGA Supplier Diversity</a></li>		
-		</ul>	
-	</div>	
+        
+        
+        <div class="breadcrumb"><a href="/home">Home</a> » Privacy Policy</div>
+      </div></div> <!-- /.section, /#content -->
+
+      <div class="region region-sidebar-first column sidebar"><div class="section">
+  <div id="block-block-41" class="block block-block region-odd odd region-count-1 count-7">
+  
+  <div class="content">
+    <!-- ADSPACE: pga/rgt.300x250 --><div id="ad-296527" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("296527","http://ads.pga.com/html.ng/site=pga&pga_pos=300x250_rgt&pga_rollup=pga&page.allowcompete=yes&params.styles=fs","250","300");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div>  </div>
+
+  </div> <!-- /.block -->
+<div id="block-block-42" class="block block-block region-even even region-count-2 count-8">
+  
+  <div class="content">
+    <!-- ADSPACE: pga/spon.300x100 --><div id="ad-799564" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("799564","http://ads.pga.com/html.ng/site=pga&pga_pos=300x125_spon&pga_rollup=pga&page.allowcompete=yes&params.styles=fs","100","300");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div>  </div>
+
+  </div> <!-- /.block -->
+</div></div> <!-- /.section, /.region -->
+
+      
+    </div></div> <!-- /#main, /#main-wrapper -->
+
+          <div id="footer"><div class="section">
+
+        <div class="region region-footer">
+  <div id="block-block-1" class="block block-block region-odd odd region-count-1 count-9">
+  
+  <div class="content">
+    <div id="nf-footer">
+<div class="nf-rightcolparent">
+<div class="nf-rightcol1">
+<h4 class="nf-head">The PGA <span class="nf-italic">of</span> America</h4>
+<ul>
+<li><a href="/pga-america/history">About The PGA</a></li>
+<li>
+                <a href="https://ems.pgalinks.com/index_all_events.cfm" target="_blank">Championship Tickets</a></li>
+<li>
+                <a href="http://pgajobfinder.pgalinks.com/helpwanted/empcenter/" target="_blank">Employment Center</a></li>
+<li>
+                <a href="/pga-america/sections">PGA Sections</a></li>
+<li>
+                <a href="/pga-america/member-classifications">PGA Member Classification</a></li>
+<li>
+                <a href="/pga-america/juniors">Juniors</a></li>
+<li>
+                <a href="http://www.pgalinks.com/diversity/index.cfm" target="_blank">PGA Diversity</a></li>
+<li>
+                <a href="/pga-america/allied-associations">Allied Associations</a></li>
+<li>
+				<a href="/global">PGA Global</a></li>
+<li>
+                <a href="https://ems.pgalinks.com/index_all_events.cfm" target="_blank">Volunteer</a></li>
+<li>
+                <a href="/about/contact">Contact Us</a></li>
+</ul>
 </div>
-		<div class="pgaFooterCopy">
-			<img src="http://i.cdn.turner.com/pga/.element/img/1.0/global/logo/ftrlogo_pga.gif" alt="">
-			© 2003-2010 PGA / Turner Sports Interactive. All rights reserved.<br>
-	    	PGA.com is part of the Turner Sports and Entertainment Digital Network<br>	
-		</div>	
-	</div>
+<div class="nf-rightcol2">
+<h4 class="nf-head">Courses</h4>
+<ul>
+<li><a href="/golf-instruction/find-instructor">Find an Instructor</a></li>
+<li>
+                <a href="http://www.pgavillage.com/" target="_blank">PGA Golf Properties</a></li>
+<li>
+                <a href="http://www.pgavillage.com/stlucie/index.cfm?page=pga_learning_center" target="_blank">PGA Center for Golf Learning &amp; <br>Performance</a></li>
+<li>
+		</li></ul>
+<h4 class="nf-head">Sales <span class="nf-italic">&amp;</span> Marketing</h4>
+<ul>
+<li><a href="/about/advertising/">Online Advertising &amp; Promotion</a></li>
+<li>
+                <a href="/pga-america/partners">PGA Partners &amp; Licensees</a></li>
+<li>
+                <a href="/pga-america/hospitality">Corporate Hospitality</a></li>
+</ul>
 </div>
-<script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script> 
+<div class="nf-rightcol3">
+<h4 class="nf-head">PGA.com</h4>
+<ul>
+<li><a href="/about">About Us</a></li>
+<li>
+                <a href="/about/advisory">Advisory Board</a></li>
+<li>
+                <a href="/about/contests-promotions">Contests &amp; Promotions</a></li>
+<li>
+                <a href="/about/terms">Terms of Service</a></li>
+<li>
+                <a href="/about/privacy">Privacy Policy</a></li>
+<li>
+                <a href="/pga/ad-choices"></a><a href="/ad-choices" title="ad choices"><img src="http://i2.cdn.turner.com/dr/pga/sites/default/files/AdChoices_footer.gif" alt="ad choices"></a></li>
+<li>
+                <a href="/about/feedback">Feedback</a></li>
+<li>
+                <a href="/about/contact">Contact Us</a></li>
+<li>
+                <a href="/rss">RSS Feeds</a></li>
+</ul>
+<h4 class="nf-head">Social Media</h4>
+<ul>
+<li><a href="http://www.facebook.com/PGAcom" target="_blank">Facebook</a></li>
+<li>
+                <a href="http://twitter.com/PGA_com" target="_blank">Twitter</a></li>
+</ul>
+</div>
+<div class="nf-rightcol4">
+<h4 class="nf-head">Media Room</h4>
+<ul>
+<li><a href="http://www.pgamediacenter.com/" target="_blank">Media Center</a></li>
+<li>
+                <a href="http://www.pgamediacenter.com/pressReleases/pressRelease.cfm" target="_blank">Press Releases</a></li>
+<li>
+                <a href="http://www.pgalinks.com/index.cfm?ctc=1778" target="_blank">PGA PerformanceTrak</a></li>
+<li>
+                <a href="http://www.pgamagazine.com/" target="_blank">PGA Magazine</a></li>
+<li>
+                <a href="/about/mobile">Mobile</a></li>
+<li>
+                <a href="http://www.imgmediaarchive.com/" target="_blank">PGA Films &amp; Videos</a></li>
+</ul>
+<h4 class="nf-head">PGA Programs</h4>
+<ul>
+<li><a href="http://www.playgolfamerica.com/" target="_blank">Play Golf America</a></li>
+<li>
+                <a href="http://www.pgafoundation.com/" target="_blank">PGA Foundation</a></li>
+<li>
+                <a href="http://pgajobfinder.pgalinks.com/helpwanted/empcenter/pgaandyou/universities.cfm" target="_blank">PGA Education</a></li>
+<li>
+                <a href="http://www.pgaexpo.com" target="_blank">PGA Expos</a></li>
+<li>
+                <a href="http://www.pgasupplierdiversity.com" target="_blank">PGA Supplier Diversity</a></li>
+</ul>
+</div>
+</div>
+</div>
+  </div>
+
+  </div> <!-- /.block -->
+<div id="block-block-53" class="block block-block region-even even region-count-2 count-10">
+  
+  <div class="content">
+    <script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script> 
 <script language="JavaScript" type="text/javascript">
 	//ADM
 	cnnad_sendADMData();
 </script>
-<script type="text/javascript" src="http://i.cdn.turner.com/pga/.element/ssi/js/1.0/global/omniture/s_code.js"></script>
-<script type="text/javascript" src="http://i.cdn.turner.com/pga/.element/ssi/js/1.0/global/omniture/omniture.js"></script>
-
-<!-- SiteCatalyst code
-Copyright 1997-2007 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script type="text/javascript">
-	<!--
-	// store all omniture related data in "s"
-	populateMetricsData();
-
-	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code)//-->
-</script>
-
-
 <img src="http://www.pga.com/.element/img/1.0/global/1x1.gif" alt="" id="TargetImage" name="TargetImage" width="1" height="1" onload="getAdHeadCookie(this)">
 <img src="http://gdyn.pga.com/1.1/1.gif" alt="" id="TargetImageDE" name="TargetImageDE" width="1" height="1" onload="getDEAdHeadCookie(this)">
 <script type="text/javascript" language="JavaScript1.1" src="http://ar.atwola.com/file/adsEnd.js"></script>
+  </div>
 
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
 
-		<!-- Footer Section Ends Here -->
-	</div>
-</div>
+                  <div id="footer-message">2003-2011 PGA/Turner Sports Interactive. All rights reserved.<br>
+PGA.com is part of Turner - SI Digital, part of the Turner Sports &amp; Entertainment Digital Network</div>
+        
+      </div></div> <!-- /.section, /#footer -->
+    
+  </div></div></div></div></div> <!-- /#page, /#page-wrapper-inner-inner, /#page-wrapper-inner, /#glow, /#page-wrapper -->
+
+  <div class="region region-page-closure">
+  <div id="block-block-77" class="block block-block region-odd odd region-count-1 count-11">
+  
+  <div class="content">
+    <script type="text/javascript" src="http://content.dl-rms.com/rms/mother/7621/nodetag.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/pga/.element/ssi/js/1.5/global/omniture/jsmd.js"></script>
+<script type="text/javascript">
+var lh = window.location.hash;
+if (!lh) {
+var jsmd=_jsmd.init();
+jsmd.send();
+}
+</script>
+  </div>
+
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+
+  <div id="fb-root"></div>
+
+<script>$(function() {$("span.sf-sub-indicator").mouseenter(function() {$(this).parent(".sf-with-ul").addClass("sf-with-ul-hover");});$("span.sf-sub-indicator").mouseleave(function() {$(this).parent(".sf-with-ul").removeClass("sf-with-ul-hover");});});</script>
+
 
 
 </body></html>
