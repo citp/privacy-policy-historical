@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215194233id_/http%3A//www.demon-tweeks.co.uk/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071341id_/http%3A//www.demon-tweeks.co.uk/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Statement | Demon Tweeks
 
@@ -50,7 +50,7 @@ By using our website you irrevocably consent to authorising us to collate, colle
 
  **Opt Out**
 
-You can opt out of e-mail updates by sending us an e-mail at unsubscribe@demon-tweeks.co.uk requesting that you be removed from our updates list.
+You can opt out of e-mail updates by clicking the relevant link listed at the bottom of each email campaign that we send. The link will allow you to either amend your details to let us know which information you would like to receive or to remove yourself entirely from our email updates.
 
  **Contact**
 
