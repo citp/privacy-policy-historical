@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705073514id_/http%3A//www.storesupply.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617060100id_/http%3A//www.storesupply.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Store Supply Warehouse | Retail Store Supplies, Fixtures & Display Cases | Privacy Policy
+# 
+
+|    | 
 
 **Store Supply Warehouse Privacy Policy**
 
@@ -12,4 +14,6 @@ Cookies are pieces of data stored on the user’s hard drive containing informat
 
 We use IP addresses to analyze trends, administer the site, track user movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-If you have any questions regarding the security of user information on this site, please email us at [contactus@storesupply.com](mailto:contactus@storesupply.com).
+If you have any questions regarding the security of user information on this site, please email us at [mailto: contactus@storesupply.com](mailto:%20%20contactus@storesupply.com).  
+  
+---|---|---
