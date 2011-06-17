@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgfuck.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220012452id_/http%3A//imgfuck.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgfuck.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617065528id_/http%3A//imgfuck.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ImgFuck.com » More Information » Privacy Policy
 
