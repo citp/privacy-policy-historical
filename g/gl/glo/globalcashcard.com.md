@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcashcard.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217023345id_/https%3A//globalcashcard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcashcard.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617231106id_/https%3A//globalcashcard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Global Cash Card
 
