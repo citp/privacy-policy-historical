@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viewsoniceurope.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608125650id_/http%3A//www.viewsoniceurope.com/uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewsoniceurope.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617050812id_/http%3A//www.viewsoniceurope.com/uk/privacy) for the most accurate reproduction.*
 
-# Viewsonic » ViewSonic: Privacy Policy
+# ViewSonic - Contact us
 
 Please find below the Privacy Policy for the Website operated by ViewSonic Europe Ltd.  ViewSonic is committed to protecting your privacy and treats the handling of personal data seriously.  The Privacy Policy below details how Viewsonic will treat your personal data after it has been collected by Viewsonic through your use of the Website.  Viewsonic maintains the privacy of your information using security technologies and adhere to policies that prevent unauthorised use of your personal information.  By using this Website, you consent to the collection and use of your information.
 
@@ -30,8 +30,10 @@ iii. Via your individual IP location. This is a necessary function of the Websit
 
 ### Consent:
 
-By disclosing your personal information via the Website, over the telephone or via email or post you consent to the collection, storage and processing of your personal information by Viewsonic in the manner set out in this Privacy Policy and the Terms of Use Policy.  
+By disclosing your personal information via the Website, over the telephone or via email or post you consent to the collection, storage and processing of your personal information by Viewsonic in the manner set out in this Privacy Policy and the Terms of Use Policy.    
+
 
 ### Contact
 
-If you have any questions or concerns about the information Viewsonic holds about you may write to Viewsonic at ViewSonic Europe Ltd., Tower 42 ,4th Floor, 25 Old Broad Street, London, EC2N 1HQ, United Kingdom.
+If you have any questions or concerns about the information Viewsonic holds about you may write to Viewsonic at ViewSonic Europe Ltd., Tower 42 ,4th Floor, 25 Old Broad Street, London, EC2N 1HQ, United Kingdom.  
+
