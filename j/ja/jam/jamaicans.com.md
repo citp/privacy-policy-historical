@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401104541id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617023334id_/http%3A//www.jamaicans.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Jamaicans.com Privacy Policy, Copyright and Disclaimer (Jamaica)
 
@@ -14,11 +14,11 @@ In addition, our web sites track information about the visits to our web sites. 
 Also, if you indicate on our site that you would like to subscribe to a monthly newsletter, your personal information will only be added to the appropriate mailing list requested. In addition, if at any time you change your mind and would like to be removed from any of our mailing lists for which you subscribed, or if you need to correct your personal information, we have provided these options at the bottom of our newsletters. you
 
 ******No Release of Information to Third Parties******  
-Personal information will not be released to third parties except to further the purpose for which you had provided the information, such as making specific requests for information , or if you request that your email be forwarded. There are no other circumstances under which we will provide or sell personal information to third parties.
+Personal information will not be released to third parties except to further the purpose for which you had provided the information, such as making specific legal requests for information , or if you request that your email be forwarded. There are no other circumstances under which we will provide or sell personal information to third parties.
 
 Jamaicans.com works with a third party that serves ads to this site.
 
-If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20100401104541id_/http%3A//www.jamaicans.com/about/contact.shtml).
+If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20110617023334id_/http%3A//www.jamaicans.com/about/contact.shtml).
 
   
 ******Copyright******
