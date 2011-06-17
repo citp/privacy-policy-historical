@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymoneyblog.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216210247id_/http%3A//www.mymoneyblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymoneyblog.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617044540id_/http%3A//www.mymoneyblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » My Money Blog - Personal Finance and Investing Blog
 
