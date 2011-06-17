@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduxe.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228180910id_/http%3A//eduxe.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduxe.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617222154id_/http%3A//eduxe.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to Online Education.http://www.eduxe.com/
 
