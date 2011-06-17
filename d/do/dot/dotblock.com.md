@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215181746id_/http%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618011837id_/http%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
 
 # DotBlock Cloud VPS Hosting | Privacy Policy
 
@@ -38,7 +38,7 @@ DotBlock.com reserves the right to change, modify, add, or remove portions from 
 
 **Email:** support@dotblock.com  
 **Phone (US only):** 1-866-923-4550  
-**Phone (Outside US):** 1-518-371-3421  
+**Phone (Outside US):** 1-518-631-5111  
 **Fax:** 1-518-371-5919
 
 **Mail:**  
