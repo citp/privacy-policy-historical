@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourezads.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204094559id_/http%3A//yourezads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourezads.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617063322id_/http%3A//yourezads.com/privacy.php) for the most accurate reproduction.*
 
 # Guaranteed Web Traffic, Text Ads, Banner Ads, Solo Ads & Login Ads - Free Guaranteed Traffic!
 
