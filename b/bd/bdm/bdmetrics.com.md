@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdmetrics.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211214908id_/http%3A//www.threestage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdmetrics.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617033522id_/http%3A//www.threestage.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Three Stage Media: Privacy Policy
 
