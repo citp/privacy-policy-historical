@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the valuedopinions.com.au privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213232401id_/http%3A//www.valuedopinions.com.au/pages-footer-navigation/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.com.au privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617142653id_/http%3A//www.valuedopinions.com.au/pages-footer-navigation/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - Online surveys - Valued Opinions AU - Valued Opinions
 
 **Who are we?**
 
-Research Now Pty Ltd ACN 114 897 531 ABN 12 114 897 531(Research Now and 'we') is a wholly owned subsidiary of Research Now Ltd, a company incorporated in the United Kingdom. Other related companies of Research Now include e-Rewards, Inc. (a US Company), e-Rewards Europe Limited (a UK Company), Research Now, Inc. (a US Company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian Company), Research Now Inc. (a Canadian Company), Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek Company), Research Now GmbH (a German Company), Research Now PTE  LTD (a Singaporian Company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company) and Research Now SARL (a French Company) (together "Research Now") operate the Valued Opinions websites. This Privacy Policy governs the website located at www.valuedopinions.com.au. 
+The Valued Opinions websites are owned and operated by Research Now Limited, a UK company, (“Research Now”). Research Now Pty Ltd ACN 114 897 531 ABN 12 114 897 531 is a wholly owned subsidiary of Research Now Ltd. e-Rewards, Inc. (a US company), e-Rewards Europe Limited (a UK company), Research Now, Inc. (a US company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian company), Research Now Inc. (a Canadian company), Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek company), Research Now GmbH (a German company), Research Now PTE  LTD (a Singaporian company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company) and Research Now SARL (a French company) together form the Research Now group. This Privacy Policy governs the website located at www.valuedopinions.com.au. 
 
    
  **What do we do?**
@@ -140,4 +140,4 @@ We may change our Privacy Statement from time to time. If we do so, we will advi
   
 **More information about privacy**
 
-For more information about privacy issues in Australia and protecting your privacy, visit the [www.privacy.gov.au](http://www.privacy.gov.au/) Australian Federal Privacy Commissioner's website at www.privacy.gov.au. For more information about how our group of companies handles personal information in the UK, please see [www.valuedopinions.co.uk](http://www.valuedopinions.co.uk/). 
+For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/). For more information about how our group of companies handles personal information in the UK, please see [www.valuedopinions.co.uk](http://www.valuedopinions.co.uk/). 
