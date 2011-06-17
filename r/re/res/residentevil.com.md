@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2008-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080801174909id_/http%3A//www.residentevil.com/5/privacy_us.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617022511id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
+|  **
+
 [](http://www.esrb.org/confirm/capcom-confirmation.jsp)
+
+**
 
 **CAPCOM USA ONLINE PRIVACY STATEMENT**
 
-Last updated December 20, 2007
+Last updated November 11, 2008
 
 Welcome to Capcom USA!
 
@@ -68,6 +72,8 @@ All of the personal information we receive comes directly from our guests. To of
 >   
 > 
 >   7. Receive customer or technical support
+>   8. Participate in Online Surveys, Polls or Questionnaires
+>   9. Product Registration
 > 
 
 
@@ -128,6 +134,10 @@ For practical reasons, we treat personal information submitted to us in a busine
 
 From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. If we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same way required by this Privacy Policy (including any amendments to this Privacy Policy). The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
 
+**Third Party Use**
+
+Our company doesn't share and hasn't reserved the right to share personal or demographic information with third parties.
+
 **Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others**
 
 We will disclose personal information when we believe in good faith that disclosure is required by law (e.g., court order or subpoena) or help enforce:
@@ -158,6 +168,15 @@ San Mateo, CA 94402
 
 The security and confidentiality of your information is extremely important to us. That's why we have technical, administrative, and physical security measures in place to protect your personal information from unauthorized access and improper use. We also review our security procedures periodically to consider appropriate new technology and updated methods. But, despite our best efforts, no security measure is ever perfect or impenetrable. 
 
+Specific security measures we currently implement to prevent unauthorized physical or electronic access to web users' personal and demographic information: 
+
+  * Web user data is stored behind a firewall
+  * Data is stored in a secure physical environment (e.g. behind locked doors)
+  * Data is stored in a database accessible to authorized employees on a need-to-know basis only
+  * Users or employees must have a unique password before gaining access to user data
+  * We use standard encryption technology when transferring or receiving sensitive personal information like credit card numbers
+  * We maintain written security policies to which all employees must adhere.
+
 **How can you update your personal information and profile?**
 
 You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by e-mailing us at [accounts@capcom.com](mailto:accounts@capcom.com). 
@@ -181,9 +200,12 @@ Capcom USA is a licensee of the ESRB's Privacy Online Program. If you believe th
 >  Attn.: Privacy Online Program  
 >  317 Madison Avenue, 22nd Floor  
 >  New York, NY 10017  
->  (212) 759-0700  
 >  [privacy@esrb.org](mailto:privacy@esrb.org)
 
 **How will you know if we amend this Privacy Policy?**
 
 We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will prominently post notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy. 
+
+Here is a [PDF version](https://web.archive.org/web/20110617022511id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+
+| 
