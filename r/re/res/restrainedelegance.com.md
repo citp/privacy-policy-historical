@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restrainedelegance.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220083533id_/http%3A//restrainedelegance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restrainedelegance.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617075848id_/http%3A//www.restrainedelegance.com/privacy.php) for the most accurate reproduction.*
 
 # Restrained Elegance Privacy Policy
 
