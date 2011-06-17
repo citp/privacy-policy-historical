@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411221949id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617035240id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
-# Stan James :: Help: Privacy Policy
+# StanJames.com - Help: Privacy Policy
 
 ## Help : Privacy policy
 
-Please read the following carefully to understand our views and practices regarding your personal data ("Information") and how we will treat it. For the purpose of the Data Protection Act 2004 ("Act"), the data controller is Stan James plc of 1 The Square, Marina Bay, Gibraltar.
+Please read the following carefully to understand our views and practices regarding your personal data (" **Information** ") and how we will treat it. For the purpose of the Data Protection Act 2004 (" **Act** "), the data controller is Stan James plc of 1 The Square, Marina Bay, Gibraltar.
 
-This Privacy Policy ("Policy") (together with our Terms and Conditions and any other documents referred to on it) sets out the basis on which any Information we collect from you, or that you provide to us, will be processed by us to enable us to manage your relationship with Stan James. By submitting your Information to us and/ or using Stan James' services you confirm your consent to the use of your Information as set out in this Policy.
+This Privacy Policy (" **Policy** ") (together with our [Terms and Conditions](https://web.archive.org/web/20110617035240id_/http%3A//www.stanjames.com/help/help/termsandconditions.asp "Terms and Conditions") and any other documents referred to on it) sets out the basis on which any Information we collect from you, or that you provide to us, will be processed by us to enable us to manage your relationship with Stan James. By submitting your Information to us and/ or using Stan James' services you confirm your consent to the use of your Information as set out in this Policy.
 
 ### Information Collection
 
@@ -18,8 +18,7 @@ We may collect and process the following Information about you:
 
 (iii) Details of transactions you carry out in respect of our services and of the fulfilment of your orders.
 
-(iv) Details of your visits to our website (including, but not limited to, traffic data, location data, cookies, weblogs, IP Addresses and other communication data) and any other resources that you access.  
-
+(iv) Details of your visits to our website (including, but not limited to, traffic data, location data, cookies, weblogs, IP Addresses and other communication data) and any other resources that you access.
 
 ### How Information is Used
 
@@ -47,7 +46,7 @@ We may use your Information together with other information for the purposes of:
 
 All Information is stored in the database of the company.
 
-We will take all reasonable steps to ensure that your information is kept secure and protected. We will only disclose personal information to other companies within associated or subsidiary companies and to business partners, successors in title to our business and suppliers that are engaged to process such information on our behalf.
+We will take all reasonable steps to ensure that your information is kept secure and protected. We will only disclose personal information to other companies within associated or subsidiary companies and to business partners, successors in title to our business and suppliers that are engaged to process such information on our behalf. 
 
 ### Internet-based transfers
 
@@ -55,5 +54,4 @@ Given that the Internet is a global environment, using the Internet to collect a
 
 ### Disclosure of Information
 
-  
 We are entitled to share the information we hold on you which includes Information and betting history with the regulator and licensing authority sporting bodies and other bodies, including the police, in order to investigate fraud, money laundering or sports integrity issues and to comply with our regulatory duties under Gibraltar law.
