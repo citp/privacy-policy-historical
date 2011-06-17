@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the perforce.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120192151id_/http%3A//www.perforce.com/perforce/corp/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perforce.com privacy policy that was archived on 2011-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110617120253id_/http%3A//www.perforce.com/perforce/corp/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     <title>Perforce Software Online Privacy Policy</title>
@@ -13,6 +13,9 @@
   <link rel="stylesheet" href="../../css/print.css" type="text/css" media="print">
 
   <script src="../../scripts/common.js" type="text/javascript"></script>
+
+
+  <script src="../../scripts/gss.js" type="text/javascript"></script>
 
 <!-- no additional javascript in this file -->
 <!-- no zebrastriping in this file -->
@@ -28,38 +31,18 @@
         <a href="../../index.html" title="Perforce Home"><img src="../../images/07/site_logo.gif" alt="Perforce Logo" width="200" height="46"></a>
       </div><!-- end logo div -->
 
-        <div id="search"><!-- search section -->
-
-            <form name="gs" method="get" action="http://search.perforce.com/search" onsubmit="return preSubmitValidation(document.getElementById('search-top'),
-                                                       'Search Perforce')">
-
-              <ul class="search-box"><!-- three-field search area -->
-                <li id="left"><!-- text field -->
-                  <input type="text" size="40" name="q" value="Search Perforce" id="search-top" onclick="formFieldClear(this, 'Search Perforce')" onblur="formFieldRestore(this, 'Search Perforce')">
-                </li><!-- end text field -->
-
-                <li id="middle"><!-- search button -->
-                  <input type="image" src="../../images/spacer.gif" class="search-button" alt="Search">
-                </li>
-
-                <li id="right"><!-- Advanced Search link -->
-
-                  <a href="http://search.perforce.com/" title="Search Options">Search Options</a>
-                </li>
-              </ul>
-
-              <!-- Hidden fields for GSA -->
-
-              <div class="make-these-hidden-fields-validate">
-                 <input type="hidden" name="site" value="default_collection">
-                 <input type="hidden" name="client" value="default_frontend">
-                 <input type="hidden" name="proxystylesheet" value="default_frontend">
-                 <input type="hidden" name="output" value="xml_no_dtd">
-              </div> <!-- end silly validation-only div -->
-
-            </form><!-- top navbar search form -->
-
-        </div><!-- end search section -->
+       <div id="search"><!-- search section -->
+     <form onsubmit="return submitQuery()" action="">
+         <ul class="search-box">
+             <li id="left">
+             <input name="q" type="text" id="search-top" value="" size="20"></li>
+             <li id="middle">
+             <input class="search-button" type="image" alt="Search" src="http://www.perforce.com/images/spacer.gif">
+             </li>
+             <li id="right"></li>
+         </ul>
+     </form>
+    </div><!-- end search section -->
 
      </div> <!-- id page-top -->
       
@@ -86,7 +69,7 @@
                   <li class="nav1"><a href="../../perforce/downloads/index.html">Downloads</a></li>
                   <li class="nav1"><a href="../../perforce/technical.html">Documentation</a></li>
                   <li class="nav1"><a href="../../perforce/support.html">Technical Support</a></li>
-                  <li class="nav1"><a href="../../perforce/services/index.html">Training &amp; Consulting</a></li>
+                  <li class="nav1"><a href="../../perforce/services/index.html">Services</a></li>
                   <li class="nav1"><a href="../../perforce/partners/index.html">Partner Programs</a></li>
                   <li class="nav1"><a href="../../perforce/customers.html">Customer Spotlight</a></li>
                   <li class="nav1"><a href="../../perforce/price.html">Licensing &amp; Pricing</a></li>
@@ -215,8 +198,8 @@
     <div class="toned-bar-bottom"><!-- --></div><!-- toned bar -->
     <div class="horizontal-bar"><!-- bottom bar -->
     <ul class="horizontal-nav-links">
-        <li class="bottom-bar-text">Copyright © 1996, 2010 Perforce</li>
-        <li class="bottom-bar-text">Last updated: July 19, 2010</li>
+        <li class="bottom-bar-text">Copyright © 1996, 2011 Perforce</li>
+        <li class="bottom-bar-text">Last updated: March 14, 2011</li>
         <li><a href="../../perforce/corp/privacy.html" title="Privacy Policy"><img src="../../images/icons/privacy.gif" class="rss" alt="Privacy Policy"> Privacy Policy</a></li>
     	<li><a href="../../sitemap.html" title="Sitemap"><img src="../../images/07/icons/sitemap.gif" class="rss" alt="Site Map"> Site Map</a></li>
     	<li><a href="../../perforce/contact.html" title="Contact Us"><img src="../../images/07/icons/contact.gif" class="rss" alt="Contact"> Contact</a></li>        
