@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searates.com privacy policy that was archived on 2010-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216055831id_/http%3A//www.searates.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searates.com privacy policy that was archived on 2011-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110617042710id_/http%3A//searates.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en" dir="ltr"><head>
 <title>Privacy policy</title>
@@ -9,7 +9,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="index, follow">
 <link rel="shortcut icon" href="http://img.searates.com/favicon.ico" type="image/x-icon">
-<script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+
 
 <style type="text/css" media="all">
 @import url("http://img.searates.com/searates_other.css.gz");
@@ -21,8 +22,24 @@
 <body>
 
 <script type="text/javascript">
-<!--
+jQuery.noConflict();
+var inter = 0;
+function showM(obj)
+{
+		clearTimeout(inter);
+		jQuery('a.h15-group').css({background:'',color:'#fff'});
+		jQuery('div.m-menu').hide();
+		if (jQuery(obj).find('div.m-menu').length){
+					jQuery(obj).find('div.m-menu').show();
+					jQuery(obj).find('a.h15-group').css({background:'#fff',color:'black'});
+		}		
+}
+function hideM(obj){
+		inter = setTimeout(function(){jQuery(obj).find('div.m-menu').hide();
+							jQuery(obj).find('a.h15-group').css({background:'',color:'#fff'});
+},900);
 
+}
 function show_sub_menu_win(sub_menu_id)
 {
 	//alert(document.getElementById('sub_menu_window'));
@@ -35,7 +52,6 @@ function show_sub_menu_win(sub_menu_id)
 
 pic_11_1 = new Image();pic_11_1.src="/images/find_over.png";
 
-//-->
 </script>
 
 
@@ -65,82 +81,11 @@ pic_11_1 = new Image();pic_11_1.src="/images/find_over.png";
 <!-- HEADER END -->
 
    
-    
-<script type="text/javascript">
-jQuery.noConflict();
-if(typeof window.Csp=='undefined'){window.Csp={};}
-Csp.SearchComponent=function()
-{this.isOpen=false;this.init();};
 
-Csp.SearchComponent.prototype={init:function(){var _this=this;},
-openMenu:function(){var h=jQuery('#'+this.SearchPanelId+' span.src_box').height()-1;if($('body').hasClass('rtl')==true){jQuery('#'+this.ScopingMenuContainerId).css({'display':'inline-block','top':h+'px','left':'-1px'});}else{$('#'+this.ScopingMenuContainerId).css({'display':'inline-block','top':h+'px','right':'-1px'});}
-this.isOpen=true;},
-closeMenu:function(){jQuery('#'+this.ScopingMenuContainerId).css('display','none');this.isOpen=false;},
-startMenuTimer:function(e){var fnHide=function(){this.hideTimer=undefined;if(this.isOpen==true){jQuery('#'+this.DropdownLinkId).click();}};if(!this.hideTimer){this.hideTimer=window.setTimeout(jQuery.proxy(fnHide,this),200);}},
-clearMenuTimer:function(e){e.stopPropagation();if(this.hideTimer){window.clearTimeout(this.hideTimer);this.hideTimer=undefined;}}};
-
-if(typeof window.Csp=="undefined"){window.Csp={};}
-Csp.Menu=function(id){
-this._id=id;
-this._menu=document.getElementById(id);
-this._hider=null;
-this._shower=null;
-jQuery(document).keypress(jQuery.proxy(this.bodyKeyPress,this)).mouseover(jQuery.proxy(this.bodyMouseOver,this));
-jQuery("a.h15-group",this._menu).click(jQuery.proxy(this.toggleMenu,this)).mouseover(jQuery.proxy(this.triggerShow,this));
-if(jQuery.browser.msie){jQuery("a.h15-link",this._menu).click(jQuery.proxy(this.linkClick,this));}
-else{jQuery("a.h15-link",this._menu).mousedown(jQuery.proxy(this.linkClick,this));}
-jQuery("div.h15-menu-container",this._menu).mouseover(jQuery.proxy(this.keepMenuVisible,this));};
-
-Csp.Menu.prototype={
-bodyMouseOver:function(e){this.clearShower();this.triggerHide();},
-clearHider:function(){if(this._hider!=null){window.clearTimeout(this._hider);this._hider=null;}},
-clearShower:function(){if(this._shower!=null){window.clearTimeout(this._shower);this.shower=null;}},
-hideMenus:function(e){jQuery("div.h15-groups table td").removeClass("h15-selected");jQuery(".h15-menu-container",this._menu).hide();},
-keepMenuVisible:function(e){e.stopPropagation();this.clearHider();this.clearShower();},
-showFlyout:function(e){var count=jQuery(".h15-menu-container",this._menu).length;
-var index=jQuery(".h15-menu-container",this._menu).index(e);
-if(document.documentElement.dir!="rtl"){
-if(index<2){this.showFlyoutLeft(e);}else if(index<count-2)
-{this.showFlyoutLeft(e);}else{this.showFlyoutRight(e);}
-}else{if(index<2){this.showFlyoutRight(e);}
-else{this.showFlyoutLeft(e);}}
-e.show();
-},
-showFlyoutLeft:function(e){if(document.documentElement.dir=="rtl"){e.css("left",220-e.parent("td").width());}},
-showFlyoutRight:function(e){if(document.documentElement.dir=="ltr"){e.css("left",-165+e.parent("td").width());}},
-showMenu:function(e){this.hideMenus();var el=jQuery(e.target);el.parent("td").addClass("h15-selected");this.showFlyout(el.next(".h15-menu-container"));
-},
-toggleMenu:function(e){e.preventDefault();this.clearHider();this.clearShower();
-var el=jQuery(e.target).next(".h15-menu-container");var shown=el.css("display")!="none";this.hideMenus();
-if(!shown){el.parent("td").addClass("h15-selected");this.showFlyout(el);}
-},
-triggerHide:function(){if(this._hider==null){this._hider=window.setTimeout(jQuery.proxy(this.hideMenus,this),1000);}},
-triggerShow:function(e){
-e.stopPropagation();
-this.clearHider();
-if(this._shower!=null){this.clearShower();}
-this._shower=window.setTimeout(jQuery.proxy(function(){this.showMenu(e);},this),125);}
-};
-
-Csp.Menu.layout=function(layout,menu){var columns=jQuery("div.h15-column",menu);
-var currentHeight=0;
-var index=0;
-var height=0;
-jQuery("div.h15-menu",layout).each(function(){height=jQuery(this).height()+20;if(currentHeight>0&&index<3&&currentHeight+height>350){index++;currentHeight=0;}
-currentHeight+=height;jQuery(this).appendTo(columns[index]);});
-var menuHeight=0;
-columns.each(function(){menuHeight=Math.max(menuHeight,jQuery(this).height());});
-var menuWidth=(index+1)*170;
-jQuery(menu).height(Math.min(menuHeight,250)+10).width(menuWidth).css({visibility:"visible"});
-columns.each(function(){var column=jQuery(this);var ix=columns.index(this);if(ix<index){column.addClass("h15-dotted");}
-if(ix<=index){column.height(menuHeight);}else{column.hide();}});
-};
-</script>
 
 
 
 <style type="text/css">
-
 div.h15-groups table{
 background-color:#ccc;
 border-collapse:collapse;
@@ -159,9 +104,9 @@ border-left:none;
 border-right:solid 1px #547f9a
 }
 div.h15-groups table td{
-background:#6199d8 0% 100% repeat-x;
+background:url(/images/maim_menu.jpg) repeat-x 0 0;
 border-top:solid 1px #739cb5;
-border-right:dotted 1px #fff;
+border-right:solid 1px #fff;
 border-bottom:solid 1px #5f88a2;
 border-left:none;
 vertical-align:top
@@ -169,7 +114,7 @@ vertical-align:top
 div.h15-groups table td.h15-no-border{
 border-right:none
 }
-div.h15-groups table td a.h15-group{
+div.h15-groups table td a.h15-group, #Menu_h .home{
 display:block;
 height:100%;
 padding:5px;
@@ -178,35 +123,15 @@ vertical-align:bottom;
 text-decoration:none;
 color:#fff;
 }
-div.h15-groups table td a.h15-group:hover{
+div.h15-groups table td a.h15-group:hover, #Menu_h .home:hover{
 background-color:#fff;
 color:#000;
 }
-div.h15-groups table td.h15-selected{
-background-image:none
-}
-div.h15-menu-container{
-position:relative;font-size:90%;
-z-index:105;
-}
-div.h15-menu-inner{
-background-color:#fff;
-border:solid 1px #444;
-border-top:none;
-max-height:350px;
-min-width:170px;
-overflow:hidden;
-padding:0px 10px;
-position:absolute;
-visibility:hidden
-}
-div.h15-menu-inner{
-*margin-left:-1px
-}
+
+
 ul.h15-links{
 list-style-image:url(/pic/bullet.png);
-margin:0 0 0 1.5em;
-padding:0px;
+font-size:11px;
 }
 a.h15-link{
 color:#00629d;
@@ -219,228 +144,178 @@ a:hover.h15-link,a:active.h15-link{
 text-decoration:underline;
 color:#00629D;
 }
-div.h15-column{
-padding-bottom:10px;
-position:absolute;
-width:170px
-}
-div.h15-m1{
-left:10px
-}
-div.h15-m2{
-left:210px
-}
-div.h15-m3{
-left:410px
-}
-div.h15-m4{
-left:610px
-}
+
+
 div.h15-dotted{
 border-right:dotted 1px #628cc6
 }
 div.h15-menu{
 margin-top:10px;
 }
-h6.h15-menu-header{
-font-size:100%;
-font-weight:bold;
-margin:0px;
+
+
+#Menu_h{
+font-size:14px;
+position:relative;
+height:30px;
+width:100%;
+z-index:1000;
+}
+#Menu_h a.home:hover{
+background-color:#fff !important;
+}
+#Menu_h .home:hover span{
+color:#000 !important;
+}
+#Menu_h li a{
+font-size:11px;
+}
+#Menu_h h6{
+font-size:11px;
+font-weight:normal;
+margin: 5px 0 0 20px;
 padding:0px
 }
-div.h15-layout-container{
-left:0px;
+.m-menu{
+display:none;
 position:absolute;
-visibility:hidden;
-width:170px;
-z-index:105;
-
+border:1px solid #444;
+border-top:none;
+text-align:left;
+background:#fff;
+z-index:9000;
+left:0;
 }
-
+.m-menu ul, .m-menu ul li{
+margin:0;padding:0;
+}
+.m-menu ul{
+padding:0 10px;
+}
+.m-menu ul li{
+line-height:15px;
+margin-left:25px;
+}
 </style>
 
 	<div style="clear:both;"></div>
-    <div> 
-	        <div class="h15-top">   
-	<div>
+   
 	
 	<div class="h15-groups" id="Menu_h">
 	<table width="100%">
 	<tbody><tr>
 	<td class="h15-group-l"></td>
 	<td class="h15-group">
-	<a class="h15-group" href="/" onclick="window.location.href='/';">Home</a>
-							 
+		<a class="h15-group home" href="/" onclick="window.location.href='/';"><span>Home</span></a>
+	</td>
+	<td class="h15-group">
+	<div style="position:relative;" onmouseover="showM(this);" onmouseout="hideM(this)">
+		<a class="h15-group" href="javascript:void(0)">Shipping</a>
+		<div class="m-menu" style="height:130px;width:185px;">
+			<h6 class="h15-menu-header">Add new commodity</h6>
+			<ul class="h15-links">
+			<li><a class="h15-link" href="/lcl/request/" title="">LCL (less container load)</a></li>
+			<li><a class="h15-link" href="/container/request/" title="">FCL (full container load)</a></li>
+			<li><a class="h15-link" href="/shipload/request/" title="">Shipload</a></li>
+			</ul>
+			<h6 class="h15-menu-header">List of commodity</h6>
+			<ul class="h15-links">
+			<li><a class="h15-link" href="/lcl/shipping/" title="">List of LCL</a></li>
+			<li><a class="h15-link" href="/fcl/shipping/" title="">List of FCL</a></li>
+			<li><a class="h15-link" href="/shipload/shipping/" title="">List of Shipload</a></li>
+			</ul>
+		</div>
+	</div>
+	</td>
+	<td class="h15-group">
+	<div style="position:relative;" onmouseover="showM(this);" onmouseout="hideM(this)"> 
+	<a class="h15-group" href="javascript:void(0)">Products &amp; Services</a>
+		<div class="m-menu" style="height:115px;width:100%">
+			<h6 class="h15-menu-header">Products &amp; Services</h6>
+			<ul class="h15-links">
+				<li><a class="h15-link" href="/container/tracking/" title="">Container Tracking</a></li>
+				<li><a class="h15-link" href="/container/transit/" title="">Transit time</a></li>
+				<li><a class="h15-link" href="/container/shippingline/" title="">Search shipping lines</a></li>
+				<li><a class="h15-link" href="/container/shippingport/" title="">Define sealine ports</a></li>
+			</ul>
+			<h6 class="h15-menu-header">Sea Services</h6>
+			<ul class="h15-links">
+				<li><a class="h15-link" href="/container">Sea Services</a></li>
+			</ul>
+		</div>
+	</div>
+	</td>
 
-	</td>
-	<td class="h15-group">
-	<a class="h15-group" href="javascript:void(0)">Freight Requests</a>
-	<div class="h15-menu-container">
-	<div class="h15-menu-inner">
-	<div class="h15-column h15-m1"></div>
-	<div class="h15-column h15-m2"></div>
-	<div class="h15-column h15-m3"></div>
-	<div class="h15-column h15-m4"></div>
-	</div>
-	</div>
-	<div class="h15-layout-container">
-	<div class="h15-menu" style="overflow:hidden;">
-	<h6 class="h15-menu-header">Add freight requests</h6>
-	<ul class="h15-links">
-	<li><a class="h15-link" href="/lcl/request/" title="">LCL (less container load)</a></li>
-	<li><a class="h15-link" href="/container/request/" title="">FCL (full container load)</a></li>
-	<li><a class="h15-link" href="/shipload/request/" title="">Shipload</a></li>
-	</ul>
-	<h6 class="h15-menu-header">List of requests</h6>
-	<ul class="h15-links">
-	<li><a class="h15-link" href="/lcl/shipping/" title="">List of LCL</a></li>
-	<li><a class="h15-link" href="/fcl/shipping/" title="">List of FCL</a></li>
-	<li><a class="h15-link" href="/shipload/shipping/" title="">List of Shipload</a></li>
-	</ul>
-	</div>
-	
-	</div>
-	</td>
-	<td class="h15-group"> 
 
-	<a class="h15-group" href="javascript:void(0)">Shipping lines</a>
-	<div class="h15-menu-container">
-	<div class="h15-menu-inner">
-	<div class="h15-column h15-m1"></div>
-	<div class="h15-column h15-m2"></div>
-	<div class="h15-column h15-m3"></div>
-	<div class="h15-column h15-m4"></div>
-	</div>
-	</div>
-	<div class="h15-layout-container">
-	<div class="h15-menu">
-	<h6 class="h15-menu-header">Shipping lines</h6>
-	<ul class="h15-links">
-	<li><a class="h15-link" href="/container/tracking/" title="">Container Tracking</a></li>
-	<li><a class="h15-link" href="/container/transit/" title="">Transit time</a></li>
-	<li><a class="h15-link" href="/container/shippingline/" title="">Search shipping lines</a></li>
-	<li><a class="h15-link" href="/container/shippingport/" title="">Define sealine ports</a></li>
-	</ul>
-	</div>
-	
-	</div>
-	</td>
 	<td class="h15-group">
-	<a class="h15-group" href="/container/tracking" onclick="window.location.href='/container/tracking';">Container Tracking</a>
-	</td>
-	<td class="h15-group">
-	<a class="h15-group" href="javascript:void(0)">Sea ports</a>
-	<div class="h15-menu-container">
-	<div class="h15-menu-inner">
-	<div class="h15-column h15-m1"></div>
-	<div class="h15-column h15-m2"></div>
-	<div class="h15-column h15-m3"></div>
-	<div class="h15-column h15-m4"></div>
-	</div>
-	</div>
-	<div class="h15-layout-container">
-
-	<div class="h15-menu">
-	<h6 class="h15-menu-header">Sea ports</h6>
-	<ul class="h15-links">
-	<li><a class="h15-link" href="/country_list_6.htm" title="">Middle East</a></li>
-	<li><a class="h15-link" href="/country_list_3.htm" title="">Australia Oceania</a></li>
-	<li><a class="h15-link" href="/country_list_1.htm" title="">Africa</a></li>
-	<li><a class="h15-link" href="/country_list_2.htm" title="">Asia</a></li>
-	
-	<li><a class="h15-link" href="/country_list_5.htm" title="">Europe</a></li>
-	<li><a class="h15-link" href="/country_list_7.htm" title="">North America</a></li>
-	<li><a class="h15-link" href="/country_list_8.htm" title="">South America</a></li>
-	</ul>
-	</div>
-	</div>
-	</td>
-	
-	<td class="h15-group">
-	<a class="h15-group" href="javascript:void(0)">Company catalogue</a>
-	<div class="h15-menu-container">
-	<div class="h15-menu-inner">
-	<div class="h15-column h15-m1"></div>
-	<div class="h15-column h15-m2"></div>
-	<div class="h15-column h15-m3"></div>
-	<div class="h15-column h15-m4"></div>
-	</div>
-	</div>
-	<div class="h15-layout-container">
-	<div class="h15-menu">
-	<h6 class="h15-menu-header">Company catalogue</h6>      
-	<ul class="h15-links">
-	<li><a class="h15-link" href="/company/freight_brokers/" title="">Freight brokers</a></li>
-	<li><a class="h15-link" href="/company/supplies_and_bunkerers/" title="">Suppliers and Fuelers</a></li>
-	<li><a class="h15-link" href="/company/freight_forwarders/" title="">Freight forwarders</a></li>
-	<li><a class="h15-link" href="/company/ship_repair/" title="">Ship repair</a></li>
-	<li><a class="h15-link" href="/company/stevedoring/" title="">Stevedoring</a></li>
-	<li><a class="h15-link" href="/company/surveyors/" title="">Surveyors</a></li>
-	<li><a class="h15-link" href="/company/shipping_agents/" title="">Shipping agents</a></li>
-	<li><a class="h15-link" href="/company/storehouse/" title="">Storehouse</a></li>
-	</ul>
-	</div>
-	</div>
-	</td>
-	<td class="h15-group">
+	<div style="position:relative;" onmouseover="showM(this);" onmouseout="hideM(this)">
 	<a class="h15-group" href="javascript:void(0)">Reference guide</a>
-	<div class="h15-menu-container">
-	<div class="h15-menu-inner">
-	<div class="h15-column h15-m1"></div>
-	<div class="h15-column h15-m2"></div>
-	<div class="h15-column h15-m3"></div>
-	<div class="h15-column h15-m4"></div>
+		<div class="m-menu" style="width:190px;height:250px;">
+			<h6 class="h15-menu-header">Reference guide</h6>
+			<ul class="h15-links">
+			<li><a class="h15-link" href="/reference/stuffing/" title="">Container stuffing</a></li>
+			<li><a class="h15-link" href="/reference/portdistance/" title="">Port to port distances</a></li>
+			<li><a class="h15-link" href="/reference/terminals/" title="">Container terminals</a></li>
+			<li><a class="h15-link" href="/reference/imo/" title="">IMO classes</a></li>
+			<li><a class="h15-link" href="/reference/unit/" title="">Unit converter</a></li>
+			<li><a class="h15-link" href="/reference/incoterms/" title="">Incoterms 2000</a></li>
+			</ul>
+			<h6 class="h15-menu-header">Sea ports</h6>      
+			<ul class="h15-links">
+			<li><a class="h15-link" href="/country_list_6.htm" title="">Middle East</a></li>
+			<li><a class="h15-link" href="/country_list_3.htm" title="">Australia Oceania</a></li>
+			<li><a class="h15-link" href="/country_list_1.htm" title="">Africa</a></li>
+			<li><a class="h15-link" href="/country_list_2.htm" title="">Asia</a></li>
+			<li><a class="h15-link" href="/country_list_5.htm" title="">Europe</a></li>
+			<li><a class="h15-link" href="/country_list_7.htm" title="">North America</a></li>
+			<li><a class="h15-link" href="/country_list_8.htm" title="">South America</a></li>
+			</ul>
+		</div>
+	</div>	
+	</td>
+	<td class="h15-group">
+	<div style="position:relative;" onmouseover="showM(this);" onmouseout="hideM(this)">
+		<a class="h15-group" href="javascript:void(0)">Worldwide Network</a>
+		<div class="m-menu" style="height:50px;width:100%"> 
+			
+			<h6 class="h15-menu-header">Agencies &amp; Partners</h6>
+			<ul class="h15-links">
+			<li><a class="h15-link" href="/agentsonmap/">Freight Brokers Offices</a></li>
+			
+			<li><a class="h15-link" href="/membership/application/">Membership application</a>
+			</li></ul>
+		</div>
+	</div>	
+	</td>
+    <td class="h15-group">
+	<div style="position:relative;" onmouseover="showM(this);" onmouseout="hideM(this)">
+		<a class="h15-group home" href="/services/franchise/about/"><span>About Us</span></a>
 	</div>
+	</td>
+	<td class="h15-group" style="border-right:none;">
+	<div style="position:relative;" onmouseover="showM(this);" onmouseout="hideM(this)">
+		<a class="h15-group home" href="/contact/"><span>Contact us</span></a>
+		<!--<div class="m-menu" style="height:50px;width:127px;"> 
+			<h6 class="h15-menu-header">Contact us</h6>
+			<ul class="h15-links">
+			<li><a class="h15-link" href="/contact/" title="">About Us</a></li>
+			<li><a class="h15-link" href="/websites/" title="">Software</a></li>
+			</ul>
+		</div>-->
 	</div>
-	<div class="h15-layout-container">      
+	</td>
 
-	<div class="h15-menu">
-	<h6 class="h15-menu-header">Reference guide</h6>
-	<ul class="h15-links">
-	<li><a class="h15-link" href="/reference/stuffing/" title="">Container stuffing</a></li>
-	<li><a class="h15-link" href="/reference/portdistance/" title="">Port to port distances</a></li>
-	<li><a class="h15-link" href="/reference/terminals/" title="">Container terminals</a></li>
-	<li><a class="h15-link" href="/reference/imo/" title="">IMO classes</a></li>
-	<li><a class="h15-link" href="/reference/unit/" title="">Unit converter</a></li>
-	<li><a class="h15-link" href="/reference/incoterms/" title="">Incoterms 2000</a></li>
-	</ul>
-	</div>
+<!--	<td class="h15-group">
+<a class="h15-group" href="/services/franchise/about/" onclick="window.location.href='/services/franchise/about/';">Partnership</a>
 	
-	</div>
-	</td>
-	<td class="h15-group h15-no-border">
-	<a class="h15-group" href="javascript:void(0)">Contact us</a>
-	<div class="h15-menu-container">
-	<div class="h15-menu-inner">
-	<div class="h15-column h15-m1"></div>
-	<div class="h15-column h15-m2"></div>
-	<div class="h15-column h15-m3"></div>
-	<div class="h15-column h15-m4"></div> 
-	</div>
-	</div>
-	<div class="h15-layout-container">
-	<div class="h15-menu">
-	<h6 class="h15-menu-header">Contact us</h6>
-	<ul class="h15-links">
-	<li><a class="h15-link" href="/contact/" title="">Head office</a></li>
-	<li><a class="h15-link" href="/websites/" title="">Software</a></li>
-	</ul>
-	</div>
-	</div>
-	</td>
+	</td>-->
 	<td class="h15-group-r"></td>
 	</tr>
 	</tbody></table>
 	</div>
 
-
-	<script type="text/javascript">jQuery(document).ready(function() { var menu = new Csp.Menu("Menu_h"); jQuery("#" + "Menu_h div.h15-menu-inner").each(function() { var menu = jQuery(this); var menuContainer = menu.parent(); var layout = menuContainer.next("div.h15-layout-container"); Csp.Menu.layout(layout, menu); menuContainer.hide(); }); });</script>
-
     
-
-</div>
-</div>    
-</div>    
+   
 <div style="padding-top:5px;padding-bottom:5px;background-color:#EFF3F8;width:100%;text-align:left;border-bottom:1px solid #768DA6;">
 
 <script type="text/javascript"><!--
@@ -502,21 +377,7 @@ Feel free to <a href="/contact/">contact us</a> with any questions you may have.
 </div>
 
 </center>
-</td></tr></tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" width="980"><tbody><tr><td><hr style="width:100%; border-top: 1px solid #cccccc; height:0px;"><!--body end--><div style="text-align:center;"><span style="color:#CCCCCC; text-align:right"><a class="index" href="/country_list.htm">List of countries</a> | <a class="index" href="/search/">Search on site</a> | <a class="index" href="/privacy/">Privacy</a> | <a class="index" href="/tos/">Terms of service</a> | <a class="index" href="/faq/">F.A.Q.</a> | <a class="index" href="/feedback/">Feedback</a> | <a class="index" href="/contact/">Contact</a></span><span style="color:#CCCCCC; text-align:right"> | <a class="index" href="/map/">Site map</a> | <a class="index" href="/links/">Links</a> | <a class="index" href="/company/"></a>  | <a class="index" href="/container/demurrage/"></a> </span></div><center><div style="color:#999999;padding-top:7px;"><a style="color:#999999; text-decoration:none;" href="/copyright/">©  Farnel Capital. All rights reserved.</a></div></center><br><center><div style="font-size:90%;color:#888888"><br></div><!--bigmir)net TOP 100 Part 1-->
-<script type="text/javascript" language="javascript"><!--
-bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:145667,s:145667,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
-for(var f=self;f!=f.parent;f=f.parent)bm.w++;
-try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|s)+/,''));
-else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
-try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
-try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
-r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
-bm.v^=window.location.href.length;for(var x in bm) if(/^[vstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
-bmD.write('<img src="http://c.bigmir.net/?'+bs.join('&')+'"  width="0" height="0" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" />');
-//-->
-</script><img src="http://c.bigmir.net/?v146037&amp;s145667&amp;t6&amp;c1&amp;n595348&amp;w0&amp;y0&amp;d24&amp;r800" width="0" height="0" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100">
-<!--bigmir)net TOP 100 Part 1-->
-
+</td></tr></tbody></table><br><br><table cellpadding="0" cellspacing="0" border="0" width="980"><tbody><tr><td><hr style="width:100%; border-top: 1px solid #cccccc; height:0px;"><!--body end--><div style="text-align:center;"><span style="color:#CCCCCC; text-align:right"><a class="index" href="/country_list.htm">List of countries</a> | <a class="index" href="/search/">Search on site</a> | <a class="index" href="/privacy/">Privacy</a> | <a class="index" href="/tos/">Terms of service</a> | <a class="index" href="/faq/">F.A.Q.</a> | <a class="index" href="/feedback/">Feedback</a> | <a class="index" href="/contact/">Contact</a></span><span style="color:#CCCCCC; text-align:right"> | <a class="index" href="/map/">Site map</a> | <a class="index" href="/links/">Links</a> | <a class="index" href="/company/"></a>  | <a class="index" href="/container/demurrage/"></a> </span></div><center><div style="color:#999999;padding-top:7px;"><a style="color:#999999; text-decoration:none;" href="/copyright/">©  Farnel Capital. All rights reserved.</a></div></center><br><center><div style="font-size:90%;color:#888888"><br></div>
 &nbsp;
 <!--bigmir)net TOP 100 Part 2-->
 <a href="http://www.bigmir.net/" target="_blank" onclick="img=new Image();img.src=&quot;http://www.bigmir.net/?cl=145667&quot;;"><img src="http://i.bigmir.net/cnt/b02.png" width="88" height="31" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>
@@ -530,7 +391,7 @@ st24Src+='/script.js?id=';
 st24Src+='.R1AtCul8zMe99OfVP14V7S4XrEWS290pS8aFU5TIRv.77/l=11';
 var st24Tg='<'+'scr'+'ipt type="text/javascript" src="';
 document.writeln(st24Tg+st24Src+'"></'+'scr'+'ipt>');
-//--></script><script type="text/javascript" src="http://ua5.hit.stat24.com/_1580535556699/script.js?id=.R1AtCul8zMe99OfVP14V7S4XrEWS290pS8aFU5TIRv.77/l=11"></script>
+//--></script><script type="text/javascript" src="http://ua5.hit.stat24.com/_1580535558685/script.js?id=.R1AtCul8zMe99OfVP14V7S4XrEWS290pS8aFU5TIRv.77/l=11"></script>
 
 </center>
 <script type="text/javascript">
