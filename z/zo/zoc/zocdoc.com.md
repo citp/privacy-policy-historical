@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zocdoc.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206075234id_/http%3A//www.zocdoc.com/public/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zocdoc.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617034124id_/http%3A//www.zocdoc.com/public/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ZocDoc - Privacy Policy
 
@@ -22,7 +22,13 @@ We also collect other information, some of which may be Personal Information tha
 
 ## 5\. Cookies
 
-We use “cookies” to customize your experience on our Website and to store your password so you do not have to re-enter it each time you visit the Website. Some of our business partners also use cookies to provide us with anonymous data and information regarding the use of our Website. We do not link the information stored in cookies directly to any of your Personal information you submit while on the Website, however. “Cookies” are small computer files that are transferred to your computer's hard drive that contain information such as user ID, user preferences, lists of pages visited and activities conducted while browsing the Website. At your option, expense and responsibility, you may block cookies or delete cookies from your hard drive. However, by disabling cookies, you may not have access to the entire set of features of the Website.
+"Cookies" are small computer files that are transferred to your computer's hard drive that contain information such as user ID, user preferences, lists of pages visited and activities conducted while browsing the Website. At your option, expense and responsibility, you may block cookies or delete cookies from your hard drive. However, by disabling cookies, you may not have access to the entire set of features of the Website.
+
+Generally, we use "cookies" to customize your experience on our Website and to store your password so you do not have to re-enter it each time you visit the Website.
+
+In addition, our business partners may use cookies to provide us with anonymous data and information regarding the use of our Website. Specifically, some of our business partners use cookies to show ZocDoc ads on other sites on the internet as a result of you using the Website. Such cookies do not contain any Personal Information. You may opt out of receiving cookies placed by such third party vendors by visiting the Network Advertising Initiative opt out page. 
+
+We do not link the information stored in these cookies directly to any of your Personal Information you submit while on the Website, however.
 
 ## 6\. Web Beacons
 
@@ -116,4 +122,4 @@ If you do not receive acknowledgement of your inquiry or your inquiry has not be
 
 Last Updated on October 22, 2010. 
 
-Copyright © 2007-2010 ZocDoc, Inc. All Rights Reserved.
+Copyright © 2007-2011 ZocDoc, Inc. All Rights Reserved.
