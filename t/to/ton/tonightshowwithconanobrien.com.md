@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonightshowwithconanobrien.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217160339id_/http%3A//www.nbc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonightshowwithconanobrien.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617222211id_/http%3A//www.nbc.com/privacy-policy) for the most accurate reproduction.*
 
 # NBC.com - Privacy Policy- NBC Official Site
 
