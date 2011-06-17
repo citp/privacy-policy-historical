@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215030926id_/http%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617232440id_/http%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
 
