@@ -1,17 +1,59 @@
-> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120153516id_/http%3A//carrington.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617124950id_/http%3A//carrington.edu/ccc/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Carrington College (Official Site) - Las Vegas
+# Carrington Colleges :: Privacy Policy
 
-Carrington College and Carrington College California are committed to protecting your privacy when you visit our website. We want to assure you that we respect and keep your information confidential. We maintain standards in order to protect information that personally identifies you. We want you to be informed of our online practices and the purpose and plan for collecting your personal information.
+## 1) General.
 
-We collect various types of information from our visitors so that we can adjust our site to meet our user's needs and expectations. Some of this information is collected when you voluntarily ask for further information, interactively communicate, or request to be contacted by us.
+Carrington Colleges Group, Inc. and its related companies or affiliates ("CCG" or "we") respect the privacy of every individual who visits our web sites or responds to our promotions. CCG intends to act reasonably to protect your privacy, but obviously cannot guaranty security against "hackers" or other issues beyond our control. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on CCG web sites, unless otherwise posted.
 
-We are also able to collect your information automatically through cookies, which provide anonymous information such as your IP address, web browser, Internet operating system, etc. The cookies we use do not allow us to identify individuals. They are compiled into statistical information on traffic patterns and are used to assess site efficiency. Improvements can be made with this data to accommodate our users and understand how to serve and provide maximum efficiency.
+## 2) Information Collected From You.
 
-Our primary goal in gathering your personal information is to provide you with a customized experience on our own web sites. We use the information to process your requests, administer and improve the site and related services, marketing purposes, and to notify you of offerings and maintain follow-up communications. We may work with other businesses that may perform certain activities on our behalf that require access to your personal information. These businesses are given what is necessary and may use your information for no other purpose. The results should give our users the utmost benefit as we continually strive to improve our products and services to our users.
+Personally Identifiable Information refers to information that is collected in conjunction with your name. CCG does not collect any personally identifiable information from you unless you provide it voluntarily. If you do not want your personally identifiable information collected, do not submit it to us.
 
-Links to third-party websites are provided solely as a convenience to you. If you use these links, you will leave the Carrington.edu site. We do not review third-party sites. Thus we cannot be responsible for the privacy practices or the content of any web site that we do not directly control.
+CCG may collect other information from you that is not in conjunction with your name. Although most of this information is collected from you when you submit it voluntarily, some of it may be collected automatically by use of a “cookie.” Cookies are small text files that reside on your computer and identify you as a unique user. Cookies allow us to, among other things, measure activity on our website and to personalize your experience on our website. For instance, cookies may enable us to remember your viewing preferences without requiring you to re-type a user name and password. Cookies may also allow us to track your status or progress when ordering products from us. If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser’s help file directions. However, if your browser is set to reject cookies or you manually delete cookies, you may have some trouble accessing and using some of the pages and features on our website.
 
-We take security precautions to ensure data integrity. We do not sell, give, or rent your individual information to any outside company for use in marketing or solicitation. We respect the privacy of our users and your information will only be used to support your growing relationship with Carrington College and/or Carrington College California. We will abide by all applicable laws concerning the release of personal information.
+## 3) How We Use the Information We Collect.
 
-If you have any questions regarding this privacy policy or would like to have your personally identifiable information modified or deleted from our records, please contact us. If after reading this statement, you prefer to submit your personal information off the Internet, please feel free to call a campus near you.
+We use the information that we collect to complete a contact or request; to better understand your needs, to provide to CCG marketing, to improve our products and services, and to contact you.
+
+## 4) Sharing Information That You Provide With Others.
+
+Generally we do not give or sell your information, including your personally identifiable information, with outside companies except in the following situations:
+
+  * Blogs and Online Communities. You may choose to submit information as part of a blog or online community offered by CCG. Any information you choose to post, including personally identifiable information, may be available generally to the public, or to other members of the blog or online community. 
+  * Subcontractors. We may share your information with subcontractors that provide us with services. These services may include, among other things, helping to provide services that you request, helping to create or maintain our databases, helping to research and analyze the people who request services or information from us, helping to provide marketing or solicitation materials for our products or services, and/or helping to process payment card information 
+  * Law Enforcement. We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property or safety of you or another person. 
+  * Permitted by Law. We may share your information with others as required by, or permitted by, law. This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us. 
+  * Transfers. In the event that CCG, or substantially all of CCG’s assets, are acquired, your Information will be transferred to the acquiring entity. In such a situation, you will be provided with notice that a transfer of your Information is imminent, and you will be given an opportunity to opt-out of the transfer of your information. 
+
+
+
+## 5) Children (under age 17).
+
+All persons age 17 or under must ask for and receive their parents’ or guardian’s permission before sending any information about themselves to us or to anyone online or over the Internet. Parents or guardians of persons age 17 or under must send us an e-mail indicating their approval of the child’s participation in any of the services/resources that require collection of personal information on our web sites.
+
+## 6) Parents/Guardians.
+
+Any information collected by CCG from children is used for the sole purpose of delivering the requested service/materials. If you have a question, or would like to review or delete your child’s personally identifiable information, contact us via one of the methods listed at the bottom of this statement.
+
+## 7) Third-party web sites.
+
+Any links to third-party web sites on CCG sites are provided solely as a convenience to you. If you use these links, you will leave the CCG site. CCG does not review all third-party sites, nor does it control or assume responsibility for the content or privacy policies of any of these sites. Thus, CCG does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access a third-party site linked to a CCG web site, you do so at your own risk.
+
+## 8) How can you correct your information?
+
+If you have any questions regarding this privacy policy or would like to have your personally identifiable information modified or deleted from our records, please e-mail us or call our toll-free number.
+
+## 9) How to contact us, and how we may contact you.
+
+Should you have other questions or concerns about this privacy policy, contact us at:
+
+Carrington Colleges Group, Inc.   
+27401 Los Altos, Suite 400   
+Mission Viejo, California 92691  
+1-877-205-1458  
+web@cc.edu
+
+If we are required to provide you with notice of a particular event or incident, we will send you that notice by e-mail, telephone, or mail.
+
+Last revised on March 16, 2011.
