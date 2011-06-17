@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073615id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617135634id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
 
-# Интернет запознанства - услуги запознанства
+# ABsoluteAgency Dating Service
 
 ### CONFIDENTIAL DATA NON-DISTRIBUTION AGREEMENT
 
