@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridakeyswebcams.tv privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229182159id_/http%3A//www.floridakeyswebcams.tv/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridakeyswebcams.tv privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618013249id_/http%3A//www.floridakeyswebcams.tv/privacy.htm) for the most accurate reproduction.*
 
 # Key West web cams- Live Florida Keys beach cams, streaming cam, key west sunset
 
