@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217154200id_/http%3A//www.infoblox.com/en/company/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617203230id_/http%3A//www.infoblox.com/en/company/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Infoblox.com
 
