@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halpertbeesly.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618202653id_/http%3A//www.nbc.com/Footer/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halpertbeesly.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617222211id_/http%3A//www.nbc.com/Footer/Privacy) for the most accurate reproduction.*
 
 # NBC.com - Privacy Policy- NBC Official Site
 
@@ -75,47 +75,3 @@ Bldg. 1360 2nd Floor,
 Universal City, CA 91608 
 
 [**Terms of Service >**](https://web.archive.org/privacy-policy/terms-of-service/)
-
-#### watch. full episodes
-
-#### most recent. episodes
-
-[](https://web.archive.org/100-questions/video/episodes/#vid=1234729/?__source=recent-eps-module)
-    
-
-###### [100 Questions - Have You Ever Dated a Bad Boy?](https://web.archive.org/100-questions/video/episodes/#vid=1234729/?__source=recent-eps-module)
-
-Charlotte dates a bad boy, who gets a tattoo of her face. The friends pretend Mike dies to get Charlotte out of the relationship.   
-_available until 07/10/10_
-
-[](https://web.archive.org/days-of-our-lives/video/episodes/#vid=1232419/?__source=recent-eps-module)
-    
-
-###### [Days of our Lives - Thursday, June 17, 2010](https://web.archive.org/days-of-our-lives/video/episodes/#vid=1232419/?__source=recent-eps-module)
-
-EJ explains his drive to prove Nicole's behind Arianna's set up, and Arianna's trust of EJ grows. Meanwhile, Nicole is reeling that her actions caused Brady's relapse.   
-_available until 07/04/10_
-
-[](https://web.archive.org/late-night-with-jimmy-fallon/video/episodes/#vid=1234756/?__source=recent-eps-module)
-    
-
-###### [Late Night with Jimmy Fallon - Thursday, June 17, 2010](https://web.archive.org/late-night-with-jimmy-fallon/video/episodes/#vid=1234756/?__source=recent-eps-module)
-
-Seth Meyers, Bethenny Frankel, Blitzen Trapper   
-_available until 07/03/10_
-
-[](https://web.archive.org/americas-got-talent/video/episodes/#vid=1234445/?__source=recent-eps-module)
-    
-
-###### [America's Got Talent - Week 3, Night 2](https://web.archive.org/americas-got-talent/video/episodes/#vid=1234445/?__source=recent-eps-module)
-
-The judges move on to Orlando in search of big acts they can pass along to Las Vegas.   
-_available until 10/15/10_
-
-[](https://web.archive.org/days-of-our-lives/video/episodes/#vid=1232457/?__source=recent-eps-module)
-    
-
-###### [Days of our Lives - Wednesday, June 16, 2010](https://web.archive.org/days-of-our-lives/video/episodes/#vid=1232457/?__source=recent-eps-module)
-
-Chloe tells Daniel that Father Matt can't marry them because he thinks there may be a problem with her annulment from Lucas.   
-_available until 07/03/10_
