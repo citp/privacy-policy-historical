@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madthumbs.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529155016id_/http%3A//www.madthumbs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madthumbs.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617072307id_/http%3A//www.madthumbs.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Free Porn and Sex Tube Videos - XXX Pussy Clips at MadThumbs
+# Privacy Policy - MadThumbs™
 
 Your privacy is of utmost importance to us. This Privacy Policy governs your use of MadThumbs.com (the “Site”, “we” or “us”). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
