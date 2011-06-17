@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherwin-williams.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216211417id_/http%3A//www.sherwin-williams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherwin-williams.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617044902id_/http%3A//www.sherwin-williams.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sherwin-Williams
 
@@ -16,7 +16,7 @@ In general, Sherwin-Williams collects personal information from you when you vol
 
 As part of the standard operation of our Web Sites, we may collect/obtain certain non-personal information from you including, but not limited to, your browser type (e.g., Netscape or Internet Explorer), operating system (e.g., Windows or Macintosh), Internet service provider, IP address, web sites visited, and the domain name from which you accessed the Web Sites (e.g., yahoo.com). In addition, we may collect information about your browsing behavior, such as the date and time you visit our Web Sites, the areas or pages of our Web Sites that you visit, the amount of time spent viewing our Web Sites, the number of times you return to our Web Sites, and other click-stream data. We may use cookies to collect this information, which may be combined with your personal information. A cookie is a small text file that may be stored on the hard drive of your computer which enables us to recognize your computer when you return to our Web Sites.
 
-You are always free to decline cookies, but in doing so you may not be able to use certain features on our Web Sites. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from a computer's hard drive. We may use web beacons to assist us in understanding how visitors to our Web Sites use such sites and/or to collect information regarding users activities on the web. We may utilize the services of a third party to collect such information for us.
+You are always free to decline cookies, but in doing so you may not be able to use certain features on our Web Sites. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from a computer's hard drive. We may use web beacons to assist us in understanding how visitors to our Web Sites use such sites and/or to collect information regarding user’s activities on the web. We may utilize the services of a third party to collect such information for us.
 
 ## How do we use your information?
 
@@ -24,7 +24,7 @@ We may use the information we collect from you for any of the following purposes
 
 ## Will we disclose information we collect from you?
 
-Sherwin-Williams may transfer or otherwise disclose information collected from you to the following entities for the following purposes: (1) to Sherwin-Williams' employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, and suppliers, if the disclosure will enable that entity to perform a business, professional, or technical support function for Sherwin-Williams; (2) to employees, independent contractors, service providers, and suppliers of Sherwin-Williams to fulfill a product or service request; and (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law. In addition and subject to your consent, we may disclose such information to our third party marketing or service providers who may use such information in their business operations or who may contact you with information they feel may be useful to you. By providing information to us, you consent to your receipt from us and/or from any of our third party marketing or service providers of information and data we believe may be of interest to you.
+Sherwin-Williams may transfer or otherwise disclose information collected from you to the following entities for the following purposes: (1) to Sherwin-Williams' employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, and suppliers, if the disclosure will enable that entity to perform a business, professional, or technical support function for Sherwin-Williams; (2) to employees, independent contractors, service providers, and suppliers of Sherwin-Williams to fulfill a product or service request; and (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law. In addition, we may disclose such information to our third party marketing or service providers who may use such information in their business operations or who may contact you with information they feel may be useful to you. By providing information to us, you hereby consent to your receipt from us and/or from any of our third party marketing or service providers of information and data we believe may be of interest to you. If you do not wish to receive such information or data, please contact us at [webmaster@sherwin.com](mailto:webmaster@sherwin.com).
 
 ## Do we collect information from children?
 
@@ -32,7 +32,7 @@ We do not direct our Web Sites to, nor do we knowingly collect any personal info
 
 ## Does this privacy policy cover practices on third party web sites?
 
-Our Web Sites may contain links to other third party Web sites (such as those of our marketing partners), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these Web sites. Accordingly, we recommend that you review the privacy policy posted on any Web site that you may access through our Web Sites.
+Our Web Sites may contain links to other third party web sites (such as those of our marketing partners), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these web sites. Accordingly, we recommend that you review the privacy policy posted on any web site that you may access through our Web Sites.
 
 ## What happens to your information in the event of unforeseen circumstances?
 
@@ -50,4 +50,4 @@ If you would like to access or change any contact information you have provided 
 
 If you have questions or concerns about this Privacy Policy, you can contact us at [webmaster@sherwin.com](mailto:webmaster@sherwin.com).
 
-Copyright 2008. The Sherwin-Williams Company. All rights reserved.
+Copyright 2010. The Sherwin-Williams Company. All rights reserved.
