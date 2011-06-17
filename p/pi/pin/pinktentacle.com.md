@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinktentacle.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221074553id_/http%3A//www.pinktentacle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinktentacle.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617120535id_/http%3A//www.pinktentacle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ::: Pink Tentacle
+# Privacy Policy ~ Pink Tentacle
 
 This site ([www.pinktentacle.com](http://www.pinktentacle.com/)) respects the privacy and rights of its visitors and maintains a strict "no spam" policy. No effort is made to identify individuals without their knowledge, and no information you volunteer (name, email address, etc.) will ever willingly be provided to a third party.
 
