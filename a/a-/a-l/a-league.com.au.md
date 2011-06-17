@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-league.com.au privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524161341id_/http%3A//www.a-league.com.au/default.aspx%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-league.com.au privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617100758id_/http%3A//www.a-league.com.au/default.aspx%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
