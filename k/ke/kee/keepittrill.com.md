@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the keepittrill.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111926id_/http%3A//www.keepittrill.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepittrill.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617045026id_/http%3A//www.keepittrill.com/misc/privacy.html) for the most accurate reproduction.*
 
 # KEEP IT TRILL- Street Promotions, Hip Hop, Booking, UGK
 
 _Privacy Policy_
 
 _Cookies_  
-www.KeepItTrill.com uses cookies to store session information so you will not see the same advertisement repeatedly.
+First off, you must be at least 18 years of age, or accompanied by an adult to view this website due to the graphic and explicit nature of hip hop and rap. www.KeepItTrill.com uses cookies to store session information so you will not see the same advertisement repeatedly.
 
 _External Site Links_  
 www.KeepItTrill.com links to other websites on the internet. Content and Privacy Policies are the responsibility of their respective owners.
