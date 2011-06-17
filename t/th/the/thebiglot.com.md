@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217074813id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618013717id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ As a customer, you must understand your information is available to everyone whe
 
 Adventis Inc.  
 Attn: Customer Care  
-P.O. Box 1671  
+P.O. Box 1831  
 Roanoke, VA  
 24008  
 
@@ -60,4 +60,4 @@ TheBigLot.com reserves the right to change our Privacy Policy as business needs 
 
 If you have any questions, concerns, or suggestions regarding our Privacy Policy, please contact our Operations Manager directly at 1-877-572-5714, ext. 139, or e-mail at info@thebiglot.com. 
 
-For any other questions, please contact our Customer Care department at 1-877-572-5714, ext. 2, or e-mail at info@thebiglot.com.  Our Customer Care hours of operation are Monday through Thursday 9:00 a.m. to 9:00 p.m., Friday 9:00 a.m. to 6:00 p.m. Eastern Time.  Our mailing address is: Adventis, Inc., P.O. Box 1671, Roanoke, Virginia 24008.
+For any other questions, please contact our Customer Care department at 1-877-572-5714, ext. 2, or e-mail at info@thebiglot.com.  Our Customer Care hours of operation are Monday through Thursday 9:00 a.m. to 9:00 p.m., Friday 9:00 a.m. to 6:00 p.m. Eastern Time.  Our mailing address is: Adventis, Inc., P.O. Box 1831, Roanoke, Virginia 24008.
