@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nikkisfreebiejeebies.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220040424id_/http%3A//www.nikkisfreebiejeebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikkisfreebiejeebies.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618111642id_/http%3A//www.nikkisfreebiejeebies.com/privacy-policy) for the most accurate reproduction.*
 
-# Nikki’s Freebie Jeebies : Freebies, Free Samples, Coupon Codes, Free Products & Coupons
+# Nikki's Freebie Jeebies : Privacy Policy
 
 NikkisFreebieJeebies is committed to user privacy. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
