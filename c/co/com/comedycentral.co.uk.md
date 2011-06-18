@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229021049id_/http%3A//www.comedycentral.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618142535id_/http%3A//www.comedycentral.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info | Comedy Central UK and Ireland
 
@@ -14,7 +14,9 @@ Personal Data: Should you ("the User") enter a competition on the Website, any p
 
 Should you ("the User") subscribe to any marketing communications (including newsletters) or otherwise agree to receive information from Comedy Central or third parties your data will be dealt with as follows:
 
-A User's data will be used for those purposes detailed at the point of submission of the data ("the Purposes") (in this case the data may be transferred to other entities should such transfer be necessary in order to carry out the Purposes, including entities in the United States of America). By subscribing to any newsletters, you acknowledge that U.S law providers a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union. Other than as detailed above, Comedy Central will only transfer a User's data to another entity if the User has agreed that Comedy Central may make such a transfer or if the transfer is necessary as part of a transfer of all of or a substantial part of the business of Comedy Central. 
+A User's data will be used for those purposes detailed at the point of submission of the data ("the Purposes") (in this case the data may be transferred to other entities should such transfer be necessary in order to carry out the Purposes, including entities in the United States of America). By subscribing to any newsletters, you acknowledge that U.S law providers a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union. 
+
+Other than as detailed above, Comedy Central will only transfer a User's data to another entity if the User has agreed that Comedy Central may make such a transfer or if the transfer is necessary as part of a transfer of all of or a substantial part of the business of Comedy Central. 
 
 Should you ("the User") participate in any Forum on the Website ("the Forum") your data will be dealt with as follows:
 
