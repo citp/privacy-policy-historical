@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229164001id_/http%3A//www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618205910id_/http%3A//www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm) for the most accurate reproduction.*
 
 # Nuance - Privacy Policies
 
@@ -8,7 +8,7 @@ Nuance Communications, Inc. ("Nuance") is dedicated to making your online experi
 
 ### Use of Personal Information
 
-Nuance Communications, Inc. abided by the Privacy Principles of the Safe Harbor Program as administered by the USA Department of Commerce. Details of these principles may be found at: [www.export.gov/SafeHarbor](https://web.archive.org/web/20101229164001id_/http%3A//www.nuance.com/company/company-overview/company-policies/privacy-policies/www.export.gov/SafeHarbor).
+Nuance Communications, Inc. abided by the Privacy Principles of the Safe Harbor Program as administered by the USA Department of Commerce. Details of these principles may be found at: [www.export.gov/SafeHarbor](https://web.archive.org/web/20110618205910id_/http%3A//www.nuance.com/company/company-overview/company-policies/privacy-policies/www.export.gov/SafeHarbor).
 
 Any information you submit through Nuance's web sites will be held in the strictest confidence. In no way will your personal information ever be used without your consent. To ensure this, all forms on our web sites that send information to a database that may be used in the future, e.g. mailing lists, registration, etc., have check boxes where you specify whether or not you would like to receive information from us in the future. Forms used just to send email, post messages, etc., do not include the option, but will never be used to send information. Be assured that we do not sell our name and address lists. If you choose to receive information from us, each message will also include instructions on how to "unsubscribe" from future mailings should you wish to cancel.
 
