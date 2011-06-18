@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megazebra.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820053813id_/http%3A//www.megazebra.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megazebra.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618072411id_/http%3A//www.megazebra.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - MegaZebra - Social Games - Blackjack, Mahjong and more
+# Privacy Policy - MegaZebra - Social Games
 
 (Last Updated March 11, 2010)
 
