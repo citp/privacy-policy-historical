@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointscene.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219135057id_/http%3A//jointscene.com/php/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointscene.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618210651id_/http%3A//www.jointscene.com/php/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
