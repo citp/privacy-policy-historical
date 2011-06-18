@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puvr.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617160016id_/http%3A//www.puvr.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puvr.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618130222id_/http%3A//www.puvr.com/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - puvr.com
 
