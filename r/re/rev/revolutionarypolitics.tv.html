@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the revolutionarypolitics.tv privacy policy that was archived on 2010-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218040742id_/http%3A//revolutionarypolitics.tv/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the revolutionarypolitics.tv privacy policy that was archived on 2011-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618141251id_/http%3A//revolutionarypolitics.tv/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
@@ -71,44 +71,24 @@
 	var search_footer_top_pos = 28;
 	</script>
 				
-    
-				<script type="text/javascript">
-
+    				<script type="text/javascript">
 					var search_tag_text= 'Search';
-
 					function chooseSearchSelect(type, search_position)
-
 						{
-
 							var search_tag_text='Search';
-
 							tag_value=$('searchTags_'+search_position).value;
-
 							tag_value = escape(tag_value);
-
 							search_tag_text=escape(search_tag_text);
-
 							if(search_tag_text==tag_value)
-
 							    {
-
 									$('searchTags_'+search_position).focus();
-
 								  	return false;
-
 								}
-
 			  			   if(type == 'video')
-
 										search_page_location = 'http://revolutionarypolitics.tv/video/videoList.php?pg=videonew&tags='+tag_value;if(type == 'general')
-
 										search_page_location = 'http://revolutionarypolitics.tv/membersList.php?tags='+tag_value;if(search_page_location)
-
-							   window.location = search_page_location;
-						}
-
+							   window.location = search_page_location;						}
 				</script>
-
 				
     <script type="text/javascript">var siteUserId='0'; var siteUrl='http://revolutionarypolitics.tv/';var pageId='staticPage';var status_all='';
 	var show_shortcuts='http://revolutionarypolitics.tv/myProfile.php***!!!***My Profile#*~*#http://revolutionarypolitics.tv/members/profileBasic.php***!!!***Edit Profile';
@@ -259,13 +239,13 @@
                         <h3>Sub Navigation Links</h3>
                         <div id="selNav">
                             <ul class="clsMenu">
-		                	                                                                      	                                    <li class=" clsFirstNav" id="menu_home"><a href="http://revolutionarypolitics.tv/index.php"><span>Home</span></a></li>
+		                	                                                                      	                                    <li class=" clsFirstNav" id="menu_main"><a href="http://revolutionarypolitics.com/"><span>Main</span></a></li>
+                                    		                                                                                            	                                    <li class="" id="menu_home"><a href="http://revolutionarypolitics.tv/index.php"><span>Home</span></a></li>
                                     		                                                                                            	                                    <li class="" id="menu_members"><a href="http://revolutionarypolitics.tv/membersList.php"><span>Members</span></a></li>
-                                    		                                                                                            	                                    <li class="" id="menu_videos"><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=newvideo"><span>Videos</span></a></li>
-                                    		                                                                                            	                                    <li class="" id="menu_blog"><a href="http://revolutionarypolitics.com/"><span>Blog</span></a></li>
+                                    		                                                                                            	                                    <li class="" id="menu_video_list"><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=newvideo"><span>Video List</span></a></li>
                                     		                                                                                            	                                    <li class="" id="menu_mail"><a href="http://revolutionarypolitics.tv/members/mail.php?folder=inbox"><span>Mail</span></a></li>
-                                    		                                                                                            	                                    <li class="" id="menu_news_link"><a href="http://revolutionarypolitics.tv/markit/"><span>News Link</span></a></li>
                                     		                                                                                            	                                    <li class="" id="menu_forum"><a href="http://revolutionarypolitics.tv/phpBB/index.php"><span>Forum</span></a></li>
+                                    		                                                                                            	                                    <li class="" id="menu_news_link"><a href="http://revolutionarypolitics.tv/markit/bookmarkList.php?pg=p&amp;view=regular"><span>News Link</span></a></li>
                                     		                                                        						                                  
                                     <li id="menu_empty" class="clsNoBorderBackground">&nbsp;</li>
                             </ul>
@@ -296,6 +276,14 @@ menuLi.each(function (li)
 });
 
 
+	listen('mouseover', $('menu_main'), function()
+		
+		{
+		
+						
+		}
+
+	);
 	listen('mouseover', $('menu_home'), function()
 		
 		{
@@ -312,15 +300,7 @@ menuLi.each(function (li)
 		}
 
 	);
-	listen('mouseover', $('menu_videos'), function()
-		
-		{
-		
-						
-		}
-
-	);
-	listen('mouseover', $('menu_blog'), function()
+	listen('mouseover', $('menu_video_list'), function()
 		
 		{
 		
@@ -336,7 +316,7 @@ menuLi.each(function (li)
 		}
 
 	);
-	listen('mouseover', $('menu_news_link'), function()
+	listen('mouseover', $('menu_forum'), function()
 		
 		{
 		
@@ -344,7 +324,7 @@ menuLi.each(function (li)
 		}
 
 	);
-	listen('mouseover', $('menu_forum'), function()
+	listen('mouseover', $('menu_news_link'), function()
 		
 		{
 		
@@ -369,41 +349,7 @@ function openPopupWindow(url){
     
     
     <div class="clsSideBarBanner"> <!-- -->
-      <div class="clsAddBanner"><!--/* OpenX Javascript Tag v2.8.5-rc7 */-->
-
-<!--/*
-  * The backup image section of this tag has been generated for use on a
-  * non-SSL page. If this tag is to be placed on an SSL page, change the
-  *   'http://d1.openx.org/...'
-  * to
-  *   'https://d1.openx.org/...'
-  *
-  * This noscript section of this tag only shows image banners. There
-  * is no width or height in these banners, so if you want these tags to
-  * allocate space for the ad before it shows, you will need to add this
-  * information to the <img> tag.
-  *
-  * If you do not want to deal with the intricities of the noscript
-  * section, delete the tag (from <noscript>... to </noscript>). On
-  * average, the noscript tag is called from less than 1% of internet
-  * users.
-  */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=153797");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=153797&amp;cb=80465300339&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101218040742id_/http%253A//revolutionarypolitics.tv/staticPage.php%253Fpg%253Dprivacy"></script><noscript><a href='http://d1.openx.org/ck.php?n=af45925d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=153797&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af45925d' border='0' alt='' /></a></noscript></div>    </div>
+          </div>
     
     <div class="clsSideBarMargin">
  <div class="lbsidebar">
@@ -435,15 +381,15 @@ function openPopupWindow(url){
 				<ul class="clsSiteStatistics">                        
   									<li class="clsTotalMembers">
                         		<span class="clsStatsTitle">Total Members:</span>
-		                        <span class="clsStatsInfo"><a href="http://revolutionarypolitics.tv/membersList.php">172</a></span>
+		                        <span class="clsStatsInfo"><a href="http://revolutionarypolitics.tv/membersList.php">443</a></span>
                     		</li>
 			   						<li class="clsTotalvideo">
                         		<span class="clsStatsTitle">Total Videos:</span>
-		                        <span class="clsStatsInfo"><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=videonew">6723</a></span>
+		                        <span class="clsStatsInfo"><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=videonew">8515</a></span>
                     		</li>
 			   						<li class="clsvideoStats">
                         		<span class="clsStatsTitle">Total Video Views:</span>
-		                        <span class="clsStatsInfo">1130269</span>
+		                        <span class="clsStatsInfo">3413570</span>
                     		</li>
 			   	                                
 				</ul>
@@ -517,26 +463,7 @@ function openPopupWindow(url){
                 <p class="clsTopContributorsThumbDetailsTitle">
                     <a href="http://revolutionarypolitics.tv/viewProfile.php?user=Liberty">Liberty</a>
                 </p>
-                <p class="clsContributes">Videos:&nbsp;<span><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=uservideolist&amp;user_id=155">2891</a></span></p>
-            </div>
-          </div>
-                   	  <div class="clsTopContributors">
-        	<div class="clsTopContributorsThumb">
-                <div onclick="Redirect2URL('http://revolutionarypolitics.tv/viewProfile.php?user=Revolution')" class="clsThumbImageLink clsPointer">
-                	<div class="cls66PXthumbImage clsThumbImageOuter">
-                    <div class="clsrThumbImageMiddle">
-                        <div class="clsThumbImageInner">
-            				<img src="http://revolutionarypolitics.tv/files/user_profile_avatar/1076S.jpg" onclick="Redirect2URL('http://revolutionarypolitics.tv/viewProfile.php?user=Revolution')">
-                        </div>
-                    </div>
-                </div>
-               </div>
-            </div>
-            <div class="clsTopContributorsThumbDetails">
-                <p class="clsTopContributorsThumbDetailsTitle">
-                    <a href="http://revolutionarypolitics.tv/viewProfile.php?user=Revolution">Revolution</a>
-                </p>
-                <p class="clsContributes">Videos:&nbsp;<span><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=uservideolist&amp;user_id=1076">1763</a></span></p>
+                <p class="clsContributes">Videos:&nbsp;<span><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=uservideolist&amp;user_id=155">4009</a></span></p>
             </div>
           </div>
                    	  <div class="clsTopContributors">
@@ -555,7 +482,26 @@ function openPopupWindow(url){
                 <p class="clsTopContributorsThumbDetailsTitle">
                     <a href="http://revolutionarypolitics.tv/viewProfile.php?user=Bronko">Bronko</a>
                 </p>
-                <p class="clsContributes">Videos:&nbsp;<span><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=uservideolist&amp;user_id=8">1588</a></span></p>
+                <p class="clsContributes">Videos:&nbsp;<span><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=uservideolist&amp;user_id=8">2081</a></span></p>
+            </div>
+          </div>
+                   	  <div class="clsTopContributors">
+        	<div class="clsTopContributorsThumb">
+                <div onclick="Redirect2URL('http://revolutionarypolitics.tv/viewProfile.php?user=Revolution')" class="clsThumbImageLink clsPointer">
+                	<div class="cls66PXthumbImage clsThumbImageOuter">
+                    <div class="clsrThumbImageMiddle">
+                        <div class="clsThumbImageInner">
+            				<img src="http://revolutionarypolitics.tv/files/user_profile_avatar/1076S.jpg" onclick="Redirect2URL('http://revolutionarypolitics.tv/viewProfile.php?user=Revolution')">
+                        </div>
+                    </div>
+                </div>
+               </div>
+            </div>
+            <div class="clsTopContributorsThumbDetails">
+                <p class="clsTopContributorsThumbDetailsTitle">
+                    <a href="http://revolutionarypolitics.tv/viewProfile.php?user=Revolution">Revolution</a>
+                </p>
+                <p class="clsContributes">Videos:&nbsp;<span><a href="http://revolutionarypolitics.tv/video/videoList.php?pg=uservideolist&amp;user_id=1076">1777</a></span></p>
             </div>
           </div>
                    </div>
@@ -601,7 +547,6 @@ function openPopupWindow(url){
 <!-- Main -->
 <div id="main" class="clsMain clsMainNoBanner  clsNoAdVertisement">
 <!-- Header ends -->
-
 <div id="selStaticPage">
 			<h1><span style="color: #000000;"><span class="\">Privacy Policy</span></span></h1>
 <p><span style="color: #000000;"> Such Respect We Have For Your Privacy! This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. The use of this version of the revolutionarypolitics.tv website(s) and/or revolutionarypolitics.tv software and any other related software, upgrades or updates and all related services and special offers (the \"Service\") provided by revolutionarypolitics.tv (\"revolutionarypolitics.tv is subject to the hereunder provisions of this Privacy Policy)</span></p>
@@ -880,7 +825,8 @@ if($('selMsgSuccess')){
 
   <div class="clsCopyrightTable unitPng">
 
-       <p class="clsCopyright">© 2009 - 2010 RevolutionaryPolitics.tv. All rights reserved.</p>
+       <p class="clsCopyright">© 2009 - 2010 RevolutionaryPolitics.tv
+</p>
 
        <p class="clsPoweredByAgriya"><span class="clsPoweredText">Powered By <a href="http://www.agriya.com">Agriya</a></span></p>
 
