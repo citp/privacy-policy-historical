@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216172832id_/http%3A//www.ird.govt.nz/about-this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618041333id_/http%3A//www.ird.govt.nz/about-this-site/privacy) for the most accurate reproduction.*
 
 # Your privacy (About this site)
 
 Inland Revenue is committed to ensuring that your privacy is protected. Any personal information you do provide to us will be kept for as long as necessary to achieve the purpose we collected it for. If your personal information becomes part of your Inland Revenue records, we will retain the information in accordance with Inland Revenue policy on retention of Inland Revenue records.
 
+##### [Don't get hooked - beware of phishing from online criminals](https://web.archive.org/about-this-site/privacy/privacy-phishing.html)
+
+Phishing is when an online criminal tries to trick you in to disclosing your personal information and will then use or sell this information for illegal purposes such as applying for credit cards or loans in your name. We would like to know if someone unexpectedly asks for your tax information including your IRD number, password or user ID.
+
 ##### [Call recording privacy statement](https://web.archive.org/about-this-site/privacy/privacy-callrecording.html)
 
 As part of our commitment to providing the best possible service to our customers we record all telephone calls answered in our contact centres. This helps us to identify ways that we can provide you with a better service. Please note that child support calls are not answered through our contact centres and so these calls may not be recorded.
-
-##### [Report suspicious emails or online activity](https://web.archive.org/about-this-site/privacy/privacy-phishing.html)
-
-Phishing is when someone tries to trick you in to disclosing your personal information and may then use or sell this information for illegal purposes such as applying for credit cards or loans in your name. We would like to know if someone unexpectedly asks for your tax information including your IRD number, password or user ID.
 
 ##### [Privacy policy](https://web.archive.org/about-this-site/privacy/privacy-policy.html)
 
