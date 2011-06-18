@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211153611id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618094041id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Guidelines & Policies
 
