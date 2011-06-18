@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812062829id_/http%3A//www.pinkcherry.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618075339id_/http%3A//www.pinkcherry.ca/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
