@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecorrection.com privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731014910id_/http%3A//www.onlinecorrection.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecorrection.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618124410id_/http%3A//www.onlinecorrection.com/privacy.php) for the most accurate reproduction.*
 
 # www.onlinecorrection.com Privacy Statment
 
