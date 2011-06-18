@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tudordressing.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201234425id_/http%3A//www.tudordressing.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tudordressing.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618121958id_/http%3A//www.tudordressing.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Medieval Armor & Costume, Medieval Dresses, Shirts, Helmet, Weapons, Knights, Medieval clothing
+# Privacy Notice : Medieval Costumes, Medieval Clothing, Medieval clothes, Medieval Dresses
 
   
 
