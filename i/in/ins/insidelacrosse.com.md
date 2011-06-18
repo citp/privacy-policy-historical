@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124094656id_/http%3A//insidelacrosse.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618041603id_/http%3A//insidelacrosse.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | InsideLacrosse.com
 
