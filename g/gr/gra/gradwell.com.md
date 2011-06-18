@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617055423id_/http%3A//www.gradwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618144805id_/http%3A//gradwell.com/privacy) for the most accurate reproduction.*
 
 # Gradwell | Privacy Policy
 
@@ -8,9 +8,25 @@ Gradwell Dot Com Limited (hereafter ‘Gradwell) has created this privacy statem
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+We use our in-house analytics system, _ioIQ_ , to provide usage metrics of all our services, including Gradwell.com. When you visit any of our websites we use information provided by your web browser, including your IP address to enhance the service we provide to you. This information may, if you are an existing customer, be personally identifiable. We will also provide this information to our support or sales representatives should you use any contact forms on our website. All information is stored securely on internal Gradwell systems and will only be used in accordance with this policy and our terms and conditions.
 
 Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+
+In order to deliver our services we may disclose your personal data to our sub-contactors, who maintain the same standards of security and integrity as ourselves, under full non-disclosure agreements. These include:
+
+  * Sirius Corporation Plc - Systems Management
+  * Netsumo Limited - Network Management
+  * MailChimp LLC - CRM Software
+  * Pardot LLC - CRM Software
+  * Netsuite LLC - CRM Software
+  * Target Consulting Limited - Accounting & Finance Support
+  * JuniperBridge Limited - Customer Support
+  * Provu Limited - Logistics & Dispatch
+  * Netlynk Group Limited - Logistics & Dispatch
+  * Optimum Contact Limited – Customer surveying  
+ 
+
+
 
 This site contains links to other sites. [http://www.gradwell.com](http://www.gradwell.com/) is not responsible for the privacy practices or the content of such web sites.
 
