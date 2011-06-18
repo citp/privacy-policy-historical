@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soma.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218055623id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soma.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618123614id_/http%3A//www.soma.com/store/page.jsp%3Fid%3D57) for the most accurate reproduction.*
 
-# Soma Intimates - Privacy Policy
+# Privacy Policy - Soma Intimates
 
 **Privacy Policy**  
 Revised October 28, 2010  
@@ -14,7 +14,7 @@ We may collect information (including name, address, telephone number, email add
   * Register for our loyalty program or ask to receive our emails or catalogs.
   * Participate in a contest, sweepstakes, promotion, or survey.
   * Are referred to us through a marketing promotion.
-  * Visit out website (see **Cookies **below).
+  * Visit our website (see **Cookies **below).
 
 
 
