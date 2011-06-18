@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwide-cash.net privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218060819id_/http%3A//www.worldwide-cash.net/pages/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwide-cash.net privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618130432id_/http%3A//www.worldwide-cash.net/pages/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # :: World Wide Cash .net :: Get Paid To Read, Click, Refer, Signup, and much more! :: No Minimum payout!
 
