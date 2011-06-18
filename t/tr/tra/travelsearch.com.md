@@ -1,106 +1,88 @@
-> *The following text is extracted and transformed from the travelsearch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113133id_/http%3A//www.travelsearch.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsearch.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618183537id_/http%3A//www.kayak.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TravelSearch.com
+# KAYAK - Privacy Policy
 
-Last modified on July 31, 2007
+_Effective as of March 10, 2011_
 
-  1. Overview
+Our goal is to make KAYAK the most trusted company in online travel.
 
-TravelSearch is a service owned and operated by SideStep, Inc.("SideStep"), with its principle place of business 2980 Bowers Ave, Santa Clara, California 95051 USA ("TravelSearch"). The Service is comprised of a website that facilitates your ability to search, compare and purchase travel products and services (such as airline tickets, hotel rooms, and rental cars) from third party suppliers. 
+KAYAK is a search engine that saves you time and money. We search the web for the best fares and rates to help you make your purchase. Registration on KAYAK is strictly voluntary. You do get some cool information and access to certain great features if you do register, but membership is not necessary to get our great rates and fares.
 
-Subject to your agreement to certain terms and conditions in TravelSearch Terms of Service, you can access and use the Service on the TravelSearch web site at www.TravelSearch.com ("TravelSearch Website" or "Site"). 
+## **What's Your Sign?**
 
-The purpose of this Privacy Policy is to inform you of the following: 
+KAYAK does not collect any of your personally identifiable information (“PII”) when you do basic searches on the site. However, certain services we provide require you to authorize us to collect PII, including your name (and the traveler name, if different), email address, phone number, password, credit card information and billing address, and frequent flyer account numbers. Our software uses the PII to personalize and manage the KAYAK website for you. Here are some examples of services we can provide if you authorize us to use your PII: 
 
-    * What kind of information does TravelSearch collect about you?
-    * How will the information that TravelSearch collects be used?
-    * With whom does TravelSearch share the information it collects about you?
-    * What are the opt-out choices TravelSearch provides you with regarding the collection, use, and distribution of your information?
-    * What security procedures does TravelSearch use to protect against the loss, misuse, or alteration of information it collects?
-    * How long does TravelSearch retain information about me?
-    * Does TravelSearch collect information from children?
-    * How can I access the information TravelSearch has about me or correct it?
-    * Notification of Changes
+With your frequent flyer account numbers and passwords, we aggregate your available frequent flyer information;
 
-TravelSearch takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. TravelSearch will not sell or rent your personal information to third parties. However, as described in more detail in Section 4 below, there are limited circumstances when some of your personal information will be shared with third parties, under certain restrictions. 
+With your credit card information and billing address, we can facilitate your reservations; and
 
-This Privacy Policy is incorporated into and subject to the TravelSearch Terms of Service. By using the TravelSearch Website you are agreeing to the TravelSearch Terms of Service and providing your express consent to the use and disclosure of information you provide to TravelSearch as described in this Privacy Policy. 
+If you choose KAYAK personal trip management service (the “My Trips Service”), you authorize us to collect certain parts of the travel information in order to create and maintain your travel itineraries.
 
-  2. What kind of information does TravelSearch collect about you?
-    1. IP Addresses and Computer Information
+So, remember, if you do decide to use any of these KAYAK services and give us information about you, you are telling us that this information is true, accurate and current. Also, you are telling us that you have the authorization to provide us with that information. 
 
-If you access and use the Service, our Web server logs typical information, including: 
+In order to make our site more efficient, we may also collect certain information (such as destination or site usage behavior) based on your use of KAYAK. We may use this information to display advertising that you find interesting and suppress advertising that you might find boring or annoying. For example, we might show you travel offers from your home airport, but other airports. Also, we may use this information to send you targeted email-marketing messages that you might find interesting.
 
-      * The URL of the page requested
-      * The time and date of the request
-      * The type, version, and configuration of web browser being used
-      * The type of operation system being used
-      * The URL of the website where you clicked on a link to get to the TravelSearch Website. This URL might contain a code to help identify the specific advertisement clicked on.
-      * The IP address to which to copy of the page you requested is to be sent for display by your browser
-    2. Cookies
+To help us debug problems with our software (rare as they are ;) ), we may collect some technical information from your browser software (such as Mozilla Firefox or Internet Explorer), screen resolution and the website that referred you to us.
 
-"Cookies" are small files of data that reside on your computer and allow us to recognize you as a user of the Service if you return to the TravelSearch Website using the same computer and browser. TravelSearch uses cookies in the following ways: 
+## **We'll Keep You In The Loop**
 
-      1. The Service will place other cookies on your computer to track your use of the Service, and to aim to ensure that any advertising delivered is relevant to you. 
-      2. Various temporary session cookies are used each time you access the Service. These only remain on your computer until you close your browser (typically when you next log off).
+When you choose to register with us, KAYAK logs you in automatically using your email address. This makes it easier as you don't have to create and remember a login identifier. The use of your email address for login also allows KAYAK to assist you with forgotten passwords issues. If you do register with us, KAYAK will save your information and recognize you regardless of where you login from. So if you are visiting friends and using their computer, we'll know it's you and display your searches and preferences when you do login. 
 
-You may de-activate the receipt of cookies by your computer at any time by following the relevant instructions in your browser software; however, if you do so you may not be able to correctly receive certain elements of the TravelSearch Service. 
+KAYAK gives you the option of receiving emails from us. We think they are quite amusing, but you may not laugh, and so we allow you to opt out any time. Our emails are sent from a KAYAK address and are sent to your real email address. If you are a registered user and send email booking confirmations to our My Trips Service, we will recognize you. If you’ve never registered on KAYAK and you send us email booking confirmations, we’ll send you an email asking you to register. We’ll also send you an email if you send us your email booking confirmations but we are unable to recognize the travel provider or otherwise to create your consolidated itinerary. Every email that we send has an opt-out URL, so you can be unsubscribed when you want. We do hate spam at KAYAK and suspect that you do too.
 
-We use third-parties to serve the ads you see when you visit our Site. These companies may use certain information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you. The information they use is not personally identifiable information (not, for example, your name, address, email address or telephone number) In the course of serving advertisements on our Site; these third-parties may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by TravelSearch or such, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
+## **In This Case Sharing Is Not Caring**
 
-    3. Itinerary and Transaction Information
+What's yours is yours. We won't sell your name, email address, phone number, credit card information or billing address to anyone. There might be an exception in the event KAYAK itself is sold. In this case we would transfer your PII to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the My Trips Service, you can send, or grant access to, your itinerary to your friends and family. Once displayed on publicly-viewable web pages, that information can be collected and used by others.
 
-We also collect information that you input as part of performing searches using the Service. When you choose to book a reservation for a travel product after learning about the product on the Service, in most cases the Service will automatically redirect you to the Web site of the relevant supplier, who will collect and process your payment details. You should read the privacy policies on each travel supplier's Web site you access. We are not responsible for their use of the personal information you supply to them. 
+From time to time, we will also share aggregated usage information with others. This type of information does not contain your identity or anything personally identifiable to you.
 
-    4. Customer Support Information
+## **If The Police Come Knocking At Our Door**
 
-If you correspond with us in any manner and for any purpose (e.g. e-mails to customer support), we retain such information in order to evaluate and improve our Service and quality of customer support. 
+KAYAK may disclose to authorized law enforcement personnel the personal data from anyone who poses a threat to our interests. This might include those that are attempting to commit fraud or those who conduct activities that could bring harm to us or others. We assume that this is not you so please don't worry. KAYAK may also disclose information about you in response to a legal action or where otherwise required by law, to enforce our rights, to professionals who provide services to us, and generally to service providers who perform services on our behalf and have agreed in writing to protect and not further disclose your information.
 
-  3. How will the information that TravelSearch collects be used?
+## **You Are The Boss**
 
-We use the information we collect from you: (a) to facilitate transactions on your behalf, (b) to activate searches on your behalf, (c) to personalize and improve our service offerings to you, and (d) to ensure that we are compensated by our partners. We also use this information in aggregate form to better understand what purchases users want to make and help provide better offers and a more effective service. If you opt to participate, we may use your information in order to offer you personalized services. We may also develop aggregate - but not individual - reports for our partners. An example of a summary report might be "500 users booked travel to a specific city during the month of November." 
+KAYAK members and site visitors have control over the use of their personal data. Since you are the boss on KAYAK, you always can change your account settings in the "My Profile" page on KAYAK.
 
-  4. With whom does TravelSearch share the information it collects about you?
+## **Protecting Your Information**
 
-Your personal information is never sold or rented to any third party. TravelSearch will not share your personal information with third parties except as described in this section or with your express permission. 
+KAYAK has a security program intended to keep the information stored in our systems protected from unauthorized access. We store your information in secure data centers located in the United States. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Third party security firms review our internal security policies and documentation regularly. The bottom line is, when it comes to information security, we mean business.
 
-  5. What are the opt-out choices TravelSearch provides you with regarding the collection, use, and distribution of your information?
+## **Cookies (Not The Kind You Eat With Milk)**
 
-If you do not wish us to collect the information described in Section 2, you can do the following: 
+When you visit KAYAK we may store information about your web session and assign you one or more 'cookies'. Your browser will store these cookies on you computer in a small file. For example, when you decide to login as a KAYAK member, we store encrypted information in your browser so you don't have to login on every page.
 
-    * With respect to IP addresses and computer information, you cannot opt out of collection of such data. If you do not wish us to collect this information your only option is to stop using the TravelSearch Site.
-    * With respect to cookies, you may de-activate the receipt of cookies by your computer at any time by following the relevant instructions in your browser software; however, if you do so you may not be able to correctly receive certain elements of the TravelSearch Service.
-    * With respect to itinerary and transaction information, because we need to collect this information in order to receive payment from travel suppliers, you cannot opt out of collection of such data. If you do not wish us to collect this information your only option is to stop using the TravelSearch Site.
-    * With respect to customer support information, you cannot opt out of collection of this information since maintaining a record of such support issues is critical to our improving the TravelSearch Website and Service.
-  6. What security procedures does TravelSearch use to protect against the loss, misuse, or alteration of information it collects?
+KAYAK does make money by selling advertising as well as referrals from searches on our site. Our third party advertising partners often use a cookie or third party web beacon (a single pixel GIF image) to track when a click becomes a sale (cha ching).
 
-TravelSearch operates secure data networks protected by industry-standard firewall and password protection systems. Our internal security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our users. 
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: networkadvertising.org. 
 
-While TravelSearch takes reasonable steps to secure your personal information, no system is fault-proof. If TravelSearch's security systems are breached, TravelSearch may attempt to notify you electronically and, by using the Service and/or providing personal information to us, you agree that we can notify you electronically. TravelSearch may post a notice on the TravelSearch Website if a security breach occurs. If this happens, you will need a web browser which enables you to view the TravelSearch Website. 
+## **Can We Email You Sometime?**
 
-  7. How long does TravelSearch retain information about me?
+With the exception of emails confirming registration, emails that include information about your account, emails relating directly to an itinerary, travel profiles or reservations created through the My Trips Service, and service announcements and administrative messages that are considered part of your account membership, we will not send you any emails unless you opt-in to receive communications from us. If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you, including target email marketing messages. If you decide that you are no longer interested in receiving email communications from us, you may follow the instructions in our emails to unsubscribe from our email list.
 
-TravelSearch will retain information from which it is possible to identify you for a reasonable time bearing in mind the possibility of your re-using the Service. If you would like your information to be deleted at any time you should contact us using the details set out below. 
+## **Every Website Has Its Own Voice and Policies**
 
-  8. Does TravelSearch collect information from children?
+Although we work with responsible third parties, their business policies may include different privacy policies and practices than we have. So when you click through to third party websites, our privacy policies no longer apply. We encourage you to read the privacy policies of these partner websites.
 
-Children under 13 should not send any information about themselves to TravelSearch. If a child under 13 submits information through any part of the Service, and we learn the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information from children under 13, we do not use or disclose such information to third parties. 
+## **Big Kids Only Please**
 
-  9. How can I access the information TravelSearch has about me or correct it?
+KAYAK does not knowingly collect PII information from people under the age of 18. If we become aware of the fact that a minor is attempting to submit this information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records.
 
-How can I access the information TravelSearch has about me or correct it? TravelSearch has appointed a privacy officer responsible for assisting you with privacy-related issues. If you would like to change or update your information or preferences, please follow the instructions described above. We are committed to providing you with reasonable access to the information we have about you and reasonably assisting you in managing the personal information you share with us. 
+## **Our Website is Run from the United States**
 
-  10. Notification of Changes
+Our website is run from the United States and is intended for U.S. customers; our servers and data centers are located in the U.S. If you are accessing our website from outside the U.S., by providing us information about you, you agree that the information may be transferred and stored in the U.S., a jurisdiction which may have different and/or less stringent privacy and data security protections than those of your own jurisdiction.
 
-Because our business and services are changing and improving all the time, in the future we may find it necessary to make changes to this Privacy Policy. We will prominently post such material changes on the TravelSearch Website at least 30 days prior to their taking effect. We encourage you to review our Privacy Policy whenever you visit the Website and use the Service. 
+## **Should We Evolve, Change, Self Actualize**
 
-If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please [send feedback](https://web.archive.org/feedback/privacy)
+KAYAK reserves the right to modify this Privacy Policy at any time. If there are material changes to this statement on how KAYAK will use your PII, we will prominently post these changes prior to implementing them and if you are registered with us, attempt to email you using your current email address on record with us regarding these material changes. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this Privacy Policy at the time you provided us with your information.
 
+## **Contact Us**
 
+If you have questions about our privacy practices or need assistance with exercising or understanding your privacy choices, please contact our Privacy Officer at [privacy@kayak.com](mailto:privacy@kayak.com) or you may write to: 
 
+KAYAK  
+Attention: Privacy Officer  
+55 North Water Street, Suite 1  
+Norwalk, CT 06854. 
 
-**Kayak.com**  
-27 Ann Street, Suite 300   
-Norwalk, CT 06854 USA ([map](http://maps.google.com/maps?f=q&hl=en&q=27+Ann+St,+Norwalk,+CT&sll=42.462365,-71.388285&sspn=0.011334,0.023282&layer=&ie=UTF8&z=16&om=1&iwloc=addr)) 
-
-Further information about TravelSearch is available at [About TravelSearch](http://www.travelsearch.com/help/about.html). 
+Last updated: February 28, 2011
