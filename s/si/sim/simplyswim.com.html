@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the simplyswim.com privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215195034id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplyswim.com privacy policy that was archived on 2011-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618041026id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Simply Swim - Website Privacy Policy
 </title><link href="/Main.css" rel="stylesheet" type="text/css"><link href="/Advice.css" rel="stylesheet" type="text/css">
 
   <script type="text/javascript" src="/js/main.js"></script>
-  <meta content="en" name="language"><meta http-equiv="Content-type" content="text/html;charset=UTF-8"><meta content="Copyright Simply Swim 1995-2010" name="copyright"><meta name="Description" content="Our websites privacy policy. Information we collect and how we use it, our use of cookies and how we protect your information.">
-<meta name="Abstract" content="">
-<meta name="Page-Topic" content="">
+  <meta content="en" name="language"><meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+  <meta content="Copyright Simply Swim 1995-2011" name="copyright">
+  <meta name="Description" content="Our websites privacy policy. Information we collect and how we use it, our use of cookies and how we protect your information.">
 <meta name="Keywords" content="privacy policy,privacy,website privacy policy">
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=92183954"></script></head>
 <body>
@@ -16,30 +16,53 @@
     <div id="Header">
       
 <a href="/"><img src="/images/Header/Logo.jpg" style="left: 30px; top: 15px; position: absolute" alt="Simply Swim"></a>
-<div id="HeaderText"> <a href="/WishList.aspx">WISH LIST<span id="Header1_lblItems">(0)</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/ReturnsPolicy.aspx">RETURNS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/DeliveryInformation.aspx">DELIVERY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/CustomerServices.aspx">HELP</a></div>
+<div id="HeaderText"> <a href="/WishList.aspx">WISH LIST <span id="Header1_lblItems">(0)</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/ReturnsPolicy.aspx">RETURNS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/DeliveryInformation.aspx">DELIVERY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/CustomerServices.aspx">HELP</a></div>
 <div id="HeaderButtons">
 <a href="/MyAccount.aspx"><img src="/images/header/MyAccount.jpg" alt="View my account" style="float:left"></a>
 <a href="/ShoppingBasket.aspx"><img src="/images/header/MyBag.jpg" alt="view my basket" style="float:right;"></a>
 <span id="Header1_HeaderSB1_lblItems" class="headerItems">0</span><span id="Header1_HeaderSB1_lblTotal" class="headerTotal">£0.00</span>
 </div>
 <div id="SearchBar"><a href="/docs/ChoosingSwimEquipment.aspx">SWIMWEAR ADVICE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/videositemap.aspx">VIDEOS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/SwimmingGalas.aspx">GALAS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/SwimPublicRelations.aspx">PRESS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/GiftVoucher.aspx">GIFT VOUCHERS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Sitemap.aspx">SITEMAP</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Resources.aspx">RESOURCES</a></div>
-<form id="Search" action="/SearchResults.aspx?Reset=1" method="post"><input id="txtSearch" name="txtSearch" type="text" style="border-style: none; border-color: inherit; background:transparent; border-width: 0px; left: 31px; top: 177px; width: 160px; height: 13px; position: absolute; font-size: 10px; color: #606060" onclick="clearSearch(this)" onblur="resetSearch(this)" onfocus="clearSearch(this)" value="Search for a product" onkeyup="doSearch(this)" autocomplete="off"><input name="imgSearch" type="image" src="/images/header/search.png" style="left: 260px; top: 174px; position: absolute" alt="Search for a product"></form>
+
+<input id="txtSearch" name="txtSearch" type="text" style="border-style: none; border-color: inherit; background: transparent; border-width: 0px; left: 31px; top: 177px; width: 160px; height: 13px; position: absolute; font-size: 10px; color: #606060" onclick="clearSearch(this)" onblur="resetSearch(this)" onfocus="clearSearch(this)" value="Search for a product" onkeyup="doSearch(this, event)" autocomplete="off">
+<input name="imgSearch" type="image" src="/images/header/search.png" style="left: 260px; top: 174px; position: absolute" alt="Search for a product" onclick="searchSite()">
+
+
 <div id="AutoCompleteContainer"><div id="AutoComplete"></div></div>
-<img src="/images/ExpressDelivery.png" id="imgXmasClock" alt="">
 <script type="text/javascript" src="/js/soapclient.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 if(document.getElementById){var obj=document.getElementById('txtSearch');if(obj.setAttribute)obj.setAttribute('autocomplete','off');}
 function clearSearch(textbox){if(textbox.value=='Search for a product'){textbox.value='';}}
 function resetSearch(textbox){if(textbox.value==''){textbox.value='Search for a product';}}
-function doSearch(textbox){if(textbox.value.length>=2){var pl=new SOAPClientParameters();pl.add("CompanyID",4);pl.add("SearchFor",textbox.value);SOAPClient.invoke('/search.asmx',"textSearch",pl,true,doSearchCallback);}else{document.getElementById("AutoComplete").innerHTML='Nothing found';document.getElementById("AutoCompleteContainer").style.display='none';}}
+function doSearch(textbox, e){
+var key; if(window.event){key = window.event.keyCode} else {key = e.which}; //alert(key);
+if (key==13) {searchSite()} else {if(textbox.value.length>=2){var pl=new SOAPClientParameters();pl.add("CompanyID",4);pl.add("SearchFor",textbox.value);SOAPClient.invoke('/search.asmx',"textSearch",pl,true,doSearchCallback);}else{document.getElementById("AutoComplete").innerHTML='Nothing found';document.getElementById("AutoCompleteContainer").style.display='none';}}}
 function doSearchCallback(result){if(result==null){document.getElementById("AutoComplete").innerHTML='Nothing found';document.getElementById("AutoCompleteContainer").style.display='none';}else{document.getElementById("AutoComplete").innerHTML=result;document.getElementById("AutoCompleteContainer").style.display='block';}}
 function closeAutoComplete(){document.getElementById("AutoCompleteContainer").style.display='none';}
+function searchSite() {var searchStr=document.getElementById("txtSearch").value.replace(/ /gi,'+');if(searchStr!=undefined){window.location.href='/SearchResults.aspx?Reset=1&SearchString='+searchStr;}}
 //]]>
 </script>
 <img src="/images/header/DSLeft.jpg" alt="" style="position: absolute; left: 0px; top: 125px">
 <img src="/images/header/DSRight.jpg" alt="" style="position: absolute; right: 0px; top: 125px">
-
+<div id="Header1_HomePageScroller" style="display:none;">
+  <div class="main_view">
+    <div class="window">
+      <div class="image_reel">
+        <a href="http://www.facebook.com/pages/Simply-Swim/184370618278889"><img src="/Images/Home/reel_1c.jpg" alt="Join us on Facebook to get 5 pounds off"></a>
+        <a href="/manufacturers/Speedo/WomensSwimwear.aspx?reset=1&amp;orderBy=7"><img src="/Images/Home/reel_1a.jpg" alt="New Speedo Range"></a>
+        <a href="/departments/Goggles.aspx"><img src="/Images/Home/reel_2a.jpg" alt="Fantastic Goggle Range"></a>
+                <a href="/departments/WomensSwimwear/Bodyshaping.aspx"><img src="/Images/Home/reel_4a.jpg" alt="Sculpture Swimwear"></a>
+      </div>
+    </div>
+    <div class="paging">
+      <a href="#" rel="1"><img src="/Images/Home/spacer.png" alt=""></a>
+      <a href="#" rel="2"><img src="/Images/Home/spacer.png" alt=""></a>
+      <a href="#" rel="3"><img src="/Images/Home/spacer.png" alt=""></a>
+      <a href="#" rel="4"><img src="/Images/Home/spacer.png" alt=""></a>
+    </div>
+  </div>
+</div>
 <div id="HeaderDepartments"><ul>
 <li><a href="/Manufacturers.aspx">brands</a>
 <ul>
@@ -49,22 +72,24 @@ function closeAutoComplete(){document.getElementById("AutoCompleteContainer").st
 <li><a href="/manufacturers/CoPharma.aspx">Co Pharma</a></li>
 <li><a href="/manufacturers/Cressi.aspx">Cressi</a></li>
 <li><a href="/manufacturers/Diana.aspx">Diana</a></li>
+<li><a href="/manufacturers/Fashy.aspx">Fashy</a></li>
+<li><a href="/manufacturers/Finis.aspx">Finis</a></li>
 <li><a href="/manufacturers/Funkita.aspx">Funkita</a></li>
 <li><a href="/manufacturers/FunkyTrunks.aspx">Funky Trunks</a></li>
 <li><a href="/manufacturers/H2OAudio.aspx">H2O Audio</a></li>
-<li><a href="/manufacturers/Head.aspx">Head</a></li>
 </ul>
 <ul style="left: 162px">
-<li><a href="/manufacturers/HLHealthCare.aspx">HL Health Care</a></li>
-<li><a href="/manufacturers/Intova.aspx">Intova</a></li>
-<li><a href="/manufacturers/Jansport.aspx">Jansport</a></li>
+<li><a href="/manufacturers/Head.aspx">Head</a></li>
 <li><a href="/manufacturers/Maru.aspx">Maru</a></li>
-<li><a href="/manufacturers/Rival.aspx">Rival</a></li>
+<li><a href="/manufacturers/ONeill.aspx">O Neill</a></li>
+<li><a href="/manufacturers/Sevylor.aspx">Sevylor</a></li>
+<li><a href="/manufacturers/Shimmsuit.aspx">Shimmsuit</a></li>
 <li><a href="/manufacturers/ShockAbsorber.aspx">Shock Absorber</a></li>
 <li><a href="/manufacturers/Speedo.aspx">Speedo</a></li>
+<li><a href="/manufacturers/Swimovate.aspx">Swimovate</a></li>
 <li><a href="/manufacturers/Tyr.aspx">Tyr</a></li>
-<li><a href="/manufacturers/View.aspx">View</a></li>
 <li><a href="/manufacturers/Zoggs.aspx">Zoggs</a></li>
+<li><a href="/\Manufacturers.aspx">...See all brands</a></li>
 </ul>
 </li>
 <li class="header_divider"><a href="/docs/ChoosingSwimEquipment.aspx">Equipment</a>
@@ -128,6 +153,7 @@ function closeAutoComplete(){document.getElementById("AutoCompleteContainer").st
 <li><a href="/departments/WomensSwimwear/Maternity.aspx">Maternity</a></li>
 <li><a href="/departments/WomensSwimwear/Performance.aspx">Performance</a></li>
 <li><a href="/departments/WomensSwimwear/SportsAndLeisure.aspx">Sports And Leisure</a></li>
+<li><a href="/departments/WomensSwimwear/Swimsuit.aspx">Swimsuit</a></li>
 <li><a href="/departments/WomensSwimwear/TankinisandTwoPieces.aspx">Tankinis and Two Pieces</a></li>
 </ul>
 </li>
@@ -138,6 +164,7 @@ function closeAutoComplete(){document.getElementById("AutoCompleteContainer").st
 <li><a href="/departments/GirlsSwimwear/CompetitionSwimwear.aspx">Competition Swimwear</a></li>
 <li><a href="/departments/GirlsSwimwear/Performance.aspx">Performance</a></li>
 <li><a href="/departments/GirlsSwimwear/SportsandLeisure.aspx">Sports and Leisure</a></li>
+<li><a href="/departments/GirlsSwimwear/Swimsuit.aspx">Swimsuit</a></li>
 <li><a href="/departments/GirlsSwimwear/TankinisandTwoPieces.aspx">Tankinis and Two Pieces</a></li>
 </ul>
 </li>
@@ -173,13 +200,13 @@ function closeAutoComplete(){document.getElementById("AutoCompleteContainer").st
 <li><a href="/departments/PopularSearches/DianaSubmarine.aspx">Diana Submarine</a></li>
 <li><a href="/departments/PopularSearches/FINAApprovedSuits.aspx">FINA Approved Suits</a></li>
 <li><a href="/departments/PopularSearches/MaruMX1.aspx">Maru MX1</a></li>
+<li><a href="/departments/PopularSearches/MaruMX2.aspx">Maru MX2</a></li>
 <li><a href="/departments/PopularSearches/SpeedoEndurance.aspx">Speedo Endurance</a></li>
-<li><a href="/departments/PopularSearches/SpeedoFastskin.aspx">Speedo Fastskin</a></li>
-<li><a href="/departments/PopularSearches/SpeedoFastskinFSII.aspx">Speedo Fastskin FSII</a></li>
 <li><a href="/departments/PopularSearches/SpeedoLZR.aspx">Speedo LZR</a></li>
 <li><a href="/departments/PopularSearches/SpeedoSculpture.aspx">Speedo Sculpture</a></li>
 <li><a href="/departments/PopularSearches/TYRFusion.aspx">TYR Fusion</a></li>
 <li><a href="/departments/PopularSearches/TYRTracer.aspx">TYR Tracer</a></li>
+<li><a href="/departments/PopularSearches/Zoggy.aspx">Zoggy</a></li>
 </ul>
 </li>
 <li class="header_divider"><a href="/departments/Outlet.aspx">outlet</a>
@@ -240,7 +267,7 @@ function closeAutoComplete(){document.getElementById("AutoCompleteContainer").st
             <div id="Content">
               <div style="float:left; margin:20px 0 0 250px">
                 <a onclick="javascript:contentPrint()">
-                  <img style="cursor: hand" src="/images/PrintThisPage.jpg" alt="Print this page"></a>
+                  <img style="cursor:pointer" src="/images/PrintThisPage.jpg" alt="Print this page"></a>
                 <!-- ADDTHIS BUTTON BEGIN -->
 
                 <script type="text/javascript">
@@ -250,7 +277,7 @@ function closeAutoComplete(){document.getElementById("AutoCompleteContainer").st
                 </script>
 
                 <a href="javascript:openPopup('http://www.addthis.com/bookmark.php')">
-                  <img style="cursor: hand" src="/images/ShareThisPage.jpg" alt="Share this page"></a>
+                  <img style="cursor:pointer" src="/images/ShareThisPage.jpg" alt="Share this page"></a>
 
                 <script type="text/javascript" src="https://secure.addthis.com/js/152/addthis_widget.js"></script>
 
@@ -260,7 +287,7 @@ function closeAutoComplete(){document.getElementById("AutoCompleteContainer").st
               <div style="float:right; margin: 10px 10px">
                 
 <!-- BEGIN LivePerson Button Code -->
-<a rel="nofollow" id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/92183954/?cmd=file&amp;file=visitorWantsToChat&amp;site=92183954&amp;byhref=1&amp;imageUrl=https://www.simplyscuba.com/images/liveperson" target="chat92183954" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/92183954/?cmd=file&amp;file=visitorWantsToChat&amp;site=92183954&amp;imageUrl=https://www.simplyscuba.com/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat92183954','width=500,height=400,resizable=yes');return false;"><img name="hcIcon" src="https://server.iad.liveperson.net/hc/92183954/?cmd=repstate&amp;amp;site=92183954&amp;amp;channel=web&amp;amp;ver=1&amp;amp;imageUrl=https://www.simplyscuba.com/images/liveperson&amp;amp;d=1580352473479" style="border: 0px;"></a>
+<a rel="nofollow" id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/92183954/?cmd=file&amp;file=visitorWantsToChat&amp;site=92183954&amp;byhref=1&amp;imageUrl=https://www.simplyscuba.com/images/liveperson" target="chat92183954" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/92183954/?cmd=file&amp;file=visitorWantsToChat&amp;site=92183954&amp;imageUrl=https://www.simplyscuba.com/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat92183954','width=500,height=400,resizable=yes');return false;"><img name="hcIcon" src="https://server.iad.liveperson.net/hc/92183954/?cmd=repstate&amp;amp;site=92183954&amp;amp;channel=web&amp;amp;ver=1&amp;amp;imageUrl=https://www.simplyscuba.com/images/liveperson&amp;amp;d=1580352474651" style="border: 0px;"></a>
 
 <script type="text/javascript"> var img=new Image();img.style.border='0';img.name='hcIcon';img.src='https://server.iad.liveperson.net/hc/92183954/?cmd=repstate&amp;site=92183954&amp;channel=web&amp;ver=1&amp;imageUrl=https://www.simplyscuba.com/images/liveperson'+'&amp;d='+((new Date()).getTime());var par=document.getElementById('_lpChatBtn');if(par!=null){par.appendChild(img);}</script>
 
@@ -421,7 +448,7 @@ Simply Swim Limited (Company Number 3053307) ("Simply Swim, we or us") is commit
 <area shape="rect" coords="653,260,801,300" href="http://www.simplypiste.com" alt="Shop at Simply Piste">
 <area shape="rect" coords="801,260,987,300" href="http://www.simplysnorkel.com" alt="Shop at Simply Snorkel">
 <area shape="rect" coords="717,51,777,125" href="http://www.youtube.com/user/SimplySwim" alt="Follow us on YouTube" target="_blank">
-<area shape="rect" coords="797,51,857,125" href="http://www.facebook.com/group.php?gid=24026971374" alt="Follow us on Facebook" target="_blank">
+<area shape="rect" coords="797,51,857,125" href="http://www.facebook.com/pages/Simply-Swim/184370618278889?sk=wall" alt="Follow us on Facebook" target="_blank">
 <area shape="rect" coords="877,51,947,125" href="http://twitter.com/simplyswimuk" alt="Follow us on Twitter" target="_blank">
 </map>
 <div id="FooterLinks">
@@ -435,7 +462,7 @@ Simply Swim Limited (Company Number 3053307) ("Simply Swim, we or us") is commit
 <a href="/docs/SecureShopping.aspx"><img src="/images/footer/security.jpg" alt="See how you can safely shop with us"></a>
 </div>
 <div style="float: left; margin-left: 25px; margin-top: 10px; text-align: left">
-Simply Swim - Copyright © 2010 - All Rights Reserved<br>
+Simply Swim - Copyright © 2011 - All Rights Reserved<br>
 92-93 John Wilson Business Park, Whitstable, Kent, CT5 3QT, England
 </div>
 </div>
@@ -452,7 +479,7 @@ function clearEmail(){if(document.getElementById("txtFirstName").value=='First n
 function resetEmail(){if(document.getElementById("txtFirstName").value==''){document.getElementById("txtFirstName").value='First name'};if(document.getElementById("txtSurname").value==''){document.getElementById("txtSurname").value='Surname'};if(document.getElementById("txtEmail").value==''){document.getElementById("txtEmail").value='Email address'};}
 function joinMailingList(){if(document.getElementById("txtEmail").value==''||document.getElementById("txtEmail").value=='Email address'){alert('Email Address cannot be blank');document.getElementById("txtEmail").focus();return;}
 var gender;if(document.getElementById("optMale").checked==true){gender=1}else{gender=0};
-window.location="/MyAccountEmailPreferences.aspx?Action=Join&Email="+document.getElementById("txtEmail").value+"&FirstName="+document.getElementById("txtFirstName").value+"&Surname="+document.getElementById("txtSurname").value+"&Gender="+gender;}
+window.location="/MyAccountEmailPreferences.aspx?Email="+document.getElementById("txtEmail").value+"&FirstName="+document.getElementById("txtFirstName").value+"&Surname="+document.getElementById("txtSurname").value+"&Gender="+gender;}
 //]]>
 </script>
 
