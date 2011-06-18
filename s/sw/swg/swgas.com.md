@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swgas.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216190034id_/http%3A//www.swgas.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swgas.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618165918id_/http%3A//www.swgas.com/about/privacy.php) for the most accurate reproduction.*
 
 # SWG / Privacy Policy
 
