@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmarketinginstitute.ie privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217104123id_/http%3A//digitalmarketinginstitute.ie/the-digital-marketing-institute-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketinginstitute.ie privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618203809id_/http%3A//digitalmarketinginstitute.ie/the-digital-marketing-institute-privacy-policy) for the most accurate reproduction.*
 
 # online marketing | digital marketing course | google analytics training
 
