@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the amazingdata.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217164649id_/http%3A//amazingdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingdata.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618140833id_/http%3A//amazingdata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amazing Data
-
-## [Privacy Policy](http://amazingdata.com/privacy-policy/ "Privacy Policy")
 
 Amazingdata.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -28,3 +26,8 @@ Links to third party Websites. We have included links on this site for your use 
 
 Changes to this Privacy Statement  
 The contents of this statement may be altered at any time, at our discretion. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at Amazingdatamail at yahoo dot com.
+
+#### Incoming search terms for this post:
+
+[amazingdata com/privacy-policy/](http://amazingdata.com/search/amazingdata-comprivacy-policy/ "amazingdata com/privacy-policy/")
+
