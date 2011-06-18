@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218055803id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618123931id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
 
 # Adult DVD Empire -
 
@@ -38,7 +38,7 @@ We also collect certain technical information from your computer each time you v
 
 _Other times we may collect personal information_
 
-If you ask for an Adult DVD Empire catalog, DVD Empire collects your name, mailing address, and date of birth when you complete the catalog [Request](https://web.archive.org/exec/catalog.asp?site=1). At the time you request a catalog, you may also choose to receive occasional offers from other quality companies that complement the Adult DVD Empire lifestyle, in which case your name, mailing address and date of birth will be shared with other quality companies who will provide you with the offers you requested. When you make a purchase from an Adult DVD Empire catalog you are automatically opted-in to receive offers from other companies that complement the Adult DVD Empire lifestyle. You may stop receiving the Adult DVD Empire catalog and from receiving offers from other companies, at any time, by requesting removal from the mailing lists [here](https://web.archive.org/exec/catalogremove.asp). 
+If you ask for an Adult DVD Empire catalog, DVD Empire collects your name, mailing address, and date of birth when you complete the catalog [Request](https://web.archive.org/exec/catalog.asp?site=1). At the time you request a catalog, you may also choose to opt-out of receiving occasional offers from other quality companies that complement the Adult DVD Empire lifestyle. If you choose to opt-out, your name, mailing address and date of birth will not be shared with those other companies. When you make a purchase from an Adult DVD Empire catalog (including mail, fax and phone orders, the online catalog quick order form, and the online interactive version of the catalog) you are automatically opted-in to receive offers from other companies that complement the Adult DVD Empire lifestyle. You may opt-out of receiving the Adult DVD Empire catalog and from receiving offers from other companies, at any time, by requesting removal from the mailing lists [here](https://web.archive.org/exec/catalogremove.asp). 
 
 From time to time, DVD Empire may conduct surveys and contests via our Website, email, or other forms of media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using our site. 
 
@@ -109,4 +109,4 @@ If you have comments or questions regarding our privacy policy, please [Email Us
 
 Thank you for your support of our policies.  [Back to Top]
 
-Last updated: September 24, 2010 
+Last updated: May 3, 2011 
