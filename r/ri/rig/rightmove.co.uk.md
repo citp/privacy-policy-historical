@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231080936id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618061726id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Rightmove.co.uk
 
@@ -26,7 +26,7 @@ In general, we use the information we collect about you to:
 
 When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about how you use this Site including your searches, the properties and pages you look at, the advertisers or partners you contact and the contents of the emails you send to them. Finally, we may also collect information from any correspondence that you have with us. Collectively, we refer to this as "Your Information".
 
-All of the forms where you might enter personal information on our Site have tick box options to enable you to specify your consent (or otherwise) to our use of Your Information. We always use the the most recently submitted form to be your current consent status. If you are a registered user, but not signed in when you submit a form, we won’t be able to use your saved settings so will deem your consent choice to be as per the form you submit at the time.
+All of the forms where you might enter personal information on our Site have tick box options to enable you to specify your consent (or otherwise) to our use of Your Information. We always use the the most recently submitted form to be your current consent status. If you are a registered user, but not signed in when you submit a form, we won't be able to use your saved settings so will deem your consent choice to be as per the form you submit at the time.
 
 ## How we use Your Information
 
