@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globalnpn.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123214411id_/http%3A//globalnpn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalnpn.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/privacy.php%3Fid%3D1%26c%3D0%26tag%3D) for the most accurate reproduction.*
 
-# TheNPN.Com
+# GlobalNPN
 
-Privacy Policy Statement
+[Home](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/index.php?id=1&c=0&tag=) | [Products](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/products.php?id=1&c=0&tag=) | [PayPlan](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/payplan.php?id=1&c=0&tag=) | [Ladder System](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/ladder.php?id=1&c=0&tag=) | [Join Now!](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/join.php?id=1&c=0&tag=) | Log In
 
 This is the web site of **The New Plan Network / WebShooter Multimedia**.
 
@@ -12,7 +12,8 @@ General Delivery
 Shawnigan Lake, BC, Canada V0R2W0**
 
 We can be reached via e-mail at [admin@thenpn.com](mailto:admin@thenpn.com)  
-or you can reach us by telephone at 2509841265
+or you can reach us by telephone at 2509841265  
+
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -53,3 +54,15 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+[Home](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/index.php?id=1&c=0&tag=) | [Products](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/products.php?id=1&c=0&tag=) | [PayPlan](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/payplan.php?id=1&c=0&tag=) | [Ladder System](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/ladder.php?id=1&c=0&tag=) | [Join Now!](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/join.php?id=1&c=0&tag=) | Log In
+
+[Contact Us](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/contact.php?id=1&c=0&tag=) | [Privacy Policy](https://web.archive.org/web/20110618130051id_/http%3A//globalnpn.com/privacy.php?id=1&c=0&tag=)
+
+Copyright WebShooter Multimedia / TheNPN.Com / TheNPN.Biz  
+© 2011 All Rights Reserved. 
+
+Payment processing services provided by:  
+WebShooter Multimedia Ltd.  
+The Sands, P.O. Box 1823  
+Bay Road and George Street Basseterre, St. Kitts
