@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the privacyguard.com privacy policy that was archived on 2010-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101118033933id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fFinInfoPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the privacyguard.com privacy policy that was archived on 2011-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618100631id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fFinInfoPolicy) for the most accurate reproduction.-->
 
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 			<meta property="og:title" content="Privacyguard">
 			<meta property="og:type" content="website">
 			<meta property="og:url" content="http://www.privacyguard.com/">
 			<meta property="og:site_name" content="Privacyguard">
+      <meta name="google-site-verification" content="B_kKsgUzyb3NUT7S9qLosoZdEle92L6vWRTjvrxkzDU"> 
 			<!--beginP: Core.Head-->
 		<title>PrivacyGuard</title>
 		<script type="text/javascript" src="/BCA/PG_NEW/images/flashobject.js"></script>
 		<script type="text/javascript" src="/BCA/PG_NEW/images/swfobject.js"></script>
 		
-		<link rel="stylesheet" href="/Style.aspx?file=%2fBCA%2fPG_NEW%2ftemplates%2fMainStyle.bca&amp;compact=true&amp;utc=634230849600000000" type="text/css">
+		<link rel="stylesheet" href="/Style.aspx?file=%2fBCA%2fPG_NEW%2ftemplates%2fMainStyle.bca&amp;compact=true&amp;utc=634432476600000000" type="text/css">
 
 
 
@@ -21,8 +22,8 @@
 
 
 
-		<link rel="stylesheet" href="/Style.aspx?file=%2fBCA%2fPG_NEW%2ftemplates%2fMenuStyle.bca&amp;compact=true&amp;utc=633959825400000000" type="text/css">
-		<link rel="stylesheet" href="/Style.aspx?file=%2fBCA%2fPG_NEW%2ftemplates%2fFooterStyle.bca&amp;compact=true&amp;utc=633886332000000000" type="text/css">
+		<link rel="stylesheet" href="/Style.aspx?file=%2fBCA%2fPG_NEW%2ftemplates%2fMenuStyle.bca&amp;compact=true&amp;utc=634340713200000000" type="text/css">
+		<link rel="stylesheet" href="/Style.aspx?file=%2fBCA%2fPG_NEW%2ftemplates%2fFooterStyle.bca&amp;compact=true&amp;utc=634341709800000000" type="text/css">
 
 			
 			<!-- begin bca: /BCA/PG_NEW/Default/Scripts.bca -->
@@ -62,6 +63,48 @@ function getLyrRef(lyr,doc) {
 			else if (theLyr.document.layers.length > 0) 
 	    	if ((theLyr = getLyrRef(lyr,theLyr.document)) != null)
 					return theLyr;
+	  }
+		return null;
+  }
+}
+</script>
+
+<script type="text/javascript">
+
+var cur_promolyr;
+function swapLayers4(id) {
+  if (cur_promolyr) hideLayer4(cur_promolyr);
+  showLayer4(id);
+  cur_promolyr = id;
+}
+
+function showLayer4(id) {
+  var promolyr = getElemRefs4(id);
+  if (promolyr && promolyr.css) promolyr.css.visibility = "visible";
+  if (promolyr && promolyr.css) promolyr.css.display = "block";
+}
+
+function hideLayer4(id) {
+  var promolyr = getElemRefs4(id);
+  if (promolyr && promolyr.css) promolyr.css.visibility = "hidden";
+  if (promolyr && promolyr.css) promolyr.css.display = "none";
+}
+
+function getElemRefs4(id) {
+	var el = (document.getElementById)? document.getElementById(id): (document.all)? document.all[id]: (document.layers)? getLyrRef4(id,document): null;
+	if (el) el.css = (el.style)? el.style: el;
+	return el;
+}
+
+function getLyrRef4(lyr,doc) {
+	if (document.layers) {
+		var theLyr4;
+		for (var i=0; i<doc.layers.length; i++) {
+	  	theLyr4 = doc.layers[i];
+			if (theLyr4.name == promolyr) return theLyr4;
+			else if (theLyr4.document.layers.length > 0) 
+	    	if ((theLyr4 = getLyrRef4(promolyr,theLyr4.document)) != null)
+					return theLyr4;
 	  }
 		return null;
   }
@@ -199,15 +242,14 @@ function getLyrRef3(tiplyr,doc) {
 <!--endP: Core.Head-->
 		</head>
 
-		<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" id="csPrivacy"><!--beginP: Core.Omniture--><!--endP: Core.Omniture-->
+
 			<!--beginP: Core.Body-->
 
-<img src="https://altfarm.mediaplex.com/ad/bk/11125-66175-3840-0?Joins=1&amp;mpuid=" border="0" height="1" width="1" alt="">
 
 
 
 <!--beginP: Tag-->
-
+<body id="csPrivacy">
 <!--endP: Tag-->
 
 <div style="width:778px; margin: 0px auto;">
@@ -233,15 +275,6 @@ function getLyrRef3(tiplyr,doc) {
 
 
 
-		<div id="uk">
-		<img alt="UK Visitors Click Here" src="/BCA/GENERIC/images/uk_flag.gif" border="0" align="left"> <a href="http://www.privacyguard.co.uk/">UK Visitors Click Here</a>
-		</div>
-
-
-
-
-
-
 		</div>
 		<div style="width:190px;float:right;margin-top:10px;">
 		<div id="signinLabel" style="margin-top:2px;"><strong>Username:</strong></div>
@@ -257,9 +290,9 @@ function getLyrRef3(tiplyr,doc) {
 
 		</div>
 	</div>
-<input name="xAuthToken" type="hidden" value="AQTHBIUFS2DI2T75KIF4SJ4XJW90ERHB4">
+<input name="xAuthToken" type="hidden" value="4LESDD4TV6V7MJJ67QSQ11SW0U9Z6LJ44">
 
-<input type="hidden" name="authToken" value="TTQ1VcmlC2CVgkTdPgxFcE3i8Ug8q0YDMdUEiX+Vq4U="></form>
+<input type="hidden" name="authToken" value="PuRWWBVLV8XoINr/r4SV3qT91yM6BlH2OK+Ryvw14Dk="></form>
 <!-- end SignInFormControl -->
 
 </div>
@@ -274,8 +307,8 @@ function getLyrRef3(tiplyr,doc) {
 	
 	<ul id="topNav">
 		<li><a href="/" target="_parent" class="menuHome">Home</a></li>
-		<li><a href="/Content.aspx?content=benefits&amp;lyr=lyr1" target="_parent" class="menuBenefits">Member Benefits</a></li>
-		<li><a href="https://www.privacyguard.com/secure/Promo.aspx" target="_parent" class="menuJoin">Join</a></li>
+		<li><a href="/Content.aspx?content=benefits&amp;lyr=lyr1" target="_parent" class="menuBenefits">Protection Benefits</a></li>
+		<li><a href="/secure/promo.aspx?lyr=promoLyr1" target="_parent" class="menuJoin">Join</a></li>
 		<li><a href="/Content.aspx?content=CustomerService%2ffaq" target="_parent" class="menuFaq">FAQs</a></li>
 		<li><a href="/Content.aspx?content=CustomerService%2fcshome" target="_parent" class="menuCs">Customer Service</a></li>
 		<li><a href="/Content.aspx?content=education" target="_parent" class="menuEducation">Education</a></li>
@@ -317,106 +350,258 @@ function getLyrRef3(tiplyr,doc) {
 
 
 		<h2>Customer Service</h2>
+		<h3 class="benefitSubHeader">We'll help you stay protected</h3>
 	</div>
 
 	<div id="csBody">
 
 		<span class="bodyHeader">Privacy Policy</span>
 
-		<p><strong><a href="/Content.aspx?content=CustomerService%2fprivacy">Online Privacy Policy</a></strong>
-				
+
 		
-		</p><p><a href="/Content.aspx?content=CustomerService%2fFinInfoFaqs"><strong> Privacy Policy FAQ's</strong></a>
+		<p><strong><a href="http://www.privacyguard.com/BCA/PG_NEW/images/privacypolicy/PPolicyPGNEWGeneric.pdf" target="_blank" width="550" height="550">Online Privacy Policy</a></strong></p>
+
+
+
+
+
+
+
+			
+		
+		<p><a href="/Content.aspx?content=CustomerService%2fFinInfoFaqs"><strong> Privacy Policy FAQ's</strong></a>
 		
 
-		</p><p><strong>OUR OBJECTIVE</strong><br>
-        Your Personal Information is important to our business and vital in serving your needs. We are committed to the responsible collection, management, disclosure, safekeeping, and use of such information. This Privacy Policy guides us in achieving that commitment and applies to all of our members and other customers in the United States. In order to remind you of our commitment, we will send you a copy of our Privacy Policy at least annually following our initial notice. 
-					  
-		</p><p><strong>PERSONAL INFORMATION COVERED BY POLICY</strong><br>
-		By "Personal Information," we mean information we possess about you that identifies you personally and is not otherwise available to the public. This information may include general information (such as your name, address, phone number, birth date and Social Security number), transaction information (such as your service usage and products purchased through us) and financial information (such as income). 
-        
-		</p><p><strong>COLLECTION OF PERSONAL INFORMATION</strong><br>
-        We may obtain your Personal Information from you or from third parties. We may collect such information from applications or other forms submitted by you, from your transactions with us, our affiliates or other parties, or from other sources. 
-		
-		</p><p><strong>OUR USE OF PERSONAL INFORMATION</strong><br>
-        We use Personal Information to help us serve our members and other customers and to conduct our business. We use such information to perform business functions, such as servicing our members and other customers, paying claims and benefit amounts, advising our members and other customers of our existing products and services, and developing new products and services.
-
-		</p><p><strong>SHARING OF PERSONAL INFORMATION WITH AFFILIATES</strong><br>
-        We may provide Personal Information relating to your transactions with us or our experience with you to our affiliates (including those existing currently or in the future). Beginning October 1, 2008, we will not share any Personal Information with our affiliates for purposes of marketing their products and services unless we are otherwise permitted to do so by law. 
-
-		</p><p><strong>SHARING OF PERSONAL INFORMATION WITH UNAFFILIATED PARTIES</strong><br>
-        We may also share Personal Information with (x) unaffiliated third parties, including marketing partners, printers, billing agents, insurance companies, administrators and service providers, that assist us in performing our business functions and marketing our products, and as otherwise permitted or required by law, and (y) unaffiliated financial institutions under joint marketing agreements with us; in any such case, we will require such third parties to maintain the confidentiality of Personal Information disclosed to them. 
-        </p><p>We may also share Personal Information with certain other unaffiliated third parties, including non-financial service providers (such as retailers, airlines, and publishers), so that they may offer you products or services that we believe may be of interest to you. You have the opportunity to direct that your Personal Information not be disclosed to these third parties by completing and returning the form presented below.</p>
-		
-		
-	<p><strong>MAINTAINING THE SECURITY OF YOUR INFORMATION</strong><br>
-	We have implemented security procedures which use reasonable measures to ensure the security, confidentiality, and integrity of Personal Information in our possession and guard against unauthorized access or use. We maintain physical, electronic, and procedural safeguards that comply with federal standards to safeguard Personal Information. We grant access to Personal Information only to those employees who need to use it in performing their job related duties and as otherwise set forth herein. Employees who violate our security procedures will be subject to disciplinary action, which may include termination. 
-
-	</p><p><strong>TREATMENT OF INFORMATION OF FORMER MEMBERS AND CUSTOMERS</strong><br>
-	We will continue to follow our Privacy Policy for your Personal Information even when you are no longer a member or other customer of our business. 
-
-	</p><p><strong>CHANGES TO OUR PRIVACY POLICY</strong><br>
-	This Privacy Policy supersedes all privacy policies and other similar standards previously issued by us. This Privacy Policy is subject to updates and other changes from time to time. In the event of any such changes, we will notify all of our members and other customers of such changes in the manner and to the extent required by law. 
-
-	</p><p><strong>SPECIAL NOTICE FOR VERMONT RESIDENTS</strong><br>
-	If you are a resident of Vermont, we will not share your Personal Information with unaffiliated third parties except as permitted by law. We may share your name, contact information, and information about your transactions with us and our experience with you with unaffiliated financial institutions with which we have joint marketing agreements. We may also share your Personal Information with your consent. 
-
-		</p><p><strong>METHODS FOR OPTING OUT OF SHARING PERSONAL INFORMATION</strong><br>
-        If you do not want us to share your Personal Information with unaffiliated third parties (other than those disclosures required or permitted by law), please check the box below and print your name and address in the space provided. Alternatively, you may make this request by e-mail by sending this information to: glbpolicy@trilegiant.com. If you have opted out previously, you do not need to opt out again. Also, your opt-out will apply to all membership services of Trilegiant Corporation in which you enroll using the same name and address that you use to opt out. 
-	
-	</p><p></p><form name="form1" method="post" action="">
-           <input type="checkbox" name="checkbox" value="checkbox" align="left" id="optOut3rdparty" valign="absmiddle">			  
-           <label for="optOut3rdparty">Please don't share my personal information with unaffiliated third parties <br>
-		   (other than those disclosures required or permitted by law). </label>
-           <input type="hidden" name="authToken" value="TTQ1VcmlC2CVgkTdPgxFcE3i8Ug8q0YDMdUEiX+Vq4U="></form>
-		
-		<p><strong>SPECIAL NOTICE FOR CALIFORNIA RESIDENTS</strong><br>
-		If you have a California mailing address, we will not share your Personal Information with unaffiliated third parties that are not financial institutions (other than as required or permitted by California or federal law). In addition, you may request that we not share your Personal Information with unaffiliated financial institutions with which we have joint marketing agreements, except as required or permitted by California or federal law. If you do not want us to share your Personal Information with such parties, please check the box below and enter your name, address, and member number in the space provided. Alternatively, you may make this request by e-mail by sending this information to: <a href="mailto:glbpolicy@trilegiant.com.">glbpolicy@trilegiant.com</a> 
-
-			</p><p></p><form name="form1" method="post" action="">
-           <input type="checkbox" name="checkbox" value="checkbox" align="left" id="optOutFinancials" valign="absmiddle">			  
-           <label for="optOutFinancials">Please don't share my Personal Information with unaffiliated financial institutions with which you have joint marketing agreements (other than those disclosures required or permitted by California or federal law). </label>
-           <input type="hidden" name="authToken" value="TTQ1VcmlC2CVgkTdPgxFcE3i8Ug8q0YDMdUEiX+Vq4U="></form>
-	<p>If you have checked any of the boxes above, please print your name, address, and member number in the space below and send it to us at <strong>Trilegiant Corporation, P.O. Box 40383, Nashville,TN 37204-0383</strong>.We ask that you mail your request in a stamped envelope that does not include any other correspondence. Once your request has been received and processed, it will remain in effect until you request a change.</p>
-
-	<div id="grayMainHeader">
-		<span>PRIVACY POLICY FORM</span>
-	</div>
-	<div id="privacypolicyform">
-<table summary="" cellspacing="0" border="0">
-	<tbody><tr>
-		<td colspan="3" class="myprofiletext" style="width: 230px; padding-top: 2px; padding-bottom: 2px;"><label for="name">Name</label></td>
-	</tr>
-	<tr>
-		<td colspan="3" style="width: 230px; padding-top: 2px; padding-bottom: 2px;"><input type="text" size="45" id="name" value=""></td>
-	</tr>
-	<tr>
-		<td class="myprofiletext" style="width: 230px; padding-top: 2px; padding-bottom: 2px;"><label for="addr1">Address 1 (PO Box/Rural Route is ok)</label></td>
-		<td colspan="2" class="myprofiletext" style="padding-top: 2px; padding-bottom: 2px;"><label for="addr2">Apt/Unit</label></td>
-	</tr>
-	<tr>
-		<td style="width: 230px; padding-top: 2px; padding-bottom: 2px;"><input type="text" id="addr1" size="30"></td>
-		<td colspan="2" style="padding-top: 2px; padding-bottom: 2px;"><input type="text" id="addr2" size="15"></td>
-	</tr>
-	<tr>
-		<td class="myprofiletext" style="width: 230px; padding-top: 2px; padding-bottom: 2px;"><label for="city">City</label></td>
-		<td class="myprofiletext" style="width: 169px; padding-top: 2px; padding-bottom: 2px;"><label for="state">State</label></td>
-		<td class="myprofiletext" style="width: 166px; padding-top: 2px; padding-bottom: 2px;"><label for="zip">Zip Code</label></td>
-	</tr>
-	<tr>
-		<td style="width: 230px; padding-top: 2px; padding-bottom: 2px;"><input type="text" id="city" size="30"></td>
-		<td style="width: 169px; padding-top: 2px; padding-bottom: 2px;"><input type="text" id="state" size="5"></td>
-		<td style="width: 166px; padding-top: 2px; padding-bottom: 2px;"><input type="text" id="zip" size="10"></td>
-	</tr>
-	<tr>
-		<td colspan="3" class="myprofiletext" style="padding-top: 2px; padding-bottom: 2px;"><label for="memNum">Membership Number</label></td>
-	</tr>
-	<tr>
-		<td colspan="3" class="myprofiletext" style="padding-top: 2px; padding-bottom: 2px;"><input type="text" id="memNum" size="15"></td>
-	</tr>
+</p><p>
+<style type="text/css">
+<!--
+.style1 {font-family: Arial, Helvetica, sans-serif}
+.style4 {
+	font-size: 14;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.style8 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+.style10 {font-family: Arial, Helvetica, sans-serif; font-size: 14; font-weight: bold; }
+.style13 {
+	font-size: 14;
+	color: #FFFFFF;
+}
+.style15 {font-family: Arial, Helvetica, sans-serif; font-size: 14; }
+.style16 {color: #FFFFFF}
+.style17 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style19 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
+.style21 {font-size: 12px}
+.style22 td{
+  
+  border:1px solid #000
+  }
+-->
+</style>
+<table summary="" width="90%" cellspacing="4" cellpadding="2" class="style22">
+  <tbody><tr>
+    <td colspan="2"><span class="style19">The following discloses our information collection, use and dissemination practices for https://www.privacyguard.com, a Web site of Trilegiant Corporation. Effective Date: This Privacy Policy was last updated on November 12, 2010 and is subject to change at any time.</span></td>
+  </tr>
+  <tr>
+    <td width="15%" bgcolor="#666666"><div align="center" class="style1 style4">FACTS</div></td>
+    <td><span class="style10">WHAT DOES TRILEGIANT CORPORATION DO WITH YOUR PERSONAL INFORMATION?</span></td>
+  </tr>
+  <tr>
+    <td width="15%" bgcolor="#CCCCCC"><div align="center" class="style8 style13"><strong>WHY?</strong></div></td>
+    <td><p class="style15">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. </p></td>
+  </tr>
+  <tr>
+    <td width="15%" bgcolor="#CCCCCC"><div align="center" class="style15 style16"><strong>WHAT?</strong></div></td>
+    <td><p class="style15">The types of personal information we collect and share depend on the product or service you have with us. This information can include:<br>
+      - Social Security number and income <br>
+      - Your name, address, and telephone number <br>
+      - Your birthdate and service usage </p>    </td>
+  </tr>
+  <tr>
+    <td width="15%" bgcolor="#CCCCCC"><div align="center" class="style17">HOW?</div></td>
+    <td><p class="style15">All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Trilegiant Corporation chooses to share; and whether you can limit this sharing. </p></td>
+  </tr>
 </tbody></table>
-</div>					
-		<p>Please allow 30 days from our receipt of your request for processing. To ensure your request is processed, please make sure to include all information with your submission.</p>
+<br>
+<table summary="" width="90%" cellspacing="0" cellpadding="4" class="style22">
+  <tbody><tr bgcolor="#CCCCCC">
+    <td width="50%"><span class="style19">Reasons we can share your personal information</span></td>
+    <td><div align="center"><span class="style19">Does Trilegiant Corporation share?</span></div></td>
+    <td><div align="center"><span class="style19">Can you limit this sharing?</span></div></td>
+  </tr>
+  <tr>
+    <td width="50%"><span class="style8"><strong>For our everyday business purposes</strong> — such as to process 
+      your transactions, maintain your ccount(s), respond to court 
+    orders and legal investigations, or report to credit bureaus</span></td>
+    <td><div align="center" class="style19">YES</div></td>
+    <td><div align="center"><span class="style19">NO</span></div></td>
+  </tr>
+  <tr>
+    <td width="50%"><span class="style8"><strong>For our marketing purposes</strong> — to offer our products and 
+    services to you</span></td>
+    <td><div align="center"><span class="style19">YES</span></div></td>
+    <td><div align="center"><span class="style19">NO</span></div></td>
+  </tr>
+  <tr>
+    <td width="50%"><span class="style19">For joint marketing with other 
+    financial companies</span></td>
+    <td><div align="center"><span class="style19">YES</span></div></td>
+    <td><div align="center"><span class="style19">NO</span></div></td>
+  </tr>
+  <tr>
+    <td width="50%"><span class="style8"><strong>For our affiliates’ everyday business purposes</strong> — information about your transactions and experiences</span></td>
+    <td><div align="center"><span class="style19">YES</span></div></td>
+    <td><div align="center"><span class="style19">NO</span></div></td>
+  </tr>
+  <tr>
+    <td width="50%"><span class="style8"><strong>For our affiliates’ everyday business purposes</strong> &amp;mdash information about your creditworthiness</span></td>
+    <td><div align="center"><span class="style19">NO</span></div></td>
+    <td><div align="center"><span class="style19">WE DO NOT SHARE </span></div></td>
+  </tr>
+  <tr>
+    <td width="50%"><span class="style19">For our affiliates to market to you</span></td>
+    <td><div align="center"><span class="style19">NO</span></div></td>
+    <td><div align="center"><span class="style19">WE DO NOT SHARE</span></div></td>
+  </tr>
+  <tr>
+    <td width="50%"><span class="style19">For nonaffiliates to market to you</span></td>
+    <td><div align="center"><span class="style19">YES</span></div></td>
+    <td><div align="center"><span class="style19">YES</span></div></td>
+  </tr>
+</tbody></table>
+<br>
+<table summary="" width="90%" cellspacing="0" cellpadding="6" class="style22">
+  <tbody><tr>
+    <td width="20%" bgcolor="#999999" class="style13"><span class="style17"><strong>To limit our sharing</strong></span></td>
+    <td class="style8">• E-mail us at GLBPolicy@Trilegiant.com<br>
+      • Write us at Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204 or<br>
+      • Mail the form below<br>
+      <strong>Please note:</strong><br>
+      If you are a <em>new</em> customer, we can begin sharing your infor mation 30 days from the date we sent this notice. When 
+      you are <em>no longer</em> our customer, we continue to share your information as described in this notice.<br>
+    However, you can contact us at any time to limit our sharing.</td>
+  </tr>
+</tbody></table>
+<img src="spacer.gif" width="1" height="3">
+<table summary="" width="90%" cellspacing="0" cellpadding="6" class="style22">
+  <tbody><tr>
+    <td width="33%" bgcolor="#999999" class="style13"><span class="style17"><strong>Questions?</strong></span></td>
+    <td class="style19">Write us at: Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204 or e-mail us at GLBPolicy@Trilegiant.com.</td>
+  </tr>
+</tbody></table>
+<br>
+
+<table summary="" width="90%" cellspacing="0" cellpadding="4" class="style22">
+  <tbody><tr bgcolor="#999999">
+    <td colspan="2" class="style17">Who we are </td>
+  </tr>
+  <tr class="style8">
+    <td><strong>Who is providing<br>
+    this notice?</strong></td>
+    <td>Trilegiant Corporation</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr bgcolor="#999999">
+    <td colspan="2" class="style17">What we do</td>
+  </tr>
+  <tr class="style8">
+    <td valign="top"><strong>How does Trilegiant<br>
+      Corporation protect my<br>
+    personal information?</strong></td>
+    <td>To protect your personal information from unauthorized access and use, we use security measures<br>
+      that comply with federal law. These measures include computer safeguards and secured files<br>
+    and buildings.</td>
+  </tr>
+  <tr class="style8">
+    <td valign="top"><strong>How does Trilegiant<br>
+      Corporation collect my<br>
+    personal information?</strong></td>
+    <td>We collect your personal information, for example, when you:<br>
+      • Enroll in a service<br>
+      • Use a service in which you are enrolled<br>
+    We also collect your personal information from others, such as affiliates or other companies.</td>
+  </tr>
+  <tr class="style8">
+    <td valign="top"><strong>Why can’t I limit<br>
+    all sharing?</strong></td>
+    <td>Federal law gives you the right to limit only<br>
+      • sharing for affiliates’ everyday business purposes— information about your creditworthiness<br>
+      • affiliates from using your information to market to you<br>
+      • sharing for nonaffiliates to market to you<br>
+      State laws and individual companies may give you additional rights to limit sharing. <strong>See below for more on your rights under state law.</strong></td>
+  </tr>
+  <tr class="style8">
+    <td><strong>What happens when I limit<br>
+      sharing for an account I hold jointly with someone else?</strong></td>
+    <td valign="top">Your choices will apply to everyone who uses the services you are enrolled in.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr bgcolor="#999999">
+    <td colspan="2" class="style17">Definitions</td>
+  </tr>
+  <tr class="style8">
+    <td valign="top"><strong>Affiliates</strong></td>
+    <td>Companies related by common ownership or control. They can be financial and nonfinancial companies.<br>
+      • Our affiliates may include insurance companies, service providers, marketing partners, data processors and advertisers.</td>
+  </tr>
+  <tr class="style8">
+    <td valign="top"><strong>Nonaffiliates</strong></td>
+    <td>Companies not related by common ownership or control. They can be financial and nonfinancial companies.<br>
+      • Nonaffiliates with which we share may include insurance companies, service providers, marketing partners, data processors and advertisers.</td>
+  </tr>
+  <tr class="style8">
+    <td valign="top"><strong>Joint marketing</strong></td>
+    <td>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.<br>
+    • Our joint marketing partners include companies such as banks and insurance companies.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr bgcolor="#999999">
+    <td colspan="2" class="style17">Other important information</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="style15 style21"><strong>California Residents:</strong> We will not share your personal information with nonaffiliated third parties that are not financial institutions except as required or permitted by Califor nia or federal law. In addition, you may request that we not share your personal information with nonaffiliated financial institutions with which we have joint marketing agreements, except as required or permitted by California or federal law.<br>
+      <strong>Vermont Residents:</strong> We do not share your personal information with nonaffiliates, except as per mitted by Vermont or federal law. We may share your name, contact information, and information about your transactions with us and our experience with you with nonaffiliated financial institutions with which we have joint marketing agreements. We may also share your personal information with your consent.</td>
+  </tr>
+</tbody></table>
+<br>
+<table summary="" width="90%" cellspacing="0" cellpadding="4" class="style22">
+  <tbody><tr>
+    <td bgcolor="#999999" class="style13"><span class="style8"><strong>Mail-in Form Mail to: &nbsp;&nbsp;&nbsp;&nbsp;Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204-03483</strong></span></td>
+  </tr>
+  <tr>
+    <td><span class="style8"><strong>Mark any/all you want to limit:</strong><br>
+❏ Do not share my personal information with nonaffiliates to market their products and services to me except as permitted by law.<br>
+❏ California Residents: Please don't share my personal information with nonaffiliated financial institutions with which you have joint marketing agreements, except as permitted by California or federal law.</span></td>
+  </tr>
+  <tr>
+    <td class="style8">Name</td>
+  </tr>
+  <tr>
+    <td class="style8">Address</td>
+  </tr>
+  <tr>
+    <td class="style8">City, State, Zip </td>
+  </tr>
+  <tr>
+    <td class="style8">Membership # </td>
+  </tr>
+</tbody></table>
+
+
+</p>
+
+
 		
 	</div>
 	
@@ -427,13 +612,15 @@ function getLyrRef3(tiplyr,doc) {
 
 
 	<div id="rightJoin">
+
+
 		<div id="graySideHeader">
-			<span class="rightHeader"><strong>Try It Now</strong></span>
-		</div>		
-		<div id="rightTryItNow">
-			<a href="https://www.privacyguard.com/secure/Promo.aspx" target="_top"><img alt="" src="/BCA/PG_NEW/images/try_now.gif" border="0"></a>
-			<div><a href="https://www.privacyguard.com/secure/Promo.aspx" target="_top" class="rightTryIt"><div>Try It Now</div></a></div>
+			<span class="rightHeader"><strong>New Member Offer</strong></span>
+		</div>	
+		<div id="rightTryItNowDTC">
+			<div><a href="/secure/promo.aspx?lyr=promoLyr1" target="_top" class="rightTryIt"><span>Try It Now</span></a></div>
 		</div>
+
 	</div>
 
 
@@ -534,13 +721,11 @@ function getLyrRef3(tiplyr,doc) {
 
 	<!--beginP: Footer-->
 		<!-- begin bca: /BCA/PG_NEW/Default/footer.bca -->
-<div id="fcraFooter">
-	<a href="/Content.aspx?content=customerservice%2ffcra" target="_parent">Fair Credit Reporting Act</a>
-</div>
+
 <div id="footerLeft">
 
 	<a href="/" target="_parent">Home</a> | 
-	<a href="/Content.aspx?content=benefits&amp;lyr=lyr1">Member Benefits</a> | 
+	<a href="/Content.aspx?content=benefits&amp;lyr=lyr1">Protection Benefits</a> | 
 	
 	<a href="https://www.privacyguard.com/secure/Promo.aspx">Join</a> | 
 	
@@ -552,15 +737,14 @@ function getLyrRef3(tiplyr,doc) {
 	 | <a href="/Content.aspx?content=CustomerService%2fsiteMap" target="_parent">Site Map</a>
 	
 	<br>
-	©2010 Trilegiant Corporation
+	©2011 Trilegiant Corporation
 
 
 </div>
 <div id="footerRight">
-    <a href="https://smp-01.verizonbusiness.com/certinfo/certified.do?CERTID=070506J800" target="_new" width="542" height="320" left="50" right="100"><img alt="Cybertrust Certified Logo" src="/BCA/PG_NEW/images/global/cybertrust.gif" border="0"></a><br>
-	<a title="This link opens information in a pop-up window" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PRIVACYGUARD.COM&amp;lang=en', '','scrollbars,resizable,width=542,height=320,left=50'); return false;" onkeypress="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PRIVACYGUARD.COM&amp;lang=en', '','scrollbars,resizable,width=542,height=320,left=50'); return false;" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PRIVACYGUARD.COM&amp;lang=en" target="blank" right="100"><img alt="Protected by Verisign" src="/BCA/PG_NEW/images/global/Verisign.gif" border="0" vspace="5"></a>
+    <a href="/Content.aspx?content=customerservice%2ffcra" target="_parent">Fair Credit Reporting Act</a>
 </div>
-<div style="clear:both"></div>
+<div style="clear:both;padding-top:10px;"></div>
 
 
 
@@ -570,8 +754,32 @@ function getLyrRef3(tiplyr,doc) {
 
 </div>
 
+<!-- Google Code for All site traffic Remarketing List -->
+
+<script type="text/javascript">
+var google_conversion_id = 990326229;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "OAAhCPPElgIQ1duc2AM";
+var google_conversion_value = 0;
+</script>
+
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/990326229/?label=OAAhCPPElgIQ1duc2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+
+
 <!--endP: Core.Body-->
-		
+
 	
 
 <!-- end bca: /BCA/PG_NEW/Default/CustomerService/FinInfoPolicy.bca -->
@@ -613,6 +821,6 @@ function getLyrRef3(tiplyr,doc) {
    top.location = self.location; }
 </script>
 <script type="text/javascript">
-function _doTokenCheck(){var d=document;var fa=d.getElementsByTagName('form');for(var c=0;c<fa.length;c++){var f=fa[c];if(!f['authToken']){var hf=d.createElement('input');hf.sa=hf.setAttribute;hf.sa('type','hidden');hf.sa('name','authToken');hf.sa('value','TTQ1VcmlC2CVgkTdPgxFcE3i8Ug8q0YDMdUEiX+Vq4U=');f.appendChild(hf);}}}_doTokenCheck();
+function _doTokenCheck(){var d=document;var fa=d.getElementsByTagName('form');for(var c=0;c<fa.length;c++){var f=fa[c];if(!f['authToken']){var hf=d.createElement('input');hf.sa=hf.setAttribute;hf.sa('type','hidden');hf.sa('name','authToken');hf.sa('value','PuRWWBVLV8XoINr/r4SV3qT91yM6BlH2OK+Ryvw14Dk=');f.appendChild(hf);}}}_doTokenCheck();
 </script>
-<!-- pe: 93 --></body></html>
+<!-- pe: 46 --></body></html>
