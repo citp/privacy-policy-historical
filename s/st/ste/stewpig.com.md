@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stewpig.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218041229id_/http%3A//www.stewpig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stewpig.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618134347id_/http%3A//www.stewpig.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stewpig.com | Entertaining the world EVERYDAY.
+# Privacy Policy | Stewpig.com | Pig Your Way Through A Gazillion Cool Pictures Everyday!
 
 **Advanced Concepts LLP Privacy Policy**  
 The following privacy statement covers all of the Advanced Concepts LLP websites. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please contact us.
