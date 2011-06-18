@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeawesome.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218032424id_/http%3A//www.freeawesome.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeawesome.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618210327id_/http%3A//freeawesome.com/site/privacy) for the most accurate reproduction.*
 
 # Free Awesome - Privacy Policy
 
