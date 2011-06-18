@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thedietsolutionprogram.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231132904id_/http%3A//www.thedietsolutionprogram.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedietsolutionprogram.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618120354id_/http%3A//www.thedietsolutionprogram.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Diet Solution Program
 
-LIVE SMART SOLUTIONS, LLC, a New Jersey limited liability company (“LIVE SMART  
+LIVE SMART SOLUTIONS, LLC, a Nevada limited liability company (“LIVE SMART  
 SOLUTIONS”)  is engaged in the business of selling the The Diet Solution Program  
 Products and distributing information in the form of newsletters, current research,  
-and articles and selling e-books (“Products”) associated with nutrition, diet, health and overall well-being through its web site [  
-http://www.thedietsolutionprogram.com](http://www.thedietsolutionprogram.com/) (the  
+and articles and selling e-books, audios and videos (“Products”) associated with nutrition, diet, health and overall well-being through its web site [  
+http://www.beyonddiet.com](http://www.beyonddiet.com/) (the  
 “Web Site”). Therefore, routinely, in the course of business, LIVE SMART  
 SOLUTIONS may receive personally identifiable information such as your email address  
 in addition to other information secured by our service providers such as your credit  
@@ -31,7 +31,7 @@ of this Privacy Policy.
 
 **Third Party Financial Institutions and Affiliates**
 
-When you purchase e-books on our Web Site, you must submit payment information directly  
+When you purchase e-books, audios and videos on our Web Site, you must submit payment information directly  
 to Clickbank, including your credit or debit card number, as well as your zip code.  
 Such information may be recorded and filed by Clickbank to fulfill your orders.  
 In addition, when you return previously purchased products or request a refund or  
@@ -172,13 +172,13 @@ in our control.
 
 **Contacting Us** : If you have any questions concerning our Privacy  
 Policy, a member (or any other user of this Web Site) you may contact us at: LIVE  
-SMART SOLUTIONS, LLC with its principal address located at 228 Park Ave S #91179, New York, New York 10003,  or via email at info [at] thedietsolutionprogram.com.
+SMART SOLUTIONS, LLC with its principal address located at 3405 Salterbeck Street Suite 200D Mt. Pleasant, SC 29466,  or via email at info [at] beyonddiet.com.
 
 LIVE SMART SOLUTIONS LLC
 
-228 Park Ave S #91179
+3405 Salterbeck Street Suite 200D
 
-New York, New York 10003
+Mt. Pleasant, SC 29466
 
 Last Updated: January 22, 2009
 
