@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207104005id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618060603id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # EarMaster Privacy Policy
 
   * [Home](http://www.earmaster.com/)  
-  * [Ear Training](https://web.archive.org/eartraining.htm)
-    * [What is ear training?](https://web.archive.org/eartraining.htm)
+  * [Ear Training](https://web.archive.org/eartraining/)
+    * [What is ear training?](https://web.archive.org/eartraining/)
     * [Interval song examples](https://web.archive.org/intervalsongs/)
-    * [Ear training exercises](https://web.archive.org/exercises.htm)
+    * [Ear training exercises](https://web.archive.org/eartraining/exercises.htm)
+    * [Ear training lessons](https://web.archive.org/eartraining/lessons.htm)
   * [Products](https://web.archive.org/products/)
     * [Features](https://web.archive.org/products/)
-    * [Screenshots and videos](https://web.archive.org/exercises.htm)
+    * [Screenshots and videos](https://web.archive.org/eartraining/exercises.htm)
     * [Comparison chart](https://web.archive.org/comparison.htm)
+    * [Lesson list](https://web.archive.org/eartraining/lessons.htm)
     * [Reviews in the press](https://web.archive.org/press/reviews.htm)
   * [For Teachers](https://web.archive.org/school/)
     * [EarMaster School](https://web.archive.org/school/)
@@ -31,15 +33,17 @@
   * [Community](https://web.archive.org/community/)
     * [Community forum](https://web.archive.org/community/)
     * [User comments](https://web.archive.org/user-comments.htm)
-    * [Endorsements](https://web.archive.org/endorsement.htm)
+    * [Artists](https://web.archive.org/endorsement.htm)
   * [Support](https://web.archive.org/support/)
     * [Support Portal](https://web.archive.org/support/)
     * [FAQ](https://web.archive.org/support/faq.htm)
     * [Support forum](https://web.archive.org/community/viewforum.php?f=2)
     * [Register your product](https://web.archive.org/register/)
+    * [Serial number recovery](https://web.archive.org/register/recover-serial.htm)
     * [Network installation](https://web.archive.org/support/network_install_guide.htm)
   * [About us](https://web.archive.org/about-us.htm)
     * [News](https://web.archive.org/news.htm)
+    * [Jobs](https://web.archive.org/job/)
     * [Newsletter](https://web.archive.org/register/newsletter.htm)
     * [Press material](https://web.archive.org/press/)
     * [Contact](https://web.archive.org/contact.htm)
@@ -65,5 +69,5 @@ If you have any questions about our Privacy Policy, you may contact us at one of
 
 |     
 ---|---  
-Copyright © 1996-2010 - EarMaster ApS - All rights reserved  
+Copyright © 1996-2011 - EarMaster ApS - All rights reserved  
 [sitemap](https://web.archive.org/sitemap.php) | [privacy](https://web.archive.org/privacy-policy.htm) | [contact](https://web.archive.org/contact.htm)
