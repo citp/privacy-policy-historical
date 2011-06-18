@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218035309id_/http%3A//gofiveguys.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618140612id_/http%3A//gofiveguys.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Mobo Systems ("Go Five Guys", "us" or "we") respects the privacy of visitors to our Sites and registrants of our Services. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information you submit to use through our Sites. Any capitalized term used but not defined in this Privacy Policy shall have the meaning given in the Go Five Guys User Agreement.
+OLO ("Go Five Guys", "us" or "we") respects the privacy of visitors to our Sites and registrants of our Services. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information you submit to use through our Sites. Any capitalized term used but not defined in this Privacy Policy shall have the meaning given in the Go Five Guys User Agreement.
 
 Go Five Guys provides certain websites, including the websites available at the domain name http://gofiveguys.com (each, a "Site") and certain services made available to registered users of the Sites ("Services"). By submitting any information through a Site or registering for any Services, you acknowledge and agree that Go Five Guys may process (i.e., collect, use, etc.) your Personal Information as described in this Privacy Policy. 
 
@@ -32,7 +32,7 @@ In general, we use your Personal Information to respond to your requests as subm
 
 We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze request patterns and usage patterns so that we may enhance our products and services. Go Five Guys reserves the right to use and disclose Anonymous Information to third parties in its discretion. 
 
-We may also use your Personal Information to send information on products, services, special offers, and promotions. Out of respect for your privacy, we give you the option not to receive these types of communications. If you would like to cease receiving any such communications, you may unsubscribe by sending an email to unsubscribe@gomobo.com. You may not opt out of non-promotional communications from Go Five Guys, including confirmation messages regarding successful order requests. 
+We may also use your Personal Information to send information on products, services, special offers, and promotions. Out of respect for your privacy, we give you the option not to receive these types of communications. If you would like to cease receiving any such communications, you may unsubscribe by sending an email to support@olo.com. You may not opt out of non-promotional communications from Go Five Guys, including confirmation messages regarding successful order requests. 
 
 We may share some or all of your Personal Information with “affiliates” (parent company, subsidiaries, joint ventures, or other companies under common control), in which case we will require our affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
 
@@ -70,9 +70,9 @@ This Privacy Policy is subject to revision, and if we make any substantial chang
 
 You may contact the Privacy Officer to access, correct or delete your Personal Information. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task.
 
-If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [admins@gomobo.com](mailto:admins@gomobo.com); or by mail at:
+If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [support@olo.com](mailto:support@olo.com); or by mail at:
 
-> GoMobo  
+> OLO  
 >  84 Wooster St.  
 >  Suite 301  
 >  New York, NY 10012 USA  
