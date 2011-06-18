@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwebcontent.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116113621id_/http%3A//allwebcontent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwebcontent.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618081323id_/http%3A//allwebcontent.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for All Web Content
 
