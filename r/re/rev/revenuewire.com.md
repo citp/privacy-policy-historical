@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revenuewire.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109012027id_/http%3A//www.revenuewire.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuewire.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618080922id_/http%3A//www.revenuewire.com/legal) for the most accurate reproduction.*
 
-# Privacy Policy - RevenueWire Affiliate Network Program - Powering Your Online Transactions
+# RevenueWire | Privacy Policy
 
 ### RevenueWire Privacy Policy
 
