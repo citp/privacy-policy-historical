@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218025821id_/http%3A//www.smallcapnetwork.com/Privacy-Policy/s/page/view/p/mid/1/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618204303id_/http%3A//www.smallcapnetwork.com/Privacy-Policy/s/page/view/p/mid/1/id/3) for the most accurate reproduction.*
 
-# Privacy Policy : Documents : Small Cap Stocks and Penny Stocks For Big Returns - SmallCap Network
+# Privacy Policy
 
 Your privacy is very important to us. We want to make your experience with the SmallCap Network as enjoyable and rewarding as possible, and we want you to visit our website with complete confidence.
 
 SmallCap Network (herein referred to as "SCN") has created a privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this web site.
 
-By visiting SCN's web site(s), Members agree to the Terms & Conditions outlined within our Terms of Use Agreement, Privacy Policy, and Email Policy. It is the Member's responsibility to read and understand these three SCN documents (Terms of Use Agreement, Privacy Policy, and Email Policy) prior to reviewing any information from SCN, signing up for any free newsletter service, or submitting any personal information through our site. SCN may update or revise its Terms of Use Agreement, Privacy Policy, and Email Policy, and we encourage you to periodically review these documents for our most recent policies.
-
-TGR Group, LLC publishes and manages SmallCapNetwork.com.
+By visiting SCN's web site(s), Members agree to the Terms & Conditions outlined within our Terms of Use Agreement and Privacy Policy. It is the Member's responsibility to read and understand these documents prior to reviewing any information from SCN, signing up for any free newsletter service, or submitting any personal information through our site. SCN may update or revise its Terms of Use Agreement and Privacy Policy, and we encourage you to periodically review these documents for our most recent policies.
 
 ## Information SCN Gathers and Tracks
 
@@ -20,13 +18,13 @@ The information that SCN collects is kept confidential unless otherwise specifie
 
 ## Registration Pages & Advertising
 
-SCN collects Member information at the time of registration through Smallcapnetwork.com. This information is collected by SCN and stored on our secure web server. This information is only shared with SCN's partner, Marketbyte, LLC, owner and operator of OTCJournal.com. Otherwise, this information is held strictly confidential by SCN.
+SCN collects Member information at the time of registration through Smallcapnetwork.com. This information is collected by SCN and stored on our secure web server.
 
 SCN often offers selected offers from our partners as part of the registration process for certain sites, services, and products. These offers are designed to assist Members by providing them with valuable information, products, and services from partners who we believe will complement a Members interests. SCN in no way endorses the products or services of these advertisers. When a Member selects to receive one of our partner's offers, they are agreeing to receive information from that advertiser. As part of this advertising program, SCN will provide the advertiser with the required information required to fulfill the Members request. This includes, but is not limited to name, postal address, email address, and phone number.
 
 ## Marketing Messages from Third Party Sponsors
 
-SCN offers free subscription email newsletters via SmallCap Network and OTC Journal.
+SCN offers free subscription email newsletters via SmallCap Network.
 
 Subscription requires Members to provide us with an email address and name at time of registration. Members may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. We operate in compliance with CAN-SPAM legislation, and maintain a "Do Not Mail" list of email addresses which will not receive future correspondence from SCN. Instructions for adding an email address to this "Do Not Mail" list are specified within email correspondence from SCN (with the exception of paid subscription newsletter issues).
 
@@ -42,28 +40,26 @@ Members may unsubscribe to any of our electronic newsletters at any time by foll
 
 ## Email Policy
 
-We understand the serious concerns regarding email advertising. As a result, we created a separate Email Policy to demonstrate our firm commitment to the privacy of our Members and desire to send email communication only to those Members who wish to receive communications from SCN.
+We understand the serious concerns regarding email advertising. As a result, are committed to the privacy of our Members and desire to send email communication only to those Members who wish to receive communications from SCN.
 
 Should you have any questions regarding our Privacy Policy or other related issues, please contact us so that we can address your concerns.
 
-TGR Group, LLC  
-4653 Carmel Mtn. Rd Suite 308 #402  
-San Diego, CA 92130  
-Email: [info@smallcapnetwork.com](mailto:info@smallcapnetwork.com)
+SmallCap Network  
+4364 Bonita Rd. #451  
+Bonita, CA  91902  
+[Contact Us By Using Our Contact Form](http://www.smallcapnetwork.com/Contact-Us/s/page/view/p/mid/1/id/8/)
 
-## EMAIL POLICY AGREEMENT
+## Email Policy Agreement
 
-As of March 30 2009, SCN Group, LLC ("SCN") has created an Email Policy statement in order to demonstrate our firm commitment to your privacy and dedication to sending email communications only to those who have specifically requested such information. The following discloses our information gathering and dissemination practices for our company and our web sites.
-
-By visiting SCN's web site(s), Members agree to the Terms & Conditions outlined within our Terms of Use Agreement, Privacy Policy and Email Policy. It is the Member's responsibility to read and understand these three SCN documents (Terms of Use Agreement, Privacy Policy, and Email Policy) prior to reviewing any information from SCN, signing up for any free or paid subscription newsletter service, or submitting any personal information to our firm. SCN may update or revise its Terms of Use Agreement, Privacy Policy, and Email Policy from time to time, and we encourage you to periodically review these documents for our most recent policies.
+By visiting SCN's web site(s), Members agree to the Terms & Conditions outlined within our Terms of Use Agreement and Privacy Policy. It is the Member's responsibility to read and understand these documents prior to reviewing any information from SCN, signing up for any free or paid subscription newsletter service, or submitting any personal information to our firm. SCN may update or revise its Terms of Use Agreement, Privacy Policy, and Email Policy from time to time, and we encourage you to periodically review these documents for our most recent policies.
 
 SCN is a publisher of free investment newsletters to individuals.
 
-We allow Members to visit our web site, complete a form, and in doing so agree to receive our free email newsletter(s), including our Sister site's free email newsletter, the OTC Journal located at www.otcjournal.com.
+We allow Members to visit our web site, complete a form, and in doing so agree to receive our free email newsletter(s).
 
 We offer our free newsletters to Members through partner web sites and web sites where we advertise, and directly through our own web site.
 
-Members who do not wish to receive future issues of free newsletters by email should follow the instructions within this Email Policy or within a specific email communication from SCN.
+Members who do not wish to receive future issues of free newsletters by email should follow the instructions within a specific email communication from SCN.
 
 ## Email Advertisements
 
@@ -89,7 +85,7 @@ We occasionally send email advertisements and offers to our members on behalf of
 
 However, as part of this advertising program, SCN will provide the advertiser with the required information required to fulfill the Members request. This includes, but is not limited to name, postal address, email address, and phone number. When we send an advertisement or special offer on behalf of a third party or through an agency, we do so in accordance with the following:
 
-The advertisement is sent FROM SCN or the specific newsletter to which the recipient is automatically subscribed (i.e. OTC Journal).
+The advertisement is sent FROM SCN or the specific newsletter to which the recipient is automatically subscribed.
 
 The advertisement is clearly marked as an ADVERTISEMENT or SPECIAL OFFER.
 
@@ -122,9 +118,13 @@ SCN maintains a DO NOT MAIL LIST. This is a list of subscribers who have decided
 
 Should you have any questions regarding our Email Policy or other privacy related issues, please contact us so that we can address your concerns.
 
-TGR Group, LLC  
-4653 Carmel Mtn. Rd Suite 308 #402  
-San Diego, CA 92130  
-Email: [info@smallcapnetwork.com](mailto:info@smallcapnetwork.com)
+SmallCap Network  
+4364 Bonita Rd. #451  
+Bonita, CA  91902  
+[Contact Us By Using Our Contact Form](http://www.smallcapnetwork.com/Contact-Us/s/page/view/p/mid/1/id/8/)
 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
+
+* * *
+
+Last Updated: June 14, 2011
