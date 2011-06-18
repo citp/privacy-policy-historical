@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ird.govt.nz privacy policy that was archived on 2010-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216172832id_/http%3A//www.ird.govt.nz/about-this-site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ird.govt.nz privacy policy that was archived on 2011-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618041333id_/http%3A//www.ird.govt.nz/about-this-site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- IRD - Section Contents --><head>
 <meta name="Generator" content="[AJPE_GENERATOR_TAG]">
@@ -158,9 +158,9 @@
 <p>Inland Revenue is committed to ensuring that your privacy is protected. Any personal information you do provide to us will be kept for as long as necessary to achieve the purpose we collected it for. If your personal information becomes part of your Inland Revenue records, we will retain the information in accordance with Inland Revenue policy on retention of Inland Revenue records.</p>
 
 <a name="contentStart"></a><!-- Menu - Browse site area documents -->
-<h5><a href="/about-this-site/privacy/privacy-callrecording.html">Call recording privacy statement</a></h5>
-<p>As part of our commitment to providing the best possible service to our customers we record all telephone calls answered in our contact centres. This helps us to identify ways that we can provide you with a better service. Please note that child support calls are not answered through our contact centres and so these calls may not be recorded.</p><h5><a href="/about-this-site/privacy/privacy-phishing.html">Report suspicious emails or online activity</a></h5>
-<p>Phishing is when someone tries to trick you in to disclosing your personal information and may then use or sell this information for  illegal purposes such as applying for credit cards or loans in your name. We would like to know if someone unexpectedly asks for your tax information including your IRD number, password or user ID.</p><h5><a href="/about-this-site/privacy/privacy-policy.html">Privacy policy</a></h5>
+<h5><a href="/about-this-site/privacy/privacy-phishing.html">Don't get hooked - beware of phishing from online criminals</a></h5>
+<p>Phishing is when an online criminal tries to trick you in to disclosing your personal information and will then use or sell this information for  illegal purposes such as applying for credit cards or loans in your name. We would like to know if someone unexpectedly asks for your tax information including your IRD number, password or user ID.</p><h5><a href="/about-this-site/privacy/privacy-callrecording.html">Call recording privacy statement</a></h5>
+<p>As part of our commitment to providing the best possible service to our customers we record all telephone calls answered in our contact centres. This helps us to identify ways that we can provide you with a better service. Please note that child support calls are not answered through our contact centres and so these calls may not be recorded.</p><h5><a href="/about-this-site/privacy/privacy-policy.html">Privacy policy</a></h5>
 <p>Our privacy policy explains what personal information we collect, your rights in relation to the personal information we hold, who can access your personal information, how long we will keep it, and how you can contact us if you have queries or concerns about our privacy policy.</p><h5><a href="/about-this-site/privacy/privacy-beneficiary-info.html">Transfer of beneficiary information</a></h5>
 <p>Find out about the information that may be transferred weekly from the Ministry of Social Development to Inland Revenue.</p><h5><a href="/about-this-site/privacy/privacy-act.html">Your obligation to provide information</a></h5>
 <p>Meeting your obligations means giving accurate and timely information to Inland Revenue.  We ask you for this to ensure that we correctly assess your liabilities and entitlements under the Acts which apply to you.  We also ask you for your contant details so that we can send you forms or returns that you may need.</p>
@@ -309,11 +309,38 @@
 <div class="lock"></div>
 
  <p class="moreinfo">For more info on government services go to <a href="http://newzealand.govt.nz/" title="This link will open in a new window." target="_blank" accesskey="/">newzealand.govt.nz</a></p>
- <p class="copyright">© <a href="/about-this-site/conditions#copyright">Copyright 2010</a> Inland Revenue</p>
+ <p class="copyright">© <a href="/about-this-site/conditions#copyright">Copyright 2011</a> Inland Revenue</p>
 
 </div></div>
 
 </td></tr></tbody></table>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	if($("a[href*='OnlinePaymentServlet']").length>0 || $("a[href*='orbitremit']").length>0){
+		$.ajax({
+			  url: '/cgi-bin/vtoken.cgi',
+			  success: function(data) {
+			    var tok = $(data).find("VTOKEN").text();
+	
+				// append the token to the end of the URL
+				
+				// Append to QValent
+				$("a[href*='OnlinePaymentServlet']").each(function(i,el){
+					$(el).attr('href',$(el).attr('href') + "&CP_vtoken=" + tok)
+				})
+				
+				// Append to Orbit Remit
+				$("a[href*='orbitremit']").each(function(i,el){
+					$(el).attr('href',$(el).attr('href') + "?vtoken=" + tok)
+				})
+			  }
+			});
+	};
+})
+</script>
+
 
 <script type="text/javascript">
 	// track a page view (both Urchin & Google Analytics)
@@ -321,7 +348,11 @@
 	_gaq.push(['_setAccount', 'UA-235836-1']);
 	_gaq.push(['_setLocalRemoteServerMode']);
 	_gaq.push(['_setLocalGifPath', '/__utm.gif']);
+	_gaq.push(['_setAllowLinker', false]);
+	_gaq.push(['_setDomainName','.ird.govt.nz']); 
+ 	_gaq.push(['_trackPageLoadTime']);
 	_gaq.push(['_trackPageview']);
+	
 
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -329,6 +360,9 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
+
+
+
 <script type="text/javascript">
 	// tracks a page event (AJAX etc)
 	function trackEvent(category, action, label, value) {
