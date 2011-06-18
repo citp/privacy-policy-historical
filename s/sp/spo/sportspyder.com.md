@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportspyder.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217080031id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportspyder.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618040751id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | SportSpyder
 
@@ -20,6 +20,6 @@
 
 **Your SportSpyder profile** \- When logged in you can change your privacy preferences on your "Fan Profile" page. 
 
-**Removing your account** \- If for some reason you would like us to erase all history of your account with SportSpyder you can do so by submitting a request on the [Contact](https://web.archive.org/feedback_topics/6/feedbacks/new) area of our website. 
+**Removing your account** \- If for some reason you would like us to erase all history of your account with SportSpyder you can do so by submitting a request on the [Contact](https://web.archive.org/contact?topic_id=6) area of our website. 
 
-**Contacting the Web Site** \- If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can get in touch with us on the [Contact](https://web.archive.org/feedback_topics/6/feedbacks/new) area of our website. 
+**Contacting the Web Site** \- If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can get in touch with us on the [Contact](https://web.archive.org/contact?topic_id=6) area of our website. 
