@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curseforge.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225025843id_/http%3A//www.curse.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curseforge.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618074102id_/http%3A//www.curse.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Curse Network Privacy Policy - Curse
 
