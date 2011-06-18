@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the retailonlineintegration.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224150420id_/http%3A//www.napco.com/docs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailonlineintegration.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618230328id_/http%3A//www.napco.com/docs/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : NAPCO
 
-Privacy Policy
+Privacy Policy 
 
 This is a website of North American Publishing Company, publisher of business-to-business and consumer trade magazines, newsletters, directories and related products.
 
@@ -33,7 +33,8 @@ We collect the mobile phone numbers of those who voluntarily provide them to us.
 Questions & comments about this Web site? E-mail: ryoegel@napco.com.
 
   * _Updated: October 15, 2010_  
-Added information regarding publication websites using third-party cookies and web beacons to collect information.  
+Added information regarding publication websites using third-party cookies and web beacons to collect information.
+
 
   *  _Updated June 30, 2009_  
 Added information regarding the collection of mobile telephone numbers.
