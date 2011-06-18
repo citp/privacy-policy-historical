@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizfarm.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218060812id_/http%3A//quizfarm.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizfarm.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618130653id_/http%3A//quizfarm.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Quizfarm.com
 
