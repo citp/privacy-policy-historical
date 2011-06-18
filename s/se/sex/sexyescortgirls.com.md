@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexyescortgirls.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218062747id_/http%3A//www.sexyescortgirls.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexyescortgirls.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618135030id_/http%3A//www.sexyescortgirls.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement : Discretion is of Paramount Importance
 
