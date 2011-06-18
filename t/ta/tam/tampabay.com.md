@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630071527id_/http%3A//www.tampabay.com/universal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619013806id_/http%3A//www.tampabay.com/universal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | tampabay.com - St. Petersburg Times and tbt*
 
@@ -6,11 +6,11 @@ This Privacy Policy governs the collection and use of information provided by yo
 
 By using our websites, you agree that your uses are governed by this Policy and all other Terms and Conditions of Use concerning these sites. If you do not agree to be bound, please refrain from using our sites. If you have questions regarding our Privacy Policy, you should direct them to 
 
-Stephen Buckley  
+Karen McAllister  
 490 1st Ave. S.  
 St. Petersburg, FL 33701  
 [privacy@sptimes.com](mailto:privacy@sptimes.com)  
-727-893-8377  
+727-893-8919  
 
 
 **TYPES OF INFORMATION WE COLLECT:**   In general, we collect two categories of information: (1) information that personally identifies you (for example, your name and address) that you voluntarily supply when you register for an on-line discussion or other site use, or when you subscribe, order, complete a survey, or initiate some other transaction, and (2) non-personally identifying information, which includes information about usage patterns and preferences as users navigate around our sites or use our information services. In some cases, an agent, affiliate, or business partner of the Times collects the information. Third party providers featured on our sites, such as vendors of products and services offered through our sites, may be gathering the same kinds of information. 
