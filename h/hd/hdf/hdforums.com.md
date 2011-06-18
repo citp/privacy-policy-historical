@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdforums.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618134407id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DHDForums.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdforums.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618140509id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DHDForums.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
