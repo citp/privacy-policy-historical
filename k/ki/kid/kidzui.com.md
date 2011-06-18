@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223074436id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618111405id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
 
 # KidZui Privacy Policy
 
-Effective October 12, 2010
+Effective January 5, 2011
 
 Information gathered by KidZui - This is KidZui’s online privacy Policy This Policy applies only to activities KidZui.com engages in on its website and does not apply to KidZui activities that are “offline” or unrelated to the website (such as the KidZui browser).
 
@@ -12,7 +12,7 @@ When you sign up for KidZui, we ask you for personal information (such as your n
 
 Cookies - When you visit KidZui.com, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences such as passwords, eliminating the need to constantly reenter data. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
 
-Cookies are small bits of data that are deposited on a user’s hard drive. Cookies permit users to store their password and other user information without having to constantly re-enter this data. KidZui.com does not utilize Cookies or clear GIFs, but may use IP addresses for certain functions.
+Cookies are small bits of data that are deposited on a user’s hard drive. Cookies permit users to store their password and other user information without having to constantly re-enter this data.
 
 Use and disclosure of information - KidZui does not sell personally identifiable information, such as your name or e-mail address to advertisers. However, non-personal “aggregated data” may be used to enhance the operation of our website, or analyze interest in the areas of our website. Moreover, we may in some circumstances disclose personally identifiable information to third parties but not advertisers to enhance your experience on our website. Additionally, if you provide KidZui.com with content for publishing or feedback, we may publish your user name or other identifying data.
 
@@ -40,7 +40,7 @@ Information gathered by KidZui - Children can visit the KidZui.com site without 
 
 At registration, KidZui collects a screen name, gender, date of birth and first name from your child, as well as a parent or guardian’s email address. KidZui also gathers usage data regarding your child’s Internet activity via the KidZui browser, including what web pages they visit or share, what pictures and videos they view or share, searches (and results of such searches), content they rate, tag and select as their favorites, as well as time spent online including time online, number of sessions per day, date, etc. KidZui believes in not collecting more personally identifiable information from children than is necessary to use its services. In addition, users should be aware that sites that are targeted to children 12 or under are prohibited by law from collecting more information than they need.
 
-As a parent, you may request at any time that the information collected about your child be removed from the KidZui database. In addition, the service itself permits you to monitor and review information regarding your child, including your child’s Internet activity, what web pages they visit, what pictures and videos they view, rate or share, as well as time spent online, searches and search results, their friends and categories visited. If you are a parent and wish to deactivate your child’s account, please send an email message to [support@kidzui.com](mailto:support@kidzui.com) with your child’s login name and password requesting that the account be cancelled. When we receive your cancellation request, we will permanently delete all information associated with your child’s account. 
+As a parent, you may request at any time that the information collected about your child be removed from the KidZui database. In addition, the service itself permits you to monitor and review information regarding your child, including your child’s Internet activity, what web pages they visit, what pictures and videos they view, rate or share, as well as time spent online, searches and search results, their friends and categories visited. If you are a parent and wish to deactivate your KidZui account, please send an email message to [support@kidzui.com](mailto:support@kidzui.com) from your registered email account, requesting that the account be cancelled. When we receive your cancellation request, we will permanently delete all information associated with your account. 
 
 Use and disclosure of children’s personally identifiable information – No personally identifiable information from users 12 or under is used for any promotional or marketing purposes whatsoever inside or outside KidZui.com. We ask for your child’s date of birth to validate their age. We track what all children of the same age look at and enjoy online to tailor and improve our services, without sharing personally-identifiable information about any individual child. We do not share personally identifiable information from users 12 or under with any third party. However, when your child visits other websites using the KidZui browser, their information may be collected by third parties in the manner identified on those websites, and their practices may be different from ours. You should review these websites’ privacy policies to ensure you are aware of their privacy practices because KidZui.com is not responsible for these websites’ information practices.
 
@@ -59,8 +59,8 @@ Parent access to information - Parents can review information that has been coll
 
 Zuigames Copyright - We believe we have taken the necessary steps to obtain licensing for all the games posted. If you believe that your copyrightable work is being displayed on this site and is violating copyright regulations – please advise us immediately at [support@kidzui.com](mailto:support@kidzui.com) and the game will be immediately removed. 
 
-Modifications to this policy - If KidZui makes modifications or changes to this privacy policy, we will notify parents via email.
+Modifications to this policy - If KidZui makes modifications or changes to this privacy policy, we will post an amendment to the privacy policy on the website.
 
 Questions? - If you have any other questions or require any additional assistance please send an email to [support@kidzui.com](mailto:support@kidzui.com) , or write us at KidZui, Inc., attention CFO, 4660 La Jolla Village Drive, Suite 850, San Diego, CA 92122. 
 
-Effective: October 12, 2010.
+Effective: January 5, 2011.
