@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the villanova.edu privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217084557id_/http%3A//www.villanova.edu/unit/policies/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the villanova.edu privacy policy that was archived on 2011-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618030327id_/http%3A//www.villanova.edu/unit/policies/privacy.htm) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" type="text/JavaScript">
 <!--
@@ -155,63 +155,77 @@ pageTracker._trackPageview();
                 </tr>
                 <tr>
                   <td><div align="right" id="searchBox">
-<script type="text/javascript">
-function gosearch()
+
+  
+    
+    
+  
+   
+  
+   
+        
+        
+   
+  
+   
+  
+   
+  
+    
+  
+  
+  <script>
+function setFocusStyle(q)
 {
-   var v = document.searchform.elements["sitesearch"].value;
-   if (v == "VU People") {
-       var query = URLencode(document.searchform.elements["q"].value);
-       document.searchform.method = "post";
-       document.searchform.action = "http://www.villanova.edu/directoryservices/search?lastName="+query;
-      document.searchform.submit();
-   } else {
-     var submitStr = "";
-     for (var j=0; j<document.searchform.elements.length; j++) {
-       if ( j == 0) {
-         submitStr = document.searchform.elements[j].name+"="+document.searchform.elements[j].value; 
-
-       } else {
-         submitStr = submitStr+"&"+document.searchform.elements[j].name+"="+document.searchform.elements[j].value; 
-
-       }
-     }
-     document.searchform.method = "get";
-     document.searchform.action = "http://www.google.com/u/villanova?"+submitStr;
-     document.searchform.submit();
-   }
+	document.getElementById(q).style.background="#FFFFFF";
 }
-
- function URLencode(sStr) {
+function gosearch2(actionurl)
+{
+	var v = document.searchform2.elements["sitesearch"].value;
+   //var actionurl = document.searchform2.elements["actionurl"].value;
+   var domains = document.searchform2.elements["domains"].value;
+   
+   if (v == "VU People") {
+     var query = URLencode(document.searchform2.elements["q"].value);
+     document.searchform2.method = "post";
+     document.searchform2.action = "http://www.villanova.edu/directoryservices/search?lastName="+query;
+     document.searchform2.submit();
+   } else {
+     if (v == "The Internet") {
+       document.searchform2.elements["cx"].value = "!"+document.searchform2.elements["cx"].value;
+     }
+    
+     var docurl = document.URL;
+     document.searchform2.method = "get";
+     document.searchform2.action = "http://www1.villanova.edu/villanova.googlesearchrslt.html";
+     document.searchform2.submit();
+  
+  }   
+function URLencode(sStr) {
     return escape(sStr).replace(/\+/g,'%2C').replace(/\"/g,'%22').replace(/\'/g, '%27');
   }
-</script>
-  
-    
-    
-  
-   
-  
-   
-        
-        
-   
-  
-   
-  
-   
-  
-    
-  
+}
 
-    <form action="" name="searchform" onsubmit="return gosearch()">
-   <input type="hidden" name="domains" value="villanova.edu">
-    Search&nbsp;<img src="/assets/images/google_icon.gif" alt="Google Search" align="absmiddle" width="16" height="16">&nbsp;<input name="q" type="text" class="inputBox" value="Enter Keywords" onfocus="this.value='';" size="14" maxlength="255">&nbsp;<select name="sitesearch" class="inputBox" onchange="MM_jumpMenu('parent',this,0)">
-      <option value="villanova.edu/unit">VU Web</option>
+</script>
+
+<form action="" name="searchform2" onsubmit="return gosearch2(&quot;http://www1.villanova.edu/villanova.googlesearchrslt.html&quot;)">
+    <input type="hidden" name="domains" value=".villanova.edu">
+    <input type="hidden" name="cx" value="000561345830600848454:uqohildtyds">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input title="Enter Search Criteria" id="q" name="q" type="text" class="blur" onfocus="setFocusStyle(this.id)" onblur="setBlurStyle(this.id)" size="16" maxlength="255" style="border: 1px solid rgb(126, 157, 185); padding: 2px; background: rgb(255, 255, 255) url(http://www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) no-repeat scroll left center;">
+    <select title="Choose where to Search" name="sitesearch">
+       
+      <option value="villanova.edu/unit">The Site</option>
+
+      <option value=".villanova.edu">villanova.edu</option>
       <option value="VU People">VU People</option>
-      <option value="library.villanova.edu">VU Library</option>
-      <option value=".villanova.edu">The Internet</option>
-  </select>&nbsp;<input type="image" border="0" alt="GO!" name="sa" src="/assets/images/GO_button.gif" align="absmiddle" width="39" height="15">
+      <option value="*">The Internet</option>
+    </select>
+    <input type="submit" title="Go Search" border="0" value="GO!" name="sa">
 </form>
+
+
                     </div>
                   </td>
                 </tr>
@@ -308,6 +322,9 @@ function gosearch()
 			  </tr>
 			  <tr>
 			    <td><a href="/unit/policies/partnerships.htm" title="IT Partnership Guidelines">IT Partnership Guidelines</a></td>
+			  </tr>
+			  <tr>
+			    <td><a href="/unit/policies/incommon_participant_operational_practices.htm" title="InCommon Federation:<br>Participant Operational Practices">InCommon Federation: Participant Operational Practices</a></td>
 			  </tr>
 			  <tr>
 			    <td><a href="/unit/policies/mobiledevices.htm" title="Mobile Device/PDA Policy">Mobile Device/PDA Policy</a></td>
@@ -555,7 +572,23 @@ function gosearch()
               <img src="/assets/images/footer_logo.gif" alt="Villanova University" border="0" width="225" height="59"></a></div></td>
           </tr>
           <tr>
-            <td class="disclaimerText">© 1990-2009 Villanova University. All Rights Reserved.<br>
+            <td class="disclaimerText">
+	
+			
+			<script language="JavaScript">
+  <!--- Hide from old browsers
+
+    today=new Date();
+    y0=today.getFullYear();
+
+  // end hiding --->
+</script> 
+
+Copyright © 1990 - <script language="JavaScript">
+  <!--- Hide from old browsers
+    document.write(y0);
+  // end hiding --->
+</script>2020 Villanova University. All Rights Reserved.<br>
             <br>800 Lancaster Avenue · Villanova, PA 19085 · (610) 519-6000
             <div class="milonic"><a href="http://www.milonic.com/">JavaScript Menu, DHTML Menu Powered By Milonic.</a></div></td>
           </tr>
