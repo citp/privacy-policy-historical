@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahoofitness.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218180951id_/http%3A//www.wahoofitness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahoofitness.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618203909id_/https%3A//www.wahoofitness.com/privacy.asp) for the most accurate reproduction.*
 
 # WahooFitness Privacy Policy: Wahoo Fitness - ANT+ fitness sensor iPhone adapters, ANT+ fitness accessories, heart rate monitors, speed and cadence sensor, power meters and iPhone fitness applications.
 
