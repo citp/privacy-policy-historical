@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the practicalhacks.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922035438id_/http%3A//www.practicalhacks.com/about-me/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalhacks.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619001115id_/http%3A//www.practicalhacks.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy - About
+# Privacy
 
 Kevin on October 22nd, 2008
 
