@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertycasualty360.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219122556id_/http%3A//www.propertycasualty360.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertycasualty360.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618121849id_/http%3A//www.propertycasualty360.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Property Casualty 360
+# Privacy Policy | PropertyCasualty360
 
 This privacy statement explains the procedures followed by Summit Business Media in collecting and using information regarding visitors to this Web site and advises you what information might be shared with third parties. The type of information collected will vary depending upon the portions of the site which you visit and, in certain instances, which you voluntarily disclose.
 
