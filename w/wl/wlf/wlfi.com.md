@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlfi.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218061505id_/http%3A//www.wlfi.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlfi.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618131633id_/http%3A//www.wlfi.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | WLFI.com - West Lafayette, Indiana
 
