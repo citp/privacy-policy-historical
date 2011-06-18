@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207010404id_/http%3A//www.mrskin.com/help/Mr-Skin-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618140504id_/http%3A//www.mrskin.com/help/Mr-Skin-Privacy-Policy) for the most accurate reproduction.*
 
 # Mr Skin's Privacy Policy
 
@@ -24,10 +24,43 @@ In addition to the information we collect upon your initial subscription to Mr S
 
   1. It is used to fulfill and maintain your online subscription.
   2. Your phone number may be used in the event that our customer service representatives need to contact you and cannot reach you by email.
-  3. Credit card information is used to bill you for your subscription. We use CurePay.com, Netbilling.com, CCBill.com, Paycom.net, VXSBill.com, OPSBilling.com, LocalBilling.com and 2000charge.net for these transactions. They are some of the largest and oldest e-commerce billing companies today with expertise in secure online transactions.
-  4. The e-mail address members supply us with is never sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you e-mail about items that we feel you should know about. This includes special promotional items that Mr Skin personally endorses, membership changes, terms and conditions changes, Holiday cards, and the latest happenings on MrSkin.com. If you would like not to be notified by e-mail or would like to change your e-mail address, please send us a note with the [customer service form](https://web.archive.org/help/Contact-Mr-Skin) and let us know how we can best serve you. When we send you emails that include a link to the MrSkin.com site, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. If we ever send you emails concerning new products or services that you did not expressly request, we will provide you with an email address by which you may opt out of receiving such emails.
+  3. Credit card information is used to bill you for your subscription. We use CurePay.com, OptimalPayments.com, CCBill.com, VXSBill.com, and Paycom.net for these transactions. They are some of the largest and oldest e-commerce billing companies today with expertise in secure online transactions.
+  4. The e-mail address members supply us with is never sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you e-mail about items that we feel you should know about. This includes: 
+    1. Up to 3 Newsletters per week
+    2. Special offers
+    3. Special promotional items that Mr Skin personally endorses
+    4. Membership changes
+    5. Terms and conditions changes
+    6. Holiday cards
+    7. The latest happenings on MrSkin.com
+    8. Examples of Mr Skin Newsletters: [one](http://www.mrskincdn.com/assets/images/rebrand/email_sample_1.jpg), [two](http://www.mrskincdn.com/assets/images/rebrand/email_sample_2.jpg), [three](http://www.mrskincdn.com/assets/images/rebrand/email_sample_3.jpg)
+If you would like not to be notified by e-mail or would like to change your e-mail address, please send us a note with the [customer service form](https://web.archive.org/help/Contact-Mr-Skin) and let us know how we can best serve you. When we send you emails that include a link to the MrSkin.com site, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. If we ever send you emails concerning new products or services that you did not expressly request, we will provide you with an email address by which you may opt out of receiving such emails.
 
 
+
+### How do you unsubscribe from emails sent by Mr Skin?
+
+All e-mails you receive from us will include specific instructions on how to unsubscribe, and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
+
+  1. Send an email to customer-service@mrskin.com (please indicate that you would like to be unsubscribed from Mr Skin emails)
+  2. Select the opt-out link at the bottom of any Mr Skin email and follow the instructions provided
+  3. Send a letter to the following address: 
+
+SK INtertainment, Inc
+
+1625 North Damen Avenue
+
+2nd Floor
+
+Chicago, IL 60647
+
+USA
+
+  4. Call us at 001-773-269-3400
+
+
+
+Please note, however, you cannot opt out of receiving transactional emails from us regarding your account and/or the status of an order.
 
 ### With whom do we share your information and for what purpose?
 
@@ -74,5 +107,3 @@ By using the MrSkin.com site, you consent to the collection and use of your info
 From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, how we use it, and under what circumstances we share the information with others. It is your responsibility to check this page periodically.
 
 Any questions regarding our Privacy Policy should be directed to privacy@mrskin.com.
-
-Updated June 17, 2008
