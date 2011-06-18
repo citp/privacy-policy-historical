@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbs.tv privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027094102id_/http%3A//www.vbs.tv/statics/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbs.tv privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618031910id_/http%3A//www.vbs.tv/statics/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | VBS.TV
 
