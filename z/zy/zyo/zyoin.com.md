@@ -1,13 +1,18 @@
-> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307043938id_/http%3A//zyoin.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618074138id_/http%3A//www.zyoin.com/web/guest/privacy-policy) for the most accurate reproduction.*
 
-# Job Referral, Refer a Job, Recruitment Marketplace,India-Zyoin.com
+# Privacy Policy - zyoin.com
 
-  * This privacy policy pertains to the use of the Zyoin website at http://www.Zyoin.com.
+Privacy Policy
+
+* * *
+
+  * This privacy policy pertains to the use of the Zyoin website at [http://www.zyoin.com](http://www.zyoin.com/).
   * This privacy policy covers how Zyoin treats personal information that Zyoin collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
-  * Children under 18 are not permitted to use the Zyoin service, and so this privacy policy makes no provision for children's use of the site.   
-Information Collection and how it is used 
+  * Children under 18 are not permitted to use the Zyoin service, and so this privacy policy makes no provision for children's use of the site.
 
 
+
+ **Information Collection and how it is used**
 
 **General Information**
 
@@ -15,13 +20,13 @@ Information Collection and how it is used
   * When you register we ask you only for your Name, E-Mail address, Mobile No and Location.
   * Zyoin automatically receives and records information on our server logs from your browser and the Zyoin application, including your IP address, your default gateways, cookie, and the page you request.
   * Zyoin uses information for the following general purposes: products and services provision, identification and authentication, services improvement, contact, research, and anonymous reporting.
-  * Zyoin reserves the right to use the information provided by you within the framework of its business and will not disclose any information to a third party person or organization. 
+  * Zyoin reserves the right to use the information provided by you within the framework of its business and will not disclose any information to a third party person or organization.
 
 
 
-**IP Addresses**
+ **IP Addresses**
 
-IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our log files. 
+IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our log files.
 
 IP addresses may be used for various purposes, including:
 
@@ -31,7 +36,7 @@ IP addresses may be used for various purposes, including:
 
 
 
-**Cookies**
+ **Cookies**
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your local computer's hard disc.Zyoin only uses 'session' cookies that persist one browser session.
 
@@ -45,7 +50,7 @@ o Conduct research to improve Zyoin's content and services.
 
 
 
-**Information Sharing and Disclosure**
+ **Information Sharing and Disclosure**
 
   * When you post a question or an answer your Zyoin ID that you are posting under is visible to other users, unless you specifically choose not to do so.
   * Zyoin may be required to disclose personally identifiable information under special circumstances, such as when your actions violate the Zyoin Terms of Use.
@@ -57,7 +62,7 @@ o Conduct research to improve Zyoin's content and services.
 
 
 
-**Editing and Deleting Account Information**
+ **Editing and Deleting Account Information**
 
   * You can modify your Zyoin Account Information except your primary email id at any time.
   * We may send you certain communications relating to the Zyoin service, such as service announcements and administrative messages that are considered part of your Zyoin account.
@@ -66,7 +71,7 @@ o Conduct research to improve Zyoin's content and services.
 
 
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 Zyoin may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your Zyoin account or by placing a prominent notice on our site.
 
