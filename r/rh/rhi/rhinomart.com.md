@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhinomart.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218060722id_/http%3A//www.rhinomart.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhinomart.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618191256id_/http%3A//www.rhinomart.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,8 @@ We have created this email privacy policy to demonstrate our firm commitment to 
 
 Why Did I Receive an Email From You? 
 
-If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings. Information on how to unsubscribe to our mailings is available inside each e-mail. Alternately, you may request to be taken off our mailing list by e-mailing  sales@rhinomart.com stating that you wish to be removed, or calling 877-447-4466. 
+If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings. Information on how to unsubscribe to our mailings is available inside each e-mail. Alternately, you may request to be taken off our mailing list by e-mailing  sales@rhinomart.com stating that you wish to be removed.  
+
 
 How is my privacy Protected? 
 
