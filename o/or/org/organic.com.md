@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the organic.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105021id_/http%3A//www.organic.com/en_US/Main%2BSite%2BNavigation/Footer%2BNavigation/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organic.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618052248id_/http%3A//www.organic.com/en_US/Main%2BSite%2BNavigation/Footer%2BNavigation/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
 
 # Organic, Inc.
-
-This Privacy Policy was last updated: September 1, 2010   
-
 
   
 Thank you for visiting Organic, Inc.’s (“Organic”) Web site located at [www.organic.com](http://www.organic.com/), including the blog [www.threeminds.com](http://www.threeminds.com/) that is accessible on or through www.organic.com (collectively, the “Site”). This Privacy Policy details policies governing Organic’s use of personally identifiable information about users of our Site.  This Privacy Policy applies solely to the website on which it appears and not to any other website or service.
