@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the governmentvideo.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215155450id_/http%3A//www.governmentvideo.com/Privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentvideo.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618050343id_/http%3A//www.governmentvideo.com/Privacynotice) for the most accurate reproduction.*
 
 # GV - Privacy Notice
 
-Last Updated: March 6, 2007
+Last Updated: January 11, 2011
 
 **NewBay Media LLC** (“NewBay”) has implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.
 
@@ -16,8 +16,8 @@ Under California law, California residents who have provided personal informatio
 
 California Privacy Rights Information  
 NewBay Media LLC  
-810 7th Avenue  
-New York, New York 10019  
+28 East 28th Street, 12th floor  
+New York, New York 10016  
 Attn: California Privacy Rights Administrator
 
 ### Collection of Information
@@ -63,15 +63,15 @@ From time to time, the NewBay website may contain links to other websites that a
 
 From time to time, NewBay’s Privacy Policy may change. NewBay will post changes to the Privacy Policy at this site. Please review this Privacy Policy often so that you will remain abreast of NewBay’s current policies, including its policies concerning the gathering and use of information that may be collected on our site.
 
-This Privacy Policy was last updated on February 28, 2007 and is effective immediately.
+This Privacy Policy was last updated on January 11, 2011 and is effective immediately.
 
 ### Contact Us
 
 If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please contact us at:
 
 NewBay Media LLC  
-810 7th Avenue  
-New York, New York 10019  
+28 East 28th Street, 12th floor  
+New York, New York 10016  
 Attn: Privacy Coordinator  
 [Privacycoordinator@NBMedia.com](mailto:Privacycoordinator@NBMedia.com) 
 
@@ -79,4 +79,4 @@ Attn: Privacy Coordinator
 
 This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
 
-TM and Copyright 2006 NewBay Media LLC. All rights reserved.
+TM and Copyright 2011 NewBay Media LLC. All rights reserved.
