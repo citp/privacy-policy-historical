@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookstrand.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217201452id_/https%3A//www.bookstrand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookstrand.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618142102id_/https%3A//www.bookstrand.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BookStrand
 
