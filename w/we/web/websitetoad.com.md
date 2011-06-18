@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitetoad.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216123905id_/http%3A//www.websitetoad.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetoad.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618103438id_/http%3A//www.websitetoad.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Private Information Is Important And We'll Keep It Secure.
 
