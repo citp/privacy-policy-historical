@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apolisglobal.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217090002id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apolisglobal.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618121441id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy - Apolis
 
@@ -22,7 +22,7 @@ We ask you for information such as your name, e-mail address, shipping address, 
 
 Our newsletter is an optional service to our customers and the visitors to our site. This newsletter provides product promotions and other special announcements. Your email address is required to receive our newsletter. We will not share your email address with any third-party without your explicit consent. We hope you find our newsletter both enjoyable and, through our special offers, rewarding as well. You may unsubscribe at any time on your account page or by following the instructions at the bottom of each newsletter.
 
-#### Sending us sorrespondence.
+#### Sending us correspondence.
 
 When we receive email, letters, or entries to our contests we may collect and store the information you submit. We only use the information you provide to respond to your communication unless you explicitly opt-in to receive our newsletter.
 
