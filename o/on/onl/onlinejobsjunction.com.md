@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinejobsjunction.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626125452id_/http%3A//www.onlinejobsjunction.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobsjunction.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618165114id_/http%3A//www.onlinejobsjunction.com/privacy.htm) for the most accurate reproduction.*
 
 # OnlineJobsJunction.com. Privacy
 
