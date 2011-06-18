@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ct.gov privacy policy that was archived on 2010-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230113453id_/http%3A//www.ct.gov/ctportal/cwp/view.asp%3Fa%3D843%26q%3D246588) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ct.gov privacy policy that was archived on 2011-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618142036id_/http%3A//www.ct.gov/ctportal/cwp/view.asp%3Fa%3D843%26q%3D246588) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en-us"><head></head><body><dsfheader>
 	<!--stopindex-->
@@ -7,7 +7,7 @@
 
 		<!-- 
 			This site was built with PPT DSF Technology
-		Dynamic Site Framework	(c) 1999-2010 PPT, Lancaster PA
+		Dynamic Site Framework	(c) 1999-2011 PPT, Lancaster PA
 		-->
 
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -31,7 +31,7 @@
 		<meta http-equiv="reply-To" content="pmg@po.state.ct.us">
 	<meta name="verify-v1" content="1zZq/H3JHB9GGVjfEFk5kGdj6HoESFjNtIJdHHeVVqs=">
 	<meta name="msvalidate.01" content="FFCB15AC2BFF700E61EAA92500F32129">
-	
+	<meta name="google-site-verification" content="itjaX4QTaJhPz_cYDu1_cV9Qpjx3jIXSO2XgwslOf-k">
 	
 		
 		
@@ -47,7 +47,8 @@
 			
 			font-family: 'Verdana,Arial,Geneva';
 			font-size: 'x-small';
-						BACKGROUND-COLOR: #FFFFFF
+						background-color: #ffffff
+					
 			}
 		
 		A:LINK { color: #000099 }
@@ -69,79 +70,50 @@
 			font-family: 'Verdana,Arial,Geneva';
 			font-size: 'x-small';
 		}
-/* SITE SETTINGS */
-	
-body{
-	background:#eeeeee 
+/* TEMPLATE 996 - V4_CTgov */
+
+Body {
+margin: 0;
+padding: 0;
 }
 
-
-td{
-font:normal 11px verdana;
-color:#484848;
+/*
+/* HOME PAGE COLOR - USE IF CHANGING TEMPLATE COLOR*/
+#browserBackground {background: URL(../lib/ctportal/v4/blue_gradient.jpg)
 }
 
-
-a:hover{
-color:#393939;
-}
-
-
-
-#tabs img{
-margin-right:5px;
-}
-
-
-
-/*LEFTNAV*/
-.navbarfont{
-font:normal 12px/13px arial;
-}
-
-
+*/
 /*CONTENT*/
 
 #contentArea
 {
-padding-left:20px; 
+padding-left:0px; 
 border-left:solid 1px #d9d9d9;
-border-right:solid 1px #d9d9d9; 
-padding-right:25px;
-padding-bottom:15px;
+border-right:solid 0px #d9d9d9; 
+padding-right:0px;
+padding-bottom:0px;
 vertical-align:top;
 background-color:White;
 }
 
 
-p{
-margin:0px;
-padding-bottom:7px;
+#switchsearch
+{
+padding-bottom: 65px
 }
 
-
-ul{
-margin-top:5px;
-margin-bottom:7px;
-}
-
-
-
-/* FOOTER */
-
-#footer{
-background: URL(/ctportal/lib/ctportal/v3/Footer.jpg) no-repeat
-}
 
 .noUnderline
 {
     TEXT-DECORATION: none
 }
 
+
 A.noUnderline:hover
 {
     TEXT-DECORATION: underline
 }
+
 
 .textcolor1 {color: #423463}
 
@@ -164,8 +136,14 @@ a.secnav:visited {color: #000000; text-decoration: none}
 a.secnav:hover {text-decoration: underline}
 
 
-/* Footer Navigation */
+/* FOOTER - 1 Background Color */
+#footer{
+background: URL(/ctportal/lib/ctportal/v4/footer.gif);
+background-repeat:repeat-X;
+}
 
+
+/* FOOTER -2 Links*/
 a.footer:link {color: #406eaa; text-decoration: none}
 
 a.footer:visited {color: #406eaa; text-decoration: none}
@@ -175,7 +153,7 @@ a.footer:hover {text-decoration: underline}
 
 /* HOME PAGE - News and Highlights*/
 
-#featuredLinks {width:100%; height:320px;}
+#featuredLinks {width:100%; height:250px;}
 
 
 #featuredLinks *{font:normal 13px/16px "verdana", arial;}
@@ -215,17 +193,22 @@ color:#406eaa;
 }
 
 /* LEFT NAV .....................*/
-
-#navWrapper {text-align:left; width:150px; }
-
-
-#navWrapper table {width:150px;}
+#navbullet img {display:none;}
 
 
+#navWrapper {text-align:left;}
+
+
+#navWrapper table {width:174px;}
+
+/*
 #navWrapper table img {display:none; margin:0;}
-
+*/
 
 #navWrapper TABLE TD[height="1"] { display:none;}
+
+
+#navWrapper table TABLE TD {border-width:0 0 1px 0;padding:2px 1px;}
 
 
 #navWrapper table TABLE TD TABLE TD {border:
@@ -236,7 +219,6 @@ none; padding:0;}
 
 
 #navWrapper table A FONT {color:#393939; display:block; padding:3px 0px 5px 10px;font:bold 11px "verdana", arial; }
-
 
 /* bubble rollover*/
 
@@ -252,8 +234,6 @@ none; padding:0;}
 #centerTax td table table{BACKGROUND: #ffffff;border:none;font-weight:bold;text-align:left;margin-left:5px;}
 
 #centerTax td {BACKGROUND: #ffffff;font-weight:bold;text-align:left;}
-
-#centerTax img {display:none;}
 
 #centerTax .centerTaxHeadline FONT{
  COLOR:#000000;
@@ -288,6 +268,27 @@ none; padding:0;}
 #centerTax A:hover FONT {
  COLOR: #043f73; TEXT-DECORATION: underline
 }
+
+
+.content p{
+margin-top:20px;
+}
+
+
+body#content #contentarea font font{padding:0!important;}
+
+
+
+
+body#content #contentarea  {padding-left:25px; padding-right:25px; padding-top:20px; margin: 0; }
+
+
+/*Center Taxonomy*/
+body#content #ctrnav font {padding:0px;}
+
+
+
+td#contentarea div font a, td#contentarea div font a font{cursor:pointer!important; zoom:1!important;}
 
 
 /* SEARCH WHEN NOT IN THE HEADER */
@@ -359,69 +360,6 @@ none; padding:0;}
 .searchBoxButton {border-width:0; cursor:pointer; display:block; position:absolute; left:158px; top:23px; }
 
 
-/* quicklinks */
-
-#top-menu ul#quicklinks {float:right;position:relative;width:155px;z-index:500;}
-
-
-#top-menu ul#quicklinks li {margin:0;padding:0;width:155px;}
-
-
-#top-menu ul#quicklinks h3 {repeat-x center left;color:#FFF; cursor:pointer; font-size:100%; padding:0px 0 px; text-align:right;/*width:155px;*/}
-				
-
-#top-menu ul#quicklinks ul {border-bottom:#afb8c0 3px solid;float:none;left:-5000px;position:absolute;width:155px;z-index:1500; text-align:left; background-color:#FFFFFF;}
-
-
-#top-menu ul#quicklinks li:hover ul {left:0;top:9px;}
-
-
-#top-menu ul#quicklinks a:hover { color: #043f73; text-decoration: underline; }
-
-
-#top-menu ul#quicklinks li ul li a {background:#feffff;border-bottom:#eef1f4 1px solid;border-left:#b4bdc6 1px solid;border-right:#b4bdc6 1px solid;color:#064379;padding:5px 10px 5px 30px; display:block;float:none; /*width:155px;*/}
-
-					
-					
-#top-menu ul#quicklinks ul li.agencies a {background:#feffff url(../lib/ctportal/images/agencies-icon.png) no-repeat 5px 5px; }
-						
-
-#top-menu ul#quicklinks ul li.directory a {background:#feffff url(../lib/ctportal/images/phone-icon.png) no-repeat 5px 5px;}
-
-
-#top-menu ul#quicklinks ul li.towns a {background:#feffff url(../lib/ctportal/images/towns-icon.png) no-repeat 5px 5px;}
-
-
-#top-menu ul#quicklinks ul li.licensing a {background:#feffff url(../lib/ctportal/images/licensing-icon.png) no-repeat 5px 5px;}
-
-
-/*Quick Links - Flyout Menu*/
-body {margin:25px; font:12px Verdana, Arial, Helvetica}
-
-
-* {padding:0; margin:0}
-
-
-.dropdown {float:left; padding-right:5px}
-
-.dropdown dd {position:absolute; overflow:hidden; width:215px; display:none; z-index:200; opacity:0}
-
-
-.dropdown ul {border:2px solid #00427A; list-style:none; border-top:none}
-
-
-.dropdown li {display:inline}
-
-
-.dropdown a, .dropdown a:active, .dropdown a:visited {display:table-cell; padding:5px; color:#333; text-decoration:none; background:#ffffff; width:194px}
-
-
-.dropdown a:hover {background:#d9e1e4; color:#000}
-
-
-.dropdown .underline {border-bottom:1px solid #b9d6dc}
-
-
 </style>
 
 <script type="text/javascript" src="../lib/ctportal/js/common.js"></script>
@@ -464,136 +402,23 @@ body {margin:25px; font:12px Verdana, Arial, Helvetica}
 
 <a href="#navskip"><img class="hidden" src="../assets/images/spacer.gif" height="0" border="0" alt="Skip to main content"></a>
 	
-
-
-
-
-<!--FLASH CODE -->
-<script language="JavaScript" type="text/javascript" src="../assets/templates/45/fpi-init.js"></script>
-<script language="JavaScript" type="text/javascript" src="../assets/templates/45/fpi-writevb.js"></script>
-<script language="JavaScript" type="text/javascript" src="../assets/templates/45/fpi-main.js"></script>
-<script language="javascript" type="text/javascript" src="../assets/templates/45/xnavmenus.js"></script>
-
-
-<div align="center">
-<table width="820" border="0" bordercolor="red" cellpadding="0" cellspacing="0" background="../assets/templates/45/images/background_gray.jpg" id="Table1">
-<tbody><tr>
-<td align="center">
-	<!-- CT.gov Logo and SEARCH -->
-			
-<table width="780" height="25" align="center" border="0" cellpadding="0" cellspacing="0" id="table2">
-</table>
-        </td></tr><tr>
-                <td align="center" valign="top">	<div align="center">
-<table id="table2" height="112" cellspacing="0" cellpadding="0" width="780" border="0">
-<tbody>
-<tr>
-<td valign="top">
-<table id="table3" height="72" cellspacing="0" cellpadding="0" width="780" border="0">
-<tbody>
-<tr>
-<td valign="top" width="126" height="72"><a href="http://www.ct.gov"><img height="72" alt="CT.gov Logo" src="http://www.ct.gov/ctportal/lib/ctportal/ctgov_header_01.jpg" width="126" border="0"></a></td>
-<td valign="top" width="654" height="72"><map name="FPMap0"><area shape="RECT" alt="Welcome to CT.gov and to the great state of Connecticut. M. Jodi Rell, Governor" coords="548,54,620,71" href="http://www.ct.gov/governor"></map><img height="72" alt="The Official State of Connecticut Website" src="http://www.ct.gov/ctportal/lib/ctportal/ctgov_header_02.jpg" width="654" usemap="#FPMap0" border="0"></td></tr></tbody></table>
-<table id="table4" height="40" cellspacing="0" cellpadding="0" width="780" background="http://www.ct.gov/ctportal/lib/ctportal/ctgov_header_03.jpg" border="0">
-<tbody>
-<tr>
-<td class="fontsize" align="middle" width="60" height="40"><font color="#ffffff"><a class="topnav" href="/ctportal/cwp/view.asp?a=843&amp;q=246450"><font color="#ffffff" size="2"></font></a><font color="#ffffff" size="2"><a class="topnav" href="../site/default.asp">Home</a></font></font></td>
-<td class="fontsize" align="middle" width="80" height="40"><font color="#ffffff"><a class="topnav" href="../cwp/view.asp?a=1513&amp;q=262372"><font color="#ffffff" size="2"></font></a><font color="#ffffff" size="2"><a class="topnav" href="http://www.ct.gov/ctportal/cwp/view.asp?a=843&amp;q=246434">About CT</a></font></font></td>
-<td class="fontsize" align="middle" width="80" height="40"><font color="#ffffff"><a class="topnav" href="/ctportal/cwp/view.asp?a=843&amp;q=246450"><font color="#ffffff" size="2"></font></a><font color="#ffffff" size="2"><a class="topnav" href="/ctportal/cwp/view.asp?a=843&amp;q=246450">Executive</a></font></font></td>
-<td class="fontsize" align="middle" width="73" height="40"><font color="#ffffff"><a class="topnav" href="http://www.jud.ct.gov/"><font color="#ffffff" size="2"></font></a><font color="#ffffff" size="2"><a class="topnav" href="http://www.jud.ct.gov/">Judicial</a></font></font></td>
-<td class="fontsize" align="middle" width="86" height="40"><font color="#ffffff"><a class="topnav" href="http://www.cga.ct.gov/"><font color="#ffffff" size="2"></font></a><font color="#ffffff" size="2"><a class="topnav" href="http://www.cga.ct.gov/">Legislative</a></font></font></td>
-<td class="fontsize" align="middle" width="96" height="40"><font color="#ffffff"><a class="topnav" href="/ctportal/cwp/view.asp?a=843&amp;Q=431930"><font color="#ffffff" size="2">Contact Us</font></a></font></td>
-<td align="middle" width="150" height="40">&nbsp;</td>
-<td align="middle" width="155" height="40">
-<div align="left"><font color="#ffffff">&nbsp;<dl class="dropdown" style="WIDTH: 142px; HEIGHT: 0px">
-<dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)">
-<div align="center"><strong><font color="#ffffff">QuickLinks</font></strong></div>
-<div align="left"></div>
-<div align="right"></div></dt>
-<dd id="one-ddcontent" onmouseover="cancelHide('one')" style="WIDTH: 151px; HEIGHT: 123px" onmouseout="ddMenu('one',-1)">
-<div align="left">
-<ul style="WIDTH: 143px; HEIGHT: 100px">
-<li><a class="underline" style="WIDTH: 140px; HEIGHT: 25px" href="http://www.ct.gov/ctportal/cwp/view.asp?a=843&amp;q=246466">State Agencies</a> 
-</li><li><a class="underline" style="WIDTH: 140px; HEIGHT: 25px" href="http://www.ct.gov/phone/site/default.asp">Phone Directory</a> 
-</li><li><a class="underline" style="WIDTH: 140px; HEIGHT: 25px" href="http://www.ct.gov/ctportal/cwp/view.asp?a=843&amp;q=257266">Town &amp; Cities</a> 
-</li><li><a class="underline" style="WIDTH: 140px; HEIGHT: 25px" href="http://www.ct-clic.com/">CT Licensing</a></li></ul></div>
-<div align="left"></div>
-<div></div></dd></dl>
-<div style="CLEAR: both">
-<script language="javascript">
-var DDSPEED = 10;
-var DDTIMER = 15;
-
-// main function to handle the mouse events //
-function ddMenu(id,d){
-  var h = document.getElementById(id + '-ddheader');
-  var c = document.getElementById(id + '-ddcontent');
-  clearInterval(c.timer);
-  if(d == 1){
-    clearTimeout(h.timer);
-    if(c.maxh && c.maxh <= c.offsetHeight){return}
-    else if(!c.maxh){
-      c.style.display = 'block';
-      c.style.height = 'auto';
-      c.maxh = c.offsetHeight;
-      c.style.height = '0px';
-    }
-    c.timer = setInterval(function(){ddSlide(c,1)},DDTIMER);
-  }else{
-    h.timer = setTimeout(function(){ddCollapse(c)},50);
-  }
-}
-
-// collapse the menu //
-function ddCollapse(c){
-  c.timer = setInterval(function(){ddSlide(c,-1)},DDTIMER);
-}
-
-// cancel the collapse if a user rolls over the dropdown //
-function cancelHide(id){
-  var h = document.getElementById(id + '-ddheader');
-  var c = document.getElementById(id + '-ddcontent');
-  clearTimeout(h.timer);
-  clearInterval(c.timer);
-  if(c.offsetHeight < c.maxh){
-    c.timer = setInterval(function(){ddSlide(c,1)},DDTIMER);
-  }
-}
-
-// incrementally expand/contract the dropdown and change the opacity //
-function ddSlide(c,d){
-  var currh = c.offsetHeight;
-  var dist;
-  if(d == 1){
-    dist = (Math.round((c.maxh - currh) / DDSPEED));
-  }else{
-    dist = (Math.round(currh / DDSPEED));
-  }
-  if(dist <= 1 && d == 1){
-    dist = 1;
-  }
-  c.style.height = currh + (dist * d) + 'px';
-  c.style.opacity = currh / c.maxh;
-  c.style.filter = 'alpha(opacity=' + (currh * 100 / c.maxh) + ')';
-  if((currh < 2 && d != 1) || (currh > (c.maxh - 2) && d == 1)){
-    clearInterval(c.timer);
-  }
-}
-</script>
-</div></font></div></td></tr></tbody></table></td></tr></tbody></table></div>
 <!--startindex-->
-
+</dsfheader>
 <dsfnav><!--stopindex-->
 
 
 
 
-<table width="780" border="0" bordercolor="red" cellpadding="0" cellspacing="0" id="contentwrapper">
+<table width="962" valign="top" border="0" bordercolor="red" cellpadding="0" cellspacing="0" id="contentwrapper">
 	<tbody><tr>
-	<td width="150" valign="top" bgcolor="#f9f9f9" id="navwrapper">
+	<td width="180" valign="top" bgcolor="#f9f9f9" id="navwrapper">
+	
+<!--Custom Res5-->
+	<center>
+		</center>
 
 <!-- TAXONOMY -->
-			<table width="130" border="0" cellpadding="0" cellspacing="1">
+			<table id="navbullet" width="180" border="0" cellpadding="0" cellspacing="1">
 				<tbody><tr>
 					<td>
 						
@@ -602,19 +427,19 @@ function ddSlide(c,d){
 				<tr>
 					<td valign="top">
 						
-						<table width="130" border="0" cellpadding="0" cellspacing="0">
+						<table width="180" border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr>
 								<td>
 
-<script language="javascript"> 
-function SwapImg_ctportalNav(ImgID_str, Url_str, fheight_int, fwidth_int){
-		document.images[ImgID_str].src = Url_str;
-		document.images[ImgID_str].height = fheight_int;
-		document.images[ImgID_str].width = fwidth_int;
-		}
-</script>
 
-<table border="0" cellpadding="0" cellspacing="0" valign="top"><tbody><tr><td valign="top" align="left" nowrap=""><a href="/ctportal/cwp/view.asp?a=843&amp;q=246588&amp;ctportalNav=|27188|"><img name="27188" src="/ctportal/Assets/Templates/45/images/bul_arrow.gif" height="12" width="10" border="0" alt="View sub-links"></a></td><td valign="middle"><a name="27188" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27188&amp;ctportalNav=|27188|" title="Working"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Working</font></a></td></tr><tr><td valign="top" align="left" nowrap=""><a href="/ctportal/cwp/view.asp?a=843&amp;q=246588&amp;ctportalNav=|27189|"><img name="27189" src="/ctportal/Assets/Templates/45/images/bul_arrow.gif" height="12" width="10" border="0" alt="View sub-links"></a></td><td valign="middle"><a name="27189" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27189&amp;ctportalNav=|27189|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Living</font></a></td></tr><tr><td valign="top" align="left" nowrap=""><a href="/ctportal/cwp/view.asp?a=843&amp;q=246588&amp;ctportalNav=|27190|"><img name="27190" src="/ctportal/Assets/Templates/45/images/bul_arrow.gif" height="12" width="10" border="0" alt="View sub-links"></a></td><td valign="middle"><a name="27190" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27190&amp;ctportalNav=|27190|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Learning</font></a></td></tr><tr><td valign="top" align="left" nowrap=""><a href="/ctportal/cwp/view.asp?a=843&amp;q=246588&amp;ctportalNav=|27187|"><img name="27187" src="/ctportal/Assets/Templates/45/images/bul_arrow.gif" height="12" width="10" border="0" alt="View sub-links"></a></td><td valign="middle"><a name="27187" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27187&amp;ctportalNav=|27187|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Doing Business</font></a></td></tr><tr><td valign="top" align="left" nowrap=""><a href="/ctportal/cwp/view.asp?a=843&amp;q=246588&amp;ctportalNav=|27235|"><img name="27235" src="/ctportal/Assets/Templates/45/images/bul_arrow.gif" height="12" width="10" border="0" alt="View sub-links"></a></td><td valign="middle"><a name="27235" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27235&amp;ctportalNav=|27235|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Visiting</font></a></td></tr><tr><td valign="top" align="left" nowrap=""><a href="/ctportal/cwp/view.asp?a=843&amp;q=246588&amp;ctportalNav=|27537|"><img name="27537" src="/ctportal/Assets/Templates/45/images/bul_arrow.gif" height="12" width="10" border="0" alt="View sub-links"></a></td><td valign="middle"><a name="27537" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27537&amp;ctportalNav=|27537|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Government</font></a></td></tr></tbody></table></td>
+<table bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="top" align="left" nowrap=""></td><td valign="top"><a name="27188" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27188&amp;ctportalNavPage=|27188|" title="Working"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Working</font></a></td></tr>
+<tr><td valign="top" align="left" nowrap=""></td><td valign="top"><a name="27189" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27189&amp;ctportalNavPage=|27189|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Living</font></a></td></tr>
+<tr><td valign="top" align="left" nowrap=""></td><td valign="top"><a name="27190" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27190&amp;ctportalNavPage=|27190|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Learning</font></a></td></tr>
+<tr><td valign="top" align="left" nowrap=""></td><td valign="top"><a name="27187" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27187&amp;ctportalNavPage=|27187|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Doing Business</font></a></td></tr>
+<tr><td valign="top" align="left" nowrap=""></td><td valign="top"><a name="27235" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27235&amp;ctportalNavPage=|27235|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Visiting</font></a></td></tr>
+<tr><td valign="top" align="left" nowrap=""></td><td valign="top"><a name="27537" href="http://www.ct.gov/ctportal/taxonomy/taxonomy.asp?DLN=27537&amp;ctportalNavPage=|27537|"><font size="1" color="#000000" face="Verdana,Arial,Geneva">Government</font></a></td></tr>
+</tbody></table></td>
 							</tr>
 						</tbody></table>
 							
@@ -628,18 +453,24 @@ function SwapImg_ctportalNav(ImgID_str, Url_str, fheight_int, fwidth_int){
 			</tbody></table>
 <!-- END OF TAXONOMY-->
 			
-			<!-- CUSTOM RES 5 USASEARCH -->
-			<div>&nbsp;</div>
-<div id="switchSearch">
+	
+
+
+
+		<!-- CUSTOM RES 4 -->
+<div align="center">
+			<div id="switchSearch">
 <ul class="clear" style="POSITION: relative">
 <li id="search">
 <ul id="search-menu">
-<li class="selected"><a class="tab" id="searchform-tab" href="http://usasearch.gov/search"><img id="ssImage" onclick="swapImage(1)" alt="Site Search" src="../lib/ctportal/site_search_active.jpg" border="0"></a> </li>
-<li><a class="tab" id="frm_KeywordLkup-tab" href="#frm_KeywordLkup"><img id="kwImage" onclick="swapImage(2)" alt="Keyword Search" src="../lib/ctportal/ct_keyword_tab.jpg" border="0"></a></li></ul><!--keyword search start-->
+<li class="selected"><a class="tab" id="searchform-tab" href="http://usasearch.gov/search"> {Site Search} </a> </li>
+<li><a class="tab" id="frm_KeywordLkup-tab" href="#frm_KeywordLkup"> {Keyword Search} </a></li></ul><!--keyword search start-->
 <form id="frm_KeywordLkup" name="frm_KeywordLkup" onsubmit="return ValKeywordFrm(this)" action="/ctportal/taxonomy/tax_search.asp" method="post">
-<fieldset><input type="hidden" value="1" name="KywdLkup_bit"> <input type="hidden" name="RemoteURL"> <input type="hidden" name="DomainIDs"> <input type="hidden" name="AppIDs"> <input type="hidden" name="GroupIDs"> <input type="hidden" name="PageSize"> <legend><label for="Search_txt">CT Keyword</label> </legend><input class="searchBox empty" id="Search_txt" title="enter keyword..." style="WIDTH: 118px; HEIGHT: 24px" size="18" name="Search_txt"> <input type="image" alt="go" src="http://www.ct.gov/ctportal/lib/ctportal/images/search-icon.jpg" name="go"> </fieldset> </form><!--keyword search end-->
+<fieldset><input type="hidden" value="1" name="KywdLkup_bit"> <input type="hidden" name="RemoteURL"> <input type="hidden" name="DomainIDs"> <input type="hidden" name="AppIDs"> <input type="hidden" name="GroupIDs"> <input type="hidden" name="PageSize"> <legend><label for="Search_txt">CT Keyword</label> </legend>
+<div align="left"><input class="searchBox empty" id="Search_txt" title="enter keyword..." style="WIDTH: 126px; HEIGHT: 24px" size="19" name="Search_txt">&nbsp;<input type="submit" value="go" src="http://www.ct.gov/ctportal/lib/ctportal/images/search-icon.jpg" name="go"></div></fieldset> </form><!--keyword search end-->
 <form class="selected" id="searchform" name="searchform" action="http://usasearch.gov/search" method="get">
-<fieldset><legend><label for="KEYWORDS_VC">Site Search</label> </legend><input type="hidden" value="CT.gov" name="affiliate"> <input id="a" type="hidden" value="firstgov" name="v:project"> <input type="hidden" value="0" name="CATEGORIES_ID"> <input class="searchBox empty" id="KEYWORDS_VC" title="enter search term..." style="WIDTH: 118px; HEIGHT: 24px" size="15" name="query"> <input id="submit" type="image" alt="Begin Search" src="http://www.ct.gov/ctportal/lib/ctportal/images/search-icon.jpg" border="0" name="submit"> </fieldset> </form><!--return_adv.asp--></li></ul></div>
+<fieldset><legend><label for="KEYWORDS_VC">Site Search</label> </legend><input type="hidden" value="CT.gov" name="affiliate"> <input id="a" type="hidden" value="firstgov" name="v:project"> <input type="hidden" value="0" name="CATEGORIES_ID"> 
+<div align="left"><input class="searchBox empty" id="KEYWORDS_VC" title="enter search term..." style="WIDTH: 126px; HEIGHT: 24px" size="15" name="query">&nbsp;<input type="submit" value="Begin Search" id="submit" src="http://www.ct.gov/ctportal/lib/ctportal/images/search-icon.jpg" border="0" name="submit"></div></fieldset> </form><!--return_adv.asp--></li></ul></div>
 <div>
 <script type="text/javascript">
                 <!--
@@ -656,44 +487,34 @@ function swapImage(intImage) {
 
 switch (intImage) {
  case 1:
-   ssImage.src = "../lib/ctportal/site_search_active.jpg"
-   kwImage.src = "../lib/ctportal/ct_keyword_tab.jpg"
+   ssImage.src = "http://www.ct.gov/ctportal/lib/ctportal/site_search_active.jpg"
+   kwImage.src = "http://www.ct.gov/ctportal/lib/ctportal/ct_keyword_tab.jpg"
    return(false);
 case 2:
-   ssImage.src = "../lib/ctportal/site_search_tab.jpg"
-   kwImage.src = "../lib/ctportal/ct_keyword_active.jpg"
+   ssImage.src = "http://www.ct.gov/ctportal/lib/ctportal/site_search_tab.jpg"
+   kwImage.src = "http://www.ct.gov/ctportal/lib/ctportal/ct_keyword_active.jpg"
    return(false);
  }
 }
 </script>
 </div>
-<div>&nbsp;</div>
-<div></div>
-<div></div>
-<div>&nbsp;</div>
-<!-- CUSTOM RES 4 -->
-<div align="center">
-			<div align="center">
-<center><a href="http://vad.aidmatrix.org/vadxml.cfm?driveid=2740"></a></center>
-<center><a href="http://www.recovery.ct.gov"><img alt="Connecticut Recovery" src="/ctportal/lib/ctportal/Recovery_logo.jpg" vspace="5" border="0" marginwidth="2" marginheight="2"></a><br><div>
-<div>
-<div><a href="http://www.ct.gov/governorrell/cwp/view.asp?a=3512&amp;q=414846"><img alt="Link to Daily flag status alert information for US and Connecticut State flags flying in Connecticut" src="/ctportal/lib/ctportal/full_full.jpg" border="0"></a><a href="http://www.ct.gov/governorrell/cwp/view.asp?a=3512&amp;q=414846"></a></div><a href="http://www.ct.gov/governorrell/cwp/view.asp?a=3512&amp;q=414846"></a></div><a href="http://www.ct.gov/mil/cwp/view.asp?a=1345&amp;Q=314654"></a></div></center></div>
-<div></div>
-<div align="center"><a href="http://www.ctvisit.com/"><img alt="Connecticut - Select Here to Visit CTVisit.com" src="../lib/ctportal/ct_visit.jpg" vspace="5" border="0"></a></div>
-<div align="center"><a href="../cwp/view.asp?a=1121&amp;q=468084"><img alt="Link For Connecticut Weather" src="/ctportal/lib/ctportal/v3/weather_advert_b.jpg" border="0" marginwidth="2" marginheight="2"></a><br><a href="http://www.kids.ct.gov/kids/site/default.asp"><img alt="Link For ConneCT Kids" src="../lib/ctportal/connect_Kids.jpg" vspace="5" border="0"></a><br><a href="http://www.infoline.org/"><img alt="2-1-1 Infoline" src="../lib/ctportal/211.jpg" vspace="5" border="0"></a><br><a href="http://www.ctlottery.org/"><img alt="Link For CT Lottery" src="../lib/ctportal/ct_lottery.jpg" border="0"></a></div>
-<!-- NEWSLETTER SIGNUP-->
-	
-
-
 
 
 
 <!-- ADDRESS -->
 <!-- CUSTOM RES 3 -->
-			
-		<br></div></td>
-        <td id="contentArea">
-<br><!--/// CONTENT STARTS HERE ///-->
+			<div align="center">
+<center>
+<center><form name="jump"><select size="1" name="menu"> <option selected="">Quick Links</option> <option value="http://www.ct.gov/ctportal/cwp/view.asp?a=843&amp;q=257266">Towns &amp; Cities</option> <option value="http://www.ct.gov/ctportal/cwp/view.asp?a=843&amp;q=246466">State Agencies</option> <option value="http://www.phone.ct.gov/phonesearch.aspx">Phone Directory</option> <option value="http://www.ct-clic.com">CT Licensing</option></select> <input style="WIDTH: 27px; HEIGHT: 22px" onclick="location=document.jump.menu.options[document.jump.menu.selectedIndex].value;" type="button" size="17" value="GO"> </form></center></center>
+<center><a href="http://www.recovery.ct.gov"> {Connecticut Recovery} </a><br><div>
+<div>
+<div></div></div><a href="http://www.governor.ct.gov/malloy/cwp/view.asp?a=4021&amp;q=470866"> {Link to Daily flag status alert information for US and Connecticut State flags flying in Connecticut} </a></div></center></div>
+<div></div>
+<div align="center"><a href="http://www.ctvisit.com/"> {Connecticut - Select Here to Visit CTVisit.com} </a></div>
+<div align="center"><a href="../cwp/view.asp?a=1121&amp;q=468084"> {Link For Connecticut Weather} </a><br><a href="http://www.kids.ct.gov/kids/site/default.asp"> {Link For ConneCT Kids} </a><br><a href="http://www.infoline.org/"> {2-1-1 Infoline} </a><br><a href="http://www.ctlottery.org/"> {Link For CT Lottery} </a></div>
+<div align="center">&nbsp;</div>
+<div align="center"><div align="center"><a href="http://www.ct.gov/ctalert"> {CTAlerts - We can} </a></div></div>
+		<br></div></td>      <td id="contentarea" valign="top"><!--/// CONTENT STARTS HERE ///-->
 	<!--startindex-->
 	<a name="navskip"></a>
 	<dsfcontent id="1437" name="ctportal" abbrev="CT.gov" title="CT.gov Portal" contact="pmg@po.state.ct.us" uuid="B53DAE08-77E9-42E6-8642-A040ADE11353">
@@ -773,14 +594,12 @@ case 2:
 <p><strong>Please take the time to locate, read and understand the privacy policy associated with the particular Connecticut state government site or application you are using.</strong></p><!--webbot bot="Include" u-include="_private/footer.htm" tag="BODY" startspan -->&nbsp; 
 </font>
 <br><br><font face="Verdana,Arial,Geneva" size="1">Content Last Modified on 12/28/2010 4:33:59 PM</font><br>
-<br><br><br><font face="Verdana,Arial,Geneva" size="1"><a title="This will display page with only the content which is best suited for printing." href="/ctportal/cwp/view.asp?a=843&amp;q=246588&amp;pp=12&amp;n=1" border="false">Printable Version</a>&nbsp;&nbsp;</font><br><br>
+<br><br><br><font face="Verdana,Arial,Geneva" size="1"></font><br><br>
 </dsfcontent><dsfrightnav>
 <!--stopindex-->
-
-			                    </dsfrightnav></td>			                    
-		                    </tr>
-                    </tbody></table>
-                           
+		</dsfrightnav></td>
+	</tr>
+</tbody></table>
 <!--startindex-->
 
 
@@ -788,12 +607,10 @@ case 2:
 <!--stopindex-->			
 		
 <div align="center">
-<table width="820" border="0" bordercolor="red" cellpadding="0" cellspacing="0" background="../assets/templates/40/images/background_gray.jpg" id="Table1">
-</table><table width="780" height="61" border="0" cellpadding="0" cellspacing="0" id="footer">
+<table width="962" height="59" border="0" bordercolor="red" cellpadding="0" cellspacing="0" id="footer">
 	<tbody><tr>
-<td width="5" align="left" valign="middle"></td>
-		<td width="710" align="left" valign="middle">
-					<a class="noUnderline" href="../site/default.asp"><font color="#000000">Home</font></a> | <a class="noUnderline" href="http://www.ct.gov"><font color="#000000">CT.gov Home</font></a> | <a class="noUnderline" href="mailto:webmaster@po.state.ct.us"><font color="#000000">Send Feedback </font></a>| <a class="noUnderline" href="http://www.cslib.org/asklib.htm"><font color="#000000">Ask a Question</font></a>&nbsp;| <a href="http://www.ct.gov/ctportal/guestaccount/login.asp">Login</a><div><font face="Arial, Verdana, Geneva" size="1">State of Connecticut <a href="/ctportal/cwp/view.asp?a=843&amp;q=246590">Disclaimer</a>,&nbsp;<a href="/ctportal/cwp/view.asp?a=843&amp;q=246588">Privacy Policy</a>, and <a href="http://www.cmac.state.ct.us/access/policies/accesspolicy40.html">Web Site Accessibility Policy</a>.&nbsp; Copyright © 2002-2010&nbsp;State of Connecticut.&nbsp;</font></div>
+		<td width="897" align="center" height="59">
+					<a class="noUnderline" href="../site/default.asp"><font color="#000000" size="1">Home</font></a><font size="1"> | </font><a class="noUnderline" href="http://www.ct.gov"><font color="#000000" size="1">CT.gov Home</font></a><font size="1"> | </font><a class="noUnderline" href="mailto:webmaster@po.state.ct.us"><font color="#000000" size="1">Send Feedback </font></a><font size="1">| </font><a class="noUnderline" href="http://www.cslib.org/asklib.htm"><font color="#000000" size="1">Ask a Question</font></a><font size="1">&nbsp;|</font> <a class="footer" href="../guestaccount/login.asp"><font size="1">Login</font></a><font size="1">&nbsp;|&nbsp;<div><font face="Arial, Verdana, Geneva" size="1"><div><font face="Arial, Verdana, Geneva" size="1">State of Connecticut <a href="/ctportal/cwp/view.asp?a=843&amp;q=246590">Disclaimer</a>,&nbsp;<a href="/ctportal/cwp/view.asp?a=843&amp;q=246588">Privacy Policy</a>, and <a href="http://www.cmac.state.ct.us/access/policies/accesspolicy40.html">Web Site Accessibility Policy</a>.&nbsp; Copyright © 2002-2011&nbsp;State of Connecticut.&nbsp;</font></div></font></div>
 <script src="http://www.ct.gov/template/lib/template/gatag.js" type="text/javascript"></script>
 
 <script type="text/javascript">
@@ -805,20 +622,19 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-12125192-1");
 pageTracker._trackPageview();
-} catch(err) {}</script>
-		</td>
-<td width="65" align="left" valign="middle"><a href="http://www.ct.gov"><img src="../assets/templates/40/images/ctgov_logo.gif" alt="Return to CT.gov Home" border="0" <="" td=""> 
-	</a></td></tr>
+} catch(err) {}</script></font></td>
+<td width="65" align="left" valign="top">
+			<div><a href="http://www.ct.gov"> {Go to State of Connecticut website} </a></div></td> 
+
+</tr>
 </tbody></table>
-</div></dsffooter></dsfnav></td></tr>
-		</tbody></table>
 </div><!--startindex--><meta name="Title" content="CT.gov: Privacy Statement"><meta name="DocTitle" content="CT.gov: Privacy Statement"><meta name="Description" content="Privacy Statement  Abstract: State of Connecticut  Privacy Policy  Version 1.2December 11, 2002 Addendum - Effective December 13, 2010  Thank you for visiting CT.gov - the official web site for the State of Connecticut. CT.gov is committed to protecting your privacy and to making your on-line experience enjoyable, secure, comfortable, and valuable.  While State of Connecticut Agencies and Branches may adopt and publish privacy policies that differ substantially from the following because of their unique functions, in the absence of any other published policy, this one will apply1.  Privacy Policy  CT.gov policy is to respect and protect the privacy of our website users, consistent with the applicable laws of the United States and the State of Connecticut, including the Connecticut Freedom of Information Act and the Connecticut Personal Data Act. We do not collect, use or disclose any information about our users without their knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or when we have prior consent.  Visitors should be aware that the State of Connecticut may be required to disclose personal information in response to valid legal process, such as a search warrant, subpoena, or court order, or pursuant to the Connecticut Freedom of Information Act. All record keepers face the possibility that disclosure of their records may be compelled in some civil, criminal, or administrative matters. Disclosures may also be necessary to protect the State’s legal rights or during emergencies if physical safety is believed to be at risk.  These events are unlikely, but possible.  Policy Revision and Notification of Changes  CT.gov will update this policy as new services and features are added. We will tell our users about policy changes through notices on this page, which will always contain a version number and date. Any information collected under the current policy will remain subject to these terms. Information collected after any changes take effect will be subject to the revised privacy policy.  What Information About Users Does The State Of Connecticut Collect?  A. Automatic Information  The following information is collected and stored automatically from all users accessing the CT.gov web sites to browse or download information: The Internet domain and Internet Protocol address from which you access our site; The type of browser and operating system used to access our site; The date and time you access our site; The pages you visit; and If you linked to CT.gov from another website, the address of that website. This information is used to create summary statistics, which are used for purposes such as assessing what information is of most interest to users, determining technical design specifications, and identifying system performance or problem areas.  This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside (third) parties unless legally required.  B. Personal Information You Provide to Us  CT.gov does not retain personally identifiable information about you when you visit our web sites unless you choose to provide such information to us (i.e. sending an e-mail, participating in a survey, responding to a feedback or 'contact us' form, etc.)  We consider any information that could reasonably be used to identify you as 'personally identifying information.' This includes, but is not limited to: Your name Your address Your e-mail address Your Social Security number Your password Bank account information Credit card information Any combination of data that could be used to identify you such as your birth date, your zip code and your gender. Connecticut state government agencies, organizations and institutions may request personally identifiable information from you in order to provide requested services, but such information is handled as it would be on an in-person visit to that same agency, organization or institution.  If personal information is requested on the web site or volunteered by the user, state law and the United States Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.  E-Mail Communications and Web Forms  If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us information, we will only use this personally identifying information to respond to your request. We may redirect your message to another government agency or person who is in a better position to answer your question.  All e-mail messages collected by CT.gov contain the e-mail addresses of persons who voluntarily communicated with or requested information from us. E-mail addresses are not sold, leased or shared with any governmental or commercial entities without the user's consent. When a user has given us their e-mail address for purposes of communicating with or requesting information from CT.gov, that communication becomes part of the public record and may be subject to public inspection and copying if not protected by federal or state law.  Does CT.gov use Cookies to Collect Information About a User?  We do not use permanent cookies to retain information on the CT.gov site. A cookie is a text file, not a program, which is sent to your computer when you access a site. Cookies do not disclose your name or e-mail address to a web site. They can only tell a web site if you have visited before and can pass short bits of information from the web site back to itself the next time you visit.  CT.gov does use temporary cookies that do not write anything to the user's hard drive. When the browser is closed the cookie is gone.  (Please see Amendment 1 for further clarification.)  Does The State Of Connecticut Share The Information It Receives With Anyone?  Except as provided by applicable state and federal laws, we do not collect, use or disclose user information without the user’s knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or have prior consent.  In addition, all State of Connecticut contractors must comply with this policy.  Can I Access and Correct My Personal Information?  Persons concerned about information contained in their personal records should contact the custodian of the record, which typically is the state agency or other governmental entity that collects and maintains the information.  CT.gov does not collect any personally identifiable information other than what you provide in your e-mail correspondence. The automatic data recorded is not matched with any of that personally identifiable information. Therefore, information cannot be provided about your visit.  Do I Have a Choice About Whether or Not My Personal Information is Provided to Others?  CT.gov does not obtain personally identifiable information about you when you visit our web sites unless you choose to provide such information to us (i.e. sending an e-mail, participating in a survey, responding to a feedback or 'contact us' form, etc.). We do not disclose, sell, lease or provide any personal information about our users to any other government or commercial entity for any purpose.  There may be instances where we send ongoing updates or announcements to interested parties. In such cases, visitors will have the choice whether or not to receive these updates or announcements.  However, it is important to understand that under applicable state and federal law, various forms of correspondence and other communications may be subject to public disclosure.  Commitment to Security  The Department of Information Technology, which manages the computers that support CT.gov, has put into place appropriate safeguards to ensure that any personal information is secure from destruction, corruption, unauthorized access and breach of confidentiality. This effort includes an ongoing review of safety measures, implementation of changes, and regular training for their personnel.  Disclaimer/Links to other Sites  CT.gov contains links to other web sites. These may include links to web sites operated by other government agencies, non-profit organizations and private businesses. When you link to another site, you are no longer on the CT.gov web site and this privacy notice does not apply. When you link to another web site, you are subject to the privacy policy of that web site.  For questions or comments about this policy, please contact:  State of Connecticut  Department of Information Technology  101East River Drive  East Hartford, CT  06108-3274  Phone: (860) 622-2200  E-Mail: webmaster@ct.gov    Addendum 1 (Effective Date ..."><meta name="Date" content="2010-12-28">
 	
 	<!-- DSF: PROPER END OF PAGE -->
 		
 
 
-	
+	</dsffooter>
 	
 
-</dsfheader></body></html>
+</dsfnav></body></html>
