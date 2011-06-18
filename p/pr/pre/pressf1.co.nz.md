@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the pressf1.co.nz privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218003222id_/http%3A//fairfaxbm.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressf1.co.nz privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618172811id_/http%3A//fairfaxbm.co.nz/privacy) for the most accurate reproduction.*
 
 # Fairfax Media Business Group > Corporate > Privacy Policy
 
-  
-**Privacy Policy** This website is a member of the [Fairfax Media Business Group network](http://fairfaxbm.co.nz/). Fairfax Media Business Group complies strictly with New Zealand’s [Privacy Act](http://www.privacy.org.nz/privacy-act), which deals with the collection, storage, use and disclosure of personal information, and the [Unsolicited Electronic Messages Act](http://www.antispam.govt.nz/), New Zealand's "anti-spam" legislation. Fairfax Media Business Group does not monitor individual traffic patterns - only aggregate visitor behaviour is collected. It is not linked to personally identifiable information.Most of the _Fairfax Media Business Group_ network can be accessed without disclosing personal information. Where personal information is provided to us, _Fairfax Media Business Group_ maintains and uses that information in strict conformity with the Privacy Act. Under the Act you have the right to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used _. Fairfax Media Business Group_ will not release your personal data without your consent.You may request access to, and corrections to, any information we have on you by contacting the Privacy Officer, Karl Martin, by emailing [kmartin@fairfaxbm.co.nz](mailto:kmartin@fairfaxbm.co.nz).
+## Corporate
+
+**Privacy Policy**
+
+This website is a member of the [Fairfax Media Business Group network](http://fairfaxbm.co.nz/). Fairfax Media Business Group complies strictly with New Zealand’s [Privacy Act](http://www.privacy.org.nz/privacy-act), which deals with the collection, storage, use and disclosure of personal information, and the [Unsolicited Electronic Messages Act](http://www.antispam.govt.nz/), New Zealand's "anti-spam" legislation. Fairfax Media Business Group does not monitor individual traffic patterns - only aggregate visitor behaviour is collected. It is not linked to personally identifiable information.
+
+Most of the _Fairfax Media Business Group_ network can be accessed without disclosing personal information. Where personal information is provided to us, _Fairfax Media Business Group_ maintains and uses that information in strict conformity with the Privacy Act. Under the Act you have the right to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used _. Fairfax Media Business Group_ will not release your personal data without your consent.
+
+You may request access to, and corrections to, any information we have on you by contacting the Privacy Officer, Karl Martin, by emailing [kmartin@fairfaxbm.co.nz](mailto:kmartin@fairfaxbm.co.nz).
 
 _Fairfax Media Business Group_
 
