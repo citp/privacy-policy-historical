@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geology.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218144226id_/http%3A//geology.com/visitors/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geology.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618141240id_/http%3A//geology.com/visitors/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Geology.com
 
@@ -7,7 +7,6 @@
 
 ## Privacy Policy and Security Statements
 
-  
 Geology.com provides information about geology and earth science to visitors without charge. No log-in is required and we do not passively collect information from our visitors that would personally identify them in any way. Any information that would personally identify a visitor is transmitted to us directly by the visitor - such as in an email message or shopping cart transaction. 
 
 #### Visitor Information Logged
@@ -37,7 +36,7 @@ In the checkout process the visitor must type in name, address and credit card i
 
 #### Links to Other Websites
 
-To assist our visitors in learning about geology and earth science, we link out to other websites that have related content. When you click on one of these links you will be leaving our website. When we link to a website, we always review that site to be sure that it has quality content and to be sure that it is a site that we would recommend to our colleagues, friends, and members of our family. We do not control the content of these websites and encourage any Geology.com visitor to [contact us](https://web.archive.org/web/20101218144226id_/http%3A//geology.com/visitors/contact.shtml) if you feel that one of these sites contains information that is unsuitable for visitors of any age. 
+To assist our visitors in learning about geology and earth science, we link out to other websites that have related content. When you click on one of these links you will be leaving our website. When we link to a website, we always review that site to be sure that it has quality content and to be sure that it is a site that we would recommend to our colleagues, friends, and members of our family. We do not control the content of these websites and encourage any Geology.com visitor to [contact us](https://web.archive.org/web/20110618141240id_/http%3A//geology.com/visitors/contact.shtml) if you feel that one of these sites contains information that is unsuitable for visitors of any age. 
 
 #### Advertisements
 
@@ -51,6 +50,8 @@ Google and other advertisers on our site use technology such as cookies, web bea
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or online email accounts. 
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
+
 #### Interaction with Children 
 
 Geology.com complies with the [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/ogc/coppa1.htm). We make no attempt to passively or actively collect information from children. Children are able to write to us on their own initiative and we will reply to them on a one-time basis to provide educational information related to geology and earth science. We will not recontact them for other reasons or share any details of their contact with anyone outside of Geology.com. Transactions in our store are not knowingly accepted from children.
@@ -58,3 +59,6 @@ Geology.com complies with the [Children's Online Privacy Protection Act (COPPA)]
 #### Getting in Touch With Geology.com 
 
 Geology.com is owned by Hobart King, PhD. a licensed professional geologist registered in the Commonwealth of Pennsylvania and a retired Associate Professor of Geology at Mansfield University of Pennsylvania. He can be reached by mail at 115 Southwood Drive, Uniontown, PA 15401, by phone at 570-439-0324 and email at the address shown below. Dr. King holds degrees in geology from California University of Pennsylvania (B.S. 1975) and West Virginia University (M.S. 1978, Ph.D. 1982). From 1980 until 1994 he was a geologist at the West Virginia Geological and Economic Survey, holding positions as coal geologist, economic geologist and Head of the Economic Minerals and Geologic Hazard Section. He was on the faculty of Mansfield University of Pennsylvania between 1994 and 2008. 
+
+  
+
