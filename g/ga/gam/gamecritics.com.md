@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the gamecritics.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215091333id_/http%3A//www.gamecritics.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecritics.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618155650id_/http%3A//www.gamecritics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GameCritics.com
+# Privacy Policy | GameCritics.com - Games. Culture. Criticism.
 
 **Our Commitment to Privacy**  
 Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This statement will be continuously assessed against new technologies, business practices and our user needs.
 
 **What Organization Is Collecting the Information?**  
-GameCritics.com is the sole owner of the information collected on this site. Our mailing address is 182-17 144th Avenue, Springfield Gardens, NY 11413, our telephone number is 917-554-7127, and we can be [emailed here](https://web.archive.org/aboutus/).
+GameCritics.com is the sole owner of the information collected on this site. Our mailing address is 599 Passaic Avenue, Nutley, NJ 07110, our telephone number is 917-554-7127, and we can be [emailed here](https://web.archive.org/contact).
 
 **What Information Do We Collect?**  
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose when you register for a membership account and Web site use information collected on an aggregate basis as you and others browse our Web site.
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose when you register for a forum account and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
 **1\. Personal Information You Choose to Provide**
 
-**User Registration**  
-This Web site includes a registration form for you to provide information to us. You are required to register to access the content on this Web site. In order for us to learn more about our users for ad revenue generating purposes and to provide more personalized features, we collect demographic information (sex, age, country, zip code, household income, industry, job title) and unique information that identifies you (user name, password and email address). You must agree to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20061215091333id_/http%3A//www.gamecritics.com/terms_of_use.php). 
+**Forum Registration**  
+Our forums provides a registration form for you to provide information to us. You are required to register to post content on the Forums. You must agree to the terms of our [Terms of Use Agreement](https://web.archive.org/terms-of-use-agreement). 
 
 **Email Information**  
 If you choose to correspond with us through email or use the 'Email This Page' feature in forums, we may retain the content of your email messages together with your email address and any other corresponding email addresses. We store this information for the sole purpose of communicating through e-mail and will not be used for any other purpose without your consent.
@@ -33,10 +33,10 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 All user activity on our Web site is stored onto log files residing on our servers. We register Internet Protocol (IP) addresses to accumlate Web traffic reports, analyze trends, administer the site, track a user’s movement and gather broad demographic information for aggregate use.
 
 **How Do We Use Information We Collect from Cookies and Web Server Logs?**  
-The information in cookies allows for registered users to automatically sign-on, lets us trace the paths followed by users as they move from one page to another and makes restricted access for non-registered users to particular areas of our Web site possible. Visitors who do not accept cookies cannot access most areas of GameCritics.com. Web server logs allow us to count how many people visit our Web site and evaluate our Web site’s visitor capacity. Information that is collected from cookies and Web server logs is on an aggregate basis. None of this information is associated with you as an individual with the exception of cookies that help to automate a user's sign-on process. We do not use these technologies to capture personal information about you although they do permit us to send focused online banner advertisements or other such responses to you and when necessary. Registering IP addresses also allows us to provide more security in our forums areas by making users who violate our [Terms of Use](https://web.archive.org/web/20061215091333id_/http%3A//www.gamecritics.com/terms_of_use.php) agreement more traceable and accountable.
+The information in cookies allows for registered users to automatically sign-on, lets us trace the paths followed by users as they move from one page to another and makes restricted access for non-registered users to particular areas of our Web site possible. Visitors who do not accept cookies cannot access most areas of GameCritics.com. Web server logs allow us to count how many people visit our Web site and evaluate our Web site’s visitor capacity. Information that is collected from cookies and Web server logs is on an aggregate basis. None of this information is associated with you as an individual with the exception of cookies that help to automate a user's sign-on process. We do not use these technologies to capture personal information about you although they do permit us to send focused online banner advertisements or other such responses to you and when necessary. Registering IP addresses also allows us to provide more security in our forums areas by making users who violate our [Terms of Use](https://web.archive.org/terms-of-use-agreement) agreement more traceable and accountable.
 
 **Information for Children Under 13 Years of Age**  
-GameCritics.com does not gear its content or business practices toward children under 13 years of age and this privacy policy pertains to all users of our site. However, if any child under the age of 13 wishes to use our site, we have special privacy policies that are compliant with the Children's Online Privacy Protection Act (COPPA) regarding information we collect from them.
+GameCritics.com does not gear its content or business practices toward children under 13 years of age and this privacy policy pertains to all users of our site. However, if any child under the age of 13 wishes to use our forums, we have special privacy policies that are compliant with the Children's Online Privacy Protection Act (COPPA) regarding information we collect from them.
 
 Children under 13 years of age should not provide information to us without the consent of their parent or guardian.
 
@@ -61,7 +61,7 @@ We may disclose information when legally compelled to do so, in other words, whe
 E-mail that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as Social Security or account numbers to us through an unsecured email.
 
 **Third-party Advertising**  
-We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We use Burst Media and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.  We are not responsible and we do not have access to these cookies or any information that they may contain.
@@ -73,7 +73,7 @@ Please remember that when you use a link to go from our Web site to another Web 
 From time to time our site requests information from you to conduct surveys or contests. Participation in these surveys or contests is completely voluntary. Therefore, you have a choice whether or not to disclose the information. This information may include contact information (such as name and address) and demographic information (such as age or zip code). Unless otherwise stated near the information form, we use survey information to monitor or improve our site and contest information to notify the winners and award prizes.
 
 **Forums**  
-GameCritics.com offers Forums, or message boards. Any information you disclose when posting a message in these Forums becomes public. Moreover, Members who post a message in our Forums make their e-mail address available to others through a feature of our Forums software, which Use of these forums, and the entire site, is governed by our [Terms of Use](https://web.archive.org/web/20061215091333id_/http%3A//www.gamecritics.com/terms_of_use.php) agreement. Please remember that any information that is posted in the forums becomes public information could result in unsolicited e-mail from other subscribers or parties. Please exercise caution when deciding to disclose your personal information.
+GameCritics.com offers Forums, or message boards. Any information you disclose when posting a message in these Forums becomes public. Moreover, Members who post a message in our Forums make their e-mail address available to others through a feature of our Forums software, which Use of these forums, and the entire site, is governed by our [Terms of Use](https://web.archive.org/terms-of-use-agreement) agreement. Please remember that any information that is posted in the forums becomes public information could result in unsolicited e-mail from other subscribers or parties. Please exercise caution when deciding to disclose your personal information.
 
 **How Can You Access and Correct Your Information?**  
 If any of your personally identifiable information changes or if you no longer wish to use our service, you can correct, update or remove your personal data that you have provided to us. This can be done on the '[Edit Profile](https://web.archive.org/forums/member.php?s=1ba276a139ba749902c5e88cedad94a6&action=editprofile)' page or by e-mailing us by [clicking here](http://www.gamecritics.com/forums/member.php?s=d7a203abcc2f029308f395275f9081f6&action=mailform&userid=2). 
@@ -83,7 +83,3 @@ Occasionally, we may also use the information we collect to notify you through e
 
 **Your Consent**  
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-* * *
-
-**[Home](https://web.archive.org/index.php)  >  Privacy Policy**
