@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104234030id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618081924id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TheTruckersReport.com
+# Privacy Policy | TruckersReport.com
 
 **Privacy Policy for www.thetruckersreport.com**
 
@@ -38,6 +38,8 @@ Chitika
 
 Amazon
 
+Vibrant Media
+
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.thetruckersreport.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 www.thetruckersreport.com has no access to or control over these cookies that are used by third-party advertisers.
@@ -52,7 +54,9 @@ For each visitor to our Web page, our Web server automatically recognizes the vi
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used to improve the content of our Web page, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+The information we collect is used to improve the content of our Web page, internal marketing purposes, and disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+
+We reserve the right to publicly expose IP addresses or email addresses which might identify employers or even individual computer owners if there is abuse or attempts to misrepresent their relationship to an employer or business (Shilling, astro-turfing, sock puppetry).
 
 With respect to cookies: We use cookies to store visitors preferences, ensure that visitors are not repeatedly sent the same banner ads.
 
