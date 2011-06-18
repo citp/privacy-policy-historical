@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mygradebook.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215201643id_/http%3A//www.fen.com/resources/privacyStatement.html%3Fadd%3DMygradebook) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygradebook.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618073022id_/http%3A//www.fen.com/resources/privacyStatement.html%3Fadd%3DMygradebook) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
 | 
 
-Privacy Statement: (Revised January, 2005) 
+Privacy Statement: (Revised January, 2010) 
 
-Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20090215201643id_/http%3A//www.fen.com/resources/agreeDisclaim.html?add=Mygradebook) (of which this privacy statement is a part) posted on this site. 
+Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20110618073022id_/http%3A//www.fen.com/resources/agreeDisclaim.html?add=Mygradebook) (of which this privacy statement is a part) posted on this site. 
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly. Family Education Network reserves the right to revise this privacy statement at any time and such revisions shall be effective immediately upon notice thereof. Notice may be given by any means including, but not limited to, posting the revised privacy statement on this site. Any use of our site by you subsequent to such notice shall be deemed to constitute acceptance by you of such revision. 
 
@@ -22,7 +22,7 @@ What Are IP Addresses?
 A Notice About Our Advertisers   
 A Notice About External Links   
 Public Forums   
-Security and Credit Card Use   
+Security, Purchases and Credit Card Use   
 Contacting Family Education Network
 
 Family Education Network is part of Pearson. 
@@ -34,7 +34,7 @@ Please note that certain services and programs offered by Family Education Netwo
 [Quiz Lab](https://web.archive.org/resources/privacyStatement.html?&add=Mygradebook%2CQuizlab%2CMygradebook#Quizlab)
 
 Information You Provide to Us:    
-Family Education Network collects information in several ways via different parts of our site. Providing personal information and becoming a Family Education Network member is voluntary. Nonmembers can still use the majority of our site. However, nonmembers will not have the opportunity to access certain enhanced content and application areas, win our seasonal promotions, experience future personalization, and voice their questions and concerns as quickly. When you register with Family Education Network, you provide personal information. Family Education Network uses this information to better create and organize our content programming to meet your needs. 
+Family Education Network collects information in several ways via different parts of our site. Providing personal information and becoming a Family Education Networkmember is voluntary. Nonmembers can still use the majority of our site. However, nonmembers will not have the opportunity to access certain enhanced content and application areas, win our seasonal promotions, experience future personalization, and voice their questions and concerns as quickly. When you register with Family Education Network, you provide personal information. Family Education Network uses this information to better create and organize our content programming to meet your needs. 
 
 The personally identifiable information we may request from you, and with which we identify you as a member, includes the following: first name, last name, email address, gender, date of birth, ZIP code, username, and password. When you wish to purchase something, we will also ask you for the following: street address, city, state, phone number, and credit card number. 
 
@@ -58,8 +58,8 @@ As a parent, you've probably done a lot of thinking about protecting your family
   4. We will NOT knowingly ask a child under the age of 13 to divulge more information than is needed to participate in any activity, game, or service. 
   5. We will NOT knowingly keep any personally identifiable information that is inadvertently included in a child's email submission, help inquiry, or other one-time request, if we know that the child is under the age of 13. Information will be automatically purged or purged immediately after the issue has been resolved. 
   6. We will NOT knowingly post any personally identifiable information that is inadvertently included in a child's submission to a general audience contribution area if we know that the child is under the age of 13. These submissions will be deleted and handled anonymously thereafter. 
-  7. We will NOT knowingly provide any direct link to websites that are unsuitable for children or teens. 
-  8. We will advise children under the age of 13 that they MUST obtain permission from their parent or guardian before sharing ANY personal information. 
+  7. We will NOT knowingly provide any direct link to websites that are unsuitable for children or teens.
+  8. We will advise children under the age of 13 that they MUST obtain permission from their parent or guardian before sharing ANY personal information.
   9. Upon request, Family Education Network will provide a parent or guardian with a description of the information that may have been provided about their child during a registration process for a program or service of this site. Family Education Network only asks for a child's or teen's personal information if it is necessary to participate in the program or service.
 
 If you have any questions about our Kids' Privacy Policy, please call Family Education Network at: 1-800-498-3264. 
@@ -71,8 +71,8 @@ Exceptions to Verifiable Parental Consent:
 There are few instances where we will NOT get verifiable parental consent, such as:
 
   * Requesting the contact information of a parent or guardian for the sole purpose of obtaining verifiable parental consent or providing notification to the parent or guardian; 
-  * Collecting a child's contact information solely to directly respond to the child's request on a one-time basis (for example, to provide assistance with a particular study question),. We will not use that information to re-contact the child for any other purpose (we will purge from our system the child's personal information after responding); 
-  * Collecting a child's contact information and the contact information of his/her parent or guardian solely to directly respond more than once to a specific request from the child (for example, to satisfy the request for a newsletter subscription). In this instance, the parent or guardian will be notified that the child made such a request and be informed of the information provided by the child. The parent or guardian will have an opportunity at any time to revoke the child's request (i.e., unsubscribe). We will not use the child's personal information to re-contact the child for any other purpose. 
+  * Collecting a child's contact information solely to directly respond to the child's request on a one-time basis (for example, to provide assistance with a particular study question). We will not use that information to re-contact the child for any other purpose (we will purge from our system the child's personal information after responding); 
+  * Collecting a child's contact information and the contact information of his/her parent or guardian solely to directly respond more than once to a specific request from the child (for example, to satisfy the request for a newsletter subscription). In this instance, the parent or guardian will be notified that the child made such a request and be informed of the information provided by the child. The parent or guardian will have an opportunity at any time to revoke the child's request (i.e., unsubscribe). We will not use the child's personal information to re-contact the child for any other purpose.
 
 
 
@@ -82,7 +82,7 @@ The use of "cookies" is common in the Internet industry; you'll find them used o
 The non-personally identifiable information we track with cookies is anonymous and is not used to identify, or lead us back to, any particular visitor. Visitors to Family Education Network may have the option of disabling cookies via their browser preferences (most browsers are initially set up to accept cookies). While browsing through Family Education Network, you may get cookies from our advertisers or sponsors. Family Education Network and its affiliated sites do not control these cookies. 
 
 What Are IP Addresses?   
-An IP address is a number that is assigned automatically to your computer whenever you use the World Wide Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address. Family Education Network collects IP addresses for system administration; to report aggregate information to our advertisers, sponsors, and partners; and to audit the use of our site. When visitors request pages from Family Education Network sites, our servers log the guests' IP addresses. We typically do not link IP addresses to anything personally identifiable. This means that a visitor's session will be logged, but the visitor remains anonymous to us. We can and will use IP addresses to identify a visitor if the following occurs: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws 
+An IP address is a number that is assigned automatically to your computer whenever you use the World Wide Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address. Family Education Network collects IP addresses for system administration; to report aggregate information to our advertisers, sponsors, and partners; and to audit the use of our site. When visitors request pages from Family Education Network sites, our servers log the guests' IP addresses. We typically do not link IP addresses to anything personally identifiable. This means that a visitor's session will be logged, but the visitor remains anonymous to us. We can and will use IP addresses to identify a visitor if the following occurs: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws. 
 
 Some features within Family Education Network, such as certain message boards, may display IP addresses along with the message-poster's visitor name and message. You should review each feature prior to use and only use those features that disclose information you are comfortable sharing. 
 
@@ -91,7 +91,7 @@ Some of the Family Education Network sites allow advertising by third parties. F
 
 Family Education Network may offer contests, sweepstakes, and promotions that are sponsored by third-party advertisers or sponsors. These third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. Family Education Network does not control the third parties' use of information. 
 
-Family Education Network may use an advertising server developed by a third party to display ads on our site. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors). We do not have access to these cookies or any information that they contain. The Family Education Network privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on ad serving, please click [here](http://www.doubleclick.net/us/corporate/privacy). 
+Family Education Network may use advertising servers developed by third parties to display ads on our site. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors) and may use information (not including your name, address, email address, telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not have access to these cookies or any information that they contain. The Family Education Network privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on ad serving, please click [here](http://www.networkadvertising.org/managing/faqs.asp). If you would like to know your choices about not having information used by these third parties, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 A Notice About External Links:   
 Occasionally, you will find links from Family Education Network to independently owned, controlled, and/or managed Websites whose content we believe will be of possible interest and value to our visitors. Additionally, you'll see links from advertisers, sponsors, and other partners who may use Family Education Network's logo as part of a co-branding agreement. 
@@ -107,8 +107,10 @@ We specifically recommend that children check with their parents or teachers bef
 Public Forums:   
 Family Education Network makes chat rooms, forums, message boards, web pages, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Consequently, you should exercise caution when deciding to disclose your personal information. 
 
-Security and Credit Card Use:   
+Security, Purchases and Credit Card Use:   
 Family Education Network has security measures in place to protect the loss, misuse, and alteration of the information under our control. Essentially, we encrypt all transmission of sensitive data and secure all of our repositories of data. When you use your credit card to shop at Family Education Network, your transaction is secure. Our servers use Secure Sockets Layer (SSL), an advanced encryption technology that works with Netscape Navigator (versions 2.0 and above), Microsoft Internet Explorer (version 3.0 and above), and AOL (AOL 3.0 and above). This technology safeguards your personal information and privacy. However, you should understand that "perfect security" is never guaranteed. 
+
+Certain Family Education Network sites allow users to make purchases by mobile devices. Any such purchases by mobile device are also subject to the terms of service and privacy policy of the purchasers mobile carrier and our third party mobile payment processing service, Zong, and their [terms of use](http://zong.com/zong/terms.gsp) and [privacy policy](http://zong.com/zong/policy.gsp).
 
 Contacting Family Education Network:   
 If you have any questions about this privacy statement, the practices of Family Education Network, or your dealings with Family Education Network, please: 
@@ -121,12 +123,14 @@ If you have any questions about this privacy statement, the practices of Family 
 
 _MyGradeBook Add-ons_
 
-_MyGradeBook Privacy Terms (Revised February, 2004)_   
+_MyGradeBook Privacy Terms (Revised April, 2009)_   
 Family Education Network operates an interactive online program called MyGradeBook (this "Site"). 
 
 _Collection and Use_. (1) _Student Information_ \- **This Site will in no event knowingly and directly ask any student for any personally identifiable information either online or offline, nor will it require any such information for a student to use or access the Site.** However, in order to assist the teacher, school and/or school district (collectively, the "School") in school administration and to track its students' progress, this Site, at the School's sole option, allows the School (not the student) to input the students' names. It is up to the School to register students to give them access to this Site. Upon the School's registration of a student, this Site will assign a unique user identification and password (passwords may be changed by the School) for such student. The School will then notify the student of his/her user identification and password to enable the student to gain access to this Site. **The School, and not Family Education Network, solely controls, defines and manages the collection, disclosure, communication and management of all data, including personal data on this Site.**
 
 (2) _School Information_ \- Each School using this Site must provide the following contact information to the Site: (a) the full name and email address of the teacher(s) who will use this Site and the grade level of the class involved; and (b) the name of the school district, the school, and the city and zip code of the school. When the School initially purchases membership to this Site, we also ask for the following information: street address, city, state and phone number of the School, and a credit card number. Once all the required information is entered, the teacher selects a user identification and password that will enable it to log onto the Site and to enter or modify any student information. **The entry of all identifiable student personal data or assessment data is the School's responsibility and Family Education Network assumes no responsibility to enter, collect, or review any such data.**
+
+(3) _Data Storage and Processing_ – Each School using this Site acknowledges and agrees that any information, including without limitation, identifiable student personal data or identifiable parent personal data, (collectively, "Information") entered into the Site by a School will be stored and processed in the United States of America. By registering to use the Site the School consents to the storage and processing of the Information in the United States of America. If any School is located outside of the United States of America in a jurisdiction that requires the provision of notice of storage and processing of an individual’s Information outside of such jurisdiction and obtaining such individual's consent to such storage and processing, the School acknowledges and agrees that it is the School's sole responsibility to provide such notice and obtain such consent in compliance with the laws of such jurisdiction. 
 
 **PLEASE CONTACT YOUR TEACHER IMMEDIATELY IF YOU NEED A NEW PASSWORD, IF YOU NO LONGER WISH TO USE THIS SITE, IF YOU DO NOT WANT PERSONALLY IDENTIFIABLE INFORMATION ABOUT YOU OR YOUR CHILD COLLECTED OR COMMUNICATED ON THIS SITE, OR IF YOU BECOME AWARE OF ANY UNAUTHORIZED USE OR ACCESS TO THIS SITE.**
 
