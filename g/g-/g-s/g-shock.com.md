@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g-shock.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229025831id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-shock.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619212409id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
 
 # Support | Casio - G-Shock
 
