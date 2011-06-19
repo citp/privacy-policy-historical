@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paragonsports.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619123521id_/http%3A//www.paragonsports.com/webapp/wcs/stores/servlet/PrivacyView%3FstoreId%3D10551%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paragonsports.com privacy policy that was archived on 2011-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619032838id_/http%3A//www.paragonsports.com/webapp/wcs/stores/servlet/PrivacyView%3FstoreId%3D10551%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy</title>
@@ -8,7 +8,7 @@
 	
 </head>
 
-<body>
+<body bgcolor="white" text="black">
 
 <div id="container"><div id="oneColumn"><!-- 1 COLUMN LAYOUT - CONTENT ONLY -->
 
@@ -144,32 +144,28 @@
   var trackTrans = new Boolean(false);
   var http_protocol = new Boolean(false);
   var noTrans = new Boolean(true);
-  var categoriesToTrack = ["Baseball","Cycling","Tennis","Running","Camping"];
 
 	if(location.protocol == "http:")
 	{
 		document.write('<s'+'cript language="javascript" src="/avant_sfpc_10037.js"></s'+'cript>');
 		document.write('<s'+'cript src="http://cts.channelintelligence.com/12811264_landing.js"></s'+'cript>');
-
-		var sht = null;
+		
 	    if(currentpageurl.indexOf('/category/') !=-1){
-	        for(var i = 0; i < categoriesToTrack.length; i++){
-				 if(currentpageurl.indexOf(categoriesToTrack[i]) !=-1){
-				    sht = 1 + i;
-				    document.write('<s'+'cript type="text/javascript" src="http://px.steelhousemedia.com/pr?get_px=1&prov_id=8993&spt='+sht+'"></s'+'cript>');
-				 }
-            }
-            if(sht == null){
-			    document.write('<s'+'cript type="text/javascript" src="http://px.steelhousemedia.com/pr?get_px=1&prov_id=8993"></s'+'cript>');
-			}
-        }else{
-            document.write('<s'+'cript type="text/javascript" src="http://px.steelhousemedia.com/pr?get_px=1&prov_id=8993"></s'+'cript>');
-	    }
-
+		  document.write('<s'+'cript language="javascript" src="/avant_sfpc_10037.js"></s'+'cript>');
+		  document.write('<s'+'cript src="http://cts.channelintelligence.com/12811264_landing.js"></s'+'cript>');
+		}
+		
 	}else{
 	     (currentpageurl.toString().search(/OrderOKView/) != -1)?trackTrans=true:trackTrans=false;
 	     http_protocol = true;
-	}
+    }
+</script>
+
+<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=8993&amp;cb=1536447318776279.5"></script><script type="text/javascript">
+// tracking pixel
+var aid='8993';
+var additional = ''; // add additional arguments here. please start off with '&'
+(function(){steelhouse={add:function(a,b,c,d){d=d||false;if(a.addEventListener){a.addEventListener(b,c,d)}else if(a.attachEvent){a.attachEvent("on"+b,c)}},load:function(){var a;if(typeof a=='undefined'){a=Math.random()*10000000000000000}var b=document.createElement('script');var c='px.steelhousemedia.com/st?aid='+aid+'&cb='+a+additional;b.type='text/javascript';b.src=('https:'==document.location.protocol?'https://':'http://')+c;var d=document.getElementsByTagName('script');var e=Number(d.length)-1;var f=document.getElementsByTagName('script')[e];f.parentNode.insertBefore(b,f)}};steelhouse.load();})();
 </script>
 
 <div id="logo" onmouseover="clearAllNav();">
@@ -316,16 +312,16 @@
 
 </div>
 
+<div id="social-top">
+	<a href="http://twitter.com/paragonsports" onclick="_gaq.push(['_trackEvent', 'fanPage', 'followHeader', 'twitter'])" target="_blank" title="Follow Paragon Sports on Twitter"><img border="0" src="/images/misc/twitter16x16.gif" alt="twitter icon"></a>
+	<a href="http://www.facebook.com/Paragon-Sports" onclick="_gaq.push(['_trackEvent', 'fanPage', 'followHeader', 'facebook'])" target="_blank" title="Join Us on Facebook!"><img border="0" src="/images/misc/facebook16x16.gif" alt="facebook icon"></a>
+	<a href="http://foursquare.com/venue/45860" onclick="_gaq.push(['_trackEvent', 'fanPage', 'followHeader', 'FourSquare'])" target="_blank" title="Paragon Sports on Foursquare"><img border="0" src="/images/misc/foursquare16x16.gif" alt="foursquare icon"></a>
+</div>
 
 
 <!--[if IE]>
         <style>
-		     #nav-searchbox{position: relative; top: -3px; left: -2px; height: 17px; width: 125px;}
-		</style>
-<![endif]-->
-<!--[if lt IE 8]>
-        <style>
-		     #nav-primary{margin-top: -18px}
+		     #nav-searchbox{position: relative; top: -7px; left: -2px; height: 17px; width: 125px;}
 		</style>
 <![endif]-->
 <!--[if IE 8]>
@@ -333,6 +329,7 @@
 		     #nav-primary{margin-top: -4px}
 		</style>
 <![endif]-->
+
 
 
 
@@ -438,34 +435,29 @@ function submitNewsletterForm( _s_email )
 var newsletter_bademail="The email address you entered does not appear to be valid.";
 		
 	
-
+	
 	if( checkEmail( _s_email ) )
-	{
-		var s_url = document.location.href;
-		s_url = s_url.replace( "#", "" );
+		{
+		/*
+		    WebSphere Email Submit
+			
+			var s_url = document.location.href;
+			s_url = s_url.replace( "#", "" );
 
-        eImg = document.createElement('img');
-		eImg.setAttribute( 'src', 'http://app.bronto.com/public/?q=direct_add&fn=Public_DirectAddForm&id=bpzcvkvfignoyrbehcfdeovhnemwbmp&email=' + _s_email + '&sendWelcome=always&messageId=228c0b2c3f0eeca6049795602dbaefa1&fromName=Paragon+Sports&fromAddress=donotreply%40paragonsports.com&list1=0bbf03ec0000000000000000000000036506');
-		eImg.setAttribute('width', '0');
-		eImg.setAttribute('height', '0');
-		eImg.setAttribute('border', '0');
-		document.getElementById('footer').appendChild(eImg);		
+			document.NewsLetterNavForm.URL.value = s_url;
+			document.NewsLetterNavForm.email_address.value = _s_email;
+			document.NewsLetterNavForm.submit();
+		*/
 		
-	/*
-	    WebSphere Email Submit
-	
-		document.NewsLetterNavForm.URL.value = s_url;
-		document.NewsLetterNavForm.email_address.value = _s_email;
-		document.NewsLetterNavForm.submit();
-	*/	
-	       alert(newsletter_thankyou);
-	
+		window.location = "/webapp/wcs/stores/servlet/ContentView?storeId=10551&catalogId=10051&langId=-1&content=email_prefs&emailsignup=" + _s_email;
+		
+		// alert(newsletter_thankyou);
+		}
+		else
+		{
+			alert(newsletter_bademail);
+		}
 	}
-	else
-	{
-		alert(newsletter_bademail);
-	}
-}
 </script>
 
 <div id="nav-primary">
@@ -504,6 +496,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 <img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
 								      
+									  
 								  
 							  
 						  
@@ -522,6 +515,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Baseball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -540,6 +534,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Basketball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -558,6 +553,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Boating</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -576,6 +572,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Casual</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -594,6 +591,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cycling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -612,6 +610,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Fitness</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -630,6 +629,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Football</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -648,6 +648,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Golf</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -666,6 +667,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Hiking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -684,6 +686,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 MLB Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -702,6 +705,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 NBA Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -720,6 +724,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 NCAA </a><br>
 								      
+									  
 								  
 							  
 						  
@@ -738,6 +743,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 NFL Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -756,6 +762,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 NHL Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -774,6 +781,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Outerwear</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -792,6 +800,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Performance Apparel</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -810,6 +819,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Running</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -828,6 +838,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Skateboard</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -846,6 +857,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Skiing</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -864,6 +876,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Snowboarding</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -882,6 +895,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Soccer</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -900,6 +914,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Socks</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -918,6 +933,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Spin</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -936,6 +952,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Swimming</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -954,6 +971,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Tennis</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -972,6 +990,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Travel</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -990,6 +1009,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Triathlon</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1008,6 +1028,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Underwear</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1026,6 +1047,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Yoga</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1049,6 +1071,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 <img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1067,6 +1090,26 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Basketball</a><br>
 								      
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Mens-Footwear-Rain-Boots_10551_10051_20000_50305_-1.htm">
+									     
+										 Rain Boots</a><br>
+								      
+									  
 								  
 							  
 						  
@@ -1085,6 +1128,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Baseball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1103,6 +1147,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Boating</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1121,6 +1166,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Clogs</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1139,6 +1185,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Casual</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1157,6 +1204,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cross Training</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1175,6 +1223,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cycling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1193,6 +1242,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Flip-Flops</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1211,6 +1261,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Football</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1229,6 +1280,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Golf</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1247,6 +1299,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Hiking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1265,6 +1318,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Insoles &amp; Pads</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1283,6 +1337,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Mocs</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1301,6 +1356,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Mountaineering</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1319,6 +1375,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Racquetball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1337,6 +1394,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Running</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1355,6 +1413,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Sandals</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1373,6 +1432,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Skate</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1391,6 +1451,26 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Soccer</a><br>
 								      
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Mens-Footwear-Spin_10551_10051_20000_49307_-1.htm">
+									     
+										 Spin</a><br>
+								      
+									  
 								  
 							  
 						  
@@ -1409,6 +1489,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Squash</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1427,6 +1508,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Tennis</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1445,6 +1527,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Trail Multisport</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1463,6 +1546,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Volleyball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1481,6 +1565,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Walking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1499,6 +1584,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Water Shoes</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1517,6 +1603,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Winter Boots</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1535,6 +1622,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Wrestling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1582,6 +1670,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 <img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1600,6 +1689,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Baseball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1618,6 +1708,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Casual</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1636,6 +1727,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cycling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1654,6 +1746,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Fitness</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1672,6 +1765,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Golf</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1690,6 +1784,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Hiking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1708,6 +1803,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Long Underwear</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1726,6 +1822,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Outerwear</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1744,6 +1841,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Running</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1762,6 +1860,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Skiing</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1780,6 +1879,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Snowboarding</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1798,6 +1898,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Soccer</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1816,6 +1917,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Socks</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1834,6 +1936,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Sports Bras</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1852,6 +1955,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Spin</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1870,6 +1974,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Swimming</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1888,6 +1993,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Tennis</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1906,6 +2012,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Travel</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1924,6 +2031,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Triathlon</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1942,6 +2050,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Yoga</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1965,6 +2074,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 <img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
 								      
+									  
 								  
 							  
 						  
@@ -1983,6 +2093,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Baseball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2001,6 +2112,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Basketball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2019,6 +2131,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Boating</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2037,6 +2150,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Casual</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2055,6 +2169,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Clogs</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2073,6 +2188,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cycling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2091,6 +2207,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Fitness</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2109,6 +2226,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Flip-Flops</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2127,6 +2245,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Hiking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2145,6 +2264,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Mocs</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2163,6 +2283,26 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Racquetball</a><br>
 								      
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Womens-Footwear-Rain-Boots_10551_10051_20001_50306_-1.htm">
+									     
+										 Rain Boots</a><br>
+								      
+									  
 								  
 							  
 						  
@@ -2181,6 +2321,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Running</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2199,6 +2340,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Sandals</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2217,6 +2359,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Slides</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2235,6 +2378,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Soccer</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2253,6 +2397,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Spin</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2271,6 +2416,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Tennis</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2289,6 +2435,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Trail Multisport</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2307,6 +2454,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Volleyball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2325,6 +2473,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Walking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2343,6 +2492,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Water Shoes</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2361,6 +2511,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Winter Boots</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2408,6 +2559,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 <img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2426,6 +2578,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Athletic</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2444,6 +2597,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Baseball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2462,6 +2616,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Basketball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2480,6 +2635,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cycling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2498,6 +2654,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Football</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2516,6 +2673,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Hockey</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2534,6 +2692,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Long Underwear</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2552,6 +2711,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 MLB Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2570,6 +2730,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 NFL Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2588,6 +2749,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 NHL Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2606,6 +2768,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Outerwear</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2624,6 +2787,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Performance Apparel</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2642,6 +2806,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Running</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2660,6 +2825,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Skiing</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2678,6 +2844,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Snowboarding</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2696,6 +2863,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Soccer</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2714,6 +2882,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Swimming</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2732,6 +2901,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Tennis</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2755,6 +2925,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 <img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2773,6 +2944,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Baseball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2791,6 +2963,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Basketball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2809,6 +2982,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Casual</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2827,6 +3001,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Classics</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2845,6 +3020,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cross Training</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2863,6 +3039,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Hiking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2881,6 +3058,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Running</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2899,6 +3077,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Sandals</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2917,6 +3096,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Soccer</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2935,6 +3115,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Softball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2953,6 +3134,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Tennis</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -2971,6 +3153,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Water Shoes</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -3020,6 +3203,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3039,6 +3223,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Badminton</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3060,6 +3245,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3079,6 +3265,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Basketball</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3100,6 +3287,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3119,6 +3307,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Boating</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3140,6 +3329,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3159,6 +3349,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Boxing</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3180,6 +3371,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3199,6 +3391,28 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Climbing</a><br>
 								      
                                           
+									  
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									      
+									          
+									      
+								      
+									  
+									  <a href="/category/Gear-Custom-Knives_10551_10051_20003_20022_-1.htm">
+									     
+										 Custom Knives</a><br>
+								      
+                                          
+									  
 									  
 								  
 							  
@@ -3220,6 +3434,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3239,6 +3454,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Darts</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3260,6 +3476,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3279,6 +3496,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Electronics</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3300,6 +3518,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3319,6 +3538,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Football</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3340,6 +3560,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3359,6 +3580,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 GPS &amp; Navigation</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3380,6 +3602,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3399,6 +3622,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Ice Skating</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3420,6 +3644,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3439,6 +3664,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Inline Skating</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3460,6 +3686,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3479,6 +3706,9 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Knives &amp; Tools</a><br>
 								      
                                           
+												
+										  
+									  
 									  
 								  
 							  
@@ -3499,8 +3729,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Lacrosse</a><br>
 								      
                                           
-											<a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?catalogId=10051&amp;storeId=10551&amp;langId=-1&amp;categoryId=20020&amp;parent_category_rn=&amp;top_category=20003&amp;top=&amp;currentPage=&amp;pageView=&amp;ip_state=c0%3Dt%253A9%252F%252F%253Ass%252F%252Fiphrase%2Bbundle%2Btaxonomy%252F%252F%253AGear%253ACamping%26q%3D25%26a0%3Diphrase%2Bbundle%2Btaxonomy%252F%252Fv%253A0%26i%3Dsitemap%2Bid%26qt%3D1275422575%26qid%3Dq8AiTq4wz3MrV%26vid%3Dvgk8np783vmsS%26ioe%3DUTF-8%26s2%3Dsitemap%2Bid%252F%252F1%26qtid%3Dn8AiTq4wz3MrV%26s1%3Diphrase%2BWCSAttr_574793574e70d12fae7c9d5d36057aaa6e33b923%252F%252F1%26rid%3Dr02fDsEZoNcnY%26s0%3Diphrase%2Brelevance%252F%252F0%26t%3D0%26m0%3Diphrase%2Bbundle%2Bid%26mcmode%3Dtest&amp;ip_constrain=e:3//iphrase+WCSAttr_9d3e2d73e5932bf07888de110b421479e6cff003//:eq//Water+Bottles&amp;ip_relax=&amp;ip_textRemoveTerm=&amp;categoryType=">Water Bottles</a><br>
-										  
+									  
 									  
 								  
 							  
@@ -3522,6 +3751,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3541,6 +3771,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Mixed Martial Arts</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3567,6 +3798,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3586,6 +3818,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Platform Tennis</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3607,6 +3840,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3626,6 +3860,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Roller Skating</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3647,6 +3882,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3666,6 +3902,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Sailing</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3687,6 +3924,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3706,6 +3944,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Scuba &amp; Snorkeling</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3727,6 +3966,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3746,6 +3986,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Skiing</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3767,6 +4008,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3786,6 +4028,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Snowboarding</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3807,6 +4050,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3826,6 +4070,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Soccer</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3847,6 +4092,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3866,6 +4112,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Squash</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3887,6 +4134,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3906,6 +4154,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Sunglasses</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3927,6 +4176,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3946,6 +4196,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Swimming</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -3967,6 +4218,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -3986,6 +4238,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Tennis</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -4007,6 +4260,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -4027,6 +4281,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -4046,8 +4301,11 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Watches</a><br>
 								      
                                           
-											<a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?catalogId=10051&amp;storeId=10551&amp;langId=-1&amp;categoryId=20020&amp;parent_category_rn=&amp;top_category=20003&amp;top=&amp;currentPage=&amp;pageView=&amp;ip_state=c0%3Dt%253A9%252F%252F%253Ass%252F%252Fiphrase%2Bbundle%2Btaxonomy%252F%252F%253AGear%253ACamping%26q%3D25%26a0%3Diphrase%2Bbundle%2Btaxonomy%252F%252Fv%253A0%26i%3Dsitemap%2Bid%26qt%3D1275422575%26qid%3Dq8AiTq4wz3MrV%26vid%3Dvgk8np783vmsS%26ioe%3DUTF-8%26s2%3Dsitemap%2Bid%252F%252F1%26qtid%3Dn8AiTq4wz3MrV%26s1%3Diphrase%2BWCSAttr_574793574e70d12fae7c9d5d36057aaa6e33b923%252F%252F1%26rid%3Dr02fDsEZoNcnY%26s0%3Diphrase%2Brelevance%252F%252F0%26t%3D0%26m0%3Diphrase%2Bbundle%2Bid%26mcmode%3Dtest&amp;ip_constrain=e:3//iphrase+WCSAttr_9d3e2d73e5932bf07888de110b421479e6cff003//:eq//Water+Bottles&amp;ip_relax=&amp;ip_textRemoveTerm=&amp;categoryType=">Water Bottles</a><br>
+												
+												<a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?catalogId=10051&amp;storeId=10551&amp;langId=-1&amp;categoryId=20020&amp;parent_category_rn=&amp;top_category=20003&amp;top=&amp;currentPage=&amp;pageView=&amp;ip_state=c0%3Dt%253A9%252F%252F%253Ass%252F%252Fiphrase%2Bbundle%2Btaxonomy%252F%252F%253AGear%253ACamping%26q%3D25%26a0%3Diphrase%2Bbundle%2Btaxonomy%252F%252Fv%253A0%26i%3Dsitemap%2Bid%26qt%3D1275422575%26qid%3Dq8AiTq4wz3MrV%26vid%3Dvgk8np783vmsS%26ioe%3DUTF-8%26s2%3Dsitemap%2Bid%252F%252F1%26qtid%3Dn8AiTq4wz3MrV%26s1%3Diphrase%2BWCSAttr_574793574e70d12fae7c9d5d36057aaa6e33b923%252F%252F1%26rid%3Dr02fDsEZoNcnY%26s0%3Diphrase%2Brelevance%252F%252F0%26t%3D0%26m0%3Diphrase%2Bbundle%2Bid%26mcmode%3Dtest&amp;ip_constrain=e:3//iphrase+WCSAttr_9d3e2d73e5932bf07888de110b421479e6cff003//:eq//Water+Bottles&amp;ip_relax=&amp;ip_textRemoveTerm=&amp;categoryType=">Water Bottles</a><br>
+										    	
 										  
+									  
 									  
 								  
 							  
@@ -4069,6 +4327,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
                                           
 									  
+									  
 								  
 							  
 						  
@@ -4088,6 +4347,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 										 Yoga</a><br>
 								      
                                           
+									  
 									  
 								  
 							  
@@ -4144,6 +4404,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Badminton</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4162,6 +4423,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Baseball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4180,6 +4442,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Basketball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4198,6 +4461,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Boating</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4216,6 +4480,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Bowling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4234,6 +4499,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Boxing</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4252,6 +4518,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Camping</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4270,6 +4537,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cycling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4288,6 +4556,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Darts</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4306,6 +4575,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Football</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4324,6 +4594,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Golf</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4342,6 +4613,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Hiking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4360,6 +4632,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Hockey</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4378,6 +4651,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Ice Skating</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4396,6 +4670,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Inline Skating</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4414,6 +4689,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Kayaking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4432,6 +4708,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Lacrosse</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4450,6 +4727,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Mountaineering</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4468,6 +4746,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Racquetball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4497,6 +4776,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Running</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4515,6 +4795,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Sailing</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4533,6 +4814,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Scuba &amp; Snorkeling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4551,6 +4833,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Skateboarding</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4569,6 +4852,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Skiing</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4587,6 +4871,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Snowboarding</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4605,6 +4890,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Soccer</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4623,6 +4909,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Softball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4641,6 +4928,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Squash</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4659,6 +4947,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Surfing</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4677,6 +4966,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Swimming</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4695,6 +4985,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Table Tennis</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4713,6 +5004,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Tennis</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4731,6 +5023,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Triathlon</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4749,6 +5042,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Volleyball</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4767,6 +5061,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Walking</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4785,6 +5080,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Weightlifting</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4803,6 +5099,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Wrestling</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4821,6 +5118,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Yoga</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4852,6 +5150,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Backpacks &amp; Bags</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4870,6 +5169,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Beach Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4888,6 +5188,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Fan Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4906,6 +5207,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Travel Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4924,6 +5226,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Winter Shop</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -4942,6 +5245,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 			
 			
 			
+				
+					
+				
+					
+				
+					
+				
+					
 				
 					
 				
@@ -5059,6 +5370,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 2XU</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5077,6 +5389,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 adidas</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5095,6 +5408,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Arc'teryx</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5113,6 +5427,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Asics</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5131,6 +5446,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Brooks</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5149,6 +5465,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Burton</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5167,6 +5484,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Calvin Klein Performance</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5185,6 +5503,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Canada Goose</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5203,6 +5522,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Cannondale</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5221,6 +5541,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 CW-X</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5239,6 +5560,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Danskin</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5257,6 +5579,26 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Eagle Creek</a><br>
 								      
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									      
+									          
+									      
+								      
+									  
+									  <a href="/category/Shop-By-Brand-Everlast_10551_10051_27401_27804_-1.htm">
+									     
+										 Everlast</a><br>
+								      
+									  
 								  
 							  
 						  
@@ -5275,6 +5617,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 FootJoy</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5293,6 +5636,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Gore Bike Wear</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5311,6 +5655,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Icebreaker</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5329,6 +5674,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Jansport</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5347,6 +5693,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Keen</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5365,6 +5712,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Marmot</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5383,6 +5731,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Maui Jim</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5401,6 +5750,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Merrell</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5419,6 +5769,26 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Mizuno</a><br>
 								      
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									      
+									          
+									      
+								      
+									  
+									  <a href="/category/Shop-By-Brand-New-Balance_10551_10051_27401_28217_-1.htm">
+									     
+										 New Balance</a><br>
+								      
+									  
 								  
 							  
 						  
@@ -5438,28 +5808,11 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-New-Balance_10551_10051_27401_28217_-1.htm">
-									     
-										 New Balance</a><br>
-								      
-								  
-							  
-						  
-							  
-								  
-								  
-								  
-								      
-									      
-									      
-									          
-									      
-								      
-									  
 									  <a href="/category/Shop-By-Brand-Nike_10551_10051_27401_28223_-1.htm">
 									     
 										 Nike</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5478,6 +5831,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Nixon</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5496,6 +5850,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Oakley</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5514,6 +5869,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Oakley Classics</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5532,6 +5888,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Patagonia</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5550,6 +5907,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Pearl Izumi</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5568,6 +5926,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Phiten</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5586,6 +5945,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Polar</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5604,6 +5964,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Puma</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5622,6 +5983,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Rawlings</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5640,6 +6002,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Rollerblade</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5658,6 +6021,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Salomon</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5676,6 +6040,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Saucony</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5694,6 +6059,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Spyder</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5712,6 +6078,26 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Sugoi</a><br>
 								      
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									      
+									          
+									      
+								      
+									  
+									  <a href="/category/Shop-By-Brand-Suunto_10551_10051_27401_28568_-1.htm">
+									     
+										 Suunto</a><br>
+								      
+									  
 								  
 							  
 						  
@@ -5730,6 +6116,26 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 The North Face</a><br>
 								      
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									      
+									          
+									      
+								      
+									  
+									  <a href="/category/Shop-By-Brand-Toms-one-for-one_10551_10051_27401_49801_-1.htm">
+									     
+										 Toms one for one</a><br>
+								      
+									  
 								  
 							  
 						  
@@ -5748,6 +6154,26 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Under Armour</a><br>
 								      
+									  
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									      
+									          
+									      
+								      
+									  
+									  <a href="/category/Shop-By-Brand-Vibram-Fivefingers_10551_10051_27401_49301_-1.htm">
+									     
+										 Vibram Fivefingers</a><br>
+								      
+									  
 								  
 							  
 						  
@@ -5766,6 +6192,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Victorinox Swiss Army</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5784,6 +6211,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 Wilson</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5802,6 +6230,7 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									     
 										 MORE</a><br>
 								      
+									  
 								  
 							  
 						  
@@ -5836,6 +6265,8 @@ var newsletter_bademail="The email address you entered does not appear to be val
 			  
 			  
 			</li>
+		
+	
 		
 	
 		
@@ -5923,6 +6354,8 @@ var images_to_preload = new Array(
 	      	
 			"/wcsstore/ConsumerDirectStorefrontAssetStore/images/nav-sale-over.gif",
 			"/wcsstore/ConsumerDirectStorefrontAssetStore/images/nav_over_top_style0_sale.png",
+		
+	
 		
 	
 		
@@ -6802,7 +7235,25 @@ If you have any questions or comments regarding our privacy practices, you may c
 <!-- MAIN CONTENT ENDS HERE -->
 		
 		
-      	<!--#include virtual="/includes/footer.inc"-->
+      	
+
+<title>The page you have reuqested cannot be found</title>
+<style>
+body { font-family: Tahoma, Verdana, Arial, sans-serif; }
+</style>
+
+
+<table width="100%" height="100%">
+<tbody><tr>
+<td align="center" valign="middle">
+The page you are looking for is cannot be found.<br>
+Please try again later.
+</td>
+</tr>
+</tbody></table>
+
+
+
 		
 
 <!-- BEGIN LayoutContainerBottom.jspf -->
@@ -7163,16 +7614,29 @@ a.shop{
 background:transparent url(/images/misc/36.png) no-repeat scroll 0 4px;
 padding-left:16px;
 }
+
+#social_media_icons img{
+padding-right: 5px;
+float: left;
+width: 20px;
+height: 20px;
+}
 </style>
 
 <div class="well hours">
-    <b>Store Hours</b><br>
-    Mon - Sat 10:00am - 8:00pm<br>
-    Sun 11:00am - 7:00pm.<br>
+    <b>Store Hours</b><br> 
+    10am - 8pm, Monday to Saturday. <br>
+    11:00am - 7:00pm, Sunday. <br><br>
     867 Broadway, NY, NY 10003<br>
-    1-800-961-3030 or 212-255-8889<br><br>
-	
-   <a href="http://twitter.com/paragonsports"><img border="0" src="/images/misc/twitter1.gif"></a>
+    1-800-961-3030 or 212-255-8889<br>
+<div id="facebook_iframe" style="float: left; width: 120px;"></div>
+
+<script>
+if(document.location.protocol == 'http:'){
+fi = document.getElementById("facebook_iframe");
+fi.innerHTML = '<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FNew-York-NY%2FParagon-Sports%2F118596328186609%3F__a%3D16%26&amp;layout=button_count&amp;show_faces=false&amp;width=150&amp;action=like&amp;font=trebuchet+ms&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" align="left" style="border:none; overflow:hidden; width:90px; height:21px; display: block; float:left;" allowTransparency="true"></iframe>'
+}
+</script>
 </div>
 
 					
@@ -7230,7 +7694,7 @@ padding-left:16px;
 <img style="margin: -2px 0pt 0pt 16px;" src="/images/footer/satisfactionGuarantee2.gif"></a>
 </td>
 <td align="center" style="font-weight:600; padding-left:30px; padding-top:20px; color:#000; font-size:11px;">
-Copyright 2010.<br>
+Copyright 2011.<br>
 Paragon Sports Co. LLC<br>
  All Rights Reserved. 
 </td>
@@ -7248,25 +7712,6 @@ Paragon Sports Co. LLC<br>
 
 </div>
 
-<script type="text/javascript">
-
-    if(http_protocol == false){
-	       document.write('<s'+'cript src="http://www.google-analytics.com/ga.js" type="text/javascript"></s'+'cript>' );
-    }else{
-	     if(noTrans == true){
-	       document.write('<s'+'cript src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></s'+'cript>' );
-		   document.write('<s'+'cript type="text/javascript" src="https://px.steelhousemedia.com/pr?get_px=1&prov_id=8993"></s'+'cript>');
-		  }
-    }	
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript" src="https://px.steelhousemedia.com/pr?get_px=1&amp;prov_id=8993"></script>
-<script type="text/javascript">
-if(trackTrans == false){	
-	try {
-		var pageTracker = _gat._getTracker("UA-8283278-1");
-		pageTracker._trackPageview();
-	} catch(err) {}
-}
-</script>
 <!--END FOOTER-->
 <!-- End - JSP File name:  style1/CachedFooterDisplay.jsp -->
 
