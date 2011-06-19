@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the pba.com privacy policy that was archived on 2010-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218035533id_/http%3A//www.pba.com/Corporate/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pba.com privacy policy that was archived on 2011-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619212741id_/http%3A//www.pba.com/Corporate/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
         <meta name="description" content="Official site of the Professional Bowlers Association. Showcases the tour's players, scores and highlights.">
@@ -35,7 +35,7 @@
     
     
     <script type="text/javascript">
-        $(document).ready(function() {
+        $(document).ready(function () {
 
             $('#fresh-feeds ul').tabs();
             $('#scores ul').tabs();
@@ -50,9 +50,16 @@
 
             $('ul.sf-menu').superfish();
 
-            $('form :input#search').focus(function() {
+            $('form :input#search').focus(function () {
                 $(this).val("");
             });
+
+            //To fix google-generated ad box styling - was pushing search box down
+            //OH 01-17-2011
+            $('#google_ads_div_pba_banner_top_ad_container').css('display', 'inline');
+            $('#google_ads_div_pba_banner_top_ad_container').css('float', 'left');
+            //$('#google_ads_div_pba_livescoring_ad_container').css('width', '300');
+            //END HACK
 
         });
     </script>
@@ -71,7 +78,7 @@
     <![endif]-->
     <!--[if IE]>
     <style type="text/css" media="screen">
-	    #top-search { margin-left: 10px }
+	    /*#top-search { margin-left: 10px }*/
 	    #xtraframe a#xtraframe-home { margin-top: -3px }
     </style>
     <![endif]-->
@@ -94,6 +101,7 @@
     <script type="text/javascript">
         GA_googleAddSlot("ca-pub-3962407635730553", "pba_banner_top");
         GA_googleAddSlot("ca-pub-3962407635730553", "pba_skyscraper_rightcolumn_140x600");
+        GA_googleAddSlot("ca-pub-3962407635730553", "pba_livescoring");
     </script>
 
     
@@ -103,7 +111,7 @@
     <script type="text/javascript">
         GA_googleFetchAds();
     </script>
-
+    <script src="http://www.xtraframe.tv/pba/scripts/inline.js"></script>
 </head>
 <body>
     <div id="wrapper">
@@ -133,6 +141,7 @@
             <div id="nav" class="grid_11">
                 <div id="sub-nav">
                     <ul class="navlist">
+                        <li><a href="http://g2gemini.com/bowling/" target="_blank" style="color:#ffe716">Design Custom Jersey</a></li>
                         <li><a href="/Tickets/">Tickets</a></li>
                         <li><a href="http://www.pbastore.com" target="_blank">Shop</a></li>
                         <li class="last"><a href="http://www.xtraframe.tv/" target="_blank">Xtra Frame</a></li>
@@ -146,14 +155,15 @@
                                 <li><a href="/Tours/PBATour/">PBA Tour</a></li>
                                 <li><a href="/Tours/Regional/">Regional Tour</a></li>
                                 <li><a href="/Tours/Senior/">Senior Tour</a></li>
-                                <li><a href="/Tours/PWS" class="last">Women's Series</a></li>
+                                
                             </ul>
                         </li>
                         <li><a href="/Bowlers/">Bowlers</a>
                             <ul class="navlist">
                                 <li><a id="menu-bowlers-exempt" href="/Bowlers/">Exempt Bowlers</a></li>
-                                <li><a id="menu-bowlers-womensseries" href="/Bowlers/#tab-womensseries">Women's Series Bowlers</a></li>
+                                <li><a id="menu-bowlers-senior" href="/Bowlers/#tab-senior">Senior Tour Bowlers</a></li>
                                 <li><a id="menu-bowlers-halloffame" href="/Bowlers/#tab-halloffame">Hall of Fame Bowlers</a></li>
+                                
                                 
                                 <li><a href="/Bowlers/InTheBag/">In the Bag</a></li>
                                 <li><a href="/SeasonStats/" class="last">Statistics</a></li>
@@ -164,7 +174,8 @@
                                 <li><a href="/Tournaments/PBATour/">PBA Tour</a></li>
                                 <li><a href="/Tours/Regional/">Regional Tour</a></li>
                                 <li><a href="/Tournaments/SeniorTour/">Senior Tour</a></li>
-                                <li><a href="/Tournaments/PWS/">Women's Series</a></li>
+                                <li><a href="/Tournaments/World/">World Bowling Tour</a></li>
+                                <li><a href="/Seasons/PWS/">Women's Series Archives</a></li>
                                 <li><a href="/Seasons/">Season Archives</a></li>
                                 <li><a href="/Television/" class="last">Television</a></li>
                             </ul>
@@ -180,16 +191,20 @@
                         </li>
                         <li><a href="/Corporate/PressRoom/" class="last">Resources</a>
                             <ul id="resources">
-                                <li><a href="/Corporate/PressRoom/">Press Room</a></li>
+                                <li><a href="/Corporate/PressRoom/">Chuck Pezzano PBA Press Room</a></li>
                                 <li><a href="/Corporate/MediaGuide/">Media Guide</a></li>
+                                <li><a href="/Resources/Faqs/">Frequently Asked Questions</a></li>
+                                <li><a href="http://www.pba.com/Content/Files/Members/PointList.pdf" target="_blank">Point List</a></li>
                                 <li><a href="http://www.pba.com/Content/Files/Members/rule_book_cropped.pdf" target="_blank">Rule Book</a></li>
                                 <li><a href="/Resources/ProShops/">Pro Shops</a></li>
+                                <li><a href="http://www.ontheballbowling.com/shop/13" target="_blank">Custom Bowling Balls</a></li>
                                 <li><a href="/ProductRegistration/Manufacturers/">Approved Equipment</a></li>
                                 <li><a href="/Resources/PracticeCenters/">PBA Practice Centers</a></li>
                                 <li><a href="/Resources/ExperienceCenters/">PBA Experience Centers</a></li>
                                 <li><a href="/Resources/InternationalOilPatternProgram/">International Oil Pattern Program</a></li>
                                 <li><a href="/Sponsors/">Official Sponsors</a></li>
                                 <li><a href="/OilPatterns/">Oil Patterns</a></li>
+                                <li><a href="/Resources/HostEvent/">Host a National PBA Tour Event</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -202,14 +217,15 @@
         <div id="page" class="container_16 clearfix">
             <div id="content" class="grid_16">
                 <!-- // Rounded Corners IMG -->
-                <img id="rounded-corner-top" src="http://www.pba.com/Content/images/top-page.png" width="940" height="5" alt="">
+                <img id="rounded-corner-top" src="/Content/images/top-page.png" width="940" height="5" alt="">
                 <div id="toppage-nav" class="clearfix">
                     <div id="tours-links" class="grid_11 alpha">
                         <ul class="navlist">
                             <li><a href="/Tours/PBATour/">Lumber Liquidators PBA Tour</a></li>
-                            <li><a href="/Tours/PWS">Women's Series</a></li>
+                            
                             <li><a href="/Tours/Regional/">Regional</a></li>
-                            <li class="last"><a href="/Tours/Senior">Senior</a></li>
+                            <li><a href="/Tours/Senior">Senior</a></li>
+                            <li class="last"><a href="/Tournaments/World">WBT</a></li>
                         </ul>
                     </div>
                     <!-- // tours-links -->
@@ -356,6 +372,20 @@
             
              
 		            
+
+
+
+<div id="email-widget" class="widget" style="margin-bottom:10px;width:140px;font-size:12px;text-align:left;">
+        <span id="email-signup">EMAIL SIGNUP</span>
+        <link href="https://app.e2ma.net/css/signup.sml.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="https://app.e2ma.net/app/view:SignupForm/signupId:1362656/key:2cbbe23c7b67b0eaba2bfaf45d944c55/acctId:1360216"></script>
+        <div id="load_check" class="signup_form_message">This form needs Javascript to display, which your browser doesn't support. <a href="https://app.e2ma.net/app/view:Join/signupId:1362656/acctId:1360216"> Sign up here</a> instead </div>
+        <script type="text/javascript">          
+        signupFormObj.drawForm();
+        </script>
+        </div>
+
+
 <div id="side-ad">
 	<script type="text/javascript">
       GA_googleFillSlot("pba_skyscraper_rightcolumn_140x600");
@@ -397,10 +427,14 @@
                         </ul>
                         <ul>
                             <li><a href="http://www.gorving.com/" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.gorving.com/');" id="spons-go-rving">Go RVing</a></li>
+                            <li><a href="http://www.justformen.com/" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.justformen.com/');" id="spons-justformen">Just For Men</a></li>
+                            <li><a href="http://www.lucasoil.com/" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.lucasoil.com/');" id="spons-lucas">Lucas Oil</a></li>
                             <li><a href="http://www.lumberliquidators.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.lumberliquidators.com/');" id="spons-lumberliquidators">Lumber Liquidators</a></li>
                             <li><a href="http://oneaday.com/" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.lumberliquidators.com/');" id="spons-oneaday">One A Day</a></li>
                             <li><a href="http://www.pepsi.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.pepsi.com/');" id="spons-pepsi">Pepsi</a></li>
-                            <li><a href="http://www.bowl.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.bowl.com/');" id="spons-usbc">USBC</a></li>
+                        </ul>
+                        <ul>
+                        <li><a href="http://www.bowl.com" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/www.bowl.com/');" id="spons-usbc">USBC</a></li>
                         </ul>
                     </div>
                     <!-- //  -->
@@ -414,7 +448,7 @@
             <div class="inner">
                 <div class="grid_7">
                     <p>
-                        © 2000-2010
+                        © 2000-2011
                         Professional Bowlers Association.
                         <br>
                         All rights reserved.</p>
@@ -436,7 +470,7 @@
                         <li><a href="/Corporate/TermsOfUse/">Terms of Use</a></li>
                         <li><a href="/Corporate/Scholarships/">Scholarships</a></li>
                         <li><a href="/Sponsors">Sponsors</a></li>
-                        <li><a href="/Corporate/Careers/">Careers</a></li>
+                       
                     </ul>
                 </div>
                 <div class="grid_2">
@@ -445,7 +479,7 @@
                         <li><a href="/Bowlers/">Bowlers</a></li>
                         <li><a href="/Tournaments/">Schedule</a></li>
                         <li><a href="/LiveScoring/">Live Scoring</a></li>
-                        <li><a href="/Corporate/PressRoom/">Pressroom</a></li>
+                        <li><a href="/Corporate/PressRoom/">Chuck Pezzano PBA Press Room</a></li>
                     </ul>
                 </div>
                 <div class="grid_2">
@@ -459,9 +493,10 @@
                 <div class="grid_3">
                     <ul>
                         <li><a href="/Tours/PBATour/">Lumber Liquidators PBA Tour</a></li>
-                        <li><a href="/Tours/PWS">Women's Series</a></li>
+                        
                         <li><a href="/Tours/Regional/">Regional Tour</a></li>
                         <li><a href="/Tours/Senior">Senior Tour</a></li>
+                        <li><a href="/Tournaments/World/">World Bowling Tour</a></li>
                     </ul>
                 </div>
             </div>
