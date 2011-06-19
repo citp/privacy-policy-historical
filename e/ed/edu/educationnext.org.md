@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationnext.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225145850id_/http%3A//educationnext.org/sub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationnext.org privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619145721id_/http%3A//educationnext.org/sub/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Education Next
 
@@ -68,7 +68,7 @@ Harvard Kennedy School Program on Educational Policy and Governance
 
 Thomas Fordham Institute - Advancing Educational Excellence and Education Reform
 
-[](http://educationnext.org/ed-next-poll-top-books-of-the-decade/)
+[](http://educationnext.org/sub/)
 
 ##### Sign Up To Receive Notification
 
