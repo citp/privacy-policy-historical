@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobbcountyga.gov privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218003328id_/http%3A//www.cobbcountyga.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobbcountyga.gov privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619074214id_/http%3A//www.cobbcountyga.gov/privacy.htm) for the most accurate reproduction.*
 
 # Cobb County Privacy Policy
 
