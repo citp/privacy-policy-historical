@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caribbeanjobs.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228151626id_/http%3A//caribbeanjobs.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeanjobs.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619082121id_/http%3A//www.caribbeanjobs.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy : Caribbean Jobs, Jobs Abroad, International Jobs - caribbeanjobs.com
 
