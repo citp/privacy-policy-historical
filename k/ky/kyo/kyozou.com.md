@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the kyozou.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012012738id_/http%3A//www.kyozou.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyozou.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619195959id_/http%3A//www.kyozou.com/index.php/main/privacy-statement.html) for the most accurate reproduction.*
 
-# Kyozou | Power Your Online Marketplace | Privacy Policy
+# Privacy Statement | Kyozou eCommerce Solutions | Kyozou eCommerce Solutions
 
 Kyozou Inc. ( **Kyozou** ) respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
-## TEN PRINCIPLES TO COLLECTING PERSONAL INFORMATION
+#### TEN PRINCIPLES TO COLLECTING PERSONAL INFORMATION
 
 Kyozou subscribes to the 10 Principles set out by the Canadian Standards Association with respect to Personal Information:
 
 **Accountability** Kyozou is responsible for personal information under its control and shall designate an individual or individuals who are accountable for the organization's compliance with the following principles.
 
-**Identifying Purposes** The purposes for which personal information is collected shall be identified by Kyozou at or before the time the information is collected. 
+**Identifying Purposes** The purposes for which personal information is collected shall be identified by Kyozou at or before the time the information is collected.
 
-**Consent:** The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except when inappropriate. 
+**Consent:** The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except when inappropriate.
 
-**Limiting Collection:** The collection of personal information shall be limited to that which is necessary for the purposes identified by Kyozou.  Information shall be collected by fair and lawful means. 
+**Limiting Collection:** The collection of personal information shall be limited to that which is necessary for the purposes identified by Kyozou.  Information shall be collected by fair and lawful means.
 
-**Limiting Use, Disclosure, and Retention:** Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by the law.  Personal information shall be retained only as long as necessary for fulfillment of those purposes. 
+**Limiting Use, Disclosure, and Retention:** Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by the law.  Personal information shall be retained only as long as necessary for fulfillment of those purposes.
 
-**Accuracy:** Personal information shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used. 
+**Accuracy:** Personal information shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used.
 
-**Safeguards:** Personal information shall be protected by security safeguards appropriate to the sensitivity of the information. 
+**Safeguards:** Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.
 
-**Openness:** Kyozou shall make readily available to individuals specific information about its policies and practices relating to the management of personal information. 
+**Openness:** Kyozou shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
 
-**Individual Access:** Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate. 
+**Individual Access:** Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
 
 **Challenging Compliance:** An individual shall be able to address a challenge concerning compliance with the above principles to the designated individual or individuals responsible for Kyozous compliance with these principles.
 
@@ -44,7 +44,7 @@ A cookie is a small data file that certain Web sites write to your hard drive wh
 
 ## INFORMATION SHARING AND DISCLOSURE
 
-Kyozou will use its best efforts to protect the following: i) your personal information; ii) your financial information; and iii) any other information, the collection and disclosure of which would constitute an offence under Privacy Protection legislation in force from time to time in the Province of Ontario and/or Canada (collectively, the **Protected Information** ).  The Protected Information is never shared outside of Kyozou and its Related Companies without your consent.  Kyozou will only disclose the Protected Information in the following circumstances: i) in accordance with the purposes for which it was collected; ii) when  Kyozou deems it is necessary to disclose the Protected Information to satisfy any applicable law, regulation, legal process or governmental request; and/or iii) under conditions explained below.
+Kyozou will use its best efforts to protect the following: i) your personal information; ii) your financial information; and iii) any other information, the collection and disclosure of which would constitute an offence under Privacy Protection legislation in force from time to time in the Province of Ontario and/or Canada (collectively, the **Protected Information** ).  The Protected Information is never shared outside of Kyozou and its Related Companies without your consent.  Kyozou will only disclose the Protected Information in the following circumstances: i) in accordance with the purposes for which it was collected; ii) when Kyozou deems it is necessary to disclose the Protected Information to satisfy any applicable law, regulation, legal process or governmental request; and/or iii) under conditions explained below.
 
 Inside Kyozou, data is stored in controlled servers with limited access. Your information may be stored and processed in Canada or any other country where Kyozou and its Related Companies are located.
 
@@ -66,4 +66,4 @@ Kyozou will amend this policy from time to time. If we make any substantial chan
 
 ## Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at: [ info@kyozou.com](mailto:info@kyozou.com?subject=Privacy%20Policy%20Inquiry).
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at: [info@kyozou.com](mailto:info@kyozou.com?subject=Privacy%20Policy%20Inquiry).
