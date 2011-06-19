@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discovercard.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120224739id_/http%3A//www.discovercard.com/customer-service/privacy-policies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discovercard.com privacy policy that was archived on 2011-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619134222id_/http%3A//www.discovercard.com/customer-service/privacy-policies) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -378,10 +378,11 @@
 							<p><strong>Privacy Policies</strong></p>
 							<p>We provide our privacy policies online so you can understand the steps we have taken to safeguard your personal information. Read more by clicking the links below.</p>
 							<p class="policylink"><strong>Discover Card Privacy Policy</strong></p>
+							<p class="policylink"><a title="Discover Business Card Privacy Policy" href="/customer-service/privacy-policies/business-card-policy.html">Discover Business Card Privacy Policy</a></p>
 							<p class="policylink"><a title="Discover Personal Loans Privacy Policy" href="http://www.discoverpersonalloans.com/ploans/html/privacypolicy/ac_privacy_policy.shtml">Discover Personal Loans Privacy Policy</a></p>
 							<p class="policylink"><a title="Discover Student Loans Privacy Policy" href="http://www.discoverstudentloans.com/policies/privacy-policy.aspx">Discover Student Loans Privacy Policy</a></p>
 							<p class="policylink"><a title="Discover Savings Privacy Policy" href="http://www.discoverbank.com/privacy-policy.html">Discover Savings Privacy Policy</a></p>
-						</div>
+					  </div>
 					</div>
 				</div>
 			
@@ -413,7 +414,7 @@
 			<div class="link-group">
 				<h1>Credit Cards</h1>
 				<ul>
-					<li><a href="/credit-cards/index.html#CashbackCards" title="Cash Rewards Card">Cash Rewards Card</a></li>
+					<li><a href="/credit-cards/#CashbackCards" title="Cash Rewards Card">Cash Rewards Card</a></li>
 					<li><a href="/miles/" title="Miles Card">Miles Card</a></li>
 					<li><a href="/business/" title="Small Business Card">Small Business Card</a></li>
 					<li><a href="/credit-cards/" title="All Credit Cards">All Credit Cards</a></li>
@@ -436,7 +437,7 @@
 					<li><a href="http://www.discoverbank.com/" title="Savings Products">Savings Products</a></li>
 					<li><a href="http://www.discoverstudentloans.com/?acmpgn=O_DCC_H_UN_007" title="Student Loans">Student Loans</a></li>
 					<li><a href="http://www.discoverpersonalloans.com/" title="Personal Loans">Personal Loans</a></li>
-					<li><a href="http://www2.discovercard.com/shopcenter/giftcard.shtml" title="Gift Cards">Gift Cards</a></li>
+					<li><a href="/shopcenter/giftcard.shtml" title="Gift Cards">Gift Cards</a></li>
 				</ul>
 			</div>
 			
@@ -448,7 +449,7 @@
 					<li><a href="https://www.discovercard.com/cardmembersvcs/smc/requestCMAgreement" title="Cardmember Agreements">Cardmember Agreements</a></li>
 					<li><a href="/customer-service/account/international.html" title="International Acceptance">International Acceptance</a></li>
 					<li><a href="/customer-service/fraud/lost-stolen.html" title="Report Lost or Stolen Card">Report Lost or Stolen Card</a></li>
-					<li><a href="http://www.discovercard.com/scripts/PageExit.htm?log=1&amp;v_eurl=http://debit.discovernetwork.com/cal/cash-access-locator.html" title="ATM Locator">ATM Locator</a></li>
+					<li><a href="http://www.discovercard.com/scripts/PageExit.htm?log=1&amp;v_eurl=http://debit.discovernetwork.com/cal/search.do" title="ATM Locator">ATM Locator</a></li>
 				</ul>
 			</div>
 			
@@ -466,7 +467,7 @@
 		</div>
 		
 		<div class="logo-line">
-			<h2><a href="/cashbackbonus/index.html" title="It pays to Discover">It pays to Discover</a></h2>
+			<h2><a href="/cashbackbonus/" title="It pays to Discover">It pays to Discover</a></h2>
 			<!--Search Form Starts Here-->
 			<div class="footer-search">
 				<form action="http://search.discovercard.com/search" method="get" name="search" title="Search Discover">
@@ -479,9 +480,9 @@
 				</form>
 			</div>
 			<!--Search Form Ends Here-->
-			<ul class="additional-links">
-				<li><a href="/customer-service/security/soan.html" title="Secure Online Account Numbers">Secure Online Account Numbers</a></li>
-			</ul>
+			<!-- <ul class="additional-links">
+				
+			</ul> -->
 		</div>
 		
 	</div>
@@ -509,12 +510,20 @@
 var vlc = "0"; //Capture Link Click 1=TRUE, 0=FALSE
 //var v=();
 </script>
-<!-- Begin Google Analytics code - Installed 10/28/10 WSCR#101022-03-->
+<!-- Begin Google Analytics code - Installed 10/28/10 WSCR#101022-03 Updated on WSCR#CR110217-02-->
 <script type="text/javascript">
 
+  var acLoginInd = 'false';
+
+  if (document.cookie.indexOf('dfsedskey') != -1) 
+    acLoginInd = 'true';
+
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19263920-1']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(
+    ['_setAccount', 'UA-19263920-1'],
+    ['_setCustomVar', 5, 'AC_Login', acLoginInd, 2],
+    ['_trackPageview']
+  );
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -523,7 +532,7 @@ var vlc = "0"; //Capture Link Click 1=TRUE, 0=FALSE
   })();
 
 </script>
-<!-- End Google Analytics code - Installed 10/28/10 WSCR#101022-03-->
+<!-- End Google Analytics code - Installed 10/28/10 WSCR#101022-03 Updated on WSCR#CR110217-02-->
 <noscript>
 <img src="/images/zag.gif?Log=1%26v_jd=1" border="0" width="1" height="1" alt="" />
 </noscript>
