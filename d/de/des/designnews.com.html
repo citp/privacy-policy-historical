@@ -1,365 +1,498 @@
-<!--The following is the downloaded HTML source of the designnews.com privacy policy that was archived on 2010-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123041945id_/http%3A//www.designnews.com/common/jumplink.php%3Ftarget%3Dhttp%253A%252F%252Fwww.cancom.com%252Fprivacy_policy%252F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designnews.com privacy policy that was archived on 2011-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619223753id_/http%3A//www.designnews.com/common/jumplink.php%3Ftarget%3Dhttp%253A%252F%252Fwww.ubmtechnology.com%252Funited-business-media-llc-privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<!-- Created by Dominic Winter UBM Canon July 2007-->
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>UBM Canon - Privacy Policy</title>
-    <meta name="description" content="UBM Canon is committed to protecting and respecting your privacy. This privacy policy and the other documents referred to herein set out the basis on which any personal data we obtain from you will be used by us.">
-    <meta http-equiv="content-language" content="en-US">
-    <meta name="venue" content="www.canontradeshows.com">
-    <meta name="locale" content="en-US">
-    <meta name="robots" content="index,follow">
-    <meta name="venue" content="www.canontradeshows.com">
-    <meta name="date" content="2007-07-26">
-<!-- HEADER -->
+<title>UBM - United Business Media LLC Privacy Notice Highlights</title>
+<base href="http://www.ubm.com">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="icon" href="/ubm/images/favicon.ico">
+<link rel="shortcut icon" href="/ubm/images/favicon.ico">
+<link href="http://www.unitedbusinessmedia.com/ubm/media/releases/?t=rss_press" rel="alternate" type="application/rss+xml" title="Press Releases">
+<link href="http://www.unitedbusinessmedia.com/ubm/ir/calendar/?t=rss_eventsnew" rel="alternate" type="application/rss+xml" title="Calendar">
+<link href="http://events.ubm.com/rss" rel="alternate" type="application/rss+xml" title="Upcoming UBM Events">
+<link href="/ubm/css/global_sept9.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/ubm/css/topnav.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/ubm/css/main.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/ubm/css/inlinenav.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/ubm/css/print2.css" rel="stylesheet" type="text/css" media="print">
+
+
+<script language="javascript" type="text/javascript">
+// online form validation function
+function checkForm(form)
+{
+if (document.contactForm.annrep.checked == false && document.contactForm.intrep.checked == false &&	document.contactForm.annintrep.checked == false &&	document.getElementById("annintrep3").checked == false && document.getElementById("annintrep2").checked == false &&	document.contactForm.mailinglist.checked == false)
+ {
+      alert ('Select atleast one report');		
+      return false;		
+ }	
+
+    intro = 'Please provide the following information:\n\n';
+    msg = '';
+    regex = /^.+\@(\[?)[a-zA-Z0-9\-\.]+\.([a-zA-Z]{2,3}|[0-9]{1,3})(\]?)$/;
+    if(document.contactForm.surname.value==''){msg+='Surname\n';}
+    if(document.contactForm.address1.value==''){msg+='Address\n';}
+    if(document.contactForm.city.value==''){msg+='City\n';}
+    if(document.contactForm.county.value==''){msg+='County or State\n';}
+    if(document.contactForm.postzipcode.value==''){msg+='Post or Zip code\n';}
+    if(document.contactForm.country.value==''){msg+='Country\n';}
+    if(msg==''){return true}
+    else if (msg!= ''){alert(intro + '\n' + msg);return false;}
+}
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+
+
+<script src="/ubm/js/common.js" language="javascript" type="text/javascript"></script>
+<script src="/ubm/js/fontsize.js" language="javascript" type="text/javascript"></script>
+<!-- 	//document.getElementById("fontID").innerHTML = (int_fontSize + int_unitType); -->
+
+<script language="javascript">
+function ValidatePhase1()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer/entry/";
+				}			
+
+	}
+
+function ValidatePhase2()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+
+function ValidatePhase3()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer2/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer2/entry/";
+				}			
+
+	}
+
+function ValidatePhase4()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults2","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+
+function ValidatePhase5()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer3/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer3/entry/";
+				}			
+
+	}
+
+function ValidatePhase6()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults_rns","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+function Set_Cookie( name, value, expires, path, domain, secure )
+{
+var today = new Date();
+today.setTime( today.getTime() );
+if ( expires )
+{
+expires = "";
+}
+var expires_date = "" ;
+
+document.cookie = name + "=" +escape( value ) +
+( ( expires ) ? ";expires=" + expires_date : "" ) +
+( ( path ) ? ";path=" + path : "" ) +
+( ( domain ) ? ";domain=" + domain : "" ) +
+( ( secure ) ? ";secure" : "" );
+}
+
+
+function Get_Cookie( check_name ) {
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f
+
+	for ( i = 0; i < a_all_cookies.length; i++ )
+	{
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		if ( cookie_name == check_name )
+		{
+			b_cookie_found = true;
+			if ( a_temp_cookie.length > 1 )
+			{
+				cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+			}
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if ( !b_cookie_found )
+	{
+		return false;
+	}
+}
+
+
+function getQuerystring(key)
+{
+  key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regex = new RegExp("[\\?&]"+key+"=([^&#]*)");
+  var qs = regex.exec(window.location.href);
+  if(qs == null)
+    return false;
+  else
+    return qs[1];
+} 
+</script>
+
+
+
+
+</head>
+<body>
+<div id="access">
+
+  <a href="#maincontent" accesskey="M">Skip to main content [Access key M]</a><br>
+  <a href="/ubm/sitetools/sitemap/" accesskey="S">Jump to the site map [Access key S]</a><br>
+  <a href="#localnav" accesskey="L">Skip to the second level navigation [Access key L]</a><br>
+  <a href="#mainnav" accesskey="N">Return to main site navigation [Access key N]</a>
+</div>
+<div id="wrapper">
+<a name="top"></a><!-- start logo, toplinks and search field --> 
+  <div id="topBlock">     
+    <div id="logo"><a href="/ubm/"><img src="/ubm/images/ubmlogos.gif" alt="UBM logo and link to home page" border="0"></a></div> 
+    <div id="searchArea"> 
+      
+
+<script type="text/javascript">
+
+var $j=jQuery.noConflict();
+var $q=jQuery.noConflict();
+$j(document).ready(function(){
+							$j("ul.topnavitemscontainer1 li").dropdown()
+							});
+$j.fn.dropdown=function(){
+	$j(this).hover(function(){$j("ul:first",this).css("visibility","visible")
+						},function(){
+	$j("ul:first",this).css("visibility","hidden")})};
+	
+	$q(document).ready(function(){$q("#group_websites").click(function(){
+				$q("#groupSitesContainer").slideToggle("fast")});$q("#groupSitesContainer").click(function(){$q("#groupSitesContainer").slideToggle("fast")})}
+									 );
+
+</script>
+
+<div id="rsstop"><a href="/ubm/sitetools/rssfeeds/"><img src="/siteware/rss_newa.gif" alt="Link to the RSS feeds" border="0" align="right"></a></div>
+<div id="sitelinks">
+
+        <ul> 
+          <li class="links"><a href="/ubm/sitetools/alert/" class="last">Email Alerts</a></li> 
+          <li class="links"><a href="/ubm/aboutus/contactus/" class="contactus">Contact Us</a></li> 
+          
+       <li class="links" id="group_websites"><a href="javascript:void(0);">UBM businesses</a></li>
+
+          <li class="linkhome"><a href="/ubm/">Home</a></li> 
+        </ul> 
+      </div> 
+      <div id="searchBlock"> 
+        <form action="/ubm/sitetools/search" method="get" name="freesearch"> 
+
+<input type="hidden" name="conf" value="htdig.ubm">
+          <div id="searchfield"> 
+            <input class="small" name="freesearch" type="text" value=" Search UBM site..." style="width:125px;" maxlength="50"> 
+          </div> 
+          <div id="searchbutton"> 
+            <input type="image" value="GO" src="/ubm/images/searchbutton.jpg" class="searchbutton"> 
+          </div> 
+        </form> 
+      </div> 
+      
+      
+  <div class="groupSitesContainer" id="groupSitesContainer" style="display: none;">
+  <ul id="groupSitesgroup-sitesUL" class="groupSitesgroup-sitesUL">
+   
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmasia.com">UBM Asia</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmaviation.com">UBM Aviation</a></li>
+
+    
+<li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmbuiltenvironment">UBM Built Environment</a></li>
+ 
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmcanon.com">UBM Canon</a></li>   
+    <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmconferences">UBM Conferences</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmconnect">UBM Connect</a></li>
+
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmglobaltrade.com">UBM Global Trade</a></li>
+  
+      <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmlive">UBM Live</a></li>
+
+    
+  <li><a target="_blank" title="Opens in a new window" href="http://www.ubmmedica.com/">UBM Medica</a></li>
+  
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmstudios.com/">UBM Studios</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmtechinsights.com/">UBM TechInsights</a></li>  
+     
+ <li><a target="_blank" title="Opens in a new window" href="http://www.ubmtechweb.com">UBM TechWeb</a></li>  
+ <li><a target="_blank" title="Opens in a new window" href="http://eetimesgroup.com/">EE Times Group</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.everythingchannel.com">Everything Channel</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.prnewswire.com">PR Newswire</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.risiinfo.com">RISI</a></li>       
+      
+  </ul>
+
+</div>    
+
+
 <style type="text/css">
-<!--
-.line {
-	background-color: #CCCCCC;
-	height: 3px;
+
+.groupSitesContainer {
+background:#FFFFFF none repeat scroll 0 0;
+border-left:1px solid #002878;
+border-right:1px solid #002878;
+border-bottom:1px solid #002878;
+border-top:0 none;
+left:0;
+position:absolute;
+top:30px;
+z-index:5000;
+z-order:4000;
+left:-138px;
+
 }
-#title {
-	text-align: center;
-	width: 720px;
+
+.groupSitesContainer ul#groupSitesgroup-sitesUL {
+	border:0px solid #253370;
+    border-top:1px solid #253370;
+	background:#fff;
+	padding:0px;
+	margin:0px;
+	width:604px;
 }
-body,td,th {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
+.groupSitesContainer ul#groupSitesgroup-sitesUL li {
+	background:0 none;
+    width:151px;
+    float:left;
+    font-weight:normal;
+	list-style:none;
 }
-a:link{
-	color: #0099FF;
-	background-color: transparent;
-	text-decoration:none;
+.groupSitesContainer ul#groupSitesgroup-sitesUL li:hover {
+	color:#BAB5A9;
 }
-a:visited{
-	color: #0099FF;
-	background-color: transparent;
-	text-decoration:none;
+
+
+.groupSitesContainer ul#groupSitesgroup-sitesUL li a {
+	border-bottom:1px solid #E2D8AF;
+	color:#253370;
+	display:block;
+	margin:0 10px;
+	padding:5px 0;
+	font-size:10px;
+
 }
-a:hover, a:active{
-	color: #f1a629;
-	background-color: transparent;
-	text-decoration:none;
-}
-}
-.style2 {font-size: 12px}
-h4 {
-	font-size: 12px;
-}
-h2 {
-	font-size: 16px;
-}
-.toc {
-	font-weight: bold;
-	color: #999999;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-left: 10px;
-	font-size: 14px;
-	margin-top: 10px;
-	margin-right: 10px;
-	margin-bottom: 5px;
-	margin-left: 10px;
-}
-h3 {
-	font-size: 18px;
-	color: #93A2B7;
-}
-body {
-	background-color: #CCCCCC;
-}
-.contact {
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 20px;
-	padding-left: 0px;
-}
-.style4 {font-weight: bold; color: #333333; padding-top: 0px; padding-bottom: 0px; padding-left: 10px; font-size: 14px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; margin-left: 10px; }
-.style10 {color: #000000}
-.footer {
-	color: #FFFFFF;
-	margin: 10px;
-}
--->
+
+.groupSitesContainer ul#groupSitesgroup-sitesUL li a:hover {
+	color:#BAB5A9;
+	}
+
 </style>
-<!-- SiteCatalyst code version: H.15.1.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://www.devicelink.com/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=""
-s.pageType=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-s.prop6=""
-/* Conversion Variables */
-s.events=""
-s.eVar12=""
-/* Hierarchy Variables */
-s.hier1=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!-- End SiteCatalyst code version: H.15.1. -->
-<!-- END HEADER -->
+    </div> 
+  </div> 
+  <!-- end logo, toplinks and search field --> 
+  <!-- start top navigation --> 
+  <a name="topnav"></a><div id="topnav"><noindex>
+    <ul> 
+      <li id="nav1a"><a href="/ubm/aboutus/">About Us</a></li>
+      <li><a href="/ubm/ourbusinesses/">Our Businesses</a></li> 
+      <li><a href="/ubm/ir/">Investor Relations</a></li> 
+      <li><a href="/ubm/media/">Media Centre</a></li> 
+      <li><a href="/ubm/governance/">Governance</a></li> 
+      <li><a href="/ubm/workingubm/" class="last">Working at UBM</a></li> 
+    </ul> 
 
-<!-- BEGIN WRAPPER TABLE, 1 COLUMN, MAIN -->
-</head><body><br><a name="top"></a><table width="720px" border="0" align="center" cellpadding="0" cellspacing="20" bgcolor="#FFFFFF">
-<tbody><tr><td width="100%" valign="top">
-
-<div class="title" align="center"><img src="media/ubm_canon_center_bw.gif" alt="UBM Canon" width="81" height="128" hspace="10"></div>
-<table border="0" cellpadding="0" cellspacing="2" width="100%">
-<tbody><tr><td class="line"></td></tr><tr><td class="line"></td></tr>
-<tr>
-  <td align="right"><span class="style10">Last modified on May 4, 2010</span></td>
-
-</tr><tr><td><h3 align="center">Privacy Policy</h3>
-</td></tr></tbody></table>
-<!-- MAIN CONTENT -->
-<!-- BEGIN TOC -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr bgcolor="#B1BCCB"><td><div class="style4">
-Table of Contents</div></td>
-</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td>
-<table summary="" class="vatop" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr bordercolor="#B1BCCB" bgcolor="#F2F1FE" class="grey1"><td width="52%" valign="top"><div>
-<ol>
-<li><a href="#go2_0">Introduction</a></li>
-<li><a href="#go2_1">Children's privacy </a></li>
-<li><a href="#go2_2">How we may obtain your personal  information</a></li>
-<li><a href="#go2_3">IP addresses and cookies</a></li>
-<li><a href="#go2_4">Where we store and process your personal information</a></li>
-<li><a href="#go2_5">Security</a></li>
-<li><a href="#go2_6">Uses made of your personal information</a></li>
-<li><a href="#go2_7">Disclosure of your personal information</a></li>
-<li><a href="#go2_8">How long will we retain your personal data?</a></li>
-</ol>
-</div></td>
-<td width="48%" valign="top"><div>
-<ol start="10">
-<li><a href="#go2_9">Can you change your data?</a></li>
-<li><a href="#go2_10">Your rights</a></li>
-<li><a href="#go2_11">Access to information</a></li>
-<li><a href="#go2_12">Changes to our privacy policy</a></li>
-<li><a href="#go2_13">Queries and questions</a></li>
-<li><a href="#go2_14">Email addresses</a></li>
-<li><a href="#go2_15">Disclaimer</a></li>
-<li><a href="#go2_16">Contact</a></li>
-</ol>
-</div></td>
-</tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
-<!-- END TOC -->
+</noindex></div> 
+  <!-- end top navigation --> 
+  <!-- start breadcrumb, print and font size icons --> 
+  <div id="breadcrumbBar"> 
+    <div id="breadcrumb"><span class="black">You are here:</span> 
 
 
-<a name="go2_0"></a>
-<h4>Introduction</h4>
-<p>UBM Canon is committed to protecting and respecting your privacy.</p>
-<p> This privacy policy and the other documents referred to herein set out the basis on which any personal data we obtain from you will be used by us.  This policy applies to our website and all of our trade show, trade conference, award and publication websites only, and does not apply to any other website or offline contact point.  References in this policy to “the website,” “this website,” “the site” or “this site” include all of our related trade show, trade conference, award and publication websites, whether accessible from this website or directly.  By visiting the website and allowing us to collect personal data from you, you are agreeing to and accepting the practices in this privacy policy.</p>
-<p>This website is maintained by UBM Canon and is designed to display information about our trade shows, trade conferences, awards and publications in the US, the UK and other countries around the world.  References in this privacy policy to UBM Canon, “we,” “our” or “us” are to UBM Canon and its subsidiaries and affiliates.  Our contact information is described under “Contact” at the end of this policy.</p>
+<a class="breadcrumb" href="/ubm/">Home</a> / United Business Media LLC Privacy Notice Highlights </div> 
+    <div id="icons"> 
+      <div id="print">
+	   <div id="printtext">Print</div> 
+        <div id="printicon"><a href="javascript:window.print();"><img src="/ubm/images/print_icon.gif" alt="Print this page (requires JavaScript)" width="13" height="13" border="0"></a></div> 
+	  </div>  
+      <div id="fontsize"> 
+        <div id="fonttext">Font size</div> 
+        <div id="fonticons"><a href="#" onclick="setFontSize('-');return false;"><img src="/ubm/images/font_minus.jpg" alt="Decrease the font size (requires JavaScript)" width="13" height="13" border="0"></a>&nbsp;<a href="#" onclick="setFontSize('+');return false;"><img src="/ubm/images/font_plus.jpg" alt="Increase the font size (requires JavaScript)" width="13" height="13" border="0"></a></div> 
+      </div> 
+    </div> 
+  </div> 
+  <!-- end breadcrumb, print and font size icons --> 
+  <!-- start main --> 
+  <div id="main"> 
+    <div id="mainwrapper"> 
+      <!-- start left nav block --> 
+      <div id="leftnavBlock"> 
+        <div id="leftnavTitle">Site Contents</div> 
+         <div id="leftnav">
 
+<ul id="navlist">
 
-<p>
-<img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="named style2"> Back to top</a></p>
+	<li class="nav2"><a href="http://legal.us.ubm.com/">Home</a></li>
+	<li class="nav2"><a href="http://legal.us.ubm.com/privacy-notice-highlights/">Privacy Notice Highlights</a></li>
+    <li class="nav2"><a href="http://legal.us.ubm.com/privacy-notice/">Privacy Notice</a></li>
+    <li class="nav2"><a href="http://legal.us.ubm.com/terms-of-service/">Terms of Service</a></li>
+    <li class="nav2"><a href="http://legal.us.ubm.com/copyright-notice/">Copyright Notice</a></li>
+    <li class="nav2" style="display:none;"><a href="http://legal.us.ubm.com/privacy-notice/#More_info">More info about Cookies</a></li>
+    <li class="nav2" style="display:none;"><a href="http://legal.us.ubm.com/privacy-notice/#Choices">Your Choices</a></li>
+		</ul>
+<br><br>
+         </div> 
+      </div> 
+      <!-- end left nav block --> 
+      <!-- start contentBlock --> 
+      <div id="contentBlock"> 
+        
+        <!-- start textBlock --> 
 
-<a name="go2_1"></a>
+<div id="textBlock"> 
+          <div id="header" style="padding-left:20px; padding-right:20px;">                    <h1>United Business Media LLC Privacy Notice Highlights</h1>
 
-
-<h4>Children's privacy</h4>
-<p>PARENTS AND CHILDREN:</p>
-<p>For residents of the United  States: THIS SITE IS NOT INTENDED FOR USE BY CHILDREN UNDER THE AGE OF 13, AND  WE DO NOT KNOWINGLY COLLECT ANY PERSONAL INFORMATION WHATEVER FROM CHILDREN  UNDER THE AGE OF 13. </p>
-
-<p>For all other persons: THIS  SITE IS NOT INTENDED FOR USE BY CHILDREN UNDER THE AGE OF 18, AND WE DO NOT  KNOWINGLY COLLECT ANY PERSONAL INFORMATION WHATEVER FROM CHILDREN UNDER THE AGE  OF 18.</p>
-
-<p>
-<img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_2"></a>
-
-<h4>How we may obtain your personal information</h4>
-<p>As a visitor to this website, we may  obtain your personal information in connection with your interest or  participation in our trade shows, trade conferences, awards or publications.&nbsp; We  may obtain this information at the time you register on the website, register  at a trade show or trade conference, contract to take a stand, advertise in or  receive our publications, participate in our awards, subscribe to emails,  request tickets or publications or request further services or information.&nbsp; We  may also ask you for information if you report a problem with our site.&nbsp; In  addition, from time to time we may email you to request that you complete  surveys that we use for research purposes, although you do not have to respond  them.&nbsp; If you contact us we may keep a record of your correspondence.</p>
-
-<p>We keep your name, address, company name,  and business contact details as well as an indication of the particular areas  of business that interest you.&nbsp; If you carry out any transactions through us or  through the website, we do not retain billing, accounting and other financial  details.</p>
-
-<p>We also may retain information regarding  your visits to our site, including but not limited to traffic data, location  data, and other communications data, whether this is required for our own  billing purposes or to improve the site or to facilitate the resources that you  wish to access.</p>
-
-
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-
-<a name="go2_3"></a>
+      <!-- title United Business Media LLC Privacy Notice Highlights -->
+      <p>Effective   January 4th, 2009</p>
+      <h2>SCOPE</h2>
+      <p>This Privacy Notice Highlights   and the full&nbsp;<a href="http://legal.us.ubm.com/privacy-notice/"><strong>United   Business Media LLC&nbsp;Privacy Notice</strong></a>&nbsp;(together, simply the   Notice) apply to our face-to-face events, print publications distributed   within the United States and their digital versions, our online events,   web sites, and web properties, our email newsletters and our   participation in social media.</p>
+      <h2>PERSONAL INFORMATION</h2>
+      <ul>
+        <li>We   collect information you give us directly.</li>
+        <li>We may add   information from other sources.</li>
+        <li>We use common Internet   technologies such as cookies and web beacons on our websites and in our   emails.</li>
+      </ul>
+      <h2>USES</h2>
+      <p>We use information about you&nbsp;</p>
+      <ul>
+        <li>to provide the products and services you request and to manage your   account,</li>
+        <li>to provide you with content and information about   other products and services that may be of interest to you, and</li>
+        <li>to   allow you to connect directly with other companies and with colleagues.</li>
+      </ul>
+      <h2>YOUR CHOICES</h2>
+      <ul>
+        <li>To find out how to control&nbsp;whether   or not to connect with other companies, opt out of our email marketing   programs, or&nbsp;keep your account or subscription information up to date,   please visit <a href="http://legal.us.ubm.com/privacy-notice/#Choices">Your   Choices</a> in the full Notice.</li>
+        <li>To find out how to control&nbsp;the   display of advertising or content based on your interests, please   review <a href="http://legal.us.ubm.com/privacy-notice/#More_info">More   Information About Cookies</a> in the full Notice.</li>
+      </ul>
+      <h2>IMPORTANT   INFORMATION</h2>
+      <ul>
+        <li>We collect and process information on servers   around the world.</li>
+        <li>We use reasonable security measures to   protect information about you.</li>
+        <li>This Notice covers how we use   information you provide to us. We cannot control how others may use   information you may make public or choose to disclose online or at   face-to-face events.</li>
+        <li>Our products, services, events and   offerings are directed to professionals and not children thirteen or   under.</li>
+        <li>We will post and date any changes to this Notice. Please   check here periodically. Your continued use of our products and   services covered by this Notice constitutes your acceptance of the terms   in place at the time of your use.</li>
+      </ul>
+      <h2>HOW TO CONTACT US</h2>
+      <p>For more information about our privacy practices and how to contact   us, please review the full <a href="http://legal.us.ubm.com/privacy-notice/"><strong>United   Business Media LLC Privacy Notice</strong></a>.</p>
+      <p><br>
+        United   Business Media LLC, 600 Community Drive, Manhasset NY, 11030.</p>
 
 
 
-<h4>IP addresses and cookies</h4>
-<p>We may collect information about your  computer, IP address, operating system and browser type for system  administration purposes and to report aggregate information to our customers  and those we advertise or market with.&nbsp; This is statistical data about our  users’ browsing actions and patterns and does not identify the individual user.</p>
+</div> 
+        </div>
 
-<p>We also may obtain information about your  general Internet usage by using a cookie file that is stored on the hard drive  of your computer.&nbsp; Cookies contain information that is transferred to your  computer by SPS hard drive.&nbsp; They help you to navigate our site more  efficiently and help us improve our site and deliver a more personalized  service.&nbsp; You may refuse to accept cookies by activating the setting on your  browser that allows you to refuse the setting of cookies.&nbsp; However, if you  select this setting, you may be unable to access certain parts of our site.&nbsp;  Unless you have adjusted your browser settings so that it will refuse cookies,  our system will issue cookies when you log on to the site.</p>
-
-<p>The following link takes you to a website that  sets out a detailed explanation about cookies and the ways in which you can  disable them:</p>
-
-<p><a href="http://www.allaboutcookies.org/manage-cookies/">www.allaboutcookies.org/manage-cookies</a></p>
-
-<p>Please note that we may allow other  companies called third party ad servers or ad networks to display  advertisements on our web pages.&nbsp; Some of these companies may place a  persistent cookie on your computer in order to recognize your computer each  time they send you an online advertisement.&nbsp; We do not have access to the  cookies that may be placed by third party ad servers or ad networks. <a href="http://www.nielsen-netratings.com/privacy/sitecensus.htm" target="_blank">Click here</a>  to learn more information about how we use a third party service to collect and use information on this Web site.</p>
-
-
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-
-<a name="go2_4"></a>
-
-<h4>Where we store and process your personal information</h4>
-<p>We store and process your personal information on our computers in the US and with secure, reliable 3rd parties.</p>
-
-
-
-<p>When we contract with other companies to provide us with services, we only share personal information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties.  We protect our data by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.<br>
-</p>
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_5"></a>
-
-<h4>Security</h4>
-<p>Secure server software is used to encrypt  information where appropriate and we follow strict security procedures in the  storage and disclosure of the information you have given to us and require our  processors to do the same.&nbsp;Whenever we  obtain your personal information, we take appropriate precautions to protect it  from unauthorized access or disclosure, but we cannot act as insurers of the  security of your personal information transmitted over the Internet.&nbsp; Accordingly,  we assume no liability for any disclosure of data due to errors in  transmission, unauthorized third party access or other acts of third parties,  or acts or omissions beyond our reasonable control. On occasion we may request proof of your identity  before we disclose any personal information to you.</p>
-
-
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_6"></a>
-
-
-<h4>Uses made of your personal information</h4>
-<p>
-We use your personal information in various ways.  We collect personal information to ensure that the content from our site is presented in the most effective manner for you and your computer, to provide you with information about our business, about trade show and trade conference exhibitors and attendees and their products and services, about our awards and publications, about advertisers and subscribers to our publications and their products and services, and about any other products and services that you request from us or which may be of interest to you.  We also use your personal information to perform our contracts with you, to allow you to participate in interactive features of our service and to notify you about changes to our service.  We may carry out this processing of your personal information ourselves or we may engage agents and processors to perform some of these functions for us.</p>
+<div id="buffer"><img src="/ubm/images/shim.gif" alt="" width="1" height="5" border="0"></div> 
 
  
-<p>
-We also may transfer your data or permit selected third parties use of your data so they may provide you with information about products and services that may be of interest to you, and both we and they may contact you about these by mail, telephone or email.  These third parties will usually be exhibitors at our trade shows, participants in our trade conferences or awards, or advertisers in the publications and online products  in which you have expressed an interest, particularly those whose products and services might align with your interests.  When we share your personal data with these third parties, they will be responsible for protecting your data once they receive it.  They will also be responsible to you for the manner in which your data is subsequently processed and the ways in which they market to you.</p>
-<p>We will not release telephone or facsimile number, or e-mail address for those that subscribe or request information on UBM Canon Pharma Group products, including, but not limited to, Med Ad News, R&amp;D Directions, PharmaLive.com, and TherapeuticsDaily.com.</p>
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_7"></a>
+      </div> 
+      <!-- end contentBlock --> 
+    </div> 
+  </div> 
+  <!-- end main --> 
+  <!-- start footer --> 
+  <div id="footer"> 
+    <div id="footerLinks"> 
+      <ul> 
+		<li><a href="http://legal.us.ubm.com/privacy-notice/">Privacy Notice </a></li>
+        <li><a href="http://legal.us.ubm.com/terms-of-service/">Terms of Service</a></li>
+        <li><a href="http://legal.us.ubm.com/contact-us/">Contact Us</a>        
+        </li><li><a href="mailto:webmaster@ubm-us.com">WebMaster</a>        
+      </li></ul> 
+    </div> 
+ 
+  </div>
 
-
-<h4>Disclosure of your personal information</h4>
-<p>We may disclose your personal information  to any of our direct or indirect subsidiaries or affiliates, or their  processors or agents.&nbsp; We may also disclose your personal information to third  parties as designated in “<a href="#go2_6">Uses made of your personal information</a>” above.&nbsp; If we  negotiate to sell the assets or business of or any interest in any direct or  indirect affiliate or subsidiary, or any portion of or interest in our business  or assets, we may disclose your personal data to the prospective buyers and  their agents.&nbsp; In the case of any such sale or transfer of ownership, or a  bankruptcy, your personal data will be one of the transferred assets.&nbsp;We may also disclose your personal information to  protect the interests or safety of UBM Canon or a third party,  or to address an emergency.</p>
-
-<p>We will also disclose your data when we  are under a duty to disclose or share that information under any legal  obligation or to enforce or apply the terms of use or to perform or enforce any  contracts between us, or to protect the rights, property or safety of our  customers or others.&nbsp; This may include exchanging information with other companies  and organizations for the purposes of fraud protection and credit risk  reduction. &nbsp;If you have exercised your right of opt out in relation to the sharing  of information, this will not apply to you and we will respect your opt out,  but we may still be required to disclose your information to law enforcement  authorities.</p>
-
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_8"></a>
-
-
-<h4>How long will we retain your personal  data?</h4>
-<p>If you have not attended or visited our  trade shows or trade conferences, or advertised in or received our publications  for five years, we may delete your personal data.&nbsp; We will also delete your  personal data if you write or email and request that we do so (see “<a href="#go2_16">Contact</a>”  below), although we will continue to keep certain data to safeguard the record  of our business dealings.</p>
-
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_9"></a>
-
-
-<h4>Can you change your data?</h4>
-<p>You may have the ability to view or edit  your information online.&nbsp; You may be able to change your personal data by  changing your details using your personal login on the registration section of  the website or by writing to us.&nbsp; We will update our records if, for example,  you have changed your name, moved to another company or moved to a new  address.&nbsp; We will continue to keep certain records to safeguard the record of  our business dealings.</p>
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-
-<a name="go2_10"></a>
-
-<h4>Your  rights</h4>
-<p>You have the  right to ask us not to process your personal data for marketing purposes.&nbsp; As  this policy explains, in the absence of a written request from you (including  an email request) that we do not use your personal data for that purpose, we  intend to market to you and share your data with our customers interested in  marketing to you.&nbsp; If you wish to exercise your opt out from sharing your  personal data for these purposes please ensure that you check certain boxes on  the forms which we use to collect your information.&nbsp; Alternatively please  contact us in writing (including by email) as provided under “<a href="#go2_16">Contact</a>” below.</p>
-
-<p>Our site, and other electronic  correspondence, may from time to time contain links to and from the websites of  our third party partner networks, advertisers and affiliates.&nbsp; If you follow a  link to any of these websites, please note that these websites have their own  privacy policies and we do not accept any responsibility or liability for those  policies.&nbsp; Please check those policies before you submit any personal data to  those websites.</p>
-
-<p>You may email or write us to remove your personal  information at any time, but the removal will be effective only in the case of  future communications, and only in the case of communications directly from us,  and not communications from third parties contacted by you through us.&nbsp;If your details have already been shared  with third parties such as exhibitors or advertisers, you will have to contact  them directly to ask them to stop sending you their communications.</p>
-
-<p>You may also be able to stop delivery of  future email communications from us by following instructions to unsubscribe in  emails we send to you.</p>
-
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-
-
-<a name="go2_11"></a>
-
-
-<h4>Access to information</h4>
-<p>Local legislation in the country in which you reside may give you the right to access any personal information we hold about you.  Your right of access can be exercised in accordance with that local legislation.  If you wish to have further details please contact us in accordance with the instructions under “<a href="#go2_16">Contact</a>” below.</p>
-
-
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-
-<a name="go2_12"></a>
-
-<h4>Changes to our privacy policy</h4>
-<p>Any changes we may make to our privacy policy in the future will be posted on this web page.  You will see that we may ask you to review our privacy policy from time to time to identify and note any changes.  The policy sets out the date it was first modified at the top of the page.</p>
-
-
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_13"></a>
-
-<h4>Queries  and questions</h4>
-<p>If you have  any queries, questions or concerns about your information or if you wish to  exercise your right to opt out of receiving our communications, please contact  us as provided in “<a href="#go2_16">Contact</a>” below.</p>
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_14"></a>
-
-<h4>Email addresses</h4>
-<p>
-The website recognizes the home servers of visitors, but not their email addresses.  Individually identifiable email addresses are not captured or stored unless they are provided by you, for example, in response to a registration process, by sending them to us or providing these details at a show, conference, award ceremony or in connection with a publication.  Persons who communicate with us and supply us with an email address may receive future communications by mail, email or telephone.  Persons who do not wish to receive email messages may write us (including by email) and ask to be removed.</p>
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_15"></a>
-
-<h4>Disclaimer</h4>
-<p>No part of this website may be reproduced  or transmitted by any means, electronic, mechanical (including photocopying),  recording or by any information, storage or retrieval system, without prior  permission from the copyright owners.&nbsp; The website is published by UBM Canon.</p>
-
-<p>We disclaim all responsibility or liability (including negligence) in relation to information on, or which is accessible from this site.</p>
-<p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-<a name="go2_16"></a>
-
-<h4>Contact</h4>
-<p>  If you wish to contact us in order to exercise any of your rights identified in this policy you may do so by contacting us as follows:</p>
-  
-  
-  
-  <table width="303" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td width="90" valign="top">In the US:</td>
-      <td width="213" valign="top" class="contact">UBM Canon<br>
-        11444 W. Olympic Blvd.<br>
-        Los Angeles, CA  90064<br>
-        USA<br>
-        Email:  info@cancom.com</td>
-    </tr>
-    <tr>
-      <td width="90" valign="top">
-   </td>
-      <td width="213" valign="top" class="contact">Pharmalive.com<br>
-        828A Newtown-Yardley Road<br>
-        Newtown, PA 18940<br>
-        Telephone: 215-944-9800<br>
-        Email:  administrator@pharmalive.com</td>
-    </tr>
-    <tr>
-      <td valign="top">In the UK:</td>
-      <td>Octo Media<br>
-        Kent House,  Romney Place<br>
-        Maidstone, Kent<br>
-        ME15 6LH
-  
-United Kingdom<br>
-Email: info@cancom.com
-
-        <!-- END OF MAIN CONTENT -->        </td>
-    </tr>
-  </tbody></table>
-  <p><img src="http://www.devicelink.com/expo/media/up.gif" alt="" align="top" border="0" height="14" width="14"><a href="#top" class="style2">Back to top</a></p>
-</td>
-</tr>
-
-</tbody></table>
-<div align="center">
-  <p class="footer">Copyright © 2007 UBM Canon
-
-    <!-- END WRAPPER TABLE -->
-  </p>
+ 
+  <!-- end footer --> 
 </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4596830-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
-</body></html>
+
+
+<!--  --></body></html>
