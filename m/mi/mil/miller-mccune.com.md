@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miller-mccune.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229050538id_/http%3A//www.miller-mccune.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miller-mccune.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619215852id_/http%3A//www.miller-mccune.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Smart Journalism. Real Solutions. Miller-McCune.
 
