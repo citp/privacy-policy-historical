@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcarselectric.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219090604id_/http%3A//www.allcarselectric.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcarselectric.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619084947id_/http%3A//www.allcarselectric.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - All Cars Electric - All Cars Electric
 
