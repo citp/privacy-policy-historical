@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastgetonline.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219221102id_/http%3A//fastgetonline.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastgetonline.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620001730id_/http%3A//fastgetonline.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Fastgetonline.com- Privacy Policy
 
