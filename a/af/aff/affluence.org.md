@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affluence.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204230919id_/http%3A//www.affluence.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affluence.org privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619022758id_/http%3A//www.affluence.org/privacypolicy.php) for the most accurate reproduction.*
 
 # Affluence.org
 
