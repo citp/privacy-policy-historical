@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229002253id_/http%3A//www.marketamerica.com/index.cfm%3Faction%3Dservices.wpPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619195901id_/http%3A//www.marketamerica.com/index.cfm%3Faction%3Dservices.wpPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Market America
+
+Important Messsage: Please Enable Cookies in your Web Browser to Continue. 
 
 |  |  | privacypolicy  
 ---|---  
