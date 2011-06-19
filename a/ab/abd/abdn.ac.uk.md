@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204213541id_/http%3A//www.abdn.ac.uk/site-information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619023539id_/http%3A//www.abdn.ac.uk/site-information/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement [The University of Aberdeen]
 
@@ -75,7 +75,7 @@ On occasion, staff involved in certain research projects and clinical trials may
 
 Further information on the University's policies on Data Protection may be found at: _[www.abdn.ac.uk/dataprotection/](http://www.abdn.ac.uk/dataprotection/)_
 
-Queries regarding data protection should be addressed in the first instance to the University's Data Protection Officer, Mr David Jones: Tel: 01224 27 2039, e-mail: _[d.jones@abdn.ac.uk](mailto:d.jones@abdn.ac.uk)_.
+Queries regarding data protection should be addressed in the first instance to the University's Data Protection Officer, Mr David Blair: Tel: 01224 27 2037, e-mail: _[dpa@abdn.ac.uk](mailto:dpa@abdn.ac.uk)_.
 
 ### Disclaimer
 
