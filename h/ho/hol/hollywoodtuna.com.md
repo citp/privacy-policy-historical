@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the hollywoodtuna.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130210125id_/http%3A//www.hollywoodtuna.com/%3Fpage_id%3D5984) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtuna.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619042518id_/http%3A//www.hollywoodtuna.com/%3Fpage_id%3D5984) for the most accurate reproduction.*
 
 # Hollywoodtuna » Privacy Policy
 
-The following privacy statement covers Hollywood Tuna. Please read this statement regarding our website. If you have any questions or suggestions regarding our privacy policy, please contact us. 
+The following Privacy Policy governs the online information collection practices of hollywoodtuna.com. Specifically, it outlines the types of information that we gather about you while you are using hollywoodtuna.com website (the “Site”), and the ways in which we use and do not use this information.
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, Hollywood Tuna has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Hollywood Tuna only and does not cover the use of cookies by any advertisers.
+**What Information is Collected About Visitors?**  
+The information that we collect about you while you are using the Site falls into two general categories:  
+1\. Information You Provide to Us: We may collect and store information, personal or otherwise, that you voluntarily supply while on the Site. Some examples of this type of information include email notifications that you sign up for regarding future events that we may arrange in the Scottsdale club scene.  
+2\. Information that is Automatically Collected: We may also collect and store information that is generated automatically as you navigate through the Site; specifically we may use a standard feature found in browser software called a “cookie”. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us track user trends and patterns. We may also use a third party service such as Google Analytics or Quantcast as a traffic tracking mechanism for the site. Google Analytics presents only aggregated traffic data to us in understanding our traffic patterns, i.e. general information such as Country, city or state of visitors, type of computer and operating system that they use, whether they are a new or repeat visitor. In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party’s privacy policy and is not covered by our privacy policy. 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+**How is this Information Used?**  
+We will not disclose to third parties any of the information that we collect online about you and other visitors in any way and for any purpose except where we are required to do so by law, or to protect the rights, property or safety of users of the site. The site may include links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services. Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or the site is acquired by another company, information about our visitors may be among the transferred assets.
 
-Log Files  
-Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
-
-Legal Disclaimer  
-Though we make every effort to preserve user privacy, Hollywood Tuna may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on Hollywood Tuna
-
-Business Transitions  
-In the event Hollywood Tuna goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
-
-Links  
-The Hollywood Tuna website contain links to other sites. Please be aware that Hollywood Tuna is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Hollywood Tuna. 
-
-Opt Out  
-We use third-party advertising companies to serve ads when you visit our Web site. Specifically, this site uses the services of a variety of advertisers, rep firms and networks, including but not limited to: MTVN, Google, Adbrite and/or other various independent advertisers and/or networks for serving and/or targeting of ads, promotions and other marketing messages when you visit our Web site. More particularly, the third-party advertising technology that we and our advertising partners use on this Web site uses information derived from your visits to this site to target advertising within this site.  
-If you prefer not to receive interest based content and ads enabled by Hollywood Tuna, you can opt-out by using the Network Advertising Initiative’s opt-out tool [_**here**_](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-Notification of Changes  
-Whenever Hollywood Tuna changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
-
-Contact Information  
-If you have any questions or suggestions regarding our privacy policy, please contact us. 
+**NAI opt out**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit  
+<http://www.networkadvertising.org/managing/opt_out.asp>.
