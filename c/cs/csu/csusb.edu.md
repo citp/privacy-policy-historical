@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219114010id_/http%3A//www.csusb.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619202107id_/http%3A//www.csusb.edu/privacy.aspx) for the most accurate reproduction.*
 
 # CSUSB - Privacy and Security Notice
 
