@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mondinion.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210162830id_/http%3A//www.mondinion.com/International_Property/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondinion.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619040404id_/http%3A//www.mondinion.com/International_Property/def/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - International Real Estate Listings @ Mondinion.com, Free International Property Ads, Overseas Real Estate
+# Privacy Policy - International Real Estate at Mondinion.com, Free International Real Estate Listings & Global Property Portal
 
 ## Privacy Policy
 
