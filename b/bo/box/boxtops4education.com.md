@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116090225id_/http%3A//www.boxtops4education.com/common/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619192338id_/http%3A//www.boxtops4education.com/common/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,7 +69,7 @@ This site is not directed to children and we will not request any information fr
 
 ### United States only
 
-This website is intended for use by residents of the United States of America only. All matters relating to this site are governed by the laws of the State of Minnesota in the United States. If you are located outside of the United States and you contact us, please be advised that any information you provide to us will be transferred to the United States and that by submitting information you explicitly authorize this transfer and the processing of this information within the United States.
+This website is intended for use by residents of the United States of America only. All matters relating to this site are governed by the laws of the United States. If you are located outside of the United States and you contact us, please be advised that any information you provide to us will be transferred to the United States and that by submitting information you explicitly authorize this transfer and the processing of this information within the United States.
 
 ### Changes in our online privacy policy
 
@@ -85,4 +85,4 @@ You always have the right to review and update the information that you previous
 
 ### How to contact us
 
-If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/web/20101116090225id_/http%3A//www.boxtops4education.com/common/Contact.aspx). You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
+If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/web/20110619192338id_/http%3A//www.boxtops4education.com/common/Contact.aspx). You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
