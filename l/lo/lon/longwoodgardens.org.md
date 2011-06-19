@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218192724id_/http%3A//longwoodgardens.org/Privacy_1_4_2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwoodgardens.org privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619204528id_/http%3A//www.longwoodgardens.org/Privacy_1_4_2.html) for the most accurate reproduction.*
 
 # Privacy - Longwood Gardens
 
@@ -53,7 +53,7 @@ This Web site may contain links to other Web sites for additional products and s
 
 In order to process a membership renewal or gift membership, it is necessary for Longwood Gardens to gather the member’s and/or payor’s name, mailing address, phone, and credit card information. This data is used to verify identity and execute the financial transaction.
 
-If you choose to renew or purchase a membership online, you will have to provide your credit card billing information. As this information is collected and transferred over the Internet to our secure server, it is encrypted using Secure Socket Layer (SSL) technology, the industry standard security technology that is designed to protect sensitive information. We display the VeriSign Secure Site Seal to assure you that our web site is authentic and that all transactions are secured by SSL encryption. The credit card information that you provide at the time of renewal or purchase is used only to process your renewal or purchase and will not be used for any other purposes.
+If you choose to renew or purchase a membership online, you will have to provide your credit card billing information. As this information is collected and transferred over the Internet to our secure server, it is encrypted using Secure Socket Layer (SSL) technology, the industry standard security technology that is designed to protect sensitive information. We display the GoDaddy SSL Seal to assure you that our web site is authentic and that all transactions are secured by SSL encryption. The credit card information that you provide at the time of renewal or purchase is used only to process your renewal or purchase and will not be used for any other purposes.
 
 ## Changes to this policy
 
