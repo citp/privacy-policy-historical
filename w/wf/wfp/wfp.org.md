@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfp.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227153353id_/http%3A//www.wfp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfp.org privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620012946id_/http%3A//www.wfp.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WFP | United Nations World Food Programme - Fighting Hunger Worldwide
 
@@ -6,9 +6,7 @@ The World Food Programme is committed to the privacy of individuals who visit an
 
 ### Personally Identifiable Information 
 
-Visitors are not asked to provide any personally identifiable information to access the Site. Users may be asked to share their email address to subscribe to email alerts or newsletters. In this event, the World Food Programme will store this information securely and will not share, rent or sell it to anyone.
-
-See below for the use of information related to online donations.  
+Visitors are not asked to provide any personally identifiable information to access the Site. Users may be asked to share their email address to subscribe to email alerts or newsletters. In this event, the World Food Programme will store this information securely and will not share, rent or sell it to anyone other than WFP partner organizations. We reserve the right to share names, addresses, and account history with our affiliated local partners such as World Food Program USA and WFP Italia for purposes that include provision to you of information on fundraising activities and appeals for donations. In no case will any sensitive financial information be shared. See below for the use of information related to online donations.  
 
 ### Non-personally identifiable information 
 
@@ -26,7 +24,7 @@ The User is always free to decline our cookies if his/her browser permits, altho
 
 ### Donations to the World Food Programme 
 
-The World Food Programme requests information from the User on its donation form. Here the User must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used to conduct the transaction and help us better manage donors. If we have trouble processing a donation, this information is also used to contact the User. The World Food Programme will store this information securely and will not share it, rent or sell it to anyone.  
+The World Food Programme requests information from the User on its donation form. Here the User must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used to conduct the transaction and help us better manage donors. If we have trouble processing a donation, this information is also used to contact the User. The World Food Programme will store this information securely and will not share it, rent or sell it to anyone other than WFP partner organizations. We reserve the right to share names, addresses, and account history with our affiliated local partners such as World Food Program USA and WFP Italia for purposes that include provision to you of information on fundraising activities and appeals for donations. In no case will any sensitive financial information be shared.   
 
 ### Correction and Updating Personal Information 
 
