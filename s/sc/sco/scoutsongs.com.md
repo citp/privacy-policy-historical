@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the scoutsongs.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808082456id_/http%3A//www.scoutsongs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutsongs.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619211758id_/http%3A//www.scoutsongs.com/privacy.html) for the most accurate reproduction.*
 
 # ScoutSongs.com Privacy Statement
 
-This is a web site owned and operated by Jonathan Glassman.  
-Jonathan can be reached via e-mail at [webhead@scoutsongs.com](mailto:webhead@scoutsongs.com).
+This is a web site owned and operated by [Chakra Sites, Inc.](http://www.chakrasites.com/)  
+ScoutSongs.com can be reached via e-mail at [webhead@scoutsongs.com](mailto:webhead@scoutsongs.com). 
 
 **Information Gathered:**   
 For each visitor to our Web site, our Web server does not recognize a user's domain or e-mail address. We do collect aggregate information on what pages visitors access or visit. We may collect information volunteered by the visitor, such as survey information, contests and/or site registrations.
