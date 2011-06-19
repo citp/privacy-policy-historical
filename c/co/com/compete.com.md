@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217084531id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619215919id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
 
 # Compete: Privacy | Compete
 
