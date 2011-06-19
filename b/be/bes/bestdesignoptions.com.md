@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdesignoptions.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230103522id_/http%3A//bestdesignoptions.com/%3Fp%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdesignoptions.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619082847id_/http%3A//bestdesignoptions.com/%3Fp%3D6) for the most accurate reproduction.*
 
 # The Best Design Options for Designers and Everyone Else | Best Design Options
 
@@ -54,4 +54,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 This internet site is presented for the purpose of disseminating information only. This public domain monitors the quality of the information available on this internet site and updates the information regularly. This public domain does not, however, guarantee the accuracy, reliability, currency, completeness of any material contained on the site, including all personal information uploaded to the site by its users. Furthermore, this internet site will not be accountable for any legal liability that may arise from any material contained on this internet site or on any linked site. This internet site is not a substitute for independent professional advice and users should obtain any appropriate professional advice relevant to their particular circumstances. The material on this internet site may include the views or recommendations of third parties, which do not necessarily reflect the views of this site, or indicate its commitment to a particular course of action.
 
-This entry was posted on Wednesday, January 7th, 2009 at 8:20 pm and is filed under [Blogging Tips](http://bestdesignoptions.com/?cat=1157 "View all posts in Blogging Tips"). You can follow any responses to this entry through the [RSS 2.0](http://bestdesignoptions.com/?feed=rss2&p=6) feed. You can leave a response, or [trackback](http://bestdesignoptions.com/wp-trackback.php?p=6) from your own site. 
+[](http://www.copyscape.com/dmca-copyright-protection/)
+
+This entry was posted on Wednesday, January 7th, 2009 at 8:20 pm and is filed under [Blogging Tips](http://bestdesignoptions.com/?category_name=blogging-tips "View all posts in Blogging Tips"). You can follow any responses to this entry through the [RSS 2.0](http://bestdesignoptions.com/?feed=rss2&p=6) feed. 
