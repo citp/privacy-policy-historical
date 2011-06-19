@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finaldownload.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226001402id_/http%3A//finaldownload.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finaldownload.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619192708id_/http%3A//finaldownload.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Final Download Privacy Policy
 
@@ -35,4 +35,4 @@ This site contains links to other sites. finaldownload.com is not responsible fo
 
 ### Contact us
 
-If you have any questions about this privacy statement, the practices of this site, you can [contact us](http://finaldownload.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site, you can [contact us](http://www.finaldownload.com/contact.html). 
