@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222125824id_/http%3A//fetlife.com/fetlife/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619182135id_/http%3A//fetlife.com/fetlife/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FetLife
 
@@ -26,7 +26,7 @@ You should think twice though before you start or comment on any discussions. To
 
 #### Transaction Information
 
-If you choose to [support FetLife](https://web.archive.org/support), and we hope you do, you do so through iBill or AlertPay. These are the two 3rd party merchant provider we use to handle all credit card transactions for us. You can view their respective privacy policies [here](http://www.ibill.net/privacy.aspx) and [here](https://www.alertpay.com/info/PrivacyPolicy.aspx).
+If you choose to [support FetLife](https://web.archive.org/support), and we hope you do, you do so through iBill or Zombaio. These are the three 3rd party merchant providers we use to handle all credit card transactions for us. You can view their respective privacy policies [here](http://www.ibill.net/privacy.aspx) and [here](https://secure.zombaio.com/terms_en.asp).
 
   
 
@@ -49,7 +49,7 @@ On top of that, we use Google Analytics to better understand how people use FetL
 
 FetLife uses cookies for authentication and to store information in between page requests. If you want to learn more about cookies you should read the [wikipedia article on HTTP cookies](http://en.wikipedia.org/wiki/HTTP_cookie).
 
-At anytime, you can delete the cookies that are on you computer. Instructions: [Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/11471.html), [Chrome](http://www.google.com/support/chrome/bin/answer.py?answer=95626), [Internet Explorer](https://web.archive.org/web/20101222125824id_/http%3A//fetlife.com/fetlife/\(http://support.microsoft.com/kb/278835), [Firefox](http://support.mozilla.com/en-US/kb/Deleting+cookies?bl=n&s=deleting%20cookies&as=q), and [Opera](http://www.opera.com/support/kb/view/806/).
+At anytime, you can delete the cookies that are on you computer. Instructions: [Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/11471.html), [Chrome](http://www.google.com/support/chrome/bin/answer.py?answer=95626), [Internet Explorer](https://web.archive.org/web/20110619182135id_/http%3A//fetlife.com/fetlife/\(http://support.microsoft.com/kb/278835), [Firefox](http://support.mozilla.com/en-US/kb/Deleting+cookies?bl=n&s=deleting%20cookies&as=q), and [Opera](http://www.opera.com/support/kb/view/806/).
 
   
 
@@ -126,7 +126,7 @@ You should report any privacy and or security violations to us by emailing us at
 
 ### Changes to this Policy
 
-We may revise this Privacy Policy from time to time. The current version of the policy will govern our use of your information and will always be available at <http://fetlife.com/privacy>. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+We may revise this Privacy Policy from time to time. The current version of the policy will govern our use of your information and will always be available at <http://fetlife.com/fetlife/privacy>. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
   
 
