@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcbayarea.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217083619id_/http%3A//www.nbcbayarea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcbayarea.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619212837id_/http%3A//www.nbcbayarea.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC Bay Area
 
