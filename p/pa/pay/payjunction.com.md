@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payjunction.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123185720id_/http%3A//www.payjunction.com/trinity/support/view.action%3FknowledgeBase.knbKnowledgeBaseId%3D255) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payjunction.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619023648id_/http%3A//payjunction.com/trinity/support/view.action%3FknowledgeBase.knbKnowledgeBaseId%3D255) for the most accurate reproduction.*
 
-# PayJunction - Merchant Account and Credit Card Processing Products
+# PayJunction - Virtual Terminal, Gateway, Wireless Support
 
 |  | 
 
@@ -23,13 +23,7 @@ Fx: 800-771-3821
   
 [Knowledgebase](https://web.archive.org/trinity/support/main.action)
 
-View categorized listing of all common frequently asked questions.
-
-| 
-
-[Downloads](https://web.archive.org/trinity/support/main.action?search.knowledgeBaseCategory.kbcParentId=33)
-
-View our categorized library of downloads for all necessary manuals, software, etc.  
+View categorized listing of all common frequently asked questions.  
   
 Details
 
