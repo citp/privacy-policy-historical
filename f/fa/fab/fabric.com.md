@@ -1,64 +1,111 @@
-> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527013018id_/http%3A//www.fabric.com/SitePages/SecurityPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619042359id_/http%3A//www.fabric.com/SitePages/SecurityPrivacy.aspx) for the most accurate reproduction.*
 
 # Fabric - Store
 
-**Our Promise to You**   
-Fabric.com is committed to protecting your privacy and building a foundation of trust with our clientele by adhering to the strict Internet privacy standards and deploying sophisticated security measures. At Fabric.com, we are dedicated to respecting your privacy and ensuring your security on our site. The following privacy and security policy is to inform you about how and why we collect any information about you, and what we use this information for on our website. 
+| [](http://www.fabric.com/Index.aspx)
 
-**Information That We Collect and How We Use it  
-** Fabric.com collects from our users only the information that is necessary to complete an order - billing information and credit card information. Fabric.com is the solitary holder of the information collected on this site. We will not sell, share or rent this information to others in any ways other than disclosed in this privacy statement.
+The Place To Go When You Sew
 
- **Registration  
-** Registration is not required in order to use our site. Users have the option to give their contact information (such as name and email address). This information is then used to contact the user about the products and services on our site for which they have expressed interest. 
+|   
+---|---  
+**  
+**
 
-**Your Order**   
-We request information from the user on our order form. Here a user must provide contact information (like name, phone number and shipping address) and billing information (like credit card number, expiration date). This information is used for billing purposes and to fill the customer's order. If we have trouble processing an order, this contact information is used to get in touch with the user. If you submit a different address for shipping than for billing, that personal information is only used for the purpose of shipping the package. The shipping recipient will not be added to any marketing distribution list or future correspondence. **
+Last Updated: April 29, 2011. To see what's changed, [click here](http://privacyinfo.fabric.com/). 
 
- **Orders Sent as Gifts**
+  
+Fabric.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Fabric.com, you are accepting the practices described in this Privacy Notice.**
 
-** If you submit a different address for shipping than for billing, that personal information is only used for the purpose of shipping the package. The shipping recipient will not be 'opted-in' to any marketing distribution lists or future correspondence.. 
+## **What Personal Information About Customers Does Fabric.com Gather?**
 
-**Cookies  
-** A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+The information we learn from customers helps us personalize and continually improve your shopping experience at Fabric.com. Here are the types of information we gather. 
 
-Fabric.com also employs a third party clickstream tracking company. This provider is used to aggregate the visitor's site navigation and identify exit pages where customers leave the site. No personal identifying information is recorded by this tool, and only Fabric.com has access to the summarized data. Fabric.com does not share any of this information with other partners or vendors. 
+  * **Information You Give Us:** We receive and store any information you enter on our website or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store, and communicating with you.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," and we obtain certain types of information when your web browser accesses Fabric.com or advertisements and other content served by or on behalf of Fabric.com on other websites. Click here to see examples of the information we receive. 
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we may receive a confirmation when you open e-mail from Fabric.com if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://www.fabric.com/MyAccount-MyEmailPreferences.aspx).
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
-**Log Files  
-** We use IP addresses to analyze trends, administer the site, track the user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-**Security**   
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and offline. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected  withencryption software. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing.' While we use encryption to protect sensitive information online, we also protect user-information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. If you have any questions about the security at our website, you can send an email to: 
 
-[Customercare@fabric.com](mailto:Customercare@fabric.com)
+## **What About Cookies?**
 
-**Special Offers**   
-We send all new registered members a welcoming email. Established members will occasionally receive information on products, services, special deals and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice policy below. 
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser.  Among other things, they enable our systems to recognize your browser to provide personalized advertisements on our website and other websites and allow storage of items in your Shopping Cart between visits.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Fabric.com's essential features, we recommend that you leave them turned on.
 
-**How You Can Access and Edit Your Registration Information or Remove Yourself From Our Newsletters, Updates & Reminders Lists**:  
-You are able to review and edit your registration information from our site at any time. If you have already registered with us, _[click here](https://www.fabric.com/MyAccount-MyProfile.aspx)_ to access your information. Our mailing lists and email notification are available on an opt-in basis. If you would like to opt out of all email communication, _[click here](https://www.fabric.com/MyAccount-MyEmailPreferences.aspx)_. If you would like to restrict our use of your information, contact us in one of the ways provided below. While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete customer information if we can't reasonably accommodate a requested restriction.
 
-**Order Fulfillment**  
-We have an in-house fulfillment department to ship orders and in-house, secure electronic transaction processing software to charge users for goods and services. These entities do not retain, share, store or use personally identifiable information for any secondary purposes, and are prohibited from using the data for any other purposes. 
 
-**Correction/Updating Personal Information:  
-** If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by emailing our Customer Support at: 
+## **Does Fabric.com Share the Information It Receives?**
 
-[Customercare@fabric.com](mailto:Customercare@fabric.com)
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We may share customer information only as described below and with our parent corporation, Amazon.com Inc., and the subsidiaries it controls.
 
-**Notification of Changes**   
-If we change our privacy policy, we will post those changes on our website homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will only use information in accordance with the privacy policy under which the information was collected. 
+  * **Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases, we may include offerings directly from those businesses on Fabric.com. In other cases, we may include joint offerings from Fabric.com and these businesses on Fabric.com . You can tell when a third party is involved in the offering, and we share customer information related to those offerings with that business.
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf.  Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service.  They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Promotional Offers:** Sometimes we send offers to selected groups of Fabric.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Email Preferences](https://www.fabric.com/MyAccount-MyEmailPreferences.aspx).
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the event that Fabric.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+  * **Protection of Fabric.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our agreements; or protect the rights, property, or safety of Fabric.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-**Legal Disclaimer  
-** Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website. 
 
-If you have questions or concerns regarding this statement, you should first contact Customer Service at: 
 
-**Phone:** 1-888-455-2940
+## **How Secure Is Information About Me?**
 
-**Fax:** 770-792-8553
+  * We work to protect the security of your information during transmission by using Secure Socket layer (SSL) Software, which encrypts information you input.
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
-**Email:** [customerservice@fabric.com](mailto:customerservice@fabric.com).
 
-**Postal Address:** 2151 Northwest Parkway, Suite 500 Marietta, GA  30067
 
-Privacy Policy last updated 05/09/2007.
+## **What About Third-Party Advertisers and Links to Other Websites?**
+
+Our site may include third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. 
+
+These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the 
+
+[Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
+
+Fabric.com also may 
+
+display personalized third-party advertising based on personal information about customers, such as purchases on Fabric.com, visits to Amazon Associate websites, or use of payment services like Checkout by Amazon on other websites.  Click here for more information about the personal information that we gather. Although Fabric.com does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad (for example, users in the southern United States who bought or browsed for red gingham fabric).  
+
+
+## **Which Information Can I Access?**
+
+Fabric.com gives you access to a broad range of information about your account and your interactions with Fabric.com for the limited purpose of viewing and, in certain cases, updating that information.  Click here to see some examples, the list of which will change as our website evolves.    
+
+
+## **What Choices Do I Have?**
+
+  * You can add or update certain information on pages such as those referenced in the "Which Information Can I Access" section. 
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://www.fabric.com/MyAccount-MyEmailPreferences.aspx).  
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Fabric.com's essential features, we recommend that you leave them turned on.
+
+
+
+## **Are Children Allowed to Use Fabric.com?**
+
+Fabric.com does not sell products for purchase by children. If you are under 18, you may use Fabric.com only with the involvement of a parent or guardian.  
+
+
+## **Notices and Revisions**
+
+If you choose to visit Fabric.com, your visit and any dispute over privacy is subject to this Notice. If you have any concern about privacy at Fabric.com, please contact us at privacypolicy@fabric.com with a thorough description, and we will try to resolve it. Our business changes constantly and our Privacy Notice will change also. We may e-mail periodic reminders of our notices, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+## **Information You Give Us**
+
+You provide most such information when you register as a customer, search, buy, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Fabric.com; provide information in [My Account](https://www.fabric.com/MyAccount-MyProfile.aspx?MyAccount=true) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; and people to whom purchases have been shipped, including addresses and phone numbers.  
+
+
+## **Automatic Information**
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history; the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time; cookie number; products you viewed or searched for. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes.  During some visits, we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs), and methods used to browse away from the page.
+
+## **Information from Other Sources**
+
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily. 
+
+## **Information You Can Access**
+
+Examples of information you can access easily at Fabric.com include up-to-date information regarding recent orders; personally identifiable information (including profile and address book – available to registered customers only); payment settings (including credit card information and coupons); e-mail preferences; and sewing preferences.
+
+[Powered By:  
+](http://www.blinedigital.com/)
