@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the answerbag.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616041932id_/http%3A//www.answerbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerbag.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619214600id_/http%3A//www.answerbag.com/privacy) for the most accurate reproduction.*
 
 # Answerbag
 
 Keeping your information top secret.
 
-Effective Date December 1, 2009
+Effective Date August 3, 2010
 
 This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website [www.answerbag.com](http://www.answerbag.com/) (the "Site") and the other services we provide on or through the Site (together with the Site, the "Service").
 
 Who We Are. We are Demand Media, Inc. ("Answerbag "Answerbag.com," "Site," "Service," "we," "us," or "our"). Answerbag.com is a popular place to share knowledge on various topics and enjoy sharing in the Answerbag community. In conducting our business, as further described below, we collect information about the individuals who use the Service. In conducting our business, as further described below, we collect information, including PII, about the individuals who use the Service.
 
-**This Policy and the Terms of Use**. This Policy is part of and incorporated into the Answerbag.com [Terms of Use]() (collectively, the "Terms").
+**This Policy and the Terms of Use**. This Policy is part of and incorporated into the Answerbag.com [Terms of Use](https://web.archive.org/terms) (collectively, the "Terms").
 
 BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.
 
@@ -18,6 +18,7 @@ BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE T
 
     1. **The Types of Information Answerbag Collects**. We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service. Our account registration process requires that you provide us with your user name, birthday and email address, and that you create and provide us with a password. We may also request other information, such as but not limited to, your actual first and last name, gender, and zip code.
     2. **Information in Public Areas of the Site**. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for PII you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site's home page.
+    3. **Facebook**. As an optional service, we offer users the ability to integrate their Facebook accounts with Answerbag. See Section V below for more information on the types of information we collect from the use of this service.
   2. ## AUTOMATIC INFORMATION COLLECTION.
 
     1. **Cookies**. Like many websites, we use "cookies." Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as the following:
@@ -35,7 +36,7 @@ The information collected by third party cookies is subject to the privacy polic
     4. **Promotions, Sweepstakes, and Contests**. From time to time, we may host a promotion, sweepstake, or contest on the Service. You May be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collection or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer to our collection of personal information by a third party.
   3. ## ANSWERBAG'S USE AND RETENTION OF YOUR INFORMATION.
 
-    1. **Use of PII**. We use your PII for purposes such as responding to your requests; monitoring and providing the Service; maintaining your Answerbag account; providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms](). We also may use your PII to contact you regarding your account, such as to inform you that you have received an email from another Answerbag member, or to forward user comments to you about the content that you have posted. We may also email Answerbag newsletters, and similar communications about the Service.
+    1. **Use of PII**. We use your PII for purposes such as responding to your requests; monitoring and providing the Service; maintaining your Answerbag account; providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms](https://web.archive.org/terms). We also may use your PII to contact you regarding your account, such as to inform you that you have received an email from another Answerbag member, or to forward user comments to you about the content that you have posted. We may also email Answerbag newsletters, and similar communications about the Service.
     2. **Use of Other Information**. We use non-PII about our users for purposes such as measuring the number of visitors to sections of our Site, making the Service more useful to visitors and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the Site, track a user's movement, and gather broad demographic information for aggregate, non-personally identifiable use.
     3. **Retention of Information**. We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records.
   4. ## ANSWERBAG'S SHARING OF INFORMATION.
@@ -52,28 +53,43 @@ Answerbag shares information with third parties, but only as described in this S
       2. make disclosures under programs intended to prevent potential crimes or investigate persons;
       3. enforce or apply agreements, including the Terms; or
       4. protect the rights, property, or safety of Answerbag, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
-  5. ## INFORMATION SECURITY
+  5. ## FACEBOOK.
+
+This section is only applicable to users who choose to integrate their Facebook accounts with Answerbag.
+
+    1. **The Types of Information We Collect**. We use Facebook's OpenGraph API, so that you can use your existing Facebook.com account to access the features of the Site. You must explicitly authorize Facebook to share your information with us when you first login to the Site with your Facebook credentials.
+
+You should review your privacy settings on your Facebook account because those settings determine what PII is made available to us when you access the Site. While the Facebook OpenGraph API allows us to access and store a host of information about you, we only access and store PII which we feel is useful to enhance your experience of the Site. When you first create an account with us through the Facebook OpenGraph API, we access and store your name, public "About Me" information, your email address, your Facebook user id number, and your Facebook URL. We also pull your friends list (their first and last names and Facebook user id numbers), but only keep a record of your connection to them if your friends have also created accounts with the Site. We do NOT store any data about any of your Facebook friends if they don't already have their own Site accounts. Each time you login to the Site we check your friends list from Facebook to see if any of your friends have signed up for the Site since you last visited so they can appear as part of your Answerbag network of friends.
+
+Facebook also gives us access to your (and your friends') main profile photos, if those photos are public. We do not store those photos ourselves; rather, we serve them directly from Facebook's servers.
+
+We may store your birthdate if you make it public on your Facebook profile.
+
+We collect any information you enter on the Site or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Site.
+
+    2. **Terminating your Account**. You may discontinue this service at any time by removing your Answerbag account under the "Applications and Websites" section of your Facebook Privacy Settings. This will remove all references to you and your data from display on Facebook, but will not affect your Facebook.com account.
+  6. ## INFORMATION SECURITY
 
     1. **Your Obligations**. You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so do not include sensitive information in them - we generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.
     2. **Our Security Measures**. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. HOWEVER, WE DO NOT GUARANTEE SECURITY. Neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. If applicable law imposes any non-disclaimable duty (if any), you agree that intentional misconduct will be the standards used to measure our compliance with that duty.
-  6. ## LINKS.
+  7. ## LINKS.
 
 The Service contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Service.
 
-  7. ## CHOICE.
+  8. ## CHOICE.
 
 We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications. However, we provide you with the opportunity to elect not to receive other types of communications, such as friend requests or the Answerbag of the day emails. If you want to stop receiving these communications, you may opt by going to the Profile tab on the Site and editing your email preferences.
 
-  8. ## ACCESS AND RECORD KEEPING.
+  9. ## ACCESS AND RECORD KEEPING.
 
 Information relating to our programs is not necessarily maintained in a retrievable form. However, you may make changes, corrections or updates to some PII provided through the Service which we use for communications with you, by going to the " Profile" tab on the Site. We may keep a record of all information that is changed. We may determine what may be changed. For example, if we are required to keep track of certain kinds of transactions, you may be prevented from changing relevant information.
 
-  9. ## CONDITIONS OF USE, NOTICES, AND REVISIONS.
+  10. ## CONDITIONS OF USE, NOTICES, AND REVISIONS.
 
-    1. **Privacy Concerns**. Your use of the Service and any dispute over privacy is subject to the [Terms](). If you have any concern about privacy at Answerbag, please send us a thorough description to admin@answerbag.com, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 10 below.
+    1. **Privacy Concerns**. Your use of the Service and any dispute over privacy is subject to the [Terms](https://web.archive.org/terms). If you have any concern about privacy at Answerbag, please send us a thorough description to admin@answerbag.com, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 10 below.
     2. **Notice Required by Law**. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with Answerbag at all times.
     3. **Identity Theft**. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see the next section of this Policy) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.>
-  10. ## CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.
+  11. ## CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.
 
 For customer service matters (including questions relating to this Policy), you may email us at [admin@answerbag.com](mailto:admin@answerbag.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 15801 NE 24th St. Bellevue, WA 98008. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you.
 
@@ -82,4 +98,4 @@ For customer service matters (including questions relating to this Policy), you 
 
 ##### Answerbag is a registered trademark of Demand Media, Inc. in the United States and other countries.
 
-###### Copyright © 2007. Demand Media, Inc.
+###### Copyright © 2010. Demand Media, Inc.
