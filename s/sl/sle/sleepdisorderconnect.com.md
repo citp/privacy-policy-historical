@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepdisorderconnect.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231000616id_/http%3A//www.sleepconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepdisorderconnect.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619200038id_/http%3A//www.sleepconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Sleep Connect
 
