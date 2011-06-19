@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axxess.co.za privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205222430id_/http%3A//axxess.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axxess.co.za privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619034946id_/http%3A//www.axxess.co.za/privacy.php) for the most accurate reproduction.*
 
-# Axxess DSL - For all your ADSL and Broadband needs
+# Axxess DSL - Uncapped ADSL from R99.00 per month.
 
 We at Axxess have designed our business practices to safeguard your privacy. 
 
