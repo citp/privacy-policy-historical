@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the gpwa.net privacy policy that was archived on 2010-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219071451id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gpwa.net privacy policy that was archived on 2011-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619192535id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-	<title>Gambling Portal Webmasters Association - Privacy Policy</title>
-	<meta name="Description" content="Gambling webmasters working with each other and with reputable online casinos and gambling sites to earn more money as affiliates.">
+<title>Gambling Portal Webmasters Association Privacy Policy</title>
+	<meta name="Description" content="Gambling webmasters working with each other and with reputable online casinos and gambling sites to earn more money as affiliates - Privacy Policy.">
 	<meta name="Keywords" content="Casino Affiliate Programs,Poker Affiliate Programs,Bingo Affiliate Programs,Sportsbook Affiliate Programs,Backgammon Affiliate Programs,Mahjong Affiliate Programs,Skill Game Affiliate Programs,">
 	<link rel="stylesheet" type="text/css" href="/inc/global.css">
 	<script language="JavaScript" type="text/javascript" src="http://as1.casinocity.com/adx.js"></script>
@@ -40,8 +40,8 @@
 <table border="0" width="790">
   <tbody><tr>
     <td width="320" style="text-align:left;"><a border="0" href="/"><img border="0" src="/i/GPWA_logo.gif" width="183" height="69" alt="GPWA"></a></td>
-    <td width="470"><!-- BEGIN GPWA SPONSORS BANNER CODE TOP 468X60 --><div id="headerAd">    	
-			<iframe id="a8d31b92" name="a8d31b92" src="http://as1.casinocity.com/www/delivery/afr.php?zoneid=8&amp;target=_blank" framespacing="0" frameborder="no" scrolling="no" width="468" height="60"><a href='http://as1.casinocity.com/www/delivery/ck.php?n=a0f7c2ba' target='_blank'><img src='http://as1.casinocity.com/www/delivery/avw.php?zoneid=8&amp;n=a0f7c2ba' border='0' alt='' /></a></iframe>	
+    <td width="470"><!-- BEGIN GPWA SPONSORS BANNER CODE TOP 468X60 --><div id="headerAd">
+			<iframe id="a8d31b92" name="a8d31b92" src="http://as1.casinocity.com/www/delivery/afr.php?zoneid=8&amp;target=_blank" framespacing="0" frameborder="no" scrolling="no" width="468" height="60"><a href='http://as1.casinocity.com/www/delivery/ck.php?n=a0f7c2ba' target='_blank'><img src='http://as1.casinocity.com/www/delivery/avw.php?zoneid=8&amp;n=a0f7c2ba' border='0' alt='' /></a></iframe>
     </div><!-- END GPWA SPONSORS BANNER CODE TOP 468X60 --></td>
   </tr>
   <tr>
@@ -50,29 +50,29 @@
 			var isloggedin = new Boolean;
 			var username = "";
 			var userid = "";
-			var loginhtml = new String;	
-			var randomnumber = 8090.635;
-			$(document).ready(function() 
+			var loginhtml = new String;
+			var randomnumber = 55534.8;
+			$(document).ready(function()
 						{
-							$.getJSON("/forum/user.php?rnd="+randomnumber, function(user) 
+							$.getJSON("/forum/user.php?rnd="+randomnumber, function(user)
 							{
 								username = user.name;
 								userid = user.id;
-								isloggedin = new Boolean(user.id);		
-								
+								isloggedin = new Boolean(user.id);
+
 								$.get("/forum/loginheader.php?rnd="+randomnumber,
 									function(data)
 									{
 									loginhtml = data;
-																		
+									
 									loginhtml = loginhtml.replace("[url]","/privacy/index.asp");
-								  $("#login").html(loginhtml);	
+								  $("#login").html(loginhtml);
 
 									if (isloggedin == true)
 									{
 										$("#myaccount").html("<a href='/forum/usercp.php'>MY ACCOUNT</a>");
 										$("#myaccountitems").html("<li><a href='/members/opinions/'>Webmaster Opinions</a></li><li><a href='/ex/facebook/overview.aspx'>Places I've Played</a></li><li><a href='/forum/payments/'>My Payments</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editsignature'>Edit My Signature</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editprofile'>Edit My Details</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editoptions'>Edit My Options</a></li><li><a href='/forum/private.php' rel='nofollow'>Private Messages</a></li><li><a href='/members/myportalsites.asp'>My Portal Sites</a></li><li><a href='/members/seal_preferences.asp'>Seal Preferences</a></li><li><a href='/members/member_details.asp?id="+userid+">My Profile</a></li>");
-										$("#forumitems").html("<li><a href='/forum/'>Forum Home</a></li><li><a href='/forum/search.php?do=getnew'>New Posts</a></li><li><a href='/forum/search.php?do=getdaily'>Today's Posts</a></li><li><a rel='nofollow' href='/forum/forumdisplay.php?do=markread'>Mark Forums Read</a></li><li><a href='/forum/blogs/'>Blogs</a></li><li><a rel='nofollow' href='/forum/project.php'>Projects</a></li><li><a href='/forum/subscription.php' rel='nofollow'>Subscribed Threads</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li>");
+										$("#forumitems").html("<li><a href='/forum/'>Forum Home</a></li><li><a href='/forum/search.php?do=getnew'>New Posts</a></li><li><a href='/forum/search.php?do=getdaily'>Today's Posts</a></li><li><a rel='nofollow' href='/forum/forumdisplay.php?do=markread'>Mark Forums Read</a></li><li><a href='/forum/blogs/'>Blogs</a></li><!---<li><a rel='nofollow' href='/forum/project.php'>Projects</a></li>---><li><a href='/forum/subscription.php' rel='nofollow'>Subscribed Threads</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li>");
 										$("#wikiList").html("<a href='/wiki/'>Wiki</a>");
 										$("#community").html("<a href='/forum/profile.php?do=buddylist' rel='nofollow'>COMMUNITY</a>");
 										$("#communityitems").html("<li><a rel='nofollow' href='/forum/profile.php?do=buddylist'>Contacts &amp; Friends</a></li><li><a href='/forum/group.php'>Social Groups</a></li><li><a rel='nofollow' href='/forum/album.php?u="+userid+"'>Pictures &amp; Albums</a></li><li><a href='/forum/online.php'>Who's Online</a></li><li><a rel='nofollow' href='/forum/misc.php?do=buddylist&amp;focus=1' onclick=\"window.open('/forum/misc.php?do=buddylist&amp;focus=1','buddylist','statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=250,height=300'); return false;\">Open Contacts Popup</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li>");
@@ -84,7 +84,7 @@
 		</script>
     <td colspan="2"><table border="0"><tbody><tr><td id="login" style="font-size:11px; font-family:verdana;height:15px;text-align:left;vertical-align:middle;" width="390">
     	Welcome, Guest &nbsp;[<b><a href="/login.asp?url=/privacy/index.asp">Log In</a> -or- <a href="/register.asp">Join GPWA</a></b>]
-    	</td>        
+    	</td>
     <td style="height:15px;vertical-align:top;"><form action="/forum/search.php" method="post" style="display:inline;">
         <input type="hidden" name="do" value="process">
         <input type="hidden" name="showposts" value="0">
@@ -94,13 +94,13 @@
         <input style="font-size:10px;font-family:verdana;height:19px;" align="absmiddle" type="image" src="/i/search_btn.gif" value="search" alt="search"> &nbsp; <a href="/forum/search.php">Advanced Search</a></form></td>
         </tr></tbody></table></td>
   </tr>
-</tbody></table>		
+</tbody></table>
 		<br class="clear">
-		
+
 		<div id="navContainer">
-			<ul class="jd_menu" id="nav">                
+			<ul class="jd_menu" id="nav">
 				<li>
-						<div id="myaccount"><a href="/login.asp?url=/privacy/index.asp">MY ACCOUNT</a></div>			
+						<div id="myaccount"><a href="/login.asp?url=/privacy/index.asp">MY ACCOUNT</a></div>
 					<ul id="myaccountitems">
 						<li><a href="/login.asp?url=/privacy/index.asp">Member Login</a></li>
 						<li><a href="/register.asp">Create an Account</a></li>
@@ -112,14 +112,14 @@
 						<li><a href="/forum/search.php?do=getnew">New Posts</a></li>
 						<li><a href="/forum/search.php?do=getdaily">Today's Posts</a></li>
 						<li><a href="/forum/blogs/">Blogs</a></li>
-						<li><a rel="nofollow" href="/forum/project.php">Projects</a></li>
+<!--						<li><a rel="nofollow" href="/forum/project.php">Projects</a></li>-->
 					</ul>
 				</li>
-				
+
 				<li>
 					<div id="wikiList"><a href="/wiki/">Wiki</a></div>
 				</li>
-				
+
 				<li>
 					<div id="community"><a href="/forum/group.php" rel="nofollow">COMMUNITY</a></div>
 					<ul id="communityitems">
@@ -181,43 +181,43 @@
 <div id="ABcol">
 	<h1>PRIVACY POLICY</h1>
 	<div class="modBox">
-		<p>Casino City takes your privacy seriously. Please read the following to learn more about our privacy policy. <br>
+		<p>The Gambling Portal Webmasters Association (the GPWA) takes your privacy seriously. Please read the following to learn more about our privacy policy. <br>
 			NOTICE: Click <a href="http://www.ftc.gov/infosecurity/" target="_blank">here</a> 
 			for important information about safe surfing from the Federal Trade Commission. 
 			</p>
 			<h2>What This Privacy Policy Covers </h2>
 			<ul>
-				<li>This policy covers how Casino City treats personal information that 
-				Casino City collects and receives, including information related to 
-				your past use of Casino City products and services. Personal information 
+				<li>This policy covers how the GPWA treats personal information that 
+				the GPWA collects and receives, including information related to 
+				your past use of the GPWA products and services. Personal information 
 				is information about you that is personally identifiable like your name, 
 				address, email address, or phone number, and that is not otherwise publicly 
 				available.</li>
 				<li>This policy applies only to information gathered during your use of 
-				products and services provided by the Casino City Network of websites.<br>
-				</li><li> This policy does not apply to the practices of companies that Casino 
-				City does not own or control, or to people that Casino City does not 
+				products and services provided by the GPWA Network of websites.<br>
+				</li><li> This policy does not apply to the practices of companies that the GPWA 
+				does not own or control, or to people that the GPWA does not 
 				employ or manage.</li>
 			</ul>
 			<h2>Information Collection and Use </h2>
 			<p><strong>General </strong></p>
 			<ul>
-				<li>Casino City collects personal information when you register with Casino 
-				City, when you use Casino City products or services, when you visit 
-				Casino City pages or the pages of certain Casino City partners, and 
-				when you enter promotions or sweepstakes. Casino City may combine information 
+				<li>The GPWA collects personal information when you register with the GPWA,
+				when you use the GPWA products or services, when you visit 
+				the GPWA pages or the pages of certain GPWA partners, and 
+				when you enter promotions or sweepstakes. The GPWA may combine information 
 				about you that we have with information we obtain from business partners 
 				or other companies.</li>
 				<li>When you register we ask for information such as your name, email 
 				address, birth date, gender, address or zip code, occupation, industry, 
-				and personal interests. Once you register with Casino City and sign 
+				and personal interests. Once you register with the GPWA and sign 
 				in to our services, you are not anonymous to us.</li> 
-				<li>Casino City collects information about your transactions with us and 
+				<li>The GPWA collects information about your transactions with us and 
 				with some of our business partners.</li>
-				<li>Casino City automatically receives and records information on our 
-				server logs from your browser, including your IP address, Casino City 
+				<li>The GPWA automatically receives and records information on our 
+				server logs from your browser, including your IP address, GPWA 
 				cookie information, and the page you request.</li>
-				<li>Casino City uses information for the following general purposes: to 
+				<li>The GPWA uses information for the following general purposes: to 
 				customize the advertising and content you see, fulfill your requests 
 				for products and services, improve our services, contact you, conduct 
 				research, and provide anonymous reporting for internal and external 
@@ -225,21 +225,21 @@
 			</ul>
 			<strong>Children </strong>
 			<ul>
-				<li>We ask that children under age 13 not register with Casino City because 
+				<li>We ask that children under age 13 not register with the GPWA because 
 				we do not provide services appropriate for their age.</li>
 			</ul>
 			<h2>Information Sharing and Disclosure</h2>
 			<ul>
-				<li>Casino City does not rent, sell, or share personal information about 
+				<li>The GPWA does not rent, sell, or share personal information about 
 				you with other people or nonaffiliated companies except to provide products 
 				or services you've requested, when we have your permission, or under 
 				the following circumstances: 
 				<ul>
 					<li> 
 					We provide the information to trusted partners who work on behalf 
-					  of or with Casino City under confidentiality agreements. These 
-					  companies may use your personal information to help Casino City 
-					  communicate with you about offers from Casino City and our marketing 
+					  of or with the GPWA under confidentiality agreements. These 
+					  companies may use your personal information to help the GPWA 
+					  communicate with you about offers from the GPWA and our marketing 
 					  partners. However, these companies do not have any independent 
 					  right to share this information.</li> 
 					<li>We respond to subpoenas, court orders, or legal process, or to 
@@ -248,51 +248,51 @@
 					<li>We believe it is necessary to share information in order to investigate, 
 					  prevent, or take action regarding illegal activities, suspected 
 					  fraud, situations involving potential threats to the physical 
-					  safety of any person, violations of Casino City's terms of use, 
+					  safety of any person, violations of the GPWA's terms of use, 
 					  or as otherwise required by law.</li> 
-					<li>We transfer information about you if Casino City is acquired 
-					  by or merged with another company. In this event, Casino City 
+					<li>We transfer information about you if the GPWA is acquired 
+					  by or merged with another company. In this event, the GPWA 
 					  will notify you before information about you is transferred and 
 					  becomes subject to a different privacy policy.</li> 
-					<li>Casino City displays 
+					<li>The GPWA displays 
 					  targeted advertisements based on personal information. Advertisers 
 					  (including ad serving companies) may assume that people who interact 
 					  with, view, or click on targeted ads meet the targeting criteria 
 					  - for example, women ages 25-30 from a particular geographic area.</li> 
-					<li>Casino City does not provide any personal information to the 
+					<li>The GPWA does not provide any personal information to the 
 					  advertiser when you interact with or view a targeted ad. However, 
 					  by interacting with or viewing an ad you are consenting to the 
 					  possibility that the advertiser will make the assumption that 
 					  you meet the targeting criteria used to display the ad.</li>
-					<li>Casino City advertisers include a variety of businesses such 
+					<li>The GPWA advertisers include a variety of businesses such 
 					  as casinos, travel services, and stores.</li>
 				</ul>
 				</li>
 			</ul>
 			<h2>Cookies</h2>
 			<ul>
-				<li> Casino City may set and access Casino City cookies on your computer.</li> 
-				<li> Casino City lets other companies that show advertisements on some 
+				<li> The GPWA may set and access GPWA cookies on your computer.</li> 
+				<li> The GPWA lets other companies that show advertisements on some 
 				of our pages set and access their cookies on your computer. Other companies' 
 				use of their cookies is subject to their own privacy policies, not this 
-				one. Advertisers or other companies do not have access to Casino City's 
+				one. Advertisers or other companies do not have access to the GPWA's 
 				cookies.</li>
-				<li> Casino City uses uses web beacons to access Casino City cookies inside 
-				and outside our network of web sites and in connection with Casino City 
+				<li> The GPWA uses web beacons to access GPWA cookies inside 
+				and outside our network of web sites and in connection with the GPWA 
 				products and services.</li>
 			</ul>
 			<h2> Your Ability to Edit and Delete Your Account Information and Preferences</h2> 
 			
 			<ul>
-				<li> You can edit your Casino City Account Information, including your 
+				<li> You can edit your GPWA Account Information, including your 
 				communications preferences, at any time.</li> 
 				<li> New categories of communications preferences may be added to the 
 				communication preferences page from time to time. Users who visit this 
 				page can opt out of receiving future communications from these new categories 
 				or they can unsubscribe by following instructions contained in the messages 
 				they receive.</li>
-				<li> Certain communications from Casino City, such as service announcements 
-				and administrative messages, are considered part of Casino City membership 
+				<li> Certain communications from the GPWA, such as service announcements 
+				and administrative messages, are considered part of the GPWA membership 
 				and you may not opt out of receiving them as long as your account is 
 				active.</li>			
 				<li> You may request that we de-activate or delete your account at any time. 
@@ -306,15 +306,15 @@
 				to provide products or services to you or in order to do their jobs.</li> 
 				<li>We have physical, electronic, and procedural safeguards that comply 
 				with federal regulations to protect personal information about you.</li> 
-				<li>Your Casino City Account Information is password-protected.</li> 
-				<li>In certain areas Casino City uses industry-standard SSL encryption 
+				<li>Your GPWA Account Information is password-protected.</li> 
+				<li>In certain areas the GPWA uses industry-standard SSL encryption 
 				to protect data transmissions.</li>
 			</ul> 
 			<h2> Changes to this Privacy Policy </h2>
 			<ul>
-				<li>Casino City may update this policy. We will notify you about significant 
+				<li>The GPWA may update this policy. We will notify you about significant 
 				changes in the way we treat personal information by sending a notice to 
-				the primary email address specified in your Casino City account or by 
+				the primary email address specified in your GPWA account or by 
 				placing a prominent notice on our site.</li>
 			</ul>
 			<h2> Questions and Suggestions </h2>
@@ -322,7 +322,7 @@
 				<li>If you have questions or suggestions, please complete a feedback 
 				form or you can contact us at: <br>
 				<br>
-				Casino City Customer Care - Privacy Policy Issues <br>
+				GPWA Customer Care - Privacy Policy Issues <br>
 				95 Wells Avenue Newton Centre, MA 02459 (617) 332-2850</li>
 			</ul>
 			
@@ -362,7 +362,7 @@
 <div><img src="/i/contentFooter.gif" alt="" width="795" height="10"></div>
 
 	<div id="footerContainer"></div>
-	<div id="copyright">Copyright © 2001-2010 Gambling Portal Webmasters Association.  All rights reserved. &nbsp; <a href="/terms_of_use.asp" title="Terms of Use">Terms of Use</a>  |  <a href="/privacy/" title="Privacy Policy">Privacy Policy</a>
+	<div id="copyright">Copyright © 2001-2011 Gambling Portal Webmasters Association.  All rights reserved. &nbsp; <a href="/terms_of_use.asp" title="Terms of Use">Terms of Use</a>  |  <a href="/privacy/" title="Privacy Policy">Privacy Policy</a>
 	<!-- START SCANALERT CODE -->
 	<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.gpwa.org"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.gpwa.org/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;" align="absmiddle" style="margin-left:15px;"></a>
 	<!-- END SCANALERT CODE --> 
