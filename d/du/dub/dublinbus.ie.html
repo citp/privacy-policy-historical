@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dublinbus.ie privacy policy that was archived on 2010-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218010733id_/http%3A//www.dublinbus.ie/en/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dublinbus.ie privacy policy that was archived on 2011-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619194132id_/http%3A//www.dublinbus.ie/en/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="ctl00_HtmlElement" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head id="ctl00_Head1"><title>
 	Privacy - Dublin Bus
@@ -14,6 +14,19 @@
 <script language="javascript" type="text/javascript" src="/Templates/Public/Scripts/jquery-1.4.2.min.js"></script>
 <script language="javascript" type="text/javascript" src="/Templates/Public/Scripts/CustomExtra.js"></script>
 <script type="text/javascript" src="/Templates/Public/Scripts/jquery.cycle.lite.js"></script>
+<script type="text/javascript" src="/Templates/Public/Scripts/rounded-corners.js"></script>
+
+ <!--[if lte IE 6]>
+<link href="/Templates/Public/Styles/IE6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="/Templates/Public/Styles/IE7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if gte IE 8]>
+<link href="/Templates/Public/Styles/IE8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
 
 
 
@@ -271,7 +284,7 @@ __VIEWSTATE" value="">
        
         <li>
          <a href="/en/Fares--Tickets/Student-Travel/">
-          Student Travel
+          Student Travelcard
          </a> 
         </li>
        
@@ -334,8 +347,26 @@ __VIEWSTATE" value="">
         <ul id="nav-list">
        
         <li>
+         <a href="/en/Network-Direct/Network-Direct-Phase-1/">
+          Network Direct Phase 1
+         </a> 
+        </li>
+       
+        <li>
+         <a href="/en/Network-Direct/Network-Direct-Phase-2/">
+          Network Direct Phase 2
+         </a> 
+        </li>
+       
+        <li>
          <a href="/en/Network-Direct/Bus-Service/">
           Bus Service
+         </a> 
+        </li>
+       
+        <li>
+         <a href="/en/Network-Direct/Malahide-Road/">
+          Malahide Road
          </a> 
         </li>
        
@@ -346,20 +377,32 @@ __VIEWSTATE" value="">
         </li>
        
         <li>
+         <a href="/en/Network-Direct/Cabra/">
+          Cabra
+         </a> 
+        </li>
+       
+        <li>
+         <a href="/en/Network-Direct/Ballyfermot-/">
+          Ballyfermot 
+         </a> 
+        </li>
+       
+        <li>
          <a href="/en/Network-Direct/Planned-Improvements/">
           Planned Improvements
          </a> 
         </li>
        
         <li>
-         <a href="/en/Network-Direct/Customer-Information/">
-          Customer Information
+         <a href="/en/Network-Direct/Howth-Road/">
+          Howth Road / Portmarnock
          </a> 
         </li>
        
         <li>
-         <a href="/en/Network-Direct/Network-Direct-Phase-1/">
-          Network Direct Phase 1
+         <a href="/en/Network-Direct/Customer-Information/">
+          Customer Information
          </a> 
         </li>
        
@@ -494,6 +537,10 @@ __VIEWSTATE" value="">
                                     
                                         </ul>
                                     
+                            </div>
+                            <div style="float: left; margin: 0px 0px 0px 2px; padding-top:6px;">
+                           <a href="http://twitter.com/DublinBusNews" title="twitter" target="_blank"><img src="/Templates/Public/Images/icons/icon-twitter.jpg" alt="twitter"></a>
+                           <a href="http://www.facebook.com/DublinBusNews" title="facebook" target="_blank"><img src="/Templates/Public/Images/icons/icon-facebook.gif" alt="facebook"></a>
                             </div> 
                             
 
@@ -637,8 +684,9 @@ __VIEWSTATE" value="">
     <script language="javascript" type="text/javascript">  
 
      function OnClientItemsRequesting_DubBus_RoutePlannerPicker(sender, eventArgs){  
-        var context = eventArgs.get_context();  
-        context["Filter"] = sender.get_text();  
+        var context = eventArgs.get_context();
+        context["Filter"] = sender.get_text();
+        context["MinStringLength"] = 0;
      }  
      
             function OnClientItemsRequested_DubBus_RoutePlannerPicker(sender, eventArgs)  
