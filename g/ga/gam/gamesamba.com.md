@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesamba.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218022012id_/http%3A//www.gamesamba.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesamba.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619201446id_/http%3A//www.gamesamba.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D164) for the most accurate reproduction.*
 
-# 
+# Privacy - Game Samba
 
 GameSamba Privacy Policy
 
@@ -30,7 +30,7 @@ Information Sharing and Disclosure
 
 GameSamba does not rent, sell or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-1.We provide the information to trusted partners who may assist us or work on behalf of or with GameSamba under confidentiality agreements. These companies may use your personal information to help GameSamba communicate with you about offers from GameSamba and our marketing partners. However, these companies do not have any independent right to share this information. You have the right to opt out of these communications upon notifying us via email at [support@GameSamba.com](mailto:support@GameSamba.com)
+1.We provide the information to trusted partners who may assist us or work on behalf of or with GameSamba under confidentiality agreements. These companies may use your personal information to help GameSamba communicate with you about offers from GameSamba and our marketing partners. However, these companies do not have any independent right to share this information. You have the right to opt out of these communications upon notifying us via email at support@GameSamba.com
 
 2\. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
 
@@ -58,6 +58,6 @@ GameSamba may update this policy. We will notify you about significant changes i
 
 How to Contact Us
 
-While we strive for error free performance, we cannot always catch an unintended privacy issue. As a result, we encourage your questions and comments about any privacy concerns. Please direct them to us by an email to [support@gamesamba.com](mailto:support@gamesamba.com) . 
+While we strive for error free performance, we cannot always catch an unintended privacy issue. As a result, we encourage your questions and comments about any privacy concerns. Please direct them to us by an email to support@gamesamba.com. 
 
 Privacy Statement Last Updated: December 16, 2010
