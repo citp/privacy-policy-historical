@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224183829id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620001846id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
 
 # CYDEC — Privacy Policy
 
