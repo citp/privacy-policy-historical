@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryobi.com.au privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218235119id_/http%3A//www.ryobi.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryobi.com.au privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619203601id_/http%3A//ryobi.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Ryobi - Privacy
 
