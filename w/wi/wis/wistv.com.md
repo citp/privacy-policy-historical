@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wistv.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219225943id_/http%3A//www.wistv.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wistv.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619191923id_/http%3A//www.wistv.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - WIS News 10 - Columbia, South Carolina |
 
