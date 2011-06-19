@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandthunder.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206183410id_/http%3A//brandthunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandthunder.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619062933id_/http%3A//brandthunder.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Brand Thunder
+# Privacy Policy | Brand Thunder
 
 You provide information to us when you use the software, applications, services and web sites of Brand Thunder (“Brand Thunder”) or when you register with us. In the following three sections, we explain what information is collected, how it is used, and the choices that you have with your information. 
 
