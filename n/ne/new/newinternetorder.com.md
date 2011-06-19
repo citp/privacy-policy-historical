@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newinternetorder.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113071525id_/http%3A//newinternetorder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newinternetorder.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619093332id_/http%3A//newinternetorder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | newInternetOrder.com
 
@@ -42,6 +42,28 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**E-mail Privacy Policy**
+
+We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
+
+_Why did you receive an email from us?_
+
+If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
+
+_How we protect your privacy_
+
+We use security measures to protect against the loss, misuse and alteration of data used by our system.
+
+_Sharing and Usage_
+
+We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
+
+_How can you stop receiving email from us?_
+
+Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
+
+If you have received unwanted, unsolicited emails sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to support@newinternetorder.com for review.
 
 **Your Consent**
 
