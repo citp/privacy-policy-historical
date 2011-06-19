@@ -1,6 +1,28 @@
-> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618141807id_/http%3A//www.ok.co.uk/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok.co.uk privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619203651id_/http%3A//www.ok.co.uk/show/privacy) for the most accurate reproduction.*
 
 # OK! Magazine: First For Celebrity News ::
+
+## 
+
+## General Enquiries
+
+For all general enquiries regarding the OK! website or the OK! magazine, please contact us using the details below.
+
+Email:  
+[web.help@express.co.uk](mailto:web.help@express.co.uk)
+
+* * *
+
+### Phone General Enquiries: 
+
+**Call: 020 8612 7000**
+
+* * *
+
+OK! Magazine,  
+The Northern & Shell Building,  
+Number 10 Lower Thames Street,  
+London, EC3R 6EN 
 
 Northern & Shell is committed to your right to Privacy and will only use your data as set in our privacy policy below. Please read this information carefully. By using the Site you agree to us collecting and using your personal information with the details below. 
 
