@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218032709id_/http%3A//dailyme.com/corporates/index/10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619201811id_/http%3A//dailyme.com/corporates/index/10) for the most accurate reproduction.*
 
-# Privacy Policy - DailyMe
+# Corporates
 
 DailyMe, Inc., a Delaware corporation ("DailyMe") is committed to safeguarding your privacy online. Please read the following policy to understand how your personally identifiable information will be treated as you make use of our current offerings. DailyMe has created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses how we gather information from users, and others who visit the DailyMe website, our information dissemination practices and the information services therein. 
 
