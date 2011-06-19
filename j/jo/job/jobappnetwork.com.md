@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobappnetwork.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031071240id_/http%3A//jobappnetwork.com/home.aspx%3Fctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobappnetwork.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619112252id_/http%3A//jobappnetwork.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Automated Hourly and Salaried Hiring Solution – JobApp Network
 
@@ -44,4 +44,4 @@ JobApp Network will occasionally update this Statement of Privacy to reflect com
 
 Contact Information
 
-JobApp Network welcomes your comments regarding this Statement of Privacy. If you believe that JobApp Network has not adhered to this Statement, please contact JobApp Network at [jthornton@jobappnetwork.com](mailto:jthornton@jobappnetwork.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+JobApp Network welcomes your comments regarding this Statement of Privacy. If you believe that JobApp Network has not adhered to this Statement, please contact JobApp Network at [administrator@jobappnetwork.com](mailto:administrator@jobappnetwork.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
