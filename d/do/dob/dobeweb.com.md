@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dobeweb.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208171637id_/http%3A//dobeweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobeweb.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619134414id_/http%3A//dobeweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy _Dobeweb
 
@@ -16,5 +16,3 @@ We also use third party advertisements on dobeweb.com to support our site. Some 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Thank you for visiting dobeweb.com Privacy Policy page.
-
-[wordpress privacy policy plugin](http://dobeweb.com/privacy-policy "wordpress privacy policy plugin")
