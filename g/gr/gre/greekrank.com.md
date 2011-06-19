@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611050404id_/http%3A//www.greekrank.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619201658id_/http%3A//www.greekrank.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - GreekRank.com
+# Fraternity and Sorority Reviews, Ratings, & Rankings - GreekRank
 
-GREEKRANK.COM - PRIVACY POLICY
+GreekRank.com - Privacy Policy
 
-LAST REVISED: JULY 20, 2008
+[](http://www.addthis.com/bookmark.php)
 
-YOU ARE USING AND/OR VIEWING THIS SITE AT YOUR OWN RISK. IF YOU ARE UNSURE OF WHAT THIS MEANS, PLEASE LEAVE THIS SITE NOW. IF YOU DO KNOW WHAT THIS MEANS, READ THESE TERMS OF USE BEFORE USING AND BROWSING THIS SITE.  
-
+### LAST REVISED: JULY 20, 2008  
+YOU ARE USING AND/OR VIEWING THIS SITE AT YOUR OWN RISK. IF YOU ARE UNSURE OF WHAT THIS MEANS, PLEASE LEAVE THIS SITE NOW. IF YOU DO KNOW WHAT THIS MEANS, READ THESE TERMS OF USE BEFORE USING AND BROWSING THIS SITE.
 
 We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit.
 
@@ -21,4 +21,4 @@ We have relationships with other companies that we allow to place ads on this Si
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to this Site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at this Site periodically.
 
-If you have any questions, please [contact us](https://web.archive.org/web/20090611050404id_/http%3A//www.greekrank.com/contact.php).
+If you have any questions, please [contact us](https://web.archive.org/web/20110619201658id_/http%3A//www.greekrank.com/contact.php). 
