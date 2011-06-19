@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21sexturycash.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218024359id_/http%3A//21sexturycash.com/external.php%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21sexturycash.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619022548id_/http%3A//21sexturycash.com/external.php%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -6,4 +6,4 @@ Your privacy is **VERY IMPORTANT** for us. All information sent to us in any way
 
 We have no obligations with any kind of credit or tax authorities so therefore we don't give out any revenue or payout information on anbody except if we are forced to do it by law.
 
-Should you have other questions or concerns about these privacy policies, please send us an email.
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/external.php?page=contactus).
