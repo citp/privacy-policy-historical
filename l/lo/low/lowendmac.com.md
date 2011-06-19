@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222073659id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619064202id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -25,7 +25,7 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 
 [Dan Knight](https://web.archive.org/email/dan-knight.htm) , publisher, Low End Mac
 
-Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©1997-2010 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/index.html), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
+Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©1997-2011 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/index.html), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
   Access our RSS news feed at [http://lowendmac.com/feed.xml](https://web.archive.org/feed.xml).  
   Email may be published at our discretion; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. If you prefer your message not be published, mark it "not for publication." Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
@@ -33,8 +33,8 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©19
   [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, iPhone, PowerBook, MacBook, MagSafe, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged. 
 
 | 
-* Mac of the Day: [PowerBook 150](https://web.archive.org/pb/powerbook-150.html), 1994.07.18: The first PowerBook with an IDE hard drive also supports 40 MB RAM.
-* List of the Day: [G-List](http://lowendmac.com/lists/g-list.shtml) is for Power Mac G3, G4, and G5 users.  
+* Mac of the Day: [Macintosh 512K 'Fat Mac'](https://web.archive.org/compact/macintosh-512k-fat-mac.html), 1984.09.10: The first Mac with enough memory for serious work.
+* List of the Day: [Vintage Macs](http://lowendmac.com/lists/vintagemacs.shtml) is for all 680x0-based Macs, from the 128K through Quadras.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
