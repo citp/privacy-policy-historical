@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225081607id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619101300id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
 
 # About Techwatch
 
@@ -8,7 +8,7 @@ Main areas of coverage include satellite TV news and help, cable TV, home media,
 
 While Techwatch.co.uk is primarily delivered for UK readers, we also aim to cover key events across Europe, the USA, as well as world technology issues as relevant.
 
-This service is provided by [Brite Media](http://www.britemedia.co.uk/).
+This service is provided by Brite Media.
 
 ## Staff
 
@@ -29,13 +29,9 @@ The Techwatch.co.uk forums also includes a volunteer staff of over 20 dedicated 
 ## Contact
 
 Brite Media are happy to receive emails and correspondence regarding the Techwatch.co.uk publication. If you wish to email us about Techwatch.co.uk, please do send emails to:  
-**editors @ britemedia.co.uk**
 
-To contact Brite Media directly about the site, or to raise feedback or complaints about the site operations, please use the following information:
 
 _(Please note that Brite Media nor its parent company neither sell nor provide technical support for any satellite, cable, TV, or computer related products)_
-
-**Email:** editors @ britemedia.co.uk
 
 **Postal Address:** Brite Media, Second Floor, 145-157 St John Street, London EC1V 4PY, UK
 
@@ -46,8 +42,6 @@ Company details: Registration number: SC289201, VAT no. : 870 2138 42
 We’re happy to receive your press releases on any aspect of the technology industry, companies, and technical products/services, employment and staff announcements, and similar.
 
 Please feel free to send your press releases and other information in text format to: 
-
-editors @ britemedia.co.uk
 
 ## Disclaimer
 
