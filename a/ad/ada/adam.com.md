@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230025409id_/http%3A//www.adam.com/privacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619034927id_/http%3A//www.adam.com/privacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
-
-Privacy Statement 
 
 Our Privacy Statement explains how we manage information obtained from you. Throughout this document, we have highlighted various terms and linked them to our Glossary or the relevant section of this website.
 
