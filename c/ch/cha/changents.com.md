@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changents.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207122601id_/http%3A//changents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changents.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619092657id_/http%3A//changents.com/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Changents
 
