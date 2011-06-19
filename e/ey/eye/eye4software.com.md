@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eye4software.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618132928id_/http%3A//www.eye4software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eye4software.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619204512id_/http%3A//www.eye4software.com/privacy) for the most accurate reproduction.*
 
-# GPS / GIS Toolkits and Software - Eye4Software B.V.
+# GPS Software - Eye4Software B.V. - Privacy Policy
 
 ### Collected Information
 
