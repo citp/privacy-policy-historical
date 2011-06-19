@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218053501id_/http%3A//www.audionetwork.com/content/uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619195730id_/http%3A//www.audionetwork.com/content/uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 Data Protection Information
 
 [  
-www.audionetworkplc.com](http://www.audionetworkplc.com/) is owned and operated by Audio Network Plc.
+www.audionetwork.com](http://www.audionetwork.com/) is owned and operated by Audio Network Plc.
 
 Audio Network Plc and its subsidiary companies Audio Network US Inc, Audio Network Australia Pty Ltd, Audio Network Canada Inc and Audio Network (Holland) BV maintain a strict customer information privacy policy to protect any personal information that you may give us.
 
@@ -27,30 +27,30 @@ As all online payments are processed by WorldPay on our behalf your credit card 
 
 ### About Cookies
 
-No cookies will be saved to your hard disk as the Audio Network site does not use them.
+This website uses Google Analytics and other measurement tools to help analyse how users use the site. These tools use 'cookies', which are text files placed on your computer to collect standard internet log information and visitor behaviour information. This data is entirely anonymous. Cookies cannot be used to get data from your hard drive, get your e-mail address or personally identifiable information about you. 
 
 ### What Happens to   
 my Personal Data?
 
-We use the personal data that you provide directly to administer your  [www.audionetworkplc.com](http://www.audionetworkplc.com/) account, to supply you with the products and services you choose and to maintain records of your access to, and use of, online services. 
+We use the personal data that you provide directly to administer your  [www.audionetwork.com](http://www.audionetwork.com/) account, to supply you with the products and services you choose and to maintain records of your access to, and use of, online services. 
 
 If you are based outside the United Kingdom your personal information may be forwarded to our local agent or representative. 
 
 We do not pass your personal information on to third parties other than our local agent or representative.
 
-By registering online, buying products or by submitting your details for other purposes you consent to the collection and processing of your personal data as described above. If you have any queries regarding our use of your personal data then please contact [office@audionetworkplc.com](mailto:office@audionetworkplc.com)
+By registering online, buying products or by submitting your details for other purposes you consent to the collection and processing of your personal data as described above. If you have any queries regarding our use of your personal data then please contact [office@audionetwork.com](mailto:office@audionetwork.com)
 
 ### Will I be Contacted?
 
 From time to time we may contact you with information relating to our goods and services.
 
-Please note that you can stop receiving this information at any time by either amending your account details online or by contacting [office@audionetworkplc.com](mailto:office@audionetworkplc.com)
+Please note that you can stop receiving this information at any time by either amending your account details online or by contacting [office@audionetwork.com](mailto:office@audionetwork.com)
 
 ### Changes to this   
 Privacy Policy
 
 Occasionally it may be necessary for us to make changes or alterations to this Privacy Policy.
 
-You are advised that it is your responsibility to check the [www.audionetworkplc.com](http://www.audionetworkplc.com/) website for such changes.
+You are advised that it is your responsibility to check the [www.audionetwork.com](http://www.audionetwork.com/) website for such changes.
 
 Your order is covered by the Privacy Policy in force at the time you make your order.
