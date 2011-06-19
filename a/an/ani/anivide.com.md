@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anivide.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223101914id_/http%3A//www.anivide.com/index.php%3Fviewpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anivide.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619192729id_/http%3A//www.anivide.com/index.php%3Fviewpage%3Dprivacy) for the most accurate reproduction.*
 
 # Anivide.com - Anime, friends, and everything in between
 
