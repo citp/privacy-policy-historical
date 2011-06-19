@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218051401id_/http%3A//smartcruiser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619215725id_/http%3A//smartcruiser.com/privacy) for the most accurate reproduction.*
 
 # SmartCruiser — A Discount Cruise Site featuring Discount Cruises and Cruise Deals
 
@@ -74,9 +74,16 @@ If a user's personally identifiable information changes (such as your zip code),
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our registration form has an "opt-out" mechanism so users who utilize our services, but don't want any marketing material, can keep their email address off of our lists.
 
-Members who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [unsubscribe@smartcruiser.com](mailto:unsubscribe@smartcruiser.com).
+Members who no longer wish to receive our newsletter or promotional materials from us may opt-out of receiving these communications by: 
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+  1. Clicking the unsubscribe link in the footer of every email message and following the instructions provided;
+  2. Sending us an email to unsubscribe@smartcruiser.com from the email address you wish to unsubscribe and include “UNSUBSCRIBE ME” in the subject;
+  3. Contacting our Customer Service Department during normal business hours by calling 1-561-393-4610;
+  4. Notifying us in writing including the email address you wish to unsubscribe along with your full name and phone number to: Smart Travel Group, Ltd., 4800 North Federal Highway, Suite 207D, Boca Raton, FL 33431
+
+
+
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
 **Notification of Changes**
 
