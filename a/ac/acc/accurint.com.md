@@ -1,74 +1,74 @@
-> *The following text is extracted and transformed from the accurint.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617061612id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accurint.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619055056id_/http%3A//privacypolicy.lexisnexis.com/accurint.html) for the most accurate reproduction.*
 
-# LexisNexis Privacy Statement - LexisNexis
+# LexisNexis® Risk Solutions - Accurint Online Privacy Policy
 
-## Your Privacy is Important to Us
+_(Last updated 10/14/2010)_
 
-Effective March 6, 2006
+To underscore our commitment to privacy and our vision that good privacy is good business, we have adopted this Online Privacy Policy for [www.accurint.com](http://www.accurint.com/) which is operated by LexisNexis Risk Solutions FL Inc. (“LexisNexis Risk”).  This policy applies only to information collected through these Sites. It does not apply to information collected by other means.  This site is not directed at children under the age of 13.
 
-## Commitment To Privacy
+If you have questions or concerns regarding this statement, please contact us at:
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on [LexisNexis home page](https://web.archive.org/default.aspx "LexisNexis home page") and at every point where personally identifiable information may be requested.
+LexisNexis  
+Privacy, Security and Compliance Organization  
+PO Box 933  
+Dayton, Ohio 45401  
+Telephone: 1.800.831.2578  
+Email: [Privacy.Information.Mgr@lexisnexis.com](mailto:Privacy.Information.Mgr@lexisnexis.com)
 
-This notice applies to all information collected from or submitted to the following LexisNexis Group ("LNG") Web sites, but to make this notice easier to read we will use the term "our Web site", which means lexisnexis.com, lexis.com®, nexis.comSM, lexisONE.com®, lawyers.comSM, accurint.com, expscreening.lexisnexis.com, and accurintbusiness.com. Other LNG Web sites may operate under their own privacy notices such as [www.lexisnexis.com/risk](http://www.lexisnexis.com/risk "www.lexisnexis.com/risk") and affiliated hypersites identified in the lexisnexis.com/risk online privacy policy.
+##### INFORMATION COLLECTION
 
-Our Web site contains links to other Web sites operated by third parties. LNG is not responsible for the privacy practices or policies of such third party web sites and this Notice does not apply to those Web sites.
+**I. Personally Identifiable Information**
 
-## Application of This Notice
+Personally identifiable information (“PII”)  collected from you through this Site may include, for example, name, mailing address, e-mail address, User ID and password, information you may submit when requesting a report or information about an individual, any responses you choose to provide to survey questions, information provided in connection with subscribing to a newsletter, or any inquires you may make through this Site. We do not share, sell, rent or trade that PII with third parties for their promotional purposes.
 
-This Notice applies only to the information collected by LNG from the users of our Web site. It does not apply to information collected by LNG in any other way, including offline.
+**II. Cookies**
 
-## The Information We Collect
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. This Site uses first party cookies, however PII is not collected through the use of cookies, Cookies are used to assist us in managing your visit to our site.
 
-Our Web site is not set up to automatically collect personally identifiable information from each visitor to our Web site. It does recognize the home server of visitors, but not email addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our Web site. This information is used only for internal purposes by our technical support staff.
+While most browsers are set to accept cookies by default, you can set yours to refuse cookies or to alert you before accepting them. Your browser manufacturer has information on changing the default setting for your specific browser.
 
-Our Web site does track certain information about the visits to our Web site. For example, we compile statistics that show the numbers and frequency of visitors to our Web site and its individual pages. These aggregated statistics are used internally to improve our Web site and for product development and marketing purposes generally. Those aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information.
+**III. Nonpersonally-identifiable Information**
 
-In a few areas on our Web site, we ask you to provide information that will enable us to verify whether you are entitled to access and use certain information, materials and services available from our Web site, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your customer relationship with LNG. It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.
+This Site also collects non-PII. For example, as you browse this Site we may collect information about your visit, but not about you personally. Via Web server logs, for example, we may monitor statistics such as: the number of people that visit this Site, which page(s) are visited on this Site, from which domain our visitors come (e.g., aol.com, hotmail.com, etc.), and which browsers people use to visit this Site (e.g., Apple Safari, Microsoft Internet Explorer, etc.). This Site may also use outsourcing programs to assist us in analyzing this data to better tailor this Site.
 
-For example, we request information from you when you:
+##### INFORMATION USE AND CONSUMER CHOICE
 
-  1. Log on to certain areas of our Web site, such as the lexis.com® Research System, where you may be prompted to provide us with your LexisNexis® ID number and password as a condition to gaining access to certain information, materials or services
-  2. Register or sign up to use a service such as lexisONE.com®
-  3. Subscribe to a newsletter or desire to be added to our mailing lists for other products or services
-  4. Place an order
-  5. Participate in a sweepstakes or other promotional offer
-  6. Provide feedback in an online survey.
+The information collected by this Site is used only for responding to your inquiries and otherwise corresponding with you, for processing transactions you request, maintaining your account (if you have one), for other purposes permitted by your organization's customer agreement(s) (if any), and for the administration, review and/or the improvement the content of this Site.
 
+Where permitted by your organization’s customer agreement(s), we may use information about searches or submissions that business users provide to us to enhance our products and services.  Such uses may include using the fact that a search was conducted related to an identity or using some portion of search queries to enhance our product offerings.  These types of uses will only occur for searches or submissions for which such use is contractually authorized in our customer agreement; thus, they will not occur if a customer has opted out of such use in their customer agreement.  We may contact you in response to your comments or inquiries, as part of the maintenance of your account with us (if you have one), or in order to complete a transaction that you requested.
 
+We may also contact you to inform you of other products or services we believe may be of interest to you, but we will offer you an opportunity not to receive such communications.
 
-In each of the instances above, we typically ask for your name, email address, phone number, address, law practice information, product preference information, LexisNexis ID number and password, as well as other similar personal information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time.
+If you decide that you do not want to receive further e-mails regarding your inquiry from LexisNexis Risk, you can reply to the e-mail or use the opt-out mechanism provided in the e-mail with a request that we not continue to e-mail you. 
 
-How We Use Information: LNG Only Uses Your Personal Information for Specific Purposes
+##### ONWARD TRANSFER
 
-The personal information you provide to us when using our Web site, such as your name, postal or email address or telephone number will be kept confidential and used to support your customer relationship with LNG, and to notify you of special offers, updated information and new products and services from LNG, offers from third parties that we think may be of interest to you, or used by LNG or third parties for the purpose of conducting market research or surveys on behalf of LNG. Agents or contractors of LNG who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for LNG.
+We may disclose information you provide to us to third parties in order to complete a transaction that you requested or as otherwise permitted by your organization's customer agreement(s) (if any).
 
-LNG may enhance or merge your information collected at its Web site with data from third parties for purposes of marketing products or services to you.
+We may also outsource some tasks, including the operation of certain web site functions that require access to information you supply online and information about your visits to this Site. In such cases, however, we require that the companies acting on our behalf institute safeguards to protect the confidentiality of your information.
 
-With respect to network advertising companies (companies that manage and provide advertising for numerous unrelated companies), to the extent that LNG utilizes such advertising companies to provide advertisements on our Web site, LNG may provide them with your log-in name and any demographic information about you that we collect. Those advertising companies may combine that data with non-personally identifiable data collected by the advertising company from your computer solely for the purpose of delivering on our Web site advertisements that are targeted to you.
+If our company or our assets are acquired by another company, that company will assume responsibility for the personal information collected by us through this Site and it will assume the rights and obligations regarding the information collected through this Site, as described in this Privacy Policy.
 
-Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with LNG, such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
+Finally, please note that we may disclose personal information when required by law or in the good faith belief that such action is necessary in order to comply with the law or legal process.. 
 
-## You Can Opt Out of Receiving Further Marketing from LNG at Any Time
+##### ACCESS AND CORRECTION
 
-We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only LNG (or agents or contractors working on behalf of LNG and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from LNG by emailing us at legalnotices@LexisNexis.com.
+As an information company, we know the importance of accurate data. Therefore, we strive to maintain the accuracy of the information collected through this Site. We will provide you (whether you are a consumer or a customer) with access to PII you provide through this Site for as long as we maintain that information in a readily accessible format. Similarly, we permit and encourage you to correct inaccuracies in the information you submit to us through this Site.
 
-## Our Commitment to Data Security
+If you wish to access information that you have submitted through this Site or to request the correction of any inaccurate information you have submitted through this Site, please use the mechanisms provided by this Site or send an e-mail to: [Privacy.Information.Mgr@lexisnexis.com](mailto:Privacy.Information.Mgr@lexisnexis.com). 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+The access and correction provisions of this Online Privacy Policy only apply to PII collected from you through this Web Site. Individuals that are interested in information about how to access and/or request the correction of personal information LexisNexis Risk maintains about them (such as public record information, insurance claims information, or information for employment background screening) for potential inclusion in information products and services can visit [personalreports.lexisnexis.com](http://personalreports.lexisnexis.com/) or [www.lexisnexis.com/privacy](http://www.lexisnexis.com/privacy).
 
-## How You Can Access or Correct Your Information
+##### SECURITY
 
-You can request a copy of the personally-identifiable information that LNG has collected about you via the Internet by contacting our Information Privacy Manager at the address below. You can also have factual inaccuracies in this information corrected by contacting this same person.
+We take steps to protect against the loss, misuse, or unauthorized alteration of PII collected through this Site. We recognize the importance of security for all PII collected by this Site. 
 
-## How to Contact Us
+Once we receive PII, we take steps to protect its security on our systems.   We limit access to PII to those employees who need access in order to carry out their job responsibilities. 
 
-If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:
+##### OTHER WEB SITES
 
-Privacy Information Manager, c/o LexisNexis, P.O. Box 933 Dayton, OH 45401, or call us at 1-800-831-2578.
+This Online Privacy Policy only applies to the web site(s) identified in the first paragraph of this privacy policy. This Site, however, may include links to other web sites which may be operated by other LexisNexis companies or by third parties. In order to better serve our consumers and their privacy interests, certain products within LexisNexis Risk may also be governed by their own privacy policies separate from this Online Privacy Policy.  If you visit a web site not listed above, we recommend that you review the online privacy policy of that web site to determine how the operator of that web site will handle PII collected through that web site.
 
-## Learn More 
+##### POLICY CHANGES
 
-[Requesting Opt-Out](https://web.archive.org/privacy/for-consumers/opt-out-of-lexisnexis.aspx)   
-[Obtain Copies of Information about Yourself](https://web.archive.org/privacy/for-consumers/request-personal-information.aspx)   
-[Read Our Data Privacy Principles](https://web.archive.org/privacy/data-privacy-principles.aspx "Read Our Data Privacy Principles")
+We may revise this Online Privacy Policy from time to time. If we make any material changes to this Online Privacy Policy, the date of the most recent revision will be indicated above so that you can determine whether there have been any material revisions since your last visit.
