@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092904id_/http%3A//www.bannerhealth.com/About%2BUs/Legal%2BNotices/Privacy%2BStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620014411id_/http%3A//www.bannerhealth.com/About%2BUs/Legal%2BNotices/Privacy%2BStatement.htm) for the most accurate reproduction.*
 
 # Banner Health Privacy Statement
 
