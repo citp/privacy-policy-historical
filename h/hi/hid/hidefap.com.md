@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidefap.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218154458id_/http%3A//www.hidefap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidefap.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619134748id_/http%3A//hidefap.com/privacy.php) for the most accurate reproduction.*
 
 # Hide Fap Proxy - Unblock Sites with our free proxy. Works with: YouTube, Facebook, Myspace, Bebo.
 
