@@ -1,19 +1,11 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228150757id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619195620id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
-Join the Pyramyd Air mailing list. Stay abreast of **air gun news, articles,** and receive valuable **promotions**! 
+Join the Pyramyd Air mailing list today and receive a 5% off coupon code to be used on your next purchase. Stay abreast of **air gun news, articles,** and receive valuable **promotions**! 
 
 * * *
 
-|  **Enter your e-mail** :  
-  
-|   
-  
-  
----|---  
-We will NOT sell your email address to anybody!  
-  
   
   
 
@@ -24,10 +16,10 @@ So, are you looking for a fresh take on airguns? Some new information, perhaps? 
 
   
   
-[](http://www.ebillme.com/learn/pyramyd-air/)  
+|  [](http://www.ebillme.com/learn/pyramyd-air/)  
 ---  
-**Save an EXTRA $10 off $100 with eBillme!**   
-Instant rebate offer: Apply the eBillme coupon code ( **SAVE10EBM** ) after you choose eBillme as your payment option at [PyramydAir.com](http://www.pyramydair.com/). Special offer can be combined with other promotions at [PyramydAir.com](http://www.pyramydair.com/). **Offer valid from July 19, 2010 to December 31, 2010.** | [Offer details](http://www.pyramydair.com/ebillme/)  
+**10% Cash Back with eBillme!**   
+Earn 10% Cash Back when you checkout with eBillme and pay using your bank’s online bill pay. **Offer expires June 30, 2011. **Restrictions apply.** | [Offer details](http://www.pyramydair.com/ebillme/)  
   
 
 
