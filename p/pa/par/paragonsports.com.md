@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paragonsports.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619123521id_/http%3A//www.paragonsports.com/webapp/wcs/stores/servlet/PrivacyView%3FstoreId%3D10551%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragonsports.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619032838id_/http%3A//www.paragonsports.com/webapp/wcs/stores/servlet/PrivacyView%3FstoreId%3D10551%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.*
 
 # Privacy Policy
 
