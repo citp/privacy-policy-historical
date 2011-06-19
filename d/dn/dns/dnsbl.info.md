@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnsbl.info privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620100906id_/http%3A//www.dnsbl.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsbl.info privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619135925id_/http%3A//www.dnsbl.info/privacy-policy.php) for the most accurate reproduction.*
 
-# DNSBL.info - Privacy Policy
+# DNSBL Information - Privacy Policy
 
 **Privacy Policy**
 
