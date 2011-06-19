@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228004347id_/http%3A//www.faucetdepot.com/faucetdepot/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619070359id_/http%3A//www.faucetdepot.com/faucetdepot/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at Faucet Depot.com
 
