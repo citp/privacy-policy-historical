@@ -1,64 +1,62 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225002238id_/http%3A//www.cw.com.hk/static.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619201110id_/http%3A//edm.enterpriseinnovation.net/privacy.html) for the most accurate reproduction.*
 
-# Computerworld Hong Kong
+# Privacy Policy | Questex Asia
 
-When accessing www.questex.com or any other Questex Media Group site, you agree to the terms of the Questex online privacy policy, as outlined below. If you do not agree to these terms, please do not use these sites. 
+We take individual privacy seriously. This privacy policy tells you how we use personal information collected at our websities. Please read this privacy policy before using the site or submitting any personal information. By using Questex websites, you are accepting the practices described in this privacy policy. This Statement explains our policies and practices.
 
-Collection of Personal Information  
-Questex Media Group ("Questex Media Group") has created this privacy statement to demonstrate our firm commitment to fully disclosing the information collection and use practices applicable to this website. This privacy statement discloses what information we collect via this website and how we use it. 
-
-Information Collection and Dissemination
-
-General Principles
-
-  * In general, you may visit this website without identifying yourself or revealing any personal information. 
-  * As you browse our website, the site collects log file, IP address of your computer, and other standard tracking data we use to evaluate site traffic and usage patterns. Such information is aggregated with tracking data from all site visitors. We will use the information to personalize the site according to your preferences based on the aggregated information. We also use the aggregated information to evaluate products and services we may offer to you. 
-  * Some portions of this website may require you to give us personally identifiable information such as your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers (Personal Information) and, if applicable, financial information such as your credit card information (Financial Information), for, without limitation,  
-(i) registration for attendance at certain Questex Media Group trade shows, conferences and events; and  
-(ii) subscriptions to our publications. If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as Personal Information. 
-  * If you elect to provide us Personal Information, we use it primarily to deliver the service you requested. 
-  * If you submit Financial Information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations etc.   
+  * to implement computer, physical and procedural safeguards to protect the security and confidentiality of the personal data we collect
+  * to limit the personal data collected to the minimum required to provide a better service
+  * to permit only properly trained, authorized employees to access personal data 
 
 
-  
-Information Sharing  
-We share your Personal Information with Questex Media Group's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. We rent e-mail lists compiled from e-mail addresses gathered from this website. 
 
-Except as otherwise provided in this privacy policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to:   
-(a) comply with a court order or other legal process;   
-(b) protect our rights or property; or   
-(c) enforce our terms of service. 
+These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit questex websites to make sure that you understand how any personal information you provide will be used.
 
-Aggregated information  
-We sometimes provide aggregated usage or tracking information collected from this website to third parties. 
+## Information Collection
 
-Information on Children   
-As a business-to-business company, we do not knowingly collect information from children. On-line registration and web site usage is restricted to adults who are professionally engaged in the businesses we serve. 
+In order to provide a better service to you, we may collect information when you register with us, use our services, attend our functions, or communicate with us. 
 
-Updating Visitor Information  
-You have the option of correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference. 
+We collect information and maintain a database about Hong Kong and overseas companies. In the process, we also collect personal information about individual contact persons of the companies or their employees (referrals).
 
-Third Party and Affiliated Links  
-Our websites contain external links to other websites including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other websites. We do not endorse any of these websites or the products or services associated with such websites merely because they are linked to our website. 
+If specific information is requested but not supplied, we may be unable to provide the requested service. We only retain personal data for so long as it is necessary.
 
-Cookies 
+Questex websites sometimes may offer content (e.g., contests, promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the site activity. QUESTEX has no control over these third parties' use of this information.
 
-A "cookie" is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. Questex Media Group uses temporary, session-specific cookies to ensure visits to its website are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. Questex Media Group also uses permanent or persistent cookies that remain on a visitor's computer after the visitor leaves an Questex Media Group website. 
+## Use of your Personal Information
 
-If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our website from functioning properly and you may not be able to utilize fully all of the site's features and information. We use advertising companies to develop banner ads for our website. These ads may contain cookies. These companies collect cookies sent to your browserthrough the banner ads and we do not have control or access to this data. 
+We give you choices and control over the collection and use of your Personal Information. You can update your Personal Information or remove your email address from our email list.
 
-Opt-out Option
+There are known methods that spammers can use to hide their identity by using other people's email address to send out emails. If you have any question about the genuineness of an email you receive that appears to be from QUESTEX, contact us at [webmaster@questexasia.com](mailto:webmaster@questexasia.com) and do not furnish personal information in response to that email.
 
-Visitors to this websitecan decide if they want to receive targeted promotional information from Questex Media Group. On the visitor registration pages, prospective visitors can choose to request Questex Media Group not to e-mail them advertising and promotional information. Should visitors accept promotional email from Questex Media Group, any email they receive will include instructions on how to be removed from Questex Media Group's promotional email list. 
+We may conduct direct marketing via email, direct mail, telephone and other means of communication, or send e-newsletters to you. You may choose not to receive promotional materials, by simply telling us, and we will cease to do so, without charge.
 
-Security and Encryption
+## Cookie Technology
 
-This website takes commercially reasonable precautions to protect your information. We use SSL encryption technology on our website and a secure server to encrypt information transmitted between your browsers and our server. As a result, data you submit to our website such as credit card and payment information is transmitted securely over the Internet. 
+Cookies are commonly used to facilitate transmission and to provide more useful features. It is a piece of data stored in your computer. We use these devices to find out more about the use of our websites and user preferences, in order to improve our services. We may share summarized traffic data with advertisers. We note traffic, pages visited and time spent. You are not identified. Iif you agree by registering with us, we may link the information to you, you will receive information more suited to your interests.
 
-Notification of Changes
+You may set your browser to reject cookies, or tell you when a cookie is being sent.
 
-Questex Media Group reserves the right, at any time and without notice, to add to, change, update or modify this privacy policy, simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon posting on the website. 
+Cookies are necessary for some features of the website to work, e.g., to maintain continuity during a session. If they are not accepted, those features may not work properly.
 
-Your Acceptance of these Terms
+## Disclosure
 
-By using our website, products or services, you signify your acceptance of the terms of the Questex Media Group Privacy Policy. If you do not agree to the terms of the Questex Media Group Privacy Policy, please do not use the website, products and/or services and exit the site immediately.
+We will keep the personal data we hold confidential but may provide information to personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services ; our overseas offices, affiliates, business partners and counterparts ; persons under a duty of confidentiality to us ; persons to whom we are required to make disclosure under applicable laws in or outside Hong Kong; actual or proposed transferees or participants of our services.
+
+## Commitment to Data Security
+
+Your personally identifiable information is kept secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. All emails and newsletters from this site allow you to opt out of further mailings.
+
+## Copyright notice, disclaimer
+
+Questex Asia Ltd. (Questex websites) is an Information Technology-related service which has been created to be easily accessible to all users, but it has limitations and risks which must be made known to the users before participating. By using the Service Users are consenting and agreeing to abide by these terms. QUESTEX will not be held liable for any losses, damages, costs or expenses arising from user's reliance on the accuracy of the content supplied /provided on questex websites. QUESTEX reserves the right to change, cancel or introduce new terms and conditions in the Agreement in its discretion at any time, and without prior notice.
+
+## Privacy Contact Information
+
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+
+By mail:  
+Questex Asia Ltd.  
+13/ F., 88 Hing Fat Street, Causeway Bay, Hong Kong
+
+By email:  
+[webmaster@questexasia.com](mailto:webmaster@questexasia.com)
