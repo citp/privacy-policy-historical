@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluekai.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206142628id_/http%3A//bluekai.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluekai.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619054511id_/http%3A//www.bluekai.com/privacypolicy.php) for the most accurate reproduction.*
 
 # BlueKai | About Us
 
@@ -48,7 +48,7 @@ In addition, information in our possession or control, including Preference Data
 
 We provide multiple ways for you to opt out of our services. 
 
-We make available a Blue Kai "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Preference Data on that browser. You can learn more about our opt-out cookie [here](https://web.archive.org/web/20101206142628id_/http%3A//bluekai.com/consumers_optout.php). By opting out of the BlueKai cookie you are also opting out of targeting options from BlueKai through some of our third party partners. 
+We make available a Blue Kai "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Preference Data on that browser. You can learn more about our opt-out cookie [here](https://web.archive.org/web/20110619054511id_/http%3A//www.bluekai.com/consumers_optout.php). By opting out of the BlueKai cookie you are also opting out of targeting options from BlueKai through some of our third party partners. 
 
 You may also opt out of our collection of Preference Data using the NAI's opt-out tool. The NAI's opt-out tool allows you to opt out of our collection of Preference Data, as well as the data collection and preference-based ad programs of other NAI members. You may access the NAI opt-out tool [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
