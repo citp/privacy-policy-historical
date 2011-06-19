@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ksfcu.org privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217124125id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ksfcu.org privacy policy that was archived on 2011-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619035502id_/http%3A//ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.-->
 
-<html><!-- Wernher Picato Client / Server Programmer IV Quantum Data Systems, Inc. --><head>
+<html><!-- Wernher Picato Client / Server Programmer IV Quantum Data Systems, Inc. --><!-- Ervin Sevilla Client / Server Programmer IV Quantum Data Systems, Inc. --><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta http-equiv="Pragma" content="no-cache">
 	<title>Kern Schools Federal Credit Union</title>
@@ -9,7 +9,7 @@
 	<script language="JavaScript" src="css/KSFCU_WP_Functions.js"></script>
 	<script language="JavaScript" src="exit.js"></script>
 	<script language="JavaScript" src="js/external.js"></script>
-	<script src="__utm.js" type="text/javascript"></script><script language="JavaScript1.5">__utmjv='1.5';</script>
+	<script src="__utm.js" type="text/javascript"></script>
 	
 	<script language="javascript">
 	<!--
@@ -20,14 +20,14 @@
 		}
 		
 	//-->
-	</script><link rel="stylesheet" type="text/css" href="css/pc.css">
+	</script>
 	<!-- extra functions specific to this page (ie. form validation) -->
 	<script language="javascript">
 	<!--
 	//  This function is called by the onLoad event.  It is used to focus on the text box.
     function focusOnUserTextBox()
     {
-		document.forms.login.user_id.focus();
+		document.forms.login.tethered_username.focus();
     }
 
     function eraseButton()
@@ -114,7 +114,7 @@
 </script>
 </head>
 
-<body link="#0000ff" vlink="#996699" alink="#0000ff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload=" focusOnUserTextBox();">
+<body link="#0000ff" vlink="#996699" alink="#0000ff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="focusOnUserTextBox();">
 
 <center>
 <map name="schools">
@@ -141,12 +141,12 @@
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr>
 								<!-- Left Menu: Start -->
-								<td width="150" valign="top" background="images/LeftBarExt2Gogo.jpg">
-									<table border="0" background="images/LeftBarGoGoOR.jpg" width="150" height="634" cellpadding="0" cellspacing="0" style="background-repeat:no-repeat;">
+								<td width="150" valign="top" background="images/LiveLeftExtensionBar.jpg">
+									<table border="0" background="images/LiveLeftSideBar.jpg" width="150" height="634" cellpadding="0" cellspacing="0" style="background-repeat:no-repeat;">
 										<tbody><tr>
 											<td valign="top" nowrap="" width="150">
-												<form autocomplete="off" name="login" action="https://datanet.ksfcu.org/servlet/tpservlet?transactiontype=PreloginActionBean&amp;FIID=0001" method="post" onsubmit="return verifyData();">
-												<!-- <form AUTOCOMPLETE="off" name="login" action="http://10.12.0.55/PCC/servlet/tpservlet?transactiontype=PreloginActionBean&FIID=0001" method="post" onsubmit="return verifyData();"> -->
+												<!--  <form AUTOCOMPLETE="off" name="login" action="https://staging.ksfcu.org/Login.aspx" method="post">  -->
+												<form autocomplete="off" name="login" action="https://datanetolb.ksfcu.org/Login.aspx" method="post">
 												<table border="0" cellpadding="0" cellspacing="0" width="150" background="spacer.gif">
 												<!-- Start-->
 												
@@ -154,23 +154,23 @@
 													<tbody><tr><td height="14"><img src="images/spacer.gif" height="14" width="0"></td></tr>	
 													<tr>
 														<td align="CENTER" valign="TOP">
-															<!-- <img src="images/DatanetLogo.gif" WIDTH="90" HEIGHT="31"></td> -->
-															<img src="images/ggDataNet_type.jpg" width="90" height="31"></td>
-															
+															<img src="images/LiveDataNetButton.jpg" width="90" height="31"></td>
 													</tr>
 													<tr><td height="5"><img src="images/spacer05x150.gif" width="150" height="5"></td></tr>
 													<tr>
-														<td align="CENTER" valign="TOP" class="white11">Secure Account #:</td>
+														<td align="CENTER" valign="TOP" class="white11">User Name:</td>
 													</tr>
 													<tr>
 														<td align="CENTER" valign="TOP">
-															<input type="text" name="user_id" style="width:120" width="60" size="15" class="formfields"></td>
+															<input type="text" name="tethered_username" style="width:120" width="60" size="15" class="formfields"></td>
 													</tr>
-													<input type="hidden" name="transactiontype" value="PassmarkSigninActionBean">
-													<input type="hidden" name="ACTIVITY_TYPE" value="VALIDATEUSERID">
-													<input type="hidden" name="hpUSERID" value="">
-													<input type="hidden" name="FIID" value="0001">
-													<input type="hidden" name="OnError" value="-1">
+													<tr>
+														<td align="CENTER" valign="TOP" class="white11">Password:</td>
+													</tr>
+													<tr>
+														<td align="CENTER" valign="TOP">
+															<input type="password" name="tethered_password" style="width:120" width="60" size="15" class="formfields"></td>
+													</tr>
 
 													<input type="hidden" name="fp_browser" value="">
 													<input type="hidden" name="fp_screen" value="">
@@ -179,48 +179,37 @@
 													<tr>
 														<td align="CENTER" valign="TOP">
 															<table border="0" cellpadding="0" cellspacing="0" background="spacer.gif">
-																<!-- Original: modified 03-31-2010 -->
-																	<!-- 
-																<tr>
-																	<td width="15" nowrap><img src="images/padlock.gif" width="15" height="17"></td>
-																	<td><input type="image" src="images/buttons/SignOnbutton.jpg" name="login_button" border="0" WIDTH="64" HEIGHT="19"></td>
-																	<td width="4"></td>
-																	<td><a href="default.asp?fileID=176#user" border="0"><img src="images/buttons/Enroll.jpg" border="0" WIDTH="64" HEIGHT="19"></a></td>
-																</tr>
-																-->
 																<tbody><tr>
-																	<td width="15" nowrap=""><img src="images/padlock_gogo.gif" width="15" height="17"></td>
-																	<td><input type="image" src="images/buttons/ggSignOnbutton.jpg" name="login_button" border="0" width="64" height="19"></td>
+																	<td width="15" nowrap=""><img src="images/padlock.gif" width="15" height="17"></td>
+																	<td><input type="image" src="images/buttons/LiveSignOnButton.jpg" name="login_button" border="0" width="64" height="19"></td>
 																	<td width="4"></td>
-																	<td><a href="default.asp?fileID=176#user" border="0"><img src="images/buttons/ggEnrollButton.jpg" border="0" width="64" height="19"></a></td>
+																	<td><a href="default.asp?fileID=429" border="0"><img src="images/buttons/LiveEnrollButton.jpg" border="0" width="64" height="19"></a></td>
 																</tr>
-																
-																
 															</tbody></table>	
 														</td>
 													</tr>
 													<tr>
 														<td align="center">
 															<table border="0" cellpadding="0" cellspacing="0" background="spacer.gif">
-																<tbody><tr>
-																	<!-- original: modified 03-31-2010-->
-																	<!-- <td ALIGN="left" VALIGN="TOP" class="red12"><a href="#" onclick="newUser(); return false;" target="_new" style="font-family: Lucida Sans Unicode; font-size: 11px; font-weight: normal; color: #D97125; text-decoration: none"><font style="font-family: Lucida Sans Unicode; font-size: 11px; font-weight: normal; color: #D97125; text-decoration: none">First time login&nbsp;<u>click here</u></font></a> -->
-																	<td align="left" valign="TOP" class="red12"><a href="#" onclick="newUser(); return false;" target="_new" style="font-family: Lucida Sans Unicode; font-size: 11px; font-weight: normal; color: #D97125; text-decoration: none"><font style="font-family: Lucida Sans Unicode; font-size: 11px; font-weight: normal; color: #ffffff; text-decoration: none">First time login&nbsp;<u>click here</u></font></a>
+																<!-- <tr>
+																	<td ALIGN="left" VALIGN="TOP" class="red12"><a href="#" onclick="newUser(); return false;" target="_new" style="font-family: Lucida Sans Unicode; font-size: 11px; font-weight: normal; color: #D97125; text-decoration: none"><font style="font-family: Lucida Sans Unicode; font-size: 11px; font-weight: normal; color: #D97125; text-decoration: none">First time login&nbsp;<u>click here</u></font></a>
 																	<input type="hidden" name="newUserVal"></td>  
 																</tr>
+																-->
 																
 																
-																<tr><td height="4"><img src="images/spacer.gif" height="4" width="0"></td></tr>
-																<tr><td colspan="2" align="center"><a href="default.asp?fileID=268" border="0"><img src="images/systemMaintenanceSchedule.gif" height="16" width="136" border="0"></a></td></tr>
+																<tbody><tr><td height="4"><img src="images/spacer.gif" height="4" width="0"></td></tr>
+																<tr><td colspan="2" align="center"><img src="images/spacer.gif" height="16" width="136" border="0"></td></tr>
 																																
 															</tbody></table>
 														</td>
 													</tr>
 													<tr><td height="4"><img src="images/spacer.gif" height="4" width="0"></td></tr>
-													<tr>
-														<!-- <td ALIGN="CENTER" VALIGN="TOP" class="white11"><a href="https://datanet.ksfcu.org/jsp/passmark_FAQ.jsp#WhereIsMyPIN" class="whitegold11" target="_new"> is my PIN?</a></td> -->
-														<td align="CENTER" valign="TOP" class="white11"><a href="#" class="whitegold11" target="_new" onclick="popWin(); return false;">Where is my PIN?</a></td>
+													<!--<tr>
+														
+														<td ALIGN="CENTER" VALIGN="TOP" class="white11"><a href="#" class="whitegold11" target="_new" onclick="popWin(); return false;">Where is my PIN?</a></td>
 													</tr>		
+													-->
 													<tr><td height="1"><img src="images/spacer05x150.gif" width="150" height="1"></td></tr>
 													
 													
@@ -235,16 +224,17 @@
 													<!-- Left Menu: Starts -->
 														<tr>
 															<td align="CENTER" valign="TOP" class="white12bold">
-																<a href="default.asp?fileID=176" class="whitegold12bold">What is DataNet?</a></td>
+																<a href="default.asp?fileID=438" class="whitegold12bold">What is DataNet?</a></td>
 														</tr>
 														<tr>
 															<td align="CENTER" valign="TOP" class="white11" height="15">
-																| <a href="default.asp?fileID=178" class="whitegold11">Bill Pay</a> |</td>
+																<a href="default.asp?fileID=432" class="whitegold12bold">What is Bill Pay?</a> </td>
 														</tr>
-														<tr>
-															<td align="CENTER" valign="TOP" class="white11" height="15">
+														<!-- <tr>
+															<td ALIGN="CENTER" VALIGN="TOP" class="white11" height="15">
 																<a href="default.asp?fileID=179" class="whitegold11">DataNet Q &amp; A</a></td>
 														</tr>
+														-->
 														
 														
 															<tr><td height="8"><img src="images/spacer.gif" height="8" width="0"></td></tr>
@@ -261,7 +251,7 @@
 																	<tbody><tr><td height="8" width="150" colspan="2"><img src="images/spacer.gif" height="8"></td></tr><tr><td width="7"><img src="images/spacer.gif" width="7"></td><td align="center"><table border="0" cellpadding="0" cellspacing="0" width="115" background="spacer.gif"><tbody><tr><td height="5"></td></tr><tr><td class="whitegold11" align="left"><a href="default.asp?fileID=176#reorder" class="whitegold11">Re-order checks</a></td></tr><tr><td height="5"></td></tr>
 <tr><td height="5"></td></tr><tr><td class="whitegold11" align="left"><a href="default.asp?fileID=125" class="whitegold11">Annual Reports and Newsletters</a></td></tr><tr><td height="5"></td></tr>
 <tr><td height="5"></td></tr><tr><td class="whitegold11" align="left"><a href="default.asp?fileID=235" class="whitegold11">Security Center<br>
-Updated 09/10/10</a></td></tr><tr><td height="5"></td></tr>
+Updated 04/04/2011</a></td></tr><tr><td height="5"></td></tr>
 <tr><td height="5"></td></tr><tr><td class="whitegold11" align="left"><a href="https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp" onclick="window.open('https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp'); return false;" class="whitegold11" target="_BLANK">Contact Us</a></td></tr><tr><td height="5"></td></tr>
 </tbody></table></td></tr>
 																</tbody></table>
@@ -460,31 +450,28 @@ We recognize that protecting children's identities and online privacy is importa
 																		<table border="0" cellpadding="0" cellspacing="0" width="148">
 																			<tbody><tr><td>
 																			<table border="0" width="148" cellpadding="0" cellspacing="0"><tbody><tr><td height="70" align="center"><table border="0" cellpadding="0" cellspacing="0" width="148">
-<tbody><tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=247" class=""><img src="images/rightMenu/football2icon.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=247" class="blue12"><br><font class="blue16bold">Apply</font> <font class="blue11">for a Loan Online</font></a></td></tr>
+<tbody><tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=247" class=""><img src="images/rightMenu/buttonarrow.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=247" class="blue12"><br><font class="blue16bold">Apply</font> <font class="blue11">for a Loan Online</font></a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=192" class=""><img src="images/rightMenu/fooballhelmeticon.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=192" class="blue12">Check our<br><font class="blue16bold">RATES!</font></a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=192" class=""><img src="images/rightMenu/RedDotArrow-40.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=192" class="blue12">Check our<br><font class="blue16bold">RATES!</font></a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=389" class=""><img src="images/rightMenu/mic1.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=389" class="blue12">News Room<br>
-<font class="black10">Updated 10/19/10</font>
-</a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=206" class=""><img src="images/rightMenu/Workshop1_061.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=206" class="blue12">FREE Financial<br>
+Workshops<br><font color="red">NEW</font></a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="redirTabp.asp?isTrusted=1&amp;link=http://www.oectours.com/oec/index.php?b=953&amp;c=8168 " onclick="trustedalert('http://www.oectours.com/oec/index.php?b=953&amp;c=8168'); return false;" class="" target="_BLANK" onmouseover="window.status='Kern Schools Federal Credit Union'; return true;" onmouseout="window.status='';"><img src="images/rightMenu/Computer.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="redirTabp.asp?isTrusted=1&amp;link=http://www.oectours.com/oec/index.php?b=953&amp;c=8168 " onclick="trustedalert('http://www.oectours.com/oec/index.php?b=953&amp;c=8168'); return false;" class="blue12" target="_BLANK" onmouseover="window.status='Kern Schools Federal Credit Union'; return true;" onmouseout="window.status='';"><font color="red">NEW</font><br>Preview our new DataNet</a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="http://www.ksfcu.org/images/annualreport/FinalConversionHandbook2.pdf" onclick="window.open('http://www.ksfcu.org/images/annualreport/FinalConversionHandbook2.pdf'); return false;" class="" target="_BLANK"><img src="images/rightMenu/Keyboard.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="http://www.ksfcu.org/images/annualreport/FinalConversionHandbook2.pdf" onclick="window.open('http://www.ksfcu.org/images/annualreport/FinalConversionHandbook2.pdf'); return false;" class="blue12" target="_BLANK">Conversion Handbook<br><font color="red">NEW</font></a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=279" class=""><img src="images/rightMenu/ForeclosedHomes1.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=279" class="blue12">Homes For Sale<br>(Foreclosures)</a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=158" class=""><img src="images/rightMenu/RepoCars.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=158" class="blue12">Repossessed Vehicles</a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=206" class=""><img src="images/rightMenu/Workshop1_061.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=206" class="blue12">FREE Financial<br>
-Workshops</a></td></tr>
+<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=425" class=""><img src="images/rightMenu/BalanceRightSideButton.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=425" class="blue12">Financial Education and Counseling<br>
+<font color="red">NEW</font></a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=152" class=""><img src="images/rightMenu/apu1302009123554.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=152" class="blue12">Amusement Park Tickets</a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=66" class=""><img src="images/rightMenu/RockyIcon.JPG" width="43" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=66" class="blue12">Rocky Raccoon<br> Youth Account</a></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=280" class=""><img src="images/rightMenu/Image1.jpg" width="43" height="55" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=280" class="blue12">Kern Tax Service</a></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=225" class=""><img src="images/rightMenu/turbotax.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=225" class="blue12">Turbo Tax Online</a></td></tr>
-<tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="default.asp?fileID=421" class=""><img src="images/rightMenu/Calculator.jpg" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue12"><a href="default.asp?fileID=421" class="blue12">Calculators<br>
-<font color="red">NEW</font></a></td></tr>
+</a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td colspan="4"><img src="images/bottomGray.gif" width="100%" height="1"></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr><tr><td width="5"><img src="images/spacer.gif" width="3"></td><td align="right"><a href="javascript:printPage(127,0)" border="0"><img src="images/leftMenu/PrinterIcon1.jpg" width="40" height="30" border="0"></a></td><td width="5"><img src="images/spacer.gif" width="5"></td><td valign="middle" align="left" class="blue10"><a href="javascript:printPage(127,0)" border="0" class="blue10">Print this page.</a></td></tr>
 <tr><td colspan="4" src="images/spacer.gif" width="148" height="3" nowrap=""><img src="images/spacer.gif" border="0" width="148" height="3"></td></tr></tbody></table></td></tr></tbody></table>
@@ -521,7 +508,7 @@ Workshops</a></td></tr>
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr>
 								<td src="images/spacer.gif" height="1" valign="top" width="150" align="left" bgcolor="#ffffff" nowrap="">
-									<img src="images/LeftBarExt2Gogo.jpg" border="0" height="1" width="150"></td>
+									<img src="images/LiveLeftExtensionBar.jpg" border="0" height="1" width="150"></td>
 									
 								<td src="images/spacer.gif" width="8" height="1" valign="top" align="left" bgcolor="#ffffff">
 									<img src="images/spacer.gif" border="0" height="1" width="8"></td>	
