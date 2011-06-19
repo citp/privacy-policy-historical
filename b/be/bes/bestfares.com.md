@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestfares.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309102935id_/http%3A//www.bestfares.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfares.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619192823id_/http%3A//www.bestfares.com/Privacy.php) for the most accurate reproduction.*
 
-# Best Fares.com :. Cheap discount airfares, Cheap discount flights, Cheap discount tickets, Cheap discount cruises
+# BestFares.com Terms
 
 Bestfares.com (Bestfares U.S.A., Inc.) respects your privacy. Bestfares.com provides this statement to inform you about the privacy policy for the Bestfares.com site ("Site") and choices you may make about the way your information is collected and used. This notice may be accessed from throughout the Site.
 
