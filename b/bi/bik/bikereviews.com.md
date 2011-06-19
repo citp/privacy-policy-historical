@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikereviews.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206111910id_/http%3A//bikereviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereviews.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619044749id_/http%3A//bikereviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bike Reviews
 
