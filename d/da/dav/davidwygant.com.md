@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidwygant.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229182704id_/http%3A//www.davidwygant.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidwygant.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619151141id_/http%3A//www.davidwygant.com/privacypolicy.html) for the most accurate reproduction.*
 
 # David Wygant - The Dating Expert that men and women trust most with their love lives
 
@@ -7,6 +7,15 @@ David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc.
 David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc. are committed to protecting your privacy. This Statement of Privacy applies to davidwygant.com and governs data collection and usage at all David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc. sites and services; it does not apply to other online or offline sites, products or services. 
 
 Please read the David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc. Statement of Privacy. davidwygant.com is a general audience website, intended for users 18 years of age and older. Personal information of all users is collected, used and disclosed as described in this Statement of Privacy.
+
+**Information We Gather Automatically**
+
+  
+When you visit this site, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as the type of browser being used, its operating system, and your computer’s Internet Protocol ("IP") address (a number that your Internet service provider assigns to your computer whenever you surf the Internet) is gathered in order to facilitate our online operations and to assure an efficient online experience for you. We may also use or share this information for security purposes, to generate group statistics about our user community, or as required by law.
+
+We may use your IP address or other automatically recorded information, in cooperation with your Internet provider, to identify you if it is necessary to contact you or to bring legal action against you because you are violating the Terms and Conditions of use for this site or may be causing injury to or interference (intentionally or unintentionally) with our company’s rights or property, other users of this site or anyone else who could be harmed by your activities.
+
+We allow third-party companies, including AddThis, to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit www.networkadvertising.org.
 
 **Collection of Your Personal Information**
 
@@ -41,6 +50,25 @@ You may also stop the delivery of future promotional e-mail from davidwygant.com
 **Security of Your Personal Information**
 
 David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc. are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we use a secure payment gateway so your information is protected.
+
+**Copyright Information**
+
+**  
+** Some images on davidwygant.com are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.)
+
+**Claims of Infringement**
+
+**  
+** If you believe that any content appearing on davidwygant.com infringes on your copyright, please let us know. E-Mail support@davidwygant.com with following information to us and the infringing material will be removed as soon as possible.
+
+(a) your name, address, telephone number, and e-mail address;  
+(b) a description of the copyrighted work that you claim has been infringed;  
+(c) the exact URL or a description of each place where alleged infringing material is located;  
+(d) a statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law;  
+(e) your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf; and  
+(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner's behalf
+
+Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
 **Changes to this Statement**
 
