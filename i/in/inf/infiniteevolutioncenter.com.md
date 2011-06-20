@@ -1,82 +1,28 @@
-> *The following text is extracted and transformed from the infiniteevolutioncenter.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteevolutioncenter.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620102021id_/http%3A//infiniteevolutioncenter.com/privacy-policy) for the most accurate reproduction.*
 
-# Traffic & List Building, Blogging, Ecommerce and Wealth Building Coaching Programs
+# Privacy Policy | Infinite Evolution Center
 
-|  | 
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below. 
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-1.  What Personal Information Do We Collect?
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-  * Information You Provide.  We receive and store information you enter.  For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. We do not store your credit data in our system after the sale - it is used for checkout purposes only. In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in.  Please see the “opt-in/opt-out” selection in Section 4 of this policy.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Infinite Evolution Center has no access or control over these cookies that may be used by third party advertisers. 
 
-  * Cookies. Like many websites, we use "cookies".  Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience.  If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button.  Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie.  In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
+**Collection of Personal Information**  
+When visiting Infinite Evolution Center, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-  * Other Information: Every computer has an IP (Internet Protocol) address.  IP addresses of computers used to visit this site are noted.  In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site.
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-  * Information from Other Sources.  We might receive information about you from other sources and add it to our account information.  This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
+If you have any questions regarding the privacy policy of Infinite Evolution Center then you may contact us at mulacsites@gmail.com 
 
+This privacy policy was generated by the [Easy Privacy Policy](http://europeancruiseadvisor.com/ "Easy Privacy Policy homepage") plugin for WordPress.
 
-
-2.  How Do We Use Your Information?
-
-  * Customized Shopping.  We use your information to better serve you by providing a customized shopping experience.  As noted above, you may “opt-out” of this customization, or even visit and shop anonymously.
-
-  * Agents. We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-
-  * Special Offers.  We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers.  In addition, we may also send you special offers from other companies.  Again, you may “opt-out”.  If we send you offers from other businesses, we do not share your personal information with them.  The offers come directly through us.  Please see the “opt-in/opt-out” selection at the end of this policy. 
-
-  * Business Transfers. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.
-
-  * Law Enforcement.   If we receive a lawful court order to release account or other personal information then we will comply with the law.  We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-
-
-
-
-  3.  How Do We Protect the Security of Your Information?
-
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-
-  * We use encryption to protect your information contained in our customer list.
-
-  * We use a firewall to protect against unlawful intrusion.
-
-  * We limit access to your information on a “need to know” basis.
-
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
-
-  * No system can guarantee absolute security, just as the finest lock can not guarantee physical security.  However, we take every reasonable precaution to assure that your data is secure.
-
-
-
-
-4.  Your Choice:  Opt-in or Opt-out.It is your choice whether to receive emails or special offers from us or others.  The following section provides you with this choice.  Please note the default settings.
-
-  *     * Please send me email or other mail informing me of special offers of your products or services.
-
-    * Please do not send me email or other mail informing me of special offers of your products or services.
-
-    * Please send me email or other mail informing me of special offers of related products or services from other companies.
-
-    * Please do not send me email or other mail informing me of special offers of related products or services from other companies.
-
-
-
-
-5.  Children We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian. 
-
-6.  Other Websites Various Web sites may be linked to from this site.  If you link to another site, your privacy depends on the policy of that site.  We strongly urge you to check their privacy policy.  Not all sites guarantee that they will not share your personally identifiable information with others.  You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (
-
-[ **www.privacyalliance.org**](http://www.privacyalliance.org/) ).    
-
-7.  Contact Us If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us via the Contact Us page. You will be required to provide identifier information to assure that this information is not released to others.  We reserve the right to modify this policy in the future.  If we do so, notice will be posted on our home page.  
-  
----  
-  
-| [ COACHING & MENTORING](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/coaching.html) | [DFY MARKETING](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/dfymarketing.html) | [ PERSONAL GROWTH ](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/personalgrowth.html)| [ CONTACT](http://www.infiniteevolutioncenter.com/support) | [ABOUT US ](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/aboutus.html)| [ HOME](https://web.archive.org/web/20101212211749id_/http%3A//infiniteevolutioncenter.com/index.html) |  
-
-
-* * *
+Last updated Fri, 18 Mar 2011 17:14
