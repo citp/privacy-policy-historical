@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218174226id_/http%3A//www.sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620090616id_/http%3A//sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
 
 # Privacy & Confidentiality - Sunnybrook Hospital
 
 At Sunnybrook Health Sciences Centre, we are responsible for personal health information under our control and are committed to a high standard of privacy for our information practices. We are committed to ensuring that staff and patients understand the importance of privacy rights and obligations.
 
-The Personal Health Information Protection Act (PHIPA) balances an individual's right to privacy with the need of health care providers to access and share this information. PHIPA gives an individual the ability to control how his/her own personal health information is collected, used and disclosed. 
+The Personal Health Information Protection Act (PHIPA) balances an individual's right to privacy with the need of health care providers to access and share this information. PHIPA gives an individual the ability to control how his/her own personal health information is collected, used and disclosed.
+
+#### What Information Do We Collect About You?
 
 At Sunnybrook we collect personal health information about you directly from you or from the person acting on your behalf.
 
@@ -21,6 +23,8 @@ This information may include, for example:
 
 Occasionally, we collect personal health information about you from other sources, if we have obtained your consent to do so or if the law permits.
 
+#### We may collect, use or disclose personal health information for the purposes of:
+
   * Providing health care or assisting in providing health care to an individual;
   * Planning or delivering patient care programs or services funded by Sunnybrook;
   * Evaluating, monitoring and allocating resources to programs and services;
@@ -33,6 +37,8 @@ Occasionally, we collect personal health information about you from other source
 
 
 
+#### How to contact Sunnybrook's Privacy Office:
+
 If you need more information about how the hospital protects the privacy of your information or if you have concerns with our information handling practices, please contact us: 
 
 Sunnybrook Privacy Office  
@@ -42,7 +48,7 @@ Toronto, ON M4N 3M5
 
  **We will ensure that your concerns are investigated and a response is provided to you in a timely manner.**
 
- [Privacy Brochure](http://www.sunnybrook.ca/uploads/PrivacyPatientNotificationDec2006.pdf)   
- [Patient Privacy Notice  ](http://www.sunnybrook.ca/uploads/Protecting_Your_Personal_Health_Information.pdf)  
- [Privacy Lockbox Brochure](http://www.sunnybrook.ca/uploads/privacy_lockbox_july2008.pdf)   
- [Wait Time Information System Privacy FAQ](http://www.sunnybrook.ca/uploads/PrivacyFAQWaitTimes.pdf) 
+ [Privacy Brochure](http://sunnybrook.ca/uploads/PrivacyPatientNotificationDec2006.pdf)   
+ [Patient Privacy Notice  ](http://sunnybrook.ca/uploads/Protecting_Your_Personal_Health_Information.pdf)  
+ [Privacy Lockbox Brochure](http://sunnybrook.ca/uploads/privacy_lockbox_july2008.pdf)   
+ [Wait Time Information System Privacy FAQ](http://sunnybrook.ca/uploads/PrivacyFAQWaitTimes.pdf) 
