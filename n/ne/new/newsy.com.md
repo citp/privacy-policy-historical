@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsy.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024058id_/http%3A//www.newsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsy.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620174049id_/http%3A//www.newsy.com/privacy) for the most accurate reproduction.*
 
 # Newsy | Privacy Policy | Multisource Video News Analysis
 
