@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the frugalnovice.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210234716id_/http%3A//frugalnovice.com/about/privacy-policy-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalnovice.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620061012id_/http%3A//frugalnovice.com/about/privacy-policy-disclosure-statement) for the most accurate reproduction.*
 
-# The Frugal Novice » Privacy Policy & Disclosure Statement
+# Privacy Policy & Disclosure Statement
+
+[](http://twitter.com/home/?status=Privacy+Policy+%26+Disclosure+Statement+http%3A%2F%2Ffrugalnovice.com%2F%3Fp%3D322 "Post to Twitter") [](http://www.facebook.com/share.php?u=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&t=Privacy+Policy+%26+Disclosure+Statement "Post to Facebook") [](http://stumbleupon.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to StumbleUpon") [](http://digg.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to Digg") [](http://reddit.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to Reddit")
 
 **Privacy Policy**
 
@@ -32,16 +34,17 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **Disclosure Statement**
 
-This policy is valid from April 01, 2010
+This policy is valid from 08 March 2011
 
-This blog is a personal blog written and edited by me. For questions about this blog, please contact  Christi – FrugalNovice [at] Gmail [dot] com.
+This blog is a personal blog written and edited by me. For questions about this blog, please contact  Christi (frugalnovice {at} gmail {dot} com).
 
-This blog may accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
 This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
 
-The owner of this blog is not compensated to provide opinion on products, services, websites and various other topics. The views and opinions expressed on this blog are purely the blog owners. If we claim or appear to be experts on a certain topic or product or service area, we will only endorse products or services that we believe, based on our expertise, are worthy of such endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider.
+The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
-This blog does not contain any content which might present a conflict of interest.
-
+This blog does not contain any content which might present a conflict of interest.  
 To get your own policy, go to http://www.disclosurepolicy.org
+
+[](http://twitter.com/home/?status=Privacy+Policy+%26+Disclosure+Statement+http%3A%2F%2Ffrugalnovice.com%2F%3Fp%3D322 "Post to Twitter") [](http://www.facebook.com/share.php?u=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&t=Privacy+Policy+%26+Disclosure+Statement "Post to Facebook") [](http://stumbleupon.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to StumbleUpon") [](http://digg.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to Digg") [](http://reddit.com/submit?url=http://frugalnovice.com/about/privacy-policy-disclosure-statement/&title=Privacy+Policy+%26+Disclosure+Statement "Post to Reddit")
