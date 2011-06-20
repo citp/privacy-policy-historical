@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211093914id_/http%3A//godandscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620081022id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Evidence for God from Science
 
 ## General Privacy Policies
 
-_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20101211093914id_/http%3A//godandscience.org/newsletter.html). Now here is the legal/technical stuff:
+_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20110620081022id_/http%3A//www.godandscience.org/newsletter.html). Now here is the legal/technical stuff:
 
 ## About Us
 
@@ -19,7 +19,7 @@ We invite you to contact us if you have questions about this policy. You may con
     Pasadena, CA 91117
     USA
 
-You may contact us by e-mail by [clicking here](https://www.godandscience.org/formmail.html).
+You may contact us by e-mail by [clicking here](https://web.archive.org/formmail.html).
 
 You may contact us by telephone at (626) 87-BIBLE.
 
@@ -159,5 +159,5 @@ NAV |  Navigation and clickstream data is collected.
 INT |  Interactive data is collected.   
 PRE |  Preference information is collected.   
   
-https://web.archive.org/web/20101211093914id_/http%3A//godandscience.org/privacy.html   
+https://web.archive.org/web/20110620081022id_/http%3A//www.godandscience.org/privacy.html   
 Last Modified July 17, 2009
