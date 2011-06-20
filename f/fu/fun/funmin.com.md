@@ -1,22 +1,14 @@
-> *The following text is extracted and transformed from the funmin.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211004408id_/http%3A//funmin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmin.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620061133id_/http%3A//funmin.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At Funmin, we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete Funmin.com privacy statement.
 
-  
-
-
-## Collecting your Personal Information
+#### Collecting your Personal Information
 
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, rating games. Personal information collected by Funmin often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.
 
-  
-
-
-| 
-
-## Use of your Personal Information
+#### Use of your Personal Information
 
 We use your personal information for four primary purposes:
 
@@ -33,19 +25,11 @@ Funmin.com will disclose your personal information, without notice, only if requ
 
 
 
-  
-
-
-| 
-
-## Control of your Personal Information
+#### Control of your Personal Information
 
 When you register, or otherwise give us personal information,Funmin will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
 
-  
-
-
-## Security of your Personal Information
+#### Security of your Personal Information
 
 Funmin.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
@@ -56,10 +40,10 @@ You also have a significant role in protecting your information. No one can see 
   
 
 
-## Use of Cookies
+#### Use of Cookies
 
 To ensure we are publishing content customers need and want,Funmin collects aggregated site-visitation statistics using cookies. We do not track individual's use of the site.
 
 When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously.
 
-If you have questions regarding this statement, you should first contact games@funmin.com.
+If you have questions regarding this statement, you should first contact [funmingames@funmin.com](mailto:funmingames@funmin.com)
