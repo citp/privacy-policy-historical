@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marinecorpstimes.com privacy policy that was archived on 2010-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220120422id_/http%3A//marinecorpstimes.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marinecorpstimes.com privacy policy that was archived on 2011-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110620101547id_/http%3A//www.marinecorpstimes.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Marine Corps News, pay, benefits, careers, entertainment, photos - Marine Corps Times HOME</title>
@@ -44,6 +44,7 @@ function OAS_NORMAL(pos) {
 
 <link rel="shortcut icon" href="/favicon.ico">
 <script src="/js/core.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 <h1>Marine Corps News, pay, benefits, careers, entertainment, photos - Marine Corps Times HOME</h1>
 <div id="header">
 	<div class="span header">
@@ -52,39 +53,61 @@ function OAS_NORMAL(pos) {
  OAS_AD('728x90_1'); 
  //--></script>
 		</div>
+		<div id="customer_service">
+			<div class="leftBlock"><a href="/subscribe/" class="featureLink">Subscribe</a> &nbsp;| &nbsp; <a href="/renew/">Subscription Renewal</a> &nbsp; | &nbsp; <a href="/advertise/">Advertise in Marine Corps Times</a> &nbsp; | &nbsp; <a href="/about/">About Marine Corps Times</a> &nbsp; | &nbsp; <a href="/help/">Customer Service</a> &nbsp; | &nbsp; <img src="/images/rss_icon_header.gif" border="0" style="position: relative; top:2px;"> <a href="/rss/">RSS</a> &nbsp;| &nbsp; <a href="/thisweek/" class="featureLink">Digital Edition</a></div>
+			<div class="rightBlock">
+							<a href="/login/">Login</a> | <a href="/register/" class="featureLink">Register</a>
+										</div>
+		</div>
 		<div class="left">
 			<div class="logo"><a href="/"><img alt="MarineCorpsTimes" src="/images/logo_marinetimes.gif"></a></div>
-			<div class="tag"><img alt="Your online source for everything Marine" src="/images/tag_marinetimes.gif"></div>
+			<div class="tag"><img alt="A Gannett Company" title="A Gannett Company" src="/images/gannett_tagline.jpg"></div>
 			<div class="printlogo"><img src="/images/logo_marinetimes-alert.jpg"></div>
 		</div>
 		<div class="right">
-			<div class="left">
-				<div class="log">
-											<a href="/login/">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/register/">Register</a>
-									</div>
-				<div class="search">
-					<form action="http://search.marinecorpstimes.com/sp" method="get">
-						<input type="hidden" name="aff" value="1100">
-						<input name="keywords" type="text" value="" size="15" maxlength="250">
-						<input class="button" name="Search" type="submit" value="Search">
-					</form>
-									</div>
-							</div>
-			<div class="right">
-				<div class="custserv">
-				<a href="http://www.marinecorpstimes.com/tnlink.php" target="_blank"><span style="color: #ffd300;">NEW!</span> Digital Edition</a>&nbsp;&nbsp;■<br>
-				<a href="/help/">Customer Service&nbsp;&nbsp;■</a><br>
-                    <a href="/subscribe/">Subscribe to Marine Times&nbsp;&nbsp;■</a><br>
-                    <a href="/renew/">Subscription Renewal&nbsp;&nbsp;■</a><br>
-                    <a href="/advertise/">Advertise in Marine Times&nbsp;&nbsp;■</a>
-				<a href="/rss/">Subscribe to RSS Feeds&nbsp;<img src="/images/rss_icon_header.gif" border="0"></a>
-				</div>
+			  <div style="float:left; padding:10px 0px 0px 30px;">
+        <table cellpadding="0" cellspacing="0" border="0" width="190">
+					<tbody><tr valign="middle">
+						<td style="font-size: 9px; color: #FFFFFF;">Search Sponsored By:</td>
+						<td align="right" width="81" height="31" bgcolor="#CCCCCC"><script type="text/javascript">OAS_AD('88x31_1');</script></td>
+					</tr>
+				</tbody></table>
+        </div>
+            <div class="search">
+				<form action="http://search.marinecorpstimes.com/sp" method="get">
+					<input type="hidden" name="aff" value="1100">
+					<input name="keywords" type="text" value="" size="15" maxlength="250">
+					<input class="button" name="Search" type="submit" value="Search">
+				</form>
+								
 			</div>
-		</div>
+								</div>
 		<div class="clear"><!-- FIX THE BOX --></div>
 	</div>
 	<div class="clear"><!-- FIX THE BOX --></div>
 </div>
+
+<!-- PROTOTYPE / JQUERY / FANCYBOX -->
+
+<link rel="stylesheet" type="text/css" href="http://militarytimes.com/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://militarytimes.com/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="http://militarytimes.com/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="http://militarytimes.com/js/fancybox/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript">
+$(document).ready (function () {
+	$('#loginLink').fancybox ({
+		'width'			: 520,
+		'height'			: 380,
+		'autoScale'		: false,
+		'transitionIn'		: 'fade',
+		'transitionOut'	: 'fade',
+		'type'			: 'iframe',
+		'href'			: 'https://poky.atpco.com/atp/Login-slim.aspx?pubCode=MAR'
+	});
+});
+</script>
 
 <!-- NAVIGATION STARTS HERE -->
 
@@ -244,7 +267,7 @@ function OAS_NORMAL(pos) {
 		
 		<div class="contactinfo">	
 	<div class="custsvc_subhead">Contact us</div>
-	Army Times Publishing Company<br>
+	Gannett Government Media<br>
 	6883 Commercial Dr.<br>
 	Springfield, Va. 22159-0500 USA	<br><br>	
 	<div class="custsvc_subhead">Copyright Permissions</div>
@@ -281,12 +304,12 @@ function OAS_NORMAL(pos) {
 		<div class="left">
 			<div class="issue">
 				<div class="cover">
-<a href="/thisweek/"><img src="/xml/front/122710_mc_cover.JPG" alt="GI Bill surprise"></a>
+<a href="/thisweek/"><img src="/xml/front/062711_mc_cover.JPG" alt="Your new auto-rifle"></a>
 </div>
 <div class="lead">
 <h2><a href="/thisweek/">This Week’s Marine Corps Times</a></h2><br>
-<a href="/thisweek/" class="h">GI Bill surprise</a><br>
-Lame-duck Congress passes improvements in Post-9/11 GI Bill					<div class="drop">
+<a href="/thisweek/" class="h">Your new auto-rifle</a><br>
+Despite controversy, all squads to get SAW replacement.					<div class="drop">
 						<a href="/thisweek/">Read this week's issue</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pastissues/">Read past issues</a>
 					</div>
 				</div>
@@ -314,6 +337,7 @@ Lame-duck Congress passes improvements in Post-9/11 GI Bill					<div class="drop
 						<a href="mailto:cust-svc@gannettgov.com?subject=Customer Service Request from Marine Corps Times">cust-svc@gannettgov.com</a><br>
 						1-800-368-5718
 					</div>
+					<a href="/corrections">Corrections&nbsp;&nbsp;■</a><br>
 					<a href="/contact/">Contact Marine Times&nbsp;&nbsp;■</a><br>
                     <a href="/subscribe/">Subscribe to Marine Times&nbsp;&nbsp;■</a><br>
                     <a href="/renew/">Subscription Renewal&nbsp;&nbsp;■</a><br>
@@ -326,13 +350,28 @@ Lame-duck Congress passes improvements in Post-9/11 GI Bill					<div class="drop
  OAS_AD('728x90_2'); 
  //--></script>
 		</div>
+        <div class="footertag"><a href="http://www.gannett.com/" target="_blank"><img alt="Gannett" title="Gannett" src="/images/gannett_footer.jpg"></a></div>
 		<div class="legal">
-			All content © 2010, Gannett Government Media Corporation&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms/">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy/">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/">About Us</a>
+			All content © 2011, Gannett Government Media Corporation&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms/">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy/">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/">About Us</a>
 		</div>
 		<div class="clear"><!-- FIX THE BOX --></div>
 	</div>
 	<div class="clear"><!-- FIX THE BOX --></div>
 </div>
+
+<script type="text/javascript">
+$(document).ready (function () {
+	$('.keyLink').fancybox ({
+		'width'			: 520,
+		'height'			: 380,
+		'autoScale'		: false,
+		'transitionIn'		: 'fade',
+		'transitionOut'	: 'fade',
+		'type'			: 'iframe',
+		'href'			: '/windows/key.php'
+	});
+});
+</script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
