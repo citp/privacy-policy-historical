@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jott.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213085549id_/http%3A//jott.com/jott/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jott.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620131100id_/http%3A//jott.com/jott/privacy.html) for the most accurate reproduction.*
 
 # Jott.com | Privacy Policy
 
