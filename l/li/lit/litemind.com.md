@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litemind.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228054912id_/http%3A//litemind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litemind.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620234934id_/http%3A//litemind.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
