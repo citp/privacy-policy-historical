@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancegeneral.co.in privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908122037id_/http%3A//www.reliancegeneral.co.in%3A80/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancegeneral.co.in privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620100512id_/http%3A//www.reliancegeneral.co.in/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Page - General Insurance, Health Insurance, Car Insurance, Home Insurance & Travel Insurance - Reliance General Insurance
 
@@ -48,5 +48,3 @@ Phone No: +91 - 022 - 30479600
   
   
 | 
-
-[](http://www.mumbaifilmfest.com/)
