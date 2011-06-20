@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekalerts.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226135137id_/http%3A//www.geekalerts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekalerts.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620095252id_/http%3A//www.geekalerts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GeekAlerts
 
