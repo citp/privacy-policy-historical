@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computervalley.ca privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219221309id_/http%3A//www.computervalley.ca/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computervalley.ca privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620190206id_/http%3A//www.computervalley.ca/main/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : Online Computer Store Canada | Computer Store Online, Computer Parts Store | Computer Shop, Computer Hardware Store | Computer Valley â€“ New Products
 
