@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99acres.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226032245id_/http%3A//www.99acres.com/load/Company/privacy%3FlstAcn%3DNR_R%26lstAcnId%3D-1%26src%3DFTR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99acres.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620170341id_/http%3A//www.99acres.com/load/Company/privacy%3FlstAcn%3DNR_R%26lstAcnId%3D-1%26src%3DFTR) for the most accurate reproduction.*
 
 # 
 
