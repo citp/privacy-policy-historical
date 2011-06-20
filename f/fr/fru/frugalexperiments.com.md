@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalexperiments.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817005320id_/http%3A//www.frugalexperiments.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalexperiments.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620101427id_/http%3A//www.frugalexperiments.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
