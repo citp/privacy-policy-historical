@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ocala4sale.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220224544id_/http%3A//blog.usa4sale.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocala4sale.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620100304id_/http%3A//blog.usa4sale.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | USA4SALE Networks Classified Blog
+# Privacy Policy
 
-At USA4SALE Networks, we take your privacy very seriously. This policy states what happens to your personal information when you use our Web sites. This policy does not apply to the companies and websites that we advertise or endorse. Please visit their Web sites for their policy regarding how they handle personal information. 
+At USA4SALE , we take your privacy very seriously. This policy states what happens to your personal information when you use our Web sites. This policy does not apply to the companies and websites that we advertise or endorse. Please visit their Web sites for their policy regarding how they handle personal information. 
 
 **What We Collect**  
 When you use our sites we collect several pieces of information including your name, email address, phone number, your ad, your feedback, discussions and posts to our message boards, and where applicable physical or billing address, and billing information. Additionally, our servers collect information when you view our site or post an ad or reponse, including browser information, referrer information, timestamp, page URL, and your IP address. Our servers collect this information to analyze trends, administer the site, improve site performance, and gather broad demographic information for aggregate use. 
@@ -36,10 +36,10 @@ We recommend a few ideas for safer buying and selling.
 4\. Do not reply to messages offering more than the asking price. For more details, read [Safe Online Selling](http://blog.usa4sale.net/safe-online-selling/).
 
 **Cookies**  
-USA4SALE Networks sites may set and access cookies on your computer. We use cookies to estimate and report our total audience size and traffic and conduct research to improve our content and services.  
+USA4SALE sites may set and access cookies on your computer. We use cookies to estimate and report our total audience size and traffic and conduct research to improve our content and services.  
 **  
 Law Enforcement and Third Parties**  
-USA4SALE Networks will provide information to law enforcement agencies. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. 
+USA4SALE will provide information to law enforcement agencies. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. 
 
 In order to protect our site and its users against potential fraud, we may verify with third parties the information you provide.
 
