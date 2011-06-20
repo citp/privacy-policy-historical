@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the footsmart.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623113042id_/http%3A//www.footsmart.com/Page.aspx%3FpageId%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footsmart.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620230607id_/http%3A//www.footsmart.com/Page.aspx%3FpageId%3D13) for the most accurate reproduction.*
 
 # FootSmart :: Comfortable Walking Shoes & Foot Pain Products for Heel Pain, Back Support & Foot Problems :: Comfort Footwear
 
 At FootSmart we are committed to protecting your privacy online. Any questions regarding this privacy policy should be sent via email to [privacy@footsmart.com](mailto:privacy@footsmart.com)  
 **1.   Collection of Personal Information**  
-**      a. What information we collect**  
+**      a. What information we collect**   
        
 | 
 
 The only personal information that FootSmart collects is information voluntarily supplied by site visitors. This information is personally identifiable information such as name, address, email and phone number. The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest.
 
-If you prefer we do not share the personal information you have provided us and information about your order with marketing partners, please email us at [privacy@footsmart.com](mailto:privacy@footsmart.com) .
+If you prefer we do not share the personal information you have provided us and information about your order with marketing partners, please email us at [privacy@footsmart.com](mailto:privacy@footsmart.com).
 
 In addition to personal information, we collect site usage information to help in our efforts to continually improve our site. This information is IP address, browser type, the server your computer is logged into, whether you responded to a particular ad, and/or what pages you are visiting on the website. We can only review this information in aggregate for all of our customers. Our site is tracked by CoreMetrics. You should refer to the CoreMetrics Privacy Policy to learn how they collect and use information: <http://www.coremetrics.com/company/privacy.html>.  
   
-     **b. Where we collect the information**  
+     **b. Where we collect the information**    
 | There are four areas on our site where we collect the personal information:  
 \- the Check Out page  
 \- the Create Account page  
@@ -42,14 +42,14 @@ You can refuse cookies by turning them off in your browser. **If you turn off co
 **      a. Email**  
 | 
 
-FootSmart periodically sends email to our customers to help keep you informed of FootSmart's new products, features and/or special promotions. In every email that we distribute, we include instructions on how to remove [unsubscribe] your email address from the distribution list or you may simply email us with our [Customer Service Contact Form](https://web.archive.org/web/20080623113042id_/http%3A//www.footsmart.com/ContactUs.aspx) and request to be removed from the mailing list.  
+FootSmart periodically sends email to our customers to help keep you informed of FootSmart's new products, features and/or special promotions. In every email that we distribute, we include instructions on how to remove [unsubscribe] your email address from the distribution list or you may simply email us with our [Customer Service Contact Form](https://web.archive.org/web/20110620230607id_/http%3A//www.footsmart.com/ContactUs.aspx) and request to be removed from the mailing list.  
   
   
      **b. Catalog  
 **  
 | 
 
-In addition to shopping on our website, FootSmart distributes a full-product catalog. We send these catalogs throughout the year to our registered users and customers. If you would like to receive the most current catalog, go to: [Catalog Request](https://web.archive.org/web/20080623113042id_/http%3A//www.footsmart.com/CatalogRequest.aspx).  If you no longer wish to receive our catalog, please email us with our [Customer Service Contact Form](https://web.archive.org/web/20080623113042id_/http%3A//www.footsmart.com/ContactUs.aspx).  
+In addition to shopping on our website, FootSmart distributes a full-product catalog. We send these catalogs throughout the year to our registered users and customers. If you would like to receive the most current catalog, go to: [Catalog Request](https://web.archive.org/web/20110620230607id_/http%3A//www.footsmart.com/CatalogRequest.aspx).  If you no longer wish to receive our catalog, please email us with our [Customer Service Contact Form](https://web.archive.org/web/20110620230607id_/http%3A//www.footsmart.com/ContactUs.aspx).  
   
 **3.   Changing Personal Information  
 **  
@@ -63,7 +63,7 @@ In addition to shopping on our website, FootSmart distributes a full-product cat
 **6.   Acceptance of Privacy Policy Terms & Conditions  
 **  
 | By using our web site, you consent to the collection and use of this information by FootSmart. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of our policies.  
-**7.   Contact FootSmart with questions**  
-| Phone - 800.230.4077  
+**7.   Contact FootSmart with questions**   
+| Phone - 800.707.9928  
 Email -   
 
