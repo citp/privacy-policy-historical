@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwgoa.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620181149id_/http%3A//www.wwgoa.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwgoa.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620182606id_/http%3A//www.wwgoa.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,12 +83,10 @@ Privacy Policy Coordinator
 
 WoodWorkers Guild of America
 
-Two Carlson Parkway
+1903 Wayzata Blvd. E.
 
-Suite 320
-
-Plymouth, MN 55447
+Wayzata, MN 55391
 
 [webmaster@wwgoa.com](mailto:webmaster@wwgoa.com "WoodWorkers Guild of America Webmaster")
 
-Last Updated: January 15, 2010
+Last Updated: October 14, 2010
