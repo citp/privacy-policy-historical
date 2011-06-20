@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208024544id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620080953id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for World of Lucid Dreaming
+
+[Home](http://www.world-of-lucid-dreaming.com/) > [Privacy Policy](http://www.world-of-lucid-dreaming.com/privacy-policy.html)
 
 ## Short Version
 
@@ -27,3 +29,5 @@ This site contains links to other sites. This site and its owner(s) are not resp
 
 **Public Forums**  
 This site may make forums, message boards, and/or newsgroups available to its visitors. Please remember that any information that is disclosed in these areas becomes public information, so you should exercise caution when deciding to disclose your personal information. 
+
+[](http://www.dmca.com/Protection/Status.aspx?id=98da8e56-12bc-4799-b39b-9ec30c3d447a "Protected by DMCA")
