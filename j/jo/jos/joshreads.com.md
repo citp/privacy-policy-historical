@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshreads.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220004016id_/http%3A//joshreads.com%3Fpage_id%3D1459) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshreads.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620191333id_/http%3A//joshreads.com%3Fpage_id%3D1459) for the most accurate reproduction.*
 
 # The Comics Curmudgeon » Privacy policy
 
