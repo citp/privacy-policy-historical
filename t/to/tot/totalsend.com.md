@@ -1,9 +1,43 @@
-> *The following text is extracted and transformed from the totalsend.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055021id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalsend.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620044114id_/http%3A//www.totalsend.com/privacy-policy) for the most accurate reproduction.*
 
-# HugeDomains - Privacy Policy
+# Privacy Policy « Total Send
 
-HugeDomains protects your privacy. We do not use your information other than for implied shopping purposes of the HugeDomains.com website. We do not sell your email or contact information to any third parties. To use the Google Checkout functionality of HugeDomains you're information will be shared through Google Checkout. If you are making a high transaction purchase, your information might need to be shared with a third party Escrow service such as Escrow.com. If you use any live chat functionality through our site that information may be recorded as well, and we do not advise using your credit card information or personal information anywhere on our site except during the actual checkout. 
+### We respect the privacy needs of our valued customers and members. This Privacy Policy outlines what specific information is gathered on the Total Send site and how that information is used.
 
-We do not store your credit card or payment information anywhere on our servers. If you can recommend any better practices to help improve customer privacy and security, please contact us to let us know! 
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at support@totalsend.com
 
-Thank you for shopping HugeDomains.com and we hope we might have helped you find a new domain for your band, business, movie or whatever else you are looking to do with your domain! 
+### Information Collection and Use
+
+Total Send explicitly asks when we need information that personally identifies you (“Personal Information”). Your personal information is used to create your personal access to our email marketing product, and to contact you in the course of using this product. Financial information that is collected is used to verify, identity and to bill either you or your company for products and services, as applicable. Demographic and profile data collected by Total Send may be used to tailor this web site or any requested email communications, and to display information that is more relevant to you. Total Send also compiles demographic and product use information, but in the aggregate only, and may make that aggregate information publicly available. Under no circumstances will Total Send make any personal information about an individual user available to anyone.
+
+Your email address is used to only send you information that you have requested. As part of your use of our email marketing software, Total Send allows you to elect to receive, or not receive, certain information from Total Send. Total Send adheres strictly to permission-based email policy. Except as mentioned above, Total Send will not send you unsolicited email information, commercial offers or advertisements. Total Send will not sell, rent, or loan our contact lists or our customer’s contact lists (including customer data) to any outside firms nor will Total Send use customer contact lists for our own marketing purposes. All emails that you have requested will have an option to unsubscribe. Unsubscribe requests are fulfilled within minutes and no further communications will be sent to users who have stated that they do not wish to receive the specified information.
+
+### Subscriber Lists, Campaign Content and Campaign Reports
+
+Total Send ensures that all subscriber lists, email content and reports remain private and confidential. Total Send may scan the content of your campaigns to ensure it complies with our Terms of Use — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Total Send will not sell, rent, loan or invite external access to a customer’s contact lists. Nor will Total Send themselves use customer’s contact lists for any purpose.
+
+### Communications from the Site
+
+Special Offers – We send all new users a welcoming email to verify their new account and confirm their password and username. Established users will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Customers can unsubscribe via the unsubscribe mechanism at the bottom of each email.
+
+Newsletter – If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications via the unsubscribe mechanism at the bottom of each email.
+
+### Service Announcements
+
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
+
+### Customer Service
+
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user’s wishes.
+
+### Website Usage Information
+
+We use your IP address to help diagnose problems with our server, and to administer our Web site. We do not link your IP address to any personally identifiable information. We use tracking information to determine which areas our site users visit based on traffic to those areas. Total Send does not track what individual users read, but rather how often each page is visited. This helps us maintain a superior and informative website for you.
+
+### Security Technology
+
+Total Send has made a substantial investment in the latest server, database, backup and firewall technologies to protect our information assets. These technologies are deployed as part of sophisticated security architecture. All data resides in a tightly controlled, secure data center. These investments mean that information about the identity and preferences of individual members is never accessible to anyone outside Total Send. We will maintain safeguards to protect the security of these servers and your personally identifiable information.
+
+### Policy Modifications
+
+We may change this Privacy Policy from time to time. If/when Total Send makes changes to this privacy statement, we will highlight the changes on our website. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
