@@ -1,42 +1,31 @@
-> *The following text is extracted and transformed from the justinmind.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924141649id_/http%3A//www.justinmind.com/directpages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinmind.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620125228id_/http%3A//www.justinmind.com/privacy-policy) for the most accurate reproduction.*
 
-# Justinmind privacy policy
+# Privacy policy
 
-* * *
+When you register for a Justinmind account you can be certain that we have implemented comprehensive security practices to ensure that only you and those people you provide authorized access to can see your account. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.justinmind.com (the "Site") and through our on-demand support platform, tools and services offered on the Site (the "Service").
 
-## Justinmind S.L. Privacy Policy
+## Information You Provide
 
-This page explains Justinmind S.L.'s policy (the "Privacy Policy") regarding the collection and use of information that can personally identify you whether you are a first-time or repeat visitor to our website.
+When you register for our Site or Service, we ask for information such as your name, company name and address, e-mail address. You can modify your account information at anytime in the Site or Service. Justinmind may use the collected personal information and other information Justinmind collects about your use of our Site and our Service to operate and make the applications available to you, for billing, identification and authentication, to contact you about your use of the applications, research purposes, improve the content and functionality of the Service and Site and for announcements about products and offers by email.
 
-Justinmind's privacy policy guarantees the user the right to access, rectify, eliminate and object to the processing of data by notifying Justinmind via e-mail at: jim.info (at) justinmind (dot) com
+Justinmind may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain our Site and Service, which may require that your personal information be transferred from your current location to the offices and servers of Justinmind and the authorized third parties referred to here. Although Justinmind owns the software, code, databases, all rights to the Justinmind application, you retain all rights to your data.
 
-In compliance with the Spanish Law 34/2002 on Information Society Services and Electronic Commerce, Justinmind will only send marketing information by e-mail or other electronic means to those users who have given their express consent to such activity.
+## Cookies
 
-Justinmind complies with applicable data protection legislation, and has taken the administrative and technical steps necessary to guarantee the security of the personal data that it collects.
+When you visit our Site or use our Service, we use session "cookies" – a piece of information stored on your computer – to allow the Service to uniquely identify your browser while you are logged in and to enable Justinmind to process your online transactions. Session cookies also help us confirm your identity and are required in order to use the applications. Justinmind uses persistent cookies that only Justinmind can read and use. Users who disable their web browsers’ ability to accept cookies will be able to browse our Site and Service, but will not be able to access or take advantage of the applications.
 
-## Information Collection and Use
+## Information Sharing
 
-Justinmind S.L. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties without your explicit permission.
+Except as described in this policy, Justinmind will not give, sell, rent, or loan any identifiable personal information to any third party. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of applications, or as otherwise required by law. Justinmind may assign or transfer this privacy policy, and your user account and related information and data, to any person or entity that acquires or is merged with Justinmind.
 
-At Justinmind S.L., we will never share your information with any third party.
+## Protection of Information
 
-## Registration
+Justinmind maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. These technologies and methods help ensure that your data is safe, secure, and only available to you and to those you provided authorized access. However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure.
 
-In order to download the software and the documentation, a user must first complete a registration form. During registration a user is required to give their contact information such as name, email address, company name, company website and country.
+## Changes to Privacy Policy
 
-## Log Files
+Justinmind may update this policy from time to time. You can review the most current version of this privacy policy at any time at http://www.justinmind.com/privacy. Your continued use of the Service constitutes your agreement to be bound by such changes to the privacy policy. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of our Service.
 
-We use IP addresses, browser type, operating system, referring URLs, page views, and access times to analyze trends, administer the site, etc. IP addresses, etc. are not linked to personally identifiable information.
+## Contact Us
 
-## Correction/Updating
-
-If a user's personally identifiable information changes (such as your zip code,) or if a user no longer desires our services, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by emailing us at: info (at) justinmind (dot) com.
-
-## Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-[](http://www.addthis.com/bookmark.php?v=20)
-
-  
-
+If you have questions regarding this privacy policy or about the security practices of Justinmind, please contact us by email at jim.info at justinmind.com.
