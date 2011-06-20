@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultbar.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107072526id_/http%3A//www.resultbar.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultbar.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620180410id_/http%3A//www.resultbar.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # ResultBar - Privacy Policy
 
