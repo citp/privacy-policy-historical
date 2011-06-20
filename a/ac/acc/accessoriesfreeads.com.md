@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessoriesfreeads.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219062207id_/http%3A//www.accessoriesfreeads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessoriesfreeads.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620175907id_/http%3A//www.accessoriesfreeads.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
