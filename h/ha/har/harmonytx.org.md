@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harmonytx.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212010224id_/http%3A//harmonytx.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonytx.org privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620073033id_/http%3A//harmonytx.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy. Cosmos Foundation. Harmony Public Schools.
+# Privacy Policy. Cosmos Foundation - Harmony Public Schools
 
 ## Privacy Policy
 
@@ -33,7 +33,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**
 
