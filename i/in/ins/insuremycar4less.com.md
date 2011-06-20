@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the insuremycar4less.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212220456id_/http%3A//insuremycar4less.com%3Fopenaction%3Dqw%26subaction%3Dprivacy%23content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremycar4less.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620102545id_/http%3A//insuremycar4less.com/index.cfm%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
 
-# InsureMyCar4Less | Privacy Policy and Terms and Conditions
+# InsureMyCar4Less | The perfect policy, the right price
 
-## Privacy Policy and Terms and Conditions
+## InsureMyCar4Less.com Privacy Policy Statement
 
-_This privacy policy was last updated on April 8th, 2009_
+_This privacy policy was last updated on March 15th, 2011_
 
-InsureMyCar4Less is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
+InsureMyCar4Less is owned by QuoteWizard.com LLC. InsureMyCar4Less is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
 
 ## Information We Collect
 
