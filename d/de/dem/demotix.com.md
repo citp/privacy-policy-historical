@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224062614id_/http%3A//www.demotix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620195257id_/http%3A//www.demotix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Demotix.com
 
@@ -32,7 +32,7 @@ We may also receive your Personal Data from other members of the Demotix Ltd Gro
 
 We process your Personal Data, and share your Personal Data with other members of the Demotix Ltd Group, or others, only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. Some of these purposes may include the following: 
 
-* For the purposes of accounting 
+* For the purposes of managing your account and content that you upload or licence from the site 
 
 * To process your request for information or advice 
 
