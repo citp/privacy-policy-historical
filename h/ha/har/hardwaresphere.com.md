@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwaresphere.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218044740id_/http%3A//www.hardwaresphere.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaresphere.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620020351id_/http%3A//www.hardwaresphere.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hardware Sphere
 
