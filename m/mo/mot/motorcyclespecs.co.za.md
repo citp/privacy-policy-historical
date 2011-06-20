@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcyclespecs.co.za privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219130317id_/http%3A//www.motorcyclespecs.co.za/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclespecs.co.za privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620190336id_/http%3A//www.motorcyclespecs.co.za/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
