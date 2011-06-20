@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbooks.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222011825id_/http%3A//smallbusiness.intuit.com/small-business/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbooks.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620101647id_/http%3A//smallbusiness.intuit.com/small-business/privacy/index.jsp) for the most accurate reproduction.*
 
 # Intuit Small Business Privacy Statement
 
@@ -6,7 +6,7 @@
 
 At Intuit, we value our relationship with you and place the highest importance on respecting and protecting your privacy. We want you to feel comfortable and confident when using our products and services and with entrusting your personal, company and financial information to us. The full Intuit Small Business Privacy Statement can be found by going to http://smallbusiness.intuit.com/small-business/privacy/#privacyStatement. 
 
-Intuit Procurement contracting and Purchase Order (PO) processes adhere to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/). 
+The following Intuit businesses and processes adhere to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/): QuickBooks Online Global, Intuit Brainstorm and the Intuit Procurement contracting and Purchasing process. 
 
 Click here for more information
 
@@ -46,7 +46,7 @@ Tucson, AZ 85706
 
 [](http://www.truste.org/ivalidate.php?ctv_group=IntuitSMB&companyName=Intuit&sealid=101 "TRUSTe")
 
-Intuit is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we have had our practices reviewed by TRUSTe. TRUSTe reviews designated Intuit Web sites and evaluates our privacy practices. The TRUSTe program covers only information that is collected through this Web site and does not cover information that may be collected through software downloaded from the site. If you contact us for a privacy-related issue and we do not respond or if your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will serve as a liaison with Intuit to resolve your concerns. 
+Intuit has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at the address posted above. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 Intuit Small Business Privacy Statement
 
@@ -56,7 +56,7 @@ At Intuit, we value our relationship with you and place the highest importance o
 
 Some Intuit financial products require you to register your purchase. During the registration process we ask for your name, business address and phone number, e-mail address and company name. If you register online, your software license and version information may be sent to Intuit automatically. We may also ask you to answer some optional questions about yourself and your business and how you use the product. We may obtain additional information about you, such as address change information, from commercially available sources, in order to keep our records current. 
 
-When purchasing some financial services, such as payroll or payments processing, we may also ask for company financial information, social security number, Federal Employer Identification Number, employee information and other information necessary to process the service application or fulfill the service. We may use this information to verify your identity and creditworthiness. If you are signing up for a financial service from within your software, we may prefill some information from your software to assist you in the application process. When you sign up for additional finanical services, we may use previous application information to determine if you qualify for other services. You will be able to change or update information on the application prior to submitting. We may also use this information to assist you in filling out other applications for financial services. 
+When purchasing some financial services, such as payroll or payments processing, we may also ask for company financial information, social security number, Federal Employer Identification Number, employee information and other information necessary to process the service application or fulfill the service. We may use this information to verify your identity and creditworthiness. If you are signing up for a financial service from within your software, we may prefill some information from your software to assist you in the application process. When you sign up for additional financial services, we may use previous application information to determine if you qualify for other services. You will be able to change or update information on the application prior to submitting. We may also use this information to assist you in filling out other applications for financial services. 
 
 You may use Intuit ProLine tax preparation products and services to assist you with the preparation and electronic filing of tax returns. "Tax return information" is information that taxpayers provide in order to prepare a tax return using an Intuit ProLine tax product. The use and disclosure of tax return information is governed by Section 7216 of the Internal Revenue Code and many state codes and regulations. Intuit discloses or uses tax return information only in accordance with applicable laws, to prepare, assist in preparing, or obtain or provide services in connection with preparing tax returns. 
 
@@ -156,4 +156,6 @@ You may unsubscribe from our newsletters by using the unsubscribe link provided 
 
 Intuit and its subsidiaries may exchange information about your transactions to fulfill your requests. We may also provide you information about products or services we believe you may be interested in unless you have asked us not to contact you. We offer you the opportunity to review privacy practices at our subsidiaries' Web sites. 
 
-Last Updated: 09/14/2009. 
+If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before the changes take effect. 
+
+Last Updated: 01/18/2011. 
