@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palacejobs.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220134351id_/http%3A//www.palacejobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palacejobs.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620094525id_/http%3A//palacejobs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
