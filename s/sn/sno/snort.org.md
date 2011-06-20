@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snort.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218012042id_/http%3A//www.snort.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snort.org privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620170602id_/http%3A//www.snort.org/legal/privacy) for the most accurate reproduction.*
 
 # Snort :: Privacy
 
