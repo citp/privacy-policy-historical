@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiascanner.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212202555id_/http%3A//indiascanner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiascanner.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620101622id_/http%3A//indiascanner.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | India Scanner
+# » Privacy Policy » India Scanner
 
 Privacy Policy
 
