@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928015915id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620185230id_/http%3A//www.ritzpix.com/net/content.aspx%3Fid%3DPrivacyStatement) for the most accurate reproduction.*
 
 # RitzPix.com @ LifePics
 
