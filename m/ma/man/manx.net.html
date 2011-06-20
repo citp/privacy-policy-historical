@@ -1,441 +1,141 @@
-<!--The following is the downloaded HTML source of the manx.net privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619205635id_/http%3A//www.manx.net/default.asp%3Fid%3D10008) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manx.net privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621002523id_/http%3A//www.manxtelecom.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>www.manx.net</title>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1258">
-<!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
-<link rel="stylesheet" type="text/css" href="css/manxtelecomsite.css">
-<!--<link rel="alternate" type="application/rss+xml" title="Manxnet Service Status" href="http://www.manx.net/rss/servicestatus.xml" />-->
-<script language="Javascript" type="text/javascript">
-	
-	var iClick = 0
-	
-	function required(strForm) {
-		var bolNulls = new Boolean(true);
-		var a = 0; 
-		var strFormName = new String(strForm);
-		var strExempt = new Array('issuenumber','startdate','initial', 'adman_website');
-			  
-		while(eval('a <= document.' + strFormName + '.elements.length - 2') && bolNulls == true) {
-			if( eval('document.' + strFormName + '.elements[a].value == ""') && contains(strExempt, eval('document.' + strFormName + '.elements[a].name')) == false ) {
-				bolNulls = false;
-				eval('document.' + strFormName + '.elements[a].focus()');
-				iClick++;
-			}
-			a++;
-		}
-		if( iClick > 0 && bolNulls == false ) {
-			 alert( "Sorry, but you cannot submit an improperly filled out form.\n\nThe cursor has been put in the field that requires information." );
-			 }
-		else {
-		}
-			
-		delete strExempt;
-		delete strFormName;
-		return bolNulls;
-	 }
-	
-	 function contains(strArrayToLookIn, strItemToFind) {
-		var strTestArray = new Array();
-		var strItem = new String(strItemToFind); 
-		var bolFound = new Boolean(false); 
-		
-		strTestArray = strArrayToLookIn;
-		a = 0;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>
+	Privacy Policy
+</title><link href="/WebResource.axd?d=ZTlfNbliPhCO0urIIf6CZOoSui9FHvcfwrDfQa0g98QASD7lKro94tdbTeC9VaF24FoXxl2FwNRLUOjJSUwRC71EPw3Ap46b-PSIz8K3QCv5SCaublaCNlA_Yu4GCZuPjYKpqg2&amp;t=633983877995781250" type="text/css" rel="stylesheet"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link href="templates/default/css/system/system.css" type="text/css" rel="stylesheet"><link href="templates/default/css/system/standard.css" type="text/css" rel="stylesheet"><link href="templates/default/css/styles.css" type="text/css" rel="stylesheet">
+<!--[if lte IE 7]>
+<style>div.panel div { display: inline-block;}</style>
+<![endif]-->
+<script type="text/javascript" src="/js/swfobject.js"> </script>
 
-		while( a <= strTestArray.length && bolFound == false ) {
-			if( strTestArray[a] == strItem ) {
-				bolFound = true;
-			}
-			a++;
-		}
-		
-		delete strTestArray;
-		delete strItem;
-		return bolFound;
-	 }
-	 
-	 function submitonce(theform){
-		var a = 0;
-		if (document.all||document.getElementById){
-			while(eval('a <= document.' + theform + '.elements.length - 2')) {
-				var tempobj = document.theform.elements[a]
-				if(tempobj.type.toLowerCase()=="submit"||tempobj.type.toLowerCase()=="reset")
-					tempobj.disabled = true
-				}
-				a++;
-			}		
-		}
-</script>
-	
-<script language="javascript" type="text/javascript">
+<script type="text/javascript" src="/js/core.js"> </script>
 
-   function ShowHide(strRowID, strCellID)
-   {
-    var objRow = document.getElementById(strRowID);
-    var objElements=document.getElementsByName(strRowID);
-    var iCount=objElements.length;
-    
-	for (i=0;i<iCount;i++)
-	
-	{
-    if (objElements.item(i).style.display=="none")
-     {
-      //objRow.style.display = "block";
-      objElements.item(i).style.display="block";
-      var objCell = document.getElementById(strCellID);
-      objCell.innerText = "-";
-     }
-    else
-     {
-	  //objRow.style.display = "none";
-	  objElements.item(i).style.display="none";
-      var objCell = document.getElementById(strCellID);
-      objCell.innerText = "+";
-     };
-   }
-   }
-
-</script>
-
-<script language="javascript" type="text/javascript">
-
-	var win = null;
-	function NewWindow(mypage,myname,w,h,scroll)
-	{
-		LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
-		TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
-		settings = 'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',noresizable'
-		win = window.open(mypage,myname,settings)
-	}
-
-</script>
-
-<script language="JavaScript" type="text/javascript" src="http://newsimg.bbc.co.uk/syndication/avconsole/js/popup.js"></script>
-
-<script language="JavaScript" type="text/javascript"><!--
-    var isNav4 = false;
-    var isIE4 = false;
-    if (parseInt(navigator.appVersion.charAt(0)) >= 4) {
-        isNav4 = (navigator.appName == "Netscape") ? true : false;
-        isIE4 = (navigator.appName.indexOf("Microsoft") != -1) ? true : false;
-    }
-    function verifyBrowser() {
-        document.loginform.browserjs.value = "true";
-        if (isIE4 && navigator.appVersion.indexOf("Macintosh") == -1)
-            document.loginform.usingIE.value = "true";
-        return true;
-    }
-// -->
-</script>
-
-<script language="javascript">
-<!--
-function launchConsoleNews(){
-var
-consoleWindow=window.open("http://news.bbc.co.uk/broadband/news_console.stm?source=manx",
-"consoleWindow","width=671,height=373 toolbar=0,location=0,menubar=0,scrollbars=0,status=0");
-consoleWindow.focus();
-}
-
-function launchConsoleCeleb(){
-var
-consoleWindow=window.open("http://www.bbc.co.uk/go/syn/manx/celebdaq/-/broadband/celebdaq/popup.shtml",
-"consoleWindow","width=676,height=510 toolbar=0,location=0,menubar=0,scrollbars=0,status=0");
-consoleWindow.focus();
-}
-
-function launchConsoleSport(){
-var
-consoleWindow=window.open("http://news.bbc.co.uk/broadband/sport_console.stm?source=manx",
-"consoleWindow","width=671,height=373 toolbar=0,location=0,menubar=0,scrollbars=0,status=0");
-consoleWindow.focus();
-}
-
-function launchConsoleWeather(){
-var
-consoleWindow=window.open("http://www.bbc.co.uk/weather/broadband/weather_console.stm?source=manx",
-"consoleWindow","width=671,height=373 toolbar=0,location=0,menubar=0,scrollbars=0,status=0");
-consoleWindow.focus();
-}
-
-//-->
-</script>
-
-</head><body><map name="login_register_small">
-	<area alt="Sign up for Manxnet Mail" shape="rect" coords="13,23,68,38" href="http://signup.manx.net/register/index.php">
-</map>
+<meta name="GENERATOR" content="Immediacy .NET CMS - Licensed To : Manx Telecom Ltd"><meta name="keywords" content="."><meta name="description" content="."></head>
+<body id="bdy">
+<form name="aspnetForm" method="post" action="/privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAgIBD2QWAgIGDxYCHgRocmVmBSJ+L3RlbXBsYXRlcy9kZWZhdWx0L2Nzcy9zdHlsZXMuY3NzZGSx5aGi86SQCZ80bMVsIN+2BgAMvw==">
 
 
+<script src="/WebResource.axd?d=hfKDhW4JZh4hBJgrpFFsFsL_CsB61rIsFWioCZb73-MYvcuqR7df3RVcGV2-setzBPaxjAJNleygctNAGVBzDxKIgC021But8Keq41DCWGAm70qk0q0Ox7z_rxlb15anR8Z0Ig2&amp;t=633983877997656250" type="text/javascript"></script>
+<noscript><div>Browser does not support script.</div></noscript>
 
-<script language="javascript">window.name="manxnet";</script>
-
-
-	<center xmlns:fo="http://www.w3.org/1999/XSL/Format">
-<table cellspacing="0" cellpadding="0" width="750" border="0">
-<tbody><tr>
-<td bgcolor="#FFFFFF" width="750">
-<table cellspacing="0" cellpadding="0" height="150" width="750" align="center" border="0">
-<tbody><tr>
-<td><a target="_blank" href="http://www.manxtelecom.com/personal/mobile/services/mobile-internet-and-email/mobile-data-tariffs.aspx"><img border="1" src="/images/banners/5113-MT-Mobile-Broadband-468x60.gif"></a><img height="1" src="images/spacer.gif" width="33"></td><td valign="middle" align="right"><a href=""><img src="images/manxnet_logo.jpg" border="0"></a></td>
-</tr>
-</tbody></table>
-<div align="center">
-<center>
-<table cellspacing="0" cellpadding="0" width="750" align="center" border="0">
-<tbody><tr>
-<td rowspan="2" bgcolor="#FFFFFF">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
-<td class="mainmenuinactive"><a href="default.asp?id=1"><font class="mainmenutext">Home</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
-<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
-<td class="mainmenuinactive"><a href="default.asp?id=18"><font class="mainmenutext">News &amp; Weather</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
-<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
-<td class="mainmenuinactive"><a href="default.asp?id=4"><font class="mainmenutext">Classifieds</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
-<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
-<td class="mainmenuinactive"><a href="default.asp?id=9"><font class="mainmenutext">Web Directory</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
-<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
-<td class="mainmenuinactive"><a href="default.asp?id=6"><font class="mainmenutext">What's On</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
-<td class="mainmenuactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
-<td class="mainmenuactive"><a href="http://www.manx-telecom.com/default.asp?id=11"><font class="mainmenutext">Internet Services</font></a></td><td class="mainmenuactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
-<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
-<td class="mainmenuinactive"><a href="http://www.manxtelecom.com/support.aspx"><font class="mainmenutext">Support</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="0" width="750" align="center" border="0">
-<tbody><tr>
-<td class="mainmenuactive"><img src="images/spacer.gif"></td>
-</tr>
-</tbody></table>
-<table background="images/background_header_manxnet2.gif" cellspacing="0" cellpadding="0" width="750" border="0" bgcolor="#CC3300" style="border-collapse: collapse" bordercolor="#111111">
-<tbody><tr background="images/background_header_manxnet2.gif">
-<td background="images/background_header_manxnet2.gif" class="mainmenuinactive">
-<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse" bordercolor="#111111">
-<tbody><tr>
-<td align="middle" valign="bottom" width="82" rowspan="4"><img src="images/login_register_small.gif" usemap="#login_register_small" border="0" width="69" height="39"><img height="7" src="images/spacer.gif" width="1"></td>
-<td width="78"><img height="7" src="images/spacer.gif" width="1"></td>
-<td valign="bottom" width="613"><img height="7" src="images/spacer.gif" width="1"></td>
-</tr>
-<tr>
-<td width="78"><img src="images/username.gif" width="59" height="10"></td>
-<td valign="bottom" width="613"><img src="images/password.gif" width="114" height="10"></td>
-</tr>
-<form action="http://mail.manx.net/wm/mail/login.html?eui=y" method="post" name="loginform" enctype="application/x-www-form-urlencoded" onsubmit="return verifyBrowser();"></form>
-<tr>
-<td width="160"><input class="login" maxlength="50" size="12" name="user"><font class="mailtext"> @manx.net</font></td>
-<td width="161"><input class="login" type="password" maxlength="50" size="12" name="password"><input border="0" src="images/go_button.gif" name="login" type="image"></td>
-<td align="right" valign="top"><img src="images/spacer.gif" width="10" height="1"></td>
-</tr><input type="hidden" name="usingIE" value="false"><input type="hidden" name="browserjs" value="false">
-<tr>
-<td width="78"><img height="7" src="images/spacer.gif" width="1"></td>
-<td width="613"><img height="7" src="images/spacer.gif" width="1"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="0" width="750" align="center" border="0">
-<tbody><tr>
-<td class="mainmenuactive"><img src="images/spacer.gif"></td>
-</tr>
-</tbody></table>
-</center>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLJkZb9AgKRpuK7AxpOTGij59i7rDXzE1HL+zhu67GC">
+<div id="siteWrapper">
+<div id="topWrapper"><div id="topLinks"><div id="utils"><a href="/accessibility.aspx">Accessibility</a> | <a href="/privacy-policy.aspx?theme=print">Print</a> | <a href="/">Home</a></div><div id="channels"><a href="/personal.aspx">For You</a> | <a href="/business.aspx">For Business</a> | <a href="/shop.aspx">Shop</a> | <a href="/directory.aspx">Directory</a> | <a href="/support.aspx">Support</a> | <a href="/company.aspx">About Us</a> | <a href="/my-account.aspx">My Account</a> | <a href="/wholesale.aspx">Wholesale</a></div><div class="clr"> </div></div></div>
+<div id="headWrapper"><div id="head"><a href="/" id="logo" title="Manx Telecom Homepage"><span>Manx Telecom</span></a><div id="headContent"><div id="quickSearch"><div id="searchBox">
+	<label for="Template_header_AutoId3_quickSearch" accesskey="s"><span class="searchLabel">Search</span> </label><input name="Template$header$AutoId3$quickSearch" type="text" value="Search" id="Template_header_AutoId3_quickSearch" class="searchTerms" onfocus="clearText('Template_header_AutoId3_quickSearch','Search');" onkeypress="return clickOnEnter('Template_header_AutoId3dosearch');"><img src="images/1.gif" alt="" title="" width="0" height="0"><a class="searchButton" href="javascript:__doPostBack('Template$header$AutoId3','goSearch')" title="Search"><img id="Template_header_AutoId3dosearch" src="/templates/default/img/spacer.gif" alt="Search"></a>
+</div></div></div><div class="clr"> </div></div></div>
+<div id="navWrapper">
+<div id="mainSections"><div class="right"><div class="left"><div class="clr"> </div></div></div></div>
 </div>
-</td>
-</tr>
-<tr>
-<td width="750">
-<table cellspacing="0" cellpadding="0" width="750" border="0">
-<tbody><tr>
-<td valign="top" width="194">
-<table cellspacing="0" cellpadding="0" width="194" border="0">
-<tbody><tr>
-<td width="40"><img height="1" src="images/spacer.gif" width="40"></td>
-<td width="154"><img height="1" src="images/spacer.gif" width="154"></td>
-</tr>
-<tr>
-<td colspan="2">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
-<tbody><tr>
-<td bgcolor="#FFFFFF" colspan="3"><img src="images/folder_edge_trans_spacer.gif" border="0" width="10" height="10"></td>
-</tr>
-<tr>
-<td class="mainmenuactive"><img src="images/folder_edge_trans_spacer.gif" border="0" width="11" height="21"></td>
-<td class="mainmenuactive" width="150"><font class="leftmenuheader">MANXNET FAST FIND</font></td>
-<td class="mainmenuactive" align="right"><img border="0" src="images/tab_end.gif" width="34" height="21"></td>
-</tr>
-<tr>
-<td class="menuactive" colspan="3"><img height="5" src="images/spacer.gif" width="154"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<form name="quicklinks"></form>
-<td colspan="2" align="center" class="menuactive"><select onchange="self.location = document.quicklinks.quickfind.options[document.quicklinks.quickfind.selectedIndex].value" class="quickfind" size="1" name="quickfind"><option value="default.asp?id=10008" selected="">[Choose from list]</option>
-<option value="http://speedtest.manx.net">Bandwidth Speed Test</option><option value="http://www.manxtelecom.com/support/frequently-asked-questions.aspx">General Troubleshooting</option><option value="default.asp?id=18">Manx News &amp; Sport</option><option value="default.asp?id=17">Manx Weather</option><option value="default.asp?id=100">Manxnet Service Status</option><option value="default.asp?id=88">Online Virus Scanner</option></select></td>
+<div id="pageWrapper">
+<div id="page">
+<div id="mainCol">
 
-</tr>
-<tr>
-<td class="menuactive" colspan="2">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
-<tbody><tr>
-<td width="50%"><img border="0" src="images/tab_end_bottom_left.gif" width="34" height="7"></td>
-<td align="right" width="50%"><img border="0" src="images/tab_end_bottom.gif" width="34" height="7"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td width="40"><img height="1" src="images/spacer.gif" width="40"></td>
-<td width="154"><img height="1" src="images/spacer.gif" width="154"></td>
-</tr>
-<tr>
-<td colspan="2">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
-<tbody><tr>
-<td bgcolor="#FFFFFF" colspan="3"><img src="images/folder_edge_trans_spacer.gif" border="0" width="10" height="10"></td>
-</tr>
-<tr>
-<td class="mainmenuactive"><img src="images/folder_edge_trans_spacer.gif" border="0" width="11" height="21"></td>
-<td class="mainmenuactive" width="150"><font class="leftmenuheader"><span style="text-transform: uppercase">Internet Services</span></font></td>
-<td class="mainmenuactive" align="right"><img border="0" src="images/tab_end.gif" width="34" height="21"></td>
-</tr>
-<tr>
-<td class="menuactive" colspan="3"><img height="5" src="images/spacer.gif" width="154"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td class="menuactive" colspan="2">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
-<tbody><tr>
-<td width="50%"><img border="0" src="images/tab_end_bottom_left.gif" width="34" height="7"></td>
-<td align="right" width="50%"><img border="0" src="images/tab_end_bottom.gif" width="34" height="7"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td width="40"><img height="1" src="images/spacer.gif" width="40"></td>
-<td width="154"><img height="1" src="images/spacer.gif" width="154"></td>
-</tr>
-<tr>
-<td colspan="2">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
-<tbody><tr>
-<td bgcolor="#FFFFFF" colspan="3"><img src="images/folder_edge_trans_spacer.gif" border="0" width="10" height="10"></td>
-</tr>
-<tr>
-<td class="mainmenuactive"><img src="images/folder_edge_trans_spacer.gif" border="0" width="11" height="21"></td>
-<td class="mainmenuactive" width="150"><font class="leftmenuheader">MANXNET SITE SEARCH</font></td>
-<td class="mainmenuactive" align="right"><img border="0" src="images/tab_end.gif" width="34" height="21"></td>
-</tr>
-<tr>
-<td class="menuactive" colspan="3"><img height="5" src="images/spacer.gif" width="154"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<form name="sitesearch"></form>
-<td colspan="2" align="left" class="menuactive"><img src="images/spacer.gif" width="12" alt=""><input size="25" type="text" name="searchtext" class="sitesearch">&nbsp;<input type="submit" class="sitesearch" value="Go" name="search"></td><input type="hidden" name="id" value="1000">
-</tr>
-<tr>
-<td class="menuactive" colspan="2">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
-<tbody><tr>
-<td width="50%"><img border="0" src="images/tab_end_bottom_left.gif" width="34" height="7"></td>
-<td align="right" width="50%"><img border="0" src="images/tab_end_bottom.gif" width="34" height="7"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="images/spacer.gif" width="1" height="15"></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><a target="_blank" href="http://www.manxtelecom.com/personal/mobile/tariff-plans/pay-as-you-go.aspx"><img border="0" width="121" height="75" alt="Manxnet" src="/images/banners/mt/PAYGfreetexts.gif"></a></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="images/spacer.gif" width="1" height="10"></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><a target="_blank" href="http://www.manxtelecom.com/personal/internet-and-email/broadband.aspx"><img border="0" width="121" height="75" src="/images/banners/mt/50%25offbb.gif"></a></td>
-</tr>
-</tbody></table>
-</td>
-<td valign="top" width="556">
-<table height="100" cellspacing="0" cellpadding="0" width="556" border="0">
-<tbody><tr>
-<td width="556" colspan="8" height="10"><img height="10" src="images/spacer.gif" width="556"></td>
-</tr>
-<tr>
-<td width="1"><img src="images/spacer.gif" width="1" height="1"></td>
-<td width="29"><img height="1" src="images/spacer.gif" width="10"></td>
-<td valign="top" width="530">
-<table border="0" width="530">
-<tbody><tr>
-<td colspan="3" width="530">
-<p><font class="sectionheader">Manxnet Privacy Policy Statement</font></p>
-<p><font class="sectionbody"></font></p><p><font class="sectionbody">Manx Telecom will not pass your personal details to anyone outside of Manx Telecom. Any information given by Manx Telecom to companies felt by Manx Telecom to be reputable will only be "aggregated" statistics. This means that none of the data includes information that would enable you or any other individual to be identified.</font></p><p></p>
-<p><font class="sectionbody"></font></p><p><font class="sectionbody">Should Manx Telecom's policy ever change, we will inform you and ask your permission once again before sharing any information.</font></p><p></p>
-<p><a name=""><font class="sectionsubheader">How does Manx Telecom protect your data? </font></a></p>
-<p><font class="sectionbody"></font></p><p><font class="sectionbody">When you register details with us, for example by opening a Manxnet email address or ordering an E-Biz product, your details are stored on secure servers and software appropriate for the service ordered or requested.</font></p><p></p>
-<p><font class="sectionbody"></font></p><p><font class="sectionbody">Over and above what Manx Telecom do to safeguard your privacy and security, there are a number of things you can do to protect yourself from Internet fraud:</font></p><p></p>
-<p><font class="sectionbody"></font></p><ul><font class="sectionbody"> <li> <p>Choose a password you can remember but others will not guess, and if you do write it down, keep it somewhere safe and secure.</p> </li><li> <p>When you have finished your session on Manxnet Webmail, make sure that you prevent your details being seen by anyone that you do not wish to see them.&nbsp; So, if you have logged into this area of Manxnet, remember to log off.&nbsp; Clear any 'cache' so there is no record of your session left on screen - both Firefox and Internet Explorer let you do this.&nbsp; We also recommend you then close your browser so any history of the session is cleared.&nbsp; As an extra precaution, your session on Manxnet Webmail will 'time out' if you have not used the site for 30 minutes.</p></li></font></ul><p></p>
-<p><a name=""><font class="sectionsubheader">Email addresses</font></a></p>
-<p><font class="sectionbody"></font></p><p><font class="sectionbody">At Manx Telecom we respect the privacy of personal e-mail accounts and we store your e-mail addresses just as securely as other personal information on Manx-Telecom.com, Pronto.net and Manx.net.&nbsp; We will not send you unwanted e-mail messages or junk mail, and your details will not be passed to ANY organisation beyond Manx Telecom without your explicit permission.</font></p><p></p>
-<p><font class="sectionbody"></font></p><p><font class="sectionbody">However, we will use email to send you messages about outstanding orders, faults and service issues.&nbsp; We may also use email to keep you up to date with news about our current services, as well as anything you show an interest in, either online, or through other contact with Manx Telecom.&nbsp; We see this as an integral part of signing up for Manxnet mail services.</font></p><p></p>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="0" width="750" align="center" bgcolor="#cccccc" border="0">
-<tbody><tr height="15">
-<td width="750" class="mainmenuactive" colspan="6" style="background-color: #FFFFFF"><img height="15" src="images/spacer.gif" width="750"></td>
-</tr>
-<tr height="31">
-<td width="14" class="mainmenuactive"><img height="31" src="images/spacer.gif" width="14"></td>
-<td width="180" class="mainmenuactive"><a href="default.asp?id=10008"><font class="copyright">Privacy Policy Statement</font></a></td>
-<td width="1" bgcolor="#ffffff"><img height="31" src="images/spacer.gif" width="1"></td>
-<td width="28" class="mainmenuinactive">&nbsp;</td>
-<td width="533" class="mainmenuinactive">
-<p align="right">
-<font class="copyright">© 2007 Manx Telecom Limited. All rights reserved</font>
-</p>
-</td>
-<td width="24" class="mainmenuinactive"><img height="31" src="images/spacer.gif" width="14"></td>
-</tr>
-</tbody></table>
-</center>
+<div id="contentCol">
+<div id="content">
 
-<!--<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
-<script type="text/javascript">
-re_("0hlh0-u8a36ot491");
-</script>-->
+<h1>Privacy Policy Statement</h1>
+<p>Manx Telecom will not pass your personal details to anyone
+outside of Manx Telecom. Any information given by Manx Telecom to
+companies felt by Manx Telecom to be reputable will only be
+"aggregated" statistics. This means that none of the data includes
+information that would enable you or any other individual to be
+identified.</p>
+<p>Should Manx Telecom's policy ever change, we will inform you and
+ask your permission once again before sharing any information.</p>
+<h2>How does Manx Telecom protect your data?</h2>
+<p>When you register details with us, make an order or access
+account details, we use a secure server. Any data you give us is
+encrypted using a 'Secure Socket Layer' (SSL) session. SSL is an
+industry standard and is one of the best ways to ensure Internet
+messages are not intercepted. You should be aware, however, that
+older browsers cannot use SSL. To be sure, you will need Netscape
+version 4.05 or Microsoft Internet Explorer browsers, version 4 or
+above.</p>
+<p>If you are required to send us your credit or debit card
+information, your details will be encrypted twice - once before
+transmission then again by the secure connection during
+transmission. All credit and debit card details are stored in
+encrypted form on our servers and can only be viewed by employees
+with the correct security clearance.</p>
+<p>Over and above what Manx Telecom do to safeguard your privacy
+and security, there are a number of things you can do to protect
+yourself from Internet fraud:</p>
+<p>Choose a password you can remember but others will not guess,
+and if you do write it down, keep it somewhere safe and secure.</p>
+<p>When you have finished your session on Manx-Telecom.com, make
+sure that you prevent your details being seen by anyone that you do
+not wish to see them. So, if you have registered and logged in,
+remember to log off. Clear any 'cache' so there is no record of any
+transactions left on screen - both Netscape and Internet Explorer
+let you do this. We also recommend you then close your browser so
+any history of the session is cleared. As an extra precaution, your
+session on Manx Telecom's website will 'time out' if you have not
+used the site for 30 minutes.</p>
+<h2>Use of Cookies</h2>
+<p>Manx Telecoms website does not use cookies or record any
+information on your PC about how you access our website.</p>
+<h2>Email addresses</h2>
+<p>At Manx Telecom we respect the privacy of personal e-mail
+accounts and we store your e-mail addresses just as securely as
+other personal information on Manx-Telecom.com. We will not send
+you unwanted e-mail messages or junk mail, and your details will
+not be passed to ANY organisation beyond Manx Telecom without your
+explicit permission.</p>
+<p>However, we will use e-mail to send you messages about
+outstanding orders, faults and service issues. We may also use
+e-mail to keep you up to date with news about your current
+services, as well as anything you show an interest in, either
+online, or through other contact with Manx Telecom.</p>
+<p>If you do not want to be kept informed in this way by e-mail,
+please let us know. You can do this by ticking the relevant box
+where your email address is stored in your Manx-Telecom.com
+personal profile.</p>
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+<div id="navCol">
+
+
+</div>
+</div>
+<div id="rightCol">
+
+
+
+
+
+
+</div>
+<div class="clr"> </div>
+</div>
+</div>
+<div id="footWrapper"><div id="foot"><div id="footLinks"><a href="/sitemap">Site Map</a> | <a href="/contactus">Contact Us</a> | <a href="/termsandconditions">Terms &amp; Conditions</a> | <a href="/privacy">Privacy Policy</a></div><p>Manx Telecom Ltd, Isle of Man Business Park, Cooil Road, Braddan, Isle of Man IM99 1HX<br>Registered in the Isle of Man Reg no.5629V Vat Reg no GB 003-2919-12</p></div></div>
+</div>
+</form>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<noscript><div>Browser does not support script.</div></noscript>
+
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3359287-2");
-pageTracker._initData();
+try {
+var pageTracker = _gat._getTracker("UA-3359287-3");
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
+<noscript><div>Browser does not support script.</div></noscript>
+
 
 </body></html>
