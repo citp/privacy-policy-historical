@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217091429id_/http%3A//www.ledger-enquirer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledger-enquirer.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620084103id_/http%3A//www.ledger-enquirer.com/privacy-policy) for the most accurate reproduction.*
 
 # Ledger-Enquirer.com | Privacy Policy |
 
