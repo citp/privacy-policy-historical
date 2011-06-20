@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225135323id_/http%3A//www.defensereview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620132005id_/http%3A//www.defensereview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,5 +28,5 @@ Concerns or questions about this privacy policy can be directed to usdefcon@gmai
 
 #### Search terms for the article:
 
-[danh gia ve chinh sach bao mat](http://www.defensereview.com/search/danh+gia+ve+chinh+sach+bao+mat/ "danh gia ve chinh sach bao mat")
+[danh gia ve chinh sach bao mat](http://www.defensereview.com/search/danh+gia+ve+chinh+sach+bao+mat/ "danh gia ve chinh sach bao mat"), [fianáin](http://www.defensereview.com/search/fianain/ "fianáin"), [kebijakan tentang senjata api](http://www.defensereview.com/search/kebijakan+tentang+senjata+api/ "kebijakan tentang senjata api")
 
