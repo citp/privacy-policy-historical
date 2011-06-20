@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hirewordpressexperts.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212110851id_/http%3A//hirewordpressexperts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirewordpressexperts.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620111951id_/http%3A//hirewordpressexperts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Premium Wordpress Auto Install Themes Designer Plugin Development
 
 ## Privacy Policy
 
-Rating: 5.5/ **10** (2 votes cast)
-
-Privacy Policy for Hire Wordpress Experts
+Privacy Policy for Hire WordPress Experts
 
 This statement applies to all products and services available at the website HireWordpressExperts.com and websites worldwide including content themes and all other services. 
 
@@ -30,6 +28,6 @@ Your choices
 * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. If you do not want to provide any information, please leave this site now.  
 * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
 
-WEBSITE VISITORS EXPRESSLY AGREE THAT THE USE OF THIS WEBSITE (’THE SERVICE’) IS AT THEIR SOLE RISK. THE SERVICE IS PROVIDED ON AN ‘AS IS’ AND ‘WHEN AVAILABLE’ BASIS. HIREWORDPRESSEXPERTS.COM EXPRESSLY DISCLAIMS ALL CONDITIONS AND WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED BY LAW, CUSTOM OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF ADVERTISER ABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. HIREWORDPRESSEXPERTS.COM MAKES NO WARRANTY REGARDING ANY THEMES / GOODS / SERVICES PURCHASED OR OBTAINED FOR FREE THROUGH THE WEBSITE, OR ANY TRANSACTIONS ENTERED INTO THROUGH THE SERVICE. 
+WEBSITE VISITORS EXPRESSLY AGREE THAT THE USE OF THIS WEBSITE (‘THE SERVICE’) IS AT THEIR SOLE RISK. THE SERVICE IS PROVIDED ON AN ‘AS IS’ AND ‘WHEN AVAILABLE’ BASIS. HIREWORDPRESSEXPERTS.COM EXPRESSLY DISCLAIMS ALL CONDITIONS AND WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED BY LAW, CUSTOM OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF ADVERTISER ABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. HIREWORDPRESSEXPERTS.COM MAKES NO WARRANTY REGARDING ANY THEMES / GOODS / SERVICES PURCHASED OR OBTAINED FOR FREE THROUGH THE WEBSITE, OR ANY TRANSACTIONS ENTERED INTO THROUGH THE SERVICE. 
 
 [](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=cnelindia)
