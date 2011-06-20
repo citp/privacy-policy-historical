@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130152702id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620182235id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
 
 # TDA - Privacy Statement
 
@@ -23,10 +23,9 @@ We may collect personal information about you from a number of sources, includin
 
   * from you when you agree to take a service from us in which case this may include your contact details, date of birth, details of your qualifications; 
   * from you when you contact us with an enquiry or in response to a communication from us, in which case this may tell us something about your preferences; 
+  * from publicly available sources. 
 
 
-
-from publicly available sources. 
 
 ## 2\. Use of information
 
@@ -71,84 +70,33 @@ If you communicate with us via the internet then we may occasionally use e-mail 
 **6.2**   
 Please be aware that communications over the internet, such as e-mails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
 
-**6.3**   
+**6.3**    
 We may use "cookies" to monitor website user traffic patterns and site usage. This helps us to understand how our applicants and potential applicants use our websites so that we can develop and improve the design, layout and functionality of the sites. A cookie is a piece of information that is stored on your computer's hard drive and which records your navigation of a website so that, when you revisit that website, it can present tailored options to you based upon the stored information about your last visit. You can normally alter the settings of your browser to prevent acceptance of cookies.
 
+[Your privacy – how cookies are used by the TDA](https://web.archive.org/about/privacy/cookies.aspx "Your privacy – how cookies are used by the TDA") [](https://web.archive.org/about/privacy/cookies.aspx "TDA use of cookies")
+
 **6.4**   
-If you do not want us to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie on your computer. However, rejecting cookies may affect your ability to use some of the services at our Web site. 
+If you do not want us to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie on your computer. However, rejecting cookies may affect your ability to use some of the services at our website.
 
-## 7\. Turning off Cookies in different Browsers
+You can learn more about managing cookies through [Internet browser cookies – what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Internet browser cookies – what they are and how to manage them").
 
-**7.1**   
-Internet Explorer 5.0
-
-  1. From your browser menu, select 'Tools'. 
-  2. Then select 'Internet Options'. This will bring up the 'Internet Options' Dialogue Box. 
-  3. On the top of the dialogue box, select 'Security', then 'Custom Level'. This will bring up the 'Security Settings' box. 
-  4. Scroll down using the scroll bar on the right-hand side of the box, until you come to the section carrying the title 'allow cookies to be stored on your computer' 
-  5. Of the options available, select 'Disable', and then select the 'OK' button on the bottom of the menu box. 
-
-
-
-**7.2**   
-Internet Explorer 6.0
-
-  1. From your browser menu, select 'Tools', and then 'Internet Options'. This will bring up the 'Internet Options' Dialogue Box. 
-  2. On the top of the dialogue box, select 'Privacy'. This will bring up the 'Privacy Settings' box. 
-  3. On the Privacy tab, move the slider up for a higher level of privacy or down for a lower level of privacy. 
-  4. Move the slider to the top to block cookies from all web sites. 
-  5. Following these instructions will stop your computer from accepting cookies in future. You may reconfigure your computer to accept cookies again by following these instructions, but by selecting 'Enable', and the 'OK' button on the bottom of the menu box (Internet Explorer 5.0); or by selecting on 'Default' button (Internet Explorer 6.0). 
-
-
-
-**7.3**   
-Internet Explorer 7.0
-
-  1. Click on 'Tools' and then 'Internet Options'. 
-  2. Click the 'Privacy' tab. 
-  3. Click on 'Advanced'. 
-  4. Tick 'Override automatic cookie handling' 
-  5. Tick 'Always allow session cookies'
-
-
-
-**7.4**   
-Netscape 4.7
-
-  1. First, on your top menu, select 'Edit', and then 'Preferences'. This will bring up the 'Preferences' menu box. 
-  2. From the options on the left-hand side, select 'Advanced' which will bring up another menu. 
-  3. Halfway down, you will see a section on cookies, and if you wish to turn cookies off, you should select 'Disable', and then the 'OK' button on the bottom of the menu box. 
-  4. You may reconfigure your computer to accept cookies again by following these instructions, but by selecting 'Accept All Cookies', and then selecting the 'OK' button on the bottom of the menu box. 
-
-
-
-**7.5**   
-Netscape 6.0
-
-  1. First, on your top menu, select 'Tasks', and then 'Privacy & Security'. 
-  2. From here you have the option to 'block cookies from this site', 'unblock cookies from this site' or view and remove and prevent cookies from being reaccepted from selected sites. 
-
-
-
-**We also have information on[disabling cookies in other browsers.](http://www.bbc.co.uk/webwise)**
-
-## 8.Pixels and GIF files
+## 7\. Pixels and GIF files
 
 The TDA uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our advertising management partners, Advertising.com, Accelerator Media and DoubleClick. The files enable our partners to recognise a unique cookie on your browser, which lets us know which advertisements bring users to our website. The cookie is placed by us, or by another advertiser who works with one of our partners.
 
 With both cookies and Spotlight technology, the information we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address. For more information about our partners, Advertising.com, Accelerator Media and DoubleClick, including information about how to opt out of these technologies, go to:
 
-<http://uk.advertising.com/privacy/index.php>
+[http://uk.advertising.com](http://uk.advertising.com/ "Go to the Advertising.com website")
 
 <http://www.doubleclick.net/us/corporate/privacy>
 
 <http://www.accelerator-media.com/privacy.html>
 
-## 9\. Links
+## 8\. Links
 
 This website may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy policy applies solely to information collected on this website. 
 
-## 10\. Further information
+## 9\. Further information
 
 If you would like any further information or have any comments on our Privacy Policy then please write to us or send us an e-mail at [data_protection_officer@tda.gov.uk](mailto:data_protection_officer@tda.gov.uk). We may amend this policy from time to time in which case the amended version will be published on our website and a copy may be obtained by writing to the address below.
 
