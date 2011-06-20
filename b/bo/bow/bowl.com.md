@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowl.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218153057id_/http%3A//www.bowl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowl.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620123516id_/http%3A//bowl.com/privacy) for the most accurate reproduction.*
 
 # Bowl.com | Privacy Policy
 
@@ -42,7 +42,7 @@ In the case of financial transactions via credit card, under no circumstances, u
 
 USBC also has systems in place to restrict internal access to your personal information. Access is limited to USBC employees who require this information to perform their duties and provide the appropriate services to you. 
 
-The USBC Personal Information Policy governs the information we have about you and how we use it in the course of doing business. If you do not find your concern addressed by this policy, or if you have additional questions, please contact us via email at [webmaster@bowl.com](mailto:webmaster@bowl.com "webmaster@bowl.com"), or phone at (800) 514-BOWL.
+The USBC Personal Information Policy governs the information we have about you and how we use it in the course of doing business. If you do not find your concern addressed by this policy, or if you have additional questions, please contact us via email at [webcontent@bowl.com](mailto:webcontent@bowl.com "webcontent@bowl.com"), or phone at (800) 514-BOWL.
 
 
 
