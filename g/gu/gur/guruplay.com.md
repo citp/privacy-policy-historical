@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guruplay.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208193215id_/http%3A//www.guruplay.com/en/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guruplay.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621005109id_/http%3A//www.guruplay.com/en/security-and-privacy) for the most accurate reproduction.*
 
 # Guru Play | Security and Privacy
 
