@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220033324id_/http%3A//www.pikaba.com/Info.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620190205id_/http%3A//www.pikaba.com/Info.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
 
 # Pikaba Privacy Policy - Social Shopping, Marketplace, Online Merchant Network, Privacy Policy
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
+## What Information Do We Collect?
+
 When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+
+### 1\. Personal Information You Choose to Provide
 
 **Registration Information.**
 
@@ -13,6 +17,8 @@ You will provide us information about yourself, your firm or company, and your p
 **Email Information.**
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+
+### 2\. Web Site Use Information
 
 Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
 
@@ -35,6 +41,8 @@ We may enter into alliances, partnerships or other business arrangements with th
 **Notice of New Services and Changes.**
 
 Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special quotes we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these quotes by sending us an email request at [customerservice@pikaba.com](mailto:customerservice@pikaba.com).
+
+### 3\. How Do We Protect Your Information?
 
 **How Do We Secure Information Transmissions?**
 
