@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228012006id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620100131id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # FaucetDirect.com: Security & Privacy
 
@@ -48,4 +48,4 @@ Information about our customers is an important part of our business, and we are
 
 If you choose to visit Build.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Build.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
 
-**Copyright © 2000-2009 Build, Inc. All Rights Reserved.**
+**Copyright © 2000-2011 Build, Inc. All Rights Reserved.**
