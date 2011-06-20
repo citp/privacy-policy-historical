@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the responsiveed.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304162124id_/http%3A//responsiveed.com/%3Fpage_id%3D823) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsiveed.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620073427id_/http%3A//responsiveed.com/%3Fpage_id%3D823) for the most accurate reproduction.*
 
 # Responsive Education Solutions - Privacy Policy
 
-[Home](http://responsiveed.com/ "Responsive Education Solutions") > Privacy Policy 
+[Home](http://responsiveed.com/ "Responsive Education Solutions") > Privacy Policy
 
 ## Privacy Policy
 
