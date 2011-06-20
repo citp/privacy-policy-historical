@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grabcad.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220030024id_/http%3A//www.grabcad.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabcad.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620184116id_/http%3A//grabcad.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy - What and who is GrabCAD?
+# Privacy policy - GrabCAD
 
 **Your privacy is important to us.**
 
