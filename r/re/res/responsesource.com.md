@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the responsesource.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229075247id_/http%3A//www.dwpub.com/w3c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsesource.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620191814id_/http%3A//www.dwpub.com/w3c) for the most accurate reproduction.*
 
 # Privacy policy
 
 ## Introduction and General Terms of this Privacy Policy
 
-**Note: Daryl Willcox Publishing Ltd provides the following services: FeaturesExec ([featuresexec.com](http://www.featuresexec.com/)), Response Source ([responsesource.com](http://www.responsesource.com/)), SourceWire ([sourcewire.com](http://www.sourcewire.com/)) and Journalist Directory ([journalistdirectory.com](http://www.journalistdirectory.com/))**. All mentions of "Daryl Willcox Publishing" in this document apply to these services.
+**Note: Daryl Willcox Publishing Ltd provides the following services: FeaturesExec ([featuresexec.com](http://www.featuresexec.com/)), Response Source ([responsesource.com](http://www.responsesource.com/)), SourceWire ([sourcewire.com](http://www.sourcewire.com/)), Journalist Directory ([journalistdirectory.com](http://www.journalistdirectory.com/)) and SourceThatJob ([sourcethatjob.com](http://www.sourcethatjob.com/))**. All mentions of "Daryl Willcox Publishing" in this document apply to these services.
 
 Daryl Willcox Publishing is committed to protecting your personal information when you are using services from us. We want our services to be a safe and enjoyable environment for our users. This Privacy Policy relates to our use of any personal information you provide to us through our website.
 
