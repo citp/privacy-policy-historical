@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930003333id_/http%3A//www.bournemouth.ac.uk/privacy%3Fsrclnk%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620130949id_/http%3A//www.bournemouth.ac.uk/privacy%3F%26utm_source%3Dbase%26utm_medium%3Dhomepage%26utm_campaign%3Dreferrer) for the most accurate reproduction.*
 
-# Privacy policy - About the University - Bournemouth University
+# Privacy policy | About the University | Bournemouth University
 
-This privacy policy sets out how Bournemouth University uses and protects any information that you give Bournemouth University when you use this website.
+This privacy policy sets out how Bournemouth University uses and protects any information that you give Bournemouth University when you use this website. It also covers our use of cookies. 
 
 Bournemouth University is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -65,13 +65,20 @@ You should be aware that when you email BU the possibility exists, however minim
 
 ## How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission from your browser to be placed on your computer's hard drive. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Cookies we use: 
+
+  * We use Google Analytics cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+  * When you use our Course Search, there is a cookie which remembers which course you were looking at when you clicked 'Apply Online'. This then pre-selects that particular course on the application form to assist you. This cookie expires after three hours.
+
+
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer, other than the data you choose to share with us.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify your browser setting to decline cookies if you prefer. You should be aware however, that if you choose to decline cookies, certain functions or features on our website may not work correctly.
+
+To find out more about how to manage cookies through your chosen browser go to: [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/) (external website).
 
 ## Links to other websites
 
