@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the marsdd.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210000919id_/http%3A//www.marsdd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marsdd.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620185710id_/http%3A//www.marsdd.com/privacy) for the most accurate reproduction.*
 
-# MaRS Discovery District - Privacy policy
+# Privacy Policy – MaRS: Building Canada's next generation of growth companies
 
 **We Respect Your Privacy**  
-MaRS approaches our communications on the Internet with respect for, and commitment to protecting, your privacy rights. This privacy policy (the “Policy”) describes how we collect, protect, use and share information gathered about you on the Site. We hope that this disclosure will help increase your confidence in the Site and enhance your experience on the Internet. Please note that by visiting MaRS at the Site, you are accepting the practices described in this Policy.   
+MaRS approaches our communications on the Internet with respect for, and commitment to protecting, your privacy rights. This privacy policy (the “Policy”) describes how we collect, protect, use and share information gathered about you on the Site. We hope that this disclosure will help increase your confidence in the Site and enhance your experience on the Internet. Please note that by visiting MaRS at the Site, you are accepting the practices described in this Policy.
+
 MaRS will continue to review the Policy to ensure that it is relevant and remains current with changing laws, regulations and technologies, and reserves the right to change this Policy at any time. Our Policy will be kept up to date and clearly posted on the Site, and will be current as of the “Last modified date” set out above. However, while the Policy may change, MaRS will treat your personal information in a manner consistent with the Policy under which it was collected, unless MaRS has your consent to treat it differently.
 
 **What is Personal Information**  
@@ -36,7 +37,6 @@ In addition to information provided by our visitors we use the normal Internet t
 
 
 
-  
 We use aggregate information gathered from your visit to better design our website. This information supplies us with a broad picture of how people use our website in order to help the management of our systems and to better serve our audience.
 
 **How do we protect your personal information? Our commitment to data security**  
@@ -45,7 +45,7 @@ In order to prevent unauthorized access, maintain the accuracy of your personal 
 **What about practices of linked sites?**  
 This privacy statement applies only to the Site. Please be aware that MaRS is not responsible for the privacy practices of other websites to which it has links. We encourage you to read the privacy statements of each and every website that requests personal information from you.
 
-**How do we use  Cookies?**   
+**How do we use  Cookies?**  
 A cookie is a small text file sent from a Web server and placed on your computer’s hard drive. A cookie is generally used to enhance your browsing experience. You can choose to set your browser to detect and reject cookies, to accept cookies from all sites, or to prompt you whenever a site wants to send you a cookie. Check your browser’s “Help” files to learn how to do this. If you choose to refuse cookies, you may not be able to access some of the interactive features on our Web sites.
 
 Cookies used by MaRS, do not give us access to anything on your hard drive and cannot do anything to your computer. Cookies used by MaRS are encrypted for security purposes to make any information in the cookie unreadable to anyone outside of MaRS. MaRS uses two types of cookies: session cookies (temporary) or persistent cookies (longer–term continuing use).
@@ -55,12 +55,12 @@ Cookies used by MaRS, do not give us access to anything on your hard drive and c
 
 
 
-**Who do I contact with questions or concerns with this privacy?**   
+**Who do I contact with questions or concerns with this privacy?**  
 For all inquires as to your personal information, including requests to access or correct personal information, please send a written request to:
 
 MaRS Discovery District  
-MaRS Centre, South Tower, Suite 100   
-101 College Street, Toronto   
+MaRS Centre, South Tower, Suite 100  
+101 College Street, Toronto  
 Ontario, M5G 1L7
 
-Or send an e-mail to: [marsdiscoverydistrict@marsdd.com](mailto:marsdiscoverydistrict@marsdd.com)
+Or send an e-mail to: [marsdiscoverydistrict@marsdd.com](mailto:marsdiscoverydistrict@marsdd.com)
