@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220204050id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620190035id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Woodcraft's Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy is important to us. Woodcraft is a long time member of The DMA (Dir
 
 What information do we collect? How do we use it? 
 
-When you order, we need to know your name, e-mail address, mailing address, phone number, credit-card number and expiration date. This allows us to process and fulfill your orders, and notify you of your order status. Your phone number is necessary for FedEx Expedited shipping and International shipping. It will also be used to contact you if there is a question regarding your order. Phone numbers will not be used for sales calls. 
+When you order, we need to know your name, e-mail address, mailing address, phone number, credit-card number and expiration date. This allows us to process and fulfill your orders, and notify you of your order status. Your phone number is necessary for FedEx Expedited shipping and International shipping. It will also be used to contact you if there is a question regarding your order. Phone numbers will not be used for sales calls. Our secure traffic is encrypted using the TLS protocol with a 1024 bit Public Key Certificate. 
 
 We occasionally make our customer list (postal mailing list only) available to carefully screened companies whose products may interest you. If you do not wish to receive their mailings, we will be sure your name is removed from the list we share with other organizations. Please contact us at the address listed below and provide us with your exact name and address. 
 
@@ -19,7 +19,7 @@ Parkersburg, WV 26102, USA
 
 Or send us an email at [custserv@woodcraft.com](mailto:custserv@woodcraft.com)
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings from Woodcraft, please contact us at the address listed above. 
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings from Woodcraft, please contact us at the address listed above. 
 
 You may voluntarily sign up to receive our Woodcraft Email to learn more about special offers. For this service we need an e-mail address and zip code which we use to send the information you requested. E-mail addresses are not used for any other purpose and are not shared with outside parties. 
 
@@ -27,9 +27,15 @@ When you enter a contest or other promotional feature, we may ask for your name,
 
 We personalize your shopping experience by using your purchases to shape our recommendations about other merchandise that might be of interest to you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the store. 
 
+The information collected by our website may include: Any details you enter and submit, such as name, address, email address, etc. Your IP address, referrer, web pages you visit and other data normally stored in website logs. Session information stored in cookies that are used to ensure accurate data is extracted from our systems. These cookies do not include any personal data. Preference data, submitted directly or indirectly, such as your favorite brands, colors, or sizes. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date and security code.
+
+Any information we collect will be used in accordance with applicable laws for the following purposes: To comply with legal requirements. In certain cases, we may use your email address to send you information about products, services, or in support of a transaction – completed or otherwise. In such a case, you will be offered the option to opt in/out. We may use personal information for auditing, research and analysis to operate and improve our technologies and services.
+
 How do we protect customer information? 
 
 Personal information is collected when an account is set up for a purchase transaction using SSL encryption. Only that information which is needed to complete the transaction is required. Your account is password protected, and you can access it at anytime. 
+
+Woodcraft maintains a strict "no-spam" policy. Your e-mail address will never be sold to a third party. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems. We restrict access to personal information to Woodcraft employees, contractors and agents who need to know that information in order to operate, develop or improve our services. 
 
 What about "cookies"? 
 
