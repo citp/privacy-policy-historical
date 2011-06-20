@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610103556id_/http%3A//www.hoodamath.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620083158id_/http%3A//hoodamath.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-HoodaMath.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: HoodaMath.com  
+Hooda Math® has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Hooda Math®  
 
 
 #### Information Automatically Logged
@@ -12,29 +12,25 @@ We use your IP address to help diagnose problems with our server and to administ
 
 #### Advertisers
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here  
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
-This website may utilize certain services provided by DoubleClick, Inc. (DoubleClick). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to: <http://www.doubleclick.com/us/about_doubleclick/privacy/>
+This website may utilize certain services provided by DoubleClick, Inc. (DoubleClick). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to: <http://www.google.com/intl/en/privacy/>
 
 #### Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 You can view the privacy policies for each ad company by following the links below:
 
-BURST! Media: <http://www.burstmedia.com/release/privacy_content.htm>
+BURST! Media: <http://www.burstmedia.com/privacy.asp>
 
-Advertising.com: <http://www.advertising.com/Privacy.html>
-
-Google Adsense: <http://www.google.com/privacy.html>
-
-Adify: [http://www.adify.com/privacy-policy ](http://www.adify.com/privacy-policy)  
-
+Google Adsense: <http://www.google.com/intl/en/privacy/ads/privacy-policy.html>
 
 #### External Links  
 
 
-This site contains links to other sites. HoodaMath.com is not responsible for the privacy practices or the content of such Web sites.  
+This site contains links to other sites. Hooda Math® is not responsible for the privacy practices or the content of such Web sites.  
 
 
 #### Security
@@ -66,22 +62,6 @@ We will provide notice to children in age appropriate terms of what personally i
 
 We will encourage children to get their parent's permission before sharing personal information online. 
 
-#### Choice/Opt-Out
-
-This site gives users the opportunity to subscribe to our mailing list. The mailing list is used to tell users about new additions to our site and to inform users of products they may find interesting. The mailing list is opt-in only. Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us.
-
-You can send email to [admin@hoodamath.com](mailto:admin@hoodamath.com) with "unsubscribe HoodaMath.com" in the body of the message.  
-
-
-#### Data Quality/Access
-
-This site gives users the following options for changing and modifying information previously provided:
-
-You can send email to [admin@hoodamath.com](mailto:admin@hoodamath.com)  
-
-
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-[admin@hoodamath.com](mailto:admin@hoodamath.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can click here: [Contact Us](https://web.archive.org/contact/)
