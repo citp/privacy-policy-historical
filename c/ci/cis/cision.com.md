@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cision.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229010620id_/http%3A//us.cision.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cision.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620061026id_/http%3A//us.cision.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Cision
 
@@ -14,7 +14,7 @@ Email: [info.us@cision.com](mailto:info.us@cision.com)
 
 ## Cookies
 
-Cookies are small files that contain information a Web site uses for tracking purposes. This web site uses cookies to facilitate the visitor experience and/or to enhance site content by compiling aggregate information about which specific sections and pagers visitors use. 
+Cookies are small files that contain information a web site uses for tracking purposes. This web site uses cookies to facilitate the visitor experience and/or to enhance site content by compiling aggregate information about the specific sections and pages visitors use. Cision and other third party vendors, including Google, may use these cookies to serve advertisements based on a user’s prior visits to our website. Users may opt out of a third party’s use of cookies by visiting the Network Advertising Initiative Opt-out page at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp), or Google’s use by visiting the Google Advertising Opt-out page at [www.google.com/privacy/ads](http://www.google.com/privacy/ads). 
 
 ## Information collection
 
