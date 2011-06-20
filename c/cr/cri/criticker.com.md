@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219214224id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620093820id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
 
-# Criticker - Movie Recommendations and Community
+# Criticker - Privacy Policy
 
 On registration, Criticker asks for your email address, name, age and gender. Your email address is the only field which is required information, because it is necessary in case your password is lost. 
 
