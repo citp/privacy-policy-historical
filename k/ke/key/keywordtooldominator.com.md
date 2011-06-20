@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the keywordtooldominator.com privacy policy that was archived on 2010-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100909073625id_/http%3A//www.keywordtooldominator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordtooldominator.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620131702id_/http%3A//www.keywordtooldominator.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Keyword Tool Dominator
 
-Our Commitment to Privacy
+1\. Our Commitment to Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-The Information We Collect:
+2\. The Information We Collect
 
 We collect visitor tracking statistics using Google Analytics. If you buy the Keyword Tool Dominator, we only store the information related to the purchase transaction made through Paypal.
 
-Our Commitment to Data Security
+3\. Our Commitment to Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-Our Commitment to Children's Privacy:
+4\. Our Commitment to Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
