@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220081020id_/http%3A//www.winsornewton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsornewton.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620145923id_/http%3A//www.winsornewton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
