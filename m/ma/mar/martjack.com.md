@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the martjack.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229091841id_/http%3A//martjack.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martjack.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620020633id_/http%3A//martjack.com/privacypolicy.html) for the most accurate reproduction.*
 
-# About us
+# MartJack Privacy Policy - MartJack.com Multi Channel Retailing Solution Provider
 
 MartJack uses your information on an aggregated basis to do such things as operate our web sites and enhance our web sites. We statistically analyze site usage, including the behavior of our Members, to improve the content, layout, and services of the MartJack web sites, as well as to enhance our marketing and promotional efforts.
 
