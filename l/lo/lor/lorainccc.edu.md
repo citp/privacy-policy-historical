@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorainccc.edu privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227235818id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorainccc.edu privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620193405id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
@@ -16,7 +16,7 @@ Information and services offered on lorainccc.edu are provided by Lorain County 
 **Family Educational Rights and Privacy Act  
 ** The Family Educational Rights and Privacy Act (FERPA) of 1974, as amended, provides students access to information about themselves, permits students to challenge such information about themselves, and limits the release of such information about students without the student’s explicit written consent.
 
-LCCC is committed to this Act in its entirety. [Procedural guidelines are available by clicking here](https://web.archive.org/Current+Students/Campus+Policies/FERPA.htm "FERPA"), in appropriate College publications, and copies of procedures may be obtained from the Records Office.
+LCCC is committed to this Act in its entirety. Procedural guidelines are available by clicking here, in appropriate College publications, and copies of procedures may be obtained from the Records Office.
 
 **Access to student records  
 ** A student’s record, with certain exceptions including directory information (see below), will not be released without prior written consent of the student. A student has the right to review and question the content of her/his educational record within a reasonable time (45 days) after making a written request for such a review. If there are any questions as to the accuracy or appropriateness of the record that cannot be resolved informally, an opportunity for a hearing on the matter will be provided.
