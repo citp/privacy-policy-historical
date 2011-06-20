@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videoaround.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219235148id_/http%3A//www.videoaround.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoaround.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621004412id_/http%3A//www.videoaround.com/privacy) for the most accurate reproduction.*
 
-# Aviation Videos Around HD
+# Aviation Videos Around
 
 Videoaround recognizes that its customers, visitors, users, and others who use the site value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on thewebsite.
 
