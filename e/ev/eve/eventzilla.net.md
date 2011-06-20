@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227105553id_/http%3A//www.eventzilla.net/pub_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620191449id_/http%3A//www.eventzilla.net/pub_privacy_policy.html) for the most accurate reproduction.*
 
 # Need help? Visit Eventzilla Support section for help
 
