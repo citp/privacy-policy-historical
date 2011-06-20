@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsturncentral.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222153235id_/http%3A//www.kidsturncentral.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsturncentral.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620131659id_/http%3A//www.kidsturncentral.com/privacy.htm) for the most accurate reproduction.*
 
 # Kids' Turn Central - Privacy Policy
 
@@ -11,7 +11,7 @@ As with most sites, certain non-personally identifiable information is recorded 
 
 **Off Site Links** : The content of kidsturncentral.com is designed for family use. In addition to our own content, we may also provide links to web sites children may be interested in. We do screen the other sites initially, but in the end, we cannot be responsible for what appears on other sites. We are also not responsible for the privacy policies of those other sites. 
 
-**Advertising** : Some banners in our navigation are served from [Gorilla Media](http://gorillanation.com/privacy/). All advertising meets standards for children's advertising policies. Default ads are served through [Parent's Connect](http://www.parentsconnect.com/help/privacy_policy.jhtml) and [Burst Media](http://burstmedia.com/isl/privacy.asp). 
+**Advertising** : Some banners in our navigation are served from [Gorilla Media](http://gorillanation.com/privacy/). All advertising meets standards for children's advertising policies. Default ads are served through [Burst Media](http://burstmedia.com/isl/privacy.asp). Our contextural advertising is served through [Kontera](http://www.kontera.com/em-privacy-policy) and [Google](http://www.google.com/intl/en/privacy/)
 
 Other ads on the site are hosted through affiliate programs and meet or exceed children's online advertising policies. 
 
@@ -19,16 +19,14 @@ We use **third-party advertising** companies to serve ads when you visit our Web
 
 We also use **third-party advertising** companies to serve ads through Burst Media, when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).**** 
 
+We also use **third-party advertising** companies to serve ads through Kontera: These third-party companies serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out). ***** 
+
 **Sweepstakes/Giveaways** : Occasionally we offer sweepstakes, giveaways or contests at Kids' Turn Central. The only information required to enter most sweepstakes, giveaways/contests on the site are: First name ONLY, age, state or province, verifiable email address. If you are under 13 you will be asked to provide a valid email address for parents. The ONLY time we contact you is if you win a sweepstakes or contests. Parents will be contacted first to acknowledge, get permission and to provide a shipping address for the prize. No email addresses are ever stored or sold. Each sweepstakes, giveaway/contest will have it's own rules/regulations page that will offer further information on the details of the promotion. 
 
 **Kids/Parents:**  
 When using kidsturncentral.com you may be asked to provide your e-mail address and age to participate in some areas of the site. If you are under the age of 13, we will also ask you for your parent or guardian's e-mail address, so we can let them know you may be participating in the site. No email addresses are stored, or sold. We will not use this information to contact you, only to allow you to participate on the site. 
 
-You may also be asked to create a screen name and password in order to participate in certain areas of the site. If you are asked to create a screen name, please do not use your real name. kidsturncentral.com forums are run through Delphi.com. You may only register at Delphi if you are 13 years of age, or older. Read their [Privacy Policy](http://www.delphiforums.com/privacy.html). ***** 
-
-We are no longer hosting a chat service at Kids' Turn Central. *** 
-
-We are no longer using Delphi forums however some links may still be active. ***** 
+We are no longer hosting a chat service at Kids' Turn Central. 
 
 Kids' Turn Central links to it's Facebook page at http://www.facebook.com/kidsturn. Facebook privacy policy is located at <http://www.facebook.com/kidsturn#!/privacy/explanation.php>
 
@@ -43,4 +41,5 @@ Founder/Owner kidsturncentral.com
 ** Policy Update: March 10, 2009   
 *** Policy Update: May 31, 2009  
 **** Policy Update: June 22, 2009  
-*****Policy Update: October 01, 2010 
+***** Policy Update: October 01, 2010  
+****** Policy Update: May 18, 2011 
