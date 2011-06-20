@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyfunk.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226141611id_/http%3A//www.moneyfunk.net/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyfunk.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620051435id_/http%3A//www.moneyfunk.net/contact/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Money Funk
+# Privacy Policy - Money Funk
 
 Privacy Policy for www.moneyfunk.net
 
