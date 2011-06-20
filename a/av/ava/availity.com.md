@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the availity.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218182217id_/http%3A//availity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the availity.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620145744id_/http%3A//www.availity.com/privacy-policy) for the most accurate reproduction.*
 
 # Availity Privacy Policy | Availity
 
