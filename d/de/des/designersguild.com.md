@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the designersguild.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225050446id_/http%3A//www.designersguild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersguild.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620185226id_/http%3A//www.designersguild.com/privacy-policy) for the most accurate reproduction.*
 
 # Designers Guild - Fabrics & Wallpaper Collections, Furniture, Bed and Bath, Paint, and Luxury Home Accessories
 
-* You are here: 
-* >
+  * You are here: 
+  * > privacy policy
+
+
 
 Designers Guild values its customers and respects their privacy. Any information we collect about you is held with the utmost care and security. Your visit to our website and your use of any of the services or features we provide is subject to our terms and conditions of which this privacy policy is part.
 
@@ -21,4 +23,4 @@ We use the latest strong encryption technology to ensure that all transactional 
 
 5\. Data protection - Designers Guild complies with and is registered under the Data Protection Act. You may see the personal data that we hold on you by sending a £10 fee and a written request to: The Company Secretary, Designers Guild Limited, 3 Latimer Place, London W10 6QT. Designers Guild is committed to protecting the information we collect from you, which we use to enhance your experience of using our site and to provide you with the merchandise and services you request from us. The above section of our terms & conditions comprises our privacy policy and enables you to understand how we retain and use your personal information. You can at any time change and update the information you have provided by logging into my account.
 
-© Designers Guild ltd. 2010
+© Designers Guild ltd. 2011
