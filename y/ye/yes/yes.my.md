@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yes.my privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107190202id_/http%3A//www.yes.my/en/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yes.my privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620150826id_/http%3A//www.yes.my/v2/footer/privacy-policy.do) for the most accurate reproduction.*
 
 # Yes | Privacy Policy
 
@@ -39,7 +39,7 @@ You may also be provided with preference questions or preference boxes allowing 
 
 Who will have access to personal information about me?
 
-Personal information can be accessed by a restricted number of YTL Communications employees, by certain companies with which YTL Communications may conduct joint programmes, and by third parties with whom YTL Communications contracts to carry out business activities for YTL Communications. We train our employees about the importance of privacy and how to handle and manage customer data appropriately and securely. Also, it is YTL Communicationsâ€™ practice to seek your consent where required by applicable law if you are registering for a programme which is conducted in conjunction with another company that may require access to your personal information.
+Personal information can be accessed by a restricted number of YTL Communications employees, by certain companies with which YTL Communications may conduct joint programmes, and by third parties with whom YTL Communications contracts to carry out business activities for YTL Communications. We train our employees about the importance of privacy and how to handle and manage customer data appropriately and securely. Also, it is YTL CommunicationsÃ¢â¬â¢ practice to seek your consent where required by applicable law if you are registering for a programme which is conducted in conjunction with another company that may require access to your personal information.
 
 Does YTL Communications share personal information with third parties?
 
@@ -47,7 +47,7 @@ Except as otherwise stated in this Section, YTL Communications will not transfer
 
 How does YTL Communications secure personal information?
 
-It is YTL Communicationsâ€™ practice to secure each YTL Communications Web Site that collects personal information; however, the confidentiality of personal information transmitted over the Internet cannot be guaranteed. We urge you to exercise caution when transmitting personal information over the Internet. YTL Communications cannot guarantee that unauthorised third parties will not gain access to your personal information; therefore, when submitting personal information to YTL Communications Web Sites, you must weigh both the benefits and the risks.
+It is YTL CommunicationsÃ¢â¬â¢ practice to secure each YTL Communications Web Site that collects personal information; however, the confidentiality of personal information transmitted over the Internet cannot be guaranteed. We urge you to exercise caution when transmitting personal information over the Internet. YTL Communications cannot guarantee that unauthorised third parties will not gain access to your personal information; therefore, when submitting personal information to YTL Communications Web Sites, you must weigh both the benefits and the risks.
 
 How may I correct personal information or delete it from current customer records?
 
