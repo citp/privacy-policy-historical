@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pattiswagons.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218052451id_/http%3A//pattiswagons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pattiswagons.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620130242id_/http%3A//pattiswagons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Find the best deals on amazon
 
