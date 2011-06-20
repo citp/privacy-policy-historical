@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mailvu.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214180838id_/http%3A//mailvu.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailvu.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620170639id_/http%3A//mailvu.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# mailVU - mail you can view
-
-## Privacy Policy
+# mailVU Privacy Policy
 
 **Updated as of: May 2010**
 
@@ -76,8 +74,8 @@ If you have questions regarding our Privacy Policy, its implementation, failure 
 
 A2Stream Inc.  
 [support@a2stream.com](mailto:support@a2stream.com "support@a2stream.com")  
-11056 Renaissance Dr.  
-Suite 329  
-Davidson, NC USA 28036
+9935-D Rae Rd.  
+Suite 113  
+Charlotte, NC USA 28277
 
 We will use commercially reasonable efforts to promptly respond and resolve any problem or question.
