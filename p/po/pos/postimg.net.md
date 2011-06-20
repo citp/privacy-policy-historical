@@ -1,23 +1,28 @@
-> *The following text is extracted and transformed from the postimg.net privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028000243id_/http%3A//postimg.net/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postimg.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620175956id_/http%3A//www.doteasy.com/Terms/index.cfm%3FT%3DPP%26bodyClass%3DpageCenter) for the most accurate reproduction.*
 
-# Post[img].net - Free Image Hosting -
+# Free Web Hosting and Domain Name Registration Services by Doteasy.com
 
-'This Site' is committed to protecting the privacy of the personal information of individuals / users and/or companies who use our services.. 
+| [](https://web.archive.org/)  
+---|---  
+  
+DOTEASY PRIVACY POLICY
 
-**How we use your personal information**
+Doteasy.com is owned and operated by Doteasy Technology Inc.  Doteasy is committed to safeguarding your privacy online.  This statement is therefore set out to outline how we make use of the information you submit to us during registration.  The terms contained on this page may be revised from time to time.  To protect your interests, visit this page periodically to review the current terms of our policy. 
 
-We only use the personal information obtained from you to respond to, and process your request for our services. We do not sell personal information to any other organisations or companies, including those related to us. We will not sell, trade or rent your personal information to others without first obtaining your consent, unless required to do so by law. 
+Personal information is requested when you register to be a member.  During registration, you are asked to provide your name, email address, birth date, gender, postal or zip code, occupation, industry and personal interests, etc.  The more information you submit and the more accurate it is, the better we are able to tailor our services to your needs. 
 
-We may monitor this website (including using 'cookies') in order to identify user trends, which will assist us in improving the site. If that occurs, the information will only be used in aggregate form and your individual details will not be identified or disclosed to any person. 
+Doteasy's purpose in collecting personal information is to identify the member as well as to send recent updates and important announcements via post and/or email.  Doteasy does research on our members' demographics and interests based on the information you submitted to us upon registration.  We do this to better understand and serve all our members.  This data is compiled, analyzed, and used only by Doteasy.  No part of the information you have provided would be sold, disclosed, or made accessible by third-parties or by the public. 
 
-**User Registration (personal profiles)**
+In our role of delivering targeted advertisements (via email newsletters), Doteasy is the middleman.  Advertisers give us an advertisement and tell us the type of audience they want to reach.  Doteasy chooses appropriate advertisements to include in the email to be sent to the target audience.  In this process, the advertiser never has access to individual account information or any personal member information. 
 
-During free registration process users are required to provide their name and valid e-mail address. All information you provide during registration process and / or update information in your profile is confidential unless you make your profiles public. All this information is considered as "personal information".
+Members hold complete freedom to express themselves on their web sites.  Although your intellectual freedom is respected, Doteasy still reserves the right to remove from our servers any obscene, threatening, or illegal content. 
 
-**'This Site' uses cookies**
+If you believe Doteasy.com is not abiding by its posted privacy policy, or if you have any comments, please direct them to the following address: 
 
-We use cookies to keep track of our registered members and/or visitors, and their activities. If you are unable to use the cookies, you will have to turn them ON in your browser setting in order to login and use members area. A "cookie" is a data file that is placed in your computer "temporary internet files". 
-
-**Unlawful Activities**
-
-'This Site' reserves the right to co-operate with local, provincial, national and international authorities in investigations of improper or unlawful activities and this may require the disclosure of personal information. We may also report to other organizations about improper or unlawful user activities on this website and this reporting may include disclosure of personal information relating to those individuals conducting such improper or unlawful activities. 
+> 
+>     Attn:  Doteasy.com
+>     Doteasy Technology Inc.
+>     Suite 210 - 3602 Gilmore Way,
+>     Burnaby, B.C., V5G 4W9
+>     Canada
+>     
