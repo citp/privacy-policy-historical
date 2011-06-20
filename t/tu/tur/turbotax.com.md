@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022153id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620084632id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
 
 # Intuit Consumer Group Privacy Policy
 
@@ -33,7 +33,7 @@ More details on the information we collect can be found [here](https://web.archi
 
   * We do not sell or rent your personal information to anyone for promotional or marketing purposes.
   * We do not share your personal information with anyone outside of Intuit for their promotional or marketing use without your consent.
-  * We use your personal or financial information to provide you with information and services you request, to give you a customized interactive experience as you use our products, and to tell you about other products and services.. 
+  * We use your personal or financial information to provide you with information and services you request, to give you a customized interactive experience as you use our products, and to tell you about other products and services.
   * We summarize information about you and we also combine that information with that of others in a way that does not identify you personally to understand how our products are used, to deliver products and services and to help us develop new products and services.
   * We may use service companies to help provide you products and services who are not allowed to use your information for their own purposes.
 
@@ -41,19 +41,22 @@ More details on the information we collect can be found [here](https://web.archi
 
 ## Your Choices:
 
-Instructions to change your account or contact information or tell us your contact preferences are available [here](https://web.archive.org/corp/privacy-your-choice.jsp).
+Instructions to change your account or contact information or tell us your contact preferences are available [here](https://privacy.intuit.com/cpi/do/signin).
 
 ## How to Contact Us:
 
 Contact us with your question at <https://privacy.intuit.com/cpi/do/comments>.
 
-Or write to us at:  
+  * Or write to us at:  
 **Privacy Team  
 Intuit Inc.   
 2800 East Commerce Center Place  
 Tucson, AZ 85706**
 
-**Effective Date: February 1, 2010:** Changes made to better organize the information about Quicken products; no change in information practices.
+**Effective Date: January 15, 2011:** Changes made to remove products and services no longer offered and to add information about Intuit Web Payment; no change in information practices.
+
+
+
 
 This Web site is privacy certified by TRUSTe Privacy Seal
 
