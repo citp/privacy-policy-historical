@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220154025id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621111037id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
 
 # LinkCentre.com Privacy Policy
 
@@ -94,10 +94,10 @@ Data Retention Statement
 Stated Business Practices Data retention - We keep information about you and your purchases for as long as you remain our customer. If you do not place an order from us for one year we will remove your information from our databases. Legal Requirement Data retention - We keep information about you for 4 years after you terminate employment in accordance with the employment practices established by CA EDD. Stated Purpose Data retention - We keep information about you until you have confirmed receipt of our product shipment plus the warranty period of 90 days.
 
 Third Party Advertising  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to�not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Storage of financial information  
-Interlink Advertising do not store credit or debit card financial details. Customers do have the option of automatic repeat billing whereby financial information can be optionally stored by the third party [Cannybill.com](http://www.cannybill.com/privacy.html). 
+Interlink Advertising do not store credit or debit card financial details. We use WorldPay and PayPal to process payments. 
 
 Contact Information  
 Using the following information, you can contact us if you have questions about our privacy policy.  
