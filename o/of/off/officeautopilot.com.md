@@ -1,48 +1,30 @@
-> *The following text is extracted and transformed from the officeautopilot.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102035129id_/http%3A//www.officeautopilot.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeautopilot.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621085110id_/http%3A//officeautopilot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OfficeAutopilot
+# Privacy Policy | OfficeAutoPilot
 
-"Thanks for all your help! I've got the "autopilot" bug now, and am constantly looking for ways to systemize everything. With any luck I'm going to automate my way out of a job soon..." [read more](http://www.officeautopilot.com/testimonials/zacadler/)
+## Privacy Policy
 
-_\- Zac Adler  
-  President  
-  [yourHA.com](http://www.yourha.com/) _
-
+MoonRay Privacy Policy  
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
 It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
-  * We transfer information about you if Moonray or OfficeAutopilot is acquired by or merged with another company. In this event, Moonray will notify you before information about you is transferred and becomes subject to a different privacy policy.
-
-
-
-## INFORMATION GATHERING AND USAGE
-
-  * When you register for OfficeAutopilot we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
-  * Moonray uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
-
-
-
-## COOKIES
-
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
-  * Cookies are required to use the OfficeAutopilot service.
-  * We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your OfficeAutopilot Project Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
-
-
-
-## DATA STORAGE
-
+We transfer information about you if Moonray or OfficeAutopilot is acquired by or merged with another company. In this event, Moonray will notify you before information about you is transferred and becomes subject to a different privacy policy.  
+INFORMATION GATHERING AND USAGE  
+When you register for OfficeAutopilot we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.  
+Moonray uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.  
+COOKIES  
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.  
+Cookies are required to use the OfficeAutopilot service.  
+We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your OfficeAutopilot Project Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.  
+DATA STORAGE  
 Moonray uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run OfficeAutopilot. Although Moonray owns the code, databases, and all rights to the OfficeAutopilot application, you retain all rights to your data.
 
-## DISCLOSURE
-
+DISCLOSURE  
 * Moonray may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 
-## CHANGES
-
+CHANGES  
 Moonray may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your OfficeAutopilot primary account holder account or by placing a prominent notice on our site.
 
-## QUESTIONS
-
+QUESTIONS  
 Any questions about this Privacy Policy should be addressed to support at MoonRay.com or by mail at: Moonray, 3905 State Street, Suite 7-338, Santa Barbara, CA 93105
