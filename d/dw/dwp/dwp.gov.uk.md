@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234815id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621214728id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DWP
 
@@ -55,19 +55,29 @@ top of page
 
 ## Cookies
 
-Cookies are small pieces of information sent to your computer or other device when you visit a website. We may use cookies to store information which we can access when you visit our site in future. We do this to:
+We want our services to be easy, useful and reliable. For services delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These small files are known as cookies. They cannot be used to identify you personally.
 
-  * improve your experience of some of our online services 
-  * improve our understanding of how people use our website 
-  * measure the effectiveness of online advertising. 
+These pieces of information are used to improve services by, for example:
+
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast.
 
 
 
-We will not use cookies to collect personal information about visitors to the DWP website.
+You can manage cookies yourself and learn more about them on Directgov.
 
 If you delete cookies or you set your browser not to accept cookies, you will not be able to use some of our services.
 
-There is more information about cookies at [AboutCookies.org](http://www.aboutcookies.org/default.aspx).
+  * [How we use cookies](https://web.archive.org/privacy-policy/cookies/)
+
+
+
+You can manage cookies yourself and learn more about them on Directgov.
+
+  * [Internet browser cookies – what they are and how to manage them](http://www.direct.gov.uk/managingcookies) (Directgov)
+
+
 
 top of page
 
