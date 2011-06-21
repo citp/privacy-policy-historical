@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501025115id_/http%3A//www.wolfgangsvault.com/memorabilia/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621084541id_/http%3A//www.wolfgangsvault.com/memorabilia/support/privacy-policy.html) for the most accurate reproduction.*
 
-# Wolfgang's Vault - Privacy Policy
-
-### Privacy Policy
+# Wolfgang's Vault Privacy Policy
 
 We are committed to protecting your personal security and privacy, and we appreciate your trust that we will do so. By collecting such information at our website we strongly believe that we can significantly improve our level of customer service and make your future visits to our website more worthwhile. 
 
@@ -24,10 +22,6 @@ You can be removed from our email list by following the directions on any email 
 
 We do not rent or sell any information about our customers to any other marketers. We do however provide limited customer information to other companies who we employ to perform some functions on our behalf. Examples include processing credit card payments, delivering packages, sending postal mail and e-mail, and analyzing data. These companies have access to personal information needed to perform their functions, but have agreed not to use it for other purposes.
 
-#### Concert Vault Forums
-
-Registered listeners have the opportunity to participate in the Concert Vault Forums, where they can review concerts and post other information and messages. These forums are made available to other registered listeners as part of the Service. The information you post to Concert Vault Forums, therefore, may be viewed by other visitors. Your forum entries will be identified to others by a "screen name" of your choosing. In addition, to the extent that you post other personal information on your personal page, this information may also be viewed by other registered listeners.
-
 #### Royalty Tracking
 
 In order to make sure that artists receive applicable royalties, the Concert Vault identifies and counts the songs you and all listeners have accessed. We use this data to report and pay royalties, and for internal analysis. We do not share your personal usage data with any third parties.
@@ -35,8 +29,6 @@ In order to make sure that artists receive applicable royalties, the Concert Vau
 #### How we use Cookies / Advertising
 
 When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a website stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you. Our cookies store randomly assigned user identification numbers and other various information that enables us to identify you as a valid registered listener, to ensure that no one else can sign on simultaneously with your account from another computer and to make the personalized features on our websites work. The cookies make your use of the site easier and make the site run more smoothly. We may also use cookies for displaying advertising to users of our websites. You will be unable to use our websites' personalized features, or shop at our websites, without your browser set to accept cookies. **[Click here for instructions on disabling your browser's cookies.](http://www.aboutcookies.org/Default.aspx?page=1)**
-
-In addition, some of Wolfgang's Vault advertising programs are implemented in partnership with Tribal Fusion; **[you can opt out of these programs via the Network Advertising Initiative's Opt-Out tool](http://www.networkadvertising.org/managing/opt_out.asp)**. Check the Opt-out for "Tribal Fusion" on this page and click Submit to do so. 
 
 #### Email Opt-out
 
