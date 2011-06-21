@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobclix.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215210549id_/http%3A//www.mobclix.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobclix.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621052617id_/http%3A//www.mobclix.com/privacypolicy) for the most accurate reproduction.*
 
-# Apple iPhone Appstore Application Analytics - Mobclix
+# Privacy Policy - Mobclix
 
 Mobclix, Inc. respects our consumer user's privacy. This Privacy Policy has been developed by Mobclix, Inc. to demonstrate its commitment to your privacy protection. Mobclix, Inc. maintains several websites. For an individual who is a user of one of or several of our websites or is otherwise a user of the variety of services provided by Mobclix, Inc. or its divisions and/or subsidiaries, this Privacy Policy is intended to describe the following for you:
 
@@ -124,6 +124,9 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 
 **Changes to this Privacy Policy**  
 This Privacy Policy may be updated from time to time to reflect changes in our practices and services. We reserve the right to modify it at any time, so please review it frequently. When changes are made to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will also prominently post notice of the changes on our websites and/or we may notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address or you have opted-out of such communication). We recommend that you check our websites from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. Your continued use of our websites or services after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise. 
+
+**Opt-Out**  
+If you'd like to opt-out of targeted advertising on the Mobclix Exchange, please do so [here](https://web.archive.org/optout/) or email us at [opt-out@mobclix.com](mailto:opt-out@mobclix.com). You can opt back in at any time by emailing [opt-in@mobclix.com ](mailto:opt-in@mobclix.com)
 
 **How to contact us**  
 If you have any questions about this Privacy Policy or want to update your personal information, please contact us by postal mail as follows:  
