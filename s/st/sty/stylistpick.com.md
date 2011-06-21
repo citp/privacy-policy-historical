@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stylistpick.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220093943id_/http%3A//www.stylistpick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylistpick.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621070819id_/http%3A//www.stylistpick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stylistpick
 
 ### Introduction
 
-This is the privacy policy for [http://www.Stylistpick.com/](http://www.stylistpick.com/home/ "Stylistpick"). The Site is operated by Stylefantasia Limited, trading as Stylistpick.com (we, us and our).
+This is the privacy policy for <http://www.stylistpick.com/>. The Site is operated by Stylefantasia Limited, trading as Stylistpick.com (we, us and our).
 
 We are committed to protecting your privacy on-line. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.
 
