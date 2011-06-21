@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tibco.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207235421id_/http%3A//www.tibco.com/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tibco.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621030350id_/http%3A//www.tibco.com/company/privacy.jsp) for the most accurate reproduction.*
 
 # TIBCO | Privacy Policy
 
