@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsworks.org privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119020146id_/http%3A//www.newsworks.org/index.php/about-us/item/6444) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsworks.org privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621035547id_/http%3A//www.newsworks.org/index.php/about-us/item/6444) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement — NewsWorks
 
 Privacy Policy   
 Thank you for visiting WHYY Online (which includes, but is not limited to, whyy.org and newsworks.org) and any features of these sites, including, but not limited to, Content Feeds, Podcasts, and social networking features (collectively, the “WHYY Websites” or the “Service”).  We know you don’t want the information you provide us shared indiscriminately.  Here we explain how the WHYY Websites collect information, what we do with it, and what controls you have.  We’re committed to ensuring the privacy of your personally identifiable information, and to protecting your ability to make financial transactions and transmit your personal data with full confidence.
