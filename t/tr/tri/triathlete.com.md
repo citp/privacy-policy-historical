@@ -1,94 +1,53 @@
-> *The following text is extracted and transformed from the triathlete.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408114254id_/http%3A//www.triathlete.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlete.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621053435id_/http%3A//competitor.com/privacy-policy) for the most accurate reproduction.*
 
-# Triathlete.com - Privacy Policy
+# Privacy Policy – Competitor.com
 
-[](http://www.triathlete.com/)
+Your privacy and security are important to Competitor Group, Inc. (“Competitor Group”). This privacy statement demonstrates our firm commitment to privacy. This privacy statement discloses the information we gather and how we use it. Any questions concerning this statement should be directed to [customerservice@competitorgroup.com](mailto:customerservice@competitorgroup.com).
 
-**What information do we collect?**
+### Capture and Use of Information
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.
+Our websites automatically recognize the consumer’s IP address, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and used by us to contact consumers for marketing purposes. We may also use your IP address to administer our web sites, and to help diagnose problems with our servers.
 
-Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+Our websites contain links to other web sites. Competitor Group is not responsible for the privacy practices or the content of such websites. This site  also uses Tynt (http://tynt.com) link-building service, which is cookie-free and captures no personal data.
 
-**What do we use your information for?**
+If you register for a Competitor Group event, you will be asked to register for a free ID and password and to provide information on event registration forms. Unique identifiers, such as IDs and passwords, are collected to verify your identity and for use as account numbers in our record system. Your contact information may also be used to contact you when necessary for customer service reasons. Financial information that is collected is used only to bill you for products and services that you specifically request. Your contact information may also be used to provide you with important race updates.
 
-Any of the information we collect from you may be used in one of the following ways:
+[Active.com](http://www.active.com/) is our partner in the registration process for Competitor Group events. [Active.com](http://www.active.com/) holds the same high standard in insuring the integrity of our users’ security and privacy. Please refer to The Active Network’s Privacy Statement for details.
 
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs)
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions
+<http://www.activenetwork.com/privacy-policy.htm>
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by writing to us at the address below. Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
+If you feel that this site is not following its stated information policy, you may contact us at the address below or phone number, The DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office.
 
+### Choice/Opt-Out
 
+Our registration forms provide the opportunity to opt-out of receiving communications from Competitor Group at the point where we request contact information about our new customers.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+If you do not want to receive e-mail from us in the future, please let us know by writing to us at the address below.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the address below. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-**Do we use cookies?**
+### Security
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Competitor Group has established and maintains reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information. We use a variety of industry-standard security measures to maintain the safety of your personal information. For example, credit card numbers are encrypted in a secure database, which is located behind a firewall. Personal information collected is stored in a secure operating environment that is not available to the public. All credit card and registration information supplied by users is transmitted via [Secure Socket Layer (SSL)](http://www.theactivenetwork.com/exec/tanweb/Secure.cfm?publicationID=289) technology.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+“Perfect security,” however, does not exist on the Internet. Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, Competitor Group will disclose personal information about an individual user if we believe in good faith that such disclosure is necessary to comply with an applicable law or valid legal process.
 
-**Do we disclose any information to outside parties?**
+### Contact Us
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Competitor Group, Inc.  
+9401 Waples Street, Suite 150  
+San Diego, CA 92121  
+(800)-311-1255  
+[customerservice@competitorgroup.com](mailto:customerservice@competitorgroup.com)
 
-**Third party links**
+### Protecting Yourself
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Third-Party Email Provider (Everyone.net)**
-
-We share some personal information with our third-party email provider (Everyone.net). The Everyone.net Privacy Policy is located at http://www.everyone.net/main/html/p_policy.html
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.triathlete.com/tos.php.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Triathlete.com  
-13744 Atrium Ave.  
-Rosemount, MN 55068  
-USA  
-giancarlo@triathlete.com
-
-  
-
+You can help to protect your information by safeguarding your Competitor Group password, and by learning more about Internet privacy from web sites such as TRUSTe ([www.truste.com](http://www.truste.com/)).
