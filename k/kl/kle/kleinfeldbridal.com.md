@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kleinfeldbridal.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220230753id_/http%3A//kleinfeldbridal.com/index.cfm%3Fpid%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleinfeldbridal.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621031006id_/http%3A//www.kleinfeldbridal.com/index.cfm%3Fpid%3D27) for the most accurate reproduction.*
 
 # Privacy Policy
 
