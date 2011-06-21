@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cpxcenter.com privacy policy that was archived on 2010-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100921213140id_/http%3A//www.yesadvertising.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpxcenter.com privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621065152id_/http%3A//www.yesadvertising.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -15,42 +15,68 @@
 <script src="http://www.yesadvertising.com/jquery/livesupport.js" type="text/javascript"></script>
 <script src="http://www.yesadvertising.com/jquery/login.js" type="text/javascript"></script>
 <script type="text/javascript">
+/*
    $(document).ready(function(){
    if($.browser.msie && $.browser.version=="6.0") {
       $('#advertiser').hover(function(){
 	
-	     $('#submenu').css('visibility', 'visible').css('left', '118px');
+	     $('.submenu').css('visibility', 'visible');
 	  }, function(){
 
-		 $('#submenu').css('visibility', 'hidden');
+		 $('.submenu').css('visibility', 'hidden');
 	  }
 	  );
    }
    })
-</script>
-<script type="text/javascript">
-   $(document).ready(function(){
-   if($.browser.msie && $.browser.version=="6.0") {
-      $('#submenu').hover(function(){
-	
-	     $('#test').css('visibility', 'visible');
-		
-	  }, function(){
+  */ 
 
-		 $('#test').css('visibility', 'hidden');
-	  }
-	  );
-   }
-   })
+  
 </script>
+
+
+<style>
+
+.menu li  { position:relative; border:none !important;	}
+.menu li .submenu { position:absolute; left:20px; }
+.menu li .submenu  ol { border:none;}
+.menu li .submenu  ol a { background-image:none; }
+.menu li .submenu  ol a:hover { height:30px !important; line-height:30px !important;   }
+</style>
 
  <!--[if lte IE 6]>
+ 
+ <script>
+    
+ $(document).ready(function(){
+   if($.browser.msie && $.browser.version=="6.0") {
+      $('.menu li').hover(function(){
+	
+	     $(this).addClass('current');
+		 
+		 $(".menu li.current .submenu").css('visibility', 'visible');
+		 
+		 
+	  }, function(){
+
+		 $('.submenu').css('visibility', 'hidden');
+         $(this).removeClass('current');
+	  }
+	  );
+   }
+   })
+   
+
+</script>
+
+ 
+ 
+ 
  <style type="text/css" > 
  .menu ul  ol a:hover { text-align: left; background:none !important;  background: #9b9b9b; display: block; margin: 0; padding: 2px 10px; line-height: 33px; height:30px;   color:#900; float:none;  font-size: 13px; padding-bottom: 3px}
 
 </style>
  <![endif]-->
-
+ 
 
 
 
@@ -113,21 +139,29 @@
 		 
 		    <a class="logo" href="http://www.yesadvertising.com"><img src="imgs/logo.gif" alt="yesadvertising"></a>
 <form class="search" action="/index.php" name="search" method="get">
-<input id="p_search_text" class="search_box" type="text" style="vertical-align: bottom ! important;" value="Search" name="s" onblur="if(this.value=='') this.value='Search';" onfocus="if(this.value=='Search') this.value='';">
+    <input id="p_search_text" class="search_box" type="text" style="vertical-align: bottom ! important;" value="Search" name="s" onblur="if(this.value=='') this.value='Search';" onfocus="if(this.value=='Search') this.value='';">
 <input class="inputbtn" type="submit" value="">
 </form>
   <ul class="menu">
 <li><a href="http://www.yesadvertising.com"><span>home</span></a></li>
 <li id="advertiser"><a href="advertisers"><span>advertisers</span></a>
-                                       <ul id="submenu" style="width: 170px;">
+                                       <ul class="submenu" style="width: 170px;">
                                            <ol><a href="advertisers">Advertiser Solution</a></ol>
 						 <ol><a href="advertiser-agreement">Advertiser Agreement</a></ol>
                                                 <ol class="bot"></ol>
-                                                 <div id="test">
-												   <a href="#"><span>advertisers</span></a>							</div>
+                                              
 				  </ul>
 </li>
-<li><a href="affiliates"><span>affiliates</span></a>
+<li id="affiliates"><a href="affiliates"><span>affiliates</span></a>
+					      <ul class="submenu" style="width: 170px;">
+                                           <ol><a href="affiliates">affiliates Program</a></ol>
+										 <ol><a href="affiliate-terms">Affiliate Terms </a></ol>
+                                                <ol class="bot"></ol>
+                                
+				 		 </ul>
+
+
+
 </li>
 <li><a href="about-us"><span>about us</span></a></li>
 <li><a href="contact-us"><span>contact us</span></a></li>   
@@ -198,9 +232,9 @@
           <div class="login_area">
                                         <div class="block">
                  <h3 class="cap_01"><span>Advertiser login</span></h3>
-<form method="post" action="http://advertiser.yesadvertising.com/checklogin.php" onsubmit="return submit_form1(this)">
+<form method="post" action="http://www.cpxcenter.com/advertiser" onsubmit="return submit_form1(this)">
                  <ul> 
-                   <li><label>login id:</label><input id="username" class="inputbox" type="text" name="username"></li>
+                   <li><label>login id:</label><input id="login" class="inputbox" type="text" name="login"></li>
                    <li><label>password:</label><input id="password" class="inputbox " type="password" name="password"></li>
                   <li>
                      
@@ -272,8 +306,8 @@ function submit_form2(value) {
 </div>	
 
 <div id="footer" class="grid_12">
-<p class="footer_links"><a href="corporate-vision">Corporate Vision</a> | <a href="career-opportunities">Career Opportunities</a> | <a href="terms-of-use">Terms of Use</a> | <a href="privacy-policy">Privacy Policy</a> | <a href="http://reseller.yesup.net/">Reseller</a> | <a href="contact-us">Contact Us</a></p>
-<p class="copyright">Copyright © 2010 YesAdvertising.com Inc. All rights reserved.</p>
+<p class="footer_links"><a href="corporate-vision">Corporate Vision</a> | <a href="career-opportunities">Career Opportunities</a> | <a href="privacy-policy">Privacy Policy</a> | <a href="http://reseller.yesup.net/">Reseller</a> | <a href="contact-us">Contact Us</a></p>
+<p class="copyright">Copyright © 2011 YesAdvertising.com Inc. All rights reserved.</p>
 </div>
 		 
    </div>
@@ -285,7 +319,7 @@ var yuSite = 9;var yuType = 'view';var yuEscape = window.encodeURIComponent || e
 var yuUrl = yuEscape(document.location.href);
 document.write(unescape("%3Cscript src='" + yuBaseURL + "js/track.js' type='text/javascript'%3E%3C/script%3E"));
 document.write(unescape("%3Cscript src='" + yuBaseURL + "track.php?idsite="+yuSite+"&type="+yuType+"&url="+yuUrl+"&rand="+Math.random()+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://track.visitorpath.com/js/track.js" type="text/javascript"></script><script src="https://track.visitorpath.com/track.php?idsite=9&amp;type=view&amp;url=https://web.archive.org/web/20100921213140id_/http%3A//www.yesadvertising.com/privacy-policy&amp;rand=0.7642628161523588" type="text/javascript"></script>
+</script><script src="https://track.visitorpath.com/js/track.js" type="text/javascript"></script><script src="https://track.visitorpath.com/track.php?idsite=9&amp;type=view&amp;url=https://web.archive.org/web/20110621065152id_/http%3A//www.yesadvertising.com/privacy-policy&amp;rand=0.15274234182236035" type="text/javascript"></script>
 <!-- End View Tracking -->
 
 
