@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kokkada.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226213206id_/http%3A//www.kokkada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kokkada.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621032315id_/http%3A//www.kokkada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kokkada
 
@@ -16,7 +16,7 @@ Kokkada.com does use cookies to store information about visitors preferences, re
 
   * Google, as a third party vendor, uses cookies to serve ads on kokkada.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to kokkada.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/privacy/ads/).
 
 
 
