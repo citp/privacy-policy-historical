@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the workingpreacher.org privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914094507id_/http%3A//www.luthersem.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingpreacher.org privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621073039id_/http%3A//www.luthersem.edu/privacy) for the most accurate reproduction.*
 
 # Luther Seminary - Privacy Policy
 
-This Web Privacy Policy covers the collection and use of information on Luther Seminary Web sites. Luther Seminary also has an internal Electronic Communications Policy which covers the use of technology and information by students, faculty and staff. This internal Electronic Communications Policy is available online at [ /computer_services/policy.asp](https://web.archive.org/computer_services/policy.aspx).
+This Web Privacy Policy covers the collection and use of information on Luther Seminary Web sites. Luther Seminary also has an internal Electronic Communications Policy which covers the use of technology and information by students, faculty and staff. This internal [Electronic Communications Policy is available online](https://web.archive.org/computer_services/policy.aspx)[](https://web.archive.org/computer_services/policy.aspx).
 
 Luther Seminary is fully committed to providing an engaging, informative and useful Web site for its visitors. We strive to serve you with helpful resources, invite you into our community and provide helpful interaction with our many programs and offerings.
 
-Visitors to any Luther Seminary Web page have the opportunity to contact us via e-mail using the feedback form found at [ /web_feedback.asp](https://web.archive.org/web_feedback.aspx).
+Visitors to any Luther Seminary Web page have the opportunity to contact us via e-mail using [this feedback form](https://web.archive.org/web_feedback.aspx).
 
 The policy of Luther Seminary regarding its officially controlled and operated Web sites is to respect and protect the privacy of its users. These users include faculty, staff, students, donors, alumni/ae and other visitors.
 
@@ -66,14 +66,23 @@ Luther Seminary reserves the right to make changes to this policy at any time. F
 
 ## Changing Your Communications Preferences
 
-If you would like to manage your online e-mail list subscriptions for periodic publications like E-lert or God Pause or would like to change your preferences for receiving e-mail announcements, please visit:  
-[ /email](https://web.archive.org/email)
+If you would like to manage your online e-mail list subscriptions for periodic publications like E-lert or God Pause or would like to change your preferences for receiving e-mail announcements, please visit:
 
-If you would like to update your email address, please visit:  
-[ /email/change.asp](https://web.archive.org/email/change.aspx)
+  * [ Email Preferences](https://web.archive.org/email)
 
-If you would like to update your street address and phone number, please visit:  
-[ /resources/change_address.asp](https://web.archive.org/resources/change_address.aspx)
+
+
+If you would like to update your email address, please visit:
+
+  * [Email Address Change](https://web.archive.org/email/change.aspx)
+
+
+
+If you would like to update your street address and phone number, please visit:
+
+  * [Change of Address Form](https://web.archive.org/resources/change_address.aspx)
+
+
 
 If you do not want to be contacted by us in the future, please let us know.
 
