@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exporttrader.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220081848id_/http%3A//www.exporttrader.com/section/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exporttrader.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621064435id_/http%3A//www.exporttrader.com/section/policy) for the most accurate reproduction.*
 
-# export car - EXPORTTRADER.COM
+# samochod z usa - EXPORTTRADER.COM
 
 **EXPORTTRADER.com** is committed to respecting and protecting your privacy. Please carefully read the following privacy policy, which explains how we collect, safeguard and disclose information that results from your use of our website. By using our website, you are agreeing to all the terms and conditions of our privacy policy.
 
@@ -8,7 +8,7 @@
 
 Personal information is information that identifies you on an individual basis and that you would reasonably expect to be kept private. Our policy is to only collect personal information that you knowingly and specifically provide to us. On our website, we will request that you provide personal information, such as a residential address, an email address and a phone number. We may use your personal information to improve the services we offer you.
 
-As a registered member of **EXPORTTRADER.com** , you may also be asked to provide us with your credit card information, including the cardholder’s name, credit card number and expiry date, or similar information when you fill out our registration form to create an account or profile with **EXPORTTRADER.com**.
+As a registered member of **EXPORTTRADER.com** , you may also be asked to provide us with your credit card information, including the cardholders name, credit card number and expiry date, or similar information when you fill out our registration form to create an account or profile with **EXPORTTRADER.com**.
 
 We may also collect anonymous information, such as your IP address, referral data and browser type and language, for system administration purposes and to improve the quality of our services.
 
@@ -21,9 +21,9 @@ We do not sell, rent, trade or otherwise disclose any personal or anonymous info
 
  **Cookies**
 
-Cookies are small files containing a unique identification number. The first time you visit a website, cookies are sent to your computer’s browser and then stored in your computer’s hard drive. Cookies enable our website to recognize you as a unique user and increase the efficiency of your exploration of our website. Through our cookies we are able to obtain anonymous information, such as your computer’s browser, Internet service provider, and your online trends and patterns. Most browsers are configured to automatically receive cookies from the websites you visit. You can change the settings on your browser to notify you when cookies are being sent or to refuse all cookies. However, some websites may not operate properly if your browser is set to refuse cookies.
+Cookies are small files containing a unique identification number. The first time you visit a website, cookies are sent to your computers browser and then stored in your computers hard drive. Cookies enable our website to recognize you as a unique user and increase the efficiency of your exploration of our website. Through our cookies we are able to obtain anonymous information, such as your computers browser, Internet service provider, and your online trends and patterns. Most browsers are configured to automatically receive cookies from the websites you visit. You can change the settings on your browser to notify you when cookies are being sent or to refuse all cookies. However, some websites may not operate properly if your browser is set to refuse cookies.
 
-We do not disclose any information obtained by our website’s cookies, unless we are required to do so by a court process. Furthermore, we will not combine any information obtained by our cookies with other information we may already have about you in order to identify you personally.
+We do not disclose any information obtained by our websites cookies, unless we are required to do so by a court process. Furthermore, we will not combine any information obtained by our cookies with other information we may already have about you in order to identify you personally.
 
 **Email Addresses**
 
