@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motiveinteractive.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124062834id_/http%3A//www.motiveinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motiveinteractive.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621052839id_/http%3A//www.motiveinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # Motive Interactive | Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ### Last Updated: 02/16/2007
 
-Thank you for your interest in Motive Interactive, Inc. (referred to herein as “Motive Interactive,” “we” or “us”) and our website located at http://www.motiveinteractive.com (the “Site”). We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use Personal Information (defined below) about visitors to the Site. By using this Site, you consent to the following terms.
+Thank you for your interest in Motive Interactive, Inc. (referred to herein as “Motive Interactive,” “we” or “us”) and our website located at http://new.motiveinteractive.com (the “Site”). We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use Personal Information (defined below) about visitors to the Site. By using this Site, you consent to the following terms.
 
 ### What We Collect
 
