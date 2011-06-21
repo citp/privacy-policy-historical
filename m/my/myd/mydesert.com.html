@@ -1,22 +1,21 @@
-<!--The following is the downloaded HTML source of the mydesert.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206080436id_/http%3A//www.mydesert.com/section/PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydesert.com privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621035524id_/http%3A//www.mydesert.com/section/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<!-- GO4F Version: 1011.1771 -->
-							<title>mydesert.com | Palm Springs Privacy Policy | The Desert Sun</title>
-<meta name="keywords" content="mydesert.com,Palm Springs,California,News,local news,headlines,stories,world news">
-<meta name="description" content="Palm Springs California News - mydesert.com is the home page of Palm Springs California with in depth and updated Palm Springs local news. Stay informed with both Palm Springs California news as well as headlines and stories from around the world.">
-<link rel="canonical" href="http://www.mydesert.com/section/PRIVACY/Privacy-Policy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:meebo="http://www.meebo.com" lang="en"><head>
+							<title>Privacy Policy | The Desert Sun | MyDesert.com </title>
+<meta name="keywords" content="MyDesert.com,Palm Springs,California,News,local news,headlines,stories,world news">
+<meta name="description" content="Palm Springs California News - MyDesert.com is the home page of Palm Springs California with in depth and updated Palm Springs local news. Stay informed with both Palm Springs California news as well as headlines and stories from around the world.">
+<meta name="category" content="Privacy Policy">
+<link rel="canonical" href="http://www.MyDesert.com/section/PRIVACY/Privacy-Policy">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="cache-control" content="no-cache">
-<link href="/includes/css/go4/go4-local.css" rel="stylesheet" type="text/css">
-<!-- temp to include more than just base local.css -->
-<link href="/gci/gc/p90/GO4Styles-min.css" rel="stylesheet" type="text/css">
-<script src="/GEL/lib/core/core.js"></script>
+<link href="/includes/css/ody/ody-local.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/odygci/p1/ody-styles-min.css">
+<script src="/odygel/lib/core/core.js"></script>
 <script type="text/javascript"> 
 /*Subsite Redirect*/
 var _bodyTimer= new GEL.util.benchmark.Timer("Body Load").start(); 
@@ -24,9 +23,10 @@ GEL.thepage.on("ready", function() { _bodyTimer.end() } );
 try{document.domain= GEL.config.domain= "mydesert.com"}catch(e){};
 /* GO4 Faster PageInfo */
 				GEL.config.sitelifeurl= "http://sitelife." + 
-	"mydesert.com/ver1.0/Direct/Process?sid=sitelife"+ 
-	".mydesert.com";
-GEL.thepage.pageinfo = { 
+	"MyDesert.com/ver1.0/Direct/Process?sid=sitelife"+ 
+	".MyDesert.com";
+GEL.thepage.pageinfo = {
+	sitecode: "J1", 
 	key:"PRIVACY",
 	title:"Privacy Policy",
 	type:"section",
@@ -35,9 +35,16 @@ GEL.thepage.pageinfo = {
 	categoryid:"PRIVACY",
 	pluckpage: 0,
 	url: { 
-		hostname: "www.mydesert.com",
-		domainname: "mydesert.com",
-		domainroot: "mydesert"
+		hostname: "www.MyDesert.com",
+		domainname: "MyDesert.com",
+		domainroot: "MyDesert"
+	},
+	pic: {
+		ptpid: ""		
+	},
+	date: { 
+		rollover:"01:15",
+		timeoffset: "-07"
 	},
 	ssts:{
 		adsiteid:"ca-palmsprings.thedesertsun.com",
@@ -56,21 +63,48 @@ GEL.thepage.pageinfo = {
 		comscoreenable: "on",
 		c1: "2", 
 		c2: "6035223"
+	},
+	navitemon: {
+		navon: "Privacy Policy"
 	}
 };
 GEL.thepage.pageinfo.siteinstance="";
 GEL.thepage.pageinfo.videooverlays="on";
+GEL.thepage.pageinfo.admail={
+	firsttime: false,
+	enable: "on",
+	show: false,
+	currentsubscriber: false
+};
+if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
+	GEL.thepage.pageinfo.admail.show= true;
+}
+(function(){
+	var _i = GEL.thepage.pageinfo;
+	GEL.register("social.pluck.api", { 
+		path: "http://sitelife"+_i.siteinstance+"."+_i.url.domainname+"/ver1.0/direct/javascriptsdkproxy", 
+		depends:[],
+		requires:[],
+		type: 'script'}
+	);
+	GEL.register("social.pluck", { 
+		path: "social/pluck/pluck.js", 
+		depends: ['social.pluck.api'], 
+		requires:[],
+		type: 'script'}
+	);
+})();
 /*GO4 Faster Semantics*/
 	GEL.thepage.pageinfo.semantics={
-	response:{"Url":"http://www.mydesert.com/section/PRIVACY/Privacy-Policy","ContentLength":0,"FetchDuration":5100,"ContentType":"","Id":0,"PathIds":0,"LanguageId":"","Channels":[],"UnconStatus":9},
+	response:{"Url":"http://www.mydesert.com/section/PRIVACY/Privacy-Policy","ContentLength":0,"FetchDuration":3015,"ContentType":"","Id":0,"PathIds":0,"LanguageId":"","Channels":[{}],"UnconStatus":6},
 	source:'CW',
 	enabled:true,
-	status:'',
-	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.mydesert.com/section/PRIVACY/Privacy-Policy',
+	status:'6',
+	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.MyDesert.com/section/PRIVACY/Privacy-Policy',
 	uniqueids:[],
 	uniqueidsdesc:[],
 	allids: [],
-	calltime:'5203',
+	calltime:'3062',
 	cached:true
 };
 /* Banner configuration and Initialization */
@@ -80,16 +114,14 @@ var
 	_a = [],
 	_SI= GEL.namespace("thepage.pageinfo.semantics"), 
 	_ids= typeof _SI.uniqueids == 'object' ? _SI.uniqueids : [],
-	_keywords
-; 
+	_keywords;
 for(var i=0, l= _ids.length,kw= _ids[i]; i < l ; kw= _ids[++i])
 	_a[_a.length]= "CW" + kw; 
 _c.KeyWords= _a.slice(); 
 _c.KeyValues= {cw: _ids.slice()}; 
 _c.AdPage='ca-palmsprings.thedesertsun.com/news/index.htm';
 _c.AdServer= "gannett.gcion.com"; 
-_c.AdNetworkId= 5111.1;
-_c.PlacementId=parseInt(896002, 10)
+_c.AdNetworkId=5111.1
 _c.gcion_section_front = "section"; 
 _c.gdn_section_front = "section"; 
 _c.PDurl = 'search.mydesert.com'; /*PDURL*/
@@ -141,8 +173,8 @@ var _c= GEL.config.userauth={
 		return _enable.toLowerCase() != 'no' ? true : false; 
 	})(), 
 	app_name: "mydesert",
-	host: "",
-	site_name: "mydesert.com",
+	host: "newspaper.app40.ur.gcion.com",
+	site_name: "MyDesert.com",
 	enable_ssl: window.location.protocol === 'https:' ? true : false, 
 	enable_reg_help: true, 
 	enable_search: true, 
@@ -158,19 +190,24 @@ var _c= GEL.config.userauth={
 	photos_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaPhotos", 
 	version: "3.4",
 	coppaage: 13, 
-	pp_url: "/pp", 
-	tos_url: "/tos", 
-	faq_url: "/faq", 
+	pp_url:  "/pp",
+	tos_url:  "/tos", 
+	faq_url:  "/faq", 
 	confirm_dest: "/apps/pbcs.dll/frontpage", 
-	feedback_url: "/feedback",
+	feedback_url:  "/feedback",
 	email_logo: "/graphics/mastlogo_email.gif", 
 	enable_saxotech: true,
 	saxotech_site_code: "J1", 
-	site_url:"www.mydesert.com",
-	default_avatar: "/graphics/avatar.gif"
+	site_url:"www.MyDesert.com",
+	default_avatar: "/odygci/p1/avatar.gif",
+	auto_refresh:false,
+	enable_premium: false 
 }, 
 _ur= GEL.config.userreg= {
 	zag_form_url: "/apps/pbcs.dll/section?Category=zagform", 
+	zagurl: "/section/zagmodal", 
+	zagwhyurl:"/section/zagwhy",
+	zagfaqurl:"/section/zagfaq",
 	days: 30,
 	page_views: 3, 
 	section_front: GEL.thepage.pageinfo.type,
@@ -200,17 +237,25 @@ for(var _g in _ur){
 PDSKIN= GEL.config.PDskin; 
 PDURL= GEL.config.PDurl; 
 GEL.thepage.initializer.addInitRoutine({ 
-	name: "userauth",
-	namespace: ["legacy.GDN", "util.Cookie"],
-	priority: 119, 
+	name: "userauthpreload",
+	namespace: ["legacy.GDNpreload","social.socialprovider"],
+	priority: 11, 
 	callback: function(){ 
-		GDN.Api.Register(function(){ 
-			GEL.env.user.onLogin(); 	
-		}, null, "Login"); 
-		GDN.Api.Register(function(){ 
-			GEL.env.user.onLogout(); 
-		}, null, "Logout");
 		GDN.UA.Page.Load();
+		var options ={}; 
+		GEL.util.uautil = new GEL.UserAuth(options);
+		GEL.util.uautil.init();
+		var spoptions={};
+		 spoptions.APIKey ='2_DjoKf-EK14PNLY1ife_Oxjwog5XM2NqdB87xnRAMZkyJYzfQ5R3iwhkam_RNNZ-Z'; 
+		GEL.util.sputil = new GEL.Socialprovider(spoptions);		
+		GEL.util.sputil.loadscript();
+	}
+});
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "userauthpostload",
+	namespace: ["legacy.GDNpostload"],
+	priority: 120,
+	callback: function(){ 
 		/* 
 		The wonders of UA never cease. 
 		    Initializing these widgets will fail 
@@ -224,25 +269,54 @@ GEL.thepage.initializer.addInitRoutine({
 		    This 1 second timeout should give 
 		    UA enough time to complete 
 		*/
-		GEL.thepage.on("ready", function(){ 
+		GDN.Api.Register(function(){ 
+			GEL.env.user.onLogin(); 	
+		}, null, "Login"); 
+		GDN.Api.Register(function(){ 
+			GEL.env.user.onLogout(); 
+		}, null, "Logout");
+		GDN.Autologin();
+	GEL.thepage.on("ready", function(){ 
 			_timer= setTimeout(init, 1000);
 		}); 
 		function init(){ 
 			var _noneedzag=  (function(){ 
 				var _u = GEL.env.user;
-				return (_u.state || _u.yob || _u.zip) ? true : false;
+				return (_u.state || _u.yob || _u.zip || GEL.env.cookies.gcionid.values.status =="16") ? true : false;
 				})();
 			if(!_noneedzag) {
-				GDN.UR.Page.Load(); 
+			GDN.UR.Page.Load();  
 			}
-			GDN.UA.Page.PluckLogin();
+			/*GDN.UA.Page.PluckLogin();
 			GDN.UA.Page.PluckReg();
 			GDN.UA.Page.PluckLogout();
 			GDN.UA.Page.SaxotechLogin(); 
-			GDN.UA.Page.Newsletters(); 
+			GDN.UA.Page.Newsletters();*/
 		}
 	}
 }); 
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "userauthlateload",
+	priority: 300, 
+	callback: function(){
+	if ( GEL.config.userauth.enable_premium == false &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_SIGNIN"  &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERREGISTER" &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="GETPUBLISHED01" &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERSIGNIN") {
+			GEL.util.uautil.MakeRemoteCallsilently("signup","socialprovider","signup.html");
+			GEL.util.uautil.MakeRemoteCallsilently("userauthlogin","socialprovider","login.html");
+		/*	Adding another div for Newsletter sample page */
+		if(GEL.util.uautil.isnlettersubscribe()){
+			var el = document.createElement("div");
+			el.setAttribute('id', 'NLSampleModalcontainer');
+			var temp_elem = document.getElementById("UAModalcontainerwrapper");
+			temp_elem.appendChild(el);
+			}
+		}
+	}
+});
 })(); 
 /****O4 Faster Omniture******/
 (function(){
@@ -250,12 +324,12 @@ GEL.thepage.initializer.addInitRoutine({
 		_PI= GEL.thepage.pageinfo
 	;
 	GEL.namespace('config.omniture', 'config.bus.properties', 'config.bus.providers');
-	GEL.config.bus.providers.sitecat= 100; 
-	GEL.config.bus.providers.bt= 200;
+	GEL.config.bus.providers.sitecat= 20; 
+	GEL.config.bus.providers.bt= 10;
 /* If this is a frontpage (section Front or home) we add the checkmate provider:*/
 (function(){ 
 	var _CFG= GEL.namespace("config.checkmate"); 
-	_CFG.domain= "" || (function(){ 
+	_CFG.domain= "mydesert" || (function(){ 
 		var _a= window.location.host.split("."); 
 		return _a[_a.length - 2];
 	})(); 
@@ -266,7 +340,7 @@ GEL.thepage.initializer.addInitRoutine({
 })(); 
 (function(){ 
 	var _CFG= GEL.namespace("config.comscore"); 
-	_CFG.domain= "" || (function(){ 
+	_CFG.domain= "mydesert" || (function(){ 
 		var _a= window.location.host.split("."); 
 		return _a[_a.length - 2];
 	})(); 
@@ -314,10 +388,10 @@ GEL.thepage.initializer.addInitRoutine({
 		custom7: "" || (function(){
 			var 
 				_cat = {
-					'NEWS01': 'news_front' ,
-					'LIFESTYLESFRONT': 'entertainment_front',
+					'': 'news_front' ,
+					'': 'entertainment_front',
 					'': 'classifieds_front',
-					'CUSTOMERSERVICE': 'customer_service_front',
+					'': 'customer_service_front',
 					'': 'community_front'
 				},
 				_pdefault = 'PRIVACY',
@@ -360,7 +434,20 @@ GEL.thepage.initializer.addInitRoutine({
 				return _top[_type];
 		})(),
 		contenttype : 'section',
-		division: '',
+		division: (function(){
+			var 
+				_p = GEL.env.url.qsv
+			;
+			if(_p.src)
+				return _p.src;
+		})(),
+		formname: (function(){
+			var 
+				_p = GEL.env.url.qsv
+			;
+			if(_p.src)
+				return _p.src;
+		})(),
 		location: document.location,
 		uri: (function(){
 			var 
@@ -428,8 +515,16 @@ GEL.thepage.initializer.addInitRoutine({
 </script> 
 <!-- concatenating the ssts value together into one variable -->
 <!-- clean up -->
-<script> 
-var responseFromINI = "ca-palmsprings.thedesertsun.com/news/index.htm";
+<!-- test display
+<br><br>
+ssts= ca-palmsprings.thedesertsun.com/news/index.htm<br><br>-->
+<script>
+	var responseFromINI = "";
+</script>
+	<script> 
+	responseFromINI = "ca-palmsprings.thedesertsun.com/news/index.htm";
+	</script>
+<script>
 var importFromINI = responseFromINI.split("|");
 var contentTopics = "";
 var contentType = "";
@@ -453,68 +548,360 @@ for(var i=0; i<importFromINI.length; i++)
 		break;
 	}
 }
-GEL.config.init.banners = true;
-GEL.config.heliosmulticall= false; 
 </script> 
+<!--
+category = category-PRIVACY<br>
+type = type-section<br>
+Combination= category-PRIVACY&type-section-->
+<script>
+	var categoryReturn = "category-PRIVACY",
+	typeReturn = "type-section",
+	comboReturn = "category-PRIVACY&type-section",
+	allReturn = "all",
+	responseFromLocalDataIni = "";
+	var responseFromLocalDataIniSplitAtTheBar = new Array();
+	if(categoryReturn.indexOf(":")>-1)
+	{
+		incorporateResponseStingIntoArray(categoryReturn);
+	}
+	if(typeReturn.indexOf(":")>-1)
+	{
+		incorporateResponseStingIntoArray(typeReturn);
+	}
+	if(comboReturn.indexOf(":")>-1)
+	{
+		incorporateResponseStingIntoArray(comboReturn);
+	}
+	if(allReturn.indexOf(":")>-1)
+	{
+		incorporateResponseStingIntoArray(allReturn);
+	}
+	for(var x=0; x<responseFromLocalDataIniSplitAtTheBar.length-1; x++)
+	{
+		instance = 0;
+		for(y in responseFromLocalDataIniSplitAtTheBar)
+		{
+			if(responseFromLocalDataIniSplitAtTheBar[x][0]==responseFromLocalDataIniSplitAtTheBar[y][0])
+			{
+				instance++;
+			}
+			if(instance>1)
+			{
+				responseFromLocalDataIniSplitAtTheBar[x][1] += "," + responseFromLocalDataIniSplitAtTheBar[y][1];
+				responseFromLocalDataIniSplitAtTheBar.splice(y,1);
+			}
+		}
+	}
+	for(var x=0; x<responseFromLocalDataIniSplitAtTheBar.length; x++)
+	{
+		temp = new Array();
+		tempArray = responseFromLocalDataIniSplitAtTheBar[x][1].split(",");
+		for(var i=0; i<tempArray.length; i++)
+		{
+			if(!contains(temp, tempArray[i])){
+				temp.length+=1;
+				temp[temp.length-1]=tempArray[i];
+			}
+		}
+		responseFromLocalDataIniSplitAtTheBar[x][1]=temp.join(",");
+	}
+	function contains(a,e)
+	{
+		for(var j=0;j<a.length;j++)if(a[j]==e)return true;
+		return false;
+	}
+	function incorporateResponseStingIntoArray(strInput)
+	{
+		var tempReturn;
+		if(strInput.indexOf("|")>-1)
+		{
+			tempReturn = strInput.split("|");
+		}
+		else
+		{
+			tempReturn = [strInput];
+		}
+		for(i in tempReturn)
+		{
+			match = 0;
+			for(var x=0; x<responseFromLocalDataIniSplitAtTheBar.length; x++)
+			{
+				if(responseFromLocalDataIniSplitAtTheBar[x][0] == tempReturn[i].split(":")[0] && match == 0)
+				{
+					responseFromLocalDataIniSplitAtTheBar[x][1] = responseFromLocalDataIniSplitAtTheBar[x][1]+","+tempReturn[i].split(":")[1];
+					match = 1;
+				}
+			}
+			if(match==0)
+			{
+				responseFromLocalDataIniSplitAtTheBar[responseFromLocalDataIniSplitAtTheBar.length]=tempReturn[i].split(":");
+			}
+		}
+	}
+</script>
 
-<script id="__gel_nsscript_util.Selector" src="https://web.archive.org/GEL/lib/selector/selector.js"></script>
-<script id="__gel_nsscript_widget.Menu" src="https://web.archive.org/GEL/lib/widgets/menu/menu.js"></script>
-<script id="__gel_nsscript_%2Fscripts%2FNavMenu_13.js" src="/scripts/NavMenu_13.js"></script>
-<script id="__gel_nsscript_remoting" src="https://web.archive.org/GEL/lib/remoting/remoting.js"></script>
-<script id="__gel_nsscript_util.Cookie" src="https://web.archive.org/GEL/lib/cookie/cookie.js"></script>
-<script id="__gel_nsscript_widget.AdBanner" src="https://web.archive.org/GEL/lib/widgets/banner/banner.js"></script>
-<script id="__gel_nsscript_analytics" src="https://web.archive.org/GEL/lib/analytics/analytics.js"></script>
-<script id="__gel_nsscript_legacy.GDN" src="https://web.archive.org/GEL/lib/legacy/GDN/GDN.js"></script>
+<script id="__gel_nsscript_widget" src="https://web.archive.org/odygel/lib/widgets/widget.js"></script>
+<script id="__gel_nsscript_util.Selector" src="https://web.archive.org/odygel/lib/selector/selector.js"></script>
+<script id="__gel_nsscript_util.Cookie" src="https://web.archive.org/odygel/lib/cookie/cookie.js"></script>
+<script id="__gel_nsscript_remoting" src="https://web.archive.org/odygel/lib/remoting/remoting.js"></script>
+<script id="__gel_nsscript_analytics" src="https://web.archive.org/odygel/lib/analytics/analytics.js"></script>
+<script id="__gel_nsscript_legacy.GDNpreload" src="https://web.archive.org/odygel/lib/legacy/GDN/GDNpreload.js"></script>
+<script id="__gel_nsscript_widget.TimeWidget" src="https://web.archive.org/odygel/lib/widgets/time/time.js"></script>
+<script id="__gel_nsscript_widget.GELTabs" src="https://web.archive.org/odygel/lib/widgets/tabs/geltabs.js"></script>
+<script id="__gelement_2" src="https://web.archive.org/web/20110630152705/http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
+<script id="__gel_nsscript_anim.YUIAnimator" src="https://web.archive.org/odygel/lib/anim/yuianimator.js"></script>
+<script id="__gel_nsscript_widget.NavigationWidget" src="https://web.archive.org/odygel/lib/widgets/navigation/navController.js"></script>
+<script id="__gel_nsscript_widget.modal" src="https://web.archive.org/odygel/lib/widgets/modal/modal.js"></script>
+<script id="__gel_nsscript_widget.validate" src="https://web.archive.org/odygel/lib/userauth/validateform.js"></script>
+<script id="__gel_nsscript_social.userauth" src="https://web.archive.org/odygel/lib/userauth/userauth.js"></script>
+<script id="__gel_nsscript_social.socialprovider" src="https://web.archive.org/odygel/lib/3rdparty/gigya/gigya.js"></script>
+<script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN/UAWidgets/LoggedOut.js"></script><script id="__gel_nsscript_widget.AdBanner" src="https://web.archive.org/odygel/lib/widgets/banner/banner.js"></script>
 </head>
-
-<body class="go4-skin">
-	<div class="go4-custom">
+<body class="ody-skin"><script type="text/javascript" src="https://web.archive.org/web/20110701080231/http://ads.revsci.net/adserver/ako?activate&amp;csid=J06575"></script><script type="text/javascript" src="https://pix04.revsci.net/J06575/a4/0/0/pcx.js?csid=J06575"></script>
+	
+	<div class="ody-custom">
+		<div id="modalouter" class="modal-outer-inactive"></div>
 		<div class="main-container">
-			<!--LEADERBOARD-->
-			<div class="leaderboard-container-top">
-				<div class="leaderboard-top">
-					<div class="ad_728x90">
-<banner position="728x90_1"></banner>
-</div>
-
-				</div>
-			</div>
-			
 			<!-- HEADER -->
-			<!--header-->
-<div class="header-container">	
-	<!-- partners -->
-	<div id="header-partners" class="header-partners">
-	<ul class="left">
-		<li>Other editions: </li>
-		<li><a href="/mobile/">Mobile</a> |</li>
-		<li><a href="/rss/">News Feeds</a> |</li>
-		<li><a href="/newsletter/">E-Newsletters</a> |</li>
-		<li><a href="/textme/">Text Alerts</a></li>
-	</ul>
-	<ul class="right">
-		<li>Find it: </li>
-		<li><a href="/jobs/">Jobs</a> |</li>
-		<li><a href="/cars/">Cars</a> |</li>
-		<li><a href="/homes/">Real Estate</a> |</li>
-		<li><a href="/apartments/">Apartments</a> |</li>
-		<li><a href="http://deals.mydesert.com">Deals</a> |</li>
-		<li><a href="/classifieds/">Classifieds</a></li>
-	</ul>
-	<div class="clear"></div>
+				<!-- @ody_adposnavbar:  -->
+<div class="header-container">
+	<div class="header-classified"> 
+		<div class="header-wrap">
+			<ul>
+				<li><strong>CLASSIFIEDS:</strong></li>
+<li><a href="http://www.MyDesert.com/jobs">JOBS</a></li>
+<li><a href="http://www.MyDesert.com/cars">CARS</a></li>
+<li><a href="http://www.MyDesert.com/realestate">HOMES</a></li>
+<li><a href="http://www.MyDesert.com/apartments">APARTMENTS</a></li>
+<li><a href="http://deals.mydesert.com/">DEALS</a></li>
+<li><a href="http://www.MyDesert.com/classifieds">CLASSIFIEDS</a></li>
+				<!-- @NAVADPROMO= off -->
+			</ul>
+		</div>
+	</div>
+	<div class="header-main">
+		<div class="header-wrap">
+			<div class="header-logo">
+				<a name="top" href="http://www.MyDesert.com/" title="MyDesert.com Home" alt="MyDesert.com Home"></a>
+			</div>		
+			<div id="Nav">
+				<ul class="nav-tabs" id="__gelement_3">
+					<li id="tab0" class="mega tab 0"><a href="/section/news" class="first">Local News</a></li><li id="tab1" class="mega tab 1"><a href="/section/yourtown">Communities</a></li><li id="tab2" class="mega tab 2"><a href="/section/sports">Sports</a></li><li id="tab3" class="mega tab 3"><a href="/section/business">Business</a></li><li id="tab4" class="mega tab 4"><a href="/section/lifestyles">Lifestyles</a></li><li id="tab5" class="mega tab 5"><a href="/section/galleriessectionfront">Photos</a></li><li id="tab6" class="mega tab 6"><a href="/section/opinion">Opinion</a></li><li id="tab7" class="mega tab 7"><a href="http://obituaries.mydesert.com/obituaries/thedesertsun/">Obituaries</a></li><li id="tab8" class="mega tab 8"><a class="special" href="/section/customerservice">Help</a></li>
+				</ul>
+				<div style="clear:both"></div>
+				<div class="content-wrap c" id="nav-wrap" style="padding-left: 294px;"><div id="subtab0" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab1-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news08">Crime and Courts</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news03">Politics</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news04">Education</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news07">Environment</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://mydesert.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Palm%20Springs&amp;State=CA">Weather</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news0805">Earthquakes</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/7daysarchives">Today's Newspaper</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=mydesert">Nation and World</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST HEADLINES</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110620/NEWS09/110620015/Heat-warning-Coachella-Valley-prompts-opening-local-cool-centers?odyssey=nav|head">Heat warning in Coachella Valley prompts opening of local cool centers</a>
+	</div>
+	<div class="summary">
+			A heat warning has been expanded to include all the desert areas of eastern Riverside County from...<span class="timestamp">- 5:27 pm</span>
+	</div>
 </div>
-	<div class="gel-clear"></div>
-	<div class="headermast">
-		<table cellspacing="0" width="100%">
-		<tbody><tr>
-			<td>
-				<div class="masthead">
-					<a href="http://www.mydesert.com"><img src="/graphics/mastlogo.gif" alt="mydesert.com"></a>
-				</div>
-			</td>
-			<td>
-				<div class="pd-search">
-					<div class="searchbox-shift">
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110620/NEWS01/110620002/Supreme-Court-sides-Wal-Mart-sex-bias-case?odyssey=nav|head">Supreme Court sides with Wal-Mart in sex bias case</a>
+	</div>
+	<div class="summary">
+		The Supreme Court on Monday blocked a massive sex discrimination lawsuit against Wal-Mart on behalf...<span class="timestamp">- 10:09 am</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110620/NEWS08/110620014/Indio-police-searching-home-robbery-suspects?odyssey=nav|head">Indio police searching for home robbery suspects</a>
+	</div>
+	<div class="summary">
+		Indio police are still searching for three suspects described as armed and dangerous — two of whom...<span class="timestamp">- 5:38 pm</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab1" class="subtab gel-hidden newslead"><div class="dropdown-container2 megaCommunities"><div id="navmenutab2-dd" class="normal"><div class="dropdown-container"><div class="column"><ul class="left"><li class="link 1 linkTitle"><a href="/section/yourtown01">Cathedral City</a></li><li>&nbsp;</li><li class="link 1 linkTitle"><a href="/section/yourtown02">Coachella</a></li><li>&nbsp;</li><li class="link 1 linkTitle"><a href="/section/yourtown03">Desert Hot Springs</a></li></ul></div><div class="column"><ul class="left"><li class="link 1 linkTitle"><a href="/section/yourtown04">Indian Wells</a></li><li>&nbsp;</li><li class="link 1 linkTitle"><a href="/section/yourtown05">Indio</a></li><li>&nbsp;</li><li class="link 1 linkTitle"><a href="/section/yourtown06">La Quinta</a></li></ul></div><div class="column"><ul class="left"><li class="link 1 linkTitle"><a href="/section/yourtown09">Palm Desert</a></li><li>&nbsp;</li><li class="link 1 linkTitle"><a href="/section/yourtown08">Palm Springs</a></li><li>&nbsp;</li><li class="link 1 linkTitle"><a href="/section/yourtown10">Rancho Mirage</a></li></ul></div></div></div></div></div><div id="subtab2" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab2-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 2"><span class="arrow">&nbsp;</span><a href="http://mydesert.highschoolsports.net/">High School Sports</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/sports05">Golf</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://teetimes.mydesert.com/">Tee Times</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/sports07">Tennis</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/sports01">Baseball</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/sports02">Basketball</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/sports03">Boxing</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/sports04">Football</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST HEADLINES</div>
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20110620/SPORTS01/110620009/Selig-rejects-Dodgers-TV-contract-nullifying-McCourt-divorce-deal?odyssey=nav|head"><img src="http://cmsimg.gdn.mydesert.com/apps/pbcsi.dll/bilde?Avis=J1&amp;Dato=20110620&amp;Kategori=SPORTS01&amp;Lopenr=110620009&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt=" "></a>
+	</div>
+	<div class="headline">
+		<a href="/article/20110620/SPORTS01/110620009/Selig-rejects-Dodgers-TV-contract-nullifying-McCourt-divorce-deal?odyssey=nav|head">Selig rejects Dodgers TV contract, nullifying McCourt divorce deal</a>
+	</div>
+	<div class="summary">
+			LOS ANGELES -- Major League Baseball Commissioner Bud Selig on Monday rejected a proposed...<span class="timestamp">- 2:17 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110620/SPORTS07/106200322/Keep-an-eye-Wimbledon?odyssey=nav|head">Keep an eye on Wimbledon</a>
+	</div>
+	<div class="summary">
+		Desert Sun sports assistant Britten Gerrard offers three  Wimbledon story lines to follow.<span class="timestamp">- 12:58 am</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110620/SPORTS05/106200321/McIlroy-laps-U-S-Open-field-his-way-victory?odyssey=nav|head">McIlroy laps U.S. Open field on his way to victory</a>
+	</div>
+	<div class="summary">
+		Rory McIlroy buried the memory of his Masters meltdown the same way he buried the competition at...<span class="timestamp">- 10:53 am</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab3" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab3-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 3"><span class="arrow">&nbsp;</span><a href="http://mydesert.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES&amp;pub=mydesert">Real Estate</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/business01">Tourism and Hospitality</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/business02">Small Business</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/news05">Growth and Development</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/business05">Jobs and Employment</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST HEADLINES</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110620/BUSINESS/106200311/Redlands-Rep-Lewis-spreads-campaign-dollars?odyssey=nav|head">Redlands Rep. Lewis spreads campaign dollars</a>
+	</div>
+	<div class="summary">
+			Few are more generous than U.S. Rep.<span class="timestamp">- 9:24 am</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110619/BUSINESS04/106190307/Food-court-hungry-buyer?odyssey=nav|head">Food court hungry for a buyer</a>
+	</div>
+	<div class="summary">
+		An agent's working to sell the upscale Terrace Eateries building, once home to eight restaurants,...<span class="timestamp">- 10:48 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110619/BUSINESS07/106190305/All-About-Business-Blue-Sky-Homes-second-prefab-residence-drawing-attention?odyssey=nav|head">All About Business: Blue Sky Homes' second prefab residence drawing attention</a>
+	</div>
+	<div class="summary">
+		It took a little bit longer than expected, but Blue Sky Homes' second steel prefab home is...<span class="timestamp">- 10:52 pm</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab4" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab4-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles01">Entertainment</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com">Metromix</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles02">Food &amp; Drink</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles03">Health</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles09">Society</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/apps/pbcs.dll/section?Category=CALENDAR&amp;site=GMTI&amp;tpl=EventSearch">Calendar</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com/movies">Movies</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com/music">Music</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/desertmagazine">Desert Magazine</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST HEADLINES</div>
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20110620/LIFESTYLES01/306200001/Miss-California-crowned-Miss-USA?odyssey=nav|head"><img src="http://cmsimg.gdn.mydesert.com/apps/pbcsi.dll/bilde?Avis=J1&amp;Dato=20110620&amp;Kategori=LIFESTYLES01&amp;Lopenr=306200001&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="Alyssa Campanella, Miss California, reacts after being crowned the 2011 Miss USA, Sunday, June 19, 2011, in Las Vegas. AP Photo/Julie Jacobson"></a>
+	</div>
+	<div class="headline">
+		<a href="/article/20110620/LIFESTYLES01/306200001/Miss-California-crowned-Miss-USA?odyssey=nav|head">Miss California crowned Miss USA</a>
+	</div>
+	<div class="summary">
+			Beating out 50 other contestants, an auburn-haired beauty from California who was a favorite among...<span class="timestamp">- 8:55 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110620/LIFESTYLES01/110620007/Miss-USA-predicted-fate-Show-last-November?odyssey=nav|head">Miss USA predicted fate at The Show last November</a>
+	</div>
+	<div class="summary">
+		Alyssa Campanella predicted her own fate at The Show inside Agua Caliente Casino Resort Spa in...<span class="timestamp">- 11:22 am</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110620/LIFESTYLES01/106200320/Scorsese-documentary-looks-George-Harrison?odyssey=nav|head">Scorsese documentary looks at George Harrison</a>
+	</div>
+	<div class="summary">
+		A documentary on the life of George Harrison directed by Martin Scorsese is nearly done and is...<span class="timestamp">- 12:39 am</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab5" class="subtab gel-hidden newslead"><div class="dropdown-container">
+	<div id="navmenutab5-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul>
+				<li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/videonetwork">Videos</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/photos">Staff Photos</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/pluckpublicphotogalleries">Reader Photos</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab6" class="subtab gel-hidden newslead"><div class="dropdown-container">
+	<div id="navmenutab6-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul>
+				<li class="link 6"><span class="arrow">&nbsp;</span><a href="/blogs">Blogs</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum">Forums</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/opinion01">Editorials</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/columns26">Valley Voice</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/getpublished">Get Published</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/opinion02">Letters to the Editor</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/feedback02">Submit a Letter</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab7" class="subtab gel-hidden newslead"><div class="dropdown-container">
+	<div id="navmenutab7-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul>
+				<li class="link 7"><span class="arrow">&nbsp;</span><a href="http://www.legacy.com/thedesertsun/Obituaries.asp?Page=FuneralHomeDirectory">Funeral Homes</a></li><li class="link 7"><span class="arrow">&nbsp;</span><a href="/section/lifestyles06">Churches</a></li><li class="link 7"><span class="arrow">&nbsp;</span><a href="http://www.legacy.com/thedesertsun/Obituaries.asp?page=GBGateway">Guest Book</a></li><li class="link 7"><span class="arrow">&nbsp;</span><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab8" class="subtab gel-hidden newslead"><div class="dropdown-container">
+	<div id="navmenutab8-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul>
+				<li class="link 8"><span class="arrow">&nbsp;</span><a href="/section/customerservice">Customer Service</a></li><li class="link 8"><span class="arrow">&nbsp;</span><a href="http://www.mydesert.com/apps/pbcs.dll/article?AID=/99999999/CUSTOMERSERVICE/70606002">Advertiser Services</a></li><li class="link 8"><span class="arrow">&nbsp;</span><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li><li class="link 8"><span class="arrow">&nbsp;</span><a href="http://www.mydesert.com/apps/pbcs.dll/article?AID=/99999999/CUSTOMERSERVICE/70719031">About Us</a></li><li class="link 8"><span class="arrow">&nbsp;</span><a href="/section/feedback">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div> 
+			</div>
+		</div>	
+	</div>
+	<div class="header-featured">
+		<div class="header-wrap">
+			<ul id="login-container" class="login-container"><li class="signup">      <a href="javascript:GEL.util.uautil.UASignup();">Sign up</a></li><li class="first">      <a href="javascript:GEL.util.uautil.LoginProvider();">Log in</a> </li>      <span id="CustomLinks" style="display:none;visibility:hidden"></span></ul>
+			<ul>
+				<li><strong>FEATURED:</strong></li><li><a href="/graduation">Graduation</a></li><li><a href="/desertmagazine">Desert Magazine</a></li><li><a href="/subscribe">Subscribe</a></li><li><a href="http://palmsprings.metromix.com">Metromix</a></li><li><a href="http://www.visitmydesert.com">Visitor Info</a></li>
+			</ul>
+			<div class="pd-search">
+				<div class="searchbox-shift">
 <script>
 var search_default = "Find what you are looking for ...";
 var timer = null;
@@ -527,6 +914,7 @@ function HideAllSearchOptions() {
 	search_options.style.display = "none";
 }
 function submitFormAction() {
+    sanitizeKeywords();
 	var keywords = document.getElementById("searchbox").value;
 		if (keywords == search_default){
 			keywords = "";
@@ -547,13 +935,24 @@ function submitFormAction() {
 	window.location.href = new_url;
 	return false; 
 }	
-function safeParam( key, def) { 
-    var defval = def|| ""; 
-    var re = new RegExp( "[?&]" + key + "=([^&$]*)", "i" ); 
-    var offset = location.search.search(re); 
-    if ( offset == -1 || RegExp.$1 == '') return defval; 
-    return RegExp.$1; 
-}		
+function safeParam( key, def) { //get cleaned up keywords so they look pretty in the search box
+	    var defval = def|| ""; 
+	    var re = new RegExp( "[?&]" + key + "=([^&$]*)", "i" ); 
+	    var offset = location.search.search(re); 
+	    if ( offset == -1 || RegExp.$1 == '') return defval;
+	    var keywords = RegExp.$1;
+	    keywords = keywords.replace(/\+/g," ");
+	    keywords = keywords.replace(/%\w{2}/g," ");
+	    return keywords; 
+	}
+	function sanitizeKeywords() {
+		//clean up keywords for submit to avoid encoding
+		var temp = document.getElementById("searchbox").value;
+		temp = temp.replace(/<.*>/g,"");
+		temp = temp.replace(/%20/g," "); //get rid of whitespace encoding
+		temp = temp.replace(/%\w{2}/g, ""); //get rid of other encoding
+		document.getElementById("searchbox").value = temp
+	}	
 </script>
 <form method="get" id="pd-header-search" class="multi-search" onsubmit="return submitFormAction()" action=" ">
 	<div id="search-wrapper" class="clear">
@@ -576,108 +975,105 @@ function safeParam( key, def) {
 </form>
 <script type="text/javascript">document.getElementById("searchbox").value = safeParam('keywords',search_default);</script>
 </div>
-				</div>
-			</td>
-			<td>
-				<div class="search-sponsor">
-					<h5>Sponsored By:</h5>
-					<div class="ad_88x31">
-<banner position="88x31_1"></banner>
-</div>
-				</div>
-			</td>
-		</tr>
-		</tbody></table>
-		<div id="navigation-container" class="navigation-container">
-	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-expand" id="node645"><a href="http://www.mydesert.com">Home</a></span><span class="level1-collapse" id="node1867"><a href="http://www.mydesert.com/news">Local News</a></span><span class="level1-expand" id="node1869"><a href="http://www.mydesert.com/business">Business</a></span><span class="level1-expand" id="node1870"><a href="http://www.mydesert.com/sports">Sports</a></span><span class="level1-expand" id="node667"><a href="http://www.mydesert.com/living">Life</a></span><span class="level1-expand" id="node14590"><a href="http://www.mydesert.com/entertainment">Entertainment</a></span><span class="level1-expand" id="node1868"><a href="http://www.mydesert.com/opinion">Opinion</a></span><span class="level1-expand" id="node1871"><a href="http://www.mydesert.com/obituaries">Obits</a></span><span class="level1-expand" id="node1888"><a href="http://www.desertsunclassifieds.com/">Classifieds</a></span><span class="level1-expand" id="node2192"><a href="http://www.mydesert.com/photos">Photos/Videos</a></span><span class="level1-expand" id="node1874"><a href="http://www.mydesert.com/cs">Customer Service</a></span><span class="level1-expand" id="node14381"><a href="http://www.visitmydesert.com">Visitor Info</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node1898"><a href="#">News Topics</a></span><span class="level2-expand" id="node1889"><a href="http://www.mydesert.com/cathedralcity">Cathedral City</a></span><span class="level2-expand" id="node1890"><a href="http://www.mydesert.com/cityofcoachella">Coachella</a></span><span class="level2-expand" id="node1891"><a href="http://www.mydesert.com/deserthotsprings">Desert Hot Springs</a></span><span class="level2-expand" id="node1892"><a href="http://www.mydesert.com/indianwells">Indian Wells</a></span><span class="level2-expand" id="node1893"><a href="http://www.mydesert.com/indio">Indio</a></span><span class="level2-expand" id="node1894"><a href="http://www.mydesert.com/laquinta">La Quinta</a></span><span class="level2-expand" id="node1895"><a href="http://www.mydesert.com/palmdesert">Palm Desert</a></span><span class="level2-expand" id="node1896"><a href="http://www.mydesert.com/palmsprings">Palm Springs</a></span><span class="level2-expand" id="node1897"><a href="http://www.mydesert.com/ranchomirage">Rancho Mirage</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
-</div>
-<script type="text/javascript">
-(function(){ 
-GEL.thepage.initializer.addInitRoutine({ 
-	name: "menu", 
-	priority: 11, 
-	callback: initMenu, 
-	namespace: ["widget.Menu", "/scripts/NavMenu_13.js"]
-}); 
-function initMenu(){ 
-	GEL.thepage.mainnav= new GEL.widget.MenuState({ 
-		level1:"NavigationMenuLevel1Div",
-					level2:"NavigationMenuLevel2Div",
-					level3:"NavigationMenuLevel3Div"
-			},
-			MenuArray, GEL.widget.MenuState.renderMainItem
-	); 
-}
-})(); 
-</script>
+			</div>
+		</div>
 	</div>
 </div>
-<!-- end #header-container -->
 
-					
-			<div class="content-container">
+<script type="text/javascript"> 
+(function(){ 
+	var _id;
+	if((id=GEL.env.url.qsv.nav)){
+		var a= "mega,tab,on".split(","),n= GEL.ement("tab"+id); 
+		a.push(_id); 
+		for(var i=0,l=a.length;i < l; i++)
+			n.addClassName(a[i]); 
+	}
+	GEL.register("widget.NavigationWidget", {
+		type: "script", 
+		depends: ["widget","widget.GELTabs"],
+		requires: ["util.Selector","remoting"],
+		path: "widgets/navigation/navController.js"
+	});
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "Nav", 
+		namespace: "widget.NavigationWidget",
+		callback: _, 
+		priority: 15
+	}); 
+	function _(){ 
+		var 
+	  	     A= GEL.ement("nav-wrap")
+		    ,C= GEL.thepage
+		;
+		if(!A.isready) return;
+		var 
+			a= C.navigationControl= 
+			new GEL.widget.navigation("Nav")
+		   ,b= GEL.ement("Nav")
+		   ,c= b.get(".nav-tabs")[0] || null
+		   ,d= GEL.ement(c)
+		   ,e= b.isready ? b.offset().left : 0
+		   ,f= d.isready ? d.offset().left : 0
+		; 
+		a.init(); 
+		A.css({paddingLeft: parseInt(f - e) + "px"});
+	}
+})();
+</script> 
+
 			
-				<!-- LOGIN BOX and BRANDING -->
-				<div class="branding-container">
-<table width="940">
-	<tbody><tr>
-		<td>
-			<!--registration login-->
-			<div class="login-container" id="login-container"></div>
-		</td>
-		<td class="brandingcontentwrapper">
-			<div class="brandingcontent">
-				<img src="/graphics/branding&#10;.gif" alt="The Desert Sun">
-			</div>
-		</td>
-	</tr>
-</tbody></table>
+			<!-- LAUNCHPAD SF -->
+			<div class="ody-wrapper">
+			<div class="leaderboard-container-top">
+				<div>
+	<div class="ad_launchpad_SF">
+	<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_4" class=" gel-hidden"><script id="__gelement_5" src="https://gannett.gcion.com/addyn/3.0/5111.1/133600/0/-1/ADTECH;alias=ca-palmsprings.thedesertsun.com/news/index.htm_launchpad_SF;cookie=info;loc=100;target=_blank;grp=17546;misc=1580468010826;size=728x90;noperf=1;key=Privacy+Policy;kvcw=;kvtitle=Privacy-Policy"></script>
 </div>
-<div id="IE6Error">
-  <ul>
-    <li>Your browser’s security settings are preventing some features from appearing. <a href="/section/IE6SecuritySettings">See instructions for fixing the problem.</a></li>
-  </ul>
+</div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
+		<div class="advertisement">ADVERTISEMENT</div>
+	</div>
 </div>
 
-				
-				<table width="940" cellspacing="0" class="horizontalrule"> 
-				<tbody><tr>
-					<td width="940">
-						<div class="padding">
-							<div class="glegal">
-								<h1>Privacy Policy</h1>
-<p>Last Updated: September 22, 2010</p>
-<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Policy.</p>
-<p>This Privacy Policy discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
-<p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our <a href="http://www.mydesert.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
+			</div>
+			</div>
+			<div class="ody-wrapper">
+			<div class="content-container">
+				<div class="container">
+								<div class="glegal">
+				<h1>Privacy Notice</h1>
+<p>Last Updated: December 30, 2010</p>
+<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Notice.</p>
+<p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
+<p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our <a href="http://www.MyDesert.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
 <h3>Your California Privacy Rights</h3>
 <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:</p>
-<p>Kim Jaske<br>
+<p>Mark Faris<br>
   Online Privacy Coordinator<br>
-  <a href="http://www.mydesert.com">
-  www.mydesert.com</a><br>
+  <a href="http://www.MyDesert.com">
+  www.MyDesert.com</a><br>
   Gannett Law Department<br>
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
 <h3>How We Collect and Use Information</h3>
-<p>We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
-<p>We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies.  To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
 <p>We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
-<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Policy.</p>
+<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Notice.</p>
 <p>For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."</p>
-<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
-<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
-<p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.mydesert.com/section/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
+<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.</p>
+<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.</p>
+<p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.MyDesert.com/section/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
-<h3>Data Collected in Connection with Ad Serving and Targeting</h3>
+<h3><a name="adchoices"></a>Data Collected in Connection with Ad Serving and Targeting</h3>
 <p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
 <p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
-<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our privacy policy.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.mydesert.com/section/adnetwork">click here</a>.</p>
+<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.MyDesert.com/section/adnetwork">click here</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
 <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
 <h3>Children's Privacy Statement</h3>
@@ -693,77 +1089,128 @@ function initMenu(){
 <h3>Storage of Information</h3>
 <p>All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access.  However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
 <h3>Questions Regarding Privacy</h3>
-<p>If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:</p>
-<p id="OnlinePrivacyCoordinator">Kim Jaske<br>
+<p>If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:</p>
+<p id="OnlinePrivacyCoordinator">Mark Faris<br>
   Online Privacy Coordinator<br>
-  <a href="http://www.mydesert.com">
-  www.mydesert.com</a><br>
+  <a href="http://www.MyDesert.com">
+  www.MyDesert.com</a><br>
   Gannett Law Department<br>
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
+			</div>
 
-							</div>
-						</div>
-					</td>
-				</tr>
-				</tbody></table>
-			</div>		
-		
+				</div>				
+			</div>
+			</div>
+			
 			<div class="footer-container">
-						<div class="leaderboard-container">
-		<div class="leaderboard">
-			<table cellspacing="0" cellpadding="0" border="0" width="100%" class="labeledBanner">
-			<tbody><tr>
-			<td width="1%"><span class="adlabel-vert"></span></td>
-			<td width="99%"><div class="ad_728x90">
-<banner position="728x90_2"></banner>
+	<!-- ody custom content macro -->
+	<div class="ody-wrapper">
+	<div class="leaderboard-container">
+		<div>
+	<div class="ad_728x90">
+	<div id="adcontainer___gelement_adbanner_1"></div><banner position="728x90_2" id="__gelement_adbanner_1"></banner>
+		<div class="advertisement">ADVERTISEMENT</div>
+	</div>
 </div>
-</td>
-			</tr>
-			</tbody></table>
+	</div>
+	</div>
+	<div class="footer-content">
+		<div class="footer-top">
+	<div class="footer-wrap">
+		<div class="footer-logo">
+			<a href="http://www.MyDesert.com/"></a>
+		</div>
+		<div class="right"><a href="http://www.MyDesert.com/section/sitemaphtml">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#top">Back to Top</a><span class="backtotop">&nbsp;</span></div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="footer-main">
+	<div class="footer-wrap">
+		<div class="left">
+			<ul><li><h4><a href="/section/news">LOCAL NEWS</a></h4></li><li><a href="/section/news08">Crime and Courts</a></li><li><a href="/section/news03">Politics</a></li><li><a href="/section/news04">Education</a></li><li><a href="/section/news07">Environment</a></li><li><a href="http://mydesert.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Palm%20Springs&amp;State=CA">Weather</a></li><li><a href="/section/news0805">Earthquakes</a></li><li><a href="/section/7daysarchives">Today's Newspaper</a></li><li><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li><li><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=mydesert">Nation and World</a></li><li><h4><a href="http://obituaries.mydesert.com/obituaries/thedesertsun/">OBITUARIES</a></h4></li><li><a href="http://www.legacy.com/thedesertsun/Obituaries.asp?Page=FuneralHomeDirectory">Funeral Homes</a></li><li><a href="/section/lifestyles06">Churches</a></li><li><a href="http://www.legacy.com/thedesertsun/Obituaries.asp?page=GBGateway">Guest Book</a></li><li><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li></ul><ul><li><h4><a href="/section/yourtown">COMMUNITIES</a></h4></li><li><a href="/section/yourtown01">Cathedral City</a></li><li><a href="/section/yourtown02">Coachella</a></li><li><a href="/section/yourtown03">Desert Hot Springs</a></li><li><a href="/section/yourtown04">Indian Wells</a></li><li><a href="/section/yourtown05">Indio</a></li><li><a href="/section/yourtown06">La Quinta</a></li><li><a href="/section/yourtown09">Palm Desert</a></li><li><a href="/section/yourtown08">Palm Springs</a></li><li><a href="/section/yourtown10">Rancho Mirage</a></li><li><h4><a href="/section/galleriessectionfront">PHOTOS</a></h4></li><li><a href="/section/videonetwork">Videos</a></li><li><a href="/photos">Staff Photos</a></li><li><a href="/section/pluckpublicphotogalleries">Reader Photos</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="http://mydesert.highschoolsports.net/">High School Sports</a></li><li><a href="/section/sports05">Golf</a></li><li><a href="http://teetimes.mydesert.com/">Tee Times</a></li><li><a href="/section/sports07">Tennis</a></li><li><a href="/section/sports01">Baseball</a></li><li><a href="/section/sports02">Basketball</a></li><li><a href="/section/sports03">Boxing</a></li><li><a href="/section/sports04">Football</a></li><li><h4><a href="/section/opinion">OPINION</a></h4></li><li><a href="/blogs">Blogs</a></li><li><a href="/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum">Forums</a></li><li><a href="/section/opinion01">Editorials</a></li><li><a href="/section/columns26">Valley Voice</a></li><li><a href="/section/getpublished">Get Published</a></li><li><a href="/section/opinion02">Letters to the Editor</a></li><li><a href="/section/feedback02">Submit a Letter</a></li></ul><ul><li><h4><a href="/section/business">BUSINESS</a></h4></li><li><a href="http://mydesert.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES&amp;pub=mydesert">Real Estate</a></li><li><a href="/section/business01">Tourism and Hospitality</a></li><li><a href="/section/business02">Small Business</a></li><li><a href="/section/news05">Growth and Development</a></li><li><a href="/section/business05">Jobs and Employment</a></li><li><h4><a href="/section/lifestyles">LIFESTYLES</a></h4></li><li><a href="/section/lifestyles01">Entertainment</a></li><li><a href="http://palmsprings.metromix.com">Metromix</a></li><li><a href="/section/lifestyles02">Food &amp; Drink</a></li><li><a href="/section/lifestyles03">Health</a></li><li><a href="/section/lifestyles09">Society</a></li><li><a href="/apps/pbcs.dll/section?Category=CALENDAR&amp;site=GMTI&amp;tpl=EventSearch">Calendar</a></li><li><a href="http://palmsprings.metromix.com/movies">Movies</a></li><li><a href="http://palmsprings.metromix.com/music">Music</a></li><li><a href="/desertmagazine">Desert Magazine</a></li></ul>
+		</div>
+		<div class="right">
+			<ul>
+				<li><h4><a href="/section/customerservice">HELP</a></h4></li><li><a href="/section/customerservice">Customer Service</a></li><li><a href="http://www.mydesert.com/apps/pbcs.dll/article?AID=/99999999/CUSTOMERSERVICE/70606002">Advertiser Services</a></li><li><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li><li><a href="http://www.mydesert.com/apps/pbcs.dll/article?AID=/99999999/CUSTOMERSERVICE/70719031">About Us</a></li><li><a href="/section/feedback">Contact Us</a></li>
+			</ul>
+			<ul class="right_row">
+	<li><h4>FOLLOW US</h4></li>
+	<li class="icn_follow_twitter"><a href="http://www.MyDesert.com/twitter">Twitter</a></li>
+	<li class="icn_follow_facebook"><a href="http://www.MyDesert.com/facebook">Facebook</a></li>
+	<li class="icn_follow_mobile"><a href="http://www.MyDesert.com/mobile">Mobile</a></li>
+	<li class="icn_follow_rss"><a href="http://www.MyDesert.com/rss">RSS</a></li>
+	<li class="icn_follow_email"><a href="http://www.MyDesert.com/section/nlettersubscribe">E-mail Alerts</a></li>
+	<li class="icn_follow_text"><a href="http://www.MyDesert.com/sms">Text Alerts</a></li>
+</ul>
 		</div>
 	</div>
-<div id="partner-logos" class="partner-logos">
-	<a href="http://www.gannett.com"><span class="gannett"></span></a>
-	<a href="http://www.usatoday.com"><span class="usatoday"></span></a>
-	<a href="/apartments"><span class="apartments"></span></a>
-	<a href="/cars"><span class="cars"></span></a>
-	<a href="/jobs"><span class="jobs"></span></a>
-	<a href="http://www.homefinder.com"><span class="homes"></span></a>
-	<a href="http://www.homegain.com"><span class="homegain"></span></a>
-	<a href="/shopping"><span class="shopping"></span></a>
-	<a href="http://www.usaweekend.com"><span class="usaweekend"></span></a>
+	<div class="clear"></div>
 </div>
-<div id="partner-links" class="partner-links">
-	<ul>
-		<li>Partners: </li>
-		<li><a href="/jobs">Jobs: CareerBuilder.com</a></li>
-		<li><a href="/cars">Cars: Cars.com</a></li>
-		<li><a href="/apartments">Apartments: Apartments.com</a></li>
-		<li><a href="/shopping">Shopping: ShopLocal.com</a></li>
-		<li><a href="http://www.homefinder.com">Homes:</a><a href="http://www.homefinder.com"> Homefinder.com</a></li>
-	</ul>
+<div class="clear"></div>
+		<div class="partners_text">
+	<div class="container">
+		<ul>
+			<li><a target="_blank" href="http://www.usatoday.com">News</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.careerbuilder.com">Jobs</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.cars.com">Cars for Sale</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.homefinder.com">Homes for Sale</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.apartments.com">Apartments for Rent</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.homegain.com">Real Estate</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.shoplocal.com">Shopping</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.momslikeme.com">Mom Groups</a></li>
+		</ul>
+	</div>
 </div>
-<div class="seo-links">
-<ul>
-<li><a href="http://www.mydesert.com">Home</a> | </li><li><a href="/news">Local News</a> | </li><li><a href="/business">Business</a> | </li><li><a href="/sports">Sports</a> | </li><li><a href="/living">Life</a> | </li><li><a href="/entertainment">Entertainment</a> | </li><li><a href="/opinion">Opinion</a> | </li><li><a href="http://www.mydesert.com/obituaries">Obits</a> | </li><li><a href="http://www.desertsunclassifieds.com/">Classifieds</a> | </li><li><a href="/photos">Photos/Videos</a> | </li><li><a href="/cs">Customer Service</a> | </li><li><a href="http://www.visitmydesert.com">Visitor Info</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
-<div id="legal" class="legal">
-	<ul>
-		<li><a href="/section/TERMS">Terms of Service</a> |</li>
-		<li><a href="/section/PRIVACY">Privacy Policy</a> |</li>
-		<li><a href="/section/FEEDBACK">Contact Us</a> |</li>
-		<li><a href="/aboutus">About Us</a> |</li>
-		<li><a href="/work">Work for Us</a> |</li>
-		<li><a href="/subscribe">Subscribe</a></li>
-	</ul>
-	<p>Copyright ©2010</p>
+		<div class="footer-partners">
+	<div class="footer-wrap">
+		<ul>
+			<li><a class="footer-usatoday" href="http://www.usatoday.com" target="_blank"></a></li>
+			<li><a class="footer-cars" href="http://www.cars.com" target="_blank"></a></li>
+			<li><a class="footer-homefind" href="http://www.homefinder.com" target="_blank"></a></li>
+			<li><a class="footer-apts" href="http://www.apartments.com/" target="_blank"></a></li>
+			<li><a class="footer-homegain" href="http://www.homegain.com" target="_blank"></a></li>
+			<li><a class="footer-shop" href="http://www.shoplocal.com" target="_blank"></a></li>
+			<li><a class="footer-moms" href="http://www.momslikeme.com" target="_blank"></a></li>
+			<li><a class="footer-career" href="http://www.careerbuilder.com" target="_blank"></a></li>
+			<li><a class="footer-eharmony" href="http://www.eharmony.com" target="_blank"></a></li>			
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
 </div>
-<div class="gannettlegal">
-	<p>	Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated September 2010.</p>
+		<div class="footer-gannett">
+	<a href="http://www.gannett.com" target="_blank"><img src="/odygci/p1/ody_gannett_footer.gif" alt="Gannett" title="Gannett"></a>
 </div>
-<!-- macro name="ad_rotate_test" --> 
-<!-- div class="clear"></div -->
-<!--MBox macro -->
+<p class="footer-bottom">
+	Copyright © 2011 www.MyDesert.com. All rights reserved.<br>
+	Users of this site agree to the <a href="http://www.MyDesert.com/section/terms">Terms of Service</a>, <a href="http://www.MyDesert.com/section/privacy">Privacy Notice/Your California Privacy Rights</a>, and <a href="http://www.MyDesert.com/section/privacy#adchoices">Ad Choices</a>
+</p>
+	</div>
+</div>
+<div id="UAModalcontainerwrapper" class="ody-UAmodalcontainer modal modal-inner-content">
+	<div id="UAModalcontainer"></div>
+</div>
+<div id="zagmodalcontainer" class="zagmodal modal modal-inner-content">
+	<div id="ody-modalcontent"></div>
+	<a></a>
+</div>
+<script type="text/javascript">
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "zagmodal",
+	namespace: "widget.zagmodal",
+	depends: ["widget.modal"],
+	callback: function () { }, 
+	priority: 121
+});
+</script>
 <!--Site Catalyst macro -->
 <!--Sitecatalyst Macro Settings -->
 <script type="text/javascript"> 
@@ -800,14 +1247,14 @@ function initMenu(){
 					classifieds: 'Classifieds: '+_cat+' listings',
 					search: 'Publicus search results: ',
 					gallery: (function() {
-						if(_PI.title && _PI.date)
-							return 'Gallery Title: '+_PI.title+' ('+_PI.date+')';
+						if(_PI.title && _PI.date.isopuddate)
+							return 'Gallery Title: '+_PI.title+' ('+_PI.date.isopuddate+')';
 						else
 							return 'Gallery Title: Null';
 					})(),
 					tngallery: (function() {
-						if(_PI.title && _PI.date)
-							return 'tnGallery Title: '+_PI.title+' ('+_PI.date+')';
+						if(_PI.title && _PI.date.isopuddate)
+							return 'tnGallery Title: '+_PI.title+' ('+_PI.date.isopuddate+')';
 						else
 							return 'tnGallery Title: Null';
 					})()
@@ -851,6 +1298,8 @@ function initMenu(){
 		var _provs= _vt.init(provider); 
 		for(var i=0;i<_provs.length;i++)
 			_provs[i].trackView(); 
+		if(GEL.thepage.viewTracker.providers && GEL.thepage.viewTracker.providers.bt && !window.DM_onSegsAvailable)
+			window.DM_onSegsAvailable = GEL.thepage.viewTracker.providers.bt.segmentsReceived;
 	}
 	/* 
 		Currently this must be done inline due to the fact that 
@@ -866,11 +1315,11 @@ function initMenu(){
 		method of inserting the image.  Once this is implemented, 
 		the inline attachment of the s_code here can be removed 
 	*/
-	var _s = GEL.ement("SCRIPT", { src: "/gel/lib/vendor/omniture/sitecatalyst.js" }); 
+	var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
 	_s.setAttacher("inline"); 
 	_s.attach(); 
 })(); 
-</script><script id="__gelement_0" src="/gel/lib/vendor/omniture/sitecatalyst.js"></script>
+</script><script id="__gelement_0" src="/odygel/lib/vendor/omniture/sitecatalyst.js"></script>
  
 <noscript> 
  <img src="http://gpaper156.112.2O7.net/b/ss/gpaper156,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" />
@@ -895,42 +1344,200 @@ function initMenu(){
 	});
 })()	
 </script>
-<script>
-if(GEL.config.AdService == 1 || GEL.config.AdService == 3)
-{
-	function loader(){ 
-		var l= GEL.thepage.bannerLoader= new GEL.widget.AdBanner.Locator(); 
-		l.registerProvider("_default", GEL.widget.AdBanner.APT); 
-		l.findBanners(); 
-		l.loadBanners(); 
-	}	
-	if(GEL.config.AdService == 3)
-	{
-		function loader1(){ 
-			var l= GEL.thepage.bannerLoader= new GEL.widget.AdBanner.Locator(); 
-			l.registerProvider("_default", GEL.widget.AdBanner.Helios); 
-			l.findBanners(); 
-			l.loadBanners(); 
-		}	
-		GEL.use("widget.AdBanner.Helios", loader1);	
-	}
- 	GEL.use("widget.AdBanner.APT", loader);
-}
-else
-{
-	GEL.config.init.banners = true;
-	GEL.use("widget.AdBanner.Helios");	
-}
+<script type="text/javascript">
+(function(){ 
+	GEL.register("widget.TimeWidget", {
+		type: "script", 
+		depends: ["widget"],
+		requires: [],
+		path: "widgets/time/time.js"
+	});
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "Time", 
+		namespace: ["widget.TimeWidget","util.Selector"], 
+		callback: initTime, 
+		priority: 10
+	}); 
+	function initTime(){
+		var _i = GEL.thepage.$('.clienttime').length;
+		if(_i>0){
+			GEL.thepage.Time = new GEL.widget.Time();
+			GEL.thepage.Time.init();
+			var 
+				_l = parseInt(GEL.thepage.articles.topstories.length-1),
+				_p = GEL.thepage.$('.lastupdated').length
+			;
+			if(_p>0 && GEL.thepage.articles.topstories[_l]){
+				var _t = GEL.thepage.articles.topstories[_l].moddate;
+				GEL.thepage.$('.lastupdated')[0].appendChild(document.createTextNode('Updated: '+_t));
+			}
+		}
+	};
+})(); 
 </script>
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js#xfbml=1" async=""></script></div>
+<div style="display: none;" id="fbLike">
+	<fb:like show_faces="true" width="450" action="recommend" ref="recommend"></fb:like>
+</div>
+<script>
+window.fbAsyncInit = function() {
+	FB.init({
+		appId  : 'MY APP ID',
+		status : true, // check login status
+		cookie : true, // enable cookies to allow the server to access the session
+		xfbml  : true,  // parse XFBML
+		channelUrl  : 'http://www.MyDesert.com/odygel/lib/vendor/meebo/channel.html' // custom channel
+	});   
+};
+(function() {
+	var e = document.createElement('script');
+	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js#xfbml=1';
+	e.async = true;
+	document.getElementById('fb-root').appendChild(e);
+	}());
+</script>
+<div>
+	<div class="ad_Meebo">
+	<div id="adcontainer___gelement_adbanner_2"></div><banner position="Meebo" loadoninit="false" sitepage="ca-palmsprings.thedesertsun.com/news/meebo.htm" id="__gelement_adbanner_2"></banner>
+		<div class="advertisement">ADVERTISEMENT</div>
+	</div>
+</div>
+<div id="meebobar" class="ody-meebobar"></div>
+<script type="text/javascript">
+(function(){
+	var 
+		_i = GEL.thepage.pageinfo,
+		_spath= "http://sitelife"+_i.siteinstance+"."+_i.url.domainname+"/ver1.0/Direct/DirectProxy"
+	; 
+	GEL.config.meebo={
+		url:"www.MyDesert.com",
+		icons:{
+			recommend:"/odygci/p1/recommend_icon.gif",
+			recentActivity:"/odygci/p1/recentactivity_icon.gif"
+		}
+	};
+	var 
+		_s = GEL.ement("SCRIPT", { src: _spath })
+	; 
+	_s.setAttacher("inline"); 
+	_s.attach(); 
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "Meebo",
+		namespace: ["remoting","widget.AdBanner"],
+		callback: function (){ 
+			var 
+				_jscntr= GEL.ement("meebobar"), 
+				_u= "http://www.MyDesert.com/odygel/lib/vendor/meebo/meebo.js"
+			;
+			_jscntr.setContentUrl(_u, 'script');
+			_jscntr.updateRemoteContent(); 
+			var
+				_bl = new GEL.widget.AdBanner.Locator(),
+				_b = _bl.findBanners(),
+				_l = _bl.findBanners().length
+			;
+			for(var i =0 ; i<_l; i++)
+				if(_b[i].position=='Meebo')
+					_b[i].loadBanner()
+			return; 
+		}, 
+		priority: 200
+	});
+})()
+</script><script id="__gelement_1" src="http://sitelife.MyDesert.com/ver1.0/Direct/DirectProxy"></script>
+
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
-<!-- Akamai cookie -->
-<!-- end #footer-container -->
 
-			</div>
 		</div> <!--end main container-->
-	</div>
+	</div><!-- end ody-custom -->
 
 
-	</body></html>
+<!-- General Info
+Current page request (after SAXOTECH translation): http://www.mydesert.com/apps/pbcs.dll/section?Category=privacy
+Canonical Link: http://www.MyDesert.com/section/PRIVACY/Privacy-Policy
+Build date and time: 2011-06-20 19:52:29
+-->
+<!-- Cache Build Time
+Time used: 7251 ms Wait: 47 ms<br>
+<b>Starting first parse</b><br>
+.Parsing macro ody_Initialize<br>
+..Build 0: 15 ms (Misc)<br>
+..Parsing macro ody_Initialize_All<br>
+...Parsing macro ody_SetSSTS<br>
+....Build 9: 47 ms (Content)<br>
+...Completed macro ody_SetSSTS<br>
+...Build 9: 265 ms (Content)<br>
+..Completed macro ody_Initialize_All<br>
+..Parsing macro ody_GetTimeOffset<br>
+...Build 9: 32 ms (Content)<br>
+..Completed macro ody_GetTimeOffset<br>
+...Build 0: 16 ms (Misc)<br>
+...Build 0: 16 ms (Misc)<br>
+...Build 0: 0 ms (Misc)<br>
+...Build 0: 0 ms (Misc)<br>
+...Build 0: 0 ms (Misc)<br>
+..Parsing macro ody_Initialize_Request<br>
+...Parsing macro ody_Initialize_Section<br>
+....Parsing macro ody_SectionInitialize<br>
+.....Build 9: 63 ms (Content)<br>
+....Completed macro ody_SectionInitialize<br>
+....Build 9: 125 ms (Content)<br>
+...Completed macro ody_Initialize_Section<br>
+...Build 9: 188 ms (Content)<br>
+..Completed macro ody_Initialize_Request<br>
+..Build 9: 985 ms (Content)<br>
+.Completed macro ody_Initialize<br>
+.Parsing macro ody_addecision<br>
+..Build 9: 203 ms (Content)<br>
+.Completed macro ody_addecision<br>
+.Parsing macro ody_Header<br>
+..Parsing macro ody_HeaderRequest<br>
+...Parsing macro ody_Header_Sections<br>
+....Parsing macro ody_seo<br>
+.....Build 0: 0 ms (Misc)<br>
+....Completed macro ody_seo<br>
+....Build 9: 110 ms (Content)<br>
+...Completed macro ody_Header_Sections<br>
+...Build 9: 172 ms (Content)<br>
+..Completed macro ody_HeaderRequest<br>
+..Parsing macro ody_pageinfo_script<br>
+...Build 9: 63 ms (Content)<br>
+..Completed macro ody_pageinfo_script<br>
+..Parsing macro ody_semantics_wrapper<br>
+...Parsing macro ody_semantics<br>
+....Build 9: 3062 ms (Content)<br>
+...Completed macro ody_semantics<br>
+...Build 9: 3109 ms (Content)<br>
+..Completed macro ody_semantics_wrapper<br>
+..Build 9: 3891 ms (Content)<br>
+.Completed macro ody_Header<br>
+.Parsing macro ody_nav<br>
+.Completed macro ody_nav<br>
+.Parsing macro ody_gen3_content<br>
+..Parsing macro ody_getPrivacy<br>
+...Build 0: 625 ms (Misc)<br>
+..Completed macro ody_getPrivacy<br>
+..Build 9: 703 ms (Content)<br>
+.Completed macro ody_gen3_content<br>
+.Parsing macro ody_Footer<br>
+..Parsing macro ody_analytics<br>
+...Build 9: 125 ms (Content)<br>
+..Completed macro ody_analytics<br>
+..Parsing macro ody_meebobar<br>
+...Parsing macro ody_meebo_adcall<br>
+....Build 9: 31 ms (Content)<br>
+...Completed macro ody_meebo_adcall<br>
+...Build 9: 94 ms (Content)<br>
+..Completed macro ody_meebobar<br>
+..Build 9: 859 ms (Content)<br>
+.Completed macro ody_Footer<br>
+.Parsing macro ody_DebugInfo<br>
+-->
+
+
+
+
+
+</body></html>
