@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cd-writer.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622095218id_/http%3A//www.cd-writer.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cd-writer.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621065754id_/http%3A//shop.cd-writer.com/catalog/popup/privacy_policy.html) for the most accurate reproduction.*
 
-# CD-WRITER.COM LTD Privacy Policy.
+# CD-WRITER.COM LTD Online Security and Privacy Policy.
 
   
 Privacy Statement for CD-writer.com Ltd **_'This does not affect your statutory rights as a consumer'_**
@@ -55,5 +55,3 @@ You can send email to [ feedback@cd-writer.com ](mailto:feedback@cd-writer.com)
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 [ feedback@cd-writer.com](mailto:feedback@cd-writer.com)
-
-[ ](mailto:feedback@cd-writer.com)
