@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the seic.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219082254id_/http%3A//seic.com/enUS/93.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seic.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621060544id_/http%3A//www.seic.com/enUS/93.htm) for the most accurate reproduction.*
 
 # SEI - Privacy Policy - US
 
-##   
-Last modified: December 2008
+## Last modified: March 2011
 
 _Note: The following privacy policy applies to data collected on SEI Web Properties that do not require account authentication or the submittal of/access to confidential account information. It does not apply to SEI client sites or services that do not link to this statement or that have their own privacy statements._
 
@@ -15,11 +14,12 @@ We periodically also forward to your attention educational information, as well 
 
 SEI welcomes online feedback and provides various services whereby such information can be made available to users of SEI Web Property services, such as but not limited to article ratings and comments. Any communication transmitted to SEI Web Properties or services, or otherwise provided to SEI ("Submission") is understood by both parties to be non-confidential and non-proprietary. SEI has no obligation with respect to any Submission and may freely copy, reproduce, incorporate, distribute, or use such Submission as it wishes. Submissions that are violent, obscene, threatening, defamatory, libelous, or violate the law in any way, are prohibited. 
 
-The site uses cookies but does not store any personal or company information on the cookie, such as an e-mail address or name. The only piece of information on a cookie is a random identification number so when you come to the site we can recognize who you are from the information stored on the most secure part of our website.  You can accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline them. If you do so, you may not be able to use interactive features that depend on cookies. 
+This site uses cookies (files sent by us to your computer) and may store information about you, which we can access when you visit our site. We do this in order to assist in pre-filling forms (so you don’t have to enter the same information twice), as well as direct to you to the last SEI regional site you visited, among other things. 
+
+You can accept or decline cookies by modifying your browser settings. To do so, refer to the instructions for your file management software. Our cookies will include the file name “@www.seic.com”. By deleting or declining cookies, you may not be able to use some interactive features or access certain areas of the site that depend on cookies. 
 
 SEI is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. 
 
 Personal information collected on SEI Web Properties and services may be stored and processed in the United States or any other country in which SEI or its affiliates, subsidiaries, or agents maintain facilities, and by using a SEI Web Property or service, you consent to any such transfer of information outside of your country. 
 
-**See also:**[ **Terms of Use**](https://web.archive.org/enUS/1318.htm)  
-
+**See also:**[ **Terms of Use**](https://web.archive.org/enUS/1318.htm)
