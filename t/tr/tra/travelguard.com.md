@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090409id_/http%3A//www.travelguard.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621214620id_/http%3A//www.travelguard.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Travel Guard Privacy Policy
 
@@ -10,7 +10,7 @@ By making your purchase on our secure server, you are protected by Secure Socket
 
 ## NOTICE OF PRIVACY PRACTICES
 
-[Click here](https://web.archive.org/privacy/HIPPApolicy.pdf "Click here") for the notice describing how medical information about you may be used and disclosed, and how you can access this information.
+[Click here](https://web.archive.org/aboutus/privacypractices.aspx "Click here") for the notice describing how information about you may be used and disclosed, and how you can access this information.
 
 ## USE OF INFORMATION
 
