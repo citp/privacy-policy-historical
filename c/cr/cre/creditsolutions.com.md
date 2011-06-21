@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213223103id_/http%3A//www.creditsolutions.com/Popup/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621213716id_/http%3A//creditsolutions.com/Popup/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Debt Consolidation and Credit Consolidation alternative with Credit Solutions
 
@@ -93,6 +93,6 @@ We have put in place appropriate physical, electronic, and managerial procedures
 If you have questions about the privacy procedures employed at Credit Solutions, please contact:
 
 **Credit Solutions  
-12700 Park Central Dr, 21st Floor, Dallas, TX 75251  
+12700 Park Central Dr, 9th Floor, Dallas, TX 75251  
 Toll Free: (800) 353-7630 . Fax: (214) 853-5997 **  
 Policy Effective Date: August 14, 2008 
