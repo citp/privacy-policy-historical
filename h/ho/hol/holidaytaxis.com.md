@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620034517id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621062517id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
 
-# Holiday Taxis | Airport Transfers , Airport Taxis and Airport Shuttles
-
-## Privacy Policy
+# Privacy Policy | Holiday Taxis
 
 Holiday Taxis is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - 1st Floor, Martlet Heights, 49 The Martlets, Burgess Hill, West Sussex, RH15 9NN.
 
@@ -20,7 +18,7 @@ Credit card details will be handled securely to ensure confidentiality. SSL (Sec
 
 ### Who do you share your information with?
 
-Holiday Taxis collates your information solely for the purpose of making your booking and does not share, sell, trade or rent your personal information with anyone.
+Holiday Taxis collates your information solely for the purpose of making your booking. If you have booked via a Holiday Taxis affiliate site, then the affiliate has the right to request and receive your booking data, but not your payment data. If you have booked via the main Holiday Taxis website we do not share, sell, trade or rent your personal information with anyone.
 
 ### Holiday Taxis special offer service.
 
@@ -30,7 +28,7 @@ Holiday Taxis have many trade partners who from time to time give us access to o
 
 There are several places on the Holiday Taxis Web site where you can link through to other sites. Once you click through onto another site, Holiday Taxis privacy practices no longer apply. We recommend you view privacy statements for all third party Websites to understand their own policies for collecting and disclosing your information.
 
-### Security and Data Protection [(click here for more information)](https://web.archive.org/about/data-protection.php)
+### Security and Data Protection [(click here for more information)](https://web.archive.org/about/data/)
 
 In addition and as required by the UK Data Protection Legislation, (Acts of 1984 and 1998) we follow strict security procedures in the storage and disclosure of information which you have given to us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.
 
@@ -40,8 +38,8 @@ Cookies are small pieces of information that are stored by your browser on your 
 
 ### Your Consent
 
-By using the Holiday Taxis Web site, you consent to the collection and use of this information by Holiday Taxis in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.
+By using the Holiday Taxis Web siteand our affiliate sites, you consent to the collection and use of this information by Holiday Taxis in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.
 
 ### Third-Party Web Beacons
 
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website.Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website.Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/us/yahoo/thirdparties/).
