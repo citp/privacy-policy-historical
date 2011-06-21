@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdworldgeek.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225014841id_/http%3A//thirdworldgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdworldgeek.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621120656id_/http%3A//thirdworldgeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
