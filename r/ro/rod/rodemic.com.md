@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodemic.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928211703id_/http%3A//rodemic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodemic.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621141426id_/http%3A//rodemic.com/privacy.php) for the most accurate reproduction.*
 
 # RØDE Microphones - Privacy Policy
 
