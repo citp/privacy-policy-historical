@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220083204id_/http%3A//www.palacecinemas.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621064920id_/http%3A//www.palacecinemas.com.au/about/privacy) for the most accurate reproduction.*
 
-# Contact Us | Palace Cinemas | Share our passion.
+# Privacy Policy | Palace Cinemas | Share our passion.
 
 THE PALACE GROUP OF COMPANIES - PRIVACY POLICY
 
