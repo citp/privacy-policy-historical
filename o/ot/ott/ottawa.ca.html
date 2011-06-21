@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ottawa.ca privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122094855id_/http%3A//ottawa.ca/privacy_en.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ottawa.ca privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621094923id_/http%3A//www.ottawa.ca/privacy_en.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,63 +14,119 @@
 <body onload="randomBannersServiceLevel();"> 
 	<a name="top"></a>
 
+
+
+<!-- The following code is used to launch an intercept survey when required by CCS -->
+<!-- This has been implemented site wide you can simply comment out the code when not in use -->
+<!-- Configuration instructions for an intercept survey can be found in the 'intercept_survey' folder -->
+<script type="text/javascript" src="/scripts/javascript/intercept_survey/jquery-latest.js"></script>
+<script type="text/javascript">
+var surv_lang = "en";
+var ip ='207.241.237.234';
+jQuery.noConflict();
+
+// the following code is for displaying the survey on only specific pages or sections
+// to use simply adjust the "surveyPath" variable to the desired path otherwise leave it as a blank string
+var surveyPath = "";
+</script>
+<script type="text/javascript" src="/scripts/javascript/intercept_survey/thickbox.js"></script>
+<script type="text/javascript" src="/scripts/javascript/intercept_survey/surveyModule.js"></script>
+<link rel="stylesheet" href="/scripts/javascript/intercept_survey/thickbox.css" type="text/css" media="screen">
+<!--End intercept survey code -->
+
+<style type="text/css">
+
+/******* Needed for intercept survey ********/
+* html #TB_window { /* ie6 hack */
+position: absolute;
+margin-top: expression(0 - parseInt(this.offsetHeight) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');
+}
+/******* end intercept survey ********/
+
+</style>
 <a name="top"></a>
 <div id="wrapper">
 	<!-- first header row with logo and upper right nav -->
 	<div id="globalHeader">
+
 		<!-- left column -->
 		<div class="columnOne">
-			<a href="/index_en.html">
-			<img src="/images/rework2010/logo.jpg" width="129" height="50" alt="City of Ottawa" border="0" class="logo"></a>
+			<a href="/index_en.html"><img src="/images/rework2010/logo.jpg" width="129" height="50" alt="Ville d'Ottawa" border="0" class="logo"></a>
 		</div>
-		<!-- combined middle and right columns -->
-		<div class="combinedColumns">
-			<div id="topNav" class="floatRight width580px">
-				<form action="http://ottawa.ca/cgi-bin/htsearch" method="get" class="floatRight width190px">
-					<label for="search">Search</label>
-					<input type="text" name="words" id="search" value="Search" class="rounded-corners" onfocus="if(this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}">
-					<input type="hidden" name="restrict" value="_en">
-					<input type="submit" value="" class="searchButton">
 
-				</form>
-				<ul class="inline zeros floatRight width370px">
+		<!-- combined middle and right columns no. 1 -->
+		<div class="combinedColumns">
+			<div id="topNav" class="floatRight width610px textRight">
+				<ul class="inline zeros floatRight">
 					<li><a href="/index_en.html">Home</a></li>
 					<li><a href="/cgi-bin/lang.cgi">Français</a></li>
-					<li><a href="/sitemap_en.shtml">Site Map</a></li>
+					<li><a href="/sitemap_en.html">Site Map</a></li>
 					<li><a href="/info/contactus/index_en.html">Contact Us</a></li>
 					<li class="last"><a href="http://ottawa.ca/cgi-bin/rate_site/rate_site.cgi?lang=en&amp;referred_by_page=http://www.ottawa.ca/index_en.shtml">Rate Our Site</a></li>
 				</ul>
 			</div>
-		</div> <!-- end of combined columns -->
+
+		</div> <!-- end of combined columns no. 1 -->
+
+		<!-- combined middle and right columns no. 2 -->
+		<div class="combinedColumns" style="height: 24px; margin-top: 2px; ">
+			<div id="topNav2" class="floatRight ">
+			<!-- the following snippet is the new code implemented for the google search engine -->
+			<form action="http://search.ottawa.ca/search" method="get" class="floatRight" style=" width: 180px; margin: 0; padding: 0; text-align: right; padding-right: 15px; ">
+     <!--<label for="search">Search</label>-->
+    <input type="submit" name="btnG" value="" class="searchButton floatRight" style="margin: 0; padding: 0; margin-left: 3px; ">
+    <input type="text" name="q" id="search" value="Search" onfocus="if(this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" style=" float: right; margin: 0; padding: 0; height: 17px; ">
+    <input type="hidden" name="client" value="ottawa_en">
+    <input type="hidden" name="proxystylesheet" value="ottawa_en">
+    <input type="hidden" name="site" value="default_collection">
+    <input type="hidden" name="lr" value="lang_en">
+  </form> 
+			
+				
+
+<form name="jump" id="topOtherCities" style="float:right;  margin: 0; padding: 0;">
+<select name="menu" class="floatLeft" style="margin: 0; padding: 0; margin-right: 3px; height: 21px;  ">
+<option selected="" value="None">Other City of Ottawa Websites</option>
+<option value="http://www.octranspo1.com/?lang=en">OC Transpo</option>
+<option value="http://www.ottawapolice.ca/en/home.aspx">Ottawa Police Service</option>
+<option value="http://biblioottawalibrary.ca/">Ottawa Public Library</option>
+<option value="http://www.centrepointetheatre.com/index_en.html">Centrepointe Theatre</option>
+<option value="http://shenkmanarts.ca/index_en.html">Shenkman Arts</option>
+<option value="http://www.lansdownepark.ca/index_en.html">Lansdowne Park</option>
+<option value="http://choosingourfuture.ca/index_en.html">Choosing Our Future</option>
+<option value="http://www.ottawalightrail.ca/en/">Ottawa Light Rail</option>
+<option value="http://ottawa.com">Ottawa.com</option>
+</select>
+<input type="button" onclick="location=document.jump.menu.options[document.jump.menu.selectedIndex].value;" value="GO" class="floatLeft" style="margin: 0; padding: 0; height: 21px; width: 25px; font-size: .8em;">
+</form>
+		</div>
+		</div> <!-- end of combined columns no. 2 -->
 	</div> <!-- end of globalHeader  -->
 	 
 	 
 	<!-- 2nd header row with main image and associated story -->
 	<div id="headerGateway">
 		<!-- image div -->
-		<div id="banner"><noscript><img src="/images/rework2010/banners/default_banner_grey.jpg" alt="City of Ottawa" /></noscript>&nbsp;</div>
+		<div id="banner"><img src="/images/rework2010/banners/default_banner_grey.jpg" alt="City of Ottawa"></div>
 	</div> <!-- end headerHome div -->
 	
 	
 	<!-- 3rd header row with Gateway Nav -->
-	<div id="gatewayNav"> 
-			<ul class="inline">
-				<li><a id="residents_nav" href="/residents/index_en.html">Residents</a></li>
-				<li><a id="visitors_nav" href="/visitors/index_en.html">Visitors</a></li>
-				<li><a id="city_hall_nav" href="/city_hall/index_en.html">City Hall</a></li>
-				<li><a id="business_nav" href="/business/index_en.html">Business</a></li>
-				<li><a id="online_services_nav" href="/online_services/index_en.html">Online Services</a></li>
-			</ul> 
+	 <div id="navcontainer">
+		<ul id="navlist">
+				<li><a id="navRoads" href="/roads_trans/index_en.html">Roads and <br>Transportation</a></li>
+                <li><a id="navWater" href="/env_water/index_en.html">Water and <br>Environment</a></li>
+                <li><a id="navGarbage" href="/online_services/recycling/index_en.html">Garbage and <br>Recycling</a></li>
+                <li><a id="navRecreation" href="/rec_culture/index_en.html">Recreation and <br>Culture</a></li>
+                <li><a id="navHealth" href="/health_safety/index_en.html">Health and <br>Safety</a></li>
+                <li><a id="navLicenses" href="/licence_permit/index_en.html">Licences and <br>Permits</a></li>
+                <li class="social"><a id="navSocial" href="/social_com/index_en.html">Social and <br>Community Services</a></li>
+                <li class="last"><a id="navCity" href="/city_hall/index_en.html">City <br>Hall</a></li>
+		</ul>
 	</div>
 	
 	<div class="clearFix"> </div>
-	
-	
-	
-	
-	
-	
-	  
+	<!--<div class="homeLink" ><a href="/index_en.html">Home</a>&nbsp;&gt;</div>--> 
 
 <div id="mainBodyServiceArea"> 
 
@@ -79,86 +135,74 @@
 <h1>Privacy Statement </h1>
 <hr size="1">
 
-<p><b><i>Purpose</i></b>
+<p><strong><em>Purpose</em></strong>
 <br>
 The purpose of the statement is to inform users of this site with regard to the collection and use of personally identifiable information. The following is not intended and should not be interpreted as a contract of any nature, either stated or implied.
 </p>
 
 <p>
-<b><i>Definition of Personally Identifiable Information </i></b>
+<strong><em>Definition of Personally Identifiable Information </em></strong>
 <br>
 For the purposes of this statement "personally identifiable information" means any information relating to an identified or identifiable individual who is the subject of the information.
 </p>
 
 <p> 
-<b><i>Providing Personally Identifiable Information</i></b>
+<strong><em>Providing Personally Identifiable Information</em></strong>
 <br>
 Citizens do not have to routinely provide personal information to visit the City of Ottawa portal or to download information. Government agencies may request personally identifiable information from you in order to provide requested specialized services, but such information is handled as it would be on an in-person visit to a government office.
 </p>
 
 <p>
-<b><i>Personally Identifiable Information Available</i></b>
+<strong><em>Personally Identifiable Information Available</em></strong>
 <br>
 The IP (Internet Protocol) numbers of computers (servers) used to visit sites are noted as part of our statistical analysis on use of our web sites so we may better design services and improve access to them.  However, the site does not attempt to gain personally identifiable information on individual users and associate them with IP addresses. 
 </p>
 
 <p>
-<b><i>Restrictions on the disclosure of customer information</i></b>
+<strong><em>Restrictions on the disclosure of customer information</em></strong>
 <br>
 Our users are important to us. We do not sell or rent our users' information to any outside company or organization. We do not reveal specific information about users or other personally identifiable data to unaffiliated third parties for their independent use, except if required to do so by law. We endeavor to ensure that we collect only the minimum amount of information needed to meet the purpose for which the network was created.
 </p>
 
 <p>
-<b><i>Other Web Sites</i></b>
+<strong><em>Other Web Sites</em></strong>
 <br>
 Various Web sites may be linked through the portal. Visitors to those sites are advised to check the privacy statements of these sites and be cautious about providing personally identifiable information without a clear understanding of how the information will be used. Visitors may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance.
 </p>
 
-<p>
-<b><i>Use, collection, and retention of customer information at the City of Ottawa Portal</i></b>
-<br>
-For each visitor, we do collect information about the Internet Protocol (IP) address, type browser used, the date and time of the visit, and the IP addresses of the locations to which the visitor linked during his or her visit to our Web site. This information is strictly used for statistical reporting purposes. 
-</p>
+<p><strong><em>Use, collection, and retention of customer information at the City of Ottawa Portal</em></strong><br>
+For each visitor, we do collect information about the Internet Protocol (IP) address, type browser used, the date and time of the visit, and the IP addresses of the locations to which the visitor linked during his or her visit to our Web site. This information is strictly used for statistical reporting purposes.</p>
+<p>We only collect, retain and use personal information where we believe it is essential (and allowed by law) to administer our business and to provide products, services and other opportunities requested by our customers.</p>
+<p>We currently accept payment by Visa and Master Card on this site.  We have taken many steps to ensure the security of your transaction and your credit card information including transmission, processing and storage of your credit card details.</p>
 
-<p>
-We only collect, retain and use personal information where we believe it is essential (and allowed by law) to administer our business and to provide products, services and other opportunities requested by our customers.
-</p>
-
-
-<p>
-<b><i>Method of data collection</i></b>
-<br>
-To collect data for statistical reporting purposes in order to improve our Web site, we are presently using an analytics software package called WebTrends. We do not tie the data that is gathered by this software to any personally identifiable information and your anonymity and privacy is protected at all times. This data is collected by the WebTrends software and produces reports that the City uses to improve its site. The information is kept private and not shared with anyone other than the City. To learn more about our Web analytics provider, please visit <a href="http://www.webtrends.com">www.webtrends.com</a>.
-</p>
-
-<p>
-We also use session-based cookies on the City Web site to process requested services (e.g. course registration). A session-based cookie is a small file that stores information, but is discarded when the user exits the browser. The City Web site uses this method in order to collect data that is not personally identifiable, ensuring that it is used for statistical reporting purposes only.
-</p>
+<p><strong><em>Method of data collection</em></strong><br>
+To collect data for statistical reporting purposes in order to improve our Web site, we are presently using an analytics software package called WebTrends. We do not tie the data that is gathered by this software to any personally identifiable information and your anonymity and privacy is protected at all times. This data is collected by the WebTrends software and produces reports that the City uses to improve its site. The information is kept private and not shared with anyone other than the City. To learn more about our Web analytics provider, please visit <a href="http://www.webtrends.com">www.webtrends.com</a>.</p>
+<p>We also use session-based cookies on the City Web site to process requested services (e.g. course registration). A session-based cookie is a small file that stores information, but is discarded when the user exits the browser. The City Web site uses this method in order to collect data that is not personally identifiable, ensuring that it is used for statistical reporting purposes only.</p>
 
 <!--<p>
  Your feedback is important in helping us decide whether to continue to use this technology. Should you have any questions or feedback, please <a href="privacy_contactus_en.shtml">contact us</a>.--> 
 
 
 <p>
-<b><i>Restrictions on the disclosure of customer information</i></b>
+<strong><em>Restrictions on the disclosure of customer information</em></strong>
 <br>
 We do not sell or rent our users' information to any outside company or organization. We do not reveal specific information about users or other personally identifiable data to unaffiliated third parties for their independent use, except if required to do so by law.
 </p>
 
 <p>
-<b><i>Protection of information via established security procedures</i></b>
+<strong><em>Protection of information via established security procedures</em></strong>
 <br>
 Improvements in internet security occasionally cause older browsers to be unable to connect to ottawa.ca. This is for the protection of our users. If your browser is unable to make a secure connection, please consider upgrading your browser if you wish to access protected content. 
 </p>
 
 <p>
-<b><i>Limiting employee access to information</i></b>
+<strong><em>Limiting employee access to information</em></strong>
 <br>
 Our director limits employee access to personally identifiable information to only those employees who need access in order to perform their assigned duties. The director is instructed to enforce with its staff their responsibilities in protecting subscriber's information.
 </p>
 
 <p>
-<b><i>Freedom of Information (FOI)</i></b>
+<strong><em>Freedom of Information (FOI)</em></strong>
 <br>
 The City of Ottawa endeavors to make its information accessible to the public. Some records however contain information that is either privileged or of a personal nature. The Municipal Freedom of Information and Protection of Privacy Act compels the municipality to review such documents prior to their disclosure.  Request to access such records requires a written request.
 </p>
@@ -170,10 +214,10 @@ The City of Ottawa endeavors to make its information accessible to the public. S
   
 
 	<div id="footer" class="zeros">
-	
+
 		<div class="floatLeft width65Per" style="padding-top:20px;"> 
 			<ul class="inline zeros standardLinks">
-				<li>©2001-2010 City of Ottawa</li>
+				<li>©2001-2011 City of Ottawa</li>
 				<li><a href="/disclaimer_en.shtml">Disclaimer</a></li>
 				<li><a href="/privacy_en.shtml">Privacy Statement</a></li>
 				<li><a href="/externlinks_en.shtml">Links</a></li>
@@ -181,7 +225,7 @@ The City of Ottawa endeavors to make its information accessible to the public. S
 			</ul>
 		</div>
 		
-		<div id="iconDiv" class="floatRight zeros" style="height:50px;width:313px;">
+		<div id="iconDiv" class="floatRight zeros" style="height:50px;width:342px;">
 		
 			<div id="google_translate_element" style="float:left;padding-left:5px;padding-top:3px;"></div>
 			
@@ -200,8 +244,10 @@ The City of Ottawa endeavors to make its information accessible to the public. S
 			<ul class="floatRight inline zeros icons ">
 				<li><a href="http://ottawa.ca/cgi-bin/atyourservice/service_search.pl?lang=en" title="Frequently Asked Questions"><img src="/images/rework2010/icons/help.jpg" width="26" height="25" alt="Questions" border="0"></a></li>
 				<li><a title="Accessibility Services" href="/residents/accessibility/index_en.html"><img src="/images/rework2010/icons/wheelchair.jpg" width="26" height="25" alt="Accessibility Services" border="0"></a></li>
+				<li><a title="Browsealoud" href="/browsealoud/index_en.html"><img src="/images/rework2010/icons/browsealoud_sm.jpg" width="26" height="25" alt="Browsealoud" border="0"></a></li>
 				<li><a title="Twitter" href="/twitter/index_en.html"><img src="/images/rework2010/icons/twitter.jpg" width="26" height="25" alt="Twitter" border="0"></a></li>
 				<li><a title="RSS Feeds" href="/rss/feeds/index_en.html"><img src="/images/rework2010/icons/rss.jpg" width="26" height="25" alt="RSS Feeds" border="0"></a></li>
+				<!--<li><a title="eSubscriptions" href="/esubscription/forms/index_en.html"><img src="/images/Icons/esub.jpg" width="26" height="25" alt="eSubscriptions" border="0" /></a></li> -->
 
 			</ul>
 			
