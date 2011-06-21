@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the take180.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220111820id_/http%3A//www.take180.com/cms.do%3Fpage%3Dprivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the take180.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621081637id_/http%3A//www.take180.com/cms.do%3Fpage%3Dprivacy_policy.html) for the most accurate reproduction.*
 
 # Take180.com / Privacy Policy
 
@@ -93,8 +93,8 @@ You may modify your Basic Request and Content Request opt-out choices by logging
 **A7.** If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to privacy@take180.com or write us at:
 
 T180 Studios  
-445 S. Beverly Dr.  
-Beverly Hills, CA 90212  
+P.O. Box 2287  
+Los Angeles, CA 90078  
 Attention: Privacy Officer
 
 Please be assured that any personal information that you provide in communications to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you so request.
