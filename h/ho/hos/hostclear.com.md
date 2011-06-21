@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostclear.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224142640id_/http%3A//www.hostclear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostclear.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621030802id_/http%3A//www.hostclear.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Professional Web Hosting from Host Clear
 
@@ -17,7 +17,7 @@ The information we collect is used for internal review and is then discarded, us
 
 With respect to cookies: we use cookies to ensure that visitors are not repeatedly sent the same banner ads.
 
-If you do not want to receive e-mail from us in the future, please let us know by contacting us at [suport@hostclear.com](https://web.archive.org/web/20101224142640id_/http%3A//www.hostclear.com/suport@hostclear.com).
+If you do not want to receive e-mail from us in the future, please let us know by contacting us at [suport@hostclear.com](https://web.archive.org/web/20110621030802id_/http%3A//www.hostclear.com/suport@hostclear.com).
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
@@ -27,4 +27,4 @@ Upon request we provide site visitors with access to all information [including 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
 
-If you feel that this site is not following its stated information policy, you may contacting us at [suport@hostclear.com](https://web.archive.org/web/20101224142640id_/http%3A//www.hostclear.com/suport@hostclear.com).
+If you feel that this site is not following its stated information policy, you may contacting us at [suport@hostclear.com](https://web.archive.org/web/20110621030802id_/http%3A//www.hostclear.com/suport@hostclear.com).
