@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newsworks.org privacy policy that was archived on 2010-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119020146id_/http%3A//www.newsworks.org/index.php/about-us/item/6444) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsworks.org privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621035547id_/http%3A//www.newsworks.org/index.php/about-us/item/6444) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -7,11 +7,11 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="&nbsp;, information, websites, other, email, online, these, please, privacy, address, sites, materials, personally, identifying, users, certain, features, cookies, •&nbsp;, about">
-  <meta name="title" content="Privacy Statement ">
   <meta name="author" content="Lindsay Lazarski">
+  <meta name="title" content="Privacy Statement ">
   <meta name="description" content=" Privacy Policy Thank you for visiting WHYY Online which includes but is not limited to whyy org and newsworks org and any features of these sites including but not limited to Content Feeds Podcasts">
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
-  <title>Privacy Statement </title>
+  <title>Privacy Statement  — NewsWorks</title>
   <link href="http://www.newsworks.org/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="/plugins/system/marcosextendeddebug.css" type="text/css">
   <link rel="stylesheet" href="http://www.newsworks.org/components/com_flexicontent/assets/css/fcvote.css" type="text/css">
@@ -27,10 +27,9 @@
 		.voting .fcvote ul, .voting .fcvote ul li a:hover, .voting .fcvote ul li.current-rating {background-image:url(http://www.newsworks.org/components/com_flexicontent/assets/images/star-small.png)!important;}
 		.voting .fcvote ul li a, .voting .fcvote ul li.current-rating {height:16px;line-height:16px;}
 		
-
     -->
   </style>
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/mootools/1.11/mootools-yui-compressed.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
   <script type="text/javascript" src="http://www.newsworks.org/components/com_flexicontent/assets/js/fcvote.js"></script>
   <script type="text/javascript" src="http://www.newsworks.org/components/com_flexicontent/assets/js/fcfav.js"></script>
   <script type="text/javascript" src="/media/system/js/tabs.js"></script>
@@ -39,12 +38,40 @@
   <script type="text/javascript" src="/media/system/js/calendar-setup.js"></script>
   <script type="text/javascript" src="/plugins/system/flexiaccess/flexiaccess.js"></script>
   <script type="text/javascript">
-		window.addEvent('domready', function(){ var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false}); });
+window.addEvent("domready", function() {
+	var JTooltips = new Tips($$(".hasTip"), { maxTitleChars: 50, fixed: false});
+});
 		window.addEvent('domready', function(){ $$('dl.tabs').each(function(tabs){ new JTabs(tabs, {}); }); });
-Calendar._DN = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday");Calendar._SDN = new Array ("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"); Calendar._FD = 0;	Calendar._MN = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");	Calendar._SMN = new Array ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");Calendar._TT = {};Calendar._TT["INFO"] = "About the Calendar";
- 		Calendar._TT["ABOUT"] =
- "DHTML Date/Time Selector\n" +
- "(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+// Calendar i18n Setup.
+Calendar._FD = 0;
+Calendar._DN = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday");
+Calendar._SDN = new Array ("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun");
+Calendar._MN = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+Calendar._SMN = new Array ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");
+
+Calendar._TT = {};
+Calendar._TT["INFO"] = "About the Calendar";
+Calendar._TT["PREV_YEAR"] = "Click to move to the previous year. Click and hold for a list of years.";
+Calendar._TT["PREV_MONTH"] = "Click to move to the previous month. Click and hold for a list of the months.";
+Calendar._TT["GO_TODAY"] = "Go to today";
+Calendar._TT["NEXT_MONTH"] = "Click to move to the next month. Click and hold for a list of the months.";
+Calendar._TT["NEXT_YEAR"] = "Click to move to the next year. Click and hold for a list of years.";
+Calendar._TT["SEL_DATE"] = "Select a date";
+Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";
+Calendar._TT["PART_TODAY"] = " (Today)";
+Calendar._TT["DAY_FIRST"] = "Display %s first";
+Calendar._TT["WEEKEND"] = "0,6";
+Calendar._TT["CLOSE"] = "Close";
+Calendar._TT["TODAY"] = "Today";
+Calendar._TT["TIME_PART"] = "(Shift-)Click or Drag to change the value.";
+Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d";
+Calendar._TT["TT_DATE_FORMAT"] = "%A, %B %e";
+Calendar._TT["WK"] = "wk";
+Calendar._TT["TIME"] = "Time:";
+
+Calendar._TT["ABOUT"] =
+"DHTML Date/Time Selector\n" +
+"(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
 "For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
 "Distributed under GNU LGPL.  See http://gnu.org/licenses/lgpl.html for details." +
 "\n\n" +
@@ -52,13 +79,13 @@ Calendar._DN = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"
 "- Use the \xab, \xbb buttons to select year\n" +
 "- Use the " + String.fromCharCode(0x2039) + ", " + String.fromCharCode(0x203a) + " buttons to select month\n" +
 "- Hold mouse button on any of the above buttons for faster selection.";
+
 Calendar._TT["ABOUT_TIME"] = "\n\n" +
 "Time selection:\n" +
 "- Click on any of the time parts to increase it\n" +
 "- or Shift-click to decrease it\n" +
 "- or click and drag for faster selection.";
 
-		Calendar._TT["PREV_YEAR"] = "Click to move to the previous year. Click and hold for a list of years.";Calendar._TT["PREV_MONTH"] = "Click to move to the previous month. Click and hold for a list of the months.";	Calendar._TT["GO_TODAY"] = "Go to today";Calendar._TT["NEXT_MONTH"] = "Click to move to the next month. Click and hold for a list of the months.";Calendar._TT["NEXT_YEAR"] = "Click to move to the next year. Click and hold for a list of years.";Calendar._TT["SEL_DATE"] = "Select a date";Calendar._TT["DRAG_TO_MOVE"] = "Drag to move";Calendar._TT["PART_TODAY"] = " (Today)";Calendar._TT["DAY_FIRST"] = "Display %s first";Calendar._TT["WEEKEND"] = "0,6";Calendar._TT["CLOSE"] = "Close";Calendar._TT["TODAY"] = "Today";Calendar._TT["TIME_PART"] = "(Shift-)Click or Drag to change the value.";Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d"; Calendar._TT["TT_DATE_FORMAT"] = "%A, %B %e";Calendar._TT["WK"] = "wk";Calendar._TT["TIME"] = "Time:";
 
 	//<![CDATA[
 	<!--
@@ -295,7 +322,7 @@ Calendar._TT["ABOUT_TIME"] = "\n\n" +
 	<!--
 	function getAiContactForm_8() {
 		if (document.getElementById('aiContactSafe_module_8')) {
-			var url = 'http://www.newsworks.org/index.php?option=com_aicontactsafe&sTask=message&task=message&pf=8&use_ajax=1&r_id=699604456&format=raw&lang=';
+			var url = 'http://www.newsworks.org/index.php?option=com_aicontactsafe&sTask=message&task=message&pf=8&use_ajax=1&r_id=682539089&format=raw&lang=';
 			new Ajax(url, {
 				method: 'get',
 				onRequest: function(){ 
@@ -351,6 +378,7 @@ Calendar._TT["ABOUT_TIME"] = "\n\n" +
  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
  <link rel="stylesheet" type="text/css" href="/templates/newsworks_article/css/template.css" media="screen">
+  <!--<link rel="image_src" href="http://www.newsworks.org/apple-touch-icon.png" />-->
  <!--[if IE 6]><link rel="stylesheet" href="/templates/newsworks_article/css/template.ie6.css" type="text/css" media="screen" /><![endif]-->
  <!--[if IE 7]><link rel="stylesheet" href="/templates/newsworks_article/css/template.ie7.css" type="text/css" media="screen" /><![endif]-->
  <script type="text/javascript" src="/templates/newsworks_article/script.js"></script>
@@ -383,12 +411,18 @@ GS_googleAddAdSenseService("ca-pub-5187062816031269");
 GS_googleEnableAllServices();
 </script>
 <script type="text/javascript">
-GA_googleAddAttr("adcat", "default");
+GA_googleAddAttr("adcat", "the-feed");
 </script>
 <script src="/google_admanager/admanager.js" language="javascript" type="text/javascript"></script>
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
+<style type="text/css">
+body, p {
+    font-size: 13px !important;
+}
+</style>
+
 </head>
 <body onload="javascript:fb_code();">
 <script type="text/javascript">
@@ -447,7 +481,8 @@ Registering also enrolls you in the Ben Bucks/Ben’s Ladder rewards program." s
 <input type="hidden" name="return" value="B:aHR0cDovL3d3dy5uZXdzd29ya3Mub3JnL2luZGV4LnBocC9hYm91dC11cy9pdGVtLzY0NDQ=">
 <input type="hidden" name="message" value="0">
 <input type="hidden" name="loginfrom" value="loginmodule">
-<input type="hidden" name="cbsecuritym3" value="cbm_074f2c01_5168fdf8_cd3e90454d037e88d80fd4cb5a177cc8">
+<input type="hidden" name="cbsecuritym3" value="cbm_076d5e32_023dfdff_5d0078672daee07ba1ffb499c4b6365c">
+<input type="checkbox" name="remember" id="mod_login_remember" value="yes"> <span id="mod_login_remembermetext"><label for="mod_login_remember">Remember me</label></span><br>
 <input type="submit" name="Submit" class="button" value="Login"></td></tr>
 <tr><td><a href="http://www.newsworks.org/index.php/component/comprofiler/lostpassword" class="mod_login">Forgot login?</a></td></tr>
 <tr><td>No account yet? <a href="http://www.newsworks.org/index.php/component/comprofiler/registers" class="mod_login">Register</a></td></tr>
@@ -455,8 +490,8 @@ Registering also enrolls you in the Ben Bucks/Ben’s Ladder rewards program." s
 		<div class="moduletable">
 					
 <div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
-<script>
+<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+<script type="text/javascript">
 fb_code = function(){
 
   FB.init({appId: '154217617932802', status: true, cookie: true, xfbml: true});
@@ -489,9 +524,9 @@ fb_code = function(){
                     }
 
 }
-</script><fb:login-button v="2" onlogin="javascript:fb_login_button_click();">Login With Facebook</fb:login-button>	<ul>
+</script><fb:login-button v="2" onlogin="javascript:fb_login_button_click();">Login With Facebook</fb:login-button>	
 		
-</ul>
+
 
 
 		</div>
@@ -519,13 +554,22 @@ fb_code = function(){
     		</div>
     	</div>
     	<div class="top_bar_right">
+    	<div style="display:none;"><a href="/">
+<img title="NewsWorks" alt="Newsworks" src="http://www.newsworks.org/nw_logo_fb.png" style="display: block; float: left;"></a></div>
     		<div class="social_media"><div class="art-nostyle">
-<a href="http://www.facebook.com/newsworks" title="NewsWorks Facebook" target="_blank"><img src="/images/Facebook.png" width="23px" alt="Facebook"></a>
+<a href="http://www.facebook.com/newsworks" title="NewsWorks Facebook" target="_blank"><img src="/images/Facebook.png" width="23px" style="width:23px" alt="Facebook"></a>
     		
-<a href="http://twitter.com/newsworkswhyy" title="NewsWorks Twitter" target="_blank"><img src="/images/Twitter.png" width="23px" alt="Twitter"></a>
+<a href="http://twitter.com/newsworkswhyy" title="NewsWorks Twitter" target="_blank"><img src="/images/Twitter.png" width="23px" alt="Twitter" style="width:23px"></a>
     		
 
-<a href="http://www.youtube.com/newsworksdotorg" title="NewsWorks Youtube" target="_blank"><img src="/images/Youtube.png" width="23px" alt="Youtube"></a></div>
+<a href="http://www.youtube.com/newsworksdotorg" title="NewsWorks Youtube" target="_blank"><img src="/images/Youtube.png" width="23px" alt="Youtube" style="width:23px"></a>
+
+
+
+
+
+<a href="/index.php/component/content/article/6739" title="NewsWorks RSS" target="_blank"><img src="/images/rss-logo.png" width="23px" alt="NewsWorks RSS" style="width:23px"></a>
+</div>
 </div>
     		
     		<div class="top_bar_search">
@@ -535,7 +579,7 @@ fb_code = function(){
 		<input name="searchword" id="mod_search_searchword" maxlength="256" alt="go" class="inputbox" type="text" size="15" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="go" class="button" onclick="this.form.searchword.focus();">	</div>
 	<input type="hidden" name="task" value="search">
 	<input type="hidden" name="option" value="com_search">
-	<input type="hidden" name="Itemid" value="157">
+	<input type="hidden" name="Itemid" value="1">
 </form></div>
 
     		</div>
@@ -552,36 +596,25 @@ fb_code = function(){
     	<div class="thefeed_container">
     		<div class="thefeed_lead">
     		<div class="art-nostyle">
-<div class="aidanews"><table style="border: 0px solid #C3C3C3;vertical-align:middle;height:110px;"><tbody><tr><td width="100%" style="vertical-align:middle;">
-<div style="clear: both; color:#000;float:left;margin:0 20px;width:250px;vertical-align:middle;">
-
-<div style="margin-bottom:4px;"><span style="float:left; padding: 0px;border: 0px solid #C3C3C3;margin:0 10px 0px 0;height:90px;"><a href="/index.php/about-us/item/7628-slurpee-summit&amp;Itemid=23"><img src="/components/com_flexicontent/uploads/slurpee_thumb.jpg" alt="Slurpee Summit" title="Slurpee Summit" border="0" width="77px"></a></span><span> <div style="font-weight: bold;text-decoration:none;font-size:18px;line-height:17px;"><a href="/index.php/about-us/item/7628-slurpee-summit&amp;Itemid=23" title="Slurpee Summit">Slurpee Summit</a></div>  </span><div> <div style="font-size:18px;color:#403f41;line-height:17px;">Patriotic drinks overtake DC</div><span style="font-size: 11px;color:#7F8083;">2:15 pm</span> </div><div style=" clear: both;"></div></div>
-</div>
-
-</td></tr></tbody></table>
-</div>
-
-</div>
+    <div style="float:left;margin:17px 25px;width: 275px;" class="feedlink1">
+     <div style="width:33%;float:left;">
+     <a href="/index.php/the-feed/item/21828-granite-run-mall-to-house-a-dinosaur-museum" alt="Granite Run Mall to house a dinosaur museum"><img src="/components/com_flexicontent/uploads/dino_tracks.jpg" width="77px"></a>    
+     </div>
+      <div style="width:67%;float:left;">
+     <a href="/index.php/the-feed/item/21828-granite-run-mall-to-house-a-dinosaur-museum" alt="Granite Run Mall to house a dinosaur museum">Fossil-fueled</a><div class="feedteaser1">Mall hopes dino museum will draw customers</div><span style="font-size: 11px; color: rgb(127, 128, 131);">6:31 pm</span>    </div>    
+    </div>
+    </div>
 
     		</div>
     			<div class="thefeed_remaining">
     		<div class="art-nostyle">
-<div class="aidanews"><table style="border: 0px solid #C3C3C3;vertical-align:middle;height:110px; margin-top: 10px;"><tbody><tr><td width="40%" style="vertical-align:top;">
-<div style="clear: both; color:#000;float:left;margin-left:20px;width:150px;">
-
-<div style="margin-bottom:4px;"><span> <div style="font-weight: bold;text-decoration:none;font-size:15px;line-height:14px;"><a href="/index.php/the-feed/item/7664-fresh-start&amp;Itemid=23" title="Fresh start">Fresh start</a></div>  </span><div> <div style="font-size:15px;color:#403f41;">NYC housing director stepping in</div><span style="font-size: 11px;color:#7F8083;">4:52 pm</span> </div><div style=" clear: both;"></div></div>
-</div>
-
-</td><td width="40%" style="vertical-align:top;">
-<div style="clear: both; color:#000;float:left;margin-left:20px;width:150px;">
-
-<div style="margin-bottom:4px;"><span> <div style="font-weight: bold;text-decoration:none;font-size:15px;line-height:14px;"><a href="/index.php/the-feed/item/7661-foxwoods-deadline&amp;Itemid=&amp;Itemid=2323" title="Foxwoods deadline">Foxwoods deadline</a></div>  </span><div> <div style="font-size:15px;color:#403f41;">December 10 is final straw</div><span style="font-size: 11px;color:#7F8083;">4:43 pm</span> </div><div style=" clear: both;"></div></div>
-</div>
-
-</td></tr></tbody></table>
-</div>
-
-</div>
+    <div style="float:left;width:165px;margin:17px 10px 0 10px" class="feedlink2">
+        <a href="/index.php/the-feed/item/21840-prisoner-has-sentenced-commuted-after-36-years-philadelphia-considers-new-tobacco-regulations" alt="Prisoner has sentenced commuted after 36 years, Philadelphia considers new tobacco regulations">NewsWorks Tonight</a><div class="feedteaser2">Nightly broadcast begins at 6 p.m.</div><span style="font-size: 11px; color: rgb(127, 128, 131);">5:09 pm</span>       
+    </div>
+       <div style="float:left;width:165px;margin:17px 10px 0 10px" class="feedlink2">
+        <a href="/index.php/the-feed/item/21839-rulings-due-tuesday-in-duck-boat-crash-and-stop-and-frisk-suit" alt="Rulings due Tuesday in duck boat crash and stop-and-frisk suit">New chapter</a><div class="feedteaser2">Rulings due for duck boats, stop-and-frisk</div><span style="font-size: 11px; color: rgb(127, 128, 131);">4:47 pm</span>       
+    </div>
+    </div>
 
     		</div>
     	</div>
@@ -612,7 +645,10 @@ GA_googleFillSlot("Newsworks_HomePage_TheFeed_Logo_1");
 	</div>
 	<div class="header_support">
 	<div class="art-nostyle">
-<a href="https://secure2.convio.net/whyy/site/Donation2?3960.donation=form1&amp;df_id=3960"><img src="/images/support.png" align="right" style="margin:25px 20px 0 0;"></a></div>
+<div style="float:right;margin-right:5px;width:100px;"><a href="https://secure2.convio.net/whyy/site/Donation2?3960.donation=form1&amp;df_id=3960"><img src="/images/support.png" align="right" style="margin:25px 0px 0 0;"></a>
+</div>
+
+</div>
 		
 	</div>
 </div>
@@ -751,6 +787,7 @@ GA_googleFillSlot("Newsworks_HomePage_TheFeed_Logo_1");
 
 
 
+ 
 
 
 
@@ -763,7 +800,20 @@ GA_googleFillSlot("Newsworks_HomePage_TheFeed_Logo_1");
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<script type="text/javascript" language="javascript">
 			<!--
 			var sfolder = '';
@@ -908,7 +958,8 @@ style='text-decoration:none;'>Donate</a><br/>
 		</div>
 		
 
-			</div>
+				<img src="/images/newsworkslogo_normal.jpg" style="display:none;">
+	</div>
 
 
 
@@ -1005,62 +1056,23 @@ GA_googleFillSlot("Newsworks_Article_Button_POS_2");
 		    <div class="art-blockcontent-body">
 		<!-- block-content -->
 		
-		<div class="aidanews">
-<div style="clear: both; width:305px;margin-bottom:5px;">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 15px;text-decoration:none;padding-bottom:3px;"><a href="/index.php/local/item/7675-18sdprice" title="Liquor price increase on hold in Pa.">Liquor price increase on hold in Pa.</a></div>  </div><span> <span style="font-size: 11px;color:#7F8083;float:left;*padding-top:2px;"> November 18</span> <div style="float:left;*padding-top:2px;"><div style="font-size: 11px;color:#7F8083;float:left;"> -</div><div style="font-size: 11px;color:#7F8083;float:left;">Scott Detrow</div></div><div style="clear:both;margin-bottom:5px;"></div> </span><span style="padding-top: 5px;">A week after Pennsylvania Gov.-elect Tom Corbett criticized an impending liquor fee increase, the Liquor Control Board has decided to delay raising the price for six months.The increase, approved earlier this year, would bump</span><div style="float:left; "></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-<div style="clear: both; width:305px;margin-bottom:5px;">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 15px;text-decoration:none;padding-bottom:3px;"><a href="/index.php/local/item/7671-18spcasino" title="Foxwoods casino gets temporary reprieve">Foxwoods casino gets temporary reprieve</a></div>  </div><span> <span style="font-size: 11px;color:#7F8083;float:left;*padding-top:2px;"> November 18</span> <div style="float:left;*padding-top:2px;"><div style="font-size: 11px;color:#7F8083;float:left;"> -</div><div style="font-size: 11px;color:#7F8083;float:left;">Susan Phillips</div></div><div style="clear:both;margin-bottom:5px;"></div> </span><span style="padding-top: 5px;">State gaming regulators are giving the long-delayed south Philadelphia casino three weeks to get its chips in order, or it will lose its license.
-&nbsp;
-Foxwoods executives pleaded their case before Pennsylvania's Gaming Control</span><div style="float:left; "></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-<div style="clear: both; width:305px;margin-bottom:5px;">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 15px;text-decoration:none;padding-bottom:3px;"><a href="/index.php/local/item/7670-18cbfourloko" title="FDA ban on caffeinated malt liquor leads to spike in sales ">FDA ban on caffeinated malt liquor leads to spike in sales </a></div>  </div><span> <span style="font-size: 11px;color:#7F8083;float:left;*padding-top:2px;"> November 18</span> <div style="float:left;*padding-top:2px;"><div style="font-size: 11px;color:#7F8083;float:left;"> -</div><div style="font-size: 11px;color:#7F8083;float:left;">Carolyn Beeler</div></div><div style="clear:both;margin-bottom:5px;"></div> </span><span style="padding-top: 5px;">The Food and Drug Administration Wednesday sent warnings to four alcohol makers telling them to stop producing caffeinated malt liquors. The effective ban on the &nbsp;fruit-flavored, highly alcoholic drinks led to a rush on</span><div style="float:left; "></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-</div>
-
-
-		<!-- /block-content -->
-		
-				<div class="cleared"></div>
-		    </div>
-		</div>
-		
-		
-				<div class="cleared"></div>
-		    </div>
-		</div>
-		
-<div class="art-block">
-		    <div class="art-block-body">
-		
-				<div class="art-blockcontent">
-		    <div class="art-blockcontent-body">
-		<!-- block-content -->
-		
-		<div class="aidanews">
-<div style="clear: both; width:305px;margin-bottom:5px;">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 15px;text-decoration:none;padding-bottom:3px;"><a href="/index.php/local/item/7665-18mkdredging" title="Judge OKs more dredging in Delaware ">Judge OKs more dredging in Delaware </a></div>  </div><span> <span style="font-size: 11px;color:#7F8083;float:left;">November 18</span><div style="float:left;*padding-top:2px;"><div style="font-size: 11px;color:#7F8083;float:left;"> -</div><div style="font-size: 11px;color:#7F8083;float:left;">Meggan Kole</div></div><div style="clear:both;"></div> </span><div style="float:left; "></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-</div>
-
-
+		<div style="width:100%;float:left;margin: 10px 0 0;">
+    <div style="float:left;margin:-7px 0 10px;width: 100%;">
+               
+     <a href="/index.php/local/item/21851" alt="Police: Manayunk woman shot in head by husband " style=" color: #403F41;font-size: 15px;font-weight: bold;margin: 4px 0;" class="topstoriestitle">Police: Manayunk woman shot in head by husband </a><div style="width:100%;float:left;font-size: 11px; color: rgb(127, 128, 131);margin: 3px 0;">June 21&nbsp;-&nbsp;Megan Pinto </div><p>City police said a 52-year-old Manayunk man called them around 4:30 Monday afternoon to report he'd just shot and killed his wife. Police did not release the identities of the victim and suspect.&nbsp;
+But neighbors who&nbsp;<a href="/index.php/local/item/21851" style="color: #FAA634 !important;font-weight:bold;">More&nbsp;»</a></p>    </div>
+       <div style="float:left;margin:-7px 0 10px;width: 100%;">
+               
+     <a href="/index.php/local/item/21848" alt="Art lovers visit Barnes before collection moves to Philly" style=" color: #403F41;font-size: 15px;font-weight: bold;margin: 4px 0;" class="topstoriestitle">Art lovers visit Barnes before collection moves to Philly</a><div style="width:100%;float:left;font-size: 11px; color: rgb(127, 128, 131);margin: 3px 0;">June 20&nbsp;-&nbsp;Peter Crimmins</div><a href="/index.php/local/item/21848" title="Art lovers visit Barnes before collection moves to Philly"><img src="/components/com_flexicontent/uploads/barnes145-3.jpg" style="float:left;width:145px;margin:3px 6px 3px 0;"></a><p>These are the final days of Matisse and Renoir in Lower Merion.
+The renowned art collection at the Barnes Foundation will be on view until July 3, and then the galleries will close permanently while the&nbsp;<a href="/index.php/local/item/21848" style="color: #FAA634 !important;font-weight:bold;">More&nbsp;»</a></p>    </div>
+       <div style="float:left;margin:-7px 0 10px;width: 100%;">
+               
+     <a href="/index.php/local/item/21755" alt="Spared from life in prison by the governor, Philadelphian adjusts to life on the outside" style=" color: #403F41;font-size: 15px;font-weight: bold;margin: 4px 0;" class="topstoriestitle">Spared from life in prison by the governor, Philadelphian adjusts to life on the outside</a><div style="width:100%;float:left;font-size: 11px; color: rgb(127, 128, 131);margin: 3px 0;">June 20&nbsp;-&nbsp;Elizabeth Fiedler</div><a href="/index.php/local/item/21755" title="Spared from life in prison by the governor, Philadelphian adjusts to life on the outside"><img src="/components/com_flexicontent/uploads/werts_145x100.jpg" style="float:left;width:145px;margin:3px 6px 3px 0;"></a><p>This is the first summer one Philadelphian will spend outside of Graterford maximum-security in decades.&nbsp; In Pennsylvania, prisoners convicted of first or second degree murder, face mandatory life sentences without the possibility of parole.&nbsp;
+Sixty-year-old Tyrone&nbsp;<a href="/index.php/local/item/21755" style="color: #FAA634 !important;font-weight:bold;">More&nbsp;»</a></p>    </div>
+       <div style="float:left;margin:-7px 0 10px;width: 100%;">
+               
+     <a href="/index.php/local/item/21844" alt="With N.J. Senate OK, changes to public workers' benefits advance " style=" color: #403F41;font-size: 15px;font-weight: bold;margin: 4px 0;" class="topstoriestitle">With N.J. Senate OK, changes to public workers' benefits advance </a><div style="width:100%;float:left;font-size: 11px; color: rgb(127, 128, 131);margin: 3px 0;">June 20&nbsp;-&nbsp;Phil Gregory</div>    </div>
+        </div>
 		<!-- /block-content -->
 		
 				<div class="cleared"></div>
@@ -1096,71 +1108,11 @@ GA_googleFillSlot("Newsworks_Article_WideSkyscraper");
 		</div>
 		
 </div>
-<div style="width:100%;float:left;">
+<div class="blog_extended" style="width:100%;float:left;margin: 0 0 7px 0;padding: 0 0 7px 0;border-bottom: 1px solid #7f8083;">
 </div>
 <div style="width:100%;float:left;">
-<div class="art-block">
-		    <div class="art-block-body">
-		
-		<div class="art-blockheader">
-		     <div class="t">
-		Related Articles</div>
-		</div>
-		
-				<div class="art-blockcontent">
-		    <div class="art-blockcontent-body">
-		<!-- block-content -->
-		
-		<div class="aidanews"><div style="border-bottom:1px solid #7F8083;margin:0 0 15px;padding:0 0 10px;">
-<div style="clear: both; ">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 105%;"><a href="/index.php/mindmap-archive/item/7678-ronald-hovey" title="Ronald Hovey">Ronald Hovey</a></div>  </div><div style=" clear: both;"></div></div>
 </div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-<div style="clear: both; ">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 105%;"><a href="/index.php/mindmap-archive/item/7676-tara-howley" title="Tara Howley">Tara Howley</a></div>  </div><div style=" clear: both;"></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-<div style="clear: both; ">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 105%;"><a href="/index.php/about-us/item/7675-18sdprice" title="Liquor price increase on hold in Pa.">Liquor price increase on hold in Pa.</a></div>  </div><div style=" clear: both;"></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-<div style="clear: both; ">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 105%;"><a href="/index.php/about-us/item/7674-council-committee-advances-snow-sidewalk-bill" title="Council committee advances snow sidewalk bill">Council committee advances snow sidewalk bill</a></div>  </div><div style=" clear: both;"></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-<div style="clear: both; ">
-
-<div style="margin-bottom:4px;"><div> <div style="font-weight: bold; font-size: 105%;"><a href="/index.php/local/item/7671-18spcasino" title="Foxwoods casino gets temporary reprieve">Foxwoods casino gets temporary reprieve</a></div>  </div><div style=" clear: both;"></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-</div>
-</div>
-
-
-		<!-- /block-content -->
-		
-				<div class="cleared"></div>
-		    </div>
-		</div>
-		
-		
-				<div class="cleared"></div>
-		    </div>
-		</div>
-		
+<div style="width:100%;float:left;">
 <div class="art-block">
 		    <div class="art-block-body">
 		
@@ -1183,60 +1135,43 @@ GA_googleFillSlot("Newsworks_Article_WideSkyscraper");
 </div>
 <div style="width:100%;float:left;">
 <div class="art-nostyle">
-<div style="color: #403f41; font-size: 22px; font-variant: normal; font-weight: normal; height: 26px; line-height: 36px; margin: 10px 0 0; padding: 0px; text-decoration: none; text-transform: uppercase; white-space: nowrap;"><a href="/index.php/blog">Blogs</a></div></div>
+<div style="color: #403f41; font-size: 22px; font-variant: normal; font-weight: normal; height: 26px; line-height: 36px; margin: 10px 0 0; padding: 0px; text-decoration: none; text-transform: uppercase; white-space: nowrap;width:100%;float:left;margin: 0 0 10px;"><a href="/index.php/blog">Blogs</a></div></div>
 <div class="art-nostyle">
-<div class="smallmodule"><a href="/index.php?option=com_flexicontent&amp;view=category&amp;cid=17%3Aim-just-saying&amp;Itemid=54">Off Mic</a></div>
-<div class="aidanews">
-<div style="clear: both; margin-top:-7px;">
-
-<div style="margin-bottom:4px;"><div>  </div><span style="float:left; padding: 0px; margin: 7px 3px -2px 0; border: 0px solid #C3C3C3;"><a href="/index.php/off-mic/item/7666-the-cradle-of-liberty-not"><img src="/images/stories/dave_davies-80x80px.jpg" alt="Cradle of liberty - not" title="Cradle of liberty - not" border="0" height="58px"></a></span><span> <div style="font-weight: bold; font-size: 13px;color:#403F41;margin-top:4px;"><a href="/index.php/off-mic/item/7666-the-cradle-of-liberty-not" title="Cradle of liberty - not">Cradle of liberty - not:</a></div>  </span><span style="padding-top: 10px;">Within a few steps of the birthplace of our liberties,<span style="font-weight:bold; padding: 0; margin: 0;"><a href="/index.php/off-mic/item/7666-the-cradle-of-liberty-not" style="color:#FAA634 !important;"> More »</a></span> </span><div style="font-size:11px;color:#7F8083; clear: both;"></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-</div>
-
-</div>
+<div class="smallmodule"><a href="/index.php/off-mic">Dave Davies Off Mic</a></div>
+    <div style="float:left;margin:-7px 0 10px;width: 100%;">
+          <div style="color: #7F8083;font-size: 11px;margin:0 0 5px;">Dave Davies</div>
+          <a href="/index.php/off-mic/item/21423" alt="Gone fishin"><img src="/images/stories/dave_davies-80x80px.jpg" width="58px" style="float:left;margin:1px 3px -2px 0;"></a>    
+     <a href="/index.php/off-mic/item/21423" alt="Gone fishin" style=" color: #403F41;font-size: 13px;font-weight: bold;margin-top: 4px;">Gone fishin</a>:<br><span>I'll be away for a week, on a family vacation.
+Keep&nbsp;<a href="/index.php/off-mic/item/21423" style="color: #FAA634 !important;font-weight:bold;">More&nbsp;»</a></span>    </div>
+    </div>
 <div class="art-nostyle">
-<div class="smallmodule"><a href="/index.php?option=com_flexicontent&amp;view=category&amp;cid=65&amp;Itemid=54">National Interest</a></div>
-<div class="aidanews">
-<div style="clear: both; margin-top:-7px;">
-
-<div style="margin-bottom:4px;"><div>  </div><span style="float:left; padding: 0px; margin: 7px 3px -2px 0; border: 0px solid #C3C3C3;"><a href="/index.php/national-interest/item/7605-no-on-national-security"><img src="/images/stories/dick-polman_80x80.jpg" alt="No on national security" title="No on national security" border="0" height="58px"></a></span><span> <div style="font-weight: bold; font-size: 13px;color:#403F41;margin-top:4px;"><a href="/index.php/national-interest/item/7605-no-on-national-security" title="No on national security">No on national security:</a></div>  </span><span style="padding-top: 10px;">Just imagine what would happen, politically speaking, if the Senate<span style="font-weight:bold; padding: 0; margin: 0;"><a href="/index.php/national-interest/item/7605-no-on-national-security" style="color:#FAA634 !important;"> More »</a></span> </span><div style="font-size:11px;color:#7F8083; clear: both;"></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-</div>
-
-</div>
+<div class="smallmodule"><a href="/index.php/blogs/brandywine-to-broad">Brandywine to Broad</a></div>
+    <div style="float:left;margin:-7px 0 10px;width: 100%;">
+          <div style="color: #7F8083;font-size: 11px;margin:0 0 5px;">Jan C. Ting</div>
+          <a href="/index.php/blogs/brandywine-to-broad/item/21777" alt="Obama administration promises even less enforcement of U.S. immigration laws"><img src="/images/stories/ting77x77.jpg" width="58px" style="float:left;margin:1px 3px -2px 0;"></a>    
+     <a href="/index.php/blogs/brandywine-to-broad/item/21777" alt="Obama administration promises even less enforcement of U.S. immigration laws" style=" color: #403F41;font-size: 13px;font-weight: bold;margin-top: 4px;">Obama administration promises even less enforcement of U.S. immigration laws</a>:<br><span>Although the Obama administration has been trying to limit its&nbsp;<a href="/index.php/blogs/brandywine-to-broad/item/21777" style="color: #FAA634 !important;font-weight:bold;">More&nbsp;»</a></span>    </div>
+    </div>
 <div class="art-nostyle">
-<div class="smallmodule"><a href="/index.php?option=com_flexicontent&amp;view=category&amp;cid=87">Allen's Lane</a></div>
-<div class="aidanews">
-<div style="clear: both; margin-top:-7px;">
-
-<div style="margin-bottom:4px;"><div>  </div><span style="float:left; padding: 0px; margin: 7px 3px -2px 0; border: 0px solid #C3C3C3;"><a href="/index.php/allens-lane/item/7508-sis-boom-bah"><img src="/images/stories/jo-ann80x80.jpg" alt="Sis Boom Bah" title="Sis Boom Bah" border="0" height="58px"></a></span><span> <div style="font-weight: bold; font-size: 13px;color:#403F41;margin-top:4px;"><a href="/index.php/allens-lane/item/7508-sis-boom-bah" title="Sis Boom Bah">Sis Boom Bah:</a></div>  </span><span style="padding-top: 10px;">It was The Big Game last Saturday.
-No, not JoePa leading<span style="font-weight:bold; padding: 0; margin: 0;"><a href="/index.php/allens-lane/item/7508-sis-boom-bah" style="color:#FAA634 !important;"> More »</a></span> </span><div style="font-size:11px;color:#7F8083; clear: both;"></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-</div>
-
-</div>
+<div class="smallmodule"><a href="/index.php/national-interest">National Interest</a></div>
+    <div style="float:left;margin:-7px 0 10px;width: 100%;">
+          <div style="color: #7F8083;font-size: 11px;margin:0 0 5px;">Dick Polman</div>
+          <a href="/index.php/national-interest/item/21723" alt="Hither and yon"><img src="/images/stories/dick-polman_80x80.jpg" width="58px" style="float:left;margin:1px 3px -2px 0;"></a>    
+     <a href="/index.php/national-interest/item/21723" alt="Hither and yon" style=" color: #403F41;font-size: 13px;font-weight: bold;margin-top: 4px;">Hither and yon</a>:<br><span>I'm broadcasting today from a coffee shop high in the&nbsp;<a href="/index.php/national-interest/item/21723" style="color: #FAA634 !important;font-weight:bold;">More&nbsp;»</a></span>    </div>
+    </div>
 <div class="art-nostyle">
-<div class="smallmodule"><a href="/index.php/blogs/16-center-square">Centre Square</a></div>
-<div class="aidanews">
-<div style="clear: both; margin-top:-7px;">
-
-<div style="margin-bottom:4px;"><div> <div style="font-size:11px;color:#7F8083;">Chris Satullo</div> </div><span style="float:left; padding: 0px; margin: 7px 3px -2px 0; border: 0px solid #C3C3C3;"><a href="/index.php/centre-square/item/7258-welcome-to-newsworks"><img src="/images/stories/chris.jpg" alt="Welcome to NewsWorks" title="Welcome to NewsWorks" border="0" height="58px"></a></span><span> <div style="font-weight: bold; font-size: 13px;color:#403F41;margin-top:4px;"><a href="/index.php/centre-square/item/7258-welcome-to-newsworks" title="Welcome to NewsWorks">Welcome to NewsWorks:</a></div>  </span><span style="padding-top: 10px;">Today, WHYY debuts a new Web site whose motto sums<span style="font-weight:bold; padding: 0; margin: 0;"><a href="/index.php/centre-square/item/7258-welcome-to-newsworks" style="color:#FAA634 !important;"> More »</a></span> </span><div style="font-size:11px;color:#7F8083; clear: both;"></div></div>
-</div>
-<!--<div style="font-size:1px;clear:both; height: 1px; width: 100%;margin-bottom:0px;">&nbsp;</div>-->
-
-
-</div>
-
-</div>
+<div class="smallmodule"><a href="/index.php/blogs/16-centre-square">Centre Square</a></div>
+    <div style="float:left;margin:-7px 0 10px;width: 100%;">
+          <div style="color: #7F8083;font-size: 11px;margin:0 0 5px;">Chris Satullo</div>
+          <a href="/index.php/blogs/centre-square/item/21779" alt="If books fade away, can we call the iPad progress?"><img src="/images/stories/chris.jpg" width="58px" style="float:left;margin:1px 3px -2px 0;"></a>    
+     <a href="/index.php/blogs/centre-square/item/21779" alt="If books fade away, can we call the iPad progress?" style=" color: #403F41;font-size: 13px;font-weight: bold;margin-top: 4px;">If books fade away, can we call the iPad progress?</a>:<br><span>I am definitely not the type of person a tech&nbsp;<a href="/index.php/blogs/centre-square/item/21779" style="color: #FAA634 !important;font-weight:bold;">More&nbsp;»</a></span>    </div>
+    </div>
+<div class="art-nostyle">
+<div class="smallmodule"><a href="/index.php/blogs/ground-level">Ground Level</a></div>
+    <div style="float:left;margin:-7px 0 10px;width: 100%;">
+          <div style="color: #7F8083;font-size: 11px;margin:0 0 5px;">Nicole Juday</div>
+          <a href="/index.php/blogs/ground-level/item/21665" alt="Real food- it's back"><img src="/images/stories/nicole-juday.jpg" width="58px" style="float:left;margin:1px 3px -2px 0;"></a>    
+     <a href="/index.php/blogs/ground-level/item/21665" alt="Real food- it's back" style=" color: #403F41;font-size: 13px;font-weight: bold;margin-top: 4px;">Real food- it's back</a>:<br><span>In the classical and religious traditions, spring is a time&nbsp;<a href="/index.php/blogs/ground-level/item/21665" style="color: #FAA634 !important;font-weight:bold;">More&nbsp;»</a></span>    </div>
+    </div>
 <div class="art-nostyle">
 <p style="margin-top:15px;"><a href="/index.php/blog" style="color: #faa634 !important; font-weight: bold;">More Blogs »</a></p></div>
 </div>
@@ -1265,7 +1200,7 @@ No, not JoePa leading<span style="font-weight:bold; padding: 0; margin: 0;"><a h
 <a style="color: #ffffff;" href="http://www.whyy.org/91FM/">Audio</a><br>
 <a style="color: #ffffff;" href="http://www.whyy.org/tv12/">Video</a>
 </div>
-<div style="width: 100%; float: left; margin-top: 10px;"><a href="http://www.cpb.org/" target="_blank"><img src="/images/cpblogo.png" style="float: left; border: 0;" border="0"></a></div> </div>
+<div style="width: 100%; float: left; margin-top: 10px;"><a href="http://www.cpb.org/" target="_blank"><img src="/images/cpblogo.png" style="float: left; border: 0;" border="0" alt="CPB"></a></div> </div>
     <div class="footer-inner-right2">
  <div style="width: 100%; float: left; color: #fdb913; text-align: left;"><strong>NEWSWORKS</strong></div>
 <div style="width: 145px; margin-right: 15px; float: left; color: #ffffff; text-align: left; line-height: 16px;"><a style="color: #ffffff;" href="/index.php/about-us">About Us</a><br> <a style="color: #ffffff;" href="/index.php/about-us/item/6426">Terms of Service</a><br> <a style="color: #ffffff;" href="http://www.whyy.org/underwriting/index.html">Advertise</a><br> <a style="color: #ffffff;" href="/index.php/about-us/item/6444">Privacy Statement</a><br> <a style="color: #ffffff;" href="http://whyy.org/about/employment.html">Jobs at NewsWorks</a><br> <a style="color: #ffffff;" href="/index.php/about-us/item/6445">Discussion Rules</a><br><a style="color: #ffffff;" href="/index.php/component/content/article/6739">RSS Feeds</a></div> </div>
@@ -1288,5 +1223,6 @@ No, not JoePa leading<span style="font-weight:bold; padding: 0; margin: 0;"><a h
 </div>
 
 </div>
+
  
 </div></div></body></html>
