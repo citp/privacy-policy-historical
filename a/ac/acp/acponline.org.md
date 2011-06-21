@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219161601id_/http%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621071746id_/http%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
 
 # ACP - ACP Privacy Policy
 
@@ -44,7 +44,7 @@ Personal information is information that can be used to identify or contact you.
 
 _Important note for College members_ : ACP maintains a membership database independent of its web operations. The information in this database is drawn from membership applications, dues payment forms, product orders and other transactions between the College and its members. Using this database, the College occasionally shares member data with other organizations. You may instruct the College not to share your personal information by contacting Customer Service at 1-800-523-1546 or [custserv@acponline.org](mailto:custserv@acponline.org). In rare instances, personal information may be disclosed for legal or other reasons; these circumstances are noted at the end of this document.
 
-The College will not share your e-mail address with any other organization. From time to time, the College may send you e-mail regarding items of interest to the membership, including urgent health matters.
+The College uses member e-mail addresses for the sole purpose of conducting College business and for communicating with College members. The College will not sell or lease your e-mail address to other persons or organizations. 
 
 **How information is used**
 
