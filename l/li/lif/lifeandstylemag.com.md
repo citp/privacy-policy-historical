@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeandstylemag.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228012540id_/http%3A//www.lifeandstylemag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeandstylemag.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621025936id_/http%3A//www.lifeandstylemag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Life and Style
 
@@ -6,7 +6,7 @@
 
 ###  **lifeandstylemag.com** Privacy Policy
 
-We know that safeguarding your privacy is serious business. Your privacy is very important to us.  Please take a moment to read this privacy policy so that you understand how we collect, use and disclose information about you.  As we update and expand our services, this policy might change, so please check it out from time to time. If we update this privacy policy, the “last updated” line above will be revised.  If you have questions about our privacy policy, please e-mail us at privacypolicy@bauerpublishing.com 
+We know that safeguarding your privacy is serious business. Your privacy is very important to us.  Please take a moment to read this privacy policy so that you understand how we collect, use and disclose information about you.  As we update and expand our services, this policy might change, so please check it out from time to time. If we update this privacy policy, the “last updated” line above will be revised.  If you have questions about our privacy policy, please e-mail us at contactus@lifeandstylemag.com 
 
 **Your continued use of lifeandstylemag.com (the “Website”) or submission of any information to us is consent to this Privacy Policy and the lifeandstylemag.com Terms of Use.   If you do not agree to these terms, please do not use our website.**
 
@@ -14,7 +14,7 @@ We know that safeguarding your privacy is serious business. Your privacy is very
 
 Pursuant to California Civil Code Section 1798.83, you may request the following information, which will be provided to you via either a writing or e-mail free of charge: (1) a list of the categories of personal information disclosed by lifeandstylemag.com to third parties for the third parties’ direct marketing purposes during the immediately preceding calendar year and (2) the names and addresses of all third parties that received personal information from lifeandstylemag.com for the third parties’ direct marketing purposes during the preceding calendar year and, if the nature of the third parties’ business cannot reasonably be determined from the third parties’ name, examples of the products or services marketed, if known to lifeandstylemag.com, sufficient to give you a reasonable indication of the nature of the third parties’ business.
 
-Consumer requests for this information should be sent to privacypolicy@bauerpublishing.com.
+Consumer requests for this information should be sent to contactus@lifeandstylemag.com.
 
 **What types of personal information does lifeandstylemag.com collect?**
 
@@ -90,7 +90,7 @@ We also reserve the right to change or update this policy, or any other policy o
 
 **How can you correct or update your Personal Information?**
 
-If you would like to correct or update Personal Information you previously provided to lifeandstylemag.com, you can let us know by sending us an e-mail at privacypolicy@bauerpublishing.com or mailing a letter to our postal address listed below. 
+If you would like to correct or update Personal Information you previously provided to lifeandstylemag.com, you can let us know by sending us an e-mail at contactus@lifeandstylemag.com or mailing a letter to our postal address listed below. 
 
 **How can you contact lifeandstylemag.com?  
 **  
@@ -98,5 +98,5 @@ If you have any questions about our Privacy Policy, the practices of this Websit
 
 lifeandstylemag.com  
 270 Sylvan Avenue Englewood Cliffs, NJ 07632  
-privacypolicy@bauerpublishing.com   
+contactus@lifeandstylemag.com   
 (201) 569-6699 ****
