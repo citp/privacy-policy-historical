@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilicity.ca privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216224614id_/http%3A//mobilicity.ca/uploads/pdfs/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilicity.ca privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621061255id_/http%3A//mobilicity.ca/uploads/pdfs/privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -58,9 +58,11 @@ We use a variety of physical, electronic, and procedural safeguards to protect p
 information. We do not warrant that the safeguards we implemented are sufficient to protect
 Personal Information you transmit over the internet. Most of your Personal Information are store
 within Canada. Some companies providing services to Mobilicity may be located outside of
-Canada and your Personal Information may be stored in those jurisdictions. For further
-information, please contact us at 101 Exchange Avenue, Vaughan, Ontario, Canada L4K 5R6
-Attention: Privacy or emailing us at privacy@mobilicity.ca.
+Canada (including the U.S.A.) and your Personal Information may be stored in those jurisdictions
+and as such, your Personal Information may be made available to the government or its agencies
+under a lawful order made in that country (including the U.S.A.). For further information, please
+contact us at 101 Exchange Avenue, Vaughan, Ontario, Canada L4K 5R6 Attention: Privacy or
+emailing us at privacy@mobilicity.ca.
 YOUR CONSENT
 You are consenting to the collection, use and disclosure of your Personal Information by
 providing us, our dealers or such other third parties with your Personal Information. We may
