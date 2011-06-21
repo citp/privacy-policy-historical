@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1st-international.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226140719id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1st-international.com privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621072651id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -10,7 +10,79 @@
 	<title>Privacy statement</title>
 	<link href="templates/tmpl_1st/main.css" rel="stylesheet" type="text/css">
 	<script src="js/functions.js" type="text/javascript" language="javascript"></script>
+<script src="/js/jquery-1.5.2.min.js" type="text/javascript" language="javascript"></script>
+<script src="/js/ui/jquery-ui-1.8.11.min.js" type="text/javascript" language="javascript"></script>
+<link type="text/css" href="/js/ui/css/ui-lightness/jquery-ui-1.8.11.custom.css" rel="stylesheet">
+<style type="text/css">
+ body { font-size: 62.5%; }
+ input.qj { margin-bottom:12px; width:95%; padding: .4em; border:0; display:block; }
+ select.qj { margin-bottom:12px; padding: .4em; border:0; display:block; }
+ label.qj { display:block; }
+ fieldset.qj { padding:0; border:0; margin-top:15px; }
+ .ui-dialog .ui-state-error { padding: .3em; }
+ .validateTips { border: 1px solid transparent; padding: 0.3em; }
+</style>
+<script language="JavaScript" type="text/javascript">
+function QuickJoin()
+{ 
+ $('#qj-form').dialog('open');
+}
 
+$(function() {
+ $( "#qjDateOfBirth" ).datepicker({ changeMonth: true, changeYear: true, minDate: "-70Y", maxDate: "-18Y", yearRange: 'c-70:c+70' });
+ $( "#qjDateOfBirth" ).datepicker( "option", "dateFormat", 'yy-mm-dd' );
+});
+
+$(function() {
+
+$("#qj-form").dialog({
+ autoOpen: false,
+ height: 500,
+ width: 360,
+ modal: true,
+ buttons: {
+  'Join': function() {
+    $("#qjSex").removeClass( "ui-state-error" );
+    $("#qjDateOfBirth").removeClass( "ui-state-error" );
+    $("#qjCountry").removeClass( "ui-state-error" );
+    $("#qjCity").removeClass( "ui-state-error" );
+    $("#qjNickName").removeClass( "ui-state-error" );
+    $("#qjEmail").removeClass( "ui-state-error" );
+    $("#qjPassword").removeClass( "ui-state-error" );
+    $.ajax({
+    type: "POST",
+    url: "ajax.action.php",
+    data: { ajaxaction: 'qj', Sex: $("#qjSex").val(), DateOfBirth: $("#qjDateOfBirth").val(), Country: $("#qjCountry").val(), City: $("#qjCity").val(), NickName: $("#qjNickName").val(), Email: $("#qjEmail").val(), Password: $("#qjPassword").val() },
+    dataType: "xml",
+    success: QJpostform
+   });
+  },
+  'Close': function() {
+   $(this).dialog('close');
+  }
+ }
+});
+});
+
+function updateTips( t ) {
+ $( ".validateTips" ).text( t ).addClass( "ui-state-highlight" );
+ setTimeout(function() { $( ".validateTips" ).removeClass( "ui-state-highlight", 1500 ); }, 500 );
+}
+
+function QJpostform(xml)
+{
+ if ($('error', xml).text()=='1')
+ {
+  eval('o=$("#qj'+$('field', xml).text()+'")');
+  o.addClass( "ui-state-error" );
+  updateTips( $('text', xml).text() );
+ } else
+ {
+//  $("#qj-form").dialog('close');
+  document.location.href='/member.php';
+ }
+}
+</script>
 </head>
 <body>
 
@@ -41,10 +113,10 @@
 	<div id="right">
 		<div id="block" class="menu">
 			<img src="/templates/tmpl_1st/images/spacer.gif">
-			<table border="0" cellspacing="0" cellpadding="3" class="text"><tbody><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image5757" alt="Homepage" border="0" onmouseout="javascript:Image5757.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image5757.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/index.php" onmouseout="javascript:Image5757.src
-='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image5757.src='/templates/tmpl_1st/images/active.gif';">Homepage</a></b></td></tr><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image6682" alt="Recherche" border="0" onmouseout="javascript:Image6682.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image6682.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/search.php" onmouseout="javascript:Image6682.src
-='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image6682.src='/templates/tmpl_1st/images/active.gif';">Recherche</a></b></td></tr><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image7764" alt="Evaluer Les Photos" border="0" onmouseout="javascript:Image7764.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image7764.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/rate.php" onmouseout="javascript:Image7764.src
-='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image7764.src='/templates/tmpl_1st/images/active.gif';">Evaluer Les Photos</a></b></td></tr></tbody></table>
+			<table border="0" cellspacing="0" cellpadding="3" class="text"><tbody><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image5185" alt="Homepage" border="0" onmouseout="javascript:Image5185.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image5185.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/index.php" onmouseout="javascript:Image5185.src
+='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image5185.src='/templates/tmpl_1st/images/active.gif';">Homepage</a></b></td></tr><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image7583" alt="Search" border="0" onmouseout="javascript:Image7583.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image7583.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/search.php" onmouseout="javascript:Image7583.src
+='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image7583.src='/templates/tmpl_1st/images/active.gif';">Search</a></b></td></tr><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image2421" alt="Rate Photos" border="0" onmouseout="javascript:Image2421.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image2421.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/rate.php" onmouseout="javascript:Image2421.src
+='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image2421.src='/templates/tmpl_1st/images/active.gif';">Rate Photos</a></b></td></tr></tbody></table>
 		</div>
 	</div>
 	<div id="span">&nbsp;</div>
@@ -139,47 +211,44 @@ USA </strong></p>
 	</div>
 	<div id="right">
 		<div id="block" class="custommenu">
-			<table border="0" cellspacing="0" cellpadding="3" class="text"><tbody><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image9869" alt="Enregistrement Gratuit" border="0" onmouseout="javascript:Image9869.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image9869.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/join_form.php" onmouseout="javascript:Image9869.src
-='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image9869.src='/templates/tmpl_1st/images/active.gif';">Enregistrement Gratuit</a></b></td></tr><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image4152" alt="Connexion" border="0" onmouseout="javascript:Image4152.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image4152.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/member.php" onmouseout="javascript:Image4152.src
-='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image4152.src='/templates/tmpl_1st/images/active.gif';">Connexion</a></b></td></tr></tbody></table>
+			<table border="0" cellspacing="0" cellpadding="3" class="text"><tbody><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image3628" alt="Sign Up Free" border="0" onmouseout="javascript:Image3628.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image3628.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/join_form.php" onmouseout="javascript:Image3628.src
+='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image3628.src='/templates/tmpl_1st/images/active.gif';">Sign Up Free</a></b></td></tr><tr><td width="19" valign="middle" align="right"><img src="/templates/tmpl_1st/images/passive.gif" width="16" height="16" name="Image7167" alt="Log In" border="0" onmouseout="javascript:Image7167.src='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image7167.src='/templates/tmpl_1st/images/active.gif';"></td><td valign="middle" align="left" width="141">&nbsp;<b><a class="membermenu" href="http://www.1st-international.com/member.php" onmouseout="javascript:Image7167.src
+='/templates/tmpl_1st/images/passive.gif';" onmouseover="javascript:Image7167.src='/templates/tmpl_1st/images/active.gif';">Log In</a></b></td></tr></tbody></table>
 			
 		</div>
 		<div id="block" class="login">
 			<div id="head">
-				Connexion Membre
+				Member Login
 			</div>
 			<div id="content">
 				<img src="/templates/tmpl_1st/images/spacer.gif">
 				<table class="REGULAR" align="center" cellpadding="0" cellspacing="0">
                                     		<form action="member.php" method="post"></form>
-                                            <tbody><tr><td>Pseudo:</td></tr>
+                                            <tbody><tr><td>Nickname:</td></tr>
                                             <tr><td align="center"><input class="no" size="12" name="ID"></td></tr>
-                                            <tr><td>Mot de passe:</td></tr>
+                                            <tr><td>Password:</td></tr>
                                             <tr><td align="center"><input class="no" type="password" size="12" name="Password"></td></tr>
-                                            <tr><td align="center"><input class="button" type="submit" value="connexion"></td></tr>
+                                            <tr><td align="center"><input class="button" type="submit" value="log in"></td></tr>
 											
                                         </tbody></table>
 			</div>
 		</div>
 		<div id="block" class="latest_news">
 				<!-- tmpl_1st_designbox.html -->
-<!-- start box Dernières nouvelles -->
+<!-- start box latest news -->
 <div id="box">
 	<div id="title">
-		Dernières nouvelles
+		latest news
 	</div>
 	<div id="content">
 		<table width="100%" border="0" cellpadding="4" cellspacing="4" class="text"><tbody><tr><td valign="top"><table cellpadding="0" cellspacing="0" class="text" border="0" valign="top">
 <tbody><tr><td width="16"><img src="/templates/tmpl_1st/images/pin.gif" width="16" height="18"></td>
-<td width="100%"><b>&nbsp;<a href="http://www.1st-international.com/news_view.php?ID=23">13 Feb Happy Valentine's Day</a></b></td></tr><tr><td height="1" class="index_news_0" colspan="2"><img src="/templates/tmpl_1st/images/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="2"><div align="justify">Happy Valentine's Day!
-
-The spring is on its way!  And hopefully so is love and romance for each a...</div></td></tr><tr><td height="1" class="index_news_1" colspan="2"><img src="/templates/tmpl_1st/images/spacer.gif" width="1" height="1"></td></tr></tbody></table><br><table cellpadding="0" cellspacing="0" class="text" border="0" valign="top">
+<td width="100%"><b>&nbsp;<a href="http://www.1st-international.com/news_view.php?ID=40">18 May Russian Ballet Is Returning Home</a></b></td></tr><tr><td height="1" class="index_news_0" colspan="2"><img src="/templates/tmpl_1st/images/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="2"><div align="justify">Russian ballet is finally returning to its historic home, the Bolshoi Theater. An iconic symbol of R...</div></td></tr><tr><td height="1" class="index_news_1" colspan="2"><img src="/templates/tmpl_1st/images/spacer.gif" width="1" height="1"></td></tr></tbody></table><br><table cellpadding="0" cellspacing="0" class="text" border="0" valign="top">
 <tbody><tr><td width="16"><img src="/templates/tmpl_1st/images/pin.gif" width="16" height="18"></td>
-<td width="100%"><b>&nbsp;<a href="http://www.1st-international.com/news_view.php?ID=22">22 Dec Merry Christmas !!!</a></b></td></tr><tr><td height="1" class="index_news_0" colspan="2"><img src="/templates/tmpl_1st/images/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="2"><div align="justify">Merry Christmas and Happy New Year to all our clients!
-It has been a great year for us! This year w...</div></td></tr><tr><td height="1" class="index_news_1" colspan="2"><img src="/templates/tmpl_1st/images/spacer.gif" width="1" height="1"></td></tr></tbody></table><br><br><div align="center"><a href="http://www.1st-international.com/news.php">Lire les İnformations archivées</a></div></td></tr></tbody></table>
+<td width="100%"><b>&nbsp;<a href="http://www.1st-international.com/news_view.php?ID=38">15 Mar Russia - Registration for foreigners simplified</a></b></td></tr><tr><td height="1" class="index_news_0" colspan="2"><img src="/templates/tmpl_1st/images/spacer.gif" width="1" height="1"></td></tr><tr><td colspan="2"><div align="justify">There is good news for people who often travel to Russia: since January 1, 2011 the state duty for m...</div></td></tr><tr><td height="1" class="index_news_1" colspan="2"><img src="/templates/tmpl_1st/images/spacer.gif" width="1" height="1"></td></tr></tbody></table><br><br><div align="center"><a href="http://www.1st-international.com/news.php">Read news in archive</a></div></td></tr></tbody></table>
 	</div>
 </div>
-<!-- end box Dernières nouvelles -->
+<!-- end box latest news -->
 			<div id="footer">&nbsp;</div>
 		</div>
 	</div>
@@ -195,7 +264,7 @@ It has been a great year for us! This year w...</div></td></tr><tr><td height="1
 
 <div id="menu" class="bot">
 	<div id="item" class="last">
-		<a href="/profile.php?Language=English&amp;ID=privacy" class="lang">English</a> | <a href="/profile.php?Language=Russian&amp;ID=privacy" class="lang">Русский</a> | <b>Français</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/terms.html">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/about_us.html#contact">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/privacy.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/faq.html">FAQ</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/refundpolicy.html">Refund Policy</a>
+		<b>English</b> | <a href="/profile.php?Language=Russian&amp;ID=privacy" class="lang">Русский</a> | <a href="/profile.php?Language=French&amp;ID=privacy" class="lang">Français</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/terms.html">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/about_us.html#contact">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/privacy.html">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/faq.html">FAQ</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/refundpolicy.html">Refund Policy</a>
 	</div>
 </div>
 
