@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradett.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102055826id_/http%3A//www.tradett.com/service/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradett.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621022651id_/http%3A//www.tradett.com/service/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,3 +34,5 @@ Meanwhile, you are strongly recommended to keep your Member ID and password on T
 **How to contact us?**
 
 Should you have any suggestion on our Privacy Policy, please contact us.
+
+All Offers/Products/Company Profiles/Images and other user-posted contents are posted by the user and Tradett shall not be held liable for any such content. However, Tradett respects the intellectual property, copyright, trademark, trade secret or any other personal or proprietary third party rights and expects the same from others. To see our intellectual property policy and for intellectual property rights [click here](http://www.tradett.com/ipr.html). 
