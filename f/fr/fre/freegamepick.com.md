@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamepick.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218105943id_/http%3A//www.freegamepick.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamepick.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621064932id_/http%3A//www.freegamepick.com/privacy.html) for the most accurate reproduction.*
 
 # Free Games — Privacy Policy
 
@@ -32,7 +32,7 @@ You agree that FreeGamePick.com may change this Privacy Policy at any time. If y
 
 7\. Contact Information
 
-If you have any questions or suggestions regarding our Privacy Policy, please use our [contact form](https://web.archive.org/web/20101218105943id_/http%3A//www.freegamepick.com/contact.html). 
+If you have any questions or suggestions regarding our Privacy Policy, please use our [contact form](https://web.archive.org/web/20110621064932id_/http%3A//www.freegamepick.com/contact.html). 
 
   
 All trademarks are the property of their respective owners. All Rights Reserved. 
