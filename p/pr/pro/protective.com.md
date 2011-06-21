@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protective.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221162552id_/http%3A//protective.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protective.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621053414id_/http%3A//www.protective.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Protective Life: Privacy Policy
 
