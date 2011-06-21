@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicarts.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326025510id_/http%3A//www.musicarts.com/MAC-Privacty-Policy-g20006t0.mac) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicarts.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621040552id_/http%3A//www.musicarts.com/MAC-Privacty-Policy-g20006t0.mac) for the most accurate reproduction.*
 
 # Privacy Policy | MAC
 
