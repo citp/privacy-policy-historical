@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdrewards.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220081035id_/http%3A//www.td.com/privacyandsecurity/privacycommitment/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdrewards.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621085446id_/http%3A//www.td.com/privacyandsecurity/privacycommitment/index.jsp) for the most accurate reproduction.*
 
 # TD Bank Financial Group - Privacy and Security - TD Privacy Highlights
 
@@ -10,6 +10,7 @@
   |   |  | [TD Privacy Code](https://web.archive.org/privacyandsecurity/privacycommitment/privacy.jsp)  
   |   |  | [TD Privacy Agreement](https://web.archive.org/privacyandsecurity/privacycommitment/agreement.jsp)  
   |  | [Report Online Fraud](https://web.archive.org/privacyandsecurity/reportfraud.jsp)  
+   
   
 |  Highlights This notice provides highlights of our [full Privacy Code](https://web.archive.org/privacy/privacy.jsp) and applies to personal information collected, used and disclosed by [TD Bank Financial Group](https://web.archive.org/privacy/privacy.jsp#m) (TDBFG).  | Personal Information  
 ---  
@@ -43,15 +44,17 @@ Important Information
   * TD has been ranked #1 by [Nymity Inc.](http://www.nymity.com/awards/2006.asp), Canada’s leading privacy research firm, for providing clear, complete and readily available privacy policies.
 
   
-|    
-|   
----  
- •  |  Speak to a representative at your branch or business unit   
- •  | 
+|  |  | 
 
-Telephone: 1-800-430-6095   
+#### How to Contact Us  
   
- •  |  Mail: Customer Feedback, Toronto-Dominion Centre, P.O. Box 193, Toronto, ON M5K 1H6  
+---|---  
+ •  | Speak to a representative at your branch or business unit  
+---|---  
+ •  | Telephone: 1-800-430-6095  
+ •  | Mail: Customer Feedback, Toronto-Dominion Centre, P.O. Box 193, Toronto, ON M5K 1H6  
  •  | Fax: 1-877-983-2932  
  •  | Email Us*:  
-[customerfeedback@td.com](mailto:customerfeedback@td.com)
+[customerfeedback@td.com](mailto:customerfeedback@td.com)  
+ •  | Questions related to TD Insurance:  
+1-888-791-5346
