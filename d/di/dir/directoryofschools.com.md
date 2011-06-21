@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the directoryofschools.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224104809id_/http%3A//www.directoryofschools.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofschools.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621023500id_/http%3A//www.directoryofschools.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Directory of Schools
+
+| 
 
 This privacy statement covers the website Directoryofschools.com. If you have questions or concerns regarding this notice, you should first contact us by email at privacy@Directoryofschools.com or by postal at: Directory of Schools LLC, 73 St. James Drive, Santa Rosa, CA 95403.
 
@@ -232,3 +234,5 @@ If you have any questions about the practices of the Directoryofschools.com you 
 **LIMITATION OF LIABILITY**
 
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (PRIVACY POLIC1INCLUDING LIMITATIONS ON DAMAGES0. YOU AGREE THAT THE OUR LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY US TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.
+
+| 
