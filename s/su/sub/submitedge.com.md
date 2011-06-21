@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231124420id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621053149id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
 
 # SubmitEdge Privacy Policies
 
@@ -124,6 +124,13 @@ Kush Infosystems Pvt. Ltd.,
 10777 Westheimer, Suit 1100   
 Houston, TX 77042.   
 USA. 
+
+Submit Edge,  
+24, Nand Deep Ind. Estate,  
+Kondivita, Andheri (E),  
+MUMBAI :400059   
+MAHARASHTRA  
+India
 
 Additional Policy Information
 
