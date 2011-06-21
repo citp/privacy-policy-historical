@@ -1,0 +1,398 @@
+<!--The following is the downloaded HTML source of the listablog.com privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621070746id_/http%3A//listablog.com/privacy_policy.html) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Free Blog Directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Gri/style/main.css">
+<meta name="keywords" content="Privacy Policy">
+<meta name="description" content="Privacy Policy for ListaBlog Free Blog Directory">
+<meta name="author" content="Your name / Company name">
+<meta name="copyright" content="Copyright (c) 2009 by YOUR NAME. All rights reserved!">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+</head>
+<body>
+<div class="wrapper">
+<div class="wrapperTop"></div>
+<script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://listablog.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<!--
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;" >
+<div id="panel" style="z-index: -1;" align="center">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();" class="cmxform" id="login_form">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table" >
+<tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text" />
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text" />
+</td>
+<td><input type="submit" name="login" value="Login" class="btn" /></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</table>
+<input type="hidden" name="formSubmitted" value="1" />
+</form>
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide" >
+<a href="" class="btn-slide" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</p>
+</div>
+</div>
+<div style="clear: both;"></div>
+-->
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+</div>
+<a href="" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</div>
+</div><div id="header"><div class="wrap"><center><a href="http://listablog.com/"><img src="http://listablog.com/templates/Gri/images/ListablogFreeBlogDirectory.png" alt="Free Blog Directory" title="Free Blog Directory" border="0"></a></center></div><div id="menu_top"><ul id="hz_menu"><li class="first"><a href="/" title="Free Blog Directory"></a></li><li><div class="separator"></div><a href="/submit.php" title="Submit your link to the directory">Submit Link</a></li><li><div class="separator"></div><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a></li><li><div class="separator"></div><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a></li><li><div class="separator"></div><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a></li><li><div class="separator"></div><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a></li><li><div class="separator"></div><a href="/contact.php" title="Contact directory owner">Contact</a></li><li class="last"> </li></ul><div id="feed"><a href="/rss.php?c= " title="RSS Feed"> </a></div></div><div class="center1"><div class="leftContainer" style="width: 215px; ">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<br>
+</ul>
+</div><div class="centerContainer"><div class="centerContainerM"><div class="path"><a href="/">ListaBlog Free Blog Directory</a> <img src="/templates/Gri/images/catHomeIcon.gif" alt=" - " align="absmiddle"> Privacy Policy</div><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
+<div class="sectionTop"></div><div class="sectionBottom"><table border="0" align="center" width="516" cellspacing="0" cellpadding="0"><tbody><tr><td class="smallDesc"><h1>Privacy Policy</h1>
+<p style="text-align: justify;">The protection of your privacy is something we take seriously here at ListaBlog Free Blog Directory. The information contained in this document will help you understand how we safeguard, collect and use the personal information you provide to us on our site.</p>
+<p style="text-align: justify;"><strong>Personal Information</strong><strong></strong></p>
+<p style="text-align: justify;">The definition of “personal information” in context to this privacy notice refers to any information that is provided by you, that may disclose whole or part of your identity. ListaBlog Free Blog Directory will only gather personal information that you provide us with, such as email addresses. We are committed to our no spam policy and will not sell any information that is collected from visitors to this website.</p>
+<p style="text-align: justify;">Personal information that you submit to us is only applied and used for it’s intended purpose. ListaBlog Free Blog Directory do not share information that personally identifies you with third party websites, organizations or other persons without your consent unless it is:</p>
+<p style="text-align: justify;"><strong>1.</strong> Necessary to provide you with a requested service.</p>
+<p style="text-align: justify;"><strong>2.</strong> Lawfully authorized or required.</p>
+<p style="text-align: justify;"><strong>3.</strong> Or utilized in the prevention or minimization of a serious and immediate threat to a party’s health.</p>
+<p style="text-align: justify;"><strong>Legal Disclaimer</strong><strong></strong></p>
+<p style="text-align: justify;">ListaBlog Free Blog Directory reserve the right to disclose information that personally identifies you as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a legal process, judicial proceeding or court order served on our Web site.</p>
+<p style="text-align: justify;"><strong>Collection Of Information</strong><strong></strong></p>
+<p style="text-align: justify;">As is true of most websites, ListaBlog Free Blog Directory gathers certain information automatically which gets stored in our log files. This information Includes click Stream data, internet protocol (IP) addresses, date/time stamp, browser type, referring/exit pages, internet service provider (ISP) and operating system data. Collected information will be used to research, analyze and evaluate trends and content featured on the website, in order to improve the services to our consumers. Website traffic, that is unable to be identified by person, is used in our data collection. ListaBlog Free Blog Directory may use your IP address to assist in the admistration and diagnosis of our website operations. We may also choose to use this information for purposes of gathering different forms of demographic data. Occasionally, we and other websites referred to may use cookies.</p>
+<p style="text-align: justify;"><strong>Cookies</strong><strong></strong></p>
+<p style="text-align: justify;">A small text file known as a cookie is something that is stored on the computer of the user and is used for the purpose of record-keeping. We use cookies on this site. ListaBlog Free Blog Directory do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may continue to use our site even if you choose to reject cookies, but your ability to use some areas of our site, such as contests or surveys, will be limited.</p>
+<p style="text-align: justify;">Some of our business partners (e.g., advertisers) use cookies on our site. We are unable to access these particular cookies and have no control over them whatsoever. See [Third Party Advertisers &amp; Links]. This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers. [See the "Third Party Advertisers" section].</p>
+<p style="text-align: justify;"><strong>Third Party Advertisers Links</strong><strong></strong></p>
+<p style="text-align: justify;">Our websites contain links to other sites that are not owned or controlled by us. Please be aware that ListaBlog Free Blog Directory are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. While we may use cookies in some parts of our website, cookies received with advertisements on our website are collected by the respective advertising companies, and we do not possess access to or control of such information gathered.</p>
+<p style="text-align: justify;">We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies: <a title="Google Privacy Center" href="http://www.google.com/privacy_ads.html" target="_blank">CLICK HERE</a></p>
+<p style="text-align: justify;"><strong>Specific Parties</strong><strong></strong></p>
+<ul style="text-align: justify;">
+<li>Google,      as a third party vendor, uses cookies to serve ads on this site.</li>
+<li>Google”s      use of the DART cookie enables it and its partners to serve ads to users      based on their visit to this site and/or other sites on the Internet.</li>
+<li>Users      may opt out of the use of the DART cookie by visiting the Google ad and      content network privacy policy.</li>
+</ul>
+<p style="text-align: justify;"><strong>Your Rights</strong><strong></strong></p>
+<p style="text-align: justify;">In regards to personally identifiable information, if this information changes, or if you would like to stop using our service, you may correct, update, delete or deactivate it by emailing ListaBlog Free Blog Directory or by postal mail at the contact information listed below. In order to protect the privacy of yourself and other parties, it is possible that we may require evidence of identification prior to allowing you access to information regarding you in order to retrieve or change it.</p>
+<p style="text-align: justify;"><strong>Change In Customer Internet Privacy Statement</strong><strong></strong></p>
+<p style="text-align: justify;">On occassion, ListaBlog Free Blog Directory may revise the contents of this Privacy Policy, if material changes are made to this policy, we will notify you here, either by email, or by means of a notice on our home page. Please check back periodically for any updates.</p></td></tr><tr><td></td></tr></tbody></table></div>
+<div style="clear: both"></div></div></div><div class="rightContainer">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="5">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Bookmark Blog Directory</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		
+<div style="width: 171px; margin: 0px auto; padding: 10px 0px;">
+<a href="http://www.addtoany.com/share_save" target="_blank">
+<img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Save/Bookmark">
+</a>
+</div>
+</div>
+</div>		</li>
+<li id="8">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Blog Directory Statistics</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxStats">
+<li><strong>Active Links:</strong> 13885</li>
+<li><strong>Todays Links:</strong> 58</li>
+<li><strong>Total Categories:</strong> 17</li>
+<li><strong>Sub Categories:</strong> 824</li>
+</ul>
+</div>
+</div>		</li>
+<li id="6">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Latest Featured Blog Links</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">			 <ul class="boxPopCats">
+<li>
+<a href="                                                /detail/margaret-river-guide-26678.php" title="Read more about: Margaret River Guide">Margaret River Guide</a>
+</li>
+<li>
+<a href="                                                /detail/ship-car-to-26677.php" title="Read more about: Ship Car To">Ship Car To</a>
+</li>
+<li>
+<a href="                                                /detail/car-import-australia-26676.php" title="Read more about: Car Import Australia">Car Import Australia</a>
+</li>
+</ul>
+</div>
+</div>		</li>
+<li id="7">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Latest Blog Links</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		 <ul class="boxPopCats">
+<li>
+<a href="                                            /detail/margaret-river-guide-26678.php" title="Read more about: Margaret River Guide">Margaret River Guide</a>
+</li>
+<li>
+<a href="                                            /detail/ship-car-to-26677.php" title="Read more about: Ship Car To">Ship Car To</a>
+</li>
+<li>
+<a href="                                            /detail/car-import-australia-26676.php" title="Read more about: Car Import Australia">Car Import Australia</a>
+</li>
+</ul>
+</div>
+</div>		</li>
+</ul>
+</div><div style="clear: both; height: 30px;"></div></div></div><div class="wrapperBottom"></div><div class="footer">ListaBlog <a href="http://listablog.com" title="Free Blog Directory">Free Blog Directory</a> © 2010<p><a href="http://listablog.com/submit.php" title="Submit a Link">Submit a Link</a> | <a href="http://aussieseo.com" title="SEO Australia">SEO Australia</a> | <a href="http://uwcblog.com" title="Free Blog Software">Free Blog Software</a> | <a href="http://listablog.com/rules.php" title="text">Submission Rules</a> | <a href="http://listablog.com/privacy_policy.html">Privacy Policy</a> | <a href="http://listablog.com/sitemap.xml">Sitemap</a></p></div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6195257-17']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div></body></html>
