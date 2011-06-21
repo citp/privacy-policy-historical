@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524081103id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621072005id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
 
-# MacKeeper | Privacy Policy
+# Privacy Policy
 
 #### Introduction
 
 We, ZeoBIT LLC (the "Company"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow the data protection law of California, United States, regarding your personal information. Our privacy policy applies to:
 
   * using the Company’s products and services,
-  * visiting the [http://www.mackeeper.com](http://www.mackeeper.com/) or [http://mackeeper.ZeoBIT.com](http://mackeeper.zeobit.com/) website,
+  * visiting the [http://MacKeeper.com](http://mackeeper.com/) or [http://MacKeeper.ZeoBIT.com](http://mackeeper.zeobit.com/) websites,
   * visiting any other linked pages or application services offered by the Company.
 
 
@@ -85,3 +85,15 @@ We will keep you up to date about any possible changes to our Privacy Policy. As
 #### Questions?
 
 We are open to any questions on this Privacy Policy. Please address all your concerns to email.
+
+### 1 (888) 572-5876
+
+Call us 24/7 with any questions.  
+TOLL free.
+
+**Live chat**
+
+Our representative will be happy to  
+answer any questions about MacKeeper
+
+[Start a Live Chat!](https://web.archive.org/support_livechat)
