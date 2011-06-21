@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927005259id_/http%3A//platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621124214id_/http%3A//platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
 
 # Platinum Server Management, Inc.
 
 _Platinum Server Management, Inc._ is dedicated to protecting your privacy and handling any personal information obtained from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
-
-_Platinum Server Management, Inc._ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.PlatinumServerManagement.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Customer Service at _Platinum Server Management, Inc._. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 In order to use this Web site, you must first complete the registration form. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site inwhich you have expressed interest.
 
