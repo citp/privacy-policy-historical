@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsocool.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220092810id_/http%3A//www.girlsocool.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsocool.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621070006id_/http%3A//www.girlsocool.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Girls Games - Dress Up Games - GirlSoCool.com!
 
