@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpopjr.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221190942id_/http%3A//www.brainpopjr.com/support/tech_support/privacy_policy.weml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpopjr.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622015207id_/http%3A//www.brainpopjr.com/support/tech_support/privacy_policy.weml) for the most accurate reproduction.*
 
 # privacy_policy
 
