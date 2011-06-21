@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noneedforschool.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216154632id_/https%3A//noneedforschool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noneedforschool.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621075520id_/http%3A//noneedforschool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
