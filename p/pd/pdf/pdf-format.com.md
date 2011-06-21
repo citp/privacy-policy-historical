@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-format.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926095803id_/http%3A//pdf-format.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-format.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621101431id_/http%3A//www.pdf-format.com/privacy.asp) for the most accurate reproduction.*
 
 # PDF Reader & Writer: view, create, modify, print PDF files
 
@@ -7,7 +7,7 @@
 
 ### _**Privacy Policy**_
 
-_Effective February 11, 2010_
+_Effective February 11, 2011_
 
 #### Changes to this Policy
 
@@ -47,4 +47,4 @@ We use a third party web analytics service to improve our web site performance a
 
 #### Contact Information
 
-[www.interactivebrands.com ](http://www.interactivebrands.com/)welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please [contact us.](https://web.archive.org/web/20100926095803id_/http%3A//pdf-format.com/support.asp)
+[www.interactivebrands.com ](http://www.interactivebrands.com/)welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please [contact us.](https://web.archive.org/web/20110621101431id_/http%3A//www.pdf-format.com/support.asp)
