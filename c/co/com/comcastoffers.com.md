@@ -1,27 +1,29 @@
-> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220094609id_/http%3A//www.comcastoffers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcastoffers.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621071555id_/http%3A//www.comcastoffers.com/privacy_policy) for the most accurate reproduction.*
 
-# Comcast High-Speed Internet | ComcastOffers.com
+# Privacy Policy | Comcast Offers
 
 Effective July 2007
 
-**ComcastOffers.com is committed to protecting your privacy.**
+ComcastOffers.com is committed to protecting your privacy.
 
 This Privacy Policy will provide information to you regarding how we collect and use your personal information, and about choices you have concerning our use of such information. Please read this Privacy Policy carefully. From time to time, we may revise this Privacy Policy to address new issues or changes to our practices. These changes will be posted here so that you will always know our privacy policies. Please check this Privacy Policy periodically to see if there have been any revisions.
 
-ComcastOffers.com is a Web site independently operated by Broadbandoffers.com under agreement with Comcast. Some offers brought to you by www.comcastoffers.com are not available directly from Comcast.
+ComcastOffers.com is a Web site independently operated by LeapfrogOnline.com under agreement with Comcast. Some offers brought to you by www.comcastoffers.com are not available directly from Comcast.
 
 If you have any questions or concerns about our privacy practices, please send us an e-mail at [comcastprivacy@customerservicesite.com](mailto:comcastprivacy@customerservicesite.com) or mail us at the following address:
 
-> **ComcastOffers.com**  
->  1555 Sherman Avenue  
->  Box 310   
->  Evanston, Illinois 60201  
->  ATTN: Director of Technology 
+ComcastOffers.com  
+1555 Sherman Avenue  
+Box 310  
+Evanston, Illinois 60201  
+ATTN: Director of Technology 
 
-**Scope of Privacy Policy**  
+## Scope of Privacy Policy
+
 This Privacy Policy applies to ComcastOffers.com's method of collection and use of information gathered by us for the customers that we serve on http://www.ComcastOffers.com (the "Web Site"). However, please note that the privacy practices of Comcast are not covered by this Privacy Policy. In addition, once you leave our Web Site via a link or otherwise, this Privacy Policy does not apply and ComcastOffers.com cannot and is not responsible for how data and information obtained from you on other Web sites is used by the operators of such Web sites.
 
-**Security**  
+## Security
+
 We believe that protecting the security of your Personal Information is very important. Therefore, we have put strong security measures in place to attempt to protect your Personal Information. Access to Personal Information is limited to ComcastOffers.com employees or other authorized individuals, and a limited number of our fulfillment partners. Identities are verified by internal network access rules and application username/password pairs. Data fields that identify individuals are separated from non-sensitive data fields. Data identifying Personal Information is encrypted through use of industry standard AES encryption methods and practices. Data decryption keys are kept physically separate from encryption keys and encrypted data. Records are marked with tamper-proof authentication digests.
 
 ComcastOffers.com requires internal users to use ComcastOffers.com's standardized methods of data transfer, encryption and storage. We encourage external parties, service providers and vendors to use our standardized methods of data transfer, encryption and storage, or an equivalent method.
@@ -32,12 +34,14 @@ Barriers erected to prevent potential breaches of secure information include a s
 
 No service provider/vendor/external party should be able to decrypt the encrypted data of any other service provider/vendor/external party should data be misdelivered.
 
-**Enforcement**  
+## Enforcement
+
 ComcastOffers.com monitors data center metrics on approximately a weekly basis. Network vulnerability testing and standard NOC monitoring are provided by the data center administration staff, with options for performing third-party security audits on demand. ComcastOffers.com performs full recovery tests prior to live deployment of a new application or server system. ComcastOffers.com performs recovery tests of backup media on a monthly to quarterly schedule to assure that existing backup regimes have created working recovery sets.
 
 ComcastOffers.com actively monitors current and upcoming regulatory and compliance issues through outside legal resources.
 
-**Information Collected by ComcastOffers.com**  
+## Information Collected by ComcastOffers.com
+
 Personal information ("Personal Information") may include the following:
 
   * name
@@ -59,34 +63,37 @@ We may also share Personal Information with our service providers and vendors. W
 
 We reserve the right to provide or use your Personal Information in the following circumstances. We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Web Site, or a physical threat to you or others.
 
-**Passively Collected Information and the Use of Cookie Technology**  
-Cookies are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies make web surfing easier for you by saving your preferences while you are at our site. We never save passwords or credit card information in cookies. By showing how and when a guest uses a site, cookies help us see which areas are popular and not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services that are tailored to our user's needs. While these activities may depend on the use of a cookie, visitors to ComcastOffers.com always have the option of disabling cookies via their browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. Use of cookies allows you to take full advantage of ComcastOffers.com's best features. Please note that some of the parts of ComcastOffers.com's web site may not function properly or may be considerably slower if you refuse cookies and, for all of these reasons, we recommend that you leave them turned on. We may share aggregate demographic/statistical information with our media partners, service providers and other third parties. In addition, ComcastOffers.com may allow some of our advertisers to display ads which solicit or contain technology to collect information about users.
+## Passively Collected Information and the Use of Cookie Technology
 
-**Privacy of Children**  
+Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make web surfing easier for you by saving your preferences while you are at our site. We never save passwords or credit card information in cookies. By showing how and when a guest uses a site, cookies help us see which areas are popular and not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services that are tailored to our user's needs. While these activities may depend on the use of a cookie, visitors to ComcastOffers.com always have the option of disabling cookies via their browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. Use of cookies allows you to take full advantage of ComcastOffers.com's best features. Please note that some of the parts of ComcastOffers.com's web site may not function properly or may be considerably slower if you refuse cookies and, for all of these reasons, we recommend that you leave them turned on. We may share aggregate demographic/statistical information with our media partners, service providers and other third parties. In addition, ComcastOffers.com may allow some of our advertisers to display ads which solicit or contain technology to collect information about users.
+
+## Privacy of Children
+
 We are committed to protecting the privacy of children. Neither the ComcastOffers.com Web Site nor ComcastOffers.com's activities are intended for or designed to attract children under the age of 13. We do not collect Personal Information from any person we actually know is a child under the age of 13.
 
-**Links to Other Web Sites**  
+## Links to Other Web Sites
+
 Our Web Site contains links to other Web sites operated by third parties that may be of interest to you. However, we do not and cannot control the information and content or links contained on these sites. We do not and cannot control the way in which these Web sites collect and/or use your Personal Information. Therefore, ComcastOffers.com disclaims any liability for any third party's use of your Personal Information obtained through using the third party Web site.
 
-**Access to Personal Information**  
+## Access to Personal Information
+
 Please note that certain information transmitted to ComcastOffers.com may not be later modified or retrieved by ComcastOffers.com. However, at your request, we will use reasonable efforts to provide you with access to your Personal Information (if we still retain it) and to revise, update or replace Personal Information that you inform us is in error. Please send us an e-mail at [comcastprivacy@customerservicesite.com](mailto:comcastprivacy@customerservicesite.com) to request access to any Personal Information that we have may have retained about you in our user database, to request a change in your Personal Information and/or to request us to inform our service providers of changes in your Personal Information. We cannot guarantee the actions of our service providers after we inform them of any changes.
 
 Certain Personal Information may be stored indefinitely so that Broadbandoffers.com can access data for any customer service issue as well as report on aggregate data.
 
-**Opt-Out**  
+## Opt-Out
+
 ComcastOffers.com provides you with the opportunity to opt-out of receiving communications from ComcastOffers.com at the point where information is requested of you. You also have the following options to prevent future communications from ComcastOffers.com:
 
   1. You can send an e-mail to [comcastoptout@customerservicesite.com](mailto:comcastoptout@customerservicesite.com).
   2. You can select "UNSUBSCRIBE" upon receiving an e-mail communication.
-  3. You can send mail to the following postal address:  
-
-
-> **ComcastOffers.com**  
->  1555 Sherman Avenue  
->  Box 310  
->  Evanston, Illinois  
->  60201  
->  ATTN: Director of Technology. 
+  3. You can send mail to the following postal address:  ComcastOffers.com  
+1555 Sherman Avenue  
+Box 310  
+Evanston, Illinois  
+60201  
+ATTN: Director of Technology. 
 
 
 
+©2011 ComcastOffers.com. All rights reserved.
