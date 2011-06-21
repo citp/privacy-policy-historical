@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estarland.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229095545id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estarland.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621202554id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # eStarland Privacy / Security Policy - Video Games & Anime Merchandise
 
@@ -32,9 +32,7 @@ While eStarland guards your information, it is important to keep your own comput
 
 **eStarland.com Site Security Statement**
 
-The security of all Transactions at eStarland.com is a top priority for our business. Our website is protected with **COMODO's 128-bit encryption technology** , which allows you to enjoy **the strongest possible online security** to assure that your credit card information and personal details are kept secure. You can shop with assurance that your order will be safe with us. 
-
-**eStarland carries COMODO's Secure Site Seal.** This is a globally recognized guarantee of a site’s security and commitment to its customer’s privacy. 
+The security of all Transactions at eStarland.com is a top priority for our business. Our website is protected with **Go Daddy's 256-bit encryption technology** , which allows you to enjoy **the strongest possible online security** to assure that your credit card information and personal details are kept secure. You can shop with assurance that your order will be safe with us. 
 
 Information that is received by eStarland is transmitted via Secure Sockets Layer technology and is stored on our secure server. The checkout page is a secure site that protects your personal information. 
 
