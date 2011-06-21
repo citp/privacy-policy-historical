@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cucusoft.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228082057id_/http%3A//www.cucusoft.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cucusoft.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621193841id_/http%3A//www.cucusoft.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/web/20101228082057id_/http%3A//www.cucusoft.com/) > Privacy Policy  
+[Home](https://web.archive.org/web/20110621193841id_/http%3A//www.cucusoft.com/) > Privacy Policy  
 
 
 * * *
@@ -88,7 +88,7 @@ International users Cucusoft abides by the safe harbor framework set forth by th
   
 
 
-Copyright © 2002-2010 Cucusoft, Inc. All rights reserved. | [Privacy Policy](https://web.archive.org/web/20101228082057id_/http%3A//www.cucusoft.com/PrivacyPolicy.asp) | [Terms of Use](https://web.archive.org/web/20101228082057id_/http%3A//www.cucusoft.com/TermsOfUse.asp) | [Sitemap](https://web.archive.org/web/20101228082057id_/http%3A//www.cucusoft.com/sitemap.aspx)  
+Copyright © 2002-2010 Cucusoft, Inc. All rights reserved. | [Privacy Policy](https://web.archive.org/web/20110621193841id_/http%3A//www.cucusoft.com/PrivacyPolicy.asp) | [Terms of Use](https://web.archive.org/web/20110621193841id_/http%3A//www.cucusoft.com/TermsOfUse.asp) | [Sitemap](https://web.archive.org/web/20110621193841id_/http%3A//www.cucusoft.com/sitemap.aspx)  
 iTunes, iPod, iPhone and iPad are registered trademarks of Apple® Inc.  
 Zune is registered trademarks of Microsoft® Corporation.  
 PSP is registered trademarks of Sony® Corporation.
