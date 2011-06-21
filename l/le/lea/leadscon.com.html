@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leadscon.com privacy policy that was archived on 2010-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101102211915id_/http%3A//www.leadscon.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leadscon.com privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621063126id_/http%3A//www.leadscon.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta name="verify-v1" content="q9Xv2Zj0ts5Yq91LX+Xn2ju6/XFKGp+bcXMSfuGLWkU=">
@@ -15,24 +15,31 @@
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.leadscon.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.leadscon.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="LeadsCon" href="http://www.leadscon.com">
+<link rel="prev" title="Terms and Conditions" href="http://www.leadscon.com/terms-and-conditions.html">
+<link rel="next" title="Register" href="http://www.leadscon.com/leadscon-las-vegas-2009/register.html">
 <link rel="canonical" href="http://www.leadscon.com/privacy-policy.html">
-<meta name="wassup-version" content="1.7.2.1">
 <script type="text/javascript">
 //<![CDATA[
 	var screen_res = "";
 	function writeCookie(name,value,hours) {
-		var the_cookie = name+"="+value+"; expires=";
+		var the_cookie = name+"="+escape(value)+"; expires=";
 		var expires = "";
 		hours=hours+0; //convert to number
 		if (hours > 0) { //0==expires on browser close
-			var date = new Date();
-			date.setTime(date.getTime()+(hours*60*60*1000));
-			expires = expires+date.toGMTString();
+			var cdate = new Date();
+			cdate.setTime(cdate.getTime()+(hours*60*60*1000));
+			expires = expires+cdate.toGMTString();
 		} 
 		document.cookie = the_cookie+expires+"; path=/; domain=";
 	}
-	screen_res = window.screen.width+"x"+window.screen.height;
-	writeCookie("wassup_screen_res",screen_res,"48"); //keep 2 days
+	screen_res = screen.width+" x "+screen.height;
+	if (screen_res==" x ") screen_res = window.screen.width+" x "+window.screen.height;
+	if (screen_res==" x ") screen_res = screen.availWidth+" x "+screen.availHeight;
+	if (screen_res!=" x ") { 
+		writeCookie("wassup_screen_res",screen_res,"48"); //keep 2 days
+	} else {
+		screen_res = "";
+	}
 //]]>
 </script>
 
@@ -62,12 +69,145 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 </script>
 <![endif]-->
 
+<script language="javascript" type="text/javascript">
+function ClearFields(aFieldSet) {
+var form1 = document.forms["form1"].elements;
+	if(aFieldSet == '1'){
+		form1["sn2"].value = '';
+		form1["email_box"].value = '';
+		form1["password_box"].value = '';
+		form1["provider_box"].value = '';
+		form1["fieldSet"].value = '1';
+	} else {
+		form1["sn"].value = '';
+		form1["se"].value = '';
+		form1["re"].value = '';
+		form1["fieldSet"].value = '0';
+	}
+
+}
+
+function ValidateForm(){
+var form1 = document.forms["form1"].elements;
+	if(form1["fieldSet"].value == '1'){
+		// CHECK SENDER NAME
+		if(IsEmpty(form1["sn"])){
+      		alert('Please enter your name.') 
+      		form1["sn"].focus(); 
+      		return false; 
+   		}
+		// CHECK SENDER EMAIL ADDRESS (NOT EMPTY)
+		if(IsEmpty(form1["se"])){
+      		alert('Please enter your email address.') 
+      		form1["se"].focus(); 
+      		return false; 
+   		}
+		// CHECK SENDER EMAIL ADDRESS (VALID)
+		if(!isValidEmail(form1["se"])){
+      		alert('Please enter your valid email address.') 
+      		form1["se"].focus(); 
+      		return false; 
+   		}
+		// CHECK RECEIVER NAME
+		/*if(IsEmpty(form1.rn)){
+      		alert('Please enter your friends\' name.') 
+      		form1.rn.focus(); 
+      		return false; 
+   		}*/
+		// CHECK RECEIVER EMAIL ADDRESS (NOT EMPTY)
+		if(IsEmpty(form1["re"])){
+      		alert('Please enter your friends\' email address.') 
+      		form1["re"].focus(); 
+      		return false; 
+   		}
+		// CHECK RECEIVER EMAIL ADDRESS (VALID)
+		/*if(!isValidEmail(form1.re)){
+      		alert('Please enter your friends\' valid email address.') 
+      		form1.re.focus(); 
+      		return false; 
+   		}*/
+	} else {
+		//alert('Validate simple Super TAF');
+		// CHECK SENDER NAME
+		if(IsEmpty(form1["sn2"])){
+      		alert('Please enter your name.') 
+      		form1["sn"].focus(); 
+      		return false; 
+   		}
+		// CHECK SENDER EMAIL ADDRESS (NOT EMPTY)
+		if(IsEmpty(form1["email_box"])){
+      		alert('Please enter your email address.') 
+      		form1["email_box"].focus(); 
+      		return false; 
+   		}
+		// CHECK SENDER EMAIL ADDRESS (VALID)
+		if(!isValidEmail(form1["email_box"])){
+      		alert('Please enter a valid email address.') 
+      		form1["email_box"].focus(); 
+      		return false; 
+   		}
+		// CHECK SENDER PROVIDER
+		if(!isValidProvider(form1["email_box"])){
+			alert('Please enter a valid email address.'); 
+      		form1["email_box"].focus(); 
+      		return false; 
+		}
+		// CHECK SENDER PASSWORD
+		if(IsEmpty(form1["password_box"])){
+      		alert('Please enter your password.') 
+      		form1["password_box"].focus(); 
+      		return false; 
+   		}
+		// CHECK PROVIDER
+		if(IsEmpty(form1.provider_box)){
+      		alert('Please enter your provider.') 
+      		form1["provider_box"].focus(); 
+      		return false; 
+   		}
+	}
+}
+
+function IsEmpty(aTextField) {
+   if ((aTextField.value.length==0) ||
+   (aTextField.value==null)) {
+      return true;
+   }
+   else { return false; }
+}
+
+function isValidEmail(str) {
+   //alert(str.value);
+   //var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+   var reg = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+   if(reg.test(str.value) == false) {
+      return false;
+   } 
+   else { return true; }
+}
+
+function isValidProvider(str){
+	var form1 = document.forms["form1"].elements;
+	var email = str.value;
+	var provider = email.split("@",2);
+	//alert(provider[1]);
+	if(provider[1] == 'aol.com' || provider[1] == 'gmail.com' || provider[1] == 'live.com' || provider[1] == 'hotmail.com' || provider[1] == 'yahoo.com'){
+		var p = provider[1].split(".",2);
+		//alert(p[0]);
+		form1["provider_box"].value = p[0];
+		return true;
+	} else {
+		alert('We currently ONLY support AOL, Gmail, Live/Hotmail, and Yahoo! Mail.');
+		return false;
+	}
+}
+</script>
+
 <script type="text/javascript">
 <!--
 // Set the cursor on the form to prompt user entry when page loads
 function setfocus() {
-  if(document.cforms8form) {
-    document.cforms8form.cf8_field_2.focus();
+  if(document.forms['cforms8form']) {
+    document.forms['cforms8form'].elements['cf8_field_2'].focus();
   }
 }
 //-->
@@ -75,6 +215,7 @@ function setfocus() {
 
 </head>
 <body onload="setfocus();">
+	<!-- east template -->
 <a name="top" id="top"></a>
 <div id="container">
 
@@ -84,58 +225,45 @@ function setfocus() {
 <div id="main_nav" class="navigation">
 	<ul id="nav">
 		<li><a href="http://www.leadscon.com/" class="home"><span>Home</span></a></li>
-		<li><a href="http://www.leadscon.com/leadscon-las-vegas-2011/register.html" class="register"><span>Register</span></a></li>
+		<li><a href="http://www.leadscon.com/leadscon-east-2011/register.html" class="register"><span>Register</span></a></li>
 		<li id="sponsor-exhibit">
-			<a href="http://www.leadscon.com/leadscon-las-vegas-2011/sponsor-exhibit.html" class="parent sponsor-exhibit"><span>Sponsor/Exhibit</span></a>
+			<a href="http://www.leadscon.com/leadscon-east-2011/sponsor-exhibit.html" class="parent sponsor-exhibit"><span>Sponsor/Exhibit</span></a>
 			<ul>
-				<li><a href="http://www.leadscon.com/leadscon-las-vegas-2011/sponsorship-opportunities.html">Opportunities</a></li>
-				<li><a href="http://www.leadscon.com/leadscon-las-vegas-2011/list-of-sponsors.html">List of Sponsors</a></li>
-				<li><a href="http://www.leadscon.com/leadscon-las-vegas-2011/exhibitor-list.html">Exhibitor List</a></li>
+				<li><a href="http://www.leadscon.com/leadscon-east-2011/sponsorship-opportunities.html">Opportunities</a></li>
+				<li><a href="http://www.leadscon.com/leadscon-east-2011/list-of-sponsors.html">List of Sponsors</a></li>
+				<li><a href="http://www.leadscon.com/leadscon-east-2011/exhibitor-list.html">Exhibitor List</a></li>
 		  	</ul>
 		</li>
 		<li id="schedule">
-			<a href="http://www.leadscon.com/leadscon-las-vegas-2011/schedule.html" class="schedule parent"><span>Schedule</span></a>
+			<a href="http://www.leadscon.com/leadscon-east-2011/schedule.html" class="schedule parent"><span>Schedule</span></a>
 		  	<ul>
-				<li><a href="http://www.leadscon.com/leadscon-las-vegas-2011/agenda.html">Agenda</a></li>
-				<li><a href="http://www.leadscon.com/leadscon-las-vegas-2011/full-conference-program.html">Full Conference Program</a></li>
-				<li style="background-color:#779c32;"><a href="http://www.leadscon.com/leadscon-las-vegas-2011/speakers.html">Speakers</a></li>						
+				<li><a href="http://www.leadscon.com/leadscon-east-2011/agenda.html">Agenda</a></li>
+				<li><a href="http://www.leadscon.com/leadscon-east-2011/full-conference-program.html">Full Conference Program</a></li>
+				<li style="background-color:#779c32;"><a href="http://www.leadscon.com/leadscon-east-2011/speakers.html">Speakers</a></li>						
 		  	</ul>
 		</li>
-		<li><a href="http://www.leadscon.com/leadscon-las-vegas-2011/housing.html" class="housing"><span>Housing</span></a></li>
+		<li><a href="http://www.leadscon.com/leadscon-east-2011/housing.html" class="housing"><span>Housing</span></a></li>
 		<li><a href="http://www.leadscon.com/contact-us.html" class="contact"><span>Contact Us</span></a></li>
-		<!-- <li><a href="http://www.leadscon.com/blog.html" class="blog"><span>Blog</span></a></li> -->
+		<li><a href="http://www.leadscon.com/lead-generation-jobs.html" class="jobs"><span>Job Board</span></a></li>
 	</ul>
 </div>
 </div>
 
 <div id="sponsors">
-	<h4 style="width:142px;"> Past Sponsors</h4>
-	<a href="http://www.leadpoint.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-leadpoint-142x60.png" border="0" title="LeadPoint - The World's First Leads Exchange Marketplace" alt="LeadPoint"></a>
-	<a href="http://www.acxiom.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/uploads/acxiom.png" border="0" title="Acxiom: Global Interactive Marketing Services" alt="Acxiom" height="48" width="150"></a>
-    <a href="http://www.collegebound.net/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-collegebound-142x60.png" border="0" title="College Bound - Interactive Recruitment : Since 1987, America's Trusted Resource on Higher Education" alt="College Bound"></a>
-	<a href="http://www.doublepositive.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-doublepositive-142x59.gif" border="0" title="Double Positive - LIVE Hot Transfers" alt="Double Positive"></a>
-	<a href="http://www.firebrandgroup.biz/" target="_blank"><img src="http://www.leadscon.com/wp-content/uploads/firebrand.jpg" border="0" title="FireBrand" alt="FireBrand" width="150" height="37"></a>
-	<a href="http://www.intermarkmedia.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-intermark-media-142x60.png" border="0" title="Intermark Media - Performance Based Marketing Solutions" alt="Intermark Media"></a>
-	<a href="http://www.targusinfo.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-targusinfo-142x60.png" border="0" title="Targus - On-Demand Insight" alt="Targus"></a>
-	<a href="http://www.allwebleads.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-allwebleads-142x50.png" border="0" title="All Web Leads - Insurance Leads: Quality Insurance Online Leads" alt="All Web Leads"></a>
-	<a href="http://www.ebureau.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-ebureau-142x60.png" border="0" title="eBureau - Instant Insight Using Predictive Analytics to Bring Your Customer into Focus" alt="eBureau"></a>
-	<a href="http://www.integrate.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/uploads/logo-integrate-142x60.png" border="0" title="Integrate.com" alt="Integrate.com" width="142" height="60"></a>
-	<a href="http://www.leadflash.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/uploads/leadflash.gif" border="0" width="142" height="40" title="LeadFlash" alt="Lead Flash"></a>	
-	<a href="http://www.leads360.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-leads360-142x60.png" border="0" title="Leads360 Lead Management &amp; Sales Lead CRM | Manage, Track &amp; Close Leads" alt="Leads360"></a>
-	<a href="http://www.snackablemedia.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-snackablemedia-142x60.png" border="0" title="Snackable Media" alt="Snackable Media"></a>
-	<!--
-	<p style="margin:1.5em 0;width:142px;"><a href="http://www.adoori.com/" target="_blank" title="Adoori">Adoori</a></p>
-	<p style="margin:1.5em 0;width:142px;"><a href="http://www.alloyeducation.com/" target="_blank" title="Alloy Education">Alloy Education</a></p>
-	<p style="margin:1.5em 0;width:142px;"><a href="http://www.boberdoo.com/" target="_blank" title="Boberdoo">Boberdoo</a></p>
-	<p style="margin:1.5em 0;width:142px;"><a href="http://www.brafton.com/" target="_blank" title="Brafton">Brafton</a></p>
-	<p style="margin:1.5em 0;width:142px;"><a href="http://www.indigointeractive.com/" target="_blank" title="Indigo Interactive">Indigo Interactive</a></p>
-	<p style="margin:1.5em 0;width:142px;"><a href="http://www.leadqual.com/" target="_blank" title="LeadQual">LeadQual</a></p>
-	<p style="margin:1.5em 0;width:142px;"><a href="http://www.reply.com" target="_blank" title="Reply">Reply.com</a></p>
-	<p style="margin:1.5em 0;width:142px;"><a href="http://advertise.snagajob.com" target="_blank" title="SnagAJob.com - The Number One Source for Hourly Employment">SnagAJob.com</a></p>
-	-->
+	<h4>Lead SPONSOR</h4>
+	<a href="http://www.doublepositive.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-doublepositive-175x75.png" border="0" title="Double Positive - LIVE Hot Transfers" alt="Double Positive"></a>
+    <h4>GOLD SPONSORS</h4>
+	<a href="http://www.allwebleads.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-allwebleads-142x45.png" border="0" title="All Web Leads - Quality Insurance Online Lead" alt="All Web Leads - Quality Insurance Online Lead"></a>
+    <a href="http://www.brokersweb.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-brokersweb-142x38.png" border="0" title="BrokersWeb" alt="BrokersWeb"></a>
+    <a href="http://www.targusinfo.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-targus-142x46.png" border="0" title="Targus - On-Demand Insight" alt="Targus"></a>
+    <a href="http://www.vantagemedia.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-vatagemedia-142x73.png" border="0" title="Vantage Media specializes in delivering qualified customers to leading brands in the Education, Insurance and Moving verticals on a pay-for-performance basis." alt="Vantage Media"></a>
+	<h4>SILVER SPONSORS</h4>
+	<a href="http://www.ebureau.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-ebureau-142x43.png" border="0" title="eBureau - Instant Insight Using Predictive Analytics to Bring Your Customer into Focus" alt="eBureau"></a>
+    <a href="http://www.horizonpartners.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-horizonpartners-142x58.png" border="0" title="Horizon Partners is a boutique financial advisory firm serving mid-market companies in the Digital Media, Interactive Marketing, and Software industries." alt="Horizon Partners"></a>
+    <a href="http://www.leads360.com/" target="_blank"><img src="http://www.leadscon.com/wp-content/themes/leadscon09/images/logo-leads360-142x39.png" border="0" title="Leads360 Lead Management &amp; Sales Lead CRM | Manage, Track &amp; Close Leads" alt="Leads360"></a>
 </div>
 
-<!-- page template -->
+<!-- page east template -->
 
 		<div id="page" class="column">
 
@@ -164,7 +292,7 @@ function setfocus() {
 
 	<div id="footer">
 		<div class="footer-text">
-		Copyright © 2010 LeadsCon. All rights reserved. 
+		Copyright © 2011 LeadsCon. All rights reserved. 
 		</div>
 	</div>
 
@@ -172,20 +300,23 @@ function setfocus() {
 	<li class="page_item page-item-149"><a href="http://www.leadscon.com/home.html" title="Home">Home</a></li>
 <li class="page_item page-item-18"><a href="http://www.leadscon.com/blog.html" title="Blog">Blog</a></li>
 <li class="page_item page-item-16"><a href="http://www.leadscon.com/contact-us.html" title="Contact Us">Contact Us</a></li>
+<li class="page_item page-item-2462"><a href="http://www.leadscon.com/lead-generation-jobs.html" title="Job Board">Job Board</a></li>
 <li class="page_item page-item-32"><a href="http://www.leadscon.com/terms-and-conditions.html" title="Terms and Conditions">Terms and Conditions</a></li>
 <li class="page_item page-item-34 current_page_item"><a href="http://www.leadscon.com/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
  
 	</ul>
+	
+
 
 </div>
 
 
 <p>
-	<!-- 14 queries. 0.332 seconds. -->
+	<!-- 26 queries. 0.385 seconds. -->
 </p>
 
 		<!--
-<p class="small"> WassUp 1.7.2.1 timestamp: 2010-11-02 09:19:14PM UTC (02:19PM)<br />
+<p class="small"> WassUp 1.8.1 timestamp: 2011-06-21 06:31:26AM UTC (11:31PM)<br />
 If above timestamp is not current time, this page is cached.</p> -->
 
 <script type="text/javascript">
