@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runrocknroll.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002120332id_/http%3A//competitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runrocknroll.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621053435id_/http%3A//competitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Competitor.com
 
