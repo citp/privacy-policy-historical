@@ -1,57 +1,42 @@
-> *The following text is extracted and transformed from the smartsuggestor.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203183027id_/http%3A//smartsuggestor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsuggestor.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621023212id_/http%3A//www.smartsuggestor.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-This Website Privacy Policy (this "Policy") applies with respect to the information that we collect from the SmartSuggestor.com's (the "Company") Websites, located at [SmartSuggestor.com](http://smartsuggestor.com/), and explains how we collect, use and disclose your personal information in connection with our services.  Amendments to this Policy will be posted at this URL.  Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.  While the Company may update you of any changes to its Privacy Policy, it is your obligation to review the terms of this Privacy Policy and stay current therewith.
+## Legal
 
-**I. INFORMATION COLLECTED**
+## Privacy Policy 
 
-We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or most-recently visited URL.  Personally identifiable information is personal information about you including your name, address, e-mail address, or phone number, and that which is not otherwise publicly available. We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, buying preferences, etc.  Personally identifiable information about you is collected when you voluntarily submit such information to us, by, for example, filling out a survey or registration form. We may combine personal information collected from you with information from other Company services or third parties to provide a better user experience, including customizing content for you. 
+This policy describes how and why THINK TANK LABS LLC. Incorporated in THE UNITED STATES ("dba SMART SUGGESTOR") collects data from users and website visitors to SMART SUGGESTOR’s website (HTTP://WWW.SMARTSUGGESTOR.COM), and how that data will be used. Think Tank Labs is committed to respecting the privacy of non-personal identifiable data gathered. Typically, this information is collected to:-
 
-**II. USE OF INFORMATION**
+#### Use of Data
 
-In general, we will only use the information you provide to us for purposes we deem appropriate.  We may use your information (ourselves or utilizing third-party companies) to deliver you information about our company and promotional material from some of our partners and affiliates, trend analysis, pattern detection, and site administration.  Your information may also be used to contact you when necessary and may be shared with or sold to other companies that may want to contact you with offers that we (or they) believe are consistent with your preferences.  Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the opt-out section below.  
-Non-personal demographic and profile data is used to tailor your experience at our site, showing you content we think you might be interested in.  This information may also be shared with advertisers on an aggregate non-personal basis. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.  
-The Company may also disclose your information upon a transfer or sale to another entity of the Company or upon any other corporate reorganization.
+SMART SUGGESTOR uses data collected from users and website visitors in order to:
 
-**III. USE OF IP ADDRESSES**
+-To improve the quality and functionality of the Software and the website, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for other internal and statistical purposes;  
+-To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages and you visit and online services that you use;  
+-To provide you with support and handle inquires;  
+-To enforce the Software EULA;  
+-To comply with any applicable law and assist law enforcement agencies as required;  
+-To conduct surveys and market researches;  
+-We may use anonymous, statistical or aggregated information about the Software's use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.  
 
-We use your IP Address to help diagnose problems with our server, and to administer our Website.
 
-**IV. USE OF COOKIES**
+#### Cookies and Log Files 
 
-Cookies are an industry standard used by most major Websites.  When you view our Website we might store some information on your computer.  This information will be in the form of a "cookie" or similar file.  Cookies are small pieces of information stored on your hard drive, not on our site.  Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information.  Rather, they help you navigate a Website as easily as possible.  We use cookies to improve the quality of our services, deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.
+Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is SMART SUGGESTOR’s policy to use cookies to make navigation of our website easier for visitors. If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website. In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems. 
 
-We may use an outside advertisement server company to display ads on our site.  These ads may contain cookies.  Through banner ads the advertisement server company may set and access their cookies on your computer.  We do not have access to information that would confirm the use of cookies by the advertisement server company.  Other companies' use of their cookies is subject to their own privacy policy, not this one. You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features may not function properly as a result.
+#### Age Limit
 
-**V. SECURITY**
+We never knowingly collect or maintain information at or on our website from those we actually know are under 18, and no part of our website is directed at or structured to attract anyone under 18. Visitors younger than 18 years of age may NOT use the Site and the Software and must LEAVE immediately.
 
-Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control.  While there is no such thing as "absolute security" on the Internet, we make good faith efforts to take every step to ensure the safety of your personal information, whenever reasonably possible.
+#### Changes to Policy
 
-**VI. OTHER WEBSITES; LINKS**
+From time to time, we may revise this policy and we will post the revised Policy on the Site. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the Site, at our sole discretion, and will take effect immediately.
 
-Our Website contains links to other Websites.  Because this Policy only applies to the Company Website itself and not linked Websites, you should examine the privacy policy of any other Websites that you access from the Company Website. The Company is not responsible for the privacy practices or the content of such other Websites.
+#### Governing Law
 
-**VII. CORRECT; UPDATE**
+This Privacy Policy is governed by and construed in accordance with the laws of THE UNITED STATES. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of THE UNITED STATES.
 
-The Company allows its users the option to change or modify information previously provided. This may be done through the following methods:
+#### Contact us
 
-(1) E-mail the information to info@SmartSuggestor.com 
-
-Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases.  We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.
-
-**VIII. CHOICE; OPT OUT**
-
-You may opt-out of receiving communications from our partners, and from us, by the following means:
-
-(1) Send an e-mail to [info@SmartSuggestor.com](mailto:info@smartsuggestor.com/)
-
-We reserve the right to send you certain communications relating to the Company service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them absent a cancellation of services with the Company.
-
-**IX. PUBLIC FORUMS**
-
-This site may make chat rooms, forums, message boards, and/or news groups available to its users.  Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-**Contacting us:**
-
-If you have any questions about this Policy, the practices of this site, or your dealings with this Website, you can contact us at [info@SmartSuggestor.com](mailto:info@smartsuggestor.com). 
+Please direct all questions in connection with this Policy via e-mail to: INFO@SMARTSUGGESTOR.COM
