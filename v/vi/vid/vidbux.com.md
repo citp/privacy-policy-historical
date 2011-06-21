@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidbux.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182458id_/http%3A//www.vidbux.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidbux.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621073819id_/http%3A//www.vidbux.com/pages/privacy.html) for the most accurate reproduction.*
 
-# VidBux - Upload Videos, Earn $$$
+# VidBux - Upload Videos, Make Profit
 
 **What information do we collect?**
 
