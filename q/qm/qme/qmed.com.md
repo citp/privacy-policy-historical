@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qmed.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019022118id_/http%3A//www.cancom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmed.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621083844id_/http%3A//www.cancom.com/privacy_policy) for the most accurate reproduction.*
 
-# CANON COMMUNICATIONS, LLC - Privacy Policy
+# UBM Canon - Privacy Policy
 
 |   
 ---  
@@ -10,11 +10,11 @@ Last modified on May 4, 2010
   
 #### Introduction
 
-CANON COMMUNICATIONS LLC is committed to protecting and respecting your privacy.
+Canon Communications LLC, known as UBM Canon is committed to protecting and respecting your privacy.
 
 This privacy policy and the other documents referred to herein set out the basis on which any personal data we obtain from you will be used by us. This policy applies to our website and all of our trade show, trade conference, award and publication websites only, and does not apply to any other website or offline contact point. References in this policy to “the website,” “this website,” “the site” or “this site” include all of our related trade show, trade conference, award and publication websites, whether accessible from this website or directly. By visiting the website and allowing us to collect personal data from you, you are agreeing to and accepting the practices in this privacy policy.
 
-This website is maintained by Canon Communications LLC and is designed to display information about our trade shows, trade conferences, awards and publications in the US, the UK and other countries around the world. References in this privacy policy to Canon Communications, “we,” “our” or “us” are to Canon Communications LLC and its subsidiaries and affiliates. Our contact information is described under “Contact” at the end of this policy.
+This website is maintained by UBM Canon and is designed to display information about our trade shows, trade conferences, awards and publications in the US, the UK and other countries around the world. References in this privacy policy to UBM Canon, “we,” “our” or “us” are to UBM Canon and its subsidiaries and affiliates. Our contact information is described under “Contact” at the end of this policy.
 
 Back to top
 
@@ -73,13 +73,13 @@ We use your personal information in various ways. We collect personal informatio
 
 We also may transfer your data or permit selected third parties use of your data so they may provide you with information about products and services that may be of interest to you, and both we and they may contact you about these by mail, telephone or email. These third parties will usually be exhibitors at our trade shows, participants in our trade conferences or awards, or advertisers in the publications and online products in which you have expressed an interest, particularly those whose products and services might align with your interests. When we share your personal data with these third parties, they will be responsible for protecting your data once they receive it. They will also be responsible to you for the manner in which your data is subsequently processed and the ways in which they market to you.
 
-We will not release telephone or facsimile number, or e-mail address for those that subscribe or request information on Canon Pharma Group LLC products, including, but not limited to, Med Ad News, R&D Directions, PharmaLive.com, and TherapeuticsDaily.com.
+We will not release telephone or facsimile number, or e-mail address for those that subscribe or request information on UBM Canon Pharma Group products, including, but not limited to, Med Ad News, R&D Directions, PharmaLive.com, and TherapeuticsDaily.com.
 
 Back to top
 
 #### Disclosure of your personal information
 
-We may disclose your personal information to any of our direct or indirect subsidiaries or affiliates, or their processors or agents.  We may also disclose your personal information to third parties as designated in “Uses made of your personal information” above.  If we negotiate to sell the assets or business of or any interest in any direct or indirect affiliate or subsidiary, or any portion of or interest in our business or assets, we may disclose your personal data to the prospective buyers and their agents.  In the case of any such sale or transfer of ownership, or a bankruptcy, your personal data will be one of the transferred assets. We may also disclose your personal information to protect the interests or safety of Canon Communications LLC or a third party, or to address an emergency.
+We may disclose your personal information to any of our direct or indirect subsidiaries or affiliates, or their processors or agents.  We may also disclose your personal information to third parties as designated in “Uses made of your personal information” above.  If we negotiate to sell the assets or business of or any interest in any direct or indirect affiliate or subsidiary, or any portion of or interest in our business or assets, we may disclose your personal data to the prospective buyers and their agents.  In the case of any such sale or transfer of ownership, or a bankruptcy, your personal data will be one of the transferred assets. We may also disclose your personal information to protect the interests or safety of UBM Canon or a third party, or to address an emergency.
 
 We will also disclose your data when we are under a duty to disclose or share that information under any legal obligation or to enforce or apply the terms of use or to perform or enforce any contracts between us, or to protect the rights, property or safety of our customers or others.  This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.  If you have exercised your right of opt out in relation to the sharing of information, this will not apply to you and we will respect your opt out, but we may still be required to disclose your information to law enforcement authorities.
 
@@ -135,7 +135,7 @@ Back to top
 
 #### Disclaimer
 
-No part of this website may be reproduced or transmitted by any means, electronic, mechanical (including photocopying), recording or by any information, storage or retrieval system, without prior permission from the copyright owners.  The website is published by Canon Communications LLC.
+No part of this website may be reproduced or transmitted by any means, electronic, mechanical (including photocopying), recording or by any information, storage or retrieval system, without prior permission from the copyright owners.  The website is published by UBM Canon.
 
 We disclaim all responsibility or liability (including negligence) in relation to information on, or which is accessible from this site.
 
@@ -145,7 +145,7 @@ Back to top
 
 If you wish to contact us in order to exercise any of your rights identified in this policy you may do so by contacting us as follows:
 
-In the US: | Canon Communications LLC  
+In the US: | UBM Canon  
 11444 W. Olympic Blvd.  
 Los Angeles, CA 90064  
 USA  
