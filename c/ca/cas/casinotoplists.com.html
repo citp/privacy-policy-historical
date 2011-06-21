@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the casinotoplists.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228013532id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casinotoplists.com privacy policy that was archived on 2011-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621062441id_/http%3A//www.casinotoplists.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <title>CasinoToplists Privacy Policy - Secure Online Gambling</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <meta name="keywords" content="Play Casino Games, Safe Gambling, Secure Gambling">
 <meta name="description" content="CasinoToplists.com puts the player first - Your information is strictly confidential and we make sure you can play casino games in safe environments">
-<link rel="alternate" type="application/rss+xml" title="RSS feed Articles" href="http://www.casinotoplists.com/feed/news">
-<link rel="alternate" type="application/rss+xml" title="RSS Feed News" href="http://www.casinotoplists.com/feed/articles">
+
+<link rel="alternate" type="application/rss+xml" title="RSS feed Articles " href="http://www.casinotoplists.com/feed/articles">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed News" href="http://www.casinotoplists.com/feed/casino-news">
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" media="screen" href="/themes/casinotoplists/css/all.css">
-<script type="text/javascript" src="/sapphire/thirdparty/jquery/jquery.js"></script>
-<script type="text/javascript" src="/js/jquery.pagination.js"></script>
-<script type="text/javascript" src="/js/sitestats/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
 
 <script type="text/javascript">
 var geoTargeted,
     geoAjax,
-    geoQueue = [];
+    geoQueue = [],
+	id = null,
+	content = null;
 
 var geoReplace = function (id, content) {
 	if (!id || !content) {
@@ -107,12 +107,26 @@ var geoProcessQueue = function () {
 };
 
 var geoContent = function (id, content) {
+	doGeoContent(id, content);
+	if( this.id == null && this.content == null ) {
+		this.id= id;
+		this.content = content;
+	}
+	
+	if( geoAjax.readyState === 4 ) {
+		doGeoContent(this.id, this.content);
+	} else {
+		setTimeout( 'geoContent()', 100 );
+	}
+};
+
+var doGeoContent = function(id, content) {
 	if (typeof(geoTargeted) === 'undefined') {
 		geoQueue.push({'id': id, 'content': content});
 	} else if (geoTargeted === 'true') {
 		geoReplace(id, content);
 	}
-};
+}
 
 if (window.XMLHttpRequest) {
 	geoAjax = new XMLHttpRequest();
@@ -136,8 +150,11 @@ geoAjax.send(null);
 
 </script>
 <base href="http://www.casinotoplists.com/">
+<link rel="stylesheet" type="text/css" href="http://edge.www.casinotoplists.com/assets/_combinedfiles/global.css?m=1308126192">
 </head>
 <body id="PrivacyPolicyPage-page" class="js">
+<script type="text/javascript" src="/js/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery-1.4.1.min.js"></script>
 <script type="text/javascript">
 
 	document.body.className = document.body.className.replace('nojs','js');
@@ -146,10 +163,11 @@ geoAjax.send(null);
 
 </script>
 <div class="page">
+<img src="http://www.casinotoplists.se/thirdparty/set-cookie.php" alt="" style="position: absolute;">
 <div class="page-head mod-shadow">
 <div class="page-head-inner">
 <a class="home-link" href="/">CasinoToplists</a>
-<span class="section-image xmas"></span>
+<span class="section-image si-roulette"></span>
 <form class="search-quick" method="get" action="/search">
 <p>
 <label for="search-quick-text">Search</label>
@@ -159,105 +177,149 @@ geoAjax.send(null);
 </p>
 </form><div class="social-links links-lowprofile">
 <ul>
-<li><a class="addthis_button_facebook" href="/privacy-policy#"><span class="icon icon-social icon-social-facebook" title="Add this page to Facebook">Facebook</span></a></li>
-<li><a class="addthis_button_twitter" href="/privacy-policy#"><span class="icon icon-social icon-social-twitter" title="Add this page to Twitter">Twitter</span></a></li>
+<li><a class="addthis_button_facebook" href="/privacy-policy#"><span class="icon icon-social icon-social-facebook" title="Search Facebook">Facebook</span></a></li>
+<li><a class="addthis_button_twitter" href="/privacy-policy#"><span class="icon icon-social icon-social-twitter" title="Search Twitter">Twitter</span></a></li>
 <li><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=ctlen"><span class="icon icon-social icon-social-sharethis" title="Add this"></span> Add this</a></li>
 </ul>
 
 </div></div>
-</div><div id="nav" class="links-lowprofile">
+</div>
+<div id="GreekRedirectionBox" class="mod-shadow hide">
+<div class="mod-fill">
+<div class="mod-inner"> Το Casinotoplists είναι τώρα διαθέσιμο και στα Ελληνικά! Αν θέλετε να επισκεφτείτε την Ελληνική έκδοση μπορείτε να κάνετε κλικ στο παρακάτω σύνδεσμο <a href="http://www.casinotoplists.gr"><b>Casinotoplists.gr</b></a>.</div>
+</div>
+</div>
+<div id="nav" class="links-lowprofile">
 <div class="mod-shadow">
 <div class="mod-fill">
 <div class="mod-redline-t mod-inner">
 <p class="h3">Toplists</p>
 <ul>
 <li>
-<a href="/casino-reviews">Casino Reviews</a>
+<a href="us-casino-rooms">US Online Casinos</a>
 </li>
 <li>
-<a href="/best-bonus-casinos">Best Casino Bonus</a>
+<a href="uk-casino-rooms">UK Online Casinos</a>
 </li>
 <li>
-<a href="/us-casino-rooms">US Online Casinos</a>
+<a href="australia-online-casinos">Australian Casinos</a>
 </li>
 <li>
-<a href="/no-deposit-bonus">No Deposit Bonus</a>
+<a href="canada-online-casinos">Canadian Casinos</a>
 </li>
 <li>
-<a href="/uk-casino-rooms">UK Online Casinos</a>
+<a href="best-bonus-casinos">Best Casino Bonus</a>
 </li>
 <li>
-<a href="/highroller-casino">High Roller Casino</a>
+<a href="casino-reviews">Casino Reviews</a>
 </li>
 <li>
-<a href="/no-download-casinos">No Download Casinos</a>
+<a href="no-deposit-bonus">No Deposit Bonus</a>
 </li>
-</ul><p class="h3">Games</p>
-<ul>
-<li><a href="online-blackjack">Blackjack</a></li>
-<li><a href="online-video-poker">Video Poker</a></li>
-<li><a href="online-caribbean-stud">Caribbean Stud</a></li>
-<li><a href="online-pai-gow">Pai Gow</a></li>
-<li><a href="online-craps">Craps</a></li>
-<li><a href="online-keno">Keno</a></li>
-<li><a href="online-roulette">Roulette</a></li>
-<li><a href="online-slots">Slots</a></li>
-<li><a href="online-baccarat">Baccarat</a></li>
-</ul><p class="h3">Skill Games</p>
+<li>
+<a href="highroller-casino">High Roller Casino</a>
+</li>
+<li>
+<a href="no-download-casinos">No Download Casinos</a>
+</li>
+</ul>
+<p class="h3">GAMES</p>
 <ul>
 <li>
-<a href="/backgammon">Backgammon</a>
+<a href="online-slots">Online Slots</a>
 </li>
 <li>
-<a href="/online-pool">Online Pool</a>
+<a href="online-blackjack">Online Blackjack</a>
 </li>
 <li>
-<a href="/gin-rummy-rules-read-learn-and-play">Gin Rummy </a>
+<a href="online-roulette">Online Roulette</a>
+</li>
+<li>
+<a href="online-video-poker">Online Video Poker</a>
+</li>
+<li>
+<a href="online-pai-gow">Online Pai Gow</a>
+</li>
+<li>
+<a href="online-craps">Online Craps</a>
+</li>
+<li>
+<a href="online-keno">Online Keno</a>
+</li>
+<li>
+<a href="online-baccarat">Online Baccarat</a>
+</li>
+<li>
+<a href="online-caribbean-stud">Caribbean Stud</a>
+</li>
+</ul>
+<p class="h3">Skill games</p>
+<ul>
+<li>
+<a href="backgammon">Backgammon</a>
+</li>
+<li>
+<a href="online-pool">Online Pool</a>
+</li>
+<li>
+<a href="gin-rummy-rules-read-learn-and-play">Gin Rummy </a>
 </li>
 </ul>
 <p class="h3">News and Articles</p>
 <ul>
 <li>
-<a href="/casino-rules-strategy">Casino Rules and Strategy</a>
+<a href="casino-rules-strategy">Casino Rules and Strategy</a>
 </li>
 <li>
-<a href="/casino-news">Casino News</a>
+<a href="casino-news">Casino News</a>
 </li>
 <li>
-<a href="/casino-articles">Casino Articles</a>
+<a href="casino-articles">Casino Articles</a>
 </li>
-</ul><p class="h3">Mobile Gambling</p>
+</ul>
+<p class="h3">Mobile Gambling</p>
 <ul>
 <li>
-<a href="/mobile-casino-games">Mobile Casino Games</a>
+<a href="mobile-casino-games">Mobile Casino Games</a>
 </li>
 <li>
-<a href="/mobile-casinos-available.shtml">Mobile Casinos</a>
+<a href="mobile-casinos-available">Mobile Casinos</a>
 </li>
 <li>
-<a href="/mobile-casino-news">Mobile Gambling News</a>
+<a href="mobile-casino-news">Mobile Gambling News</a>
 </li>
 <li>
-<a href="/mobile-gambling-articles">Mobile Gambling Articles</a>
+<a href="mobile-gambling-articles">Mobile Gambling Articles</a>
 </li>
 </ul>
 <p class="h3">Other</p>
 <ul>
 <li>
-<a href="/latest-jackpot-winners">Latest Jackpot Winners</a>
+<a href="latest-jackpot-winners">Latest Jackpot Winners</a>
 </li>
 <li>
-<a href="/all-progressive-jackpots">All Progressive Jackpots</a>
+<a href="all-progressive-jackpots">All Progressive Jackpots</a>
 </li>
 <li>
-<a href="/free-casino">Free Casino Games</a>
+<a href="free-casino">Free Casino Games</a>
 </li>
 <li>
-<a href="/gambling-glossary">Gambling Glossary </a>
+<a href="gambling-glossary">Gambling Glossary </a>
 </li>
-<li class="rss-feed"><a href="/feed/news" class=""><span>RSS Feed News</span></a> </li>
-<li class="rss-feed"><a href="/feed/articles" class=""><span>RSS feed Articles</span></a> </li>
-</ul></div>
+<li>
+<a href="http://www.casinotoplists.com/feed/casino-news">RSS Feed News</a>
+</li>
+<li>
+<a href="http://www.casinotoplists.com/feed/articles">RSS feed Articles </a>
+</li>
+<li>
+<a href="payment-options">Payment Options</a>
+</li>
+<li>
+<a href="credit-card-casinos">Credit Card Casinos</a>
+</li>
+</ul>
+</div>
 </div>
 </div>
 </div><div id="main">
@@ -304,9 +366,10 @@ Casino Toplist
 
 <tbody>
 <tr>
+</tr><tr>
 <td class="rank first-child">1.</td>
 <td class="logo">
-<a href="/goto/cherry-red-casino" target="_blank"><img src="/assets/casino-rooms/cherry-red-casino/promotion.png" \=""></a>
+<a href="/goto/silver-oak-casino" target="_blank"><img src="/assets/Uploads/ctlpromo65x6.gif" \=""></a>
 </td>
 <td class="flag">
 <div class="icon icon-flag icon-flag-en" title="Allows US Players"></div>
@@ -314,14 +377,118 @@ Casino Toplist
 
 </td>
 <td class="bonus">
-<a href="goto/cherry-red-casino" target="_blank">
+<a href="goto/silver-oak-casino" target="_blank">
+$11100
+</a>
+
+</td>
+<td class="actions last-child">
+<p class="cta cf">
+<a class="button button-basic button-basic-cta" href="goto/silver-oak-casino" target="_blank">
+<span class="button-inner">
+<span class="button-text">
+Get Bonus
+</span>
+</span>
+</a>
+</p>
+
+<a href="silver-oak-casino">
+Read Review
+</a>
+
+</td>
+</tr>
+<tr>
+</tr><tr>
+<td class="rank first-child">2.</td>
+<td class="logo">
+<a href="/goto/casino-win-palace" target="_blank"><img src="/assets/Uploads/CTLWinpalace65x36.png" \=""></a>
+</td>
+<td class="flag">
+<div class="icon icon-flag icon-flag-en" title="Allows US Players"></div>
+
+
+</td>
+<td class="bonus">
+<a href="goto/casino-win-palace" target="_blank">
+$1000
+</a>
+
+</td>
+<td class="actions last-child">
+<p class="cta cf">
+<a class="button button-basic button-basic-cta" href="goto/casino-win-palace" target="_blank">
+<span class="button-inner">
+<span class="button-text">
+Get Bonus
+</span>
+</span>
+</a>
+</p>
+
+<a href="casino-win-palace">
+Read Review
+</a>
+
+</td>
+</tr>
+<tr>
+</tr><tr>
+<td class="rank first-child">3.</td>
+<td class="logo">
+<a href="/goto/rome-casino" target="_blank"><img src="/assets/casino-rooms/rome-casino/promotion.png" \=""></a>
+</td>
+<td class="flag">
+<div class="icon icon-flag icon-flag-en" title="Allows US Players"></div>
+
+
+</td>
+<td class="bonus">
+<a href="goto/rome-casino" target="_blank">
+<strong class="exclusive">Exclusive</strong>								
+$1500
+</a>
+
+</td>
+<td class="actions last-child">
+<p class="cta cf">
+<a class="button button-basic button-basic-cta" href="goto/rome-casino" target="_blank">
+<span class="button-inner">
+<span class="button-text">
+Get Bonus
+</span>
+</span>
+</a>
+</p>
+
+<a href="rome-casino">
+Read Review
+</a>
+
+</td>
+</tr>
+<tr>
+</tr><tr>
+<td class="rank first-child">4.</td>
+<td class="logo">
+<a href="/goto/planet7-casino" target="_blank"><img src="/assets/casino-rooms/planet7-casino/CTL-promo.GIF" \=""></a>
+</td>
+<td class="flag">
+<div class="icon icon-flag icon-flag-en" title="Allows US Players"></div>
+
+
+</td>
+<td class="bonus">
+<a href="goto/planet7-casino" target="_blank">
+<strong class="exclusive">Exclusive</strong>								
 $7777
 </a>
 
 </td>
 <td class="actions last-child">
 <p class="cta cf">
-<a class="button button-basic button-basic-cta" href="goto/cherry-red-casino" target="_blank">
+<a class="button button-basic button-basic-cta" href="goto/planet7-casino" target="_blank">
 <span class="button-inner">
 <span class="button-text">
 Get Bonus
@@ -330,48 +497,15 @@ Get Bonus
 </a>
 </p>
 
-<a href="cherry-red-casino">
+<a href="planet7-casino">
 Read Review
 </a>
 
 </td>
 </tr>
 <tr>
-<td class="rank first-child">2.</td>
-<td class="logo">
-<a href="/goto/online-vegas-casino" target="_blank"><img src="/assets/casino-rooms/online-vegas-casino/promotion.png" \=""></a>
-</td>
-<td class="flag">
-<div class="icon icon-flag icon-flag-restricted icon-flag-en-restricted" title="KY,MI,OR,Antigua, China, Iraq, Panama and Russia"></div>
-
-
-</td>
-<td class="bonus">
-<a href="goto/online-vegas-casino" target="_blank">
-<strong class="exclusive">Exclusive</strong>
-$5000
-</a>
-
-</td>
-<td class="actions last-child">
-<p class="cta cf">
-<a class="button button-basic button-basic-cta" href="goto/online-vegas-casino" target="_blank">
-<span class="button-inner">
-<span class="button-text">
-Get Bonus
-</span>
-</span>
-</a>
-</p>
-
-<a href="online-vegas-casino">
-Read Review
-</a>
-
-</td>
-</tr>
-<tr>
-<td class="rank first-child">3.</td>
+</tr><tr>
+<td class="rank first-child">5.</td>
 <td class="logo">
 <a href="/goto/rushmore-casino" target="_blank"><img src="/assets/Uploads/rushmore.png" \=""></a>
 </td>
@@ -382,8 +516,8 @@ Read Review
 </td>
 <td class="bonus">
 <a href="goto/rushmore-casino" target="_blank">
-<strong class="exclusive">Exclusive</strong>
-$888
+<strong class="exclusive">Exclusive</strong>								
+$3000
 </a>
 
 </td>
@@ -405,140 +539,8 @@ Read Review
 </td>
 </tr>
 <tr>
-<td class="rank first-child">4.</td>
-<td class="logo">
-<a href="/goto/vip-slots-casino" target="_blank"><img src="/assets/casino-rooms/vip-slots-casino/promotion.png" \=""></a>
-</td>
-<td class="flag">
-<div class="icon icon-flag icon-flag-restricted icon-flag-en-restricted" title="Canada, MI, OR"></div>
-
-
-</td>
-<td class="bonus">
-<a href="goto/vip-slots-casino" target="_blank">
-$777
-</a>
-
-</td>
-<td class="actions last-child">
-<p class="cta cf">
-<a class="button button-basic button-basic-cta" href="goto/vip-slots-casino" target="_blank">
-<span class="button-inner">
-<span class="button-text">
-Get Bonus
-</span>
-</span>
-</a>
-</p>
-
-<a href="vip-slots-casino">
-Read Review
-</a>
-
-</td>
-</tr>
-<tr>
-<td class="rank first-child">5.</td>
-<td class="logo">
-<a href="/goto/english-harbour-casino" target="_blank"><img src="/assets/casino-rooms/english-harbour-casino/promotion.png" \=""></a>
-</td>
-<td class="flag">
-<div class="icon icon-flag icon-flag-restricted icon-flag-en-restricted" title="MI, OR, KY, canada and Netherlands"></div>
-
-
-</td>
-<td class="bonus">
-<a href="goto/english-harbour-casino" target="_blank">
-$800
-</a>
-
-</td>
-<td class="actions last-child">
-<p class="cta cf">
-<a class="button button-basic button-basic-cta" href="goto/english-harbour-casino" target="_blank">
-<span class="button-inner">
-<span class="button-text">
-Get Bonus
-</span>
-</span>
-</a>
-</p>
-
-<a href="english-harbour-casino">
-Read Review
-</a>
-
-</td>
-</tr>
-<tr>
+</tr><tr>
 <td class="rank first-child">6.</td>
-<td class="logo">
-<a href="/goto/black-diamond-casino" target="_blank"><img src="/assets/Uploads/bdctlpromo65x36.png" \=""></a>
-</td>
-<td class="flag">
-<div class="icon icon-flag icon-flag-en" title="Allows US Players"></div>
-
-
-</td>
-<td class="bonus">
-<a href="goto/black-diamond-casino" target="_blank">
-<strong class="exclusive">Exclusive</strong>
-$3000
-</a>
-
-</td>
-<td class="actions last-child">
-<p class="cta cf">
-<a class="button button-basic button-basic-cta" href="goto/black-diamond-casino" target="_blank">
-<span class="button-inner">
-<span class="button-text">
-Get Bonus
-</span>
-</span>
-</a>
-</p>
-
-<a href="black-diamond-casino">
-Read Review
-</a>
-
-</td>
-</tr>
-<tr>
-<td class="rank first-child">7.</td>
-<td class="logo">
-<a href="/goto/millionaire-casino" target="_blank"><img src="/assets/casino-rooms/millionaire-casino/promotion.png" \=""></a>
-</td>
-<td class="flag">
-<div class="icon icon-flag icon-flag-restricted icon-flag-en-restricted" title="OR, MI, Canada"></div>
-
-
-</td>
-<td class="bonus">
-<a href="goto/millionaire-casino" target="_blank">
-$5000
-</a>
-
-</td>
-<td class="actions last-child">
-<p class="cta cf">
-<a class="button button-basic button-basic-cta" href="goto/millionaire-casino" target="_blank">
-<span class="button-inner">
-<span class="button-text">
-Get Bonus
-</span>
-</span>
-</a>
-</p>
-
-<a href="millionaire-casino">
-Read Review
-</a>
-
-</td>
-</tr>
-<tr>
-<td class="rank first-child">8.</td>
 <td class="logo">
 <a href="/goto/pure-vegas-casino" target="_blank"><img src="/assets/Uploads/purevegasctlpromo65x36.png" \=""></a>
 </td>
@@ -571,7 +573,42 @@ Read Review
 </td>
 </tr>
 <tr>
-<td class="rank first-child">9.</td>
+</tr><tr>
+<td class="rank first-child">7.</td>
+<td class="logo">
+<a href="/goto/bodog-casino" target="_blank"><img src="/assets/Uploads/ctlpromo65x2.gif" \=""></a>
+</td>
+<td class="flag">
+<div class="icon icon-flag icon-flag-en" title="Allows US Players"></div>
+
+
+</td>
+<td class="bonus">
+<a href="goto/bodog-casino" target="_blank">
+$100
+</a>
+
+</td>
+<td class="actions last-child">
+<p class="cta cf">
+<a class="button button-basic button-basic-cta" href="goto/bodog-casino" target="_blank">
+<span class="button-inner">
+<span class="button-text">
+Get Bonus
+</span>
+</span>
+</a>
+</p>
+
+<a href="bodog-casino">
+Read Review
+</a>
+
+</td>
+</tr>
+<tr>
+</tr><tr>
+<td class="rank first-child">8.</td>
 <td class="logo">
 <a href="/goto/dice-land-casino" target="_blank"><img src="/assets/Uploads/ctlpromo65x4.gif" \=""></a>
 </td>
@@ -604,9 +641,10 @@ Read Review
 </td>
 </tr>
 <tr>
-<td class="rank first-child">10.</td>
+</tr><tr>
+<td class="rank first-child">9.</td>
 <td class="logo">
-<a href="/goto/rome-casino" target="_blank"><img src="/assets/casino-rooms/rome-casino/promotion.png" \=""></a>
+<a href="/goto/cherry-red-casino" target="_blank"><img src="/assets/casino-rooms/cherry-red-casino/promotion.png" \=""></a>
 </td>
 <td class="flag">
 <div class="icon icon-flag icon-flag-en" title="Allows US Players"></div>
@@ -614,15 +652,14 @@ Read Review
 
 </td>
 <td class="bonus">
-<a href="goto/rome-casino" target="_blank">
-<strong class="exclusive">Exclusive</strong>
-$1500
+<a href="goto/cherry-red-casino" target="_blank">
+$7777
 </a>
 
 </td>
 <td class="actions last-child">
 <p class="cta cf">
-<a class="button button-basic button-basic-cta" href="goto/rome-casino" target="_blank">
+<a class="button button-basic button-basic-cta" href="goto/cherry-red-casino" target="_blank">
 <span class="button-inner">
 <span class="button-text">
 Get Bonus
@@ -631,7 +668,42 @@ Get Bonus
 </a>
 </p>
 
-<a href="rome-casino">
+<a href="cherry-red-casino">
+Read Review
+</a>
+
+</td>
+</tr>
+<tr>
+</tr><tr>
+<td class="rank first-child">10.</td>
+<td class="logo">
+<a href="/goto/black-diamond-casino" target="_blank"><img src="/assets/Uploads/bdctlpromo65x36.png" \=""></a>
+</td>
+<td class="flag">
+<div class="icon icon-flag icon-flag-en" title="Allows US Players"></div>
+
+
+</td>
+<td class="bonus">
+<a href="goto/black-diamond-casino" target="_blank">
+<strong class="exclusive">Exclusive</strong>								
+$3000
+</a>
+
+</td>
+<td class="actions last-child">
+<p class="cta cf">
+<a class="button button-basic button-basic-cta" href="goto/black-diamond-casino" target="_blank">
+<span class="button-inner">
+<span class="button-text">
+Get Bonus
+</span>
+</span>
+</a>
+</p>
+
+<a href="black-diamond-casino">
 Read Review
 </a>
 
@@ -661,105 +733,109 @@ Does NOT ACCEPT US Players
 <!-- Set us argument for toplist filter -->
 
 <script type="text/javascript">
-				geoContent('CasinoGamePageToplist', 'PGRpdiBjbGFzcz0idG9wbGlzdCB0b3BsaXN0LXNtYWxsIG1vZC1zaGFkb3ciPgo8ZGl2IGNsYXNzPSJtb2QtZmlsbCI+CjxoMiBjbGFzcz0iaGVhZGluZy1tb2R1bGUgbW9kLWdyYWRpZW50IG1vZC1pbm5lciI+CkNhc2lubyBUb3BsaXN0CjwvaDI+Cjx0YWJsZT4KPHRoZWFkPgo8dHI+Cjx0aCBzY29wZT0iY29sIiBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+PGRpdj4gPC9kaXY+PC90aD4KPHRoIHNjb3BlPSJjb2wiIGNsYXNzPSJsb2dvIj48ZGl2PkNhc2lubzwvZGl2PjwvdGg+Cjx0aCBzY29wZT0iY29sIiBjbGFzcz0iZmxhZyI+PGRpdj4mbmJzcDs8L2Rpdj48L3RoPgo8dGggc2NvcGU9ImNvbCIgY2xhc3M9ImJvbnVzIj48ZGl2PkJvbnVzPC9kaXY+PC90aD4KPHRoIHNjb3BlPSJjb2wiIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPjxkaXY+UmV2aWV3PC9kaXY+PC90aD4KPC90cj4KPC90aGVhZD4KCjx0Ym9keT4KPHRyPgo8dGQgY2xhc3M9InJhbmsgZmlyc3QtY2hpbGQiPjEuPC90ZD4KPHRkIGNsYXNzPSJsb2dvIj4KPGEgaHJlZj0iL2dvdG8vZXVyb3BhLWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiID48aW1nIHNyYz0iL2Fzc2V0cy9jYXNpbm8tcm9vbXMvZXVyb3BhLWNhc2luby9ldXJvcGFjdGxwcm9tbzY1eDM2LmdpZiIgXC8+PC9hPgo8L3RkPgo8dGQgY2xhc3M9ImZsYWciPgoKCjwvdGQ+Cjx0ZCBjbGFzcz0iYm9udXMiPgo8YSBocmVmPSJnb3RvL2V1cm9wYS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHN0cm9uZyBjbGFzcz0iZXhjbHVzaXZlIj5FeGNsdXNpdmU8L3N0cm9uZz4KJDI0NTAKPC9hPgoKPC90ZD4KPHRkIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPgo8cCBjbGFzcz0iY3RhIGNmIj4KPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tYmFzaWMgYnV0dG9uLWJhc2ljLWN0YSIgaHJlZj0iZ290by9ldXJvcGEtY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayI+CjxzcGFuIGNsYXNzPSJidXR0b24taW5uZXIiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLXRleHQiPgpHZXQgQm9udXMKPC9zcGFuPgo8L3NwYW4+CjwvYT4KPC9wPgoKPGEgaHJlZj0iZXVyb3BhLWNhc2lubyI+ClJlYWQgUmV2aWV3CjwvYT4KCjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGNsYXNzPSJyYW5rIGZpcnN0LWNoaWxkIj4yLjwvdGQ+Cjx0ZCBjbGFzcz0ibG9nbyI+CjxhIGhyZWY9Ii9nb3RvL2Nhc2luby10cm9wZXoiIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvY2FzaW5vLXJvb21zL2Nhc2luby10cm9wZXovcHJvbW90aW9uLnBuZyIgXC8+PC9hPgo8L3RkPgo8dGQgY2xhc3M9ImZsYWciPgoKCjwvdGQ+Cjx0ZCBjbGFzcz0iYm9udXMiPgo8YSBocmVmPSJnb3RvL2Nhc2luby10cm9wZXoiIHRhcmdldD0iX2JsYW5rIj4KPHN0cm9uZyBjbGFzcz0iZXhjbHVzaXZlIj5FeGNsdXNpdmU8L3N0cm9uZz4KJDMxMDAKPC9hPgoKPC90ZD4KPHRkIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPgo8cCBjbGFzcz0iY3RhIGNmIj4KPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tYmFzaWMgYnV0dG9uLWJhc2ljLWN0YSIgaHJlZj0iZ290by9jYXNpbm8tdHJvcGV6IiB0YXJnZXQ9Il9ibGFuayI+CjxzcGFuIGNsYXNzPSJidXR0b24taW5uZXIiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLXRleHQiPgpHZXQgQm9udXMKPC9zcGFuPgo8L3NwYW4+CjwvYT4KPC9wPgoKPGEgaHJlZj0iY2FzaW5vLXRyb3BleiI+ClJlYWQgUmV2aWV3CjwvYT4KCjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGNsYXNzPSJyYW5rIGZpcnN0LWNoaWxkIj4zLjwvdGQ+Cjx0ZCBjbGFzcz0ibG9nbyI+CjxhIGhyZWY9Ii9nb3RvL3dpbGxpYW0taGlsbC1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvY2FzaW5vLXJvb21zL3dpbGxpYW0taGlsbC1jYXNpbm8vd2lsbGlhbWhpbGxjdGxwcm9tbzY1eDM2LmdpZiIgXC8+PC9hPgo8L3RkPgo8dGQgY2xhc3M9ImZsYWciPgoKCjwvdGQ+Cjx0ZCBjbGFzcz0iYm9udXMiPgo8YSBocmVmPSJnb3RvL3dpbGxpYW0taGlsbC1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KJDQ0MDAKPC9hPgoKPC90ZD4KPHRkIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPgo8cCBjbGFzcz0iY3RhIGNmIj4KPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tYmFzaWMgYnV0dG9uLWJhc2ljLWN0YSIgaHJlZj0iZ290by93aWxsaWFtLWhpbGwtY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayI+CjxzcGFuIGNsYXNzPSJidXR0b24taW5uZXIiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLXRleHQiPgpHZXQgQm9udXMKPC9zcGFuPgo8L3NwYW4+CjwvYT4KPC9wPgoKPGEgaHJlZj0id2lsbGlhbS1oaWxsLWNhc2lubyI+ClJlYWQgUmV2aWV3CjwvYT4KCjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGNsYXNzPSJyYW5rIGZpcnN0LWNoaWxkIj40LjwvdGQ+Cjx0ZCBjbGFzcz0ibG9nbyI+CjxhIGhyZWY9Ii9nb3RvL3JveHktcGFsYWNlLWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiID48aW1nIHNyYz0iL2Fzc2V0cy9jYXNpbm8tcm9vbXMvcm94eS1wYWxhY2UtY2FzaW5vL3Byb21vdGlvbi5wbmciIFwvPjwvYT4KPC90ZD4KPHRkIGNsYXNzPSJmbGFnIj4KCgo8L3RkPgo8dGQgY2xhc3M9ImJvbnVzIj4KPGEgaHJlZj0iZ290by9yb3h5LXBhbGFjZS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHN0cm9uZyBjbGFzcz0iZXhjbHVzaXZlIj5FeGNsdXNpdmU8L3N0cm9uZz4KJDEyNTAKPC9hPgoKPC90ZD4KPHRkIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPgo8cCBjbGFzcz0iY3RhIGNmIj4KPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tYmFzaWMgYnV0dG9uLWJhc2ljLWN0YSIgaHJlZj0iZ290by9yb3h5LXBhbGFjZS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJyb3h5LXBhbGFjZS1jYXNpbm8iPgpSZWFkIFJldmlldwo8L2E+Cgo8L3RkPgo8L3RyPgo8dHI+Cjx0ZCBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+NS48L3RkPgo8dGQgY2xhc3M9ImxvZ28iPgo8YSBocmVmPSIvZ290by84ODgtY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayIgPjxpbWcgc3JjPSIvYXNzZXRzL1VwbG9hZHMvODg4NjV4MzYuanBnIiBcLz48L2E+CjwvdGQ+Cjx0ZCBjbGFzcz0iZmxhZyI+CgoKPC90ZD4KPHRkIGNsYXNzPSJib251cyI+CjxhIGhyZWY9ImdvdG8vODg4LWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiPgokMTQwMAo8L2E+Cgo8L3RkPgo8dGQgY2xhc3M9ImFjdGlvbnMgbGFzdC1jaGlsZCI+CjxwIGNsYXNzPSJjdGEgY2YiPgo8YSBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1iYXNpYyBidXR0b24tYmFzaWMtY3RhIiBocmVmPSJnb3RvLzg4OC1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSI4ODgtY2FzaW5vIj4KUmVhZCBSZXZpZXcKPC9hPgoKPC90ZD4KPC90cj4KPHRyPgo8dGQgY2xhc3M9InJhbmsgZmlyc3QtY2hpbGQiPjYuPC90ZD4KPHRkIGNsYXNzPSJsb2dvIj4KPGEgaHJlZj0iL2dvdG8vcGFydHktY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayIgPjxpbWcgc3JjPSIvYXNzZXRzL1VwbG9hZHMvY3RscHJvbW82NXgzNi5naWYiIFwvPjwvYT4KPC90ZD4KPHRkIGNsYXNzPSJmbGFnIj4KCgo8L3RkPgo8dGQgY2xhc3M9ImJvbnVzIj4KPGEgaHJlZj0iZ290by9wYXJ0eS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KJDMwMDAKPC9hPgoKPC90ZD4KPHRkIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPgo8cCBjbGFzcz0iY3RhIGNmIj4KPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tYmFzaWMgYnV0dG9uLWJhc2ljLWN0YSIgaHJlZj0iZ290by9wYXJ0eS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJwYXJ0eS1jYXNpbm8iPgpSZWFkIFJldmlldwo8L2E+Cgo8L3RkPgo8L3RyPgo8dHI+Cjx0ZCBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+Ny48L3RkPgo8dGQgY2xhc3M9ImxvZ28iPgo8YSBocmVmPSIvZ290by9jYXNpbm8td2lubmVyIiB0YXJnZXQ9Il9ibGFuayIgPjxpbWcgc3JjPSIvYXNzZXRzL1VwbG9hZHMvY3RscHJvbW82NXg1LmdpZiIgXC8+PC9hPgo8L3RkPgo8dGQgY2xhc3M9ImZsYWciPgoKCjwvdGQ+Cjx0ZCBjbGFzcz0iYm9udXMiPgo8YSBocmVmPSJnb3RvL2Nhc2luby13aW5uZXIiIHRhcmdldD0iX2JsYW5rIj4KPHN0cm9uZyBjbGFzcz0iZXhjbHVzaXZlIj5FeGNsdXNpdmU8L3N0cm9uZz4KJDQwMAo8L2E+Cgo8L3RkPgo8dGQgY2xhc3M9ImFjdGlvbnMgbGFzdC1jaGlsZCI+CjxwIGNsYXNzPSJjdGEgY2YiPgo8YSBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1iYXNpYyBidXR0b24tYmFzaWMtY3RhIiBocmVmPSJnb3RvL2Nhc2luby13aW5uZXIiIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJjYXNpbm8td2lubmVyIj4KUmVhZCBSZXZpZXcKPC9hPgoKPC90ZD4KPC90cj4KPHRyPgo8dGQgY2xhc3M9InJhbmsgZmlyc3QtY2hpbGQiPjguPC90ZD4KPHRkIGNsYXNzPSJsb2dvIj4KPGEgaHJlZj0iL2dvdG8vYndpbi1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvY2FzaW5vLXJvb21zL2J3aW4tY2FzaW5vL2N0bHByb21vNjV4MzYtMy5naWYiIFwvPjwvYT4KPC90ZD4KPHRkIGNsYXNzPSJmbGFnIj4KCgo8L3RkPgo8dGQgY2xhc3M9ImJvbnVzIj4KPGEgaHJlZj0iZ290by9id2luLWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiPgokMjAwCjwvYT4KCjwvdGQ+Cjx0ZCBjbGFzcz0iYWN0aW9ucyBsYXN0LWNoaWxkIj4KPHAgY2xhc3M9ImN0YSBjZiI+CjxhIGNsYXNzPSJidXR0b24gYnV0dG9uLWJhc2ljIGJ1dHRvbi1iYXNpYy1jdGEiIGhyZWY9ImdvdG8vYndpbi1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJid2luLWNhc2lubyI+ClJlYWQgUmV2aWV3CjwvYT4KCjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGNsYXNzPSJyYW5rIGZpcnN0LWNoaWxkIj45LjwvdGQ+Cjx0ZCBjbGFzcz0ibG9nbyI+CjxhIGhyZWY9Ii9nb3RvL2Nhc2lubzc3MCIgdGFyZ2V0PSJfYmxhbmsiID48aW1nIHNyYz0iL2Fzc2V0cy9VcGxvYWRzLzY1eDM2LmpwZyIgXC8+PC9hPgo8L3RkPgo8dGQgY2xhc3M9ImZsYWciPgoKCjwvdGQ+Cjx0ZCBjbGFzcz0iYm9udXMiPgo8YSBocmVmPSJnb3RvL2Nhc2lubzc3MCIgdGFyZ2V0PSJfYmxhbmsiPgokMjAwCjwvYT4KCjwvdGQ+Cjx0ZCBjbGFzcz0iYWN0aW9ucyBsYXN0LWNoaWxkIj4KPHAgY2xhc3M9ImN0YSBjZiI+CjxhIGNsYXNzPSJidXR0b24gYnV0dG9uLWJhc2ljIGJ1dHRvbi1iYXNpYy1jdGEiIGhyZWY9ImdvdG8vY2FzaW5vNzcwIiB0YXJnZXQ9Il9ibGFuayI+CjxzcGFuIGNsYXNzPSJidXR0b24taW5uZXIiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLXRleHQiPgpHZXQgQm9udXMKPC9zcGFuPgo8L3NwYW4+CjwvYT4KPC9wPgoKPGEgaHJlZj0iY2FzaW5vNzcwIj4KUmVhZCBSZXZpZXcKPC9hPgoKPC90ZD4KPC90cj4KPHRyPgo8dGQgY2xhc3M9InJhbmsgZmlyc3QtY2hpbGQiPjEwLjwvdGQ+Cjx0ZCBjbGFzcz0ibG9nbyI+CjxhIGhyZWY9Ii9nb3RvL2FsbC1zbG90cy1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvY2FzaW5vLXJvb21zL2FsbC1zbG90cy1jYXNpbm8vcHJvbW90aW9uLnBuZyIgXC8+PC9hPgo8L3RkPgo8dGQgY2xhc3M9ImZsYWciPgoKCjwvdGQ+Cjx0ZCBjbGFzcz0iYm9udXMiPgo8YSBocmVmPSJnb3RvL2FsbC1zbG90cy1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHN0cm9uZyBjbGFzcz0iZXhjbHVzaXZlIj5FeGNsdXNpdmU8L3N0cm9uZz4KJDU2MTAKPC9hPgoKPC90ZD4KPHRkIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPgo8cCBjbGFzcz0iY3RhIGNmIj4KPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tYmFzaWMgYnV0dG9uLWJhc2ljLWN0YSIgaHJlZj0iZ290by9hbGwtc2xvdHMtY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayI+CjxzcGFuIGNsYXNzPSJidXR0b24taW5uZXIiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLXRleHQiPgpHZXQgQm9udXMKPC9zcGFuPgo8L3NwYW4+CjwvYT4KPC9wPgoKPGEgaHJlZj0iYWxsLXNsb3RzLWNhc2lubyI+ClJlYWQgUmV2aWV3CjwvYT4KCjwvdGQ+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+CjxwIGNsYXNzPSJtb3JlIj48YSBocmVmPSJjYXNpbm8tcmV2aWV3cyI+QWxsIENhc2lubyBSZXZpZXdzIMK7PC9hPjwvcD4KPGRpdiBjbGFzcz0ibGVnZW5kIG1vZC1pbm5lciBjZiI+CjxkaXYgY2xhc3M9ImwgbDFvZjMiPgo8ZGl2IGNsYXNzPSJpY29uIGljb24tZmxhZyBpY29uLWZsYWctZW4gaWNvbi1sZWFkaW4iPjwvZGl2PgpBY2NlcHRzIGFsbCBVUyBQbGF5ZXJzCjwvZGl2Pgo8ZGl2IGNsYXNzPSJsIGwxb2YzIj4KPGRpdiBjbGFzcz0iaWNvbiBpY29uLWZsYWcgaWNvbi1mbGFnLWVuLXJlc3RyaWN0ZWQgaWNvbi1sZWFkaW4iPjwvZGl2PgpBY2NlcHRzIG1vc3QgVVMgcGxheWVycwo8L2Rpdj4KPGRpdiBjbGFzcz0ibCBsbGFzdCI+CjxkaXYgY2xhc3M9Imljb24gaWNvbi1mbGFnIGljb24tZmxhZy1lbi1iYW5uZWQgaWNvbi1sZWFkaW4iPjwvZGl2PgpEb2VzIE5PVCBBQ0NFUFQgVVMgUGxheWVycwo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4=');
+				geoContent('CasinoGamePageToplist', 'PGRpdiBjbGFzcz0idG9wbGlzdCB0b3BsaXN0LXNtYWxsIG1vZC1zaGFkb3ciPgo8ZGl2IGNsYXNzPSJtb2QtZmlsbCI+CjxoMiBjbGFzcz0iaGVhZGluZy1tb2R1bGUgbW9kLWdyYWRpZW50IG1vZC1pbm5lciI+CkNhc2lubyBUb3BsaXN0CjwvaDI+Cjx0YWJsZT4KPHRoZWFkPgo8dHI+Cjx0aCBzY29wZT0iY29sIiBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+PGRpdj4gPC9kaXY+PC90aD4KPHRoIHNjb3BlPSJjb2wiIGNsYXNzPSJsb2dvIj48ZGl2PkNhc2lubzwvZGl2PjwvdGg+Cjx0aCBzY29wZT0iY29sIiBjbGFzcz0iZmxhZyI+PGRpdj4mbmJzcDs8L2Rpdj48L3RoPgo8dGggc2NvcGU9ImNvbCIgY2xhc3M9ImJvbnVzIj48ZGl2PkJvbnVzPC9kaXY+PC90aD4KPHRoIHNjb3BlPSJjb2wiIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPjxkaXY+UmV2aWV3PC9kaXY+PC90aD4KPC90cj4KPC90aGVhZD4KCjx0Ym9keT4KPHRyPgo8dHI+Cjx0ZCBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+MS48L3RkPgo8dGQgY2xhc3M9ImxvZ28iPgo8YSBocmVmPSIvZ290by9ldXJvcGEtY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayIgPjxpbWcgc3JjPSIvYXNzZXRzL2Nhc2luby1yb29tcy9ldXJvcGEtY2FzaW5vL2V1cm9wYWN0bHByb21vNjV4MzYuZ2lmIiBcLz48L2E+CjwvdGQ+Cjx0ZCBjbGFzcz0iZmxhZyI+CgoKPC90ZD4KPHRkIGNsYXNzPSJib251cyI+CjxhIGhyZWY9ImdvdG8vZXVyb3BhLWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiPgo8c3Ryb25nIGNsYXNzPSJleGNsdXNpdmUiPkV4Y2x1c2l2ZTwvc3Ryb25nPgkJCQkJCQkJCiQyNDUwCjwvYT4KCjwvdGQ+Cjx0ZCBjbGFzcz0iYWN0aW9ucyBsYXN0LWNoaWxkIj4KPHAgY2xhc3M9ImN0YSBjZiI+CjxhIGNsYXNzPSJidXR0b24gYnV0dG9uLWJhc2ljIGJ1dHRvbi1iYXNpYy1jdGEiIGhyZWY9ImdvdG8vZXVyb3BhLWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLWlubmVyIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi10ZXh0Ij4KR2V0IEJvbnVzCjwvc3Bhbj4KPC9zcGFuPgo8L2E+CjwvcD4KCjxhIGhyZWY9ImV1cm9wYS1jYXNpbm8iPgpSZWFkIFJldmlldwo8L2E+Cgo8L3RkPgo8L3RyPgo8dHI+Cjx0cj4KPHRkIGNsYXNzPSJyYW5rIGZpcnN0LWNoaWxkIj4yLjwvdGQ+Cjx0ZCBjbGFzcz0ibG9nbyI+CjxhIGhyZWY9Ii9nb3RvL3dpbGxpYW0taGlsbC1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvVXBsb2Fkcy9jdGx3aDY1eDIuanBnIiBcLz48L2E+CjwvdGQ+Cjx0ZCBjbGFzcz0iZmxhZyI+CgoKPC90ZD4KPHRkIGNsYXNzPSJib251cyI+CjxhIGhyZWY9ImdvdG8vd2lsbGlhbS1oaWxsLWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiPgokNDQwMAo8L2E+Cgo8L3RkPgo8dGQgY2xhc3M9ImFjdGlvbnMgbGFzdC1jaGlsZCI+CjxwIGNsYXNzPSJjdGEgY2YiPgo8YSBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1iYXNpYyBidXR0b24tYmFzaWMtY3RhIiBocmVmPSJnb3RvL3dpbGxpYW0taGlsbC1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJ3aWxsaWFtLWhpbGwtY2FzaW5vIj4KUmVhZCBSZXZpZXcKPC9hPgoKPC90ZD4KPC90cj4KPHRyPgo8dHI+Cjx0ZCBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+My48L3RkPgo8dGQgY2xhc3M9ImxvZ28iPgo8YSBocmVmPSIvZ290by84ODgtY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayIgPjxpbWcgc3JjPSIvYXNzZXRzL1VwbG9hZHMvODg4NjV4MzYuanBnIiBcLz48L2E+CjwvdGQ+Cjx0ZCBjbGFzcz0iZmxhZyI+CgoKPC90ZD4KPHRkIGNsYXNzPSJib251cyI+CjxhIGhyZWY9ImdvdG8vODg4LWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiPgo8c3Ryb25nIGNsYXNzPSJleGNsdXNpdmUiPkV4Y2x1c2l2ZTwvc3Ryb25nPgkJCQkJCQkJCiQ0MDAKPC9hPgoKPC90ZD4KPHRkIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPgo8cCBjbGFzcz0iY3RhIGNmIj4KPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tYmFzaWMgYnV0dG9uLWJhc2ljLWN0YSIgaHJlZj0iZ290by84ODgtY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayI+CjxzcGFuIGNsYXNzPSJidXR0b24taW5uZXIiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLXRleHQiPgpHZXQgQm9udXMKPC9zcGFuPgo8L3NwYW4+CjwvYT4KPC9wPgoKPGEgaHJlZj0iODg4LWNhc2lubyI+ClJlYWQgUmV2aWV3CjwvYT4KCjwvdGQ+CjwvdHI+Cjx0cj4KPHRyPgo8dGQgY2xhc3M9InJhbmsgZmlyc3QtY2hpbGQiPjQuPC90ZD4KPHRkIGNsYXNzPSJsb2dvIj4KPGEgaHJlZj0iL2dvdG8vZXVyby1jaXR5LWNhc2lubyIgdGFyZ2V0PSJfYmxhbmsiID48aW1nIHNyYz0iL2Fzc2V0cy9VcGxvYWRzL3Byb21vdGlvbi02NXgzNi5wbmciIFwvPjwvYT4KPC90ZD4KPHRkIGNsYXNzPSJmbGFnIj4KCgo8L3RkPgo8dGQgY2xhc3M9ImJvbnVzIj4KPGEgaHJlZj0iZ290by9ldXJvLWNpdHktY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayI+CiQxMDUwMAo8L2E+Cgo8L3RkPgo8dGQgY2xhc3M9ImFjdGlvbnMgbGFzdC1jaGlsZCI+CjxwIGNsYXNzPSJjdGEgY2YiPgo8YSBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1iYXNpYyBidXR0b24tYmFzaWMtY3RhIiBocmVmPSJnb3RvL2V1cm8tY2l0eS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJldXJvLWNpdHktY2FzaW5vIj4KUmVhZCBSZXZpZXcKPC9hPgoKPC90ZD4KPC90cj4KPHRyPgo8dHI+Cjx0ZCBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+NS48L3RkPgo8dGQgY2xhc3M9ImxvZ28iPgo8YSBocmVmPSIvZ290by9jYXNpbm83NzAiIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvVXBsb2Fkcy82NXgzNi5qcGciIFwvPjwvYT4KPC90ZD4KPHRkIGNsYXNzPSJmbGFnIj4KCgo8L3RkPgo8dGQgY2xhc3M9ImJvbnVzIj4KPGEgaHJlZj0iZ290by9jYXNpbm83NzAiIHRhcmdldD0iX2JsYW5rIj4KJDIwMAo8L2E+Cgo8L3RkPgo8dGQgY2xhc3M9ImFjdGlvbnMgbGFzdC1jaGlsZCI+CjxwIGNsYXNzPSJjdGEgY2YiPgo8YSBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1iYXNpYyBidXR0b24tYmFzaWMtY3RhIiBocmVmPSJnb3RvL2Nhc2lubzc3MCIgdGFyZ2V0PSJfYmxhbmsiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLWlubmVyIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi10ZXh0Ij4KR2V0IEJvbnVzCjwvc3Bhbj4KPC9zcGFuPgo8L2E+CjwvcD4KCjxhIGhyZWY9ImNhc2lubzc3MCI+ClJlYWQgUmV2aWV3CjwvYT4KCjwvdGQ+CjwvdHI+Cjx0cj4KPHRyPgo8dGQgY2xhc3M9InJhbmsgZmlyc3QtY2hpbGQiPjYuPC90ZD4KPHRkIGNsYXNzPSJsb2dvIj4KPGEgaHJlZj0iL2dvdG8vMjEtbm92YS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvVXBsb2Fkcy8yMW5vdmEucG5nIiBcLz48L2E+CjwvdGQ+Cjx0ZCBjbGFzcz0iZmxhZyI+CgoKPC90ZD4KPHRkIGNsYXNzPSJib251cyI+CjxhIGhyZWY9ImdvdG8vMjEtbm92YS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHN0cm9uZyBjbGFzcz0iZXhjbHVzaXZlIj5FeGNsdXNpdmU8L3N0cm9uZz4JCQkJCQkJCQokMzI1MAo8L2E+Cgo8L3RkPgo8dGQgY2xhc3M9ImFjdGlvbnMgbGFzdC1jaGlsZCI+CjxwIGNsYXNzPSJjdGEgY2YiPgo8YSBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1iYXNpYyBidXR0b24tYmFzaWMtY3RhIiBocmVmPSJnb3RvLzIxLW5vdmEtY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayI+CjxzcGFuIGNsYXNzPSJidXR0b24taW5uZXIiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLXRleHQiPgpHZXQgQm9udXMKPC9zcGFuPgo8L3NwYW4+CjwvYT4KPC9wPgoKPGEgaHJlZj0iMjEtbm92YS1jYXNpbm8iPgpSZWFkIFJldmlldwo8L2E+Cgo8L3RkPgo8L3RyPgo8dHI+Cjx0cj4KPHRkIGNsYXNzPSJyYW5rIGZpcnN0LWNoaWxkIj43LjwvdGQ+Cjx0ZCBjbGFzcz0ibG9nbyI+CjxhIGhyZWY9Ii9nb3RvL2Nhc2luby13aW5uZXIiIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvVXBsb2Fkcy9jdGxwcm9tbzY1eDUuZ2lmIiBcLz48L2E+CjwvdGQ+Cjx0ZCBjbGFzcz0iZmxhZyI+CgoKPC90ZD4KPHRkIGNsYXNzPSJib251cyI+CjxhIGhyZWY9ImdvdG8vY2FzaW5vLXdpbm5lciIgdGFyZ2V0PSJfYmxhbmsiPgo8c3Ryb25nIGNsYXNzPSJleGNsdXNpdmUiPkV4Y2x1c2l2ZTwvc3Ryb25nPgkJCQkJCQkJCiQxMDAwCjwvYT4KCjwvdGQ+Cjx0ZCBjbGFzcz0iYWN0aW9ucyBsYXN0LWNoaWxkIj4KPHAgY2xhc3M9ImN0YSBjZiI+CjxhIGNsYXNzPSJidXR0b24gYnV0dG9uLWJhc2ljIGJ1dHRvbi1iYXNpYy1jdGEiIGhyZWY9ImdvdG8vY2FzaW5vLXdpbm5lciIgdGFyZ2V0PSJfYmxhbmsiPgo8c3BhbiBjbGFzcz0iYnV0dG9uLWlubmVyIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi10ZXh0Ij4KR2V0IEJvbnVzCjwvc3Bhbj4KPC9zcGFuPgo8L2E+CjwvcD4KCjxhIGhyZWY9ImNhc2luby13aW5uZXIiPgpSZWFkIFJldmlldwo8L2E+Cgo8L3RkPgo8L3RyPgo8dHI+Cjx0cj4KPHRkIGNsYXNzPSJyYW5rIGZpcnN0LWNoaWxkIj44LjwvdGQ+Cjx0ZCBjbGFzcz0ibG9nbyI+CjxhIGhyZWY9Ii9nb3RvL2V1cm9ncmFuZC1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIiA+PGltZyBzcmM9Ii9hc3NldHMvY2FzaW5vLXJvb21zL2V1cm9ncmFuZC1jYXNpbm8vcHJvbW90aW9uLnBuZyIgXC8+PC9hPgo8L3RkPgo8dGQgY2xhc3M9ImZsYWciPgoKCjwvdGQ+Cjx0ZCBjbGFzcz0iYm9udXMiPgo8YSBocmVmPSJnb3RvL2V1cm9ncmFuZC1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHN0cm9uZyBjbGFzcz0iZXhjbHVzaXZlIj5FeGNsdXNpdmU8L3N0cm9uZz4JCQkJCQkJCQokMTA1MAo8L2E+Cgo8L3RkPgo8dGQgY2xhc3M9ImFjdGlvbnMgbGFzdC1jaGlsZCI+CjxwIGNsYXNzPSJjdGEgY2YiPgo8YSBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1iYXNpYyBidXR0b24tYmFzaWMtY3RhIiBocmVmPSJnb3RvL2V1cm9ncmFuZC1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJldXJvZ3JhbmQtY2FzaW5vIj4KUmVhZCBSZXZpZXcKPC9hPgoKPC90ZD4KPC90cj4KPHRyPgo8dHI+Cjx0ZCBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+OS48L3RkPgo8dGQgY2xhc3M9ImxvZ28iPgo8YSBocmVmPSIvZ290by9jYXNpbm8uY29tIiB0YXJnZXQ9Il9ibGFuayIgPjxpbWcgc3JjPSIvYXNzZXRzL2Nhc2luby1yb29tcy9jYXNpbm8uY29tL2N0bC1wcm9tby1jYXNpbm8uanBnIiBcLz48L2E+CjwvdGQ+Cjx0ZCBjbGFzcz0iZmxhZyI+CgoKPC90ZD4KPHRkIGNsYXNzPSJib251cyI+CjxhIGhyZWY9ImdvdG8vY2FzaW5vLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPgokMzMzMwo8L2E+Cgo8L3RkPgo8dGQgY2xhc3M9ImFjdGlvbnMgbGFzdC1jaGlsZCI+CjxwIGNsYXNzPSJjdGEgY2YiPgo8YSBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1iYXNpYyBidXR0b24tYmFzaWMtY3RhIiBocmVmPSJnb3RvL2Nhc2luby5jb20iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJjYXNpbm8uY29tIj4KUmVhZCBSZXZpZXcKPC9hPgoKPC90ZD4KPC90cj4KPHRyPgo8dHI+Cjx0ZCBjbGFzcz0icmFuayBmaXJzdC1jaGlsZCI+MTAuPC90ZD4KPHRkIGNsYXNzPSJsb2dvIj4KPGEgaHJlZj0iL2dvdG8vcGFydHktY2FzaW5vIiB0YXJnZXQ9Il9ibGFuayIgPjxpbWcgc3JjPSIvYXNzZXRzL1VwbG9hZHMvY3RscHJvbW82NXgzNi5naWYiIFwvPjwvYT4KPC90ZD4KPHRkIGNsYXNzPSJmbGFnIj4KCgo8L3RkPgo8dGQgY2xhc3M9ImJvbnVzIj4KPGEgaHJlZj0iZ290by9wYXJ0eS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KJDMwMDAKPC9hPgoKPC90ZD4KPHRkIGNsYXNzPSJhY3Rpb25zIGxhc3QtY2hpbGQiPgo8cCBjbGFzcz0iY3RhIGNmIj4KPGEgY2xhc3M9ImJ1dHRvbiBidXR0b24tYmFzaWMgYnV0dG9uLWJhc2ljLWN0YSIgaHJlZj0iZ290by9wYXJ0eS1jYXNpbm8iIHRhcmdldD0iX2JsYW5rIj4KPHNwYW4gY2xhc3M9ImJ1dHRvbi1pbm5lciI+CjxzcGFuIGNsYXNzPSJidXR0b24tdGV4dCI+CkdldCBCb251cwo8L3NwYW4+Cjwvc3Bhbj4KPC9hPgo8L3A+Cgo8YSBocmVmPSJwYXJ0eS1jYXNpbm8iPgpSZWFkIFJldmlldwo8L2E+Cgo8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8cCBjbGFzcz0ibW9yZSI+PGEgaHJlZj0iY2FzaW5vLXJldmlld3MiPkFsbCBDYXNpbm8gUmV2aWV3cyDCuzwvYT48L3A+CjxkaXYgY2xhc3M9ImxlZ2VuZCBtb2QtaW5uZXIgY2YiPgo8ZGl2IGNsYXNzPSJsIGwxb2YzIj4KPGRpdiBjbGFzcz0iaWNvbiBpY29uLWZsYWcgaWNvbi1mbGFnLWVuIGljb24tbGVhZGluIj48L2Rpdj4KQWNjZXB0cyBhbGwgVVMgUGxheWVycwo8L2Rpdj4KPGRpdiBjbGFzcz0ibCBsMW9mMyI+CjxkaXYgY2xhc3M9Imljb24gaWNvbi1mbGFnIGljb24tZmxhZy1lbi1yZXN0cmljdGVkIGljb24tbGVhZGluIj48L2Rpdj4KQWNjZXB0cyBtb3N0IFVTIHBsYXllcnMKPC9kaXY+CjxkaXYgY2xhc3M9ImwgbGxhc3QiPgo8ZGl2IGNsYXNzPSJpY29uIGljb24tZmxhZyBpY29uLWZsYWctZW4tYmFubmVkIGljb24tbGVhZGluIj48L2Rpdj4KRG9lcyBOT1QgQUNDRVBUIFVTIFBsYXllcnMKPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+');
 			</script>
 </div>
 </div>
 </div>
-<div id="foot" class="cf links-lowprofile">
+<div id="ecograCertificateOverlay" class="overlay overlay_whiteout overlay_ecograCertificate ecogra-hide">
+<div id="ecograCertificateOverlayInner" class="close">
+<img src="http://www.ecogra.org/certificates/}images/rgp/Casinotoplists_2011-3-9-145.jpg" alt="Ecogra Certificate">
+</div>
+</div><div id="foot" class="cf links-lowprofile">
 <div class="l l1of5">
 <div class="menu">
 <p class="h3">Main</p>
 <ul>
 <li>
-<a href="/contact">Contact</a>
+<a href="contact">Contact</a>
 </li>
 <li>
-<a href="/site-map">Site Map</a>
+<a href="site-map">Site Map</a>
 </li>
-<li class=" sel">
-<a href="/privacy-policy">Privacy Policy</a>
-</li>
-<li>
-<a href="/responsible-gambling">Responsible gambling</a>
+<li class="active">
+<a href="privacy-policy">Privacy Policy</a>
 </li>
 <li>
-<a href="/disclaimer">Disclaimer</a>
+<a href="responsible-gambling">Responsible gambling</a>
 </li>
-</ul>
-</div></div>
+<li>
+<a href="disclaimer">Disclaimer</a>
+</li>
+</ul></div>
+</div>
 <div class="l l1of5">
 <div class="menu">
 <p class="h3">Toplists</p>
 <ul>
 <li>
-<a href="/casino-reviews">Casino Reviews</a>
+<a href="casino-reviews">Casino Reviews</a>
 </li>
 <li>
-<a href="/best-bonus-casinos">Best Bonus Casinos</a>
+<a href="best-bonus-casinos">Best Bonus Casinos</a>
 </li>
 <li>
-<a href="/us-casino-rooms">US Casino Rooms</a>
+<a href="us-casino-rooms">US Casino Rooms</a>
 </li>
 <li>
-<a href="/uk-casino-rooms">UK Casino Rooms</a>
+<a href="uk-casino-rooms">UK Casino Rooms</a>
 </li>
 <li>
-<a href="/no-deposit-bonus">No Deposit Bonus</a>
+<a href="no-deposit-bonus">No Deposit Bonus</a>
 </li>
 <li>
-<a href="/highroller-casino">High Roller Casino</a>
+<a href="highroller-casino">High Roller Casino</a>
 </li>
-</ul>
-</div></div>
+</ul></div>
+</div>
 <div class="l l1of5">
 <div class="menu">
 <p class="h3">Games</p>
 <ul>
 <li>
-<a href="/online-roulette">Roulette</a>
+<a href="online-roulette">Roulette</a>
 </li>
 <li>
-<a href="/online-blackjack">Blackjack</a>
+<a href="online-blackjack">Blackjack</a>
 </li>
 <li>
-<a href="/online-slots">Slots</a>
+<a href="online-slots">Slots</a>
 </li>
 <li>
-<a href="/online-video-poker">Poker</a>
+<a href="online-video-poker">Poker</a>
 </li>
 <li>
-<a href="/online-baccarat">Baccarat</a>
+<a href="online-baccarat">Baccarat</a>
 </li>
 <li>
-<a href="/online-craps">Craps</a>
+<a href="online-craps">Craps</a>
 </li>
 <li>
-<a href="/online-keno">Keno</a>
+<a href="online-keno">Keno</a>
 </li>
 <li>
-<a href="/online-pai-gow">Pai Gow</a>
+<a href="online-pai-gow">Pai Gow</a>
 </li>
 <li>
-<a href="/online-caribbean-stud">Carribean Stud</a>
+<a href="online-caribbean-stud">Carribean Stud</a>
 </li>
-</ul>
-</div></div>
+</ul></div>
+</div>
 <div class="l l1of5">
 <div class="menu">
 <p class="h3">Articles &amp; News</p>
 <ul>
 <li>
-<a href="/casino-rules-strategy">Casino Rules and Strategy</a>
+<a href="casino-rules-strategy">Casino Rules and Strategy</a>
 </li>
 <li>
-<a href="/casino-news">Casino News</a>
+<a href="casino-news">Casino News</a>
 </li>
 <li>
-<a href="/casino-articles">Casino Articles</a>
+<a href="casino-articles">Casino Articles</a>
 </li>
-</ul>
-</div></div>
+</ul></div>
+</div>
 <div id="footer-lang" class="l llast">
 <div id="choose-container">
 <div class="h3">Languages</div>
@@ -781,37 +857,46 @@ Does NOT ACCEPT US Players
 </div>
 </div>
 <div id="foot-text">
-Casinotoplists.com is a comprehensive online casino guide aimed at semi-experienced Internet casino players. Immerse yourself in casino-game rules and read unbiased online casino reviews with information about casino bonuses, software quality and more. We guide you through the exciting world of online casinos and help you make the most of your online gambling experience.
+<p class="left-foot-text">Casinotoplists gives you the best payment option reviews</p>
+<p class="right-foot-text">
+<a id="openEcograCertificate" href="/privacy-policy#" target="_blank" rel="#ecograCertificateOverlay">
+<img src="http://www.ecogra.org/rgp_seal.gif" border="0">
+</a>
+</p>
 </div>
-</div><div class="mboxDefault" style="visibility: visible; display: block;"></div>
-
+</div><script type="text/javascript" src="/js/jquery-tools-1.2.5.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.7.3.min.js"></script>
+<script type="text/javascript" src="/js/ecogra-certificate.js"></script>
+<script type="text/javascript" src="sapphire/thirdparty/jquery-cookie/jquery.cookie.js"></script>
+<img id="cookieImage" alt="" src="http://www.casinotoplists.se/thirdparty/check-cookie.php">
 <script type="text/javascript">
-		mboxCreate('ext-landing-europa-init');
-	</script><div id="mboxMarker-default-ext-landing-europa-init-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://function.tt.omtrdc.net/m2/function/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580499574810-356154&amp;mboxPage=1580499578460-433713&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;mbox=ext-landing-europa-init&amp;mboxId=0&amp;mboxTime=1580499578467&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20101228013532id_%2Fhttp%253A%2F%2Fwww.casinotoplists.com%2Fprivacy-policy&amp;mboxReferrer=&amp;mboxVersion=38" language="JavaScript"></script>
+	
+	jQuery( document ).ready( function() {
+		var imgWidth = jQuery( '#cookieImage' ).width();
+		if( imgWidth > 0 ) {
+			jQuery.cookie( 'thirdPartyCookiesEnabled', '1', { expires:36000 } );
+		} else {
+			jQuery.cookie( 'thirdPartyCookiesEnabled', null );
+		}
 
+	});
+	
+</script>
+<script type="text/javascript" src="/js/geo.js"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ctlus"></script>
+<script type="text/javascript" src="http://new.cetrk.com/pages/scripts/0009/9454.js"></script>
 <div id="overlay-outer"></div>
 <div id="overlay-loading"></div>
 <div id="overlay"><div id="overlay-close" class="btn-close dialog-close"></div><div id="overlay-inner"></div></div>
 <script type="text/javascript">var addthis_config = { data_use_flash: false }</script>
-<script type="text/javascript" src="/js/_LAB-1.0.2rc1.min.js"></script>
-<script type="text/javascript">
-
-$LAB
-.script('/js/_all.v1292505942.js')
-.wait()
-.script('http://s7.addthis.com/js/250/addthis_widget.js#pub=ctlus')
-.script('http://new.cetrk.com/pages/scripts/0009/9454.js')
-.script('/js/sitestats/click_stat.js')
-
-</script>
 		
 		<script type="text/javascript" src="/js/sitestats/s_code_en_US.js"></script>
   		<script type="text/javascript">
    		s.pageName = '/privacy-policy';
 s.pageType = '';
 s.campaign = '';
-s.server = 'NLAMSSVR002';
-s.channel = 'privacy-policy';
+s.server = 'web4';
+s.channel = 'Other';
 s.events = 'event8';
 s.prop1 = 'PrivacyPolicyPage';
 
@@ -822,7 +907,7 @@ s.hier1 = 'index/privacy-policy';
 s_level = '2';
    		var s_code=s.t();if(s_code)document.write(s_code);
   		</script>
-  		<script type="text/javascript"><!--
+  		<script type="text/javascript" src="http://edge.www.casinotoplists.com/assets/_combinedfiles/all.js?m=1308126189"></script><script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script>
 <noscript><img src="http://omsc.casinotoplists.com/b/ss/wcasinotoplistsus/1/H.20.3--NS/0?pageName=/privacy-policy" height="1" width="1" border="0" alt="" /></noscript>
