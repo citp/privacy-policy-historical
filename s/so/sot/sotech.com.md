@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sotech.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210135921id_/http%3A//www.sotech.com/main2007/eval.asp%3Fpid%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotech.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621171309id_/http%3A//www.sotech.com/main2007/eval.asp%3Fpid%3D24) for the most accurate reproduction.*
 
 # Socratic Technologies, Inc.
 
