@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the starcasm.net privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129221749id_/http%3A//starcasm.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcasm.net privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621234100id_/http%3A//starcasm.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : starcasm.net
+
+Nov - 03 | AUTHOR: [Starcasm Staff](http://starcasm.net/archives/author/starcasm "Posts by Starcasm Staff") | Related : 
 
 Effective **November 1, 2008**
 
