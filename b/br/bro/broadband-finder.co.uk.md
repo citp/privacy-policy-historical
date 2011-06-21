@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229064859id_/http%3A//www.broadband-finder.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadband-finder.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622015949id_/http%3A//www.broadband-finder.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Broadband Finder Privacy Policy - Broadband Finder
+# Privacy Policy - Broadband Finder
+
+## Privacy Policy
 
 The following privacy statement explains our policy regarding the personal information we collect about you.
 
 ### 1\. General privacy policy
 
-This policy covers Broadband Finder’s use of personal information that is collected when a user visits our website. The policy also covers other issues relating to personal privacy and how Broadband Finder respects your privacy.
+This policy covers Broadband Finder's use of personal information that is collected when a user visits our website. The policy also covers other issues relating to personal privacy and how Broadband Finder respects your privacy.
 
 Broadband Finder will occasionally ask you for personal information so that we can provide you with a better service or use of tools on our site. Such services/tools include our newsletter, reminder service, broadband comparison and broadband finder. This personal information is solely used to provide you with the service that you requested and is never sold or shared with any third party.
 
@@ -38,16 +40,13 @@ By using our website you agree to accept this privacy policy and are aware that 
 
 ### 7\. Website operated by
 
-This website is operated by UK Web Media LTD, and UK Web Media is a registered company in England & Wales No. 04388827. Registered Address:
+This website is operated by UK Web Media LTD, and UK Web Media is a registered company in England & Wales No. 04388827.  
+Registered Address:
 
-UK Web Media
-
-Unit 8 The Fairground Industrial Estate,
-
-Weyhill,
-
-Hampshire,
-
-SP11 0QN
+UK Web Media  
+Unit 8 The Fairground Industrial Estate,  
+Weyhill,  
+Hampshire,  
+SP11 0QN 
 
 [http://www.ukwebmedia.com](http://www.ukwebmedia.com/ "UK Web Media")
