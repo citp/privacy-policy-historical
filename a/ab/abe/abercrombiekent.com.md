@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abercrombiekent.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202071334id_/http%3A//www.abercrombiekent.com/legal/privacy_statement_and_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abercrombiekent.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622005610id_/http%3A//www.abercrombiekent.com/legal/privacy_statement_and_security.cfm) for the most accurate reproduction.*
 
 # Privacy Statement & Security | Abercrombie & Kent
 
@@ -50,7 +50,7 @@ You should be aware that other Internet sites to which you link to from this Sit
 A&K uses Secure Socket Layers (SSL), the industry standard in transferring information to process your orders. The SSL encrypts, or translates, your order information into a highly indecipherable code, which is processed immediately. When you begin the transaction process, you will move into the secure area of our Site. A warning window may pop up to notify you that you are entering this "safe" area. Once you've entered, the page address (URL) will change from http to https, to let you know you are in a secure area. You will remain in this secure zone for the entire transaction process.
 
 **Contact  Information**  
-Abercrombie & Kent Management Co. LLC  
+Abercrombie & Kent, LLC  
 1411 Opus Place, Executive Towers West II  
 Suite 300  
 Downers Grove, IL 60515-1098, USA  
