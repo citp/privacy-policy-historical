@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226140719id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621072651id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
