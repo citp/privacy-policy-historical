@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaeger.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220221502id_/http%3A//www.jaeger.co.uk/index.cfm%3Fpage%3D1413) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaeger.co.uk privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621031109id_/http%3A//www.jaeger.co.uk/index.cfm%3Fpage%3D1413) for the most accurate reproduction.*
 
 # Jaeger
 
