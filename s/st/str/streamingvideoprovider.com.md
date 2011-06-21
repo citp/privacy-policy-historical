@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamingvideoprovider.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624185656id_/http%3A//www.streamingvideoprovider.co.uk/index.php%3Fa%3Darticle%26it%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingvideoprovider.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621140923id_/http%3A//www.streamingvideoprovider.co.uk/privacy.html) for the most accurate reproduction.*
 
-# PRIVACY
+# Privacy Policy
 
 StreamingVideoProvider Ltd  ("StreamingVideoProvider") values the privacy of our users, members, and others who use [www.StreamingVideoProvider.com](http://www.streamingvideoprovider.com/)  , [www.StreamingVideoProvider.co.uk](http://www.streamingvideoprovider.co.uk/) and any other web sites or services owned or operated by StreamingVideoProvider (the "StreamingVideoProvider Sites") (collectively or individually, "Users").
 
