@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222044423id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622022052id_/http%3A//dreammails.net/pages/privacy.php%3FPHPSESSID%3D8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) for the most accurate reproduction.*
 
 # DreamMails
 
   
-**::** [**HOME**](https://web.archive.org/pages/index.php) **::** [**JOIN US**](https://web.archive.org/pages/confirm.php) **::** [**MEMBERS **](https://web.archive.org/pages/enter.php) **::** [**TERMS**](https://web.archive.org/pages/terms.php) **::** [**HELP**](https://web.archive.org/pages/help.php) **::** [**PRIVACY**](https://web.archive.org/pages/privacy.php) **::** [**ADVERTISE**](https://web.archive.org/pages/advertise2.php) **::** [**UPGRADE**](https://web.archive.org/pages/gold.php) **::** [**BEEN PAID**](https://web.archive.org/pages/beenpaid.php) **::** [**FORUM**](http://www.globalfriendsonline.com/index.php/board,77.0.html) **::** [**SUPPORT**](http://my-ptr.info/support/dreammails/)
+**::** [**HOME**](https://web.archive.org/pages/index.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**JOIN US**](https://web.archive.org/pages/confirm.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**MEMBERS **](https://web.archive.org/pages/enter.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**TERMS**](https://web.archive.org/pages/terms.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**HELP**](https://web.archive.org/pages/help.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**PRIVACY**](https://web.archive.org/pages/privacy.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**ADVERTISE**](https://web.archive.org/pages/advertise2.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**UPGRADE**](https://web.archive.org/pages/gold.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**BEEN PAID**](https://web.archive.org/pages/beenpaid.php?PHPSESSID=8362fce8afadc9c01fe447dd3c6673a5zqtlkqvigiimpacuyednbijkrg010639) **::** [**FORUM**](http://www.globalfriendsonline.com/index.php/board,77.0.html) **::** [**SUPPORT**](http://my-ptr.info/support/dreammails/)
 
 | 
 
-[](http://runner.dreammails.net/scripts/runner.php?BA=3677&hash=c4ca62744846ecf25bd42693a6818d3a&url=http%3A%2F%2Fwww.polarbearclicks.com%2Fpages%2Fxmassales.php)  
+[](http://runner.dreammails.net/scripts/runner.php?BA=4879&hash=da3cf2d171f46e2a6ff9c4cbb53b43f0&url=http%3A%2F%2Foldamsterdampost.com%2Fpages%2Findex.php%3Frefid%3Dbabisana)  
 
 
 |   
