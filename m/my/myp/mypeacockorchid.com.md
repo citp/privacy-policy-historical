@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypeacockorchid.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219231834id_/http%3A//mypeacockorchid.com/%3Fpage_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypeacockorchid.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622075733id_/http%3A//mypeacockorchid.com/%3Fpage_id%3D16) for the most accurate reproduction.*
 
 # MadWrite! » Privacy Policy
 
