@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emediavitals.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214234103id_/http%3A//emediavitals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emediavitals.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622215823id_/http%3A//emediavitals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
