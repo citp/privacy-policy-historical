@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioteck.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220143740id_/http%3A//www.bioteck.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioteck.net privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622083252id_/http%3A//www.bioteck.net/privacy-policy) for the most accurate reproduction.*
 
 # BioTecK.NET » Privacy Policy | Log Into My World |
 
@@ -25,7 +25,10 @@ BioTecK.NET has no access to or control over these cookies that are used by thir
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. BioTecK.NET’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-  
+#### About Behrad:
 
+I'm 28 years old, married to a beautiful woman named Jannie and we live in Eindhoven, the city of light, The Netherlands.   
+From 2006 BioTecK.net is the place where I share my experiences in life, the stuff I do in personal life, show my portfolio and the place where I'll post about my interests; computers & computer related stuff, tips & tricks and basically everything which I want to share.   
+Read more [about me](http://www.bioteck.net/about-me/ "About Behrad"), follow me on Twitter [@BioTecK](http://www.twitter.com/BioTecK "Twitter") or [contact me ](http://www.bioteck.net/contact/ "contact me"). 
