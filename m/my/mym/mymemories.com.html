@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the mymemories.com privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221111403id_/http%3A//www.mymemories.com/mms/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mymemories.com privacy policy that was archived on 2011-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622120125id_/http%3A//www.mymemories.com/mms/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
   
     <title>Privacy Policy | MyMemories Digital Scrapbooking</title>
   
-	<meta name="description" content="MyMemories Suite privacy policy">
+	<meta name="description" content="My Memories Suite privacy policy">
 	<meta name="keywords" content="privacy policy">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="verify-v1" content="QkQ92t/9FI701WBV1tPtyxoQ42GKWuMNPHAn5Nl3bvg=">  
@@ -14,25 +14,40 @@
 
 	<!-- !SCRIPTS AND CSS -->
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/plugin_assets/substruct/javascripts/substruct.js?1292890425" type="text/javascript"></script>
-  <script src="/javascripts/mms.js?1292890450" type="text/javascript"></script>
-  <link type="text/css" rel="stylesheet" media="screen" href="/stylesheets/screen.css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script plugin="substruct" src="/javascripts/substruct.js?1307568657" type="text/javascript"></script>
+  <script src="/javascripts/mms.js?1307568657" type="text/javascript"></script>
 	<link type="text/css" rel="stylesheet" href="/facebox/facebox.css">
-	<link href="/stylesheets/scaffold.css?1292890663" media="screen" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/scaffold.css?1307568657" media="screen" rel="stylesheet" type="text/css">
   
-  <script type="text/javascript" src="/javascripts/hint-textbox.js"></script>
+<link href="/stylesheets/mm.css?1308168837" media="screen" rel="stylesheet" type="text/css">  <script type="text/javascript" src="/javascripts/hint-textbox.js"></script>
   <script type="text/javascript" src="/store/suggestion_js"></script>
-  <script type="text/javascript">
+<script type="text/javascript" src="/javascripts/jquery.cycle.min.js"></script>  <script type="text/javascript">
     jQuery.noConflict();
     jQuery(document).ready(function($) {
       $('a[rel*=facebox]').facebox()
+    jQuery('#MM-Features').cycle({
+      pause:         1,     // true to enable "pause on hover"
+      delay:         200,
+      timeout:       6000
+    });
     })
 
     // Code that uses other library's $ can follow here.
 
-    Cufon.replace('h1', { fontFamily: 'MyOwnTopher' });
-    Cufon.replace('h2.design-home', { fontFamily: 'MyOwnTopher' });
-    Cufon.replace('h3', { fontFamily: 'CartoGothic' });
+    Cufon.replace('.Shop-Heading h3', { fontFamily: 'CartoGothic' });
+
+
+
+
+    function hideCardBox()
+      {
+        document.getElementById("new-card-box").setAttribute("class", "hide-card-box");
+      }
+
+    function showCardBox()
+      {
+        document.getElementById("new-card-box").setAttribute("class", "show-card-box");
+      }
 
   </script>	  
 
@@ -41,7 +56,7 @@
 
 </head>
 
-<body class="internal">
+<body>
 
 
 
@@ -50,44 +65,46 @@
 <!-- HEADER  -->
 <div id="Header">
 
-  <div id="Account">
-      <a href="/my_accounts/store_signup?req=/mms/privacy">log in or register</a>
-    | <a href="/my_accounts">my account</a>
-    | <a href="/my_accounts/downloads">my downloads</a>
-    | <a href="/support">help/support</a>
-  </div>
+  <div id="Right-Elements">
 
-  <div id="Shopping-Links">
-    <a href="/store/gift_certificates">buy gift certificates</a>
-    | <a href="/store/cart" rel="nofollow">my shopping cart</a>
-  </div>
+    <div id="Account">
+        <a href="/my_accounts/store_signup?req=/mms/privacy">log in or register</a>
+      | <a href="/my_accounts">my account</a>
+      | <a href="/my_accounts/downloads">my downloads</a>
+      | <a href="/support">help/support</a>
+      | <a href="/store/cart" rel="nofollow">shopping cart</a>
+    </div>
 
-  <div id="Branding">
-    <a href="/"><img src="/images/common/MyMemories-Digital-Scrapbooking.jpg" alt="My Memories digital scrapbooking kits and scrapbook software" width="240" height="60"></a>
-    <a href="/" class="branding-text">digital scrapbook kits &amp; software</a>
-  </div>
-
-  <div id="Navigation">
-    <ul>
-      <li class="nav-button"><a href="/store/new_designs">New Kits</a></li>
-      <li class="nav-button"><a href="/store/free_digital_scrapbooking_kits">Free Downloads</a></li>
-      <li class="nav-button"><a href="/gallery">Gallery</a></li>
-      <li class="nav-button"><a href="/forums">Forums</a></li>
-      <li class="nav-button last-nav"><a href="http://blog.mymemories.com">Blog</a></li>
-    </ul>
-  </div>
-
-  <div id="Search">
-    <form action="/store/product_search?sort_order=name+asc" method="get">
-      <div><input type="text" class="hintTextbox" id="term" name="term" value="Product Search">
-      <input type="submit" class="main-search-submit" value="search">
-      <script type="text/javascript">
+    <div id="Search">
+      <form action="/store/product_search?sort_order=name+asc" method="get">
+        <div class="search-field"><input type="text" class="hintTextbox" id="term" name="term" value="Product Search"></div>
+        <div class="search-submit"><input type="submit" class="main-search-submit" value="search">
+        <script type="text/javascript">
 //<![CDATA[
 new Autocompleter.Local('term', 'product_lookup_auto_complete', products);
 //]]>
 </script></div>
-    </form>
+      </form>
+    </div>
+
   </div>
+
+  <div id="Branding">
+    <a href="/"><img src="/images/common/mymemories-digital-scrapbooking-logo.png" alt="My Memories digital scrapbooking kits and scrapbook software" width="351" height="86"></a>
+  </div>
+
+  <div id="Navbar-bg">
+  </div>
+  <div id="Navbar">
+    <a href="/">home</a> |
+    <a href="http://www.premiumphotobooks.com/MYME/cart2/">online photobook creator</a> |
+    <a href="/store/new_designs">new kits</a> |
+    <a href="/store/free_digital_scrapbooking_kits">free kits</a> |
+    <a href="/software">software</a> |
+    <a href="/gallery">gallery</a> |
+    <a href="http://www.mymemoriesblog.com/" class="rightmost">blog/forum</a>
+  </div>
+
 </div>
 <!-- HEADER CLOSE -->
 <div class="clear"></div>
@@ -259,75 +276,63 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 	</div>
 
 	<div id="footer">
-<!-- VIDEO TUTORIALS OPEN DIV  -->
-<div id="Tutorials">
-  <h3>Video Tutorials</h3>
-  <ul>
-    <li><a href="http://www.youtube.com/watch?v=0yzR4G2mTyY">MyMemories Suite 2 Introduction Part 1</a></li>
-    <li><a href="http://www.youtube.com/watch?v=nN51NdkRNEE">MyMemories Suite 2 Introduction Part 2</a></li>
-  </ul>
-<hr>
-</div>
-<!-- VIDEO TUTORIALS CLOSE DIV  -->
-      
-    <div id="sitemap">
-      <div class="box">
-        <h3>Quick Links</h3>
-        <ul>
-          <li><a href="/">Home</a></li>
-            <li><a href="/store/buy_software">Buy MyMemories Suite</a></li>
-            <li><a href="http://www.storyrock.com/">About MMS</a></li>
-          <li><a href="/store/search">Search Digital Scrapbooking Kits </a></li>
-          <li><a href="/store/sale_items">Sale Items</a></li>
-<li><a href="/support/contact_us">Contact Technical Support</a></li>
-          <li><a href="/contact">Contact Customer Care</a></li>
-        </ul>
-      </div>
-
-      <div class="box">
-          <h3>On the web</h3>
-          <ul>
-            <li><a href="http://blog.mymemories.com" onclick="javascript: pageTracker._trackPageview('/blog/home');">Our Blog</a></li>
-            <li><a href="http://www.facebook.com/pages/Polaroid-My-Memories-Suite/54853441440?ref=ts">Facebook</a></li>
-            <li><a href="http://twitter.com/MyMemoriesSuite">Twitter</a></li>
-            <li><a href="http://www.youtube.com/user/MyMemoriesSuite">YouTube</a></li>
-          </ul>
-      </div>
-
-      <div class="box">
-        <h3>Resources</h3>
-        <ul>
-            <li><a href="http://www.pinktoque.com/craftblog/category/mmstutorials/">Tutorials by The Pink Toque</a></li>
-            <li><a href="/support/faqs">FAQs</a></li>
-            <li><a href="/mms/scrapbook_software">Features</a></li>
-            <li><a href="/support/update">Updates &amp; Downloads</a></li>
-            <li><a href="http://blog.mymemories.com/category/tips-tricks-tutorials/" onclick="javascript: pageTracker._trackPageview('/blog/category/tips-tricks-tutorials/');">Tips &amp; Tricks</a></li>
-
-        </ul>
-      </div>
-
-        <div class="box">
-          <h3>MyMemories.com</h3>
-          <ul>
-            <li><a href="/logins/new">Create an account</a></li>
-            <li><a href="/mms/privacy">Privacy Policy</a></li>
-            <li><a href="/mms/returns_policy">Returns Policy</a></li>
-            <li><a href="/mms/resources">Internet Resources</a></li>
-          </ul>
-        </div>
+    <div class="box">
+      <h3>Quick Links</h3>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/store/search">Search Digital Scrapbooking Kits</a></li>
+        <li><a href="/store/sale_items">Sale Items</a></li>
+        <li><a href="/support/contact_info">MyMemories Contact Info</a></li>
+        <li><a href="/support/contact_us">Contact Technical Support</a></li>
+         <li><a href="/contact">Contact Customer Care</a></li>
+      </ul>
     </div>
+
+    <div class="box">
+        <h3>On the web</h3>
+        <ul>
+          <li><a href="http://www.mymemoriesblog.com/" onclick="javascript: pageTracker._trackPageview('/blog/home');">Our Blog</a></li>
+          <li><a href="http://www.facebook.com/pages/Polaroid-My-Memories-Suite/54853441440?ref=ts">Facebook</a></li>
+          <li><a href="http://twitter.com/MyMemoriesSuite">Twitter</a></li>
+          <li><a href="http://www.youtube.com/user/MyMemoriesSuite">YouTube</a></li>
+        </ul>
+    </div>
+
+    <div class="box">
+      <h3>Resources</h3>
+      <ul>
+        <li><a href="https://order.srprintservices.com/cart/orderhistory.cfm?app=mymemoriessuite">Software Print Order Status</a></li>
+        <li><a href="http://www.pinktoque.com/craftblog/category/mmstutorials/">Tutorials by The Pink Toque</a></li>
+        <li><a href="/support/faqs">FAQs</a></li>
+        <li><a href="/mms/scrapbook_software">Software Features</a></li>
+        <li><a href="/mms/digital_scrapbooking_software_giveaway">Software Giveaway</a></li>
+        <li><a href="http://www.mymemoriesblog.com/search/label/Tutorials" onclick="javascript: pageTracker._trackPageview('/blog/category/tips-tricks-tutorials/');">Tips &amp; Tricks</a></li>
+        <li><a href="/support/update">Software Updates &amp; Downloads</a></li>
+      </ul>
+    </div>
+
+      <div class="box rightmost">
+        <h3>MyMemories.com</h3>
+        <ul>
+          <li><a href="/logins/new">Create an account</a></li>
+          <li><a href="/mms/privacy">Privacy Policy</a></li>
+          <li><a href="/mms/returns_policy">Returns Policy</a></li>
+          <li><a href="/mms/resources">Internet Resources</a></li>
+        </ul>
+      </div>
 
     <div class="clear"></div>
     <div id="copyright">
         <p class="copyright">
-          ©MyMemories Suite&nbsp;&nbsp; All rights reserved. MyMemories Suite™ is a registered trademark of StoryRock, Inc.
+          ©<a href="/">MyMemories Digital Scrapbooking</a>&nbsp;&nbsp; All rights reserved. MyMemories™ and My Memories Suite™ are registered trademarks of StoryRock, Inc.
         </p>
     </div>
 	</div><!-- !FOOTER CLOSE DIV -->
+
+
 </div>
 		
 	<script type="text/javascript">Cufon.now();</script>
-
 
   <!-- Google Analytics -->
 <script type="text/javascript">
