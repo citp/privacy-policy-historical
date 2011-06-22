@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the deewr.gov.au privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214042044id_/http%3A//www.deewr.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deewr.gov.au privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622205915id_/http%3A//www.deewr.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 ### DEEWR Privacy Policy
 
-© Commonwealth of Australia 2009
+© Commonwealth of Australia 2011
 
 All personal information collected by the Department is protected by the _Privacy Act 1988_. Information on the Commonwealth _Privacy Act 1988_ can be found on the [Federal Privacy Commissioner’s web site](http://www.privacy.gov.au/).
 
