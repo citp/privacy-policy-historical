@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the groupspaces.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215234125id_/http%3A//groupspaces.com/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupspaces.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622074720id_/http%3A//groupspaces.com/c/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : GroupSpaces
 
-_Last Updated: 29 June 2010  
+_Last Updated: 9 May 2011  
 _  
 This Privacy Policy governs the collection, storage and use of personal data collected by us, GroupSpaces Limited, when you register and create a group (“ **Group** ”) using our website at groupspaces.com (the " **Website** "). It provides you with details about the personal data we collect from you and members of your Group, how we use that personal data and your and their rights to control our use of personal data. Please read this Privacy Policy carefully. By visiting this Website and creating and/or using any Group (the " **Services** "), you confirm that you have read, understood and agree to this Privacy Policy in its entirety. If you do not agree to this Privacy Policy in its entirety, you must not use the Services. 
 
@@ -10,7 +10,7 @@ Any capitalized terms not defined herein have the meaning set forth in the [Grou
 
 ## **1\. Who we are**
 
-For the purpose of the Data Protection Act 1998, the data controller is GroupSpaces Limited of 6 Bakers Yard, London EC1R 3DD. We respect the right that you and members of your Group have to privacy and will only process personal data you or they provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws. 
+For the purpose of the Data Protection Act 1998, the data controller is GroupSpaces Limited of 32-38 Scrutton Street, London EC2A 4RQ. We respect the right that you and members of your Group have to privacy and will only process personal data you or they provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws. 
 
 If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please e-mail us at: [helpdesk@groupspaces.com](mailto:helpdesk@groupspaces.com).
 
@@ -54,7 +54,7 @@ We (or third party data processors acting on our behalf) may collect, store and 
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our members (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you and your members to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. 
 
-Other than as set out in this Privacy Policy, we will not disclose, sell or rent personal data about you or your members to any third party unless you or your members have consented to this. If you or your members do consent but later change your mind, you or your members may contact us and we will cease any such activity. 
+**Other than as set out in this Privacy Policy, we will not disclose, sell or rent personal data about you or your members to any third party unless you or your members have consented to this. If you or your members do consent but later change your mind, you or your members may contact us and we will cease any such activity.**
 
 However, if a third party acquires all (or substantially all) of our business and/or assets, we may disclose personal data about you and your members to that third party in connection with the acquisition. 
 
