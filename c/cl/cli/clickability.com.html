@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231051742id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2011-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622225149id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -13,8 +13,7 @@
 	<link rel="shortcut icon" href="http://media.cmssuccess.com/designimages/favicon.ico">
      
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/g/js/prototype.js"></script>
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 	//Objects to interact with server
 	var CMSUtil = {
@@ -22,7 +21,7 @@
 									returnFunction, action, servlet, 
 									extraFields){
 			if(isAjax == true && returnFunction != null){
-            	var queryString = Form.serialize(form);
+            	var queryString = this.serializeForm(form);
 				if(queryString != null){
 					if(action != null){
 						queryString += "&action=" + action + "&isAjax=Y";	
@@ -33,22 +32,85 @@
             			queryString += extraFields;
             		}
             		
-            		var handlerFunction = function(originalRequest){
-            			var response = "(" + originalRequest.responseText + ")";
-            			response = eval(response);
-						buildObjectFunction(response);	
-            			returnFunction(response);    
-            		}    
-           
-					var myAjax = new Ajax.Request(servlet,
-    					{method: 'post', postBody: queryString, onComplete: handlerFunction}
-					);
+            		var req = this.getXmlRequestObject();
+					if(req != null) {
+            			var handlerFunction = this.getReadyStateHandler(req, returnFunction, buildObjectFunction);
+						req.onreadystatechange = handlerFunction;
+						req.open("POST", servlet, true);
+            			req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+            			req.send(queryString);
+            			return false;
+					}
 				}
             }else{
  				this.submitUserFormNoAJAX(form, action, servlet); 
 			}
 		},
 		
+		getXmlRequestObject: function() {
+			var req;
+			if(window.XMLHttpRequest){
+				req = new XMLHttpRequest();
+			}else if(window.ActiveXObject){
+				try{
+					req = new ActiveXObject("Msxml2.XMLHTTP");
+				}catch(e){
+					try{
+						req = new ActiveXObject("Microsoft.XMLHTTP");
+					}catch(e){
+               			return null;
+               		}
+				}
+			}
+    		return req;
+		},
+		
+		getReadyStateHandler: function(req, returnFunction, buildObjectFunction) {
+
+			return function () {
+
+		    	// If the request's status is "complete"
+    			if (req.readyState == 4) {
+      
+      				// Check that a successful server response was received
+   		   			if (req.status == 200) {
+
+        				// Pass the XML payload of the response to the 
+        				// handler function
+        				var response = "(" + req.responseText + ")";
+            			response = eval(response);
+						buildObjectFunction(response);	
+            			returnFunction(response); 
+					} else {
+						// An HTTP problem has occurred
+        				alert("HTTP error: "+req.status);
+      				}
+    			}
+  			}
+		},
+		
+		serializeForm: function(form){
+			var paramString = "";
+			var ampRegex = new RegExp("&", "g");
+	  		var replaceAmpStr = escape("&#38;");
+	  		var percentRegex = new RegExp("%", "g"); 
+	   		var replacePerStr = escape("&#37;");
+
+       		for(var i = 0;i < form.elements.length;i++){
+       			var field = form.elements[i];
+       			if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type !== "submit")){
+       				if(field.type === "checkbox" && !field.checked){
+       					 continue;
+       				}
+					var fieldValue = field.value;
+					fieldValue = fieldValue.replace(percentRegex, replacePerStr);
+	       	    	fieldValue = fieldValue.replace(ampRegex, replaceAmpStr);
+       				paramString += field.name + "=" + fieldValue + "&";
+           		}
+       		}
+
+			return paramString;
+		},
 		submitUserFormNoAJAX: function(form, action, servlet){
 			if(servlet == null) return null;
     	    form.action = servlet;
@@ -235,6 +297,7 @@
 		
 		buildUser: function(response){
 			if(response.success == true){
+				User.ID = response.ID;
 				User.username = response.username;
 				User.email = response.email;
 				User.firstName = response.firstName;
@@ -352,6 +415,7 @@
 			Comment.extID = null;		
 		
 			if(response.success == true){
+				Comment.id = response.id;
 				Comment.name = response.name;
 				Comment.comment = response.comment;
 				Comment.email = response.email;
@@ -598,6 +662,7 @@
 	
 	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
 		method(form, isAjax, returnFunction);
+	
 		if(isAjax){
 			return false;
 		} else {
@@ -608,972 +673,7 @@
 </script>
 
 
-	<script>
-		var profileUrl = "http://" + document.domain + "/profiles/";
-var defaultRegisterFormName = "frmRegister";
-var defaultSystemMessageObjId = "systemMessage";
-var tapiUrl = "http://" + document.domain + "/templates/tapi";
-
-var profileContentTypeId = "20687";
-var profileSectionId = "517032";
-
-var defaultCorpSalesRepId = "49455377";
-var defaultMediaSalesRepId = "50090102";
-
-var paymentOptId = "167";
-
-var categoryIndustry = "category.7122";
-var categorySaasProduct = "category.7127";
-var categoryInterest = "category.7132";
-var categoryJobDept = "category.7137";
-var categoryRoll = "category.7107";
-var categoryPersona = "category.7147";
-var categoryRevenue = "category.7142";
-var categorySolution = "category.7112";
-
-var PersonaIds = {
-	contentManager: 300417,
-	developer: 300422,
-	executive: 300427,
-	itAnalyst: 300432
-}
-
-
-
-var rolls = new Array();
-rolls['Executive'] = PersonaIds.executive;
-rolls['VP'] = PersonaIds.executive;
-rolls['Director'] = PersonaIds.executive;
-rolls['Manager'] = PersonaIds.contentManager;
-rolls['Content Manager'] = PersonaIds.contentManager;
-rolls['None of These'] = PersonaIds.contentManager;
-
-var SolutionIds = {
-	corporate: 295207,
-	government: 295212,
-	media: 295217
-}
-
-var industryTitles = new Array();
-industryTitles['Media-Broadcast'] = SolutionIds.media;
-industryTitles['Media-Magazine'] = SolutionIds.media;
-industryTitles['Media-Newspaper'] = SolutionIds.media;
-industryTitles['Media-Online'] = SolutionIds.media;
-industryTitles['Media-Other'] = SolutionIds.media;
-industryTitles['Entertainment'] = SolutionIds.media;
-
-
-var ValidateFormFunctions ={
-	trim: function(stringToTrim){ 
-		return stringToTrim.replace(/^\s+|\s+$/g,""); 
-	},
-
-
-	ltrim: function(stringToTrim){ 
-		return stringToTrim.replace(/^\s+/,""); 
-	},
-
-
-	rtrim: function(stringToTrim){
-		return stringToTrim.replace(/\s+$/,""); 
-	},
-
-
-	replaceSpacesWithOne: function(stringToTrim){ 
-		return ValidateFormFunctions.removeChars(stringToTrim.replace(/ \s+/g, " ")); 
-	},
-
-
-	removeChars: function(string){ 
-		return string.replace(/[^0-9,a-z,A-Z, ]/gi, ""); 
-	},
-
- 	isValidPhone: function(string){ 
-		var reg = /^(\+\d)*\s*(\({0,1}\d{3}\){0,1}\s*)+(-{0,1}|\s{0,1}|\.{0,1})\d{3}(-{0,1}|\s{0,1}|\.{0,1})\d{4}$/; 
-		return reg.test(string)
- 	},
-
-	isValidEmail: function(address){
-    	var reg = /^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,3}|[0-9]{1,3})(\]?)$/;
-    	return reg.test(address); 
-	},
-
-	randomPassword: function(length){
-		chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
-		pass = "";
-		for(x=0;x<length;x++){
-			i = Math.floor(Math.random() * 62);
-			pass += chars.charAt(i);
-		}
-		return pass;
-	}
-}
-
-var SMActions = {
-	hrIsItemSaved: function (response) {
-		try{
-			if(response.success == true){
-				SMActions.disableSave(document.getElementById("saveToFavorites"));
-			}
-			return true;
-		}catch(e){ RegActions.displayMessage("systemMessage", e, "System", document.frmRegister, false); return false; }
-	},
-		
-	addToFavorites: function (cid){
-		try{
-			if(cid > 0){
-				if(CLICK_CS.cookiejar.fetch("curUserInfo")){
-					var addToSavedForm = FormCreator.createForm("addToSavedForm", "POST", "");
-				
-					FormCreator.createInputField(addToSavedForm, "hidden", "contentID", CLICK_CS.subcookiejar.fetch("curUserInfo", "cid"));
-					FormCreator.createInputField(addToSavedForm, "hidden", "ctid", "20627");
-					FormCreator.createInputField(addToSavedForm, "hidden", "setReady", "Y");
-					FormCreator.createInputField(addToSavedForm, "hidden", "editContent", "Y");
-					FormCreator.createInputField(addToSavedForm, "hidden", "element.title", CLICK_CS.subcookiejar.fetch("curUserInfo", "title"));
-					FormCreator.createInputField(addToSavedForm, "hidden", "linkedcontent.savedItemsProfile.appendonly", "true");
-					FormCreator.createInputField(addToSavedForm, "hidden", "linkedcontent.templatetag", "savedItemsProfile");
-					FormCreator.createInputField(addToSavedForm, "hidden", "linkedcontent.savedItemsProfile.tocontentids", cid);
-		
-					editUserContent(addToSavedForm, true, SMActions.hrAddToSavedForm);
-				}else{
-					alert("You must login to be able to save items.")
-				}
-			}else{
-				console.log("A valid ID was not passed in")
-			}
-		}catch(e){
-			console.log(e)
-		}
-	},
-		
-	hrAddToSavedForm: function (){
-		if(UserContent.error != undefined){
-			if(UserContent.error == "Error creating discussion"){
-				alert("The item has been saved successfully.")
-				SMActions.disableSave(document.getElementById("saveToFavorites"));
-				
-			}else{
-				alert(UserContent.error);
-			}
-		}
-	},
-		
-	disableSave: function (obj){
-		obj.onclick = "";
-		obj.style.color = "#eeeeee";
-		obj.style.cursor = "";
-	}
-}
-
-var FormCreator = {
-	createForm: function(name, method, action){
-		try{
-			var form = document.createElement("FORM");
-			document.body.appendChild(form);
-			form.name = name;
-			form.method = method;
-			form.action = action;
 			
-			return form;
-
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	
-	createInputField: function (form, type, name, value){
-		try{
-			var field = document.createElement('input');
-			field.setAttribute('type', type);
-			field.setAttribute('name', name);
-			field.value = value;
-			form.appendChild(field);
-		
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}			
-	},
-	
-	toggleAllFormFields: function(form, disableAction){
-		var el = form.elements;
-		for(var i=0;i<el.length;i++){
-			el[i].setAttribute('disabled', disableAction)
-		}
-	}
-}
-
-if(RegActions === undefined){
-	var RegActions = {};
-}
-
-RegActions = {
-	displayMessage: function(options){
-		try{
-			location.hash="top";
-			var errorMessage = options.errorMessage;
-		
-			if(options.errorType != undefined && options.errorType != ""){
-				errorMessage = options.errorType + ": " + errorMessage;
-			}
-			
-			if(options.systemMessageObjId != undefined && document.getElementById(options.systemMessageObjId) != undefined){
-				var systemMessageObj = document.getElementById(options.systemMessageObjId)
-			}else if(defaultSystemMessageObjId != undefined && document.getElementById(defaultSystemMessageObjId) != undefined){
-				var systemMessageObj = document.getElementById(defaultSystemMessageObjId)
-			}
-			
-			if(systemMessageObj != undefined){
-				systemMessageObj.innerHTML = errorMessage;
-				systemMessageObj.style.display = "";
-			}else{
-				alert(errorMessage);
-			}
-		
-			if(options.hideFormName != undefined && document[options.hideFormName] != undefined){
-				var form = document[options.hideFormName];
-			}else if(defaultRegisterFormName != undefined && document[defaultRegisterFormName] != undefined){
-				var form = document[defaultRegisterFormName];
-			}
-			
-			if(form != undefined){
-				form.style.display = (options.disableAction == undefined ? "" : options.disableAction);
-			}
-			
-			return false;
-		}catch(e){ alert(e); }
-	},
-	
-	
-	ajaxRequest: function(url,data, returnFunction, actionType) {  
-		try{
-			var handlerFunction = function(originalRequest){
-				var response = "(" + ValidateFormFunctions.trim(originalRequest.responseText) + ")";
-				response = eval(response);
-				returnFunction(response);    
-       		}    
-			
-			
-			if(actionType == undefined)
-				actionType = "get";
-			
-			var aj = new Ajax.Request(  
-				url, {  
-					method: actionType,   
-					parameters: data,   
-					onComplete: handlerFunction  
-					}  
-			);
-			return true;
-			
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	
-	initHrRun: function(){
-		RegActions.eloquaTries = 0;
-		
-		RegActions.hrCreateUserShortFormRun = false;
-		RegActions.hrSendShortFormEmailRun = false;
-		RegActions.hrLongFormEmailRun = false;
-		
-		RegActions.hrUpdateUserSubscriptionRun = false;
-		RegActions.hrVerifyIDInsertedRun = false;
-		RegActions.hrUpdateUserRun = false;
-		RegActions.hrCreateProfileRun = false;
-		RegActions.hrCreateUserRun = false;
-		RegActions.hrCreateEloquaUserRun = false;	
-	},
-
-
-	hrAvailableUserEmail: function(response) {
-		try{
-			RegActions.displayMessage({
-				errorMessage: "Processing Request...Verifying User Email.",
-				disableAction: "none"
-			});
-			
-			if(response.errorMessage != undefined){
-				RegActions.displayMessage({
-					errorMessage: response.errorMessage
-				});
-			}else{
-				RegActions.initHrRun();				
-				RegActions.createEloquaUser();
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	hrAvailableUserEmailShortForm: function(response) {
-		try{
-			RegActions.displayMessage({
-				errorMessage: "Processing Request...Verifying User Email.",
-				disableAction: "none"
-			});
-			
-			if(response.errorMessage != undefined){
-				RegActions.displayMessage({
-					errorMessage: response.errorMessage
-				});
-			}else{
-				RegActions.initHrRun();				
-				RegActions.createUserShortForm();
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	createEloquaUser: function(){
-		try{
-			RegActions.eloquaTries += 1;
-			
-			RegActions.displayMessage({
-				errorMessage: "Processing Request...Contacting Servers",
-				disableAction: "none"
-			});
-			
-			var registerForm = document[defaultRegisterFormName];
-
-			var createEloquaUserForm = FormCreator.createForm("createEloquaUserForm", "POST", "");
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "elqFormName", "masterLeadForm");
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "elqCustomerGUID", "");
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "elqCookieWrite", "0");
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "elqSiteID", "819");
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "oid", "00D30000000094o");
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "lead_source", "Web Lead");
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "url", "http://now.eloqua.com/e/f2.aspx");
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "retURL", tapiUrl + "?subAction=success");
-			
-			if(registerForm.campaign_id != undefined){
-				FormCreator.createInputField(createEloquaUserForm, "hidden", "campaign_id", registerForm.campaign_id.value);
-			}
-			
-			if(registerForm.whitepaper != undefined){
-				FormCreator.createInputField(createEloquaUserForm, "hidden", "whitepaper", registerForm.whitepaper.value);
-			}
-						
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "first_name", registerForm.firstname.value);
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "last_name", registerForm.lastname.value);
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "company", registerForm.company.value);
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "phone", registerForm.phone.value);
-			FormCreator.createInputField(createEloquaUserForm, "hidden", "email", registerForm.email.value);
-			
-			if(registerForm[categoryIndustry] != undefined && registerForm[categoryIndustry].value != "")
-				FormCreator.createInputField(createEloquaUserForm, "hidden", "Industry", registerForm[categoryIndustry].options[registerForm[categoryIndustry].selectedIndex].text);
-				
-			if(registerForm[categorySaasProduct] != undefined && registerForm[categorySaasProduct].value != "")
-				FormCreator.createInputField(createEloquaUserForm, "hidden", "useSaas", registerForm[categorySaasProduct].options[registerForm[categorySaasProduct].selectedIndex].text);
-			
-			if(registerForm[categoryInterest] != undefined && registerForm[categoryInterest].value != "")
-				FormCreator.createInputField(createEloquaUserForm, "hidden", "cmsInterest", registerForm[categoryInterest].options[registerForm[categoryInterest].selectedIndex].text);
-			
-			if(registerForm[categoryJobDept] != undefined && registerForm[categoryJobDept].value != "")
-				FormCreator.createInputField(createEloquaUserForm, "hidden", "jobDept", registerForm[categoryJobDept].options[registerForm[categoryJobDept].selectedIndex].text);
-						
-			if(registerForm[categoryRoll] != undefined && registerForm[categoryRoll].value != "")
-				FormCreator.createInputField(createEloquaUserForm, "hidden", "jobLevel", registerForm[categoryRoll].options[registerForm[categoryRoll].selectedIndex].text);
-				
-			if(registerForm[categoryRevenue] != undefined && registerForm[categoryRevenue].value != "")
-				FormCreator.createInputField(createEloquaUserForm, "hidden", "revenue", registerForm[categoryRevenue].options[registerForm[categoryRevenue].selectedIndex].text);
-				
-			RegActions.ajaxRequest(tapiUrl, "ran=" + Math.floor(Math.random() * 100000000) + "&subAction=postForm&" + Form.serialize(createEloquaUserForm), RegActions.hrCreateEloquaUser);
-			
-			//Only needed since things are timing out
-			setTimeout(function(){
-				return RegActions.hrCreateEloquaUser({success:true});
-			}, 3000)
-			
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	hrCreateEloquaUser: function(response){
-		try{
-			if(RegActions.hrCreateEloquaUserRun === false){
-				RegActions.hrCreateEloquaUserRun = true;
-				
-				RegActions.displayMessage({
-					errorMessage: "Processing Request...Servers Connected",
-					disableAction: "none"
-				});
-			
-				if(response.errorMessage != undefined){
-					if(RegActions.eloquaTries < 3){
-						RegActions.hrCreateEloquaUserRun = false;
-						RegActions.createEloquaUser();
-					}else{
-						RegActions.displayMessage({
-							errorMessage: response.errorMessage
-							});
-					}
-					
-					return false;
-				}else if(response == undefined || response == "" || response.success == undefined){
-					RegActions.displayMessage({
-						errorMessage: "An error has occurred submitting your data to Eloqua.  Please try again."
-					});
-					return false;
-			
-				}else{
-					RegActions.createUserForm();
-				}
-				return false;
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	createUserShortForm: function(){
-		try{
-			RegActions.displayMessage({
-				errorMessage: "Processing Request...Creating User",
-				disableAction: "none"
-			});
-			
-			var registerForm = document[defaultRegisterFormName];
-		
-			var createUserForm = FormCreator.createForm("createUserForm", "POST", "");
-			//FormCreator.createInputField(createUserForm, "hidden", "action", "doReg");
-			FormCreator.createInputField(createUserForm, "hidden", "rurl", tapiUrl + "?subAction=success");
-			FormCreator.createInputField(createUserForm, "hidden", "destid", profileSectionId);
-			FormCreator.createInputField(createUserForm, "hidden", "email", registerForm.email.value);
-			FormCreator.createInputField(createUserForm, "hidden", "permanent", "Y");
-			FormCreator.createInputField(createUserForm, "hidden", "doLogin", "y");
-			
-			if(registerForm.password1 != undefined){
-				FormCreator.createInputField(createUserForm, "hidden", "password1", registerForm.password1.value);
-			}
-			
-			createUser(createUserForm, true, RegActions.hrCreateUserShortForm);
-
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	
-	hrCreateUserShortForm: function(){
-		try{
-			if(RegActions.hrCreateUserShortFormRun === false){
-				RegActions.hrCreateUserShortFormRun = true;
-			
-				RegActions.displayMessage({
-					errorMessage: "Processing Request...Verifying User Created.",
-					disableAction: "none"
-				});
-				
-				if(User.error != undefined){							
-					throw User.error;
-				}else{
-					RegActions.ajaxRequest(tapiUrl, {"subAction":"sendShortFormEmail", p:RegActions.userPassword, "e":document[defaultRegisterFormName].email.value, uid:RegActions.uid}, RegActions.hrSendShortFormEmail)
-				}
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	
-	hrSendShortFormEmail: function(response){
-		try{
-			if(RegActions.hrSendShortFormEmailRun === false){
-				RegActions.hrSendShortFormEmailRun = true;
-			
-				if(response.errorMessage != undefined){
-					RegActions.displayMessage({
-						errorMessage: response.errorMessage
-					});
-				}else{
-					goToReturnUrl();
-				}
-				
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	
-	createUserForm: function(){
-		try{
-			var registerForm = document[defaultRegisterFormName];
-			
-			if(registerForm.frmAction.value === "updateProfileAJAX"){
-				var errorMessage = "Processing Request...Updating User"
-			}else{
-				var errorMessage = "Processing Request...Creating User"
-			}	
-			
-			RegActions.displayMessage({
-				errorMessage: errorMessage,
-				disableAction: "none"
-			});
-			
-			var createUserForm = FormCreator.createForm("createUserForm", "POST", "");
-			FormCreator.createInputField(createUserForm, "hidden", "rurl", tapiUrl + "?subAction=success");
-			FormCreator.createInputField(createUserForm, "hidden", "destid", profileSectionId);
-			FormCreator.createInputField(createUserForm, "hidden", "firstname", registerForm.firstname.value);
-			FormCreator.createInputField(createUserForm, "hidden", "lastname", registerForm.lastname.value);
-			FormCreator.createInputField(createUserForm, "hidden", "company", registerForm.company.value);
-			FormCreator.createInputField(createUserForm, "hidden", "phone", registerForm.phone.value);
-			FormCreator.createInputField(createUserForm, "hidden", "email", registerForm.email.value);
-			FormCreator.createInputField(createUserForm, "hidden", "doLogin", "y");
-			
-			if(registerForm.password1 != undefined)
-				FormCreator.createInputField(createUserForm, "hidden", "password1", registerForm.password1.value);
-				
-			if(registerForm.frmAction.value === "updateProfileAJAX"){
-				updateUser(createUserForm, true, RegActions.hrCreateUser);
-				//RegActions.ajaxRequest("/s", Form.serialize(createUserForm), RegActions.hrCreateUser);
-
-			}else{
-				createUser(createUserForm, true, RegActions.hrCreateUser);
-			}
-
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	hrCreateUser: function(){
-		try{
-			if(RegActions.hrCreateUserRun === false){
-				RegActions.hrCreateUserRun = true;
-			
-				RegActions.displayMessage({
-					errorMessage: "Processing Request...Verifying User Created.",
-					disableAction: "none"
-				});
-			
-				if(User.error != undefined){							
-					throw User.error;
-				}else{
-					RegActions.createProfileForm();
-				}
-				
-				return false;
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	createProfileForm: function(){
-		try{
-			RegActions.displayMessage({
-				errorMessage: "Processing Request...Creating Profile",
-				disableAction: "none"
-			});
-			
-			var registerForm = document[defaultRegisterFormName];
-		
-			var createProfileForm = FormCreator.createForm("createProfileForm", "POST", "");
-			FormCreator.createInputField(createProfileForm, "hidden", "rurl", tapiUrl + "?subAction=success");
-			FormCreator.createInputField(createProfileForm, "hidden", "ctid", profileContentTypeId);
-			FormCreator.createInputField(createProfileForm, "hidden", "setReady", "Y");
-			FormCreator.createInputField(createProfileForm, "hidden", "destid", profileSectionId);
-			FormCreator.createInputField(createProfileForm, "hidden", "onFailure", tapiUrl + "?subAction=fail");
-			FormCreator.createInputField(createProfileForm, "hidden", "element.title", registerForm.email.value);
-			FormCreator.createInputField(createProfileForm, "hidden", "element.firstName", registerForm.firstname.value);
-			FormCreator.createInputField(createProfileForm, "hidden", "element.lastName", registerForm.lastname.value);
-			FormCreator.createInputField(createProfileForm, "hidden", "element.company", registerForm.company.value);						
-			FormCreator.createInputField(createProfileForm, "hidden", "element.phone", registerForm.phone.value);
-			FormCreator.createInputField(createProfileForm, "hidden", "element.email", registerForm.email.value);
-				
-			if(registerForm[categoryIndustry] != undefined && registerForm[categoryIndustry].value != ""){
-				var industryText = registerForm[categoryIndustry].options[registerForm[categoryIndustry].selectedIndex].text;
-				var industryValue = registerForm[categoryIndustry].options[registerForm[categoryIndustry].selectedIndex].value;
-				
-				if(industryTitles[industryText] != undefined){
-					var solutionId = industryTitles[industryText];
-				}else{
-					var solutionId = SolutionIds.corporate;
-				}
-				
-				FormCreator.createInputField(createProfileForm, "hidden", categoryIndustry, industryValue);
-				FormCreator.createInputField(createProfileForm, "hidden", categorySolution, solutionId);
-			}
-			
-			if(registerForm[categorySaasProduct] != undefined && registerForm[categorySaasProduct].value != ""){
-				FormCreator.createInputField(createProfileForm, "hidden", categorySaasProduct, registerForm[categorySaasProduct].options[registerForm[categorySaasProduct].selectedIndex].value);
-			}
-			
-			if(registerForm[categoryInterest] != undefined && registerForm[categoryInterest].value != ""){
-				FormCreator.createInputField(createProfileForm, "hidden", categoryInterest, registerForm[categoryInterest].options[registerForm[categoryInterest].selectedIndex].value);
-			}
-			
-			if(registerForm[categoryJobDept] != undefined && registerForm[categoryJobDept].value != ""){
-				var jobDeptValue = registerForm[categoryJobDept].options[registerForm[categoryJobDept].selectedIndex].value;
-				var jobDeptText = registerForm[categoryJobDept].options[registerForm[categoryJobDept].selectedIndex].text;
-				FormCreator.createInputField(createProfileForm, "hidden", categoryJobDept, jobDeptValue);
-			}
-			
-			if(registerForm[categoryRoll] != undefined && registerForm[categoryRoll].value != ""){
-					var rollValue = registerForm[categoryRoll].options[registerForm[categoryRoll].selectedIndex].value;
-					var rollText = registerForm[categoryRoll].options[registerForm[categoryRoll].selectedIndex].text;
-					FormCreator.createInputField(createProfileForm, "hidden", categoryRoll, rollValue);
-
-					var rollTitle = rolls[rollText];
-
-					var jobDeptTitles = new Array();
-					jobDeptTitles['Marketing'] = PersonaIds.contentManager;
-					jobDeptTitles['Interactive, Digital, Web Development'] = PersonaIds.developer;
-					jobDeptTitles['Consultant'] = PersonaIds.itAnalyst;
-					jobDeptTitles['Information Technology'] = PersonaIds.itAnalyst;
-					jobDeptTitles['Finance'] = PersonaIds.executive;
-					jobDeptTitles['Business Development'] = PersonaIds.executive;
-					jobDeptTitles['Project Management'] = PersonaIds.itAnalyst;
-					jobDeptTitles['Content'] = PersonaIds.contentManager;
-					jobDeptTitles['Editorial'] = PersonaIds.contentManager;
-					jobDeptTitles['Publisher'] = PersonaIds.executive;
-					jobDeptTitles['None of These'] = PersonaIds.executive;
-					
-					if(rollText != ""){
-						if(jobDeptText == "Marketing"){
-							jobDeptTitles['Marketing'] = rollTitle;
-						}else if(jobDeptText == "Content"){
-							jobDeptTitles['Content'] = rollTitle;
-						}else if(jobDeptText == "Editorial"){
-							jobDeptTitles['Editorial'] = rollTitle;
-						}
-					}
-					
-					FormCreator.createInputField(createProfileForm, "hidden", categoryPersona, jobDeptTitles[jobDeptText]);
-			}				
-				
-			if(registerForm[categoryRevenue] != undefined && registerForm[categoryRevenue].value != "")
-				FormCreator.createInputField(createProfileForm, "hidden", categoryRevenue, registerForm[categoryRevenue].options[registerForm[categoryRevenue].selectedIndex].value);
-	
-
-			FormCreator.createInputField(createProfileForm, "hidden", "linkedcontent.profileRep.appendonly", registerForm["linkedcontent.profileRep.appendonly"].value);
-			FormCreator.createInputField(createProfileForm, "hidden", "linkedcontent.templatetag", registerForm["linkedcontent.templatetag"].value);
-			
-			if(solutionId === SolutionIds.media){
-				FormCreator.createInputField(createProfileForm, "hidden", "linkedcontent.profileRep.tocontentids", defaultMediaSalesRepId);
-			}else{
-				FormCreator.createInputField(createProfileForm, "hidden", "linkedcontent.profileRep.tocontentids", defaultCorpSalesRepId);
-			}
-			
-			
-			setTimeout(function(){
-				if(registerForm.frmAction.value === "updateProfileAJAX"){
-					FormCreator.createInputField(createProfileForm, "hidden", "editContent", "Y");
-					FormCreator.createInputField(createProfileForm, "hidden", "contentID", CLICK_CS.subcookiejar.fetch("curUserInfo", "cid"));
-					
-					return editUserContent(createProfileForm, true, RegActions.hrCreateProfile);
-				}else{
-					return insertUserContent(createProfileForm, true, RegActions.hrCreateProfile);
-				}
-			}, 0)
-			
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	hrCreateProfile: function(response){
-		try{
-			if(RegActions.hrCreateProfileRun === false){
-				RegActions.hrCreateProfileRun = true;
-				
-				RegActions.displayMessage({
-					errorMessage: "Processing Request...Verifying Profile Created.",
-					disableAction: "none"
-				});
-			
-				if(UserContent.messages != undefined && UserContent.messages['GLOBAL'] !== null && UserContent.messages['GLOBAL'] !== undefined){							
-					var errormessage = "";
-					for(i=0; i<UserContent.messages['GLOBAL'].length; i++){
-						var messageDefault = UserContent.messages['GLOBAL'][i].messageDefault;
-					
-						if(messageDefault != undefined && messageDefault != ""){
-							errormessage +="<li>" + messageDefault + "</li>";
-						}
-					}
-					if(errormessage != ""){
-						throw "The following errors were encountered:<br/><ul>" + errormessage + "<\\ul>"
-					}
-					return false;
-				}else{
-					RegActions["contentID"] = response.contentID;
-					CLICK_CS.subcookiejar.bake('pid', {pid:RegActions["contentID"]}, 365);
-					
-					var registerForm = document[defaultRegisterFormName];
-					
-					if(registerForm.frmAction.value === "updateProfileAJAX"){
-						goToReturnUrl();
-						//RegActions.updateUserSubscription();	
-					}else{
-						RegActions.sendLongFormEmail();
-					}
-				}
-			}
-			return true;
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-
-	
-	sendLongFormEmail: function(response){
-		try{
-			RegActions.displayMessage({
-				errorMessage: "Processing Request...Sending Verification Email.",
-				disableAction: "none"
-			});
-			
-			RegActions.ajaxRequest(tapiUrl, {"ran":Math.floor(Math.random() * 100000000), "subAction":"sendLongFormEmail", p:RegActions.userPassword, "e":document[defaultRegisterFormName].email.value, uid:RegActions.uid, pid:RegActions.contentID}, RegActions.hrLongFormEmail)
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	hrLongFormEmail: function(response){
-		try{
-			if(RegActions.hrLongFormEmailRun === false){
-				RegActions.hrLongFormEmailRun = true;
-			
-				if(response.errorMessage != undefined){
-					RegActions.displayMessage({
-						errorMessage: response.errorMessage
-					});
-				}else{
-					goToReturnUrl();
-					//RegActions.updateUserSubscription();	
-				}
-				
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	updateUserSubscription: function(){
-		RegActions.displayMessage({
-			errorMessage: "Processing Request...Updating User Subscription.",
-			disableAction: "none"
-		});
-		
-		var updateUserSubscriptionForm = FormCreator.createForm("updateUserSubscriptionForm", "POST", "");
-		
-		FormCreator.createInputField(updateUserSubscriptionForm, "hidden", "action", "selectPayment");
-		FormCreator.createInputField(updateUserSubscriptionForm, "hidden", "paymentOpt", paymentOptId);
-		FormCreator.createInputField(updateUserSubscriptionForm, "hidden", "rurl", tapiUrl + "?subAction=success");		
-		
-		RegActions.displayMessage({
-			errorMessage: "Processing Request...AJAX Updating User Subscription.",
-			disableAction: "none"
-		});
-		
-		RegActions.ajaxRequest("/s", Form.serialize(updateUserSubscriptionForm), RegActions.hrFakeUpdateUserSubscription)
-		
-		//Only needed since things are timing out
-		setTimeout(function(){
-			return RegActions.hrUpdateUserSubscription;
-		}, 3000)
-	},
-	
-	hrFakeUpdateUserSubscription: function(response) {
-		//do nothing
-	},
-	
-	hrUpdateUserSubscription: function(response) {
-		try{
-		
-			RegActions.displayMessage({
-				errorMessage: "Processing Request...Return Function User Subscription.",
-				disableAction: "none"
-			});
-			
-			if(RegActions.hrUpdateUserSubscriptionRun === false){
-				RegActions.hrUpdateUserSubscriptionRun = true;
-				
-				RegActions.displayMessage({
-					errorMessage: "Processing Request...Verifying User Subscription Updated.",
-					disableAction: "none"
-				});
-			
-				if(response.errorMessage != undefined){
-					RegActions.displayMessage({
-						errorMessage: response.errorMessage
-					});
-					return false;
-				}else{
-					RegActions.displayMessage({
-						errorMessage: "Complete.",
-						disableAction: "none"
-					});
-					goToReturnUrl();
-				}
-			
-				return true;
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	
-	emailRep: function(options){
-		RegActions.hrEmailRepRun = false;
-		
-		RegActions.displayMessage({
-			hideFormName: "emailForm",
-			errorMessage: "Processing Request...Emailing Account Manager.",
-			disableAction: "none"
-		});
-		
-		RegActions.ajaxRequest(tapiUrl, {"ran": Math.floor(Math.random() * 100000000), "subAction":"sendemail", "pid":CLICK_CS.subcookiejar.fetch("curUserInfo", "cid"), "repId":options.repId, "ebody":options.ebody}, RegActions.hrEmailRep)
-		return false;
-	},
-	
-	hrEmailRep: function(response) {
-		try{
-			if(RegActions.hrEmailRepRun === false){
-				RegActions.hrEmailRepRun = true;
-				
-				if(response.errorMessage != undefined){
-					RegActions.displayMessage({
-						hideFormName: "emailForm",
-						errorMessage: response.errorMessage
-					});
-					return false;
-				}else{
-					RegActions.displayMessage({
-						hideFormName: "emailForm",
-						errorMessage: "Email has been sent successfully.",
-						disableAction: "none"
-					});
-				}
-			
-				return false;
-			}
-		}catch(e){ 
-			RegActions.displayMessage({
-				errorMessage: e,
-				errorType: "System"
-			});
-		}
-	},
-	
-	gup : function( name )
-	{
-	  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-	  var regexS = "[\\?&]"+name+"=([^&#]*)";
-	  var regex = new RegExp( regexS );
-	  var results = regex.exec( window.location.href );
-	  if( results == null )
-	    return "";
-	  else
-	    return results[1];
-	},
-	
-	lockDownLinks : function(){
-		var cid = CLICK_CS.subcookiejar.fetch("curUserInfo", "cid")
-		var sfcid_param = RegActions.gup( 'sfcid' );
-		if (sfcid_param !== "") {
-			var sfcid_string = "&sfcid=" + sfcid_param
-		}else{
-			var sfcid_string = ""
-		}
-		if(cid !== null){
-			var url = "/profiles/" + cid + ".html?"
-		}else if(CLICK_CS.cookiejar.fetch("UID") && CLICK_CS.cookiejar.fetch("UID").length === 32){
-			var url = "/profiles/" + cid + ".html?"; //var url = "/s?action=editReg&finishReg=y"
-		}else{
-			var url = "/s?action=doReg" // removed shortForm=y for now
-		}
-		
-		var links = document.getElementsByTagName("a");
-		for (var eleLink=0; eleLink < links.length; eleLink ++){
-			if(links[eleLink].name > 0){
-				links[eleLink].setAttribute("href",  url + "&uid=" + links[eleLink].name + sfcid_string);
-			}
-		}
-	},
-	
-	init : function () {
-		RegActions.lockDownLinks();
-	},
-	
-	addLoadEvent : function (func) {
-		if(typeof Prototype=='undefined') {
-			var oldonload = window.onload;
-			if (typeof window.onload != 'function') {
-			    window.onload = func;
-			}else {
-			    window.onload = function(){
-			        oldonload();
-			        func();
-			    };
-			};
-		}else{
-			Event.observe(window, 'load', func);
-		}
-	}
-}
-
-
-	</script>
-
 		
 		
 	
@@ -1586,8 +686,11 @@ RegActions = {
 					<script type="text/javascript" src="http://www.clickability.com/includes/json.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/effects.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/accordion.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/includes/prototype.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/includes/scriptaculous.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/domrequest.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/functions.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/includes/navigation.js"></script>
 			
 	 		<script type="text/javascript" language="javascript">
 	<!--
@@ -1664,8 +767,25 @@ RegActions = {
 
                  <script language="javascript">AC_FL_RunContent = 0;</script>
 		<script src="http://www.clickability.com/includes/AC_RunActiveContent.js" language="javascript"></script>
-					 	   					<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=47227738"></script></head>
-  	<body>  		
+					 	   					<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=47227738"></script></head>
+<body onload="initPopOvers(); return false;">
+
+
+
+<div id="cover"></div>
+<div id="slide">
+	<div id="toggleBox">
+		<img src="http://media3.clickability.com/designimages/close.gif" alt="" width="52" height="16" border="0" onclick="hideMediaPlayer()"> 
+	</div>
+	<div id="mediaWrapper">
+		<div id="mediaPlayer">
+
+		</div>
+	</div>	
+</div>
+
+ 	   		
+     	  		
 		
 <script language="javascript1.2">var trkcid=15376981;var partnerID=426689; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/g/g/button/button_1.js"></script>
 <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
@@ -1674,7 +794,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=15376981";_qc+="&7=426689";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=15376981&7=426689&18=0.2539493171487528">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=15376981&7=426689&18=0.3600192470567093">
 </noscript>
 
 
@@ -1686,7 +806,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
     <div id="headerBg">
        <div id="headWrapper">
             <div id="headLeft">
-                <a href="/"><img src="http://media3.clickability.com/designimages/logowhite-med.jpg" alt="Clickability" width="209" height="100" border="0"></a>
+                <a href="/"><img src="http://media3.clickability.com/designimages/logo1.gif" alt="Clickability" border="0"></a>
             <!--    <div id="tagLine">
                     Dynamic Websites. Delivered. 
 
@@ -1735,292 +855,257 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
                 </div>
                 <div id="headRightBot">
                     <!-- [BEGIN navigation ] -->
-						
-<div id="nav_box">
-                        
-  		
-				
+												<!-- start nav template -->
+					<!-- [BEGIN New Navigation] -->
+					<ul id="navigation">
 					
-								<div class="dropMenuBoxWrapper">
-				<ul class="ullevel0">
-					<li class="lilevel0">About 					<ul class="ullevel1">	
-	 					<li class="lilevel1Rev">
-	
-																																																										<ul class="ullevel2">
-								<li class="liDividers"> <div class="navItemsEnd"></div></li>
-																							<li class="lilevel2Rev">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/company">Company</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2Rev">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/news">News and Events</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2Rev">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/partners">Partners</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2Rev">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/resource/whitepapers">Resources</a></div></div>	
-																				
-								</li>
-														
-						</ul><!-- end of ullevel2 -->													</li>		
-						</ul><!-- end ullevel1 -->
-						</li>
-					</ul><!-- end ullevel0 -->
-					</div>
-				
-  		
-				
-					 <div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider_white.gif">
-            </div>
-			<div class="dropMenuBoxWrapper">
-				<ul class="ullevel0">
-					<li class="lilevel0">Customers 					<ul class="ullevel1">	
-	 					<li class="lilevel1">
-	
-																																																										<ul class="ullevel2">
-								<li class="liDividers"> <div class="navItemsEnd"></div></li>
-																							<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/customers/">Customers Overview</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/customers/success/">Success Stories</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/customers/list">Customer List</a></div></div>	
-																				
-								</li>
-														
-						</ul><!-- end of ullevel2 -->													</li>		
-						</ul><!-- end ullevel1 -->
-						</li>
-					</ul><!-- end ullevel0 -->
-					</div>
-				
-  		
-				
-					 <div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider_white.gif">
-            </div>
-			<div class="dropMenuBoxWrapper">
-				<ul class="ullevel0">
-					<li class="lilevel0">Services 					<ul class="ullevel1">	
-	 					<li class="lilevel1">
-	
-																																																										<ul class="ullevel2">
-								<li class="liDividers"> <div class="navItemsEnd"></div></li>
-																							<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/services">Services Overview</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/services/ps/">Professional Services</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/services/cs/">Customer Support</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/services/training/">Training &amp; Learning</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/services/community/">Clickability Community</a></div></div>	
-																				
-								</li>
-														
-						</ul><!-- end of ullevel2 -->													</li>		
-						</ul><!-- end ullevel1 -->
-						</li>
-					</ul><!-- end ullevel0 -->
-					</div>
-				
-  		
-				
-					 <div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider_white.gif">
-            </div>
-			<div class="dropMenuBoxWrapper">
-				<ul class="ullevel0">
-					<li class="lilevel0">Solutions 					<ul class="ullevel1">	
-	 					<li class="lilevel1">
-	
-																																																										<ul class="ullevel2">
-								<li class="liDividers"> <div class="navItemsEnd"></div></li>
-																							<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/solutions">Solutions Overview</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																														<ul class="ullevel3">
-													<li class="liDividers"><div class="navItemsEnd"></div></li>
-																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Manage-Content.html">Content Management</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/social-media.html">Social Media</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Built-In-Analytics.html">Built-In Analytics</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Marketing-and-Campaign-Management.html">Marketing &amp; Campaign Management</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Multi-site-Management.html">Multi-Site Management</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Manage-Workflow.html">Workflow Management</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Multilingual-Publishing.html ">Multilingual Publishing</a> </div></div> </li>
-																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
-												</ul><!-- end of ullevel3 -->
-																										
-																	 	<div class="navItems">
-																					<div class="navItemsLeftArrow"><a href="/solutions/wcm">Web Content Management</a></div></div>
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/solutions/express">Website Express Solution</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/solutions/wma">Website Marketing Acceleration</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																														<ul class="ullevel3">
-													<li class="liDividers"><div class="navItemsEnd"></div></li>
-																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/media/Media-Solutions-Publishing.html">Publishing</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/media/Broadcast.html">Broadcasting</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/media/Entertainment.html">Entertainment</a> </div></div> </li>
-																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
-												</ul><!-- end of ullevel3 -->
-																										
-																	 	<div class="navItems">
-																					<div class="navItemsLeftArrow"><a href="/solutions/media/">Media Solutions</a></div></div>
-																				
-								</li>
-														
-						</ul><!-- end of ullevel2 -->													</li>		
-						</ul><!-- end ullevel1 -->
-						</li>
-					</ul><!-- end ullevel0 -->
-					</div>
-				
-  		
-				
-					 <div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider_white.gif">
-            </div>
-			<div class="dropMenuBoxWrapper">
-				<ul class="ullevel0">
-					<li class="lilevel0">Platform 					<ul class="ullevel1">	
-	 					<li class="lilevel1">
-	
-																																																										<ul class="ullevel2">
-								<li class="liDividers"> <div class="navItemsEnd"></div></li>
-																							<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/platform">Platform Overview</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																														<ul class="ullevel3">
-													<li class="liDividers"><div class="navItemsEnd"></div></li>
-																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/infrastructure/Multitenant_Technology.html">Multitenant Technology</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/infrastructure/Scalability.html">Scalability</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/infrastructure/Security.html">Security</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/infrastructure/Reliability.html">Reliability</a> </div></div> </li>
-																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
-												</ul><!-- end of ullevel3 -->
-																										
-																	 	<div class="navItems">
-																					<div class="navItemsLeftArrow"><a href="/platform/infrastructure">On-Demand Infrastructure</a></div></div>
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/platform/agile/Agile-Development.html">Agile Development</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/platform/implementation">Implementation</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/platform/Integration">Integration</a></div></div>	
-																				
-								</li>
-														
-						</ul><!-- end of ullevel2 -->													</li>		
-						</ul><!-- end ullevel1 -->
-						</li>
-					</ul><!-- end ullevel0 -->
-					</div>
-				
+						<li class="nav-products">
 
-			
-<div class="clear"></div>
-</div><!-- end of nav_box -->
+						
+							<a>Products</a>
+							
+							<div class="nav-arrow"><!-- --></div>
+							
+							<div class="nav-box">
+							
+								<div class="nav-box-top">
+								
+									<div class="nav-box-left">
+									
+										<a href="/products/products_overview.html" class="products-overview active" style="padding-top:5px;padding-bottom:5px;">Products Overview</a>
+										<a href="/products/web_content_management.html" class="web-content-management">Web Content Management</a>
+
+										<a href="/products/website_marketing_acceleration.html" class="website-marketing-acceleration">Website Marketing Acceleration</a>
+										<a href="/products/clickability_express_solution.html" class="clickability-express-solution">Clickability Express Solution</a>
+										
+									</div>
+									
+									<div class="nav-box-center">
+									
+										<a href="/products/resources/" class="header-link product-resources">Product Resources</a>
+									
+										<a href="/products/resources/Product-Overview-Clickability-WCM-Concepts-and-Capabilities.html">White Paper: WCM Product Concepts Overview</a>
+
+										<a href="/products/resources/Solution-Overview-Clickability-Website-Marketing-Accleration.html">Solution Overview: Clickability Web Marketing Acceleration</a>
+										<a href="/products/resources/SaaS-vs-on-premise.html">Solution Overview: Clickability Website Express</a>
+										<a href="/products/resources/SaaS-vs-on-premise.html">White Paper: SaaS WCM vs. On-Premise Solutions </a>
+										<a href="/products/resources/Comparison-Clickability-WMA-and-Marketing-Automation-Systems.html">Comparison: WMA™ and Marketing Automation</a>
+										<a href="/products/resources"><strong>» More Resources</strong></a>
+									</div>
+									
+									<div class="nav-box-right">
+
+									
+										<a href="#" class="header-link product-features">WCM Features</a>
+										<a href="/products/What_is_Software-as-a-Service.html">What is Software as a Service?</a>
+										<a href="/products/Multilingual_Publishing.html">Multilingual Publishing</a>
+										<a href="/products/Multi-Site_Management.html">Multi-Site Management</a>
+										<a href="/products/Social_Media.html">Social Media</a>
+										<a href="/products/Search.html">Clickability Search</a>
+
+										<a href="/products/Mobile_Publishing_on_the_Clickability_Platform.html">Mobile</a>
+										<a href="/products/Pricing_Overview.html">Pricing Overview</a>
+																				
+									</div>
+									
+									<div class="clear"><!-- --></div>
+									
+								</div>
+								
+							</div>
+							
+						</li>
+						
+						<li class="nav-technology">
+
+						
+							<a>Technology</a>
+							
+							<div class="nav-arrow"><!-- --></div>
+							
+							<div class="nav-box">
+							
+								<div class="nav-box-top">
+								
+									<div class="nav-box-left">
+									
+										<a href="/technology" class="technology-overview active">Technology Overview</a>
+										<a href="/technology/platform_architecture.html" class="Platform-Architecture" style="padding-top:5px;padding-bottom:5px;">Platform Architecture</a>
+
+										<a href="/technology/developer_tools.html" class="Developer-Tools" style="padding-top:5px;padding-bottom:5px;">Developer Tools</a>
+										<a href="/technology/integration.html" class="Integration" style="padding-top:5px;padding-bottom:5px;">Integration</a>
+										<a href="/technology/operations.html" class="Operations-and-Infrastructure">Operations and Infrastructure</a>
+										<a href="/technology/clickability-security.html" class="Security" style="padding-top:5px;padding-bottom:5px;">Security</a>
+									</div>
+									
+									<div class="nav-box-center">
+									
+										<a href="#" class="header-link technology-resources">Technology Resources</a>
+
+										<a href="/products/resources/White-Paper-Clickability-Infrastructure-and-Operations.html">White Paper: Clickability Infrastructure and Operations</a>
+										<a href="/products/resources/White-Paper-Clickability-Security-Overview.html">White Paper: Clickability Security Overview</a>
+										<a href="/products/resources/White-Paper-Clickability-Developer-Tools-Overview.html">White Paper: Clickability Developer Tools Overview </a>
+										<a href="/products/resources"><strong>» More Resources</strong></a>
+										<br><br>
+										
+										
+									</div>
+									
+									<div class="nav-box-right">
+
+									
+										<a href="#" class="header-link technology-features">Featured<br>White Paper</a>
+										<a href="/products/resources/SaaS-vs-on-premise.html">White Paper: SaaS WCM vs. On-Premise Solutions </a>
+										
+									</div>
+									
+									<div class="clear"><!-- --></div>
+									
+								</div>
+								
+							</div>
+							
+						</li>
+
+						
+						<li class="nav-services">
+						
+							<a>Services</a>
+							
+							<div class="nav-arrow"><!-- --></div>
+							
+							<div class="nav-box">
+							
+								<div class="nav-box-top">
+								
+									<div class="nav-box-left">
+									
+										<a href="/services" class="services-overview active" style="padding-top:5px;padding-bottom:5px;">Services Overview</a>
+										<a href="/services/professional_services.html" class="Professional-Services">Professional Services</a>
+
+										<a href="/services/Technical-Support.html" class="Customer-Support" style="padding-top:5px;padding-bottom:5px;">Customer Support</a>
+									</div>
+									
+									<div class="nav-box-center">
+									
+										<a href="#" class="header-link Additional-Support-Resources">Support Resources</a>
+										<a href="/services/Training_and_Learning.html">Training and Learning</a>
+										<a href="/services/Clickability_Community.html">Clickability Community</a>
+										<br>
+									</div>
+
+									
+									<div class="nav-box-right">
+									
+										<a href="/services/partners.html" class="header-link Parters">Parters</a>
+										<a href="/services/partners.html">View our Partners</a>
+										<a href="/company/contact_us">Interested in partnering? Contact us</a>
+									
+										
+									</div>
+									
+									<div class="clear"><!-- --></div>
+									
+								</div>
+
+								
+							</div>
+							
+						</li>
+						
+						<li class="nav-customers">
+						
+							<a>Customers</a>
+							
+							<div class="nav-arrow"><!-- --></div>
+							
+							<div class="nav-box">
+							
+								<div class="nav-box-top">
+								
+									<div class="nav-box-left">
+
+										 
+										<a href="/customers/" class="customers-overview active">Customers Overview</a>
+										<a href="/customers/success" class="Case-Studies" style="padding-top:5px;padding-bottom:5px;">Case Studies</a>
+										<a href="/customers/list/enterprise" class="Customer-List">Enterprise Customers</a>
+										<a href="/customers/list/media" class="Customer-List" style="padding-top:5px;padding-bottom:5px;">Media Customers</a>
+										
+										
+									</div>
+									
+									<div class="nav-box-center">
+									
+										<a href="#" class="header-link Featured-Case-Study">Featured<br>Case Study</a>
+
+										<a href="/customers/success/118625779.html">Video interview: PR Newswire</a>
+										<br>
+										<br>
+										<br>
+									</div>
+									
+									<div class="nav-box-right">
+									
+										<a href="#" class="header-link Customer-News">Customer<br>News</a>
+										<a href="http://www.foliomag.com/2010/publishing-cloud-0" target="_blank">e.Republic Reaps Benefits Working in the Cloud</a>
+																	
+									</div>
+									
+									<div class="clear"><!-- --></div>
+
+									
+								</div>
+								
+							</div>
+							
+						</li>
+						
+						<li class="nav-about">
+						
+							<a>About</a>
+							<div class="nav-arrow"><!-- --></div>
+							
+							<div class="nav-box">
+							
+								<div class="nav-box-top">
+
+								
+									<div class="nav-box-left">
+									
+										<a href="/company" class="company-overview active" style="padding-top:5px;padding-bottom:5px;">Company Overview</a>
+										<a href="/company/Leadership.html" class="Leadership" style="padding-top:5px;padding-bottom:5px;">Leadership</a>
+
+						
+									</div>
+									
+									<div class="nav-box-center">
+									
+										<a href="#" class="header-link company-resources">Resources</a>
+
+										<a href="/company/jobs.html">Jobs</a>
+										<a href="/company/contact_us/">Contact Us</a>
+										<br>
+									</div>
+									
+									<div class="nav-box-right">
+									
+										<a href="/news" class="header-link Latest-News">Latest News</a>
+										<a href="/news/clickability_in_the_news">Clickability In the News</a>
+										<a href="/news/press-releases">Press Releases</a>
+
+										<a href="/news/blog">Clickability Blog</a>
+									</div>
+									
+									<div class="clear"><!-- --></div>
+									
+								</div>
+								
+							</div>
+							
+						</li>
+						
+					</ul>
+					<!-- [END New Navigation] -->
 
                     <!-- [END navigation ] -->
                 </div>
@@ -2037,33 +1122,44 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		<span class="nextsteps">NEXT STEPS</span>
 	</div>
 	<div id="nextBody">
-         <a href="/form?uid=39639632" id="viewDemoLink"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_viewdemo.gif" alt="View Demo" width="164" height="43" border="0"></a>
-		<br>
-		
-		<a href="/company/contact_us"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_contact.gif" alt="Contact Us" width="164" height="23" border="0"></a>
-		<br>
-		<a href="/company/contact_us"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_call.gif" alt="888.352.9682" width="164" height="23" border="0"></a>
- 		<!-- BEGIN LivePerson Button Code -->
-<div id="lpButDivID-1281571117716"></div>
-<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/47227738/?cmd=mTagRepstate&amp;site=47227738&amp;buttonID=12&amp;divID=lpButDivID-1281571117716&amp;bt=1&amp;c=1"></script>
-<!-- END LivePerson Button code -->
- 		<div id="nextNetTop">
-			Network Us 
-		</div>
-		<div id="nextNetBottom">
-			<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.clickability.com%2FPrivacy_Policy.html&amp;t=Privacy+Policy" target="_blank"><img src="http://media3.clickability.com/designimages/net_icon1.gif" border="0" alt="Share this page on Face Book"></a>
-			<a alt="Follow us on Twitter" href="http://twitter.com/Clickabilityinc" target="_blank"><img class="netImg" src="http://media3.clickability.com/designimages/net_icon2.gif" border="0"></a>
-			<a alt="View our LinkedIn Profile" href="http://www.linkedin.com/companies/clickability" target="_blank"><img class="netImg" src="http://media3.clickability.com/designimages/net_icon4.gif" border="0"></a>
-			<a alt="Digg This" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.clickability.com%2FPrivacy_Policy.html&amp;title=Privacy+Policy" target="_blank"><img class="netImg" src="http://media3.clickability.com/designimages/net_icon5.gif" border="0"></a>
-			<a alt="Add to Delicous" href="http://delicious.com/post?v=4&amp;partner=clickability&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.clickability.com%2FPrivacy_Policy.html&amp;title=Privacy+Policy" target="_blank"><img class="netImg" src="http://media3.clickability.com/designimages/net_icon6.gif" border="0"></a>
-		
-		
-		</div>
-	</div>
-		<div class="thinBottom"></div>
+								<div id="home-box-top">
+				<p><a onclick="showMediaPlayerVid1(123148343);" href="#"><img src="http://media3.clickability.com/designimages/button-video-overview.png" height="17" width="134" alt="Video Overview" border="0"></a></p>
+				<p><a href="/company/contact_us"><img src="http://media3.clickability.com/designimages/button-request-demo.png" height="17" width="134" alt="Request a Demo" border="0"></a></p>
+				<p><!-- BEGIN LivePerson Button Code -->
+				</p><div id="lpButDivID-1295917182789"></div>
+				<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/47227738/?cmd=mTagRepstate&amp;site=47227738&amp;buttonID=13&amp;divID=lpButDivID-1295917182789&amp;bt=1&amp;c=1"></script>
+				<!-- END LivePerson Button code -->
+				<p></p>
+				<p style="padding-top:6px;"><a href="/products/resources"><img src="http://media3.clickability.com/designimages/button-view-resources.png" height="17" width="134" alt="Request a Demo" border="0"></a></p>
+												<p><a href="/company/contact_us">Call 888.352.9682</a></p>
+				<p>Connect Online:<br>
+				<a href="http://twitter.com/Clickabilityinc" target="_blank"><img src="http://media3.clickability.com/designimages/social-twitter.gif" width="24" height="24" alt="Follow Us on Twitter" border="0"></a>
+				<a href="http://www.linkedin.com/companies/clickability" target="_blank"><img src="http://media3.clickability.com/designimages/social-linkedin.gif" width="24" height="24" alt="View Our LinkedIn Profile" border="0"></a>
+				<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.clickability.com%2F&amp;t=SaaS+Web+Content+Management+System+%28WCM%29+for+Enterprises" target="_blank"><img src="http://media3.clickability.com/designimages/social-facebook.gif" width="24" height="24" alt="Share on Facebook" border="0"></a>
+				<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.clickability.com%2F&amp;title=SaaS+Web+Content+Management+System+%28WCM%29+for+Enterprises" target="_blank"><img src="http://media3.clickability.com/designimages/social-digg.gif" width="24" height="24" alt="Digg This" border="0"></a>
+				<a href="http://delicious.com/post?v=4&amp;partner=clickability&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.clickability.com%2F&amp;title=SaaS+Web+Content+Management+System+%28WCM%29+for+Enterprises" target="_blank"><img src="http://media3.clickability.com/designimages/social-delicious.gif" width="24" height="24" alt="Add to Delicious" border="0"></a></p>
+			</div>
+			<div id="home-box-bottom"><!-- --></div>
+			</div>	<div class="thinBottom"></div>
 </div>
 
 
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+	
+
+
+									
 
 
 
@@ -2071,24 +1167,15 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 	
 
-							<div class="rightWrapper">
-		<div class="thinHeaderShort"></div>
-		<div class="pullBody">
-			<div class="pullquoteWrapper">
-				<span class="pullquote">"Each Clickability release adds new capabilities to our portfolio."</span>
-		
-																
-																			
-													
-									<br>
-						<br>
-						<span class="pullquoteSub">Tracy Hansen<br> NetApp</span>
-							</div>
-			
-						
-					</div>
-		<div class="thinBottom"></div>
-	</div>
+
+
+<!--startclickprintexclude-->
+
+<!--endclickprintexclude-->
+
+
+
+
 </div>
 			
 		<div id="contentTwo">
@@ -2104,6 +1191,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 				<div id="newsarticle">
 											<!--startclickprintexclude-->
 <div id="textNav">
+			<a href="/s?action=addToPortfolio&amp;t=C&amp;i=15376981&amp;d=426684&amp;rurl=http://www.clickability.com/Privacy_Policy.html">ADD TO MY SAVED CONTENT</a>
+		 |
 	<a href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());">EMAIL</a>
 	 | 
 	<a href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());">PRINT</a>
@@ -2111,6 +1200,29 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <!--endclickprintexclude-->
 
 					
+	
+						
+										
+	
+			
+									
+										
+	
+			
+									
+										
+	
+			
+			
+
+
+	
+
+
+
+
+
+
 
 
 <div class="calloutText">
@@ -2120,11 +1232,11 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 	
 </div>  
 <div class="bodyCopy">
-	<!--startclickprintexclude-->
+	<p>
+	
 
-<!--endclickprintexclude-->
 
-	<p></p><p>This privacy statement (“Privacy Policy”) covers all websites owned and operated by Clickability, Inc. (“Clickability”, “we”, “us”, “our”).&nbsp; Clickability knows that you care about how your personal information is used and shared, and we take your privacy seriously.&nbsp; Please read the following to learn more about our privacy policy.&nbsp; By visiting the Clickability websites, submitting personal information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.</p>
+	</p><p>This privacy statement (“Privacy Policy”) covers all websites owned and operated by Clickability, Inc. (“Clickability”, “we”, “us”, “our”).&nbsp; Clickability knows that you care about how your personal information is used and shared, and we take your privacy seriously.&nbsp; Please read the following to learn more about our privacy policy.&nbsp; By visiting the Clickability websites, submitting personal information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.</p>
 <p>&nbsp;</p>
 <h3>What Does This Privacy Policy Cover?</h3>
 <p>This Privacy Policy covers Clickability’s treatment of personal information that Clickability gathers when you are on the Clickability websites and when you use Clickability products or services.&nbsp; Also, this Privacy Policy covers Clickability’s treatment of any personal information that Clickability’s business partners share with Clickability.&nbsp; This policy does not apply to the practices of third parties that Clickability does not own or control, or to individuals that Clickability does not employ or manage.</p>
@@ -2228,27 +1340,13 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 					</div> <!-- Close wideBody -->
 					
 				</div> <!-- Close contentTwo -->
-
-									
-
-
-		
-
-
-
-
-								</div> <!-- close content -->
-			
-			<br clear="all">
-			
-			
-			<div id="imageTrolly">
-   <a href="/customers/list/"><img src="http://media3.clickability.com/designimages/trollywhite.jpg" alt="" width="942" height="70" border="0"></a>
+											
+				</div> <!-- close content -->
+				</div> <!-- close content section inner -->
+				<br>
+						<div id="imageTrolly">
+   <a href="/customers/list/"><img src="http://media3.clickability.com/designimages/logos.gif" alt="" width="969" height="73" border="0"></a>
 </div>
-
-			<br>
-		
-		</div> <!-- close content SectionInner -->
 
 			
 		<div class="footerRow">
@@ -2257,46 +1355,49 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 										
 					<div class="footerCell">
 						<p class="footerHead">
-															<a href="/platform">Platform</a>
+															<a href="/products">Products</a>
 													</p>
 						<p class="footerText">
 																																																
-									<a href="/platform">Platform Overview</a>
+									<a href="/products/products_overview.html">Products Overview</a>
 																																										<br>
 																	
-									<a href="/platform/infrastructure">On-Demand Infrastructure</a>
+									<a href="/products/web_content_management.html">Web Content Management</a>
 																																										<br>
 																	
-									<a href="/platform/agile/Agile-Development.html">Agile Development</a>
+									<a href="/products/website_marketing_acceleration.html">Website Marketing Acceleration</a>
 																																										<br>
 																	
-									<a href="/platform/implementation">Implementation</a>
+									<a href="/products/clickability_express_solution.html">Clickability Express Solution</a>
 																																										<br>
 																	
-									<a href="/platform/Integration">Integration</a>
+									<a href="/products/resources">Product Resources</a>
 																					</p>
 					</div>
 																
 										
 					<div class="footerCell">
 						<p class="footerHead">
-															<a href="/solutions">Solutions</a>
+															<a href="/technology">Technology</a>
 													</p>
 						<p class="footerText">
 																																																
-									<a href="/solutions">Solutions Overview</a>
+									<a href="/technology">Technology Overview</a>
 																																										<br>
 																	
-									<a href="/solutions/wcm">Web Content Management</a>
+									<a href="/technology/platform_architecture.html">Platform Architecture</a>
 																																										<br>
 																	
-									<a href="/solutions/express">Website Express Solution</a>
+									<a href="/technology/developer_tools.html">Developer Tools</a>
 																																										<br>
 																	
-									<a href="/solutions/wma">Website Marketing Acceleration</a>
+									<a href="/technology/integration.html">Integration</a>
 																																										<br>
 																	
-									<a href="/solutions/media/">Media Solutions</a>
+									<a href="/technology/operations.html">Operations and Infrastructure</a>
+																																										<br>
+																	
+									<a href="/technology/clickability-security.html">Security</a>
 																					</p>
 					</div>
 																
@@ -2310,16 +1411,19 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 									<a href="/services">Services Overview</a>
 																																										<br>
 																	
-									<a href="/services/ps/">Professional Services</a>
+									<a href="/services/professional_services.html">Professional Services</a>
 																																										<br>
 																	
-									<a href="/services/cs/">Customer Support</a>
+									<a href="/services/Technical-Support.html">Customer Support</a>
 																																										<br>
 																	
-									<a href="/services/training/">Training &amp; Learning</a>
+									<a href="/services/Training_and_Learning.html">Training and Learning</a>
 																																										<br>
 																	
-									<a href="/services/community/">Clickability Community</a>
+									<a href="/services/Clickability_Community.html">Clickability Community</a>
+																																										<br>
+																	
+									<a href="/services/partners.html">Partners</a>
 																					</p>
 					</div>
 																
@@ -2333,7 +1437,7 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 									<a href="/customers/">Customers Overview</a>
 																																										<br>
 																	
-									<a href="/customers/success/">Success Stories</a>
+									<a href="/customers/success/">Case Studies</a>
 																																										<br>
 																	
 									<a href="/customers/list">Customer List</a>
@@ -2353,77 +1457,22 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 									<a href="/news">News and Events</a>
 																																										<br>
 																	
-									<a href="/partners">Partners</a>
-																																										<br>
-																	
-									<a href="/resource/whitepapers">Resources</a>
-																					</p>
-					</div>
-																
-											</div>
-						<div style="clear:all;">&nbsp;</div>
-						<div class="footerRow">
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="/company">Company</a>
-													</p>
-						<p class="footerText">
-																																																
-									<a href="/company/">About Us</a>
-																																										<br>
-																	
 									<a href="/company/Leadership.html">Leadership</a>
 																																										<br>
 																	
 									<a href="/company/Board.html">Board of Directors</a>
 																																										<br>
 																	
-									<a href="/company/MediaBoardofAdvisors.html">Advisory Board</a>
+									<a href="/company/jobs.html">Jobs</a>
 																																										<br>
 																	
-									<a href="/company/associations.html">Associations</a>
-																																										<br>
-																	
-									<a href="/company/jobs">Jobs</a>
-																																										<br>
-																	
-									<a href="/company/contact_us">Contact Us</a>
+									<a href="/company/contact_us/">Contact Us</a>
 																					</p>
 					</div>
-																
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="/news/press-releases">News and Events</a>
-													</p>
-						<p class="footerText">
-																																																
-									<a href="/news/clickability_in_the_news">Clickability in the News</a>
-																																										<br>
-																	
-									<a href="/news/press-releases">Press Releases</a>
-																																										<br>
-																	
-									<a href="/news/blog">Blogs</a>
-																																										<br>
-																	
-									<a href="/news/Webinars">Webinars</a>
-																																										<br>
-																	
-									<a href="/news/events">Events</a>
-																					</p>
-					</div>
-																
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="http://community.clickability.com/support">Support</a>
-													</p>
-						<p class="footerText">
-																				</p>
-					</div>
-																
+																																					
+											</div>
+						<div style="clear:all;">&nbsp;</div>
+						<div class="footerRow">
 										
 					<div class="footerCell">
 						<p class="footerHead">
@@ -2447,7 +1496,7 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 		<div class="clear"></div>
 		<div id="legal">
 			<p>
-				© 2010  Clickability Inc. <a href="/Privacy_Policy.html">Privacy Policy</a>
+				© 2011  Clickability Inc. <a href="/Privacy_Policy.html">Privacy Policy</a>
 				| <a href="/Terms_of_Use.html">Terms of Use</a>
 				| <a href="/Copyright_Policy.html">Copyright Policy</a>
 								| <a href="/company/contact_us/">Contact Us</a>
@@ -2476,6 +1525,7 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 <script src="http://4qinvite.4q.iperceptions.com/1.aspx?sdfc=65463fcf-37115-1e57677d-3482-472e-8cb4-4858ee605734&amp;lID=1&amp;loc=4Q-WEB2" type="text/javascript" defer="defer">
 </script>
 <!-- End: 4q.iperceptions.com -->
+
 <!-- LeadForce1 -->
 <a href="http://www.leadforce1.com" title="open source Google Analytics" onclick="window.open(this.href);return(false);">
 <script language="javascript">
@@ -2492,13 +1542,35 @@ setTimeout('bf_log("' + bf_action_name+'",'+ bf_idsite+',"'+ bf_url +'")',0);
 //-->
 </script></a>
 <!-- /LeadForce1 -->
+
 <!-- Begin Salesforce Tracking Code -->
 <script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
 <script type="text/javascript">__sfga();</script>
 <!-- End Salesforce Tracking Code, -->
+
 <!-- Retargeter.com Tag -->
 <img src="http://ad.retargeter.com/seg?add=24394&amp;t=2" width="1" height="1">
 <!-- End of Retargeter.com Tag -->
+
+<script type="text/javascript">
+adroll_adv_id = "24H2I4YFKNA3JHF7DBOLEQ";
+adroll_pix_id = "J2XVQLHIHRDGBKODSAL526";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+
+
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   document.documentElement.firstChild.appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
 <!-- BEGIN LivePerson Monitor. -->
 <script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "47227738",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
 <!-- END LivePerson Monitor. -->
