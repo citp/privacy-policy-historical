@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220224824id_/http%3A//www.insound.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622202128id_/http%3A//www.insound.com/privacy-statement) for the most accurate reproduction.*
 
-# 
+# Insound.com: Vinyl, MP3s, Band Posters, T-shirts, Turntables, and more.
 
 ### Secure Transactions - Credit Card Safety 
 
