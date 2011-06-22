@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubshout.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222014749id_/http%3A//hubshout.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubshout.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622172550id_/http%3A//hubshout.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # SEO Reseller Program | SEO Reseller | White Label SEO | Private Label SEO | Outsource SEO | HubShout
 
