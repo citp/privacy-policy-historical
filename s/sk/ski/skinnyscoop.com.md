@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinnyscoop.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012024146id_/http%3A//www.theskinnyscoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyscoop.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622234131id_/http%3A//www.skinnyscoop.com/privacy) for the most accurate reproduction.*
 
-# TheSkinnyScoop : Privacy
+# SkinnyScoop | Privacy
 
 Welcome to theSkinnyScoop! This is a website for moms and other women interested in related topics, offering a positive and engaging environment and a “sanity check” on parenting, products and more personal topics.
 
