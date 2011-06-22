@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tryingfitness.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231230625id_/http%3A//www.tryingfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryingfitness.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623014405id_/http%3A//www.tryingfitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Don't miss out! Find out why thousands of people are Team Beachbody Club members. [Sign up for free!](http://coacheartha.com/tbbclub/community.php)
-
- **Our Commitment to Privacy**  
+**Our Commitment to Privacy**  
 We use industry standard safeguards to protect the confidentiality of personal information we collect from visitors to this Web site. Personal information collected is accessible only by designated staff or agents of our organization who are also bound to this statement. It is important to recognize that perfect security does not exist on the Internet. This statement is provided to clarify our commitment to protecting the security of the personal information you provide.
 
 Personal Information that We May Collect When you register on our site, we may ask for information such as your name, email address, postal address, zip code, telephone, gender, personal interests and preferences of our products and services. We do not collect or maintain information from those actually known to be under the age of 13. We will not contact children under age 13 without a parent’s permission.
