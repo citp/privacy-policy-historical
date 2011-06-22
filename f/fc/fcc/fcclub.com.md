@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcclub.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621004046id_/http%3A//www.fcclub.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcclub.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623002607id_/http%3A//www.fcclub.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # FC Club (Fortune Connection Club) - Where Fortune Starts!::Privacy
 
