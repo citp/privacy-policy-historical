@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tether.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929230107id_/http%3A//tether.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tether.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622074617id_/http%3A//tether.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tether
-
-## Privacy Policy
+# Tether Application Privacy Policy | Tether
 
 We at 3235106 Nova Scotia Limited recognize the importance of privacy and the sensitivity of personal information. Like most businesses, we have an obligation to keep confidential all information by which you or other individuals can be identified. We are committed to protecting any personal information we receive. This privacy policy outlines how we manage personal information and safeguard privacy.
 
