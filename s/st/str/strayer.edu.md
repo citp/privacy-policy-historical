@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strayer.edu privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121234434id_/http%3A//www.strayer.edu/strayer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strayer.edu privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622055008id_/http%3A//www.strayer.edu/strayer_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Strayer University
 
@@ -14,9 +14,10 @@ Strayer Education, Inc. and its subsidiaries including Strayer University ("Stra
   8. **Limitation of liability.** The Strayer Web sites may contain links to third party Web sites. Links to these Web sites are provided as a convenience only and should not be interpreted as an endorsement of the linked site, its operator or contents. This privacy policy applies solely to information collected by the [strayeronline.net](http://www.strayeronline.net/), [www.strayereducation.com](http://www.strayereducation.com/), [www.strayer.edu](http://www.strayer.edu/), [www.strayeruniversity.edu](http://www.strayeruniversity.edu/), www.strayeruniversity.com, www.strayeredu.com, www.strayereducation.net, www.strayeruniversity.net, www.strayeruniversityonline.com, and www.strayeruniversityonline.net Web sites. We encourage our site visitors to review the privacy policies of each Web site they visit.
   9. **For more information.** For further information about this privacy policy, please contact us at: 
 
-Strayer University Legal Department  
-2121 15th Street North, Suite 300  
-Arlington, VA 22201  
+Strayer University Office of the General Counsel  
+2303 Dulles Station Blvd.  
+Mail Stop 6C  
+Herndon, VA 20171  
 E-mail: [legal@strayer.edu](mailto:legal@strayer.edu)
 
 
