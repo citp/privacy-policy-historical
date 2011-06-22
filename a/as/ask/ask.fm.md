@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119141644id_/http%3A//ask.fm/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622234026id_/http%3A//ask.fm/about/privacy) for the most accurate reproduction.*
 
 # Ask.fm
-
-Privacy policy
 
 By using the ask.fm service you agree to be bound by the following Privacy Policy. Ask.fm reserves the right to change this Privacy Policy at any time without notice, and your continued use of ask.fm constitutes your consent to such changes. 
 
@@ -34,10 +32,14 @@ Third-party websites
 
 Ask.fm is not responsible for the practices employed by websites linked to or from the ask.fm website, nor the information or content contained therein. When you use a link from the ask.fm website/service to another website, our Privacy Policy is no longer in effect. Browsing and interaction on any other website, including websites which have a link to the ask.fm website, is subject to that website’s own rules and policies. 
 
-Your Replies Are Publicly Viewable Data
+Your replies are publicly viewable data
 
 Your replies to questions submitted via ask.fm will be published to other websites. You are responsible for what gets published. Whatever you enter into the ask.fm reply box will be published and could be publicly viewable immediately upon your clicking the submit button. 
 
 Changes
 
 Ask.fm reserves the right to modify this privacy policy at any time, so please review it frequently. 
+
+Terms of service
+
+Your use of the ask.fm service is governed by our [Terms of service](https://web.archive.org/about/tos). 
