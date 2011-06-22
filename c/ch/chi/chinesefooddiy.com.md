@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chinesefooddiy.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120223508id_/http%3A//www.chinesefooddiy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesefooddiy.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622134005id_/http%3A//www.chinesefooddiy.com/privacy.htm) for the most accurate reproduction.*
 
 # ChineseFoodDIY.com Online Privacy Policy
 
 **  
 ** ** ChineseFoodDIY.com Online Privacy Policy  
-(Last updated on September 7, 2004)**
+(Last updated on April 14, 2011)**
 
 ChineseFoodDIY.com has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online. 
 
@@ -209,3 +209,15 @@ ChineseFoodDIY.com will afford you a reasonable opportunity to review the person
 If ChineseFoodDIY.com is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
 Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting ChineseFoodDIY.com or the Privacy Officer as described above.  ChineseFoodDIY.com will promptly correct such personal information. 
+
+  
+9\. Use of Cookies and Web Beacons
+
+ We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. We also use third party advertising services to display advertisements, such as Google through the Google AdSense program. Some or all of those advertising services may use technology such as cookies and web beacons when they advertise on our site, which will send these advertisers information about your visit including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes. Geo-targeting is sometimes used for the purposes of matching advertisements with visitors based on certain attributes that visitor has. An example of this type of geo-targeting would be showing Idaho movie theatre ads to someone located in Idaho, or showing certain ads based on specific sites visited, such as showing cooking ads to someone who frequents cooking sites. DoubleClick DART cookies We also may use DART cookies for ad serving through Google.s DoubleClick service, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (.interest based targeting.). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Miami, you may see Miami hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses .non personally identifiable information.. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx You may choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+
+10\. **Use of Log Files**
+
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the type of browser you used to visit our site (such as Google Chrome, Internet Explorer or Mozilla Firefox), the time at which you visited our site and which pages you visited throughout our site. 
+
+  
+
