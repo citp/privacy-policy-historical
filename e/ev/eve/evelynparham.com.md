@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evelynparham.com privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930232516id_/http%3A//evelynparham.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evelynparham.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622172438id_/http%3A//evelynparham.com/ftc-policy-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Become a Healthier You
 
