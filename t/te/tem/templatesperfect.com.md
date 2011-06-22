@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatesperfect.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228144219id_/http%3A//www.templatesperfect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesperfect.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195612id_/http%3A//www.templatesperfect.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Templates Perfect
 
