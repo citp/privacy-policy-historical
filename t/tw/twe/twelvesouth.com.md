@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twelvesouth.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208083450id_/http%3A//twelvesouth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twelvesouth.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622161346id_/http%3A//www.twelvesouth.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Twelve South
 
