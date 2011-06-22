@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shredesign.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223030128id_/http%3A//www.shredesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shredesign.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622184701id_/http%3A//www.shredesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Photoshop Tutorials - Design and Photo Effects
+# Privacy Policy | Cretive Design Art Photos and Artworks
+
+* * *
 
 shredesign.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
