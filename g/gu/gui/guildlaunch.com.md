@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the guildlaunch.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231185147id_/http%3A//www.guildlaunch.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildlaunch.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195918id_/http%3A//www.guildlaunch.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Guild Launch Guild Hosting: Privacy Policy
+# Guild Launch Privacy Policies, Game Guild Hosting Site - Guild Launch Guild Hosting & Websites for MMORPG & FPS Guilds, Clan, Kinships & More
 
-This Privacy Policy states the terms under which information about you is collected and used when accessing the Guild Launch, LLC (“Guild Launch”) Website.  By accessing the Website you agree to the terms set forth in this Privacy Policy.  This Privacy Policy may be modified at any time without notice by posting the modified Privacy Policy here.  You should check this Privacy Policy each time you visit the Website to identify and understand any changes made since your previous visit.  By continuing to access or use the Website, you agree to be bound by any modifications to this Privacy Policy.  Please consult theGuild [Launch Terms and Conditions](https://web.archive.org/web/20101231174747id_/http://www.guildlaunch.com/about/privacy_policy/termsOfService.php) for additional terms and conditions that apply to your use of and access to the Website.
+  * Guild Launch **does not** sell or share your info under any conditions.
+  * Guild Launch **does not** share your info without your consent.
+  * Your info may be used to contact you regarding billing, service or account info.
+  * Certain features of the site, such as forum post subscriptions, will use your email to contact you, but only at your request.
+  * Your email will not be shared with your guild members by default.
+  * A valid email is required to confirm your account via email
+
+
+
+This Privacy Policy states the terms under which information about you is collected and used when accessing the Guild Launch, LLC (“Guild Launch”) Website.  By accessing the Website you agree to the terms set forth in this Privacy Policy.  This Privacy Policy may be modified at any time without notice by posting the modified Privacy Policy here.  You should check this Privacy Policy each time you visit the Website to identify and understand any changes made since your previous visit.  By continuing to access or use the Website, you agree to be bound by any modifications to this Privacy Policy.  Please consult theGuild [Launch Terms and Conditions](https://web.archive.org/about/terms_of_service/) for additional terms and conditions that apply to your use of and access to the Website.
 
 _Information You Submit_  
 Guild Launch does not collect Personally Identifying Information about you, which includes, but is not limited to, your name, address, telephone number and email address, unless you voluntarily submit that information to us through our online member or subscription registration forms, by email, or any other means.
