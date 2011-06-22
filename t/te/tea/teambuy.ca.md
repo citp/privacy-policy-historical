@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teambuy.ca privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231094318id_/http%3A//www.teambuy.ca/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambuy.ca privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622024715id_/http%3A//www.teambuy.ca/terms.php) for the most accurate reproduction.*
 
 # TeamBuy
 
@@ -85,3 +85,20 @@ For questions or concerns regarding your personal information and our privacy po
 **RETURNS**
 
 Returns are handled on a case-by-case basis. Within the limits of reason, we'll do what it takes to make you happy. Unless there is something wrong with the purchase, we are generally unable to offer refunds after one week from the purchase date. If you would like to discuss returning a deal contact us at [**info@teambuy.ca**](mailto:info@teambuy.ca)
+
+**TEAM CONTESTS**
+
+\- One entry on Facebook and one entry on Twitter per person unless otherwise stated  
+\- The promoter of this campaign is TeamBuy.ca  
+\- Contest is open to Canadian residents only.  
+\- Prizes will be forfeited if contact cannot be made within 48 hours after notification e-mail is sent  
+\- Winners of any prize draw must be 18 years of age or older to claim prizes. In the event that a winner is under 18 years of age, the prize will be awarded if the consent of his or her legal guardian is first given and obtained.  
+\- No prize draws are open to www.teambuy.ca employees, or their families, or participating suppliers/partners.  
+\- The judges' decision is final and no correspondence will be entered into.  
+\- By accepting the prize, the winner consents to have their name used for publicity purposes.  
+\- Proof of identification will be required prior to prize claims.  
+\- Prizes must be taken as offered and are not transferable to another person or redeemable for cash.  
+\- Once the winner has been confirmed the prize will be delivered to them via registered mail or other courier service.  
+\- TeamBuy.ca reserves the right to modify the prize draw, cancel the Contest and/or disqualify any individual who tampers with the entry process or does not respect these terms and conditions.  
+\- No product or service needs to be purchased as the sole condition of Contest participation.  
+\- Any litigation respecting the conduct or organization of a publicity contest may be submitted to the Régie des alcools, des courses et des jeux for a ruling. Any litigation respecting the awarding of a prize may be submitted to the board only for the purposes of helping the parties reach a settlement.
