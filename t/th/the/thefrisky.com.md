@@ -1,92 +1,64 @@
-> *The following text is extracted and transformed from the thefrisky.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403022540id_/http%3A//www.thefrisky.com/site/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrisky.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622134606id_/http%3A//www.buzz-media.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Frisky
+# Privacy Policy | BUZZMEDIA, Inc.
 
-**Turner Online Privacy Statement**
+## PLEASE READ THIS CAREFULLY (last modified: 06/16/2009)
 
-Thank you for visiting TheFrisky.com, a Turner Media Ventures, Inc. site. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this Turner site. 
+Buzz-Media.com (the Site) provides a photo and video hosting/blogging service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
 
-**The Information We Collect**   
-At some Turner sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
+## THE PERSONAL INFORMATION WE COLLECT
 
-At some other Turner sites, you can submit information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient’s name, address, e-mail address, and telephone number. 
+It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). Therefore, we will not disclose to any unauthorized third party a User’s name or contact information. We will also not monitor, edit or disclose the contents of a User’s information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on us; (2) protect and defend our rights or property; (3) act under exigent circumstances to protect the personal safety of Users or the public; (4) to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or (5) fix or debug problems with our servers/software/service.  
+When you register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (“Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. The Site may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to the Site, and make public via your privacy settings, will also be available to other users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on the Site. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.   
+As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (“Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site’s activities and offerings. 
+## HOW WE USE PERSONAL INFORMATION
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Road Runner). 
+Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time. 
 
-**How We Use the Information**   
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
+**PRIVACY POLICY AND CONSUMER EDUCATION**  
+**Children’s Privacy**  
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [privacy@buzz-media.com](mailto:privacy@buzz-media.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.   
+We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet. 
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
+**Consumer Education Related to Social Networking**  
+Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:  
+<http://onguardonline.gov/socialnetworking.html>  
+<http://onguardonline.gov/socialnetworking_youth.html>
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. 
+**OTHER INFORMATION/LOGGING AND COOKIES**  
+Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. If you choose to submit content for publication (e.g., a “letter to our editors”, comments sent to our personalities, a posting to a blog or a discussion board), we may publish your screen name and other information you have provided to us. 
+We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
+## INFORMATION SHARING AND DISCLOSURE
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or our terms of use, to verify or enforce compliance with the policies governing our Web Site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we or one of our business units are acquired by, sold to, or merged with another company. 
+Members. In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.   
+Even with all the appropriate precautions we take to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services.   
+Aggregate Information and Non-Identifying Information. We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.   
+Service Providers. We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.   
+Business Transfers. We may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
 
-Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for us. 
+## Invite-A-Friend
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Statement. 
+If you choose to invite your friends to use the Site, using our invitation options, we will ask for information such as an e-mail address. We will automatically send your friend(s) a one-time e-mail invitation to visit the Site. We store this information to send this one-time invitation, and to track the success of this referral feature. 
 
-Certain Turner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure. 
+## CHANGING OR DELETING YOUR INFORMATION
 
-We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this site. 
+All members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
-Finally, the Turner sites covered by this Privacy Statement will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+## SECURITY
 
-**Cookies & Web Beacons **
+We are concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access. 
 
-To enhance your experience with our sites, many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+## INTERNATIONAL TRANSFER
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages ( e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
+Your information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
-“Web beacons” or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this site from time to time for this and other purposes. 
+## LINKS TO OTHER SITES
 
-**Collection of Information by Third-Party Sites, Ad Servers and Sponsors**   
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
+The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. ****
 
-The Turner sites covered by this Privacy Statement sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties’ use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
-
-Some of the sites covered by this Privacy Statement may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site’s use of such third-party ad servers, please click here. 
-
-**Our Commitment to Security**   
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
-
-**How You can Access or Correct Information**   
-Access to personally identifiable information that is collected from our sites may be accessible for a limited period of time from the point of collection.  For example, if you created a password-protected account within our site, you can access that account to review the information you provided. 
-
-You may send an e-mail or letter to the following e-mail or street address requesting access to or correction of the personally identifiable information that this site has collected about you online. For verification purposes, please include your first name, last name, and e-mail address.   
-E-mail administration   
-Turner Media Ventures   
-600 Third Avenue   
-New York, NY 10016 e-mail: privacy@thefrisky.com 
-
-**Special Note for Parents**   
-The site you are visiting is one of the our general audience sites. For more information about our online privacy practices for children’s sites, consult the privacy notice at the children’s site in which you are interested. 
-
-**How to Contact Us**   
-If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at privacy@thefrisky.com. 
-
-**Updates & Effective Date**   
-From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and to whom we disclose it. 
-
-The Privacy Notice posted on this site was updated on or about October 12, 2007.back to top
-
-**Third Party Marketing**   
-This site does not disclose personally identifiable information to third parties unless notification is provided when the information is submitted and the user does not opt out of such disclosure at that time. back to top
-
-**Third-Party Ad Servers**   
-We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. Below is a representative list of such third parties and a link to their privacy notices. For more information, clink on the links below. For more information about third-party ad servers generally, click here.   
-Atlas DMT: http://www.networkadvertising.org or http://www.atlasdmt.com/privacy/   
-Bluestreak: http://www.bluestreak.com/web/aboutus_privacypolicy.htm   
-DoubleClick: http://www.networkadvretising.org or http://www.doubleclick.com/us/corporate/privacy   
-Eyeblaster: http://www.eyeblaster.com/privacy.asp   
-EyeWonder: http://www.eyewonder.com/about/privacy.cfm   
-Dynamic Logic: http://www.dynamiclogic.com/privacy_policy.php   
-Klipmart: http://www.klipmart.com/   
-Millward Brown IntelliQuest: http://www.intelliquest.com/privacy/intro.asp   
-Unicast: http://www.unicast.com/company/privacy.asp back to top
+**VIOLATIONS AND COMMENTS**  
+Please report any violations of this Privacy Policy or make any comments to  
+[**contact@buzz-media.com**](mailto:contact@buzz-media.com). You may also contact us by mail to **BUZZ** MEDIA, 6464 W. Sunset Blvd., #650, Hollywood, California 90028.
