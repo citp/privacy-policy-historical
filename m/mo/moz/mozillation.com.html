@@ -1,60 +1,30 @@
-<!--The following is the downloaded HTML source of the mozillation.com privacy policy that was archived on 2010-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524214417id_/http%3A//mozillation.com/directory/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mozillation.com privacy policy that was archived on 2011-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622195451id_/http%3A//www.mozillation.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Mozillation Directory&nbsp;- Privacy Policy  </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="/directory/templates/Chrome/style/main.css">
+<link rel="stylesheet" type="text/css" href="/templates/TerminusGrunge/style/main.css">
 <meta name="keywords" content="Privacy Policy">
 <meta name="description" content="Privacy Policy">
-<meta name="author" content="Mozillation Directory Services">
-<meta name="copyright" content="Copyright (c) 2009 by Mozillation Directory. All rights reserved!">
-<meta name="robots" content="robots.txt">
+<meta name="author" content="Mozillation Directory">
+<meta name="copyright" content="Copyright (c) 2009-2011 Mozillation Directory - All rights reserved!">
+<meta name="robots" content="index, follow">
 <meta name="generator" content="PHP Link Directory 4.0.0">
-<!--  
-<script type="text/javascript" src="/directory/libs/moodalbox/js/mootools.js"></script>
-<script type="text/javascript" src="/directory/libs/moodalbox/js/moodalbox.js"></script>
-<link rel="stylesheet" href="/directory/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
--->
-<!--[if IE]>
-<link rel="stylesheet" href="/directory/templates/Chrome/style/ie.css" type="text/css" media="all" />
+<meta http-equiv="content-language" content="en-us">
+<link rel="shortcut icon" href="/templates/favicon.ico">
+<!--[if IE 8]>
+<link rel="stylesheet" href="/templates/TerminusGrunge/style/ie8.css" type="text/css" media="all" />
 <![endif]-->
-<!--[if IE 8.000]><!-->
-<link rel="stylesheet" href="/directory/templates/Chrome/style/ie8.css" type="text/css" media="all">
-<!--<![endif]-->
-</head>
+<!--[if IE 7]>
+<link rel="stylesheet" href="/templates/TerminusGrunge/style/ie7.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="/templates/TerminusGrunge/style/ie6.css" type="text/css" media="all" />
+<![endif]-->
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://c.compete.com/bootstrap/22a4ac64827761cd7b9da03baf39e715/bootstrap.js" type="text/javascript" async=""></script></head>
 <body><script type="text/javascript">
 
-
-function increase_height() {
-   height = parseInt(document.getElementById('slide').style.marginTop);
-   if (height<110) {
-      document.getElementById('slide').style.marginTop = eval(height+7)+"px";
-      setTimeout("increase_height()",0.0001);
-   } else {
-      document.getElementById('panel').style.zIndex = 200;
-   }
-}
-
-function decrease_height() {
-   height = parseInt(document.getElementById('slide').style.marginTop);
-   document.getElementById('panel').style.zIndex = -1;
-   if (height>0) {
-      document.getElementById('slide').style.marginTop = eval(height-7)+"px";
-      setTimeout("decrease_height()",0.0001);
-   }
-}
-
-function show_panel() {
-  
-   height = parseInt(document.getElementById('slide').style.marginTop);
-   if (height>0) {
-      decrease_height();
-   } else {
-      increase_height();
-   }
-   return false;
-}
 
 function ajaxFunction()
 {
@@ -92,7 +62,7 @@ catch (e)
       {
       }
     }
-   var url = "http://www.mozillation.com/directory/update_session.php";
+   var url = "http://www.mozillation.com/update_session.php";
 
    xmlHttp.open("POST", url, false);
    xmlHttp.setRequestHeader( 
@@ -104,223 +74,248 @@ catch (e)
 </script>
 
 <div id="wrapperall">
-<div id="panel" style="z-index: -1;">
-<form method="post" action="/directory/login.php" onsubmit="ajaxFunction();">
-<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1;height: 0px;" id="panel_table">
+<div id="topwrapper">
+<div id="top">
+<div id="search">
+<form action="/index.php" method="get" style="float: left; margin: 0px; padding: 0px">
+<div id="inputleft"></div>
+<input onfocus="javascript: if (this.value=='Search') this.value='';" type="text" value="Search" name="search">
+<div id="inputright"></div>
+<button type="submit"></button>
+</form>
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
+</div>
+<div id="menu">
+<ul>
+<li><div class="split"></div></li>
+<li>
+<a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';">
+<span class="dropdown">Submit</span>
+</a>
+<div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;">
+<a href="/submit.php" rel="nofollow">
+»&nbsp;&nbsp;Link
+</a><br>
+<a href="/submit_article.php" rel="nofollow" style="border-top: 1px dotted #9b9690;">»&nbsp;&nbsp;Article</a>
+</div>
+</li>
+<li><div class="split"></div></li>
+<li>
+<a href="/contact.php">Contact</a>
+</li>
+</ul>
+</div>
+<a class="rss" href="/rss.php?c=" rel="nofollow">
+<img src="/templates/TerminusGrunge/images/rss.jpg" alt="RSS">
+</a>
+<a class="topreg" href="/profile.php?mode=register" title="Register">Register to PHPLD</a>
+</div>
+</div>
+<div id="headerwrapper">
+<div id="header">
+<a class="logo" href="/">
+</a>
+<div id="headerright">
+<form method="post" action="/login.php">
+<table id="login" cellpadding="0" cellspacing="0">
 <tbody><tr>
+<td><label>Username:</label></td>
+<td><input type="text" name="user" value="" size="20" maxlength="25" class="text"></td>
+<td><label>Password:</label></td>	
+<td><input type="password" name="pass" value="" size="20" maxlength="25" class="text"></td>
 </tr>
 <tr>
-<td>User:</td>
-<td>
-<input type="text" name="user" value="" size="20" maxlength="25" class="text">
-</td>
-<td>Password:</td>
-<td>
-<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
-</td>
-<td><input type="submit" name="submit" value="Login" class="btn"></td>
-</tr>
-<tr>
-<td colspan="5" style="text-align: left;">
-<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
-</td>        
-</tr>
-<tr>
-<td colspan="5" style="text-align: right;">
-<a href="/directory/profile.php?mode=register" title="Register">Register</a>
-&nbsp;|&nbsp;
-<a href="/directory/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+<td colspan="2">&nbsp;</td>
+<td colspan="2" style="text-align: right; padding-top: 7px;">
+<img src="/templates/TerminusGrunge/images/lost.gif">
+<a class="lostpassword" href="/profile.php?mode=sendpassword" title="Recover your password">Lost password?</a>
+&nbsp;&nbsp;&nbsp;
+<input class="button" type="submit" name="submit" value="Login">
 </td>
 </tr>
 </tbody></table>
 </form>
-</div>            	</div>
-<div id="wrapperall">
-<div id="wrapperBg">
-<div id="wrapperBottom">
-<div id="wrapperTop">
-<div id="wrapperLeft">
-<div id="wrapperRight">
-<div id="slide" class="slide" style="z-idex: 100; margin-top: 0px;">
-<div id="search">
-<label>Search: </label>
-<form action="/directory/index.php" method="get" style="float: left; margin: 0px; padding: 0px">
-<div id="inputleft"></div><input type="text" value="" name="search"><div id="inputright"></div>
-<button type="submit"></button>
-</form>
-<a href="/directory/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
-<div id="loginsplit"></div>
 </div>
+<div class="clear"></div>
 </div>
-<div id="header">
-<a href="/directory/"><img src="/directory/templates/Chrome/images/logo.gif" alt=""></a>
 </div>
 <script type="text/javascript">
 
 var view1 = 0;
 var view2 = 0;
 
-</script><div id="menu"><ul><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';"><span class="dropdown">Submit</span></a><div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/directory/submit.php">»&nbsp;&nbsp;Link</a><br><a href="/directory/submit_article.php" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Article</a></div></li><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar2').style.display='block';" onmouseout="if(view2==0) document.getElementById('bar2').style.display='none';"><span class="dropdown">Latest</span></a><div id="bar2" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/directory/latest-links.html">»&nbsp;&nbsp;Latest Links</a><a href="/directory/latest-articles.html" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Latest Articles</a></div></li><li><div class="split"></div></li><li><a href="/directory/top-hits.html" title="Browse most popular links"><span>Top Hits</span></a></li><li><div class="split"></div></li><li><a href="/directory/contact.php">Contact</a></li><li><div class="split"></div></li><li><a href="/directory/rss.php?c=">RSS</a></li><li><div class="split"></div></li></ul></div><div id="content"><div id="sideleft" style="width: 215px;">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Latest articles</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">
-<div class="boxSponsored">
-<a class="boxSponsoredA" href="/directory/articles/article-333.html" title="PLR Products: Your Ticket to Making Money Online">
-PLR Products: Your Ticket to Making Money Online
-</a>
-<br>
-Maybe you have heard the term PLR products, however what are they? PLR stands for Private Label Rights, which incorporates  it is definitely a solution that may be offered for sale as-is or right after editing and repacking.
-<br><br>
-</div>
-<div class="boxSponsored">
-<a class="boxSponsoredA" href="/directory/articles/article-332.html" title="Will Australian desert bloom?">
-Will Australian desert bloom?
-</a>
-<br>
-In Australian desert Simpson, under the thick layer of sand, were discovered creases of rivers and streams formed around 50 million years ago.
-<br><br>
-</div>
-<div class="boxSponsored">
-<a class="boxSponsoredA" href="/directory/articles/article-331.html" title="JB Transport: The Back Story">
-JB Transport: The Back Story
-</a>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp; This is a very exciting time on the pages of the JB Transport blog. It is May and we all know what that means… it means history! May has officially been declared history month here on the JB Transport blog.
-<br><br>
-</div>
-<div class="boxSponsored">
-<a class="boxSponsoredA" href="/directory/articles/article-330.html" title="Oviedo">
-Oviedo
-</a>
-<br>
-44 homes sold in the month of February 2010 in Oviedo Florida. The average sales price was in the range of 150,000 which is has allowed many first time buyers.
-<br><br>
-</div>
-<div class="boxSponsoredLast">
-<a class="boxSponsoredA" href="/directory/articles/article-329.html" title="Top 2010 World’s Tattoo Events">
-Top 2010 World’s Tattoo Events
-</a>
-<br>
-With the fast development of design tattoo , more and more people, no matter movie star NBA stars or common fashion-oriented person, join and keep pace with the its amazing boom.
-In the whold world , so many tattoo surprises and new tattoo inventi
-<br><br>
-</div>
-</div>		<a href="http://www.alexa.com/siteinfo/www.mozillation.com"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url=www.mozillation.com"></script></a>
-</div>
-<div id="main"><div class="path"><a href="/directory/" id="firstPath">Mozillation Directory</a><span>Privacy Policy</span></div><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><span style="color: #3366ff;"><strong> Directory Services Privacy Policy</strong></span><br><br>The privacy of our clients is of utmost importance to  Directory Services.<br><br>If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please email us on <em><strong>directory@gmx.us.</strong></em> This e-mail address is being protected from spambots. You need JavaScript enabled to view it<br><br><strong><br><span style="color: #3366ff;">Types of Personal Information we collect</span></strong><br><br>The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.<br><br>For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.<br><br><span style="color: #3366ff;"><strong>Why we collect personal information</strong></span><br><br>Generally we collect, update and use personal information about you to allow us to transact business on your behalf.<br><br>We may choose to add your details to our database for the purpose of directing opportunities to your attention. At any time, if you do not wish to continue receiving this information, you can inform us by the email and your details will be removed.<br><br><span style="color: #3366ff;"><strong>How we collect personal information</strong></span><br><br>Generally, we collect personal information directly from you. We may collect and update that information over the Internet by correspondence.<br><br><span style="color: #3366ff;"><strong>How we store information</strong></span><br><br>We store personal information in a combination of secure computer storage facilities. We have taken a number of steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure.<br><br>We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.<br><br><strong><span style="color: #3366ff;">When we may disclose your personal information</span><br></strong><br>Because your privacy is important we will not disclose your personal information without your consent.<br><br>However we may disclose personal information about you in the following circumstances:<br><br>* Where our business partners need to provide you with information and offers about products and services.<br><br><span style="color: #3366ff;"><strong>Access to personal information</strong></span><br><br>We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, please contact us so that we can continue to provide you with our products and services.<br><br>We undertake to promptly acknowledge and investigate any complaints about the way we manage personal information.<br><br><span style="color: #3366ff;"><strong>About this Privacy Policy Statement</strong></span><br><br>We may update our policies and this Privacy Policy Statement from time to time. The latest version is published on our website.<br><br><span style="color: #3366ff;"><strong>Contact us</strong></span><br><br>If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please email us on <em><strong>directory@gmx.us.</strong></em></p></td></tr><tr><td></td></tr></tbody></table>
-<div style="clear: both"></div></div><div id="sideright" style="width: 215px;">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Popular Categories</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
+</script><div class="contentSep"></div><div id="content"><div id="sideleft">
+<div class="verticalWidgetTop">Top Categories</div>
 <div class="sidecateg">
 <ul class="boxPopCats">
 <li>
-<a href="/directory/Business/" title="Business">Business</a>
+<a href="/Arts/" title="Arts">Arts</a>
 </li>
 <li>
-<a href="/directory/Shopping/" title="Shopping">Shopping</a>
+<a href="/Behavioral/" title="Behavioral">Behavioral</a>
 </li>
 <li>
-<a href="/directory/Computers_and_Internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+<a href="/Blogs/" title="Blogs">Blogs</a>
 </li>
 <li>
-<a href="/directory/Health/" title="Health">Health</a>
+<a href="/Business_and_Economy/" title="Business &amp; Economy">Business &amp; Economy</a>
 </li>
 <li>
-<a href="/directory/Travel_and_Tourism/" title="Travel &amp; Tourism">Travel &amp; Tourism</a>
+<a href="/Computers_and_Internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+</li>
+<li>
+<a href="/Education/" title="Education">Education</a>
+</li>
+<li>
+<a href="/Entertainment/" title="Entertainment">Entertainment</a>
+</li>
+<li>
+<a href="/Finance/" title="Finance">Finance</a>
+</li>
+<li>
+<a href="/Franchises/" title="Franchises">Franchises</a>
+</li>
+<li>
+<a href="/Games/" title="Games">Games</a>
+</li>
+<li>
+<a href="/Government/" title="Government">Government</a>
+</li>
+<li>
+<a href="/Health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/Hobbies_and_Interests/" title="Hobbies and Interests">Hobbies and Interests</a>
+</li>
+<li>
+<a href="/Home/" title="Home">Home</a>
+</li>
+<li>
+<a href="/Industrial/" title="Industrial">Industrial</a>
+</li>
+<li>
+<a href="/Kids_and_Teens/" title="Kids &amp; Teens">Kids &amp; Teens</a>
+</li>
+<li>
+<a href="/News_and_Media/" title="News &amp; Media">News &amp; Media</a>
+</li>
+<li>
+<a href="/Product/" title="Product">Product</a>
+</li>
+<li>
+<a href="/Real_Estate/" title="Real Estate">Real Estate</a>
+</li>
+<li>
+<a href="/Recreation_and_Sports/" title="Recreation &amp; Sports">Recreation &amp; Sports</a>
+</li>
+<li>
+<a href="/Reference/" title="Reference">Reference</a>
+</li>
+<li>
+<a href="/Regional/" title="Regional">Regional</a>
+</li>
+<li>
+<a href="/Science_and_Technology/" title="Science &amp; Technology">Science &amp; Technology</a>
+</li>
+<li>
+<a href="/Shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/Social_Networking/" title="Social Networking">Social Networking</a>
+</li>
+<li>
+<a href="/Society/" title="Society">Society</a>
+</li>
+<li>
+<a href="/Travel_and_Tourism/" title="Travel &amp; Tourism">Travel &amp; Tourism</a>
 </li>
 </ul>
-</div>				<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Latest links</div>
 </div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
+<div class="verticalWidgetBottom"></div>
+<div class="clear"></div>		</div>
+<div id="main"><div class="path"><a href="/" id="firstPath">Home</a><span>Privacy Policy</span></div><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p style="text-align: justify;"><strong><span style="font-size: small;">Privacy Policy</span></strong></p>
+<p style="text-align: justify;"><span style="font-size: small;">Privacy Policy  The privacy of our clients is of utmost importance to Directory Services.<br><br>If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please <a title="contact webmaster" href="contact.php" target="_blank">contact webmaster</a>. <br><br><br></span><span style="font-size: small;"><strong>Types of Personal Information we collect</strong></span><span style="font-size: small;"><strong>&nbsp;</strong><br><br>The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.<br><br>For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.<br></span><span style="font-size: small;"><strong><br>Why we collect personal information</strong></span><span style="font-size: small;"><strong>&nbsp;</strong><br><br>Generally we collect, update and use personal information about you to allow us to transact business on your behalf.<br><br>We may choose to add your details to our database for the purpose of directing opportunities to your attention. At any time, if you do not wish to continue receiving this information, you can inform us by the email and your details will be removed.<br><br></span><span style="font-size: small;"><strong>How we collect personal information</strong></span><span style="font-size: small;"><br><br>Generally, we collect personal information directly from you. We may collect and update that information over the Internet by correspondence.<br><br></span><span style="font-size: small;"><strong>How we store information</strong></span><span style="font-size: small;"><br><br>We store personal information in a combination of secure computer storage facilities. We have taken a number of steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure.<br><br>We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.<br></span><span style="font-size: small;"><strong><br>When we may disclose your personal information</strong></span><span style="font-size: small;"><br><br>Because your privacy is important we will not disclose your personal information without your consent.<br><br>However we may disclose personal information about you in the following circumstances:<br><br>* Where our business partners need to provide you with information and offers about products and services.<br><br></span><span style="font-size: small;"><strong>Access to personal information</strong></span><span style="font-size: small;"><br><br>We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, please contact us so that we can continue to provide you with our products and services.<br><br>We undertake to promptly acknowledge and investigate any complaints about the way we manage personal information.<br><br></span><span style="font-size: small;"><strong>About this Privacy Policy Statement</strong></span><span style="font-size: small;"><br><br>We may update our policies and this Privacy Policy Statement from time to time.<br></span><span style="font-size: small;"><strong><br>Contact us</strong></span><span style="font-size: small;"><br><br>If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please <a title="contact webmaster" href="contact.php" target="_blank">contact webmaster</a>.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p>&nbsp;</p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div id="sideright">
+<div class="verticalWidgetTop">Pages</div>
 <div class="sidecateg">
 <ul class="boxPopCats">
 <li>
-<a href="                                            /directory/detail/link-39616.html" title="Read more about: Fine Diamond Jewellery">Fine Diamond Jewellery</a>
+<a href="/about_us.html" title="About Us">About Us</a> 
 </li>
 <li>
-<a href="                                            /directory/detail/link-39615.html" title="Read more about: Fence contractor East Bay">Fence contractor East Bay</a>
+<a href="/disclaimer.html" title="Disclaimer">Disclaimer</a> 
 </li>
 <li>
-<a href="                                            /directory/detail/link-39614.html" title="Read more about: Spanish courses in Spain">Spanish courses in Spain</a>
+<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> 
 </li>
 <li>
-<a href="                                            /directory/detail/link-39611.html" title="Read more about: troubleshooting computer problems">troubleshooting computer pr...</a>
-</li>
-<li>
-<a href="                                            /directory/detail/link-39610.html" title="Read more about: Videos And Images From The Web">Videos And Images From The Web</a>
-</li>
-<li>
-<a href="                                            /directory/detail/link-39608.html" title="Read more about: Firmoo.com - Global Online Optical Store">Firmoo.com - Global Online ...</a>
-</li>
-<li>
-<a href="                                            /directory/detail/link-39607.html" title="Read more about: Fitted Bedrooms Leicester Online">Fitted Bedrooms Leicester O...</a>
-</li>
-<li>
-<a href="                                            /directory/detail/link-39605.html" title="Read more about: Free Mobile Phones">Free Mobile Phones</a>
-</li>
-<li>
-<a href="                                            /directory/detail/link-39604.html" title="Read more about: Special Purpose Machines - Benzear">Special Purpose Machines - ...</a>
+<a href="/terms_and_conditions.html" title="Terms and Conditions">Terms and Conditions</a> 
 </li>
 </ul>
-</div>				<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Info Pages</div>
 </div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">
-<ul class="boxPopCats">
-<li>
-<a href="/directory/aboutus.html" title="About Us">About Us</a> 
-</li>
-<li>
-<a href="/directory/privacypolicy.html" title="Privacy Policy">Privacy Policy</a> 
-</li>
-<li>
-<a href="/directory/disclaimer.html" title="Disclaimer &amp; License">Disclaimer &amp; License</a> 
-</li>
-<li>
-<a href="/directory/Terms_and_Conditions.html" title="Terms and Conditions">Terms and Conditions</a> 
-</li>
-</ul>
-</div>				<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Statistics</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
+<div class="verticalWidgetBottom"></div>
+<div class="clear"></div>				<div class="verticalWidgetTop">Statistics</div>
 <div class="sidecateg">
 <ul class="boxStats">
-<li><strong>Active Links:</strong> 30490</li>
-<li><strong>Pending Links:</strong> 14</li>
-<li><strong>Todays Links:</strong> 0</li>
-<li><strong>Active Articles:</strong> 323</li>
-<li><strong>Pending Articles:</strong> 0</li>
+<li><strong>Active Links:</strong> 23961</li>
+<li><strong>Pending Links:</strong> 3523</li>
+<li><strong>Todays Links:</strong> 127</li>
+<li><strong>Active Articles:</strong> 1726</li>
+<li><strong>Pending Articles:</strong> 24</li>
 <li><strong>Todays Articles:</strong> 0</li>
-<li><strong>Total Categories:</strong> 19</li>
-<li><strong>Sub Categories:</strong> 671</li>
+<li><strong>Total Categories:</strong> 27</li>
+<li><strong>Sub Categories:</strong> 1290</li>
 </ul>
 
-</div>		</div>
-</div><div id="footer" style="margin-top: 20px;"><div id="footercontent"><a href="http://www.phplinkdirectory.com" title="PHP Link Directory" target="_blank">PHPLD</a>|<a href="http://www.usadir.org/" title="USA Directory" target="_blank">US</a>|<a href="http://www.arkansasdir.com/" title="Arkansas Directory" target="_blank">AR</a>|<a href="http://www.californiadir.com/" title="California Directory" target="_blank">CA</a>|<a href="http://www.connecticutdir.com/" title="Connecticut Directory" target="_blank">CT</a>|<a href="http://www.delawaredir.com/" title="Delaware Directory" target="_blank">DE</a>|<a href="http://www.georgiadir.com/" title="Georgia Directory" target="_blank">GA</a>|<a href="http://www.illinoisdir.com/" title="Illinois Directory" target="_blank">IL</a>|<a href="http://www.iowadir.com/" title="Iowa Directory" target="_blank">IA</a>|<a href="http://www.kentuckydir.com/" title="Kentucky Directory" target="_blank">KY</a>|<a href="http://www.louisianadir.com/" title="Louisiana Directory" target="_blank">LA</a>|<a href="http://www.marylanddir.com/" title="Maryland Directory" target="_blank">MD</a>|<a href="http://www.massachusettsdir.com/" title="Massachusetts Directory" target="_blank">MA</a>|<a href="http://www.missouridir.com/" title="Missouri Directory" target="_blank">MO</a>|<a href="http://www.mississippidir.com/" title="Mississippi Directory" target="_blank">MS</a>|<a href="http://www.montanadir.com/" title="Montana Directory" target="_blank">MT</a>|<a href="http://www.nebraskadir.com/" title="Nebraska Directory" target="_blank">NE</a>|<a href="http://www.nevadadir.com/" title="Nevada Directory" target="_blank">NV</a>|<a href="http://www.newhampshiredir.com/" title="New Hampshire Directory" target="_blank">NH</a>|<a href="http://www.newjerseydir.com/" title="New Jersey Directory" target="_blank">NJ</a>|<a href="http://www.newmexicodir.com/" title="New Mexico Directory" target="_blank">NM</a>|<a href="http://www.northcarolinadir.com/" title="North Carolina Directory" target="_blank">NC</a>|<a href="http://www.northdakotadir.com/" title="North Dakota Directory" target="_blank">ND</a>|<a href="http://www.oklahomadir.com/" title="Oklahoma Directory" target="_blank">OK</a>|<a href="http://www.oregondir.com/" title="Oregon Directory" target="_blank">OR</a>|<a href="http://www.pennsylvaniadir.com/" title="Pennsylvania Directory" target="_blank">PA</a>|<a href="http://www.rhodeislanddir.com/" title="Rhode Island Directory" target="_blank">RI</a>|<a href="http://www.southcarolinadir.com/" title="South Carolina Directory" target="_blank">SC</a>|<a href="http://www.southdakotadir.com/" title="South Dakota Directory" target="_blank">SD</a>|<a href="http://www.tennesseedir.com/" title="Tennessee Directory" target="_blank">TN</a>|<a href="http://www.vermontdir.com/" title="Vermont Directory" target="_blank">VT</a>|<a href="http://www.virginiadir.com/" title="Virginia Directory" target="_blank">VA</a>|<a href="http://www.westvirginiadir.com/" title="West Virginia Directory" target="_blank">WV</a>|<a href="http://www.wisconsindir.com/" title="Wisconsin Directory" target="_blank">WI</a></div></div></div></div></div></div></div>&nbsp;</div></body></html>
+</div>
+<div class="verticalWidgetBottom"></div>
+<div class="clear"></div>				<div class="verticalWidgetTop">Visitor Country </div>
+<div class="sidecateg">
+<center>	
+<a href="http://flagcounter.com/more/rty65"><img src="http://flagcounter.com/count/rty65/bg=FFFFFF/txt=000000/border=CCCCCC/columns=2/maxflags=8/viewers=0/labels=1/pageviews=1/" alt="free counters" border="0"></a>
+</center>
+</div>
+<div class="verticalWidgetBottom"></div>
+<div class="clear"></div>		</div>
+<div class="clear"></div></div><!-- end content --><div id="footer"><div id="footercontent"><div align="CENTER"><a rel="nofollow" href="http://www.phplinkdirectory.com" title="PHP Link Directory" target="_blank">PhpLd</a>,<a href="http://www.usdir.net/" title="USA Directory" target="_blank">USA Dir</a>,<a href="http://www.helpdesksys.com/" title="HelpDeskSys Directory" target="_blank">HelpDeskSys</a>,<a href="http://www.f2cont.com/" title="F2CONT Directory" target="_blank">F2Cont</a>,<a href="http://www.myanmardir.com/" title="Myanmar Directory" target="_blank&quot;">MyanmarDir</a>,<a href="http://www.neibban.com/" title="Neibban Directory" target="_blank&quot;">Neibban</a>,<a href="http://www.nwlcc.com/" title="Nwlcc Directory" target="_blank&quot;">Nwlcc</a>,<a href="http://www.rurfc.com/" title="Rurfc Directory" target="_blank&quot;">Rurfc</a></div><div align="CENTER">Copyright © 2009-2011 Mozillation Directory. All Rights Reserved.</div></div></div></div>
+<script type="text/javascript">
+    __compete_code = '22a4ac64827761cd7b9da03baf39e715';
+    (function () {
+        var s = document.createElement('script'),
+            d = document.getElementsByTagName('head')[0] ||
+                document.getElementsByTagName('body')[0],
+            t = 'https:' == document.location.protocol ? 
+                'https://c.compete.com/bootstrap/' : 
+                'http://c.compete.com/bootstrap/';
+        s.src = t + __compete_code + '/bootstrap.js';
+        s.type = 'text/javascript';
+        s.async = 'async'; 
+        if (d) { d.appendChild(s); }
+    }());
+</script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-340AHO9o3ftvA"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-340AHO9o3ftvA.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+</body></html>
