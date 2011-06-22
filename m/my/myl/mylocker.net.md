@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylocker.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151824id_/http%3A//www.mylocker.net/privacy.cfm%3Fsc_id%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocker.net privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622210030id_/http%3A//www.mylocker.net/privacy.cfm%3Fsc_id%3D0) for the most accurate reproduction.*
 
 # My Locker Privacy Policy
 
@@ -19,11 +19,14 @@ addresses of those who communicate with us via e-mail, user-specific information
 access or visit, information volunteered by the consumer, such as survey information and/or site registrations,   
 name and address, telephone number, fax number and google analytics.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or   
-layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with  
-agents or contractors who assist in providing support for our internal operations, used by us to contact consumers   
-for marketing purposes, , to a successor entity in connection with a corporate merger, consolidation, sale of assets   
-or other corporate change respecting the Website.
+The information we collect is: used to improve the content of our Web page, used to customize the content   
+and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site,   
+shared with agents or contractors who assist in providing support for our internal operations, used by us to   
+contact consumers for marketing purposes, not shared with organizations for commercial purposes, disclosed   
+when legally required to do so, at the request of governmental authorities conducting an investigation, to   
+verify or enforce compliance with the policies governing our Website and applicable laws or to protect   
+against misuse or unauthorized use of our Website, disclosed to a successor entity in connection with a   
+corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items   
 that consumers add to their shopping cart, record user-specific information on what pages users access or visit,   
