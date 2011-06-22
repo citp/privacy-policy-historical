@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramada.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225113310id_/http%3A//www.ramada.com/Ramada/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramada.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623014411id_/http%3A//www.ramada.com/Ramada/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Ramada: Privacy Policy
 
@@ -70,7 +70,7 @@ Our Web site uses third party service providers to serve and host our advertisem
 
 These third parties may place cookies on your computer if you click on or access the advertising. The third party cookies are used to track whether the site was accessed from the advertisement. The cookies generated from the advertisements do not contain personally identifiable information. We do not control these cookies and they may not follow the rules we have set for our own cookies.
 
-We and our third party ad server also use invisible pixels, sometimes called web beacons, on our Web site to count how many people visit certain web pages. Information collected from invisible pixels is used and reported in the aggregate without the use of a Customer's personally identifiable information. This information may be used to improve marketing programs and content and to target our Internet advertisements on our site and other Web sites. For more information about our third party ad server, or to learn your choices about not having this non-personal information used to serve ads to you, please [read a brief overview of our third party ad server's Privacy Policy.](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1)
+We and our third party ad server also use invisible pixels, sometimes called web beacons, on our Web site to count how many people visit certain web pages. Information collected from invisible pixels is used and reported in the aggregate without the use of a Customer's personally identifiable information. This information may be used to improve marketing programs and content and to target our Internet advertisements on our site and other Web sites. For more information about our third party ad server, or to learn your choices about not having this non-personal information used to serve ads to you, please [read a brief overview of our third party ad server's Privacy Policy.](http://www.google.com/intl/en/privacy/privacy-policy.html)
 
 **The Information We Collect.**. If you make a reservation through our central reservation center or a Brand Web site or if you join one of our Loyalty Programs, we will collect and store your name, address and other basic information about you for the purpose of reserving the hotel accommodations or making the Loyalty Program benefits available to you. If you make a hotel reservation directly with a Brand Franchisee, state law in many states requires the hotel operator to collect and retain your name, address, telephone number and other basic information solicited on the hotel registration card and make it available to law enforcement officers. Our hotel operators send this information, as well as e-mail address and transaction detail (what goods and services were charged on the hotel bill) to our enterprise data warehouse or other data storage facility for collection and storage (the "Data Warehouse"). In addition, we obtain personally identifiable information from third party sources that are obligated to comply with applicable privacy laws and append it to the information maintained in the Data Warehouse about you. Credit card numbers used for payment or guarantee are automatically encrypted in our Data Warehouse so that they cannot be easily accessed. We do not collect Social Security or driver's license numbers from Customers.
 
@@ -82,10 +82,10 @@ By phone - 888-564-4487 for AmeriHost Inn; 877-212-2733 for Days Inn; 877-222-32
 
  By mail - Opt Out/ Privacy, Hotel Group  
 Wyndham Hotel Group, LLC  
-1 Sylvan Way  
+22 Sylvan Way  
 Parsippany, NJ 07054
 
-We also invite your feedback and comments on this Policy. Please contact us at the e-mail address or telephone number above or by writing to us at: Privacy Policy Inquiry.   Wyndham Hotel Group, 1 Sylvan Way, Parsippany, NJ 07054. 
+We also invite your feedback and comments on this Policy. Please contact us at the e-mail address or telephone number above or by writing to us at: Privacy Policy Inquiry.   Wyndham Hotel Group, 22 Sylvan Way, Parsippany, NJ 07054. 
 
 **Reservations**. When a Customer calls our reservation centers or contacts us via the Internet, fax or other means about hotel reservations, we need certain information such as name, address and telephone number to respond to the inquiry and to make the reservation. This information is sent to the hotel where the reservation is also recorded. A credit card number is necessary to guarantee the reservation past a certain time. The franchisee will charge the credit card account of a Customer who fails to arrive and fails to cancel the reservation in a timely manner. Franchisees may impose other conditions on the reservation such as minimum length of stay, advance deposit and other terms of the contract. A Customer should always ask for and record a confirmation number when making, changing or canceling a reservation. **Information collected as part of the reservation process is used as this Policy describes whether or not the Customer actually utilizes the hotel reservation.** The Franchisor may, but is under no obligation to, contact Customers with reservations to inform them about changes in the status of the hotel for which the reservations are made and may suggest alternative 
 
@@ -132,13 +132,13 @@ Participation in surveys is voluntary. Participants who do not wish to receive e
 
 **What We Will Do With Customer Information**: We will: 
 
-  1. Use Customer Information to solicit additional hotel stays at the same hotel and other locations of the Brand, participation in the Loyalty Program, and to offer goods and services we believe may be of interest to Customers on behalf of ourselves, other non-hotel business units, our affiliates and former affiliates. For Customers who are Loyalty Program members, these solicitations may include offers from third party merchants that provide point earning or reward redemption opportunities in connection with the Program ("Loyalty Program Participants"). With Loyalty Program members? consent, we may provide their Customer information to the Loyalty Program Participants for purposes of them directly offering their goods and services to the members
+  1. Use Customer Information to solicit additional hotel stays at the same hotel and other locations of the Brand, participation in the Loyalty Program, and to offer goods and services we believe may be of interest to Customers on behalf of ourselves, other non-hotel business units, our affiliates and former affiliates. For Customers who are Loyalty Program members, these solicitations may include offers from third party merchants that provide point earning or reward redemption opportunities in connection with the Program ("Loyalty Program Participants"). With Loyalty Program membersﾒ consent, we may provide their Customer information to the Loyalty Program Participants for purposes of them directly offering their goods and services to the members
   
 
   2. Include information about Customers gathered from other sources we believe to be reliable to identify our Customers more thoroughly and update Information we store and provide to third parties when the information changes, such as changes of address or new credit card expiration dates
   
 
-  3. Provide the name, address, telephone number and transaction Information, including payment method, about Customers to our and the Loyalty Programs? designated affinity credit card issuer(s) for use in the pre-selection process for the credit cards;
+  3. Provide the name, address, telephone number and transaction Information, including payment method, about Customers to our and the Loyalty Programsﾒ designated affinity credit card issuer(s) for use in the pre-selection process for the credit cards;
   
 
   4. Create and use aggregate Customer data that is not personally identifiable to understand more about the common traits and interests of our Customers;
@@ -163,6 +163,6 @@ Participation in surveys is voluntary. Participants who do not wish to receive e
 
 **Correction.** We make repeated efforts to verify the accuracy of Information and to correct and update our database from Information available to us. In the event a Customer believes that such Information held by us is inaccurate or outdated, we will, upon notification and sufficient time for verification, take all reasonable steps to correct any inaccuracy or update outdated information of which we are made aware. 
 
-**Downloading.** Please feel free to download or copy this Policy. You may obtain a copy free of charge by writing to us at Customer Privacy Policy, Wyndham Hotel Group, 1 Sylvan Way, Parsippany, NJ 07054.
+**Downloading.** Please feel free to download or copy this Policy. You may obtain a copy free of charge by writing to us at Customer Privacy Policy, Wyndham Hotel Group, 22 Sylvan Way, Parsippany, NJ 07054.
 
 **Policy Changes**.  The Policy in effect at the time of each visit to a Brand Web site applies to that visit. However, we may change or terminate this Policy at any time without prior notice by posting an amended version of the Policy on our Web site and providing you with the ability to opt out of any new, unanticipated uses of Information not previously disclosed in the Policy. Please check our Policy each time you visit our Web site or more frequently if you are concerned about how your Information will be used.
