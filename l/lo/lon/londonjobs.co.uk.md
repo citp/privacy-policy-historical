@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227025619id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622125505id_/http%3A//www.londonjobs.co.uk/privacy) for the most accurate reproduction.*
 
 # LondonJobs Privacy Statement
 
-  * [My LondonJobs](https://web.archive.org/cgi-bin/myjobsite.cgi?caid=15606.9528.1292228489)
-  * [Client Home](https://web.archive.org/cgi-bin/myadvmgr.cgi?caid=15606.9528.1292228489)
+  * [My LondonJobs](https://web.archive.org/cgi-bin/myjobsite.cgi?caid=19496.17095.1307603494)
+  * [Client Home](https://web.archive.org/cgi-bin/myadvmgr.cgi?caid=19496.17095.1307603494)
   * [About us](https://web.archive.org/home/aboutus.html)
 
 
