@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteadvisor.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231221456id_/http%3A//home.mcafee.com/Root/AboutUs.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteadvisor.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622165108id_/http%3A//home.mcafee.com/Root/AboutUs.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Antivirus Software and Internet Security For Your PC | McAfee
 
