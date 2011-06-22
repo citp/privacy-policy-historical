@@ -1,16 +1,19 @@
-<!--The following is the downloaded HTML source of the skinnyscoop.com privacy policy that was archived on 2010-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101012024146id_/http%3A//www.theskinnyscoop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skinnyscoop.com privacy policy that was archived on 2011-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622234131id_/http%3A//www.skinnyscoop.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-	<title>TheSkinnyScoop : Privacy</title>
+	<title>SkinnyScoop | Privacy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="keywords" content="theskinnyscoop kids moms parents">
-<meta name="description" content="TheSkinnyScoop : Privacy">
+	<meta name="keywords" content="Questions">
+<meta name="description" content="SkinnyScoop, a place for moms and other women to find share and compare questions about parenting, products, and personal issues.">
 	
-	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.theskinnyscoop.com/rss/recent">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.skinnyscoop.com/rss/recent">
 	<link rel="icon" type="image/png" href="/assets/images/favicon.ico">
-<link rel="image_src" href="http://www.theskinnyscoop.com/assets/images/logos/TS_logo_01.jpg">
 	
+
+					<link rel="canonical" href="http://www.skinnyscoop.com/privacy">
+					
+
 	<style type="text/css">@import url("http://s3.theskinnyscoop.com/assets/css/theskinny/global.css?3");</style>
 	<style type="text/css">@import url("http://s3.theskinnyscoop.com/assets/css/theskinny/jquery.css?3");</style>
 	<style type="text/css">@import url("http://s3.theskinnyscoop.com/assets/css/theskinny/generic.css?3");</style>
@@ -23,7 +26,7 @@
     </script>
 -->
 <!--[if IE]><script type="text/javascript" src="http://s3.theskinnyscoop.com/assets/js/theskinny/bt-0.9.5-rc1/other_libs/excanvas_r3/excanvas.compiled.js"></script><![endif]-->
-    <script type="text/javascript" src="http://s3.theskinnyscoop.com/assets/js/theskinny/jquery-1.3.1.min.js"></script>
+    	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
     <script type="text/javascript" src="http://s3.theskinnyscoop.com/assets/js/theskinny/dataTables-1.5/media/js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" src="http://s3.theskinnyscoop.com/assets/js/theskinny/php.js"></script>
     <script type="text/javascript" src="http://s3.theskinnyscoop.com/assets/js/theskinny/utility.js"></script>
@@ -34,9 +37,32 @@
   <body>
 <a name="scrollFighterAnchor" id="scrollFighterAnchor" style="position:absolute;"></a>
 <style type="text/css">@import url("http://s3.theskinnyscoop.com/assets/css/theskinny/tss_global.css");</style>
+
 <script>
 $(document).ready(function () {
 	resetSearchbox('input#txtSearch');
+	
+	$("#displayed_search_button").click( function() {
+		$("#btnSearch").click();
+	});
+	
+	$("#txtSearch").focus(function() {
+		$(this).addClass("active_text");
+	});
+	
+	$("#txtSearch").blur(function() {
+		$(this).removeClass("active_text");
+	});
+	
+	$("#go_craft").click( function() {
+		if (false) {
+			// Go ahead on over to /craft
+			window.location.href = "/craft";
+		} else {
+			$('#tss_loginmodal').overlay({expose:'#fff',effect:'apple',closeOnClick:true,api:true}).load();
+		}	
+	});
+
 });
 </script>
 	    <div id="wrapper">
@@ -50,42 +76,317 @@ $(document).ready(function () {
 		<div id="tss_header_head">
 			<div id="tss_header_bar">
            		<a href="/"><div id="tss_header_logo"><!--ie--></div></a>
-           		<div id="loginPanel_ctl" style="display:inline;"><div id="loginPanel"><script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+           		<div id="loginPanel_ctl" style="display:inline;"><div id="loginPanel">
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+
 <div id="login-bar">
-			<span class="join">SIGN IN VIA: <span><a id="login-fb" href="#sfa"><img style="vertical-align:middle;" src="http://s3.theskinnyscoop.com/assets/images/btn-fbconnect-small.gif"></a> OR</span></span>		
-			<label for="txtLogin">Email:</label> <span id="txtLogin_ctl"><input type="text" name="txtLogin" id="txtLogin" value="" class="textbox"></span>			<span id="login-pw" style="display:none;"><label for="txtPassword">Password:</label> <span id="txtPassword_ctl"><input type="password" name="txtPassword" id="txtPassword" value="" class="textbox" onkeydown="if (event.keyCode == 13) {qc.pA('StaticPageForm', 'txtPassword', 'QEnterKeyEvent', '', '');} if (event.keyCode == 13) {return false;}"></span>			<span id="btnLogin_ctl"><input type="button" name="btnLogin" id="btnLogin" value="Sign in" class="button" onclick="qc.pA('StaticPageForm', 'btnLogin', 'QClickEvent', '', ''); return false;"></span></span>
-			<a class="help" href="#" onclick="qc.pA('StaticPageForm', 'pxyForgotPasswordLink', 'QClickEvent', '', '');">HELP?</a>
+
+<div id="fb-root"></div>
+
+<div id="loginModal_ctl" style="display:inline;"><div id="loginModal"><!-- start login modal -->
+<div id="tss_loginmodal" class="tss_overlay" style="width:620px;">
+	<style>
+	#tss_loginmodal {
+		/* now relative to "login-bar", we need to override some parent settings */
+		line-height: 20px;
+		text-align: left;
+		letter-spacing:0px;
+		margin-left:-75px;
+		position:absolute !important;
+		left:230px !important;
+		top:100px !important;
+	}
+	
+	#tss_loginmodal .close {
+		display:none;
+	}
+	.tss_modal_login{
+		width:50%;
+		float:left;
+		border:0px solid red;
+	}
+	.tss_modal_login_label{
+		width:200px;
+		border:0px solid green;
+	}
+	.tss_signup_fb:hover{
+		box-shadow: 0px 0px 0px #777777;
+		-webkit-box-shadow: 0px 0px 0px #777777;
+		-moz-box-shadow: 0px 0px 0px #777777;
+	}
+	.tss_signup_fb{
+		padding:4px;
+		border:1px solid #bbbbbb;
+		width:200px;
+		-moz-border-radius:7px 7px 7px 7px;
+		-webkit-border-radius:7px 7px 7px 7px;
+		box-shadow: 2px 2px 2px #777777;
+		-moz-box-shadow:2px 2px 2px #777777;
+		-webkit-box-shadow: 2px 2px 2px #777777;
+		margin:10px;
+		cursor:pointer;
+	}
+
+	.btnJoin {
+	margin-top: 115px;
+	float: left;
+	}
+	
+	.btnJoin,
+	.btnJoin a,
+	.btnJoin a span {
+	width: 218px;
+	height: 155px;
+	}
+	
+	.btnJoin .ir span {
+	background: url(../../../assets/images/btn-join.png) no-repeat 0 0;
+	}
+	
+	
+	#checklist {
+		margin-bottom: 20px;
+		font-size: 16px;
+	}
+	
+	#checklist li {
+	background:url("../../../assets/images/icon-using-skinny.png") no-repeat scroll 0 0 transparent;
+	margin:9px 0;
+	padding:0 0 0 23px;
+	position:relative;
+	color: #E2682A;
+	font-weight: bold;
+	}
+	
+	#checklist li.ask {
+		background-position:0 -200px;
+	}
+	
+	#checklist li.review {
+		background-position:0 -150px;
+	}
+	
+	#checklist li.sanity {
+		background-position:0 0;
+	}
+	
+	#checklist .example {
+		color: #777;
+		font-style: italic;
+		padding-left: 10px;
+		font-size: 14px;
+		font-weight: normal;
+	}
+	
+	#custom_topright_closer {
+		float:right; 
+		color: #E2682A;
+		margin-top:-10px;
+	}
+	#custom_topright_closer:hover {
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	#loginmodal_fblogin:hover {
+		cursor: pointer;
+	}
+	</style>
+	
+	<script>
+		$(function() {
+			// customized version of the .close button
+			$("#custom_topright_closer").click( function() {
+				$("#tss_loginmodal").overlay().close();
+			});
+		});
+	</script>
+
+				
+	<div id="custom_topright_closer">Use SkinnyScoop without logging in</div><div style="clear:both;"></div>
+	<h2>LOGIN / SIGN UP</h2>	
+	<div style="float:left; width: 260px;">
+		<fieldset class="tss_modal_login" id="loginFb" style="float:left;">
+			<div id="tss_signupmodal_subtitle" class="tss_signupmodal_fbonly">Join SkinnyScoop using Facebook</div>
+						<div>
+								<script type="text/javascript">
+					$(function() {
+
+						FB.init({
+							appId	: 145225442693, 
+							status	: true,
+							cookie	: true,
+							xfbml	: true
+						});
+
+						$("#loginmodal_fblogin").click(function(e) {
+							FB.getLoginStatus(function(response) {
+								if (response.session) {
+							 		$.ajax({
+										url: "/rest_api/loggedin_check.php",
+										success: function(checkdata) {
+											if (checkdata=='true'){
+												//Refresh window for existing Facebook-connected user logging in
+												window.location.href = unescape(window.location.pathname);//Refresh window
+											}else{
+												//Go to login to complete facebook signup
+												window.location.href = '/login';
+											}
+										}
+									});
+								} else {
+									// no user session available, someone you dont know
+									FB.login(function() {
+										//Callback here
+										window.location.href = '/login';
+									});
+								}
+							});
+						});
+
+					});
+				</script>
+
+				<div id="loginmodal_fblogin" style="width:265px;">
+					<div style="float:left;"><img src="http://s3.theskinnyscoop.com/assets/images/fb-logo-50.gif" alt="Facebook Connect" width="50" height="50"></div>
+					<div style="float:right; padding-right:40px;padding-top:10px;"><span id="tss_signupmodal_subtitle" class="tss_signupmodal_fborlogin">Login using Facebook</span></div>
+					<div style="clear:both;"></div>
+				</div>
+			</div>
+	
+			<div id="tss_signupmodal_notonfb" class="tss_signupmodal_fbonly">Not on Facebook? <a href="/signup">Create an account</a></div>
+		</fieldset>
+
+		<fieldset class="tss_modal_login tss_signupmodal_fborlogin" id="loginFb2" style="width:250px; float:left; padding-top:15px;">	
+			<div id="tss_signupmodal_subtitle">Or enter your login email and password</div>
+			<table class="tss_signupmodal_table" style="padding-left:20px;">
+			<tbody><tr>
+				<td align="left"><label for="txtLoginModal" class="left">Email:</label><br>
+				<span id="txtLoginModal_ctl"><input type="text" name="txtLoginModal" id="txtLoginModal" value="" class="textbox"></span>				</td>
+			</tr>
+			<tr>
+				<td align="left"><label for="txtPasswordModal" class="left">Password:</label><br>
+				<span id="txtPasswordModal_ctl"><input type="password" name="txtPasswordModal" id="txtPasswordModal" value="" class="textbox" onkeydown="if (event.keyCode == 13) {qc.pA('StaticPageForm', 'txtPasswordModal', 'QEnterKeyEvent', '', '');} if (event.keyCode == 13) {return false;}"></span>				</td>
+			</tr>
+			</tbody></table>
+			<span id="btnLoginModal_ctl"><input type="button" name="btnLoginModal" id="btnLoginModal" value="" class="button" onclick="qc.pA('StaticPageForm', 'btnLoginModal', 'QClickEvent', '', ''); return false;"></span>			<br clear="all">
+			<a href="/forgotpassword">Forgot your password?</a><br>
+		</fieldset>
+	</div>
+
+	<div style="float:right; width:335px; border-left: 1px lightgrey solid; padding-left: 20px;">
+		<div id="checklist">
+			<ul>
+				<li class="ask">Find<span class="example">content that is interesting &amp; useful</span></li>
+				<li class="sanity">Share<span class="example">your knowledge &amp; spread the word</span></li>			
+				<li class="review">Compare<span class="example">your answers &amp; get a sanity check</span></li>
+			</ul>
+		</div>
+		<div class="btnJoin" style="padding:10px; margin:0 0 0 30px;"><a href="/signup" class="ir">Join Now!<span><!-- ir --></span></a></div>
+	</div>
+
+	<div style="clear:both;"></div>
+</div>
+<!-- end login modal -->
+</div></div><script>
+	$(function () {
+		$("#btn_hdr_login").click(function() {
+			//launchLoginModal();
+			$('#tss_loginmodal').overlay({expose:'#fff',effect:'apple',closeOnClick:true,api:true}).load();
+		});
+	});
+</script>
+
+
+	<ul id="login-links">
+
+		<li class="username"> 	<span class="join"><span><a id="login-fb" href="#sfa"><img style="vertical-align:middle;" src="http://s3.theskinnyscoop.com/assets/images/btn-fbconnect-small.gif"></a></span></span>
+		</li>
+		<li>
+			<span id="btn_hdr_login"><a href="#">SIGN IN</a></span>		
+		</li>
+		<li>
+			<span><a href="/signup">JOIN SKINNYSCOOP</a></span>
+		</li>
+		<li>
+						<a class="help" href="/faq">HELP</a>
+		</li>
+	</ul>
+			
 			<script type="text/javascript">
 			$(function() {
+				FB.init({
+					appId	: 145225442693, //'', //app id
+					status	: true,
+					cookie	: true,
+					xfbml	: true
+				});
+				
+				$("#login-fb").click(function(e) {
+					FB.getLoginStatus(function(response) {
+						//alert(response.toSource());
+						if (response.session) {
+							// logged in and connected user, someone you know
+							location.reload();
+						} else {
+							// no user session available, someone you dont know
+							FB.login(function(res2) {
+								if (res2.session) {
+									// go to signup
+									window.location="/signup";
+								} else {
+									//Callback here
+									location.reload();
+								}
+							});
+						}
+					});
+				});
+				
 				$("#txtLogin").focus(function() {
 					$("#login-pw").fadeIn("slow");
 				});
-				FB.init("97965cc89db141eded51cc56196ee51a","/xd_receiver.html");
-				function fbsignedon() {//FFF
-					// reload this page
-					window.location.href = '/signup?msg=fb';//appendUrlVar(""+window.location.href,'require','signup');
-					//window.location.href = window.location.href;
-				}
-				$("#login-fb").click(function(e) {
-					e.preventDefault();
-					FB.Connect.requireSession(fbsignedon, true);
-				});									
 			});
 			</script>
+			
 </div>
 <!-- end login bar -->
 </div></div>           </div>
 
 			<div id="tss_header_container">
-				<a href="/" class="tss_header_link"><div title="SkinnyScoop" id="tss_header_smallhome"><!-- --></div></a>
-				<a href="/top10" title="Top 10" class="tss_header_link"><div id="tss_header_top10" class="tss_header_menubutton" alt="Top 10"><!-- --></div></a>
-				<a href="/allquestions" title="All Questions" class="tss_header_link"><div id="tss_header_all" class="tss_header_menubutton" alt="All Questions"><!-- --></div></a>
-								<a href="/learn" title="Learn More" class="tss_header_link"><div id="tss_header_learn" class="tss_header_menubutton on" alt="Learn More"><!-- --></div></a>
-				<a href="/signup" title="Signup" class="tss_header_link"><div id="tss_header_signup" class="tss_header_menubutton" alt="Signup"><!-- --></div></a>
-					      		<div id="tss_header_search">
-					<fieldset>
-						<label for="searchInput">get the skinny</label>
-						<div id="searchPanel_ctl" style="display:inline;"><div id="searchPanel"><span id="txtSearch_ctl"><input type="text" name="txtSearch" id="txtSearch" value="" class="noFocus" hint="Nanny pay" onkeydown="if (event.keyCode == 13) {qc.pB('StaticPageForm', 'txtSearch', 'QEnterKeyEvent', '');}" onkeyup="ajaxSearchPanel(this.value);"></span><span id="btnSearch_ctl"><input type="button" name="btnSearch" id="btnSearch" value="" class="button" onclick="qc.pB('StaticPageForm', 'btnSearch', 'QClickEvent', ''); return false;"></span><script>
+				<div style="float:left;">
+					<a href="/" class="tss_header_link"><div title="SkinnyScoop" id="tss_header_smallhome"><!-- --></div></a>
+					<a href="/top10" title="Top 10" class="tss_header_link"><div class="gradient_tss_pumpkin tss_new_header_menubutton" alt="Top 10">TOP 10</div></a>
+					<a href="/category" title="All Questions" class="tss_header_link"><div class="gradient_tss_pumpkin tss_new_header_menubutton" alt="All Questions">ALL QUESTIONS</div></a>
+											<a href="/blogger" title="Bloggers" class="tss_header_link"><div class="gradient_tss_pumpkin tss_new_header_menubutton on" alt="Bloggers">BLOGGERS</div></a>
+						<a href="/signup" title="Signup" class="tss_header_link"><div class="gradient_tss_red tss_new_header_menubutton" alt="Signup">SIGN UP</div></a>
+					
+					<div id="header_description_box">
+						<div style="float:left; width:176px; font-size:15px; padding-top:5px; padding-left:5px; line-height:1.35em;">
+							Women make decisions. SkinnyScoop makes it simple and fun.
+						</div>
+						<div>
+						<a href="/allquestions"><div class="tss_new_header_menubutton gradient_tss_pink">FIND</div></a>	
+						<a href="/allquestions"><div class="tss_new_header_menubutton gradient_tss_pink">SHARE</div></a>
+						<a href="/join"><div class="tss_new_header_menubutton gradient_tss_pink">COMPARE</div></a>
+						</div>
+						<div>
+							<div class="header_sharebutton_text">relevant questions or<br> ask new ones</div>
+							<div class="header_sharebutton_text">your knowledge and <br>empower decisions</div>
+							<div class="header_sharebutton_text">with friends and rejoice <br>in a confident choice</div>
+						</div>
+					</div>
+				</div>
+
+				
+				<div style="float:right; height:128px; margin-bottom: 5px; margin-right:-8px;">
+				
+					<div id="tss_header_search_tophalf">
+						<p>
+							<strong>Looking for answers?</strong>
+						</p>
+			      					      			<div id="tss_new_header_search" style="float:left;">
+							<fieldset>
+																<div id="searchPanel_ctl" style="display:inline;"><div id="searchPanel"><span id="txtSearch_ctl"><input type="text" name="txtSearch" id="txtSearch" value="" class="noFocus" hint="Search SkinnyScoop" onkeydown="if (event.keyCode == 13) {qc.pB('StaticPageForm', 'txtSearch', 'QEnterKeyEvent', '');}" maxlength="75"></span><span id="btnSearch_ctl"><input type="button" name="btnSearch" id="btnSearch" value="SEARCH" class="button" onclick="qc.pB('StaticPageForm', 'btnSearch', 'QClickEvent', ''); return false;"></span><script>
 <!--
 function searchMoreClick(){
     $('#btnSearch').trigger('click');
@@ -174,6 +475,7 @@ $(document).ready(function () {
 //-->
 </script>
 <style>
+#btnSearch { display:none; }
 #searchSuggest{
 	position:absolute;
 	border:1px solid #dddddd;
@@ -232,11 +534,37 @@ $(document).ready(function () {
 
 
 
-</div></div>					</fieldset>
+</div></div>							</fieldset>
+							</div>
+							<div id="displayed_search_button" style="float:right;">
+								<img src="http://s3.theskinnyscoop.com/assets/images/searchbox_graphic.jpg">
+							</div>
+							<div style="clear:both; padding-bottom:4px;"></div>
+												
+						<p style="margin-bottom:18px;">
+							or you can <a id="go_craft" class="sans" href="#ql">Ask Your Own Question</a>
+						</p>
+						
+						<p style="margin-bottom:0;">
+							Popular searches:&nbsp;&nbsp;
+														<a href="/search/mean+girls">mean girls</a>,&nbsp;
+							<a href="/search/sex">sex</a>,&nbsp;
+							<a href="/search/blogging">blogging</a>,&nbsp;
+							<a href="/search/green">green</a>,&nbsp;
+							<a href="/search/baby+shower">baby shower</a>
+						</p>
+					</div>
+					
 				</div>
+				
+				
 			</div>
 		</div>
-	      <!-- <div id="searchPanelBlock" class="thin"  > -->
+<script type="text/javascript" src="http://s3.theskinnyscoop.com/assets/js/theskinny/jquery.tools.min.js"></script>
+
+<!-- BEGIN LOGIN CHECK -->
+<!-- END LOGIN CHECK -->
+
 <div id="main">
 
 
@@ -335,29 +663,36 @@ This Privacy Policy describes the personal information we collect about you, why
 </div><!-- end main -->
 
 <div id="sidebar">
-	<div id="theScoop">
-		<h2>the skinny scoop?</h2>
-		<p class="question">Looking for no nonsense answers to your kid related questions?</p>
-		<p class="answer"><strong>YES?</strong> <a href="/login">Login</a> or <a href="/join">Join</a></p>
-	</div>
-  <div class="ad home">
-  		<!--Begin Adsdaq Ad-->
-<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=300X250&amp;cwpid=527525&amp;cwwidth=300&amp;cwheight=250&amp;cwpnet=1&amp;cwtagid=82546"></script>
-<!--End Adsdaq Ad-->  </div>
 
+						<div style="margin-bottom:10px;">
+				<h2>SkinnyScoop Weekly Contest</h2>
+
+<div style="border:2px dotted #E2682A;width:266px;font-size:14px;font-eight:normal;padding:15px;">
+
+<center>Answer this Q for a chance to win a<br><b><a href="http://www.wearesmartypants.com/" target="_blank">6 month supply of SmartyPants</a></b><br>children's vitamins.
+</center><br>
+
+<center><b><a href="http://www.skinnyscoop.com/question/q/3370">Do you give your children (age 3+) vitamins on a regular basis?</a></b> <center><br>
+
+<center><a href="http://www.wearesmartypants.com/" target="_new"><img src="https://lh3.googleusercontent.com/-GeC7TLyu084/Tf9tBCd78iI/AAAAAAAACa4/2zeZK1HLrpU/s144/smarty%252520pants%252520image.jpg"></a></center>
+
+</center></center></div>
+
+<br>			</div>
+			
 </div><!-- end sidebar -->
 
 
 <div style="display: none;">
-	<input type="hidden" name="Qform__FormState" id="Qform__FormState" value="eNrtff1y47ay5_l3t-q-A69rtzbZcmxLsvyhSVLr8Xgyvtdje8aeM5X8MwWRkMQxRegQpGUlNVXnNbZq78udJ9nuxgdBipLtZOzxB1InJxYBAo1Go_vXjQZ40mtt9lbOcpbH4Skb8tciG6_02u3eH7LX2uqt_O1__030P--LNM9EkvBs5cVJr7XRW3Ge9LapMjQzYVkes2QvDEWR5isv-r2NF5KqJ2IYp6cs5Ylp4Kh80tvpYgvbvZVBnHAoMHVeq59D7KSDVdodoKh8-rcJz2Qsc57mn2xvu9Uq0HMUZ1AsezvQ5Pp0Ol0f5ZEI5Xo-4vIiTtOZDIWYfKr-XB9kMESeRuv_CIs-j_DFTIh8fW1tPeL9YvgJWpbr2G5re65LCR2yXsswhoY_wcGu5VfAmBhI_fIFKOqtwG9iBY4Zfr4751f5S3EFXO2Yt2EOZJ7tS7mfMCmxR-gwh3p9qIf9d6hOnOb7IinGqVQdKM6rl7HVlRfH8AymVj87Yn2ewHy_5_8o4oxH1BR09z9lEMsgc562dxe98yFN2VhVAuLdlub7ORfibCSyHEs7XepnXMg8GLFLHrA8SDiDX_A0HLGMhTnMbXPnpiGn8w709vYmjbUaGjsS6ZAa2Zwnaiwam9lZ0IxLUqtGUnNTLcsnXHqMuNNGOqiwa2b2Lbs64ukwH9m5LYvitFakZKafpO85i07SZOYuRfXSezGVtfpaTN6KiK_oumdxOgSxjlN60rbitJ8JKc_CLJ7kseIdNPGKpzOHx9D931kSRyzn51k8Jq5UqIAKHzM2waetckDQ-ksWXoAki0xJLC0vVSCyiGdLis7yWUKkguY6FvkZz1caan2MI2TWcbl0gJRXsZwkbGapsTOsCxY0bVn9GrTFS5GUg9xySw5zYEVoy7rlnKf5MUiM1OTsuC-dXPIsId73a_OEpWfx71y_teu-dZZn8QUXRV7RiLb4QxrVWnWIybjLXKtWTiYsjPOZfmzrg57nUv4nn1U0yzi-2meF5FLPfixS25WV9f0ik9hPnZ12Og5S1k-UyLRqIm10TIUpQOU56x_C4K6sWHesWAuRnMcTTaZVASWBB1lWGzVKbyzjfsItCZb4NzwejrQ6bdnWXKnaslXzcfKSD4CxdeZhyd4g51ll5qHgMIX_K0IkS1ZIwj5YltKCO66IAwrKIBHTReIJVU6FjNVU1KrslkzSDCqtxhEf5JW-gCtvxSVnmi1V8dGQ4NBYg9Ky2TYBShDAcMUWnp2yjKPxovdXXmS9zRfa1iv0MYqTSJfuZRkuUtbb6P3xxaUVV5EeHPXaW6mJDcq9I1DdaglxtSKlUHSSIiSal0FQkfEgLhsrNR4qNAAlboWNyuyq3t7yfCQio-HVs49xPtJyCC1ulStF5mK8l8Oq7hc51-OvWnJVhzSUU67VHjBwj6SpxrpyHahimARgYSmQVmn-B7tkStfLehF1eTbi3BSVJgLn2VJtSq1OVF1KtI_nPBvHKVgJw6y2NQ-H8mUiwouDhI-5wZNf1JoD4ToFMDQFhe6Rk0dODwo5wRBL2fSwycMmD5s8bLoZbJozbfcJnXZLveXR00L0REEdYJVIL_gsEtMUH7Z7f-DqOSFa3-19ZleG6fTyCij6P1wBV0MwjEcbXEbIepEgBLuXRr-Ic3GaCQyLOSYCaPrI4vwwFKmdeEI2ER-wIlEwYWORVkGpz-KIVxYiNHlwSRjrhGbq3UEKawx0lHqqom8VmY3sukBh5FhtDRiyDzYw-OmnoNWpgoYSROp-6jy0pIBKesXJpKgoWQxCckKse2ehouGqCrA9-CF8edxwu0s66XUWw0p7HeNq85DbQ24frPSo26Nuj7qfAupusnD3ibxxuuZ6b0TfG7dH3xt3g76PbwC0NVqGzt_ECjER0kJgFqDtCUQW8DGLgX9fHhYkb1ch-QCmRU2Q9EDcA_FvA8RBjvt5arMFgJp3L4s8R_53dxfjb-i8r6o1oGwS17N4mAZ6o8YaddT5MHMwNTgMbVasdT4FlMSyme7fjODacXrs5LGTx05PbKO3VEr3h5mOH0V8csuEJ-8nKrmNVjAE_XOhHz2dmCQ8erePI3NBxFJI4DJjAd44fnhI4dpgHCyWydUMJgMU_1GcXhB3OsgdxXaYmqsZAIKtKsq6T1PbgEK8CfYm2JvguwpfzOuEh2CIH1eo4s6sL6r0d2c8u-RZzf52ltrf1rz9henVBtjiLW9T78v7RsphlUEPQ2E36L0F9hbYW-Bnb4GX6AZviR-MJf5zfnDVDn8uxpNzUZ1o7wY_1MwVBYwxvF1MvKn2ptqbau8sz-sEb6Ifu7OMkzFnpNUUe4t7z1vUwGBQFQNRVxHnbGgxFeCh-JImznLnlQJIdaMG5X3saOWa3ltL964X5ZfO5zMe11IMx0BNrnJ0sPm_fn1ArpuU60xdkyDXSXLXywsR6BqB6KTI1_JJsjYZkQy37UrfK3KhlixpHtBNdoiW2acsikp9bOf2VSYm5ywbcmuDS1F7I7L4d6CZJXsJrJx5lW0V8t95lsfhonqaUFhEqJGlXsayfvrQ1kKaFtbqVmr9koliAsOqVytV9aHEir-JFC-yKCt0rH7_gKrwPZeAURb0WdY9EtNr6ra3Sx2K1d6wNEr4K4ABYbnQ2zb51a30Nk7jcTFeWoVdlVU8OvXo1KPTJ49Oa3fl3BKaHl8PTOmynsrp_Az6aDp6lvV2NusJHhkAhVbzllPW63Q2lsfCoMputxmDA6jeai1KxQUKt9svfBbI4z7Z_8URb2Aeq14FpZ482augcGZ0RMqsPMsDf5LKn6TyJ6l8NrDHrx6_PoHoas2-3Tq6ukVw9O6uf3pGodZHf9PTVsUn8YjJIyZ_3ZOHSx4uebj0NOBSo327X8R0s1ufntv-9B1d8EQz7C948ufKH1Rm-8ZczN0jbY-0fWzSg20Ptj3YfjKHNBaaufsF3P6ypwd72ZOC5_6yJw_KH8TZFZN3Y9H4V7ryCR74u548gvIIyiOoW-_u1nTSfUInf3rmTi96ehixSX_Rk7b_O7UM2zJl0h9g9UbYG-Fna4QXKAZviZ_QpU-OLfaXPn3LrbGtBYdZvDX21thbY2-Nr1MQ3io_mQuglE32F0A9piD6Tu2gqTfb3mx7s-3N9iLF4M31E7oMyjXY_jIofxnUY7sMiuTXXwblL4Pyl0F5kOpB6vO9DOrPgdObXgbVcGYfcW134fk0KN3ZbU4HyXo7W1tLNqmy3m6ne4OwGd5JtbGxBKhjBeppcVZv1tve3n7hgfcjvSoKKJM062XMpqU-VWkewYMNI8Ao4Uq4E0P807tEqmVGqxgTji7WckSvyllQwwG0wSZ5OGKnRR_MJVgWqz02gd6tI_777N2HPfrn1d50-H77zejz0Wc-2bn8j3eTV3kWdt9s_v7ZgLeyuSy-hPlZ2t5JcVG83D3ng09Xr8K3_Vgc7X46bk8__xYfGtBo2yNzoZsy8pT0k_em3M46piDTkaaV3nbXMGDOiwBS5YRd8wnTjaXZsDeG_8cegXsE7hG4R-AegT91BN5slG4dJW61CU77MPGzvchqhyDqYXoZ57RWXeTTLcsqkIiOpfWT8iV9FvqecFEHXzjFU-s8ACCdBKCNg3wUy0DiUfcA9ME4yEXwWcRpcEZI9wyRbiBFMBNFELI0kDmDmgBw8FA2vMwDBYkDsKjQDMvsY3pzGuejQMDvLBiLsVwL9mQw4AkoBfq9Gkx5cMmSgmMHWTBBTBqqxqZIYSpyatWUA5wXKUuCOB0QpgMeqj5gGFkUTIA4YMFa8KsmN-Msgp7gfdbH0bqdTATYvlkQ_MiCUcYHP62s65KVICcM99PKp37C0ouVn4F-_uM6-3nN40qPKz2u9LjS40qPKytZg0ssuweXHlze_pZUkKb9vmR3hRBbPnLmEY5HOB7heITjEc5Nbzadt0ke23hsc8sDeB0lRxog6AXgNwc9xPEQx0McD3E8xPl2QZxlpskjHY90bhnF2VaJjNDDAd6S6a_g9ldw-yu4_QWSHjLdEjK1PGR6yPlUDTbuXsESHSM8UPdQe9ikcsq38JRqPymyv35dBhpBJ2-_F4kC5CIccUA8hun3dFcGHh9-CYO68WFdhw3P7qYM9d313-JJCJbeY0-PPT329NjTY88nEK6j1buzseIhqFFgc4bungEorH7dv4egdwBB0ZQvgKB7afRhggbgt3jikejDRKKbtED1tpoHoh6IeiDqgagHoh6IPjEg2mDn7hmHwjBV9x6G3kUkdHchDC257gHog_0cNvRQu_jIw1APQx8QDMXj2e4N5B6DegzqN-L9RvwtvoU9b-PuGYLWdJjPYnzs5zW6zYK1j7DXIyiPoDyC8gjKIyh_-uPRI6jlhu6eYRROCNQdxNk48HjqLveWWwuDet_ga2A-rHf78zVxJski-ZieR6R-a9mDUg9KfVjvqZ2vqdm4ewaju_ilBU2BB6F3AULbC0FohfEehT7Iu_rwYzvMg1APQj0I9SDUg1APQp_e1X_zJu7-95UNAR6C3m8c1OW7R6APNQ76Ms7y0a-cZR6Cegh6Kwi66SGoh6Aegj7cIzYdf8SmEg6tm7r7D4daCjwWfQo3NcKMJhJM1XgMipnlhaxgqKNYKgy11V6KoRKopzEU8cK8-JJJ7hrJ1j3ippa9xPkw52NtdU6oAyKvfIpV_3hoVx0_ZXt40xjEF_f67zOeqOutDa7aMrBqZfEaU-z6FAIB61pI1z5Lx6Zo8Shv2N40vuSuIycrPSUhcwoR9egEIBzYt1kQp_T9v0GRFxn_95XKmP6On_rTUgooKE013CvnWY3PsdSWfUgB3UFesXlVwQZm4fK6IdlQiV9NkJ2aink656o0Errx5wht35RQJCwsMjRi-NnEBbQ21fqa5HZuLA5dh2v0Lcfrib_-na83lC_eO_DegU_dfUJuwSL8dt9JuxijKYnwvoGJU-PHktNwxFIcixuphrfelVDFBKrb1UB1WcF84kSOxNSdGTXf332_siCcDMS_26fubxxQrpB8xyHlb_cJa1g1H0V24Z0e7_R4p-d2Tg8aykGRJD_k8ZgvRLZqL6tcY7CetEJUSkMbsN5Ka-XFjXuhLxaVbf7C0799wk8-8XHfKBfafFtUpR64UYz-9AnJjrO8YEndBFibt6WrktkCQ2B37780Q_TjO_bhsM8pDJM-_U5M-mvT0F4wDY3dPP15aN96Hqyw_rV56FwzD5Vunv48dG6jlSRPBj_g9-vETNvDPz0Nm4u10lwvT30WfNjAhw182OAphQ0WOED3HTWoqmIfNLj1huI3uhmlpaJOLItBc3oX2rvQ3oXu3sqF3sKUU0tDA0gFhVpZXrf1nisdUJZdpblGiNpZXusJ-c4w6WOWZfFiJ-HG_F_gNld7eC4T0L7FBrTkE7Bq-VeYggUec72P5zIJN_aYgR9RfCmy8CvMwQJ3udbFc5mCzVsoomkcielXmIHuQkXk9PA8JsDHK3y8wscrntINZYsdzvsOWczpYx-1eCxRiw0SoqP4EmbBBy180MIHLTq3ClrAEIusz9IFiayV4m-S1ozfay76y2is1_gmSc3QQlZk2ng18rEs9rm_HhR7UOxB8YIPHzTjmfvGxDBtLhUeEj8ySEyz_Qvxx4iQs6GBS-3dexbF4mWR5yJF-wYguVOFkXjifS-Jh6kxYWoBuwoX1-NBmsMiwWHoJb9tr1zgSXLKoojkIe79MF96hjrSLd21h_D5hDP30oZ2RQup4leg00KzQIGov_Msj0O9XhYApPatABIsn76YLTDrTuE32PGALodxtghyuKWPPgi3yMn4UzgkThN9aYPHIR6HeByyODg3Z0Q27hmIHHvY8dgvJFAGzQMODzg84PCAwwMODzhuAzhaHnB4wHFbwNH2gMMDDg84PODwgMMDjlsCjrYHHB5w3BZwdDzg8IDDAw4PODzg8IDjloCj4wGHBxy3BRybHnB4wOEBhwccHnB4wHFLwLHpAYcHHLcDHF_U1OdXSproeyGv4PWGzFL_mS7_ma6bfKar5T8V-3hP47Q8gnr63-na8d_p0kBqc6Hp8_mwfw5L6Zv0ofM3sbqhHkc6Hq9H0foM_lmhkyzPOWHW4yiPozyO8jjK4yiPo54-jvJpvh5H3U0esMdRHkd5HOVxlMdRHkc9fRzls5c9jrqb9GaPozyO8jjK4yiPozyOevo4yidlexx1N1nbHkd5HOVxlMdRHkd5HPX0cZTPNfc46g6S0XFW-nl6Fg_TYmI_-AFUvVNH4VZ63d3FyAqI6KtqDfhJAndWbnA-zurbU7B7LJvpjs0Qrh3oM7KGz_W8Vcuft3pWH-BuUEr3fWt_MwnP_fAV2VIoFGkIKumi8pUcJOrd3md2ZXisjiKD6f3DlWpFq-EzWihZMrkXCcVyxzMCKj6yOD8MRWqnl4iI-IAVifKQNxapDxTvLI54ZcVBkweXZAdP6NG7fRyNetSjSEK50EubrV-pMqAmxJFeKE5noF1ecbIOMRldfY0v2tiybcOsdpVZZQUDD__Hd5EICzTi36_JEJiRwNr7buP7lQczOrozEI9sn4shuMNKGZvx1c7U32TZN6n1jQcy2i_fCP1d9-kKXIuTq9l-wllGek-z07wMZUdxevGahbwvxIUFfsjsd3pSTjNxNQP8t_XwvojmgZcPQ3jgdTcfTWpWDT728ACgVuuvQa3NKtRKnFl-wnDryyMO0KhBhWDF0zcsjRJHH4VFRisOVxX8UaowXUDhw1_B_GtyYPLD0cVJkZ8MPsi9NNpnKYuYNfyI1_ZHPLxQ33jdqN6xU26I_fXrkKympu6aPtnoEYZHGB5hPN0djsV6yKOMx48ytqooA41X9ls8OUkP0zzxOOOh4oxdWpfHghbQYToQHhp4aOChgYcG97frs0gFPUVUsOHv2LtDawazNOgXcVRfDOds6NxkG8WXhEesOL5SyKOuvqG8j72sXNN1a6mFW5RiOp_SeFxLMhwDNblOMoTH69PpdH2URyKU6_mIy4s4TWcyFGLyqfpzfZCByIPkrP8jLPo8whczIfL1XDcp11kYiiLN5bqz6bKWT5K1yWhi4LqejyIXSgrLkEO_pjTt5cbHFWv2KhOTc5YNeV6TfNRpIot_BypZYgFDVR1ZZWMuM26upwkFUUZtI_Val3WJtrWQpoW1upVadBMwDKterVRAhxIr_iZS_hptgqnQsVrrA67u91yC_V3QZ1n3SEyvqdveLtUCVlOhIefy5-NSqunq6LLS2ziNx8V4aRV2VVbxyMsjL4-8njzyalV89lsjruPrwVZHuY3blN_6Os4krSTdHSC23c72i7IcujwYszgpy7udlp4rKD9itdfbG20zPCj-LZ6EInIa32ptatOtGz8FnTIFtVNW2d7Z0BqxqQr5o1Rvp7upOQz1tMIs-9l1BmED8CWVrY2OZmMi87diPAZFxfJCOjW2t5d_MxzqbG1uX3uVYgYMb-8s_xooNLXd7lx7mxA0pehe8p0vbGp399oD9djU9s7yL3hAUzvb3WvPlEFT7W5n-d3c0NRut3VtWjU01SFe4bKGpj6K7KI-L-2dLS1BUOEovoR1Xa_S7W6U5LxlWQxWpF5ns9VekOcCRGwqLsM6SvqJAVlaiZQyttntahmDWu95yCZ5OGJlebvd1eodyg_TSyADVYk-qqIrdZQgbqmu-pLVird3rw3VAsFdRcoitw1qbCliFu4q46iBsz44-wjdMH2T-UDP6OssBuZgYzZwiMWvFxT3dnbIIKixAQLJUHJKEypHYorv2sbwEy10fGylt62-ANLk1eEW94SlN4g1ziWro8_IEslXbuWTHXsnyTtJ3knyTpJ3kp66kzRvlW4dmAZg1fHb1c84MO0ipsNhCqsIv2t2fyDHnMjz-MbjG49vPL7x-MbjG5OZt8w0eaTjkc4tkc5mCZdh2lMwSyhP5yK_J6gDnNvwWMdjHY91PNbxWMdjnfophMXGyYMdD3ZumT2vKgzihB-JYWUlz0PqCq9MsSOFza_jTq77-kaJ1vW7L8WVHdau2mEu-uM4f12t5twEoKXLtPP3mE8rKMgUnGYCdSmPyv6fSk6lx3we83nM5zGfx3zPKb41l6xyBwmPdNxwWUwNcOPOdqt5Z5EwZfdapArVdje3ff7UI82forxbzrJwdMpSnphjq2fOo94OJc7uUgKjKli55d3nqXgtwkL6u8-f4d3n_upzf9mrx2Uelz1gXFY1bbeOvW226PsOf_Ka121jbXuLr3dt3R4wte4GMNGEqEcrf-rqc2DjMUvTWTBhf_Hi87ZGJSK94LNITNPKzSGo_9-d8eySZ7W7QzrXXgZbgh-8DNaKxV-5CgQ48O4ghRUEGsi9DaTxig8lbRyrrcHY9sHIBT_9FLQ6VVTQcH9IlR2LLwrRN41ATbzn1r1w5c_cCQvvsM_sygGN3-WjWK5dsqTgS6-FBW58mNzudhRN83O7HUWHUy389vfje8jkIZOHTN8OMjnq6F4h0_HTg0l3dn_aA0NB_m50HXXbpuOoe9ElS0MelVbdX37uraq3qs_3gFezXngg5tXfSfqXbOpO3abOT7O3rfflTkP3NlXqhNbAa_VzCMSXO6d_K5_-DeRTxjKHVj5VjIRTJRHDKM4-0Q7Txte4Jm1tbT3i_WL4CVqW69ZcV7uUn8xq_vK0bprrft2b5v5RcEkis-5EqvxVcz4Ly2dheZDtQfazumrOTXm5o8yr6q4igfLWXOQMHrc3WouhP5Zv7b7wYbBHn2m1i4gzg5J4rFn-xcpR0qd72uIQ52OfcEz-lU8objSfUOxubUKTH3kSijEPchEAqjojVHWGqOrfg-B8FFOOFQumvA8rlQegM4KxGMOjNAoEvJAFU3g7DWLc4ASMxSP4M8g4wq4IGp3EoVwNxGBAcggtTWjJY6YRtMDTIRvic55exgDiEGFSAQv-9c__J1kK-j0I8frDf_3zvwKRBhNaj_DGajDJRAQKSZEyBl0WIEoXKUt0t2s_9rOf8d9_--__9t9pKJMsvmThLJDAcEKzwXfQzal-eirAGM6go--DENRJJmsMCSQ4fnHIg-_gOdJ3pn7TG9NRHI6QVzRUGHp_Buzjgfv-0dG-fXdfjGHeVG-XMQtEkVkms7wX_MiCUcYHP62M8nzSW0dIu1ZFvWswbSs_Nz__cZ39XJIJbWI_a0HwniNxoGQkzjeUTbFkFf8qJLIYeQk_gBr8BdPLaTbhrXkBsfwNkMF7ea14FcYTwHQBM8fjOFfiEIwZSAr8i5M-w0GbOcGe6QGYGZmvBR_VyyRs8FjyBNBuIAW2WtBFizm-ko9Yju8FIdZmfUAYwUhMddtGIOJ0QD4HLFGcI8ABEXUoR_BWtEp_Q7s5u-BVqmDKY1HIZLamFkNVVgJ-BSAsTiV1OcWhJglgUxLOnP6ArsqeKnQoWpH06QgWEP6BlXHSanKHE7gWNBKA6zMNRTYRGVNrD3hM_RX9z0CAnrV6i6iiUFQDLcJrwQED8c1jVASGo4Ya7H6VnuAtrfFgVlZhw4yT6ujzAIaTktjjO_UOAjVXcwOAYR0OqKlIBKnIyxaJatNKw5uKIsqBjGIQfNQKBYiGRMkist2ejUpWszvm4z6IxiiuyXAThyMBYkeUTSbJzFA2wczIGNcRUBfSWo5xUSFjQA70YMQ0DUBhhgoirOLLEy4mCYcpF2OnIvqpYoZ1xywFO7CKf1JXcRah0gM1qLWDXAscmuF_P_Z_Pjx-ffL-7d754clx8PEg2D85OjrYP_9xvf9zZXgfrYDi3GbVVQECmQZ8AE9IaOIxiPCl5heIOcecdcNNQWu6SMFLBZZO43ykpIEkGl_QmrLKXSD0A3Z7Cg3HEQjrYdn_miG2QmXj-gVnf1xdNhkfYnAmU5QUYG-KSWQnG8aB4Z5VZaJg2lQ1Zby0JCgZqywRtAxvVSkqT6UjcElgm5eM1EIw4CwvMpwTGExA7h1yp05QwNCGqtYcuZ0oRigyMR93Nfg9nqyDhQS_LMBLhFeDISEo6ryPd8fiuIhcMB5gGVWAQhHH8c7igEXwRAJFHw17JJ3DU2vIYSTp52mcJDBbSvcCjSCqgFQ0p1WDMB5l3Czd0P5EpGTo7ZBxDSQAtmh1qPFnqpWJOr63Fpyg_FA3GbcsQu1Lk4mEgBYZAjRIqRExoddRn0UR_kueAjCmUSpKbWoNyYCNY7ViXTmAqfoVf9ZMAq3wVKSzMc4rvFPgpL4RU36JcwZqrdQspXHIEYpIBCZVUVMGKTUrXzMQF53UadbkpBLjeIb2EKe0arN0YwHMOANS9nW9PpNxWCnEnpB84N4ojiKeKnOGDGXJlM0klkQqXqCASYEk68kwE4HrI0yKyBpmpBaFsmTokIshOAEwliARoV63DsbaS8rJAcaDaINSHsTol1XYbbSkWeZjNgMSCYWiqrOsICVFwySIR7WU7VZjYNIsIZLFRiMBddA8JIJMfq7MCpo5HLtZgPiwsjJA-8KLpCKmMVpwtErULby2RjoKyWGJFHYUzdJIUIU6GEA9MUX2hnEWFmPELyAEvZKDP_w33W5TkzBPLCtnxygzLHL0mRIxO2OkrwauOXxhunqNalQZfKH-O9WDkhdEOekxtdDhT1lklxxECTijesJzF4D3JbkEc_pZCbxRMENGryAZJLAO71_cYOjzGh_FJA7jCSp5mHk55XwiEb2psUPbY0H-mIXj-SgTxXDUyIqbz6ZpxRgPdHWlu3KAY-S9u_xymwKOiD6tYxpUad8BPbjtgNKBlaPWmLGmUIG4V_4EGZ1yXOawEIo-CDzg4yILXYyg7b7Bci4teqhcG3QCULRwiWd6vFwdB6F0TmXGaFVWharaHQISp5sDwMgwVzk0_EvG0lytozMRxqDkjnk-FdlFcAr-Ir6ClFskoJGh0ZUOpsNJIQ9RtZLqVia6FfRdviuZCQ476fckBjuohmtOpX9fWkHdDYHnHN3JOr94ORCGS5lbtLuADKWUeJzNweHVUv_WWw2U-QFgKIWVN6YdbDzNV-q85b2DzdiTDsYku2MMEvq39LIGgk1tL2hXrjqNkseEUESpChn34wR9dlQKCqGwdMhpGUDTYAiADaSuFHNNtwIxpqqLXHK57lKELSrJkwuHLeeE8SPvB0diKB2MeRRfaMEmLxIUK_ibyvmWtLurBrlQGcFMgdcO9UUmjUvgemnuC6halCwqkepnYir1-kIkRLhitWQIDMiAOFeXYnX8ZraSX1Tuyi9TUIkj2AJRlzOw5WNrQRGVFWTcaa7TGHR2cHhq29fL2FQzbh91oddD2ZMCwOCdKDSKw8AuR6wf5wiWrJqpMQDaGvFkAnaYDVOh_WGQQtBYXI4ESJHiOXAqGRSpCqSRswS-UDL7HZoEjIt6FiBleKFEdgwSTBEctcbAQg_RQho6tcUBIlkURHxsgYtDmCLZan6kPU6jGKStqIFLRxTMigRvLMD9V7KNBj-T4nRjY6WbRMaIgI_GMSTmKmamIepaTW7fnHxEb-7D2UHw68mH94Hj5bmuna69X-mKZD1QxTXHBvu3FGtb8oMJ2CGShCkg1srSq9CS6MIF4N5rMm4Kx4DxAp8EquHRZmpfapfCbL3iIpeA8UQKCpdh8yoEpXARqmwSWcQ0l6hCRFqLPiDhGQ-5Ch4adycBXKyoK2TDjM7qWN-dL_5DyqcS3JacVrzyGtWwazOnIEAt_kWehEItSnWZNee-OcnKmBuosKEgL0KpDHQxZzpEiAzIWV91jokZWA_opTij8jOoCkIg9fhY5BYjyDUorEnEWQ0VnVpU5ErHCTQXhuBUaI9QGf86olLi7OCqmJybz3q5Kp0O0ARtgMiAMy9nDkjDoWCAoWxgteKZCrUybOn_kjr0o2ZCp6SgTiZVqCa4tJUqtlbxnpa5H5pWRV6RsMySXWPgOaGzU4q-nNDSdtFJnXEq_pjQAikRlJxwMlM2Wi1sdESW5l0FzHGMo3hiCHSCPyq-AGgTJBq6ROxHep-6Ma5znxoz2kSjA3flIzcHRQIeVVKih1ovJeSa5GUfFR-dHDXwOmmPpsSCKgqmg4NgAnRPxmlWtOpAK7W0EJTEFcflxh5lxaOjBTYuPYb6iJbN9V4UqByvynxrzaJNnA3LsegS8zVUcICHo1SAWZgpNZOhpgJFaKkgzGBN6pwKnZZd_CLEEAa5F53xVKJRGwvUB7gMlW00I3X7RyWr21aOB_2saDk7x5kFIjBXEjBHMTFWH_gE8nJBLkmVDkcXzEXMYNEaWowRRA6l-ANHBQAt5KZhJA9NaJ-zkNy0tApYFrFMDasSx8MRkikYA1wBdIJDPMVj9RwlTMezCZSMcAMzpelQQ8hIBilYgxqX3Iq0HAXhCyLbrBbJy2AvdNPAnJvzpJAlN9SyKNmBH8ZUzr4SZFgRGEt290okD4sM7eQEIx1c1gX67M3e-8PjXxZCBxJojeIlOpECffo0X7JzUgtIl2FvmhSDnNCQpglCRxBnWt96ZoFFab6GTknEZZjF_SVhG7USVnFfRQXgGnR8hTYVZzHBtEqEheREe_CWDsfZdiMwwbkIODYbqkBv3XF74dSjkOdMSWEC2DMxd1Eo8LTU_wyh8VxHT9EiFP2J4CnTYX_ADJioqfh6ifAJkS3UQmuCLQwyVkSrsDaENhtIYhO9KpRlIBUtBVwELNMxTr13gxYBB0AbELSthZZGFauSBJSucu3M1DRz1fGiTdxtDoOtKtewipOkHrBGeCbYpuA8OX60ZpviiEiyiqraQI3IDJqkL8zaaQMrCuqkcPE4NNDnSQwcR2aLBP47EbgLj2YbLDRnufXxJqOZxNS8QLIBz2cmDq8kUju58COfERx2WjYGqmHTBThKwJYSFS0WUh27dGP_Six0hdredAIoHeQIhR5JV_EEcjMQyUtQ8bRQGXqRZFz76HnCZJGM4C5_qHKYSAp4NuSRRiKpdWbQwK_eyCJredQ7KNbpSa1Z1xRJkbgdKliZcgdVqtFmLJUq3Al6tzZ2gyZwa1IFQE14iizGANgSIqDSKB3N4jRV-3-04LDtgTJpmqo-qlWZq4wFbFnFnGyb1jFywLzxqVH8SBpt5KKQLwJHbxjLXVetuO-Ncq-nRUdNiNcqyqqCPcDoSZHRAgWC9e4K0jE_LTMFvAfiBVJsSAg-Elt1d7UQ5JhlF5wGbg2VweZEtMWuGmv0-Qi8djLn2KrZ19S4LklgSWY6FcRAwAryNgFEdNwweJpd6i2kWENZYOsqlKC_T3upOkiEu7jzpM57qXUv-eTkPw8PzoK941fgW78MXh7s7Z8cn5VG8VwHK8YY2JJFZjZJlNs5p33oAqKEX7LU4O7VEqtguqEK2a5oQ7-2gkkhruGHDuQYFyrVw80OqcKPURMmohwTPbcK1kryqvglbUfqkJQbkSJRpREpbW6EJP59fm-3BMsZmGOclLcYIiNgorCiJpjn81BRe8MhhSpVrmAVZlK4sOEtu8cW60SAWCo3akROhHIwHQdEb3UZV6ugUODY6hWzJeuC4YoUnMBDDAlOECsqQEsgmTCkg5T1dgRlqwQrDjqDSfzoYjXHEyVjo3UQyQetA5oWDK4QK7Ff2kYBLEoRF7PPivV1fzrlSveh3WAVgFK6OJ9N9DawiXvVIlsf9G5lw56v66iOAScXOtbNYXkiUuCpDg2SAXXcCxIlGKuNfJrtcDf0SeyQFjuwDNQ4KRDF7kzHXVme0_bVJTfhTNOq8fJxUVsylChrQqkBEzwzhFEnYBQiekUF4lwLlGDIl7wyJPXMkRgXeLsROph25bO4bpWK2NLqBD0752OvuolxTru6SdJPNFieRkJ7BK6HAPqzDKKSSsAlI_HwCbKUAAPGRCnwClPhjtDN11EBA7NpvlpFSbiZqTAq6WyTzMAGoH5iFCUdU5duWGYuh0iYzY3yvTJFRWm5ssQdo3FxXf7YnZKK86XgkA36KvYoV82ETvQ2Gp-nohKXLxVAoFJmzg72P7w_PP-VLAGYgNeHrw6Ozw_3jvBZaQ5qYx4xvHYtyWPM4cHtdIU1rC-GmA5BDUXhdTiSeB5jdgQOCSRHikE-pUWI64ll0VQpVdWGuws4ADg2ZQjsCE-jOICizmYTjR7xzIsyrTrf7OZBMBUxTVkBID4DYxBp5F7G8audQ2cAGODNHyKea3gWcRPGQrcCxgB-XTxMFUURH2CYlQ1RnaEiDC-MC2yhGsWMAQCDMuDjSa7VA1PxGzR7QGSsdYyWSRMJK7Ewx7w62TSWMvXjeoas6ijRRSqmCY-GvBFl60SRRL1uNrlgDseo0SM2ZuZFFayWICt2p7eRxtXmzXqUX52LI510OymLsVYOWSwv5tDNm8OjV-8PjhfKr01mAzGCLpFaJ0qrXBjSw-pXv0wxIvVebsBqRlgRHBA0U1W1L97asXmVOsyAvMWL-pbs8tfaUDs7xJbWDibBmGKGzkJrh-xogjUl-KJJpKIZKqpcOmb13RztuOrgIkiY1B6LUkEqx5jQ97DAnAtwD1REey65cNXJZ5ogfKXcZGfCMueSRyB3Rp43UFyfuV8Ojg_e7x017euoHdSGSOQYM_Fnyme-jI3RqKUvMsUIwsSOV2N8Gh261bu0UPlmecfrOhK1KP_YlGMestIotCHjOmoqtsfUUnYz1xodqFXcDbcJaDzVoIXlTvxPyySYAcorC3COVRAhCw7PTmmTmSoaBawhq045tR56fR1-N58YVct_oIGUMQpjBlcpZ9REOFbdHXRrA1BtgDeaCBaRTgHrhsL3PdizvEyZIQyiYJGaZDW5at4iuwNA2DsyaSNmE1ghbgyFGbJ1emQlf7oxlZccZ5IzG6cx4kb7SCXm15lmWMSnJUoDm0ZBRQyml4tsXkh7dyJ47lI6hLVEXzEAaK0uYHaX1F6ZoGn3GmNV3cSdbHwTmfRZIBRzXnIExkHfam8DY9UVDeTsVMxnYWZmE5VhuOQHWrlawJEgGy8gEuo7krDSTPIKiInpvKJmFwQSsHu7V1PtV-3XM7UlSe8WOjdAgXPa4czUJtcwY-M1lWGph2HdKEo7rs41Np-LniwmE5Hl_6fpgMPiMjrkQFlqtMVso3k6WDCXh2DBNwKpPpNzwYGjOL2g2VVTbrKtFxlTY6SVw5Y0vFwiI50NroJrer8rMYmM5YYFruEpy5aCD5tpoxGIm5FaSUunxesOpZq3aCI6JeFFZiMp__rn_3XUmE16sJkotOSVEMxnyikzaiJFmIcEqlE5M0bb4KzabHrJywiO9SrK3mNMYJ0J7ahnHE8q2AzXvsk4rqQfweipml6VKm_mhxxj--pYlMGhi4606LS5EibpjEg7QTZWAhN3yR3_UKVLApVRNVfYHDmSljgKIoJinJUeiwoBEDaSN0Gt80ec6poVDRAFQxS3m_P_yI2Fl5X20idvbiFrmVV1FMQfVLaJ1EpwUpe0wsCQU7QwSgPLkZQIfURGSpu1UMkMnFAkAYTLHu9HyCmntEeqFxpRVE8l0WixutxcwLjMdXIyF3AZ9DnN9mrJT-rb5CnX83JD07PJs7LZKEUqBaUCwnNnL_O66bghxeFIoKanuCa7BL1LtRzO1Nm_Fxyj179HS_qQMtOYzsDHYxxI2nLViDuuwpwIxF4-pDQ2PO6IIzO5Blnl1A6dMlSaOpcmObvyJmXjK-3lpEPXtymlM93qFFpq4bk-XeTE_ZsbqXVMPHcC7iorvTzPFqd645awlt68aFiTWpPNH8L61bgMKhO5TrCDJvG1fZbEQFEK2DNhU-odFOKYqehliBmmdC7b5QbDkGpGIlnZhG2kpyYQHxA1Ynu0ME-Na-We4mlI3sXhVEFSJVxmjEnlxE7jAY_SkUFflDJkcWCrwWd0CewGPjJqxWZVrdicqqHQ-WYHUZy7RP_rn_9lHIG696-DpUVqg82KSgTtnE676IzUG4dddFBY2pg9BhE5mBJ1ErEh9YeSu9FLzfOF--X1mXpn1KE7IY2H27QMyIoqWZT7aLdXMUQ7qyTI5qvmCCSlUeY6JMvpfX32MbdLotxwslpARSZdVe4cJ2s6-YdCQ6oTMaVzVunrYcs1__1Wf4uMv0XG3yLjb5Hxt8hUvuUFjTRf2_H1r5Px9yA_xy-4Pq1rCdW0pOzSfmdsB78Eon_2tnf0jZtPc_j4XQ6z8s33QErVQVoCBb-8PhRVgYkQZngNVPvFNbcFZb3NzdbOi3k5woLdzRcNc0AlO_rzX1o50ycCy7WBY6rDrlrlcrU0VK5C50P73bba4EubAnYOn2B5QR_9apfqpWSK7aW7TUxDZSyGcVoOTH3kLb_Kj_A5PqIrcZEH8PAUANIUMBQ-39F1-3lq67a3zFcRJ1czeApoAwPD9LnDjkHjUASkDoVtzVah7ybqt88AehcTU7S5ZZQzUKG_ARkr9QgUbreb7iez9_l-zRvFHKbZDz5utQysMHxzirp6jhzulaU7u_pFw0RbtLO1pSewwklbvtvpahXayE5br7WxsVE2VDLVqUA9oZqtsdZW2d7eNvyl98t322p42-pdvKYLbWxZvtvZdspBPg_QsyzLu51WyZ4jVnu9vdHeKGf9t3iC13qUL2-1Nh3CofE5_ra2dza089FUZR8vx6J6O91NvcCgnvZNyn52nUG8xItEfgWZKKlsbXS09kzwC6Hj8UytQqcGMRBlH2oQVPmFbLuqsqFWzua29i2hF6pDXb3C4FlZrbPR3lnSVIua2m53ljdF1TqK7kVNtVVTu7vLm2qrpraXUdWhpna2u8ubomqddncZVZvU1G63tbypTaVxiFco-tDUR5Fd1OelvWNEHyocxZcA9upVut2Nkpy3LIvBYavX2Wy1tfSgPqkukc6m4nKHYK-JZ2i8XsrYZtcsJKj1nodskocj5iy0dldjPCg_tHuZ-luOulJHCeKW6qovWa1428xlOLo4KfKTwQe5l0b7LGVR2VWnq0jZpWrHgkjGkF9ZY0sRs6F0EygTcyOAM2rF2WUf7qUP5XZe3Nundpf5HhYEgKzM2fkv9lugiEUsblrgbVh_xcRymoG243q8FNHsnFk3o9OtVyA9hb5Vtcta_IIlyflsYm42PBb6e572ynN9cfVHFueHoQ3dbDYi9Dp06ZROKB3GjxYgnS3zQa1PIUwj4D8RibXP0nWuVElCeM8tsi-p77c5JR1TgltWbsGWKdCbwo1lCcxWX1zZssbhLMVi5d3fpzrw_F7tmquvqGo3peLA63axsVOWq08R4OJeH4kxXy_6RZoXX_OKbkkivV5Fh-4V3QvjXLsGPR6DrnA89Vix6ulci767_XVvRaeZNI6Yvw3dx7GfUBw7ThP9OWgfx_ZxbB_HbohjV4Ditw9dP6NvDD30C8t9UNAHBX1Q0AcFfVDQBwV9UNAHBX1Q8BkGBY-fakjw_wNAIv5w">
+	<input type="hidden" name="Qform__FormState" id="Qform__FormState" value="eNrtff1yGzmSZ_97E7HvUMu7je2-k0WRlCiJdvtOluW2dmRJtuRxdP_jAKtAsqxigVOoEsXucMS8xkbsvtw8yWUmPgpV_JDUbatlCb3b02IBBSQSicxfJhKok15rs9c4y1keh6dsyF-JbNzotTu932Sv1e01vvvf34n-p32R5plIEp41np70Whu9hvOkt02VoZkJy_KYJXthKIo0bzzt9zaeSqqeiGGcnrKUJ6aBo_JJb2cLW9juNQZxwqHA1Hmlfg6xE6II6Gp8Vz79bsIzGcucp_lH29tutQr0HMUZFMveDjTZnE6nzVEeiVA28xGXF3GazmQoxORj9WdzkMEQeRo1_x4WfR7hi5kQeXN9vRnxfjH8CC3LJrbb2p7rUkKHrNcyjKHhT3Cw6_kVMCYGUj9_Bop6DfhNrMAxw8-35_wqfyGugKsd8zbMgcyzfSn3EyYl9ggd5lCvD_Ww_w7VidN8XyTFOJWqA8V59TK22nh6DM_abfPsiPV5AvP9jv-9iDMeUVPQ3b_JIJZB5jxt7y57532asrGqBMS7Lc33cy7E2UhkOZZ2tqifcSHzYMQuecDyIOEMfsHTcMQyFuYwt4s7Nw05nXegtzc3aay1oLEjkQ6pkc15osZiYTM7S5pxSWrVSFrcVMvyCZceI-60kQ4q3DIz-4ZdHfF0mI_s3JZFcVorUjLTT9J3nEUnaTJzl6J66Z2Yylp9LSZvRMQbuu5ZnA5BrOOUnrStOO1nQsqzMIsneax4B0285OnM4TF0_zeWxBHL-XkWj4krFSqgwoeMTfBpqxwQtP6ChRcgySJTEkvLSxWILOLZiqKzfJYQqaC5jkV-xvPGglof4giZdVwuHSDlZSwnCZtZauwM64IlTVtWvwJt8UIk5SC7bslhDqwIbdlWOedpfgwSIzU5O-5LJ5c8S4j3_do8YelZ_CvXb-26b53lWXzBRZFXNKItfp9GtVYdYjLuMteqlZMJC-N8ph_b-qDnuZR_5bOKZhnHV_uskFzq2Y9Faruysr5fZBL7qbPTTsdByvqJEplWTaSNjqkwBag8Z_1DGNyVFeuOFWshkvN4osm0KqAk8CDLaqNG6Y1l3E-4JcES_5rHw5FWpy3bmitVXVs1Hycv-AAYW2celuwNcp5VZh4KDlP4nyJEsmSFJOyDZSktuOOKOKCgDBIxXSaeUOVUyFhNRa3KbskkzaDSahzxQV7pC7jyRlxyptlSFR8NCQ6NNSgtm20ToAQBDFds4dkpyzgaL3q_8TTrbT7Vtl6hj1GcRLp0L8twkbLeRu-3zy6tuIr04KjXXqMmNij3jthsVUuIqxUphaKTFCFRTdKIB1E8iEvpLDUeKjQAJW6Fjcrsqt7e8HwkIi2P3XJRyFyM93JYwP0i53qoVaOt6pAycsq1hgNe7ZHg1LhUirwqBn4Dt0rZs_rxP9glU2pd1ouoy7MR56aotAY4pZZqWRkVsER1KdEUnvNsHKdgEAxf2tYSHMoXiQgvDhI-5gY6flbLC-ToFHDPFHS3B0keJN0rkARDLGXTIySPkDxC8gjpZghpzrTdJUraLfWWB0o2VANcEekFn0VimuLDdu83XCgnRNbbvU_syvCXXm6ATv_NlWVFreExmtsy7tWLBOHSvTT6SZyL00xgsMuxBkDTBxbnh6FI7RwTiIn4gBWJQgQbyxQICngWR7yy5qDJg0uCUyc0KW8PUlhOoI7UUxVTq4hnZJcAyh3HauvAkH0wd8GPPwatThUflHhR91PnoSUFtM9LTtZDxb5ikIcTYt1biwoNV1XY7N4P4fO3jay3SP28ymJYaK9iXGweXXt07UOQHmB7gO0B9kMA2Iss3F2CbJyuud4fANDWaBk6fx0rxERIC4FZgLYnEFnAxywG_n2-X5C8XYXkA5gWNUHSA3EPxP8cIA5y3M9TmwMA1Lx9UeQ58n9rdzn-hs77qtoClE3iehYP00Bvv1ijjjofZg6mBoehzYq1zqeAklg20_2bEVw7To-dPHby2OmBbd-WSunuMNOxD0Vq3LONpi8EpXOhHz2cQCQ8eruPI3ORw0oc4DJjCcg4vn_w4NoIHKyQydUMJgO0_VGcXhB3OsgdxXaYmqsZoIBuFVrdpX1dAD283fV219vdrxWzmNcJ3vreG-uLKv3tGc8ueVazv52V9rc1b39herUBtiDL29S7crmRclhl0MNQ2A14b4G9BfYW-NFb4BW6wVvib9wPrtrhT8V4ci6qE-3d4PuarqKAMca0i4k31d5Ue1PtneV5neBN9LfuLONkzBlpNcXe4t7xvjQwGFTFQNRVxDkbWkwFeCi-pImz3HmpAFLdqEF5HztqXNN7a-WG9bKk0vkkxuNaXuEYqMlVYg42_8dvAsh1k7LJ1I0HskmS2yzvNqAbAaKTIl_PJ8n6ZEQy3LYrfa_IhVqypHlAN9khWmafsigq9bGd25eZmJyzbMitDS5F7bXI4l-BZpbsJbBy5lW2Vch_41keh8vqaUJhEaFGlnoZy_rpQlsLaVpaa6tS66dMFBMYVr1aqaoPJVb8RaR4J0VZoWP1-3tUhe-4BIyypM-y7pGYXlO3vV3qUKz2mqVRwl8CDAjLhd62Ga9upTdxGo-L8coq7Kqs4tGpR6cenT54dFq79uaW0PT4emBK9-5UDtpn0Meio2VZb2ezntWRAVBoLd5yynqdzsbqWBhU2d1ajMEBVHdby_JvgcLt9tNb4enW7fF06-vgaRIc9ajxqE_uf3bEG5jHqrc6qSeP91YnXBNmTVru-INV_mCVP1jlk4M9svXI9gHEXWv27dZx1y4B1a93x9N9Ao1Ih3r2Ic5HWh79xU-r9_u6FRfGwygPo_ztTx5DeQzlMdTDwFAL7dvdwqibXQL12JHU17wZiqbd3wzlD6Tfq-z4jbm4vYffHn77KKZH4B6BewT-YA56LDVzd4vC_S1R9_aWKAXP_S1RHpTfi_MvJnfHovEvdFcUPPCXRHkE5RGUR1C33geu6aS7hE4-Y_Cu7o26H2FKf2-UhgI7tYTdMgPTn4f19tjb40drj5cohvthlP2x2C9yh5Rji_0dUn_mLll3ydkYb429NfbW2Fvj6xSEt8oP5j4pZZP9fVLfUjx9p3Zu1Zttb7a92fZme5li8Ob6Ad0t5Rpsf7eUv1vqW7tbiuTX3y3l75byd0t5kOpB6uO9W-r3gdOb3i214KA_4tru0vNrULq7sTgzJOvtdLdXbFJlvd1O9wZhM7ziaqO1AqhjBeppeYJv1tve3vGXUD2AS6iAMkkCUIZvWurLl-YRPNgwsozCruQ8McQ_1OupOoYx4eiiejsVDgeAB5vk4YidFn2wnGBkrCLZBHq7R_zX2dv3e_TPy73p8N3269Gno098snP5H28nL_Ms3Hq9-esng-PK5rL4EuZnZXsnxUXxYvecDz5evQzf9GNxtPvxuD399Et8aPCjbY8sh27KyFPST96ZcjvrmJhMB50ave0tw4A5hwJIlRN2zRdRN1bmyN7YEzj2YNyDcQ_GPRj3YPyhg_HFRunWAeNWm5C1jxg_2juvdgiiHqaXcU5r1UU-W2VZBRLRYbV-Ur6kT0jfES7q4AuneJadBwCkkwC0cZCPYhlIPAAfgD4YB7kIPok4Dc4I6Z4h0g2kCGaiCEKWBjJnUBMADh7Vhpd5oCBxABYVmmGZfUxvTuN8FAj4nQVjMZbrwZ4MBjwBpUC_14IpDy5ZUnDsIAsmiElD1dgUKUxFTq2acoDzImVJEKcDwnTAQ9UHDCOLggkQByxYD37W5GacRdATvM_6OFq3k4kA2zcLgmcsGGV88GOjqUsaQU4Y7sfGx37C0ovGc6CfP2uy5-seV3pc6XGlx5UeV3pcWUkgXGHZPbj04PL2F6qCNO33JftaCLHlI2ce4XiE4xGORzge4dz0EtR5m-Sxjcc2tzyL11FypAGCXgB-c9BDHA9xPMTxEMdDnD8viLPKNHmk45HOLaM42yqnEXo4wLsz_cXc_mJufzG3v1bSQ6ZbQqaWh0z3OZ9qgY27U7BEJwoP1O3UHjapnPIuHljtJ0X2x2_OQCPo5O33IlGAXIQjDojHMP2Ors3Ak8QvYFA3PrfrsOHRXZqhvuj-SzwJwdJ77Omxp8eeHnt67PkAwnW0enc2Gh6CGgU2Z-juGIDC6tf9ewj6FSAomvIlEHQvjd5P0AD8Ek88Er2fSHSTFqjeVvNA1ANRD0Q9EPVA1APRBwZEF9i5O8ahMEzVvYehXyMSursUhpZc9wD03n4kG3qo3YHkYaiHofcIhuLxbPcyco9BPQb1G_F-I_4WX8iet3F3DEFrOsxnMX7r5zW2FgvWPsJej6A8gvIIyiMoj6D86Y9vHkGtNnR3DKNwQqDuIM7GgcdTX3NvubU0qPcnfBjMh_Vuf74mziRZJB_T84jUby17UOpBqQ_rPbTzNTUbd8dgdBe_tKAp8CD0a4DQ9lIQWmG8R6H38q4-_O4O8yDUg1APQj0I9SDUg9CHd_XfvIm7-31lQ4CHoHcbB3X57hHofY2DvoizfPQzZ5mHoB6C3gqCbnoI6iGoh6D394hNxx-xqYRD66bu7sOhlgKPRR_CTY0wo4kEUzUeg2JmeSErGOoolgpDddsrMVQC9TSGIl6YF18wyV0j2bpD3NSylzgf5nysrc4JdUDklU-x6m_37arjh2wPbxqD-Oxe_33GE3W9tcFVXQOrGsvXmGLXxxAIaGohXf8kHZuixaO8YXvT-JK7jpw0ekpC5hQi6tEJQDiwb7MgTun7f4MiLzL-r43KmP6Gn_rTUgooKE013CvnWY1v7jvuaMGAArqDvGLzqoINzMLldUOyoRK_miA7NRXzdM5VWUjoxu8jtH1TQpGwsMjQiOFnE5fQuqjWlyS3c2Nx2HK4Rt9yvJ7469_5ckP57L0D7x341N0H5BYsw293nbSLMZqSCO8bmDg1fiw5DUcsxbG4kWp4620JVUygul0NVJcVzCdO5EhM3ZlR8_39D40l4WQg_u0-dX_jgHKF5K8cUv7zPmENq-aDyC680-OdHu_03M7pQUM5KJLkSR6P-VJkq_ayyjUG60krRKU0tAHrNVqNpzfuhb5YVLb5E0-_-4iffOLjvlEutPm2rEo9cKMY_fEjkh1necGSugmwNq-rq5LZAkNgd-8_L4box1_Zh8M-pzBM-vQ7MemPTUN7yTQs7Obhz0P71vNghfWPzUPnmnmodPPw56FzG60keTJ4gt-vEzNtD3_3NGwu10pzvTz0WfBhAx828GGDhxQ2WOIA3XXUoKqKfdDg1huKf9LNKC0VdWJZDJrTu9DehfYu9NatXOguppxaGhaAVFColeV1W--50gFl2VWaWwhRO6trPSDfGSZ9zLIsXu4k3Jj_S9zmag-PZQLat9iAlnwCVi3_AlOwxGOu9_FYJuHGHjPwI4ovRRZ-gTlY4i7XungsU7B5C0U0jSMx_QIzsLVUETk9PI4J8PEKH6_w8YqHdEPZcofzrkMWc_rYRy2-lajFBgnRUXwJs-CDFj5o4YMWnVsFLWCIRdZn6ZJE1krxn5LWjN9rLvqraKzX-FOSmqGFrMi08VrIx7LY5_56UOxBsQfFSz58sBjP3DUmhmlzqfCQ-BuDxDTbPxF_jAg5Gxq41N6-Y1EsXhR5LlK0bwCSO1UYiSfe95J4mBoTphawq3BxPR6kOSwSHIZe8tv2ygWeJKcsikge4t6T-dIz1JFu6a49hM8nnLmXNrQrWkgVvwSdFpoFCkT9jWd5HOr1sgQgtW8FkGD59MVsiVl3Cv-EHQ_ochhnyyCHW_rNB-GWORm_C4fEaaIvbfA4xOMQj0OWB-fmjMjGHQORYw87vvULCZRB84DDAw4PODzg8IDDA47bAI6WBxwecNwWcLQ94PCAwwMODzg84PCA45aAo-0BhwcctwUcHQ84PODwgMMDDg84POC4JeDoeMDhAcdtAcemBxwecHjA4QGHBxwecNwScGx6wOEBx-0Ax2c19fmVkib6XshLeH1BZqn_TJf_TNdNPtPV8p-K_XZP47Q8gnr43-na8d_p0kBqc6np8_mwvw9L6Zv0ofPXsbqhHkc6HjejqDmDfxp0kuUxJ8x6HOVxlMdRHkd5HOVx1MPHUT7N1-Oor5MH7HGUx1EeR3kc5XGUx1EPH0f57GWPo75OerPHUR5HeRzlcZTHUR5HPXwc5ZOyPY76OlnbHkd5HOVxlMdRHkd5HPXwcZTPNfc46isko-Os9PP0LB6mxcR-8AOoequOwjV6W7vLkRUQ0VfVFuAnCdxp3OB8nNW3p2D3WDbTHZshXDvQR2QNH-t5q5Y_b_WoPsC9QCnd9a39i0l47IevyJZCoUhDUEkXla_kIFFv9z6xK8NjdRQZTO9vrlQrWg2f0ULJksm9SCiWO54RUPGBxflhKFI7vURExAesSJSHvLFMfaB4Z3HEKysOmjy4JDt4Qo_e7uNo1KMeRRLKhV7abP1KlQE1IY70QnE6A-3ykpN1iMno6mt80caWbRtmtavMKisYePi_vo9EWKAR_2FdhsCMBNbe9xs_NO7N6OjOQDyyfS6G4A4rZWzGVztTf5Nlv0itb9yT0X7-k9DfdZ-uwLU4uZrtJ5xlpPc0O83LUHYUpxevWMj7QlxY4IfMfqsn5TQTVzPAf93790U0D7x8GMIDr6_z0aTFqsHHHu4B1Gr9Mai1WYVaiTPLDxhuff6GAzRqUCFY8fQ1S6PE0UdhkdGKw1UFf5QqTBdQ-PBnMP-aHJj8cHRxUuQng_dyL432WcoiZg0_4rX9EQ8v1DdeN6p37JQbYn_8OiSrqam7RZ9s9AjDIwyPMB7uDsdyPeRRxrePMrpVlIHGK_slnpykh2meeJxxX3HGLq3LY0EL6DAdCA8NPDTw0MBDg7vb9Vmmgh4iKtjwd-x9RWsGszToF3FUXwznbOjcZBvFl4RHrDi-VMijrr6hvI-9NK7purXSwi1LMZ1PaTyuJRmOgZpcJxnC4-Z0Om2O8kiEspmPuLyI03QmQyEmH6s_m4MMRB4kp_n3sOjzCF_MhMibuW5SNlkYiiLNZdPZdFnPJ8n6ZDQxcF3PR5ELJYVlyKFfU5r2cuPjijV7mYnJOcuGPK9JPuo0kcW_ApUssYChqo6ssjGXGS-upwkFUUZtI_Val3WJtrWQpqW1tiq16CZgGFa9WqmADiVW_EWk_BXaBFOhY7XWe1zd77gE-7ukz7LukZheU7e9XaoFrKZCQ87lz8elVNPV0WWlN3Eaj4vxyirsqqzikZdHXh55PXjk1ar47LdGXMfXg62Ochu3Kb_1VZxJWkm6O0Bsu52dp2U5dHkwZnFSlm912nquoPyI1V5vb7RNFiAU_xJPQhE5jXdbW9p068ZPQadMQe2UVbZ3WlojLqpC_ijV29na0hyGelphlv3sOoOwAfiSSjDfmo2JzN-I8RgUFcsL6dTY3ln9zXCo093cufYqxQwY3t5d_TVQaGq7vXntbULQlKJ7xXe-oKmdjY1rD9RjU9u7q7_ggU1td689UwZNtbc2V9_NDU3tbrWvTauGpjrEK1zW0NQHkV3U5wVo0hIEFY7iS1jX9SpbW62SnDcsi8GK1OtstjpL8lyAiE3FZVhHST8xIEsrkVLGNre6Wsag1jseskkejlhZ3m53tXqH8sP0EshAVaKPquhKHSWIXdVVX7Ja8c7GtaFaIHhLkbLMbYMaXUXM0l1lHDVw1gdnv0E3TN9kPtAz-iqLgTnYmA0cYvGrJcW9nR0yCGpsgEAylJzShMqRmOK7tjH8RAsdH2v0ttUXQBZ5dbjFPWHpDWKNc8nq6DOyRPLGrXyyY-8keSfJO0neSfJO0kN3kuat0q0D053t3U2_Xf2IA9MuYjocprCK8LtmdwdyzIk8j288vvH4xuMbj288vjGZeatMk0c6HuncEulslnAZpj0Fs4TydC7yO4I6wLkNj3U81vFYx2Mdj3U81qmfQlhunDzY8WDnltnzqsIgTviRGFZW8jykrvDKFDtSuPh13Ml1X98o0bp-94W4ssPaVTvMRX8c56-q1ZybALR0mXb-FvNpBQWZgtNMoC7lUdn_Q8mp9JjPYz6P-Tzm85jvMcW35pJVvkLCIx03XBVTA9y4s91evLNImLJ7LVKFarubOz5_6hvNn6K8W86ycHTKUp6YY6tnzqPeDiXO7lICoypo3PLu81S8EmEh_d3nj_Du8-0tf_e5v-3VAzMPzO4vMKvatlsH3zZbrdbvv-d125jb3vL7XVu3R0ytr4OYaELUo8bvu_t8x4w3OKODomd4UPSP3YHe0gBFpBd8FolpWrlEBC3B2zOeXfKsdo1I59p7YUschPfCWgH5I7eCAC_eHqSwlkAXuReDLLztQ8kdx2rrMLZ9MHfBjz8GrU4VICy4SqTKjgd6Z4gOMlpQ-oVujYfis4O9d_uv_d3xHk14NOHRxG3RhKOU7hRNHD88BPHV7ha7Z7DA3xuuI1LbdFRzL7pkacij0rb7i8G9VfVW9fEeflqsF-6JefX3df4hm7pTt6nz0-xt61051dC9TSM6oTXwSv0cAvHlruJ35dPvQD5lLHNo5WPFSDhVEjGM4uwj7b5sfIkrxNbXmxHvF8OP0LJsWnNd7VJ-NKv588O6hW3ry97C9veCSxKZprP1569h8xlKPkPJg2wPsh_VNWxuOshXykqqbrgRKG_PRc7w8e7WcugP5e1u56kPg33zWUi7iDgzKInHmuWfrRwlfbrDLA5xPvYJx-Rf-PTexuLTe1vdTWjyA09CMeZBLgJAVc6W5b8GwfkopvwjFkx5H1YqD0BnBGMxhkdpFAh4IQum8HYaxLjjBxiLR_BnkHGEXRE0OolDuRaIwYDkEFqa0JLHLBxogadDNsTnPL2MAcQhwqQCFvzzH_8lWQr6PQjxasB__uO_A5EGE1qP8MZaMMlEBApJkTIGXRYgShcpS3S368_62XP891_-8i9_oaFMsviShbNAAsMJzQbfQzen-umpAGM4g45-CEJQJ5msMSSQ4PjFIQ--h-dI35n6TW9MR3E4Ql7RUGHo_Rmwj7t7wMHR0b59d1-MYd5Ub5cxC0SRWSazvBc8Y8Eo44MfG6M8n_SaCGnXq6h3Haat8Xzx82dN9rwkE9rEftaD4B1H4kDJSJxvKJtiyRr-VUhkMfISfgA1-Auml9NswlvzAmL5GyCD9_Ja8RqMJ4DpAmaOx3GuxCEYM5AU-BcnfYaDNnOCPdMDMDMyXw8-qJdJ2OCx5Amg3UAKbLWgSwhzfCUfsRzfC0KszfqAMIKRmOq2jUDE6YB8DliiOEeAAyLqUI7grWiN_oZ2c3bBq1TBlMeikMlsXS2GqqwE_ApAWJxK6nKKQ00SwKYknDn9AV2VPVXoULQi6dMRLCD8AyvjpNXkDidwPVhIAK7PNBTZRGRMrT3gMfVX9D8BAXrW6i2iikJRDbQIrwcHDMQ3j1ERGI4aarD7NXqCN5jGg1lZhQ0zTqqjzwMYTkpij-_UOwjUXM0NAIZ1OKCmIhGkIi9bJKpNKwveVBRRfmAUg-CjVihANCRKFpHt9mxUsprdMR_3QTRGcU2GF3E4EiB2RNlkkswMZRPMGoxxHQF1Ia3lGBcVMgbkQA9GTNMAFGaoIMIavjzhYpJwmHIxdiqinypmWHfMUrADa_gndRVnESo9UINaO8j1wKEZ_v9Z__nh8auTd2_2zg9PjoMPB8H-ydHRwf75s2b_eWV4H6yA4txm1VUBApkGfABPSGjiMYjwpeYXiDnHfG7DTUFrukjBSwWWTuN8pKSBJBpf0Jqyyl0g9D12ewoNxxEI62HZ_7ohtkLlwvULzv64umwyPsTgTKYoKcDeFJPITjaMA8M9a8pEwbSpasp4aUlQMlZZImgZ3qhSVJ5KR-CSwDYvGamFYMBZXmQ4JzCYgNw75E6doIChDVWtOXI7UYxQZGKu6lrwazxpgoUEvyzAC3bXgiEhKOq8j_eq4riIXDAeYBlVgEIRx_E-34BF8EQCRR8MeySdUVNryGEk6edpnCQwW0r3Ao0gqoBUNKdVgzAeZdws3dD-RKRk6O2QcQ0kALZodajxZ6qViTrath6coPxQNxm3LELtS5OJhIAWGQI0SKkRMaHXUZ9FEf5LngIwZqFUlNrUGpIBG8dqxbpyAFP1M_6smQRa4alIZ2OcV3inwEl9Lab8EucM1FqpWUrjkCMUkQhMqqKmDFJqVr5mIC46qVOQyUklxvEM7SFOadVm6cYCmHEGpOzren0m47BSiD0h-cC9URxFPFXmDBnKkimbSSyJVLxAAZMCSdaTYSYC10eYFJE1zEgtCmXJ0CEXQ3ACYCxBIkK9bh2MtZeUkwOMB9EGpTyI0S-rsNtoSbPMx2wGJBIKRVVnWUFKioZJEI9qKdutxsCkWUIkiwuNBNRB85AIMvm5Mito5nDsZgHiw8rKAO0LL5KKmMZowdEqUbfw2jrpKCSHJVLYUSyWRoIq1MEA6okpsjeMs7AYI34BIeiVHHzyP3S7i5qEeWJZOTtGmWGRo8-UiNkZI301cM3hU9PVK1SjyuAL9d-pHpS8IMpJj6mFDn_KIrvkIErAGdUTnkkAvC_JJZjTz0rgjYIZMnoFySCBdXj_9AZDn9f4KCZxGE9QycPMyynnE4noTY0d2h4L8scsHM9HmSiGo4WsuPlsmlaM8UBXV7orBzimcj8dfrlNAUdEn9YxDaq074Ae3HZA6cDKUWvMWFOoQNwrf4KMTjkuc1gIRR8EHvBxkYUuRtB232A5lxY9VK4NOgEoWrjEMz1ero5KXLIEwBWZMVqVVaGqdoeAxOnmADAyzFUODf-UsTRX6-hMhDEouWOeT0V2EZyCv4ivIOUWCWhkaHSlg-lwUshDVK2kupWJbgV9l-9LZoLDTvo9icEOquGaE9s_lFZQd0PgOUd3ss4vXg6E4VLmFu0uIUMpJR5nc3B4rdS_9VYDZX4AGEph5Y1pBxtPupU6b3XvYDP2pIMxye4Yg4T-Lb2sgeCitpe0K9ecRsljQiiiVIWM-3GCPjsqBYVQWDrktAygaTAEwAZSV4q5pluBGFPVRS65XHcpwhaV5Mmlw5ZzwviB94MjMZQOxjyKL7RgkxcJihX8TeV8S9rdVYNcqoxgpsBrh_oik8YlcL009wVULUoWlUj1MzGVen0hEiJcsVYyBAZkQJyrS7E6fk9ayS8qd-WXKajEEWyBqMsZ2PKxtaCIygoy7jTXaQw6Ozg8te3rZWyqGbePutDroexJAWDwThQaxWFglyPWj3MES1bN1BgAbY14MgE7zIap0P4wSCFoLC5HAqRI8Rw4lQyKVAXSyFkCXyiZ_QpNAsZFPQuQMrxQIjsGCaYIjlpjYKGHaCENndriAJEsCiI-tsDFIUyRbDU_0h6nUQzSVtTApSMKZkWCNxbg_ivZRoOfSXG6sbHSTSJjRMBH4xgScxUz0xB1vSa3r08-oDf3_uwg-Pnk_bvA8fJc107X3q90RbIeqOKaY4P9W4q1LXliAnaIJGEKiLWy9Cq0JLpwAbj3ioybwjFgvMAngWp47Jfal9qlMFuvuMglYDyRgsJl2LwKQSlchCqbRBYxzSWqEJHWog9IeMZDroKHxt1JABcr6gq5YEZndazvzhd_kvKpBLclpxWvvEY17NrMKQhQi3-RJ6FQi1JdZs25b06yMuYGKmwoyItQKgNdzJkOESIDctZXnWNiBtYDeinOqPwMqoIQSD0-FrnFCHIdCmsScVZDRacWFbnScQLNhSE4FdojVMa_jqiUODu4Kibn5pNerkqnAzRBGyAy4MyLmQPScCgYYCgbWKt4pkKtDFv671KHftRM6JQU1MmkCtUEl7ZSxdYq3tMq90PTqsgrEpZZsmsMPCd0dkrRlxNa2i46qTNOxR8TWiAlgpITTmbKRquFjY7I0ryrgDmOcRRPDIFO8EfFFwBtgkRDl4j9SO9TN8Z17lNjRptodOCufOTmoEjAo0pK9FDrpYRck7zso-Kjk6MGXift0ZRYUEXBdHAQTIDuyTjNilYdaKWWloKSuOK43NijrHh0tMDGpcdQH9Gqud6LApXjVZlvrVm0ibNhORZdYr6GCg7wcJQKMAszpWYy1FSgCC0VhBmsSZ1TodOyi5-EGMIg96Iznko0amOB-gCXobKNZqRu_6hkddvK8aCfFS1n5zizQATmSgLmKCbG6gOfQF4uyCWp0uHogrmIGSxaQ4sxgsihFH_gqACghdw0jOShCe1zFpKbllYByzKWqWFV4ng4QjIFY4ArgE5wiKd45JyjhOl4NoGSEW5gpjQdaggZySAFa1DjkluRlqMgfEFkm9UieRnshW4WMOfmPClkyQ21LEp24EcjlbOvBBlWBMaS3b0SycMiQzs5wUgHl3WBPnu99-7w-Kel0IEEWqN4iU6kQJ8-zVfsnNQC0mXYmybFICc0pGmC0BHEmda3nllgUZqvo1MScRlmcX9F2EathDXcV1EBuAU6vkKbirOYYFolwkJyoj14S4fjbLsRmOBcBBybDVWgt-64PXXqUchzpqQwAeyZmHsaFHha6X-G0Hiuo6doEYr-RPCU6bA_YAZM1FR8vUT4hMgWaqE1wRYGGSuiNVgbQpsNJHERvSqUZSAVLQVcBCzTMU69d4MWAQdAGxC0rYWWRhWrkgSUrnLtzNQs5qrjRZu42xwGW1OuYRUnST1gjfBMsE3BeXL8aM0uiiMiySqqagM1IjNokr6-aqcNrCiok8LF49BAnycxcByZLRL470TgLjyabbDQnOXWx5uMZhJT8wLJBjyfmTi8kkjt5MKPfEZw2GnZGKgFmy7AUQK2lKhosZDq2KUb-1dioSvU9qYTQOkgRyj0SLqKJ5CbgUhegoqnhcrQiyTj2kfPEyaLZAR3-UOVw0RSwLMhjzQSSa0zgwZ-7UYWWcuj3kGxTk9qzbqmSIrE7VDBypQ7qFKNNmOpVOFO0Lu1sRs0gVuTKgBqwlNkMQbAlhABlUbpaBanqdr_owWHbQ-USdNU9VGtylxlLGDLKuZk27SOkQPmjU-N4kfSaCMXhXwaOHrDWO66asV9b5R7PS06akK8VlFWFewBRk-KjBYoEKx3V5CO-WmZKeA9EE-RYkNC8IHYqrurhSDHLLvgNHBrqAw2J6ItdtVYo89H4LWTOcdWzb6mxnVJAksy06kgBgJWkLcJIKLjhsHT7FJvIcUaygJb16AE_X3aS9VBItzFnSd13kute8knJ389PDgL9o5fgm_9InhxsLd_cnxWGsVzHawYY2BLFpnZJFFu55z2oct5En7JUoO710qsgumGKmTb0IZ-vYFJIa7hhw7kGBcq1cPNDqnCj9EiTEQ5JnpuFayV5FXxS9qO1CEpNyJFokojUtrcCEn86_zebgmWMzDHOClvMERGwERhRU0wz-ehovaGQwpVqlzBKsykcOGCt-weW6wTAWKp3KgRORHKwXQcEL3VZVytgkKBY6tXzJasC4YrUnACDzEkOEGsqAAtgWTCkA5S1tsRlK0SNBx0BpP4wcVqjidKxkbrIJIPWgc0LRhcIVZiv7SNAliUIi5mnxXr6_50ypXuQ7vBKgCldHE-m-htYBP3qkW23uvdygV7vq6jOgacXOhYN4fliUiBpzo0SAbUcS9IlGCsNvJptsPd0CexQ1rswDJQ46RAFLszHXdleU7bV5fchDNNq8bLx0VtyVCirAmlBkzwzBBGnYBRiOgVFYhzLVCCIV_yypDUM0diXODtRuhg2pXP4rpVKmJLqxP07JyPveYmxjnt6iZJP9FgeRoJ7RG4HgLozzKISioBl4zEwyfIUgIMGBOlwCtMhTtCN19HBQzMpvlaFSXhZqbCqKSzTTIDG4D6iVGUdExdumGZuRwiYTY3yvfKFBWl5coSd4zGxXX5Y3dKKs6XgkM26KvYo1w1EzrR22h8nopKXL5UAIFKmTk72H__7vD8Z7IEYAJeHb48OD4_3DvCZ6U5qI15xPBKsiSPMYcHt9MV1rC-GGI6BDUUhdfhSOJ5jNkROCSQHCkG-ZQWIa4nlkVTpVRVG-4u4ADg2JQhsCM8jeIAijqbTTR6xDMvyrTqfLObB8FUxDRlBYD4DIxBpJF7Gcevdg6dAWCAN59EPNfwLOImjIVuBYwB_Lp4mCqKIj7AMCsbojpDRRheGBfYQjWKGQMABmXAx5Ncqwem4jdo9oDIWOsYLZMmElZiYY55dXLRWMrUj-sZsqajRBepmCY8GvKFKFsniiTqdbPJBXM4Ro0esTEzL6pgtQRZsTu9C2lcW7xZj_Krc3Gkk24nZTHWyiGL5cUcunl9ePTy3cHxUvm1yWwgRtAlUutEaZULQ3pY_eqXKUak3ssNWM0IK4IDgmaqqvbFWzs2r1KHGZC3eIfdil3-WhtqZ4fY0trBJBhTzNBZaO2QHU2wpgRfNIlUNENFlUvHrL6box1XHVwECZPaY1EqSOUYE_oeFphzAe6BimjPJReuOflME4SvlJvsTFjmXIAI5M7I8waK6zP308Hxwbu9o0X7OmoHdUEkcoyZ-DPlM1_GxmjU0heZYgRhYserMT6NDt3qXVqofLO846aORC3LPzblmIesNAptyLiOmortMbWU3cy1hQ7UGu6G2wQ0nmrQwnIn_qdlEswA5ZUFOMcqiJAFh2entMlMFY0C1pBVp5xaD72-Dr-fT4yq5T_QQMoYhTGDa5QzaiIca-4OurUBqDbAG00Ei0ingHVD4fsB7FlepswQBlGwSE2ymlw1b5HdASDsHZm0EbMJrBA3hsIM2To9spI_vTCVlxxnkjMbpzHiRvtIJebXmWZYxKclSgObRkFFDKaXi2xeSHtfRfDcpXQIa4lu-AdorS4ndpfUXpmgafcaY1XdxJ1sfBOZ9EkgFHNecgTGQd9qbwNj1RUN5OxUzGdhZmYTlWG45AmtXC3g9lvzloT6jiSsNJO8AmJiOq-o2SWBBOze7tVU-1X79UxtSdK7hc4NUOCcdjgztck1zNh4XWVY6mFYN4rSjqtzjc3noieLyURk-f9bdMBheRkdcqAsNdpittE8HSyYy0Ow4BuBVJ_JueDAUZxe0OyqKTfZ1suMqTHSymFLFrxcIiOdDa6Ca3q_KzGJjOWGBa7hKctWgg-baaMRiJuRWklLp8XrDqWat2giOiXhRWYjKf_8x386aswmPdhMFFrySgjmM-WUGTWRIsxDAtWonBmjbXBWbTa95GUEx3oVZe8xJrDOhHbUM44nFWyGa99kHFfSj2D0VE2vSpU38yTH2L46FmVw6LIjLTptroRJOiPSTpCNlcDEXXLHP1TpkkBlVM0VNkeOpCWOgoigGGelx6JCAISN5E1Q6_wRp7pmRQNEwRDF7cX5f-TGwstKe-mTN7eQtcyqOgriDyrbRGolOKlLWmFgyClaGqWB5UhKhD6wIqXNWqhkBk4okgDCZY_3I-SUU9oj1QuNKKqnkmi0WF1uLmBc5To5mQu4DPqcZnut5Cf1bfKU63m5oenZ5FnZbJQilYJSAeG5s5d53XTckOJwJFDTU1yTXYLepVoOZ-rs3wuO0evfoyV9SJlpTGfg4zEOJG21asQdV2FOBGIv71MaGx53xJGZXIOscmqHThkqTZ1Lk5xdeZOy8ZX2ctKh69uU0pludQottfBcny5y4v6LG6l1TDx3Au4qK708zxaneuOWsJbevFiwJrUmmz-E9bNxGVQmcp1gB03ia_ssiYGiFLBnwqbUOyjEMVPRyxAzTOlctssNhiHVjESysgm7kJ6aQLxH1Ijt0cI8Na6Ve4pnQfIuDqcKkirhMmNMKid2Fh7wKB0Z9EUpQxYHthZ8QpfAbuAjoxo2q6phc6qGQuebHURx7hL9z3_8t3EE6t6_DpYWqQ02KyoRtHM67aIzUm8cdtFBYWlj9hhE5GBK1EnEBak_lNyNXmqeL90vr8_UW6MO3QlZeLhNy4CsqJJluY92exVDtLNKgmy-Zo5AUhplrkOynN7XZx9zuyTKDSerBVRk0lXlznGyRSf_UGhIdSKmdM4qfTlsue6_bepvkfG3yPhbZPwtMv4Wmcp3rqCRxdd2fPnrZPw9yI_x66YP61pCNS0pu9SXLrlqBJByn2XEFFm5ahPfQj1ylsYgdXkDOfIbfdlKaUS1FIEhW53tRkVXluqgqnx0SwCImDRY6WyMGPuUjqPQKpY1a6tfOp9NzH07IyCqUVGE-5iqx1-auwuh2fZGq_Vko_NkYzOA_jtbINmNirIzo8KrODeg0Wej9nPXgf7A-QW4BpqkZ00o_stfnkXxZSBRQH9s9AkF9NqTK3CEyDX4nwft7k577-kUdTUIZndy9XQA7z9BrALsMT9JwfdSRLPJ04mCoKAyoLiBfYS4SZ0936MwinI23qqdTtpuCMkPmqKzqZyO54sC91MOik4SbyfIWwrNoy-GqPbHxsd-wtKLxvNuMAaKRiYaiK5nOR8IwY33YrYF_x1znHIGq0uu_-VZU9MKNZoO6Utoqu8UGEej-fdmp7O90Xj-Uu0w4Q0EOvHK7DZ-jxHAzv_5wXauDqBmfEhJbHgkX_5fQ2-g6WjO0fU7GJXyaeP5s3g8DGQWqjclvJqMOutDSj7HwJIOc9G7T37i-9vnR7NiY2ezeT7YzV_sR9s78WFzT_-zzzab7V_5L39tvT7KJu-bsrW52VQU_Ft7C_5vgwjRf8e4o73-aTJswHBogHowMKwmiCP-F0dpPrL2nbNkf-Lpdx_J6A35mVrnakl2utdWrGt2ZUE_fkRkE2d5AX7N3Jd4tKns6qpk_lQqnb5z67OmUUER-lhkaQlQgdWdjFrl0jYsqFx1FA_tF_xKlKAAgaUQNBU-wfKCvv7WLrUVooEaENB3wSP0EMM41ao0622qz_3lV_kRPsdHrQ0N3uDhKbgDU9AV-HxH1-3nqa3b7ra0YppczeApYGvcBqEPX3aM7wlFQOpQ2NZsFXV_nXr7DBzNYmKKNrsGigAV-mugsQIDQKH6Kmf9Nj57e_WXvD_PYZr99Ge3ZUC04ZtT1NVz5HCvLN01Lxom2qKd7raewAonbflup6sBw0J22nqtjY1W2VDJVKcC9YSgosZaW2V7e8fwl94v322r4W2rd_FSOkSUZfluZ8cpB_k8wDhKWb7VaZfsOWK119sbbWfWf4kneIlN-XK3teUQDo3P8be1vdPSrvaiKvt4FRzV29na0gsM6mlPvOxn1xnEC7w252eQiZLK1samNtQJfit2PJ6pVejUIAai7EMNAuY_EZJVVTbUytnc0ZEU6IXqUFeIA5xqnY327oqmWtTUdntzdVNUraPoXtZUm5ra2dhY3VRbNbW9iqqOamq7u7opqtZpb62iapOa2t1qr25qU2kc4hWKPjT1QWQX9XkBmowDJmF5XQJ2qVfZ2mqV5LxhGZjspF5ns9XR0oP6pLpEOpuKyx1y8kz0TnunpYxtbpmFBLXe8ZBNcsBHzkJrd7VHA-WHdudef9RTV-ooQeyqrvqS1Yp3zFyGo4uTIj8ZvJd7abTPUhaVXXW2FCm7VO1YEMkY4C5rdBUxG0o3gTIx9184o1acXfUJZ_pk8ubTO_vo8ipPG5T7JtiEz_b7r4gfrDu0xIu2friJUS52IB2X-oWIZufMus-drXoF0kgYM6h2WYvLsSRxPIhjoT_haq_y1xeyf2BxfhjakOTmQs-zDlI6ZXCFLpmIlmCarvlc3McQJgzcOhGJ9U_SDRqokoTcOLfIvqQ-1OeUdEwJbsW6BV1ToJMdFpYlMFt9cWXLFg5nJeoq77Q_1Rsq71Q2iPpw7nHl2nuEnLpVbOqU5eoDG7iImyMx5s2iX6R58SUvnpckus0qCnQvnl8avd01KPEYdIITf4qRUf8f7ptNiw==">
 	<input type="hidden" name="Qform__FormId" id="Qform__FormId" value="StaticPageForm">
 </div>
 
-</form><script type="text/javascript">qc.registerForm(); qc.imageAssets = "http://s3.theskinnyscoop.com/assets/images"; qc.cssAssets = "http://s3.theskinnyscoop.com/assets/css"; qc.phpAssets = "/assets/php"; qc.jsAssets = "http://s3.theskinnyscoop.com/assets/js"; qc.regCA(new Array("loginPanel","txtLogin","txtPassword","btnLogin","searchPanel","txtSearch","btnSearch","lblStaticPageContent")); </script>
+</form><script type="text/javascript">qc.registerForm(); qc.imageAssets = "http://s3.theskinnyscoop.com/assets/images"; qc.cssAssets = "http://s3.theskinnyscoop.com/assets/css"; qc.phpAssets = "/assets/php"; qc.jsAssets = "http://s3.theskinnyscoop.com/assets/js"; qc.regCA(new Array("loginPanel","searchPanel","txtSearch","btnSearch","loginModal","txtLoginModal","txtPasswordModal","btnLoginModal","lblStaticPageContent")); </script>
 <div id="footer">
 	<ul id="footer-links">
 		<li><a href="/about">About Us</a></li>
-		<li><a href="http://blogs.theskinnyscoop.com">Blog</a></li>
+		<li><a href="http://www.skinnyscoop.com/blog">Blog</a></li>
 		<li><a href="/tos">Terms</a></li>
 		<li><a href="/privacy">Privacy Policy</a></li>
 		<li><a href="/contact">Contact us</a></li>
@@ -369,47 +704,47 @@ This Privacy Policy describes the personal information we collect about you, why
 			</ul>
 	<ul id="footer-links-categories">
 			<li class="firstChild"><b>Categories:</b></li>
-			<li><a href="/question_list/">All</a></li>
+			<li><a href="/category">All</a></li>
 			<li>•</li>
-			<li><a href="/question_list/500/">Even More</a></li>
+			<li><a href="/category/all-other">All Other</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Internet+and+Technology/">Technology</a></li>
+			<li><a href="/category/technology">Technology</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Au+Pairs+Nannies+Sitters+Doulas/">Nannies</a></li>
+			<li><a href="/category/caregiver">Caregivers</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Development+and+Activities/">Development</a></li>
+			<li><a href="/category/kids-activities">Kid Activities</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Eco+Friendly+Green/">Eco-Friendly</a></li>
+			<li><a href="/category/green-living">Green Living</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Education+and+Learning/">Education</a></li>
+			<li><a href="/category/education">Education</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Feeding+eating+sleeping/">Feeding, Sleeping</a></li>
+			<li><a href="/category/feeding-sleeping">Feeding, Sleeping</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Health+and+Wellness/">Health</a></li>
+			<li><a href="/category/health">Health</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Infertility,+Adoption,+Family+Planning/">Infertility</a></li>
+			<li><a href="/category/infertility">Infertility</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Just+for+Fun/">Fun</a></li>
+			<li><a href="/category/just-for-fun">Fun</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Parenting+and+Discipline/">Parenting</a></li>
+			<li><a href="/category/parenting">Parenting</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Parties+and+Holidays/">Parties</a></li>
+			<li><a href="/category/entertaining">Entertaining</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Pregnancy+and+Delivery/">Pregnancy</a></li>
+			<li><a href="/category/pregnancy">Pregnancy</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Product+and+Recommendations/">Products</a></li>
+			<li><a href="/category/products">Products</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Sex+and+Relationships/">Sex</a></li>
+			<li><a href="/category/sex">Sex</a></li>
 			<li>•</li>
-			<li><a href="/category_list/The+Skinny+Scoop+Feedback/">Feedback</a></li>
+			<li><a href="/category/feedback">Feedback</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Travel+and+Safety/">Travel</a></li>
+			<li><a href="/category/travel">Travel</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Tweens+Teens+and+Beyond/">Tweens</a></li>
+			<li><a href="/category/home-and-food">Home &amp; Food</a></li>
 			<li>•</li>
-			<li><a href="/category_list/Twins+and+Multiples/">Twins</a></li>
+			<li><a href="/category/multiples">Multiples</a></li>
 			<li>•</li>
-			<li class="lastChild"><a href="/category_list/Work+Life+Finance+Legal/">Work-Life</a></li>
+			<li class="lastChild"><a href="/category/career-and-money">Career &amp; Money</a></li>
 	</ul>
 	
 	
@@ -419,6 +754,7 @@ This Privacy Policy describes the personal information we collect about you, why
 
 
   <p id="copy">All contents copyright © THE SKINNY SCOOP 2010 All rights reserved</p>
+  
 </div>
 
 </div>
