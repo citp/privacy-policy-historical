@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220224839id_/http%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622215612id_/http%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # PCSPECIALIST.CO.UK - Privacy Policy
 
 Privacy Policy
 
-Definition: The word "Company", "Company's" refers to the registered company PC Specialist LTD, no. 4777867 in England and Wales.
+Definitions:
+
+The word "Company", "Company's" refers to the registered company PC Specialist LTD, no. 4777867 in England and Wales.  
+"Website" refers to the domain name http://www.pcspecialist.co.uk and all content hosted here.
 
 PC Specialist Ltd, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction to any other party. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or home, work or mobile telephone number. The Company does not associate sensitive data, such as your race, religion, or political affiliations, with personally identifiable information. The Company takes precautions to segregate any sensitive data you may provide on the Company's sites that reference your race, religion, sexual orientation, ethnicity or political affiliations. 
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Company's Chats, Communities, or other public online forums, this information may be collected and used by others. The Company encourages you to review the privacy statements of Web sites you choose to link to from the Company so that you can understand how those Web sites collect, use and share your information. The Company is not responsible for the privacy statements or other content on Web sites outside of the Company's Web sites. 
-
-Should you choose to purchase an onsite warranty, details of your order, address, email address, telephone number(s), name and postcode may be passed on to Repair-Line Ltd, which supplies onsite warranties for our company. Please reveiw the Privacy Policy of Repair Line Ltd for further details. 
 
 There is also information about your computer hardware and software that is automatically collected by the Company. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by the Company for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Company's Web sites. 
 
@@ -26,6 +27,10 @@ The Company's Web sites will disclose your personal information, without notice,
 
 To ensure that your credit, debit or charge card is not being used without your consent, the Company will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998. 
 
-PC Specialist Ltd Customer Service 
+**Cookies**
+
+The company uses cookies for collecting user information from the website. Cookies are used to enhance the user experience of the website by remembering a specification previously configured, allowing the specification to be loaded easily when the website is visited up to 36 hours later. Cookies are also used to track the effectiveness of marketing campaigns on external websites, by initially pointing the visitor to a tracking URL. Cookies are not used in any other way and the Company (or any other third party) will never directly contact you based on data collected by cookies. 
+
+PC Specialist Ltd 
 
 enquiries@pcspecialist.co.uk 
