@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023014510id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622170252id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Speech Topics Help
 
@@ -59,7 +59,7 @@ If you would like more information about this practice and to know your choices 
 While I do my best to protect your personal information, we cannot guarantee the security of any information that you transmit to Speech Topics Help and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, other Internet sites or services that may be accessible through Speech Topics Help have separate data and privacy practices independent of me, and therefore I disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policy.
 
  **Children's Online Privacy Protection Act**  
-This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
+This website Speech Topics Help is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
 
  **Non-Personal Information**  
 In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
@@ -68,7 +68,7 @@ In some cases, we may collect information about you that is not personally ident
 If Speech Topics Help is sold, the information we have obtained from you through your voluntary participation in this site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us. 
 
 **How You Can Correct or Remove Information**  
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through my website and would like that information deleted from our records or would like to update or correct that information, please use the [Contact Form](http://www.speech-topics-help.com/contact.html). 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through my website Speech Topics Help and would like that information deleted from our records or would like to update or correct that information, please use the [Contact Form](http://www.speech-topics-help.com/contact.html). 
 
 **Updates and Effective Date**  
 Speech Topics Help reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
@@ -78,22 +78,34 @@ If you do not agree to Speech Topics Help Privacy Policy as posted here on this 
 
 Your use of this site indicates acceptance of this privacy policy. 
 
+**Advertising Disclosures**  
+This website is written and maintained by [Jim Peterson](http://www.speech-topics-help.com/speech-topics-help-about-me.html). 
+
+Whilst I endeavor to check all facts, the views and opinions expressed on Speech Topics Help are purely my own, or send in by my visitors. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question. 
+
+I run third party advertisements through Google which are clearly identified as such. 
+
+I also have several affiliate advertisers and sponsors that include, but are not limited to Amazon.
+
+If you click on their ad or text link and buy something, I get a small commission. If you prefer not to do this you can also go to Amazon and buy direct through them in which case I would not receive a commission. Either way the product will cost you the same amount.
+
+I always give my honest opinions, findings, beliefs, or experiences on the topics or products I write about.
+
+Speech Topics Help is a participant in the Amazon Europe S.à r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk.
+
+Speech Topics Help is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
+Speech Topics Help is a participant in the Amazon.com.ca, Inc. Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.ca.
+
+ **Speech Topics Help Information**  
 For further information and questions about this Privacy Policy you are welcome to use the [Contact Form](http://www.speech-topics-help.com/contact.html). 
 
 Best Regards,   
 Jim A. Peterson, Staff Editor of Speech Topics Help.
 
   
-**Share this page:  **  
-
-
-What's This?
-
-| | | |   
+**Share this page:  **| | | |   
 ---|---|---|---|---  
 | | |   
   
-Did this page help you? Happiness is helping others! Here's how..  
-  
-[](http://www.speech-topics-help.com/copyright-notice-for-speech-topics-help.html)  
-
+People at school like this. Be the first of your friends. 
