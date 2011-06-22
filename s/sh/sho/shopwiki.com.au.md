@@ -1,59 +1,126 @@
-> *The following text is extracted and transformed from the shopwiki.com.au privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107221623id_/http%3A//www.shopwiki.com.au/wiki/Help%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.com.au privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622233035id_/http%3A//www.shopwiki.com.au/wiki/Help%253APrivacy) for the most accurate reproduction.*
 
 # Privacy
 
-#### Effective Date: January 24, 2007
+## ShopWiki Privacy Policy
 
-This privacy policy describes the types of information ShopWiki Corp. collects from users of the Web site ShopWiki.com and how that information is used. Please read this policy carefully before providing any personal information to this Web site. ShopWiki reserves the right to modify this privacy policy at any time by posting the changes on this Web site. We encourage you to check our privacy policy frequently. If we make material changes that will affect personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.  Your continued use of this Web site constitutes your acceptance of the current posted privacy policy. If you have questions about our privacy policy, please email us at [privacy@shopwiki.com](mailto:privacy@shopwiki.com).
+#### Last Updated: April 16, 2011
 
-### What data do we collect?
+We are committed to protecting the privacy of your personal information. We recognize that privacy is of the utmost importance and we operate ShopWiki.com (the “Site”) with that in mind.  This Privacy Policy is intended to describe for you:
 
-#### Unregistered users
+  * the information we collect about you,
+  * how that information may be used,
+  * with whom it may be shared,
+  * how you may access the information you provide us,
+  * and your choices about such uses and disclosures.
 
-We encourage you to register as a ShopWiki member to take advantage of many of the personalisation features on ShopWiki. However, if you choose not to register, you can use any feature on our site that doesn't require registration.  
-If you do not register, the information we collect from you is limited. We log your IP address to diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit or it may be the same, depending on how you access our site. Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, then we also log that information. This helps us to maximise our Internet exposure, and to understand the interests of our users. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not reports about individual visitors. Your IP address will also enable us to estimate your zip code so we can approximate shipping and tax information within your search results.  
-We also place a small file known as a "cookie" on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. However, unless you register with us, it is not associated with personal information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive and cannot retrieve information from any other cookies created by other Web sites. We use cookies in this manner to help us understand how visitors use our site and to help us to improve our site. You may refuse to accept a cookie from us by following the procedures specific to your Web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only our Web site, but other Web sites as well. Since cookies don't provide us with any information from which we can identify you, we suggest you allow us to place one on your computer.  
-We also place "Web beacons" (also known as "clear gifs") on many of our Web pages. Web beacons recognise a visitor's cookie information and therefore gathers the information that allows us to understand how visitors use our site.
 
-#### ShopWiki members
 
-If you choose to register with us to become a ShopWiki member, you'll be able to write and edit wiki buying and gift guides and use all of the personalisation features on our site. The benefits of membership will increase over time as we get to know you better and introduce new features. We encourage you to register as a member so that you can experience everything ShopWiki has to offer!  
-To register as a member, you will be asked to select a user name and password and to provide your email address and possibly some demographic and interest information about yourself. This information is also associated with your personal wiki, product wish lists and other preferences. The information we collect varies, but we only collect the information that you voluntarily provide to our Web site, for example, by responding to our forms or completing your ShopWiki profile or contributing content to a ShopWiki product guide. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognise you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customised Web site, without requiring you to log into our site every time you visit.  Additionally, authorised ShopWiki personnel may update your membership information to accurately reflect any new information included in communications received from you.
+We encourage you to read this Privacy Policy carefully before using the Site and the services available on the Site (the “Services”).  By using the Site or the Services, you are thereby agreeing to the practices described in this Privacy Policy.  If you have questions or concerns regarding this Privacy Policy, please feel free to contact us via email at privacy@ShopWiki.com, or via letter sent to ShopWiki.com, Attn:  Privacy, 17 West 18th Street, 8th Floor, New York, NY 10011.
 
-#### ShopWiki Assistant
+We may collect personal information that can identify you, such as your name and e-mail address, as well as other information that does not identify you.  When you provide personal information through the Site, that information is sent to servers located in the United States and may be sent to servers located in other countries around the world.
 
-We offer the ShopWiki Assistant as a download on this Web site. The ShopWiki Assistant is an extension of the Firefox browser that automatically fills out forms at online merchants to make for a somewhat seamless shopping experience. If you choose to download and install the ShopWiki Assistant, it will prompt you to set up your personal options, including address and credit card information.  
-The personal information that you provide to the ShopWiki Assistant is not sent to ShopWiki and resides only on your computer.
+  
+ _ **User Provided Information.**_   We may collect and store any personal information you enter on the Site or provide to us in some other manner.  This includes identifying information (such as your name, address, e-mail address, and telephone number), and any other personal information you choose to provide while using the Site or the Services.
 
-### How Do We Use The Personal Information We Collect?
+  
+ _ **Third Party List Information.**_   We may also obtain both personal and non-personal information about you from third party data gathering sources.  We may match this third-party collected information with the personally identifying information that you provide to us.  When obtaining this information from third parties, we seek assurances from such third parties that they have the right to provide the information to us.
 
-As we mentioned above, we collect personal information only from our members. Becoming a ShopWiki member allows you to write and edit wiki buying and product guides and to personalise our Web site so that it is most useful to you. It also allows you to log into our site automatically each time you visit, rather than manually typing your user name and password at each visit. We may also use this information to periodically contact you with ShopWiki news or important information or to request your feedback on our site. In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. These might include opt-in newsletters and other materials that you proactively request.
+  
+ _ **Cookies, Web Beacons, and Other Information Collection Technology.**_   We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on the Site.  For example, we and our business partners may collect and store non-personally identifying information through technologies such as cookies, log files, clear gifs (also known as web beacons), and other tracking pixels and third parties to help determine user viewing preferences for advertising and other purposes.
 
-### Is The Personal Information We Collect Shared With Third Parties?
+    *  _Log Files._ Technical information from your browser is automatically collected when you visit the Site. This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
-ShopWiki does not sell or rent any personal information to any third party for marketing purposes. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing purposes. However, if we do so, that information will not be in a form that will allow any third party to personally identify any user.  
-ShopWiki may transfer the personal information it collects to its successors-in-interest, such as a company that acquires ShopWiki. ShopWiki may also disclose personal information about a user if it determines that an applicable law, regulation or legal process requires it, or if ShopWiki determines that it needs to share such information to protect or enforce ShopWiki's rights or the rights of another user.
 
-### What Else Should A User Know About Our Privacy Practices?
+    * _Cookies._ . A cookie is a piece of data stored on a user’s computer that tracks non-personal information about the user. When using the Site, we may assign your computer one or more cookies which enable us to improve the quality of the Site and Services and to personalize your experience. Cookies allow us to automatically collect information about your activity on the Site, such as the web pages you visit, the links or advertisements you click, or the other actions you take while using the Site. The cookies do not store any personally identifiable information about you. Most browsers automatically accept cookies, but you can usually modify your browser setting to disable cookies. If you choose to disable cookies, you will still be able to access the Site, but you may not be able to use all of the interactive features we offer. Additional information on cookies can be found at: <http://www.microsoft.com/info/cookies.htm>.
 
-#### Security
 
-We maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the personally identifiable information under our control however, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your information, please be advised that ShopWiki assumes no responsibility or liability for disclosure of your information (personal or otherwise) due to errors in transmission, unauthorised third-party access or other causes beyond ShopWiki's control.
+    * _Web Beacons._ We and our business partners, such as advertisers, may use standard Internet technology such as web beacons (or “clear gifs”) and other similar technologies, to gather aggregate, non-personally identifiable information about your use of the Site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. This allows us to gauge the effectiveness of our marketing efforts and the quality of the Site.
 
-#### ShopWiki's Service Providers
 
-ShopWiki works with reputable companies to provide services to our Web site and to our users. The information that each of these companies collect about users of our Web site is governed by its privacy policy, and is not within the control of ShopWiki. We encourage you to review the privacy policies of our service providers, to ensure that you are comfortable with their practices.
+    * _Information collected by third-parties._ We and our business partners, such as advertisers, may use tracking technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites. This information allows us and our business partners to deliver targeted advertisements and gauge their effectiveness. Please note that we do not have access to or control over third party cookies used on the Site, and this policy does not govern the use of cookies by third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-#### Links to Other Web Sites
 
-ShopWiki does not control the privacy policies of any Web site linked from our Web site. If you click on a link, the privacy policy of the Web site that you link to will govern the collection and use of your information by that Web site's operators. ShopWiki assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. We recommend that you become familiar with the privacy policy of every Web site that you visit.
 
-#### Disclosure of Information in Public Areas
+_**Sponsor or Link Websites.**_   Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used.  We use this information to improve the quality of the Site, to track advertising, and to personalize your online experience.  Please be aware, however, that we are not responsible for the privacy practices of other websites.
 
-If you voluntarily disclose personal information in a wiki contribution that is posted on our Web site, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. ShopWiki does not control the actions of users of our Web site. If you disclose personal information in a public area, you do so at your own risk.  In addition, we reserve the right to terminate the account of any ShopWiki member who uses our Web site in a manner inconsistent with the [Terms and Conditions](https://web.archive.org/wiki/Help%3ATerms+and+Conditions)
+  
+ _ **No Information From Children.**_   We will never knowingly collect any personal information about children under the age of 13.  If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database.  Because we do not collect such information, we have no such information to use or to disclose to third parties.  The Site targets an audience that is over the age of 18 and some content may not be appropriate for all ages.  We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.  We have designed our privacy policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”).
 
-#### Collection of Information From Minors
+#### Information Use and Sharing
 
-Our Web site is directed to and intended for use by adults only. We require that a user be eighteen years of age or older to become a ShopWiki member (and in doing so, to submit personal information). We do not knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, we will delete such information from our records.
+PLEASE NOTE THAT WE MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN OUR SOLE DISCRETION.  We may match any of the technical information we gather to any personally identifying information we have obtained through you or third parties to provide you offers and improve the content of the Site and Services for you.  Examples of some of the ways we use or share information that we collect about you includes:
 
-[Terms and Conditions](https://web.archive.org/wiki/Help%3ATerms+and+Conditions)
+  * provide you with products or services, including the display of customized content, advertising, and services;
+  * provide technical or customer support;
+  * perform research and analysis to gauge use of or interest in products, services, or content offered on our Site, and to develop new services;
+  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties;
+  * enforce our terms and conditions, or otherwise manage our business;
+  * perform functions as otherwise described to you at the time of collection.
+
+
+
+_**Communications From This Website.**_   Unless you have opted out of these features, we may use your information in a variety of ways to communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service.
+
+  
+ _ **Personal Information.**_   Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:
+
+    *  _Service providers:_ We may share your personal information, alone or in combination with non-personal information, with third party service providers in connection with your request the Services. These service providers may include credit bureaus, financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through the Site, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions, which may include using the information to contact you.
+
+
+    * _Business partners:_ When you express interest in promotions offered through the Site, we may share your personal information, alone or in combination with non-personal information, with the relevant business partners or affiliates to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular offer or program, you authorize us to provide your personal information address and other information to that business so that they may contact you.
+
+
+    * _Third parties for business reasons:_ In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. If a change in ownership occurs that will result in your personal information being used in a manner different from that stated in the then-existing privacy policy, notification will be provided consistent with the terms of this Privacy Policy.
+
+
+    * _Third parties for legal process:_ In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us in our sole discretion. In addition, we may disclose your information when we believe it is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce the Site terms of use or other agreements or policies.
+
+
+
+_**Special Notice to California Residents.**_ We will not share any personal information about you with other companies to the extent prohibited by California law or to the extent your prior consent to share is required by California law.  California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes.  To be valid, requests must be sent to us by email or letter using the contact information set forth at the end of this Privacy Policy.  Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties.
+
+  
+ _ **Aggregated and Non-Personal Information.**_ We may rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver targeted advertising, and to conduct general business analysis.  We may combine non-personal information we collect with additional non-personal information collected from other sources.  For example, we may tell our advertisers the number of visitors to the Site and the most popular features or Services accessed.
+
+  
+Please note that our Privacy Policy does not cover any third party’s use or handling of your information once it is shared.  Rather, the privacy policies of the various third parties will govern.  If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties.  These entities or their servers may be located either inside or outside the United States.
+
+  
+ _ **Links**_.  This Site contains links to other websites, including through advertisements.  We are not responsible for the privacy practices of third party linked websites, even if the Site frames the linked third party website.  We encourage you to be aware of when you leave the Site and to review the privacy statements of each and every website that you visit. This Privacy Policy applies solely to information we collect.
+
+#### Choice/Opt-Out
+
+We give our users the opportunity to “opt-out” of having their information used for purposes not directly related to the Site at the point where we ask for the information.  Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties.  If you choose to receive communications from us but later wish to discontinue receiving communications, you can opt-out by sending us an email or letter using the contact information set forth at the end of this Privacy Policy.
+
+  
+Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party.  To opt-out of communications from our third party business partners, please contact them directly.
+
+#### Updating Your Information
+
+If you have questions or want to update your personal information, please send us an email or letter using the contact information set forth at the end of this Privacy Policy.
+
+#### Information Retention & Security
+
+We store information that you submit, and that we collect about you, for no less than one year from the time of initial submission or collection.  However, if we collect your social security number or credit card number we will only store that information for a limited time unless extenuating circumstances or the law require otherwise.
+
+  
+We take appropriate security measures to protect our users’ information against unauthorized access, loss, alteration, or destruction.  These include internal reviews of our data collection, storage and processing practices and security measures, as well as digital encryption and physical security measures to guard against unauthorized access to systems where we store personal information.  We restrict access to personal information to employees, contractors, and agents who have a “need-to-know” that information in order to operate, develop or improve the Services, and who are bound by confidentiality requirements.  We want you to feel confident using the Site to transact business.  However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.
+
+#### Visitors Outside the United States
+
+ShopWiki.ca is located in the United States.  Please be aware that information that you provide to us or that we obtain as a result of your use of the Site or Services may be processed and transferred to the United States and may be subject to United States law. The privacy and data protection laws of the United States might be different than those in your country.  By visiting the Site or using the Services, you consent to the collection, transfer, storage and processing of your information to and in the United States.  By using the Site or Services, you further consent to the transfer of your information from our facilities to those third parties with whom we share it as described in this Privacy Policy.
+
+#### Privacy Policy Changes
+
+The Site enables users to post information about themselves, comments, reviews, pictures, videos and other user-created content. Please remember that any information that you post on the Site becomes public information and exercise caution when deciding to disclose your contact, financial, or other information in a submission. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy and safety.
+
+#### General Contact: 
+
+ShopWiki.com  
+Attn:  Privacy  
+17 West 18th Street, 8th Floor  
+New York, NY 10011  
+privacy@ShopWiki.com
+
+[Terms of Use](https://web.archive.org/wiki/Help%3ATerms-and-Conditions)
