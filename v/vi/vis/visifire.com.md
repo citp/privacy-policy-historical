@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visifire.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219141405id_/http%3A//www.visifire.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visifire.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623014136id_/http%3A//www.visifire.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Silverlight charting component
 
@@ -54,4 +54,4 @@ Our web site utilizes industry standard security technology to protect the secur
 
 Visifire may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted.
 
-You may contact us with your comments on Visifire's privacy policy at: [ info@visifire.com](mailto:info@visifire.com?subject=Visifire%20Privacy%20Policy).
+You may contact us with your comments on Visifire's privacy policy at: [ support@visifire.com](mailto:support@visifire.com?subject=Visifire%20Privacy%20Policy).
