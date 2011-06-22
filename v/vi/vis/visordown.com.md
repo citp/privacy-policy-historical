@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221235610id_/http%3A//www.visordown.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623005713id_/http%3A//www.visordown.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Visordown - Privacy Policy
 
@@ -34,6 +34,4 @@ You should be aware that if we are requested by the police or any regulatory or 
 
 In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.  
   
-[](http://www.visordown.com/motorcycle-news--general-news/join-us-on-facebook-and-win-free-stuff/14443.html)
-
 In-depth reviews of all types of bikes
