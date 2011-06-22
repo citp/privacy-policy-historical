@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplpower.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219134025id_/http%3A//iplpower.com/ipl/index%3Fpage%3DIPLGeneral%26Menu%3D01000000%26DocID%3D0203919e8329011335a0d061007d56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplpower.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622051614id_/http%3A//iplpower.com/ipl/index%3Fpage%3DIPLGeneral%26Menu%3D01000000%26DocID%3D0203919e8329011335a0d061007d56) for the most accurate reproduction.*
 
 # Indianapolis Power & Light Co.
 
@@ -40,5 +40,5 @@ You should be careful and responsible when you are online and maintain the secre
 **Updating Your Contact Information  
 ** IPL customers can update their contact information by calling us at (317) 261-8222 or sending an e-mail message to [CustomerServices@aes.com](mailto:CustomerServices@aes.com).  You must include your IPL account number to change information.
 
-For more detailed contact information, click [here](https://web.archive.org/web/20101219134025id_/http%3A//iplpower.com/ipl/index?page=IPLGeneral&Menu=07000000&DocID=0205016c163f01078f72b731006fba).  
+For more detailed contact information, click [here](https://web.archive.org/web/20110622051614id_/http%3A//iplpower.com/ipl/index?page=IPLGeneral&Menu=07000000&DocID=0205016c163f01078f72b731006fba).  
 
