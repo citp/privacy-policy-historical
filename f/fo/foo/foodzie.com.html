@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foodzie.com privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217210016id_/http%3A//foodzie.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodzie.com privacy policy that was archived on 2011-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622053548id_/http%3A//foodzie.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title> Privacy Policy </title>
@@ -32,6 +32,7 @@ KT=new Object();KT.action=function(x){return true;};KT.hypothesis=function(x,ar)
 <link rel="stylesheet" type="text/css" href="http://assets.foodzie.com/skin/frontend/foodzie/default/css/styles.css" media="all">
 <script type="text/javascript" src="http://assets.foodzie.com/skin/frontend/foodzie/default/js/cufon-yui.js"></script>
 <script type="text/javascript" src="http://assets.foodzie.com/skin/frontend/foodzie/default/js/Gotham_Narrow_Bold_400.font.js"></script>
+<script type="text/javascript" src="http://assets.foodzie.com/skin/frontend/foodzie/default/js/foodzie.js"></script>
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://foodzie.com/js/index.php?c=auto&amp;f=,lib/ds-sleight.js,varien/iehover-fix.js" ></script>
 <![endif]-->
@@ -58,30 +59,10 @@ jQuery(document).ready(function($) {
         if (a.hasClass('closed')) {
             content.css({display:'none'});
         }
-        a.click(function(e) {
-            e.preventDefault();
-            if (a.hasClass('closed')) { content.slideDown(100); a.removeClass('closed'); }
-            else { content.slideUp(100); a.addClass('closed'); }
-        });
     });
 });
 </script>
 <!-- INTRAHEAD #-->
-<!-- Control -->
-
-<!-- Google Website Optimizer Control Script -->
-<script>
-function utmx_section(){}function utmx(){}
-(function(){var k='3788603508',d=document,l=d.location,c=d.cookie;function f(n){
-if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return escape(c.substring(i+n.
-length+1,j<0?c.length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
-d.write('<sc'+'ript src="'+
-'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
-+'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
-+new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=3788603508&amp;utmx=&amp;utmxx=&amp;utmxtime=1580389692076" type="text/javascript" charset="utf-8"></script>
-<!-- End of Google Website Optimizer Control Script -->
 
 <script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 <body class=" cms-page-view cms-privacy-policy company-page">
@@ -118,67 +99,28 @@ d.write('<sc'+'ript src="'+
                 </h2>
 
                 <div class="logo-sidenote">
-<p><a href="/subscription">
-We have a new Tasting Box! Grab your spot for December.
-</a>
+<p>
+<a href="/blog/2011/06/were-hiring-be-our-head-storyteller/">We're Hiring! Be our Head Storyteller.</a>
 </p>
 </div>
-                <ul class="super-links" style="display:none" id="customer_super_links">
-    <li class="first">
-        <strong id="customer_welcome_message"></strong>
-    </li>
-    <li id="customer_account_link" style="display:none"><a href="https://foodzie.com/customer/account/">Your Account</a></li>
-    <!-- <li><a href="http://foodzie.com/sales/order/history/">Order History</a></li> -->
-    <li><a href="http://foodzie.com/faq/">Help</a></li>
-    <li class="last">
-        <a id="customer_logout_link" style="display:none" href="https://foodzie.com/customer/account/logout/">Logout</a>
-        <a id="customer_login_link" style="display:none" href="https://foodzie.com/customer/account/login/referer/aHR0cDovL2Zvb2R6aWUuY29tL2Ntcy9wYWdlL3ZpZXcvcGFnZV9pZC8xNC8,/">LogIn</a>
-    </li>
-</ul>
+                <ul class="super-links" style="" id="customer_super_links">
+            <li class="first">
+            <a href="https://foodzie.com/customer/account/login/referer/aHR0cDovL2Zvb2R6aWUuY29tL2Ntcy9wYWdlL3ZpZXcvcGFnZV9pZC8xNC8,/">Log In</a>
+        </li>
+        <li>
+            <a href="https://foodzie.com/customer/account/create/">Sign Up</a>       
+        </li>
+        <li class="last">
+            <a href="http://foodzie.com/newsletter_signup/" onclick="showNewsletterModal(); return false;">Join Mailing List</a>
+        </li>
+    </ul>
 <div class="block-cart">
-    <a id="current_cart_items_count" href="https://foodzie.com/checkout/cart/" class="count">&nbsp;</a>
+    <a id="current_cart_items_count" href="https://foodzie.com/checkout/cart/" class="count">
+        0    </a>
     <h3><a href="https://foodzie.com/checkout/cart/">View Cart</a></h3>
     <a href="http://foodzie.com/checkout/" class="link-checkout">Checkout</a>
 </div>
 
-<script type="text/javascript">
-  function loadCartStatus()
-  {
-	var request = new Ajax.Request('http://foodzie.com/cartstatus/load/',{
-            onSuccess: function(transport)
-            {
-                data = transport.responseText.evalJSON();
-                if(data.status == 'success')
-                {
-                    $('current_cart_items_count').innerHTML = data.cart_products_count;
-                    $('customer_welcome_message').innerHTML = data.welcome;
-                    if(data.customer_logged_in)
-                    {
-                      $('customer_account_link').show();
-                      $('customer_logout_link').show();
-                    }
-                    else
-                    {
-                      $('customer_login_link').show();
-                    }
-                    $('customer_super_links').show();
-                }
-                else{
-			//TODO: add spacer.gif for tracking the error.
-		}
-            },
-            onFailure: function(error)
-            {
-                //TODO: add spacer.gif for tracking the error.
-            }
-        })
-  }
-  Event.observe(window, 'load',
-      function() { 
-        loadCartStatus();
-      }
-    );
-</script>
             </div>
             <!-- ends .header-row1 -->
             <div class="header-row2">
@@ -191,7 +133,7 @@ We have a new Tasting Box! Grab your spot for December.
 <span class="shop-by">Shop by:</span>
 <ul class="site-nav">
 	<li id="nav-category" class="store-nav-toggle-wrapper"><a href="javascript:void(0);" class="store-nav-toggle">Category</a></li>
-	<li id="nav-holiday"><a href="http://foodzie.com/food-gift-baskets/">Holiday</a></li>
+	<li id="nav-gift"><a href="http://foodzie.com/food-gift-baskets/">Occasions</a></li>
 	<li id="nav-region"><a href="http://foodzie.com/map/">Region</a></li>
 	<li id="nav-brand"><a href="http://foodzie.com/producers/">Brand</a></li>
 </ul>                
@@ -288,6 +230,7 @@ We have a new Tasting Box! Grab your spot for December.
                     <a href="http://foodzie.com/cheese-dairy.html"><img src="http://assets.foodzie.com/media/catalog/category/cheese.png" alt="Cheese &amp; Dairy" class="category-icon"></a>
                     <h4><a href="http://foodzie.com/cheese-dairy.html">Cheese &amp; Dairy</a></h4>
                                             <a href="http://foodzie.com/cheese-dairy/artisan-cheese.html">Cheese</a>,
+                                            <a href="http://foodzie.com/cheese-dairy/butter.html">Butter</a>,
                                         <a href="http://foodzie.com/cheese-dairy.html">more</a>
                 </td>
                                                                 <td>
@@ -508,10 +451,10 @@ jQuery(document).ready(function($) {
                 <div class="col block-blog-list">
                     <h4>Recent <a href="http://foodzie.com/blog/">Blog</a> Posts</h4>
                     <ul class="disc">
-                        <li><a href="http://foodzie.com/blog/happy-goat-delishmas">Candy Dish Love</a></li>
-                        <li><a href="http://foodzie.com/blog/innajam-delishmas">INNAjam? We'll Help You Out...</a></li>
-                        <li><a href="http://foodzie.com/blog/la-cocina-delishmas">Go Local, Be Happy</a></li>
-                        <li><a href="http://foodzie.com/blog/orens-kitchen-delishmas">Go Nuts</a></li>
+                        <li><a href="http://foodzie.com/blog/weeknight-roast-chicken-potatoes-may-tasting-panel-winner">Weeknight Roast Chicken &amp; Potatoes -  May Tasting Panel Winner</a></li>
+                        <li><a href="http://foodzie.com/blog/how-to-make-mothers-day-brunch">DIY: Mother's Day Brunch</a></li>
+                        <li><a href="http://foodzie.com/blog/horseradish-dill-mustard-winning-recipe">Horseradish Dill Mustard - Winning Recipe!</a></li>
+                        <li><a href="http://foodzie.com/blog/how-to-make-your-own-petit-fours">How to Make Your Own Petit Fours</a></li>
                     </ul>
                 </div>
                 <div class="col block-join-foodzie">
@@ -547,7 +490,7 @@ jQuery(document).ready(function($) {
     var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
 //]]>
 </script>
-                <p>© 2010 <strong>Foodzie, Inc.</strong></p><strong>
+                <p>© 2011 <strong>Foodzie, Inc.</strong></p><strong>
                 <ul class="policies">
 					<li><a href="http://foodzie.com/sell_with_us/">Sell</a></li>
 					<li><a href="http://foodzie.com/blog/">Blog</a></li>
@@ -562,13 +505,10 @@ jQuery(document).ready(function($) {
         </strong></div><strong>
         <!-- ends .footer -->
         
-        
-<script>utmx_section("newsletter-signup")</script>
-
-<div id="newsletterModalContent">
+        <div id="newsletterModalContent">
 	<p class="modal-close-button"><a href="#" id="simplemodal-close">Close this window</a></p>
-	<h2>Subscribe to the Foodzie newsletter!</h2>
-	<p>Join our weekly email newsletter for food discoveries, deals, and food craft tips!</p>
+	<h2>We Deliver Good Food to Your Inbox!!</h2>
+	<p>Oprah thinks we've got some of the best food on the web. Our newsletter<br>delivers these discoveries plus deals and producer stories once a week into your inbox.</p>
     
     <form action="http://foodzie.com/newslettersignup/subscriber/new/" method="post" id="newsletter-validate-detail-overlay">
     <label for="newsletter">Sign up:</label>
@@ -577,52 +517,64 @@ jQuery(document).ready(function($) {
     </div>
     <input type="image" src="http://assets.foodzie.com/skin/frontend/foodzie/default/images/btn_go.png" alt="Go">
     </form>
-
 </div>
+
+<script type="text/javascript">
+    function showNewsletterModal(){
+        jQuery('#newsletterModalContent').modal({
+			opacity:70,
+			overlayCss: {backgroundColor:"#666"},
+			overlayClose:true,
+			onOpen: function (dialog) {
+				dialog.overlay.fadeIn('slow', function () {
+					dialog.data.hide();
+					dialog.container.fadeIn('slow');
+					dialog.data.fadeIn('slow');
+				});
+			},
+			onClose: function (dialog) {
+				jQuery.cookie('foodzie-newsletter-modal', 'noshow', { expires: 365, domain: 'foodzie.com' });
+				jQuery.modal.close();
+			}
+		});
+    }
+</script>
+        
+    </strong></div><strong>
+    <!-- ends .wrapper -->
+
+
+<!--
+<script>utmx_section("newsletter-signup")</script>
+-->
 
 <script type="text/javascript">
 //<![CDATA[
     var newsletterSubscriberFormDetailOverlay = new VarienForm('newsletter-validate-detail-overlay');
 //]]>
 </script>
-
-
-<script type="text/javascript">
-	jQuery(document).ready(function($j) {
-		
+<!--[if ((IE 6)|(IE 7))]>
+<script>
+        jQuery(document).ready(function($j) {
+		$j.cookie('foodzie-newsletter-modal', 'noshow', { expires: 365, domain: 'foodzie.com' });
+	})
+</script>
+<![endif]-->
+<script>
+	jQuery(document).ready(function($j) {		
 		if($j.cookie('foodzie-newsletter-modal') != 'noshow') {	
 			setTimeout(function() {	
-				$j('#newsletterModalContent').modal({
-					opacity:70,
-					overlayCss: {backgroundColor:"#666"},
-					overlayClose:true,
-					onOpen: function (dialog) {
-						dialog.overlay.fadeIn('slow', function () {
-							dialog.data.hide();
-							dialog.container.fadeIn('slow');
-							dialog.data.fadeIn('slow');
-						});
-					},
-					onClose: function (dialog) {
-						$j.cookie('foodzie-newsletter-modal', 'noshow', { expires: 365, domain: 'foodzie.com' });
-						$j.modal.close();
-					}
-				});
+				showNewsletterModal();
 			}, 3000);
 		}
-        	
 		$j('#simplemodal-close').click(function() {
-						$j.modal.close();
-			
+            $j.modal.close();
 		});
 	});
 </script>
-
-
-
-        
-    </strong></div><strong>
-    <!-- ends .wrapper -->
+<!--
+</noscript>
+-->
 
 <script type="text/javascript">
 $$('.input-reset').each(function(el) {
@@ -679,7 +631,7 @@ if (  Math.floor(Math.random()*101) == 0
   _gaq.push(["_setDomainName", ".foodzie.com"]);
   _gaq.push(["_setAllowLinker", true]);
   _gaq.push(["_setAllowHash", false]);
-  _gaq.push(["_trackPageview", "/privacy_policy"]);
+  _gaq.push(["_trackPageview", "/privacy_policy/"]);
 
   (function() {
     var ga = document.createElement("script");
@@ -695,14 +647,7 @@ if (  Math.floor(Math.random()*101) == 0
 
 
 <!-- POSTHTML -->
-<!-- Tracking -->
-<!-- Google Website Optimizer Tracking Script -->
-<script type="text/javascript">
-try {
-var gwoTracker=_gat._getTracker("UA-17582674-1");
-gwoTracker._trackPageview("/3788603508/test");
-}catch(err){}</script>
-<!-- End of Google Website Optimizer Tracking Script -->
+
 
 
 
