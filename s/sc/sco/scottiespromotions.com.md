@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scottiespromotions.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625131452id_/http%3A//www.scottiesfacial.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottiespromotions.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623000419id_/http%3A//scottiesfacial.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D74) for the most accurate reproduction.*
 
 # Scotties Facial Tissue
 
-### **Privacy Policy For Irving Tissue, Inc. Web Site**
+### **Privacy Policy For Irving Tissue, Inc. Website**
 
  **Last Updated on (November 18, 2002)**
 
@@ -44,7 +44,7 @@ We do, however, permit minor children to communicate with us by e-mail.
 
  **Deletion of Personally Identifiable Information**
 
-Individuals who provide their personally identifiable information to Irving Tissue can make a written request for deletion of such information from our database at any time by sending a letter to Irving Tissue, Inc., International Plaza 2, Suite 405, Philadelphia, PA, USA, 19113.
+Individuals who provide their personally identifiable information to Irving Tissue can make a written request for deletion of such information from our database at any time by sending a letter to Irving Tissue, Inc., 25 Burlington Mall Road, Burlington, MA, USA, 01803.
 
  **Cookies**  
 
