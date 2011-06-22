@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the airfleets.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621000635id_/http%3A//airfleets.net/divers/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfleets.net privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622233242id_/http%3A//www.airfleets.net/divers/privacy.htm) for the most accurate reproduction.*
 
-# Airfleets
+# Airfleets aviation
 
-Other than what kind of computer you have, and which browser you\'re using, we know practically nothing about you. We have no way of knowing any vital information about you -- not even your name.  
+Other than what kind of computer you have, and which browser you're using, we know practically nothing about you. We have no way of knowing any vital information about you -- not even your name.  
 Some ad networks may display ads targeted to your interests, follow your navigation. 
 
-Airfleets uses cookies to track user activity on the Web site and to save parameters as the language. This is only used to generate site usage reports, to ensure you the best visit, and for no other purpose. Cookies can\'t do anything malicious, and they cannot send us any personal information about you. 
+Airfleets uses cookies to track user activity on the Web site and to save parameters as the language. This is only used to generate site usage reports, to ensure you the best visit, and for no other purpose. Cookies can't do anything malicious, and they cannot send us any personal information about you. 
 
 We do not distribute information about your site usage to any third party. It is simply for internal use. 
 
