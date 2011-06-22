@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfchm.net privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221023727id_/http%3A//my.pdfchm.net/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfchm.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623012432id_/http%3A//my.pdfchm.net/account/privacy) for the most accurate reproduction.*
 
 # Learn IT - Privacy Policy
 
