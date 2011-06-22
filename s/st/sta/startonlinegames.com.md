@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startonlinegames.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204075016id_/http%3A//www.startonlinegames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startonlinegames.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622121240id_/http%3A//www.startonlinegames.com/privacy.php) for the most accurate reproduction.*
 
 # StartOnlinGames.com
 
@@ -6,7 +6,7 @@ StartOnlineGames.com Terms of Use
 
 ### Personal Information
 
-StartOnlineGames.com is committed to protecting your privacy online. StartOnlineGames.com does not collect any personal information. 
+StartOnlineGames.com is committed to protecting your privacy online. StartOnlineGames.com does not collect any personal information.
 
 ### IP address and logging
 
@@ -26,4 +26,4 @@ It is StartOnlineGames.com's policy to respond quickly to claims of intellectual
 
 ### External Links
 
-StartOnlineGames.com site contains links to other sites. StartOnlineGames.com is not responsible for the privacy practices or the content of such Web sites. 
+StartOnlineGames.com site contains links to other sites. StartOnlineGames.com is not responsible for the privacy practices or the content of such Web sites.
