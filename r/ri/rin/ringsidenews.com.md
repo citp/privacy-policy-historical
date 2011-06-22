@@ -1,55 +1,54 @@
-> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623011507id_/http%3A//www.ringsidenews.com/policy) for the most accurate reproduction.*
 
-# Wrestling News and Information - Ringsidenews.com
+# Privacy Policy » Wrestling News & Rumors - WWE News, TNA News
 
-|   
----  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/upcoming.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/results.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/schools.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/sims.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/wrestlingstyles.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/movie.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/shows.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/matches.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/deceased.shtml)  
-[](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/moves.shtml)  
-  
-[Sign up for the RSN Newsletter](http://www.s105465004.onlinehome.us/tinc?key=SkAUfjec&RegistrationFormID=10084)
+RingsideNews.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
-[Send RSN your comments, suggestions or wrestling news.](http://s105465004.onlinehome.us/tinc?key=H3U1s9RR)
+This Privacy Policy covers RingsideNews.com’s treatment of personal information that RingsideNews.com gathers when you are on the RingsideNews.com website and when you use RingsideNews.com services. This policy does not apply to the practices of third parties that RingsideNews.com does not own or control, or to individuals that RingsideNews.com does not employ or manage. 
 
-[Add a RSN Banner on your website](https://web.archive.org/web/20051228150633id_/http%3A//www.ringsidenews.com/TInSearchOfHTML/HTML/blank/banners.shtml)  
-  
-[](http://www.1and1.com/?k_id=7437731)
+Information Collected by RingsideNews.com 
 
-**Privacy Policy**
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our 
 
-To view our legal information, click [here](https://web.archive.org/legal.shtml). 
+RingsideNews.com users: 
 
-RingsideNews.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: RingsideNews.com 
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
 
-  * **Information Automatically Logged**  
-We use your IP address to help diagnose problems with our server and to administer our Web site. This information is not viewed or used in any way unless we are experiencing problems in which we must run tests to diagnose those problems. 
-  * **Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-  * **Contests**  
-We run contests on our site in which we ask visitors for contact information (like email address). Contact information from the contests is used to get in touch with the visitor when necessary and not used for any purpose besides that. 
-  * **External Links**  
-This site contains links to other sites. RingsideNews.com is not responsible for the privacy practices or the content of such Web sites. 
-  * **Data Quality/Access**  
-This site gives users the following options for changing and modifying information previously provided: 
+2\. Automatic Information: 
 
-You can send email to steven@ringsidenews.com   
+We receive and store certain types of information whenever you interact with us. RingsideNews.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, RingsideNews.com cookie information, and the page you requested. RingsideNews.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. 
 
+RingsideNews.com may collect and, on any page, display the total counts that page has been viewed. 
 
-  * **C** **ontacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Steven David](mailto:steven@stevendavid.com)
+Many companies offer programs that help you to visit websites anonymously. While RingsideNews.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
+E-mail Communications   
+RingsideNews.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. RingsideNews.com may send out e-mails with RingsideNews.com-related news, products, offers, surveys or promotions. 
 
-|  |    
----  
-  
-* * *
+Cookies   
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. RingsideNews.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
 
-[](http://servedby.advertising.com/click/site=712730/mnum=309507)
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of RingsideNews.com’s coolest features.   
+RingsideNews.com’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
+
+Sharing Your Information   
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.   
+RingsideNews.com Personnel: RingsideNews.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of RingsideNews.com business.   
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if RingsideNews.com, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
+
+Protection of RingsideNews.com and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of RingsideNews.com, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+
+Syndication: RingsideNews.com allows for the RSS syndication of all of its public content within the RingsideNews.com website.   
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
+
+Children Under 18 Years of Age   
+You must be 13 years and older to register to use the RingsideNews.com website. As a result, RingsideNews.com does not specifically collect information about children. If we learn that RingsideNews.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using RingsideNews.com or sending information about themselves or anyone else over the Internet. 
+
+Changes to this Privacy Policy   
+RingsideNews.com may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the RingsideNews.com website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
+
+Conditions of Use   
+If you decide to visit RingsideNews.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
+
+Effective Date of this Privacy Policy   
+This Privacy Policy is effective as of 7/29/2010 and last updated 2/18/2011. 
