@@ -1,19 +1,26 @@
-> *The following text is extracted and transformed from the theinternetmarketingresourceguide.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129204825id_/http%3A//theinternetmarketingresourceguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternetmarketingresourceguide.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622162729id_/http%3A//theinternetmarketingresourceguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Internet Marketing Directory » Privacy Policy
+# Privacy Policy
 
-## Privacy Policy
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-To help you make decisions about the information you provide anywhere on this site, this notice has been provided to outline our practices. 
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-You should know that we respect your privacy, and that we will never sell your email address to anyone for any purpose. Your email stays confidential and associated with this site.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Also, we hate spam as much as you do, so the only email you will ever receive from us will have been approved for distribution.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, TheInternetMarketingResourceGuide.com has no access or control over these cookies that may be used by third party advertisers.
 
-We use secure hosting accounts and other security measures to protect our database and any information provided.
+**Collection of Personal Information**  
+When visiting TheInternetMarketingResourceGuide.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Any e-mail you receive from this site will contain the option to unsubscribe at the end of the e-mail and you can unsubscribe at any time.
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-When you order a product offered on this site, the information you provide will only be provided to outside parties if it is necessary to complete and deliver the the product you ordered. Your information will never be shared or disclosed to other parties for any other reason.
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
 
-Non-identifying information may be used to improve the site or shared with advertisers. For instance, information that is collected regarding traffic to the site or specific pages may be shared, but it will never include any identifying information.
+If you have any questions regarding the privacy policy of TheInternetMarketingResourceGuide.com then you may [contact us](http://theinternetmarketingresourceguide.com/privacy-policy/)
+
+Last updated Tue, 21 Dec 2010 22:19
