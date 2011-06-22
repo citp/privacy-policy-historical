@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hematologylibrary.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218093136id_/http%3A//www.hematology.org/About-ASH/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hematologylibrary.org privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622035413id_/http%3A//www.hematology.org/About-ASH/Privacy.aspx) for the most accurate reproduction.*
 
 # ASH Web Site Privacy Policy
 
