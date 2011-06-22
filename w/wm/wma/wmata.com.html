@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wmata.com privacy policy that was archived on 2010-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218073015id_/http%3A//www.wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wmata.com privacy policy that was archived on 2011-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622183149id_/http%3A//www.wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en" lang="en"><head>
 	<title>Metro - About Metro - Privacy and Data Use Policy</title>
@@ -7,19 +7,18 @@
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	<meta name="description" content="Washington Metropolitan Area Transit Authority: About Metro">
 
-	<link rel="stylesheet" href="/css/main.css" type="text/css">
+	<link rel="stylesheet" href="/css/main_new.css" type="text/css">
 	<link rel="stylesheet" href="/css/superfish.css" type="text/css">
 	<link rel="stylesheet" href="/css/superfishv.css" type="text/css">
 	<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
 	<link rel="stylesheet" href="/css/print_map.css" type="text/css" media="print">
 
-	
-     <script type="text/javascript" src="/js/jquery.js"></script>
-	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>	
 	<script type="text/javascript" src="/js/main.js"></script></head><body><div id="dropmenudiv" style="visibility:hidden;width:125px;background-color:white" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
 	<script type="text/javascript" src="/js/superfish.js"></script>
 	<script type="text/javascript" src="/js/date.js"></script>
 	<script type="text/javascript" src="/js/jquery.datePicker.js"></script>
+    <script type="text/javascript" src="/js/mptoggle.js"></script>
 
 <script type="text/javascript">
 	$(document).ready(function() {
@@ -65,22 +64,43 @@ window.attachEvent("onload", correctPNG);
 
 
 
+<style type="text/css">
+<!--
+#motionPoint {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1000;
+	left: 450px;
+	
+		top: 6px;
+	
+}
+-->
+</style>
+
+
+
 	<div id="container-outer">
 
     	<div id="container">
 			
 			<div id="header">
-				<div id="headerlogo"><a href="/"><img src="/img/header-metro-logo.png" alt="WMATA" border="0"></a></div>
-				<div class="headstyle1">
-                    <div class="headstyle-left"></div>
+				<div id="headerlogo_NEW"><a href="/"><img src="/img/header-metro-logo_new.png" alt="WMATA" border="0"></a></div>
+				<div class="headstyle1_new">
+                    <div class="headstyle-left">
+ 
+            
+                    </div>
                     <div class="headstyle-right">
                         <form action="http://search.wmata.com/search" method="get">
                             <input type="hidden" name="site" value="default_collection">
                             <input type="hidden" name="client" value="default_frontend">
                             <input type="hidden" name="proxystylesheet" value="default_frontend">
                             <input type="hidden" name="output" value="xml_no_dtd">
-                            <label for="searchbox"><span class="skip">Search</span><input type="text" name="q" value="" id="searchbox" alt="magnifier"></label>
-                            <input type="image" src="/img/header-metro-search-button.png" id="searchbutton" alt="Search">
+  <label for="searchbox"><span class="skip">Search</span><input type="text" name="q" value="" id="searchbox" alt="search" title="search" style="background-image:url(/img/header-search2.gif?);"></label>
+            
+             &nbsp;<input type="image" src="/img/button_go2.gif" alt="Go">
                         </form>
                     </div>
 				</div>
@@ -93,13 +113,13 @@ window.attachEvent("onload", correctPNG);
                 <div class="headstyle2">
 					
 
-<ul class="header-nav superfish">
+<ul class="header-nav">
 	<li class="top">
 		<a href="/index.cfm" class="fixTopNav"><img src="/img/hb-home-off.gif" alt=""><span>Home--</span></a>	</li>
 
 	<li class="top multi">
 		<a href="/rail/" class="fixTopNav"><img src="/img/hb-rail-off.gif" alt=""><span>Rail</span></a>
-		<ul style="display: none; visibility: hidden;">
+		<ul>
 			<li><a href="/rail/maps/map.cfm">Maps</a></li>
 			<li><a href="/rail/stations.cfm">Stations</a></li>
 			<li><a href="/rail/schedules.cfm">Schedules</a></li>
@@ -111,18 +131,18 @@ window.attachEvent("onload", correctPNG);
 	
 	<li class="top multi">
 		<a href="/bus/" class="fixTopNav"><img src="/img/hb-bus-off.gif" alt=""><span>Bus</span></a>
-		<ul style="display: none; visibility: hidden;">
+		<ul>
 			<li><a href="/bus/maps/">Maps</a></li>
 			<li><a href="/bus/timetables/">Timetables</a></li>
 			<li><a href="/bus/route_changes.cfm">Route Changes</a></li>
-			<li><a href="/bus/metrobus_detours_new.cfm">Short-Term Detours</a></li>
-			<li><a href="/bus/transfers.cfm">Transfers</a></li>
+			<li><a href="/bus/metrobus_detours_new.cfm">Detours</a></li>
+		  <li><a href="/bus/transfers.cfm">Transfers</a></li>
 		</ul>
 	</li>
 
 	<li class="top multi">
 		<a href="/accessibility/" class="fixTopNav"><img src="/img/hb-access-off.gif" alt=""><span>Accessibility</span></a>
-		<ul style="display: none; visibility: hidden;">
+		<ul>
 			<li><a href="/accessibility/metrorail.cfm">Metrorail</a></li>
 			<li><a href="/accessibility/metrobus.cfm">Metrobus</a></li>
 			<li><a href="/accessibility/advocacy_policy/metro_accessible.cfm">Learn How to Use Metro</a></li>
@@ -136,7 +156,7 @@ window.attachEvent("onload", correctPNG);
 	
 	<li class="top multi">
 		<a href="/getting_around/" class="fixTopNav"><img src="/img/hb-ga-off.gif" alt=""><span>Getting Around</span></a>
-		<ul style="display: none; visibility: hidden;">
+		<ul>
 			<li><a href="/getting_around/new_metro/">Getting to Metro</a></li>											            
 			<li><a href="/getting_around/visitor_info/">Visitor Information</a></li>
             <li><a href="/getting_around/language_assistance.cfm">Language Assistance</a></li>
@@ -153,7 +173,7 @@ window.attachEvent("onload", correctPNG);
 
 	<li class="top multi">
 		<a href="/fares/" class="fixTopNav"><img src="/img/hb-fares-off.gif" alt=""><span>Fares</span></a>
-		<ul style="display: none; visibility: hidden;">
+		<ul>
 			<li><a href="/fares/metrorail.cfm">Metrorail</a></li>
 			<li><a href="/fares/metrobus.cfm">Metrobus</a></li>
 			<li><a href="/fares/smartrip/">SmarTrip®</a></li>
@@ -164,10 +184,10 @@ window.attachEvent("onload", correctPNG);
 
 	<li class="top multi">
 		<a href="/rider_tools/" class="fixTopNav"><img src="/img/hb-ridertools-off.gif" alt=""><span>Rider Tools</span></a>
-		<ul style="display: none; visibility: hidden;">
+		<ul>
 			<li><a href="/rider_tools/tripplanner/tripplanner_form_solo.cfm">Trip Planner</a></li>
 			<li><a href="/rider_tools/metro_service_status/rail_bus.cfm?nocache">Bus &amp; Rail Service Status</a></li>
-			<li><a href="https://www.smartrip.com/mst/portal.login">ELLEN</a></li>
+			<li><a href="https://elstat.wmata.com">ELstat</a></li>
 			<li><a href="/rider_tools/metro_service_status/elevator_escalator.cfm">Elevator/Escalator Status</a></li>		
 			<li><a href="/rider_tools/pids/real_time_arrivals.cfm">Next Train Arrivals</a></li>
             <li><a href="/rider_tools/nextbus/arrivals.cfm">Next Bus Arrivals</a></li>
@@ -181,7 +201,7 @@ window.attachEvent("onload", correctPNG);
 
 	<li class="top">
 		<a href="/about_metro/" class="fixTopNav"><img src="/img/hb-about-on.gif" alt=""><span>About Metro</span></a>
-		<ul style="display: none; visibility: hidden;">			
+		<ul>			
 			<li><a href="/about_metro/board_of_directors/">Board of Directors</a></li>
 			<li><a href="/about_metro/general_manager/">General Manager</a></li>
 			
@@ -226,10 +246,13 @@ window.attachEvent("onload", correctPNG);
 		</ul>
 	</li>	
 	<li class="top multi" id="leftMenu_general_manager"><a href="/about_metro/general_manager/"><span>General Manager</span></a>
-    	<ul><li><a href="/about_metro/general_manager/former_gm.cfm">Former General Managers</a></li>
+    	<ul>
+        <li><a href="media.cfm?">In the Media</a></li>
+        <li><a href="/about_metro/general_manager/former_gm.cfm">Former General Managers</a></li>
         <li><a href="/about_metro/org_chart.cfm">Organization Chart</a></li>
+        
 		</ul>
-  </li>
+</li>
 	
 	<li class="top" id="leftMenu_mission"><a href="/about_metro/mission.cfm"><span>Mission</span></a></li>
 	<li class="top" id="leftMenu_scorecard"><a href="/about_metro/scorecard/index.cfm?"><span>Scorecard</span></a></li>
@@ -240,7 +263,8 @@ window.attachEvent("onload", correctPNG);
             <li><a href="/about_metro/inspector_general/index.cfm#hotline">Hotline</a></li>
             <li><a href="/about_metro/inspector_general/semi_annual_reports.cfm">Semiannual Reports</a></li>
 		    <li><a href="/about_metro/inspector_general/other_oig_reports.cfm">Other OIG Reports</a></li>
-		</ul>
+            <li><a href="/about_metro/inspector_general/peer_review.cfm">Peer Reviews</a>
+		</li></ul>
   </li>	
 	<li class="top multi" id="leftMenu_police"><a href="/about_metro/transit_police/"><span>Transit Police</span></a>
         <ul>
@@ -273,7 +297,7 @@ window.attachEvent("onload", correctPNG);
 	<li class="top multi" id="leftMenu_media"><a href="/about_metro/media_relations/"><span>Media Relations</span></a>
 		<ul>
 			<li><a href="/about_metro/media_relations/press_room_staff.cfm">Staff</a></li>
-			<li><a href="/about_metro/media_relations/guidelines.cfm">Guidelines</a></li>
+			<li><a href="/about_metro/media_relations/guidelines.cfm">Media Guide &amp; Guidelines</a></li>
 			<li><a href="/about_metro/media_relations/filming_details.cfm">Filming Requests</a></li>
 			<li><a href="/about_metro/media_relations/glossary.cfm">Glossary &amp; Acronyms</a></li>
 			
@@ -328,10 +352,11 @@ window.attachEvent("onload", correctPNG);
 						<div class="ad_store_top">
 							<div class="ad_store_mid">
 									
-	<a href="/tile_rotator/redirect.cfm?BanID=56&amp;target=/fares/smartrip/                                                                                                        "><img src="/tiles2/makeover.jpg" border="0" alt="SmartBenefits Makeover video ad                   "></a>
+	<a href="/tile_rotator/redirect.cfm?BanID=8&amp;target=/bus/b30_brochure.cfm                                                                                                   "><img src="/tiles2/b30.jpg" border="0" alt="B30 bus to BWI ad                                 "></a>
 	
 	
-	
+    
+    
 							</div>
 							<div class="ad_store_bottom"></div>
 						</div>
@@ -424,7 +449,7 @@ protecting the privacy of individuals
       <a name="cookies"></a>
       <h3>Cookies</h3>
       <p>Cookies are small files that can  be placed on your computer by Web servers when you visit a site. These  files may contain information such as ID's and passwords, personal information  or preferences. During your visit, the server can access these files to help  personalize pages or allow you to effect e-commerce more easily. </p>
-	  <p> Metro does not set cookies from any page in the wmata.com domain that store personally identifiable information (the Trip Planner does however store your input fields and Travel From &amp; To locations). The <a href="/rider_tools/tripplanner/tripplanner_form_solo.cfm">Trip Planner</a> stores your input fields and locations as cookies, so if you plan additional trips during your visit to our website, the input fields will already be  filled-in for your convenience. Our e-commerce and vendor registration sites set cookies with login information, but only for the convenience of customers who  use these areas repeatedly. If you are concerned about privacy, you may set up  your browser not to accept cookies or you can delete them from your hard drive  once you leave that section of the website.</p>
+	  <p> Metro does not set cookies from any page in the wmata.com domain that store personally identifiable information with the exception of the Trip Planner. The <a href="/rider_tools/tripplanner/tripplanner_form_solo.cfm">Trip Planner</a> stores your input fields and locations as cookies, so if you plan additional trips during your visit to our website, the input fields will already be  filled-in for your convenience. Our e-commerce and vendor registration sites set cookies with login information, but only for the convenience of customers who  use these areas repeatedly. If you are concerned about privacy, you may set up  your browser not to accept cookies or you can delete them from your hard drive  once you leave that section of the website.</p>
 <p><a href="#details"><img src="/images/top.png"></a></p>
 	  <a name="infocollected"></a>
       <h3>Personal Information Collected</h3>
@@ -496,10 +521,55 @@ protecting the privacy of individuals
             </div>
 
             <div id="footer">
+            
 				<div class="row1">
-					<p class="inside-left"><a href="/">Home</a> | <a href="/about_metro/privacy.cfm">Privacy</a> | <a href="/getting_around/translation.cfm">Translations</a> | <a href="/about_metro/lost_found/">Lost &amp; Found</a> | <a href="/about_metro/contact.cfm?">Contact Us</a></p>
-				  <p class="inside-right"><a href="/community_outreach/">Community Outreach</a> | <a href="/business/">Business with Metro</a> | <a href="/careers/">Careers</a> | <a href="/about_metro/calendar/">Calendar</a> | <a href="http://www.dcmetrostore.com/welcome">Metro Gifts</a> | <a href="/accessibility/browse_aloud.cfm"><img src="/img/speaker.gif" width="19" height="19" align="absbottom" title="Browse Aloud Support" alt="BrowseAloud icon"></a></p>
+			<p class="inside-left">
+            <a href="/about_metro/contact.cfm?">Contact Us</a> &nbsp; | &nbsp;  
+            <a href="/about_metro/lost_found/">Lost &amp; Found</a> &nbsp; | &nbsp; 
+            <a href="/about_metro/news/">Newsroom</a> &nbsp; | &nbsp; 
+            <a href="/about_metro/privacy.cfm?">Privacy</a> &nbsp; | &nbsp; 
+            <a href="/getting_around/translation.cfm?">Translations</a> &nbsp; | &nbsp; 
+          
+             <a href="/getting_around/safety_security/">Safety</a> &nbsp; | &nbsp; 
+             <a href="/community_outreach">Community</a> &nbsp; | &nbsp; 
+             <a href="/careers">Careers</a> &nbsp; | &nbsp; 
+             <a href="/about_metro/calendar/index.cfm?">Calendar</a> &nbsp; | &nbsp; 
+             <a href="http://www.apistores.com/wmata/">Metro Gifts</a> &nbsp; | &nbsp; 
+			  <a href="/business/">Business</a> &nbsp; 
+			 
+
+            </p>
+            
+            <p class="inside-right">
+           
+            
+
+            <script language="JavaScript">
+            <!-- 
+                function goto(form) { var index=form.select.selectedIndex
+                if (form.select.options[index].value != "0") {
+                location=form.select.options[index].value;}}
+            //-->
+            </script>
+            
+            </p><form name="form1">
+           
+                <select name="select" onchange="goto(this.form)" size="1" style="height: 22px; font-size:75%; background-color:#f2f1f0">
+                <option value="" style="font-size:75%;">Languages</option>
+                <option value="http://es.wmata.com/footer.cfm">Español</option>
+                <option value="http://fr.wmata.com/footer.cfm">Français</option>
+                <option value="http://ko.wmata.com/footer.cfm">Korean</option>
+                <option value="http://zs.wmata.com/footer.cfm">Chinese</option>
+                <option value="http://vi.wmata.com/footer.cfm">Vietnamese</option>
+                </select>
+                
+                                         &nbsp;<a href="/accessibility/browse_aloud.cfm?"><img src="/img/speaker.gif" width="19" height="19" align="absmiddle" title="Browse Aloud Support" alt="BrowseAloud icon"></a> 
+            </form>
+
+            <p></p>
+             
 			  </div>
+              
             </div>
 			
 		</div>
@@ -508,9 +578,10 @@ protecting the privacy of individuals
 	<div id="footer2">
 		<img src="/img/footer-long-2.gif" alt=""><br>
 		<div class="row2">
-			<p class="inside-left">© 2010 Washington Metropolitan Area Transit Authority</p>
+			<p class="inside-left">© 2011 Washington Metropolitan Area Transit Authority</p>
 		</div>
     </div>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
