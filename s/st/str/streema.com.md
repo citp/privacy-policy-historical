@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201192740id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622184422id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Streema - Free Online Radio Stations
 
@@ -13,6 +13,8 @@ In various places on the Streema Site, we collect "Personally Identifiable Infor
 ## Personal Use Only
 
 Third party sites accessible through Streema Webpages may similarly place cookies on your computer subject only to their privacy policies. You should visit their sites to learn about their information practices. Advertisers or other companies do not have access to Streema's cookies.
+
+Additionally, third party vendors, including Google, use cookies to serve ads based on your prior visits to our Site. In particular, Google's use of the DART cookie enables it and its partners to serve you ads based on your visit to our Sites and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html) or, alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We use Personally Identifiable Information that you provide to communicate with you, to process orders for products and services (as may be available in the future), to customize content available on the Streema Webpages, to conduct research for internal purposes and to use such information to improve our services and the Streema Site. We use information that is not personally identifiable to determine how people use our web site and its services. For example this data tells us information including how often users click on our advertisements and which areas of our site are the most popular. Analyzing this data allows us to improve the offerings on and performance of our site(s). Using your IP address, we can also determine the general physical location of a user.
 
