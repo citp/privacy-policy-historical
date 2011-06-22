@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfs-usa.co.in privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055106id_/http%3A//vfs-usa.co.in/USIndia/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs-usa.co.in privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/privacypolicy.html) for the most accurate reproduction.*
 
 # VFS
 
@@ -29,6 +29,34 @@ Therefore, although VFS works very hard to protect users’ privacy, it cannot g
   
 | **General:** The contents of this Privacy Policy may be changed at any time and User will be subject to terms as applicable at the time of usage.  
   
-Copyright 2009 . VFS Global. All Rights Reserved. [User Terms and conditions](https://web.archive.org/web/20101124055106id_/http%3A//vfs-usa.co.in/USIndia/termsandconditions.html), [Privacy Policy](https://web.archive.org/web/20101124055106id_/http%3A//vfs-usa.co.in/USIndia/privacypolicy.html)  
+Copyright 2009 . VFS Global. All Rights Reserved. [User Terms and conditions](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/termsandconditions.html), [Privacy Policy](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/privacypolicy.html)  
   
-|  | 
+| 
+
+VISA APPLICATION  
+PROCESS
+
+|  | Determine your [consular district](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/consulardistrictslocation.html) and [visa type](http://travel.state.gov/visa/temp/types/types_1286.html).  
+---|---  
+|   
+| Obtain a photo that can be uploaded and meets form [specifications](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/photospecsnew.html).  
+|   
+| Access the form [DS-160](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/applicationformDS160.html). Complete your DS-160 application online. Save often to your desktop! Answer questions as thoroughly as possible before submitting, as incomplete forms may not be accepted.  
+|   
+| Print the [DS-160](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/applicationformDS160.html) barcode confirmation sheet at the end of the DS-160 application on a laser printer. After you have printed it, email the confirmation page to yourself so you have a backup copy. The file is a PDF file, so Adobe you will need Adobe Acrobat on your computer to open it.  
+|   
+| Pay the visa [application fee](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/applicationfee.html) at an [approved HDFC bank](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/pdf/HDFC%20Locationsfeescenter.pdf).   
+|   
+| [Make your appointment](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/visaappointment.html) using your barcode number and fee receipt. If appropriate, use the “coworkers/family members traveling together” option. Then, download and print your [VFS appointment letter](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/visaappointment.html).  
+|   
+| For Mumbai district applicants only: Drop off your required documents three working days prior to your appointment at a VFS center in Mumbai, Pune or Ahmedabad.  
+|   
+| For H (H-1B, H-3, H-4) and L (L-1, L-2) visa applicants applying at the Hyderabad Consulate General only: ** ** Applicants must submit documents only four working days in advance of their visa appointment date and if they wish to submit documents earlier it must not be more than five working days in advance of the visa appointment date at the VFS center in Hyderabad (in person only). There will be no exceptions to this rule. You may also take the help of a representative acting on your behalf, to submit the documents. **** Please visit the website [http://hyderabad.usconsulate  
+.gov/advance _doc_submission2.html](http://hyderabad.usconsulate.gov/advance_doc_submission2.html)   
+for information on the required documents. (Please note that BEP H and L visa applicants should follow the BEP procedure for the Hyderabad Consulate General.)  
+|   
+| Report for your interview at the U.S. Embassy or Consulate fifteen minutes before your appointment. Carry appropriate documents and follow [security regulations](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/securityregulations.html). All applicants can find a list of documents under their visa type in the [All About Visas - Non-Immigrant Visas](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/nonimmigrantvisas.html) section.   
+|   
+| Approved visas are returned by [courier](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/typ_faq.html). [Click here](https://web.archive.org/web/20110622055127id_/http%3A//www.vfs-usa.co.in/USIndia/trackyourpassport.html) to track your passport.   
+  
+
