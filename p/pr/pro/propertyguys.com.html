@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the propertyguys.com privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221235125id_/http%3A//www.propertyguys.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propertyguys.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623005135id_/http%3A//propertyguys.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
 	
@@ -11,13 +11,11 @@
 		<link href="http://round.s3.amazonaws.com/public/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
 		<link href="http://round.s3.amazonaws.com/public/images/favicon.ico" rel="icon" type="image/x-icon">	   
 		 
-		 			<!-- am 20090511 script and style -->
-			<link href="http://round.s3.amazonaws.com/public/css/default.css?20101221" media="screen" rel="stylesheet" type="text/css">
-			<!-- am 20090511 script and style -->
-			
-			<script type="text/javascript" src="http://round.s3.amazonaws.com/public/javascript/pg.js?20101213"></script>
-			<!--  <script type="text/javascript" src="/javascript/all-unminified.js"></script> -->
-			
+		 				
+				<link href="http://round.s3.amazonaws.com/public/css/default.15.gz.css?20110614" media="screen" rel="stylesheet" type="text/css">
+	           	<script type="text/javascript" src="http://round.s3.amazonaws.com/public/javascript/pg.21.gz.js?20110614"></script>
+
+		
 		<!-- IE6 PNG Support -->
 		<!--[if lte IE 6]>
 		
@@ -44,12 +42,14 @@
 		
 		<div id="container">
 			<div id="content">
+					
 												        		
 				<div id="top">
-											<div class="greeting">Hello <strong>stranger</strong>! <span><a href="/start/">Sign In</a></span></div>
+											<div class="greeting">Hello <strong>friend</strong>! <span><a href="/start/">Sign In</a></span></div>
 						<div class="signstatus">
 							<a href="/" class="home">Home Page</a> |
 							<a href="/start/register">Join</a> |
+							<a href="http://mypgu.com/">Franchise Opportunities</a> |
 							<a href="/location" class="contact">Contact</a>
 						</div>
 												
@@ -60,56 +60,257 @@
 			
 							
 				<div class="title">Your browser is <em>too old</em> to view this page properly.</div>
-				<div>Your browser - <strong>Internet Explorer 6</strong> was released in <strong>2001</strong>. A lot has changed over the past <strong>nine</strong> years!</div>
+				<div>Your browser - <strong>Internet Explorer 6</strong> was released in <strong>2001</strong>. A lot has changed over the past <strong>ten</strong> years!</div>
 				<div><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" alt="Download Internet Explorer" title="Download Internet Explorer">Upgrade to the latest version of <strong>Internet Explorer</strong> &raquo;</a></div>
 			
 			</div>
 			
 			
 			<![endif]-->
-				<div id="header">
-					<div class="above"></div>
+
+				<div id="header2">
 					<div class="focus default">
 
 						<div id="guts">
 							<div class="logo"><a href="/"><img src="http://round.s3.amazonaws.com/public/images/logo_propertyguys.png"></a></div>
 							<div class="searchbox">
 								<div class="search">
-									<form id="frmPropertySearch" method="get" accept-charset="utf-8">
-										<input type="hidden" id="userId" name="ui" value="">
-										<input type="hidden" id="searchPage" name="sp" value="">
-										<input type="hidden" id="alternateAction" name="aa" value="">
+									<form id="frmPropertySearch" name="frmPropertySearch" method="get" accept-charset="utf-8">
+
+											<input type="hidden" id="userId" name="ui" value="">
+											<input type="hidden" id="searchPage" name="sp" value="">
+											<input type="hidden" id="alternateAction" name="aa" value="">
 										
-										<input type="hidden" id="questionsSkipped" name="qs" value="">
-										<input type="hidden" id="questionNumber" name="qn" value="">
+											<input type="hidden" id="priceMaximum" name="pma" value="">
+											<input type="hidden" id="priceMinimum" name="pmi" value="">
+											<input type="hidden" id="keyword" name="k" value="">
+											<input type="hidden" id="propertyTypes" name="prt" value="">
+											
+											<input type="hidden" id="commute" name="c" value="">
+											
+											<input type="hidden" id="bedroomsMaximum" name="bdma" value="">
+											<input type="hidden" id="bedroomsMinimum" name="bdmi" value="">
+											
+											<input type="hidden" id="city" name="city" value="">
+											<input type="hidden" id="province" name="province" value="">
+
+											<input type="hidden" id="questionsSkipped" name="qs" value="">
+											<input type="hidden" id="questionNumber" name="qn" value="">
 										
 																				
-										<div class="input">
-											<input id="keyword" type="text" name="k" value="">
-										</div>
 										
-										<!--<div id="keyword"></div>-->
-										<div class="button"><input id="btnSearchProperties" type="submit" name="sp" value="Search"></div>
-										 
-										 
 										
-										<div class="clear"></div>
 									</form>
 									
 								</div>
-								<div class="options">To Search for Listings, Enter a <span>Sign #</span> OR <span>City</span> ex. Sudbury, ON</div>
+								<div class="refine_container">	
+									
+									 <div class="refine_grid_group">
+										<div class="refine_grid_label"><label>Looking for </label></div>
+									 	<div class="refine_grid_control">
+									 		<select id="propertyType">
+												<option value="4">House</option>
+												<option value="1">Building</option>
+												<option value="2">Condominium</option>
+												<option value="3">Cottage</option>
+												<option value="5">Farm</option>
+												<option value="6">Land</option>
+												<option value="7">Semi-Detached or Duplex</option>
+												<option value="8">Townhouse</option>
+												<option value="" selected="selected">All Types</option>
+											</select>
+										</div>
+									 	<div class="clear"></div>
+									 </div>
+									 
+									  <div class="refine_grid_group">
+									 	<div class="refine_grid_label"><label>Priced Between</label></div>
+									 	<div class="refine_grid_control">
+									 	<select id="priceMin">									 		
+													<option value="0" selected="selected">$0</option>
+													<option value="25000">$25,000</option>
+													<option value="50000">$50,000</option>
+													<option value="75000">$75,000</option>
+													<option value="100000">$100,000</option>
+													<option value="125000">$125,000</option>
+													<option value="150000">$150,000</option>
+													<option value="175000">$175,000</option>
+													<option value="200000">$200,000</option>
+													<option value="225000">$225,000</option>
+													<option value="250000">$250,000</option>
+													<option value="275000">$275,000</option>
+													<option value="300000">$300,000</option>
+													<option value="325000">$325,000</option>
+													<option value="350000">$350,000</option>
+													<option value="375000">$375,000</option>
+													<option value="400000">$400,000</option>
+													<option value="425000">$425,000</option>
+													<option value="450000">$450,000</option>
+													<option value="475000">$475,000</option>
+													<option value="500000">$500,000</option>
+													<option value="550000">$550,000</option>
+													<option value="600000">$600,000</option>
+													<option value="650000">$650,000</option>
+													<option value="700000">$700,000</option>
+													<option value="750000">$750,000</option>
+													<option value="800000">$800,000</option>
+													<option value="850000">$850,000</option>
+													<option value="900000">$900,000</option>
+													<option value="950000">$950,000</option>
+													<option value="1000000">$1,000,000</option>
+													<option value="1500000">$1,500,000</option>
+													<option value="2000000">$2,000,000</option>
+													<option value="2500000">$2,500,000</option>
+													<option value="3000000">$3,000,000</option>
+													<option value="4000000">$4,000,000</option>
+													<option value="5000000">$5,000,000</option>
+													<option value="7500000">$7,500,000</option>
+													<option value="10000000">$10,000,000</option>
+										</select>
+									 	</div>
+									 	<div class="clear"></div>
+									 </div>
+									 
+									 	
+									 <div class="refine_grid_group">	
+									 	<div class="refine_grid_label"><label>Province</label></div>
+									 	<div class="refine_grid_control">
+									 	<select id="ajaxProvince">
+											<option>---Select---</option>
+											<option value="1">Alberta</option>
+											<option value="2">British Columbia</option>
+											<option value="3">Manitoba</option>
+											<option value="4">New Brunswick</option>
+											<option value="5">Newfoundland and Labrador</option>
+											<option value="6">Nova Scotia</option>
+											<option value="7">Northwest Territories</option>
+											<option value="8">Nunavut</option>
+											<option value="9">Ontario</option>
+											<option value="10">Prince Edward Island</option>
+											<option value="11">Quebec</option>
+											<option value="12">Saskatchewan</option>
+											<option value="13">Yukon</option>
+										</select>
+										</div>
+									 	<div class="clear"></div>
+									 </div>	
+									 	
+									 	
+									 
+									 <div class="refine_grid_group">
+									 	<div class="refine_grid_label"><label>and</label></div>
+									 	<div class="refine_grid_control">
+									 		<select id="priceMax">
+													<option value="" selected="selected">Unlimited</option>
+													<option value="25000">$25,000</option>
+													<option value="50000">$50,000</option>
+													<option value="75000">$75,000</option>
+													<option value="100000">$100,000</option>
+													<option value="125000">$125,000</option>
+													<option value="150000">$150,000</option>
+													<option value="175000">$175,000</option>
+													<option value="200000">$200,000</option>
+													<option value="225000">$225,000</option>
+													<option value="250000">$250,000</option>
+													<option value="275000">$275,000</option>
+													<option value="300000">$300,000</option>
+													<option value="325000">$325,000</option>
+													<option value="350000">$350,000</option>
+													<option value="375000">$375,000</option>
+													<option value="400000">$400,000</option>
+													<option value="425000">$425,000</option>
+													<option value="450000">$450,000</option>
+													<option value="475000">$475,000</option>
+													<option value="500000">$500,000</option>
+													<option value="550000">$550,000</option>
+													<option value="600000">$600,000</option>
+													<option value="650000">$650,000</option>
+													<option value="700000">$700,000</option>
+													<option value="750000">$750,000</option>
+													<option value="800000">$800,000</option>
+													<option value="850000">$850,000</option>
+													<option value="900000">$900,000</option>
+													<option value="950000">$950,000</option>
+													<option value="1000000">$1,000,000</option>
+													<option value="1500000">$1,500,000</option>
+													<option value="2000000">$2,000,000</option>
+													<option value="2500000">$2,500,000</option>
+													<option value="3000000">$3,000,000</option>
+													<option value="4000000">$4,000,000</option>
+													<option value="5000000">$5,000,000</option>
+													<option value="7500000">$7,500,000</option>
+													<option value="10000000">$10,000,000</option>
+									 		</select>
+									 	</div>
+									 	<div class="clear"></div>
+									 </div>
+									 
+									<!-- <input id="keyword" type=hidden name="k" value=""> -->	
+									
+									
+													
+									<div class="refine_grid_group">
+									 	<div class="refine_grid_label"><label>City</label></div>
+									 	<div class="refine_grid_control">
+									 	
+										 	<select id="ajaxCities">
+										 	
+										 											 	
+										 	
+										 	</select> 
+		
+									 	</div>
+									 	<div class="clear"></div>
+									 </div>									 								 
+									 
+									 <div class="refine_grid_group">
+									 	<div class="refine_grid_label"><label>With at least</label></div>
+									 	<div class="refine_grid_control">
+									 	<select id="beds">
+									 		<option value="">Unlimited</option>
+									 		<option value="5">5 or more Bedrooms</option>
+									 		<option value="4">4 Bedrooms</option>
+									 		<option value="3">3 Bedrooms</option>
+									 		<option value="2">2 Bedrooms</option>
+									 		<option value="1">1 Bedrooms</option>
+									 		
+									 	</select>
+									 	</div>
+									 	<div class="clear"></div>
+									 </div>
+																		
+								</div>
+								
 							</div>
-							<div class="served">
-								<div class="listings"><a href="/site/sellers">38,363</a></div>
-								<div class="caption">Listings To Date</div>
+							
+							<!-- Start Button Box -->
+							
+							<div class="searchButton">
+							<div class="button"><a id="btnSearchProperties" href="" name="sp">Search</a></div>
+							<div class="lbSearch"><a href="/site/search">Low Bandwidth Search Option</a></div>
+							<div class="clear"></div>
 							</div>
+							
+							
+							
 							<div class="clear"></div>
 						</div>
 					</div>
+				
+				<div class="advancedSearch">	
+					<div class="advLead">To Quickly Search for Listings, Enter a Sign # OR City</div>
+					<div class="input"><input autocomplete="off" id="signnumber" type="text" name="sn" value=""></div>
+				
+					<div class="advButton"><a href="" name="sp" id="advSearchProperties">Go!</a></div>
+					<div class="clear"></div>	
+				</div>
+				<div class="below"></div>
+				
 										
-					<div class="below"></div>
 					
-									</div>																
+					
+									</div>				
+																
 																								<div id="left">
 
 					<div class="above"></div>
@@ -326,11 +527,11 @@
 			
 				</div>
 				<div class="clear"></div>								<div id="footer">
-					<div class="above"></div>
+					
 					<div class="focus">
 					
 						<div class="copyright">
-							<div><strong>© 1998-2010 PropertyGuys.com.</strong> All rights reserved.</div>
+							<div><strong>© 1998-2011 PropertyGuys.com.</strong> All rights reserved.</div>
 							<div class="watermark"><a href="/"><img src="http://round.s3.amazonaws.com/public/images/footer_logo.png" alt="PropertyGuys.com" title="PropertyGuys.com"></a></div>
 						</div>
 						<div class="column">
@@ -349,6 +550,7 @@
 								<li><a href="/location">Contact Us</a></li>							
 								<li><a href="/help">Help Knowledge Base</a></li>
 								<li><a href="/help/support">Web Site Support</a></li>
+								<li><a href="/site/search">Low Bandwidth Search Option</a></li>
 							</ul>
 						</div>
 						<div class="column">
@@ -362,14 +564,13 @@
 							
 
 					</div>
-					<div class="below"></div>
+					
 					
 				</div>				<input type="hidden" id="javascriptInitializer" value="">
 				<input type="hidden" id="javascriptPath" value="http://round.s3.amazonaws.com/public">
 	   		 </div>
 	    </div>	
-		
-					
+	
 		
                 
 					<script type="text/javascript">
