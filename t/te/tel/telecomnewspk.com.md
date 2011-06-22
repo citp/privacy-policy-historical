@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecomnewspk.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222005316id_/http%3A//telecomnewspk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecomnewspk.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622115517id_/http%3A//telecomnewspk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telecom News Bulletin
 
@@ -14,7 +14,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 **Cookies and Web Beacons**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. We also use third party advertisements on PurePakistani.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. We also use third party advertisements on PurePakistani.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they [advertise](http://telecomnewspk.com/advertise/ "advertise") on our site, which will also send these advertisers
 
 (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser
 
