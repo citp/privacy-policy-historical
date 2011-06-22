@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219112757id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622115031id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # LightingDirect.com: Security & Privacy
 
-LightingDirect.com is a website of Improvement Direct, Inc. Our corporate website can be [viewed here](http://corp.improvementdirect.com/).
+LightingDirect.com is a website of Build.com, Inc. Our corporate website can be [viewed here](http://corp.improvementdirect.com/).
 
 Our postal address is:  
 282 Convair St.  
@@ -50,4 +50,4 @@ Information about our customers is an important part of our business, and we are
 
 If you choose to visit LightingDirect.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at LightingDirect.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
 
-**Copyright © 2000-2009 Improvement Direct, Inc. All Rights Reserved.**
+**Copyright © 2000-2009 Build.com, Inc. All Rights Reserved.**
