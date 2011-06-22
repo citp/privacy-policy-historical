@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianmovievault.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151404id_/http%3A//asianmovievault.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianmovievault.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622213641id_/http%3A//asianmovievault.com/info/privacy) for the most accurate reproduction.*
 
 # Asian Movie Vault - Internet's biggest Asian DVD site
 
