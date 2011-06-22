@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentcloud.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219154633id_/http%3A//www.documentcloud.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentcloud.org privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622043910id_/http%3A//www.documentcloud.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DocumentCloud
 
@@ -38,7 +38,7 @@ DocumentCloud is provided by Document Cloud Inc., a Delaware nonprofit corporati
     55 Broadway 23rd Floor
     New York, NY 10006
     (646) 450-2162
-    info@documentcloud.org 
+    info@documentcloud.org
 
 
 
