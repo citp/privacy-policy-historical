@@ -1,48 +1,67 @@
-> *The following text is extracted and transformed from the puppiesndogs.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607000339id_/http%3A//www.puppiesndogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppiesndogs.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623010936id_/http%3A//www.puppiesndogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PUPPIES 'N DOGS, L.L.C. PRIVACY POLICY**  
+**PUPPIES 'N DOGS, PRIVACY POLICY**  
 If you have any questions about the privacy policy, please contact us. 
 
-**INFORMATION COLLECTION AND USE**  
-Puppies 'N Dogs, L.L.C. is the sole owner of the information collected on this Site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-Puppies 'N Dogs, L.L.C. will take reasonable measures to not disclose the contents of your communications unless required to do so by law or in the good faith belief that such action is reasonably necessary to: (i) conform to the edicts of the law or comply with legal process served on Puppies 'N Dogs' website; (ii) protect and defend the rights or property of Puppies 'N Dogs or enforce or further the application or intent of the terms of this Agreement; or (iii) act to protect the personal safety of Puppies 'N Dogs participants or the public.
+**MINORS**  
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-Please note that Puppies 'N Dogs maintains the right to send you periodic updates as Puppies 'N Dogs deems necessary. Also note that if you provide any information to other parties, or any other sites you encounter on Puppies 'N Dogs or the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. We may, however, use and disclose general data and/or statistical data that includes data about you and/or your listings in order to provide better service to you and other users, among other reasons.
+**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**  
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
 
-**COOKIES**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies are also used to track promotional discounts on our Site. Puppies 'N Dogs, L.L.C. may set and access Puppies 'N Dogs, L.L.C. cookies on your computer. Puppies 'N Dogs, L.L.C. lets other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Puppies 'N Dogs, L.L.C. cookies.
+**THE TYPE OF INFORMATION WE COLLECT FROM YOU**  
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-**LOG FILES**  
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-**LINKS**  
-This web site contains links to other sites. Please be aware that Puppies 'N Dogs, L.L.C. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
 
-**REFER-A-FRIEND**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Puppies 'N Dogs, L.L.C. will automatically send the friend a one-time email inviting them to visit the site. Puppies 'N Dogs, L.L.C. stores this information for the sole purpose of sending this one-time email. The friend may contact Puppies 'N Dogs, L.L.C. to request the removal of this information from our database.
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-**SECURITY**  
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing’. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that we store personally identifiable information on are kept in a secure environment, at a world class facility.
+**WHAT WE DO WITH YOUR INFORMATION**  
+We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
 
-If you have any questions about the security at our website, you can contact us using the Help Center.
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-**SITE AND SERVICE UPDATES**  
-We also send the user site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-**CORRECTING / UPDATING PERSONAL INFORMATION**  
-If a user’s personally identifiable information changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member account (“my account”) page or visiting our Help Center.
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
 
-**NOTIFICATION OF CHANGES TO THIS POLICY**  
-Puppies 'N Dogs, L.L.C. may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Puppies 'N Dogs, L.L.C. account or by placing a prominent notice on our site.
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-**ACCEPTANCE**  
-By accepting the User Agreement you expressly agree to accept the terms of our Privacy Policy and to receive this information described herein. If you break the law, we may have to disclose your personal information to the authorities.
+**USER NAMES AND PASSWORDS**  
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-**THIRD PARTY ADVERTISING**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**  
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 
-**THIRD PARTY COOKIES**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+
+**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**  
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+
+**AUTORESPONDERS**  
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to contact[at]puppiesndogs.com, or sending us mail to the address listed below. 
+
+**POLICY CHANGES**  
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to contact[at]puppiesndogs.com and providing us with information relating to your concern.
+
+You may also mail your concerns to us at the following address:
+
+PuppiesNDogs  
+928 Bridgewater  
+Mesquite, TX 75181  
+USA
+
+**CALIFORNIA PRIVACY RIGHTS**  
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to contact[at]puppiesndogs.com or write us at the following address.
+
+This privacy policy was last updated on 6-20-2011.
+
+Copyright © 2008-2011 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at puppiesndogs.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
