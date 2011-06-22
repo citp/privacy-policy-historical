@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytrac.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224043930id_/http%3A//www.realtytrac.com/pub/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytrac.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623014835id_/http%3A//www.realtytrac.com/pub/privacy.html) for the most accurate reproduction.*
 
 # RealtyTrac - Privacy Policy
 
