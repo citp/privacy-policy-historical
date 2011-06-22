@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iballer.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621021005id_/http%3A//iballer.com/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iballer.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622053022id_/http%3A//iballer.com/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # iBaller.com - Privacy Policy
 
-**iBaller.com respects your right to keep your personal information private. All information that you submit to us will be held in the strictest confidence.**
+iBaller.com respects your right to keep your personal information private. All information that you submit to us will be held in the strictest confidence.
 
 iBaller.com does not sell or rent out any personal information collected about our visitors.
 
@@ -10,4 +10,4 @@ We do not collect information on how individuals surf our site. In order to bett
 
 All information regarding models submitted to iBaller.com that is marked as confidential will be kept in strict confidence and will never be shared/sold in any way to any outside party. Only the information that is intended and agreed upon to be listed as public will be posted. All other information will be keep in strict confidence. iBaller.com is serious about protecting your privacy.
 
-If you have any questions about iBaller.com's privacy policy please feel free to contact us at: [privacy@iBaller.com](mailto:privacy@iballer.com).
+If you have any questions about iBaller.com's privacy policy please feel free to [contact us](https://web.archive.org/contact/contact.htm "Contact Form").
