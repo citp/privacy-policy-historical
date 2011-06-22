@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the freepostsite.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122175615id_/http%3A//www.freepostsite.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostsite.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623012958id_/http%3A//www.freepostsite.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Post Site dot com
+
+|    
+
+
+#### Latest Free Posts - [Show As List](https://web.archive.org/index.php?do=latest)
+
+| 
 
 > ### Privacy Policy
 > 
@@ -58,4 +65,6 @@
 > 
 > #### 7\. Feedback
 > 
-> We welcome your feedback on this document in our [feedback form](https://web.archive.org/index.php?do=contact).
+> We welcome your feedback on this document in our [feedback form](https://web.archive.org/index.php?do=contact).  
+  
+---|---
