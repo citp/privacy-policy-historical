@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220225044id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622202229id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
 # Alfresco Open Source Enterprise Content Management - Privacy Policy
 
