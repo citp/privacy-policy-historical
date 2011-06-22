@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitalfootball.co.uk privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515100420id_/http%3A//www.vitalfootball.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalfootball.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622121542id_/http%3A//www.vitalfootball.co.uk/privacypolicy.asp) for the most accurate reproduction.*
 
-# Vital Football Privacy Policy
+# UK Football News, Results and Forums.
 
 Vital Network Ltd respect your privacy and wish to protect the confidential information you provide to us.
 
