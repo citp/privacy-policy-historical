@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healia.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215135759id_/http%3A//www.healia.com/pages/Healia_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healia.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622235639id_/http%3A//www.healia.com/pages/Healia_privacypolicy) for the most accurate reproduction.*
 
 # Healia privacypolicy - Healia
 
