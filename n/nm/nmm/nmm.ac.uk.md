@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610214555id_/http%3A//www.nmm.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622164028id_/http%3A//www.nmm.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy : Website policies : NMM policies : About us : NMM
 
@@ -58,9 +58,9 @@ Our online booking service is provided by TOR Maximweb. They collect personal in
 
 The Data Controller is the Board of Trustees of the National Maritime Museum, but to request any information with respect to the Website please write to:
 
-Digital Media   
-National Maritime Museum   
-Greenwich   
+Digital Media  
+National Maritime Museum  
+Greenwich  
 London SE10 9NF
 
 Copyright © National Maritime Museum
