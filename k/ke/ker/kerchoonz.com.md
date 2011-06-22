@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerchoonz.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221190147id_/http%3A//www.kerchoonz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerchoonz.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195517id_/http%3A//www.kerchoonz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Free Legal Music Downloads or Streams - Register Free at Kerchoonz
 
