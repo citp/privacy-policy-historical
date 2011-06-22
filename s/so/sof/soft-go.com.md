@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soft-go.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618135718id_/http%3A//www.soft-go.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft-go.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195709id_/http%3A//www.soft-go.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Terms - Soft-Go.Com
+# Privacy Policy - Soft-Go.Com
 
 Soft **-** Go© recognize the importance of protecting the privacy of all information provided by users of our web site, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customer's right to privacy and to guide our relationships with our customers.
 
@@ -12,6 +12,14 @@ If developers wish to submit applications in order to be listed on our Web site,
 
 **Links**  
 This web site contains links to other sites. Please be aware that we Soft **-** Go.Com, are not responsible for the privacy practices or the content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+**Advertising** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you ([more info](http://www.google.com/privacy_ads.html)). 
+
+**Google Adsense** Google Adsense is Soft-Go's primary ad partner and being a 3rd party service provider, you should be aware of the following:  
+\- Google, as a third party vendor, uses cookies to serve ads on our site.  
+\- Google's use of the DART cookie enables it to serve ads to you, our users based on their visit to your sites and other sites on the Internet.  
+\- Any user can opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy located [here](http://www.google.com/privacy_ads.html)  
+
 
 Disclaimer:
 
