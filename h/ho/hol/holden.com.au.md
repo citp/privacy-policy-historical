@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115201149id_/http%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622134534id_/http%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Holden. Go better.
 
@@ -6,7 +6,7 @@ Holden complies with the National Privacy Principles.
 
 Holden respects the rights of individuals to determine to whom they give their personal information and how this information is used. Holden collects and uses your information in order to provide better customer service by striving to meet your needs and expectations about our cars and other products. We will not sell your information to any other organisation. 
 
-We will be fair and open about the way we collect information about you and what we intend to do with the information. We share information about you with our affiliated companies and related companies, like General Motors, Daewoo, SAAB and contracted service providers, as well as dealers to assist them to improve the quality and standard of service they provide to you. We also provide information to industry bodies and others for the purposes of audits of our records. Our Dealers, affiliated companies and related companies share information with us about you so that we can learn more about your expectations of us and how we can meet them. Where practicable, we will collect personal information directly from you. If we receive information about you from someone else or provide information to someone else about you, like our Dealers or contractors providing services to us, wherever possible we will make sure they comply with the Privacy Act. 
+We will be fair and open about the way we collect information about you and what we intend to do with the information. We share information about you with our affiliated companies and related companies, like General Motors, Daewoo and contracted service providers, as well as dealers to assist them to improve the quality and standard of service they provide to you. We also provide information to industry bodies and others for the purposes of audits of our records. Our Dealers, affiliated companies and related companies share information with us about you so that we can learn more about your expectations of us and how we can meet them. Where practicable, we will collect personal information directly from you. If we receive information about you from someone else or provide information to someone else about you, like our Dealers or contractors providing services to us, wherever possible we will make sure they comply with the Privacy Act. 
 
 We will be open with you about the kinds of personal information we hold and what we do with it. We will strive to ensure that information about you is accurate when we collect or use it. Wherever possible and appropriate we will let you see the information we hold about you and correct it if it is wrong. If we do not grant you access to your personal information we will tell you why. 
 
@@ -16,7 +16,7 @@ When we no longer use your information we will take care to properly de-identify
 
 If you are unhappy with the way we have collected, used or shared your information we will investigate and respond to your complaint. Please contact Holden's Customer Assistance on 1800 033 349 or email us at [customerassistance.holden@gm.com](mailto:customerassistance.holden@gm.com). 
 
-FURTHER INFORMATION ABOUT HOLDEN'S USE OF PERSONAL INFORMATION GENERALLY 
+FURTHER INFORMATION ABOUT HOLDEN'S USE OF PERSONAL INFORMATION GENERALLY
 
 _(a)Holden's use and disclosure of personal information_
 
@@ -115,7 +115,7 @@ _(h) Training of staff_
 
 Holden will ensure that its employees receive training (and refresher training) about the management of personal information relevant to their respective roles and responsibilities. Only properly authorised people are permitted to see or use personal information held by Holden. 
 
-FURTHER INFORMATION ABOUT Holden'S PRIVACY POLICY AND USE OF ITS WEBSITES 
+FURTHER INFORMATION ABOUT HOLDEN'S PRIVACY POLICY AND USE OF ITS WEBSITES 
 
 1\. PRIVACY AND USE OF WEBSITE   
 Holden has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for Holden's websites, and answers the following questions: 
@@ -184,10 +184,13 @@ The symbols ® and ™ designate Australian registered trade-marks and unregiste
 _(b) Consent_   
 By using our Websites, you consent to the collection and use of your personal information by Holden as outlined in this Privacy Policy. 
 
-_(c) Limitation of liability_   
-In connection with your viewing and use of this Website, Holden shall not be liable for any damages, harm, liability, loss, cost, expense, or injury suffered in any connection with this Website whatsoever, including as a result of using, accessing, copying, or downloading any part of this Website's content. In no event shall Holden be liable for any direct, indirect, special, incidental, or consequential damage (including loss of business, revenue, profits, use, data or other economic advantage) however it arises, whether for breach of contract, or in tort, negligence, equity, or otherwise even if Holden has been previously advised of the possibility of such damage. You agree to hold Holden absolutely harmless from, and you covenant not to take any action against Holden for, any claims based on using this Website. 
+_(c) Statutory rights_   
+You may have rights under the Australian Consumer Law or similar legislation which cannot be excluded or limited by Holden. These conditions of use do not, and do not intend to, exclude or limit those statutory rights in any way. 
 
-_(d) Terms and Conditions of Use_   
+_(d) Limitation of liability_   
+Subject to (c) above and to the extent permitted by law, Holden shall not be liable for any damages, harm, liability, loss, cost, expense, or injury suffered in any connection with this Website whatsoever, including as a result of using, accessing, copying, or downloading any part of this Website's content. Subject to (c) above, in no event shall Holden be liable for any direct, indirect, special, incidental, or consequential damage or for any loss of business, revenue, profits, use, data or other economic advantage, however it arises, whether for breach of contract, or in tort, negligence, equity, or otherwise even if Holden has been previously advised of the possibility of such damage. You agree to hold Holden absolutely harmless from, and you covenant not to take any action against Holden for, any claims based on using this Website. 
+
+_(e) Terms and Conditions of Use_   
 By using this site, you agree to be bound by these Terms and Conditions of Use in relation to your use or the performance of this Website, and the information, services and material contained in it or provided by it. If you do not accept these Terms and Conditions of Use, please exit this Website.   
 You may contact Holden at [customerassistance.holden@gm.com](mailto:customerassistance.holden@gm.com) or 1800 033 349 if you have any queries about these Terms and Conditions of Use or to provide us with any information or discuss any of the services we offer. 
 
@@ -213,29 +216,27 @@ We are committed to protecting your privacy. We will comply with our legal and c
 (b) We may vary these Terms and Conditions of Use at any time and without notice by posting the varied Terms and Conditions of Use on this Website. Your continued use of this Website after the Terms and Conditions of Use have been varied, constitutes Your acknowledgment that You accept the changes to the Terms and Conditions of Use and that You agree to be bound by the varied Terms and Conditions of Use. 
 
 5\. Exclusions and limitations   
-(a) All statutory or implied terms, conditions or warranties concerning the quality or condition of this Website or any information, service, material, advice or recommendation supplied by Us to You through this Website are excluded to the fullest extent permitted by law.   
-(b) If We breach any term, condition or warranty which is implied by law and which cannot lawfully be excluded, Our liability for a breach of the applicable term, condition or warranty (other than a warranty implied by section 69 of the Trade Practices Act 1974 (Cth) or corresponding state legislation) is limited to, at Our election:   
+(a) You may have rights under the Australian Consumer Law or similar legislation which cannot be excluded or limited by Us. These conditions of use, including this clause 5, do not, and do not intend to, exclude or limit those statutory rights in any way.   
+(b) All statutory or implied terms, conditions or warranties concerning the quality or condition of this Website or any information, service, material, advice or recommendation supplied by Us to You through this Website are excluded to the fullest extent permitted by law.   
+(c) If We breach any consumer guarantee, term, condition or warranty which is implied or imposed by law and which cannot lawfully be excluded, to the extent that We are entitled to do so, We limit Our liability is limited to, at Our election:   
 (i) the resupply of the relevant advice, service, recommendation or information; or   
 (ii) the payment to You of the cost of having the relevant advice, service, recommendation or information supplied again.   
-(c) Except to the extent that liability may not lawfully be excluded, We will not be under any liability to You ( or any of Your officers, agents or employees) for any direct or indirect loss or damage (including without limitation consequential loss or damage, loss of profit or anticipated profit, loss of data, loss of use, damage to goodwill and loss due to delay) however caused (including without limitation due to breach of contract, negligence and/or breach of statute) which may be suffered or incurred or which may arise from or in connection with Your use of this Website or Your use of or reliance upon any of the information, services and/or materials contained in it or provided by it to You or Our negligence or Our breach of Our obligations under these Terms and Conditions of Use.   
-(d) The information contained in the Price Comparison Report is provided by Us in good faith, and We have taken all reasonable care in providing it. However, changes or events may occur which cause the information to be inaccurate or out of date. Accordingly, We do not warrant the accuracy or currency of that information and any reliance by You upon that information is at Your sole risk. 
+(d) Except to the extent that liability may not lawfully be excluded, We will not be under any liability to You ( or any of Your officers, agents or employees) for any direct or indirect loss or damage (including without limitation consequential loss or damage, loss of profit or anticipated profit, loss of data, loss of use, damage to goodwill and loss due to delay) however caused (including without limitation due to breach of contract, negligence and/or breach of statute) which may be suffered or incurred or which may arise from or in connection with Your use of this Website or Your use of or reliance upon any of the information, services and/or materials contained in it or provided by it to You or Our negligence or Our breach of Our obligations under these Terms and Conditions of Use.   
+(e) The information contained in the Price Comparison Report is provided by Us in good faith, and We have taken all reasonable care in providing it. However, changes or events may occur which cause the information to be inaccurate or out of date. Accordingly, We do not warrant the accuracy or currency of that information and any reliance by You upon that information is at Your sole risk. 
 
 6\. Links to other sites   
 This Website may contain links to Websites maintained by other organisations. We have no affiliation with those Websites, do not endorse any material on those Websites and do not provide any warranty, or assume any responsibility, regarding the quality, accuracy, source, merchantability, fitness for purpose or any other aspect of the material on those Websites. 
 
-7\. INpress   
-This Website contains information provided by INpress. The copyright in this information is owned by INpress and is reproduced by Us with the permission of INpress. The INpress has taken all due care in the preparation of the information but cannot provide any warranty or accept any liability for this information. 
+7\. Copyright   
+We own copyright in the contents of this Website. You may access and display these pages on a computer or a monitor, and print out for Your personal or internal business use any page or part of any page of this Website. All other use, copying or reproduction (including reproduction on any other Website) of any part of this Website is prohibited. 
 
-8\. Copyright   
-We own copyright in the contents of this Website (other than information copyright in which is owned by INpress). You may access and display these pages on a computer or a monitor, and print out for Your personal or internal business use any page or part of any page of this Website. All other use, copying or reproduction (including reproduction on any other Website) of any part of this Website is prohibited. 
-
-9\. Viruses   
+8\. Viruses   
 We do not represent or warrant that this Website and any other information or material contained in, downloaded or accessible from this Website, is free from computer viruses (including macro viruses) or any other defect or error which may affect Your software or systems. You should protect Your software and systems by installing and implementing Your own security checks and systems. 
 
-10\. Cookies   
+9\. Cookies   
 This Website uses a feature of Your Internet browser called a "cookie" to manage security and store report parameter information. If Your browser does not support cookies, or You have disabled this functionality, You may be unable to use this site. 
 
-11\. Governing Law   
+10\. Governing Law   
 The law of Victoria governs these Terms and Conditions of Use, and You and We submit to the non-exclusive jurisdiction of the Courts of Victoria and the Federal Court of Australia.   
 (e) Disclaimer 
 
