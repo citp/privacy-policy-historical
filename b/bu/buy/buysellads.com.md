@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buysellads.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218130409id_/http%3A//buysellads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellads.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622151749id_/http%3A//buysellads.com/about/privacy) for the most accurate reproduction.*
 
-# About | BuySellAds.com
+# Privacy Policy | BuySellAds.com
 
-This privacy policy (the “Privacy Policy”) covers BuySellAds.com Inc.’s (“BSA’s”) treatment of personally identifiable information collected from your use of [www.BuySellAds.com](http://www.buysellads.com/) (the“Site”) and is part of the terms and conditions which are set forth in our Terms ([www.BuySellAds.com/about/terms](http://www.buysellads.com/about/terms)). Use of the terms “we” and “us” in this Privacy Policy means BSA. Capitalized words not defined in this Privacy Policy have the meaning as defined in the Terms. By using the Site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
+This privacy policy (the “Privacy Policy”) covers BuySellAds.com Inc.’s (“BSA’s”) treatment of personally identifiable information collected from your use of [BuySellAds.com](http://buysellads.com/) (the“Site”) and is part of the terms and conditions which are set forth in our Terms ([BuySellAds.com/about/terms](http://buysellads.com/about/terms)). Use of the terms “we” and “us” in this Privacy Policy means BSA. Capitalized words not defined in this Privacy Policy have the meaning as defined in the Terms. By using the Site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
 
 Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information (as explained further below). This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Site.
 
@@ -42,6 +42,6 @@ BSA uses industry-standard data collection and encryption methodologies to ensur
 
 If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [info@BuySellAds.com](mailto:info@BuySellAds.com) or by U.S. mail to PO BOX 67, South Boston, MA 02127.
 
-Date last updated:  August 5, 2010
+Date last updated: August 5, 2010
 
 – End –
