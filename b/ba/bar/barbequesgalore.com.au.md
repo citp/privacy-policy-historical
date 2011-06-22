@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121141925id_/http%3A//www.barbequesgalore.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623012340id_/http%3A//www.barbequesgalore.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Barbeques Galore - Privacy Policy
 
