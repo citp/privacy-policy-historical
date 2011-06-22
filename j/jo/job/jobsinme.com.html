@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobsinme.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222151315id_/http%3A//www.jobsinme.com/misc/page.aspx%3Fpagenum%3D44) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobsinme.com privacy policy that was archived on 2011-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622195840id_/http%3A//www.jobsinme.com/misc/page.aspx%3Fpagenum%3D44) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -21,10 +21,30 @@
     
     
     
+    <script type="text/javascript"> 
+        yld_mgr = {}; 
+        yld_mgr.pub_id = "23428076635"; 
+        yld_mgr.site_name="JobsInME.com"; 
+        yld_mgr.request_type="ac"; 
+        yld_mgr.container_type="js"; 
+        yld_mgr.content_topic_id_list = ["20201001"]; 
+        yld_mgr.content_lang="en-us"; 
+        yld_mgr.clk_dest="_blank"; 
+        yld_mgr.disable_content_send="1"; 
+        yld_mgr.slots = {}; 
+        yld_mgr.slots.top_slot = {}; 
+        yld_mgr.slots.top_slot.ad_size_list=["728x90"]; 
+        yld_mgr.slots.top_slot.ad_delivery_mode="ipatf"; 
+        yld_mgr.slots.top_slot.ad_marker = ""; 
+        yld_mgr.slots.top_slot.content_type_list = ["fn_news"]; 
+        ; 
+    </script> 
+    <script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
+
+    
+    
+    
     <script language="javascript">
-    
-    
-    
     
     function showOverlay(){
         var scnWid,scnHei;
@@ -91,8 +111,8 @@
     }
     
     function showAdvancedSearch() {
-        var o = document.getElementById('overlay');
-        o.style.visibility = 'visible';
+        //var o = document.getElementById('overlay');
+        //o.style.visibility = 'visible';
         var as = document.getElementById('advancedSearch');
         as.style.visibility = 'visible';
         
@@ -142,8 +162,8 @@
     }
     
     function showCompanySearch() {
-        var o = document.getElementById('overlay');
-        o.style.visibility = 'visible';
+        //var o = document.getElementById('overlay');
+        //o.style.visibility = 'visible';
         var as = document.getElementById('companySearch');
         as.style.visibility = 'visible';
     }
@@ -307,43 +327,76 @@
         
         var i = 0;
         while(!zipFound && (i < response.Placemark.length)){
+            var errorField = document.getElementById("advErrorMessages");
+            
             place = response.Placemark[i];
             
+            if(!zipFound){
             try{
                 zip = place.AddressDetails.Country.AdministrativeArea.Locality.PostalCode.PostalCodeNumber;
                 zipFound = true;
+                //errorField.innerHTML = zip;
             }catch(err1){
-                try{
+                zipFound = false;
+                //errorField.innerHTML = err1;
+            }
+            }
+            
+            if(!zipFound){
+            try{
                 zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality.PostalCode.PostalCodeNumber;
                 zipFound = true;
-                }catch(err2){
-                    zipFound = false;
-                    try{
-                        zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality.DependentLocality.PostalCode.PostalCodeNumber;
-                        zipFound = true;
-                    }catch(err3){
-                        zipFound = false;
-                        try{
-                            zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.DependentLocality.PostalCode.PostalCodeNumber;
-                            zipFound = true;
-                        }catch(err4){
-                            zipFound = false;
-                            try{
-                                zip = place.AddressDetails.Country.AdministrativeArea.Locality.DependentLocality.PostalCode.PostalCodeNumber;
-                                zipFound = true;
-                            }catch(err5){
-                                zipFound = false;
-                                try{
-                                    zip = place.AddressDetails.Country.AdministrativeArea.DependentLocality.PostalCode.PostalCodeNumber;
-                                    zipFound = true;
-                                }catch(err5){
-                                    zipFound = false;
-                                }
-                            }
-                        }
-                    }
-                }
+                //errorField.innerHTML = zip;
+            }catch(err2){
+                zipFound = false;
+                //errorField.innerHTML = err2;
             }
+            }        
+            
+            if(!zipFound){
+            try{
+                zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality.DependentLocality.PostalCode.PostalCodeNumber;
+                zipFound = true;
+                //errorField.innerHTML = zip;
+            }catch(err3){
+                zipFound = false;
+                //errorField.innerHTML = err3;
+            }
+            }
+            
+            if(!zipFound){        
+            try{
+                zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.DependentLocality.PostalCode.PostalCodeNumber;
+                zipFound = true;
+                //errorField.innerHTML = zip;
+            }catch(err4){
+                zipFound = false;
+                //errorField.innerHTML = err4;
+            }
+            }
+            
+            if(!zipFound){             
+            try{
+                zip = place.AddressDetails.Country.AdministrativeArea.Locality.DependentLocality.PostalCode.PostalCodeNumber;
+                zipFound = true;
+                //errorField.innerHTML = zip;
+            }catch(err5){
+                zipFound = false;
+                //errorField.innerHTML = err5;
+            }
+            }
+            
+            if(!zipFound){              
+            try{
+                zip = place.AddressDetails.Country.AdministrativeArea.DependentLocality.PostalCode.PostalCodeNumber;
+                zipFound = true;
+                //errorField.innerHTML = zip;
+            }catch(err6){
+                zipFound = false;
+                //errorField.innerHTML = err6;
+            }
+            }
+            
             i++;
         }
         
@@ -354,6 +407,7 @@
             try{
                 state = place.AddressDetails.Country.AdministrativeArea.AdministrativeAreaName;
                 stateFound = true;
+                errorField.innerHTML = zip;
             }catch(err2){
                 stateFound = false;
             }
@@ -362,8 +416,10 @@
             
             if(zipFound && stateFound && (state == "ME")){
                 var location = document.getElementById("headLocation");
-        
-                location.value = zip;
+                
+                if (!(location.value.match(/^\d{5}$/))){
+                    location.value = zip;
+                }
         
                 document.advSearchForm.submit();
             }else{
@@ -472,41 +528,72 @@
         while(!zipFound && (i < response.Placemark.length)){
             place = response.Placemark[i];
             
+            if(!zipFound){
             try{
                 zip = place.AddressDetails.Country.AdministrativeArea.Locality.PostalCode.PostalCodeNumber;
                 zipFound = true;
+                //errorField.innerHTML = zip;
             }catch(err1){
-                try{
+                zipFound = false;
+                //errorField.innerHTML = err1;
+            }
+            }
+            
+            if(!zipFound){
+            try{
                 zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality.PostalCode.PostalCodeNumber;
                 zipFound = true;
-                }catch(err2){
-                    zipFound = false;
-                    try{
-                        zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality.DependentLocality.PostalCode.PostalCodeNumber;
-                        zipFound = true;
-                    }catch(err3){
-                        zipFound = false;
-                        try{
-                            zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.DependentLocality.PostalCode.PostalCodeNumber;
-                            zipFound = true;
-                        }catch(err4){
-                            zipFound = false;
-                            try{
-                                zip = place.AddressDetails.Country.AdministrativeArea.Locality.DependentLocality.PostalCode.PostalCodeNumber;
-                                zipFound = true;
-                            }catch(err5){
-                                zipFound = false;
-                                try{
-                                    zip = place.AddressDetails.Country.AdministrativeArea.DependentLocality.PostalCode.PostalCodeNumber;
-                                    zipFound = true;
-                                }catch(err5){
-                                    zipFound = false;
-                                }
-                            }
-                        }
-                    }
-                }
+                //errorField.innerHTML = zip;
+            }catch(err2){
+                zipFound = false;
+                //errorField.innerHTML = err2;
             }
+            }        
+            
+            if(!zipFound){
+            try{
+                zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.Locality.DependentLocality.PostalCode.PostalCodeNumber;
+                zipFound = true;
+                //errorField.innerHTML = zip;
+            }catch(err3){
+                zipFound = false;
+                //errorField.innerHTML = err3;
+            }
+            }
+            
+            if(!zipFound){        
+            try{
+                zip = place.AddressDetails.Country.AdministrativeArea.SubAdministrativeArea.DependentLocality.PostalCode.PostalCodeNumber;
+                zipFound = true;
+                //errorField.innerHTML = zip;
+            }catch(err4){
+                zipFound = false;
+                //errorField.innerHTML = err4;
+            }
+            }
+            
+            if(!zipFound){             
+            try{
+                zip = place.AddressDetails.Country.AdministrativeArea.Locality.DependentLocality.PostalCode.PostalCodeNumber;
+                zipFound = true;
+                //errorField.innerHTML = zip;
+            }catch(err5){
+                zipFound = false;
+                //errorField.innerHTML = err5;
+            }
+            }
+            
+            if(!zipFound){              
+            try{
+                zip = place.AddressDetails.Country.AdministrativeArea.DependentLocality.PostalCode.PostalCodeNumber;
+                zipFound = true;
+                //errorField.innerHTML = zip;
+            }catch(err6){
+                zipFound = false;
+                //errorField.innerHTML = err6;
+            }
+            }
+            
             i++;
         }
         
@@ -525,8 +612,10 @@
             
             if(zipFound && stateFound && (state == "ME")){
                 var location = document.getElementById("ssLocation");
-        
-                location.value = zip;
+                
+                if (!(location.value.match(/^\d{5}$/))){
+                    location.value = zip;
+                }
         
                 document.searchForm.submit();
             }else{
@@ -652,6 +741,114 @@
         }
     }
     
+    var moveCounter = 45;
+    var topM = 0;
+    var displayed = true;
+    
+    function toggleTopAd(){
+        var controlImage = document.getElementById("adControlImage");
+        if(displayed){
+            displayed = false;
+            adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Show_Ads_tab-UN3-16h.png";
+            hideTopAd();
+        }else{
+            displayed = true;
+            adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Hide_Ads_tab-UN3-16h.png";
+            showTopAd();
+        }
+    }
+    
+    function hideTopAd(){
+        var topAd = document.getElementById("everything");
+        if(document.layers){
+            //topAd.position = "relative";
+            if(moveCounter > 0){
+                topM = topM + 2;
+                topAd.top = (topM * -1);
+                setTimeout("hideTopAd()",5);
+                moveCounter--;
+            }else{
+                moveCounter = 45;
+            }
+      
+        }else{
+            //topAd.style.position = "relative";
+            if(moveCounter > 0){
+                topM = topM + 2;
+                topAd.style.top = (topM * -1);
+                setTimeout("hideTopAd()",5);
+                moveCounter--;
+            }else{
+                moveCounter = 45;
+            }
+        }
+    }
+    
+    function showTopAd(){
+        var topAd = document.getElementById("everything");
+        if(document.layers){
+            //topAd.position = "relative";
+            if(moveCounter > 0){
+                topM = topM - 2;
+                topAd.top = (topM * -1);
+                setTimeout("showTopAd()",5);
+                moveCounter--;
+            }else{
+                moveCounter = 45;
+            }
+        
+        }else{
+            //topAd.style.position = "relative";
+            if(moveCounter > 0){
+                topM = topM - 2;
+                topAd.style.top = (topM * -1);
+                setTimeout("showTopAd()",5);
+                moveCounter--;
+            }else{
+                moveCounter = 45;
+            }
+        }
+    }
+    
+    function overAdControlImage(){
+        if(displayed){
+            adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Hide_Ads_tab-16h.png";
+        }else{
+            adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Show_Ads_tab-16h.png";
+        }
+        document.body.style.cursor = "pointer";
+    }
+    function outAdControlImage(){
+        if(displayed){
+            adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Hide_Ads_tab-UN3-16h.png";
+        }else{
+            adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Show_Ads_tab-UN3-16h.png";
+        }
+        document.body.style.cursor = "auto";
+    }
+    
+    function gup( name )
+    {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return "";
+        else
+            return results[1];
+    }
+    
+    function showSearch(){
+        var searchType = gup("searchType");
+    
+        if(searchType == "companySearch"){
+            showCompanySearch();
+        }else{
+            showAdvancedSearch();
+        }
+    }
+    
     </script>
     
     <!--end section-specific js functions -->
@@ -689,53 +886,54 @@
 	Copyright 1997-2006 Omniture, Inc. More info available at
 	http://www.omniture.com -->
 
- <script src="/omniture/ME_s_code.js" language="JavaScript"></script><img name="s_i_jrcjobsinme" height="1" width="1" border="0" alt="" style="float:right;" src="https://journalregistercompany.122.2O7.net/b/ss/jrcjobsinme/1/H.8-pdv-2/s77088226299725?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A46%3A16%205%200&amp;ce=ISO-8859-1&amp;ns=journalregistercompany&amp;pageName=JobsInME.com%20-%20Privacy%20Statement&amp;g=https%3A//web.archive.org/web/20101222151315id_/http%253A//www.jobsinme.com/misc/page.aspx%253Fpagenum%253D44&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"> 
+ <script src="/omniture/ME_s_code.js" language="JavaScript"></script><img name="s_i_jrcjobsinme" height="1" width="1" border="0" alt="" style="float:right;" src="https://journalregistercompany.122.2O7.net/b/ss/jrcjobsinme/1/H.8-pdv-2/s78095783994102?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A46%3A17%205%200&amp;ce=ISO-8859-1&amp;ns=journalregistercompany&amp;pageName=JobsInME.com%20-%20Privacy%20Statement&amp;g=https%3A//web.archive.org/web/20110622195840id_/http%253A//www.jobsinme.com/misc/page.aspx%253Fpagenum%253D44&amp;cc=USD&amp;ch=Major%20Pages&amp;server=www.jobsinme.com&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"> 
 
 
-<script language="JavaScript"><!--
+<!-- SiteCatalyst code version: H.23.3.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-try {
-	s.pageName=document.title
-	s.server=""
-	s.channel=""
-	s.pageType=""
-	s.prop1=""
-	s.prop2=""
-	s.prop3=""
-	s.prop4=""
-	s.prop5=""
-	/* E-commerce Variables */
-	s.campaign=""
-	s.state=""
-	s.zip=""
-	s.events=""
-	s.products=""
-	s.purchaseID=""
-	s.eVar1=""
-	s.eVar2=""
-	s.eVar3=""
-	s.eVar4=""
-	s.eVar5=""
-	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code)//-->
-	} catch(e) {}
-</script>
-<script language="JavaScript"><!--
+s.pageName=document.title
+s.server="www.jobsinme.com"
+s.channel="Major Pages"
+s.referrer=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+s.campaign=gup('cid');
+s.state=""
+s.zip=""
+s.events=gup('e');
+s.products=""
+s.purchaseID=""
+s.eVar1=gup('eVar1');
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics">
+//--></script><noscript>
 
- <img src='http://jrcjobsinme.122.2O7.net/b/ss/jrcjobsinme/1/H.8--NS/0' height='1' width='1' border='0' alt='' style='float:right' />
-</a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.8. -->
+ <img src='http://journalregistercompany.122.2o7.net/b/ss/jrcjobsinme/1/H.23.3--NS/0' height='1' width='1' border='0' alt='' />
+</noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.23.3. -->
 
 
 <script type="text/javascript" src="/js/wz_tooltip.js"></script>
 
 <script type="text/javascript">
     if (!document.layers)
-        document.write('<div id="overlay" style="position:absolute">')
-</script><div id="overlay" style="position: absolute; left: 0px; top: 0px;">
+        document.write('<div id="overlay">')
+</script><div id="overlay" style="left: 0px; top: 0px;">
 
 <layer id="overlay">
 
@@ -757,11 +955,11 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
     <div id="advancedSearchWrapper">
     <table style="padding:0px;margin:0px;" cellpadding="0" cellspacing="0" border="0">
     <tbody><tr style="padding:0px;margin:0px;">
-        <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;" "="">
+        <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;">
                 <img src="/media/graphics/corners/white_corners-TL-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:top;">
         </td>
-        <td style="width:584px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;" "="">&nbsp;</td>
-        <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;" "="">
+        <td style="width:584px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;">&nbsp;</td>
+        <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;">
                 <img src="/media/graphics/corners/white_corners-TR-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:top;">
         </td>
     </tr>
@@ -810,15 +1008,15 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                     <tbody><tr>
                         <td style="vertical-align:top;">
                             <span style="font-weight:bold;">Wage Types:</span><br>
-                            <fieldset><input type="checkbox" value="salary" name="lbWage" id="lbWage">Annual Salary<br><input type="checkbox" value="hourly" name="lbWage" id="lbWage">Hourly Wage<br><input type="checkbox" value="commsal" name="lbWage" id="lbWage">Salary Plus Commission<br><input type="checkbox" value="commdraw" name="lbWage" id="lbWage">Draw Plus Commission<br><input type="checkbox" value="commission" name="lbWage" id="lbWage">Commission Only<br><input type="checkbox" value="volunteer" name="lbWage" id="lbWage">Volunteer<br><input type="checkbox" value="subcont" name="lbWage" id="lbWage">Contract<br><input type="checkbox" value="perdiem" name="lbWage" id="lbWage">Per Diem<br><input type="checkbox" value="permile" name="lbWage" id="lbWage">Per Mile<br><input type="checkbox" value="other" name="lbWage" id="lbWage">Other Wage Type<br><input type="checkbox" value="futuredraw" name="lbWage" id="lbWage">Draw on Future Comm<br></fieldset>
+                            <fieldset><input type="checkbox" value="salary" name="lbWage" id="lbWage">Annual Salary<br><input type="checkbox" value="hourly" name="lbWage" id="lbWage">Hourly Wage<br><input type="checkbox" value="commsal" name="lbWage" id="lbWage">Salary Plus Commission<br><input type="checkbox" value="commdraw" name="lbWage" id="lbWage">Draw Plus Commission<br><input type="checkbox" value="commission" name="lbWage" id="lbWage">Commission Only<br><input type="checkbox" value="volunteer" name="lbWage" id="lbWage">Volunteer<br><input type="checkbox" value="subcont" name="lbWage" id="lbWage">Contract<br><input type="checkbox" value="perdiem" name="lbWage" id="lbWage">Per Diem<br><input type="checkbox" value="permile" name="lbWage" id="lbWage">Per Mile<br><input type="checkbox" value="other" name="lbWage" id="lbWage">Other Wage Type<br><input type="checkbox" value="futuredraw" name="lbWage" id="lbWage">Draw on Future Comm<br><input type="checkbox" value="unspec" name="lbWage" id="lbWage">Unspecified<br></fieldset>
                         </td>
                         <td style="vertical-align:top;">
                             <span style="font-weight:bold;">Job Durations:</span><br>
-                            <fieldset><input type="checkbox" value="intern" name="lbDuration" id="lbDuration">Internship<br><input type="checkbox" value="perm" name="lbDuration" id="lbDuration">Regular<br><input type="checkbox" value="schoolyear" name="lbDuration" id="lbDuration">School Year<br><input type="checkbox" value="seasonal" name="lbDuration" id="lbDuration">Seasonal<br><input type="checkbox" value="domestic" name="lbDuration" id="lbDuration">Services - Domestic<br><input type="checkbox" value="templt" name="lbDuration" id="lbDuration">Temp<br><input type="checkbox" value="tempperm" name="lbDuration" id="lbDuration">Temp to Hire<br><input type="checkbox" value="medtrials" name="lbDuration" id="lbDuration">Trials - Medical, Clinical<br><input type="checkbox" value="volunteer" name="lbDuration" id="lbDuration">Volunteer<br></fieldset>
+                            <fieldset><input type="checkbox" value="intern" name="lbDuration" id="lbDuration">Internship<br><input type="checkbox" value="perm" name="lbDuration" id="lbDuration">Regular<br><input type="checkbox" value="schoolyear" name="lbDuration" id="lbDuration">School Year<br><input type="checkbox" value="seasonal" name="lbDuration" id="lbDuration">Seasonal<br><input type="checkbox" value="domestic" name="lbDuration" id="lbDuration">Services - Domestic<br><input type="checkbox" value="templt" name="lbDuration" id="lbDuration">Temp<br><input type="checkbox" value="tempperm" name="lbDuration" id="lbDuration">Temp to Hire<br><input type="checkbox" value="medtrials" name="lbDuration" id="lbDuration">Trials - Medical, Clinical<br><input type="checkbox" value="unspec" name="lbDuration" id="lbDuration">Unspecified<br><input type="checkbox" value="volunteer" name="lbDuration" id="lbDuration">Volunteer<br></fieldset>
                         </td>
                         <td style="vertical-align:top;">
                             <span style="font-weight:bold;">Job Types:</span><br>
-                            <fieldset><input type="checkbox" value="contract" name="lbFte" id="lbFte">Contract<br><input type="checkbox" value="full" name="lbFte" id="lbFte">Full Time<br><input type="checkbox" value="part" name="lbFte" id="lbFte">Part Time - All<br><input type="checkbox" value="partlt20" name="lbFte" id="lbFte">Part Time - less than 20 hours<br><input type="checkbox" value="perdiem" name="lbFte" id="lbFte">Per Diem<br></fieldset>
+                            <fieldset><input type="checkbox" value="contract" name="lbFte" id="lbFte">Contract<br><input type="checkbox" value="full" name="lbFte" id="lbFte">Full Time<br><input type="checkbox" value="part" name="lbFte" id="lbFte">Part Time - All<br><input type="checkbox" value="partlt20" name="lbFte" id="lbFte">Part Time - less than 20 hours<br><input type="checkbox" value="perdiem" name="lbFte" id="lbFte">Per Diem<br><input type="checkbox" value="unspec" name="lbFte" id="lbFte">Unspecified<br></fieldset>
                         </td>
                     </tr>
                     <tr>
@@ -838,16 +1036,16 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
         
     </div>
     <br>
-        <a href="#" onclick="submitAdvancedSearch();"><img src="/media/graphics/buttons/Search/Search_button-20h.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="hideAdvancedSearch();"><img src="/media/graphics/buttons/Cancel/Cancel_button-20h.png" border="0"></a>
+        <a onclick="submitAdvancedSearch();"><img src="/media/graphics/buttons/Search/Search_button-20h.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="hideAdvancedSearch();"><img src="/media/graphics/buttons/Cancel/Cancel_button-20h.png" border="0"></a>
     </center>
     </td>
         </tr>
         <tr style="padding:0px;margin:0px;">
-            <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;" "="">
+            <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;">
                 <img src="/media/graphics/corners/white_corners-BL-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:bottom;">
             </td>
-            <td style="width:584px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;" "=""></td>
-            <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;" "="">
+            <td style="width:584px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;"></td>
+            <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;">
                 <img src="/media/graphics/corners/white_corners-BR-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:bottom;">
             </td>
         </tr>
@@ -865,11 +1063,11 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 	 <div id="companySearchWrapper">
 	 <table style="padding:0px;margin:0px;" cellpadding="0" cellspacing="0" border="0">
         <tbody><tr style="padding:0px;margin:0px;">
-        <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;" "="">
+        <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;">
                 <img src="/media/graphics/corners/white_corners-TL-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:top;">
         </td>
-        <td style="width:484px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;" "="">&nbsp;</td>
-        <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;" "="">
+        <td style="width:484px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;">&nbsp;</td>
+        <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;">
                 <img src="/media/graphics/corners/white_corners-TR-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:top;">
         </td>
     </tr>
@@ -909,8 +1107,18 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 	 </div>
 
     <center>
-    <div id="contentBackground">
-        <div class="headerHeader" style="background:#FFFFFF url(../media/graphics/background_images/site_header/site_header-background-ME.png) no-repeat;width:888;height:90;padding:0px;margin:0px;"> 
+    <div id="everything" style="position:relative;width:100%;">
+<div id="TestAdSpace" style="height:90px;width:728px;background-color:#FFFFFF;margin-top:0px;overflow:hidden;">
+
+    
+        <script>yld_mgr.place_ad_here("top_slot");</script>
+    
+</div>
+<a onclick="toggleTopAd();" onmouseover="overAdControlImage();" onmouseout="outAdControlImage();"><img src="/media/graphics/tabs/Hide_Show_Ads/Hide_Ads_tab-UN3-16h.png" style="position:relative;left:423px;margin-bottom:10px;" id="adControlImage"></a>
+	
+	
+    
+        <div class="headerHeader" style="background:url(../media/graphics/background_images/site_header/site_header-background-ME.png) no-repeat;width:908;height:90;padding:0px;margin:0px;">
         
         <a href="/home/home.aspx" id="homeLink">
             <div class="logoLink" id="logoLink" style="cursor:hand;"></div>
@@ -919,22 +1127,23 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
         <div class="userNav">
             
 	            <a href="/reguser/register.aspx" class="userNavLink">Register</a> | <a href="/reguser/login.aspx" class="userNavLink">Log In</a> | <a href="../misc/page.aspx?pagenum=13" class="userNavLink">Help</a>
-	    
 	        
         </div>
+		
         </div>
-        
+		
+        <div id="contentBackground">
             <table class="searchBar">
                 <tbody><tr>
                 <td>
                 <form action="../seek/searchJobs.aspx" method="post" name="searchForm" id="searchForm" class="searchForm">
                     &nbsp;&nbsp;<img src="/media/graphics/icons/16x16/icon-search-wht.png">
-                    <span class="formText"> Search Jobs for </span><input size="26" type="text" name="keywords" id="ssKeywords" value="Keywords" onfocus="clearKeywords();" onkeydown="checkEnter(event)" onmouseover="Tip('<ul><li>Separate keywords with a space or comma</li><li>Use variations such as: accounting, accountant</li><li>Check your spelling</li></ul>',TITLE,'Tips:')" onmouseout="UnTip()">
-                    <span class="formText"> within </span><select name="radius" id="ssRadius" width="30px" onkeydown="checkEnter(event)" onchange="checkEntireStateSelected(this)"><option value="5">5 mi</option><option value="10">10 mi</option><option value="15">15 mi</option><option value="25" selected="">25 mi</option><option value="50">50 mi</option><option value="75">75 mi</option><option value="100">100 mi</option><option value="0">Entire State</option></select>
-                    <span id="ssLocSpan" class="formText"> of </span><input type="text" name="location" id="ssLocation" size="15" value="City or Zip" onfocus="clearLocation()" onkeydown="checkEnter(event)">
-                    <input type="hidden" name="searchLogic" value="ANY">
+                    <span class="formText"> Search Jobs for </span><input size="26" type="text" name="keywords" id="ssKeywords" value="Keywords" onfocus="clearKeywords();" onkeydown="checkEnter(event)" onmouseover="Tip('<ul><li>Separate keywords with a space or comma</li><li>Use variations such as: accounting, accountant</li><li>Check your spelling</li></ul>',TITLE,'Tips:')" onmouseout="UnTip()" tabindex="1">
+                    <span class="formText"> within </span><select name="radius" id="ssRadius" width="30px" onkeydown="checkEnter(event)" onchange="checkEntireStateSelected(this)" tabindex="2"><option value="5">5 mi</option><option value="10">10 mi</option><option value="15">15 mi</option><option value="25" selected="">25 mi</option><option value="50">50 mi</option><option value="75">75 mi</option><option value="100">100 mi</option><option value="0">Entire State</option></select>
+                    <span id="ssLocSpan" class="formText"> of </span><input type="text" name="location" id="ssLocation" size="15" value="City or Zip" onfocus="clearLocation()" onkeydown="checkEnter(event)" tabindex="3">
+                    <input type="hidden" name="searchLogic" value="ANY" tabindex="4">
                     <input type="hidden" name="exLocationless" id="ssExLocationless" value="Y">
-                    &nbsp;<a onclick="submitSimpleSearch();"><img src="/media/graphics/buttons/Search/Search_button-20h.png" border="0" style="position:relative;top:4px;"></a>
+                    &nbsp;<a onclick="submitSimpleSearch();" onkeydown="checkEnter(event)" tabindex="5"><img src="/media/graphics/buttons/Search/Search_button-20h.png" border="0" style="position:relative;top:4px;"></a>
                 </form>
                 
                 </td>
@@ -979,10 +1188,17 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
                         </span>
                     </td>
                     <td width="388px" align="center">
-                        &nbsp;<span class="stats"><span class="stat" onmouseover="Tip(&quot;Total number of job openings <br \> (jobs can have multiple openings).&quot;)" onmouseout="UnTip()">5801</span> Job Openings <span class="stat" onmouseover="Tip(&quot;Total number of active companies.&quot;)" onmouseout="UnTip()">2326</span> Companies <span class="stat" onmouseover="Tip(&quot;Total number of active resumes.&quot;)" onmouseout="UnTip()">32793</span> Resumes  </span>
+                        &nbsp;<span class="stats"><span class="stat" onmouseover="Tip(&quot;Total number of job openings <br \> (jobs can have multiple openings).&quot;)" onmouseout="UnTip()">7442</span> Job Openings <span class="stat" onmouseover="Tip(&quot;Total number of active companies.&quot;)" onmouseout="UnTip()">2547</span> Companies <span class="stat" onmouseover="Tip(&quot;Total number of active resumes.&quot;)" onmouseout="UnTip()">32514</span> Resumes  </span>
                     </td>
                     <td width="180px" align="right" style="padding-top:3px;">
                     
+                    
+                         
+                        <img src="http://www.socialfollow.com/button/image/?b=2106" class="socialFollowImage" alt="Follow Us">
+                        <script type="text/javascript" src="http://www.socialfollow.com/button/?b=2106"></script>
+                        
+                        &nbsp;
+                        
                     
                     
                     </td>
@@ -1109,6 +1325,7 @@ For recruiters and hiring authorities, access to this unique database provides a
     JobsInME.com: How Maine Gets to Work.
     <br><br>
     <br>
+    </div>
     </div>
     </center>
     
