@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the workathomecoach.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211131842id_/http%3A//www.workathomecoach.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathomecoach.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623231100id_/http%3A//www.workathomecoach.com/privacy.cgi) for the most accurate reproduction.*
 
 # Work At Home Coach - Privacy Policy
 
   
 We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
-
-If you're looking for the short version, we do not sell your user data to any 3rd-parties.
 
 If you want to opt-out of email communications from WorkAtHomeCoach.com, cancel your account, or need to contact us for any other privacy related issue you may do so in the following ways:
 
@@ -13,7 +11,7 @@ If you want to opt-out of email communications from WorkAtHomeCoach.com, cancel 
   
 2\. Website: [http://www.workathomecoach.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
   
-3\. Postal Mail: 93 S Jackson St. Suite 65164, Seattle, WA 98104  
+3\. Postal Mail: WorkAtHomeCoach.com, LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
   
 4\. Telephone: (206)452-5657
 
@@ -96,7 +94,7 @@ Please note however that even if you opt-out, you may still receive important an
   
 2\. Website: [http://www.workathomecoach.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
   
-3\. Postal Mail: 93 S Jackson St. Suite 65164, Seattle, WA 98104  
+3\. Postal Mail: WorkAtHomeCoach.com, LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
   
 4\. Telephone: (206)452-5657
 
@@ -120,4 +118,4 @@ By using this website, you consent to the collection and use of the information 
 
 If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above.
 
-This Privacy Policy was last updated October 22nd, 2009.
+This Privacy Policy was last updated October 23rd, 2010.
