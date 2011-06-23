@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231111801id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623115851id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
 
-# Terms - AnandTech :: Your Source for Hardware Analysis and News
+# AnandTech - Terms
 
 Privacy Policy of AnandTech, Inc.
 
@@ -27,3 +27,19 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+Latest from AnandTech
+
+[@JGallo02](http://twitter.com/JGallo02) awesome :) enjoy it! we're giving away two of them on the site next month, they really are great Honeycomb tablets for the price
+
+[@JGallo02](http://twitter.com/JGallo02) the updated firmware makes such a big difference, did you get it with the dock?
+
+[@JGallo02](http://twitter.com/JGallo02) yeah I was disappointed in it, overall the Eee Pad is great though. The Transformer 2 should be even better...
+
+[@JGallo02](http://twitter.com/JGallo02) we covered that in our review :-P <http://bit.ly/iB3ek8> it's actually trace-input by Nuance, similar to Swype but not as good imho
+
+[@jasonjoo](http://twitter.com/jasonjoo) most of them stay here and are used for further testing until they stop being useful
+
+Looks like it'll be this evening on those two reviews (still need some clarification on the BSOD situation from OCZ)
+
+Coming later today that is
