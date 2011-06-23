@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelife.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920024722id_/http%3A//freelife.com/info/meservices/businesscenter/documentsandforms/FL_PrivacyPolicy_USA.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelife.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624000703id_/http%3A//freelife.com/pdf/privacy_policy_US_EN.pdf) for the most accurate reproduction.*
 
 # FreeLife Privacy Policies
 
@@ -7,46 +7,10 @@ This Privacy Policy applies to the activities of FreeLife International, Inc. We
 the trust you place in FreeLife, and we are committed to respecting your privacy and the
 security of your personal information. Our privacy policy describes the information we
 collect and how we use it.
-Information We Collect
-To best serve your needs, we will, from time to time, collect certain information from
-you. We will only collect information where it is necessary to perform our services. The
-information we collect may include, your name, address, telephone number, email
-address, corporate information, testimonials, credit card information, date of birth, your
-sales history with us and other information we may request from you from time to time.
-Personal information will be collected at various times including, if you:
-    •   Apply to become a Marketing Executive
-    •   Register as a Customer
-    •   Order or reorder products by telephone or on our website
-    •   Write an e-mail or letter to FreeLife
-    •   Sign up for the Advantage Customer Program
-    •   Submit a testimonial to FreeLife
-    •   Return an item or make an exchange
-    •   Attend a FreeLife Event
-    •   Participate in a marketing survey, promotion or event
-    •   Contact our Customer Service department
-    •   Navigate the website
-    •   Register on our websites
-    •   Request information about your FreeLife business
-Using Information We Collect
-We want to provide you with the best possible internet experience and fulfill your orders
-exactly as you've requested. In order to do this, we will only use your information to,
-provide our services including, without limitation, to:
-    •   Process your order
-    •   Provide the products and services you request
-    •   Send you promotional offers
-    •   Identify your product and service preferences
-    •   Customize our communications to you
-    •   Provide information concerning products you have purchased
-    •   Provide information about your FreeLife business
-    •   Improve our product selection and customer service
-    •   Share your positive product testimonials with others
-                                           -1-
-
-
-    •    Include your name, stories, testimonials and images in FreeLife publications and
-         literature or other media, on FreeLife operated websites, at FreeLife events, on
-         FreeLife CDs and DVDs, in any other FreeLife communications to our Marketing
-         Executives or others, or as otherwise deemed useful or appropriate by FreeLife.
+Your Consent
+By using FreeLife website facilities and/or continuing to order products and services by
+facsimile or telephone, you consent to the collection and use of your personal information
+as detailed in this privacy policy.
 Information We Share with Others and Your Privacy Rights
 We contract with other companies to provide certain services, including without
 limitation, credit card processing, IT consulting, printing, shipping, internet services, e-
@@ -62,6 +26,49 @@ We do not provide information to these agencies or companies for marketing or
 commercial purposes.
 Your information may also be disclosed to FreeLife's related businesses and to any actual
 or potential successor to any of these businesses.
+Information We Collect
+To best serve your needs, we will, from time to time, collect certain information from
+you. We will only collect information where it is necessary to perform our services. The
+information we collect may include, your name, address, telephone number, email
+address, social security number, corporate information, including the entity’s tax id
+number, credit card information, date of birth, testimonials, your sales history with us,
+and other information we may request from you from time to time. Personal information
+will be collected at various times including, if you:
+         Apply to become a Marketing Executive
+         Register as a Customer
+         Order or reorder products by telephone or on our website
+         Write an e-mail or letter to FreeLife
+                                            -1-
+
+
+       Sign up for the Advantage Customer Program
+       Submit a testimonial to FreeLife
+       Return an item or make an exchange
+       Attend a FreeLife Event
+       Participate in a marketing survey, promotion or event
+       Contact our Customer Service department
+       Navigate the website
+       Register on our websites
+       Request information about your FreeLife business
+Using Information We Collect
+We want to provide you with the best possible internet experience and fulfill your orders
+exactly as you've requested. In order to do this, we will only use your information to,
+provide our services including, without limitation, to:
+       Process your order
+       Provide the products and services you request
+       Send you promotional offers
+       Identify your product and service preferences
+       Customize our communications to you
+       Issue commission payments
+       Provide information concerning products you have purchased
+       Provide information about your FreeLife business, including, but not limited to,
+       issuing 1099 forms on an annual basis
+       Improve our product selection and customer service
+       Share your positive product testimonials with others
+       Include your name, stories, testimonials and images in FreeLife publications and
+       literature or other media, on FreeLife operated websites, at FreeLife events, on
+       FreeLife CDs and DVDs, in any other FreeLife communications to our Marketing
+       Executives or others, or as otherwise deemed useful or appropriate by FreeLife.
 Cookies
 FreeLife uses cookies on our websites. A cookie is a small data file that is stored by your
 web browser on your computer. Cookies allow us to enhance, personalize, and track your
@@ -73,21 +80,21 @@ How We Use Email
 When you provide us your email address, you may receive emails from us. E-mails may
 be sent in order to assist us in processing your order, respond to a request, provide
 customer service or inform you about products, services or promotional materials. It is
+                                          -2-
+
+
 our intent to send promotional e-mails only to those persons who wish to receive them.
 We provide instructions on how to unsubscribe in our e-mails. Marketing Executives
 during the term of their agreement with FreeLife will not be allowed to unsubscribe to
 certain transactional e-mails, e.g., ship confirmation e-mails.
 Links to Other Sites
-                                            -2-
-
-
 We may provide links on our websites to other sites. These sites operate independently of
 FreeLife and have established their own privacy and security policies. We encourage you
 to review these policies at any site you visit.
 Updating or Reviewing Your Information
 You may review or update your Marketing Executive and Customer information (name,
-address, telephone number, e-mail address, credit card number, etc.) by clicking on “My
-FreeLife Account” on www.freelife.com or calling Customer Service.
+address, telephone number, e-mail address, credit card number, etc.) by clicking on “Go
+To My FreeLife Office” on www.freelife.com or calling Customer Service.
 Other personal information can be accessed and amended by contacting our privacy
 officer at privacy@freelife.com.
 Password and log-in security
@@ -107,19 +114,15 @@ equipment outside of the United States.
 Privacy of Children on Our Web Site
 Our Web site is not intended for use by anyone under the age of 18. We do not
 knowingly collect personal information from persons under the age of 18
+                                            -3-
+
+
 Policy Changes
 From time to time, we may use Marketing Executive or Customer information for
 unanticipated uses not previously disclosed in our privacy notice. If our information
 practices change, we will post these changes in our website. We encourage you to review
 our privacy policy periodically
-                                           -3-
-
-
-Your Consent
-By using FreeLife website facilities and/or continuing to order products and services by
-facsimile or telephone, you consent to the collection and use of your personal information
-as detailed in this privacy policy.
 Contact Us
 We always welcome your questions and feedback. For privacy-related issues, please
 contact us at privacy@freelife.com
-                                          -4-
+                                         -4-
