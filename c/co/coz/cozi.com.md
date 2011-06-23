@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229004300id_/http%3A//www.cozi.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozi.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623070950id_/http%3A//www.cozi.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Cozi
 
-Cozi is strongly committed to the privacy of all its users. We understand you value your family's privacy and we do too. We want you to always be confident that your Cozi experience is safe and secure. If you have any additional privacy or security questions after reading this information, please [contact us](https://web.archive.org/Contact-Us-Form.htm).
+Cozi is strongly committed to the privacy of all its users. We understand you value your family's privacy and we do too. We want you to always be confident that your Cozi experience is safe and secure. If you have any additional privacy or security questions after reading this information, please **[contact us](mailto:privacy@cozi.com)**.
 
 ## **What kind of information does Cozi collect from me and what does Cozi do with it?**
 
 Cozi collects five different types of information from you when you use the Cozi service, website or software.
 
-  1. _Personally Identifiable Information._ Cozi is a personalized service and therefore we collect personally identifiable information from you. Personally identifiable information means any information that may be used to identify you, including, but not limited to, your name and email address. You provide us with this personally identifiable information voluntarily through optional submissions, such as registration forms and login pages. For example, to create an account with us and use Cozi, you are asked to submit some basic registration information including a valid e-mail address and password. Also, you may choose to provide us with similar personally identifiable information about additional family members to enable others in your family to use your Cozi account. We use this personally identifiable information to identify each authorized user, provide and improve our services, customize your user experience, secure your account and prevent fraud. We also use your email address to communicate with you about Cozi's products and services, but you may choose to opt out of these mailings at any time.
+  1. _Personally Identifiable Information._ Cozi is a personalized service and therefore we collect personally identifiable information from you. Personally identifiable information means any information that may be used to identify you, including, but not limited to, your name and email address. You provide us with this personally identifiable information voluntarily through optional submissions, such as registration forms and login pages. For example, to create an account with us and use Cozi, you are asked to submit some basic registration information including a valid email address and password. Also, you may choose to provide us with similar personally identifiable information about additional family members to enable others in your family to use your Cozi account. We use this personally identifiable information to identify each authorized user, provide and improve our services, customize your user experience, secure your account and prevent fraud. We also use your email address to communicate with you about Cozi's products and services, but you may choose to opt out of these mailings at any time.
 
 WE DO NOT SHARE PERSONALLY IDENTIFIABLE INFORMATION WITH THIRD PARTIES. The only exception is if you have specifically signed up to use a Partner Edition of our software or service (see below), or when we believe we are required to do so by law. 
 
-  2. _Partner Edition._ A Partner Edition is a version of our software or service that we have specially developed with a trusted Cozi business partner. The Partner Edition is specifically identified as a "Partner Edition" during the registration process. If you are using a Partner Edition, you will also see either (a) the following label: "Cozi * [Name of Partner] Edition" in the upper left corner of the software window or web browser when you are using the Cozi service or (b) a designation on the "Settings" page of your account. If you are unsure whether you are registered on a Partner Edition, please [contact us](https://web.archive.org/Contact-Us-Form.htm) and we will be happy to let you know. If you register for Cozi on a Partner Edition, we do not consider the business partner to be a third party under this policy, and we may share your personally identifiable information with only that business partner. The partner will abide by this Privacy Policy with respect to your information. Neither Cozi nor the partner will share your personally identifiable information with any other third parties for marketing purposes. We recommend that you also review our business partner's Privacy Policy found at their website for more information regarding their privacy practices. 
+  2. _Partner Edition._ A Partner Edition is a version of our software or service that we have specially developed with a trusted Cozi business partner. The Partner Edition is specifically identified as a "Partner Edition" during the registration process. If you are using a Partner Edition, you will also see either (a) the following label: "Cozi * [Name of Partner] Edition" in the upper left corner of the software window or web browser when you are using the Cozi service or (b) a designation on the "Settings" page of your account. If you are unsure whether you are registered on a Partner Edition, please [contact us](mailto:privacy@cozi.com) and we will be happy to let you know. If you register for Cozi on a Partner Edition, we do not consider the business partner to be a third party under this policy, and we may share your personally identifiable information with only that business partner. The partner will abide by this Privacy Policy with respect to your information. Neither Cozi nor the partner will share your personally identifiable information with any other third parties for marketing purposes. We recommend that you also review our business partner's Privacy Policy found at their website for more information regarding their privacy practices. 
   3. _Private Content._ Private content includes your family's personal information that you voluntarily submit and Cozi collects to help you organize and manage your life and share with family. Private content includes calendar entries, shopping list items, family help, family journal entries, photos and other similar private information. Because you input private content into your own secured account, this private content is accessible only to you and other family members who have the password to your account. WE DO NOT SHARE PRIVATE CONTENT WITH ANY THIRD PARTY. The Cozi service includes relevant advertising and related links that may be based on the private content you have added to your account. We may provide third parties, such as advertisers, aggregated non-personally identifying information from your private content, so that they may deliver relevant advertising to you. 
-  4. _Public Content._ Public content includes any information you submit to Cozi outside of your secured account. For example, you may voluntarily provide information about yourself when you participate in a Cozi sponsored public contests, message boards, blogs, or other community features that are accessible by general visitors and other users. This information is public content because people do not need a password to access or view this content on our site. This public content (including photographs and videos) that you choose to post outside of your secured account is not private. 
-  5. _Non-Personally Identifiable Information._ Cozi collects non-personally identifiable information from you as you use the Cozi software and service. Similar to other web services, Cozi automatically records information based on your account activity and use of our site. We do this to improve our service, and to customize content and advertising. In doing so, we collect the following four types of non-personally identifiable information, which we may share with third parties that help us operate the Cozi service or software, such as advertisers, ad serving vendors, and business partners. 
+  4. _Public Content._ Public content includes any information you submit to Cozi outside of your secured account. For example, you may voluntarily provide information about yourself when you participate in Cozi sponsored public contests, message boards, blogs, or other community features that are accessible by general visitors and other users. This information is public content because people do not need a password to access or view this content on our site. This public content (including photographs and videos) that you choose to post outside of your secured account is not private. 
+  5. _Non-Personally Identifiable Information._ Cozi collects non-personally identifiable information from you as you use the Cozi software and service. Similar to other web services, Cozi automatically records information based on your account activity and use of our site or services. We do this to improve our service, and to customize content and advertising. In doing so, we collect the following five types of non-personally identifiable information, which we may share with third parties that help us operate the Cozi service or software, such as advertisers, ad serving vendors, and business partners. 
 
 
   * _Aggregated Data._ Cozi collects user information and content (including private content) in the aggregate as you use our site and services to analyze our overall user demographics and usage patterns. Aggregate data does not contain any personally identifiable information. 
@@ -44,7 +44,7 @@ As a Cozi user, you will have the opportunity to review and modify your personal
 
 ## **What if I live outside of the United States?**
 
-Cozi's site and services are hosted in the United States. If you are visiting our website from outside the United States, you are transferring your personal data into the United States when you use the Cozi service. Many regions, such as the European Union, have data collection protections that differ from U.S. law.
+Cozi's site and services are hosted in the United States. If you are visiting our website from outside the United States, you are transferring your personal data into the United States when you use the Cozi service. Many regions, such as the European Union, have data collection protections that differ from U.S. law. If you are an European Union citizen, please see also the section entitled "BBB European Union Safe Harbor Program" for further information.
 
 ## **How does Cozi maintain security?**
 
@@ -52,7 +52,7 @@ Cozi is strongly committed to protecting your information. Cozi uses several ind
 
 ## **What happens if I want to forward my Cozi information to a friend?**
 
-_Invitations._ If you expressly request that we forward or share information from your account to someone outside of your account, with your permission, we will send one e-mail invitation to your friend's e-mail address as you provided it to us. We will not separately store the e-mail address after we have sent the one time e-mail invitation.
+_Invitations._ If you expressly request that we forward or share information from your account to someone outside of your account, with your permission, we will send one email invitation to your friend's email address as you provided it to us. We will not separately store the email address after we have sent the one time email invitation.
 
 _Sharing Content._ If you use one of the helpful Cozi features designed to allow you to voluntarily forward or share your information or content (including your private content) with family or friends outside of your secure account, you automatically limit Cozi's ability to keep your content private. We recommend that you do this only with trusted friends and family.
 
@@ -62,17 +62,35 @@ We may occasionally update this privacy policy. When we do, we will also revise 
 
 ## **How do I contact Cozi?**
 
-If you have any questions, comments, or concerns about this Privacy Policy, please [contact us](https://web.archive.org/Contact-Us-Form.htm).
+If you have any questions, comments, or concerns about this Privacy Policy, please **[contact us](mailto:privacy@cozi.com)**.
 
 Postal Mail Address:
 
 **Cozi Group, Inc.**  
 506 2nd Avenue, Suite 710  
-Seattle, WA 98104-2328  
+Seattle, WA 98104-2328 USA  
 Attention: Privacy Officer
 
-## **BBB OnLine Privacy Program**
+## **BBB European Union Safe Harbor Program**
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at www.bbbonline.org All BBBOnLine Privacy Program participants are required to work with the program's dispute resolution process. The Privacy Program will only accept complaints regarding the misuse of personally identifiable information by a website operator. For more information about the Privacy Program dispute resolution process visit [www.bbbonline.org/privacy/dr.asp](http://www.bbbonline.org/privacy/dr.asp).
+Cozi complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Cozi has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
-[Last Updated: 5/13/2009]
+In compliance with the Safe Harbor Principles, Cozi commits to resolve complaints about your privacy and our collection or use of your personal information.
+
+European Union citizens with inquiries or complaints regarding this privacy policy should first contact Cozi at:
+
+**Cozi Group, Inc.**  
+506 2nd Avenue, Suite 710  
+Seattle, WA 98104-2328 USA   
+Attention: Privacy Officer
+
+Cozi has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Cozi, you may contact the BBB EU SAFE HARBOR program at the address below:
+
+Council of Better Business Bureaus, Inc.  
+BBB EU SAFE HARBOR  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203 USA  
+Phone: 703-276-0100  
+Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
+
+[Last Updated: 3/3/2011]
