@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204203630id_/http%3A//www.reverbnation.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623042233id_/http%3A//www.reverbnation.com/main/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
 
