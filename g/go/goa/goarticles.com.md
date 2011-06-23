@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goarticles.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124224941id_/http%3A//www.goarticles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goarticles.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623034232id_/http%3A//goarticles.com/privacy.html) for the most accurate reproduction.*
 
 # GoArticles Privacy Statement - The Web's Largest Free Article Directory
 
@@ -28,15 +28,11 @@ GoArticles collects minimal personal information when you request or submit an a
 
 ### Information Use
 
-If you are GoArticles Author member, your use of our service constitutes a business relationship wherein we provide a promotion service for your article(s). In exchange, GoArticles reserves the right to use the contact information collected during member registration to deliver notices regarding changes or updates to our service, to provide a free newsletter, to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers.
+If you are GoArticles Author member, your use of our service constitutes a business relationship wherein we provide a promotion service for your article(s). In exchange, GoArticles reserves the right to use the contact information collected during member registration to deliver notices regarding changes or updates to our service, to provide a free newsletter, to inform you of additions to GoArticles, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers.
 
 You may remove yourself from any or all of our mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings. Should you encounter problems in this regard, contact us [here](https://web.archive.org/contact/?contact_form=info). 
 
 Spam complaints will result in membership termination. 
-
-### Cookies
-
-At this time, Cookies are not used on the GoArticles site.
 
 ### Changes to this Privacy Policy
 
