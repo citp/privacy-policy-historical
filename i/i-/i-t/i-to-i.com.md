@@ -1,47 +1,65 @@
-> *The following text is extracted and transformed from the i-to-i.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231191849id_/http%3A//www.i-to-i.com/about-i2i/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-to-i.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624002322id_/http%3A//www.i-to-i.com/about-i2i/policy/privacy.html) for the most accurate reproduction.*
 
 # i-to-i privacy policy
 
-In this Information Age, you need to know how information about you is gathered and used on the Internet. At i-to-i, we take your privacy seriously and do all we can to protect it. This Privacy Policy explains how we collect and use information about you as you utilize i-to-i and i-to-i partner sites. Our Privacy Policy is subject to change, so we encourage you to visit this page occasionally for more information. 
+i-to-i UK Ltd and Real Travel Ltd trading as i-to-i Travel’s Privacy Policy sets out what information we collect, how we collect it, and what we do with it. 
 
-## Why we collect personal information 
+## Information About You
 
-First and foremost, i-to-i collects personal information to personalize your experience with our site. The more we know about you, the more we can present you with information and features that will interest you. 
+### Your Information
 
-We also use user information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate they site. By collecting information, we can also see the number of entries in i-to-i promotions and contents. The information we collect enables us to contact users with offers and advertisements that may appeal to them. At times, we may also use the information we collect to notify users of site updates and to promote special events at i-to-i. 
+This refers to information such as your name, contact details, travel preferences and special needs/disabilities/dietary requirements that you supply us or is supplied to us, including any information about other persons on your booking (“your information”). Your information is collected when you request information from us, contact us (and vice versa) or make a booking. You are responsible for ensuring that other members of your party are aware of the content of our Privacy Policy and consent to your acting on their behalf in all your dealings with us.
 
-## How we gather data on i-to-i users
+We will update your information whenever we can to keep it current, accurate and complete.
 
-Sometimes, we simply ask you to provide your name, e-mail address, post code, and country. Whenever you give this kind of information, it helps us to tailor our content for you. 
+### Our Use of Your Information
 
-At other times – such as when you buy i-Ventures or TEFL courses, enter i-to-i promotions, or answer surveys on our site – we may ask for more detailed personal information. For instance, when you make a purchase through i-to-i, we collect your billing address, telephone number, credit card information, and other information necessary to complete the transaction. 
+(1) For the purpose of providing you with our services, including your flight, tour, programme or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be **mandatory** (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate.
 
-Wherever we ask you for personal information, we include a link to this Privacy Policy for your review. 
+(2) We may collect and process your information for the purposes set out in our registration with the Office of the Information Commissioner, and disclose the same to our group companies (which will include, without limitation, Real Travel Limited) for business purposes and also to companies who act as “data processors” on our behalf, or to our service providers operating systems or business functions on our behalf (some of whom are located outside the UK/EEA). These business purposes include administration, providing services (and contacting you where necessary), customer care, service quality, business management and operation, re-organisation/structuring/sale of our business (or group companies), risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, marketing, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection. 
 
-## Other companies’ access to your personal information
+(3) Information (such as health or religion) may be considered “sensitive personal data” under the Data Protection Act 1998. We collect it to cater to your needs or act in your interest, and we are only prepared to accept sensitive personal data on the condition that we have your **positive consent**. By booking with us you also agree for your insurers, their agents and medical staff to disclose **relevant** information and  sensitive personal data to us in circumstances where we need to act on your behalf or in the interest of passengers or in an emergency. 
 
-i-to-i does not sell, rent or trade user information to other companies, unless otherwise stated. Our site may link to sites that collect personally identifiable information about you when you access them from i-to-i. This type of collection or use of personal information is beyond i-to-i’s control and is not covered by this Privacy Policy. 
+_If you do not agree to Our Use of Your Information above, we cannot do business with you or accept your booking._
 
-We may occasionally need to share your information with business partners who co-sponsor competitions or other services. In these cases, we will provide only the data that is needed to make the service or contest successful, but will remain i-to-i’s sole property. If you do not want i-to-i to share your information, simply choose not to allow the transfer by not using or signing up for the competition in question. 
+### Direct Marketing Material
 
-We may also share your information with partners with whom we have co-branded sites and co-branded data collection. 
+(1) We may from time to time contact you with information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. Our websites will assume you to agree to e-communications when you make a booking. 
 
-Lastly, when you purchase an item through our online shop or sign up to receive promotional items from us, we may need to share some personal information with the third parties helping us to complete your transaction or send you the items you have requested. When we share your information with such third parties, we will disclose only the information needed to complete your transaction. 
+(2) You may indicate your preference regarding receiving third party direct marketing material.
 
-## Security
+(3) If do not wish to receive such information or would like to change your preference, please refer to point (2) of “Your Rights” below. 
 
-i-to-i stores all data behind carefully selected security devices, such as firewalls. All internal communication with the system and communication of private member data, such as credit card information, is transmitted using encrypted protocols. Once the transaction is complete, the card details are not stored. Policies related to staff access to private member data are in place. All data is held in the strictest confidence, protected by the strictest security standards. 
+### Your Rights
 
-## Corrections and updates
+(1) On completing our Data Subject Access Request form, you are entitled to a copy of the information we hold about you (for a £10 fee) and to correct any inaccuracies. 
 
-This site gives users the following options for changing and modifying information previously provided. Users can email [support@i-to-i.com](mailto:support@i-to-i.com?subject=Privacy%20Policy).
+(2) You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference on our website(s), use our “unsubscribe email” or refer to our literature containing instructions. Once properly notified by you, we will take steps to stop using your information in this way.
 
-Users can send mail to the following postal address: Woodside House 261 Low Lane Leeds LS18 5NY, UK or call the following telephone number: +44 (0) 870 333 2332. 
+(3) For a list of our group companies or brands, please send us your request.   
+Please write to i-to-i UK Limited, Legal Department, TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex RH10 9QL.
 
-## Your agreement to this privacy policy 
+### Foreign Controls
 
-By using i-to-i, you indicate that you agree to the collection and use of your personal information by i-to-i as outlined in this Privacy Policy. 
+Outside the European Economic Area (EEA), note that controls on data protection in such countries may not be as strong as the legal requirements in this country.
 
-## Changes to this privacy policy 
+## Use of Tools/"Cookies" and Links to Other Websites
 
-We reiterate that our Privacy Policy changes from time to time. Be sure to visit this page occasionally to find any updates we have made. We are committed to post Privacy Policy changes on this page so consumers can be sure of how i-to-i is gathering and using information about them. 
+If our contact and dealing with you is via our website(s), we may use “cookies”. Cookies allow us to identify your computer but not you personally. You can set your web browser to refuse cookies. However, you may not be able to enjoy all the facilities or book via our website if you do so.  
+However, if you also receive our email marketing, we will tailor the information we send you unless to tell us not to. This means we may use information we hold and cookies to identify your individual web site search behaviour and preferences. This will enable us to send you more personalised and relevant communications. You will be given the opportunity on every communication to opt-out of this personalisation.  
+We collect information relating to customer trends and patterns and use cookies and software tools to measure site usage and related information. If you are making a purchase, we may also use cookies to keep track of the transaction from one web page to another.   
+Our website(s) may contain links to other sites not controlled by us. It is your responsibility to check the status of these sites.
+
+## Monitoring 
+
+To ensure that we carry out your instructions accurately, improve our service and for security, we may monitor and/or record: (1) telephone calls; (2) activities using CCTV in and around our premises; and (3) transactions and activities on our website. All recordings are and shall remain our sole property _._
+
+## Security Statement 
+
+We have taken all reasonable steps and have in place appropriate security measures to protect your information. 
+
+## Changes to this Policy
+
+Any changes to this Policy will be either posted on our website, brochure and/or made available on request. 
+
+Dated:  March 2011
