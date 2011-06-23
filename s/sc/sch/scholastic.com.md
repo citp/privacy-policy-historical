@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230124739id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623135019id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Scholastic.com | Privacy Notice
 
@@ -38,9 +38,11 @@ Remember to be smart online. Do not give out your full name, e-mail address, hom
 
 ### NON-PERSONALLY IDENTIFIABLE INFORMATION AND THE USE OF COOKIE TECHNOLOGY
 
-We collect non-personally identifiable information through the use of a software technology called "cookies," and through our visitors' voluntary submissions to us and/or upon our request. By non-personally identifiable information, we are referring to information about our visitors' browsers (e.g., Netscape Navigator or Internet Explorer), operating systems (e.g., Windows or Macintosh), Internet service providers (e.g., AOL or NET.COM) and other similar information which we track in aggregate form. We also collect the following non-personally identifiable information in connection with content submissions, games, classrooms, and bulletin boards: first name only and first initial of last name, state, age, and grade. The non-personally identifiable information that we track is anonymous and will never be identified with or lead us back to any of our visitors.
+We collect non-personally identifiable information through the use of a software technology called "cookies," through pixel tags, and through our visitors' voluntary submissions to us and/or upon our request. By non-personally identifiable information, we are referring to information about our visitors' browsers (e.g., Netscape Navigator or Internet Explorer), operating systems (e.g., Windows or Macintosh), Internet service providers (e.g., AOL or NET.COM) and other similar information which we track in aggregate form. We also collect the following non-personally identifiable information in connection with content submissions, games, classrooms, and bulletin boards: first name only and first initial of last name, state, age, and grade. The non-personally identifiable information that we track is anonymous and will never be identified with or lead us back to any of our visitors.
 
-Cookie technology helps us to know how many people visit us and where visitors go on our site. Cookies are small bits of information we send to your computer. Among other things, this non-personally identifiable information allows us to know which areas are favorites, which areas need a bit of improvement, or what technologies and Internet services are being used by our visitors so that we may continually improve our visitors' online experiences. 
+Cookie technology helps us to know how many people visit us and where visitors go on our site. Cookies are small bits of information we send to your computer. Pixel tags are very small graphic images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs". The site may also use cookies known as “Flash” cookies, which are stored on the hard drive of the user’s computer or device using the Adobe Flash media player that is installed on it. Among other things, the non-personally identifiable information collected through these means allows us to know which areas are favorites, which areas need a bit of improvement, or what technologies and Internet services are being used by our visitors so that we may continually improve our visitors' online experiences.
+
+Most web browsers give you a way to refuse or disable most cookies (but not Flash cookies). To refuse or disable Flash cookies, you must set the Flash player on your computer or device to reject or delete them. If you choose to disable, refuse, reject or delete cookies, some of the functionality of our site may no longer be available to you. 
 
 ### USE OF IP ADDRESSES
 
@@ -72,4 +74,4 @@ Scholastic.com is owned and operated by Scholastic Inc., 557 Broadway New York, 
 
 The effective date of this Privacy Policy is December, 1998.
 
-Most recently updated July, 2008.
+Most recently updated April, 2011.
