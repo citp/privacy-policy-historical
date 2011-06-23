@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getblackberry.info privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222161129id_/http%3A//www.getblackberry.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getblackberry.info privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024123id_/http%3A//www.getblackberry.info/privacy) for the most accurate reproduction.*
 
-# Privacy | Get Blackberry Info
+# Privacy | GetBlackBerry.info
 
 Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@getblackberry.info.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@getblackberry.info.
 
 At GetBlackBerry.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by GetBlackBerry.info and how it is used.
 
@@ -28,18 +28,3 @@ These third-party ad servers or ad networks use technology to the advertisements
 GetBlackBerry.info has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. GetBlackBerry.info privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-#### Incoming search terms for the article:
-
-  * [o2 co uk/getbb](http://www.getblackberry.info/privacy/ "o2 co uk/getbb")
-  * [02 co uk/getbb](http://www.getblackberry.info/privacy/ "02 co uk/getbb")
-  * [we cannot reach the facebook server at this time Please try again later (100)](http://www.getblackberry.info/privacy/ "we cannot reach the facebook server at this time Please try again later \(100\)")
-  * [we cannot reach facebook server at this time please try again later (100)](http://www.getblackberry.info/privacy/ "we cannot reach facebook server at this time please try again later \(100\)")
-  * [we can not reach the facebook server at this time please try again later (100)](http://www.getblackberry.info/privacy/ "we can not reach the facebook server at this time please try again later \(100\)")
-  * [we cannot reach the facebook server at this time Please try again later](http://www.getblackberry.info/privacy/ "we cannot reach the facebook server at this time Please try again later")
-  * [we cannot reach the facebook server at this time (100)](http://www.getblackberry.info/privacy/ "we cannot reach the facebook server at this time \(100\)")
-  * [we cannot reach the facebook server at this time](http://www.getblackberry.info/privacy/ "we cannot reach the facebook server at this time")
-  * [we cannot reach facebook server at this time](http://www.getblackberry.info/privacy/ "we cannot reach facebook server at this time")
-  * [we can not reach the facebook server at this time blackberry](http://www.getblackberry.info/privacy/ "we can not reach the facebook server at this time blackberry")
-
-
