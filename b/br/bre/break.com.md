@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the break.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225061304id_/http%3A//info.break.com/static/live/v1/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the break.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623053047id_/http%3A//info.break.com/break/html/privacy.html) for the most accurate reproduction.*
 
 # Break.com Privacy Policy
 
