@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekservice.net privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127121554id_/http%3A//seekservice.net%3Ftmp%3Dseekservice_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekservice.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023856id_/http%3A//seekservice.net%3Ftmp%3Dseekservice_privacy) for the most accurate reproduction.*
 
 # SeekService - Privacy Policy
 
