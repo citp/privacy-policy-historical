@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplehomebasedjobs.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222180715id_/http%3A//www.simplehomebasedjobs.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplehomebasedjobs.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623235152id_/http%3A//www.simplehomebasedjobs.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Home Based Online Jobs without investment or registration fee! | Typing jobs | Pay per click publisher programs | Work at home jobs | Online jobs without investment | Data entry jobs without investment
 
