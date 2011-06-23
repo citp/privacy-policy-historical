@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kake.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222161312id_/http%3A//www.kake.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kake.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023454id_/http%3A//www.kake.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
