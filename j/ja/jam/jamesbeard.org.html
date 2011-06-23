@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jamesbeard.org privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222161900id_/http%3A//jamesbeard.org/index.php%3Fq%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jamesbeard.org privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623205517id_/http%3A//jamesbeard.org/index.php%3Fq%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head>
 <meta name="AUTHOR" content="The James Beard Foundation.">
@@ -45,6 +45,7 @@
 <style type="text/css" media="all">@import "/sites/all/modules/adevents/css/display.css";</style>
 <style type="text/css" media="all">@import "/sites/all/themes/jb/style.css";</style>
 <style type="text/css" media="all">@import "/sites/all/modules/jbcart/jbcart.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/jb/assets/css/mainmenu.css";</style>
 <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jb_helper/js/jquery-1.2.6.min.js"></script>
@@ -52,6 +53,7 @@
 <script type="text/javascript" src="/sites/all/modules/jb_helper/js/jquery.mousewheel.min.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jb_helper/js/jScrollPane.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jb_helper/js/init.js"></script>
+<script type="text/javascript" defer="defer" src="/sites/all/modules/custom/membership/membership.js"></script>
 <script type="text/javascript" src="/sites/all/modules/extlink/extlink.js"></script>
 <script type="text/javascript" src="/sites/all/modules/jquery_update/compat.js"></script>
 <script type="text/javascript">Drupal.extend({ settings: { "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1, "mailtoClass": 0 }, "base_path": "/", "googleanalytics": { "trackDownload": "pdf|zip|mp3", "LegacyVersion": 0 } } });</script>
@@ -70,7 +72,14 @@
 
 	<div id="container">
     	<div id="header_area">
-        	<h1 class="static_logo"><span class="cloaker">James Beard Foundation</span></h1>
+        	<h1 id="logo_ani">
+            	<script type="text/javascript">
+					// <![CDATA[
+					var so = new SWFObject("http://www.jamesbeard.org/sites/all/themes/jb/assets/swf/logo_ani.swf", "logo_ani", "450", "80", "8", "#ffffff");
+					so.write("logo_ani");
+					// ]]>
+				</script>
+            </h1>
         	<div id="search">
 				<div id="block-search-0" class="block block-search">
 
@@ -88,30 +97,31 @@
             </div>
         </div>
         <div id="menu_area">
-        	<div id="main_menu"><ul><li><a href="http://www.jamesbeard.org/" title="Home">Home</a></li><li><a href="http://www.jamesbeard.org/?q=node/24" title="About Us">About Us</a></li><li><a href="http://www.jamesbeard.org/?q=node/17" title="Events">Events</a></li><li><a href="http://www.jamesbeard.org/?q=node/99" title="Awards">Awards</a></li><li><a href="http://www.jamesbeard.org/?q=node/16" title="Education">Education</a></li><li><a href="http://www.jamesbeard.org/?q=node/19" title="Membership">Membership</a></li><li><a href="http://www.jamesbeard.org/?q=node/128" title="Blog">Blog</a></li><li><a href="http://www.jamesbeard.org/?q=node/457" title="Food/Recipes">Food/Recipes</a></li><li><a href="http://www.jamesbeard.org/?q=node/103" title="Resources">Resources</a></li></ul><div id="flash">Home%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3B0%2CAbout+Us%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3Fq%3Dnode%2F24%3B0%2CEvents%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3Fq%3Dnode%2F17%3B0%2CAwards%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3Fq%3Dnode%2F99%3B0%2CEducation%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3Fq%3Dnode%2F16%3B0%2CMembership%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3Fq%3Dnode%2F19%3B0%2CBlog%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3Fq%3Dnode%2F128%3B0%2CFood%2FRecipes%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3Fq%3Dnode%2F457%3B0%2CResources%3Bhttp%3A%2F%2Fwww.jamesbeard.org%2F%3Fq%3Dnode%2F103%3B0</div>
-            </div>
-
-
-	<script type="text/javascript">
-		// <![CDATA[
-		var so = new SWFObject("http://www.jamesbeard.org/sites/all/themes/jb/assets/swf/menu.swf", "mm", "900", "40", "8", "#ffffff");
-
-		so.addVariable('xstr',document.getElementById('flash').innerHTML);
-		//alert(document.getElementById('flash').innerHTML);
-		so.write("main_menu");
-		// ]]>
-	</script>
+        	<div id="menubarcolor">
+<ul id="main-menu">
+  <li><a class="menuhome" href="/">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  <li><a class="menuabout" href="/?q=node/24">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  <li><a class="menuevents" href="/?q=node/17">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  <li><a class="menuawards" href="/?q=node/99">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  <li><a class="menueducation" href="/?q=node/16">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  <li><a class="menumembership" href="/join/main.php">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  <li><a class="menublog" href="/blog/">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  <li><a class="menufood" href="/?q=node/457">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  <li><a class="menuresources" href="/?q=node/103">&nbsp;&nbsp;&nbsp;&nbsp;</a> </li>
+  
+  </ul> 
+</div>
 
    	  <div id="sub_menu">
 		   	  <div id="block-menu-100" class="block block-menu">
 
 
-  <div class="content"><ul><li><a href="/index.php?q=addsignup/bites" title="Subscribe to our free newsletter"><span style="margin-right: 10px;">SIGN UP FOR BEARD BITES</span></a></li>
+  <div class="content"><ul><li><a href="http://www.jamesbeard.org/bb/" title="Subscribe to our free newsletter"><span style="margin-right: 10px;">SIGN UP FOR BEARD BITES</span></a></li>
 <li><a href="http://www.jamesbeard.org/greens/main.php" title="Events for foodies under 40"><span style="margin-right: 10px;">SIGN UP FOR GREENS</span></a></li>
 <li><a href="http://www.celebritycheftour.com/" title="Visit the Celebrity Chef Tour website"><span style="margin-right: 10px;">CELEBRITY CHEF TOUR </span></a></li>
 <li><a href="http://www.amazon.com/gp/product/1596914467?ie=UTF8&amp;tag=thejambeafou-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=159691" title="Order your copy of Beard on Food from Amazon.com"><span style="margin-right: 10px;">BEARD ON FOOD </span></a></li>
 <li><a href="/index.php?q=/jbfdonations/donate" title="Make a donation to JBF"><span style="margin-right: 10px;">DONATE</span></a></li>
-<li><a href="/index.php?q=photo-event/galleries"><span style="margin-right: 10px;">PHOTO GALLERY</span></a></li>
+<li><a href="http://www.facebook.com/beardfoundation?sk=photos" title="Photos from JBF Events"><span style="margin-right: 10px;">PHOTO GALLERY</span></a></li>
 </ul></div>
 </div>
 
@@ -204,9 +214,9 @@ To make comments or ask questions regarding the Internet Privacy Policy,
   <area shape="rect" coords="11,118,140,134" href="http://jamesbeard.org/?q=node/17">
 </map>
                     </li>
-                  <li class="btn_know"><img src="/sites/all/themes/jb/assets/img/btn_enter.jpg" alt="JBF Awards" width="170" height="170" border="0" usemap="#FTRMap5">
+                  <li class="btn_know"><img src="/sites/all/themes/jb/assets/img/btn_honor3.jpg" alt="JBF" width="170" height="170" border="0" usemap="#FTRMap5">
 <map name="FTRMap5" id="FTRMap5">
-  <area shape="rect" coords="11,125,140,141" href="/index.php?q=awards_entry_forms">
+  <area shape="rect" coords="11,125,140,141" href="http://www.jbfawards.com" target="_blank">
 </map>
                   </li>
                 </ul>
@@ -227,8 +237,8 @@ To make comments or ask questions regarding the Internet Privacy Policy,
 </div>
             <p class="fplayer"><a href="http://www.adobe.com/products/flashplayer/" target="_blank">Site requires Adobe Flash Player, download latest version here &gt;&gt;</a></p>
             <p align="center" style="margin-top: 15px;">James Beard Foundation. &nbsp;&nbsp;&nbsp;167 West 12th Street, New York, NY&nbsp;&nbsp;&nbsp; 10011</p>
-             <p align="center">Copyright ©2009 James Beard Foundation. All rights reserved. Content on this site may not be duplicated without prior written permission, except where noted.</p>
-             <p align="center">Site design by <a href="http://www.simplissimus.net" target="_blank">simplissimus</a>, programming and animation by <a href="http://www.visualmercenary.com" target="_blank">visual mercenary group</a></p><br>
+             <p align="center">Copyright ©2011 James Beard Foundation. All rights reserved. Content on this site may not be duplicated without prior written permission, except where noted.</p>
+             <p align="center">Site design by <a href="http://www.simplissimus.net" target="_blank">simplissimus</a>.</p><br>
         </div>
     </div>
 
