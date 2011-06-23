@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godfathertraffic.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109004231id_/http%3A//godfathertraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfathertraffic.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623125957id_/http%3A//godfathertraffic.com/%3F_w%3Dprivacy%26PHPSESSID%3Dc5e4c3baba9181df9d4990a3c9d9d705) for the most accurate reproduction.*
 
 # Come take your seat.. Your table is ready!
 
