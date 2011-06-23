@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229215647id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623212856id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Folksy :: Mould, solder, sew, carve, cast, sculpt, go!
+# Welcome to Folksy :: Knit, carve, glue, cut, sculpt, sketch, go!
 
 ## Privacy Policy
 
@@ -26,6 +26,16 @@ Our website uses "cookies" to track use and allow customers to purchase from our
 
 We've tried to abide by the policies set out by the [Campaign for Plain English](http://www.plainenglish.co.uk/). If you have any questions relating to our Privacy Policy please email us at get@folksy.co.uk
 
+#### Featured Seller: [Bridget Harvey](https://web.archive.org/users/bhmakes)
+
+[](https://web.archive.org/shops/bhmakes)
+
+Beautiful, exciting and environmentally conscious jewellery pieces from wood, silver and embellished with textile techniques. [[more]](https://web.archive.org/users/bhmakes)
+
+##### Rated **positive** by **0** out of **0** people
+
+[Visit bhmakes.](https://web.archive.org/shops/bhmakes)
+
 #### Your Basket
 
 You have **0 items** in your basket, totalling **£0.00**.  
@@ -33,6 +43,4 @@ You have **0 items** in your basket, totalling **£0.00**.
 
 ### Recently Viewed Items
 
-  * [](https://web.archive.org/items/760253-Vintage-Santa-Handmade-Vintage-Style-Christmas-Tags-Labels-SET-of-6-Choice-of-Ribbon)
-
-
+No items viewed
