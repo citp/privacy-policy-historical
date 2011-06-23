@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellsalive.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124235911id_/http%3A//www.cellsalive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellsalive.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623162628id_/http%3A//www.cellsalive.com/privacy.htm) for the most accurate reproduction.*
 
 # CELLS alive! Privacy Statement
 
