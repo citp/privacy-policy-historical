@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstreetboys.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115031949id_/http%3A//groundctrl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstreetboys.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623233219id_/http%3A//groundctrl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy // ground(ctrl)
 
