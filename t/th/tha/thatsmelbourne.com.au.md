@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221023938id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623201557id_/http%3A//thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # that's melbourne - Privacy
 
 The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs.
 
-The City of Melbourne operates this website under the domain name [www.thatsmelbourne.com.au](https://web.archive.org/).  The purpose of this Website Privacy Statement is to explain how your personal information (being information capable of identifying you as an individual) will be treated as you access and interact with this website.
+The City of Melbourne operates this website under the domain name [www.thatsmelbourne.com.au](https://web.archive.org/). The purpose of this Website Privacy Statement is to explain how your personal information (being information capable of identifying you as an individual) will be treated as you access and interact with this website.
 
 ####   
 Anonymous access to website
@@ -18,7 +18,6 @@ Collection and use of personal information
   
 The City of Melbourne will only collect personal information supplied by you to this web site when it is necessary to do so.  The information will be collected and used for purposes including but not limited to the following:
 
-  * City Rewards Program membership;
   * where you choose to use an online form to e-mail the last page you visited to a friend;
   * to provide you with newsletters/updates where you have subscribed to them;
   * to contact you in relation to any business listings/events you have listed on the site; and
@@ -26,16 +25,20 @@ The City of Melbourne will only collect personal information supplied by you to 
 
 
 
-####   
-Cookies
+#### Cookies
 
   
-A Cookie is a block of data that is shared between a web server and a user’s browser.  Cookies give the server information about a user’s identify (or, at least, the computer’s ID, or the client’s ID), even if he or she is not the person actually using the computer at the time.  
-Cookies are used on this site, but they do not collect any personal information.  For the most part they are sessional and just contain system-generated values to identify the user's session.  This website uses two persistent cookies: 
+A Cookie is a block of data that is shared between a web server and a user’s browser. Cookies give the server information about a user’s identify (or, at least, the computer’s ID, or the client’s ID), even if he or she is not the person actually using the computer at the time.
 
-(1) to store the user's preference for viewing the web site in the regular or larger font size; 
+  
+Cookies are used on this site, but they do not collect any personal information. For the most part they are sessional and just contain system-generated values to identify the user's session. 
 
-(2) to store the user's "itinerary", a list of businesses and events they wish to attend. 
+This website uses two persistent cookies: 
+
+  1. to store the user's preference for viewing the web site in the regular or larger font size; 
+  2. to store the user's "itinerary", a list of businesses and events they wish to attend. 
+
+
 
 Neither cookie will store personal or identifying information the user.  
 
@@ -43,14 +46,14 @@ Neither cookie will store personal or identifying information the user.
 #### Web Beacons
 
   
-Web beacons (also known as web bugs) are images, often embedded in code, that originate from a third party site to track visitor activities.  The image is placed on many or all pages and is generally invisible to visitors, who are not able to view the underpinning code.
+Web beacons (also known as web bugs) are images, often embedded in code, that originate from a third party site to track visitor activities. The image is placed on many or all pages and is generally invisible to visitors, who are not able to view the underpinning code. 
 
 The City of Melbourne does not use web beacons.
 
 #### Clickstream Data
 
   
-Clickstream data refers to visitor logs and statistics that provide useful information about users’ online experience without identifying individuals.  We collect the following clickstream data for statistical and system administration purposes: 
+Clickstream data refers to visitor logs and statistics that provide useful information about users’ online experience without identifying individuals. We collect the following clickstream data for statistical and system administration purposes: 
 
   * the time/date the page was accessed;
   * the user's external IP address;
@@ -69,15 +72,15 @@ Disclosure of Personal Information
   
 The City of Melbourne will take all necessary measures to prevent unauthorised access to or disclosure of your personal information.
 
-External organisations to whom personal information is disclosed include Council’s service providers who perform various services for and on behalf of the Council.  These contractors have agreed to be bound by the provisions of the _Victorian Information Privacy Act 2000_.
+External organisations to whom personal information is disclosed include Council’s service providers who perform various services for and on behalf of the Council. These contractors have agreed to be bound by the provisions of the _Victorian Information Privacy Act 2000_.
 
-The City of Melbourne will not disclose your personal information to other agencies and authorities unless required or authorised by law.  We will not sell your details to another company, nor will we add your details to a mailing list without your consent.
+The City of Melbourne will not disclose your personal information to other agencies and authorities unless required or authorised by law. We will not sell your details to another company, nor will we add your details to a mailing list without your consent.
 
 ####   
 Links to External Websites
 
   
-This Website Privacy Statement does not extend beyond this website.  Where you choose to follow links which take you from our website to other websites, we recommend you read that website’s privacy statement.
+This Website Privacy Statement does not extend beyond this website. Where you choose to follow links which take you from our website to other websites, we recommend you read that website’s privacy statement.
 
 ####   
 Contact Us
