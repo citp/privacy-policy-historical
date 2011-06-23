@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urb.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122102929id_/http%3A//www.urb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urb.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623141105id_/http%3A//www.urb.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal | Privacy Policy | Terms Of Service | URB.COM | URB Magazine :: Music | Style | Culture
 
