@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fubar.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044122id_/http%3A//fubar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fubar.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623233503id_/http%3A//fubar.com/privacy.php) for the most accurate reproduction.*
 
 # fubar.com: Terms of Service
 
@@ -52,6 +52,4 @@ Except as otherwise described in this privacy statement, fubar will not disclose
 From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any changes to the policy when she or he uses the site after those changes have been posted. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@fubar.com](mailto:privacy@fubar.com).  
-  
-'privacy.php' rendered in 0.02 seconds on machine '235'.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@fubar.com](mailto:privacy@fubar.com).
