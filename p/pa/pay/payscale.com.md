@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430012629id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623123211id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
 
 # PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
-
-[](http://www.truste.org/ivalidate.php?url=www.payscale.com&sealid=103)
 
 This site is owned and operated by PayScale, Inc. We understand that you value your privacy and take every precaution to ensure that your information is protected. At PayScale, we want to make your experience online satisfying and safe. This Privacy Policy covers PayScale's treatment of Personally Identifiable Information that is collected when you are on the PayScale site, and when you use PayScale's services. This policy also covers PayScale's treatment of any Personally Identifiable Information that PayScale receives from employers and our business partners. This policy does not apply to the privacy practices of companies or sites that PayScale does not own, or to individuals that PayScale does not employ. 
 
@@ -96,7 +94,7 @@ This web site is hosted in the United States. If you are visiting from the Europ
   * If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change in your account or by emailing our Customer Support email at service@payscale.com, or by contacting us by telephone or postal mail at the contact information below. PayScale will respond to requests within 30 days of receiving the request.
 
 PayScale, Inc  
-316 Occidental Ave, Suite 310  
+315 5th Avenue South, Suite 700  
 Seattle WA, 98104  
 1-888-699-0702
 
@@ -120,20 +118,13 @@ Seattle WA, 98104
 
 **CONTACTING PayScale**
 
-PayScale is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers [www.payscale.com](http://www.payscale.com/) and [insight.payscale.com](http://insight.payscale.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this policy, and if you cannot satisfactorily resolve it through the use of this web site, you may contact Geary Eppley at [privacy@payscale.com](mailto:privacy@payscale.com), or by mail us at the postal mail address below. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
 PayScale, Inc. complies with the EU Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 Postal Mail Address:
 
 **Attention: Geary Eppley, Privacy Officer  
 PayScale, Inc.  
-316 Occidental Ave, Suite 310  
-Seattle, Washington 98104 **  
+315 5th Avenue South, Suite 700  
+Seattle, Washington 98104 **
 
-
-TRUSTe, an industry watchdog organization that monitors privacy and security policies of its members to act as an agent to help resolve your issue. In the event that you are still unable to resolve your concerns, you can send email directly to: [privacy@payscale.com](mailto:privacy@payscale.com). PayScale is committed to achieving a resolution of your privacy concerns.
-
-**Last Updated: November, 2008**
+**Last Updated: December, 2010**
