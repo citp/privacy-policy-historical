@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229003011id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623090905id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,15 +25,6 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
   1. We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on anvari.org. 
   2. We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
-
-
-
-### 3rd Party Partners
-
-  * Google, as a third party vendor, uses cookies to serve ads on anvari.org.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 
 
