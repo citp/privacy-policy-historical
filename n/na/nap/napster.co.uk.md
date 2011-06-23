@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127074643id_/http%3A//napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623221221id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
