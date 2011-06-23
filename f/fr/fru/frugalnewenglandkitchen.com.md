@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the frugalnewenglandkitchen.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124013419id_/http%3A//frugalnewenglandkitchen.com/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalnewenglandkitchen.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623133434id_/http%3A//frugalnewenglandkitchen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Frugal New England Kitchen | Frugal Ideas | Southern New England | Recipe Dishes
+# Privacy Policy – Frugal New England Kitchen | Grandparents And Grandkids | Connecticut Mom Blogger
 
-## Privacy Policy
-
-Effective Date: April 17, 2007
+Effective Date: December 15, 2007
 
 **PRIVACY STATEMENT**
 
 Your privacy is important to Frugal New England Kitchen. This privacy statement provides information about the personal information that Frugal New England Kitchen collects, and the ways in which Frugal New England Kitchen uses that personal information.
+
+**Comment Policy:**
+
+**Rule No. 1. It’s my blog.** As sole author of this blog, I reserve the right to edit comments that I consider are spam, offensive in nature or not family-friendly.
 
 **Personal information collection**
 
@@ -96,12 +98,13 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Frugal New England Kitchen is not responsible for the privacy policies or practices of any third party.
 
-## **Contact** Frugal New England Kitchen
+**Contact Frugal New England Kitchen  
+**
 
 If you have any questions about this privacy policy or Frugal New England Kitchen treatment of your personal information, please contact by email to:
 
-[](http://s169.photobucket.com/albums/u221/mattci/banners/?action=view&current=EmailMoomettesInfo.png)
+[](http://s169.photobucket.com/albums/u221/mattci/banners/?action=view&current=mail5.png)
+
+Please allow 24 hours for a response
 
 ###### _This privacy statement is based on a precedent created by[employmentlawcontracts.co.uk](http://www.employmentlawcontracts.co.uk/) and published by [freenetlaw.com](http://www.freenetlaw.com/)[.](http://www.freenetlaw.com/)_
-
-If you're new here, you may want to subscribe to my [Newsletter and RSS feed](http://frugalnewenglandkitchen.com/recommends/Newsletter_and_RSS_feed/7/). Thanks for visiting!
