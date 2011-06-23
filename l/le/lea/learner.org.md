@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220190742id_/http%3A//learner.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623061355id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Annenberg Media: Privacy Policy
 
@@ -7,17 +7,17 @@
 Privacy Policy 
 
 **Your Privacy**  
-Annenberg Media wishes to protect your privacy on the Web and in all areas where we connect with you. This privacy statement is divided into two parts: first, our general principles, and, second, the detailed actions we take to behave according to those principles. You can think of this second section as the "small print" or "legalese" section. Please feel free to send any questions you may have about this privacy policy to us at info@learner.org.
+Annenberg Learner wishes to protect your privacy on the Web and in all areas where we connect with you. This privacy statement is divided into two parts: first, our general principles, and, second, the detailed actions we take to behave according to those principles. You can think of this second section as the "small print" or "legalese" section. Please feel free to send any questions you may have about this privacy policy to us at info@learner.org.
 
 **Our Principles**
 
 **1\. Your privacy will be protected.**
 
-> Annenberg Media shares no information we receive about you with third parties. This includes both traditional factual information (your name, address, phone number, etc.) and electronic, technical, Web-oriented information (your IPS address, email configuration, email address, etc.) 
+> Annenberg Learner shares no information we receive about you with third parties. This includes both traditional factual information (your name, address, phone number, etc.) and electronic, technical, Web-oriented information (your IPS address, email configuration, email address, etc.) 
 
 **2\. We do not share mailing lists.**
 
-> Annenberg Media does not sell or exchange mailing lists. 
+> Annenberg Learner does not sell or exchange mailing lists. 
 
 **3\. You will not be spammed.**
 
@@ -67,7 +67,7 @@ The electronic information our servers collect about visitors depends on what th
 
 > By postal mail: 
 >
->> Annenberg Media  
+>> Annenberg Learner  
 >  1301 Pennsylvania Avenue NW #302  
 >  Washington, DC 20004
 > 
@@ -78,8 +78,7 @@ The electronic information our servers collect about visitors depends on what th
 > By email: 
 >
 >> [info@learner.org](mailto:info@learner.org) (for general issues)  
->  [channel@learner.org](mailto:channel@learner.org) (for questions related to the Annenberg Channel)  
->  [AnnenbergMedia@fpdirect.com](mailto:AnnenbergMedia@fpdirect.com) (for questions related to an online order you have placed) 
+>  [order@learner.org](mailto:order@learner.org) (for questions related to an online order you have placed) 
 >> 
 >> If you are unsure which email address to use, please use [info@learner.org](mailto:info@learner.org).  
   
