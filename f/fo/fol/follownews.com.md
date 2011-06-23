@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the follownews.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416163830id_/http%3A//www.follownews.com/home/tosandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the follownews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623204031id_/http%3A//www.follownews.com/home/tosandprivacy) for the most accurate reproduction.*
 
 # follownews.com Terms of Service And Privacy Policy
 
