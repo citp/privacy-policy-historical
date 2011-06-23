@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125161743id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624001033id_/http%3A//stumbleupon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We collect and use Personal Information and Anonymous Information as described i
 
 ### User Consent
 
-By submitting information through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and you agree to the StumbleUpon Terms of Service located at [http://www.stumbleupon.com/terms/](https://web.archive.org/web/20101125161100id_/http://www.stumbleupon.com/terms/).  
+By submitting information through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and you agree to the StumbleUpon Terms of Service located at [http://www.stumbleupon.com/terms/](https://web.archive.org/web/20110624001033id_/http://www.stumbleupon.com/terms/).  
 Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
 ### Personal Information You Provide to Us
