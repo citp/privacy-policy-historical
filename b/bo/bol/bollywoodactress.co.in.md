@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodactress.co.in privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220040729id_/http%3A//bollywoodactress.co.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodactress.co.in privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623033342id_/http%3A//bollywoodactress.co.in/privacypolicy.html) for the most accurate reproduction.*
 
 # Bollywood Masala Actress Videos | South Indian Actress Videos | Masala Desi Video Clips
 
