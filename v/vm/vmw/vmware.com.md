@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229181317id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623030417id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ VMware respects the privacy of our customers, business partners and other visito
 
   * #### EU-US Safe Harbor
 
-VMware adheres to the EU-US Safe Harbor Privacy Principles, as described in more detail in our [General Safe Harbor Privacy Notice](https://web.archive.org/help/safeharbor.html).
+VMware adheres to the EU-US Safe Harbor Privacy Principles, as described in more detail in our [General Safe Harbor Privacy Notice](https://web.archive.org/safeharbor.html).
 
 
 
@@ -30,7 +30,7 @@ VMware will use personal information to provide customers and business partners 
 
   * #### With whom does VMware share personal information?
 
-VMware contracts with third party service providers and suppliers (including distributors and resellers) to deliver certain products, services and customer solutions. VMware may share personal information with its service providers and suppliers to the extent needed to deliver the service or respond to requests for information on products or services or otherwise support the customers' business needs. Third party service providers and suppliers receiving personal information are expected to apply the same level of privacy protection as contained in this Privacy Statement. They are required to keep confidential the personal information received from VMware and may not use it for any purpose other than as originally intended. 
+VMware contracts with third party service providers and suppliers (including distributors and resellers) to deliver certain products, services and customer solutions. VMware may share personal information with its service providers and suppliers to the extent needed to deliver the service or respond to requests for information on products or services or otherwise support the customers' business needs. Third party service providers and suppliers receiving personal information are expected to apply the same level of privacy protection as contained in this Privacy Statement. They are required to keep confidential the personal information received from VMware and may not use it for any purpose other than as originally intended.
 
 Some VMware services may be co-branded and offered in conjunction with another company. If you register for or use such services, both VMware and the other company may receive information collected in conjunction with the co-branded services.
 
@@ -64,7 +64,7 @@ VMware is committed to taking reasonable efforts to secure the personal data you
 
   * #### Forums and Blogs
 
-Some of VMware's websites allow our users to publish content via discussion forums, blogs, user-editable documents, and commenting systems. Any information that is disclosed in these forums becomes public information which could be read, collected or used by other users to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. You should exercise caution when deciding to disclose your personal information. 
+Some of VMware's websites allow our users to publish content via discussion forums, blogs, user-editable documents, and commenting systems. Any information that is disclosed in these forums becomes public information which could be read, collected or used by other users to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. You should exercise caution when deciding to disclose your personal information.
 
 VMware may, from time to time, send email regarding our products and services to users who have posted to our discussion forums, blogs, user-editable documents, and commenting systems. Each participant's opinion expressed is his or her own and should not be considered as reflecting the opinion of VMware. Note also that your use of these online communication tools is subject to our Terms of Use, which contain disclaimers, limitations of liability and a choice of California law. Personal information given to VMware may be transferred across state and country borders for data consolidation, storage and simplified information management.
 
@@ -76,7 +76,7 @@ VMware uses pixels, or transparent GIF files, to help manage online advertising.
 
 As is true of most websites, VMware collects and/or logs Internet Protocol addresses, Internet domain names, the web browser and operating system used to access the VMware web site, the files visited, the time spent in each file, and the time and date of each visit. VMware collects these through the use of log files and web beacons.
 
-VMware also uses cookies on some of its web sites. Cookies are identifiers that can be sent from a web site via your browser to be placed on your computer. Thereafter when you visit a web site, a message is sent back to the web server by the browser accessing the web site. You may elect not to accept cookies by changing the designated settings on your web browser. However, not utilizing cookies may prevent you from using certain functions and features of web sites. The information we collect and analyze is used to improve our service to you and personalize your web-browsing experience, such as by gaining a better understanding of your interests and requirements regarding our website. Cookies are linked to your personal information, such as your email address or password. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. 
+VMware also uses cookies on some of its web sites. Cookies are identifiers that can be sent from a web site via your browser to be placed on your computer. Thereafter when you visit a web site, a message is sent back to the web server by the browser accessing the web site. You may elect not to accept cookies by changing the designated settings on your web browser. However, not utilizing cookies may prevent you from using certain functions and features of web sites. The information we collect and analyze is used to improve our service to you and personalize your web-browsing experience, such as by gaining a better understanding of your interests and requirements regarding our website. Cookies are linked to your personal information, such as your email address or password. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it.
 
 
 
