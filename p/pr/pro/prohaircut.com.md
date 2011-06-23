@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prohaircut.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529204333id_/http%3A//www.prohaircut.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohaircut.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624013102id_/http%3A//www.prohaircut.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
