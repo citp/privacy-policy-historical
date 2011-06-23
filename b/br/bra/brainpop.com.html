@@ -1,249 +1,39 @@
-<!--The following is the downloaded HTML source of the brainpop.com privacy policy that was archived on 2010-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218092231id_/http%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainpop.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623071520id_/http%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="keywords" content="privacy, policy, BrainPOP">
  <link rel="SHORTCUT ICON" href="/favicon.ico">
 	<link rel="ICON" href="/favicon.ico">
-	<title>BrainPOP | Privacy Policy</title>
+	<title>BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts </title>
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://brainpop.speedera.net/www.brainpop.com/js/show_embed.js" type="text/javascript"></script>
-	<script src="http://brainpop.speedera.net/www.brainpop.com/js/dropdown.js" type="text/javascript"></script>
+	<script src="http://brainpop.speedera.net/www.brainpop.com/js/jquery/libs/jquery-1.4.2.min.js" type="text/javascript"></script>
+	<script src="http://brainpop.speedera.net/www.brainpop.com/js/jquery/libs/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
+	<script src="http://brainpop.speedera.net/www.brainpop.com/js/jquery/libs/jquery.validate.js" type="text/javascript"></script>
+	<script src="http://brainpop.speedera.net/www.brainpop.com/js/jquery/jquery.form.js" type="text/javascript"></script>
 	<script src="http://brainpop.speedera.net/www.brainpop.com/js/base64.js" type="text/javascript"></script>
+	<script src="http://brainpop.speedera.net/www.brainpop.com/js/dropdown.js" type="text/javascript"></script>
 	<link rel="stylesheet" href="http://brainpop.speedera.net/www.brainpop.com/css/brainpop_new.css" type="text/css">
 <script type="text/javascript">
 <!--
-var ie4 = false;
-if(document.all)  {
-ie4 = true;
-}
-
-function getObject(id)  
-{
-  if (ie4)  
-  {
-    return document.all[id];
-  } 
-  else
-  {
-    return document.getElementById(id);
-  }
-}
-
-function toggle(link, divId)  
-{
-  var d = getObject(divId);
-  if (d.style.display == 'block' || d.style.display == '')
-  {
-    d.style.display = 'none';
-  } 
-  else  
-  {
-    d.style.display = 'block';
-  }
-}
-
-
-function get_file(file_path) {
-  window.open(Base64.decode(file_path));
-}
-
-function toggle_us_fields() {
-	if ((document.frm_details.country.value=='USA') && (document.frm_details.who_am_i.value!='parent') && (document.frm_details.who_am_i.value!='') && (document.frm_details.who_am_i.value!='other')) {
-		document.getElementById("school_zip_row").style.display='';
-		document.getElementById("states_row").style.display='none';
-		document.getElementById("school_text_row").style.display='none';
+function popUp(page){
+	var newPage = page;
+	if (newPage=="5"){
+		window.open( "https://forms.netsuite.com/app/site/crm/externalcasepage.nl?compid=668264&formid=25&h=516139e9200c3772d318&category=5", "techCase", "height=800,width=620")
+	}
+	else if (newPage=="23" ||newPage=="17" || newPage=="19" || newPage=="21" || newPage=="16" || newPage=="20" || newPage=="6"  || 	newPage=="8" || newPage=="24"){
+		window.open( "https://forms.netsuite.com/app/site/crm/externalcasepage.nl?compid=668264&formid=23&h=19078f94dc449996efce&category="+newPage, "nonTechCase", "height=800,width=620")
 		}
-	else {
-		if (document.frm_details.country.value=='USA') 
-			document.getElementById("states_row").style.display='';
-		else {
-			document.getElementById("states_row").style.display='none';
-			document.getElementById("state_message_row").style.display='none';
+	else if (newPage=="4"){
+		window.open( "https://forms.netsuite.com/app/site/crm/externalleadpage.nl?compid=668264&formid=20&h=1f7300e76d59078d6ff7", "districtForm", "height=800,width=620")
 		}
-		document.getElementById("school_zip_row").style.display='none';
-		document.getElementById("school_select_row").style.display='none';
+	else if (newPage=="press" || newPage=="partner" || newPage=="suggest"){
+		window.open( "http://www.brainpop.com/support/email_form.weml", "generalForm", "height=800,width=620");
 		}
-	}
-
-
-
-function toggle_home_school_fields(home_school_value) {
-	if ((home_school_value=='parent') || (home_school_value=='other') || (home_school_value=='home_educator')) {
-		document.getElementById("school_zip_row").style.display='none';
-		document.getElementById("school_select_row").style.display='none';
-		document.getElementById("tech_setup_row").style.display='none';
-		document.getElementById("home_bp_username_desc_message_row").style.display='';
-		document.getElementById("school_bp_username_desc_message_row").style.display='none';
-		document.getElementById("states_row").style.display='';
-		document.getElementById("tech_space_row").style.display='none';
-
-		}
-	else {
-		if (document.getElementById("country").value=='USA') {
-			document.getElementById("school_zip_row").style.display='';
-			//document.getElementById("school_select_row").style.display='';
-		}
-		document.getElementById("tech_setup_row").style.display='';
-		document.getElementById("home_bp_username_desc_message_row").style.display='none';
-		document.getElementById("school_bp_username_desc_message_row").style.display='';
-		document.getElementById("states_row").style.display='none';
-		document.getElementById("tech_space_row").style.display='';
-	}
-	return;
-}
-
-
-function selected_school(school_id) {
-	if(school_id=='other')
-		document.getElementById("school_text_row").style.display='';
-	else
-		document.getElementById("school_text_row").style.display='none';
-
-}
-
-
-var ie4 = false;
-if(document.all)  {
-ie4 = true;
-}
-
-function toggle_other(other_field_id, value_to_show, toggeling_value) {
-  var d = document.getElementById(other_field_id);
-  if (toggeling_value==value_to_show)
-  	d.style.display = '';
-  else
-  	d.style.display = 'none';
-}
-
-
-function validateEmail (emailStr) {
-	var checkTLD=1;
-	var knownDomsPat=/^(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum)$/;
-	var emailPat=/^(.+)@(.+)$/;
-	var specialChars="\\(\\)><@,;:\\\\\\\"\\.\\[\\]";
-	var validChars="\[^\\s" + specialChars + "\]";
-	var quotedUser="(\"[^\"]*\")";
-	var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
-	var atom=validChars + '+';
-	var word="(" + atom + "|" + quotedUser + ")";
-	var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
-	var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
-
-	var matchArray=emailStr.match(emailPat);
-
-	if (matchArray==null) 
-	{
-		// alert("Email address seems incorrect (check @ and .'s)");
-		return "Invalid e-mail address.<br>";
-	}
-	var user=matchArray[1];
-	var domain=matchArray[2];
-
-	for (i=0; i<user.length; i++) 
-	{
-		if (user.charCodeAt(i)>127) 
-		{
-			// alert("Ths username contains invalid characters.");
-			return "Invalid e-mail address.<br>";
-		}
-	}
-	for (i=0; i<domain.length; i++) 
-	{
-		if (domain.charCodeAt(i)>127) 
-		{
-			// alert("Ths domain name contains invalid characters.");
-			return "Invalid e-mail address.<br>";
-		}
-	}
-
-	if (user.match(userPat)==null) 
-	{
-		// alert("The username doesn't seem to be valid.");
-		return "Invalid e-mail address.<br>";
-	}
-
-	var IPArray=domain.match(ipDomainPat);
-	if (IPArray!=null) 
-	{
-		for (var i=1;i<=4;i++) 
-		{
-			if (IPArray[i]>255) 
-			{
-				// alert("Destination IP address is invalid!");
-				return "Invalid e-mail address.<br>";
-			}
-		}
-		return '';
-	}
-
-	var atomPat=new RegExp("^" + atom + "$");
-	var domArr=domain.split(".");
-	var len=domArr.length;
-	for (i=0;i<len;i++) 
-	{
-		if (domArr[i].search(atomPat)==-1) 
-		{
-			// alert("The domain name does not seem to be valid.");
-			return "Invalid e-mail address.<br>";
-		}
-	}
-
-	if (checkTLD && domArr[domArr.length-1].length!=2 && domArr[domArr.length-1].search(knownDomsPat)==-1) 
-	{
-		// alert("The address must end in a well-known domain or two letter " + "country.");
-		return "Invalid e-mail address.<br>";
-	}
-
-	if (len<2) 
-	{
-		// alert("This address is missing a hostname!");
-		return "Invalid e-mail address.<br>";
-	}
-
-	return '';
-}
-
-
-
-function trim(str) {
-return str.replace(/^\s+|\s+$/g, '');
-}
-
-function changeDiv(the_state, the_change)
-{
-	var the_div = the_state;
-	if(the_div!="")
-	{
-	  document.getElementById(the_div+"_div").style.display = the_change;
-	 }
-	else {
+	else{
 		return false;
-		}
-}
-
-
-function hideAll()
-{
-  changeDiv("az","none");
-  changeDiv("ak","none");
-  changeDiv("ca","none");
-  changeDiv("dc","none");
-  changeDiv("fl","none");
-  changeDiv("ia","none");
-  changeDiv("ks","none");
-  changeDiv("ma","none");
-  changeDiv("mn","none");
-  changeDiv("ne","none");
-  changeDiv("nm","none");
-  changeDiv("nc","none");
-  changeDiv("nd","none");
-  changeDiv("sd","none");
-  changeDiv("tn","none");
-  changeDiv("vt","none");
-  changeDiv("wv","none");
-  changeDiv("wi","none");
-
+	}
 }
 
 
@@ -268,7 +58,110 @@ function hideAll()
 <body bgcolor="#009999" vlink="#000000" link="#000000" alink="#000000">
 <br>
 <table border="0" cellpadding="0" cellspacing="0" align="center" width="584">
-  <tbody><tr>
+ <tbody><tr>
+    <td width="3" height="18">&nbsp;</td>
+    <td width="80" height="18" align="center">&nbsp;</td>
+    <td width="3" height="18">&nbsp;</td>
+    <td width="412" height="18" align="center" colspan="11"><!-- Element: Login Manager File[169][jquery_element] START 1304541865--><div class="login_bar_container"> 
+<link rel="stylesheet" href="http://brainpop.speedera.net/www.brainpop.com/js/jquery/css/jquery.generic.autocomplete.css" type="text/css">
+<script src="http://brainpop.speedera.net/www.brainpop.com/js/jquery/libs/jquery.autocomplete.js" type="text/javascript"></script>
+
+<style type="text/css">
+	.non_link_color{color: #00CCCC;}
+	a.login_bar:link {color: #FFFFFF;}
+	a.login_bar:visited {color: #FFFFFF;}
+	a.login_bar:hover {color: #006666;}
+	a.login_bar:active {color: #006666;}
+</style>
+
+<form name="frm_search" action="/search/search.weml">
+	<input type="hidden" id="keyword" name="keyword">
+</form>
+
+<form name="frm_login" action="/user/loginDo.weml">
+	<input type="hidden" id="username" name="username">
+	<input type="hidden" id="password" name="password">
+	<input type="hidden" id="refer" name="refer" value="/about/privacy_policy/">
+</form>
+
+<div id="search_mode">
+	<table class="login_bar" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			
+				<td align="left" class="login_bar"><a href="#" id="clogin_link" class="login_bar">LOG IN</a></td>
+			
+			<td align="right" class="login_bar non_link_color"><span class="login_bar">SEARCH</span><span style="padding-left: 3px; padding-right: 3px;"><input type="text" id="ckeyword" class="login_bar"></span><a class="login_bar" href="#" id="csearch">GO</a></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<div id="login_mode" style="display: none;">
+	<table class="login_bar" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td class="login_bar non_link_color">USERNAME: </td>
+			<td class="login_bar"><input class="login_bar" type="text" id="cusername"></td>
+			<td class="login_bar non_link_color">PASSWORD: </td>
+			<td class="login_bar"><input class="login_bar" type="password" id="cpassword"></td>
+			<td class="login_bar"><a href="#" id="clogin" class="login_bar">GO</a></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$.ajax({
+			url: "/movie_names_keywords.txt",
+			async: false,
+			success: function(html){
+				$("#ckeyword").autocomplete(html.split("^"), {selectFirst : false} );
+			}
+		});
+
+		$('#ckeyword').keyup(function(e) {
+			if(e.keyCode == 13) {
+				$("#csearch").trigger("click");
+			}
+		});
+		
+		$('#cusername').keyup(function(e) {
+			if(e.keyCode == 13) {
+				$("#clogin").trigger("click");
+			}
+		});
+		
+		$('#cpassword').keyup(function(e) {
+			if(e.keyCode == 13) {
+				$("#clogin").trigger("click");
+			}
+		});
+		
+		$("#csearch").click(function(event){
+	    	if(jQuery.trim($('#ckeyword').val())!=''){
+	    		$('#keyword').val($('#ckeyword').val());
+	    		document.frm_search.submit();
+			}
+	    });
+	    
+	    $("#clogin_link").click(function(event){
+	    	$("#search_mode").hide();
+	    	$("#login_mode").fadeIn(1500);
+	    	$("#cusername").focus();
+	    });
+	    
+	    $("#clogin").click(function(event){
+	    	if((jQuery.trim($('#cusername').val())!='')&&(jQuery.trim($('#cpassword').val())!='')){
+	    		$('#username').val($('#cusername').val());
+	    		$('#password').val($('#cpassword').val());
+	    		document.frm_login.submit();
+			}
+	    });
+
+		//$("#ckeyword").focus();
+	});
+</script></div><!-- Element: Login Manager File[169][jquery_element] END 1304541865 --></td>
+    <td width="3" height="18">&nbsp;</td>
+  </tr>
+  <tr>
     <td width="3" height="3" class="grid"></td>
     <td width="80" height="3" class="grid"></td>
     <td width="3" height="3" class="grid"></td>
@@ -287,11 +180,9 @@ function hideAll()
   </tr>
   <tr>
     <td width="3" height="80" class="grid"></td>
-    <td width="80" height="80" align="center"><!-- Element: BrainPOP Logo[15][link] START --><a href="/"><img src="http://brainpop.speedera.net/www.brainpop.com/new_common_images/images/71/71823.gif" height="80" width="80" title="" alt="BrainPOP" border="0"></a><!-- Element: BrainPOP Logo[15][link] END --></td>
+    <td width="80" height="80" align="center"><!-- Element: BrainPOP Logo[15][link] START 1304541865--><a href="/"><img src="http://brainpop.speedera.net/www.brainpop.com/new_common_images/images/71/71823.gif" height="80" width="80" title="" alt="BrainPOP" border="0"></a><!-- Element: BrainPOP Logo[15][link] END 1304541865 --></td>
     <td width="3" height="80" class="grid"></td>
-    <td width="412" height="80" align="center" colspan="9"><!-- Element: Generic Header[1676][generic_header] START --><script type="text/javascript">show_flash("http://brainpop.speedera.net/www.brainpop.com/new_common_images/constants/generic_header.swf", "412", "80", "&text_large=BRAINPOP&background_color=#009999&text_small=ABOUT US&text_small_color=#66FFFF&text_large_color=#003333&&header_link=/about&");</script><!-- Element: Generic Header[1676][generic_header] END --></td>
-    <td width="3" height="80" class="grid"></td>
-    <td width="80" height="80" align="center"><!-- Element: BrainPOP JR Logo k-3 Educators[1393][link] START --><a href="http://www.brainpopjr.com"><img src="http://brainpop.speedera.net/www.brainpop.com/new_common_images/images/78/78336.jpg" height="80" width="80" title="" alt="BrainPOP Jr." border="0"></a><!-- Element: BrainPOP JR Logo k-3 Educators[1393][link] END --></td>
+    <td width="412" height="80" align="center" colspan="11"><!-- Element: Support Page Header (2-element)[3674][support_page_header] START 1304541865--><table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td width="329" height="80"><img src="http://brainpop.speedera.net/www.brainpop.com/new_common_images/images/10/105491.png" height="80" width="329" title="" alt="" border="0"></td><td width="3" class="grid"></td><td width="329" height="80"><img src="http://brainpop.speedera.net/www.brainpop.com/new_common_images/images/10/105404.png" height="80" width="329" title="" alt="" border="0"></td></tr></tbody></table><!-- Element: Support Page Header (2-element)[3674][support_page_header] END 1304541865 --></td>
     <td width="3" height="80" class="grid"></td>
   </tr>
   <tr>
@@ -299,35 +190,7 @@ function hideAll()
   </tr>
   <tr>
     <td width="3" height="40" class="grid"></td>
-    <td width="80" height="40" align="center"><!-- Element: Blank[78][other] START --><!-- Element: Blank[78][other] END --></td>
-    <td width="3" height="40" class="grid"></td>
-    <td width="495" height="40" align="center" colspan="11" bgcolor="#99CC00">
-    	<table border="0" cellpadding="0" cellspacing="0" align="center" width="495">
-    		<tbody><tr><td width="329" align="center"><!-- Element: Support Page Title[866][context_driven_text] START --><div style="color: #11593C;font-size: 12pt;font-family: Arial;font-weight: bold;text-align: left;margin-left: 15px;">Privacy Policy</div><!-- Element: Support Page Title[866][context_driven_text] END --></td><td width="3" height="40" class="grid"></td><td width="163" align="center"><!-- Element: Menu - Context Driven[1426][menu] START --><script language="JavaScript" src="/js/dropdown.js" type="text/javascript"></script>
-		<style type="text/css">
-			#menu_child a{width: 163px; text-indent: 5px; text-align: left; display: block; border-bottom: 3px solid #11593C; text-decoration: none; font-weight: bold; font-size: 12px; font-family: arial, verdana; color: #336666; background-color: #CCFFFF; padding-top: 5px; padding-bottom: 5px; vertical-align:middle}
-			#menu_child a:hover{width: 160px; text-indent: 5px; text-align: left; display: block; width: 100%; border-bottom: 3px solid #11593C; text-decoration: none; font-weight: bold; font-size: 12px; font-family: arial, verdana; color: #CCFFFF; background-color: #336666; padding-top: 5px; padding-bottom: 5px; vertical-align:middle}
-		</style><div id="menu_parent"><table cellpadding="0" cellspacing="0"><tbody><tr><td align="center" style="height: 40px; width: 163px; background-color: #CCFFFF; border: 0px solid black; font-weight: bold; color: #336666; font-family: arial, verdana; vertical-align:middle" onmouseover="style.backgroundColor='#CCFFFF'" onmouseout="style.backgroundColor='#CCFFFF'">Quick Links</td></tr></tbody></table></div>
-<div id="menu_child">
-<table cellpadding="0" cellspacing="0">
-<tbody><tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/about/contact/">Contact Us</a></td></tr>
-<tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/go/educators/">BrainPOP Educators</a></td></tr>
-<tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/go/funding/">Funding BrainPOP</a></td></tr>
-<tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/go/subscribe/">Subscribe to BrainPOP</a></td></tr>
-<tr><td style="width: 163px; background-color: #336666; border-left: 3px solid #11593C; border-right: 3px solid #11593C; border-bottom-width: 163px  visibility: hidden; position: relative; left: 0;"><a href="/go/brainpop_home/">BrainPOP Home</a></td></tr>
-</tbody></table></div>
-<script type="text/javascript">at_attach("menu_parent", "menu_child", "hover", "y", "pointer");</script>
-<!-- Element: Menu - Context Driven[1426][menu] END --></td></tr>
-    	</tbody></table>
-    </td>
-    <td width="3" height="40" class="grid"></td>
-  </tr>
-  <tr>
-  	<td class="grid" width="584" height="3" colspan="15"></td>
-  </tr>
-  <tr>
-    <td width="3" height="80" class="grid"></td>
-    <td width="578" bgcolor="white" colspan="13"><!-- Element: Support[831][support_page] START -->	<table width="100%" cellspacing="0" cellpadding="0">
+    <td width="578" bgcolor="white" colspan="13"><!-- Element: Support[831][support_page] START 1304541865-->	<table width="100%" cellspacing="0" cellpadding="0">
 	<!--a name="policy"></a-->
 	<tbody><tr><td><blockquote><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td><blockquote><br>
 <center><span class="user_header">Privacy Policy</span></center>
@@ -445,13 +308,19 @@ function hideAll()
 </blockquote></td></tr></tbody></table></blockquote></td></tr>
 	</tbody></table>
 
-<!-- Element: Support[831][support_page] END --></td>
-    <td width="3" height="80" class="grid"></td>
+<!-- Element: Support[831][support_page] END 1304541865 --></td>
+    <td width="3" height="40" class="grid"></td>
   </tr>
   <tr>
-    <td width="3" height="50" class="grid"></td>
-    <td width="578" bgcolor="white" colspan="13"><!-- Element: Blank[78][other] START --><!-- Element: Blank[78][other] END --></td>
-    <td width="3" height="50" class="grid"></td>
+  	<td class="grid" width="584" height="3" colspan="15"></td>
+  </tr>
+  <tr>
+    <td width="3" height="80" class="grid"></td>
+    <td width="578" height="80" align="center" colspan="13"><!-- Element: Button Row - Support - About[1778][icons_container] START 1304541865-->
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><script type="text/javascript">show_flash_tl("http://brainpop.speedera.net/www.brainpop.com/new_common_images/constants/icons_container.swf", 578, 80, "&language_prefix=en&badge_path=/new_common_images/constants/badges.swf&files_path_prefix=http://brainpop.speedera.net/www.brainpop.com&domain_prefix=/&button_type=icon_text&icon_color=#00CCCC&background_color=#009999&circle_color=#003333text_color=#FFFFFF&gridColor=#66FFFF&nbrColumns=7&numItems=7&item1=/new_common_images/flash_files/76584.swf&link1=/about/tour&item2=/new_common_images/flash_files/71223.swf&link2=/about/awards&item3=/new_common_images/flash_files/89731.swf&link3=/about/research&item4=/new_common_images/flash_files/76547.swf&link4=/funding/funding/&item5=/new_common_images/flash_files/76546.swf&link5=/about/news_and_events&item6=/new_common_images/flash_files/71220.swf&link6=/about/partners/&item7=/new_common_images/flash_files/69773.swf&link7=/educators/");</script></td></tr></tbody></table>
+<!-- Element: Button Row - Support - About[1778][icons_container] END 1304541865 --></td>
+    <td width="3" height="80" class="grid"></td>
   </tr>
   <tr>
   	<td class="grid" width="584" height="3" colspan="15"></td>
@@ -459,21 +328,57 @@ function hideAll()
 </tbody></table><br><table align="center"><tbody><tr><td><span align="center">BrainPOP's privacy policy.</span></td></tr></tbody></table>
 
 <!-- FOOTER -->
-<table align="center" width="620">
+<table align="center" width="744">
 	<tbody><tr>
 		<td align="center" style="color: #33CCCC;font-family: Arial, trebuchet, Verdana;font-size: 8pt;text-decoration: none;">
-			<a class="link_user_footer_large" href="/tour">Tour</a><span class="user_footer_large"> | <span>
-<a class="link_user_footer_large" href="/about">About</a><span class="user_footer_large"> | <span>
+			<script>
+$(document).ready(function(){
+	$("#cproducts").hover(
+	function(event){
+		$(this).addClass('link_user_footer_large_fake_hover');},
+	function(event){
+		$(this).removeClass('link_user_footer_large_fake_hover');
+	});
+	$("#cproducts").click(function(event){
+		$("#cfooter").hide();
+	    $("#cproducts_footer").fadeIn(1500);
+	});
+	$("#cback").hover(
+	function(event){
+		$(this).addClass('link_user_footer_large_fake_hover');},
+	function(event){
+		$(this).removeClass('link_user_footer_large_fake_hover');
+	});
+	$("#cback").click(function(event){
+		$("#cproducts_footer").hide();
+		$("#cfooter").fadeIn(1500);
+	});
+});
+</script>
+<div id="cfooter">
+<a class="link_user_footer_large" href="/tour">Tour</a><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="/about">About</a><span class="user_footer_large"> | </span>
+<span class="link_user_footer_large_fake" id="cproducts">Products</span><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="/trial">Trial</a><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="https://secure.brainpop.com/store/">Subscribe</a><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="/funding/">Funding</a><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="/about/research/">Research</a><span class="user_footer_large"> | </span>
 <a class="link_user_footer_large" href="/about/jobs_landing/">Jobs</a><span class="user_footer_large"> | </span>
-<a class="link_user_footer_large" href="/trial">Trial</a><span class="user_footer_large"> | <span>
-<a class="link_user_footer_large" href="/funding/">Funding</a><span class="user_footer_large"> | <span>
-<a class="link_user_footer_large" href="/about/research/">Research</a><span class="user_footer_large"> | <span>
-<a class="link_user_footer_large" href="https://secure.brainpop.com/store/">Subscribe</a><span class="user_footer_large"> | <span>
-<a class="link_user_footer_large" href="/help/">Help</a><span class="user_footer_large"> | <span>
-<a class="link_user_footer_large" href="/educators/">Educators</a>
-
-<br><br><span class="user_footer">© 1999-2010 BrainPOP. All rights reserved.<br>BrainPOP is a business name of FWD Media, Inc. Your use of the site <br>indicates your agreement to be bound by our <a class="link_user_footer" href="/about/terms_of_use">Terms of Use</a> and <a class="link_user_footer" href="/about/privacy_policy">Privacy Policy</a>.</span>
-		</span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<a class="link_user_footer_large" href="/help/">Help</a>
+</div>
+<div id="cproducts_footer" style="display: none;">
+<a class="link_user_footer_large" href="http://www.brainpopjr.com">BrainPOP Jr.</a><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="http://www.brainpopesl.com">BrainPOP ESL</a><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="http://esp.brainpop.com">BrainPOP Español</a><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="http://www.brainpop.co.uk">BrainPOP UK</a><span class="user_footer_large"> | </span>
+<a class="link_user_footer_large" href="http://www.brainpop.fr">BrainPOP Français</a><span class="user_footer_large"> | </span>
+<span class="link_user_footer_large_fake" id="cback">Back</span>
+</div>
+<br>
+<a class="link_user_footer_large" href="/topics">BrainPOP Home</a>
+<br><br>
+<span class="user_footer">© 1999-2011 BrainPOP. All rights reserved.<br>BrainPOP is a business name of FWD Media, Inc. Your use of the site <br>indicates your agreement to be bound by our <a class="link_user_footer" href="/about/terms_of_use">Terms of Use</a> and <a class="link_user_footer" href="/about/privacy_policy">Privacy Policy</a>.</span>
+		</td>
 	</tr>
 </tbody></table>
 <!-- FOOTER END-->
@@ -482,5 +387,5 @@ function hideAll()
 
 
 
-<!--Apache/2.0.63 (Unix)-->
-<!--51-->  </body></html>
+<!--Apache/2.2.3 (Red Hat)-->
+<!--225--><!-- Page Start 1304541865 Page End 1304541865 -->  </body></html>
