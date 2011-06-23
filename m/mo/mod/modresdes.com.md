@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the modresdes.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213235322id_/http%3A//www.modresdes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modresdes.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623103937id_/http%3A//www.modresdes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Modern Residential Design on modresdes.com
+# Privacy Policy - Home Decorating Ideas – Interior Design Ideas on Modern Residential Design
 
-What follows is the Privacy Statement for all Modresdes websites including all the websites run under the http://www.modresdes.com.
+What follows is the Privacy Statement for all Modresdes websites including all the websites run under the [http://www.modresdes.com](http://www.modresdes.com/).
 
-Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
+Please read this statement regarding our blogs. If you have questions please ask us via our [contact form](http://www.modresdes.com/contact/).
 
 **Email Addresses**  
 You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
@@ -34,4 +34,4 @@ If modresdes.com is acquired by or merges with another firm, the assets of our w
 modresdes websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by modresdes.com
 
 **Contact Information**  
-If you have any questions regarding our privacy policy, please contact us.
+If you have any questions regarding our privacy policy, please [contact us](http://www.modresdes.com/contact/).
