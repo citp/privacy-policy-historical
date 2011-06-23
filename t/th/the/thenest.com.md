@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406095727id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenest.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025235id_/http%3A//www.thenest.com/global/privacy.html) for the most accurate reproduction.*
 
-# 
-
-## PRIVACY POLICY
+# - TheNest.com
 
 If you have questions or concerns regarding this statement, you should first contact The Nest Member Services by emailing [membersupport@thenest.com](mailto:membersupport@thenest.com) and writing "Privacy Policy" in the subject line. You may also write to The Nest Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.
 
@@ -12,9 +10,9 @@ The first thing to remember about privacy is that there is only so much informat
 
 The Nest uses a cookie, a small data file stored on your computer, to customize portions of our site to your preferences. For example, The Nest uses a cookie to identify you as a Nest member and to make sure that only you have access to, for example, your own personal wedding budget and calendar. This way, you answer certain questions only once and not every time you participate in an activity or event. The cookie by itself doesn't tell us, or anyone else, who you are, what your email address is, or anything else personal. You provide that information when you register with The Nest, and only The Nest has access to that information. If you choose set up your browser to reject all cookies, please understand that you may be limited to some the areas or functionality within our site.
 
-For more information on cookies, please see our [Cookie FAQ](https://web.archive.org/web/20090406095727id_/http%3A//www.thenest.com/global/faq.html).
+For more information on cookies, please see our [Cookie FAQ](http://www.thenest.com/global/faq.html).
 
-You can browse The Nest and read our editorial content without registering or providing any personal information. However, in order to take advantage of our personalized services, you are required to provide us with information such as your name, email address, real-world address, wedding date, and role in the wedding. We collect similar information from users who choose to participate in our contests and promotional events. We always let you know before we collect any personal information from you. 
+You can browse The Nest and read our editorial content without registering or providing any personal information. However, in order to take advantage of our personalized services, you are required to provide us with information such as your name, email address, real-world address, wedding date, and role in the wedding. We collect similar information from users who choose to participate in our contests and promotional events. We always let you know before we collect any personal information from you.
 
 ### WHAT WE DO WITH THE INFORMATION WE COLLECT
 
@@ -49,3 +47,5 @@ If at some point in the future, there is a change to our information usage pract
 We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
 
 If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
+
+Jun 18, 2009 
