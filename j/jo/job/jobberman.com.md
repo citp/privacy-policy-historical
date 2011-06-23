@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201235148id_/http%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobberman.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623195018id_/http%3A//www.jobberman.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobberman-
 
@@ -6,7 +6,7 @@
 
 Created: September 21, 2009
 
-Questions or suggestions regarding this statement should be directed to [mailto:privacy@jobberman.com](mailto:privacy@jobberman.com)  
+Questions or suggestions regarding this statement should be directed to [privacy@jobberman.com](mailto:privacy@jobberman.com)  
 
 All information regarding a job offer is from sources deemed reliable. No representation is made as to the accuracy thereof, and such information is subject to errors, omission, change of details without notice.   
  
@@ -25,7 +25,7 @@ Jobberman does not sell or trade your personal information. Collected informatio
 
 **Use of Email Tools:**
 
-Upon registration, you may decide to subscribe for some offerings e.g. news, promotional materials. If you no longer wish to receive our newsletters and promotional communications from Jobberman, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at[email@jobberman.com](mailto:email@jobberman.com).
+Upon registration, you may decide to subscribe for some offerings e.g. news, promotional materials. If you no longer wish to receive our newsletters and promotional communications from Jobberman, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [email@jobberman.com](mailto:email@jobberman.com).
 
 **Shared information:**
 
