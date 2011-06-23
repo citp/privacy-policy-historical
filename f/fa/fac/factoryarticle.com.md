@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factoryarticle.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211113828id_/http%3A//factoryarticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoryarticle.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623065833id_/http%3A//factoryarticle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Article Directory Factory
 
