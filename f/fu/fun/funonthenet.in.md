@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funonthenet.in privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621234518id_/http%3A//www.funonthenet.in/content/view/394) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funonthenet.in privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024607id_/http%3A//www.funonthenet.in/content/view/394) for the most accurate reproduction.*
 
 # Privacy Policy - FunOnTheNet
 
@@ -60,5 +60,9 @@ We are posting this Policy to be a good web citizen. This site operates in good 
 
  **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us through email - [admin@funonthenet.in](mailto:admin@funonthenet.in)
+
+[Fun On The Net](http://www.funonthenet.in/) \- THE place for fun!
+
+To sign up to the Yahoo Group FunOnTheNet (to receive **selected** fun E-Mails everyday), enter your email address below.
 
 [](http://www.facebook.com/pages/Fun-On-The-Net/370462270641)
