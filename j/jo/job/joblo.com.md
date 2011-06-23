@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the joblo.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221172320id_/http%3A//www.joblo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblo.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624004844id_/http%3A//www.joblo.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for JoBlo's Movie Emporium
+# The JoBlo.com Privacy policy
 
-**Privacy Statement for JoBlo's Movie Emporium**
+**Privacy Statement for the JoBlo Movie Network**
 
-JoBlo's Movie Emporium (JoBlo.com) has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website:
+The JoBlo Movie Network (JoBlo.com) has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website:
 
 **Advertisers:  
 **We currently use several outside ad companies to display ads on our site. These ads may contain cookies (see below). Cookies received with banner ads are collected by the ad companies, and we do not have access to this information. Our site does not use cookies.
 
 **Third Party Advertising  
-**We use Gorilla Nation, MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
-
-This website may utilize certain services provided by DoubleClick, Inc. (“DoubleClick”).  For further information concerning DoubleClick’s privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to <http://www.doubleclick.com/us/about_doubleclick/privacy/>
+**We use Gorilla Nation, IndieClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Third Party Cookies   
 **In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
@@ -32,6 +30,7 @@ We also run contests from time to time, in which we ask visitors for contact inf
 This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Contacting the Web Site:**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact me, Berge Garabedian at
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact me, Berge Garabedian at [joblo@joblo.com.  
+](mailto:joblo@joblo.com)
 
-[joblo@joblo.com](mailto:joblo@joblo.com) 
+ 
