@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmarried.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201181549id_/http%3A//www.getmarried.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmarried.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623214819id_/http%3A//www.getmarried.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Get Married | Wedding Planning | Privacy Policy
 
@@ -64,4 +64,4 @@ The site may contain links to third-party websites, which may have privacy polic
 
   
 **Contact Us**  
-Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [privacy@getmarried.com](https://web.archive.org/web/20100201181549id_/http%3A//www.getmarried.com/privacy@getmarried.com). Please include "Question or Comment" in the subject line. 
+Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [privacy@getmarried.com](https://web.archive.org/web/20110623214819id_/http%3A//www.getmarried.com/privacy@getmarried.com). Please include "Question or Comment" in the subject line. 
