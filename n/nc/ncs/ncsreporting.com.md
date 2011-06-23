@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217090709id_/http%3A//www.ncsreporting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623174541id_/http%3A//www.ncsreporting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | NCS Reporting
 
-[Home](https://web.archive.org/web/20101217090709id_/http%3A//www.ncsreporting.com/login.aspx) -> Privacy Policy
+[Home](https://web.archive.org/web/20110623174541id_/http%3A//www.ncsreporting.com/login.aspx) -> Privacy Policy
 
 Privacy Policy 
 
