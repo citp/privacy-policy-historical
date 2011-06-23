@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the millionsubs.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221135235id_/http%3A//www.quiznos.com/about_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionsubs.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623215649id_/http%3A//www.quiznos.com/about_privacy_policy.html) for the most accurate reproduction.*
 
-# Quiznos.com
+# Privacy Policy
 
 TQSC II LLC and its affiliates ("Quiznos") recognizes its obligation to adhere to the highest standards of integrity for visitors to its website located at www.quiznos.com (the "Quiznos Website"). We have developed certain privacy practices in order to maintain these standards and to comply with applicable laws, rules and regulations, including the Children's Online Privacy Practices Act ("COPPA"). If you have any questions or comments about this site, or the Privacy Policy, you should contact the [Quiznos Webmaster](mailto:webmaster@quiznos.com) or call 720.359.3300.
 
