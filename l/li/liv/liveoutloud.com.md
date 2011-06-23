@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveoutloud.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203140234id_/http%3A//liveoutloud.com/home/live-out-loud-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoutloud.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623030843id_/http%3A//liveoutloud.com/privacy-policy) for the most accurate reproduction.*
 
-# Live Out Loud Privacy Policy
+# Privacy Policy | LiveOutLoud
 
-The privacy practices of this policy apply to our services available under the domain and subdomains of www.liveoutloud.com as well as the following related websites: www.loralsbigtable.com, www.millionairemakerbook.com, www.getrealwealthcoaching.com, www.liveoutloudcoaching.com, www.lorallangemeier.com, www.TeamMadeMillionaire.com, assets.liveoutloud.com, www.liveoutloudcommunity.com and www.wealthdiva.com (the “Website”). By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access the Website.
+The privacy practices of this policy apply to our services available under the domain and subdomains of [www.liveoutloud.com](http://liveoutloud.com/ "Live Out Loud") as well as the following related websites: www.loralsbigtable.com, www.millionairemakerbook.com, www.getrealwealthcoaching.com, www.liveoutloudcoaching.com, www.lorallangemeier.com, www.TeamMadeMillionaire.com, assets.liveoutloud.com, www.liveoutloudcommunity.com and www.wealthdiva.com (the “Website”). By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access the Website.
 
 We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use our services related to the Website, as well as some of the steps we take to safeguard use of the Website.
 
