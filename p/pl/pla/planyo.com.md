@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the planyo.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123164127id_/http%3A//www.planyo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planyo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623112754id_/http%3A//planyo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
-Privacy
-    
-    
+
     Privacy Notice Table Of Contents:
     
     1. Our Commitment To Privacy
@@ -38,8 +36,9 @@ Privacy
     details. We do not share this information with outside parties except the owner / administrator of
     the resource you are reserving.
     
-    We use the email addresses to answer the email we receive and to send you information related to your
-    reservations such as notification about reservation and updated reservation status. Such addresses are not
+    We use the email addresses to send you important information related to your
+    reservations such as reservation notifications and updated reservation status, or, if you are a site owner, 
+    important information related to your Planyo site in general. Such addresses are not
     used for any other purpose and are not shared with outside parties except the owner / administrator of the
     resource you are reserving.
     
