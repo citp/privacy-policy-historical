@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230211605id_/http%3A//wedding.theknot.com/wedding-tools-help-center/the-knot-about-us/articles/the-knot-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623224502id_/http%3A//wedding.theknot.com/wedding-tools-help-center/the-knot-about-us/articles/the-knot-privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Knot: Privacy Policy - TheKnot.com
 
