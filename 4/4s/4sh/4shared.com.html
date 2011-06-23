@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2010-07-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100709213318id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623040851id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Description" content="Online file sharing and storage - 10 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
 <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
-<link rel="stylesheet" type="text/css" href="http://www.4shared.com/css/main.css?ver=8994">
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/main.css?ver=4654">
 </head>
 <body>
 
@@ -14,16 +14,244 @@
 
 
 
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://static.4shared.com/bundles/css/630963420/css/openid.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/N261585984/bundles/js/global.js"></script>
+
+
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/N984828520/js/Events.js"></script>
+
+
+<script type="text/javascript">
+  var loginBox;
+  var signUpBox;
+  var eventObj;
+  var df;
+  var sd = '';
+  var su;
+  function loadAndShowSignUpBox(e, dfp, sup){
+    var signUpInDiv = true;
+    if(!signUpInDiv){
+      return true;
+    }
+
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+    df = dfp != undefined ? dfp : '';
+    su = sup != undefined ? sup : '';
+    document.body.style.cursor = 'wait';
+    ensureScriptsLoaded(true);
+    return false;
+  }
+
+  function loadAndShowLoginBox(e){
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+    document.body.style.cursor = 'wait';
+    ensureScriptsLoaded(false);
+    addCapsChecking();
+    return false;
+  }
+
+  function ensureScriptsLoaded(signup){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof dragObj == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared.com/js/dw_event.js?ver=4655')
+              .script('http://static.4shared.com/js/dw_viewport.js?ver=4655')
+              .script('http://static.4shared.com/js/dw_writedrag.js?ver=4655')
+              .script('http://static.4shared.com/js/dw_drag.js?ver=4655')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared.com/js/plugins/jquery.openid.js?ver=4655')
+              .script('http://static.4shared.com/js/login_fnc.js?ver=4655')
+              .wait(function(){
+                loginFnc.msgEmail = 'your e-mail';
+                loginFnc.msgOpenIdAccount = 'your OpenID account';
+                loginFnc.msgEmptyEmail = 'You did not enter your e-mail address';
+                loginFnc.msgEmptyPassword = 'You did not enter your password';
+                loginFnc.msgEmptyPassword2 = 'You did not confirm your password';
+                loginFnc.msgIncorrectEmail = 'Your e-mail address is incorrect.';
+                loginFnc.msgTryAgain = 'Please try again.';
+                if(signup)  ensureSignUpContentLoaded(); else ensureLoginContentLoaded();
+              });
+    }else{
+      if(signup)  ensureSignUpContentLoaded(); else ensureLoginContentLoaded();
+    }
+  }
+
+  function ensureLoginContentLoaded(){
+    if(typeof loginBox == 'undefined'){
+      $('#loginBoxDiv').load('/loginBox.jsp',
+          {
+            login : '',
+            password : '',
+            fpRedirParam : 'http://www.4shared.com/privacy.jsp',
+            remember : true
+            
+
+            
+          },
+          function(){
+            showLoginBox();
+          }
+      );
+    }else{
+      showLoginBox();
+    }
+  }
+
+  function ensureSignUpContentLoaded(){
+    if(typeof signUpBox == 'undefined'){
+      $('#signUpBoxDiv').load('/signUpBox.jsp',
+          {
+            login : '',
+            password : '',
+            fpRedirParam : 'http://www.4shared.com/privacy.jsp',
+            remember : true,
+            df : df,
+            sd : sd,
+            su : su
+            
+          },
+          function(){
+            showSignUpBox();
+          }
+      );
+    }else{
+      showSignUpBox();
+    }
+  }
+
+  function loadSignUpBox() {
+    $('#signUpBoxDiv').load('/signUpBox.jsp', {
+      login : '',
+      password : '',
+      fpRedirParam : 'http://www.4shared.com/privacy.jsp',
+      remember : true,
+      
+      df : df,
+      sd : sd
+    });
+  }
+
+  function showLoginBox(){
+    if(typeof loginBox == 'undefined'){
+      loginBox = new WriteDrag('loginBoxDiv');
+      $('form.openid:eq(0)').openid();
+    }
+    writeDrag.hide();
+    loginFnc.showLoginBox(eventObj);
+
+    addCapsChecking();
+  }
+
+  function showSignUpBox(){
+    if(typeof signUpBox == 'undefined'){
+      signUpBox = new WriteDrag('signUpBoxDiv');
+    }
+    writeDrag.hide();
+    loginFnc.showSignUpBox(eventObj);
+  }
+
+  function signOut(serverURL){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+        .script('http://static.4shared.com/js/login_fnc.js?ver=4655')
+        .wait(function(){
+          loginFnc.signOut(serverURL);
+        });
+    }else{
+      loginFnc.signOut(serverURL);
+    }
+    return false;
+  }
+
+  function redirectToAccount(){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+        .script('http://static.4shared.com/js/login_fnc.js?ver=4655')
+        .wait(function(){
+          loginFnc.goToAccount();
+        });
+    }else{
+      loginFnc.goToAccount();
+    }
+    return false;
+  }
+
+  function addCapsChecking() {
+    $('input[type=password]').caps(function(caps) {
+      var form = $(this).parents('form:first');
+      // "this" is current element
+      (caps) ? $('.capsWarning', form).show() : $('.capsWarning', form).hide();
+    });
+  }
+</script>
+
+<script type="text/javascript">
+  $(function() {
+    addCapsChecking()
+    $('#loginfield, #passfield').keypress(function(event) {
+      if (event.which != '13') return true
+
+      var form = $(this).parents('form:first')
+      $('input[type=submit]', form).click()
+      return false
+    })
+  })
+</script>
+
+
+
 <table cellpadding="0" cellspacing="0" class="head" align="center">
     <tbody><tr>
-        <td width="90"><a href="http://www.4shared.com/"><img src="http://www.4shared.com/images/spacer.gif" alt="4shared, Free online files sharing" class="logo"></a></td>
+        <td width="90"><a href="http://www.4shared.com/"><img src="http://static.4shared.com/images/spacer.gif" alt="4shared, Free online files sharing" class="logo"></a></td>
         <td width="150"><h1>Free file sharing</h1></td>
         
         <td align="center" valign="bottom">
               
-      <a href="http://www.4shared.com/premium.jsp?ref=top"><img src="http://www.4shared.com/images/pr.gif" alt="Premium" onmouseover="this.src='http://www.4shared.com/images/pro.gif'" onmouseout="this.src='http://www.4shared.com/images/pr.gif'" height="69" width="175"></a>
-                
-        </td>
+      <a href="http://www.4shared.com/premium.jsp?ref=top"><img src="http://static.4shared.com/images/pr.gif" alt="Premium" onmouseover="this.src='http://static.4shared.com/images/pro.gif'" onmouseout="this.src='http://static.4shared.com/images/pr.gif'" height="69" width="175"></a></td>
         
         <td class="alignRight" style="font-weight:bold;">
           
@@ -36,9 +264,10 @@
 
 
 
-<a href="http://www.4shared.com/signup.jsp">Sign Up</a>
+
+<a href="http://www.4shared.com/signup.jsp" onclick="return loadAndShowSignUpBox(event);">Sign Up</a>
 &nbsp;&nbsp;
-<a href="http://www.4shared.com/login.jsp" onclick="return (typeof showLoginBox == 'function' ? showLoginBox(event) : true);">Log In</a>
+<a href="http://www.4shared.com/login.jsp" onclick="return loadAndShowLoginBox(event);">Log In</a>
 
         </td>
         
@@ -50,15 +279,22 @@
         <td>
             <div class="resheight">
 
-    <img src="http://www.4shared.com/images/spacer.gif" alt="" class="ctr">
-    <img src="http://www.4shared.com/images/spacer.gif" alt="" class="ctl"><br clear="all">
+    <img src="http://static.4shared.com/images/spacer.gif" alt="" class="ctr">
+    <img src="http://static.4shared.com/images/spacer.gif" alt="" class="ctl"><br clear="all">
     <table cellpadding="0" cellspacing="0" width="801">
         <tbody><tr>
             <td class="alignRight">
                 
                 
-                <a href="http://www.4shared.com/premium.jsp?ref=header" class="greylink"><b>Premium</b></a> &nbsp;
+
+
+
+
+<a href="http://www.4shared.com/premium.jsp?ref=header" class="greylink"><b>Premium</b></a> &nbsp;
                 
+
+                
+
 
                 <a href="http://www.4shared.com/faq.jsp" class="greylink">FAQ</a> &nbsp;
                 <a href="http://www.4shared.com/tutorial/" class="greylink">Quick Tour</a>
@@ -88,8 +324,11 @@
       if(shortLang.length>2){
           shortLang=shortLang.substr(0,2).toLowerCase();
       }
-      str=str.replace("en.4shared.com", shortLang+"."+"4shared.com")
-      top.location.href=str;
+        str=str.replace("en.4shared.com", shortLang+"."+"4shared.com")
+        if(str.indexOf('#')>0){
+            str=str.substr(0,str.indexOf('#'));
+        }
+        top.location.href=str;
     }
   }
     document.write('<iframe width="0" height="0" id="iapHiddenFrame" name="iapHiddenFrame" style="display:none;" onload="iapHiddenFrameOnload()" ><'+'/iframe>')
@@ -122,13 +361,17 @@
               
                 <li><a href="javascript:void(selectLang('pl'));"><span>Polski</span></a></li>
               
+                <li><a href="javascript:void(selectLang('fa'));"><span>پارسی</span></a></li>
+              
                 <li><a href="javascript:void(selectLang('tr'));"><span>Türkçe</span></a></li>
               
                 <li><a href="javascript:void(selectLang('in'));"><span>Bahasa Indonesia</span></a></li>
               
                 <li><a href="javascript:void(selectLang('th'));"><span>ไทย</span></a></li>
               
-                <li><a href="javascript:void(selectLang('it'));"><span>Italiano (beta)</span></a></li>
+                <li><a href="javascript:void(selectLang('de'));"><span>Deutsch</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('it'));"><span>Italiano</span></a></li>
               
                 <li><a href="javascript:void(selectLang('zh'));"><span>中文</span></a></li>
               
@@ -139,8 +382,6 @@
                 <li><a href="javascript:void(selectLang('vi'));"><span>Tiếng Việt</span></a></li>
               
                 <li><a href="javascript:void(selectLang('ms'));"><span>Bahasa Melayu</span></a></li>
-              
-                <li><a href="javascript:void(selectLang('af'));"><span>Afrikaans</span></a></li>
               
                 <li><a href="javascript:void(selectLang('ru'));"><span>Русский</span></a></li>
               
@@ -166,6 +407,12 @@
 
         </tr>
     </tbody></table>
+              
+    <div id="loginBoxDiv" style="visibility:hidden;">
+    </div>
+    <div id="signUpBoxDiv" style="visibility:hidden;">
+    </div>
+
 
           <div class="large green" style="padding-left:20px">4shared Privacy Policy</div>
             <div style="padding-top:20px;margin-right:20px;margin-left:20px;text-align:justify;">
@@ -243,13 +490,14 @@
 
 
 
-
-
-
-
-
-
 </div>
+
+
+
+
+
+
+
 <div class="footer">
     <table cellpadding="0" cellspacing="0" width="100%">
         <tbody><tr valign="top">
@@ -258,8 +506,8 @@
                 <a href="http://www.4shared.com/">Home</a><br>
                 <a href="http://www.4shared.com/premium.jsp?ref=footer">Premium</a><br>
                 <a href="http://search.4shared.com/search.html">Search</a><br>
-                <a href="http://www.4shared.com/signup.jsp">Sign Up</a><br>
-                <a href="http://www.4shared.com/login.jsp">Log In</a>
+                <a href="http://www.4shared.com/signup.jsp" onclick="return loadAndShowSignUpBox(event, '');">Sign Up</a><br>
+                <a href="http://www.4shared.com/login.jsp" onclick="return loadAndShowLoginBox(event);">Log In</a>
             </td>
             <td class="fcol">
                 <div>Help</div>
@@ -273,7 +521,7 @@
                 <div>About</div>
                 <a href="http://www.4shared.com/company.jsp">Company</a><br>
                 <a href="http://www.4shared.com/advertise/">Advertising</a><br>
-                <a href="http://www.4shared.com/affiliate/">Affiliate</a><br>
+                
                 <a href="http://www.4shared.com/resellers.jsp">Resellers</a><br>
                 <a href="http://www.4shared.com/links.jsp">Link to Us</a>
             </td>
@@ -287,31 +535,34 @@
             </td>
             <td class="fcol">
                 <div>Sharing</div>
-                <a href="http://www.4shared.com/file_sharing.jsp">File Sharing</a><br>
-                <a href="http://www.4shared.com/share_music.jsp">Music Sharing</a><br>
-                <a href="http://www.4shared.com/share_photo.jsp">Photo Sharing</a><br>
-                <a href="http://www.4shared.com/share_video.jsp">Video Sharing</a><br>
-                <a href="http://www.4shared.com/share_document.jsp">Document Sharing</a>
+                <a href="http://www.4shared.com/4shared-features.jsp#filesh">File Sharing</a><br>
+                <a href="http://www.4shared.com/4shared-features.jsp#musicsh">Music Sharing</a><br>
+                <a href="http://www.4shared.com/4shared-features.jsp#photosh">Photo Sharing</a><br>
+                <a href="http://www.4shared.com/4shared-features.jsp#videosh">Video Sharing</a><br>
+                <a href="http://www.4shared.com/4shared-features.jsp#docsh">Document Sharing</a>
             </td>
             <td class="fcol">
                 <div>Media</div>
-                <a href="http://www.4shared.com/news.jsp">News</a><br>
+                <a href="http://www.4shared.com/press_room/">Press Room</a><br>
                 <a href="http://forum.4shared.com/" target="_blank">Forum</a><br>
                 <a href="http://blog.4shared.com/" target="_blank">Blog</a><br>
-                <a href="http://twitter.com/4sharedTEAM" target="_blank" title="Follow us on Twitter"><img src="http://www.4shared.com/images/spacer.gif" alt="Twitter" class="tw"> Twitter</a><br>
-                <a href="http://www.facebook.com/group.php?gid=178892764023" target="_blank" title="Find us on Facebook"><img src="http://www.4shared.com/images/spacer.gif" alt="Facebook" class="fb"> Facebook</a>
+                <a href="http://twitter.com/4sharedTEAM" target="_blank" title="Follow us on Twitter" rel="nofollow"><img src="http://static.4shared.com/images/spacer.gif" alt="Twitter" class="tw"> Twitter</a><br>
+                <a href="http://www.facebook.com/official.4shared" target="_blank" title="Follow us on Facebook" rel="nofollow"><img src="http://static.4shared.com/images/spacer.gif" alt="Twitter" class="fb"> Facebook</a><br>
             </td>
             <td class="fcol last">
                 <div>Tools</div>
-                
-                    <a href="http://www.4shared.com/m/">4shared for Symbian</a><br>
-                    <a href="http://www.4shared.com/iphone/">4shared for iPhone</a><br>
+                    
+                    <a href="http://www.4shared.com/m/symbian.jsp">4shared for Symbian</a><br>
+                    
                     <a href="http://www.4shared.com/desktop/">4shared Desktop</a><br>
                     <a href="http://www.4shared.com/toolbar/">4shared Toolbar</a><br>
-                <a href="http://help.4shared.com/index.php/SOAP_API" target="_blank">API</a>
+                    <a href="http://www.4shared.com/developer/">Developer</a><br>
+                    <a href="http://help.4shared.com/index.php/SOAP_API" target="_blank">API</a>
+
             </td>
         </tr>
     </tbody></table>
+
     
 
 
@@ -321,16 +572,19 @@
 
 </div>
 
+
 <div style="position:relative;">
 <div class="copy">
-    Copyright <span title="dc211, rev=8994">©</span> 2005-2010 4shared.com 
+    Copyright <span title="dc329, rev=4654">©</span> 2005-2011 4shared.com 
 </div>
 
 </div>
-<!-- www.currDcID=211 -->
+<!-- www.currDcID=329 -->
 </td>
 </tr>
 </tbody></table>
+
+
 
 
 
@@ -342,9 +596,21 @@ var sc_partition=51;
 var sc_click_stat=1;
 var sc_security="e8ecc2ac";
 </script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript>
+  <div class="statcounter">
+    <a title="free hit counter" href="http://www.statcounter.com/free_hit_counter.html" target="_blank">
+      <img class="statcounter" src="http://c.statcounter.com/4135125/0/e8ecc2ac/1/" alt="free hit counter" >
+    </a>
+  </div>
+</noscript>
+<script type="text/javascript">
+ document.write("<img src='http://www.jscount.com/a/4/28b1a41b/z?ref="+
+escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")</script><img src="http://www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20110623040851id_/http%253A//www.4shared.com/privacy.jsp&amp;rand=0.07011216674931364" width="1" height="1" alt="" style="display:none">
 
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="free hit counter" href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4135125/0/e8ecc2ac/1/" alt="free hit counter" ></a></div></noscript>
 <!-- End of StatCounter Code -->
+
+<!-- Start of google-analytics -->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -353,26 +619,34 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-306602-1");
+pageTracker._setSampleRate("10"); //sets sampling rate to 7 percent
 pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}
+</script>
 
-<!--LiveInternet counter--><script type="text/javascript"><!--
+<!-- End of google-analytics -->
+
+<!--LiveInternet counter-->
+<script type="text/javascript">
+<!--
 document.write("<img src='http://counter.yadro.ru/hit?r"+
 escape(document.referrer)+((typeof(screen)=="undefined")?"":
 ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
-"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20100709213318id_/http%253A//www.4shared.com/privacy.jsp;0.5410560705745493" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
+"' width=1 height=1 alt='' style='display:none'>")//-->
+</script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20110623040851id_/http%253A//www.4shared.com/privacy.jsp;0.5136374134740482" width="1" height="1" alt="" style="display:none">
+<!--/LiveInternet-->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-23Fqia_-MkKko";quantserve();</script>
 <noscript>
-<a href="http://www.quantcast.com/p-23Fqia_-MkKko" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-23Fqia_-MkKko.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"></a>
+<a href="http://www.quantcast.com/p-23Fqia_-MkKko" target="_blank">
+  <img src="http://pixel.quantserve.com/pixel/p-23Fqia_-MkKko.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast">
+</a>
 </noscript>
 <!-- End Quantcast tag -->
-
-
 
 
 
