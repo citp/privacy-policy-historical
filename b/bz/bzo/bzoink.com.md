@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzoink.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120084139id_/http%3A//bzoink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzoink.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023458id_/http%3A//bzoink.com/privacy.php) for the most accurate reproduction.*
 
 # Bzoink - Privacy Policy
 
