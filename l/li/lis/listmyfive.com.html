@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the listmyfive.com privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217040933id_/http%3A//www.listmyfive.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listmyfive.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623070940id_/http%3A//www.listmyfive.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     var _gaq = _gaq || [];
@@ -15,8 +15,6 @@
 
 
     <meta name="google-site-verification" content="1v_JstAh9qvey9q6RwvZ94WrxqCRbq1SAH-be_gy6uM">
-
-
     <meta name="msvalidate.01" content="4996AD3BAEBA48D29C45B818F14AA66B"><meta name="y_key" content="efade99f467d3d13"><title>
 	
     Privacy Policy
@@ -34,10 +32,6 @@
 <![endif]-->
 </head>
 <body>
-    <noscript>
-       <META HTTP-EQUIV="Refresh" CONTENT="0;URL=JavaScriptDisabled">
-
-    </noscript>
     <div id="Wrapper">
         <div id="Header">
             <div id="Logo">
@@ -45,26 +39,77 @@
             </div>
             <div id="GoogleSearchTop" class="FL">
                 
+
 <script type="text/javascript" src="https://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-<form action="http://www.listmyfive.com/home/search" id="cse-search-box">
-<div>
+
+<div class="Clear">
+</div>
+<select name="ddlList" id="ddlList" onchange="javascript:ShowSearchBox();" class="FL">
+    <option value="0">Listing</option>
+    <option value="1">Members</option>
+</select>
+<div id="DivGoogleSearch">
+    <form action="http://www.listmyfive.com/home/search" id="cse-search-box">
     <input type="hidden" name="cx" value="partner-pub-4032168902400909:yxvuwo-51f9">
     <input type="hidden" name="cof" value="FORID:10">
     <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" size="100">
-    <input type="submit" class="BtnS" name="sa" value="Search">
+    <input type="text" name="q" size="100" id="qSearch4" class="FL">
+    <input type="submit" class="BtnS FR" name="sa" value="Search">
+    </form>
 </div>
-</form>
+<div style="display: none;" id="DivMemberSearch">
+    <input type="text" name="txtSearch" size="100" id="txtSearch" class="FL">
+    <input type="button" onclick=" SearchProfile();" class="BtnS FR" name="sa" value="Search">
+</div>
 
+
+<script language="javascript" type="text/javascript">
+    $("#ddlList").val("Listing");
+    function ShowSearchBox() {
+        var txtval = $("#ddlList option:selected").text();
+        if (txtval == "Members") {
+            $("#DivGoogleSearch").hide();
+            $("#DivMemberSearch").show();
+            $("#txtSearch").val($("#qSearch4").val());
+        }
+        else {
+
+            $("#DivMemberSearch").hide();
+            $("#DivGoogleSearch").show();
+            $("#qSearch4").val($("#txtSearch").val());
+        }
+    }
+
+    function SearchProfile() {
+        var txt = $('#txtSearch').val();
+        var txtval = $("#ddlList option:selected").text();
+        if (txtval == "Members") {
+            if (txt == '') {
+                alert("Please enter keyword for Search.");
+                return false;
+            }
+            window.location = '/Home/SearchProfile/?searchTxt=' + txt;
+        }
+    }
+
+    $('#txtSearch').keyup(function(event) {
+        if (event.keyCode == 13) {
+            SearchProfile();
+        }
+    });
+
+</script>
             </div>
-            <a href="/User/AddList" class="BTN_CreateAList"></a>
+            
+            <a href="javascript:void();" onclick="javascript:LoginPop();" class="BTN_CreateAList">
+            </a>
             <div id="MenuHeader">
                 
                 <ul id="menu" class="FR">
                     
                     <li>
-                        <a href="/Account/LogOn">Login</a>
-                    </li>
+                        
+                        <a href="javascript:void(0);" onclick="javascript:LoginPop();">Login</a> </li>
                     <li>| </li>
                     <li>
                         <a href="/Account/Region">Create an Account</a>
@@ -451,6 +496,134 @@
 
     <div id="fb-root">
     <script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+    <div id="PopUpLogin" style="display: none" title="Login">
+        
+<input type="hidden" id="IsLoggedOut" value="">
+<form id="FormLogOn" name="FormLogOn" method="post" action="/Account/LogOnPopUp/">
+<style type="text/css">
+    a.LinkBlue {
+        color: #346CA5 !important;
+    }
+</style>
+<link href="../../Scripts/Jquery.Plugin/jquery-ui-1.8.1.custom.css" rel="stylesheet" type="text/css">
+
+<script src="../../Scripts/Jquery.Plugin/jquery-ui-1.8.1.custom.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#FormLogOn").validationEngine();
+
+    });
+    function FacebookLogin() {
+        if ($("#IsLoggedOut").val() == 'True') {
+            FB.logout();
+            $("#IsLoggedOut").val('');
+        }
+        FB.getLoginStatus(function(response) {
+            if (response.session) {
+                //window.location = '/Account/LogOnPopUp/?id=refresh';
+                $.post("/Account/LogOnPopUpFaceBook", function(data) {
+                    if (data == "Success") {
+                        window.parent.location.reload();
+                    }
+                    else {
+                        OpenPurr('', data);
+                    }
+                });
+
+            }
+            else {
+                // no user session available, someone you dont know
+            }
+        });
+    }
+    function CloseDialog() {
+        $('#PopUpLogin').dialog("close");
+    }
+
+    function LoginUser() {
+        if ($("#FormLogOn").validationEngine({ returnIsValid: true })) {
+            $.post("/Account/LogOnPopUp/", $("#FormLogOn").serialize(), function(data) {
+                SetUserNamePassWordText();
+                if (data == "Success") {
+                    $('#PopUpLogin').dialog("close");
+                    window.parent.location.reload();
+                }
+                else {
+                    OpenPurr('', data);
+                }
+            });
+        }
+    }
+   
+</script>
+<div class="AlreadyMember">
+    <h1 class="TxtOrange CAlign">
+        Welcome Back
+    </h1>
+    <br>
+    <p class="TxtRed CAlign">
+        
+        
+    </p>
+    <br>
+    <div class="CAlign">
+        <fb:login-button autologoutlink="false" onclick="javascript:CloseDialog();" onlogin="FacebookLogin();" perms="publish_stream,email,user_birthday">Login in with Facebook</fb:login-button>
+    </div>
+    <div class="Clear">
+    </div>
+    <p class="FL ML50 MT10 TxtRed">
+        Before logging in with Facebook you must register your Facebook by clicking the
+        'Create An Account' button.
+    </p>
+    <div class="HLineA CAlign">
+        <span class="TxtBG1 TxtBlueD">or </span>
+    </div>
+    <br>
+    <h4 class="CAlign">
+        Enter Your LM5 Credentials.
+    </h4>
+    <ul class="LabelS MT20">
+        <li>
+            <label for="UserName">User name</label>
+            <input class="validate[required]" id="UserName" name="UserName" type="text" value="">
+            
+        </li>
+        <li>
+            <label for="Password">Password</label>
+            <input class="validate[required]" id="Password" name="Password" type="password">
+            
+        </li>
+        <li>
+            <label for="RememberMe">Remember me?</label>
+            <input id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false">
+        </li>
+        <li>
+            <label>
+                &nbsp;
+            </label>
+            <input type="button" value="Log In" class="BtnS" onclick="javascript:LoginUser();">
+        </li>
+        <li class="MT10">
+            <label>
+                &nbsp;
+            </label>
+            <a id="aForgot" href="/Account/Forgot/" class="IconKey LinkBlue">Forgot username or password?
+            </a></li>
+    </ul>
+    <br>
+    <br>
+    <h4 class="CAlign">
+        Don't have an account?
+           
+        <a href="/Account/Region" class="LinkBlue">Register here.</a> 
+    </h4>
+</div>
+</form>
+
+
+
+    </div>
 
     <script type="text/javascript">
         window.fbAsyncInit = function() {
@@ -468,7 +641,7 @@
             window.location = '/Account/LogOn';
         }
 
-     function JoinProgramValid() { 
+     function JoinProgramValid() {
         var aa=0;
         if(aa<18)
         {alert("To join the WCP, you must be 18 years or older.  Please update your age in the 'Edit Account' section.");}
@@ -477,16 +650,16 @@
            window.location="/User/JoinProgram";
           }
         }
-        
+
         function LogOutFacebook() {
                 FB.getLoginStatus(function(response) {
                            //alert("Logout");
                            FB.logout();
-                           FB.logout();
-                           window.location="/Account/LogOff";
+                          window.location="/Account/LogOff";
                     });
+                    window.location="/Account/LogOff";
         }
-        
+
             function FacebookConnect() {
         FB.getLoginStatus(function(response) {
             if (response.session) {
@@ -499,12 +672,91 @@
             }
         });
     }
-        
-        
-        
+    function LoginPop()
+    {
+       if ('False' == 'True') {
+                window.location.reload();
+        }
+        else {
+            SetUserNamePassWordText();
+            OpenPopUp("PopUpLogin", 450, 520);
+        }
+     }
+     function SetUserNamePassWordText() {
+        $('#UserName').val("");
+        $('#Password').val("");
+    }
     </script>
 
+    <script type="text/javascript">
+        $(document).ready(function() {
+                    
+            $("#FormLogOn").validationEngine();
+            
+            window.setInterval(function() {
+            var randomnumber = Math.floor(Math.random() * 10101)
+                if ('False' == 'True') {
+                    $.get("/CommunicationTool/GetInboxCount?id=" + randomnumber, null, function(data) {
+                                               var ele = $("#UnReadMsgCount");
+                        if (data == 0) {
+                            ele.html("").removeClass("BlockTxt");
+                        }
+                        else {
+                            ele.html("").removeClass("BlockTxt");
+                            ele.html(data).addClass("BlockTxt");
+                        }
+                    });
+                }
+            }, 60000);
+        });
 
+        function FacebookLogin() {
+            if ($("#IsLoggedOut").val() == 'True') {
+                FB.logout();
+                $("#IsLoggedOut").val('');
+            }
+            FB.getLoginStatus(function(response) {
+                if (response.session) {
+                    //window.location = '/Account/LogOnPopUp/?id=refresh';
+                    $.post("/Account/LogOnPopUpFaceBook", function(data) {
+                        if (data == "Success") {
+                            window.parent.location.reload();
+                        }
+                        else {
+                            OpenPurr('', data);
+                        }
+                    });
+
+                }
+                else {
+                    // no user session available, someone you dont know
+                }
+            });
+        }
+        function CloseDialog() {
+            $('#PopUpLogin').dialog("close");
+        }
+
+        function LoginUser() {
+            if ($("#FormLogOn").validationEngine({ returnIsValid: true })) {
+                $.post("/Account/LogOnPopUp/", $("#FormLogOn").serialize(), function(data) {
+                    SetUserNamePassWordText();
+                    if (data == "Success") {
+                        $('#PopUpLogin').dialog("close");
+                        window.parent.location.reload();
+                    }
+                    else {
+                        OpenPurr('', data);
+                    }
+                });
+            }
+        }
+        function SetUserNamePassWordText() {
+            $('#UserName').val("");
+            $('#Password').val("");
+        }
+
+    </script>
 
 
 </body></html>
