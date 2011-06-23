@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodreads.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230004803id_/http%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodreads.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623121308id_/http%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
 
-# privacy policy
+# Privacy Policy
 
 This privacy policy was last modified on December 29, 2008.
 
