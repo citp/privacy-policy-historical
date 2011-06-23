@@ -1,68 +1,57 @@
-> *The following text is extracted and transformed from the myxango.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615151005id_/http%3A//mymangosteen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxango.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623151252id_/http%3A//www.xango.com/misc/privacy-policy) for the most accurate reproduction.*
 
-# MyMangosteen Privacy Policy
+# Privacy Policy | XANGO
 
-##   
-Does MyMangosteen Share My Information With Outside Parties?
+XANGO, LLC (“XANGO” or “we”) respects your individual privacy. This Privacy Policy documents our adherence to the highest industry standards for the protection of your personal information. By visiting this web site (“Site”) or using any of the services offered on the Site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy is effective as of August 1, 2007, applies to information collected through the Site and covers the following areas:
 
-Absolutely not. All members and interested parties of MyMangosteen can rest assured that their information will not be sold or rented to any third parties. Personal information, such as billing or shipping, is kept on our secure servers.
+1\. Information Collection and Use
 
-You will have access to your Powerline information, which includes the name, city, and order amount of your MyMangosteen organization. Members are only allowed to contact other MyMangosteen members in their line for support or training purposes and cannot share information with others.
+XANGO collects information on the Site at two different stages. First, we collect anonymous, aggregate information (such as domain name or IP address) from all visitors to the Site. This type of information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of the Site.
 
-## What information Does MyMangosteen.com Collect?
+Second, we require the submission of certain personally identifiable information when you use the services available on the Site. For example, your use of your username and password allows us to identify you as a distributor of XANGO® products.
 
-We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, tracking your orders and Powerline, sending commission checks, improving our site, and communicating with you.
+2\. Personal Information of Children Under 13
 
-When ordering products and/or registering on the site, we need you to provide certain information in order for us to create a user profile so that we may customize preferences for each specific user, as well as provide a faster method for users to submit information to MyMangosteen.com, LLC., and receive back either the information or products desired.
+XANGO complies with the requirements of the Children’s Online Privacy Protection Act (“COPPA”) and the FTC’s rule interpreting COPPA (16 CFR § 512). This Site is not directed to children and we do not knowingly collect any personally identifiable information from children under 13 years of age through this Site.
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses MyMangosteen.com or any of the other MyMangosteen.com sites. A number of companies offer utilities designed to help you visit Web sites anonymously. If you use one of these products we will not be able to provide a personalized experience at MyMangosteen.com.
+3\. Use of Your Personal Information
 
-## Cookies
+Except as otherwise provided in this Privacy Policy, XANGO does not sell, rent, or share user information to or with any third party not affiliated with or owned by XANGO, except service providers who may assist XANGO in areas such as data storage. XANGO will never give or sell your personal information to be used for the purposes of sending you unsolicited commercial offers (such as spam) from any third party. We will not ourselves use your personal information to send you unsolicited commercial offers. However, we may need to contact you for purposes other than marketing, as for example regarding the status of the Site, your account or other matters related to your role as a distributor of XANGO® products. You may not opt-out of these kinds of communications.
 
-Cookies are bits of electronic information that a Web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow Web site operators to better customize visits to the site to the visitor's individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. Although most Web browsers automatically accept cookies, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept it. Even without accepting a cookie, you can still access most of the features on the site. MyMangosteen.com uses cookies so that they can help provide its visitors with a better experience on our site.
+4\. Use of Aggregate Information
 
-## Security of Personal Information
+We store information that we collect through log files to create a profile of our users. Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Site, track a user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. A profile is stored information detailing how individual users use the Site. It is used solely for internal purposes, to help us improve the experience of our users. We do not share your profile with any third parties.
 
-We work to protect the security of your information during transmission of sensitive/credit data by using Secure Sockets Layer (SSL) software, which encrypts information you input. User personal data is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems.
+5\. Disclosure of Personal Information As Required By Law
 
-## What Information can I access?
+We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others.
 
-MyMangosteen.com gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list may change as our Web site evolves. 
+6\. Business Transfers
 
-  * Account Information
-  * Public Profile
-  * Newsletter Subscriptions
+In the event XANGO goes through a business transition or a transfer, such as a merger, acquisition by another company, or sale of a portion of its assets, or in the unlikely event that XANGO goes out of business or enters bankruptcy, our users’ personal information may be part of the assets transferred. You acknowledge that such transfers may occur, and that any acquiror of XANGO or its assets may continue to use your personal information as set forth in this Privacy Policy.
 
+7\. Links
 
+The Site contains links to other web sites. XANGO is not responsible for the privacy practices or content of these other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by our Site.
 
-## Kids under 13 (Special Note to Parents)
+8\. Security
 
-Pursuant to the provisions of the Federal Children's Online Privacy Protection Act (COPPA), we do not collect information from children under thirteen years of age without the consent of a parent legal guardian. Parent (or legal guardians) may provide us with consent to collect such information by e-mail, by facsimile or by posted mail. Parents may request to review information collected from their child, may ask to have that information deleted, and may refuse to allow further collection or use of the child's information. To request such review or to give instructions regarding the information we have collected about a child, parents/legal guardians should contact us.
+XANGO takes commercially reasonable precautions to protect your information. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information.
 
-We encourage parents and guardians to spend time online with their children, to participate in the interactive activities offered online, and for children to consult with their parents before submitting any information to this or any other web site. Although guest under eighteen years of age may be allowed, with their parent's permission and supervision, to participate in noted contests, if such a guest wins, notification and prizes will be sent to such guest's parents or guardian. Parents should consider using parental control tools available from online services and software manufacturers to help supervise their children's online activities. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page.
+We also make an effort to protect your information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store your personally identifiable information are housed in a secure environment.
 
-## Does MyMangosteen.com Share the Information It receives?
+When registering for access to a secure area of the Site, we will ask you to select a username and password. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence when accessing your computer.
 
-MyMangosteen.com's Privacy Policy (as detailed below) outlines that we do not collect personal information about individuals except when knowingly provided by such individuals (or as otherwise detailed below). Any personal information (e.g., name, e-mail address, etc.) provided by such individuals may be used in connection with MyMangosteen.com websites and for such other purposes as may be indicated at the point of collection (or otherwise detailed in the MyMangosteen.com, LLC Privacy Policy).
+If you have any questions about the security at our Site, you can send a message to the webmaster at [ webmaster@xango.com](mailto:webmaster@xango.com).
 
-You should be aware that when you voluntarily disclose personal information (e.g. name, e-mail address, etc.) on the MyMangosteen.com websites, such information can be collected and used by others and may result in unsolicited messages.
+9\. Correcting, Updating, Deleting and Deactivating Personal Information
 
-## What Choices do I have?
+If your personally identifiable information changes, you may contact us to correct, update or delete and deactivate our record of your personally identifiable information.
 
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain site features.
+10\. Notification of Changes
 
-You can add or update certain information on pages such as those listed in the "What Information Can I Access?" section above.
+If we decide to change our Privacy Policy, we will prominently post a notice on the main page and other pages to alert you of the change. If the Privacy Policy changes materially so that your personally identifiable information will be used in a manner different from that stated at the time of collection, we will try to contact you by e-mail to give you a choice as to whether or not we may use your information in this different manner. However, you are responsible for ensuring we have a current working e-mail address for you. If the e-mail address you have given us is incorrect or no longer operable, we will have no further obligation to notify you apart from posting the notice on our Site. In addition, if we make any material changes in our privacy practices that affect user information already stored in our database, we will post a prominent notice on the main page notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+11\. Contact Information
 
-## Third Party Links
-
-In an attempt to provide increased value to our visitors, MyMangosteen.com may choose various third party Web sites to link to from its own site. However, even if the third party is affiliated with MyMangosteen.com, MyMangosteen.com has no control over these linked sites who each have separate privacy and data collection practices, independent of MyMangosteen.com. MyMangosteen.com has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, MyMangosteen.com seeks to protect the integrity of its Web site and the links placed upon it and therefore requests any feedback on not only its own site, but for sites it links to as well (including if a specific link does not work).
-
-## Consent
-
-By using our Web site, you consent to the collection and use of this information by MyMangosteen.com as set forth in this privacy statement. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-## Contact
-
-MyMangosteen.com welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at service(at)MyMangosteen.com. 
+For further information about this site or XANGO products, please [contact us](https://web.archive.org/contact/customer-service).
