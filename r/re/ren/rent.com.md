@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021214810id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623022937id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Rent.com: Privacy Policy
 
@@ -22,13 +22,13 @@ Rent.com is a technology platform owned and operated by Viva Group, Inc. The ren
     * additional information we may ask you to send or questions we may ask you to answer to verify your identity (such as your driver's license, credit card statement, and/or a recent utility bill or other information confirming your address);
     * information contained in "eMail Notes and Photos" submissions;
     * logs, contact information and other information about the communications between Renters and Lessors using our communications tools (see Lead Response below).
-    * guest card information, lease terms, lease parties and other transactional information; and
+    * guest card information, lease terms, lease parties and other transactional information;
     * information based on your interactions with Rent.com or the Other Sites and their advertising, such as search information, computer sign-on data, statistics on page views, traffic to, from and within Rent.com or Other Sites, ad data, IP address and standard web log information; and
     * supplemental information from third parties (for example, if you incur a debt to Rent.com, we may conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law).
 
 We may also collect information about your computer or other access device to mitigate risk and for fraud prevention purposes.
 
-  3. Use.Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:
+  3. Use. Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:
     * Provide the services and customer support you request, including confirming emails related to the Rent.com services, reminders and transactions.
     * Provide the ability to communicate with Renters and Lessors.
     * Resolve disputes, collect fees and troubleshoot problems.
@@ -38,7 +38,7 @@ We may also collect information about your computer or other access device to mi
     * Measure consumer interest in our products and services.
     * Help promote a safe service and detect and prevent error, fraud and other potentially prohibited or illegal activity.
     * Enforce our agreements, terms, condition, and policies.
-    * As otherwise described to you at the time of collection.
+    * Provide services as otherwise described to you at the time of collection.
   4. Disclosure. We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may share some or all of your personal information with:
     * Members of the eBay Inc. corporate family -like PayPal, eBay Classifieds or Shopping.com-to provide joint content and services, to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services.
     * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
@@ -58,9 +58,9 @@ Email preferences. We provide all users with the opportunity to opt out of recei
 
 Email Notes and Photos. If you use our Email Notes and Photos to a Friend tool, your notes and/or photos will be displayed for your friend on Rent.com and treated like other personal information you have provided. If your posting contains personal information, post only personal information for which you have authorization.
 
-  6. Cookies. We or our service providers may place cookies or web beacons on your computer when you visit portions of Rent.com. We use permanent cookies to provide personalized features, such as automatically logging you into your personalized home page. We use session cookies, which are deleted when you log out of Rent.com or browse to a different website, to monitor and improve the functionality and usability of our website. You can block our cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. 
+  6. Cookies. We or our service providers may place cookies or web beacons on your computer when you visit portions of Rent.com. We use permanent cookies to provide personalized features, such as automatically logging you into your personalized home page and to deliver customized services, content, and advertising. We use session cookies, which are deleted when you log out of Rent.com or browse to a different website, to monitor and improve the functionality and usability of our website. You can block our cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. 
 
-We may use third-party advertising companies such as DoubleClick or Yahoo! to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Please visit the [DoubleClick](http://www.doubleclick.net/us/corporate/privacy) or [Yahoo!](http://docs.yahoo.com/info/privacy/us/ysmt.html) websites for more information about how to "opt-out."
+We may use third-party advertising companies such as Cross Pixel Media, DoubleClick or Yahoo! to serve ads on our and our advertising partners' behalf. These companies may employ cookies and web beacons to deliver advertising and measure its effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Please visit the Cross Pixel Media, DoubleClick or Yahoo! websites for more information about how to "opt-out." For more information about why we use cookies, see [Cookies, Web Beacons and Your Privacy](https://web.archive.org/company/cookie-policy/)
 
   7. Third Parties. Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are Renters and Lessors or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Rent.com does not control the privacy policies of third parties. We encourage you to ask questions before you disclose your personal information to others. 
 
@@ -82,7 +82,7 @@ or
 
 [Contact Us](https://web.archive.org/company/contact/renter/?subject=renter_other)
 
-Last updated June 1, 2010
+Last updated October 12, 2010
 
 
 
