@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2010-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213025928id_/http%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623063418id_/http%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Celtx - Privacy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="keywords" content="  ">
     <meta name="description" content="  ">
-    <link rel="stylesheet" href="https://celtx.s3.amazonaws.com/css/style.css" type="text/css">    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://celtx.s3.amazonaws.com/css/style.css" type="text/css">    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
     
 <script type="text/javascript" src="https://celtx.s3.amazonaws.com/lib/jquery.fancyzoom.min.js"></script>
 <script type="text/javascript" src="https://celtx.s3.amazonaws.com/lib/script.js"></script>
@@ -28,8 +28,23 @@
 
   </head>
   <body>
-        
+        <script type="text/javascript">
+// Detect if iPad and re-direct to mobile page
+// 7-day cookie prevents user from getting redirected multiple times    
+if ((navigator.appVersion.indexOf("iPad")!=-1) || (navigator.appVersion.indexOf("iPhone")!=-1)) {
+  if (document.cookie.indexOf('mobileCookie') ==-1){
+  var vDate = new Date;
+  vDate.setDate(vDate.getDate( ) + 7);
+  document.cookie = 'mobileCookie=' + 'test' + '; expires=' + vDate.toGMTString( ) + ';';
+  location.href="/mobile.html";
+  }
+}
+</script>
+
+
+
 <div id="wrapper">
+	<p style="text-align:center; margin-top:10px;"><a style="color:yellow;background-color:black;padding:5px 10px;-webkit-border-radius:4px;-moz-border-radius:4px;" href="/#/desktop/nav-releasenotes">Celtx v2.9.1 | Bug fix release</a></p>
   <div id="header">
     <div id="header-left">
       <a href="/index.html"><img src="https://celtx.s3.amazonaws.com/images/header-logo.png" alt=""></a>
@@ -51,6 +66,14 @@
 
   <li>
     <a href="/addons.html"><span>Add-ons</span></a>
+  </li>
+
+  <li>
+    <a href="/guides.html"><span>Guides</span></a>
+  </li>
+
+  <li>
+    <a href="/seeds.html"><span>Seeds</span></a>
   </li>
 
   <li>
@@ -95,7 +118,7 @@
 			
 			<div id="footer">
 				<span class="fright">Issues? Contact <a href="mailto:webmaster@celtx.com">webmaster@celtx.com</a><div id="google_translate_element"></div></span>
-				© 2002-2010 Celtx. All Rights Reserved.
+				© 2002-2011 Celtx. All Rights Reserved.
 				<a href="/privacy.html">Privacy Policy</a> | 
 				<a href="/terms.html">Terms of Use</a> | 
 				<a href="/logo.html">Logo Terms</a>
