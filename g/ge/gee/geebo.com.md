@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222062849id_/http%3A//www.geebo.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624001702id_/http%3A//geebo.com/pages/view/id/2-privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Online Classifieds Housing, Employment, Vehicles, Rentals, Roommates
 
-  | 
-
-## ****
-
-## **Privacy Policy**
-
-* * *
+### Privacy Policy
 
 Geebo takes your privacy seriously.  Please read the following to learn more about our privacy policy.
 
@@ -21,9 +15,9 @@ NOTICE: [Click here](http://www.ftc.gov/) for important information about safe s
 
 
 
-**Information Collection and Use **
+**Information Collection and Use**
 
-     General
+     General 
 
   * Geebo collects personal information when you register with Geebo, when you use Geebo services, when you visit Geebo pages. 
   * When you Place an Ad we ask for information such as your name, email address, phone number, etc. 
@@ -34,7 +28,7 @@ NOTICE: [Click here](http://www.ftc.gov/) for important information about safe s
 
       Children
 
-  * Children must always get permission from their parents before sending any information about themselves over the Internet, to Geebo or to anyone else.  We will not knowingly allow anyone under 13 to register with our site or to provide any other personally identifiable information.
+  * Children must always get permission from their parents before sending any information about themselves over the Internet, to Geebo or to anyone else.  We will not knowingly allow anyone under 13 to register with our site or to provide any other personally identifiable information. 
 
 
 
@@ -44,7 +38,7 @@ NOTICE: [Click here](http://www.ftc.gov/) for important information about safe s
 
 
 
-**Confidentiality and Security **
+**Confidentiality and Security**
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
@@ -58,7 +52,7 @@ NOTICE: [Click here](http://www.ftc.gov/) for important information about safe s
 
 
 
-**Questions and Suggestions **
+**Questions and Suggestions**
 
   * If you have questions or suggestions, please feel free to write us at [feedback@geebo.com](mailto:feedback@geebo.com) or you can contact us at:
 
@@ -70,6 +64,4 @@ Customer Care - Privacy Policy Issues
 McLean, VA 22101  
 (888) 439-3133**
 
->    
-  
----|---
+>  
