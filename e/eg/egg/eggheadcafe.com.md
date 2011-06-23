@@ -1,37 +1,55 @@
-> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022118id_/http%3A//www.eggheadcafe.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623224856id_/http%3A//www.eggheadcafe.com/privacy.aspx) for the most accurate reproduction.*
 
 # EggHeadCafe.com Privacy Policy
 
-|  Privacy Statement  
----  
+## Privacy Statement  
+  
 **EggHeadCafe** has created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses the information gathering and dissemination practices for this Web site: [eggheadcafe](http://www.eggheadcafe.com/)  
-Information Automatically Logged  
+  
+  
+  
+## Information Automatically Logged  
+  
 We use your IP address to help diagnose problems with our server and to administer our Web site.  We do not share your IP address with any third parties nor do we use it for any type of tracking or identification.  
   
   
-Cookies  
+  
+## Cookies  
+  
 Our site uses cookies to keep track of your user profile.  We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site Cookie information is not shared with any third parties in any way.  
   
   
-Advertisers  
+  
+## Advertisers  
+  
 We may use an outside ad company to display ads on our site.  These ads may contain cookies.  While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  
   
   
-Personal Information  
+  
+## Personal Information  
+  
 This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted, other than the information you choose to enter in your optional Member Profile.  Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.   Specifically, your email address is never directly displayed nor is it provided or sold to any third parties under any conditions, unless you choose to place it in a post, article or other posting.  
   
   
-External Links  
+  
+## External Links  
+  
 This site contains links to other sites.   **EggHeadCafe** is not responsible for the privacy practices or the content of such Web sites.  
   
   
-Public Forums  
+  
+## Public Forums  
+  
 This site makes chat rooms, forums, message boards, and/or news groups available to its users.  Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  
   
   
-Security  
+  
+## Security  
+  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.  We use standard and accepted methods of securing our site and the machine(s) that serve the site to the public.  
   
   
-Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@eggheadcafe.com](mailto:info@eggheadcafe.com?cc=pbromberg@yahoo.com&subject=Privacy%20Inquiry).
+  
+## Contacting the Web Site  
+  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@eggheadcafe.com](mailto:info@eggheadcafe.com?subject=Privacy%20Inquiry).
