@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpnow.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205134800id_/http%3A//www.wpnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpnow.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623160951id_/http%3A//www.wpnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,12 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 #### Popular phrases used to find this post
 
+  * [\- Developed By Premium WordPress Themes | Terms & Conditions | Privacy Policy](http://www.wpnow.com/privacy "- Developed By Premium WordPress Themes | Terms & Conditions | Privacy Policy")
+  * [cache:bGfOuxpMxwEJ:www wpnow com/blog BANS blog themes](http://www.wpnow.com/privacy "cache:bGfOuxpMxwEJ:www wpnow com/blog BANS blog themes")
   * [cache:pNY5NAOxJ4AJ:www wpnow com/blog/page/4 Simplista 1 01 by WP Now](http://www.wpnow.com/privacy "cache:pNY5NAOxJ4AJ:www wpnow com/blog/page/4 Simplista 1 01 by WP Now")
+  * [cache:sIwRmEmPVWYJ:www wpnow com/blog/page/2 dont show a page in top navigation in wp theme](http://www.wpnow.com/privacy "cache:sIwRmEmPVWYJ:www wpnow com/blog/page/2 dont show a page in top navigation in wp theme")
   * [cache:sIwRmEmPVWYJ:www wpnow com/blog/page/2 wordpress 3 0 control multiple](http://www.wpnow.com/privacy "cache:sIwRmEmPVWYJ:www wpnow com/blog/page/2 wordpress 3 0 control multiple")
+  * [Developed By Premium WordPress Themes](http://www.wpnow.com/privacy "Developed By Premium WordPress Themes")
+  * [Developed By Premium WordPress Themes | Terms & Conditions | Privacy Policy](http://www.wpnow.com/privacy "Developed By Premium WordPress Themes | Terms & Conditions | Privacy Policy")
 
 
