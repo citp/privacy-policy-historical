@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the tallmenshoes.com privacy policy that was archived on 2008-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080224121708id_/http%3A//tallmenshoes.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallmenshoes.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624000900id_/http%3A//www.tallmenshoes.com/privacypolicy.html) for the most accurate reproduction.*
 
-# TallMenShoes.com - Privacy Policy Page
+# Tallmenshoes.com TallMenShoes.com - Privacy Policy Page
 
-  
-| | [](https://web.archive.org/web/20080224121708id_/http%3A//tallmenshoes.com/index.html)
+**Useful Links:**
+
+| | [](https://web.archive.org/web/20110624000900id_/http%3A//www.tallmenshoes.com/index.html)
 
   
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
-**SHOP WITH CONFIDENCE!**
+**SHOP WITH CONFIDENCE!**  
 
-Tallmenshoes.com offers a secure site and shopping cart for your safety and peace of mind. 
 
-All of our customer information is considered private and for our business purposes only. 
+  * Tallmenshoes.com offers a secure site and shopping cart for your safety and peace of mind. 
+  * All of our customer information is considered private and for our business purposes only.
+  * Tallmenshoes.com will not sell or distribute any customer information to anyone for any reason!
+  * Orders will be delivered discreetly with no indication of contents. Package shipper will be our company "Asia Focus International Group Inc".
 
-Tallmenshoes.com will not sell or distribute any customer information to anyone for any reason!
+
 
 * * *
 
@@ -29,17 +32,26 @@ When you enter your credit card number into the order form, it is transmitted ac
 
 For added security, we also encrypt the credit card number when it is stored on disk, and when we forward it to the merchant.
 
-If you are not the kind of person who worries about being hit by lightning as you're crossing the street, you probably don't have to worry that your credit card number will be intercepted on the way to a secure Web site. According to CNN, 
+If you are not the kind of person who worries about being hit by lightning, you probably don't have to worry that your credit card number will be intercepted on the way to a secure Web site. According to CNN, 
 
 > **"The prevalent opinion...is that on-line credit card use is actually no riskier for consumers than traditional "low-tech" transactions."**
 
-We order products online all the time, both as a company and as individuals. When we use a credit card to buy something online, we feel at least as safe as we would using one in a store or restaurant.  
+We order products online all the time, both as a company and as individuals. When we use a credit card to buy something online, we feel as safe as we would using one in a store or restaurant.
+
+* * *
+
+**DISCREET PACKAGE SHIPPING DELIVERY**
+
+  * All orders will be shipped in a discreet manner. 
+  * Packages will ship from our company name "Asia Focus Inc."
+  * Shoes or shipping box wrapped in plain brown draft paper with no indication as to the nature of the contents.
+  * International packages are shipped with a custom declaration of contents as "Men Footwares".
+
 
 
 * * *
 
-  
-
+ 
 
 This merchant is hosted by Yahoo! Small Business. Yahoo! considers protecting the [privacy](http://privacy.yahoo.com/) and [security](http://security.yahoo.com/) of your information very important. The following is a description of steps Yahoo! takes to protect your information from misuse when ordering through a Yahoo! Store. 
 
