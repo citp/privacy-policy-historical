@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090304id_/http%3A//www.suunto.com/en/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623102826id_/http%3A//suunto.com/en-US/Privacy-policy) for the most accurate reproduction.*
 
-# Suunto - Privacy policy
+# Privacy policy | Suunto
 
 **SUUNTO IS COMMITTED TO PROTECTING YOUR PRIVACY** Suunto is committed to protecting your privacy and to comply with applicable data protection and privacy laws. We hope that this Privacy Policy (“Policy”) helps you understand what kind of information we collect in connection with our products and services and how we process such information. Throughout this Policy the term “personal data” means information relating to an identified or identifiable individual (i.e. a natural person). “Suunto” refers to Suunto Oy, including its affiliates (also referred to as “we”, “us”, or “our”).
 
@@ -8,8 +8,7 @@ This Policy applies to personal data collected in connection with products and s
 
 We may provide additional or amending privacy information in connection with a particular Suunto product or service. Such information prevails over this Policy to the extent of any conflict. Our products or services may contain links to other companies’ websites and other third party services that have privacy policies of their own. We recommend that you read the privacy policies of such services. Suunto is not responsible for the privacy practices or contents of any such services.
 
- **By using this website and/or by submitting personal data to Suunto, you express your agreement to the processing of your personal data in the manner provided in this Policy. If you do not agree with this Policy, please do not use this website or provide Suunto with your personal data.  
-**  
+ **By using this website and/or by submitting personal data to Suunto, you express your agreement to the processing of your personal data in the manner provided in this Policy. If you do not agree with this Policy, please do not use this website or provide Suunto with your personal data.**  
  **DATA COLLECTED**
 
 We collect your personal data typically when you make a purchase, use or register into our services, enter into a sales promotion or a campaign or otherwise interact with us. We endeavor to collect personal data only with your knowledge or consent. Below are examples of the categories of data collected.
