@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230124848id_/http%3A//www.ancestry.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623130816id_/http%3A//www.ancestry.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # - Ancestry.com
 
@@ -81,14 +81,7 @@ If you purchase additional services from us, such as DNA testing, additional pol
 **Contests & Promotions**  
 We may occasionally run contests or other special promotions on our Website in which we ask members or visitors for contact information (like an e-mail address) or demographic information (like a zip code, age, or income level). We use this data to send users promotional material about our company or our partners. The participant’s contact information is also used to contact him or her when necessary and may be shared with other companies for promotional purposes, but only with your prior permission and under the terms and conditions specified when you take part in the promotion. At any time, you may opt-out of receiving future mailings of this kind, or simply decline to take part in the promotions. 
 
-**Contact Us**  
-Here is how to contact us with questions about our privacy statement and practices or your activities on Ancestry.com. 
-
-By phone: 1-800-ANCESTRY (1-800-262-3787) 
-
-By Email: [support@ancestry.com](mailto:support@ancestry.com)
-
-By mail: Ancestry.com   
-Attn: Customer Service   
-360 W. 4800 N.   
-Provo, UT 84604
+Ancestry.com  
+Attn: Customer Service  
+360 W. 4800 N.  
+Provo, UT 84604 
