@@ -1,34 +1,6 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025024903id_/http%3A//www.smilebox.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623040028id_/http%3A//smilebox.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * [Home](http://www.smilebox.com/ "Smilebox")
-  * [Design Types](http://www.smilebox.com/scrapbooks/ "Scrapbooks, slideshows, and more")
-  * [Occasions](http://www.smilebox.com/seasonal-greetings/ "Seasonal, birthday, wedding, and more")
-  * [Learn More](http://www.smilebox.com/learnMore.html "Learn More")
-  * All Categories 
-
-
-
-### [Design Types](http://www.smilebox.com/design-types/ "e-cards")
-
-[Greetings](http://www.smilebox.com/ecards/ "free greetings"), [Scrapbooks](http://www.smilebox.com/scrapbooks/ "scrapbooks"), [Slideshows](http://www.smilebox.com/slideshows/ "slide show"), [Photo albums](http://www.smilebox.com/photo-albums/ "photo album"), [Collages](http://www.smilebox.com/collage/ "collages"), [Recipes](http://www.smilebox.com/recipe-cards/ "recipe cards"), [Invitations](http://www.smilebox.com/invitations/ "invitations")
-
-### [Occasions](http://www.smilebox.com/occasions/ "greeting cards for every occasion")
-
-[Baby](http://www.smilebox.com/occasions/baby-greeting-cards/ "baby greeting cards"), [Birthday](http://www.smilebox.com/occasions/birthday-greeting-cards/ "birthday greeting cards"), [Engagement](http://www.smilebox.com/occasions/engagement-cards/ "Engagement cards"), [Family](http://www.smilebox.com/occasions/family-occasions/ "Family occasions"), [Graduation](http://www.smilebox.com/occasions/graduation-greetings/ "Graduation greetings"), [ Keep in Touch](http://www.smilebox.com/occasions/keep-in-touch-greeting/ "Keep in Touch greeting"), [Love](http://www.smilebox.com/ecards/love-greeting-cards/ "love greeting cards"), [Miss You](http://www.smilebox.com/ecards/miss-you/ "Miss You cards"), [New Home](http://www.smilebox.com/occasions/new-home-greeting-cards/ "New Home greeting cards"), [Retirement](http://www.smilebox.com/occasions/retirement/ "Retirement cards"), [Thank You](http://www.smilebox.com/occasions/thank-you/ "Thank You cards"), [Travel](http://www.smilebox.com/occasions/travel-photo-album/ "Travel photo album"), [Wedding](http://www.smilebox.com/occasions/wedding-greetings/ "Wedding greetings")
-
-### [Holidays](http://www.smilebox.com/holiday-greetings/ "Holiday greetings")
-
-[New Year's](http://www.smilebox.com/holiday-greetings/new-years-cards/ "New Years cards"), [Valentine's Day](http://www.smilebox.com/holiday-greetings/valentine-cards/ "Valentine cards"), [St. Patrick's Day](http://www.smilebox.com/holiday-greetings/st-patricks-day-cards/ "St Patricks Day cards"), [Easter](http://www.smilebox.com/holiday-greetings/easter-cards/ "Easter cards"), [Mother's Day](http://www.smilebox.com/holiday-greetings/mothers-day-cards/ "Mothers Day cards"), [Father's Day](http://www.smilebox.com/holiday-greetings/fathers-day-cards/ "Fathers Day cards"), [4th of July](http://www.smilebox.com/holiday-greetings/fourth-of-july/ "fourth of July"), [Grandparent's Day](http://www.smilebox.com/holiday-greetings/grandparents-day-cards/ "Grandparents Day"), [Halloween](http://www.smilebox.com/holiday-greetings/halloween-greetings/ "Halloween greetings"), [Thanksgiving](http://www.smilebox.com/holiday-greetings/thanksgiving-greeting/ "Thanksgiving greeting"), [Hanukkah](http://www.smilebox.com/holiday-greetings/happy-hanukkah/ "Happy Hanukkah"), [Christmas](http://www.smilebox.com/holiday-greetings/christmas-greetings/ "Christmas greetings")
-
-### [Seasonal](http://www.smilebox.com/seasonal-greetings/ "spring summer autumn winter cards")
-
-[Winter](http://www.smilebox.com/seasonal-greetings/winter-greetings/ "Winter greetings"), [Spring](http://www.smilebox.com/seasonal-greetings/day-spring-cards/ "day Spring cards"), [Summer](http://www.smilebox.com/seasonal-greetings/summer-greetings/ "Summer greetings"), [Autumn](http://www.smilebox.com/seasonal-greetings/autumn-photos/ "Autumn photos")
-
-### [Social Networks](http://www.smilebox.com/slideshows/myspace-slideshow/ "myspace slideshow")
-
-[MySpace Slideshows](http://www.smilebox.com/slideshows/myspace-slideshow/ "MySpace Slideshow"), [Facebook Slideshows](http://www.smilebox.com/slideshows/facebook-slideshow/ "Facebook Slideshow")
 
 Smilebox, Inc. is committed to protecting your privacy. The following privacy policy discloses our information-gathering and dissemination practices for our website and our Smilebox service. By using our website or our Smilebox service, you agree to be bound by the terms of this policy.
 
@@ -40,15 +12,15 @@ We may use independent contractors to provide services on our behalf. For exampl
 
 ## Information Automatically Logged
 
-Our systems may automatically log certain non-personal information such as your IP address to help diagnose problems with our servers, to help administer our service or to perform analysis in order to maintain, protect and improve our services
+Our systems may automatically log certain non-personal information such as your IP address to help diagnose problems with our servers, to help administer our service or to perform analysis in order to maintain, protect and improve our services.
 
 ## Cookies
 
-Our services may involve the use of cookies to store information about your visits. In addition, during the course of providing advertisements to this site, third-party advertisers may place or recognize a unique cookie on your computer’s hard drive. 
+Our services may involve the use of cookies to store information about your visits. In addition, during the course of providing advertisements to this site, third-party advertisers may place or recognize a unique cookie on your computer's hard drive.
 
 ## Email Newsletter
 
-You will be required to submit your e-mail address during the registration process. This information is used solely by Smilebox, Inc. and will not be sold to any third party. We will use this information to send weekly newsletters about product updates and new releases. You may always [opt-out](http://secure.smilebox.com/ecom/requestOptOut.jsp) of receiving our newsletters.
+You will be required to submit your e-mail address during the registration process. This information is used solely by Smilebox, Inc. and will not be sold to any third party. We will use this information to send weekly newsletters about product updates and new releases. You may always opt-out of receiving our newsletters.
 
 ## Security
 
@@ -70,4 +42,4 @@ We respect the privacy of parents and children and are committed to complying wi
 
 ## Contacting Smilebox, Inc.
 
-If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease using your personal information altogether, or you wish to file a complaint, you may contact Smilebox, Inc. at 8201 164th Ave NE, Suite 305, Redmond, WA 98052. You may also contact us [via our webpage](http://www.smilebox.com/about/contactUs.html).
+If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease using your personal information altogether, or you wish to file a complaint, you may contact Smilebox, Inc. at 15809 Bear Creek Pkwy, Redmond, WA 98052. You may also contact us via our webpage.
