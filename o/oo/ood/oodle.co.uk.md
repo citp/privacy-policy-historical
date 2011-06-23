@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oodle.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121005507id_/http%3A//www.oodle.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.co.uk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623061049id_/http%3A//www.oodle.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Your privacy is important to us, so Oodle has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, and web sites which we operate on behalf of our partners (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control. 
 
-Information about Safe Harbor can be found [here](https://web.archive.org/info/privacy/safeharbor/). 
+Information about Safe Harbor can be found [here](http://www.oodle.co.uk/info/privacy/safeharbor/). 
 
 ### Protecting Your Privacy
 
@@ -27,11 +27,15 @@ Registration is required to place a listing through our service or to use other 
 
 Registered users may choose to receive a copy of our newsletter or receive other mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings as part of the registration process. 
 
-You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](https://web.archive.org/account/profile/) in the My Account section. 
+You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](http://www.oodle.co.uk/account/profile/) in the My Account section. 
 
-### Cookies
+### Cookies, Web Beacons and Scripts
 
 Like many web sites, Oodle uses a standard technology call "cookies." A cookie is a small text file stored on your computer's hard drive that can be accessed by a specific web site to make your experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Oodle. Cookies also help us understand how our users use the Sites, which allows us to improve the service. We do not use cookies to retrieve any information from your computer other than the information we provide, such as a user code. 
+
+A "web beacon" is an electronic file that signals when a web page, an advertisement, a video or other type of content has been viewed. A "script" is a short section of computer code included in a Web page or other content that can be used to set and access a cookie on your computer's hard drive and to record your activity on a web site. Web beacons and scripts can be used for a number of purposes, including counting and tracking visitors to the Sites, recognizing and accessing cookies, recording page view information, tracking and reporting audience information and conducting research to improve the Sites. 
+
+Oodle allows certain third parties to set and access their own cookies, use their own web beacons and use their own scripts on and through the Sites. How other companies use their own cookies, web beacons and scripts and the information they gather is subject to those companies' own privacy policies, not this Privacy Policy. Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI members [here](http://www.networkadvertising.org/). 
 
 ### Data We Collect
 
@@ -76,7 +80,7 @@ Oodle may disclose information about its users if required to do so by law or in
 
   * Respond to a legal process (e.g., subpoenas, court orders).
   * Respond to claims that a listing or content violates the rights of third parties.
-  * Enforce our [Terms of Use](https://web.archive.org/info/terms/).
+  * Enforce our [Terms of Use](http://www.oodle.co.uk/info/terms/).
   * Protect the rights, property or personal safety of Oodle, its users or the general public.
 
 
@@ -90,6 +94,12 @@ Oodle may also disclose information with:
 
 If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
 
+### International Uses
+
+The Sites are hosted in the United States. If you use the Sites from outside of the United States, you are voluntarily transferring information (potentially including personally-identifiable information) and content to the United States and agreeing that Oodle’s collection, use, storage and sharing of your information and content is exclusively subject to the laws of the United States, not of the jurisdiction in which you are located. 
+
 ### More Questions?
 
-If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](mailto:abuse@oodle.com).
+If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](http://www.oodle.co.uk/info/help/?&node_id=2&mode=contact). 
+
+Last update June 16, 2011
