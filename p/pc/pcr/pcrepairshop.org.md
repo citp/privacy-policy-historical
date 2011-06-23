@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrepairshop.org privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217011012id_/http%3A//www.pcrepairshop.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrepairshop.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624010301id_/http%3A//www.pcrepairshop.org/privacy) for the most accurate reproduction.*
 
 # The PC Repair Shop - Computers, Laptops, Servers, Networking, and More!
 
@@ -41,7 +41,3 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 Although most changes are likely to be minor, The PC Repair Shop may change its Privacy Policy from time to time, and in The PC Repair Shop's sole discretion. The PC Repair Shop encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 >  
-
-[](https://web.archive.org/web/20101217011012id_/http%3A//www.pcrepairshop.org/forum)  
-The Tech Support Forum is the place to ask any questions you have about computers,   
-networking, workstations, servers, and anything else related to the IT World!
