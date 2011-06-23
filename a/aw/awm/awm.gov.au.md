@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224211937id_/http%3A//www.awm.gov.au/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623042802id_/https%3A//www.awm.gov.au/about/privacy.asp) for the most accurate reproduction.*
 
-# Australian War Memorial - Privacy Statement
+# Privacy Statement | Australian War Memorial
 
 In accordance with the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/internet/web/index.html) issued by the Australian Privacy Commissioner, the Australian War Memorial provides the following privacy statements.
 
