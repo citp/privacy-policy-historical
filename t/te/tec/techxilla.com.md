@@ -1,27 +1,23 @@
-> *The following text is extracted and transformed from the techxilla.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151428id_/http%3A//www.techxilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techxilla.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623135820id_/http%3A//www.techxilla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techxilla
+# Privacy Policy
 
-At [www.techxilla.com](http://www.techxilla.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [www.techxilla.com](http://www.techxilla.com/) and how it is used.
+_Your privacy on Techxilla  is of extreme importance to us. This privacy statement outlines what information we gather and how it is used when you visit [www.techxilla.com](http://www.techxilla.com/). We never sell your information to third parties._
 
-**Log Files**  
-Like many other Web sites, [www.techxilla.com](http://www.techxilla.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+#### Personal Information and Log Files
 
-**Cookies and Web Beacons**  
-[www.techxilla.com](http://www.techxilla.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Visitors to Techxilla.com and Subscribers to our newsletter and our clients, we log standard technical information which may include your name, email address, IP address, ISP, browser, pages you visited, and time spent on these pages. We often use this information to help diagnose problems associated with the website and never release, sold or rent this information to any person or organization outside Techxilla.com
 
-**DoubleClick DART Cookie**
+#### Cookies and Web Beacons
 
-  * Google, as a third party vendor, uses cookies to serve ads on [www.techxilla.com](http://www.techxilla.com/).
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.techxilla.com](http://www.techxilla.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+We use third party advertisements on our website out of which some of the advertisers uses cookies and web beacons to store information about visitor preferences, record user specific information like on which page user like to visit etc
+
+**DoubleClick DART Cookie:**
+
+  * Google, as a third party vendor, uses cookies to serve ads on [www.techxilla.com](http://www.techxilla.com/).
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.techxilla.com](http://www.techxilla.com/) and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.techxilla.com](http://www.techxilla.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-[www.techxilla.com](http://www.techxilla.com/) has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.techxilla.com's](http://www.techxilla.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+If you have any further queries or questions about this Privacy Statement, the practices of Techxilla, or your dealings [contact us](http://www.techxilla.com/contact/) directly.
