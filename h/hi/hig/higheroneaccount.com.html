@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the higheroneaccount.com privacy policy that was archived on 2010-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129133826id_/https%3A//higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the higheroneaccount.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624003826id_/https%3A//higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.-->
 
 <html><!--jspid=159--><head>
   <title>Higher One: Privacy Policy</title>
@@ -89,15 +89,16 @@
     }
     var downStrokeField;
     function autojump(fieldName,nextFieldName,fakeMaxLength) {
-        var myForm=document.forms[document.forms.length - 1];
-        var myField=myForm.elements[fieldName];
-        myField.nextField=myForm.elements[nextFieldName];
+        try {
+            var myField=document.getElementsByName(fieldName)[0];
+            myField.nextField=document.getElementsByName(nextFieldName)[0];
 
-        if (myField.maxLength == null)
-           myField.maxLength=fakeMaxLength;
+            if (myField.maxLength == null)
+               myField.maxLength=fakeMaxLength;
 
-        myField.onkeydown=autojump_keyDown;
-        myField.onkeyup=autojump_keyUp;
+            myField.onkeydown=autojump_keyDown;
+            myField.onkeyup=autojump_keyUp;
+        } catch (error) {}
     }
 
     function autojump_keyDown() {
@@ -270,7 +271,7 @@ contact <a href="http://www.truste.com/consumers/watchdog_complaint.php" target=
     we send out to our users. You can also unsubscribe by updating your account preferences when you access your personal account information.
     We reserve the right to send users notification and administrative emails, which are considered a part of your service.
     To modify any of your account information, access your account through the site and update your preferences.
-    To delete your account information entirely, please contact us <a href="mailto:privacy@higherone.com">privacy@higherone.com</a>.
+    To delete your account information entirely, please contact us at <a href="mailto:privacy@higherone.com">privacy@higherone.com</a>.
 </p>
 
 <p><strong>Cookies</strong><br>
@@ -302,6 +303,11 @@ contact <a href="http://www.truste.com/consumers/watchdog_complaint.php" target=
     These tracking technologies shall not be used to associate individual website visitors to any personally identifiable information.
     All data collected by such third parties on our behalf is used only to provide us with information on Site usage and
     is not shared with any other third parties. We do not have access to third party tracking technologies.
+</p>
+<p>
+    We use a third-party tracking service, which uses HTML tags to track non-personally identifiable information about our visitors to our site in the
+    aggregate to capture usage and volume statistics. Some of our business partners use HTML tags on our site. This privacy statement covers the
+    use of these tracking technologies only.
 </p>
 
 <p><strong>Third-Party Sites</strong><br>
@@ -370,6 +376,7 @@ contact <a href="http://www.truste.com/consumers/watchdog_complaint.php" target=
 <br>
 
 
+
 <!-- END CONTENT AREA -->
 
 
@@ -399,28 +406,29 @@ contact <a href="http://www.truste.com/consumers/watchdog_complaint.php" target=
 <div class="ftr_bar_wide"></div>
 <div class="pagefooter">
     <div class="footertext">
-        <a href="/">Home</a> |
-        <a href="/info/outaboutus.jsp">About Us</a> |
+        <a href="/index.jsp">Home</a> |
+        
+        <a href="/student/out/aboutus.do">About Us</a> |
         <a href="/info/outsecuritypolicy.jsp">Security</a> |
-        <a href="/info/outfees.jsp">Fee Schedule</a> |
+        <a href="/studentaccount/feeschedules.do">Fee Schedules</a> |
         <a href="/info/outoneaccountagreements.jsp">Terms and Conditions</a> |
         <a href="/outcontact.jsp">Contact Us</a> |
         <a href="/info/out/identity.do">Identity Verification</a> |
-        <a href="/easyhelp/pta?basepage=std_alp.php&amp;type=public" target="EasyHelp">EasyHelp</a>
+        <a href="/easyhelp/pta?basepage=std_alp.php&amp;type=public" target="EasyHelp" rel="external">EasyHelp</a>
     </div>
 
     <div align="center">
         <a href="https://sentinel.whitehatsec.com/gateway/certified/confirmed.html?badge_key=9a0376f0-dbf0-4903-a48c-4666333b3e09" target="_blank">
             <img src="/images/higherone/i_whitehat_footer.gif" style="border:0; padding-right:10px;" alt="WhiteHat Security Seal"></a>
         <a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.higheroneaccount.com&amp;sealid=101" target="truste"><img src="/images/truste/truste_seal_web.gif" alt="TRUSTe" style="border:0; padding-right:10px;"></a>
-        <a href="/easyhelp/pta?basepage=/home&amp;type=public" target="EasyHelp"><img src="/images/i_easyhelp_logo_medium.gif" style="border:0; padding-right:10px;" alt="EasyHelp - The Fast &amp; Easy way to get help!"></a>
+        <a href="/easyhelp/pta?basepage=/home&amp;type=public" target="EasyHelp" rel="external"><img src="/images/i_easyhelp_logo_medium.gif" style="border:0; padding-right:10px;" alt="EasyHelp - The Fast &amp; Easy way to get help!"></a>
         <img src="/images/higherone/i_h1_footer.gif" style="border:0; padding:0 5px;" alt="HigherOne Logo">
         <img src="/images/higherone/i_socialnetwork_footer.gif" usemap="#socialmap" style="border:0; padding-right:10px;" alt="Connect with us">
 
         <map id="socialmap" name="socialmap">
             <area shape="rect" coords="17,24,45,51" href="http://www.facebook.com/higherone" target="hofacebook" alt="Facebook">
             <area shape="rect" coords="53,24,111,55" href="http://www.youtube.com/user/h1marketing" target="hoyoutube" alt="YouTube">
-            <area shape="rect" coords="118,24,146,55" href="http://www.higherone.com/gametime" target="hogametime" alt="Game Time">
+            <area shape="rect" coords="118,24,146,55" href="http://www.higherone.com/oneforyourmoney" target="hooneforyourmoney" alt="One For Your Money">
         </map>
     </div>
 
@@ -451,18 +459,68 @@ contact <a href="http://www.truste.com/consumers/watchdog_complaint.php" target=
 
 
 
+<div class="footertext footer_legaltext">
+    Banking services provided by The Bancorp Bank, Member FDIC | <a href="/info/outprivacypolicy.jsp">Privacy Policy</a> <br>
+    
+        <a href="javascript:newSizedWindow('/info/insuranceRule.jsp', 800, 450);">
+        Important Disclosures Regarding New FDIC Insurance Rules</a>
+        <br>
+    
+    <br>
     
 
-<div class="footertext footer_legaltext">
-        Banking services provided by The Bancorp Bank, member FDIC | <a href="/info/outprivacypolicy.jsp">Privacy Policy</a> <br>
-        <br>
-        The Higher OneCard Debit MasterCard® is issued by The Bancorp Bank pursuant
-        to license from MasterCard International Incorporated. The card is administered by Higher One, Inc.<br>
-        <br>
-        © 2010 Higher One, Inc. All Rights Reserved.<br>
-        MasterCard is a registered trademark of MasterCard International Incorporated.<br>
-        All other names and logos are owned by their respective owners.
-    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Higher OneCard Debit MasterCard® is issued by The Bancorp Bank pursuant
+to license from MasterCard International Incorporated. The card is administered by Higher One, Inc.<br>
+
+    <br>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2011 Higher One, Inc. All Rights Reserved.<br>
+MasterCard is a registered trademark of MasterCard International Incorporated.<br>
+All other names and logos are owned by their respective owners.
+
+</div>
 
 </div>
 </div>
