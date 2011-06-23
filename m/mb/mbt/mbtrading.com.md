@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217041223id_/http%3A//mbtrading.com/disclaimerPP.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623143122id_/http%3A//www.mbtrading.com/indexMenu.aspx%3Fpage%3DdisclaimerPP) for the most accurate reproduction.*
 
-# MB Trading - Stocks Options Futures Forex Online Discount Trading
+# MB Trading - Disclaimer PP
 
 Please read this carefully. It provides information about the privacy policy of MB Trading and MB Trading Futures, Inc., (collectively referred to as "we," "us," and "our" throughout this policy), which are affiliates under common control. This privacy policy concerns nonpublic personal information about current and former accountholders.
 
