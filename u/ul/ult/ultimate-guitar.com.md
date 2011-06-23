@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ultimate-guitar.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201173118id_/http%3A//www.ultimate-guitar.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimate-guitar.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024017id_/http%3A//www.ultimate-guitar.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy @ Ultimate-Guitar.Com
 
-_**Effective as of February 23, 2010**_
+_**Effective as of October 25, 2008**_
 
 We at Ultimate-Guitar.com respect the privacy concerns of the users of this site and have created this privacy policy to explain (1) what information we gather from you when you visit our site, (2) how we may use such information, (3) your choices concerning how we may use such information and (4) the security measures we take to protect such information. Some information is collected on this site automatically through our technology; other information is collected only when you choose to give it to us (e.g., when you set up an account, register for a contest or sign up for a specific online transaction). 
 
@@ -48,9 +48,7 @@ When you give Personal Information to Ultimate-Guitar.com, we may ask you to all
 
 If you consent to share your Personal Information with our promotional partners and third-party advertisers, you are allowing such parties to use such Personal Information and to contact you in accordance with their own privacy policies. You have the option to change your mind and to stop us from further sharing your Personal Information with our promotional partners and third-party advertisers by contacting  and explaining how you would like to modify your preferences. We will not retrieve any Personal Information shared with our promotional partners and third-party advertisers prior to your decision to opt-out. If you wish to limit or discontinue receiving further communications from a promotional partner or third-party advertiser, please contact that company directly in the manner indicated in its own communications with you. 
 
-Without any specific approval from you, Ultimate-Guitar.com may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent. 
-
-Finally, we may use your Personal Information in connection with third-party advertisers who serve ads to you while visiting an Ultimate-Guitar.com site. These third-party advertisers may use your Personal Information (not including any personally identifying information you may provide) in order to generate advertisements about goods and services that may be of interest to you. If you would like to know more about this practice and to obtain information about how third-party advertisers use your Personal Information to select advertisements please click [here](http://networkadvertising.org/). 
+Finally, without any specific approval from you, Ultimate-Guitar.com may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent. 
 
 For Legal Enforcement Purposes 
 
