@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylocalsalon.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929183107id_/http%3A//mylocalsalon.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocalsalon.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623210425id_/http%3A//www.mylocalsalon.com.au/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement - mylocalsalon
 
