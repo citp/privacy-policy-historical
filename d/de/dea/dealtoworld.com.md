@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealtoworld.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222030240id_/http%3A//dealtoworld.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtoworld.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623114228id_/http%3A//www.dealtoworld.com/privacy_statement.php) for the most accurate reproduction.*
 
 # DealToWorld:Cool Gadgets from Shanghai at the Right Price - Site-Wide Free Shipping
 
