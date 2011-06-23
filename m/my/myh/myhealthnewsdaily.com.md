@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myhealthnewsdaily.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104205706id_/http%3A//myhealthnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhealthnewsdaily.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025053id_/http%3A//www.myhealthnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# MyHealthNewsDaily
+# Privacy Policy | MyHealthNewsDaily
 
 Welcome to MyHealthNewsDaily!
 
