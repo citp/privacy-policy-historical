@@ -1,65 +1,43 @@
-> *The following text is extracted and transformed from the journal.com.ph privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618130013id_/http%3A//www.journal.com.ph/index.cfm%3Fhandler%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journal.com.ph privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623032455id_/http%3A//www.journal.com.ph/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Journal Online
+# Privacy Policy | Journal Online
 
-JOURNAL ONLINE INTERACTIVE PRIVACY POLICY 
+This privacy policy sets out how **www.journal.com.ph** or the owners of this website, Simple Web Development uses and protects any information that you give us when you use this website.
 
-This privacy statement discloses the privacy practices for www.journal.com.ph. 
+**www.journal.com.ph** or the owners of this website, Simple Web Development is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-It is the Journal Interactive's continuing goal to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information and user privacy practices. 
+**www.journal.com.ph** or the owners of this website, Simple Web Development may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
 
-This website has agreed to notify you of: 
+**What we collect**
 
-What personally identifiable information of yours or third party personal identification is collected from you through the website 
+**What we do with the information we gather**
 
-The organization collecting the information 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-How the information is used 
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-With whom the information may be shared 
+**Security**
 
-What choices are available to you regarding collection, use and distribution of the information 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-How you can correct any inaccuracies in the information. 
+**How we use cookies**
 
-If you feel that this company is not abiding by its posted privacy policy, contact feedback@journal.com.ph 
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Information collection and use 
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-The Journal Interactive is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. The Journal Interactive collects information from our users at several different points on our website. 
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-This site, Journal Interactive, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Online surveys and promos 
+**Links to other websites**
 
-When the Journal Interactive holds surveys or promos, users are sometimes required to give their contact information (such as name and e-mail address). This information is used to contact the user about the services on our site for which they have expressed interest or to inform them if they have won in a certain contest or promo. It is optional for the user to provide demographic information (such as income level and gender) and unique identifiers (such as social security number or driver's license number). 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-E-mail services 
+**Controlling your personal information**
 
-The Journal Interactive offers various e-mail services. We require information from the user in order for him or her to avail of such free services. This information is used only as contact information and reference. It is optional for the user to provide demographic information (such as income level and gender) and unique identifiers (such as social security number or driver's license number), but encouraged so we can provide a more personalized experience regarding our e-mail services. 
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Cookies 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-The Journal Interactive itself does not employ cookies at the moment. A cookie is a piece of data stored on the user's hard drive containing information about the user. However, since cookies can enable websites to track and target the interests of its users to enhance the experience on the site, we may in the future make use of cookies. 
-
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
-
-Log Files 
-
-We use IP addresses to analyze trends, administer the site, track user's movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
-
-Sharing 
-
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
-
-We partner with other parties to provide specific services. When the user signs up for these services, we may be required to share names, or other contact information that is absolutely necessary for the third party to provide these services. 
-
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
-
-Links 
-
-This website contains links to other sites. Please be aware that the Journal Interactive is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. Read our LINK POLICY. 
-
-Notification of changes 
-
-If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
