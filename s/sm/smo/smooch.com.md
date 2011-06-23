@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203101428id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623164414id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
 
 # Completely Free Dating at Smooch.com™
 
@@ -7,7 +7,7 @@ collect about you and what we do with it. Please take a few minutes to read it.
 
 1\. Who are we?
 
-Smooch.com, owned by WooWise Ltd (“We”), run this site for use by members (“you”). We are registered with the UK Information Commissioner as a data controller and we try our best to comply with the Data Protection Act 1998. MakeFriendsOnline Ltd will hereby be referred to as Smooch.com for the purposes of this Privacy Statement.
+Smooch.com, owned by WooWise Ltd (“We”), run this site for use by members (“you”). We are registered with the UK Information Commissioner as a data controller and we try our best to comply with the Data Protection Act 1998. Woowise Ltd will hereby be referred to as Smooch.com for the purposes of this Privacy Statement.
 
 2\. What information do we collect about you and what do we use it for?
 
