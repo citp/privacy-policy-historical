@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scribeseo.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113229id_/http%3A//scribeseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribeseo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623214249id_/http%3A//scribeseo.com/privacy-policy) for the most accurate reproduction.*
 
-# Scribe | Privacy Policy
+# Privacy Policy | Scribe SEO
 
 The Scribe Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and services. Scribe is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
 
