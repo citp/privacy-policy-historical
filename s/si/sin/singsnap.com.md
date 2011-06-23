@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singsnap.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124030226id_/http%3A//www.singsnap.com/snap/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singsnap.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623222311id_/http%3A//www.singsnap.com/karaoke/home/privacy) for the most accurate reproduction.*
 
 # SingSnap | Privacy Notice
 
@@ -60,4 +60,4 @@ This web site contains links to other sites. Please be aware that we are not res
 
 From time-to-time our site requests information via surveys. Participation in these surveys is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and address), and demographic information (such as zip code, age level). Survey information will be used for purposes of improving the use and satisfaction of this site.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via private message ([SingSnapSupport](http://www.singsnap.com/snap/profile/message/aa1008d2)), telephone (877-867-8668) or via email ([support@singsnap.com](mailto:support@singsnap.com)).
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via private message ([SingSnapSupport](http://www.singsnap.com/karaoke/profile/message/aa1008d2)), telephone (877-867-8668) or via email ([support@singsnap.com](mailto:support@singsnap.com)).
