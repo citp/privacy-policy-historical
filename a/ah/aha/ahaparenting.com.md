@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ahaparenting.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222050459id_/http%3A//ahaparenting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahaparenting.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623190545id_/http%3A//ahaparenting.com/privacy) for the most accurate reproduction.*
 
-# Aha! Parenting - Dr. Laura Markham > Privacy
+# Dr. Laura Markham > Privacy
+
+## Privacy
 
 ###  Thank you for visiting Aha! Parenting.com. 
 
