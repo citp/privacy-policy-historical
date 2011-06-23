@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyfoodblog.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230004930id_/http%3A//www.disneyfoodblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyfoodblog.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024255id_/http%3A//www.disneyfoodblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | the disney food blog
 
@@ -27,4 +27,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Disney Food Blog is not an official site of The Walt Disney Company or of Universal Studios. Content of DisneyFoodBlog.com is © Cambrick Yard, LLC 2009-2010. Website content may not be reproduced in whole or in part without the prior written permission of DisneyFoodBlog.com. 
+Disney Food Blog is not an official site of The Walt Disney Company or of Universal Studios. Content of DisneyFoodBlog.com is © Cambrick Yard, LLC 2009-2010. Website content may not be reproduced in whole or in part without the prior written permission of DisneyFoodBlog.com.
