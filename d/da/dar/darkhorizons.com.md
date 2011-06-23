@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the darkhorizons.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626020829id_/http%3A//www.darkhorizons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkhorizons.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023855id_/http%3A//www.darkhorizons.com/privacy) for the most accurate reproduction.*
 
-# Dark Horizons | Privacy Statement
+# Privacy Statement | Dark Horizons
 
 ## PRIVACY POLICY
 
@@ -34,7 +34,7 @@ Personally Identifiable Information is your name, address, e-mail address, phone
 
 ### Where We Collect Personally Identifiable Information
 
-We collect personally identifiable information when you (1) use the social network options, (2) use the “email a friend” option and (3) submit feedback, questions, or "contact us" messages and (4) submit e-mails or letters to us.
+We collect personally identifiable information when you (1) use the social network options, (2) use the “email a friend” option and (3) submit feedback, questions, or "contact us" messages, (4) enter contests, (5) post a comment in the 'comments' section of articles, (6) submit e-mails or letters to us.
 
 ### How We Use Personally Identifiable Information
 
@@ -46,7 +46,7 @@ Dark Futures Pty Ltd. also compiles aggregate data from all of our customers suc
 
 ### Who We Disclose Personally Identifiable Information To
 
-The www.darkhorizons.com web site contains advertisements and links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the www.darkhorizons.com web site. Dark Futures Pty Ltd. is not responsible for the privacy policies, practices, or content of Web sites with links on our site.
+The www.darkhorizons.com web site contains advertisements and links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the www.darkhorizons.com web site. Dark Futures Pty Ltd. is not responsible for the privacy policies, practices, or content of Web sites with links on our site. DarkHorizons.com may disclose some personal information to outside companies who help us with the administration and delivery of promotional games, trivia contests, and sweepstakes.
 
 Dark Futures Pty Ltd. reserves the right to co-operate fully with any law enforcement authority in any jurisdiction in respect of any lawful direction or request to disclose your identity or other information in respect of your posting any materials which violate any applicable or relevant law. We may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to Dark Futures Pty Ltd. or others.
 
