@@ -1,34 +1,37 @@
-> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511215828id_/http%3A//www.thetruth.com/index.cfm%3FFound%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623193217id_/http%3A//www.thetruth.com/privacy) for the most accurate reproduction.*
 
-# truth found
+# Privacy Policy | thetruth.com
 
-This browser does not support Javascript-based Flash detection.
+## Privacy policy
 
-**Privacy Policy**  
-We will not give your personal information to anyone without your consent, except if required by law as described below. We will never sell your personal information. Be smart when using the message functionality. Be aware that any personal information you give out using message functionality can become public knowledge. 
+Here comes a lot of legal mumbo jumbo. So, even if you're bored to tears, read it and then check out the rest of our site. 
 
-**The Precise Legalese**  
-truth has created this privacy policy in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for the THETRUTH.com Web site (the "Site"). 
+This is a website of the American Legacy Foundation ("Legacy"), which is dedicated to creating a world where young people reject tobacco and anyone can quit. We respect your privacy and have created this policy to explain what information we collect and how we use it. If you have any questions about this policy, please contact us at [info@thetruth.com](mailto:info@thetruth.com). 
 
-**Exceptions**  
-We will release specific information that we have collected from you to comply with valid legal process, such as a search warrant, subpoena, or court order, or in special cases such as a physical threat to you or others. 
+#### General User Information
 
-**IP Addresses and Cookie Technology**  
-We use your IP address to help diagnose problems with our server, and to administer the Site. Your IP address is used to gather broad demographic information. Cookie technology will be used on the Site for the purposes of allowing easy login to applications. We will not share any information we collect from cookies with any third parties. Aggregated city/town and state data will be collected for internal use to determine the geographic distribution of the Site's users. 
+We automatically collect aggregate information about our site's users, including the domain name and IP address of visitors, the browser and operating system used, and the date and time of each visit. This information does not identify individual visitors, and it is used for our own research purposes and to improve the site's content, structure, and security. We share this information only with our vendors, who use it for the same purposes. 
 
-**Anti-Tobacco Advocacy Programs**  
-We collect personal information from individuals who choose to provide such information in order to get involved with anti-tobacco advocacy programs or activities. This information may be delivered directly to the truth program or other anti-smoking organization based on the user's geographical location (city/town, state) or specific stated interest. Once the individual's information is given to an anti-smoking organization or other permissible third party, we are not responsible for the privacy practices of these groups. 
+#### Cookies
 
-**Your Consent**  
-By using the Site, you agree that THETRUTH.com may collect and use this information. If we change our privacy policy, we will post the changes on this page so you are always informed about what information we collect, how we use it, and under what circumstances we disclose it. Your continued use of the Site after a change has been posted will constitute your agreement to such change in the privacy policy. 
+Cookies are information files that allow websites to remember users' activities on a website. When you visit our site, we may send one or more cookies to your computer that uniquely identifies your browser. We use cookies for several purposes. For example, if you are a registered user, cookies allow the server to know that you are allowed to access information or perform operations restricted to logged-in users. We use the information we learn from cookies to improve the quality of our service, for example, by tracking user trends. We share this information only with our vendors, who use it for the same purposes. 
 
-Links
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. 
 
-The Site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
+#### Personal Information
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+If you choose to create a profile or otherwise provide personal information on our site, we will use that information to customize and improve your website experience. Neither Legacy nor its vendors will ever share your personal information with anyone else without your consent, except in limited circumstances, such as complying with legal processes or preventing fraud or imminent harm. We will never sell your personal information. If you would like to edit or delete your profile or any other information you have provided to us, please visit [http://www.thetruth.com/profile/](https://web.archive.org/profile/) or contact us at [info@thetruth.com](mailto:info@thetruth.com)
 
-If users have any questions about this privacy statement, the practices of the Site, or your dealings with the Site, you can e-mail us at [info@thetruth.com](mailto:info@thetruth.com). 
+#### Opting Out
 
-Site visitors may remove or change their information in our databases and/or stop all future, direct communications from us by emailing or mailing us at the address provided above. 
+We communicate only with those who have chosen to receive communications from us. If you do not want to receive communications in the future, or would like to review personal information collected from you and request corrections, please contact us at [info@thetruth.com](mailto:info@thetruth.com). 
+
+If we ever decide to use your information for a new, unanticipated use not previously disclosed in our privacy policy, we will post the policy change prominently on this page and provide you with the ability to opt-out of this new use. 
+
+#### Security
+
+We take appropriate security measures to protect against unauthorized access to or disclosure or destruction of our user's data. We restrict access to personal information to our employees, contractors, and agents who need to know that information in order to perform their jobs. 
+
+#### Questions
+
+Please contact us at [info@thetruth.com](mailto:info@thetruth.com) if you have any questions about this policy. 
