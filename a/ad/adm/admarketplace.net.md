@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admarketplace.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223060801id_/http%3A//www.admarketplace.net/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623064800id_/http%3A//www.admarketplace.net/privacy-statement.php) for the most accurate reproduction.*
 
 # adMarketplace.com: Performance-driven Pay Per Click advertising - Privacy Statement
 
@@ -100,4 +100,4 @@ As our company and services evolve, this Privacy Policy may be revised to reflec
 
 ##### Questions?
 
-Please [contact us](https://web.archive.org/web/20101223060801id_/http%3A//www.admarketplace.net/contact.php) with any questions about this website Privacy Policy.
+Please [contact us](https://web.archive.org/web/20110623064800id_/http%3A//www.admarketplace.net/contact.php) with any questions about this website Privacy Policy.
