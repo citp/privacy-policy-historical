@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiessays.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223084113id_/http%3A//www.antiessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiessays.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623035717id_/http%3A//www.antiessays.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AntiEssays.com
 
@@ -74,7 +74,7 @@ By mail:
     
     AntiEssays.com
     127 S. Brand Blvd., Suite 109
-    Glendale, CA 91204 - USA
+    Glendale, CA 91204 USA
 
 ##### If You Are a Resident of California
 
@@ -86,7 +86,7 @@ the names and addresses of third parties that received such information, and
 
 if the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed.
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@antiessays.com
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@antiessays.com.
 
 ##### Changes
 
