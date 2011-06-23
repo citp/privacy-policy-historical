@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseoftravel.co.nz privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220033749id_/http%3A//www.houseoftravel.co.nz/about-us/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoftravel.co.nz privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623032651id_/http%3A//www.houseoftravel.co.nz/about-us/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Act 1993 - Travel Information kept Confidential
 
