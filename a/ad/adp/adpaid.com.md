@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203150151id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023728id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
 
 # AdPaid.com Privacy Statement
 
-Welcome to AdPaid.com: Earn Money Online, Get Paid Reading Emails, Earn Cash for Completing Paid Online Surveys and Offers. Highly cost-effective targeted advertising solutions.
+Welcome to AdPaid.com: Earn Money Online, Get Paid Reading Emails, Earn Cash for Completing Paid Online Surveys and Offers. Highly cost-effective targeted advertising solutions. **Happy Birthday to Us! AdPaid has now been Serving Advertisers and Members for over SEVEN Years! **
 
 ## **AdPaid.com Respects Your Privacy**
 
