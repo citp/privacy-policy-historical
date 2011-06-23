@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oprah.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204040421id_/http%3A//www.oprah.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oprah.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623060121id_/http%3A//www.oprah.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Oprah.com - Live your best Life - Oprah.com
 
@@ -83,15 +83,3 @@ We incorporate commercially reasonable safeguards to help protect and secure you
   11. What About Changes To The Privacy Policy?
 OWN reserves the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. However, OWN will not use your Personal Information in a manner materially different than what was stated at the time it was collected without your consent.  
 
-
-Daily Links 
-
-O
-
-Daily Links 
-
-[ ](http://www.oprah.com/own/channel_finder.html)
-
-Get the best of _The Oprah Show_ , _O_ magazine and Oprah.com delivered to you every day. Sign up today! 
-
-[ ](http://myown.oprah.com/community/channel/index.html)
