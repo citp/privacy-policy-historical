@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escortsmeet.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124180448id_/http%3A//www.escortsmeet.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escortsmeet.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623134441id_/http%3A//www.escortsmeet.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy - EscortsMeet Escort
 
@@ -28,8 +28,4 @@ At www.EscortsMeet.comwe recognize that privacy is important. This document outl
 
 * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.
 
-* We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
-
-**More information**
-
-If you have additional questions regarding your privacy and www.EscortsMeet.com, please call us at 800-573-8423.
+* We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. ****
