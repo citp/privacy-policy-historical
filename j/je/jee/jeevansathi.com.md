@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220145535id_/http%3A//www.jeevansathi.com/P/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623163845id_/http%3A//www.jeevansathi.com/P/privacy_policy.php) for the most accurate reproduction.*
 
 # Jeevansathi Matrimonials- Privacy Policy
 
@@ -20,6 +20,9 @@ NO, All visitors to our site may browse the site, search the ads and view any ar
 
 5\. Can users contact any number of profiles in a single day?  
 As a paid member of this site, you have the privilege to contact lots of profiles. However, there is a specified limit to 100 contacts for security reasons per day. If you want to contact more profiles than the specified limit in a single day, he/she can do so after the completion of 24 hours of their login time. 
+
+6\. How Jeevansathi.com team can contact you ?  
+The Jeevansathi.com team will contact you from time to time to apprise you on various features and functionalities of the website. They will contact you for either "Service" or "Sales" through a variety of mediums like Email, SMS, MMS, Voice IVR, USSD, WAP messages, Telephonic Calls etc. The calls made to you will be from a regular Mobile or Landline number which is not of the "140" series. 
 
 Notice: We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. If you have any questions regarding our Privacy Statement, please write in to webmaster@jeevansathi.com 
 
