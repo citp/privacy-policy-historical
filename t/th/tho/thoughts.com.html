@@ -1,33 +1,42 @@
-<!--The following is the downloaded HTML source of the thoughts.com privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204160032id_/http%3A//www.thoughts.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thoughts.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623035337id_/http%3A//www.thoughts.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta description="">
-  <meta keywords="">
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta content="" name="description">
+  <meta content="" name="keywords">
   <title>privacy - thoughts.com conversation engine</title>
-  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.reset.css?" media="screen" id="">
-  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts-ui/jquery-ui-1.8.2.custom.css?" media="screen" id="">
-  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.global.css?" media="screen" id="">
-  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.styles.css?" media="screen" id="">
-  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.print.css?" media="print" id="">
-  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/themes/default.css?" media="screen" id="styletheme">
-  <script type="text/javascript" src="http://static.thoughts.com/js/lib/jquery-1.4.2.min.js?"></script>
-  <script type="text/javascript" src="http://static.thoughts.com/js/lib/jquery-ui-1.8.2.custom.min.js?"></script>
-  <script type="text/javascript" src="http://static.thoughts.com/js/thoughts.global.js?"></script>
-  <script type="text/javascript" src="http://static.thoughts.com/js/plugins.js?"></script>
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.reset.css?5389" media="screen" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts-ui/jquery-ui-1.8.2.custom.css?5389" media="screen" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.global.css?5389" media="screen" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.styles.css?5389" media="screen" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/thoughts.print.css?5389" media="print" id="">
+  <link type="text/css" rel="stylesheet" href="http://static.thoughts.com/css/themes/default.css?5389" media="screen" id="styletheme">
+  <script type="text/javascript">document.domain = 'thoughts.com';</script>
+  <script type="text/javascript"> var CKEDITOR_BASEPATH = "http://static.thoughts.com/js/ckeditor/"; </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="http://static.thoughts.com/js/lib/jquery-1.4.2.min.js">\x3C/script>')</script><script src="http://static.thoughts.com/js/lib/jquery-1.4.2.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
+  <script>window.jQuery.ui || document.write('<script src="http://static.thoughts.com/js/lib/jquery-ui-1.8.2.min.js">\x3C/script>')</script>
+  <script type="text/javascript" src="http://static.thoughts.com/js/thoughts.global.js?5389"></script>
+  <script type="text/javascript" src="http://static.thoughts.com/js/plugins.js?5389"></script>
+
   <script type="text/javascript">
-    // Set document domain
-    document.domain = 'thoughts.com';
 
     // Define basedir
     var baseDir = 'http://www.thoughts.com/';
 
     $(function () {
-      $('textarea.expandable').autoResize();
 
-      var mp = new Thoughts.MiniProfile($('.miniprofile'));
+      $("textarea.expandable").BetterGrow({
+        initial_height: 35
+      });
+
+
+      var mp = new Thoughts.MiniProfile({
+        selector: $('.miniprofile')
+      });
 
       // Footer "Blog Sites" menu hoverintent settings
       var subConfig = {
@@ -54,17 +63,20 @@
         <li><a href="http://www.thoughts.com/">home</a></li>
         <li><a href="http://www.thoughts.com/blogs">blogs</a></li>
         <li><a href="http://www.thoughts.com/groups">groups</a></li>
-                <li><a id="help_area" class="parent" href="http://www.thoughts.com/help">help</a></li>
-      </ul>
+
+        
+              </ul>
 
       <form action="http://www.thoughts.com/search" id="formSearch" method="post">
-        <input class="input" name="q">
+        <input class="input" name="query">
         <input type="submit" class="submit" value="">
       </form>
 
       
         <div class="loggedOut" id="userContextNav">
-          <a href="http://www.thoughts.com/register">sign up</a><a href="http://www.thoughts.com/tour">tour</a>
+          <a href="http://www.thoughts.com/register">sign up</a>
+          <a href="http://www.thoughts.com/tour">tour</a>
+          <a class="help" href="http://www.thoughts.com/help">help</a>
         </div>
 
         <ul class="loggedOut" id="loginMenu">
@@ -89,13 +101,18 @@
             </ul>
           </li>
         </ul>
-
-      
-    </div>
+                  <div class="headerConnect">
+                          <a id="fbLogin" class="serviceButton" href="http://www.thoughts.com/login/external/facebook"><img src="http://developers.facebook.com/images/devsite/login-button.png"></a>
+            
+                          <a id="twLogin" class="serviceButton" href="http://www.thoughts.com/login/external/twitter"><img src="http://a0.twimg.com/images/dev/buttons/sign-in-with-twitter-l.png"></a>
+                      </div>
+        
+          </div>
 
   </div>
 
   <div class="clear"></div>
+
   <noscript>
     <div>
       For full functionality of this site it is necessary to enable JavaScript.
@@ -103,14 +120,15 @@
       instructions how to enable JavaScript in your web browser</a>.
     </div>
   </noscript>
-   <div id="themeWrapper"> <div id="themeFooter">  
-	<div id="themeCenter"> 
+
+   <div id="themeWrapper"> <div id="themeFooter">
+	<div id="themeCenter">
 	<div id="round">
   <div id="main" class="right">
-   
+
     <h2 class="pageTitle">privacy policy</h2>
     <div id="sidebar">
-      <div class="module " id="Whim"><div id="top"></div><div id="text">Welcome to thoughts! Create a free blog and join the conversation. What are you thinking? </div><a href="/tour" id="tourButton" class="button blue">take a tour</a><a href="/register" id="signupButton" class="button green">sign up</a></div><div class="module " id="GlobalTags"><span class="moduleHead">related tags</span><ul class="moduleContent"><li><a title="27856 posts tagged love" href="http://www.thoughts.com/tag/love">love</a></li><li><a title="26446 posts tagged life" href="http://www.thoughts.com/tag/life">life</a></li><li><a title="10004 posts tagged poetry" href="http://www.thoughts.com/tag/poetry">poetry</a></li><li><a title="8229 posts tagged relationships" href="http://www.thoughts.com/tag/relationships">relationships</a></li><li><a title="7730 posts tagged thoughts" href="http://www.thoughts.com/tag/thoughts">thoughts</a></li><li><a title="7549 posts tagged poem" href="http://www.thoughts.com/tag/poem">poem</a></li><li><a title="6770 posts tagged god" href="http://www.thoughts.com/tag/god">god</a></li><li><a title="6317 posts tagged friends" href="http://www.thoughts.com/tag/friends">friends</a></li><li><a title="5962 posts tagged family" href="http://www.thoughts.com/tag/family">family</a></li><li><a title="5637 posts tagged depression" href="http://www.thoughts.com/tag/depression">depression</a></li><li><a title="5463 posts tagged sex" href="http://www.thoughts.com/tag/sex">sex</a></li></ul></div>    </div>
+      <div class="module " id="Whim"><div id="top"></div><div id="text">Welcome to thoughts! Create a free blog and join the conversation. What are you thinking? </div><a href="/tour" id="tourButton" class="button blue">take a tour</a><a href="/register" id="signupButton" class="button green">sign up</a></div><div class="module " id="GlobalTags"><span class="moduleHead">related tags</span><ul class="moduleContent"><li><a title="31203 posts tagged love" href="http://www.thoughts.com/tag/love">love</a></li><li><a title="29482 posts tagged life" href="http://www.thoughts.com/tag/life">life</a></li><li><a title="11129 posts tagged poetry" href="http://www.thoughts.com/tag/poetry">poetry</a></li><li><a title="9248 posts tagged relationships" href="http://www.thoughts.com/tag/relationships">relationships</a></li><li><a title="8750 posts tagged thoughts" href="http://www.thoughts.com/tag/thoughts">thoughts</a></li><li><a title="7983 posts tagged poem" href="http://www.thoughts.com/tag/poem">poem</a></li><li><a title="7400 posts tagged god" href="http://www.thoughts.com/tag/god">god</a></li><li><a title="7091 posts tagged friends" href="http://www.thoughts.com/tag/friends">friends</a></li><li><a title="6815 posts tagged family" href="http://www.thoughts.com/tag/family">family</a></li><li><a title="6597 posts tagged depression" href="http://www.thoughts.com/tag/depression">depression</a></li><li><a title="6002 posts tagged sex" href="http://www.thoughts.com/tag/sex">sex</a></li></ul></div>    </div>
 
     <div id="content">
       <div id="StaticPrivacy">
@@ -156,8 +174,9 @@
 <h3>Privacy policy updates or other changes</h3>
 
 <p>As thoughts.com progresses, or situations in development arise, changes to our privacy policy may come about. Should changes be made, we will post them in complete form on our site to make thoughts.com users conscious of what the changes are. This will allow the thoughts.com community to continually become aware of what information thoughts.com collects, how it is used, and when it would be disclosed. All thoughts.com bloggers and users are bound by any minor changes to the policy when they use the site after those changes have been posted. What's more, if we are going to use users' individually identifiable information in a method considerably different from what is stated at the time of compilation, we will notify by posting a notice on our website for an adequate amount of time or through email communications.</p></div>    </div>
+
     
-    <div id="footer" class="mainFooter clearfix">
+<div id="footer" class="mainFooter clearfix">
   <ul id="footer_nav">
     <li><a href="http://www.thoughts.com/free-blog">free blog</a></li>
     <li><a href="http://www.thoughts.com/forums">forums</a></li>
@@ -194,7 +213,7 @@
     <li class="last"><a href="http://www.thoughts.com/login">login</a></li>
   </ul>
   <p class="copyright">
-    <a href="http://www.thoughts.com">www.thoughts.com</a> ©2010    | <a href="http://www.thoughts.com/bugreport">Report a Bug</a>
+    <a href="http://www.thoughts.com">www.thoughts.com</a> ©2011    | <a href="http://www.thoughts.com/bugreport">Report a Bug</a>
   </p>
 </div>
 
@@ -217,6 +236,6 @@
   </div>
  </div>
  </div>
- 
+
 
 </body></html>
