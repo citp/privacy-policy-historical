@@ -1,77 +1,68 @@
-> *The following text is extracted and transformed from the vertica.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412202534id_/http%3A//www.vertica.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertica.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623051226id_/http%3A//www.vertica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vertica
+# Privacy Policy
 
-  
+_This Privacy Policy was last updated on January 4, 2011._
 
+## Our Policy
 
-### Privacy Policy
+Welcome to the web site (the “Site”) of Vertica Systems Inc. (“Vertica”, “we”, “us” and/or “our”). This Site is operated by Vertica and has been created to provide information about our company to our Site visitors (“you”, “your”) and to provide authorized registered users with access to the V-Zone and My Vertica (the “Vertica Services”). This Privacy Policy sets forth Vertica’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors.
 
-This privacy policy was last modified on August 1, 2007.
+## Information We Collect
 
-Vertica Systems, Inc. ("Vertica," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Vertica when you use vertica.com and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
+When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below:
 
-If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at [privacy@vertica.com](mailto:privacy@vertica.com).
+**Personal Data That You Provide Through the Site** : We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, register for access to the Company Services or use certain Company Services.
 
-### Information We Collect
+**Other Information** :  
+_Non-Identifiable Data_ : When you interact with Vertica through the Site, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Vertica may store such information itself or such information may be included in databases owned and maintained by Vertica affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers. In addition, in operating this Site, we may use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.
 
-**User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, company name and other contact information, when you register with the Service or respond to certain offers on the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
+_Aggregated Personal Data_ : In an ongoing effort to better understand and serve the users of the Vertica Services, Vertica often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Vertica may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Vertica may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-**Cookies Information:** When you visit Vertica.com or other websites we own or operate, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Vertica help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Vertica uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+## Our Use of Your Personal Data and Other Information
 
-Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+Vertica uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Vertica Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Vertica may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Vertica Services. Vertica and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. If Vertica intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-**Clear Gifs Information:** When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Vertica account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Vertica better for our users.
+## Our Disclosure of Your Personal Data and Other Information
 
-### How We Use Your Information
+Vertica is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. 
+**Business Transfers** : As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
 
-Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in the User Content you post) becomes available to the public. By providing Vertica your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, including changes to features of the Service and special offers. If you do not want to receive such email messages, you may opt out by sending an email message to [info@vertica.com](mailto:info@vertica.com) with the words "No email" in the subject field or by sending mail to the following postal address:
+**Related Companies** : We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-Vertica Systems, Inc.   
-8 Federal Street, First Floor  
-Billerica, MA 01821  
-Attention: Customer Support Department
+**Agents, Consultants and Related Third Parties** : Vertica, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another Vertica to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
-Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. Vertica may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security. 
+**Legal Requirements** : Vertica may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Vertica, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
 
-Vertica reserves the right, but has no obligation, to monitor the User Content you post on the site. Vertica has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party. Vertica also reserves the right to remove information upon the request of any third party.
+## Your Choices
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+You can use the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Vertica Services.
 
-### How We Share Your Information
+## Exclusions
 
-**Personally Identifiable Information:** Vertica will not rent or sell your personally identifiable information to others. Vertica may share your personally identifiable information to third parties solely for the purpose of providing services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Vertica (for instance, on servers or databases co-located with hosting providers).
+This Privacy Policy does not apply to any Personal Data collected by Vertica other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Vertica through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Vertica shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. In any such transfer of information, your user information would remain subject to the promises made in our Privacy Policy.
+## Children
 
-Except as otherwise described in this privacy statement, Vertica will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use Agreement](https://web.archive.org/termsofuse), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Vertica, our users or others.
+Vertica does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site.
 
-**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with our consultants and interested third parties to help them understand the usage patterns for certain Vertica services. Vertica may also provide links to third-party websites and others. The Vertica privacy policy does not apply to, and we cannot control the activities of, third-party websites. You should consult the privacy policy of any other website you visit from links on the Vertica site.
+## Links to Other Web Sites
 
-### How We Protect Your Information
+This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by Vertica (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Vertica endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-Vertica uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Vertica and you do so at your own risk. Once we receive your transmission of information, Vertica makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. This information includes your User Content. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+## Security
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Vertica, at all times.
+Vertica takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to Vertica via the Internet.
 
-### Your Choices About Your Information
+## Other Terms and Conditions
 
-You may, of course, decline to submit personally identifiable information through Vertica, in which case Vertica may not be able to provide certain services to you. You can review and correct the information about you that Vertica keeps on file by contacting us directly at [info@Vertica.com](mailto:info@Vertica.com). 
+Your access to and use of this Site is subject to the Terms of Use.
 
-### Children's Privacy
+## Changes to Vertica’s Privacy Policy
 
-Protecting the privacy of young children is especially important. For that reason, Vertica does not knowingly collect or solicit personal information from anyone under the age of 18 or knowingly allow such persons to register. If you are under 18, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 18 is allowed to provide any personal information to or on Vertica. In the event that we learn that we have collected personal information from a child under age 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at [privacy@Vertica.com](mailto:privacy@Vertica.com). 
+The Site and our business may change from time to time. As a result, at times it may be necessary for Vertica to make changes to this Privacy Policy. Vertica reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
 
-### Links to Other Web Sites
+## Access to Information; Contacting Vertica
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
-
-Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
-
-### Changes to Our Privacy Policy
-
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. You are bound by changes to the Privacy Policy when you use the site after those changes have been posted. 
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [privacy@vertica.com](mailto:privacy@vertica.com). 
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site. Please also feel free to contact us if you have any questions about Vertica’s Privacy Policy or the information practices of this Site. You may contact us by e-mail at [INFO@VERTICA.COM](mailto:info@vertica.com).
