@@ -1,27 +1,31 @@
-> *The following text is extracted and transformed from the 123peppy.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204144505id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123peppy.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623070555id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 123peppy
+# Privacy Policy of 123Peppy.com
 
-**Registration**  
-In order to register for an account on 123peppy you must supply us with your email address.
+**At 123peppy.com we do not gather any personal information from the user and we are committed to protect your privacy online**
 
-**How your personal Information is used** We use your email address to send you your password. This is also applicable should you use the lost password or lost username feature on the site. We may also from time to time send you emails about offers or updates with 123peppy. You can choose to opt out of this at any time from your My 123peppy Settings area. We do not pass any personal information (including email addresses) to 3rd parties. Information pertaining to the age is of essential value in identifying the minors, who need to obtain permission from parents or from their legal guardian to get registered as a member of 123peppy.com (Minors present in the United States are the children who get categorized under 13, and in the non-US countries, children under the age of 16 years get categorized as minors)
+**IP address and logging in**
 
-**IP address and logging**  
-Your IP address is used to gather broad demographic information and to track your general visiting patterns (how many pages you view while at one website, downloads, etc). 
+We may seek to get broad demographic information from your pattern of visiting our site with your IP address. This includes the number of pages you see at our site, and also the number of downloads you make. We do not gather personal information from our users.
 
-**Third Party Advertising**  
-We may use Google Adsense and/or other third-party advertising companies to serve ads when you visit 123peppy.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you 
+**Third party advertising**
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
+We may utilize Google Adsense or any other advertising agency to serve you with advertisements whenever you visit 123peppy.com. Even though your details like email ID, name, address, or phone number will not be revealed to these companies, they may be enabled to provide you with the kind of ads that interest you, based on the visits that you make to our site.
 
-**Cookies** Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+**Cookies**
 
-**Parental Rights**  
-As a parent you have the right to request all personal information stored about your child on our servers. At your request we will provide this information to you within 7 working days. 
+Our own servers may also display ads. The ads which are loaded from our servers may contain cookies to enable us to make a better selection of the kind of advertisements which may interest you.
 
-**Changes to this Privacy Policy**  
-We reserve the right to change the terms in this policy at any time without notice. It is your responsibility to ensure you are upto date with contents of this privacy policy. 
+**Third party Cookies**
+
+While serving advertisements, any unique cookies which are on your browser may also be recognized by our third-party advertisers.
+
+**Parental rights**
+
+If you seek to know about the personal information of your child which is stored in our servers, all you have to do is call upon us to provide you with the information, which will be done within 7 working days.
+
+**Changes to this privacy policy**
+
+The privacy policy published herein may be changed at any time at our discretion, and it is entirely up to you to keep yourself updated with regard to the latest developments on our site.
