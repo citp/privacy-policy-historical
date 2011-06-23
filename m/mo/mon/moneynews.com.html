@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moneynews.com privacy policy that was archived on 2010-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101214113108id_/http%3A//www.moneynews.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moneynews.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623133309id_/http%3A//www.moneynews.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	Moneynews - America's Money News Page
@@ -12,7 +12,13 @@
 <link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=MoneyNews"> 
 <link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=MoneynewsInternalPages">
 <link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=MoneyNewsWebParts">
-<link rel="stylesheet" href="http://app.quotemedia.com/css/tools.css"> 
+
+
+<link rel="stylesheet" href="http://app.quotemedia.com/css/tools.css">
+<meta property="og:site_name" content="Moneynews">
+<meta property="fb:admins" content="Newsmaxk">
+<meta property="og:image" content="http://www.moneynews.com/App_Themes/Moneynews/Images/MNHeader-Left.gif">
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/CMSScripts/jquery/jquery-core.js"></script> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
 <script language="JavaScript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -34,8 +40,18 @@ pageTracker._trackPageview();
 
 
 <script type="text/javascript">
+
+function fwdpopup(url) {
+    window.open(url, "forwardPage", "menubar=1,resizable=1,width=750,height=600");
+}
+
+function timedRefresh(timeoutPeriod) {
+	setTimeout("location.reload(true);",timeoutPeriod);
+}
+
 var min=8;
 var max=18;
+
 function increaseFontSize() {
    var p = document.getElementsByTagName('p');
    for(i=0;i<p.length;i++) {
@@ -110,6 +126,22 @@ var stock=document.getElementById('symbol').value;
 document.location.href='http://app.quotemedia.com/quotetools/clientForward?symbol='+stock+'&targetURL=http://'+SiteName+'/quotes/multi-channel-module&targetsym=true';	
 //document.location.href='http://devcms.moneynews.dev/Development/quotes/multi-channel-module?qm_symbol=' +stock;	
 }
+
+function gup(name)
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp(regexS);
+  var results = regex.exec(window.location.href);
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+
+
+
 function Gotosignup()
 {
 if (document.getElementById('txtalert_signup').value =='')
@@ -136,13 +168,18 @@ function drawPromoPixel(){
 		}
 	}
 }
-</script> 
+</script>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "9248945" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=9248945&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+ 
+ 
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="icon" href="/favicon.ico"></head>
 <body class="LTR ENUS">
     <form name="form1" method="post" action="/Privacy.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTg2MzA2MjY5D2QWAgIBEGRkFgICAw9kFgJmD2QWAmYPZBYIAgQPZBYCZg9kFgJmD2QWBmYPZBYCZg9kFgJmDxUGJGIwODc0ZjNjLTMzNzUtNDQ3Zi1iMGFiLWQ5Y2IzYTYyNjc0OQZSdWRkeSARd3d3Lm1vbmV5bmV3cy5jb20HUnVkZHlNTgI3OSZDaGluYSdzIE5ldyBJbmZsYXRpb24gQm9kZXMgSWxsIGZvciBVU2QCAQ9kFgJmD2QWAmYPFQYkN2UyZWVkZjAtYWFmZS00NzgxLWE3ZTEtYmRhZTFkNTEyOTM1BkJlcmxhdRF3d3cubW9uZXluZXdzLmNvbQhCZXJsYXVNTgI5OSRPYmFtYSdzIEdNIE51bWJlcnMgQXJlIE5vdCBBZGRpbmcgVXBkAgIPZBYCZg9kFgJmDxUGJDJmZTIxNDNjLThkODgtNGVkNi1iM2MwLWY4YjIzMmI0ZGUyNgVIeW1hbhF3d3cubW9uZXluZXdzLmNvbQlTZWFuSHltYW4CNzQwRXZlcnlvbmUgV2FudHMgYSBQaWVjZSBvZiB0aGUgRm9yZXggSW5kdXN0cnkgTm93ZAIFD2QWAgIBDw8WAh4HVmlzaWJsZWhkZAIGD2QWAmYPZBYCAgIPZBYCZg9kFgJmD2QWAgIFD2QWAmYPZBYCZg8VAQVSaWdodGQCCA9kFgJmD2QWAmYPFQEGQm90dG9tZBgJBRpkYmdFbGVtJGxvZ1NRTCRncmlkUXVlcmllcw88KwAKAQhmZAUbZGJnRWxlbSRsb2dTdGF0ZSRncmlkU3RhdGVzDzwrAAoBCGZkBRlkYmdFbGVtJGxvZ01hYyRncmlkTWFjcm9zDzwrAAoBCGZkBSRkYmdFbGVtJGxvZ1JlcXVlc3QkdGJsVmFsJGdyaWRWYWx1ZXMPPCsACgEIZmQFJWRiZ0VsZW0kbG9nUmVxdWVzdCR0YmxSZXFDJGdyaWRWYWx1ZXMPPCsACgEIZmQFGmRiZ0VsZW0kbG9nQ2FjaGUkZ3JpZENhY2hlDzwrAAoBCGZkBRxkYmdFbGVtJGxvZ1JlcXVlc3QkZ3JpZENhY2hlDzwrAAoBCGZkBSVkYmdFbGVtJGxvZ1JlcXVlc3QkdGJsUmVzQyRncmlkVmFsdWVzDzwrAAoBCGZkBRZkYmdFbGVtJGxvZ1NlYyRncmlkU2VjDzwrAAoBCGZkqR/11UfEEJ9csbVQsOWmaNyJQaY=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTg2MzA2MjY5D2QWAgIBEGRkFgICAw9kFgJmD2QWAmYPZBYIAgQPZBYCZg9kFgJmD2QWBmYPZBYCZg9kFgJmDxUGJDA4OWYzNzk0LWY3YmMtNDM5MS04OTY1LTQ2NWMzOGQ3MDA2NAdQYXJpc2lzEXd3dy5tb25leW5ld3MuY29tC0hhbnNQYXJpc2lzAjg1JUVjb25vbWljIFJpc2tzIE1vdW50IEFyb3VuZCB0aGUgR2xvYmVkAgEPZBYCZg9kFgJmDxUGJDlmZmU0ODMzLWMxODMtNGU2OC04Y2RjLWM5ZTQ5YzVlNjE3MAhXb2xpbnNreRF3d3cubW9uZXluZXdzLmNvbQhXb2xpbnNreQMxMTAsQSBUYWxlIG9mIFR3byBFZHVjYXRvcnM6IFVuaW9uIFZzLiBOb24tVW5pb25kAgIPZBYCZg9kFgJmDxUGJGQ0ZjY0MDZjLTFjNjEtNDA5NC1iYjYxLTUzZGM3ZjY1OGRlNARNZXJrEXd3dy5tb25leW5ld3MuY29tDE1lcmtBbmFseXNpcwI4NB9FdXJvOiBTYWZlciBUaGFuIHRoZSBVUyBEb2xsYXI/ZAIFD2QWAgIBD2QWAgICD2QWAmYPZBYCZg9kFgJmDxUCTmh0dHA6Ly93d3cubW9uZXluZXdzLmNvbS9GaW5hbmNlTmV3cy9VbmVtcGxveW1lbnRCZW5lZml0cy8yMDExLzA2LzIzL2lkLzQwMTEwMVBVbmVtcGxveW1lbnQgQ2xhaW1zIFVuZXhwZWN0ZWRseSBSaXNlIGJ5IDksMDAwIHRvIDQyOSwwMDAgYXMgSm9icyBNYXJrZXQgV2Vha2Vuc2QCBg9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFgICBQ9kFgJmD2QWAmYPFQEFUmlnaHRkAggPZBYCZg9kFgJmDxUBBkJvdHRvbWQYCQUaZGJnRWxlbSRsb2dTUUwkZ3JpZFF1ZXJpZXMPPCsACgEIZmQFG2RiZ0VsZW0kbG9nU3RhdGUkZ3JpZFN0YXRlcw88KwAKAQhmZAUZZGJnRWxlbSRsb2dNYWMkZ3JpZE1hY3Jvcw88KwAKAQhmZAUkZGJnRWxlbSRsb2dSZXF1ZXN0JHRibFZhbCRncmlkVmFsdWVzDzwrAAoBCGZkBSVkYmdFbGVtJGxvZ1JlcXVlc3QkdGJsUmVxQyRncmlkVmFsdWVzDzwrAAoBCGZkBRpkYmdFbGVtJGxvZ0NhY2hlJGdyaWRDYWNoZQ88KwAKAQhmZAUcZGJnRWxlbSRsb2dSZXF1ZXN0JGdyaWRDYWNoZQ88KwAKAQhmZAUlZGJnRWxlbSRsb2dSZXF1ZXN0JHRibFJlc0MkZ3JpZFZhbHVlcw88KwAKAQhmZAUWZGJnRWxlbSRsb2dTZWMkZ3JpZFNlYw88KwAKAQhmZIFYx77DBJ8xaanFWOPk7JcPgQFU">
 </div>
 
 <div><input type="hidden" name="lng" id="lng" value="en-US">
@@ -199,7 +236,14 @@ function URLEncode (clearString) {
 
 //var OAS_listpos = 'x20,x21,x22,x23,x24,x25,x26,TopLeft,Middle,Bottom,Left1,x05,Top2,Right';
 
-var OAS_query = '';
+if (gup('qm_symbol')) {
+  var OAS_query = gup('qm_symbol');
+}
+else {
+  var OAS_query = '';
+}
+
+
 var OAS_target = '_top';
 //end of configuration
 var OAS_version = 10;
@@ -228,64 +272,53 @@ function OAS_AD(pos) {
 
        
 -->
-</script><script language="JavaScript1.1" src="http://oascentral.newsmax.com/RealMedia/ads/adstream_mjx.ads/www.newsmax.com/1952232265@Bottom,Right?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.newsmax.com/RealMedia/ads/adstream_mjx.ads/www.newsmax.com/1163027816@Bottom,Right?"></script>
 
 
-<script type="text/javascript" language="javascript">
-$(document).ready(function(){
-  // Reset Font Size
-  var originalFontSize = $('article_copy, p, article_date, h1').css('font-size');
-  $(".resetFont").click(function(){
-  $('article_copy, p').css('font-size', originalFontSize);
-  });
-  // Increase Font Size
-  $("#large").click(function(){
-  	var currentFontSize = $('article_copy, p').css('font-size');
- 	var currentFontSizeNum = parseFloat(currentFontSize, 10);
-    var newFontSize = currentFontSizeNum*1.2;
-	if ( newFontSize < 20 ) {
-	$('article_copy, p').css('font-size', newFontSize);
-	}
-	return false;
-  });
-  // Decrease Font Size
-  $("#small").click(function(){
-  	var currentFontSize = $('article_copy, p').css('font-size');
- 	var currentFontSizeNum = parseFloat(currentFontSize, 10);
-	var newFontSize = currentFontSizeNum*0.8;
-	if ( newFontSize > 8 ) {
-	$('article_copy, p').css('font-size', newFontSize);
-	}
-	return false;
-  });
-});
-</script>
+
 	<div class="TopZone">
 		<div>
 		
 		<div style="clear:both">
-		<br>
+		
 
 	</div>
 	<div class="TopZone" style="margin-bottom:3px;">
 			
 
 <div id="HeaderMainTop">
-<div class="HeaderDate">
 
-<span class="HeaderDateText">
-		<script type="text/javascript">
-		    var now = new Date();
-		    document.write(now.format("dddd, MMMM dd, yyyy"));
-        </script>
-        </span>
-</div>
-<div class="HeaderSearch">
-<div class="HeaderSearchDiv">  
- 
-            <input id="q" name="q" value="" size="40" onkeypress="return SubmitOnEnter(this,event)" type="text" class="HeaderSearchInput">
-    <a onclick="SearchSite();"><img alt="search" src="/App_Themes/moneynews/Images/mn_search.gif" class="HeaderSearchBtn"></a></div>
-</div>
+    <div class="TopMenu_Container">
+
+       
+
+
+        <ul class="HeaderMidMenu_ul">
+            
+            
+            <li class="TopMenu_li"><a class="TopMenu_link_red" href="http://www.moneynews.com/contact">
+                Contact</a> |</li>
+			<li class="TopMenu_li"><a class="TopMenu_link_red" href="http://www.moneynews.com/advertise">
+				Advertise</a> |</li> 
+            <li class="TopMenu_li"><a class="TopMenu_link_red" href="http://shop.newsmax.com/">
+                Shop</a> |</li>           
+            <li class="TopMenu_li"><a class="TopMenu_link_red" href="http://www.moneynews.com/rss">
+                RSS</a> |</li>
+            <li class="TopMenu_li"><a class="TopMenu_link_red" href="http://www.moneynews.com/archives">
+                Archives</a> |</li>
+			<li class="TopMenu_li"><a class="TopMenu_link_red" href="http://www.newsmaxlinks.com/moneynews_financial_links.cfm">
+				Links</a> 
+			 </li>
+        </ul>
+    </div>
+
+    <div class="HeaderSearch">
+        <div class="HeaderSearchDiv">  
+         
+                    <input id="q" name="q" value="" size="40" onkeypress="return SubmitOnEnter(this,event)" type="text" class="HeaderSearchInput">
+            <a onclick="SearchSite();"><img alt="search" src="/App_Themes/moneynews/Images/mn_search.gif" class="HeaderSearchBtn"></a>
+        </div>
+    </div>
 </div>
 
 
@@ -298,37 +331,39 @@ $(document).ready(function(){
         <div class="HeaderMaxLogo">
             <a href="http://www.moneynews.com/">         
             <img src="/App_Themes/Moneynews/Images/MNHeader-Left.gif" width="347" height="90" class="HeaderCorrespondent_HeaderLogo_container" border="0"></a>
+
+
 <div class="HeaderCorrespondent_container">
     <div class="HeaderCorrespondent_pic">
 
-<img src="http://www.newsmax.com/CMSPages/GetFile.aspx?guid=b0874f3c-3375-447f-b0ab-d9cb3a626749">
+<img src="http://www.newsmax.com/CMSPages/GetFile.aspx?guid=089f3794-f7bc-4391-8965-465c38d70064">
 
 </div>
     <div class="HeaderCorrespondent_caption">
-    Ruddy <br>
-    <a href="http://www.moneynews.com/blogs/RuddyMN/id-79" class="HeaderCorrespondentmenu_link" style="font-weight: normal; font-size: 11px;">China's New Inflation Bodes Ill for US</a><br>
+    Parisis<br>
+    <a href="http://www.moneynews.com/blogs/HansParisis/id-85" class="HeaderCorrespondentmenu_link" style="font-weight: normal; font-size: 11px;">Economic Risks Mount Around the Globe</a><br>
     </div>
 </div>
 <div class="HeaderCorrespondent_container">
     <div class="HeaderCorrespondent_pic">
 
-<img src="http://www.newsmax.com/CMSPages/GetFile.aspx?guid=7e2eedf0-aafe-4781-a7e1-bdae1d512935">
+<img src="http://www.newsmax.com/CMSPages/GetFile.aspx?guid=9ffe4833-c183-4e68-8cdc-c9e49c5e6170">
 
 </div>
     <div class="HeaderCorrespondent_caption">
-    Berlau<br>
-    <a href="http://www.moneynews.com/blogs/BerlauMN/id-99" class="HeaderCorrespondentmenu_link" style="font-weight: normal; font-size: 11px;">Obama's GM Numbers Are Not Adding Up</a><br>
+    Wolinsky<br>
+    <a href="http://www.moneynews.com/blogs/Wolinsky/id-110" class="HeaderCorrespondentmenu_link" style="font-weight: normal; font-size: 11px;">A Tale of Two Educators: Union Vs. Non-Union</a><br>
     </div>
 </div>
 <div class="HeaderCorrespondent_container">
     <div class="HeaderCorrespondent_pic">
 
-<img src="http://www.newsmax.com/CMSPages/GetFile.aspx?guid=2fe2143c-8d88-4ed6-b3c0-f8b232b4de26">
+<img src="http://www.newsmax.com/CMSPages/GetFile.aspx?guid=d4f6406c-1c61-4094-bb61-53dc7f658de4">
 
 </div>
     <div class="HeaderCorrespondent_caption">
-    Hyman<br>
-    <a href="http://www.moneynews.com/blogs/SeanHyman/id-74" class="HeaderCorrespondentmenu_link" style="font-weight: normal; font-size: 11px;">Everyone Wants a Piece of the Forex Industry Now</a><br>
+    Merk<br>
+    <a href="http://www.moneynews.com/blogs/MerkAnalysis/id-84" class="HeaderCorrespondentmenu_link" style="font-weight: normal; font-size: 11px;">Euro: Safer Than the US Dollar?</a><br>
     </div>
 </div>
 </div></div>
@@ -339,26 +374,27 @@ $(document).ready(function(){
             $get('txtalert_signup').value = '';
         }
     </script>
-
+    
     <div class="HeaderMidMenu">
         <div class="HeaderMidMenu_upperList">
-            <ul class="HeaderMidMenu_ul">
-                <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.moneynews.com/newsletters">
-                    Newsletters</a> </li>
-                <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.moneynews.com/special-reports">
-                    Special Reports</a> </li>
-                <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://shop.newsmax.com/">
-                    Shop</a> </li>
-                <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.moneynews.com/contact">
-                    Contact Us</a> </li>
-                <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.moneynews.com/archives">
-                    Archives</a> </li>
-                <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.moneynews.com/rss">
-                    RSS</a></li>
-            </ul>
-        </div>
+                <ul class="HeaderMidMenu_ul"> 
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.moneynews.com/">
+                        Home</a> </li>
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/">
+                        Newsmax</a> </li>
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" style="color: #CCC;" href="http://www.moneynews.com">
+                        Money</a> </li>
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmaxhealth.com/">
+                        Health</a> </li>
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmaxworld.com">
+                        World</a> </li>
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/video">
+                        Newsmax.TV</a> </li>
+                </ul>
+            </div>
+        
         <div class="Header_signup_div">
-            <span class="Header_copy_signup">SIGN UP FOR FREE NEWS ALERTS </span>
+            <span class="Header_copy_signup">FREE NEWS ALERTS </span>
             <input class="Header_signup_form" size="30" id="txtalert_signup" onfocus="clearthis();" value="Enter your e-mail address" name="alert_signup" type="text">
             <input class="Header_button_signup" value="Sign Up" onclick="Gotosignup();" name="sbt_alerts" type="button">
         </div>
@@ -366,30 +402,41 @@ $(document).ready(function(){
     <div class="HeaderBotMenu">
         <div class="HeaderBotMenu_lowerList">
             <ul id="HeaderBotMenu_ul">
-                <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/">
-                    Home</a> </li>
-                <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/">
-                    Newsmax</a> </li>
-                <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmaxhealth.com/">
-                    Health</a> </li>
+                
                 <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/Finance-News">
-                    Finance News</a> </li>
+                    Finance News</a> |</li>
                 <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/Economy">
-                    Economy</a> </li>
+                    Economy</a> |</li>
                 <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/Companies">
-                    Companies</a> </li>
+                    Companies</a> |</li>
                 <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/Markets">
-                    Markets</a> </li>
+                    Markets</a> |</li>
                 <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/Investing---Analysis">
-                    Investing &amp; Analysis</a> </li>
+                    Investing &amp; Analysis</a> |</li>
                 <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/streettalk">
-                    Street Talk</a> </li>
+                    Street Talk</a> |</li>
                 <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/Blogs">
-                    Blogs</a> </li>
+                    Blogs</a> |</li>
+                <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/newsletters">
+                    Newsletters</a> |</li>
+                <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com/special-reports">
+                    Special Reports</a> </li>
             </ul>
+            
+             <div class="HeaderDate">
+                <span class="HeaderDateText">
+                    <script type="text/javascript">
+                        var now = new Date();
+                        document.write(now.format("dddd, MMMM dd, yyyy"));
+                    </script>
+                </span>
+            </div>
         </div>
+        
+        
+        
     </div>
-</div>
+</div><div style="clear:both"></div>
 
 <div title="Click link for details at Goldline.com">
 
@@ -440,7 +487,10 @@ $(document).ready(function(){
 </div>
 		</div>
 		<div>
-			
+			<div id="txtBreakNews" class="breakingnewssection">
+
+<a href="http://www.moneynews.com/FinanceNews/UnemploymentBenefits/2011/06/23/id/401101">Unemployment Claims Unexpectedly Rise by 9,000 to 429,000 as Jobs Market Weakens</a><br>
+</div>
 		</div>
 		<!-- Content -->
 		<div class="zoneMainContent">
@@ -451,10 +501,10 @@ $(document).ready(function(){
 </div>
 <div style="width: 100%;">
   <div style="width: 80%; float: left;">
-    <div style="margin: 10px; font-family: Arial,Helvetica,sans-serif; font-size:13px;">
+    <div style="font-size: 13px; margin: 10px; font-family: Arial,Helvetica,sans-serif">
 <div class="Mediakit_header">Privacy Statement</div>
 <b>August 1, 2009</b>
-<div style="border: 2px double rgb(51, 51, 51); padding: 6px;">This Privacy Policy (the "Privacy Policy") and other policies which may be posted on this website (the "Site"), such as Terms and Conditions of Use ("Terms and Conditions") and, if you purchase, enroll in or subscribe to any of the services, products or materials provided by Newsmax Media, Inc., Newsmax.com or any of our affiliates on this Site ("Newsmax"), those purchase, enrollment or subscription terms (the "Other Agreements"), together govern your use of this Site. ALL OF THE AFORE-MENTIONED GOVERN YOUR USE OF THE SITE EVEN IN THE EVENT YOU ARE ACTING AS AN EMPLOYEE, AGENT, REPRESENTATIVE OR CONTRACTOR ON BEHALF OF ANY OTHER ENTITY OR PERSON. BY USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF OUR PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SITE. YOUR CONTINUED USE OF THE SITE INDICATES TO US THAT YOU HAVE READ AND AGREE WITH OUR PRIVACY POLICY AND THAT YOU ACCEPT ANY CHANGES THERETO, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED EITHER THE POLICY OR ANY CHANGES THERETO. If you have any questions or concerns regarding this Privacy Policy, please contact: 800-485-4350.</div>
+<div style="border-right: rgb(51,51,51) 2px double; padding-right: 6px; border-top: rgb(51,51,51) 2px double; padding-left: 6px; padding-bottom: 6px; border-left: rgb(51,51,51) 2px double; padding-top: 6px; border-bottom: rgb(51,51,51) 2px double">This Privacy Policy (the "Privacy Policy") and other policies which may be posted on this website (the "Site"), such as Terms and Conditions of Use ("Terms and Conditions") and, if you purchase, enroll in or subscribe to any of the services, products or materials provided by Newsmax Media, Inc., Newsmax.com or any of our affiliates on this Site ("Newsmax"), those purchase, enrollment or subscription terms (the "Other Agreements"), together govern your use of this Site. ALL OF THE AFORE-MENTIONED GOVERN YOUR USE OF THE SITE EVEN IN THE EVENT YOU ARE ACTING AS AN EMPLOYEE, AGENT, REPRESENTATIVE OR CONTRACTOR ON BEHALF OF ANY OTHER ENTITY OR PERSON. BY USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF OUR PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SITE. YOUR CONTINUED USE OF THE SITE INDICATES TO US THAT YOU HAVE READ AND AGREE WITH OUR PRIVACY POLICY AND THAT YOU ACCEPT ANY CHANGES THERETO, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED EITHER THE POLICY OR ANY CHANGES THERETO. If you have any questions or concerns regarding this Privacy Policy, please contact: 800-485-4350.</div>
 <p>This Privacy Policy explains how we collect your Personal Data (as defined below) on the Site, how we protect such data, and the choices you have concerning our use of such data. Please read this Privacy Policy carefully. This Privacy Policy represents our current (as of the date first written above) data collection and usage practices. Newsmax will from time to time review and revise these practices. We will post any changes to this Privacy Policy here. Please refer back to this Privacy Policy on a regular basis. For the purposes of this Privacy Policy, "Newsmax", "we", "us", and "our" means Newsmax and its affiliates.</p>
 <p>This Privacy Policy applies only to information collected by the Site. We are not responsible for the privacy of any information (i) that you reveal or post in any public forum that may be or in the future become available on the Site (e.g., message board or chat room), (ii) that is available now to the general public through no action or fault of Newsmax, or (iii) that Newsmax receives from any third party reasonably known to have a legal right to transmit such information and under no obligation to keep such information confidential. We are also not responsible for the privacy practices of websites that are operated or owned by third parties.</p>
 <p><strong>Collection of Personal Data</strong><br>
@@ -466,7 +516,7 @@ In addition to Personal Data, Newsmax may collect and/or track information that 
 <p>To enhance the Internet experience on the Site, Newsmax may use various Internet technologies such as, without limitation, ‘cookies,' ‘action tags,' ‘web bug,' ‘.gif tags,' and ‘JavaScript' (together, "Tracking Tools"). Tracking Tools are files or tools that are placed on your computer in order to identify your Web browser and the activities of your computer on the Site. Newsmax uses these technologies to customize and enhance the Internet experience of individual users. When you revisit the Site, Newsmax may recognize you by a Tracking Tool and customize your experience accordingly. For example, once you have completed the registration process, a cookie will be used to avoid having you register again. You may decline Internet cookies, if any, by using the appropriate feature of your Web browser software, if available. If cookies are disabled, however, all features of the Site may not operate as intended. Information about the procedure you are required to follow in order to disable cookies can be found on your Internet browser provider's website.</p>
 <p>We believe Tracking Tool technologies add value to the user experience, and the information obtained through these technologies is not sold or otherwise made available to third parties by Newsmax, other than as may from time to time be specified in this Privacy Policy.</p>
 <p><strong>Use of Data Collected</strong><br>
-Newsmax may use Personal Data and Monitoring Data it collects for editorial and feedback purposes, marketing and promotion, statistical analysis of users' behavior, product development, delivering products and services, providing customer support, customizing and improving the content and layout of the Site or other web sites of Newsmax, completing business transactions, administering individual accounts and meeting government regulatory requirements such as sales tax collection. Monitoring Data may be used for internal or external purposes such as researching and identifying market segments and needs. Newsmax may disclose your Personal Data to unaffiliated third parties if we believe in good faith that such disclosure is necessary (a) to comply with applicable laws, rules, or regulations, or to preserve Newsmax's legal rights in the Site's content, whether the same arises from contract or through force of law; (b) to provide you with any services, information, special offers, promotions or products you requested or consented to and to allow us to perform other activities related to such services and products; or (c) to operate this Site and other of Newsmax's systems properly. Newsmax may also share your Personal Data with a sponsor or other third party that is interested in serving you ("Third-Party Providers"). You may instruct us at any time not to share your Personal Data with such Third-Party Providers by contacting us in the manner provided under "Your Choices Regarding Personal Data Collection and Use". Please note that [this process may take up to [number of] days to complete][Newsmax makes no representation regarding the length of time this process may take, only that we will perform the update as soon as reasonably practicable].</p>
+Newsmax may use Personal Data and Monitoring Data it collects for editorial and feedback purposes, marketing and promotion, statistical analysis of users' behavior, product development, delivering products and services, providing customer support, customizing and improving the content and layout of the Site or other web sites of Newsmax, completing business transactions, administering individual accounts and meeting government regulatory requirements such as sales tax collection. Monitoring Data may be used for internal or external purposes such as researching and identifying market segments and needs. Newsmax may disclose your Personal Data to unaffiliated third parties if we believe in good faith that such disclosure is necessary (a) to comply with applicable laws, rules, or regulations, or to preserve Newsmax's legal rights in the Site's content, whether the same arises from contract or through force of law; (b) to provide you with any services, information, special offers, promotions or products you requested or consented to and to allow us to perform other activities related to such services and products; or (c) to operate this Site and other of Newsmax's systems properly. Newsmax may also share your Personal Data with a sponsor or other third party that is interested in serving you ("Third-Party Providers"). You may instruct us at any time not to share your Personal Data with such Third-Party Providers by contacting us in the manner provided under "Your Choices Regarding Personal Data Collection and Use". Please note that Newsmax makes no representation regarding the length of time this process may take, only that we will perform the update as soon as reasonably practicable.</p>
 <p>Newsmax is not responsible for any further use or disclosure of your Personal Data by Third-Party Providers; such use or disclosure is governed by the Third-Party Providers' privacy policies.</p>
 <p>Newsmax reserves the right to transfer Personal Data and Monitoring Data it collects to successors to the relevant portion of any of Newsmax's businesses, or to independent contractors it engages to assist with or perform on Newsmax's behalf any of the foregoing activities. Also, if Newsmax's assets are subject to a claim in bankruptcy, Personal Data and Monitoring Data may be an asset subject to the claims of a trustee in bankruptcy and may be available to Newsmax's creditors. In addition, Newsmax reserves the right to use Personal Data to contact you regarding your account status and changes to this Privacy Policy, the Terms and Conditions, Other Agreements (if applicable) or any other policies, agreements or transactions relevant to your use of the Site. Newsmax will take reasonable steps to maintain the integrity of the collected data so that it is reliable and appropriate for the foregoing uses.</p>
 <p><strong>Your Choices Regarding Personal Data Collection and Use</strong><br>
@@ -474,7 +524,7 @@ You may "opt-in" to having your Personal Data used by Newsmax to send promotiona
 <p>You should be aware that it may not be technologically possible to remove or verify each and every record of information you have provided to us from our system. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personal Data may exist in archived systems. However, promptly after receiving your request, all Personal Data stored in databases we actively use and other readily searchable media will be updated, corrected, changed, deleted or confirmed to you, as appropriate, as soon as reasonably practicable.</p>
 <p><strong>Links</strong><br>
 The Site may contain links to other Internet websites maintained by third parties ("Other Sites"), either as a hyperlink or through a direct data feed accessed by you. Newsmax does not endorse, and is not responsible for, the privacy practices or the content of these websites. You should review the applicable privacy policies in connection with your use of such third party websites.</p>
-<div style="border: 2px double rgb(51, 51, 51); padding: 6px;">BY ACCESSING OTHER SITES, YOU MAY SIGNIFY YOUR ACCEPTANCE OF THOSE SITES' PRIVACY POLICIES, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED THEM AND WHETHER OR NOT THEY DIFFER FROM THOSE OF NEWSMAX. IF YOU DO NOT AGREE TO THOSE PRIVACY POLICIES, YOU SHOULD NOT ACCESS THE LINK OR THE OTHER SITE. WE WILL NOT BE LIABLE TO YOU SHOULD ANY OTHER SITE VIOLATE ANY UNDERSTANDING WITH YOU CONTAINED THEREIN OR IN THIS AGREEMENT. YOUR CONTINUED USE OF THE OTHER SITE WILL MEAN THAT YOU AGREE THAT YOU SHALL HOLD US HARMLESS IN THE EVENT SUCH OTHER SITE VIOLATES ANY UNDERSTANDING WITH YOU CONTAINED THEREIN OR IN THIS AGREEMENT.</div>
+<div style="border-right: rgb(51,51,51) 2px double; padding-right: 6px; border-top: rgb(51,51,51) 2px double; padding-left: 6px; padding-bottom: 6px; border-left: rgb(51,51,51) 2px double; padding-top: 6px; border-bottom: rgb(51,51,51) 2px double">BY ACCESSING OTHER SITES, YOU MAY SIGNIFY YOUR ACCEPTANCE OF THOSE SITES' PRIVACY POLICIES, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED THEM AND WHETHER OR NOT THEY DIFFER FROM THOSE OF NEWSMAX. IF YOU DO NOT AGREE TO THOSE PRIVACY POLICIES, YOU SHOULD NOT ACCESS THE LINK OR THE OTHER SITE. WE WILL NOT BE LIABLE TO YOU SHOULD ANY OTHER SITE VIOLATE ANY UNDERSTANDING WITH YOU CONTAINED THEREIN OR IN THIS AGREEMENT. YOUR CONTINUED USE OF THE OTHER SITE WILL MEAN THAT YOU AGREE THAT YOU SHALL HOLD US HARMLESS IN THE EVENT SUCH OTHER SITE VIOLATES ANY UNDERSTANDING WITH YOU CONTAINED THEREIN OR IN THIS AGREEMENT.</div>
 <p><strong>Security Measures</strong><br>
 Newsmax has established reasonable precautions to protect collected Personal Data from loss, misuse, unauthorized access, disclosure, alteration or destruction, which include contractual, administrative, physical, and technical steps. Technical measures include use of firewall protection and encryption technology where appropriate. Although Newsmax takes reasonable precautions to assess the reliability of such technology, it relies on the statements of the vendors of those products and services as part of its security evaluation. BY USING THE SITE, YOU ACKNOWLEDGE AND CONSENT TO THE FACT THAT NEWSMAX SHALL HAVE NO LIABILITY FOR FAILURES OF SUCH PRODUCTS AND SERVICES AND THAT YOU SHALL HAVE RECOURSE SOLELY AGAINST THE MANUFACTURERS OR VENDORS THEREOF. Please note that while Newsmax has endeavored to create a secure and reliable site for users, the confidentiality of any communication or material transmitted to/from Newsmax or the Site or via e-mail cannot be guaranteed.</p>
 <p><strong>Export of Personal Data</strong><br>
@@ -541,7 +591,7 @@ OAS_AD('Bottom');
 				</div>
 				<div class="copy_footer">
 					
-					© 2010 Newsmax.com All Rights Reserved<br><br>
+					© 2011 Newsmax.com All Rights Reserved<br><br>
 				</div>
 				
 			</div>
@@ -567,6 +617,15 @@ OAS_AD('Bottom');
   </div>
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- BEGIN Tynt -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+var Tynt=Tynt||[];Tynt.push('atbo_mayur4inHadbi-bnq');Tynt.i={"st":true,"su":false};
+(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- END Tynt -->
         
     
 
