@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briskoda.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201161644id_/http%3A//briskoda.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briskoda.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623081059id_/http%3A//briskoda.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BRISKODA.net - The Skoda Forum and Community
 
