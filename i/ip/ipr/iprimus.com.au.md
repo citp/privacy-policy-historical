@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223044207id_/http%3A//www.iprimus.com.au/PrimusWeb/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623130856id_/http%3A//www.iprimus.com.au/PrimusWeb/Privacy) for the most accurate reproduction.*
 
-# Privacy - Primus Telecom
+# Privacy Policy | Primus Telecom | iPrimus.com.au
 
 Primus (means any company which is a member of the Primus group of companies) is committed to the protection of customer personal information. Primus is subject to the requirements of the Telecommunications Act 1997, the Privacy Act 1988, the Telecommunication Industry Ombudsman Scheme and the ACIF Code of Practice. This includes our Privacy Policy which has been designed to ensure that customer personal information is protected.
 
