@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyweek.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207101207id_/http%3A//www.moneyweek.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyweek.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623123157id_/http%3A//www.moneyweek.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - MoneyWeek
 
@@ -16,7 +16,7 @@ By subscribing, registering and/or signing up, you agree to the collection, stor
 
 ## Data use
 
-We use the information we collect from you to allow you \- where applicable - access to the subscriber-only areas of the MoneyWeek website, to deliver your subscriptions and to send you our free emails (Money Morning, MoneyWeek Saver, MoneyWeek Asia, The Right Side, The Penny Sleuth and The Daily Reckoning). We also use your data to improve the services we offer you. This may include asking third parties to conduct market research or trials of new features and services, and asking them to run promotional campaigns for us.
+We use the information we collect from you to allow you \- where applicable - access to the subscriber-only areas of the MoneyWeek website, to deliver your subscriptions and to send you our free emails (Money Morning, MoneyWeek Saver, MoneyWeek Asia, MoneyWeek Trader, The Right Side, The Penny Sleuth and The Daily Reckoning). We also use your data to improve the services we offer you. This may include asking third parties to conduct market research or trials of new features and services, and asking them to run promotional campaigns for us.
 
 Unless you have opted not to receive offers, we also use your information to send you offers by email from us, and by post from us and other carefully selected outside companies. We do not give, rent or sell your email address to companies outside the MoneyWeek/Fleet Street Publications group. Companies in the MoneyWeek/Fleet Street Publications group are MoneyWeek Limited, Fleet Street Publications Limited, Agora Lifestyles Limited, Agora Health Limited and Agora Inc.
 
@@ -32,7 +32,7 @@ We will only disclose your data to third parties other than those described abov
 
 ## Advertising in free emails 
 
-We fund our free emails ([Money Morning](https://web.archive.org/shop/free-emails/money-morning-signup.aspx), [MoneyWeek Saver](https://web.archive.org/shop/free-emails/money-sense-signup.aspx), [MoneyWeek Asia](https://web.archive.org/shop/free-emails/moneyweek-asia-signup.aspx), The Right Side, The Penny Sleuth and The Daily Reckoning) by taking advertising.  There are two small ads in each free email, and then two or three times a week we will send you separate promotional emails, which will contain advertisements from us or from other companies. 
+We fund our free emails ([Money Morning](https://web.archive.org/shop/free-emails/money-morning-signup.aspx), [MoneyWeek Saver](https://web.archive.org/shop/free-emails/money-sense-signup.aspx), [MoneyWeek Asia](https://web.archive.org/shop/free-emails/moneyweek-asia-signup.aspx), [MoneyWeek Trader](http://www.moneyweek.com/shop/free-emails/moneyweek-trader-signup.aspx),  The Right Side, The Penny Sleuth and The Daily Reckoning) by taking advertising.  There are two small ads in each free email, and then two or three times a week we will send you separate promotional emails, which will contain advertisements from us or from other companies. 
 
 By subscribing to any of our free emails, you are consenting to receive these promotions. We cannot send you a free email alone without the promotional emails. 
 
