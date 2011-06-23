@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205113906id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623115444id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
@@ -138,12 +138,10 @@ For questions regarding Privacy Policy and information regarding Personal Inform
 
 OpenTable is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s [Safe Harbor Web site](http://www.export.gov/safeHarbor/). 
 
-We self-certify compliance with:   
-  
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)   
+[](http://www.export.gov/safeharbor)  
 
 
 **_BBB Safe Harbor Privacy Dispute Resolution_**
 
 OpenTable is a participant in the Council of Business Bureau's BBB Safe Harbor Privacy Dispute Program. If you believe OpenTable has not satisfactorily addressed your data privacy concerns, you may contact the Council of Business Bureau at www.bbb.org 
-
-This is an IE duplicate character bug fixed.
