@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126001933id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624011101id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Charity Fundraising through Personal Web Pages – Your Cause
+# Charity Fundraising through Personal Web Pages – Your Cause
 
 |  |  |   
 ---|---|---  
 | 
 
-|  | YourCause.com Privacy Policy and Terms of Use  
+|  | Privacy Policy and Terms of Use  
 ---|---  
   
 This Privacy Policy covers the Web site [www.YourCause.com](http://www.yourcause.com/).  
@@ -60,7 +60,7 @@ To ensure that all of your Contact Information is correct and up to date, you ma
 **Other Disclosures**  
 We may share some or all of your Contact Information with our Affiliates, in which case we will require our affiliates to honor this Privacy Policy.  
 **Canceling Your Cause Page**  
-You may cancel your Cause Page at any time by sending a cancellation request to [accounts@yourcause.com](mailto:accounts@yourcause.com). If you choose to do this, please know that any information you have already provided will be handled in accordance with this Privacy Policy.  
+You may cancel your Cause Page at any time by sending a cancellation request to Accounts[at]yourcause.com. If you choose to do this, please know that any information you have already provided will be handled in accordance with this Privacy Policy.  
 **Links to other Web sites**  
 Our Privacy Policy only applies to information collected by the YourCause.com Web site. Our Web site may contain links to other Web sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects your information.  
 **Other Limits to Your Privacy**  
@@ -73,7 +73,7 @@ Your use of the YourCause.com Web site indicates your acceptance of this Privacy
 YourCause.com may change, modify or update this policy from time to time, without advance notice, by posting such changes, modifications or updates on the Web site. You are deemed to have accepted the then current version each time you use our Web site or one of our services, so please check back periodically.  
   
 **How to Contact Us**  
-Should you have other questions or concerns about these privacy policies, please email us at [accounts@yourcause.com](mailto:accounts@yourcause.com).  
+Should you have other questions or concerns about these privacy policies, please email us at Accounts[@]yourcause.com.  
 **Terms of Use**  
 A cause must directly support an official, **IRS–registered, 501(c) (3), tax-exempt organization**. Unfortunately, we cannot accept causes for individual needs or private purposes due to IRS regulations. 
 
