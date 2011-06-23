@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2010-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100827011418id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623103440id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercy Corps
 
-## [Privacy Policy](https://web.archive.org/privacy)
+## Privacy Policy
 
 We are committed to respecting the privacy rights of all donors and visitors to our website. The following information details Mercy Corps' collection, protection, and use of the data we receive from donors and visitors to this website.
 
@@ -34,11 +34,11 @@ Independent external and internal audits ensure the privacy, security and approp
 
 Web browser tell us the type of computer and operating system our site visitors are using. We're also able to learn the domain where our visitors come from. We analyze this data for trends and insights.
 
-We also use [Google Analytics and ](http://www.google.com/analytics/)[Quantcast](http://www.quantcast.com/) to examine data about our site visitors. Both of these services tell us information about technical aspects of our visitors' computers and some demographic information. We use this information to improve our content and structure, leading to a better user experience.
+We also use [Google Analytics](http://www.google.com/analytics/), [Quantcast](http://www.quantcast.com/) and [Clicktale](http://www.clicktale.com/) to examine data about our site visitors.These services tell us information about technical aspects of our visitors' computers and some demographic information. We use this information to improve our content and structure, leading to a better user experience.
 
 We do not receive or request any personally identifiable information from you unless you provide it.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](https://web.archive.org/web/20100827011418id_/http://www.mercycorps.org/privacy/www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Donations by Mail**
 
