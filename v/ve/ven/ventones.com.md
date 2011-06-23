@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ventones.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104133932id_/http%3A//www.ventones.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventones.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623040931id_/http%3A//www.ventones.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Ventones
-
-[](http://www.thewrongtext.com/?aff=vnto&cid=6783563&ccol=a43h76)
-
-| 
 
 Updated: April, 2009 
 
@@ -39,5 +35,3 @@ Your personal information is protected by a password created upon registration. 
 ## Notification of Changes to Privacy Policy
 
 Any changes to this Agreement will be notified to all registered users by posting such changes to this Site. Please review this Site on a regular basis, as your continued use of the Site will be deemed acceptance of such changes. If you have further questions, comments or concerns regarding privacy policy, or if you would like to opt-out, please contact us at support [at] ventones . com. 
-
-| 
