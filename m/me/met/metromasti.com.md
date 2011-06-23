@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008211404id_/http%3A//www.metromasti.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623235415id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
 
-# Metro Masti | Privacy Policy
+# Entertainment, Latest News Portal
 
 Welcome to metromasti.com. We value your privacy, and want you to know what information we collect and what we do with it.
 
@@ -66,7 +66,9 @@ We use Google and other third-party advertising companies to serve ads when you 
 
 *Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**THIRD PARTY COOKIES** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+**THIRD PARTY COOKIES**
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 **Contact Us**
 
