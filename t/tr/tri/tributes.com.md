@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130174156id_/http%3A//www.tributes.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623061525id_/http%3A//www.tributes.com/global/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tributes.com
 
@@ -86,7 +86,7 @@ If you have questions or suggestions about our Privacy Policy, please complete a
 Tributes, Inc.  
 280 Summer Street, 4th Floor  
 Boston, MA 02210  
-(617) 337-9406  
+(617) 337-9400  
 [support@tributes.com](mailto:support@tributes.com)
 
 Effective Date: April 7, 2008
