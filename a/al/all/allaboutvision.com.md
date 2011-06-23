@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227232123id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623151051id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
 
 # AllAboutVision.com Privacy Policy
 
@@ -35,8 +35,14 @@ Information submitted or provided to us by a website user or any person or entit
 
 
 
+## Third Party Advertising
+
+Some ads on our site are served by third-party advertising companies. These companies may use information about your visits to this and other websites in order to provide advertisements on this site, other sites, and other interactive media about goods and services that may be of interest to you. [This page](http://www.networkadvertising.org/managing/opt_out.asp) has more information about that practice and your choices relative to targeted advertising.
+
 ## Other Websites
 
 You have the opportunity to access other sites from AllAboutVision.com, by clicking either on a site's link or on an advertisement. Please be aware that these sites are outside the control of Access Media Group LLC, and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
 
 [Page updated May 2009]
+
+Text and images on this website are copyright protected and reproduction is prohibited by law. You may print or email pages for personal use. [Read our policy](http://www.allaboutvision.com/copyright.htm).
