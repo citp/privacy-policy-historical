@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229122951id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623232634id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL - Privacy Policy
 
   
 Effective Date: August 16, 2001  
-Updated: July 30, 2009
+Updated: March 30, 2011
 
 This privacy policy (the "Privacy Policy") applies to this website (the "Website"). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-The Website is operated by NFL Enterprises LLC on behalf of the National Football League and the other members of the NFL Family (as described in Section 4 below) ("we", "our", or "us"). We have contracted with third parties, including, without limitation, NeuLion, Inc., to operate certain aspects of the Site on our behalf, such as the following subscription products: Field Pass, Game Pass, Game Rewind and Red Zone (collectively, the "Subscription Products").
+The Website is operated by NFL Enterprises LLC on behalf of the National Football League and the other members of the NFL Family (as described in Section 4 below) ("we", "our", or "us"). We have contracted with third parties, including, without limitation, NeuLion, Inc., to operate certain aspects of the Site on our behalf, such as the following subscription products: Audio Pass, Game Pass, Game Rewind and Red Zone (collectively, the "Subscription Products").
 
 We own the information collected via the Website and we may use it for our own purposes, including marketing. Please note that this Privacy Policy applies only to information collected on the NFL.com website; it does not apply to any other information collected or obtained through other means or information collected by the thirty-two individual NFL member clubs (the "Member Clubs").
 
-The National Football League ("NFL") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. We have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. Please read the following to learn more about our data collection policies and practices.
+NFL Enterprises LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at NLFPrivacy@nfl.com. If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact the NFL Digital Media Group at [NFLPrivacy@nfl.com](mailto:NFLPrivacy@nfl.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information visit http://www.export.gov/safeharbor/.
 
 When this Privacy Policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -32,17 +30,19 @@ When this Privacy Policy uses the term "personally identifiable information" or 
 
 6.  Security
 
-7.  Chat Rooms, Forums, and Message Boards
+7.  Data Retention
 
-8.  A Special Note For Parents Concerning Privacy
+8.  Chat Rooms, Forums, and Message Boards
 
-9.  Your Acceptance Of The Privacy Policy And Notification Of Changes To The Privacy Policy
+9.  A Special Note For Parents Concerning Privacy
 
-10.  Correcting/updating personal information
+10.  Your Acceptance Of The Privacy Policy And Notification Of Changes To The Privacy Policy
 
-11.  Your California Privacy Rights
+11.  Correcting/updating personal information
 
-12.  Questions About This Privacy Policy
+12.  Your California Privacy Rights
+
+13.  Questions About This Privacy Policy
 
 **1.          TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
@@ -77,6 +77,11 @@ When you register to play games on our Website, you may be asked to provide pers
 
 **_Cookies_**   
 As with many websites, the Website uses a technology called "cookies." A cookie is a collection of information that gets stored on the hard drive of your computer when browsing the Internet. These small bits of code automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit the Website and where visitors go on the Website. In addition, cookies can let us know non-personally identifiable information, like how many times a user has been on certain pages. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies.
+
+**_Flash LSOs_**   
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [ click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 **_Web Beacons and Other Tracking Technology_**  
 The Website uses a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of web sites. We also use these technical methods to analyze the traffic patterns on the Website, such as the frequency with which our users visit various parts of the Website. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send to determine whether the recipients have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
@@ -138,28 +143,29 @@ You should be aware that when you are on the Website you could be directed to ot
 **6.          SECURITY**   
 The Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
-**7.          CHAT ROOMS, FORUMS, AND MESSAGE BOARDS**
+**7.          DATA RETENTION**   
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at NFLPrivacy@nfl.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-  
-The Website may make chat rooms, forums and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+**8.          CHAT ROOMS, FORUMS, AND MESSAGE BOARDS**   
+The Website and the NFL Mobile application (“NFL Mobile”) may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. In addition, when you post a comment to NFL Mobile, the user name with which you registered for the Website and your current location will be made publicly available on the Website and through NFL Mobile. By using the commenting features of the Website and NFL Mobile, you acknowledge that your user name and location information will be disclosed. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at NFLPrivacy@nfl.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**8.          A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**   
+**9.          A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**   
 The Website is a general audience website. On the Website, we do not currently knowingly collect any personal information from children under the age of thirteen. If, in the future, we collect personally identifiable information from children on the Website, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. For more information about the privacy practices for our affiliated website, NFLRush.com, which is directed to children, please consult the privacy policy at that website.
 
 The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the [Direct Marketing Association's website](http://www.the-dma.org/) and explore the Get CyberSavvy! Program as well as the [GetNetWise website](http://www.getnetwise.org/) to learn more about parental control tools. 
 
-**9.          YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE PRIVACY POLICY**   
+**10.          YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE PRIVACY POLICY**   
 By using the Website, you signify your agreement to the terms of this Privacy Policy. We may amend this Privacy Policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on the Website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the Privacy Policy, as modified, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
-**10.        CORRECTING/UPDATING PERSONAL INFORMATION**   
+**11.        CORRECTING/UPDATING PERSONAL INFORMATION**   
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to have access to the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. You may request that we do so by emailing us at [NFLPrivacy@nfl.com](mailto:NFLPrivacy@nfl.com), signing into your online account and making the desired changes, or via mail at: NFL.com user information, 280 Park Avenue, New York, NY 10017. We will respond to your request within 20 business days.
 
-**11.        YOUR CALIFORNIA PRIVACY RIGHTS**   
+**12.        YOUR CALIFORNIA PRIVACY RIGHTS**   
 California Civil Code Section 1798.83 permits customers of the National Football League who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [CAPrivacyRights@nfl.com](mailto:CAPrivacyRights@nfl.com) or write us at CA Privacy Rights, NFL Digital Media Group, 280 Park Avenue, New York, NY 10017.
 
 If you have anyquestions about this Privacy Policy or our privacy practices, contact NFLPrivacy@nfl.com.
 
-**12.        QUESTIONS ABOUT THIS PRIVACY POLICY**   
+**13.        QUESTIONS ABOUT THIS PRIVACY POLICY**   
 If you have any questions about this Privacy Policy or the privacy practices of this Website, please contact us by email at [NFLPrivacy@nfl.com](mailto:NFLPrivacy@nfl.com) or:  
 NFL Digital Media Group  
 280 Park Avenue, 15th Floor  
