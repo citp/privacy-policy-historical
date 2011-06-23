@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212005835id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623070641id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ACT
 
@@ -54,7 +54,7 @@ Additionally, ACT will not sell or disclose your Personal Information to third p
 
 ###  Registration for Tests and Other ACT Services
 
-Personal Information collected from you in connection with test registration is used and disclosed in conformity with industry standards, as well as in accordance with any confidentiality policy set forth in registration materials and applicable U.S. law. For example, your Personal Information and scores are provided to parties you designate to receive your scores and may, where applicable, be shared with the school district or other entity that has paid the fee for you to take the test, testing centers, selected scholarship programs and agencies, government agencies having authority over your school and more rarely, parties approved by ACT’s executive management to engage in research to inform and improve educational practices. Such researchers must meet certain standards and are required to sign confidentiality agreements.
+Personal Information collected from you in connection with test registration is used and disclosed in conformity with industry standards, as well as in accordance with any confidentiality policy set forth in registration materials and applicable U.S. law. For example, your Personal Information and scores are provided to parties you designate to receive your scores and may, where applicable, be shared with the school district or other entity that has paid the fee for you to take the test or to receive a certificate of achievement or credential relating to the test, testing centers, selected scholarship programs and agencies, government agencies having authority over your school and more rarely, parties approved by ACT's executive management to engage in research to inform and improve educational practices. Such researchers must meet certain standards and are required to sign confidentiality agreements. In certain situations, ACT may also provide your Personal Information to parties providing support services to any of the organizations described in this paragraph.
 
 ##  Your Choices
 
@@ -64,7 +64,7 @@ ACT strives to provide you with choices with regard to our use of your Personal 
 
 In addition, when you access the Site, certain non-personal information is automatically logged about your visit. This information may include your operating system, screen settings, Web browser software, and referring website, if any. It is used for system improvement and administration, security, statistical analysis purposes, and other internal business purposes.
 
-Cookies are small text files that a web site can send to a user’s browser for storage on the hard drive. Cookies can make use of the Web easier by saving and administering status, preferences and other user information. Cookies used by the Site do not contain your Personal Information. We use cookies in order to properly route users through the Site, customize users’ experiences on the Site, and to help us improve the Site. Most browsers are initially set to accept cookies but users can change the setting to block cookies. Although disabling cookies will not interfere with your ability to access the Site, users will need to accept cookies in order to use certain services on the Site, including test registration.
+Cookies are small text files that a website can send to a user’s browser for storage on the hard drive. Cookies can make use of the Web easier by saving and administering status, preferences and other user information. Cookies used by the Site do not contain your Personal Information. We use cookies in order to properly route users through the Site, customize users’ experiences on the Site, and to help us improve the Site. Most browsers are initially set to accept cookies but users can change the setting to block cookies. Although disabling cookies will not interfere with your ability to access the Site, users will need to accept cookies in order to use certain services on the Site, including test registration.
 
 ##  Links to Other Sites
 
@@ -72,7 +72,7 @@ The Site may contain links to other sites provided by third parties. ACT does no
 
 ##  Children’s Privacy
 
-The Site is generally intended for use by those in the fields of education and business and other adults, as well as high school students preparing for college and their parents. The portions of the Site that collect Personal Information (e.g., _www.actstudent.org_ ) are intended for high school students above the age of 13 only. We ask that children under the age of 13 do not submit any Personal Information to us.
+The Site is generally intended for use by those in the fields of education and business and other adults, as well as high school students engaged in college and career planning and their parents. The portions of the Site that collect Personal Information (e.g., _www.actstudent.org_ ) are intended for high school students above the age of 13 only. We ask that children under the age of 13 do not submit any Personal Information to us.
 
 ##  Security
 
@@ -84,7 +84,7 @@ ACT reserves the right to modify this Privacy Policy at any time, so you should 
 
 ##  Effective Date
 
-The effective date of this Privacy Policy is February 2, 2007.
+The effective date of this Privacy Policy is April 26, 2011.
 
 ##  Contact Us
 
