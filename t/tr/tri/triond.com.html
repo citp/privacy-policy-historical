@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the triond.com privacy policy that was archived on 2010-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100820150119id_/http%3A//www.triond.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the triond.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623095256id_/http%3A//www.triond.com/info/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<title>Triond - Write and Publish Online for Free and Earn</title>	<meta name="description" content="Triond regards the privacy of your personal information very seriously. The information collected by Triond is used for general purposes, such as trying to understand user preferences, fulfilling user’s requests for products and services, improving services provided, contacting and communicating with users; and other such general uses. Triond is a complete publishing service that offers a new approach for publishing online. We publish your work on a network of niche websites so you reach a wider audience, gain more recognition and earn more revenue. Triond will generally communicate with its users via email and reserves the right to send you communications, such as periodic newsletters. You can review the personal information you have provided us and make any desired changes to such information, at any time.">
 <meta name="keywords" content="triond, writing, freelance writing, writing jobs, user generated content, blog, blogging">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">				<script type="text/javascript" src="/mootools-yui-1.11.js"></script>
-<script type="text/javascript" src="/triond_yui.js"></script>			<link href="https://s3.amazonaws.com/triond/triond_styles_compressed.css?7.3.82" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/triond_yui.js"></script>			<link href="https://s3.amazonaws.com/triond/triond_styles_compressed.css?11.15" media="screen" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <script language="javascript" type="text/javascript">
+	try {
+		if (jQuery)	jQuery.noConflict(); 
+	} catch (e) {}
 	//imgsPreload = new Asset.images(['/images/top-back.gif', '/images/logo_dark.gif', '/images/icon1.png', '/images/icon2.png', '/images/icon3.png', '/images/123back.gif', '/images/footer-back.gif', '/images/loading.gif']);
 </script>
-
 
 </head>
 <body id="body" class="uBody">
@@ -42,17 +44,85 @@
 				<img src="/images/upper-link-right.png">			</div>
 
 		</div>
-		<div id="navTabsDiv">
+
+
+		<div id="navTabsDiv" style="display:none;">
+<!-- 
 			<table cellpadding="0" cellspacing="0" border="0" align="right">
-				<tbody><tr>
+				<tr>
 					<td class="navTabsLeftCell">
 					</td>
-										<td class="navTabsRightCell">
+ -->
+					<div class="navTabsLeftCell" style="float:left;height:30px;">&nbsp;
+					</div>
+					<div style="float:left;height:30px;">
+						<ul id="dropdownMenu" style="list-style: none;float:left;margin:0;padding:0;line-height:30px;">
+												</ul>
+					</div>
+					<div class="navTabsRightCell" style="float:left;height:30px;">&nbsp;
+					</div>
+
+<!-- 
+					<td class="navTabsRightCell">
 					</td>
 				</tr>
-			</tbody></table>
+			</table>
+ -->
+			<div style="clear:both;">
+			</div>
 		</div>
-
+<script type="text/javascript"> 
+ 
+	Element.extend(
+	{
+		hide: function() 
+		{
+			return this.setStyle('display', 'none');
+		},
+		
+		show: function() 
+		{
+			return this.setStyle('display', '');
+		}
+	});
+ 
+	var DropdownMenu = new Class({	
+		initialize: function(element)
+		{
+			$A($(element).childNodes).each(function(el)
+			{
+				if(el.nodeName.toLowerCase() == 'li')
+				{
+					$A($(el).childNodes).each(function(el2)
+					{
+						if(el2.nodeName.toLowerCase() == 'ul')
+						{
+							$(el2).hide();
+							
+							el.addEvent('mouseover', function()
+							{
+								el2.show();
+								return false;
+							});
+	
+							el.addEvent('mouseout', function()
+							{
+								el2.hide();
+								
+							});
+							new DropdownMenu(el2);
+						}
+					});
+				}
+			});
+			return this;
+		}
+	});
+	
+//	Window.onDomReady(function() {new DropdownMenu($('dropdownMenu'))});
+	new DropdownMenu($('dropdownMenu'));
+	
+</script> 
 	</div> 
 </div>
 	
@@ -208,6 +278,25 @@
 					</tbody></table>
 				</td>
 			</tr>
+				<tr>
+					<td colspan="2" style="padding-top:15px;">
+										 	<div id="rpxDiv" style="padding-top: 10px;">
+					 	<a class="rpxnow" onclick="return false;" style="font-size: 14px; font-weight: bold;color:#fff" href="https://triond.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.triond.com%2Frpx">
+						  Sign in using one of:						</a>
+						
+						<a class="rpxnow" onclick="return false;" style="text-decoration:none;" href="https://triond.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.triond.com%2Frpx">
+					
+						  <img class="signup-icon" src="/images/signup-icons/google.png" border="0">
+						  <img class="signup-icon" src="/images/signup-icons/twitter.png" border="0">
+						  <img class="signup-icon" src="/images/signup-icons/yahoo.png" border="0">
+						  <img class="signup-icon" src="/images/signup-icons/aol.png" border="0">
+						  <img class="signup-icon" src="/images/signup-icons/openid.png" border="0">
+						</a>
+					 	</div>
+							 
+				 	</td>
+				 </tr>
+			
 
 			<tr>
 				<td colspan="5" class="copyrightCell">
@@ -216,6 +305,14 @@
 		</tbody></table>
 	</div>
 </div>
+<script src="https://rpxnow.com/openid/v2/widget" type="text/javascript"></script>
+<script type="text/javascript">
+  RPXNOW.token_url = 'http://www.triond.com/rpx';
+  RPXNOW.domain = "triond.rpxnow.com";
+  RPXNOW.overlay = true;
+  RPXNOW.language_preference = 'en';
+</script>
+
 
 </div>
 <script language="javascript" type="text/javascript">
