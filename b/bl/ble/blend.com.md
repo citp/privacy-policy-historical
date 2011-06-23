@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blend.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227141159id_/http%3A//www.blend.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blend.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623120434id_/http%3A//blend.com/page/privacy) for the most accurate reproduction.*
 
 # Blend.com | Privacy Policy
 
@@ -27,7 +27,11 @@ Note: You will find detailed instructions on unsubscribing from our emails at th
 
 #### How is your information protected?
 
-There are a variety of security measures implemented on our site that keep your personal information safe.
+There are a variety of security measures implemented on our site that keep your personal information safe. Information Blend collects from you such as, activity information, including specific questions, answers and comments; is collected so that Blend can better respond to customer support needs and service requests. When you provide an email address during order processing, it will only be used to send information regarding your order. 
+
+#### Unsubscribe
+
+If you wish to opt out of Blend emails or any future notifications please visit: http://www.Blend.com/unsubscribe. 
 
 #### Do we use cookies?
 
