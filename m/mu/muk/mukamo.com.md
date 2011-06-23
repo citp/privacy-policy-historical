@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228185841id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024210id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
