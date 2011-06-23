@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyebuydirect.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727003500id_/http%3A//www.eyebuydirect.com/privacy-policy-x-18.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyebuydirect.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623164555id_/http%3A//www.eyebuydirect.com/privacy-policy-x-18.html) for the most accurate reproduction.*
 
 # Privacy Policy | Learn | Mens & Womens Sunglasses, Fashion and Designer Glasses | EyeBuyDirect.com
 
