@@ -1,151 +1,46 @@
-<!--The following is the downloaded HTML source of the folkd.com privacy policy that was archived on 2010-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100310083200id_/http%3A//www.folkd.com/page/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the folkd.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623221206id_/http%3A//www.folkd.com/page/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="application/xhtml+xml;  charset=utf-8">
-	<meta name="description" content="folkd.com - Social Bookmarking - Save your bookmarks online and share them with your friends.">
-	<meta name="keywords" content="Social Bookmarking, bookmarks, news, web2.0, videos, audios, blogs">
-			<meta name="robots" content="index">
-		<title>folkd.com - Enrich your websurfing experience</title>
+	<meta name="description" content="Folkd respects and protects the privacy of the individuals that use folkd services.">
+	<meta name="keywords" content="Social Bookmarking, social search, bookmarks, socialsearch, search engine, web2.0, videos">
+			<meta name="robots" content="index,follow">
+		<title>Privacy Policy of folkd.com</title>
 	<link rel="search" type="application/opensearchdescription+xml" title="folkd.com Search" href="/folkd-opensearch.xml">
-	<script language="javascript" type="text/javascript">
-	var allowed_divs = '';
-	var lastdiv      = 'none';
-	var initdiv		 = '';
-	var tabsets      = new Array();
-	var sliding = false;
-	var OutsideMenu = new Object();
-	var chatwindows   = new Object();
-	var pendingChatRequests   = new Array('---'); // do not change !!! needed for inarray >0 comparison
-
-	function $(i) {
-	    return document.getElementById(i);
-	}
-	function initTabDIVs( id, alltabs ) {
-		tabsets[id] = new Array();
-		for( i=0; i<alltabs.length; i++ ) {
-			tabsets[id].push( alltabs[i] );
-		}
-	}
-
-	var OutsideMenu = new Object();
-	function RMenu(e,type,key,action,icon) {
-		var menu 	= document.getElementById(type+'menu'+key);
-		var img 	= document.getElementById(type+'menuimg'+key);
-		var trigger = document.getElementById(type+'menutrigger'+key);
-			if (type.length>0){
-			switch(action) {
-				case "outTrigger":
-					if (menu.style.display=='none') {
-
-						trigger.style.backgroundColor='';
-					} else {
-						OutsideMenu[key] = true;
-						setTimeout(function(){RMenu(Event,type,key,'fadeMenu',icon);},600);
-					}
-					break;
-				case "overTrigger":
-					if  (menu.style.display=='none') {
-						trigger.style.backgroundColor='#f1f1f1';
-					} else {
-						OutsideMenu[key] = false;
-					}
-					break;
-				case "clickTrigger":
-					if (menu.style.display=='none') {
-						menu.style.display='block';
-						OutsideMenu[key] = false;
-						some_menu_active = 1;
-					} else {
-						menu.style.display='none';
-					}
-					break;
-				case "outMenu":
-					OutsideMenu[key] = true;
-					setTimeout(function(){RMenu(Event,type,key,'fadeMenu',icon);},600);
-					break;
-				case "overMenu":
-					OutsideMenu[key] = false;
-					break;
-				case "fadeMenu":
-					if(OutsideMenu[key]){
-						some_menu_active = 0;
-						menu.style.display = "none";
-						//img.src= 'http://i.folkd.com/images/'+icon+'-Down.gif',
-						RMenu(e,type,key,'outTrigger',icon);
-					}
-					break;
-				default:
-					return false;
-					break;
-			}
-		}
-	}
-
-	</script>
 	<link rel="stylesheet" href="/styles/folkd.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="/styles/form.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="/styles/table.css" type="text/css" media="screen">
 		<!-- style definitions for calendar -->
 	<link rel="shortcut icon" href="/favicon.ico">
-	<link id="rssfeed" rel="alternate" type="application/rss+xml" title="RSS 2.0" href="">	</head>
+	</head>
 <body id="top">
 	<div id="container">
 		<div id="header">
 			<div id="flags">
-											<a href="/page/privacy.html?lang=en" rel="nofollow"><img src="/images/flag-usa.gif" alt="use english" style="vertical-align:middle;"></a>
-				<a href="/page/privacy.html?lang=de" rel="nofollow"><img src="/images/flag-germany.gif" alt="use german" style="vertical-align:middle;"></a>
-				<a href="/page/privacy.html?lang=es" rel="nofollow"><img src="/images/flag-spain.gif" alt="use spanish" style="vertical-align:middle;"></a>
-				<a href="/page/privacy.html?lang=fr" rel="nofollow"><img src="/images/flag-france.gif" alt="use french" style="vertical-align:middle;"></a><br>
-				<a href="/page/explore.html">Explore</a> · <a href="/page/feedback.html">Help / Feedback</a> ·  <a href="http://twitter.com/folkd">twitter</a>
+								Follow us on:<a href="http://twitter.com/folkd" target="_blank">twitter</a>
+				·<a href="http://www.facebook.com/folkd" target="_blank">facebook</a>&nbsp;
+				·&nbsp;
+				Change language:												<a href="/page/privacy.html?lang=de" rel="nofollow" class="lang de" title="use german"></a>				<a href="/page/privacy.html?lang=es" rel="nofollow" class="lang es" title="use spanish"></a>				<a href="/page/privacy.html?lang=fr" rel="nofollow" class="lang fr" title="use frensh"></a>
 			</div>
 
-								<div id="title"><a href="/"><img src="/images/title.gif"></a></div>
-					<div id="logo"><a href="/"><img src="/images/logo200.gif" alt="folkd logo" title="folkd logo"></a></div>
-					<div class="spacer clear"></div>
-					<div id="subheader">
-								<div style="font-weight:bold; padding:3px 0px 0 0; width:20px; float:right; text-align:center; margin:0 2px 0 10px;">
-			<img id="link_toogle" class="pointer" src="/images/button-search.gif" onclick="this.blur(); $('toggle_search').toggle();return false;"></div>					<span class="grey">Get in touch:</span>
-					<a href="/page/register.html"><strong>Register</strong></a> for a free account ·
-					Already a member? <a href="/page/login.html"><strong>Login</strong></a>
-							</div>
+			<a id="title" href="/"></a>
+			<a id="logo" href="/" title="folkd.com"></a>
+			<div class="spacer clear"></div>
+			<div id="subheader">
+
+			
+					Learn more&nbsp;
+					<a href="/page/social-bookmarking.html" class="header_about">About folkd.com</a>
+					·
+					Get in touch:					<a href="/page/register.html" class="header_register">Register for free</a>
+					·
+					Already a member? &nbsp;<a href="/page/login.html" class="header_login">Login</a>
+				
+			</div>
 		</div>
-
-		<div id="toggle_search" style="display:none;">
-<div id="global_search">
-        <form action="//" name="global_search_form" id="global_search_form" method="post" accept-charset="utf-8">
-                <input type="hidden" name="q_sent" value="1">
-
-
-                <div id="global_search_filterandsort" style="width:300px; padding:15px 20px 0 0px; text-align:right;">
-                                        <div>
-                                <label for="sort_mode">sort by</label>
-                                <select id="sort_mode" name="sort_mode" style="width:190px" onchange="global_search_form.submit()">
-                                                <option value="best_matches">Best Matches</option>
-                                                <option value="most_recent">Most Recent</option>
-                                        <option value="rep_day">Popular Today</option>
-                                        <option value="rep_week">Popular this Week</option>
-                                        <option value="rep_month">Popular this Month</option>
-                                        <option value="rep_total" selected="selected">Total Reputation</option>
-                                </select>
-                        </div>
-                        <div style="font-size:11px;margin-top:2px;text-align:right;">
-							<a href="javascript:window.external.AddSearchProvider('http://www.folkd.com/folkd-opensearch.xml');">Add folkd Search to your Browser</a>
-                        </div>
-                </div>
-
-                <div style="background:#F1F1F1; line-height:33px; padding:14px 0 0 15px;">
-                        <input type="text" id="searchfor_word" name="q" value="zahnaufheller"><input class="submit" type="submit" style="margin:0 0 -1px 4px;" id="global_search_submit" value="Search"><br>
-                        <input type="checkbox" id="check_pages" name="check_pages" checked="checked"><label for="check_pages"><img src="/images/dot-page.gif"></label> <a href="/page/pages.html">pages</a>
-                        <input type="checkbox" id="check_news" name="check_news" checked="checked"><label for="check_news"><img src="/images/dot-news.gif"></label> <a href="/page/news.html">news</a>
-<input type="checkbox" id="check_video" name="check_video" checked="checked"><label for="check_video"><img src="/images/dot-video.gif"></label> <a href="/page/video.html">video</a>
-                        <input type="hidden" id="check_notes" name="check_notes">                </div>
-
-        </form>
-</div>
-</div><div id="subpage_navi">
+	<div id="subpage_navi">
 	<strong>business</strong>
 	<ul>
+	    <li><a href="/page/feedback.html" class="navi_unsel">Help / Feedback</a></li>
 		<li><a href="/page/contact.html" class="navi_unsel">Contact</a></li>
 		<li><a href="/page/advertising.html" class="navi_unsel">Advertising</a></li>
 		<li><a href="/page/press.html" class="navi_unsel">Press</a></li>
@@ -255,60 +150,78 @@
 	<br>
 	<br>
 	Effective Date: Mai 24, 2006<br>
-</div>			<div id="prefooter">
-			<div id="prefooter">		<a href="#top" onmouseout="img_toplink.src='/images/top_off.gif'" onmouseover="img_toplink.src='/images/top_on.gif'" style="float:right;"><img id="img_toplink" src="/images/top_off.gif" alt="back to top" title="back to top"></a>
+</div>	<div id="prefooter">
+		<div id="prefooter">		<a href="#top" class="sprite toplink" title="back to top"></a>
 		</div>&nbsp;
-		</div>
-		
-	<div id="footer">
-	<div style="width:220px; float:left;"><span class="grey">About folkd.com:</span><br>
-                · <a href="/page/tour.html">Quick intro</a><br>
-                · <a href="/page/download.html">Download Browser Buttons</a><br>
-		· <a href="/page/about.html">About the service</a><br>
-	<!--	&middot; <a href="/page/features.html">Features and Facts</a><br />-->
-		· <a href="/page/credits.html">Credits</a><br>
 	</div>
 
-	<div style="float:left;width:150px;"><span class="grey">Business:</span><br>
-		· <a href="/page/contact.html">Contact</a><br>
-		· <a href="/page/advertising.html">Advertising</a><br>
-		· <a href="/page/press.html">Press</a><br>
+	<div id="footer">
+	<div style="width:200px; float:left;"><span class="grey">About folkd.com:</span><br>
+        · <a href="/page/social-search.html">Social Search</a><br>
+        · <a href="/page/social-bookmarking.html">Social Bookmarks</a><br>
+        · <a href="/page/features.html">Features (VIDEO)</a><br>
+        · <a href="/page/download.html">Download Browser Buttons</a><br>
 	</div>
-	<div style="width:180px; float:left;"><span class="grey">Legal:</span><br>
-		· <a href="/page/terms.html">Terms of Use</a><br>
-		· <a href="/page/privacy.html">Privacy</a> <br>
-		· <a href="/page/copyright.html">Copyright Policy</a><br>
+	<div style="width:145px; float:left;"><span class="grey">Content:</span><br>
+		· <a href="/page/explore.html">Explore</a><br>
+		· <a href="/page/folkdcommunity.html">Community</a><br>
+		· <a href="/page/stats.html" rel="nofollow">Statistics</a><br>
+        · <a href="/page/credits.html" rel="nofollow">Credits</a><br>
+	</div>
+
+	<div style="width:180px;float:left;"><span class="grey">Business:</span><br>
+	    · <a href="/page/feedback.html" rel="nofollow">Help / Feedback</a><br>
+		· <a href="/page/contact.html" rel="nofollow">Contact</a><br>
+		· <a href="/page/advertising.html" rel="nofollow">Advertising</a><br>
+		· <a href="/page/press.html" rel="nofollow">Press</a><br>
+	</div>
+	<div style="width:220px; float:left;"><span class="grey">Legal:</span><br>
+		· <a href="/page/terms.html" rel="nofollow">Terms of Use</a><br>
+		· <a href="/page/privacy.html" rel="nofollow">Privacy</a> <br>
+		· <a href="/page/copyright.html" rel="nofollow">Copyright Policy</a><br>
 	</div>
 
 	<div style="float:left;"><span class="grey">Get involved:</span><br>
-				· <a href="/page/invite.html">Invite your Friends</a><br>
-                · <a href="/page/proaccount.html">Get a Pro Account</a><br>
-		· <a href="/page/webpublishers.html">Buttons for your Webpage</a>
+        · <a href="/page/webpublishers.html">Buttons for your Webpage</a><br>
+              · <a href="/page/proaccount.html" rel="nofollow">Get a Pro Account</a><br>
+		· <a href="http://twitter.com/folkd" target="_blank">Follow us on twitter</a><br>
+        · <a href="http://facebook.com/folkd" target="_blank">Friend us on facebook</a><br>
 	</div>
 
 
- 	<div class="grey size12" style="margin-top:7px; text-align:center;clear:both">
-		© 2006 - 2010 - folkd.com - all rights reserved - <span class="grey">Partner:</span> <a href="http://www.pressebox.de" title="Presseservice">PresseBox</a>,  <a href="http://www.promago.de" title="preisvergleich">Promago</a>,  <a href="http://www.mobile-advertising.com" title="Mobile Advertising">mA</a>
-	</div>
-
-
-<script src="/js/scriptaculous/lib/prototype.js" language="javascript" type="text/javascript"></script>
-<script src="/js/scriptaculous/src/scriptaculous.js" language="javascript" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/slider.js"></script>
-<script src="/js/common.js" language="javascript" type="text/javascript"></script>
-
-
-	</div>
+ 	<div class="grey size12" style="margin-top:17px; text-align:center;clear:both">
+		© 2006 - 2011 - folkd.com - all rights reserved<br>
+		<span class="grey">The team of <a href="http://www.mobile-advertising.com" title="Mobile Advertising">mA</a> wants to thank our partners at <a href="http://www.pressebox.de" title="Presseservice">PresseBox</a> and  <a href="http://www.promago.de" title="preisvergleich">Promago</a> for their constant support.
+	</span></div>
+</div>
 
 </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-4499241-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+
+
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" language="javascript" type="text/javascript">
+</script>
+<script src="/js/jquery.cookie.js" language="javascript" type="text/javascript">
 </script>
 
 
-<img style="width:1px" src="http://folkd.put.omnimon.de/datapixel.php?name=folkd_page_privacy&amp;value=0.200545072556"></body></html>
+<!-- Seiten spezifisch -->
+<script src="/js/common.js" language="javascript" type="text/javascript"></script>
+
+
+
+<!-- Google -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-4499241-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	} catch(err) {}
+</script><img style="width:1px;height:1px;" src="http://folkd.put.cronimon.com/datapixel.php?name=folkd_page_privacy&amp;value=0.0141050815582">
+
+</body></html>
