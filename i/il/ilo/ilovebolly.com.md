@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovebolly.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205220id_/http%3A//www.ilovebolly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovebolly.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624011956id_/http%3A//www.ilovebolly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iLoveBolly
 
