@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the limkokwing.net privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227021619id_/http%3A//www.limkokwing.net/website/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the limkokwing.net privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623135432id_/http%3A//www.limkokwing.net/website/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
 
 <meta name="verify-v1" content="3TV6af0C3nwDuDsQxiS4GwsiOuIIvh6YNYscnurc/48=">
 <meta name="alexaVerifyID" content="nuwz3ENAxMMoYqDhEH8lh2o0k8s">
@@ -11,6 +11,9 @@
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
+<meta property="og:description" content="Limkokwing is an emerging global brand name that has given education new perspectives, dropping old notions of how people should be educated and responding to new demands of globalisation. It has a global presence across 4 continents with over 30,000 students coming from more than 145 countries, studying in its 10 campuses in Indonesia, Lesotho, Malaysia, United Kingdom and United States."> 
+
+
 
 <!-- END rss -->
 
@@ -19,12 +22,12 @@
 <link rel="search" type="application/opensearchdescription+xml" title="Limkokwing" href="http://www.limkokwing.net/search/opensearch_description/">
 
 <link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_reset_grid.v.1223968245" media="screen, projection, print">
-<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master.v.1289904351" media="screen, projection, print">
-<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_content.v.1289901924" media="screen, projection, print">
-<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_print.v.1227871177" media="print">
+<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master.v.1295260249" media="screen, projection, print">
+<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_content.v.1308246311" media="screen, projection, print">
+<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_print.v.1308137160" media="print">
 
 
-<!--[if lt IE 8]><link href="http://www.limkokwing.net/?css=styles/iefix.v.1242741019" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if lt IE 8]><link href="http://www.limkokwing.net/?css=styles/iefix.v.1308256932" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 
 <script type="text/javascript" src="http://www.limkokwing.net/javascripts/prototype/"></script>
 <script type="text/javascript" src="http://www.limkokwing.net/javascripts/common/"></script>
@@ -33,6 +36,7 @@
 <script type="text/javascript" src="/js/lightbox/lightbox.js"></script>
 <script type="text/javascript" src="http://www.limkokwing.net/javascripts/livepipe/"></script>
 <script type="text/javascript" src="http://www.limkokwing.net/javascripts/tooltips/"></script>
+<script type="text/javascript" src="http://ads.limkokwing.net/ads/www/delivery/spcjs.php?id=4"></script>
 
 
 <script type="text/javascript">
@@ -54,20 +58,10 @@ Event.observe(document, 'click', hide_search);
 -->
 </script>
 
-<script type="javascript">
-if (screen.width >= 1600) {
-document.write('<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/long.v.1258969405" />');
-}
-</script>
-
 </head>
 
 <body class="website">
 
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>  
-<script type="text/javascript">
-   FB.init("3e37155bd15eb4cb475da829a611c697");
-</script>
 
 <div id="flash_background" class="layer">
 <div class="background"></div>
@@ -84,9 +78,18 @@ document.write('<link rel="stylesheet" type="text/css" href="http://www.limkokwi
 
 
 
+
 <div class="login">
 <p><span class="portal">
-<fb:login-button size="medium" length="short" onlogin="window.location=&quot;http://www.limkokwing.net/index.php?fb=1&quot;;"></fb:login-button><a class="regular_login" href="http://portal.limkokwing.net">Login</a><span>or</span>
+<fb:login-button perms="email,user_birthday,status_update,publish_stream,read_stream" size="medium" background="light" length="short" onlogin="window.location=&quot;http://www.limkokwing.net/portal/login_enabled.php?fb=1&quot;;" class="fb_login_not_logged_in FB_login_button">Connect</fb:login-button>
+<span id="fb-root"></span>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+FB.init({appId: '290154908839', status: true,
+cookie: true, xfbml: true});
+FB.Event.subscribe('auth.login', function(response) {window.location.reload();});
+</script>
+<a class="regular_login" href="http://portal.limkokwing.net">Login</a><span>or</span>
 </span></p>
 </div>
 
@@ -96,7 +99,7 @@ document.write('<link rel="stylesheet" type="text/css" href="http://www.limkokwi
 <form id="quick_search" name="quick_search" method="post" action="http://www.limkokwing.net/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="253c4a646a09ef71a5d191a0ee1833e76ebcc78d">
+<input type="hidden" name="XID" value="c553a513591471d9383d4ac6d07b38eedd6b2ee4">
 <input type="hidden" name="RP" value="search&amp;#47;results">
 <input type="hidden" name="NRP" value="">
 <input type="hidden" name="RES" value="20">
@@ -148,7 +151,7 @@ document.write('<link rel="stylesheet" type="text/css" href="http://www.limkokwi
 <li><a href="http://www.limkokwing.net/go/founder_blog/">Founder’s Blog</a></li>
 <li><a href="http://www.limkokwing.net/university_guidance/">University Guidance</a></li>
 <li><a href="http://www.limkokwing.net/university/">The Global University</a></li>
-<li><a href="http://www.limkokwing.net/globalclassroom/">The Global Classroom</a></li>
+<li><a href="http://www.limkokwing.net/globalclassroom/">The Global Experience</a></li>
 <li><a href="http://www.limkokwing.net/alliance/">The Global Alliance</a></li>
 <li><a href="http://www.limkokwing.net/postgraduate_centre/">Centre of Post Graduate Studies</a></li>
 <li><a href="http://www.limkokwing.net/testimonials/">Student Testimonials</a></li>
@@ -159,8 +162,10 @@ document.write('<link rel="stylesheet" type="text/css" href="http://www.limkokwi
 <li><a href="http://www.limkokwing.net/borneo/">Borneo</a></li>
 <li><a href="http://www.limkokwing.net/botswana/">Botswana</a></li>
 <li><a href="http://www.limkokwing.net/cambodia/">Cambodia</a></li>
+<li><a href="http://www.limkokwing.net/jakarta/">Jakarta</a></li>
 <li><a href="http://www.limkokwing.net/lesotho/">Lesotho</a></li>
 <li><a href="http://www.limkokwing.net/malaysia/">Malaysia</a></li>
+<li><a href="http://www.limkokwing.net/swaziland/">Swaziland</a></li>
 <li><a href="http://www.limkokwing.net/united_kingdom/">United Kingdom</a></li>
 </ul></li>
 <li class="prospective"><a href="http://www.limkokwing.net/prospective/">Prospective Students</a>
@@ -245,9 +250,18 @@ document.write('<link rel="stylesheet" type="text/css" href="http://www.limkokwi
 <p>If you register for courses, we require that you provide certain personal, identification information, including, but not limited, to your personal information, guardian information, academic information and your credit card information. This information is necessary for us to process your registration and for us to get in touch with you.</p>
 <h3>Statistics Analysis</h3>
 <p>We also collect information about your computer and about your visits to and use of the Website, such as your IP address, geographical location, browser type, referral source, Internet service provider, operating system, length of visit and page views. This information generated, which does not identify individual users, is used to generate statistics and reports about the Website usage by using JavaScripts, which do not store any personal identifiable information on users’ computers.</p>
+<!--h3>Advertiser Information</h3>
+<p>If you register to participate in the Limkokwing Ads service as an advertiser, we also collect information that identifies you personally such as name, contact information and payment method. We use this information solely for business purposes such as account maintenance, billing and operation of the Limkokwing Ads service. This personally identifiable information may be associated with the rest of the data that we collect as outlined in the rest of this Privacy Policy.</p-->
 <h2>Feedback and Enquiry</h2>
 <p>We welcome any questions, comments or concerns you might have with regard to your privacy when using the Website. If you have any questions about the Policy or our treatment of your personal data, please notify us.</p>
 
+
+<div class="footer leaderboard">
+<script type="text/javascript"><!--// <![CDATA[
+    /* [id26] Limkokwing.net - Leaderboard (728 x 90) - Bg */
+    OA_show(26);
+// ]]> --></script><noscript><a target='_blank' href='http://ads.limkokwing.net/ads/www/delivery/myck.php?n=7c05c6f'><img border='0' alt='' src='http://ads.limkokwing.net/ads/www/delivery/avw.php?zoneid=26&amp;n=7c05c6f' /></a></noscript>
+</div><!--end of leaderboard-->
 
 </div><!-- END page_content -->
 
@@ -302,7 +316,7 @@ document.write('<link rel="stylesheet" type="text/css" href="http://www.limkokwi
 </ul>
 </div>
 
-<p class="copyright">Copyright © 2010 Limkokwing University of Creative Technology. All Right Reserved.<br>
+<p class="copyright">Copyright © 2011 Limkokwing University of Creative Technology. All Right Reserved.<br>
 Designed &amp; maintained by World Wide Web Domination, Centre for Content Creation.</p>
 
 </div>
