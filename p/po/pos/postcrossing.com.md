@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819095514id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023444id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Postcrossing
 
@@ -15,7 +15,7 @@ The Postcrossing Project recognises the importance of your privacy and that you 
 
 ### Collected information
 
-We will not collect or monitor any personal information without your consent. The only personal information we collect is the information provided by you at the time of signup and whenever you edit your profile. This information will only be used for fulfilling the postcard exchange objective of the website and to improve the content of our Web page.
+We will not collect or monitor any personal information without your consent. The only personal information we collect is the information provided by you at the time of signup and whenever you edit your account or profile. We also record the IP Address with which you access the website. This information will only be used to fulfill the postcard exchange objective of the website and to improve the content of our Web page.
 
 The postal address you supply to us will only be used for the postcard exchange as explained in the "About" page. At any moment, you are free to stop using Postcrossing and, if you so wish, to remove your account at [http://www.postcrossing.com/removal](https://web.archive.org/removal).
 
@@ -46,4 +46,4 @@ We can be reached via email at [webmaster@postcrossing.com](mailto:webmaster@pos
 
 If you feel that this site is not following its privacy policy, you may contact us at the address above. 
 
-© Copyright 2004-2010 by Paulo Magalhães 
+© Copyright 2004-2011 by Paulo Magalhães 
