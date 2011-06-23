@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214103422id_/http%3A//www.bmtmicro.com/developer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623032601id_/http%3A//www.bmtmicro.com/developer-privacy-policy.html) for the most accurate reproduction.*
 
-# BMTMicro - Privacy Policy
+# BMT Micro - Privacy Policy
 
 BMT Micro, Inc., respects the privacy of our partners, clients and their customers. Any and all information collected through our system is treated with the utmost care.
 
 BMT Micro, Inc. asks customers to supply various personal data when placing an order, such as name and address, credit-card information, and E-mail address. We use this data only for the purpose of filling an order, or communicating with the customer or supplier about the status of an order.
 
-We will release personally identifiable information to third parties and organizations when we believe it is appropriate for us to do so in order to comply with the law or to protect against fraud. We will also release such information to cooperate with law enforcement or other governmental investigations (without necessarily requiring the requesting law enforcement or government agency to formally serve us with a subpoena), comply with all valid court orders or subpoenas, protect the legal rights of us and our users, or when we believe it is needed for fraud protection and/or credit risk reduction.
+In order to comply with the law or to protect against fraud, we will release personally identifiable information to third parties and organizations, when we believe it is appropriate for us to do so. We will also release such information to cooperate with law enforcement or other governmental investigations (without necessarily requiring the requesting law enforcement or government agency to formally serve us with a subpoena), to comply with all valid court orders or subpoenas, to protect our legal rights and those of our users, or when we believe it is needed for fraud protection and/or credit risk reduction.
 
 Except for the circumstances set forth in the previous paragraph, we will not knowingly distribute customer information to be used in mailing lists, surveys, or any other purpose other than what is required to perform our services.
 
 **What information do we collect? How do we use it?**
 
-When ordering from BMT Micro, Inc. we must collect the purchaser's name, email address, mailing address and credit card information. This allows us to process and fulfill orders and provide notification of the order status.
+When ordering from BMT Micro, Inc., we must collect the purchaser's name, email address, mailing address, phone number and credit card information. This allows us to process and fulfill orders and provide notification of the order status.
 
 **How does BMT Micro, Inc. protect customer information?**
 
-Customers who buy through the BMT Micro, Inc. system are shopping on a secure server, which encrypts all of the customer's personal information including name, address and credit card number. Encryption ensures that no one can access or use personal information in an unauthorized manner.
+Customers who buy through the BMT Micro, Inc. system are shopping on a secure server, which encrypts all of the customer's personal information, including name, address and credit card number. Encryption ensures that no one can access or use personal information in an unauthorized manner.
 
-Our commerce system was developed in-house with security as the foremost concern.
+Our commerce system was developed in-house, with security as the foremost concern.
 
-BMT Micro, Inc. has made an investment in protecting our clients' and customers' information utilizing the following technologies:
+BMT Micro, Inc. has made an investment in protecting our clients' and customers' information, utilizing the following technologies:
 
 ###### Firewall
 
@@ -28,11 +28,9 @@ Firewalls allow the use of authenticated access and can prevent certain types of
 
 ###### SSL (Secure Socket Layers)
 
-Because we accept sensitive information from end-users such as passwords and credit card numbers, BMT Micro, Inc.'s site uses SSL. This logic encrypts the data being sent to the server from the browser using high-level encryption technology. Once the data is received from customers on the BMT Micro, Inc. network, it may be required that the data be maintained for a certain period of time inside our private network. Encrypting the data means it cannot be viewed in plain text.
+Because we accept sensitive information from end-users, such as passwords and credit card numbers, BMT Micro, Inc.'s site uses SSL. This logic encrypts the data being sent to the server from the browser, using high-level encryption technology. Once the data is received from customers on the BMT Micro, Inc. network, it may be required that the data be maintained for a certain period of time inside our private network. Encrypting the data means it cannot be viewed in plain text.
 
 ###### Security Metrics
-
-[](https://www.securitymetrics.com/site_certificate.adp?s=63%2e96%2e6%2e196&i=49099)
 
 BMT Micro is reviewed quarterly by Security Metrics to ensure that high security standards are maintained. Security Metrics tests for over 4400 security weaknesses!
 
