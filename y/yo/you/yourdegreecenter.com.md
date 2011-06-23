@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdegreecenter.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724160834id_/http%3A//www.yourdegreecenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdegreecenter.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624002245id_/http%3A//www.yourdegreecenter.com/privacy.html) for the most accurate reproduction.*
 
 # YourDegreeCenter.com
 
@@ -91,6 +91,6 @@ Individuals under the age of eighteen (18) should not send any Information to Us
 If you have questions about Our Privacy Policy, please contact us.
 
 Vintage Media Direct  
-302 Washington Street, Ste 819  
+302 Washington Street, Ste 1108  
 San Diego, CA 92103  
 [inquiry@vintagemediadirect.com](mailto:inquiry@vintagemediadirect.com)
