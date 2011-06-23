@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206030846id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623080351id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
 
 # International Coach Federation
-
-Privacy Policy for ICF
 
 The International Coach Federation (ICF) recognizes the importance of protecting our users' privacy. To that end we have created the privacy statement and spam policy in order to demonstrate our commitment to privacy. 
 
