@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226105351id_/http%3A//www.paychex.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623220647id_/http%3A//www.paychex.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Paychex Privacy Statement: Paychex Company Information
 
@@ -10,7 +10,7 @@ At times, Paychex will provide you with links to other websites. This Privacy St
 
 ## The Information Paychex Collects
 
-You may sign up for Paychex services either in person, by telephone, or online. If you use our online forms, we require you to provide information regarding your business. We may use this information to contact you regarding Paychex products and services. If you choose not to provide business information online, you may contact your local [Paychex office](https://web.archive.org/web/20101226105351id_/http%3A//www.paychex.com/company/locations.aspx) to provide this information.
+You may sign up for Paychex services either in person, by telephone, or online. If you use our online forms, we require you to provide information regarding your business. We may use this information to contact you regarding Paychex products and services. If you choose not to provide business information online, you may contact your local [Paychex office](https://web.archive.org/web/20110623220647id_/http%3A//www.paychex.com/company/locations.aspx) to provide this information.
 
 ## The Way Paychex Uses the Information Collected
 
@@ -24,8 +24,4 @@ A "cookie" is a piece of data that our websites may provide to your browser whil
 
 ## Security
 
-For information about our commitment to protecting the security and integrity of our customers' information, please view the [Paychex Security Center](https://web.archive.org/web/20101226105351id_/http%3A//www.paychex.com/company/security.aspx).
-
-Printable Version
-
-[Email an Associate](mailto:?subject=Paychex%20Privacy%20Statement%3A%20Paychex%20Company%20Information&body=I%20thought%20you%20would%20be%20interested%20in%20this%20information%20I%20found%20on%20Paychex.com.%0D%0DPaychex%20Privacy%20Statement%3A%20Paychex%20Company%20Information%0Dhttps://www.paychex.com/company/privacy.aspx%0D%0DThis%20email%20was%20sent%20to%20you%20through%20the%20Email%20an%20Associate%20feature%20on%20Paychex.com.%0D%0DPaychex%0DPayroll%20-%20HR%20-%20Employee%20Benefits%0D911%20Panorama%20Trail%20S.%0DRochester,%20NY%2014625%0D800-322-7292%0Dwww.paychex.com%0D%0D\(c\)%202010%20Paychex,%20Inc.%20All%20Rights%20Reserved.)
+For information about our commitment to protecting the security and integrity of our customers' information, please view the [Paychex Security Center](https://web.archive.org/web/20110623220647id_/http%3A//www.paychex.com/company/security.aspx).
