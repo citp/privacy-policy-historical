@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231021703id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023531id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
 
 # Cheap flights, holiday packages, hotels, car hire, touring and travel insurance | Flight Centre
 
 ## Privacy Policy
 
 **Introduction**  
-This Privacy Policy ("Policy") explains in general terms how Flight Centre Limited Registered in England No. 2937210 ("Flight Centre", "we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
+This Privacy Policy ("Policy") explains in general terms how Flight Centre UK Limited Registered in England No. 2937210 ("Flight Centre", "we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
 **What is personal information?**  
 Personal information is information or an opinion, in any form (whether true or not) about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion.
@@ -57,13 +57,12 @@ Flight Centre regularly reviews security and encryption technologies and will st
 Under the Act you have a right of access to the personal information we hold about you. If you wish to exercise this right, please submit a Data Subject Access Request in writing to:
 
 Data Protection Manager  
-C/O- E-Commerce Nation  
-6th Floor, CI Tower  
-St George's Square  
-High Street  
+Flight Centre (UK) Ltd  
+14th Floor, Apex Tower  
+7 High Street  
 New Malden  
 Surrey   
-KT3 4TE
+KT3 4TQ
 
 Requests by telephone, fax, or e-mail cannot be accepted.
 
@@ -72,9 +71,9 @@ In accordance with the Act, Flight Centre is not obliged to comply with your req
 Please enclose the following with your request:  
 
 
-  * A postal order or cheque (made payable to Flight Centre (UK) Limited) for 10;
+  * A postal order or cheque (made payable to Flight Centre (UK) Limited) for £10;
   * A photocopy of your passport, or any other official document upon which your signature is present;
-  * Details of any purchases you have made from Flightcentre;
+  * Details of any purchases you have made from Flight Centre;
   * Details of any specific documents you require that contain your personal details (if known).
 
 
