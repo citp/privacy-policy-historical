@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122230727id_/http%3A//www.fritolay.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623031932id_/http%3A//www.fritolay.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Frito-Lay
 
@@ -17,5 +17,3 @@ Frito-Lay is a division of PepsiCo, Inc. and may share personal information with
 If you have opted to participate in a Frito-Lay promotion or program and/or to receive information from us, you may cancel your registration and/or remove yourself from our emailing list, you may do so by following the “unsubscribe” contained in one of our communications to you, or by writing to Frito-Lay Consumer Affairs at the address shown above and indicating in your letter that you wish to be unsubscribed from our marketing mailings.
 
 This Privacy Policy may be modified by Frito-Lay at any time by updating this posting. You are encouraged to check-back periodically to review the Privacy Policy.
-
-©2010 Frito-Lay North America, Inc.
