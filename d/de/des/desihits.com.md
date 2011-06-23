@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821192318id_/http%3A//www.desihits.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024057id_/http%3A//www.desihits.com/privacy_policy) for the most accurate reproduction.*
 
-# Desi Radio, Videos and MP3s, Bollywood Hindi Songs, Bhangra Music and Podcasts at Desi Hits.com
+# Now Thats Access series on B4U and Desi Hits
 
 This privacy policy discloses the privacy practices for DesiHits.com. While we will generally not share information that may be used to identify you, we do expect our policy statement will change as new ways to protect your confidentiality and new uses for information emerge. To that end, we value your comments about our privacy statement and invite you to e-mail us with suggestions and concerns. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@DesiHits.com
 
