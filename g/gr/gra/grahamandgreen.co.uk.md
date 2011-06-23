@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225231305id_/http%3A//www.grahamandgreen.co.uk/static.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623134823id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Security - Graham And Green
-
-You are in: Privacy & Security - Graham And Green 
+# Privacy & Security
 
 The Graham and Green website ('site') is a UK-based website and is in accordance with the requirements of the UK Data Protection Act 1998 relating to the personal information you supply on the Site. The Site uses a security system that protects your information from unauthorised use.
 
@@ -14,10 +12,8 @@ We will not sell, distribute or disclose information about you as an individual 
 
 We provide links to other sites, which may not be governed by this Privacy Policy.
 
-We would like you to keep the information about you up-to-date. You may change any of the basic information we keep about you at any time by sending us an e-mail to [mailorder@grahamandgreen.co.uk](mailto:websupport@grahamandgreen.co.uk) or by going to our mailing list link.
-
-  
-
+We would like you to keep the information about you up-to-date. You may change any of the basic information we keep about you at any time by sending us an e-mail to  
+[mailorder@grahamandgreen.co.uk](mailto:websupport@grahamandgreen.co.uk) or by going to our mailing list link.
 
 In addition to the information which you supply to us, information and data may be automatically collected through the use of cookies. Cookies are small text files the site can use to recognise repeat users and allow us to observe behaviour and compile aggregate data in order to improve the site for you.
 
@@ -27,5 +23,4 @@ We continually strive to improve our standards of customer care at Graham & Gree
 
 If you have any further queries, please do not hesitate to contact us on the information below.
 
-  
-
+_Web Customer Service  _
