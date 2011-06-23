@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartnewspaper.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114042535id_/http%3A//www.theartnewspaper.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartnewspaper.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023542id_/http%3A//www.theartnewspaper.com/privacy-statement) for the most accurate reproduction.*
 
 # The Art Newspaper
 
