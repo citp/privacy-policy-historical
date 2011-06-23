@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130145956id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623074635id_/http%3A//sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ Please click [here](https://web.archive.org/about-sandisk/privacy-policy/faq) to
 SanDisk may amend this policy from time to time, and may do so at our discretion, consistent with applicable data protection laws and rules. If we change our privacy policy, we will post the revised policy here, as well as a notice in a prominent location on our website and, if we have a way and are legally permitted to do so, we will contact you by email in the event this privacy policy is materially changed. The revised policy will supersede and replace any previous privacy policies effective as of the date on which it is posted. Your use of the SanDisk Sites after any change represents and confirms your consent and agreement to any such changes.
 
 Last updated:  
-The last updated version of this privacy policy can be seen [here](https://web.archive.org/about-sandisk/privacy-policy/archived-privacypolicy).
+The last updated version of this privacy policy can be seen [ here](https://web.archive.org/about-sandisk/privacy-policy/archived-privacypolicy).
 
 **Information we collect**
 
@@ -106,7 +106,7 @@ We want to be sure the personal information we keep for you is up to date and ac
   * UNSUBSCRIBE: To unsubscribe from SanDisk promotional communications, click [here](https://ebm.cheetahmail.com/r/webunsub?n=200&t=hAAAAAAAajgk5B74XfAAAAAAAkz "Unsubscribe Link"). 
   * UPDATE PREFERENCES: Update your SanDisk communications preferences any time online [here](https://reg.cheetahmail.com/regp?aid=445516089&n=400 "Update Profile"). 
   * "MY SANDISK" PRODUCT REGISTRATION: To update or change contact information you provided in connection with product registration or customer support through the My SanDisk feature, you can click [here](http://kb.sandisk.com/app/home "SanDisk Support"). (If this feature is not available in your country, the link may not be active.)
-  * WAKE UP YOUR PHONE: To update your marketing preferences on WakeUpYourPhone.com, you will need to log in to your account. Log in [here](http://www.wakeupyourphone.com/en-US "Wake Up Your Phone"). Once you are logged in, go to your profile and you can update your marketing preferences, change your profile, or delete your account.
+  * WAKE UP YOUR PHONE: To update your marketing preferences on WakeUpYourPhone.com, you will need to log in to your account. Log in here. Once you are logged in, go to your profile and you can update your marketing preferences, change your profile, or delete your account.
   * ECOMMERCE: As noted above, the SanDisk Store is operated by our ecommerce vendor, who is the merchant of record in regard to online sales. This vendor's terms of sale and privacy policy apply when you make online purchases through the SanDisk Store. Links to the privacy policy and terms of sale applicable to you are at the bottom of the Shopping Cart page and at Checkout. To update or change information you provided when purchasing SanDisk products online through the SanDisk Store you can contact our ecommerce vendor [here](http://corporate.digitalriver.com/store/driv/Corp/sectionName.company/subSectionName.corpPolicies/page.corpPolicies).  (If this feature is not available in your country, the link may not be active.)
   * OTHER INQUIRIES: If these links do not address your access needs, you can email us at one of the email addresses in the [Contact us](mailto:privacy@sandisk.com)  section below. Please include your contact information, the name of the SanDisk Site, communication or other service about which you are contacting us, and a detailed description of your specific request.
 
