@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proxite.net privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821044543id_/http%3A//proxite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxite.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623190721id_/http%3A//proxite.net/privacy.php) for the most accurate reproduction.*
 
-# proxite.net :: anonymous, uncensored free web browsing. Bypass network access to youtube and facebook.
+# proxite.net :: free anonymous proxy, uncensored free web browsing. Fast free web proxy, 110 Gbit Network.
 
 ## Privacy Policy
 
