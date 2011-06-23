@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the folkd.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310083200id_/http%3A//www.folkd.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folkd.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623221206id_/http%3A//www.folkd.com/page/privacy.html) for the most accurate reproduction.*
 
-# folkd.com - Enrich your websurfing experience
+# Privacy Policy of folkd.com
 
 Folkd respects and protects the privacy of the individuals that use folkd services ("website and software"). Individually identifiable information about you is not willfully disclosed to anyone without first receiving your permission, as explained in this privacy policy.
 
