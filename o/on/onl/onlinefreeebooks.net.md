@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinefreeebooks.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231073930id_/http%3A//www.onlinefreeebooks.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefreeebooks.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623032210id_/http%3A//www.onlinefreeebooks.net/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy » OnlineFreeEBooks.net « the most imitated free ebook site
+# Privacy Policy » OnlineFreeEbooks « the most imitated free ebooks site
 
 1\. OnlineFreeeBooks.net respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of OnlineFreeeBooks.net and are only used for troubleshooting purposes.
 
@@ -33,3 +33,5 @@
 
 **Contacting Us**  
 14\. This is the website of OnlineFreeeBooks.net. We can be reached via e-mail at freaky_irish [at] yahoo.com. Please replace [at] with @. If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+
+**Keywords:** free ebooks sites;
