@@ -1,13 +1,20 @@
-<!--The following is the downloaded HTML source of the cdbaby.com privacy policy that was archived on 2010-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101013134525id_/http%3A//www.cdbaby.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cdbaby.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623034310id_/http%3A//www.cdbaby.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	CD Baby | Privacy Policy
 </title>
-     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Minified/scripts.min.js"></script>
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Scripts/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.hoverpulse.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.scrollTo-min.js"></script>
+    <script type="text/javascript" src="/Plugins/overflowscroller/scripts/jquery.overflowscroller.js"></script>
+    <script type="text/javascript" src="/Scripts/scripts.js"></script>
     
-    <link type="text/css" href="/Minified/styles.min.css" rel="stylesheet">
+    <link type="text/css" href="/CSS/styles.css" rel="stylesheet">
+    <link type="text/css" href="/Plugins/carousel/styles/styles.css" rel="stylesheet">
+    <link type="text/css" href="/Plugins/overflowscroller/styles/styles.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/Plugins/autocomplete/styles/jquery.autocomplete.css">
 
     <!--[if lt IE 7.]>
 	<style type="text/css">
@@ -29,7 +36,7 @@
 	    
 	</style>
 	
-    <script defer type="text/javascript" src="/Minified/pngfix.min.js"></script>
+    <script defer type="text/javascript" src="/CSS/pngfix.js"></script>
 
     <![endif]-->
 
@@ -54,6 +61,7 @@
 	}
 -->
 </style>
+
 
 
     
@@ -83,11 +91,11 @@
 </script>
 
 
-    <form name="aspnetForm" method="post" action="/privacy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgUPFgIeBmFjdGlvbgUIL3ByaXZhY3lkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSNjdGwwMCR1Y1BhZ2VfSGVhZGVyJGJ0blN1Ym1pdFNlYXJjaA6wYTwJpXweu0skNEDLlRpEW8Ni">
+    <form name="aspnetForm" method="post" action="/Privacy" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgUPFgIeBmFjdGlvbgUIL1ByaXZhY3lkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSNjdGwwMCR1Y1BhZ2VfSGVhZGVyJGJ0blN1Ym1pdFNlYXJjaGql5HAEEqdVDi6NI2Wf4qBQhdzj">
 
 
-        <div id="boundPageEvents" class="norebind" title="YES"></div>
+        <div id="boundPageEvents" class="norebind" title="NO"></div>
 
         <div id="container-page">
 
@@ -95,20 +103,51 @@
             
             <div id="container-header">
                 
+
+<script type="text/javascript" src="/Plugins/autocomplete/Scripts/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/Plugins/autocomplete/Scripts/jquery.bgiframe.min.js"></script>
+
+<script type="text/javascript">
+    function GetSearchResults(searchTxt) {
+        var query = searchTxt.value;
+        var autoCompletePieces;
+
+        $.ajax
+                    (
+                        {
+                            type: "POST",
+                            url: "/SearchResults.aspx/GetAutoSuggest",
+                            async: false,
+                            data: "{'query':'" + query + "'}",
+                            contentType: "application/json; charset=utf-8",
+                            dataType: "json",
+                            beforeSend: function (xhr) {
+                                xhr.setRequestHeader("content-type",
+                                                     "application/json; charset=utf-8");
+                            },
+                            success: function (msg) {
+                                autoCompletePieces = msg.d;
+
+                            }   // success
+                        }   // ajax
+                    )
+    }
+</script>
                     
     <div id="header-top">
         
-        <a href="/" id="logo" alt="CD Baby Discover Music" title="CD Baby Discover Music"></a>
+        <a href="/" id="logo" alt="CD Baby - The Most Indie Music" title="CD Baby - The Most Indie Music"></a>
         
         <a id="ctl00_ucPage_Header_lnkLogin" class="link-login-logout" href="/login">Log in</a>
         
         
         <div id="ctl00_ucPage_Header_pnlSearch" class="search-container">
 	
-            <input name="ctl00$ucPage_Header$txtSearch" type="text" value="type your search here..." id="ctl00_ucPage_Header_txtSearch" class="textbox-25px search-box">
+            <input name="ctl00$ucPage_Header$txtSearch" type="text" value="type your search here..." id="ctl00_ucPage_Header_txtSearch" class="textbox-25px search-box autocomplete" autocomplete="off">
             <div class="search-button-wrapper">
                 <input type="image" name="ctl00$ucPage_Header$btnSubmitSearch" id="ctl00_ucPage_Header_btnSubmitSearch" title="Search" class="search-button" src="/Images/Buttons/button-search.jpg" onclick="if ($('.search-box').val()=='type your search here...' || $('.search-box').val()=='') {return false;};" border="0">
             </div>
+            <div id="ctl00_ucPage_Header_divValues" class="ac_values"></div>
         
 </div>
         
@@ -183,7 +222,7 @@ We receive and store any information you enter on our Website or provide to us i
  <p><strong>WILL CD BABY SHARE ANY OF THE INFORMATION IT RECEIVES?</strong><br>
  Information about our customers is an integral part of our business, and we may share such Information with our corporate parent or other affiliated entities.  Except as expressly described below, we neither rent nor sell your Information to other people or nonaffiliated companies.  We may share your Information when we have your permission, and we may share your Information under the following circumstances:</p>
 
-<p>We provide Information, (i) to the content owners (e.g., artists and record labels) that relates to their fans (e.g., regarding which fans are consuming and sharing what pieces of media at what levels), subject to the ability of such fans to opt-out of promotional communications, and (ii) we may provide aggregate information to our partners about how our consumers or customers, collectively, use our site (e.g., we share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience).  For the avoidance of doubt, when you purchase a particular artist's music, that artist will receive your name, postal address and e-mail address unless you opt-out of disclosing this information.  An artist will also be able to identify the web page or link (included e-mail addresses to the extent a link was embedded in an e-mail) from which you have been referred to an artist's page on CD Baby.</p>
+<p>We provide Information, (i) to the content owners (e.g., artists and record labels) that relates to their fans (e.g., regarding which fans are consuming and sharing what pieces of media at what levels), subject to the ability of such fans to opt-out of promotional communications, and (ii) we may provide aggregate information to our partners about how our consumers or customers, collectively, use our site (e.g., we share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience).  For the avoidance of doubt, when you purchase a particular artist's music, that artist will receive your name and e-mail address unless you opt-out of disclosing this information.  An artist will also be able to identify the web page or link (included e-mail addresses to the extent a link was embedded in an e-mail) from which you have been referred to an artist's page on CD Baby.</p>
 
 <p><strong>Affiliated Artists and Rightsholders We Do Not Control:</strong> We are affiliated and work closely with a variety of artists and rightsholders (e.g., record labels, music publishers, etc.).  In certain situations, these businesses sell items to you through CD Baby's Website, for example, the labels, musicians and other artists from which you purchase or use products or services through the Website.  In other situations, CD Baby provides services, or sells products jointly with affiliated businesses.  We will share Information that is related to such transactions with that affiliated business unless you expressly opt-out of such disclosure.</p>
 <p><strong>Third Party Service Providers:</strong> We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.  Examples of such information include, without limitation, fulfilling orders, delivering packages, sending postal mail and email, analyzing data, processing credit card information, and providing customer service.  Unless we tell you differently, such third party service providers do not have any right to use Information we share with them beyond what is reasonably necessary to assist us.  You hereby consent to our sharing of Information for the above purposes.</p>
@@ -226,7 +265,6 @@ The Website is hosted in the United States.  If you are a customer or client acc
 
 
 </div>
-<div class="clear-content100"></div>
 
                     </div><!-- #content-center -->
                     
@@ -254,9 +292,10 @@ The Website is hosted in the United States.  If you are a customer or client acc
                     <li><a href="/Newsletter">Newsletter Sign Up</a></li>
                     <li><a href="/Terms">Terms &amp; Conditions</a></li>
                     <li><a href="/Privacy">Privacy Policy</a></li>
-                    <li><a href="http://diymusician.cdbaby.com/" target="_blank">DIY Musician Blog</a></li>
+                    <li><a href="http://diymusician.cdbaby.com/">DIY Musician Blog</a></li>
                     <li><a href="http://www.cdbaby.net">Artist Sign Up</a></li>
-                    <li><a href="/Careers.aspx" target="_blank">Careers</a></li>
+                    <li><a href="/Careers.aspx">Careers</a></li>
+                    <li><a href="/sitemap.aspx">Sitemap</a></li>
                 </ul>    
                 <ul>
                     <li class="list-header">Need Help?</li>
@@ -274,20 +313,22 @@ The Website is hosted in the United States.  If you are a customer or client acc
                 </ul>    
                 <ul id="last-list">
                     <li class="list-header">More...</li>
-                    <li><a href="http://www.bookbaby.com">Book Baby</a></li>
-                    <li><a href="http://www.hostbaby.com">Host Baby</a></li>
-                    <li><a href="http://www.filmbaby.com">Film Baby</a></li>
+                    <li><a href="http://www.bookbaby.com">BookBaby</a></li>
+                    <li><a href="http://www.hostbaby.com">HostBaby</a></li>
+                    <li><a href="http://www.filmbaby.com">FilmBaby</a></li>
                     <li><a href="http://cdbabypodcast.com">Podcast</a></li>
-                    <li><a href="http://duplication.cdbaby.com">Disc Duplication</a></li>
+                    <li><a href="http://duplication.cdbaby.com">Disc Manufacturing</a></li>
                     <li><a href="/link">Link Maker</a></li>
                     <li><a href="/Redeem">Redeem Download Cards</a></li>
                 </ul> 
+                       <img src="../../Images/footer_creditcards.jpg" width="252" height="30" alt="Visa, Master Card, Discover, AMEX, Paypal" style="margin-top:25px; margin-left:284px;">
             </div><!-- #footer-bottom-middle-inner --> 
         </div><!-- #footer-bottom-middle -->
-        
+ 
         <div id="footer-bottom-right"></div>
         
-        <div class="clear-left"></div>
+<div class="clear-both"></div>
+      
         
     </div><!-- #footer-bottom" -->
                 
