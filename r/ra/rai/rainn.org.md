@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425004247id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623192538id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RAINN | Rape, Abuse and Incest National Network
 
