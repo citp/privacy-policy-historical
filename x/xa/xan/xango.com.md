@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the xango.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121082923id_/http%3A//www.xango.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xango.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623151252id_/http%3A//www.xango.com/misc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | XanGo
+# Privacy Policy | XANGO
 
-XanGo, LLC (“XanGo” or “we”) respects your individual privacy. This Privacy Policy documents our adherence to the highest industry standards for the protection of your personal information. By visiting this web site (“Site”) or using any of the services offered on the Site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy is effective as of August 1, 2007, applies to information collected through the Site and covers the following areas:
+XANGO, LLC (“XANGO” or “we”) respects your individual privacy. This Privacy Policy documents our adherence to the highest industry standards for the protection of your personal information. By visiting this web site (“Site”) or using any of the services offered on the Site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy is effective as of August 1, 2007, applies to information collected through the Site and covers the following areas:
 
 1\. Information Collection and Use
 
-XanGo collects information on the Site at two different stages. First, we collect anonymous, aggregate information (such as domain name or IP address) from all visitors to the Site. This type of information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of the Site.
+XANGO collects information on the Site at two different stages. First, we collect anonymous, aggregate information (such as domain name or IP address) from all visitors to the Site. This type of information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of the Site.
 
-Second, we require the submission of certain personally identifiable information when you use the services available on the Site. For example, your use of your username and password allows us to identify you as a distributor of XanGo® products.
+Second, we require the submission of certain personally identifiable information when you use the services available on the Site. For example, your use of your username and password allows us to identify you as a distributor of XANGO® products.
 
 2\. Personal Information of Children Under 13
 
-XanGo complies with the requirements of the Children’s Online Privacy Protection Act (“COPPA”) and the FTC’s rule interpreting COPPA (16 CFR § 512). This Site is not directed to children and we do not knowingly collect any personally identifiable information from children under 13 years of age through this Site.
+XANGO complies with the requirements of the Children’s Online Privacy Protection Act (“COPPA”) and the FTC’s rule interpreting COPPA (16 CFR § 512). This Site is not directed to children and we do not knowingly collect any personally identifiable information from children under 13 years of age through this Site.
 
 3\. Use of Your Personal Information
 
-Except as otherwise provided in this Privacy Policy, XanGo does not sell, rent, or share user information to or with any third party not affiliated with or owned by XanGo, except service providers who may assist XanGo in areas such as data storage. XanGo will never give or sell your personal information to be used for the purposes of sending you unsolicited commercial offers (such as spam) from any third party. We will not ourselves use your personal information to send you unsolicited commercial offers. However, we may need to contact you for purposes other than marketing, as for example regarding the status of the Site, your account or other matters related to your role as a distributor of XanGo® products. You may not opt-out of these kinds of communications.
+Except as otherwise provided in this Privacy Policy, XANGO does not sell, rent, or share user information to or with any third party not affiliated with or owned by XANGO, except service providers who may assist XANGO in areas such as data storage. XANGO will never give or sell your personal information to be used for the purposes of sending you unsolicited commercial offers (such as spam) from any third party. We will not ourselves use your personal information to send you unsolicited commercial offers. However, we may need to contact you for purposes other than marketing, as for example regarding the status of the Site, your account or other matters related to your role as a distributor of XANGO® products. You may not opt-out of these kinds of communications.
 
 4\. Use of Aggregate Information
 
@@ -28,15 +28,15 @@ We will disclose personal information when required by law, or if we have a good
 
 6\. Business Transfers
 
-In the event XanGo goes through a business transition or a transfer, such as a merger, acquisition by another company, or sale of a portion of its assets, or in the unlikely event that XanGo goes out of business or enters bankruptcy, our users’ personal information may be part of the assets transferred. You acknowledge that such transfers may occur, and that any acquiror of XanGo or its assets may continue to use your personal information as set forth in this Privacy Policy.
+In the event XANGO goes through a business transition or a transfer, such as a merger, acquisition by another company, or sale of a portion of its assets, or in the unlikely event that XANGO goes out of business or enters bankruptcy, our users’ personal information may be part of the assets transferred. You acknowledge that such transfers may occur, and that any acquiror of XANGO or its assets may continue to use your personal information as set forth in this Privacy Policy.
 
 7\. Links
 
-The Site contains links to other web sites. XanGo is not responsible for the privacy practices or content of these other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by our Site.
+The Site contains links to other web sites. XANGO is not responsible for the privacy practices or content of these other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by our Site.
 
 8\. Security
 
-XanGo takes commercially reasonable precautions to protect your information. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information.
+XANGO takes commercially reasonable precautions to protect your information. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information.
 
 We also make an effort to protect your information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store your personally identifiable information are housed in a secure environment.
 
@@ -54,4 +54,4 @@ If we decide to change our Privacy Policy, we will prominently post a notice on 
 
 11\. Contact Information
 
-For further information about this site or XanGo products, please [contact us](https://web.archive.org/contact/customer-service).
+For further information about this site or XANGO products, please [contact us](https://web.archive.org/contact/customer-service).
