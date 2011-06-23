@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120084048id_/http%3A//www.californiapsychics.com/about/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623152739id_/http%3A//www.californiapsychics.com/about/privacy_policy.aspx) for the most accurate reproduction.*
 
 # CaliforniaPsychics.com - Privacy and Security Policy
 
@@ -15,7 +15,7 @@ Thank you for visiting CaliforniaPsychics.com®. This notice explains our online
 **THIS SERVICE IS FOR ENTERTAINMENT PURPOSES ONLY. YOU MUST BE EIGHTEEN YEARS OF AGE OR OLDER TO USE THE PREMIUM AREAS OF THIS SERVICE. ALL CREDIT CARD PURCHASES MUST BE MADE BY THE CARD HOLDER. AT CALIFORNIA PSYCHICS WE WANT YOU TO ENJOY AND BENEFIT FROM YOUR READING. OUR PSYCHICS MAKE EVERY EFFORT TO PROVIDE YOU WITH HELPFUL ADVICE. HOWEVER, THIS INFORMATION SHOULD NOT BE USED IN PLACE OF ANY RECOMMENDATIONS BY MEDICAL, LEGAL, OR FINANCIAL PROFESSIONALS OR OTHER PROFESSIONAL COUNSELORS. IT IS YOUR RESPONSIBILITY TO EVALUATE ANY INFORMATION, OPINION, ADVICE OR OTHER CONTENT AVAILABLE THROUGH CALIFORNIA PSYCHICS.**
 
 **The Information We Collect.**  
-At California Psychics® you can do a variety of things! You may be able to talk to a psychic, enter contests, participate in surveys, subscribe to a service (like our horoscopes), take quizzes, post to message boards, or participate in a chat room. When you visit CaliforniaPsychics.com we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website. The types of personally identifiable information (i.e. information that can directly identify you or indicate where you might be contacted) that may be collected at these pages includes: name, address, age, date of birth, sex, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various services. You can view or change your information at any time. You can view or change your information at any time. [ Click here](https://web.archive.org/sub/horoscope_subscription_v3.aspx) to edit your profile or send an email to [ info@californiapsychics.com](mailto:info@californiapsychics.com).
+At California Psychics® you can do a variety of things! You may be able to talk to a psychic, enter contests, participate in surveys, subscribe to a service (like our horoscopes), take quizzes, post to message boards, or participate in a chat room. When you visit CaliforniaPsychics.com we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website. The types of personally identifiable information (i.e. information that can directly identify you or indicate where you might be contacted) that may be collected at these pages includes: name, address, age, date of birth, sex, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various services. You can view or change your information at any time.[ Click here](https://web.archive.org/sub/horoscope_subscription_v3.aspx) to edit your profile or send an email to [ info@californiapsychics.com](mailto:info@californiapsychics.com).
 
 We also may collect certain non-personally identifiable information (i.e. generic information that does not identify you personally) when you visit any of our web pages such as the type of browser you are using (e.g., Internet Explorer, Safari, Firefox), the type of operating system you are using, (e.g., Windows or Mac) and the domain name of your Internet service provider. 
 
@@ -34,7 +34,7 @@ Our operations and maintenance contractors sometimes have limited access to your
 CaliforniaPsychics.com® is committed to handling your customer information with high standards of information security. We are VeriSign secured and we maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
 
 **Our Psychics/Your Privacy**  
-**Note that our psychics are independent contractors and not employed directly by Outlook Amusements, Inc. We contractually require that our psychics protect the privacy of your personal information consistent with this Privacy Policy and not use or disclose your personal information for any purpose other than providing you with the services you request through the Web site or by phone. You should also take care to protect your personal information and privacy. There is no reason that you should provide any of our psychics with personal contact information, specific financial information including but not limited to account numbers, or other confidential information related to your identity. It is a violation of our[ Terms of Use](https://web.archive.org/web/20101120084048id_/http%3A//www.californiapsychics.com/about/terms_of_Service.aspx) for you to be in direct contact with any of our psychics outside the online service – if you do so, Outlook Amusements, Inc. bears no liability for any resulting actions, and your ability to use our services may be revoked.**
+**Note that our psychics are independent contractors and not employed directly by Outlook Amusements, Inc. We contractually require that our psychics protect the privacy of your personal information consistent with this Privacy Policy and not use or disclose your personal information for any purpose other than providing you with the services you request through the Web site or by phone. You should also take care to protect your personal information and privacy. There is no reason that you should provide any of our psychics with personal contact information, specific financial information including but not limited to account numbers, or other confidential information related to your identity. It is a violation of our[ Terms of Use](https://web.archive.org/web/20110623152739id_/http%3A//www.californiapsychics.com/about/terms_of_Service.aspx) for you to be in direct contact with any of our psychics outside the online service – if you do so, Outlook Amusements, Inc. bears no liability for any resulting actions, and your ability to use our services may be revoked.**
 
 **Use and Disclosure of Anonymous Information.**   
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our site is used, as well as to offer you products, programs or services. We may also share aggregate information with others, including affiliated companies and non-affiliated companies.
@@ -87,22 +87,6 @@ As stated in our Privacy Policy, we do not share information with third parties 
 California customers may request further information about our compliance with this law by e-mailing [info@californiapsychics.com](mailto:info@californiapsychics.com). Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
 
 | 
-
-Open an  
-Account 
-
-It's simple, fast & secure! 
-
-Choose a Psychic 
-
-We have Psychics & customer service available 24/7 
-
-Get a  
-Reading 
-
-New customers get a special rate of $1 per minute 
-
-Call 1.800.573.4784
 
 [](https://web.archive.org/psychics/filter.aspx)
 
