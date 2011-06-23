@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the robotis-shop-en.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204152508id_/http%3A//www.robotis-shop-en.com/infodesk/protection_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robotis-shop-en.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623185514id_/http%3A//robotis-shop-en.com/infodesk/protection_policy.php) for the most accurate reproduction.*
 
 # ROBOTIS - Closer to reaL..
 
-Sample  
-| **1\. Shopping Mall Privacy Policy**  
----  
+**1\. Shopping Mall Privacy Policy**  
  ROBOTIS Shop is committed to protecting your personal information ("personal data") while providing the best services possible.
 
 This policy describes the ways in which we collect personal data and the purposes for which it may used. If you object to our use of your personal data in the manner set out in this policy, please inform us by email. 
 
 By using this website you acknowledge that you have read the terms of this policy and that you agree to our use of your personal data as described.  
   
-**2\. What data could we collect from you**  
+**2\. The data we collect from you**  
 **You may be asked to provide us with the following information.**  
   
   * Your Shopping Mall UserName
