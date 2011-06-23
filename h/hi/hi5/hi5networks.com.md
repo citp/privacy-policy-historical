@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228013756id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623215705id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
 
 # hi5 | Social Entertainment
 
