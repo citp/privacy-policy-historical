@@ -1,49 +1,69 @@
-> *The following text is extracted and transformed from the forexyard.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204115038id_/http%3A//www.forexyard.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexyard.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623222457id_/http%3A//www.forexyard.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Forex Privacy Statement of FOREXYARD
 
-**FOREX** YARD truly values each and every one of our visitors right to privacy and we take your privacy seriously. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. As part of our normal operations we may collect information about you and how you interact with our website. Our Privacy Policy is intended to provide you with a full description of the information we collect about you and what we do with that information. The provisions of this notice apply to former customers as well as our current customers.
+Privacy Policy
 
-## Personal Information
+PRIVACY STATEMENT
 
-In general, you can visit FOREXYARD.COM without telling us who you are and without revealing any information about yourself. There are times, however, when we might request that you disclose certain pieces of personal information to us. When you apply for or maintain a live or demo account with **FOREX** YARD, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. Such information may include::
-
-  * Application Information - Information you provide to us on applications and other forms, such as your name, address, birth date, social security number, occupation, assets, and income.
-  * Transaction Information - Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries and our responses.
-  * Verification Information - Information necessary to verify your identity such as a passport or driver's license. Examples also include background information about you we receive from public records. The USA Patriot Act requires us to collect information and take actions necessary to verify your identity.
-
+The protection of privacy and the safeguarding of our Clients’ personal and financial information is our highest priority.  
+Please view the following Privacy Statement which clearly explains how we, at Safecap Investments Limited (“Safecap”), collect, process, store and protect Client’s information  
+  
+By opening an account, Client hereby gives Safecap its consent to such collection, processing, storage and use of personal information by Safecap as explained below.  
 
 
-Please note that if you choose not to disclose this information, functionality of our site may be limited.
+The collection of personal information  
 
-## About Cookies
 
-In addition to personally identifiable information FOREXYARD.COM collects anonymous user information through the delivery of cookies. Cookies allow the FOREXYARD.COM Web site to be more efficient by allowing us to learn what information is important to our visitors, and what isn't. Such information that we collect and share would be anonymous.
+Safecap collects the necessary information required to open, transact and safeguard your assets and your privacy and to provide you with the services you require. To this end, Safecap gathers information from you and may, in certain circumstances, gather information from relevant banks and/or credit agencies, and/or other sources which helps us profile your requirements and preferences and provide better services to you.
 
-A cookie is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the Web site. A cookie will not allow a Web site to learn any personally identifiable information unless you have previously disclosed that information to us.
+The information Safecap collects includes information required to communicate with and identify its Clients. Safecap may also collect certain demographic information, including, birth date, education, occupation, etc. Safecap also assesses trading related information.
 
-The use of cookies is an industry standard and is currently used on most major Web sites. Cookies allow Web sites to serve its customers better by providing measurement statistics on site usage, learn about areas of the site that are over or underutilized, and helps to ensure that you are logged into your account correctly. It is possible to adjust your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While FOREXYARD.COM does not require you to accept cookies, certain services will not function properly if you do not use and accept cookies.
+Usage of personal information  
 
-## Security
 
-FOREXYARD.COM uses Secure Socket Layer (SSL) encryption technology in order to protect certain information that you submit. This type of technology protects you from having your information intercepted by anyone other than FOREXYARD.COM while it is being transmitted to us. We work hard to ensure that our websites are secure and that they meet industry standards. We also use other safeguards such as access control mechanisms to control unauthorized access to systems and data. FOREXYARD.COM uses efforts consistent with sound industry practice, such as firewalls and encryption, to safeguard the confidentiality of your personal identifying information. Given the nature of the Internet, however, the Company cannot and does not ensure complete security. The Company shall not be responsible for any breach of security or for the actions of any other person or entity. Hackers pose a threat to any Internet user, and the legal and regulatory status of matters on the Internet is uncertain both in the United States and abroad. For these reasons, the FOREXYARD.COM cannot and does not guarantee that all of your personal identifying information will never be disclosed in ways you do not expect or which are not described in this Privacy Statement. We will make commercially reasonable efforts to see that your information is treated in compliance with this Privacy Statement. The Company cooperates with law enforcement inquiries, we obey court orders, and we honor subpoenas and other legal process. Your personal identifying information may be disclosed if we are compelled by law or legal process to disclose it. We may also disclose such information if we determine, in our sole discretion, that disclosure would be useful in connection with investigating possible non-compliance either with the law or with any FOREXYARD.COM policy, including our Terms of Service or this Privacy Statement.
+Safecap uses personal information only as required to provide quality service and security to you. This information helps improve services, customize browsing experience and enables us to inform you of additional products, services or promotions relevant to you and the products and services you require and you consent to us using this data for such purposes.  
+If you do not want to receive information of this nature for any reason, please contact us at the following address: unsubscribe@Forexyard.com   
 
-## Sharing Information With Our Affiliates
 
-We may share personal information described above with our affiliates for business purposes, such as servicing customer accounts and informing customers about new products and services, and as permitted by applicable law. Our affiliates may include companies controlled or owned by us. The information we share with affiliates may include any of the information described above. Our affiliates maintain the privacy of your information to the same extent FOREXYARD.COM does in accordance with this Policy.
+Affiliates and Partners
 
-## Sharing Information With Third Parties
+Safecap may share information with affiliates in the event such information is reasonably required by such affiliate in order to provide the products or services to you. Safecap may share information with partners, affiliates and alliances in order to offer additional similar products and services that meet your needs and which are delivered in a manner that is useful and relevant only where you have authorized us to do so.  
 
-FOREXYARD.COM does not disclose your personal information to third parties, except as described in this Policy. Third party disclosures may include sharing such information with non-affiliated companies that perform support services for your account or facilitate your transactions with FOREXYARD.COM, including those that provide professional, legal, or accounting advice to FOREXYARD.COM. Non-affiliated companies that assist FOREXYARD.COM in providing services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services and only for the purposes that FOREXYARD.COM dictates.
 
-We may also disclose your personal information to third parties to fulfill your instructions or pursuant to your express consent.
+Non-affiliated third parties
 
-## Changes in Privacy Statement and web site Maintenance
+Safecap does not sell, license, lease or otherwise disclose personal information to third parties, except as described in this Privacy Statement.Safecap reserves the right to disclose personal information to third parties where required by law, regulatory, law enforcement or other government authority. Safecap may also disclose information as necessary to credit reporting or collection agencies as reasonably required in order to provide the services to you.
 
-As our business grows and changes, and as technology and Internet use and practices change, FOREXYARD.COM may, from time to time, determine that changes in its policies, including this Privacy Statement, are prudent. If any such changes are made, they will be posted on this web site. Therefore you should review this Privacy Policy and other policies posted on this web site for potential changes when you return to the site for future visits.
+To help us improve our services, Safecap may engage third parties to help carry out certain internal functions such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business. Use of the shared information is strictly limited to the performance of the above and is not permitted for any other purpose. All third parties with which Safecap shares personal information are required to protect such personal information in accordance with all relevant legislation and in a manner similar to the way Safecap protects the same. Safecap will not share personal information with third parties which it considers will not afford its Clients the required level of protection.
 
-We want you to know that FOREXYARD.COM will not sell your personal information.
+Where you have been introduced to us by a business introducer (“Business Introducer”), such Business Introducer may have access to your information. You hereby unambiguously and unequivocally consent to the sharing of information with such Business Introducer.
 
-**You are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you.**
+You acknowledge that in order to provide services to you, it may be necessary for information to be transferred outside of the European Economic Area and you consent to such transfer.
 
-**If you do not wish to have your personal information disclosed to our affiliates or other third parties as described in this Policy, please contact us via e-mail at:[compliance@forexyard.com](mailto:compliance@forexyard.com)**
+Restriction of responsibility
+
+Safecap is not responsible for the privacy policies or the content of sites Forexyard.com links to and has no control of the use or protection of information provided by Client or collected by those sites. Whenever Client elects to link to a co-branded web site or to a linked web site, Client may be asked to provide registration or other information. Please note that such information is recorded by a third party and will be governed by the privacy policy of that third party.  
+
+
+Use of "COOKIES"
+
+Safecap uses cookies to secure your trading activities and to enhance the performance of the Forexyard.com web site. Cookies used by Safecap do not contain personal information or other sensitive information.  
+
+
+  
+
+
+Safecap may share web site usage statistics with reputable advertising companies and with its affiliated marketing companies. The information collected by the advertising company is not personally identifiable.
+
+To administer and improve the Forexyard.com web site, Safecap may use third parties to track and analyze usage and statistical volume information. The third party may use cookies to track behavior and may set cookies on Safecap’s behalf. These cookies do not contain any personally identifiable information.
+
+Privacy Statement Updates
+
+From time to time, Safecap may update this Privacy Statement. In the event Safecap materially changes this Privacy Statement including how we collect, process or use your personal information, the revised Privacy Statement will be posted to the web site. Client agrees to accept posting of a revised Privacy Statement electronically on the web site as actual notice to Client. Any dispute over our Privacy Statement is subject to this notice and our Customer Agreement. Safecap encourages Client to periodically check back and review this policy so that Client always will know what information Safecap collects, how Safecap uses it, and to whom Safecap may disclose it.  
+
+
+Agreement
+
+I have read, understood and agree to the Privacy Policy Agreement, and I confirm that I have full power and authority to enter into this Agreement.  
+For any other concern please Contact Us 
