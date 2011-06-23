@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchvideo.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218103224id_/http%3A//www.truveo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchvideo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623164918id_/http%3A//www.truveo.com/privacy) for the most accurate reproduction.*
 
-# Truveo Privacy Policy - Truveo Video Search
+# About Truveo, AOL's Video Search Company
 
 This Privacy Policy applies only to information we collect about you at [www.truveo.com](http://www.truveo.com/) (the "Website") and how we use this information. This policy does not apply to information about you collected by our affiliated providers, such as, AOL.com, or third party Web sites and offerings linked to or otherwise accessible from Truveo. The information collected or received by our affiliated providers and these third parties is subject to their own privacy policies. 
 
@@ -8,9 +8,7 @@ This Privacy Policy applies only to information we collect about you at [www.tru
 
 Your "Truveo information" includes certain technical information gathered or received when you use Truveo. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), CPU type, your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from an affiliate that you used prior to registering with the service; other information about your geographic location; and the domain name of your Internet service provider. 
 
-While registering to use most of the Truveo services is not required, there are a limited number of optional services (for example, saving a video list) that require an "account". Registration functionality for Truveo is provided by the AOL Network. If you choose to "Get an Account", you will need to register with and provide information to the AOL Network. You will then obtain a Screen Name or other credential issued by the AOL Network (collectively, "Screen Name") in order to access and use these optional services, and your Screen Name and associated services account will be subject to the [AOL Network Registered User Agreement](http://about.aol.com/aolnetwork/terms_use) and [Privacy Practices](http://about.aol.com/aolnetwork/aol_pp) indicated in your registration process. 
-
-If you are an AOL Member, registration is not required in order to access the optional Truveo services that require an account. Use of Truveo Services by AOL members is subject to the [AOL Member Privacy Policy](http://about.aol.com/aolnetwork/mem_policy). 
+While registering to use most of the Truveo services is not required, there are a limited number of optional services (for example, saving a video list) that require an "account". Registration functionality for Truveo is provided by AOL. If you choose to "Get an Account", you will need to register with and provide information to AOL. You will then obtain a Screen Name or other credential issued by AOL (collectively, "Screen Name") in order to access and use these optional services, and your Screen Name and associated services account will be subject to the AOL [Terms of Service](http://about.aol.com/aolnetwork/terms_use) and [Privacy Policy](http://about.aol.com/aolnetwork/aol_pp) as indicated in your registration process. 
 
 **How Your Truveo information is Used**
 
