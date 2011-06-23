@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221105514id_/http%3A//bco.convio.net/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024116id_/http%3A//bco.convio.net/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Breastcancer.org: Privacy Policy
 
