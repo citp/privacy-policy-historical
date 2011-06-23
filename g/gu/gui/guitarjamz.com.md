@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarjamz.com privacy policy that was archived on 2010-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100707074331id_/http%3A//www.guitarjamz.com/members/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarjamz.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623092250id_/http%3A//www.guitarjamz.com/members/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
