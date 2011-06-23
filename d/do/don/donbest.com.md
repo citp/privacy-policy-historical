@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223171652id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623153001id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Customers - DonBest.com
 
 **DON BEST SPORTS IS COMMITTED TO YOUR PRIVACY**
-
-This website is managed by SBR Netmarketing and Consulting S.A. for Don Best Sports (hereinafter both entities will collectively be referred to as “us, we, our”).
 
 We value your patronage and respect your privacy rights. As part of the normal operation of our services, we collect and, in some cases, may disclose information about you. We have created the following Privacy Policy to let you know what information we collect when you visit our web site, why we collect it, and how it is used. This Privacy Policy applies to all information that you provide to us and is maintained electronically, whether you provide the information through our website located at www.donbest.com (the "Site"), or through other means. Additionally, this Privacy Policy applies to any Personal Information (defined below) obtained from your use of the Site. This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to this Site. You should contact such third parties directly to determine their respective privacy policies.  
 This Privacy Policy is governed by our Terms of Use found at www.donbest.com. We may periodically make changes to this Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. If you believe we have not adhered to this Privacy Policy or if you have any other questions regarding this Privacy Policy, please contact us at [webmaster@donbest.com](mailto:webmaster%40donbest.com) .
@@ -13,7 +11,7 @@ This Privacy Policy is governed by our Terms of Use found at www.donbest.com. We
 
 This Site is targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any Personal Information from children under the age of 13 years. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any Personal Information on our website. In the event that we discover that a child under the age of 13 has provided Personal Information to us, in accordance with the United States Children's Online Privacy Protection Act (please see the Federal Trade Commission's website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy "www.ftc.gov/kidzprivacy") for more information about this Act), we will delete the child's Personal Information from our files to the extent technologically possible.
 
-**WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU AND WHY?**   
+**WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU AND WHY?**  
 We collect and maintain a variety of Personal Information about you to enable us to provide you with the best service. "Personal Information" is information about you by which you may be identified. We currently collect Personal Information through e-mail and the various online inquiry forms on the Site. The Personal Information we collect and maintain about you includes:
 
   * your name, your phone number and address (street and e-mail) 
@@ -23,37 +21,37 @@ We collect and maintain a variety of Personal Information about you to enable us
 
 We only collect Personal Information that you voluntarily provide to us or voluntarily provide to our Partners (defined below) who share that information with us. We also use your Personal Information for other things that may include, but are not limited to, the following: 
 
-  * **_Contacting You_ **
+  * **_Contacting You_** ****
 
 
 
 We use your Personal Information to communicate with you in the event we have any questions with regard to your online inquiry. We may also contact you to tell you about products and services provided by our Partners, other affiliates and other third-party organizations.
 
-  * **_Interactions_ **
+  * **_Interactions_** ****
 
 
 
 Each time you interact with our Site, the details of your interaction are collected and retained. 
 
-  * **_Correspondence_ **
+  * **_Correspondence_** ****
 
 
 
 We intend to retain any correspondence, including facsimiles, mail and e-mails, set to us. We also may retain correspondence such as customer service e-mails from us to you. We may delete such records over time. 
 
-  * **_Use of IP Address_ **
+  * **_Use of IP Address_** ****
 
 
 
 IP addresses are numbers that are automatically assigned to your computer, and, if associated with other individually identifiable information, could be considered personal information. Your user IP address information is used only for our internal tracking purposes. 
 
-  * **_Use of Cookies_ **
+  * **_Use of Cookies_** ****
 
 
 
 Cookies are a standard technology used by commercial web services to store small pieces of information on your hard drive by sending a small string of text to your browser. They make your use of this Site more pleasing and efficient by "personalizing" your Site experience and gathering Site statistical data, such as which parts of the Site you have previously visited, what material you downloaded, your Internet provider's domain name and country, and the addresses of websites you visited immediately before and after our Site. They enable us to tailor the information you receive and to assist our Partners or other third party organizations with whom we have strategic alliances by identifying you as our customer or Site user. Most web browsers automatically accept cookies, unless you have configured yours not to accept them. Typically, we do not use cookies, however, if we so chose to use cookies in order for us to provide you with services on our Site, your browser must accept cookies, as they are essential for site administration and security. We do not use cookies either to collect individually identifiable information or to collect non-individually identifiable information using a cookie that is combined with a personal identifier.
 
-  * **_Provision of Personal Information to Third Parties_ **
+  * **_Provision of Personal Information to Third Parties_** ****
 
 
 
@@ -136,8 +134,8 @@ Vancouver, British Columbia V6Z 2P3
 
 **DATE LAST MODIFIED: September 30, 2009**
 
-? Big Stick Media Corporation. All Rights Reserved.
+Big Stick Media Corporation. All Rights Reserved.
 
 Activities offered by advertising links to other sites may be deemed an illegal activity in certain jurisdictions. Viewers are specifically warned that they should inquire into the legality of participating in any games and/or activities offered by such other sites. The owner of this website assumes no responsibility for the actions by and makes no representation or endorsement of any of these games and/or activities offered by the advertiser. As a condition of viewing this website viewers agree to hold the owner of this website harmless from any claims arising from the viewer's participation in any of the games and/or activities offered by the advertiser.
 
-US CITIZENS PLEASE NOTE: The information contained at this site is for news and entertainment purposes only. Any use of this information in violation of any federal, state, provincial or local law is prohibited. ? Big Stick Media Corporation
+US CITIZENS PLEASE NOTE: The information contained at this site is for news and entertainment purposes only. Any use of this information in violation of any federal, state, provincial or local law is prohibited. 
