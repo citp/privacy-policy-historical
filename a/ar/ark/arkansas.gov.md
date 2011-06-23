@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222112141id_/http%3A//portal.arkansas.gov/Pages/policy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623203039id_/http%3A//portal.arkansas.gov/Pages/policy.aspx%23privacy) for the most accurate reproduction.*
 
-# Internet Policies
+# Arkansas.gov - Internet Policies
 
+---  
+  
 Accessibility Information  
   
 Act 1227 of 1999 required the Arkansas Department of Information Systems to develop Non-visual Standards for Arkansas that ensures the needs of Arkansans who are blind or visually impaired are met through reasonable accommodation in the information technology products and services of the state.  Information technology products and services include data, voice, and video technologies, as well as information dissemination methods such as the Internet. In essence, this means that Arkansas Government or state funded entities must have websites that are equally accessible to blind or visually impaired visitors.  For instance, websites must provided text equivalents for all non-text elements such as images, animation, audio and video.  We will make every effort to comply with these new guidelines on the State of Arkansas website. If you have trouble accessing or navigating state government pages, please contact [info@ark.org](mailto:info@ark.org). For more information about IT policies and standards in Arkansas, link to the [State of Arkansas Accessibility Best Practices](http://www.dis.arkansas.gov/poli_stan_bestpract/bestpractices_webpage.htm). For detailed information about web site development and accessibility issues, link to [W3C Web Content Guidelines](http://www.w3c.org/) or the [Center for Applied Special Technology](http://www.cast.org/) (CAST).    
