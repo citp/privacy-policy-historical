@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205063350id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623062104id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Talbots Customer Service- Privacy Policy
 
@@ -157,7 +157,7 @@ These service providers only have access to the personal information they need t
 
 From time to time we may share your personal information with carefully screened marketing partner companies whose products or services we feel you might be interested in, except where prohibited by law. We may also share your name, address and purchasing behavior with cooperative databases that we may participate in or with our list rental fulfillment vendors, except where prohibited by law.
 
-**If you prefer not to have your personal information shared with these organizations please contact us by telephone at 1-800-TALBOTS (1-800-825-2687), FAX 1-800-438-9443, or by email at[customer.service@talbots.com](mailto:customer.service@talbots.com). Or you may write us at Talbots, One Talbots Drive, Hingham, MA 02043. Canadian customers should direct such requests to the Canadian Privacy Officer, who can be contacted at the address and phone number listed above or by email at [privacy.officer@talbots.com](mailto:privacy.officer@talbots.com)**.
+**If you prefer not to have your personal information shared with these organizations please contact us by telephone at 1-800-TALBOTS (1-800-825-2687), FAX 1-800-438-9443, or by email at[customer.service@talbots.com](mailto:customer.service@talbots.com). Or you may write us at Talbots, One Talbots Drive, Hingham, MA 02043. Canadian customers should direct such requests to the Canadian Privacy Officer, who can be contacted at the address and phone number listed above or by email at [privacy.officer@talbots.com.](mailto:privacy.officer@talbots.com) In order for Talbots to confirm your identity and ensure your wishes are honored, requests sent to Talbots email addresses must be sent using the email account to which the request pertains.**
 
 We may disclose your personal information to third parties if we determine, in our judgment, that it is necessary to (a) comply with the law, regulation, legal process or enforceable government request; (b) enforce the terms of any of our polices; or (c) protect the rights, property or safety of Talbots, its employees or customers. This may include assistance in fraud protection or investigation.
 
