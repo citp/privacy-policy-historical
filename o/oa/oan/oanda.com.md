@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221134341id_/http%3A//www.oanda.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623063125id_/http%3A//www.oanda.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OANDA
 
@@ -7,7 +7,7 @@
 
 ## A. Policy Statement
 
-OANDA Corporation respects customer privacy and is committed to protecting it. Customers can visit most pages on the OANDA website -- and use all of the currency tools located on our site -- without identifying themselves or providing a personal or financial information. However, if a customer wishes to open an FXTrade account, the law requires the customer to provide OANDA with certain non-public personal and financial information (referred to as "Personal Information"). The purpose of OANDA's Privacy Policy is to explain OANDA's privacy policy and practices and how customer Personal Information is collected, used, disclosed and maintained.
+OANDA Corporation respects customer privacy and is committed to protecting it. Customers can visit most pages on the OANDA website -- and use all of the currency tools located on our site -- without identifying themselves or providing a personal or financial information. However, if a customer wishes to open an fxTrade account, the law requires the customer to provide OANDA with certain non-public personal and financial information (referred to as "Personal Information"). The purpose of OANDA's Privacy Policy is to explain OANDA's privacy policy and practices and how customer Personal Information is collected, used, disclosed and maintained.
 
 ## B. Categories of Personal Information OANDA Collects
 
@@ -52,7 +52,7 @@ Except as permitted in this Privacy Policy, OANDA will not share Personal Inform
 
 ## F. Procedures to Safeguard Personal Information
 
-OANDA has implemented procedures to safeguard customer Personal Information. OANDA restricts access to Personal Information to those OANDA employees who need to know that information in order to provide our products or services to them. OANDA maintains physical, electronic and procedural safeguards that meet or exceed federal standards to safeguard Personal Information. OANDA protects customer account information by keeping it on the secure portion of its website, using firewalls and other security technology to protect its network and systems from external attacks, and by requiring customers to enter a unique user ID and password to access the FXTrade and FXGame systems. OANDA conducts periodic internal audits of its business practices and procedures, examining its confidentiality standards and information access, in order to best protect our customers' Personal Information.
+OANDA has implemented procedures to safeguard customer Personal Information. OANDA restricts access to Personal Information to those OANDA employees who need to know that information in order to provide our products or services to them. OANDA maintains physical, electronic and procedural safeguards that meet or exceed federal standards to safeguard Personal Information. OANDA protects customer account information by keeping it on the secure portion of its website, using firewalls and other security technology to protect its network and systems from external attacks, and by requiring customers to enter a unique user ID and password to access the fxTrade and fxTrade Practice systems. OANDA conducts periodic internal audits of its business practices and procedures, examining its confidentiality standards and information access, in order to best protect our customers' Personal Information.
 
 ## G. "Cookies"
 
@@ -70,5 +70,5 @@ OANDA will provide an initial notice of its Privacy Policy to customers at the t
 
 ## J. Contact Us:
 
-We value our customers' opinions. If they have comments or questions about our Privacy Policy, they are invited to [email](https://web.archive.org/site/legal/privacy_questions.shtml) us or write to us at:  
+We value our customers' opinions. If they have comments or questions about our Privacy Policy, they are invited to [email](https://web.archive.org/site/contact/feedback) us or write to us at:  
  **Privacy Office, OANDA Corp., 140 Broadway, 46th Floor, New York, NY 10005, U.S.A.**
