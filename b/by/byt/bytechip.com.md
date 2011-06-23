@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytechip.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228043958id_/http%3A//www.bytechip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytechip.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623103449id_/http%3A//www.bytechip.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ByteChip - The Complete Technology Blog
 
@@ -21,4 +21,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20101228043958id_/http://www.bytechip.com/privacy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20110623103449id_/http%3A//www.bytechip.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
