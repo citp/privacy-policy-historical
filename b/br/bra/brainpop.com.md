@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218092231id_/http%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623071520id_/http%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
 
-# BrainPOP | Privacy Policy
+# BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts
 
 > >   
 > 
