@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taggedmail.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227101938id_/http%3A//www.tagged.com/terms_of_service.html%3F%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taggedmail.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623034124id_/http%3A//www.tagged.com/terms_of_service.html%3F%23privacy_policy) for the most accurate reproduction.*
 
 # Tagged - Terms of Service
 
@@ -155,7 +155,7 @@ COPPA also limits the amount of personal information a web site can collect from
 
 For more information about COPPA, please visit the [Federal Trade Commission's web site](http://www.ftc.gov/).
 
-Parents: If your child is under the age of 13 and has joined Tagged using a false age, please notify Tagged Tagged Site & Safety Squad at [SiteSquad@Tagged.com](mailto:SiteSquad@Tagged.com), and we will immediately cancel your child's account and nullify all personally identifiable information displaying on the site and collected from them. If you would like to know more about our site, information practices, stored information about your child, or how to close your child's account, please contact Tagged by sending a letter to Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111. We will happily respond to all letters from parents with Privacy questions or concerns.
+Parents: If your child is under the age of 13 and has joined Tagged using a false age, please notify Tagged Tagged Site & Safety Squad at [parentcare@tagged.com](mailto:parentcare@tagged.com), and we will immediately cancel your child's account and nullify all personally identifiable information displaying on the site and collected from them. If you would like to know more about our site, information practices, stored information about your child, or how to close your child's account, please contact Tagged by sending a letter to Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111. We will happily respond to all letters from parents with Privacy questions or concerns.
 
 ### User Information Collected by Tagged
 
@@ -203,7 +203,7 @@ Tagged may disclose personally identifiable user information if required to do s
 
 ### Security
 
-Tagged uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the Tagged website in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+Tagged uses industry standard security measures to prevent the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the Tagged website in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
 ### Updating or Removing User Information
 
