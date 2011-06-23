@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefreedictionary.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522002610id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreedictionary.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623091009id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
