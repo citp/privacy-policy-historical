@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201170129id_/http%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623165925id_/http%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -104,16 +104,14 @@ If you have any questions about this Privacy Policy, the practices of the Site o
 
 ## BedandBreakfast.com Gift Cards
 
-  * Welcome at [over 4,000 B&Bs](https://web.archive.org/web/20101201170129id_/http%3A//www.bedandbreakfast.com/GiftCertificates.aspx?ctx=lbtB)
-  * Get a ******free $75 gift card** ([details](http://www.bedandbreakfast.com/specialgcoffers.aspx))
-  * Over 100,000 sold since 1999
+  * Welcome at [over 4,000 B&Bs](https://web.archive.org/web/20110623165925id_/http%3A//www.bedandbreakfast.com/GiftCertificates.aspx?ctx=lbtB)
   * No monthly fees or blackout dates
   * Customize with free photo upload
   * Free shipping or instant email delivery
 
 
 
-[](https://web.archive.org/web/20101201170129id_/http%3A//www.bedandbreakfast.com/GiftCertificates.aspx?ctx=lbf)
+[](https://web.archive.org/web/20110623165925id_/http%3A//www.bedandbreakfast.com/GiftCertificates.aspx?ctx=lbf)
 
   
 
