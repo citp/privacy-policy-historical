@@ -1,110 +1,55 @@
-> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209063728id_/http%3A//www.optionszone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623191514id_/http%3A//www.investorplace.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | InvestorPlace
 
-This is the OptionsZone Web site. 
+At InvestorPlace.com, we take the privacy and security of our registered users and subscribers seriously. We are committed to protecting the personal information you choose to share with us. Accordingly, we have adopted the following privacy policy, based on the principles of notice, choice, access and security in the collection and use of all information regarding our customers and their activities at InvestorPlace and our related sites.
 
-Our postal address is: 
+## Collection of Information
 
-InvestorPlace Media LLC  
-c/o OptionsZone.com  
-9201 Corporate Blvd.  
-Rockville, MD 20850
+Registration and subscription data are the only personally identifiable information that InvestorPlace seeks about you. This information includes your email address and, in some cases, your name, mailing address, telephone number or fax number.
 
-We can be reached via e-mail at [service@optionszone.com](mailto:service@optionszone.com). 
+We collect no information about our users that is not supplied voluntarily through web forms or email. We may at times collect anonymous tracking information to gauge usage patterns and the popularity of specific areas of our sites. As with all other information, this information is kept confidential for use only by employees of InvestorPlace.com and InvestorPlace Media, LLC.
 
-This Privacy Policy is applicable to Registered Users and Subscribers of OptionsZone.com.
+Some of these data are collected through the use of cookies. Cookies may be deactivated by the user at any time through features available on your Internet browser. They are not required for any InvestorPlace.com site to function properly. Transparent gifs or pixels may occasionally be used for the same purpose, but these items gather no personal information and have no effect on how you view our sites or how you navigate the site. Sites we link to from InvestorPlace.com are under the InvestorPlace umbrella of advisor sites.
 
-Your privacy, and the privacy of all OptionsZone.com Registered Users and Subscribers is important to us, and we are committed to protecting the personal information you choose to share with us. Accordingly, we have adopted the following privacy policy, based on the principles of notice, choice, access and security in the collection and use of all information regarding our members and their activities at InvestorPlace Media LLC Web sites. 
+InvestorPlace’s privacy policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond our control, and is not to be applied in any manner contrary to current law or government regulation.
 
-Our data collection and privacy practices are described below. This policy tells you, among other things, what information we may gather from you, how we may use or disclose that information, and our efforts to protect it. Please read this policy carefully, and feel free to contact us at service@optionszone.com if you have any questions regarding its contents. 
+## Your Email Address
 
-**What information do we gather?**
+All of our e-letters, alerts and special notices from our advisors and partners are sent only to those who have specifically agreed to our confirmed opt-in policy. We require recipients of email from InvestorPlace to confirm permission for the email address submitted to be included on our mailing list by responding to a confirmation email for verification. This ensures our users are properly subscribed with a working address and with the owner’s consent. Unsubscribe instructions are included at the bottom of each email. Some e-letter issues include advertising, clearly marked as such. By registering to receive our email from InvestorPlace, you also agree to receive email announcements and special offers from our partners. If you are a subscriber to our investment newsletters, you will also receive information regarding your newsletter author’s site and/or service. Occasionally, we may write to you at your email address with offers from carefully screened companies that offer products, services or information we believe may be of interest to you.
 
-OptionsZone.com may obtain three types of information from its Registered Users and Subscribers:  
-1\. Registration, subscription, or application data,   
-2\. site usage data, and  
-3\. voluntary postings. 
+We neither rent nor sell your email address to anyone. Though we hope you gain value from the messages you receive, you can choose to opt out of receiving further messages by following the instructions provided at the close of each email. To opt out of receiving future messages, [click here](http://www.investorplace.com/ipi/p/?pc=UNSPRI). We will honor the change to your account preferences on InvestorPlace.com _,_ however we also advertise on many other Internet and email outlets. Therefore, you may see our advertisements in connection with other financial and investment-related websites and email outlets. We will ensure that they offer you the ability to opt out from their messages.
 
-**Registration, Subscription, or Application Data.** The only individually identifiable information that OptionsZone.com seeks about you is that which you are asked to provide when you register for our free Virtual Trading Tool. This information includes your name, e-mail address and other voluntary information. 
+## Your Mailing Address
 
-**Site Usage Data.** We collect non-identifiable information to measure how our Registered Users and Subscribers use the OptionsZone.com Web sites. This information may include statistics about the numbers and timing of unique visits to ChangeWave, repeat visits, and which pages are viewed. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We collect your postal address as part of the order process. We use it to send you the Special Reports you have requested, newsletters that you have purchased and special offers from InvestorPlace Media, LLC. We may provide the names and postal mailing addresses of our subscribers to carefully screened companies who offer products, services or information that we believe may be of interest to you. If you do not want to hear from our carefully selected partners, [click here](http://www.investorplace.com/ipi/p/?pc=UNSPRI) or send a copy of your mailing label to InvestorPlace Media, LLC, 700 Indian Springs Drive, Lancaster, PA 17601, Attention: Subscription Services. Any other information you provide us, such as your fax or telephone number, is collected by us only to fulfill subscription orders that you have purchased or to contact you about our InvestorPlace affiliated services.
 
- **What do we do with personal information about you?**
+## Making a Purchase Through an InvestorPlace Website
 
-Your registration, subscription, and Alliance application data will be closely protected. 
+When you purchase a newsletter service online from us, we will request certain personal information, including your name, postal address, daytime and evening telephone numbers, and credit card number (where applicable) only for the purposes of contacting you about your InvestorPlace family of services. Individuals who do not have a Visa, MasterCard, Discover or American Express credit card are not permitted to make purchases online.
 
-Many of the features on InvestorPlace Media's Web sites are designed to be "personalized" to meet the needs and interests of our Registered Users and Subscribers. To support this personalization, we need to be able to identify your account each time you log in to an InvestorPlace Media Web site. 
+When you purchase a newsletter or other service through InvestorPlace, you will also receive relevant bulletins from your newsletter author, announcements of web content, and information on new services provided by your newsletter author. We may also use your email address to contact you with questions about your subscription or service, or to remind you of your site password, if necessary.
 
-We may combine your application data and information about your usage of our Site with those of all or a particular group of our members, to prepare aggregated, non-identifiable profiles of our members and their activities on our Site. For example, we may track the number of our members who view certain pages or use certain features. Such information, and other aggregated information we derive from individual members' information, allows us to continue to grow and provide you with timely and useful information through our Site. 
+Your personal information is not shared with third parties other than as described above.
 
-With regard to our advertisers, we may provide them with non-identifiable, aggregated information about OptionsZone.com's Web site traffic. This information may also be disclosed in describing our web sites and services to prospective business partners and other third parties. However, this aggregated information about website traffic will not include personally-identifiable information such as registration, subscription, or Alliance application data or individual page-views. 
+## How Can You Be Sure That Your Information is Secure?
 
-ChangeWave also reserves the right to disclose information as required by law, or to the extent that we believe in good faith that such disclosure is legally required or necessary to protect others' rights or property.
+We take the security of your personal information quite seriously and are constantly improving our efforts to protect it. When requesting your order information online, we will provide you with a secure (SSL, encrypted) connection to transmit such data. Storage of your information for fulfillment purposes is likewise maintained on our secured servers. However, no electronic communication over the Internet can be guaranteed to be completely secured. Though we take great care to protect your personal information, InvestorPlace cannot warrant the security of any information that you submit to us, including your portfolios on PortfolioGrader.com, and you do so at your own risk. We do not share your credit card number with other parties, other than those involved with the administration of your subscription. We do not share other information except as described in this policy.
 
- **Registered Users and Subscribers.** OptionsZone uses registration and subscription information to maintain records about your use of InvestorPlace Media's services, for billing purposes, and for us to occasionally send you information on products and services that OptionsZone or InvestorPlace Media LLC, our parent company, offers. If you do not wish to receive this information you may "opt out" by sending an email stating such to service@optionszone.com.
+If any unauthorized use of your credit card occurs as a result of your credit card purchase from InvestorPlace, simply notify your credit card provider in accordance with its reporting rules and procedures. If, through no fault of your own, your credit card company finds credit card fraud as a result of your credit card purchase from InvestorPlace but does not waive your entire liability for unauthorized charges, we will reimburse you for the remaining liability, up to a maximum of fifty U.S. dollars ($50.00) per card. You can also take steps to secure your personal information. When you are finished at InvestorPlace.com, sign off the InvestorPlace site and close your browser window. This helps to ensure that someone else cannot pose as you online. This is especially important if you are at a computer that is accessible to others in a public place, such as a library, a school or your office.
 
-We may also occasionally provide the names and postal mailing addresses (but not e-mail addresses or telephone numbers) of InvestorPlace Media's Registered Users and Subscribers to third parties who offer products, services, or information which we believe may be of interest to you. If you do not want us to provide this information, you may "opt out" by sending an email stating such to service@optionszone.com.
+## How Can You Use the Information Found at InvestorPlace?
 
-Registered Users and Subscribers who have not been receiving information from OptionsZone, InvestorPlace Media LLC or third parties but now wish to receive such information may "opt in" by sending an email stating such to service@optionszone.com.
+We grant our users the right to download, store or output materials from our site for their personal use only. Materials may not be reproduced in ANY edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means, mechanical or electronic, without the express written permission of InvestorPlace Media, LLC is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on InvestorPlace may contact us at [InvestorPlace@InvestorPlace.com](mailto:InvestorPlace@InvestorPlace.com) or 1-800-219-8592. All contents of InvestorPlace and related sites are copyrighted by InvestorPlace Media, LLC.
 
- **How do OptionsZone's service providers use personally identifiable information?**
+## What Happens In the Event of a Merger or Acquisition?
 
-We have partnered with Strategy.com to provide portfolio tracking and registration services. When a Registered User or Subscriber signs up for their services, we will share names or other contact information necessary for Strategy.com to provide their services. Strategy.com has agreed not to use personally identifiable information except for the purpose of providing their services.
+InvestorPlace Media, LLC is a dynamic investment advisory service publisher. As our business continues to develop and grow, it is possible that we might sell or buy other publishers, advisory services, products or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that InvestorPlace Media, LLC, or a substantial part or all of its assets (including InvestorPlace.com) are acquired, customer information will of course be one of the transferred assets.
 
- **How does OptionsZone.com use "cookies"?**
+## What About Advertising?
 
-Using InvestorPlace Media's Web sites requires that you accept the use of "cookies," which are small files that our Web sites send to your Internet browser for storage on your computer's hard drive. Options Zone uses cookies to facilitate the login process for you across multiple applications on our sites, to measure traffic on our Web sites, and to "personalize" your experience as a Registered User or Subscriber, where applicable. When you register or subscribe, we assign a unique identifier to you, and we place a cookie on your computer which will remind our system of that identifier in other areas of our web sites, or the next time you visit one of InvestorPlace Media's Web sites. This cookie allows you to access all of your personalized areas of our web sites without having to log on multiple times. If you reject the cookie, you may still use our site, but you will be limited in some areas of our site. The cookies alone cannot be used to identify you. Instead, your computer is assigned an identifier and that identifier is tracked using the cookie. This identifier is meaningful only within our secure database system and your personalized version of Options Zone. Some of our business partners use cookies on our site (for example, advertisers), and we have no access to, control over, or responsibility or liability for these cookies. 
+InvestorPlace features several services that are co-sponsored by other websites. One example of such a feature is the quote service. Additionally, our site contains links to other web sites, including those of advertisers. We are not responsible for the claims or representations made by advertisers or sponsors. While these co-sponsored activities, banner ads and links originate on InvestorPlace, we do not operate them. For example, if you click on a link or banner advertisement, that click takes you out of InvestorPlace to either the service or ad provider’s site. These other sites may use cookies, collect data, or solicit personal information from you. Since we do not have control over the privacy practices or the content of these sites, we recommend that you check their privacy policies before giving out any personal information. InvestorPlace and InvestorPlace Media, LLC do not own, control, have access to or maintain any information collected by our co-sponsors or advertisers.
 
-We also use cookies to measure activity on our Web sites. Our plans for improvements and updates are based on which areas of our web sites are popular and which are not. Everything we learn from these measurements will be used to enrich your experience on our web sites. Options Zone does not use cookies for promotional or marketing purposes, nor is that information shared with third parties.
+We are committed to protecting and respecting your privacy. We hope this Privacy Statement has explained what we do with the personal information that we collect from you, our views and practices regarding personal information, and how they affect you as you use our features and services, and the choices you can make about the way your information is collected and used.
 
- **What happens to my information if I am no longer a Registered User or Subscriber?**
-
- **Former Registered Users and Subscribers.** Registration and subscription information is retained unless you ask us to delete it. You may request that your registration or subscription data be deleted from our system by sending a request to service@optionszone.com. 
-
-**How is your information protected?**
-
-We use industry-standard encryption methods to transmit data and credit card information submitted by Registered Users and Subscribers between your computer and ours across the Internet. We restrict access to any transactional portions of our web sites to computers running web browsers that support the Secure Socket Layer ("SSL") protocol. To use this protection technology, registered users and subscribers need to have an SSL-capable browser, such as Netscape Navigator 4.5 or higher, Microsoft Internet Explorer 4.5 or higher. These browsers will automatically activate the encryption technology when you log on to one of our web sites. 
-
-Please remember that you play a valuable part in data security as well. Your passwords to access our Web sites, which you select when you register or subscribe should never be shared with anyone and should be changed frequently. After you have finished using one or more of our web sites, you should log off and exit your browser so that no unauthorized persons can use our web sites under your name and account information. Remember that any information you voluntarily disclose online in any news or message postings, discussion groups or chat rooms may be collected and used by others without your permission. Furthermore, if you provide any information to parties who operate web sites that are linked to or from one or more of our web sites, different policies may apply to their collection, use or disclosure of your personal information. We encourage you to review these external sites' policies carefully before revealing any sensitive or personal information. 
-
-Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. We cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk. 
-
-**Restrictions on Access by Children**
-
-Federal law restricts our ability to collect information from children online. For this and other reasons, OptionsZone.com is open only to persons 18 years of age and over. All Registrants and Subscribers are required to certify that they are 18 years of age or over. If we learn that a Registered User or Subscriber is under age 18, his or her access to OptionsZone.com will be immediately terminated with no further obligation to InvestorPlace Media, and all identifiable information will be deleted. Misrepresenting age is a violation of our Usage Agreements and will not be tolerated. 
-
-**Submitting Information**
-
-Please remember that voluntary postings voluntary postings submitted through our Registered User or Subscriber web sites, are subject to widespread distribution. As set forth in InvestorPlace Media's Usage Agreements, Registered Users and Subscribers are solely responsible for the content of their postings and must follow acceptable standards of behavior when posting messages online. Voluntary postings by Registered Users and Subscribers become the property of InvestorPlace Media, and we cannot restrict disclosures of or otherwise guarantee the privacy of any information contained in such postings. 
-
-**USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY AND APPLICABLE USAGE AGREEMENT.**
-
-InvestorPlace Media reserves the right to change this policy at any time by posting a revised privacy policy on this web page. 
-
-You can send e-mail to us with any further questions at [service@OptionsZone.com](mailto:%20service@optionszone.com).
-
-### More By This Expert
-
-Michael Shulman
-
-[5 Short-Side Investment Rules](https://web.archive.org/learn-more/michael-shulman/5-rules-for-picking-profitable-short-side-investment-plays.html)
-
-What are the five rules for constructing great short-side positions? Read on to find out. 
-
-[10 Reasons to Use ETFs When Trading Options](https://web.archive.org/learn-more/michael-shulman/gallery/10-reasons-to-use-etfs.html)
-
-How do investors and traders cope with a market that has fallen more than 40% in just one year and survive until greener pastures return?
-
-[The Bad News Victims of 2008 are the   
-New Victors of 2009 ](https://web.archive.org/learn-more/michael-shulman/gallery/victims-2008-victors-2009.html)
-
-There were a lot of losing trades last year, but there were also winners for those willing to bet against conventional wisdom -- and this will be the case in 2009, too.
-
-[The 10 Dumbest Analyst Calls of 2008 ](https://web.archive.org/learn-more/michael-shulman/gallery/10-dumbest-calls.html)
-
-This collection of calls has been easier to write than _See Spot Run_. My only difficulty has been restraining myself in order to not be sued, punched out or have my tires slashed.
-
-[Don't Stop 'Banking' on a Bailout](https://web.archive.org/learn-more/michael-shulman/dont-stop-banking-on-bailout-financials.html)
-
-The Titanic is only just approaching the iceberg. And there aren't enough lifeboats handy for everyone who's going to need one.
+If you have any questions or concerns regarding this statement, you may contact: InvestorPlace Media, LLC, 700 Indian Springs Drive, Lancaster, PA 17601, 1-800-219-8592 [investorplace@investorplace.com](mailto:investorplace@investorplace.com)
