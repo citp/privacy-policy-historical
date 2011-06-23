@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206222040id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveleak.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623222032id_/http%3A//www.liveleak.com/privacy) for the most accurate reproduction.*
 
 # LiveLeak.com - Redefining the Media
 
 Liveleak Privacy Policy   
+---  
 | 
 
 Protecting the privacy of all of our users is an ongoing commitment of Liveleak.com services (hereinafter, "Liveleak"). This Privacy Policy, which applies to all websites and services provided under the Liveleak names and marks, explains how Liveleak treats personal information that we collect and receive. Personal information is information about you, not otherwise publicly available, that personally identifies you; personal information may include your name, location, e-mail address, birth date, or other identifying information. 
@@ -103,6 +104,4 @@ We at Liveleak take the online safety of children very seriously. Liveleak's web
 Your Questions or Suggestions Regarding this Privacy Policy.   
   
   
-If you have a privacy concern regarding any Liveleak website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should complete a feedback form or write to us by email at staff@Liveleak.com.
-
-Policy updated and effective date: Mar 10, 2009
+If you have a privacy concern regarding any Liveleak website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should [contact us here](http://www.liveleak.com/contact_us)
