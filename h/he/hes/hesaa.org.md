@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hesaa.org privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210121913id_/http%3A//www.hesaa.org/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hesaa.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623040547id_/http%3A//www.hesaa.org/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # HESAA - Privacy Policy
 
