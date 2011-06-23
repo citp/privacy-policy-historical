@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424220041id_/http%3A//www.kidzworld.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623040726id_/http%3A//www.kidzworld.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Safe Website For kids - Kidzworld
 
-Kidzworld is a [safe website for kids](https://web.archive.org/corporate/safety "the safest website for children"). We have developed this policy statement to reflect our **_commitment to kids safety, security and privacy_**. The kids on Kidzworld have access to the [**_safest kids website_**](https://web.archive.org/web/20100424220041id_/http%3A//www.kidzworld.com/corporate/safety); however, we do try to educate them to be aware of what they are doing and to take steps to ensure their own safety.
+Established in 2001, Kidzworld is the **_first[safe](http://safe.kidzworld.com/) social network for kids_**. We have developed this policy statement to reflect our **commitment to[kids safety](http://safe.kidzworld.com/), security and privacy**. The kids on [Kidzworld](http://www.kidzworld.com/) have access to the **safest[kids social network](https://web.archive.org/kwzone)**; however, we do try to educate them to be aware of what they are doing and to take steps to ensure their own safety. 
 
 ## Children's Online Privacy Protection Act
 
-Kidzworld is a leading [**_safe website for kids_**](https://web.archive.org/web/20100424220041id_/http%3A//www.kidzworld.com/corporate/safety). It was established in 1999, by Allen W. Achilles as a direct result of his concern for the safety and security of his own children online. Since that time, Allen Achilles has been an advocate for the safety and security of kids online is protected. COPPA (Children’s Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children 12 years and younger. The Act spells out what website operators, need to include in privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators, have to protect and secure children’s privacy and safety online. Kidzworld is a **_safe website for kids_** and respects the privacy of it users, who are kids. 
+Kidzworld is a leading [**_safe website for kids_**](https://web.archive.org/web/20110623040726id_/http%3A//www.kidzworld.com/corporate/safety). It was established in 2001, by Allen W. Achilles as a direct result of his concern for the safety and security of his own children online. Since that time, Allen Achilles has been a tireless advocate for the safety and security of kids online. COPPA (Children’s Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children 12 years and younger. The Act spells out what website operators, need to include in privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators, have to protect and secure children’s privacy and safety online. Kidzworld is a [**_safe website for kids_**](https://web.archive.org/web/20110623040726id_/http%3A//www.kidzworld.com/corporate/safety) and respects the privacy of it users, kids primarily between the ages of 9 - 14. 
 
-COPPA applies to individual identifiable information about a child (12 or younger) that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact a kid. The Act also applies to other types of information, such as hobbies, interests and user information gathered through the use of cookies and other methods of tracking, when they are tied to individually identifiable information.
+COPPA applies to individual identifiable information about a child (12 or younger) that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact a kid. The Act also applies to other types of information, such as hobbies, interests and user information gathered through the use of cookies and other methods of tracking, when they are tied to individually identifiable information. 
 
-Kidzworld and founder Allen Achilles are tireless advocates of **_Internet privacy_**. As the only **_fully moderated website for kids_** , we take extraordinary measures to ensure and secure the **_privacy and safety of our kids_**.
+Kidzworld and founder Allen Achilles are tireless advocates of **_Internet privacy_**. As the first and only **_[fully moderated website for kids](https://web.archive.org/kwzone)_** , we take extraordinary measures to ensure and secure the **_privacy and safety of our kids_**. 
 
 ## Kidzworld User Registration and Membership
 
-Our registration form requires kids to provide us with contact information: first name, last initial, email address and demographic information (age, gender, state/province). This information is used to get in touch with users if necessary. For kids 12 and under we collect only their birthdate, location, gender and parent/guardians email address. We send the parent/guardian a confirmation email to which they must respond in order to activate the childs' account. The parents email address is retained in our database for future contact.
+Our registration form requires some kids to provide us with contact information: first name, last initial, email address and demographic information (age, gender, and state/province). This information is used to get in touch with users if necessary. For kids over 13 years old, we send their parent/guardian an email notifying them that they have registered at Kidzworld and provided us with personally identifiable information. For kids 12 and under we collect only their birthdate, location, gender and parent/guardians email address. We send the parent/guardian a confirmation email to which they must respond in order to activate the child's account. The parents email address is retained in our database for future contact. 
 
-We do not disclose the kids personal information to anyone, at any time, for any reason. Parents or guardians can review their kid's personal information once we receive verifiable identification. Verifiable consent can be given by one of the following methods: following the link provided in the confirmation email, provide a signed form via postal mail or facsimile or even giving us a call. Upon request, parents may delete or prohibit the further collection of their child's personal information by contacting us at **privacy@kidzworld.com** and clearly stating the nature of their inquiry. Any contact made with our member kids is done so through the facilities of Kidzworld.
+We do not disclose any personal information to anyone, at any time, for any reason. However, in the event of the sale or merger of the company; Kidzworld.com, Inc., the personal information collected by Kidzworld about its' user in the normal course of its business will be shared with the partner company or successor company upon completion of the subject acquisition or merger. Parents or guardians can review their kid's personal information once we receive verifiable identification. Verifiable consent can be given by one of the following methods: following the link provided in the confirmation email, provide a signed form via postal mail or facsimile or even giving us a call. Upon request, parents may delete or prohibit the further collection of their child's personal information by contacting us at privacy@kidzworld.com and clearly state the nature of their inquiry. Any contact made with our member kids is done so through the facilities of Kidzworld.
 
-Another way that Kidzworld accesses information about kids is through IP addresses. An IP address is something that is unique to your computer, and is used to identify and collect broad demographic information (like age, gender, regional information and generic interests). As a **_safe website for kids_** , tools such as these can be used positively and in the sole interest of protecting the **_privacy and safety of all kids online_**.
+Another way that Kidzworld accesses information about kids is through IP addresses. An IP address is something that is unique to your computer, and is used to identify and collect broad demographic information (like age, gender, regional information and generic interests). As a **_[safe social network for kids](https://web.archive.org/kwzone)_** , tools such as these can be used positively and in the sole interest of protecting the **_privacy and safety of all kids online_**.
 
 Kidzworld also uses a form for kids to request information, products and services. We collect kids unique identifiers (like their Kidzworld on-screen name) to fulfill these requests.
 
 Kidzworld hosts regular contests in which we ask kids for contact information (like their e-mail address). This information is soley used to contact winners. Contact information collected for contests is deleted once winners have been confirmed. Participation in contests is open to all kids, registered or not.
 
-## The KW Zone - Social Networking at Kidzworld
+## The KW Zone - Safe Social Networking at Kidzworld
 
-The KW Zone is a unique component of the Kidzworld experience. In The KW Zone kids can create an online profile where they can design backgrounds, upload pictures and videos, make friends and interact with other kids with similar interests. All content site wide is strictly **_moderated_** , but kids are still cautioned that anything they upload (and are subsequently approved) can be viewable across the web. We recommended that the kids only upload images and information that they are willing to share with other kids.
+In The KW Zone kids can create an online profile where they can design backgrounds, upload pictures and videos, make friends and interact with other kids with similar interests. All content is fully **moderated** , but kids are still cautioned that anything they upload (and are subsequently approved) may be viewable across the web. We recommended that the kids only upload images and information that they are willing to share with other kids. 
 
 ## Chat Rooms and Bulletin Boards
 
@@ -40,26 +40,32 @@ Kidzworld offers numerous public domain **_e-cards_** for kids to send to family
 
 ## Outbound Links
 
-## Third Party Advertising
+Our site contains links to other sites. Although Kidzworld is not responsible for the privacy practices or the content of other sites, we screen all sites accessible from Kidzworld, as a **[safe website for kids](http://safe.kidzworld.com/)** , to ensure that they comply with our standards. When a kid clicks on an outbound link, they are first directed to a page informing them that they are about to leave Kidzworld.
+
+### Email communications
+
+Occasionally [Kidzworld](https://web.archive.org/) may communicate with the kids by email. Kidzworld allows kids to opt-out of receiving communications from us in the registration form. If a user wishes to opt-out after completing the registration form, they can do so by contacting us at privacy@kidzworld.com or by clicking on the Unsubscribe link in the next newsletter.
+
+### Advertising
 
 Advertising on Kidzworld is provided by Gorilla Nation, using the Dart/DoubleClick ad serving platform. Information about your visit to Kidzworld, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to control the delivery of ads to you on this site.
 
-## Third Party Cookies
+### Third Party Cookies
 
 In the course of serving advertising, our third-party advertiser may place or recognize a unique cookie on your browser. This does not have any inmpact on the kids safety on the website.
 
-## Security
+### Security
 
-Kidzworld is a **_safe website for kids_**. It has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords and personal information is collected and stored on our secure servers. Paper records of data and financial transactions are stored in a locked facility. Information will only be divulged to law enforcement agencies upon subpoena. However, in the event of the sale or merger of the company, Kidzworld.com, Inc., the personal information collected by Kidzworld about its’ user in the normal course of its business will be shared with the partner company or successor company upon completion of the subject acquisition or merger.
+Kidzworld is a **_[safe social network kids](https://web.archive.org/kwzone)_**. It has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords and personal information is collected and stored on our secure servers. Paper records of data and financial transactions are stored in a locked facility. Information will only be divulged to law enforcement agencies upon subpoena. However, in the event of the sale or merger of the company, Kidzworld.com, Inc., the personal information collected by Kidzworld about its’ user in the normal course of its business will be shared with the partner company or successor company upon completion of the subject acquisition or merger.
 
-## Contacting Us and account cancellation
+### Contacting Us and Account Cancellation
 
 If you wish to cancel your account or have any questions or comments about our privacy statement, our practices or your dealings with Kidzworld, you can contact us at **privacy@kidzworld.com** , or by snailmail at: 
 
 **Kidzworld.com, Inc.  
 Att: Allen Achilles  
-Ste 301, 470 Granville St  
+Suite 202, 1937 W 4th Ave  
 Vancouver, BC  
-Canada , V6C 1V5**
+Canada , V6J 1M7**
 
-**Toll-free:** 1-800-668-0071; **General:** 1-604-688-2010; **Fax:** 1-604-688-2015
+**General:** 1-604-688-2010; **Fax:** 1-604-688-2015
