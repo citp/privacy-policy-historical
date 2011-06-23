@@ -1,119 +1,71 @@
-> *The following text is extracted and transformed from the livescience.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514222634id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescience.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623043408id_/http%3A//www.livescience.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Imaginova: About Us: History
+# LiveScience | Science, Technology, Health & Environmental News
 
-**
+Welcome to LiveScience.com!
 
-Privacy Statement
+LiveScience.com has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. LiveScience.com has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through LiveScience.com and not to information collected offline or to information you may provide to any third-party sites to which LiveScience.com may link, except as expressly provided herein. 
 
-**
+### Information We Collect
 
-Welcome to the Imaginova Corp. ("Imaginova") web properties, which include Space.com, StarryNight.com, LiveScience.com, SpaceNews.com, Aviation.com and Imaginova.com (the "Site(s)") all of which are owned and operated by Imaginova. Imaginova has created this Privacy Statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Sites. This Statement applies only to information collected through the Sites and not to information collected offline or through other web sites owned or operated by Imaginova. 
+There are two kinds of information that LiveScience.com can obtain about you: "Anonymous Information" and "Personally Identifiable Information." 
 
-**
+"Anonymous Information" consists of non-personally-identifiable data, such as your Internet Protocol ("IP") address or domain, or information about your usage on LiveScience.com that is used for administrative purposes only. For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We may collect our users' IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf. 
 
-Information We Collect
+We may also use the information linked to IP addresses to ban users who violate our Terms and Conditions of use. 
 
-**
+"Personally Identifiable Information" is any information that personally identifies you, such as your name, street address, email address, or telephone number. We collect such information when, for example, you enter a contest, subscribe to our email newsletter, and participate in other interactive online activities such as forums. 
 
-There are two kinds of information web sites can obtain about you: "Anonymous Information" and "Personally Identifiable Information". 
+When we collect Personally Identifiable Information from you, you will have the opportunity to "opt in" to receive email or other digital communications from us and/or our business partners. 
 
-"Anonymous Information" is aggregate data that web sites use to administer their sites. For example, an IP address is unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We use your IP address to help diagnose problems with our servers and to administer our Sites. Your IP address is also used to help identify you and your shopping cart. 
+If you have submitted your personal information to LiveScience.com, you may correct, amend or delete the Personally Identifiable Information maintained on file about you if it is incorrect. 
 
-Our Sites also use cookies to keep track of your shopping cart and to make sure you do not see the same advertisements repeatedly. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit one or more of our Sites. 
+If you are a registered Community member of LiveScience.com, you may manage your membership information as well as your subscriptions. Simply login to your community account and click on "Account Options." Click on the tab marked "Account" to manage your password and email address; click on the tab marked "Subscriptions" to manage your newsletter subscriptions and Click on the tab, "Profile" to edit your public profile. 
 
-Some of the advertisements appearing on the Sites are delivered by third parties, such as Atlas DMT. and DoubleClick. In the course of serving advertisements to the Sites, Atlas DMT, Inc. and DoubleClick may place or recognize a unique "cookie" in your browser's cache, and may use anonymous information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. If you would like to learn more about Atlas DMT's information gathering practices, or if you would like to "opt-out" of having a unique cookie placed on your hard drive by Atlas DMT, please click _here_. If you would like more information about DoubleClick's information gathering practices, and to know your choices about not having this information used by DoubleClick, please click _here_. 
+In all cases, we will only use your information as permitted by law. Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases. 
 
-"Personally Identifiable Information" is any information that personally identifies you, such as your name, email address or your telephone number. Sometimes this personal information is needed when you place an order, subscribe to our email newsletter, or when you contact us. In addition, we may ask you to provide us with personal information on a voluntary basis in certain areas of our Sites. 
+### Use of "Cookies"
 
-Personally Identifiable Information collected through our Sites may be used for purposes, including administration of the Sites, order processing and communications with you. For example, some of our Sites use an order form for customers to request information, products, and services. We collect visitor's contact information (like email addresses) and financial information (like account or credit card numbers). Customer contact information may be used to get in touch with the visitor when necessary. Credit card information that is collected is used to bill the user for products and services. Contact information from the order form is also used to send orders and information about Imaginova and its Sites to our customers. 
+LiveScience.com uses "cookies" - data that is transferred from LiveScience.com to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit LiveScience.com. Some of the advertisements appearing on LiveScience.com are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique "cookie" in your browser's cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick's privacy policy, [please click here](http://www.doubleclick.com/privacy/index.aspx). If you would like to "opt out" of having a unique cookie placed on your hard drive by DoubleClick, [please click here](http://www.doubleclick.com/privacy/dart_adserving.aspx). 
 
-We may use this information to maintain your account and send you announcements of new Site features, special offers and promotional material that we think may be of interest to you. In all cases, however, we will only use your information as permitted by law. We may also disclose Personally Identifiable Information if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases. 
+### Disclosure of Information through Business Transfers
 
-**
+As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or all of LiveScience.com's assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets. 
 
-Disclosure of Information Through Business Transfers
+### Third Party Web Sites
 
-**
+LiveScience.com contains links to third-party Web sites not owned or controlled by LiveScience.com. LiveScience.com is not responsible for the privacy practices or the content of such third-party Web sites. Inclusion of any linked Web site on LiveScience.com does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between LiveScience.com and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site via a link from one of our Sites, we encourage you to consult that Web site's privacy policy before providing any personal information, and whenever interacting with any such Web site. 
 
-As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or substantially all of Imaginova's assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
+### Public Forums
 
-**
+LiveScience.com may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users. Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of LiveScience.com in accordance with our Terms and Conditions, and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind. 
 
-Third Party Web Sites
+### Security
 
-**
+LiveScience.com has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email, like most, if not all, unencrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, LiveScience.com cannot ensure or warrant the security of any information you transmit to us. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived. 
 
-The Sites contain links to third party web sites not owned or controlled by Imaginova. Imaginova is not responsible for the privacy practices or the content of such third party web sites. Inclusion of any linked web site on any of our Sites does not imply or express an approval or endorsement of the linked web site by us, or of any of the content, opinions, products or services provided on these web sites. Even if an affiliation exists between Imaginova and a third-party web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a web site that is linked to from one of our Sites, we encourage you to consult that web site's privacy policy before providing any personal information and whenever interacting with any web site.
+### Policy Regarding Minors
 
-**
+Children should always ask parents before providing any personal information online. No information should be submitted to or posted on LiveScience.com by any minor (a person under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any Personally Identifiable Information about minors, regardless of its source, nor is this information knowingly used by LiveScience.com for any marketing or promotional purposes. Minors are not eligible to participate in contests. 
 
-Public Forums
+LiveScience.com abides by the Children's Online Privacy Protection Act. In the event that we learn that we have collected information from any child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible. If you believe that any Site has collected any information about anyone under 13, please contact LiveScience.com's Site Administrator via postal mail or email at one of the addresses listed below. 
 
-**
+### Limitation of Liability
 
-Our Sites may makes chat rooms, forums, message boards, and/or newsgroups available to users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+LiveScience.com PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES "AS IS" WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT LiveScience.com SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH LiveScience.com FORUMS IS DONE AT YOUR OWN RISK, AND THAT LiveScience.com IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. LiveScience.com SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK. 
 
-**
+Consent and Modifications to this Privacy Statement 
 
-Security
+LiveScience.com is controlled, operated and administered entirely within the United States. By using LiveScience.com and/or participating in the activities of LiveScience.com Community, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through our site. LiveScience.com may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it. 
 
-**
+### Contacting LiveScience.com
 
-Our Sites have reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email, like most, if not all, non-encrypted Internet communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, Imaginova cannot ensure or warrant the security of any information you transmit to us or through this our Sites. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived. 
+If you have any questions about this Privacy Statement you may contact us at: 
 
-**
-
-Choice/Opt-Out
-
-**
-
-Our Sites provide users the opportunity to opt-out of receiving communications from us and/or our partners at the point where we request information about the visitor. If you do not opt-out at that time, but later decide that you do not wish to receive future communications from us, you may remove your information from our database and from our mailing list by entering the exact email address where you are currently receiving email from Imaginova.
-
-**
-
-Correct/Update
-
-**
-
-You have a right to know about the Personally Identifiable Information that Imaginova holds about you, including the right to correct, amend or delete the information that Imaginova has on file if it is incorrect. Users may change or modify such information by emailing [newthoughts@imaginova.com](mailto:newthoughts@imaginova.com) or by visiting http://www.space.com/php/email/unsubscribe.php.
-
-**
-
-Limitation of Liability
-
-**
-
-IMAGINOVA PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS THESE WEBSITES "AS IS" WITHOUT WARRANTIES OF ANY KIND. YOU ALSO AGREE THAT IMAGINOVA SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, AND THAT YOUR USE OF ANY OF OUR FORUMS AND ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH THE IMAGINOVA SITES' FORUMS IS DONE AT YOUR OWN RISK. FURTHER, IMAGINOVA SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ATLAS DMT. AND/OR DOUBLECLICK. 
-
-**
-
-Consent and Modifications to this Privacy Statement
-
-**
-
-The Sites are controlled, operated and administered entirely within the United States. By using this the Sites, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through this any of our Sites. Imaginova may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.
-
-**
-
-Contacting Imaginova
-
-**
-
-If you have any questions about this Privacy Statement, the practices of this our Sites, or your dealings with this our Sites, you can contact us at: 
-
-Site Administrator
-
-Imaginova Corp.
-
-470 Park Avenue South, 9th Floor
-
-New York, New York 10016
-
-[sysadmin@imaginova.com](mailto:sysadmin@imaginova.com)
-
-_
-
-This Privacy Statement is effective as of October 15, 2004.
-
-_
+Site Administrator  
+LiveScience.com  
+470 Park Avenue South, 9th Floor  
+New York, NY 10016  
+Fax:(212)703-5801  
+[Click here to contact us.](https://web.archive.org/contact_us.html)  
+_This Privacy Policy is effective as of October 23,2009 and supersedes all earlier versions of our Privacy Policy_
