@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206041348id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023033id_/http%3A//www.burtsbees.com/u/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security - Burt's Bees
 
@@ -6,7 +6,7 @@ When you provide us with information through Burtsbees.com (the "Site"), we resp
 
 Please note that this Privacy Policy governs only information provided by the Site. It does not govern any other information or communications that may reference Burt's Bees, e.g., communications from retailers.
 
-This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that you may provide via this Site. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. 
+This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that you may provide via this Site. Please be sure to read this entire Privacy Policy before using or submitting information to this Site.
 
 ## What Customer information does Burtsbees.com collect?
 
