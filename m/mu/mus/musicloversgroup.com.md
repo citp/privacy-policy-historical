@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the musicloversgroup.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125023217id_/http%3A//www.musicloversgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicloversgroup.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623234050id_/http%3A//www.musicloversgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Music Videos and Lyrics - Music Lovers Group
+# Privacy Policy | Music Lyrics and Videos - Music Lovers Group
+
+Advertisements  
+
 
 At **Music Lovers Group** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by MusicLoversGroup.com and how it is used.
 
