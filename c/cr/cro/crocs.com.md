@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929124233id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623205207id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Crocs | Privacy & Security Policy
 
-**Effective Date of this version: May 18, 2009**
+**Effective Date of this version: January 1, 2011**
 
   
-Thank you for visiting crocs.com, including the Crocs online store; (collectively, the "Website"). This Website is operated by Crocs, Inc. ("Crocs"), located at 6273 Monarch Park Place, Niwot, CO 80503. Your access to and use of this Website is subject to the following Privacy Policy ("Privacy Policy") and all applicable laws. The terms "Crocs," "we," "us" and "our" when used in this Privacy Policy mean Crocs Inc. The terms "you" and "your," when used in this Privacy Policy, mean any user of this Website.
+Thank you for visiting crocs.com, including the Crocs online store; (collectively, the "Website"). This Website is operated by Crocs Retail, Inc. ("Crocs"), located at 6273 Monarch Park Place, Niwot, CO 80503. Your access to and use of this Website is subject to the following Privacy Policy ("Privacy Policy") and all applicable laws. The terms "Crocs," "we," "us" and "our" when used in this Privacy Policy mean Crocs Retail, Inc. The terms "you" and "your," when used in this Privacy Policy, mean any user of this Website.
 
   
 We understand your concerns about privacy and we want to assure you that Crocs takes privacy matters seriously. Therefore, we are providing this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Privacy Policy, you may direct them to privacy@crocs.com.
@@ -26,7 +26,7 @@ Information You Volunteer.  We collect the PII you knowingly and voluntarily pr
 Information Sent to Us by Your Web Browser.  We collect information that is sent to us automatically by your web browser.  This information does not identify you personally, and typically includes your IP address, the address of the web page you were visiting when you accessed our Website, the name of your operating system, the name and version of your browser, and the date and time of your visit.  The information we receive depends on the settings on your web browser.  Please check your browser if you want to learn what information your browser sends or how to change your settings.  We use this information to improve the content and functionality of this Website, and to better understand and serve our visitors.
 
   
-Information Collected Using “Cookies” and Other Web Technologies.  "Cookies" are small pieces of information that a website will send to and store on your computer's hard drive. Most browsers automatically accept cookies, but you may be able to configure your browser to prevent the use of cookies. Crocs may use cookies to make our services available or easier for you to use. For instance, we may use cookies to store preferences or to store items in your shopping cart between visits. We may also store PII or AII in cookies to improve our services and facilitate your use of the Website, or to enable Crocs or our third party advertising partners to display targeted advertisements which we think would be of interest to you. Acceptance of cookies is not a requirement to browse our Website, however certain features and services may require the use of cookies to work properly, including our shopping cart and check out features. If you would like to place an order on our Website without the use of cookies, please email one of our Customer Service Specialists at customerservice@crocs.com.
+Information Collected Using “Cookies” and Other Web Technologies.  "Cookies" are small pieces of information that a website will send to and store on your computer's hard drive. Most browsers automatically accept cookies, but you may be able to configure your browser to prevent the use of cookies. Crocs may use cookies to make our services available or easier for you to use. For instance, we may use cookies to store preferences or to store items in your shopping cart between visits. We may also store PII or AII in cookies to improve our services and facilitate your use of the Website, or to enable Crocs or our third party advertising partners to display targeted advertisements which we think would be of interest to you. Acceptance of cookies is not a requirement to browse our Website, however certain features and services may require the use of cookies to work properly, including our shopping cart and check out features. If you would like to place an order on our Website without the use of cookies, please [email Customer Service](http://www.crocs.com/on/demandware.store/Sites-crocs_us-Site/default/CustomerService-ContactUs).
 
   
 In addition to cookies, we may also use “web beacons” and other web technologies to manage our Website and email.  A web beacon is a small bit of computer code.  Web beacons may be used to count how many people visit a web page or tell us whether an email has been opened.  We may link the information we collect using web beacons and other web technologies to information that identifies you personally.  
@@ -108,7 +108,7 @@ Need more help? You can refer to our Help Center or email one of our friendly Cu
   
 You may also contact us at:  
 Privacy Manager  
-Crocs, Inc.  
+Crocs Retail, Inc.  
 6328 Monarch Park Place, Niwot, CO 80503
 
 (303) 848-7000
