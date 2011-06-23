@@ -1,85 +1,116 @@
-> *The following text is extracted and transformed from the fearnet.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226040532id_/http%3A//www.fearnet.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearnet.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623220904id_/http%3A//www.fearnet.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - FEARnet
 
-Welcome to Fearnet.com (Website), a service of Horror Entertainment, LLC ("FEARnet™," "we," our, or "us"). This privacy statement discloses the privacy practices for this Website only, including an explanation of:
+**PRIVACY POLICY** Effective Date: March 28, 2011
 
-  * the categories of personally identifiable information about you that may be collected; 
-  * how the information is used;
-  * the categories of persons or entities with whom the information may be shared; 
-  * the choices are available to you regarding collection, use, and distribution of the information; 
-  * how you can opt in or out of FEARnet promotional e-mail; 
-  * the kind of security procedures that are in place to protect the loss, misuse or alteration of information; 
-  * how you can review and request changes to the information; 
-  * how we notify visitors and users of this Website of changes to this privacy statement; and 
-  * the privacy policies that apply to subscribers to each FEARnet product and service. 
+This privacy policy ("Privacy Policy") applies to the web sites, web pages, interactive features, applications, widgets, blogs, social networks and social network "tabs" and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology (collectively, "Sites"). The Sites are offered by Horror Entertainment, LLC and its subsidiaries or affiliated companies, and other companies associated with Horror Entertainment, LCC (collectively, "FEARnet," or "we", "us", "our"). This Privacy Policy applies only to information collected by the Sites that post it and does not apply to information collected offline or otherwise outside of the Sites, unless specifically stated. 
+
+This Privacy Policy explains how FEARnet collects, uses and shares information when you access or use the Sites. Please read this Privacy Policy carefully. In addition, please review our Terms of Use, which governs your use of the Sites and any content you submit to the Sites. 
+
+**TABLE OF CONTENTS**
+
+**1\. INFORMATION WE COLLECT ON OUR SITES  
+**
+
+**
+  * Information You Provide To Us 
+  * Information We Collect Automatically As You Access and Use the Sites
+**
 
 
+**2\. HOW WE USE INFORMATION COLLECTED THROUGH OUR SITES  
+3\. WITH WHOM WE MAY SHARE INFORMATION   
 
-Questions regarding this privacy statement should be directed to FEARnet through one of the [Contact Us](https://web.archive.org/contact) forms you will find on the Website, or by sending a notice by U.S. Mail to FEARnet, 5750 Wilshire Boulevard, Suite 530, Los Angeles, CA 90036, Attention: FEARnet.com Privacy Feedback. 
 
-### Your California Privacy Rights
+  * Third Parties Providing Services On Our Behalf
+  * When You Agree To Have Your Personal Information Shared 
+  * Sweepstakes, Contests and Promotions 
+  * Business Transfers
+  * Legal Protections and Law Enforcement
 
-The following only applies to California residents.
+4\. INFORMATION YOU DISCLOSE PUBLICLY ON OUR SITES  
+5\. INFORMATION WE RECEIVE FROM THIRD PARTIES   
+6\. UPDATING YOUR INFORMATION AND OPTING OUT FROM EMAIL   
+7\. SECURITY   
+8\. LINKS TO OTHER WEB SITES AND FEARNET CONTENT FOUND ON OTHER WEB SITES   
+9\. CONSENT TO TRANSFER   
+10\. NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY; PRIVACY QUESTIONS **
 
-We may from time to time share your personally identifiable information with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties for their direct marketing purposes.
+**1\. INFORMATION WE COLLECT ON OUR SITES**
 
-If you do not want us to share your personally identifiable information with such third parties for their direct marketing purposes, please let us know by mail at 5750 Wilshire Boulevard, Suite 530, Los Angeles, CA 90036 Attention: FEARnet Ð Opt-Out. Your opt-out request will be processed within 30 days of the date on which we receive it.
+**Information You Provide To Us**
 
-For more information on how your personally identifiable information is collected and used, please read the remainder of this privacy statement.
+The Sites may ask you to provide information that could reasonably be used to contact you or to identify you personally (such as first and last name, e-mail address, telephone number, mobile phone number, or home address ("Personal Information")). For example, FEARnet may collect Personal Information when you register to receive newsletters, create user accounts, send questions or comments to us, or otherwise communicate or interact with us. The Sites may also ask you to provide other information about yourself, such as demographic information (gender, zip code, age, etc.) or certain information about your preferences and interests. If we combine demographic or other information we collect about you with Personal Information about you, we will treat the combined information as Personal Information.
 
-### Information Collection and Use
+Please note that information submitted to the Sites via a "contact us" or other similar function may not receive a response. We will not use the information provided to contact you for marketing purposes unrelated to your request unless you agree otherwise. 
 
-A special note about children: FEARnet does not knowingly collect personally identifiable information from children under the age of thirteen, except for the limited circumstances described below, and does not wish to collect any such information. Federal law requires website operators who collect personal information from children under the age of thirteen to first get parental consent. Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. In the event a child under the age of 13 submits a question to us on the Website and identifies his or her age, we may use the child's e-mail address for the sole purpose of responding to the child's question on a one-time-only basis. However, we will not use the child's e-mail address to re-contact the child and we will delete it from our records once we have responded. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
+**Information We Collect Automatically As You Access and Use the Sites**
 
-### What categories of personally identifiable information do we collect?
+Whenever you visit or interact with the Sites or FEARnet content, FEARnet, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Sites are accessed and used ("Usage Information"). Usage Information may include, in part, browser type, operating system, the page served, the time, and the preceding page views. Usage Information is generally non-identifying, but if FEARnet associates it with you as a specific and identifiable person, FEARnet treats it as Personal Information.
 
-The information collected by FEARnet falls into two categories: (1) information voluntarily supplied by visitors to and users of the Website and (2) tracking information recorded as visitors and users navigate through the Website. Some of this information is personally identifiable information, but much of it is not. 
+FEARnet also automatically collects your IP address or other unique identifier ("Device Identifier") for the computer, mobile device, technology or other device (collectively, "Device") you use to access the Sites. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. Some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the Device used to access the Sites. 
 
-To make use of some features on our Website visitors and users need to register and provide certain information as part of the registration process. We may ask, for example, for your name, e-mail address, street address, zip code. We might also request information about your computer, for example, in order to provide you with services and features. In addition, we may ask you for information about your interests in television viewing and the like. The information you supply will help us to offer you more personalized features, complete the function of the Website, and tailor our Website to your interests to make it more useful to you. Our systems will remember some of this information the next time you log in and use our Website, but you can always review and change your information by following the instructions below under Changes to Information in this privacy statement. 
+The technologies used on the Sites to collect Usage Information, including Device Identifiers, include: 
 
-Completing the registration process and supplying information to us through the Website is entirely voluntary. But if you choose not to register and supply the requested information, we may be unable to provide you with the products and services we make available to other registered users, such as the ability to order and purchase products and services, or participate in contests, sweepstakes and other promotions through the Website. 
+**Cookies.** A cookie is a data file placed on a Device when it is used to visit the Sites. A Flash cookie is a data file placed on a Device via the Adobe Flash plug-in that may be built-into or downloaded by you to your Device. Cookies and Flash Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. If you choose to disable cookies or Flash cookies on your Device, some features of the Sites may not function properly.
 
-When you submit any personally identifiable information through this Website, FEARnet (i) will use the information for the purposes described at the time you submit it (for example, your name, address, telephone number, and e-mail address provided while ordering one of our products or services will be used in connection with the processing and fulfillment of your order) and (ii) may also use the information to contact you to make you aware of other products and services of interest. You may opt-out of receiving these communications by following the opt-out procedures set forth below. Of course, if you want to remain completely anonymous, you're still free to take advantage of the publicly available content on our Website without registration. 
+**Web Beacons.** Small graphic images or other web programming code called web beacons, (also known as "1x1 GIFs" or "clear GIFs") may be included in our Sites and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Sites, to monitor how users navigate the Sites, to count how many e-mails that were sent were actually opened or to determine whether content sent was actually viewed.
 
-### What categories of persons or entities do we share personally identifiable information with?
+**Embedded Scripts.** An embedded script is programming code that is designed to collect information about your interactions with the Sites, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third party service provider, is active only while you are connected to the Sites, and is deactivated or deleted thereafter. 
 
-We consider the personally identifiable information contained in our business records to be confidential. We may sometimes disclose personally identifiable information about you to our affiliates, subsidiaries, sponsors, partners, advertisers or other third parties who perform certain services on our behalf. For example, when you use certain functions on this Website you may notice that the website actually collecting or processing the information may be other than this Website. We may also share your personally identifiable information with third parties in order to provide you with special offers and opportunities that we think may be of interest to you. Note that although we advise everyone who receives personally identifiable information from us as to the proper use of such information, we do not control, nor can we be responsible for, their information-handling practices. We reserve the right to disclose any personally identifiable or non-personally identifiable information if we are required to do so by law or if we reasonably believe that such action is necessary in order to: (i) fulfill a government request; (ii) conform with the requirements of the law or to comply with legal process served on us; (iii) to protect or defend our legal rights or property, the Website, or other users of the Website; or (iv) in an emergency to protect the health and safety of the Website's users or the general public.
+**2\. HOW WE USE INFORMATION COLLECTED THROUGH OUR SITES**
 
-As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all or substantially all of our assets, personally identifiable information, non-personally identifiable information, and any other information that we have collected about the users of this Website will be transferred to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
+FEARnet may use information collected through our Sites, including Personal Information, in order to: (1) allow you to participate in features we offer on the Sites; (2) process your registration, including, at times, verifying that the e-mail address you provide is active and valid; (3) provide you with information that you have requested or agreed to receive; (4) tailor content, advertisements, and offers we serve you; (5) improve the Sites and for internal business purposes; (6) contact you with regard to your use of the Sites, your account, and, in our discretion, changes to any FEARnet policy; and (7) for purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
 
-### What do we do to personalize your use of this Website?
+If you use the Sites to send a friend an invitation to participate in the Sites or send other FEARnet- related communications, the information you provide (typically, names and e-mail addresses) is used on a one-time basis to facilitate the communication on your behalf, and is not used for any other marketing purposes unless we obtain consent from that person.
 
-To help make our Website more responsive to the needs of our users and visitors, we use a standard feature of browser software called a "cookie." We use cookies to help us tailor our Website to your needs, to deliver a better, more personalized service, and to remember certain choices you've made so you don't have to re-enter them. 
+**3\. WITH WHOM WE MAY SHARE INFORMATION**
 
-We use two kinds of cookies: (i) temporary or "session"-based cookies that contain certain information about a user's or visitor's use of our Website at a particular time and (ii) "persistent" cookies that contain certain account-related information about a registered user's use of our Website. Session-based cookies are automatically disabled or deleted when a user of or visitor to our Website closes his or her browser software at the end of session. Persistent cookies remain stored on a registered user's computer system until he or she disables or deletes them. You may read about enabling, disabling, and deleting cookies at www.FEARnet.com at any time by visiting the About Cookies page or by searching for "cookie" and clicking on the link for the topic you wish to read. Of course, if you set your browser not to accept cookies or you delete them, you may not be able to take advantage of the personalized features enjoyed by other visitors to and users of our Website. 
+FEARnet does not share your Personal Information with third parties for their marketing purposes unless you opt-in to such sharing at the time you provide your Personal Information. We may share non-Personal Information, such as aggregate user statistics, demographic information, and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
 
-The cookies we use don't directly identify visitors to or users of our Website as particular persons. Rather, they contain information sufficient to simplify and improve a visitor's or user's experience on our Website. For example, we may use session-based cookies to track the pages on our Website visited by our users. We can build a better website if we know which pages our users are visiting and how often. Or, we may use persistent cookies to simplify access to a user's account information over our Website, for example. 
+**Third Parties Providing Services On Our Behalf.** We may from time to time employ third parties to perform functions on our behalf; examples include hosting or operating our Sites, executing IVR programs, sending e-mail and mobile message communications, and data analysis. We may share Personal Information with third parties in order for them to provide content or complete a requested transaction or otherwise perform services for FEARnet. 
 
-In connection with the standard operation of FEARnet's systems, certain non-personally identifiable information about visitors to this Website is recorded. This information is used primarily to tailor and enhance visitors' experience using the Website. We may use this information in an aggregate, non-personally identifiable form to, among other things, measure the use of our Website and determine which products and services are the most popular with our Website visitors. 
+**When You Agree To Have Your Personal Information Shared.** While on our Sites, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.
 
-Ads appearing on this Website may be delivered to users by this Website or a third party advertising partner. These partners may set cookies, which may allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you (or others who are using your computer) saw their advertisements and determine click-through rates and history on such ads. This information allows an ad network to deliver targeted advertisements that they believe will be of more interest to you than advertising selected randomly or by other means. This privacy statement covers only the use of cookies by this Website and does not cover the use of cookies by any third party advertisers, who may have their own, differing policies.
+**Sweepstakes, Contests and Promotions.** The Sites may offer sweepstakes, contests, and other promotions (each, a "Promotion") that may require registration. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties in connection with the administration of such Promotion, such as in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. By entering a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials.
 
-### Where do we permit visitors and users to opt in or out of FEARnet promotional e-mail?
+**Business Transfers.** We may share your Personal Information with other entities affiliated with us for internal reasons, primarily for business and operational purposes. FEARnet or any of its assets, including the Sites, may be sold, or other transactions may occur in which your Personal Information is one of the key business assets for the transaction. In such a case, your Personal Information may be one of the business assets we transfer. Hence, FEARnet reserves the right to disclose and transfer user information, including Personal Information in connection with a corporate merger, consolidation, restructuring, the sale of certain of FEARnet's stock and/or assets, or other corporate change including, without limitation, during the course of any due diligence process.
 
-If you are a registered member of FEARnet.com, you may choose to receive, or not receive, promotional e-mails about FEARnet's services by going to the Internet web page located at http://www.fearnet.com/CommunityMemberPreferences.aspx and following the instructions there. If you have otherwise provided your e-mail address to FEARnet, or FEARnet has already obtained it, then FEARnet may have already contacted you about receiving promotional e-mails separately.
+**Legal Protections and Law Enforcement.** FEARnet may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our Terms of Use or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you.
 
-Other Websites 
+**4\. INFORMATION YOU DISCLOSE PUBLICLY ON OUR SITES**
 
-To make our Website more valuable to our visitors, we may offer some features in conjunction with other providers. Our Website may also include links to other websites whose privacy policies and practices we don't control. Once you leave our Website by linking to another one (you can tell where you are by checking the address --known as a URL-- in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these websites via a link from the site's homepage, you should contact the website directly for more information. 
+Our Sites may offer message boards, chat rooms, alternative reality games, multi-player games and other public areas (collectively, "Community Forums") where you can engage in social networking, interact with others, as well as have the opportunity to submit photographs, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, "User Submissions"). To participate in certain Community Forums, you may be asked to select a username, screen name or member name and password. Please do not use your real name or the real name of another person when selecting a username (or screen name or member name). 
 
-### Security
+**Note that anything you post to a Community Forum is public** \-- others will have access to your User Submissions and may use it or share it with third parties. Information you choose to post or make available in the Community Forums may be viewed, collected and used by others. If you choose to voluntarily disclose User Submissions, the protections of this Privacy Policy will not cover such disclosure of information. Think carefully before you post and use caution before disclosing any Personal Information. 
 
-All information gathered on our Website is stored within a FEARnet-controlled database accessible only to FEARnet and its specifically authorized contractors and vendors. However, as effective as any security measure implemented by FEARnet may be, no security system is impenetrable. We cannot guarantee the complete security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. If you don't want us to know any particular information about you, don't include it in anything that you submit or post to this Website or send to us in e-mail. 
+User Submissions may be published online or offline in any media or format (currently existing or hereafter developed). We may also publish your name, voice, likeness and other Personal Information with your User Submissions, and FEARnet may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Submissions you submit to the Sites, please review our Terms of Use. 
 
-### Changes to Information
+**5\. INFORMATION WE RECEIVE FROM THIRD PARTIES**
 
-You may review and change information that you provide to us through this Website by returning to the pages where you entered it, and reviewing or changing the information directly. 
+FEARnet may receive information about you from third parties. For example, if you are on another web site and you opt-in to receive information from FEARnet, that web site will forward to us your e-mail address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook applications or a similar application or feature on a third party web site) through which you allow us to collect (or the third party to share) information about you, including Personal Information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected. In addition, we may receive information about you if other users of a third party web site give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party web site or interactive service. 
 
-### Changes to this Privacy Statement
+We may also supplement the information we collect about you through the Sites with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from these third parties with information we collect through the Sites. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise. 
 
-Please return to this Website and review this privacy statement from time to time as it may be modified without notice. The most current version of this privacy statement will be posted on our Website, and by continuing to use the Website, you accept and agree to this privacy statement, as modified. 
+**6\. UPDATING YOUR INFORMATION AND OPTING OUT FROM EMAIL**
 
-© 2006 Horror Entertainment, LLC. All rights reserved.
+FEARnet may provide web pages or other mechanisms through which you can correct or update some of the Personal Information you have provided to us, including, without limitation, through registration with the Sites. You may opt out of receiving e-mail newsletters by following the opt-out instructions provided to you in those e-mails. Please note that we reserve the right to send you certain communications relating to your account or use of the Sites and these transactional account messages may be unaffected if you choose to opt-out from marketing communications.
 
-Effective: October 31, 2006 
+In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
+
+**7\. SECURITY**
+
+We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Sites and provide us with your information at your own risk. 
+
+**8\. LINKS TO OTHER WEB SITES AND FEARNET CONTENT FOUND ON OTHER WEB SITES**
+
+When you are on the Sites you may be directed to other web sites that are operated and controlled by third parties that are beyond our control. This includes links from advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. In addition, FEARnet Site widgets or other FEARnet content may be included on web pages and web sites that are not associated with FEARnet and over which we have no control. These other web sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. FEARnet is not responsible for the privacy practices of any third party web site.
+
+**9\. CONSENT TO TRANSFER**
+
+The Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Sites, or providing us with any information, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+
+**10\. NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY; PRIVACY QUESTIONS**
+
+FEARnet reserves the right to update this Privacy Policy at any time, without prior notice to you, and any changes will become effective immediately upon posting. However, FEARnet will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy. If you have any questions or concerns about this Privacy Policy, you may contact us at: webmaster@fearnet.com.
