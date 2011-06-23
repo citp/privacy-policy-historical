@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230221650id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geelongadvertiser.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023226id_/http%3A//www.geelongadvertiser.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - The Geelong Advertiser
+# Privacy | Geelong, VIC, Australia
 
 The **Geelong Advertiser** Pty Ltd (TGA) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
@@ -69,7 +69,4 @@ Please contact our Privacy Officer to ask for access to your information or if y
 **Email:** [privacy@geelongadvertiser.com.au](mailto:privacy@geelongadvertiser.com.au)   
 **Telephone:** +61 03 5227 4300  
  **Mail:** Privacy Officer, P.O. Box 91, Geelong VIC 3220  
-
-
-  
 
