@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheroneaccount.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129133826id_/https%3A//higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheroneaccount.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624003826id_/https%3A//higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.*
 
 # Higher One: Privacy Policy
 
@@ -36,7 +36,7 @@ Higher One uses a third party agent to fulfill your transactional and payment pr
 When a user elects to transfer money to another Higher One account holder, we request the third party’s name, email, mailing address and banking information such as account and routing number to fulfill the requested transaction. We do not use or share this third party personal information for any purposes beyond fulfilling your request. 
 
 **Access & Opt-Out**  
-If, at any time after establishing your preferences to receive promotional offers from us you change your mind, you may opt-out of receiving these secondary communications. To opt-out, you must select the "Unsubscribe" link present in each email we send out to our users. You can also unsubscribe by updating your account preferences when you access your personal account information. We reserve the right to send users notification and administrative emails, which are considered a part of your service. To modify any of your account information, access your account through the site and update your preferences. To delete your account information entirely, please contact us [privacy@higherone.com](mailto:privacy@higherone.com). 
+If, at any time after establishing your preferences to receive promotional offers from us you change your mind, you may opt-out of receiving these secondary communications. To opt-out, you must select the "Unsubscribe" link present in each email we send out to our users. You can also unsubscribe by updating your account preferences when you access your personal account information. We reserve the right to send users notification and administrative emails, which are considered a part of your service. To modify any of your account information, access your account through the site and update your preferences. To delete your account information entirely, please contact us at [privacy@higherone.com](mailto:privacy@higherone.com). 
 
 **Cookies**  
 When you visit our Site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer’s hard drive and are used to indicate whether you have visited the Site previously. 
@@ -47,6 +47,8 @@ Our Practices Regarding Cookies: Higher One uses cookies for a number of purpose
 
 **Third Party Cookies**  
 We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies and web beacons to help track visitor behavior. These tracking technologies shall not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on our behalf is used only to provide us with information on Site usage and is not shared with any other third parties. We do not have access to third party tracking technologies. 
+
+We use a third-party tracking service, which uses HTML tags to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners use HTML tags on our site. This privacy statement covers the use of these tracking technologies only. 
 
 **Third-Party Sites**  
 The Site contains links to other websites. Higher One is not responsible for the privacy practices or the content of these other websites. Users and visitors will have to check the policy statement of these other websites to understand their respective policies. Users and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
