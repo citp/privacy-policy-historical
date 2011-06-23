@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the nuffnang.com.my privacy policy that was archived on 2010-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101012022933id_/http%3A//www.nuffnang.com.my/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nuffnang.com.my privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623031652id_/http%3A//www.nuffnang.com.my/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 <title>Nuffnang Malaysia | Asia Pacific’s First Blog Advertising Community  » Privacy Policy</title>
 
 <!--
-					Nuffnang 3.0
-					Intelligent, semantic & robust design.
+        Nuffnang 3.0
+        Intelligent, semantic & robust design.
 -->
 
 <!-- Meta Tags -->
@@ -16,9 +16,9 @@
 <meta name="description" content="Asia Pacific’s First Blog Advertising Community">
 <meta name="keywords" content="blog, advertising, community, network, asia, malaysia, singapore, philipines, australia, interface, web2.0, webstandards, ajax">
 
-
+<meta property="fb:app_id" content="203646312981044">
 <!-- CSS -->
-<link rel="stylesheet" href="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/style.css?46" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/style.css?440" type="text/css" media="screen">
 <!--[if lte IE 7]>
 <link rel="stylesheet" href="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/css/ie.css" type="text/css" media="screen">
 <![endif]-->
@@ -27,15 +27,19 @@
 	
 	<!-- insert MY BG Skinner here -->
     
-        
-        
-        
-	         
+             	
 	    
+        
+        
+        
+    
+		
 
 <!-- Javascript, oh behave. -->
 <script type="text/javascript" src="http://www.nuffnang.com.my/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="http://www.nuffnang.com.my/js/interface.js"></script>
+<script type="text/javascript" src="http://www.nuffnang.com.my/js/jquery.simplemodal-1.3.5.min.js"></script>
+<script type="text/javascript" src="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/js/jquery.colorbox-min.js"></script>
 <!--[if lte IE 6]>
 <script type="text/javascript" src="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/js/fpng-0.8a.js"></script>
 <script type="text/javascript">
@@ -70,11 +74,13 @@
       antiAlias: true
     }
     curvyCorners(setting1, ".mdmrnd");
-	curvyCorners(setting2, ".smlrnd");
-    curvyCorners(setting3, ".lrgrnd");
+    curvyCorners(setting2, ".smlrnd");
+    curvyCorners(setting3, ".lrgrnd");    
   }
 </script>
 <![endif]-->
+
+<link rel="stylesheet" href="http://www.nuffnang.com.my/css/jquery.simplemodal.css" type="text/css" media="screen">
 
 
 		<script type="text/javascript" src="http://www.nuffnang.com.my/js/jquery.tablesorter.pack.js"></script>
@@ -85,17 +91,21 @@
 <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.nuffnang.com.my/feed/atom/">
 <link rel="pingback" href="http://www.nuffnang.com.my/xmlrpc.php">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-
+<link rel="stylesheet" href="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/css/colorbox.css" type="text/css" media="screen">
 <!-- language select -->
 <script type="text/javascript">
-function langSelect(){
-	if( document.getElementById('langselect') ){
-		var lang = document.getElementById('langselect')[document.getElementById('langselect').selectedIndex].value;
-        var rUrl = document.location.href;
-        url = 'http://www.nuffnang.com.my/setlang.php?lang='+lang+'&ref='+escape(rUrl);
-        document.location.href = url;
-	}
-}
+    $(function() {
+             
+    });
+
+    function langSelect() {
+        if(document.getElementById('langselect') ) {
+            var lang = document.getElementById('langselect')[document.getElementById('langselect').selectedIndex].value;
+            var rUrl = document.location.href;
+            url = 'http://www.nuffnang.com.my/setlang.php?lang='+lang+'&ref='+escape(rUrl);
+            document.location.href = url;
+        }
+    }    
 </script>
 
 <link rel="alternate" type="application/rss+xml" title="Nuffnang Malaysia » Privacy Policy Comments Feed" href="http://www.nuffnang.com.my/privacy-policy/feed/">
@@ -111,6 +121,7 @@ function langSelect(){
 
 </head>
 <body id="page-privacy-policy" class="png my day">
+<iframe style="position:absolute;top:-999999px;" height="1" width="1" src="http://www.churpchurp.com/public/login.php?logout"></iframe>
 
 <div id="anteroposterior" class="png"><div id="anterior" class="png"><div id="posterior">
 
@@ -118,6 +129,7 @@ function langSelect(){
 	
 	<div id="selectlanguage"><select id="langselect" onchange="langSelect()"><option value="EN" selected="">English</option><option value="MY">Bahasa Malaysia</option></select></div>
 	
+
     <ul id="head" class="nolist png clr">
       <li id="logo" class="flt-l"><a href="http://www.nuffnang.com.my" title="back to the landing page" class="img-r png"><img src="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/img/logo.jpg" alt="Nuffnang - Asia's First Blog Advertising Community"></a></li>
       <li id="banner" class="flt-r">
@@ -145,10 +157,14 @@ function langSelect(){
           <option value="http://www.nuffnang.com.my" selected="">Malaysia</option>
           <option value="http://www.nuffnang.com.au">Australia</option>
           <option value="http://www.nuffnang.com.ph">The Philippines</option>
+          <option value="http://www.nuffnang.com.cn">China</option>
+          <option value="http://www.nuffnang.com.hk">Hong Kong</option>
         </select>
       </form>
       </li>
     </ul>
+
+   
     
     <div id="neck" class="clr">
     	<ul id="mainmenu" class="nolist clr lang-en">
@@ -179,17 +195,26 @@ function langSelect(){
             </object>
             </span>
           </li>
-        </ul>
+                    <li id="churpchurp">
+          	
+            <a href="http://www.churpchurp.com" target="_blank">Churp Churp</a>
+            <span id="churplinkbg">
+            <object type="application/x-shockwave-flash" data="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/files/join-cc.swf" width="85" height="100">
+                <param name="movie" value="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/files/join-cc.swf">
+                <param name="wmode" value="transparent">
+            </object>
+            </span>
+            <div id="joinCC" class="png">Are you on twitter/facebook? Join our sister company Churp Churp</div>
+          </li>
+                  </ul>
                        
         <div id="tagline" class="flt-r">
         
-                
-        	    
+        
             <object type="application/x-shockwave-flash" data="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/files/tagline.swf" width="620" height="125">
-            <param name="movie" value="http://www.nuffnang.com.my/files/tagline.swf">
-            <param name="wmode" value="transparent">
+                <param name="movie" value="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/files/tagline.swf">
+                <param name="wmode" value="transparent">
             </object>
-
             
                 </div>
       
@@ -208,66 +233,77 @@ function langSelect(){
 		return false;
 		});
 	});
-	</script>
-	       <div id="chest" class="contentbox mdmrnd mdmshdw png">
+	 
+	 $(document).ready(function() {
+						   
+		$("#churpchurp").hover(function(){
+			$("div#joinCC").addClass("hover").show('slow');
+		},function(){
+			$("div#joinCC").removeClass("hover").hide('slow');;
 			
-	<div id="dockpanel" class="smlrnd">
-        <div id="newsdock" class="flt-r">
-        
-        	            
-            	<style>
-				#newsdock{height:192px; width:672px;}
-				</style>
+		});
+	});
+	</script>
+
+	       <div id="chest" class="contentbox mdmrnd mdmshdw png">
+
+<div id="dockpanel" class="smlrnd">
+    <div id="newsdock" class="flt-r">
+
             
-            	<object type="application/x-shockwave-flash" data="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/files/adpanel.swf" width="672" height="194">
-                    <param name="movie" value="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/files/adpanel.swf">
-                    <param name="wmode" value="transparent">
-                </object>
+        <style>
+            #newsdock{height:192px; width:672px;}
+        </style>
+
+        <object type="application/x-shockwave-flash" data="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/files/adpanel.swf" width="672" height="194">
+            <param name="movie" value="http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/files/adpanel.swf">
+            <param name="wmode" value="transparent">
+        </object>
+
                 
-            
-        </div>
-        <div id="logindock" class="flt-l dockcontent">
-            <form name="bloggersign" action="http://www.nuffnang.com.my/public/login.php?blogger&amp;ref=" method="post">
+    </div>
+    <div id="logindock" class="flt-l dockcontent">
+        <form name="bloggersign" action="http://www.nuffnang.com.my/public/login.php?blogger&amp;ref=" method="post">
             <ul id="bloggersgin" class="nolist">
-              <li><h4>Hello, blogger</h4></li>
-              <li><label>Email :</label> <input name="email" class="input" type="text"></li>
-              <li><label>Password :</label> <input name="password" class="input" type="password"></li>
-              <li class="sgin flt-r"><button type="submit" value="Submit" class="buttonneutral">Login</button></li>
-              <li><a href="#" id="blogger_forgot" title="reset your password">Forgot your password?</a></li>
+                <li><h4>Hello, blogger</h4></li>
+                <li><label>Email :</label> <input name="email" class="input" type="text"></li>
+                <li><label>Password :</label> <input name="password" class="input" type="password"></li>
+                <li class="sgin flt-r"><button type="submit" value="Submit" class="buttonneutral">Login</button></li>
+                <li><a href="#" id="blogger_forgot" title="reset your password">Forgot your password?</a></li>
             </ul>
-            </form>
-            <form name="advertisersign" action="http://www.nuffnang.com.my/public/login.php?advertiser&amp;ref=" method="post" style="display:none;">
+        </form>
+        <form name="advertisersign" action="http://www.nuffnang.com.my/public/login.php?advertiser&amp;ref=" method="post" style="display:none;">
             <ul id="advertisersgin" class="nolist">
-              <li><h4>Hello, advertiser</h4></li>
-              <li><label>Email :</label> <input name="email" class="input" type="text"></li>
-              <li><label>Password :</label> <input name="password" class="input" type="password"></li>
-              <li class="sgin flt-r"><button type="submit" value="Submit" class="buttonneutral">Login</button></li>
-              <li><a href="javascript:void(0)" id="advertiser_forgot" title="reset your password">Forgot your password?</a></li>
+                <li><h4>Hello, advertiser</h4></li>
+                <li><label>Email :</label> <input name="email" class="input" type="text"></li>
+                <li><label>Password :</label> <input name="password" class="input" type="password"></li>
+                <li class="sgin flt-r"><button type="submit" value="Submit" class="buttonneutral">Login</button></li>
+                <li><a href="javascript:void(0)" id="advertiser_forgot" title="reset your password">Forgot your password?</a></li>
             </ul>
-            </form>
-            <ul id="loginmenu-a" class="nolist clr switch">
-              <li><a href="javascript:void(0)" title="i'm an advertiser" class="tab_advertiser">Login as advertiser</a></li>
-            </ul>
-            <ul id="loginmenu-b" class="nolist clr switch" style="display:none;">
-              <li><a href="javascript:void(0)" title="i'm a blogger" class="tab_blogger">Login as blogger</a></li>
-            </ul>
-        </div>
-        <div id="fgtpassword" class="flt-l dockcontent" style="display:none;">
-            <form name="forgotpassword" action="http://www.nuffnang.com.my/public/forget_password.php" method="post">
+        </form>
+        <ul id="loginmenu-a" class="nolist clr switch">
+            <li><a href="javascript:void(0)" title="i'm an advertiser" class="tab_advertiser">Login as advertiser</a></li>
+        </ul>
+        <ul id="loginmenu-b" class="nolist clr switch" style="display:none;">
+            <li><a href="javascript:void(0)" title="i'm a blogger" class="tab_blogger">Login as blogger</a></li>
+        </ul>
+    </div>
+    <div id="fgtpassword" class="flt-l dockcontent" style="display:none;">
+        <form name="forgotpassword" action="http://www.nuffnang.com.my/public/forget_password.php" method="post">
             <input type="hidden" name="usertype" value="">
             <ul class="nolist">
-              <li><h3>Forgot your password?</h3></li>
-              <li>To reset your password, enter your email address.</li>
-              <li><input name="email" class="input" type="text"></li>
-              <li><input type="submit" value="E-mail Me!" class="button"></li>
-              <li>Or sign in as a  <a href="javascript:void(0)" id="fgt_b_blogger">blogger</a> / <a href="javascript:void(0)" id="fgt_b_advertiser">advertiser</a></li>								
+                <li><h3>Forgot your password?</h3></li>
+                <li>To reset your password, enter your email address.</li>
+                <li><input name="email" class="input" type="text"></li>
+                <li><input type="submit" value="E-mail Me!" class="button"></li>
+                <li>Or sign in as a  <a href="javascript:void(0)" id="fgt_b_blogger">blogger</a> / <a href="javascript:void(0)" id="fgt_b_advertiser">advertiser</a></li>
             </ul>
-            </form>
-        </div>
-                
-	</div><!-- /dockpanel -->
-    
-	<script type="text/javascript" language="javascript">
+        </form>
+    </div>
+
+</div><!-- /dockpanel -->
+
+<script type="text/javascript" language="javascript">
     $(document).ready(function(){
         //blogger/advertiser tab events
         is_animating = false;
@@ -275,54 +311,54 @@ function langSelect(){
             if( !is_animating ){
                 is_animating = true;
                 $("#bloggersgin").parent().fadeIn('normal');
-                $("#advertisersgin").parent().hide();	
+                $("#advertisersgin").parent().hide();
                 $(this).parents(".switch").hide()
-                        .siblings(".clr").slideDown('normal', function(){ is_animating = false; });
+                .siblings(".clr").slideDown('normal', function(){ is_animating = false; });
             }
         });
         $(".tab_advertiser").click(function(){
             if( !is_animating ){
                 is_animating = true;
                 $("#advertisersgin").parent().fadeIn('normal');
-                $("#bloggersgin").parent().hide();	
+                $("#bloggersgin").parent().hide();
                 $(this).parents(".switch").hide()
-                        .siblings(".clr").slideDown('normal', function(){ is_animating = false; });
-                
+                .siblings(".clr").slideDown('normal', function(){ is_animating = false; });
+
             }
-                                
+
         });
         //forgot password box
-        
+
         $("#advertiser_forgot").click(function(){
             $("#logindock").fadeOut('normal',function(){
-                $("#fgtpassword").fadeIn('normal');	
-                
+                $("#fgtpassword").fadeIn('normal');
+
                 document.forgotpassword.usertype.value ="a";
-            
-            });											
+
+            });
         });
-        
+
         $("#blogger_forgot").click(function(){
             $("#logindock").fadeOut('normal',function(){
-                $("#fgtpassword")	.fadeIn('normal');	
+                $("#fgtpassword")	.fadeIn('normal');
                 document.forgotpassword.usertype.value ="b";
-            });											
+            });
         });
-        
+
         $("#fgtpassword a").click(function(){
             $("#fgtpassword").fadeOut('normal');
             $("#logindock").fadeIn('normal');
-            
+
             if( $(this).attr("id").indexOf("blogger") > -1  ){
                 $(".tab_blogger").click();
-            } else $(".tab_advertiser").click();		
-                            
+            } else $(".tab_advertiser").click();
+
         });
 
     });
-    </script>
-			
-		    <style type="text/css">
+</script>
+
+    	    <style type="text/css">
 .mdmrnd.bluecolor {margin:0 0 30px 0;}
 </style>
 <div id="essence" class="whtbg" style="padding:15px 40px 15px 15px;">
@@ -366,24 +402,60 @@ function langSelect(){
 		</div><!-- content ends here -->
 
 
+
 	<div id="footer" class="clr-b my day">
     
         <div class="flt-l smlrnd">
-            <strong>Copyright © 2007-2010 Nuffnang Sdn. Bhd.</strong> Asia Pacific's First Blog Advertising Community.
+            <strong>Copyright © 2007-2011 Nuffnang Sdn. Bhd.</strong> Asia Pacific's First Blog Advertising Community.
         </div>
         <div class="nolist flt-r smlrnd">
           <a href="http://www.nuffnang.com.my/privacy-policy" title="privacy policy">privacy policy</a> | <a href="http://www.nuffnang.com.my/terms-conditions" title="terms conditions">terms &amp; conditions</a>
         </div>
         
 	</div><!-- /footer -->
+    
+    
+
+
+
+	    		
+        
+
   
 </div></div></div><!-- /anteroposterior -->
 
 
 
+<script type="text/javascript">
+//script for nn trailers
+$( document ).ready( function(){
+    var played = 0;
+    
+    $('object.nn_trailer').each( function(){
+        if( played < 1 ){
+            this.playFlashMovie();
+            played++;
+        }
+    });
 
-			
+    $('#lang-popup label a').click(function() {
+        var lang = $(this).text().toString();
+        var rUrl = document.location.href;                
+
+        if(lang == 'English')
+            lang = 'EN';        
+        else if(lang == 'Bahasa Malaysia')
+            lang = 'MY';                
         
+        var url = 'http://www.nuffnang.com.my/setlang.php?lang='+lang+'&ref='+escape(rUrl);
+        window.location = url;        
+                
+        return false;
+    });
+});
+</script>
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -393,29 +465,45 @@ try {
 var pageTracker = _gat._getTracker("UA-16190249-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-        
-<script type="text/javascript">
-//script for nn trailers
-$( document ).ready( function(){
-	var played = 0;
-	$('object.nn_trailer').each( function(){
-		if( played < 1 ){
-			this.playFlashMovie();
-			played++;
-		}
-		
-	});
-});
-</script>
-
-
-<script src="http://stats.wordpress.com/e-201041.js" type="text/javascript"></script>
+<script src="http://stats.wordpress.com/e-201125.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'10285022',v:'ext',post:'198'});
 var load_cmc = function(){linktracker_init(10285022,198,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>
+    <div id="lang-popup">
+        <label>Tetapkan pilihan bahasa anda:</label>
+        <label class="tall-margin">Set your preferred language:</label>
+        <label>
+            <a href="#">Bahasa Malaysia</a>,
+            <a href="#">English</a>
+        </label>
+    </div>
+    
+
+    
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js#appId=203646312981044&amp;xfbml=1"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#hidebadge').click( function(){
+			$.ajax({
+				url: 'http://www.nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/hide_badge.php',
+				success: function(){
+					$('.survey').addClass("hide");
+				}
+			});
+
+			return false;
+		});
+	});
+</script>
+
+
+
+<!--<div class="survey"><span><a id="hidebadge">X</a></span><a href="http://www.nuffnang.com.my/social-media-minds/"><img src="http://nuffnang.com.my/wp-content/themes/nuffnang-3.0.0/img/imgfoot.png" width="150" height="200" /></a></div>-->
 
 
 </body></html>
