@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdmovieclub.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221105531id_/http%3A//hdmovieclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdmovieclub.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623030953id_/http%3A//hdmovieclub.com/info/privacy) for the most accurate reproduction.*
 
 # HD Movie Club - Internet's biggest HD DVD site
 
