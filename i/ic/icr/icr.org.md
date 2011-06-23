@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228003849id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623144455id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Institute for Creation Research and its agents will not give or sell information about you to another organization. 
+The Institute for Creation Research and its agents will not give or sell personal information about you to another organization. 
 
-No information is collected other than data that is typically collected in server logs by web sites in general. If you choose to provide additional information, such as signing up for a free subscription, this will allow us to serve you better. 
+No information is collected other than data that is typically collected by web sites in general. If you choose to provide additional information, such as signing up for a free subscription, this will allow us to serve you better.
 
-If you no longer wish to receive our email publications, please [click here](http://www.icr.org/change) to unsubscribe. To request removal from our print mailing list, please send your name and postal address to [subscriptions@icr.org](mailto:subscriptions@icr.org).
+If you no longer wish to receive our email publications, please [click here](http://www.icr.org/change) to unsubscribe. To request removal from our print mailing list, please send your name and postal address to [subscriptions@icr.org](mailto:subscriptions@icr.org).
 
 This site is informational and educational in nature. It is not offering professional legal, tax or accounting advice on your estate. All persons who use information from this site must be advised by qualified professional counsel. For specific advice about your estate, please consult a qualified professional advisor.
 
