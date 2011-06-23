@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129085149id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623045921id_/http%3A//www.usenix.org/membership/privacy.html) for the most accurate reproduction.*
 
 # USENIX - USENIX/SAGE Membership - Privacy Statement
 
