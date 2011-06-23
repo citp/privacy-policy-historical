@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moolf.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526024137id_/http%3A//www.moolf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moolf.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623160814id_/http%3A//www.moolf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
  **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us. 
 
- 
+## You MUST see these cool photo galleries!
