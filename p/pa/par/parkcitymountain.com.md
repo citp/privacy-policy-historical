@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkcitymountain.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223182114id_/http%3A//www.parkcitymountain.com/winter/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkcitymountain.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623042858id_/http%3A//www.parkcitymountain.com/summer/company/privacy) for the most accurate reproduction.*
 
 # Park City Mountain Resort Privacy Policy
 
