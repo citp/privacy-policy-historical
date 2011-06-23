@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223050110id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623141702id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Holistic Health Blog
 
 ## Privacy Policy
 
-**Natural Holistic Health Blog** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+ **Natural Holistic Health Blog** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -14,7 +14,7 @@ All web servers track basic information about their visitors. This information i
 
 Where necessary, Natural Holistic Health Blog uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
 ## Controlling Your Privacy
 
@@ -27,5 +27,3 @@ Concerns or questions about this privacy policy can be directed to support@natur
 ## Email Policy
 
 We take our readers’ privacy very seriously. You can rest assured that your email address, name or any other personal information will be shared for any reason. Email addresses are collected for the purpose of sending article updates from Natural Holistic Health Blog and for no other purpose. Natural Holistic Health Blog Article updates are sent, on average, only once per week.
-
-Technorati Tags: [health](http://technorati.com/tag/health), [holistic health](http://technorati.com/tag/holistic+health)
