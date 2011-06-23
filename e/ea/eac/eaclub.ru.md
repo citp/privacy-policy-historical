@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaclub.ru privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225043238id_/http%3A//eaclub.ru/MenuLog/tabid/139/mi/275/language/en-US/Default.aspx%3Fmu%3Dhttp%253a%252f%252fwww.ea.com%252f1%252fprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaclub.ru privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623080057id_/http%3A//eaclub.ru/MenuLog/tabid/139/mi/275/language/en-US/Default.aspx%3Fmu%3Dhttp%253a%252f%252fwww.ea.com%252f1%252fprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Electronic Arts - EA Games
 
