@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchrate.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091530id_/http%3A//www.pitchrate.com/content/content-article.asp%3FArticleID%3D4816) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchrate.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025222id_/http%3A//www.pitchrate.com/content/content-article.asp%3FArticleID%3D4816) for the most accurate reproduction.*
 
 # Free Publicity:Privacy Policy
 
