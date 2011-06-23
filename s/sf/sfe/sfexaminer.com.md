@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230171001id_/http%3A//www.sfexaminer.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623102821id_/http%3A//www.sfexaminer.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | San Francisco Examiner
+# Privacy Policy | San Francisco Examiner | sfexaminer.com
 
 **SCOPE OF THIS PRIVACY POLICY**  
 Thank you for visiting SFExaminer.com, (the “Site”).  This Site is owned and operated by SF Newspaper Company LLC (“SF Examiner”), at 71 Stevenson, 2nd Floor, San Francisco, CA 94105.  Your access to and use of this Site is subject to the following Privacy Policy (“Privacy Policy”) and all applicable laws.  The terms “SFExaminer.com”, “we”, “us” and “our” when used in this Privacy Policy means SF Examiner, its parent company, Clarity Media Group, Inc. and their respective subsidiaries and affiliates. The terms “you” and “your” when used in this Privacy Policy means any user of this Site.
@@ -50,6 +50,5 @@ MODIFYING YOUR INFORMATION**
 We respect your right to make choices about the ways we collect, use and disclose your Personal Information. You may update or modify your information or change your preferences at any time by logging in to the Site using your user name and password, and updating your user profile.  
  **  
 EFFECTIVE DATE OF THIS PRIVACY POLICY**  
-This Privacy Policy is effective as of May 26, 2010. 
-
-Read more at the San Francisco Examiner: <http://www.sfexaminer.com/info/privacy/#ixzz0yPauPZgA>
+This Privacy Policy is effective as of May 26, 2010.   
+[](http://www.sfexaminer.com/info/privacy/#ixzz0yPauPZgA)
