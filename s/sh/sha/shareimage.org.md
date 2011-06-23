@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareimage.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221221924id_/http%3A//shareimage.org/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareimage.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623190004id_/http%3A//www.shareimage.org/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # www.ShareImage.org » More Information » Privacy Policy
 
