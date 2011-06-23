@@ -1,90 +1,67 @@
-> *The following text is extracted and transformed from the orcut.com privacy policy that was archived on 2004-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040728041424id_/http%3A//orcut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcut.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624010050id_/http%3A//www.orkut.com/Privacy.aspx) for the most accurate reproduction.*
 
-# orkut - privacy policy
+# orkut Privacy Notice
 
-  |  **orkut.com Privacy Policy**  
-v. July 1st, 2004
+December 15, 2010
 
-Welcome to 
+The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided when you use orkut. In addition, the following describes our additional privacy practices that are specific to orkut. If you are using Google Talk in conjunction with orkut, please refer to the [Google Talk Privacy Notice](http://www.google.com/talk/privacy.html) for information about our privacy practices that are specific to Talk.
 
-orkut.com, a personal online networking service operated by orkut.com LLC (" **orkut** "). Your privacy is important to us and we have designed orkut.com to give you choices about the personal information available on this site. This **Privacy Policy** explains how we collect, use and share your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions we suggest you read this [FAQ](http://help.orkut.com/bin/topic.py?topic=10) or feel free to [contact us](mailto:help@orkut.com). 
+**Personal information**
 
-By using 
+  * You need a [Google Account](http://www.google.com/privacy_faq.html) to use orkut. Google asks for some personal information when you create a Google Account, including your email address and a password, which is used to protect your account from unauthorized access. A Google Account allows you to access many of our services that require registration.
+  * As an orkut member, you can create a profile or orkut community that includes personal information, such as your gender, age, occupation, hobbies, and interests, plus other content, such as photos. This information may be accessed and viewed by other Internet users on various search engines, as determined by your privacy settings. If you restrict accessibility to your community by changing the privacy setting from “open” to ‘hidden’, or by opting to making it inaccessible to the Web, that change will be recorded immediately and ‘crawlers’ of various search engines will be blocked from accessing your community, however, Google does not control the content that may already have been indexed or cached by third party websites and therefore may continue to appear there till the content on such websites is refreshed.
+  * When you invite new members into your network or send messages through orkut – including messages sent to non-orkut users, such as to share your photo albums or events with them - we collect and maintain information associated with those messages, including email addresses and content. We also automatically store contact information about such non-orkut users in your “contacts” list. That contacts list also includes:
+    * your Gmail contact list, which is pre-populated in your orkut “contacts”;
+    * contact information that you provide to us about your friends (both orkut and non-orkut users) via the “find friends” or “contacts” features in orkut; and
+    * contact information for your friends (including non-orkut users) to whom you have sent messages through Picasa or another Google service that you access through your Google Account
+  * When you send and receive SMS messages to or from the orkut website, we collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction.
+  * When you interact with an orkut feature, we may collect and maintain information about your activities linked to that feature. In the case of Promotions, we keep track of which promotions we have served to you, and if you interact with a Promotion we will also collect and maintain data relating to your clicks, your deletion of the promotion, and your forwarding of the promotion to your orkut friends.
 
-orkut.com, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the site. You should visit this page periodically to review any such changes to the Privacy Policy. 
 
-**information we collect**
 
-When you register to become a member of orkut.com, we collect your name, email address and other personal identifying information that you submit to the site. Also, as part of your personal profile, you may choose to submit additional information such as gender, age, occupation, hobbies, interests, etc. and other content, such as photos. This additional information is voluntary and can be made available to other members. To protect your privacy, the 
+**Uses and Information Sharing**
 
-orkut.com service allows you to limit who can view certain personal information, such as email address, instant messaging name or telephone number. These restricted viewing options are identified by the "golden key" icon. 
+  * Google maintains and processes your personal information and content of your communications in order to provide your orkut account, access to that account, and use of orkut services, in addition to the purposes described in the Google Privacy Policy. Orkut services include relevant advertising and related links based on the content of your profile and messages exchanged by you as part of your activity streams on your profile. Your profile information is displayed according to the preferences you set in your account. 
+  * When you send messages through orkut, your name and email address will be identified in the message. We also use your name and email address to notify you of new members, messages, or other information, such as invitations to join friends' networks, new testimonials or "fan" ratings, and crush notices. 
+  * If you invite another person to join orkut, we use the name and email address you provide us to contact that person and, if necessary, remind that person that he or she has been invited to join orkut. All invitees are given the option not to receive further invitations from orkut. 
+  * If you invite non-orkut users to view content on orkut, we use the name and email address you provide us to contact that person, and to store that information for purposes related to your use of Google Account services, such as to maintain your orkut “contacts” list or to make suggestions of friends based on common contacts. We also use that information to maintain a history on that person’s behalf of content that orkut users have shared with them on orkut. 
+  * If you provide us with contact information for non-orkut users, we store that information for purposes related to your use of Google Account services, such as to maintain your contacts list, to suggest that you invite such contacts to join orkut, or to make suggestions of friends based on common contacts. 
+  * Friends or other persons who know your email address can use that address to look up whether you have an orkut profile registered under that email address and which orkut profile has been created under that email address. Orkut friends can identify you in any photo that they or their friends have uploaded to orkut, by “tagging” you in that photo. You can opt-out of being “tagged” in photos via your “settings” preference. 
+  * When you send and receive SMS messages to or from the orkut website, we use the data we collect to operate, develop and improve our services. Our third party providers also may collect data about your SMS usage in order to provide the service. In addition, your wireless carrier collects data about your SMS usage. Their practices are governed by their own privacy policies. 
+  * Orkut allows third-party developers to upload applications to the orkut application directory. You may choose to use an application by adding it to your profile. If you add an application to your profile, the application may collect information from your profile or other information about your activities on orkut, and share that information with others. Please see our [Terms of Use of Applications](http://www.orkut.com/AppTerms.aspx) for details about data sharing when you add an application. 
+  * When one of your orkut friends adds an application to their profile page, your public profile name, profile URL and profile photo will be shared with the developer of the application and with other users and viewers of the application, even if you have not added that application to your profile. 
 
-When you invite new members into your network or send messages through the 
 
-orkut.com service, we collect and maintain the information associated with those messages, including email addresses and content on secure servers. As with any social networking service, you should use care when disclosing your personal information to strangers. Be advised that if you send messages or post material containing personal information, that information may be collected and used by others. In order to provide the best possible service and detect and correct site errors, we collect aggregate information about use of the site (such as which page are most often viewed) and we collect information about your computer, such as such as browser type, browser language, and IP address. 
 
-**how we use your information**
+**Ads served on orkut**
 
-As described above, we display your profile information according to the preferences set in your account. Your name will be posted with your summary profile and available to other users of the site. The 
+  * Orkut strives to provide you with relevant and useful advertising and we use the [DoubleClick cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx), as well as other third party ad serving systems, to do so. We may use a range of information including cookies, web beacons, IP addresses, usage data and other non-personal information about your computer or device (such as browser type and operating system) to provide you with relevant advertising. If you are logged into your Orkut Account, we may also show you advertising based on the information you have provided to us in your Orkut Account. 
+  * We use the [DoubleClick cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) on Orkut to help advertisers and publishers serve and manage ads on this site and other Google and AdSense partner websites. Advertisers may serve ads based on interests associated with non-personally identifiable online activities including activity on other AdSense partner sites. Advertisers may also serve ads to you based on previous activity on that advertiser's website. This non- personally identifiable information is held separately from your Orkut Account data, or other personally identifying information in our possession. 
+  * You may view, edit and add to the categories used to provide you with interest- based advertising in the [Ads Preferences Manager](http://www.google.com/ads/preferences?hl=en-US) for the DoubleClick cookie. Your ads preferences will be respected across Orkut, AdSense partner sites and Google sites using the DoubleClick cookie to serve such ads. For more information about interest-based advertising and the Ads Preference Manager [see our FAQ](http://www.google.com/privacy_faq.html). 
+  * You also may choose to [opt out of the DoubleClick cookie](http://optout.doubleclick.com/cgi-bin/optoutgoogle.pl) at any time. If you select the DoubleClick opt-out cookie, ads delivered to your browser by our ad serving technology will not be served based on the DoubleClick cookie. Find more information [here](http://www.google.com/privacy_faq.html) about opting out of the DoubleClick cookie. 
+  * **Ads served on orkut outside of applications:** Other third-party ad serving companies may display ads on orkut, provided they comply with our [ad serving requirements](http://adwords.google.com/support/bin/answer.py?answer=94230). Google uses [Google AdSense](http://www.google.com/adsense/) technology to serve ads on the orkut website. Most of the ads you see on orkut (outside of applications) are served by Google through Google AdSense. However, Google also allows advertisers to choose to use a third-party ad server to serve ads through AdSense. Those third-party ad servers may use cookies or web beacons to recognize your computer for purposes of tailoring advertising content or measuring ad effectiveness. A list of those third party servers is available [here](http://www.google.com/support/orkut/bin/answer.py?hl=en&answer=140020), along with links to their websites which provide information about how to opt-out of their cookies if such functionality is available from the ad server. Orkut does not provide any personal information to these third-party ad servers or ad networks without your consent. We provide advertisers only aggregated non-personal information such as the number of times one of their ads was clicked. 
+  * **Ads served within applications:** Application developers may choose to use a third-party ad server to serve ads into the developer's applications on the orkut site. Such ad servers may use cookies or web beacons to recognize your computer for purposes of tailoring advertising content or measuring ad effectiveness. We encourage you to contact the application developers to obtain more information about which ad servers the developers use and/or if you are seeking information about how to opt-out of the cookie for such ad servers (if such functionality is available from the ad servers). 
 
-orkut.com  members can view each other's viewable profile information to learn about people in their network and reach out to members. When you send messages through the orkut.com  service, your name and email address will be identified in the message. We also use your name and email address to notify you of new members, messages or other information, such as an invitation to join a friend's network; a new testimonial or "fan" rating; crush notices, etc. In addition, we will send you messages when there are substantive changes to the service or our policies. All of these messages can be sent to your primary email address or to your orkut.com inbox by setting your preferences on the "my settings" page. 
 
-We may share both personally identifiable information about you and aggregate usage information that we collect with Google Inc. and agents of orkut in accordance to the terms and conditions of this Privacy Policy. We will never rent, sell, or share your personal information with any third party for marketing purposes without your express permission. 
 
-You understand and agree that 
+**Your choices**
 
-orkut.com may access, preserve, and disclose your personal information and the contents of your account if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect the rights and property of orkut.com, its affiliates or the public. 
+  * Google provides a number of tools to restrict who can view certain portions of your profile and certain other information that you provide on the site. For example, when you create your profile you can limit the viewing of certain information to yourself, your friends, friends of friends, or make the information available to all orkut members.
+  * You can update your profile information at any time by clicking on the "edit" button in your profile setting.
+  * Messages you receive from orkut can be sent to your primary email address or orkut inbox, depending on the preferences you choose in the "my settings" page.
+  * You can terminate your account at any time. To learn how, [click here](http://help.orkut.com/support/bin/answer.py?answer=11596&p=Privacy.aspx). If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from orkut servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup systems.
 
-We use the non-personally identifiable information and certain technical information about your computer in order to operate, maintain and manage 
 
-orkut.com. 
 
-**controlling your personal information**
+**More information**
 
-The 
+Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce's web site](http://www.commerce.gov/).
 
-orkut.com service provides a number of tools to limit who can view your profile and other personal information. When you create your profile, look for the "golden key" icon  which allows you to limit viewing certain information to yourself, your friends, friends of friends or make the information available to everyone. Your profile information can be updated at any time by clicking on the "edit" button in your profile setting. 
+Further information about orkut is available [here](http://help.orkut.com/support).
 
-In addition, you can direct messages from 
+For more information about our privacy practices, go to [the full privacy policy](http://www.google.com/privacy.html). If you have additional questions, please [contact us any time](http://www.google.com/support/bin/request.py?form_type=user&stage=fm&user_type=user&contact_type=privacy). Or write to us at:
 
-orkut.com and other orkut.com messages to your primary email address or your orkut.com inbox by setting your preferences on the "my settings" page. 
-
-At any time, you can terminate your account which will remove your profile and other personal information from view. Contact [admin@orkut.com](mailto:admin@orkut.com) to terminate your account or for any other questions about your personal information. 
-
-**transfer of information**
-
-Personal information collected on this site may be stored and processed in the United States or any other country in which 
-
-orkut.com or Google Inc. or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. 
-
-We reserve the right to transfer your personal information in the event of a transfer of ownership of orkut.com, such as acquisition by or merger with another company. In such an event, 
-
-orkut.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-
-**others' information**
-
-If you invite another person to join 
-
-orkut.com, we will ask for that person's name and email address. We use this information to contact and, if necessary, remind that person that he or she has been invited to join orkut.com. All invitees are provided with the option not to receive further invitations from orkut.com. We may share other's email information with our affiliate, Google Inc, or agents which are required to abide by this Privacy Policy. We also may disclose such information if required to do so in order to comply with valid legal process. 
-
-**cookies**
-
-We send "cookies" to your computer and use such cookies as described here. A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our service and make the service easier to use for our members. We do this by storing user preferences in cookies and by tracking user trends - for example, we use cookies to allow you to automatically log in to the service after the first user session. 
-
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of 
-
-orkut.com may not function properly if you refuse cookies. 
-
-**links to other sites**
-
-orkut.com may contain links to other web sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information. 
-
-**security**
-
-We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding which measures and techniques we use, feel free to [ contact us](mailto:help@orkut.com). 
-
-**additional questions**
-
-Again, feel free to [contact us](mailto:help@orkut.com) any time, and if you have further questions about 
-
-orkut.com .  |  
+Privacy Matters   
+c/o Google Inc.   
+1600 Amphitheatre Parkway   
+Mountain View CA 94043 (USA)
