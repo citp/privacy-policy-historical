@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sheetmusicplus.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505121924id_/http%3A//www.sheetmusicplus.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheetmusicplus.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623064742id_/http%3A//www.sheetmusicplus.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Sheet Music Plus - World's Largest Selection of Sheet Music
+# Sheet Music Plus
 
 Sheet Music Plus, LLC owns the Sheet Music Plus website and business. Sheet Music Plus is committed to protecting your privacy. By visiting our websites you are accepting the practices described in this Privacy Policy.
 
