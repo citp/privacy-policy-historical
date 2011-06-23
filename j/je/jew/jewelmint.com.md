@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelmint.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204034758id_/http%3A//www.jewelmint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelmint.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623053034id_/http%3A//www.jewelmint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,9 +63,13 @@ We may use cookies, for example, to keep track of your preferences and profile i
 
  **Web beacons**
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used. ****
+
+**Targeted Advertising**
+
+Targeted Advertising (also known as online behavioral advertising) uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made.  Third parties collect this information by placing or accessing cookies in your browser when you visit this, or other, websites.  If you would like to learn more about the third party advertisers that may be aware of the fact that you visit this website, and to understand your choices about having such advertisers' cookies turned off, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
  **Security**
 
