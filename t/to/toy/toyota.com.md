@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710084256id_/http%3A//www.toyota.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623135519id_/http%3A//www.toyota.com/help/privacy.html) for the most accurate reproduction.*
 
 # Toyota Help
 
-**Toyota Personal Information Sharing Practices – 2009** During 2009, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient’s own marketing.  
+**Toyota Personal Information Sharing Practices – 2011** During 2010, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient’s own marketing.  
 Learn more 
 
-**Toyota Online Privacy Statement – Summary** This statement applies to websites operated by Toyota Motor Sales, U.S.A., Inc. (Toyota). Effective 01/21/2010. 
+**Toyota Online Privacy Statement – Summary** This statement applies to websites operated by Toyota Motor Sales, U.S.A., Inc. (Toyota). Effective 06/02/2011. 
 
 ###### Online Privacy Policy
 
-(Effective as of January 21, 2010) (Continental United States Only)
+(Effective as of June 2nd, 2011) (Continental United States Only)
 
 Thank you for visiting Toyota Motor Sales, U.S.A., Inc. (Toyota) online.
 
@@ -29,7 +29,7 @@ Changes to This Privacy Statement
 
 We will post changes to this online statement and update the effective date when this statement is updated
 
-Last updated January 21, 2010
+Last updated January 21st, 2010
 
 Information We Collect; How We Use and Share it
 
@@ -118,10 +118,10 @@ Toyota Motor Sales, U.S.A., Inc.
 Dept. WC11  
 Torrance, CA 90501
 
-###### Personal Information Practices for 2009  
-(Effective as of January 21, 2010)
+###### Personal Information Practices for 2010  
+(Effective as of January 01, 2011)
 
-During 2009, we shared the following types of personal information about our customers with Sirius XM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+During 2010, we shared the following types of personal information about our customers with Sirius XM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 Name  
 Address  
