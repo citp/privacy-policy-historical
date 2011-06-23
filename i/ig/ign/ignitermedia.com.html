@@ -1,343 +1,280 @@
-<!--The following is the downloaded HTML source of the ignitermedia.com privacy policy that was archived on 2009-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624083303id_/http%3A//www.ignitermedia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ignitermedia.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623025237id_/http%3A//www.ignitermedia.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="description" content="">
-<meta name="keywords" content="">
-<title>:: Igniter Media Group :: </title>
-
-<link href="/css/sitestyle.css" rel="stylesheet" type="text/css">
-<!-- the script below will keep calls to the console object (used in Firebug) from throwing errors on users w/o Firebug	-->
-<script src="/scripts/lib/firebugx.js" type="text/javascript"></script>
-
-
-<script type="text/javascript" src="/scripts/lib/prototype.js"></script>
-<script type="text/javascript" src="/scripts/lib/lowpro.js"></script>
-<script type="text/javascript" src="/scripts/messagemanager.js"></script>
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-	// initialize site-wide services
-	// Google Analytics
-	_uacct = "UA-212682-2";
-	urchinTracker();
-	// intra-view message passing
-	__msgMgr = new IgniterMedia.MessageManager();
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
-	function showDownloadOptions(radioInput) {
-  	var radioValue = getCheckedValue(document.purchaseForm.purchaseOption);
-  	var sel = document.getElementById('sel_' + radioValue);
-  	var input = document.getElementById('input_' + radioValue);
-  	var selholder = document.getElementById('holder_' + radioValue);
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  <meta name="verify-v1" content="9YwNDsvPE5sVZqvSf+ZyKkPdUtk5hVe8gToLaM6Ip7w=">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="viewport" content="width=1018px">
+  <title>Privacy Policy | Igniter Media</title>
+	
+	<link href="/min/?b=css&amp;f=avalon.css,reset.css,controls.css,home.css,fancyprotobox.css,cart.css,core.css,messages.css" rel="stylesheet" type="text/css">
 
-  	if (radioInput) {	
-  		if (active_pdlformat) {
-  			var old_pdlformat = document.getElementById(active_pdlformat);
-  			old_pdlformat.disabled = true;
-  			if (old_pdlformat.nodeName == 'SELECT') {
-  				var oldholder = document.getElementById(active_pdlformat.replace(/sel/, 'holder'));
-  				oldholder.style.display = 'none';
-  			}
-  		}
 
-  		if (input) {
-  			input.disabled = false;
-  			active_pdlformat = input.id;
-  		}
-  		else if (sel) {
-  			sel.disabled = false;
-  			selholder.style.display = 'block';
-  			active_pdlformat = sel.id;
-  		}
-  	} else {
-  		if (active_pdlformat) {
-  			var old_pdlformat = document.getElementById(active_pdlformat);
-  			old_pdlformat.disabled = true;
-  			if (old_pdlformat.nodeName == 'SELECT') {
-  				var oldholder = document.getElementById(active_pdlformat.replace(/sel/, 'holder'));
-  				oldholder.style.display = 'none';	
-  			}
-  		}
-  		if (input) {
-  			input.disabled = true;
-  		}
-  		else if (sel) {
-  			sel.disabled = true;
-  			selholder.style.display = 'none';
-  		}
-  	}
-  }
+<script type="text/javascript" src="/min/?b=scripts&amp;f=lib/3rdparty/prototype-1.7_rc2.js,lib/3rdparty/scriptaculous/effects.js,lib/plugins.js,lib/fancyprotobox.js,lib/whm.js,lib/validation.js,core.js,lib/3rdparty/jwplayer.min.js"></script>
 
-  function loadDlOptState() {
-  	var radioValue = getCheckedValue(document.purchaseForm.purchaseOption);
-  	for (var i = 0; i < document.purchaseForm.elements.length; i++) {
-  		var elem = document.purchaseForm.elements[i];
-  		if (elem.nodeName == 'INPUT' && elem.type == 'radio' && elem.value == radioValue) {
-  			showDownloadOptions(elem);
-  			break;
-  		}
-  	}
-  }
 
-  function getCheckedValue(radioBtns) {
-  	if (!radioBtns)	return '';
-  	var radioLength = radioBtns.length;
-  	if (radioLength == undefined) {
-  		if (radioBtns.checked)
-  			return radioBtns.value;
-  		else
-  			return '';
-  	}
-
-  	for (var i = 0; i < radioLength; i++) {
-  		if (radioBtns[i].checked) {
-  			return radioBtns[i].value;
-  		}
-  	}
-
-  	return '';
-  }
-</script>
-
-<script type="text/javascript">
-	__msgMgr.respondTo("userLoggedIn", function (args) {
-		$('userName').innerHTML = args[0];
-		$('loginTag').style.visibility = 'visible';
-	});
-</script>
+	<!--[if gte IE 7]>
+	  <link rel="stylesheet" type="text/css" href="/css/ie.css" />
+	<![endif]-->
+	
+	
 </head>
 <body>
-<div id="holder" class="holder" align="center">
-	<div class="titlebar" align="center">
-		<div class="logoHolder"><a class="logo" title="Igniter Media Group" href="/home"><img src="/images/igniterlogo.jpg" alt="Igniter Media" width="228" height="72" border="0"></a></div>
-		<!--<div class="dropButtonHolder"><a href="/jobs"><img src="/images/dropbutton-job-intern.png" alt="Jobs &amp; Internships" width="173" height="45" border="0" /></a></div>-->
-		<div class="siteButtons">
+<div id="candy">
+		
+	<div id="wrapper">
+		
+		<div id="header">
 			
-<div class="tabsHolder">
-	<div class="tabrollover"><a href="/home">HOME</a></div>
-	<div class="tabrollover"><a href="/snippets">SNIPPETS</a></div>
-	<div class="tabrollover"><a href="/about">ABOUT US</a></div>
-	<div class="tabrollover"><a href="/contact">CONTACT US</a></div>
-	<div id="loginInfo" align="right">
-		<div id="loginTag" class="hidden">Logged in as <span id="userName"></span></div>
-		<div id="loginLinks">
-		  
-			  <span><a href="/account">Register / Login</a></span>
+				<h1 id="logo"><a href="/" title="Igniter Media">Igniter Media</a></h1>
 			
-			<span>&nbsp;•</span>
-			<span><a href="/cart">Cart (0 items)</a></span>
+			
+			<ul id="userlinks">
+				
+					<li><a href="/index.cfm?event=user.downloads" class="media">My Media</a></li>
+					
+						<li>
+							<a href="/index.cfm?event=user.login&amp;returnUrl=http%3A%2F%2Fwww%2Eignitermedia%2Ecom%2Findex%2Ecfm%3Fevent%3Dpage%2Eprivacy" class="login" title="Login / Register">
+						  Login / Register
+						  </a>
+						</li>
+					
+					<li class="cartTab">
+						<a href="/index.cfm?event=cart.list&amp;returnUrl=http%3A%2F%2Fwww%2Eignitermedia%2Ecom%2Findex%2Ecfm%3Fevent%3Dpage%2Eprivacy" class="cartLink" title="My Cart">My Cart
+						
+						</a>
+					</li>
+				
+	    </ul>
+			
+			<form id="searchForm" action="/index.cfm" method="get">
+				<fieldset class="uno">
+					<input type="hidden" name="event" value="page.search" style="display: none;">
+					<input type="text" id="searchBox" name="kwrd" class="sm"><button class="sm action button" type="submit"><span class="search">Search</span></button>
+				</fieldset>
+			</form>
+		</div><!-- #header -->
+
+		
+    <ul id="nav" class="clearfix">
+      
+			<li class="selected"><a href="/" title="Igniter Media Store Homepage" class="home">Home</a></li>
+			
+			<li><a href="/mini-movies" title="Mini-Movies" class="mini-movies">Mini Movies</a></li>
+			
+			<li><a href="/song-tracks" title="Song-Tracks" class="song-tracks">Song Tracks</a></li>
+			
+			<li><a href="/countdowns" title="Countdowns" class="countdowns">Countdowns</a></li>
+			
+			<li><a href="/backgrounds" title="Backgrounds" class="backgrounds">Backgrounds</a></li>
+			
+			<li class="seasonal"><a href="/seasonal" title="Seasonal Store" class="seasonal">Seasonal</a></li>
+			
+    </ul>
+		
+
+    <div id="content">
+  		
+	<div id="messagebar" style="display:none;">&nbsp;</div>
+
+
+<div id="contact_wrapper" class="full_container">
+  <h1>Privacy Policy</h1>
+	<p>Igniter Media (IM) is committed to maintaining your trust and confidence. The following online privacy policy is intended to protect and secure the personally identifiable information (any information by which you can be identified) you provide to our organization online.</p>
+	<p>Click one of the links below to jump to that section:</p>
+	<p>
+		</p><ul>
+			<li><a href="#awareness">Awareness</a></li>
+	      <li><a href="#information">Information We Collect</a></li>
+	      <li><a href="#how">How the Information is Used</a></li>
+	      <li><a href="#sharing">Sharing of Personal Information</a></li>
+	      <li><a href="#security">Security</a></li>
+	      <li><a href="#cookies">Cookies</a></li>
+	      <li><a href="#children">Children's Online Privacy</a></li>
+	      <li><a href="#links">Links to Outside Sites</a></li>
+	      <li><a href="#removal">Removal From our Mailing List</a></li>
+	      <li><a href="#contact">Contacting Us</a></li>
+		</ul>
+	<p></p>
+	<h2><a name="awareness">Awareness</a></h2>
+	<p>IM provides this online privacy policy to inform you of the way your information is collected and used as well as to make you aware of our security practices. We also provide you with the opportunity to remove your name from our postal mailing list, if you desire to do so.&nbsp;</p>
+	<h2><a name="information">Information We Collect</a></h2>
+	<p>There are two different ways in which we collect information from visitors on our Web site:</p>
+	<p>1. From online requests for information (i.e. e-mail newsletters, contact forms, etc.);</p>
+	<p>2. From online requests for materials from our organization (i.e. requesting a free offer)</p>
+	<p>The information we collect online includes name, address, city, state, ZIP/postal code, telephone number, e-mail address, and, in the case of online shopping, credit card number and expiration date. In order to continuously improve our service to you and tailor our future communications to you, we may also ask you to provide us with information regarding your demographics, comments, professional interests, and contact preferences.</p>
+	<h2><a name="how">How the Information is Used</a></h2>
+	<p>IM uses your information to understand your needs and provide you with better online service. We may use your information to complete a transaction, to update you on our projects and videos, or to personalize our Web site for you. Credit card numbers are used only for payment processing and are not retained for any other purposes. We also provide you the opportunity to remove your name from our postal mailing list, if you desire to do so. Please review the corresponding section of this privacy policy below.</p>
+	<p>In addition, IM will not send you e-mail that you have not agreed to receive. We may periodically send you e-mail announcing news and event information. If you choose to supply your postal address in an online form, you may receive mailings from us as well.</p>
+	<h2><a name="sharing">Sharing of Personal Information</a></h2>
+	<p>IM never sells, rents, leases or exchanges your personal information with other organizations. IM assures you that the identity of all who contact us through this Web site will be kept confidential. VSP may occasionally send mailings on behalf of other organizations or ministries when their interests align with VSP. Use of your personal information will be limited to further the ministry activities of VSP and partner ministries.</p>
+	<h2><a name="security">Security</a></h2>
+	<p>IM is committed to ensuring the security of your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the proper use of information, we have established and implemented appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. IM uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol when collecting or transferring sensitive data such as credit card information. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, and then de-encrypted at our server. Once we receive your credit card information, it is accessible only to a small number of trusted VSP employees who have been specially trained in processing this information.</p>
+	<h2><a name="cookies">Cookies</a></h2>
+	<p>From time to time, we may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie can't read data off your hard drive or read cookie files created by other sites. Cookies do not damage your system. We use cookies to recognize you when you return to our sites, or to identify which areas of our network of Web sites you have visited. We may use this information to better personalize the content you see on our sites.</p>
+	<p>Many Web sites place cookies on your hard drive. You can choose whether to accept cookies by changing the settings of your browser. Your browser can refuse all cookies, or show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.</p>
+	<h2><a name="children">Children's Online Privacy</a></h2>
+	<p>We are concerned about the privacy of young children and do not knowingly collect any personal information from a child under 13. We encourage you to become involved with your child's access to the Internet and to our site in order to ensure that his or her privacy is well protected.</p>
+	<p>To read more about online safety and how to become more involved with your child's online experience, visit the Federal Trade Commission Web site. You may also benefit from the information and resources available on <a href="http://www.protectkids.com/">ProtectKids.com</a>.</p>
+	<h2><a name="links">Links to Outside Sites</a></h2>
+	<p>This Web site links to documents located on Web sites maintained by other organizations or individuals. Once you access a link to another Web site, please be aware that IM is not responsible for the privacy practices or the content of such Web sites.</p>
+	<h2><a name="removal">Removal from Our Mailing List</a></h2>
+	<p>We give you the opportunity to remove your name from our postal mailing list so that you do not receive any future communications from our ministry. If you desire to permanently remove your name, you can <a href="/contact">contact customer service</a>. If you determine that our information about you is inaccurate or it has changed, you may also modify information by <a href="/contact">contacting customer service</a>.</p>
+	<h2><a name="contact">Contacting Us</a></h2>
+	<p>If you have comments or questions about our online privacy policy, or would like more information about IM, or are experiencing technical trouble, please <a href="/contact">contact us</a>.</p>
+</div>
+
 		</div>
-	</div>
-</div>
 
-		</div>
 	</div>
-	<div class="contentHolder" align="center">
-		<div class="mainFrame">
-			<div class="mainFrameTop"></div>
-			<div class="mainFrameRepeat">
-				<div class="mainFrameContent">
-					<div class="leftColumnFrame">
-						<div class="leftColumnSpacer"><img src="/images/leftcolumnspacer.jpg" alt="" width="18" height="1" border="0"></div>
-						<div class="seriesButtons">
-							<div align="center">
-							
-	<div class="seriesDetail">
-		<a id="iv" href="/products/iv" title="Igniter Videos - Sermon Illustrations">
-			<img class="seriesSubheadImageHolder" src="/images/seriestext-igvideos.png" onclick="window.location.href = $('iv').href;" alt="Igniter Videos" width="179" height="29" border="0" align="left">
-			<img class="seriesImageHolder" src="/images/seriesbutton-igvideos.jpg" onclick="window.location.href = $('iv').href;" alt="Igniter Videos" width="44" height="29" border="0">
-		</a>
-	</div>
-	
-		<img src="/images/seriesdivider.jpg" alt="" width="240" height="4" border="0">
-	
-	<div class="seriesDetail">
-		<a id="ib" href="/products/ib" title="Igniter Backs - Countdowns, Loops, Stills">
-			<img class="seriesSubheadImageHolder" src="/images/seriestext-igbacks.png" onclick="window.location.href = $('ib').href;" alt="Igniter Backs" width="179" height="29" border="0" align="left">
-			<img class="seriesImageHolder" src="/images/seriesbutton-igbacks.jpg" onclick="window.location.href = $('ib').href;" alt="Igniter Backs" width="44" height="29" border="0">
-		</a>
-	</div>
-	
-		<img src="/images/seriesdivider.jpg" alt="" width="240" height="4" border="0">
-	
-	<div class="seriesDetail">
-		<a id="itrk" href="/products/itrk" title="Igniter Tracks - Visual Worship">
-			<img class="seriesSubheadImageHolder" src="/images/seriestext-igtracks.png" onclick="window.location.href = $('itrk').href;" alt="Igniter Tracks" width="179" height="29" border="0" align="left">
-			<img class="seriesImageHolder" src="/images/seriesbutton-igtracks.jpg" onclick="window.location.href = $('itrk').href;" alt="Igniter Tracks" width="44" height="29" border="0">
-		</a>
-	</div>
-	
-		<img src="/images/seriesdivider.jpg" alt="" width="240" height="4" border="0">
-	
-	<div class="seriesDetail">
-		<a id="ibmp" href="/products/ibmp" title="Igniter Bumpers - Just Add Text">
-			<img class="seriesSubheadImageHolder" src="/images/seriestext-igbumpers.png" onclick="window.location.href = $('ibmp').href;" alt="Igniter Bumpers" width="179" height="29" border="0" align="left">
-			<img class="seriesImageHolder" src="/images/seriesbutton-igbumpers.jpg" onclick="window.location.href = $('ibmp').href;" alt="Igniter Bumpers" width="44" height="29" border="0">
-		</a>
-	</div>
-	
-		<img src="/images/seriesdivider.jpg" alt="" width="240" height="4" border="0">
-	
-	<div class="seriesDetail">
-		<a id="sea" href="/products/sea" title="Seasonal - Timely Media Resources">
-			<img class="seriesSubheadImageHolder" src="/images/seriestext-seasonal.png" onclick="window.location.href = $('sea').href;" alt="Seasonal" width="179" height="29" border="0" align="left">
-			<img class="seriesImageHolder" src="/images/seriesbutton-seasonal.jpg" onclick="window.location.href = $('sea').href;" alt="Seasonal" width="44" height="29" border="0">
-		</a>
-	</div>
-	
-		<img src="/images/seriesdivider.jpg" alt="" width="240" height="4" border="0">
-	
-	<div class="seriesDetail">
-		<a id="ap" href="/products/ap" title="Igniter Apparel - Igniter Wearables">
-			<img class="seriesSubheadImageHolder" src="/images/seriestext-apparel.png" onclick="window.location.href = $('ap').href;" alt="Igniter Apparel" width="179" height="29" border="0" align="left">
-			<img class="seriesImageHolder" src="/images/seriesbutton-apparel.jpg" onclick="window.location.href = $('ap').href;" alt="Igniter Apparel" width="44" height="29" border="0">
-		</a>
-	</div>
-	
-<img src="/images/seriesdivider.jpg" alt="" width="240" height="4" border="0">
-<div class="seriesDetail">
-	
-	<a id="multiscreen" href="/products/keywords/Multi-Screen" title="Multi-Screen Content">
-		<img class="seriesSubheadImageHolder" src="/images/seriestext-multiscreen.png" onclick="window.location.href = $('muiltiscreen').href;" alt="Multi-Screen" width="179" height="29" border="0" align="left">
-		<img class="seriesImageHolder" src="/images/seriesbutton-multiscreen.jpg" onclick="window.location.href = $('muiltiscreen').href;" alt="Multi-Screen" width="44" height="29" border="0">
-	</a>
-</div>
 
-							</div>
-						</div>
+	<div id="footer">
+		<div id="footer_wrapper">
+
+			<div id="links" class="section">
+				<div id="info">
+					<h4>Info</h4>
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/about">About Us</a></li>
+						<li><a href="/help">Questions / Support</a></li>
+						<li><a href="/contact">Contact</a></li>
+						<li><a href="/blog">Blog</a></li>
+						<li><a href="/privacy">Privacy Policy</a></li>
+						<li><a href="/documents/termsandconditions.pdf">Terms &amp; Conditions</a></li>
+					</ul>
+				</div>
+
+				<div id="categories">
+					<h4>Categories</h4>
+					<ul>
+						<li><a href="/mini-movies">Mini Movies</a></li>
+						<li><a href="/song-tracks">Song Tracks</a></li>
+						<li><a href="/countdowns">Countdowns</a></li>
+						<li><a href="/backgrounds">Backgrounds</a></li>
 						
-						<div class="leftColumnSpacer"><img src="/images/leftcolumnspacer.jpg" alt="" width="18" height="1" border="0"></div>
-						<div class="topSellingFrame">
-						  
-<img src="/images/title-topsellingtitle.jpg" alt="Best Sellers"><br><br>
-
-
-
-<div align="left" style="width:100%;">
-
-<ol>
-
-	<li style="padding-bottom:6px;"><a href="/products/sea/singles/1317/Ill-Need-You-Dad">I'LL NEED YOU DAD</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/sea/singles/628/What-Dads-Cant-Do">WHAT DADS CAN'T DO</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/iv/singles/4/Thats-My-King">THAT'S MY KING!</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/iv/volumes/361/Thats-My-King-DVD">THAT'S MY KING DVD</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/iv/singles/9/Together-Team-Hoyt">TOGETHER | TEAM HOYT</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/sea/singles/1320/Together-Team-Hoyt-Fathers-Day-Version">TOGETHER | TEAM HOYT (Father's Day Version)</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/sea/singles/627/Father-Knows-Best-Countdown">FATHER KNOWS BEST COUNTDOWN</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/iv/singles/570/99-Balloons">99 BALLOONS</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/ib/volumes/629/Fathers-Day-Collection">FATHER'S DAY COLLECTION</a></li>
-
-	<li style="padding-bottom:6px;"><a href="/products/iv/singles/18/meCHURCH">meCHURCH</a></li>
-
-</ol>
-
-</div>
-
-						</div>
-						<div class="leftColumnSpacer"><img src="/images/leftcolumnspacer.jpg" alt="" width="18" height="1" border="0"></div>
-						
-					</div>
-					<div class="rightColumnFrame">
-						
-	<div class="contentTitle" style="background-image:url(/images/title/privacy.jpg); background-repeat:no-repeat; height:36px"></div>
-<div style="float:left; width:90%; padding-left:30px">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td align="left">
-        <p><br>
-          Igniter Media Group  (IMG) is committed to maintaining your trust and confidence. The following online privacy policy is intended to protect and secure the personally identifiable information (any information by which you can be identified) you provide to our organization online.</p>
-        <p>Click one of the links below to jump to that section:</p>
-        <p>• <a href="#awareness">Awareness</a><br>
-          • <a href="#information">Information We Collect</a><br>
-          • <a href="#how">How the Information is Used</a><br>
-          • <a href="#sharing">Sharing of Personal Information</a><br>
-          • <a href="#security">Security</a><br>
-          • <a href="#cookies">Cookies</a><br>
-          • <a href="#children">Children's Online Privacy</a><br>
-          • <a href="#links">Links to Outside Sites</a><br>
-          • <a href="#removal">Removal From our Mailing List</a><br>
-          • <a href="#contact">Contacting Us</a> </p>
-        <p>&nbsp;</p>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div style="float:left; width:90%; padding-left:30px">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td align="left"><strong><span class="style1"><a name="awareness"></a>Awareness</span></strong><br>
-        IMG provides this online privacy policy to inform you of the way your information is collected and used as well as to make you aware of our security practices. We also provide you with the opportunity to remove your name from our postal mailing list, if you desire to do so.
-        <p><strong><span class="style1"><a name="information"></a>Information We Collect</span></strong><br>
-          There are two different ways in which we collect information from visitors on our Web site:</p>
-        <p>1. From online requests for information (i.e. e-mail newsletters, contact forms, etc.);</p>
-        <p>2. From online requests for materials from our organization (i.e. requesting a free offer)</p>
-        <p>The information we collect online includes name, address, city, state, ZIP/postal code, telephone number, e-mail address, and, in the case of online shopping, credit card number and expiration date. In order to continuously improve our service to you and tailor our future communications to you, we may also ask you to provide us with information regarding your demographics, comments, professional interests, and contact preferences.</p>
-        <p><strong><span class="style1"><a name="how"></a>How the Information is Used</span></strong><br>
-          IMG uses your information to understand your needs and provide you with better online service. We may use your information to complete a transaction, to update you on our projects and videos, or to personalize our Web site for you. Credit card numbers are used only for payment processing and are not retained for any other purposes. We also provide you the opportunity to remove your name from our postal mailing list, if you desire to do so. Please review the corresponding section of this privacy policy below.</p>
-        <p>In addition, IMG will not send you e-mail that you have not agreed to receive. We may periodically send you e-mail announcing news and event information. If you choose to supply your postal address in an online form, you may receive mailings from us as well.</p>
-        <p><strong><a name="sharing"></a>Sharing of Personal Information</strong><br>
-          IMG never sells, rents, leases or exchanges your personal information with other organizations. IMG assures you that the identity of all who contact us through this Web site will be kept confidential. VSP may occasionally send mailings on behalf of other organizations or ministries when their interests align with VSP. Use of your personal information will be limited to further the ministry activities of VSP and partner ministries.</p>
-        <p><strong><a name="security"></a>Security</strong><br>
-          IMG is committed to ensuring the security of your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the proper use of information, we have established and implemented appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. IMG uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol when collecting or transferring sensitive data such as credit card information. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, and then de-encrypted at our server. Once we receive your credit card information, it is accessible only to a small number of trusted VSP employees who have been specially trained in processing this information.</p>
-        <p><strong><a name="cookies"></a>Cookies</strong><br>
-          From time to time, we may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie can't read data off your hard drive or read cookie files created by other sites. Cookies do not damage your system. We use cookies to recognize you when you return to our sites, or to identify which areas of our network of Web sites you have visited. We may use this information to better personalize the content you see on our sites.</p>
-        <p>Many Web sites place cookies on your hard drive. You can choose whether to accept cookies by changing the settings of your browser. Your browser can refuse all cookies, or show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.</p>
-        <p><strong><a name="children"></a>Children's Online Privacy</strong><br>
-          We are concerned about the privacy of young children and do not knowingly collect any personal information from a child under 13. We encourage you to become involved with your child's access to the Internet and to our site in order to ensure that his or her privacy is well protected.</p>
-        <p>To read more about online safety and how to become more involved with your child's online experience, visit the Federal Trade Commission Web site. You may also benefit from the information and resources available on <a href="http://www.protectkids.com">ProtectKids.com</a>.</p>
-        <p><strong><a name="links"></a>Links to Outside Sites</strong><br>
-          This Web site links to documents located on Web sites maintained by other organizations or individuals. Once you access a link to another Web site, please be aware that IMG is not responsible for the privacy practices or the content of such Web sites.</p>
-        <p><strong><a name="remove"></a>Removal from Our Mailing List</strong><br>
-          We give you the opportunity to remove your name from our postal mailing list so that you do not receive any future communications from our ministry. If you desire to permanently remove your name, you can <a href="/contact">contact customer service</a>. If you determine that our information about you is inaccurate or it has changed, you may also modify information by <a href="/contact">contacting customer service</a>.</p>
-        <p><strong><a name="contact"></a>Contacting Us</strong><br>
-          If you have comments or questions about our online privacy policy, or would like more information about IMG, or are experiencing technical trouble, please <a href="/contact">contact us</a>.</p>
-        <p>Return to <a href="/home">ignitermedia.com</a></p>
-        <p>&nbsp;</p>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-						
-						<div class="footer">
-							<div style="margin-top:5px;"><img src="/images/horzline.jpg" alt="" width="649" height="5" border="0"></div>
-<div align="center" style="margin-top:8px; width:92%">
-	<div id="footerLinks"><a href="/home">Home</a>|<a href="/snippets">Snippets</a>|<a href="/about">About Us</a>|<a href="/contact">Contact Us</a>|<a href="/support">Support</a>|<a href="/privacy">Privacy Policy</a></div>
-	<div>© 2009 IGNITER MEDIA GROUP®, All Rights Reserved</div>
-</div>
-
-						</div>
-					</div>
-					<div class="rightSpacerFrame"></div>
+						<li><a href="/seasonal">Seasonal</a></li>
+						<li><a href="/apparel">Apparel</a></li>
+					</ul>
 				</div>
 			</div>
-			<div class="mainFrameBottom">
-			  <div id="rt">
-          <ul>
-            <li><span>RT Productions, Inc. Web Network</span></li>
-            <li><a href="http://www.worshiphousemedia.com/" title="WorshipHouse Media" class="whm">WorshipHouse Media</a></li>
-            <li><a href="http://www.echoconference.com/" title="Echo | Church Media Conference" class="echo">Echo | Church Media Conference</a></li>
-            <li><a href="http://www.collidemagazine.com/" title="Collide Magazine" class="col">Collide Magazine</a></li>
-            <li><a href="http://www.ignitermedia.com/" title="Igniter Media" class="igniter">Igniter Media</a></li>
-          </ul>
-        </div>
+			
+			<div id="social" class="section">
+				
+	  		
+<div class="tweet_bubble">
+<h4 class="twitter">Twitter Feed</h4>
+<p class="tweettext"> Here is a link: <a href="http://www.ignitermedia.com/mini-movies/2110/Johnny-And-Chachis-Tribute-For-Dad">http://www.ignitermedia.com/mini-movies/2110/Johnny-And-Chachis-Tribute-For-Dad</a> 	</p><p class="followlink"><a href="http://twitter.com/IgniterMedia" rel="external" class="follow">Follow us on Twitter!</a></p>
+</div><div class="tweet_handle"></div>
+
+				
+				
+				<h4 class="findus">Find us on</h4>
+				<ul>
+					<li><a href="http://www.facebook.com/IgniterMedia" rel="external" class="action button"><span class="facebook">Facebook</span></a></li>
+				</ul>
+			</div>
+
+			<div id="newsletter" class="section">
+				<p id="newsletterMessage">Join our mailing list and be the first to know about new content and upcoming sales.</p>
+				<p id="lblSubscribeMessage" style="display: none;">&nbsp;</p>
+				<form id="newsletterForm" method="get" action="/">
+					<fieldset>
+						<input type="hidden" name="event" value="newsletter.subscribe" style="display: none;">
+						<input id="txtSuscribeEmail" type="email" name="newsletterBox" class="required validate-email" title="Please enter a valid email">
+						<button id="btnNewsletterSubscribe" class="action button" type="submit">Submit</button>
+					</fieldset>
+				</form>
 			</div>
 		</div>
 	</div>
+
+	<div id="global_footer">
+		<p><span class="copyright">© 2011 Igniter Media. All Rights Reserved.</span> <span class="division">Igniter Media is a division of <a href="http://www.rtcreativegroup.com/" rel="external">RT Creative Group.</a></span></p>
+	</div>
+	
+	<script type="text/javascript" charset="utf-8">
+	//<![CDATA[
+	(function(){
+		var executeSubscribeUser = function() {
+			$('btnNewsletterSubscribe').update('Subscribing...');
+			
+			new Ajax.Request('/index.cfm?event=newsletter.subscribe', {
+			  method: 'post',
+			  parameters: {	subscribeEmail: $F('txtSuscribeEmail') },
+				onSuccess: function(transport) {
+					var json = transport.responseText.evalJSON();
+					var messageDiv = $('lblSubscribeMessage');
+					if(json.success) {
+						messageDiv.update('Thank You! You have been successfully subscribed.').addClassName('success').show();
+						$('txtSuscribeEmail').value = '';
+						$('newsletterForm').hide(); 
+						// FancyProtoBox.hide.delay(3);
+						// Element.hide.delay(5, messageDiv);
+						// Element.removeClassName.delay(5, messageDiv, 'success');
+					}	else {
+						messageDiv.update('This email address is already subscribed to our newsletter.').addClassName('error').show();
+						$('txtSuscribeEmail').value = '';
+						Element.hide.delay(5, messageDiv);
+						Element.removeClassName.delay(5, messageDiv, 'error');
+					}
+					$('btnNewsletterSubscribe').update('Subscribe');
+				},
+				onFailure: function() {
+				  var messageDiv = $('lblSubscribeMessage');
+				  messageDiv.update('There was an error subscribing you to our newsletter. Please try again later.').addClassName('error').show();
+					$('txtSuscribeEmail').value = '';
+					Element.hide.delay(5, messageDiv);
+					Element.removeClassName.delay(5, messageDiv, 'error');
+					$('btnNewsletterSubscribe').update('Submit');
+					FancyProtoBox.hide.delay(5);
+				}
+			});
+		}
+		
+		document.observe('dom:loaded', function(event) {
+			new WorshipHouse.SimpleTextReplacer('txtSuscribeEmail', "EMAIL");
+			
+			var subscribeValidation = new Validation('newsletterForm', { 
+				onSubmit : true, 
+				focusOnError : true, 
+				useTitles : true
+			});
+			
+			$('btnNewsletterSubscribe').observe('click', function(event) {
+				if(subscribeValidation.validate()) {
+					executeSubscribeUser();
+				}
+				event.stop();
+			});
+		});
+	})();
+	//]]>
+	</script>
+	
 </div>
+	
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-212682-2");
+pageTracker._trackPageview();
+
+} catch(err) {}
+</script> 
+<!-- revision: 1494 -->
+<script type="text/javascript" charset="utf-8">
+	function forwardToLogin() {
+		window.location = '/index.cfm?event=user.login.timeout&amp;returnUrl=http%3A%2F%2Fwww%2Eignitermedia%2Ecom%2Findex%2Ecfm%3Fevent%3Dpage%2Eprivacy'
+	}
+</script>
 
 
-
-<!-- PLANET_TEST comment -->
 </body></html>
