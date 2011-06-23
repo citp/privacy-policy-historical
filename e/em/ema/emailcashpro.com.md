@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailcashpro.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192842id_/http%3A//www.emailcashpro.com/privacy.php%3Fsource%3D%26r%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailcashpro.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623152631id_/http%3A//www.emailcashpro.com/privacy.php%3Fsource%3D%26r%3D) for the most accurate reproduction.*
 
 # Get Paid To Read Emails
 
@@ -12,7 +12,9 @@
     [Contact us](http://www.emailcashpro.com/contact.php?source=&r=)  
     [FAQ](http://www.emailcashpro.com/faq.php?source=&r=)  
 **   
-[ ](http://www.emailcashpro.com/tellfriend.php?source=&r=) |  |  | 
+[ ](http://www.emailcashpro.com/tellfriend.php?source=&r=)
+
+|  |  | 
 
 **Privacy policy**
 
