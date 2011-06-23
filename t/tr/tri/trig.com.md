@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017044139id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trig.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623070442id_/http%3A//trig.com/legal/privacy) for the most accurate reproduction.*
 
 # trig.com - Legal
 
@@ -68,4 +68,4 @@ From time to time, we may make changes in our Privacy Policy. If we make changes
 
 ## CONTACTING THE WEB SITE
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [privacy@adocca.com](mailto:privacy@adocca.com).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [customersupport@trig.com](mailto:customersupport@trig.com).
