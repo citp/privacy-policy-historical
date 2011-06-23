@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contentking.eu privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221114345id_/http%3A//www.contentking.eu/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentking.eu privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623093649id_/http%3A//www.contentking.eu/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - ContentKing
+# Privacy Policy - ContentKing - Free High Quality Articles for your Site!
 
 Contentking.eu respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of Contentking.eu and are only used for troubleshooting purposes. 
 
