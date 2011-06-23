@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231134602id_/http%3A//p.sf.net/sourceforge/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624011144id_/http%3A//p.sf.net/sourceforge/privacy) for the most accurate reproduction.*
 
 # Privacy Statement – sitelegal
 
@@ -146,7 +146,7 @@ If Geeknet becomes aware that a user's personally identifiable information has b
 If a user has comments or questions about SourceForge.net's privacy statement, please contact: 
     
     
-    Email: legal@corp.sourceforge.com
+    Email: legal@geek.net
     
     Telephone: U.S. and Canada: (650) 694-2100
     Outside of U.S. and Canada: +011 650 694-2100
