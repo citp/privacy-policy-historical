@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fizzlebot.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523032027id_/http%3A//casualgameplay.com/store/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fizzlebot.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623125329id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Casual Gameplay : Privacy Policy
+# Privacy Policy for CasualGameplay and Jayisgames.com - Walkthrough Guides, Reviews, Discussion, Hints and Tips at Jay is Games
 
 CasualGameplay and Jayisgames.com ("CasualGameplay") takes matters concerning your privacy very seriously. Please read the following to learn more about our privacy policy.
 
