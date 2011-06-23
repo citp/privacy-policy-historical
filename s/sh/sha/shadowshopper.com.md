@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121034544id_/http%3A//www.shadowshopper.com/new/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623140402id_/http%3A//www.shadowshopper.com/new/privacy_policy.cfm) for the most accurate reproduction.*
 
 # The World's Largest Source of Mystery Shopping Jobs - ShadowShopper.com
 
