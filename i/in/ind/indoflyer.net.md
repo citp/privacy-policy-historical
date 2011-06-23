@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indoflyer.net privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601041152id_/http%3A//www.indoflyer.net/content.asp%3FContentId%3D353) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indoflyer.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623190926id_/http%3A//www.indoflyer.net/content.asp%3FContentId%3D353) for the most accurate reproduction.*
 
 # Indoflyer.net - The Wings of Indonesia : Privacy Policy
 
