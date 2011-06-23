@@ -1,28 +1,21 @@
-<!--The following is the downloaded HTML source of the bls.gov privacy policy that was archived on 2010-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213065048id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bls.gov privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624010922id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 <title>Privacy and Security Statement</title>
 <!-- ****************************************** Begin META TAGS ********************************************* -->
-	<script type="text/javascript" src="/javascripts/jquery.js"></script>
-	<script type="text/javascript" src="/javascripts/jquery.megamenu.js"></script>
-	<script type="text/javascript" src="/javascripts/jquery.hoverIntent.minified.js"></script>
-	<script type="text/javascript" src="/javascripts/thickbox-compressed.js"></script>
-	<script type="text/javascript" src="/javascripts/swfobject.js"></script>
-	<script type="text/javascript" src="/javascripts/font-switcher.js"></script>
-	<script type="text/javascript" src="/javascripts/jquery.tools.min.js"></script>
+	<!-- START include/global/head.stm -->
+    <script>var fsr$ip = '174.129.228.67';</script>
+	<script type="text/javascript" src="/javascripts/jquery-min.js"></script>
+	<script type="text/javascript" src="/javascripts/bls.js"></script>
 	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 	<style type="text/css">
 	<!--
-	@import url("/stylesheets/bls_thickbox.css");
-	@import url("/stylesheets/bls_main.css");
-	@import url("/stylesheets/bls_legacy.css");
-	@import url("/stylesheets/bls_layout.css");
+	@import url("/stylesheets/bls_combined.css");
 	@import url("/stylesheets/bls_content.css");
 	@import url("/stylesheets/bls_tables.css");
-	@import url("/stylesheets/bls_navigation.css");
-	@import url("/stylesheets/jquery-ui-custom.css");
 	@import url("/stylesheets/jquery-tools.css");
+	@import url("/stylesheets/bls_nr.css");
 	-->
 	</style>
     <!--[if lt IE 9]>
@@ -32,20 +25,23 @@
 		<link href="/stylesheets/ie7-styles.css" media="all" rel="Stylesheet" type="text/css"> 
 	<![endif]-->
 	<!--[if lt IE 7]>
-		<style type="text/css">
-			body {
-				behavior:url(/stylesheets/csshover2.htc);
-			}
-		 </style>
 		<link href="/stylesheets/ie6-styles.css" media="all" rel="Stylesheet" type="text/css"> 
+		<style type="text/css">
+		body {
+			behavior:url(/stylesheets/csshover2.htc);
+		}
+		</style>			
 	<![endif]-->
 	<!--[if IE]>
 		<style type="text/css">
 		body {
 			font-size: expression(1 / (screen.deviceXDPI / 96) * 84 + '%');
 		}
-		</style> 
+		</style>	
 	<![endif]-->
+	<!-- END include/global/head.stm -->
+	
+	<meta http-equiv="Content-Script-Type" content="type">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta http-equiv="content-language" content="en">
 	<meta name="agency" content="BLS">
@@ -59,43 +55,51 @@
 
 <!-- DOL BANNER BEGIN -->
 
+<!-- DOL BANNER START -->
 		<a class="skiplink" href="#startcontent">Skip to Content</a>
 		<div id="dol-bar">
 			<div id="dol-bar-content">
 				<div id="dol-bar-emblem">
-					<a href="http://www.dol.gov/"><img src="/images/dol/dol_emblem.png" width="328" height="30" alt="US Department of Labor"></a>
+					<h3><a href="http://www.dol.gov/">US Department of Labor</a></h3>
 				</div>
+				<form id="dol-bar-form" name="subsform" action="/bls/list.htm" method="get">
 				<div id="dol-bar-right">
-					<div id="dol-links">
-						<a href="/bls/topicsaz.htm">A to Z Index</a> &nbsp;|&nbsp;
-						<a href="/bls/sitemap.htm">Site Map</a> &nbsp;|&nbsp;
-						<a href="/dolfaq/blsfaqtoc.htm">FAQs</a> &nbsp;|&nbsp;
-						<a href="/bls/infohome.htm">About BLS</a> &nbsp;|&nbsp;
-						<a href="/bls/contact.htm">Contact Us</a> &nbsp; &nbsp;
-					</div>
-					<form name="subsform" action="http://data.bls.gov/cgi-bin/subunsub.pl" method="post">
-						<input name="email" type="text" id="dol-email-input" onclick="this.value=''" value="Subscribe to E-mail Updates" size="32">
-						<input name="list" value="BLSUPDT" type="hidden">
-                        <input name="sub" value="SUBSCRIBE" type="hidden">
-						<input type="image" src="/images/buttons/subscribe_button_red_on_red.png" id="dol-subscribe-submit" alt="Submit">
-					</form>
-					</div>
+					<a href="/bls/topicsaz.htm">A to Z Index</a> &nbsp;|&nbsp;
+					<a href="/dolfaq/blsfaqtoc.htm">FAQs</a> &nbsp;|&nbsp;
+					<a href="/bls/infohome.htm">About BLS</a> &nbsp;|&nbsp;
+					<a href="/bls/contact.htm">Contact Us</a> &nbsp; &nbsp;
+					<label for="dol-bar-email" style="display: none;">E-mail:</label>
+					<input id="dol-bar-email" name="email" type="text" onclick="this.value=''; this.onclick = null;" value="Subscribe to E-mail Updates" title="Enter your email address to subscribe to updates" size="32">
+					<input id="dol-bar-subscribe" type="image" src="/images/buttons/subscribe_button_red_on_red.png" alt="Submit">	
+				</div>
+				</form>
 				<div class="clearfloat"></div>
 			</div>
 		</div>
+<!-- DOL BANNER END -->
 
 
 <!-- DOL BANNER END -->
 <!-- BLS BANNER BEGIN -->
 
-<div id="top"></div>
-<div id="bls-banner-wrapper">
-	<div id="bls-banner">
-		<div id="bls-banner-emblem"><a href="/home.htm"><img src="/images/layout/bls_125_banner.gif" alt="U.S. Bureau of Labor Statistics" width="434" height="42" border="0"></a></div>
-        <div id="bls-banner-links"><a href="/newsroom/" class="first">What's New</a> | <a href="/schedule/news_release/">Release Calendar</a></div>
-		<div class="clearfloat"></div>
+<!-- BLS BANNER START -->
+	<div id="top"></div>
+	<div id="bls-banner-wrapper">
+		<div id="bls-banner">
+			<div id="bls-banner-emblem"><h2><a href="/home.htm">U.S. Bureau of Labor Statistics</a></h2></div>
+			 <div id="bls-banner-right">
+				<div id="bls-banner-links"><a href="/newsroom/" class="first">What's New</a> | <a href="/schedule/news_release/">Release Calendar</a> | <a href="/bls/sitemap.htm">Site Map</a></div>
+				<div id="bls-banner-search">
+					<form method="get" action="/search/query">
+						<input name="query" type="text" id="bls-banner-search-input" value="Search BLS.gov" alt="Search Input" title="Search Input" onclick="this.value=''; this.onclick = null;">
+						<input type="image" src="/images/buttons/search_button_red_on_red.png" name="term" id="bls-banner-search-submit" alt="Search" title="Submit">
+					</form>
+				</div>
+			</div>
+			<div class="clearfloat"></div>
+		</div>
 	</div>
-</div>
+<!-- BLS BANNER END -->
 
 
 <!-- BLS BANNER END -->
@@ -103,13 +107,21 @@
 
 <div id="main-nav-wrapper">
 	<div id="main-nav-container">
+	<!--
+<div class="social-media-icons">
+<h4>FOLLOW US</h4>
+<div><a href="#"><img src="/images/icons/facebook_small_icon.gif"></a><span><a href="#">Facebook</a></span></div>
+<div><a href="#"><img src="/images/icons/twitter_small_icon.gif"></a><span><a href="#">Twitter</a></span></div>
+<div><a href="#"><img src="/images/icons/linkedin_small_icon.gif"></a><span><a href="#">LinkedIn</a></span></div>
+</div>
+-->
 		<div>
 						<ul id="main-nav">
 				<li class="submenu-home"><a href="/home.htm" style="padding-left: 1em;">Home</a>
 
 <!-- ********************************************** Begin Home Tab LIST ****************************************** -->
 <!-- 1st column -->
-<div class="sub">
+<div class="sub" id="submenu-home">
    <ul>
       <li><h5>SUBJECT AREAS »</h5></li>
       <li><a href="/bls/inflation.htm">Inflation &amp; Prices</a></li>
@@ -170,88 +182,104 @@
                 <li class="submenu"><a href="/bls/proghome.htm">Subject Areas</a>
 <!-- ************************************* Begin SUBJECT AREAS list ****************************************** -->
 <!-- 1st column -->
-<div class="sub">
-   <ul>
-        <li><h5><a href="/bls/inflation.htm">Inflation &amp; Prices »</a></h5></li>
-        <li><a href="/cpi/">Consumer Price Index</a></li>
-        <li><a href="/ppi/">Producer Price Indexes</a></li>
-        <li><a href="/mxp/">Import/Export Price Indexes</a></li>
-        <li><a href="/ncs/ect/">Employment Cost Index</a></li>
-        <li><a href="/bls/escalation.htm">Contract Escalation</a></li>
-        <li><a href="/pir/">Price Index Research</a></li>
-        <li><a href="/bls/inflation.htm">Inflation &amp; Prices Overview</a></li>
-     	<li>&nbsp;</li> 
-        <li><h5><a href="/bls/unemployment.htm">Unemployment »</a></h5></li>
-        <li><a href="/cps/">National Unemployment Rate </a> </li>
-        <li><a href="/lau/">State &amp; Local Unemployment Rates </a> </li>
-        <li><a href="/mls/">Mass Layoffs </a> </li>
-        <li><a href="/ers/">Unemployment Research</a></li>
-        <li><a href="/bls/unemployment.htm">Unemployment Overview</a></li>        
-        <li>&nbsp;</li> 
-  </ul>	  	
-        
-<!-- 2nd column -->
 
-  <ul>    
-        <li><h5><a href="/bls/employment.htm">Employment »</a></h5></li>
-        <li><a href="/ces/">National Employment </a></li>
-        <li><a href="/sae/">State &amp; Local Employment </a></li>
-        <li><a href="/cew/">State &amp; County Employment </a></li>
-        <li><a href="/cps/">Worker Characteristics </a></li>
-        <li><a href="/emp/">Employment Projections </a></li>
-        <li><a href="/jlt/">Job Openings &amp; Labor Turnover </a></li>
-        <li><a href="/oes/">Employment by Occupation </a></li>
-        <li><a href="/nls/">Work Experience Over Time </a></li>
-        <li><a href="/bdm/">Business Employment Dynamics </a></li>
-        <li><a href="/ers/">Employment Research</a></li>  
-        <li><a href="/bls/employment.htm">Employment Overview</a></li>        
-        <li>&nbsp;</li>   
-  
-     	<li><h5><a href="/bls/spending.htm">Spending &amp; Time Use »</a></h5></li>
-        <li><a href="/cex/">Consumer Expenditures </a></li>
-        <li><a href="/tus/">How Americans Spend Time</a></li>
-        <li>&nbsp;</li>
-    </ul>
+<div class="sub" id="submenu-programs">
+	<ul>
+		<li>
+			<h5><a href="/bls/inflation.htm">Inflation &amp; Prices »</a></h5>
+		</li>
+		<li><a href="/cpi/">Consumer Price Index</a></li>
+		<li><a href="/ppi/">Producer Price Indexes</a></li>
+		<li><a href="/mxp/">Import/Export Price Indexes</a></li>
+		<li><a href="/ncs/ect/">Employment Cost Index</a></li>
+		<li><a href="/bls/escalation.htm">Contract Escalation</a></li>
+		<li><a href="/pir/">Price Index Research</a></li>
+		<li><a href="/bls/inflation.htm">Inflation &amp; Prices Overview</a></li>
+		<li>&nbsp;</li>
+		<li>
+			<h5><a href="/bls/wages.htm">Pay &amp; Benefits »</a></h5>
+		</li>
+		<li><a href="/ncs/ect/">Employment Costs</a></li>
+		<li><a href="/ncs/">National Compensation Data</a></li>
+		<li><a href="/bls/blswage.htm">Wages by Area &amp; Occupation</a></li>
+		<li><a href="/cps/earnings.htm#demographics">Earnings by Demographics</a></li>
+		<li><a href="/ces/">Earnings by Industry</a></li>
+		<li><a href="/cew/">County Wages</a></li>
+		<li><a href="/ncs/ebs/">Benefits</a></li>
+		<li><a href="/crp/">Compensation Research</a></li>
+		<li><a href="/wsp/">Strikes &amp; Lockouts </a></li>
+		<li><a href="/bls/wages.htm">Pay &amp; Benefits Overview</a></li>
+		<li>&nbsp;</li>
+				<li>
+			<h5><a href="/bls/spending.htm">Spending &amp; Time Use »</a></h5>
+		</li>
+		<li><a href="/cex/">Consumer Expenditures </a></li>
+		<li><a href="/tus/">How Americans Spend Time</a></li>
+	</ul>
+	<!-- 2nd column -->
+	<ul>
+		<li>
+			<h5><a href="/bls/unemployment.htm">Unemployment »</a></h5>
+		</li>
+		<li><a href="/cps/">National Unemployment Rate </a> </li>
+		<li><a href="/lau/">State &amp; Local Unemployment Rates </a> </li>
+		<li><a href="/mls/">Mass Layoffs </a> </li>
+		<li><a href="/ers/">Unemployment Research</a></li>
+		<li><a href="/bls/unemployment.htm">Unemployment Overview</a></li>
+		<li>&nbsp;</li>
+		<li>
+			<h5><a href="/bls/employment.htm">Employment »</a></h5>
+		</li>
+		<li><a href="/ces/">National Employment </a></li>
+		<li><a href="/sae/">State &amp; Local Employment </a></li>
+		<li><a href="/cew/">State &amp; County Employment </a></li>
+		<li><a href="/cps/">Worker Characteristics </a></li>
+		<li><a href="/emp/">Employment Projections </a></li>
+		<li><a href="/jlt/">Job Openings &amp; Labor Turnover </a></li>
+		<li><a href="/oes/">Employment by Occupation </a></li>
+		<li><a href="/nls/">Work Experience Over Time </a></li>
+		<li><a href="/bdm/">Business Employment Dynamics </a></li>
+		<li><a href="/ers/">Employment Research</a></li>
+		<li><a href="/bls/employment.htm">Employment Overview</a></li>
+		<li>&nbsp;</li>
+		<li>
+			<h5><a href="/iif/">Workplace Injuries »</a></h5>
+		</li>
+	</ul>
+	
+	<!-- 3rd column --> 
 
-<!-- 3rd column -->
-
-  <ul>       
-        <li><h5><a href="/bls/wages.htm">Pay &amp; Benefits »</a></h5></li>
-        <li><a href="/ncs/ect/">Employment Costs</a></li>
-        <li><a href="/ncs/">National Compensation Data</a></li>
-        <li><a href="/bls/blswage.htm">Wages by Area &amp; Occupation</a></li>
-        <li><a href="/cps/earnings.htm#demographics">Earnings by Demographics</a></li>
-        <li><a href="/ces/">Earnings by Industry</a></li>
-        <li><a href="/cew/">County Wages</a></li>
-        <li><a href="/ncs/ebs/">Benefits</a></li>
-        <li><a href="/crp/">Compensation Research</a></li>
-        <li><a href="/wsp/">Strikes &amp; Lockouts </a></li>
-        <li><a href="/bls/wages.htm">Pay &amp; Benefits Overview</a></li>        
-        <li>&nbsp;</li>
-     	<li><h5><a href="/bls/productivity.htm">Productivity »</a></h5></li>
-        <li><a href="/lpc/"> Labor Productivity &amp; Costs</a></li>
-        <li><a href="/mfp/">Multifactor Productivity</a></li>
-        <li><a href="/dpr/">Productivity Research</a></li>
-     	<li><a href="/bls/productivity.htm">Productivity Overview</a></li>        
-   </ul>     
-  <!-- 4th column -->
-
-  <ul>          	
-        <li><h5><a href="/iif/">Workplace Injuries »</a></h5></li>
-        <li>&nbsp;</li>
-	    <li><h5><a href="/bls/international.htm">International »</a></h5></li>
-				<li><a href="/fls/">International Labor Comparisons</a></li>
-				<li><a href="/fls/#CPI">International Consumer Price Indexes</a></li>
-				<li><a href="/fls/#laborforce">International Unemployment Rates</a></li>
-				<li><a href="/fls/#laborforce">International Employment Comparisons</a></li>
-				<li><a href="/fls/#compensation">International Compensation Costs</a></li>
-				<li><a href="/fls/#productivity">International Productivity</a></li>
-				<li><a href="/itc/">International Technical Cooperation</a></li>
-				<li><a href="/mxp/">Import/Export Price Indexes</a></li>				
-				<li><a href="/bls/international.htm">International Overview</a></li>        
-    </ul>
+	<ul>
+		<li>
+			<h5><a href="/bls/productivity.htm">Productivity »</a></h5>
+		</li>
+		<li><a href="/lpc/"> Labor Productivity &amp; Costs</a></li>
+		<li><a href="/mfp/">Multifactor Productivity</a></li>
+		<li><a href="/dpr/">Productivity Research</a></li>
+		<li><a href="/bls/productivity.htm">Productivity Overview</a></li>
+		<li>&nbsp;</li>
+		<li>
+			<h5><a href="/bls/international.htm">International »</a></h5>
+		</li>
+		<li><a href="/fls/">International Labor Comparisons</a></li>        
+		<li><a href="/itc/">International Technical Cooperation</a></li>
+		<li><a href="/mxp/">Import/Export Price Indexes</a></li>
+		<li><a href="/bls/international.htm">International Overview</a></li>
+   		<li>&nbsp;</li>
+        <li>
+			<h5><a href="/bls/regnhome.htm">REGIONAL OFFICES »</a></h5>
+		</li><li><a href="/ro1/">New England (Boston)</a></li>
+		<li><a href="/ro2/">New York-New Jersey (NY City)</a></li>
+		<li><a href="/ro3/">Mid-Atlantic (Philadelphia)</a></li>
+		<li><a href="/ro4/">Southeast (Atlanta)</a></li>
+		<li><a href="/ro5/">Midwest (Chicago)</a></li>
+		<li><a href="/ro6/">Southwest (Dallas)</a></li>
+		<li><a href="/ro7/">Mountain-Plains (Kansas City)</a></li>
+		<li><a href="/ro9/">West (San Francisco)</a></li>
+		<li><a href="/bls/regnhome.htm">Regional Overview</a></li>
+	</ul>
 </div>
-<!-- **************************************End SUBJECT AREAS ******************************************** -->
+<!-- **************************************End SUBJECT AREAS ******************************************** --> 
 
 				</li>
                 
@@ -259,7 +287,7 @@
 				<li class="submenu"><a href="/data/">Databases &amp; Tools</a>
 
 <!-- ******************************************** Begin DATABASES and TOOLS LIST ****************************************** -->
-<div class="sub">
+<div class="sub" id="submenu-data">
     <ul>
         <li><h5><a href="/data/">Data Retrieval Tools »</a></h5></li>
         <li><a href="/cgi-bin/surveymost?bls">Top Picks</a></li>
@@ -293,7 +321,7 @@
 				<li class="submenu"><a href="/opub/">Publications</a>
 
 <!-- ********************************************** Begin PUBLICATIONS LIST ****************************************** -->
-<div class="sub">
+<div class="sub" id="submenu-pubs">
     <ul>
         <li><h5><a href="/opub/#latest">Latest Publications »</a></h5></li>
         <li><a href="/opub/ted/">The Editor’s Desk</a></li>     
@@ -331,16 +359,16 @@
 
 <!-- ********************************************** Begin ECONOMIC RELEASES LIST ****************************************** -->
 <!-- 1st column -->
-<div class="sub">
+<div class="sub" id="submenu-news">
    <ul>
        <li><h5><a href="/bls/newsrels.htm#latest-releases">Latest Releases »</a></h5></li>   
        <li>&nbsp;</li>
        <li><h5><a href="/bls/newsrels.htm#major">Major Economic Indicators »</a></h5></li>   
-       <li>&nbsp;</li>                      
-       <li><h5><a href="/schedule/2010/month_sched.htm">Schedules for news Releases »</a></h5></li>
-       <li><a href="/schedule/2010/month_sched.htm">By Month</a></li>
+       <li>&nbsp;</li>
+       <li><h5><a href="/schedule/news_release/">Schedules for news Releases »</a></h5></li>
+       <li><a href="/schedule/">By Month</a></li>
        <li><a href="/schedule/schedule/by_prog/all_sched.htm">By News Release</a></li>
-       <li><a href="/schedule/news_release/2010_sched.htm">Current Year</a></li>
+       <li><a href="/schedule/news_release/current_year.asp">Current Year</a></li>
        <li><a href="/bls/archived_sched.htm">Prior Years</a></li>
 	   <li>&nbsp;</li>         
        <li><h5><a href="/schedule/archives/all_nr.htm">Archived News Releases »</a></h5></li>
@@ -373,24 +401,29 @@
                 
                 <li class="submenu"><a href="http://beta.bls.gov">Beta</a>
 <!-- ***********************************************Start BETA LIST ******************************************** -->
-<div class="sub">
-    <ul>
-        <li><h5><a href="http://beta.bls.gov/maps/cew/us">STATE AND COUNTY MAP »</a></h5></li>
-        <li>&nbsp;</li>
-     	<li><h5><a href="http://beta.bls.gov/search/query/">ENHANCED BLS SEARCH »</a></h5></li>
-    </ul>
+<div class="sub" id="submenu-beta">
+  <ul>
+    <li>
+      <h5><a href="http://beta.bls.gov/ooh/construction/electricians.htm">NEW OOH »</a></h5>
+    </li>
+    <li>&nbsp;</li>
+    <li>
+      <h5><a href="/mobile/">BLS MOBILE SERVICE »</a></h5>
+    </li>
+    <li>&nbsp;</li>
+    <li>
+      <h5><a href="http://data.bls.gov/search/query/">ENHANCED BLS SEARCH »</a></h5>
+    </li>
+    <li>&nbsp;</li>
+    <li>
+      <h5><a href="http://beta.bls.gov/maps/cew/us">STATE AND COUNTY MAP »</a></h5>
+    </li>
+  </ul>
 </div>
 <!-- ***********************************************End BETA LIST ******************************************** -->
 						
 				</li>
 			</ul>
-		</div>
-				<div id="main-nav-search">
-			<form method="get" action="/search/query">
-				<label for="main-nav-search-input"></label>
-				<input name="query" type="text" id="main-nav-search-input" value="Search BLS.gov" alt="Search Input" onclick="this.value=''; this.onclick = null;">
-				<input type="image" src="/images/buttons/search_button_red_on_red.png" onclick="this.form.submit(); return false;" name="term" id="main-nav-search-submit" alt="Search">
-			</form>
 		</div>
 		<div class="clearfloat"></div>
 	</div>
@@ -837,16 +870,16 @@ BLS Information
 			<div id="quicklinks-wrapper">
 				<div id="quicklinks">
 						<ul><li><h4>tools</h4></li>
-							<li><a href="/EAG/">Areas at a Glance </a></li>
+							<li><a href="/eag/">Areas at a Glance </a></li>
 							<li><a href="/iag/">Industries at a Glance </a></li>
 							<li><a href="/bls/newsrels.htm">Economic Releases</a></li>
 							<li><a href="/data/">Databases &amp; Tables</a></li>
-							<li><a href="http://data.bls.gov/map/servlet/map.servlet.MapToolServlet?survey=la">Maps</a></li>
+							<li><a href="/map/MapToolServlet?survey=la">Maps</a></li>
 						</ul>
 						<ul><li><h4>calculators</h4></li>
 							<li><a href="/data/inflation_calculator.htm">Inflation</a></li>
-							<li><a href="http://data.bls.gov/LOCATION_QUOTIENT/servlet/lqc.ControllerServlet">Location Quotient</a> </li>
-							<li><a href="http://data.bls.gov/IIRC/">Injury And Illness</a></li>
+							<li><a href="/location_quotient/">Location Quotient</a> </li>
+							<li><a href="/iirc/">Injury And Illness</a></li>
 						</ul>
 						<ul><li><h4>help</h4></li>
 							<li><a href="/help/">Help &amp; Tutorials</a></li>
@@ -888,9 +921,6 @@ BLS Information
 <div id="footer-wrapper">
 	<div id="footer-links-wrapper">
 		<div id="footer-links">
-			<!-- JQUERY  FOR THICKBOX FOR POPUP BOXES AND JTIP FOR TOOLTIPS -->
-			<script type="text/javascript" src="/javascripts/thickbox-compressed.js"></script>
-			<script type="text/javascript" src="/javascripts/jtip.js"></script>
 			<!-- BEGIN WEBTRENDS ON DEMAND -->
 			<script type="text/javascript" src="/javascripts/webtrends-ondemand-config.js"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/wtid.js"></script>
 			<script type="text/javascript" src="/javascripts/webtrends-ondemand-sdc.js"></script>
@@ -900,8 +930,9 @@ BLS Information
 				<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/njs.gif?dcscfg=4&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
 			</noscript>
 			<!-- END WEBTRENDS ON DEMAND -->
-			<p><a href="/bls/blsfoia.htm">Freedom of Information Act</a> &nbsp;|&nbsp; <a href="/bls/pss.htm">Privacy &amp; Security Statement</a> &nbsp;|&nbsp; <a href="/bls/disclaimer.htm">Disclaimers</a> &nbsp;|&nbsp; <a href="/bls/customer_survey.htm">Customer Survey</a> &nbsp;|&nbsp; <a href="/bls/website-policies.htm">Important Web Site Notices</a>
-		</p></div>
+			<p><a href="/bls/blsfoia.htm">Freedom of Information Act</a> &nbsp;|&nbsp; <a href="/bls/pss.htm">Privacy &amp; Security Statement</a> &nbsp;|&nbsp; <a href="/bls/disclaimer.htm">Disclaimers</a> &nbsp;|&nbsp; 
+			<a href="/bls/customer_survey.htm">Customer Survey</a> &nbsp;|&nbsp; <a href="/bls/website-policies.htm">Important Web Site Notices</a></p>
+		</div>
 	</div>
 	<div id="footer-info-wrapper">
 		<div id="footer-info"><p>
