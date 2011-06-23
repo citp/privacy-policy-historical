@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identitylookout.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215231400id_/http%3A//identitylookout.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identitylookout.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623020311id_/http%3A//identitylookout.com/privacy.html) for the most accurate reproduction.*
 
 # IdentityLookout.com | Privacy Policy
 
