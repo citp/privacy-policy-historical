@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224200026id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623072205id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tupalo.com Press
+# Privacy Policy | The Tupalo.com Blog
 
 #### This agreement is effective as of August 11, 2009
 
@@ -28,7 +28,7 @@ Some information is collected while not informing the user. Information such as 
 
   1. Google, as a third party vendor, uses cookies to serve ads on Tupalo.com;
   2. Google’s use of the DART cookies enables it to serve ads to users based on their visit to Tupalo.com and other sites on the Internet;
-  3. Users may opt out of the DART cookie by visiting the Google ad and content network privacy policy at the following url – <http://www.google.com/privacy_ads.html>
+  3. Users may opt out of the DART cookie by visiting the Google ad and content network privacy policy at the following url – <http://www.google.com/privacy_ads.html>
 
 
 
@@ -69,7 +69,7 @@ By registering with Tupalo you are acknowledging that Tupalo is not responsible 
 
 You must be aware that when you voluntarily disclose your personally identifiable information (user name, email address, name, etc) via reviews, messages, forums, lists, personal messages, friend requests or any features involving two-way communication between users on Tupalo, this information may possibly be collected and used by third parties in ways considered abusive. Activities such as this are beyond the scope of Tupalo’s responsibility. For the sake of your personal security, we ask that you not post any personally identifiable information you wish to keep private via the Tupalo Site or Services.
 
-Your personal information is always able to be modified by logging into your personal profile and editing the minimal personal information we collect. Registered users who wish to have their account removed are able to by contacting [feedback](http://www.somethinkodd.com/emailshroud/emailaddress.php?domainName=tupalo.com&userName=feedback&ver=2.2.0). Upon request, we will happily remove as much information related to your account as commercially possible without affecting the quality of Service and functionality of the Tupalo Service. Some residual information may not be able to be removed.
+Your personal information is always able to be modified by logging into your personal profile and editing the minimal personal information we collect. Registered users who wish to have their account removed are able to by contacting [feedback](mailto:feedback@tupalo.com). Upon request, we will happily remove as much information related to your account as commercially possible without affecting the quality of Service and functionality of the Tupalo Service. Some residual information may not be able to be removed.
 
 ## Security
 
@@ -91,4 +91,4 @@ By using Tupalo, you signify your agreement to the terms of this privacy policy 
 
 ## Contacting Tupalo
 
-If you have any questions or concerns regarding this privacy policy you are welcome to contact us [via email](http://www.somethinkodd.com/emailshroud/emailaddress.php?domainName=tupalo.com&userName=legal&ver=2.2.0)
+If you have any questions or concerns regarding this privacy policy you are welcome to contact us [via email](mailto:legal@tupalo.com)
