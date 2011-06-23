@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygirlyspace.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126042124id_/http%3A//www.mygirlyspace.com/content.php%3Fwhere%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygirlyspace.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623185425id_/http%3A//mygirlyspace.com/content.php%3Fwhere%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Cute Myspace Layouts, Retro Myspace Layouts, Tiny/Skinny/Thin Myspace Layouts, Myspace Fashion Layouts, Myspace Icons Layouts, Scenic Myspace Layouts, Summer Myspace Layouts
 
