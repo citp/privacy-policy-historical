@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesdew.net privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006135808id_/http%3A//www.gamesdew.net/pages/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesdew.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024529id_/http%3A//www.gamesdew.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - :: GAMESDEW ::
 
@@ -12,4 +12,5 @@ When you visit our website we collect some information from you. We collect no p
 
 If yo were sent to our site from one of our partner sites and if you get sent to one of our partners from this site a non harmful cookie is added to your internet browser. These non-malicious cookies are set to delete themselves 1-24 hours after they have been created.
 
-[](http://www.histats.com/ "free webpage hit counter")
+  
+[](http://www.histats.com/ "counter statistics")
