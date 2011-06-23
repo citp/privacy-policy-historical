@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmoremomentum.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225050047id_/http%3A//www.getmoremomentum.com/docs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmoremomentum.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623223748id_/http%3A//www.getmoremomentum.com/docs/privacypolicy.html) for the most accurate reproduction.*
 
 # Get More Momentum
 
@@ -69,6 +69,8 @@ We will take reasonable precautions to prevent the loss, misuse or alteration of
 We will store all the personal information you provide on our secure servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
 
 You are responsible for keeping your password confidential. We will not ask you for your password.
+
+We do not store any of your credit card information. All credit card information you provide on our secure severs is passed directly to our secure 3rd party shopping cart which uses industry standard 128 bit secure sockets layer (SSL) technology to encrypt sensitive information such as your credit card and other financial information. This includes the credit card number, expiry date, and billing address.
 
 **(7) Policy amendments**
 
