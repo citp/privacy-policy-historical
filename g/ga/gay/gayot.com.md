@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304130129id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623135241id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # GAYOT.com Privacy Policy About Us Gayot
 
@@ -12,7 +12,7 @@ Maintaining your privacy—online and off—is of utmost importance to Gayot. Th
 
 
 
-If you ever have any questions about your privacy, please email us immediately at [privacy@gayot.com](mailto:%20privacy@gayot.com).
+If you ever have any questions about your privacy, please [email us](mailto:privacy@gayot.com) immediately.
 
 **Who We Are**  
 André Gayot—who with his friends, Henri Gault and Christian Millau, invented the term "Nouvelle Cuisine" in the early '70s—has been directing sophisticated travelers to the best restaurants, hotels, shops, sightseeing, and cultural attractions throughout the world for over 40 years. Written by a team of savvy restaurant critics and food-and-travel experts, Gayot guidebooks are informative, honest and witty. Above all, they tell it like it is! Since 1981, "The Best Of" guides in English have become the travel bible of an international readership in quest of the best. And since 1995, "Restaurants" guides cover everything there is to know about the food and restaurant scenes of major American cities. Gayot guidebooks have now been succeeded by a comprehensive website for up-to-date travel and restaurant information, [Gayot.com](http://www.gayot.com/). For more information about Gayot Publications, please visit the [About Us](http://www.gayot.com/aboutus/main.html) area on Gayot.com.
@@ -50,13 +50,13 @@ We use third-party advertising companies to serve some ads when you visit our We
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.  
   
 **Content Disclaimer**  
-Gayot.com makes every effort to ensure the accuracy of information provided on all of our websites ([www.gayot.com](http://www.gayot.com/), [www.novusvinum.com](http://www.novusvinum.com/), [www.thefoodpaper.com](http://www.thefoodpaper.com/), [www.qualiteas.com](http://www.qualiteas.com/) and [www.chateaugayot.com](http://www.chateaugayot.com/)). However, Gayot does not assume, and hereby disclaims, any liability for any loss or damage brought about by errors, omissions, misleading information or the use or reliability of information presented on these websites, even if such errors occurred unintentionally, as a result of negligence or any other cause.
+Gayot.com makes every effort to ensure the accuracy of information provided on all of our websites ([www.gayot.com](http://www.gayot.com/), [www.novusvinum.com](http://www.novusvinum.com/), [www.thefoodpaper.com](http://www.thefoodpaper.com/), [www.qualiteas.com](http://www.gayot.com/tea/main.html) and [www.chateaugayot.com](http://www.chateaugayot.com/)). However, Gayot does not assume, and hereby disclaims, any liability for any loss or damage brought about by errors, omissions, misleading information or the use or reliability of information presented on these websites, even if such errors occurred unintentionally, as a result of negligence or any other cause.
 
 **Gayot Privacy Policy Changes**  
 If Gayot changes its privacy policy, these changes will be posted here so that you will always know what information Gayot gathers, how Gayot might use that information, and whether Gayot will disclose it to anyone. If Gayot makes any material change concerning how your personally identifiable information is used, then, in addition to including such revision in this privacy statement, Gayot will post a notice on the Gayot site that a change to the privacy policy has taken place. You are expected to review this Agreement periodically to ensure familiarity with the most current version.
 
 **Questions**  
-Questions regarding this statement should be directed to the Gayot site coordinator ([privacy@gayot.com](mailto:%20privacy@gayot.com)). If you are interested in exploring privacy issues on the Internet further please see:
+Questions regarding this statement should be directed to the Gayot [site coordinator](mailto:privacy@gayot.com). If you are interested in exploring privacy issues on the Internet further please see:
 
   * Electronic Frontier Foundation - a civil liberties organization.
   * Electronic Privacy Information Center - focuses attention on emerging civil liberties issues.
