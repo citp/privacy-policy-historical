@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228200829id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623170115id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # National Kidney Foundation: Our Privacy Policy
 
