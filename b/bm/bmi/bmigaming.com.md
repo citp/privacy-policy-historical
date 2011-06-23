@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222165440id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623191553id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
 
-# Website Privacy Policy Page | From BMI Gaming: 1-800-746-2255
+# Website Privacy Policy Page | BMIGaming.com / BMI Worldwide, Inc.
 
 > * * *
 > 
@@ -123,4 +123,4 @@
 
 [](http://www.bmigaming.com/mastergameselect.htm)
 
-**[](https://web.archive.org/web/20101222165440id_/http%3A//www.bmigaming.com/termsofaccess.htm)
+**[](https://web.archive.org/web/20110623191553id_/http%3A//www.bmigaming.com/termsofaccess.htm)
