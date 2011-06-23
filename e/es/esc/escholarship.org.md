@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escholarship.org privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125204321id_/http%3A//escholarship.org/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escholarship.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623203456id_/http%3A//escholarship.org/about_privacy.html) for the most accurate reproduction.*
 
 # eScholarship: Privacy Policy
 
@@ -30,4 +30,4 @@ To guard against unauthorized access, maintain data accuracy, and promote the co
 
 However, we cannot guarantee that these measures will always and in all cases prevent or protect against invalid access or improper activity. For this reason, we avoid keeping information beyond the term of its primary use and, where possible, encrypt or delete data elements that might enable activities to be linked to individual users.
 
-Questions? [Contact us.](https://web.archive.org/web/20101125204321id_/http%3A//escholarship.org/help_contact.html)
+Questions? [Contact us.](https://web.archive.org/web/20110623203456id_/http%3A//escholarship.org/help_contact.html)
