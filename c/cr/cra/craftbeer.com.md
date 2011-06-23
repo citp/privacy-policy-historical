@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftbeer.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222154858id_/http%3A//www.craftbeer.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftbeer.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623183332id_/http%3A//www.craftbeer.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # CraftBeer.com | Privacy Policy
 
@@ -6,7 +6,7 @@ The following discloses our information gathering and dissemination practices fo
 
 ## Information gathering
 
-This web server logs the IP addresses of the sytems which access this site and the files visited.
+This web server logs the IP addresses of the systems which access this site and the files visited.
 
 These logs are retained for our internal use only. In certain instances, we may ask visitors to provide voluntarily other information about themselves.
 
@@ -18,9 +18,11 @@ We do not provide any personally identifiable information we gather or develop a
 
 Visitor IP address and accessed files are used to identify server problems and to provide site usage statistics. This information is used to provide future content suitable to our audience and to generate statistical reports. Individual site usage information will not be disclosed.
 
-We do not sell or distribute registered user's email addresses or comments.
+Registered visitor's User ID will be displayed when they post a comment.
 
-## Security
+Registering on the site also means you will periodically receive communications from the Brewers Association. If youdo not want to receive these communications you can request to have your registration deleted or unsubscribe through the Brewers Association's email service when you receive a communication.
+
+Security 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
