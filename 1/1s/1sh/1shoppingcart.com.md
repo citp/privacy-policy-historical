@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1shoppingcart.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129061318id_/http%3A//www.1shoppingcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1shoppingcart.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623044052id_/http%3A//www.1shoppingcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 1ShoppingCart.com - 1ShoppingCart.com
 
@@ -73,7 +73,7 @@ We may disclose your Personal Information if we believe in good faith that such 
 
 **Your Choices Regarding Your Personal Information**
 
-Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at . Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.
+Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at [support@1shoppingcart.com](mailto:support@1shoppingcart.com). Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.
 
 **Regarding Minors**  
 Our websites are not designed for minors under the age of 18. We do not intentionally gather Personal Information about visitors who are under the age of 18.
