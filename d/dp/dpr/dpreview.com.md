@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpreview.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225111653id_/http%3A//www.dpreview.com/misc/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpreview.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623101635id_/http%3A//www.dpreview.com/misc/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
