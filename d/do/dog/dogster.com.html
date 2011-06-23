@@ -1,83 +1,101 @@
-<!--The following is the downloaded HTML source of the dogster.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226025110id_/http%3A//www.dogster.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dogster.com privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623234737id_/http%3A//www.dogster.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<script type="text/javascript">var _sf_startpt=(new Date()).getTime();var browser=navigator.appName;var b_version=navigator.appVersion;var version=parseFloat(b_version);var IE6=/MSIE 6/i.test(navigator.userAgent);</script>
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime(), browser=navigator.appName, b_version=navigator.appVersion, version=parseFloat(b_version), IE6=/MSIE 6/i.test(navigator.userAgent);</script>
 	<title>privacy policy | dogster</title>
 	
-	<script type="text/javascript" src="http://a1.cdnsters.com/static/resc/labjs1.0.2rc1-jquery1.4.2-jqueryui1.8.1-prototypejs1.5.1-scriptaculous1.7.0-bugfix4658.min.js"></script>
+	<script type="text/javascript" src="http://a1.cdnsters.com/static/resc/labjs1.2.0-jquery1.6-jqueryui1.8.12-bugfix4758.min.js"></script>
 	<script type="text/javascript">
-	var $j = jQuery.noConflict();
-	var tcid = null;
-	var redirect = null;
-	var user_id = '';
-	var fb_id = '';
+	var $j = jQuery.noConflict(),
+		redirect = null,
+		user_id = '',
+		pet_code = 'd',
+		_kmq = _kmq || [],
+		fb_enabled = '1';
+	_kmq.push(['identify', user_id]);
 	
-    if(navigator.platform.indexOf('Mac') >= 0 && 
-        ( navigator.userAgent.indexOf('Safari') >= 0 ||
-         navigator.userAgent.indexOf('Chrome') >= 0 ||
-         navigator.userAgent.indexOf('Firefox') >= 0)){
-		tcid = 'jhl6qyx';
-	} else if(( navigator.userAgent.indexOf('Firefox') >= 0 ||
-        navigator.userAgent.indexOf('Chrome') >= 0 ) && 
-		navigator.platform.indexOf('Win') >= 0) {
-		tcid = 'sfc0wzg';
-	}
-    if (tcid) {
-		$LAB.script("http://use.typekit.com/"+tcid+".js").wait(function(){
-			(function(){try{Typekit.load();}catch(e){};})();
-		})
-		.script("http://connect.facebook.net/en_US/all.js")
-		.script("http://a3.cdnsters.com/releases/20101222-1449/resc_cdn/common_js.min.js").wait(function(){
+    var $L = $LAB;
+   	$L = $L.script(function(){
+   	    if(navigator.platform.indexOf('Mac') >= 0 && 
+   	        ( navigator.userAgent.indexOf('Safari') >= 0 ||
+   	         navigator.userAgent.indexOf('Chrome') >= 0 ||
+   	         navigator.userAgent.indexOf('Firefox') >= 0)){
+   			tcid = 'jhl6qyx';
+   			return "//use.typekit.com/jhl6qyx.js";
+   		} else if(( navigator.userAgent.indexOf('Firefox') >= 0 ||
+   	        navigator.userAgent.indexOf('Chrome') >= 0 ) && 
+   			navigator.platform.indexOf('Win') >= 0) {
+   			tcid = 'sfc0wzg';
+   			return "//use.typekit.com/sfc0wzg.js";
+   		}else{
+   			return null;
+   		}
+   	}).wait(function(){
+		(function(){try{Typekit.load();}catch(e){};})();
+	})
+	.script(function(){
+		if(fb_enabled == '1'){
+			return "//connect.facebook.net/en_US/all.js";
+		}else{
+			return null;
+		}
+	})
+	.script("http://a1.cdnsters.com/releases/20110623-1358/resc_cdn/common_js.min.js").wait(function(){
+		if(fb_enabled == '1'){
 			facebook.init(124416164846);
-			jQuery(document).ready(function() {
-				jQuery('body').trigger('js_ready');
-			});
+			var fb_id = '';
+		}
+		$j(document).ready(function() {
+			$j('body').trigger('js_ready');
 		});
-    } else {
-		$LAB.script("http://connect.facebook.net/en_US/all.js")
-		.script("http://a3.cdnsters.com/releases/20101222-1449/resc_cdn/common_js.min.js").wait(function(){
-			facebook.init(124416164846);
-			jQuery(document).ready(function() {
-				jQuery('body').trigger('js_ready');
-			});
-		});
-    }
+	})
+	.script("//i.kissmetrics.com/i.js")
+	.script(function(){
+	    if(pet_code=='d'){
+			return "//doug1izaerwt3.cloudfront.net/eb6830ceea810ee3525193b68c6a88ec64dab12b.1.js";
+	    }else{
+			return "//doug1izaerwt3.cloudfront.net/16d7f0fce96bc3e01f1220ced22836b884d96d90.1.js";
+		}
+	});
 	</script>
 	
-	<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20101222-1449/resc_cdn/reset-dsterText-960-jquery.min.css" type="text/css" media="screen, print" charset="utf-8">
-	<link rel="stylesheet" href="http://a3.cdnsters.com/releases/20101222-1449/resc_cdn/2colster-d.min.css" type="text/css" media="screen, print" charset="utf-8">
+	<script type="text/javascript">
+function repositionPromoImages() {
+}
+</script>
+
 	
-	
-	
-	
+	<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20110623-1358/resc_cdn/reset-dsterText-960-jquery.min.css" type="text/css" media="screen, print" charset="utf-8">
+	<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20110623-1358/resc_cdn/2colster-d.min.css" type="text/css" media="screen, print" charset="utf-8">
 	
 	
 	
 	<!--[if IE]>
-		<link rel="stylesheet" href="http://a2.cdnsters.com/releases/20101222-1449/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
+		<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20110623-1358/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
 	<![endif]-->
 	
 	<!--[if lt IE 7]>
-		<link rel="stylesheet" href="http://a2.cdnsters.com/releases/20101222-1449/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
+		<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20110623-1358/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
 		
 		<script type="text/javascript">
 		$LAB
-		.script("http://a3.cdnsters.com/releases/20101222-1449/layouts/fullwidth/js/DD_belatedPNG_0.0.8a-min.min.js")
-		.script("http://a1.cdnsters.com/releases/20101222-1449/layouts/fullwidth/js/pngfix.min.js");
+		.script("http://a1.cdnsters.com/releases/20110623-1358/layouts/fullwidth/js/DD_belatedPNG_0.0.8a-min.min.js")
+		.script("http://a1.cdnsters.com/releases/20110623-1358/layouts/fullwidth/js/pngfix.min.js");
 		</script>
 	<![endif]-->
 	
 	<meta name="description" content="Privacy policy for Dogster.com.">
+	<meta property="fb:page_id" content="6049814276"> 
 
 		
 		
 		
-	<link rel="shortcut icon" href="http://a2.cdnsters.com/static/images/dogster/favicon_dogster.ico">
+	<link rel="shortcut icon" href="http://a1.cdnsters.com/static/images/dogster/favicon_dogster.ico">
 	 
 	
-	<!-- web04.dogster.com -->
+	<!-- web02.dogster.com -->
 	
 	
 </head>
@@ -91,7 +109,7 @@
 			
 			<ul class="hmenu system-text">
 				<li class="first"><a href="/register/" title="join" onclick="pageTracker._trackEvent('Footer Nav', 'Join', 'Join');">Join!</a></li>
-				<li><a id="signin_toggle" href="javascript:void(0)" rel="nofollow" title="Log in" onclick="pageTracker._trackEvent('Footer Nav', 'Log in', 'Log in');">Log in</a></li>
+				<li><a id="signin_toggle" href="/login.php" rel="nofollow" title="Log in" onclick="pageTracker._trackEvent('Footer Nav', 'Log in', 'Log in');">Log in</a></li>
 			</ul>
 		
 			<div id="header-login-box" style="display:none;">
@@ -106,7 +124,7 @@
 								<input id="signin_username" type="text" name="email" size="15" class="text-input" value="email address">								
 								<input id="signin_password" type="password" name="pw" size="15" class="text-input" value="password">
 								<input type="submit" value="log in" class="btn-input">&nbsp;
-								<input type="checkbox" value="y" name="al" id="login-al"> <label class="login-autologin-forgot" for="login-al">Remember Me</label>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="login-autologin-forgot" href="/lost_password.php">forgot?</a>							
+								<input type="checkbox" value="y" name="al" id="login-al"> <label class="login-autologin-forgot" for="login-al">Remember Me</label>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="login-autologin-forgot" href="/lost_password.php">Forgot?</a>							
 							</div>
 						</div>
 					</form>
@@ -121,18 +139,17 @@
 		<input type="text" id="search-text" name="q" class="text-input">
 		<input type="submit" id="search-submit" class="btn-input" value="Search">
 	</form>
-</div>		<div class="ebs" style="color:black;background-color:yellow;padding:2px;"> </div>
-
-<div id="top-ad"><div style="height:90px;"><div id="adtech_container_2">
+</div>	
+<div id="top-banner">
+	<div id="logo" class="pngfix">
+		<h1><a href="/" title="Dogster" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Dogster Logo', 'Dogster Logo');">Dogster</a></h1>
+		<p id="slogan">Expert info. Community know-how.</p>	
+	</div>
+	<div id="top-ad"><div style="height:90px;width:728px;"><div id="adtech_container_0">
 </div>
 </div></div>
-
-<div id="banner" class="pngfix">
-	<div id="logo">
-		<h1><a href="/" title="Dogster" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Dogster Logo', 'Dogster Logo');">Dogster</a></h1>
-		<p id="slogan">Expert info. Community know-how.</p>
-	</div>
-</div><!--/banner-->
+	<div class="clear"></div>
+</div><!--/top-banner-->
 
 <div id="navigation">
 	<ul id="main-nav">
@@ -148,7 +165,7 @@
 			</a>
         </li>
 		<li><a href="/dogs-101/" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Dogs 101', 'Dogs 101');" title="Dogs 101">Dogs 101</a></li>
-		<li class="last"><a href="/vet-finder/" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Vet Finder', 'Vet Finder');" title="Vet Finder">Vet Finder</a></li>
+		<li class="last"><a href="/vet-finder/" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Ask A Vet', 'Ask A Vet');" title="Ask A Vet">Ask A Vet</a></li>
 	</ul>
 	
 	<div id="community-tab" class="">
@@ -158,13 +175,13 @@
 				<h2 class="tk-cardigan">Dog of the Day</h2>
 				
 				<div class="dod-image">
-					<a href="/dogs/1160847"><img src="http://a3.cdnsters.com/static/resizer/c832f1fd01de68ef32796e66c3667a32" alt="Ziiva" height="160" width="160"></a>
+					<a href="/dogs/167925"><img src="http://rz2.cdnsters.com/imageresizer.php?url=http%253A%252F%252Ffiles.dogster.com%252Fpix%252Fdogs%252F25%252F167925%252F167925_1304913497.jpg&amp;width=160&amp;height=160&amp;md5=09dacf7d0b4eaefb18f1ee51d849fe37" alt="Princess Nya Cuddles" height="160" width="160"></a>
 				</div>
 				
-				<p class="dod-name"><a href="/dogs/1160847">Ziiva</a></p>
+				<p class="dod-name"><a href="/dogs/167925">Princess Nya Cuddles</a></p>
 				
-				<p>3-year-old Female</p>
-				<p>Mount Pleasant, TX</p>
+				<p>6-year-old Female</p>
+				<p>IL</p>
 			</div>
 			
 			<div id="community-nav">
@@ -176,7 +193,6 @@
 					<li><a href="/answers/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Answers', 'Answers');" title="Answers">Answers »</a></li>
 					<li><a href="/local/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Local Listings', 'Local Listings');" title="Local Listings">Local Listings »</a></li>
 					<li><a href="/games/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Game Center', 'Game Center');" title="Game Center">Game Center »</a></li>
-					<li><a href="/polls/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Polls', 'Polls');" title="Polls">Polls »</a></li>
 					<li><a href="/diary/dcentral.php" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Diairies', 'Diairies');" title="Diaries">Diaries »</a></li>
 					<li><a href="/dogs/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'See the Dogs', 'See the Dogs');" title="See the Dogs">See the Dogs »</a></li>
 				</ul>
@@ -187,22 +203,15 @@
 	</div>
 </div><!--/main-nav-->
 	
-		
+	
+
+
 <div id="content">
 
 	
 		    <div id="extra-nav">
-	        <div id="extra-nav-onsite" class="tk-cardigan">More: <a href="/dog-pictures/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Dog Pictures', 'Dog Pictures');" title="Dog Pictures">Dog Pictures</a> | <a href="/dog-news/" onclick="pageTracker._trackEvent('Top Sub Nav Button', 'Dog News', 'Dog News');" title="Dog News">Dog News</a>
-		        		        | <script type="text/javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1630734|0|0|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1630734|0|0|ADTECH;loc=100;target=_blank;grp=575;misc=1580453763720"></script>
-<noscript><a href="http://adserver.adtechus.com/adlink|3.0|5251|1630734|0|0|ADTECH;loc=300;" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5251|1630734|0|0|ADTECH;loc=300;" border="0" width="0" height="0"></a></noscript> 
-		                                    </div>
+	        <div id="extra-nav-onsite" class="tk-cardigan">More: <a href="/dog-pictures/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Dog Pictures', 'Dog Pictures');" title="Dog Pictures">Dog Pictures</a> | <a href="/dog-news/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Dog News', 'Dog News');" title="Dog News">Dog News</a>
+                        </div>
 	        
 	        <div id="extra-nav-social">
 	        	<a class="icn-twttr" href="http://twitter.com/dogster" onclick="pageTracker._trackEvent('Social Media Buttons', 'Twitter', 'Twitter');" title="Twitter">&nbsp;</a> | 
@@ -211,10 +220,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 	        		        </div>
 	    </div>
 		
+	<!--content-->
 		
-    <div id="body-content" class="grid_13">
-		<!-- content-start -->
-		<a name="top"></a>
+	    <div id="body-content" class="grid_13">
+			<!-- content-start -->
+			<a name="top"></a>
 <div align="center">
 <table width="500" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -222,7 +232,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 <h1>Dogster.com Privacy Policy</h1>
 <p>
 
-Dogster.com is a website for sharing dog facts and photos with other dog lovers. It is operated by Dogster, Inc., a privately held company in San Francisco, CA, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us.
+Dogster.com is a website for sharing dog facts and photos with other dog lovers. It is operated by SAY Media, Inc., a privately held company in San Francisco, CA, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us.
 </p><p>
 By using Dogster.com, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the site. You should visit this page periodically to review any such changes to the Privacy Policy.
 </p><p>
@@ -271,11 +281,12 @@ We use industry standard security measures to protect your information so that i
 </p><p>
 <strong>Contacting Us</strong>
 </p><p>
-You can always contact us at any time by email at dogsters@dogster.com or by phone at 415-934-0400.
+You can always contact us at any time by email at dogsters@dogster.com .
 </p><p>
 Our mailing address is:<br>
 Dogster<br>
-555 De Haro Street, Suite 350<br>
+SAY Media, Inc.<br>
+180 Townsend Street<br>
 San Francisco, CA 94107<br>
 </p><p>
 <strong>Unsubscribing</strong>
@@ -293,28 +304,42 @@ Again, feel free to contact us any time, and if you have further questions about
 </tbody></table>
 </div>
 
-		<!-- /content-end -->
-	</div><!--/body-content-->
-	
-	<div class="grid_3" style="padding-top: 10px;" id="col2"><div style="margin-bottom:15px;"><div style="height:600px;"><div id="adtech_container_4">
+			<!-- /content-end -->
+		</div><!--/body-content-->
+		
+		<div class="grid_3" style="padding-top: 10px;" id="col2">
+			<div id="adtech_tag_2" style="z-index:1;"><script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251||0|0|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251||0|0|ADTECH;loc=100;target=_blank;grp=387;misc=1580453766624"></script>
+</div><div style="margin-bottom:15px;"><div style="height:600px;width:160px;"><div id="adtech_container_3">
 </div>
-</div></div></div>
-	
-	<div class="clear"><!-- --></div>
-	
-	<div id="bottom-ad">
-	    <div id="adtech_tag_3" style="z-index:11;"><script type="text/javascript">
+</div></div>
+			<div id="nsphere">
+		   		
+        	</div>
+		</div>
+		
+		<div class="clear"><!-- --></div>
+		
+		<div id="bottom-ad">
+		    <div id="adtech_tag_1" style="z-index:11;"><script type="text/javascript">
 <!--
 if (window.adgroupid == undefined) {
 	window.adgroupid = Math.round(Math.random() * 1000);
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1782936|0|225|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1782936|0|225|ADTECH;loc=100;target=_blank;grp=575;misc=1580453763731"></script>
-<noscript><a href="http://adserver.adtechus.com/adlink|3.0|5251|1782936|0|225|ADTECH;loc=300;" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5251|1782936|0|225|ADTECH;loc=300;" border="0" width="728" height="90"></a></noscript></div>
-	</div>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1782936|0|225|ADTECH;loc=100;target=_blank;grp=387;misc=1580453766629"></script>
+</div>
+		</div>
+		
+	</div><!--/content-->
 	
-</div><!--/content-->
 	<div id="footer" class="system-text">
 		<div class="footer-block first">
 	<h2>Dogster</h2>
@@ -433,11 +458,15 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 		<li><a href="/privacy.php" title="privacy policy">privacy policy</a></li>
 		<li><a href="/terms_of_service.php" title="terms of service">terms of service</a></li>
 	</ul>
-	<p>Copyright 2003-2010 Dogster, Inc.</p>
+	<p>SAY Media, Inc. 2011<br>A Dogster Property</p>
 </div>
-    
+
+
 	</div><!--/footer-->
-</div><!--/wrapper--><script type="text/javascript">
+	
+</div><!--/wrapper-->
+
+<script type="text/javascript">
 var ads_array = [];
 $j('body').live('js_ready', function(event) {
 	$j("#signin_toggle").toggle(function(){
@@ -465,79 +494,117 @@ $j('body').live('js_ready', function(event) {
 			}catch(e){}
 		}
 	});
-    $j("#footer-subscribe").submit(function(){
-        $j("#footer-subscribe-message").hide();
+	$j("#footer-subscribe").submit(function(){
+		$j("#footer-subscribe-message").hide();
 		$j.post($j(this).attr('action'), $j(this).serialize(), function(data, textStatus, XMLHttpRequest){
 			if(data.success){
-	        	$j("#footer-subscribe-message").html(data.success).show();
-	        	$j("#footer-subscribe").html(data.success);
+				$j("#footer-subscribe-message").html(data.success).show();
+				$j("#footer-subscribe").html(data.success);
 			}else if(data.error){
-	        	$j("#footer-subscribe-message").html(data.error).show();
+				$j("#footer-subscribe-message").html(data.error).show();
 			}else if(data.redirect){
 				window.location = data.redirect;
 			}
 			return false;
-		}, "json");
-        return false;
-    });
-    $j(window).bind('resize', function() {
-        for (var i=0; i < ads_array.length;i++) {
-            repositionAd(ads_array[i], true);
-        }
-        repositionPromoImages();
-    });
-    $j("#community-tab-toggle").click(function(){
-        var skys = $j('.adtech-skyscraper');
-        if ($j('#community-tab').hasClass('open')) {
-            for (var i = 0; i < skys.length; i++) {
-                skys[i].style.top = (getY(skys[i]) + 285) + 'px';
-            }
-        } else {
-            for (var i = 0; i < skys.length; i++) {
-                skys[i].style.top = (getY(skys[i]) - 285) + 'px';
-            }
-        }
-    });
-    repositionPromoImages();
+			}, "json");
+		return false;
+	});
+	$j(window).bind('resize', function() {
+		for (var i=0; i < ads_array.length;i++) {
+			repositionAd(ads_array[i], true);
+		}
+		repositionPromoImages();
+	});
+	$j("#community-tab-toggle").click(function(){
+		var skys = $j('.adtech-skyscraper');
+		if ($j('#community-tab').hasClass('open')) {
+			for (var i = 0; i < skys.length; i++) {
+				skys[i].style.top = (getY(skys[i]) + 285) + 'px';
+			}
+		} else {
+			for (var i = 0; i < skys.length; i++) {
+				skys[i].style.top = (getY(skys[i]) - 285) + 'px';
+			}
+		}
+	});
+	repositionPromoImages();
 });
 </script>
 
-<div id="hidden_adtech_container" style="display:none;z-index:1;"><div id="adtech_tag_2" style="z-index:11;"><script type="text/javascript">
+<div id="hidden_adtech_container" style="display:none;z-index:1;"><div id="adtech_tag_0" style="z-index:11;"><script type="text/javascript">
 <!--
 if (window.adgroupid == undefined) {
 	window.adgroupid = Math.round(Math.random() * 1000);
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268203|0|225|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268203|0|225|ADTECH;loc=100;target=_blank;grp=575;misc=1580453763759"></script>
-<noscript><a href="http://adserver.adtechus.com/adlink|3.0|5251|1268203|0|225|ADTECH;loc=300;" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5251|1268203|0|225|ADTECH;loc=300;" border="0" width="728" height="90"></a></noscript></div><div id="adtech_tag_4" style="z-index:1;" class="adtech-skyscraper"><script type="text/javascript">
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268203|0|225|ADTECH;loc=100;target=_blank;grp=387;misc=1580453766635"></script>
+</div><div id="adtech_tag_3" style="z-index:1;" class="adtech-skyscraper"><script type="text/javascript">
 <!--
 if (window.adgroupid == undefined) {
 	window.adgroupid = Math.round(Math.random() * 1000);
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268210|0|154|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268210|0|154|ADTECH;loc=100;target=_blank;grp=575;misc=1580453763771"></script>
-<noscript><a href="http://adserver.adtechus.com/adlink|3.0|5251|1268210|0|154|ADTECH;loc=300;" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5251|1268210|0|154|ADTECH;loc=300;" border="0" width="160" height="600"></a></noscript></div></div><script type="text/javascript">jQuery(document).ready(function() {var ad_indexes = new Array("2","4");for (var i = 0; i < ad_indexes.length; i++) {    repositionAd(ad_indexes[i], false); }    document.getElementById("hidden_adtech_container").style.display = "inline";	fix_wmode2transparent_swf();});</script>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268210|0|154|ADTECH;loc=100;target=_blank;grp=387;misc=1580453766637"></script>
+</div></div><script type="text/javascript">jQuery(document).ready(function() {var ad_indexes = new Array("0","3");for (var i = 0; i < ad_indexes.length; i++) {    repositionAd(ad_indexes[i], false); }    document.getElementById("hidden_adtech_container").style.display = "inline";	fix_wmode2transparent_swf();});</script>
 
 
 
 <script type="text/javascript">
-var pageTracker;
+if(pet_code=='d'){
+	var site_guid = '1c26a68fa3ab111b2b9fd39a832f459c';
+}else{
+	var site_guid = '415b0927a7149da3171f4b88d612c656';
+}
+var gravityInsightsParams = {type:'content', site_guid:site_guid};
+
 $j(document).ready(function() {
-	$LAB
-	.script("http://www.google-analytics.com/ga.js").wait(function(){
+	$LAB.script("http://www.google-analytics.com/ga.js").wait(function(){
 		try {
 			pageTracker = _gat._getTracker("UA-299584-1");
-			pageTracker._trackPageview();
-		} catch(err) {}
+						pageTracker._trackPageview();
+			pageTracker._trackPageLoadTime();
+
+							var pageTracker1 = _gat._getTracker("UA-21817143-1");
+								pageTracker1._setDomainName('none');
+				pageTracker1._setAllowLinker(true);
+				pageTracker1._setAllowHash(false);
+				pageTracker1._trackPageview();
+				pageTracker1._trackPageLoadTime();
+							var pageTracker2 = _gat._getTracker("UA-21817143-3");
+								pageTracker2._setDomainName('none');
+				pageTracker2._setAllowLinker(true);
+				pageTracker2._setAllowHash(false);
+				pageTracker2._trackPageview();
+				pageTracker2._trackPageLoadTime();
+					} catch(err) {}
 	})
 	.script("http://edge.quantserve.com/quant.js").wait(function(){
 		_qacct="p-76zfBls6wfCw2";
 		quantserve();
-	});
+	})
+	.script("http://cdn.insights.gravity.com/moth-min.js");
 });
 </script>
 
 
+<script type="text/javascript">
+var _sf_async_config={uid:126,domain:"dogster.com"};
+window._sf_endpt=(new Date()).getTime();
+$LAB.script((("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js");
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6036036" });
+$LAB.script((document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js");
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036036&cv=2.0&cj=1" /></noscript>
+<!-- End comScore Tag -->
+
+
+
+<!-- fb-on -->
 </body></html>
