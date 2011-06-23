@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datanetworkaffiliates.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919025122id_/http%3A//datanetworkaffiliates.com/content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datanetworkaffiliates.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623065817id_/http%3A//www.datanetworkaffiliates.com/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Data Network Affiliates ~ Turning Data Into Dollars ~ Independent Business Opportunity ~ Connecting Business to People, Business to Business, and People to People
 
