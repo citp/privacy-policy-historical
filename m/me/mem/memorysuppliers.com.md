@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227142554id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023859id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-If you are visually impaired and are having difficulty navigating this site, please call our Customer Support line via our toll free number 800-979-9707.
+# Privacy Policy - MemorySuppliers.com
 
 **AtMemory Suppliers, we are committed to protecting your privacy online.** We created our Privacy Policy ("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers.
 
@@ -18,7 +16,7 @@ In order to better provide you with numerous products and services, Memory Suppl
 **Non-Personally Identifiable Information.**  
 This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
 
-**Shopping**  
+ **Shopping**  
 We collect IP addresses for the purposes of system administration, to gather broad demographic information, to enable ads to be served on our site, to report Non-Personally Identifiable Information to our advertisers, and to monitor the level of activity on our site. We collect information from visitors to our site regarding the URLs they came from, their IP addresses, domain types (e.g., .com or .org), the browser type used to come to the site, the country, state and telephone area code where their servers are located, the pages of our site that visitors viewed during their visit, and any search terms entered on our site.
 
 **Ordering**  
@@ -37,7 +35,7 @@ We use a third party surveyor to run optional surveys for Memory Suppliers. That
   
 **Fulfillment:** The information collected by Memory Suppliers is used only for the limited purposes of processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, to serve ads, and to notify you of products or special offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, deliver your order, and provide customer service.. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address and telephone information to the delivery service to deliver products that you ordered.
 
-**Other Parties:** We may release account information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of Memory Suppliers, our users, or others. If customers do not pay us for products ordered, we may submit their account information to a third party collection agency. 
+ **Other Parties:** We may release account information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of Memory Suppliers, our users, or others. If customers do not pay us for products ordered, we may submit their account information to a third party collection agency. 
 
 **Compliance with Service of Process or Law Enforcement:** Occasionally Memory Suppliers  may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. Memory Suppliers  fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
@@ -45,7 +43,3 @@ In order to most efficiently serve you, credit card transactions and order fulfi
 
   
 When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means.
-
-|   
-  
----|---
