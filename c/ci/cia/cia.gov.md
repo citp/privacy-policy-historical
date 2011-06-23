@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527092938id_/https%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623041853id_/https%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Kids' Page Privacy Statement — Central Intelligence Agency
 
@@ -9,11 +9,11 @@ The Central Intelligence Agency established the CIA Kids’ Page in compliance w
 We encourage parents and teachers to be involved in children’s Internet explorations. The CIA Kids’ Page provides information about the Central Intelligence Agency, as well as games and other fun activities for children and teenagers (and parents and teachers, too). We do not ask for nor do we collect any information regarding children’s visits to our homepage, beyond what is stated in our [**Privacy Notice**](https://web.archive.org/about-cia/site-policies/index.html#privacy-notice "Site Policies"). The information collected as described in that statement does not differentiate between adults and children.
 
   * [Privacy Statement](https://web.archive.org/kids-page/privacy-statement/index.html#privacy-statement "Privacy Statement")
-  * [Disclaimer](https://web.archive.org/kids-page/privacy-statement/index.html#disclaimer "Disclaimer ")
+  * [Disclaimer](https://web.archive.org/kids-page/privacy-statement/index.html#disclaimer "Disclaimer�")
   * [Message to Kids - Let's Be Careful on the Web](https://web.archive.org/kids-page/privacy-statement/index.html#message-to-kids-let "Message to Kids – Let’s Be Careful on the Web")
-  * [Message to Parents, Guardians, and Teachers](https://web.archive.org/kids-page/privacy-statement/index.html#message-to-parents-guardians "Message to Parents, Guardians, and Teachers ")
-  * [Security Notice](https://web.archive.org/kids-page/privacy-statement/index.html#security-notice "Security Notice ")
-  * [For more information](https://web.archive.org/kids-page/privacy-statement/index.html#for-more-information "For More Information ")
+  * [Message to Parents, Guardians, and Teachers](https://web.archive.org/kids-page/privacy-statement/index.html#message-to-parents-guardians "Message to Parents, Guardians, and Teachers�")
+  * [Security Notice](https://web.archive.org/kids-page/privacy-statement/index.html#security-notice "Security Notice�")
+  * [For more information](https://web.archive.org/kids-page/privacy-statement/index.html#for-more-information "For More Information�")
 
 
 
@@ -64,15 +64,3 @@ Phone: (703) 482-0623
 Fax: (703) 482-1739
 
 [[Top of Page](https://web.archive.org/kids-page/privacy-statement/index.html#top)]
-
-Posted: Apr 12, 2007 08:04 AM  
-
-
-Last Updated: Oct 25, 2007 12:51 PM  
-
-
-Last Reviewed: Apr 19, 2007 06:33 AM  
-
-
-  
-
