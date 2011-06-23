@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220221507id_/http%3A//wings.buffalo.edu/computing/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024155id_/http%3A//wings.buffalo.edu/computing/policies/privacy) for the most accurate reproduction.*
 
 # University at Buffalo - Privacy Policy
 
   |    
-**The University at Buffalo's Privacy Policy**   
+**Privacy Policy**   
 (Updated 3.19.2003) **Introduction**
 
 Thank you for visiting this University at Buffalo (UB) website. This website is designed to make it easier and more efficient for individuals and businesses to interact with the University at Buffalo. The University at Buffalo recognizes that it is critical for individuals and businesses to be confident that their privacy is protected when they visit UB websites. 
