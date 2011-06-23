@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestplaces.net privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218030933id_/http%3A//www.bestplaces.net/docs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestplaces.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024049id_/http%3A//www.bestplaces.net/docs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sperling's Best Places - Privacy Policy
 
