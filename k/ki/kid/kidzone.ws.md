@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzone.ws privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221113405id_/http%3A//www.kidzone.ws/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzone.ws privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025939id_/http%3A//www.kidzone.ws/privacy.htm) for the most accurate reproduction.*
 
 # DLTK's Custom Printables
 
