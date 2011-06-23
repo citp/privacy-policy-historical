@@ -1,23 +1,9 @@
-> *The following text is extracted and transformed from the achrnews.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221120105id_/http%3A//www.bnpmedia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achrnews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623033509id_/http%3A//www.bnpmedia.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - HTML - BNP Media
 
-|    [Home](https://web.archive.org/)  
----  
-  [Brands](https://web.archive.org/HTML/1ac18d0f097cd010VgnVCM100000f932a8c0____)  
-  [Advertise Online](http://portfolio.bnpmedia.com/)  
-  [Research](http://www.clearseasresearch.com/)  
-  [Events](http://www.bnpevents.com/)  
-  [Buyers Guides](https://web.archive.org/HTML/df24433f1abcd010VgnVCM100000f932a8c0____)  
-  [eNewsletters](https://web.archive.org/HTML/88d5b8896fbcd010VgnVCM100000f932a8c0____)  
-  [Custom Media](http://custommedia.bnpmedia.com/)  
-  [About BNP Media](https://web.archive.org/HTML/b485b8896fbcd010VgnVCM100000f932a8c0____)  
-  [List Rental](https://web.archive.org/listrental)  
-  [Subscription Rates](https://web.archive.org/web/20101221120105id_/http://www.bnpmedia.com/HTML/523067c1575fd010VgnVCM100000f932a8c0____)  
-  [Back Issues](https://web.archive.org/HTML/523067c1575fd010VgnVCM100000f932a8c0____#backissues)  
-  
 BNP MEDIA PRIVACY POLICY  
-May 2010
+June 2011
 
 **Information Collection and Use:**  
 BNP Media collects registration, circulation qualification, and other information (including e-mail addresses) that you provide to us. This is done to help us provide our customers with the best customer service and valuable information regarding relevant products and services from BNP Media and appropriate third parties.
@@ -45,5 +31,3 @@ E-mail:[privacy@BNPMedia.com](mailto:privacy@BNPMedia.com)
 Fax: (800) 952-6643
 
 If you need assistance in updating the information you have provided to BNP Media or you have questions or comments about these policies, contact BNP Media’s Privacy Manager at [privacy@BNPMedia.com](mailto:privacy@BNPMedia.com). BNP Media will review this privacy policy as needed and may update it periodically. By continued use of BNP Media products, you consent to the collection and use of your information by BNP Media and accept any changes to this policy.
-
-|  | 
