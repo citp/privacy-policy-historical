@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221112220id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623025334id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We are committed to maintaining your confidence and trust with respect to the in
 
 EMS1 is dedicated to safeguarding your privacy online. As a policy, we will not sell, share or otherwise misuse your customer information. Your customer information helps us customize EMS1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. 
 
-This privacy policy was last updated on 02/15/2008. 
+This privacy policy was last updated on 03/15/2011. 
 
 [](http://www.truste.org/ivalidate.php?url=www.ems1.com&sealid=101)
 
