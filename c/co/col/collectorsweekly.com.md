@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectorsweekly.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205043541id_/http%3A//www.collectorsweekly.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorsweekly.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624013455id_/http%3A//www.collectorsweekly.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Collectors Weekly
 
