@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myarticleexpress.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211054115id_/http%3A//www.myarticleexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myarticleexpress.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023639id_/http%3A//www.myarticleexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyArticleExpress
 
@@ -108,7 +108,7 @@ This Privacy Policy is used under license.  The copyright is owned by Mining Go
 
 **DISPUTES**
 
-As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (”CLAIM”) of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
+As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (“CLAIM”) of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
 
 Arbitration shall be conducted pursuant to the rules of the National Academy for Dispute Resolution (UK) Ltd., which are in effect on the date a dispute is submitted to the National Academy for Dispute Resolution (UK) Ltd.  Information about the National Academy for Dispute Resolution (UK) Ltd, its rules, and its forms are available from the National Academy for Dispute Resolution (UK) Ltd, Stockland Cottage, 11 James Street, Treforest, Pontypridd, Mid-Glam. CF37 1BU, UK.  Hearing will take place in the city or county of the Website owner/operator.
 
