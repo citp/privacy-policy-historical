@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ad-u.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229134201id_/http%3A//ad-u.com/tos.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-u.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624002743id_/http%3A//ad-u.com/tos.php) for the most accurate reproduction.*
 
-# Make money from your web site using pop under ads only with ad-u.com | referral source | earn money on the internet
+# Make money from your web site using pop under ads only with ad-u.com | earn cash easy | affiliates
 
 Terms of Service and Privacy Policy
 
