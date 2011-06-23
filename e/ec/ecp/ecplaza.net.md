@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the ecplaza.net privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916131356id_/http%3A//www.ecplaza.net/f.to/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecplaza.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623184544id_/http%3A//www.ecplaza.net/f.to/help/privacy_policy.html) for the most accurate reproduction.*
 
-# B2B Marketplace EC Plaza - Find Manufacturers, Buyers & Suppliers
+# ECPlaza Help
 
-|  |  | 
-
-|  |   
----|---  
   |  |  |   | This is the Privacy Policy governing your use of the EC Plaza Site.   
 By using this Site, you consent to our Privacy Policy set out below.   
 All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and EC Plaza which by use of this Site you agree to accept.   
@@ -91,6 +87,4 @@ You can access, view and edit your Registration Information, Publishing Informat
 To update or correct such information, please [click here](http://member.ecplaza.net/main.do)
 
 EC Plaza welcomes your continuous input regarding our Privacy Policy or our services provided to you.   
-You may send us your comments and responses to [support1@ecplaza.net](mailto:support1@ecplaza.net).  
-  
-  |  
+You may send us your comments and responses to [support1@ecplaza.net](mailto:support1@ecplaza.net).
