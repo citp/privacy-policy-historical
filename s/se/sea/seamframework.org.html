@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seamframework.org privacy policy that was archived on 2010-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101202080622id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seamframework.org privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623092713id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>redhat.com | Privacy Statement</title>
@@ -69,13 +69,19 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		<p id="geo">United States (<a href="/about/corporate/wwoffices/">change</a>)</p>
         <p id="linx"><span class="hide"><strong>Shortcuts:</strong></span><a href="https://access.redhat.com/downloads/" id="DownloadsLink">Downloads</a> <span class="navPipe">|</span> <a href="http://www.fedoraproject.org/">Fedora</a> <span class="navPipe">|</span> <a href="https://rhn.redhat.com">Red Hat Network</a> <span class="navPipe">|</span> <a href="https://access.redhat.com" id="CustomerPortalLink">Customer Portal</a></p>
 	</div>
-	<div id="utilityAccount">
-		<p>
-			<span class="hide"><strong>Account Links:</strong> </span>
-			<a href="/wapps/store/cart.html" id="utilityCart">Cart</a> <span class="navPipe">|</span> 
-			
-			
-                <a href="/wapps/ugc/register.html">Register</a> <span class="navPipe">|</span>
+
+  <script type="text/javascript">
+  $(document).ready(function(){
+  checkrhuser();
+});
+  </script>
+
+        <div id="utilityAccount">
+                <p>
+                        <span class="hide"><strong>Account Links:</strong> </span>
+                        <a href="/wapps/store/cart.html" id="utilityCart">Cart</a> <span class="navPipe">|</span>
+                        <span id="utilityLinkRegister"><a href="/wapps/ugc/register.html">Register</a></span> <span class="navPipe">|</span>
+
                 <script type="text/javascript">                                                 <!--
                 function redirect() {
                    var url = escape(window.location);
@@ -84,10 +90,10 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
                 }
                 // -->
                 </script>
-                <a href="/wapps/sso/login.html" onclick="redirect(); return false">Log In</a>
-			
-		</p>
-	</div>
+
+                        <span id="utilityLinkLogin"><a href="/wapps/sso/login.html">Log In</a></span>
+                </p>
+        </div>
 </div>
 
 <p class="hide"><a href="#content">Skip to content</a></p>
@@ -139,36 +145,48 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			</ul>
 	</li>
 	<li id="mainSecond"><a href="/solutions/" id="SolutionsLink">Solutions</a>
-			<ul>
-        			<li><a href="/solutions/cloud/" id="SCloudComputingLink">Cloud Computing</a></li>
-	                        <li><a href="/solutions/virtualization/" id="SVirtualizationLink">Virtualization</a></li>
-                                <li><a href="/migrate/" id="SMigrationCenterLink">Migration Center</a></li>
-				<li><a href="/solutions/industries/" id="SIndustriesLink">Industries</a>
-					<ul>
-						<li><a href="/solutions/education/" id="SIndEducationLink">Education</a></li>
-						<li><a href="/solutions/financial/" id="SIndFinancialLink">Financial</a></li>
-						<li><a href="/solutions/government/" id="SIndGovtLink">Government</a></li>
-						<li><a href="/solutions/healthcare/" id="SIndHealthCareLink">Healthcare</a></li>
-						<li><a href="/solutions/media/" id="SIndMediaLink">Media &amp; Entertainment</a></li>
-						<li><a href="/solutions/oilandgas/" id="SIndOldGasLink">Oil &amp; Gas</a></li>
-						<li><a href="/solutions/telco/" id="SIndTelecoLink">Telecommunications</a></li>
-					</ul>
-				</li>
-				<li><a href="/solutions/businessneeds/" id="SBusinessNeedsLink">Business Needs</a>
-					<ul>
-						<li><a href="/solutions/mlb/" id="SBNMediumLargeLink">Medium &amp; Large Enterprise Business</a></li>
-						<li><a href="/solutions/enterprise/" id="SBNEnterpriseSolutionsLink">Enterprise Solutions</a></li>
-						<li><a href="/solutions/intelligence/" id="SBNBusinessIntelligenceLink">Business Intelligence</a></li>
-						<li><a href="http://www.lotusonredhat.com" id="SBNContentMgtLink">Collaboration &amp; Content Management</a></li>
-						<li><a href="/solutions/sap/" id="SBNEnterpriseLink">Enterprise Applications</a></li>
-						<li><a href="/security/" id="SBNIdMgtLink">Security &amp; Identity Management</a></li>
-						<li><a href="/solutions/webapps/" id="SBNWebApplicationsLink">Web Applications</a></li>
-						<li><a href="/solutions/value/" id="SBNValueLink">Value</a></li>
-					</ul>
-				</li>
-				<li><a href="/solutions/successstories/" id="SCustSuccessLink">Customer Success</a></li>
-				<li><a href="/solutions/" id="AllSolutionsLink" class="homeLink">All Solutions</a></li>
-			</ul>
+	
+	<ul>	
+        <li><a href="/solutions/cloud/" id="SCloudComputingLink">Cloud Computing</a></li>
+        <li><a href="/solutions/businessneeds/" id="SBusinessNeedsLink">by Business Need</a>
+            <ul>
+                <li><a href="/solutions/mlb/" id="SBNMediumLargeLink">Medium &amp; Large Enterprise Business</a></li>
+
+                <li><a href="/solutions/enterprise/" id="SBNEnterpriseSolutionsLink">Enterprise Solutions</a></li>
+                <li><a href="/solutions/intelligence/" id="SBNBusinessIntelligenceLink">Business Intelligence</a></li>
+                <li><a href="http://www.lotusonredhat.com" id="SBNContentMgtLink">Collaboration &amp; Content Management</a></li>
+                <li><a href="/solutions/sap/" id="SBNEnterpriseLink">Enterprise Applications</a></li>
+                <li><a href="/solutions/businessneeds/security/" id="SBNIdMgtLink">Security</a></li>
+
+                <li><a href="/solutions/webapps/" id="SBNWebApplicationsLink">Web Applications</a></li>
+            </ul>
+        </li>
+        <li><a href="/solutions/itneeds/" id="SITNeedsLink">by IT Need</a>
+            <ul>
+                <li><a href="/migrate/" id="SMigrationCenterLink">Migration Center</a></li>
+                <li><a href="/solutions/virtualization/" id="SVirtualizationLink">Virtualization</a></li>
+                <li><a href="/solutions/itneeds/security/" id="SBNIdMgtLink">Security Portfolio</a></li>
+            </ul>
+        </li>
+        <li><a href="/solutions/industries/" id="SIndustriesLink">by Industry and Sector</a>
+
+            <ul>
+                <li><a href="/solutions/education/" id="SIndEducationLink">Education</a></li>
+                <li><a href="/solutions/financial/" id="SIndFinancialLink">Financial</a></li>
+                <li><a href="/solutions/government/" id="SIndGovtLink">Government</a></li>
+                <li><a href="/solutions/healthcare/" id="SIndHealthCareLink">Healthcare</a></li>
+                <li><a href="/solutions/media/" id="SIndMediaLink">Media &amp; Entertainment</a></li>
+
+                <li><a href="/solutions/oilandgas/" id="SIndOldGasLink">Oil &amp; Gas</a></li>
+                <li><a href="/solutions/telco/" id="SIndTelecoLink">Telecommunications</a></li>
+            </ul>
+        </li>
+        <li><a href="/solutions/successstories/" id="SCustSuccessLink">Customer Success</a></li>
+        <li><a href="/solutions/" id="AllSolutionsLink" class="homeLink">All Solutions</a></li>
+
+        </ul>
+
+
 	</li>
 	<li id="mainThird"><a href="/partners/" id="PartnersLink">Partners</a>
 			<ul>
@@ -216,11 +234,11 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 						<li><a href="/about/contact/" id="CProfileContactLink">Contact</a></li>
 					</ul>
 				</li>
-				<li><a href="/solutions/successstories/" id="CCustSucessLink">Customer Success</a></li>
+				<li><a href="/customersuccess/" id="CCustSucessLink">Customer Success</a></li>
 				<li><a href="/about/news/" id="CNewsLink">News &amp; Events</a>
 	<ul>
 	<li><a href="/about/news/prarchive/" id="CNewsPrarchiveLink">Press Release Archive</a></li>
-	<li><a href="http://www.press.redhat.com/" id="CNewsBlogLink">News Blog</a></li>
+	<li><a href="/about/news/blog/" id="CNewsBlogLink">News Blog</a></li>
 	<li><a href="/about/news/schedule/" id="CNewsScheduleLink">Events Schedule</a></li>
 	</ul>
 	  </li>
@@ -228,7 +246,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 					<ul>
 						<li><a href="/about/culture/" id="CWorkatRHLookInsideRHLink">Look Inside Red Hat</a></li>
 						<li><a href="/about/careers/" id="CWorkatRHCareersLink">Careers</a></li>
-						<li><a href="https://careers.redhat.com/ext">Search Jobs</a></li>
+						<li><a href="https://careers.redhat.com/ext/search" id="CWorkatRHSearchJobsLink">Search Jobs</a></li>
 					</ul>
 				</li>
 				<li><a href="/about/redhat/" id="CWhatisRHLink">What is Red Hat?</a>
