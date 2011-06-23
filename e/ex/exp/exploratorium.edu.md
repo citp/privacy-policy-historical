@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231103611id_/http%3A//www.exploratorium.edu/about/about_website/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623090230id_/http%3A//www.exploratorium.edu/about/about_website/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Exploratorium
 
