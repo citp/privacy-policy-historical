@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crvownersclub.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223020925id_/http%3A//www.crvownersclub.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crvownersclub.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623043021id_/http%3A//www.crvownersclub.com/privacy-statement.html) for the most accurate reproduction.*
 
 # CR-V Owners Club | Privacy Statement
 
