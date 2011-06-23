@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820020113id_/http%3A//www.my3cents.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623221749id_/http%3A//www.my3cents.com/privacy.cgi) for the most accurate reproduction.*
 
 # My3cents.com - Let your voice be heard! Consumer Reviews, Complaints and more...
 
 The policy explains how we will gather and use the information at this Web site: http://www.my3cents.com
 
 **How we use your IP address**  
-We may use your Internet Protocol (IP) address to help diagnose problems with our server and track movement within our web site only to optimize your experience. We may also collect the referring URL, access times and browser type. We will not link this information to any personally identifiable information.
+We may use your Internet Protocol (IP) address to help diagnose problems with our server and track movement within our web site only to optimize your experience. We may also collect the referring URL, access times and browser type. We will not link this information to any personally identifiable information unless you provide us permission to do so.
 
 **How we use cookies**  
 Our site uses "cookies" to make your experience at our site specific to you. Currently, if you set your browser to reject cookies, you cannot use My3cents.com. We also plan to use cookies to keep track of how you found out about our site (i.e., what link to My3cents.com on another site you may have clicked on).
@@ -19,9 +19,15 @@ Our letter generator creates individual letters that are sent at your request to
 
 We will always ask you for permission before sharing your contact information with third parties interested in sending information and promotional offers about their products and services. This basically means that you won't get any junkmail from third parties unless we get you specific permission. 
 
+If you request to be contacted by a lawyer regarding your review, your contact information and location may be shared with an attorney who may attempt to contact you regarding your issue. 
+
 From time to time, we also conduct more detailed surveys of visitors to our site. You decide whether you want to respond to our surveys, and the answers to the questions are reported anonymously. 
 
 In addition, My3cents.com may disclose personally identifiable user information to others when we believe, in good faith, that such release is reasonably necessary to (i) comply with the requirements of the law or a legal process served on us; (ii) enforce or apply the terms of any of our user agreements; or (iii) protect the rights, property or safety of My3cents.com, our users, or others. 
+
+Consumers should be aware that information provided to us may be subpoenaed by courts of law and that in most instances we will be obligated to honor lawful court orders. 
+
+We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes. If you are posting a complaint, the company may attempt to contact you regarding a resolution to your problem/issue. 
 
 **Send Your Letter to Others/Pass It On E-mail**  
 Our site gives you the opportunity to enter a friend's e-mail address to send a copy of your letter or opinion or other information you feel may be of interest. This use is a one-time only e-mail sent to the recipient and our site will not send any further communications to the recipient. 
