@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ttnet.net privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225200456id_/http%3A//www.ttnet.net/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ttnet.net privacy policy that was archived on 2011-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623232400id_/http%3A//www.ttnet.net/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>ttnet.net - Privacy Policy</title>
@@ -53,6 +53,7 @@ function openCertDetails()
 <link rel="stylesheet" href="newttnet.css" type="text/css">
 <link rel="stylesheet" href="ttnet.css" type="text/css">
 <link href="http://images.ttnet.net/css/en/en_base.css" rel="stylesheet" type="text/css">
+<link href="http://images.ttnet.net/images/en/for_buyers/safety.css" rel="stylesheet" type="text/css">
 <base href="http://www.ttnet.net">
 </head>
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" border="0" link="#CC6600" vlink="#CC6600">
@@ -74,7 +75,7 @@ function openCertDetails()
 
 <!-- topArea -->
 <div id="header">
-<h1><a href="/"><img src="http://images.ttnet.net/images/en/index/new/logo.gif" width="210" height="49" alt="B2B marketplace : Taiwan/China manufacturers, suppliers and wholesale products"></a></h1>
+<h1><a href="/" title="Taiwan Suppliers and China Manufacturers - ttnet.net"><img src="http://images.ttnet.net/images/en/index/new/logo.gif" width="210" height="49" alt="Taiwan Suppliers and China Manufacturers - ttnet.net" title="Taiwan Suppliers and China Manufacturers - ttnet.net"></a></h1>
 <div id="search">
 <div id="seaPan"><a href="http://www.ttnet.net/html/search/ehelp.htm">Search Helper</a>
 <ul>
@@ -82,7 +83,7 @@ function openCertDetails()
 <li id="tradeleads"><span>Trade Leads</span></li>
 <li id="suppliers" class="lst"><span>Suppliers</span></li>
 </ul>
-<form method="get" action="/search-bin/e_sourcing.jsp" onsubmit="return onSearch(this,'find');">
+<form method="post" action="/search-bin/e_sourcing.jsp" onsubmit="return onSearch_new(this,'find');">
 <input type="hidden" name="list" value="products" id="search_find">
 <input type="text" name="find">
 <input type="submit" class="button" value="Search" name="search">
@@ -91,11 +92,11 @@ function openCertDetails()
 <!-- hotKeyword -->
 <div id="hp">
 <strong>Hot Products</strong>
-<font><a href="http://manufacturers.ttnet.net/taiwan-products/Women's-Clothing.html">Women's Clothing</a> </font>
-<font><a href="http://manufacturers.ttnet.net/taiwan-products/LED-Display.html">LED Display</a> </font>
-<font><a href="http://manufacturers.ttnet.net/taiwan-products/Car-Accessories.html">Car Accessories</a> </font>
-<font><a href="http://manufacturers.ttnet.net/taiwan-products/Promotion-Gift.html">Promotion Gift</a> </font>
+<font><a href="http://manufacturers.ttnet.net/taiwan-products/Folding-Bed.html">Folding Bed</a> </font>
+<font><a href="http://manufacturers.ttnet.net/taiwan-products/PVC-Film.html">PVC Film</a> </font>
+<font><a href="http://manufacturers.ttnet.net/taiwan-products/Adult-Toys.html">Adult Toys</a> </font>
 <font><a href="http://manufacturers.ttnet.net/taiwan-products/LED.html">LED</a> </font>
+<font><a href="http://manufacturers.ttnet.net/taiwan-products/Carbon-Black.html">Carbon Black</a> </font>
 </div>
 </div>
 </div>
@@ -116,7 +117,7 @@ function openCertDetails()
         $j('#suppliers').addClass('now');
     });
 
-function onSearch(formObj,j_k){
+function onSearch_new(formObj,j_k){
     var j_keyword = eval("formObj."+j_k);
     var rege = /^[\u4e00-\u9fa5]+$/;
     var j_keyword_value = j_keyword.value;
@@ -158,7 +159,7 @@ function onSearch(formObj,j_k){
 <li><a href="http://www.ttnet.net/en/trade_trends/">Market Trend</a></li>
 <li><a href="javascript:void(0);" onclick="window.open('http://www.ttnet.net/search-bin/service_center.cgi','service_center', 'toolbar=no,location=no,top=0,left=0,status=yes,width=450px,height=400px');">Service Center</a></li>
 <li><a href="http://www.ttnet.net/epaper/epaper_index.shtml">Newsletter</a></li>
-<li><a href="http://www.ttnet.net/trade_shows/canton_fair/108th/index.html">108th Canton Fair </a></li>
+<li><a href="/trade_shows/canton_fair/109th/index.html">109th Canton Fair </a></li>
 </ul>
 <ul class="TP0_t" style="display:none">
 <li><a href="/search-bin/buyer_center.cgi?login=Y">Member Center</a></li>
@@ -190,14 +191,16 @@ function onSearch(formObj,j_k){
 <li><a href="/search-bin/stockboard.cgi?f=class">By Category</a></li>
 </ul>
 <ul id="sR" class="TP0_t" style="display:none">
-<li><a href="http://www.ttnet.net/en/e_global_partners/index.html">Global Partners</a></li>
-<li><a href="http://www.ttnet.net/epaper/epaper_index.shtml">Newsletter Center</a></li>
+<li><a href="en/e_global_partners/index.html">Global Partners</a></li>
+<li><a href="epaper/epaper_index.shtml">Newsletter Center</a></li>
 </ul>
 <ul id="sTP" class="TP0_t" style="display:none">
 <li><a href="http://www.ttnet.net/trade_publications/directories/directories.html">Directories</a></li>
 </ul>
 <ul id="sTS" class="TP0_t" style="display:none">
 <li><a href="/search-bin/trade_shows.jsp">Global Exhibition Center</a></li>
+<li><a href="/search-bin/trade_shows.jsp?func=ttnet_show_schedule">ttnet Show Schedule</a></li>
+<li><a href="/trade_shows/canton_fair/109th/index.html">109th Canton Fair</a></li>
 </ul>
 </div>
 </div>
@@ -206,145 +209,48 @@ function onSearch(formObj,j_k){
 <script type="text/javascript"> 
     set_tab_menu("#nav #pr li","#nav div ul.TP0_t",1);
 </script>
-<table width="775" border="0" cellspacing="0" cellpadding="0" align="center" height="1">
-<tbody><tr>
-<td width="3" bgcolor="#CCCCCC"></td>
-</tr>
-</tbody></table>
-<table width="700" border="0" cellspacing="0" cellpadding="5" align="center">
-<tbody><tr>
-<td class="arial18" height="40" valign="bottom" style="color:#003366; font-size:18px">Privacy Policy</td>
-</tr>
-<tr>
-<td class="ariel13" style="color:#003366">Your privacy on the Internet is of the utmost importance to us. Therefore, we urge you to understand the terms and conditions concerning the protection of your privacy offered by <b>ttnet.net</b>. This privacy statement explains how <b>ttnet.net</b>will deal with your personal information.</td>
-</tr>
-<tr>
-<td class="arial13" style="color:#003366"><hr><b>Users' Information</b></td>
-</tr>
-<tr>
-<td class="arial13">
-<table width="92%" border="0" cellspacing="1" cellpadding="1" align="right">
-<tbody><tr>
-<td width="81%" class="verdana11" style="color:#333333"><b>Registration</b></td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333">When you register as our member, <b style="color:#666666">ttnet.net</b> will request you to provide necessary information about yourself, including name, gender, job, title, information of your company, telephone number, e-mail address, residence address and other related information. Please provide us with complete information so that we can provide better services for you.</td>
-</tr>
-<tr>
-<td width="81%">&nbsp;</td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333"><b>Username and Password</b></td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333">During registration, you will be required to supply your own username and password to create a membership account. Through this account, you can fully use the services provided by <b style="color:#666666">ttnet.net</b> for its members.</td>
-</tr>
-<tr>
-<td width="81%">&nbsp;</td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333"><b>Safekeeping of Personal Information</b></td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333">Please keep safe your personal information, username and password. Please do not disclose the above information to others. Please remember to log out after use. If you are sharing a personal computer with others or using personal computer to be used by the public, please remember to close your browser to prevent others from obtaining the above information or getting access to your account.</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td class="arial13" style="color:#003366"><hr><b>Gathering and Usage of User's information</b></td>
-</tr>
-<tr>
-<td class="verdana11">
-<table width="92%" border="0" cellspacing="1" cellpadding="1" align="right">
-<tbody><tr>
-<td width="81%" class="verdana11" style="color:#333333"><b>Gathering</b></td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333"><b style="color:#666666">ttnet.net</b> gathers information through the process of registration, through promotional events, or by using analytical software which analyzes the information of all users.</td>
-</tr>
-<tr>
-<td width="81%">&nbsp;</td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333"><b>Usage</b></td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333">After Registeration, I'd like to recieve ttnet.net news.<br></td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333">In order to
-            provide better services, <b style="color:#666666">ttnet.net</b> may conduct inner researches on the number, preferences and behaviors of users, based on the information gathered in accordance with 2.1. The inner researches conducted by <b style="color:#666666">ttnet.net</b> are to arrange and analyze the information of all users. <b style="color:#666666">ttnet.net</b> will never analyze the information of any individual user, nor will it disclose the same to any third party.</td>
-</tr>
-<tr>
-<td width="81%" class="verdana11">&nbsp;</td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333"><b>Exceptions</b></td>
-</tr>
-<tr>
-<td width="81%" class="verdana11" style="color:#333333">If any one of the following occurs, for purposes of maintenance, management, improvement or otherwise, <b style="color:#666666">ttnet.net</b> may disclose user's information to third party, so that <b style="color:#666666">ttnet.net</b> can determine user's identity, contact user directly, or proceed necessary legal actions:</td>
-</tr>
-<tr>
-<td width="81%" class="verdana11">
-<table width="100%" border="0" cellspacing="1" cellpadding="1">
-<tbody><tr>
-<td width="13%" class="verdana11" valign="top" style="color:#CC6666; text-align:right">•</td>
-<td width="87%" class="verdana11" style="color:#CC6666">the purpose and manner of disclosure is explicitly agreed by the user in advance;</td>
-</tr>
-<tr>
-<td width="13%" class="verdana11" valign="top" style="color:#CC6666; text-align:right">•</td>
-<td width="87%" class="verdana11" style="color:#CC6666">the user violates the rules of using ttnet, including but not limited to "Agreement on Free Posting in ttnet Database" and "Intellectual Property Rights Notice";</td>
-</tr>
-<tr>
-<td width="13%" class="verdana11" valign="top" style="color:#CC6666; text-align:right">•</td>
-<td width="87%" class="verdana11" style="color:#CC6666">the user will possibly cause damage to ttnet's web site, any other user or any third party, either negligently or intentionally; </td>
-</tr>
-<tr>
-<td width="13%" class="verdana11" valign="top" style="color:#CC6666; text-align:right">•</td>
-<td width="87%" class="verdana11" style="color:#CC6666">the disclosure is required by law; or</td>
-</tr>
-<tr>
-<td width="13%" class="verdana11" valign="top" style="color:#CC6666; text-align:right">•</td>
-<td width="87%" class="verdana11" style="color:#CC6666">ttnet reasonably believes that disclosure is permitted by law.</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td class="ariel13" style="color:#336699"><hr><b style="#003366">Limited Liability:</b></td>
-</tr>
-<tr>
-<td class="verdana11" style="color:#333333">pon receipt of your information, <b style="color:#666666">ttnet.net</b> will make its best effort to keep it safely stored in its system. Since Internet is open to everyone, even if ttnet has done its best to protect the information, there is no guarantee that the information sent by or to you is absolutely safe.
-<p class="verdana11" style="color:#333333">It is important to note that some web sites have created hyperlinks to <b style="color:#666666">ttnet.net</b> or may have posted some advertisements on <b style="color:#666666">ttnet.net</b> who may gather your information without following our privacy policy. Whenever you click their ads or take part in their joint events with <b style="color:#666666">ttnet.net</b>, if you have questions about how these web sites will use your information, please contact them directly. Since <b style="color:#666666">ttnet.net</b> never controls the practices of the advertisers, nor does <b style="color:#666666">ttnet.net</b> relate itself to their privacy policy or make them follow <b style="color:#666666">ttnet.net</b>'s privacy policy, <b style="color:#666666">ttnet.net</b> shall not be liable for their practices of information gathering.</p>
-</td>
-</tr>
-<tr>
-<td class="ariel13" style="color:#003366"><hr><b style="color:#003366">Amendment</b></td>
-</tr>
-<tr>
-<td class="verdana11" style="color:#333333"><b style="color:#666666">ttnet.net</b> reserves the right to amend this privacy statement. The amended statement will be posted in the same place of <b style="color:#666666">ttnet.net</b>'s web site. No individual notification will be made to members.
-<p class="verdana11" style="color:#333333">If you have any question regarding this statement, please contact <b style="color:#666666">ttnet.net</b>'s webmaster directly so that <b style="color:#666666">ttnet.net</b> may take care of it directly.</p>
-<p class="verdana11" style="color:#333333">In case there are versions of this privacy statement in different languages, the English version shall govern.</p>
-</td>
-</tr>
-</tbody></table>
-<table width="775" border="0" cellspacing="0" cellpadding="15" align="center">
-<tbody><tr>
-<td>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#CCCCCC">
-<td><img src="http://images.ttnet.net/pi/eimages/dot_clear.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-
+<div class="mainArea">
+<h2>Privacy Policy Declaration</h2>
+<p>Both registered members and visitors are users of ttnet.net. To respect and protect users’ Privacy is one of our basic principles. Therefore, we urge you to understand the terms and conditions concerning the protection of your privacy offered by TTnet. Before using any services provided by TTnet you should first be aware and agree to our Privacy Policy and Terms &amp; Conditions. Once notice of modifications has been given, we will remind and indicate it at an important position on the website and it will immediately come into effect. We will not give notice to you individually. If you disagree with the modified policy, you can cancel the services you are using. Continued use of our services will be regarded as being in acceptance of the changed agreement. You are advised to check the related info regularly.</p>
+<ul>
+<li>
+	  <b>Users’ Data</b><br>
+	  <b>Account Data</b>
+	  <p>When you register as our member, TTnet will request you to provide necessary information about yourself, including name, gender, job, title, information about your company, telephone number, e-mail address, residence address and other related information. This is to enforce the agreement between you and TTnet, to ensure that you are reachable by potential trade partners, or to troubleshoot problems with your account.</p>
+	  <b>Username and Password</b>
+	  <p>During registration, you will be required to supply your own username and password to create a membership account. Through this account, you can fully use the services provided by TTnet for its members.</p>
+	  <b>Safekeeping of Personal Information</b>
+	  <p>Please keep your personal information, username and password safe. Please do not disclose the above information to others. Please remember to log out after use. If you are sharing a personal computer with others or using a personal computer used by the public, please remember to close your browser to prevent others from obtaining the above information or getting access to your account.</p>
+	</li>
+<li>
+	  <b>Gathering and Usage of User's information</b><br>
+	  <b>Gathering</b>
+	  <p>TTnet gathers information through the process of registration, through promotional events, or by using analytical software which analyzes the information of all users.</p>
+	  <b>Usage</b>
+	  <p>Information you provided, such as company name, address, contact person, telephone number, etc., will be posted on TTnet publicly, and accessible to all users. That will help potential partners contact you. Users should thus exercise caution when deciding to release any information that is identifiable to you.<br>In order to provide better services, TTnet may conduct internal research on the number, preferences and behaviors of users, based on the information gathered in accordance with above rules. The internal research conducted by TTnet is to arrange and analyze the aggregate information of all users. TTnet will never analyze the information of any individual user. Unless with your permission or one of the following exceptions occurs, we will not disclose (including selling/exchanging/renting) your data to any individual or third party. Once you become our member, you will receive the latest information about the website, products, trade, etc. sent by e-mail system of our Customer Service Center.</p>
+	  <p>TTnet maintains the right to share analytic results with its business partners, which is limited to aggregate analytic results.</p>
+	  <b>Exceptions</b>
+	  <p>
+	    If any one of the following occurs, for purposes of maintenance, management, improvement or otherwise, TTnet may disclose user's information to third party, so that TTnet can determine user's identity, contact user directly, or proceed with necessary legal actions:<br>
+		●&nbsp;the purpose and manner of disclosure is explicitly agreed to by the user in advance;<br>
+		●&nbsp;the user violates the rules of using TTnet, including but not limited to "Agreement on Free Posting in TTnet Database" and "Intellectual Property Rights Notice";<br>
+		●&nbsp;the user will possibly cause damage to TTnet's web site, any other user or any third party, either negligently or intentionally;<br>
+		●&nbsp;the disclosure is required by law;<br>
+		●&nbsp;TTnet reasonably believes that disclosure is permitted by law.<br>
+		This site has reasonable grounds to believe the data revealed is law abided<br>
+		To maintain the normal operation of this website
+	  </p>
+	</li>
+<li>
+	  <b>Limitation of Liability</b><br>
+	  <p>As long as this website receives the data you send, it will take greatest efforts to ensure the security of the data storage in our system. However due to the openness of the Internet, even though the website is committed to protecting user data, it still can not completely guarantee the data you transmit or send is absolutely safe.<br>Please note: This site links with other sites; manufacturers who have posted information on these websites may also collect your data, but they are not necessarily the same policy as ours to protect your privacy. When you click on information results of or participate in their joint activities with this site, if you have questions concerning their way of using your information, please contact them directly. Because that website does not monitor user activity, and that website does not have a privacy policy for individual users, this site's privacy statement is not applicable, so we are not responsible for data collection activities of users on that site.</p>
+	</li>
+<li>
+	  <b>Contact Us</b><br>
+	  <p>If you have any comments or suggestions on privacy policy, please contact the webmaster of this site directly, in order to directly serve you from this site.</p>
+	</li>
+</ul>
+</div>
 <!-- bottomArea -->
 <div id="footer">
 <div id="md">
@@ -353,10 +259,10 @@ function onSearch(formObj,j_k){
 <div id="sLinks">
 <div>
 <dl>
-<dt>About  TTnet.net</dt>
+<dt>About ttnet.net</dt>
 <dd><a href="/home/site_map/index.html">Site Map</a></dd>
 <dd><a href="/about.htm">About Us</a></dd>
-<dd><a href="javascript:void(0);" onclick="window.open('http://www.ttnet.net/search-bin/service_center.cgi','service_center', 'toolbar=no,location=no,top=0,left=0,status=yes,width=452px,height=407px');">Concat Us</a></dd>
+<dd><a href="javascript:void(0);" onclick="window.open('http://www.ttnet.net/search-bin/service_center.cgi','service_center', 'toolbar=no,location=no,top=0,left=0,status=yes,width=452px,height=407px');">Contact Us</a></dd>
 </dl>
 <dl>
 <dt>Top Trade Tools</dt>
@@ -368,7 +274,6 @@ function onSearch(formObj,j_k){
 </dl>
 <dl>
 <dt>Safety &amp; Support</dt>
-<dd><a href="/overseas1.htm">Overseas Agent</a></dd>
 <dd><a href="/en/e_global_partners/index.html">Global Partners</a></dd>
 <dd><a href="/related-resources.shtml">Link to ttnet.net</a></dd>
 <dd><a href="/safety.htm">Safety Policy</a></dd>
@@ -384,7 +289,7 @@ function onSearch(formObj,j_k){
 </dl>
 </div>
 </div>
-<div id="copy"> Copyright  © 2010 TTNET.NET Co., Ltd. </div>
+<div id="copy"> Copyright  © 2011 TTNET.NET Co., Ltd. </div>
 </div>
 
 <!-- JS -->
