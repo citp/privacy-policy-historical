@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223053556id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623133442id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
 
-# Protect America | Protect America Home Security | Privacy Policy
+# Privacy Policy | Security Systems | Alarm Monitoring | Protect America
 
 ## Protect America, Inc. Privacy Policy (www.protectamerica.com)
 
