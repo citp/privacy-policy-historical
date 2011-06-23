@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203215903id_/http%3A//www.eharmony.com/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623113355id_/http%3A//www.eharmony.com/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony #1 Trusted Relationship Site Move Beyond "Traditional" Online Dating
 
@@ -18,25 +18,9 @@
 
 
 
-[](http://www.truste.org/ivalidate.php?url=www.eharmony.com&sealid=101)
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.eharmony.com/seal_m "Validate TRUSTe privacy certification")
 
-TRUSTe is an independent, non-profit organization whose mission is to build user trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
-
-1\. Any personally identifiable information of yours or third party personal identification is collected from you through the eHarmony, Inc. (“eHarmony”) website;
-
-2\. The organization collecting the information;
-
-3\. How the information is used;
-
-4\. With whom the information may be shared;
-
-5\. What choices are available to you regarding collection, use and distribution of the information;
-
-6\. The kinds of security procedures that are in place to protect the loss, misuse or alteration of information under eHarmony’s control; and
-
-7\. How you can correct any inaccuracies in the information.
-
-If you have questions or concerns regarding this statement, you should first contact the website by writing to eHarmony, Inc., P.O. Box 60157, Pasadena, California 91116 USA, or by sending an email to [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe by clicking [here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns. 
+eHarmony has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
 
@@ -49,7 +33,7 @@ The types of information that we collect fall under two general categories: pers
   * _Log Files._ Any time you visit any of our websites, our servers automatically gather information from your browser (such as your IP addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks) to analyze trends, administer the site, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information. For example, we may log your IP address for system administration purposes. IP addresses are logged to track a user’s session. This gives us an idea of which parts of our site users are visiting. We do not share the log files externally. 
   * _Cookies._ We use “cookies” to keep track of some types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user trends. We rely on cookies for the proper operation of our website; therefore if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. We do not link the cookies to any PII.
   * _Web Beacons._ “Web beacons” (also known as “clear gifs” and “pixel tags”) are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our website for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications in order to understand the behavior of our customers. We do not link the web beacons to any PII.
-  * _Information About You._ When you register or subscribe to any of our services, we collect a wide variety of information about you. For our Singles service, for example, you provide us with answers to our proprietary questionnaire, and we use your answers to build a personality profile for you and to match you with other compatible singles. Your individual responses to the questions about your personality in our questionnaire will be held strictly confidential, while other non-PII about yourself (such as first name, occupation, height, etc.) will be used to build your “about me” profile. If you subscribe to our Marriage service, we may display your personal information to your spouse in order to offer you the benefits of the Marriage service. Finally, for interactive content and community services such as Advice where you may choose to have a public profile, we may display your information to other community members and visitors. You may choose to provide us with your photo(s) or video(s) and by providing us such content, you agree that we may make them available to your matches and users of eHarmony’s services. Except as otherwise stated in this privacy statement, we do not disclose your PII to your matches or other users of our services.
+  * _Information About You._ When you register or subscribe to any of our services, we collect a wide variety of information about you. For our Singles service, for example, you provide us with answers to our proprietary questionnaire, and we use your answers to build a personality profile for you and to match you with other compatible singles. Your individual responses to the questions about your personality in our questionnaire will be held strictly confidential, while other non-PII about yourself (such as first name, occupation, height, etc.) will be used to build your "My Profile." We may also display your marital status and most recent log-in date and other profile/account information to your matches. Finally, for interactive content and community services such as Advice where you may choose to have a public profile, we may display your information to other community members and visitors. You may choose to provide us with your photo(s) or video(s) and by providing us such content, you agree that we may make them available to your matches and users of eHarmony’s services. Except as otherwise stated in this privacy statement, we do not disclose your PII to your matches or other users of our services.
   * _Purchase Information._ To process purchases, we may require your name, address, phone number, email address and credit card information. Such information is used primarily to process your order or as otherwise described herein. Credit card transactions are processed through industry standard Secure Socket Layer (SSL) and/or strong encryption (3DES) by a third party, which only uses your information for that purpose.
   * _E-mails and Telephone Calls._ We require an e-mail address from you when you register for our services. We use your e-mail for both transactional (e.g., order confirmation, refund and renewal processing, notifying of matches for our Singles service) and promotional (e.g., newsletters, new product offerings, special discounts, event notifications, special third-party offers) purposes. E-mail messages we send you may contain code that enables our database to track your usage of the e-mails, including whether the e-mail was opened and what links (if any) were clicked. If you would rather not receive promotional e-mails from us, please see the section below labeled “Choice/Opt-Out”. We reserve the right to send you certain communications relating to the eHarmony services, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. We may also contact you by telephone or text message (including to any wireless number you may provide to us) solely in connection with eHarmony’s services. If you would rather not receive telephone calls or text messages from us, you may change or delete your number from your account preferences page(s), or ask to be removed from our contact list if you receive a call or text message from us. We fully comply with the requirements of the U.S. CAN-SPAM Act. 
   * _Demographic Data._ Demographic data is also collected at our site. We use this data to tailor our visitors’ experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. Some of this information may be shared with advertisers on a non-personally identifiable basis.
@@ -84,9 +68,9 @@ Our age restrictions for different services are set forth in each applicable Ter
 
 We have extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information. We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and hence accept no liability for any unintentional disclosure.
 
-**Links to Other Sites**
+**Links to or Access from Other Sites**
 
-We are not responsible for the privacy practices or the content of other websites that may be linked to this site or of any third party advertisers.
+You may be able to access your account or content of your account from third party sites, such as social networking sites, by way of various applications. The privacy policies and practices of such sites in connection with information you disclose on such sites may differ from the practices of eHarmony as set forth in this privacy statement, and you should review their policies and practices to ensure that the privacy of the information you submit on their site does not conflict with and is consistent with how you wish your information to be treated. Such sites may also place their own cookies or other files on your computer, collect data or solicit personal information from you. We are not responsible for the privacy policies or practices or the content of any other websites that may provide access to, or be linked to or from, this site, including that of any social networking sites and third party advertisers whose offerings require you to navigate away from our site.
 
 **Choice/Opt-Out**
 
@@ -95,8 +79,8 @@ You may use the following options for removing your information from our e-mail 
   1. Click on the “unsubscribe” link on the bottom of the e-mail;
   2. Send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:  
 eHarmony, Inc.  
-P.O. Box 60157  
-Pasadena, CA 91116 USA
+P.O. Box 3640  
+Santa Monica, CA 90408 USA
   3. For the eHarmony Singles service, select our [Help link](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) from your account home page and search our [FAQ's](https://help-singles.eharmony.com/cgi-bin/eharmony_singles.cfg/php/enduser/guided_alp.php) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.com/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you; or
   4. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
 
@@ -118,8 +102,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Site Administrator  
 eHarmony, Inc.  
-P.O. Box 60157  
-Pasadena, CA 91116 USA
+P.O. Box 3640  
+Santa Monica, CA 90408 USA
 
 **Acceptance of Privacy Statement**
 
@@ -131,4 +115,4 @@ Your continued use of any portion of our website following posting of the update
 
 **Effective Date**
 
-This privacy statement was last revised on October 15, 2008.
+This privacy statement was last revised on April 14, 2011.
