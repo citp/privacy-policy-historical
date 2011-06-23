@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228154523id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023542id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
 
 # MadSci Privacy Policy
 
-MadSci Network is a non-profit organization devoted to promoting science literacy and encouraging an interest in science, both at the K-12 level, and in the general population. All pages within MadSci Network will have madsci.org or 68.178.166.78 as the server address, and no tilde (~) in the path of the URL. Paths containing a tilde refer to home pages of some scientists participating in the administration of the site. 
+MadSci Network is a non-profit organization devoted to promoting science literacy and encouraging an interest in science, both at the K-12 level, and in the general population. All pages within MadSci Network will have madsci.org or its IP address as the server address, and no tilde (~) in the path of the URL. Paths containing a tilde refer to home pages of some scientists participating in the administration of the site. 
 
 When visiting MadSci Network we may record information regarding the materials accessed. This information is not sold nor shared with third parties, or make publically available, unless you enter specific information on our ask-a-question form (see below). 
 
-All hits to madsci.org generate the following information in our server logs: 
+All hits to and internal processes on madsci.org generate the following information in our server logs: 
 
   * The Internet address, or IP# of your machine's Internet connection. Examples include proxy-49.aol.com or 123.243.45.168. 
   * The time and date at which you accessed the information. 
@@ -21,6 +21,7 @@ We use this information in the following manner:
   * Identify high-usage materials that may be developed further to provide additional, useful information. 
   * Assist with the recruitment of scientists and moderators to review and answer questions in high volume categories. 
   * Make certain our materials and interfaces are accessible to the platforms and browsers used by visitors. 
+  * Perform scientific research and analyses. 
   * In addition, we may opt to supply this information to a user's identified Internet Service Provider concerning any user who abuses or attempts to interfere with the functioning of our site. 
   * Beyond these points, MadSci does not disclose, give, sell, or transfer personal information concerning visitors to our website unless required for law enforcement or otherwise required by law. 
 
@@ -46,7 +47,7 @@ MadSci Network participates in the [Virtual Reference Desk](http://www.vrd.org/)
 Information submitted on the ask-a-question form may be used in the following manner(s): 
 
   * Track the number of questions submitted in individual subjects. This information helps us determine when we need to recruit additional scientists to field questions, or whether specific subjects should be added or removed from our existing list. 
-  * Perform analyses regarding the educational level of students submitting questions, and types of questions received. 
+  * Perform scientific research and analyses regarding the educational level of students submitting questions, and types of questions received. 
   * Identify commonly asked questions, and create Frequently-Asked-Question files (FAQs) to address them. 
   * We will also use this information to trouble-shoot errors or problems in our interfaces. 
   * In addition, we may opt to supply this information to a user's identified Internet Service Provider concerning any user who abuses our interfaces or who submits materials that are rude, obnoxious, that contain expletives, or threats of any sort. 
@@ -59,7 +60,7 @@ If you have further questions concerning this policy, please contact us at [weba
 * * *
 
 _Last modified 9/21/2005_  
-Previous versions: [7.11.2005](https://web.archive.org/web/20101228154523id_/http%3A//www.madsci.org/info/privacy.7.11.2005.html), [10.31.2001](https://web.archive.org/web/20101228154523id_/http%3A//www.madsci.org/info/privacy.10.2001.html). 
+Previous versions: [7.11.2005](https://web.archive.org/web/20110623023542id_/http%3A//www.madsci.org/info/privacy.7.11.2005.html), [10.31.2001](https://web.archive.org/web/20110623023542id_/http%3A//www.madsci.org/info/privacy.10.2001.html). 
 
 * * *
 
