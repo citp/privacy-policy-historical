@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223144234id_/http%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623064553id_/http%3A//stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # SoundTrack Lyrics Source #1. Privacy
 
@@ -30,7 +30,7 @@ advertiser may place or recognize a unique "cookie" on your browser.
 **This site contains links to other sites. Stlyrics.com is not responsible for the privacy practices or the content of such Web sites. 
 
 **Public Forums  
-**This site forum and guestbook available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+**This site forum and guestbook available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Security  
 **This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
@@ -46,4 +46,4 @@ The copyright law of the United States (Title 17, U.S. Code) governs the making 
 or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement. 
 
 **Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20101223144234id_/http%3A//www.stlyrics.com/contact.htm).
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20110623064553id_/http%3A//stlyrics.com/contact.htm).
