@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230083559id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623121839id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement — EU business news - EUbusiness.com
+# Privacy Statement — EUbusiness - legal, business and economic news from Europe and the EU
 
   * [Information Collection and Use](http://www.eubusiness.com/privacy/privacy-statement#1)
   * [Registration](http://www.eubusiness.com/privacy/privacy-statement#2)
