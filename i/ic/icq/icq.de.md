@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icq.de privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225115502id_/http%3A//www.icq.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icq.de privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623032357id_/http%3A//www.icq.com/legal/privacy.html) for the most accurate reproduction.*
 
 # The ICQ Privacy Policy - ICQ Terms Of Service - ICQ.com
 
