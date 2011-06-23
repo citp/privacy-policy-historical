@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528121414id_/http%3A//www.clarku.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarku.edu privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623180805id_/http%3A//www.clarku.edu/policies/detailpolicy.cfm%3Fpid%3D72) for the most accurate reproduction.*
 
-# Clark University | Public Affairs Office
+# University Policy Resources | Clark University
 
 At Clark, we understand that issues surrounding personal privacy and the Internet are a major concern. We are committed to protecting the rights of all our visitors and want to share with you how we gather information to improve our pages. 
 
@@ -17,3 +17,6 @@ The information we do record helps us analyze the traffic to various sections of
 We only publish e-mail addresses of Clark alumni and students who tell us that they wish to post this information. For those who do provide us with their address for publication on the Web, you may receive periodic mailings from us with information about Clark or upcoming campus events.
 
 We reserve the right to publish e-mail addresses of Clark faculty, administration, and staff at our discretion to better serve the academic community, parents, and prospective students.
+
+
+
