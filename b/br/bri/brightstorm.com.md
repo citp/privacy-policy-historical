@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921112434id_/http%3A//www.brightstorm.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623205902id_/http%3A//www.brightstorm.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brightstorm
 
@@ -8,17 +8,17 @@ Effective Date: February 17, 2010
 
 Brightstorm, Inc. ("Brightstorm") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user trust and confidence in the Internet by promoting the use of fair information practices. We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personal Information we receive from users of our website located at [www.brightstorm.com](http://www.brightstorm.com/) (the "Site"). Because we wish to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact Lisa Kwan at [support@brightstorm.com](mailto:support@brightstorm.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this Privacy Policy, you should first contact us at [support@brightstorm.com](mailto:support@brightstorm.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 This Privacy Policy applies only to information that you provide to us through this Site and not to the practices of our international affiliates, or any websites maintained by other entities to which we link. Brightstorm is not responsible for the content provided on those websites or information those websites may collect about you.
 
 We may update this Privacy Policy from time to time and will handle your information in accordance with the version that was in place when you submitted it. We will notify you of any changes by posting the new Privacy Policy on the Site. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on the home page of the Site.
 
 **Your Consent to this Privacy Policy**  
-By using the Site and Brightstorm service, you agree to the terms of this Privacy Policy as Brightstorm may amend them from time to time. This Privacy Policy is incorporated into, and made a part of, the Brightstorm Terms of Use located at <http://www.brightstorm.com/corporate/terms-of-service> which governs the use of the Site and the Brightstorm service.
+By using the Site and Brightstorm service, you agree to the terms of this Privacy Policy as Brightstorm may amend them from time to time. This Privacy Policy is incorporated into, and made a part of, the Brightstorm Terms of Use located [here](http://www.brightstorm.com/corporate/terms-of-service) which governs the use of the Site and the Brightstorm service.
 
 **Our Policy Toward Children**  
-Brightstorm does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at support@brightstorm.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files immediately.
+Brightstorm does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [support@brightstorm.com](mailto:support@brightstorm.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files immediately.
 
 **Information Collection and Use**
 
@@ -70,7 +70,7 @@ All registered users may review, update, correct or delete the Personal Informat
 **Tell-A-Friend**  
 If you choose to use our referral service to tell a friend about our service directly from our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Brightstorm stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [support@brighstorm.com](mailto:support@brightstorm.com) to request that we remove this information from our database.
+Your friend may contact us at [support@brightstorm.com](mailto:support@brightstorm.com) to request that we remove this information from our database.
 
 **Links to Third Party Websites and Use of AdThis Widget**  
 Our Site contains links to other websites which you can choose to visit by clicking on a third party link. Also, when you use an "AdThis" widget to bookmark and share our products and Site with others, you will be taken to a third party website. The fact you can link to another website or online service via the Site is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites or online services you visit and use.
@@ -84,18 +84,19 @@ Our Site allows users to create an account and login to the Brightstorm service 
 If you are not currently registered as a Brightstorm user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Brightstorm. We allow users to automatically post recent activity back to Facebook, and give them the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit your privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the "Facebook Application Settings" page.
 
 Security  
-The security of your Personal Information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms via the Site, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link <http://en.wikipedia.org/wiki/Secure_Sockets_Layer>.
+The security of your Personal Information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms via the Site, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, visit [here](http://en.wikipedia.org/wiki/Secure_Sockets_Layer).
 
 We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Site, you can email us at [support@brighstorm.com](mailto:support@brightstorm.com).
+If you have any questions about security on our Site, you can email us at [support@brightstorm.com](mailto:support@brightstorm.com).
 
 **International Transfer**  
 Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Brightstorm, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
 **Contact Us**  
-If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:  
-Brightstorm Inc.,  
-PO Box 13237  
-Oakland, CA 94661  
+If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:
+
+Brightstorm, Inc.  
+155 Montgomery Street, Suite 201  
+San Francisco, CA 94104  
 Or our [customer support form](https://web.archive.org/corporate/support)
