@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the hungry-girl.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123224442id_/http%3A//hungry-girl.com/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungry-girl.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624010017id_/http%3A//www.hungry-girl.com/privacy-policy) for the most accurate reproduction.*
 
 # Hungry Girl
-
-  
-  
-
 
 Hungry Girl takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register for your daily email.
 
@@ -33,4 +29,4 @@ Hungry Girl may create links allowing you to access third party sites. Hungry Gi
 All information described above is stored on restricted database servers.
 
 **Modification to this Policy**  
-Hungry Girl may change this policy, but we'll post any changes here.? Check back to read them.
+Hungry Girl may change this policy, but we'll post any changes here. Check back to read them.
