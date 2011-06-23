@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendspace.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227103249id_/http%3A//www.sendspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendspace.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623032503id_/http%3A//www.sendspace.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free large file hosting. Send big files the easy way!
 
