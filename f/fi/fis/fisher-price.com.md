@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisher-price.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227172104id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisher-price.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623103259id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.*
 
 # Fisher-Price® Online Privacy Policy
 
@@ -130,5 +130,5 @@ If you have any questions, please do not hesitate to contact us!
 > Telephone: 800-432-5437   
 > fpconaff@Fisher-Price.com
 
-\- back to top - © 2010 Mattel, Inc. All Rights Reserved.  
+\- back to top - © 2011 Mattel, Inc. All Rights Reserved.  
 Updated April 7, 2009
