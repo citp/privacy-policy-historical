@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the playbill.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204235132id_/http%3A//www.playbill.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbill.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623042606id_/http%3A//www.playbill.com/about/privacy.html) for the most accurate reproduction.*
 
 # Playbill: Privacy Policy
+
+[](http://www.playbill.com/openx/www/delivery/ck.php?oaparams=2__bannerid=2543__zoneid=5__source=about%7Cros%7Celse__cb=60850f590c__oadest=http%3A%2F%2Fwww.playbill.com%2Fplayblog%2F)
 
 * * *
 
