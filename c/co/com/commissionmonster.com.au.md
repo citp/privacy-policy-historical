@@ -1,76 +1,62 @@
-> *The following text is extracted and transformed from the commissionmonster.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202504id_/http%3A//commissionmonster.com.au/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionmonster.com.au privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624215406id_/http%3A//www.commissionmonster.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Commission Monster - Privacy Policy
+# Commission Monster - Privacy-Policy
 
-  
-By using this Site, you agree to the Privacy Policy of The Commission Monster Site as set out below. The Commission Monster Site periodically reviews its Privacy Policy and reserves the right, at its discretion, to modify or remove portions of this policy at any time The Commission Monster Site considers the responsible use of personal information to be of vital importance. 
+### Information we collect and how we use it
 
-The Commission Monster Site is committed to respecting your privacy. In general, you can visit The Commission Monster Site website without telling us who you are or revealing any personal information about yourself. However there are times when we may need information from you such as when you register for our newsletter or to receive information from us. This information may include your name, home or business address and e-mail address. 
+In order to provide our full range of services, we may collect the following types of information:
 
-The Commission Monster Site will seek to let you know before we collect any personal information from you over the Internet. Personal information about you will only be collected when knowingly and voluntarily submitted. The Commission Monster Site will not share the information. Any information collected will not be sold, reused, rented, loaned or otherwise disclosed in any other way. The Commission Monster Site will seek your permission to send you further communications at the time you provide us with your personal information.  
+#### Information you provide
 
-If at any time after submitting your personal information to The Commission Monster Site you would no longer like to receive information from us, simply follow the ‘unsubscribe’ directions at the end of any e-mail communications you receive. No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect server logs. The statistics and log files may be preserved indefinitely and used at any time and in any way necessary to prevent security breaches and to ensure the integrity of the information supplied by The Commission Monster Site. In general on The Commission Monster Site website, IP addresses (the Internet address of a computer) are logged to track a user's session while the user remains anonymous. We analyse this data for certain trends and statistics, such as which parts of our site users are visiting.  
+When you sign up for a Viva9 Account or other Viva9 service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we sometimes request credit card or other payment account information which we maintain in encrypted form on secure servers.
 
-In general, we do not link your IP addresses to anything personally identifiable to you. In those limited cases where session information is not anonymous, The Commission Monster Site will provide notice of the practice and an opportunity to 'opt out.' 
+#### Cookies
 
-When The Commission Monster Site receives information about your session or about you, we may also use it for research or to improve our site and the services we offer you.   ****
+When you visit a publisher site within the Commission Monster affiliate network, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service,and for tracking leads, sales and commissions.
 
-**Cookies**
+Viva9 uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web. We may set one or more cookies in your browser when you visit a website, including Viva9 sites that use our advertising cookies, and view or click on an ad supported by our advertising services.
 
-Some The Commission Monster Site web pages use 'cookies,' which are small files that may be placed on your hard disk for record-keeping purposes. A cookie helps us remember who you are. Cookies can make your subsequent visits to the web page simpler and more seamless. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some web pages may not display properly or you may not be permitted to access certain information.). A server cannot find out a name or e-mail address, or anything about a user's computer, by using cookies. 
+#### Log information
 
-Once The Commission Monster Site receives information from you via e-mail or any other means, the information is in a secure environment. Your personal information will not be released unless The Commission Monster Site believes in good faith that the law requires it or your permission is granted. ****
+When you access Viva9 services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
-**Security**
+#### User communications
 
-The Commission Monster Site strives to ensure the security, integrity and privacy of personal information submitted to our sites, and periodically updates its security measures in light of current technologies. You need to be aware of inherent risks associated with the transmission of information via the Internet. The Commission Monster Site cannot guarantee or warrant the security of any personal information you submit to our sites. If you have concerns in this regard, The Commission Monster Site has other ways of obtaining and providing information. Normal mail, telephone and fax facilities are available. 
+When you send email or other communications to Viva9, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
-The Commission Monster Site may also be linked to Web Sites operated by third parties. These links are meant for your convenience only. Links to third party sites do not constitute sponsorship or endorsement or approval of these sites. Visitors to those sites should refer to their separate privacy policies and practices. 
+#### Affiliated Viva9 Services on other sites
 
-**The Anti Spam Act 2003**
+We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Viva9 in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies.
 
-Note: An electronic version of this Act is also available online   
-from [The Attorney-General's Department  
-](http://www.ag.gov.au/)  
-[Click here to Google search the Attorney General's Department Law Resource: Spam Act 2003](http://www.google.com.au/search?hl=en&q=The+Attorney-General%27s+Department+Spam+Act+2003&btnG=Search)
+#### Links
 
-**P3P Policy**
+Viva9 may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our performance-marketing technology, customized content and advertising.
 
-Collecting information provides specific benefits to our website visitors:
+#### Other sites
 
-Commission Monster are a statistics and tracking company, it is our role to track information on behalf of our clients to ensure the safe delivery of your requested sales, leads, clicks and impressions are fulfilled accurately.
+This Privacy Policy applies to Viva9 services only. We do not exercise control over the sites displayed as search results, sites that include Viva9 applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
-We collect information for the following purpose(s):
+Viva9 only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
 
-  * Completing or supporting an activity 
-  * Website and system administration 
-  * Tailoring the website for its visitors 
-  * Research, analysis, reporting 
-  * Research, analysis, reporting 
-  * Preserving social history as governed by existing law or policy 
-  * Other purposes
+Providing our services, including the display of customized content and advertising;
+
+  * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Ensuring the technical functioning of our network;
+  * Protecting the rights or property of Viva9 or our users; and
+  * Developing new services.
 
 
 
-Who has access to the information we collect?
+We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
 
-  * Ourselves - Tracking Advertising and the Display of 3rd Party Advertising Banners
-  * Delivery services possibly not sharing our privacy policy. 
-  * Other businesses who share our privacy policy - Commission Monster Primarily access an Agent for the provisioning of this type of data and it is not made available to the general public or for the use of unsolicited advertising or 3rd party contact. Other businesses who do not share our privacy policy - Commission Monster simply tracks advertising and provides statistics based on the analysis of this data. All Data collected by Commission Monster is generic and not targeted at specific individuals or used for the evaluation of independent data relating to individuals. 
-  * Unrelated third-parties with unknown privacy policies - Commission Monster agent for 3rd Party advertising and collect information for tracking advertising and all related processes involved with monitoring of clicks, leads, sales, impressions and surveys.
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Viva9 and/or Commission Monster features and services may not function properly if your cookies are disabled.
 
+### Information security
 
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-Of the information we do collect, we allow our visitors the following access to the information:
+We restrict access to personal information to Viva9 employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-  * No access to collected information is given.
-  * If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page.
+### Data integrity
 
-
-
-**Queries**
-
-If you have any questions or comments about our privacy practices, or would like to correct or update information provided to The Commission Monster Site via its Web site, please contact us via the 
-
-[Contact Us](https://web.archive.org/web/20060616202504id_/http%3A//commissionmonster.com.au/generalEmail.aspx)  
-
+Viva9 processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
