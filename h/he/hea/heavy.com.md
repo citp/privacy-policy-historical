@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heavy.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210072728id_/http%3A//www.heavy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavy.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624110146id_/http%3A//www.heavy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Heavy.com
+# Privacy Policy | HEAVY
 
 Because your privacy is important to us, HEAVY has established procedures to protect any personal information you provide to us in accordance with the following principles:
 
