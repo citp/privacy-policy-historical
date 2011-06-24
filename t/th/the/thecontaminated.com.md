@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224080855id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624212600id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheContaminated - Cool Pictures, Weird Pictures, Funny Pictures
 
@@ -18,3 +18,23 @@ This site contains links to other sites. Thecontaminated.com is not responsible 
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
+
+Cool Stuff
+
+#### [How Women Bands Looked Like a Few Decades Ago](http://thecontaminated.com/how-women-bands-looked-like-a-few-decades-ago/ "How Women Bands Looked Like a Few Decades Ago")
+
+[](http://thecontaminated.com/how-women-bands-looked-like-a-few-decades-ago/ "How Women Bands Looked Like a Few Decades Ago")
+
+It seems that women in past have been as same active in the world of music and stage arts as they are today. Despite the fact we think that human society was way more conservative about forty or fifty...
+
+#### [Incredible Car Fountain in Italy](http://thecontaminated.com/incredible-car-fountain-in-italy/ "Incredible Car Fountain in Italy")
+
+[](http://thecontaminated.com/incredible-car-fountain-in-italy/ "Incredible Car Fountain in Italy")
+
+This is amazing fountain. This fountain set up in Rome, Italy. Artist is Juan Galdeano, Spanish....
+
+#### [Amazing Architectures made out of Toothpicks](http://thecontaminated.com/amazing-architectures-made-out-of-toothpicks/ "Amazing Architectures made out of Toothpicks")
+
+[](http://thecontaminated.com/amazing-architectures-made-out-of-toothpicks/ "Amazing Architectures made out of Toothpicks")
+
+Stain Monro from New York was created these amazing architectures out of toothpicks. He is very talented, here are all the most famous buildings in the world. How long should it all done ??...
