@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegamerstop.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307031154id_/http%3A//thegamerstop.com/about-us.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamerstop.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624022454id_/http%3A//thegamerstop.com/about-us.php) for the most accurate reproduction.*
 
-# Privacy Policy - Free Games Online TheGamerStop.com
+# Privacy Policy - Free Games Online - Play Free Games - Flash Games | TheGamerStop
 
 ## Information Collection and Use
 
@@ -10,9 +10,17 @@ We strongly respect your privacy. The Gamer Stop is the sole owner of the inform
 
 We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
+## Google Adsense and the DoubleClick DART Cookie
+
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Googles own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, TheGamerStop has no access or control over these cookies that may be used by third party advertisers.
+
 ## Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 ## External Links
 
