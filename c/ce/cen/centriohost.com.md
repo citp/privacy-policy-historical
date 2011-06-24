@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222114332id_/http%3A//centriohost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624180626id_/http%3A//centriohost.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - CENTRIO HOST ™ - Reseller Hosting - Web Hosting Provider - Master Reseller Hosting
+# Privacy Policy - CENTRIO HOST ™ - Best Reseller Hosting - Web Hosting Provider - Cheap Master Reseller
 
 > **Introduction  
-> ** We Centrio Hosting Service, Inc. are committed to protecting any data that we collect concerning you.  By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
+> ** We Centrio™ Team, are committed to protecting any data that we collect concerning you.  By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
 > 
 > **We are committed to protecting your privacy  
 > ** We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
