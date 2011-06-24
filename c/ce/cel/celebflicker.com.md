@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebflicker.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223215544id_/http%3A//www.celebflicker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebflicker.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624194728id_/http%3A//www.celebflicker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Celebrity HQ Scans
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.CelebFlicker.com](http://www.celebflicker.com/) . The following discloses the information gathering and dissemination practices for this Web site.
 
