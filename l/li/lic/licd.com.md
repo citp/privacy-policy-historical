@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the licd.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203165337id_/http%3A//www.leasticoulddo.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licd.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624092859id_/http%3A//www.leasticoulddo.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Least I Could Do: the Webcomic » About » Privacy Policy
+# Least I Could Do: the Comic » About » Privacy Policy
 
 Blind Ferret Entertainment, producer of Least I Could Do and its related content and service sites, believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you're concerned about protecting your privacy online. At Blind Ferret, we treat your personal information (especially payment information) with the highest standards of safety, security, and confidentiality.  
 ________________________________________   
