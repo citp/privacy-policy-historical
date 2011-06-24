@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 139flash.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212132333id_/http%3A//www.139flash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 139flash.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624091545id_/http%3A//www.139flash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -54,5 +54,5 @@ c.| Respond more than once directly to a specific request from a child (such as 
 6.| We will NOT provide any links to Web sites that are unsuitable for children.  
 7.| We encourage children to get their parent's permission before sharing personal information online.  
   
- **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: webmaster@96flash.com 
+ **We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: webmaster@139flash.com 
