@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tessuti.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224215517id_/http%3A//www.tessuti.co.uk/store/information.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessuti.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624232851id_/http%3A//www.tessuti.co.uk/store/information.php) for the most accurate reproduction.*
 
 # Tessuti.co.uk, Store Information
 
@@ -103,6 +103,8 @@ tessuti.co.uk will not sell personal data in any form, including mailing lists. 
 tessuti.co.uk will continue to oversee implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and the expectations of everyone we deal with. To ensure that we are following our stated Policy, we also conduct periodic and random audits of our Web sites and other systems.
 
 tessuti.co.uk Data Protection Policy has been developed out of respect for the privacy preferences and choices of our candidates, suppliers customers, associates and staff. We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments on tessuti.co.uk and its data protection policy please contact one of our Directors.
+
+Third party vendors, including Google, show your ads on sites on the internet.Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page.
 
 If you have a complaint about our handling of data, you have the right to involve the Information Commissioner - but please inform us first, preferably by e-mail to [enquiries@tessuti.co.uk](mailto:enquiries@tessuti.co.uk), so that we may have the opportunity to address any issues directly with you.
 
