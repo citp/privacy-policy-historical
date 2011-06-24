@@ -1,115 +1,149 @@
-> *The following text is extracted and transformed from the audiencescience.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224222047id_/http%3A//www.audiencescience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiencescience.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624231541id_/http%3A//www.audiencescience.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AudienceScience
 
-Consumer privacy is very important to AudienceScience. That's why our technology and the way we use it exceeds all the industry standards for protecting your privacy online. Through our services, we do not collect personally identifiable information, install software on users' computers, or track keystrokes. 
+[View the Privacy Policy Highlights](https://web.archive.org/web/20110624231541id_/http%3A//www.audiencescience.com/privacy-highlights)  |  [View archive version](https://web.archive.org/web/20110624231541id_/http%3A//www.audiencescience.com/privacy-archive)
 
-The Privacy Policy and Opt-Out on this page apply to all AudienceScience products except for the AudienceScience Connect product in Europe. To access the privacy policy and opt-out for the AudienceScience Connect product in Europe, [click here](http://www.audiencescience.de/site/?page_id=1111&lang=en).
+AudienceScience is committed to protecting your privacy. Our technology and the way we use it meets or exceeds all industry standards and legal requirements for protecting your privacy online. This privacy policy applies to all AudienceScience web sites, products and services worldwide that display or link to this notice. The purpose of this privacy policy is to give consumers comprehensive information about the information we collect, how we use that information, and inform you of your choices with respect to the collection and use of data for online behavioral advertising. A shorter version of this policy is available in our [Privacy Policy Highlights document](https://web.archive.org/web/20110624231541id_/http%3A//www.audiencescience.com/privacy-highlights). You can also learn more in our [Consumer Guide to Audience Based Advertising](https://web.archive.org/web/20110624231541id_/http%3A//www.audiencescience.com/videos/consumer-guide-audience-based-advertising) video.
 
-AudienceScience belongs to and conforms to the standards of the [Network Advertising Initiative](http://www.networkadvertising.org/), which enables consumers to opt out of having their behavior tracked by our technology.
+### About Our Online Behavioral Advertising Services
 
-In the United Kingdom, AudienceScience conforms to the standards of the [IAB UK Good Practice Principles](http://www.youronlinechoices.co.uk/), which enables consumers to opt out of having their behavior tracked by our technology.
+AudienceScience works with advertisers, publishers and other businesses, to deliver targeted or personalized ads, to consumers. In order to target ads we create and use “audience segments”. These audience segments are based on data that is anonymously collected over time and across the Internet to determine or predict user characteristics, behavior, or preferences. Consumers benefit from receiving more relevant ads. Advertisers and publishers benefit from more effective advertising. 
 
-Please feel free to view our Privacy Policy in detail below. If you have questions or concerns regarding our stance on privacy, please e-mail [privacy@audiencescience.com](mailto:privacy@audiencescience.com).
+For example, a consumer that is reading reviews about hybrid cars might be placed into our In-Market Hybrid Car segment. As a result, they might receive ads for Hybrid Cars, rather than ads for trucks or minivans. 
 
-### Privacy Regarding Clients of AudienceScience's Services
+### Personal Information You Provide to Us
 
-This information is intended to inform you, the end user, about how AudienceScience handles information we process on behalf of our Web site owners, advertisers, and service providers who use our services (our "Clients") as part of our data analytics services and information we process for our network advertising services. This information also explains our own practices for our corporate Web site.[](http://www.truste.com/trusted_sites/index.html#A)
+We only collect personal information when we are contacted directly by an individual through our web site and they provide that information to us. That information may include name, email address or phone number.
 
-AudienceScience is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. **This privacy statement covers the Web site www.audiencescience.com.** Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
+We use this information only to respond to these requests or inquiries. We do not provide this information to third parties.
 
-If you have any questions or concerns regarding this statement, you should first contact our Privacy Officer at [privacy@audiencescience.com](mailto:privacy@audiencescience.com).
+We do not use this personal information for our online behavioral advertising services.
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. [](http://www.truste.com/trusted_sites/index.html#A)TRUSTe will then serve as liaison with us to resolve your concerns. AudienceScience complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+Anyone who has provided personal contact information through the AudienceScience corporate web site may e-mail AudienceScience at [info@audiencescience.com](mailto:info@audiencescience.com) to update, delete, and/or correct their personal contact information. AudienceScience will respond to such a request within thirty (30) days of the date the request is submitted.
 
-AudienceScience reserves the right to change how we handle information we process on behalf of our Clients as well as our own practices in regard to AudienceScience's services or corporate Web site.
+### Non-Personal Information We Collect
 
-### What Does AudienceScience Do?
+For our online behavioral advertising (OBA) services, we collect only non-personally identifiable information. All data collected for those services is anonymous. We do not collect any personally identifiable information (PII) for use with OBA.
 
-We provide data analysis and audience segmentation services based on information provided by our Clients regarding their customer interactions, including those on the Client's Web site or online advertisements. We create usage/behavior/interest-based categories called "segments". Segments are unique groups of users that are created using Client-defined criteria that enable the Client to selectively serve targeted advertisements and otherwise profile users of that Client's site(s) or advertisements. We are an outsource solution for what many companies traditionally have done internally, including traffic pattern and behavioral trend evaluations to enhance the usefulness and marketing power of their sites and services. Companies outsource these services to us to reduce cost, increase efficiencies, and decrease turnaround time.
+We collect information through the use of common internet technologies, such as cookies and beacons, on the web sites of those companies that participate in our online behavioral advertising services. We do not install software on users' computers or track keystrokes.
 
-We also provide targeting advertising services using non-personal information that is gathered across multiple, unaffiliated Web sites that use our network. Much like our data analytic services provided for specific Web sites, we create network segments that are used to serve targeted advertisements and profile users in our network. 
+**Cookies**  
+When you visit a participating web site, AudienceScience places one or more cookies on your computer. Cookies are small text files that can be used by a web site to store information on a users' machine and later retrieve it. We use cookies to store information that can be used to serve ads relevant to your interests. We do not store any personally identifiable information in the cookies. We also use cookies when you opt-out via the industry opt-out page. Should you choose to opt-out, we delete all previously collected information from the cookies, and put new information in the cookie which tells us to stop collecting information from that device. 
 
-### What Information Do We Collect for Our Clients, How Do We Use It for Our Data Analytics Services and How Long Do We Retain the Information?
+**Web Beacons**  
+Web sites and web pages contain links to other web sites. These might be links to images, videos, other web pages, ads or other types of content. We collect data from web sites that place a link to our web servers on their web site. We call this link a beacon. (They are also known as an action tag, clear gif or tracking pixel). A beacon is designed to allow the site owner or a third party to monitor or collect information about a site visitor. The type of information collected might include the IP address of the computer, the web page being viewed, the date/time it was viewed, and user activity on the page. We may use the IP address to infer information, such as geolocation. We do not use the IP address to identify users. We do not collect PII. 
 
-Our Clients collect information about their customer interactions using cookies, action tags, and other methods. Cookies are small text files that identify your computer. Web site owners use cookies to, among other things, monitor site usage, customize site features, identify a user's computer operating system and browser, and complete transactions. An action tag (also known as a "clear gif" or "Web beacon") is a small, graphic image on a Web page that is designed to allow the site owner or a third party to monitor who is visiting a site by collecting the IP address of the computer that the tag is sent to, the URL of the page the tag comes from, and the time it was viewed. Tags also may be associated with cookie information.
+**Data Collection**  
+We collect data only from web sites we have a business relationship with. We anonymously collect data over time and across these sites to create usage/behavior/interest-based audience segments. 
 
-A Client may provide information that it collects, including personally identifiable information, to AudienceScience. We also may collect data on behalf of a Client using tags. Information that we collect and compile directly from users includes "clickstream" data such as behavioral data, IP addresses, log files, and other traffic data. We do not collect any personally identifiable information directly from any user, whether using cookies or action tags. As part of our analytics and segmentation services, we may place a cookie on your browser when you visit the Client's Web site or view an advertisement of the Client.
+We also collect data from third party data providers, which may collect data from online and/or offline data sources, such as demographic, product purchase or registration information. For example, when a consumer signs up for a loyalty card at a retail store, the consumer may agree to allow the retailer to use the purchase data for marketing purposes. The retailer, or a third party they work with, will then repackage the purchasing data of many consumers in a way that it can be used for online marketing. When that data is shared with AudienceScience, any personally identifiable information has been removed. What we receive is a group (audience segment) of anonymous users that are interested in certain products or services, such as cars, electronics, or clothing. We work closely with these data providers to ensure that we don’t receive personally identifiable information when this data is provided to us. 
 
-We use data provided by the Client, as well as data that we collect on behalf of the Client, only to create segments and reports for the Client. Additionally, we make information that we collect for or receive from a particular Client available only to that Client. Non-personal information collected by AudienceScience for this purpose is retained for no more than two (2) years.
+We contractually require the web sites and data providers we collect data from to follow the OBA principles and practices we adhere to. This includes provides users with a notice on their web site that they collect data and a link to an opt-out.
 
-We may provide our analytic or segmentation services to Clients that are network advertisers or service providers. These Clients may use a process whereby data is collected over time and across the Internet to determine or predict user characteristics, behavior, or preferences typically for use in ad delivery (called "Online Preference Marketing" ["OPM"]). On behalf of and at the direction of an OPM Client, we may collect non-personal information that the Client may use for OPM purposes on behalf of its customers, including advertisers and Web site owners. OPM Clients are responsible for notifying you of these collection practices and making opt-out procedures available (if any).
+We provide consumers with a means to opt-out of data collection. To opt-out, please see the “Choices” section below. 
 
-A Client may correlate or merge information that we report to it with personal information already collected or accessible by that Client. On behalf of a Client, we may correlate or merge personal information provided by the Client with non-personal information that we collect for that Client. Our Clients are responsible for notifying you whether they correlate or merge personal information to non-personal information that they collect or that we or any other third party collects on their behalf.
+**Sensitive Information**  
+We do not collect or use sensitive information, such as sensitive health or financial data, for purposes of online behavioral advertising without your prior informed consent, otherwise known as opt-in. 
 
-AudienceScience firmly supports and encourages our Clients to adopt privacy policies that fully inform the Client's customers or users about the Client's information collection practices and use of AudienceScience's services. You should familiarize yourself with the privacy practices of any Web site you visit to understand what information the site collects, how the information is used, what choices you have, how to access the information, and how it is safeguarded.
+**Children**  
+We do not target children under the age of thirteen (13). Children under the age of 13 may be placed into one of our general audience segments, based on the web activity of the computer/browser they are using. We are unable to prevent this as we do not collect personally identifiable information and we don't collect information with the intent of identifying users as being under the age of 13.
 
-### Do We Disclose or Permit Access to Our Client's Information?
+### Uses of Non-Personal Information
 
-We keep all data that we receive from and store for our Clients strictly confidential. We are contractually obligated to maintain such confidentiality and we hold our vendors and subcontractors to the same standards whenever they provide services related to the Client's information. We do not permit access to the information except as directed by our Client.
+To make advertising more relevant to you, the audience segments we create are used by us, our clients and partners, including advertisers and publishers, to deliver targeted advertising on the Internet.
 
-### What Information Do We Collect; and How Do We Use It for Our Network Advertising Services; and How Long Do We Retain the Information?
+In the process of serving an advertisement to a consumer, we, or our partners, may decide to serve an ad based on the audience segment(s) that a particular customer is in, and/or other information we have about the user or site the ad comes from.
 
-Separate from our data analytics services, we provide Online Preference Marketing (OPM) or network advertising services. For these services, we use a process whereby data is anonymously collected over time and across the Internet to determine or predict user characteristics, behavior, or preferences typically for use in ad delivery. Our Web tags, beacons, or cookies may collect non-personal information that may be used for OPM purposes on behalf of our customers, including advertisers and Web site owners. Our systems are designed not to collect, process, or store personal information. Non-personal information collected by AudienceScience for this purpose is retained for no more than two (2) years. As part of these OPM and network advertising services, we also collect ad delivery and reporting data. This limited type of anonymous, advertising performance data is kept indefinitely.
+The data we collect is also used for reporting purposes, to give our clients more information about the performance of their advertising campaigns, and to improve performance over time.
 
-As part of AudienceScience's commitment to respect privacy concerns and implement industry-recognized standards, AudienceScience is a member of the NAI and the IAB UK Good Practice Principles. AudienceScience complies with the NAI and the IAB UKSelf-Regulatory Principles which are designed to inform consumers about data collection and advertising practices across multiple Web sites and provide the ability to opt out. For more information about OPM and network advertising, please visit the NAI Web site at [www.networkadvertising.org](http://www.networkadvertising.org/) in the US and [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) in the UK.
+### Information Sharing
 
-### Do We Disclose or Permit Sharing of Information That We Collect for Our Network Services?
+Our OBA services are used by advertisers, publishers and other companies providing online advertising services. We may share aggregated, non-personal information and audience segments with these clients to enable them to deliver targeting advertising. We only share this information with authorized third parties and we require them to follow the same OBA principles and practices we adhere to. When you opt-out of our services, we stop sharing OBA data with these third parties. 
 
-The non-personal user information that we collect to create segments and profile information for our network service is only shared with a third party that is authorized and requested by the websites where the data is collected or originated. An OPM Client may share these segments in accordance with the terms and conditions of the Client's respective privacy policy and subject to such other contractual restrictions imposed by AudienceScience. To provide our network advertising services, we do enable our customers to customize the segments and other user characteristics that they will use to serve and deliver advertisements. Our network advertising customers are contractually prohibited from using any network segment information to correlate it to or merge it with information that they may collect, process, or store in connection with their site, including personal information except in compliance with the applicable Self-Regulatory NAI Principles, and such customer's privacy policy.
+### Information Security and Retention
 
-### Do I Have the Ability Not to Be Identified for AudienceScience's Network Advertising Services?
+AudienceScience is committed to protecting the security of the information we collect. We use a variety of technologies and procedures to protect information from unauthorized access, use or disclosure. We restrict access to authorized individuals. We conduct regular security audits overseen by independent third parties. While we have taken commercially reasonable efforts to guard information, we cannot guarantee that it will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
 
-Yes. If you do not want your browser to be identified and used for network advertising (OPM) purposes, you may visit [www.networkadvertising.org](http://www.networkadvertising.org/) in the US and [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) in the UK for information on how to obtain an "opt-out cookie" to prevent any data from being associated with your browser. Please note that if you elect to opt out, the cookie associated with your browser will be associated with a "blank" or "generic" cookie. Therefore, advertisements that may be served to you on Web sites using our services may repeat and may not be targeted to your interests. [Click here for instructions on how to opt out ](https://web.archive.org/sites/default/files/docs/nai.pdf)of AudienceScience's network advertising services. 
+Non-PII data collected by AudienceScience for OBA purposes is generally retained for up to 90 days. In some cases, we may retain data for up to two (2) years. As part of these OBA services, we also collect aggregated ad delivery and reporting data. This limited type of aggregated advertising performance data is kept indefinitely.
 
-### Do We Have a "P3P" Policy?
+**Confidentiality**  
+AudienceScience keeps all data that it receives from and stores for our clients strictly confidential. We are contractually obligated to maintain such confidentiality and we hold our vendors and subcontractors to the same standards whenever they provide services related to the client's information. We do not permit access to the information except as directed by our clients.
 
-Yes, AudienceScience also subscribes to a P3P policy, which may be viewed in plain text by accessing the "Privacy Report" in your browser. To the extent that there is any inconsistency between the machine-readable P3P policy and this privacy statement, this privacy statement governs.
+### Choices
 
-### How Do We Store Information?
+Anyone who has provided personal contact information through our web site may e-mail us at [info@audiencescience.com](mailto:info@audiencescience.com) to update, delete, and/or correct their personal contact information. We will respond to such a request within thirty (30) days.
 
-All information that is provided by our Clients is stored in a database unique to each Client. Unless expressly permitted by a Client and adequately disclosed in the Client’s privacy policy, we do not commingle or share data between or among our Clients. AudienceScience takes reasonable steps to assure that all Client information sent to us from our Clients is secured from unauthorized interception and to protect it from loss, misuse, and unauthorized access, disclosure, alteration, and destruction in storage while under our control. While we have taken efforts to guard information, we cannot guarantee that it will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
+Consumers can opt-out of our online behavioral services through any one of the ways described below (you don't need to go to each opt-out site, one is sufficient). Once you opt-out, you will continue to receive ads. They will no longer be as relevant to you, as data collection for OBA purposes will have stopped.
 
-### Do We Have a Mechanism to Address Complaints about the Handling of Information That We Collect?
+  * You can opt-out by clicking on the opt-out button at the top of this page.
+  * You can opt-out via the Network Advertising Initiative industry opt-out at [www.networkadvertising.org](http://www.networkadvertising.org/)
+  * You can opt-out via the Consumer Choice Page at [www.aboutads.info](http://www.aboutads.info/)[](http://www.aboutads.info/).
+  * For those in the U.K., you can opt-out via the IAB UK's industry opt-out at [www.youronlinechoices.com](http://www.youronlinechoices.com/).
+  * You can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to delete and/or control the use of cookies. More information can be found in the Help system of your browser. It is at your discretion whether you use the opt-out described above or manage cookies via the browser.
 
-AudienceScience participates in the EU Safe Harbor framework as set forth by the United States Department of Commerce. To address any issues regarding our compliance with the NAI Self-Regulatory Principles, AudienceScience, along with the NAI and other NAI members have created a compliance program that incorporates attestation reviews, a consumer complaint process, sanctions and annual reporting to help ensure that member companies keep their promises to you and abide by the [NAI's Self-Regulatory Code of Conduct](http://www.networkadvertising.org/networks/2008%20NAI%20Principles_final%20for%20Website.pdf). Please refer to the NAI site for more information at the NAI website. 
 
-To address any issues around AudienceScience’s compliance with the IAB UK Good Practice Principles, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
 
-If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://watchdog.truste.com/pvr.php?page=complaint>, or by mail at WatchDog Complaints, TRUSTe, 685 Market Street, Suite 560, San Francisco, CA, USA 94105. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://watchdog.truste.com/pvr.php?page=complaint> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+Note: If you opt-out using our opt-out button, or through the NAI web site, IAB UK web site or [www.aboutads.info](http://www.aboutads.info/), you should not delete your cookies. If you delete your cookies, you will need to opt-out again. Alternatively, you can download an opt-out cookie protector for select browsers from [www.networkadvertising.org](http://www.networkadvertising.org/)[](http://www.networkadvertising.org/).
 
-If you have questions regarding our compliance with the NAI Self-Regulatory Principles, NAI and its members have engaged TRUSTe to create and manage an independent program for purpose of ensuring that NAI members like AudienceScience comply with the NAI Self-Regulatory Principles. Please refer to the NAI site for more information at [www.networkadvertising.org/managing/enforcement.asp ](http://www.networkadvertising.org/managing/enforcement.asp).
+We do not use Flash cookies or Locally Shared Objects (LSO's). If you delete your AudienceScience cookies, we do not recreate those using Flash cookies or LSO's.
 
-### What Information Is Collected from the AudienceScience Corporate Web Site, How Is It Used, and with Whom Do We Share Your Information?
+### Important Information
 
-AudienceScience's Clients are businesses, not individuals, and our corporate Web site collects contact information from our Clients and prospective Clients who request information or services from AudienceScience. To the extent that any personally identifiable contact information (first and last name, telephone number, and e-mail address) is collected through our Web site, we use this contact information to respond to requests for information about our products and services, to provide access to certain services, and for registration for events and seminars. We do not share, sell, rent, or trade any of your personally identifiable information to any third party for promotional purposes or otherwise except as expressly described herein. Anyone who has provided personal, contact information through the AudienceScience corporate Web site may e-mail AudienceScience at [info@audiencescience.com](mailto:info@audiencescience.com) to update, delete, and/or correct their personal contact information. AudienceScience will respond to such a request within thirty (30) days of the date the request is submitted.
+**Digital Advertising Alliance**  
+AudienceScience adheres to the [Digital Advertising Alliance](http://www.aboutads.info/) Self-Regulatory Principles for Online Behavioral Advertising. The DAA offers a Consumer Choice Page (opt-out) and other privacy tools and resources.
 
-### Does AudienceScience Use Cookies, Log File Analysis, or Tagging Technology on Its Corporate Web Site?
+| [](http://www.aboutads.info/)  
+---|---  
+  
+**Network Advertising Initiative**  
+AudienceScience belongs to and conforms to the standards of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI also offers a consumer opt-out page and other privacy tools and resources. 
 
-AudienceScience's corporate Web site uses cookies to track user traffic patterns. If you prefer not to receive cookies, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies, whether from us or one of our Clients, by turning them off in your browser. AudienceScience's corporate Web site may also use analytic tools for log file analysis or to analyze data from tagging technologies. This analysis may include the specific traffic patterns of our Clients and prospective Clients who have submitted contact information.
+| [](http://www.networkadvertising.org/)  
+  
+**IAB**  
+AudienceScience is certified by the Interactive Advertising Bureau (IAB) in completion of their Ad Networks & Exchanges Quality Assurance program. The [IAB Ad Networks & Exchanges Quality Assurance Certification program](http://www.iab.net/ne_guidelines) was created by the IAB to give advertisers confidence that certified ad networks and exchanges provide a safe environment for consumers.
 
-### Links to Other Web sites
+| [](http://www.iab.net/ne_guidelines)  
+  
+**IAB UK**  
+In the United Kingdom, AudienceScience conforms to the standards of [IAB UK Good Practice Principles](http://www.youronlinechoices.co.uk/), which enables consumers to opt out of having their behavior tracked by our technology. 
 
-This Web site contains links to other Web sites that are not owned or controlled by AudienceScience. Please be aware that we, AudienceScience, are not responsible for those Web sites and those Web sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other Web sites to understand their procedures for collecting, using, and disclosing personally identifiable information.
+| [](http://www.youronlinechoices.co.uk/)  
+  
+**TRUSTe Web Privacy Seal**  
+AudienceScience is a licensee of the TRUSTe Web Privacy Seal program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Our participation in this program indicates that we have agreed to have our privacy policy and practices reviewed for compliance by TRUSTe. TRUSTe also provides third-party dispute resolution. More information is provided in the How to Contact Us section of this privacy policy.
 
-### Changes to This Privacy Policy
+| [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.audiencescience.com/seal_m "Validate TRUSTe privacy certification")  
+  
+**EU Safe Harbor**  
+AudienceScience complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. AudienceScience is also a licensee of the TRUSTe EU Safe Harbor Seal. 
 
-AudienceScience reserves the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to our Privacy Policy, we will post those changes to this Privacy Policy, notify you here, or by means of notice on our home page, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-### Testimonials
-
+| [](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.audiencescience.com/seal_m "TRUSTe online privacy certification")  
+  
+**Europe**  
+In Europe, the AudienceScience products “Custom” and “Connect” have received the widely recognized Data Protection Seal from Germany’s leading public monitoring agency ULD (Unabhaengiges Landeszentrum für Datenschutz). Those products have also received the European Privacy Seal from EuroPriSe.  
+  
+**Testimonials**  
 We post customer testimonials on our Web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If a user desires to remove his/her name from appearing along with their testimonial, he/she can do so by sending an e-mail to [privacy@audiencescience.com](mailto:privacy@audiencescience.com).
 
-### Legal and Other Disclosure
-
+**Legal and Other Disclosure**  
 We may share personal information when we believe such action is appropriate to comply with the law (e.g., legal process or a statutory authorization); to enforce or apply our customer agreements; to initiate, render, bill, and collect for services; to protect our rights or property, or to protect users of those services from fraudulent, abusive, or unlawful use of, or subscription to, such services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of information without delay.
 
-Last Updated: August, 2009
+### How to Contact Us
 
-If you have questions or concerns, you should e-mail [privacy@audiencescience.com](mailto:privacy@audiencescience.com).  
+If you have any questions or concerns regarding this statement, you have general or technical questions about our privacy practices and features or you have complaints regarding our compliance with the Safe Harbor, you should first contact our Privacy Officer at [privacy@audiencescience.com](mailto:privacy@audiencescience.com).
+
+Privacy Officer  
 AudienceScience, Inc.  
 1120 112th Ave NE, Suite 400  
 Bellevue, WA 98004  
 425.201.3900
 
-Back to Top
+If contacting us does not resolve your inquiry or complaint, you may raise your complaint with TRUSTe by Internet at <http://watchdog.truste.com/pvr.php?page=complaint>, fax at 415-618-3421, or mail at Watchdog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint to be shared with us. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://watchdog.truste.com/pvr.php?page=complaint> or request this information from TRUSTe at the address listed above. The TRUSTe dispute resolution process shall be conducted in English.
+
+### Changes to Privacy Policy
+
+This Privacy Policy may change from time to time. In the event that we make material changes to the Privacy Policy which require either more prominent notification or your explicit consent, we will do so. 
+
+Our Privacy Policy was last updated on June 15, 2011. The Privacy Policy was changed to present the information in a more user friendly way, and through the addition of a Privacy Policy Highlights document which accompanies this full Privacy Policy. There were no material changes to our collection and use of data. [View archived versions](https://web.archive.org/web/20110624231541id_/http%3A//www.audiencescience.com/privacy-archive). 
