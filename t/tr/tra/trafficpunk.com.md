@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the trafficpunk.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505061739id_/http%3A//trafficpunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficpunk.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624202514id_/http%3A//trafficpunk.com/privacy.php) for the most accurate reproduction.*
 
-# Manual Traffic Exchange and Free Website Promotion - TrafficPunk.com
-
-|  | [](https://web.archive.org/) | [](https://web.archive.org/login.php) | [](https://web.archive.org/register.php) | [](https://web.archive.org/howitworks.php) | [](https://web.archive.org/contact)  
----|---|---|---|---|---  
-|    | 
+# Manual Traffic Exchange, Free Website Traffic - TrafficPunk.com
 
 ###  **TrafficPunk Privacy Policy**
 
@@ -39,14 +35,3 @@ These third party websites may or may not contain cookies for end-user data retr
 
 
 **This policy was last updated January, 2009.**
-
-|   |  | **Member Login:**  
----  
-  
-Username
-
-|   
-  
-Password
-
-| 
