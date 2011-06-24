@@ -1,49 +1,84 @@
-<!--The following is the downloaded HTML source of the modnique.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231144447id_/http%3A//www.modnique.com/bzJApp/ViewContent.action%3Fsid%3D300%26tid%3D100%26pageName%3Dmodnique_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modnique.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624142032id_/http%3A//www.modnique.com/bzJApp/ViewContent.action%3Fsid%3D300%26tid%3D100%26pageName%3Dmodnique_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>Online Sample Sales of Authentic Brand Name and Designer Merchandise.</title>
-<meta name="description" content="Modnique.com is an exclusive private brand name sample sale website. We sell designer apparel, clothes, jewelry, watches, handbags, sunglasses and other premium, quality, brand name products at low discount price. Modnique offers its member access to brand name sale and designer sale events of authentic, brand new and hand-picked designer merchandise. Modnique's prices are lower than found at regular stores because we buy inventory directly from designers and manufacturers. Members save 50-85% or even more.">	<link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/main.css">
-	<link rel="shortcut icon" type="image/ico" href="/bzJApp/views/site/modnique/images/favicon.ico">
-	<link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/modnique_theme/jquery-ui-1.7.2.custom.css">
-	
-	<script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery-1.4.3.min.js"></script>
-	<script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery-ui-1.7.2.custom.min.js"></script>
-	<script type="text/javascript" language="JavaScript">
-		$(function(){
-			//Include for JQuery onload function ONLY.
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                <title>Online Sample Sales of Authentic Brand Name and Designer Merchandise.</title>
+<meta name="description" content="Modnique.com is an exclusive private brand name sample sale website. We sell designer apparel, clothes, jewelry, watches, handbags, sunglasses and other premium, quality, brand name products at low discount price. Modnique offers its member access to brand name sale and designer sale events of authentic, brand new and hand-picked designer merchandise. Modnique's prices are lower than found at regular stores because we buy inventory directly from designers and manufacturers. Members save 50-85% or even more.">        <link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/main.css">
+        <link rel="shortcut icon" type="image/ico" href="/bzJApp/views/site/modnique/images/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/modnique_theme/jquery-ui-1.7.2.custom.css">
 
+        <script type="text/javascript" async="" src="//d2f7h8c8hc0u7y.cloudfront.net/performable/pax/4hbqiP.js"></script><script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery-1.4.3.min.js"></script>
+        <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery-ui-1.8.13.custom.min.js"></script>
+        <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery.tools.min.js"></script>
+        <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery.dialogs.js" language="javascript"></script>
+
+        <script type="text/javascript">
+            // global.inc variables converted into js
+var hostName = "http://www.modnique.com/";
+var SiteID = "300";
+var TenantID = "100";
+var cookieDomain = ".modnique.com";
+var securePrefix = "https://checkout.modnique.com";
+var nonsecurePrefix = "http://checkout.modnique.com";
+        </script>
+        <script type="text/javascript" language="JavaScript">
+            $(function(){
+                //Include for JQuery onload function ONLY.
 //Init login dialog
-
 var redirecturl = '';
 
 $("#login_dialog").dialog({
-	title: 'LOGIN TO MODNIQUE TO CONTINUE SHOPPING',
 	bgiframe: true,
-	width: 480,
-	height: 320,
+	width: 675,
+	height: 330,
 	modal: true,
 	draggable: false,
 	position: 'center',
 	autoOpen: false,
 	zindex: 1003,
-	show: 'custom',
-	hide: 'custom',
+	show: 'fade',
+	hide: 'fade',
 	resizable: false,
 	open: function() {
-		$("#login_dialog").closest(".ui-dialog").fadeIn(500);
+        $('.ui-dialog-titlebar-close').css('right', '3px');
+        $('.ui-dialog').css({
+            position:'fixed',
+            top: '25%'
+        });
 	},
 	beforeclose: function() {
-		$("#login_dialog").closest(".ui-dialog").fadeOut(500);
 	}
 });
 
 $('#open_login_button').click(function(event) {
+	
+	var returnUrl = escape(document.location.href);
+	var iframeSrc = 'https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=loginiframe&returnURL='+returnUrl;
+					
+	// Append the iframe into the dialog
+	var iframe = $( '<iframe " src="' + iframeSrc + '" width="675" height="330" scrolling="no" frameborder="0"><\/iframe>' );
+	iframe.appendTo( $("#login_dialog") );
+	
 	$("#login_dialog").dialog('open');
 	$('div#login_error_message').text('');
 	event.preventDefault();
 });
+
+$('#inviteamember a').click(function(event) {
+
+	var returnUrl = escape(document.location.href);
+	var iframeSrc = 'https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=loginiframe&returnURL='+returnUrl;
+
+	// Append the iframe into the dialog
+	var iframe = $( '<iframe " src="' + iframeSrc + '" width="675" height="330" scrolling="no" frameborder="0"><\/iframe>' );
+	iframe.appendTo( $("#login_dialog") );
+
+	$("#login_dialog").dialog('open');
+	$('div#login_error_message').text('');
+	event.preventDefault();
+});
+
 
 $('#invite_login_button').click(function(event) {
 	$("#login_dialog").dialog('open');
@@ -64,8 +99,60 @@ $('#cart_login_button').click(function(event) {
 	event.preventDefault();
 });
 
+$('.make_offer_button').click(function(event) {
+
+	var returnUrl = escape(document.location.href);
+	var iframeSrc = 'https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=loginiframe&returnURL='+returnUrl;
+
+	// Append the iframe into the dialog
+	var iframe = $( '<iframe " src="' + iframeSrc + '" width="675" height="330" scrolling="no" frameborder="0"><\/iframe>' );
+	iframe.appendTo( $("#login_dialog") );
+
+	$("#login_dialog").dialog('open');
+	$('div#login_error_message').text('');
+	event.preventDefault();
+});
+
+	$('.bag_button').click(function (event){
+		// empty dialog
+		$("#login_dialog").html('');
+		
+		if( trim(selectedSize) == "" ){
+			selectedSize = "";
+		}
+		if( trim(selectedColor) == "" ){
+			externalColorId = "";
+		}else{
+			externalColorId = itemAvailabilityChecker.getColorIdByColorName(trim(selectedColor));
+		}
+		quantity = "1";
+		if( $('#quantity').length > 0 ){
+			quantity = $('#quantity').val();
+		}
+		
+		// define returnURL  
+		var returnUrl = escape(document.location.href);
+						   
+		// define redirectUrl
+				var redirectUrl = "https://checkout.modnique.com/bzJApp/AddSalesEventItemToCart.action?sid=300&salesEventItemId=&salesEventId=$saleEvent.getSaleEventId()&productId=$saleEventItem.getSaleEventItem().getProductDao().getProdId()&size="+selectedSize+"&externalColorId="+externalColorId+"&quantity="+quantity;
+		redirectUrl = escape(redirectUrl);
+		
+		// define src
+		var iframeSrc = 'https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=loginiframe&returnURL='+returnUrl+'&redirectURL='+redirectUrl;
+		
+		// Append the iframe into the dialog
+		var iframe = $( '<iframe id="loginDialogIframe" src="' + iframeSrc + '" width="675" height="330" scrolling="no" frameborder="0"><\/iframe>' );
+		iframe.appendTo( $("#login_dialog") );
+	
+		// display the dialog
+		$("#login_dialog").dialog('open');
+		
+		$('div#login_error_message').text('');
+		event.preventDefault();
+	});
+
 $('#ajax_login_button').click(function(event) {
-	querystring = "/bzJApp/Proxy.action?actionName=XMLLogon&dest=c&sid=300&tid=100&pageload=6523&params=";
+	querystring = "/bzJApp/Proxy.action?actionName=XMLLogon&dest=c&sid=300&tid=100&pageload=1990&params=";
 	param = "sid=300&tid=100&loginname=" + $('#ajax_username').val() + "&loginpwd=" + $('#ajax_password').val();
 	param = escape(param);
 	querystring = querystring + param;
@@ -86,94 +173,682 @@ function loginCallback(data, status){
 	} else {
 		$('div#login_error_message').text('Please enter a valid username and password.');
 	}
-}		});
-	</script>
-</head>
-
-<body id="content_page">
-<script type="text/javascript">
-var fieldCleared = false;
-function clearOnInitialFocus ( field ) {
-   if (!fieldCleared) {
-	      field.value = '';
-	      fieldCleared = true;
-	   }
-	   
-	   return true;
-	} //END: clearOnInitialFocus
-</script>
-<script src="/bzJApp/views/site/modnique/js/login.js" language="JavaScript" type="text/javascript"></script>		
-<script src="/bzJApp/views/site/modnique/js/storeCredit.js" language="JavaScript" type="text/javascript"></script>
-<script src="/bzJApp/views/site/modnique/js/cufon-yui.js" type="text/javascript"></script>
-<script src="/bzJApp/views/site/modnique/js/Helvetica_400.font.js" type="text/javascript"></script>
-<script type="text/javascript">
-	Cufon.replace('h1');
-	Cufon.replace('.login'); // Requires a selector engine for IE 6-7, see above
-	Cufon.replace('.tagline'); // Requires a selector engine for IE 6-7, see above
-	Cufon.replace('#headerlinks'); // Requires a selector engine for IE 6-7, see above
-	Cufon.replace('.addbannerstextright'); // Requires a selector engine for IE 6-7, see above
-	Cufon.replace('.addbannerstextleft'); // Requires a selector engine for IE 6-7, see above
-	Cufon.replace('.smalladdbannerstextright'); // Requires a selector engine for IE 6-7, see above
-	Cufon.replace('.smalladdbannerstextleft'); // Requires a selector engine for IE 6-7, see above
+}            });
+        </script>
+    </head>
+    <body id="content_page">
+        <!--var securePrefix = "https://checkout.modnique.com";-->
+<div style="display:none;visibility:hidden;">
+<div id="login_dialog" class="ajax_form"></div></div>
+<div style="display:none;visibility:hidden;">
+<div id="signup_dialog" class="ajax_form"></div></div>
+<div style="display:none;visibility:hidden;">
+<div id="vertical_signup_dialog" class="ajax_form"></div></div>
+<div style="display:none;visibility:hidden;">
+<div id="email_link_dialog" class="ajaxemail_form"></div></div>
+<div style="display:none;visibility:hidden;">
+<div id="dialog_confirmation">
+		<div id="confirmation_popup">
+							  <br><br><br>
+                        <h1>Invite Sent</h1>
+                        
+        
+				</div></div>
+</div>
 	
+				
+	
+	<!--[if IE 7]>
+		<link href="/bzJApp/views/site/modnique/css/ie7.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+    <!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/all-ie-only.css" />
+    <![endif]-->
+
+	<script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery.hoverIntent.js" language="javascript"></script>
+	<script type="text/javascript" src="/bzJApp/views/site/modnique/js/postMessage.js" language="javascript"></script>
+    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/displayFunctions.js" language="javascript"></script>
+    <script type="text/javascript" src="/bzJApp/views/filever28/site/bidz2010/js/cookieFunctions.js" language="javascript"></script>
+    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery_signup.js" language="javascript"></script>
+    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery_signup_vertical.js" language="javascript"></script>
+    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery_email_link.js" language="javascript"></script>
+	<script type="text/javascript" language="JavaScript">
+				
+			function stripUrlParam(url, name){
+				url = url.replace("&"+name, "");
+				url = url.replace("="+name, "");
+				
+				return url;
+			}
+			
+			function redirectPage(topUrl){
+				// get browser and version
+				var userBrowser = navigator.appName;
+				var ver = navigator.appVersion;
+				var thestart = parseFloat(ver.indexOf("MSIE"))+1
+				var brow_ver = parseFloat(ver.substring(thestart+4,thestart+7))
+			
+				if((userBrowser=="Microsoft Internet Explorer") && (brow_ver < 8)){
+					// remove all parameters from url
+					topUrl = topUrl.split('#');
+					topUrl = topUrl[0];
+					
+					if(topUrl == "http://www.modnique.com/"){
+						topUrl = "http://www.modnique.com/" + "saleevents";
+					}
+					
+					window.location = topUrl;
+					//location.reload(true);
+				}else{
+					if(topUrl == "http://www.modnique.com/"){
+						topUrl = "http://www.modnique.com/" + "saleevents";
+					}
+					document.location = topUrl;
+				}
+			}
+		
+	
+		jQuery(document).ready(function($) {
+			
+						function megaHoverOver(){
+				$(this).find(".nav_tab").stop().fadeTo(50, 1).show(); //find .sub and fade it in
+			}
+			//#nav out function
+			function megaHoverOut(){
+			  $(this).find(".nav_tab").stop().fadeTo(50, 0, function() { //Fade to 0 opactiy
+				  $(this).hide();  //after fading, hide it
+			  });
+			}
+			
+			//#nav hoverIntent configuration and trigger
+			var hoverIntentConfig = {
+				 sensitivity: 3, //number = sensitivity threshold (must be 1 or higher)
+				 interval: 50, //number = milliseconds for onMouseOver polling interval
+				 over: megaHoverOver, //function = onMouseOver callback (REQUIRED)
+				 timeout: 50, //number = milliseconds delay before onMouseOut
+				 out: megaHoverOut //function = onMouseOut callback (REQUIRED)
+			};
+	
+			$("ul#nav li .nav_tab").css("opacity",0.9); //fade sub nav to 0 opacity by default
+			
+			$("ul#nav li").hoverIntent(hoverIntentConfig); //trigger hoverIntent with custom configurations
+			
+			$("ul.tabs").tabs("div.panes > div"); //trigger brand navigation
+			
+			$("ul.tabs").tabs("div.panes > div", {
+				initialIndex: 100
+			});
+						
+			
+						// Process Object based responses from child frame
+			function callMethodWithParam(str){
+				//alert("callmethodwithparam " + str);
+				
+				var params = str.split("&");
+				var redirectURL = "";
+				var actionToReturn = "";
+				for(i=0; i<params.length; i++){
+					var fields = params[i].split("=");
+					var field = fields[0];
+					var field_value = fields[1];
+					
+					if(field == "action1"){
+						if(field_value=="rememberUsername"){
+							var username = params[i+1].split("=");
+							var username = username[1];
+							setBidzCookieWithDomain("rememberUser", username, 100, cookieDomain);
+						}
+						else if (field_value=="forgetUsername")
+						{
+							setBidzCookieWithDomain("rememberUser", "", -10, cookieDomain);
+						}
+					}else if(field == "action2"){
+						actionToReturn = field_value;
+					}
+					else if (field == "redirectURL")
+					{
+						redirectURL = field_value;
+					}
+				}
+				return actionToReturn + "&redirectURL="+redirectURL
+			}
+			
+				// Establish bridge between parent and child
+				$.receiveMessage(function(e){
+					var str = e.data;
+					//alert(str);
+					if (str.indexOf("action1")>-1){
+						str = "action2="+callMethodWithParam(str);
+						//alert("action " + str);
+					}
+					//alert("string: " + str);
+					if (str.indexOf("action2")>-1){
+						//alert(str);
+						// get the action
+						var action = str.split("action2=");
+						action = action[1].split("&");
+						action = action[0];
+						
+						// use the action to parse the proper parameters
+						switch (action){
+							case 'closeLoginDialogGoToCart': 
+								var redirectURL = str.split("redirectURL=");
+								redirectURL = unescape(unescape(redirectURL[1]));
+								redirectPage(redirectURL);
+								break;
+						}
+						
+						str = action;
+					}
+					
+					// Process actions
+					// alert(str);
+					switch (str){
+						// Basic
+						case 'closeLoginDialog': 
+							var topUrl = stripUrlParam(top.location.href, 'userLoggedIn');
+							redirectPage(topUrl);
+							break;
+						case 'openSignup': 
+							var refreshURL = "http://www.modnique.com/bzJApp/ViewNewCustRegistrationForm.action?sid=300&tid=100&returnURL=http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FViewContent.action%3Fsid%3D300%26tid%3D100%26pageName%3Dmodnique_privacy";
+							redirectPage(refreshURL);
+							break;
+						case 'openForgotPassword': 
+							var refreshURL = "http://www.modnique.com/bzJApp/ViewRememberPasswordForm.action?sid=300&tid=100";
+							redirectPage(refreshURL);
+							break;
+						// Default
+						 default:
+							break;
+					}
+				},
+				  'https://checkout.modnique.com'
+				);
+					});
+	</script>
+	
+	<script type="text/javascript">
+		var fieldCleared = false;
+		function clearOnInitialFocus ( field ) {
+		   if (!fieldCleared) {
+				  field.value = '';
+				  fieldCleared = true;
+			   }
+				   return true;
+			} //END: clearOnInitialFocus
+			
+			function sendToSalesEventsHome(categoryId)
+			{
+				//check if sale_thumb elements are on the page.if they are not, 
+				//redirect to sales event home page.
+				if ($('div.sale_thumb').length == 0)
+				{
+					return true;
+				}
+				else
+				{
+					showHideEventsByCategory(categoryId);
+				}
+				return false;
+			}
+			
+			function showHideEventsByCategory(categoryId)
+			{
+				//alert("showHideEventsByCategory - categoryId " + categoryId);
+				if (!categoryId)
+				{
+					$('#noEventsFound').hide();
+					showAllEvents();
+				}
+				else
+				{
+					//hide elements that don't contain the category id
+					categoryId = "|" + categoryId + "|";
+					//find elements that have the category id in the name
+					$('div.sale_thumb').hide();
+					$('div.sale_thumb2').hide();
+					$('div[name*='+categoryId+']').show();
+					
+					//alert("size" + $('div[name*='+categoryId+']').size());
+					
+					$('#noEventsFound').hide();
+					//if no sales events are available for the provided category id
+					//show a message div and all sales events and 
+					if (noSalesEventsFoundInTheCategory(categoryId))
+					{
+						$('#noEventsFound').show();
+						showAllEvents();
+					}
+				}
+				return false;
+			}
+			
+			function noSalesEventsFoundInTheCategory(categoryId)
+			{
+				if ($('div[name*='+categoryId+'][name$=activeEvent]').size()==0)
+				{
+					//alert("category " + categoryId + " has no active events");
+					return true;
+				}
+				else
+				{
+					return false;
+				}
+			}
+			
+			
+			function showAllEvents()
+			{
+				$('div.sale_thumb').show();
+				$('div.sale_thumb2').show();
+				return false;
+			}
+			
+		
+			
+			function showEventsByCategory(cat)
+			{
+				for (i = 0;i<=7;i++)
+				{
+					$('#menuByCategory'+i).hide();
+				}
+				$('#menuByCategory'+cat).show();
+			}
+			
+			function hideEventsByCategory(cat)
+			{
+				$('#menuByCategory'+cat).hide();
+			}
+	</script>
+	
+	
+	<script type="text/javascript">
+	$(function() {
+	$("#dialog_confirmation").dialog({
+		bgiframe: true,
+		width: 320,
+		height: 100,
+		modal: true,
+		draggable: false,
+		position: 'center',
+		autoOpen: false,
+		resizable: false
+	})
+	});
+	</script>
+	
+	<script src="/bzJApp/views/site/modnique/js/login.js" language="JavaScript" type="text/javascript"></script>		
+	<script src="/bzJApp/views/site/modnique/js/storeCredit.js" language="JavaScript" type="text/javascript"></script>
+
+                <script type="text/javascript">
+            var gigyaHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+            document.write("<scr" + "ipt type='text/javascript' src='" + gigyaHost + "cdns.gigya.com/JS/socialize.js?apikey=2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl'></scr" + "ipt>");
+        </script><script type="text/javascript" src="https://cdns.gigya.com/JS/socialize.js?apikey=2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl"></script>
+        <script type="text/javascript">
+            //Define a configuration object. Insert your Gigya APIKey below:
+            var signup_conf = {APIKey: "2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl"};
+            // Changing the default look and behavior of the Plugin using the 'params' object:
+            var signup_params =
+                {
+                    showTermsLink: 'false',
+                    hideGigyaLink:true,
+                    height: 40,
+                    width: 100,
+                    containerID: 'gigya_header',             // The Plugin will embed itself inside the "gygia_header" DIV
+                    autoDetectUserProviders: '',
+                    facepilePosition: 'none',
+                    lastLoginIndication: 'none',
+                    //Change button size to 40
+                    UIConfig:'<config><body><controls><snbuttons buttonsize="40"></snbuttons></controls></body></config>'
+                    // After successful login - the user will be redirected to:
+                    // redirectURL: "www.modnique.com/"
+                }
+
+    // jquery on DOM ready global
+    jQuery(document).ready(function($) {
+
+            var gigyaEventObj;
+
+            function onLoginHandler(eventObj) {
+                gigyaEventObj = eventObj;
+                querystring = "/bzJApp/Proxy.action?actionName=GigyaLogon&method=p&dest=c&sid=300&tid=100&pageload=9592&params=";
+                                param = "&sid=300&tid=100";
+                                param = escape(param);
+                                querystring = querystring + param;
+                jQuery.ajax({
+                            url: querystring,
+                            type:"POST",
+                            data: {'gigyaJson' : JSON.stringify(eventObj)},
+                            success: gigyaLoginCallback
+                        });
+            }
+
+            // onLogout Event handler
+            function onLogoutHandler(eventObj) {
+            }
+
+            gigya.services.socialize.addEventHandlers(signup_conf, {
+                        context: { str: 'Logged in.' }
+                        , onLogin: onLoginHandler
+                        , onLogout: onLogoutHandler
+                    });
+
+            function gigyaLoginCallback(eventObj) {
+                var gigyaResponse = JSON.parse(eventObj);
+                switch (gigyaResponse.action) {
+                    case "LOGGED_IN" :
+                        window.location.reload();
+                        break;
+                    case "REGISTERED" :
+                        window.location.replace(gigyaResponse.nextPage);
+                        break;
+                    case "LINKING_REQUIRED" :
+                        emailLinkDialog(encodeURIComponent(gigyaEventObj.UID), encodeURIComponent(gigyaEventObj.user.email));
+                        break;
+                    case "EMAIL_UNAVAILABLE" :
+                        emailLinkDialog(encodeURIComponent(gigyaEventObj.UID), encodeURIComponent(gigyaEventObj.user.email));
+                        break;
+                }
+            }
+
+    });
 </script>
 
-<script type="text/javascript">
-$(function(){
-	getStoreCreditValueWithJQuery("https://checkout.modnique.com","ShowStoreCashCredit","sid=300&tid=100","span#store_credit");		
-});
-</script>
 
-
-
+<div id="main_wrapper">
 <div id="header_wrapper">
 	<div id="login_status">
-					<strong><a href="http://www.modnique.com/bzJApp/ViewNewCustRegistrationForm.action?sid=300&amp;tid=100">Register now, Invite your friends and earn Unlimited credits!</a></strong>
-				
-		<div id="fedex_header"><h2><a href="/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping&#10;"><span>FedEx Worldwide Shipping</span></a></h2></div>
-			
-		<div id="login_status_controls">
-									<a id="open_login_button" href="http://www.modnique.com/bzJApp/ViewCustomerLoginForm.action?sid=300&amp;tid=100">login</a>
-					
-		</div>
+                        <div class="userLoggedOut">
+                <div id="gigya_header"></div>
+                <script type="text/javascript">
+                        gigya.services.socialize.showLoginUI(signup_conf, signup_params);
+                </script>
+            </div>
+                        <div id="login_links">
+		<div class="tagline1">
+		
+				<a class="userLoggedIn" href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping"><strong>WE SHIP WORLDWIDE!</strong></a>
+    	
+				<a class="userLoggedOut" href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping"><strong>WE SHIP WORLDWIDE!</strong></a>
+		
+			    			<a id="open_login_button2" class="userLoggedIn" href="http://www.modnique.com/bzJApp/CustomerLogout.action?sid=300&amp;tid=100&amp;returnURL=http%253A%252F%252Fwww.modnique.com%252FbzJApp%252FViewContent.action%253Fsid%253D300%2526tid%253D100%2526pageName%253Dmodnique_privacy"><strong>LOGOUT</strong></a>
+				<a id="open_login_button" class="userLoggedOut" onclick="document.getElementById('hlogin_wrapper'); return false;"><strong>LOG IN</strong></a>
+    				</div>
+                <div id="headerlinks10">
+                        <div class="userLoggedIn">
+                        <a id="headerlinks2" href="http://checkout.modnique.com/bzJApp/ViewAccount.action?sid=300&amp;tid=100">WELCOME</a>
+                        <a href="http://checkout.modnique.com/bzJApp/ViewAccount.action?sid=300&amp;tid=100">CREDITS:</a>
+                        <span id="store_credit">
+                                <script type="text/javascript">
+                                        getStoreCreditValueWithJQuery("https://checkout.modnique.com","ShowStoreCashCredit","sid=300&tid=100","span#store_credit");
+                                </script>
+                        </span>
+                        </div>
+                        <div id="notamember" class="userLoggedOut"><h2><a href="http://www.modnique.com/bzJApp/ViewNewCustRegistrationForm.action?sid=300&amp;tid=100"></a></h2></div>
+                </div>
+            </div>
 	</div>
-	
-	<div id="loginInputDiv" style="display:none;">
-			<div id="loginMessageDiv"></div>
-			username <input type="text" id="ajaxUsername" name="ajaxUsername" size="20" maxlength="150">
-			password <input type="password" id="ajaxPassword" name="ajaxPassword" size="20 maxlength=" 128"="">		
-			<input type="submit" id="ajaxloginbutton" name="ajaxloginbutton" value="login" onclick="javascript:return ajaxLogin(document.getElementById('ajaxUsername').value,document.getElementById('ajaxPassword').value,'300','100');">
-			<a href="http://www.modnique.com/bzJApp/ViewNewCustRegistrationForm.action?sid=300&amp;tid=100&amp;returnURL=http%253A%252F%252Fwww.modnique.com%252FbzJApp%252FSalesEventsHome.action%253Fsid%253D300%2526tid%253D100">not a member? register here-</a>
-	</div>
-	
-	<div id="header">
 					<h1><a href="http://www.modnique.com/"><span>modnique.com</span></a></h1>
-				
-					<ul id="controls">
-				<li id="first"><a href="http://www.modnique.com/bzJApp/SalesEventsHome.action?sid=300&amp;tid=100">all sales events</a></li>
-				<li id="second"><a href="http://www.modnique.com/bzJApp/SalesEventDisplay.action?saleId=1000&amp;sid=300&amp;tid=100">gifts</a></li>
-								<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq">faq</a></li>
-				<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">contact us</a></li>
-				<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_privacy">privacy policy</a></li>
-				<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_terms">terms &amp; conditions</a></li>
-				<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_careers">careers</a></li>
-			</ul>
-				<div id="livechat">
-						<a href="http://editorial.modnique.com/">Editorial</a> | <a href="http://www.facebook.com/modnique">Facebook</a> | 1-888-857-8557 | +1-310-280-7380 | <a href="mailto:service@modnique.com">service@modnique.com</a></div>
-			<div id="private_sale">
-									<a id="logged_out_invite" href="http://www.modnique.com/bzJApp/ViewNewCustRegistrationForm.action?sid=300&amp;tid=100">Invite your friends. Earn unlimited credits</a>
-							</div>
-		</div>
+			<div id="header">
+                        <div id="livechat">
+		
+			<div id="headerlinks"> 
+				<div class="userLoggedIn">
+					<form action="http://checkout.modnique.com/bzJApp/InviteArbitraryUser.action" method="post">
+						<input type="hidden" name="tid" value="100">
+						<input type="hidden" name="sid" value="300">
+						<input type="hidden" name="inviteeFirstName" value="Friend">
+						<input type="hidden" name="personalMessage" value="Please accept my invitation to join Modnique.">
+							<input type="button" value="" onclick="jQuery('#dialog_confirmation').dialog('open'); submit()" class="buttonheader" border="0">
+						<input id="headerinput" type="text" maxlength="150" name="inviteeEmailAddress" onclick="clearOnInitialFocus(this)" value="email address">
+						<label>
+							<div id="inviteamember2"><h2><a href="http://checkout.modnique.com/bzJApp/ViewAccount.action?sid=300&amp;tid=100"></a></h2></div>
+			
+						</label>
+					</form>
+			</div>
+			</div>
+					<div id="inviteamember" class="userLoggedOut"><h2><a></a></h2></div>
+			</div>
 	</div>
+</div>
+</div>
 
-<div id="content_wrapper">
-	<div id="content">
-		<div id="helpdocument">					
-	<img src="http://images.modnique.com/website/headers2/privacy2.png"><br>
-<table width="750" border="0">
+
+<div id="menuheader">
+	<ul id="nav" class="group">
+		<li>
+			<div id="allevents"><h2><a href="http://www.modnique.com/all-sale-events" onmouseover="javascript:showEventsByCategory(0)" onclick="javascript:return sendToSalesEventsHome(0)"></a></h2></div>
+			<div style="opacity: 0.9;" id="first" class="nav_tab group">
+				<ul>
+					<li><h2></h2></li>						
+					<li>		
+																																				<a href="http://www.modnique.com/saleevent/Degree-6-Women-s-and-Men-s-Apparel/2732">Degree 6 Women's and Men's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Degree-6-Children-s-Apparel/2734">Degree 6 Children's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Chaudry/2729">Chaudry</a>
+																																<a href="http://www.modnique.com/saleevent/Bass-shoes/2731">Bass shoes</a>
+																																<a href="http://www.modnique.com/saleevent/Mon-Platin-Dead-Sea-Minerals-Skincare/2730">Mon Platin Dead Sea Minerals Skincare</a>
+																																<a href="http://www.modnique.com/saleevent/K-and-Bros-watches/2726">K and Bros watches</a>
+																																<a href="http://www.modnique.com/saleevent/PREZIOSI-DAL-MASO-jewelry/2727">PREZIOSI DAL MASO jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Techno-Master-watches/2728">Techno Master watches</a>
+																																<a href="http://www.modnique.com/saleevent/Silver-necklaces-under-50/2716">Silver necklaces under $50</a>
+																																<a href="http://www.modnique.com/saleevent/Kenneth-Cole-Gentle-Souls-Women-s-Shoes/2724">Kenneth Cole Gentle Souls Women's Shoes</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Women-s/2722">Luxury Women's</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Men-s/2721">Luxury Men's</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Handbags-Accessories/2723">Luxury Handbags &amp; Accessories</a>
+																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Valentino-handbags/2717">Valentino handbags</a>
+																																<a href="http://www.modnique.com/saleevent/Piero-Milano-jewelry/2718">Piero Milano jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Corvette-Watches/2719">Corvette Watches</a>
+																																<a href="http://www.modnique.com/saleevent/Designer-jewelry/2755">Designer jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Chez-by-Cheryl-Bags/2713">Chez by Cheryl Bags</a>
+																																<a href="http://www.modnique.com/saleevent/Panitti-Women-s-Apparel/2712">Panitti Women's Apparel</a>
+																										</li>
+				</ul>
+				<ul>
+					<li><h6><a href="http://www.modnique.com/all-sale-events" onclick="javascript:return sendToSalesEventsHome(0)"></a></h6>
+					</li>
+				</ul>
+			</div>
+		</li>
+				<li>				
+			<div id="apparel"><h2><a href="http://www.modnique.com/apparel" onmouseover="javascript:showEventsByCategory(1)" onclick="javascript:return sendToSalesEventsHome(1)"></a></h2></div>
+			<div style="opacity: 0.9;" id="second" class="nav_tab group">
+				<ul>
+					<li><h2></h2></li>						
+					<li>		
+																																				<a href="http://www.modnique.com/saleevent/Degree-6-Women-s-and-Men-s-Apparel/2732">Degree 6 Women's and Men's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Degree-6-Children-s-Apparel/2734">Degree 6 Children's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Chaudry/2729">Chaudry</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Women-s/2722">Luxury Women's</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Men-s/2721">Luxury Men's</a>
+																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Panitti-Women-s-Apparel/2712">Panitti Women's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Rich-Skinny-Women-s-Apparel/2715">Rich &amp; Skinny Women's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Highstreet-Women-s-Apparel/2711">Highstreet Women's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Rivet-de-Cru-Men-s-Denim/2714">Rivet de Cru Men's Denim</a>
+																																																																	</li>
+				</ul>
+				<ul>
+					<li><h6><a href="http://www.modnique.com/apparel" onclick="javascript:return sendToSalesEventsHome(1)"></a></h6>
+					</li>
+				</ul>
+											
+			</div>
+		</li>				
+		<li>				
+			<div id="acc"><h2><a href="http://www.modnique.com/accessories" onmouseover="javascript:showEventsByCategory(2)" onclick="javascript:return sendToSalesEventsHome(2)"></a></h2></div>
+			<div style="opacity: 0.9;" id="third" class="nav_tab group">
+				<ul>
+					<li><h2></h2></li>						
+					<li>		
+												 																								<a href="http://www.modnique.com/saleevent/K-and-Bros-watches/2726">K and Bros watches</a>
+																																<a href="http://www.modnique.com/saleevent/PREZIOSI-DAL-MASO-jewelry/2727">PREZIOSI DAL MASO jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Techno-Master-watches/2728">Techno Master watches</a>
+																																<a href="http://www.modnique.com/saleevent/Silver-necklaces-under-50/2716">Silver necklaces under $50</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Handbags-Accessories/2723">Luxury Handbags &amp; Accessories</a>
+																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Valentino-handbags/2717">Valentino handbags</a>
+																																<a href="http://www.modnique.com/saleevent/Piero-Milano-jewelry/2718">Piero Milano jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Corvette-Watches/2719">Corvette Watches</a>
+																																<a href="http://www.modnique.com/saleevent/Designer-jewelry/2755">Designer jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Chez-by-Cheryl-Bags/2713">Chez by Cheryl Bags</a>
+																																<a href="http://www.modnique.com/saleevent/LeZ-Oro-Jewelry/2709">LeZ'Oro Jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Burgi-Watches/2710">Burgi Watches</a>
+																																<a href="http://www.modnique.com/saleevent/Key-Jewelry/2708">Key Jewelry</a>
+																																																																																																														</li>
+				</ul>
+				<ul>
+					<li><h6><a href="http://www.modnique.com/accessories" onclick="javascript:return sendToSalesEventsHome(2)"></a></h6>
+					</li>
+				</ul>
+									</div>
+		</li>						
+		<li>				
+			<div id="shoes"><h2><a href="http://www.modnique.com/shoes" onmouseover="javascript:showEventsByCategory(3)" onclick="javascript:return sendToSalesEventsHome(3)"></a></h2></div>
+			<div style="opacity: 0;" id="fourth" class="nav_tab group">
+				<ul>
+					<li><h2></h2></li>						
+					<li>		
+																																				<a href="http://www.modnique.com/saleevent/Bass-shoes/2731">Bass shoes</a>
+																																<a href="http://www.modnique.com/saleevent/Kenneth-Cole-Gentle-Souls-Women-s-Shoes/2724">Kenneth Cole Gentle Souls Women's Shoes</a>
+																			</li>
+				</ul>
+				<ul>
+					<li><h6><a href="http://www.modnique.com/shoes" onclick="javascript:return sendToSalesEventsHome(3)"></a></h6>
+					</li>
+				</ul>
+											
+			</div>
+		</li>	
+		<li>				
+			<div id="home"><h2><a href="http://www.modnique.com/home-goods" onmouseover="javascript:showEventsByCategory(4)" onclick="javascript:return sendToSalesEventsHome(4)"></a></h2></div>
+			<div style="opacity: 0;" id="fifth" class="nav_tab group">
+				<ul>
+					<li><h2></h2></li>						
+					<li>		
+																																				<a href="http://www.modnique.com/saleevent/Mon-Platin-Dead-Sea-Minerals-Skincare/2730">Mon Platin Dead Sea Minerals Skincare</a>
+																																																																	</li>
+				</ul>
+				<ul>
+					<li><h6><a href="http://www.modnique.com/home-goods" onclick="javascript:return sendToSalesEventsHome(4)"></a></h6>
+					</li>
+				</ul>
+									</div>
+		</li>	
+
+		<li>				
+			<div id="women"><h2><a href="http://www.modnique.com/women" onmouseover="javascript:showEventsByCategory(5)" onclick="javascript:return sendToSalesEventsHome(5)"></a></h2></div>
+			<div style="opacity: 0;" id="sixth" class="nav_tab group">
+				<ul>
+					<li><h2></h2></li>						
+					<li>		
+																																				<a href="http://www.modnique.com/saleevent/Degree-6-Women-s-and-Men-s-Apparel/2732">Degree 6 Women's and Men's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Chaudry/2729">Chaudry</a>
+																																<a href="http://www.modnique.com/saleevent/Bass-shoes/2731">Bass shoes</a>
+																																<a href="http://www.modnique.com/saleevent/K-and-Bros-watches/2726">K and Bros watches</a>
+																																<a href="http://www.modnique.com/saleevent/PREZIOSI-DAL-MASO-jewelry/2727">PREZIOSI DAL MASO jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Techno-Master-watches/2728">Techno Master watches</a>
+																																<a href="http://www.modnique.com/saleevent/Silver-necklaces-under-50/2716">Silver necklaces under $50</a>
+																																<a href="http://www.modnique.com/saleevent/Kenneth-Cole-Gentle-Souls-Women-s-Shoes/2724">Kenneth Cole Gentle Souls Women's Shoes</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Women-s/2722">Luxury Women's</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Handbags-Accessories/2723">Luxury Handbags &amp; Accessories</a>
+																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Valentino-handbags/2717">Valentino handbags</a>
+																																<a href="http://www.modnique.com/saleevent/Piero-Milano-jewelry/2718">Piero Milano jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Designer-jewelry/2755">Designer jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Chez-by-Cheryl-Bags/2713">Chez by Cheryl Bags</a>
+																																<a href="http://www.modnique.com/saleevent/Panitti-Women-s-Apparel/2712">Panitti Women's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Rich-Skinny-Women-s-Apparel/2715">Rich &amp; Skinny Women's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Highstreet-Women-s-Apparel/2711">Highstreet Women's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/LeZ-Oro-Jewelry/2709">LeZ'Oro Jewelry</a>
+																																<a href="http://www.modnique.com/saleevent/Burgi-Watches/2710">Burgi Watches</a>
+																				</li>
+				</ul>
+				<ul>
+					<li><h6><a href="http://www.modnique.com/women" onclick="javascript:return sendToSalesEventsHome(5)"></a></h6>
+					</li>
+				</ul>
+									
+			</div>
+		</li>	
+
+		<li>				
+			<div id="men"><h2><a href="http://www.modnique.com/men" onmouseover="javascript:showEventsByCategory(6)" onclick="javascript:return sendToSalesEventsHome(6)"></a></h2></div>
+			<div style="opacity: 0;" id="seventh" class="nav_tab group">
+				<ul>
+					<li><h2></h2></li>						
+					<li>		
+																																				<a href="http://www.modnique.com/saleevent/Degree-6-Women-s-and-Men-s-Apparel/2732">Degree 6 Women's and Men's Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/K-and-Bros-watches/2726">K and Bros watches</a>
+																																<a href="http://www.modnique.com/saleevent/Techno-Master-watches/2728">Techno Master watches</a>
+																																<a href="http://www.modnique.com/saleevent/Luxury-Men-s/2721">Luxury Men's</a>
+																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
+																																<a href="http://www.modnique.com/saleevent/Corvette-Watches/2719">Corvette Watches</a>
+																																<a href="http://www.modnique.com/saleevent/Rivet-de-Cru-Men-s-Denim/2714">Rivet de Cru Men's Denim</a>
+																																<a href="http://www.modnique.com/saleevent/Burgi-Watches/2710">Burgi Watches</a>
+																																																																																</li>
+				</ul>
+				<ul>
+					<li><h6><a href="http://www.modnique.com/men" onclick="javascript:return sendToSalesEventsHome(6)"></a></h6>
+					</li>
+				</ul>
+									
+			</div>
+		</li>	
+
+		<li>				
+			<div id="kids"><h2><a href="http://www.modnique.com/kids" onmouseover="javascript:showEventsByCategory(7)" onclick="javascript:return sendToSalesEventsHome(7)"></a></h2></div>
+			<div style="opacity: 0;" id="eighth" class="nav_tab group">
+				<ul>
+					<li><h2></h2></li>						
+					<li>		
+																															<a href="http://www.modnique.com/saleevent/Degree-6-Children-s-Apparel/2734">Degree 6 Children's Apparel</a>
+																		</li>
+				</ul>
+				<ul>
+					<li><h6><a href="http://www.modnique.com/kids" onclick="javascript:return sendToSalesEventsHome(7)"></a></h6>
+					</li>
+				</ul>
+								</div>
+		</li>	
+		<li>	
+			<div id="gifts"><h2><a href="http://www.modnique.com/gifts-for-all-occasions"></a></h2></div>
+		</li>
+	</ul>
+</div>
+	
+				
+<div id="headerbottom">
+	<div class="userLoggedIn">
+		<div id="bag"><h2><a href="https://checkout.modnique.com/bzJApp/ShoppingCartAction.action?sid=300&amp;tid=100"></a></h2></div>
+		<div id="account"><h2><a href="https://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100"></a></h2></div>
+		<div id="number2"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
+		<div id="number"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
+		<div id="service"><h2><a href="mailto:service@modnique.com"></a></h2></div>
+		<div id="faq"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq"></a></h2></div>
+		<div id="contact"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
+		<div id="face"><h2><a href="http://www.facebook.com/modnique" onclick="window.open(this.href); return false"></a></h2></div>
+		<div id="blog"><h2><a href="http://editorial.modnique.com/" onclick="window.open(this.href); return false"></a></h2></div>
+	</div>
+	<div class="userLoggedOut">	
+		<div id="number2"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
+		<div id="number"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
+		<div id="service"><h2><a href="mailto:service@modnique.com"></a></h2></div>
+		<div id="faq"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq"></a></h2></div>
+		<div id="face"><h2><a href="http://www.facebook.com/modnique" onclick="window.open(this.href); return false"></a></h2></div>
+		<div id="blog"><h2><a href="http://editorial.modnique.com/" onclick="window.open(this.href); return false"></a></h2></div>			
+	</div>						
+</div>	
+
+        <div id="content_wrapper">
+            <div id="contentwhite">
+                <div id="helpdocument">					
+	<img style="margin: 0 0 10px 70px;" src="http://images.modnique.com/bidz_banner/privacy.png"><br>
+<table width="940" border="0">
   <tbody><tr>
     <td width="40">&nbsp;</td>
-    <td width="710"><p><font face="sans-serif,verdana,arial" size="2" color="#000000"><strong>This is the web site of Modnique.com</strong><strong></strong></font>
+    <td width="940"><p><font face="sans-serif,verdana,arial" size="2" color="#000000"><strong>This is the web site of Modnique.com</strong><strong></strong></font>
       <br>
       <br>
       
@@ -226,70 +901,615 @@ $(function(){
 	<div class="clearer"></div>
 </div>
 
-<div id="footer_wrapper">
-	<div id="footer">
-		<ul id="footer_controls">
-						<li><a href="http://www.modnique.com/bzJApp/SalesEventsHome.action?sid=300&amp;tid=100">all sale events</a></li>
-						<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_about">about us</a></li>
-			<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq">faq</a></li>
-			<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">contact us</a></li>
-			<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_privacy">privacy policy</a></li>
-			<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_terms">terms &amp; conditions</a></li>
-			<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_press">press</a></li>
-			<li><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_careers">careers</a></li>
-		</ul>
-		<div id="footer_tracking">
-			<p>Modnique.com is an exclusive private sale website. Modnique offers its member access to brand name sale and designer sale events of authentic, brand new and hand-picked designer merchandise. Members save 50-85% or even more. We sell designer apparel, jewelry, watches, sunglasses and other premium, quality, brand name products at discounted price.</p>		</div>
-		<div id="footer_copyright">
-			<p>Copyright © 2010 MODNIQUE.COM All rights reserved.</p>
-			<p id="footer_paymethods">We accept Visa, Mastercard, American Express, Discover, PayPal</p>
-		</div>
-	</div>
+<script type="text/javascript">
+//<![CDATA[
+	$(document).ready(function() {
+	var textoDefault = $('#formulario label').remove().text();
+	$('#MERGE0')
+	.val(textoDefault)
+	.css('color', '#999')
+		.focus(function(){
+			if ($(this).val() == textoDefault){
+			$(this).css('color', '').val('');
+			}
+		}).blur(function(){
+			if ($(this).val() == '' ){
+			$(this).val(textoDefault).css('color', '#999');
+			}
+		});
+	});
+// ]]>	
+</script>
+<div id="spacer"></div>
+<div id="nav_footer">
+    <div id="menufooter">
+        <div id="allevents_footer">
+            <h2>
+                <a href="http://www.modnique.com/saleevents"></a>
+            </h2>
+        </div>
+        <div id="lookbook">
+            <h2>
+                <a href="http://lookbook.modnique.com/" onclick="window.open(this.href); return false"></a>
+            </h2>
+        </div>
+        <div id="aboutus">
+            <h2>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_about"></a>
+            </h2>
+        </div>
+        <div id="faq_footer">
+            <h2>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq"></a>
+            </h2>
+        </div>
+        <div id="contactus">
+            <h2>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a>
+            </h2>
+        </div>
+        <div id="shipping_footer">
+            <h2>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping"></a>
+            </h2>
+        </div>
+        <div id="returns_footer">
+            <h2>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_returns"></a>
+            </h2>
+        </div>
+    </div>
+</div>
+<div id="spacer"></div>
+<div id="nav_sales_promo2">
+	<div id="menufooter">
+        <div id="whatismodnique">
+            <h2>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_about"></a>
+            </h2>
+            <p>
+                What is Modnique?
+                Modnique.com is an exclusive private sale website for all members of your family.
+                Modnique offers access to brand name sale events of hand-picked designer merchandise.
+                Members save 50-85% or more.
+                Modnique sells designer apparel, jewelry, watches, sunglasses, handbags, home goods, and other premium quality brand name products at discounted prices.
+            </p>
+            <div id="asseenon">
+                <h2></h2>
+                <ul>
+                    <li id="fox"></li>
+                    <li id="tmz"></li>
+                    <li id="ok"></li>
+                    <li id="pets"></li>
+                    <li id="thestreet"></li>
+                </ul>
+            </div>
+        </div>
+        <div id="myacc" class="userLoggedIn">
+            <h2>
+                <a href="https://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100"></a>
+            </h2>
+            <a href="https://checkout.modnique.com/bzJApp/ViewPaymentHistory.action?sid=300&amp;tid=100">My Orders</a>
+            <a href="https://checkout.modnique.com/bzJApp/UpdatePersonalInfo.action?sid=300&amp;tid=100">Member Profile</a>
+            <a href="https://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100">Invitations</a>
+            <a href="https://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100">Account Credits</a>
+            <a href="http://checkout.modnique.com/bzJApp/ViewAccount.action?sid=300&amp;tid=100">Invite a Friend</a>
+            <h3></h3>
+            <h4>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a>
+            </h4>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">1-888-857-8557</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">1-310-280-7380</a>
+            <a href="mailto:service@modnique.com">service@modnique.com</a>
+            <a class="bizrate_logo" href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--227677.html" target="_blank">
+                <script type="text/javascript">
+                    var bizRateHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+                    document.write("<img" + " src='" + bizRateHost + "medals.bizrate.com/medals/dynamic/227677_medal.gif' alt='BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate' width='125' height='73' align='top' border='0' />");
+                </script><img src="https://medals.bizrate.com/medals/dynamic/227677_medal.gif" alt="BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate" width="125" height="73" align="top" border="0">
+            </a>
+        </div>
+        <div id="myacc" class="userLoggedOut">
+            <h4>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a>
+            </h4>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">1-888-857-8557</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">1-310-280-7380</a>
+            <a href="mailto:service@modnique.com">service@modnique.com</a>
+            <a class="bizrate_logo" href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--227677.html" target="_blank">
+                <script type="text/javascript">
+                    var bizRateHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+                    document.write("<img" + " src='" + bizRateHost + "medals.bizrate.com/medals/dynamic/227677_medal.gif' alt='BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate' width='125' height='73' align='top' border='0' />");
+                </script><img src="https://medals.bizrate.com/medals/dynamic/227677_medal.gif" alt="BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate" width="125" height="73" align="top" border="0">
+            </a>
+        </div>
+
+        <div id="helpfooter">
+            <h2>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq"></a>
+            </h2>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_aboutsales">About the Sales</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping">Shipping</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_returns">Returns</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq">FAQ</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_contact">Contacting Us</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_privacy">Privacy Policy</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_terms">Terms &amp; Conditions</a>
+            <h3></h3>
+            <h4></h4>
+            <a href="http://editorial.modnique.com/" onclick="window.open(this.href); return false">Blog</a>
+            <a href="http://www.facebook.com/modnique" onclick="window.open(this.href); return false">Facebook</a>
+            <a href="http://twitter.com/shopmodnique" onclick="window.open(this.href); return false">Twitter</a>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_press">Press</a>
+            <a href="http://lookbook.modnique.com/" onclick="window.open(this.href); return false">Lookbook</a>
+        </div>
+
+
+        <div id="sitemap_footer">
+            <h2>
+                <a href="http://www.modnique.com/sitemap/sitemap.html"></a>
+            </h2>
+            <a href="http://www.modnique.com/sitemap/private_sale.html">Private Sale</a>
+            <a href="http://www.modnique.com/sitemap/sample_sale.html">Sample Sale</a>
+            <a href="http://www.modnique.com/sitemap/designer_sale.html">Designer Sale</a>
+            <a href="http://www.modnique.com/sitemap/brand_name_sale.html">Brand Name Sale</a>
+            <a href="http://www.modnique.com/sitemap/boutique_events.html">Boutique Events</a>
+            <a href="http://www.modnique.com/sitemap/premium_brands.html">Premium Brands</a>
+            <a href="http://www.modnique.com/sitemap/desginer_clothes.html">Clothes</a>
+            <a href="http://www.modnique.com/sitemap/designer_jewelry.html">Jewelry</a>
+            <a href="http://www.modnique.com/sitemap/designer_dresses.html">Dresses</a>
+            <h3></h3>
+            <h4></h4>
+            <a href="http://www.modnique.com/all-sale-events">All Sale Events</a>
+            <a href="http://www.modnique.com/apparel">Apparel</a>
+            <a href="http://www.modnique.com/accessories">Accessories</a>
+            <a href="http://www.modnique.com/shoes">Shoes</a>
+            <a href="http://www.modnique.com/home-goods">Home Goods</a>
+            <a href="http://www.modnique.com/women">Women</a>
+            <a href="http://www.modnique.com/men">Men</a>
+            <a href="http://www.modnique.com/kids">Kids</a>
+            <a href="http://www.modnique.com/gifts-for-all-occasions">Gifts</a>
+        </div>
+        <div id="nevermiss">
+            <h2></h2>
+            <p>
+                Subscribe to our emails and get early access every morning at 6am PST.
+                Shop an hour early - never miss a deal!
+            </p>
+            <div id="formfooter">
+                <form action="just_a_place_holder" method="post" id="formulario">
+                    <label for="MERGE0">Email Address</label>
+                    <input style="margin-left: 0px;" name="email" id="MERGE0" type="text" maxlength="150">
+                    <input type="button" onclick="submit" class="buttonfooter ajax_subscription_button" value="" border="0">
+                </form>
+            </div>
+            <p>
+                Want a test ride?
+                <a class="sample_email" href="http://images.modnique.com/email/sales/0401/20110406mcam.html" onclick="window.open(this.href); return false">View a sample email</a>
+            </p>
+            <p>
+                Rest easy - Modnique respects your privacy and will never give or sell your personal information to outside parties.
+            </p>
+            <p>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_privacy">Read our Privacy Policy</a>
+                <a href="http://www.modnique.com/email">UNSUBSCRIBE</a>
+            </p>
+        </div>
+    </div>
+</div>
+<div id="content_wrapper">
+    <div id="content2">
+        <div id="footer_catseo">
+                    </div>
+        <div id="footer_catseo">
+                    </div>
+        <div id="footer_copyright">
+            <p>Copyright © 2010 MODNIQUE.COM | All Rights Reserved.</p>
+        </div>
+    </div>
 </div>
 
+<!-- Performable Tracking Code -->
+<script type="text/javascript">
+    (function() {
+        var p = document.createElement('script');
+        p.type = 'text/javascript'; p.async = true;
+        p.src = '//d2f7h8c8hc0u7y.cloudfront.net/performable/pax/4hbqiP.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(p, s);
+    })();
+</script>
+<!-- END: Performable Tracking Code -->
 <!-- Google Analytics Code-->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-3362914-19");
-pageTracker._trackPageview();
-} catch(err) {}
+	function displayLoggedInUtilities(cookieName){
+		if(getCookie(cookieName) && getCookie(cookieName)!="" && getCookie(cookieName)!='""'){
+			$('.userLoggedIn').show();
+			}else{
+			$('.userLoggedOut').show();
+		}
+	}
+	displayLoggedInUtilities("customer");
+    try{
+        var pageTracker = _gat._getTracker("UA-3362914-19");
+        pageTracker._trackPageview();
+    } catch(err) {}
+</script>
+<!-- Begin Bold Chat tracking code -->
+                <!-- Bold Software Visitor Monitor HTML v3.00 (Website=Modnique Website,ChatWindow=My Chat Window,ChatInvitation=Modnique Auto-Invite Ruleset) -->
+<script language="JavaScript" type="text/javascript">
+document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/3333949615246538959/bc.vms3/vms.js"%3E%3C/script%3E'));
+</script><script language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/3333949615246538959/bc.vms3/vms.js"></script>
+<script language="JavaScript" type="text/javascript">
+try {
+  var pageViewer = _bcvm.getPageViewer("3333949615246538959");
+  pageViewer.setParameter("WebsiteDefID", "3539153898215358846");
+  pageViewer.setParameter("ChatWindowDefID", "7324910002380983021");
+  pageViewer.setParameter("ChatWidth", "640");
+  pageViewer.setParameter("ChatHeight", "480");
+  pageViewer.setParameter("InvitationDefID", "875049675584229851");
+  pageViewer.setParameter("WindowScheme", "https");
+  pageViewer.setParameter("VisitName", "unknown");
+  pageViewer.setParameter("VisitPhone", "");
+  pageViewer.setParameter("VisitEmail", "unknown");
+  pageViewer.setParameter("VisitRef", "unknown");
+  pageViewer.setParameter("VisitInfo", " ");
+  pageViewer.setParameter("CustomUrl", "");
+  pageViewer.pageViewed();
+} catch(error) {}
+</script>
+<noscript>
+<a href="http://www.boldchat.com" title="Visitor Monitoring" target="_blank"><img alt="Visitor Monitoring" src="https://vms.boldchat.com/aid/3333949615246538959/bc.vmi?wdid=4335837010085532791&amp;vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;curl=" border="0" width="1" height="1" /></a>
+</noscript>
+<!-- /Bold Software Visitor Monitor HTML v3.00 -->
+<!-- End Bold Chat tracking code --><div id="dialogWrapper"></div><script type="text/javascript">
+      // Functions to find dialog URL parameters
+	function getUrlParam(name){
+		var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+		for(var i = 0; i < hashes.length; i++){
+			hash = hashes[i].split('=');
+			if(hash[0] == name){
+				return hash[1];
+			}
+		}
+		return false;
+	}
+	function stripUrlParam(url, name){
+		// split parameters from url
+		var hashes = url.slice(url.indexOf('?') + 1).split('&');
+		
+		// start a rewrite of the url
+		urlRewrite = url.slice(0, url.indexOf('?') + 1);
+				
+		if(urlRewrite.length > 0){
+			url = urlRewrite
+			
+			// append parameters to clean url and exclude the parameter that matches the name/dialog passed into the function
+			for(var i = 0; i < hashes.length; i++){
+			
+				hash = hashes[i].split('=');
+				if(hash[0] != name && hash[1] != null){
+					if(i > 0){
+						url = url + "&";
+					}
+					
+					url = url + hash[0] + '=' + hash[1];
+				}
+				
+			}
+		}
+		
+		// strip ? from url if it is at the very end
+		var last_char = url.charAt(url.length-1);
+		if(last_char == '?'){
+			url = url.slice(0,url.length-1); 
+		}
+		
+		return url;
+	}
+	function getUrlPrefix(isSecure, url){
+		// Get mode http or https directly from url
+		// var prefix = url.slice(0, url.indexOf(':') + 3);
+		
+		// Get mode http or https from parameter
+		/*
+		if(isSecure == true){
+			var prefix = 'https://checkout.modnique.com';
+		}else{
+			alert('iframe is being built with nonesecurePrefix');
+			var prefix = 'http://checkout.modnique.com';
+		}
+		*/
+		var prefix = 'http://';
+		
+		// Get domain
+		prefix = prefix + document.domain;
+		
+		return prefix;
+	}
+// END Functions
+
+
+
+// Overlay data object
+	$("#dialogWrapper").overlay({ //setting up jquery.tools overlay
+		speed: 200,
+		mask: {
+			color: '#000',
+			loadSpeed: 0,
+			opacity: 0.6
+		},
+		onBeforeClose: function(){
+			$('.error').hide();
+			$('div#dialog_error_message').hide();
+		},
+		onLoad: function(){
+			$('#ajax_username').focus();
+		}
+	});
+// END Overlay data object
+
+
+
+// Dynamic Dialog Builder	
+	function loadDialogContent(div, dialog, closeClass, topPos, dialogWidth, isSecure){
+		var dialogBox = div;
+		var returnURL = topUrl;
+		
+		$('#dialogWrapper').html('')
+		
+		// get url prefix
+		var prefix = getUrlPrefix(isSecure, topUrl);
+		
+		// content
+		var dialogContent = prefix + "/bzJApp/ViewDialog.action?sid=300&tid=100&pageName="+dialog;
+		
+		// build div
+		var appendHTML = ''
+			+ '<div id="' + div + '" class="modal_form">'
+				+ '<div class="' + closeClass + ' close_button"></div>'
+				+ '<div class="modal_form_content">';
+		$('#dialogWrapper').html(appendHTML);
+			$('#dialogWrapper').append(function(){
+				$('#' + div + ' .modal_form_content').load(dialogContent);
+			});
+		$('#dialogWrapper').append('</div></div>');
+		
+		// overlay
+		$('#dialogWrapper').data('overlay').load();
+		$('#dialogWrapper').css('top', topPos + '%');
+			
+		if(dialogWidth != ''){
+			$('#dialogWrapper').css('width', dialogWidth);
+		}else{
+			// default width
+			$('#dialogWrapper').css('width', 500);
+		}
+	}
+	
+	// Form action
+		function closeDynamicFormRedirect(openNewDialog, returnToHome){
+			$('#close_dynamic_dialog').append('<div id="closeWithDynamicForm"></div>');
+			
+			$('#closeWithDynamicForm').append(function(){
+
+				// build new returnURL to use
+				var returnURL = 'http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FSalesEventsHome.action%3Fsid%3D300%26tid%3D100';
+				// used for the return path when login form is submitted from dialog popup
+				var originalReturnURL = returnURL;
+				
+				// used as the return path when login form is submitted from static default page
+				if(returnToHome == true){
+					returnURL = "http://www.modnique.com";
+					originalReturnURL = returnURL;
+				}
+				
+				// assign a ? if this is a category or other rewritten url
+				var query = returnURL;
+				var vars = query.split("?");
+				if(vars.length > 1){
+					returnURL = returnURL + '&';
+				}else{
+					returnURL = returnURL + '?';
+				}
+				
+				// build the rest of the returnURL with parameters for the iframe build in next step
+				returnURL = returnURL + 'openNewDialog=' + openNewDialog + '&originalReturnURL=' + originalReturnURL;
+				
+				// encode the url
+				var returnURLEncoded = escape(returnURL);
+				
+				// load the content into div
+				$('#closeWithDynamicForm').load('https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=dialog_close&returnURL=' + returnURLEncoded);
+			});
+			
+			
+			
+			
+			/*
+			// create dynamic form variables
+			var formHTML = '';
+			var formVariables = '';
+			
+			// build form hidden fields
+			var query = 'http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FSalesEventsHome.action%3Fsid%3D300%26tid%3D100';
+			var vars = query.split("?");
+			if(vars.length > 1){
+				query = vars[1];
+				vars = query.split("&");
+				
+				for (var i=0;i<vars.length;i++) {
+					var pair = vars[i].split("=");
+					if(pair[0] != 'dialog'){
+						formVariables = formVariables + '<input type="hidden" name="' + pair[0] + '" value="' + pair[1] + '">';
+					}
+				}
+			}
+			
+			if(openNewDialog != ''){
+				formVariables = formVariables + '<input type="hidden" name="dialog" value="' + openNewDialog + '">';
+			}
+			
+			// build form with returnURL, target and get method
+			var formHTML=''
+				+ '<form id="closeLoginForm" action="http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FSalesEventsHome.action%3Fsid%3D300%26tid%3D100" target="_top" method="get">'
+					+ formVariables
+				+ '</form>';
+				
+			// submit form in order to close window despite domains
+			$('body').append(formHTML);
+			$('#closeLoginForm').submit();
+			*/
+			
+		}
+		
+	// Set src of dialog iframe
+		function setDialogIframeSrc(url, src, frame){
+			var append = escape(url);
+		
+			$('#' + frame).attr('src', src + append);
+		}
+// END Dynamic Dialog Builder</script>
+<!-- Begin Monetate tag, place before end of document body. DO NOT ALTER. -->
+<script type="text/javascript">
+var monetateT = new Date().getTime();
+if (document.location.protocol == "http:" || document.location.protocol == "https:") { document.write(unescape("%3Cscript type='text/javascript' src='" + (document.location.protocol == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-11b484a1/p/modnique.com/" + Math.floor(monetateT / 3600000) + "'%3E%3C/script%3E")); }
+</script><script type="text/javascript" src="https://sb.monetate.net/js/1/a-11b484a1/p/modnique.com/439591"></script>
+<script type="text/javascript">
+if (this.monetate) { monetate.a(); }
+</script>
+<!-- End Monetate tag. --><!-- ************************************************************************************ -->
+<link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/main_new.css">
+<!--[if IE 7]>
+<link href="/bzJApp/views/site/modnique/css/ie7.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+<!--[if IE 6]>
+<link href="/bzJApp/views/site/modnique/css/ie6.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+<script src="/bzJApp/views/site/modnique/js/jquery.cookie.js" language="JavaScript" type="text/javascript"></script>
+
+<script type="text/javascript">
+document.cookie = 'name=value; expires=Thu, 2 Aug 2011 20:00:00 UTC; path=/'
+$(document).ready(function(){
+var leftCol = jQuery.cookie('leftCol');
+    // Right column state
+    // Set the user's selection for the left column
+    if (leftCol == 'expanded') {
+       $("#toolbar").slideToggle("fast");
+    $("#toolbarbut").fadeIn("slow");
+       
+    };
+
+  //hide toolbar and make visible the 'show' button
+	$("span.downarr a").click(function() {
+    $("#toolbar").slideToggle("fast");
+    $("#toolbarbut").fadeIn("slow");
+	jQuery.cookie('leftCol', 'expanded');  
+	   return false;      
+  });
+  
+    //show toolbar and hide the 'show' button
+  $("span.showbar a").click(function() {
+    $("#toolbar").slideToggle("fast");
+    $("#toolbarbut").fadeOut(); 
+	  jQuery.cookie('leftCol', 'collapsed'); 
+	     return false;   
+  });
+});
 </script>
 
+<script type="text/javascript">
+// submit subscription
+$('#send_toolbar').live("click", function(event) {
+	//alert("click detected!");
+	event.preventDefault();
+	var urlPath = location.protocol + '//' + window.location.hostname;
+	querystring = urlPath + "/bzJApp/Proxy.action?actionName=XMLSubscribeCustAction&dest=c&sid=" + SiteID + "&tid=" + TenantID + "&params=";					
+	param = "sid=" + SiteID + "&tid=" + TenantID + "&email=" + $('#name').val();
+	param = escape(param);
+	querystring = querystring + param;
+	//alert("querystring = " + querystring);
+	$('#dialogWrapper').load(querystring, subscriptionCallback2);
+});
 
+// close subscription
+$('.closeSubscriptionDialog').live("click", function(){
+	$("#dialogWrapper").overlay().close();
+})
+// END Subscription Confirmation Dialog
 
-<!-- Begin Bold Chat tracking code -->
-<!-- End Bold Chat tracking code -->
- <div id="login_dialog" class="ajax_form">
+// Subscription Confirmation Dialog
+// process subscription
+function subscriptionCallback2(data, status){
+	//if(data == 'true'){
+	// Open Dialog with subscription
+	var divId			=	'subscription_dialog';
+	var title			=	'Newsletter';
+	var closeButton		=	'closeSubscriptionDialog';
+	var iframeSrc 		=	securePrefix + "/bzJApp/ViewDialog.action?sid=" + SiteID + "&tid=" + TenantID + "&pageName=dialog_subscription";
+	var iframeWidth 	=	500;
+	var iframeHeight	=	200;
+	buildDialog2(divId, title, closeButton, iframeSrc, iframeWidth, iframeHeight);
+	var positionFromTop	=	20;
+	displayDialog2(positionFromTop);
+}
 
-	<div id="login_error_message"> </div>
-	
-	<ul>
-	
+// Build Dialog
+function buildDialog2(divId, title, closeButton, iframeSrc, iframeWidth, iframeHeight){
+	var returnURL = document.location.href;
+	// if this is IE6 or 7 we need to clean up the returnURL just in case there was some lingering postMessage logic from a previous action
+	returnURL = returnURL.split('#');
+	returnURL = returnURL[0];
+	returnURL = escape(returnURL);
+	iframeSrc+='&returnURL=' + returnURL;
+	var dialogWrapper = $('#dialogWrapper');
+	dialogWrapper.html('');
+	var htmlAppend = ''
+		+ '<div id="' + divId + '" class="modal_form" style="width:' + iframeWidth + 'px; height:' + (iframeHeight) + 'px">'
+			+' <div class="' + closeButton + ' close close_button"></div>'
+			+ '<div class="modal_form_content">'
+			+ '<div class="modal_form_header"><span class="modal_form_header_text">' + title + '</span></div>'
+				+ '<iframe id="iframe_' + divId + '" src="' + iframeSrc + '" width="' + iframeWidth + '" height="' + (iframeHeight-40) + '" scrolling="no" frameborder="0"><\/iframe>'
+			+ '</div>'
+		+ '</div>';
+	dialogWrapper.append(htmlAppend);
+	//alert("Appended htmlAppend = " + htmlAppend);
+}
 
-		<li>
-			<label>Email</label>
-			<input type="text" id="ajax_username" name="ajax_username" size="20" maxlength="150">
-		</li>
-		<li>
-			<label>Password</label>
-			<input type="password" id="ajax_password" name="ajax_password" size="20" maxlength="128">
-		<p>Forgot your password? <a href="https://checkout.modnique.com/bzJApp/ViewRememberPasswordForm.action?sid=300&amp;tid=100">Click here</a> to reset your password or call Customer Service at 1-888-857-8557</p>
-			
-		</li>
-		<li>
-			<input type="submit" class="button" id="ajax_login_button" name="ajax_login_button" value="login">
-			<p>Not a member yet? <a href="http://www.modnique.com/bzJApp/ViewNewCustRegistrationForm.action?sid=300&amp;tid=100&amp;returnURL=http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FViewContent.action%3Fsid%3D300%26tid%3D100%26pageName%3Dmodnique_privacy">Click here</a> to sign up.</p>
-		</li>
-		<div class="product_facebook_login_top">
-		<div class="product_facebook_login">
-		<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fmodnique&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=26px" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowtransparency="true"></iframe>
-	</div></div>
-	
-	
-	</ul>
+//Display Dialog
+function displayDialog2(positionFromTop){
+	var dialogWrapper = $('#dialogWrapper');
+	//alert("dialogWrapper.data = " + dialogWrapper.data('overlay'));
+	dialogWrapper.data('overlay').load();
+	dialogWrapper.css('top', positionFromTop + '%');
+}
+</script>
+
+<form action="SignUp" method="post">
+<input type="hidden" name="u" value="5d78315470b2beb14498444b2">
+<input type="hidden" name="id" value="7b2f384920">
+<div id="toolbarbut"> <!-- hide button -->
+<span class="showbar"><a href="#">show bar</a></span>
 </div>
+<div id="toolbar"> <!-- toolbar container -->
+  <div class="rightside"> <!-- all things in floating left side -->
+  <span class="downarr"> <!-- hide button -->
+  <a href="#"></a>
+  </span>
+ </div>
+ <div class="center"> <!-- all things in floating left side -->
+<span class="menu_title">
+<a class="menutit" href="#">NEVER MISS A DEAL - SIGN UP FOR OUR NEWSLETTER:</a>
+</span>
+<span>
+<input name="MERGE0" class="text_input_toolbar" type="text" id="name" value="">
+<input name="Send" type="submit" value="SIGN UP" id="send_toolbar">
+</span>
+</div>
+</div>
+</form>
+<!-- ************************************************************************************ -->
 </body></html>
