@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearshare.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228011530id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624150131id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Privacy Policy
 
-Welcome to BearShare. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the BearShare software, BearShare MediaBar and the BearShare website ([www.bearshare.com](https://web.archive.org/web/20101228011530id_/http%3A//www.bearshare.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
+Welcome to BearShare. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the BearShare software, BearShare MediaBar and the BearShare website ([www.bearshare.com](https://web.archive.org/web/20110624150131id_/http%3A//www.bearshare.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
 
 Information Collection
 
