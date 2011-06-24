@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204152412id_/http%3A//www.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624125609id_/http%3A//www.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
 
 # Federal Trade Commission
 
 Federal law requires us to tell you how we collect, use, share, and protect your personal information. Federal law also limits how we can use your personal information. Protecting the privacy and security of consumers' personal information is very important to us. Please read this notice carefully to understand what we do with the personal information we collect both online and offline.
 
-When you contact us to help you with a problem, any personal information you provide is voluntary. We collect and use only the minimum information necessary to respond to your concerns and conduct investigations. In most cases, we collect limited information, such as name, address, telephone number, or email address. In limited cases, depending on the nature of your request or of our law enforcement investigations, we also may collect other information such as Social Security numbers, account numbers, or mortgage or health information.
+When you contact us to help you with a problem, any personal information you provide is voluntary. We collect and use only the minimum information necessary to respond to your concerns and conduct investigations. In most cases, we collect limited personal information, such as name, address, telephone number, or email address. In limited cases, depending on the nature of your request or of our law enforcement investigations, we also may collect other personal information such as Social Security numbers, account numbers, or mortgage or health information.
 
 ## When you contact us...
 
