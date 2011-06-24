@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224161245id_/http%3A//www.animal-space.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624093137id_/http%3A//www.animal-space.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Animal Space - a place for animals: Privacy Policy
+# Animal Space: Privacy Policy
 
 This is the web site of Animal-space.net. This Policy is effective on March 10, 2010. The following discloses the information gathering and dissemination practices for this Web site.
 
