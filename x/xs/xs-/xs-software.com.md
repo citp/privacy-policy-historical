@@ -1,17 +1,28 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130225629id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624034017id_/http%3A//xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XS Software
 
-What we do
+Our products
 
-    Development, publishing, and distribution of browser based online games
-    Operate in 80+ countries
+    Massive multiplayer games united in a single portal
+    Original game play and fascinating design
+    Different genres for every type of player
+    35+ languages
+    15 million registered players
+    1,500,000 active players
+    Easy localizable games. Code/Design/Text completely separate
 
 Featured game
 
-[](https://web.archive.org/web/20101130225629id_/http%3A//www.xs-software.com/viewproduct.php?id=5)
+[ ](http://www.xs-software.com/viewproduct.php?id=1&go=browser)
 
-Wanna be a great gangsta? Wanna have a Cadillac? Join Street Mobster’s world and become part of a gangster world that shows you life you never seen before. Forget about text play – you can do all the actions as you see them on the streets. Cop, gangster or a wealthy businessman – it is up to you. You can spend your time on the street, or having drinks in the bars by other players. Find out more about Street Mobster now. ...
+If you always wanted to be a powerful ruler of huge kingdom, Khan Wars will give you the opportunity to fulfill your dream!
+
+It is a strategy medieval online game, which will show an old world with knights, alliances and merciless wars!
+
+Choose your nation, develop a mighty kingdom, find the best strategy and conquer the medieval world!
+
+...
 
 ## Privacy And Policy
 
@@ -81,9 +92,9 @@ At <http://xs-software.com/contacts.php> you can request to see data which we ha
 
 XS Software JSCo
 
-32 Zlatvoruh str
+130 Simeonovsko chausse blvd.
 
-1164 Sofia, Bulgaria
+1700 Sofia, Bulgaria
 
 For general questions about XS Software's Data Privacy Policy and data protection in general, please contact us at support@xs-software.com If possible, please remember to include your user ID, e-mail address and, if needed, the relevant game(s).
 
@@ -92,8 +103,8 @@ For general questions about XS Software's Data Privacy Policy and data protectio
 ---  
 Sofia, January 1, 2010  
 | XS Software JSCo  
-| 32 Zlatvoruh str  
-| 1164 Sofia, Bulgaria  
+| 130 Simeonovsko chausse blvd.  
+| 1700 Sofia, Bulgaria  
 **Tel:** | +359 895 52 52 77  
 **Fax:** | +359 24 897 361  
 **CEO:** | Hristo Tenchev  
