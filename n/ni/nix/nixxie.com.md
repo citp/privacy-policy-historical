@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixxie.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218091003id_/http%3A//nixxie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixxie.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624195959id_/http%3A//nixxie.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,11 +12,11 @@ From time to time we may request that an entity making application for an accoun
 
 **Cookies**
 
-For account management purposes and like most sites, Nixxie uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
+Nixxie uses cookies for community management purposes, to eliminate fraudulent and abusive users and to protect its IP and copyright. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to identify fraudulent, malicious and abusive users but also to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
 
 **Links to Other Sites**
 
-Nixxie contains links to other sites. These sites may send their own cookies to users, collect data, or solicit personal information. Since we do not control these sites; we are not responsible or liable for the privacy practices or content of such sites.
+Nixxie contains links to other sites and uses advertising feeds on the site. These sites and feeds may send their own cookies to users, collect data, or solicit personal information. Since we do not control these sites; we are not responsible or liable for the privacy practices or content of such sites.
 
 **With Whom Do We Share Information?**
 
