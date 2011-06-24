@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222104855id_/http%3A//www.arhaus.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624225648id_/http%3A//www.arhaus.com/privacy) for the most accurate reproduction.*
 
-# Arhaus Furniture Security and Privacy
+# Privacy | Arhaus Furniture
 
 Arhaus is committed to protecting your privacy. Through this policy we want you to understand that we respect and honor your right to protect personal information.
 
