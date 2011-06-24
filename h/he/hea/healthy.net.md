@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013055203id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624125039id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Healthy.net Resource for all that is natural in health
+# Natural and alternative health and wellness mega-site
 
 Privacy Policy
 
@@ -26,22 +26,6 @@ HealthWorld Online uses a secure server for any ordering and credit card informa
 
 |   
 ---  
-**"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."**  
+**"Let your food be your medicine, and your medicine be your food."**  
   
 | 
-
-[ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1349)
-
-Simply Well
-
-| [Breathe for Life](https://web.archive.org/scr/Column.aspx?Id=473)  
----  
-Adult humans normally breathe at the rate of one breath every six to eight seconds and inhale an average of sixteen thousand quarts of air each day. If nothing is done to restrict breathing, it will happen... [ more](https://web.archive.org/scr/Column.aspx?Id=473)  
-  
-There's a Yogi in the Kitchen!
-
-[Ginger, The Wonder Spice](https://web.archive.org/scr/Column.aspx?Id=359)  
----  
-According to Ayurvedic and Chinese herbal lore, ginger strengthens the nervous system, restores sexual energy, strengthens the immune system, helps with bronchial problems, prevents and relieves... [ more](https://web.archive.org/scr/Column.aspx?Id=359)  
-  
-[ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1145)
