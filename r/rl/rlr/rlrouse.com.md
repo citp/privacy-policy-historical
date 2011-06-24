@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the rlrouse.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306171606id_/http%3A//www.rlrouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rlrouse.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624022208id_/http%3A//www.rlrouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
+   
+At RLROUSE.COM, our privacy policy is really pretty simple:  
 
 
   * Any personal information that we request from our customers is used **_solely_** to complete the transaction(s) at hand.
@@ -36,6 +37,3 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-|   
-
