@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontriver.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121201145id_/http%3A//fontriver.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontriver.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624131455id_/http%3A//www.fontriver.com/help/privacy.php) for the most accurate reproduction.*
 
 # FontRiver.com Help Center
 
