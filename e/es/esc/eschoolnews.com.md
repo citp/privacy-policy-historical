@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222183102id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624214921id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eSchoolNews.com
 
@@ -96,7 +96,7 @@ Top of Page
 
 #### Opting-Out, Corrections, and Cancellations:
 
-Upon request, eSchool News Online will a) Remove you and your personal information from our database, thereby canceling your registration; b) Correct personal information that you state is erroneous; or c) Permit you to “opt out” of further eMail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact [Customer Service](mailto:nthrush@eschoolnews.com). To manage your eSchool News Online eMail profile, please go to our [eMail management page](http://www.eschoolnews.com/memberprofile/).  
+Upon request, eSchool News Online will a) Remove you and your personal information from our database, thereby canceling your registration; b) Correct personal information that you state is erroneous; or c) Permit you to “opt out” of further eMail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact [Customer Service](mailto:custserv@eschoolnews.com). To manage your eSchool News Online eMail profile, please go to our [eMail management page](http://www.eschoolnews.com/memberprofile/).  
 Top of Page  
 
 
