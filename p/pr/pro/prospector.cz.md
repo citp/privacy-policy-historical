@@ -1,34 +1,27 @@
-> *The following text is extracted and transformed from the prospector.cz privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405192506id_/http%3A//www.prospector.cz/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospector.cz privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625012449id_/http%3A//www.prospector.cz/privacy-policy.php) for the most accurate reproduction.*
 
-# free stuff, freebies, sweepstakes, samples - Prospector
+# Privacy Policy
 
-**Directory of Free Stuff Prospector Privacy Statement**
+Prospector.cz - Privacy Policy 
 
-We are committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our clients, and end-users.
+We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
-**Type of Information Collected**  
-Directory of Free Stuff Prospector is a site offering links to free stuff and freeware. Some offers are sponsored by one of our advertisers. Information may be collected from the consumer through an online form. Applicants submit their name, address, title, e-mail address, and age along with other demographic information and optional questions chosen by the advertiser.
+Routine Information Collection 
 
-**Use of Collected Information**  
-Information is collected by Directory of Free Stuff Prospector but is the sole property of the advertiser and is shared only with the advertiser. Each advertiser individually controls what is done with the information collected. We host ads and collect the information from consumers on behalf of our client. We only use this information to audit accuracy. We guarantee unique users to our clients, and the auditing procedure ensures that promise.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-**Member Contact**  
-If the opt-in box is selected on the entry form, we have permission to contact the applicant via electronic or postal mail regarding information, savings, or special offers that relate directly to the information, savings, or special offers that relate directly to the information they have provided. This is opt-in only, meaning that the applicant has complete control in allowing us to contact them. Applicant must opt-in to receive secondary communication from Directory of Free Stuff Prospector but the policies of our clients may differ.
+Cookies and Web Beacons 
 
-**Cookies**  
-Cookies are only used to keep track of log-in names and passwords. A user's e-mail address is automatically logged in when they revisit the site and they do not have to reenter profile information. This is to keep track of preferences and to better tailor the site to the visitor's needs while providing the most effective service to our clients. Information such as IP address internal session ID, user's domain, type of Internet browser, domain of Web site are collected and used only for traffic auditing and analyzing trends.
+Where necessary, we use cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-**Security**  
-In order to ensure security and protection of collected information, all employees are aware of our security policy and practices. Web security is constantly reviewed. Access to the information is limited and only obtained through codenames and passwords. Any loss, misuse, or alteration of information is prohibited followed by appropriate action and termination of employee. This is to uphold our promise to our clients, affiliate members, and property users.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-**Delete/Deactivate**  
-"Deactivating" refers to the process by which Personally Identifiable Information, upon request, is removed. Because of backups and records of deletions, it may be impossible to delete a consumer's entry without some residual information. An individual who requests to have Personally Identifiable Information deactivated will be functionally deleted. We will not sell, transfer, or use the information relating to a deleted individual in any way. To deactivate your account, please e-mail [webmaster@prospector.cz](mailto:webmaster@prospector.cz)
+Controlling Your Privacy 
 
-**Correct and Update Information**  
-Personal information collected through Directory of Free Stuff Prospector may be corrected or updated through various methods. All information must be updated by contacting Directory of Free Stuff Prospector staff through e-mail. All changes may be sent to Directory of Free Stuff Prospector by sending e-mail to [webmaster@prospector.cz](mailto:webmaster@prospector.cz)
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
-**Notification Of Changes**  
-In the event that there is a change in the privacy practices of Directory of Free Stuff Prospector, all members of Directory of Free Stuff Prospector will be contacted via the e-mail address on record.
+Special Note About Google Advertising 
 
-**Contact Information**  
-Directory of Free Stuff Prospector, abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to [webmaster@prospector.cz](mailto:webmaster@prospector.cz)
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt [out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
+
+[www.prospector.cz](http://www.prospector.cz/)
