@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listeruption.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123024537id_/http%3A//www.listeruption.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listeruption.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624235313id_/http%3A//www.listeruption.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « List Eruption
 
@@ -233,3 +233,9 @@ administered entirely within North Carolina. This statement and the policies out
 herein are not intended to and do not create any contractual or other legal rights
 
 in or on behalf of any party.
+
+**Email Privacy**
+
+Our privacy policy keeps your email safe and secure. We will never sell rent, give, or
+
+divulge your email information to ANYONE
