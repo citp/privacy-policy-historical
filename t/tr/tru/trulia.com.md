@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201232223id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624062253id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
 
 # Trulia Real Estate Search - Privacy Policy
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.trulia.com)
 
 ** TRULIA PRIVACY POLICY   
-(last updated August 4, 2010) **
+(last updated May 25, 2011) **
 
 This policy describes the types of information Trulia gathers from its users of the Trulia Web site at www.trulia.com, m.trulia.com and partner sites powered by the Trulia Search functionality and how that information is used. Please read this policy carefully before you provide us with any personal information. If you have questions about this policy, please email us at customerservice@trulia.com. 
 
@@ -15,7 +15,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 **Personal Information Collection and Use**
 
-When on the Trulia Site, you have the option of creating an account and to subscribing to our premium service. When you sign up, we ask you to give us contact information (such as name and email address). We also may collect and store additional usage information such as where, what and when you are searching. We may use this information to contact you occasionally about the services on our site in which you have expressed interest, or to suggest Trulia tools and services to improve your home buying, selling or renting process. 
+When on the Trulia Site, you have the option of creating an account (e.g. when saving searches, signing up for alerts, following homes, sharing properties, contacting agents, etc.) and to subscribing to our premium service. When you sign up, we ask you to give us contact information (such as name and email address). We also may collect and store additional usage information such as where, what and when you are searching. We may use this information to contact you occasionally about the services on our site in which you have expressed interest, or to suggest Trulia tools and services to improve your home buying, selling or renting process. 
 
 If you purchase our premium service, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
@@ -91,6 +91,6 @@ We reserve the right to change this policy should we deem it advisable to do so.
 If you have any questions or suggestions regarding our privacy policy, please contact us at: 
 
 Trulia.com  
-208 Utah Street, Suite 310  
-San Francisco, California 94103  
+116 New Montgomery Street, Suite 300  
+San Francisco, California 94105  
 customerservice@trulia.com 
