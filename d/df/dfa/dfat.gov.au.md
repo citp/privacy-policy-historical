@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121202226id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624022234id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
-# Department of Foreign Affairs and Trade
+# Privacy | Australian Government Department of Foreign Affairs and Trade
 
 Pages on the webservers dfat.gov.au, smartraveller.gov.au, passports.gov.au, foreignminister.gov.au, trademinister.gov.au, asis.gov.au, and embassy.gov.au (including their sub-domains) conform to the following privacy guidelines:
 
@@ -21,7 +21,7 @@ No attempt will be made to identify users or their browsing activities except in
 
 If you use forms on the site to provide information, subscribe to lists, register travel details or purchase publications, the information you provide is not retained on the public web server and will not be used for other purposes.
 
-All personal information we collect is collected in compliance with the _Information Privacy Principles_ under the _Privacy Act 1988_.
+All personal information we collect is collected in compliance with the Information Privacy Principles under the _Privacy Act 1988_.
 
 Your personal information will only be used for the purpose for which it was provided or in accordance with the _Privacy Act 1988_. We will not add you to other mailing lists unless that is the purpose for which your personal information has been collected. We will not use your e-mail address for any other purpose. We will not disclose your personal information to a third party except in the following circumstances, in accordance with the _Privacy Act 1988_ , where: 
 
@@ -39,6 +39,4 @@ Passport forms are secured using 40 or 128 bit certificates depending on your br
 
 A cookie is a small file that is sent to your web browser from a web server and stored on your computer's hard drive. Cookies set by our pages are only valid during the session.
 
-The staff managing these websites are subject to the Commonwealth [_Commonwealth Privacy Act 1988_](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/).
-
-Updated April 2008
+The staff managing these websites are subject to the [_Commonwealth Privacy Act 1988_](http://www.comlaw.gov.au/comlaw%5Cmanagement.nsf/lookupindexpagesbyid/IP200401860).
