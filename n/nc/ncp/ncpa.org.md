@@ -1,23 +1,16 @@
-> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204171206id_/http%3A//www.ncpa.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624160907id_/http%3A//www.ncpa.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for NCPA Websites | National Center for Policy Analysis | NCPA
 
 ## Privacy Policy for NCPA Websites
 
-National Center For Policy Analysis has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for these websites:  
-www.ncpa.org  
-eteam.ncpa.org  
-www.debate-central.org  
-www.womenintheeconomy.org  
-cdhc.ncpa.org  
-taxesandgrowth.ncpa.org  
-www.teamncpa.org
+National Center For Policy Analysis has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our websites.
 
 We use your IP address to help diagnose problems with our server, and to administer our website. We use cookies to deliver content specific to your interests. We will not sell, reveal or share your personal information. 
 
 Our sites' registration forms require users to give us contact information (like their name and email address). The user's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-Our sites contain links to other sites. www.ncpa.org, www.mysocialsecurity.org, www.debate-central.org, and www.womenintheeconomy.org are not responsible for the privacy practices or the content of such websites. 
+Our sites contain links to other sites and are not responsible for the privacy practices or the content of such websites. 
 
 Our sites use order forms for users to request information, products, and services. We collect visitor's financial information (like their account or credit card numbers) and contact information (like their email address). Financial information that is collected is used to bill the user for products and services. Contact information that is collected is used to send orders and information about our organization to our users. The user's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -39,8 +32,7 @@ Users can request the removal of their information from our database by sending 
 
 If you have any questions about this privacy statement, the practices of these sites, or your dealings with them, you can contact:
 
-Ron Lyon  
-National Center For Policy Analysis   
+Security and Privacy RequestsNational Center For Policy Analysis   
 12770 Coit Rd., - Suite 800   
 Dallas, TX 75251-1339   
 [online@ncpa.org](mailto:online@ncpa.org)
