@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230101837id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624031256id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
 # The Globe and Mail - Privacy Policy
 
 [](http://www.globeandmail.com/)
 
-### The Globe and Mail/  
-CTVglobemedia Publishing Inc.("Globe")
+### The Globe and Mail Inc.("Globe")
 
 ## Globe Privacy Code
 
-**_Most recently amended January 8, 2009._**
+**_Most recently amended January 1, 2011._**
 
 ### _Scope And Application Of The Globe Privacy Code:_
 
@@ -101,7 +100,7 @@ Certain Globe Companies Services may be co-branded and offered in conjunction wi
 
 ### _Definitions_
 
-**Globe Companies** \- all companies providing communications services under The Globe and Mail and Bell Globemedia brands, including CTVglobemedia Publishing Inc., Bell Globemedia Inc., and their subsidiaries, and any successor company or companies thereof, as a result of corporate reorganization or restructuring.
+**Globe Companies** \- all companies providing communications services under The Globe and Mail Inc. including its subsidiaries, and any successor company or companies thereof, as a result of corporate reorganization or restructuring.
 
 **Collection** \- the act of gathering, acquiring, recording or obtaining Personal Information from any source, including third parties, by any means.
 
@@ -273,4 +272,4 @@ _A Person shall be able to address a challenge concerning compliance with the ab
 
 Please send us your privacy inquiry using the form below.   
 **All fields are mandatory.**   
-© 2007 CTVglobemedia Publishing Inc. All Rights Reserved. 
+© 2011 The Globe and Mail Inc. All Rights Reserved. 
