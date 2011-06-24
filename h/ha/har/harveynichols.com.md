@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223171824id_/http%3A//www.harveynichols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624040841id_/http%3A//www.harveynichols.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -49,9 +49,10 @@ Should Our policy change in the future, for example, to comply with new legislat
 
 **What is a cookie and what is it used for?**
 
+  
 Cookies are small pieces of information that are stored by Your browser on Your computer hard drive. They contain no recognisable Personal Information.
 
-We use them to identify You as You travel around Our Website and to provide Website usage information, which will further help Us improve and develop the Website and services We offer.
+Our site uses cookies to keep track of how often You visit Our site, the contents of Your shopping cart, previous purchases and to deliver content specific to Your interests. Most browsers are automatically set to accept cookies but usually You can alter the settings of Your browser to prevent automatic acceptance. If You choose not to receive cookies, You may still use most of the features of Our website, including the ability to purchase items. For more information on cookies and how to disable them, You can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 We advise You not to use cookies if Your computer is shared by other people. You can accept all cookies, reject all cookies, or modify Your browser to alert You of any new cookies. Cookies also protect the integrity of registered passwords and limit access to 'paid for' services.
 
