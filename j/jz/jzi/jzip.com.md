@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213115511id_/http%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624030919id_/http%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
 
 # jZip | Free zip software download - Privacy Policy
 
@@ -56,7 +56,7 @@ When user registers on the Site, the user may have the opportunity to opt-in to 
 Please direct all questions in connection with this Policy via e-mail to [privacy@jZip.com](mailto:privacy@jZip.com)  or by writing to Discordia Ltd, Attention: Privacy Policy Administrator, 40 kimonos st.3095 Limassol, Cyprus. 
 
 |    
-Copyright © 2008 All Rights Reserved to Discordia Limited | [About Us](https://web.archive.org/web/20101213115511id_/http%3A//www.jzip.com/about_us.php) | [Privacy Policy](https://web.archive.org/web/20101213115511id_/http%3A//www.jzip.com/privacy_policy.php) | [Terms of Use](https://web.archive.org/web/20101213115511id_/http%3A//www.jzip.com/terms_of_use.php)  
+Copyright © 2011 All Rights Reserved to Discordia Limited | [About Us](https://web.archive.org/web/20110624030919id_/http%3A//www.jzip.com/about_us.php) | [Privacy Policy](https://web.archive.org/web/20110624030919id_/http%3A//www.jzip.com/privacy_policy.php) | [Terms of Use](https://web.archive.org/web/20110624030919id_/http%3A//www.jzip.com/terms_of_use.php)  
 First jZip by Greg Kowal  
 jZip supports the following extentions: zip, jar, xpi, 7z, arj, bz2, bzip2, tbz2, tbz, cab, chm, chi, chq, chw, hxs, hxi, hxr, lit, msi, doc, xls, ppt, cpio, deb, gz, gzip, tgz, tpz, iso, lzh, lha, rar, rpm, tar, wim, swm, z, taz.   
 ® WinZip is a registered trademark of ® WinZip International LLC. jZip is not sponsored by or affiliated with ® WinZip in any manner
