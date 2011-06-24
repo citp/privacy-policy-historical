@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091607id_/http%3A//group.bmj.com/group/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624223440id_/http%3A//group.bmj.com/group/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — BMJ Group
 
@@ -28,7 +28,7 @@ Once you start using our sites, we may track and keep a record of the pages you 
 
 We will also use your data to monitor for any unauthorised use of our websites, content or subscriptions to our publications (for example individuals subscribing individually for institutions). We may also disclose your identity and contact details to any third party claiming material posted by you is defamatory or violates their intellectual property rights or right to privacy. You will be given an opportunity to opt in or out (as applicable) from receiving marketing emails from the BMJ Group and third parties.
 
-For users who have opted to receive marketing emails from BMJ Group, and visit our websites through links provided in these emails, we may send back information about your website usage to our third party email direct marketing provider.  This is for the purpose of understanding the effectiveness of our email marketing campaigns and for targeting future email campaigns.
+For users who have opted to receive marketing emails from BMJ Group (and others where indicated and there is a jointly supplied product or service) , and visit our websites through links provided in these emails, we may send back information about your website usage to our third party email direct marketing provider.  This is for the purpose of understanding the effectiveness of our email marketing campaigns and for targeting future email campaigns.
 
 _1.2 BMJ Learning Users_
 
@@ -77,9 +77,9 @@ More information about Cookies, including how to block them and/or delete them, 
 
 Other than as expressly agreed by you or stated when data is collected or within this policy we will not disclose your personal data to any third parties other than:
 
-(i) our co-owners (where applicable), Licensors, contractors and advisors who must keep this data confidential;
+(i) our co-owners (where applicable), Licensors, contractors and advisors who must keep this data confidential. For the International Forum on Quality and Safety this will include transferring your data outside of the EEA to the USA. This may also be the case for other coowners or licensors;
 
-(ii) as required for conferences such as to venue organisers;
+(ii) as required for conferences such as to venue organisers who may be outside of the EEA;
 
 (iii) as required to enforce our legal rights (including property, safety, our customers or others);
 
@@ -131,6 +131,6 @@ Thank you for reviewing this information.
 
 If you have any questions, please send us an e-mail through our Contact us section.
 
-[View Policy as a PDF](http://group.bmj.com/downloads/PrivacyPolicy12Nov2010.pdf "Privacy Policy 12 Nov 2010")
+[View Policy as a PDF](http://group.bmj.com/downloads/PrivacyPolicyFeb2011.pdf "PrivacyPolicyFeb2011.pdf")
 
-Last updated November 2010
+Last updated February 2011
