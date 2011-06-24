@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statcounter.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227124510id_/http%3A//statcounter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statcounter.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624075340id_/http%3A//statcounter.com/privacy.html) for the most accurate reproduction.*
 
 # StatCounter Privacy Policy
 
