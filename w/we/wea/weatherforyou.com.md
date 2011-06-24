@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220043832id_/http%3A//weatherforyou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624114307id_/http%3A//www.weatherforyou.com/privacy.php) for the most accurate reproduction.*
 
-# Weather for You Privacy Statement
+# WeatherForYou.com Privacy Statement
 
 **What information do we collect?**
 
@@ -50,11 +50,7 @@ Our Web site may contain links to third party Web sites geared to children. The 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.weatherforyou.com/termsandconditions.php>
-
-**Your Consent**
+ **Your Consent**
 
 By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
 
