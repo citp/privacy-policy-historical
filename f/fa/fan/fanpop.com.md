@@ -1,14 +1,35 @@
-> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414171324id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpop.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624155745id_/http%3A//www.fanpop.com/privacy) for the most accurate reproduction.*
 
 # Fanpop - Privacy Policy
 
 ﻿
 
+_Last Updated: August 2010_
+
 ## User Information
+
+Fanpop is committed to safeguarding the privacy of its audience. This Privacy Policy applies to solely to the information collected on Fanpop.com. Fanpop may periodically update and revise this policy. Be sure to visit this page in order to review the most current Privacy Policy.
+
+Fanpop may be used without registering a user account. Users who wish to sign up for a free Fanpop.com account are only obligated to register a unique username and password. All other personal information is furnished optionally at the sole discretion of the end user to enhance their Fanpop experience.
 
 Information We Collect
 
-Fanpop collects user submitted account information such as name and email address to identify you and send you notifications related to the use of the service. Fanpop also collects user submitted location information such as city, state or zip. Fanpop also collects user submitted photos, reviews, and ratings of content around the web. Some information collected is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, and timestamp. 
+Fanpop collects the following personal information via the user profile page (this information is not required by Fanpop and is provided at the sole discretion of the user):
+
+  1. Personally identifiable information for display on the user’s profile page. This information includes: first name, last name, birthdate, gender, im username, city, state and postal code as well as links to other personal websites (note that birthdate itself is not displayed, but age is).
+  2. Personal information that is not displayed but used to enhance the user experience: email address. Email address is not published on the user profile but used for password recovery, activity alerts and periodic announcements from Fanpop.com (all of which the user can disable at any time). Email information is not sold or given to any 3rd parties and is used solely to improve the Fanpop.com experience.
+
+
+
+Fanpop also allows users to post photos, participate in polls, submit content and articles, post on their wall, send private messages to friends and more. Such content is submitted at the sole discretion of the user. Personal information contained in this content may be archived and linked to the user’s profile page.
+
+Some information collected by Fanpop is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, and timestamp.
+
+Fanpop does not collect any financial or payment data from its users.
+
+We have contracted with Lotame Solutions, Inc. (“Lotame”) to better help us operate the web site, report website traffic, statistics, advertisement 'click-throughs', and/or other activities on our web site. Lotame may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics and user data about our website visitors. Lotame does not collect personally identifiable information. For more information about how the information is collected and used by Lotame or to opt-out, please see Lotame’s privacy policy at <http://www.lotame.com/PrivacyPolicy.shtml>.
+
+Fanpop also integrates several 3rd party services including Facebook Connect, the Facebook Like Button and Meebo Chat which may collect and archive personal information. Please refer to the privacy policies for these respective services to learn more about their privacy policies as Fanpop has no control over the information they collect.
 
 How We Use Your Information
 
@@ -38,9 +59,11 @@ Our website may contain links to third party websites to which we have no affili
 
 ## User Contact and Security
 
-Use of Cookies
+Use of Cookies and Beacons
 
-Like most websites, Fanpop requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. You should be aware that Fanpop cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Fanpop site. 
+Like most websites, Fanpop requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time.
+
+You should be aware that Fanpop cannot control the use of cookies, beacons and flash cookies by 3rd party advertisers or any of the information advertisers may gather from their use of their cookies, beacons or flash cookies. If you do not want information collected through the use of the aforementioned methos, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature as well as browser add-ons that can help you manage cookies and beacons while web browsing; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Fanpop site.
 
 Security
 
@@ -56,7 +79,7 @@ Registered members can opt-out of personal messages initiated by friends and use
 
 Terms and Modifications to this Privacy Statement
 
-By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. Fanpop may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users’ personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. 
+By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. Fanpop may modify this Privacy Policy at any time. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy.
 
 Contact Us
 
