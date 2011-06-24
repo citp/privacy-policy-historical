@@ -1,116 +1,207 @@
-> *The following text is extracted and transformed from the glennbeck.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513025436id_/http%3A//www.premiereradio.com/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glennbeck.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624111318id_/http%3A//www.glennbeck.com/content/articles/article/site/mercury-radio-arts-inc-privacy-policy) for the most accurate reproduction.*
 
-# Premiere Radio Networks - Home
+# MERCURY RADIO ARTS, INC. – PRIVACY POLICY – Glenn Beck
 
-## PRIVACY STATEMENT
+Friday, Mar 11, 2011 at 4:38 AM EST
 
-This statement informs you of Clear Channel’s practices with respect to the online collection, use, and disclosure of personal information from this Clear Channel Website. Personal information is information that allows us to contact you (such as email address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to our site by providing you with information that suits your interests.
+Last Updated: March 11, 2011
 
-Clear Channel is the owner of this website and retains all ownership rights to the information collected at this site. Clear Channel reserves the right to change, modify, add, or remove provisions of this Privacy Statement. Any changes to this Privacy Statement will be posted here, and we encourage you to check back from time to time.
+**A. Our Commitment to Privacy**
 
-## Personalization
+MERCURY RADIO ARTS, INC. (“MRA”) realizes the importance of respecting and protecting your privacy.
 
-Although you may use many features of this site without completing a registration or sign-up form, visitors who do register and/or sign up for special services may have access to additional features of the site and are more likely to receive information suited to their interests. For example, a registered user is eligible for additional services provided by this website such as listener clubs and personalized content. Our registration and special services sign-up forms may ask you for contact information (like name or email address) and demographic information (like zip code or age). You must provide the information in order to receive the benefits of registration or of the special service.
+This privacy policy (“Privacy Policy”) discloses the information that MRA gathers on the web site GLENNBECK.COM that MRA owns (the “Site”), as well as ways in which MRA processes and, sometimes, shares such information and how you can correct or change that information.  The Site also includes versions designed for browsing on mobile devices and the use of such devices is governed by this Privacy Policy as well.
 
-We may use the contact information you give us to better tailor your website experience to your interests, and to send you information about Clear Channel and its services as well as promotional material on behalf of some of our partners. We use other information that you provide to us to show you content in which you may be interested and to display the content according to your preferences. We will also share this information within the Clear Channel family in order to enhance your experience on this and other Clear Channel Websites.
+Except where otherwise expressly indicated herein or on the Site, this Privacy Policy applies only to information collected on the Site and does not apply to information collected outside of the Site.   Before using or submitting information to the Site please review this Privacy Policy carefully.
 
-In addition, we may share this information with advertisers or other third parties that are not part of the Clear Channel family on an aggregate or other basis that does not disclose your identity or contact information.
+Certain areas of the Site contain information intended only for users who create an account, join or otherwise register to use any of the Site (“Registered Users”) and MRA reserves the right to limit these areas to Registered Users.   This Privacy Policy addresses MRA’s privacy practices relating to general use of the Site, as well as use of the Site by Registered Users.
 
-Online Surveys/Contests From time to time, we may conduct online surveys and contests. These ask you for contact information (like name or email address) and demographic information (like zip code or age). We may use this contact information from our surveys and contests to provide you with information about our company and promotional material on behalf of some of our partners, and to contact you when necessary.
+**B. Information MRA Collects**
 
-## Supplemental Information
+MRA collects the following types of information from users of the Site:
 
-To enhance Clear Channel’s ability to tailor this site to your preferences, we may combine information that you provide us on registration and other online sign-up forms with other information about you that we may obtain. We do not share that information with any other party.
+**1\. Personally Identifiable Information**
 
-## Shopping/Commercial Services
+MRA may receive and store any information that you enter on the Site or provide to MRA in any other way that would allow MRA to identify you or contact you (collectively “Personally Identifiable Information”). The Personally Identifiable Information that you provide will be used by MRA only in accordance with this Privacy Policy. Examples of Personally Identifiable Information MRA may collect from you and use are:
 
-This Clear Channel site may offer shopping services, which may be offered by us or by a firm that operates a store under contract with us. If our site offers shopping or other commercial services, you will use a customer order form to request information, products, and services. The order form will ask you to give us contact information (like name or email address), financial information (like account or credit card numbers), and demographic information (like zip code or age).
+·   your name, address, phone number(s), e-mail address, date of birth, nationality and gender if you are a Registered User or are otherwise asked to provide such information;
 
-We will use the financial information that you provide to bill you for products and services. By giving our site your credit card and related personal information, you are authorizing our store to give that information to the merchant and credit card company in order to confirm and fulfill your order.
+·   the e-mail addresses of those who post comments, stories, photos, videos and other content on the Site;
 
-We will use contact information from the order form to fulfill your orders. We may also use contact data to get in touch with you when necessary. We will not otherwise use or distribute your financial information without your prior approval.
+·   the names and e-mail addresses of those who communicate with MRA by e-mail;
 
-## Public Forums
+·   the names, e-mail addresses and zip code of those who specifically opt-in to special offers;
 
-This site may make available chat rooms, forums, message boards, and news groups. Please remember that any information that you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+·   information you provide to MRA in surveys, in connection with contests or sweepstakes which MRA  sponsors;
 
-## Information Sharing With Third Parties
+·   information you provide to MRA in the entry form for some sweepstakes and contests offered on the Site or through Facebook and information provided by winners of those sweepstakes and contests for a required background check or for tax purposes;
 
-From time to time we may enter into a special relationship with another company that is not owned by Clear Channel to provide additional features at this site. These special relationships may include “powered by” partners, business partners, sponsors, and co-branded sites (referred to here as “co-branded pages”). These might include, for example, pages that share our name and that of another entity, such as TicketMaster. You should look for a specific privacy statement on any such co-branded page. Any personal information that you provide when signing up at one of those co-branded pages may be shared with our third party partner. You should also check our partner’s website for information regarding its privacy policies.
+·   in certain circumstances, payment and identity verification information, such as credit card number, social security number (or comparable national identifier) and driver’s license number when needed for payment information in connection with a purchase made through the Site;
 
-Also, the nature of some features of our site may require that we share personal information about you with persons or companies outside of the Clear Channel family. For example, this may occur at a feature that enables you, via our site, to ask questions of persons or entities that are not part of the Clear Channel family. By responding to those features of the site, whether by email or direct entry of information on our Website, you are consenting to our transferring that information to such persons or entities.
+·   information about your family or friends, including, but not limited to, the name, address, phone number(s), e-mail address, date of birth, nationality and gender of any family member or friend, that you provide in connection with your use of the Site or any feature thereof;
 
-With respect to specific registration modules, like contests, we may disclose personal information collected, and we will post a conspicuous statement on the registration module to the effect that we will be disclosing the information collected with third parties.
+·   information you provide about yourself, including, but not limited to your name, e-mail address, date of birth, nationality, gender and preferences, that you provide when you register; and
 
-Finally, we may share any of the information collected from you with these other non-Clear Channel companies in an aggregate basis. The aggregated information is not linked to any information that can identify you.
+·   information you provide about yourself when you post to the Site.
 
-## IP Address and Log Files
+·   if you choose to interact with the Site using Facebook Connect, we may collect information from your Facebook account through an automated connection to Facebook.
 
-We may use your IP address to administer our Website, to help diagnose problems with our server, to analyze trends, to track users’ webpage movements, to help identify you and your shopping cart, and to gather broad demographic information for aggregate use.
+You can choose not to provide MRA with certain Personally Identifiable Information, but then you may not be able to take advantage of many features of the Site, such as posting comments, registering to use certain restricted areas of the Site, participating in MRA’s online community, entering a sweepstakes or contest on the Site or through Facebook, participating in various promotional opportunities or receiving e-mail alerts or newsletters.
 
-## Cookies
+**2\. Automatic Information**
 
-This Clear Channel site may use a standard technology called a “cookie” to collect information about how you use the site. Cookies reside on your computer and help our website to recognize your computer’s browser as a previous visitor. This information allows us to customize delivery of information. For example, our site may use cookies to save and remember registration information or preferences that you may have set while browsing the site, to keep track of your shopping cart, to ensure you don’t see the same ad content repeatedly, to deliver content specific to your interests, and to save your password so you don’t have to re-enter it each time you visit our site. We use cookies only to gather information as indicated in this policy.
+**(a) Collected By MRA**
 
-In addition, on occasion our site may also set a “session cookie” which helps us administer the site. The session cookie expires when you close your browser and does not retain any information about you after it expires.
+MRA may receive and store certain types of information whenever you interact with MRA through the Site. We automatically receive and record your browser information, operating system information, IP address, cookie information and the page you requested. This information will not be stored in a manner that is personally identifiable with you and may include the following:
 
-## Banner Advertising
+**(1) Aggregate Information**
 
-We license ad-server software from another company to place banner advertising on our sites. All of the data provided and generated by the ad-server software remains in our possession and no data is transferred to the licensor of the software. This feature of our site may, on occasion, set “cookies” on your computer. Any information collected or stored by the ad-service or the cookies is treated in the same manner as other information as described in this statement.
+In connection with your visit to the Site, MRA may automatically collect usage information, such as the numbers and frequency of users and their characteristics and information about similar groups of users, such as parents, certain age groups or users that live in a particular geographical area. This data is only used in the aggregate as a statistical measure and not in a manner that would identify you personally.  Aggregate information generally is collected through the use of cookies and Web Beacons as discussed below.
 
-## Children’s Personal Information
+**(2) Cookies**
 
-Consistent with the Children’s Online Privacy Protection Act:
+MRA uses “cookies” to help you access and navigate the Site more efficiently and to statistically monitor how many people are using the Site. A “cookie” is a small file or tool stored on your hard drive containing information that allows MRA to deliver customized information to you. If you become a Registered User, MRA may use cookies to store your e-mail address, user name, preferences and password so that MRA can identify you when you return to the Site, track your use of the Site and customize the Site for you.  You may set your browser to notify you of or decline the receipt of cookies.  Certain features of the Site may not, however, function properly or be available if your browser is configured to disable cookies.
 
-  * This site does NOT collect, use, or disclose personal information (including online contact information) of children under the age of 13.
-  * In the event that a child under the age of 13 attempts to register on our site, we will NOT accept the registration and will delete information received from the child.
-  * In the event that a child posts personal information in a public forum such as a chat room, we will attempt to delete that information once we become aware of it.
+MRA uses both “session” and “persistent” cookies on the Site. Session cookies are temporary bits of information that are erased once you exit your web browser or turn off your computer. Persistent cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie.  Persistent cookies store information on your computer for a number of reasons, such as retrieving certain information you have previously provided (i.e., username and password), helping to determine what areas of the Site you find most valuable and customizing the Site based on your preferences on an ongoing basis.
 
+Many companies offer programs that help you to visit web sites anonymously. While MRA will not be able to provide you with a personalized experience if MRA cannot recognize you, MRA wants you to be aware that these programs are available.
 
+**(3) Web Beacons**
 
-## Your Choices
+During your use of the Site, you may encounter Web Beacons, which may come from MRA or from third parties that advertise or provide content on the Site.  A “Web Beacon” (sometimes also called a “web bug” or “clear gif”) is a small graphic image in a web page, a web-based document or an e-mail message that generally allows the party that set the Web Beacon to monitor certain information about the viewer of the web page, web-based document or e-mail message and may allow access to certain cookies. Web Beacons are usually invisible to the user because they are very small (generally 1-by-1 pixel). In general, however, any electronic image viewed as part of a web page, including an advertisement, can act as a Web Beacon. Web Beacons on the Site typically collect the URL of the page from which the Web Beacon originates, the type of browser requesting the Web Beacon, the IP address of the computer to which the Web Beacon is sent and the time that the Web Beacon was viewed. Certain Web Beacons used by third party advertisers or content providers may collect information that allows such third parties to determine how many people are viewing and/or clicking on certain advertisements or viewing certain content for purposes of helping these parties serve and manage their advertisements and content. These Web Beacons do not collect or store Personally Identifiable Information but they may, however, be used in conjunction with cookies to identify certain aggregate information about users.
 
-This Clear Channel site provides you the opportunity to opt-out of receiving email communications from us and our special relationship partners. To opt-out of receiving email communications, you:
+**(4) E-mail Communications**
 
-  * Modify your registered user information on our website; or
-  * Send an email to Clear Channel Radio Interactive Support. 
+When you send an e-mail to MRA, either through the <Contact Us> button on the Site or otherwise, MRA may retain your e-mail address and the contents of the e-mail that you send. If you want to keep the information in your e-mail(s) or posting(s) private or proprietary, please do not send such information in an e-mail or otherwise post such information to MRA.  To help MRA make its e-mails more interesting and helpful, MRA also may receive a confirmation when you open an e-mail from MRA if your computer supports this type of program.
 
+**(b) Information Collected by Third Parties**
 
+MRA may allow third parties to display advertisements on the Site.  MRA and these third parties may use tracking technologies, such as cookies and Web Beacons, to collect information about users who view or interact with these advertisements and connect to the Site.
 
-## Access to Personal Information
+**(1) Ad Servers**
 
-Clear Channel gives you the opportunity to modify or remove personal information that you have provided to us. You may do so by modifying your password-protected registered user information on our website.
+MRA, its partners and/or advertisers may use third party ad servers to serve or present the ads that appear on the Site and to conduct research about the advertisements. Any of these ad servers may collect non-personal information, such as your browser, operating system, date/time of viewing, IP address and clickstream data.  MRA cannot control the activities of such advertisers or web sites. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH AD SERVERS.
 
-## Security of Your Personal Information
+**C. How MRA Uses Information**
 
-Clear Channel employs reasonable security measures consistent with standard industry practice, for information collected through this website. We believe that we have adequate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of the information we collect on our website. We also use internal protections to limit access to users’ personal information to only those employees who need the information to perform a specific job.
+When you provide MRA with your Personally Identifiable Information, MRA may use it to manage MRA’s registry of Registered Users, facilitate communication between MRA and you and/or between Registered Users of the Site, notify you of features or special events and provide you with other information MRA feels may be of interest to you. MRA also uses information collected to customize, analyze, adjust and improve the Site to meet MRA’s users’ needs and expectations. MRA also may use the information to oversee adherence to MRA’s Community Guidelines which are provided in the Terms of Use for the Site to enforce MRA’s agreements with you, to prevent fraud and other prohibited or illegal activities and for other legally permissible purposes. These uses of your Personally Identifiable Information may include, without limitation, the following:
 
-## Sale or Merger
+**1\. Public Areas**
 
-If this site is sold to, or merges with, another company not owned by Clear Channel, you should expect that some or all of the information collected from this website may be transferred to the buyer/surviving company. If so, Clear Channel will seek to obligate the acquiring company to use any personal information transferred by this site in a manner consistent with this statement, but cannot guarantee that it will be able to impose that requirement or that the acquiring company will comply.
+The Site feature groups, discussions, member profiles, comment areas, blogs and similar areas where users can share information about themselves and their opinions, as well as post questions (“Public Areas”). Other visitors to the Site may view information posted in Public Areas. Further, MRA may include all or a portion of the information posted in Public Areas in the newsletters described in this Privacy Policy. By using the Public Areas, you hereby acknowledge and agree that any information you share in a Public Area (including, without limitation, Personally Identifiable Information) is available to the public. Information you post to a Public Area may be viewed, accessed, or collected by, or disclosed to, third parties and may be used by others in ways neither you nor MRA are able to control or predict, including, without limitation, to contact you for unauthorized purposes.
 
-## Legal Process
+The Site offers the ability to forward content to another person via e-mail. If you use this service, MRA  will use the recipient’s e-mail address in order to send the content and MRA will also ask for your e-mail address MRA does not use the recipient’s e-mail address for any other purpose unless the recipient gives MRA permission to do so.
 
-You should be aware that Clear Channel may be required to disclose your personal information to the government or third parties under certain circumstances, such as in court or regulatory proceedings.
+**2\. Registered User Areas**
 
-## Contacting the Website
+If you have access to certain areas of the Site because you are a Registered User (“Registered User Areas”), the Registered User Areas may contain groups, discussions, member profiles, comment areas, blogs and similar areas where Registered Users can share information about themselves and their opinions, as well as post questions. Information you post to a Registered User Area may be viewed, accessed, or collected by, or disclosed to, other Registered Users and may be used by other Registered Users in ways neither you nor MRA are able to control or predict, including, without limitation, disclosure of your information to the public or to contact you for unauthorized purposes.  MRA uses the Personally Identifiable Information you provide when registering to become a Registered User to send you MRA publications, information about Registered User benefits and special offers, features included in the Registered User Areas and other information that MRA believes is relevant and useful to its Registered Users. By using the Registered User Areas, you hereby acknowledge and agree that any information you share in a Registered User Area (including, without limitation, Personally Identifiable Information) is available to other Registered Users and to MRA for use as provided herein.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact Clear Channel Radio Interactive Support.
+**3\. Profiles**
 
-## Leased Content
+If you register to become a Registered User of the Site, the information that you provide to MRA may be stored in one or more profiles. These profiles, or a portion thereof, may be viewed by other Users of the Site, including, but not limited to those who are not Registered Users of the Site.
 
-Neither Standard & Poor nor any third-party licensor shall have any liability for the accuracy or completeness of this service or any component thereof or for delays, unauthenticity, omissions, or other defects therein nor for any claims or losses arising therefrom or occasioned thereby, including, without limitation, any lost profits, indirect, special, or consequential damages. Either Standard & Poor or third party licensors have exclusive proprietary rights from the information received via the service. Customer, end-user, or visitor, as applicable, shall not use or permit anyone to use the information provided through the service for any unlawful or unauthorized purpose. Customer, end-user, or visitor, as applicable, is not authorized or permitted to furnish such information to any person or firm for reuse or retransmission without prior written approval of the source of such information. Provision of the information on the service is subject to termination in the event that any agreement between a third party licensor and a provider of information distributed through the service is terminated in accordance with its terms. Third party licensor and its subsidiaries, affiliates, information providers and content partners shall have no liability for investment decisions based on the information provided hereby.
+**4\. E-Newsletters**
 
-## General Information
+If you register at any of the Site, you may choose to receive a newsletter via e-mail from MRA which may include information such as highlights from different areas on the Site and information about new features. You can unsubscribe from the newsletter at any time by clicking on the “unsubscribe” link at the bottom of any e-mail newsletter sent to you and following the instructions. You also may unsubscribe at any time by logging in to the applicable Site where you created your profile and changing your preferences.
 
-This Agreement and the Additional Terms shall be governed by, construed and enforced in accordance with the laws of the State of Texas, as it is applied to agreements entered into and to be performed entirely within such state, without regard to conflict of law principles. You agree that any cause of action you or Clear Channel brings to enforce this Agreement and/or the Additional Terms, or in connection with any matters related to this Clear Channel Website and/or the Privacy Statement, shall be brought only in either the state or Federal courts located in San Antonio, Texas. You agree to submit to the personal jurisdiction of the courts of the State of Texas for any cause of action arising out of this Agreement. You agree to file any cause of action with respect to this Agreement within one year after the cause of action arises. You agree that a cause of action filed after this date is barred.
+**5\. Aggregate Information**
 
-If any provision of this Agreement, or the application thereof to any person or circumstances, is held invalid or for any reason, unenforceable including, but not limited to, the warranty disclaimers and liability limitations, then such provision shall be deemed superseded by a valid, enforceable provision that matches, as closely as possible, the original provision, and the other provisions of this Agreement shall remain in full force and effect. The failure of either party to insist upon strict performance of any provision of this Agreement shall not be construed as a waiver of any provision or right. Unless expressly provided otherwise, this Agreement is the entire agreement between you and Clear Channel with respect to the use of this Clear Channel Website and shall not be modified except in writing, signed by an authorized representative of Clear Channel.
+The aggregate information collected by MRA also is used to create profiles of the audience for the Site that include anonymous statistical demographic information but no Personally Identifiable Information. This aggregated information is used to, among other things, determine trends and needs and supply market research to potential advertisers and partners to help them understand the Site’s audiences.  For example, MRA may create a report that tells advertisers that thirty percent of MRA’s Registered Users are males under forty years, so that they can determine which of their products or services are most appropriate for MRA’s Registered Users.
 
-If you have any questions concerning this Agreement, you may send them by email to LegalDepartment-SanAntonio@clearchannel.com. You must send any official correspondence via postal mail to:
+**D. With Whom MRA Shares Information**
 
-H. Newsom Legal Department Clear Channel Communications, Inc. 200 E. Basse Road San Antonio, Texas 78209
+MRA reserves the right to use your Personally Identifiable Information to send you periodic e-mailings with information on new products and services, updates to MRA’s Site or upcoming events.
 
-## European Union and Other Foreign Nations
+If you “opt in” to receive information about identified advertisers or their services or products, MRA  may share your Personally Identifiable Information with them.  If you have questions about how these companies use your Personally Identifiable Information, MRA encourages you to review and understand their respective privacy policies.  You may at any time “opt out” of having your Personally Identifiable Information as part of MRA’s marketing mailing list or otherwise (see “Opting Out” below).
 
-This Clear Channel website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States. Clear Channel makes no representation that this website is governed by or operated in accordance with the laws of other nations. By using this site and submitting any personal information, visitors from outside of the United States acknowledge the this site is subject to U.S. law, consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws. 
+From time to time, in MRA’s sole discretion, MRA may use your Personally Identifiable Information to send you important administrative information regarding the Site and related services or changes to MRA’s Terms and policies. Because this information may be important to your use of the Site and related services, you may not opt out of receiving such communications.
+
+If you interact with the Site through Facebook, MRA may share information with Facebook and other users of Facebook. In connection with contests, sweepstakes and games, MRA may publicize the identity and entries of the winners and other participants.
+
+**1\. Fulfillment of Services**
+
+MRA may retain other companies and individuals to perform functions consistent with MRA’s Privacy Policy on MRA’s behalf. Examples include customer support specialists, web hosting companies, fulfillment companies (e.g., companies that fill product orders or coordinate mailings), data analysis firms and e-mail service providers.
+
+**2\. Sweepstakes, Contests and Editorial Uses**
+
+Often times, sweepstakes, contests and giveaways (together, “Contests”) offered on the Site are sponsored by unaffiliated third parties. Information that you provide as part of an entry into a Contest sponsored by an unaffiliated third party will be shared with the sponsor if MRA advises you of such in the Contest’s official rules. Some Contests also may require consent to the release of information contained within the entry form for background check purposes or tax purposes if you become a winner. You should carefully review the official rules of each Contest that you enter as they may contain additional important information about MRA’s or the Contest sponsor’s use of your Personally Identifiable Information.
+
+MRA also may use your Personally Identifiable Information in response to a solicitation for editorial, online and/or on-air purposes and for marketing and promotional purposes in connection with such solicitation. If such information is used online, on a mobile application or in a telecast, no Personally Identifiable Information, other than name, city and state, will be disclosed without your specific consent.
+
+**3\. Compliance with Law and Fraud Protection**
+
+MRA may disclose any information, including without limitation Personally Identifiable Information, that MRA deems necessary, in its sole discretion and without your prior permission, to comply with any applicable law, regulation, legal process or governmental request. MRA also may exchange information, including without limitation Personally Identifiable Information, with other companies and organizations for credit fraud protection, risk reduction and related activities or to protect the rights, property of safety of MRA and its agents, employees or affiliates or others. MRA reserves the right to disclose a user’s Personally Identifiable Information if MRA believes the user is in violation of MRA’s Terms of Use, even without a subpoena, warrant or other court order.
+
+**4\. Sale or Transfer of Information**
+
+In the event of a sale, merger, liquidation, dissolution or sale or transfer of substantially all of the assets of MRA or the Site, personal Information and/or other information collected about you from the Site may be sold, assigned or transferred to the party acquiring all or substantially all of the equity and/or assets of MRA or the Site in order to permit the party to continue the operation of the Site, including the Registered User Areas. Subject to your ability to opt-out, you consent to the sale and transfer of your information as described in this paragraph.
+
+**5\. Accessing, Updating or Deleting your Personally Identifiable Information**
+
+If you are a Registered User and would like to review, update or delete your profile, please log in to and select the profile in which you would like to review, modify or delete information (i.e., the Personally Identifiable Information you have provided to us).
+
+**6.   Opting Out**
+
+MRA respects the privacy of your Personally Identifiable Information. If you tell MRA that you do not wish to have this information used as a basis for further contact with you, MRA will respect your wishes. You also may choose not to provide MRA with certain information, but that may result in you being unable to use certain features of the Site.
+
+You may instruct MRA to stop sending you certain promotional materials (e.g., e-mail messages, newsletters, postcards and letters) by following the unsubscribe instructions provided in those materials.  MRA may, however, continue to contact you to provide service to your account. Please note that if you use more than one name or e-mail address when communicating with MRA or participating on the Site, you may continue to receive communications from MRA to any name and/or e-mail address which you have not specified in your opt-out request.
+
+MRA provides you with the following options for removing your Personally Identifiable Information from MRA’s database for marketing purposes:
+
+1.       You can send an email to customerservice@glennbeck.com; or
+
+2.       You can send mail to the following postal address:
+
+**Mercury Radio Arts, Inc.,** **1270 Avenue of the Americas, 9 th Floor, New York, New York 10020**
+
+**E. Important Disclosures, Practices and Contact Information**
+
+**1\. Third Party Links**
+
+The Site contains links to third-party web sites. Please be aware that MRA cannot control and is not responsible for the information collection practices of such web sites, which may differ from those of MRA.  MRA encourages you to review and understand the privacy policies of these web sites before providing any information to them.
+
+**2\. Interactive Features**
+
+The Site may make groups, discussions, chat rooms, forums and message boards available to users (see “Public Areas” described above). While you are required to register with the Site to post in these areas, you are not required to provide any Personally Identifiable Information when using these areas but you may choose to do so. If you post Personally Identifiable Information online, it will be publicly available and you may receive unsolicited messages from other parties. MRA cannot ensure the security of any information that you choose to make public in a group, discussion, chat room, forum or message board. Also, MRA cannot ensure that parties who have access to such Personally Identifiable Information will respect your privacy. Please exercise caution when deciding to disclose Personally Identifiable Information in these areas.
+
+**3\. Data Security**
+
+MRA maintains a variety of commercially reasonable physical, electronic and procedural safeguards designed to protect your Personally Identifiable Information from unauthorized access and disclosure. For example, MRA uses accepted tools and techniques to protect against unauthorized access to MRA’s systems. You should be aware that MRA has no control over the security of other sites on the Internet that you might visit or with which you might interact even when a link may appear to another site from one of the Site.
+
+MRA wants you to feel confident using the Site but no system can be completely secure. Therefore, although MRA takes steps to secure your information, MRA does not promise, and you should not expect, that your personal information, searches or other communications will always remain secure.
+
+**4\. Children**
+
+The Site is a general audience site and is not intended for children under 13.  MRA requires that only persons 13 years of age or older use any of the Site. By using the Site, you hereby represent that you are at least 13 years old.   MRA does not knowingly market to, solicit information, accept service or collect information from children under the age of 13.  If MRA becomes aware that it inadvertently received personal information from a visitor under the age of 13 on the Site, MRA will delete the information from its records.
+
+**5\. Changes to this Privacy Policy**
+
+At any time without prior notice, MRA may update this Privacy Policy to reflect changes in MRA’s practices. When MRA posts changes to this Privacy Policy, MRA will revise the “Last Updated” date at the top of this page.  MRA encourages you to bookmark this Privacy Policy and to periodically review it to inform yourself of changes to it or any of MRA’s other policies. Any changes to MRA’s Privacy Policy will become effective upon MRA’s posting of the updated policy. Use of the Site constitutes your acceptance of the terms of this Privacy Policy then in effect.
+
+**6\. California Privacy Rights Under California Civil Code Section 1798.83**
+
+If you are a resident of California (“California Users”), in addition to the rights set forth in this Privacy Policy, you generally have the right to request information from MRA regarding the manner in which MRA shares certain categories of Personally Identifiable Information with third parties for their direct marketing purposes.
+
+Under the law, however, a business is not required to provide this information if it adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying California Users of their rights to prevent disclosure of personal information and providing a cost free means to exercise that right.
+
+Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as MRA has no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how it will handle your information.
+
+Please note that MRA is only required to respond to one request per customer each year.  MRA is not required to respond to requests made by means other than through this e-mail address: [customerservice@glennbeck.com](mailto:customerservice@glennbeck.com).
+
+**7\. Users From Outside the United States**
+
+By visiting the Site, submitting information or using any of MRA’s products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to having your data transferred to and processed in the United States.  If you do not agree to this Privacy Policy, please do not use MRA’s Site.
+
+The Site is controlled and operated by MRA from the United States.  MRA does not represent or warrant that the Site, or any part thereof, are appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. You also are subject to United States export controls in connection with your use of the Site and/or services related thereto and are responsible for any violations of such controls, including, without limitation, any United States embargoes or other federal rules and regulations restricting exports. MRA may limit the availability of the Site, in whole or in part, to any person, geographic area or jurisdiction that MRA chooses, at any time and in MRA’s sole discretion.
+
+**8\. No Rights of Third Parties**
+
+This Privacy Policy does not create rights enforceable by third parties.
+
+**9\. Contacting MRA**
+
+If you have any questions about this Privacy Policy, the practices of the Site or your dealings with us, please feel free to contact MRA at:
+
+**·          Mercury Radio Arts, Inc., 1270 Avenue of the Americas, 9th Floor, New York, New York 10020, **
+
+·         Email: [customerservice@glennbeck.com](mailto:customerservice@glennbeck.com)
