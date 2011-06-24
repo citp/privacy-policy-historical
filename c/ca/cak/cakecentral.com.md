@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210232226id_/http%3A//cakecentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakecentral.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625015133id_/http%3A//cakecentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy on Cakecentral.com
 
