@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224071022id_/http%3A//www.splunk.com/view/SP-CAAAAAG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624045742id_/http%3A//www.splunk.com/view/SP-CAAAAAG) for the most accurate reproduction.*
 
 # Splunk : Splunk Websites Privacy Policy
 
