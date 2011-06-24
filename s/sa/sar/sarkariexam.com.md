@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarkariexam.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123141911id_/http%3A//www.sarkariexam.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkariexam.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624072026id_/http%3A//www.sarkariexam.com/privacy.php) for the most accurate reproduction.*
 
-# Sarkari Naukri, Government Jobs, Fresher Jobs, Railway Jobs, Bank Jobs
+# Privacy
 
 At sarkariexam.com we are committed to protect your privacy during your visits to our website and recognize our responsibility to hold your information securely and confidentially Here is the information that we receive and collect when you use visit www.sarkariexam.com.
 
