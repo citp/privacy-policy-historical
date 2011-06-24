@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the subbmitt.com privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223122126id_/http%3A//www.subbmitt.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the subbmitt.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624211920id_/http%3A//www.subbmitt.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Subbmitt.com - Privacy Policy</title>
@@ -24,32 +24,25 @@
 
 
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-2birxSsH4SYiA";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-2birxSsH4SYiA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-2birxSsH4SYiA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
-<div class="messagebar"><div class="messagebar_date">Thursday, December 23, 2010</div><div class="messagebar_links">
+<div class="messagebar"><!--<DIV CLASS="messagebar_date">Friday, June 24, 2011</DIV>--><div class="messagebar_links">
         <a href="signup.php">SIGN UP</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="login.php">LOGIN</a> &nbsp;&nbsp; | &nbsp;&nbsp;
-        <a href="submit.php"><p style="color: #FFF;display: inline;">SUBMIT</p></a> &nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.subbmitt.com/rssfeeds.php" style="position: relative;top:0px;border: none;" title="Subbmitt RSS Feeds"><img src="images/rss_icon.png" width="20" height="20" border="0" align="TOP"></a>
+        <a href="submit.php"><p style="color: #FF6600;display: inline;">SUBMIT</p></a> &nbsp;&nbsp; <!--| &nbsp;&nbsp;<A HREF="http://www.subbmitt.com/rssfeeds.php" STYLE="position: relative;top:0px;border: none;" TITLE="Subbmitt RSS Feeds"><IMG SRC="images/rss_icon.png" WIDTH="20" HEIGHT="20" BORDER="0" ALIGN="TOP"></A>-->
 	</div>
 </div>
 
 <div id="header">
 <table cellpadding="0" cellspacing="0" border="0" width="100%" valign="TOP">
 <tbody><tr><td align="LEFT" valign="TOP" colspan="2">
-	<div class="logo"><a href="submit.php" title="Home Page"><img src="images/logo.png" border="0"></a></div>
-	<div class="tagline">you control the news</div>
+	<div class="logo"><a href="index.php?pageno=1" title="Home Page"><p style="color:#FF6600;font-weight:bold;">»</p>subbmitt</a></div>
+	<div class="tagline">spread the news</div>
 </td><td align="LEFT">
 	<table cellspacing="0" cellpadding="0" border="0" align="LEFT">
 	<tbody><tr><td>
 
 	&nbsp;&nbsp;
 
-	<div id="searchform" style="right: 10px; top: 10px; height: 14px; position: absolute; display: inline; white-space: nowrap;">
-	<form name="search" action="index.php" method="POST"><input type="hidden" name="search" value="S"><input name="keyword" type="text" size="32" class="searchbox" value="Search Subbmitt" onfocus="this.style.color='#FFF';this.value='';" onblur="this.style.color='#FFF';this.value='Search Subbmitt';"><!--<BR><A HREF="search.php" STYLE="color: #FFF;"><B>Advanced Search</B></A>-->
+	<div id="searchform" style="z-index:200; right: 5px; top: 5px; height: 14px; position: absolute; display: inline; white-space: nowrap;">
+	<form name="search" action="index.php" method="POST"><input type="hidden" name="search" value="S"><input name="keyword" type="text" size="26" class="searchbox" value=""><img src="images/magnifyicon.png" style="position: relative; top:5px;"><!--<BR><A HREF="search.php" STYLE="color: #FFF;"><B>Advanced Search</B></A>-->
 	</form>
 	</div>
 
@@ -64,9 +57,9 @@
 	<table cellspacing="0" cellpadding="0" border="0" align="LEFT" width="100%">
 <!--	<TD ALIGN="LEFT" WIDTH="50%">&nbsp;&nbsp;<A HREF="http://www.subbmitt.com/index.php">English</A> &nbsp;&nbsp;<A HREF="http://www.subbmitt.com/es/index.php">Español</A> </TD>-->
 
-	<tbody><tr><td align="RIGHT" width="100%"><p style="color: #81A7CC; font-weight: bold; display: inline; position: relative; top: 1px; vertical-align: middle;">Anonymous &nbsp;&nbsp;</p>
-	</td></tr>
-	</tbody></table>
+	
+	
+	</table>
 	</div>
 </td>
 </tr>
@@ -164,12 +157,14 @@ function mouseIn(e) {
 	//alert('node: ' + e.nodeName);
 	e.style.backgroundImage="url()";
 	e.style.backgroundColor="#000000";
+	//e.style.backgroundColor="#DDD";
 }
 
 //This controls the submenu mouseout hover color
 function mouseOut(e) {
 	//e.style.backgroundColor='#395773';
 	e.style.backgroundImage="url(images/reverse_menu_bg.png)";
+	//e.style.backgroundColor='#FFF';
 }
 
 
@@ -224,25 +219,16 @@ function blank() {
 
 <div class="menu" onmouseout="fixOnMouseOut(this, event, 'hideSubmenu()');">
 <ul>
-<li style="width: 100px;height: 45px;"><div class="mainlink"><a href="index.php?o=r&amp;cat=14" onmouseover="toggleBg(this);menuNews();">NEWS<br>
-<div class="small">current events</div></a></div></li>
+<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=14" onmouseover="toggleBg(this);menuNews();">News</a></li>
+<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=25" onmouseover="toggleBg(this);techNews();">Tech</a></li>
+<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=31" onmouseover="toggleBg(this);funNews();">Fun</a></li>
+<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=32" onmouseover="toggleBg(this);lifeNews();">Lifestyle</a></li>
+<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=26" onmouseover="toggleBg(this);designNews();">Design</a></li>
+<li style="width: 100px; height: 35px;"><a href="index.php?o=r&amp;cat=36" onmouseover="toggleBg(this);mindNews();">Mind</a></li>
+<li style="width: 100px;height: 35px;"><a href="index.php?o=r&amp;cat=149" onmouseover="toggleBg(this);picsvids();">Pics &amp; Vids</a></li>
+<li style="width: 120px;height: 35px;"><a href="index.php?o=r&amp;cat=18" onmouseover="toggleBg(this);scienceNews();">Science</a></li>
 
-<li style="width: 100px;height: 45px;"><div class="mainlink"><a href="index.php?o=r&amp;cat=25" onmouseover="toggleBg(this);techNews();">TECH<br>
-<div class="small">geek land </div></a></div></li>
-<li style="width: 100px;height: 45px;"><div class="mainlink"><a href="index.php?o=r&amp;cat=31" onmouseover="toggleBg(this);funNews();">FUN<br>
-<div class="small">loosen up</div></a></div></li>
-<li style="width: 100px;height: 45px;"><div class="mainlink"><a href="index.php?o=r&amp;cat=32" onmouseover="toggleBg(this);lifeNews();">LIFESTYLE<br>
-<div class="small">good stuff</div></a></div> </li>
-<li style="width: 100px;height: 45px;"><div class="mainlink"><a href="index.php?o=r&amp;cat=26" onmouseover="toggleBg(this);designNews();">DESIGN<br>
-<div class="small">stylish things</div></a></div></li>
-<li style="width: 100px; height: 45px;"><div class="mainlink"><a href="index.php?o=r&amp;cat=36" onmouseover="toggleBg(this);mindNews();">MIND<br>
-<div class="small">free your mind</div></a></div></li>
-<li style="width: 100px;height: 45px;"><div class="mainlink"><a href="index.php?o=r&amp;cat=149" onmouseover="toggleBg(this);picsvids();">PICS &amp; VIDS<br>
-<div class="small">1000 words</div></a></div></li>
-<li style="width: 120px;height: 45px;"><div class="mainlink"><a href="index.php?o=r&amp;cat=18" onmouseover="toggleBg(this);scienceNews();">SCIENCE<br>
-<div class="small">E=MC<sup>2</sup></div></a></div> </li>
-
-<li style="width: 46px;height: 45px;"><div class="mainlink"><a href="#"></a></div> </li>
+<li style="width: 46px;height: 35px;"><a href="#"></a></li>
 
 </ul>
 <div class="submenu" id="submenu"></div>
@@ -329,10 +315,10 @@ function blank() {
 </td>
 
 
-<td width="20%" align="LEFT" valign="TOP">
-<h3>FUN</h3><br>
-<a href="http://www.cafepress.com/subbmitt">STORE</a><br>
-</td>
+<!--<TD WIDTH=20% ALIGN=LEFT VALIGN=TOP>
+<H3>FUN</H3><BR>
+<A HREF="http://www.cafepress.com/subbmitt">STORE</A><BR>
+</TD>-->
 
 <td width="20%" align="LEFT" valign="TOP">
 <h3>LEGAL</h3><br>
@@ -344,7 +330,7 @@ function blank() {
 
 <tr><td colspan="5" width="100%">
 <br>
-<div id="copyrighttext" style="color: #81A7CC; "><br>© 2010 subbmitt.com. All Rights Reserved.
+<div id="copyrighttext" style="color: #555; font-weight: normal;"><br>© 2011 subbmitt.com. All Rights Reserved.
 
 </div>
 </td></tr>
