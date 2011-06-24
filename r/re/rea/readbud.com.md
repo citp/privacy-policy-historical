@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readbud.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219094656id_/http%3A//www.readbud.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readbud.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624025949id_/http%3A//www.readbud.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - readbud - Get paid to read and rate articles!
 
