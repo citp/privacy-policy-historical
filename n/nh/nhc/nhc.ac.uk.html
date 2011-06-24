@@ -1,7 +1,134 @@
-<!--The following is the downloaded HTML source of the nhc.ac.uk privacy policy that was archived on 2010-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220153047id_/http%3A//www.nhc.ac.uk/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nhc.ac.uk privacy policy that was archived on 2011-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625012448id_/http%3A//www.nhc.ac.uk/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head id="ctl00_Head1"><base href="http://www.nhc.ac.uk/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="ROBOTS" content="FOLLOW, INDEX"><link href="templates/nhc_style_new.css" rel="stylesheet" type="text/css"><link href="App_Themes/global/StyleSheet.css" type="text/css" rel="stylesheet"><script type="text/javascript" src="systems/scripts/nlslightbox/nlslightbox.js"></script><script type="text/javascript" src="systems/scripts/nlslightbox/nlsanimation.js"></script><link href="systems/scripts/nlslightbox/nlslightbox.css" rel="stylesheet" type="text/css"><script type="text/javascript" language="javascript">var box = new NlsLightBox("mybox");</script><script language="javascript" type="text/javascript" src="dialogs/dialog.js"></script><script language="javascript" type="text/javascript" src="systems/float/float.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><base href="http://www.nhc.ac.uk/">
+
+    <script type="text/javascript" src="/../assets/js/jquery-1.4.3.min.js"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            // Handler for .ready() called.
+
+
+            function createCookie(name, value, days) {
+                if (days) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    var expires = "; expires=" + date.toGMTString();
+                }
+                else var expires = "";
+                document.cookie = name + "=" + value + expires + "; path=/";
+            }
+            function readCookie(name) {
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            }
+
+            var x = readCookie('accessibilitySettings')
+
+            switch (x) {
+                case "font-normal":
+
+                    $("link[media='screen']").attr("href", "../assets/css/font-normal.css");
+
+                    break;
+                case "font-larger":
+
+                    $("link[media='screen']").attr("href", "../assets/css/font-larger.css");
+
+                    break;
+                case "font-largest":
+
+                    $("link[media='screen']").attr("href", "../assets/css/font-largest.css");
+
+                    break;
+                case "dyslexia":
+
+                    $("link[media='screen']").attr("href", "../assets/css/dyslexia.css");
+
+                    break;
+                case "high-vis":
+
+                    $("link[media='screen']").attr("href", "../assets/css/highvis.css");
+
+                    break;
+
+
+            }
+            $("#font-small").click(function() {
+
+                $("link[media='screen']").attr("href", "../assets/css/font-normal.css");
+                //$("#Accessibility").attr("href","/Portals/_default/Skins/BTG/css/font-normal.css");
+                //$("#APortals__default_Skins_BTG_").attr("disabled",false);
+                createCookie('accessibilitySettings', 'font-normal', 365);
+                return false
+
+            });
+            $("#font-medium").click(function() {
+                alert('mediaum');
+                $("link[media='screen']").attr("href", "../assets/css/font-larger.css");
+                createCookie('accessibilitySettings', 'font-larger', 365);
+                return false;
+
+            });
+            $("#font-large").click(function() {
+                $("link[media='screen']").attr("href", "../assets/css/font-largest.css");
+                createCookie('accessibilitySettings', 'font-largest', 365);
+
+                return false;
+
+            });
+            $("#main").click(function() {
+
+                $("link[media='screen']").attr("href", "../assets/css/font-normal.css");
+
+                createCookie('accessibilitySettings', 'font-normal', 365);
+                return false;
+
+            });
+
+            $("#dyslexia").click(function() {
+                $("link[media='screen']").attr("href", "../assets/css/dyslexia.css");
+
+                createCookie('accessibilitySettings', 'dyslexia', 365);
+                return false;
+
+
+            });
+            $("#high-vis").click(function() {
+                alert('high vis');
+                $("link[media='screen']").attr("href", "../assets/css/highvis.css");
+
+                createCookie('accessibilitySettings', 'high-vis', 365);
+                return false;
+
+            });
+
+
+
+        });
+   
+       
+    </script>
+
+    <meta name="ROBOTS" content="FOLLOW, INDEX"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	Privacy
+</title><link rel="stylesheet" type="text/css" href="templates/assets/css/reset.css"><link rel="stylesheet" type="text/css" href="templates/assets/css/global.css"><link id="ctl00_Accessibility" rel="stylesheet" media="screen" type="text/css" href="/../assets/css/font-normal.css">
+    <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="templates/assets/css/ie.css" /><![endif]-->
+    <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="templates/assets/css/ie6.css" /><![endif]-->
+
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+
+    <script type="text/javascript">        stLight.options({ publisher: '022b68a3-818c-4d45-bd4d-6e6ce0d9e7de' });</script>
+
+<link href="App_Themes/global/StyleSheet.css" type="text/css" rel="stylesheet"><script type="text/javascript" src="systems/scripts/nlslightbox/nlslightbox.js"></script><script type="text/javascript" src="systems/scripts/nlslightbox/nlsanimation.js"></script><link href="systems/scripts/nlslightbox/nlslightbox.css" rel="stylesheet" type="text/css"><script type="text/javascript" language="javascript">var box = new NlsLightBox("mybox");</script><script language="javascript" type="text/javascript" src="dialogs/dialog.js"></script><script language="javascript" type="text/javascript" src="systems/float/float.js"></script>
 <style type="text/css">
 <!--
 .icProgBg {position:fixed;left:0;top:0;width:100%;height:100%}
@@ -21,11 +148,9 @@ height:expression(ignoreMe=document.documentElement.clientHeight + "px");
 </style>
 <![endif]>
 <![endif]-->
-<title>
-	Privacy
-</title></head>
+</head>
 <body>
-    <form name="aspnetForm" method="post" action="/privacy.aspx" onsubmit="if (typeof(WebForm_OnSubmit) == 'function') return WebForm_OnSubmit();" id="aspnetForm">
+  <form name="aspnetForm" method="post" action="/privacy.aspx" onsubmit="if (typeof(WebForm_OnSubmit) == 'function') return WebForm_OnSubmit();" id="aspnetForm">
 <div>
 
 </div>
@@ -37,95 +162,167 @@ height:expression(ignoreMe=document.documentElement.clientHeight + "px");
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
-
-        <span id="ctl00_stylesheet1_Label1"><link href="/templates/" rel="stylesheet" type="text/css"><link href="/templates/nhc_style_new.css" rel="stylesheet" type="text/css"></span>
-
-           <div id="topcontent">
-                
-<div style="width: 100%; padding-bottom: 5px">
-    <div style="float:left">
-        <a href="http://www.facebook.com/NorthHertsCollege"><img border="0" src="images/header/rss_1.gif"></a>
-       <a href="http://twitter.com/N_HertsCollege"> <img border="0" src="images/header/rss_3.gif"></a>
-       <a href="registernow.aspx"> <img border="0" src="images/header/rss_5.gif"></a></div>
-    <div id="search1" style="float: right;">
-        Text Size <span class="SmallA">
-            <a id="ctl00_TopContent_LinkButton1" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$TopContent$LinkButton1", "", true, "", "", false, true))'>AA</a></span><span class="MedA"><a id="ctl00_TopContent_LinkButton2" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$TopContent$LinkButton2", "", true, "", "", false, true))'>AA</a></span><span class="BigA"><a id="ctl00_TopContent_LinkButton3" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$TopContent$LinkButton3", "", true, "", "", false, true))'>AA</a></span> <a href="nhc_your_way.aspx" style="padding-left: 100px">NHC Your Way - Accessibility</a>
-    </div>
-    <div style="clear: both">
-    </div>
-</div>
-
-            </div>
-        <div id="container">
-         
-    
-            
-<div style="padding-top: 10px; padding-left: 20px; width: 100%">
-    <div style="float: left; width: 185px; display: block">
-        <img alt="nhc logo" src="images/logo.jpg" style="padding-left: 20px;">
-    </div>
-    <div id="menu" style="float: left; margin-left: 20px; padding-top: 10px;">
-        <div>
+	
+<div id="wrapper">
+	<div id="container">
+		<div id="header">
+                    <div id="logo">
+                        <a id="logo-img" href="default.aspx"><span>North Hertforshire College</span></a>
+                    </div>
+                   
+                        
+<div style="float: right">
+    <div class="headform" style="padding-top: 40px" id="shortcuts">
+        <div style="width: 280px; display: block;">
             <div style="float: left">
-                <img alt="01462 424242" src="images/phone.jpg"> <a style="float:left;" href="userlogin.aspx">
-                        <img border="0" src="images/loginbutton.png" alt="Login Button"></a>
-            
-<div style="float:width; width:100px; height:100px; padding-left:20px;"><!-- BEGIN Comm100 Live Chat Email/BBS Button Code --><div><div style="z-index:99;position:absolute;visibility:hidden;"><a href="http://www.comm100.com">customer service software technical support</a></div><a href="http://chatserver.comm100.com/ChatWindow.aspx?siteId=49975&amp;planId=1897&amp;partnerId=-1&amp;visitType=1&amp;byHref=1" target="_blank"><img id="comm100_EmailImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=49975&amp;planId=1897&amp;partnerId=-1" border="0px" alt="Live Chat"></a><div style="z-index:99;visibility:hidden;"><span style="font-size:10px; font-family:Arial, Helvetica, sans-serif;"><a href="http://www.comm100.com/livechat/" style="text-decoration:none;color:#000000;" target="_blank"><b>Live Support</b></a> by <a href="http://www.comm100.com" style="text-decoration:none;color:#009999;" target="_blank">Comm100</a></span></div></div><!-- END Comm100 Live Chat Email/BBS Button Code --></div></div>
+                <select name="ctl00$newheader1$lstQuickLinks" id="ctl00_newheader1_lstQuickLinks" style="width:230px;">
+	<option value="Select a Quick Link">Select a Quick Link</option>
+	<option value="Apply"> How to Apply</option>
+	<option value="Jobs">Jobs</option>
+	<option value="Governance">Governance</option>
+	<option value="Brochures">Brochures</option>
+	<option value="Courses">Courses</option>
+	<option value="Equality">Equality and Diversity</option>
+	<option value="Complaints">Complaints</option>
+	<option value="Indulge">Indulge Restaurant</option>
+	<option value="CFA">College for the Arts</option>
+	<option value="OpenEvenings">Open Evenings and Term Dates</option>
 
-            <div style="float: right; padding-right: 10px" class="search">
-                <span style="display: block; float: left; background: url(images/header/search_bg.gif);
-                    width: 168px; padding: 0 5px; height: 32px;">
-                    <input name="ctl00$TopMenul1$txtSearch" type="text" value="What are you looking for?" id="ctl00_TopMenul1_txtSearch" class="textbox" style="border-style:None;">
-                </span>
-                <input type="image" name="ctl00$TopMenul1$ImageButton1" id="ctl00_TopMenul1_ImageButton1" class="button" src="images/header/search.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopMenul1$ImageButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
+</select>
             </div>
-            
+            <div style="float: right">
+                <input type="submit" name="ctl00$newheader1$cmdQuickLinks" value="Go" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$newheader1$cmdQuickLinks&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_newheader1_cmdQuickLinks" class="button">
+            </div>
         </div>
-        <div style="clear: both">
+        <div style="width: 280px; display: block; clear: both;">
+            <div style="float: left">
+                <select name="ctl00$newheader1$lstSubjectAreas" id="ctl00_newheader1_lstSubjectAreas" style="width:230px;">
+	<option value=" Learn more about a Subject Area"> Learn more about a Subject Area</option>
+	<option value="alevel.aspx">A Level</option>
+	<option value="access.aspx">Access to HE</option>
+	<option value="animalcare.aspx">Animal Care</option>
+	<option value="artdesignmedia.aspx">Art , Design and Media</option>
+	<option value="beauty.aspx">Beauty and Holistic Therapies</option>
+	<option value="businessdepartment.aspx">Business</option>
+	<option value="cateringdepartment.aspx">Catering and Hospitality</option>
+	<option value="childhoodstudies.aspx">Childhood Studies</option>
+	<option value="ICT.aspx">Computing and IT</option>
+	<option value="construction.aspx">Construction</option>
+	<option value="dance.aspx">Dance</option>
+	<option value="diploma.aspx">Diploma</option>
+	<option value="english.aspx">English</option>
+	<option value="enterprise.aspx">Enterprise</option>
+	<option value="gcse.aspx">GCSEs</option>
+	<option value="hairdressing.aspx">Hairdressing</option>
+	<option value="healthandsocialcare.aspx">Health and Social Care</option>
+	<option value="higher.aspx">Higher Education</option>
+	<option value="languages.aspx">Languages</option>
+	<option value="leisure courses.aspx">Leisure Courses</option>
+	<option value="management.aspx">Management and  Professional</option>
+	<option value="motorvehicle.aspx">Motor Vehicle</option>
+	<option value="performingarts.aspx">Performing Arts</option>
+	<option value="publicservices.aspx">Public Services</option>
+	<option value="science.aspx">Science</option>
+	<option value="skills4life.aspx">Skills for Life</option>
+	<option value="sport.aspx">Sport</option>
+	<option value="supported.aspx">Supported Studies</option>
+	<option value="teachertraining.aspx">Teacher Training</option>
+	<option value="travel.aspx">Travel and Tourism</option>
+
+</select>
+            </div>
+            <div style="float: right">
+                <input type="submit" name="ctl00$newheader1$cmdSubjectAreas" value="Go" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$newheader1$cmdSubjectAreas&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_newheader1_cmdSubjectAreas" class="button">
+            </div>
         </div>
-        <ul>
-            <li><a href="Default.aspx" id="HomeLink">Home</a> </li>
-        </ul>
-        <ul>
-            <li><a href="AboutUs.aspx" id="AboutLink">About Us</a> </li>
-        </ul>
-        <ul>
-            <li><a href="Courses.aspx" id="CoursesLink">Courses</a> </li>
-        </ul>
-        <ul>
-            <li><a href="Life.aspx" id="LifeLink">Life at NHC</a> </li>
-        </ul>
-        <ul>
-            <li><a href="news.aspx" id="NewsLink">News &amp; Events</a> </li>
-        </ul>
-        <ul>
-            <li><a href="Jobs.aspx" id="JobsLink">Jobs</a> </li>
-        </ul>
-        <ul>
-            <li><a href="contact.aspx" id="ContactLink">Contact Us</a> </li>
-        </ul>
+        <div style="width: 280px; display: block; clear: both">
+            <div style="float: left">
+                <input name="ctl00$newheader1$txtSearch" type="text" value="Search Web Site" id="ctl00_newheader1_txtSearch" class="textbox" style="width:230px;">
+            </div>
+            <div style="float: right">
+                <input type="submit" name="ctl00$newheader1$cmdCourseSearch" value="Go" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$newheader1$cmdCourseSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_newheader1_cmdCourseSearch" class="button">
+            </div>
+        </div>
     </div>
 </div>
-<div style="clear: both">
-</div>
+<ul id="navigation">
+    <li class="home"><a class="current" href="default.aspx">Home</a></li>
+    <li class="courses"><a style="" href="courses.aspx">Courses</a></li>
+    <li class="mediacentre"><a href="news.aspx">News</a></li>
+    <li class="nhclife"><a href="life.aspx">NHC Life</a></li>
+    <li class="aboutus"><a href="aboutus.aspx">About Us</a></li>
+     <li class="jobs"><a href="jobs.aspx">Jobs</a></li>
+</ul>
+<ul id="login">
+    <li class="spacer"><a href="userlogin.aspx">Login</a></li>
+    <li><a href="livesupport.aspx">Live Support</a></li>
+</ul>
+ <div id="header-list-container">
+                        <ul id="page-option-list">
+                            <li><a href="#skip-navigation">Skip to content</a></li>
+                            <li><a href="http://www.browsealoud.co.uk/page.asp?pg_id=8000">Read this page aloud</a></li>
+                        </ul>
+                        <ul id="font-size-list">
+                            <li><a title="Switch to Normal text" href="#" id="font-small"><span class="hide-content">
+                                Normal text</span>[A]</a></li>
+                            <li><a title="Switch to Larger text" href="#" id="font-medium"><span class="hide-content">
+                                Larger text</span>[A]</a></li>
+                            <li><a title="Switch to Largest text" href="#" id="font-large"><span class="hide-content">
+                                Largest text</span>[A]</a></li>
+                        </ul>
+                        <ul id="accessibility-styles-list">
+                            <li id="normal-style"><a title="Switch to Normal Style Sheet" href="#" id="main" class="main-css-swap"><span class="normal-style"><span class="hide-content">Normal Style
+                                    Sheet</span>A</span></a></li>
+                            <li id="dyslexia-style"><a title="Switch to Dyslexia Style Sheet" href="#" id="dyslexia" class="main-css-swap"><span class="dyslexic-style"><span class="hide-content">Dyslexic
+                                    Style Sheet</span>A</span></a></li>
+                            <li id="high-visibility-style"><a title="Switch to High Visibility Style Sheet" href="#" id="high-vis" class="main-css-swap"><span class="high-vis-style"><span class="hide-content">
+                                    High Visibility Style Sheet</span>A</span></a></li>
+                        </ul>
+                    </div>
+                    <!-- End of Header List Container -->
+                </div>
 
-            <div id="maincontent" style="border-top:solid 5px #c4c5ca">
-                <div id="leftcontent">
-                    
+                   
+                   
+                    <!-- End of Navigation -->
+                   
+                <!-- End of Header -->
+		<div id="content"><a name="skip-navigation"></a>
+		
+		
+			
+			<!-- End of Accordion Div -->
+           
+			
+				
+                
+					
+				<div id="home-panels"> 
+				
+     
+
+              
+              
+				<div id="home-panel-left">
+				  <div id="leftcontent" style=" width:200px">
+				
 <div>
     </div>
 <div class="btn-panel-bg" style="text-align: left">
-    <a href="privacy.aspx" style="border-top:none" class="left-btn">Privacy</a><a href="sitemap.aspx" style="border-top:none" class="left-btn">Sitemap</a><a href="register3.aspx" style="border-top:none" class="left-btn">Register Stage 3</a><a href="youracademies.aspx" style="border-top:none" class="left-btn">Your Academies</a><a href="terms.aspx" style="border-top:none" class="left-btn">Terms</a><a href="FOI.aspx" style="border-top:none" class="left-btn">Freedom Of Information</a>
+    <a href="privacy.aspx" style="border-top:none" class="left-btn">Privacy</a><a href="sitemap.aspx" style="border-top:none" class="left-btn">Sitemap</a><a href="register3.aspx" style="border-top:none" class="left-btn">Register Stage 3</a><a href="youracademies.aspx" style="border-top:none" class="left-btn">Your Academies</a><a href="terms.aspx" style="border-top:none" class="left-btn">Terms</a>
 </div>
 <div style="visibility: hidden">
     <img visible="false" style="display: block; padding-bottom: 10px;" src="images/menu-bottom.gif"></div>
 
-                </div>
-                <div id="middlecontentfull">
-                    
-                    
-                    <div class="breadcrumb"><a class="breadcrumb" href="default.aspx">Home</a> &gt; Privacy</div>
-                    
+				</div>
+				
+                        
+					
+				</div>
+                <!-- End of Panel -->
+				<div id="home-panel-center">
+				<div id="main-content">
+				 
 
     
     
@@ -211,7 +408,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	Cambridge Rd, <br>
 	Hitchin, <br>
 	Herts, SG4 0JD<br>
-	<a href="mailto:privacy@nhc.ac.uk">privacy@nhc.ac.uk</a></p> If you are not satisfied with our response to your concern you may wish to contact Information Commissioner (<a target="_blank" href="http://www.dataprotection.gov.uk/">http://www.dataprotection.gov.uk/</a></div><div></div><div></div><div></div>
+	<a href="mailto:privacy@nhc.ac.uk">privacy@nhc.ac.uk</a></p> If you are not satisfied with our response to your concern you may wish to contact Information Commissioner (<a target="_blank" href="http://www.dataprotection.gov.uk/">http://www.dataprotection.gov.uk/</a></div><div></div><div></div><div></div>...
 	</div>
     
     
@@ -266,120 +463,152 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     
 
 
+                               <span class="st_email"></span><span class="st_facebook"></span><span class="st_twitter"></span><span class="st_sharethis" displaytext="ShareThis"></span>
+					</div>
+					
+				</div>	
+                <!-- End of Panel -->			
+				<div id="home-panel-right">
+				
+				
+				
+                    	
+				
+				</div>
+                <!-- End of Panel -->
+			</div>
+            <!-- End of Home Panels -->
+		</div>
+		<!-- End of Content -->	        
+       <div id="footer">
+
+                    <ul class="footer-links">
+                        <li>
+                            <h3>
+                                Quick links</h3>
+                        </li>
+                        <li><a href="news.aspx">News</a></li>
+                        <li><a href="governors.aspx">Governors</a></li>
+                        <li>
+                            
+                            <a class="login" href="login.aspx?ReturnUrl=/privacy.aspx">Login</a>
+                        </li>
+                        <li><a href="contactus.aspx">Contact us</a></li>
+                    </ul>
+                    <ul class="footer-links">
+                        <li>
+                            <h3>
+                                Our Other sites</h3>
+                        </li>
+                        <li><a href="http://www.indulge.nhc.ac.uk/" target="_blank">Indulge Resturant</a></li>
+                        <li><a href="http://www.cfa.nhc.ac.uk/" target="_blank">College for Arts</a></li>
+                        <li><a href="http://www.enhance.nhc.ac.uk/" target="_blank">Enhance Hairdressing</a></li>
+                        <li><a href="http://www.energise.nhc.ac.uk" target="_blank">Energise Salon</a></li>
+                    </ul>
+                    <ul class="footer-links">
+                        <li>
+                            <h3>
+                                Join Us
+                            </h3>
+                        </li>
+                        <li><a href="openevenings.aspx">Open Evenings</a></li>
+                        <li><a href="brochures.aspx">Brochures</a></li>
+                        <li><a href="howtoapply.aspx">Application Forms</a></li>
+                        <li><a href="jobs.aspx">Jobs</a></li>
+                    </ul>
+                    <ul class="footer-links">
+                        <li>
+                            <h3>
+                                Using this site</h3>
+                        </li>
+                        <li><a href="privacy.aspx">Privacy policy</a></li>
+                        <li><a href="foi.aspx">Freedom of Information</a></li>
+                        <li><a href="sitemap.aspx">Sitemap</a></li>
+                    </ul>
+                    <ul class="footer-links">
+                        <li>
+                            <h3>
+                                Social Media</h3>
+                        </li>
+                        <li><a href="http://www.facebook.com/NorthHertsCollege" target="_blank">Facebook</a></li>
+                        <li><a href="http://twitter.com/N_HertsCollege" target="_blank">Twitter</a></li>
+                        <li><a href="http://www.youtube.com/NHertsCollege" target="_blank">You Tube</a></li>
+                    </ul>
+                    <div style="clear: both">
+                        <ul class="footer-links">
+                            <li>
+                                <h3>
+                                    Stevenage Centre</h3>
+                            </li>
+                            <li class="whitetext">Monkswood Way Stevenage</li>
+                            <li class="whitetext">Hertfordshire</li>
+                            <li class="whitetext">SGI ILA </li>
+                        </ul>
+                        <ul class="footer-links">
+                            <li>
+                                <h3>
+                                    Hitchin Centre</h3>
+                            </li>
+                            <li class="whitetext">Cambridge Road</li>
+                            <li class="whitetext"></li>
+                            <li class="whitetext">Hitchin</li>
+                            <li class="whitetext">Hertfordshire
+                                </li><li class="whitetext">SG4 OJD </li>
+                        </ul>
+                        <ul class="footer-links">
+                            <li>
+                                <h3>
+                                    Centre for the Arts</h3>
+                            </li>
+                            <li class="whitetext">Willian Road</li>
+                            <li class="whitetext">Hitchin</li>
+                            <li class="whitetext">Hertfordshire</li>
+                            <li class="whitetext">SG4 OLS </li>
+                        </ul>
+                        <ul class="footer-links">
+                            <li>
+                                <h3>
+                                    Goldsmith Centre for Business</h3>
+                                </li><li class="whitetext">Broadway</li>
+                                <li class="whitetext">Letchworth Garden City</li>
+                                <li class="whitetext">Hertfordshire</li>
+                                <li class="whitetext">SG6 3GB </li>
+                        </ul>
+                        <ul class="footer-links">
+                            <li>
+                                <h3>
+                                    Stevenage Skills Centre</h3>
+                            </li>
+                            <li class="whitetext">Fulton Close</li>
+                            <li class="whitetext">Stevenage</li>
+                            <li class="whitetext">Hertfordshire</li>
+                            <li class="whitetext">SGI 2AF </li>
+                        </ul>
+                        <ul class="footer-links">
+                            <li>
+                                <h3>
+                                    In Town Training</h3>
+                            </li>
+                            <li class="whitetext">28 The Forum</li>
+                            <li class="whitetext">Stevenage</li>
+                            <li class="whitetext">Hertfordshire </li>
+                            <li class="whitetext">SGI IEH </li>
+                        </ul>
+                    </div>
                 </div>
-            </div>
-            <div style="clear: both">
-            </div>
-            <div class="BottomBanners1" style="text-align: center">
-                
+                <!-- End of Footer -->
+	</div>
+	<!-- End of Container -->
+</div>
+<!-- End of Wrapper -->	
 
-
-
-
-
-
-
-
-<table style="background-color:White; width:100%">
-<tbody><tr>
-<td>
-    <a href="http://www.nbp.org.uk/"><img border="0" alt="network black professionals" src="images/logos/nbp.jpg"></a></td>
-<td>
-</td><td>
-    <a href="http://www.mindfulemployer.net/index.html"><img border="0" alt="mindful logo" src="images/logos/mindful.jpg"></a></td>
-<td>
-</td><td>
-    <img alt="investors in people logo" src="images/logos/investors.gif"></td>
-<td>
-    <img alt="Centre of Vocational Excellence Logo" src="images/logos/logo_cove.gif"></td>
-<td>
-   <a href="careersguidance.aspx"><img border="0" alt="Careers Guidance" src="images/logos/matrixlogo.gif"></a> </td>
-<td>
-    <img alt="Logo padp" src="images/logos/logo_padp.gif"></td>
-<td>
-    <img alt="total quality standard" src="images/logos/tqs2.jpg"></td>
-<td></td>
-</tr>
-</tbody></table>
-            </div>
-            <div style="clear: both">
-            </div>
-            
-            
-            <div id="footercontent">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                <!-- These placeholders are not used in this template, just set visible=false -->
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                <span class="bottommenu">Privacy</span>&nbsp;|&nbsp;<a target="_self" href="sitemap.aspx" class="bottommenu">Sitemap</a>&nbsp;|&nbsp;<a target="_self" href="terms.aspx" class="bottommenu">Terms</a>&nbsp;|&nbsp;<a target="_self" href="FOI.aspx" class="bottommenu">Freedom Of Information</a>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                <a target="_self" href="news.aspx" class="topmenu">News</a>&nbsp;|&nbsp;<a target="_self" href="userhome.aspx" class="topmenu">User Home</a>
-            </div>
-            <div style="clear: both">
-            </div>
-        </div>
-    
 
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
 //]]>
 </script>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4OTUyODUyNjMPZBYCZg9kFgICAw9kFggCAQ9kFgJmDw8WAh4EVGV4dAWJATxsaW5rIGhyZWY9Ii90ZW1wbGF0ZXMvIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPjxsaW5rIGhyZWY9Ii90ZW1wbGF0ZXMvbmhjX3N0eWxlX25ldy5jc3MiIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIC8+ZGQCBw9kFgRmDw8WAh4ISW1hZ2VVcmwFIX4vaW1hZ2VzL3Byb3NwZWN0aXZlLWxlYXJuZXJzLmdpZmRkAgEPFgIfAAXhAzxhIGhyZWY9InByaXZhY3kuYXNweCIgc3R5bGU9ImJvcmRlci10b3A6bm9uZSIgY2xhc3M9ImxlZnQtYnRuIj5Qcml2YWN5PC9hPjxhIGhyZWY9InNpdGVtYXAuYXNweCIgc3R5bGU9ImJvcmRlci10b3A6bm9uZSIgY2xhc3M9ImxlZnQtYnRuIj5TaXRlbWFwPC9hPjxhIGhyZWY9InJlZ2lzdGVyMy5hc3B4IiBzdHlsZT0iYm9yZGVyLXRvcDpub25lIiBjbGFzcz0ibGVmdC1idG4iPlJlZ2lzdGVyIFN0YWdlIDM8L2E+PGEgaHJlZj0ieW91cmFjYWRlbWllcy5hc3B4IiBzdHlsZT0iYm9yZGVyLXRvcDpub25lIiBjbGFzcz0ibGVmdC1idG4iPllvdXIgQWNhZGVtaWVzPC9hPjxhIGhyZWY9InRlcm1zLmFzcHgiIHN0eWxlPSJib3JkZXItdG9wOm5vbmUiIGNsYXNzPSJsZWZ0LWJ0biI+VGVybXM8L2E+PGEgaHJlZj0iRk9JLmFzcHgiIHN0eWxlPSJib3JkZXItdG9wOm5vbmUiIGNsYXNzPSJsZWZ0LWJ0biI+RnJlZWRvbSBPZiBJbmZvcm1hdGlvbjwvYT5kAgkPZBYCAgEPFgQfAAUePGgxIGNsYXNzPSJ0aXRsZSI+UHJpdmFjeTwvaDE+HgdWaXNpYmxlaGQCDQ9kFgwCAw8WAh8AZWQCBw8PFgIfAmhkFgoCAw8WAh8CaBYMAgEPDxYCHwJoZGQCAw8PFgIfAmhkZAIFDw8WAh8CaGRkAgcPDxYCHwJoZGQCCQ8PFgIfAmhkZAILDw8WBh8BBR1zeXN0ZW1zL2ltYWdlcy9idG5QdWJsaXNoLmdpZh4NQWx0ZXJuYXRlVGV4dAUHUHVibGlzaB8CaGRkAgUPZBYIAgUPDxYCHwJoZGQCBw8PFgIfAmhkZAIJDw8WAh8CaGQWAgIFDw8WAh4LTmF2aWdhdGVVcmwFDWFwcHJvdmFsLmFzcHhkZAILDw8WAh8CaGQWAgIFDw8WAh8EBQ1hcHByb3ZhbC5hc3B4ZGQCBw9kFgQCAw8PFgIfAAUHR2VuZXJhbGRkAgUPDxYCHwJoZGQCCQ9kFgICAQ8PFgIfAmhkZAILD2QWAgIBDw8WBB4NT25DbGllbnRDbGljawVObW9kYWxEaWFsb2coJy9kaWFsb2dzL3BhZ2VfaGlzdG9yeS5hc3B4P2M9ZW4tR0ImcGc9MTI2Jyw3MjAsNTAwKTtyZXR1cm4gZmFsc2U7HwJoZGQCEw9kFggCAw9kFhQCDw9kFgICAg9kFggCAw8QZGQWAWZkAgUPEGRkFgFmZAIHDxBkZBYBZmQCCw9kFgQCAQ8QZGQWAWZkAgMPEGRkFgFmZAIZD2QWAgICD2QWAgIFDxBkZBYAZAIbD2QWAgICD2QWAgIBDxBkZBYAZAIdD2QWAmYPZBYCAgMPZBYCAgEPZBYEZg9kFgICAw8PFgIfAAUZKEZMViwgTVAzLCBKUEcsIEdJRiwgUE5HKWRkAgEPZBYCAgcPEGRkFgFmZAIfD2QWAmYPZBYCAgMPZBYCZg9kFgJmD2QWAgIDDxBkZBYAZAInDxBkZBYBZmQCYQ88KwANAGQCbQ9kFgYCAQ8QZGQWAWZkAgMPEGRkFgFmZAIFDxBkZBYBZmQCdQ9kFgYCAQ8QZGQWAWZkAgMPEGRkFgFmZAIFDxBkZBYBZmQCgQEPZBYCZg9kFgICAw9kFgICAw8QZGQWAWZkAgsPZBYGAgUPPCsACQEADxYCHg1OZXZlckV4cGFuZGVkZ2RkAgkPPCsACQEADxYCHwZnZGQCDQ88KwAJAQAPFgIfBmdkZAIND2QWAgIHDxBkZBYAZAIPD2QWBAIBDxBkZBYBZmQCAw8QZGQWAWZkAhUPFgIfAGVkAhcPZBYGAgEPDxYCHwJoZGQCAw8PFgIfAmhkZAINDw9kFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZAIZD2QWAgIDD2QWAgIBDzwrAA0AZBgDBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUcY3RsMDAkVG9wTWVudWwxJEltYWdlQnV0dG9uMQUhY3RsMDAkcGxhY2Vob2xkZXJCb2R5JGdyaWRNb2R1bGVzDzwrAAoCBhUBC21vZHVsZV9maWxlCAL/////D2QFIWN0bDAwJHBsYWNlaG9sZGVyQm9keSRncmlkT3B0aW9ucw88KwAKAgYVAQlvcHRpb25faWQIAv////8PZA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4OTUyODUyNjMPZBYCZg9kFgICAw9kFggCAQ9kFgICBQ8QZA8WHgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQAhECEgITAhQCFQIWAhcCGAIZAhoCGwIcAh0CHhYeEAUHQSBMZXZlbAULYWxldmVsLmFzcHhnEAUMQWNjZXNzIHRvIEhFBQthY2Nlc3MuYXNweGcQBQtBbmltYWwgQ2FyZQUPYW5pbWFsY2FyZS5hc3B4ZxAFFkFydCAsIERlc2lnbiBhbmQgTWVkaWEFE2FydGRlc2lnbm1lZGlhLmFzcHhnEAUdQmVhdXR5IGFuZCBIb2xpc3RpYyBUaGVyYXBpZXMFC2JlYXV0eS5hc3B4ZxAFCEJ1c2luZXNzBRdidXNpbmVzc2RlcGFydG1lbnQuYXNweGcQBRhDYXRlcmluZyBhbmQgSG9zcGl0YWxpdHkFF2NhdGVyaW5nZGVwYXJ0bWVudC5hc3B4ZxAFEUNoaWxkaG9vZCBTdHVkaWVzBRVjaGlsZGhvb2RzdHVkaWVzLmFzcHhnEAUQQ29tcHV0aW5nIGFuZCBJVAUISUNULmFzcHhnEAUMQ29uc3RydWN0aW9uBRFjb25zdHJ1Y3Rpb24uYXNweGcQBQVEYW5jZQUKZGFuY2UuYXNweGcQBQdEaXBsb21hBQxkaXBsb21hLmFzcHhnEAUHRW5nbGlzaAUMZW5nbGlzaC5hc3B4ZxAFCkVudGVycHJpc2UFD2VudGVycHJpc2UuYXNweGcQBQVHQ1NFcwUJZ2NzZS5hc3B4ZxAFDEhhaXJkcmVzc2luZwURaGFpcmRyZXNzaW5nLmFzcHhnEAUWSGVhbHRoIGFuZCBTb2NpYWwgQ2FyZQUYaGVhbHRoYW5kc29jaWFsY2FyZS5hc3B4ZxAFEEhpZ2hlciBFZHVjYXRpb24FC2hpZ2hlci5hc3B4ZxAFCUxhbmd1YWdlcwUObGFuZ3VhZ2VzLmFzcHhnEAUPTGVpc3VyZSBDb3Vyc2VzBRRsZWlzdXJlIGNvdXJzZXMuYXNweGcQBRxNYW5hZ2VtZW50IGFuZCAgUHJvZmVzc2lvbmFsBQ9tYW5hZ2VtZW50LmFzcHhnEAUNTW90b3IgVmVoaWNsZQURbW90b3J2ZWhpY2xlLmFzcHhnEAUPUGVyZm9ybWluZyBBcnRzBRNwZXJmb3JtaW5nYXJ0cy5hc3B4ZxAFD1B1YmxpYyBTZXJ2aWNlcwUTcHVibGljc2VydmljZXMuYXNweGcQBQdTY2llbmNlBQxzY2llbmNlLmFzcHhnEAUPU2tpbGxzIGZvciBMaWZlBRBza2lsbHM0bGlmZS5hc3B4ZxAFBVNwb3J0BQpzcG9ydC5hc3B4ZxAFEVN1cHBvcnRlZCBTdHVkaWVzBQ5zdXBwb3J0ZWQuYXNweGcQBRBUZWFjaGVyIFRyYWluaW5nBRR0ZWFjaGVydHJhaW5pbmcuYXNweGcQBRJUcmF2ZWwgYW5kIFRvdXJpc20FC3RyYXZlbC5hc3B4Z2RkAgMPZBYCAgEPFgQeBFRleHQFHjxoMSBjbGFzcz0idGl0bGUiPlByaXZhY3k8L2gxPh4HVmlzaWJsZWhkAgUPZBYEZg8PFgIeCEltYWdlVXJsBSF+L2ltYWdlcy9wcm9zcGVjdGl2ZS1sZWFybmVycy5naWZkZAIBDxYCHwAFiwM8YSBocmVmPSJwcml2YWN5LmFzcHgiIHN0eWxlPSJib3JkZXItdG9wOm5vbmUiIGNsYXNzPSJsZWZ0LWJ0biI+UHJpdmFjeTwvYT48YSBocmVmPSJzaXRlbWFwLmFzcHgiIHN0eWxlPSJib3JkZXItdG9wOm5vbmUiIGNsYXNzPSJsZWZ0LWJ0biI+U2l0ZW1hcDwvYT48YSBocmVmPSJyZWdpc3RlcjMuYXNweCIgc3R5bGU9ImJvcmRlci10b3A6bm9uZSIgY2xhc3M9ImxlZnQtYnRuIj5SZWdpc3RlciBTdGFnZSAzPC9hPjxhIGhyZWY9InlvdXJhY2FkZW1pZXMuYXNweCIgc3R5bGU9ImJvcmRlci10b3A6bm9uZSIgY2xhc3M9ImxlZnQtYnRuIj5Zb3VyIEFjYWRlbWllczwvYT48YSBocmVmPSJ0ZXJtcy5hc3B4IiBzdHlsZT0iYm9yZGVyLXRvcDpub25lIiBjbGFzcz0ibGVmdC1idG4iPlRlcm1zPC9hPmQCCQ9kFgwCAw8WAh8AZWQCBw8PFgIfAWhkFgoCAw8WAh8BaBYMAgEPDxYCHwFoZGQCAw8PFgIfAWhkZAIFDw8WAh8BaGRkAgcPDxYCHwFoZGQCCQ8PFgIfAWhkZAILDw8WBh8CBR1zeXN0ZW1zL2ltYWdlcy9idG5QdWJsaXNoLmdpZh4NQWx0ZXJuYXRlVGV4dAUHUHVibGlzaB8BaGRkAgUPZBYIAgUPDxYCHwFoZGQCBw8PFgIfAWhkZAIJDw8WAh8BaGQWAgIFDw8WAh4LTmF2aWdhdGVVcmwFDWFwcHJvdmFsLmFzcHhkZAILDw8WAh8BaGQWAgIFDw8WAh8EBQ1hcHByb3ZhbC5hc3B4ZGQCBw9kFgQCAw8PFgIfAAUHR2VuZXJhbGRkAgUPDxYCHwFoZGQCCQ9kFgICAQ8PFgIfAWhkZAILD2QWAgIBDw8WBB4NT25DbGllbnRDbGljawVObW9kYWxEaWFsb2coJy9kaWFsb2dzL3BhZ2VfaGlzdG9yeS5hc3B4P2M9ZW4tR0ImcGc9MTI2Jyw3MjAsNTAwKTtyZXR1cm4gZmFsc2U7HwFoZGQCEw9kFggCAw9kFhQCDw9kFgICAg9kFggCAw8QZGQWAWZkAgUPEGRkFgFmZAIHDxBkZBYBZmQCCw9kFgQCAQ8QZGQWAWZkAgMPEGRkFgFmZAIZD2QWAgICD2QWAgIFDxBkZBYAZAIbD2QWAgICD2QWAgIBDxBkZBYAZAIdD2QWAmYPZBYCAgMPZBYCAgEPZBYEZg9kFgICAw8PFgIfAAUZKEZMViwgTVAzLCBKUEcsIEdJRiwgUE5HKWRkAgEPZBYCAgcPEGRkFgFmZAIfD2QWAmYPZBYCAgMPZBYCZg9kFgJmD2QWAgIDDxBkZBYAZAInDxBkZBYBZmQCYQ88KwANAGQCbQ9kFgYCAQ8QZGQWAWZkAgMPEGRkFgFmZAIFDxBkZBYBZmQCdQ9kFgYCAQ8QZGQWAWZkAgMPEGRkFgFmZAIFDxBkZBYBZmQCgQEPZBYCZg9kFgICAw9kFgICAw8QZGQWAWZkAgsPZBYGAgUPPCsACQEADxYCHg1OZXZlckV4cGFuZGVkZ2RkAgkPPCsACQEADxYCHwZnZGQCDQ88KwAJAQAPFgIfBmdkZAIND2QWAgIHDxBkZBYAZAIPD2QWBAIBDxBkZBYBZmQCAw8QZGQWAWZkAhUPFgIfAGVkAhcPZBYGAgEPDxYCHwFoZGQCAw8PFgIfAWhkZAINDw9kFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZAIZD2QWAgIDD2QWAgIBDzwrAA0AZBgCBSFjdGwwMCRwbGFjZWhvbGRlckJvZHkkZ3JpZE1vZHVsZXMPPCsACgIGFQELbW9kdWxlX2ZpbGUIAv////8PZAUhY3RsMDAkcGxhY2Vob2xkZXJCb2R5JGdyaWRPcHRpb25zDzwrAAoCBhUBCW9wdGlvbl9pZAgC/////w9k">
 </form>
-
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-
-    <script type="text/javascript">        _uacct = "UA-1344812-3"; urchinTracker();</script>
-
-
 
 </body></html>
