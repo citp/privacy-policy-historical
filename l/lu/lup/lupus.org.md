@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221125601id_/http%3A//www.lupus.org/webmodules/webarticlesnet/templates/new_empty.aspx%3Farticleid%3D283%26zoneid%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624063352id_/http%3A//www.lupus.org/webmodules/webarticlesnet/templates/new_empty.aspx%3Farticleid%3D283%26zoneid%3D76) for the most accurate reproduction.*
 
-# LUPUS FOUNDATION OF AMERICA - Privacy
+# LUPUS FOUNDATION OF AMERICA
 
 ## Privacy
 
@@ -20,7 +20,7 @@ When you order products or services from our online store, subscribe to our mag
 
 The LFA periodically exchanges only the names and mailing addresses (not email addresses) of our donors, subscribers, and store customers with other organizations. We do not provide information about the amount donated or its purpose, or the products or publications that you purchased from us or one of our cause-related marketing partners. You may request that we not sell or exchange your name and mailing information by sending an email message to [info@lupus.org ](mailto:info@lupus.org)that includes your full name, mailing address and a request that we not exchange your information with other organizations. 
 
-You may receive periodic mailings from the Lupus Foundation of America via the U.S. mail. If you do not wish to receive such mailings, please send your full name and mailing address, along with a request to be removed from our mail list, to [info@lupus.org](mailto:info@lupus.org), or you can write to us at LFA, 2000 L Street, N.W., Suite 710, Washington , DC 20036 - USA. 
+You may receive periodic mailings from the Lupus Foundation of America via the U.S. mail. If you do not wish to receive such mailings, please send your full name and mailing address, along with a request to be removed from our mail list, to [info@lupus.org](mailto:info@lupus.org), or you can write to us at LFA, 2000 L Street, N.W., Suite 410, Washington , DC 20036 - USA. 
 
 When you use the "Email This Article to A Friend" function available in the articles posted on the LFA website, your email address is used only to let the recipient know who sent the link to the article, and in case of a transmission error. Your address and the recipient's address are not recorded and will not be used for any other purpose. 
 
