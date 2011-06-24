@@ -1,64 +1,139 @@
-> *The following text is extracted and transformed from the foofighters.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402171854id_/http%3A//www.foofighters.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foofighters.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624060326id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Foo Fighters - Privacy Policy
+# SONY MUSIC ENTERTAINMENT PRIVACY POLICY | Sony Music Entertainment
 
-## FOO FIGHTERS ONLINE PRIVACY POLICY
+[](http://privacy-policy.truste.com/click-with-confidence/wps/en/www.sonymusic.com/seal_m)
 
-Foo Fighters understands the privacy concerns of visitors to our Internet website ("Site"). We have created this privacy statement to explain what information we collect from your visit to our Site, how that information is used, and the choices you have regarding the collection and use of such information.  
-**  
-Use of Certain Information**
+Sony Music Entertainment ("Sony Music") and the information collected on this site may be used in the manner described below by Sony Music, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf.
 
-As a general practice, we do not automatically collect personally identifiable information (such as your name, mailing address or e-mail address) from your visit to our Site. We only gather personal information from visitors to our Site if that information is voluntarily submitted. However, certain non-personal information (such as the type of browser and operating system being used, and your IP address) is recorded by our servers when you visit our Site. This information is collected so we can provide you with a more personalized interactive experience on our Site.
+When this Privacy Policy uses the term "personal information," we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
 
-Depending on the activities on the Site in which you choose to participate, we may request that you provide us with certain information about yourself in order to participate in those activities. Our registration forms and surveys may request that you give us contact information (such as your name, mailing address and e-mail address), demographic information (such as your age and gender) and profile data (such as your preferences in entertainment). This information may be used by us and may be shared with our affiliates, subsidiaries and promotional partners for marketing and promotional purposes. On occasion, we may use your contact information to send you information about our products and services, and about us and what we're doing. You may always opt-out of receiving future mailings; see the Opt-Out Election section below. We will not sell or lease your personally identifiable information to third parties, and will not use your personally identifiable information in any way other than as provided in this privacy statement 
+Sony Music is a member of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Sony Music wants to demonstrate its commitment to your privacy, it has agreed to disclose its data collection and privacy practices to TRUSTe for compliance review. We encourage you to review the entire policy. Please click on any of the links below to review that particular section.
 
-If you request information, products or services through the Site, we may use order forms to collect contact information (such as your name, mailing address and e-mail address) and, when appropriate, financial information (such as your credit card number), to process your request. Contact information from an order form may be used to get in touch with you when necessary regarding your order. Any financial information collected to process your request will not be shared with third parties who are not involved with the transaction. When credit card information is transmitted, we use industry standard SSL (secure socket layer) encryption.  
-We will disclose information gathered from the Site when required by law or upon the request of a law enforcement agency. We may also disclose user information in cases when we have reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with our rights or property, other Foo Fighters Site users, or anyone else that could be harmed by such activities.
+* * *
 
-**Use of Cookies and IP Addresses**
+Collection and Use of Personal Information
 
-Cookies are files containing information about a user that a website transfers to a user's hard drive. We use cookies to enhance the user's experience on our Site by, among other things, saving user passwords and preferences. The cookies we place on a user's hard drive are used only in connection with our Site and do not contain personal information unless the user provides that information to us. If you do not want websites to be able to store cookies on your hard drive, you can reset your browser to refuse all cookies or to alert you when a cookie is being sent. However, disabling the use of cookies may affect the proper functioning of the site or may slow down the site considerably.
+  
+  
+  
+  
+  
+  
+  
+  
 
-An IP address is a number that is assigned to your computer by your Internet service provider when you are surfing the Web. When you access our Site, our servers log your IP address. We collect and use IP addresses to gather information on the use of our Site, analyze trends, administer the Site, and to aggregate demographic information. We do not link IP addresses to personally identifiable information. 
 
-**Chat Areas and Bulletin Boards**
+* * *
 
-Users of our Site are solely responsible for the content of messages they post on our Site, such as in any chat rooms or bulletin boards which may be supported by the Site. Users should be aware that when they voluntarily disclose personal information on bulletin boards or in chat areas, that information can be collected and used by others and may result in unsolicited contacts from other people.
+**Collection and Use of Personal Information**
 
-Each user who wishes to participate in any chat room or bulletin board which may be supported on this site must provide an e-mail address in addition to the user's screen name. Your participation in these features gives consent to having your email address included in our mailing list. In order to send a so-called "postcard," the sending user must provide the sender's screen name and e-mail address and the recipient's name and e-mail address in addition to the sender's message. We request those e-mail addresses in order to protect the security and integrity of the Site, including taking action against users who post inappropriate material or harass other users.
+We may collect the following personal information from you:
 
-**Links to Other Sites**
+  * Contact information such as name, email address, street address, and phone number
+  * Billing information such as credit card number and billing address
+  * Demographic information such as age, gender, interests, country and zip code
+  * Unique identifiers such as user name and password
+  * Preference and other information such as product wish lists, order history, marketing preferences and cell phone carrier
 
-This Site is linked to websites operated by other companies. We are not responsible for the content or privacy practices of such other sites, and we recommend that you read the privacy statements of each website that you link to through us. This privacy statement applies only to the information collected by this Site.
+
+
+We or one of our trusted partners may use this information to:
+
+  * Send you requested updates and newsletters about an artist, type of music or related special offers
+  * Send you requested product or service information
+  * Send a one-time email or e-card to your friends upon your request when you provide their email address
+  * Fulfill your order
+  * Send you an order confirmation
+  * Respond to customer service requests, questions and concerns
+  * Administer your account
+  * Process information submitted with a job application
+  * Send you marketing communications
+  * Administer promotions and sweepstakes you enter and notify you of the results
+  * Improve our marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
+
+
+
+We also automatically collect information about your computer as you browse our site(s). Please see the Tracking Technologies section of this Privacy Policy.
+
+**Social Networks/Online Communities**
+
+We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. We may also enable you to post content from some of our sites to your profile on other social networks. You can access these services from our sites using Facebook Connect, Twitter, or other Open ID providers. These services will authenticate your identity and allow you to post and share certain personal or other information with that site. Please be aware that the privacy policy of that site will apply to any content you provide them in these instances. We do not allow these services to provide any personal information or content back to our sites or your profile with us unless you agree.
+
+**Transactions**
+
+You may purchase artists' music or merchandise from some of our site(s). We use the personal information you provide in connection with a purchase to process and fulfill your order. This Privacy Policy applies to any such purchases. In some instances, you may be directed to a third party site to initiate your transaction. These third party sites will be clearly identified and link to their own privacy policies so you know which company is collecting your personal information. You should refer to those policies for any privacy-related concerns regarding your purchase with them.
+
+**Information Sharing**
+
+We will share your personal information with third parties in the ways that are described in this Privacy Policy.
+
+We may provide your personal information to companies that help us with our business activities such as processing credit card transactions, shipping your order, assisting us in site operations, providing customer service and delivering email newsletters. These companies are authorized to use your personal information only as necessary to provide these services.
+
+We may also share your personal information:
+
+  * With Sony Music affiliates and representatives of our current recording artists
+  * With reputable third parties in whose products or services we think you may have an interest, with your prior consent to do so
+  * With representatives of former recording artists, who will be advised in advance that your consent is required for continued use
+  * As required by law, such as to comply with a subpoena or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request
+  * In connection with a corporate change including a merger, acquisition or sale of assets
+  * To any other third party with your prior consent to do so
+
+
+
+**Choice/Opt-Out**
+
+You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some sites also allow you to change your email preferences within your online profile.
+
+If you choose to join a mobile marketing list, please be aware that there are usually costs associated with receiving SMS (text) or MMS (multimedia) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply before signing up to receive our updates via your mobile phone. If you would like to stop receiving messages from us on your mobile phone, please reply to the message with "STOP." You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
+
+**Tracking Technologies**
+
+We automatically collect information as you browse our site(s) such as the domain name, Internet Service Provider, browser type and version, operating system and device type, average time spent on our site(s), pages viewed, information accessed, the Internet Protocol (IP) address used to connect your computer to the Internet and other relevant statistics. Such information is sometimes referred to as web analytics and/or clickstream data.
+
+We and our third party partners may use cookies and/or pixel tags to keep track of your visits, preferences and profile information. These may be used to enhance your experience on the site(s) including allowing you to remain logged in on the site(s). Cookies and pixel tags may also be used to collect general usage and aggregated statistical information that does not identify you personally. However, we and our third party partners may use cookies to store some of your preferences (including limited personal information) or to display content based upon what you view on our site(s) in order to personalize your visit with relevant advertising. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
+
+We and some of our third party partners use Flash cookies to store some of your preferences or personal information. For more information on Flash cookies and how to manage privacy and storage settings [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 **Security**
 
-The security of your personal information is very important to us. We strive to ensure the security of the information that you submit to us, and we have implemented various procedures to safeguard your personal information. Among other things, we use encryption software to protect the transmission of credit card information, and we require agents and contractors related to our Site to comply with our online privacy policy. However, data transmission over the Internet cannot be guaranteed to be 100% secure. As a result, we cannot guarantee or warrant the security of any information you transmit to us or that is transmitted to you, and you do so at your own risk. 
+The security of your personal information is important to us. When you enter sensitive billing information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-**Information for Parents Concerning Privacy**
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after receipt. However, no method of transmission over the Internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
 
-We do not knowingly collect, use or retain any personal information, for any purpose whatsoever (including internal or external marketing or promotional purposes) from visitors to the Site who are under the age of 13. In addition, we will delete any records of such personal information that come to our attention. We do not allow children under the age of 13 to provide personal information, to receive direct e-mail or marketing communications from Foo Fighters or from our third party affiliates or licensees, to participate in the chat rooms or bulletin boards which may be supported by the Site, or to register for contests, sweepstakes, promotions, or newsletters. If you believe your child has provided us with personal information at the Site, or if you believe your child has received inappropriate access to email or marketing communications, we invite you to notify us at the web contact listed below so we may delete the information from our records and discontinue any related features or services (see the Opt-Out Election section below).   
-**  
-Correcting and Updating Personal Information**
+**Updating Your Personal Information**
 
-If you would like to review the personal information that we have collected about you online, or if you wish to correct such personal information, or if your personal information changes and you would like us to update our records, please send your request along with your name, street address and e-mail address to us at the following address:
+Our sites may offer different methods for updating your personal information. To review and update your personal information on artist marketing sites, please log in to your profile/account on each site where you have registered.
 
-**webmaster@foofighters.com**
+To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
 
-To protect your privacy and security, we will take reasonable steps to verify your identity before releasing any personal information or making any corrections. Information provided by you via general inquiries to the above address is used only to respond to your inquiries and is not shared with outside parties.
+**Additional Information**
 
-**Opt-Out Election**
+Widgets - Our site(s) may include interactive mini-programs that provide specific services from another company (e.g., displaying digital news feeds), often referred to as widgets. You may have the opportunity to submit personal information, such as your email address, for collection through a widget. Browser or Flash cookies may also be set by a widget to enable it to function properly. Information collected by a widget is governed by the privacy policy of the company that created it.
 
-When we request information from you on our Site, we may provide you with the opportunity to elect to receive future Foo Fighters related communications from Foo Fighters, FooFighters.com, and BMG Music/RCA Music Group. You may at any time elect not to receive future communications from us, and when you do so your name will be removed from any list of those wishing to receive future communications from us. You may make such election not to receive communications from us by either following the removal instructions on the communication you received from us or by contacting us at webmaster@foofighters.com stating that you want to be removed from the communications list and attaching a copy of the unwanted communication. Foo Fighters, FooFighters.com, BMG Music/RCA Music Group will never use your information for purposes other than informing you of Foo Fighters related news, events or special offers. The mailing list will never be sold, traded, or used otherwise for any other purpose. 
+Links to Other Site(s) - Our site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
 
-**Contact Us**
+Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://www.sonymusic.com/about/feedback.php) immediately and this information will be removed.
 
-If you have any questions about this privacy statement or our privacy practices or this Site, please contact:
+For more information on how to protect your children online:
 
-**webmaster@foofighters.com**
+**Visit  [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/topics/social-networking-sites.aspx)[](http://www.onguardonline.gov/topics/social-networking-sites.aspx) and [youth](http://www.onguardonline.gov/topics/safety-tips-tweens-teens.aspx).**
 
-Information provided by you via general inquiries to the above address is used only to respond to your inquiries and is not shared with outside parties.
+**Changes To This Policy**
 
-**Your Acceptance of These Terms**
+By using our site(s), you agree to the terms of this Privacy Policy. We may amend this Privacy Policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will send an email to users who have provided an email address or post a notice on our site(s) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Your use of our Site signifies your acceptance of our privacy policies. Please do not use our Site if you do not accept our privacy policies. As we may change or update our privacy policies at any time, please review this statement from time to time. Your continued use of this Site following any changes to our privacy policies posted in this statement indicates your consent to those changes.
+**Questions About This Privacy Policy**
+
+If you have questions or concerns regarding this Privacy Policy, you should first contact Sony Music. You can contact us about this Privacy Policy by writing us:
+
+Sony Music Entertainment   
+550 Madison Avenue, Room 2356   
+New York, NY 10022
+
+Or you can [click here](http://www.sonymusic.com/about/feedback.php) to submit feedback online
+
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe by [clicking here](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
