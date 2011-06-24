@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pics24h.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229012501id_/http%3A//www.pics24h.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pics24h.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624211927id_/http%3A//www.pics24h.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pics24h
 
-Browse >
-
-[Home](http://www.pics24h.com/ "Browse to: Home") / Privacy Policy 
+You are here: [Home](http://www.pics24h.com/) / Privacy Policy
 
 **Pics24h** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
