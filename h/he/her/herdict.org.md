@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the herdict.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205131337id_/http%3A//www.herdict.org/web/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdict.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624181431id_/http%3A//www.herdict.org/privacy/en) for the most accurate reproduction.*
 
 # HerdictWeb : About
-
-Want to know when your favorite site is inaccessible? Sign up for e-mail alerts [here](https://web.archive.org/web/alert). 
 
 ## PRIVACY STATEMENT
 
