@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntingnet.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223101309id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3DHuntingNet.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntingnet.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625013047id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3DHuntingNet.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
