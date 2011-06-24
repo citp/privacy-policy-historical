@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the moviecodec.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180700id_/http%3A//www.moviecodec.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviecodec.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624211634id_/http%3A//www.moviecodec.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MovieCodec.com
 
-Identify
+For each visitor to our web page, our web server does not automatically recognize any information regarding the domain or e-mail address. 
 
-Visitors Online: 482
+This site contains links to other sites. MovieCodec.com is not responsible for the privacy practices or the content of these web sites. 
 
-| 
+For users posting on our forums: We have added the option to still receive updates when replies are made to threads while keeping your email address hidden from other users/spam spiders. If you disable hiding of your email address or post it directly in a message body, it is your own responsibility if some spam/email collecting spider grabs it as spam target. (Upon specific request we will remove your email address entirely from our forums) 
 
-For each visitor to our web page, our web server does not automatically recognize any information regarding the domain or e-mail address.
-
-This site contains links to other sites. MovieCodec.com is not responsible for the privacy practices or the content of these web sites.
-
-For users posting on our forums: We have added the option to still receive updates when replies are made to topics while keeping your email address hidden from other users/spam spiders. If you disable hiding of your email address or post it directly in a message body, it is your own responsibility if some spam/email collecting spider grabs it as spam target. (Upon specific request we will remove your email address entirely from our forums)
-
-We will never send any news mails, spam or give away any of our visitors email addresses, no matter in which way we did acquire it (posting on forums or sending email to the webmaster).
+We will never send any news mails, spam or give away any of our visitors email addresses, no matter in which way we did acquire it (posting on forums or sending email to the webmaster). 
 
 When communicating with people on our forums please keep in mind that we do not control access to our forums (apart from those people we ban). We cannot guarantee to you whether or not any specific indiviual is ie. trying to get you to install backdoor software, virus or other malicious software on your computer. Who you believe and what happens as a result is not the responsibility of MovieCodec.com
 
