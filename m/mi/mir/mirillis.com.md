@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the mirillis.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205153023id_/http%3A//mirillis.com/en/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirillis.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624153633id_/http%3A//mirillis.com/en/company/privacypolicy.html) for the most accurate reproduction.*
 
 # Mirillis - Privacy Policy
 
-Last updated: **04/06/2010**
+Last updated: **02/02/2011**
 
 _Please read this information carefully before using this website. When using this website, you acknowledge and agree to the terms of Mirillis Privacy Policy._
 
 ## What personal information is collected and when
 
 Mirillis Ltd. does not collect any personal information, this means no information such as name, address or telephone number is collected and stored online by Mirillis Ltd. E-mail contact information is collected during product purchase and forum registration process. 
+
+We use Google Analytics, Google AdWords Conversion tracker, and other Google services that place cookies on a browser across the website. These 3rd party services help us increase the website's usability for our visitors. Cookies are set and read by Google. You can opt out of Google tracking by visiting [ this ](http://www.google.com/privacy/ads/) page. 
 
 ## How we may use personal information
 
