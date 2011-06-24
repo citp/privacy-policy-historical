@@ -1,612 +1,283 @@
-<!--The following is the downloaded HTML source of the stuartslondon.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225105837id_/http%3A//www.stuartslondon.com/page.php%3FpageID%3D9) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stuartslondon.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624162133id_/http%3A//www.stuartslondon.com/privacy-policy-i11) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>Stuarts London -   Privacy and Security </title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Welcome" to="" stuarts="" london="" online="" the="" award="" winning="" fashion="" retailer="" of="" men's="" and="" womens="" clothing,="" we="" sell="" top="" brand="" shirts,="" jeans,="" shoes,="" accessories.="" brands="" including="" lacoste,="" hilfiger="" denim,="" k-swiss,="" vagabond,="" ben="" sherman,jeffery="" west,="" firetrap,="" birkenstock,="" crocs,="" fila="" vintage,="" schott="" n.y.c,="" pepe,="" stones,="" converse="" armani.="">
-<meta name="keywords" content="  Privacy and Security ">
-<link href="/styles.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/tcl">
+<meta property="fb:admins" content="100000737119857">
+<title>Privacy Policy</title>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+      <link rel="stylesheet" type="text/css" href="http://www.stuartslondon.com/media/css/styles_layout,styles_basket,styles,styles_menu,styles_zoom,jquery-lightbox.css">
+  <link rel="stylesheet" type="text/css" href="http://www.stuartslondon.com/media/css/styles_print.css" media="print">
+
+  
+  <link rel="stylesheet" type="text/css" href="http://www.stuartslondon.com/media/css/styles_thickbox,product_preview.css">
+
+  
+<meta name="vs_status_checker_version" content="1">
+<meta name="vs_status_checker" content="1">
+
+<script type="text/javascript" src="http://www.stuartslondon.com/media/js/jquery,jquery-zoom,jquery-cookie,jquery-carousel,common,product_thumbs,jquery-scrollto.js"></script>
+<script type="text/javascript" src="http://www.stuartslondon.com/media/js/filters,jquery-history.js"></script>
+<script type="text/javascript" src="http://www.stuartslondon.com/media/js/jquery-modal.js"></script>
+<script type="text/javascript" src="http://www.stuartslondon.com/media/js/thickbox.js"></script>
+    <script type="text/javascript" src="http://www.stuartslondon.com/media/js/jquery-bgiframe,jquery-superfish.js"></script>
+    <script type="text/javascript">
+    <!--
+  		// initialise plugins
+  		jQuery(function(){
+        $("ul.menu").superfish().find('div.menu-dropdown').bgIframe({ opacity: true });
+  		});
+    -->
+  	</script>
+    <script type="text/javascript">
+<!--
+var addthis_config = {
+  data_use_flash: false
+}
+-->
 </script>
-<script type="text/javascript">
-_uacct = "UA-2066067-1";
-urchinTracker();
-</script>
-
-
-
-
-<script language="javascript">
-function viewinventory(sizeID, formname)
-{
-var theForm = document.forms[formname];
-
-var number = theForm.colordropdown.selectedIndex;
-
-document.images.prodimage.src = theForm.colorimagesdropdown.options[theForm.colordropdown.selectedIndex].value;
-
-
-if(sizeID != 0)
-{
-/*
-parent.sizematrix.location.href = '/sizematrix.php?prodID=&colorID=' + theForm.colordropdown.options[number].value;
-*/
-}
-else if(theForm.colorinventorydropdown.options[theForm.colordropdown.selectedIndex].value == 0)
-{
-alert('The product is currently out of stock in this color.');
-}
-
-}
-
-
-function addtobag(formname)
-{
-
-//alert("hiii");
-	if(document.getElementById('inpval').value==0)
-	{
-		alert("This item is out of stock, please call  0208 735 1801 for stock information");
-		return false;
-	}
-var theForm = document.forms[formname];
-
-if(theForm.checkcolor.value == 'true'){
-
-var number = theForm.colordropdown.selectedIndex;
-}
-
-if(theForm.prodQuanity.value < 1 || theForm.prodQuanity.value > 99)
-{
-alert('Please enter a valid number in the quantity field.');
-return;
-}
-
-
-if(theForm.checksize.value == 'true'){
-if(theForm.sizeID.value == '')
-{
-alert('Please select a size.');
-return;
-}
-}
-
-alert("An Item Is Added In Your Basket");
-
-
-if(theForm.checksize.value == 'true' && theForm.checkcolor.value == 'true'){
-
-cartheader.location.href = '/cartheader.php?prodID=&colorID=' + theForm.colordropdown.options[number].value + '&sizeID=' + theForm.sizeID.options[theForm.sizeID.selectedIndex].value  + '&prodQuanity=' + theForm.prodQuanity.value;
-
-}
-else if(theForm.checksize.value == 'false' && theForm.checkcolor.value == 'true'){
-
-cartheader.location.href = '/cartheader.php?prodID=&colorID=' + theForm.colordropdown.options[number].value + '&prodQuanity=' + theForm.prodQuanity.value;
-
-}
-else if(theForm.checksize.value == 'true' && theForm.checkcolor.value == 'false'){
-
-cartheader.location.href = '/cartheader.php?prodID=&sizeID=' + theForm.sizeID.options[theForm.sizeID.selectedIndex].value  + '&prodQuanity=' + theForm.prodQuanity.value;
-
-}
-else
-{
-cartheader.location.href = '/cartheader.php?prodID=&prodQuanity=' + theForm.prodQuanity.value;
-
-}
-
-
-
-}
-
-
-
-
-
-
-function addtobagfast(formname)
-{
-if(document.getElementById('inpval').value==0)
-	{
-		alert("This item is out of stock, please call  0208 735 1801 for stock information");
-		return false;
-	}
-var theForm = document.forms[formname];
-
-if(theForm.checkcolor.value == 'true'){
-
-var number = theForm.colordropdown.selectedIndex;
-}
-
-if(theForm.prodQuanity.value < 1 || theForm.prodQuanity.value > 99)
-{
-alert('Please enter a valid number in the quantity field.');
-return;
-}
-
-
-if(theForm.checksize.value == 'true'){
-if(theForm.sizeID.value == '')
-{
-alert('Please select a size.');
-return;
-}
-}
-
-if(theForm.checksize.value == 'true' && theForm.checkcolor.value == 'true'){
-
-location.href = '/addtocart.php?prodID=&colorID=' + theForm.colordropdown.options[number].value + '&sizeID=' + theForm.sizeID.options[theForm.sizeID.selectedIndex].value  + '&prodQuanity=' + theForm.prodQuanity.value;
-
-}
-else if(theForm.checksize.value == 'false' && theForm.checkcolor.value == 'true'){
-location.href = '/addtocart.php?prodID=&colorID=' + theForm.colordropdown.options[number].value + '&prodQuanity=' + theForm.prodQuanity.value;
-
-}
-else if(theForm.checksize.value == 'true' && theForm.checkcolor.value == 'false'){
-
-location.href = '/addtocart.php?prodID=&sizeID=' + theForm.sizeID.options[theForm.sizeID.selectedIndex].value  + '&prodQuanity=' + theForm.prodQuanity.value;
-
-}
-else
-{
-location.href = '/addtocart.php?prodID=&prodQuanity=' + theForm.prodQuanity.value;
-
-}
-
-
-
-}
-
-
-
-
-
-var timer_id;
-function scroll_iframe(frm,inc,dir) {
-  if (timer_id) clearTimeout(timer_id);
-  if (window.frames[frm]) {
-    if (dir == "v") window.frames[frm].scrollBy(0, inc);
-    else window.frames[frm].scrollBy(inc, 0);
-    timer_id = setTimeout("scroll_iframe('" + frm + "'," + inc + ",'" + dir + "')", 20);
-  }
-}
-
-function stopScroll() { if (timer_id) clearTimeout(timer_id); }
-
-function submitcart()
-{
-  document.form.checkout.value = "true" ;
-  document.form.submit() ;
-}
-
-
-function disablebilling()
-{
-if(document.form.billingissame.checked)
-{
-document.form.custBillingFirstName.blur()
-document.form.custBillingFirstName.disabled=true
-document.form.custBillingLastName.blur()
-document.form.custBillingLastName.disabled=true
-document.form.custBillingAddress1.blur()
-document.form.custBillingAddress1.disabled=true
-document.form.custBillingAddress2.blur()
-document.form.custBillingAddress2.disabled=true
-document.form.custBillingCity.blur()
-document.form.custBillingCity.disabled=true
-document.form.custBillingProvince.blur()
-document.form.custBillingProvince.disabled=true
-document.form.custBillingPostalCode.blur()
-document.form.custBillingPostalCode.disabled=true
-document.form.custBillingPhone.blur()
-document.form.custBillingPhone.disabled=true
-changecss('.billingasterix','visibility','hidden');
-}
-else
-{
-document.form.custBillingFirstName.disabled=false
-document.form.custBillingLastName.disabled=false
-document.form.custBillingAddress1.disabled=false
-document.form.custBillingAddress2.disabled=false
-document.form.custBillingCity.disabled=false
-document.form.custBillingProvince.disabled=false
-document.form.custBillingPostalCode.disabled=false
-document.form.custBillingPhone.disabled=false
-changecss('.billingasterix','visibility','visible');
-}
-}
-
-function changecss(theclass,element,value) {
-//documentation for this script at http://www.shawnolson.net/a/503/
-var cssRules;
-if (document.all) {
-cssRules = 'rules';
-}
-else if (document.getElementById) {
-cssRules = 'cssRules';
-}
-for (var S = 0; S < document.styleSheets.length; S++){
-for (var R = 0; R < document.styleSheets[S][cssRules].length; R++) {
-if (document.styleSheets[S][cssRules][R].selectorText == theclass) {
-document.styleSheets[S][cssRules][R].style[element] = value;
-}
-}
-}
-}
-
-
-
-
-
-
-function clearemail(thisfield) {
-thisfield.value = "";
-}
-
-
-
-
-
-
-
-
-
-
-
-current = 0;
-function next() {
-if (document.productimages.imageslist[current+1]) {
-document.images.prodimage.src = document.productimages.imageslist[current+1].value;
-document.productimages.imageslist.selectedIndex = ++current;
-   }
-else first();
-}
-function previous() {
-if (current-1 >= 0) {
-document.images.prodimage.src = document.productimages.imageslist[current-1].value;
-document.productimages.imageslist.selectedIndex = --current;
-   }
-else last();
-}
-function first() {
-current = 0;
-document.images.prodimage.src = document.productimages.imageslist[0].value;
-document.productimages.imageslist.selectedIndex = 0;
-}
-function last() {
-current = document.productimages.imageslist.length-1;
-document.images.prodimage.src = document.productimages.imageslist[current].value;
-document.productimages.imageslist.selectedIndex = current;
-}
-
-function clearsearch(thisfield) {
-if (thisfield.value != '') {
-thisfield.value = "";
-}
-}
-
-function fillbilling()
-{
-if(document.form.billingissame.checked)
-{
-document.form.custBillingFirstName.value = document.form.custFirstName.value;
-document.form.custBillingLastName.value = document.form.custLastName.value;
-document.form.custBillingAddress1.value = document.form.custAddress1.value;
-document.form.custBillingAddress2.value = document.form.custAddress2.value;
-document.form.custBillingCity.value = document.form.custCity.value;
-document.form.custBillingProvince.value = document.form.custProvince.value;
-document.form.custBillingPostalCode.value = document.form.custPostalCode.value;
-document.form.custBillingPhone.value = document.form.custPhone.value;
-}
-else
-{
-document.form.custBillingFirstName.value='';
-document.form.custBillingLastName.value='';
-document.form.custBillingAddress1.value='';
-document.form.custBillingAddress2.value='';
-document.form.custBillingCity.value='';
-document.form.custBillingProvince.value='';
-document.form.custBillingPostalCode.value='';
-document.form.custBillingPhone.value='';
-}
-}
-
-
-function checkforswitch(formname)
-{
-var theForm = document.forms[formname];
-if(theForm.CardType.options[theForm.CardType.selectedIndex].value == 'SWITCH' || theForm.CardType.options[theForm.CardType.selectedIndex].value == 'SOLO')
-{
-document.getElementById("issuenumberdiv").style.display = "block";
-document.getElementById("startdatediv").style.display = "block";
-return;
-}
-else
-{
-document.getElementById("issuenumberdiv").style.display = "none";
-document.getElementById("startdatediv").style.display = "none";
-
-}
-
-if(theForm.CardType.options[theForm.CardType.selectedIndex].value == 'AMEX')
-{
-document.getElementById("startdatediv").style.display = "block";
-return;
-}
-else
-{
-document.getElementById("startdatediv").style.display = "none";
-return;
-
-}
-
-
-}
-
-
-</script>
- <script type="text/javascript" language="JavaScript">
-
-NumberOfImagesToRotate = 2;
-
-
-FirstPart = '<img src="http://www.stuartslondon.com/images/mensicon';
-LastPart = '.jpg" height="197" width="181" border="0">';
-
-FirstPart2 = '<img src="http://www.stuartslondon.com/images/womensicon';
-LastPart2 = '.jpg" height="197" width="181" border="0">';
-
-FirstPart3 = '<img src="http://www.stuartslondon.com/images/shoeicon';
-LastPart3 = '.jpg" height="197" width="182" border="0">';
-
-function printImage() {
-var r = Math.ceil(Math.random() * NumberOfImagesToRotate);
-document.write(FirstPart + r + LastPart);
-}
-
-function printImage2() {
-var r = Math.ceil(Math.random() * NumberOfImagesToRotate);
-document.write(FirstPart2 + r + LastPart2);
-}
-
-function printImage3() {
-var r = Math.ceil(Math.random() * NumberOfImagesToRotate);
-document.write(FirstPart3 + r + LastPart3);
-}
-//-->
-</script>
-
-
+  <meta name="keywords" content="Stuart London, designer clothing, designer clothes, men&amp;#039;s designer clothing, men&amp;#039;s designer clothes, mens designer clothing, mens designer clothes, buy, online">
+  
+  <meta name="description" content="Looking for Designer Clothing? Stuarts London features a fantastic range of Designer clothing from top Brands. Visit Stuart London online today!">
+  
+  <link rel="alternate" type="application/rss+xml" href="http://www.stuartslondon.com//rss/latest_products/en">
+  <script type="text/javascript" src="http://www.stuartslondon.com/media/js/product_preview.js"></script>
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" href="http://www.stuartslondon.com/favicon.png">
 
 </head>
-<body onload="">
-<script language="JavaScript" src="http://www.sayutracking.co.uk/landing.js?client_id=3790">
-</script>
-<noscript>
-<img height=1 width=1 border=0 src="http://www.sayutracking.co.uk/landing.js?js=0&client_id=3790">
-</noscript>
-<table width="799" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td align="left" style="background: url(/images/bg.jpg)"><div class="header">
-      <div class="shoppingcartheaderlinksright"><font color="#CC0000"><span style="font-size:1.2em; font-weight:bold;">Tel Orders: 0208 735 1801</span> Mon-Sat 10am - 6pm</font>
-        <iframe name="cartheader" height="18" width="400" frameborder="0" src="/cartheader.php"></iframe></div>
-      <div class="headerimage">
-        
-        <div align="left">
-				
-            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="371" height="111">
-              <param name="movie" value="http://www.stuartslondon.com/new-promo5.swf">
-              <param name="quality" value="high">
-              <embed src="http://www.stuartslondon.com/new-promo5.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="371" height="111">
-            </object>
-			
-				
-			         </div>
-      </div>
-	 
-	  <div class="searchbox"><form action="/search.php" method="get"><div class="searchsubmitcontainer"><img src="/images/search.gif"></div><div class="searchfeildcontainer"><input type="text" value="" name="searchQuery" class="searchQuery"></div><div class="searchsubmitcontainer"><input type="image" src="/images/searchbutton.gif"></div></form></div>
-	  
-	  </div>
-      <div class="headerdivider"><img src="/images/blank.gif" width="1" height="1" border="0" alt=""></div>
-	  <div class="menucontainer">
-		<div class="menutop">
-		
-		<div class="currenciesbox"><a href="changecurrency.php?curID="><img src="/images/flag1.gif" border="0" alt="GPB" class="currencyicon"></a> <a href="changecurrency.php?curID=1"><img src="/images/flag2.gif" border="0" alt="USD" class="currencyicon"></a> <a href="changecurrency.php?curID=2"><img src="/images/flag3.gif" border="0" alt="Euro" class="currencyicon"></a> <a href="changecurrency.php?curID=3"><img src="/images/flag4.gif" border="0" alt="Rand" class="currencyicon"></a></div>
-		
-		</div>
-		<div class="menulinkselected"><a href="/index.php">&nbsp;home</a></div>
-			<div class="menulink"><a href="/cat/Retro Fashion MENS/">&nbsp;Retro Fashion MENS</a></div><div class="menulink"><a href="/cat/Retro Sport Mens/">&nbsp;Retro Sport Mens</a></div><div class="menulink"><a href="/cat/Mens Clothing by Style/">&nbsp;Mens Clothing by Style</a></div><div class="menulink"><a href="/cat/Mens Accessories by Style/">&nbsp;Mens Accessories by Style</a></div><div class="menulink"><a href="/viewproducts/MENS GROOMING/">&nbsp;MENS GROOMING</a></div><div class="menulink"><a href="/cat/SHOE SHOP MENS/">&nbsp;SHOE SHOP MENS</a></div><div class="menulink"><a href="/viewproducts/SHOE SHOP KIDS/">&nbsp;SHOE SHOP KIDS</a></div><div class="menulink"><a href="/cat/Retro Fashion Womens/">&nbsp;Retro Fashion Womens</a></div><div class="menulink"><a href="/viewproducts/Gift Vouchers/">&nbsp;Gift Vouchers</a></div><div class="menulink"><a href="/cat/SALE MENS CLOTHING/">&nbsp;SALE MENS CLOTHING</a></div><div class="menulink"><a href="/cat/SALE  MENS SHOES/">&nbsp;SALE  MENS SHOES</a></div>
-				<div class="menumiddle"><img src="/images/menumiddlehome.jpg" width="223" height="53" border="0" alt=""><!--Begin Mailing List Signup -->
-<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" style="border: 2px solid #000000;">
-<form method="post" name="emailsubmit" action="http://business.eliteweb.cc/addemail.cgi" target="_blank"></form>
-  <tbody><tr>
-    <td height="20" align="center" style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;color: #FFFFFF;">Newsletter<br>Signup</td>
-  </tr>
-  <tr>
-    <td height="1" bgcolor="#000000"></td>
-  </tr>
-  <tr>
-    <td height="1" bgcolor="#FFFFFF"></td>
-  </tr>
-  <tr>
-    <td height="1" bgcolor="#000000"></td>
-  </tr>
-  <tr>
-    <td height="70" align="center" style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12px;font-weight: normal;color: #FFFFFF;"><b>Enter Your Email:</b>
-      <input size="17" name="email"> 
-      <input style="FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 23px" type="submit" value=" Signup " name="go"><input type="hidden" name="bid" value="ZZ/1878"><input type="hidden" name="action" value="supform"></td>
-  </tr>
-  <tr>
-    <td height="29" align="center" valign="middle" style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #FFFFFF;">Powered By<br>
-    <a href="http://www.eliteemail.com" target="_blank"><font color="#FFFFFF">Elite Email Marketing</font></a></td>
-  </tr>
 
-</tbody></table>
-<!--End Mailing List Signup -->
+<body id="body_pages">
 
-<!-- AddThis Button BEGIN --><br>
-<span style="margin-top:35px; padding-left:30px;"><a href="http://www.addthis.com/bookmark.php" onclick="addthis_url   = location.href; addthis_title = document.title; return addthis_click(this);" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="Bookmark and Share"></a> <script type="text/javascript">var addthis_config = { data_track_clickback: true } var addthis_pub = 'tomatonetwork';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script> </span> 
-<!-- AddThis Button END --><ul class="links"><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=17" class="linkitema"><font color="#FF0000">STUARTS STORE</font></a><br><span class="linkdescription">VISIT OUR STORE IN LONDON</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/ORIGINAL%20PENGUIN/" class="linkitema">20% Off Original Penguin</a><br><span class="linkdescription">Click Here for great offers on Original Penguin. Excellent Offers on all Styles.</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/BARBOUR/" class="linkitema">Barbour Heritage Collection</a><br><span class="linkdescription">Barbour heritage jackets are looking as one would expect this season - just fantastic- more new styles added from the heritage archives and the more stock just delivered on the sellout Barbour Chelsea Quilt Jacket. Click here to view Barbour</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/PRETTY%20GREEN/" class="linkitema">Pretty Green - Black Label Collection</a><br><span class="linkdescription">Liam Gallagher Label Pretty Green  - New Arrivals of  Paisley Scarves and T shirts, Merino Wool Jumpers and great shirts - Click here to view Pretty Green</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/LACOSTE%20RED/" class="linkitema">Lacoste Red - Winter 2010</a><br><span class="linkdescription">Lacoste Red is a niche collection which revisits the archive of Lacoste Heritage. A collection that is a modern classic inspired by the amazing fashion history of Lacoste.</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=272" class="linkitema">Coming Soon - Fashion  Preview</a><br><span class="linkdescription">Take a look at our coming soon section, here you can find more information on the best  of the best new arrivals before they are due to go online.</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/page.php?pageID=208" class="linkitema">Xmas - Easy Returns and Delivery dates for the festive season</a><br><span class="linkdescription">Click Here for more information on our easy returns policy for Xmas Gifts and delivery times.</span></li><li class="linkitem"><a href="http://www.stuartslondon.com/viewproducts/GABICCI%20Vintage%201973/" class="linkitema">Gabicci Vintage 1973 </a><br><span class="linkdescription">Gabicci this season lauches with luxury lambswool knitwear and new colours in fitted vintage polo shirts. Also for the first time since relaunch a fitted range of contemporary shirts with fantastic attention to detail. Click here to View Gabicci</span></li></ul><br><br><br><br></div>
-		      </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-21472601-1");
+pageTracker._trackPageview();
+pageTracker._trackPageLoadTime();
+} catch(err) {}</script>
 
-			
-    <div class="content">
-
-<div class="pageleft"><h1 class="leftpageheading">Privacy and Security</h1>
-<div class="leftpageheadingdivider"><img src="images/blank.gif" width="1" height="1" border="0" alt=""></div>
-<div class="leftpagetext"><br></div>
-</div>
-<div class="pageright"><form action="checkoutstep2.php" method="POST" name="form">
-   <div class="roundtop">
-	 <div class="leftcorner"><img src="images/ulgray.gif"></div>
-	 <div class="rightcorner"><img src="images/urgray.gif"></div>
-   </div>
- <div class="graycont">
-
-  <p><strong>Disclaimer:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stuarts london.com have the right to change prices and specifiactions without prior notice. Colours of products are as accurate as the website allows.</p>
-  <p>We thank all our suppliers for letting us use their images and Logo's&nbsp;on our website. All other images have been produced by Stuartslondon.com in house image studio.</p>
-  <p>We would also like to thank Craig David for providing a signed photo for our Stuarts retail outlet in Shepherds Bush which has used for our flash animation on our website. </p>
-  <p><strong>Protx Security Statement<br></strong>The protx payment system uses a combination of established and innovative techniques to ensure the security and integrity of all sensitive data. Our internet facing web servers are certified by Verisign, this ensures that no third parties can impersonate Protx to obtain secure information.</p>
-  <p><strong>Transaction Security<br></strong>The transfer of the less sensitive transaction details from our site to protx is encrypted and digitally-signed. This ensures that the information passed is secure and tamper-proof.</p>
-  <p><strong>Data Storage<br></strong>All data stored on protx systems is held on encrypted and highly secured databases. Protx are regularaly audited by Visa and Mastercard to ensure that their systems conform to the latest security standards.</p>
-  <p><strong>Our Commitment to Privacy<br></strong>StuartsLondon.com is totally committed to protecting the privacy and security of your personal information.<br><br>To accomplish this, we collect certain customer information that permits us to customize and enhance your on-line shopping experience and to communicate with you about our products, services, promotions and contests. We are committed to managing this information responsibly and ensuring that you are in control of your personal information and the communications you receive from us.<br><br><strong>What This Policy Covers</strong><br>This policy describes the customer information we collect and why; how we use this information and when we share it with third parties; the choices you can make about how your personal information is collected, used and shared; and the data security, accuracy and access measures we have adopted to protect customer information under our control from loss, misuse or alteration. Please be aware that our site may contain links to other sites hosted by third parties. StuartsLondon.com does not control and is thus not responsible for the content or privacy practices and policies of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.<br><br><strong>Collecting Information</strong><br>Like many websites, StuartsLondon.com collects certain personally identifiable information when you sign in on our web sites, register for on-line shopping, place an order,&nbsp; participate in a competiton, promotion or survey, or request other services that require information, registration or subscription. This information may include your name, mailing address, e-mail address and phone number, We also keep a record of your product interests and purchases on-line and automatically receive and record information on our server logs from your browser (including your IP address, StuartsLondon.com cookie information, and the page you requested).<br><br><strong>Using Information</strong><br>StuartsLondon.com uses customer information for three general purposes: to customize the advertising and content you see on our sites; to fulfill your requests for certain products and services; and to contact you about new products or services, special events and promotions. We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. StuartsLondon.com normally will not link IP addresses to personally identifiable information, but reserves the right to do so in order to identify a user when we feel this is necessary to enforce compliance with our internal policies or Terms of Use or to protect our service, site, customers or others. <br><br></p></div>
-   <div class="roundbottom">
-	 <div class="leftcorner"><img src="images/blgray.gif"></div>
-	 <div class="rightcorner"><img src="images/brgray.gif"></div>
-   </div>
-
-</form>
-
-</div>
-<p>&nbsp;</p>
-
-</div>
-      <div class="footerbar"></div>
-	  </td>
-  </tr>
-</tbody></table><p>
-</p><div align="center"><div class="footertext" align="center">
-<a href="http://www.stuartslondon.com/page.php?pageID=17" class="footerlink">Contact Us</a> | 
-<a href="http://www.stuartslondon.com/page.php?pageID=6.php" class="footerlink">Delivery</a> |
-<a href="http://www.stuartslondon.com/page.php?pageID=7.php" class="footerlink">Returns</a> |
-
-<a href="http://www.stuartslondon.com/page.php?pageID=8" class="footerlink">About Us</a> |
-<a href="http://www.stuartslondon.com/page.php?pageID=9" class="footerlink">Privacy and Security</a>
-<a href="http://www.stuartslondon.com/page.php?pageID=10.php" class="footerlink"></a> | <a href="http://www.stuartslondon.com/page.php?pageID=177" class="footerlink">Mens Fashion</a> | <a href="http://www.stuartslondon.com/page.php?pageID=11" class="footerlink">Press Area</a> | <a href="http://www.stuartslondon.com/page.php?pageID=155" class="footerlink">80s Casuals Fila Terrinda Jacket</a> | <a href="http://www.stuartslondon.com/viewproducts/FRED%20PERRY%20AUTHENTIC/" class="footerlink">Fred Perry Clothing</a> | <a href="http://www.stuartslondon.com/cat/Retro%20Fashion%20MENS/" class="footerlink">Retro Fashion</a>  | <a href="http://www.stuartslondon.com/page.php?pageID=196" class="footerlink">Lois Cords</a>
-<p>
-</p><p>
-<a href="http://www.stuartslondon.com/page.php?pageID=221" class="footerlink">Selvedge denim at stuarts london - edwin and levis vintage</a> | <a href="http://www.stuartslondon.com/viewproducts/Adidas%20Originals/" class="footerlink">Adidas Originals</a> | <a href="http://www.stuartslondon.com/viewproducts/LOIS%20JEANS/" class="footerlink">Lois Cords</a> | <a href="http://www.stuartslondon.com/viewproducts/SERGIO%20TACCHINI/" class="footerlink">Sergio Tacchini</a> |  <a href="http://www.stuartslondon.com/viewproducts/DIADORA/" class="footerlink">Diadora Borg Elite Gold</a> |  <a href="http://twitter.com/stuarts_london" class="footerlink">Follow Us on Twitter.com</a> 
-</p><p>
-© 2010 Stuartslondon.com. All Rights Reserved.
-</p></div><img src="http://www.stuartslondon.com/images/cards.gif" alt="cards"><!-- ****************************** BEGIN RES LAYER **************************************** -->
-
-<script language="JavaScript" src="/ico.js"></script>
-
-<noscript>
-</noscript>
-
-<script language="javascript" type="text/javascript">
-<!--
-	cstring = 'newresourceextranoted'; 	cdisplay = cstring.substring(16,17) + cstring.substring(17,18) + cstring.substring(0,1) + cstring.substring(19,20) ;
-	function closeResources()
-	{
-		if (document.getElementById)
-		{ // DOM3 = ie5, NS6
-			document.getElementById('resources88742').style.display = cdisplay;
-		}
-		else
-		{
-			if (document.layers)
-			{ // Netscape 4
-				document.resources88742.display = cdisplay;
-			}
-			else
-			{ // ie 4
-				document.all.resources88742.style.display = cdisplay;
-			}
-		}
-	}
-	function showResources()
-	{
-		if (document.getElementById)
-		{ // DOM3 = ie5, NS6
-			document.getElementById('resources88742').style.display = 'block';
-		}
-		else
-		{
-			if (document.layers)
-			{ // Netscape 4
-				document.resources88742.display = 'block';
-			}
-			else
-			{ // ie 4
-				document.all.resources88742.style.display = 'block';
-			}
-		}
-	}
--->
-</script>
-
-
-
-
-<a class="resource_link" href="/#resource_info" onclick="showResources();">Resources</a><div id="resources88742" class="resource_link" style="display: none;"><a name="#resource_info"></a><br><div align="left" id="resource_item1"><h1 class="resource_title"><span class="resource_title"><a class="resource_title" href="http://www.stuartslondon.com">Fila Vintage</a></span></h1><div class="resource_text">
-  <p>The 1980 was one of the most influential   years for <a href="http://www.stuartslondon.com/viewproducts/FILA%20VINTAGE-GOLD/" target="_blank"><u>Fila</u></a> . The fashion   made famous on the court by Bjorn Borg, was a phenomenon in the UK and around   the world. Borg had plenty of success on the Wimbledon courts in the 1980s and   he also worked with Fila to come up with fashion designs. One of the most famous   designs was the <a href="http://www.stuartslondon.com/viewproducts/FILA%20VINTAGE-GOLD/" target="_blank"><u>Fila Vintage   Matchday Jacket</u></a>. Although   today the re-makes do not bear the BJ logo alongside the Fila logo they are just   as popular today as back then. The Fila jackets or any part of the collection   were highly desirable items. Today such items can fetch plenty of money as any   hardcore collector would know. This <a href="http://www.stuartslondon.com" target="_blank"><u>Fila Vintage</u></a> range can be ordered through special suppliers that deal with all types   of vintage fashion clothing. The <a href="http://www.stuartslondon.com" target="_blank"><u>Fila   Vintage</u></a> Company has announced   the release of the rarest jackets of all, The Fila Terrinda, available in very   distinctive colours and they ooze coolness through every single seam. It`s not   just <a href="http://www.stuartslondon.com" target="_blank"><u>Fila Vintage</u></a> jackets that can now be purchased though because   many other desirable retro items are around. Classic Ski jackets, Vintage Fila   Shorts and Polo Tops have been a great success. The white-line collection as   have also launched <a href="http://www.stuartslondon.com/viewproducts/FILA%20VINTAGE-GOLD/" target="_blank"><u>Fila Terrinda   track bottoms</u></a>.&nbsp; These outfits   are prestigious products and are very limited in production. If Vintage fashion   is something that gets your passion for fashion bells ringing then Fila is a   must for the wardrobe. The re-make of the film the Firm, directed by Nick Love   is due to be released this autumn, and the main player is Fila Vintage   collection. <a href="http://www.stuartslondon.com/viewproducts/FILA%20VINTAGE-GOLD/" target="_blank"><u>Fila Vintage   collection</u></a> is available in   London and we proud to present the very best in the White line jackets,   tracksuit bottoms to <a href="http://www.stuartslondon.com/viewproducts/FILA%20VINTAGE-GOLD/" target="_blank"><u>Vintage   polo’s</u></a> and shorts.<br>
-    <br>
-  </p>
+<div id="parent_container">
+  <div id="header_container">
+    <div id="header_top_container">
+      <div id="header_top_logo"><p><a href="/" title="Stuarts London"><span><img src="/images/img_logo.gif" alt="Stuarts London"></span></a></p></div>
+      <div id="header_top_basket"><!--Changed id from 'right_column' back to 'header_top_basket' DM-->
+  <div class="basket_top_menu">
+  <ul>
+    <li class="account"><a name="standard" href="/login/customer/?KeepThis=true&amp;TB_iframe=true&amp;height=230&amp;width=332" title="My Account" class="thickbox ">My Account</a></li>
+    <li>|</li>
+    <li class="register"><a href="/register">Register</a></li>
+    <li>|</li>
+    <li class="wishlist"><a href="/wishlist">Wishlist</a></li>
+    <li>|</li>
+    <li class="currency">Currency:</li>
+    <li><div id="header_top_basket_currency"><ul id="currency_options">
+    <li id="currency_GBP">
+  <a href="/currency/GBP/privacy-policy-i11" name="Y" id="link_currency_GBP" rel="nofollow" title="Display our prices in British Sterling (GBP)" class="active"><img src="/images/img_pounds_on.gif" id="img_currency_active_GBP" alt="£" title=""><img src="/images/img_pounds_off.gif" id="img_currency_inactive_GBP" alt="£" style="display:none" title=""></a></li>
+    <li id="currency_USD">
+  <a href="/currency/USD/privacy-policy-i11" name="N" id="link_currency_USD" rel="nofollow" title="Display our prices in US Dollars (USD)"><img src="/images/img_dollars_on.gif" id="img_currency_active_USD" alt="$" title="" style="display:none"><img src="/images/img_dollars_off.gif" id="img_currency_inactive_USD" alt="$" title=""></a></li>
+    <li id="currency_EUR">
+  <a href="/currency/EUR/privacy-policy-i11" name="Y" id="link_currency_EUR" rel="nofollow" title="Display our prices in Euros (EUR)"><img src="/images/img_euros_on.gif" id="img_currency_active_EUR" alt="€" title="" style="display:none"><img src="/images/img_euros_off.gif" id="img_currency_inactive_EUR" alt="€" title=""></a></li>
+    <li id="currency_JPY">
+  <a href="/currency/JPY/privacy-policy-i11" name="Y" id="link_currency_JPY" rel="nofollow" title="Display our prices in Japanese Yen (JPY)"><img src="/images/img_yen_on.gif" id="img_currency_active_JPY" alt="¥" title="" style="display:none"><img src="/images/img_yen_off.gif" id="img_currency_inactive_JPY" alt="¥" title=""></a></li>
+  </ul>
+</div></li>
+  </ul>
   </div>
-</div><br><div align="left" id="resource_item2"><h1 class="resource_title"><span class="resource_title"><a href="http://www.stuartslondon.com" target="_blank"><u>Lacoste Clothing</u></a><a class="resource_title" href="http://www.stuartslondon.com/search.php?searchQuery=Barbour"></a></span></h1><div class="resource_text">
-  <p>The tennis scene has for many decades played an   important part of fashion, on the court and more importantly off the court. Rene <a href="http://www.stuartslondon.com" target="_blank"><u>Lacoste</u></a> was a   Tennis master and whilst playing some of most talked about games, the Famous   Lacoste polo shirt has maintained its excellence. <a href="http://www.stuartslondon.com" target="_blank"><u>Lacoste shirts</u></a>,   Lacoste <a href="http://www.stuartslondon.com" target="_blank"><u>jackets and knitwear</u></a> are renowned around the world. The Lacoste Croc logo is the   mark of quality and commands respect. Celebrating its 75th   anniversary Lacoste special limited edition items are available at <a href="http://stuartslondon.com" target="_blank">stuartslondon.com</a></p>
-  <p>Last year the new range of <a href="http://www.stuartslondon.com" target="_blank"><u>Lacoste Red</u></a> the   diffusion line was launched to capture some of the archive styles and   re-creating them with a twist of modernism. <a href="http://www.stuartslondon.com/viewproducts/LACOSTE/" target="_blank"><u>Lacoste Cardigans</u></a> and <a href="http://www.stuartslondon.com/viewproducts/LACOSTE/" target="_blank"><u>polo shirts</u></a> have been our best selling items. The <a href="http://www.stuartslondon.com/viewproducts/LACOSTE/" target="_blank"><u>new Lacoste Collection</u></a> is full of colour this summer. Coral pinks and intelligent   uses of blues make the collection look every bit unique. However it’s not just   the Lacoste clothing that places this French clothing brand at the top, but the <a href="http://www.stuartslondon.com/viewproducts/LACOSTE%20FOOTWEAR/" target="_blank"><u>Lacoste   footwear</u></a>, men’s shoes, men’s canvas   upper shoes and sport trainers have enhanced the brands appeal even more. The   best selling style from <a href="http://www.stuartslondon.com/viewproducts/LACOSTE%20FOOTWEAR/" target="_blank"><u>Lacoste men’s   shoes</u></a> has to be the boating and canvas   pumps. </p>
-  <p>Every season the latest <a href="http://www.stuartslondon.com/viewproducts/LACOSTE%20FOOTWEAR/" target="_blank"><u>Lacoste   collection</u></a> is available to buy at   Stuarts London, we only sell Lacoste clothing partnered with the French   company.</p>
-</div>
-</div><br><div align="left" id="resource_item3"><h1 class="resource_title"><span class="resource_title"><a href="http://www.stuartslondon.com" target="_blank"><u>Baracuta Harrington Jacket</u></a><a class="resource_title" href="http://www.stuartslondon.com"></a></span></h1><div class="resource_text">
-    <p><a href="http://www.stuartslondon.com/viewproducts/BARACUTA/" target="_blank"><u>The Harrington   jacket</u></a> has been a one of the coolest <a href="http://www.stuartslondon.com" target="_blank"><u>fashion</u></a> inventions ever. Many brands over the years have tried to replicate the   Harrington jacket. <a href="http://www.stuartslondon.com/viewproducts/BARACUTA/" target="_blank"><u>Baracuta Harrington</u></a> jackets are the only originals. Since 1937 <a href="http://www.stuartslondon.com/viewproducts/BARACUTA/" target="_blank"><u>Baracuta</u></a> started their first production run in Manchester. Stuarts London is very   proud to present some of the unique and key <a href="http://www.stuartslondon.com" target="_blank"><u>mens fashion</u></a> look that <a href="http://www.stuartslondon.com/viewproducts/BARACUTA/" target="_blank"><u>Baracuta</u></a> launch from season   to season. Although the quality is the real reason for this jacket long lasting   reign, it was made famous by key iconic legends. Isaac Miller, Elvis Presley,   Frank Sinatra <a href="http://www.stuartslondon.com" target="_blank"><u>Steve McQueen</u></a> were just some to mention. The Harrington – a name given to   this style of jacket comes from a Sitcom Character call Rodney Harrington played   by Ryan O Neill. The <a href="http://www.stuartslondon.com" target="_blank"><u>G9 Slim fit   Baracuta</u></a> is the best seller from the   collection, however more styles taken from the archives are now coming available   again for the first time after many years. The G4 Slim fit is to be releases   this summer 2009,&nbsp; and we might be in for a Trench <a href="http://www.stuartslondon.com" target="_blank"><u>Coat this Winter</u></a>. The G9 Slim fit is a Harrington jacket that can be worn with jeans or   chino’s a polo shirt underneath and a pair of Bass Weejun penny loafers or a   pair of <a href="http://www.stuartslondon.com" target="_blank"><u>Clarks Original Desert   boots</u></a>.<br>
-      <br>
-    </p>
-    </div>
-</div><br><div align="left" id="resource_item4">
-  <h1 class="resource_title"><span class="resource_title"><a class="resource_title" href="http://www.stuartslondon.com">Fred Perry </a></span></h1><div class="resource_text">
-    <p><a href="http://www.stuartslondon.com/viewproducts/FRED%20PERRY%20VINTAGE/" target="_blank"><u>Fred   Perry</u></a> has been sold at Stuarts   London over the last two seasons and has become one of our best selling <a href="http://www.stuartslondon.com" target="_blank"><u>men’s clothing   brands</u></a>. The birth of the brand   was no mistake when an Australian business man helped produce the first <a href="http://www.stuartslondon.com" target="_blank"><u>Fred Perry</u></a> polo shirt in 1952. The business has been very much part   of the British heritage fashion scene, worn by the many famous and various   subcultures. <a href="http://www.stuartslondon.com/cat/Retro%20Fashion%20MENS/" target="_blank"><u>Punk, Mod,   Skinhead’s</u></a> are the most famous   cultures to make this brand famous. The tennis scene in the 50’s was the   beginning of many things to come. <a href="http://www.stuartslondon.com" target="_blank"><u>Fred Perry polo’s</u></a> have been a benchmark for many men fashion designers,   the Harrington jacket was a must have by the mods and original rare jackets   fetch a killer price on e-bay. The launch of the laurel collection only sold in   the very best of the UK stores has created another buzz for <a href="http://www.stuartslondon.com" target="_blank"><u>Fred Perry</u></a>, now dubbed as a true <a href="http://www.stuartslondon.com/cat/Retro%20Fashion%20MENS/" target="_blank"><u>Vintage fashion   Brand</u></a>. The collection   compromises of t-shirts, shorts, light wind breaker jackets, not to forget the   famous polo shirts, and <a href="http://www.stuartslondon.com/viewproducts/FRED%20PERRY%20VINTAGE/" target="_blank"><u>Fred Perry tracksuit   Jacket</u></a>. If you’re fond of the   classic laurel, then don’t waste time and check out this vintage collection   today.</p>
-    <br><br></div></div><br><div align="left" id="resource_item5">
-      <h1 class="resource_title"><span class="resource_title"><a class="resource_title" href="http://www.stuartslondon.com">Newbalance</a></span></h1><div class="resource_text">
-        <p>Retro men’s trainers have become a cool part of   the perfect casual outfit.&nbsp; New Balance trainers started in 1906, when a 33 year   old waiter took it upon himself to follow a dream and build an arch support for   shoes. The ideology behind New Balance is to provide a stylish yet comfortable   trainer. A sport shoe that is durable for performance yet casual enough for a   walking out in a pair of denims. New Balance are usually coded into numbers,   410’s, 420’s, 1500, these are common New Balance styles and limited edition   numbers from the 70’s and 80s re-issued styles. New Balance even today has a   policy to make some styles in Flimby, Cumbria UK. This summer the trainers have   had a great makeover and are being sold in a rainbow of colours.&nbsp; New Balance   mens shoes are light weight comfortable and stylish, hence why they have never   faded away and always supplied some of the most famous sports personalities   around. Styles are being sold throughout the world , with the main cliental in   the US, UK and Japan. Global influences help keep the brand fresh with new   designs and up to date on retro styles.<br>
-        </p>
+  <div id="header_top_basket_view"><a href="/basket/" title="View your shopping bag"><img src="/images/view_basket.gif" height="12" width="200" alt="View your shopping bag"></a></div>
+  <div id="header_top_basket_contents">
+    <table cellpadding="0" cellspacing="0" summary="basket contents" border="0">
+      <tbody><tr>
+        <td class="top_container_basket_total"><span class="price">
+<span class="inc">
+<span class="GBP">£0.00</span>
+<span class="USD" style="display:none;">$0.00</span>
+<span class="EUR" style="display:none;">0,00&nbsp;€</span>
+<span class="JPY" style="display:none;">¥0</span>
+</span>
+<span class="ex" style="display:none;">
+<span class="GBP">£0.00</span>
+<span class="USD" style="display:none;">$0.00</span>
+<span class="EUR" style="display:none;">0,00&nbsp;€</span>
+<span class="JPY" style="display:none;">¥0</span>
+</span>
+</span>
+</td>
+        <td class="top_container_basket_items" id="mini_basket_total">(0)</td>
+        <td align="right" class="top_container_basket_checkout"><a href="/basket/" title="Checkout"><img src="/images/checkout.gif" height="12" width="102" alt="Checkout"></a></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>    </div>
+    <div id="header_menu_container">
+      <div id="header_menu">
+  <ul class="menu">
+    <li><a href="/search/all-products" title="Departments" class="header_menu_link header_menu_1"><span>Departments</span></a>
+              <div class="menu-dropdown" style="width: 310px;">
+          <table cellpadding="0" cellspacing="0" class="menu-content">
+            <tbody><tr>
+              <td class="menu_items_td">
+                <ul class="menu-items">
+                  <li><a href="/aw-2011-fashion-preview-c90" title="A/W&nbsp;2011&nbsp;&nbsp;Fashion&nbsp;Preview">A/W&nbsp;2011&nbsp;&nbsp;Fashion&nbsp;Preview</a></li><li><a href="/mens-grooming-c82" title="Men's&nbsp;Grooming">Men's&nbsp;Grooming</a></li><li><a href="/accessories-c50" title="Accessories">Accessories</a></li><li><a href="/mens-bags-c56" title="Men's&nbsp;Bags">Men's&nbsp;Bags</a></li><li><a href="/track-tops-c40" title="Track&nbsp;Tops">Track&nbsp;Tops</a></li><li><a href="/track-bottoms-c42" title="Track&nbsp;Bottoms">Track&nbsp;Bottoms</a></li><li><a href="/polo-tops-c26" title="Polo&nbsp;Tops">Polo&nbsp;Tops</a></li><li><a href="/t-shirts-c30" title="T&nbsp;Shirts">T&nbsp;Shirts</a></li><li><a href="/shorts-c46" title="Shorts">Shorts</a></li><li><a href="/tank-top-c89" title="Tank&nbsp;Top">Tank&nbsp;Top</a></li><li><a href="/footwear-c67" title="Footwear">Footwear</a></li><li><a href="/trousers-c35" title="Trousers">Trousers</a></li><li><a href="/denim-jeans-c15" title="Denim&nbsp;Jeans">Denim&nbsp;Jeans</a></li><li><a href="/coats-jackets-c23" title="Coats&nbsp;&amp;&nbsp;Jackets">Coats&nbsp;&amp;&nbsp;Jackets</a></li><li><a href="/blazers-c77" title="Blazers">Blazers</a></li><li><a href="/leather-jackets-c45" title="Leather&nbsp;Jackets">Leather&nbsp;Jackets</a></li><li><a href="/knitwear-c4" title="Knitwear">Knitwear</a></li><li><a href="/cardigans-c7" title="Cardigans">Cardigans</a></li><li><a href="/shirts-c20" title="Shirts">Shirts</a></li><li><a href="/sweatshirts-c41" title="Sweatshirts">Sweatshirts</a></li><li><a href="/roll-necks-c43" title="Roll&nbsp;Necks">Roll&nbsp;Necks</a></li><li><a href="/publications-c76" title="Publications">Publications</a></li><li><a href="/bathrobes-c44" title="Bathrobes">Bathrobes</a></li><li><a href="/pre-order-c88" title="Pre-Order">Pre-Order</a></li>                </ul>
+              </td>
+            </tr>
+          </tbody></table>
         </div>
-    </div><br><div align="left" id="resource_item6"><h1 class="resource_title"><span class="resource_title"><a class="resource_title" href="http://www.stuartslondon.com">Original Penguin</a></span></h1><div class="resource_text">
-      <p>Munsingwear- originally a golfing label. </p>
-      <p>A label that has maintained quality and style since   the 1950’s.&nbsp; An Original Penguin is a   great vintage Golfing brand since 1955 which was commonly worn by the likes of   Richard Nixon, Frank Sinatra and more modern day fans of this brand are Brad   Pit.</p>
-      <p>Penguin polo tops and shirts are the key   styles in the collection. The key Polo of the collection is the vintage style   made from the finest cotton and looks and feels every bit retro. The Earl Polo   comes in a range of different colours to fit into anyone taste. </p>
-      <p>Penguin’s other best seller is the Ratner   jacket. Known for its versatility, the jacket again available in more than 10   colours, is light weight and casual. Look’s great with any men’s outfit. Never   has it been a more perfect time than now for the up-rise of the Original   Penguin, as the vintage heritage fashion is leading the way. Stuarts London is   an Official stockist of Original Penguin. Buy online or visit the store today to   view the latest collection at the best prices on the net.<br>
-        <br>
-      </p>
-      </div>
-    </div><br><div align="left" id="resource_item7"><h1 class="resource_title"><span class="resource_title"><a class="resource_title" href="http://www.stuartslondon.com/search.php?searchQuery=Barbour">Barbour Jackets</a><a class="resource_title" href="http://www.stuartslondon.com"></a></span></h1><div class="resource_text">
-  <p>Stylish outdoor wear. 1849 a farm in Galloway where John Barbour was born. Barbour left Scotland and started his first shop in South Shields. The main focus of Barbour was the designs that he made. Barbour knew his market well, Tyneside’s ship builders, fishermen, river and rock workers, all these professions needed durable clothing, a distinct sense of style was being achieved by Barbour.</p>
-  <p>So good were the Barbour jackets that the military asked him for production making waterproof jackets during World War 2.</p>
-  <p>While the styling evolves to meet new tastes the Sylkoil from 1910 is still the basics of most Barbour jackets. Stuarts London is a proud stockist of Barbour and is an Official Online partner. Barbour Machinist is trained for a year before they are qualified to a make a Barbour jacket. Each jacket takes up to 15,000 stitches.  Barbour International is a great jacket which has hit the fashion scene by storm and made waves in the music industry. Signature jackets like the Beaufort have become a trademark design and drive a high part of the Barbour sales. </p>
-  <p>The full collection of Barbour will be available from winter 2009.<br>
-    <br>
-  </p>
-  </div>
-</div><br><div align="left" id="resource_item8"><h1 class="resource_title"><br>
-    <a class="resource_link" href="/#resource_info" onclick="closeResources();">Close the Resources</a>
-</h1>
-  </div>
-</div><br>
-<script language="javascript" type="text/javascript">
-<!--
-	closeResources();
--->
-</script>
+            </li>
+    <li><a href="/brands/" title="Brands" class="header_menu_link header_menu_2"><span>Brands</span></a>
 
-
-
-<!-- ****************************** END RES LAYER **************************************** -->
+<div class="menu-dropdown menu-dropdown-brands brand_dropdown" style="width:auto;">
+<table cellpadding="0" cellspacing="0" class="menu-content">
+<tbody><tr>
+<td class="menu_items_td">
+<ul class="menu-items">
+<li><a href="/adidas-originals-m6" title="Adidas Originals"><span>Adidas Originals</span></a></li><li><a href="/adidas-originals-a039-blue-collection-m96" title="Adidas Originals A.039 Blue Collection"><span>Adidas Originals A.039 Blue Collection</span></a></li><li><a href="/adidas-x-ransom-m85" title="Adidas x Ransom"><span>Adidas x Ransom</span></a></li><li><a href="/alpha-industries-m10" title="Alpha Industries"><span>Alpha Industries</span></a></li><li><a href="/andersons-m11" title="Andersons"><span>Andersons</span></a></li><li><a href="/baracuta-m12" title="Baracuta"><span>Baracuta</span></a></li><li><a href="/barbour-m5" title="Barbour"><span>Barbour</span></a></li><li><a href="/barbour-to-ki-to-m87" title="Barbour To Ki To"><span>Barbour To Ki To</span></a></li><li><a href="/bass-weejuns-m13" title="Bass Weejuns"><span>Bass Weejuns</span></a></li><li><a href="/brady-bags-m15" title="Brady Bags"><span>Brady Bags</span></a></li><li><a href="/brutus-m16" title="Brutus"><span>Brutus</span></a></li><li><a href="/burlington-m18" title="Burlington"><span>Burlington</span></a></li><li><a href="/calvin-klein-m19" title="Calvin Klein"><span>Calvin Klein</span></a></li><li><a href="/carhartt-m20" title="Carhartt"><span>Carhartt</span></a></li><li><a href="/80s-casuals-m30" title="80's Casuals"><span>80's Casuals</span></a></li><li><a href="/carrera-m21" title="Carrera"><span>Carrera</span></a></li><li><a href="/clae-m22" title="Clae"><span>Clae</span></a></li><li><a href="/clarks-originals-m23" title="Clarks Originals"><span>Clarks Originals</span></a></li><li><a href="/common-people-m99" title="Common People"><span>Common People</span></a></li><li><a href="/denham-m90" title="Denham"><span>Denham</span></a></li><li><a href="/diadora-heritage-m27" title="Diadora Heritage"><span>Diadora Heritage</span></a></li><li><a href="/dockers-m28" title="Dockers"><span>Dockers</span></a></li><li><a href="/dr-martens-shoes-m91" title="Dr. Martens Shoes"><span>Dr. Martens Shoes</span></a></li><li><a href="/edwin-m29" title="Edwin"><span>Edwin</span></a></li></ul>
+</td>
+<td class="menu_items_td">
+<ul class="menu-items">
+<li><a href="/ellesse-heritage-m3" title="Ellesse Heritage"><span>Ellesse Heritage</span></a></li><li><a href="/farah-m31" title="Farah"><span>Farah</span></a></li><li><a href="/fila-vintage-m33" title="Fila Vintage"><span>Fila Vintage</span></a></li><li><a href="/fred-perry-authentic-m35" title="Fred Perry Authentic"><span>Fred Perry Authentic</span></a></li><li><a href="/fred-perry-laurel-wreath-m79" title="Fred Perry Laurel Wreath"><span>Fred Perry Laurel Wreath</span></a></li><li><a href="/gabicci-vintage-1973-m8" title="Gabicci Vintage 1973"><span>Gabicci Vintage 1973</span></a></li><li><a href="/garbstore-m36" title="Garbstore"><span>Garbstore</span></a></li><li><a href="/gloverall-m37" title="Gloverall"><span>Gloverall</span></a></li><li><a href="/gourmet-footwear-m100" title="Gourmet Footwear"><span>Gourmet Footwear</span></a></li><li><a href="/grenson-m38" title="Grenson"><span>Grenson</span></a></li><li><a href="/gitman-bros-m106" title="Gitman Bros"><span>Gitman Bros</span></a></li><li><a href="/happy-socks-m39" title="Happy Socks"><span>Happy Socks</span></a></li><li><a href="/howlin-by-morrison-m80" title="Howlin by Morrison"><span>Howlin by Morrison</span></a></li><li><a href="/hugo-boss-skin-m102" title="Hugo Boss Skin"><span>Hugo Boss Skin</span></a></li><li><a href="/il-bussetto-m40" title="Il Bussetto"><span>Il Bussetto</span></a></li><li><a href="/j-lindeberg-m41" title="J Lindeberg"><span>J Lindeberg</span></a></li><li><a href="/jeffery-west-m83" title="Jeffery West"><span>Jeffery West</span></a></li><li><a href="/john-smedley-m7" title="John Smedley"><span>John Smedley</span></a></li><li><a href="/k-way-m44" title="K-Way"><span>K-Way</span></a></li><li><a href="/kangol-m42" title="Kangol"><span>Kangol</span></a></li><li><a href="/kickers-m43" title="Kickers"><span>Kickers</span></a></li><li><a href="/lacoste-m2" title="Lacoste"><span>Lacoste</span></a></li><li><a href="/lacoste-grooming-m103" title="Lacoste Grooming"><span>Lacoste Grooming</span></a></li><li><a href="/lavenham-m45" title="Lavenham"><span>Lavenham</span></a></li></ul>
+</td>
+<td class="menu_items_td">
+<ul class="menu-items">
+<li><a href="/lee-m46" title="Lee"><span>Lee</span></a></li><li><a href="/levis-vintage-m84" title="LEVI'S Vintage ®"><span>LEVI'S Vintage ®</span></a></li><li><a href="/levis-m47" title="Levi's ®"><span>Levi's ®</span></a></li><li><a href="/loake-m48" title="Loake"><span>Loake</span></a></li><li><a href="/lois-m49" title="Lois"><span>Lois</span></a></li><li><a href="/luke-1977-m50" title="Luke 1977"><span>Luke 1977</span></a></li><li><a href="/mastrum-m51" title="Ma.Strum"><span>Ma.Strum</span></a></li><li><a href="/mens-file-m95" title="Men's File"><span>Men's File</span></a></li><li><a href="/mikkel-rude-m52" title="Mikkel Rude"><span>Mikkel Rude</span></a></li><li><a href="/modern-classic-by-ben-sherman-m14" title="Modern Classic by Ben Sherman"><span>Modern Classic by Ben Sherman</span></a></li><li><a href="/new-balance-m53" title="New Balance"><span>New Balance</span></a></li><li><a href="/nicholas-deakins-m26" title="Nicholas Deakins"><span>Nicholas Deakins</span></a></li><li><a href="/nike-m107" title="Nike"><span>Nike</span></a></li><li><a href="/nudie-jeans-m82" title="Nudie Jeans"><span>Nudie Jeans</span></a></li><li><a href="/original-penguin-m58" title="Original Penguin"><span>Original Penguin</span></a></li><li><a href="/pantherella-m55" title="Pantherella"><span>Pantherella</span></a></li><li><a href="/paraboot-m56" title="Paraboot"><span>Paraboot</span></a></li><li><a href="/penfield-m57" title="Penfield"><span>Penfield</span></a></li><li><a href="/persol-m59" title="Persol"><span>Persol</span></a></li><li><a href="/pf-flyers-m94" title="Pf-Flyers"><span>Pf-Flyers</span></a></li><li><a href="/pretty-green-m61" title="Pretty Green"><span>Pretty Green</span></a></li><li><a href="/pringle-m62" title="Pringle"><span>Pringle</span></a></li><li><a href="/puma-m63" title="Puma"><span>Puma</span></a></li><li><a href="/ray-ban-m64" title="Ray Ban"><span>Ray Ban</span></a></li></ul>
+</td>
+<td class="menu_items_td">
+<ul class="menu-items">
+<li><a href="/red-wing-m65" title="Red Wing"><span>Red Wing</span></a></li><li><a href="/richard-james-m66" title="Richard James"><span>Richard James</span></a></li><li><a href="/rivieras-m93" title="Rivieras"><span>Rivieras</span></a></li><li><a href="/saint-james-m68" title="Saint James"><span>Saint James</span></a></li><li><a href="/schott-bros-m69" title="Schott Bros"><span>Schott Bros</span></a></li><li><a href="/sebago-m70" title="Sebago"><span>Sebago</span></a></li><li><a href="/sergio-tacchini-m71" title="Sergio Tacchini"><span>Sergio Tacchini</span></a></li><li><a href="/slazenger-m72" title="Slazenger"><span>Slazenger</span></a></li><li><a href="/smart-turnout-london-m101" title="Smart Turnout London"><span>Smart Turnout London</span></a></li><li><a href="/suit-denmark-m92" title="Suit Denmark"><span>Suit Denmark</span></a></li><li><a href="/sunspel-m74" title="Sunspel"><span>Sunspel</span></a></li><li><a href="/taschen-books-m97" title="Taschen Books"><span>Taschen Books</span></a></li><li><a href="/terrace-production-m104" title="Terrace Production"><span>Terrace Production</span></a></li><li><a href="/timberland-m75" title="Timberland"><span>Timberland</span></a></li><li><a href="/timex-m76" title="Timex"><span>Timex</span></a></li><li><a href="/tootal-vintage-m77" title="Tootal Vintage"><span>Tootal Vintage</span></a></li><li><a href="/umbro-m81" title="Umbro"><span>Umbro</span></a></li><li><a href="/universal-works-m89" title="Universal Works"><span>Universal Works</span></a></li><li><a href="/victorinox-apparel-m98" title="Victorinox Apparel"><span>Victorinox Apparel</span></a></li><li><a href="/ymc-m88" title="YMC"><span>YMC</span></a></li><li class="menu-items-all"><a href="/brands/" title="All Brands"><span>View All Brands</span></a></li></ul>
+</td>
+</tr>
+</tbody></table>
 </div>
 
 
+    </li>
+    <li><a href="/gift_vouchers" title="Gift Vouchers" class="header_menu_link header_menu_3"><span>Gift Vouchers</span></a></li>
+    <li><a href="/sale" title="Sale" class="header_menu_link header_menu_4"><span>Sale</span></a></li>
+  </ul>
+</div>      <div id="header_search">
+        <form method="get" action="/search/">
+          <table cellpadding="0" cellspacing="0" summary="Search">
+            <tbody><tr>
+              <td valign="top"><label for="query">Search</label><span><input id="query" name="query" type="text" class="search_textbox" value="Enter Search Term or Product Code..." onclick="if(this.value == 'Enter Search Term or Product Code...') { this.value='';}"></span></td>
+              <td valign="top"><input type="image" src="/images/button_search.gif" alt="Find" class="search_btn" onclick="if(document.getElementById('query').value == 'Enter Search Term or Product Code...') { document.getElementById('query').value='';}"></td>
+            </tr>
+          </tbody></table>
+        </form>
+      </div>
+    </div>
+    <div id="header_second_menu_container">
+      <div id="breadcrumb_container"><div id="breadcrumb">
+<p>
+<a href="http://www.stuartslondon.com/" title="Home">Home</a> / <a href="http://www.stuartslondon.com/privacy-policy-i11" title="Privacy Policy">Privacy Policy</a></p>
+</div></div>
+      <div id="header_second_menu">
+
+        <ul>
+  <li><a href="/stuarts-london-customer-services-i66" title="FAQs" class="header_second_menu_link header_second_menu_1"><span>FAQs</span></a></li>
+  <li><a name="standard" href="/blog" title="Blog" class="header_second_menu_link header_second_menu_2"><span>Blog</span></a></li>
+  <li><a href="/map" title="Our Store" class="header_second_menu_link header_second_menu_3"><span>Our Store</span></a></li>
+  <li><a href="/loyalty-scheme-i49" title="Loyalty Scheme" class="header_second_menu_link header_second_menu_4"><span>Loyalty Scheme</span></a></li>
+  <li><a href="/competitions" title="Competitions" class="header_second_menu_link header_second_menu_5"><span>Competitions</span></a></li>
+</ul>
+      </div>
+    </div>
+  </div>
+  <div id="body_container">
+
+        
+  <div id="middle_column_wide">
+    
+
+<div class="site_box_header site_box_header_11"></div>
+<div id="privacy-policy" class="site_box cms_page">
+  <div class="site_box_content site_box_content_11">
+    <div class="site_box_content_extra_div">
+      <div class="cms_page_header"><h1>Privacy Policy</h1></div>
+            <div class="cms_page_text"><p><strong>Disclaimer:</strong><br>Stuarts london.com have the right to change prices and specifiactions without prior notice. Colours of products are as accurate as the website allows.<br><br>We thank all our suppliers for letting us use their images and Logo's on our website. All other images have been produced by Stuartslondon.com in house image studio.<br><br><strong>Protx / Sagepay Security Statement</strong><br>The protx payment system uses a combination of established and innovative techniques to ensure the security and integrity of all sensitive data. Our internet facing web servers are certified by Verisign, this ensures that no third parties can impersonate Protx to obtain secure information.<br><br><strong>Transaction Security</strong><br>The transfer of the less sensitive transaction details from our site to protx is encrypted and digitally-signed. This ensures that the information passed is secure and tamper-proof.<br><br><strong>Data Storage</strong><br>All data stored on protx systems is held on encrypted and highly secured databases. Protx are regularaly audited by Visa and Mastercard to ensure that their systems conform to the latest security standards.<br><strong><br>Our Commitment to Privacy</strong><br>StuartsLondon.com is totally committed to protecting the privacy and security of your personal information.<br><br>To accomplish this, we collect certain customer information that permits us to customize and enhance your on-line shopping experience and to communicate with you about our products, services, promotions and contests. We are committed to managing this information responsibly and ensuring that you are in control of your personal information and the communications you receive from us.<br><br><strong>What This Policy Covers</strong><br>This policy describes the customer information we collect and why; how we use this information and when we share it with third parties; the choices you can make about how your personal information is collected, used and shared; and the data security, accuracy and access measures we have adopted to protect customer information under our control from loss, misuse or alteration. Please be aware that our site may contain links to other sites hosted by third parties. StuartsLondon.com does not control and is thus not responsible for the content or privacy practices and policies of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.<br><br><strong>Collecting Information</strong><br>Like many websites, StuartsLondon.com collects certain personally identifiable information when you sign in on our web sites, register for on-line shopping, place an order,&nbsp; participate in a competiton, promotion or survey, or request other services that require information, registration or subscription. This information may include your name, mailing address, e-mail address and phone number, We also keep a record of your product interests and purchases on-line and automatically receive and record information on our server logs from your browser (including your IP address, StuartsLondon.com cookie information, and the page you requested).<br><br><strong>Using Information</strong><br>StuartsLondon.com uses customer information for three general purposes: to customize the advertising and content you see on our sites; to fulfill your requests for certain products and services; and to contact you about new products or services, special events and promotions. We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. StuartsLondon.com normally will not link IP addresses to personally identifiable information, but reserves the right to do so in order to identify a user when we feel this is necessary to enforce compliance with our internal policies or Terms of Use or to protect our service, site, customers or others.</p></div>
+      <div class="cms_page_text cms_page_downloads"></div>
+      
+
+
+                        <div class="cms_continue_links"><br><p><strong>Continue Browsing</strong><br>Visit our <a href="/" title="homepage">homepage</a>.</p></div>
+              
+          </div>
+  </div>
+</div>
+<div class="site_box_footer"></div>  </div>
+  
+      <div class="clear"></div>
+              </div>
+      <div id="footer_container_spacer" class="div_spacer"></div>
+      <div id="footer_container">
+        <div id="footer_container_left">
+          <div id="footer_container_newsletter">
+  <form action="/newsletter/index" method="get" id="newsletter_signup">
+    <table cellpadding="0" cellspacing="0" summary="Search">
+      <tbody><tr>
+        <td valign="top"><label for="mailing_box">email</label><span><input id="mailing_box" name="email_address" type="text" class="footer_textbox" value="Enter your e-mail address..." onfocus="if(this.value=='Enter your e-mail address...') {this.value='';}"></span></td>
+        <td valign="top"><input name="subscribe" value="Subscribe" type="image" src="/images/button_join.gif" alt="Join" class="search_btn"></td>
+      </tr>
+    </tbody></table>
+  </form>
+</div>          <div id="footer_container_links">
+  <div id="footer_container_social">
+    <ul>
+      <li class="footer_container_social_facebook"><a onclick="this.target='_blank'" href="http://www.facebook.com/group.php?gid=34386489585" title="Join us on Facebook">Join us on Facebook</a></li>
+      <li class="footer_container_social_twitter"><a href="http://twitter.com/stuarts_london" onclick="this.target='_blank'" title="Follow us on Twitter">Follow us on Twitter</a></li>
+      <li class="footer_container_social_myspace"><a href="http://www.myspace.com/stuartslondon" onclick="this.target='_blank'" title="Find us on MySpace">Find us on MySpace</a></li>
+      <li class="footer_container_social_blogspot"><a href="http://80scasuals.blogspot.com/" onclick="this.target='_blank'" title="Blogspot">Blogspot</a></li>
+      <li class="footer_container_social_rss"><a href="/rss/latest_products/en/" onclick="this.target='_blank'" title="RSS Feeds">RSS Feeds</a></li>
+      <li class="footer_container_social_share"><a href="http://www.addthis.com/bookmark.php?v=20" onclick="return addthis_sendto()" title="Bookmark &amp; Share ">Share</a></li>
+    </ul>
+    <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+  </div>
+  <div id="footer_container_links_1">
+    <ul>
+      <li><a href="/about-us-i31" title="About Us">About Us</a></li>
+      <li><a href="/contact-us-i3" title="Contact Us">Contact Us</a></li>
+      <li><a href="/map" title="Our Store">Our Store</a></li>
+      <li><a href="/loyalty-scheme-i49" title="Loyalty Scheme">Loyalty Scheme</a></li>
+      <li><a href="/competitions" title="Competitions">Competitions</a></li>
+      <li><a href="/sitemap" title="Site Map">Site Map</a></li>
+    </ul>
+  </div>
+  <div id="footer_container_links_2">
+    <ul>
+      <li><a href="/delivery-returns-i17" title="Delivery &amp; Returns">Delivery &amp; Returns</a></li>
+      <li><a href="/privacy-policy-i11" title="Privacy Policy">Privacy Policy</a></li>
+      <li><a href="/terms-conditions-i7" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+      <li><a href="/testimonials" title="Testimonials">Testimonials</a></li>
+      <li><a href="/blog" title="Blog">Blog</a></li>
+      <li><a href="/gift_vouchers" title="Gift Vouchers">Gift Vouchers</a></li>
+    </ul>
+  </div>
+</div>        </div>
+        <div id="footer_container_right">
+										<img style="margin: 0 0 0 15px;" src="/images/ecommerce-icons-accepted.jpg" width="428" height="98" alt="Verified By Visa, Master Card Secure Code. We accept the following cards: Visa Debit, Solo, Visa Credit Card, Visa Electron, Master Card, Maestro, PayPal, Google Checkout.">
+									</div>
+        <div class="clear"></div>
+                <div id="visualsoft"><p><a href="http://www.visualsoft.co.uk" title="e-Commerce">e-Commerce</a> by <img src="/images/ecommerce_visualsoft.gif" alt="e-Commerce by Visualsoft" title="e-Commerce by Visualsoft"></p></div>
+      </div>
+    </div>
+    
+    <script type="text/javascript">
+    <!--
+        initCurrency("GBP");
+        initVat();
+    -->
+    </script>
+
+    <!--Loaded in 0.4520 seconds, using 6.38MB of memory. Generated by vsCommerce v3.3.11-->
+    <!-- vs_status_checker: 1 -->
+    <div id="preview_div"></div>
+
+    
+  
 
 </body></html>
