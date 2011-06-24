@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the adonion.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127101220id_/http%3A//www.adonion.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonion.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624125125id_/http%3A//www.adonion.com/home/privacy) for the most accurate reproduction.*
 
 # AdOnion privacy
 
-At AdOnion.com, Yesup Ecommerce Solutions Inc., we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order..
+At AdOnion.com, Yesup Ecommerce Solutions Inc., we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order.. 
 
-All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information. At AdOnion.com, Yesup Ecommerce Solutions Inc .com, We may use cookies to:
+All browsers offer “cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in  
+tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information. At AdOnion.com, Yesup Ecommerce Solutions Inc .com, We may use cookies to:
 
-  * Store your password so you don't have to re-enter it each time you visit our sites.
+  * Store your password so you don’t have to re-enter it each time you visit our sites.
   * We will not use cookies to identify, monitor or track any personally identifiable information.
   * Our cookies do not contain any personally identifiable information about you.
-  * We do not merge or associate our cookie information with any other visitor's confidential identifiable data obtained by us or from the 3rd parties.
+  * We do not merge or associate our cookie information with any other visitor’s confidential identifiable data obtained by us or from the 3rd parties.
 
 
 
@@ -25,8 +26,9 @@ However, please note that if you reject some or all cookies, your experience at 
 
 At Our Sites While we use cookies in other parts of our website, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information as noted above.
 
-Our site's registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared.
+Our site’s registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared.
 
-This site contains links to other sites. AdOnion.com, Yesup Ecommerce Solutions Inc. is not responsible for the privacy practices or the content of such websites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately at [webmaster@AdOnion.com](mailto:webmaster@AdOnion.com) if there is a problem with any of our links.
+This site contains links to other sites. AdOnion.com, Yesup Ecommerce Solutions Inc. is not responsible for the privacy practices or the content of such websites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we  
+have no control. Please contact us immediately at [webmaster@AdOnion.com](mailto:webmaster@AdOnion.com) if there is a problem with any of our links.
 
 If you have any questions about this privacy statement, the practices of this site, or your concern about this website, please contact: [webmaster@AdOnion.com](mailto:webmaster@AdOnion.com)
