@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxiarti.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210211305id_/http%3A//maxiarti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxiarti.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624082645id_/http%3A//maxiarti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxiarti Article Directory
 
