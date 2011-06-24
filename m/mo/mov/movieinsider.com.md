@@ -1,35 +1,24 @@
-> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229072116id_/http%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624234230id_/http%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
 
 # Contact Us | About Us | Privacy Policy
 
-### About Movie Insider
-
-Movie Insider offers an extensive selection of movie information focused on current and upcoming releases. Visitors can access numerous daily feed updates and profiles for hundreds of movies-in-production, as well as a comprehensive theatrical, DVD and Blu-ray release calendars. 
-
-Brian Renner first launched The Movie Insider in July of 1999. As a movie fan himself, Mr. Renner aimed to maintain a website that effectively provided behind-the-scenes news from movies at each stage of production. 
-
-Started as a small online publication, The Movie Insider grew from a thousand in the early 2000s to over one million visitors monthly.
-
-[Quantcast Audience Profile](http://www.quantcast.com/p-4bATB7XdD7I-k)
-
 ### Terms of Service and DMCA Guidelines
+
+Servicemarks and Credits 
+
+Movie Insider, "Taking You Beyond The Studio Gates" and the distinctive reel logo are servicemarks of The Movie Insider LLC.
 
 Request to Modify or Remove Content
 
 Movie Insider strives to provide you with movie information at every stage, from concept to release, fulfilling our motto to take you beyond the studio gates. We aim to continually search for accurate and reliable information from a wide variety of sources. Most our updates contain references to the original source of the information. 
 
-If you believe that there is inaccurate, infringing and/or unauthorized content on Movie Insider, contact us using the aforementioned email form. Please include the URL of the page in question. We will promptly review the applicable request and determine the appropriate actions. If you do not believe our response to be adequate, you can send a Digital Millennium Copyright Act (DMCA)-compliant notification to our copyright agent:
+If you believe that there is inaccurate, infringing and/or unauthorized content on Movie Insider, contact us using the aforementioned email form. Please include the URL of the page in question. We will promptly review the applicable request and determine the appropriate actions. If you do not believe our response to be adequate, you can send a Digital Millennium Copyright Act (DMCA)-compliant notification to our designated agent:
 
 Email: [dmca@themovieinsider.com](mailto:dmca@themovieinsider.com)
 
 Phone: (248) 387-9826
 
-Mailing Address:   
-DomainsByProxy.com  
-C/O TheMovieInsider.com  
-15111 N. Hayden Rd.,  
-Ste 160, PMB 353  
-Scottsdale, AZ 85260
+Designated Agent: The Movie Insider LLC
 
 Copyrighted Material
 
