@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225000636id_/http%3A//www.electronicsweekly.com/static-pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsweekly.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624223332id_/http%3A//www.electronicsweekly.com/static-pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Electronics Weekly
 
