@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakephp.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120140915id_/http%3A//cakephp.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakephp.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625015503id_/http%3A//cakephp.org/pages/privacy) for the most accurate reproduction.*
 
 # CakePHP: the rapid development php framework. Pages
 
