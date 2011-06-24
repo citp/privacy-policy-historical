@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the laughfactory.com privacy policy that was archived on 2010-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219135148id_/http%3A//www.laughfactory.com/content/Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laughfactory.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624041021id_/http%3A//laughfactory.com/content/Privacy_Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js-enabled"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="verify-v1" content="nCLxSsko5RGtKGFlzm0JMsPIrFsj/z+0GB9IpYAlHpM=">
 <meta name="msvalidate.01" content="7F9EBCEE7BB5FB78AA9BAC8BFC2B4727">
+<title>Privacy Policy</title>
 <meta name="description" content="Privacy policy for the Laugh Factory."><meta name="keywords" content="privacy policy, privacy, policy, Laugh, Factory, laugh factory, laughfactory, laughfactory.com,">
-<title>Laugh Factory - Privacy Policy</title>
+
 <link href="/css/main.css" rel="stylesheet" type="text/css">
+<link href="/css/menu_style.css" rel="stylesheet" type="text/css">
 <link href="/css/facebox.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" media="all" href="/css/calendar.css">
 <script type="text/javascript" src="/js/calendar/calendar.js"></script>
@@ -19,6 +21,7 @@
 <script src="/js/jquery.blockUI.js"></script>
 <script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
 
+<script type="text/javascript" src="/library/flowplayer/flowplayer-3.2.4.min.js"></script>
 
 <script>
 function getBodyScrollTop()
@@ -64,6 +67,59 @@ function showHideMenu()
 }
 
 </script>
+
+<script>
+var auto_start_videos=true;
+
+function PlayHomeVideo(video_url)
+{
+	$('#Player18').hide();
+	$('#player1').show();
+	var params = {};
+	params.quality = "high";
+	params.allowfullscreen = "true";
+	params.wmode = "transparent";
+	params.bgcolor = "#000000";
+	swfobject.embedSWF("/library/flowplayer/flowplayer.commercial-3.2.5-2.swf?rnd="+Math.random(), "player1", "410", "230", "9.0.0", false, {config: "{'key':'$27f703fe5b0773c0758','clip': {'url':'"+video_url+"', 'scaling':'fit', 'autoPlay': true},'canvas':  {					'background': '#000000','backgroundGradient': 'none'}}}"}, params);
+	
+}
+
+function FeaturedVideo(video_id,video_title,video_views,video_url,thumb_url,isadult_video)
+{
+
+	$.ajax({
+		url: '/api/index/updatevideoview/video/'+ video_id
+	});
+
+	$('#spotlight_video_title').html("<a href='/video-"+ video_id +"-"+ video_title +"'>"+ video_title +"</a>");
+	$('#spotlight_video_views').html(parseInt(video_views)+1 +' views');
+	//$(".clips a").removeClass("first");
+	
+	var params = {};
+	params.quality = "high";
+	params.allowfullscreen = "true";
+	params.wmode = "transparent";
+	params.bgcolor = "#000000";
+
+	if(!auto_start_videos || isadult_video==1)
+	{
+		swfobject.embedSWF("/library/flowplayer/flowplayer.commercial-3.2.5-2.swf?rnd="+Math.random(), "player1", "410", "230", "9.0.0", false, {config: "{'key':'$27f703fe5b0773c0758','clip': {'url':'"+video_url+"', 'scaling':'fit', 'autoPlay': false},'canvas':  {					'background': '#000000','backgroundGradient': 'none'}}}"}, params);
+		//$('#player1').html('<img src="/images/TVMA.jpg" width="345" height="230" id="DefaultVideo" style="width:345px; height:230px;" /><span><img src="/images/play_text_large.png" id="DefaultVideoPlay" onClick="PlayHomeVideo(\''+ video_url +'\')" /></span>');
+		$('#player1').hide();
+		$('#Player18').html('<img src="/images/TVMA.jpg" width="345" height="230" id="DefaultVideo" style="width:345px; height:230px;" /><span><img src="/images/play_text_large.png" style="position:relative; top:-150px; cursor:pointer;" id="DefaultVideoPlay" onClick="PlayHomeVideo(\''+ video_url +'\')" /></span>');
+		$('#Player18').show();
+		auto_start_videos=true;
+	}
+	else
+	{
+		$('#Player18').hide();
+		$('#player1').show();
+		swfobject.embedSWF("/library/flowplayer/flowplayer.commercial-3.2.5-2.swf?rnd="+Math.random(), "player1", "410", "230", "9.0.0", false, {config: "{'key':'$27f703fe5b0773c0758','clip': {'url':'"+video_url+"', 'scaling':'fit', 'autoPlay': true},'canvas':  {					'background': '#000000','backgroundGradient': 'none'}}}"}, params);
+	}
+			
+}
+</script>
+
 <!--[if IE 7]>
 <style>
 .divtxtbox .tile input{height:15px;}
@@ -83,82 +139,149 @@ function showHideMenu()
         </div>
     </div>
 </div>
-<div class="body">
-
+<div class="body" style="margin:auto; width:100%;">
 	<div class="top">
-      <div class="top_page">
-        <div class="logo">
-          <div class="flashlogo">
-            <img src="/images/new_header.png" border="0" usemap="#laughmap">
-                    <map name="laughmap" id="laughmap">
-					  <area shape="rect" coords="130,0,400,118" href="/" alt="Laugh factory">
-					</map>
-          </div>
-                </div>
-        
-                <div class="form">
-                <div align="right" style="height:65px;padding:0px;width:500px;"><a href="/click?u=http://prod3.agileticketing.net/WebSales/Pages/VerboseEventList.aspx?epguid=eb52b80c-8129-436b-b96f-357a47eef931&amp;&amp;a=63" target="_blank" title="Nealon Event"><img src="/images/adbanners/6f6841de20eefd2bf4070f002c7707e0Nealon.gif"></a></div>
-                		<div class="txt" style="color:#000000;padding-right:25px;height:10px;padding-top:0px;width:500px;"><a href="/registration" style="color:#000000;">Register</a> | <a href="/area/lostpassword" style="color:#000000;">Forgot password?</a></div>
-                	<div class="searchdiv">
-
-						<div style="float:left;width:520px;">
-	                        	                      		<div class="divtxtbox" style="margin-left:10px;">
-	                	<form name="search" action="/search" method="post" style="width:171px;">
-							<div class="left"></div>
-							<div class="tile">
-				                    <input onfocus="this.value=''" style="width:128px;" name="criteria" type="text" value="Search Videos">
-    </div>
-							<div class="imgSearch"><input name="" type="image" onclick="this.from.submit();" src="/images/icon_search.gif" class="btn"></div>
-							<div class="right"></div>
-                </form>
-						</div>
-	                        	<form action="/area/auth" method="POST" name="signin_form" style="width:330px;float:right;">
-		                        	<div class="divtxtbox pl20">
-										<div class="left"></div>
-										<div class="tile">
-                            <input name="username" type="text" class="inp1" value="Username" onfocus="this.value='';">
-										</div>
-										<div class="right"></div>
-									</div>
-									<div class="divtxtbox pl5">
-										<div class="left"></div>
-										<div class="tile">
-                            <input name="password" type="password" class="inp1" value="Username" onfocus="this.value='';">
-										</div>
-										<div class="right"></div>
-										<div class="btnlogin marginLT"> <input name="login" type="image" src="/images/btn-login.gif" class="btn" onclick="this.from.submit();"></div>
-									</div>
-						  </form>
-                        	                    </div>
-					</div>
-                </div>
-                  <div class="clearer"></div>
-      <div class="topmenu">
-                <div class="menu_page">
-                    <div class="menu">
-                    <ul class="topNav">
-						    <li><a href="/">HOME</a>&nbsp;|</li>
-						    <li><a href="/Comedians">COMEDIANS</a>&nbsp;|</li>
-						    <li><a href="/channels">CHANNELS</a>&nbsp;|</li>
-						    <li><a href="/videos/whatsnew">VIDEOS</a>&nbsp;|</li>
-						    <li><a href="/magazine">MAGAZINES</a>&nbsp;|</li>
-						    <li><a href="/content/contests.html">CONTESTS</a>&nbsp;|</li>
-						    <li><a href="/users/list/_">MY COMMUNITY</a>&nbsp;|</li>
-						  
-                            
-						    <li><a href="/Blogs">BLOGS</a>&nbsp;|</li>
-						    <li><a href="/jokes">JOKE BANK</a>&nbsp;|</li>
-						    <li style="color:#000000; font-weight:bold; padding:2px;"><a style="font-weight: normal;" href="/content/club.html">COMEDY CLUB &amp; TICKETS</a></li>
-                    </ul>
-                    <div class="clearer"></div>
-                </div>
-                <div class="clearer"></div>
+        <div class="top_page" style="margin:auto;">
+            <div class="logo">
+                <img src="/images/home/lf_03.gif" border="0" usemap="#laughmap">
+                <map name="laughmap" id="laughmap">
+                  <area shape="rect" coords="1,3,116,103" href="/" alt="Laugh factory">
+                </map>
             </div>
-   </div>
-   <div class="clearer"></div>
- </div>
-  </div>
-    	<div class="clearer"></div>                                <div id="error_block">
+            <div class="topmenu">
+            	<div style="padding-left:0px;">
+                	<div style="float:left; width:395px;"><a href="/click?u=http://articles.latimes.com/2011/feb/09/entertainment/la-et-comedy-therapy-20110209&amp;a=117" target="_blank" title="Free Therapist"><img src="/images/adbanners/6ad302ff555c1df3446675cbff7a6a6234d7f5232102f538e0df57bd8fab489dtherapistjpgjpg.jpg" width="395" height="66"></a></div>
+                    <div style="float:right; text-align:left; width:545px; height:70px; border:#FFFFFF solid 0px;">
+                    	                    	<div class="divtxtbox" style="border:#FFFFFF solid 0px; width:134px;">
+                            <form name="search" action="/search" method="post">
+                                <div class="tile"><input onfocus="this.value=''" name="criteria" type="text" value="Search Videos"></div>
+                                <div class="imgSearch"><input name="" type="image" onclick="this.from.submit();" src="/images/home/search-icon.png" class="btn"></div>
+                            </form>
+                            <form action="/area/auth" method="POST" name="signin_form">
+                            <div class="divtxtbox" style="padding-top:6px;">
+                                <div class="tileUser"><input name="username" type="text" class="inp1" value="Username" onfocus="this.value='';"></div>
+                            </div>
+                        </form></div>
+                        <div style="float:left;border:#FFFFFF solid 0px;">    
+                                <div class="divtxtbox pl5" style="border:#FFFFFF solid 0px; padding-top:23px;">
+                                	<div class="forgotPass"><span style="padding-left:18px;"><a href="/area/lostpassword">Forgot password?</a></span><span style="padding-left:35px;"><a href="/registration/step1">Register</a></span></div>
+                                    <div class="tilePass">
+                                    	<div><input name="password" type="password" class="inp1" value="Username" onfocus="this.value='';"></div>
+                                    </div>
+                                    <div class="btnlogin marginLT">
+                                    	<div><input name="login" type="image" src="/images/home/lf_20.gif" class="btn" onclick="this.from.submit();"></div>
+                                    </div>
+                                </div>
+						  
+                        </div>
+                                                <div style="float:left; padding-top:2px; padding-right:22px; padding-left:7px;"><a href="http://www.laughfactory.tv"><img src="/images/home/smartTV.jpg" border="0"></a></div>
+                        <div style="float:left; padding-top:11px;"><a href="/content/radiopodcast.html"><img src="/images/home/lf2_11.png" border="0"></a></div>
+                    </div>
+                </div>
+                <div class="menu_page">
+                	<div class="menu" style="padding:0px 0px 0px 0px; margin:0px 0px 0px 0px ">
+                    	<ul>
+                        	<li><a href="/">
+                            	<div class="tabMain">
+                                    <div class="tabInner"><div>HOME</div></div>
+                                </div>
+                            </a></li>
+                            <!--<li><a href="http://live.laughfactory.com/Profile/RegisterStep1.aspx" >
+	                            <div class="tabMain" style="border:0px solid #FFFFFF;">
+                                    <div class="tabInner" style="background-image:url(/images/home/LFvip.jpg);">
+                                       
+                                 	</div>
+                                </div>
+                            </a></li>-->
+							<li><a href="javascript:void(0)">
+	                            <div class="tabMain">
+                                    <div class="tabInner"><div>ABOUT</div></div>
+                                </div>
+                            </a>
+								<ul style="*margin:30px 0 0 -101px; _margin:30px 0 0 -101px;">
+                                	<li style="width:97px;"><a href="/content/History.html">History</a></li>
+                                    <li style="width:97px;"><a href="/content/JamieMasada.html">Jamie Masada</a></li>
+                                    <li style="width:97px;"><a href="/content/OpenMic.html">Open Mic</a></li>
+                                    <li style="width:97px;"><a href="/content/ComedyCamp.html">Comedy Camp</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/videos/whatsnew">
+	                            <div class="tabMain">
+                                    <div class="tabInner"><div>VIDEO</div></div>
+                                </div>
+                            </a></li>
+                            <li><a href="/Comedians">
+                            	<div class="tabMain">
+                                    <div class="tabInner"><div>COMEDIANS</div></div>
+                                </div>
+                            </a></li>
+							<li><a href="javascript:void(0)">
+                            	<div class="tabMain">
+                                    <div class="tabInner"><div>CONTESTS</div></div>
+                                </div>
+                            </a>
+								<ul style="*margin:30px 0 0 -100px; _margin:30px 0 0 -100px;">
+                                	<li style="width:96px;"><a href="/contests/FreshFaces">Fresh Faces</a></li>
+                                    <li style="width:96px;"><a href="/contests/LaughBowl2/">Laugh Bowl</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:void(0)">
+                            	<div class="tabMain">
+                                    <div class="tabInner"><div>TV &amp; RADIO</div></div>
+                                </div>
+                            </a>
+								<ul style="*margin:30px 0 0 -100px; _margin:30px 0 0 -100px;">
+                                	<li><a href="/content/SupremeCourtOfComedy.html">Supreme Court of comedy</a></li>
+                                    <li style="width:168px;"><a href="/content/LiveFromLaughFactory.html">Live from LF</a></li>
+                                    <li style="width:168px;"><a href="/content/ComicStripLive.html">Comic Strip Live</a></li>
+                                    <li style="width:168px;"><a href="/content/DomIrreraPodcast.html">Behind the stage at LF</a></li>
+                                    <li style="width:168px;"><a href="/content/LowieAtTheLaughFactory.html">Lowie at the LF</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:void(0)">
+                            	<div class="tabMain">
+                                    <div class="tabInner" style="width:110px; background-image:url(/images/home/tab_background_big.gif); ">
+                                      <div>COMEDY TRIBE</div>
+                                    </div>
+                                </div>
+                            </a>
+								<ul style="*margin:30px 0 0 -124px; _margin:30px 0 0 -100px;">
+                                	<li style="width:120px;"><a href="/users/list/_">Members</a></li>
+                                    <li style="width:120px;"><a href="/content/JoinNewsletter.html">Newsletter</a></li>
+                                    <li style="width:120px;"><a href="/api/rss">RSS Feed</a></li>
+                                    <li style="width:120px;"><a href="/registration/step1">Subscribe</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:void(0)">
+                            	<div class="tabMain">
+                                    <div class="tabInner"><div>MORE</div></div>
+                                </div>
+                            </a>
+								<ul style="*margin:30px 0 0 -100px; _margin:30px 0 0 -100px;">
+                                    <li style="width:96px;"><a href="/Blogs">Blogs</a></li>
+                                    <li style="width:96px;"><a href="/jokes">Joke Bank</a></li>
+                                    <li style="width:96px;"><a href="/magazine">Magazine</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="javascript:void(0)">
+                            	<div class="tabMain">
+                                    <div class="tabInner" style="background-image:url(/images/home/tab_background_yellow.png); "><div>TICKETS</div></div>
+                                </div>
+                            </a>
+								<ul style="*margin:30px 0 0 -100px; _margin:30px 0 0 -100px;">
+                                    <li style="width:96px;"><a href="http://prod3.agileticketing.net/WebSales/Pages/VerboseEventList.aspx?epguid=afff456c-e9f6-44c5-b51f-aa3c508d6b7d&amp;">Hollywood</a></li>
+                                    <li style="width:96px;"><a href="http://prod3.agileticketing.net/WebSales/Pages/VerboseEventList.aspx?epguid=eb52b80c-8129-436b-b96f-357a47eef931&amp;">Long Beach</a></li>
+                                </ul>
+                            </li>
+						</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> <!-- body -->
+
+	<div class="clearer"></div>                                <div id="error_block">
                                     
 <div id="warning_block" style="width:945px; margin:5px auto; border: 1px solid gray; font:11px Verdana, Arial, Helvetica, sans-serif; letter-spacing:-1px; color:#FF6666;display:none">
 <div style=" background: url(/images/error_bg.jpg) repeat-x left top; border-bottom: 1px solid gray; color:#666; font-weight:bold; padding:3px 3px 2px 3px; font-size:16px;">We apologize, errors occured.</div>
@@ -176,15 +299,13 @@ function showHideMenu()
         <div class="browse_block">
             <h2>Privacy Policy</h2>
             <ul>
-                                <li><span>1</span><a href="/content/Contact_Us.html">Contact Us</a></li>
-                                <li><span>2</span><a href="/content/OpenMic.html">Open Mic</a></li>
-                                <li><span>3</span><a href="/content/About.html">About</a></li>
-                                <li><span>4</span><a href="/content/PressNews.html">Press</a></li>
-                                <li><span>5</span><a href="/content/Terms_of_Use.html">Terms of Use</a></li>
-                                <li><span>6</span><a href="/content/Privacy_Policy.html">Privacy Policy</a></li>
-                                <li><span>7</span><a href="/content/PrivateEvents.html">Private Events</a></li>
-                                <li><span>8</span><a href="/content/Site_Map.html">Site Map</a></li>
-                                <li><span>9</span><a href="/content/Introduction.html">Booking</a></li>
+                                <li><span>1</span><a href="/content/PrivateEvents.html">Private Events</a></li>
+                                <li><span>2</span><a href="/content/Privacy_Policy.html">Privacy Policy</a></li>
+                                <li><span>3</span><a href="/content/Terms_of_Use.html">Terms of Use</a></li>
+                                <li><span>4</span><a href="/content/Contact_Us.html">Contact Us</a></li>
+                                <li><span>5</span><a href="/content/Site_Map.html">Site Map</a></li>
+                                <li><span>6</span><a href="/content/Donation.html">Donation Requests</a></li>
+                                <li><span>7</span><a href="/content/JoinNewsletter.html">Join Newsletter</a></li>
                             </ul>
         </div>
      -->
@@ -279,29 +400,25 @@ If you would like to communicate with LFIMG regarding privacy issues or have que
         <div class="clearer"></div>
     </div>
 </div>
-</div>
+
    
 	<!-- /END MAIN CONTENT -->
-<div class="footerMain">
+<div class="footerMain" style="border:#FFFFFF solid 0px;">
 	<ul>
-    <li><a href="/api/rss">RSS FEEDS</a>&nbsp;&nbsp;|</li>
-                                            <li><a href="/content/Contact_Us.html">Contact Us</a> &nbsp;|&nbsp;</li>
-                 
-                                            <li><a href="/content/OpenMic.html">Open Mic</a> &nbsp;|&nbsp;</li>
-                 
-                                            <li><a href="/content/About.html">About</a> &nbsp;|&nbsp;</li>
-                 
-                                            <li><a href="/content/PressNews.html">Press</a> &nbsp;|&nbsp;</li>
-                 
-                                            <li><a href="/content/Terms_of_Use.html">Terms of Use</a> &nbsp;|&nbsp;</li>
+    <!--<li><a href="/api/rss">RSS FEEDS</a>&nbsp;&nbsp;|</li>-->
+                                            <li><a href="/content/PrivateEvents.html">Private Events</a> &nbsp;|&nbsp;</li>
                  
                                             <li><a href="/content/Privacy_Policy.html">Privacy Policy</a> &nbsp;|&nbsp;</li>
                  
-                                            <li><a href="/content/PrivateEvents.html">Private Events</a> &nbsp;|&nbsp;</li>
+                                            <li><a href="/content/Terms_of_Use.html">Terms of Use</a> &nbsp;|&nbsp;</li>
+                 
+                                            <li><a href="/content/Contact_Us.html">Contact Us</a> &nbsp;|&nbsp;</li>
                  
                                             <li><a href="/content/Site_Map.html">Site Map</a> &nbsp;|&nbsp;</li>
                  
-                                           <li><a href="/booking/Introduction.html">Booking</a> </li>
+                                            <li><a href="/content/Donation.html">Donation Requests</a> &nbsp;|&nbsp;</li>
+                 
+                                            <li><a href="/content/JoinNewsletter.html">Join Newsletter</a> </li>
                  
                    
                 </ul>             
