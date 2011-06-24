@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124143831id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625000728id_/http%3A//www.cafebritt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
