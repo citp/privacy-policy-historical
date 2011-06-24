@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backagainstthewall.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215221222id_/http%3A//www.backagainstthewall.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backagainstthewall.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624234047id_/http%3A//www.backagainstthewall.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Back Against The Wall
+# 
 
 ## Privacy Policy
 
