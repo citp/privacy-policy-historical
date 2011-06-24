@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201060905id_/http%3A//www.futuremark.com/companyinfo/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624214904id_/http%3A//www.futuremark.com/companyinfo/legal/privacystatement) for the most accurate reproduction.*
 
-# Futuremark - Company Info - Privacy & Legal - Privacy Statement
+# Futuremark - world's most popular benchmarks and PC performance tests - Company Info - Privacy & Legal - Privacy Statement
 
 Last Updated on Tue 2006-12-19 
 
@@ -26,15 +26,16 @@ The TRUSTe program covers only information that is collected through this Web si
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-**Mr. Tero Sarkkinen**  
-Email: tero@futuremark.com  
+**Mr. Jukka Mäkinen**  
+Email: jukka@futuremark.com  
 Mailing Address:  
-12930 Saratoga Avenue, Suite C-2  
-Saratoga, CA 95070. USA 
+Kappelitie 6 B  
+FI-02200 ESPOO  
+FINLAND 
 
 ## PRIVACY STATEMENT FOR Futuremark
 
-Futuremark has created this privacy statement in order to demonstrate our firm commitment to personal privacy. The following discloses Futuremark's information gathering and dissemination practices for following websites: www.futuremark.com, shop.futuremark.com, store.futuremark.com and service.futuremark.com. 
+Futuremark has created this privacy statement in order to demonstrate our firm commitment to personal privacy. The following discloses Futuremark's information gathering and dissemination practices for following websites: www.futuremark.com, shop.futuremark.com, store.futuremark.com, service.futuremark.com and www.shatteredhorizon.com. 
 
 ### Log files
 
