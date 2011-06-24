@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203043630id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624021539id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy and Legal Statement - Atlassian
 
@@ -34,13 +34,13 @@ Atlassian adheres to a strict policy for ensuring the privacy of your personally
 
 By using this site, you signify your agreement to the terms and conditions of this Atlassian Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. Should we ever need to change this policy, we will post the changes on this page. 
 
-Your continued use of atlassian.com following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20101203043630id_/http%3A//www.atlassian.com/about/contact/default.jsp). 
+Your continued use of atlassian.com following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20110624021539id_/http%3A//www.atlassian.com/about/contact/default.jsp). 
 
 * _including but not limited to[www.atlassian.com](http://www.atlassian.com/), [support.atlassian.com](http://support.atlassian.com/), [jira.atlassian.com](http://jira.atlassian.com/), [confluence.atlassian.com](http://confluence.atlassian.com/), [www.onconfluence.com](http://www.onconfluence.com/), [try.atlassian.com](http://try.atlassian.com/), [blogs.atlassian.com](http://blogs.atlassian.com/), and [www.javablogs.com](http://www.javablogs.com/)._
 
 ## Trademarks
 
-After 7 years in business, Atlassian is evolving its official brand guidelines and sharing these guidelines publicly with partners or other Atlassian ambassadors. Why now? 
+We've developed these guidelines to ensure our company trademarks are properly displayed and remain undiluted across our customer, partner, and plugin ecosystems. Among the reasons our trademark guidelines are important include:
 
   * We want our brand and brand names to be associated with awesome dev and IT tools. The more focused the use of the brand, the more powerful it will be in the community. 
   * More people and companies are building plugins and becoming partners or ambassadors of Atlassian and our products. They are asking for additional guidelines around how to market, design and brand their plugins and products so they (1) complement the Atlassian product "family", and (2) are distinct from from Atlassian products and brands while remaining part the Atlassian community. 
