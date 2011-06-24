@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhc.ac.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220153047id_/http%3A//www.nhc.ac.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhc.ac.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625012448id_/http%3A//www.nhc.ac.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -85,3 +85,5 @@ Herts, SG4 0JD
 [privacy@nhc.ac.uk](mailto:privacy@nhc.ac.uk)
 
 If you are not satisfied with our response to your concern you may wish to contact Information Commissioner (<http://www.dataprotection.gov.uk/>
+
+... 
