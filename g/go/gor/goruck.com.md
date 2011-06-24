@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129213321id_/http%3A//www.goruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624183955id_/http%3A//www.goruck.com/privacy-policy) for the most accurate reproduction.*
 
 # GORUCK | Privacy Policy
 
-Our postal address is  
-**121 Meadowcrest Lane  
-Ponte Vedra Beach, Florida 32082**
+Our postal address is
 
-We can be reached via e-mail at [info@goruck.com](mailto:lena@lenashore.com)  
-or you can reach us by telephone at (202) 340-8772
+600 N Wallace #5  
+Bozeman MT 59715
+
+We can be reached via e-mail at [info@goruck.com](mailto:info@goruck.com)
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
