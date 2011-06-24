@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themorningnews.org privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203070512id_/http%3A//www.themorningnews.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themorningnews.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624060339id_/http%3A//www.themorningnews.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Morning News
 
@@ -12,9 +12,9 @@ If you ever receive spam from The Morning News: Trust us, you have not. We would
 
 #### TODAY’S FEATURE
 
-### [A Message From Your University President](http://www.themorningnews.org/archives/spoofs_satire/a_message_from_your_university_president.php)
+### [Erogenous Gaps](http://www.themorningnews.org/archives/opinions/erogenous_gaps.php)
 
-Americans prefer “doing” to “knowing.” When will our universities wake up to reality? **JOHN WARNER** alerts English majors everywhere: More budget cuts are coming, but prepare to smell great. 
+Humor happens when an audience fills in the gaps—at its best, those gaps are packed layers deep with meaning. **MICHAEL ROTTMAN** explains an 18-word Mitch Hedberg joke. 
 
 #### OUR MAN IN BOSTON
 
@@ -24,6 +24,6 @@ From Wislawa Szymborska, "I'm old fashioned and think that reading books is the 
 
 #### TMN TALKS
 
-### [Iain McGilchrist](http://talks.themorningnews.org/)
+### [Matthea Harvey & Amy Jean Porter](http://talks.themorningnews.org/)
 
-Iain McGilchrist is a psychiatrist and writer who works in London. He was awarded a Prize Fellowship of All Souls College, Oxford, in 1975... 
+Matthea Harvey is the author of three books of poetry and a contributing editor to jubilat, Meatpaper, and BOMB. Amy Jean Porter is an... 
