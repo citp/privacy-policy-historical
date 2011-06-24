@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booru.org privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207165812id_/http%3A//booru.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booru.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625010422id_/http%3A//booru.org/privacy) for the most accurate reproduction.*
 
 # The Booru Project - the home of imageboards
 
