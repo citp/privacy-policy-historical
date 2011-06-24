@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookofodds.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619090110id_/http%3A//www.bookofodds.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookofodds.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625010449id_/http%3A//www.bookofodds.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Book of Odds
 
