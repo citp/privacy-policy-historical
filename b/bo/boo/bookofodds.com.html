@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the bookofodds.com privacy policy that was archived on 2010-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619090110id_/http%3A//www.bookofodds.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookofodds.com privacy policy that was archived on 2011-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625010449id_/http%3A//www.bookofodds.com/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" xmlns:meebo="http://www.meebo.com/"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 
 	
 					<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -23,7 +23,8 @@
 
 		
 		
-		<link rel="stylesheet" type="text/css" href="/design/site/stylesheets/main.min.css" media="screen,print">
+		<link rel="stylesheet" type="text/css" href="/design/site/stylesheets/main.css" media="screen,print">
+		<link rel="stylesheet" type="text/css" href="/design/site/stylesheets/redesign.css" media="screen,print">
 		<link rel="stylesheet" type="text/css" href="/design/site/stylesheets/thickbox.min.css" media="screen">
 		<!--[if lte IE 6]>
 			<link rel="stylesheet" type="text/css" href="/design/site/stylesheets/ie6.css" media="screen" />
@@ -32,11 +33,14 @@
 		
 		<script type="text/javascript" src="/design/site/javascript/jquery.js"></script>
 		<script type="text/javascript" src="/design/site/javascript/thickbox.min.js"></script>
-		<script type="text/javascript" src="/design/site/javascript/global.min.js"></script>
-		<script type="text/javascript" src="/design/site/javascript/social.min.js"></script>
+		<script type="text/javascript" src="/design/site/javascript/global.js"></script>
+		<script type="text/javascript" src="/design/site/javascript/social.js"></script>
+		<script type="text/javascript" src="/design/site/javascript/cos.js"></script>
 		<script type="text/javascript" src="/design/site/javascript/jquery-ui-1.8.1.custom.min.js"></script>
+		<script type="text/javascript" src="/design/site/javascript/jquery.qtip-1.0.0-rc3.min.js"></script>
 
 		<script type="text/javascript" src="/design/site/javascript/swfobject.js"></script>
+		<script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&amp;login=jrefi&amp;apiKey=R_3ea3a0b7b5748af51afbf4ad8307bdea"></script>
 		<!--[if lte IE 6]>
 			<script type="text/javascript" src="/design/site/javascript/supersleight.plugin.js"></script>
 			
@@ -57,13 +61,14 @@
 		</script>
 
 		
-		<link rel="image_src" href="http://www.bookofodds.com/design/site/images/boo_logo_preview.jpg">
+		<!-- asdfasdf s -->
+		<link rel="asdfasimage_src" href="http://www.bookofodds.com/design/site/images/boo_logo_preview.jpg">
 
-	
+		<!-- asdfasdfas-->
 	
 				
-					
-					
+						
+						
 	<script type="text/javascript">
 		
 		$(document).ready(function(){
@@ -85,28 +90,41 @@
 				isSavedList(block_ids);
 			}
 		});
+
+
+                var isOverlay = false;
+                var timeoutID;
+
+                function showOverlay()
+                {
+                      var a =  $('#header-search').offset();
+                      $('#header-login-overlay').css( 'top', "124px" );
+                      $('#header-login-overlay').css( 'left', a.left - 332 + "px" );
+                      $('#header-login-overlay').show();
+                      isOverlay = true;
+                }
+
+                function hideOverlay()
+                {
+                    timeoutID = window.setTimeout(doHideOverlay, 2000);
+                    isOverlay = false;
+                }
+
+                function doHideOverlay()
+                {
+                    if (!isOverlay)
+                    {
+                        $('#header-login-overlay').hide();
+                    }
+                    window.clearTimeout(timeoutID);
+                }
+
 		
 	</script>
 
 </head>
 
 <body>
-	
-	
-		<script type="text/javascript">
-			Meebo = function(){(Meebo._=Meebo._||[]).push(arguments)}
-			Meebo('discoverSharable', {
-				minImageHeight: '54',
-				minImageWidth: '85',
-				thumbnail: "http://www.bookofodds.com/design/site/images/boo_logo_preview.jpg",
-				thumbnailWidth: 220,
-				thumbnailHeight: 320
-			});
-		</script>
-	
-	<div id="meebo" style="display:none">
-		<iframe id="meebo-iframe" src="/meebo.html?network=bookofodds"></iframe>
-	</div>
 
 	
 	
@@ -132,63 +150,58 @@
 	<div id="header" class="clear">
 		<div class="wrapper clear">
 			<div id="logo">
-				<a href="/"><img src="/design/site/images/logo_bookofodds.gif" alt="Book Of Odds" meebo:notsharable="true"></a>
+				<a href="/"><img src="/design/site/images/logo_bookofodds.png" alt="Book Of Odds"></a>
 			</div>
 			<div id="header-middle">
-				<div id="header-tagline">
-					<img src="/design/site/images/tagline_oddsofeverydaylife.gif" alt="The odds of everyday life.">
-				</div>
-				<div id="header-search">
-					<form id="header-search-form" method="get" action="/content/search" onsubmit="clearSearchBox();">
-						<div class="clear">
-							<div id="header-search-tabs">
-								<span>Search for:</span>
-								<input class="inline checkbox" type="radio" name="SearchType" id="search-type-odds" value="odds" onclick="toggleSearchType(this, 'odds');" checked=""><label class="inline" for="search-type-odds">Odds</label>
-								<input class="inline checkbox" type="radio" name="SearchType" id="search-type-articles" value="articles" onclick="toggleSearchType(this, 'articles');"><label class="inline" for="search-type-articles">Articles</label>
-								<!--
-								<a class="search-type active" id="search-type-keyword" href="javascript:void(0);" onclick="toggleSearchType(this, 'keyword');">Keyword</a> | <a class="search-type" id="search-type-odds" href="javascript:void(0);" onclick="toggleSearchType(this, 'odds');">1 in ... </a>
-								-->
-							</div>
-							<div id="header-search-advanced">
-								<a href="/content/advancedsearch">Advanced Search</a>
-							</div>
-						</div>
-						<div class="form-row">
-																					<input class="search" type="text" name="SearchText" id="search_text" value="Search by keyword and/or odds" maxlength="255" onfocus="clearSearchBox(); $(this).css('color', '#000');" onblur="$(this).css('color', '#818181');">
-							<!-- <input type="hidden" name="SearchType" id="search_type" value="keyword"/> -->
-							<a id="header-button-search" href="javascript:void(0);" onclick="clearSearchBox(); $(this).parents('form').submit();"><img src="/design/site/images/button_search.png" alt="Search" meebo:notsharable="true"></a>
-						</div>
-					</form>
-				</div>
-									<div id="nav-primary">
-						<div class="clear">
-																																																																																																																													<ul id="primary-nav" style="width: 551px;">
-																		<li style="width: 45px;"><a class=" " href="/"><img src="/var/site/storage/images/primary-navigation/home/670-1-eng-US/Home.gif" alt="Home" style="width: 45px;" meebo:notsharable="true"></a></li>																	<li style="width: 29px;"><span><img src="/design/site/images/nav_spacer.gif" alt=""></span></li>										<li style="width: 47px;"><a class=" " href="/Blogs"><img src="/var/site/storage/images/primary-navigation/blogs/673-1-eng-US/Blogs.gif" alt="Blogs" style="width: 47px;" meebo:notsharable="true"></a></li>																	<li style="width: 29px;"><span><img src="/design/site/images/nav_spacer.gif" alt=""></span></li>										<li style="width: 62px;"><a class=" " href="/Visuals"><img src="/var/site/storage/images/primary-navigation/visuals/27662250-1-eng-US/Visuals.gif" alt="Visuals" style="width: 62px;" meebo:notsharable="true"></a></li>																	<li style="width: 29px;"><span><img src="/design/site/images/nav_spacer.gif" alt=""></span></li>										<li style="width: 45px;"><a class=" " href="/Polling"><img src="/var/site/storage/images/primary-navigation/polls/27662202-1-eng-US/Polls.gif" alt="Polls" style="width: 45px;" meebo:notsharable="true"></a></li>																	<li style="width: 29px;"><span><img src="/design/site/images/nav_spacer.gif" alt=""></span></li>										<li style="width: 73px;"><a class=" " href="/About-Us"><img src="/var/site/storage/images/primary-navigation/about-us/676-1-eng-US/About-Us.gif" alt="About Us" style="width: 73px;" meebo:notsharable="true"></a></li>																	<li style="width: 29px;"><span><img src="/design/site/images/nav_spacer.gif" alt=""></span></li>										<li style="width: 134px;"><a class="logged-in " href="javascript:void(0);"><img src="/var/site/storage/images/primary-navigation/my-book-of-odds/682-1-eng-US/My-Book-of-Odds.gif" alt="My Book of Odds" style="width: 134px;" meebo:notsharable="true"></a></li>																								</ul>
-													</div>
-					</div>
-							</div>
-			<div id="button-visual-browse" meebo:title="Visual Browse at Book of Odds" meebo:description="shared from Book of Odds - The Odds of Everyday Life" meebo:tweet="RT @bookofodds Visual Browse at Book of Odds">
-				<a href="/Visual-Browse"><img src="/design/site/images/button_visualbrowse.png"></a>
-			</div>
+                                <div id="leaderboard">
+                                </div>
+                                                                        <div id="nav-primary">
+                                                <div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <ul id="primary-nav">
+                                                                                                                                        	<li style="width: 39px;"><a class=" " href="/"><img src="/var/site/storage/images/primary-navigation/home/670-3-eng-US/Home.png" alt="Home" style="width: 39px;"></a></li>                                                                                                                                        <li><span><img src="/design/site/images/nav_spacer.png" alt=""></span></li>                                                                        	<li style="width: 47px;"><a class=" " href="/Topics"><img src="/var/site/storage/images/primary-navigation/topics/27771576-6-eng-US/Topics.png" alt="Topics" style="width: 47px;"></a></li>                                                                                                                                        <li><span><img src="/design/site/images/nav_spacer.png" alt=""></span></li>                                                                        	<li style="width: 44px;"><a class=" " href="/Blogs"><img src="/var/site/storage/images/primary-navigation/blogs/673-4-eng-US/Blogs.png" alt="Blogs" style="width: 44px;"></a></li>                                                                                                                                        <li><span><img src="/design/site/images/nav_spacer.png" alt=""></span></li>                                                                        	<li style="width: 40px;"><a class=" " href="/Polling"><img src="/var/site/storage/images/primary-navigation/polls/27662202-4-eng-US/Polls.png" alt="Polls" style="width: 40px;"></a></li>                                                                                                                                        <li><span><img src="/design/site/images/nav_spacer.png" alt=""></span></li>                                                                        	<li style="width: 67px;"><a class=" " href="/About-Us"><img src="/var/site/storage/images/primary-navigation/about-us/676-6-eng-US/About-Us.png" alt="About Us" style="width: 67px;"></a></li>                                                                                                                                                                                                </ul>
+                                                                                                        </div>
+                                        </div>
+                                                        </div>
+                        <div id="header-search">
+                                <form id="header-search-form" method="get" action="/content/search" onsubmit="clearSearchBox();">
+                                        <div class="advanced-search">
+                                                <a class="advanced-search" href="/content/advancedsearch"><img src="/design/site/images/advanced_search.png"></a>
+                                        </div>
+                                        <div class="search-input">
+                                                                                                                                                <input class="search" type="text" name="SearchText" id="search_text" value="Search by keyword" maxlength="255" onfocus="clearSearchBox($(this)); $(this).css('color', '#000');" onblur="$(this).css('color', '#818181');">
+                                                <!-- <input type="hidden" name="SearchType" id="search_type" value="keyword"/> -->
+                                                <a id="header-button-search" href="javascript:void(0);" onclick="clearSearchBox($(this).parents('form').children('.search')); $(this).parents('form').submit();"><img src="/design/site/images/button_search_header.png" alt="Search"></a>
+                                        </div>
+                                        <div class="search-radio">
+                                                <div id="header-search-tabs">
+                                                        <input class="checkbox" type="radio" name="SearchType" id="search-type-odds" value="odds" onclick="toggleSearchType(this, 'odds');" checked="">
+                                                        <input class="checkbox" type="radio" name="SearchType" id="search-type-articles" value="articles" onclick="toggleSearchType(this, 'articles');">
+                                                        <!--
+                                                        <a class="search-type active" id="search-type-keyword" href="javascript:void(0);" onclick="toggleSearchType(this, 'keyword');">Keyword</a> | <a class="search-type" id="search-type-odds" href="javascript:void(0);" onclick="toggleSearchType(this, 'odds');">1 in ... </a>
+                                                        -->
+                                                </div>
+                                        </div>
+                                </form>
+                                                        <div id="header-login" onmouseover="showOverlay()" onmouseout="hideOverlay()"></div>
+                                                                                </div>
 		</div>
-	</div>
+        </div>
+
 
 	
 		
 						
-			<div id="header-shadow">&nbsp;</div>
 
 		
 	
 	<div id="main">
 		<div class="wrapper">
 			<div id="main-gutter" class="clear">
+				
 				<div id="welcome-anonymous" class="copy ">
-					<a href="/userprofile/register" title="Create your Book of Odds">Create your Book of Odds</a> – It's FREE &nbsp; | &nbsp; Already registered, <a href="/user/login" title="Login">Login</a>
+					<a href="/userprofile/register" title="Create your Book of Odds">Create your Book of Odds</a> – It's FREE &nbsp; | &nbsp; Already registered, <a href="/user/login" title="Login">Login</a>  <img src="/design/site/images/fb.jpg" alt="" class="loginicon"> <a href="javascript:undefined" id="fbloginA">Login with Facebook</a>  <img src="/design/site/images/yahoo.jpg" alt="" class="loginicon"> <a href="javascript:undefined" id="yhloginA">Login with Yahoo</a>
 				</div>
-				<div id="welcome-user" class="copy hide" style="display: none;">
-					Hello, <span id="welcome-username"></span> – <a href="/user/logout">Logout</a>
-				</div>
+				<div id="welcome-user" class="copy hide" style="display: none;">					Hello, <span id="welcome-username"></span> – <a href="/user/logout">Logout</a> <img src="/design/site/images/fb.jpg" class="loginicon"> <a href="javascript:undefined" id="fbloginB">Connect with Facebook</a> <img src="/design/site/images/yahoo.jpg" alt="" class="loginicon"> <a href="javascript:undefined" id="yhloginB">Connect with Yahoo</a>				</div>
 				<div class="tab">
 					<ul class="clear">
 						<li><a class="logged-in" href="javascript:void(0);"><img class="icon-inline" src="/design/site/images/icon_suggestodds.gif"> Suggest Odds</a></li>
@@ -212,7 +225,9 @@ This company may use information (not including your name, address, email addres
 			</div>
 	<div class="column-secondary">
 		<div class="row">
-                        					</div>
+                        			<!-- AD 300x250 site:  zone:  -->
+				
+		</div>
 	</div>
 </div>
 
@@ -288,14 +303,16 @@ This company may use information (not including your name, address, email addres
 								<a href="http://www.facebook.com/pages/Book-of-Odds/89837573946" title="Follow us on Facebook" target="_blank"><img src="/design/site/images/icon_facebook_31x31.gif" alt="Follow us on Facebook"></a>
 							</div>
 						</div>
+						<div style="float:right">
+							<a href="http://www.google.com/ig/adde?moduleurl=http://www.gstatic.com/ig/modules/bookofodds/bookofodds.xml">
+						<img src="http://buttons.googlesyndication.com/fusion/add.gif" style="width:104px; height:17px;border:0px;" alt="Add to iGoogle">
+							</a>
+						</div>
 					</div>
 				</div>
 				<div id="subfooter" class="clear">
 					<div id="copyright">
-						Copyright © 2010 Book of Odds, Inc., All Rights Reserved.
-					</div>
-					<div id="dev-tag">
-						Branding, website design and development by <a href="http://www.kurani.com" target="_blank">Kurani Interactive</a>
+						Copyright © 2011 Book of Odds, Inc., All Rights Reserved.
 					</div>
 				</div>
 			</div>
@@ -320,13 +337,89 @@ This company may use information (not including your name, address, email addres
 		<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/6451.js"> </script>
 	
 
-	
-	
-		<script type="text/javascript">
-			Meebo('domReady');
-		</script>
-	
-	
+<div id="header-login-overlay" onmouseover="showOverlay()" onmouseout="hideOverlay()">
+    <div id="left-part">
+        <form onsubmit="pageTracker._trackPageview('/SubmitLogin');" action="/user/login" method="post" id="overlay-login-form">
+                <p class="info">In order to login please fill in your
+                username with password.</p>
+                <input type="text" tabindex="1" value="bookofodds" id="loginOverlay" name="Login" class="text medium" onfocus="clearLoginCredential();">
+                <input type="password" tabindex="1" value="*************" id="passwordOverlay" name="Password" class="text medium" onfocus="clearLoginCredential();">
+                <input type="hidden" value="" name="RedirectURI">
+                <p class="password"><a href="/user/forgotpassword">Forgot your username or password?</a></p>
+                <input id="loginButton" title="Login" alt="Login" type="image" tabindex="1" src="/design/site/images/login_button_overlay.png" name="LoginButton">
+                <div class="fb"><a href="javascript:undefined" id="fbloginC"><img src="/design/site/images/fb.jpg" alt="" class="loginicon"> Login with Facebook</a></div>
+                <div class="ya"><a href="javascript:undefined" id="yhloginC"><img src="/design/site/images/yahoo.jpg" alt="" class="loginicon"> Login with Yahoo</a></div>
+        </form>
+    </div>
+
+    <div id="right-part">
+        <p class="info">Join our community and personalize your Book of Odds experience!</p>
+        <ul class="info">
+            <li>Collect the odds that describe you</li>
+            <li>Share odds eith friends</li>
+            <li>Contribute ideas</li>
+            <li>Create lists and save your favourite odds</li>
+            <li>Learn to calibrate risk</li>
+        </ul>
+         <a id="registerButton" href="/userprofile/register" title="Create your Book of Odds">
+            <img src="/design/site/images/register_button_overlay.png" alt="Create your Book of Odds" class="loginicon">
+         </a>
+    </div>
+</div>
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>	
+<script type="text/javascript">
+
+function fblogin(){
+	FB.login(
+        	function(){
+                	location.href='/ssignon/fblogin';
+                        }, {perms:'publish_stream,offline_access,email'});
+};
+function yhlogin(){
+	location.href='/ssignon/yhlogin';
+}
+$('#yhloginA').click(function() { 
+	yhlogin();
+});
+$('#yhloginB').click(function(){
+	location.href='/ssignon/yhconnect';
+});
+$('#fbloginA').click(function() { 
+	fblogin();
+});
+$('#fbloginB').click(function(){
+	FB.login(
+		function(){
+			location.href='/ssignon/fbconnect';
+	}, {perms:'publish_stream'});
+});
+$('#fbloginC').click(function() {
+	fblogin();
+});
+$('#yhloginC').click(function() {
+	yhlogin();
+});
+
+window.fbAsyncInit = function() {
+        FB.init({
+                appId  : "94ecc2bfc7cb11ef3fd034a368df9a4c",
+                status : true, // check login status
+                cookie : true, // enable cookies to allow the server to access the session
+                xfbml  : true  // parse XFBML
+        });
+
+};
+
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+
+
+
+</script>
 
 
 </body></html>
