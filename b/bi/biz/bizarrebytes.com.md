@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizarrebytes.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223092030id_/http%3A//www.bizarrebytes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizarrebytes.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624181234id_/http%3A//www.bizarrebytes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Bizarre Bytes
+# Privacy | Bizarre Bytes
 
 The privacy of our visitors is important to us.
 
