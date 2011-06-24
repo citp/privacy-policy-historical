@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223110837id_/http%3A//www.astro.com.my/portal/indices/index_102.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624212740id_/http%3A//www.astro.com.my/portal/indices/index_102.html) for the most accurate reproduction.*
 
 # Astro.com.my Portal - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **1\. STATEMENT**
 
-1.1 The following statement explains Astro's Privacy Policy ("this Policy") regarding the personal information collected by Astro about you. Upon registration and from time to time, you will be asked to submit personal information about yourself (eg name and email address etc.) in order to use the  Astro Website. By providing Astro with your details in the fields requested, you enable Astro to provide you with its services located at [www.astro.com.my](http://www.astro.com.my/) and its related channels (" Astro Service"). We will treat such personal information in accordance with this Policy. This privacy policy covers Astro and its website **http://www.astro.com.my**. and its related channels.
+1.1 The following statement explains Astro's Privacy Policy ("this Policy") regarding the personal information collected by Astro about you. Upon registration and from time to time, you will be asked to submit personal information about yourself (eg name and email address etc.) in order to use the  Astro Website. By providing Astro with your details in the fields requested, you enable Astro to provide you with its services located at [www.astro.com.my](http://www.astro.com.my/) and its related channels (" Astro Service"). We will treat such personal information in accordance with this Policy. This privacy policy covers Astro and its website [www.astro.com.my](http://www.astro.com.my/) and its related channels.
 
 1.2 The Astro Service is provided to you subject to the Astro [Website Terms of Use & Notices](http://www.astro.com.my/portal/indices/index_103.html) and in accordance with the laws of Malaysia. Astro will act in accordance with current Malaysian legislation on personal information protection in this Policy and as far as practicable, aim to meet current Internet best practice.
 
@@ -163,4 +163,4 @@ Please quote your name, address, user ID and Astro Account/Astro Membership numb
 13.1 If you have any questions about this Policy or your dealings with the Astro Web site, please write to:   
 [Webmaster Account](mailto:webmaster@astro.com.my)  
 or send an email through our Customer Care section:  
-[http://www.astro.com.my/customer/contact.asp](https://www.astro.com.my/astro/contact_us.php?id_topic=1)
+[http://www.astro.com.my/customer/contact.asp](https://www.astro.com.my/astro/we_care.php?id_topic=1)
