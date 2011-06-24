@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehandmusic.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208132809id_/http%3A//www.freehandmusic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehandmusic.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624130835id_/http%3A//www.freehandmusic.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | FreeHandMusic.com
 
@@ -83,5 +83,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 153 Second St., Suite 102  
 Los Altos, CA 94022  
 USA  
-tim@freehandmusic.com  
-+1 866-466-4677
+privacy@freehandmusic.com
