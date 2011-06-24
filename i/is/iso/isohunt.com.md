@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226020127id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624050344id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy › isoHunt › the BitTorrent & P2P search engine
 
@@ -15,7 +15,7 @@
   
 Active torrents indexed from websites and trackers across the internet, unique by info_hash
 
-  Sites: 539  •  Trackers: 150,522  •  **Active Torrents: 6,518,594**  •  Files: 154.36M  •  Size: 12,033.08 TB  •  Peers: 31.69M  
+  Sites: 544  •  Trackers: 167,763  •  **Active Torrents: 7,372,546**  •  Files: 176.87M  •  Size: 12,824.94 TB  •  Peers: 28.66M  
 
 Privacy Policy
 
@@ -30,18 +30,14 @@ We use various third-party advertising companies to serve ads when you visit our
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. This in itself will not divulge your personal information.
 
 |   
-[](https://ca.isohunt.com/a/adclick.php?bannerid=436&zoneid=13&source=&dest=http%3A%2F%2Fisohunt.com%2Fgambit.php)
+[](https://ca.isohunt.com/a/adclick.php?bannerid=350&zoneid=13&source=&dest=http%3A%2F%2Faan.atrinsic.com%2Fz%2F873949%2F4585%2F%26subid1%3D5477)
 
-Donations for last day: **$10**  
-Thanks! 
-
-[](https://ca.isohunt.com/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
+[](https://ca.isohunt.com/a/adclick.php?bannerid=459&zoneid=1&source=&dest=http%3A%2F%2Fbtguard.com%2F%3Fa%3Disohunt)
 
 | Stats  
 ---  
-isoHunt has **26360** users online, 1435257 members registered. [Sign up](https://web.archive.org/forum/profile.php?mode=register) now to comment!  
-Welcome to our newest member: **_stephlimegree-  
-n_**  
+isoHunt has **16940** users online, 1611852 members registered. [Sign up](https://web.archive.org/forum/profile.php?mode=register) now to comment!  
+Welcome to our newest member: **_warlock_58_**  
   
 Shout Box  
 ---  
