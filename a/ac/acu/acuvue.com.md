@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224104624id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624111503id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # ACUVUE® Brand Privacy Policy | ACUVUE® Brand
 
-[European Union Safe Harbor Privacy Policy](https://web.archive.org/web/20101224104624id_/http%3A//www.acuvue.com/safe_harbor.htm "European Union Safe Harbor Privacy Policy")
+[Safe Harbor Privacy Policy](https://web.archive.org/web/20110624111503id_/http%3A//www.acuvue.com/safe_harbor.htm "Safe Harbor Privacy Policy")
 
 v 6.0
 
 #### Welcome
 
-Welcome to [www.acuvue.com](http://www.acuvue.com/)! This site is owned by Johnson & Johnson Vision Care, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information to this site. This site is intended for use by residents of the United States.
+Welcome to www.acuvue.com! This site is owned by Johnson & Johnson Vision Care, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information to this site. This site is intended for use by residents of the United States.
 
 #### Your Consent
 
@@ -17,6 +17,10 @@ By using this site, you agree with the terms of this Privacy Policy. Whenever yo
 #### About Children
 
 This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
+
+#### Information You Provide
+
+Some areas of this site may ask you to submit personally identifiable information in order for you to benefit from the specified features (such as news letter subscriptions or notification of special offers) or to participate in a particular activity (such as sweepstakes or promotions). You will be informed what information is required and what information is optional.
 
 #### Active Information Collection
 
@@ -75,7 +79,7 @@ This site may contain links or references to other Web sites. Please be aware th
 
 #### Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20101224104624id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20110624111503id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
 
 #### How to Contact Us
 
@@ -85,9 +89,9 @@ If you have any questions, comments or concerns about this Privacy Policy or the
 **By email:** [vpiweb@visus.jnj.com](mailto:vpiweb@visus.jnj.com)  
 **By mail:** Johnson & Johnson Vision Care, Inc.  
 7500 Centurion Parkway, Suite 100  
-Mail Stop: D-CREL  
+**Mail Stop:** D-CREL  
 Jacksonville, Florida 32256
 
 #### Changes to This Privacy Policy
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 23, 2010.
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 17, 2011.
