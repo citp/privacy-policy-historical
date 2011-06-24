@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228004730id_/http%3A//www.commissionsoup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624223011id_/http%3A//www.commissionsoup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CommissionSoup.com
 
@@ -19,7 +19,7 @@ We automatically collect and/or track the following:
 
 **Section 2.** Use of Data Collected 
 
-We use your personal, demographic and profile data to enhance your experience at our site, enabling us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for marketing and promotional purposes, for statistical analysis, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. 
+We use your personal, demographic and profile data to enhance your experience at our site, enabling us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners including, but not limited to, USA Credit. We may also use your personal, demographic and profile data to improve our site, for marketing and promotional purposes, for statistical analysis, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. 
 
 **Section 3.** Disclosure of Data to Third Parties 
 
@@ -55,4 +55,5 @@ PO Box 463
 Madison, SD 57042  
 or [Contact Us Online](https://web.archive.org/contact/ "Contact CommissionSoup")
 
-Effective as of February 6, 2001
+Effective as of February 6, 2001   
+Updated on April 5, 2011 
