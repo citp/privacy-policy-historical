@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125005954id_/http%3A//flippa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624023053id_/https%3A//flippa.com/privacy) for the most accurate reproduction.*
 
 # Flippa Privacy Policy
 
@@ -53,4 +53,4 @@ Oh, don’t forget that you can control which emails you receive from us through
 
 ## Contact Us
 
-Please [contact us](https://flippa.com/contact) by email or mail if you have questions about this policy.
+Please [contact us](https://web.archive.org/contact) by email or mail if you have questions about this policy.
