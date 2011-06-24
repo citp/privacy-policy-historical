@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdsol.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205023239id_/http%3A//mdsol.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdsol.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624132535id_/http%3A//mdsol.com/privacy.htm) for the most accurate reproduction.*
 
 # Medidata Solutions: Privacy Policy
 
