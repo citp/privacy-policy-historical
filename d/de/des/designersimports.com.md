@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031143638id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624140314id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
 
-# Designer Handbags, Wallets, Scarves, Dresses, Clothing, Shoes, Belts, PDA Cases Sale - Shop Ed Hardy, Coach, Jessica Simpson, Christian Audigier, Steve Madden, True Religion, BCBG at discounted prices - www.designersimports.com
+# Handbags, Wallets, Clothing, Shoes, Belts, Ed Hardy | DesignersImports.com
 
 |  | 
 
@@ -21,7 +21,7 @@ We use return email addresses to answer the email we receive. Such Addresses are
 You can request to remove or delete all information about you - and or you can access your maintained personally identifiable information by mailing signed and written request for access to:
 
 Designers Imports  
-101 Carpenter Place  
+290 Larkin Dr, Suite 103 #284  
 Monroe, NY 10950
 
 We require a signed and written request to better safeguard your information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
