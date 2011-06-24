@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809035418id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624113911id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy: Gardener's Supply
 
@@ -54,7 +54,7 @@ Gardener’s Supply wants you to be aware that when you click on links and/or ad
 
 ## Your Security
 
-We understand that the safety of your personal information is extremely important to you. We take great care in protecting your privacy and ensuring a safe online shopping experience at www.gardeners.com. Our site uses Secure Sockets Layer (SSL) encryption technology to ensure the secure transmission of any personal information you provide while using our website. We also comply with Payment Card indsutry requirements and our site is regularly scanned and validated by Trustwave. 
+We understand that the safety of your personal information is extremely important to you. We take great care in protecting your privacy and ensuring a safe online shopping experience at www.gardeners.com. Our site uses Secure Sockets Layer (SSL) encryption technology to ensure the secure transmission of any personal information you provide while using our website. We also comply with Payment Card industry requirements and our site is regularly scanned and validated by Trustwave. 
 
 The Fair Credit Act specifies that your credit card company can hold you liable for no more that $50 in fraudulent charges to your account. If you feel you've incurred a fraudulent charge with us or any retailer, promptly notify your credit card company and follow the procedures outlined in your credit card agreement. 
 
