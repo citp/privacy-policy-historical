@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anastasiadate.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223064611id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasiadate.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624125616id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ We may use information to:
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
-You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by Anastasia International.
+You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by AnastasiaDate.
 
 We will not use your address or other information to provide you with any unsolicited message or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use.
 
@@ -89,14 +89,7 @@ Children under eighteen years of age are prohibited from using Our Websites. We 
 
 AnastasiaDate.com may periodically send you email messages describing updates, new features, or promotional offers related to this Web site. You can choose to stop receiving this email at any time.
 
-To unsubscribe follow the instructions at <http://unsubscribe.anastasia-international.com/> or email us at [unsubscribe@anastasiadate.com](mailto:unsubscribe@anastasiadate.com). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
-
-Also you can send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:
-
-Anastasia International Inc.  
-40 High St Suite #1  
-Bangor, Maine 04401  
-
+To unsubscribe follow the instructions at <http://unsubscribe.anastasiadate.com/> or email us at [unsubscribe@anastasiadate.com](mailto:unsubscribe@anastasiadate.com). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
 
 ## III. Access
 
@@ -105,7 +98,7 @@ Bangor, Maine 04401
 To modify or delete your personal information, simply follow the instructions:
 
   1. Log into your account
-  2. Select [My Account](https://web.archive.org/login/pages/home.aspx) on Anastasia´s Main Page,
+  2. Select [My Account](https://web.archive.org/login/pages/home.aspx) on AnastasiaDate´s Main Page,
   3. Scroll down and select [My Profile](https://web.archive.org/login/pages/client/profile.aspx),
   4. Edit your personal information
   5. Select **Save**.
@@ -126,13 +119,10 @@ AnastasiaDate.com has VeriSign and McAfee secure certificates demonstrating that
 
 ### Contacting the Website
 
-Please note that whenever you submit any information to us in connection with any AnastasiaDate.com related services, you consent to Anastasia's processing of this information in the United States/Russia as necessary to provide the services in which you are participating.
+Please note that whenever you submit any information to us in connection with any AnastasiaDate.com related services, you consent to AnastasiaDate’s processing of this information in the United States/Russia as necessary to provide the services in which you are participating.
 
-If you have any questions, comments or complaints about Anastasia’s privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/pages/customersupport/questioncategories.aspx)
+If you have any questions, comments or complaints about AnastasiaDate’s privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/pages/customersupport/questioncategories.aspx)
 
-Anastasia International Inc.  
-40 High St Suite #1  
-Bangor, Maine 04401  
 **+1 (207) 262-9595**  
 **+1 (800) 356-3130**  
 **+1 (800) 234-0036**  
