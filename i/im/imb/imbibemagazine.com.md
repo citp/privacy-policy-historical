@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imbibemagazine.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221024849id_/http%3A//www.imbibemagazine.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imbibemagazine.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625000651id_/http%3A//www.imbibemagazine.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - Imbibe Magazine
 
