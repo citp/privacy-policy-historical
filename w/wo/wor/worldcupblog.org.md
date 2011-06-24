@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldcupblog.org privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830102035id_/http%3A//www.worldcupblog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcupblog.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624061743id_/http%3A//www.worldcupblog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Cup Blog
 
-May 1st, 2006 | by: WC Bob |  Comments Off[](http://www.facebook.com/share.php?src=bm&u=http%3A%2F%2Fwww.worldcupblog.org%2Fprivacy-policy&t=Privacy+Policy&v=3) [](http://twitter.com/home?status=Privacy+Policy:+http%3A%2F%2Fwww.worldcupblog.org%2Fprivacy-policy)
+May 1st, 2006 |  Comments Off
 
 BootsnAll Travel Network (”BTN”) is the owner of the information collected on www.WorldCupBlog.org. BTN collects information from our users at several different points on our Web sites.
 
