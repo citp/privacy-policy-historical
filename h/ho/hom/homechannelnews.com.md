@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126173908id_/http%3A//www.homechannelnews.com/privacy_policy.aspx%3Fmenuid%3D255) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625000807id_/http%3A//www.homechannelnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Home Channel News - News and Analysis for the Home Improvement Retail Industry
+# Privacy Policy | Home Channel News
 
-Lebhar-Friedman, Inc. Privacy Policy 
+Lebhar-Friedman, Inc. Privacy Policy
 
 This site is produced by Lebhar-Friedman, Inc. This policy applies to all sites produced by Lebhar-Friedman, Inc. This policy does not cover information collected on sites linked to/from Lebhar-Friedman, Inc. sites.
 
@@ -24,7 +24,7 @@ Using the e-mail addresses provided at registration, Lebhar-Friedman, Inc. perio
 
 3\. With whom does Lebhar-Friedman, Inc. share the information it gathers/tracks?
 
-Lebhar-Friedman, Inc. may share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, write to us at webmaster@lf.com.
+Lebhar-Friedman, Inc. may share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, write to us at [webmaster@lf.com](mailto:webmaster@lf.com).
 
 Although we will only share information with carefully selected companies, we cannot guarantee that your personal information will never be disclosed to other third parties. By way of example, without limiting the foregoing, we may be forced to disclose information to the government under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications, or might disclose your information to other sites as part of offering additional functionality to you. Additionally, we can (and you authorize us to) disclose your personal information to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, we do not promise that your personal information will remain private.
 
@@ -54,6 +54,4 @@ If your children disclose information about themselves in our public discussion 
 
 This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive.
 
-If you have concerns or questions about any aspect of this policy, please e-mail our Privacy Policy Coordinator at webmaster@lf.com. We welcome your feedback.
-
-Revised June 1, 2005
+If you have concerns or questions about any aspect of this policy, please e-mail our Privacy Policy Coordinator at [webmaster@lf.com](mailto:webmaster@lf.com). We welcome your feedback.
