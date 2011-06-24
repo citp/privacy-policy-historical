@@ -1,24 +1,126 @@
-> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513104829id_/http%3A//www.hotels.co.uk/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624085801id_/http%3A//www.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Hotels.com - Hotel rooms with reviews. Discounts and Deals on 85,000 hotels worldwide
 
-**PRIVACY STATEMENT** ****
+**Hotels.com Privacy Policy**
 
-  
-We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously. This Privacy Statement describes the ways in which we will use the data you provide through this [hotels.com](https://web.archive.org/).TM website ("our website"), which is owned and operated by Hotels.com, L.P. ("we" or "us"). Please note that this Privacy Statement is an integral part of our website and the services offered to you and cannot, in any way, be separated from the Terms and Conditions of Use or from the membership, usage or transaction process. By providing information through this site and/or by establishing an account with us, you indicate your acceptance of the practices described in this Privacy Statement.   
-This Privacy Statement addresses: 
+Below you will find the updated Privacy Policy for Hotels.com, which applies to any information provided or collected through this Web site on or after 05/12/10. For information about this Privacy Policy update and how we will treat personal information that was provided to us before the effective date, please click here.
 
-  1. What information we collect online from you. 
-  2. How we use the information. 
-  3. With whom we may share the information. 
-  4. What choices are available regarding collection, use and distribution of the information. 
-  5. What types of security procedures are in place to help protect the loss, misuse or alteration of the information under our control. 
-  6. How users can correct any inaccuracies in their personally identifiable information. 
-  7. How we notify you of material changes to this Privacy Statement. 
-  8. When the Privacy Statement became effective.
+We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.
 
-If users have questions or concerns regarding this statement, they should contact hotels.com customer service by email here.   
-Information Collection and Use    
-Reservation Orders When you book a reservation through our website, we ask you to provide personally identifiable information by filling out and submitting an online customer profile form (if you are not a hotels.com member already). This information includes: your name, home or work telephone number, fax number, email address, and your credit card number, expiration date, and billing address. We use this information to process and book your reservation and to notify you of your reservation status by email or fax. When you return to the site, we will ask for your email address and booking reference and may ask for other key pieces of personally identifiable information to enable you to access your reservation information. We also ask you for personally identifiable information about other people for whom you are booking reservations. You should obtain permission from these individuals to provide us with their information. We use this information to reserve the room with the hotel or other accommodation, and, if you so request, to send each person an email notification of the reservation   
-Member Registration Hotels.com enables you to register an account with us to become a member. When you choose to become a hotels.com member, we will require you to provide certain information and request that you provide other information at your discretion. If you do not provide us with the required information, you will not be entitled to have an account with us and be a hotels.com member. The information we may require or request includes at least your name, address, telephone number, fax number, email address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (1) personal identification; (2) to complete hotel and car reservations and fulfil requests for other travel products and services; (3) to allow us to contact you for customer service, if necessary; (4) to customize the content of our website to meet your specific needs; and (5) to conduct research and to make product improvements to the services we offer on our website. In addition, your email address is collected to send you an email message confirming your account registration and each reservation you transact online. To help us understand the effectiveness of our email communications, we may deploy technologies that provide confirmation when you open one of our e-mail messages. As a member, you also will occasionally receive updates from us about special offers, new hotels.com services, and other noteworthy news items. You may decline to receive these email messages. Please see the section entitled "Choice/Opt Out," described below.   
-Member Profile In addition to the information noted above, members can choose to provide us with travel preferences, credit card billing information, and other personally identif
+  * _What information we collect from you_
+  * _How we use your information_
+  * _With whom we share your information_
+  * _How you can access your information_
+  * _Your choices with respect to the collection and use of your information_
+  * _Cookies and other technologies_
+  * _Display of tailored advertising/Your choices_
+  * _How we protect your information_
+  * _Children's privacy_
+  * _External links_
+  * _Visiting our website from outside the United States_
+  * _Changes to this Privacy Policy_
+  * _How you can contact us_
+
+**What information we collect from you**  
+_In General_. We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and email addresses and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide information to us, but in general most of the information we request from you is required in order for you reserve a hotel, register as a member; book travel; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site. _Travel Companion Information_. When you make a reservation for someone else through this website, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences, as any access to view or change their information will be available only through your account. _Information from Other Sources_. We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, purchase history, and demographic information. _Automatic Information_. We automatically collect some information about your computer when you visit this website. For example, we will collect your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may collect information about your online activity, such as trips viewed and bookings made. Our goals in collecting this automatic information include helping customize your user experience and inhibiting fraud. For more information, please see _Cookies and other technologies._
+
+**How we use your information**   
+We use sensitive billing information (such as cardholder name, credit card number, and expiration date) for the purpose of completing the hotel reservations you make on our site. We use other information about you for the following general purposes: to provide you with the products and services you request; to provide you with your hotel booking confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and website; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this website; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
+
+ _Email Communications_. We want to make it easy for you to take advantage of travel-related opportunities on our website. One way we do this is by sending you email messages that contain information about your hotel related interests. For example, if you search for a hotel in New York on our website but choose not to book a hotel, we may send you an email message telling you about our special deals for hotels in New York. We believe these email messages will provide you with useful information about travel-related special offers available through our site. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send.
+
+Please review 
+
+_"Your choices with respect to the collection and use of your information"_ below.
+
+**With whom we share your information**  
+This website may share your information with the following entities:
+
+  * _Suppliers_ such as hotel, airline, car rental, and activity providers, who fulfill your travel reservations. Throughout this site, all services provided by a third-party supplier are described as such. We do not place limitations on our suppliers' use or disclosure of your personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this site. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit. While we may share anonymous reviews with our hotel suppliers, we will not share reviewer names or contact information unless you have explicitly told us that we may. We are not responsible for the hotel deducing your identity from the content of your review and contacting you directly.
+  * _Third-party vendors_ who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. They are also required to follow the same data security practices that we ourselves adhere to.
+  * _Business partners_ with whom we may jointly offer products or services, or whose products or services may be offered on our website. You can tell when a third party is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
+  * _Referring websites_. If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites' use of your personal information and we encourage you to review the privacy policies of any website that referred you here.
+  * _Companies within our corporate family_. We may share your personal information with our affiliated companies within the Expedia, Inc. family, listed at http://businesses.expediainc.com/phoenix.zhtml?c=190013&p=businesses. This sharing enables us to provide you with information about products and services, both travel-related and other, which we believe might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
+
+We also may share your information:
+  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
+  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website, our customers, or others; and in connection with our Terms of Service and other agreements.
+  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information.
+
+We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.
+
+**How you can access your information**  
+You can access and update your contact information by visiting this website's Account section. You can close your account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for recordkeeping integrity.
+
+**Your choices with respect to collection and use of your information**
+
+  * As discussed above, you can choose not to provide us with any information, although it may be needed to book your hotel or to take advantage of certain features offered on this site.
+  * You also can add or update information and close your account as described above.
+  * When you register as a member on this site, you will be given a choice as to whether you want to receive email messages from us about special offers. As a registered member, you can modify your choice at any time on the Communication Preferences page. Whether registered as a member or not, you will also be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them.
+  * You may have the opportunity on our website to provide a mobile number in order to receive your hotel confirmation details.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from this site, you will not be able to access portions of our site.
+
+**Cookies and other technologies**  
+Cookies are small data text files and can be stored on your computer's hard drive (if your Web browser permits). This website uses cookies for the following general purposes:
+
+  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled "Remember me." Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information.
+  * To help us customize the content and advertisements provided to you on this website and on other sites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See _Display of Advertising/Your Choices_ for more information about our online advertising practices and your choices.
+  * To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon).
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our sites.
+
+In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies", on our web site. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please click here: http://kb2.adobe.com/cps/526/52697ee8.html.
+
+This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings.
+
+If you have any questions about our use of cookies or other technologies, please email us using our customer service and feedback form.
+
+**Terms specific for mobile phone applications**   
+When you use Hotels.com mobile for iOS or Android (the “Application”) we collect and use your information in the same way and for the same purposes we do when you use our website. We also collect and use the following additional information automatically from your use of the Application: 
+
+  * The Application enables us to track the areas you access within the Application which allows us to refine the arrangement of content.  This information is collected anonymously and we cannot identify you from this. The Application also records the phone’s unique device identifier (called a “UUID” for iPhones and the “device ID” for Android enabled phones).  We will only use the UUID/device ID on the first opening of the Application to confirm to various third parties that the Application has been downloaded and opened.
+  * When you use our ’find hotels near your current location’ feature, we use available geo-location data – provided by your phone using GPS or similar technologies to determine your location in order to show hotels nearby. Although this information is collected anonymously, this information may reveal to us your precise location. We only use this information to find and display nearby hotels. We do not collect location data unless you activate the ’find hotels near your current location’ feature within the Application. Sharing of location data can be switched off at any time in the settings menu.
+
+If the Application encounters a problem and produces an error, the Application will send us information on this error so we can investigate the error and seek to improve the Application. These error reports tell us information about the handset type and version, the UUID/device ID, the time the error occurred, the feature being used and the state of the application when the error occurred   
+If you do not wish us to collect and use this information via the Application in the ways set out above, please either disable this functionality (where the Application allows you to do so), or remove the Application from your handset and access our website.   
+We look to optimize the Application for iPhone and Android to minimize the data usage 
+
+**Display of tailored advertising/Your choices**
+
+ _Data collected by business partners and ad networks to serve you with relevant advertising._ The advertisements you see on this website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through _cookies and other technologies_. These third parties include (1) our corporate affiliate and partner Expedia.com; (2) business partners, who collect information when you view or interact with one of their advertisements on our sites; and (3) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you (such as email address) on our site, nor do we share with them any personal information about you.
+
+Please note that we do not have access to or control over 
+
+_cookies or other technologies_ these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click here. _Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising._ Like other companies operating online, Hotels.com participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through _cookies and other technologies_ and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click here to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
+
+**How we protect your information**  
+We want you to feel confident about using this website to make travel arrangements, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they may only do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+
+**Children's privacy**  
+This is a general audience website and does not offer services directed to children. Should we receive a request from a child whom we know to be under 13, we will use any personal information provided by the child for the sole purpose of responding once directly to that child's request and then will delete the personal information. If we otherwise gain actual knowledge that a child under the age of 13 has provided any personal information to us, we will immediately delete this information.
+
+**External links**  
+If any part of this website links you to other sites, those sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information.
+
+**Visiting our website from outside the United States**  
+If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy. 
+
+**Changes to this Privacy Policy**  
+We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website.
+
+**How you can contact us**  
+If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us or write to us at: 
+
+Email: Customer Care
+
+Hotels.com, L.P.  
+Attn: Privacy Office  
+10440 North Central Expressway  
+Suite 400  
+Dallas, Texas 75231  
+USA
+
+This Privacy Statement is effective as of 05/12/10
