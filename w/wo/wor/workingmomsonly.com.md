@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workingmomsonly.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201210248id_/http%3A//workingmomsonly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingmomsonly.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624153848id_/http%3A//workingmomsonly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WorkingMomsOnly
+# Privacy Policy
 
 **WorkingMomsOnly Statement**
 
