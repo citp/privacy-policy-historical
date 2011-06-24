@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116202147id_/http%3A//ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624222246id_/http%3A//ariba.com/legal/privacy.cfm) for the most accurate reproduction.*
 
-# Spend Management, Supplier Management, and Working Capital Management Software | Ariba, Inc.
+# Spend Management, Invoice Management, Payment Management, and Contract Management Software - Ariba, Inc.
 
 ## Ariba Web Site Privacy Statement
 
