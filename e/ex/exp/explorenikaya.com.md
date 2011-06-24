@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorenikaya.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224062512id_/http%3A//explorenikaya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorenikaya.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624203546id_/http%3A//explorenikaya.com/privacy-policy) for the most accurate reproduction.*
 
 # ExploreNikaya: Entertainment Guaranteed! - Hilarious Funny pictures stuff | Privacy Policy
 
