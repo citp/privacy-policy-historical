@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitbox.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229143707id_/http%3A//www.omniture.com/en/privacy/visualsciences/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitbox.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624095644id_/http%3A//www.omniture.com/en/privacy/visualsciences/policy) for the most accurate reproduction.*
 
 # Omniture | Company | Visual Sciences Acquisition | Privacy Center | Privacy Policy
 
