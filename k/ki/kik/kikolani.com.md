@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kikolani.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103002031id_/http%3A//kikolani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikolani.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624033058id_/http%3A//kikolani.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kikolani
+# Privacy Policy
 
 The privacy of visitors to [kikolani.com](http://kikolani.com/) is important.
 
@@ -18,7 +18,7 @@ As with most other websites, this site collects and uses the data contained in l
 
 This site does use cookies to store information, such as the information you previously used when filling out a comment form. 
 
-We also use third party advertisements on [kikolani.com](http://kikolani.com/) to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements (affiliate links) on [kikolani.com](http://kikolani.com/) to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
  **DoubleClick DART cookies**
 
