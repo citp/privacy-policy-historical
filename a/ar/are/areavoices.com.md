@@ -1,92 +1,44 @@
-> *The following text is extracted and transformed from the areavoices.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629071029id_/http%3A//www.areavoices.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areavoices.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624210909id_/http%3A//areavoices.com/privacy-policy) for the most accurate reproduction.*
 
-# AreaVoices
+# areavoices | Privacy Policy
 
-## Forum Communications Company's Privacy Policy
+Your privacy is critically important to us. At Forum Communications Company we have a few fundamental principles:  
+•    We don’t ask you for personal information unless we truly need it.  
+•    We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.  
+•    We don’t store personal information on our servers unless required for the on-going operation of one of our services.  
+•    In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-This Privacy Policy discloses the general privacy practices for Forum Communications Company's web sites, including Areavoices.com & Areaphotos.com.
+Below is our privacy policy which incorporates these goals:
 
-If you have any inquiry about our privacy policy, please contact:
+If you have questions about accessing or correcting your personal data please contact our [support team](http://support.areavoices.com/).
 
-Forum Communications Company  
-Address: 101 5th Street North, Fargo, ND, 58102  
-Phone: 701-451-5628  
-Fax: 701-451-5633  
-e-mail: [support@areavoices.com](mailto:support@areavoices.com)  
+Forum Communications Company operates several websites including areavoices.com. It is Forum Communications Company’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
+**Website Visitors**  
+Like most website operators, Forum Communications Company collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Forum Communications Company’s purpose in collecting non-personally identifying information is to better understand how Forum Communications Company’s visitors use its website. From time to time, Forum Communications Company may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Forum Communications Company is committed to respecting your privacy rights when visiting any Forum Communications Company web site, such as this one. To protect your personal information, Forum Communications Company has adopted the guidelines outlined below.
+Forum Communications Company also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on AreaVoices.com blogs. Forum Communications Company only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-### Information Collected
+**Gathering of Personally-Identifying Information**  
+Certain visitors to Forum Communications Company’s websites choose to interact with Forum Communications Company in ways that require Forum Communications Company to gather personally-identifying information. The amount and type of information that Forum Communications Company gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at AreaVoices.com to provide a username and email address. Those who engage in transactions with Forum Communications Company – by agreeing to receive email marketing, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Forum Communications Company collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Forum Communications Company. Forum Communications Company does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-While visiting any of the Forum Communications Company web sites we may ask you to register and/or provide information that personally identifies you for purposes of interacting with the site. Such personal information may include, but is not limited to, your name, phone number, street address and e-mail address. On any page that collects personal information, we will specifically describe what information is required in order to provide you with the product or service or enter you in the promotion you have requested, as well as respond to your inquiry or comment.
+**Aggregated Statistics**  
+Forum Communications Company may collect statistics about the behavior of visitors to its websites. For instance, Forum Communications Company may monitor the most popular blogs on the AreaVoices.com site or use spam screened by the Akismet service to help identify spam. Forum Communications Company may display this information publicly or provide it to others. However, Forum Communications Company does not disclose personally-identifying information other than as described below.
 
-### What are Cookies?
+**Protection of Certain Personally-Identifying Information**  
+Forum Communications Company discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Forum Communications Company’s behalf or to provide services available at Forum Communications Company’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Forum Communications Company’s websites, you consent to the transfer of such information to them. Forum Communications Company will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Forum Communications Company discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Forum Communications Company believes in good faith that disclosure is reasonably necessary to protect the property or rights of Forum Communications Company, third parties or the public at large. If you are a registered user of an Forum Communications Company website and have supplied your email address, Forum Communications Company may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Forum Communications Company and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Forum Communications Company takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The site can only access the information from a cookie sent by the site. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, by entering a sweepstakes or promotion, etc.
+**Cookies**  
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Forum Communications Company uses cookies to help Forum Communications Company identify and track visitors, their usage of Forum Communications Company website, and their website access preferences. Forum Communications Company visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Forum Communications Company’s websites, with the drawback that certain features of Forum Communications Company’s websites may not function properly without the aid of cookies.
 
-### Why does the site use cookies?
+**Ads**  
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Forum Communications Company and does not cover the use of cookies by any advertisers.
 
-Forum Communications Company uses cookies to track usage of the site and further personalize your experience when you are visiting the site. By tracking usage, we can best determine what features of the site best serve the users.
+**Comments**  
+Comments and other content submitted to the Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-### What benefits do I receive from cookies?
+**Privacy Policy Changes**  
+Although most changes are likely to be minor, Forum Communications Company may change its Privacy Policy from time to time, and in Forum Communications Company’s sole discretion. Forum Communications Company encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a AreaVoices.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Overall, the use of cookies helps to give you a more personalized experience at the site. The information is used to keep our site fresh and relevant to you the user. Cookies also allow you to avoid retyping your e-mail address and password each time you access the site.
-
-### May I decline to accept a cookie?
-
-You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, some portions of the site may require registration in order to access those areas. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user; and will eliminate the need for you to log in each time you access our site. In addition, our registration system may require that you accept the cookies from the site in order to access that portion of the site. Other sites linked to the site may also send cookies; however we do not control such activities.
-
-### What happens with the information collected in a cookie?
-
-The information stored in a cookie is used to identify you to our server, to allow us to personalize your experience on the site, and to serve content and communications that may be of interest to you.
-
-### IP Addresses
-
-Forum Communications Company does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage.
-
-### Use of Personal Information
-
-We believe in protecting your privacy, and will not share personal information with third parties outside of Forum Communications Company except as described in this Privacy Policy. We believe that we can enhance your experience on our site with the information you share with us. We use personal information about you to improve our advertising and marketing efforts, to statistically analyze site usage, to improve our content and product offerings and to personalize the site's content, layout, and services. We may also use your personal information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions.
-
-Areavoices.com & Areaphotos.com will not sell you personal information or user database to outside companies, however, we may facilitate delivery of special offers or promotions from local businesses which are relevant to our users. All e-mails generated from user registration will come from an @forumcomm.com, @areavoices.com, @areaphotos.com or @in-forum.com address. Forum Communications Company may match specific and/or aggregated personal information with third party data to provide you with product and content offerings that interest you and improve our advertising and marketing efforts. Forum Communications Company also may disclose aggregated user statistics in order to describe our services to potential advertisers, partners, other third parties, our affiliate companies, and for other lawful purposes. As part of your experience on our site, you may receive communications from us related to products and services that might interest you. While we believe these services will enhance your experience at our site, you will at all times be able to opt out from receiving these communications, either by specifically opting out of these services or by deleting your profile from our database.
-
-We have today, and will in the future have, arrangements with third party service providers, such as credit card processors, shipping companies and fulfillment services. When you sign up for a service we offer on the site, we may be required to share Personal Information with that service provider in order to provide the service. These third party providers are not permitted to retain or use personal information for any purpose unrelated to providing the service.
-
-Forum Communications Company may also offer other services as a part of our site (e.g., car buying service, personalized finance and weather information alerts, contests, sweepstakes and other promotions with unaffiliated third parties). If you choose to use these optional services or opportunities, we may provide some of your personal information to third parties, such as service providers and other parties assisting us in providing the service. We will not do so without telling you how we will use that information and you can avoid having us make such disclosures by choosing not to use these services or features of the site.
-
-We reserve the right to disclose personal information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, or in connection with the sale of part or all of Forum Communications Company.
-
-### Party Collecting the Information
-
-This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, through third party services or promotions offered on or through the site or through other web sites throughout the Internet, different policies may apply and Forum Communications Company shall not be responsible for the use or dissemination of such information.
-
-Our sites may operate as part of a larger group of sites, and may carry co-branded pages. In addition, other sites may use the site's or Forum Communications Company's name. Since Forum Communications Company does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of such third parties, and Forum Communications Company shall not be responsible for the use or dissemination of your private information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your personal information to others.
-
-### Links to Other Materials
-
-Third party sites linked to and from the site are not necessarily under the control of Forum Communications Company. Forum Communications Company shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. Forum Communications Company does not necessarily endorse companies (or related products or services) to or from which the site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. Forum Communications Company hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties.
-
-### Children's Privacy
-
-Forum Communications Company cares about the safety of children and their use of the Internet. Therefore, in accordance with the [Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm), we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.
-
-### Opting-Out
-
-We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" altogether from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described by linking on the site's "Member Center".
-
-Certain portions of the site and certain services provided on the site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.
-
-### Reviewing, Changing and Deleting Your Personal Information
-
-You may access all of the personal information that we collect from you online and maintain by clicking on the "Member Center" link. We use this procedure to better safeguard your personal information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-You may also at any time choose to change or delete your profile from our database by following the "Member Center" link. You should know that as a result of deregistration, certain areas of our Site may no longer be accessible to you.
-
-### Security
-
-Forum Communications Company maintains industry standard safeguards to ensure the security, integrity and privacy of the personal information that you provide to Forum Communications Company.
-
-### Contacting Us
-
-If you have any questions or comments about our Privacy Policy, please e-mail us at [support@areavoices.com](mailto:support@areavoices.com).
+[](http://creativecommons.org/licenses/by-sa/3.0/)  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
