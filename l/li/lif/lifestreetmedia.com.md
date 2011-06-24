@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestreetmedia.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203130745id_/http%3A//lifestreetmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestreetmedia.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624093455id_/http%3A//www.lifestreetmedia.com/privacy) for the most accurate reproduction.*
 
 # LifeStreet Media - Privacy Policy
 
@@ -33,7 +33,7 @@ We collect Non-Personally Identifiable Information ("Non-PII") from Website visi
 
 #### Cookies and Web Beacons:
 
-We use "cookies" and web beacons to help us manage our Website. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier's website for details on how to do this. For more information about cookies and web beacons please visit <http://www.allaboutcookies.org/cookies>.
+We use "cookies" and web beacons to help us manage our Website. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier's website for details on how to do this. All LifeStreet Media cookies are hosted exclusively from the lfstmedia.com domain. For more information about cookies and web beacons please visit <http://www.allaboutcookies.org/cookies>. 
 
 #### IP Addresses
 
