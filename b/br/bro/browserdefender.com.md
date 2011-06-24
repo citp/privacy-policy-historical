@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browserdefender.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222172550id_/http%3A//www.browserdefender.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browserdefender.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624205346id_/http%3A//www.browserdefender.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Browser Defender™ | Privacy Policy
 
@@ -18,7 +18,7 @@ Threat Expert does not collect any personal data about you on this website or in
 
 Information which you provide is used by Threat Expert only in line with the purpose for which you provided it and will not be made available to third parties, other than information provided to us during the purchase process which may be provided to our online billing provider and our banking institution to enable the purchase to be processed. Please note that the transfer of information by us to such third parties may involve a transfer of that information to countries outside Ireland or the EU.
 
-If Threat Expert has your email address, we may contact you by email to advise you of product updates, subscribe you to our newsletter or offer you Threat Expert or third party products. You can opt out from receiving these emails at any time. [Your preferences can be updated online by clicking here](https://web.archive.org/newsletter/subscription/). Threat Expert may also contact you in relation to customer support queries which you lodge. 
+If Threat Expert has your email address, we may contact you by email to advise you of product updates, subscribe you to our newsletter or offer you Threat Expert or third party products. You can opt out from receiving these emails at any time. [Your preferences can be updated online by clicking here](http://www.pctools.com/newsletter/subscription/). Threat Expert may also contact you in relation to customer support queries which you lodge. 
 
 Your personal data may also be anonymised and used for statistical purposes.
 
