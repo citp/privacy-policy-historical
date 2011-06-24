@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dhgate.com privacy policy that was archived on 2010-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219123922id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dhgate.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624052121id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="China Wholesale Marketplace for you to buy wholesale lots direct from China at factory prices." name="description">
@@ -7,24 +7,25 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta content="MSHTML 6.00.2900.3020" name="GENERATOR">
 <title>DHgate - China Wholesale Marketplace - About Us</title>
-<link href="http://image.dhgate.com/b/help/css/about.css" rel="stylesheet" type="text/css">
-<link href="http://image.dhgate.com/b/help/css/help_new20100609.css" rel="stylesheet" type="text/css">
-<script language="javascript" src="http://image.dhgate.com/b/help/js/jquery-1.3.2.min.js"></script>
+<link href="http://image.dhgate.com/dhs/fob/css/about/about.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="http://image.dhgate.com/b/help/js/jquery-1.3.2.min.js"></script>
 
 
 
 </head>
 <body>
-<script type="text/javascript" src="http://image.dhgate.com/2010/public/js/header_global20100621_0.js"></script>
+<script type="text/javascript" src="http://image.dhgate.com/2010/public/js/header_globalnhp20110118.js"></script>
 
 <script type="text/javascript">
+document.domain = 'dhgate.com';
 $(document).ready(function(){
   //Categories();
     var head_categories = new HeaderCategories();
-    var head_community = new HeaderCategories({iButton:"community",iContent:"community_lists"});
+    var head_community = new HeaderCategories({iButton:"community",iContent:"community_lists",leftpx:1});     
+    var helpit_lists = new HeaderCategories({iButton:"helpit",iContent:"helpit_lists",leftpx:1});
+	$("ul.sf-menu").superfish({delay:0}); 
     serchboxval();
-
-    
     if(typeof(signstate) != "undefined"){
         $("#naviinfo").prepend(signstate);
         }
@@ -35,10 +36,11 @@ $(document).ready(function(){
     if(typeof(selleren)=='undefined' || '' == selleren){
         $("#question").append('<span class="shu">|</span><a onclick="openCSIMChatFrame();dh_chat();return false;" href="#" class="customerlink">Online Customer Service</a>');
     }
-    var cartHtml = "Cart &nbsp;" + iBacketItemsNumber + "<span>&nbsp;item(s)</span>";
+    var cartHtml = "Cart &nbsp;<span>" + iBacketItemsNumber + "</span>&nbsp;item(s)";
     
     $("#cartcnt").html(cartHtml);
 
+    
 });
 </script>
 
@@ -61,37 +63,56 @@ function headsearch(){
     $("#searchForm").submit();
     return false;
 }
-
+function doheadsearch(){  
+    var inputStr = document.getElementById("searchkey").value;
+  		for( i=0; i<inputStr.length; i++){     
+      		if( inputStr.charCodeAt(i) >255 ){   //是否为汉字
+            	alert("Please input the information in English ONLY.");  
+           	 	$("#searchkey").val(''); 
+       			return true;                     
+        	}  
+		}
+	headsearch();
+    return   false;   
+}
 </script> 
 <script type="text/javascript" src="http://www.dhgate.com/common/cart/forpersate.do?act=LiveHelpName"></script>
-<script language="javascript" src="http://www.dhgate.com/common/validforjs.jsp"></script>
-<div id="community_lists" style="right:131px;top:20px;"> 
-    <span> 
-        <a href="http://www.dhgate.com/!forums">DHgate Forums</a> 
-        <a href="http://blog.dhgate.com">DHgate Blog</a> 
+<script language="javascript" src="http://www.dhgate.com/common/validforPHP.jsp"></script>
+<div id="lists">    <span class="border">    	<div class="left_a">		<ul class="sf-menu sf-js-enabled sf-shadow">				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+apparel.html" class="bt sf-with-ul">Apparel<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale+costume.html" rel="nofollow">Costumes &amp; Cosplay</a></li>							<li><a href="http://www.dhgate.com/wholesale+intimate.html" rel="nofollow">Intimate Apparel</a></li>							<li><a href="http://www.dhgate.com/wholesale+mens+clothing.html" rel="nofollow">Men's Clothing</a></li>							<li><a href="http://www.dhgate.com/wholesale/men-s-outerwear/c140504.html" rel="nofollow">Men's Outerwear</a></li>							<li><a href="http://www.dhgate.com/wholesale/mens-t-shirts/c140515.html" rel="nofollow">Men's T-shirts</a></li>							<li><a href="http://www.dhgate.com/wholesale+wedding+apparel+accessories.html" rel="nofollow">Wedding Apparel &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale+womens+clothing.html" rel="nofollow">Women's Clothing</a></li>							<li><a href="http://www.dhgate.com/wholesale+dresses.html" rel="nofollow">Women's Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale/women-s-outerwear/c141006.html" rel="nofollow">Women's Outerwear</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+baby.html" class="bt sf-with-ul">Baby &amp; Kids<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/baby-clothing/c2808.html" rel="nofollow">Baby Clothing</a></li>							<li><a href="http://www.dhgate.com/wholesale/baby-diapering/c2804.html" rel="nofollow">Baby Diapering</a></li>							<li><a href="http://www.dhgate.com/wholesale/baby-feeding/c2817.html" rel="nofollow">Baby Feeding</a></li>							<li><a href="http://www.dhgate.com/wholesale+children+accessories.html" rel="nofollow">Children's Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/childrens-outdoor/c2801.html" rel="nofollow">Children's Outdoors</a></li>							<li><a href="http://www.dhgate.com/wholesale/girls-clothing/c2831.html" rel="nofollow">Girls' Clothing</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+fashion.html" class="bt sf-with-ul">Bags, Shoes &amp; Accessories<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale+handbags.html" rel="nofollow">Handbags &amp; Bags</a></li>							<li><a href="http://www.dhgate.com/wholesale+hats.html" rel="nofollow">Hats</a></li>							<li><a href="http://www.dhgate.com/wholesale/mens-belts-buckles/c150302.html" rel="nofollow">Men's Belts &amp; Buckles</a></li>							<li><a href="http://www.dhgate.com/wholesale/mens-key-chains/c150305.html" rel="nofollow">Men's Key Chains</a></li>							<li><a href="http://www.dhgate.com/wholesale+mens+shoes.html" rel="nofollow">Men's Shoes</a></li>							<li><a href="http://www.dhgate.com/wholesale/mens-ties/c150309.html" rel="nofollow">Men's Ties</a></li>							<li><a href="http://www.dhgate.com/wholesale+sunglasses.html" rel="nofollow">Sunglasses</a></li>							<li><a href="http://www.dhgate.com/wholesale+womens+scarves.html" rel="nofollow">Women's Scarves &amp; Wraps</a></li>							<li><a href="http://www.dhgate.com/wholesale+womens+shoes.html" rel="nofollow">Women's Shoes</a></li>							<li><a href="http://www.dhgate.com/wholesale/womens-wallets/c1511.html" rel="nofollow">Women's Wallets</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+cameras.html" class="bt sf-with-ul">Cameras &amp; Photo<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/batteries/c120302.html" rel="nofollow">Batteries</a></li>							<li><a href="http://www.dhgate.com/wholesale/china-brand-camcorders/c120402.html" rel="nofollow">China Brand Camcorders</a></li>							<li><a href="http://www.dhgate.com/wholesale/digital-camera-accessories/c1205.html" rel="nofollow">Digital Camera Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/lenses-filters/c1212.html" rel="nofollow">Lenses &amp; Filters</a></li>							<li><a href="http://www.dhgate.com/wholesale/lighting-studio-equipment/c1213.html" rel="nofollow">Lighting &amp; Studio Equipment</a></li>							<li><a href="http://www.dhgate.com/wholesale+point+shoot.html" rel="nofollow">Point &amp; Shoot</a></li>							<li><a href="http://www.dhgate.com/wholesale/projection-equipment/c1218.html" rel="nofollow">Projection Equipment</a></li>							<li><a href="http://www.dhgate.com/wholesale+spy+cameras.html" rel="nofollow">Spy Cameras &amp; Supports</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+car+parts.html" class="bt sf-with-ul">Cars<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/automotive-tools/c2113.html" rel="nofollow">Automotive Tools</a></li>							<li><a href="http://www.dhgate.com/wholesale/car-truck-replacement-parts/c2110.html" rel="nofollow">Car &amp; Truck Replacement Parts</a></li>							<li><a href="http://www.dhgate.com/wholesale+car+accessories.html" rel="nofollow">Car Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/car-electronics/dcp.html" rel="nofollow">Car Electronics</a></li>							<li><a href="http://www.dhgate.com/wholesale+motorcycle+apparel.html" rel="nofollow">Motorcycle Apparel</a></li>							<li><a href="http://www.dhgate.com/wholesale/motorcycle-parts/c2111.html" rel="nofollow">Motorcycle Parts</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+cell+phones.html" class="bt sf-with-ul">Cell Phones<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/bar-cell-phones/c130721.html" rel="nofollow">Bar Cell Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale+cell+phone+accessories.html?" rel="nofollow">Accessories &amp; Parts</a></li>							<li><a href="http://www.dhgate.com/wholesale/cell-phone-batteries/c130103.html" rel="nofollow">Batteries</a></li>							<li><a href="http://www.dhgate.com/wholesale+bluetooth+headsets.html?" rel="nofollow">Bluetooth Headsets</a></li>							<li><a href="http://www.dhgate.com/wholesale/cell-phone-car-kits-car-chargers/c130106.html" rel="nofollow">Car Kits &amp; Car Chargers</a></li>							<li><a href="http://www.dhgate.com/wholesale+iphone+screen+protectors.html" rel="nofollow">Screen Protectors</a></li>							<li><a href="http://www.dhgate.com/wholesale+china+cell+phones.html" rel="nofollow">China Brand Cell Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale/dual-sim-card-cell-phones/c130705.html" rel="nofollow">Dual SIM Card Cell Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale/multi-function-cell-phones/dcp.html" rel="nofollow">Multifunction Cell Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale/sim-card-holders-for-iphone/c130132.html" rel="nofollow">SIM Card Holders for iPhone</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+computers.html" class="bt sf-with-ul">Computers<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/computer-usb-gadgets/c1616.html" rel="nofollow">USB Gadgets</a></li>							<li><a href="http://www.dhgate.com/wholesale+computer+webcams.html" rel="nofollow">Webcams</a></li>							<li><a href="http://www.dhgate.com/wholesale+flash+memory+drives.html" rel="nofollow">Flash Memory Drives</a></li>							<li><a href="http://www.dhgate.com/wholesale/mobile-internet-devices-(mid)/c160612.html" rel="nofollow">Mobile Internet Devices (MID)</a></li>							<li><a href="http://www.dhgate.com/wholesale/networking-communications/c1608.html" rel="nofollow">Networking &amp; Communications</a></li>							<li><a href="http://www.dhgate.com/wholesale/printer-supplies-accessories/c1612.html" rel="nofollow">Printer Supplies &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/tablet-pc-notebooks/c160611.html" rel="nofollow">Tablet PC &amp; Notebooks</a></li>							<li><a href="http://www.dhgate.com/wholesale/wireless-adapters/c161803.html" rel="nofollow">Wireless Adapters</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+electronics.html" class="bt sf-with-ul">Electronics<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/accessories-for-apple-ipod/dcp.html" rel="nofollow">Accessories for iPod</a></li>							<li><a href="http://www.dhgate.com/wholesale+gadgets.html" rel="nofollow">Gadgets</a></li>							<li><a href="http://www.dhgate.com/wholesale+headphones.html" rel="nofollow">Headphones &amp; Earphones</a></li>							<li><a href="http://www.dhgate.com/wholesale+dvd+players.html" rel="nofollow">Home Theater</a></li>							<li><a href="http://www.dhgate.com/wholesale+dvds.html" rel="nofollow">Movies &amp; TV</a></li>							<li><a href="http://www.dhgate.com/wholesale+mp3+players.html" rel="nofollow">MP3/MP4 Players</a></li>							<li><a href="http://www.dhgate.com/wholesale+home+theater+projectors.html" rel="nofollow">Projectors &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/radios-cb-ham-shortwave/c2612.html" rel="nofollow">Radios &amp; Walkie Talkies</a></li>							<li><a href="http://www.dhgate.com/wholesale+satellite.html" rel="nofollow">Satellite &amp; Cable TV</a></li>							<li><a href="http://www.dhgate.com/wholesale/stage-studio-cables/c26062407.html" rel="nofollow">Stage &amp; Studio Cables</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+wedding+apparel+accessories.html" class="bt sf-with-ul">Events &amp; Weddings<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/promotion/all/wedding-prom-channel.html" rel="nofollow">Wedding &amp; Prom Channel</a></li>							<li><a href="http://www.dhgate.com/wholesale/bridal-accessories/c140801.html" rel="nofollow">Bridal Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/bridal-jewelry-sets/c14080102.html" rel="nofollow">Bridal Jewelry Sets</a></li>							<li><a href="http://www.dhgate.com/wholesale+bridesmaid+dresses.html" rel="nofollow">Bridesmaid Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale/flower-girl-dresses/c140804.html" rel="nofollow">Flower Girl Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale/groom-wear-accessories/c140805.html" rel="nofollow">Groom Wear &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/mother-of-the-bride-dresses/c140811.html" rel="nofollow">Mother of the Bride Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale+dresses.html" rel="nofollow">Special Occasion Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale/veils-tiaras-hair-accessories/c14080112.html" rel="nofollow">Veils, Tiaras &amp; Hair Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale+wedding+dresses.html" rel="nofollow">Wedding Dresses</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+beauty.html" class="bt sf-with-ul">Health &amp; Beauty<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale+hair+straighteners.html" rel="nofollow">Hair Care</a></li>							<li><a href="http://www.dhgate.com/wholesale/hair-extensions/dcp.html" rel="nofollow">Hair Extensions</a></li>							<li><a href="http://www.dhgate.com/wholesale/hair-wigs-accessories/dcp.html" rel="nofollow">Hair Wigs &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale+makeup.html" rel="nofollow">Makeup</a></li>							<li><a href="http://www.dhgate.com/wholesale+fragrances.html" rel="nofollow">Perfume</a></li>							<li><a href="http://www.dhgate.com/wholesale+health+care.html" rel="nofollow">Personal Care</a></li>							<li><a href="http://www.dhgate.com/wholesale/nail-art/c1809.html" rel="nofollow">Nail Art</a></li>							<li><a href="http://www.dhgate.com/wholesale+tattoos.html" rel="nofollow">Tattoos &amp; Body Art</a></li>							<li><a href="http://www.dhgate.com/wholesale/massagers/c181001.html" rel="nofollow">Massagers</a></li>							<li><a href="http://www.dhgate.com/wholesale/slimming-machine/c180306.html" rel="nofollow">Slimming Machines</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+home.html" class="bt sf-with-ul">Home &amp; Garden<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/housekeeping-organization/c019026.html" rel="nofollow">Housekeeping &amp; Organization</a></li>							<li><a href="http://www.dhgate.com/wholesale/dog-supplies/c019009004.html" rel="nofollow">Dog Supplies</a></li>							<li><a href="http://www.dhgate.com/wholesale/faucets-shower-accessories/c019022.html" rel="nofollow">Faucets,shower &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/home-d%C3%A9cor/c019011.html" rel="nofollow">Home Décor</a></li>							<li><a href="http://www.dhgate.com/wholesale/kitchen-dining-bar/c019030.html" rel="nofollow">Kitchen,Dining &amp; Bar</a></li>							<li><a href="http://www.dhgate.com/wholesale/lights-lighting/c019015.html" rel="nofollow">Lights &amp; Lighting</a></li>							<li><a href="http://www.dhgate.com/wholesale/household-sundries/c019019.html" rel="nofollow">Household Sundries</a></li>							<li><a href="http://www.dhgate.com/wholesale/garden-supplies/c019004.html" rel="nofollow">Garden Supplies</a></li>							<li><a href="http://www.dhgate.com/wholesale/festive-party-supplies/c019029.html" rel="nofollow">Festive &amp; Party Supplies</a></li>							<li><a href="http://www.dhgate.com/wholesale/home-appliances/c019025.html" rel="nofollow">Home Appliances</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+jewelry.html" class="bt sf-with-ul">Jewelry &amp; Watches<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/promotion/all/jewelry-watch-channel.html" rel="nofollow">Jewelry &amp; Watch Channel</a></li>							<li><a href="http://www.dhgate.com/wholesale+charms+bracelets.html" rel="nofollow">Charms &amp; Charm Bracelets</a></li>							<li><a href="http://www.dhgate.com/wholesale/childrens-watches/c032007.html" rel="nofollow">Children's Watches</a></li>							<li><a href="http://www.dhgate.com/wholesale/band-rings/c020016006.html" rel="nofollow">Band Rings</a></li>							<li><a href="http://www.dhgate.com/wholesale+healthy+necklaces.html" rel="nofollow">Healthy Necklaces</a></li>							<li><a href="http://www.dhgate.com/wholesale/jewelry-accessories-tools/c020010.html" rel="nofollow">Jewelry Accessories &amp; Tools</a></li>							<li><a href="http://www.dhgate.com/wholesale+jewelry+sets.html" rel="nofollow">Jewelry Sets</a></li>							<li><a href="http://www.dhgate.com/wholesale/links-chains/c020002006.html" rel="nofollow">Links &amp; Chains</a></li>							<li><a href="http://www.dhgate.com/wholesale/digital-watches/c032008.html" rel="nofollow">Digital Watches</a></li>							<li><a href="http://www.dhgate.com/wholesale/unisex-watches/c032006.html" rel="nofollow">Unisex watches</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+musical+instruments.html" class="bt sf-with-ul">Musical Instruments<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/links-chains/c200206.html" rel="nofollow">Links &amp; Chains</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+security.html" class="bt sf-with-ul">Security &amp; Surveillance<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/electric-guitars/c220507.html" rel="nofollow">Electric Guitars</a></li>							<li><a href="http://www.dhgate.com/wholesale/flutes/c221304.html" rel="nofollow">Flutes</a></li>							<li><a href="http://www.dhgate.com/wholesale+guitar.html" rel="nofollow">Guitars</a></li>							<li><a href="http://www.dhgate.com/wholesale/lasers/c220702.html" rel="nofollow">Lasers</a></li>							<li><a href="http://www.dhgate.com/wholesale/lighting-stage-effects/c2207.html" rel="nofollow">Lighting &amp; Stage Effects</a></li>							<li><a href="http://www.dhgate.com/wholesale/microphones/c220214.html" rel="nofollow">Microphones</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+sports.html" class="bt sf-with-ul">Sports &amp; Outdoors<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/alarm-systems/c262113.html" rel="nofollow">Alarm Systems</a></li>							<li><a href="http://www.dhgate.com/wholesale/surveillance-systems/c262125.html" rel="nofollow">Complete Surveillance Systems</a></li>							<li><a href="http://www.dhgate.com/wholesale/dvr-cards/c26211604.html" rel="nofollow">DVR Cards</a></li>							<li><a href="http://www.dhgate.com/wholesale/hidden-spy-cameras/c262114.html" rel="nofollow">Hidden Spy Cameras</a></li>							<li><a href="http://www.dhgate.com/wholesale/intercom-access-controls/c262108.html" rel="nofollow">Intercom &amp; Access Controls</a></li>							<li><a href="http://www.dhgate.com/wholesale/security-cameras/c262103.html" rel="nofollow">Security Cameras</a></li>							<li><a href="http://www.dhgate.com/wholesale/surveillance-video-equipment/c262116.html" rel="nofollow">Surveillance Video Equipment</a></li>							<li><a href="http://www.dhgate.com/wholesale/video-door-phones/c26210803.html" rel="nofollow">Video Door Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale/wireless-camera-kits/c262105.html" rel="nofollow">Wireless Camera Kits</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+toys.html" class="bt sf-with-ul">Toys<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale+mlb+jerseys.html" rel="nofollow">Baseball Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+nba+jerseys.html" rel="nofollow">Basketball Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+ncaa+jerseys.html" rel="nofollow">College Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+exercise.html" rel="nofollow">Exercise &amp; Fitness</a></li>							<li><a href="http://www.dhgate.com/wholesale+football.html" rel="nofollow">Football Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+golf.html" rel="nofollow">Golf</a></li>							<li><a href="http://www.dhgate.com/wholesale/hockey-fan-shop/dcp.html" rel="nofollow">Hockey Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+outdoors.html" rel="nofollow">Outdoor Sports</a></li>							<li><a href="http://www.dhgate.com/wholesale+soccer+jerseys.html" rel="nofollow">Soccer Jerseys</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+video+games.html" class="bt sf-with-ul">Video Games<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/action-figures/c2525.html" rel="nofollow">Action Figures</a></li>							<li><a href="http://www.dhgate.com/wholesale/activity-amusement-toys/c2528.html" rel="nofollow">Activity &amp; Amusement Toys</a></li>							<li><a href="http://www.dhgate.com/wholesale/educational-learning-toys/c2530.html" rel="nofollow">Educational &amp; Learning Toys</a></li>							<li><a href="http://www.dhgate.com/wholesale/games-puzzles/c2531.html" rel="nofollow">Games &amp; Puzzles</a></li>							<li><a href="http://www.dhgate.com/wholesale/radio-remote-control-toys-hobbies/c2515.html" rel="nofollow">Radio &amp; Remote Control Toys &amp; Hobbies</a></li>							<li><a href="http://www.dhgate.com/wholesale/seasonal-toys/c2532.html" rel="nofollow">Seasonal Toys</a></li>							<li><a href="http://www.dhgate.com/wholesale/video-games/c29.html" rel="nofollow">Classics Video Games</a></li>							<li><a href="http://www.dhgate.com/wholesale/console-games/c2903.html" rel="nofollow">Console Games</a></li>							<li><a href="http://www.dhgate.com/wholesale/nintendo-ds-flash-cards/c2905.html" rel="nofollow">Nintendo DS Flash Cards</a></li>							<li><a href="http://www.dhgate.com/wholesale+video+game+accessories.html" rel="nofollow">Video Game Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale+video+game+consoles.html" rel="nofollow">Video Game Consoles</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/sitemap/index.html" class="bt sf-with-ul bot">View More<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/arts/dcp.html" rel="nofollow">Arts</a></li>							<li><a href="http://www.dhgate.com/wholesale/crafts/dcp.html" rel="nofollow">Crafts</a></li>							<li><a href="http://www.dhgate.com/wholesale/measurement-analysis-instruments/c41.html" rel="nofollow">Measurement Instruments</a></li>							<li><a href="http://www.dhgate.com/wholesale/office-supplies/dcp.html" rel="nofollow">Office Supplies</a></li>					</ul>	</li>					  </ul>		</div>                    </span></div>	
+
+
+<div id="community_lists" style="top:19px;left:967px;">
+	<span>
+    	<a href="http://www.dhgate.com/!forums">DHgate Forums</a>
+    	<a href="http://blog.dhgate.com/">DHgate Blog</a>
         <a href="http://www.facebook.com/dhgate" rel="nofollow">DHgate Facebook</a>
-    </span> 
-</div> 
-<div id="lists" title="C1"><span class="border"></span><span>
-<a href="http://www.dhgate.com/wholesale+apparel.html#nhp-mc1-1">Apparel</a><a href="http://www.dhgate.com/wholesale/arts/dcp.html#nhp-mc2-1">Arts</a><a class="new" href="http://www.dhgate.com/wholesale+baby.html#nhp-mc3-1">Baby &amp; Kids</a><a href="http://www.dhgate.com/wholesale/bags-shoes-accessories/dcp.html#nhp-mc4-1">Bags, Shoes &amp; Accessories</a><a href="http://www.dhgate.com/wholesale/building-decoration-materials/dcp.html#nhp-mc5-1">Building &amp; Decoration Materials</a><a class="new" href="http://www.dhgate.com/wholesale/cameras-photo/dcp.html#nhp-mc6-1">Cameras &amp; Photo</a><a href="http://www.dhgate.com/wholesale/car-vehicles-parts-and-accessories/dcp.html#nhp-mc7-1">Vehicle, Car Accessories</a><a href="http://www.dhgate.com/wholesale+cell+phones.html#nhp-mc8-1">Cell Phones</a><a class="new" href="http://www.dhgate.com/wholesale/computers-networking/dcp.html#nhp-mc9-1">Computers &amp; Networking</a><a href="http://www.dhgate.com/wholesale/crafts/dcp.html#nhp-mc10-1">Crafts</a><a href="http://www.dhgate.com/wholesale+electronics.html#nhp-mc11-1">Electronics</a><a class="new" href="http://www.dhgate.com/wholesale/health-beauty/dcp.html#nhp-mc12-1">Health &amp; Beauty</a><a href="http://www.dhgate.com/wholesale/home-garden/dcp.html#nhp-mc13-1">Home &amp; Garden</a><a href="http://www.dhgate.com/wholesale+jewelry.html#nhp-mc14-1">Jewelry</a><a class="new" href="http://www.dhgate.com/wholesale/musical-instruments/dcp.html#nhp-mc15-1">Musical Instruments</a><a href="http://www.dhgate.com/wholesale/office-supplies/dcp.html#nhp-mc16-1">Office Supplies</a><a href="http://www.dhgate.com/wholesale+sports.html#nhp-mc17-1">Sports &amp; Outdoors</a><a class="new" href="http://www.dhgate.com/wholesale/toys-hobbies/dcp.html#nhp-mc18-1">Toys &amp; Hobbies</a><a href="http://www.dhgate.com/wholesale+video+games.html#nhp-mc19-1">Video Games</a><a href="http://www.dhgate.com/wholesale/virtual-products/c34.html#nhp-mc20-1">Virtual Supplies</a><a class="new" href="http://www.dhgate.com/wholesale+watches.html#nhp-mc21-1">Watches</a>
-</span></div>
-<div style="width:950px; margin:auto;position:relative;">
+    </span>
+</div>
+<div id="helpit_lists">
+    <span>
+         <a href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help Center</a>
+         <a href="http://www.dhgate.com/csmsg/leavemsg.do" rel="nofollow">Message DHgate</a>
+	</span>
+</div>
+
+<div style="width:950px; margin:auto; position:relative;">
   <div id="header">
     <div class="logo"><a href="http://www.dhgate.com/">DHgate Homepage</a><strong>Fast Trading Marketplace</strong></div>
-    
-<div class="info">
-<p id="naviinfo">
-<a href="http://www.dhgate.com/myaccount/index.do" class="impor" rel="nofollow">My DHgate</a>|<a id="community" class="all">Community</a>|<a href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help</a>
-</p>
-</div>
-<div class="question" id="question">Help us improve DHgate <a href="http://www.dhgate.com/myaccount/suggest/suggest.do">Click here!</a></div>
-    
+    <div class="info">
+        <p id="naviinfo">
+	<a href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">My DHgate</a><a id="community" class="all">Community</a>
+	<!-- <a href='http://help.dhgate.com/help/buyerhelpen.php' rel='nofollow'>Help</a> -->
+	<a id="helpit" class="all" href="#" rel="nofollow">Help</a>
+	
+	</p>
+    </div>
+    <div class="question" id="question">Help us improve DHgate <a href="http://www.dhgate.com/myaccount/suggest/suggest.do">Click here!</a></div>
     <div id="search">
-      <form action="http://www.dhgate.com/wholesale/search.do" autocomplete="off" method="get" name="searchForm" id="searchForm" onsubmit="javascript:headsearch();return false;">
+      <form action="http://www.dhgate.com/wholesale/presearch.do#search" autocomplete="off" method="get" name="searchForm" id="searchForm" onsubmit="javascript:doheadsearch();return false;">
         <input type="hidden" name="act" value="search">
         <strong>Search</strong>
         <input type="text" value="" id="searchkey" name="searchkey" class="keyword">
-        <select name="catalog" id="catalog" onkeydown="if(event.keyCode==13){javascript:return headsearch();}">
+        <select name="catalog" id="catalog" class="autoselectstyle" onkeydown="if(event.keyCode==13){javascript:return doheadsearch();}">
           <option value="" selected="selected">All categories</option>
           <option value="14">Apparel</option>
           <option value="31">Arts</option>
@@ -116,29 +137,15 @@ function headsearch(){
           <option value="29">Video Games</option>
           <option value="32">Watches</option>
         </select>
-        <input title="S1" type="button" name="button" id="button" value="" class="go" onclick="javascript:headsearch();">
-        <a href="http://www.dhgate.com/wholesale/searchAd.do?method=searchAd" rel="nofollow" title="S2">Advanced Search</a>
-        <a id="cartcnt" class="cart" href="http://www.dhgate.com/cart/cart.do" rel="nofollow">Cart 0 <span>item(s)</span></a>
+        <input type="button" name="button" id="button" value="" class="go" onclick="javascript:doheadsearch();">
+        <a href="http://www.dhgate.com/wholesale/searchAd.do?method=searchAd" rel="nofollow">Advanced Search</a>
+        <a id="cartcnt" class="cart" href="http://www.dhgate.com/cart/cart.do" rel="nofollow">Cart <span>0</span> item(s)</a>
       </form>
     </div>
-     <div id="main_nav"> 
-    <span>
-    <a class="all" id="all" href="#">All Categories</a>
-    <a href="http://www.dhgate.com/wholesale+christmas.html" style="vertical-align:middle;"><img src="http://image.dhgate.com/images/ico_xmas.gif" style=" vertical-align:middle; padding-right:5px; display:inline">Christmas Channel</a>
-    <a href="http://www.dhgate.com/promo/seller-guarantee-services.html" class="thisguarantee">Guaranteed Products</a>
-    <a href="http://www.dhgate.com/what-s-new.html" class="whatisnew">What's New</a>
-     <a href="http://www.dhgate.com/usa-uk-in-stock.html" class="thisusau orange">Stock in US/UK</a> 
-    <a rel="nofollow" href="http://www.dhgate.com/wholesale-product-reviews.html">Top-Rated Products</a>
-     <a rel="nofollow" class="protection" href="http://www.dhgate.com/protection.html">&nbsp;</a>
+  <div id="main_nav"> <span>    <a class="all" id="all" href="http://www.dhgate.com/all-categories/index.html#new" rel="nofollow">All Categories</a>    <a href="http://www.dhgate.com/promotion/all/summer-sale.html#new" class="thissale" rel="nofollow">Summer Sale</a>    <a href="http://www.dhgate.com/promotion/all/wedding-prom-channel.html#new" class="thiswedding" rel="nofollow">Wedding &amp; Prom</a>    <a href="http://www.dhgate.com/promotion/all/electronics-channel.html#new" class="thiselectronics" rel="nofollow">Electronics</a>    <a href="http://www.dhgate.com/usa-uk-in-stock.html#new" class="thisusau" rel="nofollow">Stock in US/UK</a>    <a href="http://www.dhgate.com/catalog/buy-home.htm#new" class="thispromo" rel="nofollow">Promotions</a>    <a href="http://www.dhgate.com/promotion/all/mastercard-promotion.html#new" class="thiscard" rel="nofollow">MasterCard Zone</a>    <a rel="nofollow" class="protection" href="http://www.dhgate.com/protection.html">&nbsp;</a>    </span> </div>    
     
-    </span> 
-    </div>
-
   </div>
-  
- 
-  
-  </div>
+</div>
 <div id="content">
 <div id="now"><a href="http://www.dhgate.com">Home</a> &gt; <strong>About Us</strong></div>
 <div id="left">
@@ -235,43 +242,23 @@ DHgate will obtain your consent before allowing the download of any software fro
 </div>
 </div>
 <div style=" margin:0 auto; width:950px;"><iframe scrolling="no" frameborder="0" width="950" height="150" src="http://www.dhgate.com/footer_help.html"></iframe></div>
-<div id="foot">
-<h5>DHgate.com - <strong>About us</strong></h5>
- <p><a href="http://www.dhgate.com/index.shtml">Home</a> | <a href="http://www.dhgate.com/myaccount/index.do">Your Account</a> | <a href="http://help.dhgate.com/help/buyerhelpen.php">Help</a> | <a href="http://www.dhgate.com/sitemap/index.html">Sitemap Index</a> | <a href="http://www.dhgate.com/sitemap/top-wholesale-search-keywords.html">Top Searches</a> | <a href="http://www.dhgate.com/sitemap/top-wholesale-products.html">Top Products</a> | <a href="http://help.dhgate.com/help/buyer_about_usen.php" rel="nofollow">About Us</a> 
- | <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g5" rel="nofollow">Contact Us</a> 
- | <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4" rel="nofollow">Security &amp; Privacy</a> 
- | <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g7" rel="nofollow">Terms of Use</a> 
- | <a href="http://www.dhgate.com/affiliate.html">Affiliates</a></p>
-<p>
-<img src="http://image.dhgate.com/images/newhome/footer_0002.gif" alt="" border="0">
-<a href="https://www.paypal.com/cgi-bin/helpscr?cmd=_home-general&amp;nav=0" target="_blank"><img src="http://image.dhgate.com/images/newhome/footer_02_001.gif" border="0"></a><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.DHGATE.COM&amp;lang=en" target="_blank"><img src="http://image.dhgate.com/images/newhome/footer_01.gif" border="0" alt="VeriSign Secured"></a></p>
-<p class="p1">Copyright Notice © 2004 - 2009 DHgate.com  All rights reserved.</p>
+﻿<div id="footer">
+     <div id="bottom_nav">        <p class="feedbacklink">Help improve your experience on DHgate.com, <a target="_blank" rel="nofollow" href="http://ued.dhgate.com/dhsurvey/index.php?sid=67525&amp;lang=en">tell us what you think.</a></p>        <div class="h-line1"></div>		<p class="payico"></p>        <p>        	        <a style="margin:0" href="http://www.dhgate.com/" rel="nofollow">Home</a> |        	        <a style="margin:0" href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">Your Account</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help</a> |        	        <a style="margin:0" href="http://factory.dhgate.com/">China Factory</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/index.html">Sitemap Index</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-search-keywords.html">Top Searches</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-products.html">Top Products</a> |        	        <a style="margin:0" href="http://www.dhgate.com/free-shipping.html">Free Shipping</a> |        	        <a style="margin:0" href="http://www.dhgate.com/wholesale-departments.html">Departments</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php" rel="nofollow">About Us</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4" rel="nofollow">Security &amp; Privacy</a> |        	         <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g7" rel="nofollow">Terms of Use</a>         	        </p>        <p><a href="http://pt.dhgate.com">Portuguese</a> | <a href="http://fr.dhgate.com">French</a> | <a href="http://es.dhgate.com">Spanish</a> | <a href="http://de.dhgate.com">German</a> | <a href="http://ru.dhgate.com">Russian</a> | <a href="http://it.dhgate.com">Italian</a> | <a href="http://ja.dhgate.com">Japanese</a></p>        <p>Copyright Notice © 2004 - 2011 DHgate.com  All rights reserved.</p>   </div>    
 </div>
-
-
-<!-- Google Analytics Tracking Code - 090512 - START -->
-
 <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(
+['_setAccount', 'UA-425001-1'],
+['_setDomainName', '.dhgate.com'],
+['_trackPageview', location.pathname + location.search + escape(location.hash)]
+);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-try {
-
-var pageTracker = _gat._getTracker("UA-425001-1");
-
-pageTracker._setDomainName(".dhgate.com");
-
-pageTracker._setAllowHash("false");
-
-pageTracker._trackPageview(location.pathname + location.search + escape(location.hash));
-
-} catch(err) {}</script>
 
 <!-- Google Analytics Tracking Code - 090512 - END -->
 
