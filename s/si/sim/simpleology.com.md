@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the simpleology.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603085544id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleology.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624072257id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
 
 # simple•ology : The Simple Science of Getting What You Want
 
 ** Privacy Policy **
 
-[](http://www.truste.org/ivalidate.php?url=www.simpleology.com&sealid=101)
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.simpleology.com/seal_m "Validate TRUSTe privacy certification")
 
-_Last Updated_ : 20 November 2008 
+_Last Updated_ : 11 October 2010
 
-_Mark Joyner, Inc_ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. 
+_Construct Zero, Inc_ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. 
 
-This privacy statement covers the site [ www.simpleology.com](http://www.simpleology.com/).  Because this web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+This privacy statement covers the site [ www.simpleology.com](http://www.simpleology.com/).  Because this web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 By displaying the TRUSTe trustmark, [www.simpleology.com](http://www.simpleology.com/) has agreed to notify users of: 
 
@@ -26,7 +26,7 @@ By displaying the TRUSTe trustmark, [www.simpleology.com](http://www.simpleology
 
   6. What choices are available to users regarding collection, use and distribution of the information. 
 
-  7. What measures are taken by Mark Joyner, Inc to protect the information under its control. 
+  7. What measures are taken by Construct Zero, Inc to protect the information under its control. 
 
   8. How users can correct any inaccuracies in the information. 
 
@@ -45,13 +45,15 @@ If you fail to receive a satisfactory response from the support desk, you can se
 
 **If by post:**
 
-Mark Joyner, Inc  
-7426 Cherry Ave,. Ste 210 #150  
-Fontana, CA 92336 
+Construct Zero, Inc.  
+1001 Bayhill Dr. Suite 200  
+San Bruno, CA 94066  
+USA
 
 **If by phone:**
 
-888-569-6376 or 888JoynerM 
++1 650 616 4010   
++1 888 JOYNERM ( 1888- 569- 6376) 
 
 If you do not receive acknowledgment of your inquiry, or if your inquiry is still not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog.php): 
 
@@ -74,45 +76,46 @@ Information is collected from members when they register for Simpleology, which 
   * identify the member when they log into Simpleology, and to customize their experience based on what courses they have purchased; and 
   * contact the member should an issue arise with their product order or their Simpleology account;
   * if approval is given by the member, to inform them of new and/or related product offerings in which they may be interested (see "Sharing"); and
-  * geographical information, when collected, is done so for our own research purposes and is not connected to member's Personally Identifiable Information following its collection.  
+  * geographical information, when collected, is done so for our own research purposes and is not connected to member's Personally Identifiable Information following its collection.
 
 
 
-
-Upon registration, members also have the option to subscribe to receive newsletters and communications from [www.simpleology.com](http://www.simpleology.com/).
+> Upon registration, members also have the option to subscribe to receive newsletters and communications from [www.simpleology.com](http://www.simpleology.com/).
 
 > [www.simpleology.com](http://www.simpleology.com/) runs two mailing lists: 
 
-  * Simpleology Weekly – our main list to inform members of important events and service announcements; and 
+  * Simpleology Weekly - our main list to inform members of important events and service announcements; and 
   * Simpleology Daily - a daily service of reminders and motivational information.
 
 
 
-**Inside Simpleology**
-
-After logging into Simpleology, members may submit personal, and personally identifiable, information using the tools and software available inside Simpleology. The information submitted via the Daily Target Praxis, Mental Lockbox, Delegation Station, Dream Catcher, Observation Log, and Major Focus sections is voluntary. Company employees are bound by non-disclosure agreement and code of conduct in which they are not to access member accounts except to troubleshoot specific support requests. The information may be used by the company's marketing team to further customize the member's experience of the site, and to better target our information, tools and offerings. Such information may, on occassion, be passed in aggregate form (non personally identifiable) to third parties (see "Sharing" for more information). 
+**Inside Simpleology  
+**  
+After logging into Simpleology, members may submit personal, and personally identifiable, information using the tools and software available inside Simpleology. The information submitted via the Simplify My Life, Mental Lockbox, Delegation Station, Dream Catcher, Observation Log, and Major Focus sections is voluntary.  Company employees are bound by non-disclosure agreement and code of conduct in which they may only access member accounts in order to troubleshoot specific support requests. The information may be used by the company's marketing team to further customize the member's experience of the site, and to better target our information, tools and offerings. Such information may, on occasion, be passed in aggregate form (non-personally identifiable) to third parties (see "Sharing" for more information).Construct Zero, Inc
 
 **Support Desk**
 
-Information such as name and email address is required when members submit a ticket to our support desk.  This information is required so that the customer care team may respond to that query, and the member may track the progress of their complaint online. The information collected is used solely for purpose of resolving the member’s complaint or query. 
+Information such as name and email address is required when members submit a ticket to our support desk.  This information is required so that the customer care team may respond to that query, and the member may track the progress of their complaint online. The information collected is used solely for purpose of resolving the member's complaint or query. 
 
 **Refer-a-Friend**
 
-When new members register for Simpleology, we may present them with the option of selecting to tell friends about Simpleology also. If the new member elects to use our Refer-a-Friend service for passing on information about our web site to another person, we ask the referrer for their friend’s first name and email address for the purpose of sending the friend a one-time email containing a link to our website. The communication sent will include an explanation of how the friend came to receive the email and a link to our support desk if they have any concerns. Mark Joyner, Inc stores the information collected via this tool on a log file, but does not use it for any purpose other than to send this one-time email. 
+When new members register for Simpleology, we may present them with the option of selecting to tell friends about Simpleology also. If the new member elects to use our Refer-a-Friend service for passing on information about our web site to another person, we ask the referrer for their friend’s first name and email address for the purpose of sending the friend a one-time email containing a link to our website. The communication sent will include an explanation of how the friend came to receive the email and a link to our support desk if they have any concerns. Construct Zero, Inc stores the information collected via this tool on a log file, but does not use it for any purpose other than to send this one-time email. 
 
 **Testimonial Form**
 
-Mark Joyner, Inc invites all members to post a testimonial about Simpleology using our Testimonial Form located here 
+Construct Zero, Inc invites all members to post a testimonial about Simpleology using our Testimonial Form located here 
 
-[http://www.simpleology.com/testimonials.html ](http://www.simpleology.com/testimonials.html) 
+[http://www.simpleology.com/testimonials.htm ](http://www.simpleology.com/testimonials.htm) 
 
 Personally identifiable information submitted by members via the testimonial form may include: name, website address, phone number and contact information, and any pictures of the member that the member wishes to add. 
 
-The information provided in this form is completely voluntary and at the discretion of the member. When submitting personally identifiable information via a testimonial, members should be aware that their information may be published by Mark Joyner, Inc or used in our marketing, and that such information may be read, collected, or used by other Simpleology members or members of the public. Simpleology is not responsible for the personally identifiable information members volunteer to this form.
+The information provided in this form is completely voluntary and at the discretion of the member. When submitting personally identifiable information via a testimonial, members should be aware that their information may be published by Construct Zero, Inc or used in our marketing, and that such information may be read, collected, or used by other Simpleology members or members of the public. Simpleology is not responsible for the personally identifiable information members volunteer to this form.
 
-We use an independent service provider to record and store member testimonials called [InstantAudio.com](http://instantaudio.com/). (For more information, please see “Sharing / Service Providers”.)
+We use an independent service provider to record and store member testimonials called [InstantAudio.com](http://instantaudio.com/). (For more information, please see "Sharing / Service Providers".)
 
-**Strategic Partnership Application** Businesses or individuals who want to form a working relationship with Simpleology use this site to sign-up to be contacted by Mark Joyner Inc. This application page asks for the potential business partner’s name, email address, and phone number in order to be contacted by Mark Joyner, Inc. They are also able to provide more detailed information about their company which is not personally identifiable, such as how many visitors come to the website and what kind of newsletters are circulated. This information is used to assess the person's suitability for the Simpleology Partnership Program. If the person is successful, they will be required to supply information to set up their account, including their name, mailing address, phone number, paypal address, email address, and Tax ID. This information is used to deliver strategic partner related information and services, and pay commission payments. All information provided, and participation in the partnership program, is voluntary. 
+**Strategic Partnership Application**
+
+Businesses or individuals who want to form a working relationship with Simpleology use this site to sign-up to be contacted by Construct Zero, Inc. This application page asks for the potential business partner’s name, email address, and phone number in order to be contacted by Construct Zero, Inc. They are also able to provide more detailed information about their company which is not personally identifiable, such as how many visitors come to the website and what kind of newsletters are circulated. This information is used to assess the person's suitability for the Simpleology Partnership Program. If the person is successful, they will be required to supply information to set up their account, including their name, mailing address, phone number, paypal address, email address, and Tax ID. This information is used to deliver strategic partner related information and services, and pay commission payments. All information provided, and participation in the partnership program, is voluntary. 
 
 **Communications From This Site**
 
@@ -130,11 +133,11 @@ YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UND
 
 **Discussion Community**
 
-The Simpleology website includes a link to the MarkJoyner.name Discussion Community.  Simpleology members may use their Simpleology login details to log into the forum. Participation in the MarkJoyner.name Discussion Community is voluntary and members should be aware that any personally identifiable information voluntarily submitted to the Discussion Community can be read, collected, or used by others, and could be used to send unsolicited messages. Mark Joyner, Inc is not responsible for the personally identifiable information volunteered to this forum. 
+The Simpleology website includes a link to the MarkJoyner.name Discussion Community.  Simpleology members may use their Simpleology login details to log into the forum. Participation in the MarkJoyner.name Discussion Community is voluntary and members should be aware that any personally identifiable information voluntarily submitted to the Discussion Community can be read, collected, or used by others, and could be used to send unsolicited messages. Construct Zero, Inc is not responsible for the personally identifiable information volunteered to this forum. 
 
 For more information about the Discussion Community, including the use of cookies on the Community, please read the privacy policy contained on the MarkJoyner.name website: 
 
-[**http://www.markjoyner.name/privacy.html**](http://www.markjoyner.name/privacy.html). 
+[**http://www.simpleology.com/privacy.php**](http://www.simpleology.com/privacy.php). 
 
 **Service Announcements**
 
@@ -142,29 +145,27 @@ On rare occasions it may be necessary to send out a service-related announcement
 
 **Sharing**
 
-_Legal Disclaimer:_ Mark Joyner, Inc is the sole owner of the information collected on this web site.  Mark Joyner, Inc will share your information with outside parties when required to by law or in the good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on this web site. 
+_Legal Disclaimer:_ Construct Zero, Inc is the sole owner of the information collected on this web site.  Construct Zero, Inc will share your information with outside parties when required to by law or in the good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on this web site. 
 
-_Sharing Personal Information with Third Parties:_ Mark Joyner, Inc may also share your personally identifiable information in the following cases: 
-
-_A Survey or Contest_ that is conducted in conjunction with a third party. Participation in any such contests or surveys is _completely voluntary_ (for further information, see "Contests and Surveys" below). 
+_Sharing Personal Information with Third Parties:_ Construct Zero, Inc may also share your personally identifiable information in the following cases: 
 
 _Service Providers_ : We use a service provider called InstantAudio.com to record and store Testimonials submitted via our Testimonial Form. The information submitted via this service is voluntary and InstantAudio.com is prohibited from using member personally identifiable information for any other purpose. 
 
-_Third Party Product Offerings_ : We may, on occassion, request specific information (such as phone number) to pass on to pre-approved third parties who offer products that are related to those the member has purchased with us. The information provided by the member is voluntary. The third party is not permitted to share, rent or sell that information with anyone else, and remains the property of Mark Joyner, Inc. Please be aware that if you purchase any products offered by such third parties, your information at that point will become the property of that seller and bound by their separate privacy practices. While Mark Joyner, Inc takes reasonable care to ensure that third party offerings made to its members are of high quality, it is not responsible for the quality or delivery of these third party offerings. If you find that any such third party is using your information for purposes other than specified above, please contact [ mark@markjoyner.name](mailto:%20mark@markjoyner.name).
+_Third Party Product Offering_ s: We may, on occasion, request specific information (such as phone number) to pass on to pre-approved third parties who offer products that are related to those the member has purchased with us. The information provided by the member is voluntary. The third party is not permitted to share, rent or sell that information with anyone else, and remains the property of Construct Zero, Inc. Please be aware that if you purchase any products offered by such third parties, your information at that point will become the property of that seller and bound by their separate privacy practices. While Construct Zero, Inc takes reasonable care to ensure that third party offerings made to its members are of high quality, it is not responsible for the quality or delivery of these third party offerings. If you find that any such third party is using your information for purposes other than specified above, please contact [ mark@markjoyner.nam](mailto:%20mark@markjoyner.nam).
 
-_Agents:_ We use PayPal to process Simpleology purchases and bill members on trial subscriptions. When purchases are made, members are directed to a PayPal webpage to process their payment, either using their PayPal account or credit card. For full details about PayPal’s privacy policy, please visit their website at [www.paypal.com](http://www.paypal.com/)
+_Agents:_ We use PayPal to process Simpleology purchases and bill members on trial subscriptions. When purchases are made, members are directed to a PayPal webpage to process their payment, either using their PayPal account or credit card. For full details about PayPal's privacy policy, please visit their website at [www.paypal.com](http://www.paypal.com/)
 
-_Aggregate Information (non-personally identifiable):_ Mark Joyner, Inc may share aggregate information with partners or advertisers, such as how many members are subscribed to the [www.simpleology.com](http://www.markjoyner.name/) mailing list, geographic information, sales and marketing data. This is not linked to any personally identifiable information. 
+_Aggregate Information (non-personally identifiable):_ Construct Zero, Inc may share aggregate information with partners or advertisers, such as how many members are subscribed to the www.simpleology.com mailing list, geographic information, sales and marketing data . This is not linked to any personally identifiable information.  
 
 **Links**
 
-This web site contains some links to other web sites.  Please be aware that Mark Joyner, Inc is not responsible for the privacy practices of such other sites, and encourages members to be aware when they leave [www.simpleology.com](http://www.markjoyner.name/) and to read the privacy statements of each and every site web site that collects personally identifiable information. This privacy statement applies solely to the information collected by [www.simpleology.com](http://www.markjoyner.name/). 
+This web site contains some links to other web sites.  Please be aware that Construct Zero, Inc is not responsible for the privacy practices of such other sites, and encourages members to be aware when they leave [www.simpleology.com](http://www.simpleology.com/) and to read the privacy statements of each and every site web site that collects personally identifiable information. This privacy statement applies solely to the information collected by [www.simpleology.com](http://www.simpleology.com/). 
 
 **How To Unsubscribe**
 
-Every newsletter sent to members contains “unsubscribe” instructions so members who no longer wish to receive communications may opt-out of receiving such communications. 
+Every newsletter sent to members contains "unsubscribe" instructions so members who no longer wish to receive communications may opt-out of receiving such communications. 
 
-Members may also opt-in and out of our mailing lists using the tools located in the “Manage Your Account” section of Simpleology. 
+Members may also opt-in and out of our mailing lists using the tools located in the "Manage Your Account" section of Simpleology. 
 
 To have your membership account deleted entirely or if you have any queries about unsubscribing or the personal information collected on this site, please contact our support desk and we will be very happy to assist you: 
 
@@ -172,9 +173,9 @@ To have your membership account deleted entirely or if you have any queries abou
 
 **Correcting/Updating Information**
 
-If a member’s information, such as email address changes, members can log into Simpleology and click on “Manage My Account” to edit their information as desired.
+If a member's information, such as email address changes, members can log into Simpleology and click on "Manage My Account" to edit their information as desired.
 
-Member’s Discussion Community profiles can be altered at any time to reflect changes in messaging preferences. To alter your profile, simply log into the Discussion Community and click on “User CP” located on the top-left of the screen, or click on the following link: 
+Member's Discussion Community profiles can be altered at any time to reflect changes in messaging preferences. To alter your profile, simply log into the Discussion Community and click on "User CP" located on the top-left of the screen, or click on the following link: 
 
 [ http://www.markjoyner.name/forums/usercp.php](http://www.markjoyner.name/forums/usercp.php)? 
 
@@ -195,7 +196,7 @@ This information is logged beside your account profile in our system and stored 
 
 **Cookies**
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. It allows information entered in one webpage to be “remembered” when you enter a new webpage. 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. It allows information entered in one webpage to be "remembered" when you enter a new webpage. 
 
 We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. 
 
@@ -219,17 +220,17 @@ Some of our business partners (e.g. agents or service providers) use cookies on 
 
 **Surveys or Contests**
 
-From time-to-time [www.simpleology.com](http://www.markjoyner.name/) may provide you the opportunity to participate in contests or surveys.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and therefore you have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name, email and/or shipping address), and demographic information (such as zip code). 
+From time-to-time [www.simpleology.com](http://www.simpleology.com/) may provide you the opportunity to participate in contests or surveys.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and therefore you have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name, email and/or shipping address), and demographic information (such as zip code). 
 
 We use this information to notify contest winners and award prizes. 
 
-We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
+We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
 
 **Security**
 
-This website takes careful measures to protect member information and prevent the loss and misuse of such information. When you register for Simpleology, your information is encrypted and stored behind a firewall. The website runs regular external and internal audits, and vulnerability and intrusion detection scans. All member information is restricted to Mark Joyner, Inc directors, employees or contractors who are contractually prevented from using such information for any purpose other than what is required to perform their jobs. Information is provided to directors, employees and contractors on a need-to-know basis, and password protection is used to verify the identity of directors, employees and contractors accessing member information. The servers that store your information are located in a secure locked facility. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+This website takes careful measures to protect member information and prevent the loss and misuse of such information. When you register for Simpleology, your information is encrypted and stored behind a firewall. The website runs regular external and internal audits, and vulnerability and intrusion detection scans. All member information is restricted to Construct Zero, Inc directors, employees or contractors who are contractually prevented from using such information for any purpose other than what is required to perform their jobs. Information is provided to directors, employees and contractors on a need-to-know basis, and password protection is used to verify the identity of directors, employees and contractors accessing member information. The servers that store your information are located in a secure locked facility. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
 
-**Notice of Compliance to California Residents – Your California Privacy Rights Under The California Online Privacy Protection Act and the California Business and Professions Code**
+**Notice of Compliance to California Residents - Your California Privacy Rights Under The California Online Privacy Protection Act and the California Business and Professions Code**
 
 This privacy policy identifies the categories of personally identifiable information that our company collects through our Web site or online service, about individual consumers who use or visit our company's commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information. 
 
@@ -266,4 +267,4 @@ Under California Law SB 27, California residents have the right to receive, once
 
 **Revisions To This Policy**
 
-Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes. If we are going to use members’ information in a manner different from that stated at the time of collection, we will notify members via email. Members will have a choice whether or not we may use their information in this different manner. 
+Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes. If we are going to use members' information in a manner different from that stated at the time of collection, we will notify members via email. Members will have a choice whether or not we may use their information in this different manner. 
