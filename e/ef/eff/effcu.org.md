@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121214727id_/http%3A//effcu.org/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624195552id_/http%3A//effcu.org/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Space Coast Credit Union Privacy Notice
 
@@ -27,4 +27,4 @@ We may disclose all of the information that we collect, as described above, to c
 
 We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal and state laws and regulations to guard your information.
 
-We recognize the need to provide additional privacy protections for children who visit our site. [Learn more about our privacy policy for children who are under the age of 13 by clicking here.](https://web.archive.org/web/20101121214727id_/http%3A//effcu.org/help/kids-privacypolicy.asp)
+We recognize the need to provide additional privacy protections for children who visit our site. [Learn more about our privacy policy for children who are under the age of 13 by clicking here.](https://web.archive.org/web/20110624195552id_/http%3A//effcu.org/help/kids-privacypolicy.asp)
