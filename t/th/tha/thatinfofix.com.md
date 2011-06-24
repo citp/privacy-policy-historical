@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatinfofix.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224072917id_/http%3A//www.thatinfofix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatinfofix.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624214216id_/http%3A//thatinfofix.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - That Info Fix
 
@@ -6,7 +6,7 @@
 
 That Info Fix does not sell, trade, giveaway or abuse your personal information for any reason. Any information submitted by you is used for login details needed to gain access to this site or to identify you as a user of That Info Fix.
 
-[Contact That Info Fix](https://web.archive.org/web/20101224072917id_/http%3A//contact/).
+[Contact That Info Fix](https://web.archive.org/web/20110624214216id_/http%3A//contact/).
 
 **General Privacy Policy**
 
