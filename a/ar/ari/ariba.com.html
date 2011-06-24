@@ -1,36 +1,40 @@
-<!--The following is the downloaded HTML source of the ariba.com privacy policy that was archived on 2010-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101116202147id_/http%3A//ariba.com/legal/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ariba.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624222246id_/http%3A//ariba.com/legal/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="Description" content="Ariba provides software solutions for spend management, contract management, supplier management, working capital management, and procurement management">
 	<meta name="Keywords" content="">
-	<title>Spend Management, Supplier Management, and Working Capital Management Software | Ariba, Inc.</title>
+	<title>Spend Management, Invoice Management, Payment Management, and Contract Management Software - Ariba, Inc.</title>
 
 <link rel="apple-touch-icon" href="/img/icons/apple-touch-icon.png">	
-
 	<script type="text/javascript" src="/core/jQuery/jquery-1.4.2.min.js"></script>
-		
-	<script type="text/javascript" src="/core/jQuery/jquery.tools.min.js"></script>	
+	
+	
+	<!--[if !IE 7]-->
+		<script type="text/javascript" src="/core/jQuery/jquery.tools.min.js"></script>
+	<!--[endif]-->
+	
+	<!--[if lte IE 7]>
+		<script type="text/javascript" src="/core/jQuery/jquery.tools.ie7.min.js"></script>
+	<![endif]-->
+	
     <script type="text/javascript" src="/core/jQuery/jquery.cycle.all.2.73.js"></script>
 	<script type="text/javascript" src="/core/jQuery/jquery.hoverIntent.minified.js"></script>	
-	<script type="text/javascript" src="/core/js/main.js"></script>
-	<script type="text/javascript" src="/core/js/js_forms.js"></script>
-	<script type="text/javascript" src="/core/jQuery/jquery-ui-1.8.1.custom.min.js"></script>
-	<script type="text/javascript" src="/core/jQuery/jquery.pngFix.js"></script>
-	
+	<script type="text/javascript" src="/core/js/main.js"></script> 
+	<script type="text/javascript" src="/core/js/js_forms.js?v=2011.1.6.2"></script>
+	<script type="text/javascript" src="/core/jQuery/jquery-ui-1.8.1.custom.min.js"></script>	
 	
 		<link rel="stylesheet" href="/core/css/reset.css" type="text/css" media="screen">		
-		<link rel="stylesheet" href="/core/css/main.css" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/core/css/main.css?v=2011.1.7.1" type="text/css" media="screen">	
 		<!--[if IE]>
 			<link rel="stylesheet" href="/core/css/ie.css" type="text/css" media="screen" />
 		<![endif]-->
+		
+	<link rel="SHORTCUT ICON" href="/img/logos/ariba_ico.ico">	
 	
 	
-	<link rel="SHORTCUT ICON" href="/img/logos/ariba_ico.ico">
-	
-
 		
  
 </head>
@@ -38,8 +42,11 @@
 	<body class="" id="topOfPage">
 
 
-<div id="header" class="wrapper">
-	<div id="loginBox" class="onPale">
+
+
+<div class="headerBG">
+	<div class="header wrapper">
+		<div id="loginBox" class="onPale">
 	<ul id="topnav" style="width:68px;">
 		<li>
 			<a id="loginNavA">Login</a>
@@ -48,26 +55,27 @@
 					<li><a href="http://buyer.ariba.com/" target="_blank" title="Ariba Network for Buyers" onclick="setUserType('Buyer');">Buyer</a></li>
 					<li><a href="http://supplier.ariba.com/" target="_blank" title="Ariba Network for Sellers" onclick="setUserType('Supplier');">Supplier</a></li>
 					<li><a href="https://connect.ariba.com/" target="_blank" title="Ariba's Portal for Knowledge and Support" onclick="setUserType('Support');">Support</a></li>
+					<li><a href="https://service.ariba.com/Discovery.aw/ad/logon/" target="_blank" title="Ariba Discovery" onclick="setUserType('Discovery');">Discovery</a></li>
 				</ul>
 			</div>
 		</li>
 	</ul>
 </div>
-	<div style="float:right; padding:7px 10px;"><a href="/careers/" class="onBlue">Careers</a><span class="blue"> &nbsp;&nbsp;|&nbsp;&nbsp; </span><a href="/contact.cfm" class="onBlue">Contact Us</a></div>
-	<div id="logo" class="onBlue" style="height:42px; width:261px;">
-		<a href="/" title="Ariba, Inc. - Better Commerce" style="height:42px; width:261px;"><img src="/img/logos/logo_ariba_withtagline_261x42.png" alt="Ariba, Inc. - Better Commerce" style="height:42px; width:261px;"></a>
-	</div>
-</div> 	<div id="nav" class="onPale">		
+		<div style="float:right; padding:7px 10px;"><a href="/careers/" class="onBlue">Careers</a><span class="blue"> &nbsp;&nbsp;|&nbsp;&nbsp; </span><a href="/contact.cfm" class="onBlue">Contact Us</a></div>
+		<div id="logo" class="onBlue" style="height:42px; width:261px;">
+			<a href="/" title="Ariba, Inc. - Better Business Commerce" style="height:42px; width:261px;"><img src="/img/logos/logo_ariba_withtagline_261x42.png" alt="Ariba, Inc. - Better Commerce" style="height:42px; width:261px;"></a>
+		</div>
+	</div> 	<div id="nav" class="onPale">		
 
 		<ul id="topnav">
-			<div id="search"><form id="searchBox" method="post" action="/search-results.cfm"><input value="SEARCH" onfocus="if(this.value == 'SEARCH') { this.value = ''; }" id="searchText" type="text" name="searchText"><input type="submit" value="" id="submitSearch" src="/img/spacer.gif"></form></div>		
-		<!-- START ARIBA NAV MENU --><li style="background:url(/img/nav-seperator.gif) no-repeat left;"><a href="/solutions/" title="Explore Ariba's technology solutions for spend management, collaborative finance management, and sales acceleration management. Or see how Ariba addresses your role-specific needs.">Solutions</a>
+			<div id="search"><form id="searchBox" action="/search-results.cfm"><input type="hidden" name="cx" value="001879028598023130446:fttvxenhccc"><input type="hidden" name="cof" value="FORID:10;NB:1"><input type="hidden" name="ie" value="UTF-8"><input value="SEARCH" onfocus="if(this.value == 'SEARCH') { this.value = ''; }" id="searchText" type="text" name="q"><input type="submit" value="" id="submitSearch" src="/img/spacer.gif"></form></div><!-- end search div -->		
+		<li style="background:url(/img/nav-seperator.gif) no-repeat left;"><a href="/solutions/" title="Explore Ariba's technology solutions for spend management, collaborative finance management, and sales acceleration management. Or see how Ariba addresses your role-specific needs.">Solutions</a>
 			
 				<div class="sub" style="opacity: 0;">
 					<ul style="width:190px;">
 						<li><h4><a href="/solutions/buy.cfm">For Buyers</a></h4></li>
 						<li><a href="/solutions/spendvisibility.cfm" title="Spend Analysis">Spend Analysis</a></li>
-						<li><a href="/solutions/sourcing.cfm" title="Sourcing">Sourcing</a></li>
+						<li><a href="/solutions/sourcing/sourcing_solutions.cfm" title="Sourcing">Sourcing</a></li>
 						<li><a href="/solutions/contractmanagement.cfm" title="Contract Management">Contract Management</a></li>
 						<li><a href="/solutions/procurement/" title="Procurement">Procurement</a></li>
 						<li><a href="/solutions/suppliermanagement.cfm" title="Supplier Management">Supplier Management</a></li>
@@ -75,7 +83,7 @@
 					</ul>
 					<ul style="width:210px;">
 						<li><h4><a href="/solutions/sell.cfm">For Sellers</a></h4></li>
-						<li><a href="/solutions/discovery-for-suppliers.cfm" title="Ariba Discovery for Suppliers ">Ariba&nbsp;Discovery&nbsp;for&nbsp;Suppliers</a></li>
+						<li><a href="/solutions/discovery-for-suppliers.cfm" title="Ariba Discovery for Sellers">Ariba&nbsp;Discovery&nbsp;for&nbsp;Sellers</a></li>
 						<li><a href="/solutions/contractmanagement/sales-contracts.cfm" title="Sales Contract Management">Sales&nbsp;Contract&nbsp;Management</a></li>
 						<li><a href="/solutions/b2becommerce.cfm" title="Sales &amp; Marketing Programs">Sales&nbsp;&amp;&nbsp;Marketing&nbsp;Programs</a></li>						
 						<li><a href="/solutions/order-management.cfm" title="Order &amp; Catalog Collaboration">Order&nbsp;&amp;&nbsp;Catalog&nbsp;Collaboration</a></li>
@@ -107,9 +115,8 @@
 			<li><a href="/services/" title="Get the service capabilities you need, when you need them.">Services</a>
 				<div class="sub" style="opacity: 0;">
 					<ul style="width:190px;">
-						<li><a href="/services/expertise/" title="Expertise">Ariba Expertise Services</a></li>
-						<li><a href="/services/enablement/" title="Enablement">Ariba Enablement Services</a></li>
-						<li><a href="/services/execution/" title="Execution">Ariba Execution Services</a></li>
+						<li><a href="/services/" title="Ariba Commerce Services">Ariba Commerce Services</a></li>
+						<li><a href="/solutions/connection.cfm" title="AribaConnection Solutions">AribaConnection Solutions</a></li>
 						<li><a href="/services/support.cfm" title="Technical Support">Technical Support</a></li>
 						<li><a href="/services/supplier-support.cfm" title="Supplier Services and Support">Supplier&nbsp;Services&nbsp;&amp;&nbsp;Support</a></li>
 					</ul>
@@ -118,10 +125,9 @@
 			
 			<li><a href="/community/" title="Discover, connect, and share in the community that best meets your needs.">Community</a>
 				<div class="sub" style="opacity: 0;">
-					<ul>
+					<ul style="width:190px;">
 						<li><a href="/supplier/suppliernetwork/" title="Comprehensive, shared eBusiness solution that automates and streamlines business processes, from trading partner discovery to transaction management to financial settlement.">Ariba Network</a></li>
 						<li><a href="http://exchange.ariba.com/" title="A platform to facilitate discussion between Ariba customer, subject matter experts and solution owners." target="_blank">Ariba Exchange</a></li>
-						<li><a href="http://www.supplyexcellence.com/blog/" title="Supply Excellence | Next Generation Strategies for Supply Management" target="_blank">SupplyExcellence Blog</a></li>
 						<li><a href="/customers/" title="Customers">Customers</a></li>
 						<li><a href="/partners/" title="Partners">Partners</a></li>
 						<li><a href="/events.cfm" title="Events">Events</a></li>
@@ -147,7 +153,8 @@
 			</li>
 			<!-- END ARIBA NAV MENU -->
 		</ul>
-	</div> 
+	</div><!-- end nav div -->
+</div><!-- End headerBG div --> 
 <div class="wrapper ">
 	
 	
@@ -224,10 +231,10 @@
 					<div class="sub rounded" id="shareSubNav" style="opacity: 0;">
 						
 							<ul>
-								<li><a onclick="omniRecordSharePage('Email');" href="mailto:?subject=Spend%20Management%2C%20Supplier%20Management%2C%20and%20Working%20Capital%20Management%20Software%20%7C%20Ariba%2C%20Inc%2E&amp;body=I%20thought%20you%20might%20be%20interested%20in%20this%20from%20ariba%2Ecom%3A%20http%3A%2F%2Fariba%2Ecom%2Flegal%2Fprivacy%2Ecfm" target="_blank">Email <img src="/img/icons/email_16x16.png"></a></li>
-								<li><a onclick="omniRecordSharePage('Twitter');" href="http://twitter.com/home?status=Spend%20Management%2C%20Supplier%20Management%2C%20and%20Working%20Capital%20Management%20Software%20%7C%20Ariba%2C%20Inc%2E%20on%20http%3A%2F%2Fariba%2Ecom%2Flegal%2Fprivacy%2Ecfm%20%23Ariba" target="_blank">Twitter <img src="/img/icons/twitter_16.png"></a></li>
-								<li><a onclick="omniRecordSharePage('LinkedIn');" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://ariba.com/legal/privacy.cfm&amp;title=Spend Management, Supplier Management, and Working Capital Management Software | Ariba, Inc.&amp;summary=Spend%20Management%2C%20Supplier%20Management%2C%20and%20Working%20Capital%20Management%20Software%20%7C%20Ariba%2C%20Inc%2E%20on%20http%3A%2F%2Fariba%2Ecom%2Flegal%2Fprivacy%2Ecfm%20%23Ariba&amp;source=Ariba" target="_blank">LinkedIn <img src="/img/icons/linkedin_16.png"></a></li>
-								<li><a onclick="omniRecordSharePage('Facebook');" href="http://www.facebook.com/share.php?src=bm&amp;u=http://ariba.com/legal/privacy.cfm&amp;t=Spend%20Management%2C%20Supplier%20Management%2C%20and%20Working%20Capital%20Management%20Software%20%7C%20Ariba%2C%20Inc%2E%20on%20http%3A%2F%2Fariba%2Ecom%2Flegal%2Fprivacy%2Ecfm%20%23Ariba&amp;v=3" target="_blank">Facebook <img src="/img/icons/facebook_16.png"></a></li>
+								<li><a onclick="omniRecordSharePage('Email');" href="mailto:?subject=Spend%20Management%2C%20Invoice%20Management%2C%20Payment%20Management%2C%20and%20Contract%20Management%20Software%20%2D%20Ariba%2C%20Inc%2E&amp;body=I%20thought%20you%20might%20be%20interested%20in%20this%20from%20ariba%2Ecom%3A%20http%3A%2F%2Fariba%2Ecom%2Flegal%2Fprivacy%2Ecfm" target="_blank">Email <img src="/img/icons/email_16x16.png"></a></li>
+								<li><a onclick="omniRecordSharePage('Twitter');" href="http://twitter.com/home?status=Spend%20Management%2C%20Invoice%20Management%2C%20Payment%20Management%2C%20and%20Contract%20Management%20Software%20%2D%20Ariba%2C%20Inc%2E%20on%20http%3A%2F%2Fariba%2Ecom%2Flegal%2Fprivacy%2Ecfm%20%23Ariba" target="_blank">Twitter <img src="/img/icons/twitter_16.png"></a></li>
+								<li><a onclick="omniRecordSharePage('LinkedIn');" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://ariba.com/legal/privacy.cfm&amp;title=Spend Management, Invoice Management, Payment Management, and Contract Management Software - Ariba, Inc.&amp;summary=Spend%20Management%2C%20Invoice%20Management%2C%20Payment%20Management%2C%20and%20Contract%20Management%20Software%20%2D%20Ariba%2C%20Inc%2E%20on%20http%3A%2F%2Fariba%2Ecom%2Flegal%2Fprivacy%2Ecfm%20%23Ariba&amp;source=Ariba" target="_blank">LinkedIn <img src="/img/icons/linkedin_16.png"></a></li>
+								<li><a onclick="omniRecordSharePage('Facebook');" href="http://www.facebook.com/share.php?src=bm&amp;u=http://ariba.com/legal/privacy.cfm&amp;t=Spend%20Management%2C%20Invoice%20Management%2C%20Payment%20Management%2C%20and%20Contract%20Management%20Software%20%2D%20Ariba%2C%20Inc%2E%20on%20http%3A%2F%2Fariba%2Ecom%2Flegal%2Fprivacy%2Ecfm%20%23Ariba&amp;v=3" target="_blank">Facebook <img src="/img/icons/facebook_16.png"></a></li>
 							</ul>
 						
 					</div>
@@ -250,14 +257,8 @@
 
 <div id="falseFooter">
 	<h3>About Ariba</h3>
-	<p>Ariba, Inc. is the leading provider of collaborative business commerce solutions. Ariba enables more efficient and 
-		effective buying, selling, and cash management by combining industry-leading software as a service (SaaS) 
-		commerce technology with the world's largest web-based global trading community and expert capabilities and services 
-		to augment internal resources and skills—all as a flexible, cloud-based service. The Ariba Commerce Cloud delivers 
-		everything needed to control costs, increase sales, minimize risk, and enhance cash flow and operations. More than 
-		300,000 companies, including more than 80 percent of the Fortune 100, use Ariba's solutions to drive more efficient 
-		and effective inter-enterprise commerce. <span class="showFooter bold blue arrow" style="cursor:pointer;">Learn more</span></p>
-		<div class="moreFalseFooter" style="display: none;">
+	<p>Ariba, Inc. is the leading provider of collaborative business commerce solutions. Ariba combines industry-leading technology with the world's largest web-based trading community to help companies discover, connect, and collaborate with a global network of partners - all in a cloud-based environment. Using the Ariba Commerce Cloud, businesses of all sizes can buy, manage cash, and sell more efficiently and effectively. More than 500,000 companies around the globe use the Ariba Commerce Cloud to simplify inter-enterprise commerce and enhance results. <span class="showFooter bold blue arrow" style="cursor:pointer;">Learn more</span></p>
+		<div class="moreFalseFooter">
 			<h4>Ariba Solutions and Services for Successful Business Commerce</h4>
 	
 	<p>Companies of all sizes, and across all industries, need to drive maximum value from their business commerce initiatives. But commerce is hard. And technology alone won't make it easier. Successful business commerce, including <a href="/solutions/buy.cfm">spend management</a>, <a href="/solutions/sell.cfm">supplier management</a>, and<a href="/solutions/manage-cash.cfm">working capital management</a>, is driven by a combination of <a href="/solutions/">technology</a>, <a href="/services/">service capabilities</a>, and <a href="/community/">community resources</a>. Working with Ariba solutions and services, you can	successfully plan, deploy, and adopt an electronic business commerce program to deliver world-class results to your organization.</p>
@@ -302,7 +303,7 @@
 	
 	<h4>Ready to Get Started?</h4>
 	
-	<p>More than 300,000 companies-including 94 of the Fortune 100-use Ariba's solutions to manage their business commerce initiatives. Why not join them? To learn more about Ariba's offerings and the value they can deliver, <a href="/contactForm.cfm">contact us</a>.</p>
+	<p>More than 500,000 companies-including 94 of the Fortune 100-use Ariba's solutions to manage their business commerce initiatives. Why not join them? To learn more about Ariba's offerings and the value they can deliver, <a href="/contactForm.cfm">contact us</a>.</p>
 
 		<p class="hideFooter bold blue backArrow right" style="cursor:pointer;">Collapse</p>
 		</div>
@@ -342,7 +343,7 @@ $(document).ready(function(){
 						<ul>
 							<li><a href="/careers/" title="Ariba is growing at a breathtaking pace and we continue to seek talented, creative, driven individuals to join our team.">Careers</a></li>
 							<li><a href="/about/investorrelations.cfm" title="Investor Relations">Investor Relations</a></li>
-							
+							<li><a href="/trust/" title="trust.ariba.com">trust.ariba.com</a></li>							
 						</ul>
 						<ul style="width:140px;">
 							<li><a href="/legal/privacy.cfm" title="Privacy Policy">Privacy Policy</a></li>
@@ -365,7 +366,7 @@ $(document).ready(function(){
 						</ul>
 						<ul style="width:180px;">
 							<li><a href="/solutions/sell.cfm"><h4>For Sellers</h4></a></li>
-							<li><a href="/solutions/discovery-for-suppliers.cfm" title="Ariba Discovery for Suppliers ">Ariba&nbsp;Discovery&nbsp;for&nbsp;Suppliers</a></li>
+							<li><a href="/solutions/discovery-for-suppliers.cfm" title="Ariba Discovery for Sellers">Ariba&nbsp;Discovery&nbsp;for&nbsp;Sellers</a></li>
 							<li><a href="/solutions/contractmanagement/sales-contracts.cfm" title="Sales Contract Management">Sales&nbsp;Contract&nbsp;Management</a></li>
 							<li><a href="/solutions/b2becommerce.cfm" title="Sales &amp; Marketing Programs">Sales&nbsp;&amp;&nbsp;Marketing&nbsp;Programs</a></li>						
 							<li><a href="/solutions/order-management.cfm" title="Order &amp; Catalog Collaboration">Order&nbsp;&amp;&nbsp;Catalog&nbsp;Collaboration</a></li>
@@ -378,7 +379,7 @@ $(document).ready(function(){
 							<li><a href="/solutions/workingcapital.cfm" title="Discount Management">Discount Management</a></li>
 							
 							<li><a href="/solutions/receivables-financing.cfm" title="Receivables Financing">Receivables Financing</a></li>
-							<li><a href="/solutions/supply-chain-finance.cfm" title="Supply Chain Financing">Supply Chain Financing</a></li>
+							<li><a href="/solutions/supply-chain-finance.cfm" title="Supply Chain Financing">Supply Chain Finance</a></li>
 							<li><a href="/solutions/invoice-management.cfm" title="Invoice Management">Invoice Management</a></li>
 							<li><a href="/solutions/paymentmanagement.cfm" title="Payment Management">Payment Management</a></li>
 						</ul>
@@ -396,7 +397,7 @@ $(document).ready(function(){
 			
 			<div class="clear" id="copyright">
 				<div class="wrapper">
-					<a href="https://cert.webtrust.org/ViewSeal?id=781" target="_blank"><img src="/img/logos/webtrust.png" style="float:right; margin-top:2px;"></a><div id="copyright" class="onGrey"><a href="/legal/trademarks.cfm" style="color:#fff;">Copyright 1996 - 2010</a> Ariba Inc., All Rights Reserved &nbsp;|&nbsp; <a href="/sitemap.cfm" title="Sitemap" class="white">Sitemap</a></div>
+					<a href="https://cert.webtrust.org/ViewSeal?id=781" target="_blank"><img src="/img/logos/webtrust.png" style="float:right; margin-top:2px;"></a><div id="copyright" class="onGrey"><a href="/legal/trademarks.cfm" style="color:#fff;">Copyright 1996 - 2011</a> Ariba Inc., All Rights Reserved &nbsp;|&nbsp; <a href="/sitemap.cfm" title="Sitemap" class="white">Sitemap</a></div>
 				</div>
 			</div>
 			
@@ -511,7 +512,33 @@ $(document).ready(function(){
 				s.eVar10='';
 				s.prop23='';
 				s.prop24='';
-			}			
+			}		
+			
+			
+			function omniLearnMoreHover(solutionName,hoverLocation){
+				//alert(solutionName + ' ' + hoverLocation);
+				var s = s_gi(s_account);
+				s.linkTrackVars="eVar26,prop31";
+				s.eVar26=''+solutionName+' | '+hoverLocation+'';
+				s.prop31=s.eVar26;
+				s.tl();
+				s.linkTrackVars="";
+				s.eVar26='';
+				s.prop31='';
+			}
+			
+			function omniLearnMoreLink(solutionName,hoverLocation,linkLocation){
+				//alert(solutionName + ' ' + hoverLocation + '' + linkLocation);
+				var s = s_gi(s_account);
+				s.linkTrackVars="eVar27,prop32";
+				s.eVar27=''+solutionName+' | '+hoverLocation+' | '+linkLocation+'';
+				s.prop32=s.eVar27;
+				s.tl();
+				s.linkTrackVars="";
+				s.eVar27='';
+				s.prop32='';
+			}
+				
 
 			function omniSearchResultClicked(propTitle,hrefVal){
 				//alert(category + ' ' + product);
@@ -630,7 +657,7 @@ $(document).ready(function(){
 				
 			function omniFormEvents(formName,actionType){ 
 				var s = s_gi(s_account);
-				if (actionType == 'Open'){ s.eVar13=+1;;}
+				if (actionType == 'Open'){ s.eVar13=+1;}
 				if (actionType == 'Cancel'){ s.eVar13=-1;}
 				if (actionType == 'Submit'){ s.eVar13=+10;}
 				var templist = "prop9";
@@ -708,12 +735,29 @@ $(document).ready(function(){
 					pageTracker._initData();
 					pageTracker._trackPageview();
 				</script>
-		 
+		
+				<script type="text/javascript">
+					/* <![CDATA[ */
+						var google_conversion_id = 1070266566;
+						var google_conversion_language = "en";
+						var google_conversion_format = "3";
+						var google_conversion_color = "666666";
+						var google_conversion_label = "sqOsCNze0gEQxvGr_gM";
+						var google_conversion_value = 0;
+					/* ]]> */
+				</script>
+				<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+				<noscript>
+					<div style="display:inline;">
+						<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1070266566/?label=sqOsCNze0gEQxvGr_gM&amp;guid=ON&amp;script=0"/>
+					</div>
+				</noscript>		
+			 
 
 		
 
 <script type="text/javascript" src="/core/tracking/elqNow/elqCfg.js"></script>
-<script type="text/javascript" src="/core/tracking/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1554&amp;ref2=elqNone&amp;tzo=0&amp;ms=128" border="0" width="1" height="1"></layer>
+<script type="text/javascript" src="/core/tracking/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1554&amp;ref2=elqNone&amp;tzo=0&amp;ms=666" border="0" width="1" height="1"></layer>
 <script type="text/javascript" src="/core/tracking/elqNow/elqFCS.js"></script><iframe name="elqFCSFra" style="visibility:none" src="/core/tracking/elqNow/elqBlank.htm" width="1" height="1" frameborder="0" border="0" noresize="" scrolling="no"></iframe>
 
 
@@ -723,7 +767,20 @@ $(document).ready(function(){
 
  
 	
+
     
 
 
- </body></html>
+
+<script type="text/javascript">
+	if (typeof(lpUnit)=='undefined')	var lpUnit='demandgen-ariba';	
+	if (typeof(lpLanguage)=='undefined')	var lpLanguage='us-english';	
+</script>
+<script src="/core/includes/mtagconfig.js" type="text/Javascript"></script>
+
+<!-- Begin LP Custom Variables
+<script type="text/javascript">
+// Variables submission using lpAddVars
+	lpAddVars('<Scope:page/session/visitor>','<Variable Name>','<Variable Value>');
+</script>-->
+<noscript><p>Script section containing code for Liveperson Chat Solution</p></noscript> </body></html>
