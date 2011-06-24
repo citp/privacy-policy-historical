@@ -1,92 +1,68 @@
-> *The following text is extracted and transformed from the webuser.co.uk privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207041110id_/http%3A//www.ipcmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuser.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624205512id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - IPC Media - The UK's leading consumer magazine publisher
+# Dennis Publishing - Privacy Notice
 
-## IPC Media Privacy Policy
+## Privacy Notice
 
-This Privacy Policy explains the practices employed by IPC Media in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by IPC Media.
+Last Updated April 2011
 
-IPC Media will collect various types of information about you through your use of our websites to process your requests and orders, to provide a more personalised web-surfing and shopping experience and to help us improve the services we offer. In doing this we may also collect anonymous information about you through the use of cookies. IPC Media will be the Data Controller of any personal data we collect about you.
+### Dennis Publishing Privacy Notice
 
-### What information do we collect about you?
+Your personal information is being processed by Dennis Publishing (UK) Ltd (“we”). We are committed to managing your personal information in accordance with current legislation and best practice. Our aim is to be responsible, relevant and secure when using your data. You can find out more about us by visiting [www.dennis.co.uk/about-us](http://www.dennis.co.uk/about-us).
 
-Through IPC Media websites you can, amongst other things, order products and services, enter competitions, subscribe to our publications, vote in polls, play games, complete surveys and place postings on forums.
+Whenever you provide personal information we will treat that information in accordance with this Notice. We endeavour at all times to keep your data accurate and secure, and to honour your data preferences with regard to receipt of direct marketing e.g. email, mobile messaging and mobile telephone calls. 
 
-In order to process your requests and orders and other activities, it may be necessary to collect personally identifiable information about you. The type of personally identifiable information that may be collected includes, but is not limited to: your name, address, e-mail address, telephone number, credit/debit card information. You may also be asked to provide additional (non-mandatory) pieces of information for our research purposes or choose to provide information by making a posting on a forum.
+Dennis Publishing (UK) Ltd publishes over fifty magazines, websites, e-zines and mobile phone sites (brands) all of which are governed by this Privacy Notice. For an up to date list of these brands please visit 
 
-In addition, we will collect anonymous information about you and your website usage through the use of cookies. Such information will not be personally identifiable to you. For further information please go to the section on cookies below.
+[www.dennis.co.uk/brands](http://www.dennis.co.uk/brands/). Below is a non-exhaustive list of our well-known brands.
 
-Some IPC Media websites offer services that require you to set up an account prior to receiving such services. To create a secure account you may use your email address and a password or, if the IPC Media website offers a Facebook single-sign-on service, you will be able to register for and log in to your IPC Media website account using your Facebook account. 
+Auto Express, bit-tech, Bizarre, Channel Pro, Computer Shopper, Custom PC, Digital SLR Photography, EVO, Fortean Times, iGizmo, iMotor, InsidePoker, InsidePoker Business, IT Pro, Know Your Mobile, Mac Channel, MacUser, Maxim, Men's Fitness, Micro Mart, Mobile Computer, Monkey, Octane, PC Pro, PokerPlayer, The First Post, The Week and Viz.
 
-If you choose to use the Facebook single-sign–on service we will gain access, upon your explicit consent, to your basic Facebook profile information, such as your name, profile picture and list of friends and any other information notified to you by Facebook prior to you completing the single-sign-on authorisation process. 
+Dennis Publishing (UK) Ltd includes subsidiary companies Dennis Publishing Ltd, Evo Publications Ltd, The Week Ltd, Dennis Lifestyle Ltd, It’s in the Bag Ltd, Three PM Ltd, Four PM Ltd, First Post Newsgroup Ltd, Halo Publishing Ltd, Bit Publishing Ltd, Octane Media Ltd and Octane (Media) Holdings Ltd. Choice Publishers Limited, The Magazine Group, Dennis Interactive Ltd, I Feel good (Holdings) limited and I Feel Good Limited.
 
-### How will we use the information about you?
+Dennis Publishing (UK) Ltd had formed partnerships with a variety of carefully selected companies. Below is a non-exhaustive list of our key partners:   
+IPC Media Ltd   
+Jellyfish Online Marketing   
+Audience Science
 
-We will use the personal information you provide to us to process your orders and requests. We may also use this information to communicate with you directly, for example to notify you in the event you have won a competition or to contact you in relation to an account you hold with us. 
+## What information we collect
 
-We will use the anonymous information we collect about you to analyse web usage and compile aggregate statistics about our users. We will use this non-personally identifiable information, for advertising and marketing purposes and to enable us to provide a more personalised internet experience. For further information please go to the section on cookies below.
+To provide you with the best possible customer experience we may ask you to submit personal information such as your name, postcode, email address and mobile phone number. Providing this personal information helps us to provide you with a better experience e.g. not having to login to websites each time you visit and showing you content that really interests you.   
+Additionally we use web technologies e.g. cookies and web beacons, to automatically track and log limited personal data and link this with information you or other suppliers have provided. For detailed information on Cookies and how you can choose to allow or prevent sites accessing cookies, see [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
+Anonymous data will be recorded for the purpose of reporting web traffic statistics, advertisement 'click-throughs', and/or other activities on our sites.
 
-### Marketing
+Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.co.uk  ](http://www.youronlinechoices.co.uk/) . 
 
-From time to time we will ask you whether you wish to receive marketing material from IPC Media containing information about our products and services. If you do not wish to receive such information please ensure that you opt-in or opt-out of receiving such information as appropriate. If you have consented to receiving such material you may opt-out at a later stage from:
+**How we use your data**
 
-  * Emails - by clicking on an email unsubscribe link;
-  * SMS - by following the instructions in any SMS message received;
-  * Post or telemarketing - by writing to The Head of Database Marketing at IPC Media, Blue Fin Building, 110 Southwark Street, London SE1 0SU. 
+The personal information we obtain will be used for the following purposes.
 
+Technical administration of the web site, enhancing your experience of the site, research and development, customer service, marketing, advertising targeting and making your personal data available to selected partners. This will include Dennis and our partners sending you information about products and services that will be relevant to you, by email, mobile messaging, postal mail or direct telephone contact. All of the above are subject to your stated preferences; we and our content partners will always make it clear how you can prevent i.e. opt-out of these uses.
 
+We may use third party suppliers to provide part of our service to you. In some circumstances these providers may be based in countries outside the European Economic Area whose laws provide for a different standard of protection for your personal information than that provided under UK Law. In such circumstances we will have in place strict contractual arrangements that will require your information is processed securely, at least to a standard equivalent to the UK Data Protection Act 1998.   
+Your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. Before we release data on this basis, we will ensure that the information is being provided to a genuine and properly authorised investigation. If we are not satisfied that there are valid grounds for releasing the information, the Data Protection Act does not oblige us to do so. If we refuse to release the information, law enforcement agencies may obtain a court order requiring us to provide it. ** **
 
-Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material relevant to the website on which you have registered your details. You will be specifically notified if this is the case and you may unsubscribe to receiving such marketing material at anytime by clicking on the e-mail unsubscribe link.
+**Individual Choice** ** **
 
-### What will we disclose to third parties?
+You can change your personal information preferences and/or details at any time. As a magazine subscriber you can access your preferences by logging on to www.subsinfo.co.uk using your SubsInfo password. If you have registered on a Dennis Publishing (UK) Ltd website you can access your personal information preferences by logging in to our registration system and using the username and password details you selected. You can also unsubscribe to any/all lists by sending an email request to [privacy@dennis.co.uk](mailto:privacy@dennis.co.uk). (including your full name, postcode and magazine subscription / website registration / competition information). 
 
-If you consent we may sell, rent or trade your personal information to third parties for their marketing purposes. Such third parties will be carefully selected and registered with the Information Commissioner.
+You will ALWAYS be given a straightforward way to opt out from our direct marketing each time you receive a communication from us or one of our advertising partners.
 
-We may also pass your personal information to third parties to enable them to process a request or order, to supply you with a prize in the event you win a competition or in order to obtain professional advice.
+**Access to Personal Information** **  
+**If you wish, you can obtain a copy of any personal information we have about you by sending your request to The Data Controller, Dennis Publishing (UK) Ltd, 30 Cleveland Street, London, W1T 4JD.  
+We will provide you, at no charge, with a hard copy of the personal data that we keep about you within 30 days, although we will require proof of your identity. If you consider that the information we hold about you is incorrect, you may where appropriate, have the data erased, amended or updated. 
 
-We may provide anonymous, non-personally identifiable aggregate information to advertisers and our business partners, including information relating to sales and web-usage, to enable us to sell advertising and monitor the efficacy of our business partnerships. We may also pass such statistical information onto reputable third parties for onward sale.
+**Personal information security**
 
-It is possible that IPC Media could merge or be acquired by another business. If this happens we may share the information that relates to you. You will be sent notice of such an event.
+Dennis Publishing (UK) Ltd security policies, rules and technical measures have been implemented to protect your personal information from unauthorised or improper use and from accidental loss.
 
-IPC Media reserves the right to disclose personally identifiable information in order to comply with the law, applicable regulations and government requests. We also reserve the right to use such information in order to protect our operating systems and integrity as well as other users.
+All our employees and data processors that have access to, and are associated with, the processing of your personal information are legally obliged to respect the confidentiality of your data and are bound by contract to do so.
 
-Any third parties employed by us to process your data on our behalf are subject to contractual obligations to protect the security of your data in accordance with the terms of this Privacy Policy.
+Note that some of our websites provide forums where you can post information. When you do so, be aware that other visitors may collect any information you make public.
 
-### How do we protect your information?
+**Privacy Support**
 
-Once we have received your data we will ensure that it is treated with the utmost respect and in accordance with the Data Protection Act 1998 and any applicable regulations. Your data will be stored on our secure server within the UK. We follow strict security procedures in order that the data we collect is stored and disclosed appropriately and securely.
+If you have an enquiry or concern about our Privacy Notice, please contact: The Data Controller, Dennis Publishing (UK) Ltd, 30 Cleveland Street, London, W1T 4JD. If you are not satisfied with our response you may wish to contact the Information Commissioner via their [website](http://www.ico.gov.uk/)
 
-Unfortunately the transmission of information via the internet is not completely secure. Although IPC Media will do its best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. 
-
-### Other Websites
-
-Please note that clicking on links and advertisements on our websites may result in your transferral to another website, where data privacy practices may vary to that of IPC Media’s. If transferred to another site you should consult their privacy policy as we are not responsible for and have no control over information that is submitted to or collected by these third parties. 
-
-### Changes to our privacy policy
-
-IPC Media keeps this privacy policy under review and may update it at any time. Any updates will be made on this page so that you can always find out what information we collect, how we use it and under what circumstances we will disclose it.
-
-### How to contact us
-
-If you have any queries relating to the IPC Media Privacy Policy please contact us by writing to The Head of Database Marketing, IPC Media Limited, Blue Fin Building, 110 Southwark Street, London SE1 0SU.
-
-## COOKIES
-
-Cookies are small text files that we, and potentially third parties, place on your browser when you visit our website. Cookies, amongst other things, allow IPC Media to recognise you each time you re-visit one of our websites and provide you with a more personalised user experience. 
-
-### How do we and third parties use cookies? 
-
-We will use different cookies at various different stages of your use of our websites. For example when you initially enter one of our sites we will place an anonymous cookie on your browser to enable us to recognise you the next time you visit the website. We may also place a further cookie on your browser when you register for one of our services, this will enable us to remember you next time you come to sign in. We may also place anonymous cookies on your browser to monitor the advertising on our sites. These may be used to, amongst other things, ensure that you are not subjected to intrusive advertising on our sites.
-
-The majority of adverts you see on IPC Media websites will have been placed by third parties. These third parties may choose to generate their own cookies for the purposes of collecting anonymous information relating to the viewing of their advertising. The information collected cannot be used to personally identify someone. 
-
-In addition IPC Media may work with third parties for the purpose of delivering targeted advertising to the IPC Media websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you.
-
-We may also use small pieces of code called pixel tags or GIF files, in conjunction with cookies to help us manage and monitor our online advertising and wider business arrangements with third parties. These files will allow us to aggregate anonymous information relating to advertising and website usage. The type of information collected includes, but is not limited to, information relating to advertising responses, page views, promotion views and purchases made. Such pixel tags may be used to recognise third party cookies (cookies generated by third parties) and inform us and/or third parties of which advertisement or link brought you to our website, allowing us to monitor the efficacy of our business relationships with third parties. 
-
-### How to modify your privacy settings
-
-If you do not want your browser to accept cookies it is possible to change your browser settings. It is also possible to delete existing cookies from your browser. However by blocking all cookies it will affect your web experience and may result in some parts of IPC Media websites not functioning properly. Some cookies are designed to help save you time, for example remembering your contact details when you are making an order for the second time – this means that you will not have to complete the contact section again unless your details have changed. The procedure for modifying your privacy preferences is different for each internet browser and we recommend you visit the following websites for further information on altering your cookie settings:
-
-[www.aboutcookies.org](http://www.aboutcookies.org/)  
-[www.allaboutcookies.org](http://www.allaboutcookies.org/)
+If we decide to change our Privacy Notice we will post these changes on this page so that you are always aware of what information we collect, how we use it and in what circumstances we disclose it.  
+In the event of any part of Dennis Publishing (UK) Ltd either being sold or going into receivership, we reserve the right to continue to share your data to third parties in accordance with the latest preferences you have provided. You will be informed should any change of ownership occur, and the new owner will manage your personal information preferences.
