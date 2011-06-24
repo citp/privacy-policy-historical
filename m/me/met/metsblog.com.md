@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metsblog.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223120201id_/http%3A//www.metsblog.com/metsblogcoms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metsblog.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624210843id_/http%3A//www.metsblog.com/metsblogcoms-privacy-policy) for the most accurate reproduction.*
 
-# MetsBlog.com | MetsBlog.com’s Privacy Policy
+# MetsBlog.com’s Privacy Policy | MetsBlog.com
 
 We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website only.
 
