@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adwatcher.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223041358id_/http%3A//www.adwatcher.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwatcher.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624025821id_/http%3A//www.adwatcher.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AdWatcher
 
