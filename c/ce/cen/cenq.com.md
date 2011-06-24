@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cenq.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123033257id_/http%3A//www.cenq.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cenq.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624062812id_/http%3A//www.cenq.com/static/privacy) for the most accurate reproduction.*
 
 # Creative Enquiry | Privacy Policy
 
@@ -26,7 +26,7 @@ cenq.com will on its own initiative, or at your request, replenish, rectify or e
 From time to time, information may be placed on your computer to allow us to identify you. This information is commonly known as "cookies". By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. We will only use cookies to view information on your hard drive that was put there by a cookie from this Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits. 
 
 **Log Files:**  
-Like many other Web sites, cenq.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, cenq.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons:**  
 cenq.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
