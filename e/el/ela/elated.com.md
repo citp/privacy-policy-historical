@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227073519id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624210819id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
 # ELATED Privacy Statement
 
@@ -22,9 +22,9 @@ Advertisers may use information (not including your name, address, email address
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-## Choice / Opt-Out ("ELATED Extra" Newsletter)
+## Choice / Opt-Out (Mailing Lists)
 
-Users can sign up for the **ELATED Extra** Newsletter using their email address. The user can unsubscribe from this mailing list at any time by following the **Unsubscribe** link at the bottom of each newsletter email. Unsubscribe requests are honoured within 24 hours of receipt.
+Users can sign up for various Elated newsletters and mailing lists using their email address. The user can unsubscribe from a mailing list at any time by following the **Unsubscribe** link at the bottom of each newsletter email. Unsubscribe requests are honoured within 48 business hours of receipt.
 
 ## Choice / Opt-Out (Webmaster Forums)
 
