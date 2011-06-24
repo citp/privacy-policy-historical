@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the powerretail.com.au privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219231944id_/http%3A//www.powerretail.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerretail.com.au privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624131747id_/http%3A//www.powerretail.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Power Retail - Australia's News and Information Resource for the Online and Multichannel Retail Community
+
+###  Privacy Policy
 
 The Media Pad Pty Ltd, publisher of Power Retail, respects your privacy and is committed to complying with Australia’s National Privacy Principles and the standards of the Australian Privacy Act. Though we are not legally obligated to comply, we choose to do so in the best interests of our readers and sponsors. The following principles outline how we will collect, use, disclose, store and dispose of your personal information, in electronic form.
 
