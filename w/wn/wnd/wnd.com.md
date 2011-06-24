@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205203052id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624090450id_/http%3A//www.wnd.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Privacy Policy
 
 * * *
 
-_WorldNetDaily.com (WorldNetDaily.com, Inc.) respects your right to the privacy of the personal information you provide us on our sites. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and WorldNetDaily.com. This policy is intended to explain how your personal information is collected and how it will be treated._
+_WND.com (WorldNetDaily, Inc.) respects your right to the privacy of the personal information you provide us on our sites. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and WorldNetDaily.com. This policy is intended to explain how your personal information is collected and how it will be treated._
 
 _WorldNetDaily.com is a rapidly growing online news source. As such, this policy will change from time to time along with our site._
 
