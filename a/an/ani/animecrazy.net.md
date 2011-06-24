@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animecrazy.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225025107id_/http%3A//www.animecrazy.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animecrazy.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624112235id_/http%3A//www.animecrazy.net/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -64,5 +64,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 http://www.animecrazy.net  
 
-
-Privacy Policy Created by Free Privacy Policy
