@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretstocheapflights.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220042811id_/http%3A//www.secretstocheapflights.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretstocheapflights.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624091014id_/http%3A//www.secretstocheapflights.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Insider Secrets To Cheap Flights, Hotel Reservations and Car Rentals - Privacy Policy
 
