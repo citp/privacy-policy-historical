@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223223132id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624061054id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
 # Alzheimer's Association - About This Site
 
 ## Introduction
 
-The Alzheimer's Association Web site provides information on the latest Alzheimer care strategies, research findings and advocacy initiatives. We also provide updates on Alzheimer's Association programs, partners and events. 
+The Alzheimer's Association website provides information on the latest Alzheimer care strategies, research findings and advocacy initiatives. We also provide updates on Alzheimer's Association programs, partners and events. 
 
 Our audience includes caregivers; people living with dementia and their families; care professionals and researchers; Alzheimer advocates; and the general public. 
 
@@ -12,19 +12,19 @@ Alz.org provides general information about Alzheimer's disease and related demen
 
 Content on our site is written by Alzheimer's Association staff members. It is reviewed by subject matter experts that include physicians, researchers and clinicians. 
 
-We do not accept or host paid advertising on www.alz.org. The Alzheimer's Association and its Web site is supported by the generosity of our donors. 
+We do not accept or host paid advertising on www.alz.org. The Alzheimer's Association and its website is supported by the generosity of our donors. 
 
-## Permission to use material from this Web site / reprints / copyright
+## Permission to use material from this website / reprints / copyright
 
 The Alzheimer’s Association retains copyright on the content of this site, unless otherwise noted. 
 
 > ### Reprint or reuse of information from this site without change
 > 
-> To request permission to use information from this Web site, send an e-mail describing intended use, duration and contact information to [copyright@alz.org](mailto:copyright@alz.org)[](mailto:copyright@alz.org)
+> To request permission to use information from this website, send an email describing intended use, duration and contact information to [copyright@alz.org](mailto:copyright@alz.org)[](mailto:copyright@alz.org)
 > 
 > ### Translations and adaptations
 
-> Translations or adaptations of Alzheimer’s Association content must be reviewed and approved by the Alzheimer’s Association. Please send requests send an e-mail describing intended use, duration and contact information to [brandhelp@alz.org](mailto:brandhelp@alz.org)
+> Translations or adaptations of Alzheimer’s Association content must be reviewed and approved by the Alzheimer’s Association. Please send an email describing intended use, duration and contact information to [brandhelp@alz.org](mailto:brandhelp@alz.org)
 
 > > [](mailto:brandhelp@alz.org)
 > 
@@ -38,60 +38,60 @@ The Alzheimer’s Association retains copyright on the content of this site, unl
 > 
 > ### Photographs and graphics
 > 
-> The photographs and graphics on our Web site are not available for reproduction by third parties. Similar stock images are available for a fee from stock image sources.
+> The photographs and graphics on our website are not available for reproduction by third parties. Similar stock images are available for a fee from stock image sources.
 > 
 > However, Stacy Janis images from Inside the Brain: An Interactive Tour are available to third parties. Please send requests to [brandhelp@alz.org](mailto:brandhelp@alz.org).
 
 ## Linking policy
 
-When linking to the Alzheimer’s Association Web site, Web managers should be aware that the Alzheimer’s Association trademarks are not available for posting or replication on third party Web sites without a written agreement with the Association. As part of the permission agreement for Web linking, third parties must post the following with any trademark. URL or content used from an Association Web site:
+When linking to the Alzheimer’s Association website, web managers should be aware that the Alzheimer’s Association trademarks are not available for posting or replication on third party websites without a written agreement with the Association. As part of the permission agreement for web linking, third parties must post the following with any trademark. URL or content used from an Association website:
 
-Linking Disclaimer: _The Alzheimer’s Association is not responsible for information or advice provided by others, including information on Web sites that link to Association sites and on third party sites to which the Association links. Please direct any questions to[weblink@alz.org](mailto:weblink@alz.org).  
+Linking Disclaimer: _The Alzheimer’s Association is not responsible for information or advice provided by others, including information on websites that link to Association sites and on third party sites to which the Association links. Please direct any questions to[weblink@alz.org](mailto:weblink@alz.org).  
 _
 
 > ## Disclaimer
 
-The Alzheimer's Association works to ensure that the information provided on its authorized Web site is accurate, timely and useful. However, the information contained on Alzheimer's Association Web sites should not be considered medical guidance or professional advice. The Alzheimer's Association, its affiliates or agents, or any other parties involved in the preparation or publication of this site are not responsible for errors or omissions in information provided on this site or any actions resulting from the use of such information. Visitors are encouraged to confirm the information contained herein with other reliable sources and to direct any questions concerning their personal health to licensed physicians or other appropriate health care professionals. Corrections and additions to this site will be made when necessary or as time permits. 
+The Alzheimer's Association works to ensure that the information provided on its authorized website is accurate, timely and useful. However, the information contained on Alzheimer's Association websites should not be considered medical guidance or professional advice. The Alzheimer's Association, its affiliates or agents, or any other parties involved in the preparation or publication of this site are not responsible for errors or omissions in information provided on this site or any actions resulting from the use of such information. Visitors are encouraged to confirm the information contained herein with other reliable sources and to direct any questions concerning their personal health to licensed physicians or other appropriate health care professionals. Corrections and additions to this site will be made when necessary or as time permits. 
 
 ## Security and privacy policy 
 
-The Alzheimer’s Association is committed to protecting your privacy when you visit our Web site. Information we collect from you is used to improve our site, provide you a better experience, respond to your questions and process your online donations.
+The Alzheimer’s Association is committed to protecting your privacy when you visit our website. Information we collect from you is used to improve our site, provide you a better experience, respond to your questions and process your online donations.
 
 > ### Information collection
 > 
-> We collect two types of information on our Web site:
+> We collect two types of information on our website:
 > 
 >   1. _Web server traffic information._ This information is used to determine the number of visitors to our site, length of stay and sources of traffic. We collect aggregate data — or totals of those visiting from a domain — not information identifying individual users. We use this information to help improve our site and our service to you.
 > 
->   2. _Personal information provided by you._ We collect e-mail addresses and other personal information only when you provide it to us. If you fill out a form or survey, request information or make a donation, we may collect your name, address, city, state, zip code, telephone number and e-mail address.
+>   2. _Personal information provided by you._ We collect email addresses and other personal information only when you provide it to us. If you fill out a form or survey, request information or make a donation, we may collect your name, address, city, state, zip code, telephone number and email address.
 > 
 > 
 
 > 
 > ### Use of personal information
 > 
-> The Alzheimer's Association collects information on our Web site. We do not sell, trade or rent our Web site visitor’s personal information to others other than those outlined in this section. If you willingly provide us your personal information, the Alzheimer’s Association may use it in the following ways:
+> The Alzheimer's Association collects information on our website. We do not sell, trade or rent our website visitor’s personal information to others other than those outlined in this section. If you willingly provide us your personal information, the Alzheimer’s Association may use it in the following ways:
 > 
 > _Donations._ When you make an online donation to us, it’s possible your name may be on some mailing lists shared with other reputable organizations. As a donor, you may request to have your name removed from these mailing lists. See the Your Choice section below to learn how.
 > 
-> _E-mail Information Requests and Questions._ When we respond to your e-mail requests or questions, we may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails of this type, follow the unsubscribe instructions in the message. 
+> _Email Information Requests and Questions._ When we respond to your email requests or questions, we may collect your email address and send you Alzheimer’s Association email bulletins or news. To opt out and remove your name from future emails of this type, follow the unsubscribe instructions in the message. 
 > 
-> _E-News:_ When you sign up to receive Alzheimer's Association e-news, we collect your e-mail address and may also notify you about other information we think you will find valuable. To opt out and remove your name from future e-mails of this type, follow the unsubscribe instructions in the message. 
+> _E-News:_ When you sign up to receive Alzheimer's Association e-news, we collect your email address and may also notify you about other information we think you will find valuable. To opt out and remove your name from future emails of this type, follow the unsubscribe instructions in the message. 
 > 
-> _Event Registration._ The Association provides online registration for our major events, such as the education and research conferences and our Memory Walk. We may collect your e-mail address and send you Alzheimer’s Association e-mail bulletins or news. To opt out and remove your name from future e-mails of this type, follow the unsubscribe instructions in the message. 
+> _Event Registration._ The Association provides online registration for our major events, such as the education and research conferences and our Walk to End Alzheimer's. We may collect your email address and send you Alzheimer’s Association email bulletins or news. To opt out and remove your name from future emails of this type, follow the unsubscribe instructions in the message. 
 > 
-> _Write Congress:_ We track the number of letters sent to members of Congress on a password-protected Web site. At this time, we do not use personal information you provide us.
+> _Write Congress:_ We track the number of letters sent to members of Congress on a password-protected website. At this time, we do not use personal information you provide us.
 > 
 > _Message Boards._ Please remember that any information you disclose on the message boards becomes public information.  
 > 
 > 
 > ### Your consent
 > 
-> By using the Alzheimer's Association Web site, you consent to the collection and use of the information described above. Any changes to this policy will be posted prior to their implementation.
+> By using the Alzheimer's Association website, you consent to the collection and use of the information described above. Any changes to this policy will be posted prior to their implementation.
 > 
 > ### Your choice
 > 
-> We respect your privacy and recognize that you may wish to limit the ways in which we contact you. Simply send an e-mail to [info@alz.org](mailto:info@alz.org) with the following information:
+> We respect your privacy and recognize that you may wish to limit the ways in which we contact you. Simply send an email to [info@alz.org](mailto:info@alz.org) with the following information:
 > 
 >   * To remove your name from mailing lists shared with other organizations, please provide your full name, mailing address and a sentence requesting removal. 
 > 
@@ -104,11 +104,11 @@ The Alzheimer’s Association is committed to protecting your privacy when you v
 > 
 > ### Security
 > 
-> We take every precaution to protect your personal information. At the Alzheimer’s Association, your personal information is kept confidential and stored in a secure environment. Access to your information is restricted only to authorized staff with a legitimate and specific business purpose. For example, our finance employees need access to information to process online donations. If you have any questions about the security at our Web site, send an e-mail to [webmaster@alz.org](mailto:webmaster@alz.org).
+> We take every precaution to protect your personal information. At the Alzheimer’s Association, your personal information is kept confidential and stored in a secure environment. Access to your information is restricted only to authorized staff with a legitimate and specific business purpose. For example, our finance employees need access to information to process online donations. If you have any questions about the security at our website, send an e-mail to [webmaster@alz.org](mailto:webmaster@alz.org).
 > 
 > ### Cookies
 > 
-> A cookie is a piece of data sent to your Web browser and stored on your hard drive. Cookies help us improve our Web site by tracking and targeting the interests of our users as they visit different sections of our site. Cookies do not contain any personal information. 
+> A cookie is a piece of data sent to your Web browser and stored on your hard drive. Cookies help us improve our website by tracking and targeting the interests of our users as they visit different sections of our site. Cookies do not contain any personal information. 
 > 
 > ### Log files
 > 
