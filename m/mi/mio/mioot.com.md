@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mioot.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623211426id_/http%3A//www.mioot.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mioot.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624212859id_/http%3A//www.mioot.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Live chat software for live support and live help
+# mioot.com - live chat , live chat software, live help live support
 
   
 miOOt live chat is committed to respecting and protecting the privacy of live chat visitors to our web sites as well as the privacy of our actual customer's data. 
