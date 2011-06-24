@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231082852id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624094617id_/http%3A//intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit® Canada
 
@@ -53,7 +53,7 @@ T6B 3H2
 Attention: Privacy Officer  
 FAX: 1-888-829-1724
 
-QuickTax online application users should make any updates, modifications, or deletions to their tax return information directly through the Web site. There are certain changes that cannot be made to ensure that only one tax return is prepared per registration. The QuickTax License and Services Agreement contains further details.
+TurboTax online application users should make any updates, modifications, or deletions to their tax return information directly through the Web site. There are certain changes that cannot be made to ensure that only one tax return is prepared per registration. The TurboTax License and Services Agreement contains further details.
 
 |   
 |   
@@ -117,7 +117,9 @@ Intuit may use your personal information for secondary purposes such as:
 
 
 
-If you sign up for the QuickTax online application, we will collect tax return information required to assist you in completing and filing your tax return. Tax return information is the personal information you provide for the specific purpose of preparing a tax return using the QuickTax online application. Intuit uses your tax return information to:
+We may also display ads in the TurboTax application for Intuit or third party services that we feel may be of interest. These ads are not targeted in any way or based on your personal information or behavior through the Web site.
+
+If you sign up for the TurboTax online application, we will collect tax return information required to assist you in completing and filing your tax return. Tax return information is the personal information you provide for the specific purpose of preparing a tax return using the TurboTax online application. Intuit uses your tax return information to:
 
   * Provide you with online tax preparation
   * Facilitate the electronic filing of your tax return
@@ -153,9 +155,9 @@ Intuit will only collect, use and disclose your personal information with your k
 
 You control any future secondary use of your personal information, such as sharing it with marketers. You can prevent future secondary use of your information by "opting out" when Intuit collects your information or at any time by simply contacting us. Opting out only applies to the secondary purposes because we may need to contact you regarding the usability of your product or alert you of important product revisions or updates.
 
-For users of the QuickTax online application, personal information is not required to try the service or to browse the Web site. The full benefits of the QuickTax online application are reserved for registered users. To receive them, or to participate in online activities, such as surveys and contests, we will ask you to provide certain personal information so that we can identify you.
+For users of the TurboTax online application, personal information is not required to try the service or to browse the Web site. The full benefits of the TurboTax online application are reserved for registered users. To receive them, or to participate in online activities, such as surveys and contests, we will ask you to provide certain personal information so that we can identify you.
 
-By signing up for the QuickTax online application, you are not obligated to provide any tax return information. However, if you do not provide complete information when preparing your tax return, you will not have complete use of the service. That may significantly impact the accuracy of your tax return. Personal information is necessary to complete and file a tax return using the QuickTax online application, so that we can process payment and registration for the service.
+By signing up for the TurboTax online application, you are not obligated to provide any tax return information. However, if you do not provide complete information when preparing your tax return, you will not have complete use of the service. That may significantly impact the accuracy of your tax return. Personal information is necessary to complete and file a tax return using the TurboTax online application, so that we can process payment and registration for the service.
 
 To change your privacy preferences, please complete the [Personal Information Change Form](http://anon.intuit-canada.speedera.net.edgesuite.net/anon.intuit-canada/www.intuit.ca/quickbooks/2007/Privacy_Preferences_Change_Form.pdf) located here and mail it to us or fax it toll-free to the following:
 
@@ -193,7 +195,7 @@ Intuit uses a variety of Web technologies on our Web sites. Among these are cook
 
 Most browsers accept and maintain cookies by default. Check the "Help" menu of your browser to learn how to change your cookie preference. You can choose to decline cookies while at our Web site, but this may limit your ability to access certain areas of the Web site.
 
-To purchase and download products from Intuit.ca and to use the QuickTax online application, your browser must be able to accept cookie. Cookies are required for these services to authenticate registered users and to provide access to certain areas of our Web sites that are available to limited registered users only. Cookies are deleted when you close your browser, as well; this authentication becomes invalid after a certain period of time.
+To purchase and download products from Intuit.ca and to use the TurboTax online application, your browser must be able to accept cookie. Cookies are required for these services to authenticate registered users and to provide access to certain areas of our Web sites that are available to limited registered users only. Cookies are deleted when you close your browser, as well; this authentication becomes invalid after a certain period of time.
 
 With or without cookies, our Web sites track usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. This information is stored in log files and is used for aggregated and statistical reporting. This log information is not linked to personal information gathered elsewhere on the site.
 
@@ -226,7 +228,7 @@ Intuit will keep your personal information as accurate, complete and up-to-date 
 
 To change your privacy preferences and personal information, please go to Updating your privacy preferences and personal information.
 
-QuickTax online application users should make any updates, modifications, or deletions to their tax return information directly through the Web site. There are certain changes that cannot be made to ensure that only one tax return is prepared per registration. The QuickTax License and Services Agreement contains further details.  
+TurboTax online application users should make any updates, modifications, or deletions to their tax return information directly through the Web site. There are certain changes that cannot be made to ensure that only one tax return is prepared per registration. The TurboTax License and Services Agreement contains further details.  
   
 | 
 
@@ -236,7 +238,7 @@ QuickTax online application users should make any updates, modifications, or del
   
 We protect personal information and tax return information in our possession and control by using security safeguards appropriate to the sensitivity of the information. Intuit works to protect personal information from loss, misuse and unauthorized alteration using industry-recognized security safeguards. We restrict internal access to personal information to select members of Intuit's staff.
 
-If you are using the QuickTax online application, we encrypt your tax return information and store it safely on our secure servers, which reside in Canada. Intuit does not store any tax return information outside of Canada. Unless you give us specific consent, you are the only one who will have access to your own tax return information, subject to legislated exceptions.
+If you are using the TurboTax online application, we encrypt your tax return information and store it safely on our secure servers, which reside in Canada. Intuit does not store any tax return information outside of Canada. Unless you give us specific consent, you are the only one who will have access to your own tax return information, subject to legislated exceptions.
 
 |   
 | 
