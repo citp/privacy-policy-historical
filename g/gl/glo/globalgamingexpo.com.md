@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215172333id_/http%3A//www.globalgamingexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624195609id_/http%3A//www.globalgamingexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Global Gaming Expo - G2E
+# Privacy Policy - Global Gaming Expo
 
 The effective date of this policy as posted is March 22, 2004.
 
