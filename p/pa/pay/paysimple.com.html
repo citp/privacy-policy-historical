@@ -1,28 +1,46 @@
-<!--The following is the downloaded HTML source of the paysimple.com privacy policy that was archived on 2010-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101207021445id_/http%3A//www.paysimple.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paysimple.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624063606id_/http%3A//www.paysimple.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>		
-		<script src="/Scripts/jquery-latest.js" type="text/javascript"></script>
-		<script src="/Scripts/acceptpay.js" type="text/javascript"></script>
-		<script src="/Scripts/jquery.tipTip.minified.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<script src="/Scripts/jquery-latest.js" type="text/javascript"></script>
+	<script src="/Scripts/acceptpay.js" type="text/javascript"></script>
+	<script src="/Scripts/jquery.tipTip.minified.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		function setSecureSources() {
+			var prefix = window.location.protocol;
+			if (prefix.indexOf('http:') != 0) {
+				$('img').each(function () {
+					var sourceRef = $(this).attr('src');
+					if (sourceRef)
+						$(this).attr('src', sourceRef.replace('http:', 'https:'));
+				});
+				$('script').each(function () {
+					var sourceRef = $(this).attr('src');
+					if (sourceRef)
+						$(this).attr('src', sourceRef.replace('http:', 'https:'));
+				});
+				$('link').each(function () {
+					var sourceRef = $(this).attr('src');
+					if (sourceRef)
+						$(this).attr('src', sourceRef.replace('http:', 'https:'));
+				});
+			}
+		}
+		$(document).ready(function () {
+			try {
+				formatPhoneNumber('BusinessPhone');
+				formatPhoneNumber('Phone');
+			} catch (er) { }
+			try {
+				document.getElementsByName("Submit")[0].disabled = false;
+			} catch (err) { }
+			try {
+				document.getElementsByName("submit")[0].disabled = false;
+			} catch (err2) { }
+		});
 
-		<script type="text/javascript">
-			$(document).ready(function() {
-				try {
-					formatPhoneNumber('BusinessPhone');
-					formatPhoneNumber('Phone');
-				} catch (er) { }
-				try {
-					document.getElementsByName("Submit")[0].disabled = false;
-				} catch (err) { }
-				try {
-					document.getElementsByName("submit")[0].disabled = false;
-				} catch (err2) { }
-			});
-
-		</script>
-
-		
+	</script>
+	
 	<link rel="SHORTCUT ICON" href="http://www.paysimple.com/image/ps.ico">
 	<title>Privacy :PaySimple</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -32,13 +50,13 @@
 	<link rel="Stylesheet" type="text/css" href="../../css/navFoot.css">
 	<link rel="Stylesheet" type="text/css" href="../../css/content2.css">
 	
-	<script src="http://www.paysimple.com/scripts/paysimple.js" type="text/javascript"></script>
+	<script src="https://www.paysimple.com/scripts/paysimple.js" type="text/javascript"></script>
 
 	<!-- SiteCatalyst code version: H.15.1.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
 
-	<script language="JavaScript" type="text/javascript" src="http://www.paysimple.com/scripts/s_code.js"></script>
+	<script language="JavaScript" type="text/javascript" src="https://www.paysimple.com/scripts/s_code.js"></script>
 
 	<script type="text/javascript">
 <!--
@@ -64,10 +82,8 @@ if (undefined == z) {
 <title>
 
 </title></head>
-
-
 <body>
-
+	
 
 	<script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
@@ -108,7 +124,7 @@ s.hier1=""
 <div id="nav">
 	<div class="navLeft">
 		<a href="index.html" id="ctl00_MainContent_Navg_A1">
-			<img src="image/nav_logo.gif" alt="PaySimple Online Payment Processing">
+			<img src="image/paysimple-navigation_logo.png" alt="PaySimple Online Payment Processing">
 		</a>
 	</div>
 	<!--End navLeft-->
@@ -124,15 +140,13 @@ s.hier1=""
 				<strong>1-800-466-0992</strong>
 			</p>
 		</div>
-		<!--End NavTop-->
-		
-		<div class="clear"></div>
+		<!--End NavTop-->		
 		<div class="navBottom">
 			<ul>
+				<li id="home"><a href="/index.html">Home</a></li>
 				<li id="features"><a href="/products.html">Features</a></li>
 				<li id="pricing"><a href="/pricing.html">Pricing</a></li>
-				<li id="demos"><a href="/demo.html">Demo</a></li>
-				<li id="openAccount"><a href="/getting_started.html">Get Started</a></li>
+				<li id="seeTheSystem"><a href="/demo.html">See the System</a></li>
 			</ul>
 		</div>
 		<!--End NavBottom-->
@@ -140,13 +154,31 @@ s.hier1=""
 	<!--End navMid-->
 	
 	<div class="navRight">
-		<a href="/getting_started.html">
-			<img src="image/btn_nav_get_started.gif" style="margin-left: 34px" alt="Try PaySimple">
+		<a href="/pricing.html">
+			<img src="image/BTN-Get-started-now_static.png" style="margin-left: 35px" alt="Try PaySimple" class="navGetStartedImg">
 		</a>
 	</div>
 </div>
 <!--End Nav-->
 
+<script type="text/javascript">
+	jQuery(document).ready(function () {
+		jQuery('.navGetStartedImg').mouseover(function () {
+			jQuery(this).attr("src", "/image/BTN-Get-started-now_roll.png");
+		});
+		jQuery('.navGetStartedImg').mouseout(function () {
+			jQuery(this).attr("src", "/image/BTN-Get-started-now_static.png");
+		});
+	});
+</script>
+
+<div style="display:none;">
+	<!-- preload rollover images -->
+	<img src="/image/BTN-Get-started-now_roll.png">
+	<img src="/Image/BTN-See-the-system_roll.png">
+	<img src="/Image/BTN-Sign-up-roll.png">
+	<img src="/Image/BTN-sign-up-now_roll.png">
+</div>
 		<div id="content">
 			<div class="colThree">
 				<h1>Privacy</h1>
@@ -211,87 +243,147 @@ s.hier1=""
 		</div>
 		<div class="clear">
 		</div>
-		
-    <div style="clear:both">
-<div id="footer2">
-    <div class="footCase2">
-        <a href="/empowerment/index.html">about us</a> <a href="/support/index.html">support</a>
-        <a href="/press.html">press</a> <a href="/case_studies.html">case studies</a> <a href="/small-business-resource/index.html">Small Business Resources</a> <a href="/security.html">
-                security</a> <a href="/contact.html">contact</a> <a href="/blog/" style="border-right: none;">
-                    blog</a>
-    </div>
-    <!--End footCase-->
-</div>
-<!--End Foot-->
-<div class="clear">
-</div>
-<div id="footer1">
-    <div class="footCase">
-        <a href="/ach_merchant_account.html">ACH Merchant Account</a> <a href="/online_payment_gateway.html">
-            ONLINE PAYMENT</a> <a href="/electronic_check_processing.html">ECHECK PROCESSING</a>
-        <a href="/merchant_account.html">MERCHANT ACCOUNT</a> <a href="/spotlights.html" style="border-right: none;">More</a>
-    </div>
-    <!--End footCase-->
-</div>
-<!--End Foot-->
-<div class="clear">
-</div>
-<div id="subFoot">
-    <div class="sideOne">
-        <a href="/index.html">Home</a> <a href="/legal.html">Legal</a> <a href="/privacy.html">
-            Privacy</a> <a href="/sitemap.html">Site Map </a><a href="/aup.html">Acceptable Use
-                Policy </a><span>Copyright © PaySimple 2005 - 2010.</span>
-        <p>
-            Contact <a href="mailto:webmaster@paysimple.com" style="margin-right: 0px;">webmaster@paysimple.com</a>
-            if you have problems with this site.<br>
-            PaySimple is a registered ISO/MSP in association with First National Bank of Omaha,
-            Omaha, Nebraska.</p>
-    </div>
-    <!--End sideOne-->
-    <div class="sideTwo">
-        <!-- START SCANALERT CODE -->
-        <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.paysimple.com">
-            <img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.paysimple.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
-        <!-- END SCANALERT CODE -->
-        <a href="/security.html">
-            <img src="image/coalfire.gif" border="0"></a> <a href="http://app.denver.bbb.org/check/57001221" target="_blank">
-                <img src="image/bbb.gif" alt="Click to verify BBB accreditation and to see a BBB report." border="0" title="Click to verify BBB accreditation and to see a BBB report." oncontextmenu="alert('Use without permission is prohibited. The BBB Accreditation seal is a trademark of the Council of Better Business Bureaus, Inc.'); return false;"></a>
-        <img src="image/digi.jpg" width="41" height="33">
-        <p>
-            Certifications for the PaySimple Solution</p>
-    </div>
-    <!--End sideTwo-->
-</div>
-<!--End subFoot-->
-<div class="clear">
-</div>
+	</div>
+	<!--end wrap-->
 
+	
+<!--Genius.com Inc. SNIPPET//-->
+<script type="text/javascript">	var DID = 76800;
+	var pcheck = (window.location.protocol == "https:") ? "https://stats.sa-as.com/live.js" : "http://stats.sa-as.com/live.js";
+	document.writeln('<scr' + 'ipt src="' + pcheck + '" type="text\/javascript"><\/scr' + 'ipt>');
+</script><script src="https://stats.sa-as.com/live.js" type="text/javascript"></script>
+
+<!--Genius.com Inc. SNIPPET//-->
+	
+		
+	
+<link href="../../css/footer.css" rel="stylesheet" type="text/css">
+<div style="clear: both">
+</div>
+<div id="footerContainer">
+	<div style="width: 960px; margin: 0 auto;">
+		<div id="footerLogos">
+			<div id="footerSocial">
+				<a href="http://www.facebook.com/paysimple" rel="nofollow" target="_blank">
+					<img alt="FaceBook" src="/Image/fb_32.png"></a> <a href="http://twitter.com/PaySimple" rel="nofollow" target="_blank">
+						<img alt="Twitter" src="/Image/twitter_32.png"></a> <a href="http://www.paysimple.com/Blog/syndication.axd" rel="nofollow" target="_blank">
+							<img alt="RSS" src="/Image/rss_32.png"></a>
+			</div>
+			<div id="footerAddress">
+				PaySimple &nbsp;| &nbsp;1433 17th St, Ste 300 &nbsp;| &nbsp;Denver, CO 80202<br>
+				Copyright © PaySimple 2005 – 2011
+			</div>
+			<div id="footerVerified">
+				<!-- START SCANALERT CODE -->
+				<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.paysimple.com">
+					<img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.paysimple.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
+				<!-- END SCANALERT CODE -->
+				<!--Begin Coalfire Seal-->
+				<a href="http://www.coalfiresystems.com/cert.aspx?id=CAB7FB14-F605-4831-8DDC-F48A66D2D444" target="_blank">
+					<img style="border: 1px solid #C0C0C0;" src="//www.coalfiresystems.com/get_cert.aspx?id=CAB7FB14-F605-4831-8DDC-F48A66D2D444" width="71" height="32" alt="Coalfire Verified Secure"></a>
+				<!-- BEGIN BBB Site Seal Code -->
+				<a title="Click for the Business Review of PaySimple, a Payment Processing Service in Denver CO" target="_blank" href="http://www.bbb.org/denver/business-reviews/payment-processing-service/paysimple-in-denver-co-57001221#sealclick">
+					<img style="width: 152px; height: 32px; border: 0px;" alt="PaySimple is a BBB Accredited Business. Click for the BBB Business Review of this Payment Processing Service in Denver CO" src="//seal-denver.bbb.org/seals/blue-seal-200-42-paysimple-57001221.png"></a>
+				<!-- BEGIN DigiCert Site Seal Code -->
+				<div class="digi">
+					<script language="javascript" type="text/javascript" src="//www.digicert.com/custsupport/sealtable.php?order_id=00183736&amp;seal_type=a&amp;seal_size=small&amp;seal_color=blue&amp;new=1&amp;newsmall=1"></script>
+					<a href="http://www.digicert.com/ssl-certificate.htm">Wildcard SSL</a><script language="javascript" type="text/javascript">					                                                                      	coderz();</script>
+				</div>
+				<!-- END DigiCert Site Seal Code -->
+			</div>
+		</div>
+		<div id="footerLinks">
+			<div id="footerCompanyLinks">
+				<span class="footerLinksHeader">Our Company</span><br>
+				<a href="http://www.paysimple.com/blog">Blog</a>
+				<br>
+				<a href="http://www.paysimple.com/pressrel/">Press</a>
+				<br>
+				<a href="http://www.paysimple.com/case_studies.html">Case Studies</a>
+				<br>
+				<a href="http://www.paysimple.com/empowerment/index.html">About Us</a>
+				<br>
+				<a href="http://www.paysimple.com/career_opportunities.html" rel="nofollow">Career Opportunities</a>
+				<br>
+				<a href="http://www.paysimple.com/contact.html">Contact Us</a>
+				<br>
+			</div>
+			<div id="footerServicesLinks">
+				<span class="footerLinksHeader">Our Services</span><br>
+				<a href="http://www.paysimple.com/online_payment_gateway.html">Online Payment</a>
+				<br>
+				<a href="http://www.paysimple.com/ach_merchant_account.html">ACH Merchant Account</a>
+				<br>
+				<a href="http://www.paysimple.com/electronic_check_processing.html">eCheck Processing</a>
+				<br>
+				<a href="http://www.paysimple.com/email_invoicing.html">Email Invoicing </a>
+				<br>
+				<a href="http://www.paysimple.com/merchant_account.html">Credit Card Merchant Account
+				</a>
+				<br>
+				<a href="http://www.paysimple.com/products.html">More</a>
+				<br>
+			</div>
+			<div id="footerSiteLinks">
+				<span class="footerLinksHeader">Site Links</span><br>
+				<a href="http://www.paysimple.com">Home</a>
+				<br>
+				<a href="http://www.paysimple.com/privacy.html">Privacy</a>
+				<br>
+				<a href="http://www.paysimple.com/security.html">Security</a>
+				<br>
+				<a href="http://www.paysimple.com/legal.html" rel="nofollow">Legal</a>
+				<br>
+				<a href="http://www.paysimple.com/sitemap.html">Sitemap</a>
+				<br>
+				<a href="http://www.paysimple.com/aup.html">Acceptable Use Policy</a>
+				<br>
+			</div>
+			<div id="footerResourceLinks">
+				<span class="footerLinksHeader">Resources</span><br>
+				<a href="http://www.paysimple.com/support">Support</a>
+				<br>
+				<a href="http://www.paysimple.com/small-business-resource/index.html">Small Business
+					Resources</a>
+				<br>
+				<a href="http://www.paysimple.com/pci">About PCI Compliance</a>
+				<br>
+				<a href="http://www.paysimple.com/small-business-resource/small-business-tips.html">
+					Small Business Tip of the Week</a>
+				<br>
+				<a href="http://www.paysimple.com/small-business-resource/small-business-tools.html">
+					Free Small Business Tools</a>
+				<br>
+			</div>
+		</div>
+		<div id="footerLegal">
+		Contact <a class="footerContactLink" href="mailto:webmaster@paysimple.com">webmaster@paysimple.com</a> if you have problems with this site.<br>
+PaySimple is a registered ISO/MSP in association with First National Bank of Omaha, Omaha, Nebraska.
+		</div>
+	</div>
+</div>
 <script language="JavaScript" type="text/javascript">
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 	try {
 		var s_code = s.t();
 		if (s_code)
 			document.write(s_code);
 	} catch (err) { }
 </script>
-
 <!-- End SiteCatalyst code version: H.15.1. -->
 <!--Google Analytics-->
-
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 <script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-1387783-2");
-pageTracker._setDomainName(".paysimple.com");
-pageTracker._trackPageview();
-} catch(err) {}
+	try {
+		var pageTracker = _gat._getTracker("UA-1387783-2");
+		pageTracker._setDomainName(".paysimple.com");
+		pageTracker._trackPageview();
+	} catch (err) { }
 </script>
 
-
 <!--Genius.com Inc. SNIPPET//-->
 <script type="text/javascript">	var DID = 76800;
 	var pcheck = (window.location.protocol == "https:") ? "https://stats.sa-as.com/live.js" : "http://stats.sa-as.com/live.js";
@@ -301,18 +393,10 @@ pageTracker._trackPageview();
 <!--Genius.com Inc. SNIPPET//-->
 
 
-	</div>
-	<!--end wrap-->
+	<script type="text/javascript">
+		setSecureSources();
+	</script>
+	<script language="JavaScript" type="text/javascript">		if (self == top) { document.write("<scr" + "ipt type='text/javascript' language='JavaScript' id='GeniusCode' src='" + location.protocol + '//eieef.rsvpgenius.com/mgTrack1.js?mgcid=ef05giJ' + "'><\/scr" + "ipt>"); }</script><script type="text/javascript" language="JavaScript" id="GeniusCode" src="https://eieef.rsvpgenius.com/mgTrack1.js?mgcid=ef05giJ"></script>
 
 
-
-<!--Genius.com Inc. SNIPPET//-->
-<script type="text/javascript">	var DID = 76800;
-	var pcheck = (window.location.protocol == "https:") ? "https://stats.sa-as.com/live.js" : "http://stats.sa-as.com/live.js";
-	document.writeln('<scr' + 'ipt src="' + pcheck + '" type="text\/javascript"><\/scr' + 'ipt>');
-</script><script src="https://stats.sa-as.com/live.js" type="text/javascript"></script>
-
-<!--Genius.com Inc. SNIPPET//-->
-
-
-</div></body></html>
+</body></html>
