@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericstips.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331102824id_/http%3A//www.ericstips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericstips.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624141448id_/http%3A//www.ericstips.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Eric's Tips
 
@@ -44,14 +44,14 @@ The terms of this policy may change from time to time. If such changes are made,
 If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to helpdesk@ericsupport.com and providing us with information relating to your concern.   
 You may also mail your concerns to us at the following address:  
 Eric Holmlund LLC  
-PO Box 272522  
+PO Box 273196  
 Fort Collins, Colorado 80527  
 USA
 
 **11\. CALIFORNIA PRIVACY RIGHTS.** ****  
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to helpdesk@ericsupport.com or write us at the following address:  
 Eric Holmlund LLC  
-PO Box 272522  
+PO Box 273196  
 Fort Collins, Colorado 80527  
 USA
 
