@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buyyourcar.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231123409id_/http%3A//www.buyyourcar.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyyourcar.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624095609id_/http%3A//www.buyyourcar.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # BuyYourCar - Privacy Policy
 
 **1\. This Privacy Policy**
 
-BuyYour Ltd is committed to protecting your personal information and other data provided to us via this and any other BuyYour Ltd web site ("Web Site"). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information BuyYour Ltd collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [Site Visitor Agreement](http://www.buyyourcar.co.uk/sitevisitoragreement.aspx "Site Visitor Agreement") applicable to this Web Site.
+BuyYour Ltd is committed to protecting your personal information and other data provided to us via this and any other BuyYour Ltd web site ("Web Site"). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information BuyYour Ltd collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [Site Visitor Agreement](http://www.buyyourcar.co.uk/site-visitor-agreement "Site Visitor Agreement") applicable to this Web Site.
 
 **2\. What information do we collect and what do we do with it?**
 
@@ -63,6 +63,3 @@ We reserve the right to add to or change the terms of this Privacy Policy in our
 **9\. Feedback**
 
 If you have any queries or problems with regard to this Privacy Policy or the uses to which we put your information, please e-mail us at support@BuyYourCar.co.uk.
-
-  
-
