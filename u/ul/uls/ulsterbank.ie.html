@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the ulsterbank.ie privacy policy that was archived on 2010-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130140540id_/http%3A//www.ulsterbank.ie/roi/personal/privacy.ashx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ulsterbank.ie privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624211342id_/http%3A//www.ulsterbank.ie/roi/personal/privacy.ashx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-ie" xml:lang="en-ie" xmlns="http://www.w3.org/1999/xhtml"><head xmlns:ext="urn:extensions">
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		<meta http-equiv="Content-Language" content="en-ie">
 		<meta http-equiv="Cache-control" content="no-cache">
 		<meta http-equiv="imagetoolbar" content="no">
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 		<meta name="description" content="">
 		<meta name="keywords" content="">
 		<meta name="robots" content="">
-		<meta name="copyright" content="Copyright UlsterBank.com (c) 2010">
+		<meta name="copyright" content="Copyright UlsterBank.com (c) 2011">
 		<meta name="author" content="ulsterbank.com">
-		<meta name="created" content="30/11/2010 13:39:08">
+		<meta name="created" content="24/06/2011 22:13:42">
 		<meta name="mlc" content="DEFAULT/ROI/PERSONAL/PRIVACY">
 		<meta name="channel" content="ROI">
 		<title>Ulster Bank: Privacy</title>
@@ -78,7 +79,7 @@
 		<script type="text/javascript">omtr.tc.init();</script>
 		<noscript> </noscript>
 		<script type="text/javascript">
-						  var s_account = "rbsulsterdev";
+							  var s_account = "rbsulsterielive";
 						</script>
 		<script type="text/javascript" src="/templates/script/analytics/s_code.js">
 		</script>
@@ -87,7 +88,7 @@
 				<a name="access-navigation"> </a>
 				<div id="topMinorLinks">
 					<div id="regionIndicatorText">
-						<p>Ulster Bank Personal Banking, Republic of Ireland<a href="/ni/personal.ashx" title="Switch to Northern Ireland">(Switch to Northern Ireland)</a></p>
+						<p>Ulster Bank Personal Banking, Republic of Ireland<a href="http://www.ulsterbank.co.uk" title="Switch to Northern Ireland">(Switch to Northern Ireland)</a></p>
 					</div>
 					<div id="minorLinks">
 						<ul>
@@ -191,6 +192,9 @@
 					<ul class="dropdown" id="daily-banking">
 						<li>
 							<a href="/roi/personal/daily-banking/current-accounts.ashx" title="Click to view Daily Banking - Current accounts">Current accounts</a>
+						</li>
+						<li>
+							<a href="/roi/personal/daily-banking/debit-cards.ashx" title="Click to view Daily Banking - Debit Cards ">Debit Cards </a>
 						</li>
 						<li>
 							<a href="/roi/personal/daily-banking/credit-cards.ashx" title="Click to view Daily Banking - Credit Cards">Credit Cards</a>
@@ -298,7 +302,7 @@
 			<div id="leftColumn">
 				<ul class="productMenu">
 					<li>
-						<a href="/roi/personal/accessibility/accessibility.ashx" onclick="history.back(); return false;" onkeypress="history.back(); return false;" title="Back to previous page">Back to previous page</a>
+						<a href="#" onclick="history.back(); return false;" onkeypress="history.back(); return false;" title="Back to previous page">Back to previous page</a>
 					</li>
 				</ul>
 				<div class="gradientBottom"> </div>
@@ -341,7 +345,7 @@ We also work with third parties to evaluate the effectiveness of our advertising
 			<div class="clearboth"> </div>
 			<div id="footer">
 				<ul>
-					<li id="firstFooter">© 2010</li>
+					<li id="firstFooter">© 2011</li>
 					<li>
 						<a href="/roi/personal/safe-secure.ashx">Security</a>
 					</li>
@@ -410,17 +414,31 @@ We also work with third parties to evaluate the effectiveness of our advertising
       
 			s.currencyCode= "EUR";
 		<!--Start of SiteCatalyst props-->
-        s.server = "REMLXSOBWS01F";
+        s.server = "REMLXSOBWS01D";
 
-        
+		if(!document.location.href.match('global/cao.ashx'))
+		{
+				
         		s.prop4 = "GLOBAL";
       		
 			var scpn = "UBROI>PERSONAL>PRIVACY";			
 		
 			s.pageName = "GLOBAL: UBROI>PERSONAL>PRIVACY"
-					
+		
+	
+		
 		scPageNamePreTab = s.pageName;
 		
+		}
+			else
+		{		
+			var pageName =  s.getPreviousValue(s.pageName,'gpv_pn');
+			var newPageName = pageName.replace("PREAPPLY","OA");
+			newPageName = newPageName.replace("PREAPPLY","OPENACCOUNT");			
+			s.pageName = newPageName.replace("OA","PREAPPLY");
+		}
+		
+			
         splitscPageName();
         if (eventPageName)
         s.pageName += eventPageName;
@@ -430,11 +448,11 @@ We also work with third parties to evaluate the effectiveness of our advertising
 			s.prop13 = s.getPreviousValue(s.pageName,'gpv_pn');
 		}
 		
-        s.currentYear="2010"; // set year
+        s.currentYear="2011"; // set year
 		s.prop14 = scFulldate(); // Set full date
 		s.prop15= scHour(); // Set time - hour
 		s.prop16= scDay(); // Set day
-		
+				
         // Set weekday - work out weekday or weekend
         
             if (s.prop16.match("Saturday|Sunday"))
@@ -460,10 +478,11 @@ We also work with third parties to evaluate the effectiveness of our advertising
 		  s.eVar15 = s.prop15;
 		  s.eVar16 = s.prop16;
 		  s.eVar17 = s.prop17;		  
-
+	  		  
           
           campaignHandling();
 
+		
           
           var sch = (s.pageName.substring(s.pageName.indexOf(':') != -1 ? 1+s.pageName.indexOf(':') : 0));
           s.hier1 = sch.replace(/ /g,"");
@@ -477,18 +496,37 @@ We also work with third parties to evaluate the effectiveness of our advertising
               s.prop21 = ""; 
          
   
-          setEvents(scPreEvents);
-		  
-		  
-          setProduct("");
-			
-          if (s.pageType)
-          s.pageName="";
-
-          //page load time
-          s.prop26 = (new Date().getTime() - scStartTime.getTime());
 				
-          renderScImageTag();
+		  
+		if(!document.location.href.match('global/cao.ashx'))
+		{
+			setEvents(scPreEvents);
+			setProduct("");
+			if(document.location.href.match('preapply.ashx'))
+			{
+				s.getPreviousValue(s.products,'gpv_prods');
+			}
+		}
+		else
+		{
+		 try{
+				var prods =  s.getPreviousValue(s.products,'gpv_prods');
+				s.prop4 ="PREAPPLY";
+				setEvents(scPreEvents);			
+				setCaoProductEvent(prods);
+			}
+			catch(e){}
+		}	
+		
+		
+		if (s.pageType)
+          s.pageName="";
+		  
+		
+        //page load time          
+		s.prop26 = (new Date().getTime() - scStartTime.getTime());
+		
+        renderScImageTag();
       }
       catch (e){}
 
@@ -498,7 +536,7 @@ We also work with third parties to evaluate the effectiveness of our advertising
 		
 		checkEventFunctions();		
 		checkForBranchLocatorForm(val);		
-		checkForBranchLocatorFilter(val);
+		checkForBranchLocatorFilter(val);		
         scSetUpPageVars();
     }
     catch (e){}
