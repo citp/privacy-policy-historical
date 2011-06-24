@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the avira.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221125137id_/http%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avira.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624080919id_/http%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-In this privacy statement Avira informs you about the way your personal data is used. Moreover, the privacy is warranted according to the German Privacy Law. The privacy statement is regulary updated by Avira is published on the avira Website (www.avira.com) and it can be retrieved any time.
+You can visit most pages on the Avira website without giving us any information about yourself. But sometimes we do need personal data from you in order to provide the products and services you request. 
+
+Avira promises to protect your privacy at all times. So this privacy statement explains how we collect, store and use any data you do give us. 
 
   
 
@@ -120,7 +122,7 @@ For further questions or comments we are willing to provide you free information
 
 Avira GmbH  
 Data security officer  
-Lindauer Str. 21  
+Kaplaneiweg 1  
 D-88069 Tettnang  
 Germany  
 Phone: 07542/500-0  
