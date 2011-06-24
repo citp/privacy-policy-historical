@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104213151id_/http%3A//www.evernote.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624030806id_/http%3A//evernote.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Evernote Corporation
 
-**Effective Date: September 16, 2010**
+**Effective Date: November 12, 2010**
 
 Evernote Corporation values the privacy of those who use our web site, products and services and makes all commercially reasonable efforts to protect it. This Privacy Policy covers the collection, use and disclosure of personal information that may be collected any time you interact with Evernote, such as when you visit our web site, use or purchase our products and services, or communicate with Evernote employees. Please read the following to learn more about what information we collect, what we do with that information, and how we may use your personal information.
 
@@ -21,13 +21,15 @@ Evernote may collect information and use it for internal business purposes in a 
 
 You may elect to terminate your participation in the services at any time and/or delete information and material you have posted to any notebook. If you cancel your account, or delete any notebook or notebook content, it will no longer be accessible to you or others who may access the service, but there may continue to be residual copies of such information due to the nature of the computer system's operation and ongoing data back-up and archiving.
 
+You may also change your contact preferences after logging into your Evernote account at www.evernote.com and going to Settings > Personal Settings > Contact Preferences. If you wish to opt out of email marketing communications from us, you may click the "unsubscribe" link at the bottom of an email message you receive from us.
+
 ## Your Evernote Username and related information
 
 The Evernote web site allows you to create an "Evernote Username" based on your personal information. This is required in order to take full advantage of the Evernote services and any downloadable software products. It also allows Evernote to provide more personalized and convenient service and saves time when you want to use the Evernote services, update your software or settings, or search for Evernote-related information.
 
 ## Public information
 
-Certain portions of the Evernote web sites and services are open to any online viewer, such as user notebooks designated as "public," and our user forum. Any information that you post in these locations can be read, collected and used by anyone, and could enable others to send you unsolicited messages. Evernote enables you to determine whether or not to post personal or otherwise sensitive information to publically accessible areas of our site, and so you should carefully consider how you use the services. Evernote is not responsible for any publication or use of any personal information you choose to post in these locations.
+Certain portions of the Evernote web sites and services are open to any online viewer, such as user notebooks designated as "public," and our user forum. Any information that you post in these locations can be read, collected and used by anyone, and could enable others to send you unsolicited messages. Evernote enables you to determine whether or not to post personal or otherwise sensitive information to publicly accessible areas of our site, and so you should carefully consider how you use the services. Evernote is not responsible for any publication or use of any personal information you choose to post in these locations.
 
 ## Information disclosure to third parties
 
@@ -35,7 +37,7 @@ When you post information to the Evernote sites, you are granting Evernote permi
 
   * We have your explicit consent to share the information;
   * We need to share your information to fulfill your product or service request;
-  * We wish to contact you with information about products and services from our business partners, which we may do unless you "opt-out" of such communications by contacting us via the [contact form](https://web.archive.org/about/contact/support/), or by clicking the unsubscribe link found within Evernote email updates;
+  * We wish to contact you with information about products and services from our business partners, which we may do unless you "opt out" of such communications by clicking the unsubscribe link found within Evernote email updates or by logging into your Evernote account at [www.evernote.com](http://www.evernote.com/) and going to Settings > Personal Settings > Contact Preferences and changing your contact preferences;
   * We have a good faith belief that sharing or otherwise permitting access, disclosure, use or preservation of such information is reasonably necessary in order to comply with our legal obligations;
   * You have explicitly requested information from Evernote business partners, in which case it will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply;
   * We believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons or property;
@@ -44,11 +46,11 @@ When you post information to the Evernote sites, you are granting Evernote permi
 
 
 
-## Cookies
+## Cookies and Tracking Pixels
 
-Cookies are small data files that a web site you visit may save on your hard drive that usually includes an anonymous unique identifier. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your e-mail address. The Evernote web site uses cookies for user authentication, keeping track of your preferences, promotional campaigns that require user identification, keeping track of our audience size and traffic patterns, and in certain other cases.
+Cookies are small data files that a web site you visit may save on your hard drive that usually includes an anonymous unique identifier. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your e-mail address. The Evernote web site uses cookies for user authentication, keeping track of your preferences, promotional campaigns that require user identification, keeping track of our audience size and traffic patterns, and in certain other cases. We may include tracking pixels, which are small graphic images, in our email messages and newsletters to determine whether the messages were opened and the links were actually viewed.
 
-You can configure your browser to accept cookies, reject cookies or notify you when a cookie is being used. However, if you configure your browser to reject cookies, you may not be able to use Evernote products or services that require you to sign in or take advantage of all the features of Evernote.
+You can configure your browser to accept cookies, reject cookies or notify you when a cookie is being used. However, if you configure your browser to reject cookies, you may not be able to use Evernote products or services that require you to sign in or take advantage of all the features of Evernote. If you do not want to receive tracking pixels, you will need to disable HTML images in your email client, but that may affect your ability to view images in other email that you receive.
 
 Evernote may allow third party business partners that display advertisements on some of our web pages to maintain their own cookies on your computer. These business partners do not have access to Evernote's cookies and their use is subject to their own privacy policies.
 
@@ -66,7 +68,7 @@ Evernote is committed to protecting the security of your information and takes r
 
 
 
-If Evernote learns of a security system breach we may attempt to notify you and provide information on protective steps, if available, through the e-mail address that you supplied during registration or posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing. To request written notice of any security breach in writing, please send an e-mail with your request and mailing address to compliance AT evernote.com or via postal mail to the address in the Contact Us section below.
+If Evernote learns of a security system breach we may attempt to notify you and provide information on protective steps, if available, through the e-mail address that you supplied during registration or posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing.
 
 ## Children
 
