@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cakephp.org privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120140915id_/http%3A//cakephp.org/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cakephp.org privacy policy that was archived on 2011-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625015503id_/http%3A//cakephp.org/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>
@@ -21,7 +21,7 @@
 	<div id="cakephp-global-navigation">
 	<ul>
 		<li class="main"><a href="http://cakephp.org">CakePHP</a></li>
-		<li><span>Downloads</span>
+		<li><a href="#" class="empty">Downloads</a>
 			<ul>
 				<li><a href="http://cakephp.org">Latest Release</a></li>
 				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/1.2">CakePHP 1.2</a>
@@ -44,7 +44,7 @@
 				</li>
 			</ul>
 		</li>
-		<li><span>Documentation</span>
+		<li><a href="#" class="empty">Documentation</a>
 			<ul>
 				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
 					<ul>
@@ -55,16 +55,16 @@
 				</li>
 				<li class="cake-version"><a href="http://book.cakephp.org">Book</a>
 					<ul>
-						<li><a href="http://book.cakephp.org/view/304/x1-1-Collection">1.1</a>&nbsp;|</li>
-						<li><a href="http://book.cakephp.org/view/2/x1-2-Collection">1.2</a>&nbsp;|</li>
-						<li><a href="http://book.cakephp.org/view/875/x1-3-Collection">1.3</a></li>
+						<li><a href="http://book.cakephp.org/view/305/The-Manual">1.1</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/view/3/The-Manual">1.2</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/view/876/The-Manual">1.3</a></li>
 					</ul>
 				</li>
 				<li><a href="http://cakephp.lighthouseapp.com">Tickets</a></li>
 				<li><a href="http://translation.cakephp.org">Translations</a></li>
 			</ul>
 		</li>
-		<li><span>Community</span>
+		<li><a href="#" class="empty">Community</a>
 			<ul>
 				<li><a href="http://bakery.cakephp.org">Bakery</a></li>
 				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
@@ -84,7 +84,8 @@
 			</ul>
 		</li>
 	</ul>
-</div>	<div id="container">
+</div>
+	<div id="container">
 		<div id="header">
 			<h1><a href="/"><img src="/img/cake-logo.png" alt="CakePHP : the rapid development php framework" class="png"></a></h1>
 			<p class="copy">
@@ -142,13 +143,33 @@
 </div>
 		</div>
 		<div id="footer">
+			<div class="hosting">
+				<a href="http://rackspace.com"><img src="/img/rackspace-logo.png" alt=""></a>			</div>
 			<script type="text/javascript" src="http://www.ohloh.net/projects/3176/widgets/project_thin_badge"></script>
 			<a href="http://www.cakephp.org/" target="_new"><img src="/img/cake.power.gif" alt="CakePHP: the rapid development php framework" border="0"></a>			<p><a href="http://www.nolimit-studio.com/" rel="nofollow">design by armando sosa</a> |
 			<a href="/pages/privacy">Privacy Policy</a></p>
-			<p>© 2005-2010 <a href="http://cakefoundation.org">Cake Software Foundation, Inc.</a></p>
+			<p>© 2005-2011 <a href="http://cakefoundation.org">Cake Software Foundation, Inc.</a></p>
 		</div>
+		<div class="clear"></div>
 	</div>
-				<script type="text/javascript">
+		<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function () {$(function() {
+	$("#cakephp-global-navigation ul li a.empty")
+		.click(function(e) { e.preventDefault(); })
+		.parent().bind('mouseleave mouseenter click', function(event) {
+			var submenu = $(this).children('ul');
+			if (event.type == 'mouseleave') {
+				submenu.hide();
+			} else if (event.type == 'mouseenter') {
+				submenu.show();
+			} else {
+				submenu.toggle();
+			}
+		});
+})});
+//]]>
+</script>			<script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
