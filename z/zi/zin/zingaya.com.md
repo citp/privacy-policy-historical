@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingaya.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207032516id_/http%3A//www.zingaya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingaya.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624093659id_/http%3A//www.zingaya.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,11 +19,14 @@ In the event that we and/or our units or subsidiaries are ever sold, acquired, m
 
 ### What Information Do You Provide to us and How Do We Use it ?
 
-When you use our services you provide two types of Information:
+When you use our services you provide three types of Information:
 
 (1) Personal Information you sent to us as a result of registration  
 (2) Usage Information that is provided passively or generated automatically during your use of Zingaya services  
-(3) Your SIP, Skype account Information
+(3) Your SIP, Skype account Information  
+(4) Your Credit Card Information
+
+Credit Card details will be handled securely to ensure confidentiality and 128 bit SSL encryption is used to ensure sensitive data is protected during transmission over the internet.
 
 Personal information includes information which is required in order for the Software to verify your identity and provide you with the Services. This includes your Zingaya login and password, email and other data required for registration.
 
