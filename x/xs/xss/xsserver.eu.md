@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xsserver.eu privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227010347id_/http%3A//xsserver.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsserver.eu privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624230829id_/http%3A//xsserver.eu/privacy.html) for the most accurate reproduction.*
 
-# XSserver.Eu - Netherlands Metered and Unmetered Server Provider.
+# Windows VPS hosting, VPS hosting, Linux VPS, Dedicated Servers, Windows VPS, Germany servers, Unmetered windows vps, Netherlands servers
 
-### Introduction
+###  Introduction
 
 xsserver.eu respects each individual’s right to privacy. We will collect and use information through our web site only in ways disclosed in this statement. This statement applies solely to information collected at xsserver.eu’s web site. 
 
@@ -38,4 +38,4 @@ If problems arise, users may contact xsserver.eu by emailing us or mailing us. W
 
 xsserver.eu protects user information with secure-hardened servers, firewalls, SSL encryption and other technology and procedures used to protect consumer privacy. 
 
-If you have any questions on our privacy policy please  [contact us](http://www.xsserver.eu/contact-us.php)
+If you have any questions on our privacy policy please [contact us](https://web.archive.org/web/20110624230829id_/http%3A//xsserver.eu/contact.html)
