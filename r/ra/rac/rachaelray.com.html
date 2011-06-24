@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the rachaelray.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127021842id_/http%3A//rachaelray.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rachaelray.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624024941id_/http%3A//rachaelray.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<title>Rachael Ray's Official Website :: Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
 	<meta name="description" content="Rachaelray.com - the official website of Rachael Ray where you can find thousands of Rachael Ray's recipes, including 30 Minute Meals, information about her TV shows, her magazine, her products and her nonprofit work.">
@@ -11,26 +11,34 @@
 	<link rel="stylesheet" href="/css/promos.css" type="text/css" media="all">
 	<link rel="stylesheet" href="/css/article.css" type="text/css" media="all">
 	<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
-	<script type="text/javascript" src="/js/global.js"></script>
+	<script type="text/javascript" src="/js/RR.js"></script>
+<script type="text/javascript" src="/js/RR.chimp.js"></script>
 <script type="text/javascript">
-	// Scripps variables
-	var category = "home";
-	var pageid   = "";
-	var topic    = "";
-	var keywords = "";
-	// our variables
-	var section = "home";
-	var subsection = "privacy";
-	var error = "";
+  // Scripps variables used in AdLib1.js
+  var category   = "home",
+      site       = "RR",
+      bug        = "0",
+      section    = "",
+      subsection = "privacy",
+      pageid     = "",
+      keywords   = "",
+      topic      = "";
+  // our variables
+  RR.set("section", "home");
+  RR.set("subsection", "privacy");
+  RR.set("error", "");
 </script>
 <script type="text/javascript" src="http://adimages.scrippsnetworks.com/rachael_ray/AdLib1.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="/js/RR.js"></script>
-<script type="text/javascript">jQuery.noConflict();</script></head>
+<script type="text/javascript">jQuery.noConflict();</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher:'5f831ab6-44c3-4206-be59-76267d2145d7', onhover:false});</script>
+
+<meta property="og:image" content="http://www.rachaelray.com/images/default_avatar.png"></head>
 
 
 <body id="home">
-<!-- 192.168.1.89 -->
+<!-- 192.168.1.88 -->
 
 <div id="container">
 	
@@ -41,7 +49,7 @@
 	<!--sphider_noindex-->
 	
 <div id="magAd">
-	<img src="/images/promo/EDR-1010-site-ad-160x86.gif" alt="Subscribe Today!" usemap="#adMap">
+	<img src="/images/promo/EDR-1105-site-ad-160x86.gif" alt="Subscribe Today!" usemap="#adMap">
 	<map id="adMap" name="adMap">
 		<area shape="rect" coords="0,45,55,75" href="https://order.rachaelraymag.com/servlet/GiftsGateway?cds_mag_code=EDR&amp;cds_page_id=70273&amp;cds_response_key=I9ERG997" target="_blank" alt="Give a Gift!">
 		<area shape="rect" coords="0,0,161,103" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=EDR&amp;cds_page_id=62039&amp;cds_response_key=I9ERQ998" target="_blank" alt="Subscribe Today!">
@@ -203,7 +211,7 @@ Governing Law<br>
 <br>
 This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions.&nbsp; Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association.&nbsp; To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto.&nbsp; If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.<br>
 <br>
-™ and © 2007 - 2010 Rachael Ray Digital LLC.&nbsp; All rights reserved.&nbsp; </p>						</div>
+™ and © 2007 - 2011 Rachael Ray Digital LLC.&nbsp; All rights reserved.&nbsp;</p>						</div>
 					</div>
                     
 					<div class="colR">
@@ -249,13 +257,14 @@ This Privacy Policy shall be governed by the laws of the State of New York, with
 				<div class="promo">
 					<div class="html">
 						<script type="text/javascript">
-	function popMailList() { 
-		window.open( 'https://app.e2ma.net/app/view:Join/signupId:34022', 'signup', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=690,height=640');
-		return false;
-	}
+	jQuery(document).ready( function() {
+		jQuery('#newsletterSubscribe').bind('click', function () {
+			return RR.chimp.getSignup('cso','wru','wnr','bml');
+		});
+	});
 </script>
 
-<a href="https://app.e2ma.net/app/view:Join/signupId:34022" onclick="return popMailList();" id="newsletterSubscribe">
+<a href="http://rachaelray.us2.list-manage2.com/subscribe?u=e844b8b57585065e39eb27e0a&amp;id=b70bbd2b33" id="newsletterSubscribe">
 	<img src="/images/promo/newsletter.gif" alt="Get Our Newsletter">
 </a>					</div>
 				</div>
@@ -272,13 +281,14 @@ This Privacy Policy shall be governed by the laws of the State of New York, with
 <div id="footer">
 	<a href="/sitemap.php" title="Site map">Site Map</a> • 
 	<a href="/about_us.php" title="About Us">About Us</a> • 
-	<a href="/article.php?article_id=136&amp;section=rach" title="FAQ">FAQ</a> • 
+	<a href="/faq.php" title="FAQ">FAQ</a> • 
 	<a href="/advertise.php" title="Advertise">Advertise</a> • 
 	<a href="/contact_us.php" title="Contact Us">Contact Us</a> • 
 	<a href="/privacy.php" title="Privacy">Privacy</a> • 
 	<a href="/terms.php" title="T&amp;C">T&amp;C</a> • 
 	<a href="/rach/partners.php" title="Rach's Partner Sites">Rach's Partner Sites</a> •
-	<a href="/article_archive.php" title="All Articles">Articles</a>
+	<a href="/article_archive.php" title="All Articles">Articles</a> •
+	<a href="http://rachaelraystore.com" target="_blank" title="Rachael Ray Store on cooking.com">rachaelraystore.com</a>
 </div>
 
 <div id="social">Visit us at: 
@@ -286,7 +296,7 @@ This Privacy Policy shall be governed by the laws of the State of New York, with
 	<a href="http://twitter.com/rachael_ray" class="twitter" target="_blank">Twitter</a>
 </div>
 
-<div id="copyright">™ and ©2007 - 2010 Rachael Ray Digital LLC | site design by <a href="http://www.choppingblock.com" target="_blank">choppingblock.com</a></div>
+<div id="copyright">™ and ©2007 - 2011 Rachael Ray Digital LLC | site design by <a href="http://www.choppingblock.com" target="_blank">choppingblock.com</a></div>
 
 <div id="awards">
 	<a href="http://www.webbyawards.com" target="_blank"><img src="/images/webby_logo.gif" alt="Official Honoree 2008 Webby Awards"></a>
