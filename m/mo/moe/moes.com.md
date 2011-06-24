@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moes.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227162352id_/http%3A//moes.com/Privacy_Policy.php%3Fii%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moes.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624073430id_/http%3A//moes.com/Privacy_Policy.php%3Fii%3D0) for the most accurate reproduction.*
 
 # Moe's Southwest Grill | Privacy Policy
 
-Thank you for visiting the Moe's Franchisor LLC's web site beadeadringer.com ("Site"). This privacy policy explains the policies implemented throughout Moe's Franchisor LLC (“Moe's”) governing Moe's use of personally identifiable information provided to Moe's via this Site.
+Thank you for visiting the Moe's Franchisor LLC's web site beadeadringer.com ("Site"). This privacy policy explains the policies implemented throughout Moe's Franchisor LLC (�Moe's�) governing Moe's use of personally identifiable information provided to Moe's via this Site.
 
 ## Privacy Policy Updates
 
