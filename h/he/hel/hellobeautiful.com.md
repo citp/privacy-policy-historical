@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hellobeautiful.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227030842id_/http%3A//hellobeautiful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobeautiful.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624040118id_/http%3A//hellobeautiful.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hello Beautiful
 
-Last revised October 22, 2010  
+Last revised June 8, 2011  
 This website, together with a network of related content and social networking websites (each, a “Site,” and collectively, the “Company Sites”), is owned and operated by or on behalf of Radio One, Inc. (“Radio One”), Interactive One, LLC, Community Connect Inc., and/or certain other Radio One subsidiaries and affiliated companies (collectively, “Company,” “we,” “our,” or “us”). This Privacy Policy describes the type of information we may collect from you and how we may use and share that information. This Privacy Policy also explains the choices you can make about the ways this information is used by us.
 
 Please read this Privacy Policy carefully. In addition, please review the Terms of Use provided at each Site, which governs your use of the Company Sites. By accessing and using any of the Company Sites (including, without limitation, any social networking features, communities or other interactive content offered on the Sites), you agree to accept the terms of this Privacy Policy and the Terms of Use provided on the Site. If you do not agree with these terms, please do not use the Site. Please note that certain features or services discussed in this Privacy Policy may not be offered on the Company Sites at any particular time.
@@ -40,7 +40,7 @@ We may combine information that you provide us with other information about you 
 To enhance your experience with the Company Sites, we may use “cookies.” Cookies are small data files that we place in your computer’s browser when you visit the Company Sites. We may use cookies for a number of purposes, such as tracking usage patterns, measuring the effectiveness of advertising, to help serve advertisements, limiting multiple responses and registrations, facilitating your ability to navigate the Company Sites, and as part of a verification or screening process. Cookies automatically identify your web browser whenever you visit the Company Sites, help us determine which areas are popular and further personalize your experience on the Company Sites. If you do not wish to allow for use of cookies, you can generally opt-out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Company Sites may not provide you with an acceptable user experience if you have disabled the use of cookies.
 
 **Web Beacons and Similar Technologies**  
-The Company Sites and our e-mail messages may contain a small graphic image called a web beacon that monitors and collects certain limited information about the viewer of the web page or e-mail message. Web beacons typically are very small (generally 1-by-1 pixel) and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail message, including an advertisement or HTML content, can act as a web beacon. We may use web beacons or similar technologies for a number of purposes, including without limitation, to count visitors to our web pages or to monitor how our users navigate the Company Sites, and we may include web beacons or similar technologies in e-mails in order to count how many e-mails (or particular articles, links, etc.) that we send are actually opened. Additionally, our advertising providers may use web beacons or similar technologies to personalize and measure the effectiveness of their advertisements using data gathered over time from users of the Company Sites. If you would like more information about the information collection practices of some of these third party advertising companies and to learn which of these companies allow you to opt out of this type of information collection, please click here.
+The Company Sites and our e-mail messages may contain a small graphic image called a web beacon that monitors and collects certain limited information about the viewer of the web page or e-mail message. Web beacons typically are very small (generally 1-by-1 pixel) and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail message, including an advertisement or HTML content, can act as a web beacon. We may use web beacons or similar technologies for a number of purposes, including without limitation, to count visitors to our web pages or to monitor how our users navigate the Company Sites, and we may include web beacons or similar technologies in e-mails in order to count how many e-mails (or particular articles, links, etc.) that we send are actually opened. Additionally, our advertising providers may use web beacons or similar technologies to personalize and measure the effectiveness of their advertisements using data gathered over time from users of the Company Sites. If you would like more information about the information collection practices of some of these third party advertising companies and to learn which of these companies allow you to opt out of this type of information collection, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **IP Address and Log Files**  
 Upon visiting the Company Sites, we may collect and store your browser type and IP address to help diagnose problems with our server, to administer the Company Sites, to help identify and analyze user trends, to customize content and advertisements offered to you, and to gather broad demographic information for aggregate use.
@@ -85,6 +85,14 @@ Your member profile is password-protected so that you and only you have access t
 **If Abuse Occurs**  
 Although we make every effort to ensure that our e-mail list is safe, the Internet is such that we cannot guarantee that our list is invulnerable to attacks. If you believe there has been a breach of our security, please contact us at once at membersafetyteam@mail.blackplanet.com.
 
+**COPYRIGHT COMPLAINTS**  
+We respect the intellectual property rights of others and we prohibit users from uploading, posting or otherwise transmitting on the Company Sites or the Services any materials that violate another party’s intellectual property rights. If you believe that any material on the Site infringes upon any copyright which you own or control, you may send a written notification of such infringement to our designated Copyright Agent below.  
+Director, Business & Legal Affairs  
+c/o Interactive One, LLC  
+850 Third Ave, Third Floor  
+New York, NY 10022  
+Fax: (212) 505-3478
+
 **CHANGES TO THIS PRIVACY POLICY**
 
 We reserve the right to change our Privacy Policy and our Terms of Use at any time. If we make changes, we will post them and will indicate at the top of this page the policy’s new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on this Site’s home page. We encourage you to refer to visit this Privacy Policy frequently to stay informed regarding our current privacy practices. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your activity on our Company Sites.
@@ -92,5 +100,13 @@ We reserve the right to change our Privacy Policy and our Terms of Use at any ti
 As the owner of this Site, the Company retains all ownership rights to the information collected at this Site. In the event the Company goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred.
 
 **CONTACTING US**  
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by email at membersafetyteam@mail.blackplanet.com or at Privacy Request, c/o Interactive One LLC, 850 Third Avenue, Third Floor, New York, NY 10022, USA.  
-v.4, 10/22/10
+If you have any additional questions or concerns about these Terms of Service, please contact us by email at [membersafetyteam@mail.blackplanet.com](mailto:membersafetyteam@mail.blackplanet.com) or at Website Inquiry, c/o Interactive One, LLC, 850 Third Ave, Third Floor, New York, NY 10022 Fax: (212) 505-3478.
+
+**Tips for Law Enforcement**  
+We fully cooperate with all legal investigations and will release member information upon receipt of a subpoena.  
+Subpoenas can be sent to the following address:  
+Interactive One, LLC  
+850 3rd Avenue, 3rd Fl.  
+New York, NY 10022  
+Attention: Member Services Manager  
+Subpoenas can also be faxed to the following number: 212.505-3478.
