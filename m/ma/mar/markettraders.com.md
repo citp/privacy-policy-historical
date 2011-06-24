@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120204910id_/http%3A//www.markettraders.com/about-mti/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624231512id_/http%3A//www.markettraders.com/about-mti/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Education | Forex Training | MTI
 
@@ -30,7 +30,7 @@ Information supplied to us to process any orders on our website is kept confiden
 
 ## Sharing Information with Our Affiliates
 
-We may share personal information described above with our affiliates for business purposes, such as, but not limited to, servicing customers and informing customers about new products and services, and as permitted by applicable law. Our affiliates may include companies controlled or owned by us as well as companies that have an ownership interest in our company. The information we share with affiliates may include any of the information described above, such as your name, address, and email address. Our affiliates maintain the privacy of your information to the same extent does in accordance with this Policy.
+We may share personal information described above with our affiliates for business purposes, such as, but not limited to, servicing customers and informing customers about new products and services, and as permitted by applicable law.Our affiliates may include companies controlled or owned by us, as well as companies that have an ownership interest in our company; also included are companies not controlled or owned by us. The information we share with affiliates may include any of the information described above, such as your name, address, and email address. Our affiliates maintain the privacy of your information to the same extent MTI does in accordance with this Policy.
 
 ## Sharing Information with Third Parties
 
@@ -76,4 +76,4 @@ Should you have any other questions or concerns about this privacy policy, pleas
 
 [Learn more about MTI's Forex Education »](https://web.archive.org/forex-education/index.aspx)
 
-[](https://web.archive.org/forex-education/index.aspx) [](https://web.archive.org/products/free-ebook.aspx)
+[](https://web.archive.org/webinars/index.aspx) [](https://web.archive.org/products/free-ebook.aspx)
