@@ -1,58 +1,89 @@
-> *The following text is extracted and transformed from the essortment.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225073435id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essortment.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624025032id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.*
 
-# PageWise ONLINE PRIVACY POLICY
+# Privacy Policy | Essortment
 
-Essotment.com is owned by PageWise, Inc.  Pagewise is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online through PageWise's Web site, which includes all of the PageWise.com articles and governs online data collection and usage by PageWise. Please read the complete PageWise Online Privacy Policy below and contact us if you have any questions. 
+**Effective Date: October 26, 2009**
 
-Collection and Tracking of Personal Information   
-So that we can provide you with the most efficient and enhanced service, we may request information about you. In that event we collect personally identifiable information such as names, email addresses and demographic information such as age, gender and zip code. We also may collect your IP address, browser type, domain name, access times and referring Web site address. This information is collected both during registration on a site or in response to specific requests, for example when signing up for a newsletter, entering a sweepstakes or contest or answering a survey. 
+This Privacy and Information Security Policy (the "Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website (the "Site"). This Policy applies only to information collected by us or submitted by you through the Site, and not to any information collected or submitted outside of the Site.  
+ 
 
-Sometimes we will give you the opportunity to opt in to offers from third parties not affiliated with PageWise. If you decide to accept these offers, we will provide, with your consent, your information to the third party. However, you should note that this Privacy Policy does not apply to information users consent to give to third parties not affiliated with PageWise. Any information users give to another party is governed by the rules of that party's privacy policy, which may differ from this Privacy Policy. PageWise is not responsible for information given to other parties. Please review their privacy policies prior to providing any information to third parties 
+**Who We Are. We are Demand Media, Inc.  ("Demand Media," "Site," "we," "us," or "our").** Demand Media is a leading Internet registrar and syndicator of professional content and social media solutions. 
 
-What Does PageWise Do With Collected Information?   
-We use personal information so that we may display custom, personalized content to our visitors and send newsletters, emails, features, promotional material, surveys and other updates to our users. A user may, at any time, opt out of receiving such information. We also use collected information to evaluate and administer our service, respond to any problems that may arise and to gauge user trends to determine what part of our services are most popular with users. 
+**This Policy and the Terms of Use.** This Policy is part of and incorporated into the Demand Media, Inc. [**Terms of Use**](http://beta.essortment.com/disclaimer.htm) (collectively, the "Terms").
 
-We may extend offers to users on behalf of our partners about a particular product or service that may be of interest to you, but we will never give out your name or personal information at any time without your permission. As result, although PageWise may receive a fee from our partners for this service, PageWise sends all the offers so that your personal information is never shared with any outside third party. 
+**BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING THE SITE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.**
 
-We may, at times, produce reports for advertisers containing aggregate information about our users such as demographic, age and online usage information. This allows us to work more closely with advertisers to provide content and offers that are most relevant to our users. We will never include any personal information of our users in these reports. 
+1\. INFORMATION YOU GIVE US
 
-We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation. 
+We collect any information you enter on the Site. The information that we collect varies depending upon how you use our Site.
 
-You should be aware that if you voluntarily disclose information online (whether through PageWise's services or any other service available online), personal or otherwise, that information can be collected and used by others. For example, if you use chat, forums, bulletin boards, your e-mail or if you post personal information online, you may receive unsolicited messages from others. PageWise has no control over this use of your personal information. 
+2\. AUTOMATIC INFORMATION COLLECTION
 
-How Does PageWise Use Cookies?   
-Your browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a Web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies simply assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our Web sites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features of our site, as well as other Web sites, will not be available to you. 
+2.1 _Cookies_. Like many websites, we use "cookies". Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn of, block or disable cookies, if you do, the Site may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies collect information such as: 
 
-Some of the banner ads displayed in our Web sites are provided by outside companies. These ads contain cookies. While we use cookies in other parts of our Web sites, cookies received with banner ads are collected by our advertisers and we do not have access to this information. We use a reputable third party to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. 
-
-How Does PageWise Use Web Beacons?   
-Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our Web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns. 
-
-How Do I Control My Personal Information?   
-A user may, at any time, change, correct, modify or delete any personal information they may have provided to PageWise by sending an e-mail to [ **info@PageWise.com**](mailto:info@PageWise.com). Users can also unsubscribe from any newsletters or opt out of various promotional e-mailings at any time by sending an e-mail to the same address, or by clicking on "unsubscribe" links in each of our newsletters or emails. 
-
-What if the Corporate Structure of PageWise Changes?   
-In developing our business, we might sell certain assets or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets. 
-
-What country's laws apply to the use of these sites, regardless of where I am visiting from?   
-Our Web site and the servers that make this site available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of Texas and all relevant federal laws in the United States. Any information you provide will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer. 
-
-What Does PageWise Do When This Privacy Policy Changes?   
-We will occasionally update this Privacy Policy as necessary to maintain the highest protection for our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so. 
-
-What is the Contact Information for PageWise?   
-You can contact us at: 
-
-Customer Care  
-PageWise, Inc.  
-2000 IH 35 South, Suite Q-8  
-Round Rock, TX 78681 
-
-[ **info@PageWise.com**](mailto:info@PageWise.com)
-
-_Page Last Updated November 12, 2007_
-
-  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours; 
+  * the date and time you access the Site; 
+  * your computer's IP address and information about its operating system, platform and the Web browser type and version you use; 
+  * demographic and other non-personally identifiable profile information about you; and 
+  * information to combat fraud or misuse. 
 
 
-* * *
+
+2.2 _Collection of Information by Third Parties_. Some of the advertisers and other businesses that advertise or place other content on our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be identified as coming from a third party. In addition, we use third-party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third-party cookies on your browser. Also, we use Web beacons provided by third-party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click here: [**http://www.networkadvertising.org/consumer/opt_out.asp**](http://www.networkadvertising.org/consumer/opt_out.asp). The information collected by third party cookies is subject to the privacy policy of the third party, not Demand Media's privacy policy.
+
+3\. OUR USE AND RETENTION OF YOUR INFORMATION
+
+3.1 _Use of PII_. We use your PII for such purposes as responding to your requests; operating the Site; providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties; and investigating and ensuring compliance with the [**Terms**](http://beta.essortment.com/disclaimer.htm) and any other contract to which you and Demand Media are party.
+
+3.2 _Use of Other Information_. We use non-PII for purposes such as measuring the number of visitors to our Site, making the Site more useful and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the Site, track a user's movement, and gather broad demographic information for non-personally identifiable use.
+
+3.3 _Retention of Information_. We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records.
+
+4\. OUR SHARING OF INFORMATION
+
+We share information with third parties, but only as described in this Section 4.
+
+4.1 _Advertisers and Others_. We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business. 
+
+4.2 _Service Third Parties_. We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, sending email to you and analyzing data. These third parties may have access to personal information needed to perform their functions.
+
+4.3 _Business Transfer_. As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, mergers, restructurings, changes of control, or similar transactions. In such transactions, customer and user information generally is one of the transferred business assets, and your PII is subject to such a transfer. Also, in the unlikely event of a bankruptcy, customer and user information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
+
+4.4 _Promotions, Sweepstakes, and Contests_. From time to time, we may host a promotion, sweepstake or contest on the Site. You may be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collecting or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer to or collection of personal information by a third party.
+
+4.5 _Compliance and Safety_. We may release PII when we believe release is appropriate to:
+
+  * comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement; 
+  * make disclosures under programs intended to prevent potential crimes or investigate persons; 
+  * enforce or apply agreements, including the Terms; or 
+  * protect the rights, property, or safety of Demand Media or others, including exchanging information with other companies for fraud protection and credit risk reduction. 
+
+
+
+4.6 _Affiliates_. We may share PII, non-PII and other information with our corporate affiliates. Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Likewise, we may obtain information about you from our corporate affiliates or from your visits to other websites that we or our corporate affiliates control. We may share information about you with our corporate affiliates and our corporate affiliates may share information with us using cookie or any other available technology. Some of our most significant affiliates are identified on the website of our parent company, Demand Media, Inc. (www.demandmedia.com).
+
+5\. INFORMATION SECURITY
+
+5.1 _Your Obligations_. You must protect against unauthorized access to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so be careful about including sensitive information in them. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.
+
+5.2 _Our Security Measures_. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. HOWEVER, WE DO NOT GUARANTEE SECURITY. Neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. If applicable law imposes any non-disclaimable duty (if any), you agree that the standard used to measure our compliance with that duty will be one of intentional misconduct.
+
+6\. LINKS
+
+The Site contains links to unrelated third party sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every website that collects your personally identifiable information. This Policy applies only to information collected by the Site. 
+
+7\. CHOICE
+
+We reserve the right to send you customary business communications such as general system and administrative messages, address confirmations, and transactional information about the Site, and we may not offer you the opportunity to opt-out of receiving such communications. However, we provide you with the opportunity to elect not to receive other types of communications, such as newsletters. If you want to stop receiving these communications, we will provide you with an opt-out mechanism such as an "unsubscribe" tab on emails we send you.
+
+8\. CONDITIONS OF USE, NOTICES, AND REVISIONS
+
+8.1 _Privacy Concerns_. Your use of the Site and any dispute over privacy is subject to the [**Terms**](http://beta.essortment.com/disclaimer.htm). If you have any concern about privacy at Demand Media, please send us a thorough description to [**legal@demandmedia.com**](mailto:legal@demandmedia.com) , and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
+
+8.2 _Notice Required by Law_. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with us at all times.
+
+8.3 _Identity Theft_. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notices Address (see the next section of this Policy) and we will let you know what additional information you must provide to us. **After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.**
+
+9\. CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY
+
+**Contacting Us & Our Address for Legal Notices; Notices to You.** To send us a legal notice, mail it by certified mail (return receipt requested) to: Demand Media, Inc., 15801 NE 24th St. Bellevue, WA, 98008, Attn: Legal Department. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and, if we have an email address on record for you, sending you an email to that address.
