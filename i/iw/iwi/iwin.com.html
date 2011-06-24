@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iwin.com privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204155634id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iwin.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624031304id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!-- 
 if you change the contents of this file please also update privacy-policy-gm.html
@@ -51,6 +51,15 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body class="iwin">
 
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        
+            iWinSiteFacebookAppId = '128296273850064';
+
+            trialPayFreeGameOfferwallUrl = 'http://www.trialpay.com/dispatch/d8af34184b8831ca40805d59ad68f3ad?sid=%user_id%';
+            trialPayICoinsOfferwallUrl = 'http://www.trialpay.com/dispatch/f05cce21affeae3b215cf16b8f4323c0?sid=%user_id%';
+        
+        </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="//connect.facebook.net/en_US/all.js" type="text/javascript"> </script>
             
                 <!--[if !IE]>-->
                     <script type="text/javascript" src="chrome://iwinarcade/content/iwinarcade.js"> </script>
@@ -115,7 +124,7 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 </a>
 </li>
 <li class="iwinOriginals">
-<a href="/corp/iwin-originals/index.html" class="">
+<a href="/iwin-originals" class="">
 <span>iWin Originals</span>
 </a>
 </li>
@@ -127,10 +136,13 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 </ul>
 <div class="hideObj" id="userInformation">
 <div class="avatar">
-<img src="/images/header/misc/unknown-avatar.gif">
+<img alt="" src="/images/header/misc/unknown-avatar.gif">
 </div>
 <div class="currency">
 <div class="iCoins">iCoins: <span class="total">120,000</span>
+</div>
+<div class="more">
+<a href="#iCoins">Want more iCoins?</a>
 </div>
 <div class="opals">Opals: <span class="total">90,300</span>
 </div>
@@ -156,6 +168,7 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 </div>
 </div>
 </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="fb-root"> </div>
 <div xmlns="http://www.w3.org/1999/xhtml" class="authOverlay hideObj" id="authOverlay">&nbsp;</div>
 <div xmlns="http://www.w3.org/1999/xhtml" class="hideObj" id="auth">
 <div class="curvyRedraw" id="authOutline">
@@ -165,18 +178,19 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 <div class="signIn authSection hideObj" id="authSignIn">
 <h3>Sign In</h3>
 <div class="authInnerContent">
+<div id="iWinSignIn">
 <p class="authInfo" id="signInInfo">&nbsp;</p>
 <ul class="authError" id="signInError">
 <li>&nbsp;</li>
 </ul>
 <form action="" id="signInForm">
-<label for="signInUsername">Username / Email</label>
+<label for="signInUsername">Username or Email</label>
 <input id="signInUsername" name="username" type="text">
 <label for="signInPassword">Password</label>
 <input id="signInPassword" name="password" type="password">
 <label for="autoLogin">Stay signed in:</label>
-<input class="autoLogin" checked="checked" name="autoLogin" type="checkbox">
-<img id="signInLoading" class="authLoading" alt="" src="/images/auth/loading.gif">
+<input id="autoLogin" class="autoLogin" checked="checked" name="autoLogin" type="checkbox">
+<img id="signInLoading" class="authLoading" alt="" src="/images/auth/loading-anim.gif">
 <a class="signInButton" id="signInButton" href="#">&nbsp;</a>
 </form>
 <div class="authAltLinks">
@@ -185,10 +199,15 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 </p>
 </div>
 </div>
+<div id="facebookSignIn">
+<a class="facebookConnect" href="#">Connect with Facebook</a>
+</div>
+</div>
 </div>
 <div class="signUp authSection hideObj" id="authSignUp">
 <h3>Sign Up</h3>
 <div class="authInnerContent">
+<div id="iWinSignUp">
 <p class="authInfo" id="signUpInfo">&nbsp;</p>
 <ul class="authError" id="signUpError">
 <li>&nbsp;</li>
@@ -208,9 +227,19 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 <p>We never share your email address. <a href="/corp/iwin/user/privacy-policy.html">Privacy Policy</a>
 </p>
 </div>
-<img id="signUpLoading" class="authLoading" alt="" src="/images/auth/loading.gif">
+<img id="signUpLoading" class="authLoading" alt="" src="/images/auth/loading-anim.gif">
 <a class="createAccountButton" id="createAccountButton" href="#">&nbsp;</a>
 </form>
+<div class="authAltLinks">
+<p>
+<span>Already a member?</span>
+<a class="signInButton" id="authSignInLink" href="#">&nbsp;</a>
+</p>
+</div>
+</div>
+<div id="facebookSignUp">
+<a class="facebookConnect" href="#">Connect with Facebook</a>
+</div>
 </div>
 </div>
 <div class="reset authSection hideObj" id="authReset">
@@ -238,9 +267,9 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 <li>&nbsp;</li>
 </ul>
 <form action="" id="setpwdForm">
-<label for="newPassword">New Password</label>
+<label for="setpwdNewPassword">New Password</label>
 <input id="setpwdNewPassword" name="newPassword" type="password">
-<label for="newPasswordConfirm">Confirm New Password</label>
+<label for="setpwdNewPasswordConfirm">Confirm New Password</label>
 <input id="setpwdNewPasswordConfirm" name="newPasswordConfirm" type="password">
 <img id="setpwdLoading" class="authLoading" alt="" src="/images/auth/loading.gif">
 <a class="setpwdButton" id="setpwdButton" href="#">&nbsp;</a>
@@ -248,6 +277,15 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 </div>
 </div>
 <a id="authClose" href="#">&nbsp;</a>
+</div>
+</div>
+<div xmlns="http://www.w3.org/1999/xhtml" class="fbMergeAccountPopup hideObj" id="fbMergeAccountPopupContent">
+<div id="fbMergeAccountContent">
+<h3>Welcome back <span id="fbMergeUsername">&nbsp;</span>!</h3>
+<h4>Make life simple!</h4>
+<p>Connect your Facebook account and enjoy all of iWin's games and benefits!</p>
+<a class="facebookConnect" href="#">Connect with Facebook</a>
+<a class="altClose" href="#close">No, thank you</a>
 </div>
 </div>
 
@@ -359,13 +397,19 @@ if you change the contents of this file please also update privacy-policy-gm.htm
                 or
                 <span id="popup_usd_price" class="price">$??.??</span>
 <span class="price_prompt">
-<a id="popup_usd_link" href="/ec/dispatchShoppingCart.do?method=view">Buy Now</a>
+<a id="popup_usd_link" href="/">Buy Now</a>
+</span>
+</div>
+<div style="display:none" class="popup_bottom_opts" id="popup_bottom_access">Buy this game now:<br>
+<span id="popup_access_price" class="price">???</span>
+<span class="price_prompt">
+<a id="popup_access_link" href="/">Buy Now</a>
 </span>
 </div>
 <div style="display:none" class="popup_bottom_opts" id="popup_bottom_icoins">Buy this game now:<br>
 <span id="popup_icn_price" class="price">???</span>
 <span class="price_prompt">
-<a id="popup_icn_link" href="/ec/dispatchShoppingCart.do?method=view">Buy Now</a>
+<a id="popup_icn_link" href="">Buy Now</a>
 </span>
 </div>
 </div>
@@ -476,7 +520,7 @@ if you change the contents of this file please also update privacy-policy-gm.htm
 <div class="hr">
 <hr>
 </div>
-<p class="copyright">© 2007 - 2010 iWin, Inc. Trademarks are the property of their respective owners. All Rights Reserved.</p>
+<p class="copyright">© 2007 - 2011 iWin, Inc. Trademarks are the property of their respective owners. All Rights Reserved.</p>
 <div class="trustMarks">
 <div class="verisign">
 <script type="text/javascript">document.write(unescape('%3Csc' + 'ript ty' + 'pe="text/javascript" src="https://seal.verisign.com/getseal?host_name=' + location.hostname + '&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"%3E&amp;nbsp;%3C/script%3E'));</script><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=web.archive.org&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en">&amp;nbsp;</script>
