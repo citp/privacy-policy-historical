@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diyseo.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223185403id_/http%3A//www.diyseo.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyseo.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624124014id_/http%3A//www.diyseo.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# DIYSEO: SEO software for your small business
+# SEO Software for Your Small Business | DIYSEO
 
 ## Privacy Policy
 
-This is the web site of DIYSEO LLC.
+This is the web site of DIYSEO LLC, a provider of [SEO Software](https://www.diyseo.com/)
 
 Our postal address is:
 
@@ -44,3 +44,7 @@ From time to time DIYSEO may make changes to its privacy policy. If DIYSEO makes
 ### Contacting DIYSEO
 
 If you have any questions about this privacy statement, the practices of the DIYSEO Site, or your dealings with the DIYSEO Site, please contact us at: [info@diyseo.com](mailto:info@diyseo.com).
+
+Want to learn more about the DIYSEO solution? Start your [Free Trial](https://www.diyseo.com/signup) today!
+
+Wondering how well your website is doing with SEO? Get a Free [SEO Report](https://web.archive.org/free-tools/seo-report-card/)!
