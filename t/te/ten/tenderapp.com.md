@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenderapp.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129045214id_/http%3A//tenderapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenderapp.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624131045id_/http%3A//www.tenderapp.com/privacy.html) for the most accurate reproduction.*
 
 # Tender — Support for your product: Knowledge Base, Helpdesk, Forums
 
