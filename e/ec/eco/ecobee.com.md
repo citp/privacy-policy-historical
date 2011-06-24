@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecobee.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901070327id_/http%3A//www.ecobee.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecobee.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625014620id_/http%3A//www.ecobee.com/privacy-policy) for the most accurate reproduction.*
 
-# ecobee - Programmable Thermostats and Other Green Living Products - Privacy Policy
+# Privacy Policy | ecobee
 
 ecobee Inc. is committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy. Please note that by visiting and using ecobee.com, or any other website owned and operated by ecobee Inc., you are accepting the practices described in this Privacy Policy.
 
