@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201154852id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624025531id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
 
-# 38 Degrees | Privacy statement
-
-### Privacy statement
+# 38 Degrees | Privacy policy
 
 38 Degrees is committed to safeguarding the privacy of our website visitors. We believe you have the right to privacy on the web. This policy sets out how we will treat your personal information.
 
@@ -33,9 +31,10 @@ We may use your personal information to:
 (d) send statements and receipts to you, and collect payments from you;  
 (e) send you general (non-marketing) communications;  
 (f) send you email notifications which you have specifically requested;  
-(g) send you marketing communications e.g. email actions and marketing communications relating to 38 Degrees or the businesses of carefully-selected third parties which we think may be of interest to you by email where you have specifically agreed to this, by email;  
+(g) send you marketing and fundraising communications relating to 38 Degrees and our campaigns, which we think may be of interest to you;  
 (h) provide third parties with statistical information about our users - but this information will not be used to identify any individual user; and  
-(i) deal with enquiries and complaints made by or about you relating to the website.
+(i) deal with enquiries and complaints made by or about you relating to the website  
+(j) make petition submissions to third parties, where you have signed the petition and the third party is a target of the campaign to which the petition relates
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
@@ -72,13 +71,13 @@ We will reply within forty days.
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
 **10\. Updating information**  
-Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via hello@38degrees.org.uk
+Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via emailtheteam@38degrees.org.uk
 
 **11\. Unsubscribing  
-**You may unsubscribe from 38 Degrees at any time by going to http://38degrees.org.uk/unsubscribe/ or by contacting hello@38degrees.org.uk
+**You may unsubscribe from 38 Degrees at any time by going to http://38degrees.org.uk/unsubscribe/ or by contacting emailtheteam@38degrees.org.uk
 
 **12.Contact**   
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email hello@38degrees.org.uk or by post to:
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email emaitheteam@38degrees.org.uk or by post to:
 
 _The Data Protection Manager  
 38 Degrees  
