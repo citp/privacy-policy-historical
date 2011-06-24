@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229021355id_/http%3A//www.eharlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624230134id_/http%3A//www.eharlequin.com/articlepage.html%3FarticleId%3D897%26chapter%3D0) for the most accurate reproduction.*
 
-# eHarlequin | Privacy Policy
+# Harlequin.com | Privacy Policy
 
 **Harlequin's Privacy Policy**
 
-[Click here](https://web.archive.org/web/20101229021355id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
+[Click here](https://web.archive.org/web/20110624230134id_/http%3A//media/images/pdf/HarlequinPrivacyPolicy.pdf) for a printable version of Harlequin's Privacy Policy. 
 
 **Effective Date: October 3, 2006**   
 **Last Updated: November 12, 2009**
@@ -96,9 +96,9 @@ In addition, to help us better understand our markets, we may gather demographic
 
 Harlequin and/or its affiliates operate various Web sites. For those sites which may appeal directly to children under the age of 18, we have online privacy policies available on those sites which address our information practices specific to those sites. 
 
-With respect to eHarlequin.com, we do not believe that this Web site appeals directly to children under the age of 18 and we do not knowingly collect information from children under this age. On this Web site, we require that users submit their birth dates when they are joining the site as a member so that no information is collected from users under age 18. Birth date information is never shared with third parties. 
+With respect to Harlequin.com, we do not believe that this Web site appeals directly to children under the age of 18 and we do not knowingly collect information from children under this age. On this Web site, we require that users submit their birth dates when they are joining the site as a member so that no information is collected from users under age 18. Birth date information is never shared with third parties. 
 
-Users aged 13 to 17 may only use eHarlequin.com with the involvement of a parent or guardian. If they do not, Harlequin reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion. In concert with our efforts, Harlequin urges all parents to supervise their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information online.
+Users aged 13 to 17 may only use Harlequin.com with the involvement of a parent or guardian. If they do not, Harlequin reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion. In concert with our efforts, Harlequin urges all parents to supervise their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information online.
 
 **Chat Rooms and Bulletin Boards**
 
@@ -126,7 +126,7 @@ When we sell our books by mail or in retail stores, our communications provide y
 
 **
 
-On our eHarlequin.com membership registration page, we provide you with the opportunity to expressly consent to the sharing of your e-mail address with third parties for their marketing purposes. If you are a member of one of our Web sites, you can access and update your online personal information by clicking on the account info link. You can also opt out of Members-Only Deals and third party e-mails by unchecking the boxes at the bottom of the page. You can change your subscriptions to our newsletters at any time by clicking on the profile page link at the bottom of each newsletter. You may choose not to receive e-mail, even after granting permission, by unsubscribing. 
+On our Harlequin.com membership registration page, we provide you with the opportunity to expressly consent to the sharing of your e-mail address with third parties for their marketing purposes. If you are a member of one of our Web sites, you can access and update your online personal information by clicking on the account info link. You can also opt out of Members-Only Deals and third party e-mails by unchecking the boxes at the bottom of the page. You can change your subscriptions to our newsletters at any time by clicking on the profile page link at the bottom of each newsletter. You may choose not to receive e-mail, even after granting permission, by unsubscribing. 
 
 **Customer Service Department and Chief Privacy Officer Contact Information:**
 
