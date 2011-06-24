@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151058id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodnews.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624041020id_/http%3A//www.hollywoodnews.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | HollywoodNews.com
 
@@ -74,5 +74,5 @@ Carlos de Abreu
 Hollywood Network, Inc.  
 433 N. Camden Drive, Suite 600  
 Beverly Hills, CA 90210  
-[info@hollywoodnetwork.com](https://web.archive.org/web/20101222151058id_/http://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnetwork.com)  
+[info@hollywoodnetwork.com](https://web.archive.org/web/20110624041020id_/http://www.hollywoodnews.com/privacy/mail%20to:info@hollywoodnetwork.com)  
 Phone: 310-887-1444 – Fax: 310-288-0060
