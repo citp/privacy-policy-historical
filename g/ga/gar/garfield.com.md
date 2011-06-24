@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211041112id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624103244id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Garfield.com - Privacy Policies
 
@@ -91,6 +91,14 @@ Privacy Policy: [http://www.eastonpressbooks.com/leather/privacy_policy.asp](htt
 Prudent Publishing  
 Terms of Use: <http://www.christmascardsdirect.com/legal.htm>  
 Privacy Policy: <http://www.christmascardsdirect.com/privacy.htm>
+
+  
+Rivetz  
+Terms of Use: [customerservice@rivetzcharms.com](mailto:customerservice@rivetzcharms.com)
+
+  
+Garfield nail caps for cats.  
+Privacy Policy: <http://www.smartpetsupply.net/info/privacy>
 
 UNIVERSAL UCLICK is the sole owner of the information collected from the UNIVERSAL UCLICK service. Your Personal Information can only be collected when you voluntarily provide it.
 
