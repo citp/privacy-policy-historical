@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveneverdies.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225005407id_/http%3A//www.loveneverdies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveneverdies.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624185445id_/http%3A//www.loveneverdies.com/privacy-policy) for the most accurate reproduction.*
 
 # Love Never Dies | Privacy Policy
 
