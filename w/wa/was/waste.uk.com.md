@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waste.uk.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221195050id_/http%3A//www.waste.uk.com/Store/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waste.uk.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624052057id_/http%3A//www.waste.uk.com/Store/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # w.a.s.t.e. Digital Download advice
 
@@ -8,20 +8,20 @@ Privacy Policy
 
 PRIVACY POLICY
 
-1\. This Privacy Policy sets out how we (Waste, our representatives and any organisation affiliated to us) will treat the personal information which you provide to us while using the website located at http://www.waste.uk.com(the “Site”) and/or the goods/services provided from it from time to time (the “Goods/Services”). We may change this Privacy Policy from time to time and such changes will take effect from the date and time the revised Privacy Policy is available on the Site.
+1\. This Privacy Policy sets out how we (Waste, our representatives and any organisation affiliated to us) will treat the personal information which you provide to us while using the website located at http://www.waste.uk.com(the â€œSiteâ€) and/or the goods/services provided from it from time to time (the â€œGoods/Servicesâ€). We may change this Privacy Policy from time to time and such changes will take effect from the date and time the revised Privacy Policy is available on the Site.
 
 2\. To provide the Site and the Goods/Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with data protection legislation applicable in the UK.
 
 3\. From time to time, we may ask you to provide some or all of the following: details of your name, your company and/or trading name, address, telephone/facsimile number(s), e-mail address. This personal information will be stored together with any additional information you may provide to us from time to time, and will be used to provide you with the Goods/Services and other activities associated with them. We may also use your personal information:-  
-• To facilitate our provision of the Goods/Services to you;  
-• To analyse use of the Site; and  
-• To keep you up-to-date with Goods/Services which we think may be of interest to you. If you do not want to receive future mail-outs about our Goods/Services, [click here](https://web.archive.org/Mail/QuickUnsubscribe.html)
+â€¢ To facilitate our provision of the Goods/Services to you;  
+â€¢ To analyse use of the Site; and  
+â€¢ To keep you up-to-date with Goods/Services which we think may be of interest to you. If you do not want to receive future mail-outs about our Goods/Services, [click here](https://web.archive.org/Mail/QuickUnsubscribe.html)
 
 We shall not offer goods and services from any third parties, including any trusted partners. Furthermore, we shall not sell your data to any third parties.
 
 4\. We will only keep your personal information for as long as is necessary for the purposes for which that personal information was given to us. 
 
-5\. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’,  
+5\. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive â€˜cookiesâ€™,  
 
 
 you may change the settings on your computer or browser accordingly.
