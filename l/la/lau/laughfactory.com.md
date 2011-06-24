@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laughfactory.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219135148id_/http%3A//www.laughfactory.com/content/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughfactory.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624041021id_/http%3A//laughfactory.com/content/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Laugh Factory - Privacy Policy
+# Privacy Policy
 
 This Privacy Policy (Policy) sets forth the policies regarding the collection and use of information relating to the official Laugh Factory web site located at [www.laughfactory.com](http://laughfactory.com/www.laughfactory.com/index.html) (Site), which is operated by Laugh Factory IMG Media, LLC (LFIMG, we, or us).  . 
 
