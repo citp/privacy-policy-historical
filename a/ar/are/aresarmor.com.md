@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aresarmor.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220100412id_/http%3A//www.aresarmor.com/install/index.php%3Fapp%3Dcms%26ns%3Ddisplay%26ref%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aresarmor.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625003826id_/http%3A//aresarmor.com/install/index.php%3Fapp%3Dcms%26ns%3Ddisplay%26ref%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -26,7 +26,7 @@ This site gives users the following options for removing their information from 
 
 [Send an email to us by visiting the Contact Page.](http://www.aresarmor.com/install/cms-contact/COREseo.html "Contact Us")
 
-[Manage your email Subscriptions.](https://www.aresarmor.com/install/index.php?app=cms&ns=gsubscript "Subscriptions")
+[Manage your email Subscriptions.](https://www.aresarmor.com/install/index.php?app=cms&ns=gsubscript&portrelay=1 "Subscriptions")
 
 Correct/Update
 
