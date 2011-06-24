@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the widgetbox.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211175728id_/http%3A//www.widgetbox.com/info/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgetbox.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624111917id_/http%3A//www.widgetbox.com/info/legal/privacy-policy) for the most accurate reproduction.*
 
-# Mobile apps, web widgets, and rich media ads — Widgetbox
+# Mobile apps, web widgets, and rich media — Widgetbox
 
 ## Widgetbox Privacy Policy Statement
 
