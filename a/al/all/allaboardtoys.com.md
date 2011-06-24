@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219170443id_/http%3A//www.allaboardtoys.com/pages/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624020833id_/http%3A//www.allaboardtoys.com/pages/Privacy-Security) for the most accurate reproduction.*
 
 # All Aboard Toys Privacy Policy
 
@@ -15,8 +15,8 @@ In adherence to the Fair Credit Billing Act, your credit card provider can only 
 Please address all communications to [Customer Care](http://www.allaboardtoys.com/pages/Contact-Us), or by mail to: 
 
 > AllAboardToys.com Customer Care  
-> 7115 Industrial Road  
-> Florence, KY 41042
+>  1001 Reads Lake road  
+>  Chattanooga, TN 37415
 
 **What personal information does All Aboard Toys gather and what do you do with it?**  
  **Order Information:** While you may browse our web site completely anonymously, in order for you to order and for us to ship an order to you, we must collect the following items which we consider personal information: 
@@ -93,6 +93,6 @@ If you have an account on the All Aboard Toys web site, you may change your pers
 **Does this privacy policy change? How will I know it has changed?**  
 This privacy policy may change at any time, without notice. If we decide to make changes, it is usually to better protect our customer's privacy. The date at the bottom of this document indicates when changes were last made to this policy. 
 
-**Last updated: 5/14/2009**
+**Last updated: 3/1/2011**
 
  
