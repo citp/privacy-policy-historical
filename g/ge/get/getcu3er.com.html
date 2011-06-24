@@ -1,31 +1,36 @@
-<!--The following is the downloaded HTML source of the getcu3er.com privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217210930id_/http%3A//getcu3er.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getcu3er.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624143917id_/http%3A//getcu3er.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy - CU3ER</title>
 <meta name="description" content="">
-<meta name="keywords" content=""><link rel="shortcut icon" href="/img/favicon.png">
+<meta name="keywords" content=""><link rel="icon" type="image/png" href="/img/favicon.png">
+
 
 	 <meta property="og:title" content="CU3ER 3D Image Slider">
 	 <meta property="og:site_name" content="http://getcu3er.com">
 	 <meta property="og:image" content="http://getcu3er.com/img/logo/cu3er_logo_white.png">
+	 <link rel="image_src" href="http://getcu3er.com/img/logo/cu3er_logo_white.png">
+	 
 
 
 
 
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.dimensions.js"></script>
 	<script type="text/javascript" src="/js/jquery.accordion.js"></script>
+	<script type="text/javascript" src="/js/prettyPhoto/js/jquery.prettyPhoto.js"></script>
 
 
 
+	<link rel="stylesheet" type="text/css" href="/css/../js/prettyPhoto/css/prettyPhoto.css">
 	<link rel="stylesheet" type="text/css" href="/css/reset.css">
 	<link rel="stylesheet" type="text/css" href="/css/text.css">
 	<link rel="stylesheet" type="text/css" href="/css/layout.css">
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
-	<link rel="stylesheet" type="text/css" href="/css/notifications_wpcu3er.css">
+	<link rel="stylesheet" type="text/css" href="/css/notifications_javascript.css">
       <script type="text/javascript">
         function createCookie(name,value,days) {
         	if (days) {
@@ -39,9 +44,9 @@
 
         $(document).ready(function() {
           $.ajax({
-            url: 'http://getcu3er.com/app/views/notifications/wpcu3er.ctp',
+            url: 'http://getcu3er.com/app/views/notifications/javascript.html',
             success: function(data) {
-              $(data).insertBefore('#header');
+              $(data).insertBefore('.wrapper');
               $("#notification").css("marginTop", - $("#notification").height()+"px");
               $("#notification").animate({marginTop:"0px"});
             }
@@ -51,15 +56,22 @@
         function closeNotification() {
            $("#notification").animate({marginTop:-$("#notification").height()+"px"}, function() {
               $("#notification").remove();
-              createCookie("notification_wpcu3er", 1, 30);
+              createCookie("notification_javascript", 1, 30);
            });
         }
       </script>
     
-
 <script type="text/javascript">
-
-
+$(document).ready(function() {
+/* new sign up popup box */
+					$('.signUpNew').prettyPhoto();
+		var arrSignup = $('.signUpNew'); 
+		if (self.document.location.hash.substring(1) == "signup") {
+			$(arrSignup[0]).trigger("click");
+		}
+		
+	
+});
 
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-4315232-2']);
@@ -69,10 +81,6 @@ _gaq.push(['_setAllowLinker', true]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar',  3, 'full_referrer', '', 2 ]);
 _gaq.push(['_trackPageview']);
-
-
-
-
 
 
 
@@ -106,7 +114,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
       <div class="wrap">
         <div id="logo" class="grid_2 first"> 
         		<div id="load"><img src="/img/ajax-loader.gif" width="31" height="31" alt=""></div>
-                <a href="http://getcu3er.com/">
+                <a href="/">
                     <img src="/img/logo/logo_cu3er_site_small.png" width="81" height="30" alt="">
               	</a>
 
@@ -114,12 +122,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
             <div id="mainnavi" class="grid_10 last">
               <ul>
                    
-                    <li><a id="navi-features" href="/features/">Features</a></li>
+                    <li><a id="navi-features" href="/features">Features</a></li>
                     <li><a id="navi-about" href="/about">About</a></li>
-                    <li><a id="navi-pricing" href="https://getcu3er.com/signup">Pricing &amp; Sign-up</a></li>
+                    <li><a id="navi-pricing" href="/pricing">Pricing</a></li>
                     <li><a id="navi-suppoprt" href="/support">Support</a></li>
                     <li><a id="navi-contant" href="/contact">Contact Us</a></li>
-					<li><a id="navi-demo" href="javascript:openWindow('/demo');">cManager demo</a></li>
+					
+										   <li><a href="/users/create/?iframe=true&amp;width=540&amp;height=238" class="signUpNew" rel="prettyPhoto">Sign up free</a></li>
+						
+								
+										
+					
+                    
 
                </ul>
             </div>  
@@ -174,8 +188,8 @@ Certain visitors to Site choose to interact with MADEBYPLAY in ways that require
 MADEBYPLAY to gather personally-identifying information. The amount and type
 of information that MADEBYPLAY gathers depends on the nature of the interaction.
 For example, we ask visitors who sign up for an account at <a href="http://getcu3er.com">http://getcu3er.com</a> to
-provide a name and email address. Those who engage in transactions with MADEBYPLAY
-– by purchasing CU3ER PRO license and access to the CU3ER PRO account ,
+provide a  email address. Those who engage in transactions with MADEBYPLAY
+– by purchasing CU3ER PRO license and access to the CU3ER  account ,
 for example – are asked to provide additional information, including as necessary
 the personal and financial information required to process those transactions.
 </p>
@@ -272,7 +286,8 @@ If you have questions about accessing or correcting your personal data please
     <div class="clear">&nbsp;</div>    
    	</div>    
     <div class="inner">
-        <div class="grid_12 copyright">Copyright 2010 <a href="http://madebyplay.com">MADEBYPLAY</a>. All rights reserved.</div>           		     
+        <div class="grid_12 copyright">Copyright 2010-2011 <a href="http://madebyplay.com">MADEBYPLAY</a>.
+        	All rights reserved.</div>           		     
         <div class="clear">&nbsp;</div>
     </div>      
 </div>
