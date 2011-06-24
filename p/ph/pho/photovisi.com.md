@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204050452id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624222932id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.*
 
 # Photovisi - Collage photo effects
 
