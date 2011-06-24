@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219123841id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624124423id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NJ.com
 
@@ -12,7 +12,7 @@ The following Privacy Policy summarizes the various ways that **New Jersey On-Li
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **http://www.nj.com/privacypolicy. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
-In addition to reviewing this Privacy Policy, please read our User Agreement. Your use of the Website constitutes agreement to its terms and conditions as well.
+In addition to reviewing this Privacy Policy, [please read our User Agreement](https://web.archive.org/useragreement). Your use of the Website constitutes agreement to its terms and conditions as well.
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
@@ -63,7 +63,12 @@ If your children disclose information about themselves in publicly accessible ar
 If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
 
   
-**6.** **PRIVACY POLICY COORDINATOR**
+**6.** **NEWS REGISTRY**
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+
+  
+**7.** **PRIVACY POLICY COORDINATOR**
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
