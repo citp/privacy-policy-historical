@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216193939id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624132959id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
 
 # Privacy Policy for Idol-Mania.com
 
@@ -28,23 +28,30 @@ We use third-party advertising companies to serve ads when you visit our website
 
 
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts. 
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-_——–_
+Contact information for Idol-Mania.com email  
+idol (at sign) idol-mania.com
+
+or  
+egehler(at sign)gmail.com
+
+_——–  
+Like this Post? Give it a Plus 1_
 
  _
 
-Follow us on Twitter [ @idolfans ](http://twitter.com/idolfans)
+Follow us on Twitter [@idolfans](http://twitter.com/idolfans)
 
-To Purchase any [American Idol](http://www.idol-mania.com/american-idol-fan) I-Tunes Singles and Help Support Idol-Mania Blog – Click on any of the I-Tunes Banner Or Link Below  
+To Purchase any American Idol I-Tunes Singles and Help Support Idol-Mania Blog – Click on any of the I-Tunes Banner Or Link Below  
 [](http://click.linksynergy.com/fs-bin/click?id=DnbLdVMRPg0&offerid=146261.10004108&type=4&subid=0)
 
 [ Get Your American Idol CD’s, DVD’s and Merchandise ](http://astore.amazon.com/idol-store-20)
 
 [ American Idol](http://idol-mania.com/)
 
-[American Idol News](http://idol-mania.com/american-idol-fan/)
+[American Idol 2011](http://idol-mania.com/american-idol-fan/)
 
 _
 
-_**Facebook Users Be sure to Like This POST**_
+_**Facebook Users Be sure to Like This POST and[Like Our Facebook Fan Page](http://www.facebook.com/votedoffidol)**_
