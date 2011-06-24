@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hulu.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231193000id_/http%3A//www.hulu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulu.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624054822id_/http%3A//www.hulu.com/privacy) for the most accurate reproduction.*
 
 # Hulu - Privacy
 
