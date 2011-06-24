@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the riotinto.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921223059id_/http%3A//www.riotinto.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riotinto.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624044116id_/http%3A//www.riotinto.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy policy - Rio Tinto
+# Privacy - Rio Tinto
 
 Rio Tinto respects the privacy of our site visitors. We provide this statement to inform you of our policies and practices regarding how we use information we gather about you.
 
