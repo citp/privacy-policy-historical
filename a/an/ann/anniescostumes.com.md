@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anniescostumes.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212143328id_/http%3A//www.anniescostumes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anniescostumes.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624021221id_/http%3A//www.anniescostumes.com/privacy.htm) for the most accurate reproduction.*
 
 # Extreme Halloween Network Privay Policy, Privay Policy for AnniesCostumes.com, Extreme Halloween, Inc. and its network of 13 E-Commerce Websites.
 
