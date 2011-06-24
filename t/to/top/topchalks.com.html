@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the topchalks.com privacy policy that was archived on 2010-08-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100830071132id_/http%3A//www.topchalks.com/tc/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topchalks.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624140502id_/http%3A//topchalks.com/tc/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -29,120 +29,74 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <link type="text/css" rel="stylesheet" href="css/signinbox.css">
 
  
-
-
- <script language="JavaScript">
+<script language="JavaScript">
  <!--
- var action="userlogin.htm"
+var action="userlogin.htm"
 var videostatus = "NA"
-
-
-
-function showhidevideo(id,type)
-	{
-		//alert(type)
-			removeVideo(videostatus)
-		if(type=="text")
-		{
+function showhidevideo(id,type){
+	removeVideo(videostatus)
+		if(type=="text"){
 			addVideo(id,id)
-			//alert(type+(type=="text"))
 			document.getElementById(id+"_text").style.display="none";
 			document.getElementById(id+"_video").style.display="block";
-
-		}else if(type=="video")
-		{
+		}else if(type=="video"){
 			removeVideo(id);
 			document.getElementById(id+"_text").style.display="block";
 			document.getElementById(id+"_video").style.display="none";
-		
 		}
-		
 	}
- function checkClose()
- {
-	 //alert("checkClose::"+videostatus);
-		if(videostatus!="NA")
-	 {
+ function checkClose(){
+	if(videostatus!="NA"){
 			removeVideo(videostatus)
 	 }
-
-		showOrHideAllDropDowns("visible");	
+	showOrHideAllDropDowns("visible");	
  }
-
- function removeVideo(videoId)
- {
-	 	if(videostatus!="NA")
-	 {
+function removeVideo(videoId){
+		//alert("videoId::"+videoId);
+	 	if(videostatus!="NA"){
 			document.getElementById(videoId).innerHTML="";
 	 }
-	 
- }
- function addVideo(videoId,videoname)
-{
+}
+function addVideo(videoId,videoname){
 		document.getElementById(videoId+"_center").innerHTML='<a   href='+videoname+ '.flv style="display:block;width:595px;height:350px" id="'+videoId+'"> </a>';
 		videostatus = videoId;
+		//alert(videostatus)
 		flowplayer(videoId, "flowplayer-3.1.5.swf");
-		//alert(document.getElementById(videoId+"_center").innerHTML);
-
- }
-
- function showOrHideAllDropDowns(newState) {
-
-//alert(navigator.appName);
-
-var elements = document.documentElement.getElementsByTagName('select');
-
-for (var i=0; i<elements.length; i++) {
+	}
+function showOrHideAllDropDowns(newState){
+	var elements = document.documentElement.getElementsByTagName('select');
+	for (var i=0; i<elements.length; i++) {
 			elements[i].style.visibility = newState;
 	}
 }
-function submitheaderLoginForm()
-{
+function submitheaderLoginForm(){
 		CheckLoginState(document.LoginForm);
 		return false;
 }
-
-
- function setDesabled(logonsource){
+function setDesabled(logonsource){
      document.body.style.overflow="hidden";
 	 document.getElementById("disablingdivOuter").style.display="block";
 	 document.getElementById("disablingdivInner").style.display="block";
 	 document.getElementById("loadingdiv").style.display="block";
-	
-	 //alert("logonsource"+logonsource);
-	 if(logonsource=="navlogin")
-	 {
-	// alert(document.getElementById('outerloadingdiv'));
-	 sb_windowTools.centerElementOnScreen(document.getElementById('outerloadingdiv'));
+	if(logonsource=="navlogin"){
+		sb_windowTools.centerElementOnScreen(document.getElementById('outerloadingdiv'));
 	 document.getElementById("outerloadingdiv").style.display="block";
 	 }
  }
-  function setEnabled(logonsource){
+ function setEnabled(logonsource){
 	document.body.style.overflow="auto";
 	 document.getElementById("disablingdivOuter").style.display="none";
 	 document.getElementById("disablingdivInner").style.display="none";
 	 document.getElementById("loadingdiv").style.display="none";
-	 //alert("logonsource"+logonsource);
-	 if(logonsource=="navlogin")
-	  {
+	 if(logonsource=="navlogin"){
 	 document.getElementById("outerloadingdiv").style.display="none";
 	  }
  }
- //-->
- </script>
-
- <script language="JavaScript">
-<!--
-// START OF MESSAGE SCRIPT //
-
 var MSGTIMER = 20;
 var MSGSPEED = 5;
 var MSGOFFSET = 3;
 var MSGHIDE = 3;
-
-// build out the divs, set attributes and call the fade function //
 function inlineMsg(target,string,autohide) {
-	//alert("22222222");
   var msg;
   var msgcontent;
   if(!document.getElementById('msg')) {
@@ -162,10 +116,7 @@ function inlineMsg(target,string,autohide) {
   msgcontent.innerHTML = string;
   msg.style.display = 'block';
   var msgheight = msg.offsetHeight;
-  //alert(target)
-	  
   var targetdiv = target;
- // alert(targetdiv)
   targetdiv.focus();
   var targetheight = targetdiv.offsetHeight;
   var targetwidth = targetdiv.offsetWidth;
@@ -180,16 +131,12 @@ function inlineMsg(target,string,autohide) {
   }
   window.setTimeout("hideMsg()", (autohide * 1000));
 }
-
-// hide the form alert //
 function hideMsg(msg) {
   var msg = document.getElementById('msg');
   if(!msg.timer) {
     msg.timer = setInterval("fadeMsg(0)", MSGTIMER);
   }
 }
-
-// face the message box //
 function fadeMsg(flag) {
   if(flag == null) {
     flag = 1;
@@ -212,8 +159,6 @@ function fadeMsg(flag) {
     clearInterval(msg.timer);
   }
 }
-
-// calculate the position of the element in relation to the left of the browser //
 function leftPosition(target) {
   var left = 0;
   if(target.offsetParent) {
@@ -229,8 +174,6 @@ function leftPosition(target) {
   }
   return left;
 }
-
-// calculate the position of the element in relation to the top of the browser window //
 function topPosition(target) {
   var top = 0;
   if(target.offsetParent) {
@@ -246,146 +189,53 @@ function topPosition(target) {
   }
   return top;
 }
-
-// preload the arrow //
 if(document.images) {
   arrow = new Image(7,80); 
   arrow.src = "images/msg_arrow.gif"; 
 }
 //-->
 </script>
- <style type="text/css">
-#disablingdivOuter
-{
-    
-/* Do not display it on entry */
-    
+<style type="text/css">
+#disablingdivOuter{
 display: none; 
-  
-/* Display it on the layer with index 1001.
-       
-Make sure this is the highest z-index value
-      
-used by layers on that page */
-    
 z-index:100;
-    
-/* make it cover the whole screen */
-    
 position: absolute; 
-    
 left:0px;
-
 top:0px;
-    
 width: 100%; 
-    
 height:1200px; 
-   
-/* make it white but fully transparent */
-   
-
-    
 opacity:.30; 
-    
 filter: alpha(opacity=30); 
 }
-#outerloadingdiv
-{
-
+#outerloadingdiv{
 display: none; 
-  
-/* Display it on the layer with index 1001.
-       
-Make sure this is the highest z-index value
-      
-used by layers on that page */
-    
 z-index:10000;
-    
-/* make it cover the whole screen */
- 
-
-
 width: 180px; 
-    
 height: 70px; 
-   
-
 }
-
-#loadingdiv
-{
-
+#loadingdiv{
 display: none; 
-  
-/* Display it on the layer with index 1001.
-       
-Make sure this is the highest z-index value
-      
-used by layers on that page */
-    
 z-index:10000;
-    
-/* make it cover the whole screen */
-    
 position: absolute; 
 left:270px;
-
 top:250px;
-
 width: 200px; 
-    
 height: 100px; 
-   
-
 }
-#disablingdivInner
-{
-    
-/* Do not display it on entry */
-    
+#disablingdivInner{
 display: none; 
-  
-/* Display it on the layer with index 1001.
-       
-Make sure this is the highest z-index value
-      
-used by layers on that page */
-    
 z-index:100;
-    
-/* make it cover the whole screen */
-    
 position: absolute; 
-    
 left:0px;
-
 top:0px;
-    
 width: 100%; 
-    
 height: 100%; 
-   
-/* make it white but fully transparent */
-   
-
-    
 opacity:.30; 
-    
-filter: alpha(opacity=30); 
+ filter: alpha(opacity=30); 
 }
-
-</style>
-
-<style>
-	
 #msg {display:none; position:absolute; z-index:10000; background:url(images/msg_arrow.gif) left center no-repeat; padding-left:7px}
 #msgcontent {display:block; background:#fff; border:2px solid #924949; border-left:none; padding:5px; min-width:100px; max-width:200px}
-	</style>
-
-<link rel="shortcut icon" href="images/favicon.ico">
-<link rel="icon" type="image/gif" href="images/animated_favicon1.gif">
+</style>
 <div id="1" style="display:block">
 <div id="outerloadingdiv" style="background-image:url(images/loading12.gif);background-repeat:no-repeat"></div>
 <iframe id="disablingdivOuter" src="pages/topchalks/dtest/loginopacity.jsp"></iframe>
@@ -502,73 +352,37 @@ filter: alpha(opacity=30);
 
 
 <script language="JavaScript">
-
 <!--
 var userId="NA";
-function setLogOut()
-{
+function setLogOut(){
 	document.LogoutForm.submit();
-	
 }
-function submitForm()
-{
-		
+function submitForm(){
 	document.regForm.inputData.value = "home";
 	document.regForm.submit();	
 }
-function submitForm2(userId,inputdata)
-{
-
-   if(userId == 'null')
-		{
-			//alert("inputdata........."+inputdata);
+function submitForm2(userId,inputdata){
+if(userId == 'null'){
 			document.regForm.inputData.value = inputdata;
 			document.regForm.submit();	
-		}
-		else
-		{
+	}else{
 			document.GetAllProductForm.submit();	
-		}
-		
+	}
 }
-
-function submitForm3(userId,inputdata)
-{
-
-   if(userId == 'null')
-		{
-			//alert("inputdata........."+inputdata);
+function submitForm3(userId,inputdata){
+	if(userId == 'null'){
 			document.regForm.inputData.value = inputdata;
 			document.regForm.submit();	
-		}
-		else
-		{
+		}else{
 			document.consumeContentForm.trkey.value = "FREE";
 			document.consumeContentForm.submit();	
 		}
-		
-}
- 	
-	function setHeighlighted(id)
+	}
+ function setHeighlighted(id)
     {
 	  document.getElementById(id).className  = "active";
     }
-	function setImage()
-	{
-		 var objj = document.getElementById("forum");
-         var strr = objj.src;
-         var pos=strr.lastIndexOf("/");
-         strr = strr.substring(0,pos+1);
-		document.getElementById("forum").src = strr + "joinforum_2.gif";
-	}
-	function resetImage()
-	{
-		 var objj = document.getElementById("forum");
-         var strr = objj.src;
-         var pos=strr.lastIndexOf("/");
-         strr = strr.substring(0,pos+1);
-		document.getElementById("forum").src = strr + "joinforum.gif";
-	}
+	
 //-->
 </script>
 <form name="regForm" method="post" action="/tc/register.htm">
@@ -642,7 +456,7 @@ function submitNavigationForm()
 <!-- /rbcontent --><div class="rbroundbox">
 	<div class="rbtop"><div style="padding-top:2px;_padding-top:5px;font-size:16px;text-align:center;">&nbsp;&nbsp;&nbsp;SCHOOL PREP</div></div>
 		<div class="rbcontent">
-			Classes -  <a href="/tc/showcbse.htm" id="classxii" title="Class XII">XII</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/cbsexi.htm" id="classxi" title="Class XI">XI</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/class10.htm" id="classx" title="Class X">X</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/classIX.htm" id="classix" title="Class IX">IX</a>
+			Classes -  <a href="/tc/classIX.htm" id="classix" title="Class IX">IX</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/class10.htm" id="classx" title="Class X">X</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/cbsexi.htm" id="classxi" title="Class XI">XI</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/showcbse.htm" id="classxii" title="Class XII">XII</a>
 		</div>
 	<div class="rbbot"><div></div></div>
 </div><!-- /rbroundbox -->
@@ -656,7 +470,7 @@ function submitNavigationForm()
 <!-- /rbcontent --><div class="rbroundbox">
 	<div class="rbtop"><div style="padding-top:2px;_padding-top:5px;font-size:16px;text-align:center;">&nbsp;&nbsp;&nbsp;TEST PREP</div></div>
 		<div class="rbcontent">
-			<a href="/tc/showiit.htm" id="iit" title="IIT-JEE">IIT-JEE</a>  <a href="/tc/aieee.htm" id="aieee" title="AIEEE">AIEEE</a>  <a href="/tc/cat.htm" id="cat" title="Cat">CAT</a>  <a href="/tc/showsat.htm" id="sat" title="SAT">SAT</a>
+			<a href="/tc/showiit.htm" id="iit" title="IIT-JEE">IIT-JEE</a>  <a href="/tc/aieee.htm" id="aieee" title="AIEEE">AIEEE</a>  <a href="/tc/ojee.htm" id="ojee" title="OJEE">OJEE</a>  <a href="/tc/cat.htm" id="cat" title="Cat">CAT</a>  <a href="/tc/showsat.htm" id="sat" title="SAT">SAT</a>
 		</div>
 	<div class="rbbot"><div></div></div>
 </div><!-- /rbroundbox -->
@@ -1022,6 +836,7 @@ Redirecting to product page...</p>
 </center>
 </div>
     
+
 
 <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
