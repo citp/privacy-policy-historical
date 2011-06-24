@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadultimage.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222172226id_/http%3A//myadultimage.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadultimage.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624205424id_/http%3A//myadultimage.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Adult Image Hosting | Free Image Hosting
 
