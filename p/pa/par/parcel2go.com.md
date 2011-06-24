@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229090901id_/http%3A//www.parcel2go.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624041423id_/http%3A//www.parcel2go.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Parcel2Go
+
+[ ](https://web.archive.org/)
+
+##  [ ](https://web.archive.org/web/20110624041423id_/http://www.parcel2go.com/content/Multiple-Quick-Quote.aspx)
 
 ##  Privacy Policy for www.parcel2go.com
 
@@ -24,6 +28,15 @@
   * Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you. 
   * All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
   * Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+  * We may use the cookies for the following purposes:
+
+
+  1. To show relevant advertisements on sites on the internet
+  2. To show relevant advertisements based on your prior visit to our website
+  3. To use Google Analytics data to serve advertisements based on your prior visit to our website
+
+
+  * You can opt out of Google's use of cookies by visiting the Google advertising opt-out page (<http://www.google.com/privacy/ads/>). In addition for all our other third party vendors you can opt out by visiting (<http://www.networkadvertising.org/managing/opt_out.asp>).
   * Use of Your Information
   * The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
@@ -74,8 +87,13 @@
   * Access To Information
   * The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
   * Contacting Us
-  * We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [https://www.Parcel2Go.com/Contact](https://web.archive.org/web/20101229090901id_/http%3A//www.parcel2go.com/Contact.aspx)
+  * We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [https://www.Parcel2Go.com/Contact](https://web.archive.org/Contact.aspx)
 
 
 
-[Parcel2Go.com Italy](https://www.parcel2go.com/about-italy.aspx) | [Parcel2Go.com France](https://www.parcel2go.com/about-france.aspx) | Parcel2Go.com Germany | Parcel2Go.com China | [Parcel2Go.com Ireland](http://www.parcel2go.com/ie/)
+[ ](https://web.archive.org/What-Is-PrePay.aspx)
+
+Website user friendly and service was very reasonably priced. I was very impressed with City Link...  
+[Read More...](http://parcel-delivery-reviews.parcel2go.com/town/Ormskirk/POOLE/11036)
+
+[ ](https://web.archive.org/Multiple-Quick-Quote.aspx)
