@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221231050id_/http%3A//www.chickensoup.com/cs.asp%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624205729id_/http%3A//www.chickensoup.com/cs.asp%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
 # Chicken Soup for the Soul
 
@@ -16,11 +16,11 @@ Chicken Soup for the Soul Publishing, LLC may collect personal information about
 
 **WEBSITE INFORMATION**
 
-When you visit any of our websites, a cookie may be placed on your computer or the cookie may be read if you have visited one of our websites site previously. Chicken Soup for the Soul Publishing, LLC uses cookies for many different purposes, including to allow us to determine which products and services you have already purchased so Chicken Soup for the Soul Publishing, LLC does not provide redundant information to you, and to track the sales made to customers referred by you so that you can receive compensation under our affiliate program. If you choose to not have your browser accept cookies from Chicken Soup for the Soul Publishing, LLC websites, you may not be able to view all the text on the screens, or to experience a personalized visit, or to subscribe to certain service and product offerings on our websites. 
+When you visit any of our websites, a cookie may be placed on your computer or the cookie may be read if you have visited one of our websites site previously. Chicken Soup for the Soul Publishing, LLC uses cookies for many different purposes, including to allow us to determine which products and services you have already purchased so Chicken Soup for the Soul Publishing, LLC does not provide redundant information to you, and to track the sales made to customers referred by you so that you can receive compensation under our affiliate program. If you choose to not have your browser accept cookies from Chicken Soup for the Soul Publishing, LLC websites, you may not be able to view all the text on the screens, or to experience a personalized visit, or to subscribe to certain service and product offerings on our websites.
 
 **OTHER INFORMATION**
 
-We may retain any data you provide to us in an email or other inquiry, for any of the the purposes we use other information collected on our websites, including for tracking the types of questions that we receive. 
+We may retain any data you provide to us in an email or other inquiry, for any of the the purposes we use other information collected on our websites, including for tracking the types of questions that we receive.
 
 **SECURITY**
 
@@ -28,13 +28,13 @@ Whenever Chicken Soup for the Soul Publishing, LLC handles information that you 
 
 **WHEN YOUR INFORMATION WILL BE SHARED OR DISCLOSED**
 
-We routinely provide your name, mailing address, and email address to unaffiliated third parties that manage our mailing lists and prepare communications with users of our website. We may also provide your information from time to time to third-party service providers if you have checked the box on our web page indicating your desire to receive email and promotions from us and our affiliates and/or our partners. 
+We routinely provide your name, mailing address, and email address to unaffiliated third parties that manage our mailing lists and prepare communications with users of our website. We may also provide your information from time to time to third-party service providers if you have checked the box on our web page indicating your desire to receive email and promotions from us and our affiliates and/or our partners.
 
 We will comply with any subpoenas, court orders or other legal processes for any of the information about you in our possession, and we may use such information to establish or exercise our legal rights, or to defend against legal claims.
 
-We may provide aggregate information, such as the number of users who visit a particular linked site, to other parties. 
+We may provide aggregate information, such as the number of users who visit a particular linked site, to other parties.
 
-In addition, information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company. 
+In addition, information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company.
 
 **CHILDREN’S PRIVACY**
 
@@ -46,7 +46,7 @@ Our websites may contain links to other websites. Please be aware that Chicken S
 
 **CHANGES TO THIS POLICY**
 
-Chicken Soup for the Soul Publishing, LLC may from time to time update this privacy policy. Whenever a change to this policy is significant, we will place a prominent notice on our websites. 
+Chicken Soup for the Soul Publishing, LLC may from time to time update this privacy policy. Whenever a change to this policy is significant, we will place a prominent notice on our websites.
 
 **GOVERNING LAW**
 
