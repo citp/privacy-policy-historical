@@ -1,0 +1,445 @@
+<!--The following is the downloaded HTML source of the balticservers.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624063333id_/http%3A//balticservers.com/hosting-privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="lt" lang="lt"><head>
+ <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+ <meta http-equiv="Content-language" content="lt-LT">
+ <meta name="author" content="UAB &quot;Duomenų centras&quot;">
+ <meta name="copyright" content="UAB &quot;Duomenų centras&quot;">
+ <meta name="description" content="All data center services since 2001: VPS and dedicated Intel servers">
+ <meta name="keywords" content="virtual servers, vps, dedicated servers, individual servers, colocation, hosting, hosted windows, cloud hosting">
+ <meta name="verify-v1" content="sbwh/sOGBTj5sHxyJDpw7dAJM3vXX1ye8nvXMilfKYs=">
+ <meta name="verify-webtopay" content="eda65efe9f540c8f613e935a1b7fa58e">
+ <link rel="Shortcut icon" href="/favicon.ico" type="image/x-icon">
+ <link rel="stylesheet" type="text/css" media="screen" href="/site/style.css">
+ <link rel="stylesheet" type="text/css" media="print" href="/site/print.css">
+ <link rel="stylesheet" type="text/css" media="screen" href="/css/start/jquery-ui-1.8.1.custom.css">
+ <link rel="stylesheet" type="text/css" media="screen" href="/site/basic.css">
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+ <script type="text/javascript" src="/js/jquery-ui-1.8.11.custom.min.js"></script>
+ <script type="text/javascript" src="/js/jquery.validate.min.js"></script>
+ <script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+ <script type="text/javascript" src="/js/jquery.simplemodal.js"></script>
+ <script type="text/javascript" src="/site/scripts.js"></script>
+  <script type="text/javascript">
+<!--
+var swiftrandom           = Math.floor(Math.random()*1001);
+var swiftuniqueid         = "ftlpre43sc";
+var swifttagurlftlpre43sc = "https://aptarnavimas.duomenucentras.lt/info/visitor/index.php?/Anglu/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTh0bDRsYWFwazgmdmVyc2lvbj00LjAxLjIwNCZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NyZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQo1NGM3YjI4N2FkNDllZmI1NjlhYzc0NzM5NWZkOTBkY2RkNjRlYmU2";
+
+function inject(src, cb, target){
+  target = target || document.body;
+  var s = document.createElement('SCRIPT');
+  s.charset = 'UTF-8';
+  if(typeof cb === 'function'){
+      s.onload = function(){
+          cb(s);
+      };
+      s.onreadystatechange = function () {
+          (/loaded|complete/).test(s.readyState) && cb(s);
+      };
+  }
+  s.src = src;
+  target.appendChild(s);
+  return s;
+}
+
+var messages = ["<p>\n\t&nbsp;<\/p>\n<p>\n\t<span style=\"font-size:14px;\"><strong>Affordable hosting since 2001 year<\/strong><\/span><\/p>\n","<p>\n\t&nbsp;<\/p>\n<p>\n\t<strong><span style=\"font-size:14px;\">Individual <span style=\"font-size:16px;\"><span style=\"color:#00f;\">Intel <\/span><\/span>server: 45&euro; \/ month<\/span><\/strong><\/p>\n","<p>\n\t&nbsp;<\/p>\n<p>\n\t<font class=\"Apple-style-span\" size=\"4\"><span class=\"Apple-style-span\" style=\"font-size: 14px;\"><b>For every client - real tree ! <a href=\"\/about-us\"><em>(more)<\/em><\/a><\/b><\/span><\/font><\/p>\n"];
+var time=1;
+function timeHere() {
+	if ($.cookie("timer") >= 300)
+	{
+		$('#live_chat_block_timer').css('display','block');
+	}
+	time = time + 1;
+	finalTime = time / 10;
+}
+function sayTime() {
+	if ($.cookie("show") != "no")
+	{
+		finalTime = time / 10;
+
+		if ($.cookie("timer"))
+		{
+			finalTime += parseFloat($.cookie("timer"));
+			if ((finalTime >= 300) || ($.cookie("timer") >= 30))
+			{
+				if ($.cookie("shown") != "true")
+				{
+					$.cookie("shown", "true");
+					countShows();
+				}
+			}
+		}
+		$.cookie("timer",finalTime);
+		if (finalTime >= 300)
+		{
+			clearInterval(sayTimeId);
+			clearInterval(timeHereId);
+			$('#live_chat_block_timer').show('250');
+		}
+	}
+}
+function countShows(){
+	$.post("count.php",{"shown":"true"});
+}
+var sayTimeId = 0;
+var timeHereId = 0;
+$(function (){
+	$('#countclicks').live('click', function(){
+		$.post("count.php",{"clicked":"true"});
+	});
+
+	if ($.cookie("show") != "no")
+	{
+		$('#closehelp').live('click', function()
+		{
+			$('#live_chat_block_timer').hide('250');
+			$('#live_chat_block_timer').css("display","none");
+			clearInterval(sayTimeId);
+			clearInterval(timeHereId);
+			$.cookie("timer", null);
+			$.cookie("show","no",{ expires: 30 });
+		});
+		sayTimeId = setInterval("sayTime()",5000);
+		timeHereId = setInterval("timeHere()", 100);
+	}
+	inject (swifttagurlftlpre43sc, function(script){
+    var a = swifttagdiv.firstChild.attributes[2].value.substr(11);
+    var is = swifttagdiv.firstChild.firstChild.src;
+    var onLine = (is.substring(is.lastIndexOf('/') + 1) == 'staffonline.png');
+
+    if (onLine) {
+      $('#spanactive2').html('<span style="color: #567591;">Active<\/span>');
+      $('#chaton2').html('<img src="/site/img/chaton.gif" alt="" />');
+      $('#chat_box_timer').click(function() { eval(a); });
+    } else {
+      $('#live_chat_block_timer').remove();
+      $('#chaton2').html('<img src="/site/img/chatoff.png" alt="" />');
+    }
+  });
+});
+-->
+</script>
+ <title>BalticServers- All Data Centers services</title>
+</head>
+<body onunload="sayTime()">
+<!--[if lt IE 7]> <div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="820" alt="" /></a></div> <![endif]-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6735392-9']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s); })();
+</script>
+
+<div id="live_chat_block_timer" style="margin: 0px 6px 6px 6px; background-color: #FFF; width:235px;display:none;float:left;position:fixed;z-index:5;border:1px solid #567591;">
+<div id="closehelp" style="border-width:0px 0px 1px 1px; padding:2px; font-size:1.1em; border-style:solid; border-color:#567591; color: #567591; text-align:right; float:right; cursor:pointer;">X</div>
+<div id="countclicks">
+<div class="bd5"><div style="padding: 5px; display: expression('inline-block');font-weight:bold;">
+
+<div id="live_support_timer" class="kon_content" style="display: none;">
+  <div>
+    <div id="proactivechatcontainerftlpre43sc"></div>
+  </div>
+  <table border="0" cellspacing="2" cellpadding="2">
+    <tbody><tr>
+      <td align="center" id="swifttagcontainerftlpre43sc">
+        <div style="display: inline;" id="swifttagdatacontainerftlpre43sc"></div>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<table width="100%" id="chat_box_timer" style="cursor: pointer;margin-top:-7px;">
+<tbody><tr width="80%">
+<td style="color: #567591; font-size:1.7em;text-align:left;">Hello</td></tr><tr>
+<td style="color: #567591; font-size:1em;text-align:left; float:right;margin-top:-5px;margin-bottom:10px;">Welcome to Baltic Servers</td></tr>
+
+<tr>
+<td style="color: #567591; font-size:1.0em;font-weight:400;text-align:left;">I'm a Live assistant. How may I help you?</td>
+</tr>
+<tr>
+ <td style="text-align: right; font-size: 0.8em; text-transform: uppercase;" id="spanactive2">
+ </td>
+ <td id="chaton2">
+ </td>
+</tr>
+</tbody></table>
+
+</div></div>
+</div></div>
+
+
+
+<div id="main">
+
+<div id="whois">
+<div class="ba1"><div class="ba2"><div class="ba3"><div class="ba4">
+ <input type="text" value="Check domain name" onfocus="if (this.value == 'Check domain name') this.value='';" id="whois_dom" class="text"><input type="image" src="/site/img/btn1.png" class="button" onclick="location.href='/service-order?domain,' + $('#whois_dom').val();">
+</div></div></div></div>
+</div>
+
+<div id="lang">
+<div class="ba1"><div class="ba2"><div class="ba3"><div class="ba4">
+<span>&nbsp;&nbsp;</span><a style="font-size: 1.1em; font-weight: bold;" href="/en" class="sel">en</a> | <a style="font-size: 1.1em; font-weight: bold;" href="/ru">ru</a></div></div></div></div>
+</div>
+
+<ul id="top_menu">
+<li><a href="/services">Services</a><ul><li><a href="/offers"><b style="color: red;">Special offers!</b></a></li><li><a href="/Why-choose-us"><b>Why choose us?</b></a></li><li><a href="/Dedicated-Individual-Intel-servers">Dedicated servers</a></li><li><a href="/custom-servers">Custom Servers <b style="color: red;">New!</b></a></li><li><a href="/microsoft-software-hosted">Hosted Windows</a></li><li><a href="/vps-virtual-private-servers">VPS servers</a></li><li><a href="/servers-collocation-in-data-center">Collocation</a></li><li><a href="/hosting">Hosting</a></li><li><a href="/international-domain-registration">International domains</a></li><li><a href="/forex-vps">Forex VPS</a></li></ul></li><li><a href="/about-us">About Us</a><ul><li><a href="/history">History</a></li><li><a href="/contacts">Contacts</a></li><li><a href="/datacenterdepartament">Staff</a></li><li><a href="http://www.balticservers.com/userfiles/files/balticservers-quick-presentation.pdf">Presentation</a></li></ul></li><li><a href="/quality">Quality</a></li><li><a href="/hosting-partners">Partners</a></li><li><a href="https://my.balticservers.com" class="sel">For clients</a><ul><li><a href="/servers-tos">TOS</a></li><li><a href="/AUP">Acceptable Use Policy </a></li><li><a href="/hosting-privacy-policy">Privacy policy</a></li><li><a href="/vat-info">VAT info</a></li></ul></li></ul>
+
+
+<a href="/en" id="logo"></a>
+
+<input type="image" src="/site/img/btn3.png" id="msg_btn1" onclick="previousMessage();">
+<div id="message">
+<table cellspacing="0" cellpadding="0" id="message_body"><tbody><tr>
+<td id="msg_l"></td>
+<td id="msg_c"><p>
+	&nbsp;</p>
+<p>
+	<span style="font-size:14px;"><strong>Affordable hosting since 2001 year</strong></span></p>
+</td>
+<td id="msg_r"></td>
+</tr></tbody></table>
+</div>
+<input type="image" src="/site/img/btn4.png" id="msg_btn2" onclick="nextMessage();">
+
+<div id="login">
+<div class="bc1"><div class="bc2"><div class="bc3"><div class="bc4">
+<div style="padding: 10px 0px 0px 10px;">
+  Login to client zone</div>
+<div style="padding: 4px 0px 0px 8px;">
+<form method="post" action="https://my.balticservers.com/login">
+  <input type="text" class="text" value="Name" name="user_name" onfocus="if (this.value=='Name') this.value='';">
+  <input type="password" class="text" value="Slaptažodis" name="user_passwd" onfocus="if(this.value=='Slaptažodis') this.value='';">
+  <input type="image" src="/site/img/btn2.png" class="button">
+  <input type="hidden" name="command" value="login">
+</form>
+</div>
+</div></div></div></div>
+</div>
+<div id="content">
+<div class="bb1"><div class="bb2"><div class="bb3"><div class="bb4">
+<div class="bb5"><div class="bb6"><div class="bb7"><div class="bb8">
+
+<div id="left_block">
+<div class="bd8"><div class="bd9"><div class="bd10"><div class="bd1">
+<div class="bd2"><div class="bd5"><div class="bd3"><div class="bd4">
+<div class="bd5"><div class="bd6"><div class="bd7"><div class="bd11">
+<div class="bd12"><div class="bd13"><div class="bd14">
+Services</div></div></div></div></div></div></div>
+<div class="left_menu">
+<a href="/offers" class="top"><b style="color: red;">Special offers!</b></a>
+<a href="/Why-choose-us"><b>Why choose us?</b></a>
+<a href="/Dedicated-Individual-Intel-servers">Dedicated servers</a>
+<a href="/custom-servers">Custom Servers <b style="color: red;">New!</b></a>
+<a href="/microsoft-software-hosted">Hosted Windows</a>
+<a href="/vps-virtual-private-servers">VPS servers</a>
+<a href="/servers-collocation-in-data-center">Collocation</a>
+<a href="/hosting">Hosting</a>
+<a href="/international-domain-registration">International domains</a>
+<a href="/forex-vps" class="bottom">Forex VPS</a>
+</div>
+</div></div></div></div></div></div></div></div>
+
+<div class="bd8"><div class="bd9"><div class="bd10"><div class="bd1">
+<div class="bd2"><div class="bd5"><div class="bd3"><div class="bd4">
+<div class="bd5"><div class="bd6"><div class="bd7"><div class="bd11">
+<div class="bd12"><div class="bd13"><div class="bd14">
+Help</div></div></div></div></div></div></div>
+
+<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td>
+<div style="margin: 7px 6px; background-color: #FFF;">
+<div class="bd9"><div class="bd5"><div class="bd10"><div class="be5">
+<div class="be1"><div class="be2"><div class="be3"><div class="be4" style="padding: 5px; text-align: center; white-space: nowrap; display: expression('inline-block');">
+<table style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="text-align: center; " valign="top">
+				<span style="font-size: 12px;"><strong><span style="color: rgb(86, 117, 145);">Call us:</span></strong></span></td>
+			<td>
+				<span style="font-size: 18px;"><strong><span style="color: rgb(86, 117, 145);">+370 700 050 30</span></strong></span></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size: 18px;"><strong><span style="color: rgb(86, 117, 145);">+370 655 060 40</span></strong></span></td>
+		</tr>
+	</tbody>
+</table>
+</div></div></div></div></div></div></div></div>
+</div>
+</td></tr><tr><td valign="top">
+<div id="live_chat_block" style="margin: 0px 6px 6px 6px; background-color: #FFF;">
+<div class="bd9"><div class="bd5"><div class="bd10"><div class="be5">
+<div class="be1"><div class="be2"><div class="be3"><div class="be4" style="padding: 5px; display: expression('inline-block');">
+
+<div id="live_support" class="kon_content" style="display: none;">
+  <div>
+    <div id="proactivechatcontainerftlpre43sc"></div>
+  </div>
+  <table border="0" cellspacing="2" cellpadding="2">
+    <tbody><tr>
+      <td align="center" id="swifttagcontainerftlpre43sc">
+        <div style="display: inline;" id="swifttagdatacontainerftlpre43sc"></div>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<table width="100%" id="chat_box" style="cursor: pointer;">
+<tbody><tr>
+ <td style="color: #567591; font-size: 0.9em; text-align: left;">Online help&nbsp;</td>
+ <td style="text-align: right; font-size: 0.8em; text-transform: uppercase;" id="spanactive">
+ &nbsp;
+ </td>
+ <td id="chaton">&nbsp;
+ </td>
+</tr>
+</tbody></table>
+
+</div></div></div></div></div></div></div></div>
+</div>
+</td></tr><tr><td valign="top">
+<div style="margin: 0px 6px 6px 5px; background-color: #FFF;">
+<div class="bd9"><div class="bd5"><div class="bd10"><div class="be5">
+<div class="be1"><div class="be2"><div class="be3"><div class="be4" style="padding: 5px; display: expression('inline-block');">
+
+<table width="100%">
+<tbody><tr>
+ <td style="padding-top: 0.6em;"><a href="mailto:info@balticservers.com" style="font-size: 1.1em;">info@BalticServers.com</a></td>
+ <td><img src="/site/img/email.png" alt=""></td>
+</tr>
+</tbody></table>
+
+</div></div></div></div></div></div></div></div>
+</div>
+</td></tr></tbody></table>
+</div></div></div></div></div></div></div></div>
+
+<div class="bd8"><div class="bd9"><div class="bd10"><div class="bd1">
+<div class="bd2"><div class="bd5"><div class="bd3"><div class="bd4">
+<div class="bd5"><div class="bd6"><div class="bd7"><div class="bd11">
+<div class="bd12"><div class="bd13"><div class="bd14">
+We accept</div></div></div></div></div></div></div>
+<div style="text-align: center;">
+<img src="/site/img/banks_eu.png" alt="" vspace="5">
+<!-- begin WebMoney Transfer : accept label -->
+<a href="http://www.megastock.com" target="_blank"><img src="http://www.megastock.ru/Doc/88x31_accept/blue.gif" alt="www.megastock.com" border="0"></a>
+<!-- end WebMoney Transfer : accept label -->
+<!-- begin WebMoney Transfer : attestation label -->
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=327766676752" target="_blank"><img src="http://megastock.com/doc/88x31_merchant/blue.gif" alt="Here you can find information as to the passport for our WM-identifier 327766676752" border="0"></a>
+<!-- end WebMoney Transfer : attestation label -->
+</div>
+</div></div></div></div></div></div></div></div>
+<script type="text/javascript">
+<!--
+var swiftrandom           = Math.floor(Math.random()*1001);
+var swiftuniqueid         = "ftlpre43sc";
+var swifttagurlftlpre43sc = "https://aptarnavimas.duomenucentras.lt/info/visitor/index.php?/Anglu/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTh0bDRsYWFwazgmdmVyc2lvbj00LjAxLjIwNCZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NyZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQo1NGM3YjI4N2FkNDllZmI1NjlhYzc0NzM5NWZkOTBkY2RkNjRlYmU2";
+
+function inject(src, cb, target){
+  target = target || document.body;
+  var s = document.createElement('SCRIPT');
+  s.charset = 'UTF-8';
+  if(typeof cb === 'function'){
+      s.onload = function(){
+          cb(s);
+      };
+      s.onreadystatechange = function () {
+          (/loaded|complete/).test(s.readyState) && cb(s);
+      };
+  }
+  s.src = src;
+  target.appendChild(s);
+  return s;
+}
+
+$(function(){
+  inject (swifttagurlftlpre43sc, function(script){
+    var a = swifttagdiv.firstChild.attributes['href'].value.substr(11);
+    var is = swifttagdiv.firstChild.firstChild.src;
+    var onLine = (is.substring(is.lastIndexOf('/') + 1) == 'staffonline.png');
+
+    if (onLine) {
+      $('#spanactive').html('<span style="color: #567591;">Active<\/span>');
+      $('#chaton').html('<img src="/site/img/chaton.gif" alt="" />');
+      $('#chat_box').click(function() { eval(a); });
+    } else {
+      $('#spanactive').html('<span style="color: #DBDBDB;">Inactive<\/span>');
+      $('#chaton').html('<img src="/site/img/chatoff.png" alt="" />');
+    }
+  });
+});
+-->
+</script>
+</div> <!-- /left_block -->
+
+<div id="right_block">
+<!--
+<div class="bf1"><div class="bf2"><div class="bf3"><div class="bf4">
+<br /> <br /> <br /> <br />
+</div></div></div></div>
+-->
+
+<h1>
+	Privacy Policy</h1>
+<p>
+	In an effort to protect our clients' and site visitors privacy and rights, BalticServers.com has established a Privacy Policy which explains what information we gather on visitors and what we do with that information. This Privacy Policy governs the manner in which BalticServers.com collects, uses, maintains and discloses information collected from users of this Web site.&nbsp;</p>
+<h2>
+	Privacy</h2>
+<p>
+	Users' privacy is very important to BalticServers.com. We are committed to safeguarding the information Users entrust to BalticServers.com</p>
+<h2 style="text-align: justify; ">
+	The Information We Collect</h2>
+<p style="text-align: justify; ">
+	BalticServers.Com collects identifiable information from Users through online forms for ordering products and services. We may also collect information about how Users use our Web site by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We use "cookies" to track how Users use our Web site.</p>
+<h2 style="text-align: justify; ">
+	How We Use Information</h2>
+<p style="text-align: justify; ">
+	Baltiservers.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by Baltiservers.com and its trusted affiliates and business partners, and otherwise to enhance Users' experience with Baltiservers.com and such affiliates, independent contractors and business partners.&nbsp;At no time will Baltiservers.com's database of users ever be sold.&nbsp;Personal information will not be sold or otherwise transferred to our business partners without your prior consent, except that we will disclose the information we collect to third parties when, in our good faith judgment, we are obligated to do so under applicable laws.</p>
+</div> <!-- /right_block -->
+
+
+<div class="footer"><div class="copy">
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 200px; ">
+	<tbody>
+		<tr>
+			<td>
+				<img alt="" src="/userfiles/images/Level3Logo.png" style="width: 150px; height: 50px; "></td>
+			<td>
+				<img alt="" src="/userfiles/images/verizon-logo-470x310.png" style="width: 76px; height: 50px; "></td>
+			<td>
+				<img alt="" src="/userfiles/images/gc logo.png" style="width: 133px; height: 50px; "></td>
+			<td>
+				<img alt="" src="/userfiles/images/logo linxtelecom.png" style="width: 180px; height: 50px; "></td>
+			<td>
+				<img alt="" src="/userfiles/images/Deutsche_Telekom_logo.png" style="width: 167px; height: 50px; "></td>
+			<td style="text-align: center; ">
+				<img alt="" src="/userfiles/images/Globalcom_logo1.png" style="width: 159px; height: 50px; "></td>
+		</tr>
+	</tbody>
+</table>
+<br>
+</div></div>
+
+</div></div></div></div></div></div></div></div>
+
+<div style="width:100%; margin-top:-15px;margin-bottom:-10px">
+  <h5 style="text-align:center;color:#EDEDED;font-weight:400;">Ltd. Duomenų Centras (since 2001)&nbsp;&nbsp;&nbsp;<a style="text-align:center;color:#EDEDED;font-weight:400;" href="/servers-tos">TOS</a>&nbsp;<a style="text-align:center;color:#EDEDED;font-weight:400;" href="/hosting-privacy-policy">Privacy policy</a></h5>
+</div>
+
+</div>
+
+</div>
+<div id="saver"></div>
+<form id="phantom-form" style="display: none;" method="post" action="#"></form>
+
+
+
+
+<!-- page generated in 0.020293951034546 sec. -->
+<script charset="UTF-8" src="https://aptarnavimas.duomenucentras.lt/info/visitor/index.php?/Anglu/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTh0bDRsYWFwazgmdmVyc2lvbj00LjAxLjIwNCZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NyZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQo1NGM3YjI4N2FkNDllZmI1NjlhYzc0NzM5NWZkOTBkY2RkNjRlYmU2"></script><script charset="UTF-8" src="https://aptarnavimas.duomenucentras.lt/info/visitor/index.php?/Anglu/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTh0bDRsYWFwazgmdmVyc2lvbj00LjAxLjIwNCZwcm9kdWN0PUZ1c2lvbiZmaWx0ZXJkZXBhcnRtZW50aWQ9NyZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQo1NGM3YjI4N2FkNDllZmI1NjlhYzc0NzM5NWZkOTBkY2RkNjRlYmU2"></script></body></html>
