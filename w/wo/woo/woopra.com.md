@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119140639id_/http%3A//www.woopra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woopra.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624022235id_/http%3A//www.woopra.com/privacy) for the most accurate reproduction.*
 
-# Woopra » Privacy Policy
+# Privacy Policy - Woopra
 
 Your privacy is of paramount importance to Woopra. This policy applies to all products and services offered by Woopra.
 
