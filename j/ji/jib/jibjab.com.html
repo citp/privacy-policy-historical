@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jibjab.com privacy policy that was archived on 2010-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101203121318id_/http%3A//sendables.jibjab.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jibjab.com privacy policy that was archived on 2011-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624124030id_/http%3A//sendables.jibjab.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,7 +19,25 @@
 	
   <link href="http://aka.zero.jibjab.com/stylesheets/common.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://aka.zero.jibjab.com/stylesheets/search.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://aka.zero.jibjab.com/stylesheets/new_common.css" media="screen" rel="stylesheet" type="text/css">
   <link href="http://aka.zero.jibjab.com/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
+
+      <link href="http://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet" type="text/css">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">
+    WebFontConfig = {
+      google: { families: [ 'Josefin+Slab' ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
 
   <script src="http://aka.zero.jibjab.com/javascripts/jquery-all.js" type="text/javascript"></script>
 <script src="http://aka.zero.jibjab.com/javascripts/application.js" type="text/javascript"></script>
@@ -33,12 +51,14 @@
 
       <link href="http://aka.zero.jibjab.com/stylesheets/about.css" media="screen" rel="stylesheet" type="text/css">
     
+    
+	
+	  
   
-  <link href="http://aka.zero.jibjab.com/stylesheets/new_common.css" media="screen" rel="stylesheet" type="text/css">
-  
-  
-  
-  
+	  
+
+	  
+	
 
   <!--[if lt IE 7]>
     <link href="http://aka.zero.jibjab.com/stylesheets/ie6.css" media="screen" rel="stylesheet" type="text/css" />
@@ -52,18 +72,34 @@
   
     
   <script type="text/javascript" charset="utf-8">
+    
       	var _omniture_site_id = "jjsendables";
     
+    
+    
+    
+      var template = {};
+    
+
     var SiteConfig = {
       http_base : "http://sendables.jibjab.com",
       ssl_base : "https://sendables.jibjab.com",
       asset_base : "http://aka.zero.jibjab.com",
       fb_post_cmpid : 'jj_fb_self',
       fb_friend_post_cmpid : 'jj_fb_friend',
-      site_name : "JibJab"
+      redirect_to_post_share : false,
+      site_name : "JibJab",
+			template_id : '',
+			channel_name : 'jibjab',
+			category_id : '',
+			pagename: 'About: Privacy',
+			template: template,
+			controller: 'about',
+			action: 'privacy'
     }
 
-    // channel-specific settings for facebook wall posts (with reasonable defaults)
+    
+// channel-specific settings for facebook wall posts (with reasonable defaults)
 var FBWallPostConfig = {
 	name_label : '{*title*}',
 	name_url : '{*link*}',
@@ -75,7 +111,6 @@ var FBWallPostConfig = {
 
    
     
-  	
   </script>
   
   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -84,10 +119,17 @@ var FBWallPostConfig = {
   
 </head>
 
-<body class="channel_jibjab">
+
+
+
+<body class="channel_JibJab ">
+
+
 <div id="fb-root"></div>
 <script type="text/javascript" charset="utf-8">
-  JJFB.init({"applicationId":"8725050364","apiKey":"a0d8a7800c0b80dca9837c72eb19fc28"});
+	$().ready(function() {
+		JJFB.init({"applicationId":"8725050364","apiKey":"a0d8a7800c0b80dca9837c72eb19fc28"});
+	});
   
   
 </script>
@@ -95,28 +137,21 @@ var FBWallPostConfig = {
 <div id="hwrap">
   <div id="header">
   
+  <a id="logo" href="/">JibJab®</a>
 
-  
-
-  <!-- Make sure there is something in the url or it will load the home page which will really suck. -->
-  
-    <a id="logo" href="/" style="background: transparent url(http://aka.zero.jibjab.com/files/production/christmaslogo.png) no-repeat scroll 0 0;">JibJab®</a>
-  
 	
-	  
-	    <ul id="main_nav">
-        
-        
-          <li><a class="holidays " href="/holidays">Hollidays</a></li>
-        
-                  <li><a class="store " href="/store">Gifts</a></li>
-        	      <li><a class="ecards " href="/ecards">eCards</a></li>
-	      <li><a class="everyday_fun " href="/everyday_fun">Everyday Fun</a></li>
-        	    </ul>
-	    
 
-		
-					
+  
+    
+      <ul id="main_nav">
+            <li><a class="ecards " href="/ecards">eCards</a></li>
+                <li><a class="everyday_fun " href="/everyday_fun">Everyday Fun</a></li>
+                <li><a class="originals_nav " href="/originals">Originals</a></li>
+      </ul>
+
+      
+
+    		
 		<script type="text/javascript" charset="utf-8">
 			
 				var current_facebook_user = null;
@@ -133,30 +168,30 @@ var FBWallPostConfig = {
   	  
   	    <li><a href="/login" onclick="ModalHelper.showLoginModal(); return false">Login</a></li>
         
-        <li>
-          
-            <a href="/register?template_id=204441&amp;from=/ecards&amp;ref=subscribe&amp;trs=am">Become a Member</a>
-    	    
-  	    </li>
+        <li><a href="http://sendables.jibjab.com/register?jjchannel=jibjab&amp;from=%2Fabout%2Fprivacy&amp;ref=subscribe&amp;pagename=About%3A+Privacy&amp;pageaction=header_become_member&amp;trs=am">Become a Member</a></li>
 			
 		</ul>
 
-		
-		
-      <script type="text/javascript" charset="utf-8">
-  trackSearchTerm = function(term) {
-    if(term.length == 0) {
-      return;
-    }
-    $.cookie('search_term_tracking', term)
-    var script = "var sc=s_gi('jjsendables');sc.events='event8';sc.linkTrackEvents='event8';sc.prop8='REPLACE_MY_TERM';sc.eVar8='REPLACE_MY_TERM';sc.linkTrackVars='events,prop8,eVar8';try { sc.tl(this, 'o');} catch (err) { };"
-    script = script.replace(/\'REPLACE_MY_TERM\'/g, "term")
-    eval(script)  
-  }
-  var remote_ip = '207.241.228.173';
-</script>
 
-	
+		
+  	
+
+    
+      
+  <script type="text/javascript" charset="utf-8">
+    Search.pageSize = 6;
+    Search.keywordRedirections = {"take me out to the ball game":"http://mlb.jibjab.com","stupid losers":"http://mlb.jibjab.com/personalize/204521/major_league_baseball_angels?jjchannel=mlb&cancel_casting_url=/&st","starwars":"/starwars?st","happy birthday":"/ecards/category/birthdays?st","birthdays":"/ecards/category/birthdays?st","fathers day":"http://sendables.jibjab.com/ecards/category/fathers_day","easter":"/ecards/category/easter?st","free fathers day":"http://sendables.jibjab.com/ecards/category/fathers_day","free father's day":"http://sendables.jibjab.com/ecards/category/fathers_day","christmas":"/holidays?st","justin beiber":"/personalize/204469/justin_bieber_never_say_never?jjchannel=justin_bieber&cancel_casting_url=/everyday_fun&category_id=226&st","justin bieber":"/personalize/204469/justin_bieber_never_say_never?jjchannel=justin_bieber&cancel_casting_url=/everyday_fun&category_id=226&st","star wars":"/starwars?st","mothers day":"/ecards/category/mothers_day?st","easter videos":"/ecards/category/easter?st","halloween":"/halloween?st","birthday videos":"/ecards/category/birthdays?st","never say never":"/personalize/204469/justin_bieber_never_say_never?jjchannel=justin_bieber&cancel_casting_url=/everyday_fun&category_id=226&st","take me out to the ballgame":"http://mlb.jibjab.com","birthday video":"/ecards/category/birthdays?st","birthday":"/ecards/category/birthdays?st","passover":"/ecards/category/passover?st","anniversary":"/ecards/category/anniversary?st","easter video":"/ecards/category/easter?st","father's day":"http://sendables.jibjab.com/ecards/category/fathers_day","justin":"/personalize/204469/justin_bieber_never_say_never?jjchannel=justin_bieber&cancel_casting_url=/everyday_fun&category_id=226&st","father":"http://sendables.jibjab.com/ecards/category/fathers_day","bieber":"/personalize/204469/justin_bieber_never_say_never?jjchannel=justin_bieber&cancel_casting_url=/everyday_fun&category_id=226&st"};
+    trackSearchTerm = function(term) {
+      if(term.length == 0) {
+        term = '<EMPTY-SEARCH>'
+      }
+      $.cookie('search_term_tracking', term, {path:'/'})
+      var script = "var sc=s_gi('jjsendables');sc.events='event8';sc.linkTrackEvents='event8';sc.prop8='REPLACE_MY_TERM';sc.eVar8='REPLACE_MY_TERM';sc.linkTrackVars='events,prop8,eVar8';try { sc.tl(this, 'o');} catch (err) { };"
+      script = script.replace(/\'REPLACE_MY_TERM\'/g, "term")
+      eval(script)
+    }
+    var remote_ip = '207.241.237.210';
+  </script>
 
   <div class="s" id="searchForm">
     <form class="gsc-search-box" accept-charset="utf-8">
@@ -177,37 +212,37 @@ var FBWallPostConfig = {
           </tr>
         </tbody>
       </table>
-      <table cellspacing="0" cellpadding="0" class="gsc-branding">
-        <tbody>
-          <tr>
-            <td class="gsc-branding-user-defined"></td>
-            <td class="gsc-branding-text">
-              <div class="gsc-branding-text">
-                powered by
-              </div>
-            </td>
-            <td class="gsc-branding-img">
-             	<img src="http://www.google.com/uds/css/small-logo.png" class="gsc-branding-img">
-            </td>
-          </tr>
-        </tbody>
-      </table>
     </form>
   </div>
 
   <div class="searchResults" style="display:none;">
     <div class="query">JibJab Search Results: <strong></strong></div>
+    <div class="facets"></div>
+    <div class="facets-chosen">
+      Click to clear.
+      <input id="search-facets-premium-input" type="text" name="search-facets-premium-input">
+      <input id="search-facets-category-input" type="text" name="search-facets-category-input">
+      <script type="text/javascript" charset="utf-8">
+        $(document).ready(function(){
+          $('#search-facets-premium-input, #search-facets-category-input').click(function(){
+            $(this).val('');
+            Search.submit();
+          });
+        });
+      </script>
+    </div>
     <div class="items"></div>
-    <div class="g_branding">powered by <img src="http://www.google.com/uds/css/small-logo.png" alt="Google"></div>
-    <a id="sclose" href="javascript:void" onclick="closeSearchResults();return false;">Close</a>
+    <a id="sclose" href="javascript:void" onclick="Search.closeResults();return false;">Close</a>
   </div>
 
 
     
   
-  </div>
+  
+</div>
 
 </div>
+
 <div id="wwrap">
   <div id="wrap">
     <div class="primary">
@@ -223,12 +258,12 @@ var FBWallPostConfig = {
   <h3 class="support">Support</h3>
   <ul>
     <li><a href="http://jibjab.zendesk.com/home">Help</a></li>
-    <li><a href="http://jibjab.zendesk.com/entries/162878-contact-us">Contact Us</a></li>
+    <li><a href="http://sendables.jibjab.com/contact">Contact Us</a></li>
   </ul>
   <h3 class="business">Business</h3>
   <ul>
     <li><a href="http://sendables.jibjab.com/about/affiliates">Affiliate Program</a></li>
-    <li><a href="http://jibjab.zendesk.com/entries/162878-contact-us">Partnerships</a></li>
+    <li><a href="http://sendables.jibjab.com/contact">Partnerships</a></li>
   </ul>
   <h3 class="legal">Legal</h3>
   <ul>
@@ -243,28 +278,43 @@ var FBWallPostConfig = {
 	<div class="content">
 	  <h1>Privacy Policy</h1>
 
-    <h3>Last Updated: May 27, 2009</h3>
+    <h3>Last Updated: February 28, 2011</h3>
     <p>This Privacy Policy is an integral part of the agreement between JibJab Media Inc. ("JibJab" or “we”) and each visitor, registered user or member, as the case may be (each, a “user” or “you”) concerning the use of the websites owned, controlled, operated or hosted (whether now or in the future) by JibJab and/or its corporate affiliates, including but not limited to the JibJab.com website (collectively the "JibJab Sites").  The other integral parts of such agreement are the JibJab Terms of Service (<a href="http://sendables.jibjab.com/about/terms_of_service">click here</a>), the JibJab Terms of Sale (<a href="http://sendables.jibjab.com/about/terms_of_sale">click here</a>) and the Legal Notices (<a href="http://sendables.jibjab.com/about/legal">click here</a>).  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the JibJab Terms of Service.</p>
     <p>At JibJab, we respect your right to privacy and we understand that you need to control the uses of your personal information. This Privacy Policy details below the measures taken by JibJab to protect your privacy in connection with your use of the JibJab Sites. However, you understand that the JibJab Sites and JibJab's service are designed to allow users to post photographs and information about themselves for public review and comment. Accordingly, by submitting your photograph and/or any personal information, you thereby waive any privacy expectations you have with respect to our use of your likeness or personal information provided to us. If you do not wish to have your picture or information about yourself viewed by or disclosed to others, do not use the JibJab Sites and our service.</p>
     <p>JibJab also allows our registered users and members to set up unique personal profiles either directly with JibJab or via third-party sign-on services (e.g., Facebook Connect). To enrich our users’ experience, we request and display some personal information to other visitors, registered users and members, which allows our users to identify each other. JibJab registered users and members can change their profile information at any time and can control how the service communicates with them.</p>
     <p>By using any of the JibJab Sites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you either directly to JibJab or via third-party sign on services) collected by JibJab (or its agents or contractors) and transferred to and processed in the United States.</p>
 
+    <h3>Your California Privacy Rights</h3>
+    <p>Effective January 1, 2005, California Civil Code Section 1798.83 (known as the “Shine the Light” law) provides that, if an individual who is a California resident has provided his/her personal information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such individual’s personal information to a third party and knows or should have known that such third party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what personal information was shared and with whom the information was shared. A business may comply with this law by: (1) having EITHER a published privacy policy of not sharing a customer’s personal information for third-party direct marketing use unless the customer has first affirmatively opted in to such sharing OR a published privacy policy of not sharing a customer’s personal information for third-party direct marketing use if the customer has opted out to prevent his/her personal information from being shared for third-party direct marketing use; AND (2) notifying the customer of his/her right to opt out and providing a cost-free means for the customer to exercise that right.</p>
+    <p>California residents may request an information-sharing disclosure from us by emailing your request to <a href="mailto:support@JibJab.com">support@JibJab.com</a> or writing to us at <strong>JibJab Media Inc., Att: Privacy Dept., PO Box 5356, Santa Monica, CA, 90405</strong>.  Please note that, under the law, we are not required to respond to your request more than once in a calendar year, nor are we required to respond to any requests that are not sent to the above-designated email or mailing address.</p>
+
     <h3>Information Collection and Use</h3>
     <p>JibJab collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the JibJab service. JibJab may also collects other data either directly or via third-party sign-on services (e.g., Facebook Connect), including but not limited to: personal interests, gender, age, education and occupation, in order to enrich the user experience and make content recommendations.</p>
-    <p>JibJab also logs non-personally-identifiable information such as IP address, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
+    <p>JibJab also logs non-personally-identifiable information such as IP address, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to users. User IP addresses are recorded for security and monitoring purposes.</p>
     <p>User account information, including pictures and usernames, are displayed in order to enrich the user experience and facilitate user interaction. Email addresses are primarily used for the purposes of sending notifications related to the service. With the exception of notifying friends about content the user has created, a user's email address is not shared or publicly displayed on the JibJab Sites or within the JibJab service. Users' full names, to the extent collected and stored, are never directly revealed to other users.</p>
-    <p>When you create an account and become a registered user or member of JibJab, we will send you a “verification” email to ask you to verify your email address and account by following the instructions provided in the email.  Such verification is necessary to complete your registration and activate your account.   It is important that you verify your email address so that we may communicate with you regarding your account, your purchases and/or other transactions with JibJab, changes in our Terms of Service, Terms of Sale and/or Privacy Policy, and other matters relating to your account with JibJab.  It also enables us to send you announcement emails about our new content, features, services, products, promotions, etc.  You may opt out of receiving announcement emails from us at any time, by following the opt-out link contained in an announcement email you previously received, or by logging into the “My Account” section of the JibJab Site(s) where you have an account and changing your email preferences in the account settings.  If you do not provide verification within 2 days after we send the initial verification email, we will send one reminder email to you.  If there is still no verification by you within 2 days after we send the reminder email, we will consider your registration/account incomplete and inactive.  If your registration/account status remains incomplete and inactive for more than 7 days after your initial registration, we reserve the right to cancel your registration/account without notice.</p>
+    <p>When you create an account and become a registered user or member of JibJab, we will send you a “verification” email to ask you to verify your email address and account by following the instructions provided in the email. Such verification is necessary to complete your registration and activate your account. It is important that you verify your email address so that we may communicate with you regarding your account, your purchases and/or other transactions with JibJab, changes in our Terms of Service, Terms of Sale and/or Privacy Policy, and other matters relating to your account with JibJab. It also enables us to send you announcement emails about our new content, features, services, products, promotions, etc. You may opt out of receiving announcement emails from us at any time, by following the opt-out link contained in an announcement email you previously received, or by logging into the “My Account” section of the JibJab Site(s) where you have an account and changing your email preferences in the account settings. If you do not provide verification within 2 days after we send the initial verification email, we will send one reminder email to you. If there is still no verification by you within 2 days after we send the reminder email, we will consider your registration/account incomplete and inactive. If your registration/account status remains incomplete and inactive for more than 7 days after your initial registration, we reserve the right to cancel your registration/account without notice.</p>
     <p>From time to time, JibJab or a partner, may sponsor a promotion, sweepstake or contest on the JibJab Sites. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
 
-    <h3>Use of Cookies</h3>
-    <p>JibJab uses cookies to store user preferences, account status, traffic origination, and to record session information, for purposes including ensuring that users are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set — each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences — however, you must enable cookies from JibJab in order to use most functions on the JibJab Sites. Please note that JibJab allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the JibJab Privacy Policy.</p>
+    <h3>Use of Cookies &amp; Similar Tracking Technologies</h3>
+    <p>A “cookie” is a small amount of data that is sent to your browser from an Internet server and stored in your computer. JibJab uses cookies (including Flash cookies) to store user preferences, account status, traffic origination, and to record session information, for purposes including ensuring that users are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. You may be able to configure your browser to accept or reject all or some cookies (other than Flash cookies), or notify you when a cookie (other than a Flash cookie) is set — each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences — however, you must enable cookies from JibJab in order to use most functions on the JibJab Sites. For more information about Flash cookies and how to remove them from your computer, please see the paragraph below entitled “<a href="#flash_cookies">SPECIAL NOTE – Flash Cookies</a>.”</p>
+    <p>In addition, JibJab may use so-called “pixel tags,” “web beacons,” “web bugs,” “clear GIFs,” etc. (collectively “<strong>Web Beacons</strong>”) to collect information about your visits to the JibJab Sites. These are small electronic images embedded in web content (including online ads) and email messages and are ordinarily not visible to users. Like cookies, Web Beacons enable us to track pages and content (including ads) accessed and viewed by users on the JibJab Sites.  Also, when we send HTML-formatted (as opposed to plain text) emails to our users, Web Beacons may be embedded in such emails to allow us to monitor readership levels so that we can identify aggregate trends and individual usage to provide our users with more relevant content or offers.  Web beacons in emails may recognize activities such as when an email was opened, how many times an email was forwarded, which links in the email were clicked on, etc.  Web Beacons cannot be declined when delivered via a regular web page.  However, Web Beacons can be refused when delivered via email. If you do not wish to receive our Web Beacons via email, you will need to disable HTML images or refuse HTML (select Text only) emails via your email software.</p>
+    <p>Please note that JibJab allows thirty-party advertisers (including those that are serving their own ads on the JibJab Sites, as well as those so-called “network advertisers” or “ad networks” who are serving and managing ads for others) to set and use their own cookies (including Flash cookies) and/or Web Beacons on your computer when you visit the JibJab Sites.  These cookies and Web Beacons allow third-party advertisers to recognize your computer each time they send you an online advertisement and to compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on.  The information so compiled allows third-party advertisers to deliver targeted advertisements that they believe will be of most interest to you.</p>
+    <p>Use of cookies (including Flash cookies) and Web Beacons by third-party advertisers is governed by the privacy policies of those advertisers – not the JibJab Privacy Policy.  JibJab has no control over what information is collected by third-party advertisers or how they may use the information.  The privacy policies and data practices of such third-party advertisers may significantly differ from those of JibJab, and JibJab makes no representation or warranty whatsoever about third-party advertisers’ data policies and practices.  For more information regarding the data practices of some of these third-party advertisers and how to opt out of their use of your information, please visit<br> <a href="http://www.networkadvertising.org/managing/principles.asp">http://www.networkadvertising.org/managing/principles.asp</a> and<br> <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+    <p>The JibJab Sites also contain links to and/or enables certain third-party Internet functionalities to enhance your online experience, including, without limitation, social plug-ins, tools and APIs.  Prior to using any third-party functionalities (e.g., Facebook Connect) on the JibJab Sites, you should consult the privacy notices of the third-party providers of such functionalities (e.g., Facebook).  Once again, we have no control over what information is collected by such third parties, or how they may use the information.  The privacy policies and data practices of such third parties may significantly differ from ours, and we make no representation or warranty whatsoever about their data policies and practices.  Your communications and interactions with such third parties are solely between you and them, and are at your own risk.</p>
+
+    <h3 id="flash_cookies">SPECIAL NOTE – Flash Cookies:</h3>
+    <p>To learn what “Flash cookies” (also known as “local shared objects” or “LSOs”) are and what they do, please visit <a href="http://www.adobe.com/products/flashplayer/articles/lso/">http://www.adobe.com/products/flashplayer/articles/lso/</a> and <a href="http://epic.org/privacy/cookies/flash.html">http://epic.org/privacy/cookies/flash.html</a>.  Flash cookies cannot be rejected, disabled, turned off, opted out, or deleted in the same way as regular cookies such as HTML cookies.  Flash cookies may remain on your computer even after you have rejected, disabled, opted out, or deleted regular cookies.  For information on how to manage and remove Flash cookies, please visit: <br><a href="http://www.adobe.com/products/flashplayer/articles/lso/">http://www.adobe.com/products/flashplayer/articles/lso/</a> <br><a href="http://epic.org/privacy/cookies/flash.html">http://epic.org/privacy/cookies/flash.html</a> <br><a href="http://www.aboutcookies.org/Default.aspx?page=2">http://www.aboutcookies.org/Default.aspx?page=2</a> <br><a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>.</p>
+    <p>Please note that, in addition to JibJab’s Flash cookies, third-party advertisers may set and use their own Flash cookies for user tracking purposes when serving and managing ads on the JibJab Sites.</p>
+
+    <h3>SPECIAL NOTE – DoubleClick’s DART Cookie:</h3>
+    <p>JibJab may allow third-party advertisers to use DoubleClick’s DART cookie when serving ads on the JibJab Sites.  DoubleClick’s DART cookie enables the serving of ads through DoubleClick’s ad-serving technology.  Such cookie is placed on your computer when you are browsing the web and visit a site that supports ads delivered using DoubleClick’s ad-serving technology (including some Google AdSense advertisements).  This cookie is a “persistent” cookie, meaning that it is saved into the cookie folder on your computer’s hard drive and will remain in that folder even after you close your web browser.  This cookie is used to serve ads specific to you and your interests (“interest-based advertising”).  The ads served will be targeted based on your previous browsing history. DoubleClick’s DART cookie uses “non-personally identifiable information.”  It does not track personal information about you, such as your name, email address, physical address, telephone number, social security number, credit card/debit card number, or other financial account information.</p>
+    <p>To opt-out of DoubleClick’s DART cookie and associated interest-based advertising, please visit <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">http://www.doubleclick.com/privacy/dart_adserving.aspx</a>.  PLEASE NOTE that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers), you may need to opt out again.  PLEASE NOTE also that opting out of the ad-serving cookie does not mean that you will stop seeing pop-up ads or banner ads embedded in websites!  You can control many pop-ups by using free software available on the Internet or by disabling JavaScript on your browser.</p>
+    <p>If you wish to disable cookies selectively or entirely, you may do so through your individual browser options or using special software.  More detailed information about cookie management with specific web browsers can be found at the browsers’ respective web sites.  Alternatively you can use the guide at <a href="http://www.aboutcookies.org/Default.aspx?page=1">http://www.aboutcookies.org/Default.aspx?page=1</a>.</p>
+    <p>More information on DoubleClick’s DART cookie can be found at <a href="http://www.doubleclick.com/privacy/faq.aspx">http://www.doubleclick.com/privacy/faq.aspx</a>.</p>
 
     <h3>Invitations and Other Communications to Non-users</h3>
-    <p>JibJab users can send content to friends via our system and invite friends to join the service via third-party single sign-on services (e.g., Facebook Connect). JibJab stores the email addresses that users provide so that JibJab can send notifications authorized by users and related reminders to such email addresses.  JibJab does not sell these email addresses or use them to send any other communication besides those initiated by users and invitation reminders initiated by JibJab (one (1) per email address). Recipients of emails from JibJab may contact JibJab to request the removal of their information from our database by clicking on the "Opt-Out" Link at the bottom of our emails. JibJab users may also store email addresses of people they know in their internal JibJab address book and may also choose to send invitations and other communications to those addresses.</p>
+    <p>JibJab users can send content to friends via our system and invite friends to join the service via third-party single sign-on services (e.g., Facebook Connect). JibJab stores the email addresses that users provide so that JibJab can send notifications authorized by users and related reminders to such email addresses. JibJab does not sell these email addresses or use them to send any other communication besides those initiated by users and invitation reminders initiated by JibJab (one (1) per email address). Recipients of emails from JibJab may contact JibJab to request the removal of their information from our database by clicking on the "Opt-Out" Link at the bottom of our emails. JibJab users may also store email addresses of people they know in their internal JibJab address book and may also choose to send invitations and other communications to those addresses.</p>
     <p>You may prevent JibJab messages from being sent to any email address you control by sending an email request to support@jibjab.net or by clicking here to get to our "Opt-Out" page on the site. Please note that the email must come from the account you wish to block.</p>
-
-    <h3>Third Party Advertising</h3>
-    <p>Ads appearing on the JibJab Sites may be delivered to users by JibJab or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by JibJab and does not cover the use of cookies by any advertisers.</p>
 
     <h3>Agents</h3>
     <p>We use a third party company to pack and ship products ordered in the JibJab online store. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
@@ -286,24 +336,21 @@ var FBWallPostConfig = {
     <p>Registered users and members may choose to no longer receive updates or notifications by managing their email preferences; in the user profile 'Account Settings'. All notification emails and JibJab newsletters include instructions for opting-out of those communications in the future.</p>
 
     <h3>Security </h3>
-    <p>JibJab user accounts are secured by user-created passwords. JibJab takes precautions to ensure that user account information is kept private. We use commercially reasonable measures to protect user information that is stored within our database, and we restrict access to user information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.  However, we do not guarantee that these efforts will completely protect user account information.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.  We will endeavor to notify users in the event that the security of their personal information is breached or compromised.  By submitting personal information on any of the JibJab Sites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on JibJab, please contact us at: support@jibjab.net.</p>
-    <p>We urge you to keep your username, password, and other account access information in a safe place and not to divulge it to anyone.  Also, remember to sign off your account and close your browser window when you have finished your visit.  This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or an internet cafe.</p>
+    <p>JibJab user accounts are secured by user-created passwords. JibJab takes precautions to ensure that user account information is kept private. We use commercially reasonable measures to protect user information that is stored within our database, and we restrict access to user information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. However, we do not guarantee that these efforts will completely protect user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the JibJab Sites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on JibJab, please contact us at: <a href="mailto:support@jibjab.net">support@jibjab.net</a>.</p>
+    <p>We urge you to keep your username, password, and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or an internet cafe.</p>
 
     <h3>Sharing and Disclosure of Information JibJab Collects</h3>
-    <p>Except as otherwise described in this privacy statement, JibJab will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to comply with applicable law or to respond to a subpoena, court order, search warrant or other legal process received by JibJab, whether or not a response is required by applicable law; (2) to protect or enforce our rights or the rights of a third party; (3) to protect the safety of members of the public and our users; or (4) to respond to an emergency.  JibJab reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of a sale of JibJab or substantially all of JibJab’s assets to that successor in interest or of a merger between JibJab and such successor in interest.  JibJab also reserves the right to disclose personal information as necessary to enable third-party service providers to support and maintain the operation of the JibJab Sites and JibJab’s services. You will be notified via e-mail of any such change in ownership or control of your personal information.  For more information see the "Changes in Our Privacy Policy" section below.</p>
+    <p>Except as otherwise described in this privacy statement, JibJab will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to comply with applicable law or to respond to a subpoena, court order, search warrant or other legal process received by JibJab, whether or not a response is required by applicable law; (2) to protect or enforce our rights or the rights of a third party; (3) to protect the safety of members of the public and our users; or (4) to respond to an emergency. JibJab reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of a sale of JibJab or substantially all of JibJab’s assets to that successor in interest or of a merger between JibJab and such successor in interest. JibJab also reserves the right to disclose personal information as necessary to enable third-party service providers to support and maintain the operation of the JibJab Sites and JibJab’s services. You will be notified via e-mail of any such change in ownership or control of your personal information. For more information see the "Changes in Our Privacy Policy" section below.</p>
 
     <h3>Children’s Privacy</h3>
-    <p>JibJab is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests.  The JibJab Sites and JibJab’s service are not intended for and may not be used by children under the age of 14.  JibJab does not knowingly collect information from children under the age of 14 and does not target its websites or service to children under 14.</p>
+    <p>JibJab is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. The JibJab Sites and JibJab’s service are not intended for and may not be used by children under the age of 14. JibJab does not knowingly collect information from children under the age of 14 and does not target its websites or service to children under 14.</p>
 
     <h3>Changes in Our Privacy Policy</h3>
-    <p>This Privacy Policy is subject to change by JibJab from time to time.  If we make changes, we will post the changes on the JibJab Site(s) affected by such changes and/or notify registered users and members via email.  Also, we may ask registered users and members to review and consent to the changes at the time of their next account log-in.  By continuing to use the JibJab Site(s) affected by such changes after such notice and consent, you agree to be bound by the changes to this Privacy Policy.</p>
+    <p>This Privacy Policy is subject to change by JibJab from time to time. If we make changes, we will post the changes on the JibJab Site(s) affected by such changes and/or notify registered users and members via email. Also, we may ask registered users and members to review and consent to the changes at the time of their next account log-in. By continuing to use the JibJab Site(s) affected by such changes after such notice and consent, you agree to be bound by the changes to this Privacy Policy.</p>
 
     <h3>Contacting the Web Site</h3>
-    <p>If you have any questions about this Privacy Policy, the data practices of any of the JibJab Sites, or your dealings with any of the JibJab Sites, please contact us at: support@jibjab.net (or via mail: JibJab Media Inc., Att: Privacy Dept., PO Box 5356, Santa Monica, CA, 90405.).</p>
+    <p>If you have any questions about this Privacy Policy, the data practices of any of the JibJab Sites, or your dealings with any of the JibJab Sites, please contact us at: <a href="mailto:support@jibjab.net">support@jibjab.net</a> (or via mail: JibJab Media Inc., Att: Privacy Dept., PO Box 5356, Santa Monica, CA, 90405.).</p>
 
-    <h3>California Privacy Rights</h3>
-    <p>Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of JibJab Media Inc. who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@JibJab.com or write us at: JibJab Media Inc., Att: Privacy Dept., PO Box 5356, Santa Monica, CA, 90405.</p>
-   
 	</div>
 </div>
 
@@ -311,55 +358,61 @@ var FBWallPostConfig = {
   </div>
 </div>
 <div id="fwrap">
-
   <div id="footer">
   <div class="logo">
     <a href="/">JibJab</a>
+    <div class="fb_like" id="fb_like_for_site">
+      <fb:like href="http://www.facebook.com/jibjab" layout="button_count" show_faces="false" colorscheme="dark"></fb:like>
+    	<script type="text/javascript" charset="utf-8">
+			  $('body').bind('JJFB.ready', function() { 
+			    FB.XFBML.parse(document.getElementById('fb_like_for_site'))
+		    });
+    	</script>
+    </div>
   </div>
   <div class="footer_links">    
     
 <h4>Site Links</h4>
 <ul>
-          <li class="tier1"><a href="/">Home</a></li>
-          <li class="tier1"><a href="/ecards">eCards</a></li>
-          <li class="tier1"><a href="/everyday_fun">Everyday Fun</a></li>
-          <li class="tier1"><a href="/originals">Originals</a></li>
-          <li class="tier1"><a href="/category/dances">JibJab Dances</a></li>
+          <li class="tier1"><a href="http://sendables.jibjab.com/">Home</a></li>
+          <li class="tier1"><a href="http://sendables.jibjab.com/ecards">eCards</a></li>
+          <li class="tier1"><a href="http://sendables.jibjab.com/everyday_fun">Everyday Fun</a></li>
+          <li class="tier1"><a href="http://sendables.jibjab.com/originals">Originals</a></li>
+          <li class="tier1"><a href="http://sendables.jibjab.com/everyday_fun/category/dances">JibJab Dances</a></li>
           <li class="tier1"><a href="http://sendables.jibjab.com/everyday_fun/category/sy_profile_pics">Profile Pics</a></li>
-          <li class="tier1"><a href="/jokebox">JokeBox</a></li>
-          <li class="tier1"><a href="/about">About Us</a></li>
+          <li class="tier1"><a href="http://sendables.jibjab.com/jokebox">JokeBox</a></li>
+          <li class="tier1"><a href="http://sendables.jibjab.com/about">About Us</a></li>
           <li class="tier1"><a href="http://blog.jibjab.com/">Follow Us</a></li>
           <li class="tier2"><a href="http://blog.jibjab.com">Blog</a></li>
           <li class="tier2"><a href="http://facebook.com/jibjab">Facebook</a></li>
-          <li class="tier2"><a href="http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelID=131256316">MySpace</a></li>
           <li class="tier2"><a href="http://twitter.com/jibjab">Twitter</a></li>
           <li class="tier2"><a href="http://www.youtube.com/jibjab">YouTube</a></li>
             </ul>
       <ul>
-            <li class="tier1"><a href="/ecards">eCard Categories</a></li>
-          <li class="tier2"><a href="/ecards/category/anniversary">Anniversary</a></li>
-          <li class="tier2"><a href="/ecards/category/birthdays">Birthday</a></li>
-          <li class="tier2"><a href="/ecards/category/cheer_up">Cheer Up</a></li>
-          <li class="tier2"><a href="/ecards/category/congrats">Congratulations</a></li>
-          <li class="tier2"><a href="/ecards/category/engagement">Engagement</a></li>
-          <li class="tier2"><a href="/ecards/category/get_well">Get Well</a></li>
-          <li class="tier2"><a href="/ecards/category/good_luck">Good Luck</a></li>
-          <li class="tier2"><a href="/ecards/category/love">Love</a></li>
-          <li class="tier2"><a href="/ecards/category/sorry">Sorry</a></li>
-          <li class="tier2"><a href="/everyday_fun/category/starring_you">Starring You!</a></li>
-          <li class="tier2"><a href="/ecards/category/thanks">Thank You</a></li>
-          <li class="tier2"><a href="/ecards/category/wedding">Wedding</a></li>
+            <li class="tier1"><a href="http://sendables.jibjab.com/ecards">eCard Categories</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/anniversary">Anniversary</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/birthdays">Birthday</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/cheer_up">Cheer Up</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/congrats">Congratulations</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/engagement">Engagement</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/get_well">Get Well</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/good_luck">Good Luck</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/love">Love</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/sorry">Sorry</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/everyday_fun/category/starring_you">Starring You!</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/thanks">Thank You</a></li>
+          <li class="tier2"><a href="http://sendables.jibjab.com/ecards/category/wedding_ecards">Wedding</a></li>
   </ul>
 
   </div>
   <div class="copyright">
     <h4>Copyright &amp; Privacy</h4>
-    <p>JibJab®, Sendables®, Starring You® and JokeBox® are registered trademarks of JibJab Media Inc. © Copyright 1999–2010 JibJab Media Inc. All Rights Reserved.</p>
+    <p>JibJab®, Sendables®, Starring You® and JokeBox® are registered trademarks of JibJab Media Inc. © Copyright 1999–2011 JibJab Media Inc. All Rights Reserved.</p>
     <ul>
       <li><a href="/about/legal">Legal Notices</a></li>
       <li><a href="/about/terms_of_service">Terms of Service</a></li>
-      <li><a href="/about/privacy">Privacy Policy</a></li>
       <li><a href="/about/terms_of_sale">Terms of Sale</a></li>
+      <li class="ft_wd"><a href="/about/privacy">Privacy Policy/<br>Your California Privacy Rights</a></li>
     </ul>
     <p class="privacy">JibJab Protects your privacy and security.</p>
   </div>
@@ -368,7 +421,7 @@ var FBWallPostConfig = {
     <p>For Customer Support please <a href="http://jibjab.zendesk.com/home">click here</a>.</p>
     <ul>
       <li><a href="/about/affiliates">Become an Affiliate</a></li>
-      <li><a href="http://jibjab.zendesk.com/entries/162878-contact-us">Contact Us</a></li>
+      <li><a href="http://sendables.jibjab.com/contact">Contact Us</a></li>
       <li><a href="http://jibjab.zendesk.com/home"><abbr title="Frequently Asked Questions">FAQ</abbr></a></li>
     </ul>
     <div class="payment_info">
@@ -382,10 +435,8 @@ var FBWallPostConfig = {
         <li>Discover</li>
       </ul>
     </div>
-    
-    <a href="/register?template_id=203916&amp;from=%2Fecards&amp;ref=subscribe&amp;trs=am">Become a Member! Join Today!</a>
-    
-  </div>
+          <a href="http://sendables.jibjab.com/register?jjchannel=jibjab&amp;from=%2Fabout%2Fprivacy&amp;ref=subscribe&amp;pagename=About%3A+Privacy&amp;pageaction=footer_become_member&amp;trs=am">Become a Member! Join Today!</a>
+      </div>
   <span class="not_semantic">&nbsp;</span>
 </div>
 
@@ -395,12 +446,9 @@ var FBWallPostConfig = {
 			$('input').keydown(function(e){
 	      if (e.keyCode == 13) {
 					// don't error out if there's another input on the screen that doesn't have an onSubmit fn defined
-					if ($(this).parents('form').attr('onSubmit') != undefined)
-					{
-		        if($(this).parents('form').attr('onSubmit')()) {
-		          $(this).parents('form').trigger('submit');
-		          return false;
-		        }
+          if ($(this).parents('form').attr('onSubmit') != undefined) {
+            $(this).parents('form').find('input:image,input:submit').click();
+            return false;
 					}
 	      }
 	    });
@@ -408,40 +456,12 @@ var FBWallPostConfig = {
   });
 </script>
 
-<!--MODAL LOGIN FORM-->
-<div class="jqmWindow modal_form" id="login_dialog">
-  <h2>Log In To Your Account <a href="#" onclick="ModalHelper.hideModal(&quot;login_dialog&quot;); return false;">Close</a></h2>
-  <form onsubmit="return ModalHelper.loginSubmit(this)">
-    <div class="warnings"><span rel="global_errors"></span></div>
-    <fieldset class="text">
-      <label for="login_name">Email Address</label>
-      <input id="login_name" name="login_name" type="text">
-    </fieldset>
-    <fieldset class="text">
-      <label for="login_password">Password</label>
-      <input id="login_password" name="login_password" type="password">
-    </fieldset>
-    <fieldset class="forgot">
-      <a href="/user/forgot_password">Forgot your password?</a>
-    </fieldset>
-    <fieldset class="checkbox">
-      <input id="remember_me" name="remember_me" type="checkbox" value="1"><label for="remember_me">Remember me on this computer</label>
-    </fieldset>
-    <fieldset class="button">
-      <input src="http://aka.zero.jibjab.com/images/buttons/modal_log_in.png" style="width:123px;height:37px;" type="image" value="Log In">
-      <span class="throbber_holder"></span>
-    </fieldset>
-    <fieldset class="note">
-      <a href="#" onclick="ModalHelper.showModal(&quot;reg_dialog&quot;); ContentViewPageSupport.rra(&quot;begin_registration&quot;); return false;">Don't have a JibJab account? Create one now.</a>
-    </fieldset>
-  </form>
-</div>  
-<!--END MODAL LOGIN FORM-->
 
+	
 <!--MODAL REGISTER FORM-->
 <div class="jqmWindow modal_form" id="reg_dialog">
 	<h2>Create a Free JibJab Account  <a href="#" onclick="ModalHelper.hideModal(&quot;reg_dialog&quot;); return false;">Close</a></h2>
-  <form onsubmit="return ModalHelper.registerSubmit(this); return false;">
+  <form action="https://sendables.jibjab.com/register" method="post">
     <div class="warnings"><span rel="global_errors"></span></div>
     <fieldset class="text" rel="first_name">
       <label for="profile_first_name">First Name</label>
@@ -483,20 +503,8 @@ var FBWallPostConfig = {
     <div rel="dob_error"></div>
     <script type="text/javascript">
       $(document).ready(function(){
-        var options = '';
-        options += '<option value=""></option>';
-        for (var i=1900; i <= (new Date()).getFullYear(); i++) {
-          options += '<option value="' + i + '">' + i + '</option>';
-        }
-        $('.modal_form select#profile_dob_1i').html(options);
-      })
-      $(document).ready(function(){
-        var options = '';
-        options += '<option value=""></option>';
-        for (var i=1; i <= 31; i++) {
-          options += '<option value="' + i + '">' + i + '</option>';
-        }
-        $('.modal_form select#profile_dob_3i').html(options);
+          FormHelper.populateSelectOptionsNumbers($('.modal_form select#profile_dob_1i'), 1900, (new Date()).getFullYear(), true);
+          FormHelper.populateSelectOptionsNumbers($('.modal_form select#profile_dob_3i'), 1, 31, true);
       })
     </script>
     <fieldset class="checkbox" rel="terms_of_service">
@@ -505,7 +513,7 @@ var FBWallPostConfig = {
     </fieldset>
     <div id="tos_error" rel="terms_of_service_error"></div>
     <fieldset class="button">
-      <input onclick="this.disabled=true,this.style.opacity='0.5',this.style.filter='alpha(opacity = 50)',this.form.onsubmit();return false" src="http://aka.zero.jibjab.com/images/buttons/create_account.png" style="width:172px;height:30px;margin-top:5px;" type="image" value="Create Account">
+      <input onclick="this.disabled=true,this.style.opacity='0.5',this.style.filter='alpha(opacity = 50)',this.form.submit();return false" src="http://aka.zero.jibjab.com/images/buttons/create_account.png" style="width:172px;height:30px;margin-top:5px;" type="image" value="Create Account">
       <span class="throbber_holder"></span>
     </fieldset>
   </form>
@@ -525,83 +533,26 @@ var FBWallPostConfig = {
 </div>
 <!--END MODAL REGISTER SUCCESS FORM-->
 
-<!--MODAL ALREADY HAVE ACCOUNT-->
-<div class="jqmWindow modal_form mod_big" id="already_have_account">
-  <h2>Already Have a JibJab Account? <a href="#" onclick="ModalHelper.hideModal(&quot;already_have_account&quot;); ModalHelper.gotoAuthenticatedDest(); return false;">Close</a></h2>
-  <div class="show mod_wrap">
-    <div class="intro show">
-      
-      
-        <fb:profile-pic uid="loggedinuser" width="50" height="50" linked="false" facebook-logo="true"></fb:profile-pic>
-      
-
-      <p class="bigger">Hi <fb:name uid="loggedinuser" capitalize="true" useyou="false" linked="false"></fb:name>, </p>
-      <p class="bigger">Do you have an existing JibJab Account?</p>
-    </div>
-    <div class="show white_box no">
-      <h3>No, I'm new to JibJab!</h3>
-      <p>Welcome to JibJab! We hope you enjoy making funny things to share with your family and friends!</p>
-      <a class="mod_button" href="#" onclick="ModalHelper.hideModal(&quot;already_have_account&quot;); ModalHelper.gotoAuthenticatedDest(); return false;">Close</a>
-    </div>
-    <p class="center">or</p>
-    <div class="show gray_box yes">
-      <h3>Yes I do have a JibJab account!</h3>
-      <p><a href="#" onclick="ModalHelper.showModal(&quot;merge_account&quot;); return false;">Sign In</a> to link your Facebook and JibJab accounts!</p>
-    </div>
+<div class="jqmWindow ba_email_connect_modal" id="ba_email_connect_modal">
+  <h2>You Are Now Facebook Connected!</h2>
+  <p>JibJab Birthday Alerts</p>
+  <p>Never forget another birthday!</p>
+  <p id="ba_connect_pic_target"></p>
+  <div id="ba_connect_pic_template" style="display:none">
+    <img rel="#img" alt="">
+  </div>
+  <div class="show mod_wrap step_one">
+    <p>Would you like to receive daily Birthday Alert emails?</p>
+    <p>
+      <a id="bda_yes" href="" onclick="ModalHelper.birthdayAlertOpted(true); return false;">Yes!</a>
+      <a id="bda_no" href="" onclick="ModalHelper.birthdayAlertOpted(false); return false;">No</a>
+    </p> 
+  </div>
+  <div class="show mod_wrap step_two">
+    <p>A verification email has been sent to <em>your_email@your_email.com</em></p>
+    <a id="bda_close" href="" onclick="ModalHelper.gotoAuthenticatedDest(); return false;">Close</a>
   </div>
 </div>
-<!--END MODAL ALREADY HAVE ACCOUNT-->
-
-<!--MODAL MERGE ACCOUNT FORM-->
-<div class="jqmWindow modal_form mod_big" id="merge_account">
-  <h2>Link Your JibJab and Facebook Accounts <a href="#" onclick="ModalHelper.hideModal(&quot;merge_account&quot;); ModalHelper.gotoAuthenticatedDest(); window.location.reload(true); return false;">Close</a></h2>
-  <div class="show mod_wrap">
-    <div class="intro show">
-      
-        <fb:profile-pic uid="loggedinuser" width="50" height="50" linked="false" facebook-logo="true"></fb:profile-pic>
-      
-      <p class="bigger">Please sign in to your JibJab account</p>
-    </div>
-    <form onsubmit="return ModalHelper.loginSubmit(this)">
-      <div class="warnings"><span rel="global_errors"></span></div>
-      <input name="merge_only" type="hidden" value="1">
-      <fieldset class="text">
-        <label for="login_name">Email Address</label>
-        <input id="login_name" name="login_name" type="text" tabindex="1">
-      </fieldset>
-      <fieldset class="text">
-        <label for="login_password">Password</label>
-        <input id="login_password" name="login_password" type="password" tabindex="2">
-      </fieldset>
-      <fieldset class="forgot">
-        <a href="/user/forgot_password">Forgot your password?</a>
-      </fieldset>
-      <fieldset class="checkbox">
-        <input id="remember_me" name="remember_me" type="checkbox" value="1" tabindex="3"><label for="remember_me">Remember me on this computer</label>
-      </fieldset>
-      <fieldset class="mod_form_button">
-        <input src="http://aka.zero.jibjab.com/images/modals/buttons/link_accounts.png" tabindex="4" type="image" value="Link Accounts">
-      </fieldset>
-    </form>
-  </div>
-</div>  
-<!--END MODAL MERGE ACCOUNT FORM-->
-
-<!--MERGE SUCCESSFUL MODAL -->
-<div class="jqmWindow modal_form mod_big" id="merge_success">
-  <h2>Account Link Successful <a href="#" onclick="ModalHelper.hideModal(&quot;merge_success&quot;); ModalHelper.gotoAuthenticatedDest(); return false;">Close</a></h2>
-  <div class="show mod_wrap">
-    <div class="intro show">
-      
-        <fb:profile-pic uid="loggedinuser" width="50" height="50" linked="false" facebook-logo="true"></fb:profile-pic>
-      
-      <h3>Congratulations <fb:name uid="loggedinuser" capitalize="true" useyou="false" linked="false"></fb:name>! Your JibJab and Facebook accounts are linked.</h3>
-      <p>Now when you use your Facebook account to sign in to JibJab, all of your account settings will be preserved.</p>
-    </div>
-    <a class="mod_button" href="#" onclick="ModalHelper.hideModal(&quot;merge_success&quot;); ModalHelper.gotoAuthenticatedDest(); return false;">Close</a>
-  </div>
-</div>
-<!--END MERGE SUCCESSFUL MODAL -->
 
 <!--SIGN IN MODAL-->
 <div class="jqmWindow modal_form mod_big" id="sign_in">
@@ -612,12 +563,15 @@ var FBWallPostConfig = {
       <h3>Sign in using your Facebook account</h3>
       <p>It's fast and easy to use your Facebook account to sign in to JibJab</p>
       <a class="fb_button" href="#" onclick="ModalHelper.hideModal('sign_in'); JJFB.login_with_perms(JJFB.perms.default_required,JJFB.perms.default_optional, ModalHelper.gotoAuthenticatedDest); return false;"><img src="http://aka.zero.jibjab.com/images/buttons/connect_with_facebook.png" alt="Connect with Facebook"></a>
-      <p class="note">Don't have a Facebook account? <a href="#" onclick="ModalHelper.showModal(&quot;reg_dialog&quot;); ContentViewPageSupport.rra(&quot;begin_registration&quot;); return false;">Click here to create a JibJab account.</a></p>
+      <div class="facepile">
+        <fb:facepile width="350" max_rows="1"></fb:facepile>
+      </div>
+      <p class="note">Don't have a Facebook account? <a href="#" onclick="ModalHelper.showRegisterModal(ModalHelper._authenticatedDest); ContentViewPageSupport.rra(&quot;begin_registration&quot;); return false;">Click here to create a JibJab account.</a></p>
     </div>
     <p class="center">or</p>
     <div class="show gray_box using_jj">
       <h3>Sign in to your JibJab account</h3>
-      <form onsubmit="return ModalHelper.loginSubmit(this)">
+      <form action="https://sendables.jibjab.com/login" method="post">
         <div class="warnings"><span rel="global_errors"></span></div>
         <fieldset class="text">
           <label for="login_name">Email Address</label>
@@ -643,16 +597,6 @@ var FBWallPostConfig = {
 </div>
 <!--END SIGN IN MODAL-->
 
-<!--FACEBOOK EMAIL MERGE FORM-->
-<div class="jqmWindow modal_form mod_big" id="merge_fb_email">
-  <h2>This email address is already in use <a href="#" onclick="ModalHelper.hideModal(&quot;merge_fb_email&quot;); ModalHelper.gotoAuthenticatedDest(); window.location.reload(true); return false;">Close</a></h2>
-  <div class="show mod_wrap">
-    <p>This email address is already in use.</p>
-  </div>
-</div>
-<!--END FACEBOOK EMAIL MERGE FORM-->
-
-
 
 
 
@@ -665,23 +609,23 @@ http://www.omniture.com -->
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
+s.prop8=null;
+s.eVar8=null;
+s.prop9=null;
 s.eVar21="logged out";
+s.eVar9=null;
 s.eVar22="No";
 s.prop21="logged out";
 s.eVar23="No";
 s.prop22="No";
-s.prop8="";
 s.eVar24="No";
 s.prop23="No";
-s.eVar8="";
-s.prop9="";
+s.pageName="About: Privacy";
 s.eVar25="No";
 s.prop24="No";
-s.eVar9="";
-s.prop25="No";
-s.channel="JibJab";
-s.pageName="About: Privacy";
 s.eVar2="About: Privacy";
+s.channel="JibJab";
+s.prop25="No";
 s.eVar3="JibJab";
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
@@ -696,6 +640,7 @@ _qacct="p-19vkMD0U79EGE";quantserve();</script>
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-19vkMD0U79EGE.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
 <!-- End Quantcast tag -->
+
 
 
 </div>
