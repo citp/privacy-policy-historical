@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebaynet.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224105043id_/http%3A//www.thebaynet.com/index.cfm/fa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaynet.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624211803id_/http%3A//www.thebaynet.com/index.cfm/fa/privacy) for the most accurate reproduction.*
 
 # Southern Maryland News
 
@@ -32,7 +32,7 @@ Information sharing
     * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of The Bay Net, its users or the public.
   * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.
   * We may store and process personal information collected on our site in the United States or any other country in which Bay Media Services, Inc. or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.
-  * In the event of a transfer of ownership of Bay Media Services., such as acquisition by or merger with another company, we will provide notice before any personally identifying information is transferred and becomes subject to a different privacy policy.
+  * In the event of a transfer of ownership of TheBayNet, Inc, such as acquisition by or merger with another company, we will provide notice before any personally identifying information is transferred and becomes subject to a different privacy policy.
   * We may share aggregated information with others. Examples of this include the number of users who viewed a particular page or how many users clicked on a particular advertisement.
 
 
