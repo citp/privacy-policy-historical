@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kontactr.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107022840id_/http%3A//kontactr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontactr.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624023153id_/http%3A//kontactr.com/privacy) for the most accurate reproduction.*
 
 # Kontactr
 
