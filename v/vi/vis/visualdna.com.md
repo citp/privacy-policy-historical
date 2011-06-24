@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231004404id_/http%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624094146id_/http%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VisualDNA™
 
@@ -16,32 +16,35 @@ If you have any queries or comments about our use of your information, please ge
 
 We collect personal information from visitors to the Sites or our Clients’ websites, participants in our Quizzes and users who interact with online adverts or who otherwise visit websites within our network, including:
 
-  *  Information provided by you:
+**Information provided by you:**
 
-    * Name, address and email address.
+  * Name, address and email address.
+  *  Demographic information such as age, gender and country of residence.
 
-    *  Demographic information such as age, gender and country of residence.
+  *  Data on your image preferences and information about products and/or pages viewed when you participate in our Quizzes.  Although we cannot identify you individually from your image preferences, your responses help us to build up a picture of you, your characteristics, lifestyle or preferences in order to serve you personalised adverts and content.
 
-    *  Data on your image preferences and information about products and/or pages viewed when you participate in our Quizzes.  Although we cannot identify you individually from your image preferences, your responses help us to build up a picture of you, your characteristics, lifestyle or preferences in order to serve you personalised adverts and content.
+  * If you contact us, we may also keep a record of that correspondence and/or collect information from such correspondence.
 
-    * If you contact us, we may also keep a record of that correspondence and/or collect information from such correspondence.
 
-    *  Information collected automatically from your computer:
 
-      * Information from cookies.  A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the use of cookies on [www.allaboutcookies.org](http://www.allaboutcookies.org/) .  Most browsers allow you to turn off cookies or to receive a warning before a cookie is stored on your hard drive. Please refer to your browser instructions or help screen to learn more about how to do this.  However, should you decide to disable any cookies we place on your computer you may not be able to use certain services or facilities on the Sites or our Clients’ sites and content and adverts may be less relevant to you.
 
-      * Your IP address, which is the unique address of your computer which is automatically provided to other computers when your web browser or email application requests a web page or email from those computers on the Internet.
+**Information collected automatically from your computer:**
 
-      * Information about the type of browser you are using (for example Firefox, Internet Explorer or Safari).
+  * Information from cookies.  A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the use of cookies on [www.allaboutcookies.org](http://www.allaboutcookies.org/) .  Most browsers allow you to turn off cookies or to receive a warning before a cookie is stored on your hard drive. Please refer to your browser instructions or help screen to learn more about how to do this.  However, should you decide to disable any cookies we place on your computer you may not be able to use certain services or facilities on the Sites or our Clients’ sites and content and adverts may be less relevant to you.
 
-      * “Clickstream” data collected from “Web beacons” (also known as “clear gifs”, “action tags” or “Web bugs”), including information about your journey across the Internet and your browsing behaviour around various websites, including interactions with adverts, within our network.
+  * Your IP address, which is the unique address of your computer which is automatically provided to other computers when your web browser or email application requests a web page or email from those computers on the Internet.
 
-      * On behalf of our Clients
+  * Information about the type of browser you are using (for example Firefox, Internet Explorer or Safari).
 
+  * “Clickstream” data collected from “Web beacons” (also known as “clear gifs”, “action tags” or “Web bugs”), including information about your journey across the Internet and your browsing behaviour around various websites, including interactions with adverts, within our network.
+
+  
 
 
 
 **2.                Use of personal information**
+
+**On behalf of our Clients**
 
 We process personal information for the purposes of providing our Services for the benefit of and on behalf of our Clients.  Our Services involve analysing the above information to create a picture of your lifestyle, interests and browsing and shopping intent as well as tastes and preferences.  Although most of the information we collect cannot identify you (unless you choose to provide information such as your name, address or email address) it enables us to create groups of users with similar browsing, interest or behaviour patterns, depending on our Clients’ specifications.  We call these groups Audience Groups.  The Audience Groups can then be used to provide you with content and adverts that are more relevant to your lifestyle and interests.  We also use cookie and Clickstream data collected from various websites that are part of our network to provide targeted advertising services and to profile users across our network. 
 
@@ -49,12 +52,9 @@ The information may also be used for analytical and strategic development purpos
 
 Where our Clients are using your information for the above purposes, we encourage them to make you aware of this in their privacy policies and to explain how you can opt-out of such practices.
 
-  * For our own purposes
+**For our own purpose**
 
-
-
-
- Our Sites are generally intended for use by our Clients and other businesses looking to use our Services.  We will therefore use your personal information to provide and improve our Services, respond to your enquiries and requests, administer orders and accounts and to provide you with information about our Services.  You may opt-out of receiving mailings by emailing [contact@imagini.net](mailto:contact@imagini.net).
+Our Sites are generally intended for use by our Clients and other businesses looking to use our Services.  We will therefore use your personal information to provide and improve our Services, respond to your enquiries and requests, administer orders and accounts and to provide you with information about our Services.  You may opt-out of receiving mailings by emailing [contact@imagini.net](mailto:contact@imagini.net).
 
 We may also use the information collected automatically, such as your IP address and information stored via cookies, to gather statistics about the number of people who visit the Sites and to customise the Sites content, layout and services.
 
@@ -95,3 +95,6 @@ We may change this Policy at our discretion by publishing the changes on the Sit
 **8.               Contact**
 
 If you have questions or concerns regarding this Policy, you should email us at [contact@imagini.net](mailto:contact@imagini.net) or write to: Customer Support, Imagini Holdings Limited, 7 Moor Street, London W1D 5NB.
+
+
+
