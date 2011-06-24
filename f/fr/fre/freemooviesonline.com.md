@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freemooviesonline.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142318id_/http%3A//www.freemooviesonline.com/fmo-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemooviesonline.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624040347id_/http%3A//www.freemooviesonline.com/fmo-privacy-policy.html) for the most accurate reproduction.*
 
-# Watch Free Movies Online - FMO Privacy Policy
+# FMO Privacy Policy
 
 FMO is committed to protecting your privacy when you use the FMO Service, which is comprised of (i) the FMO website, currently located at www.freemooviesonline.com (and/or any successor or additional website(s) owned or operated by or for FMO); (ii) the FMO syndication network (which includes third party websites); (iii) and/or any other technology and/or services that FMO provides its users. The following Privacy Policy was prepared to inform you of the information we collect about you, how that information is used, whether and to whom we disclose it, and the choices you have regarding your personal information.
 
@@ -8,7 +8,7 @@ It is very important that you read and understand our Privacy Policy. If you do 
 
 We may update this Privacy Policy from time to time. We will advise you that changes have been made by posting a notice on our website or otherwise. Your use of the FMO Service constitutes your acceptance of the terms of our Privacy Policy, as may be amended or revised by us, and you are advised to consult our Privacy Policy regularly for any changes (revisions will be reflected by the "last update" notation below).
 
-If you have any questions regarding FMO's policies or practices relating to privacy, please direct them to [privacy@freemooviesonline.com](mailto:privacy@freemooviesonline.com) .
+If you have any questions regarding FMO's policies or practices relating to privacy, please direct them to [privacy@freemooviesonline.com](mailto:privacy@freemooviesonline.com).
 
 This Privacy Policy was last updated on _March 12, 2009._
 
@@ -48,3 +48,5 @@ We do not knowingly collect any personal information from children under the age
 The FMO Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, use the link provided in any message.
 
 **By using the FMO Service, you agree to the level of privacy protection set out in our Privacy Policy.**
+
+{hidetags} 
