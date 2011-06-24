@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227062032id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624082227id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - al.com
 
@@ -56,7 +56,11 @@ If your children disclose information about themselves in publicly accessible ar
 
 If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below. 
 
-  6. **PRIVACY POLICY COORDINATOR**
+  6. **NEWS REGISTRY**
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
+
+  7. **PRIVACY POLICY COORDINATOR**
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows: 
 
