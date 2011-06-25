@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aissystem.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223141740id_/http%3A//www.aissystem.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aissystem.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625191216id_/http%3A//www.aissystem.com/Privacy.html) for the most accurate reproduction.*
 
 # Automated Income Streams - AIS System by Chris Cobb
 
