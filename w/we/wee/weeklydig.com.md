@@ -1,114 +1,98 @@
-> *The following text is extracted and transformed from the weeklydig.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418183715id_/http%3A//weeklydig.com/index.cfm/fuseaction/content.page/nodeID/ec8d06a1-afda-42e5-b119-e2e0f567acdd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklydig.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625035554id_/http%3A//digboston.com/privacy-policy) for the most accurate reproduction.*
 
-# WeeklyDig : > Privacy Policy
+# Privacy Policy | DigBoston
 
-**
+**What information do we collect?**
 
-PRIVACY POLICY
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
-**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Welcome to this _Boston’s Weekly Dig_ /Dig Publishing, LLC Web site (the "Site"). _Boston’s Weekly Dig_ is committed to protecting your privacy and trust. This Privacy Policy applies to all portions of our Site except the "Personals," which are governed by a separate privacy policy offered by Spring Street Networks. This Privacy Policy explains how we collect information from you and what we do with it. 
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-The effective date of this privacy policy March 1, 2005. _Boston’s Weekly Dig_ may at any time change this Policy. You should periodically visit this page to review the then-current Privacy Policy. **If at any time you choose not to accept the terms and conditions herein, please do not use this Site.**
+ **What do we use your information for?**
 
- **
+Any of the information we collect from you may be used in one of the following ways:
 
-Your visit to this Site serves as your consent to _Boston’s Weekly Dig_ 's collection and use of information, including Personal Information (defined below), as described in this Policy. If you do not want _Boston’s Weekly Dig_ to collect and use your Personal Information in the manner described in this Policy, please do not provide the information to us.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-** __
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-_Boston’s Weekly Dig_ is not responsible for the content or the privacy policies of Web sites to which it may link. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**
+• To process transactions  
 
-Disclaimers
 
-**
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**While _Boston’s Weekly Dig_ has taken reasonable steps to limit the uses of information provided by you, we cannot guarantee that the information will remain permanently secure. There is always a possibility that your information could be lost due to technical problems or stolen from our databases. _Boston’s Weekly Dig_ is not responsible for any such loss or theft or any other unanticipated security breach.**
+• To administer a contest, promotion, survey or other site feature
 
-**
+• To send periodic emails
 
-Aggregate Information Collection and Use
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-**
+ **How do we protect your information?**
 
-We collect and use non-identifying and aggregate information to improve the content of our Web pages, for systems administration, and for trouble-shooting purposes. This information may be shared with other organizations for commercial purposes and with _Boston’s Weekly Dig_ affiliates. This kind of information includes which pages you visit, how many pages you visit, the search engine and key words you may have used, and how long you stay on our site. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-**
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-Personal Information Collection and Use
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-**
+ **Do we use cookies?**
 
-We also collect any information that you volunteer, such as your name, email address, mailing address, telephone number, or credit card information ("Personal Information"). We may request some or all of this information when you subscribe to _Boston’s Weekly Dig_ or an affiliated publication, sign up for and use a chat, club, bulletin board, message board, forum or blog (collectively, a "Forum"), send a letter to the editor, or otherwise contact _Boston’s Weekly Dig_. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We reserve the right to share both aggregate and personal information collected from you with third parties if we are authorized to do so, if the law requires it, to protect the rights of _Boston’s Weekly Dig_ , or as part of a sale or other disposition of our assets (including our membership and/or customer records). We may also use and disclose Personal Information to prevent or trace abuses of the Site, including but not limited to use of a Forum. We may also use and disclose Personal Information to comply with any court order or government investigation or inquiry, or as otherwise required by law, or to protect the rights, property or personal safety of _Boston’s Weekly Dig_ , users of the Site, or the public. In addition, in our letters to the editor section, we typically disclose the city or town in which the letter-writer resides.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
- __
+ **Do we disclose any information to outside parties?**
 
-_Boston’s Weekly Dig_ may use your Personal Information to personalize and enhance your use of this Site, including the marketing and promotion of products and services that might be of interest to you. _Boston’s Weekly Dig_ may also use your Personal Information to address technical problems and communicate with you about customer service issues.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
- **
+ **Third party links**
 
-Purchases
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**
+ **California Online Privacy Protection Act Compliance**
 
-If you make a purchase on our Site, including a subscription for the _Weekly Dig_ , we will typically ask for your name, email address, mailing address, phone number, credit card number, and the expiration date. If the product or subscription is provided or shipped by a third party, we will pass on to the third party the information needed to fulfill your order.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
- **
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
-Promotions and Contests
+ **Childrens Online Privacy Protection Act Compliance**
 
-** __
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-_Boston’s Weekly Dig_ may from time to time sponsor sweepstakes, contests, or other events ("Promotions") which require the collection, processing, and storage of individual contact information plus demographic information. These Promotions may also ask registrants to answer survey questions. Any personally identifiable information collected through promotions will be treated as "Personal Information," as defined above. No purchase is ever necessary to enter any _Boston’s Weekly Dig_ Promotion. Please see the official rules of each Promotion for more information.
+ **Online Privacy Policy Only**
 
- __
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-_Boston’s Weekly Dig_ may co-sponsor Promotions with other companies, in which case any information collected is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant's personal contact and demographic information will not be released to any third-party organization other than named sponsors without the registrant's consent.
+ **Terms and Conditions**
 
- **
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://digboston.com/>
 
-Chats, Clubs, Forums, and Message Boards
+**Your Consent**
 
-**
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
 
-Please consult our Terms of Use for a description of our chats, clubs, forums, bulletin boards, message boards and blogs ("Forums"). You should be aware that any Personal Information, such as your name and email address, as well as any other information or content that you post on a Forum, or otherwise specifically and knowingly disclose by use on a Forum, may be directly collected and used by _Boston’s Weekly Dig_ and third parties. Therefore, you may receive unsolicited email as a result of your disclosure of such information. **You should have no expectation of privacy with respect to your communications through these Forums.**
+ **Changes to our Privacy Policy**
 
- **
+If we decide to change our privacy policy, we will post those changes on this page.
 
-Surveys and Polls
+This policy was last modified on 10/20/2010
 
-** __
+ **Contacting Us**
 
-_Boston’s Weekly Dig_ will from time to time conduct anonymous surveys and polls of users to the Site to obtain aggregate demographic information about them. Such information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals unless otherwise disclosed in the survey rules.
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
- **
-
-Cookies
-
-** __
-
-_Boston’s Weekly Dig_ does use Cookies at the present time. Users to this Site will be issued a "cookie," a small text file placed on the user's hard drive to track usage of the Site. Cookies help to prevent you from having to register or re-enter your information every time you visit the Site. Cookies are also used to authenticate your identity. Cookies from our Site provide us with certain information about your computer, but will not interfere with the operation of your computer. 
-
-**
-
-Hyperlinks
-
-**
-
-We may post hyperlinks to the Web sites of third-party advertisers, service providers, and others. We cannot control the actions of such third parties or be held responsible for their use of any information that you provide directly to them. We advise you to take the time to educate yourself about the privacy policy and terms of use of any Web site that you visit.
-
- **
-
-Children's Online Privacy
-
-**
-
-Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. _Boston’s Weekly Dig_ does not knowingly collect personal information from children through this Site, or any of its Web sites. If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, please contact us at [_rbertsche@plgt.com_](https://web.archive.org/web/20060418183715id_/http%3A//weeklydig.com/index.cfm/fuseaction/content.page/nodeID/mailtrbertsche@plgt.com).
-
-  
+http://digboston.com  
+242 E. Berkeley St.  
+Boston, MA 02118  
+USA  
+webmaster@digboston.com  
 
