@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filthydatez.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122112347id_/http%3A//filthydatez.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filthydatez.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625162951id_/http%3A//filthydatez.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Online Dating - Your Filthy Date Awaits! - Privacy Statement
 
