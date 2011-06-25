@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senvideo.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221031634id_/http%3A//www.senvideo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senvideo.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625135127id_/http%3A//www.senvideo.com/privacy.php) for the most accurate reproduction.*
 
 # SenVideo
 
