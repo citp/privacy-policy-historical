@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hakimtea.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222045031id_/http%3A//hakimtea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hakimtea.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625043207id_/http%3A//hakimtea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hakimtea.com | Catatan Blogger | Article | Tips HTML | Blog Widget | Tips Blogger
+# Privacy Policy | Hakimtea.com | Blogging | Wordpress | Blogspot | Free Themes | Download
 
-##  Privacy Policy 
+## [Privacy Policy](http://hakimtea.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
 **www.hakimtea.com (Hakimtea.Com) Privacy Statement**
 
