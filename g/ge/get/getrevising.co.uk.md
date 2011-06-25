@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123090838id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625194505id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Revising
 
-This is about protecting the information you give us. It can is standard for a site of this type. The principles are the key thing.
+This is about protecting the information you give us. It is standard for a site of this type. The principles are the key thing.
 
 **Our principles**  
 We are absolutely committed to protecting your privacy. Our policy can be summarised in one sentence: we will not share your information with others without your prior consent. We have also established the following principles:  
