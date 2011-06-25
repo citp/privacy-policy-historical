@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the boticca.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604215642id_/http%3A//boticca.com/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boticca.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625031848id_/http%3A//boticca.com/page/privacy) for the most accurate reproduction.*
 
-# Boticca.com :: Privacy Policy
+# Boticca | Privacy Policy
 
-## Boticca.com Limited
-
-###  **PRIVACY POLICY**
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.boticca.com)
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.boticca.com/seal_m "Validate TRUSTe privacy certification")
 
 This policy sets out the basis on which the personal data collected from you, or that you provide to us will be processed by us.
 
@@ -99,7 +95,7 @@ Second Floor, Cardiff House
 Tilling Road  
 London NW2 1LJ  
 Email: [support@boticca.com](mailto:support@boticca.com)  
-Tel: +44 (0) 845 299 7661  
+Tel: +44 (0) 208 133 6501  
 Fax: +44 (0) 207 979 0053
 
 Effective date 01/12/2009
