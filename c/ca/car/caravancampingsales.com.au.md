@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caravancampingsales.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120171303id_/http%3A//www.caravancampingsales.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravancampingsales.com.au privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625024028id_/http%3A//www.caravancampingsales.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # caravancampingsales.com.au
 
