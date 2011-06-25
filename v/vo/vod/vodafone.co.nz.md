@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215210240id_/http%3A//vodafone.co.nz/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625120857id_/http%3A//www.vodafone.co.nz/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.*
 
 # Vodafone Privacy Policy - Vodafone NZ
 
@@ -93,7 +93,7 @@ We will take reasonable steps to ensure that the personal information we collect
 
 ### 6\. Accessing your personal information
 
-You have the right to access your personal information, if we hold that personal information in a way that it can be readily retrieved. You may request access to the personal information we hold about you by sending an email to [customerprivacy@vodafone.co.nz](mailto:customerprivacy@vodafone.co.nz "Mail to customerprivacy@vodafone.co.nz").
+You have the right to access your personal information, if we hold that personal information in a way that it can be readily retrieved. You may request access to the personal information we hold about you by sending an email to [customer.privacy@vodafone.co.nz](mailto:customer.privacy@vodafone.co.nz "Mail to customerprivacy@vodafone.co.nz").
 
 Please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy (this helps us to more readily locate your data).
 
