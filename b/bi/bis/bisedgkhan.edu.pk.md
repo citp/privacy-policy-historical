@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bisedgkhan.edu.pk privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129110841id_/http%3A//www.bisedgkhan.edu.pk/index.php%3Ffilename%3Dprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisedgkhan.edu.pk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625084508id_/http%3A//www.bisedgkhan.edu.pk/index.php%3Ffilename%3Dprivacy.php) for the most accurate reproduction.*
 
 # :: BISE DGKHAN ::
 
-[ ](https://web.archive.org/web/20101129110841id_/http%3A//www.bisedgkhan.edu.pk/index.php)
+[ ](https://web.archive.org/web/20110625084508id_/http%3A//www.bisedgkhan.edu.pk/index.php)
 
 CHAIRMAN’S PROFILE 
 
