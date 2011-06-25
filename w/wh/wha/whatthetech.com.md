@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatthetech.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222175952id_/http%3A//www.whatthetech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatthetech.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625161729id_/http%3A//www.whatthetech.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | What the Tech
 
@@ -12,7 +12,7 @@ WhatTheTech is owned and operated by Geeks to Go, Inc. ([www.geekstogo.com](http
 **Information Collection and Use**  
 Geeks to Go is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
-We use email links throughout the site to allow you to contact us directly with any questions or comments you may have. We read every message and try to reply promptly. We use the information collected to respond directly to your questions and comments. We may also file your comments to improve the site or review and discard the information.
+We use email links throughout the site to allow you to [contact](http://www.whatthetech.com/contact/ "contact") us directly with any questions or comments you may have. We read every message and try to reply promptly. We use the information collected to respond directly to your questions and comments. We may also file your comments to improve the site or review and discard the information.
 
 **Legal Disclaimer**  
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
