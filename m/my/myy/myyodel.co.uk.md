@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myyodel.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121123426id_/http%3A//www.myyodel.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myyodel.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625105130id_/http%3A//www.myyodel.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # MY YODEL
 
