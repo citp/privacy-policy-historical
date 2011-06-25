@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the taltopia.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602115105id_/http%3A//www.taltopia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taltopia.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625182340id_/http%3A//www.taltopia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 |  | 
 
-_Last modified December 14, 2006._
+_Last modified January 14, 2011._
 
 Privacy Policy subject to change at discretion of Taltopia.com. At Taltopia.com we observe the following in respect to your privacy:
 
@@ -15,7 +15,7 @@ Like many websites, we use “cookies” to collect information. A cookie is a s
 
 ###  Registration Data
 
-To enable site features, we may ask you to register. Except for username or any other data you explicitly make public, we do not share your personal information outside of Taltopia.com. 
+To enable site features, we may ask you to register. Taltopia may share this information with our web advertising partners. Taltopia is not responsible for their privacy policies and/or practices. 
 
 ###  Log Information
 
@@ -27,7 +27,7 @@ Taltopia uses commercially reasonable physical, managerial, and technical safegu
 
 ###  User Submitted Content & User Communications
 
-Any content you submit to the site (videos, voting, comments, etc.) will be publicly available. From time to time employees may examine this content or other user behavior to confirm that the terms of service are not being breached. When you send email or other communication to Taltopia, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. We will not send you marketing emails if you opt-out during registration or use the unsubscribe link in a previous email.
+Any content you submit to the site (videos, voting, comments, etc.) will be publicly available. From time to time employees may examine this content or other user behavior to confirm that the terms of service are not being breached. When you send email or other communication to Taltopia, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. We will not send you marketing emails directly from Taltopia if you use the unsubscribe link in a previous email. However Taltopia may share your information with our web advertising partners. Taltopia is not responsible for their privacy policies and/or practices.
 
 ###  Childrens' Privacy
 
