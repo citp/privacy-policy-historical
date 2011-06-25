@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classi4u.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215151348id_/http%3A//www.classi4u.com/classiprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classi4u.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625194232id_/http%3A//www.classi4u.com/classiprivacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classi4u.com Classifieds India
 
@@ -22,7 +22,7 @@ classi4u.com stores in its database all user generated content (classified ads, 
 
 **DISCLOSURE OF PERSONAL INFORMATION**
 
-classi4u.com may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. classi4u.com may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-party; or protect the rights, property, or personal safety of classi4u.com, its users or the general public. classi4u.com complies with the provisions of C.R.S. Â§ 6-1-716 pertinent to the breaches of security notifications effective September 1st, 2006. 
+classi4u.com may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. classi4u.com may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-party; or protect the rights, property, or personal safety of classi4u.com, its users or the general public. classi4u.com complies with the provisions of C.R.S. § 6-1-716 pertinent to the breaches of security notifications effective September 1st, 2006. 
 
 **GLOBAL USE**
 
