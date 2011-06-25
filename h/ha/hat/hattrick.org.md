@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215105444id_/http%3A//hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625165121id_/http%3A//www94.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement » Help » Hattrick
 
@@ -67,7 +67,7 @@ All other information that you directly or indirectly create or access within Ha
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These include firewalls, physical security and password protection. 
 
 **Opt-Out**  
-You can choose to terminate your Hattrick account at any time by contacting a local Game Master or if that is not possible by contacting Hattrick at [ privacy@hattrick.org](mailto:privacy@hattrick.org). E-mail messages may be sent to all registered users. You can opt out from receiving most messages only by terminating the account. You can opt out from The Hattrick Newsletter under My Hattrick > Preferences > Other Preferences. 
+You can choose to terminate your Hattrick account at any time by contacting a local Game Master or if that is not possible by contacting Hattrick at [ privacy@hattrick.org](mailto:privacy@hattrick.org). E-mail messages may be sent to all registered users. You can opt out from receiving most messages only by terminating the account. You can opt out from The Hattrick Newsletter under My Hattrick > Preferences > Site Preferences. 
 
 **Data Quality/Access**  
 This site gives users the following options for changing and modifying information previously provided:  
@@ -75,7 +75,7 @@ This site gives users the following options for changing and modifying informati
 \- You can contact your local GM using the in-game messaging tool. 
 
 **Contacting Hattrick**  
-If you have any questions about this privacy statement, or the practices of this site, you can contact [privacy@hattrick.org](mailto:privacy@hattrick.org). If want to a copy of your personal data, or if you want us to erase it, please send us a personally signed letter to the address stated above. 
+If you have any questions about this privacy statement, or the practices of this site, you can contact [privacy@hattrick.org](mailto:privacy@hattrick.org). If you want a copy of your personal data, or if you want us to erase it, please send us a personally signed letter to the address stated above. 
 
 **Amendments of the Privacy Policy**  
 Hattrick may from time to time revise this Privacy Statement by updating this posting. Such amendments will be communicated here, to the e-mail address stated in your account or through a notice on our home page. Your continued use of this site and the resources enabled by the site will signify and represent your consent to such processing and of the conditions set out in the Privacy Statement. 
