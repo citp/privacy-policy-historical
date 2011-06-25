@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the munsoft.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125002350id_/http%3A//www.munsoft.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the munsoft.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625195114id_/http%3A//www.munsoft.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MunSoft: Privacy Policy
 
