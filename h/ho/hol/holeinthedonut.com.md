@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126112550id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625093511id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
 
-# Disclosure, Privacy Policy | Hole In The Donut Travels
+# Disclosure, Privacy Policy | Hole In The Donut Cultural Travel
 
 **DISCLOSURE:**
 
