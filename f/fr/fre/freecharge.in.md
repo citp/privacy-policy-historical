@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecharge.in privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122161901id_/http%3A//freecharge.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecharge.in privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625110047id_/http%3A//www.freecharge.in/privacy-policy.php) for the most accurate reproduction.*
 
 # FREECHARGE - Free Online Prepaid Mobile Recharge
 
