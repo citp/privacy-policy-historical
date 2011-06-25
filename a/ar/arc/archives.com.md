@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archives.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225013451id_/http%3A//www.archives.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625210057id_/http%3A//www.archives.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Archives
 
@@ -45,7 +45,7 @@ We do not rent, sell, or share personal information about you with other people 
   * You can edit your Account Information within our members' area by clicking "My Account" and then "Make Changes".
   * To exclude yourself from commercial emails and alerts sent by us, simply click the "Unsubscribe" link provided in any commercial email message.
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them.
-  * We make opting-out of our living people search database easy and free. Just visit the [Opt-Out Request](https://web.archive.org/web/20101225013451id_/http%3A//www.archives.com/ga.aspx?_act=Optout "Opt-Out Request") page and submit the requested information. Please allow 1 to 7 business days for processing your request.
+  * We make opting-out of our living people search database easy and free. Just visit the [Opt-Out Request](https://web.archive.org/web/20110625210057id_/http%3A//www.archives.com/ga.aspx?_act=Optout "Opt-Out Request") page and submit the requested information. Please allow 1 to 7 business days for processing your request.
 
 
 
@@ -74,4 +74,4 @@ If you have questions or concerns regarding this policy, you should contact us a
 Find your ancestors, discover new connections, and trace your family tree as far back as possible with Archives!  
 Click the button below to try it for free!
 
-[Start 7-Day Free Trial ››](https://web.archive.org/web/20101225013451id_/http%3A//www.archives.com/GA.aspx?_act=checkoutOrg "7-day free trial")
+[Start 7-Day Free Trial ››](https://web.archive.org/web/20110625210057id_/http%3A//www.archives.com/GA.aspx?_act=checkoutOrg "7-day free trial")
