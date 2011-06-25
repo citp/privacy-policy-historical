@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826020226id_/http%3A//www.findashemalelover.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625143313id_/http%3A//www.findashemalelover.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
 
 # .: Find A Shemale Lover - Shemales Looking For YOU! (NEW!)
 
@@ -7,10 +7,16 @@
 
 findashemalelover (the "Site") is licensed to **Hundies LTD.**
 
-Our postal address is   
+Our international postal address is   
 Hundies LTD  
 Amory Building, Suite #4757, Victoria Road  
 Basseterre, SAINT KITTS AND NEVIS
+
+Our USA postal address is   
+Hundies Entertainment Inc.  
+6191 Orange Dr. Ste 6177  
+Davie, FL 33314  
+
 
 We can be reached via e-mail at legal@hundiesltd.com
 
