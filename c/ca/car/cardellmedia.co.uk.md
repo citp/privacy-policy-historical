@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardellmedia.co.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120132025id_/http%3A//www.cardellmedia.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardellmedia.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625200415id_/http%3A//cardellmedia.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Chris Cardell | The world's leading resources for entrepreneurial wealth success.
 
@@ -87,6 +87,8 @@ We do not knowingly collect information from children under the age of 13 on the
 Changes to this Policy:
 
 The terms of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on the homepage of the Site for a reasonable period of time after such changes are made, that this Privacy Policy has been updated, and by changing the "Effective" date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes. Your continued use of the Site and participation in following the posting of changes to these terms will mean you accept those changes.
+
+All products will be shipped within 7 days via (shipping service).  
 
 Contacting us:
 
