@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zales.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226003746id_/http%3A//www.zales.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zales.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625193919id_/http%3A//www.zales.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zales
 
@@ -24,7 +24,7 @@ For those individuals who visit our site but do not make a purchase, we collect 
 
 We and the third parties who provide services related to Zales.com will use the information referenced above to fulfill your order and provide services related to Zales.com or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, Web site evaluation, data analysis and, where applicable, data cleansing. The third parties who provide any of these services are authorized to use this information only in connection with the services they are engaged to perform. 
 
-In addition to using the information referenced above to fulfill your purchase order, we also retain some of that information in our customer database. We use that information to track your order, to respond to your inquiries and to make subsequent purchases you wish to make easier and faster. We also may use that information, from time to time, to contact you concerning our products, services, sales or special promotions of Zales.com or our corporate affiliates, including Zales Jewelers. We try to limit those contacts to ones that might be of interest to you. If you would prefer not to be contacted about our special offers, products or services, please notify us at the mailing address, e-mail address or phone number provided below: 
+In addition to using the information referenced above to fulfill your purchase order, we also retain some of that information in our customer database. We use that information to track your order, to respond to your inquiries and to make subsequent purchases you wish to make easier and faster. We also may use that information, from time to time, to contact you and allow third parties to contact you with our consent concerning products, services, sales or special promotions of Zales.com or our corporate affiliates, including Zales Jewelers, as well as third-party products and services [branded with the name Zales Jewelers or with the name of another of our affiliate(s)] that Zales Jewelers believes will be of interest to you. We try to limit those contacts to ones that might be of interest to you. If you would prefer not to be contacted about our special offers, products or services, please notify us at the mailing address, e-mail address or phone number provided below: 
 
 **Zales Jewelers**  
 **Customer Service**  
@@ -57,4 +57,4 @@ We may change or enhance our policy to improve our service to you. If we do chan
 
 **If you have any questions or concerns about our Privacy Policy, please[Contact Us](https://web.archive.org/helpdesk/index.jsp?subdisplay=contact&display=store).**
 
-Last updated: 11/1/05
+Last updated: 5/1/2011
