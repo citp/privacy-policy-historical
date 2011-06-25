@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsgo.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213050617id_/http%3A//www.letsgo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsgo.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625092623id_/http%3A//www.letsgo.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Let's Go Travel - The Leader in Budget Travel
 
@@ -78,12 +78,6 @@ To opt-out of other cookies, or if you would like more information about this pr
 **PII Opt-Out.** To opt out of our use of your PII, you may (a) click the appropriate "Opt Out" link in any applicable e-mail communication or newsletter and complete the opt-out process online or (b) visit [http://travelad.listrak.com.](http://travelad.listrak.com/)
 
 E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from the Site are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Customer Service group using the Contact Us functionality on the applicable Site.
-
-### CLICKTALE
-
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale to help us provide the most useful and informative website possible.
-
-You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
 ### HOW TO CONTACT US
 
