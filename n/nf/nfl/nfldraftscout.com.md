@@ -1,35 +1,102 @@
-> *The following text is extracted and transformed from the nfldraftscout.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219031238id_/http%3A//www.nfldraftscout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfldraftscout.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625065300id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
-# NFL Draft Scout Rankings, From Prep to Pro Coverage for Pros by Pros - Powered by the Sports Xchange
+# CBS Interactive Privacy Policy Highlights
 
-  NFL Draft Scout has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: NFL Draft Scout 
+###  CBS Interactive Privacy Policy Highlights 
 
-**Privacy and Liability Policies**   
-NFL Draft Scout has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: NFL Draft Scout
+#### 
 
-NFL Draft Scout agrees not to knowingly divulge your e-mail address or other demographic information to third parties with the exception of an affiliate that was a party to a specific transaction. Your e-mail address submitted here will be used only to provide and improve upon this service. You agree that NFL Draft Scout, its affiliates, sponsors and advertisers are not liable for the acquisition of your address by third parties without the knowledge of NFL Draft Scout. 
-
-NFL Draft Scout agrees to take reasonable measures to protect your address and any other personal information. 
-
-By signing up for this service you agree that The Sports Xchange or any of its affiliates, sponsors and advertisers are not liable for any defects, lost profits, or any damages that may result from defects of any kind. 
-
-You further agree that you are the owner of the e-mail address which you are registering, or that you have the express permission of the owner to register that address with this service. You agree that as a sponsored service, messages sent to your specified email address by this service may contain advertisements. 
-
-**Cookies**   
-Our Site may use cookies to make sure you don't see the same ad repeatedly. As applicable, we may also use cookies to save your password so you don't have tore-enter it each time you visit our site. 
-
-**Order and Registration Forms**   
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).   
-Contact information from the order forms is used to deliver purchases, information about our company. 
-
-**External Links**   
-This site contains links to other sites. NFL Draft Scout is not responsible for the privacy practices or the content of such Web sites.
-
-**Public Forums**   
-This site may contain chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Data Quality/Access**   
-This site gives users the following options for changing and modifying information previously provided: 
-
+Note: The CBS Interactive Privacy Policy has been updated effective November 16, 2009. [Click here](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1285 "Click here") for more information about the updates.  
   
+---  
+| 
 
+**Scope of Privacy Policy**
+
+| 
+
+**Information Collected**  
+  
+---|---  
+  
+CBS Interactive owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Interactive Privacy Policy](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268 "CBS Interactive Privacy Policy") (collectively "CBS Interactive Web Sites"). This Privacy Policy, effective November 16, 2009, is guided by a core set of [Privacy Principles](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1266 "Privacy Principles") and applies only to the [CBS Interactive Web Sites](http://www.cbsinteractive.com/our_brands.php).
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full01Scope "Read more")
+
+| 
+
+We collect a variety of information about you, including:
+
+· Information you provide directly to a CBS Interactive Web Site.
+
+· Information about your computer and browsing activities on the Web Sites, including through [cookies, web beacons, and other technologies](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1267 "cookies, web beacons, and other technologies").
+
+· Information about you from other sources where permitted by law.
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full02Collection "Read more")  
+  
+**Use of Information**
+
+| 
+
+**Disclosure of Information**  
+  
+We use the information we collect to:
+
+· Provide the services you request.
+
+· Tell you about offers we think you will value.
+
+· Customize the content and advertising you see.
+
+· Improve your experience on CBS Interactive Web Sites.
+
+· As otherwise described to you at the point of collection or with your consent.
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full03Use "Read more")
+
+| 
+
+We may share your information:
+
+· Where we have obtained your consent.
+
+· With our third-party service providers.
+
+· With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Interactive Web Site.
+
+· Within the family of CBS Interactive Web Sites and other CBS businesses.
+
+· If a CBS Interactive Web Site is sold to another company.
+
+· To protect or defend the rights of CBS Interactive or our users.
+
+· When required by law or public authorities.
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full04Disclosure "Read more")  
+  
+**Your Choices**
+
+| 
+
+**Other Information**  
+  
+· If you choose to share contact information with us, you will have the opportunity to update that information.
+
+· You can stop the delivery of commercial email messages from a CBS Interactive Web Site or service by following the instructions in any such email you receive.
+
+· You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of [third-party online advertising](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272 "third-party online advertising").
+
+» [Read more](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268#Full05Choices "Read more")
+
+| 
+
+· CBS Interactive is committed to working with you to obtain a fair resolution of any privacy concern.
+
+· We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.
+
+· For more information about our privacy practices, please review the full [CBS Interactive Privacy Policy](http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1268 "CBS Interactive Privacy Policy").  
+  
+**How to Contact Us**  
+  
+If you have questions regarding the CBS Interactive Privacy Policy, please [contact us](http://cbsiprivacy.custhelp.com/app/ask).
