@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edesibabes.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055820id_/http%3A//edesibabes.com/privacy-policy-update) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edesibabes.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625131425id_/http%3A//edesibabes.com/privacy-policy-update) for the most accurate reproduction.*
 
 # Privacy Policy Update | Desi Babes, Pakistani Indian Girls Blog
 
@@ -60,8 +60,6 @@ If you wish to opt out of Advertising companies tracking and tailoring advertise
 
 Google uses the Doubleclick DART cookie to serve ads across it’s Adsense network and you can get further information regarding the DART cookie at [Doubleclick](http://www.doubleclick.com/privacy/faq.aspx) as well as opt out options at [Google’s Privacy Center](http://www.google.com/privacy_ads.html)
 
-[](http://earabgirls.com/)
-
 **Related Posts**
 
-If you like this post you might want to [**subscribe to the RSS feed**](http://feeds.feedburner.com/MensCrunch) for updates on this topic or want to receive [**latest updates in email**](http://feedburner.google.com/fb/a/mailverify?uri=MensCrunch).
+If you like this post you might want to [**subscribe to the RSS feed**](http://feeds.feedburner.com/eDesiBabesDotCom) for updates on this topic or want to receive [**latest updates in email**](http://feedburner.google.com/fb/a/mailverify?uri=eDesiBabesDotCom).
