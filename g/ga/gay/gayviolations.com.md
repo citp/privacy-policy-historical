@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayviolations.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019194504id_/http%3A//www.boyprofits.com/privacy/gayviolations) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayviolations.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625140048id_/http%3A//gayviolations.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
