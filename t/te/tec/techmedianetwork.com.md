@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmedianetwork.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224050824id_/http%3A//www.techmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmedianetwork.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625130142id_/http%3A//www.techmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TechMediaNetwork
 
@@ -67,7 +67,7 @@ TechMediaNetwork
 470 Park Avenue South, 9th Floor  
 New York, NY 10016  
 Fax: (212) 703-5801  
-[**Contact Us**](https://web.archive.org/web/20101224050824id_/http%3A//www.techmedianetwork.com/contact/advertising.html) ****
+[**Contact Us**](https://web.archive.org/web/20110625130142id_/http%3A//www.techmedianetwork.com/contact/advertising.html) ****
 
 **
 
