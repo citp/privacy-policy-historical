@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the transcriipts.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421075727id_/http%3A//www.transcriipts.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transcriipts.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626000842id_/http%3A//transcriipts.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Winter Layouts, Christmas Layouts, Myspace Layouts, 2.0 Layouts, Cute Layouts, Default Layouts, Page Graphics, Myspace Photography Graphics, Music Skins, Comment Buttons & more at Transcriipts.com
+
+  
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
