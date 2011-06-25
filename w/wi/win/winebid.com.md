@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winebid.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226082831id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winebid.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625134123id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # WineBid.com » Privacy Policy
 
