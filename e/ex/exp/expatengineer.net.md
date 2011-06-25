@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223172340id_/http%3A//www.expatengineer.net/jobs.nsf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625135136id_/http%3A//www.expatengineer.net/jobs.nsf/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Expat Engineering Jobs
 
