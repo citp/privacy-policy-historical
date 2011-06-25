@@ -1,63 +1,97 @@
-> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223104819id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625031211id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: SailPoint Home
 
-[](http://www.bizjournals.com/austin/stories/2010/05/17/daily68.html)
+Get Informed.
 
-Customer Successes
+Take the first step in identifying your priorities, conducting a side-by-side product analysis and finding a solution that suits your needs.  
+[Download your Buyer's Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG "Download Your Buyer's Guide")
 
-Identity Gets Smart
+Get Started.
 
-Mark McClain, CEO & Founder opens up to InformationWeek about identity governance. Watch the video »
+See IdentityIQ in action and how it can work for you.  
+[Request your one-on-  
+one demo today »](https://web.archive.org/company/request-demo.php "Request your one-on-one demo today")
 
-Identity Governance Buyer's Guide - 2nd Edition
+Get Support.
 
-[](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG)Contains tools to help you identify your priorities, conduct side-by-side product analysis and find a solution that suits your needs. [Download the Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG)
+Take advantage of SailPoint's helpful resource center with a collection of documentation on a range of today's hottest topics in identity management.  
+[Learn more »](https://web.archive.org/resources/ "Learn more")
 
-Stay Connected
+Get Informed.
 
-Subscribe to our quarterly newsletter.
+Take the first step in identifying your priorities, conducting a side-by-side product analysis and finding a solution that suits your needs.   
+[Download your Buyer's Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG "Download Your Buyer's Guide")
 
-[Subscribe »](https://web.archive.org/news/subscribe.php?offer=Newsletter%20Subscribe&source=web)
+Get Started.
 
-Get the latest news and views with SailPoint's podcast series, "The Identity Intelligence Insider"
+Make the most of SailPoint's online support system, Compass, to plan, pilot, implement and deploy SailPoint IdentityIQ across your entire organization.   
+[Log in now »](https://community.sailpoint.com/ "Log in now")
 
-[Listen »](http://sailpoint.libsyn.com/)  |  [Subscribe »](http://feeds.feedburner.com/sailpoint)
+Get Support.
 
-Subscribe
+SailPoint's customer support portal is available 24x7. Request an account today and get the help you need.   
+[Learn more »](https://web.archive.org/customers/client-login.php "Learn more")
 
-SailPoint's Identity Intelligence Insider is a monthly podcast series on hot topics in identity risk management.
+Get Informed.
 
-[Listen »](http://sailpoint.libsyn.com/rss)
+Take the first step in identifying your priorities, conducting a side-by-side product analysis and finding a solution that suits your needs.   
+[Download your Buyer's Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG "Download Your Buyer's Guide")
 
-CONTACT US
+Get Started.
 
-**Hours**  
-8:00AM - 6:00PM CST  
-Monday through Friday excluding holidays
+Learn more about how to become a SailPoint partner today.   
+[Contact us »](https://web.archive.org/partners/apply-today.php "Contact us")
 
-**Email**  
-[support@sailpoint.com](mailto:support@sailpoint.com)
+Get Support.
 
-**Phone**  
-(888) 4SAILPT  
-(888) 472-4578
+SailPoint partners can access the knowledgebase, training info and more on Compass.   
+[Request an account today »](https://web.archive.org/services/compass.php "Request an account today")
 
-"By using roles to request, approve and certify user access privileges, BNSF will be able to simplify its user administration and compliance processes. SailPoint IdentityIQ will allow us to enforce and verify role-based access across our critical enterprise applications using a streamlined, automated approach."
+Get Informed.
 
-**_Bart Boudreaux, Director, Technology Services, BNSF Railway_**
+On a deadline? Reach out to the SailPoint PR team. Contact Erin Hanley at [pr@sailpoint.com](mailto:pr@sailpoint.com) or 512-346-2000 ext. 32.  
+[Contact Us »](mailto:pr@sailpoint.com "Contact Us")
 
-"SailPoint helps us define the connection between user access, financial control and intellectual property protection. Their risk-aware approach focuses on the relative risks associated with user access within our business."
+Get Started.
 
-**_Russ Finney, Vice President of U.S. Information Systems operations for Tokyo Electron, U.S. Holdings_**
+Keep in touch with the latest news from SailPoint by subscribing to our quarterly newsletter.   
+[Subscribe today »](https://web.archive.org/news/subscribe.php?offer=Newsletter%20Subscribe&source=web "Subscribe today")
 
-"Businesses that are concerned with compliance mandates and ensuring the security and integrity of their IT systems cannot afford 12 to 18 month deployments. With IdentityIQ, organizations can gain immediate payback from automating key governance processes to better address business risk."
+Get Support.
 
-**_Kevin Cunningham, Co-Founder and President, SailPoint_**
+Contact us today and let us know how we can help you.  
+[Learn more »](mailto:pr@sailpoint.com "Learn more")
 
-"As a publicly-traded company and financial services provider, we are subject to a variety of regulations including FISMA, SOX, PCI, and SAS 70. To meet these requirements, we are standardizing and automating our compliance processes for identity management, so that we can centrally control who gets access to sensitive resources and maintain compliance as the organization changes over time. This centralized and automated approach allows us to proactively address risk and more efficiently maintain a compliant, secure environment."
+Get Informed.
 
-**_Jerry Archer, Chief Security Officer, Sallie Mae_**
+Keep in touch with the latest news from SailPoint by subscribing to our quarterly newsletter.  
+[Subscribe today »](https://web.archive.org/news/subscribe.php?offer=Newsletter%20Subscribe&source=web "Subscribe today")
+
+Get Started.
+
+Join one of the industry's fastest growing companies! Visit our Careers page to see available opportunities.  
+[Apply today »](https://web.archive.org/company/careers.php "Apply today")
+
+Get Support.
+
+Contact us today and let us know how we can help you.  
+[Learn more »](https://web.archive.org/company/request-info.php "Learn more")
+
+Get Support.
+
+Talk directly to a member of SailPoint's technical support team by calling: +1 (512) 346-2000 x 771.  
+[Get support »](https://web.archive.org/support/online-support.php "Get Support")
+
+Get Informed.
+
+Customers have access to user community discussions, the knowledgebase, training and documentation on Compass.   
+[Request an account today »](https://web.archive.org/customers/client-login.php "Request your account today")
+
+Get Started.
+
+Login to Compass, the online community portal, to access the support portal and get answers today.   
+[Log in now »](https://community.sailpoint.com/ "Log in now")
 
 | 
 
