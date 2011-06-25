@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rapportive.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127172319id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rapportive.com privacy policy that was archived on 2011-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625123404id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -10,33 +10,32 @@
     <link rel="icon" href="/images/favicon.png" type="image/png">
     <link rel="shortcut icon" href="/favicon.ico">
 
-    <link href="/stylesheets/website_screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+    <link href="/stylesheets/website_screen.css?1e47e752" media="screen, projection" rel="stylesheet" type="text/css">
     <!--[if IE]>
-      <link href="/stylesheets/website_ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/website_ie.css?40489adc" media="screen, projection" rel="stylesheet" type="text/css" />
     <![endif]-->
     <!--[if IE 7]>
-      <link href="/stylesheets/website_ie7.css" media="screen, projection" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/website_ie7.css?b84f4bfc" media="screen, projection" rel="stylesheet" type="text/css" />
     <![endif]-->
 
-    
-    <script src="/javascripts/jquery-1.4.2.js?1290782339" type="text/javascript"></script>
+    <script src="/javascripts/jquery-1.4.2.js?1308950680" type="text/javascript"></script>
 
-    
-    <script src="/javascripts/jquery.fancybox-1.3.1.js?1290782339" type="text/javascript"></script>
-    <link href="/stylesheets/jquery.fancybox-1.3.1.css" media="screen, projection" rel="stylesheet" type="text/css">
+    <script src="/javascripts/jquery.fancybox-1.3.1.js?1308950680" type="text/javascript"></script>
+    <link href="/stylesheets/jquery.fancybox-1.3.1.css?4a4d1d85" media="screen, projection" rel="stylesheet" type="text/css">
 
-    
-    <script src="/javascripts/browserDetect.js?1290782339" type="text/javascript"></script>
+    <script src="/javascripts/browserDetect.js?1308950680" type="text/javascript"></script>
 
-    
-    <script src="/javascripts/cufon-yui.js?1290782339" type="text/javascript"></script>
-    
-    <script src="/fonts/Aller_400.font.js?1290782339" type="text/javascript"></script>
-    <script src="/fonts/Aller-Lt_400.font.js?1290782339" type="text/javascript"></script>
+    <script src="/javascripts/cufon-yui.js?1308950680" type="text/javascript"></script>
+    <script src="/fonts/Aller_400.font.js?1308950680" type="text/javascript"></script>
+    <script src="/fonts/Aller-Lt_400.font.js?1308950680" type="text/javascript"></script>
 
     <script type="text/javascript">
       // common
       Cufon.replace('#nav' , { hover: true });
+      Cufon.replace('#final-call-to-action h2');
+      
+      // claim page
+      Cufon.replace('#claim h2, #claim h3');
       
       // about
       Cufon.replace('#about-page h2, #about-page h3, #about-page h4');
@@ -60,6 +59,12 @@
       // bookmarklet
       Cufon.replace('#bookmarklet-page h2, #bookmarklet-page h3, #bookmarklet-page h4');
 
+      // generic-page-with-sidebar
+      Cufon.replace('#generic-page-with-sidebar h2, #generic-page-with-sidebar h3, #generic-page-with-sidebar h4');
+
+      // generic page
+      Cufon.replace('.interior h2');
+      
       // jobs
       Cufon.replace('#jobs-page h4', { fontFamily: 'Aller' });
       Cufon.replace('#jobs-page h3');      
@@ -74,9 +79,7 @@
 
   <body id="privacy-page">
     <div id="header" class="content">
-  
     <h1><a href="/">Rapportive</a></h1>
-  
 
   <ul id="nav">
     <li class=""><a href="/buzz">Buzz</a></li>
@@ -88,13 +91,13 @@
 
   <div style="clear:both"></div>
 
-  
-  <ul id="sub-nav">
+    <ul id="sub-nav">
       <li><a href="#pledge">Our founding principles</a></li>
       <li><a href="#sources">Where we get data from</a></li>
       <li><a href="#handling">What we do with data</a></li>
       <li><a href="#disclosure">Sharing with third parties</a></li>
       <li><a href="#confidentiality">Confidentiality</a></li>
+      <li><a href="#authorizations">Authorizing other services</a></li>
       <li><a href="#tracking">Cookies &amp; tracking</a></li>
       <li><a href="#security">Security</a></li>
   </ul>
@@ -102,8 +105,6 @@
 </div>
 
     
-
-
 
     
 <div class="wt">
@@ -123,14 +124,13 @@
             <a href="mailto:supportive@rapportive.com">drop us an email</a>.</p>
         
             <p>Please note that this document may change from time to time, to clarify wording or to reflect new
-            features in Rapportive. However, the following principles will not change.</p>
+            features in Rapportive. However, the following principles will not change:</p>
         
             <ul>
               <li>Your trust is the most precious thing we have, and we will never betray you.</li>
               <li>We want you to be in control of your own information.</li>
-              <li>We clearly separate what is public and what is private.</li>
+              <li>Your private information remains absolutely confidential.</li>
               <li>We will be very transparent and explain clearly what we do with your information.</li>
-        
               <li>We will never spam you, and never allow others to spam you.</li>
             </ul>
           </div>
@@ -142,16 +142,25 @@
             <h4>Where does Rapportive get its data from?</h4>
         
             <p>We combine information from several sources; at the moment, these are
-            <a href="http://www.google.com/profiles">Google Profiles</a>,
+            <a href="http://academia.edu/" target="_blank">Academia.edu</a>,
+            <a href="https://bitbucket.org/" target="_blank">Bitbucket</a>,
+            <a href="http://www.crunchbase.com/" target="_blank">CrunchBase</a>,
+            <a href="http://econsultancy.com/" target="_blank">Econsultancy</a>,
+            <a href="http://www.facebook.com/" target="_blank">Facebook</a>,
+            <a href="http://www.flickr.com/" target="_blank">Flickr</a>,
+            <a href="https://github.com/" target="_blank">GitHub</a>,
+            <a href="http://www.google.com/profiles" target="_blank">Google Profiles</a>,
             <a href="http://gravatar.com" target="_blank">Gravatar</a>,
             <a href="http://www.linkedin.com" target="_blank">LinkedIn</a>,
             <a href="http://plancast.com" target="_blank">Plancast</a>,
+            <a href="http://posterous.com/" target="_blank">Posterous</a>,
             <a href="http://www.rapleaf.com" target="_blank">Rapleaf</a>,
-            <a href="http://www.stackoverflow.com" target="_blank">Stack Overflow</a> and
+            <a href="http://www.stackoverflow.com" target="_blank">Stack Overflow</a>,
+            <a href="http://www.tungle.me" target="_blank">Tungle.me</a> and
             <a href="http://twitter.com" target="_blank">Twitter</a>,
             as well as thousands of organisations' public websites.
-            In the future we will offer integration with many more data sources, both public (e.g. social networking sites) and
-            private (e.g. your address book and your CRM system).</p>
+            We also allow you to add more services to Rapportive; please see the
+            <a href="#authorizations">section on other services</a> for details.</p>
         
             <p>We make a clear distinction between:</p>
             <ul>
@@ -199,9 +208,9 @@
                 your profile on Rapportive is shown your updated profile. This enables you to take control of your
                 own information.</li>
         
-              <li>If you edit <strong>someone else's public profile</strong>, we will show the updated information
-                to you; we may then process the information to determine whether we should also show it to others.
-                This allows us to maintain a high quality of data.</li>
+              <li>If you edit <strong>someone else's public profile</strong>, your changes are kept private
+                to you, and you have the option of informing the owner of the profile about your changes.
+                Edits only become public if approved by the owner of the profile.</li>
             </ul>
         
             <p>Whenever you enter data, we will make clear what type it is. Independently of the types of data,
@@ -269,8 +278,51 @@
             Before you opt-in to a service which requires additional access, we will explain in clear words
             what we will do with your information, and you will have a clear choice whether you want to allow it.</p>
           </div>
-        
-        
+
+
+          <div id="authorizations" class="scrolling-document-section">
+            <h3>Authorizing access to other services</h3>
+
+            <h4>Authorizations managed by Rapportive</h4>
+
+            <p>Rapportive offers you the option to connect your accounts on other services (for example,
+            Facebook or LinkedIn) to your Rapportive account. We will use your authorization to search
+            for information about people you look up, and present this information to you in Rapportive.
+            This gives you better information quality and coverage than publicly available information
+            alone.
+
+            </p><p>If your authorization gives Rapportive access to sensitive information that is not
+            otherwise publicly available, we promise to treat that information with the same care as
+            all your other private information. We will not make it available to anyone else, unless
+            you explicitly ask us to.</p>
+
+            <p>Some authorizations enable you to take actions directly within Rapportive (e.g. sending
+            an invitation to a contact). You are in full control of any such actions, and you can edit
+            any text they contain.</p>
+
+            <p>We will not take any action on your behalf without your permission. For example, we will
+            not post any messages from your account, nor will we change any of your profile information
+            on other services.</p>
+
+            <h4>Third-party Raplets</h4>
+
+            <p>Rapportive also allows you to add third-party components, called "Raplets", to your account.
+            Raplets may be used to fetch information from external systems, such as your CRM software,
+            and may also be used to update information in those systems.</p>
+
+            <p>Raplets may execute JavaScript code within Rapportive. This allows them to provide rich
+            interaction, but also requires a high degree of trust. We therefore ask you to take care,
+            and only add Raplets from services you trust. Rapportive displays a warning and asks for your
+            confirmation before activating any third-party Raplet.</p>
+
+            <p>Raplets that are advertised by us have been reviewed and are safe to the best of our
+            knowledge. However, because Raplets are developed by third parties and hosted outside of
+            Rapportive, we can't make any guarantees.</p>
+
+            <p>When you remove a Raplet from Rapportive it ceases to have access to your account.</p>
+          </div>
+
+
           <div id="tracking" class="scrolling-document-section">
         
             <h3>Cookies &amp; tracking</h3>
@@ -280,7 +332,11 @@
             <p>Like almost all websites today, Rapportive uses cookies to determine whether you are logged in
             on your computer. Because of the nature of Rapportive's service, this cookie identifies you
             personally; without this identification, we would not be able to provide the Rapportive service.</p>
-        
+
+            <p>Rapportive keeps your cookies strictly confidential. In order to prevent your private information
+            from leaking to other websites, we do not set any cookies outside of the <tt>rapportive.com</tt>
+            domain. In particular, we do not participate in any schemes related to personalized advertising.</p>
+
             <h4>Does Rapportive track what I do?</h4>
         
             <p>We never see anything else you do on the web outside of your email.</p>
@@ -406,12 +462,14 @@
   </div>
 </div>
 
+
     <div class="ex-dk">
   <div id="footer" class="content">
     <ul>
       <li><h5>Product</h5>
         <ul>
           <li><a href="/buzz">Buzz</a></li>
+          <li><a href="http://code.rapportive.com/">API</a></li>
         </ul>
       </li>
       <li><h5>Company</h5>
@@ -426,7 +484,7 @@
         <ul>
           <li><a href="/help">Help</a></li>
           <li><a href="/contact">Contact</a></li>
-          <li><a href="https://rapportive.uservoice.com/" class="feedback-link" onclick="if (rapportiveLogger) { rapportiveLogger.track('Feedback link clicked'); } return true;" target="_blank">Feedback Forum</a></li>
+          <li><a href="https://rapportive.uservoice.com/" class="text-link" onclick="if (rapportiveLogger) { rapportiveLogger.track('Feedback link clicked'); } return true;" target="_blank">Feedback Forum</a></li>
         </ul>
       </li>
     </ul>
@@ -435,14 +493,12 @@
   </div>
 </div>
 
-    <script type="text/javascript">
+<script type="text/javascript">
 //<![CDATA[
-
       Cufon.now();
-    
+
 //]]>
 </script>
-
             <script type="text/javascript">
           var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
           document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
