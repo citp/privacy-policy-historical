@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219102838id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625065300id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
 # CBS Interactive Privacy Policy Highlights
 
