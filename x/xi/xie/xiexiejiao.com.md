@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xiexiejiao.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233731id_/http%3A//www.xiexiejiao.com/seo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiexiejiao.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625185902id_/http%3A//www.xiexiejiao.com/seo-privacy-policy) for the most accurate reproduction.*
 
-# SEO,SEM,Internet Marketing Privacy Policy - - SEO,SEM,Internet Marketing
+# Site:www.xiexiejiao.com - SEO,SEM,Internet Marketing Privacy Policy - SEO,SEM,Internet Marketing
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
