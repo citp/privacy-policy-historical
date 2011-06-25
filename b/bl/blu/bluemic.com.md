@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bluemic.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229091436id_/http%3A//www.bluemic.com/salesandsupport/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemic.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625053408id_/http%3A//www.bluemic.com/salesandsupport/privacy.html) for the most accurate reproduction.*
 
 # Blue Microphones | Privacy Policy
-
-Website navigation requires Flash. Please use a Flash-enabled browser or [Use Sitemap](http://www.bluemic.com/sitemap.html)
 
    
 Effective October 31, 2008
