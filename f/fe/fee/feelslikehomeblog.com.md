@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feelslikehomeblog.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090226id_/http%3A//www.feelslikehomeblog.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feelslikehomeblog.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625194255id_/http%3A//www.feelslikehomeblog.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | food, recipes, tutorials,
+# Privacy Policy | food, recipes, tutorials
 
 Like most website operators, Feels Like Home collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. My purpose in collecting non-personally identifying information is to better understand how you use this website. From time to time, I may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of this website.
 
