@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216004810id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625093953id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
 
 # PokerStars Security - PokerStars Privacy Policy - Secure Online Poker
 
