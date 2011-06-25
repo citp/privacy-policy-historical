@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207045556id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625060815id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,7 @@
 
 Check out [the DG homepage](https://web.archive.org/) for a brief overview of what you'll find in this gardening mega-site.
 
+  
 | 
 
 Privacy Statement
