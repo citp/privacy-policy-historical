@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231220119id_/http%3A//www.exacttarget.com/company/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exacttarget.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625220832id_/http%3A//www.exacttarget.com/company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ExactTarget.com
 
@@ -170,7 +170,9 @@ We are committed to following the Safe Harbor Principles for all personal inform
 
 ### Contact Information
 
-For further information, please contact us.ExactTarget, Inc.  
+For further information, please contact us.
+
+ExactTarget, Inc.  
 20 North Meridian Street  
 Suite 200  
 Indianapolis, Indiana 46204  
