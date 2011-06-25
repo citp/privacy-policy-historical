@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music-boom.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220121026id_/http%3A//www.music-boom.com/en/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music-boom.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625235511id_/http%3A//www.music-boom.com/en/pp.html) for the most accurate reproduction.*
 
 # Music Boom | Privacy Policy
 
