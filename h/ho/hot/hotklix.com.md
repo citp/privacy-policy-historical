@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotklix.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805235209id_/http%3A//www.hotklix.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotklix.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625093354id_/http%3A//www.hotklix.com/privacy_policy) for the most accurate reproduction.*
 
-# All about Entertainment, News, Lifestyle, Fun, Sports and Gaming at Hotklix.com.
+# Privacy Policy | Hotklix
 
 Hotklix located at [http://hotklix.com](http://hotklix.com/) is a website of Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. 
 
