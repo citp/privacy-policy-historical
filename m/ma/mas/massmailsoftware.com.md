@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massmailsoftware.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219121908id_/http%3A//www.massmailsoftware.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmailsoftware.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626010621id_/http%3A//www.massmailsoftware.com/pp) for the most accurate reproduction.*
 
 # Privacy policy of visitors and customers of email marketing software and services from AtomPark Software
 
