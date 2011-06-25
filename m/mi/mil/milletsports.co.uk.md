@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milletsports.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231103143id_/http%3A//www.milletsports.co.uk/about/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milletsports.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625203123id_/http%3A//www.milletsports.co.uk/about/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy policy – Millet Sports
 
@@ -31,8 +31,6 @@ We may contact you using any of the information you have provided us, such as by
 
 We may also collect data (user information) on your browsing habits whilst on our site (such as the URL or advert you came from, the geographical area of your computer, the pages you browsed and the search terms you entered whilst on our Website). This is common when shopping online and allows us to improve our Website, your user experience and our quality of service. We will collect this information as a matter of course for all users who access our Website whether they are registered with us or not.
 
-Like most other shopping sites, we use cookies to keep track of your current session on our Website and to enable you store items in your shopping basket whilst you are on the site. A cookie is a small piece of data that a website sends to your browser, which may then store it on your system. Your browser will normally give you the option whether to accept or reject cookies, but please note that if your browser is set to reject them then you will be unable to shop on our Website.
-
 We may disclose your personal information to reputable third parties (such as payment processing companies or couriers) who help to process and fulfil your order. We require that these companies treat your personal information as confidential and comply fully with current UK consumer and Data Protection legislation. Aside from this, we will not pass on your personal information to any third parties unless you give us your permission to do so.
 
 If the police or any other regulatory or government authority requests your personal or user information in relation to an investigation into suspected illegal activities, then we may be obliged to provide it to them.
@@ -48,3 +46,11 @@ Millet Sports
 London
 
 NW9 0HD
+
+Like most shopping sites, we use cookies to keep track of your current session on our Website and to enable you store items in your shopping basket whilst you are on the site. A cookie is a small text file that a website sends to your browser, which may then store it on your system. Most browsers are set to accept cookies by default, but you do not have to accept cookies and your browser will give you the option of whether to accept or reject them.
+
+We use cookies to store items in your basket and so if your browser is set to reject cookies you will be unable to shop on our Website, however you will still be able to browse our product and information pages.
+
+Cookies do not store any personal information, but allow us to understand when you visit our Website, how you use it and what products and services you might be interested in. This enables us to personalise the content you see on the Website so that we show you things that are most relevant to you and also to test changes to the Website to improve your online experience.
+
+We are constantly working to improve our Website and the experience that our customers have when they visit it and we work with trusted partners who use cookies to enable us to show you products or services that we think may be relevant to you based on previous purchases or browsing behaviour. If you leave our Website to visit certain selected third party websites we can also provide adverts and offers related to products that you have recently viewed or might be interested in. To do this, we work with partners who are members of the Network Advertising Initiative (NAI) and for more information on this or to opt out of seeing our ads on third party sites [click here](http://www.networkadvertising.org/managing/opt_out.asp).
