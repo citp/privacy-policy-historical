@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ondeckcapital.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106120723id_/http%3A//www.ondeckcapital.com/our-customers/customer-bill-of-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondeckcapital.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625072807id_/http%3A//www.ondeckcapital.com/our-customers/customer-bill-of-rights) for the most accurate reproduction.*
 
 # Business Financing Loans from On Deck Capital
 
