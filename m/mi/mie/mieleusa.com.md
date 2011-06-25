@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mieleusa.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115075137id_/http%3A//www.mieleusa.com/privacy.asp%3Fnav%3D5%26snav%3D5%26tnav%3D5%26oT%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mieleusa.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625163254id_/http%3A//www.mieleusa.com/privacy.asp%3Factive%3DThe%2520Company%26subm%3DUSA%26thirdL%3DPrivacy%2520Policy%26oT%3D33) for the most accurate reproduction.*
 
 # Miele, Inc.: Your Privacy
 
