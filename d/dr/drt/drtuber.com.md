@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drtuber.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225115245id_/http%3A//www.drtuber.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drtuber.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625084433id_/http%3A//www.drtuber.com/static/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ DrTuber also uses cookies and/or web beacons. (A cookie is a small amount of dat
 
 We may use cookies or web beacons to: (1) determine whether visitors to the Site are unique, or whether the same user is visiting the site on multiple occassions; (2) help deliver advertisements; (3) track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) store your agreement to the terms and conditions for entering and using the Site; (5) monitor aggregate metrics such as total number of visitors, pages viewed, etc.
 
-These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. DrTuber does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the DrTuber [Terms of Service](https://web.archive.org/web/20101225115245id_/http%3A//www.drtuber.com/static/static/terms), in the event of a dispute between DrTuber and you, or if required by law to do so.
+These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. DrTuber does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the DrTuber [Terms of Service](https://web.archive.org/web/20110625084433id_/http%3A//www.drtuber.com/static/static/terms), in the event of a dispute between DrTuber and you, or if required by law to do so.
 
 Content You Submit to or Post on the Site 
 
@@ -40,7 +40,7 @@ Protecting the privacy of young children is important to us. We do not knowingly
 
 Permitted Disclosures of Personal Information 
 
-DrTuber generally does not collect personally identifiable information (data such as your name, email address, password, and the content of your communications) unless you submit User Content for posting on the Site. DrTuber will not disclose any personally identifiable information it collects or obtains except: (1) as described in the DrTuber [Terms of Service](https://web.archive.org/web/20101225115245id_/http%3A//www.drtuber.com/static/static/terms) or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if DrTuber is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); (4) as required to protect DrTuber's property, safety, or operations, or the property or safety of others; or (5) as otherwise required by law.
+DrTuber generally does not collect personally identifiable information (data such as your name, email address, password, and the content of your communications) unless you submit User Content for posting on the Site. DrTuber will not disclose any personally identifiable information it collects or obtains except: (1) as described in the DrTuber [Terms of Service](https://web.archive.org/web/20110625084433id_/http%3A//www.drtuber.com/static/static/terms) or this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if DrTuber is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); (4) as required to protect DrTuber's property, safety, or operations, or the property or safety of others; or (5) as otherwise required by law.
 
 Security 
 
