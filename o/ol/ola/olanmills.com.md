@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216045020id_/http%3A//www.olanmills.com/about-us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625180641id_/http%3A//www.olanmills.com/about-us/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Olan Mills Studio Portraits - Olan Mills Portrait Studios
 
@@ -52,8 +52,6 @@ All credit card information you provide stays with olanmills.com in encrypted fi
 We always use industry-standard encryption technologies when transferring and receiving customer data exchanged with our online store. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 However, Olan Mills cautions visitors to its websites that no network, including the Internet, is entirely secure. Accordingly, we cannot be responsible for loss, corruption or unauthorized acquisition of personal information provided to our websites, or for any damages resulting from such loss, corruption or unauthorized acquisition.
-
-****
 
 **Special Note for Parents**
 
