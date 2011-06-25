@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notcouture.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190742id_/http%3A//www.notcot.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notcouture.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625103529id_/http%3A//www.notcot.com/about/privacy) for the most accurate reproduction.*
 
 # About NOTCOT: privacy policy
 
