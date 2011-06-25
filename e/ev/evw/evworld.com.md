@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222034916id_/http%3A//evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625054344id_/http%3A//evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # EV WORLD: The World of Sustainable Transportation
 
@@ -28,6 +28,9 @@ At any time, you have the ability to opt-out of receiving communications from EV
 
 **Special Relationships**  
 EV World may enter into special relationships to offer a broader array of services to our users. On occasions when we may partner with other service providers to bring you more information services. We do not host these pages on our own servers. In these instances, information may be collected but it is being collected by the partner and not by EV World. EV World may receive information from these partners, only when it is clearly stated. Unless you give explicit permission, EV World has a strict policy against sharing or selling your personal information and only aggregated (and not individual) data is used by EV World. 
+
+**Third Party Advertisers**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **IP Address Logging**  
 EV World logs IP addresses (your unique Internet address) for system administration purposes. IP addresses are logged to give us an idea of which parts of our site users are visiting so that we can update and improve the services we offer to you. We do not link IP addresses to any information that could personally identify you. This means that the path of your EV World session will be tracked, but you will remain anonymous. 
