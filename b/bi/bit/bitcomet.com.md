@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitcomet.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217045647id_/http%3A//www.bitcomet.com/doc/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcomet.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625230610id_/http%3A//www.bitcomet.com/doc/privacy-policy.php) for the most accurate reproduction.*
 
-# BitComet Website Privacy Policy - A free C++ BitTorrent/HTTP/FTP Download Client
+# BitComet - A free C++ BitTorrent/HTTP/FTP Download Client
 
 BitComet official site and its affiliate sites are committed to respecting the privacy rights and concerns of all users of our Sites and Services. As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. 
 
