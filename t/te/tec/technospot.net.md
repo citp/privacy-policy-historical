@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010353id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625201908id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,10 +9,11 @@ Technospot.Net value our readers and visitors privacy. However for maintaining s
 ### Privacy Policy:
 
   * We use analytical tool such as Google Analytics, 103bees to understand where our customers and visitors are coming from. In this we collect information such as IP Addresses and Operating system used. However these data are not shared with a third party and strictly kept for increasing the performance of website.
-  * The site is hosted at asmallorange.com ( hosting company) but no data is shared with them either.
+  * The site is hosted at wiredtree.com ( hosting company) but no data is shared with them either.
   * The site uses a blogging software called as WordPress which stores a small amount of information in users computer when he or she comments. This is of very small size and no way is a malware or script which hacks a computer for information.
   * You are free to read and utilize the resource available here but now allowed to copy the content. Read more on our Copyright Policy.
-  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+  * In addition to the above point, we also request you to visit [](http://www.networkadvertising.org/managing/opt_out.asp)the [NAI universal user opt-out](http://www.networkadvertising.org/managing/opt_out.asp) which allows you to choose advertisers from whom you want to opt out. This will set a cookie in you browser. However if you clear your cookies make sure you visit this again to opt-out.
 
 
 
@@ -37,4 +38,4 @@ We are open to all kinds of comment a reader want to make till he is not dis-res
 
 **About Technospot.Net**
 
-An impressive and easy to understand website which brings you productive applications, online tools, Windows and helps you better understand how you can use your computer, mobile and internet in a right way. 
+An impressive and easy to understand website which brings you productive applications, online tools, Windows and helps you better understand how you can use your computer, mobile and internet in a right way.
