@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516030446id_/http%3A//thecelebritycafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecelebritycafe.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625060519id_/http%3A//thecelebritycafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheCelebrityCafe.com
 
@@ -74,6 +74,8 @@ or recognize a unique cookie on your browser and may use information
 about your visits to the TheCelebrityCafe.com site and other web sites  
 in order to provide advertisements about goods and services of interest  
 to you.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
 Please be aware that when you provide personal information to  
 TheCelebrityCafe.com and authorize TheCelebrityCafe.com to share the  
