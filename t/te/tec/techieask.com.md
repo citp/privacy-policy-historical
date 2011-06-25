@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techieask.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010112id_/http%3A//www.techieask.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techieask.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625194006id_/http%3A//www.techieask.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | TechieAsk
 
@@ -41,8 +41,10 @@ When users log-in to their TechieAsk.com account, our servers may automatically 
 
 ### External Links, Content and Third-Party Advertising
 
-TechieAsk.com is not responsible for the content of external sites, nor are external sites to which links are provided herein necessarily endorsed by TechieAsk.com. Recommended Links and links to merchant affiliates are provided as additional resources for our visitors, and at the time of review seemed to be suitable. We cannot assure that all the links found on TechieAsk.com are safe to use, if you are experiencing any difficulties with such links please contact us at [webmaster@techieask.com](https://web.archive.org/web/20101226010112id_/http://www.techieask.com/privacy-policy/webmaster@celebrityask.com).
+TechieAsk.com is not responsible for the content of external sites, nor are external sites to which links are provided herein necessarily endorsed by TechieAsk.com. Recommended Links and links to merchant affiliates are provided as additional resources for our visitors, and at the time of review seemed to be suitable. We cannot assure that all the links found on TechieAsk.com are safe to use, if you are experiencing any difficulties with such links please contact us at [webmaster@techieask.com](https://web.archive.org/web/20110625194006id_/http://www.techieask.com/privacy-policy/webmaster@celebrityask.com).
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 One of our third-party advertiser include Google.Google uses DART technology, use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+Rating: 0.0/ **10** (0 votes cast)
