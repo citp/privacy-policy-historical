@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625063425id_/http%3A//om4.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625152542id_/http%3A//om4.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Your privacy is important to us. As we are using the WordPress software platform to provide our services, we have adopted the same privacy principles used by Wordpress.com (these are the principles implemented in the software, and they are good ones).
+Your privacy is important to us. As we are using the WordPress software platform to provide our services, we have adopted the same privacy principles used by WordPress.com (these are the principles implemented in the software, and they are good ones).
 
 Our privacy principles are:
 
