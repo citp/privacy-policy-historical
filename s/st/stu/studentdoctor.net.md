@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226005939id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625194408id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
 # Student Doctor Network | Privacy Statement
 
@@ -6,13 +6,9 @@
 
 **Privacy Statement**
 
-**Last Updated 4/08/2009**
+**Last Updated 01/11/2011**
 
-Coastal Research Group is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.studentdoctor.net. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact the SDN Executive Director, Lee Burnett at <http://studentdoctor.net/contact-us/>
-
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+Coastal Research Group has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact the SDN Executive Director, Lee Burnett at <http://studentdoctor.net/contact-us/>.  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 The Coastal Research Group is the sole owner of the information collected on The Student Doctor Network. The Student Doctor Network collects personally identifiable information from our users at several different points on our Web site.
 
@@ -26,7 +22,7 @@ Protecting the privacy of young children is important to us. We do not knowingly
 
 **SDN Bookstore**
 
-When you choose to purchase products or view our SDN Bookstore, you will be taken to www.amazon.com. We are a member of their affiliate program. All information colleted on this site is governed by Amazon.com’s privacy statement:
+When you choose to purchase products or view our SDN Bookstore, you will be taken to www.amazon.com. We are a member of their affiliate program. All information collected on this site is governed by Amazon.com’s privacy statement:
 
 <http://www.amazon.com/gp/help/customer/display.html?nodeId=468496>
 
@@ -130,6 +126,8 @@ Some of the ads appearing on this Web site are delivered to users by Google, our
 This Web site contains links to other sites that are not owned or controlled by The Coastal Research Group such as Amazon.com and PayPal.com. Please be aware that we, The Coastal Research Group, are not responsible for the privacy practices of such other sites.  
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
+Links from this site are monetized through [VigLink.com](http://www.viglink.com/policies/ftc).  VigLink may receive and store certain personally non-identifiable information such as IP addresses, browser types, domain names, and other anonymous statistical data involving your use of the Site, the Software and/or the Services.  To opt-out, go to: <http://www.viglink.com/support/optout>
+
 This privacy statement applies only to information collected by this Web site.
 
 **Forums and Chat Rooms**
@@ -161,8 +159,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Student Doctor Network  
-16835 Algonquin Street #380  
-Huntington Beach, CA 92649
+26 Pinecrest Plaza #262  
+Southern Pines, NC 28387
 
 Or use our contact form at: [](http://studentdoctor.net/contact-us/)
 
