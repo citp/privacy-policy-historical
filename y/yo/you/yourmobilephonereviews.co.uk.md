@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourmobilephonereviews.co.uk privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207042934id_/http%3A//www.yourmobilephonereviews.co.uk/your_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmobilephonereviews.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625155343id_/http%3A//www.yourmobilephonereviews.co.uk/your_privacy.htm) for the most accurate reproduction.*
 
 # Your Mobile Phone Reviews UK : Your Privacy
 
@@ -27,7 +27,7 @@ _We reserve the right to update & change our privacy policy at any point. Any am
 
 * * *
 
-[Home](https://web.archive.org/)  |  [Webmasters](https://web.archive.org/web/20101207042934id_/http%3A//www.yourmobilephonereviews.co.uk/webmasters.htm)  |  [Your Privacy](https://web.archive.org/web/20101207042934id_/http%3A//www.yourmobilephonereviews.co.uk/your_privacy.htm)  |  [Our Legal Disclaimer](https://web.archive.org/web/20101207042934id_/http%3A//www.yourmobilephonereviews.co.uk/legal_disclaimer.htm)   
-© 2006 - 2010, Your Mobile Phone Reviews UK Limited 
+[Home](https://web.archive.org/)  |  [Sitemap](https://web.archive.org/web/20110625155343id_/http%3A//www.yourmobilephonereviews.co.uk/sitemap.htm)  |  [Your Privacy](https://web.archive.org/web/20110625155343id_/http%3A//www.yourmobilephonereviews.co.uk/your_privacy.htm)  |  [Our Legal Disclaimer](https://web.archive.org/web/20110625155343id_/http%3A//www.yourmobilephonereviews.co.uk/legal_disclaimer.htm)   
+© 2006 - 2011, Your Mobile Phone Reviews UK Limited 
 
 [](https://web.archive.org/)
