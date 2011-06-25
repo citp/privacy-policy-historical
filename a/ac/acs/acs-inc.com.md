@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920194052id_/http%3A//www.acs-inc.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625053121id_/http%3A//www.acs-inc.com/acs-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Affiliated Computer Services: ACS Privacy Policy
+# ACS Privacy Policy | ACS
 
 **General** This Privacy Statement (“Statement”) describes the online privacy practices for ACS websites maintained by Affiliated Computer Services, Inc. and its subsidiaries (“ACS”). It also describes our privacy practices related to certain personal information that ACS receives in the United States from the European Union and Switzerland (see the “Safe Harbor” section below).
 
