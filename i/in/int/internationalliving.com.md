@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130205046id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625203343id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – International Living
+# Privacy Policy – International Living - Since 1979
 
 We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose personal information about you as an individual user, but please note that the Internet as a whole is not a secure forum. Exercise caution whenever disclosing information on any website.
 
-The information you provide is captured and processed on our behalf by our parent company, Agora Inc. Agora Inc. is based in Baltimore, Md. The U.S. has no comprehensive data protection law; however, Agora Inc. offers the same level of protection for your information, including the security of the database on which your information is stored and the privacy of your information, that we offer in Ireland.
+The information you provide is captured and processed on our behalf by our parent company, Agora Inc. Agora Inc. is based in Baltimore, MD. The U.S. has no comprehensive data protection law; however, Agora Inc. offers the same level of protection for your information, including the security of the database on which your information is stored and the privacy of your information, that we offer in Ireland.
 
 Personal information will not be shared at any time without your permission and we will only collect this information on a voluntary basis. If you volunteer your personal information, we may use it to send you special offers or to contact you with answers to any questions or concerns that you may have. Users may, however, choose to subscribe to a service in order to receive future offers and information from International Living.
 
@@ -14,4 +14,12 @@ We reserve the right to use, without identifying you, any questions, comments, o
 
 By using InternationalLiving.com, you have agreed to accept our privacy policy. We reserve the right to change or modify InternationalLiving.com and its policies at any time. Any changes to our policy will be set out on this page. By continuing to use the website, you have agreed to any changes that have been made.
 
-If you have any questions or concerns about the InternationalLiving.com privacy policy, or if you believe that International Living has sent you unsolicited commercial e-mail (spam), please e-mail [customerservice@InternationalLiving.com](mailto:customerservice@internationalliving.com).
+If you have any questions or concerns about the InternationalLiving.com privacy policy, or if you believe that International Living has sent you unsolicited commercial e-mail (spam), please contact us: <http://internationalliving.com/customer-service/ilv-and-products/>.
+
+**How to opt out of receiving email from us**
+
+If you no longer wish to receive emails from us simply click on the unsubscribe link included in every email. Alternatively you can send an [unsubscribe request here ](http://internationalliving.com/customer-service/ilv-and-products/)and select “unsubscribe from IL postcards”.
+
+**How to cancel your _International Living_ Magazine subscription**
+
+If you wish to cancel your International Living Magazine subscription, please contact us at [http://internationalliving.com/customer-service/ilv-and-products/ ](http://internationalliving.com/customer-service/ilv-and-products/)or call 1-800-681-2402 or (toll free from the US and Canada) or +630 236-4621 (international). We will promptly refund you for all unmailed issue. And no matter what, all of the free INTERNATIONAL LIVING reports are yours to keep.
