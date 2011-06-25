@@ -1,87 +1,63 @@
-> *The following text is extracted and transformed from the dailygrommet.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628091302id_/http%3A//www.dailygrommet.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygrommet.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625204645id_/http%3A//www.dailygrommet.com/products/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Daily Grommet
+# Privacy
 
-_Date of Policy: October 15, 2008_
+Last updated April 23, 2010
 
-Daily Grommet is concerned about protecting your personal information online, and we set forth this policy with this in mind – we won’t do anything that we wouldn’t want anyone else to do with our own personal information. In this section, we’ll describe our policies for collection and use of information at www.dailygrommet.com. Please review these policies for your own comfort, and proceed to use the site if you agree with the terms. By virtue of using the site, you are agreeing with our policies and terms. 
+## What This Privacy Policy Covers
 
-We reserve the right to modify this policy in the future, although we don’t foresee the need for that at present. Any updates will be posted on this page, and we suggest that you visit this page on occasion to ensure you are comfortable with our policies. We’ll date the policy so that you can know when this was last updated. 
+Daily Grommet values your privacy. This notice describes what information we collect, how we use it, and, if necessary, those with whom we share it. **By visiting Daily Grommet, you are accepting the practices described in this Privacy Policy.** Your use of the Website is also subject to our Terms of Use, available at [Terms of Use](https://web.archive.org/products/terms-of-use).
 
-##  Data We Collect 
+## Types of Information Gathered
 
-Here is what we collect on our site: primarily information that is not identifiable to any one individual. For example, when guests visit our site, we keep track of pages were visited, in what order, where the guest went to next – all this information is aggregated and then we use it to tell us which of our pages are interesting to our guests and which ones are not. To get a little technical, we collect the IP addresses, operating system and browser software for the guests, and we use ‘cookies’ to track non-personally identifiable information regarding you. Cookies make it possible for us to recognize your browser when you visit dailygrommet.com and then makes it possible for you to visit various pages on our site without having to log in multiple times. Ultimately this saves you time and allows us to personalize your experience on Daily Grommet. To make this possible, you have to set your browser to accept cookies. 
+The information we learn from customers helps personalize and continually improve your shopping experience at Daily Grommet. Here are the types of information we gather: 
 
-We also collect personally identifiable information. In general, our site uses an order form, an email sign up form and the registration form so that you can actively participate in discussions about our daily offering. These forms require that you provide us with personally identifiable information (such as your name, email address, physical address, telephone number, and credit card number (for purchases only)). 
-
-Further, when you use the site to purchase a product or service as a gift we will collect from you personally identifiable information regarding the gift recipient or potential gift recipient. 
-
-##  How we use the information: Non-personally identifiable information 
-
-The non-personally identifiable information that we collect at Daily Grommet will be used to help us improve our site performance. We’ll use IP addresses and the pages that customers visit on our site to give us some insight into broad site traffic patterns and trends, and that will help us better design and operate our site for improved customer experience. We may also aggregate the statistical data about usage and trends and share this with business partners to help improve their services and products that we use and offer to our customers. 
-
-##  How we use the information: Personally identifiable information 
-
-The personally identifiable information collected from you while you are making purchases will be used to ship product to you, to contact you about your orders and when needed, to check with you regarding your satisfaction about your Daily Grommet experience, to ask for your input on ways that we can better serve you and products and services that you may want, to provide you with service changes and updates. The financial information that you provide (your credit card information, etc.) will be used to charge you for your purchases. 
-
-We will not share your email address with other parties. On occasion, we may contact you with an offer from another party, but only if we think that the offer would be of some interest to you. 
-
-## Gift Recipients
-
-In the same way that we will use your personally identifiable information to ship products to you, we will collect some information – mainly the shipping address – about people to whom you send a Grommet. Same terms apply to these contacts – we will not share these email addresses with other parties but may contact them with offers from other parties, again only if we think that the offer might be of some interest to them. 
-
-## Third Party Providers
-
-We have a number of external companies, third parties, who work with us to help us do what we do. This includes a third party logistics operator, a software development firm that develops our website, financial service providers who enable the funds flows, among others. These parties have access to some of the personally identifiable information as needed for them to carry out their role in providing services and products to you – such as shipping the products to you, billing your credit card, etc. 
-
-Additionally, we may choose to work with some third parties to help us analyze our business operations and marketing. As needed, we may share some information with them and will require that they treat this information in the same way that we do. As it is with many things in life, we cannot be held responsible for the business practices or privacy policies of our partners. 
-
-## Purchase of Company, Ownership Change
-
-In the event that Daily Grommet or a significant part of Daily Grommet is sold to another organization, the acquiring organization may assume control of Daily Grommet customer and financial information. 
-
-## Other Sharing
-
-Subject to applicable law, Daily Grommet reserves the right to release information regarding any site visitor where the visitor is believed to be in violation of his or her obligations to us, and where the visitor is participating (or is suspected of participating) in any illegal activity. Daily Grommet further reserves the right to release information in response to discovery requests and civil subpoenas, to protect the interests of Daily Grommet, our customers or others, and as otherwise permitted or required by law. 
-
-## Links Outside of Daily Grommet
-
-The Daily Grommet site, applications, and communications will frequently include links to other websites that will often not be Daily Grommet sites. Daily Grommet is not responsible for any of the practices (privacy, data collection and use) associated with sites outside of Daily Grommet. You may be best served to review the privacy practices and policies of these sites. 
-
-## Information Security
-
-In order to protect against the loss, misuse or modification of personally identifiable information within our control, Daily Grommet will use reasonable security measures to serve that end. Users must recognize that it is impossible to guarantee 100% security when transmitting data over the Internet, so users provide all information at their own risk. 
-
-## Onsite Communications and Posts
-
-Daily Grommet reserves the right to delete, revise or refuse any comments or contributions that we consider to be offensive, spam, or not relevant to the discussion. Daily Grommet is not responsible for user-submitted content although we intend to monitor this and remove contributions as noted above. 
-
-In making posts, we ask that our visitors: 
-
-  * not post personal information (addresses, phone numbers, etc.),
-  * not post advertising (or thinly-veiled advertising),
-  * not post fabricated reviews (good or bad) of products you have not experienced yourself, and
-  * not post anything that is not suitable for a general population, including kids. No need to use foul language, or innuendo, there are plenty of other places for this, but not at Daily Grommet.
+  * Information You Give Us. You provide information when you search, watch, buy, post, participate in a contest, subscribe to Grommet email, suggest a potential Grommet, or communicate with customer service. As a result of those actions, you might supply us with such personally identifiable information as your name, address, and phone number(s); email address(es); credit card information; and content of your comments about or opinions of Grommets. We use the information that you provide for such purposes as responding to your requests, processing your order, and selecting new Grommets and/or products and services. Daily Grommet will not collect any personally identifiable information about you unless you provide it.
+  * Automatic Information. Like many websites, we use "cookies." We obtain certain types of anonymous information which is not personally identifiable when your web browser accesses Daily Grommet or third party content (such as our Widget) served by or on behalf of Daily Grommet on other websites. Some of the information we collect and analyze includes the Internet protocol (IP) address; computer and connection information such as browser type, version, and connection speed; purchase history; and the products you searched for, viewed, and possibly purchased.
+  * Email Communications. To help us make emails more useful and interesting, we often receive a confirmation when you open email from Daily Grommet and the products and/or links on which you click if your computer supports such capabilities.
+  * Information from Other Sources. We might receive information about you from other sources and add it to our account information. For example, we receive updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily.
 
 
 
-## Updating your Personal Information
+## Cookies
 
-If you are a registered user at Daily Grommet, you can edit your profile and your personal information by visiting the Daily Grommet site and going to ‘My Account’ and log in and make the desired changes. 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser for such purposes as to remember the items in your Shopping Cart between visits. The information collected from cookies may also be used to improve the functionality of the Website.
 
-## Contacting Us, Questions, Feedback
+The Help portion of your web browser, most likely found on the toolbar, will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, because cookies allow you to take advantage of some of Daily Grommet's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Daily Grommet services that require you to Sign in. 
 
-Please contact us directly if you have any questions about our policy, your experience on Daily Grommet or your observations about any violations of our policy. 
+##  Pixel Tags and Tracking Technology 
 
-Please also contact Daily Grommet to share any feedback – positive, negative, critical, hopefully constructive – with us. We are committed to delivering an exceptional experience to our customers, and we won’t have a business if we cannot serve our customers – so your input is useful, important and we want to hear it (even if it’s painful). 
+When you visit this Website or view one of our emails, we may use pixel tags (also called "clear" gifs), tracking links and/or similar technology to note some of the pages you visit on our Website and personalize your experience. We may also use pixel tags to determine what types of email your browser supports. We may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information. 
 
-Via email:   
-[ folks@dailygrommet.com ](mailto:folks@dailygrommet.com)
+##  How We Share Information 
 
-Via mail:   
-Daily Grommet Inc.   
-6 Wallis Court   
-Lexington, MA 02421 
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below. 
 
-Via phone:   
-877.862.0222 ext 709 
+  * **Suppliers.** When you place an order with Daily Grommet, a majority of the time the seller/manufacturer of the Grommet will fulfill the order. We send the supplier the order information including item(s) purchased, delivery address, billing address, and gifting information if part of the order. The order information we send to the supplier does not include your email address. From time to time, we may contact you on behalf of the supplier for customer service reasons such as to coordinating delivery times or if an item is out of stock. We will not provide your email address to any supplier without receiving your prior consent. 
+  * **Third-Party Service Providers.** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, email list management, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Business Transfers.** In the event that Daily Grommet creates, merges with, or is acquired by another entity, your information will most likely be transferred. Daily Grommet will email you or place a prominent notice on our Website before your information becomes subject to another privacy policy. 
+  * **Protection of Daily Grommet and Others.** We release account and other personal information when we believe release is appropriate to comply with the law, enforce or apply our Terms of Use and other agreements, or protect the rights, property, or safety of Daily Grommet, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+  * **With Your Consent.** Other than as set out above, you will receive notice when personally identifiable information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+  * **Anonymous Information.** Daily Grommet uses the anonymous browsing information collected automatically by our servers primarily to help us administer and improve the Website. We may also use aggregated anonymous information to provide information about the Website to potential business partners and other unaffiliated entities. This information is not personally identifiable. 
+
+
+
+##  Protecting Your Information 
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. If transactions are processed on the Website, transaction information is transmitted to and from the Website in encrypted form using industry-standard SSL connections to help protect such information from interception. Using this encryption, we transmit the entire credit card number to the appropriate credit card company during order processing but reveal only the last four digits of your credit card numbers when confirming an order. We restrict authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. 
+
+Daily Grommet follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once Daily Grommet receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while Daily Grommet strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can email Daily Grommet at [folks@dailygrommet.com](mailto:folks@dailygrommet.com)
+
+##  Editing and Deleting Account Information 
+
+You can change your Daily Grommet Account Information at any time by logging into your account on the Website. To delete your account entirely, email your request to folks@dailygrommet.com. 
+
+To opt-out of the Grommet Email, follow the instructions included in the email. Your request should be processed within 48 hours. 
+
+##  Suppliers and Other Third Parties 
+
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information Daily Grommet collects from you. If you disclose your information to others, whether other users or suppliers on Daily Grommet, different rules may apply to their use or disclosure of the information you disclose to them. Daily Grommet does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. Daily Grommet is not responsible for the privacy or security practices of other websites on the Internet, even those linked to or from the Daily Grommet site. Daily Grommet encourages you to ask questions before you disclose your personal information to others. 
+
+##  Changes to this Privacy Policy 
+
+Daily Grommet will post modifications by date to this Privacy Policy to inform you of any changes. Daily Grommet reserves the right to modify this Privacy Policy at any time, please review it frequently. 
