@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptdd.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122075313id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptdd.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625193440id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
 
 # EASEUS Privacy Policy.
 
@@ -46,7 +46,7 @@ We do not otherwise share your personal information with third parties, unless y
 
 We provide links to third party sites. Since we do not control these web sites, we encourage you to review the privacy policies posted on these (and all) third party sites.
 
-## Cookies: 
+## Cookies:
 
 Most EASEUS web sites use "cookies." Cookies help us provide a better user experience by measuring which web site areas are of greatest interest. CHENGDU YIWO Tech Development Co., Ltd can only read cookies from EASEUS web sites. If you choose to disable cookies in your browser, you can still access most of our web sites.
 
