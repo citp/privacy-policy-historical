@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the bangbook.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228005605id_/http%3A//www.bangbook.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbook.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625190323id_/http%3A//www.bangbook.com/privacy_policy.php) for the most accurate reproduction.*
 
 # We BANG! Harder - Personals, Women, Men, Couples - BangBook.com
 
-BANGBOOK.COM PRIVACY POLICY  
+Thermea Entertainment Group Ltd. PRIVACY POLICY  
 THIS POLICY WAS LAST UPDATED ON 1st January 2010 
 
 **BangBook Privacy Policy**
 
-BangBook Incorporated ("we" or " BangBook ") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the BangBook.com website, transactions for purchasing BangBook subscription services, and activities or communications that occur using the BangBook service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between BangBook.com, BangBook, or any other company, and consumers. This policy was implemented on January 1, 2010 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
+Thermea Entertainment Group Ltd ("we" or " BangBook ") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the BangBook.com website, transactions for purchasing BangBook subscription services, and activities or communications that occur using the BangBook service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between BangBook.com, BangBook, or any other company, and consumers. This policy was implemented on January 1, 2010 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
 **Your IP Address**
 
@@ -55,9 +55,13 @@ We may review all demographic information. We may use public information to enab
 
 If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Service. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change. 
 
+**About membership termination**
+
+Subscription to bangbook.com may be terminated at any time, and without cause, by either BANGBOOK.COM or Subscriber upon notification of the other by electronic or conventional mail, or by telephone, or by visiting our Customer Service Center. You agree to be personally liable for all charges incurred by you during or through the use of BANGBOOK.COM. Your liability for such charges shall continue after termination of your membership for any reason. 
+
 **How You Can Access and Update Your Email Preferences, Personal Information and Public Information**
 
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the "Account Settings" in your BangBook.com profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the "Account Settings" section of the Service, or otherwise opting-out of receipt of email communications from BangBook.com, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from BangBook.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
   
-If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at _bangbooksupport@gmail.com._
+If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at _support@bangbook.com_
