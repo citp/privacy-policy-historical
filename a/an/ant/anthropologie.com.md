@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227124611id_/http%3A//www.anthropologie.com/anthro/help/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625065416id_/http%3A//www.anthropologie.com/anthro/help/privacy_security.jsp) for the most accurate reproduction.*
 
 # privacy & security - Help And Info - Anthropologie.com
 
-updated August 11, 2009
+updated March 3, 2011
 
 ## Your Privacy
 
-Thank you for shopping at anthropologie.com. Ensuring the privacy and security of your personal information is very important to us. Our privacy and security policy outlines the information we collect about you, how and why we use the information and the choices you have to restrict our usage of this information.
+Thank you for shopping at anthropologie.com. Ensuring the privacy and security of your personal information is very important to us. Our privacy and security policy outlines the information we collect about you, how and why we use the information and the choices you have to restrict our usage of this information. Please view this [Privacy Policy](https://web.archive.org/anthro/help/intl_privacy.jsp) information if you live in Canada.
 
 ## Collected Information
 
@@ -14,22 +14,22 @@ Personal information you provide to us while creating or updating an account* an
 
 Anthropologie.com may disclose specific personal information about you if required by law, governmental request or court order, if based on our good faith belief that it is necessary to conform or comply with such law, request or court. We may also disclose information about you to other members of the Anthropologie corporate family, as well as a company contracted to help prevent the unauthorized use of credit and gift cards.
 
-*You can easily update your account information by logging on to anthropologie.com and clicking [Your Account](https://web.archive.org/web/20101227124611id_/http%3A//www.anthropologie.com/anthro/user/myaccount.jsp)  
+*You can easily update your account information by logging on to anthropologie.com and clicking [Your Account](https://web.archive.org/web/20110625065416id_/http%3A//www.anthropologie.com/anthro/user/myaccount.jsp)  
 **Cookies are bits of information that are automatically stored on your computer. Cookies do not contain any personally identifiable information such as your name, address or any financial information. If you do not wish to have cookies on your system, you can set your browser preferences to disable them.
 
 ## Our Email List
 
-We offer those who sign-up for our email list advanced notice of sales, new merchandise, store openings and other anthropologie news. Email addresses collected at Anthropologie.com are only used internally. We respect your privacy rights and will not sell or rent your email address to other companies. If you would like to unsubscribe from our email list, [click here](http://ebm.cheetahmail.com/r/regf2?aid=1134998097&n=200&a=0) or [contact us](https://web.archive.org/web/20101227124611id_/http%3A//www.anthropologie.com/anthro/help/contactus.jsp). We will remove your name from our email list as soon as possible. Please recognize that you may receive another email before we are able to remove you.
+We offer those who sign-up for our email list advanced notice of sales, new merchandise, store openings and other anthropologie news. Email addresses collected at Anthropologie.com are only used internally. We respect your privacy rights and will not sell or rent your email address to other companies. If you would like to unsubscribe from our email list, [click here](http://ebm.cheetahmail.com/r/regf2?aid=1134998097&n=200&a=0) or [contact us](https://web.archive.org/web/20110625065416id_/http%3A//www.anthropologie.com/anthro/help/contactus.jsp). We will remove your name from our email list as soon as possible. Please recognize that you may receive another email before we are able to remove you.
 
 ## Our Catalog Mailing List
 
-If you no longer wish to receive Anthropologie catalogs, please [contact us](https://web.archive.org/web/20101227124611id_/http%3A//www.anthropologie.com/anthro/help/contactus.jsp) or call 800-309-2500. Please include your name and mailing address as shown on your catalog. We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you.
+If you no longer wish to receive Anthropologie catalogs, please [contact us](https://web.archive.org/web/20110625065416id_/http%3A//www.anthropologie.com/anthro/help/contactus.jsp) or call 800-309-2500. Please include your name and mailing address as shown on your catalog. We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you.
 
-We may, on occasion, share a portion of our catalog mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, [contact us](https://web.archive.org/web/20101227124611id_/http%3A//www.anthropologie.com/anthro/help/contactus.jsp) or call 800-309-2500.
+We may, on occasion, share a portion of our catalog mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, [contact us](https://web.archive.org/web/20110625065416id_/http%3A//www.anthropologie.com/anthro/help/contactus.jsp) or call 800-309-2500.
 
 ## Business Partners
 
-Anthropologie contracts with an outside service provider to help us better understand your use of anthropologie.com. Our service provider places cookies on your computer to collect various kinds of information for us related to your use of anthropologie.com, so that we may continue to refine and improve the site for our customers. We do not allow our service provider to collect any credit card, user name or password information, nor do we allow them to use any of the data they collect for us for any purpose other than the improvement of our site. Additionally, our service provider is contractually required to maintain all the information collected for us in strict confidence. As a visitor to anthropologie.com, you may opt out of being included in this collection of data by [contacting us](https://web.archive.org/web/20101227124611id_/http%3A//www.anthropologie.com/anthro/help/contactus.jsp) or calling 800-309-2500.
+Anthropologie contracts with an outside service provider to help us better understand your use of anthropologie.com. Our service provider places cookies on your computer to collect various kinds of information for us related to your use of anthropologie.com, so that we may continue to refine and improve the site for our customers. We do not allow our service provider to collect any credit card, user name or password information, nor do we allow them to use any of the data they collect for us for any purpose other than the improvement of our site. Additionally, our service provider is contractually required to maintain all the information collected for us in strict confidence. As a visitor to anthropologie.com, you may opt out of being included in this collection of data by [contacting us](https://web.archive.org/web/20110625065416id_/http%3A//www.anthropologie.com/anthro/help/contactus.jsp) or calling 800-309-2500.
 
 We may also work with select partners to distribute web advertisements based on our customers' internet browsing patterns. These partners never collect personally identifiable information, however if you'd prefer, you may opt out at any time by clicking here: [http://www.networkadvertising.org](http://www.networkadvertising.org/ "Acerno")
 
