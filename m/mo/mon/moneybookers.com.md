@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204004715id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dusprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625115039id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # moneybookers.com
 
@@ -6,7 +6,7 @@
 
 1.1 This Privacy policy governs how we collect, use and disclose personal information. It applies to the use of our website and the services we offer on our website. It also applies to any agreement that incorporates this policy by reference.
 
-1.2 This Privacy Policy was last updated on December 4, 2010.
+1.2 This Privacy Policy was last updated on June 25, 2011.
 
 ### 2\. When and how we collect information
 
