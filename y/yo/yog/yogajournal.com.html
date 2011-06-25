@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yogajournal.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226015006id_/http%3A//www.yogajournal.com/general_customer_service/cs_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yogajournal.com privacy policy that was archived on 2011-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625203348id_/http%3A//www.yogajournal.com/general_customer_service/cs_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head style="">
 <!-- 3/27/09 - DCR - Added custom.yj.seo_data.<fieldname> tag -->
@@ -39,7 +39,7 @@
 <link rel="stylesheet" type="text/css" href="/css/global.css">
 <link rel="stylesheet" type="text/css" href="/css/bottom_subscription_form.css">
 <!-- ajax user information -->
-<script language="javascript">
+<script src="https://c.compete.com/bootstrap/dbad99a6cace5b1ceddb5dab27ae3094/bootstrap.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://static.crowdscience.com/start-3a4b8c9148.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript">
 var fields = new Array;
 var groups = new Array;
 var completed_user_lookup = false;
@@ -68,14 +68,46 @@ groups['8'] = 0;
 <!-- end: sIFR -->
 
 
-<!--GOOGLE ANALYTICS - BEGIN -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<!-- 4/13/11 extra code for solixir ad by subtextproductions -->
 <script type="text/javascript">
-_uacct = "UA-688062-14";
-_udn="none";
-_ulink=1;
+var startPouring = function(){
+	$("div#top_ad").css({ height: '312px' });
+	if(/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
+		document['300x250SOLJournal'].startPouring();
+	}else{
+		try{
+			var someObj = document.getElementById('300x250SOLJournal');
+			someObj.startPouring();
+		}catch(e){}
+	}
+}
+
+var stopPouring = function(){
+	$("div#top_ad").css({ height: '90px' });
+}
+
+var openPane = function(){
+	$("div#top_ad").css({ height: '312px' });
+}
 </script>
+
+<!--GOOGLE ANALYTICS - BEGIN -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-688062-14']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
 <!--GOOGLE ANALYTICS - END -->
 
 
@@ -86,17 +118,7 @@ _ulink=1;
 
 
 
-<!-- 2010-08 KC: Mandelbrot Project -->
-<script type="text/javascript">
 
-//<![CDATA[
-
-        document.write(unescape("%3Cscript src='http://c1516102.cdn.cloudfiles.rackspacecloud.com/refrag_rewrite.js' type='text/javascript'%3E%3C/script%3E"));
-
-//]]>
-
-</script><script src="http://c1516102.cdn.cloudfiles.rackspacecloud.com/refrag_rewrite.js" type="text/javascript"></script>
-<!-- 2010-08 KC: Mandelbrot Project -->
 
 
 
@@ -174,7 +196,7 @@ _ulink=1;
 		
 			<script language="Javascript">
 			document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=1;abr=!webtv;sz=728x90;ord=' + ord + '?"></scr'+'ipt>');
-			</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=1;abr=!webtv;sz=728x90;ord=686069241903005700?"></script>
+			</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=1;abr=!webtv;sz=728x90;ord=362136752484766100?"></script>
 			<script>
 			<!--
 			if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
@@ -209,7 +231,11 @@ _ulink=1;
 
 	<table id="middle">
 		<tbody><tr>
-			<td id="login_info" align="right" width="220px">
+			<td id="facebook" align="right" width="125px" valign="top"><a href="http://www.facebook.com/pages/Yoga-Journal/107118720945" target="_blank"><img alt="" src="/images/icon_facebook.jpg" border="0" height="20px"></a>
+			</td>
+			<td id="twitter" align="right" width="25px" valign="top"><a href="http://twitter.com/Yoga_Journal"><img alt="" src="/images/icon_twitter.jpg" border="0" height="20px"></a>
+			</td>
+			<td id="login_info" align="right" width="70px">
 				<div id="ajax_welcome_log_in">
 					
 				</div>
@@ -450,15 +476,10 @@ _ulink=1;
 			<span class="qmdivider qmdividerx"></span>             
 			<a href="http://blogs.yogajournal.com/beginnersmind/">Beginner's Mind</a>             
 			<span class="qmdivider qmdividerx"></span>             
-			<a href="http://blogs.yogajournal.com/corevalues/">Core Values</a>             
-			<span class="qmdivider qmdividerx"></span>             
 			<a href="http://blogs.yogajournal.com/enlightenedmotherhood/">Enlightened Motherhood</a>             
 			<span class="qmdivider qmdividerx"></span>          
 			<a href="http://blogs.yogajournal.com/nectar/">Nectar</a>             
-			<span class="qmdivider qmdividerx"></span>     
-			<a href="http://blogs.yogajournal.com/teachers_on_tour/">Teachers on Tour</a>             
-			<span class="qmdivider qmdividerx"></span>     
-			<a href="http://blogs.yogajournal.com/yogadiary/">Yoga Diary</a>
+
 
 		</div>
 		
@@ -513,9 +534,12 @@ _ulink=1;
 	</style>
 	<script type="text/JavaScript" src="/js/float.js"></script>
 	
+<!-- 
+	<div id="floater1" style="display: block;">
+ -->
 	<div id="floater1" style="display: block;">
 		
-		<form action="https://www.neodata.com/ITPS2.cgi" method="post" name="order" target="_blank">
+		<form action="https://www.neodata.com/ITPS2.cgi" method="post" name="order" target="_blank" onsubmit="_gaq.push(['_linkByPost', this]);">
 			<input type="hidden" name="OrderType" value="New Order">
 			<input type="hidden" name="iResponse" value="YOGA.BONUSCONFIRM">
 			<input type="hidden" name="iResponseMoreInfo" value="YOGA.ERROR">
@@ -531,10 +555,10 @@ _ulink=1;
 			<input type="hidden" name="Term" value="9@16.95">
 			<input type="hidden" name="Country" value="USA">
 			<input type="hidden" name="CcType" value="Bill Me">
-			<input name="NewKey" value="PN2" type="hidden">
+			<input name="NewKey" value="YPU" type="hidden">
 			<input name="GiftKey" value="GFM" type="hidden">
 			<input name="RenKey" value="RNM" type="hidden">
-			<input name="BonusKey" value="PN2" type="hidden">
+			<input name="BonusKey" value="YPU" type="hidden">
 			<input name="iCompanyName" value="Yoga" journal="journal" type="hidden">
 			<input name="iReturnUrl" value="http://www.yogajournal.com" type="hidden">
 			<input name="iReturnUrlText" value="Click here to return the home page." type="hidden">
@@ -563,7 +587,7 @@ _ulink=1;
           <div class="top">&nbsp;
             <!-- <img src="/images/0109_free.jpg">-->
           </div>
-          <div class="middle" onclick="submitCC(document.order);" style="cursor:pointer; margin-left:-40px;">&nbsp;
+          <div class="middle" onclick="submitCC(document.order, 'PN2');" style="cursor:pointer; margin-left:-40px;">&nbsp;
               <!-- <img src="/images/0109_click.jpg" alt="PAY NOW to receive 2 bonus issues and 2 FREE GIFTS! - CLICK HERE -" border="0">-->
             
           </div>
@@ -665,16 +689,14 @@ _ulink=1;
       </div>
       <div class="bottom">
 		<p align="center">  	
-        	If I like it and decide to continue, I'll pay just 
-            <span class="hilitefont">$16.95</span>,
-            and receive a full one-year <br>subscription (9 issues in all), 
-            a <span class="hilitefont">73%</span> savings off the newsstand price!  If for any <br>
-            reason I decide not to continue, I'll write "cancel" on the invoice and owe nothing.
+		If I like it and decide to continue, I'll pay just <span class="hilitefont">$16.95</span>, and receive a full one-year
+subscription (9 issues in all), a <span class="hilitefont">62%</span> savings off the newsstand price! If for any
+reason I decide not to continue, I'll write "cancel" on the invoice and owe nothing.
         </p>
       
         <p align="center">
           <a href="#" onclick="submitBM(document.order);">
-            <img src="/images/optOut-btn_2010r4c.gif" alt="Submit my order" border="0">
+            <img src="/images/floater/opt_out_submit_button.png" alt="Submit my order" border="0">
           </a>
         </p>
         
@@ -709,7 +731,7 @@ _ulink=1;
 			}
 		);
 	</script>
-		<form action="https://www.neodata.com/ITPS2.cgi" name="pnewcan" method="post" target="_blank">
+		<form action="https://www.neodata.com/ITPS2.cgi" name="pnewcan" method="post" target="_blank" onsubmit="_gaq.push(['_linkByPost', this]);">
 			<input type="HIDDEN" name="ItemCode" value="YOGA">
 			<input type="HIDDEN" name="OrderType" value="Reply Only">
 			<input type="HIDDEN" name="NewKey" value="QPM">
@@ -719,7 +741,7 @@ _ulink=1;
 			<input type="HIDDEN" name="Promo" value="trial">
 			<input type="HIDDEN" name="iResponse" value="YOGA.BONUSCAN">
 		</form>
-		<form action="https://www.neodata.com/ITPS2.cgi" name="pnewfor" method="post" target="_blank">
+		<form action="https://www.neodata.com/ITPS2.cgi" name="pnewfor" method="post" target="_blank" onsubmit="_gaq.push(['_linkByPost', this]);">
 			<input type="HIDDEN" name="ItemCode" value="YOGA">
 			<input type="HIDDEN" name="OrderType" value="Reply Only">
 			<input type="HIDDEN" name="NewKey" value="QPM">
@@ -767,7 +789,7 @@ _ulink=1;
 		
 			<script language="Javascript">
 			document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=5;dcopt=ist;abr=!webtv;sz=160x240;ord=' + ord + '?"></scr'+'ipt>');
-			</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=5;dcopt=ist;abr=!webtv;sz=160x240;ord=686069241903005700?"></script>
+			</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=5;dcopt=ist;abr=!webtv;sz=160x240;ord=362136752484766100?"></script>
 			<script>
 			<!--
 			if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
@@ -790,10 +812,10 @@ _ulink=1;
 			<h2 class="red">Today's Daily Tip</h2>
 		
 			<div class="generic">
-				<h3><a href="/dailyinsight/yjnl_20101225.html?utm_source=homepage&amp;utm_medium=site&amp;utm_campaign=dailyinsight">Sun Salutations After Dark?</a></h3>
+				<h3><a href="/dailyinsight/yjnl_20110625.html?utm_source=homepage&amp;utm_medium=site&amp;utm_campaign=dailyinsight">Tell Your Teacher</a></h3>
 
 
-An evening practice helps us to slow down, focus inward, and transition from day to night. Unwinding and releasing the musculature<a href="/dailyinsight/yjnl_20101225.html?utm_source=homepage&amp;utm_medium=site&amp;utm_campaign=dailyinsight"> ... (continued)</a>
+Do you have an injury or a physical condition that might affect your ability to practice, like pregnancy , high blood<a href="/dailyinsight/yjnl_20110625.html?utm_source=homepage&amp;utm_medium=site&amp;utm_campaign=dailyinsight"> ... (continued)</a>
 			</div><br>
 			<div class="separator"><!-- --></div>
 		</div>
@@ -847,7 +869,7 @@ An evening practice helps us to slow down, focus inward, and transition from day
 		
 			<script language="Javascript">
 			document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=2;abr=!webtv;sz=160x600;ord=' + ord + '?"></scr'+'ipt>');
-			</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=2;abr=!webtv;sz=160x600;ord=686069241903005700?"></script>
+			</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=2;abr=!webtv;sz=160x600;ord=362136752484766100?"></script>
 			<script>
 			<!--
 			if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
@@ -897,8 +919,17 @@ An evening practice helps us to slow down, focus inward, and transition from day
 												<h1>Privacy Policy</h1>
 												<p></p><p class="subhead">This site complies with the following Privacy Policy. By using this site, you indicate your acceptance of <em>Yoga Journal</em>'s Online Privacy Policy.</p>
 <p class="subhead">This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. We do record information such as time of day, browser type, browser language, and IP address when you interact with the site. <em>Yoga Journal</em> uses this information to help diagnose problems with our server and to administer our web site. We also use this information to verify the number of discrete times you visit this web site each day.</p>
+
+
+
+<p class="subhead">The Information We Collect At some Active Interest Media sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. </p>
+<p class="subhead">There are cases where Active Interest Media may ask you for personally-identifiable information such as your name, mailing address, and email address. Examples include, but are not limited to, online shopping transactions, signing up for an email newsletter, registering on our Sites, or participating in sweepstakes. Active Interest Media will not collect any personally-identifiable information about you unless you provide it to us voluntarily.  Active Interest Media may store and process that information to better understand your needs and how we can improve our products and services; use that information to contact you for informational and promotional purposes; use and disclose that information to third parties to the extent necessary to provide you with products or services you have ordered.</p>
+
 <p class="subhead">In addition, we may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user's use of our sites to information that the user has specifically and knowingly provided to us.</p>
+
 <p class="subhead">A user's personally identifying information may be used for marketing and promotional purposes and we may share the information with others if the user has not advised us of his or her preference not to be included in such an exchange. Individuals always have the ability to stop their information being used for such purposes.</p>
+
+
 <p class="subhead"><em>Yoga Journal</em> may send e-mail to people with whom we have a business relationship.</p>
 <p class="subhead">To ensure the security of your data, including address information and credit card numbers, <em>Yoga Journal</em> always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse or alteration of information that we have collected from you.</p>
 <p class="subhead">While we will seek to require third parties with whom we have agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties. Our web site contains links, including e-commerce opportunities with affiliates, partners and associates, to other sites that are not maintained by us. If you visit these sites, please look for their privacy policy.</p>
@@ -914,36 +945,41 @@ An evening practice helps us to slow down, focus inward, and transition from day
 									<div class="top">
 
 
-	
-	<div id="subscribe_right">
-		<table border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto;">
-			<tbody><tr>
-				<td style="padding-right: 17px;">
-					<p align="center" style="margin: 0; padding: 0 0 10px 0; font-family: Lucida Grande, Lucida Sans, Arial, Helvetica, San Serif; font-size: 12px; color: #666666;">
-						<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=4111311" target="_blank" style="margin: 0; padding: 0 0 10px 0; font-family: Lucida Grande, Lucida Sans, Arial, Helvetica, San Serif; font-size: 12px; color: #666666; text-decoration: none">Subscribe and<br>
-						Get 2 Free Issues<br>
-						+ 4 Free Gifts!</a>
-					</p>
-					<p align="center" style="margin: 0; padding: 0;">
-						<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=4111311" target="_blank"><img src="/images/subscribe_now.png" alt="" border="0" height="25" width="104"></a>
-					</p>
-					<p align="center" style="margin: 0; padding: 10px 0 0 0;">
-						<a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=YOGA&amp;Promo=trial&amp;GiftKey=GFM&amp;iResponse=YOGA.GIFT&amp;NewKey=W2M&amp;RenKey=RNM&amp;BonusKey=W2M" target="_blank" class="giveagift">Give a Gift »</a><br>
-						<a href="http://www.yogajournal.com/magazine/customer_service" class="giveagift">Customer Service »</a>
-					</p>
-				</td>
-				<td>
-					<div id="top_subscription_image">
-						<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=4111311" target="_blank">
-							<img src="/images/covers/cover_current.jpg" border="0" width="84">
-						</a>
-					</div>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-
-
+	 
+<div id="subscribe_right">
+	<table border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto;">
+		<tbody><tr>
+			<td style="padding-right: 17px;"> 
+				<p align="center" style="margin: 0; padding: 0 0 10px 0; font-family: Lucida Grande, Lucida Sans, Arial, Helvetica, San Serif; font-size: 12px; color: #666666;">
+<!-- 
+					<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331" target="_blank" style="margin: 0; padding: 0 0 10px 0; font-family: Lucida Grande, Lucida Sans, Arial, Helvetica, San Serif; font-size: 12px; color: #666666; text-decoration: none" onclick="_gaq.push(['_link', 'https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331']); return false;">Subscribe and<br />
+ -->
+					<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331" target="_blank" style="margin: 0; padding: 0 0 10px 0; font-family: Lucida Grande, Lucida Sans, Arial, Helvetica, San Serif; font-size: 12px; color: #666666; text-decoration: none">Subscribe and<br>
+					Get 2 Free Issues<br>
+					+ 4 Free Gifts!</a> 
+				</p>
+				<p align="center" style="margin: 0; padding: 0;">
+<!-- 
+					<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331" target="_blank" onclick="_gaq.push(['_link', 'https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331']); return false;"><img src="/images/subscribe_now.png" alt="" border="0" height="25" width="104"></a> 
+ -->
+					<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331" target="_blank"><img src="/images/subscribe_now.png" alt="" border="0" height="25" width="104"></a> 
+				</p>
+				<p align="center" style="margin: 0; padding: 10px 0 0 0;">
+					<a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=YOGA&amp;Promo=trial&amp;GiftKey=GFM&amp;iResponse=YOGA.GIFT&amp;NewKey=W2M&amp;RenKey=RNM&amp;BonusKey=W2M" target="_blank" class="giveagift">Give a Gift »</a><br>
+					<a href="http://www.yogajournal.com/magazine/customer_service" class="giveagift">Customer Service »</a> 
+				</p>
+			</td>
+			<td> 
+				<div id="top_subscription_image">
+<!-- 
+					<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331" target="_blank" onclick="_gaq.push(['_link', 'https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331']); return false;"> <img src="/images/covers/cover_current.jpg" border="0" width="84"> </a> 
+ -->
+					<a href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=6011331" target="_blank"> <img src="/images/covers/cover_current.jpg" border="0" width="84"> </a> 
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
 
 
 
@@ -961,6 +997,8 @@ An evening practice helps us to slow down, focus inward, and transition from day
 					
 					
 					
+
+					
 								
 					
 					
@@ -971,13 +1009,16 @@ An evening practice helps us to slow down, focus inward, and transition from day
 					
 					
 					
+						
 					
+
 					
+				
 					
 					
 						<script language="Javascript">
 						document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=3;abr=!webtv;sz=300x250;ord=' + ord + '?"></scr'+'ipt>');
-						</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=3;abr=!webtv;sz=300x250;ord=686069241903005700?"></script>
+						</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=3;abr=!webtv;sz=300x250;ord=362136752484766100?"></script>
 						<script>
 						<!--
 						if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
@@ -1021,7 +1062,7 @@ An evening practice helps us to slow down, focus inward, and transition from day
 					
 						<script language="Javascript">
 						document.write('<scr'+'ipt language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=4;abr=!webtv;sz=300x90;ord=' + ord + '?"></scr'+'ipt>');
-						</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=4;abr=!webtv;sz=300x90;ord=686069241903005700?"></script>
+						</script><script language="Javascript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock;tile=4;abr=!webtv;sz=300x90;ord=362136752484766100?"></script>
 						<script>
 						<!--
 						if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0) {
@@ -1163,7 +1204,7 @@ An evening practice helps us to slow down, focus inward, and transition from day
 <!-- begin ad tag (tile=6) -->
 <script language="JavaScript" type="text/javascript">
 document.write('<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock/HomePage;tile=6;dcopt=ist;abr=!webtv;sz=300x200;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock/HomePage;tile=6;dcopt=ist;abr=!webtv;sz=300x200;ord=686069241903005700?" type="text/javascript"></script><script language="JavaScript" type="text/javascript">
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/yogajournal.blackrock/HomePage;tile=6;dcopt=ist;abr=!webtv;sz=300x200;ord=362136752484766100?" type="text/javascript"></script><script language="JavaScript" type="text/javascript">
 
 if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navigator.userAgent.indexOf("WebTV") >= 0)
 {document.write('<a href="http://ad.doubleclick.net/jump/yogajournal.blackrock/HomePage;tile=6;sz=300x200;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/yogajournal.blackrock/HomePage;tile=6;sz=300x200;ord=123456789?" width="300" height="200" border="0" alt=""><\/a>');}
@@ -1227,8 +1268,10 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navig
 </div>
 
 
-<!-- 2/28/09 - DCR - Added custom.yj.seo_data.<fieldname> tag -->
+
+
 <img src="/images/right_column_separator.gif" alt="" border="0" height="1" width="315">
+
 
 
 
@@ -1266,13 +1309,13 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navig
 							<tr>
 								<td id="bottom_subform" colspan="2" valign="top">
 									<!-- begin: subscription form -->
-<link href="../css/bottom_subscription_form.css" rel="stylesheet" type="text/css">
+<link href="/css/bottom_subscription_form.css" rel="stylesheet" type="text/css">
 
 <div class="subform_container">
   <div id="frm_main">
-  <div id="payNow"><a href="#" onclick="submitCC(document.subform); return false;"><img src="/images/bottom_frm/payNow.gif" width="120" height="36" border="0"></a></div>
+  <div id="payNow"><a href="#" onclick="submitCC(document.subform, 'EAM'); return false;"><img src="/images/bottom_frm/payNow.gif" width="120" height="36" border="0"></a></div>
     <div class="col" id="frm_col_middle">
-      <form action="https://www.neodata.com/ITPS2.cgi" method="post" name="subform" target="_blank">
+      <form action="https://www.neodata.com/ITPS2.cgi" method="post" name="subform" target="_blank" onsubmit="_gaq.push(['_linkByPost', this]);">
       <input type="hidden" name="OrderType" value="New Order">
       <input type="hidden" name="iResponse" value="YOGA.BONUSCONFIRM">
       <input type="hidden" name="iResponseMoreInfo" value="YOGA.ERROR">
@@ -1294,14 +1337,11 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navig
       <input type="hidden" name="DoCcDigitCheck" value="On">
       <input type="hidden" name="DoCcAuth" value="Off">
       <input type="hidden" name="RequiredFields" value="EmailAdr@Please enter your E-mail Address.">
-      
-        <input type="hidden" name="kcv" value="EAM">
-        <input type="hidden" name="KeyCode" value="">
-        <input type="hidden" name="NewKey" value="EAM">
-        <input type="hidden" name="GiftKey" value="GFM">
-        <input type="hidden" name="RenKey" value="RNM">
-        <input type="hidden" name="BonusKey" value="BAM">
-      
+		<input type="hidden" name="NewKey" value="YAM">
+		<input type="hidden" name="GiftKey" value="GFM">
+		<input type="hidden" name="RenKey" value="RNM">
+		<input type="hidden" name="BonusKey" value="YAM">
+		<input type="hidden" name="KeyCode" value="">
         <div id="bottom_frm_insert">
           <div id="bottom_frm_insert_content">
             <table border="0" cellspacing="2" cellpadding="0" width="250">
@@ -1433,7 +1473,7 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navig
 <p align="center" style="margin: 0; padding: 0;">
 	<span class="smTxt">
 		<a href="#" onclick="submitBM(document.subform);">
-			<img src="/images/bottom_frm/bottom_frm_subscribe.gif" name="Submit" width="148" height="37" border="0" class="SubmitBtn" value="Submit my order!" tabindex="70">
+			<img src="/images/bottom_frm/bottom_frm_subscribe.gif" name="Submit" width="226" height="48" border="0" class="SubmitBtn" value="Submit my order!" tabindex="70">
 		</a>
 	</span>
 </p>
@@ -1446,28 +1486,28 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navig
         </div>
       </form>
     </div>
-    <form id="form2" name="newcan" method="post" action="https://www.neodata.com/ITPS2.cgi" target="_blank">
+    <form id="form2" name="newcan" method="post" action="https://www.neodata.com/ITPS2.cgi" target="_blank" onsubmit="_gaq.push(['_linkByPost', this]);">
       <input type="HIDDEN" name="ItemCode" value="YOGA">
       <input type="HIDDEN" name="OrderType" value="Reply Only">
       <input type="HIDDEN" name="Promo" value="trial">
       <input type="HIDDEN" name="iResponse" value="YOGA.BONUSCAN">
       
-        <input type="HIDDEN" name="NewKey" value="EAM">
+        <input type="HIDDEN" name="NewKey" value="YAM">
         <input type="HIDDEN" name="GiftKey" value="GFM">
         <input type="HIDDEN" name="RenKey" value="RNM">
-        <input type="HIDDEN" name="BonusKey" value="BAM">
+        <input type="HIDDEN" name="BonusKey" value="YEA">
       
     </form>
-    <form action="https://www.neodata.com/ITPS2.cgi" method="POST" name="newfor" target="_blank">
+    <form action="https://www.neodata.com/ITPS2.cgi" method="POST" name="newfor" target="_blank" onsubmit="_gaq.push(['_linkByPost', this]);">
       <input type="HIDDEN" name="ItemCode" value="YOGA">
       <input type="HIDDEN" name="OrderType" value="Reply Only">
       <input type="HIDDEN" name="Promo" value="trial">
       <input type="HIDDEN" name="iResponse" value="YOGA.BONUSFOR">
       
-        <input type="HIDDEN" name="NewKey" value="EAM">
+        <input type="HIDDEN" name="NewKey" value="YAM">
         <input type="HIDDEN" name="GiftKey" value="GFM">
         <input type="HIDDEN" name="RenKey" value="RNM">
-        <input type="HIDDEN" name="BonusKey" value="BAM">
+        <input type="HIDDEN" name="BonusKey" value="YEA">
       
     </form>
     
@@ -1564,7 +1604,7 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navig
 				<li><a href="/blogs">Blogs</a></li>
 				<li><a href="/community">Community</a></li>
 				<li><a href="/multimedia">Multimedia</a></li>
-				<li><a target="_blank" href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=YOGA&amp;Promo=trial&amp;GiftKey=GFM&amp;iResponse=YOGA.BONUS&amp;NewKey=W4M&amp;RenKey=RNM&amp;BonusKey=B4M">Magazine</a></li>
+				<li><a target="_blank" href="https://secure.palmcoastd.com/pcd/FormRedirect?iID=4111311&amp;OrderType=Reply+Only&amp;ItemCode=YOGA&amp;Promo=trial&amp;GiftKey=GFM&amp;iResponse=YOGA.BONUS&amp;NewKey=W4M&amp;RenKey=RNM&amp;BonusKey=B4M">Magazine</a></li>
 			</ul>
 		</div>
 		<div>
@@ -1618,6 +1658,37 @@ if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navig
 					</script>2020 Cruz Bay Publishing, Inc. an <a href="http://www.aimmedia.com" target="_blank">Active Interest Media</a> company
 	</p>
 </div>
+<!-- begin Crowd Science -->
+<script type="text/javascript">
+   (function() {
+       var cs = document.createElement('script'); cs.type = 'text/javascript';
+           cs.async = true;
+           cs.src = ('https:' == document.location.protocol ?  'https://' : 'http://') +
+           'static.crowdscience.com/start-3a4b8c9148.js'
+          var s = document.getElementsByTagName('script')[0];          
+          s.parentNode.insertBefore(cs,s);
+    })();
+</script>
+<!-- end Crowd Science -->
+
+<!-- begin Compete -->
+
+<script type="text/javascript">
+    __compete_code = 'dbad99a6cace5b1ceddb5dab27ae3094';
+    (function () {
+        var s = document.createElement('script'),
+            e = document.getElementsByTagName('script')[0],
+            t = document.location.protocol.toLowerCase() === 'https:' ?
+                'https://c.compete.com/bootstrap/' :
+                'http://c.compete.com/bootstrap/';
+            s.src = t + __compete_code + '/bootstrap.js';
+            s.type = 'text/javascript';
+            s.async = true;
+            if (e) { e.parentNode.insertBefore(s, e); }
+        }());
+</script>
+<!--End Compete -->
+
 <!-- end: footer -->
 <!-- sifr-full.js moved from here to head.new.html and head.html az 11/7 -->
 
@@ -1658,31 +1729,24 @@ _qacct="p-d7N0NYDdF7k1Y";quantserve();</script>
 	var _rsDN="//secure-us.imrworldwide.com/";
 	var _rsPLfl=0;
 </script>
-<script type="text/javascript" src="/js/v53.js"></script><img src="https://secure-us.imrworldwide.com/cgi-bin/m?rnd=1580373933405&amp;ci=us-blackrockent&amp;cg=yoga&amp;cc=1&amp;sr=800x600&amp;cd=24&amp;lg=en-US&amp;je=n&amp;ck=y&amp;tz=0&amp;si=https%3A//web.archive.org/web/20101226015006id_/http%3A//www.yogajournal.com/general_customer_service/cs_privacy/&amp;rp=" width="1" height="1" alt="">
+<script type="text/javascript" src="/js/v53.js"></script><img src="https://secure-us.imrworldwide.com/cgi-bin/m?rnd=1580373935343&amp;ci=us-blackrockent&amp;cg=yoga&amp;cc=1&amp;sr=800x600&amp;cd=24&amp;lg=en-US&amp;je=n&amp;ck=y&amp;tz=0&amp;si=https%3A//web.archive.org/web/20110625203348id_/http%3A//www.yogajournal.com/general_customer_service/cs_privacy/&amp;rp=" width="1" height="1" alt="">
 <noscript>
 	<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-blackrockent&amp;cg=yoga&cc=1" alt=""/></div>
 </noscript>
 <!-- END Nielsen//NetRatings SiteCensus V5.3 -->
 
 <!--GOOGLE ANALYTICS - BEGIN -->
+<!-- 
 <script type="text/javascript">
 urchinTracker();
 </script>
+ -->
 <!--GOOGLE ANALYTICS - END -->
 
-<!--2010-08 KC: Mandlebrot Project -->
-<script type="text/javascript">
 
-    __initialize.request("411dd4548bc554d5048e5baa0b7aef0532a9ceafb8fd840e05cda7346d4802a8", true, false);
-
-</script>
-<!-- end Mandelbrot -->
 
 
 
 	
-<script language="javascript" src="https://cms.richard-group.com/www/js/pageview.js"></script>
-<script language="javascript">log_pageview('https://cms.richard-group.com/pageview/','/general_customer_service/cs_privacy/','yj','0.040548')</script>
-
 
 </div></div></body></html>
