@@ -1,6 +1,30 @@
-> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228160404id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625095632id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
 
 # Carfolio.com Privacy Policy
+
+## 2011 F10 BMW M5 specifications released
+
+The specifications for the [2011 F10-series BMW M5](http://www.carfolio.com/specifications/models/car/?car=247181) have been released by BMW. The naturally aspirated 5-litre V10 of the previous [E60 BMW M5](http://www.carfolio.com/specifications/models/car/?car=120780) gives way to a turbocharged V8 of 4.4 litres capacity. 
+
+[More...](https://web.archive.org/article/?id=252 "2011 F10 BMW M5 specifications released")
+
+## New BMW 1 Series F20 details
+
+The details of the latest model range of the 1 Series 5 door hatchback have been released by BMW. Other body styles, including a high-tailed hatchback similar in concept to the 5 Series GT are to follow soon. 
+
+[More...](https://web.archive.org/article/?id=251 "New BMW 1 Series F20 details")
+
+## 1992 Nissan Skyline Autech - unique and rare
+
+Autech, Nissan's own tuning arm, has produced a number of interesting limited production models based on regular Nissan vehicle underpinnings. In 1992, Autech produced and sold a very special version of the then-current Nissan R32 Skyline range. 
+
+[More...](https://web.archive.org/article/?id=250 "1992 Nissan Skyline Autech - unique and rare")
+
+## McLaren release final MP4-12C technical specifications
+
+McLaren have amended the published technical specifications of their latest model, the [McLaren MP4-12C](http://www.carfolio.com/specifications/models/car/?car=219549), prior to its general release. Driving reviews are to be published all over the automotive world tomorrow, when the February 14th embargo lifts, so we are publishing their latest specifications for you here. 
+
+[More...](https://web.archive.org/article/?id=248 "McLaren release final MP4-12C technical specifications")
 
 ## Nissan beefs up GT-R for 2011
 
@@ -31,30 +55,6 @@ The [BMW M3](http://www.carfolio.com/search/results/?terms=bmw+m3&num=50) has be
 The long-awaited [2010 Audi A1](http://www.carfolio.com/search/results/?terms=2010+audi+a1) is about to hit the markets, Audi have recently released the specifications of the A1 range at launch date. Sitting on a 2469 mm wheelbase and with an overall length of just 3954 mm, the Audi A1 is the smallest Audi models since the [Audi A2](http://www.carfolio.com/search/results/?terms=audi+a2). 
 
 [More...](https://web.archive.org/article/?id=243 "Audi's A1 Luxury Baby - Full Details")
-
-## Carfolio ID Mix-up fixed
-
-Apologies for the brief mix-up with the Carfolio ID numbers. The issue was caught quickly and fixed quickly. 
-
-[More...](https://web.archive.org/article/?id=242 "Carfolio ID Mix-up fixed")
-
-## 305 km/h BMW M3 GTS given production go-ahead
-
-The most hardcore BMW M3 yet - the [BMW M3 GTS](http://www.carfolio.com/specifications/models/car/?car=213620) \- will be available on the market, BMW has confirmed. With a longer stroke (82.0 mm - up from 75.2 mm on the standard E90 BMW M3), the V8 engine now displaces 4361 cc (E90 M3: 3999 cc). 
-
-[More...](https://web.archive.org/article/?id=240 "305 km/h BMW M3 GTS given production go-ahead")
-
-## New Alfa Romeo Giulietta Launched
-
-The latest Alfa Romeo range to be launched is the new [Alfa Romeo Giulietta](http://www.carfolio.com/search/results/?terms=2010+alfa+romeo+giulietta), which goes on sale from May 2010. The range comprises of 3 petrol and 2 diesel engine options, all equipped with six speed manual gearboxes. 
-
-[More...](https://web.archive.org/article/?id=239 "New Alfa Romeo Giulietta Launched")
-
-## Ferrari reveals latest GTO
-
-The original [Ferrari 250 GTO](http://www.carfolio.com/specifications/models/car/?car=1518) is revered as one of the paragons of racecars homologated for road use. A second GTO, the [Ferrari 288 GTO](http://www.carfolio.com/specifications/models/car/?car=1320), still inspires and enthrals with the performance it gave when introduced in 1984. 
-
-[More...](https://web.archive.org/article/?id=238 "Ferrari reveals latest GTO")
 
 [See all articles](https://web.archive.org/article/ "List of all articles")
 
