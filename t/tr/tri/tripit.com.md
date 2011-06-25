@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906085744id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625220033id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
-# TripIt | Online travel itinerary and trip planner
+# TripIt Privacy Policy
 
 (last revised December 9, 2009) 
 
@@ -142,9 +142,17 @@ Our third party advertising and analytics partner employ a software technology c
 
 To learn more about our advertising company’s use of clear gifs, please go to <http://www.google.com/privacypolicy.html>
 
+_Flash LSOs_
+
+When we post videos on our blog, third parties may use local shared objects, also known as Flash cookies, to store your preferences for volume control, or to personalize certain video features. 
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: 
+
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
 ## 9\. Third-Party Advertising
 
-From time to time, we may use a third-party advertising company to serve advertising on our behalf. Through the use of technology devices commonly referred to as cookies and action tags, this third-party ad-serving company can measure the effectiveness of our ads. We do not have access to the third-party server's cookies, which are similar to our own cookies. The third-party ad server employs an action tag (also known as a Web Beacon or a one-pixel .gif file) to set or read cookies. The third-party ad server may also receive specific information about your use of the Service and use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Rest assured that this shared information is anonymous and does not contain any personally identifiable information, i.e. such information does not include your name, address, email address, or telephone number. You can find out more about third-party advertisers and explore the option of not having this information collected by clicking [here](http://www.networkadvertising.org/). 
+From time to time, we may use a third-party advertising company to serve advertising on our behalf. Through the use of technology devices commonly referred to as cookies and action tags, this third-party ad-serving company can measure the effectiveness of our ads. We do not have access to the third-party server's cookies, which are similar to our own cookies. The third-party ad server employs an action tag (also known as a Web Beacon or a one-pixel .gif file) to set or read cookies. The third-party ad server may also receive specific information about your use of the Service and use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you, both on our website and around the Web. Rest assured that this shared information is anonymous and does not contain any personally identifiable information, i.e. such information does not include your name, address, email address, or telephone number. You can find out more about third-party advertisers and explore the option of not having this information collected by clicking [here](http://www.networkadvertising.org/). 
 
 ## 10\. Sweepstakes
 
