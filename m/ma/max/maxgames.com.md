@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the maxgames.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215041937id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxgames.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625090656id_/http%3A//www.maxgames.com/policy.php) for the most accurate reproduction.*
 
 # Max Games : Free internet games to the Max
 
 **Privacy Policy**
 
 Maxgames.com and its affiliate companies (collectively "Max Games") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Maxgames.com safeguards the privacy of its on-line visitors. Please note that when you link to other sites from Maxgames.com website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. Also, this Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **What personal information is collected?**
 
