@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the gunggo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125094813id_/http%3A//www.gunggo.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunggo.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625064728id_/http%3A//www.gunggo.com/Privacy) for the most accurate reproduction.*
 
-# Advertising Network - Privacy Policy
+# Online Advertising - Privacy
 
-**Privacy Policy** At Gunggo, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here: 
+### Privacy Policy
 
-PAYPAL: [http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside ](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside)
+At Gunggo, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here: 
 
-**Cookies**
+PAYPAL: <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
 
-All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information. At Gunggo, We may use cookies to: Store your password so you don't have to re-enter it each time you visit our sites. 
+### Cookies
+
+All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information. 
+
+### At Gunggo, We may use cookies to: 
+
+Store your password so you don't have to re-enter it each time you visit our sites. 
 
   * We will not use cookies to identify, monitor or track any personally identifiable information. 
   * Our cookies do not contain any personally identifiable information about you. 
@@ -16,14 +22,22 @@ All browsers offer "cookies" and if you permit their use, they will store small 
 
 
 
-However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be completed. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.
+However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be completed. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites. 
 
-**Third Party Cookies At Our Sites** While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information as noted above. 
+### Third Party Cookies At Our Sites
 
-**Registration Forms**
+While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information as noted above. 
 
-Our site's registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared. **External Links** This site contains links to other sites. Gunggo is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links. 
+### Registration Forms
 
-[webmaster @ gunggo.com ](mailto:webmaster%20@%20gunggo.com)
+Our site's registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared. 
 
-**Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or concerns about this Web site, please contact: [webmaster @ gunggo.com ](mailto:webmaster%20@%20gunggo.com)
+### External Links
+
+This site contains links to other sites. Gunggo is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links. 
+
+webmaster@gunggo.com
+
+### Contacting the Web Site
+
+If you have any questions about this privacy statement, the practices of this site, or concerns about this Web site, please contact: webmaster@gunggo.com
