@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixoloid.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222005653id_/http%3A//pixoloid.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixoloid.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625021939id_/http%3A//pixoloid.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PiXoLoiD » More Information » Privacy Policy
 
