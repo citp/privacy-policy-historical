@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223134727id_/http%3A//www.paydayuk.co.uk/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625084941id_/http%3A//www.paydayuk.co.uk/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # PaydayUK – Privacy policy
 
@@ -68,6 +68,8 @@ We use cookies to help us analyse traffic on our site and customer behaviour. Co
 Most web browsers automatically accept cookies, but normally you can alter your browser settings to prevent automatic acceptance, if you prefer. If you opt not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies.
 
 We do not store passwords or any other information about a visitor in a cookie that could identify them, their location, their preferences or their financial activity. 
+
+If you do not want to recieve cookies, please follow the procedures below. This does not apply to cookies sent by our business partners.
 
 ## How to find and control your cookies 
 
