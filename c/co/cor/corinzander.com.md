@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corinzander.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924044609id_/http%3A//corinzander.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corinzander.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625045407id_/http%3A//corinzander.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
