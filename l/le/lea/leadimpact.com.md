@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leadimpact.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928041547id_/http%3A//www.leadimpact.com/About/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadimpact.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625093515id_/http%3A//www.leadimpact.com/about/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # LeadImpact
 
-_Last Revision September 1, 2009_
+_Last Revision November 11, 2010_
 
 Pinball Corp., its affiliates, licensors and licensees, ("Pinball" or "we"), are committed to protecting your privacy. This privacy policy ("Privacy Policy") applies to any web site that references this Privacy Policy and is provided by Pinball ("Web site"), and to those Pinball-owned software products ("Software) made available to you from a Web site. Please see below for important information on third party software products made available from the Web sites. This Privacy Policy also governs information that you provide to us or that we learn from you when you use our Web sites and Software (collectively "Products"). When we collect your information from our Products, we will tell you how we may collect, use, and, in some instances, share this information. 
 
@@ -15,6 +15,10 @@ By accessing any Web site, Pinball may place cookies on your hard drive. Pinball
 **User-Provided Information.**
 
 In order to utilize the services at some Web sites you may be asked to provide certain personally identifiable information ("PII"), such as account information (user name and password), credit card information (card type, account number, expiration date, and billing address), banking information (Swift/ABA routing number, account number, bank name and address), PayPal email, email address, IM user ID, name and company name, tax identification number, and home or work address and telephone number, as well as certain demographic information such as city, state, country and zip code. Pinball uses your PII to deliver the services you have requested and to communicate with you, including certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Pinball. All such information is provided voluntarily by you. If you provide a friend's email address to Pinball for the "refer-a-friend" feature, we use that email address only for the purpose of sending your friend the email you requested. No PII is utilized by Pinball for the purpose of displaying advertisements or for profiling. Pinball does not sell, rent or lease PII to third parties. 
+
+**Credit Cards**
+
+When credit card data is required for services, we protect your credit card information using industry standard SSL encryption whenever card data is transmitted to us and when sending your credit card information to our credit card processor. While in our possession, your credit card number is protected with asymmetric encryption to keep it secure. 
 
 **Software.**
 
@@ -57,5 +61,3 @@ Pinball reserves the right to change the provisions of this Privacy Policy at an
 **Contact Us.**
 
 If you have any questions about Pinball's Lead Impact program, a Pinball Web site, or any Software or related services, you should first consult the Pinball Web site at [http://www.pinballcorp.com](http://www.pinballcorp.com/). If you have further questions or concerns, please contact us at [contactpinball@pinballcorp.com](mailto:contactpinball@pinballcorp.com) or write to Pinball Support, 3600 136th Place SE, Bellevue, WA 98006\. 
-
-Copyright © 2009 Pinball Corp. All rights reserved.
