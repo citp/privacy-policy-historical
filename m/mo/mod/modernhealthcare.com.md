@@ -1,21 +1,15 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227155623id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626003439id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.*
 
-# Privacy Policy and Rules - Healthcare business news from Modern Healthcare
-
-|  |  | 
-
-Healthcare Business News
-
-Posted: January 1, 2010 - 12:01 am ET
-
-  
-
+# Privacy Policy and Rules - Healthcare business news, research, information and opinions | Modern Healthcare
 
 Modernhealthcare.com is the Web site of _Modern Healthcare_ , a publication of Crain Communications Inc. Our postal address is 360 N. Michigan Avenue, Chicago, IL 60601. We can be reached by e-mail at mheditorial@crain.com or by telephone at 312-649-3173. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
 
 We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated. 
 
 When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement. We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item. 
+
+  
+
 
 We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site. Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location. We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate.
 
@@ -29,13 +23,12 @@ ModernHealthcare.com uses a third party to collect information on our site, incl
 
 We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [mheditorial@crain.com](mailto:mheditorial@crain.com). You may not be able to fully access this Web site if you request removal of your personal information. 
 
+  
+
+
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000.
 
 Policy Last Updated: May 8, 2010
 
-|  |    
-[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Left1,Middle1,Right1,Right2,x23,TopRight!Right1?)
-
-[](http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Left1,Middle1,Right1,Right2,x23,TopRight!Right2?)  
   
----|---|---|---|---
+
