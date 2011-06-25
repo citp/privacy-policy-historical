@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508182525id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625043208id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Healthy Paws Pet Insurance
 
 Healthy Paws Pet Insurance LLC ("Healthy Paws") is committed to the highest level of integrity in all of our dealings with our customers, employees and service partners. Our commitment extends to any personal information about our customers that we might possess or acquire. Healthy Paws is committed to respecting personal privacy, and safeguarding individual record confidentiality and system security. Accordingly, Healthy Paws and its subsidaries and affiliates adhere to the following **Privacy Guidelines and Principles:**
 
-### Privacy Guidelines and Principles
+Privacy Guidelines and Principles
 
   * Healthy Paws has developed policies and programs for the protection of customer information.
   * Healthy Paws strives to maintain the accuracy of customer information and will promptly respond to any questions or concerns customers may raise with respect to the accuracy of personal information.
@@ -14,29 +14,29 @@ Healthy Paws Pet Insurance LLC ("Healthy Paws") is committed to the highest leve
 
 
 
-### How we collect information
+How we collect information
 
 You provide most information voluntarily when you apply for pet insurance or submit a claim for benefits. Additionally, we may need to obtain or verify information from third parties, such as requesting pet medical records from your veterinarian.
 
-### Information we collect
+Information we collect
 
 The information we request from you or colleipct from third parties relates to your transaction with us such as your pet's information, your name, address, phone number, e-mail, address and bank or credit card information.
 
-### How your information may be used
+How your information may be used
 
 We collect and use information to evaluate requests for insurance or claims, to maintain communication with you in order to provide you with service, to administer our products or services, and to process your transactions. We never sell or rent the information you provide to us to third parties. 
 
-### Other personal information
+Other personal information
 
 In addition, we may collect user information for our web site via cookies, alphanumeric identifiers transmitted from a web site to a visitor's browser. We collect such information solely for the purpose of better customer service, enabling our ability to identify users and create content to meet their needs. While it is possible to disable cookies via your browser settings, doing do may not allow us to enhance your web experience.
 
 We collect only the domain name; the e-mail addresses of thosee who communicate with us via e-mail; aggregate information on what pages customers visit; and information volunteered by you the customer, such as quote requests, survey information, and/or site reggistrations
 
-### Payment Information
+Payment Information
 
 We partnered with Authorize.net, a CyberSource company, to provide credit card processing services. CyberSource is compliant with the Pyment Card Industry Data Security Standard ("PCIDSS") as a Level 1 service provider. CyberSource has been compliant with PCI DSS is the bankcard industry's most stringent security standard. Examples of CyberSource's security measures include: physical, electronic, and procedural safeguards; sophisticated security monitoring toolss; documented security policies; use of strong encryption for transmissions of order information to and from CyberSource customers; restricted access of personally identifiable information; and periodic security audits by third party security experts.
 
-### Parties to whom we may disclose information
+Parties to whom we may disclose information
 
 We only disclose your information as necessary to effect, administer, or enforce your transaction with us, or in conjunction with servicing your insurance policy through insurance crriers or their represenatatives. When we disclose information to our service partners, we require the company to maintain the confidentiality of the information.
 
