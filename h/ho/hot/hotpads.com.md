@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpads.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215110957id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpads.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625191016id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - HotPads.com
 
@@ -6,7 +6,7 @@
 
 ### Privacy Summary
 
-At HotPads, we follow the Golden Rule. We treat your information as we would like you to treat ours. The following Privacy Policy outlines our specific policies regarding what information we collect from our users and what we do with it. We will abide by this policy and protect your information and privacy, but if you believe that we have infringed upon your privacy for any reason, please give us a call at 202-333-7474 or email us at [privacy@hotpads.com](mailto:privacy@hotpads.com). 
+At HotPads, we follow the Golden Rule. We treat your information as we would like you to treat ours. The following Privacy Policy outlines our specific policies regarding what information we collect from our users and what we do with it. We will abide by this policy and protect your information and privacy, but if you believe that we have infringed upon your privacy for any reason, please give us a call at (563) Buy-Rent [289-7368] or email us at [privacy@hotpads.com](mailto:privacy@hotpads.com). 
 
 ### Privacy Policy
 
