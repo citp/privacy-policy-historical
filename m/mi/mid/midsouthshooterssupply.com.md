@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222001536id_/http%3A//www.midsouthshooterssupply.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625080507id_/http%3A//www.midsouthshooterssupply.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
