@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224161123id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625194150id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
 
 # Acas - Acas privacy policy
 
-****
-
-This statement covers the services provided by the Acas website, www.acas.org.uk. It describes how we collect, protect and use information we receive from website visitors. The Data Controller for this website is Acas.
+This statement covers the services provided by the Acas website, [www.acas.org.uk](http://www.acas.org.uk/). It describes how we collect, protect and use information we receive from website visitors. The Data Controller for this website is Acas.
 
 ## Security and confidentiality
 
@@ -30,11 +28,14 @@ If you have a complaint about an employment right or are responding to one, Acas
 
 Cookies are pieces of data created when you visit a site, which contain a unique, anonymous number. They are stored in the cookie directory of your hard-drive, and do not expire at the end of your session. Cookies do not contain any personal information and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website.
 
-Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow it. Alternatively, you can set your computer not to accept any cookies. If you disable cookies, you may not have access to some features that make your site experience more efficient and some of our services may not function properly, such as placing an on-line order. Visitors who disable cookies can still place orders over the telephone.
+[Find out about the use of cookies on our site](http://www.acas.org.uk/index.aspx?articleid=3341)
 
-Acas uses Nielsen//NetRatings and Google Analytics to track web statistics. For information on these statistic tools please visit their respective websites. 
+Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow it. Alternatively, you can set your computer not to accept any cookies. If you disable cookies, you may not have access to some features that make your site experience more efficient and some of our services may not function properly, such as placing an on-line order. Visitors who disable cookies can still place orders over the telephone.[  
+](http://www.acas.org.uk/index.aspx?articleid=3341)
 
-**Access to your information and contacting acas.org.uk**
+Acas uses Google Analytics to track web statistics. For information on these statistic tools please visit their respective websites. 
+
+### Access to your information and contacting Acas
 
 You have the right to request a copy of the personal information Acas holds about you and to have any inaccuracies corrected. Please address requests (with a return email address where possible) to:
 
@@ -44,12 +45,10 @@ If you have a query or complaint about this privacy policy or about the site, yo
 
 **Note that we cannot answer personal situations or queries by email.** You can call the dedicated National Helpline 08457 47 47 47 for free confidential help and information on work issues.
 
-## Links to external sites from the Acas website
+### Links to external sites from the Acas website
 
 Our website contains links to other sites, mainly government departments, but also to those of other third parties. Acas is not responsible for the privacy practices within any of these other sites. You should be aware of this when you leave the Acas site and we encourage you to read the privacy statements of other websites.
 
 ## Changes to this privacy policy
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-Version 1.1, last updated 2008
