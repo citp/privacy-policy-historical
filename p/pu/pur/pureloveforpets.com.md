@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pureloveforpets.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225024622id_/http%3A//www.purina.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureloveforpets.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625052516id_/http%3A//purina.com/General/Privacy.aspx) for the most accurate reproduction.*
 
-# Purina.Com | Caring Privacy Policy | Purina.com
+# Purina.Com | Dog | Caring Privacy Policy | Purina.com
 
 ### Privacy Policy
 
