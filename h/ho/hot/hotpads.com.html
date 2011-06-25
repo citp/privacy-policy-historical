@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215110957id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2011-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625191016id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
@@ -11,18 +11,21 @@
 			<meta name="keywords" content="HotPads Privacy Policy">
 		
 		<title>Privacy Policy - HotPads.com</title>
-		<link href="/css/raptor/main_blu.css?112" media="all" rel="stylesheet" type="text/css">		
-		<link href="/css/blu.css?112" media="all" rel="stylesheet" type="text/css">
+		<link href="/css/main_blu.css?137" media="all" rel="stylesheet" type="text/css">		
+		<link href="/css/blu.css?137" media="all" rel="stylesheet" type="text/css">
 		
 		<style type="text/css">
 			ul { 
 				list-style-type: disc; 
 				margin-left:15px;
 			}
+			.primary-navigation-item ul {
+				margin-left:0px;
+			}
 		</style>				
 		
-		<script type="text/javascript" src="/js/compressed/jquery.compressed.js?163"></script>		
-		<script type="text/javascript" language="JavaScript" src="/js/raptor/bin/hotpads/util.js?163"></script>
+		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="/js/compressed/jquery.compressed.js?193"></script>		
+		<script type="text/javascript" language="JavaScript" src="/js/raptor/bin/hotpads/util.js?193"></script>
 		
 
 
@@ -72,6 +75,8 @@
 		
 			gam_sec = "unknown";
 		
+
+		googleAdsenseForSearchPhrase = "";
 	</script> 
 	
 	
@@ -139,46 +144,66 @@
 
 
 
+
+
+
+
 	
 
 
 
+
+
+
+
+<!--[if lt IE 8]> 
+<style type="text/css">
+	.primary-navigation {
+		behavior: url("/css/ie-csshover3.htc");	
+	}
+</style>
+<![endif]-->
+
 <ul class="primary-navigation">
-	<li class="primary-navigation-item" id="nav-search"><a href="/search#minLat=37.589575999999994&amp;maxLat=37.989576&amp;minLon=-122.879598&amp;maxLon=-121.979598&amp;listingTypes=rental&amp;propertyTypes=condo&amp;bedrooms=0,&amp;lowPrice=1116.0&amp;highPrice=1674.0&amp;includeVaguePricing=false">Search</a>
+	<li class="primary-navigation-item" id="nav-search"><a href="/search">Search</a>
+		
 		<ul class="primary-subnav">
-			
-				<li class="primary-subnav-item"><a href="/search#minLat=37.589575999999994&amp;maxLat=37.989576&amp;minLon=-122.879598&amp;maxLon=-121.979598&amp;listingTypes=rental&amp;propertyTypes=condo&amp;bedrooms=0,&amp;lowPrice=1116.0&amp;highPrice=1674.0&amp;includeVaguePricing=false">last search</a></li>
-				<li class="primary-subnav-break"></li>
 					
-			<li class="primary-subnav-item"><a href="/search/rent" onclick="document.location='/search?listingTypes=rental,sublet,room,corporate';return false">For Rent</a></li>
-			<li class="primary-subnav-item"><a href="/search/real-estate" onclick="document.location='/search?listingTypes=sale,newHome,foreclosure,auction';return false">For Sale</a></li>
-			<li class="primary-subnav-item"><a href="/search/buy-vs-rent" onclick="document.location='/search?listingTypes=sale,newHome,rental';return false">Buy Vs. Rent</a></li>
-			<li class="primary-subnav-item"><a href="/search/foreclosure" onclick="document.location='/search?listingTypes=foreclosure';return false">Foreclosures</a></li>
-			<li class="primary-subnav-item"><a href="/search/vacation-rentals" onclick="document.location='/search?listingTypes=vacation';return false">Vacation</a></li>
-			<li class="primary-subnav-item"><a href="/search/hotels" onclick="document.location='/search?listingTypes=hotel';return false">Hotels</a></li>
+			
+			
+				<li class="primary-subnav-item"><a href="/search/rent" onclick="document.location='/search?listingTypes=rental,sublet,room,corporate';return false">For Rent</a></li>
+				<li class="primary-subnav-item"><a href="/search/real-estate" onclick="document.location='/search?listingTypes=sale,newHome,foreclosure,auction';return false">For Sale</a></li>
+				<li class="primary-subnav-item"><a href="/search/buy-vs-rent" onclick="document.location='/search?listingTypes=sale,newHome,rental';return false">Buy Vs. Rent</a></li>
+				<li class="primary-subnav-item"><a href="/search/foreclosure" onclick="document.location='/search?listingTypes=foreclosure';return false">Foreclosures</a></li>
+				<li class="primary-subnav-item"><a href="/search/vacation-rentals" onclick="document.location='/search?listingTypes=vacation';return false">Vacation</a></li>
+				<li class="primary-subnav-item"><a href="/search/hotels" onclick="document.location='/search?listingTypes=hotel';return false">Hotels</a></li>
+			
 		</ul>
+		
 	</li>
 	<li class="primary-navigation-item" id="nav-my-hotpads"><a href="/userSearch/favorite/list">My Hotpads</a>
 		<ul class="primary-subnav">
-			<li class="primary-subnav-item"><a href="/userSearch/favorite/list" rel="nofollow">My Favorites</a></li>
-			<li class="primary-subnav-item"><a href="/users/mySearches.htm" rel="nofollow">My Searches</a></li>
+			<span class="primary-subnav-group">
+				<li class="primary-subnav-item"><a href="/userSearch/favorite/list" rel="nofollow">My Favorites</a></li>
+				<li class="primary-subnav-item"><a href="/users/mySearches.htm" rel="nofollow">My Searches</a></li>
+			</span>
 			<li class="primary-subnav-break"></li>
-
-			
-			
-				<li class="primary-subnav-item"><a href="/list.htm" rel="nofollow">List a Place</a></li>
-			
-			
+			<span class="primary-subnav-group">
 				
-			
-			
-			
-			
+				
+					<li class="primary-subnav-item"><a href="/list.htm" rel="nofollow">Create a Listing</a></li>
+				
+				
+					
+				
+			</span>
 			<li class="primary-subnav-break"></li>
-			<li class="primary-subnav-item"><a href="/profile/edit.htm" rel="nofollow">Edit My Profile</a></li>
-			<li class="primary-subnav-item"><a href="/users/editUser.htm">Edit Account</a></li>
-			<li class="primary-subnav-break"></li>
-			<li id="creditChecks" class="primary-subnav-item"><a target="_blank" href="http://hotpads.mysmartmove.com" rel="nofollow">Credit Checks <span class="sprite sprite-externallink"></span></a></li>
+			<span class="primary-subnav-group">
+				<li class="primary-subnav-item"><a href="/profile/edit.htm" rel="nofollow">Edit My Profile</a></li>
+				<li class="primary-subnav-item"><a href="/users/editUser.htm">Edit Account</a></li>
+				
+			</span>
+			
 		</ul>
 	</li>
 	<li class="primary-navigation-item" id="nav-answers"><a href="/answers">Answers</a>
@@ -241,7 +266,7 @@
 <br>
 <br>
 <h3 style="border-bottom:1px solid gray;">Privacy Summary</h3>
-At HotPads, we follow the Golden Rule.  We treat your information as we would like you to treat ours.  The following Privacy Policy outlines our specific policies regarding what information we collect from our users and what we do with it.  We will abide by this policy and protect your information and privacy, but if you believe that we have infringed upon your privacy for any reason, please give us a call at 202-333-7474 or email us at <a style="font-weight:normal;" href="mailto:privacy@hotpads.com">privacy@hotpads.com</a>. 
+At HotPads, we follow the Golden Rule.  We treat your information as we would like you to treat ours.  The following Privacy Policy outlines our specific policies regarding what information we collect from our users and what we do with it.  We will abide by this policy and protect your information and privacy, but if you believe that we have infringed upon your privacy for any reason, please give us a call at (563) Buy-Rent [289-7368] or email us at <a style="font-weight:normal;" href="mailto:privacy@hotpads.com">privacy@hotpads.com</a>. 
 <br>
 <br>
 <br>
@@ -361,6 +386,13 @@ HotPads, Inc.
 
 
 
+<!--[if lte IE 7]>
+	<style type="text/css">
+		.footer-info {
+			font-size:9px;
+		}	
+	</style>
+<![endif]-->
 
 <div id="footer">
 	<div class="footer-content">
@@ -420,7 +452,7 @@ HotPads, Inc.
 			</p>
 			<div id="footerCopyright">
 				<a href="http://www.hud.gov/offices/fheo/index.cfm" rel="nofollow"><img src="/images/icons/fheo.gif" alt="fair housing and equal opportunity"></a>
-				<p>© 2010 hotpads.com</p>		
+				<p>© 2011 hotpads.com</p>		
 			</div>
 		</div>
 	</div>
@@ -453,6 +485,8 @@ HotPads, Inc.
   _gaq.push(['_setAccount', 'UA-161502-1']);
   _gaq.push(['_trackPageview']);
 
+  
+  
   (function() {
     var ga = document.createElement('script');
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
@@ -463,17 +497,27 @@ HotPads, Inc.
 
 </script>
 
+<!-- Quantcast Tag --> 
+<script type="text/javascript">
+  var _qevents = _qevents || [];
 
+  (function() {
+   var elem = document.createElement('script');
 
-
-	
-	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-	<script type="text/javascript">
-	_qacct="p-88tbF0RXGNd5A";quantserve();</script> 
-	<noscript>
-	<a href="http://www.quantcast.com/p-88tbF0RXGNd5A" target="_blank"><img src=" http://pixel.quantserve.com/pixel/p-88tbF0RXGNd5A.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
-	
-
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+<script type="text/javascript">
+_qevents.push( { qacct:"p-88tbF0RXGNd5A"} );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-88tbF0RXGNd5A.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<!-- End Quantcast tag -->
 
 
 
