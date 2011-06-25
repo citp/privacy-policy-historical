@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelpage.co.in privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220215321id_/http%3A//www.michaelpage.co.in/ContentArticle/page/7252.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.co.in privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625030604id_/http%3A//www.michaelpage.co.in/ContentArticle/page/7252.html) for the most accurate reproduction.*
 
 # Privacy Policy - Michael Page International
 
