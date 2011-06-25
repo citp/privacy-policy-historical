@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paktribune.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222140123id_/http%3A//paktribune.com/mainlinks/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paktribune.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625204401id_/http%3A//paktribune.com/mainlinks/privacy.php) for the most accurate reproduction.*
 
 # Pakistan News PakTribune.Com
 
@@ -14,5 +14,3 @@ If you do nothing during your visit but browse through the website, read pages, 
 4\. If you linked to this website from another website, the address of that other website.
 
 If you choose to provide us with personal information by sending an e-mail to us, or by filling out a form with your personal information and submitting it through our website, we use that information to respond to your message and to help us get the information you have requested. We do not collect personal information for any other purposes. Moreover, we do not create individual profiles with the information you provide or give this information to any private organizations. Nor do we collect information for commercial marketing.
-
-�
