@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerplane.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222001039id_/http%3A//careerplane.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerplane.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625022834id_/http%3A//www.careerplane.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CareerPlane.com ©2009
 
