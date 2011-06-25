@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124195042id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626012639id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy for Payworks Payroll Services Canada
 
@@ -6,15 +6,21 @@ Security Procedures
 not just policies
 
   * Now Available
-  * [2010 Payroll Guide](http://www.payworks.ca/download.asp?y=2010&item=Payroll-Guide) (4MB)
+  * [2011 Payroll Guide](http://www.payworks.ca/download.asp?y=2011&item=Payroll-Guide) (2MB)
   * [Pay Element Automation](http://www.payworks.ca/online-payroll-services.asp)
   * Events
+  * [Franchise/Business Show](http://www.payworks.ca/payroll-events.asp?loc=tor&item=#franchise)  
+Sept 10-11, 2011 
+  * [CGA-BC Conference 2011](http://www.payworks.ca/payroll-events.asp?loc=bc&item=#cga)  
+Sept 21-25, 2011
+  * [Alberta Foodservice Expo](http://www.payworks.ca/payroll-events.asp?loc=ab&item=#altafood)  
+Oct 2-3, 2011
   * [BC Hospitality Expo](http://www.payworks.ca/payroll-events.asp?loc=bcexpo&item=#expo)  
-Nov 22-23, 2010
+Nov 7-8, 2011
 
 
 
-Payworks is committed to providing the highest level of security and privacy regarding the collection and use of our online payroll customers' personal information, as well as that of all visitors to our website. Personal information may be collected through the submission of account applications, online banking transactions, or through the use of online financial tools such as interactive calculators. A detailed description of Payworks Privacy Policy is provided below. If you have additional questions regarding the privacy of your personal information, [contact us](https://web.archive.org/web/20101124195042id_/http%3A//www.payworks.ca/contact-payworks-payroll-canada.asp).
+Payworks is committed to providing the highest level of security and privacy regarding the collection and use of our online payroll customers' personal information, as well as that of all visitors to our website. Personal information may be collected through the submission of account applications, online banking transactions, or through the use of online financial tools such as interactive calculators. A detailed description of Payworks Privacy Policy is provided below. If you have additional questions regarding the privacy of your personal information, [contact us](https://web.archive.org/web/20110626012639id_/http%3A//www.payworks.ca/contact-payworks-payroll-canada.asp).
 
 ### Applicability
 
