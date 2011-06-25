@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ribbun.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724023135id_/http%3A//www.ribbun.com/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ribbun.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625114137id_/http%3A//www.ribbun.com/privacy%2520policy.php) for the most accurate reproduction.*
 
-# directory submission
+# Privacy Politcy | RIBBUN | SEO COMPANY
 
 This privacy statement is subject to change without notice to you, the user. Please read this statement each time you visit the site so that you will be fully informed of the privacy policies and procedures of Ribbun.
 
@@ -12,6 +12,6 @@ Our privacy statement only addresses the use and disclosure of information that 
 
 Ribbun prohibits sharing of personal identifying information of the clients. As a matter of critical concern, we would rather intimate our clients about the way we use the information for the realization of the work delegated and in case, where it needs to be shared, it would be purely on the basis of written permission from our clients. Ribbun has its own set of privacy policies, which it strictly adheres to. This Website has link to other sites as well, and Ribbun holds no responsibility for the content of any such site.
 
-www.Ribbun.biz is a resource for informational purposes only and is intended, but not promised or guaranteed, to be correct, complete, and up-to-date. Ribbun does not warrant that the information contained on this Website is accurate or complete, and hereby disclaims any and all liability to any person for any loss or damage caused by errors or omissions, whether such errors or omissions result from negligence, accident or any other cause.
+www.Ribbun.com is a resource for informational purposes only and is intended, but not promised or guaranteed, to be correct, complete, and up-to-date. Ribbun does not warrant that the information contained on this Website is accurate or complete, and hereby disclaims any and all liability to any person for any loss or damage caused by errors or omissions, whether such errors or omissions result from negligence, accident or any other cause.
 
 Ribbun further assumes no liability for the interpretation and/or use of the information contained on this Website, nor does it offer a warranty of any kind, either expressed or implied. Readers of the site should not rely on the information provided here and should always seek the advice of the competent person. No recipients of content from this Website should act, or refrain from acting, based upon any or all of the contents of this site. Ribbun is not responsible for, and makes no representations or warranties about, the contents of Websites to which links may be provided from this Website. 
