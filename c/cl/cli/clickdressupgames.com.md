@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickdressupgames.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121030215id_/http%3A//clickdressupgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdressupgames.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625034422id_/http%3A//www.clickdressupgames.com/privacy.html) for the most accurate reproduction.*
 
-# Clickdressupgames.com - Privacy Policy
+# Privacy Policy - Clickdressupgames.com
 
 Clickdressupgames.com is firmly committed to the privacy of our users' personal information. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of Clickdressupgames.com. We outline here the information-collection procedure and usage practices for our website, www.clickdressupgames.com. By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
 
