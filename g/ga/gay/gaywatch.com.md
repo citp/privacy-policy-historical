@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaywatch.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123171716id_/http%3A//www.gaywatch.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaywatch.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625034623id_/http%3A//gaywatch.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Gaywatch.com | A network for you.
+# Gaywatch.com | Privacy Policy
 
 ### Privacy Policy
 
