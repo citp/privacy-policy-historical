@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728101134id_/http%3A//www.thefragranceshop.co.uk/c24/privacy-policy-the-fragrance-shop.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625231014id_/http%3A//www.thefragranceshop.co.uk/c24/privacy-policy-the-fragrance-shop.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Fragrance Shop
 
@@ -51,7 +51,7 @@ The Fragrance Shop makes a commitment to protecting your privacy and promises o
   
 
 
-  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20100728101134id_/http%3A//www.thefragranceshop.co.uk/c24/contact.html) page and the information will be corrected as soon as possible or removed from our database as you request. 
+  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20110625231014id_/http%3A//www.thefragranceshop.co.uk/c24/contact.html) page and the information will be corrected as soon as possible or removed from our database as you request. 
 
 
 
