@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsvidz.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208063621id_/http%3A//newsvidz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsvidz.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625192928id_/http%3A//newsvidz.com/privacy-policy) for the most accurate reproduction.*
 
 # News Video Tube - Politics news, today news, world news, bbc news, economic news, sport news movies
 
