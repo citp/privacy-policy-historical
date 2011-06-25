@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktale.net privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229022219id_/http%3A//www.clicktale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktale.net privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625155419id_/http%3A//www.clicktale.com/Policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Experience Analytics by Clicktale
 
@@ -48,7 +48,7 @@ When we receive formal written complaints posted using our [contact form](http:/
 4\. ClickTale is a licensee of the TRUSTe Privacy Program.
      TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.clicktale.com](http://www.clicktale.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact ClickTale through the [contact form](http://www.clicktale.com/contact.aspx). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=)
+If you have questions or concerns regarding this statement, you should first contact ClickTale through the [contact form](http://www.clicktale.com/contact/contact_us). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=)
 
 5\. Policy Modifications
      If we decide to change our privacy policy, we will post those changes to this privacy statement wherever it appears, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
