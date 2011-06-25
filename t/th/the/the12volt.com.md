@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231134208id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625204334id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,18 +6,18 @@
   | Mobile Electronics Basics  
 ---  
 [Diodes](http://www.the12volt.com/diodes/diodes.asp "Blocking Diodes")  
+[Glossary of Terms](http://www.the12volt.com/glossary/glossaryofterms/A.html "Mobile Electronics Glossary")  
 [Ohm's Law](http://www.the12volt.com/ohm/ohmslaw.asp "Formulas - Pie Chart - Calculators")  
 [Relays](http://www.the12volt.com/relays/relays.asp "Relays, Wiring & Diagrams")  
 [Resistors](http://www.the12volt.com/resistors/resistors.asp "Color Codes - Calculator")  
 [Tools and Equipment](http://www.the12volt.com/tools/tools.asp "Tools for the Shop & Installer")  
-[Glossary of Terms](http://www.the12volt.com/glossary/glossaryofterms/A.html "Mobile Electronics Glossary")  
+[Wire Sizes](http://www.the12volt.com/info/recwirsz.asp "Recommended Speaker, Power and Ground Wire Sizes")  
 Car Audio & Mobile Video  
 [Introduction](http://www.the12volt.com/caraudio/caraudio.asp "Car Audio Introduction")  
 [Metra Application Guides](http://www.the12volt.com/wireinfo/metra.asp "Metra Application Guides")  
 [Parallel & Series Calcs](http://www.the12volt.com/caraudio/boxcalcs.asp "Parallel and Series Calculators")  
 [Passive Crossovers](http://www.the12volt.com/caraudio/cross.asp "Passive Crossovers Diagrams and Calculators")  
 [Port Length Calculators](http://www.the12volt.com/caraudio/boxcalcs.asp "Port Length Calculator")  
-[Power & Ground Wire Sizes](http://www.the12volt.com/info/recwirsz.asp "Power and Ground Sizes")  
 [Subwoofer Box Calculators](http://www.the12volt.com/caraudio/boxcalcs.asp "Subwoofer Enclosure Calculators")  
 [Subwoofer Enclosure Types](http://www.the12volt.com/caraudio/boxes.asp "Subwoofer Enclosures")  
 [Subwoofer Wiring Options](http://www.the12volt.com/caraudio/woofer_configurations.asp "Subwoofer Wiring Wizard")  
@@ -36,16 +36,15 @@ Car Security & Convenience
 [Light Flash](http://www.the12volt.com/relays/page4.asp "Light Flash")  
 [Power Door Locks](http://www.the12volt.com/doorlocks/doorlocks.asp "Door Locks, Switch Types & Diagrams")  
 [Starter Interrupts](http://www.the12volt.com/relays/page2.asp "Starter Interrupts")  
-[Insurance for Car Stereos](http://www.the12volt.com/insurance/insurance.asp "Insurance for Car Stereos and Accessories")  
 [Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
 [The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Cruise Controls  
-[Introduction](http://www.the12volt.com/cruises/cruises.asp "Cruise Control Introduction")  
-[Electrical Connections](http://www.the12volt.com/cruises/cruises.asp#hcb "Electrical Connections")  
-[Mechanical Connections](http://www.the12volt.com/cruises/cruises.asp#mech "Mechanical Connections")  
-[Servo Settings](http://www.the12volt.com/cruises/cruises.asp#servo "Micro Cruise Switch Settings")  
-[VSS and Tach Info](http://www.the12volt.com/cruises/cruises.asp#special "VSS & Tachometer Information")  
+[Introduction](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp "Cruise Control Introduction")  
+[Electrical Connections](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp#hcb "Electrical Connections")  
+[Mechanical Connections](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp#mech "Mechanical Connections")  
+[Servo Settings](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp#servo "Micro Cruise Switch Settings")  
+[VSS and Tach Info](http://www.the12volt.com/cruisecontrol/cruisecontrol.asp#special "VSS & Tachometer Information")  
 [The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Databse](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Forums  
@@ -90,9 +89,8 @@ Et Cetera
 [Link to Us](http://www.the12volt.com/links/linktous.asp "Link to the12volt.com")  
 [Support Us](http://www.the12volt.com/installbay/donations.asp "Support the12volt.com. Make a donation and link to us. Help support the free exchange of information for mobile electronics installers and enthusiasts.")  
   
-  
-  
   |  |    
+  
 
 
 **the12volt.com respects your privacy. This statement discloses the privacy practices for both our web site and e-mail system.**
@@ -149,9 +147,4 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 | Search the12volt.com  
 ---  
   
-Custom Search   
-  
-  
-Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20101231134208id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
----  
-Friday, December 31, 2010 | • | Copyright © 1999-2010 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)
+Custom Search 
