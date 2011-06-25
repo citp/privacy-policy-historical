@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapportive.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127172319id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapportive.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625123404id_/http%3A//rapportive.com/privacy) for the most accurate reproduction.*
 
 # Rapportive | Pledge of Privacy
 
@@ -8,11 +8,11 @@ Rapportive integrates with your email, and we understand that this carries a gre
 
 That's why we don't just have a privacy policy; we have a **pledge of privacy**. It's our promise that we will always respect your privacy. We've tried to make it absolutely clear, open and readable, but if you have any questions or concerns at all, please [drop us an email](mailto:supportive@rapportive.com).
 
-Please note that this document may change from time to time, to clarify wording or to reflect new features in Rapportive. However, the following principles will not change.
+Please note that this document may change from time to time, to clarify wording or to reflect new features in Rapportive. However, the following principles will not change:
 
   * Your trust is the most precious thing we have, and we will never betray you.
   * We want you to be in control of your own information.
-  * We clearly separate what is public and what is private.
+  * Your private information remains absolutely confidential.
   * We will be very transparent and explain clearly what we do with your information.
   * We will never spam you, and never allow others to spam you.
 
@@ -22,7 +22,7 @@ Please note that this document may change from time to time, to clarify wording 
 
 #### Where does Rapportive get its data from?
 
-We combine information from several sources; at the moment, these are [Google Profiles](http://www.google.com/profiles), [Gravatar](http://gravatar.com/), [LinkedIn](http://www.linkedin.com/), [Plancast](http://plancast.com/), [Rapleaf](http://www.rapleaf.com/), [Stack Overflow](http://www.stackoverflow.com/) and [Twitter](http://twitter.com/), as well as thousands of organisations' public websites. In the future we will offer integration with many more data sources, both public (e.g. social networking sites) and private (e.g. your address book and your CRM system).
+We combine information from several sources; at the moment, these are [Academia.edu](http://academia.edu/), [Bitbucket](https://bitbucket.org/), [CrunchBase](http://www.crunchbase.com/), [Econsultancy](http://econsultancy.com/), [Facebook](http://www.facebook.com/), [Flickr](http://www.flickr.com/), [GitHub](https://github.com/), [Google Profiles](http://www.google.com/profiles), [Gravatar](http://gravatar.com/), [LinkedIn](http://www.linkedin.com/), [Plancast](http://plancast.com/), [Posterous](http://posterous.com/), [Rapleaf](http://www.rapleaf.com/), [Stack Overflow](http://www.stackoverflow.com/), [Tungle.me](http://www.tungle.me/) and [Twitter](http://twitter.com/), as well as thousands of organisations' public websites. We also allow you to add more services to Rapportive; please see the section on other services for details.
 
 We make a clear distinction between:
 
@@ -47,7 +47,7 @@ What we do with your information depends on the type of information:
 
   * Data which is **private to you** (e.g. notes about a contact) is stored securely on our servers. It may be processed by us as part of the routine operations of Rapportive, but it is never shared with any third party (unless you explicitly ask us to).
   * If you edit **your own public profile** , we will make sure that everybody who views your profile on Rapportive is shown your updated profile. This enables you to take control of your own information.
-  * If you edit **someone else's public profile** , we will show the updated information to you; we may then process the information to determine whether we should also show it to others. This allows us to maintain a high quality of data.
+  * If you edit **someone else's public profile** , your changes are kept private to you, and you have the option of informing the owner of the profile about your changes. Edits only become public if approved by the owner of the profile.
 
 
 
@@ -92,11 +92,35 @@ We never see your Gmail password, so there is no risk of your sensitive communic
 
 Some of our services need to access more of your data than others. These services will be opt-in. Before you opt-in to a service which requires additional access, we will explain in clear words what we will do with your information, and you will have a clear choice whether you want to allow it.
 
+### Authorizing access to other services
+
+#### Authorizations managed by Rapportive
+
+Rapportive offers you the option to connect your accounts on other services (for example, Facebook or LinkedIn) to your Rapportive account. We will use your authorization to search for information about people you look up, and present this information to you in Rapportive. This gives you better information quality and coverage than publicly available information alone. 
+
+If your authorization gives Rapportive access to sensitive information that is not otherwise publicly available, we promise to treat that information with the same care as all your other private information. We will not make it available to anyone else, unless you explicitly ask us to.
+
+Some authorizations enable you to take actions directly within Rapportive (e.g. sending an invitation to a contact). You are in full control of any such actions, and you can edit any text they contain.
+
+We will not take any action on your behalf without your permission. For example, we will not post any messages from your account, nor will we change any of your profile information on other services.
+
+#### Third-party Raplets
+
+Rapportive also allows you to add third-party components, called "Raplets", to your account. Raplets may be used to fetch information from external systems, such as your CRM software, and may also be used to update information in those systems.
+
+Raplets may execute JavaScript code within Rapportive. This allows them to provide rich interaction, but also requires a high degree of trust. We therefore ask you to take care, and only add Raplets from services you trust. Rapportive displays a warning and asks for your confirmation before activating any third-party Raplet.
+
+Raplets that are advertised by us have been reviewed and are safe to the best of our knowledge. However, because Raplets are developed by third parties and hosted outside of Rapportive, we can't make any guarantees.
+
+When you remove a Raplet from Rapportive it ceases to have access to your account.
+
 ### Cookies & tracking
 
 #### Does Rapportive use cookies?
 
 Like almost all websites today, Rapportive uses cookies to determine whether you are logged in on your computer. Because of the nature of Rapportive's service, this cookie identifies you personally; without this identification, we would not be able to provide the Rapportive service.
+
+Rapportive keeps your cookies strictly confidential. In order to prevent your private information from leaking to other websites, we do not set any cookies outside of the `rapportive.com` domain. In particular, we do not participate in any schemes related to personalized advertising.
 
 #### Does Rapportive track what I do?
 
