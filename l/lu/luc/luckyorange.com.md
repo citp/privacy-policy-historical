@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the luckyorange.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127153508id_/http%3A//www.luckyorange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyorange.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625122458id_/http%3A//www.luckyorange.com/privacy.php) for the most accurate reproduction.*
 
-# Live Chat Software Free Trial | Lucky Orange
+# Privacy Policy | Lucky Orange
 
 We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+
+**What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways: 
 
@@ -16,6 +18,8 @@ Any of the information we collect from you may be used in one of the following w
 
 • To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
+
+• To process transactions
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -63,7 +67,7 @@ By using our site, you consent to our [websites privacy policy](http://www.free
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on November 22, 2010
+This policy was last modified on Februrary 9, 2011
 
 **Contacting Us**
 
