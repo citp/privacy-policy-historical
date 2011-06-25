@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banahosting.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120230041id_/http%3A//www.banahosting.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banahosting.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625204624id_/http%3A//www.banahosting.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Web Hosting Domain Website Hosting
 
