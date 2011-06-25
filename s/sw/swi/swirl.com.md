@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swirl.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124081152id_/https%3A//www.swirl.com/privacy.ep) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirl.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625093618id_/https%3A//www.swirl.com/privacy.ep) for the most accurate reproduction.*
 
 # Swirl by DailyCandy
 
@@ -76,8 +76,8 @@ You can obtain a copy of your Personally Identifiable Information from Swirl's c
 
 **DailyCandy Commerce, LLC  
 Attn: Privacy Policies  
-12200 West Olympic Blvd, Suite 150  
-Los Angeles, CA 9006**
+12200 West Olympic Blvd, Suite 100  
+Los Angeles, CA 90064**
 
 WHAT ELSE SHOULD I KNOW ABOUT PRIVACY?
 
@@ -95,13 +95,17 @@ California Civil Code Section 1798.83 permits our visitors who are California re
 
 **DailyCandy Commerce, LLC  
 Attn: California Privacy Rights  
-12200 West Olympic Blvd, Suite 150  
+12200 West Olympic Blvd, Suite 100  
 Los Angeles, CA 90064**
 
 **ACCEPTANCE OF PRIVACY POLICY**  
-When you use the Site or other Service, you are accepting the terms and conditions of this Privacy Policy, and Swirl will have the right to use your Personally Identifiable Information or other information about you as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must not use the Site or other Service and you must follow the opt-out provisions above. Swirl reserves the right to modify this Privacy Policy at any time. Your continued use of the Site or any Service after Swirl either personally notifies you or generally posts such changes on www.swirl.com will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy, please contact customer support (URL) or write to Swirl at:
+When you use the Site or other Service, you are accepting the terms and conditions of this Privacy Policy, and Swirl will have the right to use your Personally Identifiable Information or other information about you as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must not use the Site or other Service and you must follow the opt-out provisions above. Swirl reserves the right to modify this Privacy Policy at any time. Your continued use of the Site or any Service after Swirl either personally notifies you or generally posts such changes on www.swirl.com will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy, please contact [customer support](https://web.archive.org/contact.ep) or write to Swirl at:
 
 **DailyCandy Commerce, LLC  
 Attn: Privacy Policies  
-12200 West Olympic Blvd, Suite 150  
+12200 West Olympic Blvd, Suite 100  
 Los Angeles, CA 90064**
+
+or
+
+**Phone: 1-888-XO-SWIRL (1-888-967-9475).**
