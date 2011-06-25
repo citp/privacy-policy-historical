@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cram.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215033650id_/http%3A//www.permacharts.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cram.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625025258id_/http%3A//www.permacharts.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Permacharts Privacy Policy
 
