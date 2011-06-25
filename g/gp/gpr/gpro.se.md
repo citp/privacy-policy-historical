@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gpro.se privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920223659id_/http%3A//gpro.se/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpro.se privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625142738id_/http%3A//gpro.net/gb/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy policy - Grand Prix Racing Online
 
 _**1\. Introduction**_
 
-This policy covers Grand Prix Racing Online's (“GPRO“) use of personal information collected by GPRO when you use the website www.GPRO.se. The purpose of this policy is to inform you about the information we collect and how it is used by us. Whenever you submit personal information to this site it shall be subject to this privacy policy.
+This policy covers Grand Prix Racing Online's (“GPRO“) use of personal information collected by GPRO when you use the website www.GPRO.net. The purpose of this policy is to inform you about the information we collect and how it is used by us. Whenever you submit personal information to this site it shall be subject to this privacy policy.
 
  _ **2\. Collection of Information**_
 
