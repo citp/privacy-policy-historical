@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jysk.ca privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202042912id_/http%3A//jysk.ca/pages.aspx%3Fid%3D%26docid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jysk.ca privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625231143id_/http%3A//www.jysk.ca/pages.aspx%3Fid%3D%26docid%3D159) for the most accurate reproduction.*
 
 # JYSK.ca - BED BATH AND HOME - Legal Information
 
