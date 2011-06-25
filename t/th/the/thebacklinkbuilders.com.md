@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thebacklinkbuilders.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082108id_/http%3A//www.thebacklinkbuilders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebacklinkbuilders.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625233404id_/http%3A//www.thebacklinkbuilders.com/privacy.php) for the most accurate reproduction.*
 
 # The Backlink Builders - Privacy Policy
-
-**Privacy Policy**
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
@@ -13,6 +11,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * Third party vendors, including Google, show our ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
 
 
 
