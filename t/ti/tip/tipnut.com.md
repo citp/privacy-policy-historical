@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipnut.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217160209id_/http%3A//tipnut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipnut.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625124728id_/http%3A//tipnut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : TipNut.com
 
@@ -15,6 +15,8 @@ TipNut.com examines log files to analyze trends, see where visitors go in the si
 Tipnut.com uses the Google Custom Search Engine to provide search support for visitors as well as Google Analytics for traffic stats and monitoring. Google’s privacy policy can be viewed here: [Google Privacy Policy](http://www.google.com/privacy/privacy-policy.html).
 
 TipNut.com may display ads or link to outside advertisers on this site. These ads may contain cookies. Cookie information is stored by the ad company, TipNut.com does not have access to this information. TipNut.com has no control over or access to cookies and tracking methods used by other sites. Cookies are used on TipNut.com for login purposes and may also be used for on site features such as voting, special polls, traffic analysis and logging, etc.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement ‘click-throughs’, and/or other activities on our website. Where authorized by us, ValueClick and its business partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick’s privacy policy at [ValueClick](http://www.valueclickmedia.com/about/privacy/display-member).
 
