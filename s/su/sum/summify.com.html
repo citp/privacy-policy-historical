@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the summify.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224070928id_/http%3A//summify.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the summify.com privacy policy that was archived on 2011-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625032906id_/http%3A//summify.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <title>Summify 
@@ -13,14 +13,17 @@
   <meta name="google-site-verification" content="ZAttVGxIXz1d5WqL1uWPJ38SJq3Ngq4Sy1FRTLUokpc">
   <meta name="google-site-verification" content="ahsQX3Ejeqfc0LIj1Aa31Ym6CQwSRQYzmR-sWXMzruo">
   <meta name="google-site-verification" content="8ums2_IU53HvsBCt8ssg4QA8UsHpRAYWMp-AVxizqzg">
-  <link rel="icon" type="image/ico" href="/static/images/favicon.ico">
+<meta name="stella-authorization" content="cm5ral3158pcevd4qz3x">
+
+  <link rel="shortcut icon" type="image/ico" href="/static/images/favicon.ico">
   
   
     <script type="text/javascript" src="/static/js/jquery-1.4.3.min.js"></script>
   
   <script type="text/javascript">
-    setTimeout(function() { $('.flash-message').fadeOut(500); }, 5000);
     $(function() {
+        var initialFlash = $('.flash-message').not('.announcement');
+        setTimeout(function() { initialFlash.fadeOut(500); }, 5000);
       // Admin menu.
       $('a.show-admin').click(function(e) {
         var menu = $('ul.admin-links');
@@ -34,7 +37,7 @@
       $('.login-google, .login-twitter, .login-facebook, ' +
           '.add-google, .add-twitter, .add-facebook, .signup-buttons a')
           .click(function() {
-        var popupParams = 'location=0,status=0,width=800,height=450';
+        var popupParams = 'location=0,status=0,width=800,height=550';
         var popup = window.open($(this).attr('href') + '&popup=1', 'name',
           popupParams);
         return false;
@@ -46,6 +49,8 @@
   
     <link type="text/css" rel="stylesheet" href="/static/screen-sprite.css">
   
+  
+
   
 <script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 <body>
@@ -65,12 +70,7 @@
         
       </div>
       
-      <a href="/mobile/" id="logo" title="Summify"></a>
-      <ul class="products">
-        <li><a href="/">Digest</a></li>
-        <li><a href="/web/">Web</a></li>
-        <li><a href="/mobile/">Mobile</a></li>
-      </ul>
+      <a href="/" id="logo" title="Summify"></a>
     </div>
     
   </div>
@@ -221,12 +221,14 @@ privacy@summify.com</a></p>
     <div id="footer">
       
       <div class="copyright">
-      © 2010 - Context Media Technologies
+      © 2011 - Context Media Technologies
       </div>
       <ul>
         <li><a href="/team/">About</a></li>
-        <li><a href="mailto:team@summify.com">Contact</a></li>
-        <li><a href="http://getsatisfaction.com/Summify">Feedback</a></li>
+        <li><a href="/featured/">Featured</a></li>
+        <li><a href="/press/">Press</a></li>
+        <li><a href="/jobs/">Jobs</a></li>
+        <li><a href="/contact/">Contact</a></li>
         <li><a href="/privacy/">Privacy</a></li>
         <li><a href="/tos/">Terms</a></li>
         <li><a href="http://blog.summify.com" class="feed">Blog</a></li>
@@ -261,6 +263,7 @@ privacy@summify.com</a></p>
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-12076994-3']);
     _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
 
     (function() {
       var ga = document.createElement('script');
