@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501185738id_/http%3A//www.top5.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626001117id_/http%3A//www.top5.com/contact/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement - Top5.com
+# Privacy Statement - top5.com
 
 This Privacy Statement sets forth the privacy policy pertaining to this Site, [www.top5.com](http://www.top5.com/). By using **Top 5 Data Services, Inc.'s** Site, you are agreeing to the terms set forth in this Privacy Statement. For other terms and conditions that apply to your use of our Site, please review our [Legal Statement](http://www.top5.com/contact/legal.php).
 
