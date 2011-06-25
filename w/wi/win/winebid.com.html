@@ -1,30 +1,44 @@
-<!--The following is the downloaded HTML source of the winebid.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226082831id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winebid.com privacy policy that was archived on 2011-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625134123id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><head profile="http://a9.com/-/spec/opensearch/1.1/">
 
 		<meta http-equiv="X-UA-Compatible" content="IE=8">
 
 		
 		<!-- s-BORDEAUX -->
 		<!-- ds-dionysus -->
-		<!-- b-2493 -->
+		<!-- b-2642 -->
 		
 		<link rel="shortcut icon" href="/Images/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" href="/Images/Mobile/iphone-icon.png">
 		
+		<meta name="google-site-verification" content="Allo_FU3s6D1cxG79KV70k4lv3kpg59nBfhIcpS-jxY">
+		
+		
+		<meta name="application-name" content="WineBid.com">
+		<meta name="msapplication-tooltip" content="Launch WineBid.com">
+		<meta name="msapplication-task" content="name=Sign In;action-uri=/SignIn?utm_medium=tb_icon&amp;utm_content=Win7+Taskbar+Icon&amp;utm_source=Sign+In;icon-uri=/Images/favicon.ico">
+		<meta name="msapplication-task" content="name=Register;action-uri=/Registration?utm_medium=tb_icon&amp;utm_content=Win7+Taskbar+Icon&amp;utm_source=Register;icon-uri=/Images/favicon.ico">
+		<meta name="msapplication-task" content="name=Buy Wine;action-uri=/?utm_medium=tb_icon&amp;utm_content=Win7+Taskbar+Icon&amp;utm_source=Buy+Wine;icon-uri=/Images/favicon.ico">
+		<meta name="msapplication-task" content="name=Sell Wine;action-uri=/SellWine?utm_medium=tb_icon&amp;utm_content=Win7+Taskbar+Icon&amp;utm_source=Sell+Wine;icon-uri=/Images/favicon.ico">
+		<meta name="msapplication-task" content="name=Help;action-uri=/Help?utm_medium=tb_icon&amp;utm_content=Win7+Taskbar+Icon&amp;utm_source=Help;icon-uri=/Images/favicon.ico">
+
 		<title> WineBid.com » Privacy Policy</title>
 
-		<link href="/Stylesheets/Account.css?V.1.0.5" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/Navigation.css?V.1.0.6" rel="stylesheet" type="text/css">	
+		<link href="/Stylesheets/Account.css?V.1.0.7" rel="stylesheet" type="text/css">	
+		<link href="/Stylesheets/Navigation.css?V.1.0.8" rel="stylesheet" type="text/css">	
 		<link href="/Stylesheets/SearchSidebar.css?V.1.0.7" rel="stylesheet" type="text/css">	
 		<link href="/Stylesheets/Registration.css?V.1.0.5" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/jquery-ui-1.8.2.custom.css?V.1.0.5" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/Site.css?V.1.0.7" rel="stylesheet" type="text/css">	
-
+		<link href="/Stylesheets/jquery-ui-1.8.9.custom.css?V.1.0.1" rel="stylesheet" type="text/css">	
+		<link href="/Stylesheets/Site.css?V.1.0.8" rel="stylesheet" type="text/css">
+		
+		<link title="WineBid.com" rel="search" type="application/opensearchdescription+xml" href="/searchProvider.xml">
+	
 		
 		
 
-		<script type="text/javascript">
+		<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 			// path variable available to
 			// all javascript files
@@ -32,13 +46,12 @@
 
 		</script>
 			
-		<script src="/Scripts/jquery-1.4.3.min.js" type="text/javascript"></script>	
-		<script src="/Scripts/jquery.hoverIntent-r5.min.js" type="text/javascript"></script>
-		<script src="/Scripts/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
-		<script src="/Scripts/jquery.address-1.1.min.js" type="text/javascript"></script>
-		<script src="/Scripts/jquery.validate-1.7.min.js" type="text/javascript"></script>	
+		<script src="/Scripts/jquery-1.5.2.min.js" type="text/javascript"></script>	
+		<script src="/Scripts/jquery-ui-1.8.12.custom.min.js" type="text/javascript"></script>
+		<script src="/Scripts/jquery.hoverIntent-r6.min.js" type="text/javascript"></script>
+		<script src="/Scripts/jquery.validate-1.8.min.js" type="text/javascript"></script>	
 		<script src="/Scripts/xVal.jquery.validate.js?V1.0.1" type="text/javascript"></script>		
-		<script src="/Scripts/winebid.common.js?V1.0.3" type="text/javascript"></script>
+		<script src="/Scripts/winebid.common.js?V1.0.7" type="text/javascript"></script>
 
 		
 			<script type="text/javascript">
@@ -46,6 +59,7 @@
 				var _gaq = _gaq || [];
 				_gaq.push(['_setAccount', 'UA-1707210-1']);
 				_gaq.push(['_trackPageview']);
+				_gaq.push(['_trackPageLoadTime']);
 			</script>
 		
 
@@ -65,7 +79,31 @@
 					font-weight: bold;
 				}
 
+				body {
+					/* disable forced scrollbars for IE6 since 
+					this isn't necessary (and doesn't work) */
+					overflow: auto;
+					overflow-y: auto; 
+				}
+
 			</style>
+			<script type="text/javascript">
+			
+				// IE6 bugfix to ensure form submits include only
+				// the submitted button as a form parameter
+				$(document).ready(function () {
+					$("button").click(function () {
+						$(this).attr("clicked", "true");
+					});
+
+					$("form").submit(function(){
+						if($(this).valid() || $(this).find("button[clicked]").hasClass("cancel")){
+							$(this).find("button").not("[clicked]").attr("disabled", "disabled");
+						}
+					});
+				});
+
+			</script>
 		<![endif]-->
 
 		<script type="text/javascript">
@@ -74,13 +112,11 @@
 				function () {
 
 					// Fix for mobile safari offset bug
-					// this bug occures 
-					// on iPhone OS since 3.2 version (iPad)
-					// and on iOS since 4.0 version
+					// on iOS versions 3.2 -> 4.0 (fixed in iOS 4.2 on both iPhone & iPad)
 					// as of 1.4.2 the mobile safari reports wrong values on offset()
 					// http://dev.jquery.com/ticket/6446
-					// remove once it's fixed
-					if (/webkit.*mobile/i.test(navigator.userAgent) && "getBoundingClientRect" in document.documentElement) {
+					// remove once older iOS install base goes away
+					if (/webkit.*mobile/i.test(navigator.userAgent) && parseFloat($.browser.version) < 532.9 && "getBoundingClientRect" in document.documentElement) {
 						(function ($) {
 							$.fn.offsetOld = $.fn.offset;
 							$.fn.offset = function () {
@@ -91,14 +127,15 @@
 								return result;
 							};
 						})(jQuery);
-					}
+					}			
+					
 
 					// initialize analytics	  
 					var ga = document.createElement('script');
 					ga.type = 'text/javascript';
 					ga.async = true;
 					ga.src = 'http://www.google-analytics.com/ga.js';
-					
+
 
 					var s = document.getElementsByTagName('script')[0];
 					s.parentNode.insertBefore(ga, s);
@@ -106,6 +143,8 @@
 					// Disable context menu on image right click
 					$("img").bind("contextmenu", function (e) { e.preventDefault(); });
 
+					// Fix autocomplete function for jqueryui
+					uiAutoCompleteMonkeyPatch();
 				}
 			);
 
@@ -185,8 +224,8 @@
 			Auction ends in
 		</span> 
         
-		    <span style="color: #a22c1b">
-	    18 hours and 31 minutes
+		    <span style="color: #000">
+	    1 day, 12 hours and 18 minutes
         </span>
 	</div>
 
@@ -303,8 +342,15 @@
 			
 			<img height="8" src="/Images/border_main_bottom.gif" width="1000">
 			<div id="pageFooter">
-				<div style="float: left"><a href="/Help/ContactUs">Contact Us</a> <a href="/About">About WineBid</a> </div>
-				<div style="float: right"><a href="/About/TermsAndConditions">Terms &amp; Conditions</a> <a href="/About/PrivacyPolicy">Privacy Policy</a> © 2010 WineBid.com</div>
+				<div style="float: left;">
+					<div style="float: left;">
+						<a href="/Help/ContactUs">Contact Us</a> <a href="/About">About WineBid</a> 
+					</div>
+					<div style="float: left;">
+						<a style="float: left;" href="http://www.facebook.com/pages/WineBidcom/165919296776686" target="_blank"><img alt="Join us on Facebook" src="/Images/icons/facebook-link.png" title="Join us on Facebook"></a>
+					</div>
+				</div>
+				<div style="float: right"><a href="/About/TermsAndConditions">Terms &amp; Conditions</a> <a href="/About/PrivacyPolicy">Privacy Policy</a> © 2011 WineBid.com</div>
 			</div>
 		</div>
 
