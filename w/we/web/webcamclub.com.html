@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webcamclub.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225033015id_/http%3A//www.webcamclub.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webcamclub.com privacy policy that was archived on 2011-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626120953id_/http%3A//www.webcamclub.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -46,10 +46,10 @@ function OpenRTAWindow()
 </script>
 
 
-<script language="JavaScript" type="text/javascript" src="/js/functions.js"></script>
-<script language="JavaScript" type="text/javascript" src="/js/flash_detect.js"></script>
-<script language="JavaScript" type="text/javascript" src="/js/php.namespaced.js"></script>
-<script language="JavaScript" type="text/javascript" src="/js/popups.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.webcamclub.com/js/functions.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.webcamclub.com/js/flash_detect.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.webcamclub.com/js/php_namespaced_mini.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://cdn.webcamclub.com/js/popups.js"></script>
 
     
 
@@ -60,6 +60,8 @@ function OpenRTAWindow()
 
 var web_page_loaded = false;
 var wcconload = window.onload;
+
+
 window.onload = function ()
 {
     if ( wcconload )
@@ -70,19 +72,23 @@ window.onload = function ()
     $P = new PHP_JS( window );
 
 
-        isInternetExplorer = false;
+                isInternetExplorer = false;
     	MM_preloadImages();
 
 	
                 
-				rbt('http://www.webcamclub.com/includes/browsertype.php', 'MEMPHPSESSID', '2e6c49389c15122dba18729170ffe1f4' );
+				rbt('http://www.webcamclub.com/includes/browsertype.php', 'MEMPHPSESSID', '37c0e5662e387d2d499d0b5695e779c4' );
 		
 	
-	if ((navigator.platform == "Mac" || navigator.platform == "MacIntel") && FlashDetect.versionAtLeast(10, 1) != true)
+	flash_player_stats("displayed","");
+
+	if ((navigator.platform == "Mac" || navigator.platform == "MacIntel"))
 	{
-		document.getElementById("id_mac_warning").style.visibility = "visible";
-		document.getElementById("id_mac_warning").style.display = "block";
-		flash_player_stats("displayed","");
+		if (FlashDetect.versionAtLeast(10, 1) != true)
+		{
+			document.getElementById("id_mac_warning").style.visibility = "visible";
+			document.getElementById("id_mac_warning").style.display = "block";
+		}
 	}
 
 	web_page_loaded = true;
@@ -97,6 +103,8 @@ window.onunload = function ()
         wcconunload();
     }
 }
+
+var dating_ad_zone_height = 0;
 
 -->
 </script>
@@ -725,6 +733,34 @@ contact us at <a href="mailto:support@webcamclub.com">support@webcamclub.com</a>
 normal">- End -<o:p></o:p></b></p>
 
 
+<br><br><br>
+
+<a name="opt_out"></a>
+<div align="center">
+<form method="POST" action="/?c2hvdz1wcml2YWN5#opt_out">
+<table border="0" cellspacing="5" cellpadding="5" width="90%" style="background-color: #c2c2c2">
+<tbody><tr>
+<td valign="top" align="left" colspan="2"><font style="font-family: Tahoma; font-size: 14px; font-weight: bold;">Opt out your email address below:</font></td>
+</tr>
+
+	<tr>
+	<td valign="middle" align="left" style="width: 25%;"><font style="font-family: Tahoma; font-weight: normal; font-size: 12px;">Email Address:</font></td>
+	<td valign="middle" align="left" style="width: *;"><input type="text" name="email" size="25"></td>
+	</tr>
+	<tr>
+	<td valign="middle" align="left"><font style="font-family: Tahoma; font-weight: normal; font-size: 12px;">Security Code:</font></td>
+	<td valign="middle" align="left"><input type="text" name="security_code" size="10"></td>
+	</tr>
+	<tr>
+	<td valign="middle" align="left">&nbsp;</td>
+	<td valign="middle" align="left"><img src="/members/security.php?t=1309090158" border="0"></td>
+	</tr>
+	<tr>
+	<td valign="top" align="center" colspan="2" style="padding-top: 15px;"><input type="submit" value="Opt Out" class="pretty_btn"></td>
+	</tr>
+</tbody></table>
+</form>
+</div>
 <br><br><br>
 
 
