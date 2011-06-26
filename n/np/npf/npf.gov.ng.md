@@ -1,8 +1,27 @@
-> *The following text is extracted and transformed from the npf.gov.ng privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224230247id_/http%3A//npf.gov.ng/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npf.gov.ng privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627000955id_/http%3A//npf.gov.ng/about/privacy.aspx) for the most accurate reproduction.*
 
 # Nigeria Police ForceTeam
 
-  | 
+| 
+
+  *   *   
+
+
+Minister of Police Affairs Humphrey Enemaku Abah in Force Headquarters Abuja
+
+  * Former IGP Ogbonna O. Onovo handing over the security of Nigeria to IGP Hafiz Ringim  
+
+
+  *   * The Nigeria Police Management Team  
+
+
+
+
+
+  Privacy Policy 
+
+  
+|   | 
 
 When you provide us with information through Nigeria Police Force Website (the "Site"), we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/about/terms.aspx). Please note that this Privacy Policy governs only information provided to Nigeria Police Force Website and communications from Nigeria Police Force Website. It does not govern any other information or communications that may reference Nigeria Police Force Website. This Privacy Policy was last updated 22 June 2010.
 
@@ -90,4 +109,8 @@ When you provide us with information through Nigeria Police Force Website (the "
 
 > We have taken great measures to ensure that your visit to the Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the Site's privacy practices, please contact us by email at [legal@npf.gov.ng](mailto:legal@npf.gov.ng).
 
-Copyright© 2010 Nigeria Police Force. All worldwide rights reserved.
+Copyright© 2010 Nigeria Police Force. All worldwide rights reserved.  
+  
+---|---  
+  
+Abia State Command 08035415408, Adamawa STATE COMMAND 08089671313, Akwa Ibom STATE COMMAND 08182951257, Anambra STATE COMMAND 07034578208, Bauchi STATE COMMAND 08125274185, Bayelsa STATE COMMAND 07034578208, Benue STATE COMMAND 08053039936,08066006475, 08080792550, BORNO STATE COMMAND 08036071667, 08123823322, CROSS RIVER STATE COMMAND 08133568456, 07053355415, 07029107411, DELTA STATE COMMAND 08036684974, EBONYI STATE COMMAND 07064950600, EDO STATE COMMAND 08038156615, EKITI STATE COMMAND 08081768750, ENUGU STATE 08032003702, GOMBE STATE COMMAND 08132196764, IMO STATE COMMAND 08033424051, JIGAWA STATE COMMAND 08123821598, KADUNA STATE COMMAND 08123822284 KANO STATE COMMAND 064977004, 064977005, KASTINA STATE COMMAND 08065581244 KEBBI STATE COMMAND 08081161283, 08187175282, KOGI STATE COMMAND 08126375838, 08038329084, 07087233230, KWARA STATE COMMAND 08125275046, LAGOS STATE COMMAND 07055462708, NASARAWA STATE COMMAND 08125275046, NIGER STATE COMMAND, 08081777593, 08081777496ONDO STATE COMMAND 07034313903, OGUN STATE COMMAND 08032136765, 08081770416, OSUN STATE COMMAND, 08036491684, OYOY STATE COMMAND, 08081768614, 08034029268 PLATEAU STATE COMMAND, 08038907662, 08050375280, RIVERS STATE COMMAND, 08073777717, 08032003514, SOKOTO STATE COMMAND, 08023563420, TARABA STATE COMMAND, 08081772288, YOBE STATE COMMAND, 08037034711, ZAMFARA STATE COMMAND, 08036186543, FCT COMMAND 08061881938, 08032003913, 07029311600, 07057337653
