@@ -1,72 +1,61 @@
-> *The following text is extracted and transformed from the redbooks.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611043330id_/http%3A//www.redbooks.com/Nonsub/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbooks.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626192329id_/http%3A//redbooks.com/Nonsub/Privacy.aspx) for the most accurate reproduction.*
 
-# Red Books - Privacy
+# Red Books Privacy Policy: Advertising Redbooks.com™
 
-  |  **Redbooks.com Privacy Notice**  
-Effective September 1, 2004 
+1\. Introduction
 
-Our Commitment To Privacy
+This Privacy Policy discloses and covers all of the privacy practices of Red Books LLC (“Red Books” or the “Company”), including as they relate to Red Books’s website and related services (collectively, the “Site”).  In this Privacy Policy, “we”, “us”, “our” and other similar references mean Red Books and “you” and “your” and other similar references mean a specific user of the Site.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
+We understand and respect the privacy concerns of our users, and we have made it a critical focus of the Site to protect the confidentiality and security of the personal information you provide us.  We have created this Privacy Policy to inform you about how we collect, use and share your personal information, and our privacy practices in general.
 
-This notice applies to all information collected from or submitted to the following LexisNexis Group ("LNG") web sites, but to make this notice easier to read we will use the term "our Web Site", which means Redbooks.com. Other LNG web sites may operate under their own privacy notices.
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY.   BY ACCESSING OR USING THE SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE SITE.**
 
-Our Web Site contains links to other web sites operated by third parties. LNG is not responsible for the privacy practices or policies of such third party web sites and this Notice does not apply to those web sites.
+2\. The Information We Collect
 
-Application of This Notice
+We may collect two types of information: Personally Identifiable Information (“ _PII_ ”) and Non-Personally Identifiable Information (“ _Non-PII_ ”).
 
-This Notice applies only to the information collected by LNG from the users of our Web Site. It does not apply to information collected by LNG in any other way, including offline.
+PII is information that identifies a specific user of the Site.  When you engage in certain activities on the Site, such as when you register to use the Site, we may ask you to provide certain information about yourself that we will collect and store.  You do not have to engage in the activities in which we ask you to provide such information.  But if you choose to do so, we may ask you to provide certain personal information, such as your first and last name, gender, email address and date of birth.  Depending on what activity you are engaged in, some of the information that we request will be identified as mandatory or as voluntary.  If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.
 
-The Information We Collect
+Non-PII is information that identifies your computer and its navigational patterns through the Site (but not a specific user).  We may automatically collect Non-PII information when you visit the Site, through the use of a variety of tools including cookies (small text files that are stored on a user’s computer for record-keeping purposes and which contains information about that user’s computer), or other available data analysis or collection technologies.
 
-Our Web Site is not set up to automatically collect personally identifiable information from each visitor to our Web Site. It does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our Web Site. This information is used only for internal purposes by our technical support staff.
+3\. How We Use and Share Information
 
-Our Web Site does track certain information about the visits to our Web Site. For example, we compile statistics that show the numbers and frequency of visitors to our Web Site and its individual pages. These aggregated statistics are used internally to improve our Web Site and for product development and marketing purposes generally. Those aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information.
+We use the information we collect to (a) provide the services you request; (b) notify you of promotions, special events, new services and special offers; (c) improve our product offerings, customer service and overall experience; (d) improve the content, operation, appearance and utility of the Site; (e) conduct surveys, research and evaluations; (f) troubleshoot and resolve disputes; (g) gather demographic data and (h) accomplish other administrative tasks.
 
-In a few areas on our Web Site, we ask you to provide information that will enable us to verify whether you are entitled to access and use certain information, materials and services available from our Web Site, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your customer relationship with LNG. It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.
+We may share your information collected on the Site with our subsidiaries and other affiliated companies, and with other vendors and business partners, including marketing partners, with whom we work (collectively, “Our Affiliates”).  This includes companies who provide business services to us or on our behalf such as to market products or services to you, monitor Site activity, serve Site content, help to maintain our customer database, administer e-mails, surveys or other contests.  We also reserve the right to disclose your information in good faith as required by law, in response to legal process including law enforcement requests, with any person or entity that has acquired all or any part of our business or assets, and where needed to prevent fraud and to protect the safety, property, or legal rights of users of the Site or Our Affiliates.
 
-For example, we request information from you when you:
+4\. Unsubscribe or Opt Out
 
-  1. Log-on to certain areas of our Web site, where you may be prompted to provide us with your username and password as a condition to gaining access to certain information, materials or services
-  2. Register or sign-up to use a service such as Redbooks.com
-  3. Subscribe to a newsletter or desire to be added to our mailing lists for other products or services
-  4. Place an order
-  5. Participate in a sweepstakes or other promotional offer
-  6. Provide feedback in an online survey.
+If you decide that you are no longer interested in receiving email communications from us, you may follow the instructions in our emails to unsubscribe from our email list or send us an email at info@redbooks.com.
 
+5\. Privacy Policies of Third Parties
 
+This Privacy Policy only addresses the use, storage and disclosure of information that we collect from you.  Other websites, such as websites you may have clicked-on that directed you to the Site or websites that may be accessible to you by clicking-through the Site, have their own privacy policies regarding data collection, use and disclosure practices.  If you visit any such website, we encourage you to review that website’s privacy policy.  We are not responsible for the policies or practices of third parties.
 
-In each of the instances above, we typically ask for your name, e-mail address, phone number, address, law practice information, product preference information, username and password, as well as other similar personal information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time.
+6\. Editing and Requesting Your Information
 
-How We Use Information:  
-  >> LNG only uses your personal information for specific purposes.
+We will permit you to change your profile settings.  Even after you change or remove information from your profile, copies of your information may remain viewable elsewhere to the extent it has been shared with others or it was copied or stored by other users.  We may also be required to retain your information by law or for legitimate business purposes, such as to prevent identity theft or other misconduct.
 
-The personal information you provide to us when using our Web Site, such as your name, postal or e-mail address or telephone number will be kept confidential and used to support your customer relationship with LNG, and to notify you of special offers, updated information and new products and services from LNG, offers from third parties that we think may be of interest to you, or used by LNG or third parties for the purpose of conducting market research or surveys on behalf of LNG. Agents or contractors of LNG who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for LNG.
+We will permit you to request a copy of your PII that we have collected about you by contacting the Company at the address below.  You can also correct factual inaccuracies in this information by contacting the Company.
 
-LNG may enhance or merge your information collected at its Web Site with data from third parties for purposes of marketing products or services to you.
+7\. Storage and Security
 
-With respect to network advertising companies (companies that manage and provide advertising for numerous unrelated companies), to the extent that LNG utilizes such advertising companies to provide advertisements on our Web Site, LNG may provide them with your log-in name and any demographic information about you that we collect. Those advertising companies may combine that data with non-personally identifiable data collected by the advertising company from your computer solely for the purpose of delivering on our Web Site advertisements that are targeted to you.
+We believe the security of your information is a serious issue and we are committed to protecting the information we receive from you.  We use commercially reasonable security measures to protect against the loss, misuse and alteration of your information under our control.  Notwithstanding such measures, please be aware that no security measures are perfect or impenetrable, and we cannot guarantee the security of any information transmitted to or from the Site.  We also are not responsible for the actions of any third parties that may receive any such information.
 
-Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with LNG, such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
+8\. Public Forums
 
-You can opt out of receiving further marketing from LNG at any time.
+You acknowledge and agree that all discussion for ratings, comments, bulletin board service, chat rooms and/or other message or communication facilities on the Site (collectively, “Public Forums”) are public and not private communications, and others may read your communications without your knowledge.  We do not control or endorse the content, messages or information found in any Public Forum, and, therefore, we specifically disclaim any liability concerning Public Forums and any claims or injuries resulting from your participation in any Public Forum, including any objectionable content.  Generally, any communication which you post to the Site (whether in chat rooms, discussion groups, message boards or otherwise) is considered to be non-confidential.  If particular web pages permit the submission of communications that will be treated by us as confidential, that fact will be stated on those pages.
 
-We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only LNG (or agents or contractors working on behalf of LNG and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from LNG by emailing us at [legalnotices@LexisNexis.com](mailto:legalnotices@LexisNexis.com).
+By posting comments, messages or other information (collectively, “Material”) on the Site or any Public Forum, you irrevocably grant us a non-exclusive, fully paid-up, royalty-free, worldwide, perpetual right and license to use, copy, modify, adapt, publish, translate and distribute such Material (in whole or in part) worldwide and/or to incorporate it in other works in any form, media or technology now known or hereafter developed for the full term of any copyright that may exist in such Material, without territorial or time limitations, and to sublicense such rights through multiple tiers of sublicensees, and you represent and warrant that, if you are not the owner of such Material, that the owner of such Material has expressly granted you the right to grant the foregoing license to Red Books.  You acknowledge and agree that any other user may access, view, store or reproduce the material for that user’s personal use, and that you shall have no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your communications to us.  You further grant Red Books the right to use, copy, modify, adapt, publish, translate and distribute any other Material that you make available on or through the Site.
 
-Our Commitment to Data Security
+9\. Miscellaneous Privacy Issues
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+We do not collect or maintain information from anyone known by us to be under the age of 13, and no part of the Site is designed to attract anyone under the age of 18.  Children under the age of 18 may only use the Site under the supervision and direction of a parent or legal guardian.  Minors under the age of 13 should not use the Site.  If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under age 13, please contact us.
 
-How You Can Access or Correct Your Information
+10\. Changes to Privacy Policy
 
-You can request a copy of the personally-identifiable information that LNG has collected about you via the Internet by contacting our Information Privacy Manager at the address below. You can also have factual inaccuracies in this information corrected by contacting this same person.
+We may change this Privacy Policy at any time.  The revised Privacy Policy will be effective immediately when posted on the Site.  It is the responsibility of each user to review the Site and the Privacy Policy periodically to learn of any revisions to this Privacy Policy.  Your continued use of the Site after the effectiveness of such revisions will constitute your acknowledgment and acceptance of the terms of the revised Privacy Policy.
 
-How to Contact Us
+If you have any comments or questions regarding our Privacy Policy, please email us at [legal@redbooks.com](mailto:legal@redbooks.com) or contact us at Red Books LLC, 630 Central Avenue, New Providence, NJ 07974.  For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov/).
 
-If you would like to contact us for any reason regarding our privacy practices, please contact us as follows: 
-
-  * by e-mail: [Privacy.Information.Mgr@LexisNexis.com](mailto:Privacy.Information.Mgr@LexisNexis.com)
-  * in writing: Sophie Olt, Privacy Information Manager, c/o LexisNexis Group, P.O. Box 933 Dayton, OH 45401
-  * by phone: 1-800-831-2578.
-
-
+Initial Version Posted: December 9, 2010
