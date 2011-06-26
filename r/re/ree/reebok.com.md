@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reebok.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219120716id_/http%3A//www.reebok.com/US/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebok.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626020000id_/http%3A//www.reebok.com/US/customer-service/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Reebok
+# Reebok Global Privacy Policy - Reebok
 
 Reebok International Limited. ("Reebok") respects the privacy of visitors to the Reebok websites. Reebok has adopted this privacy policy ("Privacy Policy") to inform you of what information we collect from you on or through the websites located at the following domain names: www.reebok.com, www.rbk.com and www.rbkcustom.com (collectively, the "Websites"), how we collect that information, how we may use it and the steps we take to protect it.
 
