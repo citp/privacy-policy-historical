@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefrugalgirl.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090913id_/http%3A//www.thefrugalgirl.com/disclaimers-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalgirl.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626214842id_/http%3A//www.thefrugalgirl.com/disclaimers-and-privacy-policy) for the most accurate reproduction.*
 
-# Disclosures and Privacy Policy
+# Disclosures/Privacy
 
 **Affiliate Disclosure**
 
