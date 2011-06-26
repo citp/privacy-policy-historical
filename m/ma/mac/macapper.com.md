@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the macapper.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214103154id_/http%3A//macapper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macapper.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626121353id_/http%3A//macapper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MacApper
-
-[Home](http://macapper.com/ "Go to Home.") > Privacy Policy 
 
 **What information do we collect?**
 
