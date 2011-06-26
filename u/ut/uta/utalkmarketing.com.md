@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utalkmarketing.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231021234id_/http%3A//www.utalkmarketing.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utalkmarketing.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626044445id_/http%3A//www.utalkmarketing.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # UTalkMarketing - Our Privacy Policy
 
