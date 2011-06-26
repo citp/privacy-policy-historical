@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninelevels.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127122136id_/http%3A//ninelevels.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninelevels.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626111613id_/http%3A//ninelevels.com/privacy.php) for the most accurate reproduction.*
 
 # 9 Levels Privacy Policy
 
