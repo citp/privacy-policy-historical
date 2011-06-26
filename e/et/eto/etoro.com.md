@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413130330id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626022821id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
 # Forex Privacy Policy - eToro's Forex Account Privacy | eToro
 
@@ -27,6 +27,20 @@ We do not disclose or share Information about any of our users (whether active o
     * To respond to a subpoena or court order, judicial process or to regulatory authorities; and 
     * To protect against fraud, unauthorized transactions (such as money laundering), claims or other liabilities. 
     * We do not share credit information, such as credit history, net worth, or other income information.
+    * ** eToro OpenBook ** New!
+
+The eToro OpenBook is a real-time social trading platform, which integrates rich community and social characteristics into the trading platform. As part of the eToro traders’ network, traders who choose to be part of the community share their strategies and performance with the community. **The personal information of the traders and the amount traded is never disclosed and all traders are required to agree to be part of the network and share their strategies and performance.**
+
+If you are an existing “real account” trader by July 6, 2010 and after sending you several notification emails, we consider you as giving your permission to be part of the OpenBook community and set you as "opt-in" to the eToro OpenBook and we consider you as giving consent to this privacy policy and as accepting "passive sharing" of your trading activity (if you responded negatively to our emails you will not set as “opt-in”).
+
+If you are a new trader, who started trading with us in a “real account” after July 6, 2010, being part of the OpenBook community is an outcome of you actively opting-in.
+
+Whether you are a trader by or after July 6, 2010, you can always opt-in and out the OpenBook community, very simply, at your discretion.
+
+The information that is shown on the eToro OpenBook is as following: username (but never your real name), country, eToro Club type (gold, silver etc.), ranking, trading activity (open / close position, creating an order, earning profit), challenges activity (climbed to the Xth Position), social/community activities (following other user(s), writing comments, like / dislike), statistics [gain in % (but never amounts), winning rate in %, risk levels (low/medium/high) and instruments traded).
+
+[Click here](http://openbook.etoro.com/settings/privacy.aspx) to change your privacy settings.
+
 
 
   * Security and Integrity of Information. 
@@ -57,4 +71,4 @@ In the event that you believe our Information is in anyway inaccurate, please le
 
 
 
-Should you have any questions regarding our privacy policy, please contact us at [support@etoro.com](mailto:support@etoro.com). Please include your name, mailing address, email and telephone number.
+Should you have any questions regarding our privacy policy, please contact us at <http://www.etoro.com/application/help/contact.aspx>. Please include your name, mailing address, email and telephone number.
