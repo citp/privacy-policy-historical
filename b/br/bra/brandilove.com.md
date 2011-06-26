@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandilove.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010248id_/http%3A//www.customersupportinfo.com/index.php%3Fpf%3Dkb%26page%3Dindex_v2%26id%3D10%26c%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandilove.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626171723id_/http%3A//www.customersupportinfo.com/index.php%3Fpf%3Dkb%26page%3Dindex_v2%26id%3D10%26c%3D5) for the most accurate reproduction.*
 
 # Customer Support info
 
