@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reductiongoods.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219223140id_/http%3A//www.reductiongoods.com/index.php%3Foption%3Dcom_content%26view%3Dcategory%26layout%3Dblog%26id%3D52%26Itemid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reductiongoods.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626192344id_/http%3A//www.reductiongoods.com/index.php%3Foption%3Dcom_content%26view%3Dcategory%26layout%3Dblog%26id%3D52%26Itemid%3D130) for the most accurate reproduction.*
 
 # Free Coupons, Coupon Codes, Online Coupons
 
