@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the battlefieldheroes.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230162424id_/http%3A//www.ea.com/1/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlefieldheroes.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626222152id_/http%3A//www.ea.com/1/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Electronic Arts - EA Games
 
 [Contact Administrator](http://www.ea.com/2/privacy-contacts)
 
