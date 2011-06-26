@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmomkitchen.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222180114id_/http%3A//realmomkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmomkitchen.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626122220id_/http%3A//realmomkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Mom Kitchen
 
@@ -27,3 +27,5 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [webmaster](mailto:webmaster@realmomkitchen.com)
+
+Print Friendly
