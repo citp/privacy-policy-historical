@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125192220id_/http%3A//www.mediamath.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamath.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626031724id_/http%3A//www.mediamath.com/privacy.html) for the most accurate reproduction.*
 
 # MediaMath - The new marketing OS. - Privacy Policy
 
