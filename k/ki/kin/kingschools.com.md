@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228105958id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626095123id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - King Schools
+# Privacy Policy | King Schools
 
 Thanks for visiting the website of King Schools, Inc. Please be assured that King Schools, Inc. is committed to protecting your privacy. Please note that any changes to this Policy will be posted on this site with a new effective date.
 
