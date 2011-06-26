@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honeytechblog.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214070338id_/http%3A//www.honeytechblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeytechblog.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626041557id_/http%3A//www.honeytechblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Honeytech](http://www.honeytechblog.com/ "Honeytech") Blog is a technology portal of Tutorials, [How to](http://www.honeytechblog.com/tags/how-to/ "How to"), Tips and Guides of [Internet](http://www.honeytechblog.com/tags/internet/ "Internet") Tools, [Social Media](http://www.honeytechblog.com/tags/social-media/ "Social Media"), [Blogging](http://www.blogtechnika.com/top-10-greatest-advantages-of-blogging "Blogging") , WordPress, [Open Source](http://www.honeytechblog.com/topics/open-source/ "Open Source") and Ways to [make money](http://www.honeytechblog.com/topics/money/ "make money") online.  
+Honeytech Blog is a technology portal of Tutorials, How to, Tips and Guides of Internet Tools, Social Media, Blogging , WordPress, Open Source and Ways to make money online.  
 We have more than **1300 posts** which also provides regular source of updates via Emails and Rss feeds. We are serious on protecting your private data. We have more than 5000 registered members with their personal information safe with us. We assured you that it will only be used to support your relationship with Honeytech Blog. This privacy policy is intended for all users of Honeytechblog.com.
 
 By visiting this web site you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services.
@@ -35,7 +35,7 @@ Like most standard Web site servers we may use log files. This includes internet
 
 
 
-We only collect the Name,email address,[contact](http://www.honeytechblog.com/contact/ "contact") information and other info of users that is used in [registering](http://www.honeytechblog.com/wp-login.php?action=register) or contact forms.
+We only collect the Name,email address,contact information and other info of users that is used in [registering](http://www.honeytechblog.com/wp-login.php?action=register) or contact forms.
 
   * **What personally identifiable information third parties collect through the Web site.**
 
