@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121230601id_/http%3A//www.salisburypost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626095632id_/http%3A//www.salisburypost.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Salisbury, North Carolina - The Salisbury Post
 
@@ -70,25 +70,3 @@ Email: [jjudd@salisburypost.com](mailto:jjudd@salisburypost.com)
 The Company may have several operators collecting or maintaining personal information. The operator that is responsible for responding to privacy inquiries is [Jeremy Judd](mailto:jjudd@salisburypost.com), 131 W. Innes St. Salisbury, NC 28144. Third parties accessible through this Site may have their own such operators.
 
 Copyright © 2007, **Post Publishing Company, Inc..** All rights reserved.
-
-[](http://www.salisburypost.com/postables/)
-
-  * Photos
-  * Videos
-  * Forums
-  * Blogs
-
-
-
-******************** Poll ********************
-
-The Rowan County Board of Commissioners voted 3-2 to proceed with property revaluation despite a lack of recent sales data. Do you agree or disagree with the board's decision?
-
-  
-
-
-******************** Latest Photos ********************
-
-\+ [View more of our photos](http://salisburypost.mycapture.com/mycapture/index.asp) | [Buy Prints](http://salisburypost.mycapture.com/mycapture/index.asp)  
-\+ [View user submitted photos](http://salisburypostables.com/) **  
-**
