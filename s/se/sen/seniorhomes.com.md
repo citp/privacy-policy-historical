@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniorhomes.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226115037id_/http%3A//www.seniorhomes.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorhomes.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626185301id_/http%3A//www.seniorhomes.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ We are sensitive to your privacy concerns, and are committed to letting you know
 We reserve the right to change this Privacy Policy at any time. You agree to this Privacy Policy, and any changes to the same, by visiting this Web site. Therefore, We encourage you to review this Web site from time to time to review changes to Our Privacy Policy.
 
 **WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT YOU AND WHY?**  
-We gather personally identifiable information that you expressly provide when you enter information into a form on Our Web site including, without limitation, your name, phone number, and e-mail address (“Personal Information”). If you choose not to provide the requested Personal Information, We may not be able to offer you personalized services that require such information.
+We gather personally identifiable information that you expressly provide when you enter information into a form on Our Web site including, without limitation, your name, phone number, and e-mail address (“Personal Information”). We are a free service and are supported by advertising fees collected from the businesses listed on our website. If you choose not to provide the requested Personal Information, We may not be able to offer you personalized services that require such information.
 
 We also collect anonymous information, which includes any information that is not tied to your Personal Information, such as your IP address (“Anonymous Information”). You are not required to register on Our Web site in order for Us to collect Anonymous Information about you.
 
