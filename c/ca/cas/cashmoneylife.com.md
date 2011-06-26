@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashmoneylife.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225032818id_/http%3A//cashmoneylife.com/about/%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmoneylife.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626120059id_/http%3A//cashmoneylife.com/about/%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Money Management, Personal Finance & Career Tips
 
@@ -25,7 +25,7 @@ top
 
 ### **About the Author**
 
-Hello, my name is Ryan Guina and I am the primary author and editor of Cash Money Life (I used to [blog under the name Patrick](http://cashmoneylife.com/2010/03/01/should-you-blog-anonymously/ "should you use a pseudonym for blogging?")). I am a writer, small business owner, entrepreneur, and professional in the corporate world. I have been married for 3 years and we have a beautiful newborn girl. I served a tour in the US Air Force, and I also run a military money website – [**The Military Wallet**](http://themilitarywallet.com/). My wife and I live in the Mid-West and plan on being here for a few more years. In the meantime, we continue to enjoy our current life while planning our future.
+Hello, my name is Ryan Guina and I am the primary author and editor of Cash Money Life (I used to [blog under the name Patrick](http://cashmoneylife.com/should-you-blog-anonymously/ "should you use a pseudonym for blogging?")). I am a writer, small business owner, entrepreneur, and professional in the corporate world. I have been married for 3 years and we have a beautiful newborn girl. I served a tour in the US Air Force, and I also run a military money website – [**The Military Wallet**](http://themilitarywallet.com/). My wife and I live in the Mid-West and plan on being here for a few more years. In the meantime, we continue to enjoy our current life while planning our future.
 
 I wish you all well on your personal journey to financial freedom and happiness!
 
@@ -33,11 +33,11 @@ I wish you all well on your personal journey to financial freedom and happiness!
 
 > **P.S. Here is a little personal information about me:**
 > 
->   * [How We Manage Our Money](http://cashmoneylife.com/2010/03/03/daily-money-management/)
->   * [Money Management Tools, Programs, and Services We Use](http://cashmoneylife.com/2010/03/02/best-financial-software-money-management-tools/)
->   * [How We Organize Our Small Business Finances](http://cashmoneylife.com/2010/03/04/how-to-organize-your-small-business-finances/)
->   * [Here are 8 random things about me](http://cashmoneylife.com/2007/07/11/eight-random-things-about-patrick/).
->   * and Here are [7 More Random Things About Me](http://cashmoneylife.com/2007/10/07/7-random-things-about-me/).
+>   * [How We Manage Our Money](http://cashmoneylife.com/daily-money-management/)
+>   * [Money Management Tools, Programs, and Services We Use](http://cashmoneylife.com/best-financial-software-money-management-tools/)
+>   * [How We Organize Our Small Business Finances](http://cashmoneylife.com/how-to-organize-your-small-business-finances/)
+>   * [Here are 8 random things about me](http://cashmoneylife.com/eight-random-things-about-patrick/).
+>   * and Here are [7 More Random Things About Me](http://cashmoneylife.com/7-random-things-about-me/).
 >   * [Interview at My Two Dollars](http://www.mytwodollars.com/2008/01/30/meet-the-m-network-an-interview-with-patrick-from-cash-money-life/).
 >   * [Interview at No Debt Plan](http://www.nodebtplan.net/2009/01/17/subscriber-swap-saturday-cash-money-life/).
 >   * [Interview at Your-Roth-IRA](http://www.your-roth-ira.com/cash-money-life.html).
@@ -74,8 +74,8 @@ top
 ### **Cash Money Life in the Media**
 
   * Cash Money Life has been featured in popular websites such as The New York Times, The Wall Street Journal, MSN Money, CNN Money, MainStreet.com, and more.
-  * **MSN Money Blog (Smart Spending) -** [Credit cards don’t cause misery; people do](http://blogs.moneycentral.msn.com/smartspending/archive/2007/11/01/credit-cards-don-t-cause-misery-people-do.aspx).
-  * **MSN Money Blog (Smart Spending) -** [Not all personal-finance bloggers are millionaires](http://blogs.moneycentral.msn.com/smartspending/archive/2008/01/03/not-all-personal-finance-bloggers-are-millionaires.aspx).
+  * **MSN Money Blog (Smart Spending) -** Credit cards don’t cause misery; people do.
+  * **MSN Money Blog (Smart Spending) -** Not all personal-finance bloggers are millionaires.
   * [**New Retirement**](http://blogs.newretirement.com/2007/11/12/57-retirement-resources/) – listed as one of 57 retirement resources to help manage retirement without a financial planner.
 
 
@@ -103,11 +103,11 @@ As with most other websites, we collect and use the data contained in log files.
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
   * Google’s use of the DART cookie
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
 
 
-We also use third party advertisements on Cash Money Life to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet.  Users may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We also use third party advertisements on Cash Money Life to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet.  Users may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
