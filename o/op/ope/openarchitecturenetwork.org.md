@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081816id_/http%3A//openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openarchitecturenetwork.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626083607id_/http%3A//openarchitecturenetwork.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Architecture Network
 
