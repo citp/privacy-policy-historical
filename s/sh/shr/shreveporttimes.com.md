@@ -1,159 +1,94 @@
-> *The following text is extracted and transformed from the shreveporttimes.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118145747id_/http%3A//www.4info.net/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shreveporttimes.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627004623id_/http%3A//www.shreveporttimes.com/section/privacy) for the most accurate reproduction.*
 
-# 4INFO Privacy Policy
+# PRIVACY | Shreveporttimes | shreveporttimes.com
 
-You are here: Privacy
+Last Updated: December 30, 2010
 
-#### Effective Date: August 25, 2009
+We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Notice.
 
-4INFO is a mobile marketing and technology company. We focus primarily upon three areas of business: 1) we are the largest provider of free text message alerts and information in the United States; 2) we provide a technology platform that enables our clients to deliver, track and report on text message alerts that our clients sent out via our platform, and; 3) we offer an interactive media network to help our clients advertise via websites, WAP sites, SMS, and other forms of media. 
+This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-At 4INFO, we take your privacy seriously. This policy is designed to inform you about our privacy practices on our corporate Website ("Website"), [www.4info.com](https://web.archive.org/web/20100519052900id_/http://www.4info.com/www.4info.com), including the SMS alerts that you may sign up for on our Website. This policy also addresses our technology platform and our media network. If you have any questions about this privacy policy, please feel free to contact us at [support@4info.com](mailto:support@4info.com). 
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.shreveporttimes.com/section/terms). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.
 
-## Policy for Information we Collect on this Website
+### Your California Privacy Rights
 
-### Personally Identifiable Information
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-We collect Personally Identifiable Information ("PII") from the Website. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, address, telephone or cell phone number, or email address. We may collect PII under the following circumstances: 
+Mark Faris  
+Online Privacy Coordinator  
+[ www.shreveporttimes.com](http://www.shreveporttimes.com/)  
+Gannett Law Department  
+7950 Jones Branch Drive  
+McLean, VA 22107
 
-  * When you choose to register with 4INFO on the Website, we will collect your email address and your cell phone number, and you will be required to provide a password as part of your registration. We may also ask for your wireless carrier, gender, zip code, occupation, industry, make and model of your mobile device, and your personal interests. You will also be offered the opportunity to receive 4INFO news via email and/or SMS. 4INFO may combine information about you that we have with information we obtain from our business partners.
-  * When you sign up to receive one of our SMS alert messages on the Website, or with our partners, we may ask you to register with us. (See above) If you register for an SMS alert via one of our partner websites, they will make it clear that you are registering with 4INFO, and provide you with a link to this privacy policy. Please note that you may also sign up to receive our SMS alerts without registering, by providing us with your cellular number via the Website.
-  * When you use 4INFO products and services, even if you do not register, 4INFO collects and stores information about your transactions with us. 4INFO automatically receives and records information on our server logs from your product or service usage including your cell phone number or IP address and all messages sent to 4INFO short codes.
-  * If you enter one of our partner's sweepstakes, we may ask for PII so that we may contact you in the event that you win the sweepstakes.
-  * When you choose to send us PII about yourself in an email or by completing an online form on this Website, we use this information only to contact you to respond to your inquiry or to fulfill your request to receive one of our business case studies or white papers. Once collected, we will store your PII for a reasonable time for record keeping purposes. The information that we store is usually deleted as space requires or in the normal course of business.
+### How We Collect and Use Information
 
+We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
+We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-### Non-Personally Identifiable Information
+If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy." Select "High" or "Block All Cookies." To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.
 
-We collect Non-Personally Identifiable Information ("Non-PII") from visitors to this Website. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer's operating system. When you register with us, we may ask you to provide your wireless carrier, gender, zip code, occupation, industry, the make and model of your mobile device, and to select your personal interests. This information will be combined with your mobile phone number in order to serve targeting advertising to you. 
+The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
 
-### Cookies
+We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.
 
-We use "cookies" on this Website in order to us to retain your login preferences if you sign up to receive our SMS alerts. Cookies are small text files that contain a string of alphanumeric characters. A persistent cookie remains on your hard drive for an extended period of time. You can remove cookies by following directions provided in your Internet browser's "help" file. Please note that removing or otherwise disabling cookies may reduce your ability to enjoy the full functionality of the Website. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>. 
+In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.
 
-### Third Party Advertisers
+We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may collect information about your visits to our Website, such as number of times you have viewed an ad (but not your name, address, or other personal information). These companies may also use that information to serve ads about goods and services that may be of interest to you on this Website, and other websites. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp). 
+If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.
 
-## Ways Information collected via the Website is used
+For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."
 
-4INFO uses information for the following general purposes: 
+Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.
 
-  * To help us deliver and customize the SMS messages that we send, we may use the information that you provide to us, and may merge that information with additional information we obtain from our partners. For example, we may use your cell number to run a lookup through your wireless carrier to determine the type of phone you have in order to provide you with more relevant advertising.
-  * We may use any of the information under our control in order to improve, or to better understand how our products or services are used. 
-  * We may use your PII to contact you in order to answer a question or address a concern that you've raised, or to provide customer service on your account.
-  * We may use your PII to conduct research by sending you a survey. We don't combine the survey results with other information under our control.
-  * We reserve the right to send you certain communications relating to your 4INFO account, such as service announcements and administrative messages.
-  * We welcome your comments and suggestions regarding the web site. However, any comments, feedback, notes, messages, ideas, suggestions or other communications (collectively, "Comments") sent by you to 4INFO shall be and remain the exclusive property of 4INFO. We won't release your name in a way that contradicts this Privacy Policy, but we may share your Comments without identifying who you are.
+We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.
 
+Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://www.shreveporttimes.com/section/terms); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
-## Information we Collect via our Technology and Network
+### Data Collected in Connection with Ad Serving and Targeting
 
-This section of the policy is designed to help you understand how our technology platform ("Technology") and our media network ("Network") processes information on behalf of the advertisers, WAP and website owners and other businesses that use our services (our "Clients"). 
+We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
 
-## Overview of our Technology
+We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site. We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.
 
-Our Technology is designed to help our Clients deliver advertising and content to your mobile device and your computer. For example, Clients use our Technology to perform the following: 
+The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.
 
-  * Send SMS messages and alerts to your mobile device,
-  * Place ads into those SMS messages and alerts,
-  * Place ads into mobile games, applications and WAP sites,
-  * Place ads onto websites that you visit while on the Internet,
-  * Understand which ads are placed, and which are clicked on by you and others.
+The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please [click here](http://www.shreveporttimes.com/section/adnetwork).
 
+### Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas
 
+Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-Please note that not every client uses our Technology the same way. For example, one client may only use the Technology to deploy SMS messages, while another Client may deploy SMS messages on their own, but will use our Technology to serve ads and report on how many clicks each ad receives. 
+### Children's Privacy Statement
 
-### Overview of our Network
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information regarding their rights under federal law with respect to such information.
 
-Our Network facilitates the serving of advertisements on to interactive media, including websites, WAP sites, online and mobile games and SMS messages ("Interactive Media"). Our Network collects information about your use of Interactive Media (e.g., the websites visit and the advertisements that you see while surfing the Internet.) You may encounter our Network when 4INFO or one of our Business Partners purchases advertisements on Interactive Media. We use the information collected by our Network in order to help facilitate the advertisements that you see, to make the ads you see more relevant to you, and to help our Clients understand whether the advertisements they've purchased are effective. 
+  * This Site is not directed to children under the age of 13 and we do NOT knowingly collect personally identifiable information from children under the age of 13 as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of 13 from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.
+  * Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we also do NOT knowingly distribute such information to third parties.
+  * We do NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information through the Site.
+  * Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we do NOT condition the participation of a child under 13 in the Site's online activities on providing personally identifiable information.
 
-### Information collected by our Technology and Network
 
-The information we gather about you can vary according to the method through which the information is gathered. When you opt-in to receive an SMS message from one of our clients, we gather information associated with your mobile device. The information we gather, regardless of the channel through which it is gathered, may include your name, address, email, phone number, demographic data, connection data associated with your mobile device or computer, and/or the wireless carrier to which you subscribe. 
 
-Our Technology does collect and use Non-PII, including: the IP address used to access the mobile Internet, the type of phone or other mobile device used, the date and time one of the mobile ads we facilitate was delivered and, if applicable, clicked. 
+### How To Make Changes to Your Information
 
-### Ways Information collected via our Technology and Network is used.
+If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. If you have any questions about modifying your account or preference information, please visit the “Customer Service” pages of our Site.
 
-4INFO uses this information to analyze trends and to help our Technology tailor advertisement placement on behalf of our Clients. We also may aggregate this information and share it with our affiliates, advertisers, employees, customers and Business Partners. 
+### Storage of Information
 
-## Policies for the Website, the Technology and the Network
+All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
 
-### Information Sharing and Disclosure
+### Questions Regarding Privacy
 
-4INFO does not rent, sell, or share PII about you with other people or nonaffiliated companies, except when we have your permission, or under the following circumstances: 
+If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
 
-### Agents
-
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to enable them to perform those tasks. Examples include sending email, sending text messages, analyzing data, and providing user services. Each of our agents are contractually required to handle information in a way that is consistent with this privacy policy. 
-
-### Adherence to Law
-
-We may release information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of 4INFO, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection. 
-
-### Business Transfers
-
-Moreover, if 4INFO, or substantially all of its assets were acquired, or in the unlikely event that 4INFO goes out of business or enters bankruptcy, the information we have would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of 4INFO may continue to use your information as set forth in this policy. 
-
-### Client Lists
-
-We facilitate the delivery of text messages on behalf of some of our Clients. Any of our Clients may choose to use a different service provider to facilitate that delivery. In such cases, if you are on our Client's list, we may transfer your information back to our Client so they may deliver messages to you via another technology provider. 
-
-### Your Access to Your Information
-
-4INFO allows you to access your information for the purpose of viewing, and in certain situations, updating that information. You may view and edit the information you've provided us when you registered with us, including your name, your phone number, your email address, and the alerts to which you have subscribed. In order to access your information, you must provide us with your user name and password so we may authenticate who you are. 
-
-When you update information, however, we may maintain a copy of the unrevised information in our archives. 
-
-### Security
-
-The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. 
-
-The PII you provide when you register with 4INFO is protected by a password for your privacy and security. You need ensure unauthorized access to your account and PII by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
-
-For additional information about the security measures 4INFO uses in connection with the Website, please contact us at [support@4info.com](https://web.archive.org/web/20100519052900id_/http://www.4info.com/support@4info.com). 
-
-### Information Relating to Children
-
-Our Website, products and services are designed for those 13 years of age and older. We do not knowingly collect PII from anyone under the age of 13. If we are made aware that we have received PII from someone under 13, we will use reasonable efforts to remove that information from our records. 
-
-### Deleting your Information and Opt-out
-
-You may stop participating and receiving SMS messages from any single 4INFO program by sending STOP to any of our short codes, in response to any message from that program. You may stop participating and receiving SMS messages from all 4INFO programs and services by sending the text message STOP ALL to 44636. This action cancels your previous opt-in for messaging. You will receive a message confirming the opt-out. 
-
-Some of the SMS programs that we deploy on behalf of our clients are run via other short codes. For a list of the Common Short Codes, please [click here](https://www.usshortcodes.com/csc/directory/directoryList.do?method=showDirectory&group=all). The short codes that 4INFO deploys on behalf of our clients are labeled as "Powered by 4INFO" at the point of registration. 
-
-If you are having trouble unsubscribing from any program on our short codes (44636, 446361, 446362, 446363, 446364, 446365, 80676, 96362) or on any short code that is "Powered by 4INFO" please email us at [support@4info.com](https://web.archive.org/web/20100519052900id_/http://www.4info.com/support@4info.com). Please note that we cannot help you unsubscribe from any short codes other than 44636 and those marked as "Powered by 4INFO." 
-
-You may request deletion of your 4INFO account by sending an e-mail to [support@4info.com](https://web.archive.org/web/20100519052900id_/http://www.4info.com/support@4info.com). Please note that some information may remain in our records after deletion of your account. 
-
-### Third Party Websites
-
-The 4INFO website and 4INFO text messages may contain links to other sites. 4INFO is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. 
-
-Lexy Audio Alerts are provided by Lexy and subject to Lexy's privacy policy, which can be viewed at <http://www.lexy.com/about/privacy>. 
-
-### Industry Efforts to Protect Consumer Privacy
-
-4INFO is committed to protecting consumer mobile privacy. 4INFO abides by the Mobile Marketing Association Code of Conduct for Mobile Marketing and other generally accepted industry standards. 
-
-### Unsolicited Message Policy
-
-The 4INFO technology platform is sometimes used to help our clients deliver advertising and content to your mobile device and your computer. Clients of 4INFO have agreed to never send unsolicited SMS messages through 4INFO. Any client who violates this agreement is subject to privacy review, services termination and potential legal action. If you believe you have received an unsolicited commercial text message from 4INFO directly, or on behalf of any of our clients, please send an email (preferably with the reported violation included and the applicable short code) to: [support@4info.com](https://web.archive.org/web/20100519052900id_/http://www.4info.com/support@4info.com). 
-
-### Changes to this Privacy Policy
-
-4INFO may update this policy. We will notify you about significant changes in the way we treat PII by sending a notice to the primary email address specified in your 4INFO account or by placing a prominent notice on our web site. Each user is bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted. 
-
-### Contact 4INFO with Questions or Concerns
-
-If you have any questions or concerns regarding privacy at 4INFO, please send us a detailed message to [support@4info.com](https://web.archive.org/web/20100519052900id_/http://www.4info.com/support@4info.com). Alternatively, you may contact us via postal mail at: 
-
-Privacy Officer  
-4INFO, Inc.  
-177 Bovet Road, 4th Floor  
-San Mateo, CA 94402
+Mark Faris  
+Online Privacy Coordinator  
+[ www.shreveporttimes.com](http://www.shreveporttimes.com/)  
+Gannett Law Department  
+7950 Jones Branch Drive  
+McLean, VA 22107
