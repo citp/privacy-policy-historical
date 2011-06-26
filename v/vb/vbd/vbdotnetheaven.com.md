@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbdotnetheaven.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224082612id_/http%3A//www.vbdotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetheaven.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626145232id_/http%3A//www.vbdotnetheaven.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Mindcracker Network - Privacy Policy
 
@@ -17,7 +17,7 @@
 ---  
 | 
 
-Date: December 24, 2010
+Date: June 26, 2011
 
 Mindcracker Network is a premier network of community websites for Microsoft developers. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.  
   
