@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngoboards.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219101631id_/http%3A//ngoboards.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngoboards.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626141642id_/http%3A//ngoboards.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Forum on NGO Governance
 
