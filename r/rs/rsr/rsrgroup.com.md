@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsrgroup.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226004327id_/http%3A//rsrgroup.com/opnprvcy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsrgroup.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626051724id_/http%3A//rsrgroup.com/opnprvcy.php) for the most accurate reproduction.*
 
 # RSR Group | Privacy Statement
 
