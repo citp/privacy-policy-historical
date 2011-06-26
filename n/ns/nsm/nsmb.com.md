@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsmb.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227123120id_/http%3A//www.nsmb.com/274-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsmb.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626185042id_/http%3A//www.nsmb.com/274-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NSMB.e.MAGAZINE - Freeride, Extreme and North Shore style Mountain Biking
 
