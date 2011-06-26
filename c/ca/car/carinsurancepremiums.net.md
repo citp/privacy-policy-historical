@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carinsurancepremiums.net privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210133909id_/http%3A//www.carinsurancepremiums.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurancepremiums.net privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626041048id_/http%3A//www.carinsurancepremiums.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,4 +8,4 @@ Advertising / Cookies: The ads appearing on this web site may be delivered to us
 
 Notice of Changes: If we decide to change our legal and/or privacy policy, we will post those changes to this web page, the homepage, and other places we deem appropriate. We will notify our users of what information we collect (if any), how we use it, and under what circumstances we disclose it. We will only use information in accordance with the privacy policy under which the information was collected.
 
-Contact Information: Please use the [**Contact Us**](https://web.archive.org/web/20100210133909id_/http%3A//www.carinsurancepremiums.net/contact.html) links on this site to submit any questions regarding our terms of use statement.
+Contact Information: Please use the [**Contact Us**](https://web.archive.org/web/20110626041048id_/http%3A//www.carinsurancepremiums.net/contact.html) links on this site to submit any questions regarding our terms of use statement.
