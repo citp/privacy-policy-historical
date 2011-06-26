@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the transfur.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920221023id_/http%3A//transfur.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfur.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627003738id_/http%3A//transfur.com/Privacy) for the most accurate reproduction.*
 
-# Transfur - Privacy Statement
+# Privacy Statement - Transfur
 
 ## Information Collection and Use
 
-Transfur is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Transfur collects information from our users at several different points on our website. 
+We will not sell, share, or rent information collected on this site to others in ways different from what is disclosed in this statement. Transfur collects information from our users at several different points on our website. 
 
 ## Registration
 
@@ -35,7 +35,5 @@ This website takes every precaution to protect our users’ information. When us
 We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email. 
 
 ## Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. 
 
 Transfur will not notify users directly about changes to our privacy policy. Users are responsible for checking this page for any policy changes. 
