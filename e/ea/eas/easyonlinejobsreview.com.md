@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the easyonlinejobsreview.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226002539id_/http%3A//easyonlinejobsreview.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyonlinejobsreview.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626190739id_/http%3A//easyonlinejobsreview.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Online Jobs Review
+
+[ ](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Famazon.com%2F&tag=honesonlinopp-20&linkCode=ur2&camp=1789&creative=9325)
 
 **Privacy Policy for www.easyonlinejobsreview.com**
 
@@ -30,6 +32,6 @@ www.easyonlinejobsreview.com has no access to or control over these cookies that
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.easyonlinejobsreview.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
 [](http://www.wealthyaffiliate.com/?a_aid=bEkFTw4p)
