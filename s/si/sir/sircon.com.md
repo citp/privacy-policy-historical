@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226005534id_/http%3A//www.sircon.com/about/security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626220029id_/http%3A//www.sircon.com/about/security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sircon, A Vertafore Business
 
-#### Updated: March 11, 2009
+#### Updated: May 2, 2011
 
 This policy covers Sircon.com (the "Site"). Other Vertafore web properties may have site specific privacy policies.
 
@@ -24,6 +24,20 @@ Except as otherwise described in this statement, personal information you provid
 
 Vertafore may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Vertafore or the Site; (b) protect and defend the rights or property of Vertafore and our family of Web Services and Sites; or (c) act in urgent circumstances to protect the personal safety of Vertafore employees or agents, users of Vertafore products or services, or members of the public.
 
+## Use of Cookies
+
+The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience. A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. Vertafore does not use cookies to retrieve personal information about you from your computer.
+
+Vertafore uses cookies to:
+
+  * Recognize you so that you can log in to our Site and access your account information.
+  * Evaluate how many people return to our Site and measure the traffic to various areas of the Site.
+  * Track the way you use our promotions, contests, and sales.
+  * Personalize a user's experience on the Site and target our advertisements based on your current or previous use of our web site and any keywords you use on internet search engines to locate our Site.
+  * Identify to third-party advertisers that you have visited the Site, so that these third-party advertisers may serve ads on our behalf.
+
+
+
 ## Choice of Future Communications
 
 From time to time, Vertafore, Inc. and its controlled subsidiaries and affiliates may send you information about product and service offerings that may be of interest to you. At such a time, you will be given an opportunity to opt-out of future communications.
@@ -43,5 +57,5 @@ Vertafore welcomes your comments regarding this privacy statement. If you have q
 If you believe that Vertafore has not adhered to this privacy statement, please contact us at infosec@Vertafore.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 **Vertafore, Inc. (Attention Legal Department)**  
-11831 North Creek Parkway North  
+11724 NE 195th Street  
 Bothell, WA 98011
