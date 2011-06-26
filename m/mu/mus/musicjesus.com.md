@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicjesus.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126223132id_/http%3A//musicjesus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjesus.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626093105id_/http%3A//musicjesus.com/privacy.php) for the most accurate reproduction.*
 
 # MusicJesus.com - Music Video Codes
 
@@ -28,7 +28,7 @@ musicjesus.com will never give your email address to anyone else. We will only s
 
 **Third Party Ad Serving and Sites**
 
-musicjesus.com works with carefully chosen third parties to serve ads to this site. In the course of serving those advertisements, our advertisers might collect what is known as "Click Stream Data," which is anonymous and includes a web user's IP address, web pages viewed, date and time of access and responses by a web surfer to an advertisement delivered by us. If you would like more information about this practice, read our advertisers Privacy Statement.
+Musicjesus.com use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click Here](http://www.networkadvertising.org/) Musicjesus.com works with carefully chosen third parties to serve ads to this site. In the course of serving those advertisements, our advertisers might collect what is known as "Click Stream Data," which is anonymous and includes a web user's IP address, web pages viewed, date and time of access and responses by a web surfer to an advertisement delivered by us. If you would like more information about this practice, read our advertisers Privacy Statement.
 
 Some of our pages contain links to other sites that may have information practices different from ours. musicjesus.com has no control over information that is submitted to, or collected by, these third parties. You should consult the privacy notices of any site you choose to visit.
 
