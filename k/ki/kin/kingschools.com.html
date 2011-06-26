@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the kingschools.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228105958id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kingschools.com privacy policy that was archived on 2011-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626095123id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Privacy Policy - King Schools</title>
+	<title>Privacy Policy | King Schools</title>
 	<meta name="title" content="Privacy Policy">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
@@ -26,15 +26,18 @@
 	// -->
 	</script><script language="JavaScript" type="text/javascript" src="//srv1.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=10OEG2LG2H58QL6CAPKVTGDOCT8"></script>
 
-    <link rel="stylesheet" type="text/css" href="/CSS/combined-v1.0.css">
+    <link rel="stylesheet" type="text/css" href="/CSS/combined-v1.1.css">
     <link rel="stylesheet" type="text/css" href="/SCRIPTS/jquery.ceebox.2.0.7/css/ceebox-min.css">
-
+    <link rel="stylesheet" type="text/css" href="/SCRIPTS/jquery.jqueryui/css/leftnav/jquery-ui-1.8.7.leftnav.css">
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/themes/base/jquery-ui.css" type="text/css" media="all">
     <script language="javascript" type="text/javascript" src="/SCRIPTS/clientscripts/ClientScripts.min.js"></script>
     
     <!-- include jQuery library -->
-    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-    <script type="text/javascript">google.load("jquery","1.3.2");</script>
-    <script type="text/javascript">if (typeof jQuery == 'undefined'){document.write(unescape("%3Cscript src='/SCRIPTS/jquery-1.3.2.min.js' type='text/javascript'%3E%3C/script%3E"));}</script><script src="/SCRIPTS/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript">google.load("jquery","1.4.4");</script>
+    <script type="text/javascript">if (typeof jQuery == 'undefined'){document.write(unescape("%3Cscript src='/SCRIPTS/jquery-1.4.4.min.js' type='text/javascript'%3E%3C/script%3E"));}</script><script src="/SCRIPTS/jquery-1.4.4.min.js" type="text/javascript"></script>
+    <script type="text/javascript">google.load("jqueryui", "1.8.7");</script>
+    <script type="text/javascript">if (typeof jqueryui == 'undefined'){document.write(unescape("%3Cscript src='/SCRIPTS/jquery-ui-1.8.7.min.js' type='text/javascript'%3E%3C/script%3E"));}</script><script src="/SCRIPTS/jquery-ui-1.8.7.min.js" type="text/javascript"></script>
     
     <script type="text/javascript" src="/SCRIPTS/jquery.metadata.2.1/jquery.metadata.min.js"></script>
     <script type="text/javascript" src="/SCRIPTS/jquery.media.plugin/jquery.media.min.js"></script>
@@ -54,8 +57,20 @@
                 expressInstaller:   true
             });
             if ( $('.stripeTable').length ) {stripeTables();}
+            if ( $('#leftnav').length ) {
+                $('#leftrailblock > :last-child').after($('#leftnav'));
+                $( "#leftnav" ).accordion({ autoHeight: false });
+                if ( $('#leftnav-ad-top').length ) {
+                    $('#leftnav').before($('#leftnav-ad-top'));
+                }
+                if ( $('#leftnav-ad-bottom').length ) {
+                    $('#leftnav').after($('#leftnav-ad-bottom'));
+                }
+             }
         });
     </script>
+    
+ 
 </head>
 <body>
 <a id="topofpage"></a>
@@ -76,7 +91,7 @@
     </ul>
     <div id="customerbox">
       <div class="customershopping">
-        <a class="cart" href="/Cart/Cart_Detail.asp?UID=2600122723020074"></a>
+        <a class="cart" href="/Cart/Cart_Detail.asp?UID=1888062602512276"></a>
         <ul>
           <li><a href="https://www.kingschools.com/login/">Sign In</a></li>
           <li>|</li>
@@ -98,9 +113,8 @@
 <a class="addthis_button_preferred_3"></a>
 <a class="addthis_button_preferred_4"></a>
 </div>
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=kingschools"></script>
-<script type="text/javascript">var addthis_config = {ui_header_color: "#fff", ui_header_background: "#fe6d4c", ui_cobrand: "King Schools"}</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=kingschools"></script>
+<script type="text/javascript">var addthis_config = {ui_header_color: "#fff", ui_header_background: "#fe6d4c", ui_cobrand: "King Schools", "data_track_clickback": true}</script>
 <!-- AddThis Button END -->
 </div>
       
@@ -116,142 +130,248 @@
 
 <div id="leftrailblock" class="size1">
     
-    <div class="leftContainer" style="position:relative; padding:0; margin:0 0 5px 0;">
-        <div style="padding:0; margin:0; font-size:14px; font-weight:bold; color:#b40001; text-align:center; position:relative;">Product Search</div>
-            <form name="SearchForm" action="/searchresults.asp" method="post" id="SearchForm" style="margin:0; text-align:center; margin:0; padding:0;">
-                <input type="text" size="11" name="SKW">&nbsp;<input type="image" name="Submit" src="/otherImages/Button_go_grey_bg.jpg" alt="Search" style="vertical-align: text-bottom;">
-                <input type="hidden" name="STARTPAGE" value="0001" id="Hidden1">
-                <input type="hidden" name="PAGLEN" value="6" id="Hidden2">
-                <br>
-                <span style="font-size: 8pt;">Enter keyword or item#</span>
+    <div class="leftContainer" id="leftnav-searchbox">
+            <form name="SearchForm" id="SearchForm" action="/searchresults.asp" method="post">
+                <div>
+                    <input type="text" size="11" name="SKW" class="searchfield">
+                </div>
+                <input type="hidden" name="STARTPAGE" value="0001" id="STARTPAGE">
+                <input type="hidden" name="PAGLEN" value="6" id="PAGLEN">
+                <input type="submit" class="searchbutton" name="submit" value="">
+                <span>Enter keyword or item#</span>
             </form>
-    </div>
-
-    <div id="leftNav" class="leftContainer">
-        <div class="heading">Browse Courses</div>
-<ul>
-    <li><a href="/courses/private-pilot/faa-exam-training.asp" class="L1">Private Pilot</a></li>
-	<li><a href="/courses/private-pilot/faa-exam-training.asp">Knowledge Test  &amp;<br>Practical Test</a></li>
-	<li><a href="/searchresults.asp?skw=cessna%20private&amp;LinkTitle=Cessna%20Course%20Kits">Cessna</a></li>
-</ul>
-<ul>
-	<li><a href="/courses/instrument-rating/faa-exam-training.asp" class="L1">Instrument Rating</a>
-    <br><a href="/courses/instrument-rating/benefits-of-instrument-rating.asp" style="font-size:11px;font-style:italic;font-color:#0054a5;text-decoration:underline;">(Why get an instrument rating?)</a></li>
-	<li><a href="/courses/instrument-rating/faa-exam-training.asp">Knowledge Test &amp;<br>Practical Test</a></li>
-	<li><a href="/productdetail.asp?itemNo=CID%20KS278K">Cessna</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=Commercial&amp;LinkTitle=Commercial%20Pilot" class="L1">Commercial Pilot</a></li>
-	<li><a href="/searchresults.asp?SKW=CPEXAMS&amp;LinkTitle=Commercial%20Pilot%20—%20Knowledge%20Test%20Courses">Knowledge Test</a></li>
-	<li><a href="/searchresults.asp?skw=commercial%20checkride&amp;LinkTitle=Commercial%20Pilot%20—%20Practical%20Test%20Courses">Practical Test</a></li>
-	<li><a href="/productdetail.asp?ITEMNO=CCC%20KS397K&amp;LinkTitle=Commercial%20Pilot%20-%20Cessna%20Courses">Cessna</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=CFI&amp;LinkTitle=Certificated%20Flight%20Instructor" class="L1">Flight Instructor/FOI</a></li>
-	<li><a href="/searchresults.asp?SKW=FPEXAMS&amp;LinkTitle=CFI%20-%20KING%20Exam%20Courses">Knowledge Test</a></li>
-	<li><a href="/productdetail.asp?itemNo=KFD%20FVCHCDVDK">Practical Test</a></li>
-</ul>
-<ul>
-	<li><a href="http://www.kingschoolsonline.com/Default.aspx?ctype=ptc" target="_blank" class="L1">Pro / Turbine - Online</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rvsm&amp;cid=10" target="_blank">RVSM</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=p135indoc" target="_blank">Part 135 Initial/Recurrent</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=mnps" target="_blank">MNPS</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rnp&amp;cid=16" target="_blank">Oceanic RNP</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=jt" target="_blank">Jet Transition</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=itr" target="_blank">Introduction to Radar</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=etops" target="_blank">ETOPS</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=haegt" target="_blank">High-Altitude Endorsement</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=hap" target="_blank">High-Altitude Physiology</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=haa" target="_blank">High-Altitude Aerodynamics</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=haw" target="_blank">High-Altitude Weather</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=taws" target="_blank">TAWS</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=hazmat" target="_blank">HAZMAT</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=ipc" target="_blank">Icing Operations</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=jpk" target="_blank">Jet Pilot Kit</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=iok" target="_blank">International Operations</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=jpk91" target="_blank">Part 91 Jet Pilot</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=jpk135" target="_blank">Part 135 Jet Pilot</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=prnav" target="_blank">P-RNAV</a></li>
-	<li><span style="font-weight:bold; color:#333333; margin-left:5px;">FlightSafety - Online</span></li>
-	<li><a href="http://www.kingschoolsonline.com/courseinfo.aspx?c=fscwo" target="_blank">Cold Weather Operations</a></li>
-	<li><a href="http://www.kingschoolsonline.com/courseinfo.aspx?c=fsuns1" target="_blank">Universal UNS-1 Fundamentals</a></li>
-	<li><a href="http://www.kingschoolsonline.com/courseinfo.aspx?c=fsdrvsm" target="_blank">Domestic RVSM</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=Sport%20Pilot&amp;LinkTitle=Sport%20Pilot" class="L1">Sport Pilot</a></li>
-	<li><a href="/searchresults.asp?SKW=SPEXAMS&amp;LinkTitle=Sport%20Pilot%20-%20KING%20Exam%20Courses">Knowledge Test</a></li>
-	<li><a href="/searchresults.asp?SKW=SPCHECKRIDE&amp;LinkTitle=Sport%20Pilot%20-%20KING%20Checkride%20Courses">Practical Test</a></li>
-	<li><a href="/searchresults.asp?skw=cessna%20sport&amp;LinkTitle=Cessna%20Course%20Kits">Cessna</a></li>
-	
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=KAVIONICS&amp;LinkTitle=Avionic%20Courses" class="L1">Avionics Courses</a></li>
-	<li><a href="/productdetail.asp?ItemNo=OVD%20KSA325">Garmin G1000</a></li>
-	<li><a href="/productdetail.asp?ItemNo=OOC+KSA107">Garmin 430/530</a></li>
-	<li><a href="/productdetail.asp?itemNo=OOD%20KSJV042DVD">KLN 94</a></li>
-	<li><a href="/productdetail.asp?itemNo=OOD%20KSJV041DVD">KLN 89B</a></li>
-    <li><span style="font-weight:bold; color:#333333; margin-left:5px;">Rockwell Collins - Online</span></li>
-    <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rccj3pl21ops" target="_blank">Pro Line 21<br>Cessna CJ3</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcf2050pl21ops" target="_blank">Pro Line 21 Falcon 20/50</a></li>
-    <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rckapl21ops" target="_blank">Pro Line 21 KING AIR</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rch800ifis" target="_blank">Pro Line 21 Hawker 800XP</a></li>
-    <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcfms3000" target="_blank">FMS-3000</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcifis5000" target="_blank">IFIS-5000</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcahs3000" target="_blank">AHS-3000</a></li>
-	<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcwxr2100" target="_blank">WXR-2100</a></li>
-    <li><span style="font-weight:bold; color:#333333; margin-left:5px;">Rockwell Collins - Desktop</span></li>
-    <li><a href="/courses/avionics-training/">Virtual Avionics Trainers</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=ATP&amp;LinkTitle=Airline%20Transport%20Pilot" class="L1">ATP</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=Flight%20Review&amp;LinkTitle=Flight%20Review" class="L1">Flight Review</a></li>
-</ul>
-<ul>
-	<li><a href="/practical-risk-management.asp" class="L1">Practical Risk Mgmt</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=TOAP&amp;LinkTitle=Advanced%20Courses" class="L1">Advanced</a></li>
-</ul>
-
-<ul>
-	<li><a href="/searchresults.asp?SKW=MultiEngine&amp;LinkTitle=Multi-Engine%20Flying" class="L1">Multi-Engine</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=KSHELO&amp;LinkTitle=Helicopter%20Supplements" class="L1">Helicopter Courses</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=APMechanic&amp;LinkTitle=A%20and%20P%20Mechanic" class="L1">A&amp;P Mechanic</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=TOESP&amp;LinkTitle=Take-Off%20Courses" class="L1">Take-Off Courses</a></li>
-</ul>
-<ul>
-	<li><a href="/searchresults.asp?SKW=KAUDIO&amp;LinkTitle=KING%20Audio%20Courses" class="L1">Audio</a></li>
-</ul>
-<ul>
-	<li><a href="/pilotgear.asp?LinkTitle=Pilot%20Tools" class="L1">Pilot Tools</a></li>
-	<li><a href="/searchresults.asp?SKW=Book&amp;LinkTitle=Pilot Tools - Books">Books</a></li>
-	<li><a href="/searchresults.asp?SKW=chart&amp;LinkTitle=Pilot%20Tools%20-%20Charts">Charts</a></li>
-	<li><a href="/searchresults.asp?SKW=DVD**CD&amp;LinkTitle=Pilot%20Tools%20-%20DVDs%20and%20CDs">DVDs &amp; CDs</a></li>
-	<li><a href="/searchresults.asp?SKW=E6BPLOTTERS&amp;LinkTitle=Pilot%20Tools%20-%20E6-Bs%20and%20Plotters">E6-Bs &amp; Plotters</a></li>
-	<li><a href="/searchresults.asp?SKW=Bag&amp;LinkTitle=Pilot Tools - Flight Bags">Flight Bags</a></li>
-	<li><a href="/searchresults.asp?SKW=GPS&amp;LinkTitle=Pilot Tools - GPS Training">GPS Training</a></li>
-	<li><a href="/searchresults.asp?SKW=Headset&amp;LinkTitle=Pilot Tools - Headsets">Headsets</a></li>
-	<li><a href="/searchresults.asp?SKW=Software**Simulator&amp;LinkTitle=Pilot%20Tools%20-%20Training%20Simulation%20Tools">Training Simulation Tools</a></li>
-	<li><a href="/searchresults.asp?SKW=CAT2_O&amp;LinkTitle=Other%20Pilot%20Tools">Other Pilot Tools</a></li>
-	<li><a href="/DiscontinuedItems.asp"><font style="color : maroon;"><em>Discontinued Items</em></font></a></li>
-</ul>
-<ul>
-	<li><a href="/BusinessCourses.asp" class="L1">Business Courses</a></li>
-	<li><a href="/productdetail.asp?ITEMNO=OOD+400">Creating A Successful<br>Business</a></li>
-	<li><a href="/productdetail.asp?ITEMNO=OOD+300">Non-Manipulative Selling</a></li>
-	<li><a href="/productdetail.asp?ITEMNO=OOD+200">Marketing For Results</a></li>
-	<li><a href="/productdetail.asp?ITEMNO=OOD+100">Customer Relationships</a></li>
-</ul>
-
-</div>	
+    </div><div id="leftnav-ad-top">
+    
+    <a href="/sweepstakes/"><img src="/otherImages/global/leftnav/leftnav-sweepstakes.jpg" alt="35th Anniversary Sweepstakes" style="border:0 none;"></a>
+</div><div id="leftnav" class="ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
+	<h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-state-active ui-corner-top" role="tab" aria-expanded="true" tabindex="0"><span class="ui-icon ui-icon-triangle-1-s"></span><a href="#lnav-save" class="emphasize">Ways to Save</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" role="tabpanel">
+		<ul>
+        	<li><a href="/GetItAllKits.asp" class="emphasize"><i>Get It All</i> Kits</a></li>
+            <li><a href="/Offers/KingCourseSpecial.asp">Best Buy Combos</a></li>
+            <li><a href="/offers/tovbuyget.asp">Special Subject Series Course Special</a></li>
+            <li><a href="/searchresults.asp?SKW=BFR&amp;LinkTitle=Flight%20Review%20Courses">Flight Review/IPC Bundles</a></li>
+            <li><a href="/productdetail.asp?itemNo=EFD%20FVECDVDPC">CFII Bundle</a></li>
+            <li><a href="/productdetail.asp?itemNo=EMD%20MAVECDVD3">A&amp;P Bundle</a></li>
+        </ul>
+	</div>
+	<h3 class="emphasize ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-private">Private Pilot</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/courses/private-pilot/faa-exam-training.asp">FAA Knowledge Test</a></li>
+			<li><a href="/productdetail.asp?itemNo=KPD%20PVCHCDVDK">Practical Test (Checkride)</a></li>
+            <li><a href="/productdetail.asp?ITEMNO=EPO%20KIT130" class="emphasize"><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+            <li><a href="http://cessnaflighttraining.kingschools.com/index.aspx?sco=&amp;scu=" target="_blank">Cessna Integrated Training</a></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-sport">Sport Pilot</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+        	<li><a href="/searchresults.asp?SKW=SPEXAMS&amp;LinkTitle=Sport%20Pilot%20-%20KING%20Exam%20Courses">FAA Knowledge Test</a></li>
+            <li><a href="/productdetail.asp?itemNo=KTC%20KCR810K">Practical Test (Checkride)</a></li>
+            <li><a href="/productdetail.asp?ITEMNO=ETO%20KIT840" class="emphasize"><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+            <li><a href="http://cessnaflighttraining.kingschools.com/index.aspx?sco=&amp;scu=" target="_blank">Cessna Integrated Training</a></li>
+            <li><a href="/productdetail.asp?itemNo=CTD%20KCO598">Flying the Skycatcher</a></li>
+        </ul>
+	</div>
+	<h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-ifr">Instrument Rating</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/courses/instrument-rating/faa-exam-training.asp">FAA Knowledge Test</a></li>
+			<li><a href="/productdetail.asp?itemNo=KID%20IVCHCCDK">Practical Test (Checkride)</a></li>
+            <li><a href="/productdetail.asp?ITEMNO=EIO%20KIT230" class="emphasize"><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+            <li><a href="/productdetail.asp?itemNo=CID%20KS278K">Cessna Integrated Training</a></li>
+			<li><br><a href="/courses/instrument-rating/benefits-of-instrument-rating.asp" style="font-style:italic;">Why should I get my Instrument Rating?</a></li>
+		</ul>
+	</div>
+	<h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-comm">Commercial Pilot</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/searchresults.asp?SKW=CPEXAMS&amp;LinkTitle=Commercial%20Pilot%20-%20KING%20Exam%20Courses">FAA Knowledge Test</a></li>
+			<li><a href="/productdetail.asp?itemNo=KCD%20CVCHCDVDK">Practical Test (Checkride)</a></li>
+			<li><a href="/productdetail.asp?ITEMNO=EDO%20KIT330" class="emphasize"><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+            <li><a href="/productdetail.asp?itemNo=CCC%20KS397K">Cessna Integrated Training</a></li>
+		</ul>
+	</div>
+	<h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-foi">Flight Instructor / FOI</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/searchresults.asp?SKW=FPEXAMS&amp;LinkTitle=CFI%20-%20KING%20Exam%20Courses">FAA Knowledge Test</a></li>
+            <li><a href="/productdetail.asp?itemNo=KFD%20FVCHCDVDK">Practical Test (Checkride)</a></li>
+			<li><a href="/productdetail.asp?itemNo=EFO%20KIT430" class="emphasize"><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+		</ul>
+	</div>
+	<h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-cfi">Flight Instructor Instrument</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=EFD%20FVECDVDPC">CFII Exam Bundle</a></li>
+		</ul>
+	</div>
+	<h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-sport-instr">Sport Pilot Instructor</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=ETC%20KEC850">FAA Knowledge Test</a></li>
+			<li><a href="/productdetail.asp?itemNo=KTC%20SPFI%20CD">Practical Test (Checkride)</a></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-atp">Airline Transport Pilot</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=EAD%20VECDVDK%20ATP">Part 121/135 Exam Course</a></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-fe">Flight Engineer</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=EED%20EVECDVDK">FE Knowledge Test</a></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="/productdetail.asp?itemNo=CMC%20KS498K">Multi-Engine</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=wbtomefV1&amp;navtype=pfc&amp;sco=&amp;scu=" target="_blank">Multi-Engine Flying</a></li>
+		</ul>
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=CMC%20KS498K">Multi-Engine Ground School</a></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-helo">Helicopter</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=EPD%20PPEC%20DVDPC%20HELO">Private Exam</a></li>
+            <li><a href="/productdetail.asp?itemNo=EID%20IPECDVDPC%20HELO">Instrument Exam</a></li>
+            <li><a href="/productdetail.asp?itemNo=ECD%20CPECDVD%20HELO">Commercial Exam</a></li>
+            <li><a href="/productdetail.asp?itemNo=EFD%20CFIVECDVD%20HELO">Flight Instructor Exam</a></li>
+            <li><a href="/productdetail.asp?itemNo=EAD%20VECDVDK%20ATP%20HELO">ATP Exam</a></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-ap">Aviation Mechanic</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=EMD%20MAVECDVDK">Airframe Exam</a></li>
+            <li><a href="/productdetail.asp?itemNo=EMD%20MPVEDVDK">Powerplant Exam</a></li>
+            <li><a href="/productdetail.asp?itemNo=EMD%20MVECDVDK">General Exam</a></li>
+            <li><a href="/productdetail.asp?itemNo=EMD%20MAVECDVD3" class="emphasize">A&amp;P Exam Bundle</a><span class="boldreditalic">Save!</span></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-personal">Personal Pilot Review</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=OOD%20KSJV033CSEDVD">Flight Review—VFR</a></li>
+            <li><a href="/productdetail.asp?itemNo=OOD%20KSJV035CSEDVD">Flight Review—IFR/IPC</a></li>
+		</ul>
+	</div>
+    <h3 class="emphasize ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-pro">Pro/Turbine Pilot</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=wbtomefV1&amp;navtype=pfc&amp;sco=&amp;scu=" target="_blank">Multi-engine Flying</a></li>
+            <li><a href="/productdetail.asp?itemNo=CMC%20KS498K">Multi-engine Ground School</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=jt&amp;sco=&amp;scu=" target="_blank">Jet Transition</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rvsm&amp;sco=&amp;scu=" target="_blank">RVSM Pilot Certification</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=p135indoc&amp;sco=&amp;scu=" target="_blank">Part 135 Initial/Recurrent</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=mnps&amp;sco=&amp;scu=" target="_blank">MNPS Pilot Certification</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rnp&amp;sco=&amp;scu=" target="_blank">Oceanic RNP Pilot Certification</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=etops&amp;sco=&amp;scu=" target="_blank">ETOPS Pilot Certification</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=prnav&amp;sco=&amp;scu=" target="_blank">P-RNAV/B-RNAV Pilot Certification</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rnav12&amp;sco=&amp;scu=" target="_blank">RNAV-1 &amp;-1 Pilot Certification</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=ipc&amp;sco=&amp;scu=" target="_blank">Icing Operations Pilot Certification</a></li>
+            <li><a href="http://www.kingschoolsonline.com/flightsafety/default.aspx?c=fscwo&amp;sco=&amp;scu=" target="_blank">Cold Weather Operations</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=itr&amp;sco=&amp;scu=" target="_blank">Introduction to Radar</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=hazmat&amp;sco=&amp;scu=" target="_blank">HAZMAT for Will-Not-Carry Operators</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=taws&amp;sco=&amp;scu=" target="_blank">TAWS</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=haegt&amp;sco=&amp;scu=" target="_blank">High-Altitude Endorsement Ground Training</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=haa&amp;sco=&amp;scu=" target="_blank">High-Altitude Aerodynamics</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=haw&amp;sco=&amp;scu=" target="_blank">High-Altitude Weather</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=hap&amp;sco=&amp;scu=" target="_blank">High-Altitude Physiology</a></li>
+            <li><a href="/productdetail.asp?itemNo=EOD%20KSJV001DVDK">B727 Systems</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=jpk&amp;sco=&amp;scu=" class="emphasize" target="_blank">Jet Pilot<br><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=jpk91&amp;sco=&amp;scu=" class="emphasize" target="_blank">Part 91<br><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=jpk135&amp;sco=&amp;scu=" class="emphasize" target="_blank">Part 135<br><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=iok&amp;sco=&amp;scu=" class="emphasize" target="_blank">International Operations<br><i>Get It All</i> Kit</a><span class="boldreditalic">Save!</span></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-takeoff">Clear Training Hurdles</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+    	<p class="leadin"><strong>Take your knowledge further.</strong> Each of these courses provides an in-depth study of a special subject.</p>
+  <ul>
+            <li><a href="/searchresults.asp?skw=airport%20signs&amp;linktitle=Airport%20Signs,%20Markings%20and%20Procedures">Airport Signs, Markings &amp; Procedures</a></li>
+            <li><a href="/searchresults.asp?skw=communications%20take-off&amp;linktitle=Communications">Communications</a></li>
+            <li><a href="/searchresults.asp?skw=complete%20airspace%20review&amp;linktitle=The%20Complete%20Airspace%20Review">The Complete Airspace Review</a></li>
+            <li><a href="/searchresults.asp?skw=complete%20jeppesen%20chart%20review&amp;linktitle=Complete%20Jeppesen%20Chart%20Review">Complete Jeppesen Chart Review</a></li>
+            <li><a href="/searchresults.asp?skw=flying%20citation&amp;linktitle=Flying%20The%20Citation">Flying the Citation</a></li>
+            <li><a href="/productdetail.asp?itemNo=OSD%20FTCMSPDVD">Flying&nbsp;the&nbsp;Citation&nbsp;Mustang—Single Pilot</a></li>
+            <li><a href="/productdetail.asp?itemNo=CTD%20KCO598">Flying&nbsp;the&nbsp;Skycatcher</a></li>
+            <li><a href="/searchresults.asp?skw=ifr%20confidence&amp;linktitle=IFR%20with%20Confidence">IFR With Confidence</a></li>
+            <li><a href="/searchresults.asp?skw=go%20flying&amp;linktitle=Lets%20Go%20Flying">Let´s Go Flying!</a></li>
+            <li><a href="/searchresults.asp?skw=maneuvers%20com/cfi&amp;linktitle=Maneuvers%20For%20COM CFI">Maneuvers For COM/CFI</a></li>
+            <li><a href="/searchresults.asp?skw=metar/taf&amp;linktitle=METAR%20TAF%20Made%20Easy">METAR/TAF Made Easy</a></li>
+            <li><a href="/searchresults.asp?skw=navigation%20a%20z&amp;linktitle=Navigation%20From%20A%20to%20Z">Navigation From A to Z</a></li>
+            <li><a href="/searchresults.asp?skw=night%20flying&amp;linktitle=Night%20Flying">Night Flying</a></li>
+            <li><a href="/searchresults.asp?skw=takeoffs%20easy&amp;linktitle=Takeoffs%20and%20Landings%20Made%20Easy">Takeoffs and Landings Made Easy</a></li>
+            <li><a href="/searchresults.asp?skw=vfr%20cross%20country&amp;linktitle=VFR%20Cross%20Country%20Flying">VFR Cross-Country Flying</a></li>
+            <li><a href="/searchresults.asp?skw=weather%20wise&amp;linktitle=Weather%20Wise">Weather Wise</a></li>
+            <li><br><a href="/offers/tovbuyget.asp" class="emphasize">Special Subject Series Course Special</a><span class="boldreditalic">Save!</span></li>
+            <li><br><a href="/productdetail.asp?itemNo=TNV%20KIT710" class="emphasize"><em>Get It All</em> Kit</a><span class="boldreditalic">Save!</span></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-prm">Risk Management</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+    	<p class="leadin"><strong>85% of General Aviation Accidents Can Be Prevented!</strong> These courses  teach you procedures and techniques to manage aviation risks effectively.</p>
+		<ul>
+			<li><a href="/searchresults.asp?skw=stalls%20spins&amp;linktitle=Taming%20Stalls%20and%20Spins">Taming Stalls &amp; Spins</a></li>
+            <li><a href="/searchresults.asp?skw=surviving%20most%20feared%20emergencies&amp;linktitle=Surviving%20Your%20Most%20Feared%20Emergencies">Surviving Your Most Feared Emergencies</a></li>
+            <li><a href="/searchresults.asp?skw=surviving%20systems%20emergencies&amp;linktitle=Surviving%20Systems%20Emergencies">Surviving Systems Emergencies</a></li>
+            <li><a href="/searchresults.asp?skw=Unwanted%20Adventure&amp;linktitle=How%20To%20Avoid%20Unwanted%20Adventure">How to Avoid Unwanted Adventure</a></li>
+         </ul>
+         <b>Practical Risk Management for:</b>
+         <ul>
+            <li><a href="/productdetail.asp?itemNo=OOC%20AVMRMCD">Pilots</a></li>
+            <li><a href="/productdetail.asp?itemNo=OOC%20PRMSNGIFRCDS">Single-Pilot IFR</a></li>
+            <li><a href="/productdetail.asp?itemNo=OOC%20AVMRMCDTL">Takeoffs and Landings</a></li>
+            <li><a href="/productdetail.asp?itemNo=OOC%20AVMRMCDW">Weather</a></li>
+            <li><a href="/productdetail.asp?itemNo=OOC%20AVMRMCDRPP">Reluctant Passengers and Their Pilots</a></li>
+            <li><br><a href="/offers/tovbuyget.asp" class="emphasize">Special Subject Series Course Special</a><span class="boldreditalic">Save!</span></li>
+            <li><br><a href="/productdetail.asp?itemNo=TNV%20KIT710" class="emphasize"><em>Get It All</em> Kit</a><span class="boldreditalic">Save!</span></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-avionics">Master Avionics</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/productdetail.asp?itemNo=OVD%20KSA325">Garmin G1000</a></li>
+            <li><a href="/productdetail.asp?itemNo=OOC%20KSA107">Garmin 430 / 530</a></li>
+            <li><a href="/searchresults.asp?skw=gps%20a%20to%20z%20KLN94&amp;linktitle=GPS%20From%20A%20To%20Z%20Featuring%20The%20KLN94">GPS From A To Z: KLN&nbsp;94</a></li>
+            <li><a href="/searchresults.asp?skw=gps%20a%20to%20z%20KLN89b&amp;linktitle=GPS%20From%20A%20To%20Z%20Featuring%20The%20KLN89B">GPS From A To Z: KLN&nbsp;89B</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rckapl21ops&amp;navtype=pro&amp;sco=&amp;scu=" target="_blank">Pro Line 21 King Air</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rccj3pl21ops&amp;navtype=pro&amp;sco=&amp;scu=" target="_blank">Pro Line 21 Cessna CJ3</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcf2050pl21ops&amp;navtype=pro&amp;sco=&amp;scu=" target="_blank">Pro Line 21 Falcon 20 / 50</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcfms3000&amp;sco=&amp;scu=" target="_blank">FMS-3000 Flight Management System</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcifis5000&amp;sco=&amp;scu=" target="_blank">IFIS-5000 Integrated Flight Info System</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcahs3000&amp;sco=&amp;scu=" target="_blank">AHS-3000 Attitude Heading System</a></li>
+            <li><a href="http://www.kingschoolsonline.com/CourseInfo.aspx?c=rcwxr2100&amp;sco=&amp;scu=" target="_blank">WXR-2100 MultiScan Weather Radar</a></li>
+		</ul>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-supplies">Pilot Supplies</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+		<ul>
+			<li><a href="/searchresults.asp?SKW=book&amp;linktitle=Pilot%20Tools%20Books">Books</a></li>
+            <li><a href="/searchresults.asp?SKW=chart&amp;linktitle=Pilot%20Tools%20Charts">Charts</a></li>
+            <li><a href="/searchresults.asp?SKW=E6BPLOTTERS&amp;linktitle=Pilot%20Tools%20E6Bs%20and%20Plotters">E6B &amp; Plotters</a></li>
+            <li><a href="/searchresults.asp?skw=simulator&amp;linktitle=Flight Simulation">Flight Simulation</a></li>
+		</ul>
+		<a href="/flight-simulators/"><img src="/otherImages/global/leftnav/leftnav-redbird-flight-simulators.gif" alt="Redbird Simulators" style="border:0 none;"></a>
+	</div>
+    <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#lnav-business">Business Courses</a></h3>
+	<div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="display: none;">
+    	<p class="leadin">Build your fun and profitable business.  John and Martha share their secrets to more than 3 decades of entrepreneurial success.</p>
+		<ul>
+			<li><a href="/businesscourses.asp"><i>KING</i> business courses</a></li>
+		</ul>
+	</div>
+</div><div id="leftnav-ad-bottom">
+    
+    <a href="/discontinueditems.asp" style="margin-bottom:25px;display:block;padding:10px 10px 10px 15px;background-color:#eee;">Discontinued Products</a>
+    <br class="clear">
+</div>
 
 </div>
 <div id="maincontentblock" class="size1leftrailonly">
@@ -365,16 +485,16 @@
       <h5>Customer Service</h5>
       <ul>
         <li><a href="/about/contact-info.asp">Contact Us</a></li>
-        <li><a href="/technicalsupport/default.asp">Technical Support</a></li>
+        <li><a href="/technicalsupport/">Technical Support</a></li>
       </ul>
     </div>
     <div class="footerlinkcontainer">
       <h5>About Us</h5>
       <ul>
         <li><a href="/about/john-and-martha-king.asp">Meet John &amp; Martha</a></li>
-        <li><a href="/about/default.asp">Our Company</a></li>
+        <li><a href="/about/">Our Company</a></li>
         <li><a href="/about/opportunities.asp">Job Opportunities</a></li>
-        <li><a href="http://johnandmartha.kingschools.com">John and Martha's Blog</a></li>
+        <li><a href="http://johnandmartha.kingschools.com/">John and Martha's Blog</a></li>
       </ul>
     </div>
     <div class="footerlinkcontainer">
@@ -421,10 +541,21 @@
     </div>
   </div>
 </div>
+
+
+<div id="address"> © 2011 King Schools, Inc. All Rights Reserved<br>
+  3840 Calle Fortunada - San Diego, CA USA 92123-1825 | (800) 854-1001 or (858) 541-2200 (worldwide) </div>
 <!-- End global-footercontainer -->
 
-<div id="address"> © 2010 King Schools, Inc. All Rights Reserved<br>
-  3840 Calle Fortunada - San Diego, CA USA 92123-1825 | (800) 854-1001 or (858) 541-2200 (worldwide) </div>
+<!-- Begin left navigation -->
+
+
+
+
+
+<!-- End left navigation -->
+
+
 
 
 <div id="demoVid-container">
@@ -450,7 +581,7 @@
   })();
 
 </script>
-<!-- 10.0.2.14,10.0.2.51,10.0.2.62,10.0.2.64,10.0.2.65,10.0.2.69,10.0.2.70,10.0.2.71,10.0.2.72,10.0.2.73,10.0.2.74,10.0.2.100,127.0.0.1 -->
+<!-- 10.0.1.100,10.0.1.110,10.0.1.151,10.0.1.162,10.0.1.164,10.0.1.169,10.0.1.170,127.0.0.1 -->
 
 
 
