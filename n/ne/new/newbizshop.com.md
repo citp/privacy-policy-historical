@@ -1,49 +1,74 @@
-> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017071354id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbizshop.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626110122id_/http%3A//newbizshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Private Policy | Disclaimer - NewBiz Advertising Blog
 
- Your privacy is of utmost importance to us here at NewBizShop Advertising Blog. Rest assured that any information you provide will only be used in accordance with this privacy statement.
+**NewBiz Earning’s Disclaimer** ——-> [Earnings Disclaimer](http://newbizshop.com/privacy-policy/earnings-disclaimer/)
 
-This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.[  
-](http://www.mynewcompany.com/idevaffiliate/idevaffiliate.php?id=1612_0_1_11)  
-**Routine Information Collection (Log Files)**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Your privacy is of utmost importance to us here at NewBiz Advertising Blog. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
-Like many other Web sites, www.newbizshop.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+This Privacy Policy governs the manner in which Newbiz Advertising Blog collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://newbizshop.com](http://newbizshop.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Newbiz Advertising Blog.
 
-**Distribution of Information**
+ **Personal identification information**
 
-We never use or share any of those information in ways unrelated to the ones described above. We do not send spam and we do not sell your information to any company for marketing purposes. We may, however, share information with government agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or (3) investigating fraud which has already taken place.
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Cookies and Tracking Technology**
+ **Non-personal identification information**
 
-Our site may place a small file, called a cookie, on your hard drive to provide you with a better website. A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us. It only helps us analyze web traffic or lets web applications respond to you as an individual. Our authorized third-party advertisers, in the course of serving ads to you, may also place and read cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Links to other Websites**
+ **Web browser cookies**
 
-Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+ **How we use collected information**
 
-**Special Note About Google Advertising**
+Newbiz Advertising Blog collects and uses Users personal information for the following purposes:
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies.
+  *  _\- To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  *  _\- To send periodic emails_  
+The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
-**DoubleClick DART Cookie**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.newbizshop.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.newbizshop.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+ **How we protect your information**
 
-* Google Adsense  
-* Clickbank
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+ **Sharing your personal information**
 
-**Privacy Contact Information**
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-snakeair (at) gmail.com
+ **Third party websites**
 
-**Owner/Admin**  
-[**Contact Us**](http://newbizshop.com/register/contact/) ** < \---click this link if you need to contact me with questions about this blog.**
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+ **Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+ **Google Adsense**
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**Compliance with children’s online privacy protection act**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+ **Changes to this privacy policy**
+
+Newbiz Advertising Blog has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+ **Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+ **Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Newbiz Advertising Blog](http://newbizshop.com/)  
+[http://newbizshop.com](http://newbizshop.com/)  
+snakeair@comcast.net
+
+This document was last updated on February 04, 2011
