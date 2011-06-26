@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619100715id_/http%3A//mappingyourfuture.org/About/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626060429id_/http%3A//mappingyourfuture.org/About/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -25,9 +25,9 @@ Mapping Your Future gathers information from you in order to help us design our 
 > 
 > When you participate in a survey, the information is available to Mapping Your Future professional staff and sponsors. Your comment may be sent to the appropriate person (such as a customer service representative at a sponsoring agency or to technical staff) for response or to make revisions to the site.
 > 
-> **When you're participating in Online Student Loan Counseling:**
+> **When you're participating in Online Counseling:**
 > 
-> When you complete an Online Student Loan Counseling session, you are asked to provide your name, address, phone number, e-mail address, Social Security number, birth date, the name of the school you're attending, and possibly information for your parent, spouse, next of kin, expected employer, and references. This information may be shared with your school, lender, and/or guarantor to verify that you have completed counseling, though for a limited period of time. Those entities may share your information with other organizations as authorized under routine uses in the appropriate system of records and as may be authorized or required by federal regulations. 
+> When you complete an Online Counseling session, you are asked to provide your name, address, phone number, e-mail address, Social Security number, birth date, the name of the school you're attending, and possibly information for your parent, spouse, next of kin, expected employer, and references. This information may be shared with your school, lender, and/or guarantor to verify that you have completed counseling, though for a limited period of time. Those entities may share your information with other organizations as authorized under routine uses in the appropriate system of records and as may be authorized or required by federal regulations. 
 > 
 > If you do not wish to provide this information online, you must contact your school to request an alternative method of fulfilling your counseling obligation.
 > 
@@ -37,7 +37,7 @@ Mapping Your Future gathers information from you in order to help us design our 
 
   2. **What security measures are in place to protect your privacy?**
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information we gather. When you provide personal data during Online Student Loan Counseling, the information is encrypted prior to transfer. Data is stored in a secured database and is administered with routine backup procedures.
+This site has security measures in place to protect the loss, misuse, and alteration of the information we gather. When you provide personal data during Online Counseling, the information is encrypted prior to transfer. Data is stored in a secured database and is administered with routine backup procedures.
 
   3. **What is the security of the sites to which Mapping Your Future links?**
 
@@ -47,7 +47,7 @@ The Mapping Your Future site contains links to other sites. Mapping Your Future 
 
 Mapping Your Future provides some educational information specifically targeted for children, such as information on making career choices. We do not intend to collect personally identifying information from children under 13 years of age. If we learn that we have inadvertently collected such information from a child under the age of 13, we will promptly take all reasonable measures to delete the data from our system. No information collected from children is used for any marketing purposes whatsoever. Mapping Your Future encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the site.
 
-Mapping Your Future doesn't intentionally share personally identifying information obtained from children under the age of 18 with the exception of borrowers under the age of 18 who complete Online Student Loan Counseling.
+Mapping Your Future doesn't intentionally share personally identifying information obtained from children under the age of 18 with the exception of borrowers under the age of 18 who complete Online Counseling.
 
   5. **How do I correct information I have submitted to Mapping Your Future?**
 
@@ -64,4 +64,4 @@ Mapping Your Future follows applicable laws relating to the collection and use o
 
 Mapping Your Future engages in ongoing reviews of its privacy policies, procedures, and communications. We reserve the right to change our policies on privacy and the collection and use of information. 
 
-This policy was updated on November 9, 2009, with updates to 1 (“When you view the site,” “When you're participating in Online Student Loan Counseling,” and “When you subscribe to a Mapping Your Future newsletter”), 2, 3, and 4 above. 
+This policy was updated on November 9, 2009, with updates to 1 (“When you view the site,” “When you're participating in Online Counseling,” and “When you subscribe to a Mapping Your Future newsletter”), 2, 3, and 4 above. 
