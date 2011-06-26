@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetness-light.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226160809id_/http%3A//www.sweetness-light.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetness-light.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626230252id_/http%3A//www.sweetness-light.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sweetness & Light
 
@@ -14,6 +14,10 @@
 > 
 > **Cookies**
 > 
-> Sweetness & Light's software uses browser cookies to keep track of which messages you have read, and other information about your session. Cookies are small pieces of text that are stored on your hard drive between visits. For example, cookies store your user name and password when you post comments so you don't have to re-enter them each time you visit. These cookies do not collect, store or maintain any private, personally identifiable information. You do not have to accept cookies to visit or use this site, although turning cookies off may limit the site's functionality. You can choose to refuse the cookies, delete the cookies from your hard drive or turn off cookies at any time by updating your browser's preferences.
+> Sweetness & Light’s software uses browser cookies to keep track of which messages you have read, and other information about your session. Cookies are small pieces of text that are stored on your hard drive between visits. For example, cookies store your user name and password when you post comments so you don’t have to re-enter them each time you visit. These cookies do not collect, store or maintain any private, personally identifiable information. You do not have to accept cookies to visit or use this site, although turning cookies off may limit the site’s functionality. You can choose to refuse the cookies, delete the cookies from your hard drive or turn off cookies at any time by updating your browser’s preferences.
+> 
+> **Ad Servers**
+> 
+> We use third-party advertising companies to serve ads when you visit S&L. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies go [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
                                                                                
