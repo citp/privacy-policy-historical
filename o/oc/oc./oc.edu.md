@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226011516id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626230757id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,6 @@ We may place a cookie on your computer that will allow us to greet you by name w
 
 The latest copy of this privacy policy is always available at: <http://www.oc.edu/privacy.aspx>.
 
-Dr. Bill Ryan, Professor of Engineering, says, "I enjoy watching students come to life within the Christian environment." He is in the Acoustical Society and the American Society for Mechanical Engineers. Dr. Ryan is interested in noise and vibration analysis, church building acoustics, and energy analysis.
+Professor James Elkins is a Licensed Professional Engineer in the state of Oklahoma. He is interested in quality, and engineering design. Professor Elkins was in the U.S. Navy Civil Engineering Corp. for twenty years, retiring with the rank of LCDR. He works at OC because he believes in Christian education. 
 
-[Read More](http://blogs.oc.edu/ocpeople/individual/dr_william_w_ryan_jr/)
+[Read More](http://blogs.oc.edu/ocpeople/individual/james_elkins/)
