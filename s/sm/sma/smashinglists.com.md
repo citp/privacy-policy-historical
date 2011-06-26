@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashinglists.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226161128id_/http%3A//www.smashinglists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashinglists.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626183223id_/http%3A//www.smashinglists.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smashing Lists
 
@@ -8,3 +8,5 @@ As with most other websites, we collect the data you provide to us when you visi
 **Cookies**  
 We also use third party advertisements on smashinglists.com to support our site. Some of these advertisers may use technology such as cookies and web  
 beacons when they advertise on our site. Google, through their Adsense Program, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to smashinglists.com users based on their visit to this and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+﻿
