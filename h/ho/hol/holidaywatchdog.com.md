@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the holidaywatchdog.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221091219id_/http%3A//www.holidaywatchdog.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaywatchdog.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626031646id_/http%3A//www.holidaywatchdog.com/Privacy.html) for the most accurate reproduction.*
 
 # Holiday Reviews & Hotel Reviews - Holiday Watchdog
+
+[Home](https://web.archive.org/ "Home") > Privacy Statement
 
 The publishers of this site respect your personal data and are committed to protecting your privacy. When you register and when you make postings to our website we collect information about you. The information we collect is stored for our purposes only. The only information we collect about you is your IP address when you log on and your email address when you register as a member or when you submit a review. You will not receive unsolicited mail from us unless we need to pass on information, for instance if we need to tell you about an update to our terms and conditions. We will not pass your email address on to anyone else without your prior consent except where we are obliged by law. If you make a posting that is in breach of our terms and conditions, we can use whatever information we have about you to stop such behaviour and/or to enforce any right that we have against you. 
 
