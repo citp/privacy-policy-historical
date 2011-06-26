@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226160705id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626175823id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
 
 # Credit Scoring, Online Credit Checks & ID Fraud-Watch - TrueCredit Services
 
+|  | 
+
+|   
 ---  
 |  | TrueCredit Privacy Statement  
 ---  
@@ -23,7 +26,7 @@ If you indicate to us that you are interested in receiving information regarding
   
 ---  
   
-When you order an online credit report, it will be available for your review for a period of up to two years or until you update your report. As a service to you, we will email you a receipt of your purchase. Some of our membership products, such as Credit Monitoring, may also include alert emails that are sent on a daily, weekly or monthly basis. These emails are part of the membership benefits and cannot be disabled for persons who are members of these products.   
+When you order an online credit report, it will be available for your review for a period of up to one year or until you update your report. As a service to you, we will email you a receipt of your purchase. Some of our membership products, such as Credit Monitoring, may also include alert emails that are sent on a daily, weekly or monthly basis. These emails are part of the membership benefits and cannot be disabled for persons who are members of these products.   
   
 **Ordering**  
   
@@ -74,4 +77,6 @@ If a user elects to use our referral service for informing a friend about our si
 We define children as individuals under the age of 16. Our Web Site is not intended for the use of children and we do not intend to collect information about children through our Web Site. You must be at least 18 to access any products through this website or to join TrueCredit as a member entitled to membership benefits. 
 
 **TrueCredit**  
-TrueCredit is a trade name of TransUnion Interactive, Inc., a Delaware corporation based in San Luis Obispo, California. 
+TrueCredit is a trade name of TransUnion Interactive, Inc., a Delaware corporation based in San Luis Obispo, California.   
+  
+|  |  | 
