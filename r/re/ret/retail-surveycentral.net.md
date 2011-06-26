@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the retail-surveycentral.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231225340id_/http%3A//reg.coolsavings.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2620name%26catalog_id%3D14078) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retail-surveycentral.net privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626042704id_/http%3A//reg.coolsavings.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2620name%26catalog_id%3D14078) for the most accurate reproduction.*
 
 # Coolsavings
 
-**July 19, 2010**
+March 21, 2011
 
-**Our Commitment To Privacy**
+Our Commitment To Privacy
 
 This Privacy Policy is designed to assist you in understanding how we collect and use your personal information in connection with our advertising, content, e-commerce, promotional and service programs and other business activities (the "Program") and to assist you in making informed decisions when using our site and our products and services and the sites of our advertisers..
 
-**What Information We Collect**
+What Information We Collect 
 
 When you visit our site we may collect two types of information: (a) personal information you actively choose to disclose and (b) information about you that is collected passively by our servers or obtained from third parties.
 
@@ -19,11 +19,11 @@ When you visit our site we may collect two types of information: (a) personal in
 
 The term "Information" is used in this policy to refer to both types of information described above, as well as any Information that you provide to us directly by phone (including any phone number displayed via caller ID), text or SMS message, U.S. mail or through any other written or oral communication with us. 
 
-**How We Use And Share The Information Collected**
+How We Use And Share The Information Collected 
 
 We use your Information to administer our business activities, provide customer services such as technical support, distribute information about changes to our site, and send you, and enable others to send you, information about products and services that may be of interest to you and to contact you or use your Information for any other marketing purpose. We send communications to you ourselves, and your Information also is shared with other organizations that may contact you for any marketing purpose by email, phone, text message, U.S. mail or any other means of communication. 
 
-**OPT-IN NOTICE: By Participating, You Expressly "Opt In" To Receive Information And Grant Us Permission To Share Your Information**
+OPT-IN NOTICE: By Participating, You Expressly "Opt In" To Receive Information And Grant Us Permission To Share Your Information
 
 By signing up for our Program you expressly opt in to receive future information about products and services from us and from a variety of advertisers to whom we may provide your Information. (Information regarding opting out is described later in this policy.) Because you have opted in, we may share your personal information with third parties, including but not limited to our advertisers, BigRewards.com, ShoppingBag.com and HotSurveys.com (collectively Media Network, Inc.) for any reason we choose, including without limitation for the following purposes: (1) to operate our Program (including the transfer of the information to advertisers or to third parties who maintain on our behalf a list of persons having registered with our Program), (2) to permit advertisers or other third parties to use your Information for any purpose such as contacting you by email, phone, text message, U.S. mail or any other means of communication for any purpose. As a result, we may transfer your Information to third parties whose privacy policies and practices are beyond our control.
 
@@ -39,19 +39,21 @@ NOTE: WCA does not send offers via email, and is unable to honor any unsubscribe
 
 **Text messages:** By accepting the terms and conditions of this Site and providing your cell phone number, you are expressly consenting to receive SMS, wireless or other mobile offering to your cell phone from us and other organizations. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request. 
 
-**Special Note About Information You Provide Directly To Our Advertisers.**
+Special Note About Information You Provide Directly To Our Advertisers.
 
 You are able to access certain advertiser's sites through our site. When you opt to receive information or sign up for an offer from an advertiser, you may be doing so through third party sites and with other companies over which we have no control. You should read those sites' privacy policies to make sure you agree to them before using such sites. If you wish to opt out of those advertisers' mailings, you must do so directly with such advertisers or as otherwise provided on or through their sites. 
 
-**Third Party Ad Servers.**
+Third Party Ad Servers.
 
-We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org). 
+We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org), Privacy Choice (http://www.privacychoice.org/choose), and Digital Advertising Alliance (http://www.aboutads.info/choices/). 
 
-**Security Of Your Information.**
+CoolSavings runs display banners provided by Advertising.com. To opt out of any beacon and/or cookie usage used for targeting associated with these banners, please go to http://www.networkadvertising.org/managing/opt_out.asp. 
+
+Security Of Your Information.
 
 We use reasonable technical efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Information. However, nearly all Internet transmissions pass through many servers not controlled by us, and therefore we cannot guarantee that any information you provide us or we collect will not be intercepted or altered in that process. Also, as noted above, your Information is shared with third parties whose privacy policies and practices are beyond our control. 
 
-**How You Can Choose To "Opt Out" Of Receiving Further Information About Products Or Services**
+How You Can Choose To "Opt Out" Of Receiving Further Information About Products Or Services
 
 If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may choose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent by U.S. mail to our Customer Service Manager at the following address:
 
@@ -59,11 +61,11 @@ CoolSavings Privacy, Q Interactive, Inc. One North Dearborn Street, 12th Floor C
 
 We will promptly update our records upon receiving your clear instructions to opt-out, but it may take up to ten (10) business days from our receipt of your request for the change to be fully effective. If you later give us a clear statement that you want to receive emails from us or our advertisers after such date, then that opt-in statement will supersede any earlier opt-out request. If we have already provided your email address or other information to an advertiser or other third party before we receive your opt-out request, we cannot prevent them from sending or continuing to send you information or emails and you will need to contact such third party directly. 
 
-**How To Correct, Delete Or Access Your Information**
+How To Correct, Delete Or Access Your Information
 
 If you wish to access, delete or correct the information you have provided to us through this site, please contact us through the Contact Us section of our site or through written request sent by U.S. mail to the Customer Service Manager at the address listed above..
 
-**Special Rights For Residents Of Certain States**
+Special Rights For Residents Of Certain States
 
 If you are a California resident or another state with specific laws relating to the collection and use of Information, you may have specific rights not set forth in this policy. For example, California residents have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name registration (email address), the site name you visited and a return address or it will not be processed. We will not honor such requests more than once per calendar year. Requests made via email will not be accepted. Please mail your request to Customer Service Manager at the address listed in the footer of this site or the Contact Us page.
 
