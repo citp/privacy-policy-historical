@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocmodshop.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830111423id_/http%3A//www.ocmodshop.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocmodshop.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626054401id_/http%3A//www.ocmodshop.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
 
 # OCModShop - Privacy Policy
 
