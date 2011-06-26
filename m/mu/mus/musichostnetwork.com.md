@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921001030id_/http%3A//www.musichostnetwork.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627014227id_/http%3A//www.musichostnetwork.com/%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Music Host Network | Buy,Sell,Listen To, and Download Free Indie Music.Search For Music Events.Battle Rappers/Bands/Models.
+# Music Host Network Digital music distribution for independent artist. | Privacy Policy
 
-## Music Host Network  
-Privacy Policy
+## Privacy Policy
 
 We want you to know that we value your privacy, accordingly we have set out this policy that states clearly how we use and store personal information.
 
@@ -41,12 +40,18 @@ Upon receipt of your written request which should be addressed to The Data Prote
 **7\. TRANS-BORDER DATA TRANSFERS**  
 No transfers of your personal data are currently made outside of the European Economic Area. However, we reserve the right to relocate our web servers to a secure location outside the EEA in the future. If we do this, we will enter into agreements requiring the guardians of your personal data to adhere to standards of data protection substantially similar to those prevailing in the European Economic Area. However, the Internet is made up of a large variety of international connections and if you are visiting this website the various communications may well result in the temporary transfer of information outside the European Economic Area other than pursuant to contractual arrangements made by us. By visiting the website and communicating electronically with us you consent to these transfers.
 
-**8\. GOVERNING LAW AND DISPUTES**  
+**8\. GOOGLE ADVERTISING COOKIE**  
+
+
+  * Google, as a third-party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+
+
+
+**9\. GOVERNING LAW AND DISPUTES**  
 This policy and consent forms part of our website terms of use and as such it shall be governed by and construed in accordance with the laws of England and Wales. You irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or claim of whatever nature arising out of or relating to this policy and consent or otherwise to the use of your personal data, and that the laws of England and Wales shall govern such dispute or claim. However, we retain the right to bring legal proceedings in any jurisdiction where we believe that infringement of our intellectual property rights or breach of those terms is taking place or originating. You are responsible for compliance with any applicable laws and regulations of the jurisdiction from which you are accessing this website. We operate this website from England and make no representation or warranty that the information contained herein is appropriate or available for use in other locations outside England and Wales.
 
 If you have any questions or comments about our privacy policy, please send your feedback using the contact system in the main window.
 
 Close Window | Print this page
-
-  
-
