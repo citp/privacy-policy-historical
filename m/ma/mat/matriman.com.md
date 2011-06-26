@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matriman.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126113419id_/http%3A//www.matriman.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matriman.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626062315id_/http%3A//www.matriman.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# "matrimanprivacypolicy,marimonialprivacypolicy,indianmatrimonyprivacypolicy"
+# matrimanprivacypolicy,marriage bureau,indianmatrimonyprivacypolicy
 
 Matriman.com is an online matrimonial site committed to provide you with the best  
 matrimonial services.  
