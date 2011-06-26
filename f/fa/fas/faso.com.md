@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faso.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215015656id_/http%3A//fineartstudioonline.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faso.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626161443id_/http%3A//faso.com/policies.html) for the most accurate reproduction.*
 
 # Policies
 
