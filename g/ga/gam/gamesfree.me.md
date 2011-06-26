@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gamesfree.me privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223193224id_/http%3A//www.gamesfree.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesfree.me privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626215758id_/http%3A//www.gamesfree.me/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Games Free | GamesFree.me
+# Privacy Policy - GamesFree.me
+
+### Privacy Policy
 
 Your Privacy is important and respected to us at GamesFree.me. GamesFree.me will from time to time collect non-personal, specific information for the sole purposes of improving and maintaining the GamesFree.me website features and content. Non-personal information (including some forms of personal information) may be collected at times either voluntarily or involuntarily through the use of this website. Personal information (such as your email address) may be required for website notifications, registration and to help ensure a secure environment for all users of GamesFree.me through the use of such information. Your information will never be sold, distributed or shared with other companies, third-parties or individuals, excluding the rare event in which this website is transferred and/or sold to a new party. 
 
