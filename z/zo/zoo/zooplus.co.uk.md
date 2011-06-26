@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121144022id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626071741id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, Dog Food, Cat Food and Pet Accessories at Zooplus
 
@@ -27,6 +27,8 @@ Website optimisation
 We collect information about you for two reasons: to process your order and to provide you with the best possible service. 
 
 The personal data you submit at zooplus will not be passed on to any unauthorised third party outside the company. However, we may share your information with our certified partners when it is necessary to do so in order to fulfil your order. 
+
+As a customer you could actively give us your permission to send you personalised special offers and advertisements by zooplus.co.uk. These will be sent to your postal or e-mail address. 
 
 While registering with zooplus, you can also subscribe to one of our marketing newsletters. If you wish to terminate the subscription, you may do so at any time at your own convenience.
 
