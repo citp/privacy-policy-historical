@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725223640id_/http%3A//www.onefinestay.com/doc/13/%3Fref%3Dfoot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626034621id_/http%3A//www.onefinestay.com/doc/13) for the most accurate reproduction.*
 
-# onefinestay - the unhotel
+# About | onefinestay
 
 ## Introduction
 
   1. Lifealike Limited, trading as onefinestay (“we” or “us”) take the privacy of your information very seriously. This policy explains how and for what purposes we use the information collected about you via this site (referred to below as the “Site”). Please read this privacy policy carefully. By using the Site and any services we offer via the Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
-  2. If you have any queries about the policy, please get in touch with us using our [contact details](https://web.archive.org/doc/contact+us) and we will do our best to answer your questions.
+  2. If you have any queries about the policy, please get in touch with us using our [contact details](http://www.onefinestay.com/contact-us/) and we will do our best to answer your questions.
 
 
 
