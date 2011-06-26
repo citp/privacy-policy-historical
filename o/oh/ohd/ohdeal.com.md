@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohdeal.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222152533id_/http%3A//www.pronto.com/help/legal/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohdeal.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626102532id_/http%3A//www.pronto.com/help/legal/policy.do) for the most accurate reproduction.*
 
 # About Pronto - Privacy Policy
 
@@ -89,7 +89,7 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email or postal mail below:
 
 **Privacy Officer**  
-Pronto, Inc.  
+Pronto LLC  
 555 West 18th Street  
 4th Floor  
 New York, NY 10011  
@@ -97,7 +97,7 @@ New York, NY 10011
 [privacy@pronto.com](mailto:privacy@pronto.com)  
 
 
-© 2010 IAC/InterActiveCorp. All rights reserved. 
+© 2011 IAC/InterActiveCorp. All rights reserved. 
 
 ## pronto privacy policy – your privacy rights
 
@@ -223,7 +223,7 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows: 
 
 **Privacy Officer**  
-Pronto, Inc.  
+Pronto LLC  
 555 West 18th Street  
 4th Floor  
 New York, NY 10011  
@@ -242,7 +242,7 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [privacy@pronto.com](mailto:privacy@pronto.com).
 
-© 2010 IAC/InterActiveCorp. All rights reserved. 
+© 2011 IAC/InterActiveCorp. All rights reserved. 
 
 ##### Cookies
 
