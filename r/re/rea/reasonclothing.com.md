@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reasonclothing.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226110918id_/http%3A//reasonclothing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonclothing.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626122129id_/http%3A//www.reasonclothing.com/privacy.html) for the most accurate reproduction.*
 
-# Reason Clothing Fall/Winter 2010
+# Reason Clothing
 
 We can be reached via e-mail at info@reasonclothing.com 
 
