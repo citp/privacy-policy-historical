@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spellchecker.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230175401id_/http%3A//www.spellchecker.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellchecker.net privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626130349id_/http%3A//www.spellchecker.net/privacyandreturnpolicy) for the most accurate reproduction.*
 
-# Spellchecker.net :: Privacy Policy
+# Spellchecker.net :: Privacy and Return Policy
 
 **What information do we collect?**
 
@@ -39,6 +39,16 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to understand and save your preferences for future visits.
 
+**DoubleClick DART Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on www.spellchecker.net. Google's use of the DART cookie enables it to serve ads to users based on their visit to www.spellchecker.net and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense, Grammarly, Whitesmoke and other affiliate programs.
+
+These third-party ad servers or ad networks may use technology to the advertisements and links that appear on [www.spellchecker.net](http://www.spellchecker.net/) send directly to your browsers. They may automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. [www.spellchecker.net](http://www.spellchecker.net/) has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.spellchecker.net's](http://www.spellchecker.net/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
@@ -61,17 +71,21 @@ All text data which is spell-checked by hosted service is sent to our server. Te
 
 By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
 
-**Changes to our Privacy Policy**
+**Changes to our Privacy and Return Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Return Policy**
+
+SpellChecker.net has a 100% satisfaction guarantee. We will take back any order that does not meet your requirements within 30 days of receiving the merchandise. If you wish to return an item, please contact SpellChecker.net.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.spellchecker.net/  
+<http://www.spellchecker.net/>  
 PO Box 641697  
-Los Angeles, CA 90064  
+Los Angeles, CA 90005  
 USA  
 info[at]spellchecker.net  
 +1 (310) 362-0280
