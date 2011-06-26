@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824012008id_/http%3A//www.quest-global.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626063308id_/http%3A//www.quest-global.com/Privacy-Policy.php) for the most accurate reproduction.*
 
-# None
+# Privacy Policy |QuEST Global
 
 QuEST only collects identifiable information that is specifically and voluntarily provided by a visitor to our site. Any identifiable information collected from the user is used solely for the purpose for which it is collected. Our policy is not to share personally identifiable information with third parties, unless required by law. We recognize that your information is valuable and we take all reasonable measures to protect your information while it is in our care.
 
