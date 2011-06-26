@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225110154id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantech.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626092943id_/http%3A//www.advantech.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Advantech - industrial computer , industrial chassis, embedded computer, industrial motherboard, network security appliance, industrial automation, digital video surveillance, panel PC, industrial IO
 
@@ -20,8 +20,8 @@ Purpose of Use
 
 When you do provide us with personal data, we usually use it to respond to your inquiry, process your order or provide you access to specific information or offers. Also, to support our customer relationship with you:
 
-  * we may store and process personal data and share it with our worldwide affiliates and partners to better understand your business needs and how we can improve our products and services; or 
-  * we (or a third party on our behalf) may use personal data to contact you about an Advantech offer in support of your business needs or to conduct online surveys to understand better our customers' needs. 
+  * we may store and process personal data and share it with our worldwide affiliates and partners to better understand your business needs and how we can improve our products and services; or
+  * we (or a third party on our behalf) may use personal data to contact you about an Advantech offer in support of your business needs or to conduct online surveys to understand better our customers' needs.
 
 
 
@@ -32,8 +32,8 @@ Purpose Limitation
 Advantech will collect, use or disclose personal data supplied by you online only for the purposes disclosed to you, unless the disclosure:
 
   * is a use of the personal data for any additional purpose that is directly related to the original purpose for which the personal data was collected, 
-  * is necessary to prepare, negotiate and perform a contract with you, 
-  * is required by law or the competent governmental or judicial authorities, 
+  * is necessary to prepare, negotiate and perform a contract with you,
+  * is required by law or the competent governmental or judicial authorities,
   * is necessary to establish or preserve a legal claim or defense, 
   * is necessary to prevent fraud or other illegal activities, such as wilful attacks on Advantech IT systems. 
 
