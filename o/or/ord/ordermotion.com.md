@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218180431id_/http%3A//www.ordermotion.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626130333id_/http%3A//ordermotion.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
-# OrderMotion - Privacy Policy
+# Privacy Policy | OrderMotion
 
 | 
 
