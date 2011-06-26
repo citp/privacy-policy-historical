@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outwar.com privacy policy that was archived on 2006-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061211021124id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outwar.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626153205id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.*
 
-# Outwar.com - Massive online role-playing game (RPG)!
+# Free Online Roleplaying Game Web Browser Turn Based Text
 
 **Privacy Statement  
 **outwar.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: outwar.com
