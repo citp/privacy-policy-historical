@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226154316id_/http%3A//preservationnation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626153806id_/http%3A//preservationnation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of the National Trust for Historic Preservation
 
