@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityfeet.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626112616id_/http%3A//www.cityfeet.com/Help/PrivacyPolicy.aspx%3Findex%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityfeet.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626153211id_/http%3A//www.cityfeet.com/Help/PrivacyPolicy.aspx%3Findex%3D8) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,6 +64,10 @@ Users who do not wish to receive marketing emails including Cityfeet, Cityfeet P
 You may correct or update your personally identifiable information by making the change on your member profile page.
 
 Subscriptions will automatically renew using the Customer's current credit card account number unless Customer cancels their subscription three (3) days prior to the renewal date to cancel such subscription. All cancellation requests will be processed within five (5) business days. If Customer has a question about a cancellation, Customer should contact Cityfeet Client Services at [info@cityfeet.com](mailto:info@cityfeet.com) or at 866-527-0540. The Company reserves the right to change its fees or billing methods at any time. The Company will provide timely notice to the affected Customers of any such changes.
+
+Notification Procedures:
+
+Cityfeet may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice (including via fax), or through posting of such notice on our website, as determined by Cityfeet in our sole discretion. Cityfeet reserves the right to determine the form and means of providing notifications to our users, provided that you may opt out of certain means of notification as described herein. Cityfeet is not responsible for any automatic filtering you or your network provider may apply to email notifications we send to the email address you provide us.
 
 Changes to this Privacy Statement:
 
