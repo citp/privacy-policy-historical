@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcdfw.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218041248id_/http%3A//www.nbcdfw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcdfw.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626141147id_/http%3A//www.nbcdfw.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC Dallas-Fort Worth
 
