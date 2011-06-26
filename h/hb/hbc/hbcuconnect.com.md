@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbcuconnect.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225024926id_/http%3A//www.hbcuconnect.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbcuconnect.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626111734id_/http%3A//hbcuconnect.com/privacy.shtml) for the most accurate reproduction.*
 
 # 
 
