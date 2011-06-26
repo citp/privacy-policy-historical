@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paythru.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126183353id_/http%3A//www.paythru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paythru.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626020059id_/http%3A//www.paythru.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy from paythru - money on the move
+# Privacy Policy - paythru
 
 **Privacy policy**  
 This policy applies to paythru.com ("Site").
@@ -33,4 +33,4 @@ paythru cooperates with law enforcement inquiries, as well as other third partie
 **We take security seriously, and employ several security measures in the handling and storage of your information. This includes SSL encryption in the client area and in other sensitive areas of our website. Please note however that with current technology, we cannot guarantee the security of your data as it travels over the Internet.
 
 **Contacting us**  
-If you have any questions about this privacy policy or our privacy practices, please [contact us](https://web.archive.org/contact-us).
+If you have any questions about this privacy policy or our privacy practices, please [contact us](https://web.archive.org/contact).
