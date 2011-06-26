@@ -1,17 +1,57 @@
-> *The following text is extracted and transformed from the mitsubishielectric.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201190953id_/http%3A//mitsubishielectric-usa.com/copyright/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishielectric.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626080930id_/http%3A//www.mitsubishielectric.com/copyright/privacy.html) for the most accurate reproduction.*
 
-# Mitsubishi Electric US Companies
+# Mitsubishi Electric - Privacy Statement
 
-Mitsubishi Electric & Electronics USA, Inc. ("MEUS") is sensitive to privacy issues on the Internet. This policy explains how MEUS treats the information about you that we receive on the Internet. The purpose of this privacy policy is to inform you, as a visitor to our Web site (the "Site"), what kinds of information we may gather about you when you visit this Site, how we may use that information, whether we disclose it to anyone and the choices you have regarding our use of, and your ability to correct, the information. Please note that this policy applies only to our Site, and not to other companies' or organizations' Web sites to which we link.
+## Mitsubishi Electric Corporation
 
-In general, you can visit this Site without telling us who you are or revealing any information about yourself. Our service automatically gathers certain usage information such as the numbers and frequency of visitors to the Site. This information is aggregated to measure the number of visits, average time spent on the Site and how much of the Site you use, so that we can improve our Site. MEUS uses a technology nicknamed "cookies" that tells us how and when pages in the Site are visited, and by how many people. MEUS cookies do not collect personally identifiable information, and MEUS does not combine information collected through cookies with other personally identifiable information to tell us who you are or even what your screen name or e-mail address is.
+### Commitment to Privacy on the Internet
 
-There are times, however, when we may need information from you: when you register to use our customer and/or vendor specific services or when you order a product. In those cases, we will need certain information \-- such as name, Internet address or screen name, billing address, credit card number -- in order to provide that service or product to you. MEUS may also use that information to let you know of additional products and services about which you might be interested. You can choose not to receive such information if you do not want to by letting MEUS know on the registration screen when you sign up for the product or service or by separately contacting the Webmaster.
+Mitsubishi Electric Corporation is sensitive to privacy issues on the Internet. This policy explains how Mitsubishi Electric Corporation treats the information about you that we receive on the Internet. The purpose of this privacy policy is to inform you, as a visitor to our website (the "Site"), what kind of information we may gather about you when you visit this Site, how we may use that information, and whether we disclose it to anyone.
 
-MEUS does not use or disclose information about your individual visits to the Site or information that you may give us, such as your name, address, email address or telephone number, to any outside companies.
+### Scope of Application
 
-At times MEUS may conduct on-line surveys to better understand the needs and profile of our visitors. When we conduct a survey, we will try to let you know how we will use the information collected from you.
+This privacy statement applies to Mitsubishi Electric Corporation and the Mitsubishi Electric Global Website ( [http://global.mitsubishielectric.com](http://global.mitsubishielectric.com/) ). The statement does not apply to other companies' or organizations' websites to which the Site links.
 
-The Site may contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
+### Non-Personal Information
 
-If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+In general, you can visit this Site without telling us who you are or revealing any information about yourself. However we may automatically (i.e., not by registration) collect information that is not personally identifiable to help us provide better customer service. Our service automatically gathers certain information such as the numbers and frequency of visitors to the Site but we do so in ways that keep that information anonymous. This information is aggregated to measure the number of visits, average time spent on the Site and how much of the Site you use, so that we can improve our Site. We do not review information on individuals themselves. Mitsubishi Electric Corporation may use a technology nicknamed "cookies" that indicates how and when pages in the Site are visited, and by how many people. A cookie is an element of data that a website can send to your browser, which may then be stored on your system but does not collect personally identifiable information. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also set your browser to turn off cookies. If you do so, however, some areas of some sites may not function properly.
+
+* * *
+
+### Personal Information
+
+Mitsubishi Electric Corporation fully complies with Japan's laws and regulations, national policies and other rules concerning the protection of personal information.
+
+Personal information can be defined as any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address, an e-mail address or other contact information. 
+
+Mitsubishi Electric Corporation sometimes collects personal information from its customers while conducting business activities. On the Global Website, personal information is collected predominantly through the various contact/inquiry forms.
+
+When we directly solicit personal information from you in writing, we will specify how we intend to use the information, and ask for your consent. When we collect personal information by other means, we will announce on our website how we intend to use it.
+
+When you provide us with personal information, we use the information to respond to and confirm your inquiry, and may keep a record of the inquiry for the same purposes. In addition, to support our customer relationship, we may store and process personal information and share it with our worldwide subsidiaries and affiliates to better understand your needs and how we can improve our products and services.
+
+At times Mitsubishi Electric Corporation may conduct online surveys to better understand the needs and profile of our visitors. When we conduct a survey, we will do our utmost to let you know how we will use the information collected from you. Our site may provide contests, sweepstakes or other promotions that may ask you to enter your personal information. We will use the information you provide for the purpose of conducting the promotion, like providing customer support or contacting you if you're a winner.
+
+Mitsubishi Electric Corporation does not use or disclose information gathered from individual visits to the Site or information that you may give us to any third parties for intention to sell, rent or otherwise market your personal information. We may at times employ a third party service providers to perform or assist us on the on-line surveys, contests, sweepstakes or other promotions. For example, administering the survey or promotion, compiling the data or providing customer support. These parties will have signed a Non-Disclosure Agreement prior to any services we initiate with them. They will not disclose any personal information they receive from you and will only use it in order to initiate and or continue the services they are providing for us.
+
+You have the option not to provide personal information to Mitsubishi Electric Corporation. If you choose not to provide the personal information we request, you can still visit most of the Site, but you may be unable to access certain options, offers and services that involve our interaction with you. 
+
+Click here for [more information on how we manage personal information.](https://web.archive.org/privacy/personal_info.html)
+
+### Children
+
+Children without the consent of their parent or guardian should not submit personal Information to the Site. While few, if any, of the materials of the Sites are directed towards children, Mitsubishi Electric Corporation encourages all parents or guardians to instruct their children in the safe and responsible use of their personal information while using the Internet.
+
+* * *
+
+### Notification of Changes
+
+If Mitsubishi Electric Corporation decides to change our privacy statement, we will post those changes on this section so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+
+### Questions or Comments
+
+It is important to us to hear what visitors have to say about our services, and our policies. If you have any questions, concerns, about this privacy statement, or anything about our off-line and on-line products and services, please contact the Webmaster at '[Contact Us](https://web.archive.org/contact/index.html)'
+
+### Your Consent
+
+By using this Site, you consent to the terms of our privacy statement and to our collecting and processing of personal information for the purposes given above. 
