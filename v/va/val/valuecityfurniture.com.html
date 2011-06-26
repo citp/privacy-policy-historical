@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the valuecityfurniture.com privacy policy that was archived on 2010-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625002622id_/http%3A//www.vcf.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10001%26catalogId%3D10153%26langId%3D-1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valuecityfurniture.com privacy policy that was archived on 2011-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626184623id_/http%3A//www.vcf.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10001%26catalogId%3D10153%26langId%3D-1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Privacy Policy for Value City Furniture</title>
@@ -13,9 +13,7 @@
 		<link type="text/css" rel="stylesheet" href="/wcsstore/FashionFlow/css/equalizer.css">
 		<link type="text/css" rel="stylesheet" href="/wcsstore/FashionFlow/css/common.css">
 		<link type="text/css" rel="stylesheet" href="/wcsstore/FashionFlow/css/privacypolicy.css">
-		<script type="text/javascript" src="/wcsstore/FashionFlow/javascript/ri_common.js"></script>
-		<script type="text/javascript" src="/wcsstore/FashionFlow/javascript/mootools.js"></script>
-		<script type="text/javascript" src="/wcsstore/FashionFlow/javascript/mouseover.js"></script>
+		<script type="text/javascript" src="/wcsstore/FashionFlow/javascript/common.js"></script>
 	</head>
 	<body>
 		<div class="container">
@@ -50,36 +48,78 @@ pageTracker._trackPageview();
 
 <!-- Start Yahoo Tracking -->
 <!-- Yahoo! Web Analytics - All rights reserved -->
-<script type="text/javascript" src="https://s.yimg.com/mi/ywa.js"></script>
+<!--<script type="text/javascript" src="https://s.yimg.com/mi/ywa.js"></script>
 <script type="text/javascript">
 var YWATracker = YWA.getTracker("10001014689862");
 YWATracker.submit();
 </script>
 <noscript>
 <div><img src="https://a.analytics.yahoo.com/p.pl?a=10001014689862&amp;js=no" width="1" height="1" alt="" /></div>
-</noscript>
+</noscript>-->
 <!-- End of Yahoo! Web Analytics Code -->
-
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
 
 <script type="text/javascript"> 
 
-function validateSearch ( ){
-	valid = true;
-		 if ( document.siteSearchForm.Ntt.value == "Enter Keyword or Search Phrase"){
-                alert ( "Please enter your search term in the box." );
-                valid = false;
-        }
-		 if ( document.siteSearchForm.Ntt.value == "Search"){
-                alert ( "Please enter your search term in the box." );
-                valid = false;
-        }  return valid;
+var MP = {
+<!-- mp_trans_disable_start --> 
+  Version: '1.0.21',
+  Domains: {'es':'espanol.vcf.com'}, 
+  SrcLang: 'en',
+<!-- mp_trans_disable_end -->
+  UrlLang: 'mp_js_current_lang',
+  SrcUrl: unescape('mp_js_orgin_url'),
+<!-- mp_trans_disable_start -->  
+  init: function(){
+    if (MP.UrlLang.indexOf('p_js_')==1) {
+      MP.SrcUrl=window.top.document.location.href;
+      MP.UrlLang=MP.SrcLang;
+  }
+},
+getCookie: function(name){
+  var start=document.cookie.indexOf(name+'=');
+  if(start < 0) return null;
+  start=start+name.length+1;
+  var end=document.cookie.indexOf(';', start);
+  if(end < 0) end=document.cookie.length;
+  while (document.cookie.charAt(start)==' '){ start++; }
+  return unescape(document.cookie.substring(start,end));
+},
+setCookie: function(name,value,path,domain){
+  var cookie=name+'='+escape(value);
+  if(path)cookie+='; path='+path;
+  if(domain)cookie+='; domain='+domain;
+  var now=new Date();
+  now.setTime(now.getTime()+1000*60*60*24*365);
+  cookie+='; expires='+now.toUTCString();
+  document.cookie=cookie;
+},
+switchLanguage: function(lang){
+  if(lang!=MP.SrcLang){
+    var script=document.createElement('SCRIPT');
+    script.src=location.protocol+'//'+MP.Domains[lang]+'/'+MP.SrcLang+lang+'/?1023749632;'+encodeURIComponent(MP.SrcUrl);
+ document.body.appendChild(script);
+  } else if(lang==MP.SrcLang && MP.UrlLang!=MP.SrcLang){
+    var script=document.createElement('SCRIPT');
+    script.src=location.protocol+'//'+MP.Domains[MP.UrlLang]+'/'+MP.SrcLang+MP.UrlLang+'/?1023749634;'+encodeURIComponent(location.href);
+ document.body.appendChild(script);
+  }
+  return false;
+},
+switchToLang: function(url) {
+    var mplink=document.createElement('A');
+ if (mplink.click) { // using location.href will cause IE6 to not report referrer
+  mplink.href=url;
+        window.top.document.body.appendChild(mplink);
+        mplink.click();
+ } else {
+     window.top.location.href=url; 
+ }
 }
-
-//-->
+<!-- mp_trans_disable_end --> 
+};
 </script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
 <script type="text/javascript" src="/wcsstore/FashionFlow/javascript/dropdown.js"></script>
 
 
@@ -96,6 +136,13 @@ function validateSearch ( ){
           
          
     
+: <a mporgnav="" href="http://espanol.vcf.com/" onclick="return switchLanguage('es');
+function switchLanguage(lang) {
+    MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+	return false;
+}"><b><font size="+1">Español</font></b></a>
+
     </p>
     <p id="header-top-links">
          <a href="StoreLocatorView?storeId=10001&amp;catalogId=10153&amp;langId=-1"><img src="/wcsstore/FashionFlow/images/global/header/header-locator-btn.png" alt="Value City Furniture Store Locator" border="0" id="loc-btn" class="top-links"></a>
@@ -106,7 +153,7 @@ function validateSearch ( ){
         
         
              
-             	<a href="UserRegistrationForm?storeId=10001&amp;catalogId=10153&amp;langId=-1&amp;new=Y"><img src="/wcsstore/FashionFlow/images/global/header/header-register-btn.png" alt="Value City Furniture Stores Rregister" border="0" id="reg-btn"></a>
+             	<a href="UserRegistrationForm?storeId=10001&amp;catalogId=10153&amp;langId=-1&amp;new=Y"><img src="/wcsstore/FashionFlow/images/global/header/header-register-btn.png" alt="Value City Furniture Stores Register" border="0" id="reg-btn"></a>
              
              
     	
@@ -114,7 +161,7 @@ function validateSearch ( ){
 
 <div id="header-navigation">
  		<script type="text/javascript" src="/wcsstore/FashionFlow/javascript/dd.js"></script><dl class="dropdown">
-  <dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967256&amp;N=4294967256'"><img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_livingroom.gif" alt="Value City Furniture Stores Living Room" width="113" height="39" border="0"><img src="/wcsstore/FashionFlow/images/global/main_nav/vcf_btn_divider.png" width="2" height="39"></dt>
+  <dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967256&amp;N=4294967256'"><img src="/wcsstore/FashionFlow/images/inc/images/nav_lr_btn.jpg" alt="American Signature Furniture Stores Living Room" border="0"></dt>
   <dd id="one-ddcontent" onmouseover="cancelHide('one')" onmouseout="ddMenu('one',-1)">
     <ul>
     <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966715+0&amp;categoryId=4294967256" class="underline">»&nbsp;Chairs</a></li>
@@ -136,10 +183,10 @@ function validateSearch ( ){
 </dl>
 <dl class="dropdown">
   <dt id="two-ddheader" onmouseover="ddMenu('two',1)" onmouseout="ddMenu('two',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967293&amp;N=4294967293'">
-  <img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_bedroom.gif" alt="Value City Furniture Stores Bedroom" width="90" height="39" border="0"><img src="/wcsstore/FashionFlow/images/global/main_nav/vcf_btn_divider.png" width="2" height="39"></dt>
+  <img src="/wcsstore/FashionFlow/images/inc/images/nav_br_btn.jpg" alt="American Signature Furniture Stores Bedroom" border="0"></dt>
   <dd id="two-ddcontent" onmouseover="cancelHide('two')" onmouseout="ddMenu('two',-1)">
     <ul>
-      <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966662+0&amp;categoryId=4294967293" class="underline">»&nbsp;Armoires</a></li>
+     <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966662+0&amp;categoryId=4294967293" class="underline">»&nbsp;Armoires</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966667+0&amp;categoryId=4294967293" class="underline">»&nbsp;Bedroom Packages</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966666+0&amp;categoryId=4294967293" class="underline">»&nbsp;Beds</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966664+0&amp;categoryId=4294967293" class="underline">»&nbsp;Chests</a></li>
@@ -153,7 +200,7 @@ function validateSearch ( ){
 
 <dl class="dropdown">
   <dt id="three-ddheader" onmouseover="ddMenu('three',1)" onmouseout="ddMenu('three',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967223&amp;N=4294967223'">
-  <img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_diningroom.gif" alt="Value City Furniture Stores Dining Room" width="110" height="39" border="0"><img src="/wcsstore/FashionFlow/images/global/main_nav/vcf_btn_divider.png" width="2" height="39"></dt>
+  <img src="/wcsstore/FashionFlow/images/inc/images/nav_dr_btn.jpg" alt="American Signature Furniture Stores Dining Room" border="0"></dt>
   <dd id="three-ddcontent" onmouseover="cancelHide('three')" onmouseout="ddMenu('three',-1)">
     <ul>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967211+0&amp;categoryId=4294967223" class="underline">»&nbsp;Bars / Bar Stools</a></li>
@@ -167,7 +214,7 @@ function validateSearch ( ){
 
 <dl class="dropdown">
   <dt id="four-ddheader" onmouseover="ddMenu('four',1)" onmouseout="ddMenu('four',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967269&amp;N=4294967269'">
-  <img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_youth.gif" alt="Value City Furniture Stores Youth" width="72" height="39" border="0"><img src="/wcsstore/FashionFlow/images/global/main_nav/vcf_btn_divider.png" width="2" height="39"></dt>
+  <img src="/wcsstore/FashionFlow/images/inc/images/nav_y_btn.jpg" alt="American Signature Furniture Stores Youth" border="0"></dt>
   <dd id="four-ddcontent" onmouseover="cancelHide('four')" onmouseout="ddMenu('four',-1)">
     <ul>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966669+0&amp;categoryId=4294967269" class="underline">»&nbsp;Armoires</a></li>
@@ -186,7 +233,7 @@ function validateSearch ( ){
 
 <dl class="dropdown">
   <dt id="five-ddheader" onmouseover="ddMenu('five',1)" onmouseout="ddMenu('five',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967199&amp;N=4294967199'">
-  <img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_mattress.gif" alt="Value City Furniture Stores Mattress" width="109" height="39" border="0"><img src="/wcsstore/FashionFlow/images/global/main_nav/vcf_btn_divider.png" width="2" height="39"></dt>
+  <img src="/wcsstore/FashionFlow/images/inc/images/nav_m_btn.jpg" alt="American Signature Furniture Stores Mattress" border="0"></dt>
   <dd id="five-ddcontent" onmouseover="cancelHide('five')" onmouseout="ddMenu('five',-1)">
     <ul>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967197+0&amp;categoryId=4294967199" class="underline">»&nbsp;All</a></li>
@@ -194,13 +241,14 @@ function validateSearch ( ){
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967194+0&amp;categoryId=4294967199" class="underline">»&nbsp;King</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967195+0&amp;categoryId=4294967199" class="underline">»&nbsp;Queen</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967198+0&amp;categoryId=4294967199">»&nbsp;Twin</a></li>
-    </ul>
+    <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966648+0&amp;categoryId=4294967199">»&nbsp;Mattress &amp; Pillow Protectors</a></li>
+</ul>
   </dd>
 </dl>
 
 <dl class="dropdown">
   <dt id="six-ddheader" onmouseover="ddMenu('six',1)" onmouseout="ddMenu('six',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967192&amp;N=4294967192'">
-  <img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_homeoffice.gif" alt="Value City Furniture Stores Home Office" width="110" height="39" border="0"><img src="/wcsstore/FashionFlow/images/global/main_nav/vcf_btn_divider.png" width="2" height="39"></dt>
+  <img src="/wcsstore/FashionFlow/images/inc/images/nav_ho_btn.jpg" alt="American Signature Furniture Stores Home Office" border="0"></dt>
   <dd id="six-ddcontent" onmouseover="cancelHide('six')" onmouseout="ddMenu('six',-1)">
     <ul>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967190+0&amp;categoryId=4294967192" class="underline">»&nbsp;Bookcases</a></li>
@@ -212,7 +260,7 @@ function validateSearch ( ){
 
 <dl class="dropdown">
   <dt id="seven-ddheader" onmouseover="ddMenu('seven',1)" onmouseout="ddMenu('seven',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967184&amp;N=4294967184'">
- <img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_entertainment.gif" alt="Value City Furniture Stores Entertainment" width="130" height="39" border="0"><img src="/wcsstore/FashionFlow/images/global/main_nav/vcf_btn_divider.png" width="2" height="39"></dt>
+ <img src="/wcsstore/FashionFlow/images/inc/images/nav_e_btn.jpg" alt="American Signature Furniture Stores Entertainment" border="0"></dt>
   <dd id="seven-ddcontent" onmouseover="cancelHide('seven')" onmouseout="ddMenu('seven',-1)">
     <ul>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967182+0&amp;categoryId=4294967184" class="underline">»&nbsp;Bookcases</a></li>
@@ -225,7 +273,7 @@ function validateSearch ( ){
 
 <dl class="dropdown">
   <dt id="eight-ddheader" onmouseover="ddMenu('eight',1)" onmouseout="ddMenu('eight',-1)" onclick="location.href='/webapp/wcs/stores/servlet/RoomDisplayView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=4294967210&amp;N=4294967210'">
-    <img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_accents.gif" alt="Value City Furniture Stores Accents" width="85" height="39" border="0"><img src="/wcsstore/FashionFlow/images/global/main_nav/vcf_btn_divider.png" width="2" height="39"></dt>
+    <img src="/wcsstore/FashionFlow/images/inc/images/nav_a_btn.jpg" alt="American Signature Furniture Stores Accents" border="0"></dt>
   <dd id="eight-ddcontent" onmouseover="cancelHide('eight')" onmouseout="ddMenu('eight',-1)">
     <ul>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967205+0&amp;categoryId=4294967210" class="underline">»&nbsp;Armoires</a></li>
@@ -233,9 +281,9 @@ function validateSearch ( ){
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967203+0&amp;categoryId=4294967210" class="underline">»&nbsp;Bookcases</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967208+0&amp;categoryId=4294967210" class="underline">»&nbsp;Chairs</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967200+0&amp;categoryId=4294967210" class="underline">»&nbsp;Chests</a></li>
-      <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967207+0&amp;categoryId=4294967210" class="underline">»&nbsp;Curios</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966651+0&amp;categoryId=4294967210" class="underline">»&nbsp;Fireplaces</a></li>
-	<li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966704+0&amp;categoryId=4294967210" class="underline">»&nbsp;Lamps</a></li>
+	<li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966644+0&amp;categoryId=4294967210" class="underline">»&nbsp;KARE Design</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966704+0&amp;categoryId=4294967210" class="underline">»&nbsp;Lamps</a></li>
      <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294966696+0&amp;categoryId=4294967210" class="underline">»&nbsp;Pillows</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967202+0&amp;categoryId=4294967210" class="underline">»&nbsp;Ottomans</a></li>
       <li><a href="/webapp/wcs/stores/servlet/ShelfView?langId=-1&amp;storeId=10001&amp;catalogId=10153&amp;N=4294967209+0&amp;categoryId=4294967210" class="underline">»&nbsp;Tables</a></li>
@@ -245,7 +293,7 @@ function validateSearch ( ){
 </dl>
 <dl class="dropdown">
   <dt id="nine-ddheader" onclick="location.href='CollectionsView?catalogId=10153&amp;storeId=10001&amp;langId=-1&amp;categoryId=3&amp;N=3'">
-  <img src="/wcsstore/FashionFlow/images/inc/images/vcf_btn_collections.gif" alt="Value City Furniture Stores Collections" width="143" height="39" border="0"></dt>
+  <img src="/wcsstore/FashionFlow/images/inc/images/nav_g_btn.jpg" alt="American Signature Furniture Stores Collections" border="0"></dt>
   </dl>
 
 </div>
@@ -258,9 +306,13 @@ function validateSearch ( ){
                         <input type="hidden" name="N" value="0">
                         <input type="hidden" name="Ntk" value="si_all">
                         <input type="hidden" name="Ntx" value="mode+matchall">
-                        <input type="text" name="Ntt" id="searchSite" value="Enter Keyword or Search Phrase" onclick="" onblur="searchSiteOnBlur()" onfocus="this.value=''">
-                        <input type="image" class="searchArrow" src="/wcsstore/FashionFlow/images/global/header/header-search-btn.png" alt="Search" onclick="return validateSearch()">
+                        <input type="text" name="Ntt" id="searchSite" value="Enter Keyword or Search Phrase" onblur="searchSiteOnBlur()" onfocus="this.value=''">
+                        <input type="image" class="searchArrow" src="/wcsstore/FashionFlow/images/global/header/header-search-btn.png" alt="Search" onclick="return searchSiteOnClick();">
                  </form>
+
+                 <div style="padding-left:580px;margin-top:-34px;">
+               <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FValueCityFurnitureUSA&amp;layout=button_count&amp;show_faces=false&amp;width=350&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:350px; height:21px;" allowtransparency="true"></iframe>
+  				</div>
 </div>
 </div>
 				<div id="breadcrumbs">
@@ -304,7 +356,7 @@ function validateSearch ( ){
 					</div>
 				</div>
 
-				
+				</div>
 <div class="footer">
 	<div>
     
@@ -313,7 +365,7 @@ function validateSearch ( ){
                 <span>sign up to receive special offer's and promotions</span><br>
                 <span><a href="UserRegistrationForm?storeId=10001&amp;catalogId=10153&amp;langId=-1" class="account-link">Create an Account &amp; Sign Up&nbsp;&nbsp;»</a></span>
                 <h4>More Ways to Connect</h4>
-                <span><a href="http://www.facebook.com/ValueCityFurnitureUSA"><img src="http://s7d4.scene7.com/is/image/ASF/fb_footer?wid=49" border="0" width="46"></a></span>
+                <span><a href="http://www.facebook.com/ValueCityFurnitureUSA"><img src="/wcsstore/FashionFlow/images/global/fb_footer.jpg" border="0" width="46"></a></span>
             </div>
             <div class="footerContents">
             	<h4>Customer Service</h4>
@@ -357,6 +409,6 @@ function validateSearch ( ){
     </span>
 </div>
 			</div>
-		</div>
+		
 	
 </body></html>
