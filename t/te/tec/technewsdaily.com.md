@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the technewsdaily.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227140019id_/http%3A//www.technewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsdaily.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627003053id_/http%3A//www.technewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# TechNewsDaily
+# Privacy Policy | TechNewsDaily
+
+Privacy Policy
 
 Welcome to TechNewsDaily!
 
@@ -61,5 +63,5 @@ TechNewsDaily
 470 Park Avenue South, 9th Floor  
 New York, NY 10016  
 Fax: (212) 703-5801  
-[Click here to contact us.](http://www.technewsdaily.com/category/contact-us/)  
+[Click here to contact us.](https://web.archive.org/category/contact-us/)  
 _This Privacy Policy is effective as of February 1, 2010 and supersedes all earlier versions of our Privacy Policy_
