@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxopen.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526083008id_/http%3A//www.fxopen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxopen.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626131546id_/http%3A//www.fxopen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FXOpen - Privacy Statement
 
