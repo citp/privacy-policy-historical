@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weightwatchers.com privacy policy that was archived on 2010-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101207062310id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weightwatchers.com privacy policy that was archived on 2011-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626114643id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
         <title>
@@ -33,15 +33,22 @@ var msgWildcard = "A wildcard search requires at least 3 characters. Please try 
 <script language="JavaScript" type="text/javascript" src="http://aka.weightwatchers.com/include/ww_tabs.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://aka.weightwatchers.com/include/search.js"></script>
 <script language="JavaScript" type="text/javascript" src="/include/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script type="text/javascript" src="http://aka.weightwatchers.com/include/FBHelper.js"></script>
 <script language="JavaScript">
-    function fLogin()
+    function fLogin(isWWButtonClicked)
     {
-	    javascript:void(loginPopup('/legal/privacy.aspx'));
+	    javascript:void(loginPopup('/legal/privacy.aspx','false', isWWButtonClicked));
+    }
+
+    function TopNavFbLogin()
+    {
+		var isWWButtonClicked = false;
+	    javascript:void(loginPopup('/legal/privacy.aspx','true', isWWButtonClicked));
     }
 
     function fLogout(setURL)
     {
-	    logoutPopup(0,setURL);
+	    logoutPopup(setURL);
 	    
 	    if(PlanManagerIsActive()) 
 	    {
@@ -50,15 +57,22 @@ var msgWildcard = "A wildcard search requires at least 3 characters. Please try 
     }
 </script>
  
-<div id="wwhdr" xmlns:fo="http://www.w3.org/1999/XSL/Format"><div id="logo" class=""><a href="/index.aspx" title="WeightWatchers.com" class="" target="_top"><display>WeightWatchers.com</display></a></div><div id="corpsol" class="">&nbsp;</div><div id="metanav"><ul><li class=""><a href="/index.aspx" title="Home" class="" target="_top"><display>Home</display></a></li><li class=""><a href="/util/mtf/index.aspx" title="Find a Meeting" class="" target="_top"><display>Find a Meeting</display></a></li><li class=""><a href="/help/index.aspx" title="Help" class="" target="_top"><display>Help</display></a></li><li class="login"><a href="javascript:void(fLogin())" title="LOG IN" class="loginbutton" target="_top"><display><span>LOG IN</span></display></a></li></ul></div><div id="searchnav"><div class="seaformtopnav"><fieldset><div><label>Search</label><select id="searchTopNavCat"><option value="0">Entire Site</option><option value="2">Plan Information</option><option value="3">Articles</option><option value="5">Message Boards</option><option value="9">Community</option><option value="6">Marketplace</option><option value="7">Help</option><option value="8">About Us</option></select></div><div><label>for</label><input id="searchTopNavKeyword" type="text" maxlength="256" onfocus="OnFocusClearField('searchTopNavKeyword')" onkeydown="ByEnterKey(event,'searchTopNavButton');"></div></fieldset><button id="searchTopNavButton" class="go" onclick="RunSearch('searchTopNavCat','searchTopNavKeyword','');return false;">Go</button></div></div><div id="topnav"><ul><li id="tn-home"><a href="/plan/index.aspx" title="How Weight Watchers Works" class="" target="_top"><display>How Weight Watchers Works</display></a></li><li class="pipe"></li><li><a href="/food/index.aspx" title="Food &amp; Recipes" class="" target="_top"><display>Food &amp; Recipes</display></a></li><li class="pipe"></li><li><a href="/health/index.aspx" title="Fitness &amp; Health" class="" target="_top"><display>Fitness &amp; Health</display></a></li><li class="pipe"></li><li><a href="/success/index.aspx" title="Success Stories" class="" target="_top"><display>Success Stories</display></a></li><li class="pipe"></li><li><a href="/vendor/dispatcher.aspx?login=False&amp;application=SocNet&amp;section=Beta" title="Community" class="" target="_top"><display>Community</display></a></li><li class="pipe"></li><li id="tn-last"><a href="/shop/index.aspx" title="Marketplace" class="" target="_top"><display>Marketplace</display></a></li><li class="pipe"></li></ul></div><div id="subnav-home">&nbsp;</div><div class="clr">&nbsp;</div></div>
+<div id="fb-root"></div>
+<div id="wwhdr" xmlns:fo="http://www.w3.org/1999/XSL/Format"><div id="logo" class=""><a href="/index.aspx" title="WeightWatchers.com" class="" target="_top"><display>WeightWatchers.com</display></a></div><div id="corpsol" class="">&nbsp;</div><div id="metanav"><ul><li class="" id="" style=""><a href="/index.aspx" title="Home" class="" target="_top"><display>Home</display></a></li><li class="sociable" id="" style=""><a title="" class=""><map name="sociable_icon"><area href="javascript:void(window.open('http://www.facebook.com/weightwatchers'));" coords="0 , 0, 17, 17" alt="Facebook"><area href="javascript:void(window.open('http://twitter.com/weightwatchers'));" coords="18, 0, 36, 17" alt="Twitter"><area href="javascript:void(window.open('http://www.youtube.com/weightwatchers'));" coords="37, 0, 55, 17" alt="YouTube"><area href="javascript:void(window.open('http://www.myspace.com/weightwatchers'));" coords="56, 0, 73, 17" alt="MySpace"></map><table class="soci_tbl"><tbody><tr><td class="soci_title">Find Us On:&nbsp;</td><td><img class="soci_icon" src="http://aka.weightwatchers.com/images/1033/css/nav/icon_sociable.gif" usemap="#sociable_icon"></td></tr></tbody></table></a></li><li class="" id="" style=""><a href="/util/mtf/index.aspx" title="Find a Meeting" class="" target="_top"><display>Find a Meeting</display></a></li><li class="" id="" style=""><a href="/help/index.aspx" title="Help" class="" target="_top"><display>Help</display></a></li><li class="loginFB" id="fbTopNavLoginButton" style="display:none;"><a href="javascript:TopNavFLoginClick();" title="LOG IN" class="loginbutton" target="_top"><display><span>LOG IN</span></display></a></li><li class="login" id="" style=""><a href="javascript:void(fLogin(true))" title="LOG IN" class="loginbutton" target="_top"><display><span>LOG IN</span></display></a></li></ul></div><div id="searchnav"><div class="seaformtopnav"><fieldset><div><label>Search</label><select id="searchTopNavCat"><option value="0">Entire Site</option><option value="2">Plan Information</option><option value="3">Articles</option><option value="5">Message Boards</option><option value="9">Community</option><option value="6">Marketplace</option><option value="7">Help</option><option value="8">About Us</option></select></div><div><label>for</label><input id="searchTopNavKeyword" type="text" maxlength="256" onfocus="OnFocusClearField('searchTopNavKeyword')" onkeydown="ByEnterKey(event,'searchTopNavButton');"></div></fieldset><button id="searchTopNavButton" class="go" onclick="RunSearch('searchTopNavCat','searchTopNavKeyword','');return false;">Go</button></div></div><div id="topnav"><ul><li id="tn-home"><a href="/plan/index.aspx" title="How Weight Watchers Works" class="" target="_top"><display>How Weight Watchers Works</display></a></li><li class="pipe"></li><li><a href="/food/index.aspx" title="Food &amp; Recipes" class="" target="_top"><display>Food &amp; Recipes</display></a></li><li class="pipe"></li><li><a href="/health/index.aspx" title="Fitness &amp; Health" class="" target="_top"><display>Fitness &amp; Health</display></a></li><li class="pipe"></li><li><a href="/success/index.aspx" title="Success Stories" class="" target="_top"><display>Success Stories</display></a></li><li class="pipe"></li><li><a href="/vendor/dispatcher.aspx?login=False&amp;application=SocNet&amp;section=Beta" title="Community" class="" target="_top"><display>Community</display></a></li><li class="pipe"></li><li id="tn-last"><a href="/shop/index.aspx" title="Marketplace" class="" target="_top"><display>Marketplace</display></a></li><li class="pipe"></li></ul></div><div id="subnav-home">&nbsp;</div><div class="clr">&nbsp;</div></div>
 <input name="uctr_topnav:uctr_tn_tabs:images_directory" type="hidden" id="uctr_topnav_uctr_tn_tabs_images_directory" value="/images/1033/">
 <input name="uctr_topnav:uctr_tn_tabs:tab_bgcolor_on" type="hidden" id="uctr_topnav_uctr_tn_tabs_tab_bgcolor_on" value="#FFFEE9"> <input name="uctr_topnav:uctr_tn_tabs:tab_bgcolor_off" type="hidden" id="uctr_topnav_uctr_tn_tabs_tab_bgcolor_off" value="#73AEDA">
 <input name="uctr_topnav:uctr_tn_tabs:hdn_jnl_lang" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdn_jnl_lang" value="Journal"> <input name="uctr_topnav:uctr_tn_tabs:hdn_fav_lang" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdn_fav_lang" value="My Favorites">
 <input name="uctr_topnav:uctr_tn_tabs:hdn_mplan_lang" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdn_mplan_lang" value="Meal Plans">
-<input name="uctr_topnav:uctr_tn_tabs:hdnParamVals" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdnParamVals" value="/legal/privacy.aspx;;;12/7/2010 1:23:10 AM">
-
+<input name="uctr_topnav:uctr_tn_tabs:hdnParamVals" type="hidden" id="uctr_topnav_uctr_tn_tabs_hdnParamVals" value="/legal/privacy.aspx;;;6/26/2011 7:46:42 AM">
 
 <!-- END FAST TOPNAV REMOVAL -->
+<script type="text/javascript">
+    var isTopNavLogin = 'true';
+    SetFacebookAppId("208045679207522");
+    SetFacebookLikeEnabled(true);
+    LoadFBJSSdk();
+</script>
+
             <table cellspacing="0" cellpadding="0" border="0" width="764">
                 <tbody><tr valign="top">
                     <td width="82"><img src="http://aka.weightwatchers.com/images/space.gif" width="82" height="1"></td>
@@ -157,7 +171,7 @@ or to protect the safety and/or security of our users, our Website or the genera
 		(212) 589-2601<br>
 		Attn: Privacy Coordinator</td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"></table></td></tr></tbody></table></td></tr></tbody></table><table border="0"><tbody><tr><td height="15"></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top">If you have questions regarding this Privacy Policy, you should first contact our Privacy Coordinator at the address set out above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <a href="javascript:void(window.open('http://www.truste.org/consumers/watchdog_complaint.php'));">TRUSTe</a> at <a href="javascript:void(window.open('http://www.truste.org/consumers/watchdog_complaint.php'));">http://www.truste.org/consumers/watchdog_complaint.php</a>, by postal mail at Watchdog Complaints, TRUSTe, 55 Second Street, 2d Floor, San Francisco, CA 94105, or by fax at (415) 520-3420. TRUSTe will then serve as a liaison with us to resolve your concerns.<p></p><b>BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.</b><br><br>
 		Last modified as of April 27, 2009<br><table cellpadding="0" cellspacing="0" border="0"></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
-<input name="_ctl0:FromCache" type="hidden" id="_ctl0_FromCache" value="NO-1017961">
+<input name="_ctl0:FromCache" type="hidden" id="_ctl0_FromCache" value="YES-1017961">
 
                         <!-- end privacy policy -->
                     </td>
@@ -193,26 +207,25 @@ or to protect the safety and/or security of our users, our Website or the genera
                         <br><br><br><br>
                         <div>
                             
-                            <a href="http://www.weightwatchers.com/staff">Staff Site</a> | 
                             <a href="http://www.weightwatchers.com/about/index.aspx">About Us</a> | 
                             <a href="http://www.weightwatchers.com/about/adv/index.aspx">Advertise</a> | 
                             <a href="http://www.weightwatchers.com/about/prs/index.aspx">Press Room</a> | 
-                            <a href="http://www.weightwatchers.com/job/index.aspx">Careers</a>
+                            <a href="http://www.weightwatchers.com/job/index.aspx">Careers</a> |
+                            <a href="http://www.weightwatchers.com/help/map/index.aspx">Site Map</a>
                         </div>
-                        <div>
-                            <a href="http://www.weightwatchers.com/help/map/index.aspx">Site Map</a> | 
+                        <div> 
                             <a href="http://www.weightwatchers.com/help/contactus.aspx">Contact Us</a> | 
                             <a href="http://www.weightwatchers.com/help/index.aspx">Help</a> | 
                             <a href="http://www.weightwatchers.com/about/afl/index.aspx">Affiliate Program</a> | 
-                            <a href="http://www.weightwatchers.com/util/popup_requirements.aspx">Troubleshooting</a>
+                            <a href="http://www.weightwatchers.com/util/popup_requirements.aspx">Troubleshooting</a> | 
+                            <a href="http://www.weightwatchers.com/legal/terms.aspx">Terms &amp; Conditions</a> 
                         </div>
-                            <a href="http://www.weightwatchers.com/legal/terms.aspx">Terms &amp; Conditions</a> | 
                             <a href="http://www.weightwatchers.com/legal/privacy.aspx">Privacy</a> | 
                             For subscribers only: <a href="http://www.weightwatchers.com/legal/gensubagreement.aspx">Subscription Agreement</a>
                         
                         <br><br>
                               <div class="small">WEIGHT WATCHERS is the registered trademark of Weight Watchers International, Inc.<br><b><i>PointsPlus</i></b> is a trademark of Weight Watchers International, Inc. Trademarks used under license by WeightWatchers.com, Inc.<br>
-                              © 2010 Weight Watchers International, Inc.  © 2010 WeightWatchers.com, Inc.  All rights reserved.</div> 
+                              © 2011 Weight Watchers International, Inc.  © 2011 WeightWatchers.com, Inc.  All rights reserved.</div> 
                         <br><br><br>
                         <table width="400" border="0">
                             <tbody><tr valign="middle">
@@ -236,7 +249,7 @@ var s_account="wwatchcomusa"
 //--></script>
 <script language="JavaScript" src="http://aka.weightwatchers.com/include/WWTracking_H21.js"></script>
 <script language="javascript"><!--
-s.server="NYAPUSWEB15";
+s.server="NYAPUSWEB10";
 s.eVar17="visitor";
 s.prop25="";
 s.account="wwatchcomusa";
@@ -269,7 +282,7 @@ void(s.t());}
 
 
 
-<input name="uctl_footer:hdnWWSERVERNAME" type="hidden" id="uctl_footer_hdnWWSERVERNAME" value="nyapusweb15">
+<input name="uctl_footer:hdnWWSERVERNAME" type="hidden" id="uctl_footer_hdnWWSERVERNAME" value="NYAPUSWEB10">
 <!--- END FAST REMOVAL ---><!--- end footer ----></form>
     
 
