@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the friendcircles.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218062939id_/http%3A//www.friendcircles.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendcircles.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626162533id_/http%3A//www.friendcircles.com/privacy.htm) for the most accurate reproduction.*
 
 # FriendCircles.com - the largest collection of relationship networks, communities and groups!
 
 We at **FriendCircles.com** (" **FriendCircles.com** " a.k.a. "The Circle of Friends Network") have created this **Privacy Policy** for the protection of its Members ("Friendizens").  This policy outlines the policy purpose, audience and parameters in which personal privacy is protected.  This **_Privacy Policy_** only applies to transactions and activities within the online services in which Members subscribe.  Online services to be all inclusive of the following elements:
 
-·                  **FriendCircles** **Website** , **FriendCircles.com** Network Partner sites  (collectively, the " **Site** ") but does not apply to any other Website or offline point of contact between **FriendCircles.com** or any other company, and consumers.  We reserve the right to modify this **Privacy Policy** periodically.  This **Privacy Policy** was last revised on December, 2004.  Each time you visit the internet site, use the online services or provide us with information, you are accepting the practices described in this **Privacy Policy** at that time.
+�                  **FriendCircles** **Website** , **FriendCircles.com** Network Partner sites  (collectively, the " **Site** ") but does not apply to any other Website or offline point of contact between **FriendCircles.com** or any other company, and consumers.  We reserve the right to modify this **Privacy Policy** periodically.  This **Privacy Policy** was last revised on December, 2004.  Each time you visit the internet site, use the online services or provide us with information, you are accepting the practices described in this **Privacy Policy** at that time.
 
 **YOUR IP ADDRESS**
 
