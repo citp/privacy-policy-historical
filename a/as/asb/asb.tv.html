@@ -1,324 +1,372 @@
-<!--The following is the downloaded HTML source of the asb.tv privacy policy that was archived on 2010-02-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100227094634id_/http%3A//www.asb.tv/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asb.tv privacy policy that was archived on 2011-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626104624id_/http%3A//airshowbuzz.com/go/browse/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Privacy Policy | www.asb.tv</title>
-	<meta name="verify-v1" content="NPJxZ7xQpBMgzQHmelIN4/ZxiKUiIPMaZls95V2LkEs=">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="keywords" content="">
-	<meta name="description" content="">
-	<meta name="language" content="en">
-		<link rel="shortcut icon" href="/favicon.ico">
-	<link type="text/css" rel="stylesheet" href="/include/inc-css/global.css" media="all">
-	<link type="text/css" rel="stylesheet" href="/include/styles.css">
-	<link type="text/css" rel="stylesheet" href="/styles/search.css">
-	<link type="text/css" rel="stylesheet" href="/styles/search-forum.css">
-
-	<!--[if IE]>
-		<link type="text/css" rel="stylesheet" href="/styles/search-ie6.css" />
-		<link type="text/css" rel="stylesheet" href="/include/inc-css/iefixed.css" media="all" />
-  <![endif]-->
-
-	<script type="text/javascript" src="/js/mootools-1.2-core-nc.js" charset="utf-8"></script>
-	<script type="text/javascript" src="/js/mootools-1_002.js"></script>
-
-	<script src="/include/swfobject.js" type="text/javascript" charset="utf-8"></script>
-
-	<script src="/include/inc-js/AC_RunActiveContent.js" type="text/javascript" charset="utf-8"></script>
-<!--	<script type="text/javascript" src="/js/AC_OETags.js"></script>
--->
-<!--    <script type="text/javascript" src="/js/autosuggest/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script> -->
-<!--    <script type="text/javascript" src="/js/suggest-tabs.js" charset="utf-8"></script> -->
-
-	<script type="text/javascript" src="/include/inc-js/jquery.js"></script>
-	<script type="text/javascript" src="/include/inc-js/jquery.cookie.js"></script>
-	<script type="text/javascript" src="/include/inc-js/common_function.js"></script>
-	<script type="text/javascript" src="/include/inc-js/j-navigation.js"></script>
-	<link type="text/css" rel="stylesheet" href="/include/inc-css/j-navigation.css">
-
-	
-    <script type="text/javascript">
-		jQuery.noConflict();
-		findLink('http://www.asb.tv');
-				jQuery(document).ready(function(){
-			var path = window.location.pathname;
-			if (0 <= (slashPos = path.lastIndexOf('/'))) {
-        var self = path.substr(slashPos + 1);
-				var isProfile = path.indexOf("profiles");
-
-				jQuery("#formSearch").submit(function(){
-					//event: "submit";
-          //var e = new Event(e).stop();
-				  var keyword = jQuery('#keyword').val();
-					if (keyword.length == 0) {
-				    	return false;
-				  }
-				  var ajax_url = "http://www.asb.tv/statistics/ajaxStatistic.php?type=search&keyword=" + keyword;
-
-			    jQuery.ajax({
-			    	url: ajax_url,
-			    	success: function(result) {
-			    	},
-			    	async: false
-					});
-				});
-				var str = '/privacy.php';
-				if (str.indexOf('search.php') || isProfile > 0) {
-					jQuery("#search-submit").click(function() {
-						//event: "submit";
-						//var e = new Event(e).stop();
-						var keyword = jQuery('#keyword').val();
-						if (keyword.length == 0) {
-							alert('Please enter search keyword');
-							return false;
-						}
-						window.location = 'http://www.asb.tv/search.php?#' + keyword;
-						return false;
-					});
-				}
-			}
-		});
-
-		/*
-		function slidePanelDown() {
-			var height = parseInt( jQuery('#temp_panel').css('height') );
-			if (height >= 170)
-				clearInterval(tmp_interval_id);
-			else height += 7;
-			jQuery('#temp_panel').css('height', height + 'px');
-		}
-		*/
-
-</script>
-
-			<link type="text/css" rel="stylesheet" href="http://www.asb.tv/include/inc-css/thickbox.css" media="screen">
-			<script type="text/javascript" src="http://www.asb.tv/include/inc-js/thickbox.js"></script>
-			<script type="text/javascript">
-				jQuery(document).ready(function(){
-					jQuery('.t_thumb').bind('mouseover',function(){
-						jQuery('.PublishLinks',this).css('display','block');
-						jQuery('.publish_icon',this).css('display','block');
-					});
-
-					jQuery('.t_thumb').bind('mouseout',function(){
-						jQuery('.PublishLinks',this).css('display','none');
-						jQuery('.publish_icon',this).css('display','none');
-					});
-					jQuery('.VideoContainer').hover(function(){jQuery(this).addClass('Hover');},function(){jQuery(this).removeClass('Hover');});
-
-				});
-				function _showPopup() {
-					jQuery( function() {
-						if (jQuery.browser.msie) {
-							document.getElementById('publish_aa').click();
-						} else {
-							jQuery("#publish_aa").click();
-						}
-					});
-				}
-
-				function addReferringLink(strText)
-				{
-					var ajax_url = "//statistics/ajaxStatistic.php";
-				    jQuery.get(ajax_url, { type: "traffic", url: strText });
-				}
-			</script>
-</head>
-<body>
-
-<!-- tables needed to keep the footer on the true bottom -->
-<div id="wrapper">
-	<table height="100%" width="925" style="background: #ffffff;" cellpadding="0" cellspacing="0" align="center"><tbody><tr><td valign="top">
-		<div id="nav">
-			<div style="float:right; padding-top: 9px;">
-			    <form id="formSearch" action="http://www.asb.tv/search.php" method="post">
-					<table cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td>
-								<input type="text" id="keyword" class="textbox" value="" name="keyword"> &nbsp;
-							</td>
-							<td>
-	              <input type="image" onclick="$('keyword').value = $('keyword').value._trim(); $('searchKeyword').value = $('keyword').value;" src="http://www.asb.tv/images/search/search.gif" alt="Search" id="search-submit">
-							</td>
-						</tr>
-					</tbody></table>
-				</form>
-			</div>
-			<ul id="menu_nav">
-				<li><a href="http://www.asb.tv/" title="Air Show Home" class="Home"><span>Home</span></a></li>
-				<li><a href="http://www.asb.tv/photos/" title="Air Show Photos" class="Photos"><span>Photos</span></a></li>
-				<li><a href="http://www.asb.tv/videos/" title="Air Show Videos" class="Videos"><span>Videos</span></a></li>
-				<li class="HasChild"><a href="http://www.asb.tv/forums/" title="Air Show Community" class="Community"><span>Community</span></a>
-					<ul class="SubMenu02">
-						<li><a href="http://www.asb.tv/forums/" title="Air Show Forums" class="Forums"><span>Forums</span></a></li>
-						<li><a href="http://www.asb.tv/facebook/" title="Air Show Buzz - Facebook" class="Facebook"><span>Facebook</span></a></li>
-						<li><a href="http://twitter.com/asbtv" target="_blank" title="Air Show Buzz - Twitter" class="Twitter"><span>Twitter</span></a></li>
-						<li><a href="http://www.asb.tv/mobile" title="Air Show Buzz - Mobile" class="Mobile"><span>Mobile</span></a></li>
-					</ul>
-				</li>
-				<li><a href="http://www.asb.tv/schedules/" title="Air Show Schedules" class="Schedules"><span>Air Show Schedules</span></a></li>
-				<li><a href="http://www.asb.tv/profiles/" title="Air Show Member Profile" class="MemProfile"><span>Member Profile</span></a></li>
-				<li><a href="http://www.asb.tv/blackbox/" title="Blackbox" class="BlackBox"><span>Black Box</span></a></li>
-				<li><a href="http://www.asb.tv/store/" title="Air Show Store" class="Store"><span>Store</span></a></li>
-				<li class="HasChild"><a href="#" title="Air Show More" class="More" onclick="return false;"><span>More</span></a>
-					<ul class="SubMenu02">
-						<li><a href="http://www.asb.tv/p-51" title="Air Show Contest" class="Contest"><span>Contest</span></a></li>
-						<li><a href="http://www.asb.tv/contact.php" title="Air Show Contact us" class="Contact"><span>Contact us</span></a></li>
-						<li><a href="http://www.asb.tv/contact.php?subject=advertise" title="Air Show Sponsorship" class="Advertise"><span>Sponsorship</span></a></li>
-						<li><a href="http://www.asb.tv/contact.php?subject=bugreport" title="Air Show Report Bug" class="Report"><span>Report bug</span></a></li>
-						<li><a href="http://www.asb.tv/rules.php" title="Air Show Rules Of Engagement" class="Rules"><span>Rules Of Engagement</span></a></li>
-						<li><a href="http://www.asb.tv/privacy.php" title="Air Show Privacy Policy" class="Privacy"><span>Privacy Policy</span></a></li>
-						<li><a href="http://www.asb.tv/sitemap.php" title="Air Show Site Map" class="Sitemap"><span>Sitemap</span></a></li>
-						<li><a href="http://www.asb.tv/linktoasb" title="Air Show Link Exchange" class="LinkExchange"><span>Link Exchange</span></a></li>
-					</ul>
-				</li>
-							</ul>
-		</div>
-		<script type="text/javascript">
-			jQuery("#menu_nav").addNavigation({
-				event: "mouseover"
-			});
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Airshowbuzz.com: Your Airshow Source</title>
+<meta name="generator" content="ONEsite">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		//<![CDATA[
+			var baseJsUrl = 'http://fast1.onesite.com/resources/scripts/';
+			var baseCssUrl = 'http://fast1.onesite.com/resources/css/';
+			var oneVersion = '11.06.21a';
+		//]]>
 		</script>
-	<div id="header" style="position: relative; top: 0px; left: 0px;">
-					<img src="http://www.asb.tv/images/spacer.gif" width="300" height="151" border="0" alt="Air Show Buzz" usemap="#Map">
-			<map name="Map" id="Map"><area shape="poly" coords="6,65,37,107,58,111,70,124,101,126,112,137,132,137,136,147,196,149,198,140,208,141,222,137,231,125,287,144,284,133,179,106,208,77,239,101,215,68,219,48,198,48,165,19,190,51,132,92" href="http://www.asb.tv" title="Air Show Buzz"></map>
-				<h1>Air Show Buzz</h1>	</div>
-				<div id="right">
-			<div id="banner">
-							<form name="frmLogin" action="http://www.asb.tv/" method="post">
-				<input type="hidden" name="action" value="login">
-				<b>Username:</b><br>
-				<input type="text" name="username" id="txtLoginUsername" class="textbox">
-				<b>Password:</b><br>
-				<input type="password" name="password" class="textbox">
-				<input type="submit" class="button" value="Sign In">&nbsp;
-				<span style="vertical-align:top"><b>Remember me</b></span><input style="vertical-align:top" class="checkbox" type="checkbox" name="Privacy" value="1" checked="checked">
-	  			<input type="hidden" id="searchKeyword" name="searchKeyword">
-				<a href="http://www.asb.tv/forgotpass/forgot_pass_form.php" style=" vertical-align:top"><b>Forgot Password</b></a>
-			</form>
-			<a href="http://www.asb.tv/registration.php" title="Join ASB.TV"><img src="http://www.asb.tv/images/sidebar_join_asb.jpg" width="165" height="17" border="0" alt="Join ASB.TV" style="margin-bottom: 4px;"></a>
-									<!-- div style="width: 165px; height: 600px; background: #aaaaaa">Banner</div -->
-								<center>
-					<div id="righter_banner"></div>
-	<script type="text/javascript">
-		var so = new SWFObject("/banners/asb_blackbox_160x600.swf", "mymovie", "160", "600", "8");
-		so.addParam("quality", "high");
-				so.addParam("allowscriptaccess", "always");
-		so.addVariable('xmlurl','/videos/moveplayer/xml/banner.xml');
-		so.addVariable('swfurl','/banners/');
-		so.addVariable('coinurl','/store/index.php?act=detail%26id=ASBCC001001');
-		so.write("righter_banner");
-	</script>
-					</center>
-			</div>
-				<div id="quote">
-		"My soul is in the sky"
-		<br><br>
-		<b> - William Shakespeare</b>
-	</div>
-								</div>
-	<div id="content">
-			<div id="content_header" style="position: relative; top: -3px; height: 31px;"><h2 style="padding-bottom: 6px">Privacy Policy</h2></div>
-				<script type="text/javascript">
-					// <![CDATA[
-					var title = escape('Privacy Policy');
-					var so = new SWFObject("http://www.asb.tv/movies/header_lg.swf", "movie_player", "660", "31", "8", "");
-					so.addParam('wmode', 'transparent');
-					so.addParam("allowScriptAccess", "always");
-					so.addVariable('t', title);
-					so.write("content_header");
-					jQuery('#content_header').css("position", "relative");
-					jQuery('#content_header').css("top", "-3px");
-					jQuery('#content_header').css("height", "31px");
-					// ]]>
-				</script>
-						<div id="inner">
-<style>
-	div#inner{
-		padding-right:3px !important;
-	}
-</style>
-<p align="justify"><strong>We know people rarely read the fine  print, but we thought we’d post it anyway. Without breaking out your  magnifying glass, we’ll zealously guard your personal information and  we’ll never compromise your integrity, or ours. </strong></p>
-  <p align="justify"><strong>Last Updated: 11.7.08</strong></p>
-  <p align="justify"><strong>1. Policy</strong></p>
-  <p align="justify">Airshowbuzz, LLC ("ASB") has created this privacy policy (the  “Policy”) to explain our privacy practices so that you will understand  when and how personal information is collected, used, disclosed and  protected with respect to this website (the "Site"). ASB respects the  privacy of its users, and this Policy explains what information we  collect on our Site and how we use such information. Please read this  Policy carefully. In addition, please review the <a href="http://www.asb.tv/rules.php" target="_blank">Rules of Engagement</a>  posted at the Site, which governs your use of the Site. Your use of our  Site indicates to us that you have read and accepted our privacy  practices, as outlined in this Policy.</p>
-  <p align="justify"><strong>2. Applicability</strong></p>
-  <p align="justify">Please note that this Policy only applies to this Site and any other  site owned and/or operated by or for ASB upon which ASB has placed a  "link" which, when "clicked," transfers you to this Policy. This Policy  only covers information collected at this Site, and does not cover any  information collected by any other site unless otherwise specifically  stated or disclosed by ASB.</p>
-  <p align="justify"><strong>3. Information ASB Collects</strong></p>
-  <p align="justify">(a) Personally Identifiable Information: Personal Information is  information that could reasonably be used to identify you personally  (such as your first and last name, gender, phone number, address, birth  date, e-mail address, and, if applicable, your credit card  information), which we refer to in this Policy as "PI." Generally, you  may browse our Site without providing us with PI. However, there may be  times when we ask you to provide us with certain PI, such as when you  choose to register with our Site; post a photo, video, or message; or  participate in e-commerce, interactive, or promotional activities. You  can change or update your PI by changing your account information. We  may also ask you to provide us with demographic information or  information regarding your interests, hobbies or similar information to  enhance your experience. ASB reserves the right, at any time, to add  features to our Site that require you to register or otherwise provide  additional PI. You can choose not to provide certain information, but  then you may not be able to take advantage of or participate in some of  the Site's features. The PI you submit will be used to carry out your  requests, respond to your inquiries, and to notify you (if applicable)  regarding any promotions or e-commerce activities. Your PI may also be  used by us and any parent, subsidiary, affiliate, joint venturer,  sponsor and/or partner of ASB (collectively, “Affiliated Third  Parties”) to provide you with additional services. You may always  direct us by “opting-out” at the point where we ask for PI, and we will  not share or use PI in order to provide you with additional services.  However, if you do not want us to share this information, we may not be  able to provide you with the additional services. In such case, please  use our unsubscribe page and we will not share such information. We  will not share PI with entities that are not Affiliated Third Parties  unless you give us express permission to do so by opting-in at the  point where we ask for PI. ASB does not sell, rent or share PI  collected with other people other than that specifically outlined  herein.</p>
-  <p align="justify">(b) This is not a Site directed to children under the age of 13 and  ASB does not knowingly collect any information from children under 13  years of age at the Site. <strong>If you are  under 13 years of age, do not send any information about yourself to ASB.</strong> If you are under 13 years of age, please do not use the ASB Site—there  are lots of other great websites for you. Talk to your parents about  what sites are appropriate for you.&nbsp; If ASB learns that a child under  the age of 13 has provided the Site with PI, ASB will delete that  child's PI from its system.</p>
-  <p align="justify">(c) Anonymous Information: When you visit the Site, our web servers  automatically collect Site usage information. Site usage information is  anonymous information that describes how our visitors use and navigate  our Site, and it includes the number and frequency of visitors to each  web page, and the length of their stays. ASB collects the anonymous  information automatically sent to us by your web browser, such as  browser type, referrer data that identifies the web page visited prior  and subsequent to visiting our Site, and IP address. We may also  determine what technology is available through your browser in order to  present you the most appropriate version of a web page (i.e. Flash or  HTML).</p>
-  <p align="justify">(d) IP Addresses: When visitors request pages from our Site, our  servers log the visitor's IP address. We may collect IP addresses for a  variety of internal purposes, such as system administration, to report  aggregate information to our business partners or to audit the number  of visits to different pages, photos viewed or videos watched on our  Site.</p>
-  <p align="justify">(e) Cookies: Cookies are small text files placed on your hard drive  by a website when you visit. These files identify your computer and  record your preferences and other data about your visit so that when  you return to the Site, the Site knows who you are and can personalize  your visit. In general, we use cookies to collect information so that  we can determine how to improve the Site by seeing which areas,  features and products are most popular, to personalize the Site and  improve the Site experience. Most browsers automatically accept cookies  as the default setting. You can modify the setting to reject cookies or  to prompt you before accepting a cookie from the sites you visit by  editing browser options. If you decide not to accept our cookies, you  will still be able to access those parts of our Site available to the  general public but you may not be able to use some of the Site’s  features or services and you may have a less satisfactory experience.&nbsp; <br>
-    We do not store any PI in cookies, but we may link the cookie to any  information we collect. You may occasionally get cookies from our  advertisers, which is standard in the Internet industry. We do not  control these cookies, and these cookies are not subject to our privacy  policy. Visitors to our Site should check the privacy policy of the  advertiser to see whether and how it uses cookies. You can disable  cookies on your computer by indicating this in the preferences or  options menus in your browser. However, it is possible that some parts  of the Site will not operate correctly if you disable cookies. You  should consult with your browser's provider/manufacturer if you have  any questions regarding disabling cookies.</p>
-  <p align="justify"><strong>4. ASB Use and Disclosure of Collected Information</strong></p>
-  <p align="justify">(a) ASB: ASB may use your PI to provide the information or content  you have requested. We may also use your PI to contact you regarding  your use of our Site or changes to our Policy or other policy or terms  that affect you and your use of our Site. If you e-mail someone else a  video, photo or other special feature from our Site, we may use the  information you provide about someone else to send that person the  requested e-mail. ASB may use information collected about our users to  improve the Site’s content, design, navigation, or for other internal  purposes such as analyzing aggregate traffic patterns and other trends.</p>
-  <p align="justify">(b) Third parties providing services on our behalf: ASB may employ  other trusted companies and individuals to perform functions on our  behalf. Examples may include: </p>
-  <p align="justify"><span style="padding-left:20px;"></span>(i) Third parties involved in analyzing data, providing  marketing assistance and providing customer service: These third  parties may have access to our users' PI in order to provide these  services to us on our behalf solely for such purposes.&nbsp; However, they  are not permitted to use PI for any other purpose. </p>
-  <p align="justify"><span style="padding-left:20px;"></span>(ii) Third party providers of products and services:&nbsp; We may disclose  PI to third parties so they can inform you about their products or  services. If you do not wish to receive these types of third party  communications, you can click <a href="http://www.asb.tv/contact.php" target="_blank">here</a> and complete a form to tell us your  preferences. While you may choose not to receive direct marketing  information from third parties, you will continue to receive marketing,  promotional, and other information from ASB.</p>
-  <p align="justify">(c) Other Third Parties: ASB does not rent, sell or otherwise  disclose your PI to third parties unless disclosed herein, or at the  time such information is collected, or unless you otherwise give  consent, other than in the following limited circumstances:</p>
-  <p align="justify"><span style="padding-left:20px;"></span>(i) Legal Action: ASB may disclose information about its users,  including PI, when legally required to do so, for example at the  request of governmental authorities conducting an investigation, to  verify or enforce compliance with the policies governing our Site and  applicable laws, or to protest against misuse or unauthorized use of  our Site. ASB may also disclose user information whenever we believe  disclosure is necessary to limit our legal liability, to protect or  defend our rights or property or protect the safety, rights or property  of our users; </p>
-  <p align="justify"><span style="padding-left:20px;"></span>(ii) Corporate Change: ASB may sell, transfer or otherwise disclose  user information, including PI, to a successor entity in connection  with a corporate merger, consolidation, the sale of all or  substantially all assets, or other fundamental corporate change  respecting ASB and/or the Site.</p>
-  <p align="justify"><strong>5. Third Party Websites</strong></p>
-  <p align="justify">Please be aware that we provide links to third party websites from  the Site as a service to our guests and we are not responsible for the  content, information collection, privacy policies or other use  practices of those sites. Please also note that these websites' privacy  policies will differ from those of ASB. Therefore, we encourage you to  review and understand their privacy practices before providing them  with information.</p>
-  <p align="justify"><strong>6. Security&nbsp; </strong></p>
-  <p align="justify">ASB takes reasonable measures to secure the data you submit to us  from loss, misuse, alteration or destruction, including limiting the  number of people who have physical access to our user data. When  possible, we will ask any third parties to whom we may transfer such  information to take comparable measures. Unfortunately, no data  transmission over the Internet can be guaranteed to be 100% secure.  Therefore, ASB cannot and does not ensure or warrant the security of  any information you transmit to ASB, and you do so at your own risk.</p>
-  <p align="justify"><strong>7. Consent to Transfer</strong></p>
-  <p align="justify">The Site is operated in the United States. If you are located in the  European Union or elsewhere outside of the United States, please be  aware that any information you provide to us will be transferred to the  United States. By using our Site, participating in any of our services  and/or providing us with your information, you consent to this transfer.</p>
-  <p align="justify"><strong>8. Acceptance/Changes to Policy</strong></p>
-  <p align="justify">By using the Site, you agree to the terms of this Policy. ASB  reserves the right to modify, alter or otherwise update this Policy at  any time in its sole discretion. We will post any changes here, so be  sure to check back from time to time. We will only use the PI you  provide to the Site in a manner consistent with our current Policy,  unless you give us your consent.</p>
-  <p align="justify"><strong>9. Contact Us</strong></p>
-  <p align="justify">If you have any questions, comments or concerns about our Policy,  please contact us at <a href="mailto:info@asb.tv" title="info@asb.tv">info@asb.tv</a>. Or you can send us mail to:  Airshowbuzz, LLC, 1420 Ambassador St., Los Angeles, CA 90035.</p>
-	
-		</div>
-	</div>
-<!-- footer start -->
-</td></tr><tr><td valign="bottom">
-	<div id="footer">
-		<div id="footer_nav">
-			 <a href="http://www.asb.tv/contact.php" title="Contact Us">Contact Us</a> |
-			 <a href="http://www.asb.tv/contact.php?subject=advertise" title="Sponsorship">Sponsorship</a> |
-			 <a href="http://www.asb.tv/contact.php?subject=bugreport" title="Report Bugs">Report Bugs</a> |
-			 <a href="http://www.asb.tv/rules.php" title="Rules Of Engagement">Rules Of Engagement</a> |
-			 <a href="http://www.asb.tv/privacy.php" title="Privacy Policy">Privacy Policy</a> |
-			 <a href="http://www.asb.tv/sitemap.php" title="Site Map">Site Map</a> |
-			 <a href="http://www.asb.tv/p-51/" title="Contest">Contest</a> |
-			 <a href="http://www.asb.tv/linktoasb/" title="Link Exchange">Link Exchange</a>
-		</div>
-		<div id="tag">© 2007-2010 Airshowbuzz, LLC</div>
-	</div>
-
-</td></tr></tbody></table>
-	</div>
-<!-- BEGIN COREMETRICS SUPPORT -->
-<script language="javascript1.1" src="http://www.asb.tv/include/coremetrics/eluminate.js"></script>
-<script language="javascript1.1" src="http://www.asb.tv/include/coremetrics/cmdatatagutils.js"></script>
-<script language="javascript1.1" src="http://www.asb.tv/include/coremetrics/cmtaggingservices.js"></script>
-<!-- END COREMETRICS -->
-
-
-
-<!-- Start Quantcast tag -->
+<link rel="stylesheet" type="text/css" href="http://fast1.onesite.com/resources/css/cssloader.one?files=YTo0OntpOjA7czoxOToiL3NpdGUvc3RydWN0dXJlLmNzcyI7aToxO3M6MTU6Ii9zaXRlL3N0eWxlLmNzcyI7aToyO3M6MjE6Ii9zaXRlL2ludGVyYWN0aW9uLmNzcyI7aTozO3M6NDU6Ii4uL3NjcmlwdHMveXVpL2NvbnRhaW5lci9hc3NldHMvY29udGFpbmVyLmNzcyI7fQ==&amp;ver=11.06.21a">
+<link rel="stylesheet" type="text/css" href="http://fast1.onesite.com/resources/css/cssloader.one?files=YToxOntpOjA7czoxODoiL3ByaW50X2NvbnRlbnQuY3NzIjt9&amp;ver=11.06.21a" media="print">
+<link rel="stylesheet" type="text/css" href="http://fast1.onesite.com/resources/css/cssloader.one?files=YTo1OntpOjA7czo3NjoiaHR0cDovL2Zhc3QxLm9uZXNpdGUuY29tL3Jlc291cmNlcy9jc3MvbW9kdWxlcy9jdXN0b21faHRtbC5jc3M/dmVyPTExLjA2LjIxYSI7aToxO3M6MTMxOiJodHRwOi8vZmFzdDEub25lc2l0ZS5jb20vcmVzb3VyY2VzL2Nzcy9zaXRlL2ZyYW1lcy5vbmU/ZmxfY3cxPTk2MCZ0aWQ9MTM3OTc4JmlzYz0wJmZsX3R3PTk2MCZmbF9nYj0xMCZmbF9nZj0wJmZsX2dsPTAmdmVyPTExLjA2LjIxYSI7aToyO3M6Nzg6Imh0dHA6Ly9mYXN0MS5vbmVzaXRlLmNvbS9yZXNvdXJjZXMvY3NzL3Rvb2xiYXIvdG9vbGJhcl9iYXNpYy5jc3M/dmVyPTExLjA2LjIxYSI7aTozO3M6ODE6Imh0dHA6Ly9mYXN0MS5vbmVzaXRlLmNvbS9yZXNvdXJjZXMvY3NzL2NvbnRyb2xsZXIvbG9naW4vZGVmYXVsdC5jc3M/dmVyPTExLjA2LjIxYSI7aTo0O3M6Nzc6Imh0dHA6Ly9mYXN0MS5vbmVzaXRlLmNvbS9yZXNvdXJjZXMvY3NzL2NvbXBvbmVudHMvbXVsdGlNZW51LmNzcz92ZXI9MTEuMDYuMjFhIjt9&amp;ver=11.06.21a">
+<link rel="stylesheet" type="text/css" href="http://fast1.onesite.com/airshowbuzz.com/css/toolbar.css?ver=153">
+<link rel="stylesheet" type="text/css" href="http://fast1.onesite.com/airshowbuzz.com/css/network.css?ver=153">
+<script type="text/javascript" src="http://fast1.onesite.com/resources/scripts/jsloader.one?scripts=L2pxdWVyeS9qcXVlcnktY3VycmVudC5taW4uanMsL3V0aWxzL3JlZy5qcywvb25lc2l0ZV9jb21tb24uanMsL2NvbnRlbnRfZmxhZ2dpbmdfYWpheF9saWIuanMsL3V0aWxzL2NvcmUuanMsL3V0aWxzL21vZGFsLmpzLC95dWkvdXRpbGl0aWVzL3V0aWxpdGllcy1taW4uanMsL3l1aS9nZXQvZ2V0LW1pbi5qcywveXVpL2pzb24vanNvbi1taW4uanMsL3l1aS9jb250YWluZXIvY29udGFpbmVyLW1pbi5qcywvcHJvdG90eXBlLW1pbi5qcw==&amp;ver=11.06.21a"></script>
+<script type="text/javascript" src="http://fast1.onesite.com/resources/scripts/jsloader.one?scripts=L2NvbnRyb2xsZXIvbG9naW4vbG9naW4uanMsL3V0aWxzL2NvcmUuanMsL2NsYXNzZXMvbWVudS9NdWx0aU1lbnUuanM=&amp;ver=11.06.21a"></script>
+<link rel="stylesheet" type="text/css" href="http://fast1.onesite.com/resources/scripts/yui/carousel/assets/skins/sam/carousel.css?ver=11.06.21a">
+<script type="text/javascript" src="http://fast1.onesite.com/resources/scripts/yui/animation/animation-min.js?ver=11.06.21a"></script>
+<script type="text/javascript" src="http://fast1.onesite.com/resources/scripts/yui/element/element-min.js?ver=11.06.21a"></script>
+<script type="text/javascript" src="http://fast1.onesite.com/resources/scripts/yui/carousel/carousel-min.js?ver=11.06.21a"></script>
+<script type="text/javascript" src="http://fast1.onesite.com/resources/scripts/controller/login/login.js?ver=11.06.21a"></script>
 <script type="text/javascript">
-_qoptions={
-qacct:"p-62_2ZiiyAzUMc"
-};
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2521022-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-62_2ZiiyAzUMc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-
-
+</head>
+<body id="browse_privacypolicy" class="one_body_network">
+<div id="oneFoundation">
+<div id="oneBackgroundLayer">
+<div id="oneSiteContainer">
+<div id="oneToolbarOverlord">
+<div id="tbContainer3"><div id="tbShell3"></div></div>					<style type="text/css">
+#tbContainer3 {
+height:210px;
+}
+</style>
+<div style=" position:absolute; padding:0; margin:0; left:50%; z-index:1; width:275px; height:50px; top:95px; margin-left:205px; " class="tbHotspot" id="tb_hotspot_198528"><div id="socialLoginLink">
+<a id="socialLoginLinkLogin" href="#" onclick="oneSocialLogin.init(); return false;">
+<span>Login | Register</span>
+</a>
+</div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+//<![CDATA[
+	var oneRegistry = oneRegistry || {};
+	oneRegistry.extLoginJs  = "";
+	oneRegistry.socialDomain = "www.airshowbuzz.com";
+	oneRegistry.cookieDomain = ".airshowbuzz.com";
+	oneRegistry.callback_url = "";
+	oneRegistry.theme        = "default";
+	oneRegistry.token_url    = "";
+	oneRegistry.loginCallback = oneRegistry.loginCallback || function (action, args) {
+				return true;
+	};
+	//]]>
+</script>
+<div id="modalLoginBox" class="modalPage" style="display: none;">
+<div class="modalContainer">
+<div class="modal">
+<div class="modalTop">
+<span class="modalTitle">
+Login									</span>
+<a href="#" class="modalClose"><span>[X]</span></a>
+<div class="spreader"></div>
+</div>
+<div class="modalBody">
+<div id="multiLoginBoxPanels">
+<div id="multiLoginHelpText">
+<p>
+Login using an existing account or use an account you already have with any of the sites below!							</p>
+</div>
+<div id="onesiteLoginBox">
+<form id="osLoginForm" method="post" action="http://www.airshowbuzz.com/go/login/onesiteSignIn?no_redir=1">
+<label>
+<span>Login/Email</span>
+<input type="text" name="username">
+</label>
+<label>
+<span>Password</span>
+<input type="password" name="password">
+</label>
+<label>
+<div class="rememberMe">
+<input type="checkbox" name="remember_me" value="1">
+<span class="rememberText">Remember Me</span>
+</div>
+</label>
+<div class="spreader"></div>
+<fieldset class="submit">
+<button type="submit" name="submit" class="button oneButtonGlobal socialLogin">
+<span>Sign In</span>
+</button>
+<a href="http://www.airshowbuzz.com/help/forgot_password.one" id="forgotPassword">
+<span>forgot password?</span>
+</a>
+</fieldset>
+</form>
+<div id="loginErrorsList" style="display: none;"></div>
+<div class="socialRegisterLink">
+<span>Don't have an account?</span>
+<a id="oneSignupLink" href="http://www.airshowbuzz.com/signup">
+<span>Sign Up!</span>
+</a>
+</div>
+</div>					
+<div id="thirdPartyLoginBox" class="thirdPartyLoginSignupBox">
+<div id="lastProviderMessage" style="display: none;">
+<span>
+Welcome back,									<span id="lastProviderUsername"></span>
+</span>
+<div class="lastProviderBox">
+<a id="lastProviderLink" class="lastSigninButton" href="#">
+<span class="lastSigninIcon"></span>
+<span class="lastSigninText">
+Sign In Using											<span id="lastProviderName"></span>
+</span>
+</a>
+</div>
+<div id="moreProviders">
+<a href="#" id="moreProvidersLink">
+<span>or use another account</span>
+</a>
+</div>
+</div>
+<div id="allProviderLinks">
+<div id="multiLoginTwitterBox" class="providerLink">
+<a id="twitterSignin" href="#" onclick="oneSocialLogin.popup('twitter'); return false;">
+<span>Twitter</span>
+</a>
+</div>
+<div id="multiLoginFacebookOAuthBox" class="providerLink">
+<a id="facebookSignin" href="#" onclick="oneSocialLogin.popup('facebook'); return false;">
+<span>Facebook</span>
+</a>
+</div>
+</div>
+</div>
+<div class="spreader"></div>
+</div>
+<div id="multiLoginOpenIdFormBox" style="display: none;">
+<form method="post" id="multiLoginOpenIdForm" action="http://www.airshowbuzz.com/go/login/openIdRedirect?callback_url=">
+<fieldset>
+<legend>OpenID Login</legend>
+<input type="text" name="openid_identifier" id="multiLoginOpenIdIdentifier">
+<button type="submit" name="openid_action" value="login" class="button oneButtonGlobal openIDLogin">
+<span>Login</span>
+</button>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="modalSignupForm" class="modalPage">
+<div class="modalContainer">
+<div class="modal">
+<div class="modalTop">
+<span class="modalTitle">Login</span>
+<a href="#" class="modalClose">[X]</a>
+<div class="spreader"></div>
+</div>
+<div class="modalBody"></div>
+</div>
+</div>
+</div></div><div style=" position:absolute; padding:0; margin:0; left:50%; z-index:1; width:960px; height:60px; top:150px; margin-left:-480px; " class="tbHotspot" id="tb_hotspot_198548"><script type="text/javascript">
+YAHOO.util.Event.onContentReady("menuID_1398", oneMultiMenu.init, "menuID_1398");
+</script>
+<ul class="TopNavMenu DynamicMenu" id="menuID_1398">
+<li id="itemID_15798" class="menuColumn menuColumnFirst  menuItemName_Home ">
+<a href="http://www.airshowbuzz.com">
+<span class="menuItemTitle">Home</span>
+</a>
+</li>
+<li id="itemID_15818" class="menuColumn   menuItemName_Photos ">
+<a href="http://www.airshowbuzz.com/go/browse/photos">
+<span class="menuItemTitle">Photos</span>
+</a>
+</li>
+<li id="itemID_15808" class="menuColumn   menuItemName_Videos ">
+<a href="http://www.airshowbuzz.com/go/video/gallery?view=MostRecent">
+<span class="menuItemTitle">Videos</span>
+</a>
+</li>
+<li id="itemID_15828" class="menuColumn   menuItemName_AirShows ">
+<a href="http://www.airshowbuzz.com/go/calendar/view">
+<span class="menuItemTitle">Air Shows</span>
+</a>
+</li>
+<li id="itemID_15838" class="menuColumn   menuItemName_Blogs ">
+<a href="http://www.airshowbuzz.com/go/browse/blogs">
+<span class="menuItemTitle">Blogs</span>
+</a>
+</li>
+<li id="itemID_15848" class="menuColumn   menuItemName_Groups ">
+<a href="http://www.airshowbuzz.com/go/browse/groups">
+<span class="menuItemTitle">Groups</span>
+</a>
+</li>
+<li id="itemID_25949" class="menuColumn   hasSub menuItemName_Forums ">
+<a href="http://www.airshowbuzz.com/go/forum/viewboard">
+<span class="menuItemTitle">Forums</span>
+</a>
+<ul class="subMenu" style="display:none;">
+<li id="itemID_25959" class="submenuItem menuItemName_RecentPosts">
+<a href="http://www.airshowbuzz.com/go/forum/recent">
+<span>Recent Posts</span>
+</a>
+</li>
+<li id="itemID_25969" class="submenuItem menuItemName_ForumLandingPage">
+<a href="http://www.airshowbuzz.com/go/forum/landing">
+<span>Forum Landing Page</span>
+</a>
+</li>
+</ul>
+</li>
+<li id="itemID_15858" class="menuColumn  menuColumnLast menuItemName_Store ">
+<a href="http://sportys.com/asbstore/" target="_blank">
+<span class="menuItemTitle">Store</span>
+</a>
+</li>
+</ul>
+<div class="spreader"></div></div><div style=" position:absolute; padding:0; margin:0; left:50%; z-index:1; width:315px; height:145px; top:5px; margin-left:-480px; " class="tbHotspot" id="tb_hotspot_198558"><div id="siteLogo"><a href="http://www.airshowbuzz.com" style="display:block;width:100%;height:100%;"></a></div></div><div style=" position:absolute; padding:0; margin:0; left:50%; z-index:3; width:208px; height:49px; top:150px; margin-left:272px; " class="tbHotspot" id="tb_hotspot_198718"><form method="GET" action="/go/network/search" name="group_search_form" id="group_search_form">
+<div class="search-fields">
+<div class="search-basic">
+<input type="text" class="search-terms" value="" id="netTerms" name="terms"> <button class="b_search_go" type="submit"><span>Search</span></button>
+<input type="hidden" value="" name="type">
+</div>
+</div>
+</form></div>
+</div>
+<div id="onePostHeader">
+</div>
+<div id="oneHeaderContents">
+</div>
+<div id="onePageContainer" class="onePageGoBrowse">
+<div id="oneSubPageContainer">
+<table id="templateTable137978" class="templateTable templateTableLen1 templateParent" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" id="tem137978-col1" class="col col1 colParent1 colFirst colLast">
+<div class="column">
+<div class="columnContent columnContentParent">
+<div class="module mod_custom_html  ">
+<div class="container">
+<div class="modBody">
+<div class="modBodyContent">
+<ul class="mainUl">
+<h1>Privacy Policy</h1>
+<p align="justify"><strong>We know people rarely read the fine  print, but we thought we’d post it anyway. Without breaking out your  magnifying glass, we’ll zealously guard your personal information and  we’ll never compromise your integrity, or ours. </strong></p>
+<p align="justify"><strong>Last Updated: 11.7.08</strong></p>
+<p align="justify"><strong>1. Policy</strong></p>
+<p align="justify">Airshowbuzz, LLC ("ASB") has created this privacy policy (the  “Policy”) to explain our privacy practices so that you will understand  when and how personal information is collected, used, disclosed and  protected with respect to this website (the "Site"). ASB respects the  privacy of its users, and this Policy explains what information we  collect on our Site and how we use such information. Please read this  Policy carefully. In addition, please review the <a target="_blank" href="http://www.airshowbuzz.com/rules.php">Rules of Engagement</a>  posted at the Site, which governs your use of the Site. Your use of our  Site indicates to us that you have read and accepted our privacy  practices, as outlined in this Policy.</p>
+<p align="justify"><strong>2. Applicability</strong></p>
+<p align="justify">Please note that this Policy only applies to this Site and any other  site owned and/or operated by or for ASB upon which ASB has placed a  "link" which, when "clicked," transfers you to this Policy. This Policy  only covers information collected at this Site, and does not cover any  information collected by any other site unless otherwise specifically  stated or disclosed by ASB.</p>
+<p align="justify"><strong>3. Information ASB Collects</strong></p>
+<p align="justify">(a) Personally Identifiable Information: Personal Information is  information that could reasonably be used to identify you personally  (such as your first and last name, gender, phone number, address, birth  date, e-mail address, and, if applicable, your credit card  information), which we refer to in this Policy as "PI." Generally, you  may browse our Site without providing us with PI. However, there may be  times when we ask you to provide us with certain PI, such as when you  choose to register with our Site; post a photo, video, or message; or  participate in e-commerce, interactive, or promotional activities. You  can change or update your PI by changing your account information. We  may also ask you to provide us with demographic information or  information regarding your interests, hobbies or similar information to  enhance your experience. ASB reserves the right, at any time, to add  features to our Site that require you to register or otherwise provide  additional PI. You can choose not to provide certain information, but  then you may not be able to take advantage of or participate in some of  the Site's features. The PI you submit will be used to carry out your  requests, respond to your inquiries, and to notify you (if applicable)  regarding any promotions or e-commerce activities. Your PI may also be  used by us and any parent, subsidiary, affiliate, joint venturer,  sponsor and/or partner of ASB (collectively, “Affiliated Third  Parties”) to provide you with additional services. You may always  direct us by “opting-out” at the point where we ask for PI, and we will  not share or use PI in order to provide you with additional services.  However, if you do not want us to share this information, we may not be  able to provide you with the additional services. In such case, please  use our unsubscribe page and we will not share such information. We  will not share PI with entities that are not Affiliated Third Parties  unless you give us express permission to do so by opting-in at the  point where we ask for PI. ASB does not sell, rent or share PI  collected with other people other than that specifically outlined  herein.</p>
+<p align="justify">(b) This is not a Site directed to children under the age of 13 and  ASB does not knowingly collect any information from children under 13  years of age at the Site. <strong>If you are  under 13 years of age, do not send any information about yourself to ASB.</strong> If you are under 13 years of age, please do not use the ASB Site—there  are lots of other great websites for you. Talk to your parents about  what sites are appropriate for you.&nbsp; If ASB learns that a child under  the age of 13 has provided the Site with PI, ASB will delete that  child's PI from its system.</p>
+<p align="justify">(c) Anonymous Information: When you visit the Site, our web servers  automatically collect Site usage information. Site usage information is  anonymous information that describes how our visitors use and navigate  our Site, and it includes the number and frequency of visitors to each  web page, and the length of their stays. ASB collects the anonymous  information automatically sent to us by your web browser, such as  browser type, referrer data that identifies the web page visited prior  and subsequent to visiting our Site, and IP address. We may also  determine what technology is available through your browser in order to  present you the most appropriate version of a web page (i.e. Flash or  HTML).</p>
+<p align="justify">(d) IP Addresses: When visitors request pages from our Site, our  servers log the visitor's IP address. We may collect IP addresses for a  variety of internal purposes, such as system administration, to report  aggregate information to our business partners or to audit the number  of visits to different pages, photos viewed or videos watched on our  Site.</p>
+<p align="justify">(e) Cookies: Cookies are small text files placed on your hard drive  by a website when you visit. These files identify your computer and  record your preferences and other data about your visit so that when  you return to the Site, the Site knows who you are and can personalize  your visit. In general, we use cookies to collect information so that  we can determine how to improve the Site by seeing which areas,  features and products are most popular, to personalize the Site and  improve the Site experience. Most browsers automatically accept cookies  as the default setting. You can modify the setting to reject cookies or  to prompt you before accepting a cookie from the sites you visit by  editing browser options. If you decide not to accept our cookies, you  will still be able to access those parts of our Site available to the  general public but you may not be able to use some of the Site’s  features or services and you may have a less satisfactory experience.&nbsp; <br>
+We do not store any PI in cookies, but we may link the cookie to any  information we collect. You may occasionally get cookies from our  advertisers, which is standard in the Internet industry. We do not  control these cookies, and these cookies are not subject to our privacy  policy. Visitors to our Site should check the privacy policy of the  advertiser to see whether and how it uses cookies. You can disable  cookies on your computer by indicating this in the preferences or  options menus in your browser. However, it is possible that some parts  of the Site will not operate correctly if you disable cookies. You  should consult with your browser's provider/manufacturer if you have  any questions regarding disabling cookies.</p>
+<p align="justify"><strong>4. ASB Use and Disclosure of Collected Information</strong></p>
+<p align="justify">(a) ASB: ASB may use your PI to provide the information or content  you have requested. We may also use your PI to contact you regarding  your use of our Site or changes to our Policy or other policy or terms  that affect you and your use of our Site. If you e-mail someone else a  video, photo or other special feature from our Site, we may use the  information you provide about someone else to send that person the  requested e-mail. ASB may use information collected about our users to  improve the Site’s content, design, navigation, or for other internal  purposes such as analyzing aggregate traffic patterns and other trends.</p>
+<p align="justify">(b) Third parties providing services on our behalf: ASB may employ  other trusted companies and individuals to perform functions on our  behalf. Examples may include: </p>
+<p align="justify"><span style="padding-left: 20px;"></span>(i) Third parties involved in analyzing data, providing  marketing assistance and providing customer service: These third  parties may have access to our users' PI in order to provide these  services to us on our behalf solely for such purposes.&nbsp; However, they  are not permitted to use PI for any other purpose. </p>
+<p align="justify"><span style="padding-left: 20px;"></span>(ii) Third party providers of products and services:&nbsp; We may disclose  PI to third parties so they can inform you about their products or  services. If you do not wish to receive these types of third party  communications, you can click <a target="_blank" href="http://www.airshowbuzz.com/contact.php">here</a> and complete a form to tell us your  preferences. While you may choose not to receive direct marketing  information from third parties, you will continue to receive marketing,  promotional, and other information from ASB.</p>
+<p align="justify">(c) Other Third Parties: ASB does not rent, sell or otherwise  disclose your PI to third parties unless disclosed herein, or at the  time such information is collected, or unless you otherwise give  consent, other than in the following limited circumstances:</p>
+<p align="justify"><span style="padding-left: 20px;"></span>(i) Legal Action: ASB may disclose information about its users,  including PI, when legally required to do so, for example at the  request of governmental authorities conducting an investigation, to  verify or enforce compliance with the policies governing our Site and  applicable laws, or to protest against misuse or unauthorized use of  our Site. ASB may also disclose user information whenever we believe  disclosure is necessary to limit our legal liability, to protect or  defend our rights or property or protect the safety, rights or property  of our users; </p>
+<p align="justify"><span style="padding-left: 20px;"></span>(ii) Corporate Change: ASB may sell, transfer or otherwise disclose  user information, including PI, to a successor entity in connection  with a corporate merger, consolidation, the sale of all or  substantially all assets, or other fundamental corporate change  respecting ASB and/or the Site.</p>
+<p align="justify"><strong>5. Third Party Websites</strong></p>
+<p align="justify">Please be aware that we provide links to third party websites from  the Site as a service to our guests and we are not responsible for the  content, information collection, privacy policies or other use  practices of those sites. Please also note that these websites' privacy  policies will differ from those of ASB. Therefore, we encourage you to  review and understand their privacy practices before providing them  with information.</p>
+<p align="justify"><strong>6. Security&nbsp; </strong></p>
+<p align="justify">ASB takes reasonable measures to secure the data you submit to us  from loss, misuse, alteration or destruction, including limiting the  number of people who have physical access to our user data. When  possible, we will ask any third parties to whom we may transfer such  information to take comparable measures. Unfortunately, no data  transmission over the Internet can be guaranteed to be 100% secure.  Therefore, ASB cannot and does not ensure or warrant the security of  any information you transmit to ASB, and you do so at your own risk.</p>
+<p align="justify"><strong>7. Consent to Transfer</strong></p>
+<p align="justify">The Site is operated in the United States. If you are located in the  European Union or elsewhere outside of the United States, please be  aware that any information you provide to us will be transferred to the  United States. By using our Site, participating in any of our services  and/or providing us with your information, you consent to this transfer.</p>
+<p align="justify"><strong>8. Acceptance/Changes to Policy</strong></p>
+<p align="justify">By using the Site, you agree to the terms of this Policy. ASB  reserves the right to modify, alter or otherwise update this Policy at  any time in its sole discretion. We will post any changes here, so be  sure to check back from time to time. We will only use the PI you  provide to the Site in a manner consistent with our current Policy,  unless you give us your consent.</p>
+<p align="justify"><strong>9. Contact Us</strong></p>
+<p align="justify">If you have any questions, comments or concerns about our Policy,  please contact us at <a title="info@asb.tv" href="mailto:info@asb.tv">info@asb.tv</a>. Or you can send us mail to: 
+<br><br><a href="http://www.asb.tv">ASB.TV</a><br>3528 HAYDEN AVE<br>SUITE P-51<br>CULVER CITY, CA 90232.</p>
+<p align="justify">We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <a title="opt out" href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+</ul>
+<div class="moduleFooter">
+</div>
+<div class="spreader"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+<div class="spreader"></div>
+</div>
+</div>
+<div id="onePreFooter">
+</div>
+<div id="custom-network-footer">
+<div id="custom-network-footer-inner">
+<div class="columns">
+<table width="100%" border="0" cellpadding="0">
+<tbody><tr>
+<td width="13%"><a href="mailto:info@airshowbuzz.com">Contact Us</a></td>
+<td width="12%"><a href="http://www.airshowbuzz.com/go/browse/aboutUs">About Us</a></td>
+<td width="12%"><a href="http://www.airshowbuzz.com/go/browse/advertise">Advertise</a></td>
+<td width="17%"><a href="http://www.airshowbuzz.com/go/browse/roe">Rules of Engagement</a></td>
+<td width="13%"><a href="http://www.airshowbuzz.com/go/browse/privacyPolicy">Privacy Policy</a></td>
+<td width="12%"><a href="http://www.airshowbuzz.com/go/article/category">Archives</a></td>
+<td width="13%"><a href="mailto:info@airshowbuzz.com">Newsletter</a></td>
+<td width="8%"><a href="http://www.airshowbuzz.com/go/network/faq">FAQ</a></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="asbHearbeat hideMe">
+<div class="module mod_heartbeat  ">
+<div class="container">
+<div class="modBody">
+<div class="modBodyContent">
+<ul class="mainUl">
+<link rel="stylesheet" type="text/css" href="http://fast1.onesite.com/resources/css/modules/heartbeat.css?ver=11.06.21a">
+<div class="heartbeatDisplayContainer">
+<div class="heartbeatOnlineTotals">
+<span>Online now :: 1 registered and 9 guests<span>
+</span></span></div>
+<div class="heartbeatOnlineUserListing">
+<span>
+<a href="http://www.airshowbuzz.com/go/forum/viewers?key=viewboard_100884721" class="heartbeatOnlineUserListingViewersLink">Registered users online now:</a>
+<a href="http://www.airshowbuzz.com/gmolitor" title="phantomphlyer" class="heartbeatOnlineUserListingViewer">phantomphlyer</a>												</span>
+</div>
+</div>
+</ul>
+<div class="moduleFooter">
+</div>
+<div class="spreader"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
 <script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-2521022-1"); pageTracker._setDomainName(".asb.tv"); pageTracker._trackPageview(); } catch(err) {}</script>
-<script type="text/javascript" src="/gaAddons.js"></script>
 
+var searchBox = document.getElementById('netTerms');
 
-</body></html>
+if (searchBox) {
+	searchBox.value = "Search Airshowbuzz...";
+	searchBox.onclick = function() 
+	{
+		if (this.value == "Search Airshowbuzz...") {
+			this.value = "";
+		}
+	};
+}
+
+</script></div></div></div></body></html>
