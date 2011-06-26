@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rssmotron.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229225957id_/http%3A//www.rssmotron.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssmotron.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626021630id_/http%3A//www.rssmotron.com/privacy.php) for the most accurate reproduction.*
 
 # RSSMotron - RSS Directory
 
-[ ](http://www.tkqlhce.com/click-1890659-10588279) [Home](https://web.archive.org/) | [Feed Submission](https://web.archive.org/feed_submission.php)
+[ ](http://www.tkqlhce.com/click-1890659-10588279) [Home](https://web.archive.org/) | [Feed Submission](https://web.archive.org/feed_submission.php) | [My Account](https://web.archive.org/account.php)
 
 Motron Privacy Policy
 
