@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the rider.edu privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022050711id_/http%3A//www.rider.edu/1327.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rider.edu privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626190337id_/http%3A//www.rider.edu/privacy-policy) for the most accurate reproduction.*
 
-# Rider University - Privacy Policy
+# Privacy Policy | Rider University
 
-Privacy Policy
+### Rider University is committed to protecting your privacy.
 
-#### Web Site Privacy Policy
-
-Rider University is committed to protecting your privacy.
-
-The Rider.edu Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited.
+The [Rider.edu](https://web.archive.org/) Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited.
 
 **Data Collection and Use of Cookies**
 
