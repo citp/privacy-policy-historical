@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226153514id_/http%3A//www.yummly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627002809id_/http%3A//www.yummly.com/privacy) for the most accurate reproduction.*
 
-# Yummly | About | Privacy Policy
+# Privacy Policy | Yummly
 
 Yummly provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the Yummly website (this “ **Site** ”) and the Yummly application (the “ ** _Application_** ”) (collectively the “ ** _Services_** ”).  This Privacy Policy applies only to information that you provide to us through the Services.  This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the Site.  You are advised to consult this policy regularly for any changes.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](http://http//blog.yummly.com/blog/terms/ "Terms of Service").
 
@@ -56,6 +56,6 @@ This Site is not directed to children under 13.  We do not knowingly collect pe
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at privacy@yummly.com or at:   2317 Broadway Street, Suite 360, Redwood City, CA 94063.
+If you have any questions about this Privacy Policy, please contact us at privacy@yummly.com or at:   165 University Avenue, Suite 5, Palo Alto, CA 94301.
 
 Effective April 16, 2010
