@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224223352id_/http%3A//www.gifts.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626083752id_/http%3A//www.gifts.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Gifts.com - The easy way to find great gifts
 
