@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the markettools.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126103829id_/http%3A//markettools.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettools.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626051526id_/http%3A//www.markettools.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarketTools, Inc.
 
 **[](http://www.truste.org/ivalidate.php?url=www.markettools.com&sealid=102)Website Privacy Statement**
 
-In this Web Site Privacy Statement ("statement"), we, MarketTools, Inc., headquartered in San Francisco, California, USA provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor to web sites that we operate (collectively the "site"). The TRUSTe portions of this policy are applicable to ztelligence.com, zoomerang.com, zoompanel.com, and markettools.com only.
+In this Web Site Privacy Statement ("statement"), we, MarketTools, Inc., headquartered in San Francisco, California, USA provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor to web sites that we operate (collectively the "site"). The TRUSTe portions of this policy are applicable to ztelligence.com, zoomerang.com, zoompanel.com, customersat.com, truesample.net, and markettools.com only.
 
 **Scope**  
 This statement covers only data collected through the site. This statement does not cover any other data collection or processing, including, without limitation, data collection practices of other web pages to which we link or data processing practices of users of our service (e.g., users of our Zoomerang service). When we refer to this statement in notices and consent requests related to surveys, special-purpose web pages or otherwise, this statement applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection).
 
-We comply with the EU Safe Harbor Certification framework as set forth by the US Department of Commerce that covers personal data collected from or about persons in the European Economic Area as further explained in our General EEA Safe Harbor Notice [www.markettools.com/safeharbor/](http://www.markettools.com/safeharbor/).
+MarketTools complies with the EU Safe Harbor Certification framework as set forth by the US Department of Commerce that covers personal data collected from or about persons in the European Economic Area.   For more information on the EU Safe Harbor Framework, please visit <http://www.export.gov/safeharbor/>.
 
 **Types of Data and Collection Methods**  
 Through the site, we receive data that you actively submit as well as data that we track:
@@ -31,7 +31,7 @@ We collect primarily for two purposes: Firstly, for the purpose for which you or
 We are not in the business of selling or renting your information to telemarketers and do not share your personally identifiable information with others, except as follows:
 
   * We may share your information with affiliated companies for reward redemption and/or other market research opportunities.
-  * If you use any of our services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us, we may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination.
+  * If you use any of our services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us or is considering an enterprise account, we may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination.
   * We also engage agents and service providers who have access to data, but only to process such data on our behalf and for our purposes under confidentiality agreements.
   * We may share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings.
   * We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
