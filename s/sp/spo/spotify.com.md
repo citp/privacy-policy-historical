@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the spotify.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224135300id_/http%3A//www.spotify.com/int/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotify.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626030118id_/http%3A//www.spotify.com/int/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Spotify
 
-Effective as from 18 May 2010.
+Effective as from 1 June 2011.
 
-Spotify Limited, a company registered in the UK under number 06436047 ( **“Spotify** ”, **“we”** or **“us”)** wish to bring you the best music service available. To be able to do this, and to offer you products and services available on the Spotify websites at[ http://www.spotify.com/](http://www.spotify.com/) and other Spotify branded URLs ( **the ”Spotify Websites”** ). Spotify will request some information from you and automatically collect information about your use of the Spotify Software Application, the Spotify Service (both as defined in the Spotify Terms and Conditions of Use). Further, Spotify will request information from other third party services if such services are activated via Spotify. This policy (the “ **Spotify Privacy Policy** ”) describes what personal information we may collect from you and what we will and will not do with that information.
+Spotify Limited, a company registered in the UK under number 06436047 (“ **Spotify** ”, “ **we** ” or “ **us** ”) wish to bring you the best music service available. To be able to do this, and to offer you products and services available on the Spotify websites at [http://www.spotify.com/](https://web.archive.org/int/) and other Spotify branded URLs (the “ **Spotify Websites** ”). Spotify will request some information from you and automatically collect information about your use of the Spotify Software Application, the Spotify Service (both as defined in the Spotify Terms and Conditions of Use). Further, Spotify will request information from other third party services if such services are activated via Spotify. This policy (the “ **Spotify Privacy Policy** ”) describes what personal information we may collect from you and what we will and will not do with that information.
 
 ## 1\. How we collect and use personal information
 
-When you sign up for a Spotify account or purchase Spotify’s products and services available on the [Spotify web page](http://www.spotify.com/), we may ask you for certain personal information such as email address, postal address, age, gender and residence. In addition, when you use the Spotify Software Application, Spotify Service and Spotify Websites, we will automatically receive information about your use of the application, service and website including personal information such as media that you access, queries you make, date and time of your request, your Internet protocol address, performance of your network and computer, your browser type, language and identifying information, your operating system and application version.
+When you sign up for a Spotify account or purchase Spotify’s products and services available on the [Spotify web page](https://web.archive.org/int/), we may ask you for certain personal information such as email address, postal address, age, gender and residence. In addition, when you use the Spotify Software Application, Spotify Service and Spotify Websites, we will automatically receive information about your use of the application, service and website including personal information such as media that you access, queries you make, date and time of your request, your Internet protocol address, performance of your network and computer, your browser type, language and identifying information, your operating system and application version.
 
-Further, if you activate Spotify Social (as defined in the [Spotify Terms and Conditions of Use](http://www.spotify.com/legal/end-user-agreement/)), we will receive and store your Facebook user name.
+Further, if you activate Spotify Social (as defined in the [Spotify Terms and Conditions of Use](https://web.archive.org/int/legal/end-user-agreement/)), we will receive and store your Facebook user name.
 
-We will use your personal information (i) to provide the products and services that you have purchased or requested (including the display of customized content and advertising), (ii) to communicate with you concerning your account and customer service issues. (iii) to personalize and improve the Spotify Software Application, the Spotify Service and the Spotify Websites, (iv) to ensure the technical functioning of our products and services, (v) to develop new products and services, and (vi) to protect the copyright-protected content of the Spotify Service (e.g. by limiting access to the Spotify Service content to users with a Spotify account).
+We will use your personal information (i) to provide the products and services that you have purchased or requested (including the display of customized content and advertising), (ii) to communicate with you concerning your account and customer service issues, (iii) to personalize and improve the Spotify Software Application, the Spotify Service and the Spotify Websites, (iv) to ensure the technical functioning of our products and services, (v) to develop new products and services, and (vi) to protect the copyright-protected content of the Spotify Service (e.g. by limiting access to the Spotify Service content to users with a Spotify account).
 
 If you have activated Spotify Social, we will share your Facebook user name and your Facebook profile picture to other Spotify users connected to Spotify Social. Further, the default setting is that all your playlists (including created playlists, starred music and top lists) are visible for other Spotify users connected to Spotify Social. If you do not wish for such use of your personal data taking place, you should not activate Spotify Social or adjust your Spotify Social settings.
 
 ## 2\. Sharing information with others
 
-Unless you give us your explicit approval in advance we will only share your personal information as is necessary to: 
+Unless you give us your explicit approval in advance we will only share your personal information, including with Spotify affiliates (being other companies controlled by or under common control with us) as is necessary to:
 
   1. Provide you with the products or services that you have purchased or requested.
-  2. Enforce the terms and conditions of the [Spotify Terms and Conditions of Use](http://www.spotify.com/legal/end-user-agreement/), the [Mobile Terms](http://www.spotify.com/legal/mobile-terms/) (as defined in the [Spotify Terms and Conditions of Use](http://www.spotify.com/legal/end-user-agreement/)) and the [Premium Code Terms](http://www.spotify.com/legal/premium-code-terms-and-conditions/).
+  2. Enforce the terms and conditions of the [Spotify Terms and Conditions of Use](https://web.archive.org/int/legal/end-user-agreement/), the [Mobile Terms](https://web.archive.org/int/legal/mobile-terms/) (as defined in the [Spotify Terms and Conditions of Use](https://web.archive.org/int/legal/end-user-agreement/)), the [Premium Code Terms](https://web.archive.org/int/legal/premium-code-terms-and-conditions/) and the [Unlimited Code Terms](https://web.archive.org/int/legal/unlimited-code-terms-and-conditions/).
   3. Comply with laws and regulations or respond to litigation.
   4. Allow for a change of ownership of Spotify (including but not limited to an acquisition by or merger with another company) and related transfer of all personal information to the new owner in which case any information remains protected in accordance with this Spotify Privacy Policy.
   5. Allow advertising audits and analysis measuring the size and composition of the group of users that have listened to and/or viewed an advertisement or other promotional information.
@@ -58,21 +58,16 @@ Please note that by deleting our cookies or disabling future cookies you may not
 
 ## 8\. Changes to this Spotify Privacy Policy
 
-Spotify reserves the right to make changes to this Spotify Privacy Policy. If we make any material changes to this policy we will notify you by posting the new version of the policy on the [Spotify Websites](http://www.spotify.com/). It is your own responsibility to check the website for such postings from time to time.
+Spotify reserves the right to make changes to this Spotify Privacy Policy. If we make any material changes to this policy we will notify you by posting the new version of the policy on the [Spotify Websites](https://web.archive.org/int/). It is your own responsibility to check the website for such postings from time to time.
 
-Please note that by accepting the [Spotify Terms and Conditions of Use](http://www.spotify.com/legal/end-user-agreement/), the [Mobile Terms](http://www.spotify.com/legal/mobile-terms/) and the [Premium Code Terms](http://www.spotify.com/legal/premium-code-terms-and-conditions/) or by using the Spotify Software Application, the Spotify Service or the Spotify Websites, you consent to the collection and processing of your personal information as described in this Spotify Privacy Policy. As mentioned above, we will notify you if we make any material changes to this Spotify Privacy Policy by posting the new version of the policy on the [Spotify Websites](http://www.spotify.com/). Your continued use of the Spotify Software Application, the Spotify Service or the Spotify Websites following the posting of changes to this Spotify Privacy Policy will constitute an acceptance of such changes.
+Please note that by accepting the [Spotify Terms and Conditions of Use](https://web.archive.org/int/legal/end-user-agreement/), the [Mobile Terms](https://web.archive.org/int/legal/mobile-terms/), the [Premium Code Terms](https://web.archive.org/int/legal/premium-code-terms-and-conditions/) and the [Unlimited Code Terms](https://web.archive.org/int/legal/unlimited-code-terms-and-conditions/), or by using the Spotify Software Application, the Spotify Service or the Spotify Websites, you consent to the collection and processing of your personal information as described in this Spotify Privacy Policy. As mentioned above, we will notify you if we make any material changes to this Spotify Privacy Policy by posting the new version of the policy on the [Spotify Websites](https://web.archive.org/int/). Your continued use of the Spotify Software Application, the Spotify Service or the Spotify Websites following the posting of changes to this Spotify Privacy Policy will constitute an acceptance of such changes.
 
-If you have any concerns, questions or thoughts on how we can improve our privacy policy, please let us know by sending an email to [legal-feedback@spotify.com](mailto:legal-feedback@spotify.com).   
-
+If you have any concerns, questions or thoughts on how we can improve our privacy policy, please let us know by sending an email to [legal-feedback@spotify.com](mailto:legal-feedback@spotify.com).
 
 ## 9\. English version prevails
 
 In the event that this Spotify Privacy Policy is translated into other languages and there is a discrepancy between the two language versions, the English language version shall prevail to the extent that such discrepancy is the result of an error in translation.
 
-Copyright © 2008-2010 Spotify Limited. All rights reserved.
+Copyright © 2008-2011 Spotify Limited. All rights reserved.
 
-Spotify Limited  
-Golden House  
-30 Great Pulteney Street  
-London W1F 9NN  
-United Kingdom
+Spotify Limited, Golden House, 30 Great Pulteney Street, London W1F 9NN, United Kingdom
