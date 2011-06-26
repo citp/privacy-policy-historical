@@ -1,24 +1,34 @@
-> *The following text is extracted and transformed from the myinstant.biz privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505190058id_/http%3A//myinstant.biz/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinstant.biz privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626095111id_/http%3A//myinstant.biz/privacy.php) for the most accurate reproduction.*
 
-# My Instant Biz Privacy Policy
+# My Instant Biz
 
-My Instant Biz is committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our clients, and end-users. 
+My Instant Biz Privacy Policy
 
-Type of Information Collected  
-My Instant Biz is a site offering information and products. We also offer sponsored software and products. Many offers are sponsored by one of our advertisers. When you click on an advertisers link, you will go to their website. If you are not on My Instant Biz, you will have to view the privacy statement on the site you are redirected to.
+  
+Welcome to My Instant Biz (the "Site"). 
 
-My Instant Biz does not collect any information from it's visitors with the exception of information sent by the visitor in an email or online form. All member information will be held in the strictest of confidence. Your name or contact information will not be revealed to any third parties without your prior permission.
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by My Instant Biz (collectively, "Services") ("Authorized Customers"). 
 
-By submitting your information on any of our forms, we have permission to contact you via electronic mail regarding information, savings, or special offers that relate directly to the information provided on this site. Applicant may opt-out at any time. 
+"Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
 
-Notification Of Changes  
-In the event that there is a change in the privacy practices of My Instant Biz, all members of My Instant Biz will be contacted via the e-mail address on record. If this e-mail address is not valid, a written notice will be sent to the street address on record, if available. 
+What Personally Identifiable Information is collected? We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
 
-Contact Information  
-My Instant Biz, abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to   
-admin @ MyInstant .biz, or you can write:
+How does the Site use Personally Identifiable Information? We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
-My Instant Biz  
-N2772 State Rd 73  
-Wautoma, WI 54982  
-Attn: Margaret Albright
+Your referrer will have access to your email address to help you with your business. 
+
+How is Personally Identifiable Information stored? Personally Identifiable Information collected by My Instant Biz is securely stored and is not accessible to third parties. 
+
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at myinstantbiz@gmail.com 
+
+Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
+
+How does My Instant Biz use login information? My Instant Biz uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+
+How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at myinstantbiz@gmail.com 
+
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting myinstantbiz@gmail.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+
+What happens if the Privacy Policy Changes? We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+
+Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
