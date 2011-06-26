@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the tie-a-tie.net privacy policy that was archived on 2010-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128195342id_/http%3A//www.tie-a-tie.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tie-a-tie.net privacy policy that was archived on 2011-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626061626id_/http%3A//www.tie-a-tie.net/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Tie-a-Tie.net | Privacy Policy</title>
 	<meta name="description" content="Privacy Policy of Tie-a-Tie.net">
 	<meta name="keywords" content="tie a tie, privacy, policy">
@@ -9,161 +10,200 @@
 	<meta name="robots" content="index, follow, all">
 	<link rel="shortcut icon" href="favicon.ico">
 	<link href="lib/ttnet.css" rel="stylesheet" type="text/css">
-	<!-- Google Website Optimizer Control Script -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
-	function utmx_section(){}function utmx(){}
-	(function(){var k='0669946430',d=document,l=d.location,c=d.cookie;function f(n){
-	if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return c.substring(i+n.
-	length+1,j<0?c.length:j)}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
-	d.write('<sc'+'ript src="'+
-	'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
-	+'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
-	+new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-	'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-	</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=0669946430&amp;utmx=&amp;utmxx=&amp;utmxtime=1582132712490" type="text/javascript" charset="utf-8"></script>
-	<!-- End of Google Website Optimizer Control Script -->
-	<script type="text/javascript">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-1930584-3']);
+	  _gaq.push(['_setAccount', 'UA-3460408-10']);
 	  _gaq.push(['_trackPageview']);
 	  (function() {
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
+	  
+		function capitalizeMe(obj) {
+	        val = obj.value;
+	        newVal = '';
+	        val = val.split(' ');
+	        for(var c=0; c < val.length; c++) {
+	                newVal += val[c].substring(0,1).toUpperCase() +
+		val[c].substring(1,val[c].length) + ' ';
+				}
+				obj.value = newVal;
+		}
+		
+		function CheckUp(){
+			  
+		   required1 = false;
+		   required2 = false;
+		   required3 = false;
+		   required4 = false;
+		   
+		   var msg="Please fill in the following fields to submit feedback to Tie-a-Tie.net:\n\n";
+		   
+		   if(document.feedback.feedback_name.value == ""){msg = msg + "- Your first name\n"}
+		   else{required1=true}
+		
+		   if(document.feedback.feedback_email.value == ""){msg = msg + "- Your primary eMail address\n"}
+		   else{required2=true}
+		
+		   if(document.feedback.feedback_subject.value == ""){msg = msg + "- Your message subject\n"}
+		   else{required3=true}
+		
+		   if(document.feedback.feedback_message.value == ""){msg = msg + "- Your message\n"}
+		   else{required4=true}
+
+		   msg = msg + "\nThank you!"
+			   
+		   if(required1==true && required2==true && required3==true && required4==true){document.feedback.submit()}
+		   else{alert(msg);return false;}
+		   }
 	</script>	
 </head>
 
-<body topmargin="0" bottommargin="0" rightmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#DFEFFF">
+<body>
+<div id="wrapper">
+	
+	<a id="logo" href="http://www.tie-a-tie.net"><img src="images/logo.png" width="292" height="47" border="0" alt="Tie a Tie"></a>
 
-<table bgcolor="#ffffff" width="726" cellspacing="0" cellpadding="0" border="0" align="left" valign="top">
-	<tbody><tr>
-		<td width="159" bgcolor="#AFD0FF" background="images/navback.png" valign="top">
-			<a href="http://www.tie-a-tie.net"><img src="images/logo.png" width="159" height="152" border="0" alt="Tie a Tie"></a><br><br>
+	<table cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td valign="top">
+				<p class="nav">
+					<a class="top begin" href="/" title="Home">How to Tie a Tie</a>
+					
+					<a href="/fourinhand.html" title="Four in Hand Knot">Four in Hand Knot</a>
+					<a href="/halfwindsor.html" title="Half Windsor Knot">Half Windsor Knot</a>
+					<a href="/windsor.html" title="Windsor Knot">Windsor Knot</a>
+					<a href="/pratt.html" title="Pratt Knot">Pratt Knot</a>
+					<a href="/bowtie.html" title="Bow Tie Knot">Bow Tie Knot</a>
+					<a href="/video.html" title="Tie Knot Video">Tie Knot Video</a>
+					
+					<span class="begin">Other Tie Resources</span>
+					
+					<a href="/blog" title="Tie-a-Tie.net Blog">Tie-a-Tie.net Blog</a>
+					<a href="/tips.html" title="Tie Tips &amp; Tricks">Tie Tips &amp; Tricks</a>
+					<a href="/length.html" title="Necktie Length">Necktie Length</a>
+					<a href="/extralongties.html" title="Extra-Long Ties Calculator">Tie Length Calculator</a>
+					<a href="/accessories.html" title="Necktie Accessories">Necktie Accessories</a>
+					<a href="/neckties.html" title="Buy Neckties Online">Buy Neckties Online</a>
+					
+					<span class="begin">Dress Codes &amp; Ties</span>
+					
+					<a href="/dress.html" title="Job Interview Dress">Job Interview Dress</a>
+					<a href="/black-tie-guide.html" title="Black Tie">Black Tie</a>
+				</p>
+			</td>
 			
-			<p class="nav">
-			<a href="http://www.tie-a-tie.net" title="Home">Home</a><br class="navbr"><br class="navbr"><br class="navbr">
-			<a href="fourinhand.html" title="Four in Hand Knot">Four in Hand Knot</a><br class="navbr"><br class="navbr">
-			<a href="halfwindsor.html" title="Half Windsor Knot">Half Windsor Knot</a><br class="navbr"><br class="navbr">
-			<a href="windsor.html" title="Windsor Knot">Windsor Knot</a><br class="navbr"><br class="navbr">
-			<a href="pratt.html" title="Pratt Knot">Pratt Knot</a><br class="navbr"><br class="navbr">
-			<a href="bowtie.html" title="Bow Tie Knot">Bow Tie Knot</a><br class="navbr"><br class="navbr"><br class="navbr">
-			<a href="video.html" title="Tie Knot Video">Tie Knot Video</a><br class="navbr"><br class="navbr"><br class="navbr">
-			<a href="tips.html" title="Tie Tips &amp; Tricks">Tie Tips &amp; Tricks</a><br class="navbr"><br class="navbr">
-			<a href="length.html" title="Necktie Length">Necktie Length</a><br class="navbr"><br class="navbr">
-			<a href="extralongties.html" title="Extra-Long Ties Calculator">Tie Length Calculator</a><br class="navbr"><br class="navbr">
-			<a href="accessories.html" title="Necktie Accessories">Necktie Accessories</a><br class="navbr"><br class="navbr">
-			<a href="dress.html" title="Job Interview Dress">Job Interview Dress</a><br class="navbr"><br class="navbr">
-			<a href="neckties.html" title="Buy Neckties Online">Buy Neckties Online</a><br class="navbr"><br class="navbr"><br class="navbr">
-			<a href="tell.html" title="Tell a Friend">Tell a Friend</a><br class="navbr"><br class="navbr">
-			<a href="linktome.html" title="Link to Me">Link to Me</a><br class="navbr"><br class="navbr">
-			<a href="contact.html" title="Contact Me">Contact Me</a><br class="navbr"><br class="navbr">
-			<a href="resources.html" title="Resources">Resources</a><br class="navbr"><br class="navbr">
-			<a href="sitemap.html" title="Sitemap">Sitemap</a><br class="navbr"><br class="navbr"><br class="navbr">
-			<script>utmx_section("Kiva")</script>
-			<a href="kiva.html" title="Donate" class="rednav">Donate</a>
+			<td valign="top" class="mainindent">		
+				<h3>Privacy Policy</h3>
 				
-			</p>
-		</td>
+				<p class="rtext">At Tie-a-Tie.net, I place the highest importance on respecting and protecting the privacy of my visitors and customers. My most important asset is my relationship with you. I want you to feel comfortable and confident when using my Web site. Therefore, I would like to share with you the following principles that govern my information practices and other privacy aspects of my Web site. Throughout this policy, I refer to information that personally identifies you as "personal information".</p>
+				
+				<p class="rtext"><strong>Information Collection and Use</strong></p>
+				
+				<p class="rtext">I collect information from you as my user at several different points on my website. I am the sole owner of the information collected on this site. I will not sell or rent this information to others in ways different from what is disclosed in this statement.</p>
+				
+				<p class="rtext"><strong>Contact Form</strong></p>
+				
+				<p class="rtext">I use a contact form on my Website to allow you to contact me directly with any questions or comments you may have. I read every message sent in and try to reply promptly to everyone.</p>
+
+				<p class="rtext">I use the information you provide me to respond directly to your questions or comments. I may also retain your comments to improve the site and program, or I may review and discard the information.</p>
+				
+				<p class="rtext"><strong>Tell a Friend</strong></p>
+				
+				<p class="rtext">If you choose to use my referral service to tell a friend about my site, I will ask you for your friend's first name and eMail address, as well as your first name and eMail address. I will automatically send your friend a one-time eMail inviting him or her to visit the site; I will also automatically send you a one-time eMail with a Thank You note. I do not store either piece of information.</p>
+
+				<p class="rtext"><strong>Cookies</strong></p>
+				
+				<p class="rtext">Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time.</p>
+				
+				<p class="rtext">To make up for the cost of hosting on the website, I use Google AdSense to monetize my site. Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to you as my users based on the visit to my site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank" title="Google ad and content network privacy policy">Google ad and content network privacy policy</a>.</p>
+				
+				<p class="rtext">For some of my PPC advertising campaigns, I use Google conversion tracking. In that case, they would set a cookie with a 30 day duration. You can decide not to accept cookies like these by setting your Internet browser user preferences. Then you would simply not be included in the conversion tracking statistics.</p>
+				
+				<p class="rtext">And here is what I have to include because I use Google Analytics, an website analysis tool that let's me know on which pages you guys break off so that I can keep improving the site:</p>
+				
+				<p class="rtext">This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
+
+				<p class="rtext"><strong>Log Files</strong></p>
+				
+				<p class="rtext">I use IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. I keep this information for my internal use. In detail, I do not share it with others.</p>
+
+				<p class="rtext">In aggregated form only, I may at their request share data such as the number of site visitors in a single month or the number of site visitors in a given year with my advertisers, e.g. Google AdSense and Commission Junction.</p>
+
+				<p class="rtext"><strong>Links to Other Sites</strong></p>
+				
+				<p class="rtext">My site contains links to other Websites over which I have no control. I am not responsible for the privacy policies or practices of other Websites to which you choose to follow a link from my website.</p>
+
+				<p class="rtext">I encourage you to review the privacy policies of those other Websites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information I collect on the Tie-a-Tie.net website.</p>
+
+				<p class="rtext"><strong>Data Security</strong></p>
+				
+				<p class="rtext">The security of your personal information is important to me. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, I have put in place appropriate physical, electronic, and managerial procedures to protect the personal information submitted to me, both during transmission and once I receive it.</p>
+
+				<p class="rtext">No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.</p>
+
+				<p class="rtext"><strong>Children</strong></p>
+				
+				<p class="rtext">I do not knowingly collect or solicit personal information from or about children under 13 except as permitted by law. If I discover that I have received any information from a child under 13 in violation of this policy, I will delete that information immediately. Also, I do not sell my Tie Knot Video Series to a child under the age of 13.</p>
+
+				<p class="rtext"><strong>Placing an Order with Tie-a-Tie.net</strong></p>
+				
+				<p class="rtext">If you purchase my Tie Knot Video Series, I require you to set up a Members Area account where I collect your first name, last name, city, state, ZIP code, country, a password and - for verification purposes in case you forget your password later on - your birth date. This information is used to fulfill your order and to set up your Members Area account. I will use your contact information to contact you if I have trouble processing your order, if I have questions regarding your order, or if I wish to notify you of the status of your order.</p>
+
+				<p class="rtext"><strong>Choice/Opt-out</strong></p>
+				
+				<p class="rtext">If you purchase my Tie Knot Video Series, I offer you the choice that I keep you updated on changes I make to the videos. I give you the opportunity to 'opt-out' of receiving those updates. The Members Area has an 'opt-out' mechanism at the bottom of the screen so if you create an account with me, but don't want any updates, you can keep your eMail address off of my notification list. Also, at the bottom of all Members-only communication, there is a link that allows you to 'opt-out'.</p>
+
+				<p class="rtext"><strong>Correcting/Updating Personal Information</strong></p>
+				
+				<p class="rtext">If you purchase my Tie Knot Video Series, and you need to correct or update your personal information (such as your eMail address), or you no longer desire my service you can let me know by <a href="contact.html" title="Contact Me">sending me a message</a>.</p>
+
+				<p class="rtext"><strong>Changes to Privacy Statement</strong></p>
+				
+				<p class="rtext">If I decide to change my privacy policy, I will post those changes to this privacy statement, the homepage, and other places I deem appropriate so that you are aware of what information I collect, how I use it, and under what circumstances, if any, I disclose it.  I reserve the right to modify this privacy statement at any time, so please review it frequently.  If I make material changes to this policy, I will notify you here, by email, or by means of a notice on my homepage.</p>
+				
+				<p class="rtext">In the event Tie-a-Tie.net goes through a business transition, such as a merger, an acquisition by another company, or a sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. You as my user will be notified via prominent notice on my Website for 30 days after a change of ownership or control of your personal information.</p>
+
+				<p class="rtext"><strong>Legal Disclaimer</strong></p>
+				
+				<p class="rtext">I may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served on my Web site.</p>
+
+				<p class="rtext"><strong>Contact Me</strong></p>
+
+				<p class="rtext">If you have any questions about this Privacy Policy, the practices of Tie-a-Tie.net with respect to personal information or your dealings with this Website, you can <a href="contact.html" title="Contact Me">contact me here</a> or write to:</p>
+
+				<p><img src="images/legalstuff.gif" alt="" width="154" height="77" border="0"></p>
+
+				<p></p><hr><div class="copyright" align="center">© United E-Commerce, LLC, 2011. - All rights reserved.<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=isemer"></script></div><p></p>
+						</td>
+			
+		</tr>
+	</tbody></table>
+	
+	<a id="icon_home" href="/"><img src="/images/layout/icon_home.gif" alt="Home"></a>
+	<a id="icon_contact" href="/contact.html"><img src="/images/layout/icon_mail.gif" alt="Contact me"></a>
+	<a id="icon_sitemap" href="/sitemap.html"><img src="/images/layout/icon_sitemap.gif" alt="Sitemap"></a>
+	
+	
+		<a id="tieinstruction_day" href="/halfwindsor.html">
+			Tie instruction of the day:<br><span>The Half Windsor Knot</span>
+			<img src="/images/knots/tie_a_half_windsor_knot.png" alt="The Half Windsor Knot">
+		</a>
 		
-		<td width="567" background="images/mainback.gif" valign="top" class="mainindent">			
-			<p><br></p><h3>Privacy Policy</h3><p></p>
-			
-			<p class="rtext">At Tie-a-Tie.net, I place the highest importance on respecting and protecting the privacy of my visitors and customers. My most important asset is my relationship with you. I want you to feel comfortable and confident when using my Web site. Therefore, I would like to share with you the following principles that govern my information practices and other privacy aspects of my Web site. Throughout this policy, I refer to information that personally identifies you as "personal information".</p>
-			
-			<p class="rtext"><strong>Information Collection and Use</strong></p>
-			
-			<p class="rtext">I collect information from you as my user at several different points on my website. I am the sole owner of the information collected on this site. I will not sell or rent this information to others in ways different from what is disclosed in this statement.</p>
-			
-			<p class="rtext"><strong>Contact Form</strong></p>
-			
-			<p class="rtext">I use a contact form on my Website to allow you to contact me directly with any questions or comments you may have. I read every message sent in and try to reply promptly to everyone.</p>
-
-			<p class="rtext">I use the information you provide me to respond directly to your questions or comments. I may also retain your comments to improve the site and program, or I may review and discard the information.</p>
-			
-			<p class="rtext"><strong>Tell a Friend</strong></p>
-			
-			<p class="rtext">If you choose to use my referral service to tell a friend about my site, I will ask you for your friend's first name and eMail address, as well as your first name and eMail address. I will automatically send your friend a one-time eMail inviting him or her to visit the site; I will also automatically send you a one-time eMail with a Thank You note. I do not store either piece of information.</p>
-
-			<p class="rtext"><strong>Cookies</strong></p>
-			
-			<p class="rtext">Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time.</p>
-			
-			<p class="rtext">To make up for the cost of hosting on the website, I use Google AdSense to monetize my site. Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to you as my users based on the visit to my site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank" title="Google ad and content network privacy policy">Google ad and content network privacy policy</a>.</p>
-			
-			<p class="rtext">For some of my PPC advertising campaigns, I use Google conversion tracking. In that case, they would set a cookie with a 30 day duration. You can decide not to accept cookies like these by setting your Internet browser user preferences. Then you would simply not be included in the conversion tracking statistics.</p>
-			
-			<p class="rtext">And here is what I have to include because I use Google Analytics, an website analysis tool that let's me know on which pages you guys break off so that I can keep improving the site:</p>
-			
-			<p class="rtext">This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
-
-			<p class="rtext"><strong>Log Files</strong></p>
-			
-			<p class="rtext">I use IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. I keep this information for my internal use. In detail, I do not share it with others.</p>
-
-			<p class="rtext">In aggregated form only, I may at their request share data such as the number of site visitors in a single month or the number of site visitors in a given year with my advertisers, e.g. Google AdSense and Commission Junction.</p>
-
-			<p class="rtext"><strong>Links to Other Sites</strong></p>
-			
-			<p class="rtext">My site contains links to other Websites over which I have no control. I am not responsible for the privacy policies or practices of other Websites to which you choose to follow a link from my website.</p>
-
-			<p class="rtext">I encourage you to review the privacy policies of those other Websites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information I collect on the Tie-a-Tie.net website.</p>
-
-			<p class="rtext"><strong>Data Security</strong></p>
-			
-			<p class="rtext">The security of your personal information is important to me. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, I have put in place appropriate physical, electronic, and managerial procedures to protect the personal information submitted to me, both during transmission and once I receive it.</p>
-
-			<p class="rtext">No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.</p>
-
-			<p class="rtext"><strong>Children</strong></p>
-			
-			<p class="rtext">I do not knowingly collect or solicit personal information from or about children under 13 except as permitted by law. If I discover that I have received any information from a child under 13 in violation of this policy, I will delete that information immediately. Also, I do not sell my Tie Knot Video Series to a child under the age of 13.</p>
-
-			<p class="rtext"><strong>Placing an Order with Tie-a-Tie.net</strong></p>
-			
-			<p class="rtext">If you purchase my Tie Knot Video Series, I require you to set up a Members Area account where I collect your first name, last name, city, state, ZIP code, country, a password and - for verification purposes in case you forget your password later on - your birth date. This information is used to fulfill your order and to set up your Members Area account. I will use your contact information to contact you if I have trouble processing your order, if I have questions regarding your order, or if I wish to notify you of the status of your order.</p>
-
-			<p class="rtext"><strong>Choice/Opt-out</strong></p>
-			
-			<p class="rtext">If you purchase my Tie Knot Video Series, I offer you the choice that I keep you updated on changes I make to the videos. I give you the opportunity to 'opt-out' of receiving those updates. The Members Area has an 'opt-out' mechanism at the bottom of the screen so if you create an account with me, but don't want any updates, you can keep your eMail address off of my notification list. Also, at the bottom of all Members-only communication, there is a link that allows you to 'opt-out'.</p>
-
-			<p class="rtext"><strong>Correcting/Updating Personal Information</strong></p>
-			
-			<p class="rtext">If you purchase my Tie Knot Video Series, and you need to correct or update your personal information (such as your eMail address), or you no longer desire my service you can let me know by <a href="contact.html" title="Contact Me">sending me a message</a>.</p>
-
-			<p class="rtext"><strong>Changes to Privacy Statement</strong></p>
-			
-			<p class="rtext">If I decide to change my privacy policy, I will post those changes to this privacy statement, the homepage, and other places I deem appropriate so that you are aware of what information I collect, how I use it, and under what circumstances, if any, I disclose it.  I reserve the right to modify this privacy statement at any time, so please review it frequently.  If I make material changes to this policy, I will notify you here, by email, or by means of a notice on my homepage.</p>
-			
-			<p class="rtext">In the event Tie-a-Tie.net goes through a business transition, such as a merger, an acquisition by another company, or a sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. You as my user will be notified via prominent notice on my Website for 30 days after a change of ownership or control of your personal information.</p>
-
-			<p class="rtext"><strong>Legal Disclaimer</strong></p>
-			
-			<p class="rtext">I may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served on my Web site.</p>
-
-			<p class="rtext"><strong>Contact Me</strong></p>
-
-			<p class="rtext">If you have any questions about this Privacy Policy, the practices of Tie-a-Tie.net with respect to personal information or your dealings with this Website, you can <a href="contact.html" title="Contact Me">contact me here</a> or write to:</p>
-
-			<p><img src="images/legalstuff2.gif" alt="" width="168" height="80" border="0"></p>
-
-			<p></p><hr><img src="images/ttnet.gif" width="120" height="30" border="0" alt="Learn How to Tie a Tie" valign="2" align="right"><div class="copyright" align="center">(c) Johann-Caspar Isemer, 2003-2010. - All rights reserved.<br><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=isemer" class="addthis_button_compact" title="Share this Site"><strong>Share this Site</strong></a> - <a href="privacy.html" title="Privacy Policy">Privacy Policy</a> - <a href="terms_of_service.html" title="Terms of Service">Terms of Service</a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=isemer"></script></div><p></p>
-		</td>
-	</tr>
-</tbody></table>
-
-<!-- Google Website Optimizer Tracking Script -->
-<script type="text/javascript">
-if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
-(document.location.protocol=='https:'?'s://ssl':'://www')+
-'.google-analytics.com/ga.js"></sc'+'ript>')</script><script src="https://ssl.google-analytics.com/ga.js"></script>
-<script type="text/javascript">
-try {
-var gwoTracker=_gat._getTracker("UA-1930584-8");
-gwoTracker._trackPageview("/0669946430/test");
-}catch(err){}</script>
-<!-- End of Google Website Optimizer Tracking Script -->
-
+	<div id="hrow"></div>
+	
+</div>
+<div id="footer">
+	<a href="/resources.html" title="Resources">Resources</a> |
+	<a href="/sitemap.html" title="Sitemap">Sitemap</a> | 
+	<a href="/tell.html" title="Tell a Friend">Tell a Friend</a> | 
+	<a href="/linktome.html" title="Link to Me">Link to Me</a> | 
+	<a href="/terms_of_service.html" title="Link to Me">Terms of Service</a> | 
+	<a href="/privacy.html" title="Privacy Policy">Privacy Policy</a> | 
+	<a href="/contact.html" title="Contact Me">Contact Me</a>
+	<img src="/images/ttnet.png" alt="Tie-a-Tie.net">
+</div>
 
 
 </body></html>
