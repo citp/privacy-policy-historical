@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openathens.net privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219220321id_/http%3A//www.eduserv.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openathens.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627203114id_/http%3A//www.eduserv.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Eduserv > Privacy Policy
 
@@ -72,4 +72,4 @@ If you would like to contact us about any aspect of our Privacy Policy, please e
 
 January 2010
 
-Last reviewed on: 08 December 2010
+Last reviewed date: 10 February 2011
