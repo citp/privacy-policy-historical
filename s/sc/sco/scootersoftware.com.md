@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102174433id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627210120id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
 
 # Beyond Compare - The file compare, folder compare and remote directory compare utility from Scooter Software
 
@@ -12,13 +12,13 @@ IF YOU ARE UNDER 13 YEARS OF AGE you are not allowed to participate in the Scoot
 
 ### Forum Registration
 
-Scooter Software encourages users who want to participate in the Scooter Software support forums to register.  In order to register, you must provide us with a username (which does not have to be your real name), password and a valid e-mail address.  This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise.  At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile. 
+Scooter Software encourages users who want to participate in the Scooter Software support forums to register.  In order to register, you must provide us with a username (which does not have to be your real name), password and a valid email address.  This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise.  At any time, you have the ability to keep your email address hidden from other users by selecting that option within your user profile. 
 
 When you register, you have the option of providing some additional information such as occupation, interests, and homepage URL.  This optional information is made available to other bulletin or message board users to foster a sense of community.  If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed. 
 
 ### Ordering Online
 
-When you place an online order, we need to know your name, e-mail address, phone number, billing address and credit card details.  This allows us to process and fulfill your order and to notify you of your order status. 
+When you place an online order, we need to know your name, email address, phone number, billing address and credit card details.  This allows us to process and fulfill your order and to notify you of your order status. 
 
 Our website offers the use of a secure server.  The secure server software (SSL) encrypts all information you input before it is sent to us.  The customer data and orders we collect are protected against unauthorized access. 
 
