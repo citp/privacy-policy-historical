@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216211303id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627112352id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.*
 
 # Outspark - MMO, RPG, RTS, Play best free online games at Outspark
 
@@ -66,7 +66,7 @@ OUTSPARK may update this policy. We will notify you about significant changes in
 
 **California Privacy Rights**
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Outspark who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at California Privacy Rights, Outspark, Inc, 660 3rd Street #302, San Francisco, CA 94107 or email to [finance@outspark.com](mailto:finance@outspark.com)
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Outspark who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at California Privacy Rights, Outspark, Inc, 434 Brannan Street, Suite 100, San Francisco, CA 94107 or email to [finance@outspark.com](mailto:finance@outspark.com)
 
 **How to Contact Us**
 
