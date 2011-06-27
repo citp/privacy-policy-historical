@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the my-proxy.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112317id_/http%3A//www.my-proxy.com/com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-proxy.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627234606id_/http%3A//www.my-proxy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - My-Proxy
 
 ### Privacy Policy
 
-[My-Proxy](http://www.my-proxy.com/) » Privacy Policy
-
 ## My-Proxy Privacy Policy
-
-April 28, 2006
 
 At My-Proxy we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by My-Proxy. My-Proxy adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
@@ -75,3 +71,5 @@ My-Proxy regularly reviews its compliance with this Policy. When we receive comp
 **Changes to this policy**
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
+
+April 28, 2006
