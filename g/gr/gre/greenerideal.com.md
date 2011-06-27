@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the greenerideal.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227123131id_/http%3A//www.greenerideal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenerideal.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628005048id_/http%3A//www.greenerideal.com/privacy-policy) for the most accurate reproduction.*
 
-# Greener Ideal Privacy Policy
+# Greener Ideal Privacy Policy | Greener Ideal
+
+* * *
+
+* * *
 
 **Email Addresses**   
 You may choose to add your email address to our contact list via the monthly newsletter sign-up on our website. We will never share your email with any third party. We don't currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us though our contact form.
