@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218114207id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627120950id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
 # Privacy Statement for InternetDJ.com
 
-[](https://web.archive.org/search.php?query=&topic=43)
+## [News & Features](https://web.archive.org/news.php) > [Music News](https://web.archive.org/topics.php?topic=33)
+
+[](https://web.archive.org/topics.php?topic=33)
+
+by [Michael Bordash](https://web.archive.org/user/michael)  
+Thursday, August 09 2001
 
 InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 
@@ -52,7 +57,12 @@ New York, New York 10004
 
 This policy, like the online medium itself, is subject to change. 
 
-**You need to be logged in** in order to post your comments. 
+[Register Now](https://web.archive.org/user.php?action=register) and get daily music news, songs and videos in your inbox.
 
-[**Click Here**](https://web.archive.org/web/20081218114207id_/http%3A//www.internetdj.com/user.php?action=login) to login or register if you don't have an account.   
+### Article Comments
 
+  
+_**No comments found for this article**_  
+
+
+### Post Your Comment
