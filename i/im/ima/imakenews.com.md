@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112452id_/http%3A//imakenews.com/imn_site/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627204342id_/http%3A//imakenews.com/imn_site/privacypolicy.htm) for the most accurate reproduction.*
 
 # IMN
 
@@ -110,8 +110,3 @@ Changes to this Policy will be posted in this section. This way you will always 
 **Effective Date of Policy:   April 28, 2010**
 
 | 
-
-We self-certify compliance with:  
-[](https://www.export.gov/safehrbr/list.aspx)
-
-[](http://www.dmaresponsibility.org/SafeHarbor/)
