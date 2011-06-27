@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the m4maths.com privacy policy that was archived on 2010-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128062746id_/http%3A//www.m4maths.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the m4maths.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627084059id_/http%3A//m4maths.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Untitled Document</title>
+<title>M4maths Privacy policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="M4MATHS is the site for maths lover. Daily a new and orignal Brain Teaser puzzle will be displayed by  M4MATHS Professinals.">
 <meta name="keywords" content="maths, math, mathematics, tutor, 
@@ -29,56 +29,20 @@ h3 {
 	}
 
 </script>
-</head>
+<link rel="stylesheet" type="text/css" href="css/stylesheet.css"></head>
+
+
+
 
 <body>
+<script language="javascript" type="text/javascript" src="js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="js/rsr.js"></script>
+<script language="javascript" type="text/javascript" src="js/news_animation.js"></script>
+<script language="javascript" type="text/javascript" src="js/functions.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.calculator.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.tabSlideOut.v1.3.js"></script>
+<script language="javascript" type="text/javascript" src="js/flexigrid.js"></script>
 
-<link href="css/style.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="css/default.css">
-<link rel="stylesheet" type="text/css" href="css/greybox.css">
-
-<script type="text/javascript" src="js/rsr.js"></script>
-<script type="text/javascript" src="js/news_animation.js"></script>
-<script language="JavaScript" src="js/jquery.js"></script>
-<script language="JavaScript" src="js/functions.js"></script>
-<script language="javascript" src="js/greybox.js"></script>
-<script type="text/javascript">
-      var GB_ANIMATION = true;
-      $(document).ready(function(){
-        $("a.greybox").click(function(){
-          var t = this.title || $(this).text() || this.href;
-          GB_show(t,this.href,470,600);
-          return false;
-        });
-      });
-    </script>
-
-<style type="text/css">
-
-#watingdiv {
-	position: fixed;
-	width:100%;
-	height:100%;
-	background-color:#000000;
-	filter:alpha(opacity=50);
-	opacity: 0.5;
-	-khtml-opacity: 0.5;
-	-moz-opacity: 0.5;
-	color:#FFFFFF;
-	display:none;
-	z-index:4;
-}
-#watingtext {
-	position:absolute;
-	width:auto;
-	height:auto;
-	color:#FFFFFF;
-	font-size:36px;
-	font-weight:bold;
-	top:40%;
-	left:40%;
-}
-</style>
 
 
 <div id="watingdiv">
@@ -88,23 +52,71 @@ h3 {
     	<div id="frame_img">
             <div id="frame_inner">
                 <div id="header">
+								
                     <div id="links">
-                        <div id="link_left"></div>
                         <ul id="home_links">
-                            <li> <a href="index.php">Home</a> </li>
+                            
+							<li> <a href="index.php">Home</a> </li>
                             <li> <a href="score_board.php">Result</a> </li>
+							
+							
                             <li> <a href="today_puzzle.php">Today's Puzzle</a> </li>
-                            <li> <a href="prize.php">Prize</a> </li>
-                            <li> <a href="puzzles.php">Puzzles</a> </li>
+							 <li> <a href="maths-puzzles.php">Previous Puzzles</a> </li>
                             <li> <a href="suggestion.php">Discussion Board</a> </li>
-                            <li> <a href="maths-quotes.php">Maths Quotes</a> </li>
+							<li> <a href="maths-trick.php">Maths Tricks</a> </li>
+							
+							
                              <li> <a href="placement-puzzles.php">Placement puzzles</a> </li>
-                        </ul>
-                        <div id="link_right"></div>
+							                         </ul>
+                       <!-- <div id="link_right"></div>-->
                     </div>
-                    <div id="currentTime" style="font-weight:bold;"></div>
+					
+					<div id="search">
+					<form action="search_result.php" id="cse-search-box">
+  <div class="searchClass"><label>Search Puzzle</label> 
+    <input type="hidden" name="cx" value="partner-pub-0707611345354380:qduske-a0mb">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="60" value=" ">
+    <input type="submit" name="sa" value="SEARCH">
+	<a href="engineers-zone.php" style=" margin-left:30PX">Engineers here: <b>2439</b></a>
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+						<!--<div class="components">
+							<input type="text" id="searchText" class="searchText" value="Search Puzzle" onKeyPress="enterKeyPress()" onBlur="searchPuzzle()" onClick="makeMeBlank()"/>
+							<input type="button" class="search_icon" value="" onClick="searchPuzzle()" />
+						</div>
+						<div id="searchResult" class='paging toppaging'>(Search by puzzle Ref# number OR write a small part of puzzle for quick result.)</div>-->
+					</div>  
+					
+                    <div id="currentTime"></div>
+					 
                 </div>
+								
+								
+				<div style="float:right; background:#3B5998;color:#FFFFFF; font-size:12px; margin-left:5px; padding:7px; width:98%; text-align:right">
+			
+				
+				<span style="font-size:9px;"> 1)krishna kumar gupta (BBDNITM LUCKNOW) <b>42 Marks</b>  &nbsp;&nbsp;&nbsp;2)Biswajit Das (JIS College of Engineering, Kalyani.) <b>39 Marks</b>&nbsp;&nbsp;&nbsp;3)sir amit nathani (IEC College of Engineering and Technology) <b>39 Marks</b></span>  <a href="test_result.php" style="color:#FFFFFF"><b><u>View 10 April Test Result</u></b></a></div>
+				
        
+	<!--   
+	   <script type="text/javascript" src="http://tweet-it.s3.amazonaws.com/tweet-it.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".tweet-this a").tweetIt(
+		{
+			
+			typeATweet: "Tweet my stuff!",
+		}
+		);
+		
+		
+	})
+</script>
+<p class="tweet-this"><a href="javascript://">Like it? Tweet it!</a></p>-->
+
 
 
 	<div id="middle">
@@ -163,79 +175,87 @@ By using this site, you signify your assent to the <b>M4MATHS</b> Privacy Policy
   </div> <!-- frame_img div close -->
 </div> <!-- frame div close -->
         
-       <div id="copyright_text" style="background:#FFFFFF; border: hidden;">
-<font color="#000000" size="2px">
- Is this page helpful for your friends? If yes then share this page with your <font color="#3C5C9B"><b><i>facebook</i></b></font> friends and support M4maths.
-  </font><a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
-<br>
-<font color="#000000" size="2px">
-OR
-<br>
-
-Here You can share this page with other social networks <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=d18fbda0-fffe-4540-ae70-2732168a6fa3&amp;type=website&amp;buttonText=ShareThis%20Page"></script>  
-</font>
-</div>
- <div id="footer">
-    	<div id="footer_link" style="width: 581px;">
+        <div id="footer">
+    	<div id="footer_link" style="width: 759px;">
             <ul>
                 <li> <a href="privacy.php"> Privacy Policy</a> </li>
-                <li> <a href="copyright.php">  Disclaimer and Copyright</a> </li>
+                 <li> <a href="maths-quotes.php">Maths Quotes</a> </li>
+				 <li> <a href="prize.php"> Prize</a> </li>
+				<li> <a href="copyright.php">  Disclaimer and Copyright</a> </li>
                 <li> <a href="contact.php">Contact Us</a> </li>
                  <li> <a href="contact.php">Report a problem</a> </li>
                   <li> <a href="sitemap.html">Sitemap</a> </li>
+				  
             </ul>
             <span id="copyright_text">All rights are reserved to @m4maths.com</span>
        	</div>
     </div>
-	
-<script language="javascript">
+	<!--add pop up script-->
+		
+   
+   
+  
+   <div id="message_box_1"><img id="close_message" style="cursor:pointer" src="images/Cancel.png" alt="close popup">
+   <br><br>
+  <b>Welcome to m4maths.com</b><br><br>
+   M4maths Unique Concepts are<br><br>
+   1) Support Country - State (NEW)<br><br>
+   2) Placement Puzzles<br><br>
+   3) Today's Puzzle<br><br>
+   4) Maths Tricks (NEW)<br><br>
+   <span style="float:right"><font style="font-size:9px; text-align:right">Waiting for you feedback</font>
+	</span>
+	</div>
+	<div id="message_box">
+	<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0707611345354380";
+/* 250x250, created 1/13/10 */
+google_ad_slot = "7488727011";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
 </script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>	</div>
 	
+<script language="javascript" type="text/javascript">
+$(document).ready(function()
+{
+	//scroll the message box to the top offset of browser's scrool bar
+	$(window).scroll(function()
+	{
+  		$('#message_box').animate({top:$(window).scrollTop()+300+"px" },{queue: false, duration: 350});  
+		$('#message_box_1').animate({top:$(window).scrollTop()+300+"px" },{queue: false, duration: 350});  
+	});
+    //when the close button at right corner of the message box is clicked 
+	$('#close_message').mouseover(function()
+	{  		//the messagebox gets scrool down with top property and gets hidden with zero opacity 
+		$('#message_box_1').hide();
+		$('#message_box').animate({ top:"+=15px",opacity:0 }, 1350);
+		
+		$.post("ajax_update.php", {action:'assignSession'}, function(data){
+		} );
+		
+	});
+});
+</script>
+		
+	<!--add pop up script-->
 
-<script type="text/javascript">
+<script type="text/javascript" language="javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
+<script type="text/javascript" language="javascript">
 try {
 var pageTracker = _gat._getTracker("UA-8661123-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-<script src="http://cdn.wibiya.com/Toolbars/dir_0346/Toolbar_346300/Loader_346300.js" type="text/javascript"></script>
-
-<!-- Include the Google Friend Connect javascript library. -->
-<script type="text/javascript" src="http://www.google.com/friendconnect/script/friendconnect.js"></script>
-<!-- Define the div tag where the gadget will be inserted. -->
-<div id="div-5512921128867667559"></div>
-<!-- Render the gadget into a div. -->
-<script type="text/javascript">
-var skin = {};
-skin['BORDER_COLOR'] = '#cccccc';
-skin['ENDCAP_BG_COLOR'] = '#e0ecff';
-skin['ENDCAP_TEXT_COLOR'] = '#333333';
-skin['ENDCAP_LINK_COLOR'] = '#0000cc';
-skin['ALTERNATE_BG_COLOR'] = '#ffffff';
-skin['CONTENT_BG_COLOR'] = '#ffffff';
-skin['CONTENT_LINK_COLOR'] = '#0000cc';
-skin['CONTENT_TEXT_COLOR'] = '#333333';
-skin['CONTENT_SECONDARY_LINK_COLOR'] = '#7777cc';
-skin['CONTENT_SECONDARY_TEXT_COLOR'] = '#666666';
-skin['CONTENT_HEADLINE_COLOR'] = '#333333';
-skin['POSITION'] = 'bottom';
-skin['DEFAULT_COMMENT_TEXT'] = '- add your comment here -';
-skin['HEADER_TEXT'] = 'Comments';
-google.friendconnect.container.setParentUrl('/' /* location of rpc_relay.html and canvas.html */);
-google.friendconnect.container.renderSocialBar(
- { id: 'div-5512921128867667559',
-   site: '06051982426714699652',
-   'view-params':{"scope":"SITE","features":"video,comment","showWall":"true"}
- },
-  skin);
-</script>
+<script src="http://cdn.wibiya.com/Toolbars/dir_0346/Toolbar_346300/Loader_346300.js" type="text/javascript" language="javascript"></script>
 
 
 
 
 
 
-</body></html>
+<div class="calculator-popup" style="display: none;"></div></body></html>
