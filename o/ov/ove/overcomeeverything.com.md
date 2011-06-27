@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overcomeeverything.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212223824id_/http%3A//overcomeeverything.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overcomeeverything.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627233353id_/http%3A//overcomeeverything.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,4 +99,4 @@ USA
 
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
-We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time.  All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes.  Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time.  All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes.  Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
