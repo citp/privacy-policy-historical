@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the netted.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621024520id_/http%3A//netted.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netted.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627140549id_/http%3A//netted.net/privacy-policy) for the most accurate reproduction.*
 
 # Netted: Privacy Policy
 
 ## Introduction
 
-Recognition Media LLC strongly respects each individual’s right to personal privacy and we will only collect and use information through netted.net (the Web Site” or “netted.net”) or our on-line newsletter (“Netted”) for the purposes set forth in this policy.
+Recognition Media LLC strongly respects each individual’s right to personal privacy and we will only collect and use information through netted.net (“the Web Site” or “netted.net”) or our on-line newsletter (“Netted”) for the purposes set forth in this policy.
 
 Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Recognition Media LLC is not responsible for the contents and the privacy practices of such other sites.
 
 ## Information Collection and Usage
 
-In compliance with our mission statement to glamorize your internet and e-mail experience, Recognition Media LLC collects personal information through the Web Site at several points. For instance, to subscribe to Netted, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Recognition Media LLC does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
+In compliance with our mission statement to glamorize your Internet and e-mail experience, Recognition Media LLC collects personal information through the Web Site at several points. For instance, to subscribe to Netted, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Recognition Media LLC does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
 
 When you visit our site, we also collect anonymous information such as your IP address or domain name to analyze site traffic, but this information is not personally identifiable. We will use this information to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at info@netted.net
+If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with netted.net, or that otherwise seems suspicious to you, please do not provide such information, and report the request to us at info@netted.net
 
 ## Review and Access
 
