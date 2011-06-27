@@ -1,120 +1,100 @@
-> *The following text is extracted and transformed from the spiralfrog.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308034151id_/http%3A//www.spiralfrog.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiralfrog.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Free Music Downloads at SpiralFrog
+# Legal Agreement
 
-#### PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
+**Go Daddy Respects Your Privacy**
 
-For Users Residing in the United States of America and Canada.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-LAST UPDATED: JULY 31, 2007
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-The Internet Web site www.spiralfrog.com and the SpiralFrog™ online music service (both referred to collectively as the “Site”) are owned and/or operated by SpiralFrog, Inc.. By accessing the Site, you agree to be bound by the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-SpiralFrog reserves the right to make changes or otherwise update the Privacy Policy at any time. Any changes to the Privacy Policy are effective immediately once they have been posted, and your use of the Site following a change means that you accept the updated terms of the Privacy Policy.
+**Information Collection and Use**
 
-Your privacy is important to us at SpiralFrog. For that reason, our Privacy Policy provides full disclosure as to how we use the information you give us.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-#### YOUR CALIFORNIA PRIVACY RIGHTS
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Under the California Civil Code, residents of the State of California have the right to request from companies conducting business in California, a list of all third parties to which the company has disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of your personal information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-SpiralFrog qualifies for the alternative option: it has a comprehensive privacy policy and provides you with details on how you may either Opt-out of or Opt-in to the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-If you are a California resident and request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the Privacy Administrator at privacy@spiralfrog.com or you may contact us via postal mail at:
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Spiral Frog  
-Privacy Administrator  
-95 Morton Street, Suite 70  
-New York, NY 10014   
-United States of America  
-Attn: Your California Privacy Rights
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, notices that are illegible or do not have complete information.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-#### GENERAL PRIVACY INFORMATION
+**Security**
 
-#### 1\. Information Collected By SpiralFrog
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-To use the Site, you must register and provide certain information, including a nickname, a password, a current email address, your date of birth, gender, and zip/postal code (collectively, "Registration Data"). SpiralFrog requires the Registration Data in order for it and its partners to deliver targeted advertisements to you on the Site. In exchange for you providing the Registration Data to SpiralFrog and its partners SpiralFrog enables you to use the Site to receive free content, subject to the Terms and Conditions of Use.
+**Updating Your Information**
 
-SpiralFrog collects both personally identifiable information and non-personally identifiable information directly and via trusted third parties.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We collect information when you register for membership, renew your monthly membership, enter contests, participate in surveys, and other online activities located throughout the Site.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-We also collect information during your visits to the Site including the content you download, theselections you make for Play Lists, frequency of your visits to the Site and search terms entered. We will also collect information such as your IP Address and, via tools provided by third-parties, collect information about your usage of our site for purposes of administration and promotion of the Site. SpiralFrog uses the information you give us to improve your experience at the Site, and to develop new features and innovative functionality for the future. We also use this information to communicate our services and new content, as well as advertising features, and sponsored promotions and contests.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-When you register for membership at SpiralFrog, we track the content you download and the number of times it is played. This information is used to apportion the amount of our advertising revenue that we pay to the content providers for your legal use of their content. Since your membership needs to be renewed each month, we reserve the right to send you friendly reminders by email and by other means of contact if we anticipate that your membership may accidentally lapse.
+      iii.      You may call us at: (480) 505-8800
 
-If you use our “Send to a Friend” feature, we ask you to type in your friend’s email address so that we can invite them to visit the Site on your behalf. Your friend’s email address is used purely for the purpose of sending the email, and is not retained by SpiralFrog.
+       iv.      You may fax us at: (480) 505-8844
 
-SpiralFrog will also target online advertising and other sponsored opportunities on the Site based on the information you provide to us.
+**Sending Emails**
 
-#### 2\. Information Collected By Third-Parties
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-SpiralFrog may collect personally identifiable information when users – both registered members and non-registered visitors – enter contests, sweepstakes or other promotional activities on the Site. This information is used to administer prize awards, and to offer information about our sponsors' products and services. We may also provide opportunities for our third-party partners to contact you about their products and services directly.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Please note that these opportunities will be clearly defined on the Site as opt-in or opt-out choices for you to make. If you choose to be contacted by these third parties, we may refer you directly to their Web sites or collect your information on their behalf; these options will be disclosed clearly at the point of collection.
+**Compliance with Laws and Law Enforcement**
 
-Please check the official rules for each sweepstakes for applicable privacy information, including opt-in and opt-out information.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-#### 3\. Sharing, Selling, and Trading Information with Third Parties
+**Third Party Service Providers**
 
-SpiralFrog will not share, sell or trade personally identifiable information collected at the Site with third parties, except as described in this Privacy Policy. On a confidential basis only, SpiralFrog may share personally identifiable information collected at the Site with corporate affiliates, consultants, or third parties performing a specific service or function on our behalf (for example, site administration). SpiralFrog may share non-personally identifiable information collected at the Site for the purposes of advertising sales, market research, and promotion of the Site.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-SpiralFrog reserves the right to disclose any information we collect from you as required by law, and when we believe that disclosure is necessary to protect our rights and those of our content licensors, and/or to comply with a judicial proceeding, court order, or legal process served on SpiralFrog. SpiralFrog reserves the right to use or disclose non-personally identifiable information to anyone for any purpose.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-#### 4\. Advertising at SpiralFrog
+**Supplementation of Information**
 
-We use third-party companies to serve advertisements on the Site. These include: DoubleClick, EyeBlaster, Eyewonder, Motif, Pointroll, Viewpoint, and other companies. Information about you and your visit to the Site, such as your age, gender, location, and the number of times you have visited the Site and viewed a particular advertisement is used to serve targeted advertisements to you on the Site. In the course of serving advertisements to this Site, our third-party advertisers may place or recognize a unique cookie on your computer. The majority of the advertising you will see at the Site is served by DoubleClick. If you would like more information about the way these advertisements are served, and to know your choices about not having this information used by DoubleClick, please follow this link: <http://www.doubleclick.net/us/corporate/privacy>
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-#### 5\. Use of Cookies
+**Contests/Surveys**
 
-Cookies are pieces of information that we routinely transfer to your computer, and update during each visit to the Site. Our use of cookies allows us to make your visit to the Site more pleasurable, since we’re able to remember passwords for you, personal preferences that you set during earlier visits, as well as know when you’ve seen a specific advertisement (so you don’t see the same one again and again!).
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-The use of cookies is standard on the Internet, and you will find this practice on most major sites on the Web.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Working with trusted third-parties, we also use cookies to measure how our audience uses the Site – which pages are looked at, which items are clicked on, how often visitors return to the Site, and so on.
+**Tell-A-Friend**
 
-During a visit to the Site, you may also receive cookies from our advertisers, and other third-party partners. You should understand that we do not control these cookies, and they are not subject to our Privacy Policy. Just as important, please know that our advertisers and other third parties have no control over this Site’s cookies.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Most browsers are set by default to accept cookies. You may alter this functionality, and set your computer so that it will not accept the transfer of cookies from any Web site, or to provide an onscreen alert if a cookie is about to be transferred. However, please be aware that, by limiting our ability to transfer cookies, your experience of this Site may be seriously impaired, both cosmetically and functionally.
+**What Happens to my Personal Information if I Opt Out?**
 
-#### 6\. Use of IP Addresses
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Whenever you use your browser to surf the World Wide Web, your Internet Service Provider (ISP) automatically assigns your computer with an IP Address. Our servers recognize the IP Address of anyone visiting the Site, and primarily use this address to confirm your location – since our music can only be licensed to registered members resident in the Territory. We also collect IP Addresses to report aggregate information that we provide to advertisers, corporate affiliates, consultants, and third parties performing a specific service or function on our behalf (for example, site administration). We also may employ tracking tools such as clear GIFs, Web beacons, and pixel tags.
+**Transfer of Data Abroad**
 
-#### 7\. Children and Privacy
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-SpiralFrog is concerned about the safety of children when they use the Internet, and understands that children may not understand all the provisions of our Privacy Policy or make informed decisions about the choices that are made available to older users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. Our Site is not directed to children under the age of 13, and we will never request personally identifiable information from anyone whom we know to be under the age of 13. If we become aware that a user is under the age of 13 and has registered to the Site by falsifying their information, we will take the necessary steps required to remove his or her personally identifiable registration information from our databases. 
+**Changes in Our Practices**
 
-Unless otherwise disclosed during the collection process, SpiralFrog will not provide third parties with any personally identifiable information about children under the age of 13 who use the Site. SpiralFrog will not intentionally use any personally identifiable information about children under the age of 13 who use the Site for any promotional, advertising or marketing purposes. Children under the age of 13 who enter our contests will be automatically disqualified, and their entry information will be deleted.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-#### 8\. Security
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-The security of your personal information is important to us. We make reasonable efforts to follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. Our data will be kept on a separate server, password-protected, and behind a firewall. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. IN NO EVENT WILL SPIRALFROG OR ITS AFFILIATES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THIS SITE BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THIS SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF SPIRALFROG OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+**Contacting Our Site**
 
-#### 9\. Links to Other Websites
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-This Site contains links to Web sites operated by other people or companies. These Web sites may have their own privacy policy or no privacy policy at all. SpiralFrog has no responsibility for those Web sites, even where we maintain a partnership with the Web sites’ providers. We provide the links to these Web sites solely for the convenience of our visitors.
+* * *
 
-#### 10\. Corrections and Information Removal
-
-If you would like to change or update any of the information you gave us when you registered for membership to SpiralFrog, please follow this link: [http://www.spiralfrog.com/membership/membership.aspx?control=edit](https://web.archive.org/membership/membership.aspx?control=edit)
-
-During your visits to the Site, you may have opted in to receive the SpiralFrog newsletter, and other promotional email that we control. If you would prefer not to receive these emails, simply click the “Unsubscribe” link at the bottom of any email we send you and follow the instructions on the page you link to. Or click the “Reply” option, and type “UNSUBSCRIBE” into the Subject field of the email you send to us. Please note that such requests may take up to ten (10) days to become effective.
-
-You may have also opted in to receive various marketing emails from our advertising sponsors. These emails are not controlled by us, and will have different options that allow you to unsubscribe to them.
-
-Please make sure you review and consider carefully any opportunities presented to you on the Site before you agree to receive information to your email address.
-
-#### 11\. Company Changes
-
-Please note that because a user information database is customarily considered a business asset, SpiralFrog shall have the right to transfer such a user information database in a merger, sale of some or all of its company, consolidation, change in control, reorganization, liquidation, or in an action for bankruptcy. In the event all or part of our company is sold or dissolved, we will transfer information we have about you to one or more third parties with a requirement that such third parties treat your personal information substantially in accordance with our Privacy Policy as it exists at the time of the transfer.
-
-#### 12\. Contact Us
-
-If you have questions regarding this Privacy Policy, or the information collection and dissemination practices of this Site, please contact us at: SpiralFrog, Privacy Administrator, Suite 70, 95 Morton Street, New York, NY 10014, United States of America.
-
-#### 13\. Choice of Language
-
-The parties hereto confirm that it is their wish that this Agreement, as well as other documents relating hereto including notices, have been and shall be drawn up in the English language only. _Les parties aux présentes confirment leur volonté que cette convention de même que tous les documents, y compris tout avis qui s'y rattache, soient rédigés en langue anglaise._
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
