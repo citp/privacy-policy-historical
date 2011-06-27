@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkingphoenix.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005014812id_/http%3A//www.networkingphoenix.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkingphoenix.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627145118id_/http%3A//www.networkingphoenix.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,8 +6,9 @@ NetworkingPhoenix.com knows that you care how information about you is used and 
 
 **By visiting NetworkingPhoenix.com, you are accepting the practices described in this Privacy Policy.**
 
-**What Personal Information About Customers Does NetworkingPhoenix.com Gather?**  
-The information we learn from customers helps us personalize and continually improve your experience at NetworkingPhoenix.com. Here are the types of information we gather.
+**What Personal Information About Customers Does NetworkingPhoenix.com Gather?**
+
+The information we learn from customers helps us personalize and continually improve your experience at NetworkingPhoenix.com. Here are the types of information we gather. Please note that we are  **not**  in the business of selling, renting, or otherwise distributing your information to others.
 
   * **Information You Give Us:** We reserve the right to receive and store any information you enter on our Web site or give us in any other way (we DO NOT store credit card information). You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing/enhancing future user experience for you, improving our user experience, and communicating with you.
   * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses NetworkingPhoenix.com or advertisements and other content served by or on behalf of NetworkingPhoenix.com on other Web sites.
@@ -23,7 +24,8 @@ The information we learn from customers helps us personalize and continually imp
 
 
 
-**Does NetworkingPhoenix.com Share the Information It Receives (ie. email addresses)?**  
+**Does NetworkingPhoenix.com Share the Information It Receives (ie. email addresses)?**
+
 In short... no, but some exceptions do apply. Information about our customers is an important part of our business, and we are **not** in the business of selling it to others. We share customer information only as described below and with subsidiaries we control that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
 
   * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. For example, the organizations who provide free event entry to our [Networking Passport](https://web.archive.org/node/24947) subscribers. These organizations do have some access to customer information, but only under very specific conditions as described by the program's [terms and conditions](https://web.archive.org/node/25569).
@@ -46,7 +48,8 @@ In short... no, but some exceptions do apply. Information about our customers is
 **What About Third-Party Advertisers and Links to Other Websites?**  
 Our site includes third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites.
 
-**Which Information Can I Access?**  
+**Which Information Can I Access?**
+
 NetworkingPhoenix.com gives you access to a broad range of information about your account and your interactions with NetworkingPhoenix.com for the limited purpose of viewing and, in certain cases, updating that information. 
 
 **What Choices Do I Have?**
@@ -58,16 +61,22 @@ NetworkingPhoenix.com gives you access to a broad range of information about you
 
 
 
-**Are Children Allowed to Use NetworkingPhoenix.com?**  
+**Are Children Allowed to Use NetworkingPhoenix.com?**
+
 NetworkingPhoenix.com does not sell products/services for purchase by children. If you are under 18, you may use NetworkingPhoenix.com only with the involvement of a parent or guardian.
 
-**Conditions of Use, Notices, and Revisions**  
+**Conditions of Use, Notices, and Revisions**
+
 If you choose to visit NetworkingPhoenix.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/node/25570), including limitations on damages, resolution of disputes, and application of the law of the state of Arizona. If you have any concern about privacy at NetworkingPhoenix.com, please [contact us](https://web.archive.org/contact) with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the [Conditions of Use](https://web.archive.org/node/25570) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 **Automatic Information**
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; events you viewed or searched for. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; events you viewed or searched for. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.  Please note that we are  **not**  in the business of selling, renting, or otherwise distributing your information to others; the information we learn from customers helps us personalize and continually improve your experience at NetworkingPhoenix.com.
+
+**Information Imported via Facebook**
+
+For your convenience, you can create a NetworkingPhoenix.com account with your Facebook credentials and/or simply link your NetworkingPhoenix.com account with Facebook (taking advantage of seamless logins, sharing, etc). In doing so, you are explicitly agreeing to allow us to store your Facebook profile information for which you've given us access to via the NetworkingPhoenix.com Facebook application. Any data we retrieve and store through this method is directly integrated into our profile system and thus editable/deletable by you. Please note that we are  **not**  in the business of selling, renting, or otherwise distributing your information to others; the information we learn from customers helps us personalize and continually improve your experience at NetworkingPhoenix.com.
 
 **Information from Other Sources**
 
-Examples of information we receive from other sources include page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, advertising, or other services; Alexa Internet; search results and links.
+Examples of information we receive from other sources include page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, advertising, or other services; Alexa Internet; search results and links.Please note that we are  **not**  in the business of selling, renting, or otherwise distributing your information to others; the information we learn from customers helps us personalize and continually improve your experience at NetworkingPhoenix.com.
