@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231071010id_/http%3A//www.lashback.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627112212id_/http%3A//www.lashback.com/privacy.aspx) for the most accurate reproduction.*
 
 # LashBack: Global Email Compliance
 
@@ -31,7 +31,7 @@ We reserve the right to change this privacy policy, and will post any revisions 
 Safe Harbor Privacy Statement
 
 **SafeSafe Harbor Standards**  
-This Safe Harbor Privacy Statement (the "Statement") sets forth the privacy principles followed by LashBack LLC. (LASHBACK) in connection with the transfer and protection of "personal information" received from the European Union (EU) or Switzerland. 
+This Safe Harbor Privacy Statement (the "Statement") sets forth the privacy principles followed by LashBack Inc. (LASHBACK) in connection with the transfer and protection of "personal information" received from the European Union (EU) or Switzerland. 
 
 **About The Safe Harbor**  
 The "Safe Harbor" program was jointly established in June 2000 by the United States Department of Commerce and the European Commission, as a method for transferring personal information from the European Union (EU), to companies in the United States. The program is a voluntary self-certification process for companies operating in the United States. Companies that certify represent that they are upholding privacy standards for personal information received from the EU that have been jointly accepted by the EU Commission and the US Department of Commerce. These standards exceed current US privacy standards. LASHBACK has certified to the Safe Harbor program and makes that commitment. 
@@ -65,7 +65,7 @@ Where LASHBACK has knowledge that a third-party to whom it has provided EU perso
 **Limitation On Scope Of Principles:** Adherence to these Privacy Principles may be limited to the extent required to meet a legal, governmental, national security or public interest obligation. 
 
 **Contact Information:** Questions or comments about this Statement should be directed to:  
-LASHBACK LLC  
+LASHBACK Inc  
 ATTN: Privacy Dept.  
 555 Washington Avenue  
 Suite 400  
@@ -76,7 +76,7 @@ In order to comply with the European Union’s Safe Harbor Principles, LashBack 
 
 If you have any questions regarding this policy, please contact:
 
-LashBack LLC  
+LashBack Inc  
 555 Washington Avenue  
 Suite 400  
 ATTN: Safe Harbor Admin.  
