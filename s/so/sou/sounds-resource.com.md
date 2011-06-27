@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sounds-resource.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226024530id_/http%3A//vg-resource.com/%3Fpage_id%3D226) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sounds-resource.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627050742id_/http%3A//vg-resource.com/%3Fpage_id%3D226) for the most accurate reproduction.*
 
-# Privacy Policy « The VG Resource
+# Privacy Policy | The VG Resource
 
 This Policy is in regard to The Spriters Resource, The Models Resource, The Textures Resource and The Sounds Resource, as well as The VG Resource. For all of these sites, the following policy applies.
 
