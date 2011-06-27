@@ -1,77 +1,100 @@
-> *The following text is extracted and transformed from the brokerltd.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603071034id_/http%3A//www.ltdnetwork.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokerltd.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# LTDnetwork - The family of online shopping sites you can trust.
+# Legal Agreement
 
-**  
-**  
-**Prelude**
+**Go Daddy Respects Your Privacy**
 
-You will notice that compared to other internet rewards/loyalty programs, our privacy statement is quite brief. This is for a very good reason. The personal information you volunteer is used only to track, aggregate and provide you with your Loyalty Token Dollars (LTD's).
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-We cannot stress strongly enough that the information you provide us is an important part of our business, and as such we will not sell or rent your Personally Identifiable Information (PII) to any third-party. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Personally Identifiable Information (PII)**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-If you are simply perusing our site and have not registered as a member of the LTDnetwork, we do not store any PII either on our websites or our servers. Your PII stored on your own computer, can be accessed by our proprietary software for the purpose of merchant-payment fulfillment and LTD tracking.
+**Information Collection and Use**
 
-**What we collect**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We collect the following personal information about you upon registration: name, address, age, date of birth, gender, interests, and important dates and occasions.  
-Some of this information must be provided, whilst some is optional.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-In order for you to benefit from the SurfAssist software and accumulate Loyalty Token Dollar's, the SurfAssist software installed on your machine. When activated, SurfAssist monitors your online activities, such as the sites you are visiting, when and how long you visit the sites and the links that you click on to get there. This statistical information is collected via the use of cookies, which are tiny and safe packets of information that reside on your computer. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**How we protect your information**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-LTDnetwork is dedicated to the security of your PII, and we take every commercially reasonable precaution to maintain that protection. To prevent unauthorized access or disclosure, maintain data accuracy, and facilitate the appropriate use of information, your PII is stored on your own computer.  
-In addition, encryption tools are used when collecting or transferring sensitive information such as credit card numbers. Additional database content is protected either by means of a two key encryption algorithm or behind a firewall using security software.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Corrections & Updates to Personal Information**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Visitors can change or correct information about themselves using the online forms which are part of our registration system. If there is a problem with a change being accepted by our system, you may contact us at the email address: talk2us@LTDnetwork.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Advertising & Merchants**
+**Security**
 
-As part of our business model, we insert banner advertisements on our pages. You should be aware of the following:
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-  * Some of these ads are provided by outside companies. 
-  * These ads may contain cookies. Cookies attached to banner ads are managed by our advertisers and we do not have access to this information. To the best of our knowledge, these cookies in and of themselves do not contain any personally identifiable information about You.
-  * For reporting purposes, our advertisers, their agents and we produce aggregate statistical reports. For example, how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Again, to the best of our knowledge neither advertisers nor their agents are able discern actual individual users of the site. We definitely do not record PII and all our statistics are generic and anonymous. 
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Also as part of our business model we refer customers to the web site/s of Merchants with which we are affiliated. In some circumstances, we might share PII with our affiliated Merchants.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Children's Privacy**
+      iii.      You may call us at: (480) 505-8800
 
-This statement discloses the privacy practices for portions of LTDnetwork directed at children under 13. LTDnetwork will NOT:
+       iv.      You may fax us at: (480) 505-8844
 
-  * collect online contact information from a user under 13 without prior verifiable parental consent, which includes an opportunity for the parent to prevent use of the information and participation in the activity. When we do not obtain prior verifiable parental consent, online contact information will be used only to directly respond to the child's request and will not be used to contact the child for other purposes.
-  * collect personally identifiable offline contact information from users under 13 without prior verifiable parental consent.
-  * distribute to third parties any personally identifiable information collected from a child under 13 without prior verifiable parental consent.
-  * give to children the ability to send e-mail, create personal web pages, participate in forums or kids chat rooms without prior verifiable parental consent.
-  * entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity. 
-  * We will also place prominent notice wherever personally identifiable information is collected, requesting children to ask a parent for permission to proceed. 
+**Sending Emails**
 
-**The following are details of the information we collect and how we use it:**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-LTDnetwork collects data so that we may display personalized content to our visitors. This data may be analyzed so that we can customise our content and judge our system's performance. For instance, your computer reaches us via a particular IP, (InternetProtocol), address. This tells us from what part of the world your computer is connecting and what service provider you are using.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Your browser offers "cookies" which store small amounts of data on your computer about your child's visits to any of our sites. Cookies assist us in tracking which of our features your child likes best, so when your child re-visits our LTDnetwork sites, we can customize our content accordingly. However, cookies tell us nothing about your child personally, unless you or your child specifically give us additional information. 
+**Compliance with Laws and Law Enforcement**
 
-Demographic information may be used to customize the display of our LTDnetwork sites to your child by showing content that we think might be of interest or related to the child's past visits.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Some of the banner ads displayed in our LTDnetwork sites are provided by outside companies. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers and we do not have access to this information. Cookies in and of themselves do not contain any personally identifiable information about your child.
+**Third Party Service Providers**
 
-The LTDnetwork Web site includes many topical areas that all users may access. By giving your verifiable consent to allow your child to use chat, forums, newsletters, and/or any other functionality of the LTDnetwork Web site in which your child may provide personally identifiable information, your child will have access other areas throughout the LTDnetwork Web site. Please monitor your child's use of other areas of the Web site which are not directed toward children.  
-We produce aggregate reports for advertisers. For example, we tell advertisers how many people saw or clicked on an ad, and in which portions of our service. Where available, we may offer additional information about viewer characteristics. However, this does not include personally identifiable information or online usage patterns. Our advertisers allow us to provide our service to our users and our members. In return, they need to know how to effectively place their ads to potential customers.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We'll use email contact information to provide members with newsletters to which the member subscribed, or for similar information we think the member may find of interest. However, you can choose to discontinue your child's receipt of these mailouts.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Give Us Your Feedback**
+**Supplementation of Information**
 
-By using our web site, you consent to the collection and use of information as set forth in this privacy policy. You also acknowledge that while it is our right to change this policy, without prior notification, and our commitment to post any such changes on this page so that you are fully informed of the types of information we collect, how we use it, and under what circumstances, if any, it is disclosed.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-Ultimately, our goal is to protect your privacy. To comment on or help us improve this privacy policy, please [contact us](https://web.archive.org/web/20020603071034id_/http%3A//www.ltdnetwork.com/contactus.asp).
+**Contests/Surveys**
 
-[<<< Back](javascript:history.back\(\))
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
