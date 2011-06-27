@@ -1,391 +1,416 @@
-<!--The following is the downloaded HTML source of the markdown.com privacy policy that was archived on 2001-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010803014918id_/http%3A//www.markdown.com/privpolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the markdown.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Markdown.com | Sign Up. Save Money. Get Paid.</title>
-	
-	<script language="Javascript">
-
-function emailCheck (emailStr) {
-
-var emailPat=/^(.+)@(.+)$/
-
-var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
-
-var validChars="\[^\\s" + specialChars + "\]"
-
-var firstChars=validChars
-
-var quotedUser="(\"[^\"]*\")"
-
-var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
-
-var atom="(" + firstChars + validChars + "*" + ")"
-
-var word="(" + atom + "|" + quotedUser + ")"
-
-var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
-
-var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
-
-var matchArray=emailStr.match(emailPat)
-if (matchArray==null) {
-
-	alert("Your email address seems incorrect (check @ and .'s) Please try again.")
-	return false
-}
-var user=matchArray[1]
-var domain=matchArray[2]
-
-if (user.match(userPat)==null) {
-    alert("The username doesn't seem to be valid.")
-    return false
-}
-
-var IPArray=domain.match(ipDomainPat)
-if (IPArray!=null) {
-    // this is an IP address
-	  for (var i=1;i<=4;i++) {
-	    if (IPArray[i]>255) {
-	        alert("Your destination IP address is invalid, please try again.")
-		return false
-	    }
-    }
-    return true
-}
-
-var domainArray=domain.match(domainPat)
-if (domainArray==null) {
-	alert("The domain name in your email address doesn't seem to be valid, please try again.")
-    return false
-}
-
-var atomPat=new RegExp(atom,"g")
-var domArr=domain.match(atomPat)
-var len=domArr.length
-if (domArr[domArr.length-1].length<2 || 
-    domArr[domArr.length-1].length>3) {
-   alert("Your email address must end in a three-letter domain name (like .com, .gov, .edu), or a two letter country code.")
-   return false
-}
-
-if (domArr[domArr.length-1].length==2 && len<3) {
-   var errStr="This address ends in two characters, which is a country"
-   errStr+=" code.  Country codes must be preceded by "
-   errStr+="a hostname and category (like com, co, pub, pu, etc.)"
-   alert(errStr)
-   return false
-}
-
-if (domArr[domArr.length-1].length==3 && len<2) {
-   var errStr="Your email address is missing a hostname!"
-   alert(errStr)
-   return false
-}
-return true;
-}
-
-function Preload()
-{
-	var img1 = new Image(49, 23);
-	img1.src = "images/mi_homeoff.gif";
-   	var img1on = new Image(49, 23);
-	img1on.src = "images/mi_homeon.gif";
-   	var img2 = new Image(64, 23);
-	img2.src = "images/m_signupoff.gif";
-   	var img2on = new Image(64, 23);
-	img2on.src = "images/m_signupon.gif";
-   	var img3 = new Image(115, 23);
-	img3.src = "images/m_mymarkdownoff.gif";
-   	var img3on = new Image(115, 23);
-	img3on.src = "images/m_mymarkdownon.gif";
-   	var img4 = new Image(111, 23);
-	img4.src = "images/m_alertoff.gif";
-   	var img4on = new Image(111, 23);
-	img4on.src = "images/m_alerton.gif";
-   	var img5 = new Image(78, 23);
-	img5.src = "images/m_aboutoff.gif";
-   	var img5on = new Image(78, 23);
-	img5on.src = "images/m_abouton.gif";
-   	var img6 = new Image(57, 23);
-	img6.src = "images/m_faqoff.gif";
-   	var img6on = new Image(57, 23);
-	img6on.src = "images/m_faqon.gif";	
-}
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link rel="Stylesheet" type="text/css" href="http://img2.wsimg.com/fos/css/1/sales_http_20110504ak.css"><title>
+	Legal Agreement
+</title>
+    
+	<script type="text/javascript">
+		function pageLoad(sender, args) {
+			if(typeof Content_pageLoad == 'function')
+				Content_pageLoad(sender, args);
+		}
+	</script>
 </head>
+<body id="ctl00_PageBody" style="width: 100%; margin: 0px;">
+  
+<script src="http://img3.wsimg.com/AtlantisScripts/jquery/jquery-1.3.1.min.js" type="text/javascript"></script>
+  
+	
+	
+<script type="text/javascript" language="javascript" src="http://img.godaddy.com/JS_Lib/traffic.js"></script>
 
-<body onload="Preload();" bgcolor="White" leftmargin="5" topmargin="5">
+<img src="http://img.godaddy.com/image.aspx?sitename=www.godaddy.com&amp;server=M1PWCORPWEB152&amp;privatelabelid=1&amp;status=200&amp;rand=0.812901643017727&amp;page=%2fagreements%2fShowDoc.aspx&amp;split=81&amp;querystring=pageid%3dprivacy_parkedpage" alt="" class="traffic">
 
-<!--BEGIN HEADER TABLE-->
-<table width="770" border="0" cellspacing="0" cellpadding="0">
-	
-	<tbody><tr width="770">
-		<td width="770" colspan="8">
-		<table width="770"><tbody><tr width="770"><td align="left" width="302">
-		<img src="images/i_logo.gif" width="259" height="67" border="0" alt="" align="left"></td>
-		
-		<td align="right" width="468">
-		<img src="http://service.bfast.com/bfast/serve?bfmid=10772257&amp;siteid=29869082&amp;bfpage=golf" border="0" width="1" height="1" nosave="">
-<a href="http://service.bfast.com/bfast/click?bfmid=10772257&amp;siteid=29869082&amp;bfpage=golf" target="_top"><img src="http://images.mobshop.com/images/affiliate/creative/468x60turq-golf.gif" border="0" width="468" height="60" alt=""></a>
-</td>
-	</tr></tbody></table>
-	
-</td>
-	</tr>	
-	
-	<tr bgcolor="#000099" width="770">
-		<td height="23" bgcolor="#000099" background="images/i_bluetitle.gif" width="770">
-<table width="770" border="0" cellspacing="0" cellpadding="0" background="images/i_bluetitle.gif" bgcolor="#000099">
-		<tbody><tr width="770">
-		
-<td><a href="/index.cfm"><img id="img1" border="0" src="images/mi_homeoff.gif" onmouseover="document.images.img1.src='images/mi_homeon.gif'" onmouseout="document.images.img1.src='images/mi_homeoff.gif'" width="49" height="23"></a></td>
-<td><a href="/mainsign.cfm"><img id="img2" border="0" src="images/m_signupoff.gif" onmouseover="document.images.img2.src='images/m_signupon.gif'" onmouseout="document.images.img2.src='images/m_signupoff.gif'" width="64" height="23"></a></td>								
-<td><a href="/members/index.cfm"><img id="img3" border="0" src="images/m_mymarkdownoff.gif" onmouseover="document.images.img3.src='images/m_mymarkdownon.gif'" onmouseout="document.images.img3.src='images/m_mymarkdownoff.gif'" width="115" height="23"></a></td>								
-<td><a href="/sample.cfm"><img id="img4" border="0" src="images/m_alertoff.gif" onmouseover="document.images.img4.src='images/m_alerton.gif'" onmouseout="document.images.img4.src='images/m_alertoff.gif'" width="111" height="23"></a></td>								
-<td><a href="/aboutus.cfm"><img id="img5" border="0" src="images/m_aboutoff.gif" onmouseover="document.images.img5.src='images/m_abouton.gif'" onmouseout="document.images.img5.src='images/m_aboutoff.gif'" width="78" height="23"></a></td>								
-<td><a href="/qanda.cfm"><img id="img6" border="0" src="images/m_faqoff.gif" onmouseover="document.images.img6.src='images/m_faqon.gif'" onmouseout="document.images.img6.src='images/m_faqoff.gif'" width="57" height="23"></a></td>								
-<td width="266" valign="center" align="right" background="images/i_bluetitle.gif"><font face="tahoma,arial,sans-serif" size="2" color="yellow">
-<!--CHRIS - CF FOR DISPLAYING MEMBER'S NAME/GUEST--><b>Welcome:&nbsp;Guest </b> </font>&nbsp;</td>
-<td width="30" valign="bottom" align="right"><a href="/wronguser.cfm"><img src="../images/i_notyou.gif" border="0"></a>&nbsp;</td>	
-		</tr>
-		</tbody></table>
-</td>
-		
-	</tr>
-</tbody></table>
-<!-- END HEADER TABLE-->
+    
+
+    <form name="aspnetForm" method="post" action="ShowDoc.aspx?pageid=privacy_parkedpage" id="aspnetForm">
+<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzMxNTAyOTQ1D2QWAmYPZBYCAgMPZBYCAhMPDxYCHgdWaXNpYmxlaGRkZGk0a56o4pyrY7+H3hhxuEuvTcpI">
+
+
+<script src="/ScriptResource.axd?d=07PJCVFyCyUq301XvnZa1A1dhohl3iEi0ZrL4DpsO6fyHoRLkOFrNUL8IQWRL3P7qzX3I54gowvQdrQXAqjcbAMSsmSMfoLa0dRWNZ1XNU-L20j3HfpFYJYZmrBy1BExj1oA-3kW82X-EH8w4f-U2rvi7NxqUvbUYAoer38JjDQaCpyL0&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
+        
+		<div>
+			
 
 
 
-<table width="770" border="0" cellspacing="0">
-<tbody><tr>
-	<td colspan="5"><img src="images/i_trans.gif" width="765" height="3" alt="" border="0"></td>
-</tr>
-<tr>
-	<td width="170" rowspan="2" align="center" bgcolor="#000087" valign="top">
-	
-	<!--BEGIN LEFT BLUE BAR TABLE-->
-<img src="images/i_memberlogintitle.gif" width="165" height="31" alt="" border="0">
-<table width="170" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td>
-	<form action="accountlookup.cfm" method="POST">
-<font face="tahoma,arial,sans-serif" size="2" color="White"><b>&nbsp;e-mail address</b></font><br>
-	&nbsp;<input type="text" name="email" value="">
-</form></td>
-</tr>
-<tr>
-	<td>
-<font face="tahoma,arial,sans-serif" size="2" color="White"><b>&nbsp;password</b></font><br>
-	&nbsp;<input type="password" name="password">
-</td>
-</tr>
-<tr><td align="center">
-	<input type="image" src="images/b_login.gif" border="0"></td></tr>
-<tr><td align="center">
-	
-	<font face="tahoma,arial,sans-serif" size="1" color="White">
-	forgot your password?<br>
-	<a href="/lostpassword.cfm"><font face="tahoma,arial,sans-serif" size="1" color="White">click here!</font></a>
-	</font></td>
-	
-</tr>
+    <style type="text/css">
+        .closeButton
+        {
+            font-variant: small-caps;
+            color: #003366;
+            text-decoration: none;
+            font-size: 12pt;
+            letter-spacing: 4px;
+            font-family: Arial-Narrow, Helvetica, Veranda, Sans;
+        }
+        .main
+        {
+            font-family: Arial, Verdana;
+        }
+        .bodyText
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            margin-right: 25pt;
+            margin-bottom: 5pt;
+            line-height: 12pt;
+            text-align: justify;
+        }
+        .bodyTextBold
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            margin-right: 5pt;
+            margin-bottom: 5pt;
+            font-weight: bolder;
+        }
+        .footerText
+        {
+            font-family: Arial, Verdana;
+            font-size: 7pt;
+            margin-right: 5pt;
+            margin-bottom: 5pt;
+            color: #FFFFFF;
+        }
+        .bodyTextCaps
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            margin-right: 25pt;
+            margin-bottom: 5pt;
+            text-transform: uppercase;
+            text-align: justify;
+        }
+        .finePrint
+        {
+            font-family: Arial, Verdana;
+            font-size: 8pt;
+            margin-right: 25pt;
+            margin-bottom: 10pt;
+            line-height: 10pt;
+            text-align: justify;
+        }
+        A:ACTIVE, A:LINK, A:VISITED
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            margin-right: 0pt;
+            margin-bottom: 5pt;
+            text-decoration: none;
+            color: #FF6600;
+        }
+        A:HOVER
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            margin-right: 0pt;
+            margin-bottom: 5pt;
+            text-decoration: underline;
+            color: #CC6600;
+        }
+        .EULATitle
+        {
+            font-family: Arial, Verdana;
+            font-size: 14pt;
+            margin-right: 5pt;
+            text-transform: uppercase;
+            font-style: italic;
+            font-weight: bold;
+            color: #003366;
+        }
+        .heading1
+        {
+            font-family: Arial, Verdana;
+            font-size: 11pt;
+            font-weight: bold;
+            text-transform: uppercase;
+            color: #666666;
+        }
+        .smallTable p, .smallTable ul, .smallTable ol {
+         margin : 1px;
+        }
 
-</tbody></table>
-	<br>
-	
+        .heading2
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            margin-right: 5pt;
+            margin-bottom: 5pt;
+            font-weight: bolder;
+        }
+        LI
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            margin-right: 25pt;
+            margin-top: 5pt;
+            margin-bottom: 5pt;
+            line-height: 12pt;
+            text-align: justify;
+        }
+        OL
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            list-style-type: lower-roman;
+            list-style-position: outside;
+        }
+        OL OL
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            list-style-type: upper-alpha;
+            list-style-position: outside;
+        }
+        OL OL OL
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            list-style-type: disc;
+            list-style-position: outside;
+        }
+        UL
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            list-style-type: disc;
+            list-style-position: outside;
+        }
+        UL UL
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            list-style-type: circle;
+            list-style-position: outside;
+        }
+        UL UL UL
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+            list-style-type: square;
+            list-style-position: outside;
+        }
+        P
+        {
+            font-family: Arial, Verdana;
+            font-size: 10pt;
+        }
+        .nav
+        {
+            font-family: Arial, Verdana;
+            font-size: 8pt;
+            line-height: 0pt;
+        }
+        A.nav:ACTIVE, A.nav:LINK, A.nav:VISITED
+        {
+            font-family: Arial, Verdana;
+            font-size: 8pt;
+            color: #003366;
+        }
+        A.nav:HOVER
+        {
+            font-family: Arial, Verdana;
+            font-size: 8pt;
+            text-decoration: underline;
+            color: #FF6600;
+        }
+        .top
+        {
+            font-family: Arial, Verdana;
+            font-size: 8pt;
+            text-decoration: underline;
+        }
+        A.top:ACTIVE, A.top:LINK, A.top:VISITED
+        {
+            font-family: Arial, Verdana;
+            font-size: 8pt;
+            text-decoration: underline;
+            color: #FF6600;
+        }
+        A.top:HOVER
+        {
+            font-family: Arial, Verdana;
+            font-size: 8pt;
+            text-decoration: underline;
+            color: #CC6600;
+        }
+        #TableMenu
+        {
+            background-color: #FFFFFF;
+            border: 1px dashed #FFFFFF;
+            padding-bottom: 15pt;
+            padding-left: 10pt;
+            padding-right: 10pt;
+            padding-top: 15pt;
+            width: 125px;
+        }
+        HR
+        {
+            color: Silver;
+            margin-right: 25pt;
+        }
+        body
+        {
+            font-family: Arial,Verdana;
+        }
+         
+         a:active,a:link,a:visited{color:#FF6600;font-family:Arial,Verdana;font-size:10pt;margin-bottom:5pt;margin-right:0;text-decoration:none;}
+        .EULATitle
+        {
+            color: #003366;
+            font-family: Arial,Verdana;
+            font-size: 14pt;
+            font-style: italic;
+            font-weight: bold;
+            margin-right: 5pt;
+            text-transform: uppercase;
+        }
+        
+ </style>
 
+<div class="main">
+    <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td>
+                <a href="Javascript:window.close();" class="closeButton">Close Window</a>
+            </td>
+            <td align="right">
+                <a href="Javascript:window.print();" class="closeButton">Print</a>
+            </td>
+        </tr>
+    </tbody></table>
+    <br>
+    <table>
+        <tbody><tr>
+            <td width="100px">
+            </td>
+            <td>
+                &nbsp;
+            </td>
+            </tr>
+            <tr>
+            <td>
+            </td>
+            <td>
+                
+                <table width="100%">
+<tbody>
+<tr><td width="0"></td><td></td></tr>
+<tr><td></td><td>
+<table>
+<tbody>
+<tr><th align="left" class="EULATitle">
+Go Daddy<br>
+Privacy, Security, Your Information
+</th></tr>
+<tr><td class="bodyText">
+<div style="font-size: 9pt; color: #000000; direction: ltr; font-family: MS Shell Dlg 2;">
+<p><strong>Go Daddy Respects Your Privacy</strong></p>
+<p><strong>This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.</strong></p>
+<p><strong>Please take the time to review the terms of this Policy.&nbsp; By using this Site, you agree to accept the terms provided.</strong></p>
+<p><strong>Other than as described in this Policy, we will not give any information about you to others without your express permission. </strong></p>
+<p><strong>Information Collection and Use </strong></p>
+<p>Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.&nbsp; For example, we may collect this information in the event that you register as a member of&nbsp;this Site, post a comment, sign-up&nbsp;to receive email communications, or submit demographic information as part of a survey.</p>
+<p>We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.</p>
+<p>We may use your information&nbsp;to contact you regarding the information and services available on our Site, functionality changes to our Site,&nbsp;and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.</p>
+<p>We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.</p>
+<p>We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.</p>
+<p>Our Site uses cookies to enhance your experience with our Site.&nbsp; Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.&nbsp; We use cookies to identify you so you don't need to log in each time you visit our Site.&nbsp; You may opt-out of the use of cookies by altering settings on your browser.&nbsp; Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..</p>
+<p>This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.</p>
+<p><strong>Security </strong></p>
+<p>This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.</p>
+<p><strong>Updating Your Information </strong></p>
+<p>You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.</p>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may send an email to <a href="mailto:support@godaddy.com">support@godaddy.com </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You may send mail to Go Daddy at the following postal address:&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may call us at: (480) 505-8800</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may fax us at: (480) 505-8844</p>
+<p></p>
+<p></p>
+<p><strong>Sending Emails </strong></p>
+<p>We use emails to communicate with you&nbsp;and to send information that you have requested.&nbsp; We also provide email links&nbsp;to allow you to contact us directly. We strive to promptly reply to your messages.</p>
+<p>The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.</p>
+<p><strong>Compliance with Laws and Law Enforcement </strong></p>
+<p>We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.</p>
+<p><strong>Third Party Service Providers </strong></p>
+<p>We may at times provide information about you to third parties to provide various services on our behalf, such as&nbsp;serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.</p>
+<p>In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here. </a></p>
+<p><strong>Supplementation of Information </strong></p>
+<p>In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (<em>e.g., </em>information from our strategic partners, service providers, or the United States Postal Service).&nbsp; We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.</p>
+<p><strong>Contests/Surveys </strong></p>
+<p>From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.</p>
+<p>We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</p>
+<p></p>
+<p><strong>Tell-A-Friend </strong></p>
+<p>If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at <a href="mailto:support@godaddy.com">support@godaddy.com </a>to request the removal of this information from our database.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>What Happens to my Personal Information if I Opt Out? </strong></p>
+<p>If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information&nbsp;in "deactivated" status on our relevant&nbsp;databases. However,&nbsp;you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.</p>
+<p></p>
+<p><strong>Transfer of Data Abroad</strong></p>
+<p>If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information&nbsp;across international boundaries. &nbsp;By visiting this Site and communicating electronically with us, you consent to such transfers.</p>
+<p></p>
+<p><strong>Changes in Our Practices</strong></p>
+<p>We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and&nbsp;any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+<p>If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.</p>
+<p><strong>Contacting Our Site </strong></p>
+<p>If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:</p>
+<hr size="2" noshade="">
+<p>Go Daddy <br>ATTN: Web Team <br>14455 North Hayden Rd. <br>Suite 219 <br>Scottsdale, AZ, 85260, U.S.A.</p>
+</div>
+
+</td></tr>
+<tr><td>
 <br>
-<font face="tahoma,arial,sans-serif" size="1" color="White">© 2000 Markdown.com LLC<br>
-<a href="privpolicy.cfm"><font face="tahoma,arial,sans-serif" size="1" color="White">Privacy Policy</font></a> | <a href="disclaimer.cfm"><font face="tahoma,arial,sans-serif" size="1" color="White">Disclaimer</font></a>
-</font>
-<br>
-</td>
-<!--END LEFT BLUE BAR TABLE-->
+<span class="finePrint">
+Revised: 2/23/2011<br>
+Copyright © 2010-2011 GoDaddy.com, Inc. All Rights Reserved.
+</span>
+</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
 
-<!--BEGIN MAIN BODY AREA -->
-<td rowspan="2">&nbsp;</td>
-	<td width="600" valign="top" border="0" align="center">
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+
+		</div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
+    
+<script src="http://img3.wsimg.com/fastball/js_lib/FastballLibrary0006.js?version=1" type="text/javascript"></script>
+
+    
+<script src="http://img3.wsimg.com/fos/script/sales16.min.js" type="text/javascript"></script>
 	
-<form action="newaccount.cfm" method="POST" onsubmit="return emailCheck(this.email.value);">
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="images/s_partone.gif" width="245" height="28"></td>
-	<td bgcolor="#C0C0C0">
-		<input type="text" name="email" size="13">
-		</td>
-		<td><input type="image" src="images/s_continue.gif" border="0"></td>
-	</tr>
-</tbody></table><font face="tahoma,arial,sans-serif" size="2"><a href="/privpolicy.cfm" target="new">Privacy Guaranteed</a></font>
-</form>	
-
-
-<table width="600" border="0" valign="top">
-<tbody><tr><td><font face="tahoma,arial,sans-serif" size="3">
-<b><center>Markdown.com LLC Privacy Policy</center></b><br>
-<font face="tahoma,arial,sans-serif" size="1">
-Markdown.com LLC is strongly committed to protecting your privacy. The purpose of this document is to inform our users what 
-information we collect and how and why we use information that we collect from people who use the Markdown.com LLC site and/or e-mail alert service. 
-<p><font face="tahoma,arial,sans-serif" size="1">
-The Markdown.com LLC <a href="antispam.cfm"> Anti-Spam policy</a> is incorporated into this privacy policy by reference.
-</font></p><p><font face="tahoma,arial,sans-serif" size="1"><font face="tahoma,arial,sans-serif" size="1">
-We will collect your IP address upon entry into our site. We use your IP address to help diagnose problems with our servers, and to 
-administer our website. Your IP address is used to help identify you and to gather demographic information. 
-<br><br><font face="tahoma,arial,sans-serif" size="2">
-<b>Why We Ask For Personal Information</b> 
-<br><font face="tahoma,arial,sans-serif" size="1">
-When visitors to the Markdown.com LLC web site sign up for an account to start receiving our e-mail alerts, we ask them to tell us a little 
-about themselves. Specifically, we ask for the user's e-mail address via a registration page. We do this so that we can e-mail our Markdown Alerts
-to subscribers; we feel this is a vital part of our service and thus find it necessary to ask for user e-mails. We request information from you, 
-including your e-mail address and preferences, so that, in the future, we can target our users with the deals that will most likely be of interest to them. 
-We also may use subscribers' e-mails to contact users and provide updates regarding Markdown.com LLC and to send user promotional material and 
-information provided to us by our business partners (this is sent only if the user has told us that this is acceptable during the sign-up phase by "opting-in" to
-these types of announcements). Users may, at any time, opt out of receiving future mailings by accessing their account or visiting http://www.markdown.com/cancel.cfm.
-Demographic and profile data is also collected at our site. We use this data for internal analysis and to share with other companies the profile of 
-our customers. Only the user's email address is required information to receive the e-mail alerts. Any additional fields on the registration form are 
-optional and will not affect whether or not you will receive the newsletter (but will affect whether or not you are admitted as a full-member and are
-eligible to earn credits and share in the revenue of the Company).  Finally, we may, and you authorize us to, disclose any information about you to law 
-enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.   
-<br><br><font face="tahoma,arial,sans-serif" size="2">
-<b>Third-Party Affiliates</b> 
-<br><font face="tahoma,arial,sans-serif" size="1">
-Markdown.com LLC partners with many companies to help support our free services.  The Company will not share or sell to third parties any individual information users provide us.  Markdown.com LLC may share non-personal aggregate, 
-or summary, information regarding its subscribers with partners or other third parties.  On occassion, we may authorize these third parties to send
-approved offers to our opt-in subscribers that we feel may be of interest to them.  Users may opt-out of receiving these types
-of announcements during the registration process or at any other time simply by e-mailing Markdown.com LLC at the "suppport@markdown.com" address.  In addition, we occassionally 
-send information for advertisers in our own e-mails.  We may also share aggregate information with third parties, in order to 
-tell them more about our users. For example, we may tell potential advertisers that 25 percent of our users are between the ages of 18 and 30 
-(this statistic is an example only, not a real statistic and we occasionally conduct voluntary e-mail surveys of our users to acquire these facts).
-Users may choose to purchase services from other companies that are publicized through Markdown.com LLC.  This privacy policy does not apply to 
-information users give to these other companies. Any information users give to another company is governed by the rules of that company's privacy 
-policy that may be different than Markdown.com's. Markdown.com LLC takes no responsibility for information given to other companies; please review 
-these companies' privacy policies prior to your purchase if you're concerned.  
-<br><br><font face="tahoma,arial,sans-serif" size="2">
-<b>Cookies</b> 
-<br><font face="tahoma,arial,sans-serif" size="1">
-The first time you log into your member account at Markdown.com, we will provide you with a "cookie".  This is a small file that resides
-on your computer and allows you to be recognized by our service when you return.  Users can disable cookies within their system at any time
-and will not see any material change in the site content.  In addition, we use an outside ad company to display ads on our site and these ads may or may not 
-contain cookies.  Cookies received with ads are collected by the advertising company, and we do not have access to this information. Some customer 
-data (in aggregate form only) is shared with the advertising companies.  Because all areas of the Markdown.com LLC site are free, and since a 
-significant portion of our revenue comes from advertising, the use of cookies to help manage our advertising system is crucial to us.
-<br><br><font face="tahoma,arial,sans-serif" size="2">
-<b>Security</b> 
-<br><font face="tahoma,arial,sans-serif" size="1">
-Access to private and confidential data is limited to only those employees with a specific need to retrieve this information. Each staff member with a need 
-for such information employs their own user ID and password to access the data. System administration staff enforces a minimum password length and advises 
-that special characters are included in all passwords.  
-To ensure the utmost in security, internal reviews of the ecurity measures are conducted on a regular basis in addition to a formal semi-annual review. 
-
-<br><br><font face="tahoma,arial,sans-serif" size="2">
-<b>Choice/Opt-Out </b>
-<br><font face="tahoma,arial,sans-serif" size="1">
-Our site provides users the opportunity to opt-out of receiving future communications from us. This site gives users the option for removing their 
-information from our database to stop receiving future communications and no longer receive our service. If you are a full-member (i.e., you have a 
-password) Visit <a href="mainlogin.cfm"> http://www.markdown.com/mainlogin.cfm</a> and 
-log in to unsubscribe.  If you are not a full member, you can unsubscribe by clicking <a href="cancel.cfm">HERE</a>.
-
-<br><br><font face="tahoma,arial,sans-serif" size="2">
-<b>Correct/Update</b> 
-<br><font face="tahoma,arial,sans-serif" size="1">
-This site gives users the following options for changing and modifying information previously provided. Visit <a href="mainlogin.cfm">
-http://www.markdown.com/mainlogin.cfm</a>
-and log in and modify your user profile. 
-
-<br><br><font face="tahoma,arial,sans-serif" size="2">
-<b>Privacy Policy Changes</b> 
-<br><font face="tahoma,arial,sans-serif" size="1">
-Markdown.com LLC reserves the right to change this privacy policy at any time. If we decide to alter our policy, we will post the new policy here, 
-and from that point onward the site will be governed by the new documents. If you have any questions or comments regarding our privacy policy, 
-please e-mail us.
-
-</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></p></font></font></td></tr></tbody></table>
-
-</td>
-<!--END MAIN BODY AREA -->
-
-	<!--BEGIN RIGHT SIDE TABLE -->
-
-</tr>
-<!--END RIGHT SIDE TABLE-->
-<tr valign="bottom">
-	<td valign="bottom">
 	
-	<table align="center" border="0" valign="bottom">
-<tbody><tr valign="bottom">
-	<td valign="bottom">
 
-<p align="center">
-<font face="tahoma,arial,sans-serif" size="1"><a href="/index.cfm">Home</a> | <a href="/refer.cfm">Refer Your Friends</a> | <a href="/affiliates.cfm">Affiliates</a> | 
-<a href="/merchants.cfm">Merchant Information</a> | <a href="/hunters.cfm">Bargain Hunters</a> | <a href="/topten.cfm">Top Ten Members</a> | <a href="/cancel.cfm">Unsubscribe</a></font>
-</p>
-</td>
-</tr>
-</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<script type="text/javascript" language="javascript">
+  var internal_clicked=true;
+	if(typeof Content_appLoad == 'function')
+	{
+		Content_appLoad();
+	}
+</script>
 
 </body></html>
