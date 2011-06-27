@@ -1,14 +1,18 @@
-<!--The following is the downloaded HTML source of the storeboard.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226022118id_/http%3A//www.storeboard.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storeboard.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627045902id_/http%3A//www.storeboard.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Language" content="en-us">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
-<title>Storeboard Connects You To Your Community!</title>
+<title>Storeboard Privacy Policy</title>
+<meta name="keywords" content="store, board, profile, classifieds, products, social networking, business networking, free website, bulletin board, sell products, business profile, member profiles, web 2.0">
 <link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/fixedbar.css">
+<link rel="stylesheet" type="text/css" href="/css/calpopup.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/css/jquery.treeview.css">
 <link rel="stylesheet" type="text/css" href="/js/jquery.fancybox/jquery.fancybox.css" media="screen">
-<script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script language="javascript" type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
 <script language="javascript" type="text/javascript" src="/js/jquery.treeview.js"></script>
 <script language="javascript" type="text/javascript" src="/js/jquery-resize.js"></script>
@@ -21,8 +25,15 @@
 <script language="javascript" type="text/javascript" src="/js/swfobject.js"></script>
 <script language="javascript" type="text/javascript" src="/js/email_validate.js"></script>
 <script language="javascript" type="text/javascript" src="/js/common.js"></script>
+<style type="text/css">
+#fancybox-wrap {
+  top: 50px !important;
+  left: 5px !important;
+
+} </style>
 
 <script language="javascript" type="text/javascript" src="/js/mainsearch_validate.js"></script>
+<script language="javascript" type="text/javascript" src="/chat/ajax/start_chat_check.js"></script>
 <script language="javascript" type="text/javascript">
 function disableEnterKey(e)
 {
@@ -32,6 +43,22 @@ function disableEnterKey(e)
 		 else
 			  key = e.which; //firefox     
 		 return (key != 13);
+}
+
+function ChatClient(strSes)
+{
+     var w = 700;
+     var h = 500;
+     var l = (screen.width-w)/2;
+     var t = (screen.height-h)/2;
+     var params = 'status=0,resizable=0,scrollbars=0,width=' + w + ',height=' + h + ',left=' + l + ',top=' + t;
+     var hChatWindow = window.open('', 'ChatWindow', params);
+     hChatWindow.focus();
+     if (hChatWindow.location == 'about:blank')
+     {
+          hChatWindow.location = '/chat/chat_window.asp?ChatSession=' + strSes + '&id=3';
+          document.getElementById('menu-root').style.backgroundColor = '';
+     }
 }
 
 function ShowHideFriends()
@@ -47,12 +74,58 @@ function ShowHideFriends()
           document.getElementById("FriendsDisplay2").style.display = "";
      }
 }
+
+
+function ShowProfileChat()
+{
+     if (document.getElementById('FriendsDisplayProfiles').style.display == 'none')
+     {
+          document.getElementById('FriendsDisplayProfiles').style.display = '';
+          document.getElementById('FriendsDisplayChat').style.display = 'none';
+          document.getElementById('ProfileChatButton').innerHTML = 'Chat';
+     }
+     else
+     {
+          document.getElementById('FriendsDisplayProfiles').style.display = 'none';
+          document.getElementById('FriendsDisplayChat').style.display = '';
+          document.getElementById('ProfileChatButton').innerHTML = 'Profiles';
+     }
+}
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16073108-1']);
+  _gaq.push(['_setDomainName', '.storeboard.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 <script src="https://c.compete.com/bootstrap/55b08bf7a3ca7acfd169aa3f5874fa78/bootstrap.js" type="text/javascript" async=""></script></head>
 
 <body>
-<div style="width:1000px">
-  <table border="0" cellpadding="0" cellspacing="0" width="946">
+<div id="site-bottom-bar" class="fixed-position" style="display:none">
+  <div id="site-bottom-bar-frame">
+    <div id="site-bottom-bar-content" align="right">
+      <div id="menu-root">
+      <table cellpadding="0" cellspacing="0" border="0" style="width:100%">
+        <tbody><tr>
+          <td><img src="/images/chat.png" alt="Start Chat"></td>
+          <td style="padding-left:5px"><a href="##">Launch Chat</a></td>
+        </tr>
+      </tbody></table>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="site-body-container">
+  <div id="site-body-content">
+  <table border="0" cellpadding="0" cellspacing="0" width="946" align="center">
     <tbody><tr>
 	    <td align="center">
 	    <table border="0" cellpadding="0" cellspacing="0" width="946">
@@ -61,28 +134,35 @@ function ShowHideFriends()
           <div id="sbheadertop">
             <div style="float:right;position:relative;top:10px;right:20px;" class="f1">
               
-              <span class="f5" style="font-weight:bold">Welcome,</span> <a href="/signin.asp" class="BlueLink1">Sign In</a> or <a href="/register/" class="BlueLink1">Join Now!</a>
+              <span class="f5" style="font-weight:bold">Welcome,</span> <a href="/" class="BlueLink1">Sign In</a> or <a href="/" class="BlueLink1">Join Now!</a>
               
             </div>
           </div>
           <div id="sbheadermid">
             <table border="0" cellpadding="0" cellspacing="0" width="1000">
-              
               <tbody><tr>
-                <td style="width:359px"><a href="http://www.storeboard.com/dashboard"><img src="/images/mainlogo_beta.png" width="359" height="53" style="border:0px" alt=""></a></td>
-                <td align="right" style="padding:12px 10px 0px 0px">
+                <td style="width:307px;padding-left:40px" align="left" valign="top">
+                <div style="position:relative;left:0px;top:-5px;width:100%">
+                <table cellpadding="0" cellspacing="0" border="0">
+                  <tbody><tr>
+                    <td><a href="http://www.storeboard.com/dashboard"><img src="/images/storeboard_logo.png" style="border:0px" alt="Storeboard Logo"></a></td>
+                  </tr>
+                </tbody></table>
+                </div>
+                </td>
+                <td align="right" style="padding:0px 10px 0px 0px">
                 
                 <form method="post" name="frmMainSearch" action="/search_results.asp">
                 <input type="hidden" name="hidMainSearch" value="Y">
                 <table cellpadding="0" cellspacing="0" border="0">
                   <tbody><tr>
-                    <td><input value="What Are You Looking For?" onfocus="if (this.value == 'What Are You Looking For?') {this.value = '';document.frmMainSearch.tbSearchQuery.style.color='#000000';}" size="20" tabindex="1" name="tbSearchQuery" class="header-textbox" maxlength="64" style="color:#999999"></td>
-                    <td style="width:10px"></td>
+                    <td><input value="What Are You Looking For?" onfocus="if (this.value == 'What Are You Looking For?') {this.value = '';document.frmMainSearch.tbSearchQuery.style.color='#000000';}" size="20" name="tbSearchQuery" class="header-textbox" maxlength="64" style="color:#999999"></td>
+                    <td style="width:20px"></td>
                     <td>
-                    <input value="Newark, Delaware" onfocus="document.frmMainSearch.tbSearchLocation.style.color='#000000';" size="14" tabindex="2" name="tbSearchLocation" class="header-textbox" maxlength="64" style="color:#999999">
+                    <input value="Enter City, State or Zip" onfocus="document.frmMainSearch.tbSearchLocation.style.color='#000000';" size="14" name="tbSearchLocation" class="header-textbox" maxlength="64" style="color:#999999">
                     </td>
-                    <td style="width:10px"></td>
-                    <td valign="bottom"><img src="/images/btnGoStoreBoardOff.png" class="btnRollOver" onmouseover="style.cursor='pointer';" title="Click Here to Begin Search" alt="" onclick="validateHeader()"></td>
+                    <td style="width:20px"></td>
+                    <td valign="bottom"><img src="/images/btnGoStoreBoardOff.png" class="btnRollOver" onmouseover="style.cursor='pointer';" title="Click Here to Begin Search" alt="Go Storeboard" onclick="validateHeader()"></td>
                   </tr>
                 </tbody></table>
                 </form>
@@ -96,23 +176,30 @@ function ShowHideFriends()
 	        <td>
 	        <table border="0" cellpadding="0" cellspacing="0" width="1000" style="height:34px">
 	          <tbody><tr>
-	            <td style="width:8px"><img id="hdrnavleft" src="/images/hdrnav_left.jpg" alt=""></td>
+	            <td style="width:8px"><img id="hdrnavleft" src="/images/hdrnav_left.jpg" alt="hdrnavl"></td>
 	            <td valign="middle" style="width:auto;background-image:url('/images/hdrnav_bkg.jpg');height:34px;vertical-align:middle;">
 	            &nbsp;</td>
-	            <td style="width:350px;background-image:url('/images/hdrnav_bkg.jpg');height:34px;vertical-align:middle;" align="right">
+	            <td style="width:500px;background-image:url('/images/hdrnav_bkg.jpg');height:34px;vertical-align:middle;" align="right">
 	            <table cellpadding="0" cellspacing="0">
 	              <tbody><tr>
+	                
 	                <td><a href="http://www.storeboard.com/" class="sbheadernav">Home</a></td>
+	                
 	                <td style="padding:0px 5px 0px 5px;color:#FFFFFF">|</td>
-	                <td><a href="http://www.storeboard.com/about/" class="sbheadernav">About Storeboard</a></td>
+	                <td><a href="http://www.storeboard.com/members/?sName=A" class="sbheadernav">Profiles</a></td>
 	                <td style="padding:0px 5px 0px 5px;color:#FFFFFF">|</td>
+	                
+	                <td><a href="http://www.storeboard.com/classifieds/" class="sbheadernav">Classifieds</a></td>
+	                <td style="padding:0px 5px 0px 5px;color:#FFFFFF">|</td>
+	                
+	                <td><a href="http://www.storeboard.com/products.asp" class="sbheadernav">Marketplace</a></td>
+	                <td style="padding:0px 5px 0px 5px;color:#FFFFFF">|</td>
+	                
 	                <td><a href="http://www.storeboard.com/contact-us/" class="sbheadernav">Contact Us</a></td>
-	                <!-- <td style="padding:0px 5px 0px 5px;color:#FFFFFF">|</td>
-	                <td><a href="http://www.storeboard.com/faq/" class="sbheadernav">F.A.Q.</a></td> -->
 	              </tr>
 	            </tbody></table>
 	            </td>
-	            <td style="width:9px"><img id="hdrnavright" src="/images/hdrnav_right.jpg" alt=""></td>
+	            <td style="width:9px"><img id="hdrnavright" src="/images/hdrnav_right.jpg" alt="hdrnavr"></td>
 	          </tr>
 	        </tbody></table>
 	        </td>
@@ -144,60 +231,23 @@ function ShowHideFriends()
   
        <tr>
          <td align="center">
-         <table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td align="center" style="padding-bottom:10px">
-<iframe src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135973;type=iframe" allowtransparency="true" background-color="transparent" style="margin: 0px; padding: 0px; border:1px #7F7F7F solid" width="180" height="180" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-<![if lt IE 4]>
-<script src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135973;type=js" type="text/javascript">
-</script>
-<noscript>
-<a href="http://www.servedbyadbutler.com/go2/;ID=159011;size=180x180;setID=135973">
-<img src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135973;type=img" style="border:none" height="180" width="180" alt=""/></a>
-</noscript><![endif]>
-</iframe>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding-bottom:10px">
-<iframe src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135977;type=iframe" allowtransparency="true" background-color="transparent" style="margin: 0px; padding: 0px; border:1px #7F7F7F solid" width="180" height="180" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-<![if lt IE 4]>
-<script src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135977;type=js" type="text/javascript">
-</script>
-<noscript>
-<a href="http://www.servedbyadbutler.com/go2/;ID=159011;size=180x180;setID=135977">
-<img src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135977;type=img" style="border:none" height="180" width="180" alt=""/></a>
-</noscript><![endif]>
-</iframe>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding-bottom:10px">
-<iframe src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135980;type=iframe" allowtransparency="true" background-color="transparent" style="margin: 0px; padding: 0px; border:1px #7F7F7F solid" width="180" height="180" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-<![if lt IE 4]>
-<script src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135980;type=js" type="text/javascript">
-</script>
-<noscript>
-<a href="http://www.servedbyadbutler.com/go2/;ID=159011;size=180x180;setID=135980">
-<img src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135980;type=img" style="border:none" height="180" width="180" alt=""/></a>
-</noscript><![endif]>
-</iframe>
-</td>
-</tr>
-<tr>
-<td align="center" style="padding-bottom:10px">
-<iframe src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135982;type=iframe" allowtransparency="true" background-color="transparent" style="margin: 0px; padding: 0px; border:1px #7F7F7F solid" width="180" height="180" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-<![if lt IE 4]>
-<script src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135982;type=js" type="text/javascript">
-</script>
-<noscript>
-<a href="http://www.servedbyadbutler.com/go2/;ID=159011;size=180x180;setID=135982">
-<img src="http://www.servedbyadbutler.com/adserve/;ID=159011;size=180x180;setID=135982;type=img" style="border:none" height="180" width="180" alt=""/></a>
-</noscript><![endif]>
-</iframe>
-</td>
-</tr>
-</tbody></table>
+         
+         <table cellpadding="0" cellspacing="0" border="0" style="width:100%">
+           <tbody><tr>
+             <td align="center">
+             <script type="text/javascript"><!--
+             google_ad_client = "ca-pub-5039405514479755";
+             /* Storeboard Main */
+             google_ad_slot = "6012679135";
+             google_ad_width = 160;
+             google_ad_height = 600;
+             //-->
+             </script>
+             <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+             </script></td>
+           </tr>
+         </tbody></table>
+         
          </td>
        </tr>
        
@@ -205,46 +255,24 @@ function ShowHideFriends()
 	        </td>
 	        
 	        <td valign="top" style="padding-left:10px; padding-right:10px; height:100%">
-	        
-
-<!-- ######################## HEADER ENDS HERE ######################## -->
-
+	        <!-- ######################## HEADER ENDS HERE ######################## -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-    <td>
-        <span class="MedBlueTitle">Privacy Policy</span>
-    </td>
-</tr>
-<tr><td><hr size="1" width="100%"></td></tr>
-<tr>
-    <td align="left">
-        <p>This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the StoreBoard website ("StoreBoard") work and to keep it safe (details below). This policy is effective June 1, 2009.
-</p>
-<p>
-<strong>Collection. </strong><br>Information posted on StoreBoard is obviously publicly available. Our servers are located in the United States and in the European Union. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States and Europe. We collect and store the following personal information: email address, physical contact information, and (depending on the service used) sometimes financial information; computer sign-on data, statistics on page views, traffic to and from StoreBoard and ad data (all through cookies - you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); other information, including users' IP address and standard web log information.
-</p>
-<p>
-<strong>Use.  </strong><br>We use users' personal information to: provide our services resolve disputes, collect fees, and troubleshoot problems; encourage safe trading and enforce our policies; customize users' experience, measure interest in our services, improve our services and inform users about services and updates; communicate marketing and promotional offers to you according to your preferences; do other things for users as described when we collect the information.
-</p>
-<p>
-<strong>Disclosure.  </strong><br>We don't sell or rent users' personal information to third parties for their marketing purposes without users' explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to).
-service providers who help with our business operations.
-</p>
-<p>
-<strong>Communication and email tools.  </strong><br>You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages. If you use our tools to send content to a friend, we don't permanently store your friends' addresses or use or disclose them for marketing purposes. To report spam from other users, please contact customer support, <a href="mailto:privacy@StoreBoard.com" class="BlueLink1">privacy@StoreBoard.com</a>.
-</p>
-<p>
-<strong>Access, Modification, and Deletion.  </strong><br>You can see, modify or erase most of your personal information by reviewing and modifying your posting or account status page, by signing on to "My StoreBoard," or by contacting customer support (<a href="mailto:privacy@StoreBoard.com" class="BlueLink1">privacy@StoreBoard.com</a>) to review any personal information we store that is not available on StoreBoard. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent bad guys from coming back. If you have further questions, you can write to the Data Controller: TBD - Privacy Policy Requests, Address goes here. Transfer of Personal Data to Other Countries.
-</p>
-<p>
-<strong>Security.  </strong><br>We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees.
-</p>
-<p>
-<strong>General.  </strong><br>We may update this policy at any time, with updates taking effect when you next use the site or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to <a href="mailto:privacy@StoreBoard.com" class="BlueLink1">privacy@StoreBoard.com</a>.
-</p>
-
-    </td>
-</tr>
+  <tbody><tr>
+    <td><h1>Privacy Policy</h1></td>
+  </tr>
+  <tr style="height:1px">
+    <td style="background-color:#ACACAC"><img src="/images/pixel.gif" alt=""></td>
+  </tr>
+  <tr>
+    <td align="left"><p>This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Storeboard website ("Storeboard") work and to keep it safe (details below). This policy is effective March 1, 2011.</p>
+<p><strong>Collection. </strong><br>Information posted on Storeboard is obviously publicly available. Our servers are located in the United States and in the European Union. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States and Europe. We collect and store the following personal information: email address, physical contact information, and (depending on the service used) sometimes financial information; computer sign-on data, statistics on page views, traffic to and from Storeboard and ad data (all through cookies - you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); other information, including users' IP address and standard web log information.</p>
+<p><strong>Use. </strong><br>We use users' personal information to: provide our services resolve disputes, collect fees, and troubleshoot problems; encourage safe trading and enforce our policies; customize users' experience, measure interest in our services, improve our services and inform users about services and updates; communicate marketing and promotional offers to you according to your preferences; do other things for users as described when we collect the information.</p>
+<p><strong>Disclosure. </strong><br>We don't sell or rent users' personal information to third parties for their marketing purposes without users' explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). service providers who help with our business operations.</p>
+<p><strong>Communication and email tools. </strong><br>You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages. If you use our tools to send content to a friend, we don't permanently store your friends' addresses or use or disclose them for marketing purposes. To report spam from other users, please contact customer support, <a class="BlueLink1" href="mailto:storeboardcustomersupport@storeboard.com">storeboardcustomersupport@storeboard.com</a>.</p>
+<p><strong>Access, Modification, and Deletion. </strong><br>You can see, modify or erase most of your personal information by reviewing and modifying your posting or account status page, by signing on to "Your Storeboard," or by contacting customer support (<a class="BlueLink1" href="mailto:storeboardcustomersupport@storeboard.com">storeboardcustomersupport@storeboard.com</a>) to review any personal information we store that is not available on Storeboard. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent bad guys from coming back. If you have further questions, you can write to the Data Controller: TBD - Privacy Policy Requests, Address goes here. Transfer of Personal Data to Other Countries.</p>
+<p><strong>Security. </strong><br>We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees.</p>
+<p><strong>General. </strong><br>We may update this policy at any time, with updates taking effect when you next use the site or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to <a class="BlueLink1" href="mailto:storeboardcustomersupport@storeboard.com">storeboardcustomersupport@storeboard.com</a>.</p></td>
+  </tr>
 </tbody></table>    
         <!-- ##################### FOOTER BEGINS HERE ##################### -->
         </td>
@@ -256,14 +284,20 @@ service providers who help with our business operations.
 	  <td colspan="2">
     <div id="sbfooter" align="center">
     <hr>
-    COMPANY | <a href="http://www.storeboard.com/about/" class="sbfooter">About Storeboard</a> - <a href="http://www.storeboard.com/terms/" class="sbfooter">Terms &amp; Conditions</a> - <a href="http://www.storeboard.com/privacy/" class="sbfooter">Privacy Policy</a> <!-- - <a href="http://www.storeboard.com/faq/" class="sbfooter">F.A.Q.</a> --> - <a href="http://www.storeboard.com/contact-us/" class="sbfooter">Contact Us</a> - <a href="http://www.storeboard.com/sitemap.asp" class="sbfooter">Site Map</a><br>
-    PRODUCTS | <a href="http://www.storeboard.com/board/" class="sbfooter">Board</a> - <a href="http://www.storeboard.com/contact-me/" class="sbfooter">Contact Me™</a> - <a href="http://www.storeboard.com/sell-products-now/" class="sbfooter">Sell Products Now!</a> - <a href="http://www.storeboard.com/networking/" class="sbfooter">Networking</a><br>
-    <br>Copyright © 2010 Storeboard &nbsp; All Rights Reserved.</div></td>
+    COMPANY&nbsp;|&nbsp;<a href="http://www.storeboard.com/about/" class="sbfooter">About Storeboard</a>&nbsp;|&nbsp;<a href="http://www.storeboard.com/terms/" class="sbfooter">Terms and Conditions</a>&nbsp;|&nbsp;<a href="http://www.storeboard.com/privacy/" class="sbfooter">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.storeboard.com/contact-us/" class="sbfooter">Contact Us</a>&nbsp;|&nbsp;<a href="http://www.storeboard.com/press/" class="sbfooter">Press</a>&nbsp;|&nbsp;<a href="http://www.storeboard.com/sitemap.asp" class="sbfooter">Site Map</a><br>
+    PRODUCTS&nbsp;|&nbsp;<a href="http://www.storeboard.com/advertising/promote.asp" class="sbfooter">Promote Your Business!</a>&nbsp;|&nbsp;<a href="http://www.storeboard.com/advertising/order.asp" class="sbfooter">Advertise On Storeboard!</a>&nbsp;|&nbsp;<a href="http://www.storeboard.com/advertising/make_my_phone_ring.asp" class="sbfooter">"Make My Phone Ring!™"</a><br>
+    <br>Copyright © 2011 Storeboard &nbsp; All Rights Reserved</div></td>
   </tr>
 </tbody></table>
+
+<iframe name="fmeProcess" id="fmeProcess" src="/blank.html" style="width:200px;height:100px;display:none"></iframe>
+
+<iframe name="fmeStatusUpdate" id="fmeStatusUpdate" src="/status_update.asp" style="display:none;width:200px;height:100px;"></iframe>
+
+<iframe name="fmeChat" id="fmeChat" src="/chat/chat_update.asp" style="display:none;width:200px;height:100px;"></iframe>
+
 </div>
-<iframe name="fmeProcess" id="fmeProcess" src="/blank.html" style="width:800px;height:100px;display:none"></iframe>
-<iframe name="fmeStatusUpdate" id="fmeStatusUpdate" src="/status_update.aspx" style="display:none;width:600px;"></iframe>
+</div>
 <script type="text/javascript">
     __compete_code = '55b08bf7a3ca7acfd169aa3f5874fa78';
     (function () {
@@ -279,14 +313,5 @@ service providers who help with our business operations.
         if (d) { d.appendChild(s); }
     }());
 </script>
-<script language="javascript" type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script language="javascript" type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-16073108-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
 </body></html>
