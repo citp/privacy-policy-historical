@@ -1,21 +1,100 @@
-> *The following text is extracted and transformed from the markdown.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803014918id_/http%3A//www.markdown.com/privpolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markdown.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Markdown.com | Sign Up. Save Money. Get Paid.
+# Legal Agreement
 
-© 2000 Markdown.com LLC  
-[Privacy Policy](https://web.archive.org/web/20010803014918id_/http%3A//www.markdown.com/privpolicy.cfm) | [Disclaimer](https://web.archive.org/web/20010803014918id_/http%3A//www.markdown.com/disclaimer.cfm)   
-|   | 
+**Go Daddy Respects Your Privacy**
 
-**Markdown.com LLC Privacy Policy**  
-Markdown.com LLC is strongly committed to protecting your privacy. The purpose of this document is to inform our users what information we collect and how and why we use information that we collect from people who use the Markdown.com LLC site and/or e-mail alert service. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The Markdown.com LLC [ Anti-Spam policy](https://web.archive.org/web/20010803014918id_/http%3A//www.markdown.com/antispam.cfm) is incorporated into this privacy policy by reference. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-We will collect your IP address upon entry into our site. We use your IP address to help diagnose problems with our servers, and to administer our website. Your IP address is used to help identify you and to gather demographic information.  **Why We Ask For Personal Information**   
-When visitors to the Markdown.com LLC web site sign up for an account to start receiving our e-mail alerts, we ask them to tell us a little about themselves. Specifically, we ask for the user's e-mail address via a registration page. We do this so that we can e-mail our Markdown Alerts to subscribers; we feel this is a vital part of our service and thus find it necessary to ask for user e-mails. We request information from you, including your e-mail address and preferences, so that, in the future, we can target our users with the deals that will most likely be of interest to them. We also may use subscribers' e-mails to contact users and provide updates regarding Markdown.com LLC and to send user promotional material and information provided to us by our business partners (this is sent only if the user has told us that this is acceptable during the sign-up phase by "opting-in" to these types of announcements). Users may, at any time, opt out of receiving future mailings by accessing their account or visiting http://www.markdown.com/cancel.cfm. Demographic and profile data is also collected at our site. We use this data for internal analysis and to share with other companies the profile of our customers. Only the user's email address is required information to receive the e-mail alerts. Any additional fields on the registration form are optional and will not affect whether or not you will receive the newsletter (but will affect whether or not you are admitted as a full-member and are eligible to earn credits and share in the revenue of the Company). Finally, we may, and you authorize us to, disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.  **Third-Party Affiliates**   
-Markdown.com LLC partners with many companies to help support our free services. The Company will not share or sell to third parties any individual information users provide us. Markdown.com LLC may share non-personal aggregate, or summary, information regarding its subscribers with partners or other third parties. On occassion, we may authorize these third parties to send approved offers to our opt-in subscribers that we feel may be of interest to them. Users may opt-out of receiving these types of announcements during the registration process or at any other time simply by e-mailing Markdown.com LLC at the "suppport@markdown.com" address. In addition, we occassionally send information for advertisers in our own e-mails. We may also share aggregate information with third parties, in order to tell them more about our users. For example, we may tell potential advertisers that 25 percent of our users are between the ages of 18 and 30 (this statistic is an example only, not a real statistic and we occasionally conduct voluntary e-mail surveys of our users to acquire these facts). Users may choose to purchase services from other companies that are publicized through Markdown.com LLC. This privacy policy does not apply to information users give to these other companies. Any information users give to another company is governed by the rules of that company's privacy policy that may be different than Markdown.com's. Markdown.com LLC takes no responsibility for information given to other companies; please review these companies' privacy policies prior to your purchase if you're concerned.  **Cookies**   
-The first time you log into your member account at Markdown.com, we will provide you with a "cookie". This is a small file that resides on your computer and allows you to be recognized by our service when you return. Users can disable cookies within their system at any time and will not see any material change in the site content. In addition, we use an outside ad company to display ads on our site and these ads may or may not contain cookies. Cookies received with ads are collected by the advertising company, and we do not have access to this information. Some customer data (in aggregate form only) is shared with the advertising companies. Because all areas of the Markdown.com LLC site are free, and since a significant portion of our revenue comes from advertising, the use of cookies to help manage our advertising system is crucial to us.  **Security**   
-Access to private and confidential data is limited to only those employees with a specific need to retrieve this information. Each staff member with a need for such information employs their own user ID and password to access the data. System administration staff enforces a minimum password length and advises that special characters are included in all passwords. To ensure the utmost in security, internal reviews of the ecurity measures are conducted on a regular basis in addition to a formal semi-annual review.  **Choice/Opt-Out**   
-Our site provides users the opportunity to opt-out of receiving future communications from us. This site gives users the option for removing their information from our database to stop receiving future communications and no longer receive our service. If you are a full-member (i.e., you have a password) Visit [ http://www.markdown.com/mainlogin.cfm](https://web.archive.org/web/20010803014918id_/http%3A//www.markdown.com/mainlogin.cfm) and log in to unsubscribe. If you are not a full member, you can unsubscribe by clicking [HERE](https://web.archive.org/web/20010803014918id_/http%3A//www.markdown.com/cancel.cfm).  **Correct/Update**   
-This site gives users the following options for changing and modifying information previously provided. Visit [ http://www.markdown.com/mainlogin.cfm](https://web.archive.org/web/20010803014918id_/http%3A//www.markdown.com/mainlogin.cfm) and log in and modify your user profile.  **Privacy Policy Changes**   
-Markdown.com LLC reserves the right to change this privacy policy at any time. If we decide to alter our policy, we will post the new policy here, and from that point onward the site will be governed by the new documents. If you have any questions or comments regarding our privacy policy, please e-mail us. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+
+**Information Collection and Use**
+
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
