@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230154223id_/http%3A//www.carters.com/privacy/privacy-policy%2Cdefault%2Cpg.html%3Fid%3Dcarters) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627054034id_/http%3A//www.carters.com/privacy/privacy-policy%2Cdefault%2Cpg.html%3Fid%3Dcarters) for the most accurate reproduction.*
 
 # Carters.com | OshKoshBgosh.com Privacy Policy
 
