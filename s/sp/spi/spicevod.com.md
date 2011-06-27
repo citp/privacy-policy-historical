@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217200138id_/http%3A//spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D17982) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627165944id_/http%3A//www.spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D17982) for the most accurate reproduction.*
 
-# Confidentialité | Spice Video On Demand
+# Privacy | Spice Video On Demand
 
 **SpiceVOD.com Spice Platinum Theater Privacy Policy**
 
