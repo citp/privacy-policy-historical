@@ -1,31 +1,30 @@
-> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606200800id_/http%3A//closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051159id_/http%3A//www.closetmaid.com/en-us/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Closetmaid - Main
+# ClosetMaid Privacy Policy
 
-|  |   
----  
-| [](http://www.closetmaid.com/main.cfm?classification_id=1) | [](http://www.closetmaid.com/main.cfm?classification_id=8) | [](http://www.closetmaid.com/main.cfm?classification_id=3) | [](http://www.closetmaid.com/main.cfm?classification_id=4) | [](http://www.closetmaid.com/main.cfm?classification_id=5)  
----|---|---|---|---  
-  
-**Privacy Policy**
+**Overview**  
+Emerson is aware of the need to address Internet privacy issues and we believe you should be aware of how we intend to treat any information about you that we might receive on the Internet as a result of your visit to the Site. 
 
-ClosetMaid respects the individuals who visit our website and/or receive our electronic communications. ClosetMaid will not share or sell a user's email address or other specific personal information for marketing purposes. This Privacy statement will explain what user information is collected, how the information is used, saved and protected. It will also explain how to correct or remove personal information from our records. 
+**Information About Emerson On-Line Visitors**  
+You can visit Emerson on the Site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. 
 
-  1. **User Information Collected:**  
-Personal information such as name, address, phone number and email address is entered voluntarily on our website. In any area of our website where personal data is collected a check box option is available allowing the user to decide whether or not they would like to receive any form of contact from ClosetMaid in the future. 
+In general, we gather information about users of the Site collectively in order to determine, for example, which areas users access more frequently and which materials users access the most. 
 
-Through the usage of "cookies", we track the places you visited on our site. This allows your visit to the site to be customized if you so choose. Your browser can be set to notify you when you receive a cookie and then you can decide whether or not to accept it. 
+This information helps us to determine what is most beneficial for our users, and how we can continually create a better overall experience for our users by improving the content of the Site. 
 
-  2. **Information Usage:**  
-Our goal in collecting personal information is to process the information to better understand the needs of our consumers and how we can improve our products and services. When a consumer chooses to receive information from ClosetMaid, we plan to provide newsletters, new product announcements, services and special offerings. 
+There are times however, when we may need information from you, such as your name and address. Customarily, the personal information Emerson obtains is used only to respond to inquiries, to process orders, for product registration, or to allow you to access specific account information. 
 
-  3. **Records Saved and Secure:**  
-User information is kept secure in a fully protected hosting environment. Credit Card authorizations (when ordering a Professional Design) are handled directly by Verisign. That data is not stored by ClosetMaid. 
+We may also ask you to voluntarily provide us with information for market research such as your interests, demographics, and experience with our products. 
 
-**Any personal information voluntarily provided by a user to ClosetMaid is never sold or shared with 3rd parties.**
+Occasionally, we may make the e-mail addresses of those who provide information available to other reputable organizations whose products or services we think you may find interesting. 
 
-  4. **Updating or Removing Personal Information:**  
-You may update, change or remove your record from our database by using My ClosetMaid on [www.closetmaid.com](http://www.closetmaid.com/). In addition, all of our electronic communication contains a link at the bottom that will unsubscribe you from our mailing list. To access the unsubscribe link now [click here](http://www.closetmaid.com/unsubscribe/). 
+**Cookies  
+** Many sites use a technology called "cookies," where a Web site sends an element of data through your browser to your system. Some Emerson site pages use cookies so that we can better serve you when you return to our site. You can set your browser to notify you when you receive a cookie, letting you decide whether to accept it. 
 
+**Web Site Links**  
+Emerson's Site may contain links to other Web sites such as Emerson distributors and sales representatives. 
 
+While Emerson tries to link only to sites that share its high standards and respect for privacy, Emerson cannot take responsibility for the content or the privacy practices employed by other sites. 
 
+**Changes  
+** If at any time Emerson changes its privacy commitment, Emerson will post those changes here so that you will know what information Emerson gathers and how Emerson might use that information.
