@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantcast.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124024101id_/http%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantcast.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154226id_/http%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
 
 # Quantcast Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Quantcast provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personally Identifiable Information we receive through our website at [www.quantcast.com](http://www.quantcast.com/) (the **_“Quantcast.com Site”_** ), as well as through our market research services, which collect and analyze data across the Web through the Quantcast Tags ( ** _“Market Research Services”_** ), and our content and relevant advertising delivery service ( ** _“Delivery Service”_** ) (the Market Research Services and the Delivery Service, collectively, the **_“Services”_** ). This Privacy Policy applies to information that you provide to us when you use our Quantcast Measurement Program ( ** _a “Quantcast Client”_** ), but also when you simply access or use any information or content appearing on the Quantcast.com Site, whether as a registered user (a **_“Registered User”_** ) or as a non-registered user just browsing the Quantcast.com Site (a **_“Quantcast Visitor”_** ). This Privacy Policy also explains what type of information is collected if you visit third party websites serving content tagged by Quantcast Clients with Quantcast Tags. We may change the Privacy Policy from time to time. Please consult this Privacy Policy regularly for any updates.
 
-Quantcast is a member of the Network Advertising Initiative ( ** _“NAI”_** ) ([http://www.networkadvertising.org](https://web.archive.org/http//www.networkadvertising.org)) and is in compliance with the NAI’s Self-Regulatory Principles.
+Quantcast is a member of the Network Advertising Initiative ( ** _“NAI”_** ) ([http://www.networkadvertising.org](http://networkadvertising.org/)) and is in compliance with the NAI’s Self-Regulatory Principles.
 
 **_Personally Identifiable Information_** means information about you that can be used to contact or identify you. Personally Identifiable Information may include, but is not limited to, your username, your name, phone number, email address and home and business postal addresses.
 
@@ -43,9 +43,9 @@ Like many websites, we use cookies on the Quantcast.com Site (by placing or read
 
 **Opt-Out Option**
 
-If you prefer not to receive interest based content and ads enabled by Quantcast, you can always opt-out by clicking on our “Opt-Out” link [here](https://web.archive.org/how-we-do-it/consumer-choice/opt-out) or by accessing the NAI’s opt out-tool [here](http://www.networkadvertising.org/). After you opt-out, you will not receive interest based content and advertisements enabled by Quantcast. Please note that opting-out does not turn off other advertisements or other ad delivery solutions (non-Quantcast) that address advertising based on demographic, interests, or other forms of audience based data.
+Quantcast Measurement and Advertising are _**PII-free**_. We don’t store your IP address or any other personally identifiable information about you.
 
-The foregoing opt-out does not cover the collection of Log Data for the purpose of providing our Market Research Services (though no ads are sent to you in connection with such services).   ****
+But, if you prefer not to receive interest-based content and ads enabled by Quantcast and not to have Quantcast measure your pattern of website visits or other online media consumption, you can always opt-out by clicking on our “Opt-Out” link [here](https://web.archive.org/how-we-do-it/consumer-choice/opt-out) or by accessing the NAI’s opt out-tool [here](http://www.networkadvertising.org/). Please note that opting-out does not turn off other advertisements or other ad delivery solutions (non-Quantcast) that address advertising based on demographic, interests, or other forms of audience based data.
 
 **Information Sharing and Disclosure**
 
