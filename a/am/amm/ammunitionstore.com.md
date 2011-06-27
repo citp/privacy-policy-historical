@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammunitionstore.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226131537id_/http%3A//www.ammunitionstore.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammunitionstore.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627124318id_/http%3A//www.ammunitionstore.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ See also [Terms and Conditions](http://www.ammunitionstore.com/pages/Terms-and-c
 
 **Your personal information is treated as strictly confidential.**
 
-When you sign up or make a purchase with Ammunitionstore.com none of your information leaves our servers. You are not put on any lists, or submitted to any databank. 
+When you sign up, or make a purchase, with Ammunitionstore.com none of your information leaves our servers. You are not put on any lists, or submitted to any databank. 
 
 Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate, disclose and make use of personal information. We will safeguard any personal information unless sharing that information is required to comply with a criminal investigation.
 
@@ -25,8 +25,8 @@ The following outlines our privacy policy.
 
 **Advertising Privacy**
 
-We do not share or disclose any of our customer information. We do not use any customer information for 3rd party marketing. We do not participate in any spam mailing or bulk mailing. All email lists are generated are on an opt-in basis, such as our newsletter or promotional opt-ins.
+We do not share or disclose any of our customer information. We do not use any customer information for 3rd party marketing. We do not participate in any spam mailing or bulk mailing. All email lists generated are on an opt-in basis, such as our newsletter or promotional opt-ins.
 
 **Credit Card Privacy**
 
-We do not store credit card information on our web servers. This is for your saftey and protection. We do not offer any marketable information to any third party contractor or group. All transactions are done through encrypted https services and are secured with SSL (secure soket layer) technology.
+We do not store credit card information on our web servers. This is for your safety and protection. We do not offer any marketable information to any third party contractor or group. All transactions are done through encrypted https services and are secured with SSL (secure soket layer) technology.
