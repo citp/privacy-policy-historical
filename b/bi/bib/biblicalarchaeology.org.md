@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014530id_/http%3A//www.bib-arch.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblicalarchaeology.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627231505id_/http%3A//www.bib-arch.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Biblical Archaeology Society
 
