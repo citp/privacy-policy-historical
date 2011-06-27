@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the artscyclery.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226234507id_/http%3A//www.artscyclery.com/custservice/privacy.html%3Fpage%3Dserv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscyclery.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628002921id_/http%3A//www.artscyclery.com/custservice/privacy.html%3Fpage%3Dserv) for the most accurate reproduction.*
 
 # Art's Cyclery
 
-Your privacy is taken seriously here at Arts Cyclery. Please take a couple of minutes to read and understand our policies. If you have any questions or concerns about this privacy statement please contact us via mail at the following address: Art's Cyclery, Attn: Privacy Policy, 2140 Santa Barbara St., San Luis Obispo, CA, 93401 or email us at info@artscyclery.com.
+Your privacy is taken seriously here at Arts Cyclery. Please take a couple of minutes to read and understand our policies. If you have any questions or concerns about this privacy statement please contact us via mail at the following address: Art's Cyclery, Attn: Privacy Policy, 181 Suburban Rd., San Luis Obispo, CA, 93401 or email us at info@artscyclery.com.
 
 ## Privacy
 
