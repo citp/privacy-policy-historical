@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2008-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080506031621id_/http%3A//www.adparlor.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627153042id_/http%3A//www.adparlor.com/privacypolicy.html) for the most accurate reproduction.*
 
-# AdParlor - Privacy Policy
+# AdParlor - Optimized Facebook Advertising
 
 **Information Collection and Use by AdParlor**
 
@@ -10,37 +10,35 @@ We may also use a user's email address to send updates, a newsletter or news reg
 
 AdParlor also logs non-personally-identifiable information including IP address, profile information, referring/exit pages, date/time stamp, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes 
 
-The AdParlor code that a user integrates into their myspace Application makes requests of the AdParlor service and may pass certain personal information such as a myspace user id, birthday, or gender flag. AdParlor uses this information to provide the most relevant links (either promoting other myspace Applications or third party promotions). 
-
 **Third-Party Advertisers**
 
 Advertising partners may deliver advertisements appearing on the AdParlor network. Our arrangements with these advertisers do not require us to share any personally-identifiable information about our users. 
 
 **Cookies**
 
-AdParlor uses cookies to store users' preferences and to record session information, to ensure that visitors are shown content based on browser type and user profile information. Please note this privacy statement covers the use of cookies by www.adparlor.com only and does not cover the use of cookies by any advertisers. 
+We may use cookies when you use our services. Cookies are small text files that are placed on your computer's hard drive by our servers to identify your computer to our servers. No personally identifiable information stored in our cookies will be shared with outside companies for any purpose without your permission. You can also disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages, or not use the features that require cookies. We and our advertisers may use third-party companies to serve ads when you use the Services. These third-party ad-serving companies may also place cookies on your computer. Sometimes these cookies may be used to provide customized advertising to you on the Websites or on other sites. These advertising companies may also use Web beacons to help manage and optimize our online advertising. Some third-party ad serving companies have agreed to allow users to opt-out of receiving customized advertising. To opt-out of receiving customized advertising from ad networks who are members of the Network Advertising Initiative, please visit its [ website](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Links**
 
-AdParlor surfaces links to other myspace Applications and may link to other sites via user generated information. AdParlor is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on AdParlor and any information passed by users of the AdParlor in requesting link exchange or advertising code. 
+AdParlor surfaces links to other Applications and may link to other sites via user generated information. AdParlor is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on AdParlor and any information passed by users of the AdParlor in requesting link exchange or advertising code. 
 
 **Manually Deleting a User Account**
 
 To completely and permanently delete a user account, a user may contact us by postal mail at the following address: 
 
 AdParlor Delete Account  
-140 Old Surrey Lane  
-Richmond Hill, Ontario, Canada, L4C 7E5 
+99 Spadina Avenue #401   
+Toronto, Ontario Canada, M5V 3P8 
 
-Or by sending email to privacy@MySpaceAdNet.com subject "DELETE ACCOUNT" -- please note that the email must come from the account you wish to delete. 
+Or by sending email to privacy@adparlor.com subject "DELETE ACCOUNT" -- please note that the email must come from the account you wish to delete. 
 
 **Third Party Advertising**
 
-In certain cases ads that appear on the myspace Application pages that make use of the AdParlor. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize a computer each time they send an online advertisement. In this way, ad servers may compile information about users, or others who are using a computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by AdParlor and does not cover the use of cookies by any third party advertisers who may be promoted through the AdParlor. 
+In certain cases ads that appear on Application pages that make use of the AdParlor. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize a computer each time they send an online advertisement. In this way, ad servers may compile information about users, or others who are using a computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by AdParlor and does not cover the use of cookies by any third party advertisers who may be promoted through the AdParlor. 
 
 **Security**
 
-AdParlor user accounts are secured by user-created passwords and AdParlor takes certain precautions to insure that user account information is kept private. We use reasonable measures to protect user information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the absolute security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on AdParlor, please contact us a privacy@AdParlor.com 
+AdParlor user accounts are secured by user-created passwords and AdParlor takes certain precautions to insure that user account information is kept private. We use reasonable measures to protect user information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the absolute security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on AdParlor, please contact us a privacy@adparlor.com 
 
 **Sharing and Disclosure of Information AdParlor Collects**
 
