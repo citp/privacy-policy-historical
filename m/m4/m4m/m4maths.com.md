@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the m4maths.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128062746id_/http%3A//www.m4maths.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m4maths.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627084059id_/http%3A//m4maths.com/privacy.php) for the most accurate reproduction.*
 
-# Untitled Document
+# M4maths Privacy policy
+
+1)krishna kumar gupta (BBDNITM LUCKNOW) **42 Marks**    2)Biswajit Das (JIS College of Engineering, Kalyani.) **39 Marks**    3)sir amit nathani (IEC College of Engineering and Technology) **39 Marks** [**_View 10 April Test Result_**](https://web.archive.org/web/20110627084059id_/http%3A//m4maths.com/test_result.php)
 
 ### M4MATHS Privacy Policy
 
@@ -51,7 +53,3 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 By using this site, you signify your assent to the **M4MATHS** Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the **M4MATHS** Web Site following the posting of changes to these terms will mean you accept those changes. 
 
 **Thank you for your support of these policies and of M4MATHS.com.**
-
-Is this page helpful for your friends? If yes then share this page with your **_facebook_** friends and support M4maths. [Share](http://www.facebook.com/sharer.php)   
-OR   
-Here You can share this page with other social networks 
