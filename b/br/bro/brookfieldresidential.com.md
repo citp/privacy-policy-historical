@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brookfieldresidential.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206042327id_/http%3A//www.brookfieldresidential.com/Brookfield/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookfieldresidential.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627213353id_/http%3A//www.brookfieldresidential.com/Brookfield/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Brookfield Properties
+# Brookfield Residential Services
 
 **PRIVACY POLICY FOR THE COLLECTION, USE, DISCLOSURE AND SECURITY OF PERSONAL INFORMATION**
 
