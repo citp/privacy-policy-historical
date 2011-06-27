@@ -1,0 +1,335 @@
+<!--The following is the downloaded HTML source of the coupongreat.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627051431id_/http%3A//www.coupongreat.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<title>CouponGreat.com- Privacy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Professional/style/main.css">
+<meta name="keywords" content="coupons, online coupons, coupon codes, promo codes, deals, discounts, sales, promotions">
+<meta name="description" content="CouponGreat.com is a coupon portal that allows shoppers to get and share coupons and discounts for over 30,000 online stores.">
+<meta name="author" content="CouponGreat.com">
+<meta name="copyright" content="Copyright (c) 2008 by CouponGreat.com, Inc. All rights reserved!">
+<script type="text/javascript" src="/javascripts/formtool/formtool.js"></script>
+<script type="text/javascript" src="/javascripts/prototype/prototype.js"></script>
+<script type="text/javascript" src="/javascripts/scriptaculous/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/builder.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/effects.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/controls.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="/javascripts/categ_selection/categ_selection.js"></script>
+<script type="text/javascript" src="/javascripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/javascripts/ajax_SelectCity.js"></script>
+<script type="text/javascript" src="http://www.shrinktheweb.com/scripts/pagepix.js"></script>
+<!--[if IE]>
+<script type="text/javascript">
+    
+/* document.getElementsByClassName for IE */    
+document.getElementsByClassName = function(cl) {
+        var retnode = [];
+        var myclass = new RegExp('\\b'+cl+'\\b');
+        var elem = this.getElementsByTagName('*');
+        for (var i = 0; i < elem.length; i++) {
+			var classes = elem[i].className;
+			if (myclass.test(classes)) retnode.push(elem[i]);        
+		}
+        return retnode;
+};    
+
+</script>
+<![endif]-->
+<script type="text/javascript">
+      
+         function coupon_form() {
+            if (document.getElementById("TYPE").value != "code") {
+               document.getElementById("coupon_code").style.display="none";
+               document.getElementById("coupon_url").style.display="";
+            } else {
+               document.getElementById("coupon_url").style.display="none";
+               document.getElementById("coupon_code").style.display="";
+               
+            }
+         }
+      
+   </script>
+<script type="text/javascript">
+	
+	function add_to_mycoupons(id) {
+		var xmlHttp;
+
+		try {
+	  		/* Firefox, Opera 8.0+, Safari*/
+	  		xmlHttp=new XMLHttpRequest();
+	  	} catch (e) {
+  			/* Internet Explorer*/
+	  		try {
+	    		xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+	    	} catch (e) {
+	    		try {
+	      			xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+	      		} catch (e) {
+	      			alert("Your browser does not support AJAX!");
+	      			return false;
+	      		}	
+	    	}
+  		}
+  		xmlHttp.onreadystatechange=function() {
+    		if(xmlHttp.readyState==4) {
+    		}
+    	}
+   		var url = "/add_to_my_coupons.php";
+
+   		xmlHttp.open("POST", url, false);
+   		xmlHttp.setRequestHeader( 
+    		'Content-Type', 
+    		'application/x-www-form-urlencoded; charset=UTF-8' 
+		); 
+   		xmlHttp.send('l='+id);
+   		
+   		document.getElementById("add_to_my").innerHTML=xmlHttp.responseText;
+}
+
+function get_by_class() {
+    if (document.getElementsByClassName == undefined) {
+	document.getElementsByClassName = function(className)
+	{
+		var hasClassName = new RegExp("(?:^|\\s)" + className + "(?:$|\\s)");
+		var allElements = document.getElementsByTagName("*");
+		var results = [];
+
+		var element;
+		for (var i = 0; (element = allElements[i]) != null; i++) {
+			var elementClass = element.className;
+			if (elementClass && elementClass.indexOf(className) != -1 && hasClassName.test(elementClass))
+				results.push(element);
+		}
+
+		return results;
+	}
+}
+}
+
+
+</script>
+</head>
+<body onload="coupon_form();">
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/Professional/images/logo.gif" border="0" alt="logo"></a>
+</div>
+<form class="headerSearch" action="/index.php" method="get">
+<input class="searchInput" type="text" name="search" maxlength="250" value="search word such as kohls, macys.com etc" onclick="if (this.value == 'search word such as kohls, macys.com etc') {this.value='';}">
+<div class="searchBtn">
+<div class="searchBtnLeft"></div>
+<button class="searchBtnCenter" type="submit">Search</button>
+<div class="searchBtnRight"></div>
+</div>
+</form>
+<div class="userBar">
+<a href="/my_coupons.php" title="MyCoupons">MyCoupons</a>
+|
+<a href="/login.php" title="Log In to your account">Login</a>
+|
+<a href="/profile.php?mode=register&amp;agreed=true" title="Register new user">Register</a> 
+</div>
+</div>
+</div>
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+window.fbAsyncInit = function() {
+FB.init({appId: '166512803365400', status: true, cookie: true,
+xfbml: true});
+};
+(function() {
+var e = document.createElement('script'); e.async = true;
+e.src = document.location.protocol +
+'//connect.facebook.net/en_US/all.js';
+document.getElementById('fb-root').appendChild(e);
+}());
+</script><div class="path"><a href="/">CouponGreat.com</a> &gt; Privacy</div><div class="center1"><div class="centerContainer"><div style="float: right; width: 745px;"><div style="float: left;"><div class="centerContainerT"></div><div class="centerContainerM">
+<table cellpadding="5" width="100%" bgcolor="#ffffff" border="0"><tbody><tr><td class="blk18bld"><b>CouponGreat.com, Inc Privacy Policy</b></td></tr><tr><td class="gry11"><img src="http://www.coupongreat.com/images/e_blank.gif" width="1" height="1"></td></tr><tr><td class="gry11bld">Your personal information is kept private.</td></tr><tr><td class="gry11bld">We’ll collect only the information we need to serve you.</td></tr><tr><td class="gry11">At CouponGreat.com, we will ask you to provide us with only the personal information we need to complete your transaction, to enable us to provide you with customer service, or so that you can register for special offers, benefit programs, email updates, or other services, contests, sweepstakes, or opportunities.</td></tr><tr><td class="gry11">CouponGreat.com collects no personally identifying information about you except when you specifically and knowingly provide such information. We require your email address to confirm your order and to contact you regarding your purchases and shipments. We may also ask for optional interest or demographic information which will help us and our partners gain a better understanding of who we’re serving, and therefore improve our service to you.</td></tr><tr><td class="gry11">CouponGreat.com collects statistical information which allows us to track the frequency of visits to our different merchants and departments. We also collect demographic information associated with visits and purchases. This information is collected for statistical purchases only, and may be shared only in the aggregate.</td></tr><tr><td class="gry11bld">We’ll store that information securely.</td></tr><tr><td class="gry11">Any information you choose to provide to CouponGreat.com will be protected by a password you set and which you alone retain. And the information is stored on a secure server which is not accessible to the Internet.</td></tr><tr><td class="gry11">Like most major Web sites, CouponGreat.com uses "cookies" to enable us to serve you. Cookies are an industry-standard technology which make the use of our online shopping cart possible, among other features, and our use of cookies does not infringe upon your privacy.</td></tr><tr><td class="gry11">A cookie is a small data file that a Web site writes to your hard drive when you visit, which assigns you a unique ID and allows the site to save selections made and information entered during your time at the site, and to recognize you when you return. CouponGreat.com also uses cookies to determine if you have been referred to CouponGreat.com from a particular link, banner, or partner site. The only personal information a cookie can contain is information you knowingly supply yourself; a cookie can’t read data off your hard disk or read cookie files created by other sites.</td></tr><tr><td class="gry11bld">We won’t share any information without your permission.</td></tr><tr><td class="gry11">CouponGreat.com believes in your right to informed consent in the handling of your information. We will not rent or sell your personal information to any other company unless you tell us we can. If you have been referred to us by an airline partner or other partner or affiliate, we may provide them with information to help them better serve you. And we may use your information or share it with our affiliates and partners to improve our service to you and provide you with updates about items and offers which may be of special interest to you. If you have asked that we not shre your information, we may still need to provide your contact information to third parties to ensure that you do not receive any marketing messages from them.  We may share non-personal, non-individual information in aggregate form with our marketing partners, advertisers, or other third parties. This information is in the form of use statistics or purchase demographics, and is never connected to personal information.</td></tr><tr><td class="gry11bld">Opt-Out Policy</td></tr><tr><td class="gry11">If, at any time after registering for information, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication or go to <a href="http://www.coupongreat.com/unsubscribe.php">here</a> to be removed.</td></tr><tr><td class="gry11bld">Your Privacy Rights</td></tr><tr><td class="gry11">Please keep in mind that, the foregoing policy and our best efforts notwithstanding, we cannot unconditionally guarantee that your information will never be disclosed to a third party. We may be obligated, in certain circumstances, to disclose information to the federal government in response to a warrant or official request. So by using CouponGreat.com, you do authorize us to disclose your personal information to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Further, the foregoing policy notwithstanding, third parties may unlawfully intercept or access private communications despite every best effort made by CouponGreat.com, using industry-standard security measures, to prevent such an occurrence.</td></tr></tbody></table><table><tbody><tr><td class="smallDesc" align="left"><script type="text/javascript"><!--
+google_ad_client = "pub-7472938643799119";
+/* 336x280, created 9/25/09 */
+google_ad_slot = "9811528061";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br><br>
+</td></tr></tbody></table><div style="clear: both"></div></div><div class="centerContainerB"></div></div></div><div class="leftContainer">
+<script language="JavaScript1.2">
+    
+    function validate_email(id)
+    {
+      if (id == 0) {
+      	var field = document.getElementById("email2");
+      } else if (id == -1) {
+      	var field = document.getElementById("email3");
+      } else {
+      	var field = document.getElementById("email_"+id);
+      }
+      with (field)
+      {
+      apos=value.indexOf("@");
+      dotpos=value.lastIndexOf(".");
+      if (apos<1||dotpos-apos<2) 
+        {alert('Please provide a valid email address');return false;}
+      else {return true;}
+    }
+    }
+    
+    </script>
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Coupon Categories</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">
+<ul class="boxPopCats">
+<li>
+<a href="/latest_coupons.php" title="Latest Coupons"><font size="2">Latest Coupons</font></a>
+</li>
+<li>
+<a href="/popular_coupons.php" title="Most Popular Coupons"><font size="2">Most Popular Coupons</font></a>
+</li>
+<li>
+</li><li>
+<a href="/printable_coupons.php" title="Printable Coupons"><font size="2">Printable Coupons</font></a>
+</li>
+<li>
+<a href="/share_coupon.php" title="Share Coupons"><font size="2">Share Your Coupons</font></a>
+</li>
+<li>
+<a href="/share_local_coupon.php" title="Share Coupons"><font size="2">Share Local Coupons</font></a>
+</li>
+<br>
+<li>
+<a href="/Autos/" title="Autos"><font size="2">Autos</font></a>
+</li>
+<li>
+<a href="/Beauty_Products/" title="Beauty"><font size="2">Beauty</font></a>
+</li>
+<li>
+<a href="/Books/" title="Books"><font size="2">Books</font></a>
+</li>
+<li>
+<a href="/Business/" title="Business"><font size="2">Business</font></a>
+</li>
+<li>
+<a href="/Children/" title="Children"><font size="2">Children</font></a>
+</li>
+<li>
+<a href="/Clothing/" title="Clothing"><font size="2">Clothing</font></a>
+</li>
+<li>
+<a href="/Collectibles/" title="Collectibles"><font size="2">Collectibles</font></a>
+</li>
+<li>
+<a href="/Computers/" title="Computers"><font size="2">Computers</font></a>
+</li>
+<li>
+<a href="/Crafts/" title="Crafts"><font size="2">Crafts</font></a>
+</li>
+<li>
+<a href="/Education/" title="Education"><font size="2">Education</font></a>
+</li>
+<li>
+<a href="/Electronics/" title="Electronics"><font size="2">Electronics</font></a>
+</li>
+<li>
+<a href="/Employment/" title="Employment"><font size="2">Employment</font></a>
+</li>
+<li>
+<a href="/Entertainment/" title="Entertainment"><font size="2">Entertainment</font></a>
+</li>
+<li>
+<a href="/Financial_Services/" title="Financial Services"><font size="2">Financial Services</font></a>
+</li>
+<li>
+<a href="/Flowers/" title="Flowers"><font size="2">Flowers</font></a>
+</li>
+<li>
+<a href="/Food/" title="Food"><font size="2">Food</font></a>
+</li>
+<li>
+<a href="/General_Merchandise/" title="General Merchandise"><font size="2">General Merchandise</font></a>
+</li>
+<li>
+<a href="/Gifts/" title="Gifts"><font size="2">Gifts</font></a>
+</li>
+<li>
+<a href="/Health/" title="Health"><font size="2">Health</font></a>
+</li>
+<li>
+<a href="/Home_and_Garden/" title="Home and Garden"><font size="2">Home and Garden</font></a>
+</li>
+<li>
+<a href="/Insurance/" title="Insurance"><font size="2">Insurance</font></a>
+</li>
+<li>
+<a href="/Jewelry/" title="Jewelry"><font size="2">Jewelry</font></a>
+</li>
+<li>
+<a href="/Legal/" title="Legal"><font size="2">Legal</font></a>
+</li>
+<li>
+<a href="/Local/" title="Local"><font size="2">Local</font></a>
+</li>
+<li>
+<a href="/Major_Retailers/" title="Major Retailers"><font size="2">Major Retailers</font></a>
+</li>
+<li>
+<a href="/Music/" title="Music"><font size="2">Music</font></a>
+</li>
+<li>
+<a href="/Office_Products/" title="Office Products"><font size="2">Office Products</font></a>
+</li>
+<li>
+<a href="/Online_Services/" title="Online Services"><font size="2">Online Services</font></a>
+</li>
+<li>
+<a href="/Pets/" title="Pets"><font size="2">Pets</font></a>
+</li>
+<li>
+<a href="/Services/" title="Photo"><font size="2">Photo</font></a>
+</li>
+<li>
+<a href="/Recreation/" title="Recreation"><font size="2">Recreation</font></a>
+</li>
+<li>
+<a href="/Restaurant/" title="Restaurant"><font size="2">Restaurant</font></a>
+</li>
+<li>
+<a href="/Sports/" title="Sports"><font size="2">Sports</font></a>
+</li>
+<li>
+<a href="/Telecommunications/" title="Telecommunications"><font size="2">Telecommunications</font></a>
+</li>
+<li>
+<a href="/Tools/" title="Tools"><font size="2">Tools</font></a>
+</li>
+<li>
+<a href="/Toys_and_Games/" title="Toys and Games"><font size="2">Toys and Games</font></a>
+</li>
+<li>
+<a href="/Travel/" title="Travel"><font size="2">Travel</font></a>
+</li>
+<li>
+<a href="/Weddings/" title="Weddings"><font size="2">Weddings</font></a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>
+<div class="box">
+</div>
+</div>
+<div style="clear: both; height: 30px;"></div></div><div style="clear: both; height: 50px;"></div><div><form class="headerSearch" action="/index.php" method="get"><input class="searchInput" type="text" name="search" maxlength="250" value="search word such as kohls, macys.com etc" onclick="if (this.value == 'search word such as kohls, macys.com etc') {this.value='';}"><div class="searchBtn"><div class="searchBtnLeft"></div><button class="searchBtnCenter" type="submit">Search</button><div class="searchBtnRight"></div></div></form></div><div style="clear: both; height: 50px;"></div><div class="footer"><a href="/share_coupon.php" title="Submit coupon">Submit a Link</a>| <a href="/share_local_coupon.php" title="Submit local coupon ">Submit Local Coupon</a>| <a href="/contact.php" title="Contact">Contact us</a> | <a href="/support.php" title="Support">Customer Support</a> | <a href="/privacy.php" title="privacy">Privacy</a></div><div class="footer">While CouponGreat.com makes every effort to post correct information, we can make no guarantees about the accuracy of any coupons on this site. offers are subject to change without notice. Some exclusions may apply based upon merchant policies.<br>Copyright ©2010, CouponGreat.com</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8919694-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+</div></body></html>
