@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snowboardmag.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228024542id_/http%3A//snowboardmag.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowboardmag.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627120929id_/http%3A//snowboardmag.com/privacy-policy-0) for the most accurate reproduction.*
 
-# Privacy Policy | Snowboard-Mag
+# Privacy Policy | Snowboard Magazine
 
 ## Privacy Policy
 
