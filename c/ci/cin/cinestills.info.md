@@ -1,68 +1,100 @@
-> *The following text is extracted and transformed from the cinestills.info privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224135344id_/http%3A//www.cinestills.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinestills.info privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Tamil Cinema Kollywood News | Photo Gallery | Trailers | etc
+# Legal Agreement
 
-**www.cinestills.info Privacy Policy**  
-_Effective March, 2009_
+**Go Daddy Respects Your Privacy**
 
-www.cinestills.info welcomes you. We value your privacy, and want you to know what information we collect and what we do with it.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-From time to time, we may make changes to this Policy. We will endeavor to post the changes before they become effective. The effective date of the most recent version of the privacy policy will appear at the top of this page. This consumer privacy policy applies to any information we collect or receive about you, from any source.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Information Collected by www.cinestills.info**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-www.cinestills.info have several areas where members can submit information to us, and we also have features that automatically collect information from our members and other users.
+**Information Collection and Use**
 
-**Information Provided to www.cinestills.info**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-www.cinestills.info features certain areas where we ask you to provide information to us.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Registration:**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-You may register with us to use some of our member only features on our site. We may also offer the option for you to register with us or sign up for our mailing list without having to use any other product or service. During registration, you provide your “contact information” (which identifies you and how we can contact you, such as your name and email address) as well as certain demographic information (which describes certain information about you, such as your country of residence). You may be asked to enter an e-mail address and password. We may also ask you to provide additional information about your music preferences, so that we can cater to those preferences.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Communications from Us and Mailing Lists:**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-In order to keep our members informed about the operation of our services, we will send e-mails and announcements that are needed for the proper functioning and administration of our site and subscription service. For additional information about our site, services and offers, we give our members the option of joining our mailing list. We also allow you to choose whether to receive mails from partners and sponsors that we think will be of interest to you. Each marketing e-mail from us will come with instructions on how to unsubscribe from our mailing list.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Communications with Us:**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We have features where you can submit information to us (such as when contacting us with a question or problem related to the service). We will retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
+**Security**
 
-**Interactive Features:**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-We also may offer interactive features, such as message boards, chat rooms, etc. Note that all personal information you send or post via such features becomes public information, and we are not responsible for any information you choose to make public (including any online identifier, such as an email address, instant messenger name or member name). We may store such information in an aggregate form but we will not file or retain such information on a personal basis. We may monitor such traffic via electronic software or personnel but only to check for obscenity, defamation or other types of abusive language, which we reserve the right to remove at any time.
+**Updating Your Information**
 
-**Surveys:**
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We may occasionally ask members to participate in surveys. Such surveys will be voluntary. They are intended to improve your member experience and any information you provide we may associate with your member name for future use. Any personal information collected will be used only by us unless we specify otherwise, although we may share aggregate survey result information with others.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Automatic Data Collection:**
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Cookies:**
+      iii.      You may call us at: (480) 505-8800
 
-We use a software technology called “cookies” for several purposes, depending on the type of cookie employed. Within www.cinestills.info, we use what are commonly called “session” cookies, meaning that they only last as long as you are online. We use these cookies to identify you as a valid subscriber so that we can deliver music to you, to ensure that no one else can sign on simultaneously with your account from another computer and to help us personalize your service experience based on your registration preferences (such as genre). We may also use session cookies to help us facilitate any promotions or surveys that we provide. As part of the sign-in process, we may also use what are commonly called “persistent” cookies which stay with you after your session is over and you are offline. We only use these cookies in connection with a sign-in feature that allows you to save your member name and password so that the next time you sign in, these fields will be pre populated for you. This cookie is only offered in conjunction with certain Affiliate Sites that choose to make it available and it can only be activated if you select that option during your sign-in. If you select this option you can always deselect it each time you sign-in.
+       iv.      You may fax us at: (480) 505-8844
 
-**Others:**
+**Sending Emails**
 
-In order to personalize our service for your enjoyment and to monitor and improve the performance of our technology, we do collect/capture other data such as a member’s searches (such as their search criteria and results). For our internal purposes, we gather information such as date, time, connection speed and IP address of all visitors to our site. We keep this information simply for our internal security audit log, trend analysis, and system administration.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Third Party Advertising & Third Party Cookies:**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+**Compliance with Laws and Law Enforcement**
 
-**With whom we share your information:**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, all of which agree to use it only for that purpose and to keep the information secure and confidential. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred, will be able to use your personal information under the terms of this privacy policy. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency’s request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. We may share (provide and receive) with others certain aggregate service information, which is not personally identifiable. This information may include usage and demographic data, but it will not include personal information (such as your email address). We may use aggregate demographic information about our audience in order to improve our service, for marketing purposes and/or industry reporting purposes.
+**Third Party Service Providers**
 
-**Links:**
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-We may display links to other sites within www.cinestills.info. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information.  
-**  
-Downloads:**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-We do link to other web sites which might support downloads. We are not responsible for the downloadable materials that are present in these websites. We are also not responsible for the legalities and privacy policy binding the downloadable materials of these websites. We are also not responsible for the legalities and privacy policy binding these downloads in the websites that our visitors refer to in our forums and discussions. Downloads referred to in this privacy policy can be videos, images, software, games and any application files.
+**Supplementation of Information**
 
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-[](http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fis.gd%2Fi6cbA "Post to Twitter")
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
