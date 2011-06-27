@@ -1,125 +1,114 @@
-> *The following text is extracted and transformed from the photoshow.com privacy policy that was archived on 2008-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080402111209id_/http%3A//www.photoshow.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshow.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627052045id_/http%3A//www.photoshow.com/legal/privacy) for the most accurate reproduction.*
 
-# PhotoShow | Privacy Policy
+# Roxio - Privacy Statement
 
-  
-**Updated January 25, 2007**
+Welcome to the website properties (the "Sonic Web Sites") of Sonic Solutions and its affiliates, [subsidiaries](http://www.sonic.com/privacy/subsidiaries.asp), successors, and assigns (collectively referred to as "Sonic")Sonic Websites include, without limitation, www.sonic.com, www.roxio.com, and other website properties hosted by or on behalf of Sonic. Sonic products and services (collectively, the "Products and Services") are offered by Sonic through web pages at or linked to the Sonic Web Sites, and are made available subject to this Privacy Policy. This Privacy Policy discloses the privacy practices of Sonic. Sonic reserves the right to change this Privacy Policy from time to time in its sole discretion. You are at all times responsible for reading and understanding any notices regarding this Privacy Policy and the current version of this document, as well as reading and understanding the current versions of all other Sonic policies, procedures and guidelines relating to the Products and Services and the Sonic Web Sites. A notice will be posted on our Web Sites whenever this Privacy Policy is changed in a material way. YOUR CONTINUED USE OF SONIC WEB SITES AND/OR THE PRODUCTS AND SERVICES FOLLOWING SONIC'S POSTING OF ANY CHANGES WILL CONSTITUTE YOUR ACCEPTANCE OF SUCH CHANGES. IF YOU DO NOT AGREE TO ANY CHANGES TO THIS PRIVACY POLICY, DO NOT CONTINUE TO USE THE PRODUCTS OR SERVICES OR THE SONIC WEB SITES.
 
-We've recently updated our Privacy Policy to reflect new features available on our web sites, such as personal channels and public categories, shows embedded into other web sites, and our new web address at photoshow.com. 
-
-We've expanded and updated information on who can see your photos at our Web Sites; added information on marking shows private; reaffirmed and amplified our commitment to protecting the privacy of your friends' email addresses when you share shows with them; and made several minor edits for readability and clarity. 
-
-We encourage you to review the updated policy. If you have any questions, please don't hesitate to get in touch with us. The contact information is in section 11 below. 
-
-**1\. Simple Star Privacy Statement.**
-
-Simple Star, Inc. ("Simple Star" or "us" or "we") has created this privacy statement in order to demonstrate our commitment to privacy. Due to the nature of the information we collect from our users, including personal photographs, email addresses and credit card information, we believe it is important to satisfy strict privacy requirements.
-
-This privacy notice applies to our services available under our family of websites, including simplestar.com, photoshow.com, photoshow.net, photoshow.snapfish.com, photoshow.comcast.net and related sub-domains, and to all information collected or submitted on those online services operated by Simple Star (collectively the "Web Sites"). 
-
-Please be advised that this privacy policy does not apply to the practices of companies that Simple Star does not own or control, or to people whom Simple Star does not employ or manage. 
-
-**2\. Who Sees Your Shows (and Photos) After They Have Been Posted Online?**
-
-Using our privacy features, you can control who can see your photographs and shows on our Web Sites. As with any public web site, though, we cannot control the actions of people who view your content. You should be aware that visitors may copy, modify or distribute photos displayed on our Web Sites in ways you did not intend (even though our Terms of Service prohibit this behavior). In other words, if you don't want the whole world to see it, you shouldn't share it on the web.
-
-You have the option of marking any show you create _private_. When you make a show private, it will only be shown to viewers whose email addresses you've specified. Those viewers must identify themselves by signing in (or creating an account) using the email addresses you've provided before they will be able to see your show.
-
-If you don't mark a show private, then all visitors will be able to view it. Visitors can find your non-private shows if you list them in public categories, by searching for tags or topics, by viewing channels you have created, or by clicking your username and seeing a list of all non-private shows you've posted. 
-
-If a show is not marked as private, people may also find it displayed or linked on other web sites which Simple Star does not control. For example, your non-private shows may be indexed in search engines like Google and Yahoo. They may also be embedded in other sites such as blogs or MySpace.
-
-Whether or not your show is marked private, Simple Star employees or employees of partner companies that provide services to Simple Star may see your photos when you or other users order products or services involving those photos (such as PhotoShow DVDs and photo merchandise). In addition, your photos or personal account information may be seen by Simple Star employees, affiliates, licensees, vendors and/or third party contractors in order to evaluate, validate, or correct problems with your account, and in the course of maintaining and ensuring proper operation of the Web Sites.  
-
-
-**3\. Collected Information.**
-
-Simple Star collects personal information online when: 
-
-  * You use our software or Web Sites to store, share, and/or order photo products or services using your pictures or shows online; 
-  * You make online purchases; 
-  * You submit questions or comments to us; 
-  * You request information or materials; 
-  * You register products online; 
-  * You download trial or free versions of our software; 
-  * You participate in online surveys; 
-  * You participate in online promotions, premiums, sweepstakes or contests; 
-  * You request we embed a show into another web site on your behalf; and 
-  * You request we send invitations to view shows to your friends, family and colleagues. 
+  1. What information of yours does Sonic collect?
+  2. What are "cookies" and how does Sonic use them?
+  3. What organization is collecting the information?
+  4. How does Sonic use the information?
+  5. With whom does Sonic share the information that is collected?
+  6. What types of security procedures are in place to protect against the loss, misuse or alteration of your information?
+  7. Sonic notice regarding the U.S. Children's Online Privacy Protection Act (COPPA) of 1998
+  8. Updating your personal information and privacy preferences
+  9. Inquiries and Complaints
+  10. Disputes
 
 
 
-The type of information collected may include name, address, phone number, billing and delivery information, e-mail address, gift recipient information, credit card information, login information for Simple Star or partner services, and demographic information. We may also collect general information about your computer, such as its operating system, screen resolution, web browser, etc.  
+Contact information for questions regarding this statement should be directed to:
 
+Sonic Solutions Privacy Site Coordinator/Privacy Compliance  
+Sonic Solutions  
+7250 Redwood Blvd  
+Suite 300 Novato CA 94945  
+email: [privacy@sonic.com](mailto:privacy@sonic.com)
 
-**4\. How does Simple Star use collected personal information?**
+Please note that Sonic Web Sites may contain links to other sites and that these sites' Privacy Policies may not conform to our own. This Sonic Privacy Policy does not cover third party data collection practices and Sonic does not assume any responsibility for any actions of third parties. You are solely responsible for reading and understanding the privacy and other policies of such web sites, and for complying therewith.
 
-Our primary goal in collecting your personal information is to provide you with a personalized, relevant, user-friendly experience on the Web Sites. Here are the ways we use your personal information to enhance this experience:
+#### 1\. What information of yours does Sonic collect?
 
-  * We use your information to communicate with you. We use your email address to inform you of product improvements, feature announcements, newsletters, and Simple Star promotional offers. If you do not wish to receive these communications, you may always "opt out" by using the subscription preferences link that appears at the bottom of each of our mailings. (If you opt out of promotional communications, we will still contact you in response to specific requests or transactions that you initiate. For example, you will still receive emailed receipts for your online purchases and responses to your technical support requests. You will also continue to receive notifications of shows shared with you as requested by your friends, family, and colleagues.) 
-  * From time to time, we may also directly contact some of our users via email or phone to conduct market research which will help us improve future versions of our products. Only Simple Star (or agents working on behalf of Simple Star under confidentiality agreements) will ever have the authority to contact you directly. 
-  * When you share shows through the Web Sites, we use the "to" email addresses you provide to invite your friends, family members, and colleagues to view these shows. We have never and will never supply these email addresses to third parties or use them to spam your friends. 
-  * When you supply login information for one of our partners' services through our software or websites, we use that that login and password only to sign you into that partner's services. We do not retain your login information, and Simple Star employees do not have access to any of your account information at our partners. 
-  * We use your information to provide you with products and services that you have requested. For example, if you purchase photo merchandise through our store, we will use your billing and credit card information to charge you for the merchandise, the shipping address to deliver the merchandise, and your email address and/or phone number to inform you about the status of your order and contact you if there are any issues processing it. 
-  * When you interact with one of our partners through our Web Sites or software, we may share your information with that partner. 
-  * We use data about the use of our systems to monitor their proper operation, and to help us maintain and improve our products and services. For example, we might use data that the number of shows shared increases over the summer to increase our server capacity during those months, or to help us decide to offer clip art with a summer vacation theme. 
-  * We use aggregated, anonymous data about our users as a group to help understand our business and communicate it to our partners. For example, we might inform a partner that 1,000,000 of our customers order custom DVDs at least once a year. Your information, however, will never be personally identifiable when aggregated for these purposes   
+The goal of Sonic is to provide you with the information, services and resources that are most relevant and useful to consumers and professionals interested in our products and those who serve them. To achieve this goal, Sonic sometimes needs to collect information to understand what differentiates you from its hundreds of thousands of other unique users. We collect two types of information from you, "anonymous information" and "personally identifiable information."
 
+Anonymous information refers to information that cannot be tied back to a specific individual. Each time a visitor comes to a Sonic Web Site, Sonic collects some information to improve the overall quality of the visitor's online experience. Sonic also collects aggregate search terms from its search services for internal reporting and targeted content presentation (that is, web pages which are dynamically displayed based on your individual interests). Sonic collects this user information for purposes of product monitoring, product improvement, and targeted content.
 
+In addition to anonymous data, Sonic may also collect personally identifiable information. Personally identifiable information refers to information that tells us specifically who you are, such as your name and postal address, credit card information, email address, products or services you purchase. Sonic collects personally identifiable information in the following ways from different parts of its network of web sites:
 
+Most of the personal information is gathered when you register with one or several of Sonic Web Sites (often when you use a computer program or other Product or Service for the first time). If you choose to register, you may provide Sonic with your name, postal address, email address, birth date, gender, zip code and other requested information. While not all of this information may be required, the more information you provide (and the more accurate it is), the better we are able to customize your experience.
 
-**5\. Information Collected Through Use of Cookies, Referrers, and Other Technologies.**
+Sonic may also specifically ask you whether we may send you information about Products and Services related to a Sonic purchase.
 
-Simple Star's servers automatically receive and record data from visitor web browsers and online communications from our software, including computer IP (Internet Protocol) addresses, information through the use of cookies, and referring site information (when you follow a link to our site or view a show embedded on a third-party site).
+Sonic collects information from commercial transactions, from requests for information on the Sonic Web Sites, and from its registration database.
 
-This information is collected about thousands of site visits and analyzed as a whole. This analysis looks for trends among many visitors to our Web Sites, and determines which parts of the site are accessed most frequently and what information visitors find most valuable. 
+Sonic employs update management software to collect installation and registry information from your computer, including product, version, build, language, and OEM.
 
-We may also collect and record information about what you viewed on our Web Sites. We may use this type of information and combine it with your personal information to help customize our future interactions with you. In doing so, we hope to provide better service to you by tailoring our communications to match your interests.  
+If you contact Sonic, we may keep a record of that correspondence, including your email address. We use that information so that we may respond to that email, and for future reference.
 
+#### 2\. What are "cookies" and how does Sonic use them?
 
-**6\. With whom does Simple Star share Customer Information?**
+A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you and track your activities on the web site. This unique number identifies your browser to computers whenever you visit the web site making use of them. A cookie will not allow a web site to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed.
 
-Our primary goal in sharing your information with third parties is to provide you with products and services you have requested. Here are the ways we may share customer information with third parties: 
+In order to improve the Sonic Web Sites, we use cookies to track your visits. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Please see the user guide or help section of your browser to make this change. For some Sonic Web Sites that require an authorization, cookies may not be optional; users choosing not to accept cookies may not be able to access such Web Sites or to use some or all of the Products and/or Services otherwise available on such Web Sites.
 
-  * With third party intermediaries (for example, credit card authorization companies, photo processing labs, merchandise distributors, shipping services, etc.) who help us run the PhotoShow DVD Service and the Web Sites. Your information is provided to these third parties solely for the purpose of providing you the services you request at the time that you request them. Third party intermediaries do not store, retain, access or otherwise use your information other than as necessary to provide you with the Simple Star products and services. 
-  * Our partners when you access their services through our software or Web Sites. Any information you provide to one of our partners will be subject to their own privacy policy. Simple Star's software and Web Sites will identify the partner by name, and will usually provide links to the partner's privacy policy and terms of service, before any information is shared. For example, if you use our software to order prints through Snapfish, you will be using (or creating) a Snapfish member account, and your personal information and photographs will be provided to Snapfish. 
-  * Authorized third parties offer versions of our software and Web Sites under their own brands. When you use their version of our products, we will share your information with the other company, and their privacy policy will also apply. For example, if you are using a Nero-branded version of our software, we will share your personal information with Nero and they may use it subject to their own privacy policy. 
+#### 3\. What organization is collecting the information?
 
+When you provide information to Sonic, that information is collected and maintained either by Sonic or by an authorized agent of Sonic such as web hosting companies, customer care service providers, and transaction processing service providers, unless specifically stated otherwise at the point of collection.
 
+#### 4\. How does Sonic use the information it collects?
 
-Simple Star reserves the right to transfer your personal information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, Simple Star will give you an opportunity to tell us not to transfer your personal information. In some cases, this may mean that the new organization will not be able to continue providing to you the services or products that Simple Star provided.  
+Any personal information you provide to Sonic at any of the Sonic Web Sites is maintained and accessible only by Sonic and its authorized agents and business partners, unless specifically stated otherwise. Sonic may request information from its users so that users can enjoy customized experiences across Sonic Web Sites, including personalized services, interactive communications, discussion groups, and many other types of content and services. Most of these Products and Services are free to you. In order to provide great content and services free of charge, Sonic may display advertisements.
 
+The following are examples of how Sonic may use the information it collects:
 
-**7\. Security.**
+Sonic may provide you with technical support, updates to Products and Services, and upgrades to newer products as they become available.
 
-The Web Sites have security measures in place to protect the loss, misuse and alteration of the information under our control. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. To that end, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
+Sonic may offer its users the ability to personalize content such as news, local resources, links to other web sites, and more.
 
+Sonic occasionally sponsors sweepstakes, contests and promotions. If you request, we may use contact data from our promotions to send you information we think you will find useful, such as information about new products or promotions. When we email you, we will always provide instructions explaining how to unsubscribe, so you will not receive our emails in the future.
 
-**8\. Links to Other Sites.**
+To process your order on our online store(s), we require name, billing address, phone number, email address, shipping address and credit card information. We use this information to process your order and, if any questions arise, to contact you about your order. In general, we will try to contact you first by email and only if that fails, or if time is critical, will we try to contact you by phone.
 
-The Web Sites may contain links to other sites. Simple Star is not responsible for the privacy practices or the content of such other web sites.  
+Sonic may be required by law enforcement or judicial authorities to provide information on individual users to the appropriate governmental authorities. In matters involving a danger to personal or public safety, Sonic may voluntarily provide information to appropriate governmental authorities. If you are a member of the military, you should not register any personally identifiable information at the Sonic Web Sites in the eventuality that it may be subpoenaed. Sonic sometimes uses an individual registered user's data to "pre-populate" forms that are displayed when that user has logged in for the purpose of collecting individual data by Sonic and/or its advertisers and sponsors.
 
+Sonic may use the aggregate data collected to inform our sponsors, advertisers and other third parties as to numbers of people who have certain demographic characteristics and the number of those people who have seen and "clicked" on specific pages or advertisement(s). We may also disclose to such third-parties the overall demographics available regarding who saw and "clicked" on advertisements.
 
-**9\. Children's Privacy.**
+In the event Sonic sells assets (or the assets of a division or subsidiary) to another entity, including, without limitation, in the event of bankruptcy, or if Sonic (or a division or subsidiary) is acquired by, or merged with, another entity, Sonic may provide to such entity customer and visitor information (both aggregate and personally identifiable) that is related to that part of the business that was sold to or merged with the other entity.
 
-Protecting the online privacy of children is especially important, and United States federal law protects those under the age of 14. For that reason, Simple Star does not knowingly permit children under the age of 14 to become registered members of our sites, or to buy goods and services on our sites, without verifiable parental consent. Simple Star does not knowingly collect or solicit personal information about children under 14, except with their parent's express consent. 
+Sonic may send you email or otherwise contact you about products and services that we feel may be of interest to you, including, without limitation notification of sales, coupons, newsletters and other communications. Registering your product indicates that you have informed us of your interest, and we will contact you after registration unless you specify that you do not wish to receive such contact by notifying us at [privacy@sonic.com](mailto:privacy@sonic.com)[](http://www.sonic.com/notification/). For those who elect to receive such materials from Sonic or third parties, and who indicate that they do in their profile, Sonic will release personally identifiable information. Information released may include your name, email address and other information supplied in the Sonic registration process, and only when you specifically grant us that right. You may opt-out of any Sonic communications at any time. Sonic also uses aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of the Sonic Web Sites, and to analyze how and where best to use our resources. Without such data, we would not know what the most popular areas of the Sonic Web Sites are, and we would not be able to change and update the content and services appropriately.
 
-If we ever include children under the age of 14 as part of our intended site audience, those specific web pages will, in accordance with the provisions of the Children's Online Privacy Protection Act of 1998 (COPPA), be clearly identified and provide an explicit privacy notice; and we will provide processes to obtain parental approval, provide access to information and allow parents to request removal of their children's personal information.
+Sonic may, from time to time, use your information to contact you about changes or enhancements to Sonic Products and Services.
 
-  
-**10\. Changes in Privacy Policy.**
+#### 5\. With whom does Sonic share the information that is collected?
 
-Simple Star reserves the right to modify this privacy notice from time to time, by posting a prominent announcement on this page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+Information about our customers and visitors to the Sonic Web Sites is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described in this Privacy Policy and with affiliates, business partners, subsidiaries and agents that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
 
-  
-**11\. Contacting Simple Star.**
+When you submit personally identifiable information to Sonic, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which Sonic and its affiliates, business partners, and subsidiaries maintain offices, including, without limitation, the United States which may not provide the same statutory protection as your country of residence.
 
-If you have any questions about our Privacy Policy or our privacy and security practices, you can contact us at: 
+You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors, agents, or service providers of Sonic. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
 
-> Simple Star – Attn. Privacy Compliance  
->  651 Brannan Street, Suite 300  
->  San Francisco, CA 94107   
->  privacy@simplestar.com  
-> 
+Sonic has established relationships with various service providers whose services are available to you from the Sonic Web Sites or from web sites that are linked to the Sonic Web Sites. Typically, these providers offer services that Sonic customers might find useful, such as those that can be used in conjunction with Sonic Products and Services. In order to use those services, you may be required to provide personally identifiable or other information to the providers. Unless expressly provided to the contrary,personally identifiable information that you provide while you are visiting a provider's web site will be subject to the privacy policy posted on such web site, and personally identifiable information that you provide while on the Sonic Web Sites in conjunction with a provider's service will be subject to this Privacy Policy. As noted above, you are solely responsible for reading and understanding the privacy and other policies of these service providers and all other third party web sites you visit. You should be aware that our agreements with these service providers often provide that they will share with Sonic personal information collected from you. If we do receive information from a third party service provider, we may use this information in a manner consistent with this Privacy Policy. You should also be aware that our agreements with certain business partners whose products and/or services you have elected to acquire may require that Sonic share certain personal information collected from you relating to those business partners' products and/or services. Information Sonic collects from you that is shared with business partners under such an agreement will be used by those business partners only in accordance with their privacy policies.
 
-Please note that these addresses are for privacy and security matters only. If you are looking for help purchasing, installing, or using our products, please contact us through our [support center](http://www.simplestar.com/redir.php?source=psc_support_en). 
+#### 6\. What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?
+
+Sonic has security measures in place to attempt to protect against the loss, misuse and alteration of data under our control. We have implemented rules and procedures designed to limit access to the information you provide us. Despite the steps we take to ensure the protection of your information, unfortunately we cannot guarantee that loss, misuse or alteration to data will not occur. To better protect you, we encrypt particularly sensitive information, such as credit card numbers collected for a commerce transaction (donation) on the Sonic Web Sites, prior to transmission. In the event of an inadvertent disclosure, Sonic will do everything commercially reasonable to limit and remedy the disclosure, but Sonic accepts no liability for any unintentional disclosure. In addition, in the unlikely event that any government or private individual seeks information, Sonic will not voluntarily provide the information, but will obey any court order requiring disclosure.
+
+You are responsible for the security of your Sonic ID and password. Please take care when using and storing them. Sonic recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+
+#### 7\. Sonic notice regarding the U.S. Children's Online Privacy Protection Act (COPPA) of 1998
+
+The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the Internet by regulating the online collection of personal information from children under the age of 13. Sonic does not sell Products or Services for purchase by children, and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use the Sonic Web Sites only in conjunction with your parents or guardians. Sonic and the Sonic Web Sites do not target children as an audience or a market, and Sonic does not collect information about the age of its web site users. If we learn that we have inadvertently collected personal information from a child we will make all reasonable efforts to delete that data from our records.
+
+#### 8\. Updating your personal information and privacy preferences.
+
+Upon your request, we will deactivate your Sonic ID, contact information, billing information, shipping information, and financial information from our active databases to prevent your information from being shared with other users. To make this request, please email privacy@sonic.com. Such information will be deactivated as soon as reasonably possible based on your Sonic ID activity and in accordance with our deactivation policies and procedures and applicable law.
+
+We will make our best effort to remove your information from our active communication files upon request. Please note, however, that we will retain certain information in order to resolve disputes, troubleshoot problems and enforce the policies, procedures and agreements set forth on the Sonic Web Sites.
+
+#### 9\. Inquiries and Complaints
+
+If you have any concern about privacy at Sonic, please send us a thorough description of your concern to privacy@sonic.com or the address above, and we will try to resolve it.
+
+#### 10\. Disputes
+
+If you choose to visit any Sonic Web Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Legal terms and conditions, including limitations on damages, arbitration of disputes, and application of the law of the State of California.
