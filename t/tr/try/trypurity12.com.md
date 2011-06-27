@@ -1,67 +1,100 @@
-> *The following text is extracted and transformed from the trypurity12.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524052659id_/http%3A//www.trypurity12.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trypurity12.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# www.trypurity12.com company
+# Legal Agreement
 
-[REPORT SPAM](https://web.archive.org/unsubscribe)
+**Go Daddy Respects Your Privacy**
 
-#### At www.trypurity12.com, we utilize permission-based email marketing approaches, by discouraging "spamming" (the sending or posting of large-scale, mass unsolicited emails or other messages), and by working with clients and business partners whom we believe place a high value on integrity.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-www.trypurity12.com provides regular dissemination of news and other content that may be of interest to the recipient. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-## Information Collection and Use
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-www.trypurity12.com collects voluntary demographic information from users . www.trypurity12.com is the owner of the information collected. By registering as a member, you unconditionally and irrevocably accept, agree, and assign all your rights to your information to www.trypurity12.com and warrant and represent that you have voluntarily submitted your information to www.trypurity12.com. In addition, by registering as a member, you unconditionally and irrevocably accept and agree that you are, at your own initiative, providing your affirmative consent to www.trypurity12.com selling, transferring, renting, giving, sharing, (online, offline, or telephone) marketing, or trading your information to advertisers, merchants, or any third parties, for any lawful purpose, which application shall remain in the sole discretion of www.trypurity12.com and shall be final and binding upon you in all respects.
+**Information Collection and Use**
 
-www.trypurity12.com sends all new members a welcome email message to verify and confirm their registration in our network. In addition, we use your email address to contact you and to notify you of any product awarded to you, so it is important that this information be entered correctly and kept up to date. www.trypurity12.com  also uses emails to inform members of new membership benefits, features, and contests, to advise members of urgent problems on our website and to present special member-only opportunities to buy products and services that are appropriate to the interest of our members. www.trypurity12.com  stores its records in the United States of America but may perform some of its data processing outside of the United States of America. We will protect your information no matter where we process or store your data.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-## Links 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-The www.trypurity12.com  website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of other websites. When leaving our website, be sure to read the privacy statements of each website that collects personally identifiable information. Our privacy statement applies solely to information collected on the www.trypurity12.com  website.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-## Security 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-www.trypurity12.com  has security measures in place to protect the loss, misuse, or alteration of members' information. We use industry standard procedures and processes to safeguard the confidentiality of your personal information, such as firewalls, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Unfortunately, when you submit information about yourself to www.trypurity12.com  over the Internet the information may travel over many systems that are not under the control of www.trypurity12.com . To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate and typical physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-All employees, contractors and other companies engaged by www.trypurity12.com  for work that involves access to personal information are contractually required to keep the information confidential and not to use it in any way other than what is necessary to perform their work for www.trypurity12.com .
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-## Unsolicited Email 
+**Security**
 
-www.trypurity12.com  is committed to protecting the integrity of our web site. We encourage all members to promote www.trypurity12.com  with the highest standards of Internet etiquette and business ethics. www.trypurity12.com  strictly prohibits the sending of Unsolicited Email or electronic messages of any kind to unknown individuals or individuals that have not consented to receiving such information.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-In addition, a member may not make any false or deceptive misrepresentations through Unsolicited Email or other advertising methods with respect to any and all compensation or products received from www.trypurity12.com  or with respect to compensation or products that potential members are likely to receive. To report Unsolicited Email violations, click here: [Report Unsolicited Email](https://web.archive.org/unsubscribe). 
+**Updating Your Information**
 
-## Privacy for Children and Minors 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Protecting the privacy of children is important to www.trypurity12.com . For that reason, we never collect or maintain information at our website from members known to be under 18, and no part of our website is designed to attract anyone under 18. It is important to remember that www.trypurity12.com  cannot always determine that a member is a child under the age of 18. Members under the age of 18 must have written parental consent to release their name, email address, or other personal information.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-## Cookies 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-A cookie is information that a website transfers to your computer for record-keeping purposes. Cookies are typically used to save a user's password so that the user does not have to re-enter their password each time they visit the same website. In addition, cookies can make the Internet more useful by storing information about your preferences on a particular website. The use of cookies is an industry standard, and most websites use them to provide useful features for their members. Most Internet browsers are initially set up to accept cookies. You can set your Internet browser to refuse cookies. However, you may not be able to take full advantage of a website if you do.
+      iii.      You may call us at: (480) 505-8800
 
-www.trypurity12.com  may use cookies to make sure you don't see the same ad repeatedly and to deliver content specific to your interests and for statistical purposes. In the future, cookies may be used to save your password so you don't have to re-enter it each time you visit our website. Some of our advertisers or other partners may use cookies on our website, but we do not have access to or control over their cookies.
+       iv.      You may fax us at: (480) 505-8844
 
-## IP Address 
+**Sending Emails**
 
-An IP address is a number automatically assigned to your computer whenever you access the Internet. All computer identification on the Internet is conducted with IP addresses, which allow computers and servers to recognize and communicate with each other. Your IP address does not contain your name but does provide additional demographic information.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-www.trypurity12.com  will release IP addresses to advertisers or third parties. We use your IP address to help diagnose or detect problems with our server, for security reasons, to conduct system administration and site analysis, and to administer our website. Any demographic information collected from your IP address is added to you information and stored in our database for use by www.trypurity12.com  or third parties.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-## Cancel Your Membership 
+**Compliance with Laws and Law Enforcement**
 
-If you cancel your membership, you are no longer eligible to receive your products and you will not receive free email offers or information about new promotions, contests or services. If you wish to cancel your membership, simply click on the unsubscribe link above.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-## Notification of Changes to the Privacy Policy 
+**Third Party Service Providers**
 
-The www.trypurity12.com  Privacy Policy may be updated to increase our members' privacy protection or to improve our information practices. If there are changes made in the future, the changes will not affect information already collected. Any changes to the www.trypurity12.com  Privacy Policy will be available on this page for members to review.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-If you have any questions about the www.trypurity12.com  Privacy Policy, the information practices of this website, or you would like to view or change your personal information, send your request to:
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-www.trypurity12.com Privacy Policy  
-c/o www.trypurity12.com  
-480 West 800 North   
-Orem, UT 84097  
-USA
+**Supplementation of Information**
 
-This www.trypurity12.com Privacy Policy is subject to change without notice. Please review this Privacy Policy on this website frequently to look for changes. Your continued membership will signify your unconditional acceptance to the modified terms. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
