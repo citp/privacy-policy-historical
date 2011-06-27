@@ -1,58 +1,64 @@
-> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118102302id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627113646id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Photovoltaics International
+# Privacy Policy | PV-Tech
 
-This policy is intended to explain how we may collect information about you and use it in order to process your registration or subscription. It also outlines the security measures we take in order to protect your privacy and gives certain assurances on things that we will not do.
+This privacy policy sets out how Solar Media Limited uses and protects any information that you give Solar Media Limited when you use this website.
 
-  **Disclosure of information**
+Solar Media Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-PV-Tech.org was launched in October 2007. Since then it has never created mailing lists to sell or disclose in any manner personal information to any third parties. This policy continues today.
+Solar Media Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 6th of December 2010.
 
-When you register or subscribe, we collect your name, company, company activity, e-mail address, mailing address, phone number, fax number, and your city of birth (for audit purposes). We also monitor customer traffic patterns and site use, which enables us to improve the service we provide.
+##  What we collect
 
-**Use of information**
+We may collect the following information:
 
-We will use personal information about you only for the following purposes:
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-• To understand the users of pv-tech.org so that we can constantly make improvements to the site both in content and display.  
-• To fulfil your subscription to the print journal, if you subscribe to it.
 
-To change the personal details we hold about you click here or write to us at the address at the bottom of this page
 
-**Aggregated tracking information**
+##  What we do with the information we gather
 
-We analyse visitors' use of our sites by tracking information such as page-views, traffic flow, search terms, and click through. We use this information to improve our sites. We also share this anonymous traffic and demographic information in aggregate form with advertisers and other business partners. We do not share any information with advertisers that can identify an individual user.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Cookies**
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Cookies are small pieces of information that are stored on your computer's hard drive by your browser. These allow us to store your information and make using our website easier for you. Most browsers allow the cookie function to be turned off. If you want to know how to do this look at the help menu on your browser.
 
-Our site makes use of cookies. Cookies are used for the following purposes:
 
-• Site administration  
-• Completing the user's current activity  
-• Research and development
+##  Security
 
-**Third-party sites**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-This website may contain links to other websites. Such links are provided solely as a convenience for you. Semiconductor Media Ltd. is not responsible for the security practices of such websites. ****
+##  How we use cookies
 
-**Cancellation/Refund Policy**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Customers have the right to cancel within seven days of placing the order. Customers cancelling will have their payment refunded within 28 days.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-**Credit Card Information**
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-We do not store or intend to store credit card or financial details (credit or debit card numbers).
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-If you would like any more information or you have any comments on our privacy policy then please write to us at:
+##  Links to other websites
 
-**Semiconductor Media Ltd.**  
-Trans-World House  
-Henley Media Group  
-100 City Road  
-London  
-EC1Y 2BP  
-United Kingdom
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-We may amend this policy from time to time, in which case the amended version will be published on our website.
+##  Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@pv-tech.org](mailto:info@pv-tech.org).
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Solar Media Limited, Transworld House, 100 City Road, EC1Y 2BP, London, United Kingdom.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
