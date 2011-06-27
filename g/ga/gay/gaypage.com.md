@@ -1,49 +1,100 @@
-> *The following text is extracted and transformed from the gaypage.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217102332id_/http%3A//gaypage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaypage.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# GAYPAGE.COM: Free Gay Community Videos Dating Chat Hook Up Social Network
+# Legal Agreement
 
-### GayPage.com Privacy Policy
+**Go Daddy Respects Your Privacy**
 
-**Effective Date: September 5, 2006**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-We at gaypage.com are committed to protecting the privacy of our users. We have prepared this privacy policy ("Privacy Policy") to inform you how we handle the information that we collect about you or that you choose to submit to us. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Unless a specific privacy policy resides at a particular property, this Privacy Policy applies to all of Gay Page properties, including mygaypage.com, gaypage.com and any country-specific or foreign language versions thereof (collectively, the "Network"). Because the Network is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries other than the one in which you reside. By using the Network, you explicitly consent to such use of your information. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-This Privacy Policy complies with the Safe Harbor Principles of the European Commission's Directive on Data Protection. 
+**Information Collection and Use**
 
-**Your California Privacy Rights**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Under California Civil Code section 1798.83, a California resident has the right to request and obtain either (1) information about certain companies' disclosures of personal information to third parties for direct marketing purposes, or (2) access to a cost-free means of preventing such disclosures. As more fully described in this Privacy Policy, you may request that Gay Page not disclose your personal information to third parties. You may do so either at the time you register, by following the instructions below in the "Modifications and Deactivations" section, or by contacting us by email at privacy@gaypage.com
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Notice - Information We Automatically Collect 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We automatically collect certain information to help us understand how our users use the Network (which we will refer to in this Privacy Policy collectively as "Usage Data"). For example, each time you visit the Network we automatically collect your IP address, browser and computer type, access times, the web page from which you came, and the web page(s) you access. In addition, we use technologies called "cookies" and "tracking pixels" that allow us to enhance your experience on the Network (for example, to keep track of your purchases, to allow you to see information you've previously entered (like responses to member polls), to deliver content specific to your interests, and, if you tell us to do so, to save your member name and password so that you do not have to re-enter it each time you visit the Network or access an area of the Network that requires you to log in). We use cookies to deliver advertisements that are most likely to interest you, based on the areas of the Network you visit, and the products, features and services you select on the Network. We also may use cookies or tracking pixels to track information related to your searching and browsing of member profiles, such as which profiles you browse or respond to, search parameters of searches you conduct, the number of results returned by your searches, how you review, rank and respond to search results, and how often your profile is searched or browsed. We may use such information to improve the functionality of the Network and to offer additional services, such as enhanced searching or automated user matching. In addition, third parties who place advertisements on the Network may also collect information through cookies or tracking pixels to ensure that their advertising systems and technologies work properly and to allow them to track responses to their advertisements. Cookies or tracking pixels set by these third parties are governed by the privacy policies set by those third parties. In addition, third-party partners, advertisers, and other web sites you may access via the Network have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each web site to find out how your personal information is protected. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-From time to time we may share Usage Data with third parties. We do so, however, only in the aggregate and not in a manner that will enable the recipient to personally identify you, unless you have given us permission to do so. In addition, we may combine Usage Data with Personal Information (as defined below) in a manner that enables us to trace Usage Data to an individual user. We do so, however, only for our own internal purposes and will not share such combined data with third parties unless you have given us permission to do so or we are required to do so by law. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Information You Choose To Submit**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-When you register to become a Network member or when you participate in certain Network activities (e.g., contests or surveys), we may ask that you provide us with demographic information (e.g., gender, age, zip code) and with information through which you could be contacted (e.g., your full name, postal or e-mail address, or phone number) (which we will refer to in this privacy policy collectively as "Personal Information"). Except for aggregate demographic information that we may share with third parties in a manner that does not link such information to any individual, we will not share your Personal Information with third parties unless you have given us permission to do so. In addition, when you order products or services through the Network, we may ask that you provide us with information (e.g., credit card number, billing, and shipping information) we will need to enable us to provide you with the requested product or service. We will share such information (e.g., to our billing vendors) with third parties to the extent necessary to fulfill your order or to complete the Network activity. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Other Authorized Disclosures**
+**Security**
 
-Notwithstanding anything in this privacy policy to the contrary, we may share any information we have collected about you or that you have submitted: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims or demands; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve abuse of our Network infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of the Network infrastructure); (4) to a parent company, subsidiaries, joint ventures, or other companies under common control with MGP (in which case we will require such entities to honor this privacy policy); and (5) if MGP is acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this privacy policy). 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Public Areas**
+**Updating Your Information**
 
-Your use of areas of the Network that are intended for interaction with other users (e.g., profiles, chat rooms, online polls, and message boards) may reveal your member name and e-mail address and may allow you to publish certain personal information about you. By choosing to use these areas, you understand and agree that anyone may access and forward any information about you that is contained in or that you post to those areas. While chat, e-mail, and instant message-like conversations pass through our servers, our practice is not to store contents of such communications. We do, however, temporarily store logs of certain data related to such communications, such as the length and frequency of messaging and the Network member with whom communications are exchanged. We may use such data to improve the functionality of the Network and to offer additional services, such as enhanced searching or automated user matching. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Data Integrity and Security**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-We take reasonable precautions to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration, and destruction. We also take reasonable steps to ensure that Personal Information is relevant for the purposes for which it is to be used and that the Usage Data is reliable for its intended use, accurate, complete, and current. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Modifications and Deactivations**
+      iii.      You may call us at: (480) 505-8800
 
-If you would like to modify any Personal Information you previously submitted through the Network, visit your account information section for each Network property to which you made the submission. If you have agreed to receive communications from us or to permit us to share your Personal Information with third parties, you may request that, in the future, we not send you communications or share your Personal Information by writing to our Customer Member Care center at our corporate address below or by visiting your account information section for each Network property. Please note, however, that we reserve the right to send you administrative messages relating to the Network (e.g., about changes to this privacy policy). If at any time you would like us to deactivate your member profile and remove it from public and member viewing on the Network, please write to us at our corporate address or visit your account information section for each Network property. Please note that (1) we will retain your Personal Information in back-up storage after deactivation, and (2) we are not responsible for removing information about you from the database of any third parties to whom you previously authorized us to share your Personal Information. 
+       iv.      You may fax us at: (480) 505-8844
 
-As more fully described in this Privacy Policy, you may request that Gay Page not disclose your personal information to third parties. You may do so either at the time you register or by contacting us by email at privacy@gaypage.com
+**Sending Emails**
 
-**Changes to Policy**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Due to changes in legislation, best practices, or enhancements to functionality and content, we may make changes to our privacy policy and will reflect those changes in this statement. We may update this policy from time to time. If we make any significant changes to the way in which we treat Personal Information about you, we will inform you of such changes via e-mail or by posting a notice on relevant areas of the Network. If you have any questions about this privacy policy, please feel free to write to us at the address given above. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
