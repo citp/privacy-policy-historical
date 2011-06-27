@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607095246id_/http%3A//www.okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627220753id_/http%3A//www.okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -38,7 +38,7 @@ Meanwhile, links to other web sites (outside of the "okidata.com" domain) are pr
 
 User Control
 
-Customers and visitors who have purchased or registered in the OKI Store at <http://www.okidata.com/> have the ability to change, edit or delete their personal information online by logging in at the [member login page](http://esales.okidata.com/IWShowMemberPage.process?fromHomePage=). If OKI Data's privacy policies change in the future and the use of a users' personally identifiable information is used in a manner different from that stated at the time of collection, OKI Data will post a prominent notice on this web site 30 days prior to such changes going into effect. Additionally, if at any time a user wishes to be removed from future mailings, or change any personal information on any area of the OKI Data Web site, they may send email to [webmaster@okidata.com](mailto:webmaster@okidata.com), [support@okidata.com](mailto:support@okidata.com). To be removed, type "REMOVE" in the SUBJECT field. To change information, please state existing information and the change requested in the body of the message, or call 1-800-OKIDATA to request the changes be made. 
+Customers and visitors who have purchased or registered in the OKI Store at <http://www.okidata.com/> have the ability to change, edit or delete their personal information online by logging in at the [member login page](http://esales.okidata.com/IWShowMemberPage.process?fromHomePage=). If OKI Data's privacy policies change in the future and the use of a users' personally identifiable information is used in a manner different from that stated at the time of collection, OKI Data will post a prominent notice on this web site 30 days prior to such changes going into effect. Additionally, if at any time a user wishes to be removed from future mailings, or change any personal information on any area of the OKI Data Web site, they may send email to [webmaster@okidata.com](mailto:webmaster@okidata.com), [support@okidata.com](mailto:support@okidata.com). To be removed, type "REMOVE" in the SUBJECT field. To change information, please state existing information and the change requested in the body of the message, or call 1-800-OKIDATA (1-800-654-3282) to request the changes be made. 
 
 OKI Data takes every reasonable measure to ensure that the information it gathers from the user is accurate and remains confidential and secure from unauthorized access or use. OKI Data utilizes firewall technology to help ensure the security of your private information. 
 
@@ -71,4 +71,4 @@ Further questions regarding our privacy policy may be sent to [ webmaster@okidat
 Oki Data Americas, Inc.  
 2000 Bishops Gate Blvd.  
 Mount Laurel, NJ 08054  
-Tel: 800-OKI-DATA 
+Tel: 800-OKI-DATA (1-800-654-3282) 
