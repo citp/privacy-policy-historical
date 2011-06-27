@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215150733id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627185500id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
 
 # GrownUpGeek.com Privacy/Content Policies and Terms of Service | Help For Beginners
 
@@ -24,7 +24,7 @@ We use the information you provide about yourself when registering for membershi
 
 **Anti-Spam Data Collection For Anonymous And Non-Validated Users:**
 
-Our website uses the "[Akismet](http://akismet.com/)" Anti-Spam system.  By posting a message, you accept that your message and other details such as your IP address may be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Akismet's privacy policy](http://automattic.com/privacy/).  
+Our website uses the "[Akismet](http://akismet.com/)" Anti-Spam system.  By posting a message, you accept that your message and other details such as your IP address may be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Akismet's privacy policy](http://automattic.com/privacy/).   For special information for scrapers and bots please see this page [Information on IP collection](http://grownupgeek.com/private/orthodoxheadless.php) to be led directly to our honeypot.
 
 **eMail Address In Forum and Comment Posts:**
 
@@ -65,7 +65,7 @@ Currently, GrownUpGeek.com has relationships with the following third-party ad s
 
   * Microsoft AdCenter-Publisher  
 <http://privacy.microsoft.com/en-us/default.mspx>
-  * Kontera  
+  * Kontera**  
 <http://www.kontera.com/kontera-privacy-policy>
   * Google, Inc*.  
 [http:/www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html)
@@ -80,6 +80,12 @@ Currently, GrownUpGeek.com has relationships with the following third-party ad s
   * IDG TechNetwork  
 <http://www.idgtechnetwork.com/terms/index.php>**  
 **
+
+
+
+ ** _**Kontera Network Advertising cookie:**_
+
+  * If you would like more information regarding Kontera's practice or would like to learn more about your choices in not having this information used by it's associated companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) for the NAI universal user opt-out.
 
 
 
@@ -103,7 +109,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 You may, at any time request to cancel your account and specify that all your personal data be removed from our servers. Please note that all posts, comments, replies, or any other content submitted by you become the property of grownupgeek.com and will not be removed.
 
-To request cancellation or removal from our system, you may email your request to: HELP _@GrownUpGeek.com_ or send your request via postal mail. See the bottom of this page for our postal mail address.
+To request cancellation or removal from our system, you may email your request to: HELP _@GrownUpGeek.com_.  Note that your request must be sent from the email address associated with your GrownUpGeek.com account. 
 
 **
 
