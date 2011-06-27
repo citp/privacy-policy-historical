@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206205100id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627200154id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
 
 # Red Letter Days - Gift Experience Vouchers - Birthday presents and unique gift ideas
 
@@ -30,13 +30,13 @@ We do not use cookies for collecting customers' personal data from the site. Red
 
 Red Letter Days does not sell, trade or rent your personal information to others unless you choose to receive information from trusted third parties when you create or login to your account, in which case you will receive this information until such time as you choose to opt out of receiving these communications.
 
-When a customer responds to a promotion offered in conjunction with a third party, that third party may, from time to time, collect information about those customers. They will only then be contacted if they have opted-in to receive further information. 
+When a customer responds to a promotion offered in conjunction with a third party, that third party may, from time to time, collect information about those customers. They will only then be contacted if they have opted-in to receive further information.
 
-Red Letter Days may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+Red Letter Days may capture and provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
 We employ other companies and individuals to perform functions on our behalf.
 
-Examples include fulfilling orders, delivering packages, sending postal mail and e-mails, removing repetitive information from customer lists, analysing data, providing marketing assistance, processing credit card payments and providing customer services. Such companies and individuals will have access to personal information needed to perform these functions, but may not use it for any other purposes and are required to process the data in accordance with the UK's Data Protection legislation. 
+Examples include fulfilling orders, delivering packages, sending postal mail and e-mails, removing repetitive information from customer lists, analysing data, providing marketing assistance, processing credit card payments and providing customer services. Such companies and individuals will have access to personal information needed to perform these functions, but may not use it for any other purposes and are required to process the data in accordance with the UK's Data Protection legislation.
 
 ###  Red Letter Days Customer Review Policy 
 
