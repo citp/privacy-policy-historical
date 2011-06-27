@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigadda.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223155352id_/http%3A//www.bigadda.com/frontpage/_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigadda.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627023137id_/http%3A//www.bigadda.com/frontpage/_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BIGADDA.com
 
