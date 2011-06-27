@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidecrm.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227123221id_/http%3A//www.insidecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidecrm.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627140927id_/http%3A//www.insidecrm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Inside CRM
 
