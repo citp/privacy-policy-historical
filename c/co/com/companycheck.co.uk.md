@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103012118id_/http%3A//www.companycheck.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627020150id_/http%3A//www.companycheck.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Company Check - find free company information
 
