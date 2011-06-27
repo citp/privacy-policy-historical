@@ -1,85 +1,100 @@
-> *The following text is extracted and transformed from the shopcj.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206161018id_/http%3A//shopcj.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcj.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# ShopCJ.com
+# Legal Agreement
 
-**Overview**
+**Go Daddy Respects Your Privacy**
 
-CJ Enterprise is a private limited company and has developed these global information practices to assure that your privacy is respected and your personal data is protected. Our Privacy Policy discloses our online information practices for handling personal and non-personal information, which is meant to comply with applicable local laws and regulations. Please read this Privacy Policy carefully before you use any of our web sites ("Site(s)").
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**How your information is used**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-CJ Enterprise will not sell, rent, loan or lease your personally identifiable information to others unless we have your permission or are required by law to do so. CJ Enterprise will not use or share the personally identifiable information that you provide to us online in ways unrelated to those described herein without first letting you know and offering you a choice to opt out.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Because CJ Enterprise operates globally, we may need to share your personal information with our worldwide business units. We will only share your information with other creative entities (including subsidiaries and affiliates) and/or business partners who are acting on our behalf to provide the necessary service or information requested by you, to consolidate data storage, or to simplify the management of customer information. Such creative entities and/or business partners are governed by our Privacy Policy with respect to the use of this data and are bound by appropriate confidentiality agreements.
+**Information Collection and Use**
 
-If you have any problems exercising your choice to opt out, please Contact Us.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-  * Important Note for European Visitors 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-For those of you visiting us from the European Economic Area, please note that CJ Enterprise may transfer your personally identifiable data outside the European Economic Area for use for any of the purposes described herein. By using our web site and providing us with your personal data, you consent to such transfer of your personal data.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Information we collect**
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Non-personally identifiable information**
+**Security**
 
-As a visitor to our Site, you can engage in many activities without providing any personal information. We do, however, collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked" with Cookies. Such information is not linked to any personally identifiable information. The non-personally identifiable information we collect help us identify the most popular areas of our Site and determine the effectiveness of our promotional activities.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-  * Cookies 
+**Updating Your Information**
 
-Cookies are text files that store some information on your hard drive and allow our systems to recognize your browser. Cookies collect information like IP addresses, operating systems and browser software, but they do not collect any personal information. Cookies let you customize your experience at our Site.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We also use cookies to record anonymous information pertaining to particular web pages viewed, which helps us in analyzing trends, tracking user movement, and gathering broad demographic information for aggregate use.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
-**Personally identifiable information**
+**Sending Emails**
 
-At some CJ Enterprise sites, you can order products, register for materials, make requests, download software, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services, such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. Data collected online may also be combined with information you provide when you register your ownership of CJ Enterprise products. CJ Enterprise uses your information to better understand your needs and to provide you with better service.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Why we collect your personal information**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  * CJ Enterprise Online Shop 
+**Compliance with Laws and Law Enforcement**
 
-To process your order, we will ask you for your personal information such as: name, e-mail address, delivery address, telephone number and credit card information.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  * Surveys and Promotions 
+**Third Party Service Providers**
 
-From time to time our Sites may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary and you have a choice whether or not to disclose any information. Information requested may include contact information, such as your name and your shipping address, to notify the winner(s) and demographic information, such as your age for eligibility purposes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our Site.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-  * Mailing Lists 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-CJ Enterprise occasionally provides the opportunity for visitors to supply their email address for the purpose of receiving a specific newsletter or product information. These email addresses will only be used for this purpose and will never be shared with unaffiliated third parties unless you have provided your consent for us to do so. At a minimum, we will always give you the opportunity to opt out of receiving such materials. In addition, where applicable, we will follow all local requirements, such as allowing you to opt in before receiving unsolicited contact.
+**Supplementation of Information**
 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-**How we protect your information**
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data such as credit card information.
+**Tell-A-Friend**
 
-**Access to your information**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-You have the right to access and correct your personal information at any time. To review, update or make changes to your personal information, please [Contact Us](mailto:cjentp@singnet.com.sg).
+**What Happens to my Personal Information if I Opt Out?**
 
-**Information for Children**
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-CJ Enterprise does not target its web sites to children, and we will never knowingly collect personally identifiable information from children without obtaining prior verifiable parental consent. We ask that children have their parents review our Privacy Policy and complete the registration process for their children. If we become aware that a subscriber is under the age of 14 and has registered without prior verifiable parental consent, we will remove their personally identifiable information from our files.
+**Transfer of Data Abroad**
 
-**Third Party Web Sites**
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Please note that our Privacy Policy only applies to sites controlled by CJ Enterprise and links to third party web sites are provided solely as a convenience to you. You are advised to check the privacy policies of those sites before providing your personal information to them. CJ Enterprise has not reviewed all of these third party web sites, does not control and is not responsible for any of these sites, their content or their privacy policies. Thus, CJ Enterprise does not endorse or make any representations about these sites, or any information, products or other materials that may be found there.
+**Changes in Our Practices**
 
-**Contacting Us**
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We value your opinions. If you have any questions or comments about our Privacy Policy, please [Contact Us](mailto:cjentp@singnet.com.sg). You can also send your request to:
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-> CJ Enterprise Pte Ltd  
->  200 Jalan Sultan  
->  #03-12 Textile Centre  
->  Singapore 199018  
->  Tel: 6396-5123  
->  Fax: 6396-5128
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
