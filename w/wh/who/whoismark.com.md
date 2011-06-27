@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whoismark.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216084505id_/http%3A//www.whoismark.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoismark.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627200944id_/http%3A//www.whoismark.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free Web Directory
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact @ Whoismark.com. 
 
