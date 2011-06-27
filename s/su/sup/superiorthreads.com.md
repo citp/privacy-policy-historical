@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229212609id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627084221id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.*
 
-# Private Policy | Private Policy
-
-## Private Policy
+# Private Policy
 
 Effective **17 July 2008**
 
