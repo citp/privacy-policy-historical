@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220080735id_/http%3A//www.ca.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627233443id_/http%3A//www.ca.com/us/privacy.aspx) for the most accurate reproduction.*
 
 # CA Privacy Notice
 
@@ -66,7 +66,7 @@ You can set your browser to decline cookies if you prefer. If you do so, you may
 Portions of this website make chat rooms, forums, blogs, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information.
 
 **Contacting Us**   
-If you have any questions or comments about our privacy notice or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:privacyhelpline@ca.com) with the words "PRIVACY POLICY" in the subject line. Visit the [Canadian Privacy Policy](http://www.ca.com/ca/en/privacy/) for additional information about CA Canada.
+If you have any questions or comments about our privacy notice or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:privacyhelpline@ca.com) with the words "PRIVACY POLICY" in the subject line. Visit the [Canadian Privacy Policy](http://www.ca.com/ca/en/privacy.aspx) for additional information about CA Canada.
 
 CA may modify or update this privacy notice from time to time at any time without prior notice. You can check the “Last Updated” date below to see when the notice was last changed. We encourage you to check this notice often so that you can continue to be aware of how we are protecting your personal information. Your continued use of the website constitutes your consent to the contents of this privacy notice, as it may be modified from time to time.
 
