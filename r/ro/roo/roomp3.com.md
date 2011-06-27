@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roomp3.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128055609id_/http%3A//www.roomp3.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomp3.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628003127id_/http%3A//roomp3.com/static/privacy) for the most accurate reproduction.*
 
-# Room MP3, Δωρεάν Mp3, ακούστε, κατεβάστε και ανεβάστε στίχους
+# Privacy Policy
 
 We understand your need to maintain your privacy when using the Internet for your communication, shopping, exploration, and play. To make sure you understand our approach to online privacy issues, you MUST read this Privacy Policy and our Terms of Use as a condition to using Roomp3 .
 
@@ -10,6 +10,6 @@ We'll give you the choice whether to receive email or other contact from us and 
 
 We do not sell your personally identifiable information . We use industry-standard efforts to safeguard any personal information, and any financial information we receive from you is encrypted. However, we may be required to release personal information about you as a result of a law suit or subpoena or as immediately necessary to protect our rights or the rights and safety of other users. Remember though, "perfect security" doesn't exist on the Internet. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. . 
 
 Roomp3 may modify this Privacy Policy at any time. You are responsible for reviewing our Privacy Policy before using the Sites or providing any information. If you believe we have violated these policies, please notify us, and we will promptly investigate and try to remedy the problem . 
