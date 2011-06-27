@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229231655id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627045830id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - Photoxels - Digital Photography
 
@@ -30,4 +30,4 @@ Google Ads (Privacy Policy):
 
 This Privacy Notice will be updated periodically to reflect changes in our information practices. Whenever we revise this Privacy Notice, we will change the date on the notice to indicate when the revisions were made. We reserve the right to change our information practices and the terms of this Privacy Notice. By using this web site, you agree to accept the terms of this Privacy Notice as stated at the time you use it. Any future access to this web site subsequent to the posting of a revised Privacy Notice will be deemed to be your acceptance of this Privacy Notice as then revised. We reserve the right to change this Privacy Notice at any time.
 
-UPDATED: March 12, 2009 
+UPDATED: March 12, 2009
