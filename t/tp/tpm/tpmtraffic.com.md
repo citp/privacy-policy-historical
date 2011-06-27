@@ -1,88 +1,100 @@
-> *The following text is extracted and transformed from the tpmtraffic.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317204330id_/http%3A//www.targetpointmedia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpmtraffic.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Solutions of Target Point Media
+# Legal Agreement
 
-**Privacy at Target Point Media**
+**Go Daddy Respects Your Privacy**
 
-**Target Point Media** is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. For more information on how Target Point Media enforces permission email marketing with our clients, please see our Anti-spam policy.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Security and Privacy**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Target Point Media** ’s web site uses security measures to protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at our data center.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you e-mails based on your requesting information.
+**Information Collection and Use**
 
-**Choice Opt-in**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Our members and their subscribers are given the opportunity to 'opt-in' to having their information used for purposes not directly related to our site at the point where we ask for the information.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Users of our site will always be notified if their information is being collected by any outside parties. We do this to ensure that our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Information Tracked**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-At times we will use your IP address to help diagnose problems with our server and to administer our web site. We also may track browser types to help us understand our visitors' needs related to our web site design.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-There is an optional section of our web site where input forms require your name, company, and e-mail address. This form provides the ability to opt-in to receiving future emails of any sort from **Target Point Media**. If you opt-in to receiving email communications from us, then we may send information to you on our products or services.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-You may review and change your information with us at any time by clicking on the **"modify profile"** link or similar found at the bottom of emails sent via our system, or by contacting us at [privacy@targetpointmedia.com](mailto:info@targetpointmedia.com).
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Web Beacons**
+**Security**
 
-In order to determine a user’s ability to receive HTML email in addition to whether or not an email has been opened, **Target Point Media** includes a “web beacon” in a majority of the HTML email messages we send. A web beacon (actually a small .gif image) is activated when an HTML email is opened via a request for the image on our servers.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-This capability helps **Target Point Media** send email in a format users can read and enables **Target Point Media** , and our clients that use the functionality, to track the aggregate number of emails opened. The web beacon does not collect any personally identifiable information. Users that do not want to receive email messages with web beacons can choose to receive their emails in text (non-HTML) format.
+**Updating Your Information**
 
-We also use, and provide our clients with, the capability to track when a URL has been clicked inside of an email message sent by our system. We use this functionality to track which links were clicked and in what quantity, as well as the aggregate number of links clicked. This click tracking functionality does not collect any personally identifiable information.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Cookies**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Client-side cookies are used to verify the login status of customers using products or services linked directly with our website. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site; however, the user may not be able to access all areas of our site.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Notification of Changes**
+      iii.      You may call us at: (480) 505-8800
 
-Any new policy will be posted on our site at least one week prior to its taking effect. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner.
+       iv.      You may fax us at: (480) 505-8844
 
-**Safe Harbor Data Privacy Notice**
+**Sending Emails**
 
-**Target Point Media** adheres to the Safe Harbor Principles published by the U.S. Department of Commerce (the "Safe Harbor Principles") with respect to personal information (as defined below) it receives from the European Union. This notice outlines our general policy and practices for implementing the Safe Harbor Principles, including the type of information to which this notice applies, how we use personal information, and the choices individuals have regarding our use of, and their ability to correct, that personal information. If there is any conflict between the policies in this notice and the Safe Harbor Principles, the Safe Harbor Principles will govern.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-This notice applies to all personal information we handle, including on-line (except as noted below), off-line, and manually processed data. For purposes of this notice, "personal information" means data that; is transferred from the European Union to the United States; is recorded in any form; and is about, or pertains to, a specific individual who is identified in, or is identifiable from, the data.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-"Sensitive information" is a subcategory of personal information. Sensitive information is defined as personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or the sex life of the individual. Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive.
+**Compliance with Laws and Law Enforcement**
 
-**Disclosures and Transfers**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We do not disclose personal information to third parties, except when one or more of the following conditions is true:
+**Third Party Service Providers**
 
-  * We have the individual's permission to make the disclosure;
-  * The disclosure is permitted by law or mandatory professional standards;
-  * The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets;
-  * The personal information to be disclosed is publicly available;
-The party to whom the disclosure is made controls, is controlled by, or is under common control with Target Point Media; The disclosure is reasonably necessary for the establishment or maintenance of legal claims; or 
-  * The disclosure is to persons or entities for whom we are providing services, provided the disclosure is consistent with the purpose for which the personal information was obtained.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
+**Supplementation of Information**
 
-We will comply with the Safe Harbor Principles with respect to disclosures of sensitive information, including, when applicable, obtaining the explicit consent of the individual prior to disclosing sensitive information to a third party or using sensitive information for purposes other than those for which it was originally collected or subsequently authorized by the individual. Transfers of information permitted under this notice, either to third parties or within Target Point Media, include the transfer of data from one jurisdiction to another, such as transfers to and from the United States of America.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Data Security, Integrity, and Access**
+**Contests/Surveys**
 
-We employ physical, electronic, and managerial measures, including education and training of our personnel, designed to provide the personal information in our possession with reasonable protection from accidental loss or destruction, improper use, alteration, or disclosure. Personal information collected or displayed through a Web site is protected in transit by industry standard encryption processes. However, we cannot guarantee the security of personal information accessible on or transmitted via the Internet.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We process personal information in ways compatible with the purpose for which the personal information was collected, or as otherwise authorized by the individual. To the extent necessary for such purposes, we take reasonable steps to make sure that personal information is accurate, complete, current, and otherwise reliable with regard to its intended use.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-If an individual becomes aware that personal information we maintain about that individual is inaccurate, or if an individual would like to update or review his or her personal information, the individual may contact us using the contact information below. As a security precaution, we may request that the individual provide identifying information such as name, address, birth date, and/or social security number. In addition, we may limit or deny access to personal information where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by the Safe Harbor Agreement. In some circumstances, we may charge a reasonable fee, where warranted, for access to personal information.
+**Tell-A-Friend**
 
-**Accountability and Enforcement**
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-We established a program to monitor our adherence to the Safe Harbor Principles and to address questions and concerns regarding our adherence. This program will include a statement, at least once a year, signed by our authorized representative, verifying our adherence to the Safe Harbor Principles. We encourage interested persons to raise any concerns with us using the contact information below.
+**What Happens to my Personal Information if I Opt Out?**
 
-With respect to any dispute relating to this notice that cannot be resolved through our internal processes, we will cooperate with competent European Union data protection authorities and comply with the advice of such authorities. In the event that we or such authorities determine that we did not comply with this notice, we will take appropriate steps to address any adverse effects and to promote future compliance.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Amendment**
+**Transfer of Data Abroad**
 
-We may amend this notice from time to time by posting a revised notice on this Web site, or a similar Web site that replaces this Web site. If we amend the notice, the new notice will apply to personal information previously collected only insofar as the rights of the individual affected are not reduced. So long as we profess to adhere to the Safe Harbor Principles, we will not amend this notice in a manner inconsistent with the Safe Harbor Principles.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Information Subject to Other Policies**
+**Changes in Our Practices**
 
-We are committed to following the Safe Harbor Principles for all personal information, as that term is defined herein. Other information we receive may be subject to policies that may differ in some respects from the policies set forth in this notice. Certain of our Web sites have their own privacy policies that apply specifically to those Web sites. Those policies may be accessed through the Web sites in question. Information relating to present or former **Target Point Media** personnel is subject to our policies concerning personnel data privacy, which are available to present and former **Target Point Media** personnel upon request. Information obtained from or relating to clients or former clients is further subject to the terms of any privacy commitment made to the client, any agreements with the client, and/or any applicable laws and professional standards.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
