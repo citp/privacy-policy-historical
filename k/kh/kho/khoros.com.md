@@ -1,52 +1,100 @@
-> *The following text is extracted and transformed from the khoros.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103144039id_/http%3A//www.accusoft.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khoros.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# privacystatement.htm
+# Legal Agreement
 
-**Privacy Statement  
-Accusoft.com**  
- _Last Updated 4/23/02_  
-  
-At Accusoft Pegasus, we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. Occasionally, you will be asked to provide information about yourself. This privacy statement explains data collection and use in those situations.  
-  
-**Collecting your Personal Information**  
-We will ask you when we need information that personally identifies you or allows us to contact you. Generally, this information is requested in voluntary questionnaires, when ordering e-mail newsletters, or most commonly, when purchasing and registering Accusoft Pegasus products.
+**Go Daddy Respects Your Privacy**
 
-For example: If you choose to register and purchase a product on the website, we will request contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.  
-  
-**Use of your Personal Information**  
-We use your personal information for the following purposes:
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-  * To alert you to product upgrades, bug fixes, special offers, updated information and other new services from Accusoft Pegasus.
-  * For internal market research collection.
-  * Opt-in company newsletters.
-  * Accusoft Pegasus will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Accusoft Pegasus or the site; (b) protect and defend the rights or property of Accusoft Pegasus, and, (c) act in urgent circumstances to protect the personal safety of users of Accusoft Pegasus, its website, or the public.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  
-**Security of your Personal Information**  
-Accusoft Pegasus strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Accusoft Pegasus does not share with third parties any personal information you provide in connection with our products and services. Accusoft Pegasus maintains controls to provide security over personal information, including credit card details, during and after the purchase process.
+**Information Collection and Use**
 
-Your personal information is never shared outside the company without your permission, except under the legally-mandated conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Security methods include:
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  * The use of secure connections from the customer's Web browser to Accusoft Pegasus.
-  * The use of encryption for sensitive personal information, such as credit card numbers and user names.
-  * Security of the databases that store customers' credit card numbers.
-  * Security controls to restrict access to databases housing personally identifiable information.
-  * Accusoft Pegasus sends you e-mails regarding products and services only if you have indicated you wish to receive e-mail from us.
-  * You may remove yourself from our e-mail list at any time.
-  * Accusoft Pegasus only sends e-mails to customers regarding Accusoft Pegasus products and their promotions, Accusoft Pegasus support, and Accusoft Pegasus services if the customer wishes to receive these e-mails.
-  * The customer has the ability to opt-out of these communications during the registration process or anytime afterwards by replying with "unsubscribe" in the subject line.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  
-**Use of Cookies**  
-To ensure we are publishing content customers need and want, Pegasus Imaging Corporation collects aggregated site-visitation statistics using cookies. We do not track individuals' use of the site.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously.  
-  
-**Changes to this Statement**  
-Accusoft Pegasus will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, Accusoft Pegasus will notify you by placing prominent notice on the Website.  
-**Contact Information**  
-Accusoft Pegasus welcomes your comments regarding this Privacy Statement. Please contact us by [e-mail](mailto:marketing@accusoft.com).
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
