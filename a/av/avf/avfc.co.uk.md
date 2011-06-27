@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the avfc.co.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212194612id_/http%3A//www.avfc.co.uk/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avfc.co.uk privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627024657id_/http%3A//www.avfc.co.uk/page/Privacy) for the most accurate reproduction.*
 
 # Aston Villa | Privacy | Privacy Statement
-
-Information on website privacy.
 
 The Club and the operator of this website, Premium TV Limited ("PTV"), are committed to protecting your privacy. Please take a moment to read this site's Privacy Policy. References to "we", "us" and "our" in this Policy are references to PTV. This Policy describes what happens to the information which you supply to us, where that information identifies you individually :- e.g. your name and address details. 
 
