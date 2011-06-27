@@ -1,69 +1,100 @@
-> *The following text is extracted and transformed from the digitalcommerce.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408062157id_/http%3A//digitalcommerce.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcommerce.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Digital Commerce Corporation
+# Legal Agreement
 
-  
-**Privacy Policy**
+**Go Daddy Respects Your Privacy**
 
-At _Digital Commerce Corporation_ , we are committed to protecting your privacy. We use the information we collect about you to complete the registration process, for statistical reporting, and to continually provide a more personalized shopping experience. Please read on for more details about our privacy policy and how we protect and respect your information and data. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Our Privacy Philosophy**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to a greater array of information and services than has ever been available, these new online activities also raise new challenges, such as the privacy issues addressed in this privacy policy. _Digital Commerce Corporation_ is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. But most importantly, having a relationship with our customers that is founded on trust is not only good manners, it is also good business. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Our Commitment to You**
+**Information Collection and Use**
 
-_Digital Commerce Corporation_ wants to make your Internet experience satisfying and safe. _Digital Commerce Corporation_ collects information online primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address, or information about what you like and do not like.  We request this information to provide our highest value to you - a personalized online experience - and it's the customers that visit us often who make us successful - so we do everything we can to make _Digital Commerce Corporation_ a service you trust and depend on. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**What about "cookies"?**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive.  Cookies are **_not_** used on this _Digital Commerce Corporation_ website. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Information we collect**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-When you come to the _Digital Commerce Corporation_ site, you complete a simple registration form that includes certain personal and financial information about you or your organization including your name, email address, phone number, and certain other business information. Some of the information you supply on the registration form is optional and is clearly marked as such. None of the information you furnish to Digital Commerce Corporation will be shared or sold to any person or organization except as authorized by you, or as may be required by law or court order. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-All transactions take place on _Digital Commerce Corporation's_ servers; please see our[ **__Security Policy__**](https://web.archive.org/web/20010408062157id_/http%3A//digitalcommerce.com/security.htm) **** page for more information on how we protect the integrity of your data. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-**Who we are**
-
-_Digital Commerce Corporation_ is an online e-commerce company.  A leader in e-commerce market solutions, we focus our efforts on developing electronic marketplaces that facilitate secure trade and bridge electronic communities together in an innovative way. For business-to-business transactions, business-to-consumer solutions and business-to-government procurement, _Digital Commerce Corporation’s_ approach to electronic markets is revolutionizing the way businesses, consumers and governments interact.
-
-**How your information is used**
-
-We use the information we collect from you to complete the registration process, for statistical reporting, and to continually provide a more personalized shopping experience. 
-
-**Limited distribution of personal information**
-
-At your direction (when you click on the "OK" button) to submit your registration data, the information will be stored at _Digital Commerce Corporation_ on servers with restricted access. 
-
-**Collection, use and distribution**
-
-From time to time, _Digital Commerce Corporation_ may notify you about a special offer from one of our promotional partners. We do not reveal your name, address or any other identifying information to that promotional partner. 
-
-_Digital Commerce Corporation_ may also share certain aggregated data with third parties for general marketing and demographic purposes; however, this data **will not** include any personal identifying information. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
 **Security**
 
-_Digital Commerce Corporation_ has security measures in place to protect against the loss, misuse and alteration of the information under our control. Please visit our **__[Security Policy](https://web.archive.org/web/20010408062157id_/http%3A//digitalcommerce.com/security.htm)__** page for a detailed explanation. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Changing/deleting your information**
+**Updating Your Information**
 
-To ensure that the information you provide to _Digital Commerce Corporation_ is accurate and current, you may review and change this information at any time. If you wish to change, update or even delete any information, please contact our **_customer service department_**. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Any changes to our privacy policies will be communicated through _the Digital Commerce Corporation_ website at least 30 days in advance of implementation. Information collected before changes are made will be secured according to the privacy policy in effect prior to the change. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Summary**
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-_Digital Commerce Corporation_ is committed to protecting your privacy. We use the information we collect on our sites to enhance your overall shopping experience. We do not sell, trade, or rent your personal information. 
+      iii.      You may call us at: (480) 505-8800
 
-**Your consent**
+       iv.      You may fax us at: (480) 505-8844
 
-By using our Web sites, you consent to the collection and use of this information by _Digital Commerce Corporation_. If we decide to change our privacy policy, we will post those changes on this website so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
+**Sending Emails**
 
-**Tell us what you think**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-_Digital Commerce Corporation_ welcomes your questions and comments about privacy issues. Please send e-mail to[ _privacy@digitalcommerce.com_ _ _._ _](mailto:privacy@digitalcommerce.com)
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  
-TOP
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
