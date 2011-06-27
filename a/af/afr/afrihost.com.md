@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afrihost.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222031126id_/http%3A//www.afrihost.com/site/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrihost.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627183414id_/http%3A//www.afrihost.com/site/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
