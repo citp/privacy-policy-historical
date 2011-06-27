@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216074009id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627122056id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
@@ -6,7 +6,7 @@ Thanks for using <http://www.zazzle.com/> (the "Zazzle Website"). At Zazzle Inc.
 
 #### But first, a note about uploading and posting information on the Zazzle Website:
 
-At the time you register for a MyZazzle account, you will choose and provide us with a user name and password. When you upload a design, post a comment or message on the Zazzle Website, or join a store's fan club, your user name is visible to other users. Additionally, if your comment or message contains personal information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload is not considered personally identifiable information subject to this Privacy Policy. Always use care when you post such information. 
+At the time you register for a Zazzle account, you will choose and provide us with a user name and password. When you upload a design, post a comment or message on the Zazzle Website, or join a store's fan club, your user name is visible to other users. Additionally, if your comment or message contains personal information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload is not considered personally identifiable information subject to this Privacy Policy. Always use care when you post such information. 
 
 ####  What information do we collect? 
 
@@ -14,7 +14,7 @@ At the time you register for a MyZazzle account, you will choose and provide us 
 
 You may provide us with certain personally identifiable information when you: 
 
-  * register for a MyZazzle account;
+  * register for a Zazzle account;
   * order products or gift certificates;
   * request customer support or send us any other communication;
   * sign up for newsletters, email alerts, and special offers;
@@ -23,7 +23,7 @@ You may provide us with certain personally identifiable information when you:
   * sign up for, or redeem, special offers; 
   * respond to surveys; 
   * use our Email-to-a-Friend or Refer-A-Friend features; and
-  * approve your child's request to open a MyZazzle account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).
+  * approve your child's request to open a Zazzle account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).
 
 
 
@@ -39,7 +39,7 @@ Zazzle collects certain non-personally identifiable information through the use 
 
 ####  How do we secure your information? 
 
-When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your MyZazzle account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. 
+When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your Zazzle account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. 
 
 We operate internationally and many of our computer systems are currently based in the United States. As a result, your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this privacy policy and you consent to the transfer of all information you provide to the United States. 
 
@@ -56,7 +56,7 @@ We use the personally identifiable information you provide to:
 
 
 
-We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your MyZazzle account settings. 
+We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your Zazzle account settings. 
 
 We use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time. You may unsubscribe or change the frequency of email notifications on the Account Settings page in "My Account." 
 
@@ -115,6 +115,6 @@ Redwood City, CA 94063
 
 ####  How can I change, delete, or update my information? 
 
-Most of your account information can be changed in the MyZazzle section of the Zazzle Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) or Privacy c/o Zazzle Inc., 1900 Seaport Blvd, Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
+Most of your account information can be changed in the My Account section of the Zazzle Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) or Privacy c/o Zazzle Inc., 1900 Seaport Blvd, Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
 
 The current version of the Zazzle Privacy Policy was adopted effective as of 10/30/2006. 
