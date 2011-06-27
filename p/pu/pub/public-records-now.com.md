@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the public-records-now.com privacy policy that was archived on 2010-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100828022857id_/http%3A//www.public-records-now.com/Privacy/Privacy.aspx%3Ffrom%3Dhys0381186561%26piid%3D46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the public-records-now.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627053211id_/http%3A//www.public-records-now.com/Privacy/Privacy.aspx%3Ffrom%3Dhys0389796898%26piid%3D46) for the most accurate reproduction.*
 
 # PublicRecordsNow.com | Privacy Policy
 
@@ -105,8 +105,8 @@ It is also very helpful to include a print out of the records that you wish to h
 
 Please send this letter to:  
 Opt-Out/PublicRecordsNow.com  
-1821 Q Street  
-Sacramento, CA 95811 
+Po box 110850  
+Naples. Fl 34108 
 
 This information will be kept confidential and is used to ensure complete suppression of your records.
 
@@ -122,12 +122,12 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 If you have any questions about this Privacy Policy, please contact us via email or in writing at:  
 PublicRecordsNow.com  
-1821 Q Street  
-Sacramento, CA 95811 
+Po box 110850  
+Naples. Fl 34108 
 
 * ### Your California Privacy Rights
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of PublicRecordsNow.com who are California residents to request certain information regarding disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to:  
 California Info Request/PublicRecordsNow.com  
-1821 Q Street  
-Sacramento, CA 95811 
+Po box 110850  
+Naples. Fl 34108 
