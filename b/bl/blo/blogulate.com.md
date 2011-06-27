@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blogulate.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224160801id_/http%3A//blogulate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogulate.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627211843id_/http%3A//blogulate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogulate
 
-##  [ Privacy Policy](http://blogulate.com/privacy-policy/)
-
-posted by thinkdj at 9:09 am in 
+[Hey! Did you get 4 yet? It's awesomer... ](http://www.mozilla.com/?from=sfx&uid=175168&t=552)   [Catch me on Twitter](http://twitter.com/thinkdj) 
 
 **Blogulate** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
