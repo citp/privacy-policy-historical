@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggovernment.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630065622id_/http%3A//www.breitbart.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggovernment.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627041753id_/http%3A//www.breitbart.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Breitbart.com
 
