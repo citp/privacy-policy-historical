@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superiorthreads.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229212609id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superiorthreads.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627084221id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en_US" xmlns="http://www.w3.org/1999/xhtml" lang="en_US"><head>
     <meta name="google-site-verification" content="DGR5F4aCcLQ8KI7dwLr5PHNlUep6EQVlraOnM84wt5M">  
@@ -9,11 +9,8 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Private Policy | Private Policy</title>
-    <link href="/media/styles/default.css" rel="stylesheet" type="text/css">
-    <link href="/media/styles/dropmenu.css" rel="stylesheet" type="text/css">
-    <link href="/media/styles/vert_nav.css" rel="stylesheet" type="text/css">
-
+    <title>Private Policy</title>
+	
     <!--[if gte IE 5.5000]>
         <link href="/media/styles/ie.css" rel="stylesheet" type="text/css"></link>
     <![endif]-->
@@ -21,29 +18,15 @@
         <link href="/media/styles/ie7.css" rel="stylesheet" type="text/css"></link>
     <![endif]-->
     <link rel="shortcut icon" href="/media/images/favicon.ico">
+    
+    
+<link rel="stylesheet" href="/media/CACHE/css/a49b70a083b3.css" type="text/css">
 
-    <script type="text/javascript" src="/media/scripts/jquery.js"></script>
-    <script type="text/javascript" src="/media/scripts/jquery.cycle.all.js"></script>
-    <script type="text/javascript" src="/media/scripts/jquery.cookie.js"></script>
 
-    <script type="text/javascript" src="/media/scripts/superfish.js"></script>
-    <script type="text/javascript" src="/media/scripts/jquery.hoverIntent.minified.js"></script>
-    <script type="text/javascript">
-        $(function(){
-            $('ul.sf-menu').superfish({
-                autoArrows: false,
-                speed: "fast",
-                delay: 4000
-            });
-            $('.menu-link').click(function(evt) {
-                return false;
-            });
-            $(document).click(function() {
-                $('ul.sf-menu ul').hide()
-            });
-        });
-    </script>
 
+	<script type="text/javascript" src="/media/CACHE/js/67016df44c4b.js"></script>
+
+	
     
     
 
@@ -93,11 +76,12 @@
     }
 </script>
 
-</head>
+<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
 <body>
+    <div style="display:none"></div>
    <div id="page">
-      <div id="title" class="retail ">
+      <div id="title" class="none ">
             <div id="login_container">
                 
                 
@@ -109,14 +93,16 @@
                     <a href="/accounts/wizard/">Create Account</a>
                 
                 |
-                  
+                
+                
                 <a href="/shop/cart/">My Cart (Empty)</a> |
                 
+                
 
                 
                 
 
-                   <a href="/instructions/">Website Instructions</a>
+                   <a href="/contact/">Contact Us</a>
                 
                 <br>
 
@@ -202,7 +188,11 @@
                             var selected_font = $("#font-size option:selected").val();
                             setFontSize(parseInt(selected_font));
                         }
-                    )
+                    );
+                    $("#product-button").click(function(evt) {
+                    	$(evt).preventDefault(); 
+                    	$(this).next().stop().toggle();
+                    });
 //                     $("#font-normal").click(function() {
 //                         setFontSize()
 //                     })
@@ -230,30 +220,759 @@
     <div class="menu">
         <ul class="sf-menu sf-js-enabled sf-shadow">
             <li class="top">
-                <a class="menu-link" href="javascript:void(0)">Products</a>
-                <ul style="display: none; visibility: hidden;">
-                    <li><a href="/shop/">All Products</a></li>
-                    <li><a href="/page/331/">Product Index</a></li>
-                    
-                    <li><a href="/retail-price-list/">Price List</a></li>
-                    
-                    <li><a href="/shipping/">Shipping Information</a></li>
-                    <li><a href="/">Search</a></li>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/page/308/">Order Form</a></li>
-                    <li><a href="/page/383/">About Us</a></li>
-                    <li><a href="/inventory-list/">Inventory Lists</a></li>
-                    <li><a href="/shop/cart/">Quick Order</a></li>
-                    <li><a href="javascript:void(0)" onclick="window.open('/how-to-order/', null, 'location=no,menubar=no,scrollbars=no,status=no,resizable=no,width=400,height=300' )">How to Order</a></li>
-               <li><a href="/media/flash/ebook1/view.html" target="_blank">eBook Catalog</a></li>
-                </ul>
+                <a id="product-button" href="javascript:void(0)">Products</a>
+                
+				
+                
+				
+				<ul id="navmenu-v" class="sf-js-enabled sf-shadow" style="display: none; visibility: hidden;">
+					
+					
+					
+					<li>
+			            
+			            <a class="menu-link" href="javascript:void(0)">Thread</a>
+			            
+			            
+						
+						<ul style="display: none; visibility: hidden;">
+							<li>
+								<a class="menu-link" href="javascript:void(0)">by Brand/Line</a>
+								
+					            <ul class="table-menu" style="display: none; visibility: hidden;">
+					            	<li class="navmenu-hover">
+						                <table style="table-collapse: collapse; padding:0; margin:0;">
+						                
+						                <tbody><tr>
+						                    <td>
+						                        <a href="/shop/category/thread/art-studio-colors-by-ricky-tims/">Art Studio Colors by Ricky Tims</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/omni/">OMNI</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/bottom-line/">Bottom Line (60 wt. poly)</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/original-brytes-closeout/">Original BRYTES Closeout</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/brytes/">Brytes (So Fine #30)</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/perfect-quilter/">Perfect Quilter</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/charlottes-fusible-web/">Charlotte's Fusible Web</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/poly-quilter/">Poly Quilter</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/frostings-prewound-bobbins-145/">Frostings Prewound Bobbins</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/polyarn/">Polyarn</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/glitter-hologram/">Glitter Hologram</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/prewound-bobbins/">Prewound Bobbins</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/halo/">Halo</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/rainbows/">Rainbows</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/highlights/">Highlights</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/razzle-dazzle/">Razzle Dazzle</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/king-tut/">King Tut</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/sampler-sets/">Sampler Sets</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/lava/">LAVA</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/silk-1/">Silk Thread</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/libby-lehman-class-kits/">Libby Lehman Class Kits</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/so-fine/">So Fine! #50</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/living-colors/">Living Colors</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/sunburst/">SunBurst</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/masterpiece/">MasterPiece</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/super-brights/">Super Brights</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/metallic-thread/">Metallic Thread</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/superbobs/">SuperBOBs</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/monopoly/">MonoPoly</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/treasure/">Treasure Hand Quilting Thread</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/nature-colors/">Nature Colors</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/try-me-thread-specials/">Try Me Specials</a>
+						                    </td>
+						                </tr>
+						                
+						                <tr>
+						                    <td>
+						                        <a href="/shop/category/thread/nitelite-30/">NiteLite ExtraGlow</a>
+						                    </td>
+						                
+						                    <td>
+						                        <a href="/shop/category/thread/vanish/">Vanish</a>
+						                    </td>
+						                </tr>
+						                
+						                </tbody></table>
+					            	</li>
+					            </ul>
+					            
+							</li>
+							<li>
+								<a class="menu-link" href="javascript:void(0)">by Fiber Type</a>
+								
+								<ul style="display: none; visibility: hidden;">
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Polyester Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/art-studio-colors-by-ricky-tims/">Art Studio Colors by Ricky Tims</a></li>
+											<li><a href="/shop/category/thread/bottom-line/">Bottom Line (60 wt. poly)</a></li>
+											<li><a href="/shop/category/thread/brytes/">Brytes (So Fine #30)</a></li>
+											<li><a href="/shop/category/thread/highlights/">Highlights</a></li>
+											<li><a href="/shop/category/thread/lava/">LAVA</a></li>
+											<li><a href="/shop/category/thread/living-colors/">Living Colors</a></li>
+											<li><a href="/shop/category/thread/nature-colors/">Nature Colors</a></li>
+											<li><a href="/shop/category/thread/nitelite-30/">NiteLite ExtraGlow</a></li>
+											<li><a href="/shop/category/thread/omni/">OMNI</a></li>
+											<li><a href="/shop/category/thread/original-brytes-closeout/">Original BRYTES Closeout</a></li>
+											<li><a href="/shop/category/thread/poly-quilter/">Poly Quilter</a></li>
+											<li><a href="/shop/category/thread/polyarn/">Polyarn</a></li>
+											<li><a href="/shop/category/thread/rainbows/">Rainbows</a></li>
+											<li><a href="/shop/category/thread/so-fine/">So Fine! #50</a></li>
+											<li><a href="/shop/category/thread/sunburst/">SunBurst</a></li>
+											<li><a href="/shop/category/thread/super-brights/">Super Brights</a></li>
+											<li><a href="/shop/category/thread/original-brytes-closeout/original-brytes-2-200-yd-cones/">ORIGINAL BRYTES 2,200 yd Cones</a></li>
+											<li><a href="/shop/category/thread/original-brytes-closeout/original-brytes-275-yd-spools/">ORIGINAL BRYTES 275 yd Spools</a></li>
+										</ul>											
+									</li>
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Cotton Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/king-tut/">King Tut</a></li>
+											<li><a href="/shop/category/thread/masterpiece/">MasterPiece</a></li>
+											<li><a href="/shop/category/thread/perfect-quilter/">Perfect Quilter</a></li>
+											<li><a href="/shop/category/thread/treasure/">Treasure Hand Quilting Thread</a></li>
+										</ul>											
+									</li>
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Metallic Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/glitter-hologram/">Glitter Hologram</a></li>
+											<li><a href="/shop/category/thread/metallic-thread/">Metallic Thread</a></li>
+										</ul>											
+									</li>
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Silk Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/silk-1/9-buttonhole-silk/">#16 Buttonhole Silk</a></li>
+											<li><a href="/shop/category/thread/silk-1/16-quilter-s-silk/">#16 Quilter's Silk</a></li>
+											<li><a href="/shop/category/thread/silk-1/25-3-ply-silk-embroidery-floss/">#25/3-ply Silk Embroidery Floss</a></li>
+											<li><a href="/shop/category/thread/silk-1/30-tire-brand-silk/">#30 Tire brand Silk</a></li>
+											<li><a href="/shop/category/thread/silk-1/50-tiara-silk/">#50 Tiara Silk (Variegated Silk)</a></li>
+											<li><a href="/shop/category/thread/silk-1/50-tire-brand-silk/">#50 Tire brand Silk</a></li>
+											<li><a href="/shop/category/thread/silk-1/kimono-100-silk-thread/">Kimono #100 Silk Thread</a></li>
+										</ul>											
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a class="menu-link" href="javascript:void(0)">by Application</a>
+								
+								<ul style="display: none; visibility: hidden;">
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Embroidery Machine Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/art-studio-colors-by-ricky-tims/">Art Studio Colors by Ricky Tims</a></li>
+											<li><a href="/shop/category/thread/bottom-line/">Bottom Line (60 wt. poly)</a></li>
+											<li><a href="/shop/category/thread/glitter-hologram/">Glitter Hologram</a></li>
+											<li><a href="/shop/category/thread/highlights/">Highlights</a></li>
+											<li><a href="/shop/category/thread/living-colors/">Living Colors</a></li>
+											<li><a href="/shop/category/thread/metallic-thread/">Metallic Thread</a></li>
+											<li><a href="/shop/category/thread/nature-colors/">Nature Colors</a></li>
+											<li><a href="/shop/category/thread/nitelite-30/">NiteLite ExtraGlow</a></li>
+											<li><a href="/shop/category/thread/rainbows/">Rainbows</a></li>
+											<li><a href="/shop/category/thread/sunburst/">SunBurst</a></li>
+											<li><a href="/shop/category/thread/super-brights/">Super Brights</a></li>
+										</ul>											
+									</li>
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Machine Quilting Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/art-studio-colors-by-ricky-tims/">Art Studio Colors by Ricky Tims</a></li>
+											<li><a href="/shop/category/thread/bottom-line/">Bottom Line (60 wt. poly)</a></li>
+											<li><a href="/shop/category/thread/brytes/">Brytes (So Fine #30)</a></li>
+											<li><a href="/shop/category/thread/glitter-hologram/">Glitter Hologram</a></li>
+											<li><a href="/shop/category/thread/highlights/">Highlights</a></li>
+											<li><a href="/shop/category/thread/king-tut/">King Tut</a></li>
+											<li><a href="/shop/category/thread/lava/">LAVA</a></li>
+											<li><a href="/shop/category/thread/living-colors/">Living Colors</a></li>
+											<li><a href="/shop/category/thread/masterpiece/">MasterPiece</a></li>
+											<li><a href="/shop/category/thread/metallic-thread/">Metallic Thread</a></li>
+											<li><a href="/shop/category/thread/nature-colors/">Nature Colors</a></li>
+											<li><a href="/shop/category/thread/nitelite-30/">NiteLite ExtraGlow</a></li>
+											<li><a href="/shop/category/thread/omni/">OMNI</a></li>
+											<li><a href="/shop/category/thread/poly-quilter/">Poly Quilter</a></li>
+											<li><a href="/shop/category/thread/rainbows/">Rainbows</a></li>
+											<li><a href="/shop/category/thread/silk-1/">Silk Thread</a></li>
+											<li><a href="/shop/category/thread/so-fine/">So Fine! #50</a></li>
+											<li><a href="/shop/category/thread/sunburst/">SunBurst</a></li>
+											<li><a href="/shop/category/thread/super-brights/">Super Brights</a></li>
+										</ul>											
+									</li>
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Serger Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/omni/">OMNI</a></li>
+											<li><a href="/shop/category/thread/polyarn/">Polyarn</a></li>
+											<li><a href="/shop/category/thread/razzle-dazzle/">Razzle Dazzle</a></li>
+											<li><a href="/shop/category/thread/so-fine/">So Fine! #50</a></li>
+										</ul>											
+									</li>
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Quilting Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/art-studio-colors-by-ricky-tims/">Art Studio Colors by Ricky Tims</a></li>
+											<li><a href="/shop/category/thread/bottom-line/">Bottom Line (60 wt. poly)</a></li>
+											<li><a href="/shop/category/thread/brytes/">Brytes (So Fine #30)</a></li>
+											<li><a href="/shop/category/thread/glitter-hologram/">Glitter Hologram</a></li>
+											<li><a href="/shop/category/thread/halo/">Halo</a></li>
+											<li><a href="/shop/category/thread/highlights/">Highlights</a></li>
+											<li><a href="/shop/category/thread/king-tut/">King Tut</a></li>
+											<li><a href="/shop/category/thread/lava/">LAVA</a></li>
+											<li><a href="/shop/category/thread/living-colors/">Living Colors</a></li>
+											<li><a href="/shop/category/thread/masterpiece/">MasterPiece</a></li>
+											<li><a href="/shop/category/thread/metallic-thread/">Metallic Thread</a></li>
+											<li><a href="/shop/category/thread/nature-colors/">Nature Colors</a></li>
+											<li><a href="/shop/category/thread/nitelite-30/">NiteLite ExtraGlow</a></li>
+											<li><a href="/shop/category/thread/omni/">OMNI</a></li>
+											<li><a href="/shop/category/thread/original-brytes-closeout/">Original BRYTES Closeout</a></li>
+											<li><a href="/shop/category/thread/perfect-quilter/">Perfect Quilter</a></li>
+											<li><a href="/shop/category/thread/poly-quilter/">Poly Quilter</a></li>
+											<li><a href="/shop/category/thread/polyarn/">Polyarn</a></li>
+											<li><a href="/shop/category/thread/rainbows/">Rainbows</a></li>
+											<li><a href="/shop/category/thread/razzle-dazzle/">Razzle Dazzle</a></li>
+											<li><a href="/shop/category/thread/so-fine/">So Fine! #50</a></li>
+											<li><a href="/shop/category/thread/sunburst/">SunBurst</a></li>
+											<li><a href="/shop/category/thread/super-brights/">Super Brights</a></li>
+											<li><a href="/shop/category/thread/treasure/">Treasure Hand Quilting Thread</a></li>
+										</ul>											
+									</li>
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Sewing Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/masterpiece/">MasterPiece</a></li>
+											<li><a href="/shop/category/thread/so-fine/">So Fine! #50</a></li>
+										</ul>											
+									</li>
+									<li>
+										<a class="menu-link" href="javascript:void(0)">Hand Quilting Thread</a>
+										<ul style="display: none; visibility: hidden;">
+											<li><a href="/shop/category/thread/treasure/">Treasure Hand Quilting Thread</a></li>
+										</ul>											
+									</li>
+								</ul>
+							</li>
+						</ul>
+						
+					</li>
+					<li>
+		                
+		                <a href="/other/thread-of-the-month-club/"><span>Thread of the<br> Month Club</span></a>
+		                
+		            </li>
+					
+					
+					
+					
+					<li>
+			            
+						<a href="/shop/category/booklet/">Catalog &amp; DVDs</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+			            <a class="menu-link" href="javascript:void(0)">Closeout Items</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			                <li>
+			                <a href="/shop/category/closeout-items/perfect-quilter-1/">Perfect Quilter</a>
+			                </li>
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+						<a href="/shop/category/color-cards/">Color Cards</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+						<a href="/shop/category/gift-set/">Gift Sets &amp; Certificates</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+			            <a class="menu-link" href="javascript:void(0)">Needles</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			                <li>
+			                <a href="/shop/category/needles/home-machines/">Home Machines</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/needles/longarm-machines/">Most Longarms</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/needles/a-1-machines/">A-1 Machines</a>
+			                </li>
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+						<a href="/shop/category/new-products/">New Products</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+			            <a class="menu-link" href="javascript:void(0)">Notions</a>
+			            
+			            
+						
+			            
+			            <ul class="table-menu" style="display: none; visibility: hidden;">
+			            	<li class="navmenu-hover">
+				                <table style="table-collapse: collapse; padding:0; margin:0;">
+				                
+				                <tbody><tr>
+				                    <td>
+				                        <a href="/shop/category/accessories/bobbin-saver/">Bobbin Saver</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/accessories/needles-titanium-coated-topstitch-longarm/">Needles</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/accessories/tension-gauges/">Tension Gauges</a>
+				                    </td>
+				                </tr>
+				                
+				                <tr>
+				                    <td>
+				                        <a href="/shop/category/accessories/dissolve/">Dissolve</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/accessories/snippers/">Snippers</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/accessories/thread-stand/">Thread Stand</a>
+				                    </td>
+				                </tr>
+				                
+				                <tr>
+				                    <td>
+				                        <a href="/shop/category/accessories/dissolve-4x/">Dissolve-4x</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/accessories/steamer-1/">Steamer</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/accessories/thread-storage/">Thread Storage</a>
+				                    </td>
+				                </tr>
+				                
+				                <tr>
+				                    <td>
+				                        <a href="/shop/category/accessories/handynets/">HandyNets</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/accessories/stitch-outs/">Stitch-outs</a>
+				                    </td>
+				                
+				                    <td></td>
+				                </tr>
+				                
+				                <tr>
+				                    <td>
+				                        <a href="/shop/category/accessories/machingers/">Machingers</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/accessories/t-shirts/">T-shirts </a>
+				                    </td>
+				                
+				                    <td></td>
+				                </tr>
+				                
+				                </tbody></table>
+			            	</li>
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+			            <a class="menu-link" href="javascript:void(0)">Patterns &amp; Kits</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			                <li>
+			                <a href="/shop/category/patterns-kits/kits/">Kits. (incl. fabric, pattern, thread)</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/patterns-kits/leesa-chandler/">Leesa Chandler Designs</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/patterns-kits/patterns-1/">Patterns</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/patterns-kits/patterns-by-annie/">Patterns by Annie</a>
+			                </li>
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+			            <a class="menu-link" href="javascript:void(0)">Prewound Bobbins</a>
+			            
+			            
+						
+			            
+			            <ul class="table-menu" style="display: none; visibility: hidden;">
+			            	<li class="navmenu-hover">
+				                <table style="table-collapse: collapse; padding:0; margin:0;">
+				                
+				                <tbody><tr>
+				                    <td>
+				                        <a href="/shop/category/prewound-bobbins-1/bobs-for-hand-applique/">BOBs (for hand applique)</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/prewound-bobbins-1/masterpiece-1/">MasterPiece Bobbins</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/prewound-bobbins-1/superbobs-1/">SuperBOBs</a>
+				                    </td>
+				                </tr>
+				                
+				                <tr>
+				                    <td>
+				                        <a href="/shop/category/prewound-bobbins-1/frostings/">Frostings (in BobbinSaver ring)</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/prewound-bobbins-1/so-fine-bobbins-1/">So Fine Bobbins</a>
+				                    </td>
+				                
+				                    <td>
+				                        <a href="/shop/category/prewound-bobbins-1/holy-superbobs-2/">SuperBOBs (in BobbinSaver ring)</a>
+				                    </td>
+				                </tr>
+				                
+				                </tbody></table>
+			            	</li>
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+			            <a class="menu-link" href="javascript:void(0)">Silk Ribbon</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			                <li>
+			                <a href="/shop/category/silk-ribbon/2mm-wide-x-5-yds-equivalent-to-08-inch/">2mm wide</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/silk-ribbon/4mm-wide-x-5-yds-equivalent-to-16-inch/">4mm wide</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/silk-ribbon/7mm-wide-x-3-yds-equivalent-to-27-inch/">7mm wide</a>
+			                </li>
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+						<a href="/shop/category/soft-and-stable/">Soft and Stable</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+						<a href="/shop/category/store-fixtures-displays/">Store Fixtures &amp; Displays</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+						<a href="/shop/category/specials/">Specials &amp; Try Me Specials</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+					
+					
+					<li>
+			            
+			            <a class="menu-link" href="javascript:void(0)">Texture Magic</a>
+			            
+			            
+						
+			            
+			            <ul style="display: none; visibility: hidden;">
+			            
+			                <li>
+			                <a href="/shop/category/texture-magic/patterns/">Patterns</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/texture-magic/steamer/">Steamer</a>
+			                </li>
+			            
+			                <li>
+			                <a href="/shop/category/texture-magic/texture-magic-1/">Texture Magic</a>
+			                </li>
+			            
+			            </ul>
+			            
+			            
+					</li>
+					
+				</ul>
+				
             </li>
             <li class="top">
                 <a href="/locate/">Store Locator&nbsp;&nbsp;</a>
                 
             </li>
             <li class="top">
-                <a class="menu-link" href="javascript:void(0)">Education</a>
+                <a class="menu-link" href="/education/" onclick="document.location=this.href" title="Education">Education</a>
                 
                 <ul id="educationDown" style="display: none; visibility: hidden;">
 <li><a href="/education/search/">Search Education Topics</a></li>
@@ -266,7 +985,19 @@
 </ul>
             </li>
             <li class="top">
-                <a href="/page/205/" title="Contact Us">Contact Us</a>
+                <a class="menu-link" href="/page/205/" onclick="document.location=this.href" title="Contact Us">Contact Us</a>
+                <ul id="contactDown" style="display: none; visibility: hidden;">               
+                	<li><a href="/page/205/">Contact Us</a></li>
+                	<li><a href="/media/flash/ebook1/view.html" target="_blank">eBook Catalog</a></li>
+                    <li><a href="javascript:void(0)" onclick="window.open('/how-to-order/', null, 'location=no,menubar=no,scrollbars=no,status=no,resizable=no,width=400,height=300' )">How to Order</a></li>
+                    <li><a href="/inventory-list/">Inventory Lists</a></li>
+                    
+                    <li><a href="/retail-price-list/">Price List</a></li>
+                    
+                    <li><a href="/shipping/">Shipping Information</a></li>
+                    <li><a href="/page/308/">Order Form</a></li>
+                    <li><a href="/page/383/">About Us</a></li>
+                </ul>
             </li>
             <li class="top">
                 <a href="/gallery/intro/">Gallery</a>
@@ -291,14 +1022,29 @@
                     <li><a href="/music/quilt-stash-song/">Quilt Stash Song</a></li>
                     <li><a href="/forums/">Forums</a></li>
                     <li><a href="/quilt_guild_ideas/">Quilt Guild Ideas</a></li>
+                    
                     <li><a href="/other/thread-of-the-month-club/">Thread of the Month Club</a></li>
+                    
                 </ul>
             </li>
             <li class="top multi-line">
-                <a href="/blog/"><span>Mother Superior's<br>BLOG</span></a>
+                
+                <a href="/other/thread-of-the-month-club/"><span>Thread of the<br> Month Club</span></a>
+                
             </li>
         </ul>
     </div>
+</div>
+<div id="search">
+    <form action="/product/search/" method="get">
+        Search products:<input name="keywords" type="text" style="width:120px;">
+        <input type="submit" value="Search">
+    </form>
+    <form action="/education/search/" method="get">
+        Search Education:<input name="keywords" type="text" style="width:120px;">
+        <input type="submit" value="Search">
+    </form>
+    <a href="/page/330/">Reference Guides</a><br style="clear:both;">
 </div>
 
 
@@ -414,7 +1160,7 @@ us at (435) 652-1867 or send us an email at info@superiorthreads.com. </span></p
 
 
 <div id="copyright">
-    Copyright © 2010 
+    Copyright © 2011 
     <a href="http://www.superiorthreads.com/about/">Superior Threads</a>. All Rights Reserved.<br>
     View our <a href="/private-policy/">privacy policy</a>.<br>
     Site designed by <a href="http://www.websitesforquilters.com/">Websites For Quilters</a>.
@@ -424,18 +1170,43 @@ us at (435) 652-1867 or send us an email at info@superiorthreads.com. </span></p
 </div>
 
 <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-    try {
-    var pageTracker = _gat._getTracker("UA-16638296-1");
-    pageTracker._trackPageview();
-    } catch(err) {}
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16638296-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+
 </script>
 
 
 
+
+<!-- Google Code for Anyone Who Visits Site Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1023235341;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "t2lcCMeExAIQjar15wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1023235341/?label=t2lcCMeExAIQjar15wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!--Remarketing Code End-->
 
 
 </div></body></html>
