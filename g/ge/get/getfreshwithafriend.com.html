@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getfreshwithafriend.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225040851id_/http%3A//www.cottonelle.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getfreshwithafriend.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627135810id_/http%3A//www.cottonelle.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
 	<script type="text/javascript" src="/js/jquery.js"></script>
@@ -8,18 +8,25 @@
 	<meta name="description" content="Read the Cottonelle® Toilet Paper Brand Privacy Policy from Kimberly- Clark here.">
     <link type="text/css" rel="stylesheet" href="/css/base.css"><link type="text/css" rel="alternate stylesheet" href="/css/js.css" title="js"><link rel="shortcut icon" href="/favicon.ico">
 <script src="/js/swfobject.js" type="text/javascript"></script>
+<script src="/js/bgc.js" type="text/javascript"></script>
 <script src="../js/cottonelle.js" type="text/javascript"></script>
 <!--[if lt IE 7]>
 <link type="text/css" rel="stylesheet" href="/css/ie.css" />
 <![endif]-->
 <title>
 	Privacy Policy | Cottonelle®
-</title></head>
+</title><style type="text/css" media="screen">#sidebar {visibility:hidden}</style></head>
 <body class="privacy info">
-	
+<div id="topbanner">
+	<div id="bannercenter">
+		<a href="http://www.kimberly-clark.com/CARS2" target="_blank"><img src="img/banner_cars2_nostroke.png" alt="Check out the special site to see what Cottonelle¨ products you can get to earn gifts!"></a>
+		<a href="#" id="bannerclose">Close</a>
+	</div>
+
+</div>
 
 <div id="wrapper">
-<form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
+<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTgxMjAzNjcwZGT2dLT6akkJvshUdQ93qtybMIsl/A==">
 
 <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKQrq7VAwLl8P/aDAKdj8gbAo7G3bAKdAu/GxHkkIuXehFZR4p+bVDN0ms=">
@@ -49,7 +56,6 @@
 			<li><a href="/playtime.aspx">Puppy Playtime</a></li>
 			<li><a href="/color.aspx">Puppies to Color</a></li>
 			<li><a href="/wallpaper.aspx">Wallpaper</a></li>
-			<li><a href="/ads.aspx">Puppy TV Ads</a></li>
 			<li><a href="http://dlc.thinkdesktop.com/dl/?FI=1522" target="_blank">Desktop Puppy</a></li>
 		</ul>
 	</li>
@@ -58,7 +64,8 @@
 			<li><a href="/coupons.aspx">Cottonelle® Coupons</a></li>
 			<li><a href="/earn_and_learn.aspx">Box Tops for Education</a></li>
 			<li><a href="/newsletter_signup.aspx">Newsletter Sign-up</a></li>
-			<li><a href="/sweepstakes.aspx">Sweepstakes winners</a></li>	
+			<li><a href="/sweepstakes.aspx">Sweepstakes winners</a></li>
+			<li><a href="http://www.youtube.com/cottonelle" title="YouTube - Cottonelle's Channel" target="_blank">Cottonelle® Videos</a></li>	
 		</ul>
 	</li>
 	<li class="faq"><a href="/faq.aspx">Frequently asked questions</a>
@@ -130,7 +137,7 @@ Neenah, WI 54957-2020</p>
 </div>
 
 <div id="content-three">
-<div id="sidebar">
+<div id="sidebar" style="visibility: visible;">
 	<div id="logo"><a href="/">Cottonelle Home</a></div>
 	<div id="noflash">
 		<h3>Need Flash® Player?</h3>
@@ -146,14 +153,16 @@ Neenah, WI 54957-2020</p>
 </div>
 
 <script type="text/javascript">
-	if(!$("body").hasClass('flash') && !$("body").hasClass('errorpage')) {
-		var sidebar = new SWFObject("swf/AccordionMenu.swf", "sidebarFlash", "217", "633", "9.0.47", "#ffffff");
-		sidebar.addParam("base", "/swf/");
-		sidebar.addParam("wmode", "transparent");
-		sidebar.useExpressInstall("swf/expressinstall.swf");
-		sidebar.write("content-three")
-		window["sidebarFlash"] = document.getElementById("sidebarFlash");
-	}
+	(function(){
+		var flashvars = {}
+		,	params = {wmode:'transparent', base:'/swf/'}
+		,	attributes = {"redirectUrl":"flashupgrade.aspx", id:'sidebarFlash'}
+		;
+		
+		if(!$("body").hasClass('flash') && !$("body").hasClass('errorpage')) {
+			swfobject.embedSWF("swf/AccordionMenu.swf", "sidebar", "217", "633", "9.0.47", "swf/expressinstall.swf", flashvars, params, attributes, function(e){return;});	
+		};
+	})();
 </script> 
 
 </div>
@@ -170,7 +179,7 @@ Neenah, WI 54957-2020</p>
 	<li><a href="/product_wipes.aspx">Cottonelle Fresh® Wipes</a></li>
 	<li><a href="/product_soothing.aspx">SoothingClean™ Wipes</a></li>
 </ul>
-<h4>Be Kind to Your Behind<sup>TM</sup>:</h4>
+<h4>Be Kind to Your Behind™:</h4>
 <ul>
             <li class="first"><a href="/celebrity_pledges.aspx">Celebrity Pledges</a></li>		
 			<li><a href="/add_pledge.aspx">Create Your Pledge</a></li>
@@ -181,7 +190,6 @@ Neenah, WI 54957-2020</p>
 	<li class="first"><a href="/playtime.aspx">Puppy Playtime</a></li>
 	<li><a href="/color.aspx">Puppies to Color</a></li>
 	<li><a href="/wallpaper.aspx">Wallpaper</a></li>
-	<li><a href="/ads.aspx">Puppy TV Ads</a></li>
 	<li><a href="http://dlc.thinkdesktop.com/dl/?FI=1522" target="_blank">Desktop Puppy</a></li>
 </ul>
 
@@ -190,6 +198,8 @@ Neenah, WI 54957-2020</p>
 	<li class="first"><a href="/coupons.aspx">Cottonelle® Coupons</a></li>
 	<li><a href="/earn_and_learn.aspx">Box Tops for Education</a></li>
 	<li><a href="/newsletter_signup.aspx">Newsletter Sign-up</a></li>
+	<li><a href="https://fresh.cottonelle.com" title="Get Fresh With a Friend">Get Fresh With a Friend</a></li>
+	<li><a href="http://www.youtube.com/cottonelle" title="YouTube - Cottonelle's Channel" target="_blank">Cottonelle® Videos</a></li>
 </ul>
 
 <h4>Frequently Asked Questions:</h4>
@@ -218,14 +228,13 @@ Neenah, WI 54957-2020</p>
 
 <input type="text" value="Search our site" onclick="SetText();" id="searchfield" name="searchfield"><input type="image" src="/img/go.gif" class="submit" onclick="return searchPage();" alt="Search">
 
-<p><a href="http://www.cottonelle.ca/"><img src="/img/ca-flag.gif" width="16" height="11" alt="Canadian Flag" style="padding-right:.5em;"> Go to Cottonelle Canada Site</a></p>
+<p><a href="http://www.cottonelle.ca/" class="track outbound|click|canadiansite"><img src="/img/ca-flag.gif" width="16" height="11" alt="Canadian Flag" style="padding-right:.5em;"> Go to Cottonelle Canada Site</a></p>
 </div>
 <br>
 
-
 <p id="kcdisclaimer">
 For more information about other great Kimberly-Clark brands, visit our website at <a href="http://www.kimberly-clark.com">www.kimberly-clark.com</a><br>
-All names, logos and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates.<br>© 2010 KCWW. All Rights Reserved. Your visit to this site and use of the information herein is subject to the<br>
+All names, logos and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates.<br>© 2011 KCWW. All Rights Reserved. Your visit to this site and use of the information herein is subject to the<br>
 terms of our <a href="/legal.aspx">Legal Statement</a>. Please review our <a href="/privacy.aspx">Privacy Policy</a>. </p>
 
 </div>
@@ -243,8 +252,11 @@ if(document.body.className.indexOf('home') != -1){
 <!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
 <!-- Version: 1.1.0 -->
 <!-- Created: 12/12/2007 9:50:45 AM -->
-<script src="http://www.cottonelle.com/WA_Scripts/wtinit.js" type="text/javascript"></script>
-<script src="http://www.cottonelle.com/WA_Scripts/wtbase.js" type="text/javascript"></script>
+<!-- Modified By Q03619 for  SSL Implementation-->
+<script src="/WA_Scripts/wtinit.js" type="text/javascript"></script>
+<script src="/WA_Scripts/wtbase.js" type="text/javascript"></script>
+<!-- Modified By Q03619 for  SSL Implementation-->
+
 <noscript>
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcshuo7ysqljwp9i1r7crk2l0_5e2y/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.1.0"/></div>
 </noscript>
