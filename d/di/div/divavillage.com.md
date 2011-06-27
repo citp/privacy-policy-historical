@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226161724id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627070940id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
 
 # Privacy Policy - DivaVillage.com: Fashion, Entertainment, Beauty, Hair, Hot Finds
 
@@ -71,4 +71,50 @@ In addition to the foregoing, DivaVillage may share or disclose personally ident
 
 ·        we need to protect our legal rights (for example, if we are trying to collect money you owe us); 
 
-When you voluntarily give out any personal information, like your name, mailing address, telephone number, city, or school, in chat areas or on bulletin boards, that information can be collected and used by others. They may send you messages that you don't want or that are inappropriate. We suggest that you never post this type of information in chat rooms, or other areas open to the public, for your own safety. 
+When you voluntarily give out any personal information, like your name, mailing address, telephone number, city, or school, in chat areas or on bulletin boards, that information can be collected and used by others. They may send you messages that you don't want or that are inappropriate. We suggest that you never post this type of information in chat rooms, or other areas open to the public, for your own safety.
+
+We use third-party advertising companies to serve ads when you visit our
+
+Website. These companies may use information (not including your name,
+
+address email address or telephone number) about your visits to this and
+
+other Web sites in order to provide advertisements about goods and services
+
+of interest to you. If you would like more information about this practice
+
+and to know your choices about not having this information used by these
+
+companies, http://www.networkadvertising.org/managing/opt_out.asp.
+
+We allow third-party companies to serve ads and/or collect certain
+
+anonymous information when you visit our web site. These companies may
+
+use non-personally identifiable information (e.g., click stream information,
+
+browser type, time and date, subject of advertisements clicked or scrolled
+
+over) during your visits to this and other Web sites in order to provide
+
+advertisements about goods and services likely to be of greater interest
+
+to you. These companies typically use a cookie or third party web beacon
+
+to collect this information. To learn more about this behavioral advertising
+
+practice or to opt-out of this type of advertising, you can visit http://
+
+www.networkadvertising.org/managing/opt_out.asp.We use third-party advertising companies to serve ads when you visit our
+
+Website. These companies may use information (not including your name,
+
+address email address or telephone number) about your visits to this and
+
+other Web sites in order to provide advertisements about goods and services
+
+of interest to you. If you would like more information about this practice
+
+and to know your choices about not having this information used by these
+
+companies, http://www.networkadvertising.org/managing/opt_out.asp.
