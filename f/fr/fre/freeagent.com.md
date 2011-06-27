@@ -1,86 +1,100 @@
-> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105348id_/http%3A//www.blackbookmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - BlackBook
+# Legal Agreement
 
-### Privacy Policy
+**Go Daddy Respects Your Privacy**
 
-BlackBook Media Corp. (“BlackBook,” “us” or “we”), has created this privacy policy (the “Privacy Policy”) in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our service with this in mind. BlackBook is fully committed to 100% permission-based marketing. You agree to this Privacy Policy, in its entirety, when you: 1) access or use our website located at [www.BlackBookmag.com](http://www.blackbookmag.com/) (the “Website”); 2) agree to receive e-mail from us; and/or 3) obtain, or attempt to obtain, BlackBook services at a website belonging to a BlackBook affiliate.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-This Privacy Policy will address the following:
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  1. What information this Website gathers/tracks about you.
-  2. What this Website does with the information it gathers/tracks.
-  3. With whom this Website shares the information it gathers/tracks.
-  4. This Website's opt-out policy.
-  5. This Website's policy on correcting and updating personally identifiable information.
-  6. This Website's policy on deactivating your name from our database.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Information Collected:  
-Registration  
-Upon registration, users may be required to provide some or all of the following information:
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  1. Name
-  2. Gender
-  3. Address
-  4. E-mail address
-  5. Address
-  6. Zip code
-  7. Credit card information
-  8. City of Birth
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-BlackBook creates internal reports on user demographics and traffic patterns for our advertisers and partners. BlackBook may include your personal information in our reports. This information allows our third-party advertisers to deliver, and our users to receive, more relevant advertisements.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-BlackBook reserves the right to transfer and/or sell aggregate or group data about BlackBook users for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of BlackBook users as a group without disclosing personally identifiable information. By submitting your personal information to, and/or using, the Website, you agree to allow BlackBook to transfer and/or sell such aggregate data to third parties.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Credit Card Information  
-BlackBook collects credit card information for purchases of products or services authorized by you. Although BlackBook does not retain identifiable credit card information at this time, BlackBook reserves the right to retain such information in the future.
+**Security**
 
-IP Addresses  
-We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is used to gather broad and specific demographic information as well as for validation purposes.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Cookies  
-We use cookies to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit our Website (if you choose), and for other purposes.
+**Updating Your Information**
 
-Sharing of Information:  
-We use the registration data that you supply to personalize your experience with the BlackBook service and for verification purposes. The personally identifiable information that you submit to BlackBook remains your property, but by submitting that information to BlackBook you grant BlackBook the right to use that information for marketing purposes. We do not currently do so, but we reserve the right to sell our user information and/or join together with other businesses to bring selected opportunities to our members. BlackBook is able to offer its services to you, in part, based on your willingness to be reached by our third-party advertisers. This information will not be sold or leased to advertisers on an aggregate basis, but BlackBook may contact you with specific offerings from our third-party advertisers. By allowing BlackBook to contact you for these third parties, you will receive free information on products and services that may be of interest to you. We also use contact information from your registration data to send you information about BlackBook and to keep you informed of our other products and services that may be of interest to you. Please keep in mind, though, that BlackBook does not control, and is not responsible for, the practices of our third-party advertisers. Your contact information is also used to reach you, when necessary, regarding issues concerning the use of our service. If you wish to stop receiving future communications from us, please see the Opt-Out/Unsubscribe section below.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-By submitting your e-mail address at the Website and/or obtaining services from us, you agree to receive e-mail marketing from BlackBook and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, BlackBook retains the right to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, or requesting information from, a third-party advertiser at or through the Website, such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via e-mail, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-BlackBook reserves the right to release current or past user information: a) in the event we believe that the Website and/or the BlackBook service is being or has been used in violation of the Terms of Service or to commit unlawful acts; b) if the information is subpoenaed; or c) if BlackBook is sold or acquired. Moreover, you hereby consent to disclosure of any record or communication to any third party when BlackBook, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time.
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-If BlackBook collects your credit card-specific information, we will use the information to process and complete any transaction that you request. Your credit card information will be encrypted and protected with SSL encryption software. In addition, by submitting your credit card information to us, you authorize BlackBook to periodically verify that your credit card account continues to be a valid and active one by charging, and thereafter immediately crediting, a small sum to the card. Such verification may be conducted through a third party and, in that case, BlackBook would share your specific credit card information with this third party for verification purposes. Apart from said uses, we will not share your credit card information with any third parties (other than consumer credit agencies) without your prior informed consent. Notwithstanding the foregoing, BlackBook reserves the right to share with third parties the fact that we have credit card information on file for specific users, but we will not share your specific credit card information with third parties without the your prior informed consent.
+      iii.      You may call us at: (480) 505-8800
 
-Other Websites:  
-This Website may contain links to other third-party owned and/or operated websites. BlackBook is not responsible for the privacy practices or the content of such websites. Additionally, marketing partners provide certain components of our service. Some of these marketing partners may require the transfer of some or all of the registration data you supplied to BlackBook. When necessary, BlackBook provides this information to our marketing partners. In some cases, you may be able to make a purchase through one of their third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and BlackBook has no responsibility or liability relating to them.
+       iv.      You may fax us at: (480) 505-8844
 
-Third-Party Offers:  
-BlackBook provides you with the opportunity to receive special offers products and/or services from other third-party companies. To receive such offers, products or services, your personally identifiable information supplied to us during the specific special offer registration process will be shared with such third-party companies, so that they may provide their product or service to you without requiring that you first fill another registration form.
+**Sending Emails**
 
-Security:  
-All collected information is stored in a technically and physically secure environment. Furthermore, access to this information is strictly limited, and not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all BlackBook user information.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Minors:  
-Visitors under 18 years of age are not permitted to use and/or submit their personal information at our Website. BlackBook does not knowingly solicit or collect information from visitors under 18 years of age. BlackBook encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Opt-Out/Unsubscribe:  
-To stop receiving future communications from BlackBook, please send an e-mail with your Name and e-mail address to webcomments AT BlackBookmag.com. To unsubscribe from our service, please send an e-mail with your Name and e-mail address to webcomments AT BlackBookmag.com.
+**Compliance with Laws and Law Enforcement**
 
-Changes in Privacy Policy:  
-BlackBook reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website that we are changing our Privacy Policy. If the manner in which we use personally identifiable information changes, BlackBook will notify its users by posting the changes on the Website. The user's continued use of the BlackBook service and/or continued receipt of BlackBook e-mails constitutes an affirmative acknowledgement and acceptance by the user of the modified Privacy Policy.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Correct/Update:  
-Personal information supplied to BlackBook during registration can be modified as follows:
+**Third Party Service Providers**
 
-  1. Log in to your BlackBook account.
-  2. Click on User Settings.
-  3. Modify any of the desired fields.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
+**Supplementation of Information**
 
-Contacting the Website:  
-Our "contact us" page contains e-mail links that allow you to contact us directly with any questions or comments that you may have. We read every message sent in and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments.  
-If you have any questions about this Privacy Policy or the practices of BlackBook, please feel free to contact us at [webcomments@BlackBookmag.com](mailto:webcomments@BlackBookmag.com).
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
