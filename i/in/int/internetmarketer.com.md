@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmarketer.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218133201id_/http%3A//www.autopilotinternetincome.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketer.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627181633id_/http%3A//www.autopilotinternetincome.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,8 +63,8 @@ If you are concerned about the topic covered by this policy, you should read it 
 You may also mail your concerns to us at the following address:
 
 Autopilot Internet Ltd  
-6 Mayo Street, #02-01  
-Singapore, Singapore 208306  
+122 Middle Road, #06-04  
+Midlink Plaza, Singapore 188973  
 Singapore 
 
 **CALIFORNIA PRIVACY RIGHTS**
