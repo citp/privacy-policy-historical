@@ -1,455 +1,514 @@
-<!--The following is the downloaded HTML source of the scoopler.com privacy policy that was archived on 2010-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100921210313id_/http%3A//www.scoopler.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scoopler.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627051024id_/http%3A//www.justspotted.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title> Scoopler.com  - Privacy Policy</title>
-	<meta content="Scoopler is a real-time search engine for discovering what people are talking about on the internet right now." name="description">
-	<meta content="Scoopler,real-time,realtime,news,current,scoop,history,hot,topics,videos,popular,search,social" name="keywords">
-	<link title="Scoopler Real-time Search" rel="search" type="application/opensearchdescription+xml" href="http://www.scoopler.com/site_media/opensearch.xml">
-	<meta name="google-site-verification" content="6-WG7uTtqo0MVfQ1ZbeynzAZ2WCBoQYRv2cY9dcNlSs">
-	
-	<link rel="stylesheet" type="text/css" href="/site_media/sc_pd.css">
-	
-	<link rel="icon" href="/site_media/favicon.ico" type="image/x-icon">
-	
-	<script type="text/javascript">
-	
-var noLive = true;
-
-	function formatDisp(st) {
-	return st.replace(/%22/g, '"').replace(/%23/g, '#').replace(/\+|%20/g, ' ').replace(/%26/g, '&');
-}
-function formatID(st) {
-	return st.replace(/\"/g, '%22').replace(/#/g, '%23').replace(/ |%20/g, '+').replace(/&/g, '%26');
-}
-
-function anchorParams(st, repl) {
-	// Looks for a param in anchor text with the key 'st'. If 'repl' is nont null, replaces 'st' with 'repl'.
-	var txt = window.location.hash.substring(1).replace(/^\s\s*/, '').replace(/\s\s*$/, '');
-	if (st == 'query') {
-		 	var re = new RegExp('^([^&]*)');
-	} else {
-		 	var re = new RegExp('&' + st + '=([^&]*)');
-	}
-	var val = txt.match(re);
-	// Revert the placeholder for '&' chars
-	if (val && (st == 'pk' || st == 'pt')) {
-			val[1] = val[1].replace(/!!/gi, '&');		
-	}
-	if (repl != null) {
-			if (st == 'query') {
-					window.location.hash = txt.replace(re, repl)
-		} else {
-					// Convert original '&' chars to a placehoder
-			if (repl && (st == 'pk' || st == 'pt')) {
-							repl = repl.replace(/&|%26/gi, '!!');		
-			}
-			// If there'll be no more anchor params left after this change, replace with a space
-			// instead of null, as null would cause page to jump to top.
-					if (txt) {var stub = "";}
-					else {var stub = " ";}
-					window.location.hash = txt.replace(re, '') + ((repl == '') ? stub : '&' + st + '=' + repl);
-		}
-	}
-	return (val ? val[1] : false);
-}
-
-function validate_url(url) {
-	url = unescape(url);
-	url = url.replace(/https/, 'http');
-	if (!url.match(/http:\/\//g)) {
-		url = 'http://' + url;
-	}
-	return url;
-}
-
-if (window.location.href.match(/script/)) {
-	window.location.href = window.location.href.replace(/script/g,'');
-}
-var initialRequest;
-// if ((!noLive) && anchorParams('query') && window.location.hash != "#") {
-// 	var qry = anchorParams('query');
-// 	if (qry != 'all') {
-// 		//Browser Support Code
-// 		try{
-// 			// Opera 8.0+, Firefox, Safari
-// 			initialRequest = new XMLHttpRequest();
-// 		} catch (e){
-// 			// Internet Explorer Browsers
-// 			try{
-// 				initialRequest = new ActiveXObject("Msxml2.XMLHTTP");
-// 			} catch (e) {
-// 				try{
-// 					initialRequest = new ActiveXObject("Microsoft.XMLHTTP");
-// 				} catch (e){
-// 					// Something went wrong
-// 					// alert("Your browser broke!");
-// 				}
-// 			}
-// 		}
-// 		initialRequest.open("GET", "/quick_update/?q=" + formatID(qry) + "&c=4", true);
-// 		initialRequest.send(null); 
-// 	}
-// }
-
-//Redirect iphone browsers if there's a direct load for peek link. However do not redirect
-// if the link is from hompe page, where's &nr=1
-
-if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.appVersion.indexOf("MSIE 7.") !=-1)) {
-	if (anchorParams('pk')) {
-		var peekURL = anchorParams('pk');
-		if (peekURL && (document.cookie.indexOf("iphone_redirect=false") == -1)) {
-				window.location = validate_url(peekURL);
-		}
-	}
-}
-
-// Proportionately resize an image preloaded with JS
-function resize(elem, horiz) {
-  // var elem = document.getElementById(which);
-	if (elem == undefined || elem == null) return false;
-	if (horiz) {
-		var hmax = 80;
-		var wmax = 80;
-	} else {
-	var hmax = 100;
-	var wmax = 130;
-	}
-	elem.style.display = "inline";
-	if (elem.width > elem.height) {
-		if (elem.width > wmax) {
-			var h = elem.height * (wmax/elem.width)
-			if (h > hmax) {
-				elem.height = hmax;
-			} else {
-				elem.width = wmax;
-				elem.style.marginTop = (hmax - h) + "px";
-			}
-		}
-  	} else {
-    	if (elem.height > hmax) elem.height = hmax;
-  	}
-}
-
-
-	</script>
-
-	<script src="http://www.google.com/jsapi"></script>
-	<script>
-	google.load("jquery", "1.3.2");
-	</script>
+    <!--<link href="http://justspotted.s3.amazonaws.com/2011611822/stylesheets/jquery-ui-1.8.5.custom.css" media="screen, projection" rel="stylesheet" type="text/css" />-->
+	<link href="http://justspotted.s3.amazonaws.com/2011611822/stylesheets/reset.css" media="screen" rel="stylesheet" type="text/css">
+  
+  
+  
+  
+    <link href="http://justspotted.s3.amazonaws.com/2011611822/stylesheets/redesign/base.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://justspotted.s3.amazonaws.com/2011611822/stylesheets/redesign/newnav.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://justspotted.s3.amazonaws.com/2011611822/stylesheets/redesign/static.css?4" media="screen" rel="stylesheet" type="text/css">
+  
+  
+  
+	<link rel="icon" href="http://justspotted.s3.amazonaws.com/2011611822/images/favicon.ico" type="image/x-icon">
+	<link rel="short icon" href="http://justspotted.s3.amazonaws.com/2011611822/images/favicon.ico" type="image/x-icon">
+	<meta property="og:site_name" content="JustSpotted">
+	<meta property="fb:admins" content="3317441,36800211">
+	<meta property="fb:app_id" content="126084904112946">
+	<meta name="msvalidate.01" content="07479AAADBB6E7D3500BC9BF65F8A9C0">
+	<meta content="See what any celebrity is up to right now.  The latest sightings, tweets, news and updates in one place." name="description">
+	<meta content="JustSpotted, celebrity, star, spotting, sighting, location, real-time, spot, update, tweet, news" name="keywords">
 	
 	
-	<!--[if IE]>
-		<style type="text/css">
-		#TB_window {
-			border: 7px solid #696969;
-			}
-		</style>
-	<![endif]-->
+	
+	<title>JustSpotted.com - Your favorite celebrities are right here </title>
+	
 </head>
 
-<body>
-	<noscript>
-<div class="warning">Scoopler doesn't work with Javascript disabled. Please enable Javascript.</div>
-</noscript>
-<div id="noie" class="warning" style="display:none;">Thanks for checking out Scoopler. Unfortunately to get the scoop you need a more modern browser than Internet Explorer 6. Please try using a newer browser such as <a href="http://www.mozilla.com/en-US/firefox/">Firefox</a> or <a href="http://www.google.com/chrome/">Google Chrome</a>.</div>
+<body class="not_logged_in" onload=" ">
+  <!--[if lt IE 7]>
+  <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
+    <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
+    <div style='width: 640px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>
+      <div style='width: 75px; float: left;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-warning.jpg' alt='Warning!'/></div>
+      <div style='width: 275px; float: left; font-family: Arial, sans-serif;'>
+        <div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>You are using an outdated browser</div>
+        <div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>For a better experience using this site, please upgrade to a modern web browser.</div>
+      </div>
+      <div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-firefox.jpg' style='border: none;' alt='Get Firefox 3.5'/></a></div>
+      <div style='width: 75px; float: left;'><a href='http://www.browserforthebetter.com/download.html' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-ie8.jpg' style='border: none;' alt='Get Internet Explorer 8'/></a></div>
+      <div style='width: 73px; float: left;'><a href='http://www.apple.com/safari/download/' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-safari.jpg' style='border: none;' alt='Get Safari 4'/></a></div>
+      <div style='float: left;'><a href='http://www.google.com/chrome' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-chrome.jpg' style='border: none;' alt='Get Google Chrome'/></a></div>
+    </div>
+  </div>
+  <![endif]-->
 
+    	
+		
 
-<script type="text/javascript">
-if (navigator.appVersion.indexOf("MSIE 6.")!=-1) {
-	$("#noie").show();
-}
-if (anchorParams('pk') && (navigator.appVersion.indexOf("MSIE 7.")==-1)) {
-	document.body.style.display='none';
-}
-</script>
+  <div id="nav_container">
+    <div id="nav">
+      <h1 id="logo"><a href="/">JustSpotted: Your favorite celebrities right here</a></h1>
+      <ul id="navigator">
+				<li class="navli" style="float: left; margin-left: 15px; margin-right: 10px;">
+					<a href="#" data-href="/add_spotting/" id="report_spotting" class="bluebutton" style="line-height: 15px; margin-top: 20px; color: #dfebfa"><span style="font-size: 20px;">+</span> Add Spotting</a>
+				</li>
+        <li class="first search_box navli">  
+          <div class="search_form">
+            <form id="search_form" action="/search" method="post">
+              <input type="image" src="http://justspotted.s3.amazonaws.com/2011611822/images/go_button.png" class="submit combo_search_btn search_btn">
+              <input type="text" name="term" placeholder="Search people, places..." class="round_input combo_search autoclear" autocomplete="off">
+              <input type="hidden" name="type" value="" class="combo_search_type">
+            </form>
+         </div>
+          <div class="combosearch_results clear round5" style="display:none">
+            <ul class="celebsearch"></ul>
+            <ul class="locsearch"></ul>
+          </div>
+        </li>
+
+        <li class="navli nav_account  logged_in account_menu_trigger">
+					<a href="#" onclick="return false;" class="account_menu_trigger account_uname bluebutton" style="line-height: 20px; display: none;">hi@dustincurtis.com&nbsp;<span class="downarrow">▼</span></a>
+          <a href="#" onclick="return false;">Account</a>
+          <div style="display:none" class="logged_in account_menu round10_bottom">
+  
+  <a href="/user/settings">Account settings</a>
+  <a href="/password_change">Change&nbsp;your&nbsp;password</a>
+  <a href="/logout/">Logout</a>
+</div>
+
+        </li>
+        <li class="last not_logged_in nav_login navli"><a href="/login/" class="login_link">Log In</a></li>
+        
+        <li class="nav_radar navli"><a href="/radar/" class="">Radar</a></li>
+		<li class="nav_spottings navli"><a href="/lists/top100/spottings/" class="">Spottings</a></li> 
+        <li class="nav_celebs navli"><a href="/lists/top100/celebrities/" class="">Celebrities</a></li>
+ 		<li class="navli"><a href="/" class="">Home</a></li>
+ 		
+      </ul>
+     	 
+    
+    </div><!-- nav -->
+    </div>
 
 	
-<!-- BLACK NAV -->
-<div id="nav">
-	<ul id="interior_nav">
-		<li class="logo"><h1><a href="/">Scoopler</a></h1></li>
-		<li class="options "><a href="/all/">Top Scoops</a></li>
-		<li class="options "><a href="/entertainment/">Entertainment</a></li>
-		<li class="options "><a href="/technology/">Technology</a></li>
-		<li class="options "><a href="/sports/">Sports</a></li>
-		<li class="options "><a href="/world_business/">World</a></li>
-		<li class="options "><a href="/science/">Science</a></li>
-		<li class="options "><a href="/gaming/">Gaming</a></li>
-		<li class="options "><a href="/politics/">Politics</a></li>
-		
-<li class="search_nav">
-	<form method="get" action="/search" onsubmit="newSearch();return false;"> 
-		<input tabindex="1" id="search-form" name="q" value="" class="searchbox_nav" type="text">
+
+
+
+
+
+
+
+
+
+ 
+	
+  <div id="center_container">
+    
+     
+    
+<div class="static_container">
+    <h1>SCOOPLER, INC.</h1>
+    <h2> Privacy Policy</h2>
+    <p>Effective Date: October 18, 2010.</p>
+    <p>Scoopler, Inc. (“Scoopler,” “we,” or “us”) knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Scoopler when you use the Scoopler Service, how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy.  This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources.  Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use [link].</p>
+    <h2>Information We Collect</h2>
+    <p><strong>User-Provided Information:</strong>  You provide us information about yourself, such as your name and e-mail address, if you register for a Member account with the Service (including by “following,” “becoming a fan,” adding the Scoopler application, or connecting your account through a third party website or network).  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.  We may also retain any messages you send through the Service.  You may provide us information in User Content you post to the Service and we may store a list of your favorite celebrities.</p>
+    <p><strong>Cookies Information:</strong> When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Scoopler help you log in faster and enhance your navigation through the site.  A cookie may also convey information about how you browse the Service to us.  A cookie does not collect personal information about you.  A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.</p>
+    <p><strong>Log File Information:  </strong>Log file information is automatically reported by your browser each time you access a web page.  When you use the Service, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.</p>
+    <p><strong>Clear Gifs Information:  </strong>When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Scoopler better for our users.</p>
+    <p><strong>Third Party Services:</strong> Scoopler uses [third party analytics service] to help understand use of the Service. [Third party analytics service] collects the information sent by your browser as part of a web page request, including cookies and your IP address. [Third party analytics service] also receives this information and their use of it is governed by their Privacy Policy.</p>
+
+    <h2>How We Use Your Information</h2>
+    <p>We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.  </p>
+    <p>By providing Scoopler your email address (including by “following,” “becoming a fan,” adding the Scoopler application, or connecting your account through a third party website or network), you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail.  You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings.  We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out or change your preferences in your [name settings page].  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  You may not opt out of Service-related e-mails. 	</p>
+    <p>If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation.  Scoopler stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at privacy@scoopler.com.</p>
+    <p>Scoopler may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.</p>
+    <p>By posting any User Content on the Service, you expressly grant, and you represent and warrant that you have a right to grant, to Scoopler a royalty-free, sublicensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such User Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service.</p>
+    <p>Scoopler reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party.  Scoopler also reserves the right to remove information upon the request of any third party.</p>
+    <p>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with</p>
+    <p>certain IP addresses; (f) help you efficiently access your information after you sign in; and (h) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act; and (i) automatically update the Scoopler application on your system and related devices.</p>
+
+    <h2>How We Share Your Information</h2>
+    <p><strong>Personally Identifiable Information:  </strong>Scoopler will not rent or sell your personally identifiable information to others.  Scoopler may share your personally identifiable information with third parties for the purpose of providing the Service to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Scoopler (for instance, on servers or databases co-located with hosting providers).  We may share your personally identifiable information with your favorite celebrities so that they or their agents can contact you directly with updates and information.</p>
+    <p>As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.</p>
+    <p>Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings.  To change your privacy settings on the Service, [insert how to change privacy settings].  If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.</p>
+    <p>From time to time, we may run contests, special offers, or other events or activities (“Events”) on the Service together with a third party partner.  If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.</p>
+    <p>Except as otherwise described in this Privacy Policy, Scoopler will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use [link], take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Scoopler, our Users or others.</p>
+    <p><strong>Non-Personally Identifiable Information:  </strong>We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Scoopler services.</p>
+    <p>Scoopler may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Scoopler. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.  Scoopler does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Scoopler to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.  In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [link to policy and opt-out for relevant advertiser, e.g. http://www.google.com/privacy_ads.html for Google or http://networkadvertising.org/managing/opt_out.asp for a number of advertisers including Google].  The Scoopler Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers.  Please consult the respective privacy policies of such advertisers for more information.</p>
+
+    <h2>How We Protect Your Information</h2>
+    <p>Scoopler cares about the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Scoopler or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  Your privacy settings may also be affected by changes to the functionality of Scoopler’s distributors, such as social networks.  Scoopler is not responsible for the functionality or security measures of any third party.</p>
+    <p>To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Scoopler, at all times.</p>
+
+  <h2>Compromise of Personal Information</h2>
+  <p>
+  In the event that personal information is compromised as a result of a breach of security, Scoopler will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+  </p>
+  <h2>Your Choices About Your Information</h2>
+  <p>
+  You may, of course, decline to submit personally identifiable information through the Service, in which case Scoopler may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account and [describe how to change].   You can review and correct the information about you that Scoopler keeps on file by contacting us directly at support@scoopler.com.  
+  </p>
+  <h2>Children's Privacy</h2>
+  <p>
+    Protecting the privacy of young children is especially important.  For that reason, Scoopler does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Scoopler. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@scoopler.com.  
+  </p>
+  <h2>Links to Other Web Sites</h2>
+  <p>
+    We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein.  Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+  </p>
+  <h2>Notification Procedures</h2>
+  <p>
+  It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by Scoopler in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.  
+  </p>
+  <h2>Changes to Our Privacy Policy </h2>
+  <p>If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page.   
+    If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@scoopler.com, or send mail to:</p>
+
+  <p>
+    Scoopler, Inc.<br>
+    2140 Taylor Street, Suite 1202<br>
+    San Francisco, CA 94133<br>
+  </p>
+
+</div>
+ 
+  </div><!-- container --> 
+
+
+  	
+     <div style="clear:both;">&nbsp;</div>
+  <div id="foot">
+    <div class="favorite_callout">
+      <h3>Find your favorite celebrity</h3>
+      <div class="form">
+        <form id="search_form" action="/search" method="post"><input type="image" src="http://justspotted.s3.amazonaws.com/2011611822/images/go_button.png" class="submit"><input type="text" name="term" value="Angelina Jolie, Justin Bieber..." class="celeb_search autoclear" autocomplete="off"></form>
+      </div>
+      <div class="clear"></div>
+    </div>
+		    
+    <ul id="bottom_navigation" class="clear">
+      <li class="copyright">Copyright © 2010 Scoopler, Inc. All Rights Reserved.</li>
+      <li class="links"><a href="#" onclick="return false;" class="contact_us">contact</a></li>
+      <li class="links"><a href="/privacy">privacy</a></li>
+      <li class="links"><a href="/tos">terms</a></li>
+      <li class="links"><a href="http://press.justspotted.com">press</a></li>
+      <li class="links"><a href="http://blog.justspotted.com">blog</a></li>
+      <li class="links"><a href="http://scoopler.theresumator.com/apply">careers</a></li>
+      <li class="links"><a href="/partners">partners</a></li>
+      <li class="links"><a href="http://spotlight.justspotted.com">spotlight</a></li>
+      <li class="links"><a href="/widgets">widgets</a></li>
+      <li class="links"><a href="/about">about</a></li>
+    </ul>
+  </div><!-- foot -->
+  <div style="clear:both;">&nbsp;</div>
+  <div>
+  	<a href="http://mixpanel.com/?from=partner"><img src="http://mixpanel.com/site%5Fmedia/images/mixpanel_partner_logo.gif" alt="Mobile Analytics by Mixpanel"></a>
+  </div>
+
+  
+  
+<!-- <a onclick='return false;' class="fdbk_tab_left" id="fdbk_tab" href="#">FEEDBACK</a> -->
+<div class="dialog_content" id="feedback_dialog" style="display:none;clear:both;">
+	<form class="dialog_form" id="feedback_form" method="post" action="/feedback">
+    <table>
+      <tbody><tr>
+        <td class="label"><label for="id_contact_text">Feedback</label></td>
+        <td><textarea rows="3" cols="25" style="width:300px;" name="contact_text" id="id_contact_text"></textarea></td>
+      </tr>
+      <tr>
+        <td class="label"><label for="id_user_email">Your&nbsp;email</label></td>
+        <td><input type="text" maxlength="75" style="width:300px;" name="user_email" id="id_user_email"></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td style="text-align:right">
+          <input type="hidden" name="contact_type" value="feedback">
+          <p class="dialog_error" style="display:none"></p>
+          <input type="image" src="http://justspotted.s3.amazonaws.com/2011611822/images/go_button.png" alt="Go">
+        </td>
+      </tr>
+    </tbody></table>
 	</form>
-</li>
+	<div id="feedback_success" class="success_msg" style="display:none;">
+		Your feedback has been submitted successfully! Thank you!
+	</div>
+</div>
+
+  <div class="dialog_content" id="contact_dialog" style="display:none;">
+	<form class="dialog_form" id="contact_form" method="post" action="/contact">
+    <table>
+      <tbody><tr>
+        <td class="label"><label for="id_contact_text">Message</label></td>
+        <td><textarea rows="3" cols="25" style="width:300px;" name="contact_text" id="id_contact_text"></textarea></td>
+      </tr>
+      <tr>
+        <td class="label"><label for="id_user_email">Your&nbsp;email</label></td>
+        <td><input type="text" maxlength="75" style="width:300px;" name="user_email" id="id_user_email"></td>
+      </tr>
+      <tr>
+        <td> </td>
+        <td style="text-align:right">
+          <input type="hidden" name="contact_type" value="contact">
+          <br>
+          <input type="image" src="http://justspotted.s3.amazonaws.com/2011611822/images/go_button.png" alt="Go">
+        </td>
+      </tr>
+    </tbody></table>
+	</form>
+	<div id="contact_success" class="success_msg" style="display:none;">
+		Thanks for your message.  We'll get in touch soon!
+	</div>
+</div>
 
 
+  
+  	<div id="modal-wrapper" style="margin-top: 10px; height: 230px;">
+	<div class="modalBackground">
+	</div>
+	<div id="signup_modal_container" style="left: 351px; right: 351px;">
+		<div class="modal" style="margin: 0 auto;">
+			<div class="master_container">
+				<div class="content_container" style="margin: 0 auto;">
+					<h1 class="content_title" style="width: auto;">
+						<img src="http://x.dustincurtis.com.s3.amazonaws.com/external/header_tack.png" style="margin-top: -40px; vertical-align: bottom;"> Well, it's the end of the page.  You may as well sign up.</h1>			
+							<ul class="option_listing">
+								<li class="text_input">
+										<a href="#" onclick="JS.fb_popup('http://www.justspotted.com/facebook_auth?next=/celebrity/keyshawn-johnson/');mpmetrics.track('footer_signup');" style="margin: 0 auto; display: block; text-align: center; padding-top: 15px;">
+											<img src="http://justspotted.s3.amazonaws.com/2011611822/images/fb-connect.png" width="250" height="44" id="fb_button">
+										</a>
+										<p style="font-size: 12px; line-height: 17px;margin-bottom: 25px;text-align: center; color: #7b7b7b">Don't worry, we won’t post anything to<br> your account without permission.</p>
+								</li>
+							</ul>
+					</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+  
+
+  <div class="dialog_content" id="login_dialog" style="display:none;clear:both;">
+	<p class="dialog_msg">Sign in and gain exclusive access to the latest celebrity sightings, news, and more.</p>
+  <p class="dialog_auth">	<br><br>
+	</p><p class="button_container">
+	<a href="#" onclick="JS.fb_popup('/celebrity/keyshawn-johnson/')" style="margin: 0 auto; display: block; text-align: center; padding-top: 15px;">
+		<img src="http://justspotted.s3.amazonaws.com/2011611822/images/fb-connect.png" width="250" height="44" id="fb_button">
+	</a>
+</p>
+<p style="font-size: 12px; line-height: 17px;margin-top: 0px; margin-bottom: 25px;text-align: center; color: #7b7b7b">Don't worry, we won’t post anything to<br> your account without permission.</p>
+	<p style="font-size: 12px; line-height: 17px;margin-bottom: 25px;text-align: center; color: #7b7b7b"><a href="/login/">I already registered by Twitter or Email</a></p>
+	<br><br>
+</div>
 
 <style type="text/css">
-
-#about a {
-	color:#336699;
-	font-weight:normal;
-	text-decoration:none;
-}
-.avatar {
-	border: none;float:left;
-	padding: 0px 16px 0 0;
-}
-#right_column {
-	padding-left:15px;
-}
-#right_column h3 {
-	padding-left:0px;
-}
-.scoop {
-	margin: 0px 18px 30px 24px;
-}
-.scoop a{
-	color:#2B5380;
-}
-#stories {
-	background: none;
-	margin-top: 0px;
-	padding-top: 20px;
-	text-align: center;
-}
-.scoop ul {
-	list-style-type: disc;
-	color:#424242;
-	font-size:100%;
-	line-height:1.4;
-	margin-bottom:6px;
-	margin-left:15px;
-}
+	input#id_username, 
+	input#id_password {
+		width: 200px;
+		color: #444c50;
+	}
+	
+	label.hard_title {
+		font-weight: bold;
+		font-size: 13px;
+		text-transform: uppercase;
+	}
 </style>
 
-
-	</ul>
-</div>
-<!-- END NAV -->
-
-<!-- blue area for search + scoopler homepage -->
-
-<div id="blue">
-	<h1>Privacy Policy</h1>
-</div>
+  
 
 
 
 
-
-<!--- TABLE BEGIN -->
-
-
-
-<table id="master_layout_table">
-	<tbody><tr>
-		<td style="width: 134px; height: 100%; border-right: 1px solid #BFCBDA; background-color: #EEEEEE;">
-			
-<div id="left_menu">
-	<ul>
-		<li class="menutitle">SCOOPLER</li>
-		<li class="active">Privacy Policy</li>
-		<li><a href="/tos/">Terms of Service</a></li>
-	</ul>
-</div>
-
-		</td>
-		
-		
-<td style="min-width: 560px; align:center">
-	<div class="lightbluebar">
-		<p>
-			&nbsp;
-		</p>
-	</div>
-
-		
-			
-<div id="stories" class="scoop" style="margin: 0 auto; padding: 30px 30px; text-align: left;">
-	<p>It is Scoopler's policy to respect your privacy regarding any information we may collect while operating our website.</p><br>
-
-	<p></p><h3>Website Visitors</h3><p></p><br>
-	<p>Like most website operators, Scoopler collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Scoopler's purpose in collecting non-personally identifying information is to better understand how Scoopler's visitors use its website. From time to time, Scoopler may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p><br>
-
-	<p>Scoopler also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Scoopler does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</p><br>
-
-	<p></p><h3>Gathering of Personally-Identifying Information</h3><p></p><br>
-	<p>Certain visitors to Scoopler's websites choose to interact with Scoopler in ways that require Scoopler to gather personally-identifying information. The amount and type of information that Scoopler gathers depends on the nature of the interaction. For example, we ask visitors who register and login at Scoopler to provide a valid email address. Those who engage in transactions with Scoopler - by registering, for example - are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Scoopler collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Scoopler. Scoopler does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p><br>
-
-	<p></p><h3>Aggregated Statistics</h3><p></p><br>
-	<p>Scoopler may collect statistics about the behavior of visitors to its websites. For instance, Scoopler may monitor the most popular parts of the Scoopler site, and log page views. Scoopler may display this information publicly or provide it to others. However, Scoopler does not disclose personally-identifying information other than as described below.</p><br>
-
-	<p></p><h3>Protection of Certain Personally-Identifying Information</h3><p></p><br>
-	<p>Scoopler discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Scoopler's behalf or to provide services available at Scoopler's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Scoopler's websites, you consent to the transfer of such information to them. Scoopler will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Scoopler discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Scoopler believes in good faith that disclosure is reasonably necessary to protect the property or rights of Scoopler, third parties or the public at large. If you are a registered user of a Scoopler website and have supplied your email address, Scoopler may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Scoopler and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Scoopler takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p><br>
-
-	<p></p><h3>Cookies</h3><p></p><br>
-	<p>A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Scoopler uses cookies to help Scoopler identify and track visitors, their usage of Scoopler website, and their website access preferences. Scoopler visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Scoopler's websites, with the drawback that certain features of Scoopler's websites may not function properly without the aid of cookies.</p><br>
-
-	<p></p><h3>Privacy Policy Changes</h3><p></p><br>
-	<p>Although most changes are likely to be minor, Scoopler may change its Privacy Policy from time to time, and in Scoopler's sole discretion. Scoopler encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p><br>
-</div>
-
-
-			
-		
-
-		
-		</td><td style="width: 250px; border-left: 1px solid #BFCBDA; background-color: #EEEEEE;">
-			
-	<div id="right_column">
-		<h3>Latest Blog Posts <a href="http://blog.scoopler.com/rss.xml" style="text-decoration: none;"><img src="/site_media/rss.png" style="border: none;" alt="RSS"></a></h3> 		
-		<br> 
-		 
-		<h3>Find Us</h3> 
-		<br> 
-			<a href="http://twitter.com/scoopler">Follow us on Twitter</a> 
-		<br><br>
-			<a href="http://blog.scoopler.com">Our Blog</a>			 
-		<h3>Contact Us</h3> 
-		<br><br> 
-		Feedback: <a href="mailto:feedback@scoopler.com">feedback@scoopler.com</a> 
-		<br><br>
-		General Information: <a href="mailto:contact@scoopler.com">contact@scoopler.com</a> 
-		<br><br>
-		Press: <a href="mailto:contact@scoopler.com">press@scoopler.com</a> 
-		<br><br>
-		Or just <a href="http://twitter.com/home/?status=@scoopler Oh Hai!"> Tweet us! </a> 
-		</div>
-	 <!-- right column -->
-
-
-		</td>
-	</tr>
-</tbody></table> 
-
-<!-- table end -->
-
-<!-- start the end -->
-
-<div id="the-end">
-	<ul id="foot">
-		<li class="logo"><a href="/">Scoopler</a></li>
-		<li class="item"><a href="/about/">About</a></li>
-		<li class="item"><a href="/feedback/">Feedback</a></li>
-		<li class="item"><a href="http://blog.scoopler.com/">Blog</a></li>
-		<li class="item"><a href="/jobs/">Jobs</a></li>
-		<li class="item"><a href="/privacypolicy/">Privacy Policy</a></li>
-		<li class="item"><a href="/tos/">Terms of Service</a></li>
-		<li class="copyright">© 2010 Scoopler, Inc.</li>
-	</ul>
-	<!-- NASTY HACK!!! -->
-	<div style="clear:both;"></div>
-</div>
-
-<!-- end the end -->
-
-<script type="text/javascript">
-var progressVal;
-var progressTimer;
-function updateResProgress() {
-	if (progressVal == 0) {
-		progressVal = 10;
-		$('#loadingZone').show();
-		progressTimer = setTimeout(updateResProgress, 10);
-	}
-	else if (progressVal < 80) {
-		progressVal = progressVal + (100 - progressVal)/10;
-		progressTimer = setTimeout(updateResProgress, 100);
-	} else if (progressVal < 98) {
-		progressVal = progressVal + (100 - progressVal)/8;
-		progressTimer = setTimeout(updateResProgress, 200 * (progressVal/16));
-	}
-	$('#progressBar').width(progressVal + '%');
-	return false;
-}
-
-function stopResProgress() {
-	$('#progressBar').width('100%');
-	clearTimeout(progressTimer);
-	$('#loadingZone').remove();
-	return false;
-}
-
-function startResProgress(col) {
-	progressVal = 0;
-	var st = '<div id="loadingZone"><div id="loadingSms">Loading</div><br class="clear" /><div id="loadingBar"><div id="progressBar">&nbsp;</div></div></div>';
-	if (col) {
-		$('#popular-results').html(st);
+  <div class="fdbk_tab_left">
+    <a href="#" onclick="return false;" class="fdbk_tab">feedback</a>
+  </div>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="http://justspotted.s3.amazonaws.com/2011611822/javascript/jquery.tipsy.js"></script>
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+ 
+	<div id="fb-root"></div>
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
+	<script type="text/javascript">
+	if (typeof FB=='undefined') {
+		FB = false;
 	} else {
-		$('#popular-results').html(st);
-		$('#search-results').html('');
-	}
-	progressTimer = setTimeout(updateResProgress, 200);
-	return false;
-}
-function changeTagLine(q_id, q_disp, cat) {
-	var cats = {'Entertainment':'Entertainment','Sports':'Sports','World':'World & Business','Technology':'Technology','Science':'Science','Gaming':'Gaming','Politics':'Politics'};	
-	if (cat) {
-		if (cat === 'Top Scoops') {
-			var msg = '<strong>The top scoops across the web...</strong>';
-		} else {
-			var msg = '<strong>Right now in ' + cats[cat] + '...</strong>';				
+		 FB.init({
+				    appId  : '126084904112946',
+				    status : true, // check login status
+				    cookie : true, // enable cookies to allow the server to access the session
+				    xfbml  : true  // parse XFBML
+				  });
 		}
-		document.title = cats[cat] + " - Scoopler Search";
-	} else {
-		var msg = "<strong>Results for '" + q_disp + "' ...</strong>";
-		document.title = q_disp + " - Scoopler Search";
-	}
-	$(".lightbluebar p span").html(msg);
-	$("#suggest").remove();
-}
+</script>
+ <script type="text/javascript" src="http://justspotted.s3.amazonaws.com/2011611822/javascript/yboss-lib.js"></script>
 
-if (initialRequest) {
-	document.getElementById('search-results').innerHTML = '';
-	document.getElementById('popular-results').innerHTML = '';
-	startResProgress(0);
-	var qry = anchorParams('query');
-	changeTagLine(formatID(qry), formatDisp(qry));
-}
+  	
+  <!-- sharethis widget -->
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">
+    stLight.options({
+      tracking:'google', 
+      publisher:'a2686abc-24f3-48d3-968e-a4571b22a0e9',
+      onhover: false
+      });
+  </script>
+  <!-- end sharethis widget -->
 
-
-
-var preloads = null;
+  
+    <script type="text/javascript" src="http://justspotted.s3.amazonaws.com/2011611822/javascript/main.js"></script>
+  
 
 
-var updates = [];
 
-var maxID = 0;
+   <script type="text/javascript">
+   $(document).ready(function(){
+			 
+       $('h1#logo').click(function(){ window.location="/"; });   
+       $('input.autoclear, textarea.autoclear').autoclear();
+       // celeb search autocomplete
+       JS.autocomplete.celeb({
+         searchInput: "input.celeb_search"//,
+         //selectCallback: function(e,ui) { $(this).val(ui.item.value).closest("form").submit(); }
+       });
+       // combo location/celeb search autocomplete
+       JS.autocomplete.combo();
+       // js like buttons
+       JS.like.init();
+       // initialize feedback + contact us dialog boxes
+       new JS.dialogForm('#feedback_dialog', '.fdbk_tab', '.fdbk_close', {title:"Give us feedback"});
+       new JS.dialogForm('#contact_dialog', '.contact_us', '.contact_close', {title:"Contact us"});
+       // new JS.dialogForm('#login_dialog', '.login_link', '.login_close', {title:"Log in to JustSpotted"},false,function(){
+       	// if (mpmetrics) {mpmetrics.track("show_login_modal");}
+       // });
+       
+       JS.comments.init();
+       
+       
+       new JS.loginDialog.init(function(){
+       	if (mpmetrics) {mpmetrics.track("show_login_modal",{'page':document.location.pathname});}
+       });
+       // report-a-spot dialog
+       //JS.reportSpot.init();
+       // show/hide account menu in navbar
+       $('.account_menu_trigger').hover(
+         function(){ $('.account_menu').fadeIn(); },
+         function(){ $('.account_menu').fadeOut(); }
+       );
+       // make celeb cards clickable
+       $('.celeb_card').click(function(){
+         window.location.href = $(this).find('a.who').attr('href');
+       });
+       
+       //Report a spotting checks for logged in user first
+       $('#report_spotting').click(JS.report_spotting_handler)
+       // share buttons
+       //$('.share_button').live('mouseover mouseout', function(e){ 
+       //  if (e.type=='mouseover') { $(this).find('.share_menu').show(); }
+       //  else { $(this).find('.share_menu').hide(); }
+		  
 
-var uSearches = [];
+       
+       
+       
+       
+       
+   });
+  </script>
 
 
-var suggestions_data = null
+  <script type="text/javascript"> 
+    // MIXPANEL
+    var mp_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://'); 
+    document.write(unescape('%3Cscript src="' + mp_protocol + 'api.mixpanel.com/site%5Fmedia/js/api/mixpanel.js" type="text/javascript"%3E%3C/script%3E')); 
+    </script><script src="https://api.mixpanel.com/site_media/js/api/mixpanel.js" type="text/javascript"></script>
+    <script type="text/javascript"> 
+      try {  var mpmetrics = new MixpanelLib('2385798ac417700e6d76c2af10a3f708'); } 
+      catch(err) { 
+        null_fn = function () {}; 
+        var mpmetrics = {  track: null_fn,  track_funnel: null_fn,  register: null_fn,  register_once: null_fn, register_funnel: null_fn }; 
+      }
+      
+      
+ 	
+ 		  if (mpmetrics){mpmetrics.register({"logged_in": false}); };
+ 	
+ 	  
+      
+      
+  </script>
+  
 
+ 
+  <script type="text/javascript">
+		// GOOGLE ANALYTICS
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-18963063-1']);
+	  _gaq.push(['_setDomainName', '.justspotted.com']);
+	  _gaq.push(['_setAllowHash', false]);
+    
+      _gaq.push(['_trackPageview']);
+    
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	  
+</script>
+
+ <script type="text/javascript"> 
+		// CHARTBEAT
+		var _sf_async_config={uid:1862,domain:"justspotted.com"};
+		(function(){
+			function loadChartbeat() {
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src',
+					 (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+					 "static.chartbeat.com/js/chartbeat.js");
+				document.body.appendChild(e);
+			}
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != 'function') ?
+				 loadChartbeat : function() { oldonload(); loadChartbeat(); };
+		})();
+
+  </script>
+  <!-- crazyegg script -->
+   <!-- <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1770.js"> </script> -->
+
+
+<script type="text/javascript"> 
+	  var pv_dict =  {'page' : document.location.pathname}
+	  if ($.deparam.querystring()['mp_ref']){
+			pv_dict['distinct_id'] = $.deparam.querystring()['mp_ref'];
+			mpmetrics.track('viral_ref',pv_dict)
+  	  }
+   mpmetrics.track('page_view',pv_dict)
+      
+            //check if this is an advertising lead
+      ad_type = $.deparam.querystring()['ad_type'];
+	  if (ad_type) {
+		mpmetrics.track('ad_lead', {'page' : document.location.pathname, 'ad_type': ad_type, 'ad_name' : $.deparam.querystring()['ad_name']})
+	  } 
 </script>
 
 
+  
 
-<script type="text/javascript" src="/site_media/sc_pd.js"></script>
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-5178816-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+	<!-- end facebook lib --> 
 
 
 
-
-	
-
-
-
-
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
