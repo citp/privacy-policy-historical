@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226023154id_/http%3A//www.ashford.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627083556id_/http%3A//www.ashford.edu/privacy) for the most accurate reproduction.*
 
 # Ashford University – Privacy Policy
 
 ### Ashford University Privacy Policy
 
-At Ashford University, we take your personal privacy seriously. This document describes the categories of information we gather via the website and for what purpose, outlines how that information may be shared with others, and identifies the categories of persons with whom it may be shared. By registering with Ashford University or by using the Ashford University Site, you accept and agree to this Privacy Policy and the [Ashford University Terms and Conditions of Usage](https://web.archive.org/web/20101226023154id_/http://ashford.edu/privacy/terms.php).
+At Ashford University, we take your personal privacy seriously. This document describes the categories of information we gather via the website and for what purpose, outlines how that information may be shared with others, and identifies the categories of persons with whom it may be shared. By registering with Ashford University or by using the Ashford University Site, you accept and agree to this Privacy Policy and the [Ashford University Terms and Conditions of Usage](https://web.archive.org/web/20110627083556id_/http://ashford.edu/privacy/terms.php).
 
 This Privacy Policy applies to the Internet website of Ashford University at www.ashford.edu. This Privacy Policy also applies to other affiliated websites that are owned by Ashford University and made available to students in the matriculation process and after they have enrolled with Ashford University. All such sites will be collectively referred to in this Privacy Policy as the "Ashford University Site" or "Site". 
 
@@ -72,7 +72,7 @@ We reserve the right to add to, change, update or modify this Privacy Policy. An
 
 ### Conditions of use
 
-This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California, United States of America. By using our Site, you consent to the collection and use of information described above. Your visit and any dispute over privacy are subject to this Privacy Policy and our [Terms and Conditions of Usage](https://web.archive.org/web/20101226023154id_/http://ashford.edu/privacy/terms.php). If you have any concern about privacy related to the Ashford University Site, [please e-mail us](mailto:info@ashford.edu) a thorough description together with information to permit us to contact you, and we will try to resolve your concern. 
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California, United States of America. By using our Site, you consent to the collection and use of information described above. Your visit and any dispute over privacy are subject to this Privacy Policy and our [Terms and Conditions of Usage](https://web.archive.org/web/20110627083556id_/http://ashford.edu/privacy/terms.php). If you have any concern about privacy related to the Ashford University Site, [please e-mail us](mailto:info@ashford.edu) a thorough description together with information to permit us to contact you, and we will try to resolve your concern. 
 
 ### Links to other sites
 
@@ -88,4 +88,4 @@ During the education process, you may participate in online education sessions. 
 
 ### Effective Date: July 22, 2009 
 
-[Click here to view our Terms and Conditions of usage](https://web.archive.org/web/20101226023154id_/http://ashford.edu/privacy/terms.php)
+[Click here to view our Terms and Conditions of usage](https://web.archive.org/web/20110627083556id_/http://ashford.edu/privacy/terms.php)
