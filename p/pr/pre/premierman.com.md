@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the premierman.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122165543id_/http%3A//www.premierman.com/shop/policies%3Fdecoration%3Dtrue%26finalTarget%3Dpolicies_rights%26cm_re%3DPMA-_-S13-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierman.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/policies%3Fdecoration%3Dtrue%26finalTarget%3Dpolicies_rights%26cm_re%3DPMA-_-S13-_-privacy) for the most accurate reproduction.*
 
 # Premier Man | The big men's clothing catalogue with a large men's clothes range up to 5XL | Premier Man
 
-  |    
+|   |    
 ---|---  
 | Your Rights, Privacy and Data Protection  
   | 
@@ -44,12 +44,12 @@ You can opt out from having your data collected by Coremetrics by clicking here.
   | Important notice about knives  
   |  It is against the law to sell to people under 18 years of age, knives and certain other articles with a blade or point made or adapted for causing injury. These products cannot be purchased by any person under 18 years of age.   
   |    
-  | Price policy and Availability  
-  |  While we make every effort to ensure that all prices and descriptions on our website are accurate, errors may occur. If we discover such an error after you have submitted an order to us, we will contact you prior to accepting your order with the correct details and offer you the opportunity to either re-confirm or cancel your order. If we are unable to contact you we may treat the order as cancelled. The correct price will be confirmed to you in the Advice Note enclosed with the goods on delivery. If the correct price shown on your Advice Note is higher than the price displayed on the website at the time you placed your order, you may of course cancel the order and return the goods within our home approval policy.
+  | Price policy  
+  |  The goods and services featured on this website are only available to persons resident in the UK and J D Williams will not accept orders from outside the UK.
 
-The goods and services featured on this website are only available to persons resident in the UK and J D Williams will not accept orders from outside the UK.
+When you submit an order via our website you will immediately receive a confirmatory e-mail as an acknowledgment of your order. This e-mail does not constitute acceptance of the order by us. Acceptance of your order and the formation of the contract between you and us will take place when we despatch the goods to you.
 
-When you submit an order via our website you will immediately receive a confirmatory e-mail as an acknowledgment of your order. This e-mail does not constitute acceptance of the order by us. Acceptance of your order and the formation of the contract between you and us will take place when we despatch the goods to you.   
+We describe every item across our websites as accurately as we can, and we believe they represent excellent value for money. Prices are correct at the time of printing/publication. If our prices alter for any reason (upwards or downwards), we will notify you at or before the time you place your order. Subject to this it is our intention that prices remain valid for the life of this catalogue or online offer. All orders are subject to our acceptance. Acceptance of your order and the formation of the contract between you and us will take place when the goods are despatched to you. On the rare occasions that there is an error in the catalogue or online, we will do our best to inform you at the earliest opportunity when you order or before you receive the goods. Finally, all our products are subject to availability.   
   
   |    
   | Protecting your interests and our complaints procedure  
@@ -67,5 +67,5 @@ You can contact us at any time while your complaint is being investigated, by wr
   |    
   |  YOU MAY PRINT OUT AND KEEP A PERMANENT COPY OF THESE TERMS AND CONDITIONS FOR YOUR REFERENCE BY CLICKING HERE  
   
-[Our Delivery Service](https://web.archive.org/web/20101122165543id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_delivery&decoration=true) |  [Payment Options](https://web.archive.org/web/20101122165543id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_payment&decoration=true) |  [Returns](https://web.archive.org/web/20101122165543id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_returns&decoration=true)  |  [Peace of Mind Plan](https://web.archive.org/web/20101122165543id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_pomp&decoration=true) |  [Cover Plan Information](https://web.archive.org/shop/warranties/cover.action)   
-[Electrical & Electronic Equipment](https://web.archive.org/web/20101122165543id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_WEEE&decoration=true) |  [Your Rights, Privacy and Data Protection](https://web.archive.org/web/20101122165543id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_rights&decoration=true) |  [Your Credit Summary](https://web.archive.org/web/20101122165543id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_credit_summ&decoration=true)
+[Our Delivery Service](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_delivery&decoration=true) |  [Payment Options](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_payment&decoration=true) |  [Returns](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_returns&decoration=true)  |  [Personal Account Protection](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_pomp&decoration=true) |  [Cover Plan Information](https://web.archive.org/shop/warranties/cover.action)   
+[Electrical & Electronic Equipment](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_WEEE&decoration=true) |  [Your Rights, Privacy and Data Protection](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_rights&decoration=true) |  [Your Credit Summary](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_credit_summ&decoration=true)
