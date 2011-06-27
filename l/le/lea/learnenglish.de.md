@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnenglish.de privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211183836id_/http%3A//www.learnenglish.de/security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnenglish.de privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627181754id_/http%3A//www.learnenglish.de/security.htm) for the most accurate reproduction.*
 
 # Site Security Issues
 
@@ -17,31 +17,31 @@ When using certain parts of the network the following information may be collect
 * Demographic information such as the country you are accessing this website from  
 * Browser statistics (such as type, OS, screen resolution, javascript enabled etc)
 
-Controlling your personal information
+##### Controlling your personal information
 
 Learn English does not sell, distribute or lease any information to third parties.
 
-What I do with the information gathered?
+What we do with the email address, and other information you might write in the forums etc?
 
 Pretty much nothing.
 
 Sometimes we like to look at what country visitors come from, especially out of the way places. It's cool.  
 Sometimes we like to see what browsers are being used so that we can check the site for compatability.  
-We don't send out emails, because we hate Spam! The only communciation you may receive from us is if you've signed up for the forum, the newsletter or the magazine and that's pretty rare.
+We don't send out emails, because "WE HATE SPAM!" The only communciation you may receive from us is if you've signed up for the forum, the newsletter or the magazine and that's pretty rare.
 
-Security
+##### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place security procedures to safeguard and secure the information we collect online.
 
 We will never ask you for private information. We are not interested in your income or your bank balance.
 
-Cookies 
+##### Cookies 
 
 Cookies are delicious biscuits, made with butter and the best ones have chocolate in. They are also tiny pieces of text that web sites use to track sessions through the website, so they can find out what pages interest their visitors the most. But we don't know who you are, and we don't know where you live. You can disable or delete cookies using your browser settings (this might affect the functionality of some of the games or tests on this site though).
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (don't worry, this doesn't include your name, address, email, telephone number or shoe size) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.networkadvertising.org/ "NAI").
 
-Links to other websites
+##### Links to other websites
 
 The Network contains links to enable you to visit other relevant or interesting websites easily. We try to only provide links to safe content, but we don't run these websites, and so this policy doesn't cover them. Once you've followed those links you're pretty much on your own. So exercise caution and look at the privacy statement applicable to the website in question.
 
@@ -151,4 +151,4 @@ Members of the forum will be aware that there was a massive attack on the Englis
 
 The result has been many of the previous posts were deleted and some of the topics lost, I'm sorry if it was one of yours. I have thought some nasty thoughts about the person / people responsible and restored the service as best as possible. 
 
-The forum is now hosted by Yuku. Occasionally tnere is spam on the forum, usually with stupid offers, I remove all spam eventually and then ban these accounts. But my guidance is, don't click on external links unless they've been posted by someone you trust.
+The forum is now hosted by Yuku. Occasionally you will see spam on the forum, usually with stupid offers for shoes, forum members can report any posts like that to me and I remove all spam eventually and then ban these accounts. My guidance is, don't click on any external links unless they've been posted by someone you trust. Unfortunately people may build up some posts, and then started spamming. Silly really, they will be banned too.
