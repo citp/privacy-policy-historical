@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourvoyeurvideos.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202071239id_/http%3A//www.yourvoyeurvideos.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourvoyeurvideos.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627225712id_/http%3A//www.yourvoyeurvideos.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Welcome to Your voyeur videos - Daily Free Voyeur and Homemade videos
+# Voyeur Videos - Privacy Policy
 
 Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website, www.yourvoyeurvideos.com (the Site, we or us).
 
