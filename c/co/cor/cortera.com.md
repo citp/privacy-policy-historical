@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cortera.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220140952id_/http%3A//www.cortera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cortera.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627052731id_/http%3A//www.cortera.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Cortera
 
@@ -72,8 +72,12 @@ Cortera is committed to providing protection for personal data from Europe as re
 
 Cortera self-certifies its compliance with the [Safe Harbor](http://www.export.gov/safeharbor) framework. Cortera participates in the [Better Business Bureau’s EU Safe Harbor Dispute Resolution Program](http://us.bbb.org/WWWRoot/SitePage.aspx?site=113&id=67d4eed2-544e-40d9-8a33-65c404c53807), which will accept complaints that Cortera is not complying with its privacy notice from EU citizens who have first tried to resolve the complaint directly with Cortera. ****
 
+### **California Privacy Rights Disclosure**
+
+Under California Civil Code Section 1798.83, also known as Senate Bill 27, or Shine the Light you are entitled to request and receive, free of charge, a copy of Cortera’s California Information Sharing Disclosure Notice for the previous calendar year. You may print this page, or call (561) 226-9000, to request a copy or email us at [privacy@cortera.com](mailto:privacy@cortera.com). We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+
 ### **How to Contact Us**
 
 If you would like to contact us for any reason regarding our online information practices, please email us at [privacy@cortera.com](mailto:privacy@cortera.com).
 
-Last updated: June 24, 2010
+Last updated: March 28, 2011
