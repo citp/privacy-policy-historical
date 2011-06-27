@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226180211id_/http%3A//www.humanesociety.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627040607id_/http%3A//www.humanesociety.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : The Humane Society of the United States
 
@@ -31,7 +31,7 @@ From time to time, we may make such voluntary information, excluding credit card
 
 ### Other
 
-From time to time, The HSUS may link to other web sites not affiliated with The HSUS. The HSUS attempts to link only to those web sites which also respect a visitor's privacy and the goals of The HSUS. However, The HSUS cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that The HSUS currently links to, please inform The HSUS by contacting us at [humanesociety@hsus.org](mailto:humanesociety@hsus.org). For more information regarding linking to The HSUS's web sites, please read ["Linking to humanesociety.org"](http://www.hsus.org/ace/14417) on our web site. 
+From time to time, The HSUS may link to other web sites not affiliated with The HSUS. The HSUS attempts to link only to those web sites which also respect a visitor's privacy and the goals of The HSUS. However, The HSUS cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that The HSUS currently links to, please inform The HSUS by contacting us at [humanesociety@hsus.org](mailto:humanesociety@hsus.org). For more information regarding linking to The HSUS's web sites, please read ["Linking to humanesociety.org"](http://www.humanesociety.org/forms/contact_us/our_website_contact.html#reprint_articles) on our web site. 
 
 ### Security
 
