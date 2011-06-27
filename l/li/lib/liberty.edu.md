@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225092731id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628013234id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
 
-# University Offices - Privacy Policy - Liberty University
+# University Offices | Privacy Policy | Liberty University
 
 Liberty University is committed to protecting your privacy when you visit our websites. This privacy policy outlines how we collect information when you visit one of our sites, how we use that information, and how you can update it.
 
