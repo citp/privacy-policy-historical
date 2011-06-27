@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetmarketingsweetie.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220031950id_/http%3A//www.internetmarketingsweetie.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingsweetie.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627123412id_/http%3A//www.internetmarketingsweetie.com/policies) for the most accurate reproduction.*
 
-# Policies | Learn Internet Marketing the Ethical & Honest Way
+# Policies |
 
 **Privacy**
 
