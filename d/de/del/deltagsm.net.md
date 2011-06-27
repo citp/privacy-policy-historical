@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the deltagsm.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226163354id_/http%3A//www.deltagsm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltagsm.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627224944id_/http%3A//www.deltagsm.net/privacy) for the most accurate reproduction.*
 
-# Privacy | GSM Mobile Phone News
+# Privacy | DeltaGSM.net
 
 Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@deltagsm.net.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@deltagsm.net.
 
 At DeltaGSM.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by DeltaGSM.net and how it is used.
 
@@ -28,12 +28,3 @@ These third-party ad servers or ad networks use technology to the advertisements
 DeltaGSM.net has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. DeltaGSM.net privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-#### Incoming search terms for the article:
-
-  * [cookie dozer cheat](http://www.deltagsm.net/privacy/ "cookie dozer cheat")
-  * [cookies Dozer s60](http://www.deltagsm.net/privacy/ "cookies Dozer s60")
-  * [cookies dozer samsung](http://www.deltagsm.net/privacy/ "cookies dozer samsung")
-  * [iphone cookie dozer cheat](http://www.deltagsm.net/privacy/ "iphone cookie dozer cheat")
-
-
