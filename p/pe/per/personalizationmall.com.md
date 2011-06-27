@@ -1,30 +1,47 @@
-> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215002424id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627074148id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
 
 # Privacy Policy | PersonalizationMall.com
 
-PersonalizationMall.com has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy of our visitors. The following discloses our information gathering and dissemination practices for our website (www.personalizationmall.com) and our affiliated stores. 
+PersonalizationMall.com, Inc., its related companies and affiliates ("PMall"), has created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of our visitors and registered users/members. This Privacy Policy governs PMall's information gathering, use and dissemination practices through the website: www.personalizationmall.com ("Website"), as well as any affiliated websites. 
 
-**We do not release our customer’s personal information to third parties.  
-**Our site uses an order form for customers to request products and services. During order submission, we collect the customer’s personal information (address, phone number, email address, etc) and financial information (credit card numbers). Personal information from the order form is used by PersonalizationMall.com and its agents to send orders to our customers and to contact the customer if necessary. Financial information that is collected is used to bill the user for products and services for that purchase only. Credit card information is not required to place an order with PersonalizationMall.com. PersonalizationMall.com will never sell any customer information to third parties.
+PMall does not rent, sell, or otherwise provide your personally identifiable information for third-party marketing or solicitation purposes.
 
-Our website operates with an SSL certificate provided by Verisign, an industry leader in online security. The information exchanged during checkout is encrypted using this SSL protocol. To review details of our relationship with Verisign, click the Verisign logo found at the bottom of any PersonalizationMall.com page.
+## 1\. What information is collected?
 
-In order to place an order with PersonalizationMall.com, a visitor must register for an account. We maintain customer address information and order history on our secure servers.
+As detailed below, PMall collects certain information from visitors and registered users of the Website. 
 
-We use visitor IP addresses to help diagnose problems with our server, to administer our Web site, and to collect demographic information for internal purposes. 
+The Website uses personalization and order forms for customers to request products and services. During personalization/order submission and fulfillment, PMall collects the customer's personally identifiable and financial information, i.e. names, addresses, phone numbers, email addresses, credit card numbers, PayPal information, etc. ("PII"). Additional information may be collected if you choose to (1) join our email list; (2) register and create an account; (3) participate in the My Personal Rewards program; or (4) participate in the customer review posting program, including: name, date of birth, email address, city, state/province, country, password, password hints, photographs (persona), product review information and other information related to purchases from, and experiences with, PMall. 
 
-Our site uses cookies to keep track of visitor shopping carts and to store current session information. For more information about cookies, [click here](http://www.personalizationmall.com/StaticPage.aspx?pageid=25).
+Like most Internet retailers, PMall collects some computer information to enhance its product/service offerings and personally tailored marketing, such as computer configuration; Internet Protocol address; the URL of the website that sent you to PMall's Website; the URL of the website that you went to after leaving PMall's Website; and/or search terms that directed you to our Website. In addition, when you visit our website or one of our business partners' websites, a "cookie" may be placed on your computer that collects information to enhance and personalize PMall's offerings and promotions. Last, PMall may receive information about you from other sources and add it to its database.
 
-The "Join Our List" page collects email and name information of visitors interested in receiving emails about special discounts and/or new product announcements.  
+## 2\. How is the information shared?
 
+PMall is not in the business of selling PII and does not rent, sell, or otherwise provide your PII for third-party marketing or solicitation purposes. PMall may share PII with its business partners and affiliates as part of PMall's marketing, promotion, sale and fulfillment of its products and services, but PMall will not permit PII to be used for third-party marketing or solicitation purposes. Customer reviews may be published on the Website, viewable by both registered users and visitors and are subject to the Customer Review Posting Policy & Agreement. PMall also may collect, share, sell and use information in aggregate form, but such information will not include PII. Last, PMall may need to disclose PII to government or law enforcement authorities as required by law. Under such circumstances, we will disclose the information upon a good faith belief that is necessary to comply with the order, request, form of legal process, or otherwise defend or exercise PMall's rights. 
 
-**Contacting PersonalizationMall.com:**
+We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with our third-party advertising partner, Network Advertising Initiative, and its service provider, Dotomi, in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner and its service provider are contractually required by PMall to make the data we provide it anonymous. To learn more or to opt out, please visit the Network Advertising Initiative [by clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact: 
+## 3\. How does PersonalizationMall.com protect information collected?
+
+Our website operates with a Secure Sockets Layer (SSL) certificate provided by Verisign, an industry leader in online security. The information exchanged during checkout is encrypted using this SSL protocol. To review details of our relationship with Verisign, click the Verisign logo found at the bottom of any PersonalizationMall.com page.
+
+Your PMall account(s) is password protected. You are responsible for protecting the security of your login information, and PMall cannot protect or secure any information that you send to other users of the Website. Please note that links to third-party websites are not governed by this Privacy Policy, and their practices may differ from those stated in this Privacy Policy. PMall does not endorse, sponsor or represent these third-party websites. It is your sole responsibility to review and understand the privacy policies of these third-parties before submitting any personal information. 
+
+## 4\. How can I change my PII?
+
+All registered users can access their profile by visiting [My Account](https://web.archive.org/web/20110627074148id_/http%3A//www.personalizationmall.com/AfterLogin.aspx), and edit their profile at any time. 
+
+## 5\. How will we update this Privacy Policy?
+
+PMall reserves the right to update, modify or alter this Privacy Policy at any time without prior notice. If the Privacy Policy is changed, we will place a notice on the home page and alter the terms in this Privacy Policy indicating the Privacy Policy has changed. In addition, we may send a notice to the email address provided during the registration process. It is your responsibility to review the Privacy Policy regularly to be familiar with its terms.
+
+## Contacting PersonalizationMall.com:
+
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:
 
 PersonalizationMall.com  
 51 Shore Dr.  
 Burr Ridge, IL 60527  
 Phone: 630-910-6000  
 Fax: 630-910-6006  
-Email: [Service@PersonalizationMall.com](mailto:Service@PersonalizationMall.com)
+Email: [Service@PersonalizationMall.com](https://web.archive.org/web/20110627074148id_/http%3A//www.personalizationmall.com/ContactUs.aspx)  
+
