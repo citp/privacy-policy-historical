@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212194258id_/http%3A//womma.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627132202id_/http%3A//womma.org/privacy) for the most accurate reproduction.*
 
 # WOMMA's Privacy Policy
 
@@ -63,91 +63,55 @@ All WOMMA materials are copyrighted and permission to reprint them must be reque
 
 Permission to reprint is typically granted for educational and informational purposes only. The reprinted material must be attributed to WOMMA. Permission will not be granted to reprint all or portions of any WOMMA materials for resale or profit. Permission to reprint entire published documents will not be granted.
 
-Anyone wishing to reprint WOMMA materials should [download the permission request form here](https://web.archive.org/web/20101212194258id_/http://womma.org/privacy/permission-request-form.doc), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687. 
+Anyone wishing to reprint WOMMA materials should [download the permission request form here](https://web.archive.org/web/20110627132202id_/http://womma.org/privacy/permission-request-form.doc), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687. 
 
 |    
   | 
 
-[](http://womma.org/speakers/find)
+  
+General Policies
+
+WOMMA will not sell our membership information to anyone for any reason. 
+
+WOMMA will not provide names or contact information of participants for any webinars. We will provide speakers and sponsors with name, company and title of attendees only if they opt in. 
+
+WOMMA reserves the right to email nonmembers who have engaged WOMMA through any type of registration form for membership or event promotion purposes but allows these individuals to opt out of WOMMA promotional emails and WOMMA abides by all rules of unsubscribing. 
 
 |    
   
-|  |  |   
----|---|---  
-  |  | 
-
-[ ](http://www.blurb.com/bookstore/detail/1705210/?utm_source=badge&utm_medium=banner&utm_content=280x160)
-
-WOMMA Awards Book 
-
-By Edited by David Ra... 
-
-[ ](http://www.blurb.com/?utm_source=badge&utm_medium=banner&utm_content=280x160 "Photo book")
-
-Looking for in-depth background of the best WOM case studies of 2010? Word of Mouth Works is a great resource for any brand marketer. Order your copy today!  
-  
+|  [Downloads](http://womma.org/downloads)  
 ---  
-   
-|  |   
-|  |   
----|---|---  
-  |  |    
-  | 
-
-Before you leave, make sure you see these. 
-
-|    
-|  |   
-  |  | 
-
-[](http://womma.org/downloads)
-
-|  | 
+Before you leave, make sure you see these.   
+|  [](http://womma.org/downloads) | 
 
 Webinar Library   
 Download podcasts, presentation decks, and watch SlideShares of WOMMA Webinars and Brand Council Webinars.   
-[_Visit the Library_](http://womma.org/downloads)  
-  
----|---|---  
-|  |   
-  
-[](http://womma.org/wom101/wom101.pdf)
+[_Visit the Library_](http://womma.org/downloads)
 
-|  | 
+  
+  
+---|---  
+[](http://womma.org/wom101/wom101.pdf) | 
 
 WOM 101   
 Learn the art and science of creating effective marketing programs that get customers talking.  
-[_Download PDF_](http://womma.org/wom101/wom101.pdf)  
-  
-|  |   
-  
-[](http://womma.org/membercenter/ethicstoolkit.php)
+[_Download PDF_](http://womma.org/wom101/wom101.pdf)
 
-|  | 
+  
+  
+[](http://womma.org/membercenter/ethicstoolkit.php) | 
 
 Ethics Toolkit  
 The WOMMA Ethics Toolkit defines best practices, baseline rules, and asks 20 questions to help you ethically comply.   
-[_Download PDF_](http://womma.org/membercenter/ethicstoolkit.php)  
+[_Download PDF_](http://womma.org/membercenter/ethicstoolkit.php)
+
   
-   
-|  |   
-|  |   
----|---|---  
-  |  |    
-  | 
-
-Learn from the brands and agencies that successfully developed and measured WOM campaigns. Stand on the shoulders of these giants, use their lessons learned, and grow your WOM knowledge. 
-
-|    
-|  |   
-  |  | 
-
-Random House - Random Buzzers Teen Community  
-In 2007, Affinitive worked with Random House on a “pilot” program to help promote a teen-oriented book for an unknown, first-time author. Based on the success of the program and demonstrated passion of teen readers, the program was expanded and “Random Buzzers” was launched.... [_more.._](http://www.womma.org/casestudy/examples/create-an-evangelism-program/random-house-random/)  
   
+[Case Studies](http://womma.org/casestudy/list.php)  
 ---  
-  
+Learn from the brands and agencies that successfully developed and measured WOM campaigns. Stand on the shoulders of these giants, use their lessons learned, and grow your WOM knowledge.   
+|  Building A Loyal Community for the Travel Channel  
+The Travel Channel boasts a diverse range of viewers, from armchair dreamers, living vicariously through the shows, to veteran travelers ready to plot their next trip. Travel Channel's challenge is to deliver content and consumer touch points that appeal to a diverse range of impassioned audiences. There were two over-arching objectives of the social media initiative: 1) Identify and establish... [_more.._](http://www.womma.org/casestudy/examples/create-a-fan-club-loyalist-community/building-a-loyal-community-for/)  
+---  
 ABC Studios Advisory Panel: It’s Emmy Time!  
-ABC Studios had been working with Passenger’s customer collaboration platform and client services team to build and grow a private online community around fans of existing and new shows. The goal was to give producers and executives an opportunity to directly connect with viewers, engaging them in ongoing dialogue and incorporating that voice into the development of their shows... [_more.._](http://www.womma.org/casestudy/examples/work-with-online-communities/passengerenabled-community-hel/)  
-  
- 
+ABC Studios had been working with Passenger’s customer collaboration platform and client services team to build and grow a private online community around fans of existing and new shows. The goal was to give producers and executives an opportunity to directly connect with viewers, engaging them in ongoing dialogue and incorporating that voice into the development of their shows... [_more.._](http://www.womma.org/casestudy/examples/work-with-online-communities/passengerenabled-community-hel/)
