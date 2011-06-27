@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231135231id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627200616id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,9 +6,11 @@
 
 
   
+[](http://www.lyricfinder.org/ "find lyrics by words")   
+  
 
 
-[Online College and University Degree Guide](https://web.archive.org/web/20101231135231id_/http%3A//www.historylearningsite.co.uk/online-college-degree.htm)
+[Online College and University Degree Guide](https://web.archive.org/web/20110627200616id_/http%3A//www.historylearningsite.co.uk/online-college-degree.htm)
 
   
 | 
@@ -54,11 +56,7 @@ We partner with ValueClick Media to serve ads and/or collect certain information
   
 
 
-| [](http://www.twitter.com/historylearning)
-
+|   
+[](http://www.twitter.com/historylearning)  
   
-
-
-  
-  
-© 2000-2010 historylearningsite.co.uk
+© 2000-2011 historylearningsite.co.uk
