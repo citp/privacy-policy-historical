@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the onlywire.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207050936id_/http%3A//onlywire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlywire.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627231707id_/http%3A//onlywire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlyWire
 
 OnlyWire, LLC ("OnlyWire") values your privacy. OnlyWire has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for [http://onlywire.com](http://onlywire.com/) and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. If you have questions or concerns regarding this Privacy Policy, you may contact us at [support@onlywire.com](mailto:support@onlywire.com). 
 
 **Information We Collect**   
-OnlyWire collects limited personal information from customers who register with our services. When customers register with our services, we require a username, password, and email address. We use the customer registration information to authenticate users and provide access to [http://onlywire.com](http://onlywire.com/). We also use the email addresses used in the registration information to communicate with our users. From time to time, OnlyWire may contact you via email to notify you of changes to its services, maintenance notifications, information about OnlyWire and promotional materials from OnlyWire. 
+OnlyWire collects limited personal information from customers who register with our services. When customers register with our services, we require a username, password, and email address. We use the customer registration information to authenticate users and provide access to [http://onlywire.com](http://onlywire.com/). We also use the email addresses used in the registration information to communicate with our users. From time to time, OnlyWire may contact you via email to notify you of changes to its services, maintenance notifications, information about OnlyWire and promotional materials from OnlyWire. OnlyWire will be permitted to display an active customer's corporate logo on its website for the purpose of promoting both the customer and OnlyWire. 
 
 OnlyWire collects and logs aggregate user statistics and website traffic within OnlyWire. Such information includes website traffic statistics, date and time of visits, browser type used to access the service, frequency of visits and to which pages, etc. We use this information to improve the services delivered to our customers, to track and diagnose performance problems and administer the website. 
 
@@ -16,6 +16,8 @@ You may deactivate your OnlyWire account and delete your personally identifiable
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA) OnlyWire does not intentionally collect personally identifiable information from nor solicit children under the age of thirteen (13) years of age. 
 
 Other than as disclosed in this Privacy Policy, at no time will OnlyWire share, rent or sell your identifiable personal information to any third parties without your express consent. 
+
+OnlyWire will be permitted to display an active customer's corporate logo on its website for the purpose of promoting both the customer and OnlyWire. 
 
 **Cookies**   
 OnlyWire uses cookies to store and track information about your usage of our services. Cookies are encrypted and unidentifiable bits of information sent to your browser from a web server that is stored on your computer's hard drive. Cookies are set each time you register, or log in or log out of OnlyWire. Cookies may be used to store your username and password so that you don't have to re-enter it each time you visit [http://onlywire.com](http://onlywire.com/). We may also use cookies to gather aggregated information about user habits on our website and services. For example, we may use cookies to estimate the number of concurrent users, estimate the total number of users, measure traffic statistics and to better understand how our users are using our services. We may share this data, in its aggregate form, with advertisers, affiliates and partners who may advertise on our website and services. 
