@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalvillage.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227082823id_/http%3A//www.frugalvillage.com/forums/showthread.php%3Ft%3D97341) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalvillage.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627204018id_/http%3A//www.frugalvillage.com/forums/showthread.php%3Ft%3D97341) for the most accurate reproduction.*
 
 # Privacy policy - Frugal Village Forums
 
@@ -14,5 +14,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server. Google, as a third party vendor, uses cookies to serve ads on Frugal village. Google's use of the DART cookie enables it to serve ads to users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-**Off-Site Links:**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+ **Off-Site Links:**  
 Once you access another Web site through a off-site link, whether to an advertiser or to an informational site, you are no longer on Frugal Village, LLC, and are then subject to the privacy policy of the specific Web site containing that material.
