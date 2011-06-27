@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227042440id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627183843id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Qualys, Inc.
 
