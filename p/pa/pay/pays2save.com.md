@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pays2save.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226131006id_/http%3A//pays2save.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pays2save.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627232435id_/http%3A//pays2save.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Pays2Save
 
 **Personal Information Collection**
 
@@ -22,5 +22,4 @@ published: June 1, 2010.
 
 [](http://pays2save.com/)
 
-  
-
+[](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpays2save.com%2Fabout%2Fprivacy-policy%2F "Facebook") [](http://twitter.com/share?url=http%3A%2F%2Fpays2save.com%2Fabout%2Fprivacy-policy%2F&text=Privacy+Policy "Twitter")
