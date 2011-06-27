@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the livinglocurto.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225023357id_/http%3A//www.livinglocurto.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livinglocurto.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627035108id_/http%3A//www.livinglocurto.com/advertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Living Locurto - FREE Printables, recipes, party ideas and crafts.
 
 #### **What information do we collect?**
 
-We collect information from you when you place an order or subscribe to our web site.
+We collect information from you when you place an order or [subscribe](http://www.livinglocurto.com/about-me/subscribe/ "subscribe") to our web site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address.
 
-Google, as a third [party](http://www.livinglocurto.com/party-ideas/ "party") vendor, uses cookies to serve ads on your site.  
+Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
