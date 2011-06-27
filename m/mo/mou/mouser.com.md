@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223030429id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627025745id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
 
 # Mouser Electronics - Electronic Component Distributor
 
@@ -29,7 +29,7 @@ We will disclose your information, without notice, only as follows:
   2. To protect and defend the rights or property of Mouser and its websites.
   3. To act in urgent circumstances to protect Mouser's websites, its employees or the public.
   4. When you have an open account with Mouser, credit and payment history is occasionally shared with credit reporting agencies.
-  5. When required to disclose "point of sale" information to a supplier for market research and payment of commission to the supplier's sales force.
+  5. When required to disclose "point of sale" (POS) information to a supplier for market research and payment of commission to the supplier's sales force. POS information may be used by Mouser, TTI, and select manufacturer representatives to follow up on new design activity.
 
 
 
@@ -44,4 +44,4 @@ We reserve the right to make changes to this privacy policy without notice.
 
 If you have any questions or comments concerning our privacy statement contact us at [webmaster@mouser.com](mailto:webmaster@mouser.com?subject=Privacy%20Policy).
 
-**Revised January 12, 2010**
+**Revised January 10, 2011**
