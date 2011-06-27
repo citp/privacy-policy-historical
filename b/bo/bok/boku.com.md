@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boku.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226023539id_/http%3A//www.boku.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boku.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627200954id_/http%3A//www.boku.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ PRIVACY POLICY
 
 
   
-(12/15/2010)  
+(03/07/2011)  
 
 
 |   
@@ -22,11 +22,11 @@ PRIVACY POLICY
 ---|---  
   
   
-Boku, Inc. (for itself, and on behalf of its subsidiaries and affiliated entities, "Boku") is committed to respecting and protecting your privacy. We value your trust and want you to understand how we protect, collect, use and disclose the personal information you share with us.  
+Boku, Inc. (for itself, and on behalf of its subsidiaries and affiliated entities, “Boku”) is committed to respecting and protecting your privacy. We value your trust and want you to understand how we protect, collect, use and disclose the personal information you share with us.  
 
 
   
-This privacy statement applies to personal information we obtain anytime you interact with Boku such as when you visit our website (boku.com), use the Boku mobile payment service ("Boku Service") with a participating Merchant ("Merchant") or contact Boku support. We want to ensure you are aware of our practices for collecting and processing personal information, which is information about a person that can be used to identify that person. This privacy statement does not apply to Merchants accessing and using the Merchant portions of our website. The collection, use and disclosure of Merchant data and information is governed by the legal agreement between Boku and Merchant.  
+This privacy statement applies to personal information we obtain anytime you interact with Boku such as when you visit our website (boku.com), use the Boku mobile payment service (“Boku Service”) with a participating Merchant (“Merchant”) or contact Boku support. We want to ensure you are aware of our practices for collecting and processing personal information, which is information about a person that can be used to identify that person. This privacy statement does not apply to Merchants accessing and using the Merchant portions of our website. The collection, use and disclosure of Merchant data and information is governed by the legal agreement between Boku and Merchant.  
 
 
   
@@ -42,7 +42,7 @@ We collect personal information to process transactions when using the Boku Serv
 
 
   
-We use personal information in a number of ways such as to complete your transaction, administer any problems that may arise in effecting the transaction, to better understand and manage our ongoing relationship with you, to assure good service, to prevent fraud and abuse, for purposes of verification and risk management and otherwise with consent or as permitted or required by law. Boku may store personal information on databases for the purposes of the administration of our business, including our ongoing relationship with you, for market research and, only with your consent, for direct marketing purposes. As permitted by applicable law, we may merge personal information with public information or other information received from reputable vendors to update contact information or to enhance demographic profiles.  
+We use personal information in a number of ways such as to complete your transaction, administer any problems that may arise in effecting the transaction, to better understand and manage our ongoing relationship with you, to assure good service, to prevent fraud and abuse, for purposes of verification and risk management and otherwise with consent or as permitted or required by law. Boku may store personal information on databases for the purposes of the administration of our business, including our ongoing relationship with you, for market research and, only with your consent, for direct marketing purposes. As permitted by applicable law, we may merge personal information with public information or other information received from reputable vendors to update contact information or to enhance demographic profiles. We will retain your information for a minimum of 5 years or as necessary to comply with our legal obligations or resolve disputes. If you wish to request that we remove your information from our systems and no longer provide you with services you may [contact us](http://www.boku.com/about/contact "http://www.boku.com/about/contact").  
 
 
   
@@ -50,7 +50,7 @@ We use personal information in a number of ways such as to complete your transac
 
 
   
-Boku will not sell, rent, or lease your personal information. We may share all of the information, as described above, with Merchants, our affiliates and our agents in connection with goods and services these parties perform for, or with, Boku for the uses described in "How we use it" and for other purposes as permitted or required by law. In particular, use of your personal information for marketing purposes by Boku and/or our agents will always be made with your consent and in compliance with the applicable law regarding customer consent. Disclosures permitted or required by law may include cooperation with criminal or government investigations, fraud prevention and detection, and responses to a court order or subpoena. Boku agents are bound by appropriate data safeguarding obligations. Our Merchants, agents and affiliates may be located outside the European Economic Area.  
+Boku will not sell, rent, or lease your personal information. We may share all of the information, as described above, with Merchants, our affiliates and our agents in connection with goods and services these parties perform for, or with, Boku for the uses described in “How we use it” and for other purposes as permitted or required by law. In particular, use of your personal information for marketing purposes by Boku and/or our agents will always be made with your consent and in compliance with the applicable law regarding customer consent. Disclosures permitted or required by law may include cooperation with criminal or government investigations, fraud prevention and detection, and responses to a court order or subpoena. Boku agents are bound by appropriate data safeguarding obligations. Our Merchants, agents and affiliates may be located outside the European Economic Area.  
 
 
   
@@ -62,7 +62,7 @@ Boku may disclose some or all of the personal information to Merchants and servi
 
 
   
-Boku will not use or share your personal information in ways incompatible with the ones described above without providing you a choice. You must [opt-out](http://www.boku.com/about/contact "http://www.boku.com/about/contact") of any sharing of personal information you have authorized or consented to as described above. However, to the extent that applicable law requires express consent or "opt-in" for the collection and use of personal information, Boku will maintain processes and procedures to ensure such information is collected with express consent. Your mobile number will not be used to directly market Boku services unless that possible use has been disclosed and a choice provided.  
+Boku will not use or share your personal information in ways incompatible with the ones described above without providing you a choice. You must [opt-out](http://www.boku.com/about/contact "http://www.boku.com/about/contact") of any sharing of personal information you have authorized or consented to as described above. However, to the extent that applicable law requires express consent or “opt-in” for the collection and use of personal information, Boku will maintain processes and procedures to ensure such information is collected with express consent. Your mobile number will not be used to directly market Boku services unless that possible use has been disclosed and a choice provided.  
 
 
   
@@ -70,7 +70,7 @@ Boku will not use or share your personal information in ways incompatible with t
 
 
   
-Boku is committed to ensuring that the information we obtain and use about you is accurate for its intended purpose. You can [contact us](http://www.boku.com/about/contact "http://www.boku.com/about/contact") at any time to review, update, delete or correct (for future use) your personally identifiable information maintained by Boku. We will reply to your request within thirty (30) days of submission. You can help us maintain accurate records by [informing us](http://www.boku.com/about/contact "http://www.boku.com/about/contact") of changes or modifications to your personal information.  
+Boku is committed to ensuring that the information we obtain and use about you is accurate for its intended purpose. You can [contact us](http://www.boku.com/about/contact "http://www.boku.com/about/contact") at any time to review, update, delete or correct (for future use) your personally identifiable information maintained by Boku. We will reply to your request within thirty (30) days of submission. You can help us maintain accurate records by [informing us](http://www.boku.com/about/contact "http://www.boku.com/about/contact") of changes or modifications to your personal information.   
 
 
   
@@ -82,7 +82,7 @@ Boku utilizes physical, electronic and procedural security measures to protect a
 
 
   
-Access to personal information is restricted to Merchants, employees and service providers who need to have access to that information as described in this privacy statement. Boku requires its service providers to observe standards with respect to the security, collection, use and sharing of personal information, and to comply with applicable law. We make reasonable efforts to ensure security on our systems. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. When you enter sensitive information such as your mobile number, we encrypt that information using secure socket layer technology (SSL).  
+Access to personal information is restricted to Merchants, employees and service providers who need to have access to that information as described in this privacy statement. Boku requires its service providers to observe standards with respect to the security, collection, use and sharing of personal information, and to comply with applicable law. We make reasonable efforts to ensure security on our systems. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. When you enter sensitive information such as your mobile number, we encrypt that information using secure socket layer technology (SSL).   
 
 
   
@@ -94,7 +94,7 @@ If Boku learns of a security systems breach we may attempt to notify you electro
 
 
   
-Boku is dedicated to protecting your personal information. We will never initiate a request for personal information from you by fax or email. Please do not send confidential personal information such as social security numbers, government identification numbers, or account numbers to Boku via an unsecured email message. You may send confidential information to Boku via posted mail, phone or or [contact us](http://www.boku.com/about/contact "http://www.boku.com/about/contact"). Do not be misled by emails that appear to be from us and ask for personal information. If you receive a suspicious email requesting your personal information, please forward the email immediately to fraud@boku.com. To report fraud to the Internet Fraud Complaint Center, visit www.ic3.gov. This is a partnership between The FBI and the National White Collar Crime Center.  
+Boku is dedicated to protecting your personal information. We will never initiate a request for personal information from you by fax or email. Please do not send confidential personal information such as social security numbers, government identification numbers, or account numbers to Boku via an unsecured email message. You may send confidential information to Boku via posted mail, phone or [contact us](http://www.boku.com/about/contact "http://www.boku.com/about/contact"). Do not be misled by emails that appear to be from us and ask for personal information. If you receive a suspicious email requesting your personal information, please forward the email immediately to fraud@boku.com. To report fraud to the Internet Fraud Complaint Center, visit www.ic3.gov. This is a partnership between The FBI and the National White Collar Crime Center.  
 
 
   
@@ -110,7 +110,7 @@ When you browse our websites or request pages, we automatically collect certain 
 
 
   
-Some of our web pages may contain "cookies", or data that is sent to your web browser and stored on your computer. The purpose of these "cookies" is to allow our server to recognize you as a Boku customer if you return to the website using the same computer and browser. In the event you do not wish to receive such cookies, you usually may configure your web browser to not accept cookies or to notify you if a cookie is sent to you. You are free to decline cookies if your web browser permits, but you may not be able to use all the features and the functionality of our websites. Boku does not link the information we store in cookies to any personally identifiable information you submit while on our website.  
+Some of our web pages may contain "cookies”, or data that is sent to your web browser and stored on your computer. The purpose of these "cookies" is to allow our server to recognize you as a Boku customer if you return to the website using the same computer and browser. In the event you do not wish to receive such cookies, you usually may configure your web browser to not accept cookies or to notify you if a cookie is sent to you. You are free to decline cookies if your web browser permits, but you may not be able to use all the features and the functionality of our websites. Boku does not link the information we store in cookies to any personally identifiable information you submit while on our website.  
 
 
   
@@ -118,7 +118,7 @@ Some of our web pages may contain "cookies", or data that is sent to your web br
 
 
   
-Boku is not responsible for the content or information practices employed by other websites that are linked to or from our website or which use the Boku Service. In most cases where links are provided, they are provided as pointers to information on services that may be useful to users. These sites and the Merchant sites providing mobile payment services using the Boku Service are governed by their own privacy statements. You are encouraged to review the privacy statement of these other websites before providing them with personal information.  
+Boku is not responsible for the content or information practices employed by other websites that are linked to or from our website or which use the Boku Service. In most cases where links are provided, they are provided as pointers to information on services that may be useful to users. These sites and the Merchant sites providing mobile payment services using the Boku Service are governed by their own privacy statements. You are encouraged to review the privacy statement of these other websites before providing them with personal information.   
 
 
   
@@ -126,7 +126,7 @@ Boku is not responsible for the content or information practices employed by oth
 
 
   
-The use of cookies by our partners, Merchants and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, Merchants and service providers may use session ID cookies to make it easier for you to navigate our site.  
+The use of cookies by our partners, Merchants and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, Merchants and service providers may use session ID cookies to make it easier for you to navigate our site.   
 
 
   
@@ -154,7 +154,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 
   
-Boku is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. This privacy statement covers the website (boku.com). If you have questions or concerns regarding this statement, you should first contact us at privacy@boku.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
+Boku has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](http://www.boku.com/about/contact "http://www.boku.com/about/contact"). If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint "http://watchdog.truste.com/pvr.php?page=complaint").  
 
 
   
@@ -162,17 +162,14 @@ Boku is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independe
 
 
   
-Should you have further questions regarding our privacy statement or about how your personal information is used, you can [contact us](http://www.boku.com/about/contact "http://www.boku.com/about/contact").  
+Should you have further questions regarding our privacy statement or about how your personal information is used, you can contact us.  
 
 
   
-Boku, Inc.  
-MWB Business Exchange  
-8 Duncannon Street  
-Golden Cross House  
-London  
-WC2N 4JF  
-UK  
+BOKU, Inc.  
+201 Mission Street, 10th Floor  
+San Francisco, California 94105  
+USA  
 
 
 [](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.boku.com&sealid=101)
