@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wofs.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706073824id_/http%3A//www.wofs.com/index.php%3Foption%3Dcom_custompages%26Itemid%3D146) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wofs.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627212457id_/http%3A//www.wofs.com/index.php%3Foption%3Dcom_jumi%26fileid%3D29) for the most accurate reproduction.*
 
-# WOFS.com
+# Privacy
 
 This privacy policy sets out how WOFS.com uses and protects any information that you give WOFS.com when you use this website.
 
