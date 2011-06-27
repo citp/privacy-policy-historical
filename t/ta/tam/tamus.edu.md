@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227090634id_/http%3A//tamus.edu/offices/communications/reports/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627165043id_/http%3A//tamus.edu/offices/communications/reports/privacy) for the most accurate reproduction.*
 
 # Privacy » The Texas A&M University System
 
@@ -9,7 +9,7 @@ The Texas A&M University System (A&M System) respects your privacy. It is the po
 The A&M System website does not contain forms for ordering publications. To order publications, please email us with the name and date of the desired publication, provide us with your name and mailing address for delivery, and a phone and/or email address for delivery confirmation, if desired.
 
 To contact us:  
-[Email us](mailto:syscomm@tamu.edu)  
+[Email us](mailto:syscomm@tamu.edu "Email A&M System Offices ")  
 Call us: (979) 458-6023  
 Write us: The Texas A&M University System Communications Office  
 200 Technology Way, Suite 1113  
@@ -19,4 +19,4 @@ Please include your name, address, phone, and email address (where applicable) i
 
 The A&M System uses log file analysis tools to track general site usage patterns and frequencies. The information collected is non-user specific and is used by the A&M System to monitor site traffic, performance, usage patterns, system design specifications, performance problems, hardware utilization, etc. This information is used for site management purposes only and will not be revealed to outside entities.
 
-Please contact the [A&M System Communications Office](http://www.tamus.edu/offices/communications/index.aspx) (by any of the above-mentioned methods) if you have any questions regarding this policy.
+Please contact the [A&M System Communications Office](http://offices/communications/index.aspx "A&M System Communications Office") (by any of the above-mentioned methods) if you have any questions regarding this policy.
