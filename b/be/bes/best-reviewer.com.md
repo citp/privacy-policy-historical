@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the best-reviewer.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214030855id_/http%3A//best-reviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-reviewer.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627161819id_/http%3A//www.best-reviewer.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY FOR BEST-REVIEWER.COM - TOP BEST REVIEWS :-)
+# PRIVACY POLICY FOR BEST-REVIEWER.COM - BEST OF TOP REVIEWS 2011
 
 **The privacy of our visitors to[www.Best-Reviewer.com](http://www.best-reviewer.com/ "www.Best-Reviewer.com") is important to us.**
 
@@ -20,3 +20,6 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+**Mollom's Privacy Policy**  
+We use Mollom service in order to fight spam, by posting comments on Best-Reviewer.com you agree to and accept the [Mollom's privacy policy](http://mollom.com/web-service-privacy-policy).
