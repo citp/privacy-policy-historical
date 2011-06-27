@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theukhighstreet.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629142954id_/http%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theukhighstreet.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627141517id_/http%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.*
 
 # The UK High Street: Privacy Statement
 
@@ -62,3 +62,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 Dr L Read TheUKHighStreet.com Ltd. 158 Harefield Road Stoke Coventry, UK [Contact us](https://web.archive.org/p/contact)   
 
+
+We do our best to make sure the prices shown on this site are correct but they are not live prices so please check on the merchant's site for the correct current price.
