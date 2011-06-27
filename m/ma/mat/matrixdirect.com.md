@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225034442id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627185347id_/http%3A//www.matrixdirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Matrix Direct Privacy Policy
 
@@ -63,7 +63,7 @@ It is the policy of Matrix Direct to protect customer and employee Social Securi
 
 **Do we collect information about children?**
 
-We do not knowingly collect, maintain, or use personal information from our site about children under the age of 13. We request that persons under the age of 18 not use our site without supervision from a responsible adult. If a child whom we know to be under the age of 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents or seek parental consent. 
+We do not knowingly collect, maintain, or use personal information from our site about children under the age of 13. We request that persons under the age of 18 not use our site without supervision from a responsible adult. If a child whom we know to be under the age of 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents or seek parental consent.
 
 **Is this Privacy Policy a contract?**
 
