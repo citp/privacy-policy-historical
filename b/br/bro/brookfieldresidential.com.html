@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the brookfieldresidential.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206042327id_/http%3A//www.brookfieldresidential.com/Brookfield/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brookfieldresidential.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627213353id_/http%3A//www.brookfieldresidential.com/Brookfield/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 <base target="_top">
-<title>Brookfield Properties</title>
+<title>Brookfield Residential Services</title>
 <meta name="KEYWORDS" content="">
 <meta name="DESCRIPTION" content="">
 <meta name="author" content="Yardi Systems, Inc.">
@@ -15,6 +15,7 @@
 	var ori=1;
 	var intTop = 210;
 </script>
+
 <script language="JavaScript1.2" src="../system/ctm_brookfield_scripts.js" type="text/JavaScript"></script></head><body><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(0, 0, 0); width: 204px; height: 93px;">
   <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 91px; width: 202px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 90px; width: 201px; background-color: rgb(255, 255, 255);">
@@ -81,7 +82,12 @@
 <script type="text/javascript" src="../system/swfobject.js"></script>
 <script type="text/javascript" src="../system/flash_script.js"></script>
 <script type="text/javascript" src="../system/ctm_portallib.js"></script>
+<script language="javascript" src="http://j.maxmind.com/app/geoip.js"></script>
+<script language="JavaScript" src="../system/ctm_WebTraffic.js" type="text/JavaScript"></script>
 
+<script language="JavaScript" type="text/javascript">
+	if (top.location != self.location) top.location.replace(self.location);
+</script>
 
 <script type="text/javascript">
 	function translatePage()
@@ -237,7 +243,7 @@ fw_menu_4.writeMenus();}
  	<tbody><tr>
         	<td width="19" align="right"><img src="../templates/ResCorpInnerStyle/topline_corner.jpg" width="19" height="6"></td>
 	        <td width="744" class="toplinebg"></td>
-        	<td width="19" align="right"><img src="../templates/ResCorpInnerStyle/topline_corner.jpg" width="19" height="6"></td>
+        	<td width="19" align="left"><img src="../templates/ResCorpInnerStyle/topline_corner.jpg" width="19" height="6"></td>
 	</tr>
 	<tr>
     	<td>&nbsp;</td>
@@ -538,38 +544,39 @@ privacyofficer@brookfieldhomes.com </font></p></li></td>
 		<td valign="baseline">&nbsp;</td>
     </tr>
 	<tr><td height="10"></td></tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td align="right">
-		<table class="transbox" border="0" cellspacing="0" cellpadding="1" width="320" style="table-layout:fixed">
-		<tbody><tr>
-			<td height="36" align="left" valign="middle">
-	      		<table width="100%" border="0" cellspacing="3" cellpadding="0">
-			        <tbody><tr>
-		        		<td width="50%" align="right" valign="middle">
-					        <select style="width:165px" name="TranslateList" id="TranslateList">
-						        <option value="Select Language">Select Language</option>
-							        <option value="en|zh-CN">English to Chinese (Simple)</option>
-							        <option value="en|zh-TW">English to Chinese (Trad.)</option>
-					     			<option value="en|fr">English to French</option>
-								<option value="en|de">English to German</option>
-								<option value="en|it">English to Italian</option>
-								<option value="en|ja">English to Japanese BETA</option>
-								<option value="en|ko">English to Korean BETA</option>
-								<option value="en|pt">English to Portuguese</option>
-								<option value="en|ru">English to Russian BETA</option>
-								<option value="en|es">English to Spanish</option>
-					          </select>
-		        	  	</td>
-				        <td width="50%" align="left" valign="middle"><input class="FormButton" type="button" name="but_translate" id="but_translate" value="Translate Web Page" onclick="translatePage();"></td>
-		          	</tr>
-	          	</tbody></table>
-	          </td>
-		  </tr>
-		  </tbody></table>
-		  </td>
-		  <td valign="baseline">&nbsp;</td>
+	<!-- translation text box starts-->
+<tr valign="top">
+	<td colspan="2" align="right">
+	<table class="transbox" border="0" cellspacing="0" cellpadding="1" width="320" style="table-layout:fixed">
+	<tbody><tr>
+		<td height="36" align="left" valign="middle">
+	      	<table width="100%" border="0" cellspacing="3" cellpadding="0">
+	        <tbody><tr>
+	        <td width="50%" align="right" valign="middle">
+	        <select style="width:165px" name="TranslateList" id="TranslateList">
+	        	<option value="Select Language">Select Language</option>
+		        <option value="en|zh-CN">English to Chinese (Simple)</option>
+		        <option value="en|zh-TW">English to Chinese (Trad.)</option>
+		        <option value="en|fr">English to French</option>
+			<option value="en|de">English to German</option>
+			<option value="en|it">English to Italian</option>
+			<option value="en|ja">English to Japanese BETA</option>
+			<option value="en|ko">English to Korean BETA</option>
+			<option value="en|pt">English to Portuguese</option>
+			<option value="en|ru">English to Russian BETA</option>
+			<option value="en|es">English to Spanish</option>
+	        </select>
+	        </td>
+	      	<td align="left" valign="middle"><input class="FormButton" type="button" name="but_translate" id="but_translate" value="Translate Web Page" onclick="translatePage();"></td>
+	        </tr>
+		</tbody></table>
+	      	</td>
 	</tr>
+	</tbody></table>
+	</td>
+	<td width="50" valign="top">&nbsp;</td>
+</tr>
+<!-- translation text box ends-->
     	</tbody></table></td>
 </tr>
 <tr>
@@ -607,11 +614,27 @@ privacyofficer@brookfieldhomes.com </font></p></li></td>
 	</td>
 </tr>
 <tr class="bottombg">
-	<!-- footertext starts here-->
-    	<td height="15" align="center" valign="middle" class="footertext">Copyright © 2009.  All rights reserved.</td>
-   	<!-- footertext ends here-->
+	<!-- footertext goes here -->
+	<td colspan="3" align="right" valign="middle">
+     <table width="100%" border="0" cellpadding="0" cellspacing="0" class="footertext">
+      <tbody><tr>
+       <td align="left" height="40">
+        <table width="50%" border="0" cellspacing="0" cellpadding="0">
+	    <tbody><tr>
+         <td align="left" valign="top" width="35%"><iframe onload="AutoResize_iFrame(this)" name="inWin771" id="inWin771" src="../forms/../pages/PortalCommonSocialNetworkingSiteLinks.aspx?pagegroup=Brookfield&amp;page=PRIVACYPOLICY&amp;&amp;iHeight=0" frameborder="0" width="100%" height="4501" scrolling="no" allowtransparency="true"> </iframe></td>
+         <td align="left" valign="top" width="15%"><a href="#" onclick="referafriend('1200','Brookfield');"><img src="../images/build_sm_ef.png" height="30" width="30" border="0" title="refer a friend" alt="refer a friend"></a></td>
+       </tr>
+      </tbody></table>
+       </td>
+       <td align="left" width="10%"></td>
+       <td align="right" width="40%">Copyright © 2011.  All rights reserved.</td>
+       </tr>
+     </tbody></table>
+    </td>
+	<!-- footertext ends here -->
 </tr>
 </tbody></table>
-</form>	
+</form>
+	
 
 </body></html>
