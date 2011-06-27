@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omronhealthcare.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215013525id_/http%3A//www.omronhealthcare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omronhealthcare.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627225540id_/http%3A//www.omronhealthcare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OMRON ®
 
