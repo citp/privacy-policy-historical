@@ -1,76 +1,145 @@
-> *The following text is extracted and transformed from the sysco.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203205108id_/http%3A//www.sysco.com/sysco/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysco.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627214328id_/http%3A//www.sysco.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Sysco | Privacy Policy
 
-  * [Corporate/SBS Positions](https://web.archive.org/careers/careers.html)
-  * [Corporate Governance](http://syy.client.shareholder.com/governance.cfm)
-  * [Locations Map](https://web.archive.org/map/map.asp)
-  * [Diversity](https://web.archive.org/diversity/diversity.html)
-  * [Place an Order](https://web.archive.org/customer/order_entry.asp)
-  * [Product Market Reports](https://web.archive.org/market/mkt_reports.html)
-  * [Products](https://web.archive.org/products/products.html)
-  * [QA Database](https://web.archive.org/supplier/qa_database.html)
-  * [Recipes](https://web.archive.org/recipes/recipes.html)
-  * [Services](https://web.archive.org/services/services.html)
+* * *
 
-|   
-  
+SYSCO CORPORATION PRIVACY POLICY
 
+Effective: May 18, 2011  
+(Subject to Revision)
 
-## Sysco Corporation Privacy Policy
+This Privacy and Security Policy (this “Privacy Policy”) explains how we collect, protect, use, and disclose the Private Information (defined below) when you use our website located at [www.sysco.com](http://www.sysco.com/) or any other website we operate (collectively the “Sites”), including without limitation those websites through which our customers, suppliers, associates, contractors and business partners may complete transactions, conduct other business and manage their accounts.  We understand that you care about how your Private Information is used and shared, and we take your privacy seriously.  Please read the following to learn more about this Privacy Policy. 
 
-Sysco Corporation and each of its operating subsidiaries and affiliates adopting these terms is committed to protecting the privacy of visitors to www.Sysco.com, www.eSysco.net and to each of their respective websites (individually and collectively the "sites"). References to "Sysco", "we" and "our" are to each of Sysco Corporation and each of its operating subsidiaries and affiliates, including various redistribution centers that maintain separate web sites, that adopt the privacy policy below. References to "you" and "your" refer to the individuals visiting our sites as well as the organizations or businesses that they represent. However, when we refer to "personal information" we only mean information about an identifiable natural person, but not information concerning name, title or business address or telephone number of an employee of an organization or sole proprietorship or passwords associated with the use of eSysco or Onelink.
+GENERAL
 
-This is only a supplement to our [Terms of Use](https://web.archive.org/Sysco/terms_use.html), which is incorporated by reference and made a part of this Privacy Policy. You should consult the [Terms of Use](https://web.archive.org/Sysco/terms_use.html) for terms and policies other than privacy relating to information that you submit. (For example, you should review [Submission of Information; No Improper Use; Indemnity](https://web.archive.org/Sysco/terms_use.html#submission) prior to submitting any information to us.) This Privacy Policy relates only to certain information obtained by or through our sites; it does not relate to any other information that we may collect or obtain. 
+“Sysco”, “we” and “our” refer to Sysco Corporation and its operating subsidiaries and affiliates that adopt this Privacy Policy.  “You” and “your” refer to the individuals visiting our sites, as well as to the organizations or businesses that they represent.    
+By visiting one of the Sites, you are accepting the practices outlined in this Privacy Policy, which is subject to modification as described below.  It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
 
-Our sites may have policies specific to them concerning the use of information that you may provide through the sites or that we may obtain when you visit them. Absent a specific policy to the contrary relating to a site (which will be accessible from that site), the following policies apply to all of our sites: 
+WHAT IS PRIVATE INFORMATION?
 
-**1.     General**  
-In general, you can visit one of our sites without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners or suppliers may need information from you. We try to make sure that the personally identifying information you provide us remains private. We will not sell, rent, trade or otherwise disclose the personally identifying information you provide to anyone outside of Sysco Corporation, its operating companies, except as otherwise provide in this policy or other policies relating to specific sites. However, 
+“Private Information” means 
 
-  * When you visit any of our sites, your browser automatically sends us an IP (Internet Protocol) address and certain other information (including the type of browser you use). We may use this IP address and other information to give you access to the sites and otherwise administer the sites. In certain parts of a site, we may ask you to provide us with your name or other information so that we can provide you with information you request. You are under no obligation to provide us with this information, but without it, we may not be able to provide you the information you request.
-  * We will use information that is generated by your visit or that you provide to us to provide a product or service, a callback, or information. To help us do this, we may share information, with others, including our various affiliates, business partners, financial institutions, shipping companies and postal or government authorities involved in fulfillment.
-  * We use any information that we collect through the sites in connection with our fulfillment of orders and enforcing our [Terms of Use](https://web.archive.org/Sysco/terms_use.html), customer orders or other arrangements with you or your organization.
-  * You also should be aware that we collect certain usage information about our sites, such as the number and frequency of visitors to certain parts of a site and broad demographic information for aggregate use to analyze trends and administer the sites. This allows us to improve services and our sites. We may engage third parties with whom we share such information in order to assist us in analyzing such information and in making service and site improvements.
-  * Some of our sites also include certain features that allow you to communicate with us by electronic mail or otherwise. If you choose to use such features (such as a "Contact Us" feature), you may be required to supply such information (including your e-mail address and other information we may deem necessary) in order for us to communicate and respond. We may not only respond to the e-mail messages you send us, but also use such information for any other business purpose, including sending you subsequent communications concerning this site, Sysco or our services. Moreover, please be aware that it may be possible for others to read messages that you send over the Internet, so do not send by electronic mail any information that you would want to keep confidential.
-  * Like many companies, we use "cookie" technology on our Web site.[Click here](https://web.archive.org/web/20101203205108id_/http%3A//www.sysco.com/sysco/privacy_policy_cookies.html) to learn more about how we use cookies. These cookies may tell us whether you have visited our site before or are a new visitor and what material on our site you have viewed. These cookies also enable the sending of e-mail messages from our Web site. The cookies we use do not collect any personally identifying information about you or provide us with any way to contact you, and the cookies do not extract any information from your computer. We do not associate the cookie with any information you may include in an e-mail message. You should check the help information relating to the browser that you are using if you desire to disable cookies.
-  * If you provide us with personal information or other information about somebody else, including information relating to another individual or the business with which you are associated, we will assume that you have their permission to do so. 
+• as to a natural person, any information that may be used uniquely to identify the person (other than in such person’s representative capacity on behalf of a business enterprise), including such information submitted in Candidate Profiles in connection with employment applications through our employment or recruitment pages.  Such information includes first and last name, birth dates, social security number, driver’s license, gender, race, personal (as opposed to business) e-mail addresses, credit information, home phone numbers or addresses,  employment and educational history. 
 
+• as to a business enterprise, any banking or confidential financial information that it does not generally share with third parties but that is shared with us in any credit application process or business transaction. 
 
+  “Private information” does not include, without limitation, aggregated information (i.e. information presented in summary or statistical form which does not contain data that would permit the identification of a specific individual without significant effort). 
 
-**2.     Arrangements with Third Parties**  
-We may make information covered by this Privacy Policy available to third parties in a variety of circumstances: 
+A “business enterprise” or “business” means any sole proprietorship, partnership, corporation, limited partnership, limited liability partnership or company, business group or cooperative. 
 
-  * If you are a member or participant in an exchange, group purchasing organization, or other similar group, we may be required in our arrangements with that exchange, organization or group to deliver your transaction information and other data, including personally identifiable information, regardless of whether the information arises as a result of transactions through the exchange, organization or group or directly with us. You acknowledge that we have no responsibility or liability for any uses that such exchange, organization or group may make with respect to any such data.
-  * We also may contract with third parties to provide various services to us, but in that case information is disclosed only for purposes of providing those services. For example, in some cases we use suppliers to collect, use, analyze and otherwise process information, to bill or process payments, to fulfill and deliver orders, and perform other functions on our behalf. Our practice is to require such suppliers to handle information in a manner consistent with our policies.
-  * We may supply information to third parties, including governmental agencies, if we believe in good faith that we are required to do so by law, rule or order.
-  * We may share aggregated statistical information with our business partners. This information does not include personally identifying information.
-  * We may provide personal identifying and account information in order for us to enforce our [Terms of Use](https://web.archive.org/Sysco/terms_use.html), customer orders or other arrangements. This includes exchanging information with other companies for purposes of fraud and credit risk reduction and collection.
-  * We may share your name, mailing and e-mail address, telephone and fax number and other information (but not credit information) with third party partners to enable them to market their products and services. You will be provided with the opportunity to unsubscribe or to 'opt-out' of having online information used for purposes not directly related to the site at the point at which we ask for the information or when your receive an online requested promotional communication. Before we allow third parties to use such information for marketing purposes, we will offer you the opportunity to choose whether or not to have your information shared in this way. We may make other marketing uses with respect to such information as described in this Privacy Policy and the specific policies relating to our sites.
-  * In some circumstances, we may decide to sell, buy, merge or reorganize operations or businesses. During the course of these and similar transactions we may disclose personal information to, or receive such information from, prospective counterparties to such transactions. Our practice is to seek contractual restrictions on the uses of information acquired in these types of transactions; however, the restrictions vary in terms of scope and exceptions. 
+HOW SYSCO GATHERS PRIVATE INFORMATION 
 
+Sysco may collect Private Information from its customers, suppliers and other Site users in several ways: 
 
+Sysco may gather account information through the Sites.
 
-**3.     Marketing by Us**
+When you visit the Sites, we may ask you for Private Information so that we can provide you with the products, services, or information that you have requested, including credit and financial information required in order to open a business account with us.  When you maintain a business account with Sysco and transact business with Sysco through the Sites, we will ask you for information necessary to process and complete transactions with us, including your name, shipping and billing addresses, e-mail address, and credit card or other payment-related information. 
 
-  * We may send announcements and updates relating to our products or services or those of third parties, and may make introductions of third party service or product suppliers, to our customers and users of our sites;
-  * We may contact you as part of our customer satisfaction surveys or for market research purposes;
-  * We may enhance or merge the information we collect through the sites with data from third parties and with data we collect in other ways for purposes of marketing products or services;
-  * We may communicate with you by various means (including e-mail, telephone, mail, fax) to provide requested services, content, product information, notification of special offers, or in regard to customer service issues. We will provide you with an opportunity to 'opt-out' of having online information used for purposes not directly related to the site at the point at which we ask for the information or when your receive an online requested promotional communication. 
+Sysco may maintain historical account information of its customers and suppliers.
 
+Sysco may maintain of its historical account information for its present and former customers and suppliers.  Often this historical information predates such customers’ and suppliers’ use of the Sites for transacting business with Sysco.  We maintain this information so that we may better serve and effectively interact with our customers and suppliers.  Historical account information constituting Private Information maintained by Sysco is subject to this Privacy Policy. 
 
+Sysco may gather information about individual guarantors.
 
-**4.     Human Resources**  
-Some of the pages associated with our sites may relate to employment opportunities or human resources. They usually will be captioned "Careers" or "Career Opportunities" or will have similar labels or captions clearly indicating the employment opportunity subject matter (the "[Careers](https://web.archive.org/careers/careers.html) Pages") and such pages may be co-branded with third party service providers. For example, we have contracted with PeopleClick, Inc. to provide us with an Internet-based, recruitment tracking system that enables us to manage our recruitment process. PeopleClick, Inc. collects and maintains a database of applicant data and processes data for us. Any personal information that you submit through Careers Pages will be collected in the United States and will be reviewed by our employees or consultants to evaluate your qualifications and experience for job opportunities in the United States. Your personal information will not be disclosed to third parties other than PeopleClick, Inc. or other third parties who provide services to us. We will (and each of our third party service providers with access to such information, including PeopleClick, Inc., will agree with us they will) take any legally required steps to secure your personal information. We will use your personal information for recruitment purposes, and if you are offered a job or become employed by us, for other employment-related purposes. By submitting information through Careers Pages, you agree that we may use the information for recruitment and employment purposes (including transferring the data to other countries, transferring your information to other companies authorized to perform specific services, and/or other processing relevant to recruitment purposes).
+In connection with credit terms extended to our customers, we may collect and maintain Private Information about individuals who give personal guarantees on behalf of businesses, such as when the owner of a small restaurant provides a personal guarantee on behalf of the restaurant. 
 
-Resumes should include information relevant to your employment history and education (degrees obtained, places worked, positions held, relevant awards, and so forth). We recommend that you do not disclose sensitive personal characteristics (e.g. gender, height, weight, religion, philosophical or political beliefs, financial data, marital status) in your initial resume or letters. Please note that your information will be processed and/or stored in U.S. databases. By submitting your resume, you are consenting to the export of your information to the U.S. for processing and storage.
+Sysco may gather information from the Sites by cookies and Internet monitoring technologies.
 
-Except where you instruct us to remove your resume, we will keep the information for other consideration. If you need to update or otherwise make changes to you resume, simply resubmit a new resume. If you wish to have your resume completely removed from our systems (or the PeopleClick system), please send an e-mail to: resumes@corp.Sysco.com. To aid us (and PeopleClick) in locating your resume, please be sure and include your name, email address and phone number as submitted with your resume. 
+Cookies are small text files stored by your browser in your computer when you visit our Sites.  We use cookies to improve the Sites and make them easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information.  Cookies also assist us in identifying the types of browsers and operating systems used most by our customers, and how visitors move through the Sites.  All of this information enables us to improve the Sites and tailor them to our customers’ needs and preferences.  We use cookies for a variety of purposes intended to make our Sites a better service for you. We reserve the right to use cookies to deliver content specific to your needs and interests.  We may also use cookies to track user trends and patterns in order to better understand and improve areas of our sites that our users find valuable.  In addition, our servers track various technical details about your visit, such as your computer’s Internet protocol address and the pages that you visited.
 
-**5.     Other Sites**  
-Our sites may be linked to the web sites of others, as well as co-branded or other sites of our business partners, which may have privacy practices that differ from those at our sites. A co-branded site typically is operated by a third-party and displays the third-party's name or logo along with our name or logo. When you click on links that take you to such external or co-branded sites, you will be subject to their privacy policies. Please note that the privacy policies relating to our sites apply solely to information collected by or on behalf of us our those sites; we are not responsible for the privacy practices of third parties, including our business partners, and the uses that they may make of such information.
+Most browsers will accept cookies until you change your browser settings to refuse them.  At any time, you can disable the use of cookies in your browser and still have access to much of the information on the Sites.  However, you may not be able to access your account information or complete transactions on the Site unless your permit the use of cookies. 
 
-**6.     Your Consent**  
-By accessing or using any of our sites, you consent and agree to (a) the terms and conditions set forth in this Privacy Policy, the policies that may specifically relate to the particular sites that you may visit, and the [Terms of Use](https://web.archive.org/Sysco/terms_use.html), all of which are an integral part hereof, and (b) the collection and use of information as described herein and therein. We may revise this Privacy Policy or the policies that may specifically apply to certain of our sites, as well as the [Terms of Use](https://web.archive.org/Sysco/terms_use.html), at any time by updating postings to our sites, and you agree to be bound by any such revisions in effect at the time of your accessing or use of any of our sites. Therefore, you should periodically visit our sites to determine the then current policies in effect.
+We also reserve the right to use outside companies to display ads on our sites.  These ads may contain cookies. Cookies received with banner ads are collected by such outside companies, and we do not have access to this information. 
 
-| 
+Sysco may gather information provided by you in one or more other features of the Sites.
+
+Sysco may from time to time offer interactive or social aspects on the Sites.  For example, if you choose to express an opinion in an online forum, respond to user polls, or enter any contests, we may ask you for Private Information.  If you request to sign up for newsletters or other promotional materials, or if you send an inquiry to one of our customer service representatives, we may store a record of your request along with any Private Information allowing us to respond to your inquiry. 
+
+HOW SYSCO USES PRIVATE INFORMATION
+
+Sysco uses Private Information in establishing, maintaining and concluding business or employment arrangements.
+
+Sysco uses Private Information to evaluate prospective customers, suppliers and employees and, if we so elect, to open, maintain and terminate customer accounts, supplier arrangements, or employment relationships. 
+
+Sysco uses Private Information to process and transactions with customers and suppliers and to improve its business processes.
+
+Sysco uses Private Information to fulfill orders placed by customers, to order goods from suppliers, to respond to the requests of users of the Sites, and generally to enrich the usefulness of the Sites.  In addition, Sysco may use Private Information, both on an identifiable and aggregate basis, in various analyses intended to help Sysco understand its customers and suppliers better.  Sysco reserves the right to perform such “data mining” activities at its discretion, subject to the terms of this Privacy Policy. 
+
+Sysco uses Private Information in aggregated reports.
+
+We may combine Private Information with other information to create aggregate or summary reports, and we may provide aggregate data to other parties for marketing, advertising, and other purposes.  If Sysco provides information to other parties in aggregate form, such data will not include any specifically identifiable Private Information concerning specific customers, suppliers or individuals. 
+
+IS PRIVATE INFORMATION EVER SHARED OR DISCLOSED?
+
+Private Information is used to complete and support your use of the Sites and the services provided thereon and to comply with any requirements of law.  Sysco may share Private Information with third parties as described below:
+
+Sysco may disclose Private Information as required by law and for the protection of Sysco and others. 
+
+Sysco may disclose Private Information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on Sysco or its affiliates or the Sites; (2) protect, enforce and defend the rights, property or safety of Sysco, our employees and contractors, our users or others;  (3) act in urgent circumstances to protect the personal safety of users of Sysco, its web sites or the public; and (4) enforce or apply our terms of use, credit terms, and other business agreements and arrangements. Without limiting the foregoing, we may use Private Information in connection with the collection or enforcement of your obligations to us. We may also share Private Information with other companies and organizations for fraud protection and credit risk reduction. 
+
+Sysco may disclose Private Information to third parties who help us provide our services. 
+
+We depend upon third parties and independent contractors (collectively “third party service providers”) to provide services in connection with our business operations.  We may transmit your Private Information to or allow access to such information by third party service providers who assist us in a variety of ways, including in hosting our business information and data, allowing information technology providers and maintenance services to provide and support information technology systems and services, processing orders and payments, shipping products, sending catalogs, performing surveys, conducting promotions, advertising and marketing, processing job applications, providing recruitment and background screening, and sending e-mails and newsletters.  Without limiting the foregoing, we may make certain of the pages associated with our sites available for employment opportunities or human resources. They usually will be captioned "Careers" or "Career Opportunities" or will have similar labels or captions clearly indicating the employment opportunity subject matter and such pages may be co-branded with third party service providers. For example, we have contracted with various background search, testing and drug screening companies that may provide recruitment related services at different points in the recruiting process. 
+
+We use good faith efforts with these third party service providers to require them to protect the privacy of Private Information by implementing adequate security measures and by using the Private Information only as authorized and directed by Sysco.  We do not permit such third parties to use Private Information for direct marketing or any other purposes not authorized by Sysco.  However, such third party service providers perform work outside of our direct supervision and, therefore, we can never guarantee that Private Information will be protected by such third parties.
+
+Sysco may disclose Private Information as part of a corporate transaction. 
+
+If Sysco should ever merge with, acquire or be acquired by another company, whether by merger, stock transfer, or sale of assets, we may disclose, sell or otherwise transfer control of the Private Information to a third party as part of such transaction.
+
+Private Information may be disclosed if you participate in one or more interactive or social features that Sysco may offer on the Sites. 
+
+Sysco allows other users of the Sites to browse comments, questions or other entries that you have submitted or commented on in one or more forums, message boards, product ratings, feedback portals or other interactive or social aspects that Sysco may include on the Sites from time to time.  Sysco may choose to post this data on other features in the future.  Your use of such social features constitutes your consent and agreement to Sysco’s use of any content you post or transmit through such features for Sysco’s editorial, advertising and publicity purposes, without compensation to you, except where prohibited by law.
+
+IS AGGREGATED INFORMATION EVER SHARED OR DISCLOSED?
+
+We reserve the right to share aggregated information with third parties at our discretion.  We will use our good faith efforts to aggregate information in a manner that will not reveal identifiable Private Information about you.
+
+OPT OUT PROCEDURES 
+
+To the extent required by law, and except as set forth above, so long as you have provided your email address to us, if we intend to use or share your Private Information beyond the scope described above or in a manner that we reasonably determine to be a purpose incompatible with the purpose(s) for which it was originally collected, we will endeavor to contact you and provide you with the ability to prevent the sharing of this information through “opt out” elections. If we do provide opt out elections with respect to new uses, even if not legally required to do so, such opt out elections will be treated as affirmative consent to the specified uses if you do not respond in a manner and within the period specified in the election to deny us the right to make such use. 
+
+IS PRIVATE INFORMATION SECURE?
+
+The security of Private Information is a priority for us.  We implement measures that we believe in good faith will protect this information to the extent reasonably feasible in light of industry practices.  In some cases the measures employed may vary depending on the level of sensitivity of the Private Information.  Our measures may include restricted access to certain of our systems (including physical and electronic safeguards, such as passwords, encrypting sensitive information (as described below)).  We may also restrict user access commensurate with responsibilities and institute procedural safeguards, such as identity authentication procedures.  We train our employees in the proper handling of Private Information.  We also maintain a disaster recovery and continuity plan to help guard against unforeseen disruptions. 
+
+When you open business accounts or enter into business transactions through the Sites, Sysco uses Secure Sockets Layer (SSL) technology.  SSL encrypts your credit card and other Private Information before it is transmitted to us to limit reading or recording of such information as it travels over the Internet.  Credit card information submitted by a user or gained through normal financial transactions is governed by financial guidelines and federal, state and/or local laws.  Sysco holds all credit card information in strict confidence and for the sole purpose of conducting business with Sysco, all in accordance with Payment Card Industry (PCI) guidelines.
+
+  We may also use encryption technology for certain Private Information used internally within our company, as determined on a case by case basis.  Generally, we do not encrypt information deemed “public,” such as information publicly available on the Sites and not protected by passwords or other security measures.   
+
+When we share Private Information with third party service providers, we use good faith efforts to require such service providers to protect the privacy of Private Information by implementing adequate security measures and by using the Private Information only as authorized and directed by us.  However, such third party service providers perform work outside of our direct supervision and, therefore, we can never guarantee that Private Information will be protected by such third parties.  Use of the Sites is at your own risk.  We are not responsible for the circumvention of any security measures used by our third party service providers. 
+
+If you have or open a business account with Sysco, we have implemented separate policies, protocols, procedures and agreements with respect to the use and effect use of password and other authenticating information (the “Authentication and Attribution Policies”).  Among other things, the privacy and security of your Sysco account information is protected by your account user name and password. You should be aware that any person to whom you grant access to your account user name password will have access to your complete account information, including information such as credit information, information about individuals including individual guarantors, and transaction histories.  You should not grant access to your user name and password to any person to whom you are not comfortable sharing such information.  In addition, you need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.  You should review the Authentication and Attribution Policies for additional information concerning the acquisition, use, and effect of passwords and other account user information.
+
+LINKS TO OTHER SITES
+
+You should be aware that this Privacy Policy applies only to the Sites.  Importantly, it does not apply to any other websites to which a link may be provided on the Sites.  We cannot control and are not responsible for the actions of third parties operating such sites.  You should not take the existence of an affiliation with, or a link from, the Sites to any such other website to mean that it has a privacy policy similar to this one.  You should review the privacy policy of any such website.
+
+INTERNATIONAL TRANSFERS
+
+Private Information collected on this web site may be stored and processed in the United States or any other country in which Sysco or its affiliates, subsidiaries, agents, or third party service providers maintain facilities and/or infrastructure, and by using this web site, you consent to any such transfer of information outside of your country.  Unless applicable law requires different security and protections to be applied in any given relevant jurisdiction, we apply the same principles in using, handling and transmitting data as described in this Privacy Policy in all of our operations.
+
+OTHER AGREEMENTS, ARRANGEMENTS AND POLICIES
+
+This Privacy Policy supplements, but does not supersede, the provisions set forth in [Terms of Use](https://web.archive.org/terms-of-use.html) relating to Sites, Authentication and Attribution Policies, supplier or customer agreements, credit applications, and other agreements, arrangements or policies, which provisions shall take precedence over any conflicting terms in this Privacy Policy. 
+
+MODIFICATIONS TO THIS PRIVACY POLICY; YOUR CONSENT
+
+By using any of the Sites, you agree to this Privacy Policy.  This is our entire and exclusive Privacy Policy and it supersedes any earlier version.  We may change this Privacy Policy at any time by posting a new version of this Privacy Policy on the Sites.  We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Private Information we collect.  Your continued use of a Site constitutes your agreement to this Privacy Statement and any updates.  We may also obtain you consent to updates through the use of “opt out” procedures. See “Opt Out Procedures” above.
+
+DISCLAIMER; APPLICABLE LAW; LIMITATIONS ON LIABILITY
+
+The Sites operate “AS-IS” and “AS-AVAILABLE,” without liability of any kind.  We are not responsible for events beyond our direct control.  This Privacy Policy is governed by the laws of Texas, excluding conflicts of law principles.  Any legal actions against us must be commenced in the state or federal courts located in Harris County, Texas within one (1) year after the claim arose, or such action(s) will be barred. 
+
+CALIFORNIA PRIVACY RIGHTS
+
+California Civil Code Section 1798.83 permits users that are California residents to request that we not share certain information included in “Private Information” with third parties if we know or have reason to know that the third parties use the covered information for the third parties’ direct marketing purposes.  As stated above under the caption “Sysco may disclose Private Information to third parties who help us provide our services” our policies and contracts with third party service providers require such providers to secure Private Information related to all customers and suppliers, including California customers and suppliers, and do not permit any use of Private Information for direct marketing or any other purposes not authorized by Sysco. 
+
+A NOTE ABOUT THE PRIVACY OF CHILDREN UNDER 13 
+
+None of our Sites are not directed or otherwise promoted for use by children under the age of thirteen (13).  Consistent with the Children’s Online Privacy Protection Act of 1998, Sysco does not knowingly collect personally identifiable information on children under the age of thirteen (13).
+
+CONTACTING US
+
+If you believe that Sysco has not adhered to this Privacy Policy, or if you feel that you need to correct information about you held by Sysco, please contact us by email at [privacy@corp.sysco.com](mailto:privacy@corp.sysco.com) or by postal mail at Sysco Corporation, 1390 Enclave Parkway, Houston, TX 77077.
