@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the afrihost.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222031126id_/http%3A//www.afrihost.com/site/page/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afrihost.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627183414id_/http%3A//www.afrihost.com/site/page/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy</title>
@@ -18,13 +18,13 @@
     <meta name="DC.publisher" content="Afrihost Internet Services via Expression Engine">
     <meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2010-09-17T12:49:58+02:00">
     <meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2010-09-17T15:01:00+02:00">
-    <meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2010-12-28T07:11:25+02:00">
+    <meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2011-07-03T22:34:14+02:00">
     <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
-    <meta name="DC.rights" scheme="DCTERMS.URI" content="Copyright © 2000 - 2010 Afrihost - South African ADSL and Hosting Provider.">
+    <meta name="DC.rights" scheme="DCTERMS.URI" content="Copyright © 2000 - 2011 Afrihost - South African ADSL and Hosting Provider.">
     <meta name="DC.format" content="text/html">
     <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.afrihost.com/site/page/privacy_policy">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link href="http://www.afrihost.com/site?css=stylesheets/main.css.v.1291155801" rel="stylesheet" type="text/css" media="all">
+    <link href="http://www.afrihost.com/site?css=stylesheets/main.css.v.1306146262" rel="stylesheet" type="text/css" media="all">
     <link rel="icon" href="/favicon.png">
     <link rel="alternate" type="application/rss+xml" title="Specials RSS Feed" href="http://www.afrihost.com/site/rss/specials">
     <link rel="alternate" type="application/rss+xml" title="Network Status RSS Feed" href="http://www.afrihost.com/site/rss/netstatus">
@@ -35,11 +35,78 @@
     <script type="text/javascript" src="http://www.afrihost.com/site/js/jq.bkgpos.js"></script>
     <script type="text/javascript" src="http://www.afrihost.com/site/js/jq.easing13.js"></script>
     <script type="text/javascript" src="http://www.afrihost.com/site/js/jq.cslider2.js"></script>
-    <script type="text/javascript" src="http://www.afrihost.com/site/js/type014.js"></script>
+    <script type="text/javascript" src="http://www.afrihost.com/site/js/typeface.js"></script>
     <script type="text/javascript" src="http://www.afrihost.com/site/js/ltv_lig.js"></script>
     <script type="text/javascript" src="http://www.afrihost.com/site/js/ltv_med.js"></script>
     <script type="text/javascript" src="http://www.afrihost.com/site/js/ltv_medi.js"></script>
     <script type="text/javascript" src="http://www.afrihost.com/site/js/afrihost.js"></script>
+
+    <style>
+		#floatingipad {
+			display:block;
+			position:absolute;
+			background:url(/img/promo/apple.png);
+			height:112px;
+			width:102px;
+			top:0;
+			left:0;
+			z-index:5000;
+		}
+		#floatingipad a {
+			display:block;
+			height:112px;
+			width:102px;
+		}
+	</style>
+    
+    <script type="text/javascript">
+		
+		function getCookie(c_name)
+		{
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for (i=0;i<ARRcookies.length;i++)
+		{
+		  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+		  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+		  x=x.replace(/^\s+|\s+$/g,"");
+		  if (x==c_name)
+			{
+			return unescape(y);
+			}
+		  }
+		}
+		
+		var cookie_exists=getCookie("ahip201106found5");
+		if (cookie_exists!=null && cookie_exists!="")
+			{
+			//alert("Cookie Set");
+			}
+		else 
+			{
+		  
+		
+			var numgen = Math.floor(Math.random()*100)+1;
+			//alert(numgen);
+			
+				if ((numgen >= 44) & (numgen <= 56)) {
+					//alert('showing eggie');	
+						
+					$(document).ready(function() {
+					   
+						$('#promo').append('<div id="floatingipad"><a href="https://clientzone.afrihost.com/found-apple" target="_blank"></a></div>');
+						
+						var floater = function(){
+							 $('#floatingipad').animate( {'marginTop':(Math.random() * $(window).height()) + 'px','marginLeft':(Math.random() * $(window).width()) + 'px'},4000,'linear',function(){setTimeout(floater,15);} );
+						}
+						floater();
+						
+						$('#floatingipad').click(function() {$('#floatingipad').hide();});
+					
+					});
+				}
+		}
+		
+	</script>
 </head>
 
 <body>
@@ -62,7 +129,7 @@
                             <div class="main">
                                 <li><a href="http://www.afrihost.com/site/product/adsl_capped" id="adsl_capped"><strong>Capped ADSL</strong><br>Unshaped, usage based ADSL accounts, from R9,50 per GB.</a></li>
                                 <li><a href="http://www.afrihost.com/site/product/adsl_uncapped" id="adsl_uncapped"><strong>Uncapped ADSL</strong><br>Shaped, all-you-can-eat style internet, from R197pm.</a></li>
-                                <li><a href="http://www.afrihost.com/site/product/adsl_prepaid" id="adsl_prepaid"><strong>Prepaid ADSL</strong><br>Unshaped, prepaid bandwidth that doesn't expire, from R39.</a></li>
+                                <li><a href="http://www.afrihost.com/site/product/adsl_prepaid" id="adsl_prepaid"><strong>Prepaid ADSL</strong><br>Unshaped, prepaid bandwidth that lasts up to a year, from R39.</a></li>
                             </div>
                             <div class="alt">
                                 <!--<li><a href="http://www.afrihost.com/site/page/how_do_i_get_adsl" id="com_how"><strong>How do I get ADSL?</strong><br />What you need for ADSL Broadband Connectivity.</a></li>-->
@@ -84,10 +151,11 @@
                                 <li><a href="http://www.afrihost.com/site/product/windows_pro_hosting" id="web_win"><strong>Windows Pro Hosting</strong><br>Competitively priced, pro locally hosted windows packages from only R199pm.</a></li>
                             </div>
                             <div class="alt">
-                            	<li><a href="http://www.afrihost.com/site/product/managed_hosting" id="web_man"><strong>Managed Server Hosting</strong><br>Your own server, managed by us. Raw power minus the hassles, at R1150pm.</a></li>
-                                <li><a href="http://www.afrihost.com/site/product/dedicated_hosting" id="web_ded"><strong>Dedicated Server Hosting</strong><br>Rock-solid dedicated hosting. You're in complete control from only R790pm.</a></li>
+                                <li><a href="http://www.afrihost.com/site/product/cloud_hosting" id="web_cloud"><strong>Cloud Hosting</strong><br>Dedicated hosting, At a fraction of the cost - from only R590pm.</a></li>
+                                <li><a href="http://www.afrihost.com/site/product/dedicated_hosting" id="web_ded"><strong>Dedicated Server Hosting</strong><br>Rock-solid dedicated hosting. You're in complete control from only R950pm.</a></li>
+                            	<li><a href="http://www.afrihost.com/site/product/managed_hosting" id="web_man"><strong>Managed Server Hosting</strong><br>
+                            	Your own server, managed by us. Raw power minus the hassles, at R1350pm.</a></li>
                                 <li><a href="http://www.afrihost.com/site/product/rack_hosting" id="web_rack"><strong>Rack Hosting</strong><br>Custom Hardware? No problem, we've got you covered from R1100pm.</a></li>
-                                <li><a href="http://www.afrihost.com/site/product/e_commerce_hosting" id="web_ecom"><strong>E-commerce Hosting</strong><br>Get your online shop setup in mere minutes for only R346pm.</a></li>
                                 <!--<li><a href="http://www.afrihost.com/site/faq/hosting" id="com_faq"><strong>Web Hosting FAQs</strong><br />Let us help you decide which product suites you best.</a></li>-->
                                 <!--<li><a href="#" id="com_wiz"><strong>Product Wizard</strong><br />Questions and Answers about our Web Hosting offerings.</a></li>-->
                             </div>
@@ -105,8 +173,9 @@
                                 <li><a href="http://www.afrihost.com/site/product/domain_parking" id="dom_park"><strong>Domain Parking</strong><br>Make sure you're covered when you're ready with that great idea, from R197.</a></li>
                             </div>
                             <div class="alt">
-                                <li><a href="http://www.afrihost.com/site/product/domain_pointing" id="dom_point"><strong>Domain Pointing</strong><br>Point multiple domains to one for only R35pm each.</a></li>
+                                <li><a href="http://www.afrihost.com/site/product/domain_pointing" id="dom_point"><strong>Domain Pointing</strong><br>Point multiple domains to one for only R9pm each.</a></li>
                                 <li><a href="http://www.afrihost.com/site/product/domain_email" id="dom_eml"><strong>Domain Email</strong><br>Need your own email accounts for your company? Get it now for only R9pm.</a></li>
+                                <li><a href="http://www.afrihost.com/site/product/e_commerce_hosting" id="web_ecom"><strong>E-commerce Solution</strong><br>Get your online shop setup in mere minutes for only R346pm.</a></li>
                                 <!--<li><a href="http://www.afrihost.com/site/faq/domain" id="com_faq"><strong>Domain FAQs</strong><br />Questions and Answers about what Domains are and how they work.</a></li>-->
                             </div>
                             </div>
@@ -147,7 +216,7 @@
                             <!--<li><a href="http://www.afrihost.com/site/page/callback_request">Callback Request</a></li>-->
                             <li><a href="http://www.afrihost.com/site/page/map_and_directions">Map and Directions</a></li>
                             <li><a href="http://www.afrihost.com/site/testimonials/leave_testimonial">Leave a Testimonial</a></li>
-                            <!--<li><a href="http://www.afrihost.com/site/page/job_opportunities">Job Opportunities</a></li>-->
+                            <li><a href="http://www.afrihost.com/site/jobs">Job Opportunities</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -155,7 +224,7 @@
                 	<form id="ajaxsearch" method="post" action="http://www.afrihost.com/site">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="4">
-<input type="hidden" name="XID" value="8e08048e6bda2800de0f4177608b543b4795a5d9">
+<input type="hidden" name="XID" value="97c5c98fa2e6632e8f7c037ca25d96683e08a909">
 <input type="hidden" name="RP" value="search/results">
 <input type="hidden" name="NRP" value="">
 <input type="hidden" name="RES" value="">
@@ -250,8 +319,8 @@
             <div id="subf_news">
                 <h4>Newsroom</h4>
                 
-                <p><strong>28 October 2010 - Product News </strong>
-                <br>Today we gave away 530 free 1GB ADSL Accounts. No catches. These account do not expire or only last for a month. 1GB Free, every month, forever.</p>
+                <p><strong>31 March 2011 - Press Releases </strong>
+                <br>Today marks a momentous occasion for us here at Afrihost, as we've just given away our 7500th FREE FOREVER ADSL Account. </p>
                 <a href="http://www.afrihost.com/site/newsroom" class="btnfade" id="subf_btn_news">visit our newsroom</a>
                 
             </div>
@@ -320,7 +389,7 @@
                     </ul>
                 </div>
                 
-                <div id="copyright">Copyright © 2000 - 2010 Afrihost - South African ADSL and Web Hosting Provider</div>
+                <div id="copyright">Copyright © 2000 - 2011 Afrihost - South African ADSL and Web Hosting Provider</div>
                 <div id="footerlinks"><a href="http://www.afrihost.com/site/page/terms_and_conditions">Terms and Conditions</a> | <a href="http://www.afrihost.com/site/page/privacy_policy">Privacy Policy</a> | <a href="http://www.afrihost.com/site/page/acceptable_use_policy">Acceptable Use Policy</a> | <a href="http://www.afrihost.com/site/page/60_day_complete_satisfaction_guarantee">60-day Complete Satisfaction Guarantee</a></div>
                 
                 <a href="http://www.ispa.org.za/code-of-conduct" id="ispa" title="Afrihost is a Proud Member of the ISPA">Afrihost is a Proud Member of the ISPA</a>
@@ -329,14 +398,8 @@
     </div>
 
     <div id="hideme">
-    	<img src="/img/popup_bkg.jpg">
-        <img src="/img/prod_thead_3select.png">
-        <img src="/img/prod_tfoot_3select.png">
-        <img src="/img/prod_tbkg_3select.png">
         <img src="/img/search.png">
         <img src="/img/subnav.png">
-        <img src="/img/popup_close.gif">
-        <img src="/img/btn_czlogin.png">
         <img src="/img/field.png">
         <img src="/img/loader.gif">
         <img src="/img/loaderi.gif">
@@ -354,5 +417,6 @@
   })();
 
 </script>
+<div id="promo"></div>
 
 </body></html>
