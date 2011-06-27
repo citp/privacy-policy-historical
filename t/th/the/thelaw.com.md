@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231171047id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628002144id_/http%3A//www.thelaw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Legal Advice Site | Lawyers | Legal Forms | TheLaw.com
 
-## Privacy Policy v. 1.2
+## Privacy Policy v. 1.3
 
-### Last updated December 23, 2008
+### Last updated February 1, 2011
 
 We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as “Data” below) that may be collected by us on The Law Network’s network of web sites (including, but not limited to, TheLaw.com, TheLawReview.com, TheLawJournal.com and TheLawNetwork.com.) This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. You may also wish to review our [Terms of Use](http://www.thelaw.com/terms-of-use/ "The Law Network Terms of Use").
 
@@ -26,13 +26,21 @@ Our site may use the following affiliate programs and advertising based services
 
 We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact us or e-mail our administrator.
 
-### 5\. Editing or Deleting Your Data
+### 5\. Managing Your Data, E-Mail Notifications and Subscriptions
 
-We provide you with the ability to edit the information in your user account that you provided to us in registration by using the “user control panel.” A request for deletion of your user account by sending email via our Support Center. Content or other data that you may have provided to us, such as those that which may appear in our forums, may continue to remain on our site even though your user account may be deleted. Please see our Terms of Use for more details.
+We provide you with the ability to manage the information in your user account that you provided to us in registration, including subscriptions to any newsletter you have selected or opted to receive, by using the “[user control panel](http://www.thelaw.com/login/member.php "User Control Panel").” Request for further editing or deletion of your user account can be accomplished by sending email via our [Support Center](http://www.thelaw.com/support/). Content or other data that you may have provided to us, such as those that which may appear in our forums, may continue to remain on our site even though your user account may be deleted. Please see our [Terms of Use](http://www.thelaw.com/terms-of-use/ "Terms of Use") for more details. Below is a complete list of URLs where you can modify your settings, preferences and subscriptions:
+
+  * [Profile Settings](http://www.thelaw.com/login/profile.php "Profile Settings") – Email, User Name, Password
+  * [Forum Notifications Settings](http://www.thelaw.com/forums/profile.php?do=editoptions "Forum Profile Settings") – Message Notifications and Thread Subscriptions, Signature
+  * [Forum Profile Settings](http://www.thelaw.com/forums/profile.php?do=editprofile "Forum Profile Settings") – Manage email, messenger, contact settings
+  * [Lawyers Directory Settings](http://www.thelaw.com/lawyers/members/user_account.php "Lawyer Account Settings") – If you have a lawyer ad/profile, manage account settings and notifications
+  * [Support and Billing Settings](http://www.thelaw.com/support/clientarea.php "Support and Billing Settings") – Manage notifications and information for billing and support
+
+
 
 ### 6\. Changes to this Privacy Policy
 
-We may make changes to this Policy from time to time. Please make sure that you periodically check the terms and conditions of this web site and our policies. We attempt to make clear disclosures when such changes are made.
+We may make changes to this Policy from time to time. Please make sure that you periodically check the terms and conditions of this web site and our policies. We attempt to make clear disclosures to you when such material changes are made.
 
 ### 7\. Contact Information
 
