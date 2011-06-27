@@ -1,73 +1,100 @@
-> *The following text is extracted and transformed from the www.tv privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024192742id_/http%3A//www.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.tv privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# .tv/VeriSign, Inc. Privacy Statement
+# Legal Agreement
 
-**About VeriSign  
-Privacy Statement  
-** Effective August 27, 2008 
+**Go Daddy Respects Your Privacy**
 
-VeriSign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire www.tv site (“Site”). This Privacy Statement is not applicable to any of our other privacy practices, including, without limitation, data collected from other VeriSign web sites or offline. VeriSign services may be hosted on partner sites on behalf of VeriSign, and if this VeriSign Privacy Statement is listed on that site, then it will also apply. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**This Privacy Statement will inform you of:**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**What personal information our Site gathers about you**  
-How we use and with whom we share the personal information we gather 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Questions regarding this Privacy Statement should be directed to practices@verisign.com. Please specify "Privacy Statement" in the subject line of your e-mail. You may also call us at 1-650-426-5555. 
+**Information Collection and Use**
 
-**Overview**  
-Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at VeriSign are acutely aware of and sensitive to the privacy concerns of our subscribers and other visitors to our Site. Whether you are a customer of our various products and services or a visitor to our Site, we assure you that we do not collect personal information from you unless you provide it to us. You should be assured that we do not provide or sell personal information about our customers or Site visitors. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Please note that our Site contains links to other sites. VeriSign is not responsible for the privacy practices, privacy statements, or content regarding these other sites. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Privacy Policy Enforcement  
-** If you feel that we are violating this Privacy Statement, please contact us at practices@verisign.com. Please specify "Privacy Statement" in the subject line of your e-mail. You may also call us at 1-650-426-5555. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Information We Gather from You**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Personal Information**  
-There are two ways in which you may explicitly and intentionally provide us with and consent to our collection of certain personal information:
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-E-mail Request for Information or Registrations for Guides or Seminars - We use links throughout our Site that may provide you with the opportunity to contact us via e-mail to ask questions, request information and materials, register or sign up for guides or seminars, or provide comments and suggestions. You may also be offered the opportunity to have one of our representatives contact you personally to provide additional information about our products or services. To do so, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Contest - If you choose to enter a contest that we may be conducting from time to time, we will request certain information from you. Depending on the type of contest, you may be asked to provide different personal information. For example, we may require your name, address, telephone number, e-mail address, and/or names of individuals participating in the contest or any contest entry. For a detailed listing of the type of personal information requested, please refer to the registration request and terms and conditions associated with the particular contest. Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life. Notwithstanding the foregoing and anything to the contrary, if you enter a contest that VeriSign may sponsor for time to time, your contest entry may contain personal information about yourself or others.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Statistical Information About Your Visit  
-** When you visit our Site, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather identifies information about a visit to our Site. We may monitor statistics such as how many people visit our Site, the user's IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Site.
+**Security**
 
-**Use of Cookies**  
-We only use "cookies" as described in this Section. A "cookie" is a piece of information that our Site sends to your browser, which then stores this information on your system. If a cookie is used, our Site will be able to "remember" information about you and your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie. Many users prefer to use cookies in order to help them navigate a site as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender personal or other information from your computer.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Our uses of "cookies" are limited to the following specific situations. The first situation is with respect to temporary cookies. There are two instances in which we use temporary cookies. First, if you are accessing our services through one of our online applications our Web server may automatically send your browser a temporary cookie, which is used to help your browser navigate our Site. The only information contained in these temporary cookies is a direction value that lets our software determine which page to show when you hit the back button in your browser. This bit of information is erased when you close your current browser window. If you come to our Site from one of our business partners, our Web server may also send your browser a temporary cookie that reflects an "origination code" for that business partner. We use this information for statistical and marketing purposes. The second situation in which we may use cookies is with respect to permanent cookies. This type of cookie remains on your system, although you can always delete or disable it through your browser preferences. There are two instances in which we use a permanent cookie. First, when you visit our Site and request documentation or a response from us. When you are filling out a form you may be given the option of having our Site deliver a cookie to your local hard drive. You might choose to receive this type of cookie in order to save time in filling out forms and/or revisiting our Site. We only send this type of cookie to your browser when you have clicked on the box labeled "Please remember my profile information" when submitting information or communicating with us. The second instance where we use a permanent cookie is where we track traffic patterns on our Site. Analysis of the collected information by our tracking technologies allows us to improve our Site and the user experience. In both instances of a persistent cookie, if you choose not to accept the cookie, you will still be able to use our Site. Even if you choose to receive this type of cookie, you can always set your browser to notify you when you receive any cookie, giving you the chance to decide whether to accept it in each situation in which one is sent. 
+**Updating Your Information**
 
-**Bulletin Boards, Chat Rooms, Forums, and Contest Entries**  
-If you use a forum, bulletin board, chat room, other chat tool that may be available on this Site from time to time, or you enter into a contest that VeriSign may sponsor from time to time, you should be aware that any personally identifiable information you submit there (including through a contest entry, such as via a video or other creative) can be read, collected, or used by other users/viewers of these forums, and could be used to send you unsolicited messages. VeriSign is not responsible for the personally identifiable information you choose to submit in this manner. You are also responsible for using these forums in a manner consistent with any Rules of Engagement, official contest rules, or other terms and conditions as may be set forth on the relevant forum site.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**How We Use and With Whom We Share the Personal Information We Gather**  
-We assure you that the personal information we gather from you is used by us only as explained below.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Sending you responses and updates**  
-We generally respond to any e-mail questions, requests for product or service information, and other inquiries that we receive. We may also retain this correspondence to improve our products, services, and Site, and for other disclosed purposes. Frequently we retain contact information so that we can send individuals updates or other important information about our services and products. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by a VeriSign business partner, we may also send the information you have supplied to the VeriSign business partners that offer such products or services. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Notifications Regarding a Contest**  
-If you choose to enter into a contest that we may be conducting from time to time, VeriSign may use the information collected from you for purposes of the contest entry, which may include notifying an entrant that a submission is received and notifying contest winners. 
+      iii.      You may call us at: (480) 505-8800
 
-**Disclosure by Law and Protection of VeriSign and Others**  
-If we are required by law to disclose certain information to local, state, federal, national or international government or law enforcement authorities, we will do so. We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, VeriSign may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply VeriSign's agreements.
+       iv.      You may fax us at: (480) 505-8844
 
-**Business Transitions**  
-Circumstances may arise where, whether for strategic or other business reasons, VeriSign decides to sell, buy, merge or otherwise reorganize businesses or business units in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is VeriSign’s practice to seek appropriate protection for information in these types of transactions. 
+**Sending Emails**
 
-**Surveys**  
-From time-to-time we may request information from Site visitors via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Survey information will be used for purposes of monitoring or improving the use of and satisfaction with this Site, and improving our customer service and product offerings.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Our Security Procedures**  
-We consider the protection of all personal information we receive from our Site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Changes to this Privacy Statement**  
-If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information then, we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page.
+**Compliance with Laws and Law Enforcement**
 
-Our mailing address is: VeriSign, Inc.   
-Attention: Support   
-487 East Middlefield Road   
-Mountain View, California 94043 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
