@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hicoool.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226023121id_/http%3A//hicoool.net/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hicoool.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627050514id_/http%3A//hicoool.net/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# High Help In Medicine And Forex: Privacy Policy
+# High Help In Medicine And Forex » Privacy Policy
 
 **Privacy Policy for  
 [HiCoool.Net](http://hicoool.net/)**
