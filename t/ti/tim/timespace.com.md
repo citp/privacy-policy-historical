@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timespace.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628155148id_/http%3A//www.timespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timespace.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627063845id_/http%3A//www.timespace.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Time+Space | Virtual Instruments, Sample CDs, DVDs, Hardware and Software
+# Privacy Policy - Time+Space | Virtual Instruments, Sample Libraries, Sample CDs, Downloads, DVDs, Hardware and Software
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.   
 
@@ -8,9 +8,6 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 (b) information about any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
 
 (c) information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications;
-
-  
-(2) Information about website visits
 
 We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website´s usability, and for marketing purposes.
 
@@ -31,7 +28,7 @@ In addition to the uses identified elsewhere in this privacy policy, we may use 
 
 (b) send information (other than marketing communications) to you which we think may be of interest to you by post or by email or similar technology;
 
-(c) send to you marketing communications relating to our business  which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at websales@Time+Space.biz);
+(c) send to you marketing communications relating to our business  which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at marketing@timespace.com);
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
@@ -67,7 +64,7 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 You may instruct us to provide you with any personal information we hold about you.
 
-You may instruct us not to process your personal data for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes. You can also instruct us not to use your personal data for marketing purposes by email (to websales@Time+Space.com) at any time.
+You may instruct us not to process your personal data for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes. You can also instruct us not to use your personal data for marketing purposes by email (to marketing@timespace.com) at any time.
 
 (9) Third party websites
 
@@ -82,13 +79,12 @@ Unit 7A-B, Cranmere Road
 Exeter Road Industrial Estate  
 Okehampton  
 Devon   
-EX20 1UK 
+EX20 1UK
 
 Switchboard - +44 (0)1837 55200
 
-Fax - +44 (0)1837 55400 
+Fax - +44 (0)1837 55400
 
-Email - sales@timespace.com 
+Email - sales@timespace.com
 
-This privacy policy is based on a freely-available template created and distributed by www.website-law.co.uk  
-
+This privacy policy is based on a freely-available template created and distributed by www.website-law.co.uk
