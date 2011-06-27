@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brita.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226180736id_/http%3A//www.clorox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brita.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627191342id_/http%3A//www.clorox.com/privacy.php) for the most accurate reproduction.*
 
-# Clorox.com :: Privacy Policy
+# Clorox Privacy Policy For United States Consumers
 
 Clorox Privacy Policy For United States Consumers  
 Our Privacy Policy for Canadian sites may be found [here](https://web.archive.org/legal/cdn-privacy/).
