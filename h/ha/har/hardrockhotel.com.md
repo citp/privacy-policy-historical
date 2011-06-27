@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardrockhotel.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216090041id_/http%3A//www.hardrockhotel.com/info/company-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrockhotel.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627220622id_/http%3A//www.hardrockhotel.com/info/company-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hard Rock Hotel and Casino
+# Privacy Policy - Las Vegas Casino | Hard Rock Hotel and Casino
 
 Hard Rock Hotel Holdings LLC (“Hard Rock Hotel & Casino”) has prepared this privacy statement (“Statement”) to inform you of the privacy principles that govern our website, which includes HardRockHotel.com, RehabLV.com, TheJointLasVegas.com and other Hard Rock Hotel & Casino websites (collectively the “website”). Hard Rock Hotel & Casino has a strong commitment to providing excellent service to all of our customers and visitors of our website, including respecting your concerns about privacy. We understand that you may have questions about how this website collects and uses the information that you provide to us.
 
