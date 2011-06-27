@@ -1,67 +1,100 @@
-> *The following text is extracted and transformed from the adfusionmedia.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605164345id_/http%3A//www.adfusionmedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfusionmedia.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# AdFusionMedia - Privacy Policy
+# Legal Agreement
 
-This Privacy Policy applies only to websites that are owned and/or operated by or on behalf of AdFusionMedia.com, Inc. 
+**Go Daddy Respects Your Privacy**
 
-This Privacy Policy explains how we collect and use information about you as you utilize any AdFusionMedia.com, Inc. services, including the adverting services we provide to businesses that have their own web sites (our "Advertising Network"). Please be advised that our Privacy Policy is subject to change at any time. By using services provided by AdFusionMedia.com, Inc. you indicate that you agree to the collection and use of your information by AdFusionMedia.com, Inc. as outlined in this Privacy Policy. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-## Why Information is collected:
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-AdFusionMedia.com, Inc. collects information to improve the services we provide and to present you with information and features that will interest you. We also use your information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate our site. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-## Personal Information We Collect:
+**Information Collection and Use**
 
-Any personal information that is collected by us is provided by you strictly on a voluntary basis. We may receive personal information from you in a number of ways, depending on the AdFusionMedia.com, Inc. service you are using and your choices while using our services. Depending upon the nature of the service being provided, we may ask you for, and you may choose to send to us, your name, e-mail address, physical address or other personal information necessary to complete a transaction or provide services to you. For example, if you choose to run an advertising or publisher program through AdFusionMedia.com, Inc., we will need to collect certain personal information about you in connection with administering the program; however, we do not collect any personal information from site users in connection with our activities on sites in our Advertising Network. Wherever we ask you for personal information, we try to include a link to this Privacy Policy for your review. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-## Use of Personal Information
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-As noted above, unless you voluntarily provide personal information for a specific purpose, we do not collect personal information from you. We will never combine any personal information about a user of our site with any aggregate information we collect about that user, whether collected on our site or our Advertising Network. If you choose to provide personal information, we use your personal information to provide you with particular services that you request. For instance, we may use your personal information to contact you about advertising services that you have requested and to provide you with data about your advertising campaign. We may also share your personal information with business partners who provide services you have requested. In these cases, we will provide only the information that is needed to perform the service. If you do not want AdFusionMedia.com, Inc. to share your information in this way, you can simply choose not to sign up for the service in question. By providing your email address to AdFusionMedia.com, Inc., you expressly consent to receive emails from us. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-AdFusionMedia.com, Inc. does not sell, trade or rent personal information to other companies. However, we will transfer personal information in connection with a sale or merger of AdFusionMedia.com, Inc. or the division responsible for the services provided to you. We may also share your personal information with our technical consultants, third party auditors and other third parties who make our site available, enhance its functionality or provide associated services and/or who deal with you in processing your orders and/or delivering content, samples, products, services and gifts and prizes. These third parties are not allowed to use personal information except for the purposes of providing the applicable services. In addition, we may provide information to law enforcement authorities or pursuant to a court order or to investigate suspected fraud. Our site and services are maintained in the United States of America. By using the site and/or services, you authorize the export of personal information to the USA and its storage and use as specified in this policy. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## Aggregate Information We Collect and Use
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-In addition to personal information, we may also collect non-personally identifiable information, such as site pages viewed, browser type, computer information, cookies, clickstream data and other information. This aggregate information is analyzed and combined with similar aggregate information of other users and may be collected both on our site and on other sites in our Advertising Network. Such aggregate information is anonymous and does not identify any individual user. We may share aggregate information with our business partners and other third parties. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-"Cookies" are small data files that are sent to your browser and are stored on your hard drive, keeping track of your general activity on a site. When you make subsequent visits to our site or another site on our Advertising Network, your cookie gives us a summary of your preferences and past experiences on the site. This allows us to tailor AdFusionMedia.com, Inc. services to your needs. Your cookie may be altered at different times throughout your visits to a site, and it is updated frequently as you use various AdFusionMedia.com, Inc. features and services. When you use the services of AdFusionMedia.com, Inc. or our partners, our server may deliver certain customized information to you based on the data stored in your cookie. You can and may opt-out and set your browser to reject cookies; however, this may affect some functions of this site and our other services. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-"Clickstream data" is a trail of electronic information that is left at each web site you visit. This information can be collected and stored by a site's server. Clickstream data is used to tell us the type of computer and browsing software you use, the address of the site from which you linked to our site, how much time you spend on each page of our site, how you navigate throughout the site. 
+**Security**
 
-## Other Web Sites
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-The AdFusionMedia.com site may link to advertisers and other sites that collect personal information about you when you leave AdFusionMedia.com, Inc. and that may have privacy policies and practices that are different from ours. This type of collection or use of information is beyond AdFusionMedia.com, Inc.'s control and is not covered by this Privacy Policy. We encourage you to read the privacy policy of every site you visit before providing any information. These sites may send their own cookies to users, collect data, or solicit personal information. Since we do not control these sites; we are not responsible or liable for the privacy practices or content of such sites. 
+**Updating Your Information**
 
-## Security
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-AdFusionMedia.com, Inc. stores all data using industry standard security devices, such as firewalls and encryption protocols, to prevent against unauthorized access to our data. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. We have put in place policies to restrict access to your information by our employees. However, AdFusionMedia.com, Inc. cannot guarantee that your information will be completely protected from unauthorized access and you assume such risk when you use our services. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-## Corrections or Removal of Personal Information
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-This site gives users the following options for changing, modifying or deleting information previously provided. Users can email support@adfusionmedia.com Users can send mail to the following postal address: 
+      iii.      You may call us at: (480) 505-8800
 
-AdFusionMedia.com, Inc.  
-P.O.Box 227  
-Buffalo NY 14213  
-U.S.A. 
+       iv.      You may fax us at: (480) 505-8844
 
-We are not responsible for removing your personal information from the lists of any third party who has been provided your information in accordance with this policy. 
+**Sending Emails**
 
-## Protection for Children
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-This is not a web site directed to children under the age of 13, and AdFusionMedia.com, Inc. does not knowingly collect any information from children under 13 years of age from our website. If you are under 13 years of age, do not send any information about yourself to AdFusionMedia.com, Inc. We have no intention of collecting personal information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child's parent or guardian's consent, we will use all reasonable efforts to delete such information from our database. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-## IP Addresses:
+**Compliance with Laws and Law Enforcement**
 
-An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor’s IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report click data information to our business partners or to audit the number of visits to different pages on our Web Site. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-## Changes to This Privacy Policy
+**Third Party Service Providers**
 
-Our Privacy Policy may change from time to time. Be sure to visit this page frequently to find any updates we have made. Your continued use of the site after such changes have been posted indicates your consent and acceptance of such changes. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-## Effective Date
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-This Privacy Policy is effective and was last updated on May 9th, 2009. 
+**Supplementation of Information**
 
-AdFusionMedia launches new site,   
-May 2009!
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
