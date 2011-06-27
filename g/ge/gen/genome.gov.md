@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220171939id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627191206id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Genome.gov | Web Site Privacy Policy
 
-### Web Site Privacy Policy
+### Website Privacy Policy
 
 Thank you for visiting the National Human Genome Research Institute (NHGRI) Web site. This site does not collect personal information about users, other than information automatically collected and stored when someone visits our Web site, or you choose to provide that information to us (see below).
 
@@ -32,9 +32,6 @@ NHGRI does not disclose, give, sell or transfer any personal information about o
 
 NHGRI's public Web sites comply with P3P (Platform for Privacy Preferences Project) protocols. Our machine-readable P3P policy can be viewed at <http://www.genome.gov/w3c/p3p.xml>. Questions about NHGRI privacy policies should be sent to the NHGRI webmaster at: [Questions and Feedback](https://web.archive.org/10005049).
 
-  
+Top of page
 
-
-* * *
-
-_Last Reviewed: November 4, 2010_
+_Last Reviewed: March 17, 2011_
