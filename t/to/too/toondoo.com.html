@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the toondoo.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226160630id_/http%3A//www.toondoo.com/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toondoo.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627061308id_/http%3A//www.toondoo.com/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -14,7 +14,7 @@
 <script type="text/javascript" src="/tndo_js/jquery.js"></script>
 <script type="text/javascript" src="js/popup.js?time"></script>
 <script src="/js/jquery.cookie.js?time" type="text/javascript"></script>
-<script type="text/javascript" src="/js/ToonDoo.js?time"></script>
+<script type="text/javascript" src="/js/ToonDoo.js?timee"></script>
 <script type="text/javascript" src="/tndo_js/menu.js"></script>
 <script type="text/javascript">
 var userName="";
@@ -423,6 +423,111 @@ font:15px/1.5 Arial,Tahoma,Helvetica,sans-serif;
 }
 
 </style>
+	<style type="text/css">
+
+
+/*------------------POPUPS------------------------*/
+#fade {
+	display: none;
+	background: #000; 
+	position: fixed; left: 0; top: 0; 
+	z-index: 10;
+	width: 100%; height: 100%;
+	opacity: .80;
+	z-index: 9999;
+}
+.popup_block{
+	display: none;
+	background: #fff;
+	padding: 20px; 	
+	border: 20px solid #ddd;
+	float: left;
+	font-size: 1.2em;
+	position: fixed;
+	top: 50%; left: 50%;
+	z-index: 99999;
+	-webkit-box-shadow: 0px 0px 20px #000;
+	-moz-box-shadow: 0px 0px 20px #000;
+	box-shadow: 0px 0px 20px #000;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+img.btn_close {
+	float: right; 
+	margin: -55px -55px 0 0;
+}
+.popup p {
+	padding: 5px 10px;
+	margin: 5px 0;
+}
+/*--Making IE6 Understand Fixed Positioning--*/
+*html #fade 
+{
+	position: absolute;
+}
+*html .popup_block 
+{
+	position: absolute;
+}
+</style>
+<script type="text/javascript">
+	//When you click on a link with class of poplight and the href starts with a # 
+	//$('a.poplight[href^=#]').click(function() {
+	function popbox(boxid,displayData)
+	{
+		var popID = boxid; //Get Popup Name
+		var popURL = "#?w="; //Get Popup href to define size
+		$('#popupdata').html(displayData);
+		//Pull Query & Variables from href URL
+		var query= popURL.split('?');
+		var dim= query[1].split('&');
+		var popWidth = dim[0].split('=')[1]; //Gets the first query string value
+
+		//Fade in the Popup and add close button
+		$('#' + popID).fadeIn().css({ 'width': 'auto' }).prepend('<a href="javascript:void(0)" class="close"><img border="0" src="images/close_pop.png" class="btn_close" title="Close Window" alt="Close" /></a>');
+		
+		//Define margin for center alignment (vertical + horizontal) - we add 80 to the height/width to accomodate for the padding + border width defined in the css
+		var popMargTop = ($('#' + popID).height() + 80) / 2;
+		var popMargLeft = ($('#' + popID).width() + 80) / 2;
+		
+		//Apply Margin to Popup
+		$('#' + popID).css({ 
+			'margin-top' : -popMargTop,
+			'margin-left' : -popMargLeft
+		});
+		
+		//Fade in Background
+		$('body').append('<div id="fade"></div>'); //Add the fade layer to bottom of the body tag.
+		$('#fade').css({'filter' : 'alpha(opacity=80)'}).fadeIn(); //Fade in the fade layer 
+		 
+		
+		//return false;
+	}
+	
+	//Close Popups and Fade Layer
+	$('a.close, #fade').live('click', function() { //When clicking on the close or fade layer...
+	  	$('#fade , .popup_block').fadeOut(function() {
+			$('#fade, a.close').remove();  
+	}); //fade them both out
+		
+		//return false;
+	});
+
+function showUrlInPopup(url)
+{
+	jQuery.ajax(
+	{
+		url : url,
+		success : function (data) 
+		{
+			//alert(data);
+			popbox('popup2',data);
+		}
+	});
+}	
+</script>
+
 
 </head>
 
@@ -432,8 +537,20 @@ font:15px/1.5 Arial,Tahoma,Helvetica,sans-serif;
    
 	  <!-- header starts here -->
 	   		
+<div class="dragalert" id="message" style="width: 300px; height: 20px; background-color:#000; color: black; font-size: 160%; left: 330px; top: 380px; position: absolute; display:none;">
+<span class="white" align="center">&nbsp;&nbsp;:: Message </span>
+<table bgcolor="#000" border="0" cellpadding="0" cellspacing="1" height="100" width="300">
+<tbody><tr><td class="text" bgcolor="#ffffff" align="center">
+&nbsp;<span id="mes"> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 <div id="logo-div"> <a href="/">
-      <div class="logo-a" title="Merry Christmas, from ToonDoo!" style="margin-left:10px;"> <embed height="87px" width="201px" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" id="flashobj" src="/Christmas6A.swf" type="application/x-shockwave-flash"> </div>
+      <div class="logo" title="ToonDoo World's fastest way to create cartoons!" --=""> <!--embed height="87px" width="201px" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" id="flashobj" src="/newyear2011.swf" type="application/x-shockwave-flash"--> </div>
+<!--div class="logo" title="HAPPY VALENTINE'S DAY ToonDooers!" style="margin-left:10px;"> <embed onclick="window.location.href='/'" height="125px" width="201px" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" id="flashobjlogo" src="/valentinesday2011.swf" type="application/x-shockwave-flash"></div-->
       </a> </div>
  <!-- authInclude starts here -->
 		
@@ -520,7 +637,18 @@ font:15px/1.5 Arial,Tahoma,Helvetica,sans-serif;
 	  <!-- authInclude ends here -->
   
       <!-- topnav starts here-->
-		 
+		<!--POPUP START-->
+<!--div id="popup1" class="popup_block" style="text-align:center;">
+   <img src="ignoreall.png" border="0" id="ignore" style="cursor: pointer;">
+</div-->
+<!--popup ends-->
+<!-- POPUP PROCESSING... -->
+<div id="popup2" class="popup_block" style="text-align:left;">
+	<div id="popupdata" style="text-align: left; font-family : Arial,Helvetica,sans-serif; font-size:15px; font-weight: bold;"></div>
+
+</div>
+<!-- END POPUP -->
+ 
 
  
  <div align="center" id="menu-div">
@@ -529,6 +657,7 @@ font:15px/1.5 Arial,Tahoma,Helvetica,sans-serif;
     <ul class="menu">
         <li class="current"><a href="/Latestw.toon" style="background: none;"><span style="background: none; color: rgb(0, 0, 0);">Toons</span></a>
             	<div style="margin-top: 4px; visibility: hidden;"><ul>
+			<li><a href="/createToon.do"><span>Create Toon</span></a></li>
 			<li><a href="/MyToondoo.do"><span>My ToonDoos</span></a></li>
 			<li><a href="/UserFavorites.do"><span>My Favorites</span></a></li>
 			<li><a href="/Latestw.toon"><span>Most Recent</span></a></li>
@@ -543,6 +672,7 @@ font:15px/1.5 Arial,Tahoma,Helvetica,sans-serif;
         </li>
         <li><a href="/LatestBooks.toon" style="background: none;"><span style="background: none; color: rgb(0, 0, 0);">Books</span></a>
         	<div style="margin-top: 4px; visibility: hidden;"><ul>
+			<li><a href="/createBook.do"><span>Create Book</span></a></li>
 			<li><a href="/myBooks.do"><span>My ToonBooks</span></a></li>
 			<li><a href="/LatestBooks.toon"><span>Most Recent</span></a></li>
 			<li><a href="/CheeredBook.toon"><span>Most Popular</span></a></li>
@@ -569,18 +699,30 @@ font:15px/1.5 Arial,Tahoma,Helvetica,sans-serif;
 			<li><a href="/Imaginer.do"><span>ImagineR</span></a></li>
 			<li><a href="/Traitr.do"><span>TraitR</span></a></li>
 			<li><a href="/Doodler.do"><span>DoodleR</span></a></li>
-			<li><a href="/Labelr.do"><span>LabelR</span></a></li>
+			<!--li><a href="/Labelr.do"><span>LabelR</span></a></li-->
+			<li><a href="/Ctmcreator.do"><span>Compleetoon</span></a></li>
 			<li><a href="/WidgeToons.toon"><span>Widget Toons</span></a></li>
 			<li><a href="/Soshiya.toon"><span>Soshiya Map</span></a></li>
 		</ul></div>
         </li>
-        <li><a href="/Contest.toon?param=contest-id-traitr&amp;now=1" style="background: none;"><span style="background: none; color: rgb(0, 0, 0);">Contests</span></a>
-        	<div style="margin-top: 4px; visibility: hidden;"><ul>
+        <!--li><a href="/Contest.toon?param=contest-id-traitr&now=1"><span style="background: none repeat scroll 0% 0% transparent;color:#000;">Contests</span></a>
+        	<div style="margin-top:4px"><ul>
             		<li><a href="/Compleetoon.toon"><span>Compleetoons</span></a></li>
-            		<li><a href="/Contest.toon?param=contest-id-traitr&amp;now=1"><span>Toonament</span></a></li>
+            		<li><a href="/Contest.toon?param=contest-id-traitr&now=1"><span>Toonament</span></a></li>
             		<li><a href="/hallOfFame.toon"><span>Hall Of Fame</span></a></li>
             		<li><a href="/contestArchives.toon"><span>Archives</span></a></li>
             		<li><a href="/suggestContest.toon"><span>Got an Idea?</span></a></li>
+            	</ul></div>
+        </li-->
+<li><a href="/CtmLatestw.toon?ref=ctm" style="background: none;"><span style="background: none; color: rgb(0, 0, 0);">Compleetoons</span></a>
+        	<div style="margin-top: 4px; visibility: hidden;"><ul>
+            		<li><a href="/Ctmcreator.do"><span>Create New</span></a></li>
+            		<li><a href="/myCtms.do"><span>My Collection</span></a></li>
+            		<li><a href="/CtmLatestw.toon?ref=ctm"><span>Most Recent</span></a></li>
+            		<li><a href="/Ctmpopularw.toon?ref=ctm"><span>Most Popular</span></a></li>
+            		<!--li><a href="/hallOfFame.toon"><span>Hall Of Fame</span></a></li>
+            		<li><a href="/contestArchives.toon"><span>Archives</span></a></li>
+            		<li><a href="/suggestContest.toon"><span>Got an Idea?</span></a></li-->
             	</ul></div>
         </li>
         <li><a href="/Shop.toon" style="background: none;"><span style="background: none; color: rgb(0, 0, 0);">Shop</span></a>
@@ -629,12 +771,13 @@ font:15px/1.5 Arial,Tahoma,Helvetica,sans-serif;
                  
                  </a></td>
                 <td width="35%" align="right" class="submenu">
-							<div style="float:right; width:220px;">
+							<div style="float:right; width:250px;">
 <span><a href="/createToon.do?param=openFullWindow" title="ToonDoo Maker" onclick="fullScreenMode('/createToon.do',2); return false;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','../tndo_img/creator_in-h.png',1)"><img src="../tndo_img/creator_in-n.png" name="Image1" width="45" height="31" border="0" id="Image1"></a></span>
 <span><a href="/createBook.do" title="Book Maker" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('book creator','','../tndo_img/book_in-h.png',1)"><img src="../tndo_img/book_in-n.png" name="book creator" width="38" height="31" border="0" id="book creator"></a></span>
 <span><a href="/Traitr.do" title="TraitR" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('traitor','','../tndo_img/traitor_in-h.png',1)"><img src="../tndo_img/traitor_in-n.png" name="traitor" width="34" height="31" border="0" id="traitor"></a></span>
 <span><a href="Imaginer.do" title="ImagineR" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Imaginer','','../tndo_img/imaginer_in-h.png',1)"><img src="../tndo_img/imaginer_in-n.png" name="Imaginer" width="32" height="31" border="0" id="Imaginer"></a></span>
 <span><a href="/Doodler.do" title="DoodleR" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('doodler','','../tndo_img/doodler_in-h.png',1)"><img src="../tndo_img/doodler_in-n.png" name="doodler" width="33" height="31" border="0" id="doodler"></a></span>
+<span><a href="Ctmcreator.do" title="Compleetoon Maker" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Compleetoon Maker','','../tndo_img/ctm_ic2.png',1)"><img src="../tndo_img/ctm_ic1.png" name="Compleetoon Maker" width="45" height="31" border="0" id="Compleetoon Maker"></a></span>
 </div>
 
 
@@ -741,7 +884,7 @@ font:15px/1.5 Arial,Tahoma,Helvetica,sans-serif;
 <!--script src="http://cdn.wibiya.com/Toolbars/dir_0525/Toolbar_525506/Loader_525506.js" type="text/javascript"></script-->
 
   <div class="footerlinks">
-    <div class="lft">© 2010, <a class="f_text" href="http://www.zohocorp.com/"><strong>ZOHO Corp</strong></a>, Inc. All rights reserved.<span class="f_space">|</span><a class="f_text" href="aboutus.jsp"><strong>About us</strong></a><span class="f_space">|</span><a class="f_text" href="contactus.jsp"><strong>Contact us</strong></a><span class="f_space">|</span><a class="f_text" href="termsofuse.jsp"><strong>Terms of use</strong></a><span class="f_space">|</span><a class="f_text" href="ipr_complaints.jsp"><strong>IPR Complaints</strong></a><span class="f_space">|</span><a class="f_text" href="privacypolicy.jsp"><strong>Privacy Policy</strong></a></div>
+    <div class="lft">© 2011 <a class="f_text" href="http://www.zohocorp.com/"><strong>ZOHO Corp</strong></a>, Inc. All rights reserved.<span class="f_space">|</span><a class="f_text" href="aboutus.jsp"><strong>About us</strong></a><span class="f_space">|</span><a class="f_text" href="contactus.jsp"><strong>Contact us</strong></a><span class="f_space">|</span><a class="f_text" href="termsofuse.jsp"><strong>Terms of use</strong></a><span class="f_space">|</span><a class="f_text" href="ipr_complaints.jsp"><strong>IPR Complaints</strong></a><span class="f_space">|</span><a class="f_text" href="privacypolicy.jsp"><strong>Privacy Policy</strong></a></div>
     <div class="rgt">Powered by <a class="f_text" href="http://www.jambav.com"><strong>Jambav</strong></a></div>
   </div>
 </div>
@@ -780,7 +923,7 @@ $.fn.preload = function() {
  
 // Usage: 
  
-$(['tndo_img/Tools/banner/traitr.jpg','tndo_img/Tools/banner/bookmaker.jpg','tndo_img/Tools/banner/creator.jpg','tndo_img/Tools/banner/imaginer.jpg','tndo_img/Tools/banner/doodler.jpg','tndo_img/shop-ad.jpg','tndo_img/toondoo_footerimg.png','tndo_img/t_login-n.png','tndo_img/t_feedback-n.png','tndo_img/menu_img/selected-right.png','tndo_img/menu_img/selected-left.png','tndo_img/menu_img/submenu-selected-bottom.png','tndo_img/menu_img/submenu-selected-top.png','tndo_img/signup_forfree-h.png','tndo_img/signup_forfree-n.png','tndo_img/creator_in-h.png','tndo_img/book_in-h.png','tndo_img/traitor_in-h.png','tndo_img/imaginer_in-h.png','tndo_img/doodler_in-h.png','tndo_img/creator_in-n.png','tndo_img/book_in-n.png','tndo_img/traitor_in-n.png','tndo_img/imaginer_in-n.png','tndo_img/doodler_in-n.png']).preload(); 
+$(['tndo_img/Tools/banner/traitr.jpg','tndo_img/Tools/banner/bookmaker.jpg','tndo_img/Tools/banner/creator.jpg','tndo_img/Tools/banner/imaginer.jpg','tndo_img/Tools/banner/doodler.jpg','tndo_img/shop-ad.jpg','tndo_img/toondoo_footerimg.png','tndo_img/t_login-n.png','tndo_img/t_feedback-n.png','tndo_img/menu_img/selected-right.png','tndo_img/menu_img/selected-left.png','tndo_img/menu_img/submenu-selected-bottom.png','tndo_img/menu_img/submenu-selected-top.png','tndo_img/signup_forfree-h.png','tndo_img/signup_forfree-n.png','tndo_img/creator_in-h.png','tndo_img/book_in-h.png','tndo_img/traitor_in-h.png','tndo_img/imaginer_in-h.png','tndo_img/doodler_in-h.png','tndo_img/creator_in-n.png','tndo_img/book_in-n.png','tndo_img/traitor_in-n.png','tndo_img/imaginer_in-n.png','tndo_img/doodler_in-n.png','tndo_img/loading.gif']).preload(); 
 </script>
 <script src="http://cdn.wibiya.com/Toolbars/dir_0525/Toolbar_525506/Loader_525506.js" type="text/javascript"></script>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -790,6 +933,7 @@ var _uacct;
 var _uacct = "UA-312690-10";
 urchinTracker();
 </script>
+
 <!-- footer ends here -->
 
 
