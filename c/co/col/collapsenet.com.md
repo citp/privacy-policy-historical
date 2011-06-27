@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collapsenet.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215154540id_/http%3A//www.collapsenet.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1041%26Itemid%3D86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collapsenet.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627202544id_/http%3A//collapsenet.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | COLLAPSENET
 
