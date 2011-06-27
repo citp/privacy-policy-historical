@@ -1,56 +1,90 @@
-> *The following text is extracted and transformed from the scoopler.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921210313id_/http%3A//www.scoopler.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopler.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051024id_/http%3A//www.justspotted.com/privacy) for the most accurate reproduction.*
 
-# Scoopler.com - Privacy Policy
+# JustSpotted.com - Your favorite celebrities are right here
 
-| 
+##  Privacy Policy
 
-It is Scoopler's policy to respect your privacy regarding any information we may collect while operating our website.
+Effective Date: October 18, 2010.
 
-  
+Scoopler, Inc. (“Scoopler,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Scoopler when you use the Scoopler Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use [link].
 
+## Information We Collect
 
-### Website Visitors
+**User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, if you register for a Member account with the Service (including by “following,” “becoming a fan,” adding the Scoopler application, or connecting your account through a third party website or network). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service and we may store a list of your favorite celebrities.
 
-Like most website operators, Scoopler collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Scoopler's purpose in collecting non-personally identifying information is to better understand how Scoopler's visitors use its website. From time to time, Scoopler may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+**Cookies Information:** When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Scoopler help you log in faster and enhance your navigation through the site. A cookie may also convey information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-Scoopler also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Scoopler does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
 
-  
+**Clear Gifs Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Scoopler better for our users.
 
+**Third Party Services:** Scoopler uses [third party analytics service] to help understand use of the Service. [Third party analytics service] collects the information sent by your browser as part of a web page request, including cookies and your IP address. [Third party analytics service] also receives this information and their use of it is governed by their Privacy Policy.
 
-### Gathering of Personally-Identifying Information
+## How We Use Your Information
 
-Certain visitors to Scoopler's websites choose to interact with Scoopler in ways that require Scoopler to gather personally-identifying information. The amount and type of information that Scoopler gathers depends on the nature of the interaction. For example, we ask visitors who register and login at Scoopler to provide a valid email address. Those who engage in transactions with Scoopler - by registering, for example - are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Scoopler collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Scoopler. Scoopler does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. 
 
-  
+By providing Scoopler your email address (including by “following,” “becoming a fan,” adding the Scoopler application, or connecting your account through a third party website or network), you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your [name settings page]. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. 
 
+If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. Scoopler stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at privacy@scoopler.com.
 
-### Aggregated Statistics
+Scoopler may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.
 
-Scoopler may collect statistics about the behavior of visitors to its websites. For instance, Scoopler may monitor the most popular parts of the Scoopler site, and log page views. Scoopler may display this information publicly or provide it to others. However, Scoopler does not disclose personally-identifying information other than as described below.
+By posting any User Content on the Service, you expressly grant, and you represent and warrant that you have a right to grant, to Scoopler a royalty-free, sublicensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such User Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service.
 
-  
+Scoopler reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. Scoopler also reserves the right to remove information upon the request of any third party.
 
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with
 
-### Protection of Certain Personally-Identifying Information
+certain IP addresses; (f) help you efficiently access your information after you sign in; and (h) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act; and (i) automatically update the Scoopler application on your system and related devices.
 
-Scoopler discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Scoopler's behalf or to provide services available at Scoopler's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Scoopler's websites, you consent to the transfer of such information to them. Scoopler will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Scoopler discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Scoopler believes in good faith that disclosure is reasonably necessary to protect the property or rights of Scoopler, third parties or the public at large. If you are a registered user of a Scoopler website and have supplied your email address, Scoopler may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Scoopler and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Scoopler takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+## How We Share Your Information
 
-  
+**Personally Identifiable Information:** Scoopler will not rent or sell your personally identifiable information to others. Scoopler may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Scoopler (for instance, on servers or databases co-located with hosting providers). We may share your personally identifiable information with your favorite celebrities so that they or their agents can contact you directly with updates and information.
 
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
 
-### Cookies
+Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, [insert how to change privacy settings]. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Scoopler uses cookies to help Scoopler identify and track visitors, their usage of Scoopler website, and their website access preferences. Scoopler visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Scoopler's websites, with the drawback that certain features of Scoopler's websites may not function properly without the aid of cookies.
+From time to time, we may run contests, special offers, or other events or activities (“Events”) on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
-  
+Except as otherwise described in this Privacy Policy, Scoopler will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use [link], take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Scoopler, our Users or others.
 
+**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Scoopler services.
 
-### Privacy Policy Changes
+Scoopler may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Scoopler. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Scoopler does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Scoopler to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [link to policy and opt-out for relevant advertiser, e.g. http://www.google.com/privacy_ads.html for Google or http://networkadvertising.org/managing/opt_out.asp for a number of advertisers including Google]. The Scoopler Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
-Although most changes are likely to be minor, Scoopler may change its Privacy Policy from time to time, and in Scoopler's sole discretion. Scoopler encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+## How We Protect Your Information
 
-  
+Scoopler cares about the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Scoopler or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of Scoopler’s distributors, such as social networks. Scoopler is not responsible for the functionality or security measures of any third party.
 
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Scoopler, at all times.
 
-| 
+## Compromise of Personal Information
+
+In the event that personal information is compromised as a result of a breach of security, Scoopler will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
+
+## Your Choices About Your Information
+
+You may, of course, decline to submit personally identifiable information through the Service, in which case Scoopler may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account and [describe how to change]. You can review and correct the information about you that Scoopler keeps on file by contacting us directly at support@scoopler.com. 
+
+## Children's Privacy
+
+Protecting the privacy of young children is especially important. For that reason, Scoopler does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Scoopler. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@scoopler.com. 
+
+## Links to Other Web Sites
+
+We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding. 
+
+## Notification Procedures
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by Scoopler in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
+
+## Changes to Our Privacy Policy 
+
+If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@scoopler.com, or send mail to:
+
+Scoopler, Inc.  
+2140 Taylor Street, Suite 1202  
+San Francisco, CA 94133  
+
