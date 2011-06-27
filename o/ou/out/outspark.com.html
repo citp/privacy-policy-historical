@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the outspark.com privacy policy that was archived on 2010-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216211303id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outspark.com privacy policy that was archived on 2011-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627112352id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 	<title>Outspark - MMO, RPG, RTS, Play best free online games at Outspark</title>
@@ -13,7 +13,7 @@
 	<meta name="google-site-verification" content="ag1QcV9iL086IcEHin8DRL73iL31AApoVJATy97u5dM">
 	<link rel="shortcut icon" href="http://cdn2.outspark.com/images/favicon.ico" type="image/x-icon">
 	
-	<link rel="stylesheet" type="text/css" href="http://www.outspark.com/css/style.css?v=0.16.37">
+	<link rel="stylesheet" type="text/css" href="http://www.outspark.com/css/style.css?v=0.16.46">
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.7.0/build/assets/skins/sam/skin.css">
 		<!--[if IE 7]>
 		<link href="http://www.outspark.com/css/style_ie7.css" type="text/css" rel="stylesheet" />
@@ -25,10 +25,10 @@
 		//document.domain = 'outspark.com';
 		var OSK = OSK || {}; OSK.app = {};
 		OSK.app.name = 'Portal';
-		OSK.app.version = '0.16.37';
-		OSK.t0 = new Date(1292533983 * 1000);
+		OSK.app.version = '0.16.46';
+		OSK.t0 = new Date(1309173831 * 1000);
 		OSK.user = 0;
-		OSK.rand = 'b3d3cb266140e285685d6073f2199100';			</script>	
+		OSK.rand = '68fc4e22c07124b8a87860f2f08b9d83';			</script>	
 	<link rel="stylesheet" type="text/css" href="https://static.outspark.com/gnb/full/gnb.css?v=1.7.36">
 <script type="text/javascript">
 	if (typeof OSK == 'undefined') {
@@ -68,7 +68,7 @@ var gnb = function (obj) {
 	// Makes sure this method is only called once
 	if (!triggered) {
 		// connect to XMPP
-		OSK_coreXmpp.connect();
+		//OSK_coreXmpp.connect();
 		triggered++;
 	}
 
@@ -396,6 +396,9 @@ function osk_xmpp() {
 								</p>
 							</div>
 						</fieldset>
+					<div id="login_profiling">
+        		                </div>
+	                	        <input type="hidden" id="login_session_id" name="login_session_id" value="">
 					</form>
 				</div>
 				<div class="overlay-right-ft" style="float:right;width: 300px;height: 10px;"></div>
@@ -488,6 +491,7 @@ function osk_xmpp() {
 		<!-- start of registration div -->
 		<div class="reg">
 			<div class="reg-chrome">
+			<div id="tm_error" class="tmerror"> </div>
 			<form id="reg-form" action="/common/gnb/gnbUserActions.php" method="post">
 				<ul class="errors">
 				</ul>
@@ -577,7 +581,8 @@ function osk_xmpp() {
 
 						<select tabindex="8" id="year" name="dob_year">
 							<option>- Year -</option>
-																								<option value="2005">2005</option>
+																								<option value="2006">2006</option>
+																																<option value="2005">2005</option>
 																																<option value="2004">2004</option>
 																																<option value="2003">2003</option>
 																																<option value="2002">2002</option>
@@ -642,7 +647,6 @@ function osk_xmpp() {
 																																<option value="1943">1943</option>
 																																<option value="1942">1942</option>
 																																<option value="1941">1941</option>
-																																<option value="1940">1940</option>
 																					</select>
 					</p><!--/date of birth-->
 
@@ -661,6 +665,9 @@ function osk_xmpp() {
 						<input tabindex="11" type="submit" id="reg-submit" class="clickable" value="Sign Up" title="Sign Up" name="register_submit">
 											</p>
 				</div>
+			<div id="reg_profiling">
+			</div>
+			<input type="hidden" id="reg_session_id" name="reg_session_id" value="">
 			</form>
 			</div>
 			<div class="reg-chrome-ft"></div>
@@ -755,11 +762,7 @@ function osk_xmpp() {
 	var protocol = window.location.protocol;
 	document.write(unescape('%3cscript type="text/javascript" src="'+protocol+'//connect.facebook.net/en_US/all.js"%3E%3C/script%3E'));
 </script><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
-<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/mustache.js?v=1.7.36"></script>
-<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/lib.jquery.js?v=1.7.36"></script>
-<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/jquery.form.js?v=1.7.36"></script>
-<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/jquery-ui.js?v=1.7.36"></script>
-<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/marquee-min.js?v=1.7.36"></script>
+<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/jquery-ui-marquee-form-tmpl-mustache.js?v=1.7.36"></script>
 <script type="text/javascript" src="https://static.outspark.com/gnb/common/js/lib.js?v=1.7.36"></script>
 
 <script type="text/javascript" src="https://static.outspark.com/gnb/common/js/osk.common.js?v=1.7.36"></script>
@@ -772,11 +775,9 @@ function osk_xmpp() {
 				OSK.module.AuthController.verifyFbUserInfo();
 			}
 		}, {perms:'read_stream,publish_stream,offline_access'});
-			
-
 	}
 	YAHOO.util.Event.onContentReady('gnb-wrap', function() {
-		var login_button = YAHOO.util.Dom.getElementsByClassName('facebook-login-bttn');	
+		var login_button = YAHOO.util.Dom.getElementsByClassName('facebook-login-bttn');
 		var logout_button = YAHOO.util.Dom.getElementsByClassName('gnb-logout-bttn').shift();
 		YAHOO.util.Event.addListener(login_button, 'click', function(evt) {
 			YAHOO.util.Event.preventDefault(evt);
@@ -789,18 +790,6 @@ function osk_xmpp() {
 // TODO: add listener for logout as well as fb:logout method call	
 </script>
 <!-- begin Ares -->
-<script type="text/javascript">
-  var OSK_XMPP = new osk_xmpp();
-  OSK_XMPP.host = 'www.outspark.com';
-  OSK_XMPP.jid = '' + '@' + 'xmpp-aws.outspark.com';
-  OSK_XMPP.pass = '';                   
-  OSK_XMPP.pubsub_component = 'pubsub.' + 'xmpp-aws.outspark.com';    
-  OSK_XMPP.pubsub_admin_node = 'admin.node'; 
-  OSK_XMPP.osk_logged_in = 0;
-</script>
-<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/strophe.js?v=1.7.36"></script>
-<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/strophe.pubsub.js?v=1.7.36"></script>
-<script type="text/javascript" src="https://static.outspark.com/gnb/common/js/baseXmpp.js?v=1.7.36"></script>
 <div class="xmpp-message-container"></div>
 <!-- end Ares -->
 <div id="gnb-wrap" class="clearfix">
@@ -818,12 +807,14 @@ function osk_xmpp() {
 				<div id="game-list-sub" class="gnb-sub">
 				<ul class="link-list">
 							<li class="first"><a href="http://fiesta.outspark.com/landing">Fiesta</a></li>
-							<li><a href="http://solstice.outspark.com">Secret of the Solstice</a></li>
 							<li><a href="http://projectpowder.outspark.com">Project Powder</a></li>
 							<li><a href="http://windslayer.outspark.com">Wind Slayer</a></li>
 							<li><a href="http://divinesouls.outspark.com">Divine Souls</a></li>
-							<li><a href="http://erebus.outspark.com">Erebus</a></li>
 							<li><a href="http://fu.outspark.com/community">Fists of Fu</a></li>
+							<li><a href="http://reborn.outspark.com">Solstice Reborn</a></li>
+							<li><a href="http://heroicreign.outspark.com">Heroic Reign</a></li>
+							<li><a href="http://sevendragons.outspark.com">Seven Dragons</a></li>
+							<li><a href="http://luvinia.outspark.com/">Luvinia</a></li>
 		     					
 					<li class="point"><a href="http://outspark.com/games/minigames">Browser Games</a></li>
 				</ul>
@@ -834,7 +825,7 @@ function osk_xmpp() {
 				<div id="game-list-sub" class="gnb-sub">
 					<ul class="link-list">
 						<li><a href="http://store.outspark.com/fiesta">Fiesta</a></li>
-						<li><a href="http://store.outspark.com/solstice">Secret of the Solstice</a></li>
+						<li><a href="http://store.outspark.com/reborn">Solstice Reborn</a></li>
 						<li><a href="http://store.outspark.com/portal">Portal</a></li>
 						<li><a href="http://store.outspark.com/projectpowder">Project Powder</a></li>
 						<li><a href="http://store.outspark.com/windslayer">Wind Slayer</a></li>
@@ -889,8 +880,8 @@ function osk_xmpp() {
 			<li id="gnb-campaign-message"><p><strong>Play free games and make friends in the Virtual Playground!</strong>
 			<a href="http://register.outspark.com/">Join Now</a></p></li>
 			<li id="gnb-time">
-				<span id="clock" title="2010-12-16T13:13:03-08:00">1:13:03 PM, Dec, 16 (PST)</span>
-                <script type="text/javascript" charset="utf-8">OSK_Clock.init('Thu, 16 Dec 2010 13:13:03','clock',1000, 'PST');</script>
+				<span id="clock" title="2011-06-27T04:23:51-07:00">4:23:51 AM, Jun, 27 (PDT)</span>
+                <script type="text/javascript" charset="utf-8">OSK_Clock.init('Mon, 27 Jun 2011 04:23:51','clock',1000, 'PDT');</script>
 			</li>
 		</ul>
 		<script type="text/javascript">gnb('gnb-user-info2');</script>
@@ -971,7 +962,7 @@ function osk_xmpp() {
 	
 	<b>California Privacy Rights</b><br>
 	
-	<p style="padding: 10px 10px 10px 10px;">Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Outspark who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at California Privacy Rights, Outspark, Inc, 660 3rd Street #302, San Francisco, CA 94107 or email to <a href="mailto:finance@outspark.com">finance@outspark.com</a></p> 
+	<p style="padding: 10px 10px 10px 10px;">Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Outspark who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at California Privacy Rights, Outspark, Inc, 434 Brannan Street, Suite 100, San Francisco, CA 94107 or email to <a href="mailto:finance@outspark.com">finance@outspark.com</a></p> 
 	
 	<b>How to Contact Us</b><br>
 	<p style="padding: 10px 10px 10px 10px;">While we strive for error free performance, we cannot always catch an unintended privacy issue. As a result, we encourage your questions and comments about any privacy concerns. Please direct them to us by an email to privacy@outspark.com or through regular mail to: OUTSPARK, Inc. c/o Privacy Officer, PO Box 77264, San Francisco, CA 94107 USA.</p>
@@ -998,19 +989,18 @@ function osk_xmpp() {
 			<span><a href="http://oracle.outspark.com"><img src="https://static.outspark.com/gnb/common/img/social_ourblog.gif" alt="Our blog" width="32" height="32"></a></span>
 			<span><a href="http://www.youtube.com/outspark"><img src="https://static.outspark.com/gnb/common/img/social_youtube.gif" alt="YouTube" width="32" height="32"></a></span>
         </ul>
-        <div id="copy">© 2010 OUTSPARK.com. All Rights Reserved.</div>
+        <div id="copy">© 2011 OUTSPARK.com. All Rights Reserved.</div>
     </div>
 	<!-- Footer Pixels -->
 <div style="visibility:hidden;height:0;width:0;">
 	</div>
 <!--// Footer Pixels --></div>
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script><script>var Meebo = {exec:function(){Meebo._.push(arguments)},_:[]};</script><script>var meeboLoad = function(){Meebo.exec('makeAllSharable',{minWidth:300,minHeight:300});};YAHOO.util.Event.onDOMReady(meeboLoad);</script><div id="meebo" style="display:none"><iframe id="meebo-iframe" src="/meebo.html?network=outspark"></iframe></div>
 	<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.7.0/build/utilities/utilities.js&amp;2.7.0/build/container/container-min.js&amp;2.7.0/build/resize/resize-min.js&amp;2.7.0/build/imagecropper/imagecropper-min.js&amp;2.7.0/build/json/json-min.js&amp;2.7.0/build/selector/selector-min.js"></script>	
 	<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.7.0/build/yahoo-dom-event/yahoo-dom-event.js&amp;2.7.0/build/element/element-min.js&amp;2.7.0/build/tabview/tabview-min.js"></script>
 		
 
-		<script type="text/javascript" src="http://www.outspark.com/js/osk.portal.js?v=0.16.37"></script>
+		<script type="text/javascript" src="http://www.outspark.com/js/osk.portal.js?v=0.16.46"></script>
 
 		<script type="text/javascript" src="http://cetrk.com/pages/scripts/0010/0286.js"> </script>
 	<script type="text/javascript">
