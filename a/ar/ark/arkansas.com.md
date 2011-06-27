@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221182752id_/http%3A//www.arkansas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627184659id_/http%3A//www.arkansas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,4 +81,4 @@ All personally identifiable information.
 
 ## Did you know?
 
-**Umpire** – _Umpire, AR_ : This is a very peaceful place to camp. There is a small creek that meanders through the campsites, offering a cool place to rest your feet and a great ambiance! It's great for swimming in the summer. 
+**Witts Springs** \-- _Witts Springs, AR_ : We have had at least 1000 or more people attend our parade. We have vendors, music, we have a huge cookout by our local EH club and then around 5pm our Volunteer Firefighters have a fish dinner. [Learn More ... ](http://www.arkansas.com/calendar/event_detail.asp?id=4903 "Learn more about: Hillbilly Daze")
