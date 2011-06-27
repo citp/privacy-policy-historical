@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searsportrait.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228150722id_/http%3A//searsportrait.com/cpi/en-US/global/MinorFooterNav/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searsportrait.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628003906id_/http%3A//searsportrait.com/cpi/en-US/global/MinorFooterNav/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - searsportrait.com
 
