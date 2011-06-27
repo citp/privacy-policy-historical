@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227133806id_/http%3A//www.connectionsacademy.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627152146id_/http%3A//www.connectionsacademy.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,3 +55,5 @@ The Website contains links to other websites or other resources that are provide
 ## Contact Information
 
 If you have any questions regarding this Privacy Policy, please contact us by email at [legal@connectionsacademy.com](mailto:legal@connectionsacademy.com). Please note that email communications will not necessarily be secure. Accordingly, you should not include credit card information or other sensitive information in your email correspondence with us. 
+
+1001 Fleet Street, 5th Floor, Baltimore, MD 21202 | 800-382-6010
