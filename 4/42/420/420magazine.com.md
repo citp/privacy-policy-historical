@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 420magazine.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225025225id_/http%3A//www.420magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 420magazine.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627034708id_/http%3A//www.420magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : 420 MAGAZINE
 
