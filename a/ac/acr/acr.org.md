@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acr.org privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002110549id_/http%3A//www.acr.org/SiteFooter/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acr.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627144211id_/http%3A//www.acr.org/SiteFooter/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
