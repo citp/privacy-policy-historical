@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227122911id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627115638id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Don't miss a deal, [subscribe to Faithful Provisions daily email](http://bit.ly/wwsgdfeedburner). Use my [Category Page](http://bit.ly/wwsgdcatpg) to help you find what you are looking for. New to couponing? Check out my [Getting Started](http://bit.ly/wwsgd-gettingstarted) page. Thanks for visiting!
 
 Your privacy is very  important to me and I will respect the information that you submit to me in order to enter the giveaways that I host or subscribe to on Faithful Provisions (Hancock Group LLC). This blog does not collect information from minors, only from adults ages 18 and above. I will never give or sell your email address to anyone. This blog is hosted by Uncorrupted, and their privacy policy is [here](http://uncorrupted.net/legal/).
 
@@ -31,4 +29,4 @@ AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
 Please contact me by email if you have any questions about these policies.
 
-[](http://faithfulprovisions.com/about/privacy-policy/?pfstyle=wp)
+{ [0 comments](http://faithfulprovisions.com/about/privacy-policy/#comments) } 
