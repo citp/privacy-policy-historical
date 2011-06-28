@@ -1,23 +1,28 @@
-> *The following text is extracted and transformed from the transport.wa.gov.au privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226071717id_/http%3A//transport.wa.gov.au/aboutus/19535.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.wa.gov.au privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628093647id_/https%3A//www.transport.wa.gov.au/aboutus/19535.asp) for the most accurate reproduction.*
 
 # Privacy statement
 
-as at 15 May 2008 
+The Department is committed to protecting your privacy when we plan and implement our activities both online and offline. Find out about our privacy statement here.
 
-The Department is committed to protecting your privacy when we plan and implement our activities both online and offline. 
+### Index
 
-In certain areas of the website, we may ask you to provide user information by registering for the website or participating in surveys. The features of the website where User Information is collected are explained below:
+  * Information collected
+  * Use of information collected
+  * Access to information collected
+  * Links to third party websites
+
+
 
 ## Information collected
 
 When you look at this website, our web server makes a record of your visit and logs the following information for statistical purposes: 
 
-  * the user's server address, 
-  * the user's top level domain name (eg. .com, .gov, .au, .uk etc.), 
-  * the date and time of the visit to the site, 
-  * the pages accessed and documents downloaded, 
-  * the previous site visited, and 
-  * the type of browser used.
+  * The user's server address 
+  * The user's top level domain name (eg. .com, .gov, .au, .uk etc.) 
+  * The date and time of the visit to the site 
+  * The pages accessed and documents downloaded 
+  * The previous site visited 
+  * The type of browser used.
 
 
 
@@ -26,10 +31,6 @@ Our statistics provider uses cookies to monitor your use of our website. Individ
 This information about your use is only analysed on a bulk basis for broad demographic content. Individual use is not analysed.
 
 If you use the website to complete an online application form, we will only collect the information contained in that application form if you submit the form to us. If you log out of the website or cancel the application prior to submitting the form, the information you had entered will be automatically deleted.
-
-## Access to information collected
-
-You can request access to the information we have collected from you if you have any concerns about the accuracy or extent of that information.
 
 ## Use of information collected
 
@@ -40,6 +41,10 @@ We will only record your e-mail address if you send us a message. Your e-mail ad
 We will not use or disclose information collected about you other than for a purpose made known to you, a purpose you would reasonably expect, a purpose required, authorised or permitted by or under any law, or a purpose otherwise authorised by you.
 
 If you tell us you do not wish to have your personal information used for a particular purpose, we will respect your wishes.
+
+## Access to information collected
+
+You can request access to the information we have collected from you if you have any concerns about the accuracy or extent of that information. 
 
 ## Links to third party websites
 
