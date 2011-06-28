@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211301id_/https%3A//www.arin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628183538id_/https%3A//www.arin.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+Your IP address could not be determined at this time.
 
 #### Version 2.0, Effective Date: 4 October 2008
 
@@ -16,7 +18,7 @@ We collect and store general characteristics of the users of ARIN services, incl
 
 ### Collection of Voluntarily Submitted Data
 
-ARIN provides services that may require collection of personally identifiable information about you and each organization on whose behalf you have the legal authority to act (each an "Authorized Organization"). In using the Site or ARIN's services, including but not limited to Internet resource applications, the membership application form, the meeting registration system, survey forms and resource-related systems (collectively, the "Services"), you may be asked to provide personally identifiable information, including but not limited to name, postal address, phone and fax numbers, e-mail addresses, business tax identification numbers, financial information, and business plans. If you choose to use the Services and submit personally identifiable information about yourself or an Authorized Organization, ARIN may collect and link general user characteristics to this information. We collect, retain and use this information only to the extent we reasonably believe necessary to administer our business, provide the requested Services, protect the integrity of our business practices and secure our systems from unauthorized or abusive access.  ****
+ARIN provides services that may require collection of personally identifiable information about you and each organization on whose behalf you have the legal authority to act (each an "Authorized Organization"). In using the Site or ARIN's services, including but not limited to Internet resource applications, the membership application form, the meeting registration system, survey forms and resource-related systems (collectively, the "Services"), you may be asked to provide personally identifiable information, including but not limited to name, postal address, phone and fax numbers, email addresses, business tax identification numbers, financial information, and business plans. If you choose to use the Services and submit personally identifiable information about yourself or an Authorized Organization, ARIN may collect and link general user characteristics to this information. We collect, retain and use this information only to the extent we reasonably believe necessary to administer our business, provide the requested Services, protect the integrity of our business practices and secure our systems from unauthorized or abusive access.  ****
 
 ### Mailing Lists, Wikis and Public Forums 
 
@@ -58,7 +60,7 @@ Unauthorized attempts to access, modify, add or delete any information on or thr
 
 ### Compliance and Questions
 
-You can submit questions about this Policy or compliance issues to ARIN by sending an e-mail to [compliance@arin.net](mailto:compliance@arin.net). Please specify "Privacy Policy" in the subject line of your e-mail message.
+You can submit questions about this Policy or compliance issues to ARIN by sending an email to [compliance@arin.net](mailto:compliance@arin.net). Please specify "Privacy Policy" in the subject line of your email message.
 
 ### Changes to the Policy
 
