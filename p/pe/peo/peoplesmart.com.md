@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2010-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100909110307id_/http%3A//www.peoplesmart.com/%3F_act%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628222715id_/http%3A//www.peoplesmart.com/%3F_act%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - PeopleSmart
 
@@ -6,9 +6,9 @@
 
 [Click here](http://www.peoplesmart.com/?_act=principles) to learn more about how we protect your privacy and how to manage your information in our databases.
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.peoplesmart.com/seal_m "Validate TRUSTe privacy certification")
-
 ## TRUSTe
+
+[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.peoplesmart.com/seal_m "Validate TRUSTe privacy certification")
 
 PeopleSmart.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
@@ -49,7 +49,7 @@ In an effort to protect against fraud and misuse of our Website and Services, we
 ## Cookies
 
   * We may set and access our cookies on your computer.
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please Click Here. page and submit the requested information. Please allow 1 to 14 business days for processing your request.
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 
 
@@ -60,3 +60,5 @@ If you have questions or concerns regarding this policy, you should contact us b
 Privacy Department  
 P.O. Box 391146  
 Omaha, NE 68139
+
+(Please do not write to us for opt-out requests, but instead use our [online form](http://www.peoplesmart.com/?_act=optout).)
