@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121215818id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628051753id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy — Established Men
+# Privacy Policy - Established Men
 
 ## Privacy Statement
 
@@ -72,7 +72,7 @@ Established Men, our affiliates and our channel partners do not send unsolicited
 
 ### Do you monitor online behavior?
 
-Our users communicate with each other through on-site Mail Messaging and Instant Messaging. While we do not, as a rule, moderate or monitor advertisers' Member’s private exchanges, we reserve the right to do so if we suspect users of being under the age of 18 or of using our service for the purpose of solicitation or any other violation of our Terms & Conditions or Privacy Statement. Submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
+Our users communicate with each other through on-site Mail Messaging and Instant Messaging. While we do not, as a rule, moderate or monitor advertisers Members private exchanges, we reserve the right to do so if we suspect users of being under the age of 18 or of using our service for the purpose of solicitation or any other violation of our Terms & Conditions or Privacy Statement. Submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
 
 ### Affiliates
 
@@ -92,7 +92,7 @@ The Canadian government has enacted the Personal Information Protection and Elec
 
 ### California Privacy Rights
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Established Men for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice. 
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Established Men for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice. 
 
 To contact us concerning Privacy issues, please use the [Contact Form](https://web.archive.org/contact_us "Contact Form"). All other inquiries should be sent using our [Contact Us](https://web.archive.org/contact_us "Contact Us") section.
 
