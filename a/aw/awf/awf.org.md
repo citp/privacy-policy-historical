@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227083838id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628155701id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
 
 # AWF: Privacy Policy
 
@@ -42,7 +42,7 @@ In addition, any member or donor may opt out of AWF list sharing at any time by 
 
 Send us an email or postal mail as follows:
 
-Email to: [webmaster@awf.org](mailto:webmaster@awf.org)
+Email to: [africanwildlife@awf.org](mailto:africanwildlife@awf.org)
 
 Send postal mail to:
 
@@ -63,7 +63,7 @@ In your letter or email, make sure to give us your:
 
 Complaint Procedure:
 
-If you suspect that we have handled your personal information in a manner that doesn't comply with the Privacy Policy, please contact us by e-mailing an explanation to [webmaster@awf.org](mailto:webmaster@awf.org)
+If you suspect that we have handled your personal information in a manner that doesn't comply with the Privacy Policy, please contact us by e-mailing an explanation to [africanwildlife@awf.org](mailto:africanwildlife@awf.org)
 
 Internet Protocol Address:
 
