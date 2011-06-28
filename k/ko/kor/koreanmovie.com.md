@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreanmovie.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202163056id_/http%3A//www.koreanmovie.com/help/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreanmovie.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628163038id_/http%3A//www.koreanmovie.com/help/privacy_policy.asp) for the most accurate reproduction.*
 
 # Korean News, Movies, Dramas, Actors, Actress Search Result Page - koreanmovie.com
 
