@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229134325id_/http%3A//appnexus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628200128id_/http%3A//www.appnexus.com/legal/privacy.php) for the most accurate reproduction.*
 
 # AppNexus: Privacy Statement
 
@@ -96,5 +96,5 @@ For questions or concerns relating to privacy, please send us an email at [adnxs
 
 **AdNexus Privacy Officer**  
 AppNexus, Inc.  
-37 E 18th St, 8th Floor  
-New York, NY 10003 
+28 West 23rd Street, 5th Floor  
+New York, NY 10010 
