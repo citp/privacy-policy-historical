@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomstays.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224063713id_/http%3A//www.roomstays.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomstays.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628103349id_/http%3A//www.roomstays.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - RoomStays.com
 
@@ -13,6 +13,7 @@ Privacy is extremely important to us. To give you better protection of your priv
   * RoomStays.com will be using the information that you are providing about yourself in order to enhance or improve the RoomStays.com website and make it as customer friendly as much as possible. We want to know you better to be able to make our services as best as possible. We do not desire to invade your life. There may be circumstances where we will be asking for a little bit more information about your travel interests and inclinations, but these are just performed to enhance our services. In the future, these information may be used by the company to make better travel recommendations that would suit your taste. However, these information is optional and you can choose not to provide it.
   * Email for email newsletters
   * The contact information you are asked to provide is needed in order to make all lines of communication open in the event that possible difficulties or other obstacles are faced during the processing of your requests or product order. In some instances, actual paper tickets may need to be mailed to you. Take note that the easier we are able to contact you, the better we can give you service.
+  * If you would like to opt out of future emails, please unsubscribe securely at <https://www.roomstays.com/unsubscribe/>
 
 
 
