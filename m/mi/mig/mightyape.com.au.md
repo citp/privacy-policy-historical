@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightyape.com.au privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228210033id_/http%3A//www.mightyape.com.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyape.com.au privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628205149id_/http%3A//www.mightyape.com.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Help - Privacy Policy at Mighty Ape Australia
 
@@ -26,7 +26,13 @@ Mighty Ape operates the website [www.mightyape.com.au](http://www.mightyape.com.
 
 ### What else we do with personally identifiable information
 
-We have collected this information in order to provide the best possible service to you while you are visiting our site. To this end we may use the information that you provide for the following purposes: 1.To verify your identity if you need help with a forgotten password or you are having login problems with one of our site services. 2. To process any transactions that you might make on our site. 3. To help provide any other services that you have requested. 4. To offer the most relevant information suitable to you and your interests. 5. For any marketing, promotional, publicity, marketing or market research that we might undertake. 6. For any other purposes for which you have given permission.
+We have collected this information in order to provide the best possible service to you while you are visiting our site. To this end we may use the information that you provide for the following purposes:  
+1.To verify your identity if you need help with a forgotten password or you are having login problems with one of our site services.  
+2. To process any transactions that you might make on our site.  
+3. To help provide any other services that you have requested.  
+4. To offer the most relevant information suitable to you and your interests.  
+5. For any marketing, promotional, publicity, marketing or market research that we might undertake.  
+6. For any other purposes for which you have given permission.
 
 ### What about cookies?
 
