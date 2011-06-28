@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialjustice.nic.in privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225183655id_/http%3A//www.socialjustice.nic.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialjustice.nic.in privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628115056id_/http%3A//socialjustice.nic.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Ministry of Social Justice and Empowerment, Government of India
 
