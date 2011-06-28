@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228080357id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628075447id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
 
 # Linking to Utah.gov - Utah.gov
 
-## Privacy Policy Statement
+### Privacy Policy Statement
 
 Version 3.2  
 September 2010
@@ -15,7 +15,7 @@ The State of Utah (State) is committed to protecting the privacy of those access
 
 This privacy policy statement applies to all State executive branch agency Web sites except those administered by the State Board of Education, the Board of Regents, institutions of higher education, and except as described below in the section called “State Agency Privacy Policies and How They Relate to This Policy.”
 
-[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20101228080357id_/http%3A//www.utah.gov/hb25.html)
+[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20110628075447id_/http%3A//www.utah.gov/hb25.html)
 
 ### Definition of Personally Identifiable Information
 
@@ -44,7 +44,7 @@ The following information may be automatically collected and retained if you loo
 
 
 
-The data collected serve as part of our statistical analysis about the use of our Web sites so we may better design online services and improve access to them. We do not attempt to gain personally identifiable information about individual users and associate it with IP addresses unless explicitly stated as part of a government agency service. The State does not use the information automatically collected to ascertain your personally identifiable information.
+The data collected serve as part of our statistical analysis about the use of our Web sites so we may better design online services and improve access to them. We do not attempt to gain personally identifiable information about individual users and associate it with IP addresses unless explicitly stated as part of a government agency service. The State does not use the information automatically collected to ascertain your personally identifiable information. The State of Utah may detect user IP addresses for providing location based user information and services. The State does not maintain or collect user IP addresses, or disclose such addresses to any third parties.
 
 Except where specified, you do not have to provide personally identifiable information to visit or download information from State Web sites. Unless you choose to make your personally identifiable information available to us, the State does not collect such information from you. The State does not use or place spyware on your computer. Be aware that government agencies may request personally identifiable information from you in order to perform requested specialized services.
 
