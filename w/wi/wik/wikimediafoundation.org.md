@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222115417id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628191511id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
@@ -10,24 +10,24 @@ Wikimedia policies
 ---  
   
   * [Licensing and copyright](https://web.archive.org/wiki/Resolution:Licensing_policy "Resolution:Licensing policy")
-  * **Privacy** and [donor privacy](https://web.archive.org/wiki/Donor_Privacy_Policy "Donor Privacy Policy")
+  * **Privacy** and [donor privacy](https://web.archive.org/wiki/Donor_privacy_policy "Donor privacy policy")
   * [Data retention](https://web.archive.org/wiki/Data_retention_policy "Data retention policy")
   * [Access to nonpublic data](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy")
-  * [Trademarks](https://web.archive.org/wiki/Trademark_Policy "Trademark Policy")
+  * [Trademarks](https://web.archive.org/wiki/Trademark_policy "Trademark policy")
 
 
   * Board and staff 
-    * [Code of Conduct](https://web.archive.org/wiki/Code_of_Conduct_Policy "Code of Conduct Policy")
+    * [Code of conduct](https://web.archive.org/wiki/Code_of_conduct_policy "Code of conduct policy")
     * [Conflicts of interest](https://web.archive.org/wiki/Conflict_of_interest_policy "Conflict of interest policy")
-    * [Credit Card Usage](https://web.archive.org/wiki/Credit_Card_Usage_Policy "Credit Card Usage Policy")
+    * [Credit card usage](https://web.archive.org/wiki/Credit_card_usage_policy "Credit card usage policy")
     * [Discrimination](https://web.archive.org/wiki/Non_discrimination_policy "Non discrimination policy")
-    * [Duty Entertainment](https://web.archive.org/wiki/Duty_Entertainment_Policy "Duty Entertainment Policy")
+    * [Duty entertainment](https://web.archive.org/wiki/Duty_entertainment_guidelines_policy "Duty entertainment guidelines policy")
     * [Gifts](https://web.archive.org/wiki/Gift_policy "Gift policy")
-    * [Pluralism, Internationalism,  
-& Diversity](https://web.archive.org/wiki/Pluralism,_Internationalism,_and_Diversity_Policy "Pluralism, Internationalism, and Diversity Policy")
-    * [Purchasing and Disbursements](https://web.archive.org/wiki/Purchasing_%26_Disbursements_Policy "Purchasing & Disbursements Policy")
-    * [Travel approval](https://web.archive.org/wiki/Travel_Approval_Policy "Travel Approval Policy") and [Travel](https://web.archive.org/wiki/Travel_Policy "Travel Policy")
-    * [Whistleblowing](https://web.archive.org/wiki/Whistleblower_Policy "Whistleblower Policy")
+    * [Pluralism, internationalism,  
+& diversity](https://web.archive.org/wiki/Pluralism,_internationalism,_and_diversity_policy "Pluralism, internationalism, and diversity policy")
+    * [Purchasing and disbursements](https://web.archive.org/wiki/Purchasing_and_disbursements_procedures "Purchasing and disbursements procedures")
+    * [Travel approval](https://web.archive.org/wiki/Travel_approval_policy "Travel approval policy") and [Travel](https://web.archive.org/wiki/Travel_policy "Travel policy")
+    * [Whistleblowing](https://web.archive.org/wiki/Whistleblower_policy "Whistleblower policy")
 
   
   
