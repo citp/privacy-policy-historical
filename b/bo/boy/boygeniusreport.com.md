@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the boygeniusreport.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024113128id_/http%3A//www.boygeniusreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boygeniusreport.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628035815id_/http%3A//www.bgr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Boy Genius Report
-
-## Privacy Policy
+# Privacy Policy
 
 MMC’s Privacy Policy
 
