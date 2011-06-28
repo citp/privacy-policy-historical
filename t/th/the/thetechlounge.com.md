@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechlounge.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228171045id_/http%3A//www.thetechlounge.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechlounge.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628140756id_/http%3A//www.thetechlounge.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - About TheTechLounge
 
@@ -34,10 +34,4 @@ TheTechLounge welcomes your questions and comments about our privacy policy. Ple
 
 | 
 
-[CVG](http://www.computerandvideogames.com/article.php?id=256460) Jul. 28, 2010 - 11:47 pm
-
-[MCV](http://www.mcvuk.com/news/39930/Six-million-Brits-cant-see-in-3D) Jul. 15, 2010 - 11:53 pm
-
-[MSNBC](http://www.msnbc.msn.com/id/38255728) Jul. 15, 2010 - 11:32 pm
-
-[NewsOK](http://newsok.com/digital-drugs-at-mustang-high-school-have-experts-warning-of-slippery-slope/article/3475464) Jul. 12, 2010 - 11:45 pm
+[Kotaku](http://www.kotaku.com.au/2011/02/this-is-an-official-plants-vs-zombies-board-game/) Feb. 18, 2011 - 5:36 pm
