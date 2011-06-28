@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ourstory.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229045047id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ourstory.com privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628160038id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
@@ -91,9 +91,16 @@ s.parentNode.insertBefore(ga, s);
                     }
                  });
                  
-  
-                 
-            });     
+                FB.getLoginStatus(function(response) {
+                    if (response.session) {
+                        document.location.href = "Array";
+                      // A user has logged in, and a new cookie has been saved
+                    } else {
+                      // The user has logged out, and the cookie has been cleared
+                        //document.location.href = "Array";      
+                    }
+                 });
+            });
         </script>            
         </div>
 </div>        
@@ -168,7 +175,7 @@ Site, plus the extended group of people that a user is connected to via
 chains of mutual friends. Some personal information we ask for is
 displayed to people within these personal networks. Users of the free
 version can mark any post as (1) viewable by their personal network, or
-(2) publicly viewable. Users of the premium version can mark any post
+(2) publicly viewable. Users of the Digital Family version can mark any post
 on the Site as (1) private, (2) viewable by their personal network, or
 (3) publicly viewable. </p>
 <br>
@@ -182,7 +189,7 @@ collects user-submitted account information such as name and email
 address to identify users and send notifications related to the use of
 the Service, such as the system-generated email 'starter question' set
 or when those in their personal network add or update a posting. For
-premium accounts, users will be asked to submit financial information
+Digital Family accounts, users will be asked to submit financial information
 such as their credit card number. Lifescape also collects
 user-submitted profile information such as gender, age, occupation,
 location, etc. This information is collected in order for us to
@@ -410,7 +417,7 @@ the Site, or your dealings with Lifescape, please contact us at: </p>
 <br clear="all">
 <div id="footer">
     <ul style="float:left;">
-        <li style="border:0; padding-right: 0px;">OurStory © 2005-2010 TimeCove Corp. All Rights Reserved</li>
+        <li style="border:0; padding-right: 0px; display:block;">OurStory © 2005-2011 TimeCove Corp. All Rights Reserved</li>
         <li><a href="/doc/about.html">About Us</a></li> 
         <li><a href="/doc/termsofservice.html">Terms of Service</a></li> 
         <li><a href="/doc/policies.html">Privacy Policy</a></li>
