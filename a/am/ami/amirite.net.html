@@ -1,26 +1,25 @@
-<!--The following is the downloaded HTML source of the amirite.net privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227072743id_/http%3A//www.amirite.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amirite.net privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628112822id_/http%3A//www.amirite.net/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <link rel="image_src" href="http://www.amirite.net/images/fbposticon2.jpg">
 <link rel="search" type="application/opensearchdescription+xml" title="amirite?" href="http://www.amirite.net/searchplugin.xml">
-<link rel="shortcut icon" href="http://www.amirite.net/images/favicon.ico">
+<link rel="shortcut icon" href="http://img.amirite.net/favicon_on.ico">
 <link rel="alternate" href="http://feeds.feedburner.com/amirite" type="application/rss+xml" title="You should get the RSS feed, amirite?">
 <meta property="fb:app_id" content="349217495332">
 <meta property="fb:page_id" content="170359268719">
-<meta property="fb:admins" content="745053766">
 <meta property="og:site_name" content="amirite">
 <meta property="og:image" content="http://www.amirite.net/images/fbposticon2.jpg">
 
-<link rel="stylesheet" type="text/css" href="http://www.amirite.net/css/amirite.css?v=22">
+<link rel="stylesheet" type="text/css" href="http://www.amirite.net/css/amirite.css?v=28">
 <link rel="stylesheet" type="text/css" href="http://www.amirite.net/css/sprites.css">
-<script> var blindmode = false; </script><title>amirite? Share your thoughts and see if others agree.</title>
-<meta name="description" content="On Amirite you post your opinions, ideas, jokes or anything you want and other people will let you know if they agree or disagree. You don't need to register; anybody can post, vote and comment. It's a social blog designed for interesting discussions of all kinds of popula topics - movies, music, school, relationships...">
-	<meta name="keywords" content="opinion, thought, MLIA, amirite, blog, humour, FML, fun, facebook, comments, meme, anonymous, ask, opinions, thoughts, views, humor, fail">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script> var blindmode = false; </script><title>amirite? Share your thoughts and see if others agree.</title>
+<meta name="description" content="On amirite you post your opinions, ideas, jokes or anything you want and other people will let you know if they agree or disagree. You don't need to register; anybody can post, vote and comment. It's a social blog designed for interesting discussions of all kinds of popula topics - movies, music, school, relationships...">
+	<meta name="keywords" content="am i right, discuss, debate, opinion, thought, amirite, blog, humour, fun, comments, meme, anonymous, ask, opinions, thoughts, views, humor, fail">
 	<meta name="robots" content="index, follow">
 		<script type="text/javascript"> var isIE; </script>
 <!--[if IE]>
@@ -33,16 +32,21 @@
 <script type="text/javascript" src="http://www.amirite.net/js/jquery.textarea-expander.js"></script>
 <script type="text/javascript" src="http://www.amirite.net/js/localscroll.js"></script>
 
-
-<script type="text/javascript" src="http://www.amirite.net/js/amirite.min.js?v=201012242217"></script>
+<script type="text/javascript" src="http://www.amirite.net/js/amirite.min.js?v=53"></script>
 
 	
 
 <script type="text/javascript">
-function fbs_click(u) {
+
+function fbs_click(u) 
+{
 window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u),'sharer','toolbar=0,status=0,width=626,height=436');
 return false;
 }	
+
+	var api_name = 'site';
+	var api_key = '51hN0PyR6gNdYg38684qto7nh7941QhA';
+
 	var page = 'privacy';
 	var userID = false;
 	var username = '';
@@ -53,10 +57,25 @@ return false;
 	var lu_newposts_lastpostdate = false;
 	var lu_newcomments_lastcommentid = false;
 	var lu_postID = false;
+	var liveUpdateInterval = false;
+	
 	var postsonpage = new Array();
 	 var showunapproved = false; 	var facebook_uid = false;
 	
+	/*function toggleLiveUpdate()
+	{
+		if ( $.cookie("liveUpdateEnable") == true )
+		{
+			clearInterval(liveUpdateInterval);
+		}
+		else
+		{*/
+				/*}
+	}*/
+	
 	$(document).ready(function(){
+	 
+	 		
 		$.ajaxSetup({ cache: false });
 				animatedcollapse.addDiv('searchform', 'fade=1,speed=1000');	
 		animatedcollapse.addDiv('report_step1', 'fade=0,speed=1000,group=reportsteps');
@@ -64,7 +83,7 @@ return false;
 		animatedcollapse.ontoggle=function($, divobj, state){ };
 		animatedcollapse.init();
 			
-				
+		
 		$('.commentloversdialog').dialog( { 
 			autoOpen: false,
 			modal:true,
@@ -77,7 +96,38 @@ return false;
 	
 </script>
 
- <link rel="stylesheet" type="text/css" href="/css/coloured/winter.css" id="themestylesheet"> 
+
+
+<style type="text/css">
+	
+	.unselectedvotebutton img
+	{
+		-moz-opacity:.50; filter:alpha(opacity=50); opacity:.50; -webkit-opacity:.50;
+	}
+	.unselectedvotebutton:hover img
+	{
+		-moz-opacity:1; filter:alpha(opacity=100); opacity:1; -webkit-opacity:1;
+	}
+	
+</style>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11373531-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Google Analytics -->
+
 </head>
 <body>
 
@@ -86,53 +136,128 @@ return false;
 	.commentreply { display:none; }
 </style></noscript>
 
-
 <div id="amirite">
 
-<div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
-<script type="text/javascript"> FB.init({appId: '349217495332', status: true, cookie: true, xfbml: true}); </script>
 
 	<div id="newheader">
     
     	<div id="toprow">
-        	<a href="/index.php"><img src="http://www.amirite.net/images/amiritewhite.png" alt="amirite?" id="logo"></a>
+        	<a href="/index.php" id="logocontainer"><img src="http://img.amirite.net/amirite_white_off.png?v=2" alt="amirite?" id="logo"></a>
+            <img src="http://img.amirite.net/amirite_white_on.png?v=2" alt="" style="display:none;">
            
-                        <img src="http://www.amirite.net/images/dudes/dude_christmas_snowman.png" alt="Amirite Guy" id="dude">
+            <img src="http://img.amirite.net/dudes/dude_default.png" alt="Amirite Guy" id="dude">
             
             <div id="topmessage">
-            <a href="http://www.amirite.net/store"><img src="http://www.amirite.net/images/storebanner.png" alt="Custom amirite mugs and t-shirts. Available now in the amirite store."></a>	
+            <a href="http://www.amirite.net/store"><img src="http://img.amirite.net/storebanner.png" alt="Custom amirite mugs and t-shirts. Available now in the amirite store."></a>	
 			</div>
             
           <div id="search_top">
+          
             <form action="/index.php" method="get">
         		<input type="hidden" name="page" value="search">
-            	<input type="text" class="defaultinput" name="q" id="search_q" value="" onfocus="clearDefault(this);" onblur="restoreDefault(this);" onkeyup="searchTimeout = setTimeout(topSearch,2000);" onkeydown="clearTimeout(searchTimeout);">
-				<script type="text/javascript">
+            	<input type="text" class="defaultinput" name="q" id="search_q" value="" onfocus="clearDefault(this);" onblur="restoreDefault(this);">
+			</form>
+            
+	            <script type="text/javascript">
 					var searchTimeout;
                     setDefaultText('search_q');
+					
+					var userSearchCache = {};
+					$("#search_q").autocomplete({
+							minLength: 3,
+							source: function( request, response ) {
+							
+									if ( request.term in userSearchCache ) {
+										response( userSearchCache[ request.term ] );
+										return;
+									}
+							
+									$.get( "/api/api.php" , { appName: api_name, appKey: api_key, method: "usersearch", q: request.term },
+										function( data ) {
+											data = $.parseJSON(data);
+											map = $.map( data.users, function( item ) {
+											
+												if ( !item.avatar ) { item.avatar = 'http://avatars.amirite.net/default.jpg'; }
+											
+												return {
+													username: item.username,
+													avatar: item.avatar,
+													url: 'http://www.amirite.net/user/'+item.username
+												}
+											})
+											userSearchCache[ request.term ] = map;
+											response( map );
+										});
+							},
+							select: function( event, ui ) {
+								window.location = ui.item.url;
+								return false;
+							},
+							open: function(event, ui) 
+							{ 
+								$(".ui-autocomplete").first().prepend('<li style="padding:3px 0; font-size:12px; text-align:center; line-height:15px;" class="ui-menu-item" role="menuitem"><a href="#" onclick="window.location=\'/index.php?page=search&q=\'+$(\'#search_q\').val(); return false;">Press enter or click here to search for posts.</a></li>');
+							}
+						})
+						.data( "autocomplete" )._renderItem = function( ul, item ) {
+							return $( '<li style="padding:3px 0;"></li>' )
+								.data( "item.autocomplete", item )
+								.append( '<a href="'+item.url+'"><img src="'+item.avatar+'" width="30" height="30" alt="" valign="middle" /> ' + item.username + "</a>" )
+								.appendTo( ul );
+						};
                 </script>
-			</form>
+                <style> .ui-autocomplete { max-height: 500px; overflow-y: auto; overflow-x:hidden; } </style>
+            
             </div>
         </div>
 
-      <div id="nav"><ul id="menu"><li class="sprite-nav_home"><a href="http://www.amirite.net/"><span>home</span></a></li><li class="sprite-nav_post"><a href="http://www.amirite.net/addpost" onclick="window.location='/index.php?t=justin&amp;showadd=true'; return false;"><span>post yours</span></a></li><li class="sprite-nav_justin"><a href="http://www.amirite.net/justin"><span>just in</span></a></li><li class="sprite-nav_random"><a href="http://www.amirite.net/random"><span>random</span></a></li><li class="sprite-nav_favs"><a href="http://www.amirite.net/favourites"><span>favourites</span></a></li><li class="sprite-nav_best"><a href="http://www.amirite.net/best"><span>best / worst</span></a></li><li class="sprite-nav_users"><a href="http://www.amirite.net/community"><span>community</span></a></li><li class="sprite-nav_about"><a href="http://www.amirite.net/about"><span>about</span></a></li></ul></div>
+      <div id="nav"><ul id="menu"><li class="sprite-nav_home"><a href="http://www.amirite.net/"><span>home</span></a></li><li class="sprite-nav_post"><a href="http://www.amirite.net/addpost" onclick="window.location='/justin#add'; return false;"><span>post yours</span></a></li><li class="sprite-nav_justin"><a href="http://www.amirite.net/justin"><span>just in</span></a></li><li class="sprite-nav_random"><a href="http://www.amirite.net/random"><span>random</span></a></li><li class="sprite-nav_favs"><a href="http://www.amirite.net/favourites"><span>favourites</span></a></li><li class="sprite-nav_best"><a href="http://www.amirite.net/best/month"><span>best / worst</span></a></li><li class="sprite-nav_users"><a href="http://www.amirite.net/community"><span>community</span></a></li><li class="sprite-nav_about"><a href="http://www.amirite.net/about"><span>about</span></a></li></ul></div>
   </div>
     
     <div id="report_reason_popup" title="Report" style="display:none;">
                 	
-	<p style="margin:5px 0;"><span class="sprite16 sprite-info16 icon"></span> We try our hardest to keep this place clean, but we can't see every post and comment. You can help amirite by letting us know if you think something you see shouldn't be on the site. Pick a reason below and a moderator will take a look and decide what to do.</p>
+	<p style="margin:10px 0; font-size:13px;"><span class="sprite16 sprite-info16 icon"></span> We try our hardest to keep this place clean, but we can't see every post and comment. You can help amirite by letting us know if you think something you see shouldn't be on the site. Pick a reason below and a moderator will take a look and decide what to do.</p>
                     
-                    <a href="javascript:submitReport('it\'s already been posted before.');"><span class="greybutton buttonlist" style="display:block;"><span class="sprite16 sprite-warning icon"></span> it's already been posted before.</span></a>
-                    <a href="javascript:submitReport('it\'s not a question / it doesn\'t make sense / it can\'t be answered.');"><span class="greybutton buttonlist" style="display:block;"><span class="sprite16 sprite-warning icon"></span> it's not a question / it doesn't make sense / it can't be answered.</span></a>
-                    <a href="javascript:submitReport('it\'s offensive.');"><span class="greybutton buttonlist" style="display:block;"><span class="sprite16 sprite-warning icon"></span> it's offensive.</span></a>
-                     <span class="greybutton buttonlist" style="display:block;"><input type="text" id="report_reason_custom" style="width:540px;"></span>
+                    <span class="greybutton buttonlist" style="display:block; cursor:auto;"><span class="sprite16 sprite-warning icon"></span> It's already been posted before.
+                    <br><input type="text" id="report_reason_duplicate_link" style="width:500px;"> <input type="button" value="Go" onclick="submitPostReportWithDuplicate();"></span>
+                    <a href="javascript:submitReport('it\'s not a question / it doesn\'t make sense / it can\'t be answered.',true);"><span class="greybutton buttonlist" style="display:block;"><span class="sprite16 sprite-warning icon"></span> It's not a question / it doesn't make sense / it can't be answered.</span></a>
+                    <a href="javascript:submitReport('it\'s offensive.',true);"><span class="greybutton buttonlist" style="display:block;"><span class="sprite16 sprite-warning icon"></span> It's offensive.</span></a>
+                     <span class="greybutton buttonlist" style="display:block;  cursor:auto;"><input type="text" id="report_reason_custom" style="width:500px;"> <input type="button" value="Go" onclick="submitPostReportWithCustomReason();"></span>
+                     
+                     <p style="padding:15px; text-align:center; display:none;" id="report_reason_loading"><img src="/images/loading.gif" alt="Sending"></p>
                     
                 </div>
                 
                 <script type="text/javascript">
-					var report_reason_custom_text = '[Enter Your Own Reason]';
-  
+					var report_reason_duplicate_link_text = '[If Possible, Please Give Us A Link To The Original Post]';
+					$("#report_reason_duplicate_link").focus( function() 
+								{
+									if ( $(this).val() == report_reason_duplicate_link_text )
+									{
+										$(this).val('').removeClass('defaultinput');
+									}
+								} ).blur( function()
+								{
+									if ( $(this).val() == '' )
+									{
+										$(this).val(report_reason_duplicate_link_text).addClass('defaultinput');
+									}
+								}).keydown( function(e) 
+								{
+									if ( e.which == 13 ) {  submitPostReportWithDuplicate(); } 
+								}
+					);		
+					function submitPostReportWithDuplicate()
+					{
+						reason = "It's already been posted before. ";
+						if ( $("#report_reason_duplicate_link").val() != report_reason_duplicate_link_text )
+						{
+							reason += $("#report_reason_duplicate_link").val();
+						}
+						submitReport(reason,true);
+					}
+					
+					
+					var report_reason_custom_text = '[Or Write Your Own Reason Here]';
 					$("#report_reason_custom").focus( function() 
 								{
 									if ( $(this).val() == report_reason_custom_text )
@@ -147,25 +272,32 @@ return false;
 									}
 								}).keydown( function(e) 
 								{
-									if ( e.which == 13 ) { 
-									
-										reason = $("#report_reason_custom").val();
-										if ( !reason || reason == report_reason_custom_text ) { return false; }
-										else
-										{
-											submitReport(reason);
-										}
-									} 
+									if ( e.which == 13 ) {  submitPostReportWithCustomReason(); } 
 								}
 					);
+					function submitPostReportWithCustomReason()
+					{
+						reason = $("#report_reason_custom").val();
+						if ( !reason || reason == report_reason_custom_text ) { return false; }
+						else
+						{
+							submitReport(reason,true);
+						}
+					}
+					
 					
 					$("#report_reason_popup").dialog({
 						autoOpen: false,
 						height: 520,
 						width: 600,
 						modal: true,
-						open: function() { $("#report_reason_custom").blur(); },
-						close: function() { $("#report_reason_custom").val(report_reason_custom_text).blur(); },
+						open: function() { $("#report_reason_custom").blur(); $("#report_reason_duplicate_link").blur(); },
+						close: function() 
+						{ 
+							$("#report_reason_duplicate_link").val(report_reason_duplicate_link_text).blur().addClass('defaultinput'); 
+							$("#report_reason_custom").val(report_reason_custom_text).blur().addClass('defaultinput'); 
+							$("#report_reason_loading").hide(); 
+						},
 						buttons: {
 							Cancel: function() {
 								$(this).dialog('close');
@@ -178,8 +310,12 @@ return false;
 
 	<div id="colwrapper">
     
+    <!--[if lt IE 7]> <div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative; margin:auto;'> <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="820" alt="" /></a></div> <![endif]-->
+    
 	<!-- Left Col -->
 	<div id="leftcol">
+	
+		
     	<div id="leftcol_searchresults"></div>
     	<div id="leftcol_content">
 		
@@ -251,7 +387,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
             
             <div align="center">
 
-                            <a href="#" id="fbConnect" onclick="FB.login( function() { window.close; parent.location='http://www.amirite.net/fblogin.php'; } , {perms:'email,publish_stream'} ); return false;" class="fbloginbutton"> 
+                            <a href="#" id="fbConnect" onclick="FB.login( function() { window.close; parent.location='http://www.amirite.net/fblogin.php'; } , {perms:'email,publish_stream,user_birthday'} ); return false;" class="fbloginbutton"> 
                     <span>Sign in with Facebook</span>
                 </a>
             
@@ -294,7 +430,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
             
                        
             <div style="margin-top:10px; text-align:center;">
-            <fb:facepile width="180"></fb:facepile>
+            <fb:facepile width="180" href="http://www.facebook.com/amirite.net"></fb:facepile>
             </div>
             
             
@@ -321,7 +457,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
         
         <script>
 		
-			var currenttheme = 'winter';
+			var currenttheme = 'original';
 		
 			function changeTheme(theme,preview)
 			{
@@ -353,7 +489,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 			
 		</script>
         
-        <div align="center"><a href="http://www.amirite.net/?theme=original" style="background:#e7e7e5;" rel="original"></a><a href="http://www.amirite.net/?theme=darkness" style="background:#626262;" rel="darkness"></a><a href="http://www.amirite.net/?theme=red" style="background:#c45252;" rel="red"></a><a href="http://www.amirite.net/?theme=blue" style="background:#abd1e4;" rel="blue"></a><a href="http://www.amirite.net/?theme=green" style="background:#89bc83;" rel="green"></a><a href="http://www.amirite.net/?theme=gold" style="background:#dea325;" rel="gold"></a><br><a href="http://www.amirite.net/?theme=winter" class="current" rel="winter"><img src="/images/winterthemepreview.jpg" ""=""></a></div>
+        <div align="center"><a href="http://www.amirite.net/?theme=original" style="background:#e7e7e5;" class="current" rel="original"></a><a href="http://www.amirite.net/?theme=black" style="background:#3b3b3b;" rel="black"></a><a href="http://www.amirite.net/?theme=red" style="background:#c45252;" rel="red"></a><a href="http://www.amirite.net/?theme=purple" style="background:#9852c4;" rel="purple"></a><a href="http://www.amirite.net/?theme=blue" style="background:#abd1e4;" rel="blue"></a><a href="http://www.amirite.net/?theme=green" style="background:#89bc83;" rel="green"></a><a href="http://www.amirite.net/?theme=gold" style="background:#dea325;" rel="gold"></a></div>
         
         <script>
 			$("#colourschemebox a").mouseover( function() { changeTheme($(this).attr('rel'),1); }).mouseout( function() { changeTheme(currenttheme,1); }).click( function(e) { e.preventDefault(); changeTheme($(this).attr('rel')); });
@@ -385,7 +521,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
         </div>
         <!-- End Facebook -->     
         
-        <div class="box"><a href="/ontv"><img src="http://www.amirite.net/images/rightcol_ontv.png" alt="Amirites from TV and films."></a></div>    
+        <div class="box"><a href="/hottopics"><img src="http://img.amirite.net/rightcol_controversial.png" alt="Read the most controversial posts."></a></div>    
         <!-- Adsense -->
         <div class="box advert">
         <div class="boxheader"></div>
@@ -393,7 +529,6 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
         
 		<script type="text/javascript"><!--
 			google_ad_client = "pub-3303210145966870";
-			/* Amirite - RightCol Text+Image */
 			google_ad_slot = "1933197460";
 			google_ad_width = 160;
 			google_ad_height = 600;
@@ -401,12 +536,12 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 		</script>
 		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 
-		<p><a href="http://www.freeiphone.me">Free iPhone</a></p>
+		<p><a href="http://www.freeiphone.me">Free iPhone</a></p>		
 
         </div>
         <div class="boxfooter"></div>
         </div>
-        <!-- End Adsense -->  	</div>
+  	</div>
 	<!-- End Right Col -->
     
     <div class="clear"></div>    
@@ -417,12 +552,13 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
     <!-- Footer -->
     <div id="footer">
     
-    <table style="width:900px; text-align:left; font-size:13px; margin:10px auto;">
+     <table style="width:900px; text-align:left; font-size:13px; margin:10px auto;">
     	<tbody><tr>
         	<td width="33%" valign="top"><strong>Useful Pages</strong>
             	<ul>
                 	<li><a href="/hangman">Hangman</a></li>
                     <li><a href="/potd">Posts Of The Day</a></li>
+                    <li><a href="/bestcomments/month">Most Loved Comments</a></li>
                     <li><a href="/iphone">iPhone / iPod Touch App</a></li>
                     <li><a href="/about#contact">Contact Us</a></li>
                     <li><a href="/chat">Amirite Chat</a></li>
@@ -447,13 +583,13 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
         
         <tr>
         	<td colspan="3" style="padding-top:10px;">
-            <a href="javascript:toggleBlindMode();" style="float:left; padding:6px; display:inline-block;"><img src="http://www.amirite.net/images/businesswoman.png" alt="Switch To Blind Mode" title="Switch To Blind Mode"></a>
+            <a href="javascript:toggleBlindMode();" style="float:left; padding:6px; display:inline-block;"><img src="http://img.amirite.net/businesswoman.png" alt="Switch To Blind Mode" title="Switch To Blind Mode"></a>
             <strong>Blind Mode</strong><br>
             Blind mode hides the score, votes and author of a post until you've voted. <a href="javascript:toggleBlindMode();"><u>[Click to turn on blind mode.]</u></a>            </td>
 		</tr>
 	</tbody></table>
             
-    © amirite.net 2010. Icons by <a href="http://www.dryicons.com">DryIcons</a>. The opinions expressed in posts and comments are those of the poster and do not reflect the opinions of the creators of this website. | <a href="/privacy">Privacy Policy</a> | <a href="/index.php?page=rules">Conditions Of Use</a>    </div>
+    © amirite.net 2011. Icons by <a href="http://www.dryicons.com">DryIcons</a>. The opinions expressed in posts and comments are those of the poster and do not reflect the opinions of the creators of this website. | <a href="/privacy">Privacy Policy</a> | <a href="/index.php?page=rules">Conditions Of Use</a>    </div>
     <!-- End Footer -->  
   
     <div id="popupMask"></div>
@@ -639,29 +775,38 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 <script type="text/javascript">
 var sc_project=4987428; 
 var sc_invisible=1; 
-var sc_security="e101ff93"; 
+var sc_security="f1f5d812"; 
 </script>
 <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
-<noscript><img src="http://c.statcounter.com/4987428/0/e101ff93/1/" /></noscript>
+<noscript><img src="http://c.statcounter.com/4987428/0/f1f5d812/1/" alt="" /></noscript>
 <!-- End of StatCounter Code -->
-        
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-11373531-1");
-pageTracker._trackPageview();
-} catch(err) {}
-</script>
-<!-- End Google Analytics -->
-
+       
     <script type="text/javascript">
-				$(document).konami(function(){ $("#amirite").html('<object width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/Cl5Pfc5TyO0?fs=1&amp;hl=en_US&amp;autoplay=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Cl5Pfc5TyO0?fs=1&amp;hl=en_US&amp;autoplay=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="100%" height="100%"></embed></object>'); });
+		$(document).konami(function(){ 
+		$("body").html('<iframe style="margin:0; padding:0; border:0; width:100%; height:98%;" src="http://www.nyanicorn.com/"></iframe>').css('height','100%');
+		$('html').css('height','100%');
+		 });
 	</script>
-</div>       
+    
+</div> 
+
+
+
+
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '349217495332', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
 
 
 </body></html>
