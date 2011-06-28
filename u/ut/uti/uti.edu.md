@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226010839id_/http%3A//www.uti.edu/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628031042id_/http%3A//www.uti.edu/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Universal Technical Institute Privacy Policy | UTI.edu
 
 Universal Technical Institute (UTI) includes Custom Training Group, NASCAR Technical Institute, Motorcycle Mechanics Institute and Marine Mechanics Institute, which are subsidiaries of Universal Technical Institute,Inc. 
 
