@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124144309id_/http%3A//www.teenink.com/About/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenink.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628171117id_/http%3A//www.teenink.com/About/privacy.php) for the most accurate reproduction.*
 
 # Teen Ink | Privacy Policy
 
