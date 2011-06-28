@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eupedia.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227133518id_/http%3A//www.eupedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eupedia.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628171600id_/http%3A//www.eupedia.com/privacy) for the most accurate reproduction.*
 
 # Eupedia : Privacy Policy
 
