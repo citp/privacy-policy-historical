@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watch-gossip-girl.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121105548id_/http%3A//www.gossip-girl-episodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-gossip-girl.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628024144id_/http%3A//www.gossip-girl-episodes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Gossip Girl Episodes Streamed Online for Free
+# Privacy Policy | Gossip-Girl-Episodes.com
 
 **Acceptance of Terms.**  
 Please read this policy carefully since by visiting this website (“Website”) and/or sharing information with us, you agree to be bound by this Privacy Policy. The Privacy Policy may be revised or updated at any time by us.
