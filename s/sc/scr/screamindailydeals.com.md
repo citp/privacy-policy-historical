@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the screamindailydeals.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211181738id_/http%3A//www.screamindailydeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamindailydeals.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628150707id_/http%3A//www.screamindailydeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
-
-**What information do we collect?**
+Privacy Policy **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, respond to a survey or fill out a form. 
 
@@ -39,7 +37,8 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
   * To administer a contest, promotion, survey or other site feature 
 
-  
+
+
 **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
