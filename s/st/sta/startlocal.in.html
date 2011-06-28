@@ -1,0 +1,268 @@
+<!--The following is the downloaded HTML source of the startlocal.in privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628141159id_/http%3A//www.startlocal.in/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<title>Privacy: Start Local - Your Local Indian Business Directory</title>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="robots" content="noarchive">
+<link href="http://static.startlocal.in/static/v13/site.min.css" rel="stylesheet" type="text/css" media="all">
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://static.startlocal.in/static/css/ie.css" /><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://static.startlocal.in/static/v2/css/ie6.css" /><![endif]-->
+<link rel="shortcut icon" href="http://static.startlocal.in/static/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="http://static.startlocal.in/static/v15/site.min.js"></script>
+<script type="text/javascript">
+ $(document).ready(function() {
+ });
+function list_to_select ( selector, blank_prompt ) {
+ $(selector).each(function(){
+ var buf = "<option>"+blank_prompt+"<\/option>";
+ $(this).find("li a").each(function(){buf += "<option value='"+encodeURI($(this).attr("href"))+"'>"+$(this).html()+"<\/option>"})
+ $(this).hide().after("<select name='ignore-me' onchange='$(this).val()?window.location=$(this).val():false'>"+buf+"<\/select>");
+ });
+}
+</script>
+</head>
+<body id="about">
+<div id="page">
+<div class="header">
+<a class="logo" href="/" title="Start Local.in">
+<img src="http://static.startlocal.in/static/images/logo-header.jpg" alt="STARTLOCAL" width="144" height="28">
+</a>
+<p class="descr" style="margin-top:1px;">Search Smarter, Not Harder. <br> Start Local India will intelligently provide you with accurate local business results...fast.</p>
+<div class="right-links">
+<div class="add-business">
+<a href="/get-listed.html">Add your business free</a>
+</div>
+<div class="sign-in" id="not-signed-in">
+<a href="#" class="link">Sign In</a>
+<div class="sign-in-popup" id="popup">
+<form action="/cgi-bin/directory/user.cgi" method="post">
+<input type="hidden" name="login" value="1">
+<div class="inner">
+<p class="headline">SIGN IN</p>
+<a href="javascript:;" class="close">[close]</a>
+<div class="relax"></div>
+<input type="text" name="Username" value="Email Address" class="edit auto-hint" title="Email Address">
+<input type="password" name="Password" value="Password" class="edit auto-hint" title="Password">
+<input type="checkbox" id="remember" name="Remember" class="remember"> <label for="remember">Remember me</label>
+<button type="submit" class="relax">Login</button>
+<div class="relax"></div>
+<div class="dotted-line"></div>
+<a href="/cgi-bin/directory/user.cgi?email_pass=1" title="Forgotten Your Password" class="options">Forgotten your password?</a>
+<a href="/cgi-bin/directory/user.cgi" title="Register an Account" class="options">Not registered yet?</a>
+<div class="relax"></div>
+</div>
+</form>
+</div>
+</div>
+<div class="sign-in" id="signed-in" style="display: none">
+<a href="/cgi-bin/directory/user.cgi" class="link">My Account</a>
+<div class="my-account-popup" id="popup">
+<form action="/cgi-bin/directory/user.cgi" method="post">
+<div>
+<p class="headline">MY ACCOUNT</p>
+<div class="relax"></div>
+<ul>
+<li><a href="/cgi-bin/directory/modify.cgi" title="Modify Your Listing">Modify Your Listings</a></li>
+<li><a href="/get-listed.html" title="Add a New Listing">Add a New Listing</a></li>
+<li><a href="/cgi-bin/directory/modify.cgi?linking_code=1" title="Get Linking Code">Get Linking Code</a></li>
+<li><a href="/cgi-bin/directory/user.cgi?logout=1" title="Logout">Logout</a></li>
+</ul>
+<a href="#" onclick="return false" class="close" title="Close">[close]</a>
+<div class="relax"></div>
+</div>
+</form>
+</div>
+</div>
+<script type="text/javascript">
+ // Show the 'my account' instead of 'sign in' link if you have a session cookie.
+ if( $.cookie('s') ) {
+ $('#not-signed-in').hide();
+ $('#signed-in').show();
+ }
+</script>
+<!-- End Sign In Popup -->
+<div class="relax"></div>
+</div>
+<div class="search">
+<div class="left">
+<img src="http://static.startlocal.in/static/images/titles/search.png" alt="SEARCH" class="search-inscr" width="238" height="42">
+<p class="tip"><b>Tip:</b> To search by keyword or business name, click on the tabs above the search form to change fields.</p>
+</div>
+<div class="right">
+<h4>I am looking for:</h4>
+<ul class="tabs">
+<li class="active keyword">
+<a href="#keyword">
+<span class="left-side">&nbsp;</span>
+<span class="center">Keyword</span>
+<span class="right-side">&nbsp;</span>
+</a>
+</li>
+<li>
+<a href="#business-name">
+<span class="left-side">&nbsp;</span>
+<span class="center">Business Name</span>
+<span class="right-side">&nbsp;</span>
+</a>
+</li>
+</ul>
+<div class="relax"></div>
+<div class="search-form">
+<div id="keyword" class="tab-content">
+<form action="/cgi-bin/directory/search.cgi" method="get">
+<div>
+<input type="text" name="query" value="Enter keyword" class="auto-hint" title="Enter keyword">
+<img src="http://static.startlocal.in/static/images/titles/in.gif" alt="in" class="sep" width="13" height="12">
+<input type="text" name="query2" value="Mumbai, Maharashtra, 400002" class="auto-hint" title="Mumbai, Maharashtra, 400002">
+<button type="submit">Search</button>
+<div class="relax"></div>
+<p class="hint">(What you are looking for)</p>
+<p class="hint">(Where you would like to find it)</p>
+</div>
+</form>
+<div class="relax"></div>
+</div>
+<div id="business-name" class="tab-content tab-content-hidden">
+<form action="/cgi-bin/directory/search.cgi" method="get">
+<div>
+<input type="text" name="Title" value="Enter business name" class="auto-hint" title="Enter business name">
+<img src="http://static.startlocal.in/static/images/titles/in.gif" alt="in" class="sep" width="13" height="12">
+<input type="text" name="query2" value="Mumbai, Maharashtra, 400002" class="auto-hint" title="Mumbai, Maharashtra, 400002">
+<button type="submit">Search</button>
+<div class="relax"></div>
+<p class="hint">(What you are looking for)</p>
+<p class="hint">(Where you would like to find it)</p>
+</div>
+</form>
+<div class="relax"></div>
+</div>
+</div>
+</div>
+<div class="relax"></div>
+</div>
+</div>
+<div class="content">
+<div class="b-c">
+<span class="here">You are here:</span>
+<a href="">Home</a> <span>&gt;</span> <span class="location">Privacy Policy</span>
+</div>
+<div class="left-cont fullwid">
+<div class="content-block search-results">
+<h2>Privacy</h2>
+<p><strong>Introduction</strong> <br>
+ Start Local Pty Ltd. respects each individual’s right to   personal privacy.&nbsp; We will collect and use information through our Web site only   in the ways disclosed in this statement.&nbsp; This statement applies solely to   information collected at the Start Local Web site.<strong> </strong></p>
+<p><strong>Part I.&nbsp; Information Collection</strong> <br>
+ Start Local Pty Ltd collects   information through our Web site at several points. &nbsp;We collect the following   information about primary visitors: Users Names, e-mail address and other   personal information. </p>
+<p>We may also collect information which our users divulge about other people.   Start Local Pty Ltd does not actively market to children, and we never knowingly ask a child   under 13 to divulge personal information. </p>
+<p>We collect this information through emails and contact forms.&nbsp; The   information is collected voluntarily. </p>
+<p>We may employ cookies. A cookie is a small text file that our Web server   places on a user’s computer hard drive to be a unique identifier. Cookies enable   Start Local Pty Ltd to track usage patterns and deliver customized content to users.&nbsp; Our   cookies may have an expiration date. Our cookies do not collect personally   identifiable information.&nbsp;</p>
+<p>Google, as a third party vendor, uses cookies to serve ads on Start Local.</p>
+<p>Google's use of the DART cookie enables it to serve ads to our users based on their visits to Start Local and other sites on the Internet.</p>
+<p>Users may opt out of the use of the DART cookie by visiting the <a rel="nofollow" href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</p>
+<p><strong>Part II.&nbsp; Information Usage. <br>
+</strong>The information collected   by Start Local Pty Ltd will be used for providing users with information.&nbsp; Users who provide   information may receive list products, services, email announcements or   advertisements. </p>
+<p>We offer links to other Web sites.&nbsp; Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.&nbsp; Their   standards may differ from ours. </p>
+<p>If our policy on information collection or uses changes, we will update this notice. We have the right to change this notice at any time. </p>
+<p><strong>Part IV. Problem Resolution <br>
+</strong>If problems arise, users may   contact Start Local Pty Ltd by using the <a href="http://www.startlocal.in/contact.html">contact form provided</a>.&nbsp; We   are committed to resolving disputes in the shortest time possible.</p>
+<p><strong>Part V. Data Storage and Security<br>
+</strong> All staff of Start Local Pty Ltd are dedicated to upholding our privcy policy.</p>
+</div>
+</div>
+<div class="relax"></div>
+</div>
+<div class="footer">
+<div class="cont">
+<a href="/" class="logo"><img src="http://static.startlocal.in/static/images/logo-footer.gif" alt="STARTLOCAL" width="102" height="20"></a>
+<div class="separator">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/about.html">About</a></li>
+<li><a href="/contact.html">Contact</a></li>
+<li><a href="/categorymap.html">Category Map</a></li>
+<li><a href="/help.html">Help / FAQ</a></li>
+<li><a href="/privacy.html">Privacy</a></li>
+<li><a href="/termsofuse.html">Terms of Use</a></li>
+<li><a href="/find_businesses.html">How to Search</a></li>
+<li><a href="/vote_businesses.html">What is Voting?</a></li>
+<li><a href="/get-listed.html">Get Listed / Submit URL</a></li>
+<li><a href="/andhra_pradesh.html">Andhra Pradesh</a></li>
+<li><a href="/delhi.html">Delhi</a></li>
+<li><a href="/gujarat.html">Gujarat</a></li>
+<li><a href="/karnataka.html">Karnataka</a></li>
+<li><a href="/kerala.html">Kerala</a></li>
+<li><a href="/maharashtra.html">Maharashtra</a></li>
+<li><a href="/punjab.html">Punjab</a></li>
+<li class="last"><a href="/tamil_nadu.html">Tamil Nadu </a></li>
+</ul>
+<div class="relax"></div>
+<p>Copyright © 2010-2011 Startlocal India Pty Ltd - Your Local Search Engine and Indian Business Directory. All rights reserved.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+ //<![CDATA[
+$(document).ready(function() {
+ /* check form before submit */
+ $('.search-form form').each(function() {
+ $(this).submit(function() {
+ return checkForm(this);
+ });
+ });
+ /* Predictive text */
+ $('form input.auto-hint').each(function() {
+ var opts = '';
+ var name = $(this).attr('name');
+ if (name == 'query') opts = 'k=';
+ else if (name.search(/query2|Location|Suburb/) != -1) {
+ if ($(this).siblings('input[name="auto_hint_region"]').length == 1) opts = 'region=' + $(this).siblings('input[name="auto_hint_region"]').val() + ';';
+ opts += 'l=';
+ }
+ else if (name == 'Title') opts = 'b=';
+ if (opts != '') {
+ $(this).autoComplete({
+ url: '/cgi-bin/directory/auto-complete.cgi?' + opts,
+ suggests: 3
+ });
+ }
+ });
+ /* Vote box: using jqModal plugin */
+ var $f = $('#jqmodal iframe');
+ $('#jqmodal').jqm({
+ trigger: 'a[rel="modalbox"]',
+ //ajax: '@href', /* Extract ajax URL from the 'href' attribute of triggering element */
+ modal: true, /* force focus */
+ onShow: function(h) {
+ $f.attr('src', h.t);
+ var top  = parseInt(($(window).height() - h.w.outerHeight()) / 2) + ($(document).scrollTop() || 0);
+ var left = parseInt(($(window).width() - h.w.outerWidth()) / 2);
+ h.w.css({ opacity: 0.88, left: left + 'px', top: top - 10 + 'px' }).fadeIn('fast');
+ },
+ onHide: function(h) {
+ h.w.fadeOut('normal', function() {
+ $f.attr('src', '');
+ h.o.remove(); // remove overlay
+ }); // hide window
+ },
+ overlay: 88
+ });
+})
+ //]]>
+</script>
+<div id="jqmodal" class="jqm-dialog">
+<h1>Post a Recommendation</h1>
+<div class="jqm-content"><iframe frameborder="0" scrolling="auto"></iframe></div>
+<div class="jqm-close jqmClose">[close]</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16148702-1");
+ pageTracker._trackPageview();
+} catch(err) {}</script>
+</div>
+</body></html>
