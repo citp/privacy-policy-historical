@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornerbros.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220103350id_/http%3A//www.pornerbros.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornerbros.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628213356id_/http%3A//www.pornerbros.com/privacy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Free Sex Videos - Hot Sex Movies - Free Porn Tube
 
 This document explains you important information regarding the use and disclosure of User Data collected on PornerBros.com
 
@@ -11,7 +11,8 @@ This site expressly and strictly limits its membership and/or viewing privileges
 DATA COLLECTED
 
 * Personal Information:  
-o Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.  
+o Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
+
 o Registered Users: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.  
 * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.  
 * Cookies: When you visit PornerBros.com, we may send one or more cookies to your computer that uniquely identifies your browser session. PornerBros.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.  
