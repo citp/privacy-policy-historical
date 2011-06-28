@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122094451id_/http%3A//www.fender.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629000653id_/http%3A//www.fender.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### Privacy Policy
+# Fender® Privacy Policy
 
 Fender understands your concerns about privacy. So, we want you to understand what types of information we collect on this site and what may happen to that information.
 
