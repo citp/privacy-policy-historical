@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211112848id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628024456id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
 
 # Undertone | Privacy Policy
 
-Privacy Policy for Undertone Networks Advertising Network and Corporate Sites
+Privacy Policy for Undertone Advertising Network and Corporate Sites
 
 Undertone is an advertising network that may deliver advertisements to the websites you visit. Undertone understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this website and when we serve advertisements on our network of websites owned by third-party publishers (collectively, the "Undertone Site Network"), how such information is used, and how it is shared with third parties if shared at all. 
 
