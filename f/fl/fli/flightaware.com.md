@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126193850id_/http%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628182826id_/http%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
 
 # FlightAware > Privacy Policy
+
+| 
 
 Thank you for visiting FlightAware. FlightAware is committed to honoring the privacy of our members and visitors. 
 
@@ -40,8 +42,6 @@ Children under the age of thirteen years old may not register for FlightAware or
 
 ### What about the privacy issues with tracking private aircraft?
 
-For that question, see [the privacy section of our FAQ.](https://web.archive.org/about/faq.rvt#privacy)
-
 ### Who can I contact if I have any questions regarding my privacy?
 
-Please contact us [contact us via e-mail](mailto:contact-privacy-1290800330@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
+Please contact us [contact us via e-mail](mailto:contact-privacy-1309285706@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
