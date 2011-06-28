@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zootemplate.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230184437id_/http%3A//www.zootemplate.com/Legal/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootemplate.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629004534id_/http%3A//www.zootemplate.com/Legal/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### 1\. Introduction
 
-JoomlaVision is the ultimate name to compute with commitment and protection of our valued customers privacy. Your privacy is essentially important to us and we consider it as one of the most vital elements of our business and it´s success. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this web site. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
+ZooTemplate is the ultimate name to compute with commitment and protection of our valued customers privacy. Your privacy is essentially important to us and we consider it as one of the most vital elements of our business and it´s success. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this web site. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
 
 By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other web sites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
 
@@ -41,7 +41,7 @@ We will process any Personal Data you provide to us for the following purposes:
 
 a) to provide you with information you have requested;  
 b) to contact you if required in connection with your query or to respond to any communications you might send to us;  
-c) to send you the JoomlaVision Newsletter or Event Alerts.
+c) to send you the ZooTemplate Newsletter or Event Alerts.
 
 ### 4\. Disclosure of Information to Third Parties
 
@@ -55,7 +55,7 @@ This Web site contains links to other sites. Please be aware that We are not res
 
 ### 6\. How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact us **support(at)JoomlaVision.com**
+Should you have other questions or concerns about these privacy policies, please contact us **support(at)ZooTemplate.com**
 
 ### 7\. Changes to the Website Privacy Policy
 
