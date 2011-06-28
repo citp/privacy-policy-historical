@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puatraining.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113030256id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puatraining.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628072928id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
