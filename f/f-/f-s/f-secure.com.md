@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214111510id_/http%3A//www.f-secure.com/en_US/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628230747id_/http%3A//www.f-secure.com/en_US/privacy.html) for the most accurate reproduction.*
 
 # F-Secure Legal Terms and Privacy
 
