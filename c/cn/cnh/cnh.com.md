@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnh.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507211852id_/http%3A//cnh.com/wps/portal/cnhportal/cnh.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnh.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628160714id_/http%3A//www.cnh.com/App/Pages/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # CNH >> Privacy Policy
 
