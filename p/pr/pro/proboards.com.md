@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229141524id_/http%3A//www.proboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628181918id_/http%3A//www.proboards.com/privacy) for the most accurate reproduction.*
 
 # ProBoards - Free Forums & Free Message Boards
-
-[](http://www.proboards.com/iphone)
 
 ProBoards, Inc. (" **ProBoards** ") is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Privacy Policy have the same meanings as in ProBoards' [Website Terms of Service](https://web.archive.org/tos)). ProBoards created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
