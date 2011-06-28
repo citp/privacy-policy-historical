@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the talktalkmembers.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630084042id_/http%3A//www.talktalkmembers.com/content/view/36/95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talktalkmembers.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628160006id_/http%3A//talktalkmembers.com/content/view/36/95) for the most accurate reproduction.*
 
 # TalkTalk Members - Privacy Policy
 
 ##  Privacy Policy 
 
 [ ](http://www.talktalkmembers.com/index2.php?option=com_content&task=view&id=36&pop=1&page=0&Itemid=95 "Print") [ ](http://www.talktalkmembers.com/index2.php?option=com_content&task=emailform&id=36&itemid=95 "E-mail")
+
+Thursday, 27 September 2007 
 
 ## How your personal information is used by TalkTalk Telecom Limited
 
