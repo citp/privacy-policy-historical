@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycandy.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214002019id_/http%3A//www.dailycandy.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycandy.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628234355id_/http%3A//www.dailycandy.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - DailyCandy
 
@@ -6,15 +6,15 @@ DailyCandy, Inc. takes very seriously the private nature of your personal inform
 
 ##### Personal Information
 
-In order to supply you with your DailyCandy e-mail, we need your e-mail address. Similarly, in order to supply you with text-messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. DailyCandy does not collect any other personal information that you do not expressly provide. DailyCandy will never sell, rent, or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. DailyCandy may share your personal information for the purpose of deliveringe-mail to you or as required by law.
+In order to supply you with your DailyCandy email, we need your email address. Similarly, in order to supply you with text-messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. DailyCandy does not collect any other personal information that you do not expressly provide. DailyCandy will never sell, rent, or share your personal information, including your email address, with any third parties for marketing purposes without your express permission. DailyCandy may share your personal information for the purpose of deliveringemail to you or as required by law.
 
 ##### Non-Personal Information
 
-DailyCandy may also request non-personally identifiable information, such as annual income, buying preferences, or age, also known as demographic and profile data. Though this information is optional, we may use it to improve our site and/or tailor your experience on our site, showing you content that we think you might be interested in and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in the DailyCandy e-mail or on the site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
+DailyCandy may also request non-personally identifiable information, such as annual income, buying preferences, or age, also known as demographic and profile data. Though this information is optional, we may use it to improve our site and/or tailor your experience on our site, showing you content that we think you might be interested in and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in the DailyCandy email or on the site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
 
 ##### Usage Information
 
-In addition to collecting personal and non-personal information, DailyCandy may also collect non-personal, aggregated information about subscribers' use of DailyCandy e-mails and the website. This information is not personally identifiable and will be used only to find out how subscribers use our service and site. For example, this information will tell us how much time users spend on the DailyCandy site, from which sites subscribers came, and to what sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver your Candy.
+In addition to collecting personal and non-personal information, DailyCandy may also collect non-personal, aggregated information about subscribers' use of DailyCandy emails and the website. This information is not personally identifiable and will be used only to find out how subscribers use our service and site. For example, this information will tell us how much time users spend on the DailyCandy site, from which sites subscribers came, and to what sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver your Candy.
 
 ##### Review and Access
 
@@ -22,7 +22,7 @@ Upon your request, we will provide you with a summary of the information we coll
 
 ##### Choice/Opt Out
 
-If we ever send you information by e-mail concerning new products or services that you did not expressly request, we will provide you with an e-mail address by which you may request no future notices.
+If we ever send you information by email concerning new products or services that you did not expressly request, we will provide you with an email address by which you may request no future notices.
 
 ##### Third-Party Advertising
 
@@ -30,7 +30,7 @@ Some of the ads appearing on this Website are delivered to you by DoubleClick, o
 
 ##### Tracking
 
-Like most sites (and true to our sugar-loving nature), DailyCandy makes use of browser cookies. Cookies are small text files placed on your computer's hard disk by our server. They allow us to quickly check your status as a subscriber and facilitate access to your preferences. DailyCandy will never use cookies to retrieve information from a computer that is unrelated to our site or services. DailyCandy also uses transparent GIF images. We use these images to track the e-mails that we send out.
+Like most sites (and true to our sugar-loving nature), DailyCandy makes use of browser cookies. Cookies are small text files placed on your computer's hard disk by our server. They allow us to quickly check your status as a subscriber and facilitate access to your preferences. DailyCandy will never use cookies to retrieve information from a computer that is unrelated to our site or services. DailyCandy also uses transparent GIF images. We use these images to track the emails that we send out.
 
 ##### Third-Party Cookies
 
