@@ -1,95 +1,191 @@
-> *The following text is extracted and transformed from the qik.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208061051id_/http%3A//qik.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qik.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628065701id_/http%3A//qik.com/info/privacy) for the most accurate reproduction.*
 
-# Qik | Privacy Policy
+# Qik | SKYPE PRIVACY POLICY
 
-Qik, Inc., a Delaware corporation ("Qik"), recognizes that its customers, visitors, users and others (collectively or individually "Users") who use [qik.com](http://qik.com/) or other websites owned or operated by Qik ("Sites") and the related services including without limitation the mobile client, "Embeddable Flash Player", Qik-in-Touch Desktop Client Application, the WAP service, the SMS service or other features or applications (collectively, the "Service") respects and value their privacy. 
+Your privacy is important to Skype. Therefore, Skype is committed to respecting your privacy and the confidentiality of your personal data, traffic data and communications content. 
 
-This Privacy Policy details important information regarding the use and disclosure of User information collected on the Qik Sites and Service. This Privacy Policy is incorporated into and is subject to the Qik Terms of Service. Your use of the Sites and Service and any personal information you provide on Qik Sites and Service remains subject to the terms of this Privacy Policy and our Terms of Service. Please note that any graphic, video, image, picture, photo, location or other content posted at the direction of Users onto the Qik Sites and or the Service becomes published content and is not considered personally identifiable information subject to this Privacy Policy. 
+Skype Software S.à r.l and /or Skype Communications S.à r.l., both incorporated under the laws of Luxembourg, having their registered office at 23-29 Rives de Clausen, 2165 Luxembourg, collect and process your personal information under this Privacy Policy. Skype Inc., a California company, whose business address is at 3210 Porter Drive, Palo Alto, California, 94304, USA., collects and processes personal information about members of Skype Manager™ or business customers of ‘Qik’ branded products in the United States. 
 
-As a general rule, no personally identifiable information is automatically collected from users of Qik Sites or Service. Personally identifiable data about Users of our Sites and Services are known to us only when voluntarily submitted by Users of the Site or Services. Qik works hard to earn and keep your trust, so we adhere to the following principles to protect your privacy: 
+This Privacy Policy is designed to assist you in understanding how Skype uses and safeguards the information you provide in using Skype's peer-to-peer VoIP software, Skype's websites and/or Skype's products. 
 
-##  Information Collection 
+**CONTENTS**
 
-**User Provided Information:** In order to use Qik Sites and Service, you may be required to provide certain identifiable information (such as your cell phone number and name) when choosing to participate in various activities on the Qik Sites and Service such as streaming live video, uploading videos, viewing your own recorded content, managing your networks, posting messages, tagging content, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to our newsletters or other mailing lists. Once a user, you may provide additional information as a part of your profile describing yourself and your preferences. Providing additional information beyond what is required is entirely optional, but enables you to better identify yourself and find new opportunities. 
-
-**Information about your Contacts:** In order to share your live video streams, recorded content or any other content, you may invite other Users by providing their names, email addresses or cell phone numbers. This information will be used only to send your invitation and reminders. You may also choose to import your contacts from other networks. All this information will be viewable by you unless you specify otherwise. All information that you enter or upload about your contacts will be covered by the same terms of this Privacy Policy as cover your own personally identifiable information. 
-
-All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own personally identifiable information. 
-
-**Location information:** We derive location information from your mobile carrier or from the mobile device that you use with the Service. You control when your location is shared with others. Your location is displayed and shared with others on the Service only in accordance with your privacy settings on the Service. In addition, certain premium features of the Service provide more detailed location information than the basic Service. You also may create location information by "geo-tagging" your Content with location information. 
-
-Most users will use location information for social purposes, such as noting the location of a family event captured on video. However, please keep in mind that location information can be very sensitive and subject to misuse or over-monitoring by others, such as family and current or former neighbors, friends and acquaintances. It is important to take care in managing your privacy settings for location information. 
-
-**Mobile Device information:** Due to communication standards on mobile devices, any time you use your mobile browser to visit the Qik Site or Service, we record certain information that your web browser or device sends. This information contains information about your device (such as device manufacturer's name, device model number, operating system of the device, carrier network, etc.). All information collected about your device is used solely for customer support purposes and to provide you with the best possible service. This information is not sold to device manufacturer, network operators or any third party for any commercial gain. 
-
-**Cookies & Log Files:** Like most web sites, Qik uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Qik to recognize you as a user when you return to the Sites using the same computer/device and web browser. Qik uses both session and persistent cookies. A persistent cookie remains after you close your web browser. Persistent cookies may be used by your web browser on subsequent visits to the site. A session cookie is temporary and disappears after you close your web browser. You can set your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Qik Site or Service may not function properly if the ability to accept cookie is disabled. 
-
-Due to the communications standards on the Internet, when you visit the Qik Sites, our servers automatically record certain information that your web browser and or device sends whenever you access any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, platform type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed and order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. This information is used to analyze overall trends to help us improve the service, but is not linked to personally identifiable information in any way. 
-
-**Children:** Children under the age of thirteen (13) should not provide any personally identifiable information on the Service or Sites without the knowledge and permission of his or her parent or guardian. In the event that Qik determines that a user of the Service or Sites is under the age of 13, Qik will not maintain or use any personally identifiable information about such user without the consent of his or her parent or guardian, except as allowed by law. The result of the foregoing is that children under the age of 13 will be unable to participate in some activities on the site without parental consent. Qik may collect personally identifiable information directly from visitors on this site who may be under the age of 13. However, Qik does not collect this information without the knowledge of the visitor. 
-
-##  Information Use 
-
-Qik Sites and Service utilize your personally identifiable information and location information to operate, maintain and provide you with the features and functionality of the Qik Sites and Service. Any personal information, location information or content that you voluntarily disclose online (such as forums, discussion boards, posting comments, chats, your profile page, etc.) become publicly available and can be collected and used by others. Your Name (not email address) is displayed to the other Users when you stream videos, upload videos, or send messages through Qik Sites and Service as a result of which other users can contact you through messages or comments. Based on your privacy settings, any content that you submit to Qik may be redistributed through the Internet and other media channels and may be viewed by the general public. 
-
-We do not use your cell phone number, email address or other personally identifiable information or location information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your cell phone number, email address and/or location information without further consent for non-marketing or administrative purposes (such as notifying you of major Qik Site and/or Service changes or for customer service purposes). 
-
-We use both your personally identifiable information and certain non-personally identifiable information (such as anonymous User usage data, cookies, IP address, browser type, clickstream data, aggregated data, etc.) to improve the overall quality and design of Qik Sites and Service and to create new features, promotions, functionality, and services by storing and analyzing preferences and trends. 
-
-We use Cookies and Log File information to: 
-
-  * Remember information so that you will not have to re-enter it during your current or future visits to the Qik Sites and Service 
-
-  * Provide custom, personalized content and information 
-
-  * Monitor the effectiveness of our marketing campaigns 
-
-  * Monitor aggregate metrics (such as total number of visitors, page views, etc.) 
-
-  * Track your entries and status in contests, sweepstakes and promotions 
+  1. What is Skype and what products does it offer? 
+  2. What information does Skype use? 
+  3. How does Skype use this information and for what purpose? 
+  4. Our disclosure of your personal information 
+  5. What are cookies and how does Skype use them? 
+  6. Your User Profile 
+  7. Linked websites and third party applications 
+  8. How does Skype protect your personal information? 
+  9. Personal Data of Friends 
+  10. Contacting You 
+  11. Can this Privacy Policy be modified? 
+  12. What rights do you have and how can you contact Skype? 
+  13. How long is your personal data kept by Skype? 
 
 
 
+**1\. WHAT IS SKYPE AND WHAT PRODUCTS DOES IT OFFER?**
 
-##  Information Sharing 
+Skype Software S.à r.l. offers the Skype internet communications software application and the ‘Qik’ branded software applications, Skype Inc. offers Skype Manager and Skype products purchased through Skype Manager to customers in the United States, and Skype Communications S.à r.l. offers other Skype products, including ‘Qik’ branded products. 
 
-**Sharing Information With Third Parties:** Qik takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for commercial or marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions and to provide specific services. We may however provide personally identifiable information and non-personally identifiable information to our subsidiaries, affiliated companies or other businesses or persons for processing such information on our behalf. In these cases, we require that these parties agree to process such information in compliance with this Privacy Policy. 
+**2\. WHAT INFORMATION DOES SKYPE USE?**
 
-We do share non-personally identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, aggregated data, etc.) with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Qik Sites and Service. 
+Skype may gather and use information about you, including (but not limited to) information in the following categories: 
 
-We may release personally identifiable information and/or non-personally identifiable information if required to do so by law, or if we in good faith believe that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, search warrant, exercise our legal rights or defend against legal claims. 
+(a) Identification data (e.g. name, address, telephone number, mobile number, email address); 
 
-Qik also reserves the right to disclose personally identifiable information and/or non-personally identifiable information that Qik believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third party claims or allegations, to assist government or enforcement agencies, to protect the security or integrity of our website and to protect the rights, property, or personal safety of Qik, our Users or others. 
+(b) Profile information (e.g. age, gender, country of residence and any information that you choose to make available to others as part of your Skype user profile); 
 
-**Communications Between Users:** Many messages you initiate through Qik Site or Service (such as an invitation sent to a non-user), will list your name, email address or cell phone. Messages you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will never list the people to whom you’re directly connected. 
+(c) Electronic identification data (e.g. IP addresses, cookies); 
 
-**Third party Advertisers, Links to Other Sites:** Qik may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Qik Sites and Service. These third party ad servers or ad networks use technology to send, directly to your web browser, advertisement and links that appear on the Qik Sites and Service. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript or Web Beacons) to measure the effectiveness of their advertisement and to personalize the advertising content you see. Qik does not provide any personally identifiable information to these third party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Qik to show an advertisement to certain audience (for example, men between the ages of 24-35) or audience segment (for example, men between the ages of 24-35 who have streamed video live) and you respond to that advertisement, the advertiser or ad server may conclude you fit the description of the audience they are trying to reach. The advertiser may also use this information regarding your use of Qik Sites and Service, such as number of times you viewed an ad (but not personally identifiable information), to determine which ads to deliver to you. 
+(d) Banking and payment information (credit card information, account number); 
 
-If you click on an advertisement, or click a link that takes you to a website that is not operated by Qik, you should familiarize yourself with the privacy practices of that advertiser or website. Qik's Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 
+(e) Survey results; 
 
-##  Accessing and Changing your Account Information 
+(f) Information about your usage of and interaction with the Skype software, our products and websites including computer and connection information, device capability, bandwidth, statistics on page views, and traffic to and from our websites; 
 
-You can review and update your personal information at any time by visiting your profile page. You may of course decline to submit personally identifiable information through the Qik Site and Service, in which case Qik may not be able to provide certain services to you. Please note that media files by Users of Qik Sites and Service remain subject to our Terms of Service, even if you have deleted them from the pages associated with your account. If you inadvertently post materials in violation of our Terms of Service, please send an email to [report@qik.com](mailto:report@qik.com)
+(g) Products or services ordered and delivered; 
 
-##  Our Commitment to Security 
+(h) The URL of videos that you have selected to appear in your mood message; 
 
-We pay close attention to security. First, we focus significant time and resources to ensure that user accounts and information are not misused by Qik employees. A limited set of employees are authorized to access user accounts, they are educated about the importance of maintaining user privacy, and their access to user accounts is recorded. Our employees are also contractually required to access accounts and log data only for quality, security, audit, and other internal business purposes. Second, we use commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We implement technology and procedures to try to make sure that external parties cannot access or modify users’ personal information on our servers. These technologies and procedures include industry standard methods, like communicating over secure socket layer (SSL), as well as our own proprietary methods. Additionally, private information can be accessed only by providing your password. 
+(i) Skype test calls made to ECHO123 (which are recorded and played back to the user and deleted thereafter); 
 
-We cannot ensure or warrant the security of any information you transmit to Qik over the public networks. Once we receive your information, Qik makes commercially reasonable efforts to ensure the security of our systems. 
+(j) List of your contacts; 
 
-If Qik learns of a security system breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Qik may post a notice on the Qik Sites and Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
+(k) Your user profile; 
 
-##  Changes to this Privacy Policy 
+(l) Your username and password for other email accounts where you have provided this to us and requested us to search for your friends on Skype (please note that Skype does not retain this information or use it for any other purpose); 
 
-Qik may revise this privacy policy periodically and this will be reflected by the "effective date" at the bottom of this Privacy Policy. Please revisit this page to stay aware of any changes. Your continued use of Qik Sites and Service constitutes your agreement to this Privacy Policy and any future revisions. 
+(m) Correspondence between you and Skype; 
 
-##  Questions or Comments 
+(n) Traffic data (data processed for the purpose of the conveyance of communications or the billing thereof, including, but not limited to, the duration of the call, the number calling and the number called); and 
 
-If you have questions or comments about this Privacy Policy, please email us at [report@qik.com](https://web.archive.org/web/20101208061051id_/http%3A//qik.com/info/report@qik.com) or contact us at: 
+(o) content of instant messaging communications (please see section 13). 
 
-Qik, Inc.  
-Attn: Privacy Policy Issues  
-811 Hamilton Street, 2nd Floor  
-Redwood City, CA 94063 
+**3\. HOW DOES SKYPE USE THIS INFORMATION AND FOR WHAT PURPOSE?**
 
-Effective Date: September 15, 2009 
+Our primary purpose in collecting information is to provide you with a safe, smooth, efficient, and customized experience. Skype collects and uses, or has third party service providers acting on Skype’s behalf collecting and using, personal data relating to you, as permitted or necessary to: 
+
+• provide communication products, in particular to convey the communications you and others make by means of the Skype software and/or the Skype products; 
+
+• take, process or deliver orders made via our websites, invoice you or notify you of the status of your order; 
+
+• provide other services for you (as described when we collect the information); 
+
+• provide you with customer support and troubleshoot problems; 
+
+• compare information for accuracy; 
+
+• inform you about service updates and faults; 
+
+• request feedback or participation in on-line surveys; 
+
+• resolve disputes; 
+
+• verify your identity; 
+
+• customize, measure, and improve the Skype software, our products and websites; 
+
+• to improve our search functionality and help you find contacts more easily; 
+
+• organise and carry out Skype’s marketing or promotional operations/offers, contests, games and similar events; and 
+
+• protect your and Skype’s interests, including in particular to enforce our Terms of Service and fight against fraud, (together, the Purposes). 
+
+**4\. OUR DISCLOSURE OF YOUR PERSONAL INFORMATION**
+
+Except as provided below, Skype shall not sell, rent, trade or otherwise transfer any personal and/or traffic data or communications content to any third party without your explicit permission, unless it is obliged to do so under applicable laws or by order of the competent authorities. 
+
+Skype may disclose personal information to respond to legal requirements, to protect Skype’s interests, to enforce our policies or to protect anyone's rights, property, or safety. 
+
+In order to provide you with Skype products you have requested, Skype may sometimes, if necessary, share your personal and traffic data with Skype’s group companies, carriers, partner service providers and/or agents, for example the PSTN-VoIP gateway provider, WiFi access services providers, distributors of Skype software and/or Skype products, and/or the third party banking organizations or other providers of payment, email delivery, analytical services, customer support, or hosting services. Skype will always require these third parties to take appropriate organizational and technical measures to protect your personal data and traffic data and to observe the relevant legislation. 
+
+Some Skype products may be co-branded and offered together with or via a partner company. If you register for or use such products, you consent to both Skype and the partner company’s use of personal data collected in connection with the co-branded product. Skype may offer its products in connection with other websites or services or may team with other online services to give you the combined results of both products/services or additional services and benefits. To determine whether you would benefit from the combined offer, if you have provided your consent, Skype may match your email address, and email addresses of your contacts against email addresses you have provided to the third party website/service provider. 
+
+If you are a member of the Skype Manager, detailed information about the activity on your Skype account including traffic data and details of your purchases and downloads may be accessed by your Skype Manager Administrator if you have agreed to such access. You can withdraw your agreement at any time by changing the settings on your account page on www.skype.com. If you provide personal data including your name and job title to be included in the Skype Manager directory, you acknowledge that such data may be viewed by other members of the Skype Manager. 
+
+If you leave a voicemail for another Skype user, your voicemail message may be transferred to a third party service provider (where the Skype contact you are trying to reach has signed up to receive voicemails by text message), and will be converted to text. The conversion process may in exceptional cases, require access by analysts. By using the voicemail product, you consent to the processing of your voicemail message by Skype and its service provider. 
+
+Skype, Skype's local partner, or the operator or company facilitating your communication may provide personal data, communications content and/or traffic data to an appropriate judicial, law enforcement or government authority lawfully requesting such information. Skype will provide all reasonable assistance and information to fulfil this request and you hereby consent to such disclosure. 
+
+Your information may be stored and processed in any country in which Skype and its group companies maintain facilities, including outside of the EU. In this regard, or for purposes of sharing or disclosing data in accordance with this article 4, Skype reserves the right to transfer information outside of your country. By using Skype software, Skype's websites or Skype products you consent to any such transfer of information outside of your country. As Skype continues to develop its business, Skype might sell or buy subsidiaries or business units. In such transactions as well as in the event Skype or substantially all of its assets are acquired by a third party, personal information of Skype users will generally be one of the transferred business assets. We reserve the right to include your personal information, collected as an asset, in any such transfer to a third party. 
+
+**5\. WHAT ARE COOKIES AND GIFS HOW DOES SKYPE USE THEM?**
+
+Cookies are pieces of information that the browser of the Skype software client or your internet browser may store on your computer's hard drive. Cookies enable Skype, Skype’s ad serving partners and third party advertisers to: recognize you or your preferences, gain information about the use of our websites, and help us to improve our products and websites. This information may be analyzed by third parties on our behalf. 
+
+The Help option on the toolbar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Skype software browser cookies can be disabled by: accessing the File menu from your Skype software client toolbar, choosing the Privacy option and unchecking the ‘Allow Skype Browser Cookies’ box. 
+
+Please bear in mind that some personalized services may not be available if you choose to disable cookies. 
+
+**Clear Gifs**
+
+Skype web pages may include clear gifs. Clear gifs (also known as web-beacons) are tiny graphics with a unique identifier, which are used to count your visits to the page (but which do not retain any personally identifiable information). In addition, Skype uses clear gifs in our HTML-based emails to let us know which emails have been opened and acted upon. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+
+**Advertising**
+
+The advertisements of Skype appearing on third party websites and the advertisements of third parties appearing in the Skype software and on third party websites are delivered to you by our carefully selected ad-serving partners (“Ad-Serving Partners”). Skype and our Ad-Serving Partners may use non-personally identifiable information about you and/or your relationship with Skype’s websites and the Skype software in order to provide advertisements likely to be of greater interest to you and to help us measure and improve the performance of our advertising campaigns. Skype and our Ad-Serving Partners typically use a cookie or web-beacon to collect this information. 
+
+**Third Party Advertisements**
+
+To opt-out of the use of non-personally identifiable by Skype for the purposes of serving advertisements of greater interest to you within the Skype Software, please visit the privacy menu from your Skype software client toolbar. 
+
+To manage the cookies used by DoubleClick, one of our Ad Serving Partners, or to opt-out of the use of non-personally identifiable information by DoubleClick for the purpose of serving advertisements of greater interest to you please visit: [ http://www.doubleclick.com/privacy/opting_out.aspx ](http://www.doubleclick.com/privacy/opting_out.aspx)
+
+**Skype Advertisements**
+
+You may also choose to opt-out of the use of your information in connection with Skype's advertising efforts on third party websites by clicking on the following link: [ http://media.skype.com/optout_confirmation.html ](http://media.skype.com/optout_confirmation.html) . 
+
+If you choose to opt-out, Skype's advertisements and third party advertisements will still be delivered to you but no information about you or your relationship with Skype's websites or the Skype software will be available for this purpose. 
+
+**6\. YOUR USER PROFILE**
+
+Your user profile is the information provided by you at registration which is displayed in your Skype profile in the Skype software client, in the Skype search directory and on your personal details page in your account on [ www.skype.com ](http://skype.com/) . It may include your Skype username, full name, address, telephone and mobile numbers, gender, date of birth, country, language, “about me” page URL, and any other information that you decide to make available. You can access your user profile from the “Skype” menu in the Skype software client or from your account on www.skype.com in order to view, correct or complete information, remove non-mandatory information; and to see the privacy settings associated with your profile information. 
+
+**7\. LINKED WEBSITES AND THIRD PARTY APPLICATIONS**
+
+Skype websites may contain links that will let you leave Skype's website and access another website. Linked websites are not under the control of Skype and it is possible that these websites have a different privacy policy. The Privacy Policy applies solely to personal information that is acquired on the websites or through your use of the Skype software, Skype products and/or your relationship with Skype, so Skype urges you to be careful when you enter any personal information online. Skype accepts no responsibility or liability for these other websites. 
+
+If you use any extras, plug-ins or third party applications together with the Skype software (“Applications”), the provider of such Applications may obtain access to certain personal information about you. Skype does not and cannot control how the provider of Applications may use any personal information connected in connection with such Applications. Please ensure that you review any privacy policies or other terms applicable to the use of such Application before installation. 
+
+**8\. HOW DOES SKYPE PROTECT YOUR PERSONAL INFORMATION?**
+
+Skype shall take appropriate organizational and technical measures to protect the personal data and traffic data provided to it or collected by it with due observance of the applicable obligations and exceptions under the relevant legislation. Your personal and traffic data can only be accessed by authorized employees or consultants of Skype or the concerned Skype group entities that need to have access to this data in order to be able to fulfil their given duties. 
+
+**9\. PERSONAL DATA OF FRIENDS**
+
+You may be interested in inviting your friends to join Skype. In the event you wish to use Skype's referral service, you will be directed to a webpage and will have the possibility of adding one or more email addresses in an online form. The information entered in this form, will only be used for the purposes of automatically generating an email message to these potential Skype users. By entering your friend’s email address you are confirming that your friend has consented to the supply of their details. Skype may identify you as the person who has made the referral in the email sent to your friend. 
+
+**10\. CONTACTING YOU**
+
+Skype may from time to time ask you to provide information on your experiences which will be used to measure and improve quality. You are at no time under any obligation to provide any of such data. Any and all information which is voluntarily submitted in feedback forms on the website or any survey that you accept to take part in is used for the purposes of reviewing this feedback and improving the Skype software, Skype products and websites. 
+
+Skype may contact you to send you messages about faults and service issues. Further, Skype reserves the right to use email, the Skype software or SMS to notify you of any eventual claims related to your use of Skype software, the Skype websites and/or Skype products, including without limitation claims of violation of third party rights. 
+
+Skype may send you alerts by email or SMS to notify you when someone has tried to contact you. Skype may also use email, SMS or the Skype software to keep you up to date with news about the Skype software and Skype products that you have purchased and/or to inform you about other Skype products or other Skype related information. You can opt-out of the receipt of alerts and/or promotional (a) emails by by clicking the ‘unsubscribe’ link on the email that you receive or by changing your notification settings on your account page on [ www.skype.com ](http://skype.com/) ;; (b) SMS by following the instructions on the SMS that you receive. 
+
+If you have registered for or use co-branded Skype products, the emails or SMS that you receive may be from our partner company, acting on Skype’s behalf. 
+
+**11\. CAN THIS PRIVACY POLICY BE MODIFIED?**
+
+Skype reserves the right to modify the provisions of this Privacy Policy if deemed necessary. We will inform you of these changes by publishing the revised Privacy Policy at [ skype.com/go/privacy ](http://skype.com/go/privacy) . The revised Privacy Policy shall become effective within thirty (30) days of such publishing, unless you expressly accept the revised Policy earlier. You agree that the express acceptance by you, or your continued use of the Skype software or Skype products after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Policy. 
+
+**12\. WHAT RIGHTS DO YOU HAVE AND HOW CAN YOU CONTACT SKYPE?**
+
+You have the right to access and, where relevant, to amend your personal information. Some of your information may be viewed or edited online by signing into your account page on www.skype.com. We will respond to requests to view, correct, complete or remove your personal information within a reasonable period of time and upon verification of your identity. To contact Skype in relation to the “Skype” branded software or products, please submit a support request to [ customer support team ](https://support.skype.com/en/support_request) . 
+
+To contact Skype in relation to the “Qik” branded software or products, please submit a support request to [ http://support.qik.com. ](http://support.qik.com/)
+
+Skype will use all reasonable endeavours to accommodate requests to delete personal information unless it is required to be retained by law or for lawful business purposes. However, please note that due to the technical nature of the peer to peer network, it can sometimes take up to two weeks before your Skype ID disappears completely from the peer to peer network. Your details may still appear in the search directory during this time. 
+
+**13\. HOW LONG IS YOUR PERSONAL DATA KEPT BY SKYPE?**
+
+Skype will retain your information for as long as is necessary to: (1) fulfil any of the Purposes (as defined in article 3 of this Privacy Policy) or (2) comply with applicable legislation, regulatory requests and relevant orders from competent courts. 
+
+Retention of Instant Messages 
+
+Your instant messaging (IM) communications content may be stored by Skype (a) to convey and synchronise your messages and (b) to enable you to retrieve your IM history where possible. IM history messages will be stored for a maximum of 30 days. Skype will at all times take appropriate technical and security measures to protect your information. By using this product, you consent to the storage of your IM communications as described above. 
+
+© Skype — Last revised: June 2011 
