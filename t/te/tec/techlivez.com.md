@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techlivez.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228020615id_/http%3A//www.techlivez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlivez.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628232849id_/http%3A//www.techlivez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techlivez.com
 
-##  Privacy Policy 
+Posted by Shashank on 6 June 2008 0 Comment
 
 Techlivez.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
@@ -25,3 +25,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 Contact Information**
 
 Use Contact Us page if you have any concerns or questions about this privacy policy.
+
+Posted by Shashank   @   6 June 2008 0 Comment
+
+Comments are closed. 
