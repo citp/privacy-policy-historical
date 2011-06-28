@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213155652id_/http%3A//www.bluenile.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628175031id_/http%3A//www.bluenile.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Blue Nile
 
-Last updated May 14, 2009 
+Last updated April 20, 2011 
 
 Thank you for visiting Blue Nile. We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with Blue Nile is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we use the information we collect. This Privacy Policy is incorporated into our [Terms of Service](https://web.archive.org/product_policies.jsp). 
 
@@ -18,35 +18,35 @@ _International Transfers_. Information collected on this Website may be stored a
 
 ### Use of Your Personal Information
 
-We may use the information we collect about you to: 
+We may use the information we collect about you to:
 
-  * Facilitate your purchases and provide the services you request, 
-  * Confirm and track your order, 
-  * Respond to your inquiries and requests, 
-  * Compare and review your personal information for errors, omissions and accuracy, 
-  * Prevent and detect fraud or abuse, 
-  * Improve our Website, service, product offerings, marketing and promotional efforts, and overall customer experience, 
-  * Identify your product and service preferences, 
-  * Understand our customer demographics, preferences, interests, and behavior, and 
-  * Contact you (via email, postal mail, or telephone) regarding products and services (of Blue Nile or our partners) that we believe may be of interest to you. 
+  * Facilitate your purchases and provide the services you request,
+  * Confirm and track your order,
+  * Respond to your inquiries and requests,
+  * Compare and review your personal information for errors, omissions and accuracy,
+  * Prevent and detect fraud or abuse,
+  * Improve our Website, service, product offerings, marketing and promotional efforts, and overall customer experience,
+  * Identify your product and service preferences,
+  * Understand our customer demographics, preferences, interests, and behavior, and
+  * Contact you (via email, postal mail, or telephone) regarding products and services (of Blue Nile or our partners) that we believe may be of interest to you.
 
 
 
-_Send this Product to a Friend and Refer a Friend_. Using a Blue Nile form, you can refer a friend to the Blue Nile Website or send them product information. You and your friend's names and e-mail addresses are requested to ensure that your friend will know that you have requested that Blue Nile send them an e-mail. The information we collect about you and your friend will be used in ways described in this privacy policy. 
+ _Send this Product to a Friend and Refer a Friend_. Using a Blue Nile form, you can refer a friend to the Blue Nile Website or send them product information. You and your friend's names and e-mail addresses are requested to ensure that your friend will know that you have requested that Blue Nile send them an e-mail. The information we collect about you and your friend will be used in ways described in this privacy policy. 
 
 ### Personal Information that we May Share with Others
 
 In certain circumstances, we may share your personal information with trusted partners. 
 
-  * **Service Providers** : We use trusted third-party service providers to perform certain services on our behalf, including: shipping, payment processing, data storage/management, webhosting, web analytics, fulfillment, assembly, marketing, mailing, emailing, etc. These service providers only receive personal information if such information is needed to perform their function(s), and they are not authorized to use any personal information for any other purpose(s) other than the purpose(s) set forth by Blue Nile.
-  *  **Special Events:** If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), Blue Nile may share your personal information with those organizations participating in the applicable event. Unless we tell you otherwise in connection with a special event, these third parties do not use your information for any other purpose other than to manage the event. We may authorize trusted partners to send you information about products and services that may be of interest to you.
-  *  **Partners** : Blue Nile may provide information to carefully selected partners. In such cases, we might share and/or cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you, such as financing services for purchasing Blue Nile products.
-  *  **Compliance with Law and Fraud Protection** : We may, and you authorize us to use and disclose any information, including personal information: (1) we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request; (2) in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law; (3) to other companies and organizations for credit fraud protection and risk reduction; and (4) to enforce any agreement we have with you.
-  *  **Business Transfer** : Your personal information may be disclosed as part of any merger, sale of company assets or acquisition, as well as in the event of an insolvency, bankruptcy or receivership, in which personal information would be transferred as one of the business assets of the Company.
+  * **Service Providers** : We use trusted third-party service providers to perform certain services on our behalf, including: shipping, payment processing, data storage/management, webhosting, web analytics, fulfillment, assembly, marketing, mailing, emailing, etc. These service providers only receive personal information if such information is needed to perform their function(s), and they are not authorized to use any personal information for any other purpose(s) other than the purpose(s) set forth by Blue Nile. 
+  * **Special Events:** If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), Blue Nile may share your personal information with those organizations participating in the applicable event. Unless we tell you otherwise in connection with a special event, these third parties do not use your information for any other purpose other than to manage the event. We may authorize trusted partners to send you information about products and services that may be of interest to you. 
+  * **Partners** : Blue Nile may provide information to carefully selected partners. In such cases, we might share and/or cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you, such as financing services for purchasing Blue Nile products. 
+  * **Compliance with Law and Fraud Protection** : We may, and you authorize us to use and disclose any information, including personal information: (1) we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request; (2) in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law; (3) to other companies and organizations for credit fraud protection and risk reduction; and (4) to enforce any agreement we have with you. 
+  * **Business Transfer** : Your personal information may be disclosed as part of any merger, sale of company assets or acquisition, as well as in the event of an insolvency, bankruptcy or receivership, in which personal information would be transferred as one of the business assets of the Company. 
 
 
 
- _Anonymous Information_. We may create anonymous records from personal information by excluding information (such as your name) that makes the information personally identifiable to you. We may use these records for internal purposes, such as analyzing usage patterns so that we may enhance our services, and we also reserve the right to use and disclose any information in such records at our discretion. 
+_Anonymous Information_. We may create anonymous records from personal information by excluding information (such as your name) that makes the information personally identifiable to you. We may use these records for internal purposes, such as analyzing usage patterns so that we may enhance our services, and we also reserve the right to use and disclose any information in such records at our discretion. 
 
 _Comments_. We value your comments, feedback, testimonials, etc., which help us improve our website, products, and services. By making such submissions to us, you assign your rights in the submissions to us, as described in the "Submissions" section of our [Terms and Conditions](https://web.archive.org/product_policies.jsp) page. 
 
@@ -82,10 +82,10 @@ If the personally identifiable information Blue Nile has gathered from you chan
 
 We want to communicate with you only if you want to continue to hear from us. 
 
-To opt out of receiving email promotions that we send you: (1) select "unsubscribe" on our subscription status page and enter the requested information or follow the unsubscribe instructions in any of our promotional emails; or (2) write to Customer Service at 705 Fifth Avenue, South, Suite 900, Seattle, WA, 98104 (a "postal request"). To opt out of telephone promotions, you can tell us when we call you or you can send us a postal request. To opt out of postal mail promotions, please send us a postal request. 
+To opt out of receiving email promotions that we send you: (1) select "unsubscribe" on our subscription status page and enter the requested information or follow the unsubscribe instructions in any of our promotional emails; or (2) write to Customer Service at 411 First Avenue, South, Suite 700, Seattle, WA, 98104 (a "postal request"). To opt out of telephone promotions, you can tell us when we call you or you can send us a postal request. To opt out of postal mail promotions, please send us a postal request. 
 
 Opting out of communication with us does not affect our communications with you via telephone or email related to your orders with us. It also does not affect our use of your non-personally identifiable information. 
 
 ### Your California Privacy Rights
 
-If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: Blue Nile Customer Service at 705 Fifth Avenue, South, Suite 900, Seattle, WA, 98104; attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year. 
+If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: Blue Nile Customer Service at 411 First Avenue, South, Suite 700, Seattle, WA, 98104; attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year.
