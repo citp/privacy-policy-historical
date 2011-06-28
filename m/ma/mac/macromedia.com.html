@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macromedia.com privacy policy that was archived on 2010-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101108172016id_/http%3A//www.adobe.com/go/gftray_foot_privacy_security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macromedia.com privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628064453id_/http%3A//www.adobe.com/go/gfooter_privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/master.dwt" codeOutsideHTMLIsLocked="true" --><head>
 
@@ -41,14 +41,14 @@ document.observe('dom:loaded', function() {
 <body>
 <!--googleoff: all--><a href="/help/accessibility.html" tabindex="1" id="accesslink">Accessibility</a><!--googleon: all-->
 <!--googleoff: index-->
-<!-- $Id: globalnav_ssi.html,v 1.6 2010/10/05 01:26:50 dgasior Exp $ -->
+<!-- $Id: globalnav_ssi.html,v 1.8 2010/12/09 22:24:50 dgasior Exp $ -->
 <form id="globalnav-search" class="en" name="globalnav-search" method="get" action="/go/gnav_search" accept-charset="utf-8">
     <div id="SiteHeader" class="SiteHeader Text TextSmall">
         <span id="globalnav"></span>
         <a href="/go/gnav_adobe_logo_en_us" id="shHome" class="SiteHeaderHome">Adobe</a>
         <div class="SiteHeaderBar" id="shBar">
             <a href="/go/gnav_products_en_us" id="shProducts" class="SiteHeaderBarItem SiteHeaderBarItemFirst SiteHeaderBarLink">Products</a>
-            <a href="/go/gnav_industries_en_us" id="shIndustries" class="SiteHeaderBarItem SiteHeaderBarLink">Industries</a>
+            <a href="/go/gnav_solutions_en_us" id="shSolutions" class="SiteHeaderBarItem SiteHeaderBarLink">Solutions</a>
             <a href="/go/gnav_learning_en_us" id="shLearning" class="SiteHeaderBarItem SiteHeaderBarLink">Learning</a>
             <a href="/go/gnav_help_en_us" id="shHelp" class="SiteHeaderBarItem SiteHeaderBarLink">Help</a>
             <a href="/go/gnav_downloads_en_us" id="shDownloads" class="SiteHeaderBarItem SiteHeaderBarLink">Downloads</a>
@@ -79,7 +79,7 @@ document.observe('dom:loaded', function() {
             <a href="/go/gnav_search" id="shSearchButton" class="SiteHeaderBarItem SiteHeaderSearchButton" style="display: none;">Search</a>
             <div class="SiteHeaderBarItem SiteHeaderBarItemLast">&nbsp;</div>
             <div id="site-search" class="SiteHeaderSearch">
-                <input title="Search" type="text" id="search-input" name="term" autocomplete="off" maxlength="1000">
+                <input title="Search" type="text" id="search-input" name="term" maxlength="1000">
                 <button type="submit" id="search-submit" class="icon-replace search">Search</button>
             </div>
         </div>
@@ -312,7 +312,7 @@ document.observe('dom:loaded', function() {
 	</div></div></div></div></div></div></div>
 </div>
 <!--googleoff: index-->
-<!-- $Id: globalfooter_ssi.html,v 1.10 2010/10/05 22:17:42 dgasior Exp $ -->
+<!-- $Id: globalfooter_ssi.html,v 1.13 2011/04/29 20:42:36 dgasior Exp $ -->
 <div id="SiteFooter" class="SiteFooter Text TextSmall Link">
     <div class="SiteFooterNav LayoutRow LayoutH LayoutHAlignRight">
         <div class="SiteFooterRegionButton LinkStrong">
@@ -407,11 +407,12 @@ document.observe('dom:loaded', function() {
             <a href="/go/gfooter_eulas" id="sfEulas" class="SiteFooterNavItem LayoutHItem">EULAs</a>
             <a href="/go/gfooter_permissions_trademarks" id="sfPermissions" class="SiteFooterNavItem LayoutHItem">Permissions and trademarks</a>
             <a href="/go/gfooter_careers" id="sfCareers" class="SiteFooterNavItem LayoutHItem">Careers</a>
+            <a href="#" id="_bapw-link" class="SiteFooterNavItem LayoutHItem icon Icon SiteFooterMenuItemIconEvidon" style="display:none;">Ad Choices</a>
         </div>
     </div>
     <div class="SiteFooterBar LayoutCell TextInvert LinkInvert LinkStrong">
-        <p class="SiteFooterRow">Copyright © 2010 Adobe Systems Incorporated.  All rights reserved.</p>
-        <a href="/go/gfooter_truste_logo" target="_blank"><img class="LayoutImageRight" alt="Reviewed by TRUSTe: site privacy statement" src="/include/img/truste_seal_eu.gif"></a>
+        <p class="SiteFooterRow">Copyright © 2011 Adobe Systems Incorporated.  All rights reserved.</p>
+        <a href="/go/gfooter_truste_logo"><img class="LayoutImageRight" alt="Reviewed by TRUSTe: site privacy statement" src="/include/img/truste_seal_eu.gif"></a>
         <p class="SiteFooterRow">Use of this website signifies your agreement to the <a href="/go/gfooter_terms_of_use">Terms of Use</a> and <a href="/go/gfooter_privacy_policy">Online Privacy Policy</a> <em>(updated 07-14-2009)</em>.</p>
     </div>
 </div>
@@ -457,11 +458,31 @@ else if (window.s_docHost.indexOf("help.adobe.com") != -1) {
   if (window.s_docURL.indexOf("/en_us/") == -1) {
     s_docURLArray=s_docURL.split('/');
     s_pageName="http://help.adobe.com/"+s_docURLArray[1]+"/"+ s_docURLArray[2]+"/"+s_docURLArray[3];
-    s_prop23="http://help.adobe.com"+s_docURL;
+    s_prop23="http://help.adobe.com"+window.location.pathname;
   }
 }
-else if (window.s_docHost.indexOf("kb2.adobe.com") != -1)
+else if (window.s_docHost.indexOf("kb2.adobe.com") != -1) {
   s_channel="Support Knowledgebase";
+  s_prop23="http://kb2.adobe.com"+s_docURL+":";
+  if (typeof(omtrProductList) != 'undefined' && omtrProductList.length > 0)
+ {
+    s_prop23=s_prop23+omtrProductList;
+  }
+}
+else if (window.s_docHost.indexOf("resellers.adobe.com") != -1) {
+		var s_pageName=document.getElementsByTagName("title")[0].text;
+}
+
+else if (window.s_docURL.indexOf("translate.google.com") != -1) {
+s_prop53="translate.google.com";
+}
+else if (window.s_docURL.indexOf("www.microsofttranslator.com") != -1) {
+s_prop53="www.microsofttranslator.com";
+}
+else if (window.s_docURL.indexOf("babelfish.yahoo.com") != -1) {
+s_prop53="babelfish.yahoo.com";
+}
+
 
 if (!window.scMMInclude) {
 	var s_wd=window,s_tm=new Date;
