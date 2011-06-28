@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringtonepartner.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124000846id_/http%3A//www.ringtonepartner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringtonepartner.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628092545id_/http%3A//www.ringtonepartner.com/privacy) for the most accurate reproduction.*
 
 # Ringtone Partner – Global Mobile Content Affiliate Program
 
