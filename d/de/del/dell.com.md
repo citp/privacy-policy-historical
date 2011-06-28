@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231061352id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628162153id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell Terms of Sale, License Agreements & Policies | Dell
 
@@ -51,7 +51,9 @@ Personal information collected may be stored and processed in the United States 
 
 Disclosing Personal Information
 
-We may share your personal information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs. We may also disclose your personal information in connection with law enforcement, fraud prevention, or other legal action; as required by law or regulation; or if Dell reasonably believes it is necessary to protect Dell, its customers, or the public. In addition, we may share your personal information with business partners that help Dell carry out transactions you request or that help Dell to customize, analyze, and/or improve our communication or relationship with you, and then only with business partners who share Dell's commitment to protecting your personal information. Except as described above, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
+We may share your personal information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs. We may also disclose your personal information in connection with law enforcement, fraud prevention, or other legal action; as required by law or regulation; or if Dell reasonably believes it is necessary to protect Dell, its customers, or the public.
+
+In addition, we may share your personal information with business partners that help Dell carry out transactions you request or that help Dell to customize, analyze, and/or improve our communication or relationship with you, and then only with business partners who share Dell's commitment to protecting your personal information. Except as described above, we will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent.
 
 How You Can Access Your Information
 
@@ -86,9 +88,9 @@ Dell takes children's privacy seriously. We do not knowingly collect personal in
 
 If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian.
 
-How We Use Cookies and Web Beacons
+How We and Our Partners Use Cookies and Web Beacons
 
-Click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=001) for information about the use of cookies and web beacons.
+Click [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=001) for information about how we and our partners use cookies and web beacons to customize content and to tailor advertisements and email you receive.
 
 Third-Party Websites and Services
 
@@ -113,4 +115,4 @@ USA
 
 You may also email us at [privacy@dell.com](mailto:privacy@dell.com).
 
- **Privacy Statement Regarding Customer and Online User Information Effective Date: July 12, 2009**
+ **Privacy Statement Regarding Customer and Online User Information Effective Date: December 30, 2010.**
