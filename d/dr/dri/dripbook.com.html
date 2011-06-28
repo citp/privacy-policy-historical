@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dripbook.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229190938id_/http%3A//www.dripbook.com/top/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dripbook.com privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628153756id_/http%3A//www.dripbook.com/top/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" dir="ltr" xml:lang="en-us"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=1000;FF=1000;OtherUA=1000">
@@ -18,12 +18,12 @@
 
 
 
-<script type="text/javascript" src="/script/cmp/bdetect.js?m=10000020"> //i</script>
-<script type="text/javascript" src="/script/cmp/_squeezed.js?m=10000020"> //i</script>
+<script type="text/javascript" src="/script/cmp/bdetect.js?m=10000022"> //i</script>
+<script type="text/javascript" src="/script/cmp/_squeezed.js?m=10000022"> //i</script>
 
 <script type="text/javascript"> DADA['http'] = 'http://www.dripbook.com'; DADA['https'] = 'https://secure.dripbook.com';</script>
-<link rel="stylesheet" type="text/css" href="/css/base.css?m=10000020">
-<link rel="stylesheet" type="text/css" href="/css/bubbles.css?m=10000020">
+<link rel="stylesheet" type="text/css" href="/css/base.css?m=10000022">
+<link rel="stylesheet" type="text/css" href="/css/bubbles.css?m=10000022">
 
 
 
@@ -32,10 +32,55 @@
 	
 
 
+	<script type="text/javascript" src="/script/swfobj/swfobject2.js?m=10000022">//i</script> 
+	<script type="text/javascript">
+	//<!--
+		function DB_drawVid(id, file, img, w, h){
+			w = w || 640;
+			h = h || 496;
+			if(!this.vid_ct){
+				this.vid_ct = 0;
+			}
+			this.vid_ct++;
+			var flashvars = {
+				"file" : file,
+				"image" : img,
+				'backcolor' :'0x111111',
+				'frontcolor' :'0xAAAAAA',
+				'showfullscreen' : 'false',
+				'stretching' : 'uniform',
+				'resizing' : 'true',
+				'smoothing' : 'true',
+				'controlbar' : 'over',
+				'bufferlength' : 2,
+				'enablejs' : 'true'
+			};
+			var params = {
+				'AllowScriptAccess': "always",
+				'allowfullscreen' : 'false',
+				'wmode' : 'transparent'
+			};
+			var attributes = {
+				'id' : 'vidply_' + this.vid_ct,
+				'name' : 'vidply_' + this.vid_ct
+			};
+			
+			if(!Organizer.have_flash()){
+				var d = $(id);
+				$style(d, 'width', w + 'px');
+				$style(d, 'height', h + 'px');
+				$style(d, 'vertical-align', 'middle');
+				d.innerHTML = '<video src="' + flashvars['file'] +'" controls="controls" width="100%" height="100%"><img src="' + flashvars['image'] + '" align="left" />your browser does not support the video tag</video>';
+			}else{
+				swfobject.embedSWF("http://www.dripbook.com/swf/dbvplayer.swf", id, w, h , "9.0.0","", flashvars, params, attributes);
+			}
+		}
+	//-->
+	</script>
 	
 
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="/css/ie.css?m=10000020" />	
+<link rel="stylesheet" type="text/css" href="/css/ie.css?m=10000022" />	
 
 
 <![endif]-->
@@ -73,13 +118,13 @@
 				<table id="other_header_nav">
 					<tbody><tr>
 						<td nowrap="nowrap">
-							<a href="http://www.dripbook.com:8080/" title="Home" class="nomenu">Home</a>
+							<a href="http://www.dripbook.com/" title="Home" class="nomenu">Home</a>
 						</td>
 						<td nowrap="nowrap">
-							<a href="http://www.dripbook.com:8080/blogs/" title="Blog" id="db_blog_link" class="nomenu">Blog</a>
+							<a href="http://www.dripbook.com/blogs/" title="Blog" id="db_blog_link" class="nomenu">Blog</a>
 						</td>
 						<td id="home_br_lk_td" style="display:none">
-							<a href="http://www.dripbook.com:8080/" title="Last Browse" class="nomenu" id="home_br_lk">Last Browse</a>
+							<a href="http://www.dripbook.com/" title="Last Browse" class="nomenu" id="home_br_lk">Last Browse</a>
 						</td>
 						
 						<td nowrap="nowrap">
@@ -105,7 +150,7 @@
 	
 	<div style="display:none;" id="db_search_form">
 	<div class="browse_pop">
-		<form action="http://www.dripbook.com:8080/search/" method="get" id="s_sef"><table width="100" cellpadding="0" cellspacing="0"><tbody><tr><td><input type="text" size="18" value="Search" name="q" id="s_searcher"></td><td><button onclick="return ($('s_searcher').value.length)?$('s_sef').submit():false" class="default" style="height:19px;padding-top:1px;">Go</button></td></tr></tbody></table></form>
+		<form action="http://www.dripbook.com/search/" method="get" id="s_sef"><table width="100" cellpadding="0" cellspacing="0"><tbody><tr><td><input type="text" size="18" value="Search" name="q" id="s_searcher"></td><td><button onclick="return ($('s_searcher').value.length)?$('s_sef').submit():false" class="default" style="height:19px;padding-top:1px;">Go</button></td></tr></tbody></table></form>
 	</div>
 	</div>
 	
@@ -113,11 +158,11 @@
 		<a href="javascript:void(0)" onclick="QuickBrowseBub.kill(event, true)" title="close" class="bubble_close">&nbsp;</a>
 		<ul>
 			
-			<li><a href="http://www.dripbook.com:8080/top/browse/" title="Browse Dripbook">Browse Dripbook</a></li>
-			<li><a href="http://www.dripbook.com:8080/top/mapper/" title="Browse Dripbook">Dripbook Map</a></li>
-			<li><a href="http://www.dripbook.com:8080/search/" title="Search Dripbook">Search Dripbook</a></li>
+			<li><a href="http://www.dripbook.com/top/browse/" title="Browse Dripbook">Browse Dripbook</a></li>
+			<li><a href="http://www.dripbook.com/top/mapper/" title="Browse Dripbook">Dripbook Map</a></li>
+			<li><a href="http://www.dripbook.com/search/" title="Search Dripbook">Search Dripbook</a></li>
 			<li>
-			<form action="http://www.dripbook.com:8080/search/" method="get" id="s_sefb"><table width="100" cellpadding="0" cellspacing="0"><tbody><tr><td><input type="text" size="20" value="Search" name="q" id="s_seb"></td><td><button onclick="return ($('s_seb').value.length)?$('s_sefb').submit():false" class="default">Go</button></td></tr></tbody></table></form>
+			<form action="http://www.dripbook.com/search/" method="get" id="s_sefb"><table width="100" cellpadding="0" cellspacing="0"><tbody><tr><td><input type="text" size="20" value="Search" name="q" id="s_seb"></td><td><button onclick="return ($('s_seb').value.length)?$('s_sefb').submit():false" class="default">Go</button></td></tr></tbody></table></form>
 			</li>
 		</ul>
 	</div>
@@ -125,7 +170,7 @@
 
 	<div id="userheader">
 		<span class="login">
-			<a href="https://secure.dripbook.com:8080/restricted/?rinvite=1" title="signup">Signup</a> / <a href="https://secure.dripbook.com:8080/login/?next=ref&amp;d=20101217044726" title="login" id="quick_login">Login</a> 
+			<a href="https://secure.dripbook.com/restricted/?rinvite=1" title="signup">Signup</a> / <a href="https://secure.dripbook.com/login/?next=ref&amp;d=20110625112044" title="login" id="quick_login">Login</a> 
 			- <a href="/top/aboutus/">What is Dripbook?</a> - <a href="/upgrade/">Pricing / Features</a>
 		</span>
 	</div>
@@ -143,7 +188,7 @@
 					&nbsp;
 				</td>
 				<td align="right">
-					<a href="https://secure.dripbook.com:8080/forgot/" title="forgot">Forgot?</a>
+					<a href="https://secure.dripbook.com/forgot/" title="forgot">Forgot?</a>
 					<button class="default" onclick="return DADA.check_login(this.form, 'ref', 'login_quick')">Login</button>
 				</td>
 			</tr>
@@ -333,21 +378,27 @@
 			<li><a href="/top/contactus/">Contact Us</a> - </li>
 			<li><a href="#" rel="nofollow" onclick="DADA_emlist.tglnews(this, 'db_newsletter'); return false;">Join Our Mailing List</a> </li>
 			
+			
+			
+			
 		</ul>
 		</td>
 		<td align="right">
 		<ul>
 			<li class="followus"><small>On:</small> <a href="http://www.facebook.com/dripbook" target="_blank">Facebook</a> -
 				<a href="http://twitter.com/dripbook" target="_blank">Twitter</a>
+				
+			
+				
 			</li>
 		</ul>
 		</td>
 		</tr>
 		</tbody></table>
-		<p class="copyright">Copyright © 2010 Dadaphile, Inc. All Rights Reserved</p>
+		<p class="copyright">Copyright © 2011 Dadaphile, Inc. All Rights Reserved</p>
 
 		<div id="db_newsletter" style="display:none">
-			<div class="close" href="#" onclick="DADA_emlist.tglnews(null, 'db_newsletter'); return false;"> </div>
+			<div class="close" onclick="DADA_emlist.tglnews(null, 'db_newsletter'); return false;"> </div>
 			<div class="db_newsletter_wrap">
 			<h3>Signup to Receive our Monthly "Featured in Dripbook" Newsletter.</h3>
 			<div id="newsletter_err" class="err"> </div>
@@ -397,27 +448,10 @@
 //-->
 </script>
 
-<script type="text/javascript">
-//<!--
-var _qacct="p-ddvx1z_oAICMM";
-(function() {
-	function db_ld_q_cast() {
-		var s = document.createElement('script');
-		s.src = '//secure.quantserve.com/quant.js';
-		document.body.appendChild(s);
-
-		if (typeof quantserve == 'function') {
-			quantserve();
-		}
-	}
-	$E.on(window, 'load', db_ld_q_cast);
-})();
-//-->
-</script>
-
-<noscript>
-<a href="http://www.quantcast.com/p-ddvx1z_oAICMM" target="_blank"><img src="https://secure.quantserve.com/pixel/p-ddvx1z_oAICMM.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
 
 
-<script src="//secure.quantserve.com/quant.js"></script></body></html>
+
+
+
+
+</body></html>
