@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkster.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413115513id_/http%3A//www.checkster.com/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkster.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628134128id_/http%3A//checkster.com/web/privacy.php) for the most accurate reproduction.*
 
 # Checkster : Privacy Policy
 
