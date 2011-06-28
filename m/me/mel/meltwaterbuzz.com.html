@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the meltwaterbuzz.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231104639id_/http%3A//www.meltwater.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meltwaterbuzz.com privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629010854id_/http%3A//www.meltwater.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Meltwater Group Privacy Policy</title>
@@ -8,8 +8,10 @@
 <meta name="description" content="Meltwater Group is committed to protecting privacy and ensuring clients safe, secure service.">
 <meta name="google-site-verification" content="YGwech54C2eQjhULe_lXTd33kTmlfkDb6Kpt4IdZxk8">
 
-<link rel="stylesheet" type="text/css" media="all" href="http://www.meltwater.com/?css=assets/css_main.v.1291314139">
-
+<link rel="stylesheet" type="text/css" media="all" href="http://www.meltwater.com/?css=assets/css_main.v.1306735935">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.meltwater.com/?css=assets/css_custom_en">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.meltwater.com/assets/jquery_menu"></script>
+<script type="text/javascript" src="http://www.meltwater.com/assets/ddsmoothmenu"></script>
 <script type="text/javascript" src="http://www.meltwater.com/assets/js_min"></script>
 <script type="text/javascript" src="http://www.meltwater.com/assets/js_scripts"></script>
 
@@ -17,7 +19,7 @@
 
 
 <!--[if IE 6]>
-<link type="text/css" rel="stylesheet" href="http://www.meltwater.com/?css=assets/css_ie6.v.1279578367" />
+<link type="text/css" rel="stylesheet" href="http://www.meltwater.com/?css=assets/css_ie6.v.1304929374" />
 <![endif]-->
 <!--[if IE 7]>
 <link type="text/css" rel="stylesheet" href="http://www.meltwater.com/?css=assets/css_ie7.v.1279578408" />
@@ -41,6 +43,8 @@ $(document).ready(function() {
 		opacity:"0.50"});
 });
 //]]>
+
+
 </script>
 
 
@@ -61,7 +65,7 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
 		<div class="popup_top"></div>
 		<div class="popup_middle">
 			<div class="popup_inside">
-			<iframe src="/contact" frameborder="0" scrolling="no" width="800" height="400" style="height: 400px;"></iframe>
+			<iframe src="http://www.meltwater.com/contact" frameborder="0" scrolling="no" width="800" height="400" style="height: 400px;"></iframe>
 			</div> <!-- close popup_inside -->
 		</div> <!-- close middle -->
 		<div class="popup_bottom"></div>
@@ -71,7 +75,96 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
 <div id="wrapper">
 	<div id="inner_wrap">
     
-    	    	<div id="login"><a id="link_toggle_login" href="javascript:void(0);">Customer Login</a></div>
+    	    	<div id="login">
+		<!--select onchange="my_language(this.value);" >
+			<option value="en"  selected="selected" >English</option>
+			<option value="no"  >Norwegian</option>
+			<option value="es"  >Spanish</option>
+		 </select-->
+
+		 <!--LANGUAGE OVERRIDE START-->
+		 		 <script type="text/javascript">
+		ddsmoothmenu.init({
+			mainmenuid: "smoothmenu1", //menu DIV id
+			orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+			classname: 'ddsmoothmenu', //class added to menu's outer DIV
+			//customtheme: ["#1c5a80", "#18374a"],
+			contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+		})
+		</script>
+		
+		 <script type="text/javascript">
+			 
+			function setCookie(name,value,days) {
+				if (days) {
+					var date = new Date();
+					date.setTime(date.getTime()+(days*24*60*60*1000));
+					var expires = "; expires="+date.toGMTString();
+				}
+				else var expires = "";
+				document.cookie = name+"="+value+expires+"; path=/";
+			}
+			
+			function getCookie(c_name)
+			{
+			var i,x,y,ARRcookies=document.cookie.split(";");
+			for (i=0;i<ARRcookies.length;i++)
+			{
+			  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			  x=x.replace(/^\s+|\s+$/g,"");
+			  if (x==c_name)
+				{
+				return unescape(y);
+				}
+			  }
+			}
+			
+			 
+			 function switch_language(target_language)
+			 {
+			 	var d=new Date();
+				var stamp = d.getTime();
+			 	setCookie( 'exp_usr_lang', stamp , 2000 )
+				
+				if ( getCookie('exp_usr_lang') == stamp )
+				{
+					var curr_page = "privacy"
+					var site_url = "http://www.meltwater.com/";
+					
+					setCookie( 'exp_usr_lang', target_language, 2000 )
+					
+					if(target_language == "en")
+						url = site_url+curr_page;
+					else
+						url = site_url+target_language+"/"+curr_page;
+						
+						location.replace(url);
+				}
+				else
+					alert('Cookies are disabled in your browser!  Please First Enable cookies to use this feature!!! ');	
+			 }
+		 </script>
+		
+		<div class="Navigation">
+					<div id="smoothmenu1" class="ddsmoothmenu">
+					   <ul>
+						<li style="z-index: 100;"><a style=" background:none; width:110px;" href="Javascript:void(0);"><img src="/themes/site_themes/mw/images/topnav/flag_en.png" align="absmiddle">&nbsp;English</a>
+						  <ul style="width:121px">
+						  	 <li><a href="javascript:void(0);" onclick="switch_language('no')" style="background:none;width:110px;"><img src="/themes/site_themes/mw/images/topnav/flag_no.png" align="absmiddle">&nbsp;Norsk</a></li> <li><a href="javascript:void(0);" onclick="switch_language('fi')" style="background:none;width:110px;"><img src="/themes/site_themes/mw/images/topnav/flag_fi.png" align="absmiddle">&nbsp;suomeksi</a></li> <li><a href="javascript:void(0);" onclick="switch_language('da')" style="background:none;width:110px;"><img src="/themes/site_themes/mw/images/topnav/flag_da.png" align="absmiddle">&nbsp;Dansk</a></li> <li><a href="javascript:void(0);" onclick="switch_language('de')" style="background:none;width:110px;"><img src="/themes/site_themes/mw/images/topnav/flag_de.png" align="absmiddle">&nbsp;Deutsch</a></li> <li><a href="javascript:void(0);" onclick="switch_language('nl')" style="background:none;width:110px;"><img src="/themes/site_themes/mw/images/topnav/flag_nl.png" align="absmiddle">&nbsp;Nederlandse</a></li> <li><a href="javascript:void(0);" onclick="switch_language('es')" style="background:none;width:110px;"><img src="/themes/site_themes/mw/images/topnav/flag_es.png" align="absmiddle">&nbsp;Español</a></li> <li><a href="javascript:void(0);" onclick="switch_language('fr')" style="background:none;width:110px;"><img src="/themes/site_themes/mw/images/topnav/flag_fr.png" align="absmiddle">&nbsp;français</a></li> <li><a href="javascript:void(0);" onclick="switch_language('zh')" style="background:none;width:110px;"><img src="/themes/site_themes/mw/images/topnav/flag_zh.png" align="absmiddle">&nbsp;中文</a></li>														
+						  </ul>
+						</li>
+					  </ul>							  			  
+					 
+ 				 </div>
+		</div>
+		
+		
+	
+	<!--LANGUAGE OVERRIDE END-->
+		
+		<a id="link_toggle_login" href="javascript:void(0);">Customer Login</a>
+		</div>
         <div id="login_popup" style="display: none;">
     		<div class="top"></div>
     		<div class="middle">
@@ -87,13 +180,13 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
     			<div class="login_form">
     				<div id="popup_login_buzz" class="popup_login_form" style="display: none;">
     					<h4>Buzz Login</h4>
-	    				<form name="loginPopBuzz" action="http://mwb.meltwaterbuzz.com/Login" method="post">
+	    				<form name="loginPopBuzz" action="http://mwh.meltwaterbuzz.com/Login" method="post">
                         <input type="hidden" name="isSubmit" value="submit">
 	    				<p>email address<br>
 	    				<input type="text" class="text" name="email" value="" maxlength="100"></p>
 	    				<p>password<br>
 	    				<input type="password" class="text" name="password" value="" maxlength="100"></p>
-	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit.png"></p>
+	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit_en.png"></p>
 	    				</form>
     				</div> <!-- close popup_login_buzz -->
     				
@@ -104,7 +197,7 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
 	    				<input type="text" class="text" name="username" value="" maxlength="100"></p>
 	    				<p>password<br>
 	    				<input type="password" class="text" name="password" value="" maxlength="100"></p>
-	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit.png"></p>
+	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit_en.png"></p>
 	    				<p class="footnote"><a target="_blank" href="http://workspace.meltwaterdrive.com/ww/go/pw/?mode=remind">Forgot your password?</a><br>
 						<a target="_blank" href="https://service.meltwaterdrive.com/signin/index/">Does your account<br> require a Company ID?</a></p>
 						<input type="hidden" name="formaction" value="login" class="hidden">
@@ -118,7 +211,7 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
 	    				<input type="text" class="text" name="username" value="" maxlength="128"></p>
 	    				<p>password<br>
 	    				<input type="password" class="text" name="password" value="" maxlength="100"></p>
-	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit.png"></p>
+	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit_en.png"></p>
     					</form>
     				</div> <!-- close popup_login_drive -->
     				
@@ -129,7 +222,7 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
 	    				<input type="text" class="text" name="j_username" value="" maxlength="100"></p>
 	    				<p>password<br>
 	    				<input type="password" class="text" name="j_password" value="" maxlength="25"></p>
-	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit.png"></p>
+	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit_en.png"></p>
     					</form>
     				</div> <!-- close popup_login_drive -->
     				
@@ -140,7 +233,7 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
 	    				<input type="text" class="text" name="user" value="" maxlength="100"></p>
 	    				<p>password<br>
 	    				<input type="password" class="text" name="pass" value="" maxlength="100"></p>
-	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit.png"></p>
+	    				<p class="button"><input type="image" name="submit" value="Submit" src="/themes/site_themes/mw/images/forms/submit_en.png"></p>
     					</form>
     				</div> <!-- close popup_login_drive -->
     				
@@ -152,76 +245,79 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
                 
     	<div id="header">
 <ul class="clearfix">
-<li class="logo"><a href="/"><img src="/themes/site_themes/mw/images/header/meltwater-logo.png" width="189" height="141" alt="Meltwater"></a></li>
+<li class="logo"><a href="http://www.meltwater.com/"><img src="/themes/site_themes/mw/images/header/meltwater-logo.png" width="189" height="141" alt="Meltwater"></a></li>
 <li><img src="/themes/site_themes/mw/images/header/faces/girl3.png" width="188" height="141" alt=""></li>
-<li><img src="/themes/site_themes/mw/images/header/title_privacy_policy.png" width="188" height="141" alt="Privacy"></li>
+<li><img src="/themes/site_themes/mw/images/header/title_privacy_policy_en.png" width="188" height="141" alt="Privacy"></li>
 <li><img src="/themes/site_themes/mw/images/header/faces/girl2.png" width="188" height="141" alt=""></li>
 <li class="last"><img src="/themes/site_themes/mw/images/header/faces/guy10.png" width="188" height="141" alt=""></li>
 </ul>
  
         </div> <!-- close header -->
         
-        <div id="topnav">
+        
+			<div id="topnav" class="topnav">
         	<ul class="clearfix">
-            <li id="nav_who_we_are" class="btn"><a class="btn" href="/about/">Who We Are</a>
+            <li id="nav_who_we_are" class="btn"><a class="btn" href="http://www.meltwater.com/about/">Who We Are</a>
             	<div class="secondary">
                 <ul>
-                <li><a href="/about/history/">History</a></li>
-                <li><a href="/about/culture/">Our Culture</a></li>
-                <li><a href="/about/vision/">Our Vision</a></li>
-                <li><a href="/about/saas/">Why SaaS</a></li>
-                <li><a href="/about/new-ventures/">New Ventures</a></li>
-                <li><a href="/about/management/">Management Team</a></li>
-                <li><a href="/about/press-room/">Press Room</a></li>
-                <li><a target="_blank" href="http://www.meltwaterblog.com">Careers Blog</a></li>
+                <li><a href="http://www.meltwater.com/about/history/">History</a></li>
+                <li><a href="http://www.meltwater.com/about/culture/">Our Culture</a></li>
+                <li><a href="http://www.meltwater.com/about/vision/">Our Vision</a></li>
+                <li><a href="http://www.meltwater.com/about/saas/">Why SaaS</a></li>
+				<li><a href="http://www.meltwater.com/about/new-ventures/">New Ventures</a></li>
+                <li><a href="http://www.meltwater.com/about/management/">Management Team</a></li>
+                <li><a href="http://www.meltwater.com/about/press-room/">Press Room</a></li>
+                 <li><a href="http://www.meltwater.com/about/company-events/">Company Events</a></li>
                 </ul>
                 </div> <!-- close secondary -->
             </li>
-            <li id="nav_products" class="btn"><a class="btn" href="/products/">Products</a>
+            <li id="nav_products" class="btn"><a class="btn" href="http://www.meltwater.com/products/">media monitoringProducts</a>
             	<div class="secondary">
                 <ul>
-                <li><a href="/products/meltwater-buzz/">Meltwater BUZZ</a></li>
-                <li><a href="/products/meltwater-drive/">Meltwater DRIVE</a></li>
-                <li><a href="/products/meltwater-news/">Meltwater NEWS</a></li>
-                <li><a href="/products/meltwater-press/">Meltwater PRESS</a></li>
-                <li><a href="/products/meltwater-reach/">Meltwater REACH</a></li>
-                <li><a href="/products/meltwater-talent/">Meltwater TALENT</a></li>
+                <li><a href="http://www.meltwater.com/products/meltwater-buzz/">Meltwater BUZZ</a></li>
+                <li><a href="http://www.meltwater.com/products/meltwater-news/">Meltwater NEWS</a></li>
+                <li><a href="http://www.meltwater.com/products/meltwater-press/">Meltwater PRESS</a></li>
+                <li><a href="http://www.meltwater.com/products/meltwater-reach/">Meltwater REACH</a></li>
+                <li><a href="http://www.meltwater.com/products/meltwater-drive/">Meltwater DRIVE</a></li>
+                <li><a href="http://www.meltwater.com/products/meltwater-talent/">Meltwater TALENT</a></li>
                 </ul>
                 </div> <!-- close secondary -->
             </li>
-            <li id="nav_careers" class="btn"><a class="btn" href="/careers/">Careers</a>
-            	<div class="secondary">
+            <li id="nav_careers" class="btn"><a class="btn" href="http://www.meltwater.com/careers/">Careers</a>
+            	<div class="secondary" a="">
                 <ul>
-                <li><a href="/careers/values/">Why Meltwater</a></li>
-                <li><a href="/careers/employees/">Our Employees</a></li>
-                <li><a href="/careers/interviews/">Interview Process</a></li>
-                <li><a href="/careers/jobs/">Job Openings</a></li>
-                <li><a href="/careers/events/">Events</a></li>
+                <li><a href="http://www.meltwater.com/careers/values/">Why Meltwater</a></li>
+                <li><a href="http://www.meltwater.com/careers/employees/">Our Employees</a></li>
+                <li><a href="http://www.meltwater.com/careers/interviews/">Interview Process</a></li>
+                <li><a href="http://www.meltwater.com/careers/jobs/">Job Openings</a></li>
+                <li><a href="http://www.meltwater.com/careers/events/">Events</a></li>
+		<li><a href="http://www.meltwater.com/careers/employer-awards/">Employer Awards</a></li>
                 </ul>
                 </div> <!-- close secondary -->
-            </li>
-            <li id="nav_contact_support" class="btn"><a class="btn" href="/contact-support/">Contact &amp; Support</a></li>
-            <li id="nav_not_for_profit" class="btn"><a class="btn" href="/nonprofit/">Non-Profit</a></li>
+            </li> 
+			
+			<li id="nav_contact_support" class="btn"><a class="btn" href="http://www.meltwater.com/contact-support/">Contact &amp; Support</a></li>
+            <li id="nav_blogs" class="btn"><a class="btn" href="http://www.meltwater.com/blogs/">Our Blogs</a></li>
+            <li id="nav_not_for_profit" class="btn"><a class="btn" href="http://www.meltwater.com/nonprofit/">Non-Profit</a></li>
             <li id="nav_contact" class="btn"><a class="btn contact_link on" href="javascript:void(0);">Contact Us</a></li>
             </ul>
         </div> <!-- close topnav -->
-        
-        <div id="maincontent" class="clearfix">
+<div id="maincontent" class="clearfix">
+
     
     <div id="mainbody_full">
         <div class="content_box">
             <div class="top"></div>
                 <div class="middle">
                     <div id="breadcrumbs" class="clearfix">
-                    <p><a href="/">Home</a> &gt; Privacy Policy</p>
+                    <p><a href="http://www.meltwater.com/">Home</a> &gt; Privacy Policy</p>
                     <ul id="icons" class="clearfix" style="margin: 0;">
-<li class="follow">Follow us:</li>
-<li class="twitter"><a target="_blank" href="http://twitter.com/MeltwaterGroup">Twitter</a></li>
-<li class="facebook"><a target="_blank" href="http://www.facebook.com/pages/Meltwater-Group/80610414125">Facebook</a></li>
-<li class="linkedin"><a target="_blank" href="http://www.linkedin.com/companies/meltwater-group">LinkedIn</a></li>
-<li class="youtube"><a target="_blank" href="http://www.youtube.com/user/MeltwaterGroup">YouTube</a></li>
-<li class="blog"><a target="_blank" href="http://www.meltwaterblog.com">Meltwater Blog</a></li>
-<li class="rss last"><a target="_blank" href="/feed/">RSS</a></li>
+	<li class="follow">Follow us:</li>
+	<li class="twitter"><a target="_blank" href="http://twitter.com/MeltwaterGroup">Twitter</a></li>
+	<li class="facebook"><a target="_blank" href="http://www.facebook.com/pages/Meltwater-Group/80610414125">Facebook</a></li>
+	<li class="linkedin"><a target="_blank" href="http://www.linkedin.com/companies/meltwater-group">LinkedIn</a></li>
+	<li class="youtube"><a target="_blank" href="http://www.youtube.com/user/MeltwaterGroup">YouTube</a></li>
+	<li class="rss last"><a target="_blank" href="/feed/">RSS</a></li>
 </ul>
                     </div> <!-- close breadcrumbs -->
                     
@@ -293,24 +389,39 @@ document.writeln('<'+'script src="'+ enqhost +'.enquisite.com/log.js?id='+ enqsi
 
 	        
         <div id="footer">
-        	<div class="clearfix">
+        	<div class="clearfixnew">
             	<div class="bbb-logo">
                 <img src="/themes/site_themes/mw/images/bbb-logo.gif" width="66" height="25" alt="BBB Accredited Business">
                 </div>
                 <div class="links">
-                    <p style="margin-bottom: 2px;"><a href="/privacy/">Privacy Policy</a>
+                    <p style="margin-bottom: 2px;"><a href="http://www.meltwater.com/privacy/">Privacy Policy</a>
                     <span class="sep"> | </span>
-                    <a href="/sitemap/">Sitemap</a>
-                    <span class="sep"> | </span>
-                    <a target="_blank" href="http://www.meltwaterblog.com">Blog</a><br>
-            		© 2010 Meltwater Group. All Rights Reserved.<br></p>
+                    <a href="http://www.meltwater.com/sitemap/">Sitemap</a><br>
+            		© 2011 Meltwater Group. All Rights Reserved.<br></p>
                 </div>
             </div>
-            <p>Meltwater and the stylized logo are among the trademarks and/or registered trademarks of Meltwater Group in the United States and other countries.</p>
+            <p> Meltwater and the stylized logo are among the trademarks and/or registered trademarks of Meltwater Group in the United States and other countries.</p>
         </div> <!-- close footer -->
     </div> <!-- close inner_wrap -->
 </div> <!-- close wrapper -->
+<!--this is out-->
 
+<!--Google Analytics Start-->
+	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9099015-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+	</script>	
+	<!--Google Analytics End-->
+
+
+	
 
 	<script type="text/javascript">
     var piProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
