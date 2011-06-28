@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hushmail.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229132252id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hushmail.com privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628054318id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<title>  Privacy Policy - Hushmail – Free Email with Privacy</title>
@@ -47,10 +47,10 @@ div#bookmark-container{display:block;}
 	<style type="text/css" media="print">div#hd{display:none;}div#ft{display:none;}div.yui-b{display:none;}div#yui-main div.yui-b{display:block;}</style>
 	<link rel="alternate" type="application/rss+xml" title="Hushmail Blog" href="http://www.hushmail.com/feed/">
 	<link rel="alternate" type="application/rss+xml" title="Hushmail System Status" href="http://feeds.feedburner.com/HushmailSystemStatus">
-	<link rel="apple-touch-icon" href="/apple-touch-icon-iphone.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-ipad.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-iphone4.png">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?2">		
+	<link rel="apple-touch-icon" href="/public/img/apple-touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/public/img/apple-touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/public/img/apple-touch-icon-iphone4.png">
+	<link rel="shortcut icon" type="image/x-icon" href="/public/img/favicon.ico?2">		
 	<script language="JavaScript" type="text/javascript">
 window.HUSHMAIL={loginForm:function(options){var that={};
 var theForm=document.getElementById("login-form");
@@ -65,8 +65,11 @@ if(username.indexOf("@")<0){username+="@hushmail.com";
 var url="https://www.hushmail.com/"+username;
 var title="Sign in to Hushmail ("+username+")";
 if(document.all&&window.external){window.external.AddFavorite(url,title);
+}}}function populate(){if(document.location.search){var matches=document.location.search.match(/hush_username=([A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4})/i);
+if(matches.length===2){theForm&&(theForm.elements["hush_username"].value=matches[1]);
 }}}function focus(){theForm&&theForm.elements["hush_username"]&&theForm.elements["hush_username"].focus();
-}that.focus=focus;
+}that.populate=populate;
+that.focus=focus;
 return that;
 },businessAccountCreationForm:function(options){var that={};
 var theForm=document.getElementById("business-account-creation-form");
@@ -84,7 +87,8 @@ var lastTip;
 function init(){if(document.getElementById("contact-form")){theForm=document.getElementById("contact-form");
 if(theForm.elements["hush_subject"]){theForm.elements["hush_subject"].onchange=change;
 }theForm.onsubmit=send;
-}}function change(){var subject=theForm.elements["hush_subject"].value;
+}if(document.getElementById("hush_contact-success")){if(document.location.search.indexOf("?success=1")===0){document.getElementById("hush_contact-success").style.display="block";
+}}}function change(){var subject=theForm.elements["hush_subject"].value;
 var tip=document.getElementById(subject);
 if(lastTip){lastTip.style.display="none";
 }if(tip){tip.style.display="block";
@@ -130,6 +134,7 @@ var analytics=null;
 function init(){if(options.analytics){analytics=HUSHMAIL.analytics({profile:"UA-1837381-4"});
 analytics.record();
 }loginForm=HUSHMAIL.loginForm({analytics:analytics});
+loginForm.populate();
 loginForm.focus();
 contactForm=HUSHMAIL.contactForm({analytics:analytics});
 contactForm.init();
@@ -151,15 +156,17 @@ return that;
 
 <div>
 	<div id="tools">
-					<a title="Sign In - Free Email with Privacy" href="https://www.hushmail.com/">Sign In</a>
+					<a title="Sign In - Free Email with Privacy" href="../">Sign In</a>
 			|
 				<a title="Sign up for a free Hushmail account" href="/signup/">Sign Up</a>
 		|
 		<a title="Billing" href="/billing/">Billing</a>
 		|
-		<a title="Upgrade" href="https://www.hushmail.com/premium/">Upgrade</a>
+		<a title="Upgrade" href="../premium/">Upgrade</a>
 		|
-		<a title="Contact Us" href="https://www.hushmail.com/contact/">Contact Us</a>		
+		<a title="Contact Us" href="../contact/">Contact Us</a>		
+		|
+		<a title="Help" href="http://help.hushmail.com/"><strong>Help</strong></a>
 	</div>
 <!--[if IE]>
 <style>
@@ -167,16 +174,11 @@ div#hd div#menu ul li{line-height:20px;}
 </style>
 <![endif]-->
 	<div id="menu"><ul>
-<li class="page_item page-item-3"><a href="https://www.hushmail.com" title="Home">Home</a></li>
-<li class="page_item page-item-2"><a href="https://www.hushmail.com/about/" title="About">About</a></li>
-<li class="page_item page-item-10"><a href="https://www.hushmail.com/services/" title="Services">Services</a></li>
-<li class="page_item page-item-23"><a href="https://www.hushmail.com/support/" title="Support">Support</a></li>
+<li class="page_item page-item-3"><a href="/" title="Home">Home</a></li>
+<li class="page_item page-item-2"><a href="../about/" title="About">About</a></li>
+<li class="page_item page-item-10"><a href="../services/" title="Services">Services</a></li>
 </ul>
 </div>
-	<div id="search"><form method="get" id="searchform" action="https://www.hushmail.com/">
-	<input type="text" value="" name="s">
-	<input type="submit" value="Search">
-</form></div>
 </div>
 	</div>
 	<div id="bd">
@@ -185,7 +187,7 @@ div#hd div#menu ul li{line-height:20px;}
 <div class="page">
 
 			<div class="breadcrumb"><!-- Breadcrumb NavXT 3.2.1 -->
-<a title="Home" href="https://www.hushmail.com">Home</a>» Privacy Policy</div>
+<a title="Home" href="/">Home</a>» Privacy Policy</div>
 		<h1>Privacy Policy</h1>
 		
 			<div class="entry">
@@ -202,7 +204,7 @@ div#hd div#menu ul li{line-height:20px;}
 <h2>Non-account related communications</h2>
 <p>Hush does not contact users unless the communication is account related. While a Hush newsletter is generated from time to time to announce new features, Hushmail users can opt out either at the time of sign-up or on the receipt of the newsletter. Hush will answer non-account related questions from users, but will not generate mail to users that doesn’t directly affect their use of the service.</p>
 <h2>Contact us</h2>
-<p>We value your opinions and appreciate your comments. If you have any questions or concerns please <a title="Contact us about our Privacy Policy" href="contact">contact us</a>.</p>
+<p>We value your opinions and appreciate your comments. If you have any questions or concerns please <a title="Contact us about our Privacy Policy" href="../contact/">contact us</a>.</p>
 			</div>
 </div>
 	</div>
@@ -217,16 +219,16 @@ div#hd div#menu ul li{line-height:20px;}
 	<div id="navigation-top"></div>
 	<ul id="navigation">
 
-					<li><h1><a href="https://www.hushmail.com/" title="Sign in to Hushmail - Free Email with Privacy">Sign in to Hushmail</a></h1></li>
+					<li><h1><a href="../" title="Sign in to Hushmail - Free Email with Privacy">Sign in to Hushmail</a></h1></li>
 							<li><h1><a href="/signup/" title="Sign up for free email">Sign up for free email</a></h1></li>
-			<li><h1><a href="https://www.hushmail.com/premium/" title="Upgrade to Premium">Upgrade to Premium</a></h1></li>
+			<li><h1><a href="../premium/" title="Upgrade to Premium">Upgrade to Premium</a></h1></li>
 							
 	</ul>
 	<div id="navigation-bot"></div>
 
 	<!-- menu -->
 
-			<div class="menu"><ul><li class="page_item page-item-3"><a href="https://www.hushmail.com" title="Home">Home</a></li><li class="page_item page-item-2"><a href="https://www.hushmail.com/about/" title="About">About</a></li><li class="page_item page-item-10"><a href="https://www.hushmail.com/services/" title="Services">Services</a></li><li class="page_item page-item-23"><a href="https://www.hushmail.com/support/" title="Support">Support</a></li><li class="page_item page-item-105"><a href="https://www.hushmail.com/upgrade/" title="Upgrade">Upgrade</a></li><li class="page_item page-item-57"><a href="https://www.hushmail.com/terms/" title="Terms of Service">Terms of Service</a></li><li class="page_item page-item-81 current_page_item"><a href="https://www.hushmail.com/privacy/" title="Privacy Policy">Privacy Policy</a></li><li class="page_item page-item-88"><a href="https://www.hushmail.com/disclaimer/" title="Disclaimer">Disclaimer</a></li><li class="page_item page-item-92"><a href="https://www.hushmail.com/sitemap/" title="Sitemap">Sitemap</a></li><li class="page_item page-item-182"><a href="https://www.hushmail.com/blog/" title="Blog">Blog</a></li><li class="page_item page-item-98"><a href="https://www.hushmail.com/contact/" title="Contact Us">Contact Us</a></li></ul></div>
+			<div class="menu"><ul><li class="page_item page-item-3"><a href="/" title="Home">Home</a></li><li class="page_item page-item-2"><a href="../about/" title="About">About</a></li><li class="page_item page-item-10"><a href="../services/" title="Services">Services</a></li><li class="page_item page-item-105"><a href="/upgrade/" title="Upgrade">Upgrade</a></li><li class="page_item page-item-57"><a href="../terms/" title="Terms of Service">Terms of Service</a></li><li class="page_item page-item-81 current_page_item"><a href="" title="Privacy Policy">Privacy Policy</a></li><li class="page_item page-item-88"><a href="../disclaimer/" title="Disclaimer">Disclaimer</a></li><li class="page_item page-item-92"><a href="../sitemap/" title="Sitemap">Sitemap</a></li><li class="page_item page-item-182"><a href="../blog/" title="Blog">Blog</a></li><li class="page_item page-item-98"><a href="../contact/" title="Contact Us">Contact Us</a></li></ul></div>
 	
 	<!-- blog -->
 	
@@ -235,14 +237,10 @@ div#hd div#menu ul li{line-height:20px;}
 	
 	<div id="system-status">
 		<h4>System status:</h4>
-		<span><script src="https://www.hushmail.com/status/"></script></span>
+		<span><script src="/status/"></script><a title="All systems are stable and running" href="http://help.hushmail.com/forums/359521">All systems are stable and running</a>
+</span>
 	</div>
 
-	<div id="holiday-hours">
-		<h4>Customer support during the holidays:</h4>
-		<span><a href="https://www.hushmail.com/blog/2010/12/13/holiday-customer-support-hours/">Hours of operation</a></span>
-	</div>
-	
 	<!-- -->
 	
 	<ul>
@@ -253,30 +251,30 @@ div#hd div#menu ul li{line-height:20px;}
 </div>
 	</div>
 	<div id="ft"><div id="footer-top">
-	<div id="footer-security"><a title="Find out how Hushmail can protect you" href="https://www.hushmail.com/about/technology/security/">How secure is Hushmail?</a>
+	<div id="footer-security"><a title="Find out how Hushmail can protect you" href="../about/technology/security/">How secure is Hushmail?</a>
 	</div>
-	<a title="Hushmail - Free Email with Privacy" href="https://www.hushmail.com/">Home</a>
+	<a title="Hushmail - Free Email with Privacy" href="../">Home</a>
 	|
-	<a title="Services" href="https://www.hushmail.com/services/">Services</a>
+	<a title="Services" href="../services/">Services</a>
 	|
-	<a title="About" href="https://www.hushmail.com/about/">About</a>
+	<a title="About" href="../about/">About</a>
 	|
-	<a title="Support" href="https://www.hushmail.com/support/">Support</a>
+	<a title="Help" href="http://help.hushmail.com/">Help</a>
 </div>
 <div id="footer-bottom">
-	<div id="footer-copyright">© 1999-2010 Hush Communications Canada Inc.
+	<div id="footer-copyright">© 1999-2011 Hush Communications Canada Inc.
 	</div>
-	<a title="Terms" href="https://www.hushmail.com/terms/">Terms</a>
+	<a title="Terms" href="../terms/">Terms</a>
 	|
-	<a title="Privacy" href="https://www.hushmail.com/privacy/">Privacy</a>
+	<a title="Privacy" href="">Privacy</a>
 	|
-	<a title="Disclaimer" href="https://www.hushmail.com/disclaimer/">Disclaimer</a>
+	<a title="Disclaimer" href="../disclaimer/">Disclaimer</a>
 	|
-	<a title="Sitemap" href="https://www.hushmail.com/sitemap/">Sitemap</a>
+	<a title="Sitemap" href="../sitemap/">Sitemap</a>
 	|
-	<a title="Contact Us" href="https://www.hushmail.com/contact/">Contact Us</a>
+	<a title="Contact Us" href="../contact/">Contact Us</a>
 	|
-	<a title="Blog" href="https://www.hushmail.com/blog/">Blog</a>
+	<a title="Blog" href="../blog/">Blog</a>
 	|
 	<a title="Follow Hushmail on Twitter" href="http://twitter.com/hushmail/"><img alt="Follow Hushmail on Twitter" title="Follow Hushmail on Twitter" height="16" width="69" border="0" style="display:inline;position:relative;top:4px;margin-top:-6px;padding:0;" src="/public/img/twitter.png"></a>
 </div>
