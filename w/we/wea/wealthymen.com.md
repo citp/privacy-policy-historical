@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wealthymen.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229002216id_/http%3A//wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthymen.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628204752id_/http%3A//www.wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.*
 
 # WealthyMen | Privacy Policy
 
-|  | 
-
-|  |   
+  
 **WEALTHYMEN PRIVACY POLICY**  
 ---  
   
@@ -55,10 +53,4 @@ If at any point we decide to use particular personally identifiable information 
 
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the Account Settings in your Wealthymen.com profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the Account Settings section of the Service, or otherwise opting-out of receipt of email communications from Wealthymen.com, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from Wealthymen.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at webmaster@wealthymen.com. You can also send us mail to: Privacy Officer, Wealthy Men, 705 Washington Ave, Miami Beach, FL. 33139.  
-  
-   
-  
-|   
----  
-    © Copyright 2010   WealthyMen.com, All rights reserved.    |  |  [Help](https://web.archive.org/help.php?prg=1&id=noadvert) | [Customer Service](https://web.archive.org/track.php?tid=100&prg=1&id=noadvert) | [Terms & Conditions](https://web.archive.org/terms.php?prg=1&id=noadvert) | [Privacy Policy](https://web.archive.org/privacy.php?prg=1&id=noadvert) | [Site Map](https://web.archive.org/sitemap.php?prg=1&id=noadvert)    
+If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at webmaster@wealthymen.com. You can also send us mail to: Privacy Officer, Wealthy Men, 705 Washington Ave, Miami Beach, FL. 33139.
