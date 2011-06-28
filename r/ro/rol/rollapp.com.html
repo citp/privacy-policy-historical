@@ -1,0 +1,617 @@
+<!--The following is the downloaded HTML source of the rollapp.com privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628020416id_/http%3A//www.rollapp.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>
+    rollApp - Privacy Policy
+</title>
+    <meta name="description" content="rollApp is a Software-on-Demand service that instantly delivers virtually any existing desktop software to any Web-browser equipped computing or mobile device over broadband/3G">
+    <meta name="keywords" content="Open Office, cloud, Google Docs, Dropbox, applications">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/css/main.css" type="text/css">
+
+	
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.timers.js"></script>
+    <script type="text/javascript" src="/js/jquery.alerts.js"></script>
+    <script type="text/javascript" src="/js/jquery.bubblepopup.v2.3.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.cycle.lite.1.0.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="/css/jquery.bubblepopup.v2.3.1.css">
+    <link type="text/css" rel="stylesheet" href="/css/jquery.alerts.css">
+
+
+    <script type="text/javascript" charset="utf-8">
+        var is_ssl = ("https:" == document.location.protocol);
+        var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+        document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+
+    <script type="text/javascript" charset="utf-8">
+        var feedback_widget_options = {};
+
+        feedback_widget_options.display = "overlay";  
+        feedback_widget_options.company = "rollapp";
+        feedback_widget_options.placement = "right";
+        feedback_widget_options.color = "#6DD62D";
+        feedback_widget_options.style = "idea";
+  
+        feedback_widget_options.limit = "3";
+
+        var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+    </script>
+    
+    <script type="text/javascript">
+        $(function() 
+            {
+                $("#MySessions").everyTime(2000, 'sessions', function(){refresh_sessions("MySessions");});
+                refresh_sessions("MySessions");
+            }
+        );
+    
+        function refresh_sessions(control_name)
+        {
+            jQuery.ajax({
+                type:'POST',
+                url: '/frontpage/get_open_sessions',
+                data:{ },
+                success: function(result){
+                onOpenSessionsReceived(result, control_name);
+                },
+                error: function (xhr, ajaxOptions, thrownError){ onSessionError(xhr, ajaxOptions, thrownError); }
+            });
+        }
+        
+        function onSessionError(xhr, ajaxOptions, thrownError){}
+        
+        function onOpenSessionsReceived(result, control_name)
+        {
+            if(result && (result.length > 0))
+            {
+                position = result.indexOf("|")
+                if(position > -1)
+                {
+                    try
+                    {
+                        length_str = result.substring(0, position);
+                        text = result.substring(position);
+                        if(text.length > 1)
+                        {
+                            text = text.substring(1);
+                        }
+                        
+                        if(length_str && length_str.length > 0 && text && text.length > 0 && parseInt(length_str) == text.length)
+                        {
+                            window.document.getElementById(control_name).innerHTML = text;
+                        }
+                    }
+                    catch(err)
+                    {
+                    }
+                }
+            }
+        }
+        
+        function kill_session(session_id)
+        {
+            jQuery.ajax({
+                type:'GET',
+                url: 'http://www.rollapp.com/kill/' + session_id,
+                data:{ },
+                success: function(result){ refresh_sessions("MySessions"); },
+                error: function (xhr, ajaxOptions, thrownError){ jAlert("There was an error closing your session. Try again later.", "Session not closed"); }
+            });
+        }
+        
+        function onSessionError(xhr, ajaxOptions, thrownError){}
+        
+        function hide_notification(elementid, notificationId){
+            jQuery.ajax({
+                type:'POST',
+                url: '/notifications/hide',
+                data:{ id : notificationId},
+                success: function(result){ hide_notificationElement(elementid, result); },
+                error: function (xhr, ajaxOptions, thrownError){ jAlert("There was an error hiding the notification. Try again later.", "Notification not hidden"); }
+            });
+        }
+        
+        function hide_notificationElement(elementid, result)
+        {   
+            if(result != "ok"){
+                jAlert("There was an error hiding the notification:" + result, "Notification not hidden");
+                return;
+            }
+            
+            var tooltipContainer = $("#" + elementid).parent().parent().parent().parent().parent();
+            if(tooltipContainer && tooltipContainer.HasBubblePopup())
+            {
+                tooltipContainer.RemoveBubblePopup();
+            }
+
+            $("#" + elementid).parent().parent().parent().parent().parent().parent().remove();
+        }
+        
+        $(document).ready(function(){
+            $('.tooltipElement').CreateBubblePopup({
+										position: 'top',
+										align: 'left',
+										innerHtml: '<img src="/img/loading.gif" style="border:0px; vertical-align:middle; margin-right:10px; display:inline;" />Loading...',
+										innerHtmlStyle: { color:'#A3A3A3', 'text-align':'left' },
+										themeName: 'azure',
+										themePath: '/img/tooltip'
+								  	  });
+                                      
+            $('.tooltipElement').mouseover(function(){
+				var notification = $(this);
+                var notificationId = notification.attr('id');
+                var pos = notificationId.indexOf("_");
+                var id = notificationId.substring(pos + 1, notificationId.length);
+                
+                jQuery.ajax({
+                    type:'POST',
+                    url: '/notifications/get_tooltiphtml',
+                    data:{ id : id},
+                    success: function(result){ function render_notificationTooltip(notification, result){
+                                                    var seconds_to_wait = 2;
+                                                    function pause(){
+                                                        var timer = setTimeout(function(){
+                                                            seconds_to_wait--;
+                                                            if(seconds_to_wait > 0){
+                                                                pause();
+                                                            }else{
+                                                                notification.SetBubblePopupInnerHtml(result, false);
+                                                            };
+                                                        },1000);
+                                                    };
+                                                
+                                                    pause();
+                                                }
+                                                
+                                                render_notificationTooltip(notification, result);
+                    },
+                    error: function (xhr, ajaxOptions, thrownError){ }
+                });
+                
+            });
+        });
+        
+        $(document).ready(function(){
+            $('.removeIcon').mouseover(function(){
+                var element = $(this);
+                if(!element){
+                    return;
+                }
+                
+                element.attr('src', '/img/x_active.jpg');
+            });
+            
+            $('.removeIcon').mouseout(function(){
+                var element = $(this);
+                if(!element){
+                    return;
+                }
+                
+                element.attr('src', '/img/x.jpg');
+            });
+        });
+    </script>
+    
+    
+    <script type="text/javascript">
+                 
+        function openAppWindow(url)
+        {
+            window.open(url, "_blank", "menubar=no,location=no,resizable=yes,scrollbars=no,status=no,width=800,height=600");
+        }
+
+        
+        
+    </script>
+
+    
+    
+
+    
+    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1380258-5']);
+  _gaq.push(['_setDomainName', '.rollapp.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+<div class="conteiner">
+    <div class="header">
+        <div class="logo_block">
+            <div class="cloud1"><a href="/beta">Beta</a></div>
+            <div class="logo"><a href="/"><img src="/img/logo.png" width="263" height="62" alt=""></a></div>
+            <p>your desktop apps in the cloud</p><p>through any browser </p>
+        </div>
+        
+        <div class="menu_top_block">
+            <div class="ico">
+                <!-- AddThis Button BEGIN -->
+                <div class="addthis_toolbox addthis_default_style">
+                <span><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=rollapp" class="addthis_button_compact">Share</a></span>
+                <span class="addthis_separator">|</span>
+                <a class="addthis_button_email"></a>
+                <a class="addthis_button_twitter"></a>
+                <a class="addthis_button_facebook"></a>
+                <a class="addthis_button_google"></a>
+                <a class="addthis_button_myspace"></a>
+                </div>
+                <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=rollapp"></script>
+                <!-- AddThis Button END -->
+            </div>
+            
+            <div class="auth">
+                        
+                        <a class="rpxnow" onclick="return false;" href="http://rollapp.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3D%2Fprivacy">
+                        <img src="/img/auth.gif" width="15" height="20" alt=""><span>Sign In</span>
+                    </a>
+            </div>
+            
+            <div class="menu_top menu_top1">
+                <div class="menu_l"></div>
+                <div class="menu_r"></div>
+                <ul>
+                    <li><a href="/about">About</a></li> 
+                    <li><a href="/gettingstarted">Getting Started</a></li>
+                    <li><a href="http://community.rollapp.com/rollapp/questions/popular">FAQ</a></li>
+                    <li><a href="http://community.rollapp.com">Feedback</a></li>
+                    <!--<li><a href="http://blog.rollapp.com">Blog</a></li>-->
+                    <li><a href="http://twitter.com/rollapp">Twitter</a></li>
+                </ul>
+            </div>
+            
+            
+            <div class="menu_top">
+                <div class="menu_l"></div>
+                <ul>
+                    <li><a href="/publishers">Software Publishers</a></li>
+                    <li><a href="/advertisers">Advertisers</a></li> 
+                    <!-- <li
+                    ><a href="/media">Media</a></li> -->
+                </ul>
+                <div class="menu_r"></div>
+            </div>
+            
+        </div>    
+         
+    </div><!-- /header -->
+
+   
+    <div class="left">
+    
+
+        <h4>My Open Sessions</h4>
+        <div class="block">
+            <div class="top_block">
+                <div class="bott_block" id="MySessions" name="MySessions">
+                    
+                </div>
+            </div>        
+        </div>
+        
+        
+        
+        <h3>Categories</h3>
+        <div class="block">
+            <div class="top_block">
+                <div class="bott_block">
+                    <ul class="cat">
+                        
+                            
+            
+                <li class="star" id="CategoryStarred">
+                    <a title="Please Sign in to see your starred applications" class="rpxnow" href="http://rollapp.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.rollapp.com%2Fsignin%3FredirectUrl%3D%2Fapps%2FStarred">
+Starred                
+                    <span id="CategoryStarredData">
+                
+                    </span>
+                </a></li>
+            
+        
+                            
+            
+                <li id="Category1">
+                    <a href="/apps/Office">
+Office                
+                    <span id="Category1Data">
+                
+                    (11)
+                    </span>
+                </a></li>
+            
+        
+                            
+            
+                <li id="Category6" style="display:none">
+                    <a href="/apps/Development">
+Development                
+                    <span id="Category6Data">
+                
+                    (0)
+                    </span>
+                </a></li>
+            
+        
+                            
+            
+                <li id="Category3">
+                    <a href="/apps/Games">
+Games                
+                    <span id="Category3Data">
+                
+                    (5)
+                    </span>
+                </a></li>
+            
+        
+                            
+            
+                <li id="Category4" style="display:none">
+                    <a href="/apps/Multimedia">
+Multimedia                
+                    <span id="Category4Data">
+                
+                    (0)
+                    </span>
+                </a></li>
+            
+        
+                            
+            
+                <li id="Category5">
+                    <a href="/apps/Graphics">
+Graphics                
+                    <span id="Category5Data">
+                
+                    (3)
+                    </span>
+                </a></li>
+            
+        
+                            
+            
+                <li id="Category7" style="display:none">
+                    <a href="/apps/Utilities">
+Utilities                
+                    <span id="Category7Data">
+                
+                    (0)
+                    </span>
+                </a></li>
+            
+        
+                        
+            
+                <li id="CategoryAll" class="blue">
+                    <a href="/apps/">
+All                
+                    <b id="CategoryAllData">
+                
+                    (17)
+                    </b>
+                </a></li>
+            
+        
+                    </ul>
+                </div>
+            </div>        
+        </div>
+        
+        
+        
+    </div><!-- /left -->
+   
+    <div class="txt">  
+        <div class="users">
+            <p>&nbsp;<!--Active users: <span>10,811</span>;   Users in beta waiting list: <span>4,126</span>;    Applications available: <span>100</span>.--></p>
+        </div>   
+        
+        <form id="search_apps" action="/" method="post">
+            <div class="search">
+                <input value="" type="text" onblur="if(this.value=='') this.value='search for applications';" onfocus="if(this.value=='search for applications') this.value='';" name="SearchText" class="inp">
+                <input type="submit" value="Search" class="subm">
+            </div>
+        </form>
+                      
+        
+	
+    <div id="slideshow" class="banner">
+        <img src="/img/asyoutube.jpg" width="590" height="200" alt="">
+        <img src="/img/cloudstorage.jpg" width="590" height="190" alt="">
+    </div>
+    <script type="text/javascript">
+        $('#slideshow').cycle({delay: 5000, timeout: 10000, speed: 1000});
+    </script>
+
+
+    <div class="faq">
+		<h2>Privacy Policy</h2>
+			
+		<p>rollApp is committed to protecting your privacy when you visit our web-site <a href="http://www.rollapp.com">www.rollApp.com</a> and use our online or 
+		other services ("Services"). In this policy we explain how and why we collect your information, what we do with it 
+		and what controls you have over our use of it.</p>
+		<p>From time to time, we add or change functions, features or products to our website or add or change Services. This, as well as our commitment to protecting the privacy of your
+personal information, may result in periodic changes to this Privacy Policy. Please remember to refer back to this Privacy Policy regularly to review any amendments.</p>
+		
+		<h4>Information We Collect And How We Use It</h4>
+		<p>We may collect the following types of information:
+		</p><ul>
+		<li><span>Information you provide</span> — When you sign up for a&nbsp;rollApp Account, we may ask you for&nbsp;personal 
+		information. We may combine the information you submit under your account with information from third parties in 
+		order to provide you with a better experience and to improve the quality of our services. For certain services, we 
+		may give you the opportunity to opt out of combining such information.</li>
+		<li><span>Cookies</span> — When you visit rollApp, we may send one or more&nbsp;cookies&nbsp;to your computer or other 
+		device. We may use cookies to improve the quality of our service, including for storing user preferences, improving 
+		search results and ad selection, and tracking user trends, such as how people search. Most browsers are initially 
+		set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is 
+		being sent. However, some rollApp features and services may not function properly if your cookies are disabled.</li>
+		<li><span>Log information</span> — When you access rollApp services via a browser, application or other client, 
+		our servers may automatically record certain information. These&nbsp;server logs&nbsp;may include information such as your web 
+		request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and 
+		time of your request and one or more cookies that may uniquely identify your browser or your account.</li>
+		<li><span>User communications</span> — When you send email or other communications to rollApp, we may retain 
+		those communications in order to process your inquiries, respond to your requests and improve our services. We may 
+		use your email address to communicate with you about our services.</li>
+		<li><span>Third Party Components and Applications</span> — rollApp makes available some third party components 
+		and applications through rollApp website. The information collected by rollApp when you enable a third party 
+		application is processed under this Privacy Policy.&nbsp;Information collected by the third party application/component 
+		provider is governed by their privacy policies.</li>
+		<li><span>Other sites</span> — This Privacy Policy applies to rollApp services only. We do not exercise control 
+		over the sites that use components provided by rollApp, link to rollApp website or are linked from rollApp website. 
+		These other sites may place their own cookies or other files on your computer, collect data or solicit personal 
+		information from you.</li>
+		</ul>
+		<p></p>
+		
+		<p>
+		In addition to the above, we may use the information we collect to:
+		</p><ul>
+		<li>Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and</li>
+		<li>Protect the rights or property of rollApp or our users.</li>
+		</ul>
+		<p></p>			
+
+		<p>If we use this information in a manner different than the purpose for which it was collected, then we will ask for 
+		your consent prior to such use.</p>
+		<p>rollApp processes personal information on our servers in the United States of America and in other countries. 
+		In some cases, we process personal information outside your own country.</p>
+		
+		<h4>Children’s Privacy</h4>
+		
+		<p>rollApp recognizes the privacy interests of children and we encourage parents and guardians to take an active 
+		role in their children's online activities and interests. Our Services are not intended for children under the age 
+		of 13. rollApp does not target its Services or its website to children under 13. rollApp does not knowingly collect 
+		personally identifiable information from children under the age of 13.</p>
+		
+		<h4>Information Sharing</h4>
+
+		<p>rollApp only shares personal information with other companies or individuals outside of rollApp in the 
+		following limited circumstances:
+		</p><ul>
+		<li>We have your consent. We require opt-in consent for the sharing of any sensitive personal information.</li>
+		<li>We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons 
+		for the purpose of processing personal information on our behalf. We require that these parties agree to process 
+		such information based on our instructions and in compliance with this Privacy Policy and any other appropriate 
+		confidentiality and security measures.</li>
+		<li>We have a good faith belief that access, use, preservation or disclosure of such information is reasonably 
+		necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, 
+		(b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, 
+		prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, 
+		property or safety of rollApp, its users or the public as required or permitted by law.</li>
+		</ul>		
+		<p></p>
+		
+		<p>If rollApp becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we 
+		will ensure the confidentiality of any personal information involved in such transactions and provide notice 
+		before personal information is transferred and becomes subject to a different privacy policy.</p>
+		
+		<h4>Logging In To Rollapp</h4>
+		<p>rollApp provides its users with the ability to create a new account, or sign-in to an existing account using 
+		their Google, Twitter, Facebook or other Open ID credentials. If you choose to use a third party ID to sign in to 
+		rollApp, the first time you select this option you may be prompted by the third party service to allow rollApp 
+		the privilege of being able to access/post content on/to your third party service (i.e. Facebook). The third party 
+		service may also ask if you want to allow rollApp access to your email address and/or some other information. Accepting 
+		these requests allows you to use your third party ID credentials to access rollApp, and also signals your acceptance of 
+		rollApp’s Terms of Service. If you choose to revoke these privileges from rollApp, you can do so at any time by accessing 
+		the applicable applications settings under your third party service.</p>
+		
+		<h4>Information Security</h4>
+		
+		<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure 
+		or destruction of data. These include internal reviews of our data collection, storage and processing practices and 
+		security measures, including appropriate encryption and physical security measures to guard against unauthorized access 
+		to systems where we store personal data.</p>
+		<p>We restrict access to personal information to rollApp employees, contractors and agents who need to know that information 
+		in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to 
+		discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
+		
+		<h4>Accessing And Updating Personal Information</h4>
+		
+		<p>When you use rollApp services, we make good faith efforts to provide you with access to your personal information and 
+		either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to 
+		be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information 
+		requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that 
+		are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or 
+		would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access 
+		is not otherwise required. In any case where we provide information access and correction, we perform this service free of 
+		charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after 
+		you delete your information, residual copies may take a period of time before they are deleted from our active servers and 
+		may remain in our backup systems.</p>
+		
+		<h4>Notification Of Changes</h4>
+		<p>Due to the Internet's rapidly evolving nature, rollApp may need to update this Privacy Policy from time to time. If we 
+		decide to change our privacy policy, we will post those changes to this Privacy Policy, the home page, and other places we 
+		deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, 
+		we disclose it.  We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make 
+		material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.</p>
+	</div>  
+
+        
+    </div><!-- /txt -->
+      
+    <div class="end_content"></div>
+</div><!-- /conteiner -->
+
+    <div class="footer">
+        <div class="foot_top">
+            <a href="/">Home</a> <span>|</span> 
+            <a href="/about">About</a> <span>|</span>
+            <a href="/gettingstarted">Getting Started</a> <span>|</span> 
+            <a href="http://community.rollapp.com/rollapp/questions/popular">FAQ</a> <span>|</span> 
+            <a href="http://community.rollapp.com">Feedback</a> <span>|</span> 
+            <!-- <a href="http://blog.rollapp.com">Blog</a> <span>|</span> -->
+            <a href="http://twitter.com/rollapp">Twitter</a> <span>|</span> 
+            <a href="/publishers">Software Publishers</a> <span>|</span> 
+            <a href="/advertisers">Advertisers</a> <!-- <span>|</span> 
+            <a href="/media"
+            >Media</a> -->
+        </div>
+        <div class="foot_bott">
+            <a href="/privacy">Privacy  Policy</a> <span>|</span> 
+            <a href="/terms">Terms of Service</a> <span>|</span> 
+            <a href="/contacts">Contacts </a>
+        </div>
+        
+        <h6>Copyright © 2010 rollApp. All Rights Reserved.</h6>
+                
+    </div>
+    
+    <script type="text/javascript">
+        var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+        document.write(unescape("%3Cscript src='" + rpxJsHost +
+            "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        RPXNOW.overlay = true;
+        RPXNOW.language_preference = 'en';
+    </script>
+    
+    
+<script type="text/javascript">
+_qoptions={
+qacct:"p-5dnA_rJHNdvz2"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-5dnA_rJHNdvz2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+
+
+
+</body></html>
