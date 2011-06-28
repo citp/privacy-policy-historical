@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerbacks.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005125id_/http%3A//powerbacks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbacks.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628025333id_/http%3A//powerbacks.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
