@@ -1,11 +1,19 @@
-<!--The following is the downloaded HTML source of the brilliantearth.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231211326id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brilliantearth.com privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628045206id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 	<title>Brilliant Earth: Security Policy &amp; Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta content="At Brilliant Earth, complete security for customer transactions is our primary concern. With these measures in place, you can be confident in the security of the Brilliant Earth website." name="description">
 	<meta content="security policy, privacy policy, Brilliant Earth privacy, Brilliant Earth security" name="keywords">
+    
+	<meta property="og:title" content="Brilliant Earth">
+	<meta property="og:type" content="company">
+	<meta property="og:url" content="http://www.brilliantearth.com/">
+	<meta property="og:image" content="">
+	<meta property="og:site_name" content="Brilliant Earth">
+	<meta property="fb:admins" content="2526520">
+    
 	
 
 
@@ -19,7 +27,7 @@
     <link href="/media/style/bearth/global-mini.css" rel="stylesheet" type="text/css">
     
     <link href="/media/style/bearth/christmas10.css" rel="stylesheet" type="text/css">
-    <!--<link href="/media/style/bearth/holiday.css" rel="stylesheet" type="text/css" />-->
+	<link href="/media/style/bearth/rings_n.css" rel="stylesheet" type="text/css">
 	<!--[if IE 6]><link href="/media/style/bearth/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 		
 		
@@ -66,33 +74,6 @@ runOnLoad.funcs = [equalize_col];
 			
 			
 		});
-        Santa = {//@author Chaobin Tang 11/19/2009
-                  startingDay: new Date("11/26/2010"),
-                  christmas: new Date("12/25/2010"),
-                  endingDay: new Date("01/03/2011"),
-                  count: function(elementId){
-                      var _today = new Date();
-                      if(_today>Santa.christmas&&_today<Santa.endingDay){
-                           $("#happy_holiday").show();
-                       return false;
-                      }else if(_today>Santa.startingDay&&_today<Santa.christmas){
-                      var t_mili = _today.getTime();
-                      var e_mili = Santa.christmas.getTime();
-                      var shoppingDays = Math.floor((e_mili - t_mili)/(1000*60*60*24));
-                      if(shoppingDays<=0){
-                          $("#happy_holiday").show();
-                          return false;
-                      }
-                      $("#"+elementId+" strong").text(shoppingDays);
-                      $("#"+elementId).show();
-                      }else{
-                          return false;
-                      }
-                  }
-          }
-          $(function(){
-              Santa.count('santa');
-          });
 		function popup(url, name, features) {
 			features = 'scrollbars=yes,width=810,height=550,top=0,left=0';
 			name = 'popup';
@@ -120,7 +101,6 @@ runOnLoad.funcs = [equalize_col];
             $(".pr_snippet_product .pr-snippet-read-reviews .pr-snippet-link").live("click", function(){show_similar();});
         });
 
-
         //tracking pixels
         adroll_adv_id = "CMEMZWV2UZD3LK4NZGH6TV";
         adroll_pix_id = "QYMD2TVRKBD2TBKCHVHXHZ";
@@ -139,15 +119,19 @@ runOnLoad.funcs = [equalize_col];
         function repStateNotifyFunction(state) {
             if (state == LPREPSTATEONLINE){
                 $("#communication img:hidden").show();
+                var live_chat2 = $("#live_chat_for_request_info img:hidden");
+                if (live_chat2.length > 0) {
+                    live_chat2.show();
+                }
             }
         };
-
 	</script><script async="true" type="text/javascript" src="https://c.adroll.com/j/roundtrip.js"></script>
 
     <!-- Google Code for Call Tracking Sign-Up -->
     <script type="text/javascript">
     var phone_number = "18006910952";
     function GetPhoneNumber() { return phone_number; } </script>
+
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=28108963"></script></head>
 <body id="home">
 
@@ -179,18 +163,19 @@ runOnLoad.funcs = [equalize_col];
 		<!--START: Header -->
 		<div id="header">
 			<h2><a href="/"></a></h2>
-			<div class="count_down" id="santa" style="display: none;"><strong></strong></div>
-            <div class="count_down_one" id="santa" style="display:none;"><strong>1</strong></div>
-			<div id="happy_holiday" style="display:none;"></div>
 			<div id="communication">
-                <div class="tel"><a onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat28108963','width=475,height=400,resizable=yes');return false;" target="chat28108963" href="https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;byhref=1&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat" id="_lpChatBtn"><img src="/media/images/home/btn_live_chat.gif" alt="live chat" width="76" height="11" style="display:none"></a><a href="/contact/"><script language="javascript">document.write(FormatPhoneNumber(GetPhoneNumber(), "x.xxx.xxx.xxxx"));</script>1.800.691.0952<noscript>1.800.691.0952</noscript></a></div>
+                <div class="tel"><a onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat28108963','width=475,height=400,resizable=yes');return false;" target="chat28108963" href="https://server.iad.liveperson.net/hc/28108963/?cmd=file&amp;file=visitorWantsToChat&amp;site=28108963&amp;byhref=1&amp;imageUrl=https://www.brilliantearth.com/media/images/livechat" id="_lpChatBtn"><img src="/media/images/home/btn_live_chat.gif" alt="live chat" width="76" height="11" style="display:none"></a>&nbsp;&nbsp;<span style="font-size:11px;"><a href="/contact/">Contact Us</a></span>&nbsp;&nbsp;<a href="/contact/"><script language="javascript">document.write(FormatPhoneNumber(GetPhoneNumber(), "x.xxx.xxx.xxxx"));</script>1.800.691.0952<noscript>1.800.691.0952</noscript></a></div>
 				<div class="user_box">
 					<ul>
-						<li><a href="/contact/">Contact Us</a></li>
-						<li><a href="/shop/wishlist/">Wish List</a></li>
 						<li><a href="/shop/cart/">Shopping Cart</a></li>
+                        <li><a href="/shop/wishlist/">Wish List</a></li>
+                        <li><a href="/track-order/">Track Your Order</a></li>
+						
+                        <li><a href="/accounts/login/">Sign In / Create Account</a></li>
+						
 					</ul>
 				</div>
+				
 				<form action="/main/actions/find/" method="post" id="search_box">
 					<label style=""><a href="/shop-online/#FedEx">Free FedEx Shipping</a><a href="/shop-online/#Returns" style="display: none;">30 Day Returns</a></label>
 					<input name="keyword" type="text" id="search_text" class="search_text" autocomplete="off" value="Enter Keyword or Item #" onfocus="if (value =='Enter Keyword or Item #'){value =''}" onblur="if (value ==''){value='Enter Keyword or Item #'}" maxlength="65">
@@ -469,9 +454,6 @@ IN NO EVENT SHALL BRILLIANT EARTH, ITS DIRECTORS, MEMBERS, EMPLOYEES, OR AGENTS 
 		<!--START: Footer -->
 		<div id="footer">
 			<div class="friend_links">
-                <!-- Start facebook link -->
-                <a target="_blank" href="http://www.facebook.com/brilliantearth"><img src="/media/images/home/logo01.jpg" alt="Fan us on Facebook" width="69" height="24" class="logo_l1"></a>
-                <!-- End facebook link -->
                 <!--Start BBB Online -->
                 <a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/diamonds/brilliant-earth-in-san-francisco-ca-154721"><img class="logo_l2" src="/media/images/home/logo02.jpg" alt="BBB Online" width="74" height="26"></a>
                 <!-- End BBB Online -->
@@ -482,10 +464,21 @@ IN NO EVENT SHALL BRILLIANT EARTH, ITS DIRECTORS, MEMBERS, EMPLOYEES, OR AGENTS 
                 <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.brilliantearth.com"><img class="logo_l4" width="65" height="37" border="0" src="//images.scanalert.com/meter/www.brilliantearth.com/55.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
                 <!-- End MAC Scan -->
                 <!-- Start Seal Online -->
-                <a target="_blank" href="https://www.coopamerica.org/greenbusiness/sealofapproval.cfm"><img src="/media/images/home/logo05.jpg" alt="" width="43" height="49" class="logo_l5"></a>
+                <a target="_blank" href="https://www.greenamerica.org/greenbusiness/sealofapproval.cfm"><img src="/media/images/home/logo05.jpg" alt="" width="43" height="49" class="logo_l5"></a>
                 <!-- End Seal Online -->
             </div>
-            <p id="copyright" style="cursor: default;"> © 2005-2010 Brilliant Earth, Inc | <a href="/security-and-privacy-policies/#privacy">Privacy Policy</a> | <a href="/sitemap/">Site Map</a></p>
+
+            
+            <!-- Start facebook like -->
+            <div style="padding-left:7px;padding-top:5px;float:left;">
+                <div id="fb-root"></div>
+                <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+                <fb:like href="http://www.facebook.com/brilliantearth" send="true" width="350" show_faces="false" font="arial"></fb:like>
+            </div>
+            <!-- End facebook like -->
+            
+
+            <p id="copyright" style="cursor: default;"> © 2005-2011 Brilliant Earth, Inc | <a href="/security-and-privacy-policies/#privacy">Privacy Policy</a> | <a href="/sitemap/">Site Map</a></p>
 
 
 			<!-- BEGIN Invitation Positioning  -->
@@ -545,6 +538,8 @@ try {
     pageTracker._setAllowLinker(true);
     pageTracker._setDomainName("none");
     pageTracker._trackPageview();
+    pageTracker._trackPageLoadTime();
+    pageTracker._setCampaignCookieTimeout(63113851900);
 } catch(err) {}</script>
 
 			
@@ -561,16 +556,27 @@ try {
 	</div>
 
 
+    
 
+    
 
+    
 
-
-
-
+    
 
 	<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "28108963",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
-	<script language="JavaScript" src="/media/js/diamond/lpCheckRepState.js"></script><img style="display: none;" src="https://server.iad.liveperson.net/hc/28108963/?cmd=repstate&amp;site=28108963&amp;useSize=true&amp;d=1580425477203">
-    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion/1069152567/calltracking"> </script>
+	<script language="JavaScript" src="/media/js/diamond/lpCheckRepState.js"></script><img style="display: none;" src="https://server.iad.liveperson.net/hc/28108963/?cmd=repstate&amp;site=28108963&amp;useSize=true&amp;d=1580425475901">
+	<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion/1069152567/calltracking"> </script>
+	<!-- Yahoo! Web Analytics - All rights reserved -->
+	<script type="text/javascript" src="https://s.yimg.com/mi/ywa.js"></script>
+	<script type="text/javascript">
+		var YWATracker = YWA.getTracker("1000849112462");
+		YWATracker.submit();
+	</script>
+	<noscript>
+	<div><img src="https://a.analytics.yahoo.com/p.pl?a=1000849112462&js=no" width="1" height="1" alt="" /></div>
+	</noscript>
+	<!-- End of Yahoo! Web Analytics Code -->
 
 
 </body></html>
