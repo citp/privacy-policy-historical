@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcweather.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228232445id_/http%3A//xcweather.co.uk/v19/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcweather.co.uk privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628203409id_/http%3A//www.xcweather.co.uk/v19/priv.php) for the most accurate reproduction.*
 
 # XCWeather Privacy Policy
 
