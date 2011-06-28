@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228120958id_/http%3A//www.dogpile.com/dogpile/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628113727id_/http%3A//www.dogpile.com/dogpile/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy
 
