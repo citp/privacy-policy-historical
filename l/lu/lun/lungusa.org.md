@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224005316id_/http%3A//www.lungusa.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628223216id_/http%3A//www.lungusa.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Lung Association
 
@@ -21,6 +21,8 @@ Questions regarding this statement should be directed to American Lung Associati
 
 **What Information We Collect and How We Use That Information:**  
 Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers.
+
+We do not share the information we acquire from visitors or donors on our website with unaffiliated third parties. We may share some information with our agents for marketing purposes, and may also use such information to contact people for communications and marketing purposes.
 
 **Internet Protocol Address:**  
 We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track user's movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
