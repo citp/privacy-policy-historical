@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercourt.in privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202192147id_/http%3A//www.consumercourt.in/address/15032-privacy-policy.html%23post33197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercourt.in privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628174006id_/http%3A//www.consumercourt.in/address/15032-privacy-policy.html%23post33197) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,12 @@
 > 
 > You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [http://www.consumercourt.in](http://www.consumercourt.in/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-> * * *
+> Regards,  
+>  Admin,
+> 
+> ** PMs asking me for support will be deleted unless I've asked you to PM me with additional details **
+
+* * *
 
   2. ##  Incorrect Bills Vodaphone
 
@@ -81,28 +86,114 @@
 
 * * *
 
+  7. ## 
+
+> I have also been trying to remove my posts,i have no option to delete them,i have contacted this site.i just hope they delete my account as well,as this site doesnt really help people in sorting out their problems.I am hoping they will delete my posts asap.
+
+* * *
+
+  8. ## 
+
+> Dear Admin,
+> 
+> I would like to remove all complaints posted in my name. Request you to remove them and cofirm. Thanks for your help.
+
+* * *
+
+  9. ##  Complaint against Airtel Service
+
+> Respected sir/Madam,
+> 
+> I have got a call from one Eranamkulam Land line number (0484-4114888) on 9th March. The person said that who is calling from Airtel and asked me, would you like to change my current Aircel connection to Airtel by mobile portability. I asked yes, due to they offered me a plan of 30ps/second and also I have some problem with Aircel Netwok. He helped me to change the connection to airtel. The Sim has activated on 17th March and I was not getting the offer they had offered to me. I called the customer service and register the complaint and they said it will resolve within 21 march. I waited and there was no change in the Tariff. I again called them and they told, they don't offer any that kind of plan and also there was no chance for getting a call from the Airtel Land line. I tried to call the land line number which I have got the call on 9th but it was unavailable. They are still saill saying they haven't offered as well as call to my number. This was really frustrating. I make more than 100 call/per day at least. Now i have to pay more money for daily calls. The Airtel representative told to submit the case in cyber cell. I am on the way of submitting the complaint. Would you be able to help me in this situation?.. I hope for the best.
+> 
+> Thanks  
+>  Subeesh Mohan V
+
+* * *
+
+  10. ##  tata sky relocation
+
+> I have shifted within the same town and even after seven(7) days our tata sky has still not been relocated  
+>  Relotaion was promised within 72hours(3 days)  
+>  The costomer care is not responding in a satifactory way.
+
+* * *
+
+  11. ## 
+
+> Dear Admin,
+> 
+> I had written to you many times to delete the complaints I had posted in the site. Please delete them from your side or otherwise guide me as to how I do this from my side. These complaints are to be removed at the earliest. Please help.
+
+* * *
+
+  12. ## 
+
+> Dear Admin,
+> 
+> I want to close my complain "ETP International Pvt. Ltd. is not transferring my Provident Fund to my Current Organ" but it seems there is no option is available to close the complain, please help me to close the complain as it solved.
+> 
+> Hope you will solve my problem.
+> 
+> Thanks in advance.
+> 
+> Regards,  
+>  Ajay
+
+* * *
+
+  13. ## 
+
+> Hello Admin,
+> 
+> We appreciate your Privacy Policies.
+> 
+> However, why don't you allow us to remove posts? Once the complaint is resolved, its not fair on our part to keep the same live in the net. Either you should remove based our requests, else the user should have the option to delete own posts.
+> 
+> Please help
+
+* * *
+
+  14. ##  Tata Docomo Network both Voice and Data Calls Worst
+
+> Hi ,
+> 
+> I am using Tatadocomo for past 7 months and i have contacted customer care for more than 100 times to make my issues rectify . . .
+> 
+> its worst customer care service will make me to first disconnect from that network then my friends and entire india will remove their network if they provide service like this.
+> 
+> Problem 1 : 65% of time even near cell tower we cant get clear voice call
+> 
+> Problem 2 : Data GPRS diconnects for every 5 mins and come after a min we have to fight for data connectivity in mobile
+> 
+> Problem 3 : to Resolve this customer care executives top 3 answers :
+> 
+> A) Please Check with other handset ( after changing handsets also )  
+>  B) Please change config ( manual ) even if its manual  
+>  C) Sorry for the inconvenience we take action ( for saying this 3 dialogs again )
+> 
+> This week atlast they asked me to change sim because its damage so only i get like this so i changed the sim then a big problem 
+> 
+> my entire GPRS connectivity is lost .
+> 
+> Customer care says that sir please switch off mobile for 5 mins and try ( for every five mins )
+> 
+> then the Toll Free Wow vat a service : - Per day we can talk with customer executives only one day , next time if we call they ask to drop mail.
+> 
+> if we try to drop complaint through website everything will work fine but as a perfect stop is from "SUBMIT" button which won't work :-)))
+> 
+> Hatts off TataDocomo Network lots of complaints ........
+> 
+> The promo says Keep it simple by providing only sim not the services...........
+
+* * *
+
 
 
 
 #### Similar Threads
 
-  1. Replies: 1 
-
-Last Post: 11-23-2009, 01:06 PM
-
-  2. Replies: 0 
-
-Last Post: 10-16-2009, 10:13 AM
-
-  3. Replies: 0 
-
-Last Post: 07-15-2009, 10:28 PM
-
-  4. Replies: 2 
-
-Last Post: 06-22-2009, 06:56 PM
-
-  5. ###### [LIC Policy](http://www.consumercourt.in/life-insurance/4444-lic-policy.html "To whom it may concern, 
+  1. ###### [LIC Policy](http://www.consumercourt.in/life-insurance/4444-lic-policy.html "To whom it may concern, 
  
 My name is Deepali Rai.  I recently have brought an LIC Policy # \(115333112\) 
 by Bhika Ji Kama Place Branch New Delhi. 
@@ -110,19 +201,35 @@ by Bhika Ji Kama Place Branch New Delhi.
 
 By Unregistered in forum Life Insurance 
 
-Replies: 1 
+Replies: 3 
 
-Last Post: 06-15-2009, 08:53 AM
+Last Post: 02-15-2011, 12:40 PM
+
+  2. Replies: 1 
+
+Last Post: 11-23-2009, 12:06 PM
+
+  3. Replies: 0 
+
+Last Post: 10-16-2009, 09:13 AM
+
+  4. Replies: 0 
+
+Last Post: 07-15-2009, 09:28 PM
+
+  5. Replies: 2 
+
+Last Post: 06-22-2009, 05:56 PM
 
 
 
 
 #### Tags for this Thread
 
-####  [](http://www.consumercourt.in/address/15032-privacy-policy.html#top) Posting Permissions
+####  [](http://www.consumercourt.in/address/15032-privacy-policy.html#top) Posting Permissions 
 
-  * You **may** post new threads
-  * You **may** post replies
+  * You **may not** post new threads
+  * You **may not** post replies
   * You **may not** post attachments
   * You **may not** edit your posts
 
