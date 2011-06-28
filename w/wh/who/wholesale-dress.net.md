@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholesale-dress.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612055605id_/http%3A//www.wholesale-dress.net/privacy-policy-a614.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesale-dress.net privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628211856id_/http%3A//www.wholesale-dress.net/privacy-policy-a614.html) for the most accurate reproduction.*
 
-# Privacy policy_Security & privacy_Wholesale, wholesale fashion clothing, wholesale lots cheap clothing lots.
+# Privacy policy_Security & privacy_Wholesale, wholesale fashion clothing, wholesale lots of cheap clothing.
 
 Wholesale-dress.net respects your privacy and secures your online safety seriously. In order to provide you with the best products, efficient customer service, and fast updates, we record a variety of information from your visit to our site. To better protect your privacy, we’d like to explain our online information practices and the way your information is collected and used.
 
