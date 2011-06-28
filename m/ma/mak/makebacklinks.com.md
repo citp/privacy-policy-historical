@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makebacklinks.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220045452id_/http%3A//www.makebacklinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makebacklinks.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628123333id_/http%3A//www.makebacklinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Make Back Links: Privacy Policy
+# Make Back Links – Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
