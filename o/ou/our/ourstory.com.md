@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229045047id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628160038id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.*
 
 # OurStory.com - Capture your stories, save them permanently.
 
@@ -14,7 +14,7 @@ This privacy statement ("Privacy Statement") covers the website [www.OurStory.co
 
 ### About OurStory and the Information We Collect
 
-OurStory is an online biography service that allows people to capture personal histories online. To accomplish this, our users create their own profiles, which are shown to the people in their personal network, or if the user so chooses, to the general public. A personal network consists of a user's friends and family as listed by the user on the Site, plus the extended group of people that a user is connected to via chains of mutual friends. Some personal information we ask for is displayed to people within these personal networks. Users of the free version can mark any post as (1) viewable by their personal network, or (2) publicly viewable. Users of the premium version can mark any post on the Site as (1) private, (2) viewable by their personal network, or (3) publicly viewable. 
+OurStory is an online biography service that allows people to capture personal histories online. To accomplish this, our users create their own profiles, which are shown to the people in their personal network, or if the user so chooses, to the general public. A personal network consists of a user's friends and family as listed by the user on the Site, plus the extended group of people that a user is connected to via chains of mutual friends. Some personal information we ask for is displayed to people within these personal networks. Users of the free version can mark any post as (1) viewable by their personal network, or (2) publicly viewable. Users of the Digital Family version can mark any post on the Site as (1) private, (2) viewable by their personal network, or (3) publicly viewable. 
 
   
 
@@ -23,7 +23,7 @@ OurStory is an online biography service that allows people to capture personal h
 
 ###  Information Users Submit to Lifescape
 
-Lifescape collects user-submitted account information such as name and email address to identify users and send notifications related to the use of the Service, such as the system-generated email 'starter question' set or when those in their personal network add or update a posting. For premium accounts, users will be asked to submit financial information such as their credit card number. Lifescape also collects user-submitted profile information such as gender, age, occupation, location, etc. This information is collected in order for us to develop, improve, and tailor services to our users and to communicate with certain groups of users based on their profile information. We may also, for example, use it in aggregate form to tell advertisers about our users' needs and interests. Lifescape also collects user-submitted life experience accounts, photos and comments. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of the Site's special features.
+Lifescape collects user-submitted account information such as name and email address to identify users and send notifications related to the use of the Service, such as the system-generated email 'starter question' set or when those in their personal network add or update a posting. For Digital Family accounts, users will be asked to submit financial information such as their credit card number. Lifescape also collects user-submitted profile information such as gender, age, occupation, location, etc. This information is collected in order for us to develop, improve, and tailor services to our users and to communicate with certain groups of users based on their profile information. We may also, for example, use it in aggregate form to tell advertisers about our users' needs and interests. Lifescape also collects user-submitted life experience accounts, photos and comments. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of the Site's special features.
 
   
 
