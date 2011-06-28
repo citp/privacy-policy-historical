@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogainedirect.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928004817id_/http%3A//www.rogainedirect.com/cc_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogainedirect.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628060553id_/http%3A//rogainedirect.com/cc_privacy.asp) for the most accurate reproduction.*
 
 # ROGAINE® Direct - Customer Care
 
