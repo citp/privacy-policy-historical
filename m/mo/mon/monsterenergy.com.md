@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the monsterenergy.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209145259id_/http%3A//www.monsterenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterenergy.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628153640id_/http%3A//www.monsterenergy.com/us/en/resources/privacy) for the most accurate reproduction.*
 
 # Monster Energy Drink® | Unleash The Beast - Privacy Policy
 
 ### PRIVACY POLICY
 
-Monster Beverage Company, a division of Hansen Beverage Company, a Delaware corporation (“Monster Energy”) has created this Privacy Policy (“Privacy Policy”) in order to demonstrate our commitment to the privacy of our web site visitors. The following discloses our information gathering and dissemination practices for the Monster Energy� website, located at http://www.monsterenergy.com (the “Site”).
+Monster Beverage Company, a division of Hansen Beverage Company, a Delaware corporation (“Monster Energy”) has created this Privacy Policy (“Privacy Policy”) in order to demonstrate our commitment to the privacy of our web site visitors. The following discloses our information gathering and dissemination practices for the Monster Energy® website, located at http://www.monsterenergy.com (the “Site”).
 
 Please be aware that if you use the Site, register in any fashion in connection with the Site, or participate in a survey, contest, sweepstakes, or other promotion available on the Site, you are agreeing to both the terms of this Privacy Policy and our Terms and Conditions of Use set forth elsewhere on the Site, the terms of which are incorporated by this reference, each as in effect from time to time. Please also be aware we reserve the right at our discretion to make changes to this Privacy Policy at any time, and all such changes shall be immediately applicable. You will be notified of any material changes to this Privacy Policy by email. Your continued use of our Site following the posting of changes to this Privacy Policy will mean you accept those changes.
 
