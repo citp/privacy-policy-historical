@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gs.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231185710id_/http%3A//www2.goldmansachs.com/global/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gs.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628140222id_/http%3A//www2.goldmansachs.com/global/privacy-and-security) for the most accurate reproduction.*
 
 # Goldman Sachs | Privacy and Security - Goldman Sachs Global Privacy Policy
 
@@ -22,7 +22,7 @@ If you deal with Goldman Sachs in your individual capacity (e.g. as a private cl
   * Your age, occupation and marital status; 
   * Extensive financial information, including source of wealth, investment experience and objectives, risk tolerance and, in certain jurisdictions, representations required under applicable law or regulation concerning your financial resources; 
   * A head and shoulders photograph from, as applicable, your passport, national identity card or driver's license, as required by laws and regulations addressing due diligence and related matters; and 
-  * A personal identifier such as, depending on your country of residence, your Social Security Number, National Insurance Number, Tax File Number, etc. 
+  * A personal identifier such as, depending on your country of residence, your Social Security Number, National Insurance Number, Tax File Number, etc.
 
 
 
@@ -30,7 +30,7 @@ If you are an employee/officer/director/principal, etc. of one of our corporate 
 
   * Your name and contact details; 
   * Your role/position/title and area of responsibility; and 
-  * Certain identifying information (e.g. passport photo, etc.) as required by laws and regulations addressing money laundering and related matters. 
+  * Certain identifying information (e.g. passport photo, etc.) as required by laws and regulations addressing money laundering and related matters.
 
 
 
@@ -43,7 +43,7 @@ We may use your personal information to:
   * Administer, operate, facilitate and manage your relationship and/or account with Goldman Sachs. This may include sharing such information internally as well as disclosing it to third parties, as described in the following two sections, respectively; 
   * Contact you or, if applicable, your designated representative(s) by post, telephone, electronic mail, facsimile, etc., in connection with your relationship and/or account; 
   * Provide you with information (such as investment research), recommendations, or advice concerning products and services offered by Goldman Sachs; and 
-  * Facilitate our internal business operations, including assessing and managing risk and fulfilling our legal and regulatory requirements. 
+  * Facilitate our internal business operations, including assessing and managing risk and fulfilling our legal and regulatory requirements.
 
 
 
@@ -61,9 +61,9 @@ We may also disclose your personal information to fulfill your instructions, to 
 
 _You should know that Goldman Sachs will not sell your personal information._
 
-**Goldman, Sachs & Co. Bank, Switzerland**
+**Goldman Sachs Bank AG, Switzerland**
 
-The treatment and transfer of your personal information in case you are a client of Goldman, Sachs & Co. Bank, Switzerland, is ruled by Swiss laws such as Swiss Banking Secrecy Art. 47 Banking Law, the Swiss Data Protection law, the General Conditions and any further agreement between Goldman, Sachs & Co. Bank and you.
+The treatment and transfer of your personal information in case you are a client of Goldman Sachs Bank AG, Switzerland, is ruled by Swiss laws such as Swiss Banking Secrecy Art. 47 Banking Law, the Swiss Data Protection law, the General Conditions and any further agreement between Goldman Sachs Bank AG and you.
 
 **Information Security: How We Protect Your Privacy**
 
@@ -76,7 +76,7 @@ Goldman Sachs is committed to protecting the privacy and confidentiality of your
   * Monitoring of our systems infrastructure to detect weaknesses and potential intrusions; 
   * Implementing controls to identify, authenticate and authorize access to various systems or sites; 
   * Protecting information during transmission through various means including, where appropriate, encryption; and 
-  * Providing Goldman Sachs personnel with relevant training and continually updating our security practices in light of new risks and developments in technology. 
+  * Providing Goldman Sachs personnel with relevant training and continually updating our security practices in light of new risks and developments in technology.
 
 
 
@@ -96,7 +96,7 @@ The following additional information will be of interest to you as a visitor to 
 
 • When you visit this site, your browser may be momentarily directed to the Web site of an ad server or other third party service provider. This re-direction process will not be apparent to you. These third party Web sites automatically receive your IP address when this happens, and they may also collect information from your interaction with our Web sites including computer and connection information, standard Web log information, and ad information. Such information does not identify you individually. 
 
-• Goldman Sachs may make available on this Web site third party applications such as content linking or sharing facilities. Information collected by providers of such applications is governed by their privacy policies. 
+• Goldman Sachs may make available on this Web site third party applications such as content linking or sharing facilities. Information collected by providers of such applications is governed by their privacy policies.
 
 **Other Privacy Policies or Statements; Changes to Policy**
 
@@ -118,14 +118,14 @@ Melbourne 3001
 Australia   
   
 ---|---  
-For Hong Kong:  | 
+For Hong Kong: | 
 
 Vicky Wickremeratne, Vice President  
 Goldman Sachs (Asia) L.L.C.  
 60/F, Cheung Kong Center  
 2 Queens Road, Central Hong Kong   
   
-For the EEA:  | 
+For the EEA: | 
 
 Mark Pearce, Vice President   
 Goldman Sachs International  
@@ -133,14 +133,14 @@ Peterborough Court
 133 Fleet Street   
 London EC4A 2BB   
   
-For Switzerland:  | 
+For Switzerland: | 
 
 Jillian MacNab  
-Goldman Sachs & Co. Bank  
+Goldman Sachs Bank AG  
 Münsterhof 4  
 Postfach 8022, Zurich  
   
-For Japan:  | 
+For Japan: | 
 
 Hiroki Inaba, Vice President  
 Goldman Sachs Japan, Co., Ltd.  
@@ -157,7 +157,7 @@ J. Thomas Morina, Vice President
 Goldman, Sachs & Co.   
 30 Hudson Street   
 Jersey City, NJ 07302   
-  
+   
   
 ---|---  
  
