@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divx-digest.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225211603id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx-digest.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628201851id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Digest
 
@@ -23,7 +23,4 @@ This site has security measures in place to protect the loss, misuse, and altera
   
 |   
   
-[About Digital Digest](http://www.digital-digest.com/page.php?file=about "About Digital
-Digest") | [Help](http://www.digital-digest.com/help.php "Help") | [Newsletter](http://www.digital-digest.com/newsletter/ "Newsletter") | [Privacy](http://www.digital-digest.com/page.php?file=policy "Privacy") | [Submissions](http://www.digital-digest.com/page.php?file=submit "Submissions") | [Sitemap](http://www.digital-digest.com/sitemap.php "Sitemap")
 
-© Copyright 1999-2010 Digital Digest. Duplication of links or content is strictly prohibited.
