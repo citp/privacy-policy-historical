@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quantumjumping.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228181237id_/http%3A//www.quantumjumping.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumjumping.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629000711id_/http%3A//www.quantumjumping.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Quantum Jumping - The Inter-dimensional Quest for a Better You
+# Privacy Policy of Quantum Jumping
 
 Y our privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
