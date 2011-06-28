@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seekapp.com privacy policy that was archived on 2010-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100327002011id_/http%3A//www.seekapp.com%3Ftmp%3Dseekapp_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seekapp.com privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628083037id_/http%3A//seekapp.com%3Ftmp%3Dseekapp_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,11 +7,10 @@
 <link href="http://cdn.firstlook.com/custom/images/master-ResetCSS.css" rel="stylesheet" type="text/css">
 <link href="http://cdn.firstlook.com/custom/images/seekapp_style.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/JS-tools.js"></script>
-<script type="text/javascript" src="http://cdn.firstlook.com/custom/images/jquery.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/thickbox.js"></script>
 <link href="http://cdn.firstlook.com/custom/images/thickbox.css" type="text/css" rel="stylesheet">
-
-<script language="javaScript" type="text/javascript">
+<script type="text/javascript">
 <!--
 var u = location.href;
 var idx = u.indexOf('?');
@@ -25,9 +24,31 @@ function StatusMsg(msgStr) {
 
 var tmpCat = "UNKNOWN";
 var tmpSubCat = "UNKNOWN";
+
+function linkclick(cmstag) {
+	var url = cmstag;
+	templatename = (typeof(templatename) != 'undefined') ? templatename : '';
+	currentLink = (typeof(currentLink) != 'undefined') ? currentLink : '';
+	subid = (typeof(subid) != 'undefined') ? subid : '';
+	if (templatename) url += '&tmp=' + templatename;
+	if (currentLink) url += '&type=' + currentLink;
+	if (subid.length > 0) url += "&subid=" + subid;
+	location.href = url;
+}
+
+function staticlink(st, pos) {
+	exit = false;
+	pos = (typeof(pos) != 'undefined') ? pos : '';
+	location.href = u + 'aid=6&fwdId=1200&pos=' + pos + '&ps=DAUSUE&Keywords=' + st + '&';
+	return false;
+}
+
+function googleTrackPage(str) {
+	_gaq.push(['_trackPageview', str]);
+	return;
+}
 //-->
 </script>
-
 </head>
 
 <body>
@@ -97,8 +118,8 @@ Attn: Privacy Officer <br>
 <!-- wrapper end -->
 
 <div id="copyright">
-	© 2010&nbsp;SeekApp.com. All rights reserved.
+	© 2011&nbsp;SeekApp.com. All rights reserved.
 </div>
 
-<img src="http://firstlook.com/tpix.gif?clid=dom5c13250084f33ac43e0b912c87c4d&amp;sid=b0af94af-459c-4b44-b837-65e9e157f552" width="1" height="1">
+<img src="http://cms.trafficmp.com/tpix.gif?clid=dom0c79d64514d42b4b91b101c8f658b&amp;sid=1873440f-ea55-4d1d-9461-3b0753b4df65" width="1" height="1">
 </body></html>
