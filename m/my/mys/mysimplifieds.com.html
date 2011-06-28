@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mysimplifieds.com privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122111436id_/http%3A//www.mysimplifieds.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysimplifieds.com privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629003949id_/http%3A//www.mysimplifieds.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_ctl00_Head1"><title>
 	mySimplifieds Privacy Policy - mySimplifieds.com
@@ -11,7 +11,7 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
     
     <link type="text/css" media="screen" rel="stylesheet" href="/colorbox/colorbox.css"> 
-    <script type="text/javascript" src="/scripts/simplifieds-1.6.9.min.js"></script>
+    <script type="text/javascript" src="/scripts/simplifieds-1.7.0.min.js"></script>
     <script type="text/javascript" src="/colorbox/jquery.colorbox-min.js"></script>
     <script type="text/javascript" src="/jcarousel/jquery.jcarousel.min.js"></script>
     <script type="text/javascript" src="/autocomplete/jquery.autocomplete.js"></script> 
@@ -28,6 +28,7 @@
 
     <script type="text/javascript">
         _gaq.push(['_trackPageview']);
+        _gaq.push(['_trackPageLoadTime']);
     </script>
     <script type="text/javascript">        (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -35,18 +36,50 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
    </script>
-<link href="App_Themes/Default/Default-1.6.6.min.css" type="text/css" rel="stylesheet"></head>
+<link href="App_Themes/Default/Default-1.6.8.css" type="text/css" rel="stylesheet"><script defer="" src="http://www.apture.com/js/apture.js?siteToken=0yxLsR1"></script></head>
 <body id="body" class="storebg-default">
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script type="text/javascript">
+    window.fbAsyncInit = function () {
+        FB.init({ appId: '34194434365', status: true, cookie: true, xfbml: true
+        });
+    };
+    (function () {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    } ());
+
+    function fbLogin() {
+        FB.login(function (response) {
+            if (response.session) {
+                if (response.perms) {
+                    window.location.reload();
+                } else {
+                    window.location.reload();
+                }
+            } else {
+                window.location.reload();
+            }
+        }, { perms: 'email' });
+    }
+    function fbLogout() {
+        FB.logout(function (response) {
+            window.location = '/sign-out';
+        })
+    }
+</script>
 <form method="post" action="/privacy-policy" id="aspnetForm"><div>
 
-	<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="0WOCHY/gfs2VNBbScwehkVuMoGK/zQLIVhzKCphZtNvHWTTtA/jS3Kgm0ILIA7eaGYOfp+OQ3EdzSUzpuNXAnwiNj35ZFR2VBBNzT5wcI7LAUqLv">
+	<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="FvfImPnHObd41FrvrEkOj4zH69DvvgQzL1gfcx9VzLmapqxNqerQfOXmqeapGzH68c5C38vnOEbp4zic+FRFv0z4eUpZAFwqExa/+tSqZ4c8EVGx">
 
 	
 <script src="//www.google.com/jsapi?key=ABQIAAAAGTql151iMmdNObMoPIOOhBTaqv6SRECceJuedGTVSTbta3tIyRQowtsOytZQ5F6PLMnv9Tk-xSz4Mw" type="text/javascript"></script>
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
 	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="-yXtICv3e-lQykvj_LG42A7NQXfThVW7hGsZcuZ0pnC-v9sqJrYOCWy64Rsm7_R5PnnMc4HhsHeH3w8onwW6YzzWSw0UcqO3QVseeGwX_hul7B9L0">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="W+5knmTzS25H8SuiZR6ZYmyLvMJ4f4qhK/1T0mezCxqCFL4sohu9Wa7tzCYXGnfVSQO1ympFIv5Dhg7OuCZBzuCvWZMkyxPU5xAT60nIbGdQov1cB6wz2CxivyIv2VhOK8YfhXadCxy7roUW8tGroeTLMctEVeyZj9eG2NHWCivmq6YQwmlT+OE5iriZV+NFZinU9ezCiI96r3vfJBFwwLL/EObWgAIVcLCLPP65jbO7GMVluDC4Bhzmyh04eVoOHvSoWK0zvaeMtLvGVRRvneS10OkI9KRATY1lWTwdOcMC/y/fpXEcL2OiLl7Nn3u9/+M0hg==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="2OdMZSB3l34bMT6J0oCqAokRYWx7h7AmuSRKPv83y5w2xYPXY5PxGJZ1LDyRpr1UERpYrIypDuwkNr9yU4ywcCLh82h0e1J7BwrebmnJtVME4fLWGEF836G4QcbukKLreyHooAzg6R55AX8HhZKG4Mc3aCphGojzDQVg/RSyUALFTVm67tYbNdsLapFfFr/Sp58q+UaJiuAhwyJXpUhy+rbCg32Nbkw1+ex00VwZ/mH5vCUA2vwyzSGEA1MGSwCMIxCnVgPUyH4N0X1L25ahMtDLw+Bc39VXopuze1Z1QwOwTpfULMf0+Sl5LvznYcdrvwfT0nNQpcNtzDTPWHCHwyGVgW0=">
 <div id="overall">
 <div id="header" class="printHide">
     <div class="left" style="padding:2px 10px;">
@@ -62,42 +95,48 @@
             &nbsp;&nbsp;
             <input type="submit" name="ctl00$ctl00$LoginButton" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$LoginButton&quot;, &quot;&quot;, false, &quot;&quot;, &quot;sign-in&quot;, false, false))" id="ctl00_ctl00_LoginButton">
             <br>
-            <a href="#" onclick="FB.Connect.requireSession(function() { window.location.reload(); }); return false;" class="bold">Sign In using Facebook</a>
+            <span class="s_link_bold facebookLink" onclick="fbLogin()">Sign In using Facebook</span>
             &nbsp;&nbsp;|&nbsp;&nbsp;
-            <a id="ctl00_ctl00_SignUpHyperLink" class="bold" href="http://www.mysimplifieds.com/sign-in?ReturnUrl=privacy-policy">Sign Up</a>
+            <a id="ctl00_ctl00_SignUpHyperLink" class="bold" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'SignUp', 1]);" href="http://www.mysimplifieds.com/sign-in?ReturnUrl=privacy-policy">Sign Up</a>
             &nbsp;&nbsp;|&nbsp;&nbsp;
-            <a id="ctl00_ctl00_ForgotPasswordHyperLink" class="bold" href="http://www.mysimplifieds.com/retrieve-password">Forgot Password</a> 
+            <a id="ctl00_ctl00_ForgotPasswordHyperLink" class="bold" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'ForgotPassword', 1]);" href="http://www.mysimplifieds.com/retrieve-password">Forgot Password</a> 
         
 	</div>
     </div>
     <div style="padding-top:20px;margin-left:20px;">
         <ul class="icons-top col-left">
             <li>
-                <a id="ctl00_ctl00_ClassifiedsHyperLink" class="l bold icon-classifieds" onclick="_gaq.push(['_trackEvent', 'Promotion', 'Click', 'Classifieds', 1]);" href="http://www.mysimplifieds.com/search">Classifieds</a>
+                <a id="ctl00_ctl00_ClassifiedsHyperLink" class="l bold icon-classifieds" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Classifieds', 1]);" href="http://www.mysimplifieds.com/search">Classifieds</a>
             </li>
             <li>
-                <a id="ctl00_ctl00_StoresHyperLink" class="l bold icon-stores" onclick="_gaq.push(['_trackEvent', 'Promotion', 'Click', 'Stores', 1]);" href="http://www.mysimplifieds.com/stores">Stores</a>
+                <a id="ctl00_ctl00_StoresHyperLink" class="l bold icon-stores" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Stores', 1]);" href="http://www.mysimplifieds.com/stores">Stores</a>
             </li>
             <li>
-                <a id="ctl00_ctl00_ForumHyperLink" class="l bold icon-forum" onclick="_gaq.push(['_trackEvent', 'Promotion', 'Click', 'Forum', 1]);" href="http://www.mysimplifieds.com/forum">Forum</a>
+                <a id="ctl00_ctl00_ForumHyperLink" class="l bold icon-forum" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Forum', 1]);" href="http://www.mysimplifieds.com/forum">Forum</a>
             </li>
             <li>
-                <a id="ctl00_ctl00_BlogHyperLink" class="l bold icon-blog" onclick="_gaq.push(['_trackEvent', 'Promotion', 'Click', 'Blog', 1]);" href="http://www.mysimplifieds.com/blog/">Blog</a>
+                <a id="ctl00_ctl00_BlogHyperLink" class="l bold icon-blog" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Blog', 1]);" href="http://www.mysimplifieds.com/blog/">Blog</a>
             </li>
         </ul>
     </div>
     <div class="clear">
         
         <div class="right-align" style="padding:10px 4px 4px 0;">
-            <a id="ctl00_ctl00_BuyHyperLink" href="http://www.mysimplifieds.com/tips-for-buyers">Buy</a>
+            <a id="ctl00_ctl00_BuyHyperLink" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Buy', 1]);" href="http://www.mysimplifieds.com/tips-for-buyers">Buy</a>
             &nbsp;|&nbsp;
-            <a id="ctl00_ctl00_SellHyperLink" href="http://www.mysimplifieds.com/posting-best-practices">Sell</a>
+            <a id="ctl00_ctl00_SellHyperLink" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Sell', 1]);" href="http://www.mysimplifieds.com/posting-best-practices">Sell</a>
             &nbsp;|&nbsp;
-            <a id="ctl00_ctl00_PromotionsHyperLink" href="http://www.mysimplifieds.com/promotions">Promotions</a>
+            <a id="ctl00_ctl00_PromotionsHyperLink" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Promotions', 1]);" href="http://www.mysimplifieds.com/promotions">Promotions</a>
             &nbsp;|&nbsp;
-            <a id="ctl00_ctl00_FeaturedHyperLink" href="http://www.mysimplifieds.com/featured-classifieds-faq">Featured Classifieds</a>
+            <a id="ctl00_ctl00_FeaturedHyperLink" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Feature', 1]);" href="http://www.mysimplifieds.com/featured-classifieds-faq">Featured Classifieds</a>
             &nbsp;|&nbsp;
-            <a id="ctl00_ctl00_StorefrontHyperLink" href="http://www.mysimplifieds.com/premium-storefront">Premium Storefront</a>
+            <a id="ctl00_ctl00_StorefrontHyperLink" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Storefront', 1]);" href="http://www.mysimplifieds.com/premium-storefront">Premium Storefront</a>
+            &nbsp;|&nbsp;
+            <a id="ctl00_ctl00_NewsletterHyperLink" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Newsletter', 1]);" href="http://www.mysimplifieds.com/newsletter-sign-up">Newsletter</a>
+            &nbsp;|&nbsp;
+            <a id="ctl00_ctl00_SmsHyperLink" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'SmsAlert', 1]);" href="http://www.mysimplifieds.com/alert-info">SMS Alerts</a>
+            &nbsp;|&nbsp;
+            <a id="ctl00_ctl00_SmsPostHyperLink" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'SmsPost', 1]);" href="http://www.mysimplifieds.com/smspost-info">Post via SMS/MMS</a>
             &nbsp;|&nbsp;
             <a id="ctl00_ctl00_AdvertiseHyperLink" href="http://www.mysimplifieds.com/advertise-with-mysimplifieds" style="display:none">Advertise with us</a>
         </div>
@@ -111,122 +150,127 @@
 <div class="b_m"><div class="b_bl"><div class="b_br"><div class="b_tl"><div class="b_tr">
 <div class="b_c pointer">
     <ul id="nav">
-	    <li><a id="ctl00_ctl00_VerticalsDropDownView_SearchHyperLink" class="icon-search" href="http://www.mysimplifieds.com/search">Our Categories</a>
+	    <li><a id="ctl00_ctl00_VerticalsDropDownView_SearchHyperLink" class="icon-search" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'OurCategories', 1]);" href="http://www.mysimplifieds.com/search">Our Categories</a>
 		    <ul>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl00_VerticalDropDownListView_VerticalHyperLink" class="icon-fashion" href="http://www.mysimplifieds.com/fashion">Fashion</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl00_VerticalDropDownListView_VerticalHyperLink" class="icon-fashion" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/fashion">Fashion</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl01_VerticalDropDownListView_VerticalHyperLink" class="icon-beauty-health" href="http://www.mysimplifieds.com/beauty-health">Beauty &amp; Health</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl01_VerticalDropDownListView_VerticalHyperLink" class="icon-beauty-health" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/beauty-health">Beauty &amp; Health</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl02_VerticalDropDownListView_VerticalHyperLink" class="icon-cars" href="http://www.mysimplifieds.com/cars">Cars</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl02_VerticalDropDownListView_VerticalHyperLink" class="icon-cars" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/cars">Cars</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl03_VerticalDropDownListView_VerticalHyperLink" class="icon-properties" href="http://www.mysimplifieds.com/properties">Properties</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl03_VerticalDropDownListView_VerticalHyperLink" class="icon-properties" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/properties">Properties</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl04_VerticalDropDownListView_VerticalHyperLink" class="icon-car-accessories" href="http://www.mysimplifieds.com/car-accessories">Car Accessories</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl04_VerticalDropDownListView_VerticalHyperLink" class="icon-car-accessories" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/car-accessories">Car Accessories</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl05_VerticalDropDownListView_VerticalHyperLink" class="icon-motorcycles" href="http://www.mysimplifieds.com/motorcycles">Motorcycles</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl05_VerticalDropDownListView_VerticalHyperLink" class="icon-motorcycles" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/motorcycles">Motorcycles</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl06_VerticalDropDownListView_VerticalHyperLink" class="icon-baby" href="http://www.mysimplifieds.com/baby">Baby</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl06_VerticalDropDownListView_VerticalHyperLink" class="icon-baby" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/baby">Baby</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl07_VerticalDropDownListView_VerticalHyperLink" class="icon-furniture" href="http://www.mysimplifieds.com/furniture">Furniture</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl07_VerticalDropDownListView_VerticalHyperLink" class="icon-furniture" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/furniture">Furniture</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl08_VerticalDropDownListView_VerticalHyperLink" class="icon-gadgets" href="http://www.mysimplifieds.com/gadgets">Gadgets</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl08_VerticalDropDownListView_VerticalHyperLink" class="icon-gadgets" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/gadgets">Gadgets</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl09_VerticalDropDownListView_VerticalHyperLink" class="icon-computers" href="http://www.mysimplifieds.com/computers">Computers</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl09_VerticalDropDownListView_VerticalHyperLink" class="icon-computers" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/computers">Computers</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl10_VerticalDropDownListView_VerticalHyperLink" class="icon-electronics" href="http://www.mysimplifieds.com/electronics">Electronics</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl10_VerticalDropDownListView_VerticalHyperLink" class="icon-electronics" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/electronics">Electronics</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl11_VerticalDropDownListView_VerticalHyperLink" class="icon-industrial" href="http://www.mysimplifieds.com/industrial">Industrial</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl11_VerticalDropDownListView_VerticalHyperLink" class="icon-industrial" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/industrial">Industrial</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl12_VerticalDropDownListView_VerticalHyperLink" class="icon-books" href="http://www.mysimplifieds.com/books">Books</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl12_VerticalDropDownListView_VerticalHyperLink" class="icon-books" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/books">Books</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl13_VerticalDropDownListView_VerticalHyperLink" class="icon-food" href="http://www.mysimplifieds.com/food">Food</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl13_VerticalDropDownListView_VerticalHyperLink" class="icon-food" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/food">Food</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl14_VerticalDropDownListView_VerticalHyperLink" class="icon-collectables" href="http://www.mysimplifieds.com/collectables">Collectables</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl14_VerticalDropDownListView_VerticalHyperLink" class="icon-collectables" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/collectables">Collectables</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl15_VerticalDropDownListView_VerticalHyperLink" class="icon-hobbies" href="http://www.mysimplifieds.com/hobbies">Hobbies</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl15_VerticalDropDownListView_VerticalHyperLink" class="icon-hobbies" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/hobbies">Hobbies</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl16_VerticalDropDownListView_VerticalHyperLink" class="icon-pets" href="http://www.mysimplifieds.com/pets">Pets</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl16_VerticalDropDownListView_VerticalHyperLink" class="icon-pets" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/pets">Pets</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl17_VerticalDropDownListView_VerticalHyperLink" class="icon-travel" href="http://www.mysimplifieds.com/travel">Travel</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl17_VerticalDropDownListView_VerticalHyperLink" class="icon-travel" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/travel">Travel</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl18_VerticalDropDownListView_VerticalHyperLink" class="icon-jobs" href="http://www.mysimplifieds.com/jobs">Jobs</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl18_VerticalDropDownListView_VerticalHyperLink" class="icon-jobs" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/jobs">Jobs</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl19_VerticalDropDownListView_VerticalHyperLink" class="icon-services" href="http://www.mysimplifieds.com/services">Services</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl19_VerticalDropDownListView_VerticalHyperLink" class="icon-services" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/services">Services</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl20_VerticalDropDownListView_VerticalHyperLink" class="icon-community" href="http://www.mysimplifieds.com/community">Community</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl20_VerticalDropDownListView_VerticalHyperLink" class="icon-community" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/community">Community</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl21_VerticalDropDownListView_VerticalHyperLink" class="icon-events" href="http://www.mysimplifieds.com/events">Events</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl21_VerticalDropDownListView_VerticalHyperLink" class="icon-news" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/news">News</a>
 </li>
                 
                     
 <li>
-    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl22_VerticalDropDownListView_VerticalHyperLink" class="icon-commercial-vehicles" href="http://www.mysimplifieds.com/commercial-vehicles">Commercial Vehicles</a>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl22_VerticalDropDownListView_VerticalHyperLink" class="icon-events" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/events">Events</a>
+</li>
+                
+                    
+<li>
+    <a id="ctl00_ctl00_VerticalsDropDownView_VerticalRepeater_ctl23_VerticalDropDownListView_VerticalHyperLink" class="icon-commercial-vehicles" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Vertical', 1]);" href="http://www.mysimplifieds.com/commercial-vehicles">Commercial Vehicles</a>
 </li>
                 
 		    </ul>
@@ -243,7 +287,7 @@
     <div class="right">
         <div class="a_w_s"><div class="a_m"><div class="a_b"><div class="a_l"><div class="a_r">
             <div class="a_c">
-                <a id="ctl00_ctl00_SearchPanel_PostHyperLink" class="l white-bold" href="http://www.mysimplifieds.com/post-classifieds">Post Classifieds!</a>
+                <a id="ctl00_ctl00_SearchPanel_PostHyperLink" class="l white-bold" onclick="_gaq.push(['_trackEvent', 'Site', 'Click', 'Post', 1]);" href="http://www.mysimplifieds.com/post-classifieds">Post Classifieds!</a>
             </div>
         </div></div></div></div></div>
     </div>
@@ -272,6 +316,7 @@
 			<option value="61">Jobs</option>
 			<option value="184">Services</option>
 			<option value="50">Community</option>
+			<option value="321">News</option>
 			<option value="51">Events</option>
 			<option value="45">Commercial Vehicles</option>
 
@@ -759,8 +804,7 @@ Petaling Jaya</span></p>
         </div>
 	</div>
 
-
-<div id="footer" class="printHide">
+<div id="footer" class="printHide" style="padding-top:50px">
     <div class="padding-full" style="height:50px">
         <table style="width:100%">
             <tbody><tr>
@@ -871,32 +915,13 @@ Petaling Jaya</span></p>
 </div>
 
 </div></form>
-<script type="text/javascript">siteMasterReady();</script>
-<script type="text/javascript">
-$(document).ready(function(){
-	FB.init("ee2f67356e97466d0c4e2ebbc324c76d","/xd_receiver.htm",{ifUserConnected:a});
-	function a(b){
-		if(b){
-			var c=Get_Cookie("fb_user_id");
-			if(c!=b){
-				Set_Cookie("fb_user_id",b,"","/","","");
-				window.location.reload(true);
-			}
-			var d=Get_Cookie("fb_permission_email");
-			if(!d){
-				FB.Facebook.apiClient.users_hasAppPermission("email",
-					function(e){
-						Set_Cookie("fb_permission_email",true,"","/","","");
-						if(e==0){
-							FB.Connect.showPermissionDialog(permission,callbackFunc)
-						}
-					}
-				);
-			}
-		}
-	}
-});
+<script id="aptureScript">
+    (function () { var a = document.createElement("script"); a.defer = "true"; a.src = "http://www.apture.com/js/apture.js?siteToken=0yxLsR1"; document.getElementsByTagName("head")[0].appendChild(a); })();
 </script>
+<script type="text/javascript">siteMasterReady();</script>
+<!-- Begin whosamungus Tag -->
+
+<!-- End whosamungus Tag -->
 <!-- Begin comScore Tag -->
 <script type="text/javascript">
     document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
@@ -916,9 +941,14 @@ $(document).ready(function(){
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035730&c3=&c4=&c5=&c6=&c15=&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
+<!-- Begin Catfish Ad -->
+
+<!-- End Catfish Ad -->
 
     
     
+
+<script src="http://cdn.wibiya.com/Toolbars/dir_0464/Toolbar_464644/Loader_464644.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript>
 
 
 </body></html>
