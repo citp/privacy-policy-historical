@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thexyz.info privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208050105id_/http%3A//www.thexyz.info/index/index.php/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thexyz.info privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628224117id_/http%3A//www.thexyz.info/index.php/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - Thexyz.info
-
-[ ](http://www.jdoqocy.com/click-3939180-10696195)
 
 This document outlines this service's respect for your personal privacy as a user of the service.
 
