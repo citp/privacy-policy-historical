@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812070415id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628192034id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
 
 # ITI Privacy Policy
 
@@ -23,10 +23,10 @@ As part of offering and providing customizable and personalized services, the In
 
 Information Today, Inc. uses third-party advertising companies to serve ads on our websites that include advertising. These companies may use information ( _not including_ your name, address, email address, or telephone number) about your visits to these websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here](http://www.networkadvertising.org/)**. 
 
-**_Mailing Lists_**   
-When you request information from us, register for an electronic newsletter, sign up for an online event, register to attend one of ITI's conferences, subscribe to an online service, register to view premium content on one of our Web sites, or make a purchase from our online store, we may include your name in our e-mail mailing lists.  We use this information for marketing and promotional purposes to occasionally notify you of Information Today, Inc. products and services we think will interest you. We may also share this information with companies we believe will extend you offers of interest. 
+**_Your information_**   
+When you request information from us, register for an electronic newsletter, sign up for an online event, register to attend one of ITI's conferences, subscribe to an online service, register to view premium content on one of our Web sites, or make a purchase from our online store, we may use your information for marketing and promotional purposes to occasionally notify you of Information Today, Inc. products and services we think will interest you. We may also share this information with companies we believe will extend you offers of interest, including sponsors of premium content, webinars, and conferences. 
 
-If you don't wish to receive such notifications and offers, you can request to be removed from our mailing lists. ( **See below.** )
+If you don't wish to receive such notifications and offers from ITI, you can request to be removed from our mailing lists. ( **See below.** )
 
 We will seek to advise any companies or other third parties to whom we provide e-mail mailing list information to follow similar privacy policies. However, we cannot assume any responsibility for any actions or policies of these third parties. 
 
