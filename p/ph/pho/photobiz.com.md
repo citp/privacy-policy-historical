@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the photobiz.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222010435id_/http%3A//www.photobiz.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobiz.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628043038id_/http%3A//photobiz.com/privacy.cfm) for the most accurate reproduction.*
 
 # PhotoBiz - Online Proofing Solutions for Photographers
 
 PhotoBiz Privacy Policy   
-Effective August 4, 2010
+Effective February 15, 2011
 
-PhotoBiz respects your right to privacy and has taken steps to secure your personal and financial information.  This Privacy Policy describes PhotoBiz’s privacy practices.  We will only use your personal information in accordance with this Privacy Policy (referred to as “this Policy”).  We encourage you to read this Policy to understand the types of personal information we collect and how the information is used.  This Policy is subject to change from time to time.  Please email [privacy@photobiz.com](mailto:privacy@photobiz.com) if you have any questions or concerns.
+PhotoBiz respects your right to privacy and has taken steps to secure your personal and financial information.  This Privacy Policy describes PhotoBiz's privacy practices.  We will only use your personal information in accordance with this Privacy Policy (referred to as "this Policy").  We encourage you to read this Policy to understand the types of personal information we collect and how the information is used.  This Policy is subject to change from time to time.  Please email [privacy@photobiz.com](mailto:privacy@photobiz.com) if you have any questions or concerns.
 
-PhotoBiz is the sole owner of any information collected on our site or for subscription registration purposes, including customer and billing contact information.  Usernames, passwords, and IP ranges collected for the purpose of site access authentication are held in the strictest confidence.  We will not sell, share, or distribute this information in any way, or use it for any other purpose than for site access authentication. 
+PhotoBiz is the sole owner of any information collected on our site or for subscription registration purposes, including customer and billing contact information.  Usernames, passwords, and IP ranges collected for the purpose of site access authentication are held in the strictest confidence.  We will not sell, share, or distribute this information in any way, or use it for any other purpose than for site access authentication to photobiz.com and photobizcommunity.com. 
+
+The PhotoBiz Community (www.photobizcommunity.com) is an online forum sponsored by PhotoBiz.  You may opt out at any time by emailing [optout@photobizcommunity.com](mailto:optout@photobizcommunity.com).
 
 Cookies
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes their browser, the cookie simply terminates. Cookies are required for certain parts of the PhotoBiz website to function correctly.
+A cookie is a piece of data stored on the user's hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes their browser, the cookie simply terminates. Cookies are required for certain parts of the PhotoBiz website to function correctly.
 
 Links 
 
