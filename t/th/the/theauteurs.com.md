@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theauteurs.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121055235id_/http%3A//www.theauteurs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theauteurs.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628025030id_/http%3A//mubi.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ The MUBI Privacy Policy is designed to help you understand how we collect and us
 
 By using or accessing MUBI, you are accepting the practices described in this Privacy Policy. 
 
-If you have questions or concerns regarding this statement, you should contact our privacy staff at support@theauteurs.com. 
+If you have questions or concerns regarding this statement, you should contact our privacy staff at support@mubi.com. 
 
 ## The Information We Collect
 
@@ -20,7 +20,7 @@ When you use MUBI, you may set up your personal profile, form relationships, sen
 
 You post your own private or personal information on the Website at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that information you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of user information may remain viewable in cached and archived pages or if other Users have copied or stored your information. 
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. MUBI stores this information to send this one-time invitation, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at support@theauteurs.com to request that we remove this information from our database. 
+If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. MUBI stores this information to send this one-time invitation, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at support@mubi.com to request that we remove this information from our database. 
 
 MUBI may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the MUBI service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience. 
 
@@ -72,7 +72,7 @@ Your use of MUBI, and any disputes arising from it, is subject to this Privacy P
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy policy, please contact us at support@theauteurs.com. You may also contact us by mail at 668 High St, Palo Alto, CA 94301. 
+If you have any questions about this privacy policy, please contact us at support@mubi.com. You may also contact us by mail at 668 High St, Palo Alto, CA 94301. 
 
   
 
