@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scoreslive.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170339id_/http%3A//www.scoreslive.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoreslive.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628171538id_/http%3A//www.scoreslive.com/information/privacy_policy) for the most accurate reproduction.*
 
-# Scores Live
+# Information
 
 As always, the privacy, discretion and security of your personal information is AYA Entertainment, Inc.'s, and Scores Media Group LLC's (collectively, 'ScoresLive') top priority, and we want you to be aware of how we collect and handle information on our site.
 
