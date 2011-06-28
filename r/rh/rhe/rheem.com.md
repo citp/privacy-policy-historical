@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rheem.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623002623id_/http%3A//www.rheem.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rheem.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628153128id_/http%3A//www.rheem.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # Rheem Manufacturing Company Privacy Policy
 
@@ -10,8 +10,14 @@ Thank you for visiting the Web site of Rheem Manufacturing Company (“Rheem”)
 
 Our Web site collects two kinds of information from you: (1) personal information that you submit to us; and (2) non-personal information, such as the pages you visited on our Web site and your IP address. 
 
-  1. **Personally Identifiable Information** ****We collect and use personally identifiable information about you when you submit feedback, questions, or requests for information about Rheem’s products and services, apply for a job or make a purchase.   This may include your name, mailing address, telephone number, fax number, e-mail address and other information in order to respond to your inquiries and manage transactions with you.  Rheem may collect and store the information you choose to provide us to send you information about Rheem and our affiliates, including information about our products and services, from time to time.  We may also use information about you for internal marketing analysis to better understand our customers and the marketplace.
-  2. **Non-Personally Identifiable Information** ****We collect and use non-personally identifiable information about you in the following ways:
+  1. **Personally Identifiable Information**
+
+We collect and use personally identifiable information about you when you submit feedback, questions, or requests for information about Rheem’s products and services, apply for a job or make a purchase.  This may include your name, mailing address, telephone number, fax number, e-mail address and other information in order to respond to your inquiries and manage transactions with you.  Rheem may collect and store the information you choose to provide us to send you information about Rheem and our affiliates, including information about our products and services, from time to time.  We may also use information about you for internal marketing analysis to better understand our customers and the marketplace.
+
+  2. **Non-Personally Identifiable Information**
+
+We collect and use non-personally identifiable information about you in the following ways:
+
     * **Cookies**
 
 A cookie is a piece of data placed on your hard drive when you visit our site.  Cookies help us track traffic to our Web site, helping us identify what parts of our Web site interest visitors most.  In order to give you customized content, we may link cookie information with personally identifiable information but such information expires at the end of each visit to the site.  You may set your browser to inform you when cookies are being set before a cookie is stored, not accept cookies at all, and erase all cookies from your hard drive. If you choose to reject or erase cookies, your ability to navigate this Web site may be limited or even prevented.
@@ -20,7 +26,7 @@ A cookie is a piece of data placed on your hard drive when you visit our site. 
 
     * **Referrers, IP Addresses, and Environmental Variables**
 
-Rheem may also collect information through “referrers,” IP addresses, and various environmental variables.  A “referrer” is information your web browser passes along to the Rheem web server that references the URL of the Web site from which you came.  An “IP Address” is a number used by computers on a network to identify your computer so that data can be transmitted to you.  An “environmental variable” may include, among other things, the domain from which you access the Internet, the time you accessed our Web site, the type of web browser and operating system or platform used, the Internet address or the Web site you left to visit our Web site, the pages you visit while at our site, and the Internet address of the Web site you then visit.  Rheem may collect IP Address information in order to administer our Web site and to gather broad demographic information. 
+Rheem may also collect information through “referrers,” IP addresses, and various environmental variables.  A “referrer” is information your web browser passes along to the Rheem web server that references the URL of the Web site from which you came.  An “IP Address” is a number used by computers on a network to identify your computer so that data can be transmitted to you.  An “environmental variable” may include, among other things, the domain from which you access the Internet, the time you accessed our Web site, the type of web browser and operating system or platform used, the Internet address or the Web site you left to visit our Web site, the pages you visit while at our site, and the Internet address of the Web site you then visit.  Rheem may collect IP Address information in order to administer our Web site and to gather broad demographic information.
 
   2. **Information Sharing**
 
