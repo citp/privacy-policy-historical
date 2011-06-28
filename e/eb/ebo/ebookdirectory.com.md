@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ebookdirectory.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216122542id_/http%3A//ebookdirectory.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookdirectory.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628125729id_/http%3A//ebookdirectory.com/privacy-policy.html) for the most accurate reproduction.*
 
-# eBooks - The eBook Directory Privacy Policy
+# The eBook Directory Privacy Statement
 
-**  
-** The eBook Directory has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this web site:
+The eBook Directory has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this web site:
 
 1) We do not track our visitor's identify.  
 2) We only send email to people who request specific information from us.   
