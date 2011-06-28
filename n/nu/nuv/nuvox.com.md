@@ -1,82 +1,134 @@
-> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723140514id_/http%3A//business.windstream.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628091055id_/http%3A//www.windstream.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | Windstream
+# Windstream Privacy Popup
 
-NuVox is now part of Windstream 
+[Download a PDF of our Privacy Statement.](https://web.archive.org/WorkArea/DownloadAsset.aspx?id=302)
 
-**Effective Date: October 22, 2009**
+This Privacy Statement describes how Windstream and its affiliates collects information from or about you, either as a customer or visitor to any Windstream website, when you order services from us, how we use the information we collect and the choices you have concerning the collection and use of such information. The goal of this Statement is to ensure that your Windstream experience is secure so that you may use our products and services with complete confidence. Please review this Statement carefully.
 
-NuVox is committed to your privacy. This Privacy Policy describes the types of information we collect from and about you, either as a visitor to NuVox's websites, [www.nuvox.com](http://www.nuvox.com/), [https://my.nuvox.net](https://my.nuvox.net/), or [http://dealer.nuvox.net](http://dealer.nuvox.net/) (each a “Site”), or when you order NuVox services. This Privacy Policy also explains how NuVox may use and disclose such information, as well as your ability to control certain uses of it.
+##  This Statement addresses: 
 
-**INFORMATION COLLECTION**
-
-**Personal Information**
-
-  * NuVox collects personal information from you only when you: (1) order services from us; or (2) request information from us or otherwise contact us.  The personal information we collect may include your name, address, telephone number, email address, company name, and, if you are a NuVox customer, credit card number.
-  * We, or a third party service provider acting on our behalf (“Service Provider”), may periodically conduct customer surveys.  If you agree to participate in a survey, your personal information and responses will remain confidential, even if the survey is conducted by a Service Provider.  We use the survey responses to help improve the quality of our services to you, as well as to develop new services and products.  We may also share this survey information in an aggregated, non-personally identifiable form with third parties.
-
-
-
-**Customer Proprietary Network Information (“CPNI”)**
-
-  * "Customer Proprietary Network Information," or "CPNI" is personally identifiable information indicating to whom, where, and when a customer places a call, as well as the types of service offerings to which a customer subscribes and how much any particular service is used. We collect CPNI through the ordinary course of our customer-carrier relationship with you.
-
-
-
-**Non-Personal Information**
-
-  * As part of the standard operation of the Site, we or our Service Providers may collect certain non-personal information from you, including but not limited to your browser type, operating system, Internet Protocol (“IP”) address and the domain name from which you accessed the Site.  In addition, we or our Service Providers may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site, and other click-stream or site usage data.
-  * NuVox may share aggregate, non-personal information with third parties.
+**A**. Personal Information Collected  
+**B.** Use of Personally Identifiable Information (PII)   
+**C.** Customer Proprietary Network Information (CPNI)   
+**D.** Value-Added Services   
+**E.** Information Disclosed to Third Parties   
+**F.** On-line Information   
+**G.** Security Measures   
+**H.** Children   
+**I.** Links   
+**J.** Google Gmail   
+**K.** Statement Updates   
+**L.** Security Breaches   
+**M.** Contact Us   
+**N.** Definitions   
 
 
+##  A. Personal Information Collected:
 
-**Cookies and Web Beacons**
+Windstream limits the information collected about you to what is needed for conducting business, including the offering of products and services by us or by third parties that might be of interest to you. You may choose to provide ?personally identifiable information? (PII) to Windstream in a number of ways: in person, telephonically or electronically via our websites. Examples of how you may share PII with us include: ordering a service or equipment from us, sending us e-mail, responding to Windstream surveys, entering Windstream-sponsored contests or sweepstakes, registering to receive news or public information or applying for a job. We may also obtain PII from third parties (for example, credit agencies) with your permission. 
 
-  * We, or our Service Providers, may use cookies or web beacons to collect the non-personal information described above.  A cookie is a small data file that is placed on your hard drive when you access the Site.  A web beacon is a a small graphic image embedded in a webpage or email.  We or our Service Providers or business partners may also use cookies or web beacons to:  (1) monitor Site usage; (2) conduct research to improve our Site content, products and services; (3) manage our telecommunications networks; (4) deliver customized Site content; and (5) provide marketing message for NuVox’s services that may be of interest to you.
-  * You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings.  Check the “Help” menu of your browser to learn how to change your cookie preferences. 
+**Examples of PII are:**
 
-
-
-**INFORMATION USE**
-
-  * Subject to any legal restrictions on our use of CPNI and your instructions to us, NuVox or its Service Providers may use the information we collect from and about you for any of the following purposes:  (1) to fulfill orders, provide service and communicate with customers; (2) to develop new products or services; (3) to respond to your inquiries; (4) to provide you with targeted offers and advertising on the Site; (5) to contact you with information and promotional materials from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (6) to contact you when necessary; (7) to review the usage and operations of our Site and services; (8) to address problems with the Site, our business or our products and services; and (9) to protect the security or integrity of the Site and our business.  We may also use your information as described to you at the point of collection, with your opt-in or opt-out consent.  If you would like to restrict the use of your personal information for marketing purposes, you may the unsubscribe function included in every marketing email.
-  * We use and disclose your credit card information only to process payments and prevent fraud.
-  * NuVox may use your CPNI to offer you additional services of the type you already purchase from NuVox.  We may also use your CPNI to offer you other NuVox products and services, packages, discounts and promotions, which may be different from the types of services you already purchase.  If you would like to restrict the use of your CPNI for the marketing of certain products and services, you may contact us my phone or in writing.  Our contact information is available at <http://business.windstream.com/Support/index.php>.  When making such a request, please be sure to reference the customer name as shown in the billing invoice, the account number(s) you wish restricted and the billing address(es) associated with the account(s) in question.  Restricting use will not eliminate all NuVox marketing contacts.
+  * Name (including company name for business customers) 
+  * E-mail address 
+  * Credit card number or financial/bank account number or information, including routing numbers 
+  * Passwords or personal identification codes (PINs) 
+  * Date of birth 
+  * Social Security number 
+  * Driver?s license number or government issued identification number 
+  * Company contact information for business customers 
 
 
 
-**INFORMATION DISCLOSURE**
+**The following information is not PII:**
 
-  * Subject to any legal restrictions on our use of CPNI and your instructions to us, NuVox may disclose the information we collect from and about you as follows:  (1) to our affiliates, business partners, agents and Service Providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of the NuVox Acceptable Use Policy, Site Terms of Use or of our rights or the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) as described to you at the point of collection, with your opt-in or opt-out consent.  In addition, in the event that NuVox or substantially all of its assets are acquired, your information may be one of the transferred assets.  We will provide notice before personal information is transferred and becomes subject to a different privacy policy.   
-  * NuVox does not disclose CPNI to third parties without customer econsent except as required or allowed by law.  When NuVox uses Service Providers that require the use of CPNI, NuVox requires that such Service Providers protect CPNI consistent with this privacy policy.  NuVox does not sell CPNI to unaffiliated third parties.
+  * Mailing address, unless unlisted or restricted at your request 
+  * Telephone number, unless unlisted or restricted at your request 
+  * IP Address allowing you to use our internet service 
+  * PII included in aggregate data complied by Windstream 
 
 
 
-**PUBLIC FORUMS**  
-Any information you may disclose in our Member Directory, or other public areas of the Site, becomes public information.  Please exercise caution when disclosing personal information in these public areas.
+Windstream may compile or aggregate PII from numerous customers or Web visitors to collect data about groups of customers or potential customers or categories of service. Windstream does not consider this ?aggregate? information as PII because the aggregated information does not contain the PII of any individual customer or Web visitor. 
 
-**JOINT MARKETING**  
-From time to time, NuVox and a partner may jointly promote services.  In these situations, NuVox may provide the partner with certain personal information (such as the name, address and user name of customers who subscribed to the service as a result of the joint promotion), for the exclusive purpose of implementing the promotion and allowing NuVox and its partner to assess the results of the promotion.  The partner may not use the information for any other purpose.
+##  B. Use of Personally Identifiable Information:
 
-**GOOGLE GMAIL**  
-If NuVox is your Internet service provider, then your email may be provided by Google.  Your use of the Google GMail service is subject to both this Privacy Policy and the GMail privacy policy, available at <http://mail.google.com/mail/help/intl/en/privacy.html>.  
+Windstream uses PII to provide products and services to meet customers' needs, including new products or services. Windstream may share PII with any Windstream-affiliated company, and these companies are subject to the terms of this Statement. 
 
-**LINKS TO OTHER WEBSITES**  
-The Site may have links to third-party websites, which may have privacy policies that differ from our own.  We are not responsible for the practices of such sites.
+Windstream retains PII only as long as is necessary for Windstream to comply with business, tax and legal requirements. This retention period could be the entire time you are our customer depending on the type of PII. 
 
-**OUR COMMITMENT TO CHILDREN'S PRIVACY**  
-Protecting children’s privacy is important to us. We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of thirteen.
+**Windstream does not:**
 
-**OUR COMMITMENT TO DATA SECURITY**  
-We have taken certain physical, electronic, contractual and managerial steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+  * Collect PII from you unless you provide it to us in person, telephonically or electronically by visiting our websites, including information you provide in order to use our services. 
+  * Sell the names and addresses of Windstream Web visitors to unaffiliated suppliers without your prior approval. 
+  * Allow third parties to change your service provider or otherwise access your account information, at your request, without complying with our security policies, including our Customer Account Protection Plan that protects your account from changes not authorized by you. 
 
-**IF YOU HAVE QUESTIONS**  
-If you have any questions about this Privacy Policy or the practices described herein, you may contact:   
-NuVox   
-Attn: Customer Care   
-Telephone:  877-331-7808  
-Email:  [customercare@nuvox.com](mailto:customercare@nuvox.com)
 
-  
-**REVISIONS TO THIS POLICY**  
-NuVox reserves the right to revise this policy at any time. When we do, we will post the change(s) on the Site.  If we change the policy in a material way, we will provide appropriate online notice to you.
+
+## C. Customer Proprietary Network Information (CPNI)
+
+CPNI is information that relates to the quantity, technical configuration, type, destination, location and amount of use of the telecommunications services purchased by you from Windstream. CPNI is available to Windstream solely through its relationship with you and information contained in your bill for telecommunication services. CPNI does not include information that is typically classified as PII, such as your name or e-mail address and does not include compiled or aggregated PII. U.S. federal law requires Windstream to protect the confidentiality of CPNI. Unless you opt-out from the use of CPNI, Windstream may use CPNI to market service offerings to you to which you do not already subscribe. To opt-out, just contact us. Windstream may, without prior approval from you, use CPNI to provide or market service offerings to you, if the service offerings are within the same categories of service to which you already subscribe, regardless of your CPNI selection.
+
+If you order Windstream services from a Windstream dealer, Windstream?s dealers are prohibited from accessing or using your CPNI unless you sign a consent form authorizing Windstream to release your CPNI to the dealers. Dealers are required by Windstream to take all necessary measures to protect the confidentiality of your CPNI. As part of the dealers? agreements with Windstream, dealers agree that, upon termination of your Windstream services, the dealers will promptly return all of your CPNI to Windstream and will not retain any CPNI in any form. 
+
+## **D. Value-Added Services** :
+
+Because we appreciate the trust you have placed in us, we continually look for ways to enhance your customer experience. From time to time, we may notify you about a Windstream product or service using the information you have provided to us either in person, telephonically or electronically by visiting our websites, including information you provide to use our services. We strive to limit our offers to those we think you would benefit from and appreciate receiving. We want every contact you have with us to be a positive experience. If you prefer not to receive these Windstream value-added services, offers and opportunities, just [contact us](http://www.windstream.com/residential/customer-support-and-repairs/index.html).
+
+Windstream complies with all applicable laws and regulations regarding ?Do Not Call? Lists. Generally, Windstream is allowed to contact its customers, even if the customers are registered with federal or state Do Not Call Lists, because of our relationship with you. Windstream will, of course, honor any request to remove your name from our telephone, mail or e-mail solicitation lists and will delete your information from existing files within a reasonable time period. Just [contact us](http://www.windstream.com/residential/customer-support-and-repairs/index.html). 
+
+## E. Information Disclosed to Third Parties
+
+Windstream does not sell PII of its customers to third parties. In limited circumstances, Windstream may provide PII to third parties: 
+
+  * To assist us in developing, promoting, establishing, maintaining and/or providing Windstream-related products and services to you, including joint marketing efforts or promotions, but PII may not be used by the third parties for any other purpose; 
+  * To assist us in establishing accounts, billing, collecting payment (i.e. credit bureaus and collection agencies), enforcing the Terms and Conditions or the Acceptable Use Policy of our Windstream services where permitted by law, and protecting or enforcing our rights or property or the services of our other customers from fraudulent, abusive, or unlawful use by you of our services; 
+  * To comply, when required by law, with court or administrative orders, civil or criminal subpoenas, warrants from law enforcement agencies, federal or state regulatory requirements, mandatory governmental audits, E911 reporting requirements, grand jury investigations, civil or criminal governmental investigations or reporting required by the National Center for Missing and Exploited Children, designated by federal law as a reporting mechanism for child pornography; and 
+  * To appropriate law enforcement, 911 centers or emergency services when Windstream, in good faith, believes the disclosure is necessary to protect a person, Windstream property or the public from an immediate threat of serious harm. 
+
+
+
+## F. On-line Information 
+
+In addition to PII identified in Section A of this Statement, we, or our third party partners, may collect non-personal information automatically when you enter Windstream websites, such as domain name, browser, your computer operating system, information about the Web page from which you linked to the site, and time spent on different pages within the site. We or our partners may use this information to evaluate and improve our site, and may share the information with third parties on an aggregated basis to enhance our products and services offered. This on-line information is typically collected via **cookies** or web **beacons** (see **Section N** for definitions). Like virtually all other web sites that you visit, we use cookies to deliver Web content specific to your interests and to control access to your personal shopping cart after your initial entry. The cookie permits the server to recall information from your previous shopping trip, should you decide to think about your purchase. A cookie is not used to access or otherwise compromise the data on your hard drive. With most browsers, you can choose to change your browser settings to disable cookies. Please be aware that cookies may be required to complete certain functions on Windstream websites and other websites you may link to from Windstream websites, including making purchases or payments on your Windstream account.
+
+##  G. Security Measures 
+
+Windstream uses security techniques designed to protect your information from unauthorized access, including firewalls and access control procedures. We have security measures in place to protect against the loss, misuse and alteration of information under our control. For example, when you place an order on a Windstream website, the information you submit is encrypted using the Secure Sockets Layer (SSL) protocol. 
+
+Windstream employees are bound by non-disclosure agreements designed to prevent them from disclosing any PII or CPNI. Further, Windstream?s Working with Integrity Guidelines state that Windstream employees must abide by all state and federal laws and regulations in the performance of their job duties. 
+
+Our policies also limit access to PII to only those employees, contractors, agents or representatives that require the information to perform their jobs or assist Windstream with providing products and services to you. 
+
+## H. Children 
+
+Children below the age of majority should consult with their parents or guardians before furnishing any data to us. Parents should consider using one of a number of available parental control tools that provide a child-friendly, on-line environment and can prevent children from disclosing PII without parental consent. If a child has provided personal information without the consent of a parent or guardian, that parent or guardian should [contact us](http://www.windstream.com/residential/customer-support-and-repairs/index.html) to request that the information be deleted from our records. More information about parental controls may be found on Windstream websites or by contacting a Windstream customer care representative. 
+
+Windstream does not knowingly collect PII from children under the age of 13 in connection with providing products and services, and it strives to comply with all provisions of the Children?s Online Privacy Protection Act (COPPA). If Windstream inadvertently collects information from minors below the age of 13, the information will be treated as PII of the adult customer.
+
+##  I. Links 
+
+Windstream is not responsible for the content or privacy policies of other non-Windstream websites. You should keep this in mind when accessing sites through links on Windstream websites or through third party advertisements appearing on Windstream websites. Further, Windstream may advertise on other websites. The advertising companies placing our ads may use cookies or web beacons to track the effectiveness of our ads. The use of such technology is subject to the privacy policies of the advertising companies, and not this Statement. 
+
+## J. Google GMail 
+
+Some of our customers may have email provided by Google pursuant to their specific agreements. Use of Google GMail is subject to both this Statement and the GMail privacy policy available under the Terms section at [http://mail.google.com](http://mail.google.com/). 
+
+## K. Statement Updates 
+
+We may update this Privacy Statement at any time in connection with our constant efforts to improve our products and services. We strongly encourage you to periodically review this Statement. We reserve the right to expand our capabilities for information collection and use and change this Statement in this regard. If any change constitutes a material change to this Statement, we will post a notice on our websites in a prominent position. If Windstream decides to use PII in a manner that is materially different from what is contained herein, we will post the change on this page for 30 days before making the change.
+
+##  L. Security Breaches
+
+While our goal is to prevent any unauthorized disclosure of PII, Windstream cannot guarantee that an unauthorized disclosure will not occur. We will make reasonable efforts to contact you if we determine that security breach has occurred and that there is a reasonable risk of identity theft or as otherwise required by law.
+
+## M. Contact Us
+
+If you have questions, concerns, or complaints about this Statement or Windstream?s privacy practices, please contact a Windstream customer care representative; email us at privacy.statement@windstream.com; or write to us at Windstream Communications, Inc., ATTN: Privacy Officer, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner. 
+
+## N. Definitions 
+
+**Cookies** are small, encrypted data strings our server writes to your hard drive that contains your unique Windstream User ID. 
+
+**Web beacons** are small graphic images imbedded in a webpage or email.
