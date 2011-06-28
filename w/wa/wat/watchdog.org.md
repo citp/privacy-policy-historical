@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchdog.org privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108001407id_/http%3A//watchdog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdog.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628221915id_/http%3A//watchdog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
