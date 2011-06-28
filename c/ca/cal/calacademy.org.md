@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calacademy.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215221007id_/http%3A//www.calacademy.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calacademy.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629001708id_/http%3A//www.calacademy.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: California Academy of Sciences
 
@@ -12,7 +12,7 @@ We are committed to protecting the Personal Information you share with us throug
 
 _Children_
 
-We do not knowingly collect or solicit personal information from children or knowingly allow children to purchase goods or memberships through our website. Visitors 12 years of age and younger must obtain an adult's permission before submitting any personal information to this or any other website. In the event that we learn that we have received any personal information from a visitor 12 years of age or younger, we will delete that information as quickly as possible. If you believe that we might have information from or about a child 12 years of age or younger, please contact us at www.webservices@calacademy.org. 
+We do not knowingly collect or solicit personal information from children or knowingly allow children to purchase goods or memberships through our website. Visitors 12 years of age and younger must obtain an adult's permission before submitting any personal information to this or any other website. In the event that we learn that we have received any personal information from a visitor 12 years of age or younger, we will delete that information as quickly as possible. If you believe that we might have information from or about a child 12 years of age or younger, please contact us at webservices@calacademy.org. 
 
 _Cookies_
 
@@ -64,4 +64,4 @@ California Academy of Sciences - Privacy Administrator
 Golden Gate Park   
 San Francisco, CA 94118 **
 
-© Copyright 2008 California Academy of Sciences. All Rights Reserved. 
+© Copyright 2011 California Academy of Sciences. All Rights Reserved. 
