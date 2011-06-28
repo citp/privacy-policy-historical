@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groupon.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223135901id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628150626id_/http%3A//www.groupon.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
 _Last updated July 22, 2010_
 
