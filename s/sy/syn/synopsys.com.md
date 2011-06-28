@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123214901id_/http%3A//www.synopsys.com/Company/Pages/SynopsysPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synopsys.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628221452id_/http%3A//www.synopsys.com/Company/Pages/SynopsysPrivacy.aspx) for the most accurate reproduction.*
 
 # Synopsys Privacy
 
