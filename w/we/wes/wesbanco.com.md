@@ -1,49 +1,97 @@
-> *The following text is extracted and transformed from the wesbanco.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224115158id_/http%3A//www.wesbanco.com/Global/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesbanco.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628230246id_/http%3A//www.wesbanco.com/Global/WesBancoPrivacyNotice.pdf) for the most accurate reproduction.*
 
-# WesBanco Inc.
+# 
 
-Our customers’ confidence in our ability to provide premier financial services while preserving the integrity of their personal information is the cornerstone of WesBanco’s success and reputation. As technology enhances our ability to deliver our services in new and innovative ways, we understand your concerns of how this development may impact your personal privacy. We recognize our responsibility not only to protect the financial assets entrusted to us, but also to respect the privacy expectations of our customers. Our commitment to that responsibility is outlined in our adoption of the following privacy principles: 
+                                                                                                                         Rev. 1/2011
+                      WHAT DOES WESBANCO
+  FACTS               DO WITH YOUR PERSONAL INFORMATION?
+ Why?                Financial companies choose how they share your personal information. Federal law gives
+                     consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we
+                     collect, share, and protect your personal information. Please read this notice carefully to understand
+                     what we do.
+ What?               The types of personal information we collect and share depend on the product or service you have
+                     with us. This information can include:
+                           Social Security number and income
+                           Assets and account balances
+                           Payment history and credit history
+ How?                All financial companies need to share customer personal information to run their everyday business.
+                     In the section below, we list the reasons financial companies can share their customer personal
+                     information; the reasons WesBanco chooses to share; and whether you can limit this sharing.
+                                                                                      Does WesBanco              Can you limit this
+Reasons we can share your personal information
+                                                                                            share?                    sharing?
+ For our everyday business purposes –
+ such as to process your transactions, maintain your account(s), respond                      Yes                        No
+ to court orders and legal investigations, or report to credit bureaus
+ For our marketing purposes –
+                                                                                              Yes                       Yes
+ to offer our products and services to you
+ For joint marketing with other financial companies                                           Yes                       Yes
+ For our affiliates’ everyday business purposes –
+                                                                                              Yes                        No
+ information about your transactions and experiences
+ For our affiliates’ everyday business purposes –
+                                                                                               No                 We don’t share
+ information about your creditworthiness
+ For our affiliates to market to you                                                          Yes                       Yes
+ For nonaffiliates to market to you                                                            No                 We don’t share
+ To limit            Mail the form below
+ our sharing         Please note:
+                     If you are a new customer, we can begin sharing your information 30 days from the date we sent
+                     this notice. When you are no longer our customer, we continue to share your information as
+                     described in this notice.
+                     However, you can contact us at any time to limit our sharing.
+ Questions?          Call 1-800-328-3369
+ Mail-in Form
+If you have a joint   Mark any/all you want to limit:
+account, your
+                           Do not use my personal information to market to me.
+choice(s) will
+apply to everyone          Do not share my personal information with other financial institutions to jointly market to me.
+on your account            Do not allow your affiliates to use my personal information to market to me.
+unless you mark      Name
+below.                                                                                                      Mail to:
+                     Address                                                                                 WesBanco
+    Apply my                                                                                                 Attn: Bank Operations
+choices only to      City, State, Zip                                                                        1 Bank Plaza
+me.                                                                                                          Wheeling, WV 26003
+                     Account #(s)
 
-Your privacy is important to us. We recognize your personal interest in understanding how we do business - in understanding how we will collect, retain, and use the personal information we request from you. By publishing this privacy policy, we hope to address those concerns and instill confidence in our existing and potential customers that WesBanco has sufficient standards and security measures in place to prevent the misuse of any personal information provided to us. We will continually re-evaluate these standards to ensure your privacy is respected. We welcome your questions and comments. 
 
-Please write to us at: WesBanco, Attn: Bank Operations , 1 Bank Plaza, Wheeling, WV 26003, or e-mail us using the following link. [ custserv@wesbanco.com](mailto:custserv@wesbanco.com)
-
-We may collect “nonpublic personal information” about you from the following sources: 
-
-  * Information we receive from you on applications or other loan and account forms, such as your name, address, social security number, assets and income; .
-  * Information about your transactions with us, our affiliates or others, such as your account balance, payment history, parties to transactions, and credit card usage; and .
-  * Information we receive from credit reporting agencies, such as your creditworthiness and credit history. 
-
-
-
-“Nonpublic personal information” is nonpublic information about you that we obtain in connection with providing a financial product or service to you. For example, nonpublic personal information includes information regarding your account balance, payment history, and overdraft history. 
-
-We are permitted under law to share information about our experiences or transactions with you or your account (such as your account balance and your payment history with us) with companies related to us by common control or ownership (“affiliates”). 
-
-We also are permitted under law to disclose nonpublic personal information about you to “nonaffiliated third parties” (i.e., third parties that are not members of our corporate family) in certain circumstances. For example, we may disclose nonpublic personal information about you to such third parties to assist us in servicing your loan or account with us; to government entities in response to subpoenas; and to credit bureaus. We do not disclose any nonpublic personal information about you to any other third parties, except as permitted by law. 
-
-We may disclose all of the information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements. 
-
-Otherwise, we do not share customer information with outside companies for purposes of selling their products and services to you. We do not sell “customer lists” to outside companies. 
-
-To read more about the specific information collected and retained through our website, [www.wesbanco.com](http://www.wesbanco.com/), and online banking service, WesBancoNet, please access the WesBanco Internet Banking Security Statement. 
-
-WesBanco is committed to maintaining the integrity of your financial information. We have developed procedures to ensure our customer records are accurate, current, and complete in accordance with reasonable commercial standards. Our employees are prepared to respond to your requests to correct inaccurate information in a timely manner. You may direct such requests to: WesBanco, Attn: Bank Operations, 1 Bank Plaza, Wheeling, WV, 26003, or to the address and telephone number provided on your monthly statement. Additionally, when you open certain types of accounts with us, we will provide you with disclosures outlining specific procedures for you to follow should you find an error or unauthorized transaction on your account. These disclosures are also available through our online banking service, WesBancoNet. 
-
-As stated previously, WesBanco will only use personal customer information for legitimate business purposes. This extends to limiting your personally identifiable information to those WesBanco employees with a business reason to know such information about you. We educate our employees on the importance of customer privacy. We have outlined our standards for employee confidentiality in our corporate Personnel Policies and Procedure Manual provided to each employee. Breaches of our confidentiality principles are grounds for disciplinary action against the employee. 
-
-WesBanco continually maintains and updates appropriate security standards and procedures regarding unauthorized access to customer information. We are committed to utilizing the newest technologies to enhance these standards and to keep the information you provide to us secure and confidential. All of our operational and data processing systems are in a secure environment that protects your account information from being accessed by third parties. 
-
-To read more about the security of information you provide to us through our website, [www.wesbanco.com](http://www.wesbanco.com/) and through our online banking service, WesBancoNet, please access the WesBanco Internet Banking Security Statement. 
-
-Our web site and online banking services are designed to provide information and deliver products and services to current and prospective customers of WesBanco. We anticipate the users of our electronic banking options to be adults, and we limit access to WesBancoNet to account holders over the age of sixteen. Our web site may be viewed by the general public and could be accessed by a child, although we are confident that none of the information available would be considered objectionable. We will not knowingly solicit or gather personal identifying information from a child. Should a child e-mail us from our web site to ask a question or to request product or service information, and we have knowledge that the request was from a child under the age of thirteen, the child’s e-mail address would be retained only for the time period and purpose of responding to the request. 
-
-Parents may exercise control over which areas of the Internet their children access by utilizing the variety of software packages and computer technologies currently available for that purpose. 
-
-WesBanco is committed to protecting the confidentiality of the personal information you share with us and in keeping you informed of the privacy and security principles we adopt to do so. You can expect this commitment to extend equally whether you visit us in person, over the telephone, or through our website or online banking service. 
-
-This privacy policy applies to personal information gathered and used in your covered transactions with WesBanco companies that are for personal, family, or household purposes, as required by the Gramm-Leach-Bliley Act and any implementing regulation. These companies include WesBanco Bank, Inc., WesBanco Bank Community Development Corporation, WesBanco Securities, Inc., WesBanco Insurance Services, Inc. and WesBanco Title Agency, LLC. This policy is subject to change at any time without prior notice given to you unless otherwise required by law or regulation. If any change would result in you having the right to “opt out” of information sharing as provided for in any law or regulation, i.e., to direct us not to share your information, you would be given a reasonable time to exercise this right prior to the revised policy becoming effective. 
-
-If you decide to close your account(s) or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this notice. 
-
-Explore your own financial information in greater detail by using these powerful tools for forecasting and assessing your financial choices. 
+Page 2
+Who we are
+                               WesBanco Bank, Inc., WesBanco Bank Community Development Corporation,
+Who is providing this
+                                 WesBanco Securities, Inc., WesBanco Insurance Services, Inc., WesBanco
+notice?                                                Title Agency, LLC, and WesMark Funds
+What we do
+How does WesBanco              To protect your personal information from unauthorized access and use, we use
+protect my personal            security measures that comply with federal law. These measures include computer
+information?                   safeguards and secured files and buildings.
+How does WesBanco              We collect your personal information, for example, when you
+collect my personal                Open an account or apply for a loan
+information?
+                                   Give us your contact information or give us your income information
+                                   Provide identifying information
+                               We also collect your personal information from others, such as credit bureaus,
+                               affiliates, or other companies.
+Why can’t I limit all sharing? Federal law gives you the right to limit only
+                                   sharing for affiliates’ everyday business purposes — information about your
+                                   creditworthiness
+                                   affiliates from using your information to market to you
+                                   sharing for nonaffiliates to market to you
+                               State laws and individual companies may give you additional rights to limit sharing.
+What happens when I limit      Your choices will apply to everyone on your account — unless you tell us
+sharing for an account I hold  otherwise.
+jointly with someone else?
+Definitions
+Affiliates                     Companies related by common ownership or control. They can be financial and
+                               nonfinancial companies.
+                                   Our affiliates include companies with a WesBanco name and investment
+                                   companies such as WesMark Funds.
+Nonaffiliates                  Companies not related by common ownership or control. They can be financial
+                               and nonfinancial companies.
+                                   WesBanco does not share with nonaffiliates so they can market to you.
+Joint marketing                A formal agreement between nonaffiliated financial companies that together
+                               market financial products or services to you.
+                                   Our joint marketing partners include credit card companies.
