@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecollege.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230133351id_/http%3A//www.onlinecollege.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecollege.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628164220id_/http%3A//www.onlinecollege.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online College Tips - Online Colleges
 
