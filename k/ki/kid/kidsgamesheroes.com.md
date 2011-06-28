@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsgamesheroes.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102044534id_/http%3A//www.kidsgamesheroes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgamesheroes.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628040208id_/http%3A//www.kidsgamesheroes.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KIDS GAMES HEROES
 
