@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the mightyape.com.au privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228210033id_/http%3A//www.mightyape.com.au/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mightyape.com.au privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628205149id_/http%3A//www.mightyape.com.au/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-		<title>Help - Privacy Policy at Mighty Ape Australia</title>		<link href="http://media.mightyape.net.nz/css/1293158315/mightyape.css,help.css,takeover-boxing.css" media="screen" rel="stylesheet" type="text/css">		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://media.mightyape.net.nz/js/1288571360/jquery/jquery-1.4.3.min.js,global.js"></script>		<meta name="robots" content="NOODP">
-<meta http-equiv="X-UA-Compatible" content="IE=8">
+		<title>Help - Privacy Policy at Mighty Ape Australia</title>		<link href="http://media.mightyape.net.nz/css/1309249435/mightyape.css,help.css" media="screen" rel="stylesheet" type="text/css">		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://media.mightyape.net.nz/js/1309249435/jquery/jquery-1.4.3.min.js,global.js"></script>		<meta name="robots" content="NOODP">
 		<!--[if lt IE 7]>
 			<link rel="stylesheet" href="/css/ielt7.css" type="text/css" />
 		<![endif]-->
@@ -14,7 +13,7 @@
 		<link rel="shortcut icon" type="image/png" href="http://media.mightyape.net.nz/images/icons/mightyape.png">
 	</head>
 
-	<body id="help-static-url" class="store-2 help">
+	<body id="help-help" class="store-2 help">
 
 	
 <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
@@ -35,30 +34,43 @@
 	document.getElementById('fb-root').appendChild(e);
   }());
 </script>
+	
+
+
+<div id="noticesContainer">
+	</div>
+
+<script type="text/javascript">
+
+	$(document).ready(function() {
+		initialiseNotices();
+	});
+
+</script>
 
 	<div id="rootContainer"><div id="bodyContainer"><div id="bodyArea">
 		<div id="pageContainer">
 			
 
-			
 
-
-<div id="header">
+<div id="header" class="">
 	<div id="logo">
 		<div><a href="http://www.mightyape.com.au">MightyApe.com.au</a></div>
 	</div>
 
 	
-		<div id="tagline">
-			&nbsp;
-		</div>
 
-	
+	<div class="needHelp">
+		<div class="title">Order by phone</div>
+					<div class="phoneNumber">1800 895 191</div>
+			</div>
+
+
 	<ul id="headLinks">
 		<li><a href="/help/">Help</a></li>
 
-					<li><a href="/help/Gift-Vouchers-Promo-Codes-Banana-Points/5/Buy-a-gift-voucher/164/">Gift Vouchers</a></li>
-		
+		<li><a href="/help/Gift-Vouchers-Promo-Codes-Banana-Points/5/Buy-a-gift-voucher/164/">Gift Vouchers</a></li>
+
 			</ul>
 
 	
@@ -92,10 +104,9 @@
 
 	
 	
-					<div id="trolleyInfo" class="notEmpty noFreeShipping">
+					<div id="trolleyInfo" class="empty noFreeShipping">
 				<div class="info">
-					<span class="items"><b>3</b> items</span>
-					<span class="price">$114.97</span>
+					Your trolley is empty :(
 				</div>
 			</div>
 		
@@ -125,6 +136,7 @@
     <option value="2812" label="Books">Books</option>
     <option value="2" label="Movies &amp; TV">Movies &amp; TV</option>
     <option value="681" label="Music">Music</option>
+    <option value="2747" label="Toys &amp; Collectibles">Toys &amp; Collectibles</option>
     <option value="6422" label="Merchandise">Merchandise</option>
 </select>					<input type="hidden" name="prev" value="" id="prev">					<input type="text" name="s" id="s" value="" class="query" accesskey="s">					<input type="submit" name="SearchButton" id="SearchButton" value="Search" class="searchButton">				</div>
 			</form>
@@ -170,6 +182,13 @@
 				</a>
 			</li>
 					
+			<li id="category2747" class="item category droppable">
+				<a class="item navLink" href="/Toys/">
+					<span>Toys &amp; Collectibles</span>
+					<em id="categoryDrop2747" class="drop" onclick="toggleDrop(event, '2747'); return false;">more</em>
+				</a>
+			</li>
+					
 			<li id="category6422" class="item category droppable">
 				<a class="item navLink" href="/Merchandise/">
 					<span>Merchandise</span>
@@ -179,9 +198,12 @@
 		
 					<li class="item other"><a class="item" href="/daily-deals/"><span>Daily Deals</span></a></li>
 		
+					<li class="item other"><a class="item" href="/Marketplace/"><span>Marketplace <span class="new">NEW</span></span></a></li>
 		
-					<li class="item other last"><a class="item" href="/gifts/"><span>Gift Ideas</span></a></li>
-			</ul>
+		<li class="item other"><a class="item" href="/Specials/"><span>Specials</span></a></li>
+
+		<li class="item other last"><a class="item" href="/Gift-Ideas/"><span>Gift Ideas</span></a></li>
+	</ul>
 
 	<div id="subnav">
 														
@@ -199,10 +221,19 @@
 							<a href="/Games/PlayStation-2/">PlayStation 2</a>
 						</li>
 											<li class="category">
+							<a href="/Games/PlayStation-Vita/">PlayStation Vita</a>
+						</li>
+											<li class="category">
 							<a href="/Games/PSP/">PSP</a>
 						</li>
 											<li class="category">
 							<a href="/Games/Nintendo-Wii/">Nintendo Wii</a>
+						</li>
+											<li class="category">
+							<a href="/Games/Nintendo-Wii-U/">Nintendo Wii U</a>
+						</li>
+											<li class="category">
+							<a href="/Games/Nintendo-3DS/">Nintendo 3DS</a>
 						</li>
 											<li class="category">
 							<a href="/Games/Nintendo-DS/">Nintendo DS</a>
@@ -320,6 +351,36 @@
 						</li>
 									</ul>
 														
+				<ul id="navSub2747" class="nav-sub">
+											<li class="category">
+							<a href="/Toys/Action-Figures/">Action Figures</a>
+						</li>
+											<li class="category">
+							<a href="/Toys/Games-Board-Games/">Board Games</a>
+						</li>
+											<li class="category">
+							<a href="/Toys/Collectibles/">Collectibles</a>
+						</li>
+											<li class="category">
+							<a href="/Toys/Learning-Education/">Educational</a>
+						</li>
+											<li class="category">
+							<a href="/Toys/Pre-School/">Preschool</a>
+						</li>
+											<li class="category">
+							<a href="/attribute/27/Brand/Star-Wars/Toys/">Star Wars</a>
+						</li>
+											<li class="">
+							<a href="/Toys/New-Releases/">New Releases</a>
+						</li>
+											<li class="">
+							<a href="/Toys/Coming-Soon/">Coming Soon</a>
+						</li>
+											<li class="">
+							<a href="/Toys/Specials/">Specials</a>
+						</li>
+									</ul>
+														
 				<ul id="navSub6422" class="nav-sub">
 											<li class="category">
 							<a href="/Merchandise/Gift-Vouchers/">Gift Vouchers</a>
@@ -354,7 +415,9 @@
 
 <div class="breadcrumbs">
 <ul>
-<li class="breadcrumbOn"><a href="/help/">Help</a></li>
+<li class="breadcrumb"><a href="/help/">Help</a></li>
+<li class="divider">&gt;</li>
+<li class="breadcrumbOn">Policies, Terms &amp; Conditions</li>
 </ul>
 </div>
 
@@ -412,14 +475,16 @@ our&nbsp;sites:</p>
 
 <p>We have collected this information in order to provide the best possible
 service to you while you are visiting our site. To this end we may use the
-information that you provide for the following purposes: 1.To verify your
-identity if you need help with a forgotten password or you are having login
-problems with one of our site services. 2.&nbsp;To process any transactions that you
-might make on our site. 3.&nbsp;To help provide any other services that you have
-requested. 4.&nbsp;To offer the most relevant information suitable to you and your
-interests. 5.&nbsp;For any marketing, promotional, publicity, marketing or market
-research that we might undertake. 6.&nbsp;For any other purposes for which you have
-given permission.</p>
+information that you provide for the following purposes:<br>
+1.To verify your identity if you need help with a forgotten password or you are
+having login problems with one of our site services.<br>
+2.&nbsp;To process any transactions that you might make on our site.<br>
+3.&nbsp;To help provide any other services that you have requested.<br>
+4.&nbsp;To offer the most relevant information suitable to you and your
+interests.<br>
+5.&nbsp;For any marketing, promotional, publicity, marketing or market research that
+we might undertake.<br>
+6.&nbsp;For any other purposes for which you have given permission.</p>
 
 <h3>What about cookies?</h3>
 
@@ -469,6 +534,19 @@ Manager at Mighty Ape, PO Box 80, Greenhithe, Auckland, New Zealand,&nbsp;0756.<
 <p>If you have any questions regarding our privacy policy, please
 contact&nbsp;us.</p>
 
+	
+		
+		
+			<div class="related-help-items">
+				<h2>Related topics</h2>
+				<ul>
+																		<li><a href="/help/conditions-of-use/">Conditions of Use</a></li>
+																																			<li><a href="/help/referrals-terms-conditions/">Referrals Terms &amp; Conditions</a></li>
+																								<li><a href="/help/Policies-Terms-Conditions/8/Returns-Policy/149/">Returns Policy</a></li>
+															</ul>
+			</div>
+
+		
 	</div>
 
 
@@ -516,32 +594,19 @@ contact&nbsp;us.</p>
 					</div>
 	</div>
 	<div class="status">
-		<span class="online">Lines are currently open</span>
-	</div>
+					<span class="online">Lines are currently open</span>
+			</div>
 </div>
 
 	<div class="help-box">
-		<div class="description">
-			<div class="help-box-content">
-				<a href="/help/contact/" class="buttonLarge blue"><span><strong>Send us a message</strong></span></a>
-			</div>
+	<div class="description">
+		<div class="help-box-content">
+			<a href="/help/contact/" class="buttonLarge blue"><span><strong>Send us a message</strong></span></a>
 		</div>
-		<div class="status">We'll reply within one business day</div>
 	</div>
+	<div class="status">We'll reply within one business day</div>
+</div>
 
-			<div class="help-box">
-			<div class="questions">
-				<h2>Related Questions</h2>
-
-				<ol>
-											<li><a href="/help/shipping-information/">How much is shipping?</a></li>
-											<li><a href="/help/Delivery/4/Australia-delivery-times/145/">When will my order be delivered? </a></li>
-											<li><a href="/help/Placing-Orders/3/Payment-methods/116/">What payment methods can I use?</a></li>
-											<li><a href="/help/Delivery/4/International-delivery-rates/121/">Do you ship outside Australia?</a></li>
-											<li><a href="/help/Delivery/4/Understanding-stock-statuses/123/">How do stock statuses effect my order?</a></li>
-									</ol>
-			</div>
-		</div>
 	
 				</div>
 
@@ -554,16 +619,17 @@ contact&nbsp;us.</p>
 	
 	
 		<div class="footer">
-			<div id="footer-main">
-				<ul class="tabs">
-											<li class="off"><a href="/">Home</a></li>
-											<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Games/">Games</a></li>
-											<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Books/">Books</a></li>
-											<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Movies/">Movies &amp; TV</a></li>
-											<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Music/">Music</a></li>
-											<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Merchandise/">Merchandise</a></li>
-									</ul>
+			<ul class="tabs">
+									<li class="off"><a href="/">Home</a></li>
+									<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Games/">Games</a></li>
+									<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Books/">Books</a></li>
+									<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Movies/">Movies &amp; TV</a></li>
+									<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Music/">Music</a></li>
+									<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Toys/">Toys &amp; Collectibles</a></li>
+									<li class="off">&nbsp;|&nbsp;&nbsp;<a href="/Merchandise/">Merchandise</a></li>
+							</ul>
 
+			<div id="footer-main">
 				<div class="links">
 					<p class="trolley">
 						<a class="trolley" href="/trolley/"><span>View Trolley</span></a>
@@ -625,8 +691,10 @@ contact&nbsp;us.</p>
 			</span>
 
 			<span class="copy">
-				Copyright © 1996-2010 Mighty Ape Ltd.
-				"Mighty Ape", the Mighty Ape logo and the smiling ape symbol are trademarks of Mighty Ape Ltd.
+				
+Copyright © 1996 - 2011 Mighty Ape Ltd.
+"Mighty Ape", the Mighty Ape logo and the smiling ape symbol are trademarks of Mighty Ape Ltd.
+All other trademarks are the property of their respective owners.
 			</span>
 		</div>
 	</div>
@@ -663,7 +731,6 @@ contact&nbsp;us.</p>
 		</div>
 	</div></div></div>
 
-	
 	
 
 </body></html>
