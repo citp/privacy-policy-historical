@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628081130id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628032552id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShareGyan.com
 
