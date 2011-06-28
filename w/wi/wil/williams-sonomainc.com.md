@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109154710id_/http%3A//www.williams-sonomainc.com/privacy/%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628055201id_/http%3A//www.williams-sonomainc.com/privacy/%23pp) for the most accurate reproduction.*
 
 # Williams-Sonoma, Inc. - Privacy Policy
 
