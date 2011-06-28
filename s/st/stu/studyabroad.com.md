@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210075634id_/http%3A//studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628180906id_/http%3A//www.studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
 
-# privacy - Study Abroad and Study Abroad Programs with StudyAbroad.com
+# privacy - SA - Study Abroad and Study Abroad Programs with StudyAbroad.com
 
 Thank you for visiting StudyAbroad.com (hereinafter referred to as "the Site"), which is owned and/or operated, in whole or in part, by EducationDynamics, LLC, a Delaware limited liability company (hereinafter referred to as "EducationDynamics," "us," "our," or "we"), and reviewing our Privacy Policy, effective August 25, 2008. EducationDynamics is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
