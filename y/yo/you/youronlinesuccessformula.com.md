@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youronlinesuccessformula.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212083504id_/http%3A//extremewealthpotentials.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youronlinesuccessformula.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628171652id_/http%3A//extremewealthpotentials.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
