@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119202849id_/http%3A//www.balsamiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balsamiq.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628224434id_/http%3A//balsamiq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Balsamiq
 
@@ -33,7 +33,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### Our Commitment to Children's Privacy
+### Our Commitment to Children’s Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
