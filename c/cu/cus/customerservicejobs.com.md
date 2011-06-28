@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customerservicejobs.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227131533id_/http%3A//www.customerservicejobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerservicejobs.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628155909id_/http%3A//www.customerservicejobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Search Customer Service & Customer SupportJobs & Resumes, Find Career Resources - CustomerServiceJobs.com
+# Jobs | Customer Service Rep, Customer Support Job Listings on CustomerServiceJobs.com
 
 ### Privacy Policy
 
