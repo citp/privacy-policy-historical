@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227160227id_/http%3A//www.worldwildlife.org/item6628.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629005831id_/http%3A//www.worldwildlife.org/item6628.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# World Wildlife Fund
 
 Effective date: June 28, 2006
 
@@ -54,6 +54,10 @@ A cookie is a piece of data placed on your hard drive when you visit our site. W
 
 
 WWF may also collect information through IP addresses or environmental variables. An "IP address" is a number used by computers on the network to identify your computer so that data can be transmitted to you. "Environmental variables" include, among other things, the domain from which you access the Internet, the time you accessed our web site, type of web browser and operating system or platform used, the Internet address of the web site you left to visit WWF, the names of the pages you visit while at our web site, and the Internet address of the web site you then visit. We collect all of this information to allow us to detect broad demographic trends, to provide information tailored to your interests and to enhance your experience on WWF's web site. This information may be aggregated in an anonymous manner.
+
+ **Security measures**
+
+WWF provides site visitors with a secure server environment when making online donations. WWF uses industry standard encryption method --Secure Sockets Layer (SSL) -- for secure transfer of sensitive personal and financial data between your web browser and our web servers, which are stored off-site in a physically secure, locked hosting facility with limited access.  
 
 II. HOW INFORMATION MAY BE USED  
 We may share personally and non-personally identifiable information with third parties that help manage our web site and databases and with our partners, affiliates, or other third parties.
