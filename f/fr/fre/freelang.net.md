@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226192339id_/http%3A//www.freelang.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelang.net privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628200946id_/http%3A//www.freelang.net/privacy.php) for the most accurate reproduction.*
 
 # FREELANG - Privacy Policy
 
@@ -8,4 +8,4 @@ Freelang logs information about browsers, operating systems, IP-addresses and re
 
 Freelang does not use cookies (except when registered translators log in, but the cookie is deleted when the session is closed). 
 
-Our newsletter is sent to people who typed in their address email for this purpose, on our website only. Our mailing list is thus based on voluntary subscription ( _opt in_ ), we don't use the _opt out_ system and we don't buy or collect addresses from any third party. 
+Our newsletter is sent to people who typed in their address email for this purpose, on our website only. Our mailing list is thus based on voluntary subscription ( _opt in_ ), we don't use the _opt out_ system. We don't buy or collect addresses from any third party and we don't sell and will never sell our list of addresses. 
