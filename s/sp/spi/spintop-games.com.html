@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spintop-games.com privacy policy that was archived on 2010-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130023036id_/http%3A//www.spintop-games.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spintop-games.com privacy policy that was archived on 2011-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628221619id_/http%3A//www.spintop-games.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<link rel="stylesheet" type="text/css" href="stylesheet4.css">
@@ -30,7 +30,8 @@
 			<td> <a class="genre-link" href="./board_game_download/index.html" target="_self" onmouseover="window.status='Card/Board Games Page.'; return true;" onmouseout="window.status=''; return true;">Card &amp; Board</a> </td> 
 			<td> <a class="genre-link" href="./jigsaw_game_download/index.html" target="_self" onmouseover="window.status='Jigsaw Games Page.'; return true;" onmouseout="window.status=''; return true;">Jigsaw</a> </td> 
 			<td> <a class="genre-link" href="./word_game_download/index.html" target="_self" onmouseover="window.status='Word Games Page.'; return true;" onmouseout="window.status=''; return true;">Word</a> </td> 
-			<td> <a class="genre-link" href="./allgames.html" target="_self" onmouseover="window.status='All Games.'; return true;" onmouseout="window.status=''; return true;">All Games</a> </td> 
+			<td> <a class="genre-link" href="./allgames.html" target="_self" onmouseover="window.status='All Games.'; return true;" onmouseout="window.status=''; return true;">All Games</a> </td>
+			<td> <a class="genre-link" href="http://www.facebook.com/pages/SpinTop-Games/123116344374020" target="_blank"><img src="./images/facebook.jpg"></a> </td> 
 		</tr>
 	</tbody></table> 
 			
@@ -144,44 +145,29 @@
 			<td> <a class="genre-link" href="./board_game_download/index.html" target="_self" onmouseover="window.status='Card/Board Games Page.'; return true;" onmouseout="window.status=''; return true;">Card &amp; Board</a> </td> 
 			<td> <a class="genre-link" href="./jigsaw_game_download/index.html" target="_self" onmouseover="window.status='Jigsaw Games Page.'; return true;" onmouseout="window.status=''; return true;">Jigsaw</a> </td> 
 			<td> <a class="genre-link" href="./word_game_download/index.html" target="_self" onmouseover="window.status='Word Games Page.'; return true;" onmouseout="window.status=''; return true;">Word</a> </td> 
-			<td> <a class="genre-link" href="./allgames.html" target="_self" onmouseover="window.status='All Games.'; return true;" onmouseout="window.status=''; return true;">All Games</a> </td> 
+			<td> <a class="genre-link" href="./allgames.html" target="_self" onmouseover="window.status='All Games.'; return true;" onmouseout="window.status=''; return true;">All Games</a> </td>
+			<td> <a class="genre-link" href="http://www.facebook.com/pages/SpinTop-Games/123116344374020" target="_blank"><img src="./images/facebook.jpg"></a> </td> 
 		</tr>
 	</tbody></table> 
 
-<table border="0" width="100%">
-<tbody><tr>
-	<td>
-	
-	<p>Add us to your  
-
+<div style="float:left;">
+	<p>Add us to your <span id="favorites">Favorites!</span></p>
 	<script language="JavaScript"> 
-	if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4))
-	{
-	document.write('<a href=\"javascript:window.external.AddFavorite(\'http://www.SpinTop-Games.com\',\'SpinTop Games\')\" target=\"_self\" onmouseover=\"window.status=\'Add us to your favorites!\'; return true;\" onmouseout=\"window.status=\'\'; return true;\" >Favorites</a>')
-	}
-	
-	else 
-	{ 
-	var msg = "Favorites!"; if(navigator.appName == "Netscape") msg += "  (CTRL-D)"; document.write(msg);
+	if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
+		$("#favorites").wrap('<a href="javascript:window.external.AddFavorite(\'http://www.SpinTop-Games.com\',\'SpinTop Games\')" target="_self" onmouseover="window.status=\'Add us to your favorites!\'; return true;" onmouseout="window.status=\'\'; return true;" />');
+	} else if ( navigator.appName == "Netscape" ) {
+		$("#favorites").after('<span> (CTRL-D)</span>');
 	} 
-	</script>Favorites!  (CTRL-D)
-	
-	</p>
-	
-	</td>
-		<td align="right">
+	</script>
+</div>
+
+<div style="float:right;">
 			<a href="./support.html" target="_top">Customer Support</a> - 
 			<a href="./about.html" target="_top">About Us</a> - 
 			<a href="./privacy.html" target="_top">Privacy</a>
-		</td>
-	</tr>
-</tbody></table>
+</div>
 
-<table border="0" width="100%">
-<tbody><tr>
-		<td align="center"><div class="legal">© 2004-2010 SpinTop Games. SpinTop is a Trademark of SpinTop Media, Inc.</div></td>
-</tr>
-</tbody></table>
+	<div class="legal row">© 2004-2011 SpinTop Games. SpinTop is a Trademark of SpinTop Media, Inc.</div>
 </div>
 			
 		</div>
