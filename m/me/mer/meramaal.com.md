@@ -1,7 +1,14 @@
-> *The following text is extracted and transformed from the meramaal.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129072656id_/http%3A//www.meramaal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meramaal.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628072620id_/http%3A//www.meramaal.com/privacy) for the most accurate reproduction.*
 
-# Post Classified in Hyderabad - Search and Post Free Classified Ads in Hyderabad. Property, Cars in Hyderabad, Rentals, For Sale in Hyderabad - Meramaal.com
+# Post Classified in Delhi - Search and Post Free Classified Ads in Delhi. Property, Cars in Delhi, Rentals, For Sale in Delhi - Meramaal.com
 
+  
+
+
+##   
+  
+---  
+  
 Meramaal.com values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website or information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
 
 We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided.
