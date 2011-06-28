@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the kabam.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105132303id_/http%3A//www.kabam.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabam.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628035924id_/http%3A//www.kabam.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Kabam - Privacy Policy
-
-### Last Updated on 9/14/2010
+# Privacy Policy | Kabam
 
 #### Our Commitment To Privacy
 
-Welcome to Kabam, an online service operated by Kabam, Inc.("Kabam"), which includes without limitation websites such as Kabam.com and online games and applications available through social networking sites (individually and collectively, the "Site"). Your privacy is very important to us. All Kabam employees and founders make it our highest priority to keep the information that our users entrust in us safe.
+Welcome to Kabam, an online service operated by Kabam, Inc.(“Kabam”), which includes without limitation websites such as Kabam.com and online games and applications available through social networking sites (individually and collectively, the “Site”). Your privacy is very important to us. All Kabam employees and founders make it our highest priority to keep the information that our users entrust in us safe.
 
 We operate under high standards for keeping your privacy safe. We operate under the following guiding principles:
 
@@ -15,13 +13,13 @@ We operate under high standards for keeping your privacy safe. We operate under 
 
 
 
-To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and permanently at the following URL: <http://www.kabam.com/privacypolicy>. By using the Site, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. This notice may be updated from time to time to reflect our continuing efforts to protect our users' privacy. You will always be able to find the latest version posted on our website.
+To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and permanently at the following URL: <http://www.kabam.com/privacypolicy>. By using the Site, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. This notice may be updated from time to time to reflect our continuing efforts to protect our users’ privacy. You will always be able to find the latest version posted on our website.
 
 #### The Information We Collect
 
 _1) Kabam Applications on Partner-Operated Websites_
 
-In order to use Kabam applications on partner-operated websites (e.g., Facebook, MySpace, etc.), we may require you to 1) be a registered member of a partner site, and 2) install a Kabam application on your partner site account. If your use of a Kabam application requires installation of such application on a partner-operated website, you generally must agree to such partner site's terms of service, which often allow application developers like Kabam to store certain information about you. The terms of service for partner-operated websites vary from partner to partner in this regard.
+In order to use Kabam applications on partner-operated websites (e.g., Facebook, MySpace, etc.), we may require you to 1) be a registered member of a partner site, and 2) install a Kabam application on your partner site account. If your use of a Kabam application requires installation of such application on a partner-operated website, you generally must agree to such partner site’s terms of service, which often allow application developers like Kabam to store certain information about you. The terms of service for partner-operated websites vary from partner to partner in this regard.
 
 When you install a Kabam application on your partner site account, we may assign you a unique identifying number and a default display name, which we may retain. Your display name serves as your publicly visible identity within all websites that serve Kabam applications. By default, we may assign your display name to be your first name only.
 
@@ -29,9 +27,9 @@ Kabam abides by the terms of service of all partner sites. If you have any quest
 
 _2) Kabam Applications on Kabam-Operated Websites_
 
-In order to use Kabam applications on Kabam-operated websites, you may be required to first complete a registration form and create a user name and password. During registration you may be required to give contact information such as your name and email address. We may use this information to contact you when another user interacts with your profile, or to update you with your friends' activities in our applications.
+In order to use Kabam applications on Kabam-operated websites, you may be required to first complete a registration form and create a user name and password. During registration you may be required to give contact information such as your name and email address. We may use this information to contact you when another user interacts with your profile, or to update you with your friends’ activities in our applications.
 
-You may have the option to provide demographic and professional information (such as education, interests, and resume) to us; we encourage you to submit this information so other users can interact with your profile. If you choose to use our referral service to tell a friend about our site, we may ask you for your friend's name and email address. We may automatically send your friend an email inviting him or her to visit the site. Kabam may store such information for various purposes including without limitation to send emails to referrals and track the success of our referral program.
+You may have the option to provide demographic and professional information (such as education, interests, and resume) to us; we encourage you to submit this information so other users can interact with your profile. If you choose to use our referral service to tell a friend about our site, we may ask you for your friend’s name and email address. We may automatically send your friend an email inviting him or her to visit the site. Kabam may store such information for various purposes including without limitation to send emails to referrals and track the success of our referral program.
 
 Your friend may contact us at privacy[at]kabam.com to request that we remove this information from our database.
 
@@ -51,7 +49,7 @@ Log Files
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the Site to improve our service, and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the Site to improve our service, and to gather demographic information about our user base as a whole.
 
 We do link this automatically-collected data to personally identifiable information. IP addresses are only tied to personally identifiable information in the event we try to identify possible fraudulent activities.
 
@@ -59,23 +57,23 @@ We use third-party tracking services, such as Google Analytics, that use cookies
 
 Cookies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies in our applications on the Site. We do link the information we store in cookies to personally identifiable information you submit while on our Site.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies in our applications on the Site. We do link the information we store in cookies to personally identifiable information you submit while on our Site.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires after you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+We use both session ID cookies and persistent cookies. A session ID cookie expires after you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-We use session cookies to confirm that users are logged in. As a convenience feature, we offer an option that will remember your login information for a period of two weeks. This login information is encrypted and set in a persistent cookie so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you will not be able to sign in to use our site.
+We use session cookies to confirm that users are logged in. As a convenience feature, we offer an option that will remember your login information for a period of two weeks. This login information is encrypted and set in a persistent cookie so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you will not be able to sign in to use our site.
 
-Other third-parties may place advertisements and cookies on web-pages within our applications on the Site. Other companies' use of their cookies is subject to their own privacy policies, not this one.
+Other third-parties may place advertisements and cookies on web-pages within our applications on the Site. Other companies’ use of their cookies is subject to their own privacy policies, not this one.
 
 Third Party Advertising
 
-We use third-party advertising companies to serve ads on our Site, including without limitation on certain Kabam games and Kabam applications on social networking sites. Our system and the third-party advertising technology uses information derived from Activity Information, Kabam's cookies on your hard drive, your visits to and use of our Site, including without limitation the Kabam games that you view and the Kabam applications on social networking sites that you use, to target advertising within our Site. In addition, our advertisers may use other third-party advertising technology to target advertising on our Site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called "clear gifs" or "beacons") to help manage and optimize our online advertising. Beacons enable us to recognize a browser's cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site.
+We use third-party advertising companies to serve ads on our Site, including without limitation on certain Kabam games and Kabam applications on social networking sites. Our system and the third-party advertising technology uses information derived from Activity Information, Kabam’s cookies on your hard drive, your visits to and use of our Site, including without limitation the Kabam games that you view and the Kabam applications on social networking sites that you use, to target advertising within our Site. In addition, our advertisers may use other third-party advertising technology to target advertising on our Site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser’s cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site.
 
 Except as set forth herein, Kabam does not provide any personally identifiable information to third-party advertising companies. We may however disclose personally identifiable information as required by law, as otherwise set forth below, or if in our judgment it is necessary to protect our company or our users from loss or liability.
 
 Cookie Opt-Out
 
-We allow each user to opt out of our ad-serving cookies, so that no unique information or number is associated with the end user's computer browser. Blocking and/or opting out of cookies do not stop advertisements from being served to your computer; rather, it prevents data from being associated with the end user's browser. Please note that if you choose an opt-out cookie, we will be unable to recognize your browser from one visit to the next, and you may therefore receive the same ad multiple times.
+We allow each user to opt out of our ad-serving cookies, so that no unique information or number is associated with the end user’s computer browser. Blocking and/or opting out of cookies do not stop advertisements from being served to your computer; rather, it prevents data from being associated with the end user’s browser. Please note that if you choose an opt-out cookie, we will be unable to recognize your browser from one visit to the next, and you may therefore receive the same ad multiple times.
 
 [Click here for the ad-serving cookie opt-out](http://www.networkadvertising.org/managing/opt_out.asp)
 
@@ -111,7 +109,7 @@ We occasionally employ other companies to perform services necessary to our inte
 
 #### Purchase or Sale of Businesses
 
-Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), this may change in the future. We may share some or all of your personal nformation with these Affiliates, in which case we will request our Affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy. The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
+Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), this may change in the future. We may share some or all of your personal nformation with these Affiliates, in which case we will request our Affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy. The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
 
 #### Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others
 
@@ -127,7 +125,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 Kabam employs protected facilities, data encryption on your stored personally identifiable information, firewalls, intrusion detection, and many other security measures to protect your data. We have invested many capital and human resources into our infrastructure to secure the data of our users and will continue to make additional technology investments.
 
-If you have any questions about security on our Site, you can send an email us at support[at]kabam.com
+If you have any questions about security on our Site, you can send an email us at support[at]kabam.com
 
 #### Use Of Bulletin Boards
 
@@ -142,7 +140,7 @@ This Site is hosted in the United States. If you are visiting from the European 
 
 
 
-#### Our Commitment To Children's Privacy
+#### Our Commitment To Children’s Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If you are under 13, please do not attempt to register for the Site or send any information about yourself to Kabam, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Kabam or on the Site. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that Kabam might have any information from or about a child under 13, please contact us at privacy[at]kabam.com. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
@@ -154,7 +152,7 @@ You can access all your personally identifiable information that we collect onli
 
 _2) Kabam Applications on Kabam-Operated Websites_
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change online or by contacting us through the methods indicated in the "How To Contact Us" section.
+If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change online or by contacting us through the methods indicated in the “How To Contact Us” section.
 
 #### Privacy Policy Updates
 
