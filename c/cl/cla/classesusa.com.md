@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213161211id_/http%3A//classesusa.com/static/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628130932id_/http%3A//classesusa.com/static/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ We may share Information about you with other people or nonaffiliated companies 
 **OFFERING YOU CHOICES**   
 
 
-  * **Marketing Email Options** \- You may register to receive communications from us directly on our website or through a third party. Upon registering, we will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please [click here to unsubscribe](http://cusa.lmbusc.com/unsub/unsub.form?id=9d866267160f3a6e2b56ad4e72e8c78d). 
+  * **Marketing Email Options** \- You may register to receive communications from us directly on our website or through a third party. Upon registering, we will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please [click here to unsubscribe](http://www.optout-nrpx.net/o-nrpx-o35-14b270ce3e55b58efd5587b727a523e7). 
 
   * **Refusing Cookies** \- We utilize reputable third-party vendors to serve advertisements. If, however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see your specific browser's instructions to perform this task. 
 
