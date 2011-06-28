@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaspersky-labs.com privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209132738id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky-labs.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628060223id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.*
 
-# Kaspersky Lab: Antivirus software
+# Privacy
 
 ## Privacy policy
 
@@ -18,7 +18,7 @@ You can contact us directly at the address shown at the bottom of this page.
 
 ### What information we gather and track
 
-We at Kaspersky Labs respect your desire to protect personal information. This page tells you what sort of information we may ask you for, and in what situations.
+We at Kaspersky Lab respect your desire to protect personal information. This page tells you what sort of information we may ask you for, and in what situations.
 
 We request personal information when you place an order, register a product, request a service, answer a survey, enter a contest, correspond with us or engage in certain other activities on our website. For example:
 
@@ -42,25 +42,25 @@ We use personal information in the following ways:
 
 
 
-Kaspersky Labs retains the services of outside contractors to provide services for us. They may be used to distribute products, provide technical support, or handle order processing. Contractors must keep the personal information of customers secure and confidential, and use personal information only on behalf of Kaspersky Labs.
+Kaspersky Lab retains the services of outside contractors to provide services for us. They may be used to distribute products, provide technical support, or handle order processing. Contractors must keep the personal information of customers secure and confidential, and use personal information only on behalf of Kaspersky Lab.
 
 Please be advised that we may disclose your personal information if legally required to do so by government agencies or law enforcement bodies.
 
 ### Opt-out
 
-If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying to the unsubscribe in the subject line in the email.
+If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying and typing 'unsubscribe' in the subject line in the email.
 
 ### Security
 
 We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction. Credit card information is transmitted using secure socket layer (SSL) encryption.
 
-Kaspersky Labs is an international company, and we provide company information to our worldwide offices. The personal information that you have provided to us may be transferred to other Kasperksy Labs offices around the world. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information.
+Kaspersky Lab is an international company, and we provide company information to our worldwide offices. The personal information that you have provided to us may be transferred to other Kasperksy Lab offices around the world. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information.
 
 ### Cookies
 
-Kaspersky Labs may use cookies from time to time. A cookie is a unique text file that a Web site can send to your browser software. Cookies enable a Web site to tailor information presented to you based on your browsing preferences. Kaspersky Labs may use cookies, for instance, to remember you when you register for products or services. If you do not want Kaspersky Labs to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our web site.
+Kaspersky Lab may use cookies from time to time. A cookie is a unique text file that a Web site can send to your browser software. Cookies enable a Web site to tailor information presented to you based on your browsing preferences. Kaspersky Lab may use cookies, for instance, to remember you when you register for products or services. If you do not want Kaspersky Lab to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our web site.
 
-Kaspersky Labs may also use cookies to track your visit to our Web site. While our Web servers may automatically log your IP address, you are anonymous: this information does not identify you.
+Kaspersky Lab may also use cookies to track your visit to our Web site. While our Web servers may automatically log your IP address, you are anonymous: this information does not identify you.
 
 ### Statistical information
 
@@ -68,7 +68,7 @@ We may track domain names, IP addresses, and browser types from people who visit
 
 ### Privacy policy of other companies
 
-The Kaspersky Labs sites contain links to site of companies with whom we have a relationship. Kaspersky Labs is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
+The Kaspersky Labs sites contain links to site of companies with whom we have a relationship. Kaspersky Lab is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
 ### Non-confidential information
 
@@ -76,12 +76,4 @@ Please remember that information you submit in a news discussion or forum is pub
 
 ### Contact information
 
-If you have any questions or comments, please contact us:
-
-10, Geroev Panfilovtsev str,   
-Moscow 125363   
-Russian Federation
-
-Telephone: +7 (095) 797-8700
-
-Email: [support@kaspersky.com](mailto:support@kaspersky.com)
+This information can be found on our [Contact Information](http://www.kaspersky.com/contact) page. 
