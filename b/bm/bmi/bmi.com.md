@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222170652id_/http%3A//www.bmi.com/privacy%3Flink%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628180854id_/http%3A//www.bmi.com/privacy) for the most accurate reproduction.*
 
-# BMI.com | Privacy Policy
+# Privacy Policy | BMI.com
 
-Broadcast Music, Inc. collects license fees from businesses that use music, which it distributes as royalties to songwriters, composers & music publishers. 
+Broadcast Music, Inc., a global leader in rights management, collects license fees from businesses that use music, which it distributes as royalties to songwriters, composers & music publishers.
 
 ## Introduction
 
