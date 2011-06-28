@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the avast.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227004150id_/http%3A//www.avast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avast.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628021720id_/http%3A//www.avast.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# avast! Internet Security - Antivirus and Anti-spyware with Firewall
 
 AVAST Software a.s. (formerly ALWIL Software a.s.) is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide the services that you request, and this privacy statement explains how we collect and use your data in those situations. Please read the complete AVAST Software a.s. (formerly ALWIL Software a.s.) privacy statement.
-
-  
-
 
 ## Collection of your personal information
 
@@ -16,17 +13,13 @@ When you buy and install a new product, we may ask you to register your purchase
 ## We use your personal information for the following purposes:
 
   * to help us create and provide content that is relevant to you.
-  * to alert you about product upgrades, special offers, and other information and services available from AVAST Software a.s. (formerly ALWIL Software a.s.), in accordance with your requests.
+  * to alert you about product upgrades, special offers, and other information and services available from from AVAST Software a.s. (formerly ALWIL Software a.s.), in accordance with your requests.
 
-  
 
 
 ## Control of your personal information
 
 When you register, or otherwise give us personal information, AVAST Software a.s. (formerly ALWIL Software a.s.) will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
-
-  
-
 
 ## Contact Information
 
