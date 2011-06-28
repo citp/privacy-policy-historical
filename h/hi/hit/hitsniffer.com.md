@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hitsniffer.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003121558id_/http%3A//www.hitsniffer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsniffer.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628213547id_/http%3A//www.hitsniffer.com/privacy.php) for the most accurate reproduction.*
 
 # Real Time Website Tracking Privacy Policy
-
-**Warning** : mysql_select_db(): supplied argument is not a valid MySQL-Link resource in **/home/hitsniff/public_html/lib/start.php** on line **17**
 
 [](https://web.archive.org/register.php)
 
