@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windows7forums.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229223559id_/http%3A//windows7forums.com/articles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7forums.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628123019id_/http%3A//windows7forums.com/articles/privacy.html) for the most accurate reproduction.*
 
-# Windows 7 Forums - Privacy Policy
+# - Privacy Policy
 
 **Windows7Forums.com Values Your Privacy**
 
