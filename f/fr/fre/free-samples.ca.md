@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228160821id_/http%3A//www.webperspectives.ca/index.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628140039id_/http%3A//www.webperspectives.ca/index.php%3Fid%3D10) for the most accurate reproduction.*
 
 # Privacy Policy - Online surveys - Web Perspectives - Web Perspectives
 
-Research Now Inc. (a Canadian Company) (“Research Now”), is a wholly owned subsidiary of Research Now Ltd, company number 03975073, a company incorporated in the United Kingdom whose registered office is at 1st floor, Elizabeth House 39 York Road, London SE1 7NQ, United Kingdom ("Research Now"). Other related companies of Research Now include e-Rewards, Inc. (a US Company), e-Rewards Europe Limited (a UK company), Research Now, Inc. (a US Company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian Company), , Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek Company), Research Now GmbH (a German Company), Research Now PTE  LTD (a Singaporian Company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company) and Research Now SARL (a French Company) (together "Research Now") operate this website, www.webperspectives.ca.  This website privacy statement outlines how Research Now collects, uses, and discloses personal information through this website. 
+The Web Perspectives website is owned and operated by Research Now Limited, a UK company, ("Research Now"). e-Rewards, Inc. (a US company), e-Rewards Europe Limited (a UK company), Research Now, Inc. (a US company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian company), Research Now Inc. (a Canadian company), Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek company), Research Now GmbH (a German company), Research Now PTE  LTD (a Singaporian company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company) and Research Now SARL (a French company) together form the Research Now group. This Privacy Statement governs the website located at www.webperspectives.ca.  
 
 Research Now is a provider of Internet-based market research services to professional market research organizations and their clients. The objective of this research is to better understand respondents' opinions. We aggregate and de-identify such research before analyzing and sending the results to our clients.  The information gathered helps our clients develop and design products and services for consumers. In addition, certain survey findings might be published on our websites (in a non-identifiable form) so that our survey respondents can be among the first to hear about the concerns and interests of people around the world.  We are committed to maintaining the privacy of our online respondents and panel members. Our contact information appears below. 
 
@@ -24,9 +24,9 @@ Once you have successfully registered, you will receive an email confirmation to
 
 You also have the option to provide demographic information such as age, gender, address information, household income, working status and education to us.  This information will be used for the purposes of analyzing demographic information in the aggregate, and to identify the surveys that would be most relevant to your interests.  We will never ask for sensitive financial information or your social insurance number. 
 
-On behalf of our clients, we also use web browser-based cookie technology to determine which of our clients’ advertisements have been displayed to you on other websites for the purposes of developing a representative sample of panel participants.  We also use cookie technology for the purposes of ensuring the integrity of our survey data, and to enforce Research Now’s policies.  Depending upon your browser, you can often the disable cookie functionality, if you wish, though we highlight that certain features on our website may be unavailable to browsers that reject cookies.  If you wish to opt-out of the portion of our research services relating to your interaction with our clients’ advertisements on third party web sites, please e-mail our Panel Manager at [jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca)
+On behalf of our clients, we also use web browser-based cookie technology to determine which of our clients’ advertisements have been displayed to you on other websites for the purposes of developing a representative sample of panel participants.  We also use cookie technology for the purposes of ensuring the integrity of our survey data, and to enforce Research Now’s policies.  Depending upon your browser, you can often the disable cookie functionality, if you wish, though we highlight that certain features on our website may be unavailable to browsers that reject cookies.  If you wish to opt-out of the portion of our research services relating to your interaction with our clients’ advertisements on third party web sites, please e-mail us using the contact form available on the [Contact page](http://www.webperspectives.ca/eng/contact/contact-new/)
 
- **Surveys and Contests**
+**Surveys and Contests**
 
 Occasionally, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personal information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to provide this information. This typically includes contact information such as email address, and demographic information such as postal code, age, gender, household income etc., as well as questions seeking opinions and feedback that are specific to the subject matter of the survey.
 
@@ -48,13 +48,13 @@ We DO NOT give, sell, or otherwise transfer your personal information to third p
 
 You have the right to access, update, and correct inaccuracies in the personal information we have in our custody and control, subject to certain exceptions prescribed by law. 
 
-You may request access to your personal information by emailing our Research Manager at  [jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca), or by contacting us by postal mail at the contact information listed below.
+You may request access to your personal information by e-mail using the contact form available on the [Contact page](http://www.webperspectives.ca/eng/contact/contact-new/) or by contacting us by postal mail at the contact information listed below.
 
 If your personal information changes, you may update your information through our website by loging into your account by clicking on [the member login page.](http://www.webperspectives.ca/eng/member-login/)
 
  **5.     Opting-out of Receiving Future Survey Invitations**
 
-If you no longer wish to receive our survey invitations, you may opt-out by simply replying to an invitation with "Unsubscribe" in the subject line. You may also opt-out by emailing our Research Manager at [ jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca) with "Unsubscribe" in the subject line, or by contacting us by postal mail at the contact information listed below.
+If you no longer wish to receive our survey invitations, you may opt-out by simply replying to an invitation with "Unsubscribe" in the subject line. You may also opt-out by e-mail using the Contact form available on the [Contact page](http://www.webperspectives.ca/eng/contact/contact-new/), or by contacting us by postal mail at the contact information listed below.
 
  **6.     Security and Retention of Personal Information**
 
@@ -76,7 +76,7 @@ We use a technology called “cookies” on our website.  Cookies are widely us
 
 We do not link the information we store in cookies to any personal information that you submit while visiting our site.
 
-If you have any questions about security on our Web site, please email us at  [jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca).
+If you have any questions about security on our Web site, please email us using the contact form available on the [Contact page](http://www.webperspectives.ca/eng/contact/contact-new/)
 
  **9.     Contact Information**
 
@@ -86,8 +86,6 @@ Jennifer White, Research Manager
 Web Perspectives / Research Now  
 3080 Yonge Street, Suite 2000  
 Toronto, Ontario  
-M4N 3N1
-
-If you have questions or concerns regarding this statement, you should first contact our Research Manager, Jennifer White at [ jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca), or 1-800-599-7938 (ext 499). 
+M4N 3N1 
 
 **For more about BBB please[click here](https://www.bbb.org/online/consumer/cks.aspx?ID=1081202142727).**
