@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsnetwork.com privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202051943id_/http%3A//www.sportsnetwork.com/default.asp%3Fc%3Dsportsnetwork%26page%3Dpolicies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsnetwork.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629004016id_/http%3A//www.sportsnetwork.com/merge/tsnform.aspx%3Fc%3Dsportsnetwork%26page%3Dpolicies/privacy.htm) for the most accurate reproduction.*
 
-# The Sports Network - News
+# The Sports Network - Policies
 
 **SportsNetwork.com Privacy Policy**
 
@@ -10,7 +10,7 @@ At SportsNetwork.com, we are committed to bring you information tailored to your
 
 SportsNetwork.com does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals. When you enter a contest or other promotional feature, we may request your name, street, and e-mail address to aid in our administration of the contest and to assist in contacting the winners. 
 
-SportsNetwork.com utilizes specialized "Server Software" to automatically collect information about which pages each user visits as well as the user’s Internet Service Provider (e.g., aol.com). This information is used for internal review, to tailor information to individual visitors and for traffic audits. 
+SportsNetwork.com utilizes specialized "Server Software" to automatically collect information about which pages each user visits as well as the user?s Internet Service Provider (e.g., aol.com). This information is used for internal review, to tailor information to individual visitors and for traffic audits. 
 
 Under no circumstances will we give specific, identifiable information about our users to outside third parties. However, we will, from time to time, provide advertisers or potential advertisers with aggregated, anonymous information about our users. In addition, any personally identifiable information provided by subscribers as part of an advertiser promotion within SportsNetwork.com may be provided to such advertisers as needed for the reasonable administration of the promotion. 
 
