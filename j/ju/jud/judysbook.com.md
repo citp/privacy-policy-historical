@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221103042id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628055654id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
 
 # Terms of Use & Privacy - Judy's Book
 
@@ -128,7 +128,13 @@ Our web site contains links to other web sites. Any personal information you pro
 
 **Your Comments or Concerns  
 **   
-We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at [info@judysbookteam.com](mailto:info@judysbookteam.com). 
+We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at:
+
+E-Mail: [info@judysbookteam.com](mailto:info@judysbookteam.com)
+
+Postal Mail:  
+PO Box 433  
+Redmond, WA 98073-0433
 
 **Data Changes  
 **   
