@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231072456id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629112248id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
 
 # ChatDD.Com - Privacy Policy
 
@@ -41,8 +41,28 @@ In the course of serving advertisements, our third-party advertiser may place or
 **Disclaimer:**   
 We do not take any responsibility for any error or omission by Chatdd.com or Third Parties. We don't request or save any personal information including and similar to your name, address, telephone number and e-mail address. We are not responsible for any damage caused by anyone using our tools or directly by our tools. 
 
-****
-**[   
+  
+
+
+## Latest Threads from ChatDD Forums:
+
+  * [Bollywood Shocker: I can'...](http://forum.chatdd.com/hollywood-bollywood-lollywood-music/84269-shocker-i-can-t-shoot-pregnant-aishwarya.html)
+  * [Aisa Kabhi nahi hota by U...](http://forum.chatdd.com/urdu-stuff/84268-aisa-kabhi-nahi-hota-umera-ahmed.html)
+  * [~~Khamoshi ka boycott~~](http://forum.chatdd.com/freedom-speech/84267-khamoshi-ka-boycott.html)
+  * [Tabdeelli........](http://forum.chatdd.com/freedom-speech/84266-tabdeelli.html)
+  * [Love Loving Question](http://forum.chatdd.com/love-friendship/84265-loving-question.html)
+  * [Bemariyoon ka Almi champi...](http://forum.chatdd.com/religions/84264-bemariyoon-ka-almi-champina-mirza-qadyani.html)
+  * [DEDICATED 2 NAdi](http://forum.chatdd.com/photo-gallery-wallpapers-world/84262-dedicated-2-nadi.html)
+  * [Ghum-e-Furqat Main Hum Ja...](http://forum.chatdd.com/famous-urdu-poetry/84261-ghum-e-furqat-main-hum-jalte-hai-aur-pehlo-badalte-hai.html)
+  * [Aaj Phir Ussi dard Ne Ghe...](http://forum.chatdd.com/famous-urdu-poetry/84260-aaj-phir-ussi-dard-ne-gher-liya-mujhe.html)
+  * [Dard-e-Dil Dard](http://forum.chatdd.com/famous-urdu-poetry/84259-dard-e-dil-dard.html)
+  * [Tere Aane Se Pehle Tere J...](http://forum.chatdd.com/famous-urdu-poetry/84258-tere-aane-se-pehle-tere-jaane-ke-baad.html)
+  * [Muhabbat](http://forum.chatdd.com/famous-urdu-poetry/84257-muhabbat.html)
+  * [Murgh Tikka Qandhari](http://forum.chatdd.com/cooking-recipes/84256-murgh-tikka-qandhari.html)
+  * [Italian spaghetti](http://forum.chatdd.com/cooking-recipes/84255-italian-spaghetti.html)
+  * [Chiken Malaai Tikka](http://forum.chatdd.com/cooking-recipes/84254-chiken-malaai-tikka.html)
+
+[   
 **Play Online Games!**](http://www.countgames.com/)
 
 **More Resources  
@@ -50,6 +70,4 @@ We do not take any responsibility for any error or omission by Chatdd.com or Thi
 
 
   
-**
-
 **
