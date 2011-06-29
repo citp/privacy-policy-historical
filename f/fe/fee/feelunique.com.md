@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feelunique.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230003245id_/http%3A//www.feelunique.com/content/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feelunique.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629024608id_/http%3A//www.feelunique.com/content/security) for the most accurate reproduction.*
 
 # Website security - feelunique.com
 
@@ -12,6 +12,14 @@ feelunique.com is a Comodo Secure Site. To ensure that this is a legitimate Como
 We promise to meet internationally recognised standards for protecting privacy by fully complying with the requirements of [Jersey's Data Protection](http://www.dataprotection.gov.je/) Laws.This site's web server uses cookies only for collecting general user statistical information for internet system administration and general user statistical information for internet system administration purposes.
 
 This Privacy Policy Statement is only applicable to the site and does not extend to any other internally or externally linked website which should have it's own Privacy Policy Statement.
+
+## Cookies
+
+We use cookies to track visitors' interest in our products. We may use this to understand what most appeals to our customers so we can make our offers as appropriate as possible. Browsing behaviour is also used to create relevant banner advertising with product recommendations that we believe best relate to the items you viewed on our website. These banners are then served across other websites that you may visit, typically news sites, video sites and blogs. This process is called behavioural advertising and although the adverts are individually tailored to each visitor, all cookie data is anonymised and stored temporarily. Additionally, all banners of this type feature an "i" icon that provides more information from each advertising network and instructions on how to opt out.
+
+Cookies are not computer programs, and can't read other information saved on your hard drive. They cannot be used to disseminate viruses, or get a user's email address etc. They only contain and transfer to the website as much information as the users themselves have disclosed to that website. It is possible to opt out of cookies via your browser's cookie settings, but if you do this you will not be able to shop from the feelunique.com website as the functions of the website are dependent on cookies.
+
+For further information about managing and disabling cookies on your computer see [www.allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies).
 
 ## Your Personal Security
 
