@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225100120id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629132454id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -8,9 +8,9 @@ Partners
 
 Testimonials
 
-**Andrew Maclean:** "I am really quite impressed with the software. You and your people are doing a wonderful job. I actually have spent a while researching PostgreSQL admin/code generators and yours seems to fit our needs nicely. Your interface is beautiful".
+**David Boccabella:** "I have really!!!! enjoyed using SQL Maestro for MySQL over the past few months. It has become one of our major development tools for implementing intelligent into MySQL databases".
 
-**Simon Pills:** "Someone finally invented an intuitively used and easily customized PostgreSQL database administration tool! Keep up the good work. I will be in touch. I am able to do this horrendous work because your software enabled me to create a new database with all necessary objects in several minutes! I am sure that I have found what I really need".
+**Marco De Luca:** "I can handle now both version of SQLite Databases, 2.x and 3.x. Your SQLite PHP Generator is among the best tools I have seen".
 
 [More](http://sqlmaestro.com/products/testimonials/)
 
@@ -71,34 +71,26 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 | 
 
-#### [Christmas Sale](http://sqlmaestro.com/purchase/)
-
-|  [](http://sqlmaestro.com/purchase/)|  SQL Maestro  
-Group team wishes you **Merry Christmas!**  
----|---  
-  
-We're happy to grant you a [**25% discount**](http://sqlmaestro.com/purchase/) for all our products and bundles till **December  31!**
-
 Company news[](http://sqlmaestro.com/rss.xml)
 
-Dec 1, 2010
+Jun 7, 2011
 
-Support for a number of PostgreSQL 9.0 new features, DML stored procedure generator, database connection checker and a lot of other useful things.
+New version features tools to generate CRUD stored procedures and updatable views, data import from ODBC data sources, updated Data Analysis tool, and other useful things.
 
-Nov 22, 2010
+May 24, 2011
 
-Support for SQL Server 11 (Denali), DML stored procedure generator, insert-or-update data import mode, updated Data Analysis tool, and other improvements.
+The article shows how to implement an AJAX-based one-click editor for a logical column.
 
-Nov 16, 2010
+May 16, 2011
 
-The article covers how to provide a new application created by PHP Generator with look and feel of an existing website.
+Completely redesigned Data Export and Data Import wizards, improved database profile management, updated OLAP viewer and a lot of other improvements.
 
 Feature of the day
 
-[](http://sqlmaestro.com/products/mssql/codefactory/screenshots/getting_started/sql_script_editor/)
+[](http://sqlmaestro.com/products/sql_anywhere/maestro/help/06_01_02_sql_script_editor_codefolding/)
 
-MS SQL Code Factory provides syntax highlighting to prevent mistakes in syntax at once.
+All editors of ASA Maestro provide a customizable ability to divide text into logical parts (regions). Each part can be collapsed and extended.
 
-[](http://sqlmaestro.com/products/sqlite/codefactory/screenshots/getting_started/blob_viewer/)
+[](http://sqlmaestro.com/products/firebird/codefactory/screenshots/getting_started/data_export/)
 
-Using SQLite Code Factory you can view or edit BLOB data in the following ways: hexadecimal dump, plain text, graphical image or HTML page. 
+With Firebird Code Factory you can also export result sets to as many as 14 file formats including Excel, RTF and HTML.
