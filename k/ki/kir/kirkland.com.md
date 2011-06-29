@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206044853id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629101358id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
 
 # Kirkland & Ellis LLP > Privacy Policy
 
@@ -8,7 +8,7 @@ Kirkland & Ellis LLP (“Kirkland”) provides this Privacy Policy to inform use
 
 **How we use your information**
 
-Kirkland & Ellis LLP (the "Firm" or "we") uses information you provide to better understand your needs and provide you with better service.  Kirkland & Ellis may collect information from you relating to your application for employment at Kirkland & Ellis, our Diversity Fellowship, your attendance at a Firm event or the Kirkland & Ellis LLP Alumni Network. With the exception of vendors providing hosting, database management and development services related to the operation of these websites, we will not disclose, sell or rent any of your identifiable personal information to any third party unless approved by you or required by law.
+Kirkland & Ellis LLP (the "Firm" or "we") uses information you provide to better understand your needs and provide you with better service. Kirkland & Ellis may collect information from you relating to your application for employment at Kirkland & Ellis, our Diversity Fellowship, your attendance at a Firm event or the Kirkland & Ellis LLP Alumni Network. With the exception of vendors providing hosting, database management and development services related to the operation of these websites, we will not disclose, sell or rent any of your identifiable personal information to any third party unless approved by you or required by law.
 
 **Changing or Deleting Information**
 
@@ -16,7 +16,7 @@ Members of the Kirkland & Ellis LLP Alumni Network may change or delete the info
 
 **Cookies**
 
-use cookies to track user preferences. A cookie is a small data file that certain websites write to your hard drive when you visit them. If you prefer not to receive cookies through our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any pages within our website.
+We use cookies to track user preferences. A cookie is a small data file that certain websites write to your hard drive when you visit them. If you prefer not to receive cookies through our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any pages within our website.
 
 **Choice**
 
@@ -24,9 +24,9 @@ We will not use or share the personally identifiable information provided to us 
 
 **Our commitment to data security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, the Firm uses commercially appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, the Firm uses commercially appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-Unfortunately, the transmission of information via the internet is not completely secure. However we have put in place various security procedures as set out in this policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+Unfortunately, the transmission of information via the internet is not completely secure. However, we have put in place various security procedures as set out in this policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
 **Our commitment to children's privacy**
 
