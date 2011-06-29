@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the 123bingoonline.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212055238id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123bingoonline.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629133221id_/http%3A//www.123bingoonline.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.123bingoonline.com/ncg/treasure-island-casino.php)
+
+[](http://www.123bingoonline.com/invite-friends.php)
+
+tammygobucs 123 has the best of the best chat hosts and we have awesmoe roomies this is a fun place to play lots of action all the time we are all a happy family here and... 
+
+[](http://www.123bingoonline.com/bingo-testimonials.php)
+
+[](http://www.123bingoonline.com/bingo/bingo-chat-games.php)
+
+| 
+
+  
+
 
   
 
@@ -42,3 +57,5 @@ Finally, the servers that we store personally identifiable information on are ke
 ## Offers
 
 We send all new accounts a welcome mail in order to verify information such as passwords and user name. Users who are already active members will receive from time to time emails in the shape of promotions, services, newsletters and any other personal and private notice(s). Since we strictly adhere to privacy policies, 123Bingoonline presents users the option to not receive these type of notices.
+
+| 
