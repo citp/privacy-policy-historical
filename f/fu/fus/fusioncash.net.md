@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusioncash.net privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214160147id_/http%3A//www.fusioncash.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusioncash.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630004419id_/http%3A//www.fusioncash.net/privacy.php) for the most accurate reproduction.*
 
 # FusionCash
 
@@ -17,7 +17,7 @@ For each visitor to our website, our web server automatically logs information r
 This site uses cookies. ([What's a cookie?](http://www.netlingo.com/right.cfm?term=cookies))  
 In order to fully utilize this website, users are required to complete our registration form. 
 
-During registration a user must give certain contact information, but we never sell or give away this information. It is gathered only to contact the user about services on our site for which he or she has expressed interest. 
+During registration a user must give certain contact information, but we never sell or give away this information, except in the case that you select "Yes" to opt-in to an offer displayed on our site. It is gathered only to contact the user about services on our site for which he or she has expressed interest and shared only with your consent. 
 
 Registration is not required to access this site; however, most features require registration. 
 
@@ -27,6 +27,11 @@ When completing some offers, some or all of your contact information may be "pre
 
 If you "opt-in" to an advertiser offer that has a "Yes/No" radio button next to it, FusionCash automatically transmits one or more of: email address, name, street address, and/or demographic information to the advertiser(s) you selected. 
 
+Pursuant to California Civil Code Section 1798.83, members who are California residents can request certain information about our transmittal of personal information to third parties. If you would like to make an information request and you are a California resident, please send an email to [support@fusioncash.net](mailto:support@fusioncash.net) or write to us:  
+    FUSIONCASH, INC.  
+    PO BOX 1081  
+    SANTA CRUZ, CA 95061-1081
+
 FusionCash sends three types of emails: 
 
   * email confirmation requests (when you sign up initially or change your email address or password)
@@ -35,9 +40,9 @@ FusionCash sends three types of emails:
 
 
 
-You may [unsubscribe from newsletters](https://web.archive.org/web/20101214160147id_/http%3A//www.fusioncash.net/newsletter.php?unsub) at any time. Once unsubscribed, you will no longer receive the newsletter. 
+You may [unsubscribe from newsletters](https://web.archive.org/web/20110630004419id_/http%3A//www.fusioncash.net/newsletter.php?unsub) at any time. Once unsubscribed, you will no longer receive the newsletter. 
 
-For security reasons, we do not allow users to unsubscribe from account confirmation or completion notification emails. If you do not wish to receive those emails, simply cease logging in, as they are sent only when triggered by user actions. You are also permitted to [deactivate your account](https://web.archive.org/web/20101214160147id_/http%3A//www.fusioncash.net/tickets.php?deactivate), which will prevent you from receiving notification emails.
+For security reasons, we do not allow users to unsubscribe from account confirmation or completion notification emails. If you do not wish to receive those emails, simply cease logging in, as they are sent only when triggered by user actions. You are also permitted to [deactivate your account](https://web.archive.org/web/20110630004419id_/http%3A//www.fusioncash.net/tickets.php?deactivate), which will prevent you from receiving notification emails.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement. 
 
