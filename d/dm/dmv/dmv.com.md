@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dmv.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214121303id_/http%3A//www.dmv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmv.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629144236id_/http%3A//www.dmv.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MVC | NJ
+# Privacy Policy
 
 DMV.com values your right to privacy. This policy is effective as of December 9th, 2008 and governs the collection of personal information from [http://www.dmv.com](http://www.dmv.com/) and all its subdomains as of this date. DMV.com IS A PRIVATELY OWNED WEBSITE THAT IS NOT AFFILIATED WITH ANY UNITED STATES OF AMERICA FEDERAL, STATE OR OTHER GOVERNMENT AGENCY OR DEPARTMENT. As such, we do not have access too, collect or attempt to identify you from any information you may have logged at any government agency or department.
 
