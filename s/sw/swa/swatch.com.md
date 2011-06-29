@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swatch.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215193407id_/http%3A//www.swatch.com/zz_en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swatch.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629034743id_/http%3A//www.swatch.com/zz_en/privacy.html) for the most accurate reproduction.*
 
 # Official Swatch Website
 
