@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205062502id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629170122id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
 
 # ACDSee Photo Software
 
@@ -56,10 +56,16 @@ At any time you may review, alter or remove any personal information, including 
 
 ACD Systems.  
 Privacy/Customer Service  
-200 - 1312 Blanshard Street  
-Victoria,  
-British Columbia, V8W 2J1  
-Canada 
+701 Fifth Avenue  
+42nd Floor  
+Seattle, Washington  
+98104-5119  
+United States of America  
+Fax: 1.866.544.0291
+
+200-1312 Blanshard Street   
+Victoria, BC, Canada   
+V8W 2J1 
 
 If you have any questions or concerns regarding our online privacy policy or should you wish to withdraw your consent, contact us by e-mail at [privacy@acdsystems.com](mailto:privacy@acdsystems.com)
 
