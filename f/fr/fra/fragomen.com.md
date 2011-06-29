@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605075152id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPoilcy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630000133id_/http%3A//www.fragomen.com/xprGeneralContentFrag.aspx%3FxpST%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# Fragomen |
+# Fragomen global corporate immigration law | Fragomen RSS Registration
 
 Effective June 4, 2010
 
@@ -66,7 +66,7 @@ This Online Privacy Notice may be updated periodically to reflect new site featu
 How to Contact Us  
 
 
-If you have any questions or comments about this Online Privacy Notice, please contact us by email at [informationprotection@fragomen.com](javascript:SendMail\('informationprotection','fragomen.com'\);). You also may write to us at:  
+If you have any questions or comments about this Online Privacy Notice, please contact us by email at . You also may write to us at:  
 
 
         Attn: Assistant General Counsel  
