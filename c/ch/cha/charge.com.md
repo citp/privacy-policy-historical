@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charge.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322202111id_/http%3A//www.charge.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charge.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629021321id_/http%3A//www.charge.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Credit Card Processing, Merchant Accounts, Accept Credit Cards
 
@@ -15,7 +15,7 @@ Suite 182
 Plantation, Florida 33324
 
 We can be reached via e-mail at   
-or you can reach us by telephone at 888-982-4274
+or you can reach us by telephone at 888-924-2743
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address.
 
