@@ -1,45 +1,161 @@
-> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2009-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090108014322id_/http%3A//www.bebo.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629055720id_/http%3A//www.bebo.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.bebo.com&sealid=101)
+**Bebo Privacy Policy**
 
-Our Commitment to You
+**Our Commitment to You**
 
-Welcome to Bebo, a social media network where friends share their lives and explore great entertainment. The Bebo service is operated by Bebo, Inc. (’Bebo‘), and consists of the Bebo Web sites and other features and services offered by Bebo and its corporate affiliates in connection with the sites, such as e-mail and instant messaging (collectively the ’Bebo Service‘). 
+Welcome to Bebo, a social media network where friends share their lives and explore great entertainment. The Bebo service is operated by Bebo, Inc. ("Bebo"), and consists of the Bebo Web sites and other features and services offered by Bebo and its corporate affiliates in connection with the sites, such as e-mail and instant messaging (collectively the "Bebo Service").
 
-Bebo and its employees take your privacy very seriously. To make it easier for you to read and understand our privacy policy, we’ve written it in plain language and tried to keep it to a reasonably short length. 
+Bebo and its employees take your privacy very seriously. To make it easier for you to read and understand our privacy policy, we"ve written it in plain language and tried to keep it to a reasonably short length.
 
-The key points of our privacy policy are: 
+The key points of our privacy policy are:
 
-  * We give you choices about the personally identifiable information you share with Bebo and other Bebo users.
-  * You can end your membership at any time.
-  * We only disclose information from which you may be personally identifiable to selected third parties in accordance with this privacy policy.
-  * Bebo does not spam.
-  * By participating in the Bebo community, you agree to this privacy policy.
+â     We give you choices about the personally identifiable information you share with Bebo and other Bebo users.
 
+â     You can end your membership at any time.
 
+â     We only disclose information from which you may be personally identifiable to selected third parties in accordance with this privacy policy.
 
-Information Collected On the Bebo Service
+â     Bebo does not send unsolicited bulk messages indiscriminately, or 'spam'.
+
+â     By participating in the Bebo community, you agree to be bound by this privacy policy.
+
+â      
+
+**Information Collected On the Bebo Service**
 
 We collect the following types of information about you when you use the Bebo Service:
 
-  * Information provided by you. We collect personally identifiable information, such as your name and email address, when you register to become a Bebo member. This information is needed to set up your personal profile. As part of your personal profile, you may choose to submit or incorporate additional information, such as your age, your hobbies and interests, as well as other content, such as photos, music and videos.
-  * Information collected automatically. Bebo receives and stores information which is transmitted automatically from your computer when you use the Bebo Service. This information includes information from cookies (which are described below), your IP address and browser type. Your IP address is the unique address of your computer which is automatically provided to other computers when your web browser or email application requests a web page or email from those computers on the Internet. We also collect information about how you use the Bebo Service, including information about the features you use and where you go on the Service.
-  * Information about you as a Bebo member may be supplemented with additional information, including publicly-available information and information from other companies.
+â     Information provided by you. We collect personally identifiable information, such as your name and email address, when you register to become a Bebo member. As part of your personal profile, you may choose to submit or incorporate additional information, such as your age, your hobbies and interests, as well as other content, such as photos, music and videos.
 
+â     Information collected automatically. Bebo receives and stores information which is transmitted automatically from your computer when you use the Bebo Service. This information includes information from cookies (which are described below), your IP address and browser type. Your IP address is the unique address of your computer which is automatically provided to other computers when your web browser or email application requests a web page or email from those computers on the Internet. We also collect information about how you use the Bebo Service, including information about the features you use and where you go on the Service.
 
+â     Information about you as a Bebo member may be supplemented with additional information, including publicly-available information and information from other companies.
 
-Use and Disclosure of Information
+â      
 
-We use this information in order to operate the Bebo Service and improve your experience:
+**Use and Disclosure of Information**
 
-  * We will display your personally identifiable information on your profile according to the preferences you set. We will use your name so that you are recognisable on our database and so that we can personalize your experience. We will use your email address to contact you from time to time and may also use it for security reasons to confirm that you are who you say you are. You can control the types and frequencies of certain emails you receive in your email preferences.
-  * We may use the information collected automatically, such as your IP address, information stored via cookies, and information about how you use the Bebo Service to develop statistics and aggregate information about the number of people who visit the Bebo Service and to customise Bebo’s content, layout and services. We may share this information with third parties to help us improve the Bebo Service and better serve our users.
-  * Advertisements that appear on the Bebo Service are delivered to you by Bebo’s advertising affiliates, partners and service providers. Bebo may transfer information about you and your use of Bebo, such as your IP address, information stored via cookies, and other demographic information about you, to our advertising affiliates (such as Advertising.com), partners (including Yahoo! and its affiliates) and other third parties. This information may be used to provide advertising, promotions and other products and services that may be of particular interest to you. It may also be used to provide you with a tailored choice of content and media products. Please refer to the Cookies section below to find out about the choices that Bebo offers in connection with advertising targeting.
-  * Our advertising and promotions partners have no access to your name or personal contact information stored by Bebo unless you choose to share it with them. Bebo does not provide your name or personal contact information to an advertising partner when you interact with or view a targeted advertisement.
-  * We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our services to you. Such third party entities will be obligated to use your personally identifiable information solely to provide the services to us.
-  * Personally identifiable information about you as a Bebo user, including the contents of your online communications, may be accessed or disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which Bebo believes the Bebo service is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect the rights or property of Bebo and its affiliates, or for us to render the service you have requested.
-  * Personally identifiable information collected in connection with your use of the Bebo Service may be stored in the United States, or other countries where Bebo or its parent, affiliates, subsidiaries or service providers maintain facilities. Bebo adheres to the 
+We use this information in order to operate the Bebo Service and improve your and other users" experience:
 
+â     We will display your personally identifiable information on your profile according to the preferences you set. We will use your name so that you are recognisable on our database and so that we can personalize your experience. We will use your email address to contact you from time to time and may also use it for security reasons to confirm that you are who you say you are.  
 
+â     We may use the information collected automatically, such as your IP address, information stored via cookies, and information about how you use the Bebo Service to develop statistics and aggregate information about the number of people who visit the Bebo Service and to customise Bebo"s content, layout and services. We may share this information with third parties to help us improve the Bebo Service and better serve our users.  We may use your information in these ways both before and after your membership has ended.
+
+â     Advertisements that appear on the Bebo Service are delivered to you by advertising affiliates, partners and service providers. Bebo may transfer information about you and your use of Bebo, such as your name, personal contact information, IP address, information stored via cookies, and other demographic information about you, to advertising affiliates (such as Advertising.com), partners (including Yahoo! and its affiliates) and other third parties. This information may be used to provide advertising, promotions and other products and services that may be of particular interest to you. It may also be used to provide you with a tailored choice of content and media products.
+
+â      
+
+â     We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing services to you. 
+
+â     Personally identifiable information about you as a Bebo user, including the contents of your online communications, may be accessed or disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which Bebo believes the Bebo service is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect the rights or property of Bebo and its affiliates, or for us to render the service you have requested.
+
+â     Personally identifiable information collected in connection with your use of the Bebo Service may be transferred to, or stored in the United States, or other countries where Bebo or its parent, affiliates, subsidiaries or service providers maintain facilities. Bebo adheres to the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data transferred from the European Union. By using the Bebo Service, you expressly agree to the transfer to the United States and elsewhere of your personally identifiable information. By publicly posting information on the Bebo Service, you also certify that your posting conforms with all local data protection laws.
+
+â     We reserve the right to transfer your personally identifiable information in the event of a transfer of ownership of Bebo or its affiliates, such as acquisition by or merger with another company.
+
+â      
+
+**Tell-A-Friend**
+
+If you choose to use our referral service to tell a friend about Bebo, we will ask you for your friend's name and email address. We may send your friend  email inviting him or her to visit Bebo. Bebo stores and only uses this information for the sole purpose of sending this email, tracking the success of our referral program, and identifying and linking existing friends who are existing or prospective Bebo users.
+
+Your friend may submit a request that we remove this information from our database via the [Contact Us](http://www.bebo.com/ContactUs.jsp) page; remove requests of this nature will normally be completed within 30 days.
+
+**Collection of Information On Other Sites**
+
+This privacy statement applies only to information collected by Bebo.
+
+Bebo contains links to other sites and services that are not owned or controlled by Bebo, including Bebo affiliates (e.g. AIM). Please be aware that these sites have their own privacy policies, and that Bebo is not responsible for their privacy practices. We therefore encourage you to read the privacy statements of each and every site that collects personally identifiable information.
+
+"Masking" is a function of using programming techniques such that the displayed URL does not match the actual pages being viewed (e.g. user is on www.xyz.com, but the URL displayed is www.abc.com). In certain circumstances, Bebo may use Masking and, although it will appear that you are still on Bebo, you may be on a different site. For example, when you create a widget or when you upload a video, you may be transferred to a third party"s site and in that situation the privacy policy of the applicable third party site applies.
+
+**Testimonials**
+
+We post customer testimonials on Bebo which may contain personally identifiable information such as your name. We may seek your prior consent to post your name along with your testimonial, but by providing a testimonial you should assume your consent is implied.
+
+**Cookies**
+
+â     Cookies are a common Internet technology. Many web sites use cookies to obtain information about their users. Cookies are files that are written or downloaded to your computer"s hard drive when you access a site. They allow Bebo to store and quickly retrieve login information on your computer and provide data that we can use. Most Internet browsers (such as Internet Explorer and Safari) are initially set up to accept cookies. If you prefer, you can set your browser to refuse cookies, although you may not be able to take full advantage of Bebo if you do so. You may be able to disable cookies by going to Tools on your top menu bar. This will bring up the "Internet Options" dialogue box. On the top of the dialogue box, click on "Privacy". This will bring up the "Settings" box. Scroll up using the slide bar on the left-hand side of the box, until the wording in the box states 'Block All Cookies'. Then click on the "OK" button on the bottom of the menu box.
+
+â     Bebo may link information stored in cookies such as your age, gender and country with your personally identifiable information and we may use such information to, among other things, gather statistics about the number of people who visit Bebo and to customize Bebo"s content, layout and services for delivery to you.
+
+â     Bebo and its advertisers may set and access cookies or use other technologies such as web beacons (which are electronic files that allow a web site to count users who have visited that page or to access certain cookies) in order to present advertisements on Bebo. Bebo and advertisers may also use third party ad networks to help present and manage advertisements. These ad networks use cookies, web beacons, or other technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. Bebo may share certain personally identifiable information about you (such as user age and zip code) with ad network providers, to help them deliver more relevant advertisements through their ad networks. Please visit the [Network Advertising Initiative](http://www.networkadvertising.org/index.asp) website for additional information about opting out of targeted advertising delivered by NAI member ad networks. Advertisers" and ad networks" uses of cookies, web beacons or similar technologies are subject to their own privacy policies.
+
+â     Bebo may from time to time send SMS messages to you. By completing or submitting a registration form or partial registration which includes your SMS number you are consenting to receive SMS, wireless or other mobile offering to your cell phone. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information, and normally within 10 days of receiving such request.
+
+â      
+
+â    Bebo may use the personal information that you supply to us and work with other third party businesses to bring selected retail opportunities to our members via direct mail, email, telemarketing, and SMS/Mobile/Short Message service.
+
+â     
+
+**You can limit who sees your profile information on Bebo**
+
+â     Your profile information on the Bebo Service will be shared with people you share such information with, and to other members of groups (such as universities) you choose to belong to. You can limit access to certain personal information, such as email addresses and phone numbers. Please bear in mind that if you choose to share your personal information (including any comments, videos, photos or any other information) with other people via Bebo, you do so at your own risk. Bebo recommends that you don't share your personal contact information.
+
+â     You can choose to make your profile visible to non-members of Bebo by editing your profile and opting in to accessible profile.
+
+â     For users identifying themselves as being under the age of 18, the default setting for profiles is private.
+
+â      
+
+**Sharing Information with Applications Providers**
+
+Bebo allows you to share your profile or other Bebo information with applications providers that may or may not be under Bebo"s control.
+
+â     These applications providers have their own privacy policies and terms for how they use the information you"ve chosen to share with them.
+
+â     While Bebo has Policies and Guidelines for these providers, we don"tcontrol how they may use your information, and so you should review these application providers" policies carefully.
+
+â      
+
+**Reviewing, deleting and changing your Profile**
+
+You can review, delete, correct and revise your privacy settings and personal profile, including who has access to your personal profile in your account at any time or contact us for assistance via the [Contact Us](http://www.bebo.com/ContactUs.jsp) page; requests of this nature will normally be completed within 30 days.
+
+**Internet awareness**
+
+Whenever you voluntarily post personal information in public areas, like journals, weblogs, message boards and forums, this information can be accessed by the public and can in turn be used by others in unpredictable ways. Bebo recommends that you exercise discretion in deciding what information you disclose on the Internet or otherwise.
+
+**Children**
+
+â     Children under the age of 13 are not eligible to use Bebo and must not attempt to register with Bebo and/or submit any personal information to us. Bebo does not knowingly collect personal information from any person who is under the age of 13 or allow them to register. If it comes to our attention that we have collected personal data from a person under the age of 13, we will endeavor to delete this information as quickly as possible. If you have reason to believe someone under the age of 13 is using Bebo, please contact us via the [Contact Us](http://www.bebo.com/ContactUs.jsp) page and we will look into the matter and, where appropriate, attempt to delete corresponding information that is in our databases.
+
+â     We recommend that Users between the ages of 13 and 18 should not send any information about themselves to anyone over the Internet without asking their parents or legal guardians for permission beforehand.
+
+**Security and confidentiality**
+
+â     Bebo uses a variety of safeguards to help protect your personal information, including technical, administrative and physical controls. Please bear in mind though, that it is impossible for Bebo to guarantee that impenetrable security measures are in place. For example, lapses in these safeguards may occur, and we also cannot control any illegal and/or unforeseen activity of other users that may allow them to get around the privacy or security settings on Bebo. Consequently, you acknowledge that there are circumstances in which your personal information may be accessed by unauthorised persons.
+
+â     The security of your personal information depends in part on your protection of your account password. Please do not disclose your account password to unauthorized people.
+
+â     Access to your personal information is given to our employees in order to do their jobs in connection with the Bebo service.
+
+â     If you become aware of any breach of data security or have any other questions about the security of our website, please contact us via the [Contact Us](http://www.bebo.com/ContactUs.jsp) page.
+
+**Changes in Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes to ourhome page, and other places we deem appropriate so that you may become aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we may endeavor to notify you by email or otherwise.
+
+IF ANY MODIFICATION IS UNACCEPTABLE TO YOU, YOU SHALL STOP USING THE BEBO SERVICE. YOUR CONTINUED USE OF THE BEBO SERVICE FOLLOWING OUR POSTING OF A CHANGE NOTICE OR ON OUR WEBSITE OR BLOG OR RECEIVING OUR EMAIL NOTIFYING YOU OF THE CHANGE WILL CONSTITUTE YOUR BINDING ACCEPTANCE OF THE CHANGE.
+
+**Canceling membership**
+
+You have the option to cancel your membership at any time. If you are a member and no longer wish to participate in Bebo you can sign in to the site and click on the My Account at the top of the page; then select cancel membership and follow the simple instructions.
+
+**Co-Branding**
+
+Bebo may be co-branded with affiliates & partners.
+
+**Contact and TRUSTe**
+
+Bebo is a participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact us on the [Contact Us](http://www.bebo.com/ContactUs.jsp) page. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison to work toward resolutions of your concerns.  Any disputes arising from this Privacy Policy shall be governed by the laws of the State of California, and if you and Bebo cannot resolve such disputes, the matter shall be brought in and decided by the courts of the State of California.
+
+This Privacy Policy was last revised on April 15, 2011 and is effective as of November 17, 2008. 
