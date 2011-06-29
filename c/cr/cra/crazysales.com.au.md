@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213070234id_/http%3A//www.crazysales.com.au/index.php%3Fshow_aux_page%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629151455id_/http%3A//www.crazysales.com.au/index.php%3Fshow_aux_page%3D6) for the most accurate reproduction.*
 
 # CrazySales Privacy Statement - Bargain Shopping Online Australia
 
