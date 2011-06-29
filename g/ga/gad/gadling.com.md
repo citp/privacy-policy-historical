@@ -1,53 +1,43 @@
-> *The following text is extracted and transformed from the gadling.com privacy policy that was archived on 2007-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070703083543id_/http%3A//www.weblogsinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadling.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629121902id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
-# Weblogs, Inc.
+# AOL Privacy
 
-## Weblogs, Inc. Privacy Statement
+This notice provides highlights of the full [privacy policy](https://web.archive.org/privacy-policy/) and covers the collection and use of information when you use AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic [aquí](http://privacy.aol.com/puntos-importante).
 
-What follows is the Privacy Statement for all Weblogs, Inc. websites (a.k.a. blogs) including [Engadget](http://www.engadget.com/), [Autoblog](http://www.autoblog.com/), [Blogging Baby](http://www.bloggingbaby.com/), [Joystiq](http://www.joystiq.com/) and all the websites run under the weblogsinc.com domain.
+### Personal Information
 
-Please read this statement regarding our blogs. If you have questions please ask us via our [contact form](https://web.archive.org/contact/).
+We collect personal information when you make your information known, such as by registering, authenticating, making purchases, or interacting with AOL. If you do not make yourself known to AOL, your use of our content and services is generally anonymous.
 
-## Email Addresses
+### How we use your Information
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don't currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our [contact form](https://web.archive.org/contact/).
+Your AOL information is used to operate and improve our services, fulfill your requests and communicate with you, conduct research, and personalize the content and advertisements provided to you.
 
-## Ownership of Information
+### Information Sharing
 
-Weblogs, Inc. is the sole owner of any information collected on our websites.
+AOL does not share, sell or rent your personal information to third parties. Your information is shared with third parties with your permission, except in response to legal process.
 
-## Comments/Message Boards
+### Internet Advertising
 
-Most Weblogs, Inc. websites contain comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce "comment spam." These email addresses will not be shared with any third party.
+Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. [Learn more](http://privacy.aol.com/advertising-and-privacy/).
 
-## Cookies
+### Your Choices
 
-Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
+  * You can [opt-out](http://www.aboutads.info/choices/) of the use of your data for interest-based advertising.
+  * We offer [Marketing Preferences](http://marketingpreferences.aol.com/) to control how we communicate offers to you.
+  * You can control the collection and use of [search information](http://search.aol.com/aol/settings).
+  * Registered users can manage their accounts at [My Account](http://myaccount.aol.com/).
+  * Individual products or services may offer additional controls or preferences.
+  * You can view your [interest-based segments](http://advertising.aol.com/advisibility).
 
-## Third Party Cookies
 
-Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. Weblogs, Inc. does not have access to this data.
 
-## Traffic Reports
+### How to Opt-Out
 
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
+You can [opt-out](http://www.aboutads.info/choices/) of targeted advertising delivered by the AOL Advertising Network.
 
-## Legal proceedings
+### How to Contact Us
 
-We will make every effort to preserve user privacy but Weblogs, Inc. may need to disclose information when required by law.
-
-## Business Transitions
-
-If Weblogs, Inc. is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.
-
-## Links
-
-Weblogs, Inc. websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site's privacy policy. This privacy statement applies solely to information collected by Weblogs, Inc.
-
-## Notification of Changes
-
-When Weblogs, Inc. makes changes to this privacy policy we will post those changes here.
-
-## Contact Information
-
-If you have any questions regarding our privacy policy, please [contact us](https://web.archive.org/contact/).
+**AOL Privacy**  
+22000 AOL Way  
+Dulles, VA 20166  
+privacyquestions@aol.com
