@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220054709id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629142201id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Washington's Lottery -- Privacy
 
@@ -66,6 +66,20 @@ Washington's Lottery may request you to provide certain personal information in 
 
 You can review any personally identifiable information we collect about you by using the information in the Contact Us section in this web site. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting an email with a daytime telephone number where you can be contacted requesting that Washington's Lottery correct the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections. [RCW 43.105.310](http://search.leg.wa.gov/wslrcw/RCW%20%2043%20%20TITLE/RCW%20%2043%20.105%20%20CHAPTER/RCW%20%2043%20.105%20.310.htm)
 
+## Additional Terms & Conditions Relative to Washington’s Lottery Players’ Club
+
+## Membership Requirements
+
+Players’ Club is a voluntary, Web-based feature designed for players. Membership is strictly voluntary and in no way affects consumers' ability to interact with the Lottery, such as purchasing tickets or winning a Lottery game. Membership is dependent upon being a Washington resident age 18 or older with a valid e-mail address and Internet connection. If a member's e-mail address changes, the change should be made to their Players’ Club profile in order to retain their membership.
+
+Players’ Club membership is open only to persons of the state's legal gambling age, which is 18. Any attempt to circumvent these requirements by entering false data into the sign-up form constitutes fraud on the part of the user. Users accept full responsibility for the profiles they create.  
+
+
+## Players’ Club E-mail Practices   
+
+
+By joining Players’ Club, users acknowledge and accept that Washington’s Lottery may send them e-mails that include information we believe they may be interested in as a club member. As part of Players’ Club membership, users may opt-in various e-mail lists (including, but not limited to, Winning Numbers/Jackpot Amounts, Lottery News, and Surveys) to receive regular e-mails with specific content as described in the Players’ Club sign-up form. To discontinue receiving such e-mail, users may opt-out by clicking the unsubscribe link at the bottom of our emails. Or [click here](https://web.archive.org/VIP/default.aspx), login and unsubscribe. Opting out of these emails will NOT cancel their Players’ Club membership.
+
 ## Cookies [and Applets]
 
 To better serve our users we are now using "cookies" to customize your browsing experience with Washington's Lottery. Cookies are simple text files stored on your computer by your Web browser. Cookies created on your computer by using this website do not contain personally identifying information and do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying tag on your computer. 
@@ -91,3 +105,18 @@ Washington’s Lottery authorizes you to view and download the materials at this
 ## Limitation of Liability
 
 IN NO EVENT WILL WASHINGTON’S LOTTERY, ITS SUPPLIERS, AGENCIES, OR OTHER THIRD PARTIES MENTIONED AT THIS SITE BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOST PROFITS, LOST DATA OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE, INABILITY TO USE, OR THE RESULTS OF USE OF THIS SITE. IF YOUR USE OF THE MATERIALS, INFORMATION OR SERVICES FROM THIS SITE RESULTS IN THE NEED FOR SERVICING, REPAIR OR CORRECTION OF EQUIPMENT OR DATA, YOU ASSUME ALL COSTS THEREOF. APPLICABLE LAW MAY NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THESE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+
+## Contact information
+
+Washington's Lottery  
+814 4th Avenue East  
+Olympia, WA 98506
+
+Customer Service Line  
+(360) 664-4720
+
+TDD Users  
+(360) 586-0933
+
+Email  
+[director's_office@walottery.com](mailto:director's_office@walottery.com)
