@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b5media.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227171400id_/http%3A//www.b5media.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b5media.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629082349id_/http%3A//www.b5media.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « B5Media
 
