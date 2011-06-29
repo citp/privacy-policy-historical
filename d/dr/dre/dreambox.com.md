@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the dreambox.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527224718id_/http%3A//www.dreambox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreambox.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629152715id_/http%3A//www.dreambox.com/privacy) for the most accurate reproduction.*
 
-# Privacy information | DreamBox Learning online math education game
-
-[Legal Terms](https://web.archive.org/legal) | [Terms of Use](https://web.archive.org/terms)
+# Privacy Policy | DreamBox Learning
 
 ## DreamBox Learning feels strongly about protecting your privacy and the privacy of your students.
 
-DreamBox Learning WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of DreamBox Learning. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns. 
+DreamBox Learning WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of DreamBox Learning. If DreamBox Learning shares any such information with a third party, it will be in accordance with the terms of this privacy policy and for the limited purposes that we discuss below. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns. 
 
 ### 1\. Information Collected by DreamBox Learning
 
-In order for a student to participate in the DreamBox Learning Beta Program, the DreamBox Learning Free Trial Program, the DreamBox Learning Elementary School Math Program, including the K-3 Math Program, and/or other DreamBox Learning products (the “Programs”), the parents or a legal guardian or of that student or an authorized school official must first register at the DreamBox Learning website. If you do not register at our website, you and your student(s) will not be able to use the Programs. This registration process will require you to provide your name and email address. For home accounts we require your phone number and, if payment will be required for the Programs, your credit card information, including your billing address. Once you have registered, you may then sign up your student(s) for the Programs by providing each student’s first and last name, gender, their current school grade level, and for home accounts, their date of birth. We call this information “Registration Information.” We will also require a process to verify your consent to the registration of your student and to the collection of your student’s Registration Information. 
+In order for a student to participate in the DreamBox Learning Beta Program, the DreamBox Learning Free Trial Program, the DreamBox Learning Elementary School Math Program, including the K-3 Math Program, and/or other DreamBox Learning products (the “Programs”), a parent or a legal guardian of that student or an authorized school official must first register at the DreamBox Learning website. If you do not register at our website, you and your student(s) will not be able to use the Programs. This registration process will require you to provide your name and email address. For home accounts we require your phone number and, if payment will be required for the Programs, your credit card information, including your billing address. Once you have registered, you may then sign up your student(s) for the Programs by providing each student’s first and last name, gender, their current school grade level, and for home accounts, their date of birth. We call this information “Registration Information.” We will also require a process to verify your consent to the registration of your student and to the collection of your student’s Registration Information. When you and your student(s) participate in the Programs, DreamBox Learning will automatically collect information about your patterns of usage, order history, participation in promotions, session data, and other information relating to usage, choices, and preferences, including that of your student or students. We call this information “Participation History.” 
 
 ### 2\. How DreamBox Learning will use the information collected from you
 
@@ -32,7 +30,7 @@ Mailing Address: Your mailing address may be used to allow DreamBox Learning to 
 
 Secondary Uses: Registration Information and other information may be used by us for demographic profiling and targeted advertising, although in such cases, the information will be aggregated as ANONYMOUS statistical information. DreamBox Learning WILL NOT sell, trade, or assign any unaggregated personal information that it collects to third parties outside of DreamBox Learning. 
 
-Participation History: The details of any order you place and the Programs you or your student choose will be collected for customer service, marketing and business purposes. 
+Participation History: Participation History will be collected for client care, marketing, development, and other operational and business purposes, including improvements to the Programs by DreamBox Learning. 
 
 ### 3\. Information DreamBox Learning collects directly from your student
 
@@ -64,7 +62,7 @@ Please note that this Program is hosted in the United States. If you are visitin
 
 Except as provided in this Privacy Policy, DreamBox Learning WILL NOT disclose the information that it obtains from you to third parties without your express written permission, or where we believe, in good faith, that the law requires us to disclose the information. 
 
-DreamBox Learning WILL NOT sell, trade, or assign any unaggregated personal information that it collects to third parties outside of DreamBox Learning. We, however, may aggregate the information that we collect from users of our website to create demographic profiles and performance profiles regarding the progress of students who use the Programs. DreamBox Learning may share aggregated information with advertisers, marketing professionals, or potential investors. This aggregated information will be compiled and reported in the form of ANONYMOUS group statistics only. 
+DreamBox Learning WILL NOT sell, trade, or assign any unaggregated personal information that it collects to third parties outside of DreamBox Learning. We, however, may aggregate the information that we collect from users of our website to create demographic profiles and performance profiles regarding the progress of students who use the Programs. DreamBox Learning may share aggregated information with advertisers, marketing professionals, or potential investors. This aggregated information will be compiled and reported in the form of ANONYMOUS group statistics only. In addition, in order to offer and improve the Programs, DreamBox Learning may share Registration Information about the parents, legal guardians, and school officials that register to participate in the Programs, along with such registrants’ Participation History, to contractual business partners of DreamBox Learning that are directly involved in the sale, distribution, operation, maintenance, and support of the Programs on behalf of DreamBox Learning. 
 
 Notwithstanding anything to the contrary, as DreamBox Learning continues to develop its business, it might sell some or all of its assets. In such transactions, customer information is generally one of the transferred business assets. An acquiring company would be required to protect all information that DreamBox Learning collects from users of our website and Programs in accordance with the terms of this Privacy Policy. 
 
@@ -116,14 +114,14 @@ DreamBox Learning may amend this Privacy Policy from time to time. We will notif
 
 If you have any questions about your privacy or security measures at DreamBox Learning, please contact our Privacy Officer: 
 
-Sarah Daniels  
 DreamBox Learning, Inc.  
-10900 NE 8th Street, Suite 600  
+305 108th Ave NE  
+Second floor  
 Bellevue, WA 98004  
 (425) 637-8900  
 Or email us at: [privacy@dreambox.com](mailto:privacy@dreambox.com "email us")
 
-[Last Updated: 5/3/2010]
+[Last Updated: 7/17/2010]
 
   
 
