@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the myplaycity.com privacy policy that was archived on 2010-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218173310id_/http%3A//www.myplaycity.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myplaycity.com privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629122054id_/http%3A//www.myplaycity.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>        
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
     
 
     
@@ -21,11 +23,25 @@
 
     <script type="text/javascript" src="/i/s_shots.js"></script>
     <link href="/i/common.css" rel="stylesheet" type="text/css">
+    <!--[if lte IE 8]><link href="/i/common_ie8.css" rel="stylesheet" type="text/css"><![endif]-->
+    <!--[if lte IE 7]><link href="/i/common_ie7.css" rel="stylesheet" type="text/css"><![endif]-->
+    <!--[if lte IE 6]><link href="/i/common_ie6.css" rel="stylesheet" type="text/css"><![endif]-->
 
     
 </head>
 
 <body onmouseover="hidepopup();" onclick="hide_menu()"><center><div class="allbody">
+
+<script type="text/javascript">
+    function redir_to_download(download_link_exe,LGP){
+	if(navigator.userAgent.indexOf("MSIE") > -1){
+	    newwin = window.open(download_link_exe, 'newwin', 'width=100,height=100,toolbar=1,left=2000,top=2000');
+	    //newwin.blur();
+	    pageTracker._trackPageview('/Downloadpage_start/'+LGP+'/en/auto');
+	    //location.href = '//download.html';
+	}
+    }
+</script>
 
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -57,17 +73,31 @@ try {
                         </td>
                         <td width="100%">
                         </td>
+			
+			    <td>
+				<div class="header_rss">
+				    <img src="/i/common/header_rss_icon.gif" alt="Free Games by RSS">
+				    <a href="/new_games.xml" onclick="javascript:pageTracker._trackPageview('/FeedBurner/en/');">Free Games by RSS</a>
+
+				    <div class="decor">
+					<div class="left"></div>
+					<div class="right"></div>
+				    </div>
+				</div>
+			    </td>
+			
+
                         <td>
                             <img src="/i/common/home_bookmark_1.gif" alt="">
                         </td>
-                        <td class="bg">
+                        <td class="bg" onclick="javascript:pageTracker._trackPageview('/Homepage');">
                             <a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.myplaycity.com/');">Make A Homepage</a>
                         </td>
                         <td>
                             <img src="/i/common/home_bookmark_2.gif" alt="">
                         </td>
-                        <td class="bg">
-                            <a href="#" onclick="javascript:window.external.AddFavorite('http://www.myplaycity.com/','Myplaycity.com - Download Free Games - Play Free Games');">Bookmark Site</a>
+                        <td class="bg" onclick="javascript:pageTracker._trackPageview('/Bookmark');">
+                            <a href="http://www.myplaycity.com/" rel="sidebar" title="Myplaycity.com - Download Free Games - Play Free Games" onclick="javascript:window.external.AddFavorite('http://www.myplaycity.com','Myplaycity.com - Download Free Games - Play Free Games'); return false;">Bookmark Site</a>
                         </td>
                         <td>
                             <img src="/i/common/home_bookmark_3.gif" alt="">
@@ -211,8 +241,9 @@ try {
     
 	
 	    
-		<div class="allpages_ad_top">
-		    <script type="text/javascript"><!--
+		
+		    <div class="allpages_ad_top">
+			<script type="text/javascript"><!--
 google_ad_client = "pub-5655997124934707";
 /* upmenu1_728x15, 05.08.09 */
 google_ad_slot = "7809253696";
@@ -222,7 +253,8 @@ google_ad_height = 15;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-		</div>
+		    </div>
+		
 	    
 	
     
@@ -335,8 +367,8 @@ google_ad_height = 15;
         <div class="gamepage_footer_1">
 
 
-<a href="/aquitania/">
-    <img src="/i/promo/aquitania/160x200/aquitania_160x200_en.jpg" width="160" height="200" alt="Aquitania">
+<a href="/potion_bar/">
+    <img src="/i/promo/potion_bar/160x200/potion_bar_160x200_en.jpg" width="160" height="200" alt="Poition Bar">
 </a>
 </div>
         <div class="gamepage_footer_m"><img src="/i/common/1.gif" width="8" height="1" alt=""></div>
@@ -376,7 +408,7 @@ Alert and get a few New Games every week:
 			    <img src="/i/common/i1.jpg" width="40" height="40" alt="Free Games by RSS">
 			</a>
 		    </td>
-		    <td><div><a href="/new_games.xml">Free Games by RSS</a></div></td>
+		    <td><div><a href="/new_games.xml" onclick="javascript:pageTracker._trackPageview('/FeedBurner/en/');">Free Games by RSS</a></div></td>
 
 		    
 		    
@@ -468,51 +500,173 @@ Alert and get a few New Games every week:
         <div class="top10_item">
             <div class="top10_item_1">1</div>
             <div class="top10_item_2">
-                <a href="/farm_frenzy_2/" onclick="javascript:pageTracker._trackPageview('/LearnMore/farm_frenzy_2/en/ssiTop10Right/');">
-                    <img src="/gn/90x67/485_90x67.jpg" width="90" height="67" alt="Farm Frenzy 2">
+                <a href="/fishdom/" onclick="javascript:pageTracker._trackPageview('/LearnMore/fishdom/en/ssiTop10Right/');">
+                    <img src="/gn/90x67/700_90x67.jpg" width="90" height="67" alt="Fishdom">
                 </a>
             </div>
             <div class="top10_item_3">
-                <a href="/farm_frenzy_2/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/farm_frenzy_2/en/ssiTop10Right/');">
-                    Farm Frenzy 2
+                <a href="/fishdom/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/fishdom/en/ssiTop10Right/');">
+                    Fishdom
                 </a>
             </div>
-            <div class="top10_item_4">
+
+	    
 		
-		    <a href="/farm_frenzy_2/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/farm_frenzy_2/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/fishdom_setup.exe','fishdom');">
+			<a href="/fishdom/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/fishdom/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
 		
 		
-            </div>
+	    
+	    
+
             <div class="top10_item_5">
-		<a href="/farm_frenzy_2/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/farm_frenzy_2/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
+		<a href="/fishdom/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/fishdom/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
             </div>
         </div>
         
         <div class="top10_item">
             <div class="top10_item_1">2</div>
             <div class="top10_item_2">
-                <a href="/star_defender_2/" onclick="javascript:pageTracker._trackPageview('/LearnMore/star_defender_2/en/ssiTop10Right/');">
-                    <img src="/gn/90x67/554_90x67.jpg" width="90" height="67" alt="Star Defender 2">
+                <a href="/farm-frenzy-2/" onclick="javascript:pageTracker._trackPageview('/LearnMore/farm-frenzy-2/en/ssiTop10Right/');">
+                    <img src="/gn/90x67/485_90x67.jpg" width="90" height="67" alt="Farm Frenzy 2">
                 </a>
             </div>
             <div class="top10_item_3">
-                <a href="/star_defender_2/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/star_defender_2/en/ssiTop10Right/');">
-                    Star Defender 2
+                <a href="/farm-frenzy-2/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/farm-frenzy-2/en/ssiTop10Right/');">
+                    Farm Frenzy 2
                 </a>
             </div>
-            <div class="top10_item_4">
+
+	    
 		
-		    <a href="/star_defender_2/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/star_defender_2/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/farmfrenzy2_setup.exe','farm-frenzy-2');">
+			<a href="/farm-frenzy-2/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/farm-frenzy-2/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
 		
 		
-            </div>
+	    
+	    
+
             <div class="top10_item_5">
-		<a href="/star_defender_2/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/star_defender_2/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
+		<a href="/farm-frenzy-2/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/farm-frenzy-2/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
             </div>
         </div>
         
         <div class="top10_item">
             <div class="top10_item_1">3</div>
+            <div class="top10_item_2">
+                <a href="/fairy-island-download-fairy-games/" onclick="javascript:pageTracker._trackPageview('/LearnMore/fairy-island-download-fairy-games/en/ssiTop10Right/');">
+                    <img src="/gn/90x67/707_90x67.jpg" width="90" height="67" alt="Fairy Island">
+                </a>
+            </div>
+            <div class="top10_item_3">
+                <a href="/fairy-island-download-fairy-games/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/fairy-island-download-fairy-games/en/ssiTop10Right/');">
+                    Fairy Island
+                </a>
+            </div>
+
+	    
+		
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/fairyisland_setup.exe','fairy-island-download-fairy-games');">
+			<a href="/fairy-island-download-fairy-games/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/fairy-island-download-fairy-games/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
+		
+		
+	    
+	    
+
+            <div class="top10_item_5">
+		<a href="/fairy-island-download-fairy-games/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/fairy-island-download-fairy-games/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
+            </div>
+        </div>
+        
+        <div class="top10_item">
+            <div class="top10_item_1">4</div>
+            <div class="top10_item_2">
+                <a href="/hidden_jewel/" onclick="javascript:pageTracker._trackPageview('/LearnMore/hidden_jewel/en/ssiTop10Right/');">
+                    <img src="/gn/90x67/708_90x67.jpg" width="90" height="67" alt="Hidden Jewel Adventure">
+                </a>
+            </div>
+            <div class="top10_item_3">
+                <a href="/hidden_jewel/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/hidden_jewel/en/ssiTop10Right/');">
+                    Hidden Jewel Adventure
+                </a>
+            </div>
+
+	    
+		
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/hiddenjewel_setup.exe','hidden_jewel');">
+			<a href="/hidden_jewel/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/hidden_jewel/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
+		
+		
+	    
+	    
+
+            <div class="top10_item_5">
+		<a href="/hidden_jewel/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/hidden_jewel/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
+            </div>
+        </div>
+        
+        <div class="top10_item">
+            <div class="top10_item_1">5</div>
+            <div class="top10_item_2">
+                <a href="/star-defender-2-download-free-alien-games/" onclick="javascript:pageTracker._trackPageview('/LearnMore/star-defender-2-download-free-alien-games/en/ssiTop10Right/');">
+                    <img src="/gn/90x67/554_90x67.jpg" width="90" height="67" alt="Star Defender 2">
+                </a>
+            </div>
+            <div class="top10_item_3">
+                <a href="/star-defender-2-download-free-alien-games/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/star-defender-2-download-free-alien-games/en/ssiTop10Right/');">
+                    Star Defender 2
+                </a>
+            </div>
+
+	    
+		
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/stardefender2_setup.exe','star-defender-2-download-free-alien-games');">
+			<a href="/star-defender-2-download-free-alien-games/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/star-defender-2-download-free-alien-games/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
+		
+		
+	    
+	    
+
+            <div class="top10_item_5">
+		<a href="/star-defender-2-download-free-alien-games/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/star-defender-2-download-free-alien-games/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
+            </div>
+        </div>
+        
+        <div class="top10_item">
+            <div class="top10_item_1">6</div>
+            <div class="top10_item_2">
+                <a href="/road_attack/" onclick="javascript:pageTracker._trackPageview('/LearnMore/road_attack/en/ssiTop10Right/');">
+                    <img src="/gn/90x67/13_90x67.jpg" width="90" height="67" alt="Road Attack">
+                </a>
+            </div>
+            <div class="top10_item_3">
+                <a href="/road_attack/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/road_attack/en/ssiTop10Right/');">
+                    Road Attack
+                </a>
+            </div>
+
+	    
+		
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/rattack_setup.exe','road_attack');">
+			<a href="/road_attack/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/road_attack/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
+		
+		
+	    
+	    
+
+            <div class="top10_item_5">
+		<a href="/road_attack/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/road_attack/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
+            </div>
+        </div>
+        
+        <div class="top10_item">
+            <div class="top10_item_1">7</div>
             <div class="top10_item_2">
                 <a href="/treasures_of_montezuma/" onclick="javascript:pageTracker._trackPageview('/LearnMore/treasures_of_montezuma/en/ssiTop10Right/');">
                     <img src="/gn/90x67/457_90x67.jpg" width="90" height="67" alt="The Treasures Of Montezuma">
@@ -523,134 +677,80 @@ Alert and get a few New Games every week:
                     The Treasures Of Montezuma
                 </a>
             </div>
-            <div class="top10_item_4">
+
+	    
 		
-		    <a href="/treasures_of_montezuma/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/treasures_of_montezuma/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/montezuma_setup.exe','treasures_of_montezuma');">
+			<a href="/treasures_of_montezuma/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/treasures_of_montezuma/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
 		
 		
-            </div>
+	    
+	    
+
             <div class="top10_item_5">
 		<a href="/treasures_of_montezuma/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/treasures_of_montezuma/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
             </div>
         </div>
         
         <div class="top10_item">
-            <div class="top10_item_1">4</div>
-            <div class="top10_item_2">
-                <a href="/turtix_adventures/" onclick="javascript:pageTracker._trackPageview('/LearnMore/turtix_adventures/en/ssiTop10Right/');">
-                    <img src="/gn/90x67/604_90x67.jpg" width="90" height="67" alt="Turtix: Rescue Adventures">
-                </a>
-            </div>
-            <div class="top10_item_3">
-                <a href="/turtix_adventures/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/turtix_adventures/en/ssiTop10Right/');">
-                    Turtix: Rescue Adventures
-                </a>
-            </div>
-            <div class="top10_item_4">
-		
-		    <a href="/turtix_adventures/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/turtix_adventures/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
-		
-		
-            </div>
-            <div class="top10_item_5">
-		<a href="/turtix_adventures/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/turtix_adventures/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
-            </div>
-        </div>
-        
-        <div class="top10_item">
-            <div class="top10_item_1">5</div>
-            <div class="top10_item_2">
-                <a href="/seven_wonders/" onclick="javascript:pageTracker._trackPageview('/LearnMore/seven_wonders/en/ssiTop10Right/');">
-                    <img src="/gn/90x67/610_90x67.jpg" width="90" height="67" alt="World Riddles: Seven Wonders">
-                </a>
-            </div>
-            <div class="top10_item_3">
-                <a href="/seven_wonders/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/seven_wonders/en/ssiTop10Right/');">
-                    World Riddles: Seven Wonders
-                </a>
-            </div>
-            <div class="top10_item_4">
-		
-		    <a href="/seven_wonders/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/seven_wonders/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
-		
-		
-            </div>
-            <div class="top10_item_5">
-		<a href="/seven_wonders/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/seven_wonders/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
-            </div>
-        </div>
-        
-        <div class="top10_item">
-            <div class="top10_item_1">6</div>
-            <div class="top10_item_2">
-                <a href="/cake_shop_2/" onclick="javascript:pageTracker._trackPageview('/LearnMore/cake_shop_2/en/ssiTop10Right/');">
-                    <img src="/gn/90x67/573_90x67.jpg" width="90" height="67" alt="Cake Shop 2">
-                </a>
-            </div>
-            <div class="top10_item_3">
-                <a href="/cake_shop_2/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/cake_shop_2/en/ssiTop10Right/');">
-                    Cake Shop 2
-                </a>
-            </div>
-            <div class="top10_item_4">
-		
-		    <a href="/cake_shop_2/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/cake_shop_2/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
-		
-		
-            </div>
-            <div class="top10_item_5">
-		<a href="/cake_shop_2/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/cake_shop_2/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
-            </div>
-        </div>
-        
-        <div class="top10_item">
-            <div class="top10_item_1">7</div>
-            <div class="top10_item_2">
-                <a href="/air_force_missions/" onclick="javascript:pageTracker._trackPageview('/LearnMore/air_force_missions/en/ssiTop10Right/');">
-                    <img src="/gn/90x67/2_90x67.jpg" width="90" height="67" alt="Air Force Missions">
-                </a>
-            </div>
-            <div class="top10_item_3">
-                <a href="/air_force_missions/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/air_force_missions/en/ssiTop10Right/');">
-                    Air Force Missions
-                </a>
-            </div>
-            <div class="top10_item_4">
-		
-		    <a href="/air_force_missions/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/air_force_missions/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
-		
-		
-            </div>
-            <div class="top10_item_5">
-		<a href="/air_force_missions/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/air_force_missions/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
-            </div>
-        </div>
-        
-        <div class="top10_item">
             <div class="top10_item_1">8</div>
             <div class="top10_item_2">
-                <a href="/cradle_of_rome/" onclick="javascript:pageTracker._trackPageview('/LearnMore/cradle_of_rome/en/ssiTop10Right/');">
-                    <img src="/gn/90x67/550_90x67.jpg" width="90" height="67" alt="Cradle Of Rome">
+                <a href="/around_the_world/" onclick="javascript:pageTracker._trackPageview('/LearnMore/around_the_world/en/ssiTop10Right/');">
+                    <img src="/gn/90x67/474_90x67.jpg" width="90" height="67" alt="Around The World In 80 Days">
                 </a>
             </div>
             <div class="top10_item_3">
-                <a href="/cradle_of_rome/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/cradle_of_rome/en/ssiTop10Right/');">
-                    Cradle Of Rome
+                <a href="/around_the_world/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/around_the_world/en/ssiTop10Right/');">
+                    Around The World In 80 Days
                 </a>
             </div>
-            <div class="top10_item_4">
+
+	    
 		
-		    <a href="/cradle_of_rome/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/cradle_of_rome/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/aroundtheworld_setup.exe','around_the_world');">
+			<a href="/around_the_world/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/around_the_world/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
 		
 		
-            </div>
+	    
+	    
+
             <div class="top10_item_5">
-		<a href="/cradle_of_rome/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/cradle_of_rome/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
+		<a href="/around_the_world/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/around_the_world/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
             </div>
         </div>
         
         <div class="top10_item">
             <div class="top10_item_1">9</div>
+            <div class="top10_item_2">
+                <a href="/tropical-farm/" onclick="javascript:pageTracker._trackPageview('/LearnMore/tropical-farm/en/ssiTop10Right/');">
+                    <img src="/gn/90x67/710_90x67.jpg" width="90" height="67" alt="Tropical Farm">
+                </a>
+            </div>
+            <div class="top10_item_3">
+                <a href="/tropical-farm/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/tropical-farm/en/ssiTop10Right/');">
+                    Tropical Farm
+                </a>
+            </div>
+
+	    
+		
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/tropicalfarm_setup.exe','tropical-farm');">
+			<a href="/tropical-farm/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/tropical-farm/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
+		
+		
+	    
+	    
+
+            <div class="top10_item_5">
+		<a href="/tropical-farm/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/tropical-farm/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
+            </div>
+        </div>
+        
+        <div class="top10_item">
+            <div class="top10_item_1">10</div>
             <div class="top10_item_2">
                 <a href="/quest-game-atlantis-quest/" onclick="javascript:pageTracker._trackPageview('/LearnMore/atlantis_quest/en/ssiTop10Right/');">
                     <img src="/gn/90x67/192_90x67.jpg" width="90" height="67" alt="Atlantis Quest">
@@ -661,37 +761,19 @@ Alert and get a few New Games every week:
                     Atlantis Quest
                 </a>
             </div>
-            <div class="top10_item_4">
+
+	    
 		
-		    <a href="/quest-game-atlantis-quest/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/atlantis_quest/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    <div class="top10_item_4" onclick="redir_to_download('http://files.myplaycity.com/files/atlantis_setup.exe','atlantis_quest');">
+			<a href="/quest-game-atlantis-quest/download.html" class="red2" onclick="javascript:pageTracker._trackPageview('/Downloads_Misc/atlantis_quest/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
+		    </div>
 		
 		
-            </div>
+	    
+	    
+
             <div class="top10_item_5">
 		<a href="/quest-game-atlantis-quest/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/atlantis_quest/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
-            </div>
-        </div>
-        
-        <div class="top10_item">
-            <div class="top10_item_1">10</div>
-            <div class="top10_item_2">
-                <a href="/rise_of_atlantis/" onclick="javascript:pageTracker._trackPageview('/LearnMore/rise_of_atlantis/en/ssiTop10Right/');">
-                    <img src="/gn/90x67/580_90x67.jpg" width="90" height="67" alt="The Rise Of Atlantis">
-                </a>
-            </div>
-            <div class="top10_item_3">
-                <a href="/rise_of_atlantis/" class="ublack" onclick="javascript:pageTracker._trackPageview('/LearnMore/rise_of_atlantis/en/ssiTop10Right/');">
-                    The Rise Of Atlantis
-                </a>
-            </div>
-            <div class="top10_item_4">
-		
-		    <a href="/rise_of_atlantis/" class="red2" onclick="javascript:pageTracker._trackPageview('/FalseDownload/rise_of_atlantis/en/ssiTop10Right/');"><img src="/i/common/top10_2.gif" width="16" height="16" alt="Download" align="top"><u>Download</u></a>
-		
-		
-            </div>
-            <div class="top10_item_5">
-		<a href="/rise_of_atlantis/" class="brown" onclick="javascript:pageTracker._trackPageview('/LearnMore/rise_of_atlantis/en/ssiTop10Right/');"><img src="/i/common/top10_3.gif" width="16" height="16" alt="Learn More" align="top"><u>Learn More</u></a>
             </div>
         </div>
         
@@ -721,9 +803,9 @@ Alert and get a few New Games every week:
 		<div class="clr"></div>
 		<div class="allpages_ad_bottom">
 		    <script type="text/javascript"><!--
-google_ad_client = "pub-5655997124934707";
-/* upmenu1_728x15, 05.08.09 */
-google_ad_slot = "7809253696";
+google_ad_client = "ca-pub-5655997124934707";
+/* bottommenu1 */
+google_ad_slot = "7160490767";
 google_ad_width = 728;
 google_ad_height = 15;
 //-->
@@ -731,7 +813,7 @@ google_ad_height = 15;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 		</div>
-	    	    
+	    
 	
     
 
@@ -780,6 +862,7 @@ google_ad_height = 15;
 	
 	<div class="clr"></div>
 	
+        
     </div>
 
     <div class="clr"></div>
@@ -815,7 +898,7 @@ google_ad_height = 15;
 	    
 		&nbsp;&nbsp;|&nbsp;<a href="/terms_of_use/" class="ugray">Terms of Use</a>
 	    
-            <p>© 2010 MyPlayCity, Inc. All Rights Reserved. <a href="/privacy_policy/" class="ublue">Privacy Policy</a></p>
+            <p>© 2011 MyPlayCity, Inc. All Rights Reserved. <a href="/privacy_policy/" class="ublue">Privacy Policy</a></p>
         </div>
         <div class="clr"></div>
     </div>
