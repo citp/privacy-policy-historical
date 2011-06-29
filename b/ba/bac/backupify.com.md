@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backupify.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231203641id_/http%3A//www.backupify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backupify.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629074351id_/http%3A//www.backupify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Backupify
 
@@ -19,6 +19,3 @@ Any information we have about you is stored with strong encryption.
 ## Will my information be shared with others?
 
 No. Your information will not be shared with anyone, except in cases where information may be subpoenaed by law.
-
-  
-
