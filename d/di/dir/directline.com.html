@@ -1,817 +1,635 @@
-<!--The following is the downloaded HTML source of the directline.com privacy policy that was archived on 2010-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124040346id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directline.com privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629232712id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <title>Security and Privacy - Legal - Direct Line</title>
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta content="text/html; charset=iso-8859-1">
-<title>Direct Line - About us</title>
 
+
+
+
+
+   <meta name="keywords" content="About us, security and privacy, Data protection notice">
+   <meta name="description" content="Direct Line's Data Protection Notice provides information on who we are, how your personal details are used, your electronic information and fraud prevention.">
 
     
-            <meta name="keywords" content="About us, security and privacy, Data protection notice">
-            
-        
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <meta http-equiv="content-style-type" content="text/css">
+    <meta http-equiv="content-language" content="en">
 
-    
-            <meta name="description" content="Direct Line's Data Protection Notice provides information on who we are, how your personal details are used, your electronic information and fraud prevention.">
-            
-        
-
-
-<link href="/generic/Stylesheets/staticpages.css" rel="stylesheet" type="text/css">
-
-<script language="javascript1.2" src="/generic/js/cookieClass.js" type="text/javascript"></script>
-<script language="JavaScript" src="/generic/js/footer.js" type="text/javascript"></script>
-<script language="JavaScript" src="/generic/js/navbar_sp.js" type="text/javascript"></script>
-<script language="JavaScript" src="/generic/js/stats.js" type="text/javascript"></script>
-<script language="JavaScript" src="/mortgages/direct_one/js/dl1.js" type="text/javascript"></script>
-<script language="JavaScript" src="/generic/js/MMO_appl.js" type="text/javascript"></script>
-<script language="JavaScript" src="/generic/js/common.js" type="text/javascript"></script>
-<script language="javascript1.2" type="text/javascript">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/css/menu.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/style.css" type="text/css" media="all">
+    <!--[if IE 6]>
+    	<link rel="stylesheet" href="/css/ie6.css" type="text/css" media="all" />
+    <![endif]-->
+    <!--[if IE 7]>
+    	<link rel="stylesheet" href="/css/ie7.css" type="text/css" media="all" />
+    <![endif]-->
 
 
-// Fix for Norton Firewall programs
-
-function firewallFix( inRCP, linkId )
-{
-    var DLIWindow;
-    var spotlighttag = new String();
-    var tempURL      = new String();
-    var x            = screen.width;
-    var y            = screen.height;
-    var axel         = Math.random() + "";
-    var ord          = axel * 1000000000000000000;
-    var loc = new String(window.location);
-    if ( loc.indexOf("WORKAREA") ){
-        pos = loc.indexOf("WORKAREA");
-        tempURL = loc.substring(0, loc.indexOf("/", pos + 9)) + "/tracking/redirect/get_a_quote_button.htm?";
-        tempURL2 = loc.substring(0, loc.indexOf("/", pos + 9)) + "/folder_hostedservices/index.htm?";
-        //alert(tempURL2);
-    }
-    else
-    {
-        tempURL = "http://" + location.host + "/tracking/redirect/get_a_quote_button.htm?";
-        tempURL2 = "http://" + location.host + "/folder_hostedservices/index.htm?";
-    }
-
-    if ( typeof linkId != "undefined" ){
-        tempURL =  tempURL + "rcp="+inRCP+"&linkType="+linkId;
-        tempURL2 =  tempURL2 + "rcp="+inRCP+"&req=req" +"&linkType="+linkId;
-    }
-    else
-    {
-        tempURL =  tempURL + "rcp="+inRCP;
-        tempURL2 =  tempURL + "rcp="+inRCP+"&req=req";
-    }
-
-    if( x > 799 )
-    {
-        x = screen.width - 10;
-        y = screen.height - 80;
-    }
-    parms = new String( "width=" + x + ",height=" + y + ",scrollbars=yes,menubar=visible,statusbar=yes,status=yes,location=no,toolbar=no,history=no,resizable=yes,screenX=0,screenY=0,top=0,left=0" );
-
-    switch( inRCP )
-    {
-        case "000023": // home
-            DLIWindow = window.open( tempURL, "", parms );
-            break;
-        case "000024": // motor
-            DLIWindow = window.open( tempURL, "", parms );
-            break;
-        case "000025": // rescue
-            DLIWindow = window.open( tempURL, "", parms );
-            break;
-        case "000026": // travel
-            DLIWindow = window.open( tempURL, "", parms );
-            break;
-        case "000080": // life
-            DLIWindow = window.open( tempURL, "", parms );
-            break;
-        case "000088": // pet
-            DLIWindow = window.open( tempURL, "", parms );
-            break;
-        case "000100": // loans
-            tempURL2 = "http://www.dlfs.com/loans/LoanRC.html";
-            DLIWindow = window.open( tempURL2, "", "height=600,width=800,screenY=50,top=15,left=50, menu=no, directories=no, status=yes , scrollbars=no,resizable=no" );
-            break;
-        case "REGISTER":
-        //alert(tempURL2);
-            DLIWindow = window.open( tempURL2, "", parms );
-            break;
-        case "COPYRIGHT":
-            var winleft = screen.width - 600 - 20;
-            var wintop = screen.height - 130 - 60;
-            parms ='width=600,height=130,scrollbars=no,left='+winleft+',top='+wintop+',status=yes';
-            DLIWindow = window.open( "homepage_copyright.jsp", "copyright", parms );
-            break;
-        case "ONE_ACCOUNT":
-            var theURL  = "http://service.oneaccount.com/pls/plOneSalesDL/online_one_app.new_application";
-            var winOpts = 'width=909,height=620,resizable=yes,toolbar=no,menubar=no,status=no,scrollbars=yes,top=10,left=10';
-            var newWin  = window.open( theURL, "directOne", winOpts );
-            break;
-        default:
-            DLIWindow = window.open(tempURL,"",parms);
-    }
-    return;
-}
 
 
-function showCover(){
-   var  win = window.open('/rescue/rescue_popup.html', 'rescuecoverdetails',
-  'status, scrollbars, resizable, width=775, height=450, screenX=100,screenY=75,left=100,top=75');
-  win.focus();
-  return false;
 
-}
+    <script language="JavaScript" src="/generic/js/navbar_sp.js" type="text/javascript"></script>
 
 
-var navName = "welcome";
-var navIndex = findNavObj(navName);
-var domObj;
-var oDoc = (document.all) ? 'all.' : '';
-var oStyle = (document.all) ? '.style' : '';
+    <script type="text/javascript" src="/generic/js/common.js"></script>
+    <script type="text/javascript" src="/generic/js/cookie.js"></script>
 
-function show(layerName) {
-    if(document.getElementById) {   // dom level 2
-        domObj = document.getElementById(layerName);
-        domObj.style.visibility = 'visible';
-    } else {
-        domObj = eval('document.' + oDoc + layerName + oStyle);
-        domObj.visibility = 'visible';
-    }
-}
+    <!-- <script type="text/javascript" src="swfobject.js"></script> -->
+    <script type="text/javascript" src="/generic/js/swfobject-mm.js"></script>
 
-function hide(layerName) {
-    if(document.getLayerById) {
-        domObj = document.getElementById(layerName);
-        domObj.style.visibility = 'hidden';
-    } else {
-        domObj = eval('document.' + oDoc + layerName + oStyle);
-        domObj.visibility = 'hidden';
-    }
-}
+    <script type="text/javascript">
+       if(typeof(swfobject) != "undefined")
+            { 
+      		swfobject.registerObject("myId");
+            }
+    </script>
+    <script type="text/javascript">
+      //IE6 hack to force browser to use cache images instead of reloading after each mouseover
+      try {
+           document.execCommand("BackgroundImageCache", false, true);
+          } catch(err) {}
+    </script>
+    <script type="text/javascript">
+        // create a cookie
+        var cookie = new Cookie (document, "directlinessa", null, "/");
 
-var loadedFlag = false;
-function event_onLoad() {
-    loadedFlag = true;
-}
-
-function offToGoWherever(rcp,from)
-{
-    if(rcp == '000024' && from == '1')
-    {
-        getStatsGif("000751");
-    }
-    if(rcp == '000024' && from == '2')
-    {
-        getStatsGif("000752");
-    }
-    if(rcp == '000024' && from == '3')
-    {
-        getStatsGif("000753");
-    }
-    goWherever(rcp);
-}
-
-function oneAccount(url)
-{
-    servicewin=window.open("http://www.oneaccount.com/directline/detect.html","OneaccountSavingsCalculator","status=no,scrollbars=no,resizable=no,width=620,height=490");
-}
-
-//dlfs links
-function dlfsFixLink()
-{
-    window.open("https://www.dlfs.com/mortgages/CalculatorServlet?actionId=StandardOptionsMenu&mortgageType=Fix","Fix","status,scrollbars,resizable,width=660,height=550,screenX=100,screenY=75,left=0,top=0");
-}
-
-function dlfsFlexibleLink()
-{
-    window.open( "https://www.dlfs.com/mortgages/CalculatorServlet?actionId=StandardOptionsMenu&mortgageType=Flexible","Flexible","status,scrollbars,resizable,width=660,height=550,screenX=100,screenY=75,left=0,top=0");
-}
-function dlfsSVRLink()
-{
-    window.open( "https://www.dlfs.com/mortgages/CalculatorServlet?actionId=StandardOptionsMenu&mortgageType=SVR","SVR","status,scrollbars,resizable,width=660,height=550,screenX=100,screenY=75,left=0,top=0");
-}
-
-function doSel()
-{
-     obj =  document.productoptions.productoptions;
-
-     for (i = 1; i < obj.length; i++) {
-        if (obj[i].selected == true) {
-           eval(obj[i].value);
+        if( ssa() )
+        {
+            cookie.ssaCode = ssa();        // if there is an ssa cde on the url, bake it into a cookie
         }
-     }
-}
-</script>
+        else
+        {
+            cookie.load();     // otherwise try and retrieve an ssa code from an existing cookie
+        }
+        cookie.store();
+
+        var ssaCode = "";
+
+        if (!(typeof (cookie.ssaCode) == 'undefined'))
+        {
+            ssaCode = new String ("&Fd_SSACode=" + cookie.ssaCode);
+
+        }
+        
+        //axc1 lifted from directline productinfo.tpl
+        
+                  function doSel()
+	            {
+	             obj =  document.productoptions.productoptions;
+	
+	             for (i = 0; i < obj.length; i++)
+	              {
+	               if (obj[i].selected == true)
+	                  {
+	                    eval(obj[i].value);
+	                  }
+	              }
+            }
+        
+//axc1 lifted from directline productinfo.tpl
+
+        // Fix for Norton Firewall programs
+	
+	function firewallFix( inRCP, linkId )
+	{
+	    var DLIWindow;
+	    var spotlighttag = new String();
+	    var tempURL      = new String();
+	    var x            = screen.width;
+	    var y            = screen.height;
+	    var axel         = Math.random() + "";
+	    var ord          = axel * 1000000000000000000;
+	    var loc = new String(window.location);
+	    if ( loc.indexOf("WORKAREA") ){
+	        pos = loc.indexOf("WORKAREA");
+	        tempURL = loc.substring(0, loc.indexOf("/", pos + 9)) + "/tracking/redirect/get_a_quote_button.htm?";
+	        tempURL2 = loc.substring(0, loc.indexOf("/", pos + 9)) + "/folder_hostedservices/index.htm?";
+	        //alert(tempURL2);
+	    }
+	    else
+	    {
+	        tempURL = "http://" + location.host + "/tracking/redirect/get_a_quote_button.htm?";
+	        tempURL2 = "http://" + location.host + "/folder_hostedservices/index.htm?";
+	    }
+	
+	    if ( typeof linkId != "undefined" ){
+	        tempURL =  tempURL + "rcp="+inRCP+"&linkType="+linkId;
+	        tempURL2 =  tempURL2 + "rcp="+inRCP+"&req=req" +"&linkType="+linkId;
+	    }
+	    else
+	    {
+	        tempURL =  tempURL + "rcp="+inRCP;
+	        tempURL2 =  tempURL + "rcp="+inRCP+"&req=req";
+	    }
+	
+	    if( x > 799 )
+	    {
+	        x = screen.width - 10;
+	        y = screen.height - 80;
+	    }
+	    parms = new String( "width=" + x + ",height=" + y + ",scrollbars=yes,menubar=visible,statusbar=yes,status=yes,location=no,toolbar=no,history=no,resizable=yes,screenX=0,screenY=0,top=0,left=0" );
+	
+	    switch( inRCP )
+	    {
+	        case "000023": // home
+	            DLIWindow = window.open( tempURL, "", parms );
+	            break;
+	        case "000024": // motor
+	            DLIWindow = window.open( tempURL, "", parms );
+	            break;
+	        case "000025": // rescue
+	            DLIWindow = window.open( tempURL, "", parms );
+	            break;
+	        case "000026": // travel
+	            DLIWindow = window.open( tempURL, "", parms );
+	            break;
+	        case "000080": // life
+	            DLIWindow = window.open( tempURL, "", parms );
+	            break;
+	        case "000088": // pet
+	            DLIWindow = window.open( tempURL, "", parms );
+	            break;
+	        case "000100": // loans
+	            tempURL2 = "http://www.dlfs.com/loans/LoanRC.html";
+	            DLIWindow = window.open( tempURL2, "", "height=600,width=800,screenY=50,top=15,left=50, menu=no, directories=no, status=yes , scrollbars=no,resizable=no" );
+	            break;
+	        case "REGISTER":
+	        //alert(tempURL2);
+	            DLIWindow = window.open( tempURL2, "", parms );
+	            break;
+	        case "COPYRIGHT":
+	            var winleft = screen.width - 600 - 20;
+	            var wintop = screen.height - 130 - 60;
+	            parms ='width=600,height=130,scrollbars=no,left='+winleft+',top='+wintop+',status=yes';
+	            DLIWindow = window.open( "homepage_copyright.jsp", "copyright", parms );
+	            break;
+	        case "ONE_ACCOUNT":
+	            var theURL  = "http://service.oneaccount.com/pls/plOneSalesDL/online_one_app.new_application";
+	            var winOpts = 'width=909,height=620,resizable=yes,toolbar=no,menubar=no,status=no,scrollbars=yes,top=10,left=10';
+	            var newWin  = window.open( theURL, "directOne", winOpts );
+	            break;
+	        default:
+	            DLIWindow = window.open(tempURL,"",parms);
+	    }
+	    return;
+	}
+
+        
+        
+        
+        
+        
+        
+    </script>
 
     
     
          
-    <script language="JavaScript" src="/generic/js/site-tracker.js" type="text/javascript"></script>
-    <script language="JavaScript" type="text/javascript">
+    <script type="text/javascript" src="/generic/js/site-tracker.js"></script>
+    <script type="text/javascript">
         if ( typeof displayDescription != "undefined") {
-            defaultStatus = "directline:Legal:Data Protection Notice &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <img src='/staticpages/images/security/lock.gif' ></img>";
+            defaultStatus = "";
         }
     </script>
+    <script language="javascript">AC_FL_RunContent = 0;</script>
+    <script src="/generic/js/AC_RunActiveContent.js" language="javascript"></script>
          
        
     
-
-
-<style type="text/css">
-
-html, body {margin: 0; padding: 0;}
-
-
-</style>
-
-<style type="text/css">
-.t {background: url(tb.gif) 0 0 repeat-x; width: 12.8em; height:1.3em;background-color:#cc3333}
-.b {background: url(bb.gif) 0 100% repeat-x;}
-.l {background: url(l.gif) 0 0 repeat-y}
-.r {background: url(r.gif) 100% 0 repeat-y}
-.bl {background: url(blb.gif) 0 100% no-repeat}
-.br {background: url(brb.gif) 100% 100% no-repeat}
-.tl {background: url(tlb.gif) 0 0 no-repeat}
-.tr {background: url(trb.gif) 100% 0 no-repeat; padding:3px;padding-left:8px;padding-bottom:0.4em}
-
-
-.gobutton_t {background: url('/images/homepage/gobutton_tb.gif') 0 0 repeat-x; width: 3.8em; height:1.7em;background-color:#cc3333}
-.gobutton_b {background: url('/images/homepage/gobutton_bb.gif') 0 100% repeat-x;height:1.7em}
-.gobutton_l {background: url('/images/homepage/gobutton_l.gif') 0 0 repeat-y;height:1.7em}
-.gobutton_r {background: url('/images/homepage/gobutton_r.gif') 100% 0 repeat-y;height:1.7m}
-.gobutton_bl {background: url('/images/homepage/gobutton_blb.gif') 0 100% no-repeat;;height:1.7em}
-.gobutton_br {background: url('/images/homepage/gobutton_brb.gif') 100% 100% no-repeat;;height:1.7em}
-.gobutton_tl {background: url('/images/homepage/gobutton_tlb.gif') 0 0 no-repeat;height:1.7em}
-.gobutton_tr {background: url('/images/homepage/gobutton_trb.gif') 100% 0 no-repeat;padding:0em;padding-left:4px;padding-bottom:0.0em;height:1.7em;border:0px solid black;padding-top:0.2em}
-
-
-  div, form {
-    margin:0px;
-    padding:0px;
-  }
-
-
-.width {
-    width:auto;
-    min-width:760px;
-    background: url(greybar_bb.gif) 0 100% repeat-x;
-    border:1px solid green;
-}
-
-.content {
-    border:none;
-    padding:0px;
-
-}
-
-* html .minwidth {
-    padding-left:760px;
-
-}
-
-* html .container {
-    margin-left:-760px;
-    position:relative;
-
-}
-
-/*\*/
-* html .minwidth, * html .container, * html .content, * html .layout  {
-    height:1px;
-}
-/**/
-
-
-</style>
-
-
-
-
-
 </head>
-<body style="background-color:#ffffff;" onload="event_onLoad(); ">
 
 
-<div id="headerSection">
+<body>
+     <div id="main">
+		<div id="body">
+			<div id="content">
+				<div id="content_a">
+					<div id="content_b">
+						<div id="content_c">
+							<!-- Header -->
+							
+
+							
+							
+
+<div id="navigation_1"><ul></ul></div><div id="logo"><a href="/welcome.htm" title="Direct Line Insurance">directline™</a></div>
+
+						
+
+						
+
+<div id="top_right_header_stuff">
 
 
-        <div style="background: url('/images/homepage/greybar_tb.gif') 0 0 repeat-x; width:760px;min-width:760px; height:32px;background-color:#ececec;border:0px solid red;">
-            <div style="width:760px;min-width:760px;height:44px;background: url('/images/homepage/greybar_bb.gif') 0 100% repeat-x">
-<!--<div class="width">-->
-<div class="minwidth">
-<div class="layout">
-<div class="container">
-<div class="content">
-                <div style="border:0px solid red">
-                    <div title="Back to Directline Homepage" style="float:left;height:42px;">
-                        <div style="border:0px solid green;">
-                            <table cellpadding="0" cellspacing="0" border="0" height="100%">
-                                <tbody><tr>
-                                    
-                                    
-                                    
-                                    <td>&nbsp;</td><td><span class="homepagelink">&lt;</span></td><td valign="middle"><a href="http://www.directline.com" class="normal-no-underline"><span class="homepagelink">&nbsp;Home page  </span></a></td>
-                                </tr>
-                            </tbody></table>
-                        </div>
-                    </div>
 
-                    <div style="float:right;padding:0;margin:0;border:0px solid green;height:100%">
-                        <div class="stanza" style="float:left;width:auto;padding:0px solid green;margin:0">
-                                <table cellpadding="1" cellspacing="0" border="0" height="34px">
-                                    <tbody><tr><td valign="bottom">
-                                        <form name="productoptions" action="#" target="_self"><span class="small2">
-                                          <select class="product-select-box" name="productoptions" id="productoptions">
-                                            
-                                            
-                                                    
-                                                         <option label="select a product to view" value="">Select a product to view</option>
-                                                         <option label="Car insurance" value="location.href='/motor/welcome.htm'">Car Insurance</option>
-                                                         <option label="Home insurance" value="location.href='/home/welcome.htm'">Home Insurance</option>
-                                                         <option label="Business Insurance" value="location.href='http://www.directlineforbusiness.co.uk'">Business Insurance</option>
-                                                         <option label="Breakdown cover" value="location.href='/rescue/welcome.htm'">Breakdown Cover</option>
-                                                         <option label="European Breakdown" value="location.href='/european_motoring/welcome.htm'">European Breakdown</option>
-                                                         <option label="Travel Insurance" value="location.href='/travel/welcome.htm'">Travel Insurance</option>
-                                                         <option label="Home emergency" value="location.href='/homeresponse24/welcome.htm'">Home Emergency</option>
-                                                         <option label="Pet insurance" value="location.href='/pet/welcome.htm'">Pet Insurance</option>
-                                                         <option label="Life insurance" value="location.href='/life/welcome.htm'">Life Insurance</option>
-                                                         <option label="Critical Illness" value="location.href='/critical_illness/welcome.htm'">Critical Illness </option>
-                                                         <option label="Van Insurance" value="location.href='/van/welcome.htm'">Van Insurance</option>
-                                                         <option label="Savings" value="location.href='/savings/welcome.htm'">Savings</option>
-                                                         <option label="Loans" value="location.href='/loans/welcome.htm'">Loans</option>
-                                                         <option label="Mortgages" value="location.href='/mortgages/welcome.htm'">Mortgages</option>
+	<div id="phone_number">
 
-                                                    
-                                               
-                                            
-                                          </select></span>
-                                        </form>
-                                    </td></tr>
-                                    <tr><td><img src="/staticpages/images/common/spacer.gif" width="1" height="1" alt=""></td></tr>
-                                </tbody></table>
-                        </div>
+		 
+
+	</div>
+
+	<div id="selectBox">
+
+			<form name="productoptions" action="#" target="_self">
+
+				<select class="product-select-box" name="productoptions" id="productoptions">
+
+					<option label="select a product to view" value="">Select a product to view</option>
+
+					<option label="Car insurance" value="location.href='http://www.directline.com/motor/welcome.htm'">Car insurance</option>
+
+					<option label="Home insurance" value="location.href='http://www.directline.com/home/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/home_insurance_link');">Home insurance</option>
+
+					<option label="Travel insurance" value="location.href='http://www.directline.com/travel/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/travel_insurance_link');">Travel insurance</option>
+
+					<option label="Pet insurance" value="location.href='http://www.directline.com/pet/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/pet_insurance_link');">Pet insurance</option>
+
+					<option label="Landlord insurance" value="location.href='http://www.directlineforbusiness.co.uk/residentialproperty/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/landlord_insurance_link');">Landlord insurance</option>
+
+					<option label="Van insurance" value="location.href='http://www.directline.com/van/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/van_insurance_link');">Van insurance</option>
+
+					<option label="Breakdown cover" value="location.href='http://www.directline.com/rescue/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/breakdown_cover_link');">Breakdown Cover</option>
+
+					<option label="Business Insurance" value="location.href='http://www.directlineforbusiness.co.uk'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/business_insurance_link');">Business Insurance</option>
+
+					<option label="Life and Over 50's insurance" value="location.href='http://www.directline.com/life/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/life_over50s_insurance_link');">Life and Over 50's insurance</option>
+
+					<option label="Devitt Motorcycle insurance" value="location.href='http://www.directline.com/devitt/devitttransfer.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/devitt_motorcycle_insurance_link');">Devitt Motorcycle insurance</option>
+
+					<option label="Tradesman insurance" value="location.href='http://directlineforbusiness.co.uk/tradesman/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/tradesman_insurance_link');">Tradesman insurance</option>
+
+					<option label="Home Response 24" value="location.href='http://www.directline.com/homeresponse24/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/hr24_link');">Home Response 24</option>
+
+					<option label="Critical Illness" value="location.href='http://www.directline.com/critical_illness/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/criticall_illness_link');">Critical Illness</option>
+
+					<option label="European Breakdown" value="location.href='http://www.directline.com/european_motoring/welcome.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/european-breakdown_link');">European Breakdown</option>
+
+					<option label="Private Health insurance" value="location.href='http://www.directline.com/life/private-health.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/private_health_insurance_link');">Private Health insurance</option>
+
+					<option label="SELECT insurance" value="location.href='http://www.directline.com/select/select.htm'" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/select_insurance_link');">SELECT insurance</option>
+
+				</select>
+
+				<span id="go"><a title="Select a product to view" alt="Select a product to view" href="javascript:doSel();"> GO </a></span>	
+
+			</form>
 
 
-                        <div style="float:left;border:0px solid black;">
-                                <table cellpadding="0" cellspacing="0" border="0" height="34px" style="padding-bottom:5px;padding-left:2px;">
-                                    <tbody><tr><td valign="bottom">
-                                        <div class="gobutton_t">
-                                            <div class="gobutton_b">
-                                                <div class="gobutton_l">
-                                                    <div class="gobutton_r">
-                                                        <div class="gobutton_bl">
-                                                            <div class="gobutton_br">
-                                                                <div class="gobutton_tl">
-                                                                    <div class="gobutton_tr">
-                                                                        <a title="select a product to view, go button" href="javascript:doSel();" class="normal-no-underline"><div class="whiteboldmedium">GO &gt;</div></a>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </td></tr>
-                                </tbody></table>
-                        </div>
-                    </div>
 
-                </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!--            </div>-->
-        </div>
-
-
-          
-    
-    
-
-
-    <div id="advertHolder">
-         <div id="logo" title="Direct Line Insurance plc">
-            <p style="bottom:0;left:0;margin:0;padding:0">
-                
-                
-                
-                <a href="http://www.directline.com">
-                     <img src="/generic/images_sp/dllogo.gif" width="226px" height="71px" border="0" alt="">
-                </a>
-            </p>
-         </div>
-
-         
-         
-               
-                 <div style="position:relative;width:518;padding:0;padding-left:10px;margin:0;float:left;height:75px"><table style="height:75px;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="vertical-align:bottom;"><h1 style="display:inline;padding:0;margin:0;bottom:0">Legal:</h1>&nbsp;&nbsp;<span class="pageTitle">Data Protection Notice &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <img src="/staticpages/images/security/lock.gif"></span></td></tr></tbody></table></div>
-               
-            
-         
-
-   </div>
-</div>
-
-<!--
-<div style="position:relative;clear:both;width:772;border:1px solid #000000;height:20px;">&nbsp;
-</div>
--->
-<div style="clear:both;">
-
-<table width="772" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-     <td colspan="3"><img src="/staticpages/images/common/spacer.gif" width="1" height="10" alt=""></td>
-  </tr>
-</tbody></table>
-</div>
-<div id="outer" style="min-height:100%;">
-<table border="0" cellpadding="0" cellspacing="0" width="auto">
-<tbody><tr>
-<td valign="top">
-<div style="width:240px;">
-<table width="240px" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" align="right"><table cellpadding="0" cellspacing="0" border="0" width="240">
-          <tbody><tr><td style="font-size:0;padding:0;margin:0;">
-        <div style="postion: relative; top:-1px;"><img src="/staticpages/images/common/border.gif" alt="" border="0" height="1" width="240"></div>
-      </td>
-    </tr>
-    <tr>
-          
-    
-    
-        
-    
-
-        <td align="left" style="width:240;" valign="top">
-
-<div id="sideNavigation" style="width: 240;">
-    
-        <ul style="margin-left:0;padding-left:0">
-            
-            
-                 <li class="txtNavigationNonLive">
-                    
-
-                
-                
-                <div style="width:240px;height:15px;"><div style="float:left;height:15px;"><img src="/staticpages/images/common/spacer.gif" height="1" width="20" alt=""><a href="/legal/terms.htm" target="_self" class="txtNavigationNonLive">
-                    
-
-                Website terms of use</a></div><div style="float:right;padding-right:5px;padding-top:5px;height:15px;">
-
-                <img src="/staticpages/images/common/arrow.gif" alt="" height="7" width="5" 0"=""></div></div>
-
-
-                
-                        </li>
-                
-
-
-                
-
-        
-
-        
-            
-                 <li class="txtNavigationNonLive">
-                    
-
-                
-                
-                <div style="width:240px;height:15px;"><div style="float:left;height:15px;"><img src="/staticpages/images/common/spacer.gif" height="1" width="20" alt=""><a href="/legal/security.htm" target="_self" class="txtNavigationNonLive">
-                    
-
-                Security and privacy</a></div><div style="float:right;padding-right:5px;padding-top:5px;height:15px;">
-
-                <img src="/staticpages/images/common/arrow.gif" alt="" height="7" width="5" 1"=""></div></div>
-
-
-                
-                        </li>
-                
-
-
-                
-
-        
-
-        
-            
-                 <li class="txtNavigationNonLive">
-                    
-
-                
-                
-                <div style="width:240px;height:15px;"><div style="float:left;height:15px;"><img src="/staticpages/images/common/spacer.gif" height="1" width="20" alt=""><a href="/legal/fraud.htm" target="_self" class="txtNavigationNonLive">
-                    
-
-                Fraud</a></div><div style="float:right;padding-right:5px;padding-top:5px;height:15px;">
-
-                <img src="/staticpages/images/common/arrow.gif" alt="" height="7" width="5" 2"=""></div></div>
-
-
-                
-                        </li>
-                
-
-
-                
-
-        
-
-        
-            
-                 <li class="txtNavigationNonLive">
-                    
-
-                
-                
-                <div style="width:240px;height:15px;"><div style="float:left;height:15px;"><img src="/staticpages/images/common/spacer.gif" height="1" width="20" alt=""><a href="/legal/transferofbusiness/welcome.htm" target="_self" class="txtNavigationNonLive">
-                    
-
-                Transfer of business</a></div><div style="float:right;padding-right:5px;padding-top:5px;height:15px;">
-
-                <img src="/staticpages/images/common/arrow.gif" alt="" height="7" width="5" 3"=""></div></div>
-
-
-                
-                        </li>
-                
-
-
-                
-
-        
-
-        
-
-        </ul>
-        
+	</div>
 
 </div>
 
+						
+
+						<div id="navigation_2" class="site_map"><ul>
+<li id="navigation_2_item0"><a href="/motor/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/car_insurance_information_link');" title="Car Insurance">Car</a></li>
+<li id="navigation_2_item1"><a href="/home/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=topnav/home/home_getquote_link');" title="Home Insurance">Home</a></li>
+<li id="navigation_2_item2"><a href="/travel/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/travel_insurance_link');" title="Travel Insurance">Travel</a></li>
+<li id="navigation_2_item3"><a href="/pet/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/pet_insurance_link');" title="Pet Insurance">Pet</a></li>
+<li id="navigation_2_item4"><a href="/rescue/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/breakdown_cover_link');" title="Breakdown Cover">Breakdown</a></li>
+<li id="navigation_2_item5"><a href="/select/select.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/select_insurance_link');" title="SELECT from Direct Line Insurance">Select</a></li>
+<li id="navigation_2_item6"><a href="http://www.directlineforbusiness.co.uk/residentialproperty/welcome.htm" target="_blank" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/landlord_insurance_link');" title="Landlord Insurance">Landlord</a></li>
+<li id="navigation_2_item7"><a href="/van/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/van_insurance_link');" title="Van Insurance">Van</a></li>
+<li id="navigation_2_item8"><a href="http://www.directlineforbusiness.co.uk" target="_blank" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/z1/directline_for_business_link');" title="Business Insurance">Business</a></li>
+</ul></div>
 
 
-        </td>
-        </tr>
-      </tbody></table>
-    </td>
-   </tr>
-</tbody></table>
+
+							
+		                                        <div id="content_inner_one_column" class="car_page no_publicity_group">
+                    <p id="nav_info">You are here:  <a href="/welcome.htm">Home page</a> &gt; <strong>Data Protection Notice</strong> </p>
+
+
+
+							
+							    
+					                    
+<div id="navigation_3">
+	<div id="navigation_3_a">
+       <ul id="main_menu" class="not_dyn">
+          <li id="main_menu_car" class="head">
+              <div class="head_menu">
+                  <a href="/welcome.htm" title="Our website">Our website</a>
+              </div>
+<div class="inner_menu_bg_top"></div>
+ <ul>
+   <li class="not_parent"> 
+      <div class="sub_menu_header"><a href="/legal/terms.htm" title="Terms of use">Terms of use</a></div>
+   </li>
+<li class="not_parent">
+<div class="get_links">
+  <div class="get_links_a">
+    <ul>
+       <li class="get_a_quote"><a href="/legal/security.htm" title="Security and privacy">Security and privacy</a></li>
+       <li class="get_a_quote"><a href="/accessibility/welcome.htm" title="Accessibility">Accessibility</a></li>
+    </ul>
+  </div>
 </div>
-</td><td>
-<div id="inner" style="border-left:1px solid #cccccc;height:100%;">
-      <table width="508" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-            
-          <td valign="top" align="left" rowspan="6"><img src="/staticpages/images/common/spacer.gif" height="1" width="12" alt=""></td>
-          <td valign="bottom"><img src="/staticpages/images/common/border.gif" width="508" height="1" alt=""></td>
-        </tr>
-        <tr>
-          <td align="right" style="background-color:#e6e6e6;">
-            
-              <img src="/staticpages/images/common/spacer.gif" height="28" width="1" alt="">
-            
-          </td>
-        </tr>
-        <tr>
-           <td valign="bottom"><img src="/staticpages/images/common/border.gif" width="508" height="1" alt=""></td>
-        </tr>
-        <tr><td>
-            <table cellspacing="0" cellpadding="0" border="0">
-            <tbody><tr><td><table cellspacing="0" cellpadding="0" border="0">
-        
-        
-            <tbody><tr>
-              <td class="txtGenSmallNine"><script language="javascript" type="text/javascript" src="/lingabot/lingabot.js"></script><script language="JavaScript" src="/touchclarity/logging.js"></script><br>
+</li>
+<li class="not_parent"><div><a href="/legal/transferofbusiness/welcome.htm" title="Transfer of business">Transfer of business</a></div></li><li class="not_parent"><div><a href="/copyright.htm" title="Copyright">Copyright</a></div></li><li class="not_parent"><div><a href="/sitemap/map.htm" title="Site map">Site map</a></div></li></ul></li></ul></div></div>
 
-<h2>Introduction</h2>
 
-<h3>How your personal information is used:</h3>
 
-<p><br>
+
+
+
+							<div id="column_inside_column_1"><div class="content_inner_a text_t inner_one_column">
+
+							 <div class="text_tl"></div><div class="text_tr"></div>
+							 <div class="block_b">
+							   <div class="block_l">
+							     <div class="block_r">
+							       <div class="block_inner">
+							         <div class="block_inner_top_header">
+							           <div class="block_inner_header increase_header_top_margin">
+<h1 class="side_link side_link_whole_width">Data Protection Notice</h1>
+</div> <!-- block inner -->
+</div>
+</div>
+  <div class="block_inner">
+    <div class="block_content">
+<img src="/images/security/lock.gif" class="floatright">
+<br>
+<h2>How your personal information is used:</h2>
+
+<p>
 <a title="Who we are" href="#Who_We_are">Who we are</a><br>
 <a title="Your electronic information" href="#Your_Information">Your electronic information</a><br>
 <a title="How we use your information and who we share it with" href="#How_we_use_your_information_and_who_we_share_it_with">How we use your information and who we share it with</a><br>
+<a title="Where Motor Insurance Provided" href="#where_motor_insurance_provided">Where Motor Insurance Provided</a><br>
 <a title="Sensitive information" href="#Sensitive_Information">Sensitive information</a><br>
 <a title="Dealing with other people" href="#Dealing_with_other_people">Dealing with other people</a><br>
+<a title="Credit Reference Agencies" href="#credit_reference_agencies">Credit Reference Agencies</a><br>
 <a title="Fraud prevention agencies" href="#Fraud_prevention_agencies">Fraud prevention agencies</a><br>
+<a title="Website Wording" href="#website_wording">Website Wording</a><br>
 </p>
 
 <h2><a name="Who_We_are"></a>Who we are</h2>
 
-<p><br>
-Direct Line Insurance plc and Direct Line Life Insurance Company Limited are both members of the Royal Bank of Scotland Group (The Group).</p>
+<p>Direct Line Insurance plc and Direct Line Life Insurance Company Limited are members of The Royal Bank of Scotland Group (The Group). In this Information statement ‘we’ ‘us’ and ‘our’ refers to Direct Line Insurance plc and Direct Line Life Insurance Company Limited unless otherwise stated.</p>
 
-<p>For information about our Group of companies please visit <a title="www.rbs.com (opens in a new window)" href="http://www.rbs.com/" target="_blank">www.rbs.com</a> and click on ‘About Us’, or for similar enquiries please telephone 0131 556 8555 or Textphone 0845 900 5960.</p>
+<p>For information about our group of companies please visit <a title="www.rbs.com (Opens in a new browser)" href="http://www.rbs.co.uk/" target="_blank">www.rbs.com</a> and click on ‘About Us’, or for similar enquiries please telephone 0131 556 8555 or Textphone 0845 900 5960.</p>
 
-<p><a title="Back to top" href="#Top"><strong>Back to top</strong></a></p>
+<h2><a name="Your_Information"></a>Your electronic information </h2>
 
-<h2><a name="Your_Information"></a>Your electronic information</h2>
-
-<br>
-If you contact us electronically, we may collect your electronic identifier e.g. Internet Protocol (IP) address or telephone number supplied by your service provider.<br>
-<p><br>
-<a title="Back to top" href="#Top"><strong>Back to top</strong></a><br>
-</p>
+<p>If you contact us electronically, we may collect your electronic identifier e.g. Internet Protocol (IP) address or telephone number supplied by your service provider.</p>
 
 <h2><a name="How_we_use_your_information_and_who_we_share_it_with"></a>How we use your information and who we share it with</h2>
 
-<p><br>
-We will use your information to manage your insurance policy, including underwriting and claims handling. This may include disclosing it to other insurers, third party underwriters and reinsurers.</p>
+<p>We will use your information to manage your insurance policy, including underwriting and claims handling. This may include disclosing it to other insurers, third party underwriters and reinsurers.</p>
 
-<p>Your information includes data about your transactions.</p>
+<p>Your information comprises of all the details we hold about you and your transactions and includes information obtained from third parties.</p>
 
-<p>We may use and share your information with other members of the Group to help us and them:</p>
-
-<ul>
-<li>
-<div>assess financial and insurance risks;</div>
-</li>
-
-<li>
-<div>recover debt;</div>
-</li>
-
-<li>
-<div>prevent and detect crime;</div>
-</li>
-
-<li>
-<div>understand our customers’ requirements;</div>
-</li>
-
-<li>
-<div>develop our services, systems and relationships with you;</div>
-</li>
-
-<li>
-<div>develop and test products and services.<br>
-</div>
-</li>
+<p>We may use and share your information with other members of the Group to help us and them:</p><p>
+</p><ul>
+<li>assess financial and insurance risks;</li>
+<li>recover debt;</li>
+<li>prevent and detect crime;</li>
+<li>develop our services, systems and relationships with you;</li>
+<li>understand our customers’ requirements;</li>
+<li>develop and test products and services.</li>
 </ul>
 
 <p>We do not disclose your information to anyone outside the Group except:</p>
 
-<ul>
-<li>
-<div>Where we have your permission; or</div>
-</li>
+<p>Where we have your permission; or<br>
+where we are required or permitted to do so by law; or<br>
+to credit reference and fraud prevention agencies and other companies that provide a service to us or you; or<br>
+where we may transfer rights and obligations under this agreement.</p>
 
-<li>
-<div>where we are required or permitted to do so by law; or</div>
-</li>
-
-<li>
-<div>to other companies who provide a service to us or you; or</div>
-</li>
-
-<li>
-<div>where we may transfer rights and obligations under this agreement.</div>
-</li>
-</ul>
-
-<p><br>
-We may transfer your information to other countries. If we do this we will ensure that anyone to whom we pass it provides an adequate level of protection.</p>
+<p>We may transfer your information to other countries on the basis that anyone to whom we pass it provides an adequate level of protection. However, such information may be accessed by law enforcement agencies and other authorities to prevent and detect crime and comply with legal obligations.</p>
 
 <p>From time to time we may change the way we use your information. Where we believe you may not reasonably expect such a change we shall write to you. If you do not object to the change within 60 days, you consent to that change.</p>
 
-<p><a title="Back to top" href="#Top"><strong>Back to top</strong></a></p>
+<h2><a name="where_motor_insurance_provided"></a>Where Motor Insurance Provided</h2>
 
-<h2><a name="Sensitive_Information"></a>Sensitive information</h2>
+<p>We are also required to supply motor insurance policy details to the Motor Insurance Database (MID) run by the Motor Insurers Information Centre (MIIC) to which the Police, DVLA/DVANI (Driver and Vehicle Licensing Agencies) and other insurers have access. Law enforcement agencies may access and use this information.</p>
 
-<p><br>
-Some of the personal information we ask you for may be sensitive personal data, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions) We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents.</p>
+<h2><a name="Sensitive_Information"></a>Sensitive Information</h2>
 
-<p>You will have been asked to agree to this when you called but please ensure that you only provide us with sensitive information about other people with their agreement.<br>
-</p>
+<p>Some of the personal information we ask you for may be sensitive personal data, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions). We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents.</p>
 
-<p><a title="Back to top" href="#Top"><strong>Back to top</strong></a></p>
+<p>You will have been asked to agree to this when you first contacted us but please ensure that you only provide us with sensitive information about other people with their agreement.</p>
 
 <h2><a name="Dealing_with_other_people"></a>Dealing with other people</h2>
 
-<p><br>
-It is our policy to deal with your spouse or partner who calls us on your behalf, provided they are named on the policy. If you would like someone else to deal with your policy on your behalf on a regular basis please let us know. In some exceptional cases we may also deal with other people who call on your behalf, with your consent. If at any time you would prefer us to deal only with you, please let us know. (For Life Insurance policies we will usually only deal with you in connection with your policy).</p>
+<p>It is our policy to deal with your spouse or partner who calls us on your behalf, provided they are named on the policy.  If you would like someone else to deal with your policy on your behalf on a regular basis please let us know.  In some exceptional cases we may also deal with other people who call on your behalf, with your consent. If at any time you would prefer us to deal only with you, please let us know.</p>
 
-<p><a title="Back to top" href="#Top"><strong>Back to top</strong></a></p>
+<h2><a name="credit_reference_agencies"></a>Credit Reference Agencies</h2>
 
-<h2><a name="Fraud_prevention_agencies"></a>Fraud prevention agencies</h2>
+<p>To assess your insurance application and the terms on which cover may be offered, we may obtain information about you from credit reference agencies to check your credit status and identity. The agencies will record our enquiries. This will not affect your credit standing.</p>
 
-<p><br>
-If false or inaccurate information is provided and fraud is identified or suspected, details may be passed to fraud prevention agencies.</p>
+<h2><a name="Fraud_prevention_agencies"></a>Fraud prevention and detection</h2>
 
+<p>Please take time to read the following as it contains important information relating to the details you have given or should give to us. You should show this notice to anyone whose data has been supplied to us in connection with your policy.</p>
+
+<p>To prevent and detect fraud we may at any time:</p>
+
+<p>Share information with other organisations and public bodies including the police although we only do so in compliance with the Data Protection Act 1998</p>
+
+<p>Check and/or file details with fraud prevention agencies and databases and if we are given false or inaccurate information and we identify fraud, we will record this. We and other organisations may also use and search these agencies and databases from the UK and other countries to:</p>
+<ul>
+<li>help make decisions about the provision and administration of insurance, credit and related services for you and members of your household:</li>
+<li>trace debtors or beneficiaries, recover debt, prevent fraud, and to manage your accounts or insurance policies; or</li>
+<li>check your identity to prevent money laundering, unless you provide us with other satisfactory proof of identity</li>
+</ul>
 <p>Law enforcement agencies may access and use this information.</p>
 
 <p>We and other organisations may also access and use this information to prevent fraud and money laundering, for example when:</p>
 
-<p>Checking applications for, and managing credit and other facilities and recovering debt;<br>
-Checking insurance proposals and claims;<br>
-Checking details of job applicants and employees.</p>
+<ul>
+<li>Checking applications for, and managing credit and other facilities and recovering debt;</li>
+<li>Checking insurance proposals and claims;</li>
+<li>Checking details of job applicants and employees.</li>
+</ul>
 
 <p>We, and other organisations that may access and use information recorded by fraud prevention agencies, may do so from other countries.</p>
 
 <p>We can provide the names and addresses of the agencies we use if you would like a copy of your information held by them. Please contact us at the address below. The agencies may charge a fee.</p>
 
-<p>If you would like a copy of the information we hold about you, please write to: The Data Protection Officer, Regulatory Risk Department, Churchill Court, Westmoreland Road, Bromley BR1 1DP quoting your reference. A fee may be payable.<br>
-<br>
+<p>If you would like a copy of the information we hold about you, please write to: The Data Protection Officer, Regulatory Risk Department, Churchill Court, Westmoreland Road, Bromley BR1 1DP quoting your reference. A fee may be payable.</p>
+
+<h2><a name="website_wording"></a>Website</h2>
+
+<h3>Security</h3>
+
+<p>Any personal data saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially. For further information regarding our security provisions please see our note titled Further Security.</p>
+
+<h3>Cookies</h3>
+
+<p>Please note that we use "Cookies" on the Site. A cookie is a software application that tracks our users' navigation of the Site and stores that information on their hard drives. This allows us to understand our users' habits and preferences which enables us to customise our services for our users to provide an enhanced user experience. We may, for example, use cookies to store registration information so that you do not have to provide it to us on subsequent visits.</p>
+
+<h3>Further Security</h3>
+
+<p>We take security very seriously and we use one of the strongest available security systems to protect your communications with us. Whenever you fill in a form, such as a request for a quote, it is automatically protected using something called a Secure Socket Layer (SSL) between your computer and ours. SSL works in the following ways:</p>
+
+<ul>
+<li>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on either the padlock or the image opposite will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.*</li>
+<li>It encrypts data - as soon as your computer has recognised our computer they encrypt all information that is passed between them. Data encryption means that no one else can read or change your information as it travels over the Internet.</li>
+<li>It prevents scrambling - SSL uses a Message Authentication Code (MAC) to prevent anyone tampering with our Internet site. Your computer will always check this code before it takes a message from us. This means that if anyone tried to interfere with a message, your computer would not recognise the code and would alert you.</li>
+
+<p>*There are two minor problems with Microsoft Internet Explorer. Neither problem has any effect on the actual security in force, but may make it appear to you as if it is not fully secure.<br>
+Internet Explorer 4. The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is at <a title="http://support.microsoft.com/support/kb/articles/Q154/6/21.asp (opens in a new browser)" href="http://support.microsoft.com/support/kb/articles/Q154/6/21.asp" target="_blank">http://support.microsoft.com/support/kb/articles/Q154/6/21.asp</a>.</p>
+
+<p>Internet Explorer 5. If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is at <a title="http://support.microsoft.com/support/kb/articles/Q233/4/79.asp (opens in a new browser)" href="http://support.microsoft.com/support/kb/articles/Q233/4/79.asp" target="_blank">http://support.microsoft.com/support/kb/articles/Q233/4/79.asp</a>.</p>
+    </ul></div>
+  </div>
+
+
+							    	  </div>
+							    	   <div class="block_bl"></div><div class="block_br"></div>
+							     </div>
+							   </div>
+							 </div>
+							 <div id="text_1">&nbsp;</div>
+</div>
+
+							 
+							 
+
+							
+							
+							 </div>
+
+							    <!-- test end -->
+
+							    <!-- footer -->
+							    
+							    
+						
+
+							    
+
+
+						           
+
+					                    
+					                    
+	
+	
+
+	
+
+
+<!-- Footer -->
+
+
+
+	
+		<div id="site_map_a">
+			<div id="site_map_b">
+				<div id="site_map_c">
+	
+	
+	
+	<div id="site_map_products">
+<div class="product_list_container">
+<div class="product_list first_list single"><div class="product_list_b">
+<h2>Other Products</h2>
+<p>Find out more about other great deals with Direct Line</p>
+<p><a href="/life/private-health.htm">Private Health</a><br>
+
+<a href="/life/welcome.htm" title="Life">Life</a> and <a href="/over50scover/welcome.htm" title="Over 50s>Over 50s</a><br />
+
+<a href=" critical_illness="" welcome.htm"="">Critical Illness</a><br>
+
+<a href="/european_motoring/welcome.htm" title="European Breakdown">European Breakdown</a><br>
+
+<a href="/devitt/devitttransfer.htm" title="Devitts Motorcycle Insurance">Devitts Motorcycle Insurance</a><br>
+</p></div></div>
+<div class="product_list  single"><div class="product_list_b">
+<h2>"How to" videos</h2>
+<p>Keep your home in good shape with these handy <a href="/home/tommy-walsh-videos.htm">tips and advice</a> from Tommy Walsh.</p>
+
+<p><a href="/home/tommy-walsh-videos.htm"><img class="centreimage" src="/images/home/DL_tommy.jpg" title="Watch our useful tips and advice on home maintenance presented by Tommy Walsh">
+</a></p>
+</div></div>
+<div class="product_list  single"><div class="product_list_b">
+<h2>Direct Line TV Ads</h2>
+<p>Take a look at our latest hilarious
+<a href="/about_us/adverts.htm" title="TV adverts">TV adverts</a>.</p>
+<br><p>
+<a href="/about_us/adverts.htm" title="Our TV advert">
+<img class="centreimage" src="/images/adverts/adverts-motor-footer.jpg" title="Why not take a look at our hilarious new TV advert?">
+</a>
 </p>
+</div></div>
+<div class="product_list last_list single"><div class="product_list_b">
+<h2>Information</h2>
+<p><a href="/call_us/call_us.htm" title="Call us">Call us</a><br>
 
-<p><a title="Back to top" href="#Top"><strong>Back to top</strong></a></p>
-                  
-              </td>
-            </tr>
-        
-        
-              <tr><td>&nbsp;</td></tr>
-              </tbody></table></td></tr>
-            </tbody></table>
-        </td></tr>
-        <tr>
-          <td style="background-color:#e6e6e6;">
-            <table cellpadding="0" cellspacing="0" border="0" width="100%">
-              <tbody><tr>
-                    <td colspan="2" valign="bottom"><img src="/staticpages/images/common/border.gif" width="100%" height="1" alt=""></td>
-              </tr>
-              <tr>
-                  <td style="white-space:nowrap;">
-                    <b></b>
-                  </td>
-                  <td align="right">
-                    
+<a href="/about_us/welcome.htm" title="About us">About us</a><br>
 
-                    
-                      <img src="/staticpages/images/common/spacer.gif" height="28" width="1" border="0" alt=""> 
-                    
-                  </td>
-              </tr>
-              <tr>
-                  <td colspan="2" valign="top"><img src="/staticpages/images/common/border.gif" width="508" height="1" alt=""></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr><td><br></td></tr>
-      </tbody></table>
-</div>
-</td>
-</tr>
-<tr>
-<td style="margin:0px;padding:0px;height:0px">
-	<div style="position:relative;clear:both;width:200;border:0px solid #ffffff;height:0px;margin:0px;padding:0px;">&nbsp;
-</div>
-</td>
-<td style="margin:0px;padding:0px;height:0px;border-left:1px solid #cccccc;">
-	<div style="position:relative;clear:both;width:572;border:0px solid #ffffff;height:0px;margin:0px;padding:0px;">&nbsp;
-</div>
-</td>
-</tr>
+<a href="javascript:openWin();" title="FAQs">FAQs</a><br>
+
+<a href="/motor/features.htm" title="Car tips and advice">Car tips and advice</a><br>
+
+<a href="/home/tipsadvicehome.htm" title="Home tips and advice">Home tips and advice</a><br>
+
+<a href="/travel/tips_advice_travel.htm" title="Travel tips and advice">Travel tips and advice</a><br>
+
+<a href="/pet/tips_advice_pet.htm" title="Pet tips and advice">Pet tips and advice</a><br>
+
+<a href="/rescue/archive.htm" title="Breakdown tips and advice">Breakdown tips and advice</a><br>
+
+<a href="/van/van-advice.htm" title="Van tips and advice">Van tips and advice</a><br>
+</p></div></div>
+<div style="clear: both; width: 100%;"></div>
+</div> <!-- end of row title -->
+
+		
+		</div>
+			</div>
+				</div>
+					</div>
+
+
+
+<div id="site_map_footer">
+
+<ul><li><a class="footerLink" title="Call us" href="/call_us/call_us.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/footer/call_us_link');" target="_self">Call us&nbsp;</a></li><li><a class="footerLink" title="Site map" href="/sitemap/map.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/footer/site_map_link');" target="_self">Site map</a></li>
+<li><a class="footerLink" title="Feedback link - opens in a new browser" href="javascript:openWin();" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/footer/ask_us_a_qusetion_link');" target="_blank">Ask us a question</a></li>
+<li><a class="footerLink" title="Accessibility" href="/accessibility/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=allpages/footer/accessibility');" target="_self">Accessibility</a></li>
+<li><a class="footerLink" title="Security and Privacy" href="/legal/security.htm" onclick="SiTrackTracer('/si/event/tracklink','id=general-footer/footer/security_and_privacy_link');" target="_self">Security and Privacy</a></li>
+<li><a class="footerLink" title="Legal" href="/legal/terms.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/footer/legal_link');" target="_self">Legal</a></li>
+<li><a class="footerLink" title="About us" href="/about_us/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/footer/about_us_link');" target="_self">About us</a></li>
+<li><a class="footerLink" title="Jobs" href="/about_us/jobs.htm" onclick="SiTrackTracer('/si/event/tracklink','id=homepage/footer/jobs_link');">Jobs</a></li>
+<li><a class="footerLink" title="RBS Insurance copyright - opens in a new browser" href="javascript:openNewWindowURL('COPYRIGHT','link3007')" onclick="window.open('/copyright.htm', 'window_name', 'width=600,height=130,scrollbars=no,left='+(screen.width - 620)+',top='+(screen.height - 190)+',status=yes'); return false" "="" target="_self">© 1999-2011 RBS Insurance Services Ltd</a></li>
 
 
 
 
+	
 
 
 
-<tr>
-<td>
- <div style="width:240;height:25px;border:1px solid #cccccc;border-style:solid none solid none;padding:0;margin:0;"><table width="240" border="0" cellspacing="0" cellpadding="0" height="22px"><tbody><tr><td width="240">
-    <ul style="margin:0;padding:0;padding-top:4px;list-style: none;float:left;"><li style="display: inline;font-size:1em;">&nbsp;&nbsp;&nbsp;<a class="footerLink" title="Site map" href="/sitemap/map.htm" onclick="SiTrackTracer('/si/event/tracklink','id=allpages/footer/site-map');" target="_self">Site map&nbsp;</a></li><li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="Feedback" href="http://faqs.directline.com/templates/directline/seo/contactPage" onclick="window.open('http://faqs.directline.com/templates/directline/seo/contactPage', 'mfwin', 'width=720, height=690, screenX=15, screenY=10, left=20, scrollbars=no, resizable=yes'); return false" target="_blank">Feedback</a></li>
-<li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;font-size:1em;"><a class="footerLink" title="Accessibility" href="/accessibility/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=allpages/footer/accessibility');" target="_self">Accessibility</a></li>
-</ul></td></tr></tbody></table></div></td><td><div style="height:25px;border:1px solid #cccccc;border-style:solid none solid solid;padding:0;margin:0"><table width="508" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="width:12px"><img src="/staticpages/images/common/spacer.gif" height="1" width="12" alt=""></td><td style="width:496px"><ul style="margin:0;padding:0;padding-top:4px;list-style: none;float:left;"><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="Security and Privacy" href="/legal/security.htm" onclick="SiTrackTracer('/si/event/tracklink','id=allpages/footer/security-and-privacy');" target="_self">Security and Privacy</a></li>
-<li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="Legal" href="/legal/terms.htm" onclick="SiTrackTracer('/si/event/tracklink','id=allpages/footer/legal');" target="_self">Legal</a></li>
-<li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="About us" href="/about_us/welcome.htm" onclick="SiTrackTracer('/si/event/tracklink','id=allpages/footer/about-us');" target="_self">About us</a></li>
-<li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="copyright link (opens in new window)" href="/copyright.htm" onclick="window.open('/copyright.htm', 'window_name', 'width=600,height=130,scrollbars=no,left='+(screen.width - 620)+',top='+(screen.height - 190)+',status=yes'); return false" target="_self">© 1999-2010 RBS Insurance Services Ltd</a></li>
-
-    
-</ul></td></tr></tbody></table></td></tr></tbody></table><table>
+</ul><div id="fineprint"><p></p><p>Direct Line Insurance plc is authorised and regulated by the 
+Financial Services Authority. Registered office: Direct Line House, 
+3 Edridge Road, Croydon, Surrey, CR9 1AG. Registered no. 1810801. 
+The Financial Services Authority's Register can be accessed through 
+<a title="http://www.fsa.gov.uk/Pages/register/" target="_blank" href="http://www.fsa.gov.uk/Pages/register/">www.fsa.gov.uk/Pages/register/</a>
+</p><p></p></div></div>
 
 
 
 
 
-</table>
+                                                           
 
-    
-    
-         
+</div></div></div></div></div></div>
+
             <script language="javascript">
-                SiTrackTracer("/pagedescription.gif","pagedesc=Legal:Data Protection Notice &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <img src='/staticpages/images/security/lock.gif' ></img>");
+                SiTrackTracer("/pagedescription.gif","pagedesc=ignore");
                 SiTrackTracer("/brand.gif","brandname=directline");
             </script>
-         
-       
-    
 
 
 
-
-    <!-- End CDATA tag -->
-</div></td></tr></tbody></table></div></body></html>
+</body></html>
