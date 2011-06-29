@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundtripmissions.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227085927id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundtripmissions.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629201916id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Help & Info
 
@@ -66,7 +66,7 @@ CTI offers free services such as "e-mail this page" and e-cards. We collect the 
 Other Entities  
 Companies that are independent from CTI operate many of the online areas that you may visit via links from ChristianityToday.com. Although CTI will seek to require that these independent companies (e.g., information and paid subscription service providers, advertisers, merchants, and contest or sweepstakes sponsors) adhere to our strong privacy principles, CTI does not bear responsibility for their policies or actions. Please read their unique site privacy policies.
 
-Certain CTI Internet services and websites are co-branded (such as [ChurchSiteCreator.com](http://churchsitecreator.com/templates/cuscti/default.asp?id=27256) and [Faith in the Workplace](https://web.archive.org/workplace/)) and offered in conjunction with another company. If you register to use such services or subscribe to their e-mail newsletter, both CTI and the other company may receive the information you provide.
+Certain CTI Internet services and websites are co-branded (such as [ChurchSafety.com](http://www.churchsafety.com/)) and offered in conjunction with another company. If you register to use such services or subscribe to their e-mail newsletter, both CTI and the other company may receive the information you provide.
 
 Many CTI online stores are hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you access one of these stores through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
 
@@ -80,7 +80,7 @@ Cookies are a technology that helps us serve you better. Our cookies collect no 
 Information for Children and Parents
 
 Kids and Teens  
-Be sure to ask your parents for permission before sending us any information about yourself. If you are under 18, you must have your parents' or guardian's permission to order any products or services from us. If you are under the age of 13, do not use our chat and message boards. If you are between the ages of 13 and 18, you may use our Teen message boards, but never post your full name, address, phone number, or school name on any message board or in any chat room.
+Be sure to ask your parents for permission before sending us any information about yourself. **_If you are under 18, you must have your parents' or guardian's permission to order any products or services from us._** If you are under the age of 13, do not use our chat and message boards. If you are between the ages of 13 and 18, you may use our Teen message boards, but never post your full name, address, phone number, or school name on any message board or in any chat room.
 
 Parents  
 CTI's Internet sites are general audience sites, and CTI does not knowingly collect personally identifiable information from children under the age of 13. Any information collected online by CTI from children under 18 is used only for the purpose of delivering the requested product or service. Please instruct your children to ask you for permission before providing any information about themselves to CTI, and visit the [Federal Trade Commission website](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) for more information about safe Web surfing.
@@ -88,17 +88,16 @@ CTI's Internet sites are general audience sites, and CTI does not knowingly coll
 How to Update Your Information
 
 E-mail Newsletters  
-You may subscribe and unsubscribe to our newsletters by going to [http://myaccount.christianitytoday.com/](https://secure2.christianitytoday.com/myaccount/?page=newsletters). In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
+You may subscribe and unsubscribe to our newsletters by going to [http://myaccount.christianitytoday.com/](https://web.archive.org/myaccount/?page=newsletters). In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
 
 Magazines, Products or Services  
 Upon request, we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Choose an option below:
 
-  * Magazines: go to [this page](http://www.christianitytoday.com/help/features/contact.html#mag) and click on the appropriate magazine
+  * Magazines: go to [this page](https://web.archive.org/help/features/contact.html#mag) and click on the appropriate magazine
   * Products & Services: send your request to [Store@ChristianityToday.com](mailto:Store@ChristianityToday.com)
   * PreachingToday.com: [click here](http://www.preachingtoday.com/help/contactus.html) to send your request
   * ChristianityTodayLibrary.com: [click here](http://ctlibrary.com/help/contact.html) to send your request
-  * ChurchSiteCreator.com: [click here](http://churchsitecreator.com/templates/cuscti/details.asp?id=27256&PG=Contact) to send your request
-  * ChurchLawToday.com: [click here](http://www.churchlawtoday.com/contact.php) to send your request
+  * ChurchLawAndTax.com: [click here](http://www.churchlawandtax.com/contact.php) to send your request
   * ReducingTheRisk.com: [click here](http://www.reducingtherisk.com/help/contactus.html) to send your request
 
 
@@ -109,7 +108,7 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 requires CTI
 Updates to Privacy Policy  
 From time to time, we may update this privacy notice. Please check this page periodically for changes. We will notify you about any changes in the way we treat personally identifiable information by placing a notice on our site.
 
-The Privacy Policy posted on this site was updated on or about September 20, 2010.
+The Privacy Policy posted on this site was updated on or about March 10, 2011.
 
 CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](https://web.archive.org/help/features/webmaster.html).
 
