@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the e71fanatics.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116050952id_/http%3A//www.e71fanatics.com/2008/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e71fanatics.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629211302id_/http%3A//www.e71fanatics.com/2008/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ](http://www.blogger.com/rearrange?blogID=2883390246416512168&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
 
 ##  [Privacy Policy](http://www.e71fanatics.com/2008/07/privacy-policy.html)
 
