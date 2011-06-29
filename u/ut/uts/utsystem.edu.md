@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504214719id_/http%3A//www.utsystem.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629080742id_/http%3A//www.utsystem.edu/privacy.htm) for the most accurate reproduction.*
 
 # University of Texas System
 
-The University of Texas System Administration maintains the UT System Administration web site as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public and how that information is used. Employees of UT System Administration should refer to [Business Procedures Memorandum 53-02-96](http://www.utsystem.edu/bpm/53.htm), which outlines System Administration's internal policy for the use and protection of information resources.
+The University of Texas System Administration maintains the UT System Administration website as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public and how that information is used. Employees of UT System Administration should refer to [Business Procedures Memorandum 53-02-96](http://www.utsystem.edu/bpm/53.htm), which outlines System Administration's internal policy for the use and protection of information resources.
 
 Since UT System Administration is a public institution, the information we collect may be subject to public disclosure under the [Texas Public Information Act](http://www.capitol.state.tx.us/statutes/go/go0055200toc.html) ([Chapter 552](http://tlo2.tlc.state.tx.us/statutes/docs/GV/content/htm/gv.005.00.000552.00.htm) of the Texas Government Code). 
 
@@ -48,7 +48,7 @@ The above information is not used in any way that would reveal personally identi
 
 ## II. Information Collected by Email and Forms
 
-UT System Administration collects the e-mail address of those individuals who communicate with us via e-mail or who give us their e-mail address. UT System Administration collects information that is voluntarily or automatically provided by those individuals who communicate with us via e-mail, who open and interact with our e-mails by, for example, following embedded links or who submit forms embedded in the e-mail or linked to our web site. 
+UT System Administration collects the e-mail address of those individuals who communicate with us via e-mail or who give us their e-mail address. UT System Administration collects information that is voluntarily or automatically provided by those individuals who communicate with us via e-mail, who open and interact with our e-mails by, for example, following embedded links or who submit forms embedded in the e-mail or linked to our website. 
 
 If a member of the general public sends System Administration an e-mail message or fills out an e-mail or web-based form with a question or comment that contains personally identifying information, that information will only be used for the purposes for which the form is intended, to respond to the question or comment, and to analyze trends. The message or form may be redirected to another government agency or person who is better able to respond to the question or comment. UT System Administration does not market such information. UT System Administration does not use such information in any way that would reveal personally identifying information to outside parties unless we are legally required to do so.
 
@@ -66,7 +66,7 @@ The information that UT System Administration collects will be retained and main
 
 ## IV. Links
 
-This site contains links to other sites outside of System Administration. UT System Administration is not responsible for the privacy practices or the content of such web sites.
+This site contains links to other sites outside of System Administration. UT System Administration is not responsible for the privacy practices or the content of such websites.
 
   
 
@@ -76,4 +76,4 @@ This site contains links to other sites outside of System Administration. UT Sys
 This site has security measures in place to protect from loss, misuse and alteration of the information under the control of System Administration.
 
 **Contacting System Administration**  
-If there are any questions about this privacy statement, the practices of this site, or dealings with this web site, contact: [feedback@utsystem.edu](mailto:feedback@utsystem.edu)
+If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact: [feedback@utsystem.edu](mailto:feedback@utsystem.edu)
