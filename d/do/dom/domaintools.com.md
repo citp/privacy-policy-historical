@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the domaintools.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203145150id_/http%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaintools.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629145036id_/http%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DomainTools, LLC
-
-## DomainTools, LLC Privacy Policy
 
 _Last updated April 2010_
 
 ### Introduction
 
-DomainTools LLC (“DomainTools”) (collectively, the “Site”) respects and protects the privacy of the individuals that use the Site and our Services. 
+DomainTools LLC ("DomainTools") (collectively, the "Site") respects and protects the privacy of the individuals that use the Site and our Services. 
 
 The practices of DomainTools with respect to data collected and used in connection with our Site and Services are governed by this online privacy policy ("Privacy Policy"). By accessing our Site and/or using any of our Services, you agree to the terms and conditions of this Privacy Policy and expressly consent to DomainTools’ use and disclosure of your personal information in accordance herewith. This Privacy Policy is incorporated into and subject to the terms of the DomainTools Terms Of Service. All capitalized terms not otherwise defined herein are defined in the Terms Of Service. 
 
@@ -18,7 +16,7 @@ DomainTools may change this Privacy Policy from time to time at its sole discret
 
 ### Personal Information 
 
-Before granting you access to certain functions of our Site or Services, you may be required to provide us with personal information such as your email address, your name, company name, address, and credit-card billing information (the “Registration Information” which makes you a “Registered User”) 
+Before granting you access to certain functions of our Site or Services, you may be required to provide us with personal information such as your email address, your name, company name, address, and credit-card billing information (the "Registration Information" which makes you a "Registered User") 
 
 Subject to conditions, you will be able to review and change the information you submit to us by accessing your Account and entering the new information yourself. 
 
@@ -74,7 +72,7 @@ Without restricting our rights to do so as noted above, as a general policy we w
 
 DomainTools follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-Your information is stored on DomainTools' servers located in the United States and in European Union countries. When you enter sensitive information (such as credit card or bank information) on our registration or order forms, we undertake to encrypt that information using secure socket layer or other similar technology (SSL). We treat data as an asset and strive to protect it from loss and unauthorized access. We employ many different security techniques to protect data from unauthorized access by users whether they are “inside” or “outside” DomainTools. You understand and agree that "perfect security "does not exist on the Internet or with any digital or physical data collection and retention systems. 
+Your information is stored on DomainTools' servers located in the United States and in European Union countries. When you enter sensitive information (such as credit card or bank information) on our registration or order forms, we undertake to encrypt that information using secure socket layer or other similar technology (SSL). We treat data as an asset and strive to protect it from loss and unauthorized access. We employ many different security techniques to protect data from unauthorized access by users whether they are "inside" or "outside" DomainTools. You understand and agree that "perfect security "does not exist on the Internet or with any digital or physical data collection and retention systems. 
 
 DomainTools personnel are trained appropriately regarding the application of privacy practices and the importance of protecting your information. 
 
