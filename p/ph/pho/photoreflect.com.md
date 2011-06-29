@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoreflect.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001225557id_/http%3A//www.photoreflect.com/home/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoreflect.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630013234id_/http%3A//www.photoreflect.com/home/info/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PhotoReflect
 
@@ -12,7 +12,7 @@ Changes to the Privacy Policy will be posted on this page so that you are always
 
 PhotoReflect (as a product of Express Digital Graphics, Inc.) is committed to protecting your privacy. Collected information is used to process your orders and personalize your shopping experience. “Required Information” is protected by secure server software. Photos are protected by standard online best practices and can additionally be protected by password and watermark per your or selection (or request to your photographer) during the upload process. We do not disclose your information through sale, trade, or rent to others. 
 
-PhotoReflect welcomes your input; e-mail: [support@expressdigital.com](mailto:support@expressdigital.com) with questions and comments.
+PhotoReflect welcomes your input; e-mail: [support@photoreflect.com](mailto:support@photoreflect.com) with questions and comments.
 
 **Required Information**
 
