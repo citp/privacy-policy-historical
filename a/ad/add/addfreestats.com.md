@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211194600id_/http%3A//www.addfreestats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629062956id_/http%3A//www.addfreestats.com/privacy.html) for the most accurate reproduction.*
 
 # AFS Privacy Policy
 
