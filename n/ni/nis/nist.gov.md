@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221233118id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629040912id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement/SecurityNotice/Accessibility Statement
 
@@ -44,7 +44,7 @@ Also, NIST is not responsible for the privacy practices employed by non-NIST sit
 
 **Links to other sites:** Our Web site contains links to various other federal agencies and private organizations. Once you link to another site, you are then subject to the privacy policies of the new site. It is always a good idea to read the Privacy Policy of any site you visit.
 
-Your right under the Privacy Act: Information on the Privacy Act can be found on the following web site: <http://www.cftc.gov/foi/foiareference/index.htm>
+Your right under the Privacy Act: Information on the Privacy Act can be found on the following web site: <http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm#privacyact>.
 
 **Accessibility:** The National Institute of Standards and Technology is committed to making its web sites accessible to all NIST customers and staff in accordance with provisions of Section 508 of the Rehabilitation Act Amendments of 1998.
 
