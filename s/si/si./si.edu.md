@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228024437id_/http%3A//www.si.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629193207id_/http%3A//si.edu/Privacy) for the most accurate reproduction.*
 
 # Privacy Smithsonian
-
-## Smithsonian Institution's Privacy Statement
 
 ### Overview
 
@@ -38,6 +36,8 @@ When we send you such information by email, you will always have an immediate op
 The Smithsonian uses outside vendors to provide certain services on our behalf, such as companies who conduct customer satisfaction surveys on our behalf or who process credit card transactions for the Smithsonian. These third-party vendors will have access to the information needed to perform their functions, but may not use your information for any other purpose. Some Smithsonian units on occasion, rent or exchange select member name and address information with other well- established charitable, or cultural non-profit organizations. You will be notified of any such sharing and you will be provided an opportunity to opt-out of any such sharing.
 
 There may be sites within the Smithsonian’s network of Websites where you can opt-in to receive information from non-Smithsonian entities. If you opt-in, you may receive correspondence from these organizations on programs, products or services that might interest you. If you decide to opt-out of receiving any further correspondence from a non-Smithsonian entity, please correspond directly with that business or organization to be removed from their mailing list.
+
+Please note that the Smithsonian may also provide your information to: (1) a Federal, State, or local law enforcement agency if the Smithsonian becomes aware of a violation or potential violation of law or regulation; (2) a court or party in a court or Federal administrative proceeding if the Smithsonian is a party or in order to comply with a subpoena; (3) a member of the public in response to his or her request for Smithsonian records under Smithsonian Directive 807, available at www.si.edu/ogc; (4) the Department of Justice or in certain legal proceedings when the Smithsonian, an employee of the Smithsonian, or the United States is a party to litigation or has an interest in the litigation and the use of such records is deemed relevant and necessary to the litigation; (5) Smithsonian officials, including the Inspector General, as needed to perform official duties; (6) a Committee of Congress in response to a formal request; and (7) any other person or entity as required by law.
 
 ### Security
 
