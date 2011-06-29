@@ -1,33 +1,43 @@
-> *The following text is extracted and transformed from the qwertyweb.blogspot.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207014533id_/http%3A//www.qwertyweb.blogspot.com/2009/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwertyweb.blogspot.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629030322id_/http%3A//www.blogger.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | QwertyWEB
+# Blogger: Blogger Privacy Notice
 
-##  [Privacy Policy](http://qwertyweb.blogspot.com/2009/07/privacy-policy.html)
+## October 9, 2007
 
-Posted by qwertyweb | | [Qwertyweb](http://qwertyweb.blogspot.com/search/label/Qwertyweb)
+The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided when you use Blogger. In addition, the following describes our privacy practices that are specific to Blogger.
 
-At [www.qwertyweb.blogspot.com](http://www.qwertyweb.blogspot.com/) , the privacy of our visitors is of extreme importance to us.  
-This privacy policy document outlines the types of personal information is received and collected by [www.qwertyweb.blogspot.com](http://www.qwertyweb.blogspot.com/) and how it is used.  
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [vertexroll@gmail.com](mailto:vertexroll@gmail.com)   
-**Log Files**
+### Personal information
 
-  * Like many other Web sites, [www.qwertyweb.blogspot.com](http://www.qwertyweb.blogspot.com/) makes use of log files. 
-  * The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. 
-  * IP addresses, and other such information are not linked to any information that is personally identifiable.As with most other websites, we collect and use the data contained in log files. 
-  * The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable or any other), the browser you used to visit our site (such as Internet Explorer, Google Chrome, Firefox or any other), the time you visited our site and which pages you visited throughout our site.
+  * Google asks for some personal information when you sign up to use Blogger, including your email address and a password, which is used to protect your account from unauthorized access.
+  * In addition to publishing your weblog posts, you may also provide additional profile information, such as a photo, birthday, location, etc. and can edit your profile at any time on our [profile administration page.](https://web.archive.org/edit-profile.g)
+  * If you choose to use our [ transliteration feature](http://help.blogger.com/bin/answer.py?answer=58226), we will save your transliteration corrections, so that we can improve the service.
+  * Google servers automatically record information about your use of the service, such as when you use Blogger and the frequency and size of data transfers. Information displayed or clicked in the Blogger interface (including UI elements, settings, and other information) is also recorded. If you are logged in we may associate that information with your account.
+  * If you choose to use [ Blogger Mobile](http://go.blogger.com/), we will record your phone number when you send a text message, photos, or SMS to or from Google. Your phone number may be associated with your [ Google Account](http://www.google.com/privacy_faq.html#account) or, if you do not have a Google Account, with some other similar account ID. We often generate this account ID based on your device and hardware IDs, so if you change your device or hardware, you will have to re-associate this new device or hardware with your account before we can authenticate you.
 
 
 
-**Cookies and Web Beacons**
+### Uses
 
-We do use cookies to store information, such as your personal preferences when you visit our site. Confidential information such as IDs, passwords, accounts, etc are not even touched.  
-[www.qwertyweb.blogspot.com](http://www.qwertyweb.blogspot.com/) has no access to or control over these cookies that are used by third-party advertisers.   
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+  * Google stores and maintains your account information and copies of your weblog posts and comments, including drafts, in order to provide the service.
 
-**Really Simple Syndication**
 
-The information provided by you [such as Emails and subscription requests] is only used for the purpose of providing it to feedburner to provide you with latest updates from our blog.  
-Your information is niether used by us for our own purpose nor transferred or sold to any third party.
 
-  
-[](http://www.addtoany.com/share_save)
+### Your choices
+
+  * You can change your Blogger account settings, including your profile information, at any time in the Settings section of Blogger. You can edit, save drafts and remove your weblog posts at any time, as described in [Blogger Help](http://help.blogger.com/).
+  * If you delete your weblog, we will remove all posts from public view. Because of the way we maintain this service, residual copies of your profile information and other information associated with your account may remain on back-up media.
+
+
+
+### More information
+
+Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [web site](http://www.export.gov/safeharbor/) of the Department of Commerce.
+
+Further information about Blogger is available in [Blogger Help](http://help.blogger.com/).
+
+For more information about our privacy practices, go to [the full privacy policy](http://www.google.com/privacypolicy.html). If you have additional questions, please [contact us any time](http://www.blogger.com/problem.g). Or write to us at:
+
+> Privacy Matters  
+>  c/o Google Inc.  
+>  1600 Amphitheatre Parkway  
+>  Mountain View CA 94043 (USA)
