@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818204510id_/http%3A//www.heritage.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629110220id_/http%3A//www.heritage.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | The Heritage Foundation
 
@@ -15,16 +15,19 @@ Aggregated information, such as which pages users visit, is collected through va
 heritage.org uses cookies to automate the process of logging on to certain areas of the site. The heritage.org cookie is a small data file stored on your computer that contains a single, randomly assigned user ID number. By recognizing this ID number, heritage.org can automatically provide you with the personalized content for which you requested. Cookies can neither read any other files on your computer, nor damage your computer. Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent.
 
 **Use of Information Collected by heritage.org**   
-heritage.org uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user, and if requested, to provide information services by email to the user. After registration, users will receive a single email message confirming registration. The Heritage Foundation will never disclose your personally identifiable information to a third party unless required to do so by court order, law or governmental agency.
+heritage.org uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user, target promotions on other sites and if requested, to provide information services by email to the user. After registration, users will receive a single email message confirming registration. The Heritage Foundation will never disclose your personally identifiable information to a third party unless required to do so by court order, law or governmental agency.
+
+ **Opting Out of Ad Serving Cookies  
+** We have provided you the opportunity to opt out of future ad serving cookies.  In order to identify you as someone who has elected to opt out of receiving future cookies from ad serving companies, we will place an opt out cookie on your machine.  If you would like to opt out of ad serving cookies or read additional information about these cookies, please [click here](http://pix.campaigngrid.org/optout.aspx). 
 
 **Information Security at heritage.org**   
-Heritage Foundation employees understand the need for user privacy and heritage.org has appointed a privacy policy administrator to monitor privacy practices. Access to user data is strictly limited and can only be accessed by specific individuals who have the necessary username and password combination. A log is maintained to record who has accessed the data. This log is checked at least weekly for possible security breaches. 
+Heritage Foundation employees understand the need for user privacy and access to user data is strictly limited and can only be accessed by specific individuals who have the necessary username and password combination. 
 
 **Children and Privacy**   
 The Heritage Foundation encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. In general, heritage.org will not contain content that is reasonably considered unsuitable for children.
 
 **Links to Other Sites**   
-It is important to note that heritage.org contains links to sites other than heritage.org, and that those sites may not follow the same privacy policies as heritage.org. For instance, a link in the "Helpful Links" section of heritage.org will take you away from heritage.org to an entirely different site.
+It is important to note that heritage.org contains links to sites other than heritage.org, and that those sites may not follow the same privacy policies as heritage.org. For instance, a link in the "External Resources" section of heritage.org will take you away from heritage.org to an entirely different site.
 
 **Changes to the Privacy Policy**   
 The Heritage Foundation reserves the right to change the policy on use of information collected. Any changes in policy will be noted in a revised privacy policy statement and will be posted at least 30 days prior to implementation. You may direct any privacy policy questions to [info@heritage.org](mailto:info@heritage.org). 
