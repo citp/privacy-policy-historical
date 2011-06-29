@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630075352id_/http%3A//www.theepochtimes.com/n2/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629105916id_/http%3A//www.theepochtimes.com/n2/privacy-policy.html) for the most accurate reproduction.*
 
-# Epoch Times - Privacy Policy
+# Privacy Policy | | Epoch Times
 
 _The Epoch Times_ does not collect any information on your computer or your browser without your consent.
 
