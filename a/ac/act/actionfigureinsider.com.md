@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the actionfigureinsider.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625091230id_/http%3A//www.actionfigureinsider.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionfigureinsider.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630013438id_/http%3A//www.actionfigureinsider.com/privacy.shtml) for the most accurate reproduction.*
 
 # Action Figure Insider
 
-* * *
-
-  
 ActionFigureInsider is a site about toys and toys as collectables. Our target audience is collectors and fans of action figures and toys, which tends to be adult collectors. We do want to be sensitive to younger readers. 
 
 We follow the edicts of the [Federal Trade Commission's The Children's Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html) in regards to the collection of personal information from children under 13. Action Figure Insider is partially supported by commercial advertising and affiliate programs. We are very picky about the advertisers we accept how ever all of the advertising do link to other unrelated sites. Action Figure Insider will not be held responsible for the content of other linked sites/pages, however we will attempt to be vigilant in monitoring our advertising partners to make certain that the material linked to is not explicitly harmful to children, pornographic, or illegal. 
