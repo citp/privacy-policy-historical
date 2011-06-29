@@ -1,0 +1,269 @@
+<!--The following is the downloaded HTML source of the dropshipblueprint.com privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629053542id_/http%3A//www.dropshipblueprint.com/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<title>Dropship Blueprint Privacy Policy</title>
+				<meta name="Description" content="Dropship Blueprint Privacy Policy">
+		<link type="text/css" rel="stylesheet" href="http://www.dropshipblueprint.com/css/style.css">
+		<script type="text/javascript" src="http://www.dropshipblueprint.com/js/jquery-1.4.2.js"></script>
+		<script type="text/javascript">$(function() {
+	
+	
+	 $("#identity").attr('value','e-mail address (not username)').addClass('beforeClick');
+
+	
+	
+	$("#identity").focus(function () {
+	 $(this).attr('value','').removeClass('beforeClick');
+	});
+	
+	
+	$("#error_information_login").hide();
+	$("* #login_form").submit(function() {
+		$("#error_information_login").empty();
+		identity = $("#identity").val();
+		password = $("#password").val();
+		url = $("#login_user_link").val();
+		data = {"identity" : identity, "password" : password};
+		$.post(url, data, function(text) {
+			if (text == 1)
+				window.location.href = $("#my_account_page_link").val();
+			else {
+				if (text == 1) 
+					window.location.href = $("#my_account_page_link").val();
+				else {
+					if (text == 3) 
+						window.location.href = $("#admin_panel_link").val();
+					if (text == 0) {
+						$("#error_information_login").append("Incorrect email or password. <br>If you are an NB student, please use the Forgot Password functionality to reset your password.");
+						$("#error_information_login").show();
+					}
+					if (text == 4) {
+						$("#error_information_login").append('This username is already associated with a pending account at Dropship Blueprint. To finish the registration process and gain full access to the directory, please <a style="color:#9cd8fc; font-weight:bold;" href="http://1.hermbros.pay.clickbank.net/?email='+identity+'">make payment</a>.');
+						$("#error_information_login").show();
+					}
+				}
+			}
+		});
+		return false;
+	});
+	
+	
+	
+});
+
+</script>
+		<style type="text/css">
+	body {
+       background:url(http://www.dropshipblueprint.com/images/bg_global_body2.png) repeat-x  #e2e2e2;
+
+	}
+	
+</style>		<!--[if IE]>
+		<link type="text/css" rel="stylesheet" href="http://www.dropshipblueprint.com/css/style_IE.css" />
+		<![endif]-->
+		
+
+	</head>
+		
+	<body>
+	<div class="global-wrapper">
+		<div class="wrapper">
+			<div class="global-header">
+			
+				<div id="header">
+		<div class="left">
+			<a href="http://www.dropshipblueprint.com/"><div class="logo"></div></a>
+			<p class="txt_below_logo">
+			Find over <b>3,058,271</b> product <br>  SKU's from thousands of true dropshippers  &amp; wholesalers
+			</p>
+		</div>
+		<div class="right">
+		
+		<input type="hidden" id="login_user_link" value="http://www.dropshipblueprint.com/login/login_user">
+	<input type="hidden" id="my_account_page_link" value="http://www.dropshipblueprint.com/front/my_account_page">
+	<input type="hidden" id="admin_panel_link" value="http://www.dropshipblueprint.com/admin_panel">
+		<form action="http://www.dropshipblueprint.com/front/my_account_page" method="post" id="login_form">
+		<div id="user_data_login" class="form-login-wrapper">
+			<table border="0" cellspacing="0" cellpadding="1">
+				<tbody><tr>
+				<td></td>
+				<td align="center">
+				<a href="http://www.dropshipblueprint.com/login/pass_forgot">Forgot Your Password?</a>
+				</td>
+				<td>
+				
+				</td>
+				</tr>
+				<tr>
+					<td valign="bottom"><input type="text" id="identity" name="identity" class="form_sing_in"></td>
+				
+					<td valign="bottom"><input type="password" id="password" class="form_sing_in" name="password_login"></td>
+					<td valign="middle"><input type="submit" value="" class="btn_sing_in"></td>
+				</tr>
+				
+				<tr>
+				<td></td>
+				<td align="center">
+				<div id="error_information_login"></div>
+				</td>
+				<td>
+				
+				</td>
+				</tr>
+			</tbody></table>
+			
+		</div>
+	</form>
+		</div>
+		
+		
+
+		
+		
+		
+		<!--
+		<div id="header_content">
+		
+		
+			<div class="line" id="line1">
+				
+				<div class="act">
+					<table id="tbl">
+						<tr>
+							<td><div id="public_button"><a href="http://www.dropshipblueprint.com/products">Public pages</a></div></td>
+							<td><div id="login_button"><a href="http://www.dropshipblueprint.com/login">Login</a></div></td>
+							<td><div id="registr_button"><a href="http://www.dropshipblueprint.com/registration">Registration</a></div></td>
+							<td><div id="registr_button"><a href="http://www.dropshipblueprint.com/registration/registration_for_suppliers">Registration for suppliers</a></div></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div id="clear"></div>
+			<form action="http://www.dropshipblueprint.com/products/find-a-supplier-or-dropshipper-for" method="post" id="public_search_form">
+				<div id="search_panel">
+					<div id="search_panel_left">
+						<label for="search_text"><b>Looking for a dropshipper or supplier for: </b></label><input type="text" name="search_text">
+						<input type="button" id="search_button" value="Search">
+					</div>
+					<div id="search_panel_right">
+						<label for="search_type"><b>Search by: </b></label>
+						<input type="radio" name="search_type" value="products"><label for="search_type">Products</label>
+						<input type="radio" name="search_type" value="brands"><label for="search_type">Brands</label>
+					</div>
+				</div>
+			</form>
+		</div>
+		-->
+	</div>
+	
+			</div>
+			<div class="global-body">
+								
+			<div class="clear"></div>
+<div id="content">
+<div class="left">
+
+<div class="PageHeading">Dropship Blueprint Privacy Policy</div>
+		
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of our site.<br><br>
+
+This notice applies to all information collected or submitted on the Dropship Blueprint website. On some pages, you can place orders, make requests, and register to receive materials. The types of personal information collected at these pages are: <br><br>
+
+Name <br>
+Email address <br>
+Password<br>
+(etc.) <br><br>
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. <br><br>
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. <br><br>
+
+We do not share any of your personal information with suppliers offering the <a href="http://www.dropshipblueprint.com/sitemap/products">product lines</a> and/or <a href="http://www.dropshipblueprint.com/sitemap/brands">brand names</a> contained in our directory.
+
+<br><br>
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. <br><br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. <br><br>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we know are under 13, and no part of our website is structured to attract children.<br><br>
+You can access all of your personally identifiable information that we collect online and maintain by contacting us via email or phone. We use this procedure to better safeguard your information. 
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+<br><br>
+Should you have other questions or concerns about these privacy policies, please email us at service[at]dropshipblueprint.com.		
+		
+
+</div>
+<div class="right">
+<div class="infobox">
+
+<div class="clear"></div>
+<div class="infobox_header">Why Sign Up?</div>
+<div class="infobox_content">
+<div class="sidebar-content">
+		<p class="noheight">Join us and get full access to:</p>
+        <ul>
+        	<li>Thousands of true dropshippers</li>
+            <li>Millions of product SKU's</li>
+            <li>Detailed contact info for all suppliers</li>
+            <li>Suppliers willing and ready to dropship</li>
+
+            <li>Top brand names in nearly every market</li>
+            <li>A database that is growing every day</li>
+            <li>Tools to save your favorites</li>
+            
+        </ul>
+&nbsp;&nbsp;&nbsp;&nbsp;Don't waste any more time...
+<a class="txtOrange" href="http://www.dropshipblueprint.com/registration">Join Now!</a>
+    </div>
+</div>
+
+
+
+
+
+
+</div>
+<div class="infobox">
+<div class="clear"></div>
+<div class="infobox_header">Testimonial </div>
+<div class="infobox_content">
+<div class="sidebar-content">
+    <p>I have been a member of other supplier databases, but I have never had the same level of success that I have had with Dropship Blueprint. In my opinion it is the best supplier source that I have found. When a tool provides me with this level of success, why go anywhere else...
+</p>
+    <p><strong>Doug N, Ontario Canada</strong></p>
+    </div>
+</div>
+
+</div>
+</div>
+
+</div>			
+			<div class="clear"></div>
+		</div>
+		
+	</div>
+	<div class="global-footer">
+			
+
+<div id="footer">
+
+<br>
+	<!--<a href="http://www.dropshipblueprint.com/pages/tour" id="contact">Take a Tour</a>&nbsp;&nbsp;|&nbsp;&nbsp;-->
+	<a href="http://www.dropshipblueprint.com/registration" id="contact">Join Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.dropshipblueprint.com/pages/testimonials" id="contact">Testimonials</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.dropshipblueprint.com/pages/affiliates" id="contact">Affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.dropshipblueprint.com/registration/registration_for_suppliers" id="contact">Supplier Submission</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.dropshipblueprint.com/pages/terms" id="contact">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.dropshipblueprint.com/pages/privacy" id="contact">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.dropshipblueprint.com/pages/contact_us" id="contact">Contact Us</a>
+	
+
+	<div id="clear" style="height:10px;"></div>
+	<div id="copyright">2011 © DropshipBlueprint.com</div>
+	<div id="clear" style="height:20px;"></div>
+</div>
+			</div>
+	</div>
+	
+	<script src="http://www.dropshipblueprint.com/playLFOW.js" type="text/javascript"></script>	   
+	
+</body></html>
