@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empiretheatres.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216044441id_/http%3A//www.empiretheatres.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empiretheatres.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629063745id_/http%3A//www.empiretheatres.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Empire Theatres
 
