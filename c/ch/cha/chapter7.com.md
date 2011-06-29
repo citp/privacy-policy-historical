@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001005356id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629182751id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chapter 7 Bankruptcy
 
@@ -49,7 +49,7 @@ We take reasonable measures to protect your information on our servers. Please u
 If you have any questions or concerns regarding this policy, you may contact us at:
 
 **Chapter7**  
-25 East Washington, Suite 510  
+25 East [Washington](http://www.chapter7.com/bankruptcy-attorneys/washington-bankruptcy/ "Washington"), Suite 510  
 Chicago, IL 60602  
 (312) 252-1313  
 [info@Chapter7.com](mailto:info@Chapter7.com)
