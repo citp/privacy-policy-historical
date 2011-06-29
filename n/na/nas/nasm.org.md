@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasm.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228143145id_/http%3A//www.nasm.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasm.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629045020id_/http%3A//www.nasm.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D171) for the most accurate reproduction.*
 
 # NASM Support | NASM
 
@@ -32,4 +32,4 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
  **Changes to this Statement** ****NASM will occasionally update this Statement of Privacy to reflect company and customer feedback. NASM encourages you to periodically review this Statement to be informed as to how NASM is protecting your information.
 
- **Contact Information** ****NASM welcomes your comments regarding this Statement of Privacy. If you believe that NASM has not adhered to this Statement, please contact NASM at[memberservices@NASM.org](mailto:memberservices@NASM.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+ **Contact Information** ****NASM welcomes your comments regarding this Statement of Privacy. If you believe that NASM has not adhered to this Statement, please contact NASM at[nasmcares@nasm.org](mailto:nasmcares@nasm.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
