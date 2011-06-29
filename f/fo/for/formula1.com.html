@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2010-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100722012641id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629090654id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="jsEnabled"><head id="ctl00_Head1">
 <title>Formula 1™ - The Official F1™ Website</title>
@@ -15,7 +15,6 @@
 <link href="/css/slimbox.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/videobox.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/f1_forms.css" rel="stylesheet" type="text/css" media="screen">
-
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <link rel="apple-touch-icon-precomposed" href="http://www.formula1.com/desktopfavicon.png">
@@ -31,26 +30,34 @@
 <!--[if IE 8]>
     <link href="/css/ie8.css" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->
+<!--[if IE 9]>
+    <link href="/css/ie9.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
 
 <script type="text/javascript" src="/js/AC_OETags.js"></script>
 <script type="text/javascript" src="/js/swfobject2.js"></script>
 
-<script type="text/javascript" src="/js/mootools.js"></script>
-<script type="text/javascript" src="/js/cookies.js"></script>
-<script type="text/javascript" src="/js/global.js"></script>
-<script type="text/javascript" src="/js/navigation.js"></script></head><body><div class="sliderAreas hide" style="display:none" id="sliderTemplate"><div class="sliderKnobs" id="knobTemplate"></div></div>
 
-<script type="text/javascript" src="/js/slimbox.js"></script>
-<script type="text/javascript" src="/js/galleryRollover.js"></script>
-<script type="text/javascript" src="/js/slideshow.js"></script>
-<script type="text/javascript" src="/js/image_right_click.js"></script>
-<script type="text/javascript" src="/js/LiveTimingPopup.js"></script>
+    <script type="text/javascript" src="/js/BrowserDetect.js"></script>
+    <script type="text/javascript" src="/js/mootools.js"></script>
+    <script type="text/javascript" src="/js/cookies.js"></script>
+    <script type="text/javascript" src="/js/global.js"></script>
+    <script type="text/javascript" src="/js/navigation.js"></script></head><body><div class="sliderAreas hide" style="display:none" id="sliderTemplate"><div class="sliderKnobs" id="knobTemplate"></div></div>
 
-<script type="text/javascript" src="/js/time.js"></script>
-<script type="text/javascript" src="/js/webservice.js"></script>
+    <script type="text/javascript" src="/js/slimbox.js"></script>
+    <script type="text/javascript" src="/js/galleryRollover.js"></script>
+    <script type="text/javascript" src="/js/slideshow.js"></script>
+    <script type="text/javascript" src="/js/image_right_click.js"></script>
+    <script type="text/javascript" src="/js/LiveTimingPopup.js"></script>
+    
+    <script type="text/javascript" src="/js/time.js"></script>
+    <script type="text/javascript" src="/js/webservice.js"></script>
 
-<script type="text/javascript" src="/js/f1_forms.js"></script>
-<script type="text/javascript" src="/js/f1_detect.js"></script>
+    <script type="text/javascript" src="/js/f1_forms.js"></script>
+    <script type="text/javascript" src="/js/f1_detect.js"></script>    
+
+
+
 
 <!--[if lt IE 7]>
     <script defer type="text/javascript" src="/js/unitpngfix.js"></script>
@@ -60,7 +67,7 @@
 <noscript>
 <style type="text/css">
     div#tertiaryNav div{
-        display: block;
+        display: block;        
     }     
 </style>
 <style type="text/css">
@@ -72,14 +79,62 @@
 <script type="text/javascript">
     fncFesDisableContextMenuForImages();
 </script>    
+
+    
+<!-- Google Analytics -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-4466993-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
+<!-- Google Analytics -->
 <title>
 
 </title>
- 
-  
-    <div id="wrapperHeading">
-        <div id="wrapperContent"><a name="top"></a>
-        
+
+    
+    <div id="identHomePage" style="display: none">
+        <div id="identDiv" class="identBg">
+        </div>
+        <div id="ident" class="ident">
+            <div id="identHolder">
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            if (!SkipIdentAlways() && isRootPage()) {
+                $('identDiv').setStyle('height', '100%');
+                $('ident').setStyle('height', getWinHeight() + 'px');
+
+                var flashvars = {};
+                var params = { wmode: "transparent", quality: "autolow" };
+
+                if (BrowserDetect.browser == "Firefox")
+                    params = { quality: "autolow" };
+
+                swfobject.embedSWF("/flash/homepage/ident/identPreloader.swf", "identHolder", "100%", "100%", "9.0.0", "/js/expressInstall.swf", flashvars, params);
+            }  	      
+        </script>
+
+    </div>
+    <div id="wrapperHeading" style="visibility: visible;">
+
+        <script type="text/javascript" language="javascript">            
+            if (GetSwfVer()!="-1" && !SkipIdentAlways() && isRootPage() && (isExternalRequest() || isIdentCookieExpired())) {
+                $('wrapperHeading').setStyle('visibility', 'hidden');
+            }
+            else {
+                $('wrapperHeading').setStyle('visibility', 'visible');
+            }
+        </script>
+
+        <div id="wrapperContent">
+            <a name="top"></a>
+            
 
 <h1>
     <a href="/default.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/F1_Logo'); }">
@@ -88,7 +143,7 @@
     </a> 
     <a id="skipNav" href="#content">Skip to content</a>
 </h1>
-
+            
             <div id="nav">
                 
 		<ul id="primaryNav">
@@ -143,9 +198,9 @@
 				<a href="/races/in_detail/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/in_detail'); }">IN DETAIL</a>
 				</li>
 			
-				<li class="navRACES_2010CALENDAR navRACES_2010CALENDAR_en">
+				<li class="navRACES_2011CALENDAR navRACES_2011CALENDAR_en">
 				
-				<a href="/races/calendar.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/calendar'); }">2010 CALENDAR</a>
+				<a href="/races/calendar.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/calendar'); }">2011 CALENDAR</a>
 				</li>
 			
 				<li class="navRACES_DOWNLOADS navRACES_DOWNLOADS_en">
@@ -289,12 +344,12 @@
 		
 				<li class="navVIDEO_RACEEDITS navVIDEO_RACEEDITS_en">
 				
-				<a href="/video/race_edits.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/Video'); }">RACE EDITS</a>
+				<a href="/video/race_edits/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/Race_Edit'); }">RACE EDITS</a>
 				</li>
 			
 				<li class="navVIDEO_ONBOARD navVIDEO_ONBOARD_en">
 				
-				<a href="/video/onboard.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/Video'); }">ONBOARD</a>
+				<a href="/video/onboard/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/Onboard'); }">ONBOARD</a>
 				</li>
 			
 			</ul>
@@ -311,7 +366,7 @@
 	
 		
 		
-			<li class="navF1STORE navF1STORE_en"><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L1Nav/F1Store'); }">F1 STORE</a>
+			<li class="navF1STORE navF1STORE_en"><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L1Nav/F1Store'); }">F1 STORE</a>
 			<ul>
 		
 		
@@ -334,9 +389,9 @@
 				<a href="/mobile_services/website.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/website'); }">WEBSITE</a>
 				</li>
 			
-				<li class="navMOBILE_2010APPLICATION navMOBILE_2010APPLICATION_en">
+				<li class="navMOBILE_APPLICATION navMOBILE_APPLICATION_en">
 				
-				<a href="/mobile_services/live_timing.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/live_timing'); }">2010 APPLICATION</a>
+				<a href="/mobile_services/live_timing.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/live_timing'); }">APPLICATION</a>
 				</li>
 			
 				<li class="navMOBILE_DOWNLOADS navMOBILE_DOWNLOADS_en">
@@ -344,20 +399,15 @@
 				<a href="/mobile_services/downloads.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/downloads'); }">DOWNLOADS</a>
 				</li>
 			
-				<li class="navMOBILE_TEXTSERVICE navMOBILE_TEXTSERVICE_en">
-				
-				<a href="/mobile_services/text_service.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/text_service'); }">TEXT SERVICE</a>
-				</li>
-			
 			</ul>
 		</li>
 	
 		</ul>
-	           
+	
             </div>
-
             <div id="content">
                 
+
                 
 
 <!-- Hide when on Home -->
@@ -367,11 +417,10 @@
 			
 		</div>
 	</div>
-   
-                            
-                <div id="contentMain"><div id="adHoldLeftCol" style="position: absolute; margin-left: 0px; margin-top: 5px; z-index: -1000; height: 0px;"><div id="adHoldLeftFlash"></div></div>
-                     <!-- content modules here -->
-                     
+
+                <div id="contentMain"><div id="adHoldLeftCol" style="position: absolute; margin-left: 0px; margin-top: 0px; z-index: -1000; height: 0px;"><div id="adHoldLeftFlash"></div></div>
+                    <!-- content modules here -->
+                    
     
     <div class="contentContainer">
         <div class="articleHeading">
@@ -404,7 +453,6 @@
 
 
                 </div>
-                
                 <div id="contentSub">
                     <!-- subModules here -->
                     
@@ -420,7 +468,11 @@
         $('adHoldRightCol').setStyle('overflow', 'hidden');
         if (toBe > 0)
         {
-            $('adHoldRightCol').setStyle('padding', '5px 0 0 0');
+            $('adHoldRightCol').setStyle('padding', '0 0 5px 0');
+        }
+        else
+        {
+            $('adHoldRightCol').setStyle('padding', '0 0 0 0');
         }
     }
     
@@ -450,7 +502,7 @@
         
 		var flashvars = false;
 		var attributes = {id: "adHoldRight"};
-		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D&nameArray=Vodafone_Lewis_Jenson&weightArray=16" };
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D&nameArray=third_driver&weightArray=17" };
 		swfobject.embedSWF("/flash/advertising/side_bar/adHoldRight.swf", "adHoldRightFlash", "235", "600", "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
     }
 
@@ -458,7 +510,7 @@
         // create adHoldLeftCol container DIV and insert in contentMain DIV
 	     var oDiv = new Element('div', {
 	     'id':'adHoldLeftCol',
-	     'styles':{'position':'absolute','margin-left':'0px','margin-top':'5px','zIndex':'-1000','height':'0'}
+	     'styles':{'position':'absolute','margin-left':'0px','margin-top':'0px','zIndex':'-1000','height':'0'}
 	     });
 	     	     
 	  	oDiv.injectTop($('contentMain'));
@@ -471,13 +523,13 @@
 
 		var flashvars = false;
 		var attributes = {id: "adHoldLeft"};
-		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D&nameArray=Vodafone_Lewis_Jenson&weightArray=16" };
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D&nameArray=third_driver&weightArray=17" };
 		swfobject.embedSWF("/flash/advertising/side_bar/adHoldLeft.swf", "adHoldLeftFlash", "715", adHoldLeftHeight, "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
 });
 
 </script>
 
-<div id="adHoldRightCol" style="z-index: 1; display: block; height:0; padding: 0px 0 0 0;">
+<div id="adHoldRightCol" style="z-index: 1; display: block; height:0; padding: 0px 0 0px 0;">
 <div id="adHoldRightFlash"></div>
 </div>
   
@@ -487,7 +539,7 @@
     
 
 <div class="subModule">
-    <a class="rhsPromoButton" title="Play Video" onclick="if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }" href="/video/race_edits.html"></a>
+    <a class="rhsPromoButton" title="Play Video" onclick="if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video_Promo_Button'); }" href="/video/"></a>
 </div>
     
     
@@ -500,23 +552,24 @@
 
 <!-- Black buttons -->
 <div class="subModule">
-    <div class="button button_store">
-        <a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=OMT8MJ3C" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/F1Store'); }" target="_blank">F1 STORE</a>
+    <div class="button">
+        <a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/F1Store'); }" target="_blank">F1 Store</a>
     </div>    
-    <div class="button button_tnt">
-        <a href="/tickets_and_travel/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Tickets'); }">TICKETS &amp; TRAVEL</a>
+    <div class="button">
+        <a href="/tickets_and_travel/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Tickets'); }">Tickets &amp; Travel</a>
     </div>
-    <div class="button button_mobile">
-        <a href="/mobile_services/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Mobile'); }">MOBILE SERVICES</a>
+    <div class="button">
+        <a href="/mobile_services/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Mobile'); }">Mobile Services</a>
     </div>
-    <div class="button button_video last">
-        <a href="/video/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }">VIDEO</a>
+    <div class="button">
+        <a href="/video/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }">Video</a>
     </div>
-
+    <div class="button">   
+        <a href="/live_timing/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Live_Timing'); }">Live Timing</a>
+    </div>
 </div>
 
                 </div>
-                
                 
 
 <div id="footer">
@@ -529,7 +582,7 @@
         <ul>
     	    <li><a href="/video/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/Video'); }">VIDEO</a></li>
             <li><a href="/tickets_and_travel/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/Tickets'); }">TICKETS &amp; TRAVEL</a></li>
-            <li><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/F1Store'); }">F1 STORE</a></li>
+            <li><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/F1Store'); }">F1 STORE</a></li>
             <li><a href="/mobile_services/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/Mobile'); }">MOBILE</a></li>
         </ul>
         </div>
@@ -545,23 +598,11 @@
         </ul>
         </div>
     </div>
-    <span id="copyrightLine">© 1999-2010 Formula One Administration Ltd</span>
+    <span id="copyrightLine">© 2011 Formula One World Championship Ltd</span>
 </div>
 
 
 
-
-<!-- Google Analytics -->
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-4466993-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-</script>
-<!-- Google Analytics -->
 
 
 
@@ -570,8 +611,13 @@
     <![endif]-->
 
 
-            </div><!-- END content -->
-        </div><!-- END wrapperContent -->
+            </div>
+            <!-- END content -->
+        </div>
+        <!-- END wrapperContent -->
     </div>
+    
+    
+
 
 <div id="lbOverlay" style="visibility: hidden; zoom: 1; opacity: 0;"></div><div id="lbCenter" style="width: 0px; height: 0px; margin-left: 0px; display: none;"><div id="lbImage"><a id="lbPrevLink" href="#" style="display: none;"></a><a id="lbNextLink" href="#" style="display: none;"></a><a id="lbBuyLink" href="#" style="display: none;"></a></div><div id="lbBuyImage" style="width: 245px;"><div id="buyImageWrapper" class="secondaryArticleContent"><img id="loginIMG"><div class="buyCaption"></div><div><h3>LOGIN</h3><table summary="Login for Buy Image" cellpadding="0" cellspacing="5"><tbody><tr><td><div class="fieldpairing"><label for="loginEmail" class="overlabel">Username</label><input class="grey required" id="loginEmail" name="email" type="text" value=""></div></td></tr><tr><td><div class="fieldpairing"><label for="loginPassword" class="overlabel">Password</label><input class="actionBox required" id="loginPassword" name="password" type="password" value=""><input id="Login" class="required action" type="image" src="/img/decals/button_search.gif" value="login" alt="login" onclick="buyImageResponse(processImageDownload('225x', this));"></div></td></tr></tbody></table></div><div id="lbFoot"><div class="footBox buyBack first" style="visibility:hidden;"><a href="javascript:void(0);">back</a></div></div></div></div></div><div id="lbTopContainer" style="display: none;"><div id="lbTop"><div id="lbCloseLinkTop"><div class="slimClose first"><a href="javascript:void(0);">close</a></div></div><div style="clear: both;"></div></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><div id="lbNumber"></div><div id="lbCaption"></div><div id="lbCopy"></div><div id="lbFoot"><div class="footBox next"><a href="javascript:void(0);">next</a></div><div class="footBox back"><a href="javascript:void(0);">back</a></div><div class="footBox slide first"><a href="javascript:void(0);">start slideshow</a></div><div class="footBox buy first" style="visibility:hidden;"><a href="javascript:void(0);">send to my mobile</a></div></div><div style="clear: both;"></div></div></div></body></html>
