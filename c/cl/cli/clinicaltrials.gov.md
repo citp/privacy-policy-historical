@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230154705id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629134842id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
 
@@ -52,9 +52,3 @@ Some NLM Web sites, such as MedlinePlus, provide links to other Internet sites t
 The U.S. Government maintains this site. For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Causing damage to federal computer systems is a violation of U.S. law and is subject to criminal prosecution in federal court. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from NLM Web logs may be used to help identify an individual.
 
 *PDF documents require the use of the Adobe® Reader, which can be [downloaded](http://get.adobe.com/reader) from the Adobe Web site at no charge.
-
-**Last reviewed:** 05 November 2010  
- **Last updated:** 05 November 2010  
- **First published:** 01 January 1993  
-[ **Metadata**](http://www.nlm.nih.gov/cgi/viewMeta.pl?url=http://www.nlm.nih.gov/privacy.html&description=full)| [**Permanence level**](https://web.archive.org/permlevels.html) **:** Permanent: Stable Content  
-[ **Previous version**](http://www.nlm.nih.gov/archive/20101108/privacy.html)
