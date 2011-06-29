@@ -1,149 +1,58 @@
-> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221211208id_/http%3A//www.daytrotter.com/sc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629041725id_/http%3A//www.daytrotter.com/sc/privacy-policy.html) for the most accurate reproduction.*
 
 # Daytrotter: Privacy Policy
 
-## About Us
+We are committed to protecting your personal security and privacy, and we appreciate your trust that we will do so. By collecting such information at our website we strongly believe that we can significantly improve our level of customer service and make your future visits to our website more worthwhile. 
 
-This is a privacy policy for Daytrotter, LLC. Our homepage on the Web is located at [http://www.daytrotter.com](http://www.daytrotter.com/).The full text of our privacy policy is available on the Web at <http://www.daytrotter.com/sc/privacy-policy.html>
+This Privacy Policy is incorporated into and is subject to our Terms of Use. Your use of our websites and any personal information you provide on our websites remains subject to the terms of this Privacy Notice and our Terms of Use. By visiting this site you are accepting the practices described in this policy.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
-    
-    
-    Daytrotter
-    110 McLellan Blvd.
-    Davenport, IA 52803
-    USA
-    
+#### Information we collect
 
-You may contact us by e-mail at [info@daytrotter.com](mailto:info@daytrotter.com).
+We collect information (such as your name, email address, phone number and credit card number) that you provide when you register to listen to music on Daytrotter, place an order at Daytrotter, save your information with us or participate in a promotion or survey. We also maintain a record of your music preferences, product interests and your purchases from our website.
 
-## Dispute Resolution and Privacy Seals
+#### How we use your information
 
-We have no privacy seals or other assurance mechanisms.
+In the Concert Vault we use your information to support the personalized services the Concert Vault offers - for example, keeping a list of your favorite concerts, and rating individual concerts. We also use your email address to keep you informed of new additions to the Concert Vault.
 
-## Data Collection
+When you make an online purchase from Daytrotter, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, you will be automatically signed up to receive email updates about our products, services, promotions and additions to our websites.
 
-P3P policies declare the data they collect in groups (also referred to as “statements”). This policy contains 2 data groups. The data practices of each group will be explained separately.
+You can be removed from our email list by following the directions on any email that we send to you or by clicking on the "MY ACCOUNT" link in the top right corner of any page on our website. Please note that it may up to six to eight weeks to remove your from our list.
 
-* * *
+#### Sharing your information
 
-### Group “Basic information”
+We do not rent or sell any information about our customers to any other marketers. We do however provide limited customer information to other companies who we employ to perform some functions on our behalf. Examples include processing credit card payments, delivering packages, sending postal mail and e-mail, and analyzing data. These companies have access to personal information needed to perform their functions, but have agreed not to use it for other purposes.
 
-We collect the following information:
+#### Concert Vault Forums
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
-  * User’s interaction with a page or resource
+Registered listeners have the opportunity to participate in the Concert Vault Forums, where they can review concerts and post other information and messages. These forums are made available to other registered listeners as part of the Service. The information you post to Concert Vault Forums, therefore, may be viewed by other visitors. Your forum entries will be identified to others by a "screen name" of your choosing. In addition, to the extent that you post other personal information on your personal page, this information may also be viewed by other registered listeners.
 
+#### Royalty Tracking
 
+In order to make sure that artists receive applicable royalties, the Concert Vault identifies and counts the songs you and all listeners have accessed. We use this data to report and pay royalties, and for internal analysis. We do not share your personal usage data with any third parties.
 
-This data will be used for the following purposes:
+#### How we use Cookies / Advertising
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a website stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you. Our cookies store randomly assigned user identification numbers and other various information that enables us to identify you as a valid registered listener, to ensure that no one else can sign on simultaneously with your account from another computer and to make the personalized features on our websites work. The cookies make your use of the site easier and make the site run more smoothly. We may also use cookies for displaying advertising to users of our websites. You will be unable to use our websites' personalized features, or shop at our websites, without your browser set to accept cookies. **[Click here for instructions on disabling your browser's cookies.](http://www.aboutcookies.org/Default.aspx?page=1)**
 
+#### Email Opt-out
 
+If you have elected to receive newsletters or promotional or marketing correspondence from the Concert Vault or any of our affiliated sites, and later decide that you no longer wish to receive such correspondence from us in the future, you may opt-out from further receipt by following the opt-out instructions provided in such correspondence.
 
-This data will be used by ourselves and our agents.
+#### Security / Safe Shopping Guarantee
 
-The following explanation is provided for why this data is collected:
-    
-    
-    Data collected from all Web users: access logs, and search strings
-    (if entered).
+Protecting the safety of your credit card information is important to us. Ordering from our site is as secure as ordering via a catalog or using your credit card at your favorite restaurant. When you shop from trusted online merchants like us your online experience should be worry free.
 
-* * *
+We use SSL (Secure Socket Layering) 128 bit encryption, the gold standard in Internet encryption technology, to protect your information as it travels over the Internet.
 
-### Group “Cookies”
+Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, we will cover the entire liability for you, up to the full $50. We will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at this site while using our secure server.
 
-At the user’s option, we will collect the following data:
+If you suspect any illegal use of your card, call your issuing bank immediately to make sure your rights are protected.
 
-  * HTTP cookies
+#### Questions?
 
+Please submit any question regarding this Policy by using our [Contact Us form](https://web.archive.org/contact-us.aspx). We may also be contacted directly at the following address:
 
-
-This data will be used for the following purposes:
-
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents.
-
-The following explanation is provided for why this data is collected:
-    
-    
-    Cookies are used to track visitors to our site, 
-    so we can better understand what portions of our site best serve you.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-  * User targeting
-  * Research and development
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is:
-    
-    
-        CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy.
-
-**Field**|  **Meaning**  
----|---  
-CP=| This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-NOI| No identifiable information is collected, so no access is possible.  
-CURa| The data is used for completion of the current activity.  
-ADMa| The data is used for site administration.  
-DEVa| The data is used for research and development.  
-TAIa| The data is used for tailoring the site.  
-OUR| The data is given to ourselves and our agents.  
-BUS| Our business practices specify how long the data will be kept.  
-IND| The data will be kept indefinitely.  
-UNI| Unique identifiers are collected.  
-COM| Computer information is collected.  
-NAV| Navigation and clickstream data is collected.  
-INT| Interactive data is collected.  
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>.
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy’s compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie’s policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy’s compact policy against Microsoft’s stated behavior for IE6.
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
-
-## 
-
-Daytrotter.com Total Tunes Served:  
-10,067,301  
-(As of Feb 21, 2010 02:47 PM UTC) 
-
-## 
-
-In case you’re wondering, Daytrotter is a recording studio with a website. We invite musicians to our studio, record their songs, and give (give, as in “for free, no strings attached”) them to you, from our website. Simple. Of course, if you’re here you probably already knew that. Please tell your friends. There are plenty of songs for everyone.
-
-[Contact Us](mailto:support@daytrotter.com?subject=A%20Question%20for%20Daytrotter) | [Privacy Policy](https://web.archive.org/sc/privacy-policy.html)   
-For information about Advertising, contact our [Advertising Team](mailto:adsales@daytrotter.com)   
-Copyright © 2009 Daytrotter, LLC. All rights reserved.
-
-All songs posted at daytrotter.com are the exclusive property of the respective recording artists and Daytrotter. Please do not post these songs on other websites unless you use our embed feature. We encourage you to link directly to the session page for a particular band or artist’s session.
+Attn: Privacy Officer  
+Daytrotter  
+225 18th Streeet  
+Rock Island, IL 61201 
