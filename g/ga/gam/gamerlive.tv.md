@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerlive.tv privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123081834id_/http%3A//gamerlive.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerlive.tv privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629233219id_/http%3A//gamerlive.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamerLive.TV
 
