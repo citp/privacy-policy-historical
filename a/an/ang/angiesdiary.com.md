@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the angiesdiary.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110002020id_/http%3A//angiesdiary.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angiesdiary.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629072549id_/http%3A//angiesdiary.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Angie’s DIARY | Stories & Articles
+# Privacy Policy - Angie′s DIARY | Online Writing Magazine
 
-## Privacy Policy
-
-Rating: 5.0/ **5** (1 vote cast)
-
- _ **This privacy statement covers Angie’s DIARY. Please read this statement carefully before proceeding to access Angie’s DIARY. Your use of Angie’s DIARY indicates your agreement to abide by the Terms in effect.**_
+_**This privacy statement covers Angie’s DIARY. Please read this statement carefully before proceeding to access Angie’s DIARY. Your use of Angie’s DIARY indicates your agreement to abide by the Terms in effect.**_
 
  **Information Collection**  
 Angie’s DIARY is the sole owner of the information collected on the Angie’s DIARY. Angie’s DIARY may collect information from our users at several different points on the Angie’s DIARY.
@@ -41,9 +37,3 @@ Whenever Angie’s DIARY changes its privacy policy, we will post those changes 
  **Contact Information**  
 If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Angie’s DIARY at contact@angiesdiary.com  
 
-
-Rating: 5.0/ **5** (1 vote cast)
-
-[.](http://www.google.com/) [.](http://www.yahoo.com/) [.](http://www.ask.com/) [.](http://www.bing.com/) [.](http://search.aol.com/aol/webhome) [.](http://www.google.com/)
-
-##  beauty-health, medical, surgery, creativity, publishing, storytelling, writing-creativity, entertainment, folk-dancing, Hollywood, music, tv, food-drink, diet, recipes, wine, gospel, happiness-wellbeing, self-defense, home-family, children, divorce, marriage, motherhood, parenthood, pets, pregnancy, hum-rel, human relations, friendship-relationships, intimacy, love, lifestyle, article, feng-shui, leisure-time, spirituality, womens-interest, psychology, personality, self-improvement, stress-management, self-improvement, society, abuse, celebrities, communication-society, fashion, funny, gossip, manifestation, stories, Christian, dark-noir, essay, excerpt, fairy-tale, fantasy, historic-intimacy, historical, history-stories, horror, interview, intimate-fantasy, lyrics, mystery-story, paranormal, poem-stories, poetic-prose, romance-novel, romantic-story, romantic-thriller, short-story-stories, synopsis, thriller, travel 
