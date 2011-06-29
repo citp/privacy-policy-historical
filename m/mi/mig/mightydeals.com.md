@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the mightydeals.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207235207id_/http%3A//www.mightydeals.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightydeals.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629065957id_/http%3A//www.mightydeals.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MightyDeals
 
-Privacy Policy
+Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site. When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site. 
-
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
-
-1\. Personal Information You Choose to Provide 
-
-Registration Information: You will need to provide us with your email address when you sign up to receive our newsletter. 
-
+1\. Personal Information You Choose to Provide  
+Registration Information: You will need to provide us with your email address when you sign up to receive our newsletter.  
 Email Information: If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
 
 2\. Web Site Use Information  
