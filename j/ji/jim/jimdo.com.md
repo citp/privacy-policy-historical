@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229111858id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630005606id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Jimdo
 
-At Jimdo we care about your privacy and the security of your personal data. We comply applicable with applicable data privacy laws and regulations for your safety and security. In the following we describe what information is collected and how we handle it. This policy applies to all of the Jimdo Products. Jimdo is a service of the Jimdo GmbH.  
-If you have any questions about this Policy, please don’t hesitate to contact us at [privacy@jimdo.com](mailto:privacy@jimdo.com) or write to Jimdo, Privacy Department, Stresemannstr. 375, 22761 Hamburg, Germany  
+At Jimdo we care about your privacy and the security of your personal data. We comply with applicable data privacy laws and regulations for your safety and security. In the following we describe what information is collected and how we handle it. This policy applies to all Jimdo products. Jimdo is a service of the Jimdo GmbH.  
+If you have any questions about this policy, please don’t hesitate to [contact us](http://www.jimdo.com/info/privacy-statement/privacy-contact/) through the form below or write to Jimdo, Privacy Department, Stresemannstr. 375, 22761 Hamburg, Germany  
 Jimdo collects, processes, and uses personal data of a user without further necessary agreement only insofar as it is necessary for the establishment, fulfillment, and billing of the contract.  
 What information is collected and how is it used? 
 
@@ -51,4 +51,10 @@ If you have any additional questions or concerns about this Policy, please feel 
 
 **Please note:** The previous version of our privacy statement (from February 2007 and May 2008) is stored under: [Old Version of Privacy Statement](http://www.jimdo.com/info/privacy-statement-old/)
 
-If you don't agree with the changes of our privacy statement, it is possible to beg to differ within one month. After this period of time, the changes are considered to be accepted. Please enter your objection via E-Mail: [privacy@jimdo.com](mailto:privacy@jimdo.com) or write to Jimdo GmbH, Stresemannstrasse 375, 22761 Hamburg, Germany. 
+If you don't agree with the changes of our privacy statement, it is possible to decline them within one month. After this period of time, the changes are considered to be accepted. Please enter your objection via the [contact form](http://www.jimdo.com/info/privacy-statement/privacy-contact/) below or write to 
+
+Jimdo GmbH 
+
+Stresemannstrasse 375 
+
+22761 Hamburg, Germany 
