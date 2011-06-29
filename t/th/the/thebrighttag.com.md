@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrighttag.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223172809id_/http%3A//thebrighttag.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrighttag.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629073201id_/http%3A//thebrighttag.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BrightTag - One for All.
 
@@ -12,7 +12,7 @@ This Privacy Policy is subject to change from time to time. BrightTag will endea
 
 ### A. Terms of Use for our Website
 
-BrightTag's Website is governed by the Terms of Use posted on the Website. Please review our _[Website Terms of Use](https://web.archive.org/web/20101223172809id_/http%3A//thebrighttag.com/terms_of_use.php)_ in conjunction with our Website Privacy Policy. As noted in those Terms of Use, although we operate internationally, BrightTag is a corporation organized under the laws of the State of Delaware. The servers that host our Website are located in the United States, and any personal details you provide to us will be processed by BrightTag in the United States. By using our Website, you agree that the laws of the State of Illinois, without regard to its conflict of laws principles, will govern all matters between you and BrightTag with respect to your use of our Website. 
+BrightTag's Website is governed by the Terms of Use posted on the Website. Please review our _[Website Terms of Use](https://web.archive.org/web/20110629073201id_/http%3A//thebrighttag.com/terms_of_use.php)_ in conjunction with our Website Privacy Policy. As noted in those Terms of Use, although we operate internationally, BrightTag is a corporation organized under the laws of the State of Delaware. The servers that host our Website are located in the United States, and any personal details you provide to us will be processed by BrightTag in the United States. By using our Website, you agree that the laws of the State of Illinois, without regard to its conflict of laws principles, will govern all matters between you and BrightTag with respect to your use of our Website. 
 
 ### B. Application of the Safe Harbor Principles
 
