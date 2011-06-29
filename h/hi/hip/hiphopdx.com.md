@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiphopdx.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229234019id_/http%3A//www.hiphopdx.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopdx.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629033017id_/http%3A//www1.hiphopdx.com/index/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | HipHopDX
+# Privacy Policy | HipHop DX
 
 The information Cheri Media Group, HipHopDX.com and its affiliated persons and entities ("Cheri Media Group") collects about you at http://www.HipHopDX.com ("HipHopDX.com"), is used to provide you with a more personalized and rich experience while visiting HipHopDX.com. HipHopDX.com is intended for viewing solely in the United States. Your use of HipHopDX.com is expressly conditioned on your acceptance of and agreement to this Privacy Policy. This Privacy Policy sets forth the terms and conditions that apply to your use of HipHopDX.com. By using HipHopDX.com, you agree to abide by this Privacy Policy. In addition, when using specific services or entering contests or sweepstakes, you agree to abide by any guidelines or rules posted in connection with such services, contests or sweepstakes, all of which are hereby incorporated by reference into this Privacy Policy. **If you do not agree with any posted guidelines or rules, or with any part of this Privacy Policy, you must not use HipHopDX.com**. If you do not comply with this Privacy Policy at all times when using HipHopDX.com, Cheri Media Group reserves the right to deny or restrict your access. The terms and conditions of this Privacy Policy shall apply regardless of the means by which HipHopDX.com was accessed, including but not limited to through the URL, electronic mail or links from other sites. Please read on for details.
 
@@ -22,7 +22,7 @@ The information learned from HipHopDX.com's users, members and customers helps C
 
 Automatic Information: Cheri Media Group receives and stores certain types of Automatic Information whenever you interact with HipHopDX.com. Here are the types of Automatic Information Cheri Media Group gathers and how it is used:
 
-IP Address: Your Internet Protocol ("IP") address is a unique identifier used to connect your computer to the Internet. Your IP address also is stored in HipHopDX.comÃ¢â‚¬â„¢s user registration databases when you register with HipHopDX.com.
+IP Address: Your Internet Protocol ("IP") address is a unique identifier used to connect your computer to the Internet. Your IP address also is stored in HipHopDX.comâ€™s user registration databases when you register with HipHopDX.com.
 
 IP addresses may be used for various purposes, including to:
 
@@ -34,7 +34,7 @@ IP addresses may be used for various purposes, including to:
 
 
 
-Cookies: HipHopDX.com uses a feature of your Internet Web browser called a "cookie," a small piece of information stored on your hard drive that uniquely identifies your intra- and inter-requests on HipHopDX.com. Cookies may be used for various purposes, including to keep track of preferences you specify while you are using HipHopDX.com. Other companies that are presenting advertisements on some of HipHopDX.comÃ¢â‚¬â„¢s pages may set and access cookies on your computer. Cheri Media Group does not control cookies from third-party advertisers. Other companies' use of their cookies is subject to their own privacy policies and not the privacy policy of Cheri Media Group The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+Cookies: HipHopDX.com uses a feature of your Internet Web browser called a "cookie," a small piece of information stored on your hard drive that uniquely identifies your intra- and inter-requests on HipHopDX.com. Cookies may be used for various purposes, including to keep track of preferences you specify while you are using HipHopDX.com. Other companies that are presenting advertisements on some of HipHopDX.comâ€™s pages may set and access cookies on your computer. Cheri Media Group does not control cookies from third-party advertisers. Other companies' use of their cookies is subject to their own privacy policies and not the privacy policy of Cheri Media Group The use of advertising cookies sent by third-party servers is standard in the Internet industry.
 
 Web Beacons: Web pages may contain electronic images (called a "single-pixel GIF" or "Web beacon") that allow a website to count users who have visited that page or to access certain cookies. Cheri Media Group uses Web beacons in the following ways:
 
