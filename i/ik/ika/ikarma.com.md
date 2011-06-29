@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikarma.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229045803id_/http%3A//ikarma.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikarma.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629103048id_/http%3A//www.ikarma.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - iKarma
 
@@ -9,9 +9,9 @@ This is the Privacy Statement of iKarma. We understand that our members and Web 
 **How can you reach us?**  
 Our postal address is: 
 
-     iKarma, Inc.  
-  1203 Town Center Dr. #212  
-  Jupiter , FL 33458 
+     iKarma, LLC  
+  790 Juno Ocean Walk, Suite 501c  
+  Juno Beach , FL 33408 
 
 Reach us via email at [info@ikarma.com](https://web.archive.org/aboutus/contactus.asp?mailto=info), by telephone at (561) 427-7285 or by fax at (561) 427-7881. 
 
