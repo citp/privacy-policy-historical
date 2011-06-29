@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122113915id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629040821id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Good Sam Club
 
 We appreciate the trust you place in Affinity, its brands and websites. To continue to earn this trust, we are committed to protecting your privacy and the security of your personal information. Our privacy policy (this “Privacy Policy”) describes how we collect, protect, use, and share information gathered about you on our family of websites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet and with us. 
 
-Please read this Privacy Policy before you use this site. Your use of our website signifies that you agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related issues, please contact us via email at info@affinitygroup.com 
-
-Or write us at: 
+Please read this Privacy Policy before you use this site. Your use of our website signifies that you agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related issues, please feel free to contact us directly at any time.
 
 Affinity Group, Inc.  
 PO Box 6888  
-Englewood, CO 80155-6888
+Englewood, CO 80155-6888  
+800-234-3450  
+[info@affinitygroup.com](mailto:info@affinitygroup.com)
 
 ## Types of information we collect and how we collect it.
 
