@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credomobile.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218123204id_/http%3A//www.credomobile.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credomobile.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629133615id_/http%3A//www.credomobile.com/misc/privacy.aspx) for the most accurate reproduction.*
 
 # CREDO Mobile - Security and Privacy
 
