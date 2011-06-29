@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brokeprofessionals.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229225106id_/http%3A//brokeprofessionals.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokeprofessionals.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629231910id_/http%3A//brokeprofessionals.com/privacy-statement) for the most accurate reproduction.*
 
-# » Privacy Statement
+# Privacy Statement | Broke Professionals
 
 WWW.BROKEPROFESSIONALS.COM (hereinafter referred to as “We”) has created this privacy statement for www.brokeprofessionals.com in order to demonstrate our commitment to privacy. Accordingly, below discloses the privacy statement and privacy practices of this site.
 
