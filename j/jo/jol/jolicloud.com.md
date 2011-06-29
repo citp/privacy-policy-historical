@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230134747id_/http%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629184644id_/http%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
 
 # Jolicloud - Privacy Policy
 
-**Jul. 21th 2010**
+**March 16th 2011**
 
 We value your privacy and will take all reasonable steps to safeguard the security of any information you input or send to us by using secure services and encryption technology.
 
@@ -18,7 +18,11 @@ When you sign up for Jolicloud you provide us with your name and email address. 
 
 We may collect information about your usage of and interaction with the Jolicloud services and Jolicloud sites including computer and connection information, device capability, bandwidth, statistics on page views, and traffic to and from our websites and services.
 
-We may also collect data pertaining to your "Friends" and list you as a "Follower" on their profile or collect and share other information for your activity, including (but not limited to) the applications you have installed on your computer, friends you have connected with, and upgrades you have made to your computer. We offer search tools to help you find and connect with your friends already on Jolicloud, as well as tools to invite your friends who do not have Jolicloud accounts to join. In addition we provide contact importer tools such as Facebook Connect to help connect with your friends who are members of both Facebook & Jolicloud.
+We may also collect data pertaining to your “Friends” and list you as a “Follower” on their profile or collect and share other information for your activity, including (but not limited to) friends you have connected with, upgrades you have made and applications you have installed, removed, created and accessed. We do not collect data relating to your use of third party applications. We offer search tools to help you find and connect with your friends already on Jolicloud, as well as tools to invite your friends who do not have Jolicloud accounts to join. In addition we provide contact importer tools such as Facebook Connect to help connect with your friends who are members of both Facebook & Jolicloud.
+
+### Information that gets shared publicly
+
+When you “star” an application it will appear in your stream and be visible for all your “Followers” inside Jolicloud. In addition it will appear on your “Public Page” which can be accessed by everyone on the Internet, be indexed by third party search engines, and be imported, exported, distributed, and redistributed by us and others without privacy limitations. The default privacy setting is to share your “starred” applications on your “Public Page”. You can deactivate the sharing of this information.
 
 ### Information we receive from third parties
 
