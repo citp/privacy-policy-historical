@@ -1,37 +1,13 @@
-> *The following text is extracted and transformed from the 3par.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812215237id_/http%3A//www.3par.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3par.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629022015id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
 
-# 3PAR Privacy Policy
+# HP Online privacy statement
 
-[Home](https://web.archive.org/home.html) > 3PAR Privacy Policy
+To serve you better and understand your needs and interests, HP collects, exports, and uses personal information with adequate notice and consent, along with required filings with data protection authorities, when applicable. For example, when you order products or services, apply for instant credit, request information, subscribe to marketing or support materials, register yourself or your HP products, enter contests or participate in surveys, or apply for a job at HP, we will ask you to provide personal information to complete these transactions. The types of personal information you provide to us on these pages may include contact information such as your name, address, telephone number, and email address; financial information such as your credit card number; and other unique information such as user IDs and passwords, billing and transaction information, product and service preferences, contact preferences, educational and employment background, and job interest data. If you apply for instant credit, we will ask you to provide additional sensitive personal information such as salary, Social Security number and banking information. This information will be used by our financial services providers in determining whether to extend you credit. 
 
-**3PAR Inc.**  
-4209 Technology Drive  
-Fremont, CA 94538
+If you choose to use a tell-a-friend program on our site, we will ask you for your friend’s e-mail address or mobile phone number and automatically send your friend a one-time message inviting your friend to visit the site. HP uses and stores this information only for the purpose of sending this one-time message and to provide tell-a-friend message blocking, where available.
 
-3PAR® can be reached via e-mail at [salesinfo@3PAR.com](mailto:salesinfo@3PAR.com) or by telephone at 510-413-5999.
+If you post, comment or share personal information, including photographs, to any public forum on an HP site, social network, blog, or other such forum, please be aware that any personal information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes that neither you nor HP have control over. HP is not responsible for the personal information you choose to submit in these forums.
 
-3PAR respects the privacy concerns of our customers and website visitors.
+In addition to the information you provide, HP may also collect information during your visit to an HP website, or a website “powered by” another company on behalf of HP, through our Automatic Data Collection Tools, which include Web beacons, cookies, embedded Web links, and other information-gathering tools. These tools collect certain traffic information that your browser sends to a website, such as your browser type and language, access times, and the address of the website from which you arrived . They may also collect information about your Internet Protocol (IP) address, click stream behavior (i.e. the pages you view, the links you click, and other actions you take in connection with HP websites or “powered by” websites) and product information. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers use IP addresses to communicate on the Internet, allowing users to browse and shop. HP may also use some of these Automatic Data Collection Tools in connection with certain emails sent from HP and therefore may collect information using these tools when you open the email or click on a link contained in the email. To learn more, read [How HP uses automatic data collection tools](http://welcome.hp.com/country/us/en/privacy/cookies_beacons.html). 
 
-  For each visitor to our website, our web server automatically recognizes only the consumer's domain name, but not their e-mail addresses (where possible).
-
-We collect only the domain names (but not the e-mail addresses) of visitors to our website, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our website or to customize the content and/or layout of our site for each individual visitor. 
-
-If you do not want to receive e-mail from 3PAR in the future, please let us know by sending email to [unsubscribe@3PAR.com](mailto:unsubscribe@3PAR.com).
-
-From time to time we make our customers' e-mail addresses available to other reputable organizations whose products or services we think they might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
-
-If you supply us with your postal address online, you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address. 
-
-Persons who supply us with their telephone numbers online may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by sending us e-mail at the above address. In your correspondence, please provide us with your name and phone number and we will be sure your name is removed from the list we share with other organizations.
-
-We do not partner with or have special relationships with any ad server companies.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.
-
-If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our website periodically.
-
-Upon request, we provide site visitors with access to a description of information that we maintain about them. Web visitors can access this information by e-mailing us at the above address. Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Web visitors can have this information corrected by sending us e-mail at the above address.
-
-3PAR has appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+HP also collects information from commercially available sources that it deems credible. Such information may include your name, address, email address and demographic data. The information HP collects from its commercial sources may be used along with the information HP collects when you visit HP’s websites. For example, HP may compare the geographic information acquired from commercial sources with the IP address collected by Automatic Data Collection Tools to derive your general geographic area.  
