@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230071157id_/http%3A//www.prlog.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629085141id_/http%3A//www.prlog.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
 
 Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe.
 
@@ -60,10 +58,11 @@ We create aggregate reports on user demographics and traffic patterns for advert
 
 We may share limited aggregate reports with our site users so that they can know how their content is performing.
 
-We use third party advertisements on our site to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). You can view their privacy policy by [clicking here](http://www.google.com/privacy.html). 
+We use third party advertisements on our site to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). You can view their privacy policy by [clicking here](http://www.google.com/privacy.html).
 
-  * Google, as a third party vendor, uses cookies to serve ads on our site.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.
+  * Google's use of the DART cookie enables it and its partners to serve ads to users based on their visit to our site and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google [advertising opt-out page](http://www.google.com/privacy_ads.html) and/or Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 
 
@@ -87,5 +86,3 @@ We give users options wherever necessary and practical. Such choices include:
 ## Your Consent
 
 By using this site, you consent to the collection and use of this information by us. If we decide to change our privacy policy, we will post the revised policy on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-| |  | 
