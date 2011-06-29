@@ -1,120 +1,105 @@
-> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214044412id_/http%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629141352id_/http%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
 
 # Designer Pages: Privacy Policy
 
-What this Privacy Policy covers
+Last Updated: March 2011
 
-  
+This policy covers eight sections, and you can jump to each by selecting the links below: 
 
-
-  *     * This policy covers how DESIGNER PAGES treats personal information that DESIGNER PAGES collects and receives, including information related to your past use of DESIGNER PAGES products and services. Personal information is information about you that is personally identifiable like your Designer Pages, address, email address, or phone number, and that is not otherwise publicly available. 
-  
-
-    * This policy does not apply to the practices of companies that DESIGNER PAGES does not own or control, or to people that DESIGNER PAGES does not employ or manage. In addition, certain DESIGNER PAGES associated companies have their own privacy statements which can be viewed by clicking on the links. 
-  
-
-  
-
-
-
-Information Collection and Use
-
-  
+Introduction  
+1\. The Type of Information We Collect and Use  
+2\. The Way We Use Information  
+3\. Cookies and Web Beacons  
+4\. Your Ability to Edit or Delete Account Information  
+5\. Confidentiality and Security  
+6\. Children Under 13  
+7\. Changes to this Privacy Policy  
+8\. Your Consent  
 
 
-  * General   
+**Introduction**
 
-    * DESIGNER PAGES collects personal information when you register with DESIGNER PAGES, when you use DESIGNER PAGES products or services, when you visit DESIGNER PAGES pages or the pages of certain DESIGNER PAGES partners, and when you enter promotions or sweepstakes. DESIGNER PAGES may combine information about you that we have with information we obtain from business partners or other companies. 
-  
+Designer Pages Online LLC ("We," "Our," or "the Company") respects the privacy of your personal information and provides the following explanation of how We treat personal information that We collect and receive when you use Our website and services, including any of Our mobile apps, such as the Showrooms app (the "Site" or the "Services"). The type and amount of information We collect about you varies according to how you use Our Services. 
 
-    * When you register we ask for information such as your Designer Pages, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with DESIGNER PAGES and sign in to our services, you are not anonymous to us. 
-  
+This policy does not apply to the practices of companies that We do not own or control, or to practices of people that We do not employ or manage. 
 
-    * DESIGNER PAGES collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  
+**The Type of Information We Collect and Use**
 
-    * DESIGNER PAGES automatically receives and records information on our server logs from your browser, including your IP address, DESIGNER PAGES cookie information, and the page you request. 
-  
+Personal information is information about you that is personally identifiable and that is not otherwise publicly available, such as your address, email address, and phone number. We may collect personal information when you register with Our Site, when you use certain products and Services, when you visit Our Site or the websites of certain third parties, and when you enter promotions or sweepstakes. For example: 
 
-    * DESIGNER PAGES uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-  
+  * When you register on Our Site, We collect and store your email address, zip code, occupation, industry, and personal interests. We may also collect and store information We are able to gather about you through social media and networking websites, including but not limited to, Facebook, Twitter, and LinkedIn. Once you register with the Company and sign into Our Services, you are not anonymous to the Company.
 
-  * Information Sharing and Disclosure   
+  * If you use Our location-enabled Services, We may collect and reveal to the public your physical location, including but not limited to your GPS data, in addition to any additional comments and information you may post.
 
-    * DESIGNER PAGES does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-  
+  * We collect information about your interactions with the Company and with some third parties whose information you have viewed through our Site, such as advertisers, manufacturers and showroom owners, including wholesale distributors and retailers ("Third Parties"). We may share the information We collect about you with such Third Parties.
 
-    * We provide the information to trusted partners who work on behalf of or with DESIGNER PAGES under confidentiality agreements. These companies may use your personal information to help DESIGNER PAGES communicate with you about offers from DESIGNER PAGES and our marketing partners. However, these companies do not have any independent right to share this information. 
-  
+  * We automatically gather general statistical information from your browser, including your IP address, cookie information, and the pages you request. We use this data to determine how much users use parts of Our Site so We can improve Our Site and report this data to Third Parties in the aggregate to provide information on designer behavior trends. We may also use and report individual data, including personally identifiable data, to Third Parties that you interact with using Our Site.
 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-  
-
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of DESIGNER PAGES's terms of use, or as otherwise required by law. 
-  
-
-    * We transfer information about you if DESIGNER PAGES is acquired by or merged with another company. In this event, DESIGNER PAGES will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  
-
-    * DESIGNER PAGES does not now, but may in the future choose to provide targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-  
-
-    * DESIGNER PAGES does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-  
-
-    * DESIGNER PAGES advertisers could include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-  
-
-    * DESIGNER PAGES works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links. 
-  
-
-  * Cookies   
-
-    * DESIGNER PAGES may set and access DESIGNER PAGES cookies on your computer. 
-  
-
-    * DESIGNER PAGES lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to DESIGNER PAGES's cookies. 
-  
-
-    * DESIGNER PAGES uses web beacons to access DESIGNER PAGES cookies inside and outside our network of web sites and in connection with DESIGNER PAGES products and services. 
-  
+  * We may combine information about you that We have with information We obtain from Third Parties, social media and networking websites, including but not limited to, Facebook, Twitter, LinkedIn, and other companies.
 
 
 
 
-Your Ability to Edit Account Information and Preferences
+The information We may collect is categorized as follows: 
 
-  * General   
+  * Application Information- information you provide to the Company through Our Site and through other means. Examples include your name, address, and telephone number.
 
-    * You can edit your DESIGNER PAGES Account Information, including your preferences, at any time. 
-  
-
-    * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  
-
-    * We reserve the right to send you certain communications relating to the DESIGNER PAGES service, such as service announcements, administrative messages and the DESIGNER PAGES Newsletter, that are considered part of your DESIGNER PAGES account, without offering you the opportunity to opt-out of receiving them. 
-  
-
-    * You can delete your DESIGNER PAGES account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted. 
-  
-  
-
-  * Confidentiality and Security
-    * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  
-
-    * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  
-
-    * To learn more about security, including the security steps we have taken and security steps you can take, please read Security at DESIGNER PAGES. 
-  
-  
-
-  * Changes to this Privacy Policy   
-
-    * DESIGNER PAGES may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your DESIGNER PAGES account or by placing a prominent notice on our site. 
-  
-
-  
+  * Information from Outside Sources- information from outside sources regarding your background and other relationships. Examples include your public record information available on social media and networking websites.
 
 
+
+
+Back to top
+
+**The Way We Use Information**
+
+We generally use information for the following purposes: to customize the advertising and content you see, to provide you with the Services, to improve the Services, to contact you, to conduct research, and to provide reporting for Third Parties. In addition: 
+
+  * We provide your name, email address, company and search information to Third Parties. These Third Parties may use your personal information to communicate with you about their offers and offers from Our Company if they choose to do so. 
+
+  * We may use information to resolve disputes, investigate problems, or enforce the Terms of Service. At times, We may review status or activity of multiple users to do so. We may disclose or access information whenever We believe in good faith that the law so requires or if We otherwise consider it necessary to do so to maintain and improve Our Services. 
+
+  * We may provide targeted advertisements based on personal information. Advertisers may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. By interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. We may provide personal information to an advertiser if you interact with or view a targeted ad.
+
+
+
+
+We may send you certain communications relating to Our Services, such as service announcements and administrative notices. We may also send you Our email newsletter and other communications relevant to the Site. You may unsubscribe to the email newsletter or select certain categories of newsletters you wish to receive from the Company by visiting our Newsletter Preferences page. You may also unsubscribe to our email newsletter by following the instructions contained in the communication. 
+
+Back to top
+
+**Cookies and Web Beacons**
+
+As part of Our Services, We use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. We use web beacons to access Our cookies inside and outside Our Site and in connection with Our Services. We may also use web beacons to determine whether you have visited a link on Our Site. In some instances, We allow other companies that show advertisements on some of Our pages to use their own cookies, which are subject to their own privacy policies. We encourage you to read their privacy policies before responding to their offers. 
+
+Back to top
+
+**Your Ability to Edit or Delete Account Information**
+
+You can edit your account information at any time through normal updating methods. To delete your account, please email the Company at [accounts@designerpages.com](mailto:accounts@designerpages.com). Please click here to read about information that might possibly remain in Our archived records after your account has been deleted. 
+
+Back to top
+
+**Confidentiality and Security**
+
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Further, We limit access to personal information about you to employees who We believe reasonably need to come into contact with that information to provide the Services to you or in order to do their jobs. 
+
+Back to top
+
+**Children Under 13**
+
+We have no way of distinguishing the age of individuals who access Our Site, and so We carry out the same privacy policy for individuals of all ages. If a child has provided the Company with personal information without parental or guardian consent, the parent or guardian should contact the Company to remove the information and opt out of promotional opportunities. 
+
+Back to top
+
+**Changes to this Privacy Policy**
+
+We may update this Privacy Policy from time to time. Any changes to Our Privacy Policy will be communicated through Our Site. We will also contact registered users by email when and if significant changes are made to this Privacy Policy. 
+
+Back to top
+
+**Your Consent**
+
+By using Our Site, you consent to the collection and use of this information in the manner We describe. 
+
+Back to top
