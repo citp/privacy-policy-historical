@@ -1,238 +1,315 @@
-<!--The following is the downloaded HTML source of the goodsamclub.com privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122113915id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goodsamclub.com privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629040821id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>
 	Good Sam Club
 </title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="y_key" content="f49631e3f9d62703"><meta name="msvalidate.01" content="1BA53BCB33B04EFB9FBBEAF333515F7D"><link href="/common/styles/printer/print.css" rel="stylesheet" type="text/css" media="print"><link href="/common/styles/common.css" rel="stylesheet" type="text/css"><link id="ctl00_GscCSS" href="common/styles/gsc.css" rel="stylesheet" type="text/css"><link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon"><link rel="stylesheet" href="/common/styles/lightbox.css" type="text/css" media="screen"><link id="ctl00_search" href="common/styles/searchResults.css" rel="stylesheet" type="text/css">
-    
     <!--[if IE 6]>
 	    <link href="common/styles/gsc_ie6.css" rel="stylesheet" type="text/css" />
     <![endif]-->
     <!--[if IE 7]>
 	    <link href="common/styles/gsc_ie7.css" rel="stylesheet" type="text/css" />
     <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="/common/styles/contentslider.css">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/contentslider.js"></script>
     <script type="text/javascript" language="JavaScript" src="/js/common.js"></script>
     <script type="text/javascript" language="JavaScript" src="/js/cgsearch.js"></script>
-	<script type="text/javascript" language="JavaScript" src="/js/trip.js"></script>
-
-    <script type="text/javascript" language="javascript">AC_FL_RunContent = 0;</script>
-
+    <script type="text/javascript" language="JavaScript" src="/js/trip.js"></script>
+    <script type="text/javascript" language="javascript">        AC_FL_RunContent = 0;</script>
     <script type="text/javascript" src="/js/AC_RunActiveContent.js" language="javascript"></script>
-
+    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.1.min.js"></script>
     <script language="JavaScript" type="text/javascript">
-    function toggleLayer( whichLayer )
-    {
-      var elem, vis;
-      if( document.getElementById ) // this is the way the standards work
-        elem = document.getElementById( whichLayer );
-      else if( document.all ) // this is the way old msie versions work
-          elem = document.all[whichLayer];
-      else if( document.layers ) // this is the way nn4 works
-        elem = document.layers[whichLayer];
-      vis = elem.style;
-      // if the style.display value is blank we try to figure it out here
-      if(vis.display==''&&elem.offsetWidth!=undefined&&elem.offsetHeight!=undefined)
-        vis.display = (elem.offsetWidth!=0&&elem.offsetHeight!=0)?'block':'none';
-      vis.display = (vis.display==''||vis.display=='block')?'none':'block';
-    }
-    function CallInit()
-    {
-        // if init() function exists in the page, the call it otherwise don't
-        if( typeof init == 'function' )
-            init();      
-         
-    }
-    
-    function Open_PopUp (page) 
-    {
-        var options="toolbar=no,  location=no,  scrollbars=no, resizable=no, width=550, height=785, top=85, left=140";
-        window.open(page,"",options);
-    }
-    function RemindMeLater() 
-    {  
-        toggleLayer('regPopUpExpire');
-        toggleLayer('overlaypopExpire');
-        //call the postback function which when handled in the code behind calls RemindMeLater.
-        __doPostBack('RemindMeLater',null);  
-    }  
-    
-    function SoonRemindMeLater() 
-    {  
-        toggleLayer('expireSoon60PopUp');
-        toggleLayer('expireSoon60OverlayPop');
-        //call the postback function which when handled in the code behind calls RemindMeLater.
-        __doPostBack('SoonRemindMeLater',null);  
-    } 
+        var $j = jQuery.noConflict();
+        $j(CallInit);
+        function CallInit() {
+            // if init() function exists in the page, the call it otherwise don't
+            if (typeof init == 'function')
+                init();
+        }
+        function toggleLayer(whichLayer) {
+            var elem, vis;
+            if (document.getElementById) // this is the way the standards work
+                elem = document.getElementById(whichLayer);
+            else if (document.all) // this is the way old msie versions work
+                elem = document.all[whichLayer];
+            else if (document.layers) // this is the way nn4 works
+                elem = document.layers[whichLayer];
+            vis = elem.style;
+            // if the style.display value is blank we try to figure it out here
+            if (vis.display == '' && elem.offsetWidth != undefined && elem.offsetHeight != undefined)
+                vis.display = (elem.offsetWidth != 0 && elem.offsetHeight != 0) ? 'block' : 'none';
+            vis.display = (vis.display == '' || vis.display == 'block') ? 'none' : 'block';
+        }
+
+        function ShowPopupMessage(messageId) {
+            var popupBox = $j("#" + messageId);
+            var background = popupBox.siblings(".modalBackground");
+            if ($j.browser.msie) {
+                background.show();
+                popupBox.show();
+            }
+            else {
+                background.fadeIn(500);
+                popupBox.fadeIn(1500);
+            } 
+        }
+
+        function ClosePopupMessage(messageId) {
+            var popupBox = $j("#" + messageId);
+            popupBox.fadeOut(500);
+            popupBox.siblings(".modalBackground").fadeOut(500);
+        }
+
+        function Open_PopUp(page) {
+            var options = "toolbar=no,  location=no,  scrollbars=no, resizable=no, width=550, height=785, top=85, left=140";
+            window.open(page, "", options);
+        }
+
+        function RemindMeLater(days, messageId) {
+            if (!days.isNaN) {
+                $j.ajax({
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    data: '{"days":' + days + '}',
+                    dataType: "json",
+                    url: $j(location).attr('href') + "/RemindMeLaterAjax"
+                });
+
+            }
+        }    
     </script>
-
     <style type="text/css">
-      .modalBackground 
-      {
-	    background-color:Gray;
-	    filter:alpha(opacity=70);
-	    opacity:0.7;
-      }
-      .messageBox 
-      {
-	    border: 1px solid #c00;
-    	background-color: #ffc;	
-    	padding: 0;
-    	text-align: center;
-    	font-weight: bold;
-    	color: #c00;
-       }
-      .message 
-      {	
-	    background-color: #ffc;
-	    padding: 5px;
-	    text-align: left;
-	    font-weight: bold;
-	    color: Red;
-	    font-size:12px;
-       }
-           </style>
+        .modalBackground
+        {
+            opacity: 0.7;
+            filter: alpha(opacity=70);
+            display: none;
+            position: fixed;
+            _position: absolute;
+            height: 100%;
+            width: 100%;
+            top: 0;
+            left: 0;
+            background: Gray;
+            z-index: 5000;
+        }
+        .messageBox
+        {
+            background: none;
+            border: none;
+            display: none;
+            position: fixed;
+            top: 50%;
+            margin-top: -200px;
+            _position: absolute;
+            height: 500px;
+            width: 100%;
+            z-index: 5001;
+            text-align: center;
+        }
+        .message
+        {
+            background-color: #ffc;
+            padding: 5px;
+            text-align: left;
+            font-weight: bold;
+            color: Red;
+            font-size: 12px;
+        }
+    </style>
     <meta name="AGI Server Status" content="Server Validation"></head>
-<body onload="CallInit();">
-
-
+<body>
+    <!-- Added 12/21/2010 by T.Copeland -->
+    <!-- Advertiser 'Recrue Media',  Conversion tracking 'Recrue Media - Affinity Group - Good Sam Club' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+    <img id="ctl00_ImgTrackPixel" src="http://ad.yieldmanager.com/pixel?id=1064425&amp;t=2" height="1" width="1" border="0">
+    <!-- End of conversion tag -->
     
     
-     
-
-<div id="widthWrapper">
-    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIFD2QWGAICDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh4EVGV4dAUHU2lnbiBJbmRkAggPZBYCZg9kFgICCQ8PFgIeCEltYWdlVXJsBRN+L2ltYWdlcy9uYXYvZ28uanBnZGQCDQ8WAh4FY2xhc3MFC2hvbWVjdXJyZW50ZAIiDxYCHwMFBGxhc3RkAigPFgIfAwUEbGFzdGQCLw8WAh8DBQRsYXN0ZAIzDxYCHwMFBGxhc3RkAjgPFgIfAwUEbGFzdGQCOQ8WAh8DBQRsYXN0ZAI/Dw9kFgIeB29uY2xpY2sFhQFwb3BVcE5vU2Nyb2xsKCcvY29udHJvbHMvdXRpbC9FbWFpbFBvcHVwLmFzcHg/c3ViamVjdD0mdXJsPWh0dHA6Ly93d3cuZ29vZHNhbWNsdWIuY29tOjgwOTAvUHJpdmFjeVBvbGljeS5hc3B4Jyw2MDAsNDcwKTsgcmV0dXJuIGZhbHNlZAJED2QWGGYPDxYCHgtOYXZpZ2F0ZVVybAUCfi9kZAIBDw8WAh8FBRR+L2Fib3V0L0RlZmF1bHQuYXNweGRkAgIPDxYCHwUFL2phdmFzY3JpcHQ6cG9wVXAoJy9yZWZ1bmQuYXNweCcsICc1MjAnLCAnMzAwJyk7ZGQCAw8PFgIfBQUQfi9hZmZpbGlhdGUuYXNweGRkAgQPDxYCHwUFGH4vYWR2ZXJ0aXNlLXdpdGgtdXMuYXNweGRkAgUPDxYCHwUFHWh0dHA6Ly93d3cuR29vZFNhbU5ldHdvcmsuY29tZGQCBg8PFgIfBQUyamF2YXNjcmlwdDpwb3BVcCgnL1NpdGVUZXJtcy5hc3B4JywgJzUyMCcsICc2MDAnKTtkZAIHDw8WAh8FBRR+L1ByaXZhY3lQb2xpY3kuYXNweGRkAggPDxYCHwUFNGphdmFzY3JpcHQ6cG9wVXAoJy9Db2RlQ29uZHVjdC5hc3B4JywgJzUyMCcsICc2MDAnKTtkZAIJDw8WAh8FBQ5+L3NpdGVtYXAuYXNweGRkAgsPDxYCHwEFBDIwMTBkZAIMDw8WAh8BZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSVjdGwwMCRHb29nbGVDdXN0b21TZWFyY2gxJHNlYXJjaEltYWdlF5bHQaGRMLzsML6mZF8iRbgzNfY=">
-
-
-<script src="/ScriptResource.axd?d=CedFoejTuzNquRsWtxjQwRcdK9wRbZDMHXb2i_RscR6OpFexvynUF4w87r9WL76Auab6HTjJ0QTSZAtVbai5z6kXdlm3obOfIP-G73hciUR89EagZS0hFBz6CpfObu_YpTbtKTPHJ3l22fwgk8tY_4H2W0AIX9WP4ssV4djPQvCLDKBI0&amp;t=633700395487656250" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKc1eLGDQKNwOIyAquexq8NAtHqkrQNAtux77MIApGEv9QOAoSMx+8GAtDm2Z4Kg1QBPX87L5VZPVGSwv1LxK8pju4=">
-      
     
-   <!-- Begin Header display:none;-->
-   <div id="header">
-		     <div class="left">
-		    <a href="/"><img id="ctl00_logo" src="/Images/logos/gsc_logo.gif" alt="Good Sam RV Club" border="0"></a>
-		</div>
-		<!-- Begin HeaderNav -->
-			<div id="headernav" class="right">							
-				<ul>       
-				    <li>
-				       
-				    </li>
-				    <li>
-				        <a id="ctl00_LnkSignIn" href="javascript:__doPostBack('ctl00$LnkSignIn','')">Sign In</a>                
-				           
-                    </li>
-					<li class="last">
-					    <span id="ctl00_lblRegister"><font size="2">New to Good Sam?</font></span><a id="ctl00_lnkRegister" href="join/RegisterStart.aspx">Register</a>
-					    
-					</li>
-				</ul>
-				<!-- Begin SearchForm -->
-					<div id="searchform">
-                        
+    
+    
+    <div id="widthWrapper">
+        <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIHD2QWFgIBD2QWAgIBD2QWAgIJDw8WAh4ISW1hZ2VVcmwFIH4vaW1hZ2VzL25hdi9zaXRlLXNlYXJjaC1idG4ucG5nZGQCBA8PFgIeB1Zpc2libGVoZGQCBQ8PFgQeBFRleHQFCUluYm94ICg0KR8BaGRkAgcPDxYCHwFoZGQCDw8WAh4FY2xhc3MFB2N1cnJlbnRkAh0PFgIfAwUEbGFzdGQCIw8WAh8DBQRsYXN0ZAIpDxYCHwMFBGxhc3RkAi0PFgIfAwUEbGFzdGQCNA8WAh8DBQRsYXN0ZAI/D2QWGGYPDxYCHgtOYXZpZ2F0ZVVybAUCfi9kZAIBDw8WAh8EBRR+L2Fib3V0L0RlZmF1bHQuYXNweGRkAgIPDxYCHwQFL2phdmFzY3JpcHQ6cG9wVXAoJy9yZWZ1bmQuYXNweCcsICc1MjAnLCAnMzAwJyk7ZGQCAw8PFgIfBAUQfi9hZmZpbGlhdGUuYXNweGRkAgQPDxYCHwQFGH4vYWR2ZXJ0aXNlLXdpdGgtdXMuYXNweGRkAgUPDxYCHwQFHWh0dHA6Ly93d3cuR29vZFNhbU5ldHdvcmsuY29tZGQCBg8PFgIfBAUyamF2YXNjcmlwdDpwb3BVcCgnL1NpdGVUZXJtcy5hc3B4JywgJzUyMCcsICc2MDAnKTtkZAIHDw8WAh8EBRR+L1ByaXZhY3lQb2xpY3kuYXNweGRkAggPDxYCHwQFNGphdmFzY3JpcHQ6cG9wVXAoJy9Db2RlQ29uZHVjdC5hc3B4JywgJzUyMCcsICc2MDAnKTtkZAIJDw8WAh8EBQ5+L3NpdGVtYXAuYXNweGRkAgsPDxYCHwIFBDIwMTFkZAIMDw8WAh8CZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBSVjdGwwMCRHb29nbGVDdXN0b21TZWFyY2gxJHNlYXJjaEltYWdlBQ9jdGwwMCRJbWdTaWduSW7qrn5cKBKUwhLAfuzK9C8qOb2FkA==">
 
-<!-- Google CSE Search Box Begins  -->
-<style type="text/css">
 
-    @import url(http://www.google.com/cse/api/branding.css);
+<script src="/ScriptResource.axd?d=jsa1Z_D3cHNn2iH7Eiu1MZPj7Dm2YvYFtEsRqtH5TtV97xo6r9DLXGzMmi-SsK3AFeDajo1G7BaZpbhfK-izqqQ_RjS736mCNt9HxOEwzkf4f2qxtfslTxoeO5yMFRzQz2UgY7YrTGDkgpkzIEW4q0CVV67Ag07oz2Ex9TvjsGQZU2wf0&amp;t=56fe5ad4" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
 
-</style>
-<div class="cse-branding-" style="background-color:#;color:#">
-  <div class="cse-branding-form">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALV2O4bAquexq8NAtHqkrQNAtux77MIApGEv9QOAoSMx+8GAurC5OgLAtDm2Z4KgYxH7ILd9uR0W0cqLEbJP+r5nXs=">
+        
+        <!-- Begin Header -->
+        <div id="header">
+            <div class="left">
+                <a href="/Default.aspx">
+                    <img src="/images/nav/goodsamguy_header.png" style="margin-bottom: -6px;" alt="Good Sam Club - RV Camping Discounts"></a>
+            </div>
+            <!-- Begin HeaderNav -->
+            <div id="headernav" class="right">
+                <ul>
+                    <li class="homeButton"><a href="/Default.aspx">HOME</a> </li>
+                    <li class="seperatorBar"></li>
+                    <li class="aboutButton"><a href="/about/Default.aspx">About Us</a> </li>
+                    <li class="seperatorBar"></li>
+                    <li class="contactButton"><a href="/Contact.aspx">Contact</a> </li>
+                    <li class="seperatorBar"></li>
+                    <span class="socialLinks">Follow Us:</span> <a href="http://twitter.com/TheGoodSamClub">
+                        <img src="/images/nav/twitter.gif" style="vertical-align: middle; margin-bottom: 5px;
+                            border: 1px solid #c0d9f5;"></a> <a href="http://www.facebook.com/pages/Good-Sam-Club/70870387802">
+                                <img src="/images/nav/facebook.gif" style="vertical-align: middle; margin-bottom: 5px;
+                                    border: 1px solid #c0d9f5;"></a>
+                </ul>
+                <div id="searchform">
+                    
+
+
+
+<script type="text/javascript">
+    function goAway() {
+        document.getElementById('ctl00_GoogleCustomSearch1_q').value = '';
+    }
+       
+</script>
+
+
     <div id="ctl00_GoogleCustomSearch1_pnlSiteSearch">
 	
     <input type="hidden" name="ctl00$GoogleCustomSearch1$cx" id="ctl00_GoogleCustomSearch1_cx" value="002235551887983096814:g-hall1ppfk"> 
     <input type="hidden" name="ctl00$GoogleCustomSearch1$cof" id="ctl00_GoogleCustomSearch1_cof" value="FORID:11;NB:1">
     <input type="hidden" name="ctl00$GoogleCustomSearch1$sa" id="ctl00_GoogleCustomSearch1_sa" value="Search">
-    <table>
+    <table style="float: right;">
     <tbody><tr valign="middle">
-    <td><label style="padding-right: 5px;">Search:</label></td>
-    <td><input name="ctl00$GoogleCustomSearch1$q" type="text" id="ctl00_GoogleCustomSearch1_q" class="searchtext"></td>
-    <td><input type="image" name="ctl00$GoogleCustomSearch1$searchImage" id="ctl00_GoogleCustomSearch1_searchImage" class="go" src="images/nav/go.jpg" border="0"></td>
+    <td><input name="ctl00$GoogleCustomSearch1$q" type="text" value="Site Search" id="ctl00_GoogleCustomSearch1_q" class="searchtext" onclick="goAway();"></td>
+    <td><input type="image" name="ctl00$GoogleCustomSearch1$searchImage" id="ctl00_GoogleCustomSearch1_searchImage" class="go" src="images/nav/site-search-btn.png" border="0"></td>
     </tr>
     </tbody></table>
     
     
 </div>
-  </div>
-</div>
-<!-- Google CSE Search Box Ends -->
 
 
 
 
-                    </div>
-				<!-- End SearchForm -->
-				<div style="font-size: 10px; margin: 7px 0 0 7px;"><a id="ctl00_lnkFacebookImg" rel="nofollow" href="http://www.facebook.com/pages/Good-Sam-Club/70870387802" target="_blank"><img src="/images/facebook.gif" alt="Facebook" border="0" style="vertical-align: middle;"></a> <a id="ctl00_lnkFacebookLnk" rel="nofollow" href="http://www.facebook.com/pages/Good-Sam-Club/70870387802" target="_blank">Become a fan</a> <a id="ctl00_lnkTwitterImg" rel="nofollow" href="http://twitter.com/TheGoodSamClub" target="_blank"><img src="/images/twitter.png" border="0" style="vertical-align: middle;" alt="Twitter"></a> <a id="ctl00_lnkTwitterLnk" rel="nofollow" href="http://twitter.com/TheGoodSamClub" target="_blank">Follow Us</a></div>
-			</div>
-		<!-- End HeaderNav -->
-		<!-- Begin Navigation -->
-			<div id="navigation">
-				<ul id="nav">
-    				<li id="ctl00_default_aspx" class="homecurrent"><h3><a href="/">Home</a></h3></li>
-    				<li id="ctl00_whyjoin_default_aspx"><h3><a href="/whyjoin.aspx">Why Join?</a></h3></li>
-    				<li id="ctl00_community_default_aspx"><h3><a href="/community/Default.aspx">Community</a></h3></li>
-    				<li id="ctl00_travel_default_aspx"><h3><a href="/travel/Default.aspx">Travel Tools</a></h3></li>
+
+                </div>
+                <div id="headerlinks">
+                    <ul>
+                        <input type="image" name="ctl00$ImgSignIn" id="ctl00_ImgSignIn" class="bottomheader" src="/images/nav/sign-in-btn.png" border="0">
+                        <a id="ctl00_ImgRegister" class="lastbottomheaderbutton" href="join/RegisterStart.aspx"><img src="/images/nav/register-btn.png" border="0"></a>
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            <!-- End HeaderNav -->
+            <!-- Begin Main Navigation -->
+            <div id="navcontainer">
+                <ul id="navlist">
+                    <li id="ctl00_whyjoin_default_aspx">
+                        <h3>
+                            <a href="/whyjoin.aspx">WHY JOIN?</a></h3>
+                    </li>
+                    <li id="ctl00_benefits_services_Default">
+                        <h3>
+                            <a href="/benefits-services/Default.aspx">SERVICES</a></h3>
+                    </li>
+                    <li id="ctl00_travel_default_aspx">
+                        <h3>
+                            <a href="/travel/Default.aspx">PLAN A TRIP</a></h3>
+                    </li>
+                    <li id="ctl00_community_default_aspx">
+                        <h3>
+                            <a href="/community/Default.aspx">COMMUNITY</a></h3>
+                    </li>
+                    <li id="ctl00_techtips_default_aspx">
+                        <h3>
+                            <a href="/rvcentral/MaintainingRV.aspx">TECH TIPS</a></h3>
+                    </li>
+                    <li class="nav">
+                        <h3>
+                            <a href="http://blog.goodsamclub.com">NEWS</a></h3>
+                    </li>
+                    <li id="ctl00_travelstore_default_aspx">
+                        <h3>
+                            <a href="/travelstore/Default.aspx">MARKETPLACE</a></h3>
+                    </li>
+                    
+                    <li class="join menu-root"><a href="/join">
+                        <h3>
+                            JOIN NOW!</h3>
+                    </a>
+                        <div class="submenu clearfix">
+                            <ul class="level1">
+                                <div class="jointext">
+                                    Join The Good Sam Club Today!</div>
+                                <li>
+                                    <ul class="no-subs">
+                                        <li>
+                                            <p>
+                                                Get money-saving discounts, helpful RV information &amp; tech tips, plan your dream
+                                                vacation, make new friends and so much more!</p>
+                                            <p>
+                                                <span class="button redtxt" onclick="javascript: location.href='/join';">JOIN TODAY!</span></p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!--<li id="ctl00_default_aspx" class="current"><h3><a href="/">Home</a></h3></li>
+    			
+    			
     				<li id="ctl00_rvcentral_default_aspx"><h3><a href="/rvcentral/Default.aspx">RV Central</a></h3></li>
     				<li id="ctl00_news_default_aspx"><a href="http://blog.goodsamclub.com/">News</a></li>
-    				<li id="ctl00_travelstore_default_aspx"><h3><a href="/travelstore/Default.aspx">Store</a></h3></li>
-    				<!--<li id="ctl00_mystuff_default_aspx"><a href="/mystuff/Default.aspx">My Stuff</a></li>-->
     				
-				    <li id="ctl00_benefits_services_default_aspx"><h3><a href="/benefits-services/Default.aspx">
-				        
-				    Services</a></h3></li>
+    				<li id="ctl00_mystuff_default_aspx"><a href="/mystuff/Default.aspx"></a></li>
+    				
 				    
-				</ul>
-				<!--<div id="ctl00_ButtonJoin" class="join-button">
+				      				    Services</a></h3></li>-->
+            <!--<div id="ctl00_ButtonJoin" class="join-button">
 	<a id="ctl00_ButtonJoinLnk" href="join/Default.aspx">Join Now!</a>
 </div>-->
-				<a id="ctl00_HyperLink1" href="join/Default.aspx?utm_source=HP-Header&amp;utm_medium=Button&amp;utm_campaign=button1"><img id="ctl00_ImgJoin" class="right" src="images/nav/join_now.jpg" alt="Join Good Sam RV Club Now" border="0" style="margin:0px 5px;"></a>
-			
-				<div class="clear"></div>
-	  		</div>
-			<div id="subnavigation">
-			    
-				<ul id="subnav">
-				
-				</ul>
-                    <div class="clear">
-                    </div>
-                </div>
-                <div class="clear">
-			</div>
-		<!-- End Navigation -->
-	</div>
+            <!--<a id="ctl00_HyperLink1" href="join/Default.aspx?utm_source=HP-Header&amp;utm_medium=Button&amp;utm_campaign=button1"><img id="ctl00_ImgJoin" class="right" src="images/nav/join_now.jpg" alt="Join Good Sam RV Club Now" border="0" style="margin:0px 5px;" /></a>-->
+            <div id="subnavigation">
+                <ul id="subnav">
+                    
+                </ul>
+            </div>
+            <!-- End Navigation -->
+        </div>
         <div id="content">
             <!-- Begin Head -->
             
-                
+            
             <div id="content_header">
                 <div class="breadcrumbs">
                     <p>
-                        <span id="ctl00_SiteMapPath2"><a href="#ctl00_SiteMapPath2_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=hgJjeBm-ZacrhVOBXPz1xwx5xXooP_88OpOeKOqe_oGGz_qZkT-HP0EYluo63Dag-P7_Tb1b9PJQolatwIRMR-8m3uI1&amp;t=634214446524083557" border="0"></a><a id="ctl00_SiteMapPath2_SkipLink"></a></span>
+                        <span id="ctl00_SiteMapPath2"><a href="#ctl00_SiteMapPath2_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=hgJjeBm-ZacrhVOBXPz1xwx5xXooP_88OpOeKOqe_oGGz_qZkT-HP0EYluo63Dag-P7_Tb1b9PJQolatwIRMR-8m3uI1&amp;t=634214438943008833" border="0"></a><a id="ctl00_SiteMapPath2_SkipLink"></a></span>
                         
                     </p>
                 </div>
                 <div id="cgTools" class="head_right">
                     <p>
-                        <span id="cgSave" class="save" style="display:none">
+                        <span id="cgSave" class="save" style="display: none">
                             <a id="ctl00_lnkSave">Save</a>
-                        </span> 
-                        <span id="cgFlag" class="flag" style="display: none">
+                        </span><span id="cgFlag" class="flag" style="display: none">
                             <a id="ctl00_LnkFlagInappropriate">Flag as Inappropriate</a>
-                        </span>
-                        <span id="cgPrinter" style="display: none;">
-                        <a onclick="window.print()" href="#" style="text-decoration:none">Printer Friendly&nbsp;&nbsp; <img title="Print" src="/images/icons/icon_print.gif" alt="Printer Friendly"></a>
-                          <!--
+                        </span><span id="cgPrinter" style="display: none;"><a onclick="window.print()" href="#" style="text-decoration: none">Printer Friendly&nbsp;&nbsp;
+                            <img title="Print" src="/images/icons/icon_print.gif" alt="Printer Friendly"></a>
+                            <!--
                             <a id="ctl00_LnkPrinterFriendly">Printer Friendly</a>
-                           --> 
-                        </span>
-                        <span id="cgSend" class="send" style="display: none">
-                            <a onclick="popUpNoScroll('/controls/util/EmailPopup.aspx?subject=&amp;url=http://www.goodsamclub.com:8090/PrivacyPolicy.aspx',600,470); return false;" id="ctl00_LnkSendEmail" href="javascript:__doPostBack('ctl00$LnkSendEmail','')">Send to Friend</a>
+                           -->
+                        </span><span id="cgSend" class="send" style="display: none">
+                            <a id="ctl00_LnkSendEmail" href="javascript:__doPostBack('ctl00$LnkSendEmail','')">Send to Friend</a>
                         </span>
                     </p>
                 </div>
@@ -241,11 +318,11 @@
                 <div style="text-align: left;">
                     
                 </div>
-                    <div class="clear">
-                    </div>
-                </div>
-                
                 <div class="clear">
+                </div>
+            </div>
+            
+            <div class="clear">
             </div>
             <!-- End Head -->
             <div id="ctl00_left_220">
@@ -259,11 +336,13 @@
     </div>
 </div>
 <p style="text-align: justify;">We appreciate the trust you place in Affinity, its  brands and websites. To continue to earn this trust, we are committed to  protecting your privacy and the security of your personal information. Our  privacy policy (this “Privacy Policy”) describes how we collect, protect, use, and share information gathered  about you on our family of websites. We hope that this disclosure will help  increase your confidence in our sites and enhance your experience on the  Internet and with us. </p>
-<p style="text-align: justify;">Please read this Privacy Policy before you use  this site. Your use of our website signifies that you agree to this  Privacy Policy. We  always welcome your questions and feedback. For privacy-related issues, please  contact us via email at info@affinitygroup.com </p>
-<p>Or write us at: </p>
-<p>Affinity Group, Inc.<br>
-  PO Box 6888<br>
-  Englewood, CO 80155-6888<br><br>
+<p style="text-align: justify;">Please read this Privacy Policy before you use this site. Your use of our website signifies that you agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related issues, please feel free to contact us directly at any time.</p>
+
+        <p>Affinity Group, Inc.<br>
+        PO Box 6888<br>
+        Englewood, CO 80155-6888<br>
+		800-234-3450<br>
+		<a href="mailto:info@affinitygroup.com" "="">info@affinitygroup.com</a>
 </p>
 <h1>Privacy Policy Contents</h1>
 <div style="border:1px solid #000000;">
@@ -348,34 +427,32 @@
 		<!-- End Content -->                
 
             </div>
-            
             <div id="ctl00_right_740">
                 
             </div>
-            <div class="clear"></div>
+            <div class="clear">
+            </div>
         </div>
-	
-       
         <!-- Begin Footer -->
-			
+        
 <div class="clear">
 </div>
 <div id="footer">
     <div id="footernav">
         <br>
 	    <p> 
-	        <a id="ctl00_Footer_lnkHome" href="./">Good Sam HOME</a> | 
-	        <a id="ctl00_Footer_lnkAbout" href="about/Default.aspx">About Good Sam Club</a> | 
-	        <a id="ctl00_Footer_lnkRefund" rel="NoFollow" href="javascript:popUp('/refund.aspx', '520', '300');">Refund Policy</a> | 
-	        <a id="ctl00_Footer_lnkAffiliate" rel="NoFollow" href="affiliate.aspx">Affiliate Program</a> |
-	        <a id="ctl00_Footer_lnkadvertise" rel="NoFollow" href="advertise-with-us.aspx">Advertise With Us</a> |
+	        <a id="ctl00_Footer_lnkHome" href="./">Good Sam HOME</a> <span style="padding: 0 5px;">|</span> 
+	        <a id="ctl00_Footer_lnkAbout" href="about/Default.aspx">About Good Sam Club</a> <span style="padding: 0 5px;">| </span> 
+	        <a id="ctl00_Footer_lnkRefund" rel="NoFollow" href="javascript:popUp('/refund.aspx', '520', '300');">Refund Policy</a> <span style="padding: 0 5px;">| </span> 
+	        <a id="ctl00_Footer_lnkAffiliate" rel="NoFollow" href="affiliate.aspx">Affiliate Program</a> <span style="padding: 0 5px;">|</span> 
+	        <a id="ctl00_Footer_lnkadvertise" rel="NoFollow" href="advertise-with-us.aspx">Advertise With Us</a> <span style="padding: 0 5px;">|</span> 
 	        <a id="ctl00_Footer_lnkgoodsampark" rel="NoFollow" href="http://www.GoodSamNetwork.com">Become a Good Sam Park</a>
 	        <br>
-	        <a id="ctl00_Footer_lnkTerms" rel="NoFollow" href="javascript:popUp('/SiteTerms.aspx', '520', '600');">Terms &amp; Conditions</a> | 
-	        <a id="ctl00_Footer_lnkPrivacy" rel="NoFollow" href="PrivacyPolicy.aspx">Privacy Policy</a> | 
-	        <a id="ctl00_Footer_lnkCodeConduct" rel="NoFollow" href="javascript:popUp('/CodeConduct.aspx', '520', '600');">Code of Conduct</a> | 
-	        <a id="ctl00_Footer_lnkSiteMap" href="sitemap.aspx">Site Map</a> |  <a id="ctl00_Footer_lnkContactus" href="Contact.aspx">Contact Us</a>
-	    <a href="http://www.santabarbara.bbb.org/BusinessReport.aspx?CompanyID=10000529&amp;source=ctc"><img style="position: absolute; margin-left: 138px; margin-top: -15px;" src="/images/bbb_logo.gif" width="135" height="52" border="0"></a>
+	        <a id="ctl00_Footer_lnkTerms" rel="NoFollow" href="javascript:popUp('/SiteTerms.aspx', '520', '600');">Terms &amp; Conditions</a> <span style="padding: 0 5px;">| </span> 
+	        <a id="ctl00_Footer_lnkPrivacy" rel="NoFollow" href="PrivacyPolicy.aspx">Privacy Policy</a> <span style="padding: 0 5px;">| </span> 
+	        <a id="ctl00_Footer_lnkCodeConduct" rel="NoFollow" href="javascript:popUp('/CodeConduct.aspx', '520', '600');">Code of Conduct</a> <span style="padding: 0 5px;">| </span> 
+	        <a id="ctl00_Footer_lnkSiteMap" href="sitemap.aspx">Site Map</a> <span style="padding: 0 5px;">| </span>  <a id="ctl00_Footer_lnkContactus" href="Contact.aspx">Contact Us</a>
+	    <a href="http://www.santabarbara.bbb.org/BusinessReport.aspx?CompanyID=10000529&amp;source=ctc"><img style="float: right;padding-right: 15px;" src="/images/bbb_logo.gif" width="135" height="52" border="0"></a>
 
 	    </p>
 	    
@@ -383,33 +460,23 @@
 	</div>
 	 
 	<div id="footercontent">
-		<p>Questions? Call us at 1-800-234-3450 | © <span id="ctl00_Footer_lblYear">2010</span>,  Good Sam Club  <span id="ctl00_Footer_lblAppVersion"></span></p>
-            <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-            <script type="text/javascript">
-            var pageTracker = _gat._getTracker("UA-3792260-4");
-            pageTracker._initData();
-            pageTracker._trackPageview();
-            </script>
+		<p><br><br>Questions? Call us at 1-800-234-3450 | © <span id="ctl00_Footer_lblYear">2011</span>,  Good Sam Club  <span id="ctl00_Footer_lblAppVersion"></span></p>
             
-            <!-- Google Analytics addition code  -->
-                <script type="text/javascript">
+                <!-- Google Analytics Code -->
+                    <script type="text/javascript">
+                      var _gaq = _gaq || [];
+                      _gaq.push(['_setAccount', 'UA-3792260-4']);//main site account
+                      _gaq.push(['_trackPageview']);
+                      _gaq.push(['b._setAccount', 'UA-3792260-65']);//global rollup
+                      _gaq.push(['b._trackPageview']);
 
-                  var _gaq = _gaq || [];
-                  _gaq.push(['_setAccount', 'UA-3792260-65']);
-                  _gaq.push(['_setDomainName', '.goodsamclub.com']);
-                  _gaq.push(['_trackPageview']);
-
-                  (function() {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                  })();
-
-                </script>
-                <!--END Google Analytics addition code -->
+                      (function() {
+                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                      })();
+                    </script>
+             <!-- End Google Analytics Code -->
 
 
             <img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=49887_NDM_cs=e226484b_NDM_cs&amp;betq=10995=419710" width="1" height="1" border="0">
@@ -439,9 +506,8 @@
 	</div>
 </div>
 
-		<!-- End Footer -->	
-	
-    
+        <!-- End Footer -->
+        
 
 <script type="text/javascript">
 //<![CDATA[
@@ -449,22 +515,55 @@ Sys.Application.initialize();
 //]]>
 </script>
 </form>
-   </div>
-   
-      <!--Start of OnTarget :: Added by Trey 01/04/2010 -->
-   <script type="text/javascript">
+    </div>
+    <!--Start of OnTarget :: Added by Trey 01/04/2010 -->
+    <script type="text/javascript">
    <!--
-        var s_PageName="";
+        var s_PageName = "";
    //-->
-   </script>
-   <script type="text/javascript" src="/js/ontarget.js"></script><div id="eliticslayer" style="position:absolute; left:200; top:10; width:100; height:100; clip:rect(0,100,100,0); visibility:hidden; zindex:-3; background-color:white;"><img name="elitics" src="https://gi.elitics.com/gi.aspx?&amp;sbn=Saf&amp;sld=02/19/2020&amp;slt=17:54:00&amp;stz=0&amp;sdn=https%3A//web.archive.org/web/20101122113915id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx&amp;shn=web.archive.org&amp;srs=800 * 600&amp;ck=1&amp;v=33&amp;cid=362&amp;pt=p" border="0"> </div>
-   <!--End of OnTarget-->
-   
-   <!--- This literal is here for pages adding javascript dynamically to the page via codebehind --->
-   
-   
-   
-   
+    </script>
+    <script type="text/javascript" src="/js/ontarget.js"></script><div id="eliticslayer" style="position:absolute; left:200; top:10; width:100; height:100; clip:rect(0,100,100,0); visibility:hidden; zindex:-3; background-color:white;"><img name="elitics" src="https://gi.elitics.com/gi.aspx?&amp;sbn=Saf&amp;sld=02/19/2020&amp;slt=17:54:06&amp;stz=0&amp;sdn=https%3A//web.archive.org/web/20110629040821id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx&amp;shn=web.archive.org&amp;srs=800 * 600&amp;ck=1&amp;v=33&amp;cid=362&amp;pt=p" border="0"> </div>
+    <!--End of OnTarget-->
+    <!--- This literal is here for pages adding javascript dynamically to the page via codebehind --->
     
+    
+    
+
+ <!-- SiteCatalyst code version: H.22.1.
+    Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+    More info available at http://www.omniture.com -->
+    <script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script>
+    <script language="JavaScript" type="text/javascript"><!--
+        /* You may give each page an identifying name, server, and channel on the next lines. */
+        s.pageName = "/privacypolicy.aspx"
+        s.server = "ONLINE-NET2"
+        s.channel = "Home"
+        s.pageType = ""
+        s.prop1 = ""
+        s.prop2 = ""
+        s.prop3 = ""
+        s.prop4 = ""
+        s.prop5 = ""
+        /* Conversion Variables */
+        s.campaign = "";
+        s.state = ""
+        s.zip = ""
+        s.events = ""
+        s.products = ""
+        s.purchaseID = ""
+        s.eVar1 = "unknown"
+        s.eVar2 = "not_logged_in"
+        s.eVar3 = ""
+        s.eVar4 = ""
+        s.eVar5 = ""
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+    <script language="JavaScript" type="text/javascript"><!--
+        if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+    //--></script><noscript><img src="http://campingworld.112.2o7.net/b/ss/cwgoodsamclubcom/1/H.22.1--NS/0"
+    height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. -->
+
+
 
 </body></html>
