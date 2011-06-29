@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlealley.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105174730id_/http%3A//www.articlealley.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlealley.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629025838id_/http%3A//www.articlealley.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Article Alley the leader amongst Article Directories
 
@@ -23,6 +23,10 @@ Submit articles or find free articles. is the sole owner of the information coll
 **Order**
 
 We request information from the user on our registration, order and payment forms. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfil customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Cookies**
 
