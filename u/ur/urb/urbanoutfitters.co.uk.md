@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229172657id_/http%3A//www.urbanoutfitters.co.uk/Help-and-Info/Privacy%2BSecurity-Policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629175519id_/http%3A//www.urbanoutfitters.co.uk/help-and-info/privacy%2Bsecurity-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Urban Outfitters - Privacy & Security Policy
+
+Skip to content
+
+[](http://www.urbanoutfitters.co.uk/page/home/ "Home")
+
+PRIVACY & SECURITY POLICY
 
 Ensuring the privacy and security of your personal information is very important to us. Our Privacy & Security Policy outlines the information we collect about you, how we use, disclose and otherwise manage this information and the choices you have to restrict our usage of this information.
 
@@ -40,9 +46,11 @@ Feel free to contact us with any questions about our Privacy & Security Policy o
 If you wish to access or update the personal information we have about you, or to correct factual errors in our records, please contact us as set out below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections.  
 EMAIL: [UrbanEuropeCS@urbanout.com](mailto:UrbanEuropeCS@urbanout.com)  
 MAIL: Urban Outfitters Europe, Stephenson Harwood, 1 St Paul's Churchyard, London EC4M 8SH  
-Urban Outfitters Europe is a trading name of URBN UK Limited, a UK registered company (company number 305757 and VAT number 6325757B), whose registered office address is: Stephenson Harwood, 1 St Pauls Churchyard, London EC4M 8SH
+Urban Outfitters Europe is a trading name of URBN UK Limited, a UK registered company (company number 3124253 and VAT number 6325757B), whose registered office address is: Stephenson Harwood, 1 St Pauls Churchyard, London EC4M 8SH
 
 URBAN OUTFITTERS EMAIL SUBSCRIPTIONS  
 If you have chosen to receive emails from Urban Outfitters Europe, we will offer you advanced notice of sales, new merchandise, store openings and other Urban Outfitters Europe news. Email addresses provided to Urban Outfitters Europe are only used internally for the purpose of sending you communication from Urban Outfitters Europe. We respect your privacy rights and will not sell or rent your email address to other companies. If you would like to unsubscribe from our email list, please contact us at [UrbanEuropeCS@urbanout.com](mailto:UrbanEuropeCS@urbanout.com). You may also click on the unsubscribe link at the bottom of our emails. We will remove your name from our email list as soon as possible. Please recognize that you may receive another email before we are able to remove you.
 
 [Return to Help/Info](http://www.urbanoutfitters.co.uk/pages/help-info/page/helpandinfo/)
+
+[](http://www.urbanoutfitters.co.uk/vsmap.html)
