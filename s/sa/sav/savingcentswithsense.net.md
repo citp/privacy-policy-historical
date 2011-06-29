@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingcentswithsense.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228025043id_/http%3A//www.savingcentswithsense.net/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingcentswithsense.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630012313id_/http%3A//www.savingcentswithsense.net/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,3 +23,5 @@ We collect the following information when you visit this site: your IP address, 
 This privacy policy is subject to change without notice.
 
 If you have any questions regarding this policy, please [contact us](http://www.savingcentswithsense.net/about-me/contact/).
+
+[ ](http://www.savingcentswithsense.net/about-me/disclosure/)[](http://www.savingcentswithsense.net/about-me/disclosure/)
