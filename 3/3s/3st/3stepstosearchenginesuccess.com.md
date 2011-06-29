@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 3stepstosearchenginesuccess.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219225735id_/http%3A//www.3stepstosearchenginesuccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3stepstosearchenginesuccess.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629210502id_/http%3A//www.3stepstosearchenginesuccess.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-If you're new here, you may want to subscribe to my [RSS feed](http://www.3stepstosearchenginesuccess.com/feed/). Thanks for visiting!
 
 The privacy of our visitors to 3StepsToSearchEngineSuccess.com is important to us.
 
@@ -76,39 +74,15 @@ This is the entire agreement between the parties relating to the subject matter.
 
 We may modify these Terms of Use at any time and without notice. You are bound by any modifications and should therefore periodically visit this page to review Terms of Use to which you are bound.
 
-[Submit Your Article Review](http://www.3stepstosearchenginesuccess.com/product-reviews/submit-your-article-review "Permanent Link to Submit Your Article Review")
+**[The #1 SEO Mistake – Are you Guilty?](http://www.3stepstosearchenginesuccess.com/seo-tips/the-1-seo-mistake-are-you-guilty "Permanent Link to The #1 SEO Mistake – Are you Guilty?")**
 
-I’ve been using the Submit Your Article service for a number of years now and I can easily say that this is my number one technique for building baclinks with as little fuss and effort as possible. If an article submission service is something that you have been considering, read my Submit Your Article Review [...]
+I’ve made a post in the past listing what I thought were the most common SEO mistakes, but based on what I’ve experienced over the last few months, helping people with their SEO, this to me has to be one of the most common mistakes that people make. I’ve not talked about it at any [...]
 
-[Read more....](http://www.3stepstosearchenginesuccess.com/product-reviews/submit-your-article-review)
-
-* * *
-
-[7 Ways the Affiliate Power Group Can help you with SEO](http://www.3stepstosearchenginesuccess.com/online-coaching/7-ways-the-affiliate-power-group-can-help-you-with-seo "Permanent Link to 7 Ways the Affiliate Power Group Can help you with SEO")
-
-If you are looking for some help with your search engine optimization but don’t want to pay the big bucks for a consultant or an SEO company to help you, you may want to consider getting help from the Affiliate Power Group. The Affiliate Power Group is an online coaching group with a focus on [...]
-
-[Read more....](http://www.3stepstosearchenginesuccess.com/online-coaching/7-ways-the-affiliate-power-group-can-help-you-with-seo)
+[Read more....](http://www.3stepstosearchenginesuccess.com/seo-tips/the-1-seo-mistake-are-you-guilty)
 
 * * *
 
-[Outsource Link Building – A Review of Burn Your To Do List](http://www.3stepstosearchenginesuccess.com/product-reviews/outsource-link-building-a-review-of-burn-your-to-do-list "Permanent Link to Outsource Link Building – A Review of Burn Your To Do List")
-
-IMPORTANT UPDATE/WARNING (October 2010): This Burn your to do list review was originally written back in August and at that time, this company was working very well and producing great results for me.  HOWEVER… recently the company was taken over by new owners and the standards have deteriorated rapidly in the last few weeks. Currenly [...]
-
-[Read more....](http://www.3stepstosearchenginesuccess.com/product-reviews/outsource-link-building-a-review-of-burn-your-to-do-list)
-
-* * *
-
-[Why is your Site not Ranked in Google?](http://www.3stepstosearchenginesuccess.com/seo-tips/why-is-your-site-not-ranked-in-google "Permanent Link to Why is your Site not Ranked in Google?")
-
-One of the most commons questions that people ask me is: Why is my site not ranked in Google? The answer to this question can be one of a number of things and before I answer it I always need to take a look at the website first. In case you are wondering why your [...]
-
-[Read more....](http://www.3stepstosearchenginesuccess.com/seo-tips/why-is-your-site-not-ranked-in-google)
-
-* * *
-
-[AffiloJetPack Review + Bonus](http://www.3stepstosearchenginesuccess.com/product-reviews/affilojetpack-review-bonus "Permanent Link to AffiloJetPack Review + Bonus")
+**[AffiloJetPack Review + Bonus](http://www.3stepstosearchenginesuccess.com/product-reviews/affilojetpack-review-bonus "Permanent Link to AffiloJetPack Review + Bonus")**
 
 Mark Ling’s AffiloJetPack is released on July 26th at 12noon. If you are thinking of buying it you probably want to read some AffiloJetPack reviews and learn a bit more about it to see whether or not it is right for you. It’s also worth knowing that many people are offering AffiloJetPack Bonuses for anyone [...]
 
@@ -116,18 +90,26 @@ Mark Ling’s AffiloJetPack is released on July 26th at 12noon. If you are think
 
 * * *
 
-[Instant Article Factory Review + Bonus](http://www.3stepstosearchenginesuccess.com/product-reviews/instant-article-factory-review-bonus "Permanent Link to Instant Article Factory Review + Bonus")
+**[7 Common SEO Mistakes](http://www.3stepstosearchenginesuccess.com/seo-tips/7common-seo-mistakes "Permanent Link to 7 Common SEO Mistakes")**
 
-Jonathan Leger’s latest product Instant Article Factory was released on Monday 12th July. I’ve just bought it for myself and have written a complete review of Instant Article Factory below.  If you are thinking of purchasing it, read my review below to find out more and feel free to ask any questions by leaving a [...]
+If you are trying to optimize your website for the search engines it can be very easy to make mistakes, especially if you are new to SEO. I think the easiest way to learn how to optimize your website properly is to look at some common seo mistakes and learn from them. It is always [...]
 
-[Read more....](http://www.3stepstosearchenginesuccess.com/product-reviews/instant-article-factory-review-bonus)
+[Read more....](http://www.3stepstosearchenginesuccess.com/seo-tips/7common-seo-mistakes)
 
 * * *
 
-[How to Add your Business to Google Maps](http://www.3stepstosearchenginesuccess.com/seo-tips/how-to-add-your-business-to-google-maps "Permanent Link to How to Add your Business to Google Maps")
+**[Do you need SEO Coaching?](http://www.3stepstosearchenginesuccess.com/online-coaching/do-you-need-seo-coaching "Permanent Link to Do you need SEO Coaching?")**
 
-When you search for a local  business in your area, you may have noticed that Google often shows a map of your local area along with a list of businesses in that area. For example, if I am looking for restaurants in Edinburgh (where I live) and enter “Edinburgh Restaurants” into Google, the first thing [...]
+Search Engine Optimization and Keyword research can be a complex area, especially if you are new to internet marketing. Understanding how to choose the best keywords for your website, how to optimize your website correctly for the search engines and how to get a higher search engine ranking can have a steep learning curve. You [...]
 
-[Read more....](http://www.3stepstosearchenginesuccess.com/seo-tips/how-to-add-your-business-to-google-maps)
+[Read more....](http://www.3stepstosearchenginesuccess.com/online-coaching/do-you-need-seo-coaching)
+
+* * *
+
+**[How Not to Get a Better Search Engine Rank – 7 Mistakes to Avoid](http://www.3stepstosearchenginesuccess.com/on-page-optimization/how-not-to-get-a-better-search-engine-rank-5-mistakes-to-avoid "Permanent Link to How Not to Get a Better Search Engine Rank – 7 Mistakes to Avoid")**
+
+In most of my posts I have concentrated on different ways to get a better search engine rank. Today I’m going to talk about how not to get a better search engine rank. It is good to know what you need to do to improve your search engine ranking, but what about what you shouldn’t [...]
+
+[Read more....](http://www.3stepstosearchenginesuccess.com/on-page-optimization/how-not-to-get-a-better-search-engine-rank-5-mistakes-to-avoid)
 
 * * *
