@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206105822id_/http%3A//www.lijit.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629073014id_/http%3A//www.lijit.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Lijit | Privacy Policy
 
@@ -95,7 +95,5 @@ This Privacy Policy is a living document. We reserve the right to modify this Pr
 **Contact Us**
 
 If you have any questions or suggestions regarding our Privacy Policy please contact us at info at lijit dot com. 
-
-_This Privacy Policy was last updated on September 1, 2010._
 
 _This Privacy Policy was last updated on September 22, 2010._
