@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xaxor.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019233855id_/http%3A//xaxor.com/index.php/component/content/article/11579.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaxor.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629032420id_/http%3A//xaxor.com/index.php/component/content/article/11579.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -44,7 +44,7 @@ xaXor.com respects the intellectual property of others and  aims to  display
 
 Procedure for notifying us of copyright infringement:
 
-Those who believe that their copyrighted work has been infringed or are aware of other infringing material, should contact us using our [contact form](http://xaxor.com/index.php/component/contact/12/1-name.html) and provide us with the following information:
+Those who believe that their copyrighted work has been infringed or are aware of other infringing material, should contact us using our [contact form](http://xaxor.com/component/contact/12/1-name.html) and provide us with the following information:
 
 1. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyrighted work that has allegedly been infringed.
 
