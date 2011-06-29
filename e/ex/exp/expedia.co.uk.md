@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225191635id_/http%3A//www.expedia.co.uk/daily/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629154250id_/http%3A//www.expedia.co.uk/daily/service/privacy.asp) for the most accurate reproduction.*
 
 # Expedia.co.uk Travel > Expedia.co.uk Customer Support
 
