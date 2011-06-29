@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229053326id_/http%3A//reproductiverights.org/node/59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629024521id_/http%3A//reproductiverights.org/node/59) for the most accurate reproduction.*
 
-# Center for Reproductive Rights Privacy Statement | Center for Reproductive Rights
+# Center for Reproductive Rights Disclaimer and Privacy Statement | Center for Reproductive Rights
+
+### Disclaimer
+
+**Last revised: June 21st, 2011**
+
+Center for Reproductive Rights ("The Center" or "we", "us", "our") does not guarantee the accuracy, reliability, completeness or usefulness of, or otherwise adopt or endorse, any information obtained or derived from external sources provided on this website and, to the extent permitted by applicable law, disclaims all warranties and representations (whether express or implied) as to any information provided on this website from such external sources.  All information is provided “as is” and only for general informational purposes.
+
+### Privacy Policy
 
 **Last Revised: January 15, 2009**
 
-Center for Reproductive Rights ("The Center" or "we", "us", "our") shares your concern about the protection of your personal information online. This is our policy regarding maintaining the privacy of personal information we collect online in connection with the reprorights.org or reproductiverights.org website (the "Site").
+The Center shares your concern about the protection of your personal information online. This is our policy regarding maintaining the privacy of personal information we collect online in connection with the reprorights.org or reproductiverights.org website (the "Site").
 
 Please note that, by using the Site, you signify your agreement to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.
 
@@ -108,4 +116,5 @@ We use reasonable security methods to protect the data that resides on our serve
 
 If you have any comments or questions about this Privacy Policy or the Site, please send an e-mail to [webmaster@reprorights.org](mailto:webmaster@reprorights.org "Webmaster Inbox"), or please send your comments or questions via postal mail to Webmaster, Center for Reproductive Rights, 120 Wall St., New York, NY 10005.
 
+  
 The Site and this Privacy Policy, © 2003 The Center. All rights reserved.
