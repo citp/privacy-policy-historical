@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226024818id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629142028id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # MathWorks - Policies and Statements
 
@@ -53,6 +53,8 @@ MathWorks may employ subsidiaries, partners, service providers, authorized distr
 Although Web browsers typically allow cookies by default, most browsers will let you modify settings so that you can decline cookies if you prefer. If you choose to decline cookies, you may not be able to take advantage of all of the features of this Web site or other Web sites you visit. 
 
 MathWorks engages a third-party Web traffic analysis company to log aggregate information coming through our Web site on our behalf. MathWorks controls how that data may and may not be used. When you visit our Web site, the third-party Web traffic analysis company may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and Web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. These technical tracking methods are not used to relate Web site visitors to any personally identifiable information. Information collected by MathWorks is unique to individual visitors but is not personally identifiable to the third-party Web traffic analysis company. Such information provided to MathWorks may be re-associated by MathWorks with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, or e-mail address, is shared with the third-party Web traffic analysis company.
+
+We allow third-party companies, including a third-party social bookmarking service, to collect certain anonymous information when you visit our Web site and share or bookmark content.
 
 ### 3\. How we protect your order information
 
