@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213074017id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicemagic.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629172743id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.*
 
 # ServiceMagic - Privacy Statement
 
-|  Privacy Statement  
+|    
+Privacy Statement  
   
-ServiceMagic, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to ServiceMagic, Ask.com, College Humor, Match.com, Citysearch, Evite, Gifts.com, Shoebuy and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, ServiceMagic has revised its [Privacy Policy](https://web.archive.org/rfs/aboutus/privacyPolicy.jsp), effective September 26, 2008, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/rfs/aboutus/privacyFAQ.jsp) for details about the changes. Please review both the Consumer Privacy statement and this site's complete privacy policy.
+ServiceMagic, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to ServiceMagic, Ask.com, College Humor, Match.com, Citysearch, Evite, Gifts.com, Shoebuy and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, ServiceMagic has revised its [Privacy Policy](https://web.archive.org/rfs/aboutus/privacyPolicy.jsp), effective April 22, 2011, consistent with the IAC privacy commitment and standard privacy policy format. Please review both this Consumer Privacy statement and ServiceMagic’s complete privacy policy. To see the prior version of the ServiceMagic Privacy Policy, [click here](https://web.archive.org/rfs/aboutus/privacyPolicyPrevious.jsp).
 
 **Consumer Privacy at ServiceMagic, Inc., an IAC Company**
 
@@ -51,7 +52,7 @@ You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
   * For consumer users, to stop receiving promotional emails or newsletters from us by accessing your user account and opting out;
-  * To delete or decline cookies, lower down on this page] by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
+  * To delete or decline cookies, [lower down on this page] by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
   * To learn about additional choices, [click here](https://web.archive.org/rfs/aboutus/privacyPolicy.jsp#your_choices).
 
