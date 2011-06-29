@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226162439id_/http%3A//www.wonga.com/money/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629032924id_/http%3A//www.wonga.com/money/privacy) for the most accurate reproduction.*
 
 # Wonga.com Privacy Policy | Wonga.com® Official Site
 
@@ -20,7 +20,7 @@ Finally, we are subject to UK data protection laws, which we comply with fully a
 
 #### Collecting your data
 
-We collect information about you in two ways - directly from your online application and also from outside sources such as credit bureaus and customer service providers. We may use data that identifies you (your personal information) for a number of things including: statistical analysis; to develop and improve our products; to assess lending risks; to update your records; to identify which of our products, or our partners' products, might interest you; to identify and prevent fraud, money laundering and other criminal activities; to carry out regulatory checks and for market research.
+We collect information about you in two ways - directly from your online application and also from outside sources such as credit bureaus and customer service providers. We may use data that identifies you (your personal information) for a number of things including: statistical analysis; to develop and improve our products; to assess lending risks; to update your records; to identify which of our products, or our partners' products, might interest you; to identify and prevent fraud, money laundering and other criminal activities; to carry out regulatory checks, keeping you informed about your loan, and for market research; and in the products and services which we offer to third parties.
 
 #### Additional data collection
 
@@ -38,7 +38,7 @@ We share the data you submit with third parties involved in the process of provi
 
 #### Selling and disclosing your data to third parties
 
-We may also sell your data (or otherwise pass it on) to selected third parties who may use it to contact you by post, telephone, email, SMS or other reasonable method in relation to offers they feel might interest you, whether or not we enter into an agreement with you. In addition, we may disclose your personal information to a third party:
+We may also sell your data (or otherwise pass it on) to selected third parties who may receive it as part of products or services which we offer or otherwise use it to contact you by post, telephone, email, SMS or other reasonable method in relation to offers they feel might interest you, whether or not we enter into an agreement with you.
 
 • In the event we sell or buy any business or assets (in which case we may disclose your personal data to the prospective seller or buyer of such a business or assets)  
 • If our business or substantially all of its assets are acquired by a third party (in which case personal data held about customers will be one of the transferred assets)  
@@ -47,6 +47,8 @@ We may also sell your data (or otherwise pass it on) to selected third parties w
 Because we work with some carefully selected partners outside of the UK - in order to offer you our loans service - we may also need to transfer your personal information abroad, to countries whose data protection laws are less strict than in the UK. If and whenever this is the case, we will ensure the information is held securely to standards as least as good as those in the UK and is only used for the purposes set out in this policy.
 
 Under the Data Protection Act 1998, you have a right to access certain personal records we, credit reference agencies and fraud prevention agencies hold about you. This is called a ‘subject access request’, which you can make by writing to [customercare@wonga.com](mailto:customercare@wonga.com). A fee may be payable, but we will not charge you until we have told you how much the fee is and what it is for, and you have told us you still want to proceed.
+
+If you give us false or inaccurate information and we have reasonable grounds to suspect fraud or we identify fraud we will pass this information to fraud prevention agencies and it may also be passed onto other organisations involved in crime and fraud prevention. We and other organisations may also access and use such information to prevent fraud and money laundering, for example, when (i) checking details on applications for credit and credit related or other facilities; (ii) managing credit and credit related accounts or facilities; (iii) recovering debt; and (iv) checking details of job applicants and employees. Please contact us at [customercare@wonga.com](mailto:customercare@wonga.com) if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
 #### Contact from Wonga and third parties
 
