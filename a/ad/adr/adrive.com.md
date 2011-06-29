@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231114551id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629034429id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
 
 # ADrive | 50GB Free Online Storage, Online Backup, Cloud Storage
 
