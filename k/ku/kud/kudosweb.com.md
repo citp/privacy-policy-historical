@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kudosweb.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205224345id_/http%3A//www.kudosweb.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kudosweb.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629124245id_/http%3A//www.kudosweb.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | Kudos Web
+# Kudos Web | Privacy
 
 This privacy policy sets out how Kudos Web uses and protects any information that you give Kudos Web when you use this website.
 
