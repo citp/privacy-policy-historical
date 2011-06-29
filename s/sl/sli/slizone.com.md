@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slizone.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106022120id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slizone.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630010211id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
-# None
+# NVIDIA Privacy Policy
 
 This policy was last updated on July 1, 2009.
 
@@ -75,7 +75,7 @@ We may makes changes to our Online Privacy Policy from time to time. Please revi
 
   10. #### Your Consent
 
-By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA’s collecting and processing of your Personal Information for the purposes listed herein. Your Personal Information may be processed in the country in which it was collected and in the United States. NVIDIA is committed to complying with all applicable laws regarding consumer privacy. At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.
+By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA’s collecting and processing of your Personal Information for the purposes listed herein. Your Personal Information may be processed in the country in which it was collected and in the United States and other countries in which NVIDIA's backup storage may be located. NVIDIA is committed to complying with all applicable laws regarding consumer privacy. At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.
 
 
 
