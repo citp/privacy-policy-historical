@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppgazette.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219162746id_/http%3A//www.ppgazette.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppgazette.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629182600id_/http%3A//www.ppgazette.com/privacy.php) for the most accurate reproduction.*
 
 # PPGazette
 
@@ -14,7 +14,7 @@ Beginning January 1, 2005, California residents who provide personal information
 
 To opt-out of having your information shared with third parties, send your request, including your full name, email address and postal address to: 
 
-Penny Pincher Gazette, 9430 Research Blvd. Suite 200, Austin, TX 78759
+Penny Pincher Gazette, PO Box 303393, Austin, TX 78703
 
 How We Use The Information We Collect 
 
