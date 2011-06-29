@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216172231id_/http%3A//www.ieee.org/security_privacy.html%3FWT.mc_id%3Dhpf_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629110345id_/http%3A//www.ieee.org/security_privacy.html%3FWT.mc_id%3Dhpf_priv) for the most accurate reproduction.*
 
 # IEEE - About Your Security and Privacy
-
-In certain transactions you are given the option of running in a secure (SSL) mode or unsecure mode. In cases where a firewall is causing a situation that cannot be corrected, the use of the unsecure mode is given. The unsecure mode is used by you at your own risk.
-
-In addition, there are constantly changing restrictions in the use of encryption software and schemes that are used in various countries. The use of appropriate software and encryption options are your responsibility, and the IEEE assumes no risk or liability in ensuring your compliance to local law.
-
-Regardless of the precautions taken by you or by IEEE, "perfect security" does not exist on the Internet. IEEE cannot ensure or warrant the security of any information you transmit to this site or to IEEE, and you transmit such information at your own risk.  
-
-
- **Information We Collect From You, How the Information is Used,  and Opt-out Choices **
 
 There are a number of areas in the IEEE Web Site where we ask for and collect information about you, including personally identifiable information. Where we do, it is in order to serve you better, or is necessary to accomplish the service you are requesting. Examples include membership information (which may include name, address, email, telephone number and educational and professional experience information), security identifiers, shipping information, and product purchase information stored in online shopping carts.
 
@@ -23,5 +14,5 @@ The IEEE Membership Directory, printed annually and available for sale to IEEE m
 
 Security identifiers are not disclosed to third parties or affiliated persons or entities. Shipping information (except membership information as noted above) and product purchase information stored in online shopping carts is not disclosed except in connection with the fulfillment and processing of your orders and requests.
 
-All IEEE Financial Advantage Program services, except for IEEE Travel Services, are provided by third parties and not by the IEEE. When you provide information about yourself in connection with these services and products, you are providing this information to third party service providers and not to the IEEE. The terms of those products and services and the use of all information provided by you to them in connection with such products and services are governed by the privacy policies and practices of such third party service providers.Information you provide to IEEE Travel Services is provided to travel carriers and service providers in order to fulfill your travel-related requests. Their use of that information is governed by their privacy policies, not the privacy policy of IEEE.  
+All IEEE Financial Advantage Program services are provided by third parties and not by the IEEE. When you provide information about yourself in connection with these services and products, you are providing this information to third party service providers and not to the IEEE. The terms of those products and services and the use of all information provided by you to them in connection with such products and services are governed by the privacy policies and practices of such third party service providers.Information you provide to IEEE Travel Services is provided to travel carriers and service providers in order to fulfill your travel-related requests. Their use of that information is governed by their privacy policies, not the privacy policy of IEEE.  
  
