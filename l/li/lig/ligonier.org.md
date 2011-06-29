@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ligonier.org privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130224818id_/http%3A//www.ligonier.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ligonier.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629173233id_/http%3A//www.ligonier.org/privacy-policy) for the most accurate reproduction.*
 
 # Ligonier Ministries
 
@@ -32,6 +32,10 @@ Ligonier Ministries provides a "Profile" feature on our web site that allows you
 
 Your e-mail address is used to create and identify your account on ligonier.org. Your e-mail address is also used by Ligonier Ministries to correspond with you about orders you may have placed or to keep you updated if you opt in to receive e-mails from us. We may also use your e-mail address to notify you about important functionality changes to the web site. If you would rather not receive this information or would like to opt-out of receiving e-mail of this kind, simply click on the "Unsubscribe" link that appears on the bottom of any e-mail from ligonier.org and follow the simple instructions to have your e-mail address removed from the list of those who receive updates, e-newsletters, announcements, or notices of new functionality or services.
 
+### What is Ligonier Ministries' return policy?
+
+Ligonier Ministries has a 30-day return policy for most items in new condition. You may return the product with a description of the problem and why you are returning it. The return should come from the original purchaser of the product. For refunds or any other questions, please contact [customerservice@ligonier.org](mailto:customerservice@ligonier.org), or call 800.435.4343.
+
 ### Does Ligonier Ministries use "cookies"?
 
 Yes. A cookie is a small piece of information sent by a web site that may be saved on your hard disk by your computer's browser. The cookie holds information a site may need to personalize your experience and to gather statistical data, such as which pages are visited, the Internet provider's domain name (e.g., "aol.com" or "msn.com") and the country of origin from which our visitors come from and the addresses of the sites visited immediately before coming to and immediately after leaving ligonier.org. However, none of this information is associated with you as an individual. It is measured anonymously and only in the aggregate. The information in the cookies allows us to trace your "clickstream" activity (i.e., the path taken by visitors to our site as they move from page to page). Cookies do not capture your individual e-mail address or private information about you.
@@ -40,7 +44,7 @@ To browse without cookies, you can configure your browser to reject all cookies 
 
 ### How can I remove my name from Ligonier Ministries' direct mail or e-mail list?
 
-To have your e-mail address removed from our list of addresses that receive information about new products, services, sales, and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any e-mail you've received from us and follow the simple instructions. You may remove your personal information from our direct mail list by contacting us in writing at, Ligonier Ministries, 400 Technology Park, Lake Mary, FL 32746, emailing us at customerservice@ligonier.org, or by calling 800.435.4343.
+To have your e-mail address removed from our list of addresses that receive information about new products, services, sales, and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any e-mail you've received from us and follow the simple instructions. You may remove your personal information from our direct mail list by contacting us in writing at, Ligonier Ministries 421 Ligonier Court Sanford, FL 32771, or emailing us at [customerservice@ligonier.org](mailto:customerservice@ligonier.org), or by calling 800.435.4343.
 
 ### Your Consent
 
@@ -48,4 +52,4 @@ You acknowledge that this privacy policy is part of the terms of service and you
 
 ### Tell us what you think
 
-If you have any comments or questions about this privacy statement, please e-mail us at [webmaster@ligonier.org](https://web.archive.org/web/20100130224818id_/http%3A//www.ligonier.org/webmaster@ligonier.org) or refer to our contact information to reach us by phone or postal mail.
+If you have any comments or questions about this privacy statement, please e-mail us at [webmaster@ligonier.org](mailto:webmaster@ligonier.org) or refer to our contact information to reach us by phone or postal mail.
