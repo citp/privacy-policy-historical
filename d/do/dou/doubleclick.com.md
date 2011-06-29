@@ -1,60 +1,84 @@
-> *The following text is extracted and transformed from the doubleclick.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627054130id_/http%3A//www.doubleclick.com/us/about_doubleclick/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleclick.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629132456id_/http%3A//www.google.com/intl/en/privacy/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy – Google Privacy Center
 
-_Last updated June 17, 2002_ **Brief Overview** | [](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
----|---  
-  
-DoubleClick provides digital marketing and Internet advertising technology and services. [Click here](http://www.doubleclick.com/us/about_doubleclick/privacy/policies.asp) for our comprehensive statement covering our services. [Click here for the TRUSTe approved privacy policy](http://www.doubleclick.com/us/about_doubleclick/privacy/doubleclick-sites.asp) of this website, www.doubleclick.com. Read below for a brief overview of DoubleClick's practices. 
+## Privacy Policy
 
-****
-  1. **No personal information is used by DoubleClick to deliver Internet ads.**
+Last modified: October 3, 2010 ([view archived versions](https://web.archive.org/intl/en/privacy/archive/)) 
 
-DoubleClick does not use your name, address, email address, or phone number to deliver Internet ads. DoubleClick does use information about your browser and Web surfing to determine which ads to show your browser. 
+This Privacy Policy applies to all of the [products, services and websites](https://web.archive.org/options/) offered by Google Inc. or its subsidiaries or affiliated companies except Postini ([Postini Privacy Policy](https://web.archive.org/a/help/intl/en/security/terms/new_privacy.html)). Sometimes, we may post product specific privacy notices or Help Center materials to explain our products in more detail. 
 
-  2. **You can control the technologies used to collect information during ad serving.**
+If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/support/websearch/bin/answer.py?answer=151265&hl=en) through our website or write to us at 
 
-DoubleClick asks website operators to link from their privacy policy to ours to allow consumers to opt-out of the DoubleClick ad-serving cookie, so that no unique information or number is associated with your computer's browser if you choose. [Click here](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/default.asp) for the ad-serving cookie opt-out. You can also use [P3P](http://www.doubleclick.com/us/about_doubleclick/privacy/p3p.asp) to control your browser’s interaction with cookies. 
+Privacy Matters  
+c/o Google Inc.  
+1600 Amphitheatre Parkway  
+Mountain View, California, 94043  
+USA
 
-  3. **You can control the email you receive.**
+### Information we collect and how we use it
 
-Before companies can use DoubleClick DARTmail technology to send email, that company must commit to us that consumers have agreed to receive such email messages. 
+We may collect the following types of information: 
 
-  4. **DoubleClick encourages all companies with which we do business to engage in fair information practices.**
-
-DoubleClick asks that these companies disclose their relationship with us by providing notice to consumers about the DoubleClick technologies that they use. 
-
-  5. **(A) DoubleClick as a technology service provider:**
-
-In most cases, when you see an Internet ad, DoubleClick has been asked by the website to act as an agent for ad delivery, reporting or analysis of usage at their website. The information DoubleClick processes on such a website's behalf belongs to that website and is not further used by DoubleClick. DoubleClick does not own the information collected and cannot use it for its own business purposes or in any way not authorized by our client. 
-
-**(B) Websites that share information with DoubleClick that will be used to determine your preferences for future ad serving:**
-
-When websites contract with DoubleClick to share anonymous website data to develop marketing scores for future ad serving across the Internet, those websites must comply with the Network Advertising Initiative guidelines (visit [www.networkadvertising.org](http://www.networkadvertising.org/)). Only websites in the United States share information with DoubleClick for the creation of marketing scores in this manner. DoubleClick does not develop marketing scores that indicate a user's individual health condition, detailed financial information, sexual orientation or behavior, information that appears to relate to children under 13, racial and ethnic origin, political opinions, religious or philosophical opinions, and trade union membership. 
-
-  6. **The promises we make about information you give us online should be upheld.**
-
-DoubleClick may change its policy as new products are added or old ones are changed, but DoubleClick treats information it owns in a manner consistent with the policy under which it was collected, unless we have your consent to use it differently. If part or all of DoubleClick's businesses are sold or transferred, we will take steps to assure that these same principles apply. 
-
-  7. **You shouldn't just have to take our word for it.**
-
-DoubleClick is a member of the Network Advertising Initiative and has been [audited for compliance with NAI principles](http://www.doubleclick.com/us/knowledge_central/documents/misc/kpmg_report_nai_0404.pdf). 
-
-  8. **Questions, concerns and comments**
-
-Questions, concerns, comments and complaints can be addressed to [privacy@doubleclick.net](mailto:%20privacy@doubleclick.net) and to [www.networkadvertising.org](http://www.networkadvertising.org/). For complaints about personal information collected by this website, you can contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). 
-
-  9. **Transparency**
-
-We are committed to transparency about our practices and provide the links to the left for more information about specific DoubleClick products and services. 
-
-  10. **Safe Harbor**
-
-DoubleClick complies with the [Safe Harbor](http://www.doubleclick.com/us/about_doubleclick/privacy/europe.asp) agreement with the European Union. 
+  * **Information you provide** – When you sign up for a [Google Account](https://web.archive.org/intl/en/privacy/faq.html#toc-terms-account), we ask you for [personal information](https://web.archive.org/intl/en/privacy/faq.html#toc-terms-personal-info). We may combine the information you submit under your account with information from other Google services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. You can use the Google Dashboard to learn more about the information associated with your Account. If you are using Google services in conjunction with your Google Apps Account, Google provides such services in conjunction with or on behalf of [your domain administrator](https://web.archive.org/support/a/bin/answer.py?answer=178897). Your administrator will have access to your account information including your email. Consult your domain administrator’s privacy policy for more information. 
+  * **Cookies** – When you visit Google, we send one or more [cookies](https://web.archive.org/intl/en/privacy/faq.html#toc-terms-cookie) to your computer or other device. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. Google also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web and on Google services. 
+  * **Log information** – When you access Google services via a browser, application or other client our servers automatically record certain information. These [server logs](https://web.archive.org/intl/en/privacy/faq.html#toc-terms-server-logs) may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account. 
+  * **User communications** – When you send email or other communications to Google, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality, we may collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services. 
+  * **Affiliated Google Services on other sites** – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Google in order to deliver the service. We process such information under this Privacy Policy. 
+  * **Third Party Applications** – Google may make available third party applications, such as gadgets or extensions, through its services. The information collected by Google when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies. 
+  * **Location data** – Google offers location-enabled services, such as Google Maps and Latitude. If you use those services, Google may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID). 
+  * **Unique application number** – Certain services, such as Google Toolbar, include a unique application number that is not associated with your account or you. This number and information about your installation (e.g., operating system type, version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers (for example, to request automatic updates to the software). 
+  * **Other sites** – This Privacy Policy applies to Google services only. We do not exercise control over the sites displayed as search results, sites that include Google applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
 
 
+In addition to the above, we may use the information we collect to: 
 
-[Contact us](http://www.doubleclick.com/us/contact_us/default.asp) for more information.
+  * Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and 
+  * Protect the rights or property of Google or our users.
 
-opt&out opt&out optout otp out opt=out privacy privasy ad ads cancel get off tracking privacy_policy opt out remove adcookie ad-cookie cookies cookie opt out unsubsribe
+
+
+If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
+
+Google processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information outside your own country. 
+
+### Choices
+
+You can use the [Google Dashboard](https://www.google.com/dashboard/?hl=en) to review and control the information stored in your Google Account. 
+
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features and services may not function properly if your cookies are disabled. 
+
+Google uses the [DoubleClick advertising cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) on AdSense partner sites and certain Google services to help advertisers and publishers serve and manage ads across the web. You can view and manage your ads preferences associated with this cookie by accessing the [Ads Preferences Manager](https://web.archive.org/ads/preferences/?hl=en). In addition, you may choose to opt out of the DoubleClick cookie at any time by using [DoubleClick’s opt-out cookie](https://web.archive.org/intl/en/privacy/ads/). 
+
+### Information sharing
+
+Google only shares personal information with other companies or individuals outside of Google in the following limited circumstances: 
+
+  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information. 
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. 
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Google, its users or the public as required or permitted by law.
+
+
+
+If Google becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy. 
+
+### Information security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. 
+
+We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+
+### Accessing and updating personal information
+
+When you use Google services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. Please review the service Help Centers for more information. 
+
+### Enforcement
+
+Google adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce’s Safe Harbor Program](http://www.export.gov/safeharbor/). 
+
+Google regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is Google’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Google and an individual. 
+
+### Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep [prior versions](https://web.archive.org/intl/en/privacy/archive/) of this Privacy Policy in an archive for your review. 
