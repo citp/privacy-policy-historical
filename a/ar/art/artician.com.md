@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234917id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artician.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629062929id_/http%3A//www.artician.com/privacy) for the most accurate reproduction.*
 
 # Artician Privacy Policy
 
   
 
 
-**Last updated:** October 11 2010
+**Last updated:** February 06 2011
 
 The Artician Network is owned and operated by Artician LLC, and Artician Web Development Studios.  
 We can be reached via e-mail at  | [View Terms of Use](https://web.archive.org/terms/). 
