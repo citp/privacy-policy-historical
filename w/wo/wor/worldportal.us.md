@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldportal.us privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223034427id_/http%3A//www.worldportal.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldportal.us privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629173038id_/http%3A//www.worldportal.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
