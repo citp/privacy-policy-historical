@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229130807id_/http%3A//www.oneplace.com/account/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629123247id_/http%3A//www.oneplace.com/account/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Christian Ministry Help Topics, Internet, Radio, Ministries, Listen Free Online, Bible
 
-Last Updated: November 3, 2007
+## Privacy Policy \- Last updated: November 3, 2007
 
-This policy informs you of the policies of Salem Communications Corporation and its subsidiary entities (collectively, “Salem”), including without limitation the Salem and radio stations concerning the collection, use and disclosure of personal information from this Salem-related website. Because we may gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. At Salem we understand your privacy is important to you. Even though we may need to collect information about you to provide you with some of our products and services, you may not want us to disclose that information to others. Accordingly, what follows is a description of how we gather and use information about you (collectively “Your Information”).
+This policy informs you of the policies of Salem Communications Corporation and its subsidiary entities (collectively, “Salem”), including without limitation the Salem and radio stations concerning the collection, use and disclosure of personal information from this Salem-related website. Because we may gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. At Salem we understand your privacy is important to you. Even though we may need to collect information about you to provide you with some of our products and services, you may not want us to disclose that information to others. Accordingly, what follows is a description of how we gather and use information about you (collectively “Your Information”). 
 
-Please note that by visiting this website, you consent to the collection of Your Information by Salem as set forth in this Privacy Policy.
+Please note that by visiting this website, you consent to the collection of Your Information by Salem as set forth in this Privacy Policy. 
 
-1\. Will Salem Disclose the Information It Collects to Outside Parties?
+####  1\. Will Salem Disclose the Information It Collects to Outside Parties? 
 
 Generally, Salem does not sell, trade, or rent your personal information to others. However, Salem may provide aggregate statistics about our customers, traffic patterns, and related site information to third-party vendors. Generally, these statistics will include no personally identifying information. However, Salem may release Your Information when we believe, in good faith, that such release is reasonably necessary to (i) comply with the law; (ii) protect the rights, property or safety of Salem, our users, or others; (iii) enforce or apply the Terms of Use applicable to this website; or (iv) enforce contest, sweepstakes, promotions, and/or game rules. Also, we may give some or all of Your Information to third-party vendors who assist us in fulfilling some of the functions of this Website. Finally, we may provide Your Information to third parties if you authorize us to.
 
-2\. What Information Do We Collect? How Do We Use It?
+####  2\. What Information Do We Collect? How Do We Use It? 
 
 ### Registration Data
 
