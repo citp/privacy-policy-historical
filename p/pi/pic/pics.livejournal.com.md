@@ -1,142 +1,106 @@
-> *The following text is extracted and transformed from the pics.livejournal.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009233223id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pics.livejournal.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629083858id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # LiveJournal Privacy Policy
 
-Information you share with us is used for LiveJournal's internal business purposes. LiveJournal is not in the business of selling information about you. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share the information, and finally, how you can access that information or contact us with questions or concerns.
+LiveJournal Inc. takes your privacy seriously. We are committed to making best efforts to protect your personal information and to give you as much control as possible over the privacy of the content you post on the Service. This Privacy Policy (“Policy”) applies to the LiveJournal Service worldwide (the “Service”), but may not cover the content you share with third party advertisers, web developers, or service providers that may appear on the Service, or support LiveJournal products or services, which are subject to their respective privacy policies.
 
-## Information We Gather
+**Safe Harbor Principles:** LiveJournal is a social media platform that hosts user-generated content. LiveJournal does not control, condone, endorse, or assume responsibility for any of the content posted by our users. LiveJournal complies with the <http://www.export.gov/safeharbor/> U.S. Department of Commerce’s Safe Harbor Program, and is committed to resolving complaints about your privacy and our collection or use of your personal information.  European Union citizens with inquiries or complaints regarding this privacy policy should first contact LiveJournal at:
 
-  * LiveJournal collects personal information that you provide when you register with us, use LiveJournal products or services available on the LiveJournal Site (the "Service") or post content on a LiveJournal Blog site as a guest with authoring rights. 
-  * LiveJournal may also collect personal information you provide to us when you enter any promotions or sweepstakes offered on the LiveJournal site. 
-  * LiveJournal may aggregate your information with information from other users (without personally identifying you) and share it with our business partners or others. 
-  * LiveJournal may also collect information about your transactions with us and with some of our business partners. This information might include information necessary to process payments due to us from you such as your credit card number. 
-  * LiveJournal automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. 
-
-
-
-## How we use IP Address Information
-
-  * LiveJournal may occasionally obtain IP addresses from users depending upon how you access our web site. IP addresses, browser and session information may be used for various purposes, including to:
-    * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. 
-    * Estimate the total number of users visiting LiveJournal from specific geographical regions. 
-    * Help determine which users have access privileges to certain content, services or resources that we offer. 
-    * Monitor and prevent fraud and abuse. 
-    * Deliver more relevant advertisements to you. 
-  * LiveJournal may display your IP address to the owners or maintainers of certain LiveJournal journals when you post to those journals and the owner or maintainer has enabled functionality on the site for this purpose. 
+  * Live Journal, Inc.
+  * 580 Market Street, Suite 500
+  * San Francisco, CA 94104
+  * Attn: Safe Harbor Compliance Unit
 
 
 
-## How we use Cookies
+**Council of Better Business Bureaus, Inc.:** LiveJournal is further committed to referring any unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by LiveJournal, you may contact:
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set, however, if you configure your browser to reject cookies, you may not be able to use LiveJournal products or services that require you to "sign in" and you may not be able to take full advantage of all offerings on the LiveJournal site.
-  * LiveJournal uses its own cookies for a number of purposes, including to:
-    * Require you to re-enter your LiveJournal password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
-    * Keep track of preferences you specify while you are using LiveJournal's services.
-    * Estimate and report our total audience size and traffic.
-    * Conduct research to improve LiveJournal's content and services.
-  * LiveJournal lets other entities that show advertisements on some of our web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to LiveJournal's cookies.
-
-
-
-## Special Rules Information Relating to Children
-
-  * The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. LiveJournal is not directed at children under 13 years of age but, we recognize that with proper adult supervision some parents might permit their children to visit LiveJournal and use our Service. COPPA requires that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of LiveJournal.
-  * When your child attempts to register and/or provide personal information to LiveJournal, we require a parent or legal guardian to:
-    1. complete the registration;
-    2. review our privacy policy and to submit a valid credit card number to verify that the child's parent or guardian knows about and authorizes our information practices related to children protected by COPPA; and
-    3. verify through the use of an email confirmation and second authorization that the parent or guardian consents to the Terms of Service and this privacy policy.
-  * Once parental notice and consent has been verified, the information we collect will be treated the same as information collected from any other user of LiveJournal. Without verified parental notice and consent, we will not knowingly collect personal information relating to children under 13 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it.
+  * Council of Better Business Bureaus, Inc.
+  * BBB EU Safe Harbor
+  * 4200 Wilson Boulevard, Suite 800
+  * Arlington, VA 22203
+  * Phone:  703-276-0100
+  * Web: [http://www.bbb.org/us/](https://web.archive.org/web/20110629083858id_/http%3A//www.livejournal.com/legal/www.us.bbb.org)
+  * Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
 
 
-## How Parents can Access their Children's Personal Information
+## Account and Profile Information
 
-In compliance with COPPA, a parent or legal guardian may request from us to review, delete or stop the collection of personally identifiable information relating to their child or any child in their legal custody who is under 13 years of age. You may do so in one of two ways.
+**Registration:** LiveJournal collects certain personal information when you register for the Service, including your name, date of birth, contact information (collectively, “identifiable personal information”). We ask for your date of birth in order to verify that you are over 13 years of age, but you are free to hide your date of birth or just the year you were born as well as all other identifiable personal information that you do not wish to share.
 
-If you know the user name and password, follow the instructions below regarding _Changing your Preferences and Personal Information_ , or you may contact us by letter, phone or email using the address information provided at the bottom of this page.
+**Profile:** You are encouraged to provide as much non-identifiable personal information as you like once you register for the Service, including your interests, schools, and other biographical data. This will help you find friends and communities on the Service. LiveJournal will not resell your identifiable personal information to third parties. We may, however, aggregate and share generalized data and demographic information about you, such as your age, gender, geographic region, and analytical data describing your use of, and interaction with, any part of the Service, including, but not limited to, third party products, services, sponsored contests, sweepstakes, and advertisements.
 
-If you request that no further information about your child be collected or used, we will be required to terminate your child's ability to use any part of the Service that requires a user to "sign in."
+**Transactions:** LiveJournal may collect and retain records regarding purchases you make on the Service as well as transactions involving third party products, services, and other offerings.
 
-## How we Use, Share and Disclose Information We Collect
+**Browser:** LiveJournal automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request.
 
-  * LiveJournal does not share personal information we learn about you from your use of the Service or this web site with others except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes.
-  * When you provide personal information through using the Service you are however sharing your personal information with LiveJournal, organizations that may hold a majority interest in LiveJournal, their divisions or subsidiaries and, LiveJournal and any of its divisions or subsidiaries. The use of your personal information by these organizations is subject to this policy.
-  * We do not share your information with unrelated third parties for their direct marketing purposes. However, LiveJournal may display targeted advertisements based on personally non-identifiable information (such as browser type and IP address) and/or personal selection (See the Section entitled "Third Party Advertising" below for more information on how your information is shared with advertisers).
-  * LiveJournal may use your personal information where it is necessary for us to complete a transaction, to operate or improve LiveJournal and related products and services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest.
-  * LiveJournal may use your email address to contact you with required email messages about the Service.
-  * Where you are contacted with an offer or service based on information you have shared with LiveJournal, we will do our best to provide you with an opportunity to opt-out of receiving such further communications at the time you are contacted. 
-  * When you post a message, your LiveJournal ID or alias that you are posting under may be visible to other users. 
-  * When you post a message on LiveJournal Blog Sites, you have the ability to post a message which may include personally identifiable information about yourself; consequently, you should understand that if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return, and we cannot be responsible for the use of any information you post publicly. 
-  * LiveJournal does or may share personally identifiable information about you under the following circumstances:
-    * In the course of operating our business it may be necessary or appropriate for us to provide access to your personal information to others such as our service providers, contractors and select vendors so that we can operate the Service and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others' use or disclosure of the information you have shared.
-    * We may transfer personal information to certain advertising partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
-    * We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or defend against legal claims, if in our judgment, disclosure is required or appropriate in such circumstances.
-    * We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of LiveJournal's terms of use, or as otherwise required by law.
-    * As we continue to develop our business, we might also sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that may be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented.
+## How We Use IP Addresses
+
+LiveJournal may occasionally obtain IP addresses from users, depending upon how you access the Service. By posting to another user’s Journal or a Community, you may display your IP address, depending on the settings of that Journal or Community. IP addresses, browser, and session information may be used for a variety of reasons, including to:
+
+  * Diagnose and prevent service or technology problems reported by our users or engineers.
+  * Estimate the number of users visiting LiveJournal from various geographic regions.
+  * Track public and internal access to content, services, and/or resources.
+  * Monitor and prevent fraud, Spam, and abuse.
+  * Deliver more relevant advertisements to you.
 
 
 
-If there is ever a change to how LiveJournal uses or intends to use personal information, we will post that change to this policy and, if the new policy is materially less restrictive than this policy, we will seek your consent.
+## How We Use Cookies
 
-## Third Party Advertising and Cookies
+A cookie is a small amount of data that often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you configure your browser to reject cookies, however, you may not be able to use some LiveJournal or third party products or services. LiveJournal allows some third parties that advertise and/or offer products and services on the Service to set and access their cookies on your computer when you visit their web sites, subject to their respective privacy policies. Third parties are not granted access to LiveJournal's cookies.
 
-Advertisements appearing on LiveJournal may be delivered to users by LiveJournal or one of our advertising partners (or "ad networks"). Ad networks include third party ad servers, ad technology vendors and/or research firms.
+## Special Rules Regarding Children
 
-Ad networks may set cookies and/or include a file, called a web beacon, within pages served by LiveJournal so the networks may provide auditing, research and reporting for advertisers.
+You must be at least 13 years of age to use the Service. Users who are found to be under 13 years of age may be suspended from the Service without notice. Users who are over 18 years of age and who register as being under 18 years of age may be suspended without notice. Users who are under 18 years of age and who register as being over 18 years of age may be suspended without notice. Any content that is determined to have been posted by a user who was under 13 at the time of posting will also be deleted. We will not knowingly collect personal information from children under the age of 13, and any information inadvertently gathered will be promptly deleted.
 
-  * Cookies allow the ad server to recognize your computer each time it sends you an online advertisement.
-  * Web beacons are typically an invisible image that may be embedded in a web page or in an advertisement. A web beacon's primary purpose is to count the page's visitors.
+## Information You Share
+
+**LiveJournal:** Whenever you post and/or provide personal information through use of this Service, you understand that you are sharing your information with LiveJournal, organizations that may hold an interest in LiveJournal, their divisions and/or subsidiaries, and any of LiveJournal’s divisions and/or subsidiaries, and/or assigns. Their use of your personal information is subject to this Policy, but may be modified anytime by posting an updated Policy at this URL. It is your responsibility to check this Policy on a regular basis. Use of the Service constitutes your consent to the terms described herein.
+
+**No Resale of Identifiable Personal Information:** We will not share or resell your identifiable personal information to third parties for direct marketing purposes. LiveJournal may display relevant ads based on non-identifiable personal information, such as browser type, region detected on the basis of information located in the Network field of the Internet Address, and your use of, and interaction with, any part of the Service.
+
+**Billing:** LiveJournal may use your personal information in order to investigate or complete a transaction (such as processing a payment for a service you ordered). 
+
+**Email:** LiveJournal may use your email address to contact you regarding important Account or Service updates. We will do our best to offer an opportunity to opt-out of non-essential communications.
+
+**Username:** Whenever you post content or send a message on the Service, your LiveJournal ID (“Username”) may be visible to other users, depending on your privacy settings. Any information you post on the Service, including, but not limited to, content posted in your Journal, Communities, or your Profile page, may be accessible through use of your Username. 
+
+**Public Content:** Whenever you post content on the Service and set the privacy setting to “Public” or “Everybody,” you understand that this information may be accessible by anyone with Internet access, whether or not they are logged into LiveJournal. In addition, any content you post publicly may result in unsolicited communications from other parties. You should further understand that any personally identifiable information and/or content that you post on LiveJournal that is viewable by other users may be copied and/or shared without your consent. LiveJournal cannot be responsible for any loss or damages relating to any information you post on the Service. LiveJournal may repost public entries, in whole or in part, on the LiveJournal homepage or other LiveJournal pages in order to help users find friends and communities based on mutual interests.
+
+**Third Parties:** LiveJournal may share your identifiable personal information with third parties under the following circumstances:
+
+  * **Operations:** In the course of business, it may be necessary to grant access to internal systems that contain your personal information in order to improve our operations and Service, including, but not limited to, outside service providers, contractors, and vendors. Whenever practicable, we will obtain confidentiality agreements that are consistent with this policy and take reasonable measures to limit access to your personal information.
+  * **Sponsored Contests and Giveaways:** Should you choose to participate in a sponsored contest, sweepstake, or give-away and/or if you request information from a third party advertiser or service provider, we may transfer personal information that you have specifically agreed to share. We will do our best to warn you when you are agreeing to share your information with a third party and let you know whether the third party’s privacy policy applies.
+  * **Ad Service:** LiveJournal may deliver relevant ads to you based on general demographic data, stated interests, and/or your use of, and interaction with, any part of the Service, subject to your privacy settings and Account type, as described in our TOS, which is integrated by reference herein. LiveJournal will not share your identifiable personal information with third party advertisers, but may aggregate and share non-identifiable generalized data about you with third parties, including demographic information and your viewing of, and interaction with, advertisements displayed on the Service in order to improve the relevancy of ad service, third party offerings, and related campaigns.
+  * **Ad Networks:** Advertisements that appear on LiveJournal may be delivered to users by LiveJournal or one of our advertising partners (or "ad networks"). Ad networks include third party ad servers, ad technology vendors, and/or research firms. Ad networks may set cookies and/or include a file, called a web beacon, enabling ad networks to provide auditing, research, and/or reporting to advertisers. Please note that none of your identifiable personal information will be shared with our advertisers through their use of cookies or web beacons.
+  * **Legal Process:** We may share your personal information to respond to subpoenas, court orders, or legal process, to establish and/or exercise our legal rights, or to defend against legal claims under U.S. law. 
+  * **Safety and Security:** We may share your personal information with U.S. Law enforcement officers to investigate, prevent, or take action to prevent or stop illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of LiveJournal's TOS, and/or if it is necessary to comply with, and/or cure a potential violation or breach of, U.S. law.
+  * **Sale of Business:** In the course of business, we might negotiate to sell all or part of our business. In such transactions, your personal information may be shared or transferred to the buyer, but shall remain subject to this Policy. Such Policy may, however, be updated or amended at any time. The revised policy will be posted here for your review.
 
 
-
-Ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by LiveJournal and does not cover the use of cookies by any advertisers.
-
-Please note that no personal identifying information you have provided to LiveJournal is shared with our advertisers as a result of their use of cookies or web beacons.
-
-## Opting Out of Ad Network Cookies
-
-LiveJournal respects our users' wish for privacy, and understands some users may wish to opt-out and/or manage the cookies set on their computers by these ad networks. To understand how these networks allow you to manage cookies set by them, you will need to visit their respective websites. Ad networks generally provide an opt-out on their websites.
-
-Currently, LiveJournal has relationships with the following ad networks and other third parties:
-
-Advertising.com (an AOL Company) - <http://www.advertising.com/>  
-AdBrite - <http://www.adbrite.com/>  
-Blue Lithium (a Yahoo! Company) - <http://www.bluelithium.com/>  
-Casale Media - <http://www.casalemedia.com/>  
-DoubleClick (a Google Company) - <http://www.doubleclick.com/>  
-Google Ad Sense - <https://www.google.com/adsense/>  
-Omniture (includes HitBox) - <http://www.omniture.com/en/>  
-(HitBox specific privacy policy here: <http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy/>)  
-Right Media (a Yahoo! Company) - <http://www.rightmedia.com/>
-
-We will be updating this list as the list of ad networks with which we do business changes.
-
-LiveJournal does not share any personally identifiable information with advertisers. LiveJournal may share general demographic information (such as information about members' aggregate interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. If you have a Plus account or are a Basic or Early Adopter account viewing a Plus account's journal or other content, LiveJournal shares your voluntarily-provided public profile information (such as sex, age, location and interests) and your voluntarily-provided advertising preferences information with advertisers. LiveJournal does not give advertisers access to your private personal account information (such as email address, or, if you have elected to make these private or friends-only in your profile, sex and location). However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
 ## Confidentiality and Security
 
-No data transmissions over the Internet or via wireless networks can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
+**Internet Security:** Any content posted over the Internet or a wireless network cannot be guaranteed 100% private or secure. Whenever you post content anywhere on the Service, we will make reasonable efforts to ensure your privacy in the following manner:
 
-  * We use physical, electronic, and procedural safeguards to protect personal information about you.
-  * Your LiveJournal Account Information is password-protected.
-  * In certain areas, LiveJournal uses industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
-
-
-
-If LiveJournal learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps, however, we will never ask you to submit additional personal information or to verify the status of or information related to your account in any electronic communication email. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. LiveJournal may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the LiveJournal.com web site. LiveJournal may also send an email to you at the email address you have provided to us in these circumstances, however, we will never ask you to submit additional personal information or to verify the status of or information related to your account in any such email. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@livejournal.com](mailto:privacy@livejournal.com).
-
-## Changing your Preferences and Personal Information
-
-  * You can edit your LiveJournal Account Information at any time. Most personal information you may provide is entirely optional. For example, to the extent that parents are considering whether to permit their children to use the Service, we do not condition a child's participation based upon their provision of any more personal information than is necessary to operate the Service.
-  * You can delete your LiveJournal account by visiting our Account Deletion page; however, please note that some personal information, primarily your contact information, may remain in LiveJournal's records to the extent necessary to protect LiveJournal's legal interests or document compliance with regulatory requirements.
+  * **Safeguards:** We use physical, electronic, and procedural safeguards to protect your personal information.
+  * **Passwords:** We require you log-in with a password to access personal Account information.
+  * **Encryption:** In certain areas, LiveJournal uses industry-standard SSL-encryption to protect data transmissions. Please note that this is not a guarantee that such information may not be accessed, disclosed, or altered by breach of our firewalls and secure server software.
+  * **Security Breach:** If LiveJournal learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. We may also post to the LiveJournal News and/or Support pages.
+  * **Email:** By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues. Please note that we will never ask you to submit personal information or to verify the status of your personal information in any electronic communication. Should you ever receive an email that appears to be from LiveJournal asking for your personal information, do not respond to that email, and forward it to our customer care team at [privacy@livejournal.com](mailto:privacy@livejournal.com).
 
 
+
+## Editing or Deleting Your Account
+
+**Account Information:** You can edit your LiveJournal Account information at any time.
+
+**Account Deletion:** You can delete your LiveJournal account at any time by visiting our Account Deletion page. Please notice that it may take some time for all of your content to be deleted and purged from our servers. We reserve the right to retain and/or keep records of your personal information to the extent it is necessary to protect LiveJournal's legal interests or comply with court orders, legal process, or other regulatory requirements under U.S. law.
 
 ## Contacting LiveJournal
 
-If you have a privacy concern regarding LiveJournal, or this policy, and if you cannot satisfactorily resolve it through the use of this web site, you should then write to us by email to [privacy@livejournal.com](mailto:privacy@livejournal.com).
+If you have a question about this policy or have an outstanding issue regarding privacy on LiveJournal, you can submit a customer support request at <http://www.livejournal.com/support/submit.bml>. If you have a pressing issue that requires prompt assistance, please email us directly at [privacy@livejournal.com](mailto:privacy@livejournal.com). Please note that we will respond as quickly as possible, but it may take a few days for us to respond to your request.
 
-If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use the Service or may require us to terminate our relationship with you.
-
-_Effective Date: November 24, 2008_
+_Effective Date: December 12, 2010_
