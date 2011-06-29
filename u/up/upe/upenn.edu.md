@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the upenn.edu privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726174214id_/http%3A//www.upenn.edu/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upenn.edu privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629122148id_/http%3A//www.upenn.edu/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Penn: Privacy Policy
 
-## Commitment to Privacy
-
-The Office of University Communications at the University of Pennsylvania is committed to providing access to services and information online in a manner that respects and protects your privacy.  This statement describes our information collection practices and explains how we use and protect your personal information. 
+The [Office of University Communications](http://www.upenn.edu/pennnews/) at the University of Pennsylvania is committed to providing access to services and information online in a manner that respects and protects your privacy.  This statement describes our information collection practices and explains how we use and protect your personal information.
 
 ## Scope
 
