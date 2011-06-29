@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newamerica.net privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202073935id_/http%3A//www.newamerica.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newamerica.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629213116id_/http%3A//www.newamerica.net/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for NewAmerica.net | NewAmerica.net
 
@@ -38,7 +38,7 @@ If you wish to discontinue receiving communications from us at any time, please 
 
 ## Any Questions?
 
-For more information on our Privacy Policy, please contact New America via our online feedback form. For more information about Internet privacy in general, you may find one of the following links helpful:
+For more information on our Privacy Policy, please contact New America via our [online feedback form](https://web.archive.org/contact). For more information about Internet privacy in general, you may find one of the following links helpful:
 
   * Americans for Computer Privacy ([www.computerprivacy.org](http://www.computerprivacy.org/))
   * Center for Democracy and Technology ([www.cdt.org](http://www.cdt.org/))
