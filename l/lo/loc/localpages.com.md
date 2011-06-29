@@ -1,30 +1,27 @@
-> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225204943id_/http%3A//corporate.localpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629063326id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.*
 
-# LocalPages - Bringing Your Neighborhood to You
+# Local Business Directory | Online Yellow Pages | LocalPages
 
-[ Home](http://www.localpages.com/) > Privacy Policy
-
-LocalPages.com, a service of LocalPages Inc. has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.LocalPages.com.com site. 
-
-## The following questions are answered below: 
-
-  1. What information does LocalPages.com collect? 
-  2. What organization is collecting the information? 
-  3. What does LocalPages.com do with the data it collects? 
-  4. With whom does LocalPages.com share data? 
-  5. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)? 
-  6. How can I update or correct my information? 
-  7. How can I delete my information? 
-  8. What procedures have been designed to protect the loss, misuse or alteration of information under LocalPages.com's control? 
-  9. What about privacy policies for sites to which LocalPages.com links? 
-  10. What happens to my information if LocalPages.com merges with or is sold to another company? 
+LocalPages.com, a service of LocalPages Inc. has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.LocalPages.com.com site.  
 
 
+## The following questions are answered below:
 
-  
+1\. What information does LocalPages.com collect?  
+2\. What organization is collecting the information?  
+3. What does LocalPages.com do with the data it collects?  
+4\. With whom does LocalPages.com share data?  
+5\. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?  
+6\. How can I update or correct my information?  
+7\. How can I delete my information?  
+8\. What procedures have been designed to protect the loss, misuse or alteration of information under LocalPages.com's control?  
+9\. What about privacy policies for sites to which LocalPages.com links?  
+10\. What happens to my information if LocalPages.com merges with or is sold to another company?  
+
+
 If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email copyright@LocalPages.com. 
 
-## What information does LocalPages.com collect? 
+## What information does LocalPages.com collect?
 
 At different times, LocalPages.com may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form. 
 
@@ -38,7 +35,7 @@ Fourth, at specific times we may ask you to provide us with personal information
 
 Fifth, we contract with 24/7 Real Media, a service partner, to provide us with a data collection and reporting service to better understand overall use of our site. 24/7 Real Media may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. 24/7 Real Media may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags. We use 24/7 Real Media to understand what's popular and useful for visitors. 
 
-## What organization is collecting the information? 
+## What organization is collecting the information?
 
 LocalPages.com usually collects the requested information. However, LocalPages.com has chosen select partners in order to provide certain services. In order to use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LocalPages.com. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly. 
 
@@ -52,7 +49,7 @@ To opt out of collection by Revenue Science, Inc., please visit: http://www.netw
 
 To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
 
-## What does LocalPages.com do with the data it collects? 
+## What does LocalPages.com do with the data it collects?
 
 Whenever LocalPages.com collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy. 
 
@@ -60,7 +57,7 @@ We use IP addresses to help diagnose problems with our server and to administer 
 
 If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes. We may also send a newsletter by email to our users who opt to receive such emails. It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe and avoid receiving any future emails from us. LocalPages.com also may contact you by email to respond to feedback you have submitted. 
 
-## With whom does LocalPages.com share data? 
+## With whom does LocalPages.com share data?
 
 LocalPages.com may disclose your personal information to our business partners in order to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. LocalPages.com does not have control over and is not responsible for the data collection and use practices of our business partners. LocalPages.com may also disclose your personal information to other members of the LocalPages family of businesses. 
 
@@ -68,7 +65,7 @@ We also may disclose your personal information (including without limitation IP 
 
 We may disclose certain non-personally identifiable information about you to advertisers or other third parties in order to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. 
 
-## What choices are available regarding collection, use and distribution of the information (Opt Out Policy)? 
+## What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?
 
 As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. 
 
@@ -80,27 +77,31 @@ To opt out of collection by Revenue Science, Inc., please visit: http://www.netw
 
 To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
 
-## How can I update or correct my information? 
+## How can I update or correct my information?
 
 LocalPages.com does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages. 
 
-## How can I delete my information? 
+## How can I delete my information?
 
 LocalPages.com currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some LocalPages.com services. 
 
-## What procedures have been designed to protect the loss, misuse or alteration of information under LocalPages.com's control? 
+## What procedures have been designed to protect the loss, misuse or alteration of information under LocalPages.com's control?
 
 Except as otherwise stated in this privacy policy, LocalPages.com has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LocalPages.com or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LocalPages will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. 
 
-## What about privacy policies for sites to which LocalPages.com links? 
+## What about privacy policies for sites to which LocalPages.com links?
 
 LocalPages.com contains many links to Web sites not controlled by LocalPages.com. These sites have their own policies and practices with respect to online privacy, and LocalPages.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a LocalPages.com advertiser may ask you for personal information. LocalPages.com cannot be responsible for the privacy practices of its advertisers. 
 
-## What happens to my information if LocalPages.com merges with or its assets are sold to another company? 
+## What happens to my information if LocalPages.com merges with or its assets are sold to another company?
 
 It is possible that LocalPages.com and/or any of our assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. 
 
-## Notification of Changes 
+## LocalPages.com uses Google Analytics
+
+LocalPages.com uses Google Analytics on its site to help us improve user experience. To find out more information on Google Analytics and its privacy policies please reference: <http://www.google.com/intl/en/analytics/privacyoverview.html>
+
+## Notification of Changes
 
 This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy. 
 
