@@ -1,540 +1,424 @@
-<!--The following is the downloaded HTML source of the drugpolicy.org privacy policy that was archived on 2009-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223225700id_/http%3A//drugpolicy.org/privacy) for the most accurate reproduction.-->
-
-<html><head>
-<title>Drug Policy Alliance Privacy Policy:</title>
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-
-<link rel="shortcut icon" href="http://www.drugpolicy.org/favicon.ico"> 
-
-<link rel="alternate" type="application/rss+xml" title="Drug Policy Alliance News" href="http://feeds.feedburner.com/DPANNews?format=xml"> 
-<link rel="stylesheet" href="/templates/style.css">
-
-<script language="javascript" src="/appResources/javascript/playerdetect.js"></script>
-<script language="javascript">
-<!--
-
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
-
-function changeImages() {
-	if (document.images && (preloadFlag == true)) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-		}
-	}
-}
-
-var preloadFlag = false;
-function preloadImages() {
-	if (document.images) {
-		right_menu_01_over = newImage("/templates/front/images/right_menu_01_over.gif");
-		right_menu_03_over = newImage("/templates/front/images/right_menu_03_over.gif");
-		right_menu_05_over = newImage("/templates/front/images/right_menu_05_over.gif");
-		right_menu_07_over = newImage("/templates/front/images/right_menu_07_over.gif");
-		right_menu_09_over = newImage("/templates/front/images/right_menu_09_over.gif");
-		right_menu_11_over = newImage("/templates/front/images/right_menu_11_over.gif");
-		right_menu_13_over = newImage("/templates/front/images/right_menu_13_over.gif");
-		right_menu_15_over = newImage("/templates/front/images/right_menu_15_over.gif");
-		right_menu_17_over = newImage("/templates/front/images/right_menu_17_over.gif");
-		right_menu_19_over = newImage("/templates/front/images/right_menu_19_over.gif");
-		right_menu_21_over = newImage("/templates/front/images/right_menu_21_over.gif");
-//		right_menu_23_over = newImage("/templates/front/images/right_menu_23_over.gif");
-		preloadFlag = true;
-	}
-}
-
-function checkEmail(email) {
-         // email at least 5 characters long
-         if (email.length < 5)
-                 return false;
-         // email has an @ as at least the second character
-         else if (email.indexOf("@") < 1)
-                 return false;
-         // @ and . separated by at least 1 character
-         else if ((email.indexOf(".", email.indexOf("@")) - email.indexOf("@")) < 2)
-                 return false;
-
-         // email does not contain any illegal characters
-         // "\" is escape character, thus the double "\\"
-         var illegals = "()<>,;:\\[]*/";
-         for (i=0; i < illegals.length; i++) {
-                 if (email.indexOf(illegals.charAt(i)) != -1)
-                         return false;
-         }
-
-         return true;
-}
-// -->
-</script>
-
-<script language="Javascript">
-<!-- Begin
-function emailValidate (form,input,emailStr) {
-	var emailPattern=/^(.+)@(.+)$/
-	var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
-	var validChars="\[^\\s" + specialChars + "\]"
-	var quotedUser="(\"[^\"]*\")"
-	var ipDomainPattern=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
-	var atom=validChars + "+"
-	var word="(" + atom + "|" + quotedUser + ")"
-	var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
-	var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
-	var matchArray=emailStr.match(emailPattern)
-	if (emailStr == ''){
-		return true;
-	}
-	else {
-		if (matchArray==null) {
-			//email address is not in a valid format.
-			return false;
-		}
-	}
-	var user=matchArray[1]
-	var domain=matchArray[2]
-	if (user.match(userPat)==null) {
-    	//The username does not seem to be valid.
-    	return false
-	}
-	var IPArray=domain.match(ipDomainPattern)
-	if (IPArray!=null) {
-   		for (var i=1;i<=4;i++) {
-	    	if (IPArray[i]>255) {
-	        	//Destination IP address is invalid.
-			return false
-	    	}
-    	}
-    	return true
-	}
-	var domainArray=domain.match(domainPat)
-	if (domainArray==null) {
-		//The domain name does not seem to be valid.
-    	return false
-	}
-	var atomPat=new RegExp(atom,"g")
-	var domArr=domain.match(atomPat)
-	var len=domArr.length
-	if (domArr[domArr.length-1].length<2) {
-    	//The E-mail address must end in a three-letter domain, or two letter country.
-   		return false
-	}
-	if (len<2) {
-   		//This E-mail address is missing a hostname.
-   		return false
-	}
-	//otheriwse return true
-	return true;
-}
-//  End -->
-</script>
-
-
-<script language="JAVASCRIPT" type="text/javascript">
-
-<!--
-
-
-function _CF_onError(form_object, input_object, object_value, error_message)
-    {
-	alert(error_message);
-       	return false;	
-    }
-
-
-function  _CF_checksignupForm(_CF_this)
-
-    {
-
-if  (!emailValidate(_CF_this, _CF_this.email, _CF_this.email.value))
-
-        {
-
-        if  (!_CF_onError(_CF_this, _CF_this.email, _CF_this.email.value, "You must enter a VALID email address."))
-
-            {
-
-            return false; 
-
-            }
-
-        }
-
-
-    return true;
-
-    }
-
-
-//-->
-
-</script>
-
-<script language="JavaScript">function openWin(cellID) { var strURL; strURL = 'page/action/_act_content_search.cfm?cellID=' + cellID;	window.open(strURL, '_contentWin', 'menubar=0, location=0, resizable, height=500, width=570, scrollbars'); } </script><meta name="keywords" content=""><!-- copyright CTSG 2001-2005 --></head>
-<body onload="preloadImages();" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<table width="760" border="0" cellpadding="0" cellspacing="0" align="center">
-  <!--	BEGIN VISUAL HEADER AREA-->
-  <tbody><tr>
-	<td rowspan="4" valign="top"><a href="/"><img src="/templates/front/images/new/DPALogo.jpg" width="209" alt="Drug Policy Alliance Logo" border="0"></a></td>
-	<td colspan="4" bgcolor="#FFFFFF"><img src="/templates/front/images/spacer.gif" alt="" width="551" height="41"></td>
-  </tr>
-  <tr> 
-	<td colspan="4"> 
-	  
-	  <table width="551" border="0" cellpadding="0" cellspacing="0">
-	    <tbody><tr>
-			<td bgcolor="#FFFFFF"><img src="/templates/front/images/spacer.gif" width="54" height="14" alt=""></td>
-			<td><a href="/about"><img src="/templates/front/images/topmenu_about.gif" height="14" border="0" alt="About"></a></td>
-			<td><a href="http://actioncenter.drugpolicy.org"><img src="/templates/front/images/topmenu_takeaction.gif" height="14" border="0" alt="Take Action"></a></td>
-			<td><a href="/news"><img src="/templates/front/images/topmenu_news.gif" height="14" border="0" alt="News"></a></td>
-			<td><a href="/library"><img src="/templates/front/images/topmenu_library.gif" height="14" border="0" alt="Publications and Library"></a></td>
- 			<td><a href="http://blog.drugpolicy.org"><img src="/templates/front/images/topmenu_blog.gif" height="14" border="0" alt="Blog"></a></td>
-			<td><a href="http://dpa.convio.net/site/PageNavigator/contact"><img src="/templates/front/images/topmenu_contact.gif" height="14" border="0" alt="Contact"></a></td>
-			<td><a href="http://actioncenter.drugpolicy.org/site/Donation2?idb=0&amp;df_id=1241&amp;1241.donation=root"><img src="/templates/front/images/topmenu_donate.gif" height="14" border="0" alt="Donate"></a></td>
-			<td><a href="/events"><img src="/templates/front/images/topmenu_events.gif" height="14" border="0" alt="Events"></a></td>
-			<td><a href="/about/community"><img src="/templates/front/images/button_commun.jpg" height="14" border="0" alt="Community"></a></td>
-			<td><a href="https://secure2.convio.net/dpa/site/Ecommerce?store_id=1101"><img src="/templates/front/images/button_estore.jpg" height="14" border="0" alt="eStore"></a></td>
-		</tr>
-	  </tbody></table>
-	</td>
-  </tr>
-  <tr valign="top"> 
-	<td colspan="4" bgcolor="#7b7b7b" height="14"><img src="/templates/front/images/spacer.gif" alt="" width="209" height="14"></td>
-  </tr>
-  <tr> 
-	<td colspan="4" bgcolor="#FFFFFF"> 
-	
-
-				
-			
-		
-	<a href="http://www.drugpolicy.org/" class="breadcrumbs">Home</a> &gt; <span class="breadcrumbs">Privacy Policy</span>  <br><br></td>
-  </tr>
-
-
-
-  <tr valign="top"> 
-	<td valign="top" align="right"><img src="/templates/front/images/section_title_graphic_privacy.jpg" width="204" height="73" alt="Privacy Policy"></td>
-	<td bgcolor="#FFFFFF"><img src="/templates/front/images/new/section_title_text_privacy.gif" width="373" height="73" alt="Privacy Policy"></td>
-	<td bgcolor="#FFFFFF"><img src="/templates/front/images/spacer.gif" width="1" height="72"></td>
-	<td bgcolor="#CCCCCC" width="1"><img src="/templates/front/images/spacer.gif" width="1" height="72"></td>
-	<td valign="top" rowspan="2"> 
-	  <!--	START OF RIGHT NAV MENU - CHANGES MADE TO RIGHT MENU 01 AND RIGHT MENU MARIJ -->
-	
-	<!-- START OF RIGHT NAV MENU-->
-	
-	<table width="163">
-	<tbody><tr>
-		<td valign="bottom">
-			<img src="/templates/front/images/SearchTheSite.gif">
-		</td>
-	</tr>
-	<tr>
-		<td nowrap="" style="height:20px; margin: 0; padding: 0;">
-			
-			<!-- Google CSE Search Box Begins  -->
-			<form action="http://www.drugpolicy.org/searchresults.cfm" id="searchbox_011411054294062790617:dr9ppmvxtwk">
-			  <input type="hidden" name="cx" value="011411054294062790617:dr9ppmvxtwk">
-			  <input type="hidden" name="cof" value="FORID:11">
-			  <input type="text" name="q" size="25">
-			  <input type="image" name="sa" src="/templates/front/images/gobutton.gif" style="position: relative; top: 8px; /top: 4px;" width="24" height="20" valign="top">
-			</form>
-			<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_011411054294062790617%3Adr9ppmvxtwk&amp;lang=en"></script>
-			<!-- Google CSE Search Box Ends -->
-		</td>
-	</tr>
-	
-	
-		
-	<tr>
-		<td>
-			
-		</td>
-	</tr>
-	
-	
-		
-	<tr>
-		<td>
-		<p><a href="http://actioncenter.drugpolicy.org/site/Donation2?idb=0&amp;df_id=1241&amp;1241.donation=root&amp;s_subsrc=W10NE99"><img height="34" alt="Donate Now Brilliant Flame (Orange)" src="/images/donate_orange_sm.jpg" width="163" border="0"></a></p>
-
-<p><a href="http://www.drugpolicy.org/events/archive/conferences/reform2009/" target="_self"><img alt="Reform Conference 2009 HP Archive Button" src="/images/Archive166x140.jpg" border="0"></a></p>
-
-		</td>
-	</tr>
-	</tbody></table>
-		
-	<table width="163" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td valign="bottom"><img name="right_menu_1" width="13" height="50" src="/templates/front/images/right_menu_1.gif"></td>
-			<td valign="top"><a href="/marijuana" onmouseover="changeImages('right_menu_1', '/templates/front/images/right_menu_1_over.gif'); return true;" onmouseout="changeImages('right_menu_1', '/templates/front/images/right_menu_1.gif'); return true;"><img src="/templates/front/images/new/right_menu_marijuana.gif" width="150" height="50" border="0" alt="Marijuana: The Facts"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_3" width="13" height="38" src="/templates/front/images/right_menu_3.gif"></td>
-			<td valign="top"><a href="/drugwar" onmouseover="changeImages('right_menu_3', '/templates/front/images/right_menu_3_over.gif'); return true;" onmouseout="changeImages('right_menu_3', '/templates/front/images/right_menu_3.gif'); return true;"><img src="/templates/front/images/new/right_menu_drugwar.gif" width="150" height="38" border="0" alt="What's Wrong With the Drug War?"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_23" width="13" height="26" src="/templates/front/images/right_menu_23.gif"></td>
-			<td valign="top"><a href="/reducingharm/overdose/" onmouseover="changeImages('right_menu_23', '/templates/front/images/right_menu_23_over.gif'); return true;" onmouseout="changeImages('right_menu_23', '/templates/front/images/right_menu_23.gif'); return true;"><img src="/templates/front/images/new/right_menu_overdose.gif" width="150" height="26" border="0" alt="Overdose"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_5" width="13" height="39" src="/templates/front/images/right_menu_5.gif"></td>
-			<td valign="top"><a href="/safetyfirst" onmouseover="changeImages('right_menu_5', '/templates/front/images/right_menu_5_over.gif'); return true;" onmouseout="changeImages('right_menu_5', '/templates/front/images/right_menu_5.gif'); return true;"><img src="/templates/front/images/new/right_menu_safetyfirst.gif" width="150" height="39" border="0" alt="Safety First: Parents, Teens and Drugs"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_7" width="13" height="26" src="/templates/front/images/right_menu_7.gif"></td>
-			<td valign="top"><a href="/drugbydrug" onmouseover="changeImages('right_menu_7', '/templates/front/images/right_menu_7_over.gif'); return true;" onmouseout="changeImages('right_menu_7', '/templates/front/images/right_menu_7.gif'); return true;"><img src="/templates/front/images/new/right_menu_drugbydrug.gif" width="150" height="26" border="0" alt="Drug By Drug"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_9" width="13" height="27" src="/templates/front/images/right_menu_9.gif"></td>
-			<td valign="top"><a href="/statebystate" onmouseover="changeImages('right_menu_9', '/templates/front/images/right_menu_9_over.gif'); return true;" onmouseout="changeImages('right_menu_9', '/templates/front/images/right_menu_9.gif'); return true;"><img src="/templates/front/images/new/right_menu_statebystate.gif" width="150" height="27" border="0" alt="State By State"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_11" width="13" height="38" src="/templates/front/images/right_menu_11.gif"></td>
-			<td valign="top"><a href="/reducingharm" onmouseover="changeImages('right_menu_11', '/templates/front/images/right_menu_11_over.gif'); return true;" onmouseout="changeImages('right_menu_11', '/templates/front/images/right_menu_11.gif'); return true;"><img src="/templates/front/images/new/right_menu_reducingharm.gif" width="150" height="38" border="0" alt="Reducing Harm: Treatment and Beyond"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_13" width="13" height="40" src="/templates/front/images/right_menu_13.gif"></td>
-			<td valign="top"><a href="/law" onmouseover="changeImages('right_menu_13', '/templates/front/images/right_menu_13_over.gif'); return true;" onmouseout="changeImages('right_menu_13', '/templates/front/images/right_menu_13.gif'); return true;"><img src="/templates/front/images/new/right_menu_law.gif" width="150" height="40" border="0" alt="Drugs, Police &amp; the Law"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_15" width="13" height="27" src="/templates/front/images/right_menu_15.gif"></td>
-			<td valign="top"><a href="/communities" onmouseover="changeImages('right_menu_15', '/templates/front/images/right_menu_15_over.gif'); return true;" onmouseout="changeImages('right_menu_15', '/templates/front/images/right_menu_15.gif'); return true;"><img src="/templates/front/images/new/right_menu_communities.gif" width="150" height="27" border="0" alt="Communities Affected"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_19" width="13" height="41" src="/templates/front/images/right_menu_19.gif"></td>
-			<td valign="top"><a href="/global" onmouseover="changeImages('right_menu_19', '/templates/front/images/right_menu_19_over.gif'); return true;" onmouseout="changeImages('right_menu_19', '/templates/front/images/right_menu_19.gif'); return true;"><img src="/templates/front/images/new/right_menu_global.gif" width="150" height="41" border="0" alt="Drug Policy Around the World"></a></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><img name="right_menu_21" width="13" height="38" src="/templates/front/images/right_menu_21.gif"></td>
-			<td valign="top"><a href="/library" onmouseover="changeImages('right_menu_21', '/templates/front/images/right_menu_21_over.gif'); return true;" onmouseout="changeImages('right_menu_21', '/templates/front/images/right_menu_21.gif'); return true;"><img src="/templates/front/images/new/right_menu_library.gif" width="150" height="38" border="0" alt="Publications and Library"></a></td>
-		</tr>
-	</tbody></table>
-	
-
-	  <table width="163" border="0" cellpadding="0" cellspacing="0">
-	    <tbody><tr>
-		  <td colspan="3"><img src="/templates/front/images/new/right_column_newsletter.gif" width="163" height="27" alt="What People are Talking About"></td>
-		</tr>
-	    <tr>
-		  <td colspan="2"><img src="/templates/front/images/spacer.gif" alt=" " width="11" height="95"></td>
-		  <td valign="top">
-		<br>
-			
-			<form name="signupForm" action="http://actioncenter.drugpolicy.org/site/PageServer?pagename=Register" method="POST" onsubmit="return _CF_checksignupForm(this)">
-			<table border="0" width="144" cellspacing="0" cellpadding="2">
-			  <tbody><tr>
-				  <td><img src="/templates/front/images/inside_email.gif" width="57" height="8" alt="Your Email"><br>
-				    
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-
-
-
-	<input type="TEXT" name="email" style="width:140px;" size="15" maxlength="255" value=""> 
-				</td>
-			  </tr>
-			  <tr>
-				<td align="right"><input type="image" src="/templates/front/images/sign_up.gif" width="52" height="22" alt="Sign UP" border="0"></td>
-			  </tr>
-			</tbody></table>
-			<input type="hidden" name="listID" value="1">
-			</form>
-		  </td>
-		</tr>
-	  </tbody></table>
-	</td>
-  </tr>
-  <!--	END VISUAL HEADER AREA-->
-  <tr valign="top"> 
-	<!--	LEFT SIDE COLUMN-->
-	<td valign="top" colspan="2">
-	<!-- header ends here -->
-
-
-
-	<p>&nbsp;</p>
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-				
-				
-				
-				
-				
-					
-					
-					
-				
-				
-					
-				
-			
-			
-		
-				
-	
-
-<table width="575" border="0" cellspacing="0" cellpadding="0">		
-	
-		
-		
-	<tbody><tr>			
-		
-		<td valign="top">
-				
-			We are committed to protecting your privacy. To make your experience at our Website more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information. 
-
-<p><strong>What personal information do we collect, and how is it used?</strong><br>
-We collect information on portions of our website visitors access or visit. We also collect information volunteered by visitors, such contact and survey information and/or Web site registrations. We keep confidential all personal information entered during registration. When we do collect personally identifiable information, it is always voluntarily submitted by you (e.g., when you fill out registration pages or send us feedback). The information collected is used to send our users email reminders and other information we think will be of interest. If, for any reason, you would like to be removed from our email list, you can unsubscribe by simply visiting the registration section of our website and clicking the unsubscribe button, or you can opt-out of future mailings by simply stating this desire in a reply to any email we send you. We may also monitor and track information such as customer usage patterns of our website. We compile this information into a statistical aggregate which we use, together with your personal information, for internal business and administrative purposes including improving our website, our operations and our client service.</p>
-
-<p><strong>Data Security<br>
-</strong>Any information collected about our webviewers is stored in offsite data centers that implement several layers of state of the art&nbsp;security, such as redundant firewalls, SSL ecryption, certificate services, and sequestration from public access.</p>
-
-<p><strong>Exchange of Drug Policy Alliance Member Addresses</strong><br>
-Names and postal addresses of current and former members of the Drug Policy Alliance may be rented or exchanged with other organizations or publications under the procedures outlined below. Email addresses, however, will NEVER be shared, traded or otherwise divulged.</p>
-
-<p>Like most other non-profit membership organizations, the Drug Policy Alliance obtains the names of potential new members by renting the membership lists or subscriber lists of like-minded organizations and publications. Lists may also be exchanged with other organizations. Whether by exchange or rental, the lists are protected by strict privacy procedures. All exchanges are made on a ""blind"" basis. Lists are never given into the physical possession of the organization which has rented or exchanged them. This safeguard is necessary to prevent one organization from knowing who the members of any other organization are. Instead, usually through a list broker, the list, either in the form of labels or electronic media, is sent to a mail house which prepares the mailing without the mailing organization ever seeing who is on the rented or exchanged list. The only time an organization gets possession of a name from a rented or exchanged list is when the person receiving the invitation to join responds by sending a reply back to the inviting organization. The Drug Policy Alliance will contractually ensure that vendors involved in this process hold all member addresses in strict confidence and do not offer lists to third parties.</p>
-
-<p>The Drug Policy Alliance will always honor a member's request to be withheld from mailing lists made available for exchange or rental. If you would like to request to be withheld from our mailing list rental or exchange please contact the membership department at <a href="mailto:membership@drugpolicy.org">membership@drugpolicy.org</a> or call (212) 613-8046; please be specific in letting us know which address you would like withheld.&nbsp; To manage your e-mail subscriptions please&nbsp;<a href="http://actioncenter.drugpolicy.org/action/login.asp">log onto</a>&nbsp;our action center and select the ‘manage my account’ option.</p>
-
-<p>We keep confidential any personal information entered during registration, though we may share aggregate information about website usage and traffic patterns, stripped of any personally identifiable information, to third parties to comply with various reporting obligations and for business or marketing purposes. We may also share limited personally identifiable information with third parties on a confidential basis to enable a third party to perform certain tasks, such as maintain an email list or send email alerts and/or newsletters, on our behalf.</p>
-
-<p><strong>Use of Cookies</strong><br>
-Cookies are pieces of information that are stored on your computer and are used for record keeping purposes. We use cookies to make visiting and using our website easier. Cookies can help us see which parts of our website are the most or least popular and provide us direction to improve our customer's online experience.</p>
-
-<p><strong>Links to Other Sites</strong><br>
-This website provides links to several other third party websites. While we make efforts to choose our links carefully, we cannot take any responsibility for the content of linked websites, or for the privacy policies of websites we link to. Since we do not control these websites, we encourage you to review the privacy policies posted on these third party websites prior to any use.</p>
-
-<p><strong>Privacy Policy Changes</strong><br>
-We may amend this privacy policy from time to time. We will post electronic announcements on the website notifying you of any revisions to this Privacy Statement. Please review all revisions to our policy. We maintain the option to change this Privacy Statement at any time by electronic notice posted on our website. Your continued use of our website after the date that such notices are posted will be deemed to be your agreement to the changed terms.</p>
-
-<p>If you have any further questions regarding our privacy practices, please send email to <a href="mailto:webmaster@drugpolicy.org">webmaster@drugpolicy.org</a></p><br><br> 
-			
-		</td>
-		
-	</tr>
-</tbody></table>
-
-
-
-<div style="BORDER-RIGHT: #666 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #666 1px solid; PADDING-LEFT: 10px; BACKGROUND: #ccc; PADDING-BOTTOM: 10px; BORDER-LEFT: #666 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #666 1px solid; width:334px;">
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-	<tbody>
-		<tr valign="top" align="middle">
-			<td width="534">
-				<div align="left">
-				<p><strong>Provide Feedback on this Page:</strong></p>
-				<form id="survey_1380" name="survey_1380" action="http://dpa.convio.net/site/Survey?JServSessionIda012=l0ioe21sg1.app11c" method="post">
-				<table cellspacing="0" cellpadding="0" border="0">
-					<tbody>
-						<tr valign="top">
-							<td nowrap="nowrap" width="5%"><p>* <a title="Required."></a>1.</p></td>
-							<td><span class="Explicit"><label class="wrapable" for="1923_1380_1_1540">Did you find what you were looking for?</label></span><br>
-								<span class="NetscapeFix"><select id="1923_1380_1_1540" onchange="choiceSelected('1923_1380_1_1540', this.selectedIndex);" name="1923_1380_1_1540">
-								<option value="NOREPLY" selected="selected">Please select response</option>
-								<option value="Yes">Yes</option>
-								<option value="No">No</option>
-								<option value="Kind of">Kind of</option>
-								</select></span> <br>
-								<br>
-							</td>
-						</tr>
-						<tr valign="top">
-							<td nowrap="nowrap" width="5%"><p>&nbsp;2.</p></td>
-							<td><span class="Explicit"><label class="wrapable" for="1923_1380_2_1520">If not, what were you looking for?</label></span><br>
-								<span class="NetscapeFix"><textarea id="1923_1380_2_1520" name="1923_1380_2_1520" rows="3" cols="45"></textarea></span><br>
-							</td>
-						</tr>
-						<tr valign="top">
-							<td nowrap="nowrap" width="5%"><p>&nbsp;3.</p></td>
-							<td><span class="Explicit"><label class="wrapable" for="1923_1380_3_1521">What else would you like to see on the DPA website?</label></span><br>
-								<span class="NetscapeFix"><textarea id="1923_1380_3_1521" name="1923_1380_3_1521" rows="3" cols="45"></textarea></span><br>
-							</td>
-						</tr>
-						<tr>
-							<td align="middle" colspan="3"><input class="Button" id="ACTION_SUBMIT_SURVEY_RESPONSE" type="submit" value="Submit" name="ACTION_SUBMIT_SURVEY_RESPONSE"> </td>
-						</tr>
-					</tbody>
-				</table>
-				<input id="SURVEY_ID" type="hidden" value="1380" name="SURVEY_ID"> 
-				<input id="1923_1380_4_1840" type="hidden" value="/privacy/index.cfm" name="1923_1380_4_1840">
-				<input id="USER_HAS_TAKEN" type="hidden" value="null" name="USER_HAS_TAKEN"> 
-				<input id="SURVEY_IGNORE_ERRORS" type="hidden" value="TRUE" name="SURVEY_IGNORE_ERRORS"> 
-				<input id="QUESTION_STAG_APP_ID" type="hidden" name="QUESTION_STAG_APP_ID"> 
-				<input id="QUESTION_STAG_APP_REF_ID" type="hidden" name="QUESTION_STAG_APP_REF_ID"> 
-				<input id="QUESTION_STAG_CTX_TYPE" type="hidden" name="QUESTION_STAG_CTX_TYPE"> 
-				<input id="ERRORURL" type="hidden" value="https://secure2.convio.net/dpa/admin/PageBuilderPreviewPage?category=1&amp;pagename=survey_test_page" name="ERRORURL"> 
-				<span style="DISPLAY: none"><label for="denySubmit">Spam Control Text:</label>&nbsp; <input id="denySubmit" alt="This field is used to prevent form submission by scripts." name="denySubmit">&nbsp;Please leave this field empty</span>
-				</form>
-				<form id="survey_1380" name="survey_1380" action="http://dpa.convio.net/site/Survey?JServSessionIda012=l0ioe21sg1.app11c" method="post"></form>
-				</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
-</div>
-<br><br>
-
-<!-- footer starts here -->
-</td>
-	<!--	LEFT SIDE WHITE SPACE BEFORE CENTER CONTENT AREA-->
-	<!--	RIGHT SIDE WHITE SPACE BEFORE GREY VERTICAL LINE-->
-	<td bgcolor="#FFFFFF"><img src="/templates/front/images/spacer.gif" alt="" width="15" height="800"></td>
-	<!--	THIN GREY VERTICAL LINE-->
-	<td bgcolor="#CCCCCC" width="1"><img src="/templates/front/images/spacer.gif" alt="" width="1" height="800"></td>
-	<!--	START OF RIGHT COLUMN -->
-  </tr>
-  <!--	GOLD FOOTER  ROW-->
-  <tr> 
-	<td colspan="6" bgcolor="#F2BC07" class="footer" valign="middle" height="25" align="center"> 
-	  <table width="720" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr> 
-		  <td> Copyright ©2009 DPA Network. All Rights Reserved 
-		  </td>
-		  <td align="right"><a href="mailto:webmaster@drugpolicy.org" class="footer">Contact 
-			Webmaster</a> | <a href="/privacy/" class="footer">Privacy Policy</a> 
-		  </td>
-		</tr>
-	  </tbody></table>
-	</td>
-  </tr>
-  <!--	BOTTOM BLACK ROW-->
-  <tr> 
-	<td colspan="6" bgcolor="#7b7b7b"><img src="/templates/front/images/spacer.gif" alt="" width="760" height="8"></td>
-  </tr>
-</tbody></table>
-
-<!-- added google analytics javascript 10/2/2006 -->
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<!--The following is the downloaded HTML source of the drugpolicy.org privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629024210id_/http%3A//www.drugpolicy.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Privacy Policy | Drug Policy Alliance</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="drug policy, marijuana, legalization">
+<meta name="description" content="We are committed to protecting your privacy. To make your experience at our Website more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information.  	What personal information do we collect, and how is it used?">
+<link rel="shortcut icon" href="/sites/all/themes/dpa_mainsite/favicon.ico" type="image/x-icon">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_fa728020021811f93816faa9df738456.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_5ed64780a3f50ee37fab14cd3f9d547b.css">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dpa_mainsite/css/grid12-972.css">
+  <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dpa_mainsite/css/ie7-fixes.css" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dpa_mainsite/css/ie6-fixes.css" />
+  <![endif]-->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/sites/default/files/js/js_0f7dd0cfcacb4a104bada05f108fcdfd.js"></script>
 <script type="text/javascript">
-_uacct = "UA-1075479-1";
-urchinTracker();
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "h": "h", "t": "t" }, "getQ": "node/836" });
+//--><!]]>
 </script>
+</head>
+
+<body id="pid-privacy-policy" class="not-front not-logged-in page-node node-type-page no-sidebars use_footer_bg full-node layout-first-main-last sidebars-split font-size-16 grid-type-972 grid-width-12 occupied_region_sidebar_first occupied_region_sidebar_last">
+  <div id="page" class="page">
+    <div id="page-inner" class="page-inner">
+      <div id="skip">
+        <a href="#main-content-area">Skip to Main Content Area</a>
+      </div>
+
+      <!-- header-top row: width = grid_width -->
+      <div id="header-top-wrapper" class="header-top-wrapper full-width">
+<div id="header-top" class="header-top row grid12-12">
+<div id="header-top-inner" class="header-top-inner inner clearfix">
+  
+<div id="block-search-0" class="block block-search odd first grid12-3 fusion-right fusion-right-content dpa-block-no-inner-padding dpa-block-inner-padding-top-20">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <form action="/privacy-policy" accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <input type="image" name="submit" value=" " id="edit-submit" class="form-submit arrow-button" src="/sites/all/themes/dpa_mainsite/img/search_button.jpg">
+<div class="form-item" id="edit-search-block-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="20" value="Search" title="Enter the terms you wish to search for." class="form-text">
+</div>
+<input type="hidden" name="form_build_id" id="form-e5011fed696c96d5ef788be0bdc814db" value="form-e5011fed696c96d5ef788be0bdc814db">
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
+</div>
+
+</div></form>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-boxes-logo_header" class="block block-boxes even  grid-custom-100px dpa-block-no-inner-padding dpa-block-no-bottom-margin dpa-block-no-p-margin grid12-0">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div id="boxes-box-logo_header" class="boxes-box"><div class="boxes-box-content"><p>
+  <a href="/"><img alt="Drug Policy Alliance" src="/sites/all/themes/dpa_mainsite/img/logo_header.png"></a></p>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-menu-primary-links" class="block block-menu odd  fusion-inline-menu dpa-block-no-bottom-margin dpa-block-main-menu grid12-0">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <ul class="menu"><li class="collapsed first"><a href="http://www.drugpolicy.org/issues" title="Issues">Issues.</a></li>
+<li class="collapsed"><a href="http://www.drugpolicy.org/action" title="Action">Action.</a></li>
+<li class="collapsed"><a href="http://www.drugpolicy.org/facts" title="Facts">Facts.</a></li>
+<li class="collapsed"><a href="http://www.drugpolicy.org/community" title="Community">Community.</a></li>
+<li class="collapsed last"><a href="http://www.drugpolicy.org/about-us" title="About Us">About Us.</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /header-top-inner -->
+</div><!-- /header-top -->
+</div><!-- /header-top-wrapper -->
+
+      <!-- header-group row: width = grid_width -->
+      <div id="header-group-wrapper" class="header-group-wrapper full-width">
+        <div id="header-group" class="header-group row grid12-12">
+          <div id="header-group-inner" class="header-group-inner inner clearfix">
+                        
+            
+              
+<div id="block-dpa_blocks-sharing" class="block block-dpa_blocks odd first fusion-right fusion-right-content dpa-block-no-inner-padding dpa-block-inner-padding-top-10 font-size-10 grid12-0">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div class="item-list"><ul><li class="first"><a href="javascript:window.print()"><img src="/sites/all/modules/custom/dpa_blocks/icons/red/print.jpg" alt="Print" title="" width="11" height="9">&nbsp;Print</a></li>
+<li><span class="st_sharethis_custom"><img src="/sites/all/modules/custom/dpa_blocks/icons/red/email.jpg" alt="Email" title="" width="11" height="8">&nbsp;Email</span></li>
+<li class="last"><span class="st_sharethis_custom"><img src="/sites/all/modules/custom/dpa_blocks/icons/red/share.jpg" alt="Share" title="" width="9" height="9">&nbsp;Share</span></li>
+</ul></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+                      </div><!-- /header-group-inner -->
+        </div><!-- /header-group -->
+      </div><!-- /header-group-wrapper -->
+
+      <!-- preface-top row: width = grid_width -->
+      
+      <!-- main row: width = grid_width -->
+      <div id="main-wrapper" class="main-wrapper full-width">
+        <div id="main" class="main row grid12-12">
+          <div id="main-inner" class="main-inner inner clearfix">
+            <div id="sidebar-first" class="sidebar-first row nested grid12-3">
+<div id="sidebar-first-inner" class="sidebar-first-inner inner clearfix">
+  
+<div id="block-menu_block-2" class="block block-menu_block odd first dpa-block-no-inner-padding dpa-block-no-bottom-margin dpa-block-secondary-nav dpa-block-inner-padding-bottom-20 dpa-bold grid12-0">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div class="menu-block-2 menu-name-secondary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="collapsed first menu-mlid-764"><a href="http://www.drugpolicy.org/news" title="">News.</a></li>
+<li class="collapsed menu-mlid-860"><a href="http://www.drugpolicy.org/events">Events.</a></li>
+<li class="collapsed menu-mlid-1127"><a href="http://www.drugpolicy.org/resources-publications" title="Publications &amp; Resources">Publications &amp; Resources.</a></li>
+<li class="leaf last menu-mlid-466"><a href="https://secure2.convio.net/dpa/site/Ecommerce?store_id=1101" title="">Store.</a></li>
+</ul></div>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-dpa_blocks-policy_in_my_state" class="block block-dpa_blocks even  dpa-block-no-inner-padding dpa-block-no-bottom-margin dpa-block-inner-padding-bottom-10 dpa-block-shadow-line-top dpa-block-title-medium-black grid12-0">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Drug policy in my state<img src="/sites/all/themes/dpa_mainsite/img/icons/us_icon.jpg" alt="US" title="US" width="36" height="24" style="padding: 0px 0 0 7px;" align="absmiddle"></h2>
+        <div class="content clearfix">
+      <div class="form-item">
+ <select name="" onchange="if(this.value > 0) window.location='http://www.drugpolicy.org/node/' + this.value" class="form-select" id=""><option value="0">Select a state</option><option value="49">Alabama</option><option value="50">Alaska</option><option value="51">Arizona</option><option value="52">Arkansas</option><option value="53">California</option><option value="54">Colorado</option><option value="55">Connecticut</option><option value="2785">Delaware</option><option value="2786">Florida</option><option value="2787">Georgia</option><option value="56">Hawaii</option><option value="2788">Idaho</option><option value="57">Illinois</option><option value="58">Indiana</option><option value="2789">Iowa</option><option value="59">Kansas</option><option value="2790">Kentucky</option><option value="60">Louisiana</option><option value="61">Maine</option><option value="62">Maryland</option><option value="63">Massachusetts</option><option value="2791">Michigan</option><option value="2792">Minnesota</option><option value="2805">Mississippi</option><option value="2793">Missouri</option><option value="2794">Montana</option><option value="2795">Nebraska</option><option value="64">Nevada</option><option value="2796">New Hampshire</option><option value="65">New Jersey</option><option value="66">New Mexico</option><option value="67">New York</option><option value="2797">North Carolina</option><option value="2798">North Dakota</option><option value="68">Ohio</option><option value="69">Oklahoma</option><option value="70">Oregon</option><option value="71">Pennsylvania</option><option value="2799">Rhode Island</option><option value="2800">South Carolina</option><option value="2801">South Dakota</option><option value="2802">Tennessee</option><option value="72">Texas</option><option value="73">Utah</option><option value="74">Vermont</option><option value="75">Virginia</option><option value="77">Washington State</option><option value="76">Washington, DC</option><option value="2803">West Virginia</option><option value="78">Wisconsin</option><option value="2804">Wyoming</option></select>
+</div>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-boxes-iam" class="block block-boxes odd  dpa-block-no-inner-padding dpa-block-no-bottom-margin dpa-block-shadow-line-top dpa-block-title-medium-black grid12-0">
+  <div class="inner clearfix">
+            <h2 class="title block-title">I am...</h2>
+        <div class="content clearfix">
+      <div id="boxes-box-iam" class="boxes-box"><div class="boxes-box-content"><ul class="dropdown">
+<li>
+		<a href="/facts/drugs-and-you/i-am-advocate">an Advocate.</a></li>
+<li>
+		<a href="/facts/drugs-and-you/i-am-student">a Student.</a></li>
+<li>
+		<a href="/facts/drugs-and-you/i-am-parent">a Parent.</a></li>
+<li>
+		<a href="/facts/drugs-and-you/i-am-woman">a Woman.</a></li>
+</ul>
+<p style="margin-top: 0; padding-top: 40px;">
+	<span><a class="learn-more-link" href="/facts/drugs-and-you">View all resources.</a></span></p>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /sidebar-first-inner -->
+</div><!-- /sidebar-first -->
+
+            <!-- main group: width = grid_width - sidebar_first_width -->
+            <div id="main-group" class="main-group row nested grid12-9">
+              <div id="main-group-inner" class="main-group-inner inner">
+                
+                <div id="main-content" class="main-content row nested">
+                  <div id="main-content-inner" class="main-content-inner inner">
+                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+                    <div id="content-group" class="content-group row nested grid12-6">
+                      <div id="content-group-inner" class="content-group-inner inner">
+                        
+                        
+                        <div id="content-region" class="content-region row nested">
+                          <div id="content-region-inner" class="content-region-inner inner">
+                            <a name="main-content-area" id="main-content-area"></a>
+                                                        <div id="content-inner" class="content-inner">
+                              <div id="content-inner-inner" class="content-inner-inner inner">
+                                                                                                <h1 class="title">Privacy Policy</h1>
+                                                                                                                                <div id="content-content" class="content-content">
+                                  
+<div id="node-836" class="node odd full-node node-type-page">
+  <div class="inner">
+    
+    
+    
+    
+    <div class="content clearfix">
+      <div>
+	We are committed to protecting your privacy. To make your experience at our Website more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information.</div>
+<h2 class="subtitle">
+	<strong>What personal information do we collect, and how is it used?</strong></h2>
+<div>
+	We collect information on portions of our website visitors access or visit. We also collect information volunteered by visitors, such contact and survey information and/or Web site registrations. We keep confidential all personal information entered during registration. When we do collect personally identifiable information, it is always voluntarily submitted by you (e.g., when you fill out registration pages or send us feedback). The information collected is used to send our users email reminders and other information we think will be of interest. If, for any reason, you would like to be removed from our email list, you can unsubscribe by simply visiting the registration section of our website and clicking the unsubscribe button, or you can opt-out of future mailings by simply stating this desire in a reply to any email we send you. We may also monitor and track information such as customer usage patterns of our website. We compile this information into a statistical aggregate which we use, together with your personal information, for internal business and administrative purposes including improving our website, our operations and our client service.</div>
+<h2 class="subtitle">
+	<strong>Data Security</strong></h2>
+<div>
+	Any information collected about our webviewers is stored in offsite data centers that implement several layers of state of the art security, such as redundant firewalls, SSL ecryption, certificate services, and sequestration from public access.</div>
+<h2 class="subtitle">
+	<strong>Exchange of Drug Policy Alliance Member Addresses</strong></h2>
+<div>
+	Names and postal addresses of current and former members of the Drug Policy Alliance may be rented or exchanged with other organizations or publications under the procedures outlined below. Email addresses, however, will NEVER be shared, traded or otherwise divulged.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Like most other non-profit membership organizations, the Drug Policy Alliance obtains the names of potential new members by renting the membership lists or subscriber lists of like-minded organizations and publications. Lists may also be exchanged with other organizations. Whether by exchange or rental, the lists are protected by strict privacy procedures. All exchanges are made on a ""blind"" basis. Lists are never given into the physical possession of the organization which has rented or exchanged them. This safeguard is necessary to prevent one organization from knowing who the members of any other organization are. Instead, usually through a list broker, the list, either in the form of labels or electronic media, is sent to a mail house which prepares the mailing without the mailing organization ever seeing who is on the rented or exchanged list. The only time an organization gets possession of a name from a rented or exchanged list is when the person receiving the invitation to join responds by sending a reply back to the inviting organization. The Drug Policy Alliance will contractually ensure that vendors involved in this process hold all member addresses in strict confidence and do not offer lists to third parties.</div>
+<div>
+	&nbsp;</div>
+<div>
+	The Drug Policy Alliance will always honor a member's request to be withheld from mailing lists made available for exchange or rental. If you would like to request to be withheld from our mailing list rental or exchange please contact the membership department at <span class="spamspan"><span class="u">membership</span> [at] <span class="d">drugpolicy [dot] org</span></span> or call (212) 613-8046; please be specific in letting us know which address you would like withheld. &nbsp;To manage your e-mail subscriptions please log onto our action center and select the ‘manage my account’ option.</div>
+<div>
+	&nbsp;</div>
+<div>
+	We keep confidential any personal information entered during registration, though we may share aggregate information about website usage and traffic patterns, stripped of any personally identifiable information, to third parties to comply with various reporting obligations and for business or marketing purposes. We may also share limited personally identifiable information with third parties on a confidential basis to enable a third party to perform certain tasks, such as maintain an email list or send email alerts and/or newsletters, on our behalf.</div>
+<h2 class="subtitle">
+	<strong>Use of Cookies</strong></h2>
+<div>
+	Cookies are pieces of information that are stored on your computer and are used for record keeping purposes. We use cookies to make visiting and using our website easier. Cookies can help us see which parts of our website are the most or least popular and provide us direction to improve our customer's online experience.</div>
+<h2 class="subtitle">
+	<strong>Privacy Policy Changes</strong></h2>
+<div>
+	We may amend this privacy policy from time to time. We will post electronic announcements on the website notifying you of any revisions to this Privacy Statement. Please review all revisions to our policy. We maintain the option to change this Privacy Statement at any time by electronic notice posted on our website. Your continued use of our website after the date that such notices are posted will be deemed to be your agreement to the changed terms.</div>
+<div>
+	&nbsp;</div>
+<div>
+	If you have any further questions regarding our privacy practices, please send email to <span class="spamspan"><span class="u">webmaster</span> [at] <span class="d">drugpoliy [dot] org</span></span> .</div>
+    </div>
+
+      </div><!-- /inner -->
+
+  </div><!-- /node-836 -->
+                                                                  </div><!-- /content-content -->
+                                                              </div><!-- /content-inner-inner -->
+                            </div><!-- /content-inner -->
+                          </div><!-- /content-region-inner -->
+                        </div><!-- /content-region -->
+
+                                              </div><!-- /content-group-inner -->
+                    </div><!-- /content-group -->
+
+                    <div id="sidebar-last" class="sidebar-last row nested grid12-3">
+<div id="sidebar-last-inner" class="sidebar-last-inner inner clearfix">
+  
+<div id="block-dpa_blocks-take_action" class="block block-dpa_blocks odd first dpa-block-no-bottom-margin dpa-block-inner-padding-left-10 dpa-block-inner-padding-bottom-10 dpa-block-title-large-red dpa-gray grid12-0">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Take Action.</h2>
+        <div class="content clearfix">
+      <p><a href="https://secure2.convio.net/dpa/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=711&amp;s_subsrc=website" class="action-teaser-text">
+	With a new bill, we have a chance to end federal marijuana prohibition!
+</a></p>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-dpa_blocks-donate" class="block block-dpa_blocks even  dpa-block-no-bottom-margin dpa-block-inner-padding-bottom-10 dpa-block-shadow-line-top dpa-block-title-large-red dpa-gray grid12-0">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Donate.</h2>
+        <div class="content clearfix">
+      <p>
+	<a href="https://secure2.convio.net/dpa/site/Donation2?idb=1309709804&amp;df_id=1241&amp;1241.donation=form1" target="_blank">Promote drug policies based on science, compassion, health and human rights.</a></p>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-boxes-join_us" class="block block-boxes odd  dpa-block-smaller-bottom-margin dpa-block-inner-padding-bottom-20 dpa-block-shadow-line-top dpa-block-title-large-red dpa-gray grid12-0">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Join Us.</h2>
+        <div class="content clearfix">
+      <div id="boxes-box-join_us" class="boxes-box"><div class="boxes-box-content"><p>
+	Sign up to receive action alerts and news about drug policy reform.</p>
+<form action="http://dpa.convio.net/site/Survey" id="email-signup-form" method="POST">
+<div class="sidebar-form-container">
+		<input class="sidebar-form-input" name="cons_email" onblur="if(this.value=='') this.value='Enter email'" onfocus="if(this.value=='Enter email') this.value=''" type="text" value="Enter email"></div>
+<p>	<input class="arrow-button" name="ACTION_SUBMIT_SURVEY_RESPONSE" src="/sites/all/themes/dpa_mainsite/img/search_button.jpg" type="image" value=""> <input id="cons_info_component" name="cons_info_component" type="hidden" value="t"> <input id="SURVEY_ID" name="SURVEY_ID" type="hidden" value="1020"></p></form>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /sidebar-last-inner -->
+</div><!-- /sidebar-last -->
+                  </div><!-- /main-content-inner -->
+                </div><!-- /main-content -->
+
+                              </div><!-- /main-group-inner -->
+            </div><!-- /main-group -->
+          </div><!-- /main-inner -->
+        </div><!-- /main -->
+      </div><!-- /main-wrapper -->
+
+      <!-- footer background area -->
+      <div class="footer-blocks-container">
+
+        <!-- postscript-bottom row: width = grid_width -->
+        <div id="postscript-bottom-wrapper" class="postscript-bottom-wrapper full-width">
+<div id="postscript-bottom" class="postscript-bottom row grid12-12">
+<div id="postscript-bottom-inner" class="postscript-bottom-inner inner clearfix">
+  
+<div id="block-boxes-footer_promo_1" class="block block-boxes odd first grid12-3 equal-heights dpa-block-no-inner-padding dpa-block-no-bottom-margin dpa-block-no-p-margin dpa-block-inner-padding-right-10">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div id="boxes-box-footer_promo_1" class="boxes-box"><div class="boxes-box-content"><p>
+	<a href="http://www.reformconference.org/registration"><img alt="" src="/sites/default/files/images/footer_promo_1.jpg"></a></p>
+<h1>
+	<a href="http://www.reformconference.org/registration" target="_blank">November 2-5, 2011&nbsp;</a></h1>
+<div>
+	Join others in the drug policy reform movement to learn, network, and strategize. We can advance drug policies based on science, compassion, health and human rights.</div>
+<div>
+	<a href="http://www.reformconference.org/registration" target="_blank">Register now.</a></div>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-boxes-footer_promo_2" class="block block-boxes even  grid12-3 equal-heights dpa-block-no-inner-padding dpa-block-no-bottom-margin dpa-block-no-p-margin dpa-block-inner-padding-left-10 dpa-block-inner-padding-right-10 dpa-block-left-border">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div id="boxes-box-footer_promo_2" class="boxes-box"><div class="boxes-box-content"><p class="rtecenter">
+	<a href="https://secure2.convio.net/dpa/site/Ecommerce/2090548537?VIEW_PRODUCT=true&amp;amp;product_id=1701&amp;amp;store_id=1101" target="_blank"><img alt="DPA T-Shirts" src="/sites/default/files/images/TShirt_footer_promo2.jpg" style="width: 223px; height: 131px; "></a></p>
+<h1>
+	<a href="https://secure2.convio.net/dpa/site/Ecommerce/2090548537?VIEW_PRODUCT=true&amp;amp;product_id=1701&amp;amp;store_id=1101" target="_blank">I Am the Drug Policy Alliance.</a></h1>
+<div>
+	Join the movement - and spread the word by sporting DPA’s new look. This high quality t-shirt is made in the US by American Apparel.&nbsp;</div>
+<div>
+	<a href="https://secure2.convio.net/dpa/site/Ecommerce/2090548537?VIEW_PRODUCT=true&amp;product_id=1701&amp;store_id=1101">Get it now.</a></div>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-boxes-footer_promo_3" class="block block-boxes odd  grid12-3 equal-heights dpa-block-no-inner-padding dpa-block-no-bottom-margin dpa-block-no-p-margin dpa-block-inner-padding-left-10 dpa-block-inner-padding-right-10 dpa-block-left-border">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div id="boxes-box-footer_promo_3" class="boxes-box"><div class="boxes-box-content"><p>
+	<a href="http://nomoredrugwar.org/" target="_blank"><img alt="Drug Courts" src="/sites/default/files/images/logos/NMDW_223x131.png" style="width: 223px; height: 131px; "></a></p>
+<h1>
+	<a href="http://nomoredrugwar.org/" target="_blank">The Drug War in Six Words</a></h1>
+<div>
+	What does the war on drugs mean to you? Can you capture it in exactly six words?</div>
+<div>
+	<a href="http://nomoredrugwar.org/">Share your description.</a></div>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-boxes-footer_promo_4" class="block block-boxes even  grid12-3 equal-heights dpa-block-no-inner-padding dpa-block-no-bottom-margin dpa-block-no-p-margin dpa-block-inner-padding-left-10 dpa-block-left-border">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div id="boxes-box-footer_promo_4" class="boxes-box"><div class="boxes-box-content"><p>
+	<a href="/action/our-victories"><img alt="New Mexico" src="/sites/default/files/images/NewMexico_footer_promo.jpg" style="width: 223px; height: 131px; "></a></p>
+<h1>
+	<a href="/action/our-victories">Victory: New Mexico Medical Marijuana Program</a></h1>
+<div>
+	Supporters like you saved NM's medical marijuana program by sending hundreds of messages to the state legislature.</div>
+<div>
+	<a href="/action/our-victories">Learn more.</a></div>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /postscript-bottom-inner -->
+</div><!-- /postscript-bottom -->
+</div><!-- /postscript-bottom-wrapper -->
+
+        <!-- footer row: width = grid_width -->
+        <div id="footer-wrapper" class="footer-wrapper full-width">
+<div id="footer" class="footer row grid12-12">
+<div id="footer-inner" class="footer-inner inner clearfix">
+  
+<div id="block-boxes-logo_footer" class="block block-boxes odd first grid-custom-100px dpa-block-no-inner-padding grid12-0">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div id="boxes-box-logo_footer" class="boxes-box"><div class="boxes-box-content"><p>
+	<img alt="Drug Policy Alliance" src="/sites/all/themes/dpa_mainsite/img/logo_footer.png"></p>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-menu-menu-footer-links" class="block block-menu even  dpa-list-inline dpa-bold font-size-18 grid12-0">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Footer Links</h2>
+        <div class="content clearfix">
+      <ul class="menu"><li class="leaf first"><a href="http://www.drugpolicy.org/sitemap" title="Display a site map with RSS feeds.">Site Map</a></li>
+<li class="leaf"><a href="https://secure2.convio.net/dpa/site/SPageNavigator/contact" title="">Contact Us</a></li>
+<li class="leaf"><a href="http://www.drugpolicy.org/jobs" title="">Jobs</a></li>
+<li class="leaf last"><a href="http://www.drugpolicy.org/rss.xml" title="">Subscribe by RSS <img src="/sites/all/themes/dpa_mainsite/img/footer_rss.png"></a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-menu-menu-footer-utility-links" class="block block-menu odd  grid12-10 dpa-list-inline dpa-block-no-bottom-margin dpa-bold font-size-12">
+  <div class="inner clearfix">
+            <h2 class="title block-title">Footer Utility Links</h2>
+        <div class="content clearfix">
+      <ul class="menu"><li class="leaf first"><a href="http://www.drugpolicy.org/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+<li class="leaf last active-trail"><a href="http://www.drugpolicy.org/privacy-policy" title="Privacy Policy" class="active">Privacy Policy</a></li>
+</ul>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-boxes-copyright" class="block block-boxes even  grid12-10 dpa-block-no-p-margin dpa-block-inner-padding-left-10 dpa-bold font-size-12 copyright-notice">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <div id="boxes-box-copyright" class="boxes-box"><div class="boxes-box-content"><p><span>Copyright © 2011 Drug Policy Alliance. All Rights Reserved</span></p>
+</div></div>    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /footer-inner -->
+</div><!-- /footer -->
+</div><!-- /footer-wrapper -->
+
+        <!-- footer-message row: width = grid_width -->
+        <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
+          <div id="footer-message" class="footer-message row grid12-12">
+            <div id="footer-message-inner" class="footer-message-inner inner clearfix">
+                          </div><!-- /footer-message-inner -->
+          </div><!-- /footer-message -->
+        </div><!-- /footer-message-wrapper -->
+      </div>
+    </div><!-- /page-inner -->
+  </div><!-- /page -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1075479-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> 
 
 
-
+<!-- Page cached by Boost @ 2011-06-28 21:22:01, expires @ 2011-06-28 22:22:01 -->
 </body></html>
