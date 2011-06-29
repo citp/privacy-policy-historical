@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627053837id_/http%3A//www.photonics.com/Content/ReadArticle.aspx%3FArticleID%3D35715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629180805id_/http%3A//www.photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
 
-# Privacy Policy (photonics.com | Nov 2008 | Photonics.com)
+# Privacy Policy (photonics.com | Nov 2010 | Photonics.com)
 
-Laurin Publishing Co., Inc. is firmly committed to protecting the privacy of those who visit our Web sites. Because we do gather certain types of information regarding our visitors, we want you to fully understand the terms and conditions surrounding the gathering and use of that information. This Privacy Policy explains what information we collect, how we use it, and how our visitors can correct or change it.
+Laurin Publishing Co., Inc. is firmly committed to protecting the privacy of those who visit our websites. Because we do gather certain types of information regarding our visitors, we want you to fully understand the terms and conditions surrounding the gathering and use of that information. This Privacy Policy explains what information we collect, how we use it, and how our visitors can correct or change it.
 
-This Policy discloses the privacy practices for the entire Laurin Publishing network of Web sites, which includes Photonics.com, PhotonicsFiber.com, PhotonicsSpectra.com, PhotonicsDirectory.com, Biophotonics.com, EuroPhotonics.com, Laurin.com, and other sites. It answers the following questions:
+This Policy discloses the privacy practices for the entire Laurin Publishing network of websites, which includes Photonics.com, PhotonicsSpectra.com, PhotonicsBuyersGuide.com, Biophotonics.com, EuroPhotonics.com, and other sites. It answers the following questions:
 
   1. What information does Laurin Publishing gather/track? 
   2. What does Laurin Publishing do with the information it gathers/tracks? 
@@ -15,11 +15,15 @@ This Policy discloses the privacy practices for the entire Laurin Publishing net
 
 
 
-Questions regarding this statement should be directed to [photonics@laurin.com](mailto:photonics@laurin.com) for clarification.
+Questions regarding this statement should be directed to [info@photonics.com](mailto:info@photonics.com) for clarification.
 
 **1\. What information does Laurin Publishing gather/track?**
 
-Laurin Publishing collects two types of information about our site visitors: aggregated "traffic data" derived mainly by tallying page views throughout our sites; and personal data that some visitors provide through optional, voluntary subscription to one or more of our print publications, or through optional, voluntary participation in certain contests. Such information enables us to better tailor our content to our users' needs and to help our advertisers better understand the demographics of our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party.
+Laurin Publishing collects two types of information about our site visitors: aggregated "traffic data" derived mainly by tallying page views throughout our sites; and personal data that some visitors provide through optional, voluntary subscription to one or more of our print publications, registration for membership on our website, registration for webinars, or participation in certain contests. Such information enables us to better tailor our content to our users' needs and to help our advertisers better understand the demographics of our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. When you register on our site to view premium content or attend a webinar, the personal information you supply may be shared with the content sponsors.
+
+**Registration and Premium Content**
+
+Registration is required to use certain features of our website, including posting comments in our community forum, subscribing to our e-newsletters, and viewing premium content. Premium content includes Photonics Handbook articles, white papers and webinars. When you voluntarily register to see premium content, the personal information that you provide may be made available to the sponsors of that content.
 
 **Contests**
 
@@ -29,11 +33,7 @@ Because the rules and terms of each contest can vary, all information about each
 
 **E-mail**
 
-Users of the Laurin Publishing Web sites may voluntarily e-mail Laurin Publishing from time to time with requests for information on advertising rates or to order copies of our publications (such as the Photonics Directory, the Photonics Handbook, or the Photonics Spectra Job & Salary Survey). Such e-mails may include the user's name and other contact information in addition to his or her e-mail address. Under no circumstances will Laurin Publishing divulge this information to a third party.
-
-**Resume postings**
-
-Laurin Publishing offers a free voluntary, optional resume posting service at the PhotonicsEmployment.com site. Users who choose to participate in this service are required to fill out a form and provide their names, addresses, job categories, and positions sought. They also have the option of supplying their phone and fax numbers, home page URLs, e-mail addresses, compensation sought, educational background, experience, and references. All information provided on this form will be posted in its entirety on the PhotonicsEmployment.com Web site, which serves as a "Bulletin Board", and is not covered by this Privacy Policy. Users should always be careful when posting personal information online in an area accessible to the public, as this information may be collected and used by others.
+Users of the Laurin Publishing websites may voluntarily e-mail Laurin Publishing from time to time with requests for information on advertising rates or to order copies of our publications (such as the Photonics Buyers' Guide). Such e-mails may include the user's name and other contact information in addition to his or her e-mail address. Under no circumstances will Laurin Publishing divulge this information to a third party.
 
 **2\. What does Laurin Publishing do with the information it gathers/tracks?**
 
@@ -43,13 +43,13 @@ As stated above, Laurin Publishing uses information that users voluntarily provi
 
 We use tracking information to determine which areas of our sites users like and don't like, based on traffic to those areas. Laurin Publishing does not track what each user read, but rather how well each page performs overall. This helps us to continue to build a better service for you.
 
-Laurin Publishing creates aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because Laurin Publishing doesn't track the usage patterns of individual users, an advertiser will never know that a specific user clicked its ad.
+Laurin Publishing creates aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. 
 
 **3\. With whom does Laurin Publishing share the information it gathers/tracks?**
 
-Laurin Publishing uses the information described above to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party.
+Laurin Publishing uses the information described above to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. When you voluntarily register to see premium content, the personal information that you provide may be made available to the sponsors of that content.
 
-The Laurin Publishing Web sites contain links to third party sites. Laurin Publishing is not responsible for the privacy practices or the content of such Web sites. If you have questions about how one of our advertisers uses information about you when you click through to its site, please contact that advertiser directly.
+The Laurin Publishing websites contain links to third party sites. Laurin Publishing is not responsible for the privacy practices or the content of such websites. If you have questions about how one of our advertisers uses information about you when you click through to its site, please contact that advertiser directly.
 
 Users should be aware that when they voluntarily disclose personal information (e.g., user name and e-mail addresses) on any bulletin boards or in chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.
 
@@ -65,7 +65,7 @@ Laurin Publishing gives users options wherever necessary and practical. Such cho
 
 **5\. How can visitors correct and update personally identifiable information?**
 
-To correct or change the information collected during subscription to one of our publications, please visit our Web site's subscription areas for Photonics Spectra, Biophotonics International, or EuroPhotonics. You may also e-mail any changes to [info@photonics.com](mailto:info@photonics.com), call us at 413-499-0514, fax us at 413-442-3180, or send ground mail to:
+To correct or change the information collected during subscription to one of our publications, please visit our website's subscription areas for Photonics Spectra, Biophotonics, or EuroPhotonics. You may also e-mail any changes to [info@photonics.com](mailto:info@photonics.com), call us at 413-499-0514, fax us at 413-442-3180, or send ground mail to:
 
 Mailing List  
 Laurin Publishing Co., Inc.  
@@ -83,10 +83,10 @@ Pittsfield, MA 01202-4949
 
 For additional information:
 
-Users who are experiencing problems or who have any questions about how our sites work can contact us via e-mail at [webmaster@laurin.com](mailto:webmaster@laurin.com). Users who have questions about this Privacy Policy, the practices of this site, or your dealings with this Web site can contact us via e-mail at [photonics@laurin.com](mailto:photonics@laurin.com), by phone at 413-499-0514, by fax at 413-442-3180, or by ground mail to:
+Users who are experiencing problems or who have any questions about how our sites work can contact us via e-mail at [webmaster@photonics.com](mailto:webmaster@photonics.com). Users who have questions about this Privacy Policy, the practices of this site, or your dealings with this website can contact us via e-mail at [info@photonics.com](mailto:info@photonics.com), by phone at 413-499-0514, by fax at 413-442-3180, or by ground mail to:
 
 Thomas F. Laurin  
-Executive Vice President  
+President  
 Laurin Publishing Co., Inc.  
 P.O. Box 4949  
 Pittsfield, MA 01202-4949 
