@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226134321id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629183612id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Frontier Foundation
 
@@ -16,7 +16,9 @@ After 48 hours, EFF anonymizes, obfuscates, aggregates and/or deletes unneeded t
 
 We do not use persistent cookies on this site unless you log into the Action Center or use "Remember Me" or other similar functionality. We may use session cookies from time to time. Session cookies expire when you close your browser. You can set your browser to refuse cookies, and use Tor if you wish to keep your IP number and other technical information anonymous.
 
-In addition, EFF collects and retains information you submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member or register for the EFF Action Center, we ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password. For online donors and shoppers, we also ask for your credit card number. We also maintain records of our members' use of the Action Center, and you may wish to indicate your particular interests in your Action Center profile. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction.
+In addition, EFF collects and retains information you submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member or register for the EFF Action Center, we ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password. For online donors and shoppers, we also ask for your credit card number. We also maintain records of our members' use of the Action Center, and you may wish to indicate your particular interests in your Action Center profile. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction. 
+
+If you enable the Decentralized Observatory feature of HTTPS Everywhere, we will collect copies of the certificates of SSL/TLS servers that you connect to.
 
 We may ask for additional personal information when you provide feedback or comments, or otherwise communicate with us. We are pleased to receive anonymous donations, but please note that your personal information is required if you choose to donate using our online form.
 
@@ -29,6 +31,8 @@ From time to time, we may ask for personal information on other portions of the 
 In general, EFF uses the information provided by you to further its mission, protect privacy, defend freedom, and protect your rights in the digital world.
 
 We use member information to process and manage your membership or contribution. If you opt in, we will use your email address to send you updates and alerts on protecting your rights in the digital world, so you may take action, such as contacting your representative in Congress or attending an event. If you choose to complete the "Please tell us why you became a member of EFF" field when donating, this information may be shared with the entire EFF staff and board, and select unattributed quotes may be used to promote our mission, such as including a relevant quote in a grant proposal.
+
+If you enable the Decentralized Observatory feature of HTTPS Everywhere, we analyze and publish the copies of the certificates of SSL/TLS servers that you connect to. These certificates generally do not identify you and we will take reasonable steps to try to avoid collecting certificates that may be used to identify you.
 
 If you invite another person to join EFF or take action in one of our alerts, we will ask for that person's name and online contact information. We use this information to contact and, if necessary, remind that person that he or she has been invited to join EFF.
 
@@ -58,6 +62,8 @@ If we are required by law to disclose the information that you have submitted, w
 
 In addition, we will independently object to requests for access to information about users of our site that we believe to be improper.
 
+If you enable the Decentralized Observatory feature of HTTPS Everywhere, we publish the copies of the certificates of SSL/TLS servers that you connect to. These certificates generally do not identify you, and we will take reasonable steps to try to avoid collecting certificates that may be used to identify you.
+
 ## Updating or Removing Your Information
 
 You may choose to correct, update, or delete the membership information you have submitted to us by sending an email requesting changes to [membership@eff.org](mailto:membership@eff.org). Furthermore, if we inadvertently collect more personal information than intended, we endeavor to delete the extraneous information. However, please understand that deleted information may continue to persist on backup media. 
@@ -72,4 +78,4 @@ EFF employs industry standard security measures to protect the loss, misuse, and
 
 Although we make good faith efforts to store information collected by EFF in a secure operating environment, we cannot guarantee complete security. Information collected by EFF will be maintained for a length of time appropriate to our needs. However, we generally do not retain credit card information unless you choose to have us make automatic monthly withdrawals from your account for your donation.
 
-_Updated Jan. 26, 2009. You can[view our previous policy here.](https://web.archive.org/policy/feb2007)_
+_Updated June 22, 2011 to reflect the Decentralized Observatory feature of HTTPS Everywhere. You can[view our previous policy here.](https://web.archive.org/policy/feb2007)_
