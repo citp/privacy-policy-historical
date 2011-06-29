@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brokenbulbstudios.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511111001id_/http%3A//www.brokenbulbstudios.com/%3Fpage_id%3D257) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokenbulbstudios.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629105045id_/http%3A//www.brokenbulbstudios.com/%3Fpage_id%3D257) for the most accurate reproduction.*
 
 # Broken Bulb Game Studios | Privacy Policy
 
 The following sets forth Broken Bulb Studios Privacy Policy pertaining to all players whom access any of our games (the ‘Services’).  Please note that this Privacy Policy is limited to the information collected and used by Broken Bulb Studios through use of any of our Services.  By using our Services, you agree that Broken Bulb Studios has the right to access and maintain the information as set out below.
 
-It is advised that you review this Policy regularly as it may be amended from time to time, without notice.
+It is advised that you review this Policy regularly as it may be amended from time to time, without notice. If you would like to be notified of any changes, please contact [privacy@brokenbulbstudios.com](mailto:privacy@brokenbulbstudios.com) and we will e-mail to inform you of any updates.
 
 **What We Collect**
 
