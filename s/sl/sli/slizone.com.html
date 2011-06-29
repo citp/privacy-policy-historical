@@ -1,323 +1,21 @@
-<!--The following is the downloaded HTML source of the slizone.com privacy policy that was archived on 2010-01-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100106022120id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slizone.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630010211id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><script src="http://monmonki.com/clickTracker/sns/apac/js/jquery-1.3.2.min.js" type="text/javascript"><title>NVIDIA Privacy Policy</title><meta name="robots" content="noodp"><meta xmlns="" name="keywords" content=""><link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/content/rss/nvidia_podcast.xml" title="NVIDIA Podcast"><link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/object/rss_nvidia_pressroom" title="NVIDIA Press Room"><link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/object/rss_success_stories" title="NVIDIA Success Stories"><link href="/object/rss_home.html" rel="alternate" type="application/rss+xml" title="NVIDIA News" /><script type="text/javascript">
-
-//location of the .net application - DO NOT EDIT
-var rssASPXReader = "/rssreader/nvidia_rss.aspx";
-
-var rssReader_rssFeed;
-var rssReader_rssItems;
-//var rssReader_moz = ((typeof(document.implementation) != 'undefined') <xsl:text disable-output-escaping="yes">&amp;&amp;</xsl:text> (typeof(document.implementation.createDocument) != 'undefined'));
-var rssReader_moz = ((typeof(document.implementation) != 'undefined') && (typeof(document.implementation.createDocument) != 'undefined'));
-
-var rssReader_ie = (typeof(window.ActiveXObject) != 'undefined');
-var rssReader_isFeedLoaded = false;
-var rssReader_rssTitle = "";
-var rssReader_xml = "";
-var rssReader_xmlHttp;
-var rssReader_titleClassName = "";
-var rssReader_descriptionClassName = "";
-var rssReader_numberOfAttempts = 0;
-var rssReader_numberOfItemsToShow;
-var rssReader_mode = 2;
-var rssReader_containerID = "";
-var rssReader_showDescription = true;
-var rssReader_showDate = false;
-
-//Use this for 'GET'
-function rssReader_Init(feedURL, numberOfItemsToShow, titleClassName, descriptionClassName, containerID, showDescription, showDate)
-{
-rssReader_numberOfItemsToShow = numberOfItemsToShow;
-rssReader_titleClassName = titleClassName;
-rssReader_descriptionClassName = descriptionClassName;
-rssReader_containerID = containerID;
-
-
-if(showDescription != null)
-{
-rssReader_showDescription = showDescription;
-}
-if(showDate != null)
-{
-rssReader_showDate = showDate;
-}
-
-
-if(rssReader_mode == 1)
-{
-  rssReader_loadXML(feedURL);
-  rssReader_buildRSSReader(rssReader_titleClassName, rssReader_descriptionClassName);
-}
-else
-{
-  rssReader_getResponse(feedURL);
-}
-
-}
-
-//use this for 'POST'
-function rssReader_InitPost(feedURL, numberOfItemsToShow, titleClassName, descriptionClassName, containerID, showDescription, showDate) {
-    rssReader_numberOfItemsToShow = numberOfItemsToShow;
-    rssReader_titleClassName = titleClassName;
-    rssReader_descriptionClassName = descriptionClassName;
-    rssReader_containerID = containerID;
-
-
-    if(showDescription != null) {
-        rssReader_showDescription = showDescription;
-        }
-    if(showDate != null) {
-        rssReader_showDate = showDate;
-        }
-    
-    
-    if(rssReader_mode == 1) {
-      rssReader_loadXML(feedURL);
-      rssReader_buildRSSReader(rssReader_titleClassName, rssReader_descriptionClassName);
-        } else {
-          rssReader_getResponsePost(feedURL);
-    }
-}
-
-
-
-function rssReader_loadXML(xml)
-{
-if(rssReader_moz)
-{
-  try
-  {
-   if(rssReader_mode == 1)
-   {
-    rssReader_rssFeed = document.implementation.createDocument("", "", null)
-    rssReader_rssFeed.onload = rssReader_readXML;
-    rssReader_rssFeed.load(xml);
-    
-   }
-   else
-   {
-    var parser = new DOMParser();
-   
-    rssReader_rssFeed = parser.parseFromString(xml, "text/xml");
-    rssReader_isFeedLoaded = true;
-    parser = null;
-   }
-  }
-  catch(err)
-  {
-  
-  }
-}
-else if(rssReader_ie)
-{
-  rssReader_rssFeed = new ActiveXObject("Microsoft.XMLDOM");
-  rssReader_rssFeed.async = false;
-  rssReader_rssFeed.onreadystatechange = rssReader_readXML;
-  
-  try
-  {
-   if(rssReader_mode == 1)
-   {
-    rssReader_rssFeed.load(xml); 
-   }
-   else
-   {
-    rssReader_rssFeed.loadXML(xml);   
-   }
-  }
-  catch(err)
-  {
-   
-  }
-} 
-}
-function rssReader_readXML()
-{
-if(rssReader_moz)
-{
-  rssReader_isFeedLoaded = true;
-  return true;
-}
-else if(rssReader_ie)
-{
-  if(rssReader_rssFeed.readyState == 4 || rssReader_rssFeed.readyState == "complete")
-  {
-   rssReader_isFeedLoaded = true;
-   return true;
-    
-  }
-  else
-  {
-   return false;
-  }
-}
-}
-
-function rssReader_buildRSSReader(titleClassName, descriptionClassName)
-{
-var title = "";
-var description = "";
-var url = "";
-
-//if(rssReader_numberOfAttempts <xsl:text disable-output-escaping="yes">&lt;</xsl:text> 100)
-if(rssReader_numberOfAttempts < 100)
-{
-  if(rssReader_isFeedLoaded)
-  {
-   if(rssReader_rssFeed != null)
-   {
-    //if(rssReader_rssFeed.getElementsByTagName("rss")[0] != null <xsl:text disable-output-escaping="yes">&amp;&amp;</xsl:text> rssReader_rssFeed.getElementsByTagName("rss")[0].getElementsByTagName("channel")[0].getElementsByTagName("item") != null)
-    if(rssReader_rssFeed.getElementsByTagName("rss")[0] != null && rssReader_rssFeed.getElementsByTagName("rss")[0].getElementsByTagName("channel")[0].getElementsByTagName("item") != null)
-   {
-     rssReader_rssItems = rssReader_rssFeed.getElementsByTagName("rss")[0].getElementsByTagName("channel")[0].getElementsByTagName("item");
-    }
-    
-    //if(rssReader_rssFeed.getElementsByTagName("rss")[0] != null <xsl:text disable-output-escaping="yes">&amp;&amp;</xsl:text> rssReader_rssFeed.getElementsByTagName("rss")[0].getElementsByTagName("channel")[0].getElementsByTagName("title") != null)
-    if(rssReader_rssFeed.getElementsByTagName("rss")[0] != null && rssReader_rssFeed.getElementsByTagName("rss")[0].getElementsByTagName("channel")[0].getElementsByTagName("title") != null)
-    {
-     rssReader_rssTitle = rssReader_rssFeed.getElementsByTagName("rss")[0].getElementsByTagName("channel")[0].getElementsByTagName("title")[0].firstChild.nodeValue;
-    }
-    else
-    {
-     rssReader_rssTitle = "Latest RSS Headlines";
-    }
-    
-    if(rssReader_rssItems != null)
-    {
-     var rssReaderContainer = document.getElementById(rssReader_containerID);
-     //for(var i = 0; i <xsl:text disable-output-escaping="yes">&lt;</xsl:text> rssReader_rssItems.length <xsl:text disable-output-escaping="yes">&amp;&amp;</xsl:text> (rssReader_numberOfItemsToShow == null || i <xsl:text disable-output-escaping="yes">&lt;</xsl:text> rssReader_numberOfItemsToShow); i++)
-     for(var i = 0; i < rssReader_rssItems.length && (rssReader_numberOfItemsToShow == null || i < rssReader_numberOfItemsToShow); i++)
-     {
-      title = rssReader_rssItems[i].getElementsByTagName("title")[0].firstChild.nodeValue;
-      description = rssReader_rssItems[i].getElementsByTagName("description")[0].firstChild.nodeValue;
-      url = rssReader_rssItems[i].getElementsByTagName("link")[0].firstChild.nodeValue;
-      
-      if(rssReader_rssItems[i].getElementsByTagName("pubDate").length > 0)
-      {
-          date = rssReader_rssItems[i].getElementsByTagName("pubDate")[0].firstChild.nodeValue;
-      }
-
-      //rssReaderContainer.innerHTML += "<xsl:text disable-output-escaping="yes">&lt;</xsl:text>span class='" + titleClassName + "'<xsl:text disable-output-escaping="yes">&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;</xsl:text>a href='" + url + "'<xsl:text disable-output-escaping="yes">&gt;</xsl:text>" + title + "<xsl:text disable-output-escaping="yes">&lt;</xsl:text>/a<xsl:text disable-output-escaping="yes">&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;</xsl:text>/span<xsl:text disable-output-escaping="yes">&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;br/&gt;</xsl:text>";
-      rssReaderContainer.innerHTML += "<span class='" + titleClassName + "'><a href='" + url + "'>" + title + "</a></span><br/>";
-      
-      if(rssReader_showDescription)
-      {
-            //rssReaderContainer.innerHTML += "<xsl:text disable-output-escaping="yes">&lt;</xsl:text>span class='" + descriptionClassName + "'<xsl:text disable-output-escaping="yes">&gt;</xsl:text>" + description + "<xsl:text disable-output-escaping="yes">&lt;</xsl:text>/span<xsl:text disable-output-escaping="yes">&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;br/&gt;</xsl:text>";
-            rssReaderContainer.innerHTML += "<span class='" + descriptionClassName + "'>" + description + "</span><br/>";
-      }
-
-      //if(rssReader_showDate <xsl:text disable-output-escaping="yes">&amp;&amp;</xsl:text> date.length <xsl:text disable-output-escaping="yes">&gt;</xsl:text> 0)
-      if(rssReader_showDate && date.length > 0)
-            
-      {
-           //rssReaderContainer.innerHTML += "<xsl:text disable-output-escaping="yes">&lt;</xsl:text>span class='" + descriptionClassName + "'<xsl:text disable-output-escaping="yes">&gt;</xsl:text>" + date + "<xsl:text disable-output-escaping="yes">&lt;</xsl:text>/span<xsl:text disable-output-escaping="yes">&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;br/&gt;</xsl:text>";
-           rssReaderContainer.innerHTML += "<span class='" + descriptionClassName + "'>" + date + "</span><br/>";
-      }
-      //rssReaderContainer.innerHTML += "<xsl:text disable-output-escaping="yes">&lt;br/&gt;</xsl:text>";
-      rssReaderContainer.innerHTML += "<br/>";
-
-     }
-     
-     rssReader_rssItems = null;
-     rssReader_rssFeed = null;
-     rssReader_xml = null;
-     
-     return;
-    }
-   }
-   else
-   {
-    rssReader_numberOfAttempts += 1;
-    window.setTimeout("rssReader_buildRSSReader('" + titleClassName + "', '" + descriptionClassName + "')", 0);
-   }
-  }
-  
-  else
-  {
-   rssReader_numberOfAttempts += 1;
-   window.setTimeout("rssReader_buildRSSReader('" + titleClassName + "', '" + descriptionClassName + "')", 0);
-  }
-}
-}
-function rssReader_getXmlHttpObject()
-{
-var objXMLHttp = null;
-
-if (window.XMLHttpRequest)
-{
-  objXMLHttp = new XMLHttpRequest();
-}
-else if (window.ActiveXObject)
-{
-  objXMLHttp = new ActiveXObject("Microsoft.XMLHTTP");
-}
-
-return objXMLHttp;
-}
-
-function rssReader_stateChanged()
-{
-if (rssReader_xmlHttp.readyState == 4 || rssReader_xmlHttp.readyState == "complete")
-{
-  rssReader_loadXML(rssReader_xmlHttp.responseText);
-  rssReader_buildRSSReader(rssReader_titleClassName, rssReader_descriptionClassName);
-  rssReader_xmlHttp = null;
-}
-}
-
-//use this for 'GET'
-function rssReader_getResponse(url)
-{
-rssReader_xmlHttp = rssReader_getXmlHttpObject();
-
-    if (rssReader_xmlHttp != null)
-{
-    var header = "Content-Type:application/x-www-form-urlencoded; charset=UTF-8";
-    var url = url;
-    
-    rssReader_xmlHttp.onreadystatechange = rssReader_stateChanged;
-    rssReader_xmlHttp.open("GET", url, true);
-    rssReader_xmlHttp.setRequestHeader(header.split(':')[0],header.split(':')[1]);
-    
-    rssReader_xmlHttp.send(null);
-   }
-}
-
-//use this for 'POST'
-function rssReader_getResponsePost(url)
-{
-rssReader_xmlHttp = rssReader_getXmlHttpObject();
-
-    if (rssReader_xmlHttp != null)
-{
-    var header = "Content-Type:application/x-www-form-urlencoded; charset=UTF-8";
-    var url = url;
-    
-    rssReader_xmlHttp.onreadystatechange = rssReader_stateChanged;
-    rssReader_xmlHttp.open("POST", rssASPXReader, true);
-    rssReader_xmlHttp.setRequestHeader(header.split(':')[0],header.split(':')[1]);
-    rssReader_xmlHttp.send("url=" + url);
-   }
-}
-
-
-
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title>NVIDIA Privacy Policy</title><meta name="robots" content="noodp"><meta xmlns="" name="keywords" content=""><link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/content/rss/nvidia_podcast.xml" title="NVIDIA Podcast"><link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/object/rss_nvidia_pressroom" title="NVIDIA Press Room"><link rel="alternate" type="application/rss+xml" href="http://www.nvidia.com/object/rss_success_stories" title="NVIDIA Success Stories"><link href="/object/rss_home.html" rel="alternate" type="application/rss+xml" title="NVIDIA News"><script src="http://www.nvidia.com/content/includes/js/RSS_Reader_Javascript_Library.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
 var WTB_DivID;
-function WTB_GetResults(DivID, LowPrice, HighPrice, Query)
+function WTB_GetResults(DivID, sProdType, LowPrice, HighPrice, Query)
 {
              WTB_DivID = DivID;
                              document.getElementById(DivID).innerHTML = "Available GeForce 8800:<BR><BR>";
                           
-   WTB_Get(DivID, LowPrice, HighPrice, Query);
+   WTB_Get(DivID, sProdType, LowPrice, HighPrice, Query);
 }
 
   var interval;
   
-  function DoWhereToBuy(DivID, CallBackFunction, PageNumber, LowPrice, HighPrice, Query)
+  function DoWhereToBuy(DivID, CallBackFunction, PageNumber, sProdType, LowPrice, HighPrice, Query)
   {
    var div = document.getElementById(DivID);
    var divProgress = document.getElementById("WTBProgress");
@@ -326,7 +24,7 @@ function WTB_GetResults(DivID, LowPrice, HighPrice, Query)
    
    div.innerHTML = "";
    
-   WTB_Get(DivID, CallBackFunction, PageNumber, LowPrice, HighPrice, Query);
+   WTB_Get(DivID, CallBackFunction, PageNumber, sProdType, LowPrice, HighPrice, Query);
    
    interval = setInterval('StopProgress()', 500);
   }
@@ -549,7 +247,16 @@ function WTB_GetResults(DivID, LowPrice, HighPrice, Query)
           @import "/content/includes/css/redesign08/nvidia_nav_us.css";
      </style><style type="text/css">
           @import "/content/includes/social_networks/socialnetworks.css";
-     </style><script type="text/javascript" src="/content/includes/js/swfobject.js"></script><script type="text/javascript" src="/content/includes/js/nvidia_nav_redesign08.js"></script><script type="text/javascript" src="/content/includes/js/scriptaculous/prototype.js"></script><script type="text/javascript" src="/content/includes/js/scriptaculous/scriptaculous.js"></script><script type="text/javascript">
+     </style><script type="text/javascript" src="/content/includes/js/swfobject.js"></script><script type="text/javascript" src="/content/includes/js/nvidia_nav_redesign08.js"></script><script type="text/javascript" src="/content/includes/js/scriptaculous/prototype.js"></script><script type="text/javascript" src="/content/includes/js/scriptaculous/scriptaculous.js"></script><link type="text/css" rel="stylesheet" href="/content/includes/redesign2010/css/navbar-oldtemplate.css" media="screen"><!--[if lte IE 7]>
+    <link rel="stylesheet" type="text/css" href="/content/includes/redesign2010/css/navbar-oldtemplate-ie6.css" media="screen" />
+    <script type="text/javascript"> var isIE6 = true;</script>
+<![endif]--><!--[if IE 6]>
+<script type="text/javascript" src="/content/includes/redesign2010/js/navbar-ie6fix.js"></script>
+<script type="text/javascript">
+ SelectFix.autoRepairFloatingElements(200);
+ SelectFix.parseFloatingElementsFixed(true);
+</script>
+<![endif]--><script type="text/javascript">
 <!--
 function showHide(id)
 {
@@ -571,7 +278,7 @@ h4.legalHeading {margin:0;padding:0;font:bold 14px arial;color:#76b900;}
 .expandedInfo {font:12px arial; color:#666666;margin:15px;width:95%;padding:10px;background-color:#efefef;border:1px solid #333333;}
 a.smallLink {font:9px arial; color:#76b900;}
 a.smallLink:hover {color:#76b900;}
---></style></head><body><div style="text-align:left; " id="container"><!--noindex--><div xmlns="" id="globalnav"><div onclick="openMenuURL('/page/drivers.html')" onmouseout="hideSubMenu(this, '02');" onmouseover="showSubMenu(this, '02', '#333333')" class="globalnav_item_container" id="menu_container_id02"><div class="globalnav_item_link" id="menu_div_id02">Download Drivers</div><div style="display: none;" class="globalnav_item_sub_container" id="sub_div_id02"><ul class="globalnav_item_sub_links_ul" id="sub_links_ul_id02"><li><a href="/page/pg_20030521269172.html">Download Drivers</a></li><li><a href="/page/pg_55074.html">NVIDIA Widgets</a></li><li><a href="/page/pg_20020828381205.html">NVIDIA Software</a></li></ul></div></div><div onclick="openMenuURL('/page/cool_stuff.html')" onmouseout="hideSubMenu(this, '03');" onmouseover="showSubMenu(this, '03', '')" class="globalnav_item_container" id="menu_container_id03"><div class="globalnav_item_link" id="menu_div_id03">Cool Stuff</div></div><div onclick="openMenuURL('/page/shop.html')" onmouseout="hideSubMenu(this, '04');" onmouseover="showSubMenu(this, '04', '')" class="globalnav_item_container" id="menu_container_id04"><div class="globalnav_item_link" id="menu_div_id04">Shop</div></div><div onclick="openMenuURL('/page/products.html')" onmouseout="hideSubMenu(this, '05');" onmouseover="showSubMenu(this, '05', '#333333')" class="globalnav_item_container" id="menu_container_id05"><div class="globalnav_item_link" id="menu_div_id05">Products</div><div style="display: none;" class="globalnav_item_sub_container" id="sub_div_id05"><ul class="globalnav_item_sub_links_ul" id="sub_links_ul_id05"><li><a href="/page/pg_57466.html">GeForce</a></li><li><a href="/page/pg_57467.html">Quadro</a></li><li><a href="/page/pg_57468.html">Tesla</a></li><li><a href="/page/pg_57469.html">Tegra</a></li><li><a href="/page/pg_56179.html">ION</a></li><li><a href="/page/pg_55922.html">3D Vision</a></li><li><a href="/page/desktop.html">Desktop</a></li><li><a href="/page/workstation.html">Workstation</a></li><li><a href="/page/notebook.html">Notebook</a></li><li><a href="/page/pg_20051028206728.html">Server</a></li><li><a href="/page/handheld.html">Mobile</a></li><li><a href="/page/pg_57465.html">Netbook</a></li><li><a href="/page/hpc.html">High Performance Computing</a></li><li><a href="/page/pg_57471.html">Business</a></li><li><a href="/page/pg_57470.html">Home</a></li></ul></div></div><div onclick="openMenuURL('/page/technologies.html')" onmouseout="hideSubMenu(this, '06');" onmouseover="showSubMenu(this, '06', '#333333')" class="globalnav_item_container" id="menu_container_id06"><div class="globalnav_item_link" id="menu_div_id06">Technologies</div><div style="display: none;" class="globalnav_item_sub_container" id="sub_div_id06"><ul class="globalnav_item_sub_links_ul" id="sub_links_ul_id06"><li><a href="/page/pg_55167.html">CUDA</a></li><li><a href="/page/pg_54704.html">ESA</a></li><li><a href="/page/pg_55059.html">Hybrid SLI</a></li><li><a href="/page/pg_55418.html">PhysX</a></li><li><a href="/page/pg_56178.html">PowerMizer</a></li><li><a href="/page/pg_20070418845144.html">PureVideo HD</a></li><li><a href="/page/sli.html">SLI</a></li><li><a href="/page/pg_56155.html">DirectCompute</a></li><li><a href="/page/mxm.html">MXM</a></li><li><a href="/page/pg_55999.html">OpenCL</a></li><li><a href="/page/pg_55937.html">Windows 7</a></li><li><a href="/page/technology_vista_main.html">Windows Vista</a></li><li><a href="/page/pg_57648.html">Adobe Flash 10.1</a></li></ul></div></div><div onclick="openMenuURL('/page/powerof3d.html')" onmouseout="hideSubMenu(this, '07');" onmouseover="showSubMenu(this, '07', '#333333')" class="globalnav_item_container" id="menu_container_id07"><div class="globalnav_item_link" id="menu_div_id07">Communities</div><div style="display: none;" class="globalnav_item_sub_container" id="sub_div_id07"><ul class="globalnav_item_sub_links_ul" id="sub_links_ul_id07"><li><a href="/page/pg_55419.html">nZone</a></li><li><a href="/page/pg_55420.html">SLI Zone</a></li><li><a href="/page/pg_55421.html">CUDA Zone</a></li><li><a href="/page/pg_55422.html">Developer Zone</a></li><li><a href="/page/pg_57594.html">NVIDIA nTersect Blog</a></li><li><a href="/page/pg_56001.html">GPU Venture Zone</a></li><li><a href="/page/pg_55423.html">PartnerForce</a></li><li><a href="/page/speak_visual.html">Speak Visual</a></li></ul></div></div><div onclick="openMenuURL('/page/support.html')" onmouseout="hideSubMenu(this, '10');" onmouseover="showSubMenu(this, '10', '')" class="globalnav_item_container" id="menu_container_id10"><div class="globalnav_item_link" id="menu_div_id10">Support</div></div></div><!--/noindex--><div xmlns="http://www.w3.org/1999/xhtml" style="background-color:#ffffff; width:980px; margin:0 auto; margin-top:86px;"><div id="breadCrumbRow"><div id="breadCrumbs"><div style="clear:both; line-height:0; height:0; width:0; font-size:0px;">&nbsp;</div></div><div id="shareMenuRevised"><script type="text/javascript" src="/content/includes/social_networks/socialnetworks.js"></script><script type="text/javascript" src="/content/includes/social_networks/twitthis.js"></script><a xmlns="" onmouseover="showBookmarklets2()" title="Share this page" href="javascript:showBookmarklets2()"><img alt="Share icon" height="12" width="12" border="0" src="http://images.nvidia.com/templates/2009/icon_share.gif">
+--></style></head><body><div style="text-align:left; " id="container"><!--noindex--><div id="navBar" class="navBarHomePage navBarHover"><ul xmlns="" id="navMain"><li><a href="/page/drivers.html">Download Drivers</a><ul><li><a href="/page/pg_20030521269172.html">Download Drivers</a></li><li><a href="/page/link_beta_archive_drivers.html">Beta and Archived Drivers</a></li><li><a href="/page/pg_55074.html">NVIDIA Widgets</a></li><li><a href="/page/pg_20020828381205.html">NVIDIA Software</a></li></ul></li><li><a href="/page/cool_stuff.html">Cool Stuff</a></li><li><a href="/page/shop.html">Shop</a></li><li><a href="/page/products.html">Products</a><ul><li><a href="/page/pg_57466.html">GeForce</a></li><li><a href="/page/pg_57467.html">Quadro</a></li><li><a href="/page/pg_57468.html">Tesla</a></li><li><a href="/page/pg_57469.html">Tegra</a></li><li><a href="/page/pg_56179.html">ION</a></li><li><a href="/page/pg_55922.html">3D Vision</a></li><li><a href="/page/pg_58648.html">NVS</a></li><li><a href="/page/desktop.html">Desktop</a></li><li><a href="/page/workstation.html">Workstation</a></li><li><a href="/page/notebook.html">Notebook</a></li><li><a href="/page/pg_20051028206728.html">Server</a></li><li><a href="/page/pg_57701.html">Tablets</a></li><li><a href="/page/pg_57702.html">Smartphones</a></li><li><a href="/page/pg_57705.html">Automotive</a></li><li><a href="/page/pg_57465.html">Netbook</a></li><li><a href="/page/hpc.html">High Performance Computing</a></li><li><a href="/page/pg_58054.html">NVIDIA Software</a></li><li><a href="/page/pg_20070417896793.html">Legacy Products</a></li></ul></li><li><a href="/page/technologies.html">Technologies</a><ul><li><a href="/page/pg-58086.html">3D Surround</a></li><li><a href="/page/pg_57648.html">Adobe Flash 10.1</a></li><li><a href="/page/pg_55167.html">CUDA</a></li><li><a href="/page/pg_56155.html">DirectCompute</a></li><li><a href="/page/pg_58166.html">GPUDirect</a></li><li><a href="/page/pg_55059.html">Hybrid SLI</a></li><li><a href="/page/mxm.html">MXM</a></li><li><a href="/page/pg_55999.html">OpenCL</a></li><li><a href="/page/pg_57837.html">Optimus</a></li><li><a href="/page/pg_55418.html">PhysX</a></li><li><a href="/page/pg_56178.html">PowerMizer</a></li><li><a href="/page/pg_20070418845144.html">PureVideo HD</a></li><li><a href="/page/sli.html">SLI</a></li><li><a href="/page/pg_55937.html">Windows 7</a></li></ul></li><li><a href="/page/powerof3d.html">Communities</a><ul><li><a href="/page/pg_58664.html">3DVision Live</a></li><li><a href="/page/pg_55419.html">GeForce.com</a></li><li><a href="/page/pg_55420.html">SLI Zone</a></li><li><a href="/page/pg_55421.html">CUDA Zone</a></li><li><a href="/page/pg_55422.html">Developer Zone</a></li><li><a href="/page/pg_57594.html">NVIDIA Blog</a></li><li><a href="/page/pg_56001.html">GPU Venture Zone</a></li><li><a href="/page/pg_55423.html">PartnerForce</a></li><li><a href="/page/pg_58055.html">Research</a></li></ul></li><li><a href="/page/support.html">Support</a></li></ul></div><!--/noindex--><div xmlns="http://www.w3.org/1999/xhtml" style="background-color:#ffffff; width:980px; margin:0 auto; margin-top:86px;"><div id="breadCrumbRow"><div id="breadCrumbs"><div style="clear:both; line-height:0; height:0; width:0; font-size:0px;">&nbsp;</div></div><div id="shareMenuRevised"><script type="text/javascript" src="/content/includes/social_networks/socialnetworks.js"></script><script type="text/javascript" src="/content/includes/social_networks/twitthis.js"></script><a xmlns="" onmouseover="showBookmarklets2()" title="Share this page" href="javascript:showBookmarklets2()"><img alt="Share icon" height="12" width="12" border="0" src="http://images.nvidia.com/templates/2009/icon_share.gif">
           
           Share this page
         
@@ -688,38 +395,35 @@ Any Personal Information we collect may be shared with NVIDIA’s corporate affi
 <div style="float:right;width:110px;padding:15px;"><a href="#top" style="font-size:10px" class="green">Return to top</a></div>
 <a name="10"></a>
 <li><h4 class="legalHeading">Your Consent</h4>
-<p>By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA’s collecting and processing of your Personal Information for the purposes listed herein.  Your Personal Information may be processed in the country in which it was collected and in the United States.  NVIDIA is committed to complying with all applicable laws regarding consumer privacy.  At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.</p>
+<p>By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA’s collecting and processing of your Personal Information for the purposes listed herein.  Your Personal Information may be processed in the country in which it was collected and in the United States and other countries in which NVIDIA's backup storage may be located.  NVIDIA is committed to complying with all applicable laws regarding consumer privacy.  At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.</p>
 </li>
 </ol><br><br></div><div style="clear:left; line-height:0; height:0;font-size:0px;" id="clearFloats">&nbsp;</div></div><div style="clear:left; line-height:0; height:0;font-size:0px;">&nbsp;</div></div><div style="background-color:#000000;" id="mastheadBlack">&nbsp;</div><div xmlns="" id="logo"><a href="/page/home.html"><img id="nvLogo" border="0" height="40" width="176" alt="NVIDIA" src="/content/includes/images/redesign08/nvidia_logo.png"></a></div><div id="globalselector"><form name="nav"><script type="text/javascript" src="/content/includes/js/global_menu.js"></script>
 <noscript><div id="globalselectorexpanded" style="display:none;"><img src="/content/includes/masthead/selector_background.png" width="149" height="388"/><div id="globalselectorcountries"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="globalselectorcol1"><img src="/content/includes/masthead/flag_usa.gif" alt="USA" height="13" /></td><td width="100%" class="globalselectorcol2">USA</td><td class="globalselectorcol3"><img style="cursor:pointer;" src="/content/includes/masthead/close_cross.jpg" alt="USA" width="9" height="9" /></td></tr><tr><td colspan="3" style="height:10px;"></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://arg.nvidia.com">ARG - Argentina</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.com.br">BRA - Brazil</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://chl.nvidia.com">CHL - Chile</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.cn">CHN - China</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://clm.nvidia.com">CLM - Colombia</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.de">DEU - Germany</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.es">ESP - Spain</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.fr">FRA - France</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.co.uk">GBR - United Kingdom</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.co.in">IND - India</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.it">ITA - Italy</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.co.jp">JPN - Japan</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://kr.nvidia.com">KOR - Korea</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.com.mx">MEX - Mexico</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.pl">POL - Poland</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.ru">RUS - Russia</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.com.tw">TWN - Taiwan</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://www.nvidia.com/page/home.html">USA - United States</a></td></tr><tr><td colspan="3" class="globalselectorcountriesrow"><a href="http://ven.nvidia.com/">VEN - Venezuela</a></td></tr><tr><td colspan="3" style="height:20px;"></td></tr><tr><td colspan="3" class="globalselectorcountriesdefault" ><a href="http://www.nvidia.com/content/global/unset.php">Change default</a></td></tr></table></div></div><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td class="globalselectorcol1"><img src="/content/includes/masthead/flag_usa.gif" alt="USA" height="13" /></td><td width="100%" class="globalselectorcol2">USA</td><td class="globalselectorcol3"><img style="cursor:pointer;" src="/content/includes/masthead/expand_arrow.jpg" alt="USA" width="9" height="5" /></td></tr></table></noscript>
-</form></div><div xmlns="http://www.w3.org/1999/xhtml" id="search"><form xmlns="" name="search" id="Form1" action="/object/nv_search_us.html"><input value="009029091075083507105:9leknaf7r_8" name="cx" type="hidden"><input value="FORID:11;NB:1" name="cof" type="hidden"><input value="UTF-8" name="ie" type="hidden"><input value="en" name="hl" type="hidden"><input value="us" name="gl" type="hidden"><input value="Search NVIDIA" onfocus="javascript:document.search.q.value = '';" maxlength="50" size="25" name="q" type="text"></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></div><div id="footerContainer"><div xmlns="" id="footer">
-          
-          Consumers: 
-          
-          <a href="http://www.nvidia.com/Download/index.aspx?lang=en-us"> Download Drivers</a> | <a href="http://www.slizone.com/object/slizone_buyprebuilt_us2.html">Gaming PC</a> | <a href="http://www.slizone.com/object/slizone_buyprebuilt_nb_us2.html"> Gaming Laptop</a> | <a href="http://www.slizone.com/object/slizone_learn_howtoguide.html">Build a PC</a> | <a href="http://www.nzone.com">Buy PC Games</a> | <a href="http://www.speakvisual.com/#/spotlight">Speak Visual</a> | <a href="/content/widgets/widget_home.asp">NVIDIA Widgets</a><br>
-          
-          
-          
+</form></div><div xmlns="http://www.w3.org/1999/xhtml" id="search"><form xmlns="" id="Form1" action="/object/nv_search_us.html"><input value="009029091075083507105:9leknaf7r_8" name="cx" type="hidden"><input value="FORID:11;NB:1" name="cof" type="hidden"><input value="UTF-8" name="ie" type="hidden"><input value="en" name="hl" type="hidden"><input value="us" name="gl" type="hidden"><input value="Search NVIDIA" onclick="this.value='';" maxlength="50" size="25" name="q" type="text"></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></div><div id="footerContainer"><div xmlns="" id="footer"><p>
+            
+            
+            Solutions: 
+            
+            <a href="http://www.nvidia.com/object/3d-tv-play.html">3DTV Play</a> | <a href="http://www.nvidia.com/object/3d-vision-main.html">3D PCs</a> | <a href="http://www.nvidia.com/object/optimus_technology.html"> Optimus</a> | <a href="http://www.nvidia.com/object/geforce_family.html">Graphics Cards</a> | <a href="http://www.nvidia.com/object/tesla_computing_solutions.html">High Performance Computing</a> | <a href="http://www.nvidia.com/page/workstation.html">Visualization</a> | <a href="http://www.nvidia.com/cuda">CUDA</a> | <a href="http://www.tegrazone.com">Tegra Android App</a><br>
+            
+            
+            
 Corporate: 
-          
-          <a href="/page/companyinfo.html">Company Info</a> | <a href="http://www.nvidia.com/object/newsroom.html">Newsroom</a> | <a href="http://www.nvidia.com/page/events.html">Events</a> | <a href="/object/affiliate_program.html">Affiliate Program</a> | <a href="http://developer.nvidia.com">Developers</a> | <a href="/page/channel.html">Channel Partners</a> | <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=116466&amp;p=irol-IRHome">Investor Relations</a> | <a href="http://careers.nvidia.com">Employment</a> | <a href="/object/rss_home.html">RSS Feeds</a><br>
-          
-           Copyright 
-          
-          ©
-          
-          2009 NVIDIA Corporation
+            
+            <a href="/page/companyinfo.html">Company Info</a> | <a href="http://www.nvidia.com/object/newsroom.html">Newsroom</a> | <a href="http://blogs.nvidia.com/">Blog</a> | <a href="http://www.nvidia.com/page/events.html">Events</a> | <a href="/object/affiliate_program.html">Affiliate Program</a> | <a href="http://developer.nvidia.com">Developers</a> | <a href="/page/channel.html">Channel Partners</a> | <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=116466&amp;p=irol-IRHome">Investor Relations</a> | <a href="http://careers.nvidia.com">Employment</a> | <a href="/object/rss_home.html">RSS Feeds</a><br>
+            
+             Copyright 
+            
+            ©
+            
+            2011 NVIDIA Corporation
 
-          
-          <a href="/object/legal_info.html">Legal Info</a> | <a href="/object/privacy_policy.html">Privacy Policy</a></div><br><br></div></div><script type="text/javascript">
-
+            
+            <a href="/object/legal_info.html">Legal Info</a> | <a href="/object/privacy_policy.html">Privacy Policy</a></p></div></div></div><script type="text/javascript">
 var isIE6 = checkForIE();
-
 if (isIE6) {
     document.getElementById('nvLogo').src = "/content/includes/images/redesign08/nvidia_logo.gif";
 }
-
-
 
 function checkForIE()
 {
@@ -730,17 +434,15 @@ function checkForIE()
     return (((version.indexOf("5.5") == 0) || (version.indexOf("6") == 0)) && (navigator.platform == ("Win32")));
 }
 
-
-
 </script>
-
-<!--<script type="text/javascript" language="javascript1.1" defer src="http://www.nvidia.com/content/websidestory/hbx.js"></script>-->
+<!--</script>-->
+<!--<script type="text/javascript" src="http://www.nvidia.com/content/websidestory/hbx.js"></script>-->
 <!-- END WEBSIDESTORY CODE -->
 
 <!-- SiteCatalyst code version: H.17.
 Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://www.nvidia.com/content/websidestory/omniture/production/s_code_us_dev_aut1.js"></script>
-<script language="JavaScript" type="text/javascript">
+<script type="text/javascript" src="http://www.nvidia.com/content/websidestory/omniture/production/s_code_us_dev_aut1.js"></script>
+<script type="text/javascript">
 <!--You may give each page an identifying name, server, and channel on the next lines-->
 s.pageName=""
 s.server=""
@@ -770,11 +472,11 @@ s.eVar6=""
 s.eVar7=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+//--></script><noscript><p><img
 src="http://omniture.nvidia.com/b/ss/nvidiausdev/1/H.17--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+height="1" width="1" alt="nothing" /></p></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.17. -->
 
 <script type="text/javascript">
@@ -787,4 +489,6 @@ var pageTracker = _gat._getTracker("UA-1273456-4");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <!--/DO NOT REMOVE/-->
+<script src="http://cts.channelintelligence.com/7240466_landing.js" type="text/javascript"></script>
+
    </body></html>
