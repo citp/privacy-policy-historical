@@ -1,50 +1,68 @@
-> *The following text is extracted and transformed from the classifiedads.com privacy policy that was archived on 2007-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070616084552id_/http%3A//www.classifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedads.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629061720id_/http%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Personally identifiable information you provide ClassifiedAds.com when you sign up will not be sold or given to outside sources without your permission. ClassifiedAds.com uses the information we collect in order to provide you with personalized services, such as the Selling and Buying Center, Saved Searches, member ratings/reviews, and account information. 
+_Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our website (the “Site”) and our products and services (the “Services”)._
 
-**Sign-up Information**  
-In order to post, buy, or make an offer for item(s) and service(s) on ClassifiedAds.com, you must become a ClassifiedAds.com member. The member registration process requires that you provide your full name, street address, email address, and other identifying information. If you were referred to ClassifiedAds.com from another web site, that web site may send us information that you provided to them. The information they provide is considered private, as if you provided it directly to us. 
+## WHAT INFORMATION DO WE COLLECT?
 
-**Credit Cards**  
-You will be able to enter a credit card to for billing convenience through our credit card partner PayPal. We must confirm that your credit card number and sign-up information is valid. Members' credit cards will only be charged in accordance with our Fees and Payments Policy. Entering your credit card information on ClassifiedAds.com is safe; we use industry-standard SSL-encryption to protect sensitive data transmissions. 
+When you visit the Site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the Site.
 
-**Personal Descriptions & Photos**  
-In an effort to facilitate a trusting buying and selling community, we provide you with the option to submit pictures and/or a description of your item or service. When you post your classified ad on ClassifiedAds.com, the ad description and pictures are displayed on the site and accessible to visitors on ClassifiedAds.com. We will not allow lewd, nude, or semi-nude photos, so please do not upload them. Classifieds and photos are subject to approval and must meet the Classified Ad Guidelines. 
+**1\. Personal Information You Choose to Provide**
 
-**Our use of Cookies**   
-ClassifiedAds.com uses cookies to provide you access to protected pages without requesting a login each time. Cookies are small files that are placed on your computer when you visit our site. Our web site will reference and update the cookie each time you visit ClassifiedAds.com. We use cookies to deliver content specific to you, for pages such as your Selling and Buying Center. We accomplish this by storing encrypted information that uniquely identifies you in a cookie. 
+You can generally visit the Site without revealing any personally identifiable information about yourself, and you do not need an account to post listings, browse listings, or respond to listings.
 
-**Public Access to Information**   
-The information that you provide when you post a classified ad, rate other members, and respond to ratings that others have given you, is posted in public areas and available to all visitors. Please remember that any information that is disclosed in these areas becomes public information, so please exercise caution. 
+If you choose to create an account and/or use our Services, we may collect personally identifiable information that you submit such as your name, contact data (address, email address, phone number) and other similar information. Likewise, we may also collect additional personally identifiable information that you voluntarily include in your listings or transmit with your communications to us.
 
-**Security**   
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All member data and activity is stored separately and is not directly accessible through a web browser. We use industry standard procedures and processes to safeguard the confidentiality of your identifiable personal information, such as firewalls, encryption, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. Unfortunately, when you submit information about yourself to ClassifiedAds.com over the Internet, the information may travel over many systems that are not under the control of ClassifiedAds.com. The Internet is not 100% secure and others might intercept the information that you are sending. Remember that your account is accessible only through the use of your Password. 
+The information that you provide when you post a listing is displayed in public areas and available to all visitors. Any information that is disclosed in these areas becomes public information, so please exercise caution. We also provide you with the option to submit pictures and/or a description of your item or service. When you post your listing on the Site, the description and pictures are displayed on the site and accessible to visitors on the Site.
 
-**Who will have access to my personal information?**   
-Our priority is to keep your personal information private and confidential. ClassifiedAds.com will not willfully disclose, rent, or sell your personal information to third parties. However, certain personal information will be available to others in the process of using ClassifiedAds.com. For example, visitors to ClassifiedAds.com may view your member name, feedback rating, city, and items you have for sale. 
+If you provide personal information to a buyer or seller (either directly or by circumventing our messaging system), we have no control over how that information might be used by that individual. We recommend using our messaging system for any communications between you and potential buyers and sellers.
 
-Of course, once you provide personal information to a buyer or seller, ClassifiedAds.com has no control over how that information might be used by that individual. In addition, should you circumvent our on-site messaging system, ClassifiedAds.com will be unable to provide assistance in transaction disputes. We recommend using our messaging system for any communications between you and potential buyers and sellers. 
+**2\. Web Site Use Information**
 
-ClassifiedAds.com may choose to disclose your personally identifiable information to others under the following circumstances: 
+Similar to other commercial websites, the Site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server logs to collect information about how the Site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at the Site, and the websites visited just before and just after the Site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
+
+## HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?
+
+Broadly speaking, we use personal information for purposes of administering and expanding the Site and the Services. More specifically, we use personal information to provide the Services; provide customer service; troubleshoot problems; encourage safe buying and selling and enforce our policies; customize your experience, measure interest in our services, improve our services; and do other things for you as described when we collect the information. Occasionally, we may also use the information we collect to notify you about important changes to the Site and/or the Services.
+
+We do not sell or rent your personal information to third parties without your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. We may also share personal information with service providers who help with our business operations, and third-party websites and publishers so the listings (or the content of the listings) published on the Site can also be published on a broader array of websites.
+
+**What are Cookies?**
+
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
+
+**How Do We Use Information We Collect from Cookies?**
+
+As you use the Site, the website uses its cookies to differentiate you from other users. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting the Site and which parts of the Site are most popular. This helps us gather feedback in order to constantly improve the Site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+
+**Sharing Information with Third Parties**
+
+The Site contains links to other websites on the Internet. Please be aware that we are not responsible for the information collection and use and privacy practices of such other websites and third parties. We encourage you to be aware when you leave the Site and to read the privacy statements of each and every other website that may collect your personally identifiable information. This privacy statement applies solely to information collected by us from the Site.
+
+We use third party companies to serve advertisements when you visit the Site. These companies may use information about your visits to the Site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags. Our privacy policy does not cover any use of information that a third-party ad-serving company may collect from you. These companies have their own policies as to record keeping and data retention. If you would like more information about this practice, or would like to know your choices about not having this information used by advertising companies, please click here: <http://www.networkadvertising.org/>.
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+
+**Notice of New Services and Changes**
+
+Occasionally, we may also use the information we collect to notify you about important changes to the Site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers.
+
+## HOW DO WE PROTECT YOUR INFORMATION?
+
+**How Do We Secure Information Transmissions?**
+
+We may employ procedural and technological security measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. We may use secure socket layer and other security measures to help prevent unauthorized access to your personally identifiable information.
+
+**Certain Disclosures**
+
+We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
+
+**Your Consent**
+
+By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on the Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. If you have any questions, feel free to [contact us](http://www.classifiedads.com/feedback.php).
+
+_Effective as of February 17, 2011_
 
   
 
-
-  
-
-  * You consent to share your information. 
-  
-
-  * In response to a criminal investigation, subpoena, court order or legal process. 
-  
-
-  * Your actions on ClassifiedAds.com appear to be in violation of our policies (including, but not limited to, our Classified Ad Guidelines, User Agreement, and Fees and Payments policies). 
-  
-
-  * You post a classified ad which we believe, in our sole discretion, may create a liability for ClassifiedAds.com. 
-
-
-
-Nothing in this policy shall limit, prohibit, or otherwise deny the ability of ClassifiedAds.com to (1) transfer, assign, or sell our assets to a third party without limitation, or (2) dispose of our assets in any manner, through bankruptcy or similar proceeding. In addition, ClassifiedAds.com makes no warranties or claims regarding the accuracy or completeness of the information we collect and disclose through our site, and disclaims any liability regarding its use.
