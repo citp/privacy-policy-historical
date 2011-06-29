@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206113227id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629043645id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
 # ABC Online: Privacy Policy
 
 ABC Online is strongly committed to protecting your privacy while interacting with our content, products and services. We want to provide a safe and secure environment for you and your children.
 
-The ABC is concerned about protecting the safety and privacy of young people using our services. We encourage you to participate in your child's online experience. We also encourage you and your child to visit the age-appropriate ABC Online website specifically designed for children, 'The Playground' at [abc.net.au/children](http://abc.net.au/children).
+The ABC is concerned about protecting the safety and privacy of young people using our services. We encourage you to participate in your child's online experience. We also encourage you and your child to visit the age-appropriate ABC Online website specifically designed for children, ['The Playground'](http://abc.net.au/children).
 
 The purpose of this Privacy Policy is to tell you what kind of information we may gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our policy allows you to choose what kind and how much information you provide to us and to control how we use whatever information you give us. Our goal is to provide you with a satisfying experience while allowing you to control your privacy and to give you a means to voice any questions or concerns you may have.
 
@@ -36,14 +36,14 @@ ABC Online will only use the personal information you have chosen to provide us 
 
 For information about cookies on ABC Online see [this page](http://www.abc.net.au/about/cookies.htm).
 
-The ABC Shop site currently uses cookies. For more information about how the ABC Shop uses cookies, please visit the ABC Shop's privacy policy at <http://www.abcshop.com.au/help/privacy.shtm>
+The ABC Shop site currently uses cookies. For more information about how the ABC Shop uses cookies, please visit the [ABC Shop's privacy policy](http://www.abcshop.com.au/help/privacy.shtm).
 
   
 
 
 ## Disclosure
 
-There will be occasions where it will be necessary for the ABC to disclose your personal information to third parties. The ABC may be required by law to disclose the information, or the ABC may be required to disclose your personal information to third parties to provide the service you have requested, for example, if you purchase products online from the ABC Shop, the ABC will need to disclose your personal information to third parties in order to bill and deliver your products. However, the disclosure will only be made where it is necessary to fulfil the purpose for which you disclosed your personal information. Otherwise than stated above, we do not disclose personal information that you may give us, such as your name, address, email address or telephone number, to any organisation or person outside the ABC _unless you have authorised us to do so_. For example, when you contribute to an online forum you may want to publish your name and email address.
+There will be occasions where it will be necessary for the ABC to disclose your personal information to third parties. The ABC may be required by law to disclose the information, or the ABC may be required to disclose your personal information to third parties to provide the service you have requested, for example, if you purchase products online from the ABC Shop, the ABC will need to disclose your personal information to third parties in order to bill and deliver your products. However, the disclosure will only be made where it is necessary to fulfil the purpose for which you disclosed your personal information. Otherwise than stated above, we do not disclose personal information that you may give us, such as your name, address, email address or telephone number, to any organisation or person outside the ABC **unless you have authorised us to do so**. For example, when you contribute to an online forum you may want to publish your name and email address.
 
 ## No sale of personal information
 
@@ -65,7 +65,7 @@ If ABC Online holds your personal information the ABC will where possible provid
 
 ## Security
 
-The ABC operates secure data networks that are designed to protect your privacy and security. The ABC Shop has it's own Security and Privacy Issues document which can be found on The Shop website at <http://www.abcshop.com.au/help/privacy.shtm>.
+The ABC operates secure data networks that are designed to protect your privacy and security. The ABC Shop has it's own [Security and Privacy Issues document](http://www.abcshop.com.au/help/privacy.shtm).
 
 ## Complaints about privacy
 
