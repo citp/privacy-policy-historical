@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tsikot.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227083057id_/http%3A//www.tsikot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsikot.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629045421id_/http%3A//www.tsikot.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Browse >
-
-[Home](http://www.tsikot.com/ "Browse to: Home") / Privacy Policy 
 
 Tsikot.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **Tsikot.com** and **Tsikot.Yehey.com**.
 
