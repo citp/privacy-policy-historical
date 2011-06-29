@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commun.it privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228024557id_/http%3A//commun.it/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commun.it privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629093728id_/http%3A//commun.it/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Community Management Software - Commun.it
+# Privacy Policy | Commun.it - Community Management for Twitter that Makes a Difference
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
