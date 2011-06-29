@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomvoice.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205062730id_/http%3A//www.freedomvoice.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomvoice.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629220300id_/http%3A//www.freedomvoice.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # FreedomVoice.com Privacy Policy | FreedomVoice Toll Free Numbers and Virtual Phone Systems
 
