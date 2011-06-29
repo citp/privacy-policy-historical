@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agingcare.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130003108id_/http%3A//www.agingcare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agingcare.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629041608id_/http%3A//www.agingcare.com/privacy.htm) for the most accurate reproduction.*
 
 # AgingCare.com - Privacy Policy
 
@@ -10,7 +10,7 @@ Last updated 4/22/09
 
 **General.**
 
-This Privacy Policy applies only to the Agingcare.com website (the "Site"), and does not cover any interaction you may have with MediaBrains Inc. or Agingcare.com ("MediaBrains," "us," "our," "we") by telephone, postal mail, or other offline communications. The purpose of this Privacy Policy is to inform you about the types of information we gather about you when you visit our Site, how we may use that information, and how we disclose it to third parties. By using this Site, you consent to the practices described in this Privacy Policy. If you have questions about this Privacy Policy or the protection of your personal information on our Site, please contact us at info@Agingcare.com.
+This Privacy Policy applies only to the Agingcare.com website (the "Site"), and does not cover any interaction you may have with AgingCare, LLC or Agingcare.com ("AgingCare," "us," "our," "we") by telephone, postal mail, or other offline communications. The purpose of this Privacy Policy is to inform you about the types of information we gather about you when you visit our Site, how we may use that information, and how we disclose it to third parties. By using this Site, you consent to the practices described in this Privacy Policy. If you have questions about this Privacy Policy or the protection of your personal information on our Site, please contact us at info@Agingcare.com.
 
 We may update this Privacy Policy occasionally to reflect changes in our services and policies. When we post changes to this Privacy Policy, we also will revise the "last updated" date at the top of the Privacy Policy. We encourage you to review this Privacy Policy periodically to be informed of how we are protecting your information.
 
@@ -105,7 +105,6 @@ From time to time we may revise our Privacy Policy.  We will post any such chan
 If you have any questions regarding this Privacy Policy, please send an e-mail to info@AgingCare.com or write to:
 
 AgingCare.com Privacy Policy  
-c/o MediaBrains Inc.  
 720 Goodlette Road North  
 4th Floor  
 Naples, FL 34102
