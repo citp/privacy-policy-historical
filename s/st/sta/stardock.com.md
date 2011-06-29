@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712074020id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629170650id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
-# Stardock.com - Your Edge In Software
+# Stardock Corporation - Privacy
 
   
 **Stardock.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Stardock.com](http://www.iconzone.com/) This policy is also applicable to Stardock's other Web sites, including but not limited to: [Stardock.net](http://www.stardock.net/), [WinCustomize.com](http://www.wincustomize.com/), [JoeUser.com](http://www.joeuser.com/), [Windowblinds.net](http://www.windowblinds.net/), [DesktopX.net](http://www.desktopx.net/), [GalCiv.com](http://www.galciv.com/), [PoliticalMachine.com](http://www.politicalmachine.com/), and [ObjectDesktop.net](http://www.objectdesktop.net/). _**WE DO NOT SHARE YOUR EMAIL ADDRESSES OR PERSONAL INFORMATION WITH ANYONE.**_
