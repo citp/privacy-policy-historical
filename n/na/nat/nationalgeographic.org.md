@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgeographic.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230025114id_/http%3A//www.nationalgeographic.com/community/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629171231id_/http%3A//www.nationalgeographic.com/community/privacy) for the most accurate reproduction.*
 
 # National Geographic Privacy Policy Highlights
 
