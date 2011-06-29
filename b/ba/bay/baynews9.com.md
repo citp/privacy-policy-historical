@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2010-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100714041456id_/http%3A//www.baynews9.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629065322id_/http%3A//www.baynews9.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Bay News 9 - Privacy Policy - About Us
+# Bay News 9 - Privacy Policy
 
 In addition to reviewing this privacy policy, please read our User Agreement. Your use of **BayNews9.com** constitutes agreement to its terms and conditions.
 
@@ -44,6 +44,17 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.  
 If you're worried about your children's activities or their privacy on our site, we encourage you to please click here to contact our web master.
+
+**Third Party Ad Services and Providers:**
+
+We use third-party advertising services companies to serve ads when you visit **BayNews9.com**. A list of these ad serving companies as of the date of this privacy policy is as follows; we may add to or alter this list, and if we do so we will revise this privacy policy accordingly:
+
+1\. Valueclick   
+(<http://www.valueclick.com/privacy.html>) 
+
+These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. 
+
+Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's ("NAI") consumer Web site at [www.networkadvertising.org/consumer/](http://www.networkadvertising.org/consumer/), and in particular, NAI's Ad Network "Opt-Out" page at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our web master. We welcome your feedback. You can also send us regular mail at the following address: 
 
