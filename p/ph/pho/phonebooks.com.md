@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonebooks.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205161345id_/http%3A//www.phonebooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonebooks.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629183611id_/http%3A//www.phonebooks.com/privacy.html) for the most accurate reproduction.*
 
 # PhoneBooks.com Privacy Policy
 
