@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225051003id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629110356id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Collaboration Software
 
@@ -7,7 +7,7 @@
 Central Desktop, Inc. ("Central Desktop") values your privacy. Central Desktop has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for www.centraldesktop.com and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. If you have questions or concerns regarding this Privacy Policy, you may contact us at .
 
 Information We Collect  
-Central Desktop collects personal information from customers who register with our services. When customers register with our services, we require a username, password, email address, first and last name, zip code, country and time zone location and billing information such as billing address and credit card number. We may also ask customers to provide additional personal information such as company name, title, education institution and other company and personal details that the customer may opt out of by not entering data when asked. We use the customer registration information to authenticate users and provide access to Central Desktop. We also use the email addresses used in the registration information to communicate with our users. From time to time, Central Desktop may contact you via email to notify you of changes to its services, maintenance notifications, information about Central Desktop and promotional materials from Central Desktop. We may also send you offers on behalf of third-party partners. Users can opt out of promotional and offer emails at anytime. 
+Central Desktop collects personal information from customers who register with our services. When customers register with our services, we require a username, password, email address, first and last name, zip code, country and time zone location and billing information such as billing address and credit card number. We may also ask customers to provide additional personal information such as company name, title, education institution and other company and personal details that the customer may opt out of by not entering data when asked. We use the customer registration information to authenticate users and provide access to Central Desktop. We also use the email addresses used in the registration information to communicate with our users. From time to time, Central Desktop may contact you via email or phone to notify you of changes to its services, maintenance notifications, information about Central Desktop and promotional materials from Central Desktop. We may also send you offers on behalf of third-party partners. Users can opt out of promotional and offer emails at anytime. 
 
 Central Desktop collects and logs aggregate user statistics and website traffic within Central Desktop. Such information includes website traffic statistics, date and time of visits, browser type used to access Central Desktop, frequency of visits and to which pages, etc. We use this information to improve the services delivered to our customers, to track and diagnose performance problems and administer the website. 
 
@@ -39,4 +39,4 @@ We cannot guarantee the security of your data while it is being transmitted over
 Further Questions  
 If you have further questions about our Privacy Policy, email us at or via mail at Central Desktop, Inc., 129 N Hill Ave #202, Pasadena, CA 91106 USA.
 
-Last Updated: Jul 18, 2008 8:34am
+Last Updated: Jan 22, 2011
