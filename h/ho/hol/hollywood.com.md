@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231110051id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629075937id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
 
 # Privacy Statement for Hollywood.com | Hollywood.com
 
