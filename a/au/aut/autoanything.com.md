@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231174931id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629134847id_/http%3A//www.autoanything.com/help/policy.aspx%23privacypolicy) for the most accurate reproduction.*
 
 # AutoAnything Privacy Policy
 
@@ -70,6 +70,12 @@ Please keep in mind, however, the assurance of AutoAnything's 1-Year Low Price G
 This is AutoAnything.com's ("AutoAnything.com") online privacy policy ("Policy"). This policy applies only to activities AutoAnything.com engages in on its website and does not apply to AutoAnything.com activities that are "offline" or unrelated to the website. AutoAnything.com collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. The anonymous data collected by the AutoAnything.com website can include information such as the type of browser you are using, browsing patterns, originating web pages, number of visits to AutoAnything.com, vehicle selections, items viewed, pages viewed, and the length of the visit to the website.
 
 You may also be asked to provide personally identifiable information on the AutoAnything.com website, which may include your name, address, telephone number, and e-mail address. In addition, if a purchase is made, we collect credit card information, billing and shipping address, other customer information, vehicle information, information regarding prior purchases, and information concerning the dollar amount of the purchase, the date of the purchase, and the specific items purchased. This information is collectively referred to as "personally identifiable information." This information can be gathered when feedback or e-mails are sent to AutoAnything.com, when you register for services, when you voluntarily post information in chat rooms, blogs, message boards or other public forums on AutoAnything.com, when you make purchases via the website, or when you enter information in the checkout process but do not complete your checkout. In all such cases you have the option of providing us with personally identifiable information. You may always choose not to provide us with your personally identifiable information, but you then may not be able to participate in the particular activity that requires such information. If you do provide us with your personally identifiable information, you agree that we may contact you to provide you with information we believe may be of interest to you.
+
+### Email Opt-Out
+
+You always have the option to opt-out of our non-transactional emails via a link in the footer of all non-transactional email messages. Alternatively, you may email autoanything@email.autoanything.com at anytime and ask to be removed.
+
+Some communications (e.g. important account notifications and billing information) are considered transactional and are necessary for all AutoAnything customers. If you have any issues with transactional emails, please email us at [customerservice@autoanything.com](mailto:customerservice@autoanything.com)
 
 ### Cookies: Web Beacons
 
@@ -239,8 +245,6 @@ Sunday - 6:00am - 7:00pm
  **Customer Service**
 
 Monday - Friday 6:00am - 5:00pm
-
-Saturday 6:00am - 3:30pm
 
   
 
