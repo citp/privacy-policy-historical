@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115034725id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629124532id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Harvard Crimson
 
@@ -16,9 +16,9 @@ The Crimson Online also logs IP addresses, or the location of your computer on t
 
 The Crimson Online does collect information in aggregate form that we may, from time to time, provide to advertisers and other third parties. If and when this is done, The Crimson Online will not include any identifiable individual information.
 
-While The Crimson Online has taken reasonable steps to limit the uses of information provided by you to those described in this Privacy Statement, we cannot guarantee that the information will remain permanently secure. There is always a possibility that your information could be lost due to technical problems or stolen from our databases. The Crimson Online is not responsible for any such loss or theft.
+While The Crimson Online has taken reasonable steps to limit the uses of information provided by you to those described in this Privacy Statement, we cannot guarantee that the information will remain permanently secure. There is always a possibility that your information could be lost due to technical problems or stolen from our databases. The Crimson Online is not responsible for any such loss or theft. We are committed to maintaining the trust of our users. If you have any questions or concerns about the privacy or security of any information that you have provided, please do not hesitate to contact us.
 
-We are committed to maintaining the trust of our users. If you have any questions or concerns about the privacy or security of any information that you have provided, please do not hesitate to contact us.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 If you are under age 13, do NOT send us information about yourself, including your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database.
 
