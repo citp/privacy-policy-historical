@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625000823id_/http%3A//www.seattletimescompany.com/notices/notice2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629040630id_/http%3A//www.seattletimescompany.com/notices/notice2.html) for the most accurate reproduction.*
 
 # User Notices of The Seattle Times Company: Privacy Statement
 
@@ -50,7 +50,7 @@ Some demographic information such as zip code, gender and birth year may be used
 #### Who else has access to your personally identifiable information?
 
   * Third-party technology providers: In some cases, the service you sign up for is provided by a third-party technology or content provider. When you use these third-party services offered on our sites, personally identifiable information you provide may be collected directly by these third parties solely in order to deliver the services you have requested. These third-party partners may not use or distribute our users' information in any capacity outside of the service for which we contracted and they must comply with our privacy policies. Some examples of third-party technology partners: Adicio, which operates the NWjobs.com online resume database, and WhatCounts, which operates our e-mail systems. 
-  * Transactional partners: In some cases we partner with another company to co-promote their services within our Web sites. Some examples of these are: NWsource Personals, powered by Friendfinder, and seattletimes.com sports games provided by a variety of partners. In these cases, you are transacting directly with the other party, and the personally identifiable information you enter on those services is shared both with that transactional partner and The Seattle Times Company. On those pages requiring personally identifiable information, the transactional partner's brand is clearly visible, and their privacy statement is posted. We encourage you to read it. 
+  * Transactional partners: In some cases we partner with another company to co-promote their services within our Web sites. Some examples of these are: NWsource Personals, powered by FastCupid Inc., and seattletimes.com sports contests provided by a variety of partners. In these cases, you are transacting directly with the other party, and the personally identifiable information you enter on those services is shared both with that transactional partner and The Seattle Times Company. On those pages requiring personally identifiable information, the transactional partner's brand is clearly visible, and their privacy statement is posted. We encourage you to read it. 
 
 
 
@@ -62,16 +62,20 @@ The Seattle Times Company collects some information automatically via server log
 
 A cookie is a small file that stores information in your browser on your computer. The Seattle Times Company places cookies in your browser that contain some of the information you provide when you register with us and when you set up a personalized service such as a "favorites list." We do not store highly sensitive personal information such as your password, e-mail address or credit card number in cookies. Cookies enable us to summarize overall usage patterns for our analysis. In addition, we use cookies to provide personalized services such as saving your favorite automobile ads on NWautos.com. We also use cookies to provide a more useful online experience - such as allowing you to quickly enter a sweepstakes if you're already logged on. And it can allow us to limit users to only one entry for an online poll. 
 
+You may opt-out of the cookies delivered by The Seattle Times Company by changing the setting on your browser. Depending on your privacy settings, please be aware that this may disable all cookies delivered to your browser, not just the ones delivered by The Seattle Times Company. 
+
 A web beacon is an invisible graphic on a web page that is programmed to collect non-personally identifiable information about your use of a given site. Like cookies, web beacons allow The Seattle Times Company and its technology providers to summarize overall usage patterns for our analysis and provide personalized services. We do not share or provide personally identifiable information we may collect, such as names, e-mail addresses and phone numbers with our advertisers without your express permission.
 
-We work with third-party advertising companies who may utilize cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. These partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information; they may, however, anonymously track your Web usage across other Web sites in their networks beyond The Seattle Times Company sites. For more information about these advertising companies' privacy policies, including how to opt out from their use of cookies and web beacons to track your use of our sites, see the following: 
+We work with third-party advertising companies who may utilize cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. These partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information; they may, however, anonymously track your Web usage across other Web sites in their networks beyond The Seattle Times Company sites.
+
+For more information about these advertising companies' privacy policies, including how to opt out from their use of cookies and web beacons to track your use of our sites, see the following: 
 
   * [Tacoda Privacy Policy](http://www.tacoda.com/notice/privacy_policy.html)
-  * [Advertising.com Privacy Policy](http://www.advertising.com/privacy_policy.php)
+  * [Advertising.com Privacy Policy](http://advertising.aol.com/privacy)
 
 
 
-You may opt-out of the cookies delivered by The Seattle Times Company by changing the setting on your browser. Depending on your privacy settings, please be aware that this may disable all cookies delivered to your browser, not just the ones delivered by The Seattle Times Company. 
+Advertising.com is a member of the Network Advertising Initiative (the “NAI”) and is committed to maintaining adherence with the NAI’s Self-Regulatory Principles. To directly opt out of the use of cookies and web beacons by Advertising.com, see the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### Disclosures Required by Law or for Security and Safety
 
