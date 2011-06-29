@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mypyramid.gov privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226004059id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypyramid.gov privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629024730id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # FOIA Privacy Policy
 
 |   
   
 ---|---  
+  
+| Privacy Policy  
   
 | 
 
@@ -85,7 +87,7 @@ The E-Government Act requires that agencies conduct privacy impact assessments f
 
 A PIA is an analysis of how information is handled: (i) to ensure handling conforms to applicable legal, regulatory, and policy requirements regarding privacy, (ii) to determine the risks and effects of collecting, maintaining and disseminating information in identifiable form in an electronic information system, and (iii) to examine and evaluate protections and alternative processes for handling information to mitigate potential privacy risks. 
 
-  * [Link to USDA electronic information systems Privacy Impact Assessments (PIA):](https://web.archive.org/wps/portal/usda/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os_gAC9-wMJ8QY0MDpxBDA09nXw9DFxcXQ-cAA_2CbEdFAEUOjoE!/?contentidonly=true&contentid=Privacy_Impact_Assessment.xml)
+  * [Link to USDA electronic information systems Privacy Impact Assessments (PIA):](https://web.archive.org/wps/portal/usda/usdahome?contentid=Privacy_Impact_Assessment.xml&contentidonly=true)
 
   
   
@@ -99,13 +101,19 @@ The Privacy Provisions of the E-Government Act of 2002 require agencies to have 
 
   
   
+| Social Media  
+  
+| 
+
+USDA's privacy policy is clear: We will collect no personal information about you when you visit our website, (including our social media sites) unless you choose to provide that information to us.   
+  
 | Comment Policies  
   
 | 
 
 The purpose of the USDA's new media communication forums, including the USDA blog, collaborative tools and other sites, is to share news and information regarding the activities, policies and programs of the Department of Agriculture and its employees. We encourage discussion and comments on posts. Your insights are important to ensure Americans nationwide are informed and can be a part of the USDA's work, every day. 
 
-  * [Learn more here:](https://web.archive.org/documents/Official_Comment_Policy20110.pdf "Link opens in new window")
+  * [Learn more here:](https://web.archive.org/documents/Official_Comment_Policy20110.pdf)
 
   
   
