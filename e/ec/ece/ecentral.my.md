@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecentral.my privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222191628id_/http%3A//thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecentral.my privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629071931id_/http%3A//thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
 
 # The Star Online: Privacy Statement
 
