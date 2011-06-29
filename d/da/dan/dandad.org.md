@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213152506id_/http%3A//www.dandad.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629141921id_/http%3A//www.dandad.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@ At D&AD, we take your privacy seriously.
 
 ### Introduction
 
-  1. This website is owned and operated by British Design & Art Direction (D&AD). All references to ‘our’, ‘us’ or ‘we’ within this policy are deemed to refer to D&AD.
+  1. This website is owned and operated by D&AD. All references to ‘our’, ‘us’ or ‘we’ within this policy are deemed to refer to D&AD.
   2. We are committed to protecting your personal privacy. We provide this privacy policy to help you to understand how we collect information through this website and what we may do with any information that we obtain from you.
   3. We may need to update this privacy policy from time to time so we recommend that you check you have read the most recent policy when you visit our website.
 
@@ -50,7 +50,7 @@ In addition, our web servers are housed behind a secure firewall that prevents a
 
 For the purposes of the Data Protection Act (1998), the controller of all information collected on this website is:
 
-British Design & Art Direction  
+D&AD  
 9 Graphite Square  
 Vauxhall Walk  
 London  
