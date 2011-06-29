@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leftlanenews.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205152108id_/http%3A//www.leftlanenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leftlanenews.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629204524id_/http%3A//www.leftlanenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Cookie data is not stored on the server, and therefore, not available for viewin
 
 **Third-party Ads**
 
-A portion of the advertisements displayed on the Leftlane Network are served by third-party ad networks. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by MAXOnline, please [click here](http://www.networkadvertising.org/managing/opt_out.asp "click here").
+A portion of the advertisements displayed on the Leftlane Network are served by third-party ad networks. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by MAXOnline, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We are committed to continuing to protect the privacy of our readers. If you have any additional questions, please contact us at privacy@leftlanenews.com. 
 
