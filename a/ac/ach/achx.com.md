@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achx.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210035118id_/http%3A//directory.achx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achx.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630011026id_/http%3A//directory.achx.com/privacy.html) for the most accurate reproduction.*
 
 # ACHX::Privacy Policy
 
