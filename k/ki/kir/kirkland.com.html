@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kirkland.com privacy policy that was archived on 2010-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100206044853id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kirkland.com privacy policy that was archived on 2011-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629101358id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -28,8 +28,12 @@ body {
 <link rel="stylesheet" href="scripts/sIFR-screen.css" type="text/css">
 
 
+<script language="javascript" src="scripts/jquery.js" type="text/javascript"></script>
 <script language="javascript" src="scripts/sifr.js" type="text/javascript"></script>
-<script language="javascript" src="scripts/chk-search.js" type="text/javascript"></script> 
+<link type="text/css" href="/scripts/simplemodal/basic.css" rel="stylesheet" media="screen">
+<script language="javascript" src="/scripts/simplemodal/simplemodal.js" type="text/javascript"></script> 
+
+<script language="javascript" type="text/javascript" src="/scripts/chk-search.js"></script>
 </head>
 <body>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -44,28 +48,35 @@ body {
 <td width="411" align="left" class="bgleft"><a href="index.cfm"><img src="images/KirklandEllisLLP.gif" width="290" height="86" border="0"></a></td>
 <td width="357" class="bgright"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<form action="sitecontent.cfm?contentID=219" name="attSearch" method="get" onsubmit="return checkForm(this);"></form>
-		<input type="hidden" name="contentID" value="219">
-		<input type="hidden" name="formProfType" value="1">
-		<input type="hidden" name="formTopBarSearch" value="1">
+<form action="sitecontent.cfm?contentID=380" name="attSearch" method="get" onsubmit="return checkAttorneySearch();"></form>
+<input type="hidden" name="contentID" value="380">
+<input type="hidden" name="formProfType" value="1">
+<input type="hidden" name="formTopBarSearch" value="1">
 <td width="135" align="left" valign="bottom" style="padding-left:20px; padding-right:3px;">
-	<img src="images/fh-findanattorney.gif" alt="Find an Attorney" width="96" height="17">
-	<input name="formKeyword" type="text" class="sitesearch" id="attorneysearch" maxlength="50" value="First or Last Name" onblur="if(this.value.length == 0){this.value='First or Last Name'};" onfocus="if(this.value=='First or Last Name'){this.value=''};">
+<img src="images/fh-findanattorney.gif" alt="Find an Attorney" width="96" height="17">
+<input name="formKeyword" type="text" class="sitesearch" id="attorneysearch" maxlength="50" value="First or Last Name" onblur="if(this.value.length == 0){this.value='First or Last Name'};" onfocus="if(this.value=='First or Last Name'){this.value=''};">
 </td>
 <td align="left" valign="bottom" style="padding-right:17px;"><input type="image" class="sitesearchgo" value="Send" src="images/b-go1.gif" alt="go" width="30" height="16" border="0"></td>
 
-	<form action="sitecontent.cfm?contentID=265" name="attSearch" method="get" onsubmit="return checkForm(this);"></form>
-		<input type="hidden" name="contentID" value="265">
-		<input type="hidden" name="formProfType" value="1">
+<form action="/sitecontent.cfm?contentID=265" name="keywordsearch" method="get" onsubmit="return checkKeywordSearch()"></form>
+<input type="hidden" name="contentID" value="265">
+<input type="hidden" name="formProfType" value="1">
 <td align="left" valign="bottom" style="padding-right:3px;">
-	<img src="images/fh-findanything.gif" alt="Find Anything" width="82" height="16">
-	<input name="formKeyword" type="text" class="sitesearch" id="attorneysearc" maxlength="50" value="Keyword" onblur="if(this.value.length == 0){this.value='Keyword'};" onfocus="if(this.value=='Keyword'){this.value=''};">
+<img src="images/fh-findanything.gif" alt="Find Anything" width="82" height="16">
+<input name="formKeyword" type="text" class="sitesearch" id="formkeyword" maxlength="50" value="Keyword" onblur="if(this.value.length == 0){this.value='Keyword'};" onfocus="if(this.value=='Keyword'){this.value=''};">
 </td>
 <td align="left" valign="bottom"><input type="image" class="sitesearchgo" value="Send" src="images/b-go1.gif" alt="go" width="30" height="16" border="0"></td>
 
 </tr>
 </tbody></table></td>
-</tr></tbody></table> 
+</tr></tbody></table>
+<!-- modal content -->
+<div id="nomatches" style="display:none;">
+	<img src="/images/h-nomatchesfound.gif" width="170" height="22" border="0" alt="No Matches Found">
+	<br><br>
+	<p>The search term(s) you entered did not locate any results. </p>
+	<p><a href="#" onclick="$.modal.close();">Click here</a> to try again or resume browsing.</p>
+</div> 
 		
 	</div>
 	 
@@ -174,16 +185,16 @@ body {
 	<div id="maincontent">
 		<p>Kirkland &amp; Ellis LLP (“Kirkland”) provides this Privacy Policy to inform users about our policies and procedures regarding the collection, use, security, and disclosure of personally identifiable information received from users of our website found at <a href="http://www.kirkland.com/">www.kirkland.com</a> (“our website”). Please keep in mind that your use of our website means that you accept and agree to our Privacy Policy. Please do not use our website if you do not accept our Privacy Policy. This Privacy Policy may be updated from time to time by Kirkland by posting an updated version of the Privacy Policy to our website.</p>
 <p><strong>How we use your information</strong></p>
-<p>Kirkland &amp; Ellis LLP (the "Firm" or "we") uses information you provide to better understand your needs and provide you with better service.<span>&nbsp; </span>Kirkland &amp; Ellis may collect information from you relating to your application for employment at Kirkland &amp; Ellis, our Diversity Fellowship, your attendance at a Firm event or the Kirkland &amp; Ellis LLP Alumni Network. With the exception of vendors providing hosting, database management and development services related to the operation of these websites, we will not disclose, sell or rent any of your identifiable personal information to any third party unless approved by you or required by law.</p>
+<p>Kirkland &amp; Ellis LLP (the "Firm" or "we") uses information you provide to better understand your needs and provide you with better service.<span>&nbsp;</span>Kirkland &amp; Ellis may collect information from you relating to your application for employment at Kirkland &amp; Ellis, our Diversity Fellowship, your attendance at a Firm event or the Kirkland &amp; Ellis LLP Alumni Network. With the exception of vendors providing hosting, database management and development services related to the operation of these websites, we will not disclose, sell or rent any of your identifiable personal information to any third party unless approved by you or required by law.</p>
 <p><strong>Changing or Deleting Information</strong></p>
 <p>Members of the Kirkland &amp; Ellis LLP Alumni Network may change or delete the information they provide us by logging into the alumni extranet through the <a href="http://www.kirkland.com/">www.kirkland.com</a> homepage and selecting "Update My Profile." Job applicants may change or delete their personal information by logging into the firm's online application system and choosing "My Profile."</p>
 <p><strong>Cookies</strong></p>
-<p>use cookies to track user preferences. A cookie is a small data file that certain websites write to your hard drive when you visit them. If you prefer not to receive cookies through our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any pages within our website.</p>
+<p>We use cookies to track user preferences. A cookie is a small data file that certain websites write to your hard drive when you visit them. If you prefer not to receive cookies through our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any pages within our website.</p>
 <p class="MsoBodyText"><strong>Choice</strong></p>
 <p>We will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us. Your permission is always secured first should we ever share your information with third parties that are not acting on our behalf or governed by our Privacy Policy.</p>
 <p><strong>Our commitment to data security</strong></p>
-<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, the Firm uses commercially appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
-<p>Unfortunately, the transmission of information via the internet is not completely secure. However we have put in place various security procedures as set out in this policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.</p>
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, the Firm uses commercially appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+<p>Unfortunately, the transmission of information via the internet is not completely secure. However, we have put in place various security procedures as set out in this policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.</p>
 <p><strong>Our commitment to children's privacy</strong></p>
 <p>We do not seek to collect or maintain information on our website from those we know are under 18, and no part of our website is structured to attract anyone under 13.</p>
 <p><strong>How to contact us</strong></p>
@@ -243,7 +254,7 @@ body {
 <tr>
 <td align="left">&nbsp;</td>
 <td align="right" class="smallwhite">
-     © 2010 Kirkland &amp; Ellis LLP</td>
+     © 2011 Kirkland &amp; Ellis LLP</td>
 </tr>
 </tbody></table> 
 </div>
