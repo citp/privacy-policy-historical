@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rs6.net privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130172418id_/http%3A//www.constantcontact.com/privacy_guarantee.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs6.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629131848id_/http%3A//www.constantcontact.com/privacy_guarantee.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - Constant Contact ®
 
@@ -58,9 +58,9 @@ Some communications (e.g. important account notifications and billing informatio
 
 You can update your account information, including your organizational information and email address, by logging in and then clicking on the My Settings tab. Account information such as your user name and password can be changed by logging in and then clicking on the My Account link at the top of page. The My Account page is also where you can manage product subscriptions and billing information such as your credit card number. If you would like to deactivate your account, you can do so by contacting customer support by email at support@constantcontact.com or by telephone at 1 (866) 289-2101.
 
-## ConnectUp! Online Community
+## Constant Contact Community
 
-ConnectUp! provides users the opportunity to participate in discussions with others by asking questions and sharing knowledge in an online forum. Participants should be aware that any personally identifiable information you submit there can be read and collected by other users of these forums. Constant Contact is not responsible for the personally identifiable information you choose to submit in these forums. 
+Our Community provides users the opportunity to participate in discussions with others by asking questions and sharing knowledge in an online forum. Participants should be aware that any personally identifiable information you submit there can be read and collected by other users of these forums. Constant Contact is not responsible for the personally identifiable information you choose to submit in these forums. 
 
 ## Refer a Friend
 
