@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistynoodle.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229024643id_/http%3A//twistynoodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistynoodle.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629180238id_/http%3A//twistynoodle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Twisty Noodle
 
@@ -146,4 +146,4 @@ By using our Websites, you agree that any claim arising out of or relating to ou
 This Privacy Policy was last updated on February 14, 2010.  
 Twisty Noodle, LLC
 
-© 2010 Twisty Noodle, LLC. All rights reserved. 
+© 2010-11 Twisty Noodle, LLC. All rights reserved.
