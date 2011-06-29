@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224212956id_/http%3A//www.backblaze.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629031825id_/http%3A//www.backblaze.com/privacy.html) for the most accurate reproduction.*
 
 # Backblaze - Online backup privacy policy
 
@@ -56,9 +56,4 @@ Privacy Complaints
 Backblaze is committed to protecting your privacy. If you have a privacy complaint, please contact us directly first to attempt to resolve any issue by visiting [www.backblaze.com/privacy](http://www.backblaze.com/privacy).
 
 Contacting Backblaze  
-To view the latest version of this Privacy Policy and for any questions, comments, suggestions, or concerns, please contact us at [www.backblaze.com/privacy](http://www.backblaze.com/privacy) or at 
-
-Backblaze, Inc.  
-Attn: Privacy Policy  
-425A Forest Ave  
-Palo Alto, CA 94301
+To view the latest version of this Privacy Policy and for any questions, comments, suggestions, or concerns, please [contact us](https://web.archive.org/contact.html).
