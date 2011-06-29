@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204092337id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629034028id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
 
 # Lyrics, albums, songs, artists and more music | LetsSingIt
 
