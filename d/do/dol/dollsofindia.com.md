@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211227id_/http%3A//dollsofindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630014644id_/http%3A//dollsofindia.com/privacy.php) for the most accurate reproduction.*
 
 # Indian Art Store : Privacy Policy
 
@@ -58,22 +58,22 @@ INDIA**
 
 [Click here](http://www.dollsofindia.com/library/) **for list of archives**
 
-[](http://www.dollsofindia.com/dus-mahavidyas.htm)
+[](http://www.dollsofindia.com/ardhanarishvara-symbolism.htm)
 
-The name, "Mahavidyas", comes from the Sanskrit roots of Maha, which means great and Vidya, meaning, Wisdom, Knowledge, Manifestation or Revelation... The Mahvidyas, as a group, represents a vital turning point in the history of Shaktism, as it marks the rise of Bhakti in Shaktism. This movement reached its peak in 1700 C.E. Commencing during the post-Puranic era, in about the 6th century C.E., this new theistic movement envisioned the supreme being as a female... In Shaktism, the Divine Mother is jointly worshipped as a combination of ten different cosmic personalities... 
+Ardhanarishvara is a composite androgynous form of Shiva and his consort Parvati. This form is shown as a fusion of half-male and half-female forms, split down in the center... The very name Ardhanarishvara implies "the Lord who is half-woman"... The deity symbolizes the optimal balance of the male and female energies in this world and also indicates that they are essentially inseparable forces, which are complimentary to each other and must work together to maintain equilibrium...
 
   
 
 
 ## Testimonials
 
-It was a pleasure shopping on this site...Thanks
+I came across your site recently and thought it was excellent. You have tried to incorporate all the aspects of Goddess Durga which deserves special praise.
 
-Karen
+Poulami Kundu
 
-I received my order last week and wanted to say thank you. The packaging was excellent, and the jewelry set was more attractive than I had expected. Thank you for your prompt and most efficient...
+Your website was easy to navigate and easy to place an order on. Thanks.
 
-Vineeta Sharma
+Alice Hanchosky 
 
   
 
@@ -86,10 +86,10 @@ Vineeta Sharma
 
 [](http://www.dollsofindia.com/writetous.php)
 
-#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Balaji](http://www.dollsofindia.com/read/balaji.htm) - [Ganesha Picture](http://www.dollsofindia.com/read/ganesha-picture.htm) - [Shell Earring](http://www.dollsofindia.com/read/shell-earring.htm) - [Thermocol Cutting](http://www.dollsofindia.com/read/thermocolcutting.htm) - [Indian Clay Crafts](http://www.dollsofindia.com/read/indian-clay-crafts.htm) - [Indian Festivals](http://www.dollsofindia.com/read/indian-festivals.htm) - [Nitai](http://www.dollsofindia.com/read/nitai.htm) - [Kali Sculptures](http://www.dollsofindia.com/read/kali-sculptures.htm) - [Metal Bead Jewelry](http://www.dollsofindia.com/read/metal-bead-jewelry.htm) - [Gift Items](http://www.dollsofindia.com/read/gift-items.htm) 
+#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Batik Paintings](http://www.dollsofindia.com/read/batik-paintings.htm) - [Sholapith Sculptures](http://www.dollsofindia.com/read/sholapithsculptures.htm) - [Ethnic Doll](http://www.dollsofindia.com/read/ethnic-doll.htm) - [Lord Krishna](http://www.dollsofindia.com/read/lord-krishna.htm) - [Krishna Pictures](http://www.dollsofindia.com/read/krishna-pictures.htm) - [Indian Dolls](http://www.dollsofindia.com/read/indiandolls.htm) - [Devi Books](http://www.dollsofindia.com/read/devi-books.htm) - [Camel Bone Jewelry](http://www.dollsofindia.com/read/camel-bone-jewelry.htm) - [Parvati Sculpture](http://www.dollsofindia.com/read/parvati-sculpture.htm) - [Radha Krishna Picture](http://www.dollsofindia.com/read/radha-krishna-picture.htm) 
 
   
-**Copyright © 2010,[Dolls Of India](http://www.dollsofindia.com/)  
+**Copyright © 2011,[Dolls Of India](http://www.dollsofindia.com/)  
 Site designed and maintained by [UnlimitedFX](http://www.unlimitedfx.com/)**
 
   
