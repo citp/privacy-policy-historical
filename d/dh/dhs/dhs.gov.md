@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208010315id_/http%3A//www.dhs.gov/xutil/gc_1157139158971.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629080826id_/http%3A//www.dhs.gov/xutil/gc_1157139158971.shtm) for the most accurate reproduction.*
 
 # DHS | Web Site Privacy Policy
 
-## Privacy Office U.S. Department of Homeland Security
-
-The Privacy Office works to minimize the impact on the individual’s privacy, particularly the individual’s personal information and dignity, while achieving the mission of the Department of Homeland Security. [Read More >>](https://web.archive.org/xabout/structure/editorial_0338.shtm)
-
-## More from Homeland Security
-
-  * [Linking to Us](https://web.archive.org/xutil/gc_1157314911749.shtm)
-  * [Terms of Use](https://web.archive.org/xutil/gc_1157140900398.shtm)
-  * [More Important Notices](https://web.archive.org/xutil/notices.shtm)
-
-
-
-[](https://web.archive.org/files/programs/Copy_of_press_release_0046.shtm)
-
-The threat level in the airline sector is **High** or Orange. [Read more](https://web.archive.org/files/programs/Copy_of_press_release_0046.shtm).
+### On This Page:
 
   * Privacy Policy
   * Linking Policy
@@ -29,7 +15,7 @@ Thanks for visiting the Department of Homeland Security Web site and reviewing o
 
 ### Information Collected and Stored Automatically
 
-When you browse, read pages or download information on the Department of Homeland Security 's Web sites, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
+When you browse, read pages or download information on the Department of Homeland Security's Web sites, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
 
   * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Web site;
   * The type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site;
@@ -81,4 +67,4 @@ The information posted on the Department of Homeland Security Web site includes 
 
 Back To Top
 
-This page was last reviewed / modified on August 28, 2009.
+This page was last reviewed / modified on April 1, 2011.
