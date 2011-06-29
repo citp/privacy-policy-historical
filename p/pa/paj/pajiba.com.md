@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pajiba.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216060801id_/http%3A//www.pajiba.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajiba.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629122417id_/http%3A//www.pajiba.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Pajiba - Scathing Reviews for Bitchy People
+# Privacy Policy | Pajiba: Scathing Reviews, Positive Beat
 
 ## **PRIVACY POLICY**
 
