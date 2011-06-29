@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224032149id_/http%3A//www.busuu.com/enc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629042446id_/http%3A//www.busuu.com/enc/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Online language courses | online language learning with busuu.com
 
