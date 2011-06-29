@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231143443id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630012635id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
 
-# Adam4Adam A club for gay men
+# Adam4Adam - Free online dating & hookup, gay, chat, cam
 
 The Adam4Adam Privacy Policy may be found below. Your use of the Adam4Adam Site and services constitutes your acceptance of the terms and conditions of the Adam4Adam Privacy Policy, of our recently updated [User Agreement](http://www.adam4adam.com/?section=20&view\[20\]=6) and of the Adam4Adam [Community Guidelines](http://www.adam4adam.com/?section=20&view\[20\]=5). You are responsible for reviewing and becoming familiar with all of these terms. 
 
