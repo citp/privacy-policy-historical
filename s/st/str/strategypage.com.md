@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the strategypage.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904035601id_/http%3A//www.strategypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategypage.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629030529id_/http%3A//www.strategypage.com/privacy) for the most accurate reproduction.*
 
-# StrategyPage.com - Privacy
+# Privacy Policy
 
 Privacy Statement for StrategyPage
 
 **StrategyPage** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [StrategyPage](http://www.strategypage.com/)
 
-Information Automatically Logged
-
+Information Automatically Logged  
 We use your IP address to help diagnose problems with our server and to administer our Web site.
 
-Cookies
-
+Cookies  
 Our Site uses cookies to keep track of where you have been on our site.
 
-Advertisers
+Advertisers  
+We use third-party advertising companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-Registration Forms
-
+Registration Forms  
 Our site's registration form requires users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).
 
 Contact information from the registration forms is used to get in touch with the customer when necessary.
@@ -31,8 +29,7 @@ Unique identifiers (such as social security numbers) are collected from Web site
 Demographic and profile data is also collected at our site.   
 This information is shared with advertisers on an aggregate basis.
 
-Order Forms
-
+Order Forms  
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).
 
 Contact information from the order forms is used to get in touch with the visitor when necessary.
@@ -44,33 +41,27 @@ Unique identifiers (such as social security numbers) are collected from Web site
 Demographic and profile data is also collected at our site.   
 This information is shared with advertisers on an aggregate basis.
 
-Surveys
-
+Surveys  
 Demographic and profile data is also collected at our site.   
 This information is shared with advertisers on an aggregate basis.
 
-External Links
-
+External Links  
 This site contains links to other sites. **StrategyPage** is not responsible for the privacy practices or the content of such Web sites.
 
-Public Forums
-
+Public Forums  
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Security
-
+Security  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-Data Quality/Access
-
+Data Quality/Access  
 This site gives users the following options for changing and modifying information previously provided: 
 
   * You can send email to [support@strategyworld.com](mailto:support@strategyworld.com)
 
 
 
-Contacting the Web Site
-
+Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
   * [support@strategyworld.com](mailto:support@strategyworld.com)
