@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the job-applications.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609003718id_/http%3A//www.job-applications.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-applications.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629054800id_/http%3A//www.job-applications.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Job Applications.com
-
-## privacy policy
 
 Privacy Policy for www.job-applications.com
 
