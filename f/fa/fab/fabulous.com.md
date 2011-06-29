@@ -1,27 +1,30 @@
-> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126010036id_/http%3A//fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulous.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630013234id_/http%3A//fabulous.com/informationcenter/index.htm%3Fformdata%5Bqid%5D%3D190) for the most accurate reproduction.*
 
 # Fabulous - Information Center
 
 ### Dark Blue Sea - Privacy Policy
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale and search engine services.
+This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+
+The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
 
 The Dark Blue Sea group comprises a number of companies that includes:
 
 • Dark Blue Sea Pty Ltd ABN 47 091 509 796  
 • Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)  
 • Fabulous Parking Pty Ltd ABN 16 094 225 091  
-• Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)  
+• Fabulous.com.au Pty Ltd ABN 34 139 626 994  
 • Roar.com Pty Ltd ABN 99 094 225 064  
 • Pageseeker.com Pty Ltd ABN 45 090 513 849  
 • Darkblue.com Pty Ltd ABN 14 094 225 082  
-• Yexa.com Pty Ltd ABN 12 094 225 073
-
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+• Yexa.com Pty Ltd ABN 12 094 225 073  
+• Drop.com.au Pty Ltd ABN 79 135 424 878  
+• Yexa.com.au Pty Ltd ABN 84 137 606 172  
+• Whois Privacy Services Pty Ltd ABN 65 133 058 741
 
 #### ABOUT THIS PRIVACY POLICY
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the Australian Privacy Act 1988 (Cth). More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/). 
+This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/). 
 
 #### WHY WE NEED TO COLLECT PERSONAL INFORMATION
 
@@ -49,20 +52,17 @@ We collect and store personal information that is voluntarily provided by our cu
 
 We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
 
-**Website activity**
+**Website activity, cookies and related technology**
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.
+We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
+We also allow third parties with whom we have entered contractual arrangements (“Advertising Providers”) to serve advertising on our websites.  
+We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users’ browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
 
-**Cookies and iframes**
+Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
 
-We make use of cookies and iframes on our websites.  
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators. 
-
-By keeping a record of how and when visitors view our websites, cookies help us determine which web pages are popular and which are not. Many improvements and updates to our websites are based on such data as the total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide products and services that are better tailored to our customers’ and visitors’ needs.
-
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your internet browser.
-
-We also have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
+The National Advertising Initiative (“NAI”) offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to “opt-out” of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
+We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
 
 **IP Addresses**
 
@@ -78,7 +78,7 @@ Some services provided by us, such as certain message boards, may display IP add
 
 #### WHEN WE DISCLOSE PERSONAL INFORMATION
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure. 
+We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
 
 We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
 
@@ -86,15 +86,11 @@ Personal information that you provide to us may be shared among our related comp
 
 In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing technology escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers (“ICANN”)). The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA’s WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA’s guidelines on the collection, disclosure and use of WHOIS data. We are unable to provide our domain registration services to you without providing your personal information to these parties. 
+When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
 
 #### TRANSBORDER FLOW OF PERSONAL INFORMATION
 
 We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you. 
-
-#### EPP SHARING ARRANGEMENTS
-
-Fabulous.com.au Pty Ltd, as part of its drop.com.au business, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator (“auDA”), entered into EPP sharing arrangements with third party auDA accredited domain name registrars (Currently those registrars are: Domain8 Pty Ltd ACN 135 424 878, Domain Candy Pty Ltd ACN 137 606 172 and Netstart Pty Ltd ACN 111 018 154). “EPP” means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for the registrars involved in the EPP sharing arrangement to have access to the registrant information of domain names managed by other participating registrars. For this reason, agreements have been signed by the relevant parties to protect registrant privacy and whois integrity. 
 
 #### PROTECTING KIDS PRIVACY
 
@@ -142,28 +138,26 @@ We may refuse access to personal information in certain circumstances such as wh
 
 It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
 
-If you register a domain name with us, you will be provided with a unique registry key which may be used to access your personal information as well as to amend/update that personal information.
+If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
 
 #### PRIVACY COMPLAINTS
 
 If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
 
-• Emailing : [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)  
-• Telephoning 61 7 3007 0070  
-• Faxing 61 7 3007 0001  
-• Writing to us at:
-
+• Emailing privacy@darkbluesea.com  
+• Telephoning +61 7 3007 0070  
+• Faxing +61 7 3007 0001  
+• Writing to us at:  
 PO Box 757  
-Fortitude Valley QLD 4006
+Fortitude Valley QLD 4006 
 
 If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
 
-• Telephoning 1300 363 992  
-• Writing to:
-
+• Telephoning +61 1300 363 992  
+• Writing to:  
 Privacy Commissioner  
 GPO Box 5218  
-Sydney NSW 2001
+Sydney NSW 2001 
 
 #### YOUR ACCEPTANCE OF THESE TERMS
 
