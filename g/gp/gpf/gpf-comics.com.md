@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126114257id_/http%3A//gpf-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629035528id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
 
@@ -10,7 +10,7 @@ As a general rule, we here at **GPF** do not collect any information from you ot
 
 From time to time, we conduct polls of our readers which are totally anonymous. The questions may contain some demographic information, such as gender, age, general world location, how often you read the strip, etc. All information collected by these surveys is purely voluntary, stored securely on our server, and used solely for making this site as good as it can be. We will never sell or otherwise distribute this information outside our control unless it is aggregated and otherwise cannot be attributed to a single individual.
 
-In the event we may run future contests, we may require you to enter small amounts of personal information, such as your name and e-mail address. We may also attempt to brand your browser with a unique "cookie" ID or store your IP address to help prevent duplicate entries. When we do this, we promise to tell you up front exactly what's going on, and we will never do this without giving you such knowledge first. Any such personal information collected by such a contest will be stored securely on our server, impossible to access from outside sources, and will be promptly destroyed once the contest has been completed. Again, it will never be sold or distributed out of our hands.
+In the event we may run future contests, we may require you to enter small amounts of personal information, such as your name and e-mail address. We may also attempt to brand your browser with a unique "cookie" ID and/or store your IP address to help prevent duplicate entries. When we do this, we promise to tell you up front exactly what's going on, and we will never do this without giving you such knowledge first. Any such personal information collected by such a contest will be stored securely on our server, impossible to access from outside sources, and will be promptly destroyed once the contest has been completed. Again, it will never be sold or distributed out of our hands.
 
 Our [GPF Premium subscription service](http://www.gpf-comics.com/premium/) has a unique user-initiated account and requires us to collect a small amount of information about each user. We perform no tracking aside from what is required for this service to function properly. As stated above, we will never release any information about this service unless all personal information is removed and the data is aggregated.
 
@@ -35,7 +35,7 @@ Each advertiser usually maintains their own privacy policies and procedures. For
   * [ADSDAQ/ContextWeb Privacy & Security](http://www.contextweb.com/ppolicy.html)
   * [Burst Media Privacy Statement](http://www.burstmedia.com/isl/index.asp?page=privacy)
   * [Google Privacy Policy](http://www.google.com/privacypolicy.html)
-  * [Project Wonderful Terms of Service (includes privacy policy)](http://www.projectwonderful.com/tos.php)
+  * [Project Wonderful Privacy Policy](http://www.projectwonderful.com/privacypolicy.php)
 
 
 
