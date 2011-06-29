@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223082335id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630012932id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.*
 
 # NASDAQ OMX Privacy Statement
 
@@ -90,6 +90,8 @@ NASDAQ OMX uses an outside company (CyberSource Corporation) to process credit c
 **Third Party Advertising**  
 We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. The privacy statements can be accessed from www.doubleclick.com and [ http://www.tribalfusion.com/TribalFusion/privacy.html](http://www.tribalfusion.com/TribalFusion/privacy.html)
 
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
 **Links to Other Sites**  
 This Web site contains links to other sites that are not owned or controlled by NASDAQ OMX. NASDAQ OMX is not responsible for the privacy practices of non-NASDAQ OMX web sites linked to a NASDAQ OMX site. We encourage you to read the privacy statements of other linked web sites when you leave our Web site. This privacy statement applies only to information collected by this Web site. 
 
@@ -129,7 +131,7 @@ Website: <http://www.emi.nasdaq.com/>
 User Profile update: [ http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo](http://emi.nasdaq.com/Management.aspx?tab=home&page=updateUserInfo)  
 Email: [emi@nasdaq.com](mailto:emi@nasdaq.com)
 
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20101223082335id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20110630012932id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)  
 Email: [enastraq@nastraq.com](mailto:enastraq@nastraq.com)
 
 **Mailing address:**  
@@ -145,7 +147,7 @@ Website: <http://www.nasdaqinsurance.com/>
 Website: <http://www.nasdaqtrader.com/>  
 Website: [https://www.nasdaq.net](https://www.nasdaq.net/)  
 Website: <http://www.nasdaq.com/>  
-Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20101223082335id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
+Website: [www.nasdaqtrader.com/enastraq](https://web.archive.org/web/20110630012932id_/http%3A//www.nasdaq.com/sitespecific/www.nasdaqtrader.com/enastraq)
 
 Because NASDAQ wants to demonstrate its commitment to your privacy, we has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact the appropriate contact from the list above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.nasdaq.com). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
