@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrill.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231174204id_/https%3A//www.astrill.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrill.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629063232id_/https%3A//www.astrill.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Astrill.com - Privacy Policy
 
@@ -31,3 +31,10 @@
 **6\. Changes to our Privacy Policy**
 
 > 6.1. From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, and how we use it. 
+
+**7\. Security Policy**
+
+> 7.1. When purchasing from Astrill, you can make a payment by Credit Card/Debit Card (via [2CheckOut](https://www.2checkout.com/documentation/privacy.html)), [PayPal](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US), [Liberty Reserve](http://www.libertyreserve.com/en/home/privacypolicy), and [CashU](https://www.cashu.com/site/privacyPolicy). Your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128- bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please contact our customer support centre support@astrill.com.
+
+  
+Last Updated: January 2011
