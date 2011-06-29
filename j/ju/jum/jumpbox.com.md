@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211333id_/http%3A//jumpbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630014913id_/http%3A//www.jumpbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JumpBox Virtual Appliances and Applications for Cloud Computing
+# Our Privacy Policy : VM : Cloud Computing : JumpBox.com | JumpBox Virtual Appliances and Applications for Cloud Computing
 
 JumpBox, Inc. ("JumpBox") values the privacy of our Users, users, members, and others who use [www.jumpbox.com](http://www.jumpbox.com/ "www.jumpbox.com") (the "JumpBox Service") (collectively or individually "Users"). This statement governs information you provide to us or that we learn from your use of the JumpBox Service and tells you how we may collect, use, and in some instances share this information.
 
