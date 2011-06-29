@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbelt-software.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226174010id_/http%3A//www.sunbeltsoftware.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbelt-software.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629192442id_/http%3A//www.sunbeltsoftware.com/About/Privacy) for the most accurate reproduction.*
 
 # Sunbelt Software Privacy Statement
 
