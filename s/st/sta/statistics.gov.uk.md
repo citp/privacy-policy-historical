@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statistics.gov.uk privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130122322id_/http%3A//www.statistics.gov.uk/hub/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statistics.gov.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629161310id_/http%3A//www.statistics.gov.uk/hub/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy: UK National Statistics Publication Hub
 
@@ -12,6 +12,16 @@ National Statistics uses email addresses for the following reasons:
    2\. To gather statistical information regarding the use of the Web Site for internal use only
 
 National Statistics will not disclose your e-mail address to any third parties without first obtaining your permission.
+
+## Cookies
+
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
+
+In the next few months ONS will be declaring all cookies as part of a new government initiative.
+
+We use cookies to help you find what you’re looking for and get you to your previously visited pages quickly. We also use them to help us gauge user traffic and make further site improvements.
+
+In-depth information about each cookie we use will follow. In the meantime further reading regarding cookies and their uses can be found at [All About Cookies](http://allaboutcookies.org/ "About cookies").
 
 ## User information
 
