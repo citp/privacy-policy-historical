@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the micromaxinfo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125032217id_/http%3A//www.micromaxinfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromaxinfo.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629073939id_/http%3A//www.micromaxinfo.com/privacy.php) for the most accurate reproduction.*
 
-# Micromax: Privacy Policy
+# Micromax Mobile : Product Category -
 
 Micromax respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.
 
