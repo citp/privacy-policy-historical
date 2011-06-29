@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dohabank.com.qa privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021074438id_/http%3A//www.dohabank.com.qa/1/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dohabank.com.qa privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630000231id_/http%3A//www.dohabank.com.qa/1/Privacy.aspx) for the most accurate reproduction.*
 
 # Doha Bank Qatar > Home
 
