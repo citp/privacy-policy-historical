@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dishonline.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214050345id_/http%3A//beta.dishonline.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishonline.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629143031id_/http%3A//www.dishonline.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
-# Dish Online - Terms of Use
+# DISH Online - Terms of Use
 
 Welcome to DISHNetwork.com, a service of DISH Network and its subsidiaries (collectively, "DISH Network," "we," or "us"). This statement discloses the privacy practices for this web site only.
 
@@ -62,4 +62,4 @@ We may change this privacy statement from time to time. If we change this privac
 
 This privacy statement discloses the privacy practices for this web site only. We supply a copy of the privacy notice that applies to our DBS subscribers separately. You may view that privacy notice anytime at www.dishnetwork.com by clicking on the "Subscriber Privacy Notice" link at the bottom of the homepage.
 
-Version: February 2009
+Version: February 2011
