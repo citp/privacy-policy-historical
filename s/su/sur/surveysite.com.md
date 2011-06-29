@@ -1,59 +1,36 @@
-> *The following text is extracted and transformed from the surveysite.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002040901id_/http%3A//www.surveysite.com/newsite/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysite.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629133136id_/http%3A//www.comscore.com/About_comScore/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - comScore, Inc
 
-### Last updated: June, 2003
+comScore interacts with current and prospective clients, investors, and the general public via its Web site, comscore.com. This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com. comScore operates a number of research panels, each of which are governed by the privacy policy that appears on the Web site assigned to that research panel.
 
-At SurveySite Market Research we are committed to protecting your privacy. SurveySite Market Research is a professional online market research firm that conducts quantitative surveys and qualitative research discussions online. We conduct research globally, with research respondents/participants from around the world. We also build and maintain a large online consumer Web Panel. Our primary business is to conduct research studies in order to provide insights to our clients, ensuring that the personal identity of those participating in our surveys/research discussions is protected. Results from surveys and research discussions are not linked to the individual identity of the respondents or discussion participants without the informed consent of respondents/participants.
+**Privacy Commitment**  
+Privacy is a critical issue to every Internet user and comScore is committed to assuring that the privacy and confidentiality of visitors to this site are respected and preserved. Unless you give us explicit permission, we will not share your personally identifiable information such as name, address or e-mail address with third parties for any purpose. Information gathered from your activity is used for compiling anonymous statistics only and is not identifiable back to any individual. Registration information is used for verification purposes, for sending administrative e-mails to clients regarding our service, and for sending informational e-mails to prospective clients, investors, and the general public, if requested. 
 
-By using this site, you consent to the data practices described in this statement.
+**Collection, Use, Disclosure of Information**  
+comScore does not collect personally identifiable information about you unless you choose to provide us personally identifiable information through an online form or e-mail communication or you are accessing client-specific, secure content. We use cookies to ensure authorized access to client-specific secure content. Our use of cookies is explained in greater detail below. When accessing client-specific secure content, you are acting as a representative of your company and your interactions with our site in this capacity are governed by our relationship agreement with your company.
 
-### Information We Gather On This Web Site
+Our site also automatically creates logs regarding your and other user sessions on comscore.com, such as features that you use, the actions that you take, and the information that you access. We generally use this information in statistical and aggregate formats to assess the effectiveness of our site and to better understand your priorities and interests. 
 
-As a standard policy, we do not automatically collect personally identifiable information such as your name, address or e-mail address during visits to this Web site. Personally identifiable information is only collected with your full knowledge and permission, such as for the purpose of joining the Web Panel, or applying for a job. In registering to join the SurveySite Web Panel, a user is asked to provide contact information (such as name, e-mail address and browsing habits). This information is used to contact Web Panel participants about research projects and to select appropriate people to participate in the research. When registering to join the Panel, it is optional to provide other demographic information, such as income level and age. While optional, this information is helpful in our being able to contact people about research that would best match their interests.
+comScore does not sell, distribute or disclose your personally identifiable information collected from comscore.com to third parties without your consent. However, we may release information to a third party if required by a legal process such as a subpoena or a search warrant. Please note that visitors to comscore.com are not required to provide us personally identifiable information to use the public areas of our site. You can provide us information such as address, e-mail address, or telephone number if you would like to learn more about comScore’ products and services. 
 
-Under any circumstances where we do retain personal information, it is only used for internal purposes and is never sold or otherwise transferred to an outside company. 
+**Use of Cookies**  
+Cookies are pieces of data stored on a user’s hard drive that contain information about a user. In the case of secure content access, if your company is a client of comScore, we use a cookie that contains your login information, so we can ensure that client-specific information is secure from unauthorized access. We utilize an encrypted cookie to track client access to client-specific secure content. These cookies are used only for this purpose and are intended to be used only by our Web site. Please note that you can view and delete these cookies using the features of your browser. 
 
-Our Web server recognizes your Internet service provider and/or referrer's domain name, IP address and the identity of your Internet browser. This non-personal information helps SurveySite Market Research to determine the total number of visitors to its Web site and to individual pages.
+**Choice and Data Access**  
+As a representative of your company, you can view and modify your company profile information in the secure client area of our site. 
 
-### Choice/Opt Out
+**Data Security/Integrity**  
+comScore has physical, electronic, and managerial security functions in place to protect personally identifiable information from loss, misuse, alteration or destruction. Only authorized employees have access to the data you provided and that access is limited by need. Our employees who have access to the data you provided have agreed to maintain the confidentiality of such information. 
 
-Participants in our Web Panel who no longer want to participate in online surveys can unsubscribe by e-mailing us. Our team will delete Panel members permanently from our databases and they will not be asked to participate in any more research projects. To unsubscribe from the Web Panel, please notify us at [unsubscribepanel@surveysite.com](mailto:unsubscribepanel@surveysite.com).
+**European Data**  
+For personal information that comScore receives from the European Economic Area, comScore has committed to handling such personal information in accordance with the Safe Harbor Principles and the 15 FAQs. comScore’s Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
 
-### Participation in online surveys
+**Children**  
+comScore understands the importance of protecting children’s privacy in the online interactive world. This Web site does not intentionally target or solicit to children 13 and younger. 
 
-Separate to this Web site, SurveySite Market Research conducts online surveys and the following are the guiding principles by which we conduct our business:
+**Notification of Changes**  
+If we materially change our practices in handling personally identifiable information, as described in this statement, we will notify you by posting the changes on this Privacy Statement at least 30 days prior to their implementation.
 
-  1. All of the information collected in our surveys will only be used for research purposes.
-  2. We will never sell or otherwise transmit anyone's name or other personal information to a mailing list.
-  3. The only personally identifiable information we may use is an e-mail address in order to contact, for example, prize winners in a sweepstake draw; or if a person has provided permission for us to re-contact them for other purposes, such as to take part in a follow-up survey or to join an online research Panel.
-  4. For all other purposes only aggregate data are used or data where all personally identifiable or sensitive data have been removed.
-  5. We take all steps to protect security and integrity of the information that respondents/participants provide.
-  6. Respondents/participants have the right to check the data that have been collected and to correct inaccurate personal information.
-
-
-
-### Why we use cookies
-
-With interactive research, it is often necessary for us to associate short pieces of text, also known as "cookies," with users' Web browsers. A cookie allows us to recognize a Web browser, but does not give any personal identifying information about the user. Our most common use is to avoid inviting someone using that Web browser to take the same survey twice.
-
-### Correcting/Updating Personal Information
-
-If you have submitted personally identifiable information that subsequently changes (such as e-mail address) we provide a way to correct, update or remove that user's personal data. This can be done by e-mailing our Customer Support Department at [changeinfo@surveysite.com.](mailto:changeinfo@surveysite.com)
-
-### Security
-
-SurveySite Market Research is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure, both online and offline. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information over the Internet, such as your e-mail address, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-### Changes to the Privacy Statement
-
-We may occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. We encourage you to periodically review this Privacy Statement to stay informed about how we are protecting the personal information we collect.
-
-SurveySite Market Research welcomes your comments regarding this Privacy Statement. If you believe that SurveySite Market Research has not adhered to this Statement, please contact us by e-mail or postal mail, and we will make every reasonable effort to promptly determine and remedy the problem.
-
-SurveySite Market Research  
- _Attention_ : Privacy Officer  
-49 Sheppard Avenue East  
-Toronto, Ontario M2N 2Z8  
-CANADA  
-[privacyofficer@surveysite.com](mailto:privacyofficer@surveysite.com)
+**Contacting Us**  
+If you have questions regarding our Privacy Statement as it relates to your use of this site or comScore’ products and services, please submit a privacy inquiry. 
