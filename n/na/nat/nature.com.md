@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223231334id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629121957id_/http%3A//www.nature.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Nature.com
 
