@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ylighting.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925213202id_/http%3A//www.ylighting.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ylighting.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629204246id_/http%3A//www.ylighting.com/privacypolicy.html) for the most accurate reproduction.*
 
 # YLighting's Privacy Policy and Privacy Process | YLighting
 
@@ -6,8 +6,6 @@ YLighting presents: Artemide, Flos, Luceplan, LBL, Modern Fan Company, Tech Ligh
 
   
 
-
-The Best In Modern Lighting
 
 |   
 ---|---  
@@ -26,17 +24,19 @@ By using our web site, you consent to the collection and use of this information
 
  _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._  
   
+The Best In Modern Lighting
+
 Catalog Code: 
 
 ###### Energy Star
 
  **Energy Star** is a government-backed program helping businesses and individuals protect the environment through superior energy efficiency.
 
-###### Eco-Friendly
+######  Energy Efficient
 
-Eco Friendly items utilize energy efficient technology or sustainable manufacturing processes to provide a product that saves operating costs while being a more responsible environmental choice. This means that it can save you money while helping protect our planet's natural resources.
+Energy efficient lighting delivers exceptional design and performance while using 50%-75% less energy than incandescent or incandescent halogen bulbs. This means you can save money while helping protect our planet.
 
-Eco Friendly products include Compact Fluorescent light bulbs, LED light bulbs, and items that utilize sustainable materials such as bamboo or use post consumer recycled content.
+Our energy efficient lighting meets Title 24 efficacy standards and includes fluorescent, LED and high intensity discharge lighting options.
 
 ###### YLighting Exclusive
 
@@ -133,3 +133,9 @@ Lensed trims are for use in wet locations, such as showers, bathrooms and outsid
 ###### Scoop Wall Wash
 
 Scoop Wall Wash trims will have a shield inserted into the trim. This allows the light to be directed at an angle against a wall or large surface: paintings, large photos, etc.).
+
+SWAROVSKI ELEMENTS is the premium brand for the finest crystal elements manufactured by Swarovski. Available in a myriad of colors, effects, shapes and sizes. Formerly known as Strass® Swarovski® crystal, SWAROVSKI ELEMENTS have been the choice of designers since 1895. Machine-cut and polished to perfection, the logo is engraved in miniature in each piece to prevent imitations.
+
+SPECTRA® Crystal stands for machine cut Swarovski crystal with reliable Swarovski quality. SPECTRA® Crystal has been a registered trademark since 1999 and offers the most important cuts in clear crystal.
+
+DimmSystem Punkt 1 is a technologically advanced dimmer developed by Holtkoetter for use with a select number of its light fixtures. It features 'Point Dimming', with dimming control reduced to a single point on the arm of the fixture. A 'Soft On' feature turns the fixture on with a single touch and then gradually brightens to full brightness. A 'Soft/Delayed Off' turns the fixture off in the same way, dimming to 60% brightness and remaining at that level to allow you to exit the room; then gradually turns off. Pressing and holding the dimmer down activates a 'Dimming Cycle' which cycles the fixture through all dimming levels and stops at the light level of choice when the dimmer is released. DimmSystem Punkt 1 also includes a 'Tilt Switch' which will switch the light off if knocked over.
