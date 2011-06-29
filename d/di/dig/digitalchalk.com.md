@@ -1,31 +1,289 @@
-> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401210626id_/http%3A//about.netster.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629142241id_/http%3A//www.digitalchalk.com/downloads/legal/Privacy-Policy.pdf) for the most accurate reproduction.*
 
-# Netster®
+# OUR PRIVACY COMMITMENT TO OUR CUSTOMERS
 
-   |  **Netster® Privacy Policy and Terms of Use**
+Digitalchalk.com is committed to protecting your personal
+information. As a reminder, Digitalchalk.com does not request
+personal information via e-mail or telemarketing. If someone
+contacts you in this manner and requests personal information on
+behalf of DigitalChalk.com, DO NOT RESPOND! Delete, disregard
+or hang up. These questions are not from us. We want your
+personal information to remain private. If you have questions
+about Digitalchalk.com's privacy practices, contact us at 1-828-
+665-8292.
+OUR PRIVACY COMMITMENT TO OUR CUSTOMERS
+Digitalchalk.com follows these privacy principles both online and
+offline in the collection, use, sharing and security of customer
+information. The Digitalchalk.com site and staff:
+•  Provide you NOTICE of our customer information practices.
+•  Give you CHOICES about how your data may be used for
+   marketing purposes.
+•  Provide you the opportunity to UPDATE or CORRECT your
+   personal information.
+•  Use information SECURITY safeguards.
+•  Limit the SHARING of your information.
+•  Commit to COMPLYING with applicable privacy requirements.
+•  Provide you with means to CONTACT US about privacy-related
+   issues.
+We value the relationship we have with our customers and are
+committed to responsible information-handling practices. We take
+great care in safeguarding your personal information and in
+complying with all applicable federal and state privacy laws and our
+own internal standards and best practices.
+Digitalchalk.com is a subsidiary of the parent company Infinity
+Learning Solutions, Inc. and as such, if you provide information to
+any of the businesses, stores or Web sites owned or operated by
+Digitalchalk.com, this information may be combined or shared
+between current or future Infinity Learning Solutions, Inc. entities
 
-By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection Privacy Policy related to services offered directly by Netster.com. Please note that Netster.com contains links to other sites and may allow those sites to be co-branded with the Netster® name. Web sites that are linked to Netster.com may have privacy policies that differ from that of the Netster.com This privacy policy only covers services offered by Netster.com. 
 
-This privacy statement does not cover the privacy policies of Third party advertisers and or affiliates that advertise or list their products and services on Netster.com. Netster.com allows other companies that are presenting advertisements on some of our web pages to transmit, set and access their cookies on your computer. **Therefore, the following policies are those of Netster.com only**. 
+and subsidiaries. Digitalchalk.com operates via Web sites under the
+names Digitalchalk.com and Infinity Learning Solutions, Inc. as well
+as others.
+Each member of Digitalchalk.com and/or each Web site established
+by a member of Digitalchalk.com may have its own privacy policy,
+which it may modify as needed consistent with these principles.
+______
+DIGITALCHALK.COM PRIVACY POLICY
+The following Privacy Policy describes the information and privacy
+practices for Digitalchalk.com (the “Digitalchalk.com Web site”) and
+all other locations, occasions or events where your personal
+information is collected by, or on behalf of, Digitalchalk.com. When
+you provide us your personal information, you consent to the
+information practices described in this policy.
+This Privacy Policy may not apply to Web sites that are accessible
+through the Digitalchalk.com sites. Our Web sites contain links to
+other sites operated by third parties, including but not limited to
+third-party sites that display the Digitalchalk.com trademarks. We
+encourage you to read the privacy policies of those other sites to
+learn how they collect, use, share and secure your information.
+______
+WHAT INFORMATION DOES DIGITALCHALK.COM COLLECT FROM
+ME?
+We may collect personal information such as:
+•   Your contact information (name, mailing address, phone number,
+    e-mail address).
+• Your billing/shipping information (credit card number, shipping
+    address).
+• Your personal preferences (product preferences, site preferences
+    and likes or dislikes relating to the products we may offer).
+_____
 
-When you visit Netster® and/or use any of the Netster® offered search services, The Netster® (Netster.com) collects certain statistical data. At this point The Netster® cannot identify you personally, but rather only collect statistical information on the usage, and pattern of usage of its services. This information is automatically received by Netster.com from your browser and is kept on our server logs. This information includes your I.P. address, our cookies, time and date of your visit, web pages as well as search queries requested by you. The Netster® uses this information to improve its services to its users, which includes you. The Netster®, further uses this information to custom tailor its content and advertising and to analyze our traffic in aggregate. Recent browser releases allow you to reconfigure and set your browser in such a manner that will greatly limit the amount data Netster.com as well as other websites are able to collect. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be extremely limited and some features may not work properly. Please refer to the help section of your browser to learn how you can configure your browser so not to allow cookies to be placed on your computer. 
 
-**Cookies and single-pixel gifs**  
-Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie, (in addition to time, day of your visit and your I.P. address). Our site cannot determine your e-mail address unless you choose to type it in. The Netster® does not have access to the rest of your computer. The Netster®, its advertisers and or affiliates, may use single-pixel gif images, also called web beacons, to count Web page accesses and gather some general statistical information. Again, The Netster® does **not** gather personal information through the use of these images. The Netster® or our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer if the user has chosen to previously provide Netster® and/or its advertiser with such personal information. 
+WHEN DOES DIGITALCHALK.COM COLLECT INFORMATION FROM
+ME?
+While shopping or taking advantage of services available from us,
+we may ask that you provide personal information. For example, we
+request personal information when you:
+•  Set up an account online
+•  Purchase products or services
+•  Contact us with a question or concern
+•  Participate in other activities with Digitalchalk.com
+When submitting personal information through an online form, we
+will identify which fields are required in order to fulfill your request.
+_____
+HOW IS MY INFORMATION USED?
+We use the information you provide in order to:
+•  Fulfill requests for products, services or information
+•  Provide customer services
+•  Offer new products and services
+•  Improve the effectiveness of our Web sites, our marketing
+   endeavors and our services and offers
+•  Conduct research and analysis
+•  Send marketing communications
+•  Perform other business activities
+   ______
+DOES DIGITALCHALK.COM SHARE MY PERSONAL INFORMATION
+WITH OTHERS?
+Digitalchalk.com does not sell or rent your personal
+information to third parties.
+We may need to share your personal information with certain third
+parties such as our agents, service providers and other
+representatives acting on our behalf for limited purposes. For
 
-In addition to collecting anonymous statistical data, Netster.com also collects Personally Identifiable Information if you have chosen to provide The Netster® with such information. This information data tells us specifically who you are, i.e.; Your Name, E-Mail Address, Postal Address, etc. This Personally Identifiable Information is only collected, if YOU have chosen to provide it to The Netster®. This information is collected at the time **you** have **chosen** to sign-up for certain Netster.com products or services, such as e-mail, weather and financial personalized settings, browser updates, participation in a sweepstake or special offer. Netster.com uses this information to better understand your personal needs and in addition may use this information to send you product and service offers in the future. We may also use this information to provide to companies who work for or on behalf of Netster.com to provide special offers on product and services. 
 
-The sites displayed as search results or linked to by Netster.com and/or its affiliates are developed by third parties over whom The Netster® has no control. Third party affiliates or service providers, whom in some instances use complete automation, index most of the search results that appear on The Netster® results pages. The Netster® does not screen or censor any of this information, nor does The Netster® screen or censor any of the listings. The Internet is a worldwide system of computer networks in which any person can post information on their individual computer, which if connected to the Internet can be accessed by others, or, if they have permission, on the computers or computer networks of others. Today, the most popular portion of the Internet is the World Wide Web. This portion of the Internet is readily accessed with the use of a web browser. It is the goal of Netster.com to return to you the most relevant information and links to the web sites your search query has called for. However, we cannot guarantee that your search will not locate unintended or objectionable content. Further, certain materials accessible on the Internet is **NOT** appropriate for minors. The Netster® is concerned about your child's safety and does not accept banner advertisements containing adult content, however, has no control over your children's search queries, and the subsequent results of those queries. To limit and / or prevent your children's access to such materials, The Netster® suggest that you install commercially available hardware and/or software that has the ability to filter out such content. Such hardware / software products may be set to filter out content on weapons, sexual adult content, hate and racist content as well as violent content. They may also be set to disable chat sites, e-mail and message board forums. Netster.com and / or its affiliated companies assume no responsibility for your decision to utilize any "hyperlinks" to sites found on Netster.com results pages, or for the accuracy or usefulness of any materials contained in such sites. 
+example, we may share personal information with third parties to
+perform services on our behalf such as:
+•   Fulfilling our customers' orders
+•   Sending Digitalchalk.com marketing communications
+•   Fulfilling subscription services
+•   Conducting research, analysis or administering surveys
+•   Sending regular mail and e-mail on behalf of Digitalchalk.com
+•   Processing credit card payments
+The third parties with whom we conduct business are only
+authorized to use your information to perform the service for which
+they were hired. As part of our agreement with them, they are
+required to follow the privacy guidelines we provide them and to
+take reasonable measures to ensure your personal information is
+secure.
+  From time to time, we may be required to share personal
+information in response to a valid court order, subpoena,
+government investigation, or as otherwise required by law. We also
+reserve the right to report to law enforcement agencies any
+activities that we, in good faith, believe to be unlawful. We may
+share certain personal information when we believe that such
+release is reasonably necessary to protect the rights, property and
+safety of others and ourselves. We may also transfer personal
+information in the event of a corporate sale, merger, acquisition,
+dissolution or similar event.
+______
+DO I HAVE CHOICES REGARDING THE USE OF MY INFORMATION
+FOR MARKETING PURPOSES?
+Digitalchalk.com is an opt-out organization. Once we receive your
+information, we may send you marketing communications that
+contain valuable offers, promotions and other content. You always
+have the ability to opt-in or opt-out of receiving future marketing
+communications from Digitalchalk.com.
+To opt-out of or opt-in to receiving marketing communications from
+Digitalchalk.com, please take one of the following actions:
 
-**THE SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. NETSTER.COM DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
 
-Netster.com may amend this Agreement at any time, and at it sole discretion, by posting the amended terms on its Web site. All amended terms are automatically effective 7 days after they are initially posted. This Agreement may not be otherwise amended except in a written document signed by you and Netster.com 
+1) Follow the directions on a marketing e-mail or direct mail
+marketing communication from us. All marketing communications
+from Digitalchalk.com will tell you how to stop receiving them.
+2) Call 1-828-665-8292 and provide your current contact
+information.
+3) Send an e-mail with your current contact information and the
+subject “Opt-Out” to info@digitalchalk.com
+4) You may also send a request with your current contact
+information to:
+Digitalchalk.com
+Attn: Privacy Matters
+1463 Sand Hill Road, Suite 324
+Candler, NC 28715
+If you send an e-mail or letter request, please be sure to include
+your full name, address, phone number and e-mail address and
+indicate specifically what type of marketing communication(s) (e.g.
+e-mail, direct mail and/or phone) you wish to receive or stop
+receiving. This will ensure we identify you correctly in our systems
+and accurately process your request.
+Digitalchalk.com will take appropriate steps to implement your
+request to opt-out of or opt-in to receiving marketing
+communications. Please note that due to production, mailing and
+system timelines, in order to remove you from our marketing lists,
+it may take up to:
+•  10 business days for e-mails
+•  30 days for phone calls
+•  6 weeks for direct mail
+Until that change takes effect, you may still receive marketing
+communications from us.
 
-**CHILDREN'S PRIVACY**  
-Protecting the privacy of children is an extremely important issue. For that reason we do not structure any part of our subscriber or affiliate services to attract anyone under the age of 13. If parents believe their child (any age under 18) has accessed our system without their permission, they can contact our customer service department by e-mail at [emailsupport@netster.net](mailto:emailsupport@netster.net) **Visit** <http://www.ftc.gov/kidzprivacy> **for information from the Federal Trade Commission about protecting children's privacy online**. 
 
-* * *
+Also, please note that even though you may have opted out of
+receiving marketing communications, you may still receive
+business-related communications such as order confirmations,
+product recall information or updates or other organization-related
+communications.
+______
+HOW DOES DIGITALCHALK.COM SECURE MY PERSONAL
+INFORMATION?
+When you are shopping online, we have security measures in place
+and take reasonable precautions to protect against the loss, misuse
+and unauthorized access of your personal information under our
+control. Digitalchalk.com cannot ensure or warrant the security of
+any information you transmit to us by e-mail, and you do so at your
+own risk.
+Safe Purchase Policy on DigitalChalk.com
+Because the security of your personal information is a high priority,
+we have taken numerous steps to ensure that it is processed
+confidentially, accurately and securely. The Digitalchalk.com Web
+sites use encryption technology, such as Secure Sockets Layer
+(SSL), to protect your personal information during data transport.
+SSL encrypts ordering information such as your name, address and
+credit card number.
+Choosing a Personal Password on DigitalChalk.com
+When you create an online account on DigitalChalk.com, you need
+to select a personal password. To maximize your level of protection,
+you should choose at least 6-30 characters including a combination
+of both letters and numbers. You are solely responsible for
+maintaining the secrecy of your password or any account
+information.
+______
 
-  
-  
 
+DOES DIGITALCHALK.COM USE COOKIES, OTHER
+TECHNOLOGIES OR THIRD PARTIES TO COLLECT
+INFORMATION ABOUT ME?
+Cookies and Clickstream Technology
+A cookie is a small data file that a Web site or e-mail may send to
+your browser, which may then be stored on your hard drive. Our
+Web sites and e-mails use cookies to create a more personalized
+shopping experience for visitors to our site. Cookies simulate a
+continuous connection — they let us "remember" information about
+your preferences and session, and allow you to move within areas of
+our Web sites without reintroducing yourself.
+You may choose to set your Web browser to not accept cookies. If
+your cookies are disabled, you can still view our site but you may
+not be able to use all features of the site pages.
+Our Web site may also use other technologies to track which pages
+of our Web sites our visitors view. This anonymous clickstream data
+helps us understand how visitors use our Web site.
+Third-Party Ad Providers
+Our Web sites include third-party service providers with advertising
+on our website to be served across the Internet. If you click on
+these advertisements, you will be connected to those service
+providers. They may collect anonymous information about your
+visits to our Web site, and your interaction with our ads. These
+companies may use technologies similar to those outlined above to
+measure the effectiveness of ads and e-mails. They may also use
+information about your visits to this and other Web sites so that we
+can provide advertisements about goods and services.
+No personally identifiable information is collected in this process. We
+may share anonymous information with these service providers in
+an aggregate form, for purposes of analysis and improvement of our
+site.
+______
+
+
+HOW CAN I UPDATE MY INFORMATION?
+Digitalchalk.com wants your information and marketing preferences
+to be accurate and complete. We provide several different methods
+for you to update your personal information. To update your
+information:
+1) If you’ve created an account on DigitalChalk.com, you can
+update your information after logging into your account
+2) Call: 1-828-665-8292
+3) Send a request to:
+info@digitalchalk.com
+4) Send a request to:
+Digitalchalk.com
+Attn: Customer Care
+1463 Sand Hill Road, Suite 324
+Candler, NC 28715
+If you send an e-mail or letter request, please be sure to indicate
+your current information and the requested changes you would like
+made.
+____
+DOES DIGITALCHALK.COM COLLECT INFORMATION FROM
+CHILDREN?
+We will not knowingly or intentionally collect personal information
+online from children under the age of 13. We are committed to
+protecting the privacy of children.
+______
+WHOM MAY I CONTACT IF I HAVE QUESTIONS OR CONCERNS
+ABOUT THE PRIVACY OR SECURITY OF MY INFORMATION?
+
+
+Please contact our Privacy Manager to report any known or
+suspected privacy or security breaches or to submit privacy or
+security-related questions or complaints. After receiving your
+inquiry, we will respond within five business days. You may contact
+us in the following ways:
+1) Call: 1-828-665-8292
+2) Send a communication to: info@digitalchalk.com
+3) Send a letter to:
+Digitalchalk.com
+Attn: Privacy Manager
+1463 Sand Hill Road, Suite 324
+Candler, NC 28175
+______
+WILL THIS PRIVACY POLICY CHANGE?
+Because Digitalchalk.com will continue to implement new
+technologies and improve the services and features we provide, this
+policy is subject to change. If there are changes or additions to this
+Privacy Policy, we will post those changes here or in other formats
+for you to review. If we change our information practices or this
+Privacy Policy in such a way that your personal information may be
+used or shared in a different manner, we will give you the
+opportunity to opt-out of having your information used or shared in
+that new manner.
