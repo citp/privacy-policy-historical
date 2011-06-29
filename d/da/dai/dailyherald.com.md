@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226005512id_/http%3A//my.dailyherald.com/nfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629045514id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.*
 
-# Daily Herald | Member Services
-
-DailyHerald.com Privacy Policy 
+# DailyHerald.com Privacy Policy - DailyHerald.com
 
 Paddock Publications, Inc. ("Paddock Publications"), the owner of The Daily Herald and dailyherald.com, respects the privacy of individuals who visit our site. This Privacy Policy outlines the information that we collect through dailyherald.com and how we use that information, so that you can decide whether and how you wish to provide information to us. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using information obtained through dailyherald.com with your reasonable expectations of privacy.
 
-Your use of this site tells us you have read and accept the practices outlined in this Privacy Policy. 
+Your use of this site tells us you have read and accept the practices outlined in this Privacy Policy.
 
 ## Privacy Policy Quick Links:
 
@@ -54,16 +52,11 @@ _Legal Actions._ Paddock may disclose user information in connection with law en
 
 _Sale of Business._ In the event that Paddock, the bulk of its assets or one or more of its web sites is acquired by another company, Paddock may sell, transfer or otherwise disclose user information in connection with such transaction. 
 
-## **What choices do I have about Paddock collecting, using, and sharing my information?**
+## **What choices do I have about Paddock collecting, using, and sharing my information**
 
 It is possible for you to use much of dailyherald.com without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity, at the time we collect your information, to limit e-mail communications from Paddock and from our third party partners. You can request at any time that Paddock not send future e-mails to you either by unsubscribing from the communication or by contacting us. You may also correct or update any personally identifiable information provided by contacting Paddock's Internet Department Manager by e-mail, facsimile or mail as follows: 
 
-> Internet Department Manager  
->  Paddock Publications, Inc.  
->  155 E. Algonquin Road  
->  Arlington Heights, IL 60005  
->  Facsimile: (847) 427-2869  
->  e-mail: [webmaster@dailyherald.com](mailto:webmaster@dailyherald.com)
+> Internet Department Manager Paddock Publications, Inc. 155 E. Algonquin Road Arlington Heights, IL 60005 Facsimile: (847) 427-2869 e-mail: [webmaster@dailyherald.com](mailto:webmaster@dailyherald.com)
 
 ## **Yahoo! Ads and Opt-Out Policies**
 
