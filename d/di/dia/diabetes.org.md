@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the diabetes.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230164325id_/http%3A//www.diabetes.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629054216id_/http%3A//www.diabetes.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Diabetes Association
 
-### **Our Commitment to Privacy**  
-
+### **Our Commitment to Privacy**
 
 _Updated  November 20, 2009_
 
@@ -45,11 +44,7 @@ When you place orders or access your account information, we use a secure server
 
 
 
-We collect standard information, by way of a 
-
-_cookie_
-
-, to help us evaluate how our sites are being used. A cookie is a small uniquely identifiable text file that is stored on your machine. A cookie collects information that is used for statistical purposes and does not identify you in any way. 
+We collect standard information, by way of a cookie, to help us evaluate how our sites are being used. A cookie is a small uniquely identifiable text file that is stored on your machine. A cookie collects information that is used for statistical purposes and does not identify you in any way. 
 
 Our sites use cookies to keep track of your shopping cart and to make sure you don't see the same content repeatedly. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
@@ -68,7 +63,7 @@ The American Diabetes Association may provide aggregate statistics about our cus
 
 
 
-Protecting the privacy of the very young is especially important. We adhere to the 1998 Children's Online Privacy Protection Act (COPPA). (For more information, visit the Federal Trade Commission's [COPPA site](http://www.ftc.gov/coppa/). 
+Protecting the privacy of the very young is especially important. We adhere to the 1998 Children's Online Privacy Protection Act (COPPA). (For more information, visit the Federal Trade Commission's [COPPA site](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-online-privacy). 
 
 **Special Considerations for Parents and Legal Guardians Regarding Planet D and Diabetes** **Camp** **Message** **Boards**
 
