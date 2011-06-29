@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213034429id_/http%3A//www.conviva.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629125826id_/http%3A//www.conviva.com/legal/privacy) for the most accurate reproduction.*
 
 # Conviva - Privacy Policy
 
