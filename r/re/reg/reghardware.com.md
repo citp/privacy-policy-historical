@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122074854id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629070719id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
 ### The Register is owned and operated by Situation Publishing Limited
 
 Situation Publishing Limited   
-26 Union Street   
+36 Union Street   
 Southport   
 PR9 0QE
 
@@ -35,7 +35,7 @@ DoubleClick also has a cookie opt-out facility [here](http://www.doubleclick.com
 
 [Atlas DMT Privacy Policy](http://www.atlasdmt.com/privacy.aspx)
 
-If you encounter any problems with advertising please email [webmaster@theregister.co.uk](mailto:webmaster@theregister.co.uk)
+If you encounter any problems with advertising please email [ads@theregister.co.uk](mailto:ads@theregister.co.uk)
 
 ### Email and Online Forms
 
@@ -75,7 +75,7 @@ WorldPay provide The Register with their credit card processing facilities. [Pri
 
 ### IT Jobboard
 
-[theitjobboard.co.uk](http://www.theitjobboard.co.uk/) power the Reg Jobs hunting service. [Privacy Policy](http://www.theitjobboard.co.uk/browse/Privacy-and-Registration/en)
+[IT Jobs in the UK](http://www.theitjobboard.co.uk/) powering The Register's Jobs hunting service. [Privacy Policy](http://www.theitjobboard.co.uk/browse/Privacy-and-Registration/en)
 
 ### Rackspace
 
@@ -87,7 +87,7 @@ Anyone who provides The Register with personal information is given the opportun
 
 ### "Reg Jobs" Jobs by Email
 
-Anyone signing up for the "Reg Jobs" Jobs by Email service will be providing their data to both The Register & [theitjobboard.co.uk](http://theitjobboard.co.uk/). You can cancel or modify your Jobs by Email preferences at any time by visiting [this page](http://jobs.theregister.co.uk/cgi-bin/regcandlogin.cgi) and logging into your account.
+Anyone signing up for the "Reg Jobs" Jobs by Email service will be providing their data to [theitjobboard.co.uk](http://theitjobboard.co.uk/). You can cancel or modify your Jobs by Email preferences at any time.
 
 ### Pricegrabber
 
@@ -115,7 +115,7 @@ If you wish to contact Situation Publishing Limited regarding any aspect of the 
 
 The Data Controller   
 Situation Publishing Limited   
-26 Union Street   
+36 Union Street   
 Southport PR9 0QE
 
 ### By Email
