@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iphone-network.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228143234id_/http%3A//www.iphone-network.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone-network.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629053516id_/http%3A//www.iphone-network.net/privacy) for the most accurate reproduction.*
 
-# Privacy | iPhone Network
+# Privacy | iPhone-Network.net
 
 **Privacy Policy**
 
@@ -28,10 +28,3 @@ These third-party ad servers or ad networks use technology to the advertisements
 iPhone-Network.net has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. iPhone-Network.net privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-#### Incoming search terms for the article:
-
-  * [cache:7wEGiFP20YEJ:www iphone-network net/article/windows xp extended 23 of 44 html cat139lyleb@gmail com](http://www.iphone-network.net/privacy/ "cache:7wEGiFP20YEJ:www iphone-network net/article/windows xp extended 23 of 44 html cat139lyleb@gmail com")
-  * [iphon network](http://www.iphone-network.net/privacy/ "iphon network")
-
-
