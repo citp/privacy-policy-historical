@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123220709id_/http%3A//www.iolo.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629205613id_/http%3A//www.iolo.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# iolo technologies Privacy Statement
+# iolo technologies Privacy Policy
 
 This Privacy Statement applies to iolo technologies, LLC ("iolo") and its worldwide corporate affiliates ("we", "our" or "us"). This Privacy Statement does not apply to the products or websites of our business partners or to any other third parties, even if their products or websites are linked to or from our website. We recommend you review the privacy statements of the other parties with whom you interact. 
 
@@ -63,7 +63,7 @@ If you wish to exercise the access rights you have in law concerning the use of 
 
 ####  Selecting Your Communication Preferences
 
-You may choose to receive or not receive marketing communications from iolo by indicating your preferences via the following methods: 
+You may choose to receive or not receive marketing communications from iolo by indicating your preferences via the following methods:
 
   * The "My Account / My Communication Preferences" section on the iolo.com website allows you to choose whether to receive marketing communications from iolo.com, and to subscribe or unsubscribe to newsletters about our promotions and products; and
   * At any point, you can unsubscribe from newsletters by clicking on the unsubscribe link that appears at the very bottom of each message you receive from iolo. This link will take you to a web page containing information specific to your e-mail account where you can unsubscribe.
