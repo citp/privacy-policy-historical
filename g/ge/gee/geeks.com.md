@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223210350id_/http%3A//www.geeks.com/policies.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630011256id_/http%3A//www.geeks.com/policies.asp%23privacy) for the most accurate reproduction.*
 
 # Geeks.com
 
@@ -25,7 +25,7 @@ Sales and Return Policies:
 | Per product descriptions, compatibility can be reasonably assured in most cases but can never be guaranteed; a product that is incompatible in a specific hardware/software environment is not therefore inherently "defective".  
 | Geeks.com reserves the right to refuse service to anyone.  
 | Return Policies subject to change without prior notice. Customer should review these policies prior to making purchase.  
-| Geeks.com strives to be as accurate as possible in our content and pricing. In the event a product is listed with an error in pricing or incorrect content, Geeks.com shall have the right to refuse or cancel any order whether or not the order has been confirmed and credit card charged. In the event that a credit card has already been charged and an order subsequently canceled, Geeks.com will issue a refund to the credit card account in the amount of the charge.  
+| Geeks.com strives to be as accurate as possible in our content and pricing. In the event a product is listed with an error in pricing or incorrect content, Geeks.com shall have the right to refuse or cancel any order whether or not the order has been confirmed and credit card charged.  
   
 Customer Pickup ("Will Call") Policies:
 
@@ -37,16 +37,15 @@ Geeks.com is committed to protecting the privacy of our Visitors and Customers. 
 
 **Purpose**
 
-Geeks.com believes that our online [Visitors](https://web.archive.org/web/20101223210350id_/http%3A//www.geeks.com/policies.asp#visitors) and [Customers](https://web.archive.org/web/20101223210350id_/http%3A//www.geeks.com/policies.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.
+Geeks.com believes that our online [Visitors](https://web.archive.org/web/20110630011256id_/http%3A//www.geeks.com/policies.asp#visitors) and [Customers](https://web.archive.org/web/20110630011256id_/http%3A//www.geeks.com/policies.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.
 
 Many entities have examined the issue of privacy and developed guidelines for establishing reasonable policies. We believe that by addressing these issues, we will fulfill the goals of fair information use supported by the U.S. government and a variety of industry groups:
 
-[www.truste.org](http://www.truste.org/)  
 [www.privacyalliance.org](http://www.privacyalliance.org/)  
 [www.ftc.gov](http://www.ftc.gov/)  
 [www.the-dma.org](http://www.the-dma.org/)
 
-[**The Glossary of Terms**](https://web.archive.org/web/20101223210350id_/http%3A//www.geeks.com/policies.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
+[**The Glossary of Terms**](https://web.archive.org/web/20110630011256id_/http%3A//www.geeks.com/policies.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
 
 _Privacy Guidelines:_
 
@@ -55,7 +54,7 @@ Navigational Data/Tracking.
   
 Information Sharing/Disclosure. | We do not share navigational data with outside companies, except with those with whom we have contracted to analyze and safeguard the data on our behalf.  
 ---|---  
-| To offer our products and services in the best way possible, Geeks,com contracts with third party service partners. These partners provide us with data collection, storage, analysis and reporting services and are restricted from using your information in any way other than to help us make our site and services more useful to you and our other visitors. If you would like to opt-out of having your personal information collected by the company with whom we have contracted, please [click here](https://web.archive.org/web/20101223210350id_/http%3A//www.geeks.com/opt_out.asp).  
+| To offer our products and services in the best way possible, Geeks,com contracts with third party service partners. These partners provide us with data collection, storage, analysis and reporting services and are restricted from using your information in any way other than to help us make our site and services more useful to you and our other visitors. If you would like to opt-out of having your personal information collected by the company with whom we have contracted, please [click here](https://web.archive.org/web/20110630011256id_/http%3A//www.geeks.com/opt_out.asp).  
 | We do not disclose individual names or customer contact information (such as telephone numbers, email address, or various personal identification numbers), to any third party without your prior consent, except as required by law, or as needed to fulfill an order or deliver a product that a customer has ordered.
 
 Service partners will abide by Geeks.com's privacy policies.
