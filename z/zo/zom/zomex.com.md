@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zomex.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229074742id_/http%3A//www.zomex.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zomex.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629171616id_/http%3A//www.zomex.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Zomex Privacy Policy ~ Details About The Steps We Take To Protect Our Clients/Visitors Personal Information
 
-[Zomex](http://www.zomex.com/) > [Privacy Policy](https://web.archive.org/privacy-policy.php)
+You are here: [Zomex](http://www.zomex.com/) > [Privacy Policy](https://web.archive.org/privacy-policy.php)
 
 Your privacy is very important to us, below explains the information we collect from you, what we do with that information and our information security policy.
 
@@ -47,7 +47,7 @@ Your personal information is **safe with us** , your information is safely encry
 
 ## Cookies
 
-A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time much like the cookie used for our affiliate program. You can remove persistent cookies by following directions provided in your Internet browsers ï¿½helpï¿½ file. We set a persistent cookie to store your passwords, so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out.
+A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time much like the cookie used for our affiliate program. You can remove persistent cookies by following directions provided in your Internet browsers 'help' file. We set a persistent cookie to store your passwords, so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out.
 
 ## Log Files
 
@@ -59,11 +59,11 @@ Upon using our free services, you may be requested to participate in our periodi
 
 ## Communications From The Site
 
-When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. When supplying contact information to Zomex you can indicate your preference if you would like to be contacted to receive information and updates about our services by logging in to your Sequence Hosting account, going to your member profile page and choose not to receive any further notification emails from us or other information pertaining to Zomex. Information you submit to us will not be used for this purpose unless you indicate this as your preference. When supplying contact information to Sequence Hosting you can indicate your preference on your members profile page to participate in the Sequence Hosting newsletter. You will receive a confirmation email from us when placing an order on our site and paying through PayPal.
+When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. When supplying contact information to Zomex you can indicate your preference if you would like to be contacted to receive information and updates about our services by logging in to your Zomex account, going to your member profile page and choose not to receive any further notification emails from us or other information pertaining to Zomex. Information you submit to us will not be used for this purpose unless you indicate this as your preference. When supplying contact information to Zomex you can indicate your preference on your members profile page to participate in the Zomex newsletter. You will receive a confirmation email from us when placing an order on our site and paying through PayPal.
 
 ## Newsletter
 
-We provide you the opportunity to ï¿½opt-inï¿½ and ï¿½opt-outï¿½ of our newsletter at any time. Our newsletter is sent every month so it will certainly contain allot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at newsletter@zomex.com.
+We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month so it will certainly contain allot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at newsletter@zomex.com.
 
 ## Information Sharing and Disclosure
 
@@ -75,7 +75,7 @@ Zomex does not share, sell, rent, or trade personally identifiable information w
 
 ## How You Can Access /Correct Your Information
 
-You can access all your personally identifiable information that we collect by logging into your password-protected Zomex account and selecting to update your ï¿½My Detailsï¿½ We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+You can access all your personally identifiable information that we collect by logging into your password-protected Zomex account and selecting to update your �My Details� We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 ## Specific Terms and Conditions
 
