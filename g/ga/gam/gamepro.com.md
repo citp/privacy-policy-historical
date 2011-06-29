@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the gamepro.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218192021id_/http%3A//www.gamepromedia.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepro.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630003706id_/http%3A//www.gamepromedia.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Online Privacy Statement | GamePro Media - 20 Years of Making Games Fun
+
+## About Ad Choices 
+
+**About Our Advertising**
+
+GamePro Media strives to deliver the most relevant content and ads to our readers. The advertising included on our site enables us to deliver the reporting resources required to create the high-quality journalism, research and analysis our audience expects from us.
+
+Advertisements displayed on this site may be based on the content of pages you view or may be delivered by third parties and tailored to your interests. These third parties may also collect anonymous, non-personally identifiable information through cookies, web beacons, and other technologies about your online activities on this site, in order to deliver advertisements that are relevant to your interests.
+
+**Our Policies**
+
+GamePro Media follows the Self Regulatory Principles for Online Behavioral advertising. More information on the principles, and information and choices about interest-based advertising, can be found at the [Self Regulatory Program](http://www.aboutads.info/) site, including links to opt-out from services that deliver online behavioral ads.
+
+For additional information on cookies, web beacons and our collection and use of information, please read our Privacy Policy below.
 
 ## Online Privacy Policy
 
@@ -104,6 +118,6 @@ If you have any questions about this Statement, the practices of this site, or y
 
 GamePro Media  
 Customer Service Department  
-501 2nd Street, Suite 114  
+501 2nd Street, Suite 500  
 San Francisco, CA 94107  
 Email: privacy@gamepro.com
