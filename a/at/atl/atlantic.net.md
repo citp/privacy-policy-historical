@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlantic.net privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221073132id_/http%3A//www.atlantic.net/About-Us/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantic.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630014346id_/http%3A//www.atlantic.net/About-Us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | About Us
+# Privacy Policy
 
 Atlantic.Net values your business, respects your privacy, and is committed to maintaining the privacy and confidentiality of the personal data we collect. This privacy policy describes the way we collect information about you and how we use and disclose that information.
 
