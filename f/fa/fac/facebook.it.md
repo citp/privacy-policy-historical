@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the facebook.it privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235235id_/http%3A//www.facebook.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebook.it privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630184334id_/http%3A//www.facebook.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Facebook
 
 **Facebook’s Privacy Policy.**
 
-Date of last revision: April 22, 2010.
+Date of last revision: December 22, 2010.
 
-This policy contains eight sections, and you can jump to each by selecting the links below:  
+This policy contains nine sections, and you can jump to each by selecting the links below:  
 **  
 1\. Introduction  
 2\. Information We Receive  
@@ -16,25 +16,17 @@ This policy contains eight sections, and you can jump to each by selecting the l
 6\. How We Share Information  
 7\. How You Can Change or Remove Information  
 8\. How We Protect Information  
-9\. Other Terms
-
-1\. Introduction
-
-**
+9\. Other Terms** **1\. Introduction**
 
 **Questions.** If you have any questions or concerns about our privacy policy, contact our privacy team through this [help page](http://www.facebook.com/help/contact.php?show_form=privacy_policy_general). You may also contact us by mail at 1601 S. California Avenue, Palo Alto, CA 94304.
 
-**TRUSTe Program.** Facebook is a certified licensee of the TRUSTe Privacy Seal Program. This means that our privacy policy and practices have been reviewed by TRUSTe, an independent organization focused on reviewing privacy and security policies and practices, for compliance with its strict program requirements. This privacy policy covers the website [www.facebook.com](http://www.facebook.com/). The TRUSTe program covers only information that is collected through this Web site, and does not cover other information, such as information that may be collected through software downloaded from Facebook.
-
-If you have any complaints about our policy or practices please let us know through this [help page](http://www.facebook.com/help/contact.php?show_form=privacy_policy_general). If you are not satisfied with our response, you can contact [TRUSTe](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.facebook.com&sealid=102).
+**TRUSTe Program.** Facebook has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html). If you have questions or complaints regarding our privacy policy or practices, please contact us by mail at 1601 S. California Avenue, Palo Alto, CA 94304 or through this [help page](http://www.facebook.com/help/contact.php?show_form=privacy_policy_general).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).This privacy policy covers the website [www.facebook.com](http://www.facebook.com/). The TRUSTe program covers only information that is collected through this Web site, and does not cover other information, such as information that may be collected through software downloaded from Facebook.
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.facebook.com&sealid=102)
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.facebook.com&sealid=102)
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.facebook.com&sealid=102)
-
-**Safe Harbor.** Facebook also adheres to the Safe Harbor framework developed by the U.S. Department of Commerce and the European Union. As part of our participation in the Safe Harbor, we agree to resolve all disputes you have with us in connection with our policies and practices through TRUSTe. To view our certification, visit the U.S. Department of Commerce's Safe Harbor [Web site](https://www.export.gov/safehrbr/list.aspx).
+**Safe Harbor.** Facebook also complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.  As part of our participation in the Safe Harbor, we agree to resolve all disputes you have with us in connection with our policies and practices through TRUSTe. We will also provide initial responses to access requests within a reasonable period of time.  To view our certification, visit the U.S. Department of Commerce's Safe Harbor [Web site](https://www.export.gov/safehrbr/list.aspx).
 
 **Scope.** This privacy policy covers all of Facebook. It does not, however, apply to entities that Facebook does not own or control, such as applications and websites using Platform. By using or accessing Facebook, you agree to our privacy practices outlined [here](http://www.facebook.com/policy.php).
 
@@ -131,7 +123,7 @@ We provide you with a number of tools to control how your information is shared 
 
 **Exporting Information.** You (and those you make your information available to) may use tools like RSS feeds, mobile phone address book applications, or copy and paste functions, to capture, export (and in some cases, import) information from Facebook, including your information and information about you.  For example, if you share your phone number with your friends, they may use third party applications to sync that information with the address book on their mobile phone.
 
-**Advertisements.** Sometimes the advertisers who present ads on Facebook use technological methods to measure the effectiveness of their ads and to personalize advertising content. You may opt-out of the placement of cookies by many of these advertisers [here](http://www.networkadvertising.org/managing/opt_out.asp). You may also use your browser cookie settings to limit or prevent the placement of cookies by advertising networks.
+**Advertisements.** Sometimes the advertisers who present ads on Facebook use technological methods to measure the effectiveness of their ads and to personalize advertising content. You may opt-out of the placement of cookies by many of these advertisers [here](http://www.networkadvertising.org/managing/opt_out.asp). You may also use your browser cookie settings to limit or prevent the placement of cookies by advertising networks.  Facebook does not share personally identifiable information with advertisers unless we get your permission.
 
 **Links.** When you click on links on Facebook you may leave our site. We are not responsible for the privacy practices of other sites, and we encourage you to read their privacy statements.
 
@@ -149,7 +141,7 @@ We use the information we collect to try to provide a safe, efficient, and custo
 
 **To supplement your profile.** We may use information about you that we collect from other Facebook users to supplement your profile (such as when you are tagged in a photo or mentioned in a status update). In such cases we generally give you the ability to remove the content (such as allowing you to remove a photo tag of you) or limit its visibility on your profile.
 
-**To make suggestions.** We use your profile information, the addresses you import through our contact importers, and other relevant information, to help you connect with your friends, including making suggestions to you and other users that you connect with on Facebook. For example, if another user imports the same email address as you do, we may suggest that you connect with each other.  If you want to limit your visibility in suggestions we make to other people, you can adjust your search visibility [privacy setting](http://www.facebook.com/privacy/?view=search), as you will only be visible in our suggestions to the extent you choose to be visible in public search listings. You may also block specific individual users from being suggested to you and you from being suggested to them.
+**To make suggestions.**   We use your information, including the addresses you import through our contact importers, to make suggestions to you and other users on Facebook. For example, if another user imports the same email address as you do, we may suggest that you add each other as friends.  Similarly, if one of your friends uploads a picture of you, we may suggest that your friend tag you in the picture. We do this by comparing your friend’s pictures to information we’ve put together from the photos you’ve been tagged in.  We may also suggest that you use certain tools and features based on what your friends have used.  You can control whether we suggest that another user add you as a friend through your “search for you on Facebook” [privacy setting](http://www.facebook.com/settings/?tab=privacy&section=basic&h=f7361db5de2a2584ef38eaa2bb1872a0). You can control whether we suggest that another user tag you in a photo by clicking customize from your [privacy settings](http://www.facebook.com/settings/?tab=privacy).
 
 **To help your friends find you.** We allow other users to use contact information they have about you, such as your email address, to find you, including through contact importers and search.  You can prevent other users from using your email address to find you using the search section of your [privacy settings](http://www.facebook.com/settings/?tab=privacy&ref=mb).
 
@@ -209,11 +201,11 @@ We do our best to keep your information secure, but we need your help. For more 
 
 **9\. Other Terms**
 
-**Changes.** We may change this Privacy Policy pursuant to the procedures outlined in the Facebook [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php). Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here and on the [Facebook Site Governance Page](http://www.facebook.com/fbsitegovernance). You can make sure that you receive notice directly by becoming a fan of the [Facebook Site Governance Page](http://www.facebook.com/fbsitegovernance).
+**Changes.** We may change this Privacy Policy pursuant to the procedures outlined in the Facebook [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php). Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here and on the [Facebook Site Governance Page](http://www.facebook.com/fbsitegovernance). If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances. You can make sure that you receive notice directly by liking the [Facebook Site Governance Page](http://www.facebook.com/fbsitegovernance).
 
 **Consent to Collection and Processing in the United States.** By using Facebook, you consent to having your personal data transferred to and processed in the United States.
 
-**Defined Terms.** "Us," "we," "our," "Platform" and "Facebook" mean the same as they do in the [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php). “Information” and “content” are used more generally and interchangeably here than in the [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php) unless otherwise limited by the context.
+**Defined Terms.** "Us," "we," "our," "Platform" and "Facebook" mean the same as they do in the [Statement of Rights and Responsibilities](http://www.facebook.com/terms.php). “Information” and “content” are used more generally and interchangeably here than in the [Statement of Rights and Responsibilities ](http://www.facebook.com/terms.php)unless otherwise limited by the context.
 
 **Helpful links**
 
