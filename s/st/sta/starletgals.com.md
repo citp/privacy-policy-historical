@@ -1,44 +1,83 @@
-> *The following text is extracted and transformed from the starletgals.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618073113id_/http%3A//www.ztod.com/privacy.php%3F%26lid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starletgals.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630235855id_/http%3A//theater.aebn.net/dispatcher/helpPrivacyPolicy%3FtheaterId%3D18024) for the most accurate reproduction.*
 
-# ZTOD.com - Zero Tolerance On Demand! - Privacy Policy
+# Privacy | Pornstar Vid - Video on Demand
 
-**This Privacy Policy applies to the following websites: (1) www.ztod.com (collectively, the “Sites”, or individually, a “Site”).**
+**AEBN Privacy Policy**
 
-We are committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Sites. By accessing and using our Sites, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Sites. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting.  
-  
-| Information Collection and Use  
-We are the sole owner of the information collected on the Sites. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points throughout our Sites.  
-| Registration and Order Forms  
-In order to gain access to our Site, you may be requested to provide us with your date of birth. In addition, in order to purchase goods and services from our Sites, or to become a member of our Sites, a user must complete the on-line registration/order form. During registration, a user is required to provide us with certain contact information (which may include your name, mailing address, phone number, fax number, and e-mail address) and certain financial information (like your credit card number and the expiration date for your credit card). This information is used to set-up and maintain an account, verify credit card details, validate credit identity and to ship product. If we have trouble processing an order or otherwise need to contact a user, the contact information is used to get in touch with the user. From time to time, we may also ask that you provide us with additional information so that we can better tailor our services to meet your needs.  
-| Cookies  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Sites. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our Sites, we are able track IP addresses and browser preferences in order to enhance and personalize your experience at our Sites. We may also use cookies in order to track referral sites in order to properly compensate our affiliates. Please note that some of our business partners may also use cookies on our Sites (for example, advertisers). However, we have no access to or control over these cookies.  
-| Profiling  
-From time to time, we may combine personal information and preferences collected on-line with personal information and preferences collected off-line in order to enhance and personalize our services.  
-| Sharing  
-We may share aggregated demographic information with our sponsors. This is not linked to any personal information that can identify any individual person. We may also use an outside company or companies to process payments or to fulfill orders. From time to time, we may contract with another party to provide certain specific services to our users. If we have collected your personally identifiable information from one Site, that Site may share the information with other Sites within our network in order to provide you with additional goods and services for which we believe you may be interested.
+AEBN has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering practices for all of AEBN websites.
 
-Except as provided above, we do not currently sell or otherwise make available personally identifiable information about our users to third parties. Nevertheless, we reserve the right to make such information available to third parties in the future in order to enhance and personalize our services, or in the case of bankruptcy, sale of an asset, business or division, a merger or acquisition, or similar change of ownership.  
-  
-| Law Enforcement  
-We will cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. We will also notify the appropriate authorities if we suspect that any of our users are engaged in illegal activities, such as obscenity or child pornography.  
-| Links  
-The Sites may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our Sites they should read the privacy statements of each and every web site that collects personally identifiable information.  
-| Security  
-We agree to use commercially reasonable efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures. We encourage you to contact us if you are interested in learning more about our security measures.  
-| Third Party Sources of Information  
-From time to time and in order to enhance our services, we may supplement the information we receive from you with information we obtain from third party sources.  
-| Children  
-Our Sites are not intended for children. Our Sites do not target children, nor do we solicit data, or knowingly collect personally identifiable information from them. We encourage parents and legal guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit.  
-| Correction/Updating Personal Information  
-If a user’s personally identifiable information changes (such as phone number or a credit card number), or if a user no longer desires our service, you may contact us to correct or update this information.  
-| Choice/Opt-out  
-From time to time, we may send our users e-mail or other notices regarding new services, promotions, or other information which may be of general interest. Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us.  
-| Notification of Changes  
-We reserve the right to modify this Privacy Policy at any time by posting such changes on our Sites. Any changes to this Privacy Policy will become effective upon posting such changes. If you access or use any of our Sites, you are required to periodically check our Privacy Policy for any changes. If you continue to access or use any of our Sites after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy.
+AEBN has established a privacy policy with the mission of building member trust and confidence by promoting the use of fair information practices. If you have questions or concerns regarding this statement, you should first contact [billing@aebn.net](mailto:billing@aebn.net). 
 
-If we decide to use your personally identifiable information in a manner materially different from that stated in the Privacy Policy at the time that such information was collected, we will attempt to notify you of such changes. You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy. The notice will provide you with an opportunity to “opt-out” so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information. If you do not affirmatively “opt-out” pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice. (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our Privacy Policy, which shall also disclose information about how you may “opt-out” so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information. If you do not affirmatively “opt-out” pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice).  
-  
-| Contact Information  
-If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker.
+**This Theater is owned and operated by: AEBN**   
+AEBN   
+500 Archdale drive   
+Charlotte, NC 28217   
+Phone: 1.704.529.1600   
+Customer Service Department: 1.800.628.0241   
+[billing@aebn.net](mailto:billing@aebn.net)
 
-For www.ztod.com and its related sites, please send your e-mail to: [support@ztod.com](mailto:support@ztod.com).
+**Cookies**
+
+AEBN uses session cookies to make it easier for you to navigate our site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For more information on cookies [click here](http://www.howstuffworks.com/cookie.htm).
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
+
+Our site's registration form requires users to give us contact information (such as username and email address). We use customer contact information from the registration form to send the user special offers and updates from AEBN. The customer's contact information is also used to contact the person when necessary. 
+
+**Choice/Opt-out**
+
+As an individual, you have the opportunity to limit the personal information you provide. We provide you with the opportunity to 'opt out' of having your personally identifiable information used for certain purposes when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by contacting us at 704.529.1600, [billing@aebn.net](mailto:billing@aebn.net) or 500 Archdale Drive Charlotte NC, 28217.
+
+**_Information Collection & Use_**
+
+**Registration**   
+In order to use this Web site, you must first complete the registration form and create a user name and password. During registration you are required to give contact information including your name and email address. We use this information to contact you about the services on our site in which you have expressed interest. 
+
+AEBN is the sole owner of the information collected on www.aebn.net. AEBN collects personally identifiable information from our users at several different points on our Web site.
+
+Access to Personally Identifiable Information   
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on our member information page, emailing our Customer Support at [billing@aebn.net](mailto:billing@aebn.net), or contacting us by telephone or postal mail using the information located at the top of this page.
+
+**Surveys or Contests**   
+From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as zip code). 
+
+We use this information to notify contest winners and award prizes, monitor site traffic, personalize the site (in the case of anonymous information collected in surveys), and send participants an email newsletter.
+
+We may use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**   
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AEBN stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+
+Your friend may contact us at [billing@aebn.net](mailto:billing@aebn.net) to request that we remove this information from our database.
+
+**_Uses of Information_**
+
+**Email**   
+AEBN members and affiliates receive periodic email notices that include exclusive special offers and information about sales, promotions, new releases, and other relevant information. If you no longer wish to receive these emails, you may opt out by contacting us at 704.529.1600, [billing@aebn.net](mailto:billing@aebn.net) or 500 Archdale Drive Charlotte NC, 28217.
+
+**Non-personal information**   
+Like many web sites, we collect and analyze standard log file information and Session ID information to analyze site traffic, improve site performance, and prevent fraud. Session IDs are bits of code on your computer that assist your browser in navigating our site. We do not associate personal information with log file information or cookies, except when needed to prevent fraud.
+
+**Affiliate and Webmaster sign-up**   
+AEBN collects prospective affiliate and webmaster contact information to process applications and conduct business. This information includes: name, checks payable, address, city, state/province, country, minimum payout, password, source of referral, tax ID (EIN or social security number for U.S. residents), and date of birth.
+
+**Legal Disclaimer**   
+AEBN reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site.
+
+The AEBN web site(s) contains links to other sites. AEBN is not responsible for the privacy practices or the content of such web sites. Our site uses a secure online ordering system that enables clients to purchase minutes for viewing movies online, as well as rent and download movies. AEBN collects users financial information, such as account and credit card numbers, for verification purposes only. Financial information that is collected is used to bill the user for products and services, and never for any other reason. 
+
+**Security**   
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link: [Verisign](http://www.verisign.com/ssl/ssl-information-center/index.html). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of online transmission or electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our web site, you can email us at [billing@aebn.net](mailto:billing@aebn.net)
+
+**Changes in this Privacy Statement**   
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
