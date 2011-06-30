@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokerforum.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222000503id_/http%3A//www.brokerforum.com/tbf/privacy-policy-en.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokerforum.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630084921id_/http%3A//www.brokerforum.com/tbf/privacy-policy-en.jsp) for the most accurate reproduction.*
 
 # The Broker Forum Privacy Policy
 
