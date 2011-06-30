@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odditycentral.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208183343id_/http%3A//www.odditycentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odditycentral.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630214417id_/http%3A//www.odditycentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Oddity Central - Collecting Oddities
 
@@ -17,4 +17,4 @@ We do not request any personal information or collect any information that perso
 This site contains links to other sites. OddityCentral.com is not responsible for the privacy practices or the content of such websites.
 
 **Contacting our Website**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](http://www.odditycentral.com/get-in-touch).
