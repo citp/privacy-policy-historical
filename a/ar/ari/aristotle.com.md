@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202210802id_/http%3A//www.aristotle.com/content/view/31/152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630091525id_/http%3A//www.aristotle.com/content/view/31/152) for the most accurate reproduction.*
 
 # Privacy Policy and Data Restrictions - Aristotle - Now You Know
 
