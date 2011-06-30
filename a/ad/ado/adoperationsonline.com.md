@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adoperationsonline.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128093046id_/http%3A//www.adoperationsonline.com/internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoperationsonline.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630113829id_/http%3A//www.adoperationsonline.com/internet-privacy-statement) for the most accurate reproduction.*
 
-# Privacy | Ad Operations Online
+# Privacy
 
 AdOperationsOnline.com values and respects your privacy. This statement sets out our privacy practices with respect to the collection, use and disclosure of personal information on this site.
 
