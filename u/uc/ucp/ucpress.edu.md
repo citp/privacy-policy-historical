@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucpress.edu privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102155350id_/http%3A//www.ucpress.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucpress.edu privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630053859id_/http%3A//www.ucpress.edu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - University of California Press
 
