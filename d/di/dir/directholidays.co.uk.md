@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directholidays.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224003901id_/http%3A//www.directholidays.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directholidays.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630180620id_/http%3A//www.directholidays.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Holidays
 
