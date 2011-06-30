@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003085850id_/http%3A//www.apartmentguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630215448id_/http%3A//www.apartmentguide.com/privacy) for the most accurate reproduction.*
 
 # Apartments for Rent and Rentals - Free Apartment Finder | ApartmentGuide.com
 
@@ -15,6 +15,8 @@ Your IP or Internet Protocol address and other site usage data is used to gather
 ####  Cookies 
 
 Our site uses a technology called "cookies," small files stored by your browser to help keep track of your user profile. We use temporary cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same ad repeatedly. We also use cookies to track user trends and improve areas of our sites that our users find valuable. We do not share cookie information with anyone without your permission. 
+
+We work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice or about your choice to opt-out of this practice please click [here](http://www.networkadvertising.org/)
 
 ####  Ads 
 
