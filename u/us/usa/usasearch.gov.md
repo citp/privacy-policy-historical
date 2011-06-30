@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usasearch.gov privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104212309id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usasearch.gov privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630231826id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
 # Privacy and Security: USA.gov
 
@@ -29,9 +29,9 @@ Our customer satisfaction survey uses a persistent cookie that is stored on your
 
 ## If You Send Us Personal Information
 
-We do not collect personal information for any purpose other than to respond to you (for example, to respond to your questions or provide subscriptions you have chosen). If you choose to provide us with personal information—like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website—we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
+We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by placing an order for our catalog, ordering publications from our catalog, or sending us an e-mail. If you choose to provide us with personal information — like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website — we use that information to respond to your message, and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order. 
 
-While you must provide an e-mail address and ZIP code for a localized response to any incoming questions or comments to USA.gov, we recommend that you NOT include any other personal information, especially [Social Security numbers](http://www.ssa.gov/pubs/10002.html#giving "Social Security numbers"). 
+We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
   
 
@@ -51,6 +51,13 @@ Unauthorized attempts to upload information or change information on this servic
 ## External Links
 
 USA.gov links to many websites created and maintained by other public and/or private organizations as outlined in our [Linking Policy](https://web.archive.org/About/Linking_Policy.shtml "Linking Policy"). If you click a link to an outside website, such as Facebook or YouTube, you will leave the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+
+  
+
+
+## Social Media Sites
+
+While USA.gov manages presence on social media sites (e.g., [Facebook,](http://www.facebook.com/USAgov "Facebook") [Twitter,](http://twitter.com/USAgov "Twitter") [YouTube) ](http://www.youtube.com/USGovernment "YouTube") in order to share government information and engage with the public, we do not collect any Personally Identifiable Information through those sites. We also do not use personal information made availalbe by the user to these third-party sites.
 
   
 
