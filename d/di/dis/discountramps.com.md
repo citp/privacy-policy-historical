@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223121336id_/http%3A//www.discountramps.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630073302id_/http%3A//www.discountramps.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Discount Ramps.com - Privacy Policy
 
@@ -42,7 +42,7 @@ Information we collect on the Discount Ramps.Com LLC and it's Affiliate Sites ma
 
 
 Control your Personal Information  
-Discount Ramps.Com LLC offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences via the [Discount Ramps Contact Form.](https://web.archive.org/web/20101223121336id_/http%3A//www.discountramps.com/contact.htm) Please be sure to provide complete account information so we can identify you in our records. Alternatively, if you created an account with Discount Ramps.Com LLC you may log in to your account via the "[My Account](http://shopping.netsuite.com/app/site/query/checkoutredirect.nl?c=578694&ext=T&login=T)" area and make adjustments to your personal information online.  
+Discount Ramps.Com LLC offers its customers choices for the collection, use and sharing of personal information. You may go notify us of your preferences via the [Discount Ramps Contact Form.](https://web.archive.org/web/20110630073302id_/http%3A//www.discountramps.com/contact.htm) Please be sure to provide complete account information so we can identify you in our records. Alternatively, if you created an account with Discount Ramps.Com LLC you may log in to your account via the "[My Account](http://shopping.netsuite.com/app/site/query/checkoutredirect.nl?c=578694&ext=T&login=T)" area and make adjustments to your personal information online.  
 **Note:** You may also stop the delivery of future promotional e-mail from Discount Ramps.Com LLC by responding directly to any email you receive with a request to remove you from the mailing list.
 
 Do not share your Discount Ramps.Com LLC account password with anyone. Other than on the Discount Ramps.Com LLC and it's Affiliate Websites, Discount Ramps.Com LLC will never ask you for your password information.
@@ -59,14 +59,14 @@ When you visit DiscountRamps.Com LLC or it's Affiliates, you may be assigned a p
 How can I contact DiscountRamps.Com LLC with questions about my privacy?  
 If you have questions or comments about the DiscountRamps.Com LLC privacy policy, please contact us in any of the following ways:
 
-Online: [Contact Us](https://web.archive.org/web/20101223121336id_/http%3A//www.discountramps.com/contact.htm)
+Online: [Contact Us](https://web.archive.org/web/20110630073302id_/http%3A//www.discountramps.com/contact.htm)
 
 By Phone: 888-651-3431 
 
 By Mail:  
 DiscountRamps.Com LLC  
 760 S. Indiana Avenue  
-West Bend, WI 53095 
+West Bend, WI 53095
 
 Changes to the DiscountRamps.Com LLC Privacy Policy Statement  
 This Privacy Policy was last updated on May 19, 2009. Discount Ramps.Com LLC will occasionally update this Statement of Privacy to reflect company and customer feedback. If there are material changes to this Statement or in how Discount Ramps.Com LLC will use your personal information, Discount Ramps.Com LLC will prominently post such changes prior to implementing the change. Discount Ramps.Com LLC encourages you to periodically review this Statement to be informed of how Discount Ramps.Com LLC is protecting your information.
