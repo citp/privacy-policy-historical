@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117020332id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630070119id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DateHookup.com Privacy Policy
 
@@ -10,7 +10,11 @@ When you join DateHookup.com, you will have to submit certain personal informati
 
 **Do you share my info with other companies?**
 
-We don't give, sell, or share any information you submit to us to third parties. 
+We don't give, sell, or share any information you submit to us to third parties, unless requested by police or required by law. 
+
+**Member Screening**
+
+DateHookup.com does NOT screen its member profiles for accuracy in any way (that would be basically impossible) nor does it conduct any kind of background checks on members. Members use this site at their own risk. Use the same common sense you would use meeting people in the offline world. Background checks are not always accurate (someone could just submit fake personal information after all, plus not all criminal records are available online), so they should never be counted on to replace common sense and skepticism. ALWAYS meet someone new in a very public place, and let someone close to you know you are meeting someone. 
 
 **Why do you need my email address?**
 
