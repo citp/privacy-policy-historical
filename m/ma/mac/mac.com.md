@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mac.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222092601id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mac.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630082748id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
 
 # Apple - Apple Customer Privacy Policy
 
-Your privacy is important to Apple. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
+Your privacy is important to Apple. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/privacy/contact/) if you have any questions.
 
 ## Collection and Use of Personal Information
 
@@ -87,7 +87,7 @@ Apple makes it easy for you to keep your personal information accurate, complete
 
 ## Access to Personal Information
 
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at [www.apple.com/contact/myinfo](https://web.archive.org/contact/myinfo). For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made to the regional Privacy email addresses.
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at <https://appleid.apple.com/>. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional [Privacy Contact Form](https://web.archive.org/privacy/contact/).
 
 ## Children
 
@@ -115,19 +115,9 @@ To make sure your personal information is secure, we communicate our privacy and
 
 ## Privacy Questions
 
-If you have questions or concerns about Apple’s Privacy Policy or data processing, please contact us at the appropriate regional email addresses for your local Apple Data Controller listed below.
+If you have any questions or concerns about Apple’s Privacy Policy or data processing, please [contact us](https://web.archive.org/privacy/contact/).
 
-**Country or Region:**|  **Contact Information:**  
----|---  
-United States| [privacy@apple.com](mailto:privacy@apple.com)  
-Canada| [privacy-ca@apple.com](mailto:privacy-ca@apple.com)  
-Latin America| [privacy-la@apple.com](mailto:privacy-la@apple.com)  
-Europe| [privacyeurope@apple.com](mailto:privacyeurope@apple.com)  
-Japan| [privacy-japan@apple.com](mailto:privacy-japan@apple.com)  
-Australia| [privacy@apple.com.au](mailto:privacy@apple.com.au)  
-Asia/Pacific| [privacy@asia.apple.com](mailto:privacy@asia.apple.com)  
-  
-Apple may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+Apple may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
