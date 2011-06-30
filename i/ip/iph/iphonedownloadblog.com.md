@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonedownloadblog.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202142152id_/http%3A//www.iphonedownloadblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonedownloadblog.com privacy policy that was archived on 2011-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110711113038id_/http%3A//www.iphonedownloadblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
