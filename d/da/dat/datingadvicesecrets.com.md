@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datingadvicesecrets.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222162009id_/http%3A//www.datingadvicesecrets.com/men/site-info%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingadvicesecrets.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630134936id_/http%3A//www.datingadvicesecrets.com/men/site-info%23privacy) for the most accurate reproduction.*
 
-# About Us
+# Site Info
 
 ABOUT US
 
@@ -98,6 +98,9 @@ I’m also reachable by phone at 1-514-667-5568 from 10am – 6pm (Eastern Time)
 
 And via snail mail (not recommended:)):
 
-803 Pont-Viau  
-Laval, Quebec  
-H8N 2P9, Canada
+RKM  
++1.5146675568  
+Fax: +1.5146675568  
+276 Desmarteau  
+Laval, H7N5P7  
+CA
