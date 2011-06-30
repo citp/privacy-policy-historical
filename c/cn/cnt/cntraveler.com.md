@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cntraveler.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701191436id_/http%3A//www.concierge.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cntraveler.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630175420id_/http%3A//www.concierge.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy on Concierge.com
 
@@ -36,7 +36,7 @@ In addition, as our business changes, we may buy or sell various assets. In the 
 
 **III. COOKIES**
 
-You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
+You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your display name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
 
