@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espow.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010841id_/http%3A//www.espow.com/faq-cid-86.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espow.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630191944id_/http%3A//www.espow.com/faq.php%3FcID%3D86) for the most accurate reproduction.*
 
 # FAQ ESPOW
 
