@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617040815id_/http%3A//www.jobsdb.com/HK/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.com privacy policy that was archived on 2011-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110728025938id_/http%3A//www.jobsdb.com/HK/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # None
 
