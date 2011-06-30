@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urban.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229061312id_/http%3A//www.urban.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urban.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630171351id_/http%3A//urban.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # The Urban Institute | Privacy
 
