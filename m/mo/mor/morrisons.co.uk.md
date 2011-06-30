@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the morrisons.co.uk privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210020020id_/http%3A//www.morrisons.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morrisons.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630170657id_/http%3A//www.morrisons.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy policy - Morrisons
 
 * #### Introduction
 
   1. Wm Morrison Supermarkets Plc is committed to protecting and respecting your privacy.
-  2. This policy (together with the terms and conditions of use of our website under the domain name [http://www.morrisons.co.uk](https://web.archive.org/web/20101210020020id_/http://) (the “Website”)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+  2. This policy (together with the terms and conditions of use of our website under the domain name [http://www.morrisons.co.uk](https://web.archive.org/web/20110630170657id_/http://) (the “Website”)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
   3. Any changes to this privacy policy will be posted on the Website and will take effect immediately.
   4. For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Wm Morrison Supermarkets Plc, registered in England with company number 358949, whose registered office is at Hilmore House, Gain Lane, Bradford, West Yorkshire, BD3 7DL.
 
