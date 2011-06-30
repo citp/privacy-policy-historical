@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223032432id_/http%3A//www.eatright.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8664) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630172012id_/http%3A//www.eatright.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8664) for the most accurate reproduction.*
 
 # ADA Privacy Policy
 
