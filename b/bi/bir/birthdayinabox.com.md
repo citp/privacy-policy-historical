@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221180108id_/http%3A//www.birthdayinabox.com/info/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630070848id_/http%3A//www.birthdayinabox.com/info/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at Birthday in a Box
 
-Privacy Policy  
+Privacy Policy   
 
 
 > What Type of Information Do We Collect?  
