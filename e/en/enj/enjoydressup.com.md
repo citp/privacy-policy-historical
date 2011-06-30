@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enjoydressup.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318011147id_/http%3A//www.enjoydressup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoydressup.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630174713id_/http%3A//www.enjoydressup.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Dress Up Games | Girl Games
+# Privacy Policy | EnjoyDressUp.com
 
 **www.EnjoyDressup.com** is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **www.EnjoyDressup.com** protects your personal information. By accessing **www.EnjoyDressup.com** , you acknowledge and fully understand **www.EnjoyDressup.com** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
 
@@ -10,7 +10,7 @@ Websites visited through links from this website may or may not have their own p
 
 **What Information Is Collected?**
 
-We only collect personal information from registered members. Visitors are required to be 13 years or older to register. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use and help you register. During the registration we collect a full name, valid e-mail address, birth date, gender and country. Additionally, when visitors come to our site, we automatically collect some non-personally identifiable ;computer; information, such :
+We only collect personal information from registered members. Visitors are required to be 13 years or older to register. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use and help you register. During the registration we collect a full name, valid e-mail address, birth date, gender and country. Additionally, when visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
 
   * Your Internet protocol address.
   * The kind of browser or computer you use.
@@ -35,7 +35,7 @@ We may disclose information about our visitors, including personal information (
 
 **Cookies**
 
-Cookies are small text files that we place in visitor's computer browsers to store their preferences. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow web sites to ;remember; users activities on a web site as well as users visits to a site. We do not store any personal information into cookies or link cookies to any personal information that players submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences; however, some of the functioning of features on the web site may be affected.
+Cookies are small text files that we place in visitor's computer browsers to store their preferences. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow web sites to "remember" users activities on a web site as well as users visits to a site. We do not store any personal information into cookies or link cookies to any personal information that players submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences; however, some of the functioning of features on the web site may be affected.
 
 **Security**
 
