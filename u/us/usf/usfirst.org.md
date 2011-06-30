@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211051id_/http%3A//www.usfirst.org/aboutus/content.aspx%3Fid%3D868) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630125432id_/http%3A//usfirst.org/aboutus/content.aspx%3Fid%3D868) for the most accurate reproduction.*
 
 # USFIRST.org
 
