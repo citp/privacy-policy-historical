@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexpros.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227010504id_/http%3A//www.forexpros.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexpros.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630213738id_/http%3A//www.forexpros.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
