@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219191319id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630060419id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy Explains How Great Western Bank is Dedicated to Protecting Your Privacy
 
@@ -33,7 +33,7 @@ How?
 **For our everyday business purposes—**  
 such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
 **For our marketing purposes—**  
-to offer our products and services to you | No | We don't share  
+to offer our products and services to you | Yes | No  
 **For joint marketing with other financial companies** | No | We don't share  
 **For our affiliates’ everyday business purposes—**  
 information about your transactions and experiences | No | We don't share  
