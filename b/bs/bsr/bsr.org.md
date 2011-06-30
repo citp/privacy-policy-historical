@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212220654id_/http%3A//www.bsr.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630142902id_/http%3A//www.bsr.org/en/about/privacy-policy) for the most accurate reproduction.*
 
-# BSR: BSR Privacy Policy
+# Privacy Policy | BSR | Sustainability, Corporate Social Responsibility Network and Consultancy
+
+BSR is committed to your right to privacy and to the ethical use of information online. We adhere strictly to the following privacy practices.
+
+Last updated: June 2005
 
 ### No release of personally identifiable information to third parties
 
