@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbsdirect.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215004816id_/http%3A//www.mbsdirect.net/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbsdirect.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630130106id_/http%3A//www.mbsdirect.net/disclaimer.php) for the most accurate reproduction.*
 
 # MBS Direct | Disclaimer and Privacy Policy
 
