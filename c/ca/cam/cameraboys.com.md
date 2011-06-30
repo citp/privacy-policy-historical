@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cameraboys.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605074625id_/http%3A//www.cameraboys.com/policy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameraboys.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630071030id_/http%3A//www.cameraboys.com/policy.php%23privacy) for the most accurate reproduction.*
 
 # Gay Live Sex - Gay LiveSex Shows! - CameraBoys
 
