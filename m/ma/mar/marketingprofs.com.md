@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207033945id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630174126id_/http%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
 
-# MarketingProfs Privacy Policy
+# Privacy Policy : MarketingProfs
 
-**This policy was last updated on June 15, 2008**
+Published on June 15, 2008
 
 MarketingProfs, LLC has created this privacy statement in order to demonstrate our strong commitment to privacy. MarketingProfs.com is deeply committed to respecting and protecting your right to privacy and takes your privacy seriously. We have very strict privacy policies and we strive to keep your personal and financial information secure. To that end, we have prepared this privacy policy to disclose and describe our information gathering and dissemination practices for this website. 
 
@@ -10,7 +10,7 @@ MarketingProfs, LLC has created this privacy statement in order to demonstrate o
 
 **Collection of your Personal Information**
 
-You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy policy explains data collection and use in those situations. Please read the complete MarketingProfs.com privacy policy below in conjunction with our **[Terms and Conditions](https://web.archive.org/about/t_c.asp)**.
+You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy policy explains data collection and use in those situations. Please read the complete MarketingProfs.com privacy policy below in conjunction with our **[Terms and Conditions](https://web.archive.org/about/terms-of-use)**.
 
   * This privacy policy covers our treatment of personally identifiable information that we collect when you are on our site, and when you use our services. 
   * We pledge to hold all information you provide to us in absolute privacy. 
@@ -54,5 +54,5 @@ MarketingProfs will occasionally update this privacy policy. When we do, we will
 
 MarketingProfs, LLC welcomes your comments regarding our privacy policy.
 
-IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR SITE, YOU MAY CONTACT US IMMEDIATELY BY [**E-MAIL**](http://www.marketingprofs.com/about/contact/index.asp), AND WE WILL DO OUR BEST TO PROMPTLY DETERMINE AND CORRECT THE PROBLEM.  
+IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR SITE, YOU MAY CONTACT US IMMEDIATELY BY [**E-MAIL**](http://www.marketingprofs.com/about/contact), AND WE WILL DO OUR BEST TO PROMPTLY DETERMINE AND CORRECT THE PROBLEM.  
 
