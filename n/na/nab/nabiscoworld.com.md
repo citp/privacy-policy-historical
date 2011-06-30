@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211132208id_/http%3A//www.nabiscoworld.com/misccontent/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630233622id_/http%3A//www.nabiscoworld.com/misccontent/privacy_policy.aspx) for the most accurate reproduction.*
 
 # NabiscoWorld.com
 
@@ -103,4 +103,4 @@ E-mail us
 
 We would be happy to answer your questions or hear your concerns.
 
-© 2010 KF Holdings. 
+© 2011 KF Holdings. 
