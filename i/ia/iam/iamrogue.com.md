@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iamrogue.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204063809id_/http%3A//www.iamrogue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamrogue.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630125155id_/http%3A//www.iamrogue.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - iamROGUE.com
+# IAMROGUE.COM PRIVACY POLICY - iamROGUE.com
 
 ### Privacy 
 
