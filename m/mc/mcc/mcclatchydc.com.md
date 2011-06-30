@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231045553id_/http%3A//www.mcclatchydc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630112139id_/http%3A//www.mcclatchydc.com/privacy-policy) for the most accurate reproduction.*
 
-# McClatchy | Privacy Policy
+# McClatchy |
 
 ##### Effective Date: 10-28-2009
 
