@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadball.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809095520id_/http%3A//www.gadball.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadball.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630074313id_/http%3A//www.gadball.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Build a profile, search jobs, career tools for job seekers by GadBall
+# Privacy Statement | Untitled Page
 
 **Effective October 1, 2009:**
 
