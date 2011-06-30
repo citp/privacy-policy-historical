@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20daypersuasion.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119072751id_/http%3A//20daypersuasion.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20daypersuasion.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630134145id_/http%3A//www.20daypersuasion.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ We also will not, except for reasons stated below, disclose to third parties the
 
 \- it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by our business and appear to pertain to the commission of a crime. 
 
-We disclaim any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Our business will, however, review, delete or block access to communications that may harm our business, its customers or third parties. The grounds on which we may take such action include, but are not limited to, actual or potential violations of our [Terms And Conditions](https://web.archive.org/web/20101119072751id_/http%3A//20daypersuasion.com/termsandconditions.html) Policy. 
+We disclaim any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Our business will, however, review, delete or block access to communications that may harm our business, its customers or third parties. The grounds on which we may take such action include, but are not limited to, actual or potential violations of our [Terms And Conditions](https://web.archive.org/web/20110630134145id_/http%3A//www.20daypersuasion.com/termsandconditions.html) Policy. 
 
 **Purchases**
 
@@ -58,7 +58,9 @@ When purchasing products and services via our websites, your credit card/payment
 
 Please refer to ClickBank or Paypal for details of their privacy policy. 
 
-Our website contains links to this and other web sites which our privacy policy does *not apply. Our Privacy Policy cannot be extend beyond our domain, and web pages therein.
+Our website contains links to this and other web sites which our privacy policy does *not apply. Our Privacy Policy cannot be extended beyond our domain, and web pages therein.
+
+Our website contains links to affiliate sites that compensate us for sales made. A portion of any sales will go to help improve the lives of less fortunate people. 
 
 **Children's Guidelines**
 
