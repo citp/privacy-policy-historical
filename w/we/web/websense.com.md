@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217025737id_/http%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630104028id_/http%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy — Websense.com
 
@@ -163,4 +163,4 @@ USA
 
 In your email or letter state your question or concern as clearly as possible.
 
-*Websense Inc. subsidiaries include Websense International Limited, Websense Japan KK, Websense Canada, Websense UK Limited, Websense (Australia) Pty. Ltd., Websense Software Services India Private Limited, Websense Network Security Technology R&D (Beijing) Co. Ltd., Security Software Websense Israel Ltd., SurfControl Limited, SurfControl Israel Limited, SurfControl (Canada) Limited, SurfControl (Japan) Limited, SurfControl On-Demand Limited, SurfControl Inc., SurfControl Pty Ltd.
+*Websense Inc. subsidiaries include Websense International Limited, Websense International Technology Limited, Websense Japan KK, Websense Canada, Websense UK Limited, Websense (Australia) Pty. Ltd., Websense Software Services India Private Limited, Websense Network Security Technology R&D (Beijing) Co. Ltd., Security Software Websense Israel Ltd., SurfControl Limited, SurfControl Israel Limited, SurfControl (Canada) Limited, SurfControl (Japan) Limited, SurfControl On-Demand Limited, SurfControl Inc., SurfControl Pty Ltd.
