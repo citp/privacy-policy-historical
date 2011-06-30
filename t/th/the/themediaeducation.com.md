@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the themediaeducation.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224120018id_/http%3A//www.themediaeducation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themediaeducation.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630064227id_/http%3A//www.themediaeducation.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to TheMediaEducation.com
 
 Privacy Policy 
 
-The following Privacy Policy governs the online information collection practices of themediaeducation.com. Specifically, it outlines the types of information that themediaeducation.com (the “Site”) gathers about you while you are using the Site (the "Service"), and the ways in which this information is used or shared.
+The following Privacy Policy governs the online information collection practices of themediaeducation.com. Specifically, it outlines the types of information that themediaeducation.com (the "Site") gathers about you while you are using the Site (the "Service"), and the ways in which this information is used or shared.
 
 **Please read this Privacy Policy carefully. By visiting the Site, you agree to the terms of this Privacy Policy.**
 
