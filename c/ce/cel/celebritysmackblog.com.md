@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebritysmackblog.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222110132id_/http%3A//www.celebritysmackblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritysmackblog.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630101825id_/http%3A//www.celebritysmackblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Celebrity Smack: Gossip and Entertainment Blog
+# Privacy Policy : Celebrity Smack: Gossip and Entertainment Blog
 
 **What information do we collect?**
 
