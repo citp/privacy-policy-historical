@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivehelper.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221131303id_/http%3A//www.automotiveforums.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivehelper.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630021349id_/http%3A//www.automotiveforums.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # AutomotiveForums.com - Corporate - Privacy Statement
 
@@ -6,7 +6,7 @@
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
-Our site's registration form requires users to give us a valid email address. They are used for notifying our members of news/announcements on the site. The email addresses are kept at strict confidentiality and are never sold, rented, or given to any third party. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Our site's registration form requires users to give us a valid email address. They are used for notifying our members of news/announcements on the site and to assist in utilizing the forum functionality, which may include sharing the information with our trusted partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 This site contains links to other sites. **AutomotiveForums.com** is not responsible for the privacy practices or the content of such Web sites. 
 
