@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725062320id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630093512id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
 # DVD Media, CD Media | Shop4tech
 
@@ -63,10 +63,10 @@ Montclair CA 91763_
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-_Damon Nguyen  
+  
 Shop4tech Inc.   
 4664 Mission Blvd   
-Montclair CA 91763_   
+Montclair CA 91763   
 [webmaster@shop4tech.com ](mailto:%20webmaster@shop4tech.com)
 
 
