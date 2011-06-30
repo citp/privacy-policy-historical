@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanatansociety.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094005id_/http%3A//www.sanatansociety.com/Orders/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanatansociety.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630175353id_/http%3A//www.sanatansociety.com/Orders/privacy_statement.htm) for the most accurate reproduction.*
 
 # Sanatan Society Privacy Statement
 
