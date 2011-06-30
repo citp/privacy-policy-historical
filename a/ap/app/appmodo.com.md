@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appmodo.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230004821id_/http%3A//appmodo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmodo.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630153011id_/http%3A//appmodo.com/privacy) for the most accurate reproduction.*
 
 # Privacy : Appmodo – iPod Touch, iPad, iPhone Game Reviews, News & More for iPhone, Android, BlackBerry, Palm Pre, HTC, Windows 7 Phone
 
