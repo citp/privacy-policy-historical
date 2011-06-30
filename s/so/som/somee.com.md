@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the somee.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220192512id_/http%3A//somee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somee.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630020606id_/http%3A//www.somee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Somee.cop Privacy policy
 
-| 
-
-| 
-
-Privacy policy  
-  
----|---  
-  
 ## Customer Information
 
 Somee Int. is committed to do everything we can to maintain our customer's privacy.* 
