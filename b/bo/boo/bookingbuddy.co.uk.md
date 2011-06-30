@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookingbuddy.co.uk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221192024id_/http%3A//www.bookingbuddy.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookingbuddy.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630062439id_/http%3A//www.bookingbuddy.co.uk/privacy.php) for the most accurate reproduction.*
 
 # BookingBuddy privacy policy
 
