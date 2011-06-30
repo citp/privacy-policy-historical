@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmeter.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830122907id_/http%3A//www.privacypolicy.biz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmeter.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630075705id_/http%3A//www.privacypolicy.biz) for the most accurate reproduction.*
 
 # Privacy Policy
 
