@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122091101id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630032449id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,9 +38,9 @@ Age Concern Cymru (charity number 505071) and Help the Aged (charity number 2727
 
 The Age UK Group and its National Partners would like to keep in touch with you to let you know about the vital work we do for older people, our products and services. By submitting your email, address and phone number(s) on our Site, you are agreeing to being contacted in these ways by Age UK, its group of companies and its national partners. You can unsubscribe from these communications at any time.
 
-If you do not wish to continue receiving information from us or carefully selected third parties please email us at [info@ageuk.org](mailto:info@ageuk.org) or telephone us at 0800 107 8977. 
+If you do not wish to continue receiving information from us or carefully selected third parties please email us at [contact@ageuk.org.uk](mailto:contact@ageuk.org.uk) or telephone us at 0800 169 87 87. 
 
- Occasionally, we may share your data with other organisations that we work with, please tick this box if you are happy for us to do this [  ]
+ Occasionally, we may share your data with other organisations that we work with. We will usually inform you (before collecting your data) if we intend to share your data with any third party. You can exercise your right to prevent such processing by ticking (or not ticking where applicable) certain boxes on the forms we use to collect your data. You can also exercise your right to ask us to stop processing your data in this way at any time by [contacting us](mailto:contact@ageuk.org.uk).
 
 Age UK, a number of its trading and associated companies and its National Partners are registered as a Data Controller with the Information Commissioner. Age UK is the Data Controller for the purposes of collecting your information on our Site(s)
 
@@ -106,7 +106,7 @@ If you are aged 16 or under‚ please get your parent/guardian's permission befo
 
 #### 10\. Contact us 
 
-If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an e-mail to us at [info@ageuk.org.uk](mailto:info@ageuk.org.uk) or telephone us at **0800 107 8977**. 
+If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an e-mail to us at [contact@ageuk.org.uk](mailto:contact@ageuk.org.uk) or telephone us at **0800** 169 87 87. 
 
 #### 11\. Transferring your information outside of Europe 
 
