@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222001211id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630135555id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Al Sears, MD
+# Privacy Policy | Health Newsletter
 
   * Dr. Sears recognizes the importance of protecting your personal information and your trust in us. Therefore, we take the responsibility of handling your personal information extremely seriously.
 
