@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmentalgraffiti.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223133540id_/http%3A//www.environmentalgraffiti.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalgraffiti.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630165423id_/http%3A//www.environmentalgraffiti.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Environmental Graffiti
 
