@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223065900id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630152400id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Discountcell.com
 
@@ -151,7 +151,7 @@ We keep your device running with only authentic, top quality **[cell phone acces
 
 [Cell Phone Antennas and Signal Boosters](http://www.discountcell.com/cellular/cell-phone-antennas.htm "Cell Phone Antennas and Signal Boosters")  |  [Cell Phone Batteries](http://www.discountcell.com/cellular/cell-phone-batteries.htm "Cell Phone Batteries")  |  [Cell Phone Bluetooth](http://www.discountcell.com/cellular/cell-phone-bluetooth.htm "Cell Phone Bluetooth")  |  [Cell Phone Cases](http://www.discountcell.com/cellular/cell-phone-cases.htm "Cell Phone Cases")  |  [Cell Phone Chargers](http://www.discountcell.com/cellular/cell-phone-chargers.htm "Cell Phone Chargers")  |  [Cell Phone Covers and Gels](http://www.discountcell.com/cellular/phoneMakeCat/12 "Cell Phone Covers and Gels")  |  [Cell Phone Data Accessories](http://www.discountcell.com/cellular/phoneMakeCat/5 "Cell Phone Data Accessories")  |  [Cell Phone Holsters](http://www.discountcell.com/cellular/cell-phone-holsters.htm "Cell Phone Holsters")
 
-   [Terms and Conditions](http://www.discountcell.com/legal.htm)  |  [Warranty Information](http://www.discountcell.com/warranty.htm)  |  [Return Authorization](https://www.discountcell.com/secure/cust/Ra.htm)   |  [Site Map](http://www.discountcell.com/sitemap.htm "Site Map")  |  [Privacy Policy](http://www.discountcell.com/privacy.htm) 
+   [Terms and Conditions](http://www.discountcell.com/legal.htm)  |  [Warranty Information](http://www.discountcell.com/warranty.htm)  |  [Return Authorization](https://www.discountcell.com/secure/cust/Ra.htm)   |  [Site Map](http://www.discountcell.com/sitemap.htm "Site Map")  |  [Privacy Policy](http://www.discountcell.com/privacy.htm)  |  [Certfication](http://www.discountcell.com/associations.htm) 
 
 *$.99 cent shipping (free over $50) only applies to orders shipping within the Continental US.
 
