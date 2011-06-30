@@ -1,37 +1,23 @@
-> *The following text is extracted and transformed from the hostvoice.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212082813id_/https%3A//hostvoice.com%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostvoice.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630080833id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
 
-# Host Voice - Privacy Policy
+# Privacy Policy | iNET Interactive
 
-Looking For A New Web Hosting Company? Save time and money with our web site hosting service comparison! Compare web hosting quotes from 4 featured web hosting companies. Submit your FREE, NO OBLIGATION request now.
+This Privacy Policy governs the manner in which iNET Interactive collects, uses, maintains and discloses information collected from users of the iNET Interactive Web Site (each, a “User”). 
 
-**What is the purpose of this Privacy Policy?**
+**Privacy**  
+iNET Interactive is committed to safeguarding the information Users entrust to iNET Interactive and believes every User should know how iNET Interactive utilizes the information collected from the Web Site. This Web Site is not directed at children under 13 years of age. 
 
-HostVoice has created this privacy policy in order to demonstrate our firm commitment to our users. **Your privacy is our top concern** and we want you to be fully aware of how your information is being treated. The following **discloses our information gathering and dissemination practices** for this website: www.HostVoice.com/.net. Please continue reading for complete details on the HostVoice privacy policy. 
+**The Information We Collect**  
+iNET Interactive may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. iNET Interactive may also collect information about how Users use our Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains from which Users originate. We may use “cookies” to track how Users use our Web Site. A cookie is a piece of software that a Web server can store on the Users’ PC and use to identify the User should they visit the web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web Site. We currently use third party ad software to serve ads on our site. The cookies received with banner ads served by this software is used to collect and build anonymous behavioral profiles by these companies to deliver targeted ads and tracking referrals. 
 
-**What information do we collect?**
+**How We Use Information**  
+iNET Interactive may use personally identifiable information collected through our Web Site to contact Users regarding products and services offered by iNET Interactive and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users’ experience with iNET Interactive and such affiliates, independent contractors and business partners. iNET Interactive may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of iNET Interactive, its trusted affiliates, independent contractors and business partners. 
 
-When you submit a hosting request, you are required to enter your full name and eMail address. Optionally, you may choose to enter your phone number and instant messenger information. This data is **securely stored** on our servers for a limited period of time.
+**Disclosure of Information**  
+iNET Interactive may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of iNET Interactive’ business.  
+**  
+Maintenance of Information**  
+Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
-**How is my information treated?**
-
-Your privacy is a **very important issue** to us and we take all of the necessary precautions to make sure your **information is secure**. We **only** work with trustworthy companies that share our concerns regarding your privacy. Rest assured, that your **contact information will only be used** to provide you with up to 4 hosting quotes. **You will not receive any spam or unsolicited letters from us. Period.**
-
-**How do hosting companies treat my information?**
-
-HostVoice releases a limited amount of information to our partners (hosting companies) that use it to send you a custom hosting proposal based on your request. We work with well-known partners that have built a solid reputation over the past years and will treat your information with the same care, as we do. 
-
-**Does the HostVoice website use cookies? If so, how are cookies used on the website?**
-
-Cookies are pieces of information that a website transfers to a user's hard drive for record-keeping purposes while visiting a site. Like most major websites, HostVoice uses cookies on certain pages of our site. Cookies make using the Internet easier by, among other things, saving your passwords and preferences for you. For example, a cookie lets the HostVoice website remember that you've registered, which allows us to speed up your future activities at our site, and which allows you to enter your password less frequently while visiting our website. We may also use cookies to deliver content specific to your interests. Our cookies do not contain any content specific information. Our cookies do not contain any personally identifying information although cookies may enable us to relate your use of our website to personally identifying information that you previously submitted. For example, it enables us to enhance personalization on the website, such as calling you by name when you return to our site. Most browsers are initially set up to accept cookies, although your browser may permit you to decline cookies. If you do decline cookies, your use of our site may be slowed because you may need to re-enter information. 
-
-**What are the policies of linked sites and other third parties?**
-
-This privacy policy only addresses the use and disclosure of information we collect from you. Although you may interact with hosting suppliers as a result of visiting our site, or link to other sites or third parties via our website, HostVoice is not responsible for the privacy practices of third parties or the content of linked sites. We encourage you to read the posted privacy policy whenever interacting with any website. 
-
-**To whom does HostVoice release information?**
-
-HostVoice only releases specific customer information to third parties, such as Hosting suppliers when you select a supplier. The information transfer is necessary in order to facilitate your transaction to the new supplier and complete account set-up. Please be aware that despite our best intentions and the guidelines outlined in this privacy policy, no data transmission over the Internet can be guaranteed to be 100% secure. Moreover, we may be legally obligated to disclose information to the government or to third parties under certain circumstances, such as illegal activity on our Site. HostVoice reserves the right to release personally identifiable information to law enforcement or other government officials, as HostVoice, in our sole and absolute discretion, deems necessary or appropriate. By submitting a HostVoice request, you agree to submit your contact details to the featured third party service providers. 
-
-**How will I know about changes in the Privacy Policy?**
-
-HostVoice reserves the right to update this privacy policy from time to time. Please visit this page periodically so that you will be apprised of any changes. However, we will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the time the information was collected. If at any point we should decide to use that information differently, we will notify users by way of E-mail so that users can approve or disapprove of such use.
+**Questions**  
+Users may direct questions concerning this Privacy Policy by email to privacy@inetinteractive.com. 
