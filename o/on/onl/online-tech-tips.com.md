@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-tech-tips.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210222748id_/http%3A//www.online-tech-tips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-tech-tips.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630223201id_/http%3A//www.online-tech-tips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ Spam in any form will not be accepted.
 
 Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted in this blog. If you find anything that could be considered a violation of the copyright norms, please [contact m](http://www.online-tech-tips.com/contact-me/)e immediately.
 
-» Filed Under [Cool Websites](http://www.online-tech-tips.com/category/cool-websites/ "View all posts in Cool Websites") | [Leave a Comment](http://www.online-tech-tips.com/privacy-policy/#respond "Comment on Privacy Policy")
+» Filed Under | [Leave a Comment](http://www.online-tech-tips.com/privacy-policy/#respond "Comment on Privacy Policy")
