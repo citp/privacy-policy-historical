@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianmotorcycle.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230173210id_/http%3A//www.indianmotorcycle.com/index.php%3Fsrc%3Dgendocs%26ref%3DPrivacy%2520Policy%26category%3DAbout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmotorcycle.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630020445id_/http%3A//www.indianmotorcycle.com/index.php%3Fsrc%3Dgendocs%26ref%3DPrivacy%2520Policy%26category%3DAbout) for the most accurate reproduction.*
 
 # Indian Motorcycle Privacy Policy
 
