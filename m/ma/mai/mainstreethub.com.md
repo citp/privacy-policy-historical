@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreethub.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129022907id_/http%3A//www.mainstreethub.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreethub.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630060304id_/http%3A//www.mainstreethub.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Main Street Hub
 
