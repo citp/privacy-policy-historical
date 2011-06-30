@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the urbanoutfitters.com privacy policy that was archived on 2010-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100218114020id_/http%3A//www.urbanoutfitters.com/urban/help/privacy_security.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urbanoutfitters.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630211911id_/http%3A//www.urbanoutfitters.com/urban/help/privacy_security.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -9,28 +9,30 @@
 	<meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="Expires" content="-1">
 	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta name="google-site-verification" content="-bZBDubp9-_NZK9PNWE6ELnpVfFImWqHIGFsZoN9C7g">
 	
-<title>UrbanOutfitters.com &gt;  Help/Info &gt;  Privacy &amp; Security</title>
-		<title>UrbanOutfitters.com &gt; Official Site of Urban Outfitters &gt; Shop Women's, Men's and Apartment</title>
-
-<link rel="shortcut icon" href="http://www.urbanoutfitters.com/favicon.ico" type="image/x-icon">
+	<title>UrbanOutfitters.com &gt;  Help/Info &gt;  Privacy &amp; Security</title>
+		<link rel="shortcut icon" href="http://www.urbanoutfitters.com/favicon.ico" type="image/x-icon">
 
 <link href="/urban/css/master.css" rel="stylesheet" media="screen, projection" type="text/css">
 <link href="/urban/css/print.css" rel="stylesheet" media="print" type="text/css">
 
-<!-- autodiscovery rss -->
+<link href="/urban/css/default.css" rel="stylesheet" media="screen, projection" type="text/css">
+			<!-- autodiscovery rss -->
 <link rel="alternate" type="application/rss+xml" title="What's New - Urban Outfitters" href="http://feeds2.feedburner.com/uorss">
 
-<script type="text/javascript" src="/urban/js/functions.js"></script>
 <script type="text/javascript" src="/urban/js/prototype.js"></script>
+<script type="text/javascript" src="/urban/js/functions.js"></script>
 
 <script src="/urban/js/scripts.js" type="text/javascript"></script>
 <script language="javascript" src="/urban/js/common.js"></script>
 <script language="javascript" src="/urban/js/categorySwatches.js"></script>
 <script language="javascript1.1" src="/urban/coremetrics/cmdatatagutils.js"></script>
  
-<script type="text/javascript" src="/urban/js/baynote/baynote.js"></script> 
-<script type="text/javascript" src="/urban/js/baynote/baynote-guide.js"></script> 
+<script language="javascript" src="/urban/js/cart/vars.js"></script>
+<script language="javascript" src="/urban/js/cart/all.js"></script>
+<script language="javascript" src="/urban/js/cart/profile.js"></script>
+
 <link href="/urban/css/baynote-guide.css" rel="stylesheet" type="text/css"> 
 <script language="javascript1.1" type="text/javascript">
 		
@@ -51,84 +53,97 @@ function submitform(s)
 <body>
 <div id="wrapper">
 <div id="shell">
-<script type="text/javascript" src="/urban/arc20/js/effects.js"></script>
-    <script type="text/javascript" src="/urban/arc20/js/window.js"></script>
-    <script type="text/javascript" src="/urban/arc20/js/swfobject.js"></script>
-    
-	<script type="text/javascript">
-		/**
-		 * Handle click on the shopping cart button.
-		 * This function gets redefined once arc is initialized.
-		 */
-		function handleCartClick()
-		{
-		    window.location.href = "/urban/checkout/cart.jsp";
-		}
-	</script>
-    
-    <!-- Flash player and bandwidth detection, part one -->
-    <script language="JavaScript1.2" type="text/javascript" src="/urban/arc/js/arcsniff.js"></script>
-    <script language="JavaScript1.2" type="text/javascript">
-        arcSniffTestUrl = "/urban/arc/allurentLogo.jpg";
-        arcSniffMinFlashVersion = 8;
-        arcSniffFlashSrc = "/urban/arc/ArcSniff.swf";
-        // Stop preloading
-        arcSniffPreloadUrl = "";
-        // uncomment the line below to see arcSniff debug output
-        // arcSniffFlashWidth=256;arcSniffFlashHeight=256;
-    </script>
-    <script type="text/javascript">
-        function Arc15Initalize ()
-        {
-                arcSniffStart(); // 1.6 check
-        }
-        if (arcSniffShouldExecute)
-        {
-             window.onload = Arc15Initalize;
-        }
-    </script>
-    <!-- ||BEGIN: "HEADER" OF THE WEBSITE -->
+<!-- ||BEGIN: "HEADER" OF THE WEBSITE -->
 	<div id="header">
 		<div id="header_logo">
 			<img src="/urban/images/2007_holiday/uo_logo.gif">
 			<h3><a href="/urban/index.jsp" title="UrbanOutfitters.com">Urban Outfitters</a></h3>
 		</div>
 		<div id="header_search">
-			<form name="searchForm" method="get" action="http://search.urbanoutfitters.com/">
-				<fieldset>
-                    <input type="text" id="search_field" name="q" value="search by keyword or catalog #" onfocus="this.value='';" onblur="searchFieldBlur(this);">
-                    <input id="search_submit" type="submit" value="Search">
-                </fieldset>
-			</form>
-		</div>
+			<form action="/urban/search/search.jsp" method="GET" id="searchForm" onsubmit="return clearData()">
+							<fieldset>
+							<input type="text" id="searchPhrase" name="searchPhrase" value="">
+							<input type="hidden" name="listViewSize" id="viewSize" value=""> 
+						    <input type="hidden" name="indexStart" id="viewPage" value="">
+						    <input type="hidden" name="sortBy" id="sortingBy" value="">
+						    <input type="hidden" name="sortOrder" id="sortingOrder" value="">
+						    <input type="hidden" name="categories" id="categories" value="">
+						    <input type="hidden" name="categories2" id="categories2" value="">
+						    <input type="hidden" name="categories3" id="categories3" value="">
+						    <input type="hidden" name="categories4" id="categories4" value="">
+						    <input type="hidden" name="skucolor" id="skucolor_normalized" value="">
+                            <input type="hidden" name="priceLow" id="priceLow" value="">
+                            <input type="hidden" name="priceHigh" id="priceHigh" value="">
+                            <input type="hidden" name="skusize" id="skusize_normalized" value="">
+                            <input type="hidden" name="brand" id="brand" value="">
+                            <input type="hidden" name="maxPrice" id="maxPrice" value="">
+                            <input type="hidden" name="minPrice" id="minPrice" value="">
+							</fieldset>
+							<input id="search_submit" type="submit" value="search">
+						</form>
+					</div>
 	</div>
 <div id="primarynav">
   <div id="primarynav_womens">
-			                          <h3>
-			                            <a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=3&amp;itemCount=&amp;id=WOMENS" title="Womens">Womens</a></h3>
-			                        </div>
-						          <div id="primarynav_mens">
-			                          <h3>
-			                            <a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=3&amp;itemCount=&amp;id=MENS" title="Mens">Mens</a></h3>
-			                        </div>
-						          <div id="primarynav_apartment">
-			                          <h3>
-			                            <a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=3&amp;itemCount=&amp;id=APARTMENT" title="Apartment">Apartment</a></h3>
-			                        </div>
-						          <div id="primarynav_sale">
-													    			<h3>
-													      				<a href="/urban/catalog/category.jsp?specialCategory=true&amp;selected=SALE&amp;id=SALE" title="Sale">Sale</a></h3>
-												        		</div>
-															<div id="primarynav_general_category">
-													    			<h3>
-													      				<a href="/urban/catalog/category.jsp?specialCategory=true&amp;selected=GENERAL_CATEGORY&amp;id=GENERAL_CATEGORY" title="Gifts">Gifts</a></h3>
-												        		</div>
-															<div id="primarynav_blog">
+				                        		<h3 id="primarynavlink_womens">
+					                            	<a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=0&amp;itemCount=&amp;id=WOMENS" title="Womens">Womens</a></h3>
+				                        		<div id="primarysubnav_womens" class="primarysubnav">
+				                        			<div class="subnavCollection" id="subnavCollection_womens">
+										<h3 id="subnavCollectionTitle">Shop by Collection</h3>
+									<a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_NEWARRIVALS">New Arrivals</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_COLL_TOPRATED">Top Rated</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_ONLINEEX">Online Exclusives</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_BOUTIQUE">Boutique</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_TRENDS">Trends</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_CUSTOMSHOPPE">Custom Shoppe</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_COLL_GIFTCARD">Gift Cards</a></div>
+										<div class="subnavCategory" id="subnavCategory_womens">
+											<h3 id="subnavCategoryTitle">Shop by Category</h3>
+									<a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_APP_DRESSES">Dresses</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_OUTERWEAR">Blazers &amp; Jackets</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_TOPS">Tops</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_BOTTOMS">Bottoms</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_APP_VINTAGE">Vintage</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_INTIMATES">Intimates</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_APP_SWIMWEAR">Swim</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=WOMENS_SHOES">Shoes</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=WOMENS_ACCESSORIES">Accessories</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=W_BEAUTY">Beauty </a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=WOMENS&amp;id=SALE_W">Women's Sale</a></div>
+							</div>
+				                  			</div>
+						          		<div id="primarynav_mens">
+				                        		<h3 id="primarynavlink_mens">
+					                            	<a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=0&amp;itemCount=&amp;id=MENS" title="Mens">Mens</a></h3>
+				                        		<div id="primarysubnav_mens" class="primarysubnav">
+				                        			<div class="subnavCollection" id="subnavCollection_mens">
+										<h3 id="subnavCollectionTitle">Shop by Collection</h3>
+									<a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_NEWARRIVALS">New Arrivals</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_COLL_TOPRATED">Top Rated</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_ONLINEEX">Online Exclusives</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_FEATUREDBRANDS">Featured Brands</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_TRENDS">Trends</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_CUSTOMSHOPPE">Custom Shoppe</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_COLL_GIFTCARDS">Gift Cards</a></div>
+										<div class="subnavCategory" id="subnavCategory_mens">
+											<h3 id="subnavCategoryTitle">Shop by Category</h3>
+									<a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_TOPS">Tops</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_BOTTOMS">Bottoms</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_OUTERWEAR">Blazers &amp; Jackets</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=M_VINTAGE">Vintage</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=MENS_SHOES">Shoes</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=MENS_ACCESSORIES">Accessories</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=MENS&amp;id=SALE_M">Men's Sale</a></div>
+							</div>
+				                  			</div>
+						          		<div id="primarynav_apartment">
+				                        		<h3 id="primarynavlink_apartment">
+					                            	<a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=0&amp;itemCount=&amp;id=APARTMENT" title="Apartment">Apartment</a></h3>
+				                        		<div id="primarysubnav_apartment" class="primarysubnav">
+				                        			<div class="subnavCollection" id="subnavCollection_apartment">
+										<h3 id="subnavCollectionTitle">Shop by Collection</h3>
+									<a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_NEWARRIVALS">New Arrivals</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_COLL_TOPRATED">Top Rated</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_ONLINEEX">Online Exclusives</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=TRENDS_SHOPBYROOM">Shop By Room</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=APT_BIKESHOP">Bike Shop</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=APT_PRINTSHOP">Print Shop</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_COLL_GIFTCARD">Gift Cards</a></div>
+										<div class="subnavCategory" id="subnavCategory_apartment">
+											<h3 id="subnavCategoryTitle">Shop by Category</h3>
+									<a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_FURN_FURNITURE">Furniture</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_DEC_BEDDING">Bedding</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_DECORATE">Decor</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=APARTMENT_MEDIA">Cameras &amp; Electronics</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_ENT_BOOKS">Book Store</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=APARTMENT_MUSIC">Music Store</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_ENT_GAMES">Toys &amp; Novelties</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=A_FURN_DESIGN">DIY &amp; Desktop</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=APARTMENT&amp;id=SALE_APT">Apartment Sale</a></div>
+							</div>
+				                  			</div>
+						          		<div id="primarynav_general_category">
+				                        		<h3 id="primarynavlink_general_category">
+					                            	<a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=0&amp;itemCount=&amp;id=GENERAL_CATEGORY" title="Gift">Gift</a></h3>
+				                        		<div id="primarysubnav_general_category" class="primarysubnav">
+				                        			<div class="subnavCategory" id="subnavCategory_general_category">
+										<h3 id="subnavCategoryTitle">Shop by Category</h3>
+									<a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_ALLHERGIFTS">Shop All Hers</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_ALLHISGIFTS">Shop All His</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_HERGIFTSUNDER50">Under $50 Hers</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_HISGIFTSUNDER50">Under $50 His</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_CHEAPTHRILLSHERS">Cheap Thrills Hers</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_CHEAPTHRILLSHIS">Cheap Thrills His</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_STOCKINGSTUFFERS">Stocking Stuffers</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_MOSTWISHEDFOR">Most Wished For</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=GIFT_30OFF">40% Off Select Holiday Items</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=GENERAL_CATEGORY&amp;id=SHOP_GIFTSBYTYPEGATEWAY">Gifts by Type</a></div>
+							</div>
+				                  			</div>
+						          		<div id="primarynav_sale">
+				                        		<h3 id="primarynavlink_sale">
+					                            	<a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=0&amp;itemCount=&amp;id=SALE" title="Sale">Sale</a></h3>
+				                        		<div id="primarysubnav_sale" class="primarysubnav">
+				                        			<div class="subnavCategory" id="subnavCategory_sale">
+										<h3 id="subnavCategoryTitle">Shop by Category</h3>
+									<a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=SALE&amp;id=SALE_W">Women's Sale</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=SALE&amp;id=SALE_M">Men's Sale</a><a href="/urban/catalog/category.jsp?navAction=jump&amp;isSortBy=true&amp;pushId=SALE&amp;id=SALE_APT">Apartment Sale</a></div>
+							</div>
+				                  			</div>
+						          		<div id="primarynav_community">
 		<h3>
-			<a href="http://blog.urbanoutfitters.com/" title="Blog">Blog</a>
+			<a href="/urban/community/community.jsp" title="Community">Community</a>
 		</h3>
 	</div>
-	
+			
 </div>
 
 <hr>
@@ -164,12 +179,14 @@ function submitform(s)
         
         <p>You can always update or delete your personal information on our web site. Simply click View Your Account in the menu at the top of each page on our site, log in, and you'll be able to edit or change your information. If at any time you would like us to delete any of your personal information on file, just click here to e-mail UrbanOutfitters.com customer service or call us at 800-282-2200. Please be sure to include your e-mail address, full name and password.</p>
         
-        <p>We may also work with select partners to distribute web advertisements based on our customers' internet browsing patterns. These partners never collect personally identifiable information, however if you'd prefer, you may opt out at any time by clicking here: <a href="http://www.networkadvertising.org/" target="_blank">http://www.networkadvertising.org/</a></p>
+        <!--p>We may also work with select partners to distribute web advertisements based on our customers' internet browsing patterns. These partners never collect personally identifiable information, however if you'd prefer, you may opt out at any time by clicking here: <a href="http://www.networkadvertising.org/" target="_blank">http://www.networkadvertising.org/</a></p-->
         
-		<p>We do not share credit card information with third parties except for the purpose of processing payment for products you've ordered and as required by law.  In addition, we may disclose credit card and other information we collect from you with an outside company with which we have contracted for their services to protect against fraud and the unauthorized use of credit and gift cards.</p>
+        <p>We  may also work with select partners to distribute web advertisements based on  your internet browsing patterns. These advertising companies collect anonymous  information about your visits to our web site through the use of a cookie. This  technology allows them to develop our advertising so that it directly relates  to offers that may be of interest to you. If, however, you’d prefer not to  receive relevant banner advertisements, you may opt out at any time by clicking  here: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a> . If you delete your cookies, use a different browser, or buy a new computer,  you will need to renew your opt-out choice.</p>
+        
+	  <p>We do not share credit card information with third parties except for the purpose of processing payment for products you've ordered and as required by law.  In addition, we may disclose credit card and other information we collect from you with an outside company with which we have contracted for their services to protect against fraud and the unauthorized use of credit and gift cards.</p>
         
         <h4>Business Partners</h4>
-		<p>We contract with an outside service called Coremetrics to help us better understand your use of UrbanOutfitters.com. Coremetrics places cookies on your computer to collect various kinds of information for us related to your use of UrbanOutfitters.com, so that we may continue to refine and improve the site for our customers. We do not allow Coremetrics to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Coremetrics is contractually required to maintain all the information collected for us in strict confidence. As a visitor to UrbanOutfitters.com, you may "opt out" of Coremetrics' collection of data. To learn more about your Coremetrics options  <a href="http://www.coremetrics.com/info_eluminate2.html">click here</a>.</p>
+		<p>We contract with an outside service called Coremetrics to help us better understand your use of UrbanOutfitters.com. Coremetrics places cookies on your computer to collect various kinds of information for us related to your use of UrbanOutfitters.com, so that we may continue to refine and improve the site for our customers. We do not allow Coremetrics to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Coremetrics is contractually required to maintain all the information collected for us in strict confidence. As a visitor to UrbanOutfitters.com, you may "opt out" of Coremetrics' collection of data. <!--To learn more about your Coremetrics options  <a href="http://www.coremetrics.com/info_eluminate2.html">click here</a>.--></p>
 
 		<h4>Under 13?</h4>
 		<p>If you are under the age of 13, you are not permitted to submit any personal information to UrbanOutfitters.com. UrbanOutfitters.com is intended for users who are 13 years of age and older.</p>
@@ -187,21 +204,29 @@ function submitform(s)
 				<li><a href="/urban/help/returns_exchanges.jsp" title="Returns Exchanges">Returns &amp; Exchanges</a></li>
 					<li><a href="/urban/help/ordering_payment.jsp" title="Ordering Payment">Ordering &amp; Payment</a></li>
 					<li><a href="/urban/help/shipping_information.jsp" title="Shipping Info">Shipping Info</a></li>
+					<li><a href="/urban/help/gift_card_balance_check.jsp" title="Gift Card Balance">Gift Card Balance</a></li>
 					<li><a href="/urban/help/popup_sizechart.jsp" title="Size Charts">Size Charts</a></li>
 					<li class="active"><a href="/urban/help/privacy_security.jsp" title="Privacy Policy">Privacy Policy</a></li>
 					<li><a href="/urban/help/terms_of_use.jsp" title="Terms of Use">Terms of Use</a></li>
 					<li><a href="/urban/help/contactus.jsp" title="Contact Us">Contact Us</a></li>
 					<li><a href="/urban/signup/emailunsubscribe.jsp" title="Unsubscribe">Unsubscribe</a></li>
 				    <li id="republicBikeLink"><a href="/urban/help/republicBike.jsp" title="Republic Bike">Republic Bike</a></li>
+				    <li id="printshopLink"><a href="/urban/help/printshop.jsp" title="Print Shop">Print Shop</a></li>
+				    <li id="cafepressLink"><a href="/urban/help/cafepress.jsp" title="Cafepress">Cafepress</a></li>
 				    </ul>
 			</div>
 
 			<div id="secondarynav_help">
 				<h4><a href="/urban/help/international.jsp">International</a></h4>
 				<ul>
-					<li><a href="/urban/help/australia.jsp" title="Australia">Australia</a></li>
+					<li><a href="/urban/help/africa.jsp" title="Africa">Africa</a></li>	
+					<li><a href="/urban/help/asian_pacific.jsp" title="Asia Pacific">Asia Pacific</a></li>
+					<li><a href="/urban/help/atlantic_carribean.jsp" title="Atlantic &amp; Carribean">Atlantic &amp; Carribean</a></li>
+					<li><a href="/urban/help/australia.jsp" title="Australia &amp; New Zealand">Australia &amp; New Zealand</a></li>
 					<li><a href="/urban/help/canada.jsp" title="Canada">Canada</a></li>
-					<li><a href="/urban/help/uk.jsp" title="United Kingdom">United Kingdom</a></li>		
+					<li><a href="/urban/help/central_south_america.jsp" title="Central &amp; South America">Central &amp; South America</a></li>
+					<li><a href="/urban/help/europe.jsp" title="Europe">Europe</a></li>
+					<li><a href="/urban/help/middle_east.jsp" title="Middle East">Middle East</a></li>
 				</ul>
 			</div>
 		    
@@ -211,7 +236,6 @@ function submitform(s)
 					<li><a href="/urban/help/store_locator.jsp" title="Store Locations">Store Locations</a></li>
 					<li><a href="/urban/help/RequestCatalog.jsp" title="Get Our Catalogs">Get Our Catalogs</a></li>
 					<li><a href="/urban/help/help_emailpage.jsp" title="Get Our Emails">Get Our Emails</a></li>
-					<li><a href="/urban/help/getuo_txt.jsp" title="Get UO TXT">Get UO TXT</a></li>
 					<li><a href="/urban/help/uo_affiliate.jsp" title="UO Affiliates">UO Affiliates</a></li>
 					<li><a href="/urban/help/rss.jsp" title="RSS Feeds">RSS Feeds</a></li>
 				</ul>
@@ -223,63 +247,47 @@ function submitform(s)
 <!-- ||BEGIN: "UTILITY NAV" OF THE WEBSITE -->
 <div id="utility">
 	<div id="utility_cart">
-		<h5>
-					<a href="/urban/checkout/cart.jsp">CHECKOUT</a></h5>
-				<p id="bagTextLink"><a href="/urban/checkout/cart.jsp" id="inlineCartLink">(<!--
-This page displays the Number of items present in the shopping cart.
-If the shopping cart is empty it will displys as "0 items"
-other wise it will show the actual number of items present in cart.
--->
-<!-- Get the total number of items that exist in the Order -->
-    
-        		empty
-      )</a></p>
- 		</div>
-	<div id="utility_account">
+        <p id="bagTextLink" class="emptyCart">
+                        	<a href="/urban/checkout/cart.jsp" id="inlineCartLink" class="emptyCart">
+                        	Shopping Bag</a>
+                        </p>
+                        <span id="numUtilityCartItems"></span>
+                    </div>
+    <div id="utility_account">
         <ul>
-        	<li><a href="/urban/user/wishlist_nav.jsp">Wishlist</a></li>
-            <li><a href="/urban/user/login_order_status.jsp">Order Status</a></li>
-            <li>
-            	<script language="javascript">
-    	function logOut(){
-			document.logout.action = '/urban/user/checkout_login.jsp';
-			document.logout.submit();			
-     	}
-	</script>
-	
- 
-   
-	
-
-	<form action="/urban/user/account_menu.jsp" name="headerlogoutForm" method="GET"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-3790879468116218640" type="hidden" name="_dynSessConf"><input value="submit" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logout"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logout"><input value="/urban/help/privacy_security.jsp" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logoutErrorURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logoutErrorURL"><ul><li id="utility_signin"><a href="/urban/user/checkout_login.jsp?anonymouslogin=anonymouslogin&amp;checkoutHeader=hide&amp;formURL=/urban/user/account_menu.jsp">
-			  Sign-In
-			 </a></li></ul>
-			
-         <input value="/urban/common/login_check.jsp" type="hidden" name="_DARGS"></form><form action="/urban/common/#" name="logout" method="GET"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-3790879468116218640" type="hidden" name="_dynSessConf"><input value="" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logout"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logout"><input value="../user/checkout_login.jsp" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logoutSuccessURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logoutSuccessURL"><input value="/urban/help/privacy_security.jsp" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logoutErrorURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logoutErrorURL"><input value="/urban/common/login_check.jsp.1" type="hidden" name="_DARGS"></form></li>  
-            <li>
-                <h5>
-                    <script language="javascript">
-	function loginName(name){
-		var index=name.indexOf('@');
- 		var newName=name.substring(0,index).toUpperCase();
- 		return newName;
-	}
- </script>
-	<a href="/urban/user/checkout_login.jsp?anonymouslogin=anonymouslogin&amp;checkoutHeader=hide&amp;formURL=/urban/user/account_menu.jsp">
-                          Your Account                             
-                        </a></h5>
-            </li>
-            <li><h5 class="divider">|</h5></li>
-        </ul>
-	</div>    
-	<div id="utility_connect">
-		<ul>
-			<li><img src="/urban/images/2007_holiday/american-flag.gif" alt="North America" height="11" width="17" id="northAmericanFlag"> North America | <a href="/urban/user/site_preference.jsp?showOptions=true">Change Region</a></li>
-            <li><a href="/urban/help/store_locator.jsp">Store Locations</a></li>
-			<li><a href="/urban/catalog/productdetail.jsp?_dyncharset=ISO-8859-1&amp;navAction=jump&amp;id=GIFTCARD">Gift Cards</a></li>
-            <li><a href="/urban/help/helpinfo.jsp">Help!</a></li>
-		</ul>
-	</div>
+        	<li>
+		            	<h5>
+		            		<a href="/urban/user/login_order_status.jsp">Order Status</a></h5>
+		            </li>
+		            <li>
+		            	<h5>
+			                <form action="/urban/user/account_menu.jsp" name="headerlogoutForm" method="GET"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-6481527083196186406" type="hidden" name="_dynSessConf"><input value="submit" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logout"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logout"><input value="/urban/help/privacy_security.jsp" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logoutErrorURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logoutErrorURL"><a href="/urban/user/checkout_login.jsp?anonymouslogin=anonymouslogin&amp;checkoutHeader=hide&amp;formURL=/urban/user/account_menu.jsp" target="_top" id="utility_signin">
+							Sign-In
+						</a><input value="/urban/common/login_check.jsp" type="hidden" name="_DARGS"></form><form action="/urban/common/#" name="logout" method="GET"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-6481527083196186406" type="hidden" name="_dynSessConf"><input value="" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logout"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logout"><input value="/urban/user/checkout_login.jsp" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logoutSuccessURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logoutSuccessURL"><input value="/urban/help/privacy_security.jsp" type="hidden" name="/atg/userprofiling/ProfileFormHandler.logoutErrorURL"><input value=" " type="hidden" name="_D:/atg/userprofiling/ProfileFormHandler.logoutErrorURL"><input value="/urban/common/login_check.jsp.1" type="hidden" name="_DARGS"></form></h5>
+		            </li>  
+		        </ul>
+    </div>    
+    <div id="utility_connect">
+        <ul>
+	<!-- 
+    <li>
+    	<div id="giftCardWrapper">
+    		<a href="javascript:void(0);" id="giftCardsLink">Gift Cards</a>
+	     	<ul id="giftCardSubNav">
+	     		<li><a href="/urban/catalog/productdetail.jsp?_dyncharset=ISO-8859-1&navAction=jump&id=GIFTCARD">Shop UO Gift Cards</a></li>
+	     		<li><a href="/urban/help/gift_card_balance_check.jsp">Check Your Balance</a></li>
+	     	</ul>
+    	</div>
+    </li>
+    <li><a href="/urban/catalog/category.jsp?specialCategory=false&navAction=jump&id=BRANDS">Brands</a></li>
+    -->
+</ul></div>
+    <div id="qualifierBg">
+    	<div id="qualifierCopy">
+    		<!--
+<strong>Free Returns!</strong> & Free Shipping on Orders Over $150
+--></div>
+    </div>
 </div>
 <!-- ||END: "UTILITY NAV" OF THE WEBSITE -->
 <hr>
@@ -288,105 +296,129 @@ other wise it will show the actual number of items present in cart.
 
 <!-- ||BEGIN: "FOOTER" OF THE WEBSITE -->
 <div id="connect">
-	<div id="connect_catalog">
-	<h6><a href="/urban/help/RequestCatalog.jsp" title="Urban Outfitters Catalog">UO Catalogs</a></h6>
-	<p>Get them in the mail or view them online.</p>
-	</div>
+	
+	<style>
+#connect { height: 200px !important; }
+#connect_extra table, #connect_extra img { border: none !important; }
+</style>
 
-	<div id="connect_blog">
-	<h6><a href="http://blog.urbanoutfitters.com" title="Urban Outfitters Blog">UO Blog</a></h6>
-	<p>Find out what's new, check out the playlist, and more.</p>
-	</div>
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '13473238797', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
 
-	<div id="connect_extra">
-	<h6>More UO</h6>
-	<p>Be Our Fan on <a href="http://www.facebook.com/pages/Urban-Outfitters/13473238797" title="Urban Outfitters Facebook Page" id="facebookMoreUO">Facebook</a></p>
-	<p>Follow us on <a href="http://twitter.com/urbanoutfitters" title="Urban Outfitters Twitter Page" id="twitterMoreUO">Twitter</a></p>
-	<p>Sign-up for <a href="/urban/help/getuo_txt.jsp" title="Urban Outfitters Text Messages" id="textMoreUO">Text Messages</a></p>
-	<p id="rssIconSmall"><a href="/urban/help/rss.jsp" title="Urban Outfitters Daily Updates" id="rssMoreUO">Daily Updates</a></p>
-	</div>
+<div id="connect_left">
+	<a href="/urban/catalog/category.jsp?specialCategory=false&amp;navAction=jump&amp;navCount=39&amp;itemCount=&amp;id=BRANDS">Brands</a>
+	<a href="/urban/help/RequestCatalog.jsp">UO Catalog</a>
+    <a href="/urban/help/rss.jsp" title="Urban Outfitters Daily Updates" id="rssMoreUO">Daily Updates</a>
+    <a href="/urban/catalog/category.jsp?navAction=jump&amp;id=A_COLL_GIFTCARD" title="Gift Cards" id="gcMoreUO">Gift Cards</a>
+	<a href="/urban/help/helpinfo.jsp">Help!</a>
+	<!--<div id="connect_facebook">
+		
+	</div>-->
+</div>
 
-	<div id="connect_newsletter">
-	<form action="/urban/help/privacy_security.jsp" name="emailSignUpForm" method="get"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-3790879468116218640" type="hidden" name="_dynSessConf"><fieldset>
+<div id="connect_extra">
+	<div id="footer">
+    	<img src="/urban/images/2007_holiday/american-flag.gif" alt="North America" height="11" width="17" id="northAmericanFlag"> <a href="/urban/user/site_preference.jsp?showOptions=true">Change Region</a>
+		<a href="/urban/help/store_locator.jsp">Store Locations</a>
+		<a href="/urban/help/sitemap.jsp" title="Sitemap">Sitemap</a>
+	    <a href="http://www.urbanoutfitters.com/work" title="Job Openings at Urban Outfitters Store Locations and Corporate Headquarters">Work at Urban Outfitters</a>
+		<a href="/urban/help/privacy_security.jsp" title="Read Our Privacy Policy">Privacy Policy</a>
+		<a href="/urban/help/terms_of_use.jsp" title="Read Our Terms of Use">Terms of Use</a>
+		<script language="javascript">
+			var dt = new Date();
+			var yr = dt.getFullYear(); 
+		</script>
+		<p id="footer_copyright">© <script>document.write(yr);</script>2020 Urban Outfitters Direct. All Rights Reserved.</p>
+        <p id="footer_phone">1.800.282.2200</p>
+	</div>	
+    <!-- begin verisign -->
+    <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+    	<tbody><tr>
+    		<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.urbanoutfitters.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
+    		<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+    	</tr>
+    </tbody></table>
+    <!-- end verisign -->
+</div>
+
+<!-- BEGIN INLINE CART -->
+<div id="inlineCart" onmouseout="overInlineCart=false" onmouseover="overInlineCart=true">
+    <div id="inlineCartContent">
+        <h3>Item(s) Added to Your Cart</h3>
+        <div id="inlineCartItems"></div>
+        <div id="inlineCartFooter">
+            <div id="inlineCartViewCart"><a href="/urban/checkout/cart.jsp">View Cart</a></div>
+            <div id="inlineCartSubTotal">Subtotal: <span id="inlineCartSubTotalAmt"></span></div>
+        </div>
+    </div>
+    <div id="inlineCartQualifier"></div>
+</div>
+<!-- END INLINE CART -->
+
+<div id="bn_justforyou" style="display:none"></div>
+<script>
+	function showSideBar() {
+		if ((location.href.indexOf("category") > 0) && ($("bn_justforyou")) && (location.href.indexOf("DESIGNEDBYGATEWAY") < 0)) {
+			// show it
+			$("bn_justforyou").style.display = "block";
+		}
+	}
+	showSideBar();
+</script><div id="connect_newsletter">
+	<form action="/urban/help/privacy_security.jsp" name="emailSignUpForm" method="get"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-6481527083196186406" type="hidden" name="_dynSessConf"><fieldset>
 		<legend>Newsletter</legend>
-		<label for="newsletter_field">Email Sign-up <a href="/urban/help/help_emailpage.jsp">(view recent examples)</a></label>
+		<label for="newsletter_field"></label>
 
 
 	     <input value="enter your e-mail address" maxlength="50" type="text" class="textbox" onfocus="this.value='';" name="emailAddress" onblur="newsletterFieldBlur(this);" id="newsletter_field"><input value=" " type="hidden" name="_D:emailAddress"><input type="submit" value="Sign-Up" id="newsletter_submit">
 		   	 <input value="/urban/signup/emailsignup.jsp" type="hidden" name="/uo/signup/SignupEmailFormHandler.signupEmailFooterSuccessURL"><input value=" " type="hidden" name="_D:/uo/signup/SignupEmailFormHandler.signupEmailFooterSuccessURL"><input value="submit" type="hidden" name="/uo/signup/SignupEmailFormHandler.signupEmailFooter"><input value=" " type="hidden" name="_D:/uo/signup/SignupEmailFormHandler.signupEmailFooter"><input value="/urban/common/footer.jsp" type="hidden" name="_DARGS"></fieldset></form>
 		</div>
 </div>
-
-
-<div id="footer">
-<p id="footer_copyright">© 2010 Urban Outfitters Direct. All Rights Reserved.</p>
-	<p id="footer_privacy"><a href="/urban/help/privacy_security.jsp" title="Read Our Privacy Policy">Privacy Policy</a></p>
-	<p id="footer_terms"><a href="/urban/help/terms_of_use.jsp" title="Read Our Terms of Use">Terms of Use</a></p>
-	<p id="footer_sitemap"><a href="/urban/help/sitemap.jsp" title="Sitemap">Sitemap</a></p>
-    <p id="footer_careers"><a href="http://hostedjobs.openhire.com/epostings/jobs/submit.cfm?version=2&amp;company_id=15602" title="Job Openings at Urban Outfitters Store Locations and Corporate Headquarters">Work at Urban Outfitters</a></p>
-	<p id="footer_mobile"><a href="http://m.urbanoutfitters.com/">Mobile Site</a></p>
-	<p id="footer_phone">1.800.282.2200</p>
-</div>
+            
 <!-- ||END: "FOOTER" OF THE WEBSITE -->
 
-<div id="arcSniff"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://web.archive.org/web/20080829162003/https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,14,0" width="1" height="1" id="ArcSniff">
-  <param name="flashvars" value="versionChecked=true&amp;testUrl=/urban/arc/allurentLogo.jpg&amp;preloadTriggerKps=50&amp;preloadUrl=">
-  <param name="src" value="/urban/arc/ArcSniff.swf">
-  <param name="width" value="1">
-  <param name="height" value="1">
-  <embed width="1" height="1" flashvars="versionChecked=true&amp;testUrl=/urban/arc/allurentLogo.jpg&amp;preloadTriggerKps=50&amp;preloadUrl=" src="/urban/arc/ArcSniff.swf" name="ArcSniff">
-</object></div>
-    <!-- Flash player and bandwidth detection, part two -->
-    <script language="JavaScript1.2" type="text/javascript">
-        if (arcSniffShouldExecute)
-        {
-            window.onload = arcSniffStart;
-        }
-    </script>
 
-    <script language="JavaScript1.2" type="text/javascript">
-        arc20Swf = "/urban/arc20/AllurentCart.swf";
-        arc20Config = "/urban/arc20/config.jsp";
-        arc20ItemCountPage = "/urban/arc20/orderItemCount.jsp";
-        arc20CheckoutPage = "/urban/checkout/cart.jsp";
-        arc20TellAFriendPage = "/urban/user/login_check.jsp";  
-        var  STATIC_ARC_URL= "/urban/arc20/";
-        var  STATIC_ARC_SNIFF= "/urban/arc20/Sniff20.swf";
-        var  ARC_20_SWF = "/urban/arc20/AllurentCart.swf";
-        var  ARC_20_SWF_CONFIG = "/urban/arc20/config.jsp";
-        // binds the scrim style with the css selector declared below
-        var  ARC_BG_STYLENAME= "arc_overlay_dialog";
-    </script>
-    <style type="text/css">
-      <!--
-         .arc_overlay_dialog {
-             background-color: #FFFFFF;
-             filter: alpha(opacity=0);
-             -moz-opacity: 0.0;
-             opacity: 0.0;
-         }
-
-
-		#utility_cart a.richCartLink { color: #FFF; text-decoration:none; }
-		#utility_cart a.richCartLink:hover { color: FFF; text-decoration:underline; }
-
-      -->
-    </style>
-    <script type="text/javascript" src="/urban/arc20/js/prodfx.js"></script>
-    <script type="text/javascript" src="/urban/arc20/js/arcclientlib.js"></script>
-    <script type="text/javascript" src="/urban/arc20/js/anthroProductDetailsInCart.js"></script>
-    <div id="arcStageFF">
-    <script type="text/javascript">
-       if ( document.location.href.indexOf("cart.jsp") == -1 ) {
-          arc.start("product");
-       }
-    </script>
-    <!--
+<!--
 Displaying the app server hostname and instance that is currently being viewed.
-uobwisapp14-urban-store-05
+uobwisapp17-urban-store-06
 
 --> 
-  <script type="text/javascript" src="/urban/js/baynote/baynote-observer.js"></script>
+  <script type="text/javascript" src="/urban/js/baynote/baynote.js"></script> 
+<script type="text/javascript" src="/urban/js/baynote/baynote-observer.js"></script>
+<!-- Begin Monetate tag -->
+<script type="text/javascript">
+var monetateT = new Date().getTime();
+
+		if (document.location.protocol == "http:" || document.location.protocol == "https:") { document.write(unescape("%3Cscript type='text/javascript' src='" + (document.location.protocol == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-da93a377/p/urbanoutfitters.com/" + Math.floor(monetateT / 3600000) + "'%3E%3C/script%3E")); }
+	</script><script type="text/javascript" src="https://sb.monetate.net/js/1/a-da93a377/p/urbanoutfitters.com/439026"></script>
+<script type="text/javascript">
+if (this.monetate) { monetate.a(); }
+</script>
+<!-- End Monetate tag -->
+
+<!-- CODE FOR Channel Advisor PIXEL IMPLEMENTATION STARTS -->
+<script language="JavaScript">
+<!--
+var caDomain = "http://tracking.searchmarketing.com";
+if (location.href.indexOf("https:") >= 0) {
+	caDomain = caDomain.replace("http:","https:");
+}
+document.write("<img src="+caDomain+"/welcome.asp?SMCID=53000704&x=" + escape(document.referrer) + " width=1 height=1>");
+//-->
+</script><img src="https://tracking.searchmarketing.com/welcome.asp?SMCID=53000704&amp;x=" width="1" height="1">
+<!-- CODE FOR Channel Advisor PIXEL IMPLEMENTATION ENDS -->
+
 <script type="text/javascript">
 		topnav();
 </script>
@@ -428,4 +460,4 @@ var cmJv="1.5";
 </script>
 
 
-</div><div style="position: absolute; z-index: 9999; left: -100px; top: -100px; width: 1px; height: 1px; padding: 0px; background-color: white;"></div></body></html>
+</body></html>
