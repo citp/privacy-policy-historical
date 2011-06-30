@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the interclick.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219005504id_/http%3A//www.interclick.com/footer-nav/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interclick.com privacy policy that was archived on 2011-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110807152840id_/http%3A//www.interclick.com/footer-nav/privacy-policy.aspx) for the most accurate reproduction.*
 
 # interclick :: powered by osm - privacy policy
-
- 
 
 interclick is a leading provider of targeted and optimized digital marketing solutions for advertisers. In the course of providing these services, interclick collects and analyzes the online behaviors of consumers across its network of sites. It is critical to interclick that consumers' privacy, rights and choices are maintained during this process.
 
@@ -66,10 +64,10 @@ We reserve the right to disclose information we have collected from you if requi
 A link from the interclick web site to another web site does not imply our endorsement of that site. We do not control the sites to which we link and assume no responsibility for their content or privacy policies. Therefore, you should carefully review the privacy policies that apply to any sites you access from our site.
 
 **Contact us**  
-If you have any question about our site, company or service, you should first consult our website <http://www.interclick.com/>. This site includes links to company information, answers to frequently asked questions, and all of interclick's current policies. If you have further questions or any concerns or complaints about how your personal information is used, please contact us.
+If you have any question about our site, company or service, you should first consult our website [/](https://web.archive.org/). This site includes links to company information, answers to frequently asked questions, and all of interclick's current policies. If you have further questions or any concerns or complaints about how your personal information is used, please contact us.
 
 **Correcting/updating/deleting/deactivating personal information  
-**If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done by contacting support at contact us.
+** If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done by contacting support at contact us.
 
 **Security**  
 interclick uses industry standard practices to safeguard the confidentiality of your information. interclick treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. Only authorized administrators have password-protected access to our data and we routinely review our security logs and perform regular security audits.
