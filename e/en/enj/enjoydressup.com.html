@@ -1,405 +1,91 @@
-<!--The following is the downloaded HTML source of the enjoydressup.com privacy policy that was archived on 2010-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100318011147id_/http%3A//www.enjoydressup.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enjoydressup.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630174713id_/http%3A//www.enjoydressup.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head> 
-<title>Dress Up Games | Girl Games</title>
-
-<meta name="TITLE" content="Dress Up Games | Girl Games">
-<meta name="SUBJECT" content="Dress Up Games">
-<meta name="RATING" content="GENERAL">
-<meta name="DESCRIPTION" content="Dress up games and other girl games added everyday!">
-<meta name="KEYWORDS" content="dress up, games, dress up games, gir">
-<meta name="REVISIT-AFTER" content="30 DAYS">
-<meta name="LANGUAGE" content="EN">
-<meta name="COPYRIGHT" content="ENJOYDRESSUP.com">
-<meta name="ROBOTS" content="All">
-<meta http-equiv="REFRESH" content="1200">
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-
-<link rel="stylesheet" type="text/css" href="http://www.enjoydressup.com/stiluri.css">
-<link rel="shortcut icon" href="http://www.enjoydressup.com/favicon.ico">
-<script type="text/javascript" src="http://www.enjoydressup.com/js/jquery-1.3.2.js"></script>
-<script type="text/javascript" src="http://www.enjoydressup.com/js/jquery.countDown.js"></script>
-<script type="text/javascript" src="http://www.enjoydressup.com/js/livevalidation.js"></script>
-<script type="text/javascript" src="http://www.enjoydressup.com/js/form-submit.js"></script>
-<script type="text/javascript" src="http://www.enjoydressup.com/js/ajax.js"></script>
-<script src="http://www.enjoydressup.com/js/md5.js"></script>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<title>Privacy Policy | EnjoyDressUp.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Welcome girls to Enjoydressup.com, the place where you will find a huge selection of fabulous and exciting      games. We add five new games every day, and that's a good reason to come back and enjoy our collection of free games.">
+<meta name="keywords" content="dress up games, girl games, makeover games, makeup games, celebrity games, wedding games, cooking games">
+<meta name="language" content="EN">
+<meta property="og:image" content="http://www.enjoydressup.com/images/facebook.jpg">
+<meta property="fb:admins" content="100001215486432">
+<link rel="stylesheet" type="text/css" href="http://static1.enjoydressup.net/css/cssmin-3.css">
+<link rel="shortcut icon" href="http://static1.enjoydressup.net/favicon.ico">
+<link rel="image_src" href="http://www.enjoydressup.com/images/facebook.jpg">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static2.enjoydressup.net/js/jsmin-6.js"></script>
 <script type="text/javascript">
-function getXMLHTTP() { //fuction to return the xml http object
-	var xmlhttp=false;	
-	try{
-		xmlhttp=new XMLHttpRequest();
-	}
-	catch(e)	{		
-		try{			
-			xmlhttp= new ActiveXObject("Microsoft.XMLHTTP");
-		}
-		catch(e){
-			try{
-			xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
-			}
-			catch(e1){
-				xmlhttp=false;
-			}
-		}
-	}
-	 	
-	return xmlhttp;
-}
-
-
-function ajax_load_id(url,id_div) { 
-	var strURL=url;
-	var req = getXMLHTTP();
-
-	if (req) {
-
-		req.onreadystatechange = function() {
-		if (req.readyState == 4) {
-			// only if "OK"
-			if (req.status == 200) { 
-				document.getElementById(id_div).innerHTML=req.responseText;
-				//alert(document.getElementById(id_div).innerHTML);
-				var scripts=document.getElementById(id_div).getElementsByTagName("script");
-				for(var i=0;i<scripts.length;i++){
-					//alert(scripts[i].innerHTML);
-					eval(scripts[i].innerHTML);
-					}  
-			} else {
-				alert("There was a problem while using XMLHTTP:n" + req.statusText);
-				}
-			} 
-		} 
-		req.open("GET", strURL, true);
-		req.send(null);
-		} 
-	return false;
-}
-
-function ajax_load(url){
-	var strURL=url;
-	var req = getXMLHTTP();
-
-	if (req) {
-
-		req.onreadystatechange = function() {
-		if (req.readyState == 4) {
-			// only if "OK"
-			if (req.status == 200) { 
-				
-			} else {
-				alert("There was a problem while using XMLHTTP:n" + req.statusText);
-				}
-			} 
-		} 
-		req.open("GET", strURL, true);
-		req.send(null);
-		} 
-	return false;
-}
-
-
-$(document).ready(function()
-{
-	//CountDown Timer ---------------------------------------------------
-	$('#CountDown').countDown({
-		startFontSize: '14px',
-		endFontSize: '14px',
-		startNumber: 7,
-		callBack: function() {
-			$('#timer').empty();
-			$('#timer').hide();
-			//$('#reclamaGame').hide();
-			//$('#game').show();
-			$('#start').show();
-		}
-	});
-						
-					
-});
-function testNewsletter(){
-	name=document.getElementById('name').value;
-	email=document.getElementById('email').value;
-	if(name=="YOUR NAME" || email=="YOUR E_MAIL") return false;
-	if(email.indexOf("@")<0 || email.indexOf(".")<0) return false;
-	return true;
-}
-function start_game(){
-	//document.getElementById("reclamaGame").style.display="none";
-	document.getElementById("start").style.display="none";
-	document.getElementById("game").style.display="block";
-}
-function bookmarksite(title,url){
-	if (window.sidebar) // firefox
-		window.sidebar.addPanel(title, url, "");
-	else if(window.opera && window.print){ // opera
-		var elem = document.createElement('a');
-		elem.setAttribute('href',url);
-		elem.setAttribute('title',title);
-		elem.setAttribute('rel','sidebar');
-		elem.click();
-	} 
-	else if(document.all)// ie
-		window.external.AddFavorite(url, title);
-}
-
-var id_selected = "";
-function changeOn(id){
-	document.getElementById(id).style.backgroundImage = 'url("http://www.enjoydressup.com/images/b2.gif")';
-	document.getElementById(id+"A").style.color="#ffdd99";
-}
-
-function changeOut(id){
-
-	if(id != id_selected){
-		document.getElementById(id).style.backgroundImage = 'url("http://www.enjoydressup.com/images/b1.gif")';
-		document.getElementById(id+"A").style.color="#FFFFFF";
-	}
-}
-function changeOnMenu(id){
-	document.getElementById(id).style.color="#ffdd99";
-}
-function changeOutMenu(id){
-	document.getElementById(id).style.color="#FFFFFF";
-}
-var r = "true";
-function ajax_verify(url) {
-	var strURL=url;
-	var req = getXMLHTTP();
-	if (req) {
-		req.onreadystatechange = function() {
-			if (req.readyState == 4) {
-				// only if "OK"
-				if (req.status == 200) {
-						r = req.responseText;
-						//alert("ajax_verify:"+r);
-						
-				} else {
-					alert("There was a problem while using XMLHTTP:n" + req.statusText);
-				}
-			}				
-		}			
-		req.open("GET", strURL, true);
-		req.send(null);
-	}
-
-	//alert("ajax:"+r);
-	return true;
-}
-
-function ajax_post_id(url,id_form,id_div){
-	var formObj = new DHTMLSuite.form({ formRef:id_form,action:url,responseEl:id_div});
-	return formObj.submit();
-}
-
-function check(){
-	if(r == "true")
-		return true;
-	else
-		return false;
-}
-
-function checkInvers(){
-	if(r == "true")
-		return false;
-	else
-		return true;
-}
-
-function crypt(rand) {
-    
-    document.getElementById('username').value = document.getElementById('fake_username').value;
-    document.getElementById('password').value = hex_md5(rand + hex_md5(document.getElementById('fake_password').value));
-    /*if(document.getElementById('fake_remember').checked){
-    	document.getElementById('remember').value = 'ok';
-    }*/
-    return ajax_post_id('/modules/login.php','mmForm','secondRightUp');
-}
-
-function endsown(){
-	if(document.getElementById("owna").checked){
-		 document.getElementById("ownavatar").disabled=false;
-	}else{
-		 document.getElementById("ownavatar").disabled=true;
-	}
-}
-
-function GetLeft(ele)
-{
-	if (ele.offsetParent)
-	return ele.offsetLeft + GetLeft(ele.offsetParent);
-	else
-	return ele.offsetLeft;
-}
-
-function GetTop(ele)
-{
-	if (ele.offsetParent)
-	return (ele.offsetTop + GetTop(ele.offsetParent));
-	else
-	return (ele.offsetTop);
-}
-
-function mouse_over(id_hint,id){
-   
-	var hint = document.getElementById(id_hint);
-	var ele = document.getElementById(id);
-	var x = GetTop(ele);
-	var y = GetLeft(ele);
-	x += 50;
-	y -= 290;
-	
-	hint.style.top=x+"px";
-	hint.style.left=y+"px";
-	hint.style.visibility='visible';	
-}
-
-function mouse_out(id){
-	document.getElementById(id).style.visibility='hidden';
-}
+// IE Background Image Caching Bug
+try { document.execCommand( "BackgroundImageCache", false, true); } catch(e) {};
+addOnLoad(initMenuEvents);
 </script>
+
 </head>
 <body>
 <div id="under1">&nbsp;</div>
 <div id="under2">&nbsp;</div>
-<div id="principal">
+<div id="principal" style="width:1009px">
 	<div id="left">
-		<div style="width:200px;height:299px;"><img src="http://www.enjoydressup.com/images/ul.jpg" width="200" height="299" alt="Dress Up Games!" title="Dress Up Games!" onclick="document.location='http://www.enjoydressup.com'" style="cursor: pointer;"></div>
+        <div style="width:200px;height:299px;"><img src="http://static1.enjoydressup.net/images/ul.jpg" width="200" height="299" alt="Dress Up Games" title="Dress Up Games" onclick="document.location='http://www.enjoydressup.com'" style="cursor: pointer;"></div>
 		<div id="menuLeft">
-			<div style="width:200px;height:34px;"><img src="http://www.enjoydressup.com/images/top_menu.gif" width="200" height="34" alt="Categories" title="Categories"></div>
-			<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Dress Up1" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Dress Up1&quot;);" onmouseout="changeOut(&quot;Dress Up1&quot;);" onclick="document.location='http://www.enjoydressup.com/html/dress-up-page-1.html'"><a id="Dress Up1A" href="http://www.enjoydressup.com/html/dress-up-page-1.html">Dress Up</a></div></div>
-
-<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Wedding2" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Wedding2&quot;);" onmouseout="changeOut(&quot;Wedding2&quot;);" onclick="document.location='http://www.enjoydressup.com/html/wedding-page-1.html'"><a id="Wedding2A" href="http://www.enjoydressup.com/html/wedding-page-1.html">Wedding</a></div></div>
-
-<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Pets3" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Pets3&quot;);" onmouseout="changeOut(&quot;Pets3&quot;);" onclick="document.location='http://www.enjoydressup.com/html/pets-page-1.html'"><a id="Pets3A" href="http://www.enjoydressup.com/html/pets-page-1.html">Pets</a></div></div>
-
-<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Cooking4" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Cooking4&quot;);" onmouseout="changeOut(&quot;Cooking4&quot;);" onclick="document.location='http://www.enjoydressup.com/html/cooking-page-1.html'"><a id="Cooking4A" href="http://www.enjoydressup.com/html/cooking-page-1.html">Cooking</a></div></div>
-
-<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Coloring5" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Coloring5&quot;);" onmouseout="changeOut(&quot;Coloring5&quot;);" onclick="document.location='http://www.enjoydressup.com/html/coloring-page-1.html'"><a id="Coloring5A" href="http://www.enjoydressup.com/html/coloring-page-1.html">Coloring</a></div></div>
-
-<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Make Up6" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Make Up6&quot;);" onmouseout="changeOut(&quot;Make Up6&quot;);" onclick="document.location='http://www.enjoydressup.com/html/make-up-page-1.html'"><a id="Make Up6A" href="http://www.enjoydressup.com/html/make-up-page-1.html">Make Up</a></div></div>
-
-<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Managing7" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Managing7&quot;);" onmouseout="changeOut(&quot;Managing7&quot;);" onclick="document.location='http://www.enjoydressup.com/html/managing-page-1.html'"><a id="Managing7A" href="http://www.enjoydressup.com/html/managing-page-1.html">Managing</a></div></div>
-
-<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Others8" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Others8&quot;);" onmouseout="changeOut(&quot;Others8&quot;);" onclick="document.location='http://www.enjoydressup.com/html/others-page-1.html'"><a id="Others8A" href="http://www.enjoydressup.com/html/others-page-1.html">Others</a></div></div>
-
-<div class="menuItemRow" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');"><div class="menuItemCell" id="Celebs9" style="background-image:url('http://www.enjoydressup.com/images/b1.gif');" onmouseover="changeOn(&quot;Celebs9&quot;);" onmouseout="changeOut(&quot;Celebs9&quot;);" onclick="document.location='http://www.enjoydressup.com/html/celebs-page-1.html'"><a id="Celebs9A" href="http://www.enjoydressup.com/html/celebs-page-1.html">Celebs</a></div></div>
-
-
-			<div style="width:200px;height:34px;"><img src="http://www.enjoydressup.com/images/pp.gif" width="200" height="34" alt="Premium Parteners" title="Premium Parteners"></div>
-			<div class="premiumPartener"><a href="http://www.rainbowdressup.com" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/rainbowdressup-pp.gif" width="160" height="28" alt="New Dress Up Games" title="New Dress Up Games"></a></div>
-
-<div class="premiumPartener"><a href="http://www.girlgames4u.com" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/gg4u-pp.gif" width="160" height="28" alt="Girl Games" title="Girl Games"></a></div>
-
-<div class="premiumPartener"><a href="http://www.smalldressup.com" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/smalldressup-pp.gif" width="160" height="28" alt="Dress Up Games" title="Dress Up Games"></a></div>
-
-<div class="premiumPartener"><a href="http://www.kibagames.com" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/kiba-pp.gif" width="160" height="28" alt="Kiba Games" title="Kiba Games"></a></div>
-
-<div class="premiumPartener"><a href="http://www.wambie.com" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/wambie-pp.gif" width="160" height="28" alt="Wambie" title="Wambie"></a></div>
-
-<div class="premiumPartener"><a href="http://www.poshdressup.com" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/poshdressup-pp.gif" width="160" height="28" alt="Fashion Dress Up Games" title="Fashion Dress Up Games"></a></div>
-
-<div class="premiumPartener"><a href="http://www.dressupgirl.net" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/dressupgirl-pp.gif" width="160" height="28" alt="Dress Up Games" title="Dress Up Games"></a></div>
-
-<div class="premiumPartener"><a href="http://www.girlgames1.com" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/gg1-pp.gif" width="160" height="28" alt="Girl Games" title="Girl Games"></a></div>
-
-<div class="premiumPartener"><a href="http://www.u-dress-up.com" target="_blank"><img style="margin-left:20px; border:1px solid #c90c59" src="http://www.enjoydressup.com/files/premium_parteners/u-dress-up-pp.gif" width="160" height="28" alt="Celebrity Dress Up Games" title="Celebrity Dress Up Games"></a></div>
-
-
-			<div style="width:200px;height:34px;"><img src="http://www.enjoydressup.com/images/bottom_menu.gif" width="200" height="34"></div>
+            
+            <div class="menuLeftHead"></div>
+            
+            <ul id="menuList">
+			<li class="menuItem1"><a href="http://www.enjoydressup.com/dress-up-games-page-1.html">Dress Up Games</a></li>
+<li class="menuItem1"><a href="http://www.enjoydressup.com/wedding-games-page-1.html">Wedding Games</a></li>
+<li class="menuItem1"><a href="http://www.enjoydressup.com/celebrity-games-page-1.html">Celebrity Games</a></li>
+<li class="menuItem1"><a href="http://www.enjoydressup.com/make-up-games-page-1.html">Make Up Games</a></li>
+<li class="menuItem1"><a href="http://www.enjoydressup.com/pet-games-page-1.html">Pet Games</a></li>
+<li class="menuItem1"><a href="http://www.enjoydressup.com/management-games-page-1.html">Management Games</a></li>
+<li class="menuItem1"><a href="http://www.enjoydressup.com/cooking-games-page-1.html">Cooking Games</a></li>
+<li class="menuItem1"><a href="http://www.enjoydressup.com/coloring-games-page-1.html">Coloring Games</a></li>
+<li class="menuItem1"><a href="http://www.enjoydressup.com/other-funny-games-page-1.html">Other Funny Games</a></li>
+            </ul>
+            
+            <div class="menuLeftFoot"></div>
 		</div>
 	</div>
-	<div id="bigRight">
+	<div id="bigRight" style="width:809px">
 		<div id="bigRightUp">
 			<div id="firstRightUp">
-				<div style="width:608px;height:92px"><img src="http://www.enjoydressup.com/images/header.jpg" width="608" height="92" alt="Dress Up Games!" title="Dress Up Games!" onclick="bookmarksite('Play free dress up games!','http://www.enjoydressup.com')" style="cursor: pointer;"></div>
-				<div id="menuUp">
-					<div class="separatorMenuUp"><img src="http://www.enjoydressup.com/images/sm.gif" width="2" height="45"></div>
-					<div class="menuUpItemRow" style="width:60px;"><div class="menuUpItemCell" onmouseover="changeOnMenu('home')" onmouseout="changeOutMenu('home')" onclick="document.location='http://www.enjoydressup.com'"><a id="home" href="http://www.enjoydressup.com" title="Home">HOME</a></div></div>
-					<div class="separatorMenuUp"><img src="http://www.enjoydressup.com/images/sm.gif" width="2" height="45"></div>
-					<div class="menuUpItemRow" style="width:90px;"><div class="menuUpItemCell" onmouseover="changeOnMenu('download')" onmouseout="changeOutMenu('download')" onclick="document.location='http://www.enjoydressup.com/html/download-games-page-1.html'"><a id="download" href="http://www.enjoydressup.com/html/download-games-page-1.html" title="Download">DOWNLOAD</a></div></div>
-					<div class="separatorMenuUp"><img src="http://www.enjoydressup.com/images/sm.gif" width="2" height="45"></div>
-					<div class="menuUpItemRow" style="width:90px;"><div class="menuUpItemCell" onmouseover="changeOnMenu('bookmark')" onmouseout="changeOutMenu('bookmark')" onclick="bookmarksite('Play free dress up games!','http://www.enjoydressup.com')"><a id="bookmark" title="Bookmark Enjoydressup.com" onclick="return false" href="#">BOOKMARK</a></div></div>
-					<div class="separatorMenuUp"><img src="http://www.enjoydressup.com/images/sm.gif" width="2" height="45"></div>
-					<div class="menuUpItemRow" style="width:60px;"><div class="menuUpItemCell" onmouseover="changeOnMenu('submit')" onmouseout="changeOutMenu('submit')" onclick="document.location='http://www.enjoydressup.com/submit-game.html'"><a id="submit" href="http://www.enjoydressup.com/submit-game.html" title="Submit Game">SUBMIT</a></div></div>
-					<div class="separatorMenuUp"><img src="http://www.enjoydressup.com/images/sm.gif" width="2" height="45"></div>
-					<div style="clear:both;"></div>
-				
-				</div>
-			</div>
-			<div id="secondRightUp"><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=259;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
-<script type="text/javascript">
-WB_wombat_Init("https://web.archive.org/web/", "20100114023826", "enjoydressup.com");
-</script>
-<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
-<script type="text/javascript">
-__wbhack.init('https://web.archive.org/web');
-</script>
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-<div id="loginOut">
-	<div id="logoutForm">
-	    <div id="logoutInputsDiv">
-	        <div class="logoutInputDiv"><input class="inputLogin" type="text" name="fake_username" id="fake_username" value="USERNAME" onfocus="if(this.value==&quot;USERNAME&quot;)this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;)this.value=&quot;USERNAME&quot;"></div>
-	        <div class="logoutInputsSeparator"></div>
-	        <div class="logoutInputDiv"><input class="inputLogin" type="password" name="fake_password" id="fake_password" value="PASSWORD" onfocus="if(this.value==&quot;PASSWORD&quot;)this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;)this.value=&quot;PASSWORD&quot;"></div>
-	        
-	    </div>
-	    <div id="logoutLoginButton"> <img onclick="crypt(&quot;f42eb3fb3d023b4fb775538976eb3d85&quot;);" src="https://web.archive.org/web/20100114023826im_/http://www.enjoydressup.com/images/login.gif" width="50" height="50" title="Login"></div>
-	</div>
-	<div id="logoutLinksDiv">
-	    <div class="logoutLinkDiv"><a class="aForget" href="https://web.archive.org/web/20100114023826/http://www.enjoydressup.com/forget-password.html">Forgot your login information?</a></div>
-	    <div class="logoutLinkDiv">Not a member yet? <a class="aForget" href="https://web.archive.org/web/20100114023826/http://www.enjoydressup.com/join-now.html">Sign up!</a></div>
-	</div>
-	
-	<form id="mmForm" action="https://web.archive.org/web/20100114023826/http://www.enjoydressup.com/modules/login.php" method="post">
-	   <input type="hidden" name="login[username]" id="username">
-	   <input type="hidden" name="login[password]" id="password">
-	   <input type="hidden" name="login[remember]" id="remember">
-	</form>
-</div>
-<div id="joinNowButtonDiv">
-	<img border="0" src="https://web.archive.org/web/20100114023826im_/http://www.enjoydressup.com/images/join.gif" width="192" height="45" alt="Join now!" title="Join now!" usemap="#joinNow">
-	<map name="joinNow">
-		<area shape="rect" coords="10,10,170,35" href="https://web.archive.org/web/20100114023826/http://www.enjoydressup.com/join-now.html" alt="Join now!">
-	</map>
-</div><!--
-     FILE ARCHIVED ON 02:38:26 Jan 14, 2010 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 10:19:10 Jan 31, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+				<div style="width:608px;height:92px">
+					<img src="http://static2.enjoydressup.net/images/header.jpg" width="608" height="92" alt="Dress Up Games" title="Dress Up Games" onclick="bookmarksite('Play free dress up games!','http://www.enjoydressup.com')" style="cursor: pointer;">
 
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  exclusion.robots.policy: 0.139
-  PetaboxLoader3.resolve: 36.59
-  RedisCDXSource: 2.502
-  exclusion.robots: 0.15
-  esindex: 0.014
-  LoadShardBlock: 150.666 (3)
-  captures_list: 170.828
-  PetaboxLoader3.datanode: 164.043 (4)
-  load_resource: 83.38
-  CDXLines.iter: 13.833 (3)
---></div>
+					<div style="position:relative; top:-90px; color:#feb7d5; text-align:center;"><b>Dress up games</b> and other online <b>girl games</b>!</div>
+				</div>
+				<div id="menuUp">
+					<div class="separatorMenuUp"><img src="http://static1.enjoydressup.net/images/sm.gif" width="2" height="45" alt=""></div>
+					<div class="menuUpItemRow" style="width:60px;"><a id="home" class="menuUpLink" href="http://www.enjoydressup.com" title="Home">HOME</a></div>
+					<div class="separatorMenuUp"><img src="http://static1.enjoydressup.net/images/sm.gif" width="2" height="45" alt=""></div>
+					<div class="menuUpItemRow" style="width:140px;"><a id="download" class="menuUpLink" href="http://www.enjoydressup.com/download-games-page-1.html" title="Download">DOWNLOAD GAMES</a></div>
+					<div class="separatorMenuUp"><img src="http://static1.enjoydressup.net/images/sm.gif" width="2" height="45" alt=""></div>
+					<div class="menuUpItemRow" style="width:90px;"><a id="bookmark" class="menuUpLink" title="Bookmark Enjoydressup.com" onclick="bookmarksite('Play free dress up games!','http://www.enjoydressup.com'); return false" href="#">BOOKMARK</a></div>
+					<div class="separatorMenuUp"><img src="http://static1.enjoydressup.net/images/sm.gif" width="2" height="45" alt=""></div>
+					<div class="menuUpItemRow" style="width:60px;"><a id="submit" class="menuUpLink" href="http://www.enjoydressup.com/submit-game.html" title="Submit Game">SUBMIT</a></div>
+					<div class="separatorMenuUp"><img src="http://static1.enjoydressup.net/images/sm.gif" width="2" height="45" alt=""></div>
+					<div style="clear:both;"></div>				
+				</div>
+			</div>            
+			<div id="secondRightUp">
+					
+			</div>
 			<div style="clear:both"></div>	
 		</div>
-		<div id="bigRightDown">
+		<div id="bigRightDown" style="width:809px">
 			<div id="middle">
-	<div style="width:606px;height:2px;margin-left:0px;margin-top:2px;"><img src="http://www.enjoydressup.com/images/top_content.gif" width="606" height="2"></div>
-	<div id="content">
-		<div class="contentStaticText">
+    
+    <div style="width:604px;margin-top:2px;background-color:#eadec6; padding:1px;">
+        <div style="width:602px;background-color:white; padding:1px;">
+            <div id="content" style="width:602px; background-image:none; background-color:#fff5e9; min-height:800px;">
+                <div class="contentStaticText">
+
+
 
 <p><b>www.EnjoyDressup.com</b> is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how <b>www.EnjoyDressup.com</b> protects your personal information. By accessing <b>www.EnjoyDressup.com</b>, you acknowledge and fully understand <b>www.EnjoyDressup.com</b> Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.</p>
 							<p><b>Third Party Policies</b></p>
 							<p>Websites visited through links from this website may or may not have their own privacy statements and <b>www.EnjoyDressup.com</b> is not responsible for the privacy practices or contents of those sites.</p>
 							<p><b>What Information Is Collected? </b></p>	
-							<p>We only collect personal information from registered members. Visitors are required to be 13 years or older to register. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use and help you register. During the registration we collect a full name, valid e-mail address, birth date, gender  and country. Additionally, when visitors come to our site, we automatically collect some non-personally identifiable ;computer; information, such :</p>
+							<p>We only collect personal information from registered members. Visitors are required to be 13 years or older to register. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use and help you register. During the registration we collect a full name, valid e-mail address, birth date, gender  and country. Additionally, when visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :</p>
 							<ul>
 								<li>Your Internet protocol address.</li>
 								<li>The kind of browser or computer you use.</li>
@@ -416,255 +102,214 @@ playback timings (ms):
 							<p>We also use visitors computer information to track usage, improve the design of the site, offer products and services, to personalize our visitor's experiences, save visitor's password in password-protected areas, and to ensure visitors are following the site's Agreement. </p>
 							<p>We may disclose information about our visitors, including personal information (e.g., registration information, e-mail address, content of messages), as well as computer information, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our site and applicable laws, or to protect against misuse or unauthorized use of the site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our visitors or others.</p> 
 							<p><b>Cookies</b></p>
-							<p>Cookies are small text files that we place in visitor's computer browsers to store their preferences. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow web sites to ;remember; users activities on a web site as well as users visits to a site. We do not store any personal information into cookies or link cookies to any personal information that players submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences; however, some of the functioning of features on the web site may be affected.</p>
+							<p>Cookies are small text files that we place in visitor's computer browsers to store their preferences. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow web sites to "remember" users activities on a web site as well as users visits to a site. We do not store any personal information into cookies or link cookies to any personal information that players submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences; however, some of the functioning of features on the web site may be affected.</p>
 							<p><b>Security</b></p>
 							<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.</p>
 							<p><b>Changes to this Privacy Policy</b></p>
 							<p><b>www.EnjoyDressup.com</b> reserves the right to change this policy at any time. We ask that you review this Privacy Policy from time to time to insure you are familiar with the most current version of it.</p>
 
+
+
 </div>	
-	</div>
-	<div style="width:606px;height:2px;margin-left:0px;padding:0px;"><img src="http://www.enjoydressup.com/images/bottom_content.gif" width="606" height="2"></div>
+            </div>
+        </div>
+    </div>
+    
 </div>
 <div id="right">
-	<div style="width:190px;height:2px;margin-left:1px;margin-top:2px;"><img src="http://www.enjoydressup.com/images/top_mr.gif" width="190" height="2"></div>
-	<div id="mr">
-		<div style="width:190px; height:10px;">&nbsp;</div>
-		<div id="language">
-		<form action="" name="languageForm">
-			<select id="languageSelect" onchange="window.open(this.value,&quot;_top&quot;);">
-				<option>Select Language</option>
-				<option value="http://www.enjoydressup.com">English</option>
-				<option value="http://www.fr.enjoydressup.com">French</option>
-				<option value="http://www.de.enjoydressup.com">Dutch</option>
-				<option value="http://www.es.enjoydressup.com">Spanish</option>
-				<option value="http://www.it.enjoydressup.com">Italian</option>
-				<option value="http://www.pt.enjoydressup.com">Portuguese</option>
-			</select>
-		</form>
+    
+    <div style="width:188px;  padding:1px; margin-top:2px; margin-left:1px; background-color:#eadec6;">
+    <div style="width:186px; padding:1px; background-color:white">
+	<div style="width:186px; background-color:#fff5e9;">
+		<div style="width:186px; height:10px; margin-left:5px;">&nbsp;</div>
+		<div style="padding-left:5px; margin-bottom:5px;"><a href="http://www.facebook.com/sharer.php?u=http://www.enjoydressup.com" target="_blank" style="text-decoration:none">
+    <span class="fb_outer">
+        <span class="fb_inner">Share</span>
+    </span>
+</a>
+</div>
+        
+        <div style="width:176px; height:1px; margin-left:5px; background-color:#f6e4cc; font-size:1px;"></div>
+        <div style="width:176px; height:1px; margin-left:5px; background-color:white; font-size:1px;"></div>
+		<div id="twitterDiv" style="width:186px">
+            
+            <div class="menuRight followUs"></div>
+            <div style="text-align:center; padding-top:5px;">
+                <a href="http://www.facebook.com/pages/EnjoyDressUp/185756698110263" title="Follow EnjoyDressUp.com on Facebook" target="_blank"><img src="http://static1.enjoydressup.net/images/facebook_icon.gif" width="32" height="32" border="0" alt="Follow EnjoyDressUp.Com on Facebook"></a>
+                <a href="http://www.twitter.com/enjoydressup" style="margin-left:20px;" title="Follow EnjoyDressUp.com on Twitter" target="_blank"><img src="http://static1.enjoydressup.net/images/twitter_icon.gif" width="32" height="32" border="0" alt="Follow EnjoyDressUp.Com on Twitter"></a>
+            </div>
 		</div>
-		<div style="width:190px;height:2px;"><img src="http://www.enjoydressup.com/images/smr.gif" width="190" height="2"></div>
+        
+        <div style="width:176px; height:1px; margin-left:5px; background-color:#f6e4cc; font-size:1px"></div>
+        <div style="width:176px; height:1px; margin-left:5px; background-color:white; font-size:1px;"></div>
 		<form name="searchForm" id="searchForm" enctype="multipart/form-data" method="post" action="http://www.enjoydressup.com/search.php">
-			<div id="searchDiv">
+			<div id="searchDiv" style="width:186px">
 				<input class="inputContent" type="text" name="search" id="search" value="YOUR SEARCH" onfocus="if(this.value==&quot;YOUR SEARCH&quot;)this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;)this.value=&quot;YOUR SEARCH&quot;">
-				<div id="mrButton">
-					<input class="searchButton" type="submit" value="">
+				<div class="mrButton" style="width:90px;margin-top:5px;margin-right:5px;height:20px;float:right;">
+                    
+                    <input class="enjButton" type="submit" value="SEARCH">
 				</div>
 				<div style="clear:both;"></div>
 			</div>
-		</form>	
-		<div style="width:190px;height:2px;"><img src="http://www.enjoydressup.com/images/smr.gif" width="190" height="2"></div>
-		<div id="happyBirthdayDiv">
-			<img src="http://www.enjoydressup.com/images/happy_birthday.gif" width="190" height="28">
-               <div style="width:185px; min-height:35px; margin-bottom:5px; margin-left:3px;">
-<div id="IDHAP683" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP683','IDHAP683');" onmouseout="mouse_out('IDHINTHAP683')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/sagicon.gif" title="sushi3456" alt="sushi3456"></div>
-
-<div id="IDHINTHAP683" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>sushi3456</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/sagicon.gif" alt="sushi3456" title="sushi3456" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 14 years old</div>
-				<div>USA</div>
-</div><div id="IDHAP758" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP758','IDHAP758');" onmouseout="mouse_out('IDHINTHAP758')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/reindeericon.gif" title="julie101" alt="julie101"></div>
-
-<div id="IDHINTHAP758" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>julie101</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/reindeericon.gif" alt="julie101" title="julie101" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 12 years old</div>
-				<div>USA</div>
-</div><div id="IDHAP759" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP759','IDHAP759');" onmouseout="mouse_out('IDHINTHAP759')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/balloonicon.gif" title="miri96" alt="miri96"></div>
-
-<div id="IDHINTHAP759" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>miri96</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/balloonicon.gif" alt="miri96" title="miri96" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 14 years old</div>
-				<div>Italy</div>
-</div><div id="IDHAP1096" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP1096','IDHAP1096');" onmouseout="mouse_out('IDHINTHAP1096')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/christmastreeicon.gif" title="hello1998" alt="hello1998"></div>
-
-<div id="IDHINTHAP1096" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>hello1998</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/christmastreeicon.gif" alt="hello1998" title="hello1998" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 23 years old</div>
-				<div>USA</div>
-</div><div id="IDHAP1818" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP1818','IDHAP1818');" onmouseout="mouse_out('IDHINTHAP1818')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/icecreamicon.gif" title="morgan" alt="morgan"></div>
-
-<div id="IDHINTHAP1818" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>morgan</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/icecreamicon.gif" alt="morgan" title="morgan" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 10 years old</div>
-				<div>New_Caledonia</div>
-</div><div id="IDHAP1880" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP1880','IDHAP1880');" onmouseout="mouse_out('IDHINTHAP1880')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/scorpioicon.gif" title="miku98" alt="miku98"></div>
-
-<div id="IDHINTHAP1880" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>miku98</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/scorpioicon.gif" alt="miku98" title="miku98" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 14 years old</div>
-				<div>Argentina</div>
-</div><div id="IDHAP2099" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP2099','IDHAP2099');" onmouseout="mouse_out('IDHINTHAP2099')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/ibiteicon.gif" title="bxgirl22" alt="bxgirl22"></div>
-
-<div id="IDHINTHAP2099" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>bxgirl22</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/ibiteicon.gif" alt="bxgirl22" title="bxgirl22" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 11 years old</div>
-				<div>USA</div>
-</div><div id="IDHAP2235" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP2235','IDHAP2235');" onmouseout="mouse_out('IDHINTHAP2235')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/cupcakeloveicon.gif" title="jodie_d2" alt="jodie_d2"></div>
-
-<div id="IDHINTHAP2235" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>jodie_d2</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/cupcakeloveicon.gif" alt="jodie_d2" title="jodie_d2" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 12 years old</div>
-				<div>Ireland</div>
-</div><div id="IDHAP3218" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP3218','IDHAP3218');" onmouseout="mouse_out('IDHINTHAP3218')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/princessicon.gif" title="beutypurple" alt="beutypurple"></div>
-
-<div id="IDHINTHAP3218" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>beutypurple</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/princessicon.gif" alt="beutypurple" title="beutypurple" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 17 years old</div>
-				<div>USA</div>
-</div><div id="IDHAP3470" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP3470','IDHAP3470');" onmouseout="mouse_out('IDHINTHAP3470')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/balloonicon.gif" title="ipek15" alt="ipek15"></div>
-
-<div id="IDHINTHAP3470" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>ipek15</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/balloonicon.gif" alt="ipek15" title="ipek15" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 16 years old</div>
-				<div>Turkey</div>
-</div><div id="IDHAP3637" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP3637','IDHAP3637');" onmouseout="mouse_out('IDHINTHAP3637')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/pandaicon.gif" title="cooldude094" alt="cooldude094"></div>
-
-<div id="IDHINTHAP3637" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>cooldude094</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/pandaicon.gif" alt="cooldude094" title="cooldude094" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 12 years old</div>
-				<div>Virgin_islands</div>
-</div><div id="IDHAP3709" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP3709','IDHAP3709');" onmouseout="mouse_out('IDHINTHAP3709')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/piscesicon.gif" title="moncitobb_1995" alt="moncitobb_1995"></div>
-
-<div id="IDHINTHAP3709" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>moncitobb_1995</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/piscesicon.gif" alt="moncitobb_1995" title="moncitobb_1995" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 15 years old</div>
-				<div>Peru</div>
-</div><div id="IDHAP4081" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP4081','IDHAP4081');" onmouseout="mouse_out('IDHINTHAP4081')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/piscesicon.gif" title="shopswim11" alt="shopswim11"></div>
-
-<div id="IDHINTHAP4081" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>shopswim11</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/piscesicon.gif" alt="shopswim11" title="shopswim11" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 12 years old</div>
-				<div>USA</div>
-</div><div id="IDHAP5957" style="margin-right:5px;margin-bottom:5px;width:25px;height:25px; float:left;" onmouseover="mouse_over('IDHINTHAP5957','IDHAP5957');" onmouseout="mouse_out('IDHINTHAP5957')"><img style="border:1px solid #ffffff; margin-left:3px; margin-top:3px;" width="25" height="25" src="http://www.enjoydressup.com/files/users/aquariusicon.gif" title="ashiebesie" alt="ashiebesie"></div>
-
-<div id="IDHINTHAP5957" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>ashiebesie</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/aquariusicon.gif" alt="ashiebesie" title="ashiebesie" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 12 years old</div>
-				<div>Sweden</div>
-</div>
-<div style="clear:both;"></div>
-</div>
-		</div>
-		<div style="width:190px;height:2px;"><img src="http://www.enjoydressup.com/images/smr.gif" width="190" height="2"></div>
-		<div id="topMembersDiv">
-			<img src="http://www.enjoydressup.com/images/top_members.gif" width="190" height="28">
+		</form>
+        
+        <div style="width:176px; height:1px; margin-left:5px; background-color:#f6e4cc; font-size:1px;"></div>
+        <div style="width:176px; height:1px; margin-left:5px; background-color:white; font-size:1px;"></div>
+		<div id="happyBirthdayDiv"></div>
+        
+        <div style="width:176px; height:1px; margin-left:5px; background-color:#f6e4cc; font-size:1px;"></div>
+        <div style="width:176px; height:1px; margin-left:5px; background-color:white; font-size:1px;"></div>
+		<div id="topMembersDiv" style="width:186px">
+			
+            <div class="menuRight topMembers"></div>
                <div style="width:180px; min-height:50px; margin-bottom:5px;margin-left:6px;">
+
 <div id="IDTOP2" style="width:180px; height:40px;margin-top:5px;">
-    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP2','IDTOP2');" onmouseout="mouse_out('IDHINTTOP2')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://www.enjoydressup.com/files/users/jonass.jpg" title="jonasss" alt="jonasss"></div>
-    <div style="float:left;width:130px;height:40px;">jonasss, 696 <br> 15, Mexico</div>
+
+    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP2','IDTOP2');" onmouseout="mouse_out('IDHINTTOP2')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://static1.enjoydressup.net/files/users/jonass.jpg" title="jonasss" alt="jonasss"></div>
+
+    <div style="float:left;width:130px;height:40px;">jonasss, 6377 <br> 17, Mexico</div>
+
     <div style="clear:both;"></div>
+
 </div>
+
 <div id="IDHINTTOP2" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
+
 				<div><b>jonasss</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/jonass.jpg" alt="jonasss" title="jonasss" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">boy, 15 years old</div>
+
+				<div style="margin-top:5px;margin-left:8px;"><img src="http://static1.enjoydressup.net/files/users/jonass.jpg" alt="jonasss" title="jonasss" width="100px" height="100px"></div>
+
+				<div style="margin-top:5px;">boy, 17 years old</div>
+
 				<div>Mexico</div>
-</div><div id="IDTOP2398" style="width:180px; height:40px;margin-top:5px;">
-    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP2398','IDTOP2398');" onmouseout="mouse_out('IDHINTTOP2398')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://www.enjoydressup.com/files/users/thundercloudicon.gif" title="buketacar" alt="buketacar"></div>
-    <div style="float:left;width:130px;height:40px;">buketacar, 667 <br> 13, Turkey</div>
+
+</div><div id="IDTOP9882" style="width:180px; height:40px;margin-top:5px;">
+
+    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP9882','IDTOP9882');" onmouseout="mouse_out('IDHINTTOP9882')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://static2.enjoydressup.net/files/users/sweetlikecandyicon.gif" title="karencitah" alt="karencitah"></div>
+
+    <div style="float:left;width:130px;height:40px;">karencitah, 6172 <br> 14, Ecuador</div>
+
     <div style="clear:both;"></div>
+
 </div>
-<div id="IDHINTTOP2398" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>buketacar</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/thundercloudicon.gif" alt="buketacar" title="buketacar" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 13 years old</div>
-				<div>Turkey</div>
-</div><div id="IDTOP365" style="width:180px; height:40px;margin-top:5px;">
-    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP365','IDTOP365');" onmouseout="mouse_out('IDHINTTOP365')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://www.enjoydressup.com/files/users/aquariusicon.gif" title="miri_rebela26" alt="miri_rebela26"></div>
-    <div style="float:left;width:130px;height:40px;">miri_rebela26, 663 <br> 13, Romania</div>
+
+<div id="IDHINTTOP9882" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
+
+				<div><b>karencitah</b></div>
+
+				<div style="margin-top:5px;margin-left:8px;"><img src="http://static2.enjoydressup.net/files/users/sweetlikecandyicon.gif" alt="karencitah" title="karencitah" width="100px" height="100px"></div>
+
+				<div style="margin-top:5px;">girl, 14 years old</div>
+
+				<div>Ecuador</div>
+
+</div><div id="IDTOP3" style="width:180px; height:40px;margin-top:5px;">
+
+    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP3','IDTOP3');" onmouseout="mouse_out('IDHINTTOP3')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://static1.enjoydressup.net/files/users/3justin-bieber.jpg" title="betty_cute" alt="betty_cute"></div>
+
+    <div style="float:left;width:130px;height:40px;">betty_cute, 5477 <br> 11, Northern_Ireland</div>
+
     <div style="clear:both;"></div>
+
 </div>
-<div id="IDHINTTOP365" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>miri_rebela26</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/aquariusicon.gif" alt="miri_rebela26" title="miri_rebela26" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 13 years old</div>
-				<div>Romania</div>
-</div><div id="IDTOP3554" style="width:180px; height:40px;margin-top:5px;">
-    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP3554','IDTOP3554');" onmouseout="mouse_out('IDHINTTOP3554')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://www.enjoydressup.com/files/users/piscesicon.gif" title="naki" alt="naki"></div>
-    <div style="float:left;width:130px;height:40px;">naki, 594 <br> 18, Greece</div>
+
+<div id="IDHINTTOP3" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
+
+				<div><b>betty_cute</b></div>
+
+				<div style="margin-top:5px;margin-left:8px;"><img src="http://static1.enjoydressup.net/files/users/3justin-bieber.jpg" alt="betty_cute" title="betty_cute" width="100px" height="100px"></div>
+
+				<div style="margin-top:5px;">girl, 11 years old</div>
+
+				<div>Northern_Ireland</div>
+
+</div><div id="IDTOP1" style="width:180px; height:40px;margin-top:5px;">
+
+    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP1','IDTOP1');" onmouseout="mouse_out('IDHINTTOP1')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://static2.enjoydressup.net/files/users/pandaicon.gif" title="anna_95" alt="anna_95"></div>
+
+    <div style="float:left;width:130px;height:40px;">anna_95, 2975 <br> 11, France</div>
+
     <div style="clear:both;"></div>
+
 </div>
-<div id="IDHINTTOP3554" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
-				<div><b>naki</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/piscesicon.gif" alt="naki" title="naki" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 18 years old</div>
-				<div>Greece</div>
+
+<div id="IDHINTTOP1" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
+
+				<div><b>anna_95</b></div>
+
+				<div style="margin-top:5px;margin-left:8px;"><img src="http://static2.enjoydressup.net/files/users/pandaicon.gif" alt="anna_95" title="anna_95" width="100px" height="100px"></div>
+
+				<div style="margin-top:5px;">girl, 11 years old</div>
+
+				<div>France</div>
+
 </div><div id="IDTOP6900" style="width:180px; height:40px;margin-top:5px;">
-    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP6900','IDTOP6900');" onmouseout="mouse_out('IDHINTTOP6900')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://www.enjoydressup.com/files/users/kittyicon.gif" title="musicrocks11" alt="musicrocks11"></div>
-    <div style="float:left;width:130px;height:40px;">musicrocks11, 564 <br> 9, USA</div>
+
+    <div style="float:left; margin-right:8px; width:40px; height:40px;" onmouseover="mouse_over('IDHINTTOP6900','IDTOP6900');" onmouseout="mouse_out('IDHINTTOP6900')"><img style="border:1px solid #ffffff" width="40" height="40" src="http://static1.enjoydressup.net/files/users/pancakesicon.gif" title="musicrocks11" alt="musicrocks11"></div>
+
+    <div style="float:left;width:130px;height:40px;">musicrocks11, 2368 <br> 10, USA</div>
+
     <div style="clear:both;"></div>
+
 </div>
+
 <div id="IDHINTTOP6900" style="background-color:#EADEC6; border:1px solid #FFFFFF;-ms-filter:&quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=90)&quot;;filter: alpha(opacity=90);padding:10px;width:118px;height:160px;position:absolute;visibility:hidden;z-index:1;cursor:pointer;;margin-left:20px;margin-top:-90px;">
+
 				<div><b>musicrocks11</b></div>
-				<div style="margin-top:5px;margin-left:8px;"><img src="http://www.enjoydressup.com/files/users/kittyicon.gif" alt="musicrocks11" title="musicrocks11" width="100px" height="100px"></div>
-				<div style="margin-top:5px;">girl, 9 years old</div>
+
+				<div style="margin-top:5px;margin-left:8px;"><img src="http://static1.enjoydressup.net/files/users/pancakesicon.gif" alt="musicrocks11" title="musicrocks11" width="100px" height="100px"></div>
+
+				<div style="margin-top:5px;">girl, 10 years old</div>
+
 				<div>USA</div>
+
 </div>
+
 </div>
 		</div>
-		<div style="width:190px;height:2px;"><img src="http://www.enjoydressup.com/images/smr.gif" width="190" height="2"></div>
-		<div id="newsletterDiv">
-			<div style="width:190px;height:28px;"><img src="http://www.enjoydressup.com/images/newsletter.gif" width="190" height="28"></div>
+        
+        <div style="width:176px; height:1px; margin-left:5px; background-color:#f6e4cc; font-size:0px;"></div>
+        <div style="width:176px; height:1px; margin-left:5px; background-color:white; font-size:0px;"></div>
+		<div id="newsletterDiv" style="width:186px">
+			
+            <div class="menuRight newsletter"></div>
 			<form name="subscribeNewsletter" id="subscribeNewsletter" enctype="multipart/form-data" method="post" action="http://www.enjoydressup.com/modules/newsletter.php">
 				<input class="inputContent" type="text" name="name" id="name" value="YOUR NAME" onfocus="if(this.value==&quot;YOUR NAME&quot;)this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;)this.value=&quot;YOUR NAME&quot;">
-				<div style="width:190px; height:2px;">&nbsp;</div>
-				<input class="inputContent" type="text" name="email" id="email" value="YOUR E-MAIL" onfocus="if(this.value==&quot;YOUR E-MAIL&quot;)this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;)this.value=&quot;YOUR E-MAIL&quot;">
-				<div style="padding-left:4px; padding-right:4px; width:182px; height:10px;"><span id="msgEmail"></span></div>
-				<div id="mrButton">
-					<div class="submitButton" onclick="if(testNewsletter()){return ajax_post_id(&quot;/modules/newsletter.php&quot;,&quot;subscribeNewsletter&quot;,&quot;msgEmail&quot;);}"></div>
+				<div style="width:186px; height:2px;">&nbsp;</div>
+				<input class="inputContent" type="text" name="email" id="nl_email" value="YOUR E-MAIL" onfocus="if(this.value==&quot;YOUR E-MAIL&quot;)this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;)this.value=&quot;YOUR E-MAIL&quot;">
+				<div style="padding-left:4px; padding-right:4px; width:182px; height:10px;"><span id="nl_msgEmail"></span></div>
+				<div class="mrButton" style="width:90px;margin-top:5px;margin-right:5px;height:20px;float:right;">
+					
+                    <input class="enjButton" type="button" value="SUBMIT" onclick="if(testNewsletter()){return ajax_post_id(&quot;http://www.enjoydressup.com/modules/newsletter.php&quot;,&quot;subscribeNewsletter&quot;,&quot;msgEmail&quot;);}">
 				</div>
 			</form>
 			
-			<script>
-				var email = new LiveValidation('email', {insertAfterWhatNode:'msgEmail', validMessage: ' ', wait: 1500});
-				email.add(Validate.Presence, {failureMessage: " "});
-				email.add( Validate.Email,{failureMessage: " "} );
+			<script type="text/javascript">
+				var nl_email = new LiveValidation('nl_email', {insertAfterWhatNode:'nl_msgEmail', validMessage: ' ', wait: 1500});
+				nl_email.add(Validate.Presence, {failureMessage: " "});
+				nl_email.add( Validate.Email,{failureMessage: " "} );
 			</script>
 		</div>
-		<div style="width:190px;height:2px;"><img src="http://www.enjoydressup.com/images/smr.gif" width="190" height="2"></div>
-		<div id="twitterDiv">
-			<img src="http://www.enjoydressup.com/images/twitter.gif" width="190" height="28">
-			<div style="margin-left:5px;padding-bottom:3px;"><a href="http://twitter.com/enjoydressup" target="_blank"><img src="http://www.enjoydressup.com/images/twitter_logo.gif" width="180" height="60" border="0"></a></div>
-		</div>
 	</div>	
-	<div style="width:190px;height:2px;margin-left:1px;"><img src="http://www.enjoydressup.com/images/bottom_mr.gif" width="190" height="2"></div>
+    </div>
+    </div>
+    
 </div>
 <div style="clear:both;"></div>
+<script type="text/javascript">addOnLoad(function(){ajax_load_id("http://www.enjoydressup.com/happy-birthday.html","happyBirthdayDiv");});</script>
 	
 		</div>
 	</div>
 	<div style="clear:both;"></div>
-
-	<div style="width:1000px;min-height:35px;margin-top:10px;">
-		<div style="float:left;width:200px; min-height:35px;">&nbsp;</div>
-		<div style="float:left;width:650px;min-height:35px;">
-			<div class="smallThumbPartener"><a href="http://www.dressupgames.com" target="_blank"><img style="border:1px #ffffff" src="http://www.enjoydressup.com/files/premium_parteners/10dressupgames.gif" width="88" height="31" alt="Dress Up Games" title="Dress Up Games"></a></div><div class="smallThumbPartener"><a href="http://www.fupa.com" target="_blank"><img style="border:1px #ffffff" src="http://www.enjoydressup.com/files/premium_parteners/fupa-88x31.gif" width="88" height="31" alt="Free Online Games" title="Free Online Games"></a></div><div class="smallThumbPartener"><a href="http://www.girlgogames.com" target="_blank"><img style="border:1px #ffffff" src="http://www.enjoydressup.com/files/premium_parteners/girlsgogames88x31.gif" width="88" height="31" alt="Girl Games" title="Girl Games"></a></div><div class="smallThumbPartener"><a href="http://www.bonniegames.com" target="_blank"><img style="border:1px #ffffff" src="http://www.enjoydressup.com/files/premium_parteners/bonniegames-88x31.gif" width="88" height="31" alt="Bonnie Games" title="Bonnie Games"></a></div><div class="smallThumbPartener"><a href="http://www.gamesforgirlsclub.com" target="_blank"><img style="border:1px #ffffff" src="http://www.enjoydressup.com/files/premium_parteners/logo_88x31gfgc.gif" width="88" height="31" alt="Games For Girl Club" title="Games For Girl Club"></a></div><div class="smallThumbPartener"><a href="http://www.girlgames.com" target="_blank"><img style="border:1px #ffffff" src="http://www.enjoydressup.com/files/premium_parteners/girlgames88x31.gif" width="88" height="31" alt="Girl Games" title="Girl Games"></a></div><div class="smallThumbPartener"><a href="http://www.coffish.com" target="_blank"><img style="border:1px #ffffff" src="http://www.enjoydressup.com/files/premium_parteners/12coffish88x31.gif" width="88" height="31" alt="Free Online Games" title="Free Online Games"></a></div><div class="smallThumbPartener"><a href="http://www.gameland4girls.com" target="_blank"><img style="border:1px #ffffff" src="http://www.enjoydressup.com/files/premium_parteners/gameland4girls-banner.jpg" width="88" height="31" alt="Games For Girls" title="Games For Girls"></a></div>
-			<div style="clear:both;"></div>
-		</div>
-		<div style="clear:both;"></div>
-	</div>	
 </div>
 <div style="width:100%; height:1px; background-color:#EADEC6;font-size:1px;margin-top:10px;">&nbsp;</div>
 <div style="width:100%; height:1px; background-color:#FFF5E9;font-size:1px;">&nbsp;</div>
 <div style="width:100%; height:30px;background-color:#EADEC6;">
 	<div style="width:1000px;height:30px;margin: 0 auto;">
 		<div id="footer1TitleRow"><div id="footer1TitleCell">Menu</div></div>
-		<div id="footer2TitleRow"><div id="footer2TitleCell">You can find here</div></div>
-		<div id="footer3TitleRow"><div id="footer3TitleCell">Other cool links</div></div>
+		<div id="footer2TitleRow">&nbsp;</div>
+		<div id="footer3TitleRow">&nbsp;</div>
 		<div id="footer4TitleRow"><div id="footer4TitleCell">&nbsp;</div></div>
 		<div style="clear:both;"></div>
 	</div>
@@ -677,47 +322,45 @@ playback timings (ms):
 			<div style="width:200px; height:10px;">&nbsp;</div>
 			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/privacy-policy.html" class="aFooter">Privacy Policy</a></div>
 			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/contact-us.html" class="aFooter">Contact Us</a></div>
-			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/game-index.html" class="aFooter">Game Index</a></div>
+			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/game-index-A.html" class="aFooter">Game Index</a></div>
 			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/about-us.html" class="aFooter">About Us</a></div>
-			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/html/download-games-page-1.html" class="aFooter">Download games</a></div>
+			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/download-games-page-1.html" class="aFooter">Download Games</a></div>
 			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/submit-game.html" class="aFooter">Submit</a></div>
-			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/link-exchange.html" class="aFooter">Link exchange</a></div>
+			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/link-exchange.html" class="aFooter">Webmasters</a></div>
 			<div class="menuItemFooter1"><a href="http://www.enjoydressup.com/other-parteners.html" class="aFooter">Other Parteners</a></div>
 		</div>
 		<div id="footer2Content">
 			<div style="width:120px; height:10px;">&nbsp;</div>
-			<div class="menuItemFooter2"><a href="http://www.enjoydressup.com" class="aFooter">Girl games</a></div>
-			<div class="menuItemFooter2"><a href="http://www.enjoydressup.com" class="aFooter">Jeux pour filles</a></div>
-			<div class="menuItemFooter2"><a href="http://www.enjoydressup.com" class="aFooter">Spiele fur madchen</a></div>
-			<div class="menuItemFooter2"><a href="http://www.enjoydressup.com" class="aFooter">Giochi per ragazze</a></div>
-			<div class="menuItemFooter2"><a href="http://www.enjoydressup.com" class="aFooter">Juegos para chicas</a></div>
-			<div class="menuItemFooter2"><a href="http://www.enjoydressup.com" class="aFooter">Jogos para meninas</a></div>
 		</div>
 		<div id="footer3Content">
 			<div style="width:470px; height:10px;">&nbsp;</div>
-				<div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.gamesfree.ca" target="_blank" class="aFooterParteners" title="Games Free">Games Free</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.degirlgames.com" target="_blank" class="aFooterParteners" title="Girl Games">Girl Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.allfungirlsgames.com" target="_blank" class="aFooterParteners" title="Girls Games">Girls Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.jeux-internet.com/games.php?categorie=mario" target="_blank" class="aFooterParteners" title="Jeux Mario">Jeux Mario</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.gamesforgirlsclub.com" target="_blank" class="aFooterParteners" title="Games For Girls">Games For Girls</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.arcadelady.com" target="_blank" class="aFooterParteners" title="Free Online Games">Free Online Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.greatgirlgames.com" target="_blank" class="aFooterParteners" title="Play Free Girl Games">Play Free Girl Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.dressupgames77.com/bratz_games.htm" target="_blank" class="aFooterParteners" title="Bratz Games">Bratz Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.gamesbunch.com" target="_blank" class="aFooterParteners" title="Dress Up Games">Dress Up Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.downloadgames2008.com" target="_blank" class="aFooterParteners" title="Free PC Games">Free PC Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.flasharcadegamessite.com" target="_blank" class="aFooterParteners" title="Arcade Games">Arcade Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.dressupgames8.com" target="_blank" class="aFooterParteners" title="Dress Up Games For Girls">Dress Up Games For Girls</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.divachix.com" target="_blank" class="aFooterParteners" title="Dress Up Games">Dress Up Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.nummyz.com" target="_blank" class="aFooterParteners" title="Nummyz Girl Games">Nummyz Girl Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.dressuplive.com" target="_blank" class="aFooterParteners" title="Girl Games">Girl Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.funpcgame.com" target="_blank" class="aFooterParteners" title="Download Games1">Download Games1</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.girlsgames.biz" target="_blank" class="aFooterParteners" title="Girl Games">Girl Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.pinkbunnylilli.de" target="_blank" class="aFooterParteners" title="PinkBunnyLilli.de">PinkBunnyLilli.de</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.dressupcraze.com" target="_blank" class="aFooterParteners" title="Dress Up Craze">Dress Up Craze</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.gameswith.us" target="_blank" class="aFooterParteners" title="Dress Up Games">Dress Up Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.playpink.com" target="_blank" class="aFooterParteners" title="Girl Games">Girl Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.topjogosdemeninas.com.br" target="_blank" class="aFooterParteners" title="Jogos De Meninas">Jogos De Meninas</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.dressupkiss.com" target="_blank" class="aFooterParteners" title="Kissing Games">Kissing Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.juegos.tv" target="_blank" class="aFooterParteners" title="Juegos">Juegos</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.dressuparcade.com" target="_blank" class="aFooterParteners" title="Dress Up Games">Dress Up Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.missoandfriends.com/misso/games/thelink/index.php" target="_blank" class="aFooterParteners" title="Virtual World for Girls">Virtual World for Girls</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.3j3.com" target="_blank" class="aFooterParteners" title="Free Online Games">Free Online Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.stoneagegames.com" target="_blank" class="aFooterParteners" title="Hidden Object Games">Hidden Object Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.buscarjogos.com.br" target="_blank" class="aFooterParteners" title="Jogos Online">Jogos Online</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.gratisjogos.info" target="_blank" class="aFooterParteners" title="Jogos Gratis">Jogos Gratis</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.dressupluv.com" target="_blank" class="aFooterParteners" title="Dress Up Games">Dress Up Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.xooarticles.com/cat/Entertainment/" target="_blank" class="aFooterParteners" title="Xoo Article Submission">Xoo Article Submission</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.hotgirlsdressup.com" target="_blank" class="aFooterParteners" title="Dress Up Games">Dress Up Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.juegos-vestir.net" target="_blank" class="aFooterParteners" title="Juegos de Vestir">Juegos de Vestir</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.elbuscajuegos.com/categorias-juegos/21/chicas.html" target="_blank" class="aFooterParteners" title="Juegos de Chicas">Juegos de Chicas</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.meloniamaster.com/categoria-juegos-gratis/8/Juegos_de_Vestir/1.html" target="_blank" class="aFooterParteners" title="Juegos de Vestir">Juegos de Vestir</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.onlygirlsgames.com" target="_blank" class="aFooterParteners" title="Only Girls Games">Only Girls Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.topmakeovergames.com" target="_blank" class="aFooterParteners" title="Makeover Games">Makeover Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.girlgames88.com" target="_blank" class="aFooterParteners" title="Girls Games">Girls Games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.playhub.com" target="_blank" class="aFooterParteners" title="games">games</a></div></div><img src="http://www.enjoydressup.com/images/sign.gif" width="1" height="14" class="homePartenerSign"><div class="homePartenerRow"><div class="homePartenerCell"><a href="http://www.dailydressupgames.com" target="_blank" class="aFooterParteners" title="Dress Up Games">Dress Up Games</a></div></div>
 			<div style="clear:both;"></div>
 		</div>
 		<div id="footer4Content">
 			<div style="width:190px; height:10px;">&nbsp;</div>
-			© 2009-2010 <a href="http://www.enjoydressup.com" title="Dress up games" class="aFooter">EnjoyDressUp.</a><br>
+			© 2009-2011 EnjoyDressUp<br>
 			All rights reserved.<br>
-			<img src="http://www.enjoydressup.com/images/small-logo.gif" width="110" height="50" alt="Dress up games" title="Dress up games"><br><br>
-			<a href="http://whos.amung.us/stats/6fxbfee1j9vo/" target="_blank"><img src="http://whos.amung.us/swidget/6fxbfee1j9vo.png" width="80" height="15" border="0" title="Click to see how many people are online"></a>
+            <img src="http://static2.enjoydressup.net/images/small-logo.gif" width="110" height="50" alt="Dress up games" title="Dress up games">
+            <br><br>
+			<a href="http://whos.amung.us/stats/6fxbfee1j9vo/" target="_blank"><img src="http://whos.amung.us/swidget/6fxbfee1j9vo.png" width="80" height="15" border="0" title="Click to see how many people are online" alt=""></a>
 		</div>
 		<div style="clear:both;"></div>
 	</div>
 </div>
-<script>ajax_load_id('/modules/login.php','secondRightUp');</script>
+<script type="text/javascript">ajax_load_id('http://www.enjoydressup.com/modules/login.php','secondRightUp');</script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7372037-3");
-pageTracker._trackPageview();
-} catch(err) {}
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20828416-1']);
+  _gaq.push(['_setDomainName', 'www.enjoydressup.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
 </body></html>
