@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tonic.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126192740id_/http%3A//www.tonic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonic.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630142035id_/http%3A//www.tonic.com/privacy) for the most accurate reproduction.*
 
-# Tonic: Privacy and Security
+# 
 
 At Tonic, your privacy and security are critical to us. We guard it with our lives. See below for details.
 
 **Tonic Privacy Policy & Statement of Security**
 
-Last updated: 9/10/2010
+Last updated: 2/28/2011
 
 This Privacy Policy (the “Policy”) applies to information that we obtain in connection with your use of the Tonic Generation Inc. (“Tonic”) website [www.tonic.com](http://www.tonic.com/) and other related owned and operated websites (the "Sites"). More specifically, the Policy is designed to tell you how we collect and use personal information (as defined below) so you can make an informed decision about using our Sites. Please read this statement before using our Sites or submitting any personal information to us. By using our Sites, you represent that you are 13 years old or older and you consent to the information collection and use practices described herein. **We reserve the right to change the provisions of this privacy policy at any time by posting a revised privacy policy on the Sites and indicating on the privacy policy the date it was last updated. Your use of the Sites following the posting of such changes or revised statement shall constitute your acceptance of any such changes.** We encourage you to review our privacy policy whenever you visit our Sites to determine if any changes have been made and to make sure that you understand how any personal information you provide will be used.
 
@@ -23,8 +23,6 @@ You can browse the Sites without telling us who you are or revealing any persona
   * other information that is not personally identifiable, including IP address and standard web log information, operating system and browser and the domain name of your internet provider.
 
 
-
-For the purposes of Tonic’s campaign with Angiogenesis Foundation to “Start a New Fight Against Cancer” during September 2010, Tonic may share the personal information you provided when signing up for an account directly with Tonic or through Facebook Connect with our partner Angiogenesis Foundation. You may receive information to learn more about using foods to fight cancer and be provided more information. More information on Angiogeneis Foundation may be found at [www.angio.org](http://www.angio.org/). You will have the opportunity to opt out of contact from both Tonic and the Angiogenesis Foundation when signing up.
 
 Where we have designed our Sites to let you send personal data to Tonic, your transmission will be protected by Secure Socket Layer (SSL). SSL is a technology that encrypts your information during transmission and will be apparent by a lock image on your browser or by a URL starting with “https.”
 
