@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nurse.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120131353id_/http%3A//www.nurse.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nurse.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630190958id_/http%3A//www.nurse.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -49,239 +49,204 @@ function OAS_NORMAL(pos) {
 <script language="javascript1.1" type="text/javascript" src="http://ghg.ur.gcion.com/Scripts/AD/Adtechscript.js"></script>
 
 
-		<link rel="stylesheet" type="text/css" href="http://www.nurse.com/styles/main.css?v=2.001">
+		<link rel="stylesheet" type="text/css" href="http://www.nurse.com/styles/NewHomePage.css">
+		<!--[if IE 6]>
+		<link href="http://www.nurse.com/styles/ie6.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 7]>
+		<link href="http://www.nurse.com/styles/ie7.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
 	
 
 	<link rel="icon" href="http://www.nurse.com/favicon.ico" type="image/vnd.microsoft.icon">
 	<link rel="shortcut icon" href="http://www.nurse.com/favicon.ico">
-
+<script type="text/javascript" src="http://www.nurse.com/scripts/GoogleAnalytics.js"></script>
 	</head>
 
 	
 		<body class="oneCol">
 	
-
-	<!--jquery menu -->
-
 	<script type="text/javascript" src="http://www.nurse.com/scripts/jquery.js"></script>
-	<script type="text/javascript" src="http://www.nurse.com/scripts/Navigation/bgiframe.js"></script>
-	<script type="text/javascript" src="http://www.nurse.com/scripts/Navigation/superfish.js"></script>
-	<script type="text/javascript" src="http://www.nurse.com/scripts/jExpand.js"></script>
-
-	<!--end jquery menu -->
-	
 	<script type="text/javascript" src="http://www.nurse.com/scripts/jquery.simplemodal-1.3.5.js"></script>
 	<script type="text/javascript" src="http://www.nurse.com/scripts/tabtoggler.js"></script>
-	<script type="text/javascript" src="http://www.nurse.com/scripts/jobSearch.js"></script>
 	<script type="text/javascript" src="http://www.nurse.com/galleries/nurseawards/newWindow.js"></script>
-
-	<script type="text/javascript">
-	
-	$(document).ready(function(){
-		$("ul.nav")
-		.superfish({
-			animation : { opacity:"show",height:"show"}
-		})
-		.find(">li:has(ul)")
-			.mouseover(function(){
-				$("ul", this).bgIframe({opacity:false});
-			})
-			.find("a")
-				.focus(function(){
-					$("ul", $(".nav>li:has(ul)")).bgIframe({opacity:false});
-				});
-	});
-	</script>
-
 
 <div id="wrapper">
 
-	<div id="rssIcon"><a href="http://www.nurse.com/newsfeed.xml">
-	<img src="http://www.nurse.com/images/RSS_global.gif" width="16px" height="16px" alt="Subscribe to RSS"></a>
-	</div>
-	<div id="rss"><a href="http://www.nurse.com/newsfeed.xml">Subscribe to RSS</a></div>
-	
-	<div id="subscribe">
-		<a href="https://www.nurse.com/Subscriptions.html">Subscribe to Nurseweek | Nursing Spectrum</a><br>
-	</div>
+
+<div id="head-container">
+
+
+		<div id="logo" style="padding-top:5px"><a href="http://www.nurse.com"><img name="NewNurse_logo" src="http://www.nurse.com/images/new_images_test/NewNurse_logo.jpg" width="266" height="77" border="0" id="NewNurse_logo" alt="Nurse.com "></a></div> 
+    <div class="ads-290" style="padding-right:12px">
+				<span style="float:right; color:#8FA4D2; font-size:8px; margin-bottom:0px; text-align:right; text-transform:uppercase;">ADVERTISEMENT</span>
 	
 
-<script language="javascript">
+				<script type="text/javascript">
+					<!--
+					OAS_AD('468x60_1');
+					//-->
+				</script>
+				
+			
+
+	</div>
+    <div class="clear"></div>
+    <div class="subscribeText"><a href="https://www.nurse.com/Subscriptions.html">Subscribe</a> | <a href="http://www.helpatnursingspectrum.com/">Advertise</a> | <a href="http://www.nurse.com/contact/">FAQ</a></div>
+
+<script type="text/javascript">
 var loggedIn = 0;
-function Welcome(){
-	var uName = "";
-
-	if (document.cookie.length > 0 && document.cookie.indexOf("username=") > 0){
-		var spos = document.cookie.indexOf("username=") + 9;
-		var epos = document.cookie.indexOf("&emailAddress=",spos);
-		uName = document.cookie.substring(spos,epos);
-		var spos = document.cookie.indexOf("rnID=") + 5;
-		var epos = document.cookie.indexOf(";",spos);
-		rnID = document.cookie.substring(spos,epos);
-		
-		if (uName != "Anonymous")
-			loggedIn = 1;
-	}
-
-	if(loggedIn){document.write('<li><strong>Hello ' + uName + '</strong></li><li><a href="https://www.nurse.com/account/">My Account</a></li><li><a href="http://www.nurse.com/logout.html">Log Out</a></li>');}
-	else {document.write('<li><a href="https://www.nurse.com/signup/">Login </a></li><li><a href="https://www.nurse.com/signup/#signup">Sign Up</a></li>');}
+var uName = "";
+var uNameShort = "";
+var sLen = 10;
+if (document.cookie.length > 0 && document.cookie.indexOf("username=") > 0){
+	var spos = document.cookie.indexOf("username=") + 9;
+	var epos = document.cookie.indexOf("&emailAddress=",spos);
+	uName = document.cookie.substring(spos,epos);
+	var spos = document.cookie.indexOf("rnID=") + 5;
+	var epos = document.cookie.indexOf(";",spos);
+	rnID = document.cookie.substring(spos,epos);
+	
+	if (uName != "Anonymous")
+		loggedIn = 1;
+}
+if (uName.length > sLen){
+	uNameShort = uName.substr(0,sLen) + "...";
+}
+else
+{
+	uNameShort = uName;
 }
 </script>
 
-	<div id="uNav">
-		<ul>
-			<script language="javascript">
-			Welcome();
-			</script><li><a href="https://www.nurse.com/signup/">Login </a></li><li><a href="https://www.nurse.com/signup/#signup">Sign Up</a></li>
-			<li><a href="http://www.helpatnursingspectrum.com/" target="_blank">Advertise</a></li>
-			
-			<li class="last"><a href="http://www.nurse.com/contact/">Help/FAQ</a></li>
-		</ul>
-	</div>
-
-	<div class="clear"></div>
-	
-	
-	<!--Begin Masthead -->
-	
-			<div id="masthead">
-		
-		<a href="http://www.nurse.com">
-			<img id="logo" src="http://www.nurse.com/images/nurse_logo_wtext2.gif" width="200" height="90" alt="Nurse.com - Nursing News, Nursing Jobs, Nurse Continuing Education, Nurse Community">
-		</a>
-		
-
-		<!--Search Box Variable -->
-		
-			<div id="searchboxHeader" style="margin:50px 0 0 15px;">
-				<form action="http://search.nurse.com/sp" method="get" name="stdForm">
-				<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td colspan="2">Search Nurse.com</td>
-				</tr>
-				<tr>
-					<td>
-						<input type="hidden" value="" name="skin">
-						<div class="inputWrapper">
-							<input type="text" value="" name="keywords">
-						</div>
-					</td>
-					<td valign="top">
-						<input type="image" value="Go" id="search-form-submit" name="submit" src="http://www.nurse.com/images/btn_headerSearch.gif">
-					</td>
-				</tr>
-				</tbody></table>
-				<input type="hidden" name="mode" value="search">
-				</form>
-			</div>
-			
-		<div id="advertisement">
 
 
-				
-					<script type="text/javascript">
-						<!--
-						OAS_AD('468x60_1');
-						//-->
-					</script>
-					<br>
-					ADVERTISEMENT
-				
-	
-		</div>
-	
-		
-	<div class="clear"></div>
-		
-	
-	
-	<!--jquery Menu -->
+<div class="menu">
 
-		<div id="gNav">	
+<ul>
 
-		
-		<ul class="nav">
-			<li class="centered" id="nav-jobs">
-				<a href="http://www.nurse.com/jobs/">Jobs</a>
-				
-				<ul id="dropDownJobs">
+<li><a class="first" href="http://www.nurse.com/">Home</a>
+
+</li><li><a class="mid" href="http://www.nurse.com/jobs/">Jobs</a>
+
+<!--[if lte IE 6]>
+<a href="http://www.nurse.com/jobs" class="first-ie">Jobs
+<table><tr><td>
+<![endif]-->
+
+	<ul>
 					<li><a href="http://www.nurse.com/employerprofiles/">Employer Profiles</a></li>
 					<li><a href="http://www.nurse.com/resume/">Update Your Resume</a></li>
 					<li><a href="http://www.nurse.com/jobs/emplogin.cfm">Recruiter Login</a></li>
 					<li><a href="http://www.nurse.com/jobs/emplogin.cfm?goto=/jobs/employers/addajob.cfm">Post A Job</a></li>
-					<li><a href="http://www.nurse.com/travelmoving/">Travel Nursing</a></li>
-					<li><a href="http://www.nurse.com/asktheexperts/deardonna/">Career Advice</a></li>
-					<li><a href="http://www.nurse.com/tv">Video Profiles</a></li>
-					<li><a href="http://chat.nurse.com">VOH Chat</a></li>
-				</ul>
-				
-			</li>
-			
-			<li class="centered" id="nav-education">
-				<a href="http://CE.Nurse.com">Education</a>
-				
-				<ul id="dropDownEducation">
+					
+	</ul>
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a class="mid" href="http://CE.Nurse.com">Education</a>
+
+<!--[if lte IE 6]>
+<a href="http://CE.Nurse.com" class="mid-ie">Education CE
+<table><tr><td>
+<![endif]-->
+
+	<ul>
 					<li><a href="http://CE.Nurse.com/">Self-Study CE Courses</a></li>
-					<li><a href="http://www.nurse.com/unlimitedCE">Unlimited CE</a></li>
+					<li><a href="http://www.nurse.com/unlimitedCE/">Unlimited CE</a></li>
 					<li><a href="http://www.ghginteractive.com">CE Direct</a></li>
-					<li><a href="http://www.nurse.com/ce/rntobsn.html">Online Nursing Degrees</a></li>
 					<li><a href="http://www.nurse.com/CEwebinars/">CE Webinars</a></li>
 					<li><a href="http://www.nurse.com/CEseminars/">Live CE Seminars</a></li>
-					
-					<li><a href="http://www.nurse.com/education/refresher.htm">RN Refresher Courses</a></li>
+				
 					<li><a href="http://ce.nurse.com/RStateReqmnt.aspx">State Required CE</a></li>
-					<li><a href="http://ce.nurse.com/FindCETrans.aspx">Find CE Certificates</a></li>
+					
 					<li><a href="http://ce.nurse.com/Accreditation.aspx">Accreditation Statement</a></li>
-					<li><a href="http://www.nurse.com/educationVideo/">Education Video Profiles</a></li>
-					<li><a href="http://www.nurse.com/drughandbook/">Drug Handbook</a></li>
-				</ul>
 				
-			</li>
-			
-			<li class="centered" id="nav-news">
-				<a href="http://www.nurse.com/news/">News</a>
-				
-				<ul id="dropDownNews">
-					<li><a href="http://www.nurse.com/digitaledition/">Digital Edition</a></li>
+	</ul>
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a class="mid" href="http://search.nurse.com/news/">News</a>
+
+<!--[if lte IE 6]>
+<a href="http://www.nurse.com/news/" class="mid-ie">News
+<table><tr><td>
+<![endif]-->
+
+	<ul>
+					
 					<li><a href="http://www.nurse.com/students/">Student News</a></li>
-					<li><a href="http://www.nurse.com/clinicalnews/">Clinical News</a></li>
-					<li><a href="http://www.nurse.com/drugnews/">Drug News</a></li> 
-					<li><a href="http://www.nurse.com/asktheexperts/deardonna/">Dear Donna</a></li>
-					<li><a href="http://www.nurse.com/asktheexperts/brentslaw/">Brent's Law</a></li>
-					<li><a href="http://www.nurse.com/news/writersGuide.html">Writers' Guidelines</a></li>
-				</ul>	
-				
-			</li>
-			
-			<li class="centered" id="nav-community">
-				<a href="http://forums.nurse.com">Community</a>
-				
-				<ul id="dropDownCommunity">
-					<li><a href="http://forums.nurse.com/">Nurse to Nurse</a></li>
-					<li><a href="http://forums.nurse.com/blog.php"> Blogs</a></li>
-					<li><a href="http://www.nurse.com/calendar/">RN Community Calendar</a></li>
-				</ul>
-				
-			</li>	
-			
-			<li class="centered" id="nav-events"> 
-				<a href="http://www.nurse.com/events/">Events</a>
-				
-				<ul id="dropDownEvents">
+					
+	</ul>
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a class="mid" href="http://www.nurse.com/events/">Events</a>
+
+<!--[if lte IE 6]>
+<a href="http://www.nurse.com/events" class="mid-ie">Events
+<table><tr><td>
+<![endif]-->
+
+	<ul>
 					<li><a href="http://www.nurse.com/CareerFairs/">Career Fairs</a></li>
 					<li><a href="http://www.nurse.com/CEwebinars/">Webinars</a></li>
 					<li><a href="http://www.nurse.com/CEseminars/">Seminars</a></li>
 					<li><a href="http://www.nurse.com/CEtours/">Tours</a></li>
 					<li><a href="http://www.nurse.com/nursingexcellence/">Nursing Excellence</a></li>
-					<li><a href="http://chat.nurse.com">Virtual Open Houses</a></li>
-				</ul>
-				
-			</li>
-			
-			<li class="centered" id="nav-regions"> 
-				<a href="http://www.nurse.com/regions/">Regions</a>
-				
-				<ul id="dropDownRegions">
+					
+	</ul>
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a class="mid" href="http://forums.nurse.com">Community</a>
+
+<!--[if lte IE 6]>
+<a href="http://forums.nurse.com" class="mid-ie">Community
+<table><tr><td>
+<![endif]-->
+
+	<ul>
+					<li><a href="http://forums.nurse.com/">Nursing Forum</a></li>
+					<li><a href="http://forums.nurse.com/blog.php">User Blogs</a></li>
+					<li><a href="http://www.nurse.com/calendar/">RN Community Calendar</a></li>
+	</ul>
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a class="mid" href="http://www.nurse.com/regions/">Regions</a>
+
+<!--[if lte IE 6]>
+<a href="http://www.nurse.com/regions/" class="mid-ie">Regions
+<table><tr><td>
+<![endif]-->
+
+	<ul>
 					<li><a href="http://www.nurse.com/california/">California</a></li>
 					<li><a href="http://www.nurse.com/dcmdva/">DC/MD/VA</a></li>
 					<li><a href="http://www.nurse.com/florida/">Florida</a></li>
@@ -296,14 +261,23 @@ function Welcome(){
 					<li><a href="http://www.nurse.com/southcentral/">South Central</a></li>
 					<li><a href="http://www.nurse.com/southeast/">Southeast</a></li>
 					<li><a href="http://www.nurse.com/southwest/">Southwest</a></li>
-				</ul>
-				
-			</li>
-			
-			<li class="centered" id="nav-specialty"> 
-				<a href="http://www.nurse.com/specialty/">Specialty</a>
-				
-				<ul id="dropDownSpecialty">
+	</ul>
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a class="mid" href="http://www.nurse.com/specialty/">Specialties</a>
+
+<!--[if lte IE 6]>
+<a href="http://www.nurse.com/specialty/" class="mid-ie">Specialties
+<table><tr><td>
+<![endif]-->
+
+	<ul>
 					<li><a href="http://www.nurse.com/advancedpractice/">Advanced Practice</a></li>
 					<li><a href="http://www.nurse.com/criticalcare/">Critical Care</a></li>
 					<li><a href="http://www.nurse.com/ed/">Emergency Department</a></li>
@@ -313,331 +287,406 @@ function Welcome(){
 					<li><a href="http://www.nurse.com/pediatrics/">Pediatrics</a></li>
 					<li><a href="http://www.nurse.com/perioperative/">Perioperative</a></li>
 					<li><a href="http://www.nurse.com/womenshealth/">Women's Health</a></li>
-				</ul>	
-				
-			</li>
+	</ul>
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a class="mid" href="http://www.nurse.com/resources/">Resources</a>
+
+<!--[if lte IE 6]>
+<a href="http://www.nurse.com/resources/" class="mid-ie">Resources
+<table><tr><td>
+<![endif]-->
+
+	<ul>
+					<li><a href="http://www.nurse.com/asktheexperts/deardonna/">Dear Donna</a></li>
+					<li><a href="http://www.nurse.com/asktheexperts/brentslaw/">Brent's Law</a></li>
+					<li><a href="http://www.nurse.com/news/writersGuide.html">Writers' Guidelines</a></li>
+	</ul>
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a class="last" href="http://topics.nurse.com/well+nurse/">WellNurse</a>
+
+<!--[if lte IE 6]>
+<a href="http://topics.nurse.com/informatics/" class="last-ie">Informatics
+<table><tr><td>
+<![endif]-->
+
+<!--[if lte IE 6]>
+</td></tr></table>
+</a>
+<![endif]-->
+
+</li>
+</ul>
+
+     <div class="twitterIcon"><a href="http://twitter.com/Nurse_com" target="_blank"><img src="http://www.nurse.com/images/new_images_test/twitter_icon.jpg" alt="twitter" width="16" height="16" border="0"></a></div>  <div class="socialmediaIcons"><a href="http://www.facebook.com/nursedotcom"><img src="http://www.nurse.com/images/new_images_test/fb_icon.jpg" alt="facebook" width="16" height="16" border="0"></a></div> <div class="socialmediaIcons"><a href="http://www.nurse.com/newsfeed.xml"><img src="http://www.nurse.com/images/new_images_test/rss_icon.png" alt="rss" width="16" height="16" border="0" style="padding-right:10px"></a></div><script language="javascript">if(loggedIn){document.write('<div style="color:##666666;font-weight:bold;font-size:11px;padding-top:10px;padding-left:855px"> Hi ' + uNameShort + '</div>');}</script>
+     <div class="clear"></div>
+
+
+<div id="JobDiv">
+
+
+<form action="http://www.nurse.com/jobs/search_result.cfm" method="post" name="jobSearchFlat" id="jobSearchFlat" style="margin:0px; padding:0px;" onsubmit="if(document.getElementById('form-keywords').value != '' &amp;&amp; document.getElementById('form-keywords').value != 'Keywords'){document.forms.jobSearchFlat.action='http://www.nurse.com/jobs/search_result.cfm?keywords='+document.getElementById('form-keywords').value;}document.getElementById('form-keywords').value = '';">
+
+	 <div id="nurseJobsSearch">
+     <div class="searchSmallTxt">Search<br> Nursing Jobs </div>
+
+	<div class="dropdownSpace">
+<div class="select-round">
+<div class="select-wrap">
+		<select name="jobcountryid" style="width:117px;" class="input-select">
+			<option value="'0'">All States</option>
 			
-			<li class="centered" id="nav-resources"><a href="http://www.nurse.com/resources/">Resources</a></li>
-			<li class="centered" id="nav-home"><a href="http://topics.nurse.com/aspirehigher">Aspire Higher</a></li>
+					<option value="AL1">Alabama</option>
+				
+					<option value="AK1">Alaska</option>
+				
+					<option value="AZ1">Arizona</option>
+				
+					<option value="AR1">Arkansas</option>
+				
+					<option value="CA1">California</option>
+				
+					<option value="CO1">Colorado</option>
+				
+					<option value="CT1">Connecticut</option>
+				
+					<option value="DE1">Delaware</option>
+				
+					<option value="DC1">District of Columbia</option>
+				
+					<option value="FL1">Florida</option>
+				
+					<option value="GA1">Georgia</option>
+				
+					<option value="HI1">Hawaii</option>
+				
+					<option value="ID1">Idaho</option>
+				
+					<option value="IL1">Illinois</option>
+				
+					<option value="IN1">Indiana</option>
+				
+					<option value="IA1">Iowa</option>
+				
+					<option value="KS1">Kansas</option>
+				
+					<option value="KY1">Kentucky</option>
+				
+					<option value="LA1">Louisiana</option>
+				
+					<option value="ME1">Maine</option>
+				
+					<option value="MD1">Maryland</option>
+				
+					<option value="MA1">Massachusetts</option>
+				
+					<option value="MI1">Michigan</option>
+				
+					<option value="MN1">Minnesota</option>
+				
+					<option value="MS1">Mississippi</option>
+				
+					<option value="MO1">Missouri</option>
+				
+					<option value="MT1">Montana</option>
+				
+					<option value="NE1">Nebraska</option>
+				
+					<option value="NV1">Nevada</option>
+				
+					<option value="NH1">New Hampshire</option>
+				
+					<option value="NJ1">New Jersey</option>
+				
+					<option value="NM1">New Mexico</option>
+				
+					<option value="NY1">New York</option>
+				
+					<option value="NC1">North Carolina</option>
+				
+					<option value="ND1">North Dakota</option>
+				
+					<option value="OH1">Ohio</option>
+				
+					<option value="OK1">Oklahoma</option>
+				
+					<option value="OR1">Oregon</option>
+				
+					<option value="PA1">Pennsylvania</option>
+				
+					<option value="RI1">Rhode Island</option>
+				
+					<option value="SC1">South Carolina</option>
+				
+					<option value="SD1">South Dakota</option>
+				
+					<option value="TN1">Tennessee</option>
+				
+					<option value="TX1">Texas</option>
+				
+					<option value="UT1">Utah</option>
+				
+					<option value="VT1">Vermont</option>
+				
+					<option value="VA1">Virginia</option>
+				
+					<option value="WA1">Washington</option>
+				
+					<option value="WV1">West Virginia</option>
+				
+					<option value="WI1">Wisconsin</option>
+				
+					<option value="WY1">Wyoming</option>
+				
+					<option value="AB1">Alberta(CA)</option>
+				
+					<option value="BC1">British Columbia(CA)</option>
+				
+					<option value="MB1">Manitoba(CA)</option>
+				
+					<option value="NB1">New Brunswick(CA)</option>
+				
+					<option value="NL1">Newfoundland(CA)</option>
+				
+					<option value="NT1">Northwest Territories(CA)</option>
+				
+					<option value="NS1">Nova Scotia(CA)</option>
+				
+					<option value="NU1">Nunavut(CA)</option>
+				
+					<option value="ON1">Ontario(CA)</option>
+				
+					<option value="PE1">Prince Edward Island(CA)</option>
+				
+					<option value="QC1">Quebec(CA)</option>
+				
+					<option value="SK1">Saskatchewan(CA)</option>
+				
+					<option value="YT1">Yukon(CA)</option>
+				
+		</select>
+		</div>
+</div>
+	</div> 
+	
+	
+	<div class="dropdownSpace">
+		<div class="select-round">
+<div class="select-wrap">
+		<select name="categoryid" style="width:117px;" class="input-select">
+			<option value="0" selected="selected">All Specialties</option>
 			
-		</ul>
-		
-		</div>
-		<!--End jquery menu -->
-
-	<div class="clear"></div>
-
-
-
-	<div id="job-search">
-		<div id="job-img" align="center" style="color:#FFFFFF; padding-top:8px;">
-		
-		<h3>Search Over 12,464 RN Jobs</h3> 
-				
-		</div>
-		<div id="job-form">
-
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<form action="/jobs/search_result.cfm" method="post" name="jobSearchFlat" id="jobSearchFlat" onsubmit="if(document.getElementById('form-keywords').value != '') { document.forms.jobSearchFlat.action='/jobs/search_result.cfm?keywords='+document.getElementById('form-keywords').value; }"></form>
-					<tbody><tr>						<td>State
-							<select name="jobcountryid">
-
-								<option value="'0'">All States</option>
-								
-								
-										<option value="AL1">Alabama</option>
-									
-										<option value="AK1">Alaska</option>
-									
-										<option value="AZ1">Arizona</option>
-									
-										<option value="AR1">Arkansas</option>
-									
-										<option value="CA1">California</option>
-									
-										<option value="CO1">Colorado</option>
-									
-										<option value="CT1">Connecticut</option>
-									
-										<option value="DE1">Delaware</option>
-									
-										<option value="DC1">District of Columbia</option>
-									
-										<option value="FL1">Florida</option>
-									
-										<option value="GA1">Georgia</option>
-									
-										<option value="HI1">Hawaii</option>
-									
-										<option value="ID1">Idaho</option>
-									
-										<option value="IL1">Illinois</option>
-									
-										<option value="IN1">Indiana</option>
-									
-										<option value="IA1">Iowa</option>
-									
-										<option value="KS1">Kansas</option>
-									
-										<option value="KY1">Kentucky</option>
-									
-										<option value="LA1">Louisiana</option>
-									
-										<option value="ME1">Maine</option>
-									
-										<option value="MD1">Maryland</option>
-									
-										<option value="MA1">Massachusetts</option>
-									
-										<option value="MI1">Michigan</option>
-									
-										<option value="MN1">Minnesota</option>
-									
-										<option value="MS1">Mississippi</option>
-									
-										<option value="MO1">Missouri</option>
-									
-										<option value="MT1">Montana</option>
-									
-										<option value="NE1">Nebraska</option>
-									
-										<option value="NV1">Nevada</option>
-									
-										<option value="NH1">New Hampshire</option>
-									
-										<option value="NJ1">New Jersey</option>
-									
-										<option value="NM1">New Mexico</option>
-									
-										<option value="NY1">New York</option>
-									
-										<option value="NC1">North Carolina</option>
-									
-										<option value="ND1">North Dakota</option>
-									
-										<option value="OH1">Ohio</option>
-									
-										<option value="OK1">Oklahoma</option>
-									
-										<option value="OR1">Oregon</option>
-									
-										<option value="PA1">Pennsylvania</option>
-									
-										<option value="RI1">Rhode Island</option>
-									
-										<option value="SC1">South Carolina</option>
-									
-										<option value="SD1">South Dakota</option>
-									
-										<option value="TN1">Tennessee</option>
-									
-										<option value="TX1">Texas</option>
-									
-										<option value="UT1">Utah</option>
-									
-										<option value="VT1">Vermont</option>
-									
-										<option value="VA1">Virginia</option>
-									
-										<option value="WA1">Washington</option>
-									
-										<option value="WV1">West Virginia</option>
-									
-										<option value="WI1">Wisconsin</option>
-									
-										<option value="WY1">Wyoming</option>
-									
-										<option value="AB1">Alberta(CA)</option>
-									
-										<option value="BC1">British Columbia(CA)</option>
-									
-										<option value="MB1">Manitoba(CA)</option>
-									
-										<option value="NB1">New Brunswick(CA)</option>
-									
-										<option value="NL1">Newfoundland(CA)</option>
-									
-										<option value="NT1">Northwest Territories(CA)</option>
-									
-										<option value="NS1">Nova Scotia(CA)</option>
-									
-										<option value="NU1">Nunavut(CA)</option>
-									
-										<option value="ON1">Ontario(CA)</option>
-									
-										<option value="PE1">Prince Edward Island(CA)</option>
-									
-										<option value="QC1">Quebec(CA)</option>
-									
-										<option value="SK1">Saskatchewan(CA)</option>
-									
-										<option value="YT1">Yukon(CA)</option>
-									
-							</select>
-						</td>
-						<td>Specialty
-							<select name="categoryid">
-								<option value="0" selected="selected">All Specialties</option>
-								
-								<option value="55">Aesthetic/Esthetic</option>
-								
-								<option value="1">Ambulatory Care</option>
-								
-								<option value="36">Behavioral Health</option>
-								
-								<option value="37">Camp Nurse</option>
-								
-								<option value="38">Cardiology</option>
-								
-								<option value="2">Case Management</option>
-								
-								<option value="57">Cath Lab</option>
-								
-								<option value="39">Children's Services</option>
-								
-								<option value="3">Clinical Specialist</option>
-								
-								<option value="42">CNO/CNE</option>
-								
-								<option value="40">Community Health</option>
-								
-								<option value="41">Correctional Health</option>
-								
-								<option value="5">CRNA</option>
-								
-								<option value="7">Education</option>
-								
-								<option value="8">Emergency Department</option>
-								
-								<option value="20">Employee Health</option>
-								
-								<option value="54">Forensic</option>
-								
-								<option value="43">Gastroenterology</option>
-								
-								<option value="9">Geriatrics</option>
-								
-								<option value="44">Hemo/Oncology</option>
-								
-								<option value="10">Home Health</option>
-								
-								<option value="65">Hospice</option>
-								
-								<option value="4">ICU/CCU</option>
-								
-								<option value="12">Infection Control</option>
-								
-								<option value="61">Informatics</option>
-								
-								<option value="13">IV Therapy</option>
-								
-								<option value="45">Legal</option>
-								
-								<option value="53">Long Term Care</option>
-								
-								<option value="66">LPN/LVN</option>
-								
-								<option value="14">Managed Care</option>
-								
-								<option value="15">Managerial</option>
-								
-								<option value="16">Maternal/Child</option>
-								
-								<option value="17">Med/Surg</option>
-								
-								<option value="35">Miscellaneous</option>
-								
-								<option value="18">MR/DD</option>
-								
-								<option value="46">Neuroscience</option>
-								
-								<option value="58">NICU</option>
-								
-								<option value="19">Nurse Practitioner</option>
-								
-								<option value="49">OB/GYN</option>
-								
-								<option value="21">Office</option>
-								
-								<option value="22">OR/PACU</option>
-								
-								<option value="23">Orthopedics</option>
-								
-								<option value="51">Other</option>
-								
-								<option value="11">Palliative Care</option>
-								
-								<option value="24">Pediatrics</option>
-								
-								<option value="25">Per Diem</option>
-								
-								<option value="62">Physical Therapy</option>
-								
-								<option value="63">Physical Therapy Assistant</option>
-								
-								<option value="64">Physical Therapy Manager </option>
-								
-								<option value="59">PICU</option>
-								
-								<option value="26">Psychiatric</option>
-								
-								<option value="27">Public Health</option>
-								
-								<option value="47">Radiology</option>
-								
-								<option value="28">Rehabilitation</option>
-								
-								<option value="6">Renal-Dialysis</option>
-								
-								<option value="29">Research</option>
-								
-								<option value="34">Risk Mgmt/UR/QA</option>
-								
-								<option value="30">Sales/Marketing</option>
-								
-								<option value="31">School Nurse</option>
-								
-								<option value="60">Step Down</option>
-								
-								<option value="52">Student Nurse</option>
-								
-								<option value="50">Substance Abuse</option>
-								
-								<option value="32">Support Staffing</option>
-								
-								<option value="48">Telemetry</option>
-								
-								<option value="33">Traveling Nurse</option>
-								
-								<option value="56">Wound Care</option>
-								
-							</select>
-						</td>
-						<td>
-							Keywords
-							<input type="text" name="keywords" id="form-keywords">
-						</td>
-						<td><input type="image" src="http://www.nurse.com/images/button-job-header2.gif" alt="Find A Job" id="form-findjob" width="94" height="22"></td>
-					</tr>
-					<input type="hidden" name="jobtypeid" value="1">
-					<input type="hidden" name="jobtypeid" value="2">
-					<input type="hidden" name="jobtypeid" value="3">
-					<input type="hidden" name="jobtypeid" value="4">
-					<input type="hidden" name="opt" value="and">
-					<input type="hidden" name="dayold" value="0">
-					<input type="hidden" name="jobspage" value="50">
-				
-				</tbody></table>
-
+			<option value="55">Aesthetic/Esthetic</option>
+			
+			<option value="1">Ambulatory Care</option>
+			
+			<option value="36">Behavioral Health</option>
+			
+			<option value="37">Camp Nurse</option>
+			
+			<option value="38">Cardiology</option>
+			
+			<option value="2">Case Management</option>
+			
+			<option value="57">Cath Lab</option>
+			
+			<option value="39">Children's Services</option>
+			
+			<option value="3">Clinical Specialist</option>
+			
+			<option value="42">CNO/CNE</option>
+			
+			<option value="40">Community Health</option>
+			
+			<option value="41">Correctional Health</option>
+			
+			<option value="5">CRNA</option>
+			
+			<option value="7">Education</option>
+			
+			<option value="8">Emergency Department</option>
+			
+			<option value="20">Employee Health</option>
+			
+			<option value="54">Forensic</option>
+			
+			<option value="43">Gastroenterology</option>
+			
+			<option value="9">Geriatrics</option>
+			
+			<option value="44">Hemo/Oncology</option>
+			
+			<option value="10">Home Health</option>
+			
+			<option value="65">Hospice</option>
+			
+			<option value="4">ICU/CCU</option>
+			
+			<option value="12">Infection Control</option>
+			
+			<option value="61">Informatics</option>
+			
+			<option value="13">IV Therapy</option>
+			
+			<option value="45">Legal</option>
+			
+			<option value="53">Long Term Care</option>
+			
+			<option value="66">LPN/LVN</option>
+			
+			<option value="14">Managed Care</option>
+			
+			<option value="15">Managerial</option>
+			
+			<option value="16">Maternal/Child</option>
+			
+			<option value="17">Med/Surg</option>
+			
+			<option value="35">Miscellaneous</option>
+			
+			<option value="18">MR/DD</option>
+			
+			<option value="46">Neuroscience</option>
+			
+			<option value="58">NICU</option>
+			
+			<option value="19">Nurse Practitioner</option>
+			
+			<option value="49">OB/GYN</option>
+			
+			<option value="21">Office</option>
+			
+			<option value="22">OR/PACU</option>
+			
+			<option value="23">Orthopedics</option>
+			
+			<option value="51">Other</option>
+			
+			<option value="11">Palliative Care</option>
+			
+			<option value="24">Pediatrics</option>
+			
+			<option value="25">Per Diem</option>
+			
+			<option value="62">Physical Therapy</option>
+			
+			<option value="63">Physical Therapy Assistant</option>
+			
+			<option value="64">Physical Therapy Manager </option>
+			
+			<option value="59">PICU</option>
+			
+			<option value="26">Psychiatric</option>
+			
+			<option value="27">Public Health</option>
+			
+			<option value="47">Radiology</option>
+			
+			<option value="28">Rehabilitation</option>
+			
+			<option value="6">Renal-Dialysis</option>
+			
+			<option value="29">Research</option>
+			
+			<option value="34">Risk Mgmt/UR/QA</option>
+			
+			<option value="30">Sales/Marketing</option>
+			
+			<option value="31">School Nurse</option>
+			
+			<option value="60">Step Down</option>
+			
+			<option value="52">Student Nurse</option>
+			
+			<option value="50">Substance Abuse</option>
+			
+			<option value="32">Support Staffing</option>
+			
+			<option value="48">Telemetry</option>
+			
+			<option value="33">Traveling Nurse</option>
+			
+			<option value="56">Wound Care</option>
+			
+		</select>
+				</div>
+</div>
 	</div>
-		<div class="clear"></div>
+	
+	<div class="dropdownSpace">
+	
+		<input type="text" onfocus="if(this.value == 'Keywords'){this.value='';}" onblur="if(this.value == ''){this.value='Keywords';}" name="keywords" class="input-round" id="form-keywords" value="Keywords">
+	
+	</div> 
+			
+	<div class="dropdownSpace">
+	
+		<input type="image" src="http://www.nurse.com/images/new_images_test/find_a_job_button.jpg" alt="Find A Job" id="form-findjob" width="73" height="20">
+	
 	</div>
-	<div></div>
+
+</div>  
+
+	<input type="hidden" name="jobtypeid" value="1">
+	<input type="hidden" name="jobtypeid" value="2">
+	<input type="hidden" name="jobtypeid" value="3">
+	<input type="hidden" name="jobtypeid" value="4">
+	<input type="hidden" name="opt" value="and">
+	<input type="hidden" name="dayold" value="0">
+	<input type="hidden" name="jobspage" value="50">
+
+</form>
+
+
+
+<!--Search Box Variable -->
+<form action="http://search.nurse.com/" method="post" name="stdForm" id="stdForm" style="padding-left:575px;" onsubmit="if(document.getElementById('search-keywords').value != '' &amp;&amp; document.getElementById('search-keywords').value != 'Search Nurse.com'){document.forms.stdForm.action='http://search.nurse.com/?keywords='+document.getElementById('search-keywords').value;}">
+	<div class="search-box">
+		<input type="hidden" value="" name="skin">
+		<input type="text" onfocus="if(this.value == 'Search Nurse.com'){this.value='';}" onblur="if(this.value == ''){this.value='Search Nurse.com';}" value="Search Nurse.com" name="keywords" id="search-keywords" class="input-round-grey">
+	</div>
+	<div class="go-btn">
+		<input type="image" value="Go" id="search-form-submit" name="submit" src="http://www.nurse.com/images/new_images_test/go_button.jpg" width="30" height="23" alt="go">
+	</div>
+<input type="hidden" name="mode" value="search">
+</form>
+
+
+
+<script language="javascript">
+function Welcome(){
+	if(loggedIn){document.write('<div class="loginButtonSpacing"><a style="color:blue;" href="https://www.nurse.com/account/"><img src="http://www.nurse.com/images/new_images_test/account_button.jpg" width="60" height="20" alt="login" border="0" /></a></div> <div class="signupButtonSpacing"><a href="http://www.nurse.com/logout.html"><img src="http://www.nurse.com/images/new_images_test/log_out_button.jpg" width="60" height="20" alt="Log out" border="0" /></a></div>');}
+	else {document.write('<div class="loginButtonSpacing"><a href="https://www.nurse.com/signup/"><img src="http://www.nurse.com/images/new_images_test/login_button.jpg" width="60" height="20" alt="login" border="0" /></a></div> <div class="signupButtonSpacing"><a href="https://www.nurse.com/signup/#signup"><img src="http://www.nurse.com/images/new_images_test/signup_button.jpg" width="60" height="20" alt="sign up" border="0" /></a></div>');}
+}
+</script>
+
+<script language="javascript">
+Welcome();
+</script><div class="loginButtonSpacing"><a href="https://www.nurse.com/signup/"><img src="http://www.nurse.com/images/new_images_test/login_button.jpg" width="60" height="20" alt="login" border="0"></a></div> <div class="signupButtonSpacing"><a href="https://www.nurse.com/signup/#signup"><img src="http://www.nurse.com/images/new_images_test/signup_button.jpg" width="60" height="20" alt="sign up" border="0"></a></div>
+
+
+</div>
+
+
+</div>
 
 
 
 </div>
-<div class="clear"></div>
+
 
 
 <script type="text/javascript">
@@ -655,7 +704,7 @@ function signInOpen(allowClose) {
 				dialog.data.fadeIn('fast');
 				document.getElementById('signinuserfield').focus();
 			});
-		pageTracker._trackEvent('SignIn', 'Modal Window', 'Impressions');
+		_gaq.push(['_trackEvent', 'SignIn', 'Modal Window', 'Impressions']);
 		});
 	},
 	onClose: function (dialog) {
@@ -688,7 +737,7 @@ function signUpOpen() {
 				$("#simplemodal-container").animate({ top:"60px" }, 500 );
 				document.getElementById('signupfirstnamefield').focus();
 			});
-			pageTracker._trackEvent('SignUp', 'Step 1', 'Impressions');
+			_gaq.push(['_trackEvent', 'SignUp', 'Step 1', 'Impressions']);
 		});
 	},
 	onClose: function (dialog) {
@@ -740,7 +789,7 @@ try
 		$("#middle-register").show();
 		$("#simplemodal-container").animate({ top:"60px" }, 500 );
 		document.getElementById('signupfirstnamefield').focus();
-		pageTracker._trackEvent('SignUp', 'Step 1', 'Impressions');
+		_gaq.push(['_trackEvent', 'SignUp', 'Step 1', 'Impressions']);
 	});
 	}
 
@@ -777,13 +826,15 @@ catch(err)
 
 #uniheader-modal-login-box label {
 	font: bold 18px arial;
-	color: #1A569F;
+	color: #333;
 	display: block;
+	padding-top: 2px;
 }
 #uniheader-modal-login-box input {
-	border: 3px solid #1A569F;	
+	border: 3px solid #333;	
 	font: normal 18px arial;
 	padding: 5px;
+	
 }
 input.button {
 	border: none !important;
@@ -814,7 +865,7 @@ input.button {
 		
 		<input name="login_submit" value="1" type="hidden">
 
-		<input type="hidden" name="ReferPage" id="signinreferval" value="https://web.archive.org/web/20101120131353id_/http://www.nurse.com/Privacy/">
+		<input type="hidden" name="ReferPage" id="signinreferval" value="https://web.archive.org/web/20110630190958id_/http://www.nurse.com/Privacy/">
 		<input type="hidden" name="goTo" id="signingotoval" value="">
 
 		<label for="StayConnected">
@@ -866,15 +917,15 @@ input.button {
 		<span class="required">Enter the 4-digit number displayed in the box</span>
 		</td></tr>
 		<tr><td>		
-		<input name="SecKey5469" id="captchakey" value="" type="text" maxlength="4" size="10">
+		<input name="SecKey9895" id="captchakey" value="" type="text" maxlength="4" size="10">
 		</td><td>
-		<img src="https://www.nurse.com/includes/captcha.cfm?passedKey=5469" id="captchaval">
+		<img id="captchaval" src="https://www.nurse.com/includes/captcha.cfm?passedKey=9895">
 		</td></tr>
 		<tr><td colspan="2">
 		<input name="agreeterms" id="agreetoterms" type="hidden" value="1">
 		<br><br>
 		<input type="hidden" name="AccountInfoSubmit" value="1">
-		<input type="hidden" name="goTo" id="signupgotoval" value="https://web.archive.org/web/20101120131353id_/http://www.nurse.com/Privacy/">
+		<input type="hidden" name="goTo" id="signupgotoval" value="https://web.archive.org/web/20110630190958id_/http://www.nurse.com/Privacy/">
 		<input type="image" class="button" src="http://www.nurse.com/images/ui/btn/btn_g_register-now.png" alt="Register Now"><br><br>
 		</td></tr>		
 
@@ -910,14 +961,14 @@ input.button {
 <style type="text/css">
   li { list-style:disc; margin-left:25px;}
 </style>
-<h1>Privacy Policy</h1>
-<p>Last Updated: September 22, 2010</p>
-<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Policy.</p>
-<p>This Privacy Policy discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
-<p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our <a href="http://www.Nurse.com/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
+<h1>Privacy Notice</h1>
+<p>Last Updated: December 30, 2010</p>
+<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Notice.</p>
+<p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
+<p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our <a href="http://www.Nurse.com/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
 <h3>Your California Privacy Rights</h3>
 <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:</p>
-<p>Kim Jaske<br>
+<p>Mark Faris<br>
   Online Privacy Coordinator<br>
   <a href="http://www.Nurse.com">
   www.Nurse.com</a><br>
@@ -925,24 +976,24 @@ input.button {
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
 <h3>How We Collect and Use Information</h3>
-<p>We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
-<p>We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies.  To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
 <p>We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
-<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Policy.</p>
+<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Notice.</p>
 <p>For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."</p>
-<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
-<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
+<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.</p>
+<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.</p>
 <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.Nurse.com/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
-<h3>Data Collected in Connection with Ad Serving and Targeting</h3>
+<h3><a name="adchoices"></a>Data Collected in Connection with Ad Serving and Targeting</h3>
 <p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
 <p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
-<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our privacy policy.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.Nurse.com/adnetwork">click here</a>.</p>
+<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.Nurse.com/adnetwork">click here</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
 <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
 <h3>Children's Privacy Statement</h3>
@@ -958,8 +1009,8 @@ input.button {
 <h3>Storage of Information</h3>
 <p>All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access.  However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
 <h3>Questions Regarding Privacy</h3>
-<p>If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:</p>
-<p id="OnlinePrivacyCoordinator">Kim Jaske<br>
+<p>If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:</p>
+<p id="OnlinePrivacyCoordinator">Mark Faris<br>
   Online Privacy Coordinator<br>
   <a href="http://www.Nurse.com">
   www.Nurse.com</a><br>
@@ -971,120 +1022,36 @@ input.button {
 
 <div class="clear"></div>
 
+<div id="footer-container">
 
 
-<div id="fNav">
-  <div class="left" style="padding-top:3px;">
-    <div align="left"><a href="http://www.nurse.com/aboutus.html">About Us</a> • <a href="http://www.nurse.com/contact/">Contact Us</a> • <a href="http://www.Nurse.com/Terms/">Terms of Service</a> • <a href="http://www.nurse.com/Privacy/">Privacy Policy</a> • <a href="http://www.nurse.com/Subscriptions.html">Subscriptions</a> • <a href="http://www.helpatnursingspectrum.com/" target="_blank">Advertise</a></div>
-  </div>
-<div class="right"></div>
+<div align="center" class="footer">
+ <a href="http://www.nurse.com/">Home</a> | <a href="http://www.nurse.com/jobs/">Jobs</a> | <a href="http://ce.nurse.com/">Education</a> | <a href="http://www.nurse.com/news/">News</a> | <a href="http://www.nurse.com/events/">Events</a> | <a href="http://forums.nurse.com/forum.php">Community</a> | <a href="http://www.nurse.com/regions/">Regions</a> | <a href="http://www.nurse.com/specialty/">Specialty</a> | <a href="http://www.nurse.com/resources/">Resources</a> | <a href="http://www.nurse.com/aboutus.html">About Us</a> | <a href="http://www.nurse.com/contact/">Contact Us</a> | <a href="http://www.helpatnursingspectrum.com/">Advertise</a> | <a href="http://www.nurse.com/contact/">FAQ</a> | <a href="http://www.nurse.com/Terms/">Terms of Service</a> | <a href="http://www.nurse.com/Privacy/">Privacy</a></div>
 
+<div align="center">
+<br> 
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+  	
+    <td width="144"><img src="http://www.nurse.com/images/new_images_test/nursing_spectrum_footer.jpg" width="125" height="30" alt="Nursing Spectrum"></td>
+    <td width="131"><img src="http://www.nurse.com/images/new_images_test/nurseweek_footer.jpg" width="130" height="30" alt="Nurse Week"></td>
+    <td width="10">&nbsp;</td>
+     <td width="116"><a href="https://lms.nurse.com/" target="_blank"><img src="http://www.nurse.com/images/new_images_test/ce_direct_footer.jpg" alt="CE Direct" width="108" height="30" border="0"></a></td>
+         <td width="162"><a href="http://www.pearlsreview.com/" target="_blank"><img src="http://www.nurse.com/images/new_images_test/pearls_review_footer.jpg" alt="Pearls Review" width="150" height="30" border="0"></a></td>
+    <td width="116"><a href="http://www.todayinpt.com" target="_blank"><img src="http://www.nurse.com/images/new_images_test/today_in_pt_footer.jpg" alt="Today in PT" width="108" height="30" border="0"></a></td>  
+       <td width="121"><a href="http://www.todayinot.com" target="_blank"><img src="http://www.nurse.com/images/new_images_test/today_in_ot_footer.jpg" alt="Today in OT" width="108" height="30" border="0"></a></td>  
+   
 
-</div>
-
-
-
-<div id="links">
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<th>Jobs	  </th>
-		<td><a href="http://www.nurse.com/employerprofiles/">Employer Profiles</a> /
-				<a href="http://www.nurse.com/resume/">Resumes</a> /
-                <a href="http://www.nurse.com/jobs/emplogin.cfm">  Recruiter Login</a> /
-				<a href="http://www.nurse.com/travelmoving/">  Travel Nursing</a> /
-				<a href="http://www.nurse.com/tv">Video Profiles</a> /
-				<a href="http://www.nurse.com/asktheexperts/deardonna/">Career Advice</a> / <a href="http://chat.nurse.com">VOH Chat</a></td>
-	</tr>
-	<tr>
-		<th width="9%">News</th>
-		<td width="91%">	<a href="http://www.nurse.com/students/">Student News</a> /
-				<a href="http://www.nurse.com/asktheexperts/brentslaw/">Brent's Law</a> /
-				<a href="http://www.nurse.com/asktheexperts/deardonna/">Dear Donna</a> /
-				<a href="http://www.nurse.com/clinicalnews/">Clinical News </a> /
-				<a href="http://www.nurse.com/drugnews/">Drug News</a> /
-                <a href="http://www.nurse.com/news/writersGuide.html">Writers' Guidelines</a></td>
-	</tr>
-	<tr>
-		<th>Regions</th>
-	  <td><a href="http://www.nurse.com/california/">California</a> /
-        <a href="http://www.nurse.com/DCMDVA/">DC/MD/VA</a> /
-        <a href="http://www.nurse.com/florida/">Florida</a> /
-        <a href="http://www.nurse.com/chicago/">Greater Chicago</a> /
-        <a href="http://www.nurse.com/heartland/">Heartland</a> /
-        <a href="http://www.nurse.com/midwest">Midwest</a> /
-        <a href="http://www.nurse.com/newengland/">New England</a> /
-        <a href="http://www.nurse.com/newjersey/">New Jersey</a> /
-        <a href="http://www.nurse.com/newyork/">New York</a> / <a href="http://www.nurse.com/northwest">Northwest</a> /
-        <a href="http://www.nurse.com/philadelphia/">PA/Tri-State</a> /
-        <a href="http://www.nurse.com/southcentral/">South Central</a> /
-      <a href="http://www.nurse.com/southeast/">Southeast</a> / <a href="http://www.nurse.com/southwest">Southwest</a></td>
-	</tr>
-	<tr>
-		<th>Events</th>
-		<td>	<a href="http://www.nurse.com/CareerFairs/">Career Fairs</a> /
-				<a href="http://www.nurse.com/CEseminars/">CE Seminars</a> /
-                <a href="http://www.nurse.com/CEwebinars/">CE Webinars</a> /
-				<a href="http://www.nurse.com/CEtours/">Tours</a> /
-				<a href="http://www.nurse.com/nursingexcellence/">Nursing Excellence Awards</a> / <span class="box-links"> <a href="http://chat.nurse.com">Virtual Open House</a></span></td>
-	</tr>
-	<tr>
-		<th>Education</th>
-		<td><a href="http://CE.Nurse.com/">Self-Study Courses</a> /
-				<a href="http://www.nurse.com/unlimitedCE">Unlimited CE</a> /
-				<a href="http://lms.nurse.com">CE Direct</a> /
-				<a href="http://www.nurse.com/ce/rntobsn.html">Online Nursing Degrees</a>  /
-				<a href="http://ce.nurse.com/RStateReqmnt.aspx">State Requirements</a> /
-				<a href="http://ce.nurse.com/FindCETrans.aspx">Find CE Certificates</a> /
-				<a href="http://ce.nurse.com/Accreditation.aspx">Accreditation Statement</a> /
-                <a href="http://www.nurse.com/drughandbook/">Drug Handbook</a></td>
-	</tr>
-	<tr>
-      <th>Community</th>
-	  <td><a href="http://forums.nurse.com/">Community</a> / 
-     			<a href="http://www.Nurse.com/CommunityRules/">Community Rules</a> / 
-                <a href="http://forums.nurse.com/blog.php">Blog</a> / 
-               <!-- <a href="http://community.nurse.com/photos/"> Photo Gallery</a> / -->
-				<a href="http://www.nurse.com/calendar/">RN Community Calendar</a></td>
-    </tr>
-	<tr>
-	  <th height="24">&nbsp;</th>
-	  <td>&nbsp;</td>
-    </tr>
-	<tr>
-	  <th height="24" colspan="2">
-      <div align="center"></div>
-      </th>
+  </tr>
+  <tr>
+    <td colspan="7" align="center"><br><img src="http://www.nurse.com/images/new_images_test/footerGannett.gif" width="120" height="8" alt="A Gannett Company"></td>
     </tr>
 </tbody></table>
-
-
-
- <div class="footerLogo" style="width:110px">
-  	<a href="http://www.gannetthg.com"><img src="http://www.nurse.com/images/Logo_GannettHG.gif" alt="Gannett Healthcare Group" width="110" height="37"></a>  </div>  
-  <div class="footerLogo" style="width:152px">  
-    <img src="http://www.nurse.com/images/logo_nspectrum_small.gif" alt="Nursing Spectrum" width="152" height="41">
-  </div>
-    <div class="footerLogo" style="width:100px">
-    <img src="http://www.nurse.com/images/logo_nurseweek_small.gif" alt="Nurseweek" width="100" height="41">
-  </div>
-     <div class="footerLogo" style="width:100px">
-       <a href="http://www.nurse.com"><img src="http://www.nurse.com/images/logo_nursedotcom.gif" alt="Nurse.com" width="100" height="40"></a>  
-       </div>
-    
-    <div class="footerLogo" style="width:94px">
- 		<a href="http://www.todayinpt.com"><img src="http://www.nurse.com/images/logo_todayinpt_small.gif" alt="Today in PT" width="94" height="41"></a></div>
-    
-	<div class="footerLogo" id="last" style="width:94px; margin-right:0px">
-	<a href="http://www.todayinot.com"><img src="http://www.nurse.com/images/logo_todayinot_small.gif" alt="Today in OT" width="94" height="41"></a>
-    </div>        
-  <div class="clear"></div>  
-
-<div id="copyright">
-  <p>© Copyright 2010 Gannett Healthcare Group</p>
 </div>
+
+
+	<div align="center" class="footer">© 2011 - Gannett Healthcare Group</div>
+<br>
 </div>
 
 
@@ -1167,19 +1134,6 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<noscript>
 		<a href="http://www.vericlix.com"><img src="http://app.vericlix.com/images/vct.gif?cid=1570" border="0"></a>
 	</noscript>
-
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-
-var pageTracker = _gat._getTracker("UA-2151224-1");
-pageTracker._trackPageview();
-
-</script>
 
 
 
