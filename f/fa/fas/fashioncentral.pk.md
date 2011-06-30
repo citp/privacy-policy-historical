@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashioncentral.pk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229065223id_/http%3A//www.fashioncentral.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashioncentral.pk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630152930id_/http%3A//www.fashioncentral.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion Central
 
@@ -41,30 +41,3 @@ Each email sent has an easy way to unsubscribe from receiving email from the lis
 Your private information is safe with us as we will never sell your personal account information or subscriber data with anyone without your advance permission or unless ordered by a court of law. Information you submit to us is only accessible to employees managing the information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services concerned to our communications with you.  
 How to Contact us  
 If you have any queries or questions with regard to our Privacy Policy, kindly email to [info@fashioncentral.pk](mailto:info@fashioncentral.pk) or [webmaster@fashioncentral.pk](mailto:webmaster@fashioncentral.pk).
-
-## Gifts & Shopping
-
-Fashion jewellery's must-have trends. 
-
-  
-
-
-All the latest industry spas and spoiling products. 
-
-  
-
-
-Beauty's in the bag and accessories. Find the newest styles, designs. 
-
-  
-
-
-Electronics and Gadgets Trends. Find the latest selection of mobile phones, digital cameras and mp3 players. 
-
-  
-
-
-Women's Clothing and Designer Clothes, find the best picks in men's clothing. 
-
-  
-
