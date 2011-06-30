@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lincah.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619205719id_/http%3A//www.lincah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincah.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630115211id_/http%3A//www.lincah.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - New Car and Used Car Pictures on Lincah.Com
+# Privacy Policy - Car News, Pictures, Price and Specification on Lincah.Com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
