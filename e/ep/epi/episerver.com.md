@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329121052id_/http%3A//www.episerver.com/en/System/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630032712id_/http%3A//www.episerver.com/en/System/Privacy_Statement) for the most accurate reproduction.*
 
-# EPiServer AB is committed to protecting your integrity. Th... | EPiServer
+# EPiServer AB is committed to protecting your integ... | EPiServer
 
 EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the Web site [www.episerver.com](http://www.episerver.com/). This policy does not apply to other online or offline EPiServer AB sites, products or services. By visiting this Web site, you consent to the principles for collection and usage of information described in this privacy statement.
 
@@ -47,4 +47,4 @@ We may occasionally update this privacy statement. When we do, we will also upda
 
 ## Contact Information
 
-If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail:nospam@localhostpulnospam@localhost@nospam@localhostep.senospam@localhost.
+If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail:.
