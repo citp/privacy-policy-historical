@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cusp.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829034758id_/http%3A//www.cusp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cusp.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630063943id_/http%3A//www.cusp.com/privacy.aspx) for the most accurate reproduction.*
 
 # CUSP | Security & Privacy
 
@@ -8,12 +8,13 @@
   * Browser advisory
   * Warranty information
   * Conditions of use, notices and disclaimers
+  * Protecting Yourself from Internet Scams
 
 
 
 ##### Introduction
 
-This web site ("Web Site") is operated by CUSP, a division of the Neiman Marcus Group, Inc ("CUSP" or "we" or "us”). This privacy policy only covers information collected at this Web Site, and does not cover any information collected offline by Neiman Marcus (unless specifically stated).
+This web site ("Web Site") is operated by CUSP, a division of the Neiman Marcus Group, Inc ("CUSP" or "we" or "us"). This privacy policy only covers information collected at this Web Site, and does not cover any information collected offline by Neiman Marcus (unless specifically stated).
 
 ##### Security 
 
@@ -30,8 +31,6 @@ To help us achieve our goal of providing the highest quality products and servic
 We have posted this privacy policy in order to explain our information collection practices and the choices you have about the way information is collected and used. 
 
 As we continue to develop our Web site and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
-
-If you have a Neiman Marcus or Bergdorf Goodman credit card, click to [review Neiman Marcus or Bergdorf Goodman Credit Card privacy statement](http://www.neimanmarcus.com/category/ccapplication/agreement/privacy_policy.html) online.
 
 This Privacy Policy was last updated on August 3, 2005.
 
@@ -105,7 +104,7 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 
 ##### Cookies, Web Beacons, and how we use them
 
-A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or “clear gif” is typically a one-pixel image, used to pass information from your computer to a website. 
+A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or "clear gif" is typically a one-pixel image, used to pass information from your computer to a website. 
 
 We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the Web Site as well as to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to NeimanMarcus.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. 
 
@@ -220,3 +219,47 @@ Any dispute relating in any way to your visit to our Web site or to products pur
 ##### Protecting your information 
 
 As part of our ongoing commitment to ensure that your shopping experience with CUSP.com is protected, CUSP.com will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
+
+##### Protecting Yourself from Internet Scams
+
+It should come as no surprise that one of our highest priorities at The Neiman Marcus Group is keeping your personal information secure and confidential. To that end, we would like to share some of the most common types of Internet scams and suggestions on how you can be aware of and help protect yourself against identity theft.
+
+##### Fictitious Job Offer Emails Alert
+
+Email campaigns offering fictitious job offers are a reality. The emails can be quite authentic looking. They often purport to have been sent directly from one of our executives or from our human resources department. Enclosures, such as company information sheets and detailed questionnaires, may display The Neiman Marcus Group logo or the logo of one of our divisions (Neiman Marcus, Horchow, Cusp, Last Call, or Bergdorf Goodman). The emails may include a request for payment of a processing fee of several hundred dollars, and/or they may offer reimbursement for certain job-application or relocation expenses.
+
+These emails are fraudulent. The Neiman Marcus Group does not extend job offers via email to individuals with whom it has had no prior contact. We do not ask prospective employees to pay a fee to be considered for a position or to receive a job offer. We do not authorize recruiters or agents to do any of these things on our behalf. Fraudulent job offers are an unfortunate possibility. Please be aware, as we will not honor them in any way.
+
+You should not respond to any of these job offers by revealing personal information, nor should you send any funds in response to them. If you receive one of these fraudulent offers, please report the matter to the U.S. Secret Service. You may also email our security group at [nmhc@neimanmarcus.com](mailto:nmhc@neimanmarcus.com "nmhc@neimanmarcus.com").
+
+##### Phishing And Spoofing Alert
+
+This is when a criminal sends you a phony message or a Website link that appears to be from a legitimate business. They will directly request that you provide personal financial information, such as:
+
+  * Name and address
+  * Social Security numbers
+  * Credit card numbers/bank account numbers
+  * Pin numbers/passwords
+
+
+
+##### Pop-Up Advertisements Alert
+
+Some advertisements "pop up" in a separate browser window advising that you have won a contest or request that you participate in a survey to collect a prize. They may then ask that you provide personal information in order to receive your gift. By clicking on the link it is possible that you are also downloading viruses designed to capture or destroy information on your computer.
+
+##### Check Scam Alert
+
+A similar but low-tech scam circulates occasionally, in the form of a check, purportedly from The Neiman Marcus Group or one of our divisions, and instructions to deposit it right away, usually in order to receive the balance of a larger sum you have "won" or that has otherwise come to you unexpectedly. You will be instructed to immediately send a payment, in the form of a second personal check, wire transfer, or similar, to some third party to cover taxes, processing fees, administrative costs, or some similarly vague expense. The check you receive in the mail likely would look quite authentic and probably would have our Neiman Marcus Group trademark on it. Do not deposit the check or follow the instructions you receive with it. The check you deposit will bounce; the check you write or funds you wire will clear, before you know about the bounce, and certainly before you can stop payment on your own check.
+
+##### Important Risk-Reducing Tips
+
+  * Never respond to emails that cannot be verified.
+  * Never provide personal information via email.
+  * Contact the business by using legitimate phone numbers to verify the request.
+  * Enter Websites using your browser and not by clicking on provided links.
+  * Be cautious of any solicitation requesting that you deposit a check or pay a fee to collect a prize, get a job, or cover vaguely described "costs."
+  * Consider filing a report with the Federal Trade Commission and/or state attorney general's consumer protection office, or the FBI. Online complaints may be filed with the FTC at <https://www.ftccomplaintassistant.gov/>, and white collar crimes may be reported to the FBI at <http://www.ic3.gov/complaint/default.aspx>.
+
+
+
+© 2010-2011 The Neiman Marcus Group, Inc. All rights reserved.
