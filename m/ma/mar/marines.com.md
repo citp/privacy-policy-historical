@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marines.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203040202id_/http%3A//www.marines.com/main/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marines.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630143313id_/http%3A//www.marines.com/main/index/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marine Corps
 
