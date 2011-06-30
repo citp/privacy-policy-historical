@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onemorelesbian.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106042728id_/http%3A//www.onemorelesbian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorelesbian.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630204738id_/http%3A//www.onemorelesbian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lesbian films, movies, television, TV, web series, video | One More Lesbian
+# Privacy Policy | Lesbian films, movies, television, TV, web series, video | One More Lesbian | LGBT
 
 We are committed to protecting your privacy at OneMoreLesbian. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement.
 
