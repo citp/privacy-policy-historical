@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellotravel.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527204511id_/http%3A//www.hellotravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellotravel.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630035604id_/http%3A//hellotravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hello Travel
 
