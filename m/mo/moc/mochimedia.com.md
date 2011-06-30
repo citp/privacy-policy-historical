@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811111344id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630062456id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Mochi Media :: Fueling Creativity
 
@@ -34,7 +34,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer’s hard 
 
 Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Websites’s most attractive features. 
 
-Ads appearing on the Websites may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Mochi Media and does not cover the use of cookies by any advertisers. 
+Ads appearing on the Websites may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. You may find out additional information regarding the use of cookies by our advertising partners, including how to opt out of the use of such technologies, at [www.networkadvertising.org](http://www.networkadvertising.org/). This Privacy Policy covers the use of cookies by Mochi Media and does not cover the use of cookies by any advertisers." 
 
 
 
