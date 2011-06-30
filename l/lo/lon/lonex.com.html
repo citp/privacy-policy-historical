@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lonex.com privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122104313id_/http%3A//www.lonex.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lonex.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630125502id_/http%3A//www.lonex.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Lonex Privacy policy</title>
@@ -10,7 +10,7 @@
 <meta name="robots" content="index">
 <meta name="distribution" content="global">
 <meta name="rating" content="services">
-<meta name="copyright" content="2003 Lonex.com">
+<meta name="copyright" content="2011 Lonex.com">
 <meta name="language" content="en-us">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="/styles.css" rel="stylesheet" type="text/css">
@@ -36,6 +36,7 @@ function download(script,template)
 }
 //-->
 </script>
+<script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1/prototype.js"></script>
 <script type="text/javascript" src="/libs/prototip2.2.0.2/js/prototip/prototip.js"></script>
 <link rel="stylesheet" type="text/css" href="/libs/prototip2.2.0.2/css/prototip.css"><script language="JavaScript" type="text/JavaScript">
@@ -49,10 +50,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <body>
 <div id="all">
   <div id="logo"><a href="/"><img src="/images/lonex_logo.jpg" alt="Lonex - Web Hosting Company"></a></div>
+<!-- <div id="logo"><a href="/"><img src="/images/lonex-xmas-landing-page-logo.jpg" alt="Lonex - Web Hosting Company" /></a></div> -->
 <div style="float:right; padding-top:20px; padding-right:15px; text-align:right;">
 Login: <a href="http://www.lonex.com/members.html">Hosting CP</a><br>
 <a href="http://webmail.lonex.com">Webmail</a>
 </div>
+<div style="float:right; padding-right:15px; padding-top:2px;"><a href="/cpframe.php?r=http://cpdemo.lonex.com/?auto_login=true" rel="#cpdemo"><img src="/images/hepsia-control-panel-live-demo.png" width="171" height="66"></a></div>
 <div id="livechat"><a href="https://secure.livechatnow.com/js/enter.php?cid=4982&amp;img=url&amp;group=Lonex&amp;skin=&amp;survey=&amp;survey_ec=&amp;survey_lm=&amp;rule=&amp;name=&amp;email=&amp;track=&amp;uid=48774" onclick="return _cln_enter();"><img id="chat_img" src="/images/live_chat_online.jpg" alt="live chat"></a></div>
 <div id="phone_numbers"><script type="text/javascript" language="javascript" src="/includes/overlib.js"></script><a onmouseout="return nd();" onmouseover="return overlib('Monday to Friday:<br />10.00 AM - 12.00 AM GMT/UK<br />05.00 AM -  07.00 PM EST/USA', CAPTION, 'Phone support working hours:', 'CENTER');" href="javascript:void(0);"><img src="/images/24hours_support.gif" width="150" height="78" alt="Lonex ID:5673"></a></div>
 <br clear="all">
@@ -174,7 +177,7 @@ confidentiality of others.
         <!-- PayPal Logo --><a href="#" onclick="javascript:window.open('https://www.paypal.com/uk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');return false;"><img src="/images/PayPal_mark_37x23.gif" alt="Acceptance Mark" style="vertical-align:middle;"></a><!-- PayPal Logo -->
         <img src="/images/credit_cards.gif" alt="Supported Credit Cards" hspace="5" style="vertical-align:middle;">
         </div>
-        Copyright © Lonex.com - Professional Web Hosting Company 2002 - 2010. Lonex.com is a 100% owned by LiquidNet Ltd. All rights reserved!
+        Copyright © Lonex.com - Professional Web Hosting Company 2002 - 2011        . All rights reserved!
     &nbsp;</span> </div>
     &nbsp;<br>&nbsp;
  <script type="text/javascript" language="javascript">
@@ -187,7 +190,27 @@ LCNObj.open = LCNObj.url1 + "js/enter.php?cid=4982" + LCNObj.query;
 function _cln_enter(){ window.open(LCNObj.open, '_chat_4982', 'resizable=yes,menubar=no,scrollbars=yes, width=500, height=500'); return false;}
 document.getElementById('livechat').innerHTML = "<a href='"+LCNObj.open+"' onclick='return _cln_enter();'><img id='chat_img' src='/images/live_chat_online.jpg' alt='live chat' /></a>";
 // -->
- </script></div>
+ </script>
+
+<div class="demo_overlay" id="cpdemo"> 
+       <div class="contentWrap"></div>
+</div>
+<script type="text/javascript" language="javascript">
+jQuery(function() {
+	jQuery("a[rel='#cpdemo']").overlay({
+		mask: 'black',
+		effect: 'apple',
+
+		onBeforeLoad: function() {
+			// grab wrapper element inside content
+			var wrap = this.getOverlay().find(".contentWrap");
+			
+			// load the page specified in the trigger
+			wrap.load(this.getTrigger().attr("href"));			
+		}
+	});
+});
+</script></div>
 
 
 </body></html>
