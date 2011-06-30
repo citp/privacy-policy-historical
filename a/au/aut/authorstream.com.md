@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorstream.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130111804id_/http%3A//www.authorstream.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorstream.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630124146id_/http%3A//www.authorstream.com/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy on authorSTREAM
 
@@ -101,4 +101,4 @@ authorSTREAM.com Private Limited
 C-133, Second Floor,  
 Industrial Area, PCL Chowk,  
 Phase VIII, Mohali-160071, India  
-Tel/Fax: +91.172.462.8043-44 
+Tel/Fax: +91-172-5013134-35 
