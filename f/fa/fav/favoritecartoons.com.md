@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favoritecartoons.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209203319id_/http%3A//favoritecartoons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favoritecartoons.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630142345id_/http%3A//favoritecartoons.com/privacy-policy) for the most accurate reproduction.*
 
 # Best cartoons, popular caroons, disney cartoons, new cartoons every day at Favoritecartoons.com
 
