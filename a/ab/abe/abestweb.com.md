@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the abestweb.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222201352id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abestweb.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630080833id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
 
-# iNET Interactive: Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | iNET Interactive
 
 This Privacy Policy governs the manner in which iNET Interactive collects, uses, maintains and discloses information collected from users of the iNET Interactive Web Site (each, a “User”). 
 
