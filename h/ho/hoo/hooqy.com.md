@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hooqy.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124060516id_/http%3A//www.hooqy.com/about-hooqy-media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooqy.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630045722id_/http%3A//www.hooqy.com/about-hooqy-media/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
