@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellware.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228173822id_/http%3A//www.cellware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellware.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630085646id_/http%3A//www.cellware.com/privacy) for the most accurate reproduction.*
 
 # Cellware Privacy Policy | Cellware
 
@@ -6,7 +6,7 @@ Cellware.Com (“Cellware”), has created this privacy statement to demonstrate
 
 Our site’s registration form requires users to give us contact information (such as an mobile phone number, carrier and email address). We use customer contact information such as email to send the user information about the sites and its related services. We use mobile phone number and carrier information in order to provide the services requested by the user.
 
-Our site may use forms for customers to request information, products, and services. Participation in the completion of these forms is voluntary and any information you disclose will be held as confidential in a manner as explicit as you state in your form action. Contact information from any forms is used or will be used to send information about our company to our customers, and about our advertisers to our customers. The customer’s contact information is also used to communicate with the customer when necessary.
+Our site may use forms for customers to request information, products, and services. Participation in the completion of these forms is voluntary and any information you disclose will be held as confidential in a manner as explicit as you state in your form action. Contact information from any forms is used or will be used to send information about our company to our customers, and about our advertisers to our customers. The customer’s contact information is also used to communicate with the customer when necessary. 
 
 We automatically collect information such as IP address, browser type, domain name, and access times. This information will merely be used to gather statistics, help diagnose problems with our server and to administer our Site. The information may also be used to check for unusual activity such as attempts to manipulate or damage our system.
 
@@ -16,7 +16,7 @@ Some of our business partners or advertisers use cookies on our site. We have no
 
 In order to ensure continuity of your service, if Cellware is ever sold or all or substantially all of the assets relating to Cellware are transferred to another entity, we will transfer the information you have provided to the acquiring entity. You will be notified by an email sent to the email address that you have provided to us.
 
-Choice/Opt-Out – Our site provides users the opportunity to opt-out of receiving communications from us. Should a user decide at any time that he/she no longer wishes to receive communications, this site gives users the following options for eliminating service or no longer receiving communications. To optout, please send an email to [support@cellware.com](https://web.archive.org/web/20101228173822id_/http%3A//www.cellware.com/support@cellware.com) stating that you wish to cancel your account.
+Choice/Opt-Out – Our site provides users the opportunity to opt-out of receiving communications from us. Should a user decide at any time that he/she no longer wishes to receive communications, this site gives users the following options for eliminating service or no longer receiving communications. To optout, please send an email to [support@cellware.com](https://web.archive.org/web/20110630085646id_/http://www.cellware.com/privacy/support@cellware.com) stating that you wish to cancel your account.
 
 Legal Disclaimer – We recognize and welcome our obligation to comply with the law and this policy is subject to that obligation. We will, therefore, disclose personally identifiable information in response to a request from law enforcement officials or as otherwise required by law, or if we believe it is necessary to protect someone’s safety, or enforce our Terms Of Service.
 
