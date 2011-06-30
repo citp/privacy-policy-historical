@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919110724id_/http%3A//www.dowjones.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630031359id_/http%3A//www.dowjones.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Dow Jones
 
@@ -34,10 +34,6 @@ We may disclose and use personally identifiable information in special circumsta
 **Your ability to choose:**
 
 You may elect to subscribe or unsubscribe to e-Mail News Alerts by clicking here.
-
-**Cookies:**
-
-We currently do not use cookies in the operation of [www.dowjones.com](http://www.dowjones.com/).
 
 **Security:**
 
