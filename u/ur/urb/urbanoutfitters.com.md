@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanoutfitters.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218114020id_/http%3A//www.urbanoutfitters.com/urban/help/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanoutfitters.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630211911id_/http%3A//www.urbanoutfitters.com/urban/help/privacy_security.jsp) for the most accurate reproduction.*
 
 # UrbanOutfitters.com > Help/Info > Privacy & Security
 
@@ -12,13 +12,13 @@ Urban Outfitters will not rent or sell your e-mail address for any reason. Urban
 
 You can always update or delete your personal information on our web site. Simply click View Your Account in the menu at the top of each page on our site, log in, and you'll be able to edit or change your information. If at any time you would like us to delete any of your personal information on file, just click here to e-mail UrbanOutfitters.com customer service or call us at 800-282-2200. Please be sure to include your e-mail address, full name and password.
 
-We may also work with select partners to distribute web advertisements based on our customers' internet browsing patterns. These partners never collect personally identifiable information, however if you'd prefer, you may opt out at any time by clicking here: <http://www.networkadvertising.org/>
+We may also work with select partners to distribute web advertisements based on your internet browsing patterns. These advertising companies collect anonymous information about your visits to our web site through the use of a cookie. This technology allows them to develop our advertising so that it directly relates to offers that may be of interest to you. If, however, you’d prefer not to receive relevant banner advertisements, you may opt out at any time by clicking here: <http://www.networkadvertising.org/managing/opt_out.asp> . If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
 
 We do not share credit card information with third parties except for the purpose of processing payment for products you've ordered and as required by law. In addition, we may disclose credit card and other information we collect from you with an outside company with which we have contracted for their services to protect against fraud and the unauthorized use of credit and gift cards.
 
 #### Business Partners
 
-We contract with an outside service called Coremetrics to help us better understand your use of UrbanOutfitters.com. Coremetrics places cookies on your computer to collect various kinds of information for us related to your use of UrbanOutfitters.com, so that we may continue to refine and improve the site for our customers. We do not allow Coremetrics to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Coremetrics is contractually required to maintain all the information collected for us in strict confidence. As a visitor to UrbanOutfitters.com, you may "opt out" of Coremetrics' collection of data. To learn more about your Coremetrics options [click here](http://www.coremetrics.com/info_eluminate2.html).
+We contract with an outside service called Coremetrics to help us better understand your use of UrbanOutfitters.com. Coremetrics places cookies on your computer to collect various kinds of information for us related to your use of UrbanOutfitters.com, so that we may continue to refine and improve the site for our customers. We do not allow Coremetrics to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Coremetrics is contractually required to maintain all the information collected for us in strict confidence. As a visitor to UrbanOutfitters.com, you may "opt out" of Coremetrics' collection of data. 
 
 #### Under 13?
 
