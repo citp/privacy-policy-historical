@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the musclegainingsecrets.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201140607id_/http%3A//www.musclegainingsecrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclegainingsecrets.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630151256id_/http%3A//www.musclegainingsecrets.com/privacy.htm) for the most accurate reproduction.*
 
-# How To Build Muscle and Gain Weight Fast - Top Mass Building System
+# Muscle Gaining Secrets Privacy
 
-| 
-
-****Muscle Gaining Secrets  
-Privacy Policy****
-
-**Last Updated: June 29, 2007  
+**Last Updated: March 23, 2010  
 **  
 MuscleGainingSecrets.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We hate spam as much as you do and we will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -56,9 +51,3 @@ Renegade Strength & Conditioning, LLC
 Watchung, NJ 07069  
 908-279-7988  
 info @ RenegadeStrengthCoach.com
-
-Renegade Strength & Conditioning, LLC  
-453 Watchung Ave  
-Watchung, NJ 07069
-
-| 
