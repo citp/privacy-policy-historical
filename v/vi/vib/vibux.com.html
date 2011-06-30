@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vibux.com privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221173218id_/http%3A//www.blimeo.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vibux.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630091441id_/http%3A//www.blimeo.com/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,10 +10,13 @@
 <link rel="alternate" type="application/rss+xml" title="20 Most Viewed Videos" href="http://www.blimeo.com/rss/views/">
 <link rel="alternate" type="application/rss+xml" title="20 Most Commented Videos" href="http://www.blimeo.com/rss/comments/">
 <link href="http://www.blimeo.com/templates/css/style.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/javascript" src="http://www.blimeo.com/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="http://www.blimeo.com/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://rockycode.com/blog/upload/jtsnake/jquery.readmore.js"></script> 
 <link href="http://www.blimeo.com/templates/css/rating.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://www.blimeo.com/templates/css/reset-min.css">
 
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 </head>
 <body>
 
@@ -26,6 +29,7 @@ if (top.location != location) {
 </script>
 
 
+
 <div id="wrapper">
 
     <div id="header" class="clearfix">
@@ -36,38 +40,34 @@ if (top.location != location) {
 <div id="searchbox" style="height:28px; margin-top:15px; ">
 <form class="topam1" method="get" action="http://www.blimeo.com/search.php" style="overflow: hidden; display: table;">
 <div style="float:left">
-<select style="width: 67px; height: 28px;" name="type" class="select_box">
-<option value="video">Search Videos</option>
-<option value="user">Search Users</option>
-<option value="group">Search Groups</option>
+<select style="width: 77px; height: 28px;" name="type" class="select_box">
+<option value="video">Videos</option>
+<option value="user">Users</option>
+<option value="group">Groups</option>
 </select>
 </div>
 
 <div style="float:left">
-<input type="text" style="width: 200px; margin-left:70px;" class="filter_box1 leftmargin3" value="" name="search">
+<input type="text" style="width: 200px; margin-left:75px;" class="filter_box1 leftmargin3" value="" name="search">
 </div>
 
 <div style="float:left;">		
 <input type="submit" class="filter_box1" value="search" style="width:65px; height:28px;">
 </div>
 </form>
-
-          </div>
+</div>
           
           <div style="float:left; line-height:1.9em; margin:0.29em 0 0; padding:2px; white-space:nowrap; overflow:hidden; margin-top:20px; margin-left:10px;">
-          <a href="/recent/">Browse</a> | <a href="/groups/recent/1">Groups</a> | <a href="/upload/">Upload</a>
+          <a href="/recent/">Videos</a> | <a href="/groups/recent/1">Groups</a> | <a href="/members/">Members</a> | <a href="/upload/">Upload</a>
           </div>
           
     
         <div id="top-links">
-                             <a href="http://www.blimeo.com/signup/">Sign Up</a> | 
+                             <a href="http://www.blimeo.com/signup/">Sign Up</a> or  
                  <a href="http://www.blimeo.com/login/">Log In</a>
                     </div>
         
-        <div id="top-links-layout">
-            Colour theme: <a href="http://www.blimeo.com/style/black/">Black</a> | <a href="http://www.blimeo.com/style/default/">White</a>
-        </div>
-        
+		        
     </div>
 
     
@@ -102,7 +102,7 @@ if (top.location != location) {
     <div id="footer">
 
         <div class="menu_footer clearfix">
-        <span style="float:left;">&nbsp;© Blimeo 2010. All rights reserved.</span>
+        <span style="float:left;">&nbsp;© Blimeo 2011, LLC. All rights reserved.</span>
             <a href="http://www.blimeo.com/pages/about.html">About</a> &nbsp; -&nbsp;
             <a href="http://www.blimeo.com/pages/help.html">Help</a>&nbsp; -&nbsp;
             <a href="http://www.blimeo.com/pages/dmca.html">DMCA</a>&nbsp; -&nbsp;
@@ -114,6 +114,8 @@ if (top.location != location) {
 
 </div> <!-- wrapper -->
 
+<div class="quicklist_box" id="quicklist_box"></div>
+
 <div id="eSR" style="display:none;">
 <script type="text/javascript" language="javascript">					
 id = "223152";
@@ -124,7 +126,23 @@ https=false;
 <script type="text/javascript" src="http://stats.engineseeker.com/stats.js"></script>
 <!-- EngineSeeker.com Stats Code -->
 </div>					
-	
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5303153-14']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
 
 
 
@@ -132,4 +150,5 @@ https=false;
 var baseurl='http://www.blimeo.com';
 </script>
 <script language="JavaScript" type="text/javascript" src="http://www.blimeo.com/js/rystark.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.blimeo.com/js/video_queue.js"></script>
 </body></html>
