@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzz99.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111004418id_/http%3A//www.buzz99.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzz99.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630154700id_/http%3A//www.buzz99.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buzz99
 
@@ -22,3 +22,5 @@ We use third-party advertising companies to serve ads when you visit our website
 
 
 If you would like more information about this see the [Google Privacy Policy **.**](http://www.google.com/privacypolicy.html)
+
+[](http://www.facebook.com/share.php?u=http://www.buzz99.com/privacy-policy/&t=Privacy+Policy "Post to Facebook") [](http://delicious.com/post?url=http://www.buzz99.com/privacy-policy/&title=Privacy+Policy "Post to Delicious") [](http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fbuzz99.com%2F%3Fp%3D839 "Post to Twitter") [](http://digg.com/submit?url=http://www.buzz99.com/privacy-policy/&title=Privacy+Policy "Post to Digg") [](http://stumbleupon.com/submit?url=http://www.buzz99.com/privacy-policy/&title=Privacy+Policy "Post to StumbleUpon") [](http://www.google.com/buzz/post?url=http://www.buzz99.com/privacy-policy/&imageurl= "Post to Google Buzz")
