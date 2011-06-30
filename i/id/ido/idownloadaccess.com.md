@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idownloadaccess.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230201757id_/http%3A//www.idownloadaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadaccess.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630200052id_/http%3A//www.idownloadaccess.com/privacy.php) for the most accurate reproduction.*
 
 # iDownloadAccess.com - Privacy Policy
 
@@ -28,4 +28,4 @@ You can access all your personally identifiable information that we collect onli
 
 
 **How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20101230201757id_/http%3A//www.idownloadaccess.com/support.php).
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20110630200052id_/http%3A//www.idownloadaccess.com/support.php).
