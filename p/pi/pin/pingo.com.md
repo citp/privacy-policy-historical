@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204023642id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630172315id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,6 +55,8 @@ Pingo may collect and use your IP address to improve Pingo's service and adminis
 "Cookies" and "action tags" (action tags are also known as single pixel gifs or web beacons) are information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies and action tags do not personally identify users, although they do identify a user's computer. Pingo uses cookies and action tags to deliver content specific to Customer's interests, maintain Customer preferences, and for other site functionality. We also have a retargeting program, which is explained below, that relies on action tags, and is directed at Visitors only, not Customers. Many Internet browsers are set up to accept cookies and action tags. If Customers or Visitors prefer, they can set their browser to refuse cookies and action tags. However, You may not be able to take full advantage of the Website if you do so. Advertisers who display ads on the Website also may use cookies and action tags to measure advertising effectiveness. Pingo does not have access to any information collected by cookies or action tags used by advertisers on the Website.
 
 Visitor Retargeting Program - We work with a company called Fetchback to display retargeted ads to Visitors on our behalf, across the Internet, using action tags. These action tags, an industry standard technology, collect Non-Personally Identifiable Information about Visitors' visits to the Website and enable Fetchback to deliver targeted advertisements on other Internet sites. If Visitors do not want Fetchback to collect this information to deliver targeted advertisements, Visitors may opt out of their services by clicking on the following link and scrolling down to the Fetchback opt out section. <http://www.networkadvertising.org/managing/opt_out.asp>
+
+Please note we have the ability to retain data that you provide on the sign up page even if you do not complete your registration. Such contact details and data may be used to contact you to enquire why you did not complete your transaction. For full details see Privacy Policy.
 
 **_Protection of Your Personal Information_**
 
