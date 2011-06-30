@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the property-abroad.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225094234id_/http%3A//www.property-abroad.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property-abroad.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630080802id_/http%3A//www.property-abroad.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Property Abroad Ltd
+# Privacy Policy | Property-Abroad.com Ltd
 
 ##  **Our Privacy Policy**
 
-**Property Abroad is committed to protecting your information. Any details that we collect from you will be treated in the strictest of confidence and will not be divulged to any person or persons without your written consent.**
+**Property-Abroad.com Ltd is committed to protecting your information. Any details that we collect from you will be treated in the strictest of confidence and will not be divulged to any person or persons without your written consent.**
 
-Property Abroad will however pass on your details to our agents should they wish to contact you direct with any properties that match your criteria. You can choose to opt out of this method by sending us an email informing us of your withdrawal from this method of contact. 
+Property-Abroad.com Ltd will however pass on your details to our agents should they wish to contact you direct with any properties that match your criteria. You can choose to opt out of this method by sending us an email informing us of your withdrawal from this method of contact. 
 
-Property Abroad will never sell personal information or share personal information with any third parties unless these are involved in finding you a property on our behalf. 
+Property-Abroad.com Ltd will never sell personal information or share personal information with any third parties unless these are involved in finding you a property on our behalf. 
 
 ###  **Direct Marketing Material**
 
