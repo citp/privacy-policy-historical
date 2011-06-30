@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wp.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212173221id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wp.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630140609id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Automattic
 
@@ -13,9 +13,9 @@ Your privacy is critically important to us. At Automattic we have a few fundamen
 
 
 
-Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
+Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
-If you have questions about accessing or correcting your personal data please contact our [support team](http://support.wordpress.com/).
+If you have questions about deleting or correcting your personal data please contact our [support team](http://support.wordpress.com/).
 
 Automattic Inc. (“ **Automattic** ”) operates several websites including [automattic.com](http://www.automattic.com/), [wordpress.com](http://www.wordpress.com/), [gravatar.com](http://www.gravatar.com/), [intensedebate.com](http://www.intensedebate.com/), and [akismet.com](http://www.akismet.com/). It is Automattic’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -35,11 +35,15 @@ Automattic may collect statistics about the behavior of visitors to its websites
 
 ### Protection of Certain Personally-Identifying Information
 
-Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 ### Cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Automattic uses cookies to help Automattic identify and track visitors, their usage of Automattic website, and their website access preferences. Automattic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
+
+### Business Transfers
+
+If Automattic, or substantially all of its assets were acquired, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Automattic may continue to use your personal information as set forth in this policy.
 
 ### Ads
 
@@ -60,3 +64,7 @@ July 1, 2010: Revised paragraph about IP addresses to explain when they are coll
 October 29, 2009: Added Comments paragraph to explain Akismet comment storage policy
 
 March 10, 2009: Added Ads paragraph to alert users that ads from third parties may use cookies
+
+January 3, 2011: Added court order and subpoena clarification
+
+February 1, 2011: Clarified subpoena language and added Business Transfers paragraph 
