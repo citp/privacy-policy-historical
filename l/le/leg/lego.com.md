@@ -1,103 +1,206 @@
-> *The following text is extracted and transformed from the lego.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215100347id_/http%3A//www.lego.com/eng/info/default.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lego.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630084639id_/http%3A//aboutus.lego.com/en-us/corporate/privacypolicy.aspx) for the most accurate reproduction.*
 
-# LEGO.com About us - LEGO Company - Privacy Policy
+# LEGO.com About Us - Privacy Policy
 
-  
+### Table of contents:
+
+This document contains the privacy policy of the LEGO Group. Please feel free to browse the policy. If you are looking for specific information, you may use the following links, which will take you directly to individual sections of this policy. 
+
+Introduction   
+General principles   
+Transfer of personal data to third parties and/or other countries   
+Personal data collected online from children under the age of 13   
+Processing of personal data through LEGO® channels   
+Cookies   
+Review and update of personal data   
+Data security   
+Miscellaneous
+
+### Introduction
+
+This policy governs any kind of processing (including collection, use, transfer, storage and deletion) of personally identifiable information (any information that may be used to identify a physical person, and any other information associated therewith) about natural persons, which are either consumers of LEGO® products or services, or representatives of our cooperation partners (“personal data”), by all business units and entities within the LEGO Group. This policy applies to our processing of personal data collected through any means, actively as well as passively, online as well as offline, from persons located anywhere in the world. Any question regarding our processing of personal data may be directed to: 
+
+LEGO SYSTEM A/S   
+Aastvej 1,   
+DK-7190 Billund Denmark   
+Attn: [Privacy Officer   
+](mailto:privacy.officer@lego.com) or to the company within the LEGO group of companies closest to you. [LEGO entities ](http://aboutus.lego.com/en-us/factsfigures/locations.aspx)
+
+### General principles
+
+Generally, the LEGO Group will be guided by the following principles when processing personal data:
+
+  * 1\. We will only collect personal data for specific and specified purposes;
+  * 2\. We will not collect personal data beyond what is necessary to accomplish those purposes;
+  * 3\. We will not use personal data for purposes other than that for which the data was collected, except as stated herein, or with prior consent;
+  * 4\. We will not transfer personal data to third parties or across borders, except as stated herein, or with prior consent;
+  * 5\. We will seek to verify and/or update personal data periodically, and we will accept requests for amendments of personal data;
+  * 6\. We will apply high technical standards to make our processing of personal data secure;
+  * 7\. Except when stated herein, we will not store personal data in identifiable form longer than is necessary to accomplish its purpose, or as is required by law.
 
 
-**Dear LEGO Fans,**
 
-We want you to have fun with LEGO products and at our Web site! To make sure your online visit is fun and safe, we don't "play around" with any of the important steps we take to protect your privacy. At the LEGO Group, children's safety and fun as well as parents' trust in our name is serious business! 
+The LEGO Group encourages families to visit our LEGO.com sites together as a shared activity. 
 
-Below, you will find information about the LEGO Group's Online Privacy Policy. Our privacy policy will tell you how and when we collect information through our Web site, and how this information will be used. To learn specifically about our online information practices concerning children who are younger than 13 years of age, please scroll down to the section entitled "Children Under the Age of 13" or simply click here. 
+### Transfer of personal data to third parties and/or other countries
 
-**The LEGO Group encourages families to visit LEGO.com together as a shared activity.**
+As a general principle, we process personal data in order to facilitate or improve the LEGO Group’s offerings and services to you. We do purchase supplementary data from public sources to complement our data bases. 
 
-We take online privacy and security concerns seriously. At the same time, we are continually working to make your personal experience when visiting or using our site as exciting and pleasant as possible. To help us accomplish that goal, we will need to collect and use some information from you when you use our site. 
+We do not process personal data on behalf of third parties, nor do we sell personal data to, or share personal data with, third parties for their own, independent use, except if you allow us to do so (see LEGO Shop at Home below). 
 
-All of the Web sites under the LEGO.com domain (e.g. MINDSTORMS.com may collect information from you - personal as well as non-personal - for internal use within the LEGO Group businesses. Any information collected may be shared among companies that are part of the LEGO Group. To see the names and addresses of the entities within the LEGO Group, [click here](https://web.archive.org/eng/info/default.asp?page=addresses). 
+We do share personal data with third party vendors when it is necessary to provide services that we don’t perform ourselves, e.g. shipping of LEGO® products, mailing of LEGO® Club Magazines, etc.
 
-In some instances, we may need to disclose personal information about you to companies that we hire so that we may provide you with the best possible service - for example this might be a company that we have employed to ship products that you have purchased through LEGO Shop At Home or a reputable research company hired by us to conduct a survey of our consumers. However, such companies will be under an obligation to keep your personal information confidential. 
+We also use third party data hosting companies to store personal data collected by us in their servers, and to do data validation checks for us (see LEGO ID - Linked Accounts below).
 
-We may disclose personal information collected from you as required by law, for example in response to a court order or subpoena. We also may disclose such information in response to a specific request from a law enforcement agency. 
+We undertake or commission consumer research projects from time to time and we may share personal data with third party research companies for this purpose. Also, such third party research companies may host survey data in their data bases on our behalf.
 
-Except as set out above, we will not sell, rent or otherwise disclose any personal information to any company or person outside the LEGO Group, without obtaining appropriate permission prior to such disclosure. We may collect information about you through active as well as passive means. 
+All data transfers to third party vendors or partners, including those listed as examples above will be subject to a written contract between us and the third party vendor or partner in question, and the vendor or partner will not have any authority to use such personal data for any purpose other than as instructed by us.
 
-We may collect personal information directly from you through our sites when: 1) you sign up for the LEGO Club; 2) you sign up to receive newsletters and other information; 3) in some instances, when you enter contests and participate in various activities featured on LEGO.com and other LEGO Web sites; and 4) when you purchase products online through LEGO Shop At Home. We also use passive means to collect some information, such as tracking what pages you go to on the site. This information is then provided to our consumer data department in order for them to determine how to make your experience at our sites more enjoyable. 
+When relevant, personal information may be shared among the business units and entities inside the LEGO Group. [LEGO entities](http://aboutus.lego.com/en-us/factsfigures/locations.aspx)
 
-We will not use personal information we collect from you for purposes other than those for which the information was collected, without asking for appropriate permission prior to such use. 
+We will disclose personal data when legally obligated to do so under subpoena or court order, or for law enforcement purposes. For operational security reasons, we process (mirror) personal data in Europe and the United States. This means that all personal data processed by us is transferred between our facilities in Europe and the United States periodically. 
 
-We may use your name and address information to send you catalogs and other product and service information that we believe you may find of interest if, permitted by law. You may opt out of receiving such catalogs and other product and service information (including, but not limited to, marketing research and/or being contacted by a researcher) at any time by calling our toll-free consumer service number in your country or by sending an e-mail [\- Go to our Service area](https://web.archive.org/eng/service/contactus.asp). 
+### Personal data collected online from children under the age of 13
 
-Upon request, you have the right to review any personal information we may have concerning you or your children; see Guests Under the Age of 13 below, and How to Change or Review the Information in Your Online Account or Club Membership below. 
+When a child under the age of 13 (or such higher age as may be determined by local law; in the following, the age 13 is used as the common denominator for easy reference) contacts the LEGO Group online, for example to participate in a contest or to ask a question, we will collect that child's email address and the e-mail address of the child's parent or guardian. We will use the child's e-mail address only for the purpose for which it was collected, and we will use the e-mail address of the parents or guardians only to provide notification about the child's contact with us, and to provide notification of the types and uses of personal data collected, if and as required by law.
 
-**LEGO Club Membership**
+As a parent or guardian of a child under the age of 13 from whom we have collected personal data, you have the right to review and have deleted such personal data, and to refuse to permit further collection or use of such personal data. To do so, you should contact us by clicking here Parents and guardians who wish to review personal data concerning their children will be required to specify the usernames and passwords of the children concerned, and to provide their own e-mail address for verification and contact purposes.
 
-LEGO.com has many different activities you can participate in without giving us any personal information at all. However, if you decide to sign up as a LEGO Online Club member, we will need to obtain some information in order to provide you with the benefits of club membership. When you sign up for the LEGO Online Club, we will ask you to: 1) create a username and a password; 2) provide your birth date and gender; and 3) tell us which country you live in and your postal code. We will not ask for your real name, your mailing address, your e-mail address or any other information that will identify you as an individual. 
+We cannot and will not establish conditions that will require or encourage children to disclose personal data over and above what is reasonably necessary to participate in any activity features on our web sites. 
 
-**Children Under the Age of 13**
+Children under 13 years of age are allowed to participate in contests. However, if such a child wins, notification will be sent to the parent or guardian's e-mail address (provided by the child when he/she enters the contest). Also, we will not ask the child for any personal data beyond e-mail addresses without obtaining prior parental consent. Any personal data obtained from children and parents during contests will be kept until the contest ends and prizes are delivered, and then it will be deleted.
 
-When a child under the age of 13 contacts the LEGO Group online, for example to participate in a contest or to ask a question we will collect that child's email address and the e-mail address of the child's parent or guardian. We will use the child's e-mail address only for the purpose for which it was collected, and we will use the e-mail address of the parents or guardians only to provide notification about the child's contact with us, and to provide notification of the types and uses of information collected as required under the law. We will also provide information as to how the parent or guardian of the child can review and request deletion of the child's personal information, and how to prevent further collection and use of personal information concerning the child. 
+If any online activity offered by us will allow children under the age of 13 to reveal personal data publicly (for example via un-moderated chat rooms or bulletin boards), we will obtain parental consent before allowing the child to participate. Currently, all such activities are moderated, monitored and/or screened.
 
-As a parent or guardian of a child under the age of 13 from whom we have collected personal information, you have the right to review and have deleted such personal information, and to refuse to permit further collection or use of such information. To do so, you should contact us by using the contact information set forth at the end of this privacy policy. Parents and guardians who wish to review personal information concerning their children will be required to specify the usernames and passwords of the children concerned, and to provide their own e-mail address for verification and contact purposes. 
+### Processing of personal data through LEGO® channels
 
-No personal information collected from children under 13 will be sold, rented or otherwise disclosed to any company outside the LEGO Group, except for disclosure to companies acting as our agents to help us provide services requested by the child, or pursuant to court order, subpoena or a specific request from a law enforcement agency. 
+**LEGO ID**
 
-We cannot and will not establish conditions that will require or encourage children to disclose personal information over and above what is reasonably necessary to participate in any activity features on our web sites. 
+General:
 
-Children under 13 years of age are allowed to participate in contests. However, if such a child wins, notification will be sent to the parent or guardian's e-mail address (provided by the child when he/she enters the contest). Also, we will not ask the child for any personal information beyond e-mail addresses without obtaining prior parental consent. Any personal information obtained from children and parents during contests will be kept until the contest ends and prizes are delivered, and then it will be deleted. 
+We have introduced one common profile platform (LEGO ID) which is usable across different LEGO online applications. When you have created one LEGO ID for one application, it can be used for other applications as well.
 
-If any activity featured on LEGO.com will allow children under the age of 13 to reveal personal information publicly (for example, via un-moderated chat rooms or bulletin boards), we will obtain parental consent before allowing the child to participate. Currently, all such activities are moderated, monitored and screened. 
+A LEGO ID may be created by children and adults alike, but where an individual younger than 13 signs-up, we will, as a general rule, collect personal data from the parents or legal guardian of the child rather than the child.
 
-**Purchasing from LEGO Shop At Home Online**
+In order to create a LEGO ID, we will process personal data such as email address (and a parent or legal guardian email address if the creator is under the age of 13), birthday, country of residence, and gender. We will also require a password and a username to be created.
 
-When you make a purchase from LEGO Shop At Home online, we will need to obtain personal information from you. We will need your real name and address (billing as well as shipping address) along with your credit card information or other payment method, in order to complete your transaction and ship your products. 
+The email address is used for sending account notifications and other system-related information as needed.
 
-If you are age 18 or over, you can choose to set up an online account with us to use for purchasing products from Shop At Home, in which account we will keep all information relating to your purchases, even after your transaction is completed. This will make it even easier for you to shop with us again, because you don't need to submit such information each time. You can review and update your online account information at any time. If you decide to set up an account with us, we will ask you to create a username and password, which will ensure that you are the only one that can access your account. Setting up an account with us will also give you the opportunity to receive e-mail newsletters and other information. If you don't set up an account with us, we will keep your order history in an offline database. When you actually make a purchase, you will also have the opportunity to sign up you and/or your children for the LEGO Club and to receive the LEGO Magazine. 
+**Linked Accounts:**
 
-If you feel uncomfortable submitting your credit card information over the Internet, you may submit your name, address and order information through the LEGO Online Shop, and submit credit card information by phone (the Web pages in the Shop will tell you how). 
+By linking children’s LEGO ID’s with parents or legal guardians LEGO ID’s, we enable more substantial parental control over the child’s online activities (e.g. in regards to the LEGO Universe game). In doing so, however, it is extremely important that we can verify the relationship between the child and the parent or legal guardian to whose LEGO ID the child’s LEGO ID is to be linked.
 
-**LEGO Electronic Postcards and Other Messages to Your Friends and Family**
+For this reason, we will process personal data in regards to the parent or legal guardian such as first and last name, mailing address, date of birth and a more reliable type of offline ID number (e.g. driver’s license number or social security number, personal identification number or the like) varying by jurisdiction.
 
-You can send electronic post cards from various pages on the site, and you can send your LEGO Shop At Home wish list by e-mail to friends and family, if you are a LEGO Online Club member. Any e-mail addresses collected during this type of activity are stored temporarily in a transaction log file for security purposes, and are deleted after a specified holding period. 
+We will transfer these data to an external service provider, which will perform the validation for us. Validation services will be performed under a written contract between us and the service provider.
 
-**Does LEGO.com Use Cookies?
+We will not store personal data collected for the validation in our archives. The result we receive back will be a “match” (in which case the child and the parent or legal guardian LEGO ID’s will be linked) or a “no match” (in which case the LEGO ID’s will not be linked, until and unless an appropriate relationship between the child and the applicant has been established otherwise).
 
-Yes.
+The external service provider will process and store the personal data submitted by us strictly for documentation purposes.
 
-** When you log in or register for the LEGO Club online or Shop At Home, we add a cookie to your computer (unless your system is set up not to receive cookies), in order to let us keep track of what games you play and what products you may buy. We also add the cookie in order to remember your browser settings, such as the type of browser you use and what plug-ins you have installed. This keeps us from bothering you every time you enter the site in order to make sure that you have the necessary equipment to play a game or download information from our sites. It also allows us to know how many people are using certain types of software, so that we can adjust our site to provide the best browsing experience for every visitor. Basically, when we add a cookie, we are not collecting personal information, but the non-personal information that we do get helps us make sure that our products and our communications to our guests are responsive to their interests. We hope to be able to continue to make the LEGO World Wide Web sites interesting and entertaining for users of all ages, and to ensure that we continue to make the kind of products that children love and parents trust. 
+### LEGO Shop at Home
 
-**_What is a cookie?_**
+When you use our LEGO Shop at Home service online or offline (e.g. ordering online via shop.LEGO.com or via the LEGO Consumer Services Center, via catalogue or otherwise), we will process transaction-related personal data, such as your first and last name, mailing and shipping address, phone number, email address, credit card or other payment information, and (if you have created a [LEGO ID]) your date of birth and gender. We will also process information about your purchases with us.
 
-Cookies are small data files that your browser may place on your computer when you visit different web sites to mark that you have been there. 
+We will use such personal data to process and deliver your order, to provide notification of order status, and to update your profile periodically to ensure that we have the most accurate personal data available. We will also use said personal data to analyze customer behavior and to customize our LEGO Shop at Home communication with you, if applicable. In this respect, we may transfer tracking information about your use of our sites to external service providers, which will help us optimize your browsing experience. Optimization services will be performed under a written contract between us and any service provider.
 
-**_How do I know when a cookie has been added?_**
+If you opt-in (or upon request), we will send you LEGO Shop at Home emails. 
 
-Check your settings... many browsers allow you to choose your preference. If you have set your browser setting to refuse cookies, then we cannot put a cookie on your computer. 
+You may allow us to share your name, address and ordering activity with carefully selected third parties in whose products we believe you might be interested. 
 
-**_What if I don't accept the cookie?_**
+### LEGO VIP Program:
 
-You can still participate a few of our online activities. However, if a LEGO Cookie is not present, it will limit our ability to customize our site for you, deliver a better online experience and improve the features of our site. Some cookies save us from having to check for compatibility of your system with various parts of the site every time you visit, making the site faster and easier for you to use. When you play a game, register for the LEGO Club online, shop, or use the shopping cart, a cookie helps us to keep track of where you are in the site so that you can come back to the same place in a game that you are playing or you don't lose your basket, etc. and makes sure that only you have access to that information. If you don't accept our cookies, you won't be able to save some games, add items to your wish list or shopping cart, and the site will be a little slower as we check your browser's compatibility with our site as you click through. 
+If you are 13 years or older (age limitation may vary by country), you can join our LEGO VIP Program in physical LEGO Brand Retail Stores, online via LEGO Shop at Home, by phone via the LEGO Consumer Services Center, or through LEGO events offered by the VIP program. If you sign up in a store or by phone, you will be required to subsequently visit VIP.LEGO.com/Register to finalize the sign-up process online.
 
-**How to Change or Review the Information in Your Online Account or Club Membership**
+We will process personal data such as your first and last name, address details, phone number, cell phone number (optional), email address, credit card or other payment information, LEGO ID username and password, date of birth and gender. We will also process information about your purchases with us (online and offline), marketing preferences and your use of LEGO.com related websites.
 
-In the LEGO Group, we're committed to providing high quality products and services and we're equally committed to building long-lasting relationships with our consumers. Relationships like this are built on mutual trust, so whenever you question what data has been collected or you want to change personal information or personal options regarding your online account or Club membership, we encourage you to do so as outlined below. 
+We use your personal data to send you regular email newsletters, to send you marketing offers (if you opt-in) via catalogues, emails and text messages, to analyze customer behavior and to customize our LEGO VIP Program communication with you. We will also use your personal data to update your profile periodically to ensure that we have the most accurate personal data available.
 
-Personal information collected online from you may be reviewed by accessing your online account. Members and customers who have registered to set up an online account with us may update their account information and change personal options at anytime. 
+### LEGO Club
 
-If you have not set up an online account with us, or if you have any questions about our online privacy policies or information we may have stored about you or your child, please [click here](https://web.archive.org/web/20051215100347id_/http%3A//www.lego.com/eng/info/chiefprivacyform.asp) to contact our Chief Privacy Officer, or write or call: 
+Children can join the LEGO Club. If the child is under the age of 13, we will, as a general rule, collect personal data relevant to the membership from the parents or legal guardian of the child rather than the child. Where the only personal data needed is the email address of the child (e.g. for participation in a contest), we may collect the email address directly from the child, and provide notification to the parents or legal guardian as required by law. 
 
-LEGO Group Limited   
-33 Bath Road, Slough   
-Berkshire SL1 3UF   
-United Kingdom   
-Attn.: Chief Privacy Officer 
+As a member of one of the LEGO Club, the child may receive periodical LEGO Club Magazines, LEGO Club email newsletters, and be able to participate in contests, etc.
 
-+44 (0) 1753 495 000 
+When completing a LEGO Club membership application, you consent to the LEGO Club using your child’s information for mailings and emails. The data will be used only for LEGO mailings and will not be sold, rented, or otherwise disclosed to any company outside the LEGO Company except for companies acting as our agents to help us provide services requested by the child.
 
-The LEGO Group may need to change its online privacy policy from time to time to keep up with the ever-changing virtual reality. However, if policy changes are implemented which would materially and adversely affect the online privacy or security of our guests, the new policy will be e-mailed to all registered guests at their e-mail address. 
+We will process personal data such as the child’s first and last name, mailing address, gender, date of birth, email address and phone number, as relevant. 
 
-[EFFECTIVE DATE September 1, 2000] [LAST REVISED April 6, 2004]
+### LEGO Consumer Service
 
-  
+You may contact our LEGO Consumer Service Center with questions or comments related to the LEGO Group, and our products and services. You may also request replacement parts for your LEGO® sets, request catalogues, etc.
 
+When you contact us, we will process personal data such as age group, your email address, your gender, first and last name, mailing address, phone and/or cell phone number, as relevant. 
+
+### LEGO Universe
+
+LEGO Universe is a subscription based application.
+
+If a [LEGO ID]has not been created previously, we will process personal data such as email address (and a parent or legal guardian email address if the creator is under the age of 13), birthday, country of residence, and gender. We will also require a password and a username to be created.
+
+In order to support billing and customer notification processes, we will process personal data such as your first and last name, mailing address, credit card or other payment information, and email address. We will also process information about your LEGO Universe purchases.
+
+### Cookies
+
+We use cookies on our websites. Cookies are small data files that your browser places on your computer or device. A cookie itself does not contain or collect information. However, when it is read by a server via a web browser it can help a website deliver a more user-friendly service – for example, remembering previous purchases or account details.
+
+We use cookies in order to remember your choices, to give you a better user experience by improving our web sites and for providing content more accurately suited to your needs.
+
+This means we use cookies in order to remember:
+
+  * Your browser settings, such as the type of browser you use and what plug-ins you have installed. This keeps us from bothering you every time you enter the site in order to make sure that you have the necessary equipment to play a game or download information from our sites. It also allows us to know how many people are using certain types of software, so that we can adjust our site to provide the best browsing experience for every visitor.
+  * Your language and region choice. This means that if you have once chosen English as a language this is the default language that will be using when you revisits us
+  * What games you play, your high scores and your progress in the games – depending on the features of each game. This state is saved in Flash Local Shared Objects a.k.a. Flash cookies.
+  * Your LEGO ID sign-in state.
+  * Your shopping cart and shopping options.
+  * What products you view and buy in the shop so we can provide you with suggestions
+  * What products and gallery entries you have rated and the rating you have given
+  * The last time we asked you to participate in a survey and whether you answered it so we do not prompt you too often
+  * Your movement on and usage of our sites. We do not collect personal data as part of this. We collect statistical data so we can optimize our site.
+  * Recently used data - to improve performance. In case we store personal data in a cookie, the information will be encrypted and thus safe.
+
+
+
+Some cookies last until you close your browser, others are stored for longer. Our maximum cookie age is 400 days – as we want to make sure that you can find your information if you only visit us approximately once a year.
+
+We use third party companies as suppliers for some of our functions. Their use of the data is controlled by our contract with them and they are only allowed to use the data strictly for the purpose we have stated .e.g. the data is not used in connection with data from other companies and we are not tracking user behavior outside our own sites.
+
+Most browsers automatically accept cookies. You can prevent cookies from being stored on your computer or device by setting your browser to not accept cookies. Some browsers provide a mode where cookies are always deleted after a visit. This is called InPrivate in Internet Explorer version 8 and newer; Incognito in Google Chrome version 10 and newer; Private Browsing in Firefox version 3.5 and newer; Private Browsing in Safari version 2 and newer and Private Browsing in Opera version 10.5 and newer.
+
+The exact instructions for this can be found in the manual for your browser. You can delete cookies already on your computer or device at any time. If you choose not to accept cookies at all, you can still visit our website, however we cannot guarantee an optimum experience without cookies. 
+
+In some cases, a browser is inside another program. This list tells you how you control those:
+
+  * For LEGO Digital Designer on Mac use Safari.
+  * For LEGO Digital Designer on PC use from Internet Explorer.
+  * For LEGO Mindstorms on Mac and PC simply restart the program
+  * For LEGO Universe on Mac use Safari.
+  * For LEGO Universe on PC use Internet Explorer
+
+
+
+### Review and update of personal data
+
+You may always contact us to review and update personal data we may have stored about you. You may either use the following [link](http://service.lego.com/en-US/default.aspx) or contact our LEGO Consumer Service. Please note that prior to accessing and making changes to your account, we must verify your identity properly. It may take up to 10 business days before changes take effect.
+
+### Data security
+
+[Shopping Security](http://shop.lego.com/TermsPolicies/shopping_security.asp)
+
+Access to a number of LEGO.com services are protected by access restrictions based on the LEGO ID user name and password. It is important that you always choose a password which is hard to guess for others, and protect your password against disclosure.
+
+All external transmissions of personal data facilitated by us are protected by encryption.
+
+All data storage, at LEGO Group operated computer facilities as well as at business partner facilities, will be subject to written contracts.
+
+Generally, processing of personal data will take place in accordance with applicable legislation and best practices concerning data security.
+
+Credit card information is directed to one or more approved and certified service provider(s), and will not be stored by us for longer than it takes to process the data.
+
+Handling of personal data is controlled by documented policies and procedures, including strict physical and logical access control, security back-up, failover, anti-malware protection, monitoring and vulnerability detection mechanisms.
+
+### Miscellaneous
+
+The LEGO Group may need to change its data processing policy from time to time to keep up with the ways in which we collect, use, transfer, store and/or delete personal data. If policy changes are made, which would materially and adversely affect the privacy of individuals to whom this policy applies, we will endeavor to give notice of such changes to all individuals concerned.
+
+**EFFECTIVE DATE: 25th May 2011**
