@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brainhost.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107192003id_/http%3A//brainhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainhost.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630070417id_/http%3A//www.brainhost.com/privacy) for the most accurate reproduction.*
 
-# BrainHost » Privacy
+# Privacy
 
 This is the web site of Brain Host (BrainHost.com).
 
@@ -8,9 +8,9 @@ For legal and privacy issues, please address queries to:
 
 Brain Host, LLC
 
-3867 W. Market Street #308
+3660 Center Rd Suite 363
 
-Akron, OH  44333
+Brunswick, Ohio 44212
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
@@ -20,7 +20,7 @@ The information we collect is used for internal review and is then discarded, us
 
 With respect to cookies: we use cookies to ensure that visitors are not repeatedly sent the same banner ads.
 
-If you do not want to receive e-mail from us in the future, please let us know by contacting us at [support@BrainHost.com](mailto:support@justhost.com).
+If you do not want to receive e-mail from us in the future, please let us know by contacting us at support [@] brainhost.com
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
@@ -30,4 +30,4 @@ Upon request we provide site visitors with access to all information [including 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
-If you feel that this site is not following its stated information policy, you may contacting us at [support@BrainHost.com](mailto:support@justhost.com).
+If you feel that this site is not following its stated information policy, you may contacting us at support [@] brainhost.com.
