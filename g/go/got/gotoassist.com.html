@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the gotoassist.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206140651id_/https%3A//www.gotoassist.com/en_US/privacyPopUp.tmpl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gotoassist.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630023016id_/http%3A//www.gotoassist.com/en_US/privacyPopUp.tmpl) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	<title>GoToAssist Express: Privacy Policy</title>
 	<script type="text/javascript" src="/html/morgan/javascript.js"></script>
-<!-- include ChannelTrackingConverter.js to track channels from old style g2ax landing pages -->
+ <!-- include ChannelTrackingConverter.js to track channels from old style g2ax landing pages -->
 <script type="text/javascript" src="https://marketing.citrixonline.com/marketing/api/2009/lib.js"></script>
 <script type="text/javascript" src="https://marketing.citrixonline.com/marketing/api/2009/api.js"></script>
 <script type="text/javascript" src="/images/dts/js/jquery.tools.min.js"></script>
@@ -45,8 +45,13 @@ jQuery(function() {
 		}
 	});
 });
+jQuery(document).ready( function() {
+	jQuery("a[rel='g2a_login']").click(function() {
+		document.getElementById('mktgPixelImg').src = 'https://ad.doubleclick.net/activity;src=2870545;type=confi527;cat=q1-g2557;ord=1;num=1?';
+	});
+});
 </script>
-		<link rel="stylesheet" href="/html/morgan/style.css" type="text/css">
+	 		<link rel="stylesheet" href="/html/morgan/style.css" type="text/css">
 	<!--[if lte IE 7]>
 	<link rel="stylesheet" href="/html/morgan/styleIE.css" type="text/css">
 	<![endif]-->
@@ -145,9 +150,12 @@ jQuery(function() {
     var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
     var hbx=_hbEvent("pv");
     hbx.vpc="HBX0103u";
-    hbx.gn="col.gotoassist.com";
+	hbx.gn="col.gotoassist.com";
     hbx.acct="DM5403037LCE94EN3";
-    hbx.pn="/privacyPopUp.tmpl";
+	hbx.pn="/privacyPopUp.tmpl";
+    if(typeof(customAnalyticsName) != 'undefined') {
+		hbx.pn = "/"+customAnalyticsName;
+	}
     hbx.pndef="title";
     hbx.ctdef="current";
     hbx.lt="auto";
@@ -158,7 +166,7 @@ jQuery(function() {
 
   
   <script type="text/javascript" src="/images/dts/js/at/elqNow/elqCfg.js"></script>
-  <script type="text/javascript" src="/images/dts/js/at/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=607&amp;ref2=elqNone&amp;tzo=0&amp;ms=605" border="0" width="1" height="1"></layer>
+  <script type="text/javascript" src="/images/dts/js/at/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=607&amp;ref2=elqNone&amp;tzo=0&amp;ms=146" border="0" width="1" height="1"></layer>
   <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
