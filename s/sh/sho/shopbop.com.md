@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopbop.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209235111id_/http%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopbop.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630194238id_/http%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html) for the most accurate reproduction.*
 
 # Shopbop privacy policy
 
@@ -13,7 +13,7 @@ The information we learn from customers helps us personalize and continually imp
   * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Shopbop.com. Click here to see examples of the information we receive.
 
 
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we might receive a confirmation when you open e-mail from Shopbop.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://web.archive.org/myaccount/email_preferences_login.jsp) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we might receive a confirmation when you open e-mail from Shopbop.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://web.archive.org/actions/myaccount/viewEmailPreferences.action) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
   * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
   
@@ -30,7 +30,7 @@ Information about our customers is an important part of our business, and we are
 
   * **Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases, these businesses might sell offerings to you directly through Shopbop.com. In other cases, we might sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
   * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Promotional Offers:** Sometimes we send offers to selected groups of Shopbop.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Email Preferences](https://web.archive.org/myaccount/email_preferences_login.jsp) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
+  * **Promotional Offers:** Sometimes we send offers to selected groups of Shopbop.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Email Preferences](https://web.archive.org/actions/myaccount/viewEmailPreferences.action) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
 
 
   * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that BOP LLC, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
@@ -63,7 +63,7 @@ What Choices Do I Have?
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase.
   * You can add or update certain information on pages such as those referenced in the "Which Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records.
-  * If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://web.archive.org/myaccount/email_preferences_login.jsp) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://web.archive.org/actions/myaccount/viewEmailPreferences.action) or unsubscribe by clicking the unsubscribe link at the bottom of any Shopbop e-mail.
   * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Shopbop.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to complete a purchase in our store.
 
   
