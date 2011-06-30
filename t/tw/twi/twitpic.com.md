@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twitpic.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408165030id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitpic.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630122056id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.*
 
-# Twitpic - Share photos on Twitter
+# Twitpic - Share photos and videos on Twitter
 
 **Twitpic Privacy Policy**
 
@@ -27,6 +27,10 @@ When you visit the Site, our servers automatically record information that your 
 Cookies 
 
 Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Twitpic may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Services. A session cookie enables certain features of the Site and our Service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
+
+We may allow advertisers, third party advertising networks and third-party advertising serving companies to serve advertisements directly to you within Twitpic's Sites, Services and Software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons. If you would like to contact the advertisers, third party advertising networks and third-party advertising serving companies with which we have relationships to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection, please visit their web site(s). Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks [here](http://www.networkadvertising.org/)
+
+In addition, to trigger certain cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your twitter ID to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, those cookies. If you prefer not to receive interest based content and advertisements, or do not wish to enable other services which make use of Twitpic data, you can always opt-out by clicking [here](http://www.privacychoice.org/choose). After you opt-out, Twitpic will not enable or serve interest-based content and targeted advertisements or enable the other services. Please note that opting-out does not turn off other advertisements. Also, if you change your computer, change your internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your preferences. 
 
 Web Site Tracking, Reporting 
 
