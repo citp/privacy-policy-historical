@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nbcmiami.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210193646id_/http%3A//www.nbcmiami.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcmiami.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630162908id_/http%3A//www.nbcmiami.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC Miami
+
+## Privacy Policy
 
 _This Privacy Policy was last updated on September 20, 2008._
 
