@@ -1,39 +1,23 @@
-> *The following text is extracted and transformed from the dbforums.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005455id_/http%3A//dbforums.com/misc.php%3Faction%3Dfaq%26page%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbforums.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630080833id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
 
-# dBforums Frequently Asked Questions
+# Privacy Policy | iNET Interactive
 
-**Information Collection and Use**  
-dBforums.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from that disclosed in this statement. dBforums.com collects information from members at several different points on our website. 
+This Privacy Policy governs the manner in which iNET Interactive collects, uses, maintains and discloses information collected from users of the iNET Interactive Web Site (each, a “User”). 
 
-**Registration**  
-In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide some information (such as demographic information) but encouraged in order that we may provide a more personalized experience on our site. 
+**Privacy**  
+iNET Interactive is committed to safeguarding the information Users entrust to iNET Interactive and believes every User should know how iNET Interactive utilizes the information collected from the Web Site. This Web Site is not directed at children under 13 years of age. 
 
-**Cookies**  
-A cookie is a piece of data stored on your hard drive containing information about your registration with dBforums.com. Usage of a cookie is in no way linked to any personally identifiable information while on this site. Once you close your browser, the cookie simply terminates. By setting a cookie on our site, you do not have to enter a password more than once, thereby saving time while browsing. You are not required to accept cookies to use this site although some features may not be available if you choose not to do so. 
+**The Information We Collect**  
+iNET Interactive may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. iNET Interactive may also collect information about how Users use our Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains from which Users originate. We may use “cookies” to track how Users use our Web Site. A cookie is a piece of software that a Web server can store on the Users’ PC and use to identify the User should they visit the web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web Site. We currently use third party ad software to serve ads on our site. The cookies received with banner ads served by this software is used to collect and build anonymous behavioral profiles by these companies to deliver targeted ads and tracking referrals. 
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+**How We Use Information**  
+iNET Interactive may use personally identifiable information collected through our Web Site to contact Users regarding products and services offered by iNET Interactive and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users’ experience with iNET Interactive and such affiliates, independent contractors and business partners. iNET Interactive may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of iNET Interactive, its trusted affiliates, independent contractors and business partners. 
 
-**Sharing**  
-Aggregated demographic information may be shared with selected third party advertisers as proof of traffic volume and target audience for the purpose of securing advertising contracts on dBforums.com. The information is highly summarized and is in no way linked to individual visitors. 
+**Disclosure of Information**  
+iNET Interactive may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of iNET Interactive’ business.  
+**  
+Maintenance of Information**  
+Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
-**Advertising**  
-We use third party advertising companies to serve banners, pop-unders and occasional email offers. Please be aware that we are not responsible for the privacy practices of these companies. We currently use three of the leading advertising networks; [Tribal Fusion](http://tribalfusion.com/www/about/privacy.html), [Adtegrity](http://www.adtegrity.com/privacy.asp), and [Fastclick](http://fastclick.com/about/privacy.html). You are encouraged to read their privacy policies by following the links above. 
-
-**Links**  
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by dBforums.com. 
-
-**Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as town of residency, age level). 
-
-**Security**  
-dBforums.com takes every precaution to protect your information. The server on which this site resides is administered by [Datapipe](http://datapipe.com/infrastructure.asp), a commercial hosting company. Access to the server is restricted to trusted personnel and contained in a secure data center in New Jersey. If you have any questions regarding the security at our website, you can send an email to [admin@dBforums.com](mailto:admin@dBforums.com). 
-
-**Site and Service Updates**  
-We occasionally send you site and service announcement updates. During registration members are permitted to opt-out of these mailings. Should you choose not to receive these announcements, dBforums.com can not be held responsible for notifying you of any any changes made to this policy. 
-
-**Correcting/Updating Personal Information**  
-Your personally identifiable information is always accessible by you and can be changed at any time by visiting your [profile page](http://dbforums.com/forum/usercp.php). If you no longer wish to be a member of dBforums.com, you should email admin@dBforums.com to have your information permanently deleted from the site. 
-
-**Notification of Changes**  
-Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. During registration members are permitted to opt-out of administrator mailings. Should you choose not to receive these announcements, dBforums.com can not be held responsible for notifying you of any changes made to this policy. 
+**Questions**  
+Users may direct questions concerning this Privacy Policy by email to privacy@inetinteractive.com. 
