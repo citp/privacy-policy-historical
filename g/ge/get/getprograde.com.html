@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getprograde.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226192704id_/http%3A//www.getprograde.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getprograde.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630025729id_/http%3A//www.getprograde.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     <link rel="shortcut icon" href="favicon.ico">
@@ -7,27 +7,44 @@
 		    <title>Privacy Policy</title>
     <meta name="description" content="Privacy Policy of getprograde">
     <meta name="keywords" content="privacy, policy">
-              <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+             	<link rel="canonical" href="http://www.getprograde.com/Privacy-Policy.html">
+       <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 	
-    <link rel="stylesheet" type="text/css" href="/css1.css">
-		<script type="text/javascript" src="/js/jquery.js"></script>
-		<script type="text/javascript" src="/js/jquery.timers.js"></script>
-	<!-- code for product conversion tracking start -->
-		<script type="text/javascript" src="/js/jq_url.js"></script>
-<script type="text/javascript" src="/js/trackinfusion.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/mini/wide.css">
+		<script type="text/javascript" src="/js/mini/header.js"></script>
+		
 
 		 
 		 <script type="text/javascript">
                         var productIdArray = [];
                         var flgAddToCartFound = false;
 			jQuery(document).ready(function(){
+				jQuery("a[class*=addthis_button]").each(function(k,v){
+					jQuery(this).parent("p").css('width','130px');
+				});
+				jQuery("img[src*=images/header8.gif]").each(function(k,v){
+					jQuery(this).parent("div").css('width','566px');
+					jQuery(this).parent("div").css('height','34px');
+					jQuery(this).parent("div").html('<div style="width: 7px;" id="prodtableleft">&nbsp;</div><div style="width: 543px;" id="producttablebg"><div style="width: 93px;" id="optionbg">&nbsp;</div><div style="width: 93px;" id="pricebg">&nbsp;</div><div style="width: 127px;" id="savingbg">&nbsp;</div><div style="width: 63px;" id="orderbg">&nbsp;</div></div><div style="width: 16px;" id="prodtableright">&nbsp;</div>');
+				});
+				count=0 // code added on 20th jan,2011
 				jQuery("a[href*=add_to_cart]").each(function(k,v){
 					//alert(v);
 					jQuery.url.setUrl(v);
-					productIdArray[k] = jQuery.url.param('product');
+					//productIdArray[k] = jQuery.url.param('product');
+					productIdArray[count] = jQuery.url.param('product');// code added on 20th jan,2011
 					flgAddToCartFound = true;
+					count=count+1;// code added on 20th jan,2011
 				});
+				/****code added on 20th jan,2011 start*****/
+				jQuery("area[href*=add_to_cart]").each(function(k,v){
+					jQuery.url.setUrl(v);
+					productIdArray[count] = jQuery.url.param('product');
+					flgAddToCartFound = true;
+					count=count+1
+				});
+				/****code added on 20th jan,2011 end*****/
 				if(flgAddToCartFound)
 				{
 					var actionUrl= '/imageFile.php?productId='+productIdArray+'&currentURL='+escape(window.location)+'&ajax='+1;
@@ -40,6 +57,13 @@
 						 }
 					});
 				}
+				/**code added on 1st feb,2011 start**/
+				
+									
+						jQuery('input[name*="Contact0_subdomain0"]').val("www");
+						
+									
+				/**code added on 1st feb,2011 end****/
 			});
 			function fnStoreVisitor(strSiteName, PageId, strPageTitle, intOwnerId, strFileName)
 			{
@@ -59,8 +83,8 @@
 		</script>
 		
 	<!-- code for product conversion tracking end -->
-    <script type="text/javascript" src="/js/check_requires.js"></script> 
-<script type="text/javascript" src="/js/trackinfusion.js"></script>
+<!--<script type="text/javascript" src="/js/mini/check_requires.js"></script> -->
+<!--<script type="text/javascript" src="/js/mini/trackinfusion.js"></script>-->
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=61063868"></script></head>
 
 <body topmargin="0" leftmargin="0">
@@ -68,53 +92,62 @@
 
 <div id="header" style="height:85px;">
     <div><a href="/"><img src="/images/top1left.gif" alt="pro grade" class="fleft"></a></div>
-    <div><img src="/images/top1caption.gif" alt="pro grade" class="fright valign"></div>
     <div><a href="/cart.php"><img src="/images/top1button.gif" border="0" class="fright valign" alt="view cart"></a></div>
+    <div><img src="/images/top1caption.gif" alt="pro grade" class="fright valign"></div>
+   
 
-    <div style="float:left; padding-left:25px;"><a href="/vip-membership.html" alt="GetPrograde VIP Membership" title="Click Here for Our VIP Membership Program"><img src="/images/images/vipcard.png"></a></div>
+    <div style="float: left; padding-left: 10px;"><a href="/vip-membership.html" alt="GetPrograde VIP Membership" title="Click Here for Our VIP Membership Program"><img src="/images/images/vipcard.png"></a></div>
 		<!-- BEGIN LivePerson Button Code -->
-	<div id="lpButDivID-1289236448082" style="padding:5px 0px 0px 0px;float:left;display:inherit;"></div>
-	<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/61063868/?cmd=mTagRepstate&amp;site=61063868&amp;buttonID=12&amp;divID=lpButDivID-1289236448082&amp;bt=1&amp;c=1"></script>
+	<div id="lpButDivID-1289236448082" style="padding:12px 0px 0px 5px;float:left;display:inherit;height:66px;width:117px;overflow:hidden;"></div>
 	<!-- END LivePerson Button code -->
+		<div style="padding: 12px 0px 0px 15px; float: left; display: inherit;">
+		<a href="/specials.html"><img border="0" src="/images/button_orange.png" alt=""></a>
 	</div>
+</div>
 
 <ul id="nav">
     <li><img src="/images/top2right.gif"></li>
-	<li><a href="/customers/"><img src="/images/login_topnav.gif" border="0"></a></li>
+    <!-- 31st jan,2011 start -->
+	<li>
+				
+				
+		<a href="/customers/"><img src="/images/login_topnav.gif" border="0"></a>
+		
+					
+	</li>
+    <!-- 31st jan,2011 end -->
     <li><a href="/store.php?page=contact_us"><img src="/images/top2button6.gif" border="0"></a></li>
     <li><a href="/case-studies.html"><img src="/images/top2button5.gif" border="0"></a></li>
-        <li><a href="/articles_categories.php"><img src="/images/top2button4.gif" border="0"></a></li>
-        <li><a href="/Ingredients-Nutritional-Info.html"><img src="/images/ingredients_btn.gif" border="0"></a></li>
+    <!-- 31st jan,2011 start -->
+	    	    	
+	    			   				<li><a href="/articles_categories.php"><img src="/images/top2button4.gif" border="0"></a></li>
+	   				
+	    		
+		    <!-- 31st jan,2011 end -->
+    <li><a href="/Ingredients-Nutritional-Info.html"><img src="/images/ingredients_btn.gif" border="0"></a></li>
     <li><a href="/products.html"><img src="/images/top2button3.gif" border="0"></a></li>
     <li><a href="/store.php?page=about_us"><img src="/images/top2button2.gif" border="0"></a></li>
     <li><a href="/"><img src="/images/top2button1.gif" border="0"></a></li>
 
     <li style="float:left;"><img src="/images/top2left.gif"></li>
-<li style="float:left;padding-top:12px;"><a href="http://twitter.com/getprograde" target="_blank" title="folow us on Twitter"><img src="/images/icons/twitter_ico.gif" border="0"></a></li>
-<li style="float:left;padding-top:12px;"><a href="http://facebook.com/ProgradeNutrition" target="_blank" title="folow us on Facebook"><img src="/images/icons/fb_ico.gif" border="0"></a></li>
+    <!-- 31st jan,2011 strat-->
+    		    	
+	    							<li style="float:left;padding-top:12px;"><a href="http://twitter.com/getprograde" target="_blank" title="folow us on Twitter"><img src="/images/icons/twitter_ico.gif" border="0"></a></li>
+					<li style="float:left;padding-top:12px;"><a href="http://facebook.com/ProgradeNutrition" target="_blank" title="folow us on Facebook"><img src="/images/icons/fb_ico.gif" border="0"></a></li>
+							
+			<!-- 31st jan,2011 end-->	
 </ul>
-
-<br>
 <div id="content">
 
     <div id="left">
         
         <div><img src="/images/header1.gif"></div>
         
-        		        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/multi-vitamin-for-men.html">multi-vitamin for men</a></div>
-				        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/multi-vitamin-for-women.html">multi-vitamin for women</a></div>
-				          <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/prograde-metabolism.html">weight loss</a></div>
-		 		          <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/protein-powder.html">protein powder</a></div>
-		 		 			<div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/branched-chain-amino-acids.html">amino acids</a></div>
-				        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/pre-and-post-workout-drink.html">pre and post workout drink</a></div>
-				        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/essential-fatty-acid.html">essential fatty acid</a></div>
-				        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/nutritional-bars.html">nutritional bars</a></div>
-				        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/meal-replacement.html">meal replacement</a></div>
-				        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/anti-aging-care.html">anti-aging</a></div>
-				        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/childrens-multivitamin.html">children's multi-vitamin</a></div>
-				        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/Combo-Packs.html">combo-packs<img src="/images/icons/new_icon.gif" alt="new" style="margin-left:3px;"></a></div>
-		        <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/Smart-Ship.html">free shipping</a></div>
-                
+                        
+        	<div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/prograde-metabolism.html">weight loss</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/essential-fatty-acid.html">krill oil</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/prograde-fusion.html">protein sports drink</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/multi-vitamin-for-women.html">multi-vitamin for women</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/multi-vitamin-for-men.html">multi-vitamin for men</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/protein-powder.html">protein powder</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/pre-and-post-workout-drink.html">pre and post workout drink</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/meal-replacement.html">meal replacement</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/anti-aging-care.html">anti-aging</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/nutritional-bars.html">nutritional bars</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/branched-chain-amino-acids.html">amino acids</a></div><div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/Combo-Packs.html">combo-packs<img src="/images/icons/new_icon.gif" alt="new" style="margin: 0px 3px; float: none;"></a></div>		
+         <div class="link1"><img src="/images/icon1.gif" align="absmiddle"><a class="productlinks" href="/Smart-Ship.html">free shipping</a></div>
+           
+		                
         <br>
         <div><img src="/images/header2.gif"></div>
         <div class="link2"><img src="/images/icon2.gif" align="absmiddle"><a style="color:#000;" href="/store.php?page=41">save big plus<br>receive <span style="color:#C55461;">FREE SHIPPING</span>, too!</a></div>
@@ -240,17 +273,14 @@
 
 
 	
+	
+		
+<div style="background-color: rgb(255, 255, 255); clear: both; width: 100%;">&nbsp;</div>
 		<div class="border1b"></div>
     </div>
     <div id="right">
-			<table id="Table_01" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td style="padding-bottom:12px;"><a href="/specials.html"><img src="/images/button_orange.png" alt="" border="0"></a></td>
-				</tr>
-			</tbody></table>
     						
-																							        <br>
-				 	        	        
+																									 	        	        
 	        
 	        <div><a href="/store.php?page=32"><img style="border:none;" src="/images/header5.gif"></a></div>
 	        <div><a href="/store.php?page=32"><img src="/images/image4.jpg" border="0"></a></div>
@@ -270,7 +300,7 @@
 
 			
     </div>
-
+<div style="background-color: rgb(255, 255, 255); clear: both; width: 100%;">&nbsp;</div>
 
 	<div id="footer" align="center" style="text-align: center;">
 	© Copyright 2010 GetPrograde.com |
@@ -286,11 +316,13 @@
 		<div class="footer_fda_light">If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using this product.</div>
 	</div>
 </div>
+<div style="background-color: rgb(255, 255, 255); clear: both; width: 100%;">&nbsp;</div>
 </div>
 </div>
+	
+			<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+		
 
-
-<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 	try {
@@ -301,5 +333,35 @@
 </script>
 
 <!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "61063868",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object') {src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;} else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+
+<!-- 1st feb,2011 start -->
+
+<script type="text/javascript">
+	/*jQuery.ajax({
+	   type: "POST",
+	   data:'currentURL='+escape(window.location)+'&ajax=1',
+	   url: '/opentracker.php?REFERER='+escape(document.referrer)+'&currentURL='+escape(window.location)+'&ajax='+1,
+	   cache: false,
+	   success: function(data){
+		 }
+	});*/
+</script>
+
+<!-- 1st feb,2011 end -->
+	<!-- BEGIN LivePerson Button script Code -->
+	<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/61063868/?cmd=mTagRepstate&amp;site=61063868&amp;buttonID=12&amp;divID=lpButDivID-1289236448082&amp;bt=1&amp;c=1"></script>
+	<!-- END LivePerson Button script code -->
+
+<div id="shopperGuardContents1" style="display:none;"><script src="https://www.shopperguard.com/verify/webseal_all.php?ref=fku347jbh98"></script></div>
+<script type="text/javascript">
+	if(jQuery(".divShopperGuard1").length)
+	{
+		jQuery(".divShopperGuard1").html(jQuery("#shopperGuardContents1 div:first").html());
+		jQuery(".divShopperGuard1").bind("mouseover",function(event){xxxover();});
+		jQuery(".divShopperGuard1").bind("mouseout",function(event){yyyover();});
+	}
+</script>
+
+
 
 </body></html>
