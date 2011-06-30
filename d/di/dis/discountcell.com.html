@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discountcell.com privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223065900id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discountcell.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630152400id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <style type="text/css">
@@ -11,7 +11,34 @@ title { color: #3333FF}
 <meta http-equiv="pics-Label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l gen true for &quot;http://discountcell.com&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0) gen true for &quot;http://www.discountcell.com&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))">
 <link rel="shortcut icon" href="http://www.discountcell.com/images/buttons/favicon.ico">
 <meta http-equiv="content-language" content="en">
+<link href="/cellular/styles/jquery-ui-1.8.10.custom.css" rel="Stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.discountcell.com/tools/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.discountcell.com/tools/js/jquery-ui-1.8.11.custom.min.js"></script>
+
+<script type="text/javascript">
+    $(function() {      
+        $(".smallboxTop").autocomplete({
+            source: "/search/searchautocomplete.aspx",
+            minLength: 2,
+            delay: 200,
+            select: function(event, ui) {
+                if (ui.item) {
+                    $('.smallboxTop:first').val(ui.item.value);
+                }
+                $('.smallboxTop:first').parent('form').submit();
+            }
+        });
+        $(".smallboxTop").focus(function() {
+            if (this.value == this.defaultValue) {
+                this.value = "";
+            }
+        }).blur(function() {
+            if (!this.value.length) {
+                this.value = this.defaultValue;
+            }
+        });
+    });
+    </script>
 
 
 </head>
@@ -327,7 +354,8 @@ msn_adcenterconversion_domainid = 10644;
 <a target="_blank" href="https://www.discountcell.com/secure/cust/Ra.htm" rel="nofollow">Return 
 Authorization</a>&nbsp;&nbsp; |&nbsp;
 <a href="http://www.discountcell.com/sitemap.htm" title="Site Map">Site Map</a>&nbsp; |&nbsp;
-<a href="http://www.discountcell.com/privacy.htm" rel="nofollow">Privacy Policy</a></font>&nbsp;
+<a href="http://www.discountcell.com/privacy.htm" rel="nofollow">Privacy Policy</a>&nbsp; 
+|&nbsp; <a href="http://www.discountcell.com/associations.htm">Certfication</a></font>&nbsp;
 </p>
 <p align="center"><font face="Arial" size="1">*$.99 cent shipping (free over $50) only applies to orders shipping within the 
 Continental US.</font></p>
