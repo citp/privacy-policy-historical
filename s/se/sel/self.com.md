@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the self.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216075613id_/http%3A//www.self.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the self.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630085858id_/http%3A//www.self.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Self.com
 
   * [SELF](https://web.archive.org/)
 
 
-  * [Print](https://web.archive.org/web/20101216075613id_/http%3A//www.self.com/services/privacypolicy?printable=true "Print this page")
+  * [Print](https://web.archive.org/web/20110630085858id_/http%3A//www.self.com/services/privacypolicy?printable=true "Print this page")
   * [E-Mail](https://web.archive.org/contact/emailFriend?referringPage=http://www.self.com%2Fservices%2Fprivacypolicy&title=Privacy+Policy "E-mail this page to a friend")
   * [Feeds](https://web.archive.org/services/rss/summary "Sign up for an RSS feed from Self.com")
   * Favorite
@@ -76,17 +76,9 @@ Ins and outs of the fashion world!
 
 Discover what a nutritionist _really_ eats. 
 
-Nab eat-right secrets from our nutrition team. 
-
 Steal speedy get-fit ideas. 
 
 Tips, product info and industry gossip 
-
-[](http://www.selfdietclub.com/dt/selfindex.asp "SELF Diet Club")
-
-###  [SELF Diet Club](http://www.selfdietclub.com/dt/selfindex.asp)
-
-Lose weight, eat healthy and get fit with the Diet Club's meal planner, weight tracker and other great tools. It's free for subscribers! 
 
 ###  [](http://selfconnected.com/ "SELF Connected")
 
