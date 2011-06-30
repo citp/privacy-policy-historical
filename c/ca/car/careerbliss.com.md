@@ -1,66 +1,87 @@
-> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507002839id_/http%3A//www.careerbliss.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630081250id_/http%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerBliss.com
 
-CareerBliss is committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this web site (the "Site"). The scope of CareerBliss's commitment is detailed in this Privacy Policy. By submitting information, you agree to CareerBliss’s use of such information as described herein. Please see our Terms of Use for more information about our online policies in general.
+At CareerBliss, we recognize that privacy is important. This Privacy Policy applies to all of the services offered by CyberCoders, LLC or its related companies (the "Services").
 
-## The Basics
+If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:  
+42 Discovery  
+Irvine, CA 92618 
 
-**Your identity and information is 100% secured with CareerBliss. Your information will never be posted anywhere.**
+## Information We Collect and How We Use It
 
-## The Fine Print
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as our search functions. In order to provide our full range of services, we may collect the following types of information: 
 
-  * What Personally-Identifiable Information is Collected?
-  * How May My Personally-Identifiable Information Be Used?
-  * Are Cookies and IP Addresses Used?
-  * Is Personally-Identifiable Information Disclosed to Third Parties
-  * Links to Third Party Sites
-  * How Can I Access, Change, and/or Delete Information?
-  * Security
-  * Children's Online Privacy Protection
-  * Consent
-  * Contact Our Privacy Department
+  1. **Information You Provide.** When you register for an account with CareerBliss.com, we ask you for personal information (such as your name, e-mail address, and account password). We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our services. 
+  2. **Log Information.** When you access CareerBliss services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web or search requests, Internet Protocol address ("IP Address"), browser type, browser language, the date and time of your request(s), and one or more cookies that may uniquely identify your browser. 
+  3. **User Communications.** When you send e-mail or other communications to CareerBliss, we may retain those communications in order to process your inquiries, respond to your requests, and improve our services. 
+  4. **Affiliated Services on Other Sites.** We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to CareerBliss in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read those privacy policies. 
+  5. **Other Sites.** This Privacy Policy applies to CareerBliss services only. We do not exercise control over sites linked to in advertisements, user-generated content, or web sites or services other than those offered directly from CareerBliss. 
 
 
 
-### What Personally-Identifiable Information is Collected?
+CareerBliss only processes personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include: 
 
-CareerBliss collects personally-identifiable information on certain areas of the Site when users register and participate in user posting areas, such as bulletin boards, discussion forums, or surveys. The personally-identifiable information collected may consist of a unique access ID, company or school affiliation, title, and contact information, such as name, mailing addresses, email addresses, and telephone and fax numbers, and, for recruiting purposes, any other personally-identifiable information on your resume.
-
-### How May My Personally-Identifiable Information Be Used?
-
-CareerBliss uses your personally-identifiable information in evaluating any job applications or other employment-related inquiries that you may submit. We may keep any of your personally-identifiable information on file and use it to contact you for recruiting purposes. CareerBliss also uses personally-identifiable information to perform statistical analyses of user behavior in order to measure interest in specific areas on our site. The e-mail addresses provided at registration allows CareerBliss to send e-mail to individuals based on keywords in their resume and preferences indicated during the registration process. If you do not wish to receive e-mailed notice of jobs, you can opt-out in our 'edit my profile' section. CareerBliss uses personally-identifiable information collected from cookies and IP addresses as described below.
-
-### Are Cookies and IP Addresses Used?
-
-The Site may use cookies or session keys to identify you and your interests and to track usage of the Site. Cookies are small pieces of text stored on your computer that help us know which browser you are using and where you've been on the Site and on web sites to which you may link in order to use some of our features. Cookies also let us know whether you have registered with us and otherwise enable us to relate your current usage of the Site to prior usage of this or other Sites of CareerBliss or its affiliates. By accepting our cookie you will be permitted access to certain pages of the Site without having to log in each time you visit. A user who does not accept the cookie from the Site may not be able to access certain areas of the Site. CareerBliss also logs IP addresses, or the location of computers on the Internet, to help diagnose problems with our server and to administer the Site.
-
-### Is Personally-Identifiable Information Disclosed to Third Parties?
-
-CareerBliss shall not intentionally disclose (and shall take commercially reasonable steps to prevent the accidental disclosure of) your personally-identifiable information to third parties (i.e., persons or entities that are not affiliates of CareerBliss), whether for such third parties' marketing purposes or otherwise, subject only to the following three exceptions:
-
-  1. CareerBliss may disclose your personally-identifiable information to third parties as required or permitted by the laws, rules, and regulations of any nation, state, or other applicable jurisdiction;
-  2. CareerBliss may disclose your personally-identifiable information to third parties who deliver information from us to you for the purpose of performing such delivery;
-  3. CareerBliss may disclose your personally-identifiable information if, in connection with submitting the information, you consent to such disclosure
+  * Providing our services, including the display of customized content and advertising;
+  * Auditing, research, and analysis in order to maintain, protect, and improve our services;
+  * Ensuring the technical functioning of our network;
+  * Protecting the rights or property of CareerBliss or our users; and
+  * Developing new services
 
 
 
-### Links to Third Party Sites
+CareerBliss processes personal information on our services in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
-We may provide links to third-party web sites as a service to our users. In addition, some of the content appearing to be on this Site is in fact supplied by third parties, for example, in instances of framing of third party web sites or incorporation through framesets of content supplied by third party servers. Please be aware that we cannot control and are not responsible for the information collection practices of such third party web sites, which may differ from those of this Site. We encourage you to review and understand the privacy policies on these web sites before providing any information to them.
+## Choices for Personal Information
 
-### How Can I Access, Change, and/or Delete Information?
+When you register with CareerBliss, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask you for your consent prior to such use.
 
-You may access, correct, update, and/or delete any personally-identifiable information that you submit to the Site. You may also unsubscribe from job alerts or any registrations on the Site. To do so, please either follow instructions on the page of the Site on which you have provided such information or subscribed or registered, or send us an email at [Privacy@CareerBliss.com](mailto:Privacy@CareerBliss.com).
+If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy, unless we have obtained your prior consent.
 
-### Children's Online Privacy Protection
+You can decline to submit personal information to CareerBliss, in which case we may not be able to provide all available services to you.
 
-CareerBliss understands the importance of protecting children's privacy, especially in an online environment. The Site is not intentionally designed for or directed at children 13 years of age or younger, and CareerBliss will not intentionally collect or maintain information about anyone under the age of 13.
+## Information Sharing
 
-### Consent
+CareerBliss only shares personal information with other companies or individuals outside of CareerBliss in the following limited circumstances: 
 
-By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you of any such changes by updating this Privacy Policy.
+  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+  * We provide such information to our subsidiaries, affiliated companies, or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation, or disclosure of such information is reasonably necessary to (a) satisfy an applicable law, regulation, legal process, or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security, or technical issues, or (d) protect against harm to the rights, property, or safety of CareerBliss, its users, or the public as required or permitted by law.
 
-### Contact Our Privacy Department
 
-If you have any questions about our Privacy Policy, please e-mail us at [Privacy@CareerBliss.com](mailto:Privacy@CareerBliss.com).
+
+If CareerBliss becomes involved in a merger, acquisition, or any form of sale or some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who have served for a particular term, for example. Such information does not identify you individually.
+
+Please contact us at the address below for any additional questions about the management or use of personal data.
+
+## Information Security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include internal reviews of our data collection, storage and process practices, and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to CareerBliss employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+## Data Integrity
+
+CareerBliss processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+## Accessing and Updating Personal Information
+
+When you use CareerBliss services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and he information requested to be accessed, corrected, or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform the service free of charge, except if doing so would require a disproportionate effort.
+
+## Enforcement
+
+CareerBliss regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or CareerBliss’s treatment of personal information by contacting us through the CareerBliss website or by writing to us at:  
+42 Discovery  
+Irvine, CA 92618 
+
+When we receive formal written complaints at this address, it is CareerBliss’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between CareerBliss and an individual.
+
+## Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page, and, if the changes are significant, we will provide a more prominent notice (including e-mail notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time through this web site or at:  
+42 Discovery  
+Irvine, CA 92618 
