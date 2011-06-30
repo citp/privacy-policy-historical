@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212010526id_/http%3A//www.fastreact.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630153019id_/http%3A//www.fastreact.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FastReact
 
@@ -54,6 +54,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ## Latest News
 
-Lever Style produce casual and fully constructed woven garments for the world's top brands including Armani, Calvin Klein, Cerruti 1881, Hugo Boss, Paul Smith, Ralph Lauren and Reiss. Production capacity is over 10 million pieces per year. FastReact has been integrated with the ERP system in place at Lever Style and has allowed them to reduce lead times, improve production efficiency and significantly reduce late shipment and air freight charges. [More...](http://www.fastreact.com/news-item/lever-style-reduce-lead-times-improve-production-efficiency-and-improve-otdp/168)
+Wilton Bradley are specialists in leisure goods for the UK coastal trade, products include toys, inflatables, surf, and outdoor play. Wilton Bradley have implemented a planning and tracking solution from Fast React Systems Ltd, which provides them with complete visibility and control over their supply chain processes. [More...](http://www.fastreact.com/news-item/wilton-bradley-select-fastreact-for-improved-visibility-and-control/188)
 
 [](http://www.fastreact.com/includes/news_rss.xml) | What is RSS? 
