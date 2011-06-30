@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203045105id_/http%3A//www.icicilombard.com/app/ilom-en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630062620id_/http%3A//www.icicilombard.com/app/ilom-en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ICICI Lombard India’s No. 1 private general insurance company - Health Insurance, Travel Insurance, Home Insurance, Motor Insurance
 
@@ -104,11 +104,12 @@ Email: [insuranceonline@icicilombard.com](mailto:insuranceonline@icicilombard.co
 Log in to buy, view, print, and renew your online policies.  
 New User Click here  
 Existing User Login here  
-Contact Us  
+Health Brochures  
 All India Branches  
 [24x7 Insurance Helpline](https://web.archive.org/app/ilom-en/Insurance-helpline.aspx)  
 [Customer Support](https://web.archive.org/app/ilom-en/selfhelp.aspx)  
 [](https://web.archive.org/app/ilom-en/personalproducts/Travel/Individual_Overseas/Gold_Plan.aspx)  
+[](https://web.archive.org/app/ilom-en/Newsletter/Newsletter-Archive.aspx)  
 [](https://web.archive.org/app/ilom-en/personalproducts/Health/floater.aspx)  
 Learning Center  
 Enabling better understanding and greater interactivity.  
