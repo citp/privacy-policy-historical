@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the northjersey.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219223054id_/http%3A//www.northjersey.com/aboutus/12562291.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northjersey.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630185941id_/http%3A//www.northjersey.com/aboutus/12562291.html) for the most accurate reproduction.*
 
-# About Us - NorthJersey.com
+# About the North Jersey Media Group, Stephen Borg, Jennifer Borg, Malcolm Borg - NorthJersey.com
+
+NorthJersey.com PRIVACY POLICY
 
 This policy applies only to information collected by **NorthJersey.com** online, as specified below, and does not govern or apply to information collected or used by North Jersey Media Group or its affiliates through other means. This policy does not cover any of **NorthJersey.com's** vendors or contractors, including advertisers. **NorthJersey.com** is not responsible for the content or the privacy policies of websites to which it may link. This policy may be modified, amended, or rescinded at any time without prior notice.
 
@@ -14,7 +16,7 @@ We believe that by having certain personal information about our users, we can p
 
 Please do NOT send any information about yourself to us. All data inadvertently collected from a child under 13 years of age will be purged from our system and all of our records.
 
-**
+**Types of personal information gathered by NorthJersey.com:**
 
 **NorthJersey.com** asks for your name, e-mail address, birth date, gender, Zip code, and country, and may ask you for additional demographic information. You will also be asked to register a “user name”. Please do not select a “user name” with the intent to impersonate another person. When registering to enter a contest, survey, or special offer, additional information may be required. If that information is shared with any third party other than publications owned by North Jersey Media Group, you will be notified.
 
@@ -46,4 +48,4 @@ As with many websites, **NorthJersey.com** uses a "cookie" to store and sometime
 
   * Your computer may save information, such as your log-in name, to make returning to a web site easier. If you clear your cookies, you may lose that saved data and be required to type in your name and password each time you visit our site and others
 
-**
+
