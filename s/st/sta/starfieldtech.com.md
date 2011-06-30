@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208231141id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630202110id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Starfield Technologies, Inc. - STARFIELD TECHNOLOGIES, INC. PRIVACY POLICY
 
@@ -7,31 +7,31 @@ Privacy, Security, Your Information
 
 ### Starfield Technologies, Inc. respects your privacy. 
 
-Starfield Technologies is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this statement, you should first contact Starfield Technologies at [privacy@starfieldtech.com](mailto:privacy@starfieldtech.com) or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. However, please understand the TRUSTe Privacy Program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+Starfield Technologies is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this statement, you should first contact Starfield Technologies at [privacy@starfieldtech.com](mailto:privacy@starfieldtech.com) or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe Privacy Program covers only information that is collected through this Site, and does not cover information that may be collected through software downloaded from the Site. 
 
-**Starfield Technologies complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. We will respond to your request for access to modify or delete your information within thirty (30) days.**
+**Starfield Technologies complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Users in the European Union consent to the transfer to and processing of their personal information in the United States. We will respond to your request for access to modify or delete your information within thirty (30) days.**
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
 Information Collection and Use 
 
-Our Web site uses forms in which you give us contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, social security number or tax identification number, or other financial information. We will then create an account number for you. 
+Our Site uses forms in which you give us contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, government identification number, or other financial information. We will then create an account number for you. 
 
-We receive and store any information you enter on our Web site or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given. 
 
-We use your information to contact you regarding functionality changes to our products, our Web site, new Starfield Technologies services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences. 
+We use your information to contact you regarding functionality changes to our products, our Site, new Starfield Technologies services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences. 
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. 
 
-We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system. 
 
-Our site uses cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to login each time you visit our site. They are linked to your customer number which is associated with the information in your account. 
+Our Site uses cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site. The cookies are linked to your customer number, which is associated with the information in your account. 
 
-This site also contains links to other Web sites. Unfortunately, Starfield Technologies is not responsible for the privacy practices or the content of such sites. 
+This Site also contains links to other websites. Unfortunately, Starfield Technologies is not responsible for the privacy practices or the content of such sites. 
 
 Security 
 
-This site has security measures in place to protect against the loss, misuse or alteration of the information under our control. Please view our [Secure Ordering](https://www.godaddy.com/gdshop/secure.asp) page for further details. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control. Please view our [Secure Ordering](https://www.godaddy.com/gdshop/secure.asp) page for further details. 
 
 Updating Your Information 
 
@@ -40,9 +40,9 @@ You may alter your account information or opt out of receiving communications fr
   1. You may send an email to [ support@starfieldtech.com ](mailto:support@starfieldtech.com)
   2. You may visit your online Account Manager 
   3. You may send mail to **Starfield Technologies** at the following postal address:   
-**14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA**
+**14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA**
   4. You may call us at: (480) 505-8800 
-  5. You may fax us at (480) 505-8844 
+  5. You may fax us at: (480) 505-8844 
 
 
 
@@ -64,32 +64,27 @@ In the event that we use third party advertising companies to serve ads on our b
 
 Supplementation of Information 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g._ , information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. 
 
 Contests/Surveys 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our site. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site. 
 
 We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
 
-Tell-A-Friend 
-
-If a user elects to use our referral service for informing a friend about our site, we ask the user for the friend's name and email address. Starfield Technologies will automatically send the friend a one-time email inviting them to visit our Web site. Starfield Technologies stores this information for the sole purpose of sending this one-time email. The friend may contact Starfield Technologies at [ support@starfieldtech.com ](mailto:support@starfieldtech.com) to request the removal of this information from our database. 
-
 What Happens to my Personal Information if I Terminate my Starfield Technologies Account? 
 
-When your Starfield Technologies account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Starfield Technologies databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.   
-
+When your Starfield Technologies account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Starfield Technologies databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements. 
 
 Changes in Our Practices 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this privacy statement, our home page, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least 30 days prior to the implementation of the changes. 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes. 
 
 Contacting the Web Site 
 
-If you have any questions about our Privacy Policy, the practices of this Web site, or your dealings with this site, please contact us at: 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at: 
 
 Starfield Technologies   
 ATTN: Web Team   
@@ -97,5 +92,5 @@ ATTN: Web Team
 Suite 219   
 Scottsdale, AZ, 85260, U.S.A. 
 
-Revised: 3/31/2009  
-Copyright © 2000 - 2009 Starfield Technologies, Inc. All Rights Reserved. 
+Revised: 9/27/2010  
+Copyright © 2000 - 2010. All Rights Reserved. 
