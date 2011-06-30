@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227090911id_/https%3A//www.nwcu.com/about_us/disclosures/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630230041id_/https%3A//www.nwcu.com/about_us/disclosures/privacy_policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICYPRIVACY POLICY
 
