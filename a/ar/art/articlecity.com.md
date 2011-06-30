@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecity.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227231421id_/http%3A//www.articlecity.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecity.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630100137id_/http%3A//www.articlecity.com/privacy.shtml) for the most accurate reproduction.*
 
 # ArticleCity.com - Privacy Policy
 
@@ -99,7 +99,7 @@ We care about children and understand that they have special privacy needs. Ther
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. 
 
-  1. You can send email to [admin@articlecity.com](mailto:admin@articlecity.com)
+  1. You can [contact us](http://www.articlecity.com/contact/)
 
 
 
@@ -107,10 +107,10 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [admin@articlecity.com](mailto:admin@articlecity.com)
+  1. You can [contact us](http://www.articlecity.com/contact/)
 
 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [admin@articlecity.com](mailto:admin@articlecity.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.articlecity.com/contact/). 
