@@ -1,1195 +1,673 @@
-<!--The following is the downloaded HTML source of the theworldofisaac.com privacy policy that was archived on 2009-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090430153912id_/http%3A//www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theworldofisaac.com privacy policy that was archived on 2011-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630103430id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
-<meta content="r+TUihRqMAIYgc2wjnfBfC1wj7AyEwCMzzembIxxIfY=" name="verify-v1">
-<script type="text/javascript">
-//<![CDATA[
-var relatedTitles = new Array();
-var relatedTitlesNum = 0;
-var relatedUrls = new Array();
-function related_results_labels(json) {
- for (var i = 0; i < json.feed.entry.length; i++) {
- var entry = json.feed.entry[i];
- relatedTitles[relatedTitlesNum] = entry.title.$t;
- for (var k = 0; k < entry.link.length; k++) {
-  if (entry.link[k].rel == 'alternate') {
-   relatedUrls[relatedTitlesNum] = entry.link[k].href;
-   relatedTitlesNum++;
-   break;
-  }
- }
- }
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
+<link rel="shortcut icon" href="http://guyism.com/favicon.ico" type="image/vnd.microsoft.icon">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="http://guyism.com/wp-content/themes/guyism2/style.css?v=3.01">
+<link rel="stylesheet" href="http://www.lijit.com/files/branding-images/lwp_hide.css"> 
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://guyism.com/wp-content/themes/guyism2/style-ie.css">
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://guyism.com/wp-content/themes/guyism2/style-ie7.css">
+<![endif]-->
+<link rel="pingback" href="http://guyism.com/xmlrpc.php">
+<link rel="alternate" type="application/rss+xml" xml="" version="1.0" encoding="utf-8" title="Guyism RSS Feed" href="http://feeds.feedburner.com/Guyism">
+<link rel="alternate" type="application/atom+xml" title="Guyism Atom Feed" href="http://guyism.com/feed/atom">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://widgets.digg.com/widgets.js"></script><script type="text/javascript" src="http://guyism.com/wp-content/themes/guyism2/js/lib.min.js"></script>
+<script type="text/javascript" src="http://guyism.com/wp-content/themes/guyism2/js/jquery.js"></script> 
+<script type="text/javascript" src="http://guyism.com/wp-content/themes/guyism2/js/common.js"></script> 
+
+<!-- Giant Realm Post Load Script START -->
+<script>
+function adMove(banner_name) 	{
+		
+		var banner_system_name = "banner_container_" + banner_name;
+		var banner_data_name = "banner_data_" + banner_name;
+
+		banner_system = document.getElementById(banner_system_name);
+		banner_data = document.getElementById(banner_data_name);
+								
+		banner_system.appendChild(banner_data);
+		banner_data.style.visibility = 'visible';				
+		banner_system.style.display = "block";	
 }
-function removeRelatedDuplicates() {
- var tmp = new Array(0);
- var tmp2 = new Array(0);
- for(var i = 0; i < relatedUrls.length; i++) {
-  if(!contains(tmp, relatedUrls[i])) {
-   tmp.length += 1;
-   tmp[tmp.length - 1] = relatedUrls[i];
-   tmp2.length += 1;
-   tmp2[tmp2.length - 1] = relatedTitles[i];
-  }
- }
- relatedTitles = tmp2;
- relatedUrls = tmp;
-}
-function contains(a, e) {
- for(var j = 0; j < a.length; j++) if (a[j]==e) return true;
- return false;
-}
-function printRelatedLabels() {
- var r = Math.floor((relatedTitles.length - 1) * Math.random());
- var i = 0;
- document.write('<ul>');
- while (i < relatedTitles.length && i < 10) {
-  document.write('<li><a href="' + relatedUrls[r] + '">' + relatedTitles[r] + '</a></li>');
-  if (r < relatedTitles.length - 1) {
-   r++;
-  } else {
-   r = 0;
-  }
-  i++;
- }
- document.write('</ul>');
-}
-//]]>
 </script>
-<meta content="8a59a0b4f564aac4" name="y_key">
-<meta content="HTYDZBAvwPY+V9y74Lzno65ilEwzN7EQho7SpFNjO8k=" name="verify-v1">
-<script type="text/javascript">(function() { var a=window;function d(b){this.t={};this.tick=function(c,h,e){var i=e?e:(new Date).getTime();this.t[c]=[i,h]};this.tick("start",null,b)}var f=new d;a.jstiming={Timer:d,load:f};try{a.jstiming.pt=a.external.pageT}catch(g){};function j(b){var c=0;if(b.offsetParent){do c+=b.offsetTop;while(b=b.offsetParent)}return c}a.tickAboveFold=function(b){j(b)<=750&&a.jstiming.load.tick("aft")};var k=false;function l(){if(!k){k=true;a.jstiming.load.tick("firstScrollTime")}}a.addEventListener?a.addEventListener("scroll",l,false):a.attachEvent("onscroll",l); })();</script>
-<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-<meta content="true" name="MSSmartTagsPreventParsing">
-<meta content="blogger" name="generator">
-<link href="http://www.blogger.com/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
-<link rel="alternate" type="application/atom+xml" title="The World of Isaac - Atom" href="http://www.theworldofisaac.com/feeds/posts/default">
-<link rel="alternate" type="application/rss+xml" title="The World of Isaac - RSS" href="http://www.theworldofisaac.com/feeds/posts/default?alt=rss">
-<link rel="service.post" type="application/atom+xml" title="The World of Isaac - Atom" href="http://www.blogger.com/feeds/4044082373981127068/posts/default">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=4044082373981127068">
-<link rel="alternate" type="application/atom+xml" title="The World of Isaac - Atom" href="http://www.theworldofisaac.com/feeds/411379076394616867/comments/default">
-<link href="http://www.blogger.com/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
-<link href="http://i305.photobucket.com/albums/nn202/theworldofisaac/Chicks/tnisaac.jpg" rel="SHORTCUT ICON">
-<title>The World of Isaac: THE WORLD OF ISAAC PRIVACY POLICY</title>
-</head><body><a name="5963328732"></a>
-<style id="page-skin-1" type="text/css"><!--
-/*
-/***********************************************/
-/* Thur Broeders                               */
-/* april 2007                                  */
-/* DownRight Blogger Theme v3.0                */
-/*                                             */
-/* http://www.thurboeders.nl/                  */
-/* postmaster (at) thurbroeders (dot) nl       */
-/***********************************************/
-/* Variable definitions
-====================
-<Variable name="bgcolor" description="Page Background Color"
-type="color" default="#FFF">
-<Variable name="textcolor" description="Text Color"
-type="color" default="#000">
-<Variable name="linkcolor" description="Link Color"
-type="color" default="#555">
-<Variable name="hovercolor" description="Hover Color"
-type="color" default="#008000">
-<Variable name="blogtitlecolor" description="Blog Title Color"
-type="color" default="#000">
-<Variable name="blogdescriptioncolor" description="Blog Description Color"
-type="color" default="#000">
-<Variable name="postcolor" description="Post Color"
-type="color" default="#000">
-<Variable name="posttitlecolor" description="Post Title Color"
-type="color" default="#000">
-<Variable name="postdateheadercolor" description="Post Date Header Color"
-type="color" default="#000">
-<Variable name="sidetitlecolor" description="Side Title Color"
-type="color" default="#808000">
-<Variable name="sidefontcolor" description="Side Font Color"
-type="color" default="#000">
-<Variable name="boxbordercolor" description="Border Color"
-type="color" default="#000">
-<Variable name="bodyfont" description="Body Font"
-type="font" default="normal normal 100% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="blogtitlefont" description="Blog Title Font"
-type="font" default="normal bold 150% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="blogdescriptionfont" description="Blog Description Font"
-type="font" default="normal normal 100% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="postfont" description="Post Font"
-type="font" default="normal normal 80% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="posttitlefont" description="Post Title Font"
-type="font" default="normal bold 140% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="postdateheaderfont" description="Post Date Header Font"
-type="font" default="normal bold 100% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="sidebarfont" description="Sidebar Font"
-type="font" default="normal normal 70% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="sidetitlefont" description="Sidebar Title Font"
-type="font" default="normal bold 120% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="postfooterfont" description="Post Footer Font"
-type="font" default="normal normal 80% Verdana, Arial, Helvetica, sans-serif">
-<Variable name="bordercolor" description="BorderColor"
-type="color" default="#000000">
-*/
-body {
-background-color: #333333;
-margin: 0px;
-padding: 0px;
-font: normal normal 100% Verdana, Arial, Helvetica, sans-serif;
-color: #000000;
-}
-/***********************************************/
-/* Layout Divs                                 */
-/***********************************************/
-#wrap {
-margin: 10px auto 0px;
-padding: 0px 5px;
-width: 960px;
-text-align:left;
-}
-#main_wrap {
-margin: 0px 210px;
-padding: 10px 0px;
-border: 1px solid #000000;
-/*  	word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
-/*  	overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
-background:#ffffff
-}
-.blog-posts {
-word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
-overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
-}
-#rightbar_wrap, #leftbar_wrap {
-padding: 10px 0px;
-width: 200px;
-height:15000px;
-border: 1px solid #000000;
-}
-#rightbar_wrap {
-float: right;
-margin: 0px  0px 20px 10px;
-background:#808080
-}
-#leftbar_wrap {
-float: left;
-margin: 0px 10px 20px 0px;
-background:#808080
-}
-#header_wrap {
-margin: 10px 0px;
-text-align: center;
-border: 1px solid #000000;
-background:#808080
-}
-/***********************************************/
-/* HTML tag styles                             */
-/***********************************************/
-a {
-font-weight: bold;
-color: #4c0000;
-text-decoration: none;
-}
-a:link, a:visited, a:active {
-color: #4c0000;
-text-decoration: none;
-}
-a:hover {
-color: #cc0000;
-text-decoration: underline;
-}
-h1.title {
-margin: 5px 5px 0;
-padding: 20px 20px .25em;
-font: normal bold 150% Verdana, Arial, Helvetica, sans-serif;
-color: #4c0000;
-line-height: 1em;
-text-transform: uppercase;
-letter-spacing: .1em;
-}
-.description {
-margin: 0 5px 5px;
-padding: 0 20px 20px;
-font: normal normal 100% Verdana, Arial, Helvetica, sans-serif;
-color: #000000;
-letter-spacing: .1em;
-}
-/***********************************************/
-/* Post Styles                                 */
-/***********************************************/
-.post {
-margin: 0px;
-padding: 10px;
-font: normal normal 80% Verdana, Arial, Helvetica, sans-serif;
-color: #000000;
-line-height: 1.6em;
-}
-h2.date-header {
-margin: 5px;
-padding: 4px 15px;
-font: normal bold 100% Verdana, Arial, Helvetica, sans-serif;
-color: #000000;
-line-height: 1.4em;
-letter-spacing: 0.1em;
-border-bottom: 1px solid #000000;
-}
-h3.post-title {
-margin: 0px;
-padding: 4px;
-font: normal bold 140% Verdana, Arial, Helvetica, sans-serif;
-color: #006699;
-line-height: 1em;
-letter-spacing: 0.1em;
-}
-.post img {
-padding:4px;
-border:1px solid #000000;
-}
-/***********************************************/
-/* Sidebar Styles                              */
-/***********************************************/
-.sidebar {
-margin: 10px;
-font: normal normal 77% Georgia, Times, serif;
-color: #000000;
-line-height: 1.6em;
-text-align: left;
-}
-h2.title, .sidebar h2 {
-margin: 0px;
-padding: 4px;
-font: normal bold 120% Arial, sans-serif;
-color: #000000;
-line-height: 1em;
-letter-spacing: 0.1em;
-text-align: center;
-border-bottom:1px solid #000000;
-}
-.sidebar ul, .post ul {
-margin: 0 0 1.5em;
-padding: 5px;
-}
-.sidebar li, .post li {
-font-size: 1em;
-list-style: none;
-}
-.comment-link {
-font-size: 1em;
-}
-/***********************************************/
-/* Comments                                    */
-/***********************************************/
-#comments-block {
-margin:1em 0 1.5em;
-}
-#comments-block .comment-author {
-padding-top: 20px;
-}
-dd.comment-body {
-margin: 0px 20px;
-padding-left: 10px;
-border-left: 1px solid #000000;
-}
-#comments {
-font-size: 0.8em;
-border:1px solid #000000;
-padding: 10px;
-margin: 10px;
-}
-/***********************************************/
-/* Blogger Profile Styles                      */
-/***********************************************/
-.profile-datablock, .profile-link {
-font-size: 10px;
-font-weight: normal;
-margin: 10px;
-line-height: 150%;
-text-align: left;
-}
-.profile-img {
-display: inline;
-}
-img.profile-img {
-float: left;
-padding: 4px;
-border: 0px solid #222;
-margin: 0 8px 3px 0px;
-}
-.profile-data strong {
-display: none;
-}
-.profile-textblock {
-margin:0 0 .5em;
-}
-/***********************************************/
-/* Archive List Styles                         */
-/***********************************************/
-#ArchiveList ul li {
-font-weight: normal;
-margin: 5px;
-text-align: left;
-}
-/***********************************************/
-/* Blog Feeds Styles                           */
-/***********************************************/
-.feed-links {
-font-size: 9px;
-font-weight: normal;
-margin: 10px;
-line-height: 175%;
-text-align: left;
-}
-/***********************************************/
-/* Blog Pager Styles                           */
-/***********************************************/
-.blog-pager {
-font-size: .8em;
-font-weight: normal;
-margin: 10px;
-line-height: 175%;
-text-align: center;
-}
-#blog-pager-newer-link {
-float: left;
-}
-#blog-pager-older-link {
-float: right;
-}
-#blog-pager {
-text-align: center;
-}
-/***********************************************/
-/* Footer Tag Styles                           */
-/***********************************************/
-#footer_wrap {
-clear: both;
-margin: -5px 0px 10px;
-padding: 10px;
-border: 1px solid #000000;
-text-align: center;
-font-size: .8em;
-}
-#footer_wrap p {
-font: italic bold 35% Times, serif;
-line-height: 100%;
-}
-#navbar-iframe {
-height: 0px;
-}
-#navbar-iframe {
-visibility: hidden;
-}
 
---></style>
-<script type="text/javascript">
-function toggleIt(id) {
-	post = document.getElementById(id);
-	if (post.style.display != 'none') {
-		post.style.display = 'none';
-	} else {
-		post.style.display = '';
+<!-- Giant Realm Post Load Script END -->
+
+<meta name="google-site-verification" content="7ZVJMj3PN0c7o1OpLRY9iKN4uBpzsRYtASMeNsmtFA8">
+<meta name="description" content="Honestly, we have no interest in any of your information, but here's a legal notice just in case. PRIVACY POLICY AND CONSUMER EDUCATION It is Guyism, LLC’s...">
+<link rel="alternate" type="application/rss+xml" title="Guyism » Privacy Policy Comments Feed" href="http://guyism.com/privacy-policy/feed">
+<meta name="keywords" content="Privacy Policy, Guyism">
+<meta name="robots" content="index,follow,noodp,noydir">
+<link rel="canonical" href="http://guyism.com/privacy-policy">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://guyism.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<script type="text/javascript" src="http://guyism.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://guyism.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://guyism.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://guyism.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Guyism" href="http://guyism.com">
+<link rel="prev" title="Subscribe" href="http://guyism.com/subscribe">
+<link rel="next" title="Legal" href="http://guyism.com/legal">
+<meta name="generator" content="WordPress 3.1.1">
+ 
+	<script type="text/javascript">
+	 //<![CDATA[ 
+	function toggleLinkGrp(id) {
+	   var e = document.getElementById(id);
+	   if(e.style.display == 'block')
+			e.style.display = 'none';
+	   else
+			e.style.display = 'block';
 	}
-}
-
-function showFullPost(id) {
-	var post = document.getElementById(id);
-        var spans = post.getElementsByTagName('span');
-        for (var i = 0; i < spans.length; i++) {
-             if (spans[i].id == "fullpost")
-                 spans[i].style.display = 'inline';
-             if (spans[i].id == "readmore")
-                 spans[i].style.display = 'none';
-        }
-}
-
-var fade = false;
-function showFull(id) {
-	var post = document.getElementById(id);
-        var spans = post.getElementsByTagName('span');
-        for (var i = 0; i < spans.length; i++) {
-             if (spans[i].id == "fullpost") {
-                 if (fade) {
-                    spans[i].style.background = peekaboo_bgcolor;
-                    Effect.Appear(spans[i]);
-                } else spans[i].style.display = 'inline';
-             }
-             if (spans[i].id == "showlink")
-                 spans[i].style.display = 'none';
-             if (spans[i].id == "hidelink")
-                 spans[i].style.display = 'inline';
-        }
-}
-
-function hideFull(id) {
-	var post = document.getElementById(id);
-        var spans = post.getElementsByTagName('span');
-        for (var i = 0; i < spans.length; i++) {
-             if (spans[i].id == "fullpost") {
-                 if (fade) {
-                   spans[i].style.background = peekaboo_bgcolor;
-                   Effect.Fade(spans[i]);
-                 } else spans[i].style.display = 'none';
-             }
-             if (spans[i].id == "showlink")
-                 spans[i].style.display = 'inline';
-             if (spans[i].id == "hidelink")
-                 spans[i].style.display = 'none';
-        }
-        post.scrollIntoView(true);
-}
-
-function checkFull(id) {
-	var post = document.getElementById(id);
-        var spans = post.getElementsByTagName('span');
-        var found = 0;
-        for (var i = 0; i < spans.length; i++) {
-             if (spans[i].id == "fullpost") {
-                 spans[i].style.display = 'none';
-                 found = 1;
-             }
-             if ((spans[i].id == "showlink") && (found == 0))
-                 spans[i].style.display = 'none';
-        }
-}
-</script>
-<link type="text/css" rel="stylesheet" href="http://www.blogger.com/widgets/2300090209-widget_css_bundle.css"> <link rel="stylesheet" type="text/css" href="http://www.blogger.com/static/v1/v-css/3727950723-blog_controls.css">
- <link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=4044082373981127068&amp;zx=9221bc90-14ca-4c6e-b632-96b77ab3b151">
-<style type="text/css">#navbar-iframe { display:block }
-</style>
-
-
-
-<div class="navbar section" id="navbar"><div class="widget Navbar" id="Navbar1"><script type="text/javascript">
-    function setAttributeOnload(object, attribute, val) {
-      if(window.addEventListener) {
-        window.addEventListener("load",
-          function(){ object[attribute] = val; }, false);
-      } else {
-        window.attachEvent('onload', function(){ object[attribute] = val; });
-      }
-    }
-  </script>
-<iframe src="http://www.blogger.com/navbar.g?targetBlogID=4044082373981127068&amp;blogName=The+World+of+Isaac&amp;publishMode=PUBLISH_MODE_HOSTED&amp;navbarType=BLACK&amp;layoutType=LAYOUTS&amp;homepageUrl=http%3A%2F%2Fwww.theworldofisaac.com%2F&amp;blogLocale=en_US&amp;searchRoot=http%3A%2F%2Fwww.theworldofisaac.com%2Fsearch" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="30px" width="100%" id="navbar-iframe" title="Blogger Navigation and Search"></iframe>
-<div></div></div></div>
-<!-- start outer wrap -->
-<div id="wrap">
-<!-- start header -->
-<div id="header_wrap">
-<div class="header section" id="header"><div class="widget HTML" id="HTML3">
-<div class="widget-content">
-<div align="center"><!-- Begin Adify tag for "YBN2" Ad Space (728x90) ID #2142807 -->
-<script type="text/javascript">
-	sr_adspace_id = 2142807;
-	sr_adspace_width = 728;
-	sr_adspace_height = 90;
-	sr_adspace_type = "graphic";
-	sr_ad_new_window = true;
+	// ]]>
+	</script> 
 	
+<script type="text/javascript" src="http://intensedebate.com/js/wordpressTemplateLinkWrapper2.php?acct=4e52bde659c3f550fa634ec0f9a83f00"></script></head>
+<body>
+<div id="nav">
+	<div id="navigation">
+		<a id="nav-home" href="http://guyism.com/"><span>Home</span></a>
+		<a id="nav-humor" href="http://guyism.com/humor/"><span>Humor</span></a>
+		<a id="nav-celebs" href="http://guyism.com/celebrities/"><span>Celebs</span></a>
+		<a id="nav-sports" href="http://guyism.com/sports/"><span>Sports</span></a>
+		<a id="nav-lifestyle" href="http://guyism.com/lifestyle/"><span>Lifestyle</span></a>
+		<a id="nav-video" href="http://guyism.com/video/"><span>Video</span></a>
+	</div>
+	<div id="social-media">
+		<a href="http://feeds.feedburner.com/Guyism" rel="nofollow"><img src="http://guyism.com/wp-content/themes/guyism2/images/icon-rss.png" width="15" height="15" alt=""></a>
+		<a href="http://twitter.com/guyism" rel="nofollow"><img src="http://guyism.com/wp-content/themes/guyism2/images/icon-twitter.png" width="15" height="15" alt=""></a>
+		<a href="http://www.facebook.com/guyismdotcom" rel="nofollow"><img src="http://guyism.com/wp-content/themes/guyism2/images/icon-facebook.png" width="15" height="15" alt=""></a>
+	</div>
+	<div id="search">
+		<script type="text/javascript" src="http://www.lijit.com/wijitinit?uri=http%3A%2F%2Fwww.lijit.com%2Fusers%2Fguyism&amp;js=1"></script> 
+		<script type="text/javascript" src="http://www.lijit.com/files/branding-images/lwp_hide.js"></script> 
+		<form id="search" method="post" action="" onsubmit="lijitSearchInit(this);return false;"> 
+			<input onfocus="if (this.value == 'Search the site') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search the site';}" value="Search the site" class="textsubmit" type="text" name="s" id="s" size="35"> 
+			<input class="buttonsubmit" type="submit" name="search" id="search-submit" value="Search"> 
+		</form> 
+	</div>
+</div>
+<div id="header"> 
+	<div id="header-container"> 
+		<div id="logo"><a href="/"><img src="http://guyism.com/wp-content/themes/guyism2/images/logo.png" width="249" height="82" alt="Guyism.com"></a></div>
+		<div class="ad-banner">
+                <!-- POST LOAD AD CONTAINER 728x90 -->                  
+                <div id="banner_container_728x90" style="display: block;"><div id="banner_data_728x90" style="visibility: visible;">
+ 
+ <!-- AD TAG BEGINS: Guyism(gr.guyism) / sports / 728x90 -->
+<script type="text/javascript">
+    var gr_ads_zone = 'sports';
+    var gr_ads_size = '728x90';
 </script>
-<script src="http://ad.afy11.net/srad.js?azId=2142807" type="text/javascript">
+<script type="text/javascript" src="http://a.giantrealm.com/gr.guyism/a.js">
 </script>
-<!-- End Adify tag for "YBN2" Ad Space (728x90) ID #2142807 --></div>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" target="configHTML3" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML15">
-<div class="widget-content">
-<br>
-<br>
-<br>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML15&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML15&quot;));" target="configHTML15" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML14">
-<div class="widget-content">
-<a href="http://www.theworldofisaac.com" title="THE WORLD OF ISAAC"><img border="0" alt="THE WORLD OF ISAAC" src="http://i305.photobucket.com/albums/nn202/theworldofisaac/theworldofisaac7.gif"></a>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML14&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML14&quot;));" target="configHTML14" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
+<noscript>
+    <a href='http://ans.giantrealm.com/click/gr.guyism/sports;tile=1;sz=728x90;ord=1234567890'>
+        <img src='http://ans.giantrealm.com/img/gr.guyism/sports;tile=1;sz=728x90;ord=1234567890' width='728' height='90' alt='advertisement' />
+    </a>
+</noscript>
+<!-- AD TAG ENDS: Guyism / sports / 728x90 --> 
+ 
+
 </div></div>
+                <!-- POST LOAD AD CONTAINER 728x90 --> 
+                </div>
 </div>
-<!-- end header -->
-<!-- start left sidebar -->
-<div id="leftbar_wrap">
-<div class="side">
-<div class="sidebar section" id="leftbar"><div class="widget Image" id="Image1">
-<h2>Hot Chicks with the Stanley Cup</h2>
-<div class="widget-content">
-<a href="http://www.theworldofisaac.com/2008/05/hot-chicks-with-lord-stanley.html">
-<img alt="Hot Chicks with the Stanley Cup" height="150" id="Image1_img" src="http://1.bp.blogspot.com/_h__52JSRRm0/Se8rW70gUqI/AAAAAAAAF8U/FYs6ZNgPr3M/S150/tn_amateurcup.jpg" width="145">
-</a>
-<br>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=Image&amp;widgetId=Image1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Image1&quot;));" target="configImage1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML23">
-<div class="widget-content">
-<br>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML23&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML23&quot;));" target="configHTML23" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML17">
-<h2 class="title">Popular Posts</h2>
-<div class="widget-content">
-<br><i><a href="http://www.theworldofisaac.com/2008/11/25-hottest-celebrity-booties.html&#10;">The 25 Hottest Celebrity Booties</a><br>
+	</div>
 
-<br><i><a href="&#10;http://www.theworldofisaac.com/2008/11/11-hottest-sports-movie-tomboys.html&#10;">The 11 Hottest Sports Movie Tomboys</a><br>
+<div id="content"> 
+		<div id="most-popular">
+		<h3 class="titlebar popular-today"><span>Popular Today</span></h3>
+		<h4><a href="http://facebook.com/guyismdotcom" rel="nofollow" target="_blank">More contests this week on our FB page..like us now!</a></h4>
+		<div id="carousel-area">
+			<div id="scroll-left"><a href=""><img src="http://guyism.com/wp-content/themes/guyism2/images/arrow-left.png" width="45" height="45" alt=""></a></div>
+			<div id="carousel">
+			<ul>
+																<li class="c-item"><a href="http://guyism.com/celebrities/exclusive-first-look-kate-uptons-super-sexy-new-bikini-video-for-sobe.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2011/06/kate-upton-sobe-th-135x95.jpg" class="attachment-111x78 wp-post-image" alt="kate upton sobe th" title="Exclusive First Look: Kate Upton’s super sexy new bikini video for SoBe" align="left"></a><a href="http://guyism.com/celebrities/exclusive-first-look-kate-uptons-super-sexy-new-bikini-video-for-sobe.html">Exclusive First Look: Kate Upton’s super sexy new bikini video for SoBe</a></li>
+												<li class="c-item"><a href="http://guyism.com/lifestyle/summer-wedding-mistakes.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2011/06/Wedding-Mistakes-135x95.jpg" class="attachment-111x78 wp-post-image" alt="Wedding Mistakes" title="Common summer wedding attire mistakes" align="left"></a><a href="http://guyism.com/lifestyle/summer-wedding-mistakes.html">Common summer wedding attire mistakes</a></li>
+												<li class="c-item"><a href="http://guyism.com/humor/video-wheelchair-man-thwarts-a-robbery-like-a-boss.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2011/06/wheelchair-robbery-thwart-135x95.jpg" class="attachment-111x78 wp-post-image" alt="wheelchair robbery thwart" title="VIDEO: Wheelchair man thwarts a robbery like a boss" align="left"></a><a href="http://guyism.com/humor/video-wheelchair-man-thwarts-a-robbery-like-a-boss.html">VIDEO: Wheelchair man thwarts a robbery like a boss</a></li>
+												<li class="c-item"><a href="http://guyism.com/sports/sexiest-players-of-fifa-womens-world-cup-2011.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2011/06/Kelley-OHara1-135x95.jpg" class="attachment-111x78 wp-post-image" alt="Kelley O'Hara" title="30 of the sexiest players of the 2011 FIFA Women’s World Cup" align="left"></a><a href="http://guyism.com/sports/sexiest-players-of-fifa-womens-world-cup-2011.html">30 of the sexiest players of the 2011 FIFA Women’s World Cup</a></li>
+												<li class="c-item"><a href="http://guyism.com/humor/video-woman-attempts-to-stop-beer-thieves-fails-miserably.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2011/06/woman-black-eye-135x95.jpg" class="attachment-111x78 wp-post-image" alt="woman black eye" title="VIDEO: Woman attempts to stop beer thieves, fails miserably" align="left"></a><a href="http://guyism.com/humor/video-woman-attempts-to-stop-beer-thieves-fails-miserably.html">VIDEO: Woman attempts to stop beer thieves, fails miserably</a></li>
+												<li class="c-item"><a href="http://guyism.com/lifestyle/most-memorable-tv-deaths-of-all-time.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2011/06/phil-hartman-135x95.jpg" class="attachment-111x78 wp-post-image" alt="phil hartman" title="12 of the most memorable TV deaths of all-time" align="left"></a><a href="http://guyism.com/lifestyle/most-memorable-tv-deaths-of-all-time.html">12 of the most memorable TV deaths of all-time</a></li>
+												<li class="c-item"><a href="http://guyism.com/sports/15-of-the-sexiest-female-athletes-of-summer-2011.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2011/06/christina-vukicevic-135x95.jpg" class="attachment-111x78 wp-post-image" alt="11TH CHINA IAAF WORLD JUNIOR CHAMPIONSHIPS" title="15 of the sexiest female athletes of summer 2011" align="left"></a><a href="http://guyism.com/sports/15-of-the-sexiest-female-athletes-of-summer-2011.html">15 of the sexiest female athletes of summer 2011</a></li>
+												<li class="c-item"><a href="http://guyism.com/celebrities/66-most-overrated-women-of-2011.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2010/06/overrated-2011-135x95.jpg" class="attachment-111x78 wp-post-image" alt="overrated-2011" title="The 66 most overrated women of 2011" align="left"></a><a href="http://guyism.com/celebrities/66-most-overrated-women-of-2011.html">The 66 most overrated women of 2011</a></li>
+												<li class="c-item"><a href="http://guyism.com/lifestyle/the-every-guys-guide-drink-ordering-etiquette.html"><img width="111" height="78" src="http://guyism.com/wp-content/uploads/2011/06/No-Eye-Contact-135x95.jpg" class="attachment-111x78 wp-post-image" alt="No Eye Contact" title="The Every Guy’s Guide: Drink ordering etiquette" align="left"></a><a href="http://guyism.com/lifestyle/the-every-guys-guide-drink-ordering-etiquette.html">The Every Guy’s Guide: Drink ordering etiquette</a></li>
+							</ul>
+			</div>
+			<div id="scroll-right"><a href=""><img src="http://guyism.com/wp-content/themes/guyism2/images/arrow-right.png" width="45" height="45" alt=""></a></div>
+		</div>
+	</div> 
+	<script type="text/javascript"> 
+		$(document).ready(function () {
+		    $(function() {
+		    $("#carousel").jCarouselLite({
+        		btnNext: "#scroll-right",
+		        btnPrev: "#scroll-left",
+				speed: 500,
+				visible: 3
+	    	});
+			});
+		});
+    </script>	
+	<div id="blog-posts">
+				<div class="blog-post-inside">
+			<h2>Privacy Policy</h2>
+			<br clear="all">
+			<div class="post">
+				<p><em>Honestly, we have no interest in any of your information, but here’s a legal notice just in case.</em></p>
+<p>PRIVACY POLICY AND CONSUMER EDUCATION<br>
+It is Guyism, LLC’s policy to respect the privacy of Members. We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use our website located at guyism.com . This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes.</p>
+<p>Except as otherwise provided in this Privacy Policy, we will not disclose to any member’s name or contact information or Personal Information (defined below). Guyism will also not monitor, edit, or disclose member’s information unless required to do so by law or in the good faith belief that such action is necessary to: (1) cooperate with law enforcement authorities or comply with legal process served on Guyism; (2) to protect the property and rights of Guyism or a third party; or (3) to protect the safety of the public or any person; (4) to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or (5) fix or debug problems with the Guyism servers, software or service.</p>
+<p>Children’s Privacy<br>
+The Site is not directed to children under 13 years of age, and Guyism requires users of its service to be 13 years of age or older. Accordingly, Guyism does not knowingly collect or maintain on its Site personally identifiable information from children under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at legal@guyism.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
+<p>We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.</p>
+<p>THE PERSONAL INFORMATION WE COLLECT<br>
+When you post or register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (”Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. Guyism may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to Guyism, and make public via your privacy settings, will also be available to other Guyism users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on Guyism. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.<br>
+As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.</p>
+<p>HOW WE USE PERSONAL INFORMATION<br>
+Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and Guyism account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on Guyism related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.</p>
+<p>OTHER INFORMATION/LOGGING AND COOKIES<br>
+Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.</p>
+<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','www.networkadvertising.org']);">click here</a>.</p>
+<p>INFORMATION SHARING AND DISCLOSURE<br>
+Guyism Members. In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.</p>
+<p>Even with all the appropriate precautions Guyism takes to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services.<br>
+Aggregate Information and Non-Identifying Information. We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.</p>
+<p>Service Providers<br>
+We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+<p>Business Transfers. Guyism may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</p>
+<p>Invite-A-Friend<br>
+If you choose to invite your friends to use Guyism, using our invitation options, we will ask for information such as an e-mail address. We will automatically send your friend(s) a one-time e-mail invitation to visit the Site. Guyism stores this information to send this one-time invitation, and to track the success of this referral feature.</p>
+<p>CHANGING OR DELETING YOUR INFORMATION<br>
+All Guyism members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.</p>
+<p>SECURITY<br>
+Guyism is concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access</p>
+<p>INTERNATIONAL TRANSFER<br>
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Guyism, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<p>LINKS TO OTHER SITES<br>
+The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
+<p>CONTACTING GUYISM<br>
+If you have any questions about this Privacy Policy, please contact us at legal@guyism.com. </p>
+							</div>
+		</div>
+			</div> 
+	<div id="sidebar">
+<div class="ad-display">
 
-<br><i><a href="http://www.theworldofisaac.com/2008/09/hot-celebrities-in-workout-gear.html&#10;">Hot Celebrities in Workout Gear</a><br>
+<!-- DIV ID THAT THE GIANT REALM VIDEO PLAYER SCANS FOR IN ORDER TO UPDATE THIS AD WITH A RELATED AD -->
+<div id="”vspCompanion”">
 
-<br><i><a href="http://www.theworldofisaac.com/2009/03/overunder-with-terrell-owens.html&#10;">Over/Under with Terrell Owens</a><br>
-
-<br><a href="http://www.theworldofisaac.com/2008/05/hot-chicks-with-lord-stanley.html">Hot Chicks with Lord Stanley</a><br>
-
-<br><a href="http://www.theworldofisaac.com/2008/12/12-hottest-sloppy-second-wags.html">The 12 Hottest Sloppy Second WAGS</a><br>
-
-<br><a href="http://www.theworldofisaac.com/2008/07/six-degrees-of-derek-jeter.html">Six Degrees of Derek Jeter</a><br>
-
-<br><a href="http://www.theworldofisaac.com/2008/07/10-funniest-will-ferrell-movie-scenes.html">10 Funniest Will Ferrell Movie Scenes</a><br>
-
-<br><a href="http://theworldofisaac.blogspot.com/2008/06/top-10-dunks-of-all-time-from-white.html">Top Ten White Guy Dunks</a><br>
-
-<br><a href="http://www.theworldofisaac.com/2008/10/that-cant-be-comfortable.html">The Worst case of Cameltoe</a><br>
-
-<br><a href="http://theworldofisaac.blogspot.com/2008/05/odds-wilt-slept-with-your-mom_15.html">Did Wilt Sleep With Your Mom:  Take the Quiz</a><br>
-
-<br><a href="http://www.theworldofisaac.com/2008/08/misty-may-booty-tribute.html">Misty May Booty Tribute</a><br>
-
-<span style="font-style:italic;"><br><a href="http://theworldofisaac.blogspot.com/2008/06/hot-australian-women.html">Hot Australian Women</a><br><br></span></i></i></i></i>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML17&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML17&quot;));" target="configHTML17" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML4">
-<div class="widget-content">
-<!-- Begin Adify tag for "YBN" Ad Space (160x600) ID #2141807 -->
+<!-- POST LOAD AD CONTAINER 300x250 -->                  
+<div id="banner_container_300x250" style="display: block;"><div id="banner_data_300x250" style="visibility: visible;">
+<!-- AD TAG BEGINS: Guyism(gr.guyism) / sports / 300x250,300x600 -->
 <script type="text/javascript">
-	sr_adspace_id = 2141807;
-	sr_adspace_width = 160;
-	sr_adspace_height = 600;
-	sr_adspace_type = "graphic";
-	sr_ad_new_window = true;
-	
+	var gr_ads_zone = 'sports';
+	var gr_ads_size = '300x250,300x600';
 </script>
-<script src="http://ad.afy11.net/srad.js?azId=2141807" type="text/javascript">
+<script type="text/javascript" src="http://a.giantrealm.com/gr.guyism/a.js">
 </script>
-<!-- End Adify tag for "YBN" Ad Space (160x600) ID #2141807 -->
+<noscript>
+	<a href='http://ans.giantrealm.com/click/gr.guyism/sports;tile=3;sz=300x250;ord=1234567890'>
+		<img src='http://ans.giantrealm.com/img/gr.guyism/sports;tile=3;sz=300x250;ord=1234567890' width='300' height='250' alt='advertisement' />
+	</a>
+</noscript>
+
+<!-- AD TAG ENDS: Guyism / sports / 300x250,300x600 -->
+ 
+</div></div>
+<!-- POST LOAD AD CONTAINER 300x250 --> 
+
 </div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" target="configHTML4" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML19">
-<div class="widget-content">
-<a href="http://bingostreet.com/">Online Bingo</a>
-<a href="http://www.winkbingo.com">Bingo</a>
+
 </div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML19&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML19&quot;));" target="configHTML19" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML12">
-<div class="widget-content">
-<br><span style="font-style:italic;"><a href="http://www.partypoker.com">Poker Online</a></span>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML12&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML12&quot;));" target="configHTML12" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget BlogArchive" id="BlogArchive1">
-<h2>Archive</h2>
-<div class="widget-content">
-<div id="ArchiveList">
-<div id="BlogArchive1_ArchiveList">
-<select id="BlogArchive1_ArchiveMenu">
-<option value="">Archive</option>
-<option value="http://www.theworldofisaac.com/2009_04_01_archive.html">April (85)</option>
-<option value="http://www.theworldofisaac.com/2009_03_01_archive.html">March (76)</option>
-<option value="http://www.theworldofisaac.com/2009_02_01_archive.html">February (50)</option>
-<option value="http://www.theworldofisaac.com/2009_01_01_archive.html">January (87)</option>
-<option value="http://www.theworldofisaac.com/2008_12_01_archive.html">December (94)</option>
-<option value="http://www.theworldofisaac.com/2008_11_01_archive.html">November (94)</option>
-<option value="http://www.theworldofisaac.com/2008_10_01_archive.html">October (146)</option>
-<option value="http://www.theworldofisaac.com/2008_09_01_archive.html">September (143)</option>
-<option value="http://www.theworldofisaac.com/2008_08_01_archive.html">August (102)</option>
-<option value="http://www.theworldofisaac.com/2008_07_01_archive.html">July (112)</option>
-<option value="http://www.theworldofisaac.com/2008_06_01_archive.html">June (109)</option>
-<option value="http://www.theworldofisaac.com/2008_05_01_archive.html">May (101)</option>
-<option value="http://www.theworldofisaac.com/2008_04_01_archive.html">April (102)</option>
-<option value="http://www.theworldofisaac.com/2008_03_01_archive.html">March (89)</option>
-<option value="http://www.theworldofisaac.com/2008_02_01_archive.html">February (74)</option>
-<option value="http://www.theworldofisaac.com/2008_01_01_archive.html">January (71)</option>
-<option value="http://www.theworldofisaac.com/2007_12_01_archive.html">December (57)</option>
-<option value="http://www.theworldofisaac.com/2007_11_01_archive.html">November (73)</option>
-<option value="http://www.theworldofisaac.com/2007_10_01_archive.html">October (69)</option>
-<option value="http://www.theworldofisaac.com/2007_09_01_archive.html">September (31)</option>
-<option value="http://www.theworldofisaac.com/2007_08_01_archive.html">August (34)</option>
-<option value="http://www.theworldofisaac.com/2007_07_01_archive.html">July (21)</option>
-<option value="http://www.theworldofisaac.com/2007_06_01_archive.html">June (22)</option>
-<option value="http://www.theworldofisaac.com/2007_05_01_archive.html">May (21)</option>
-<option value="http://www.theworldofisaac.com/2007_04_01_archive.html">April (35)</option>
-<option value="http://www.theworldofisaac.com/2007_03_01_archive.html">March (56)</option>
-<option value="http://www.theworldofisaac.com/2007_02_01_archive.html">February (41)</option>
-<option value="http://www.theworldofisaac.com/2007_01_01_archive.html">January (46)</option>
-<option value="http://www.theworldofisaac.com/2006_12_01_archive.html">December (16)</option>
-</select>
-</div>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;BlogArchive1&quot;));" target="configBlogArchive1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div>
-</div><div class="widget HTML" id="HTML28">
-<h2 class="title">Recent Comments</h2>
-<div class="widget-content">
-<script style="text/javascript" src="http://kunoichi.info/blogger_buster/comments.js"></script><script style="text/javascript">var a_rc=5;var m_rc=true;var n_rc=true;var o_rc=100;</script><script src="http://www.theworldofisaac.com/feeds/comments/default?alt=json-in-script&amp;callback=showrecentcomments"></script>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML28&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML28&quot;));" target="configHTML28" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget LinkList" id="LinkList5">
-<h2>Blogs</h2>
-<div class="widget-content">
-<ul>
-<li><a href="http://www.afrojacks.com/">AfroJacks.com</a></li>
-<li><a href="http://www.bustedcoverage.com/">Busted Coverage</a></li>
-<li><a href="http://cuzoogle.com/">Cuzoogle</a></li>
-<li><a href="http://www.deadspin.com/">Deadspin</a></li>
-<li><a href="http://www.etruesports.com/">etrue Sports</a></li>
-<li><a href="http://yepyep.gibbs12.com/">Gibbs12.com</a></li>
-<li><a href="http://gorillamask.net/">Gorilla Mask</a></li>
-<li><a href="http://huggingharoldreynolds.blogspot.com/">Hugging Harold Reynolds</a></li>
-<li><a href="http://blog.ingamenow.com/">In Game Now</a></li>
-<li><a href="http://www.intentionalfoul.com/">Intentional Foul</a></li>
-<li><a href="http://macgsworld.blogspot.com/">Mac Gs World</a></li>
-<li><a href="http://www.manofest.com/">Manofest</a></li>
-<li><a href="http://www.micklanders.com/">micklanders</a></li>
-<li><a href="http://morehardball.blogspot.com/">More Hardball</a></li>
-<li><a href="http://mysportsrumors.com/">My Sports Rumors</a></li>
-<li><a href="http://www.need4sheed.com/">Need4Sheed</a></li>
-<li><a href="http://neswsports.com/">NESW Sports</a></li>
-<li><a href="http://on205th.com/">On 205th</a></li>
-<li><a href="http://partmule.com/">PartMule</a></li>
-<li><a href="http://sportsyenta.blogspot.com/">Rumors and Rants</a></li>
-<li><a href="http://sportsillustrated.cnn.com/extramustard/">SI.com Extra Mustard</a></li>
-<li><a href="http://www.sportsagentblog.com/">Sports Agent Blog</a></li>
-<li><a href="http://www.sportsbybrooks.com/">SportsbyBrooks</a></li>
-<li><a href="http://steady-burn.blogspot.com/">Steady Burn</a></li>
-<li><a href="http://theangryt.com/">The Angry T</a></li>
-<li><a href="http://thebiglead.com/">The Big Lead</a></li>
-<li><a href="http://thesportshernia.typepad.com/blog/">The Sports Hernia</a></li>
-<li><a href="http://moondogsports.com/">The World According to Moondog</a></li>
-<li><a href="http://www.theospark.net/">Theo Spark</a></li>
-<li><a href="http://pabaseball.blogspot.com/">We Should be GM's</a></li>
-<li><a href="http://with-malice.com/">With-Malice</a></li>
-<li><a href="http://with-malice.com/">With-Malice</a></li>
-<li><a href="http://withleather.com/">WithLeather</a></li>
+<div class="newsletter">
+				<h3 class="titlebar email-newsletter"><span>Email Newsletter</span></h3>
+				<form id="subscribe" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=Guyism', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"> 
+					<input onfocus="if (this.value == 'Enter your email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email';}" class="textsubmit-email" type="text" value="Enter your email" name="email"> 
+					<input type="hidden" value="Guyism" name="uri"> 
+					<input type="hidden" name="loc" value="en_US"> 
+					<input id="subscribe-submit" class="buttonsubmit-email" type="submit" value="SUBSCRIBE"> 
+				</form> 
+				<p>The best of Guyism in your inbox every morning</p>
+			</div>
+        <br>   
+	<div class="box1">
+		<h3 class="titlebar daily-picks"><span>Daily Picks</span></h3>
+		<ul>
+	<li><a href="http://www.brobible.com/bronews/story/girl-hooks-up-with-quentin-tarantino#guyismPicks" target="_blank" rel="nofollow"><img src="http://guyism.com/wp-content/uploads/2011/06/picksa121.jpg" width="90" height="60" alt="">Quentin Tarantino is an epic creep...here's the story</a></li>
+	<li><a href="http://www.maxim.com/girls/todays+girl/062811/diana+falzone#guyismPicks" target="_blank" rel="nofollow"><img src="http://guyism.com/wp-content/uploads/2011/06/picksb121.jpg" width="90" height="60" alt="">Diana Falzone is about to explode out of this top. Be careful, ma'am</a></li>
+	<li><a href="http://www.thesmokingjacket.com/girls/iga-wyrwal-sexy-pictures#guyismPicks" target="_blank" rel="nofollow"><img src="http://guyism.com/wp-content/uploads/2011/06/picksc121.jpg" width="90" height="60" alt="">Iga Wyrwal is the best thing about Poland since submarine screen doors</a></li>
+	<li><a href="http://nyc.barstoolsports.com/random-thoughts/how-can-we-possibly-top-smokeshow-liz-for-mad-rivers-guest-bartending-contest/#guyismPicks" target="_blank" rel="nofollow"><img src="http://guyism.com/wp-content/uploads/2011/06/picksd121.jpg" width="90" height="60" alt="">Is this girl the hottest bartender in NYC?</a></li>
+	<li><a href="http://thechive.com/2011/06/29/a-hump-this-moment-never-ends/#guyismPicks" target="_blank" rel="nofollow"><img src="http://guyism.com/wp-content/uploads/2011/06/pickse121.jpg" width="90" height="60" alt="">Wednesday is a good day for a collection of booty pics</a></li>
+        <script src="http://theslingshot.com/w/20/15/js"></script>
 </ul>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=LinkList&amp;widgetId=LinkList5&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;LinkList5&quot;));" target="configLinkList5" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div>
-</div></div>
-</div>
-</div>
-<!-- end left sidebar -->
-<!-- start right sidebar -->
-<div id="rightbar_wrap">
-<div class="side">
-<div class="sidebar section" id="rightbar"><div class="widget Image" id="Image2">
-<h2>Playboy Girls love World of Isaac</h2>
-<div class="widget-content">
-<a href="http://www.theworldofisaac.com/2009/04/i-have-dream.html">
-<img alt="Playboy Girls love World of Isaac" height="150" id="Image2_img" src="http://3.bp.blogspot.com/_h__52JSRRm0/SeYxy4rjHEI/AAAAAAAAF8E/_5WWkvvT9mY/S150/carmen.jpg" width="100">
-</a>
-<br>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=Image&amp;widgetId=Image2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Image2&quot;));" target="configImage2" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML29">
-<h2 class="title">TOP TAGS</h2>
-<div class="widget-content">
-<table><tbody><tr><td><a href="http://www.theworldofisaac.com/search/label/Babes"></a><a href="http://www.theworldofisaac.com/search/label/Babes" target="_blank"><img src="http://i305.photobucket.com/albums/nn202/theworldofisaac/Sports/babes.png"></a></td>
-<td><a href="http://www.theworldofisaac.com/search/label/Videos" target="_blank"><img src="http://i305.photobucket.com/albums/nn202/theworldofisaac/Sports/videos.png"></a></td></tr></tbody></table>
-<table><tbody><tr><td><a href="http://www.theworldofisaac.com/search/label/Funny%20Pictures" target="_blank"><img src="http://i305.photobucket.com/albums/nn202/theworldofisaac/Sports/pics.png"></a></td>
-<td><a href="http://www.theworldofisaac.com/search/label/Funny" target="_blank"><img src="http://i305.photobucket.com/albums/nn202/theworldofisaac/Sports/funny.png"></a></td></tr></tbody></table>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML29&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML29&quot;));" target="configHTML29" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div>
-<div class="widget HTML" id="HTML2">
-<div class="widget-content">
-<a href="http://feeds.feedburner.com/theworldofisaac" rel="alternate" title="World of Isaac" type="application/rss+xml"><img alt="" style="border: 0pt none ;"><img src="http://i305.photobucket.com/albums/nn202/theworldofisaac/rssfeed.jpg"></a>
-<br><br><br>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML25">
-<div class="widget-content">
-<a href="http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html">Privacy Policy</a>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML25&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML25&quot;));" target="configHTML25" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML18">
-<div class="widget-content">
-<font size="2.5"><b>Advertising, tips, or complaints<br>
-Email the Editor:</b></font><br>
+	</div>
 
-<i><font size="2">theworldofisaac@gmail.com</font></i><br><br>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML18&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML18&quot;));" target="configHTML18" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML11">
-<div class="widget-content">
-<a href="http://www.betus.com/ats/15659/?camp=tiger" rel="nofollow"><img src="http://i305.photobucket.com/albums/nn202/theworldofisaac/Chicks/BetUS-Logo160T-1.png"></a>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML11&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML11&quot;));" target="configHTML11" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML26">
-<div class="widget-content">
-<span style="font-style:italic;"><a href="http://www.foxybingo.com">Foxy Bingo</a> launched in June 2005 and is now amongst the biggest names in <a href="http://www.foxybingo.com">online bingo</a>. We now have 40 game rooms in which you can play bingo online from as little as 5p. When you join today we'll match your first deposit on the site of £10 or more.</span>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML26&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML26&quot;));" target="configHTML26" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML10">
-<div class="widget-content">
-<a href="http://www.youstrip.com"><img src="http://i305.photobucket.com/albums/nn202/theworldofisaac/Chicks/WOInew.jpg"></a>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML10&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML10&quot;));" target="configHTML10" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML27">
-<div class="widget-content">
-<br><a href="http://www.slowbreaker.com/" target="_blank"><img border="0" alt="Check out SlowBreaker.com" src="http://slowb.platformic.com/images/16691.jpg"></a>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML27&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML27&quot;));" target="configHTML27" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML16">
-<div class="widget-content">
-<p align="left">
-</p><form id="searchthis" action="http://www.theworldofisaac.com/search" style="display:inline;" method="get">
-<input id="b-query" maxlength="255" name="q" size="20" type="text">
-<input id="b-searchbtn" value="WOI Search" type="submit">
-</form><p></p>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML16&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML16&quot;));" target="configHTML16" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML1">
-<div class="widget-content">
-<!-- Site Meter -->
-<script src="http://s29.sitemeter.com/js/counter.js?site=s29michiganstateuniversity" type="text/javascript">
+<!-- AD TAG BEGINS: Guyism(gr.guyism) / homepage / 300x100 -->
+<script type="text/javascript">
+	var gr_ads_zone = 'homepage';
+	var gr_ads_size = '300x100';
+</script>
+<script type="text/javascript" src="http://a.giantrealm.com/gr.guyism/a.js">
 </script>
 <noscript>
-<a href="http://s29.sitemeter.com/stats.asp?site=s29michiganstateuniversity" target="_top">
-<img border="0" alt="Site Meter" src="http://s29.sitemeter.com/meter.asp?site=s29michiganstateuniversity"/></a>
+	<a href="http://ans.giantrealm.com/click/gr.guyism/homepage;tile=5;sz=300x100;ord=1234567890">
+		<img src="http://ans.giantrealm.com/img/gr.guyism/homepage;tile=5;sz=300x100;ord=1234567890" width="300" height="100" alt="advertisement" />
+	</a>
 </noscript>
-<!-- Copyright (c)2006 Site Meter -->
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML20">
-<div class="widget-content">
-<a href="http://ballhype.com/"><img width="80" alt="Ballhype" src="http://images.ballhype.com/img/hype/ballhype_80x15.gif" height="15"></a>
-<br>
+<!-- AD TAG ENDS: Guyism / homepage / 300x100 -->
 
-<a href="http://www.yardbarker.com/"><img border="0" width="106" src=" http://www.yardbarker.com/images/yardbarker_network.gif" height="47"></a>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML20&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML20&quot;));" target="configHTML20" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML8">
-<div class="widget-content">
-<br>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML8&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML8&quot;));" target="configHTML8" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML5">
-<div class="widget-content">
-<script src="http://widgetserver.com/syndication/subscriber/InsertWidget.js?appId=f036ef50-1e62-4a67-a076-992047ece9c3" type="text/javascript"></script><a href="http://www.yardbarker.com/content/sport/9" target="_blank">More Backyard Articles</a><noscript>Get the <a href="http://www.widgetbox.com/widget/yardbarker-network-widget">Yardbarker Network Widget</a> widget and many other <a href="http://www.widgetbox.com/">great free widgets</a> at <a href="http://www.widgetbox.com">Widgetbox</a>!</noscript>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML5&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML5&quot;));" target="configHTML5" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML9">
-<div class="widget-content">
-<span style="font-style:italic;"><br>Get your <a href="http://ladies.888.com">bingo</a> fix from the comfort of your own home with the wide range of <a href="http://ladies.888.com/bingo-games.php">bingo games</a> offered by 888.  Our range of sport bets includes all your favorite sport games including football, basketball, ice-hockey and more, so come and enjoy the game.<br></span>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML9&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML9&quot;));" target="configHTML9" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div><div class="widget HTML" id="HTML7">
-<div class="widget-content">
-<span style="font-style:italic;">The number one <a href="http://www.dreambingo.co.uk/">bingo</a> bonus has to be the chance to make new friends via the free chat boxes and forums available at the latest <a href="http://www.dreambingo.co.uk/community/">bingo websites</a>. After-all – who doesn't like a few new chums, gossip and an extension to their social life?</span><br>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" target="configHTML7" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div></div>
-</div>
-</div>
-<!-- end right sidebar -->
-<!-- start main -->
-<div id="main_wrap">
-<div class="main section" id="main"><div class="widget Blog" id="Blog1">
-<div class="blog-posts">
-<h2 class="date-header">Tuesday, January 1, 2008</h2>
-<div class="post" id="post-411379076394616867">
-<a name="411379076394616867"></a>
-<h3 class="post-title">
-<a href="http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html">THE WORLD OF ISAAC PRIVACY POLICY</a>
-</h3>
-<div class="post-header-line-1"></div>
-<div class="post-body">
-<p><span style="font-size:100%;">Privacy Policy<br><br>The World of Isaac knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.<br><br>This Privacy Policy covers The World of Isaac's treatment of personal information that The World of Isaac gathers when you are on the The World of Isaac website and when you use The World of Isaac services. This policy does not apply to the practices of third parties that The World of Isaac does not own or control, or to individuals that The World of Isaac does not employ or manage.<br><br>Information Collected by The World of Isaac<br><br>We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our The World of Isaac users:<br><br>1. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.<br><br>2. Automatic Information:<br><br>We receive and store certain types of information whenever you interact with us. The World of Isaac and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, The World of ISaac cookie information, and the page you requested. The World of Isaac uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.<br><br>The World of Isaac may collect and, on any page, display the total counts that page has been viewed.<br><br>Many companies offer programs that help you to visit websites anonymously. While The World of Isaac will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.<br><br>E-mail Communications<br><br>The World of Isaac is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. The World of Isaacmay send out e-mails with The World of Isaac-related news, products, offers, surveys or promotions.<br><br>Cookies<br><br>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. The World of Isaac cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.<br><br>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of The World of Isaac's coolest features.<br><br>The World of Isaac's advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A's privacy policy and opt-out page.<br><br>Sharing Your Information<br><br>Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.<br><br>The World of Isaac Personnel: The World of Isaac personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of The World of Isaac business.<br><br>Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if The World of Isaac, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.<br><br>Protection of The World of Isaacand Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of The World of Isaac, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.<br><br>Syndication: The World of Isaac allows for the RSS syndication of all of its public content within the The World of Isaac website.<br><br>With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.<br><br>Children Under 18 Years of Age<br><br>You must be 13 years and older to register to use the The World of Isaac website. As a result, The World of Isaac does not specifically collect information about children. If we learn that The World of Isaachas collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using The World of Isaac or sending information about themselves or anyone else over the Internet.<br><br>Changes to this Privacy Policy<br><br>The World of Isaac may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the The World of Isaacwebsite so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.<br><br>Conditions of Use<br><br>If you decide to visit The World of Isaac website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.<br><br>Effective Date of this Privacy Policy<br><br>This Privacy Policy is effective as of 9/22/09 and last updated 9/22/09.</span></p>
-</div>
-<div class="post-footer">
-<p class="post-footer-line post-footer-line-1">
-<span class="post-author">
-Posted by
-World of Isaac
-</span>
-<span class="post-timestamp">
-at
-<a class="timestamp-link" href="http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html" title="permanent link">6:10 PM</a>
-</span>
-<span class="post-comment-link">
-</span>
-<span class="post-backlinks post-comment-link">
-</span>
-<span class="post-icons">
-<span class="item-action">
-<a href="http://www.blogger.com/email-post.g?blogID=4044082373981127068&amp;postID=411379076394616867" title="Email Post">
-<span class="email-post-icon">&nbsp;</span>
-</a>
-</span>
-<span class="item-control blog-admin pid-328312713">
-<a href="http://www.blogger.com/post-edit.g?blogID=4044082373981127068&amp;postID=411379076394616867" title="Edit Post">
-<img alt="" class="icon-action" height="18" src="http://www.blogger.com/img/icon18_edit_allbkg.gif" width="18">
-</a>
-</span>
-</span>
-</p>
-<p class="post-footer-line post-footer-line-2">
-</p><div class="post-labels">
-Labels:
-<a href="http://www.theworldofisaac.com/search/label/Site%20News" rel="tag">Site News</a>
-<script src="/feeds/posts/default/-/Site News?alt=json-in-script&amp;callback=related_results_labels&amp;max-results=10" type="text/javascript"></script>
-</div>
-<p></p>
-<br>
-<a href="http://digg.com/submit?phase=2&amp;url=http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html&amp;title=THE WORLD OF ISAAC PRIVACY POLICY" target="_blank"><img alt="Digg" src="http://i305.photobucket.com/albums/nn202/theworldofisaac/Sports/digg.gif"></a>
-<a href="http://reddit.com/submit?url=http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html&amp;title=THE WORLD OF ISAAC PRIVACY POLICY" target="_blank"><img alt="Reddit" src="http://i305.photobucket.com/albums/nn202/theworldofisaac/Sports/reddit.gif"></a>
-<a href="http://ballhype.com/post/url/?url=http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html&amp;title=THE WORLD OF ISAAC PRIVACY POLICY"><img alt="BallHype: hype it up!" height="22" src="http://images.ballhype.com/img/hype/button_96x22.png" width="96"></a>
-<a href="http://www.yardbarker.com/author/new?pUrl=http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html&amp;pHead=THE WORLD OF ISAAC PRIVACY POLICY"><img src="http://www.yardbarker.com/images/extern/bark_narrow.gif"></a>
-<p class="post-footer-line post-footer-line-3"></p>
-</div>
-</div>
-<div class="comments" id="comments">
-<a name="comments"></a>
-<h4>
-0
-comments:
-        
-</h4>
-<dl id="comments-block">
-</dl>
-<p class="comment-footer">
-<a href="https://www.blogger.com/comment.g?blogID=4044082373981127068&amp;postID=411379076394616867" onclick="">Post a Comment</a>
-</p>
-<div id="backlinks-container">
-<div id="Blog1_backlinks-container">
-<a name="links"></a><h4>
-</h4>
-<p class="comment-footer">
-<a class="comment-link" href="" id="Blog1_backlinks-create-link" target="_blank">
-</a>
-</p>
-</div>
-</div>
-</div>
-</div>
-<div class="blog-pager" id="blog-pager">
-<span id="blog-pager-newer-link">
-<a class="blog-pager-newer-link" href="http://www.theworldofisaac.com/2008/01/back-to-work-trivia.html" id="Blog1_blog-pager-newer-link" title="Newer Post">Newer Post</a>
-</span>
-<span id="blog-pager-older-link">
-<a class="blog-pager-older-link" href="http://www.theworldofisaac.com/2008/01/not-good-day-for-bigten-fans.html" id="Blog1_blog-pager-older-link" title="Older Post">Older Post</a>
-</span>
-<a class="home-link" href="http://www.theworldofisaac.com/">Home</a>
-</div>
-<div class="clear"></div>
-<div class="post-feeds">
-<div class="feed-links">
-Subscribe to:
-<a class="feed-link" href="http://www.theworldofisaac.com/feeds/411379076394616867/comments/default" target="_blank" type="application/atom+xml">Post Comments (Atom)</a>
-</div>
-</div>
-</div><div class="widget HTML" id="HTML22">
-<div class="widget-content">
-<i><font size="1"><script type="text/javascript">
- removeRelatedDuplicates();
- printRelatedLabels();
-</script><ul></ul></font></i>
 
-<!-- Begin: AdBrite -->
-<script src="http://ads.adbrite.com/mb/text_group.php?sid=817888&amp;br=1" type="text/javascript"></script>
-<!-- End: AdBrite -->
+        <div class="box1">
+		<h3 class="titlebar newest-galleries"><span>Newest Galleries</span></h3>
+        <div class="galleries">
+<div class="w-left">
+	<a href="http://guyism.com/celebrities/elle-liberachi-lingerie-photo-shoot-100-pics.html"><img src="http://guyism.com/wp-content/uploads/2011/06/elle-liberachi-thumb.jpg" alt="Girl 10" title="Girl 10" id="ie-fix" width="145" height="188">
+	<div class="label">Elle Liberachi</div></a>
 </div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=4044082373981127068&amp;widgetType=HTML&amp;widgetId=HTML22&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML22&quot;));" target="configHTML22" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div></div>
+<div class="w-right">
+	<div class="r-top">
+		<div class="l-img">
+			<a href="http://guyism.com/celebrities/ginta-lapina-pics-victorias-secret.html"><img src="http://guyism.com/wp-content/uploads/2011/06/tiny-ginta-lapina-thumb.jpg" alt="Girl 2" title="Girl 2" width="64" height="93">
+		</a></div><a href="http://guyism.com/celebrities/ginta-lapina-pics-victorias-secret.html">
+		</a><div class="r-img"><a href="http://guyism.com/celebrities/ginta-lapina-pics-victorias-secret.html">
+			</a><a href="http://guyism.com/celebrities/tamara-ecclestone-pics-ultimo-lingerie.html"><img src="http://guyism.com/wp-content/uploads/2011/06/tiny-tamara-ecclestone-thumb.jpg" alt="Girl 3" title="Girl 3" width="64" height="93">
+		</a></div><a href="http://guyism.com/celebrities/tamara-ecclestone-pics-ultimo-lingerie.html">
+	</a></div><a href="http://guyism.com/celebrities/tamara-ecclestone-pics-ultimo-lingerie.html">
+	</a><div class="r-top"><a href="http://guyism.com/celebrities/tamara-ecclestone-pics-ultimo-lingerie.html">
+		</a><div class="l-img"><a href="http://guyism.com/celebrities/tamara-ecclestone-pics-ultimo-lingerie.html">
+			</a><a href="http://guyism.com/celebrities/melissa-giraldo-pics-gallery-bikinis-phax.html"><img src="http://guyism.com/wp-content/uploads/tiny-melissa-giraldo-thumb.jpg" alt="girl4" title="girl4" width="64" height="93">
+		</a></div><a href="http://guyism.com/celebrities/melissa-giraldo-pics-gallery-bikinis-phax.html">
+		</a><div class="r-img"><a href="http://guyism.com/celebrities/melissa-giraldo-pics-gallery-bikinis-phax.html">
+			</a><a href="http://guyism.com/celebrities/daria-konovalova-pics-photos-maxim-russia.html"><img src="http://guyism.com/wp-content/uploads/tiny-daria-konovalova-thumb.jpg" alt="girl5" title="girl5" width="64" height="93">
+		</a></div><a href="http://guyism.com/celebrities/daria-konovalova-pics-photos-maxim-russia.html">
+	</a></div><a href="http://guyism.com/celebrities/daria-konovalova-pics-photos-maxim-russia.html">
+</a></div><a href="http://guyism.com/celebrities/daria-konovalova-pics-photos-maxim-russia.html">
+<br clear="all">
+</a><div class="w-right bottom-row"><a href="http://guyism.com/celebrities/daria-konovalova-pics-photos-maxim-russia.html">
+	</a><div class="r-top"><a href="http://guyism.com/celebrities/daria-konovalova-pics-photos-maxim-russia.html">
+		</a><div class="l-img"><a href="http://guyism.com/celebrities/daria-konovalova-pics-photos-maxim-russia.html">
+			</a><a href="http://guyism.com/celebrities/caity-lotz-pics-esquire-me-in-my-place.html"><img src="http://guyism.com/wp-content/uploads/2011/06/tiny-caity-lotz-thumb.jpg" alt="Girl 2" title="Girl 2" width="64" height="93">
+		</a></div><a href="http://guyism.com/celebrities/caity-lotz-pics-esquire-me-in-my-place.html">
+		</a><div class="r-img"><a href="http://guyism.com/celebrities/caity-lotz-pics-esquire-me-in-my-place.html">
+			</a><a href="http://guyism.com/celebrities/anastasija-karner.html"><img src="http://guyism.com/wp-content/uploads/2011/06/tiny-anastasija-karner-thumb.jpg" alt="Girl 3" title="Girl 3" width="64" height="93">
+		</a></div><a href="http://guyism.com/celebrities/anastasija-karner.html">
+	</a></div><a href="http://guyism.com/celebrities/anastasija-karner.html">
+	</a><div class="r-top"><a href="http://guyism.com/celebrities/anastasija-karner.html">
+		</a><div class="l-img"><a href="http://guyism.com/celebrities/anastasija-karner.html">
+			</a><a href="http://guyism.com/celebrities/ana-hickmann-bikini-pics.html"><img src="http://guyism.com/wp-content/uploads/tiny-ana-hickmann-thumb.jpg" alt="girl4" title="girl4" width="64" height="93">
+		</a></div><a href="http://guyism.com/celebrities/ana-hickmann-bikini-pics.html">
+		</a><div class="r-img"><a href="http://guyism.com/celebrities/ana-hickmann-bikini-pics.html">
+			</a><a href="http://guyism.com/celebrities/leelee-sobieski-pics.html"><img src="http://guyism.com/wp-content/uploads/2011/06/tiny-leelee-sobieski-thumb.jpg" alt="girl5" title="girl5" width="64" height="93">
+		</a></div><a href="http://guyism.com/celebrities/leelee-sobieski-pics.html">
+	</a></div><a href="http://guyism.com/celebrities/leelee-sobieski-pics.html">
+</a></div><a href="http://guyism.com/celebrities/leelee-sobieski-pics.html">
+</a><div class="w-left bottom-row"><a href="http://guyism.com/celebrities/leelee-sobieski-pics.html">
+	</a><a href="http://guyism.com/celebrities/jarah-mariano.html"><img src="http://guyism.com/wp-content/uploads/2011/06/jarah-mariano-thumb.jpg" alt="Girl 10" title="Girl 10" id="ie-fix" width="145" height="188">
+	<div class="label">Jarah Mariano</div></a>
 </div>
-<!-- end main -->
-<!-- spacer for skins that want sidebar and main to be the same height-->
-<div class="clear">&nbsp;</div>
-<!-- begin #footer -->
-<div id="footer_wrap"><p>Powered by Blogger. <a href="http://thrbrtemplates.blogspot.com/">DownRight Blogger Theme v3.0</a> created by (© 2007) <a href="http://www.thurbroeders.nl/">Thur Broeders</a></p>
-<div class="footer section" id="footer"></div>
-</div>
-<!-- end #footer -->
-</div>
-<!-- end outer wrap -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+</div> 
+	</div>
+	<div>
+		<a href="mailto:editors@guyism.com?subject=tips"><img src="http://guyism.com/wp-content/themes/guyism2/images/button-send-tips.png" width="300" height="64" alt=""></a>
+	</div>
+	<div class="ad-display">
+
+
+<!-- DIV ID THAT THE GIANT REALM VIDEO PLAYER SCANS FOR IN ORDER TO UPDATE THIS AD WITH A RELATED AD -->
+<div id="”vspCompanion”">
+
+<!-- POST LOAD AD CONTAINER 300x250btf -->                  
+<div id="banner_container_300x250btf" style="display: block;"><div id="banner_data_300x250btf" style="visibility: visible;">
+ 
+ <!-- AD TAG BEGINS: Guyism(gr.guyism) / sports_btf / 300x250 -->
 <script type="text/javascript">
-_uacct = "UA-3559609-1";
-urchinTracker();
+	var gr_ads_zone = 'sports_btf';
+	var gr_ads_size = '300x250';
 </script>
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-9d5qtgkRy4oOg"
-};
+<script type="text/javascript" src="http://a.giantrealm.com/gr.guyism/a.js">
 </script>
-<script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
 <noscript>
-<img alt='Quantcast' border='0' height='1' src='http://pixel.quantserve.com/pixel/p-9d5qtgkRy4oOg.gif' style='display: none;' width='1'/>
+	<a href='http://ans.giantrealm.com/click/gr.guyism/sports_btf;tile=2;sz=300x250;ord=1234567890'>
+		<img src='http://ans.giantrealm.com/img/gr.guyism/sports_btf;tile=2;sz=300x250;ord=1234567890' width='300' height='250' alt='advertisement' />
+	</a>
 </noscript>
-<!-- End Quantcast tag -->
-<script src="http://network.yardbarker.com/network/ybn_pixel/3179" type="text/javascript"></script>
-<noscript></noscript>
-<script type="text/javascript" src="http://www.blogger.com/widgets/3553028423-widgets.js"></script>
+<!-- AD TAG ENDS: Guyism / sports_btf / 300x250 --> 
+
+ 
+
+</div></div>
+<!-- POST LOAD AD CONTAINER 300x250btf --> 
+
+</div>
+
+
+</div>
+        <div class="box1">
+		<h3 class="titlebar on-digg"><span>On Digg</span></h3>
+		<div id="digg-widget-1273841527369">
+		<a href="http://digg.com/search?s=guyism.com">See more guyism.com stories on Digg.com</a>
+		</div>
+		<script type="text/javascript">
+		(function() { var s, s1, diggWidget = {id: "digg-widget-1273841527369", layout: 1, colors: {hdrBg: "#1b5790", hdrTxt: "#b3daff", tabBg: "#4684be", tabTxt: "#b3daff", tabOnTxt: "#d41717", bdyBg: "#15415c", stryBrdr: "#ddd", lnk: "#ffffff", descTxt: "#999999", subHd: "#999999"}, title: "guyism.com on Digg", width: 280, requests: [{t: "guyism.com", p: {count: "5", sort: "promote_date-desc", method: "story.getPopular", domain: "guyism.com"}}], hide: {header: true, footer: true}}; if (window.DiggWidget) { if (typeof DiggWidget == 'function') { new DiggWidget(diggWidget); } else { DiggWidget.push(diggWidget); } } else { DiggWidget = [diggWidget]; s = document.createElement('SCRIPT'); s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/widgets.js'; s1 = document.getElementsByTagName('SCRIPT')[0]; s1.parentNode.insertBefore(s, s1); } })();
+		</script>	
+		</div>
+        <!---
+	<div class="box3">
+		<h3 class="titlebar on-facebook"><span>On Facebook</span></h3>
+		<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fguyismdotcom&amp;width=292&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:255px;" allowTransparency="true"></iframe>
+                </div>
+         --->
+    <div class="ad-display">
+
+<!-- POST LOAD AD CONTAINER 160x600 -->                  
+<div id="banner_container_160x600" style="display: block;"><div id="banner_data_160x600" style="visibility: visible;">
+ 
+ <!-- AD TAG BEGINS: Guyism(gr.guyism) / sports / 160x600 -->
 <script type="text/javascript">
-_WidgetManager._Init('http://www.blogger.com/rearrange?blogID=4044082373981127068', 'http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html','4044082373981127068');
-_WidgetManager._SetPageActionUrl('http://www.blogger.com/display?blogID=4044082373981127068', 'bJwhttP4qAxFBRaocm4Du3u69rU:1241105951752');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'title': 'The World of Isaac', 'pageType': 'item', 'url': 'http://www.theworldofisaac.com/2008/01/world-of-isaac-privacy-policy.html', 'homepageUrl': 'http://www.theworldofisaac.com/', 'searchLabel': '', 'searchQuery': '', 'pageName': 'THE WORLD OF ISAAC PRIVACY POLICY', 'pageTitle': 'The World of Isaac: THE WORLD OF ISAAC PRIVACY POLICY', 'encoding': 'UTF-8', 'locale': 'en-US', 'isPrivate': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42The World of Isaac - Atom\42 href\75\42http://www.theworldofisaac.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42The World of Isaac - RSS\42 href\75\42http://www.theworldofisaac.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42The World of Isaac - Atom\42 href\75\42http://www.blogger.com/feeds/4044082373981127068/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0754044082373981127068\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42The World of Isaac - Atom\42 href\75\42http://www.theworldofisaac.com/feeds/411379076394616867/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window;function d(b){this.t\75{};this.tick\75function(c,h,e){var i\75e?e:(new Date).getTime();this.t[c]\75[i,h]};this.tick(\42start\42,null,b)}var f\75new d;a.jstiming\75{Timer:d,load:f};try{a.jstiming.pt\75a.external.pageT}catch(g){};function j(b){var c\0750;if(b.offsetParent){do c+\75b.offsetTop;while(b\75b.offsetParent)}return c}a.tickAboveFold\75function(b){j(b)\74\075750\46\46a.jstiming.load.tick(\42aft\42)};var k\75false;function l(){if(!k){k\75true;a.jstiming.load.tick(\42firstScrollTime\42)}}a.addEventListener?a.addEventListener(\42scroll\42,l,false):a.attachEvent(\42onscroll\42,l); })();\74/script\076'}}]);
-_WidgetManager._SetSystemMarkup({'layout': {'varName': '', 'template': '\74div class\75\47widget-wrap1\47\76\n\74div class\75\47widget-wrap2\47\76\n\74div class\75\47widget-wrap3\47\76\n\74div class\75\47widget-content\47\76\n\74div class\75\47layout-title\47\76\74data:layout-title\76\74/data:layout-title\76\74/div\76\n\74a class\75\47editlink\47 expr:href\75\47data:widget.quickEditUrl\47 expr:onclick\75\47\46quot;return _WidgetManager._PopupConfig(document.getElementById(\\\46quot;\46quot; +       data:widget.instanceId + \46quot;\\\46quot;));\46quot;\47 target\75\47chooseWidget\47\76\74data:edit-link\76\74/data:edit-link\76\74/a\76\n\74/div\76\n\74/div\76\n\74/div\76\n\74/div\076'}, 'quickedit': {'varName': '', 'template': '\74div class\75\47clear\47\76\74/div\76\n\74span class\75\47widget-item-control\47\76\n\74span class\75\47item-control blog-admin\47\76\n\74a class\75\47quickedit\47 expr:href\75\47data:widget.quickEditUrl\47 expr:onclick\75\47\46quot;return _WidgetManager._PopupConfig(document.getElementById(\\\46quot;\46quot; +       data:widget.instanceId + \46quot;\\\46quot;));\46quot;\47 expr:target\75\47\46quot;config\46quot; + data:widget.instanceId\47 expr:title\75\47data:edit-link\47\76\n\74img alt\75\47\47 height\75\04718\47 src\75\47http://img1.blogblog.com/img/icon18_wrench_allbkg.png\47 width\75\04718\47/\76\n\74/a\76\n\74/span\76\n\74/span\76\n\74div class\75\47clear\47\76\74/div\076'}, 'all-head-content': {'varName': 'page', 'template': '\74data:blog.latencyHeadScript\76\74/data:blog.latencyHeadScript\76\n\74meta expr:content\75\47\46quot;text/html; charset\75\46quot; + data:page.encoding\47 http-equiv\75\47Content-Type\47/\76\n\74meta content\75\47true\47 name\75\47MSSmartTagsPreventParsing\47/\76\n\74meta content\75\47blogger\47 name\75\47generator\47/\76\n\74link href\75\47http://www.blogger.com/favicon.ico\47 rel\75\47icon\47 type\75\47image/vnd.microsoft.icon\47/\76\n\74data:blog.feedLinks\76\74/data:blog.feedLinks\76\n\74data:blog.meTag\76\74/data:blog.meTag\76\n\74data:blog.openIdOpTag\76\74/data:blog.openIdOpTag\76\n\74b:if cond\75\47data:page.isPrivate\47\76\n\74meta content\75\47NOINDEX,NOFOLLOW\47 name\75\47robots\47/\76\n\74/b:if\076'}});
-_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74b:if cond\75\47data:link !\75 \46quot;\46quot;\47\76\n\74a expr:href\75\47data:link\47\76\n\74img expr:alt\75\47data:title\47 expr:height\75\47data:height\47 expr:id\75\47data:widget.instanceId + \46quot;_img\46quot;\47 expr:src\75\47data:sourceUrl\47 expr:width\75\47data:width\47/\76\n\74/a\76\n\74b:else\76\74/b:else\76\n\74img expr:alt\75\47data:title\47 expr:height\75\47data:height\47 expr:id\75\47data:widget.instanceId + \46quot;_img\46quot;\47 expr:src\75\47data:sourceUrl\47 expr:width\75\47data:width\47/\76\n\74/b:if\76\n\74br/\76\n\74b:if cond\75\47data:caption !\75 \46quot;\46quot;\47\76\n\74span class\75\47caption\47\76\74data:caption\76\74/data:caption\76\74/span\76\n\74/b:if\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('Image1'), {'resize': true}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML23', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML23'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML17', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML17'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML4'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML19', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML19'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML12'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title\47\76\n\74h2\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74div id\75\47ArchiveList\47\76\n\74div expr:id\75\47data:widget.instanceId + \46quot;_ArchiveList\46quot;\47\76\n\74b:if cond\75\47data:style \75\75 \46quot;HIERARCHY\46quot;\47\76\n\74b:include data\75\47data\47 name\75\47interval\47\76\74/b:include\76\n\74/b:if\76\n\74b:if cond\75\47data:style \75\75 \46quot;FLAT\46quot;\47\76\n\74b:include data\75\47data\47 name\75\47flat\47\76\74/b:include\76\n\74/b:if\76\n\74b:if cond\75\47data:style \75\75 \46quot;MENU\46quot;\47\76\n\74b:include data\75\47data\47 name\75\47menu\47\76\74/b:include\76\n\74/b:if\76\n\74/div\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\076'}, 'flat': {'varName': 'data', 'template': '\74ul\76\n\74b:loop values\75\47data:data\47 var\75\47i\47\76\n\74li class\75\47archivedate\47\76\n\74a expr:href\75\47data:i.url\47\76\74data:i.name\76\74/data:i.name\76\74/a\76 (\74data:i.post-count\76\74/data:i.post-count\76)\n      \74/li\76\n\74/b:loop\76\n\74/ul\076'}, 'menu': {'varName': 'data', 'template': '\74select expr:id\75\47data:widget.instanceId + \46quot;_ArchiveMenu\46quot;\47\76\n\74option value\75\47\47\76\74data:title\76\74/data:title\76\74/option\76\n\74b:loop values\75\47data:data\47 var\75\47i\47\76\n\74option expr:value\75\47data:i.url\47\76\74data:i.name\76\74/data:i.name\76 (\74data:i.post-count\76\74/data:i.post-count\76)\74/option\76\n\74/b:loop\76\n\74/select\076'}, 'interval': {'varName': 'intervalData', 'template': '\74b:loop values\75\47data:intervalData\47 var\75\47i\47\76\n\74ul\76\n\74li expr:class\75\47\46quot;archivedate \46quot; + data:i.expclass\47\76\n\74b:include data\75\47i\47 name\75\47toggle\47\76\74/b:include\76\n\74a class\75\47post-count-link\47 expr:href\75\47data:i.url\47\76\74data:i.name\76\74/data:i.name\76\74/a\76\n\74span class\75\47post-count\47 dir\75\47ltr\47\76(\74data:i.post-count\76\74/data:i.post-count\76)\74/span\76\n\74b:if cond\75\47data:i.data\47\76\n\74b:include data\75\47i.data\47 name\75\47interval\47\76\74/b:include\76\n\74/b:if\76\n\74b:if cond\75\47data:i.posts\47\76\n\74b:include data\75\47i.posts\47 name\75\47posts\47\76\74/b:include\76\n\74/b:if\76\n\74/li\76\n\74/ul\76\n\74/b:loop\076'}, 'toggle': {'varName': 'interval', 'template': '\74b:if cond\75\47data:interval.toggleId\47\76\n\74b:if cond\75\47data:interval.expclass \75\75 \46quot;expanded\46quot;\47\76\n\74a class\75\47toggle\47 expr:href\75\47data:widget.actionUrl + \46quot;\46amp;action\75toggle\46quot; +       \46quot;\46amp;dir\75close\46amp;toggle\75\46quot; + data:interval.toggleId +       \46quot;\46amp;toggleopen\75\46quot; + data:toggleopen\47\76\n\74span class\75\47zippy toggle-open\47\76\46#9660; \74/span\76\n\74/a\76\n\74b:else\76\74/b:else\76\n\74a class\75\47toggle\47 expr:href\75\47data:widget.actionUrl + \46quot;\46amp;action\75toggle\46quot; +         \46quot;\46amp;dir\75open\46amp;toggle\75\46quot; + data:interval.toggleId +         \46quot;\46amp;toggleopen\75\46quot; + data:toggleopen\47\76\n\74span class\75\47zippy\47\76\n\74b:if cond\75\47data:blog.languageDirection \75\75 \46quot;rtl\46quot;\47\76\n              \46#9668;\n            \74b:else\76\74/b:else\76\n              \46#9658;\n            \74/b:if\76\n\74/span\76\n\74/a\76\n\74/b:if\76\n\74/b:if\076'}, 'posts': {'varName': 'posts', 'template': '\74ul class\75\47posts\47\76\n\74b:loop values\75\47data:posts\47 var\75\47i\47\76\n\74li\76\74a expr:href\75\47data:i.url\47\76\74data:i.title\76\74/data:i.title\76\74/a\76\74/li\76\n\74/b:loop\76\n\74/ul\076'}}, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML28', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML28'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList5', 'leftbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title\47\76\74h2\76\74data:title\76\74/data:title\76\74/h2\76\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74ul\76\n\74b:loop values\75\47data:links\47 var\75\47link\47\76\n\74li\76\74a expr:href\75\47data:link.target\47\76\74data:link.name\76\74/data:link.name\76\74/a\76\74/li\76\n\74/b:loop\76\n\74/ul\76\n\74b:include name\75\47quickedit\47\76\74/b:include\76\n\74/div\076'}}, document.getElementById('LinkList5'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74b:if cond\75\47data:link !\75 \46quot;\46quot;\47\76\n\74a expr:href\75\47data:link\47\76\n\74img expr:alt\75\47data:title\47 expr:height\75\47data:height\47 expr:id\75\47data:widget.instanceId + \46quot;_img\46quot;\47 expr:src\75\47data:sourceUrl\47 expr:width\75\47data:width\47/\76\n\74/a\76\n\74b:else\76\74/b:else\76\n\74img expr:alt\75\47data:title\47 expr:height\75\47data:height\47 expr:id\75\47data:widget.instanceId + \46quot;_img\46quot;\47 expr:src\75\47data:sourceUrl\47 expr:width\75\47data:width\47/\76\n\74/b:if\76\n\74br/\76\n\74b:if cond\75\47data:caption !\75 \46quot;\46quot;\47\76\n\74span class\75\47caption\47\76\74data:caption\76\74/data:caption\76\74/span\76\n\74/b:if\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('Image2'), {'resize': true}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML29', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML29'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML2'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML25', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML25'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML18', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML18'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML11'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML26', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML26'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML10'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML27', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML27'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML16', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML16'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML20', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML20'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML8'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML5'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML9'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'rightbar',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML7'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'header',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML3'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML15', 'header',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML15'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'header',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML14'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main',{'main': {'varName': 'top', 'template': '\74div class\75\47blog-posts\47\76\n\74b:include data\75\47top\47 name\75\47status-message\47\76\74/b:include\76\n\74b:loop values\75\47data:posts\47 var\75\47post\47\76\n\74b:if cond\75\47data:post.dateHeader\47\76\n\74h2 class\75\47date-header\47\76\74data:post.dateHeader\76\74/data:post.dateHeader\76\74/h2\76\n\74/b:if\76\n\74b:include data\75\47post\47 name\75\47post\47\76\74/b:include\76\n\74b:if cond\75\47data:blog.pageType \75\75 \46quot;item\46quot;\47\76\n\74b:include data\75\47post\47 name\75\47comments\47\76\74/b:include\76\n\74/b:if\76\n\74/b:loop\76\n\74/div\76\n\74b:include name\75\47nextprev\47\76\74/b:include\76\n\74b:include name\75\47feedLinks\47\76\74/b:include\076'}, 'nextprev': {'varName': '', 'template': '\74div class\75\47blog-pager\47 id\75\47blog-pager\47\76\n\74b:if cond\75\47data:newerPageUrl\47\76\n\74span id\75\47blog-pager-newer-link\47\76\n\74a class\75\47blog-pager-newer-link\47 expr:href\75\47data:newerPageUrl\47 expr:id\75\47data:widget.instanceId + \46quot;_blog-pager-newer-link\46quot;\47 expr:title\75\47data:newerPageTitle\47\76\74data:newerPageTitle\76\74/data:newerPageTitle\76\74/a\76\n\74/span\76\n\74/b:if\76\n\74b:if cond\75\47data:olderPageUrl\47\76\n\74span id\75\47blog-pager-older-link\47\76\n\74a class\75\47blog-pager-older-link\47 expr:href\75\47data:olderPageUrl\47 expr:id\75\47data:widget.instanceId + \46quot;_blog-pager-older-link\46quot;\47 expr:title\75\47data:olderPageTitle\47\76\74data:olderPageTitle\76\74/data:olderPageTitle\76\74/a\76\n\74/span\76\n\74/b:if\76\n\74b:if cond\75\47data:blog.homepageUrl !\75 data:blog.url\47\76\n\74a class\75\47home-link\47 expr:href\75\47data:blog.homepageUrl\47\76\74data:homeMsg\76\74/data:homeMsg\76\74/a\76\n\74b:else\76\74/b:else\76\n\74b:if cond\75\47data:newerPageUrl\47\76\n\74a class\75\47home-link\47 expr:href\75\47data:blog.homepageUrl\47\76\74data:homeMsg\76\74/data:homeMsg\76\74/a\76\n\74/b:if\76\n\74/b:if\76\n\74/div\76\n\74div class\75\47clear\47\76\74/div\076'}, 'post': {'varName': 'post', 'template': '\74div class\75\47post\47 expr:id\75\47\46quot;post-\46quot; + data:post.id\47\76\n\74a expr:name\75\47data:post.id\47\76\74/a\76\n\74b:if cond\75\47data:post.title\47\76\n\74h3 class\75\47post-title\47\76\n\74b:if cond\75\47data:post.link\47\76\n\74a expr:href\75\47data:post.link\47\76\74data:post.title\76\74/data:post.title\76\74/a\76\n\74b:else\76\74/b:else\76\n\74b:if cond\75\47data:post.url\47\76\n\74a expr:href\75\47data:post.url\47\76\74data:post.title\76\74/data:post.title\76\74/a\76\n\74b:else\76\74/b:else\76\n\74data:post.title\76\74/data:post.title\76\n\74/b:if\76\n\74/b:if\76\n\74/h3\76\n\74/b:if\76\n\74div class\75\47post-header-line-1\47\76\74/div\76\n\74div class\75\47post-body\47\76\n\74b:if cond\75\47data:blog.pageType \75\75 \46quot;item\46quot;\47\76\n\74p\76\74data:post.body\76\74/data:post.body\76\74/p\76\n\74b:else\76\74/b:else\76\n\74style\76#fullpost {display:none;}\74/style\76\n\74p\76\74data:post.body\76\74/data:post.body\76\74/p\76\n\74span id\75\47showlink\47\76\n\74p\76\74a expr:onclick\75\47\46quot;javascript:showFull(\\\46quot;post-\46quot; + data:post.id + \46quot;\\\46quot;);\46quot;\47 href\75\47javascript:void(0);\47\76Click to view more...\74/a\76\74/p\76\n\74/span\76\n\74span id\75\47hidelink\47 style\75\47display:none\47\76\n\74p\76\74a expr:onclick\75\47\46quot;javascript:hideFull(\\\46quot;post-\46quot; + data:post.id + \46quot;\\\46quot;);\46quot;\47 href\75\47javascript:void(0);\47\76Summary only...\74/a\76\74/p\76\n\74/span\76\n\74script type\75\47text/javascript\47\76\ncheckFull(\46quot;post-\46quot; + \46quot;\74data:post.id\76\74/data:post.id\76\46quot;);\n\74/script\76\n\74/b:if\76\n\74/div\76\n\74div class\75\47post-footer\47\76\n\74p class\75\47post-footer-line post-footer-line-1\47\76\n\74span class\75\47post-author\47\76\n\74b:if cond\75\47data:top.showAuthor\47\76\n\74data:top.authorLabel\76\74/data:top.authorLabel\76\n\74data:post.author\76\74/data:post.author\76\n\74/b:if\76\n\74/span\76\n\74span class\75\47post-timestamp\47\76\n\74b:if cond\75\47data:top.showTimestamp\47\76\n\74data:top.timestampLabel\76\74/data:top.timestampLabel\76\n\74b:if cond\75\47data:post.url\47\76\n\74a class\75\47timestamp-link\47 expr:href\75\47data:post.url\47 title\75\47permanent link\47\76\74data:post.timestamp\76\74/data:post.timestamp\76\74/a\76\n\74/b:if\76\n\74/b:if\76\n\74/span\76\n\74span class\75\47post-comment-link\47\76\n\74b:if cond\75\47data:blog.pageType !\75 \46quot;item\46quot;\47\76\n\74b:if cond\75\47data:post.allowComments\47\76\n\74a class\75\47comment-link\47 expr:href\75\47data:post.addCommentUrl\47 expr:onclick\75\47data:post.addCommentOnclick\47\76\74b:if cond\75\47data:post.numComments \75\75 1\47\0761 \74data:top.commentLabel\76\74/data:top.commentLabel\76\74b:else\76\74/b:else\76\74data:post.numComments\76\74/data:post.numComments\76\n\74data:top.commentLabelPlural\76\74/data:top.commentLabelPlural\76\74/b:if\76\74/a\76\n\74/b:if\76\n\74/b:if\76\n\74/span\76\n\74span class\75\47post-backlinks post-comment-link\47\76\n\74b:if cond\75\47data:blog.pageType !\75 \46quot;item\46quot;\47\76\n\74b:if cond\75\47data:post.showBacklinks\47\76\n\74a class\75\47comment-link\47 expr:href\75\47data:post.url + \46quot;#links\46quot;\47\76\74data:top.backlinkLabel\76\74/data:top.backlinkLabel\76\74/a\76\n\74/b:if\76\n\74/b:if\76\n\74/span\76\n\74span class\75\47post-icons\47\76\n\74b:if cond\75\47data:post.emailPostUrl\47\76\n\74span class\75\47item-action\47\76\n\74a expr:href\75\47data:post.emailPostUrl\47 expr:title\75\47data:top.emailPostMsg\47\76\n\74span class\75\47email-post-icon\47\76\46#160;\74/span\76\n\74/a\76\n\74/span\76\n\74/b:if\76\n\74b:include data\75\47post\47 name\75\47postQuickEdit\47\76\74/b:include\76\n\74/span\76\n\74/p\76\n\74p class\75\47post-footer-line post-footer-line-2\47\76\n\74div class\75\47post-labels\47\76\n\74b:if cond\75\47data:post.labels\47\76\n\74data:postLabelsLabel\76\74/data:postLabelsLabel\76\n\74b:loop values\75\47data:post.labels\47 var\75\47label\47\76\n\74a expr:href\75\47data:label.url\47 rel\75\47tag\47\76\74data:label.name\76\74/data:label.name\76\74/a\76\74b:if cond\75\47data:label.isLast !\75 \46quot;true\46quot;\47\76,\74/b:if\76\74b:if cond\75\47data:blog.pageType \75\75 \46quot;item\46quot;\47\76\n\74script expr:src\75\47\46quot;/feeds/posts/default/-/\46quot; + data:label.name + \46quot;?alt\75json-in-script\46amp;callback\75related_results_labels\46amp;max-results\07510\46quot;\47 type\75\47text/javascript\47\76\74/script\76\n\74/b:if\76\n\74/b:loop\76\n\74/b:if\76\n\74/div\76\n\74/p\76\n\74br/\76\n\74a expr:href\75\47\46quot;http://digg.com/submit?phase\0752\46amp;url\75\46quot; + data:post.url + \46quot;\46amp;title\75\46quot; + data:post.title\47 target\75\47_blank\47\76\74img alt\75\47Digg\47 src\75\47http://i305.photobucket.com/albums/nn202/theworldofisaac/Sports/digg.gif\47/\76\74/a\76\n\74a expr:href\75\47\46quot;http://reddit.com/submit?url\75\46quot; + data:post.url + \46quot;\46amp;title\75\46quot; + data:post.title\47 target\75\47_blank\47\76\74img alt\75\47Reddit\47 src\75\47http://i305.photobucket.com/albums/nn202/theworldofisaac/Sports/reddit.gif\47/\76\74/a\76\n\74a expr:href\75\47\46quot;http://ballhype.com/post/url/?url\75\46quot; + data:post.url + \46quot;\46amp;title\75\46quot; + data:post.title\47\76\74img alt\75\47BallHype: hype it up!\47 height\75\04722\47 src\75\47http://images.ballhype.com/img/hype/button_96x22.png\47 width\75\4796\47/\76\74/a\76\n\74a expr:href\75\47\46quot;http://www.yardbarker.com/author/new?pUrl\75\46quot; + data:post.url + \46quot;\46amp;pHead\75\46quot; + data:post.title\47\76\74img src\75\47http://www.yardbarker.com/images/extern/bark_narrow.gif\47/\76\74/a\76\n\74p class\75\47post-footer-line post-footer-line-3\47\76\74/p\76\n\74/div\76\n\74/div\076'}, 'postQuickEdit': {'varName': 'post', 'template': '\74b:if cond\75\47data:post.editUrl\47\76\n\74span expr:class\75\47\46quot;item-control \46quot; + data:post.adminClass\47\76\n\74a expr:href\75\47data:post.editUrl\47 expr:title\75\47data:top.editPostMsg\47\76\n\74img alt\75\47\47 class\75\47icon-action\47 height\75\04718\47 src\75\47http://www.blogger.com/img/icon18_edit_allbkg.gif\47 width\75\04718\47/\76\n\74/a\76\n\74/span\76\n\74/b:if\076'}, 'commentDeleteIcon': {'varName': 'comment', 'template': '\74span expr:class\75\47\46quot;item-control \46quot; + data:comment.adminClass\47\76\n\74a expr:href\75\47data:comment.deleteUrl\47 expr:title\75\47data:top.deleteCommentMsg\47\76\n\74img src\75\47http://www.blogger.com/img/icon_delete13.gif\47/\76\n\74/a\76\n\74/span\076'}, 'backlinkDeleteIcon': {'varName': 'backlink', 'template': '\74span expr:class\75\47\46quot;item-control \46quot; + data:backlink.adminClass\47\76\n\74a expr:href\75\47data:backlink.deleteUrl\47 expr:title\75\47data:top.deleteBacklinkMsg\47\76\n\74img src\75\47http://www.blogger.com/img/icon_delete13.gif\47/\76\n\74/a\76\n\74/span\076'}, 'comments': {'varName': 'post', 'template': '\74div class\75\47comments\47 id\75\47comments\47\76\n\74a name\75\47comments\47\76\74/a\76\n\74b:if cond\75\47data:post.allowComments\47\76\n\74h4\76\n\74b:if cond\75\47data:post.numComments \75\75 1\47\76\n          1 \74data:commentLabel\76\74/data:commentLabel\76:\n        \74b:else\76\74/b:else\76\n\74data:post.numComments\76\74/data:post.numComments\76\n\74data:commentLabelPlural\76\74/data:commentLabelPlural\76:\n        \74/b:if\76\n\74/h4\76\n\74b:if cond\75\47data:post.commentPagingRequired\47\76\n\74span class\75\47paging-control-container\47\76\n\74a expr:class\75\47data:post.oldLinkClass\47 expr:href\75\47data:post.oldestLinkUrl\47\76\74data:post.oldestLinkText\76\74/data:post.oldestLinkText\76\74/a\76\n          \46#160;\n          \74a expr:class\75\47data:post.oldLinkClass\47 expr:href\75\47data:post.olderLinkUrl\47\76\74data:post.olderLinkText\76\74/data:post.olderLinkText\76\74/a\76\n          \46#160;\n          \74data:post.commentRangeText\76\74/data:post.commentRangeText\76\n          \46#160;\n          \74a expr:class\75\47data:post.newLinkClass\47 expr:href\75\47data:post.newerLinkUrl\47\76\74data:post.newerLinkText\76\74/data:post.newerLinkText\76\74/a\76\n          \46#160;\n          \74a expr:class\75\47data:post.newLinkClass\47 expr:href\75\47data:post.newestLinkUrl\47\76\74data:post.newestLinkText\76\74/data:post.newestLinkText\76\74/a\76\n\74/span\76\n\74/b:if\76\n\74dl id\75\47comments-block\47\76\n\74b:loop values\75\47data:post.comments\47 var\75\47comment\47\76\n\74dt expr:class\75\47\46quot;comment-author \46quot; + data:comment.authorClass\47 expr:id\75\47data:comment.anchorName\47\76\n\74a expr:name\75\47data:comment.anchorName\47\76\74/a\76\n\74b:if cond\75\47data:comment.authorUrl\47\76\n\74a expr:href\75\47data:comment.authorUrl\47 rel\75\47nofollow\47\76\74data:comment.author\76\74/data:comment.author\76\74/a\76\n\74b:else\76\74/b:else\76\n\74data:comment.author\76\74/data:comment.author\76\n\74/b:if\76\n\74data:commentPostedByMsg\76\74/data:commentPostedByMsg\76\n\74/dt\76\n\74dd class\75\47comment-body\47\76\n\74b:if cond\75\47data:comment.isDeleted\47\76\n\74span class\75\47deleted-comment\47\76\74data:comment.body\76\74/data:comment.body\76\74/span\76\n\74b:else\76\74/b:else\76\n\74p\76\74data:comment.body\76\74/data:comment.body\76\74/p\76\n\74/b:if\76\n\74/dd\76\n\74dd class\75\47comment-footer\47\76\n\74span class\75\47comment-timestamp\47\76\n\74a expr:href\75\47data:comment.url\47 title\75\47comment permalink\47\76\n\74data:comment.timestamp\76\74/data:comment.timestamp\76\n\74/a\76\n\74b:include data\75\47comment\47 name\75\47commentDeleteIcon\47\76\74/b:include\76\n\74/span\76\n\74/dd\76\n\74/b:loop\76\n\74/dl\76\n\74b:if cond\75\47data:post.commentPagingRequired\47\76\n\74span class\75\47paging-control-container\47\76\n\74a expr:class\75\47data:post.oldLinkClass\47 expr:href\75\47data:post.oldestLinkUrl\47\76\n\74data:post.oldestLinkText\76\74/data:post.oldestLinkText\76\n\74/a\76\n\74a expr:class\75\47data:post.oldLinkClass\47 expr:href\75\47data:post.olderLinkUrl\47\76\n\74data:post.olderLinkText\76\74/data:post.olderLinkText\76\n\74/a\76\n          \46#160;\n          \74data:post.commentRangeText\76\74/data:post.commentRangeText\76\n          \46#160;\n          \74a expr:class\75\47data:post.newLinkClass\47 expr:href\75\47data:post.newerLinkUrl\47\76\n\74data:post.newerLinkText\76\74/data:post.newerLinkText\76\n\74/a\76\n\74a expr:class\75\47data:post.newLinkClass\47 expr:href\75\47data:post.newestLinkUrl\47\76\n\74data:post.newestLinkText\76\74/data:post.newestLinkText\76\n\74/a\76\n\74/span\76\n\74/b:if\76\n\74p class\75\47comment-footer\47\76\n\74b:if cond\75\47data:post.embedCommentForm\47\76\n\74b:if cond\75\47data:post.allowNewComments\47\76\n\74b:include data\75\47post\47 name\75\47comment-form\47\76\74/b:include\76\n\74b:else\76\74/b:else\76\n\74data:post.noNewCommentsText\76\74/data:post.noNewCommentsText\76\n\74/b:if\76\n\74b:else\76\74/b:else\76\n\74b:if cond\75\47data:post.allowComments\47\76\n\74a expr:href\75\47data:post.addCommentUrl\47 expr:onclick\75\47data:post.addCommentOnclick\47\76\74data:postCommentMsg\76\74/data:postCommentMsg\76\74/a\76\n\74/b:if\76\n\74/b:if\76\n\74/p\76\n\74/b:if\76\n\74div id\75\47backlinks-container\47\76\n\74div expr:id\75\47data:widget.instanceId + \46quot;_backlinks-container\46quot;\47\76\n\74b:if cond\75\47data:post.showBacklinks\47\76\n\74b:include data\75\47post\47 name\75\47backlinks\47\76\74/b:include\76\n\74/b:if\76\n\74/div\76\n\74/div\76\n\74/div\076'}, 'comment-form': {'varName': 'post', 'template': '\74div class\75\47comment-form\47\76\n\74a name\75\47comment-form\47\76\74/a\76\n\74h4 id\75\47comment-post-message\47\76\74data:postCommentMsg\76\74/data:postCommentMsg\76\74/h4\76\n\74p\76\74data:blogCommentMessage\76\74/data:blogCommentMessage\76\74/p\76\n\74data:blogTeamBlogMessage\76\74/data:blogTeamBlogMessage\76\n\74a expr:href\75\47data:post.commentFormIframeSrc\47 id\75\47comment-editor-src\47\76\74/a\76\n\74iframe allowtransparency\75\47true\47 class\75\47blogger-iframe-colorize\47 frameborder\75\0470\47 height\75\047275\47 id\75\47comment-editor\47 scrolling\75\47no\47 src\75\47\47 width\75\047100%\47\76\74/iframe\76\n\74data:post.iframeColorizer\76\74/data:post.iframeColorizer\76\n\74/div\076'}, 'backlinks': {'varName': 'post', 'template': '\74a name\75\47links\47\76\74/a\76\74h4\76\74data:post.backlinksLabel\76\74/data:post.backlinksLabel\76\74/h4\76\n\74b:if cond\75\47data:post.numBacklinks !\75 0\47\76\n\74dl class\75\47comments-block\47 id\75\47comments-block\47\76\n\74b:loop values\75\47data:post.backlinks\47 var\75\47backlink\47\76\n\74div class\75\47collapsed-backlink backlink-control\47\76\n\74dt class\75\47comment-title\47\76\n\74span class\75\47backlink-toggle-zippy\47\76\46#160;\74/span\76\n\74a expr:href\75\47data:backlink.url\47 rel\75\47nofollow\47\76\74data:backlink.title\76\74/data:backlink.title\76\74/a\76\n\74b:include data\75\47backlink\47 name\75\47backlinkDeleteIcon\47\76\74/b:include\76\n\74/dt\76\n\74dd class\75\47comment-body collapseable\47\76\n\74data:backlink.snippet\76\74/data:backlink.snippet\76\n\74/dd\76\n\74dd class\75\47comment-footer collapseable\47\76\n\74span class\75\47comment-author\47\76\74data:post.authorLabel\76\74/data:post.authorLabel\76\n\74data:backlink.author\76\74/data:backlink.author\76\74/span\76\n\74span class\75\47comment-timestamp\47\76\74data:post.timestampLabel\76\74/data:post.timestampLabel\76\n\74data:backlink.timestamp\76\74/data:backlink.timestamp\76\74/span\76\n\74/dd\76\n\74/div\76\n\74/b:loop\76\n\74/dl\76\n\74/b:if\76\n\74p class\75\47comment-footer\47\76\n\74a class\75\47comment-link\47 expr:href\75\47data:post.createLinkUrl\47 expr:id\75\47data:widget.instanceId + \46quot;_backlinks-create-link\46quot;\47 target\75\47_blank\47\76\74data:post.createLinkLabel\76\74/data:post.createLinkLabel\76\74/a\76\n\74/p\076'}, 'feedLinks': {'varName': '', 'template': '\74b:if cond\75\47data:blog.pageType !\75 \46quot;item\46quot;\47\76\n\74b:if cond\75\47data:feedLinks\47\76\n\74div class\75\47blog-feeds\47\76\n\74b:include data\75\47feedLinks\47 name\75\47feedLinksBody\47\76\74/b:include\76\n\74/div\76\n\74/b:if\76\n\74b:else\76\74/b:else\76\n\74div class\75\47post-feeds\47\76\n\74b:loop values\75\47data:posts\47 var\75\47post\47\76\n\74b:if cond\75\47data:post.allowComments\47\76\n\74b:if cond\75\47data:post.feedLinks\47\76\n\74b:include data\75\47post.feedLinks\47 name\75\47feedLinksBody\47\76\74/b:include\76\n\74/b:if\76\n\74/b:if\76\n\74/b:loop\76\n\74/div\76\n\74/b:if\076'}, 'feedLinksBody': {'varName': 'links', 'template': '\74div class\75\47feed-links\47\76\n\74data:feedLinksMsg\76\74/data:feedLinksMsg\76\n\74b:loop values\75\47data:links\47 var\75\47f\47\76\n\74a class\75\47feed-link\47 expr:href\75\47data:f.url\47 expr:type\75\47data:f.mimeType\47 target\75\47_blank\47\76\74data:f.name\76\74/data:f.name\76 (\74data:f.feedType\76\74/data:f.feedType\76)\74/a\76\n\74/b:loop\76\n\74/div\076'}, 'status-message': {'varName': '', 'template': '\74b:if cond\75\47data:navMessage\47\76\n\74div class\75\47status-msg-wrap\47\76\n\74div class\75\47status-msg-body\47\76\n\74data:navMessage\76\74/data:navMessage\76\n\74/div\76\n\74div class\75\47status-msg-border\47\76\n\74div class\75\47status-msg-bg\47\76\n\74div class\75\47status-msg-hidden\47\76\74data:navMessage\76\74/data:navMessage\76\74/div\76\n\74/div\76\n\74/div\76\n\74/div\76\n\74div style\75\47clear: both;\47\76\74/div\76\n\74/b:if\076'}}, document.getElementById('Blog1'), {'showBacklinks': true, 'postId': '411379076394616867'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML22', 'main',{'main': {'varName': '', 'template': '\74b:if cond\75\47data:title !\75 \46quot;\46quot;\47\76\n\74h2 class\75\47title\47\76\74data:title\76\74/data:title\76\74/h2\76\n\74/b:if\76\n\74div class\75\47widget-content\47\76\n\74data:content\76\74/data:content\76\n\74/div\76\n\74b:include name\75\47quickedit\47\76\74/b:include\076'}}, document.getElementById('HTML22'), {}, 'displayModeFull'));
+	var gr_ads_zone = 'sports';
+	var gr_ads_size = '160x600';
+</script>
+<script type="text/javascript" src="http://a.giantrealm.com/gr.guyism/a.js">
+</script>
+<noscript>
+	<a href='http://ans.giantrealm.com/click/gr.guyism/sports;tile=4;sz=160x600;ord=1234567890'>
+		<img src='http://ans.giantrealm.com/img/gr.guyism/sports;tile=4;sz=160x600;ord=1234567890' width='160' height='600' alt='advertisement' />
+	</a>
+</noscript>
+<!-- AD TAG ENDS: Guyism / sports / 160x600 -->
+<!-- AD TAG BEGINS: Guyism(gr.guyism) / sports / 1x1 -->
+<script type="text/javascript">
+	var gr_ads_zone = 'sports';
+	var gr_ads_size = '1x1';
+</script>
+<script type="text/javascript" src="http://a.giantrealm.com/gr.guyism/a.js">
+</script>
+<noscript>
+	<a href='http://ans.giantrealm.com/click/gr.guyism/sports;tile=6;sz=1x1;ord=1234567890'>
+		<img src='http://ans.giantrealm.com/img/gr.guyism/sports;tile=6;sz=1x1;ord=1234567890' width='1' height='1' alt='advertisement' />
+	</a>
+</noscript>
+<!-- AD TAG ENDS: Guyism / sports / 1x1 -->
+
+ 
+
+</div></div>
+<!-- POST LOAD AD CONTAINER 160x600 --> 
+
+</div>
+</div> </div> 
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.src = "http://intensedebate.com/js/wordpressTemplateLinkWrapper2.php?acct=4e52bde659c3f550fa634ec0f9a83f00"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+<div class="ad-display-float">
+
+
+ 
+<!-- AD TAG BEGINS: Guyism(gr.guyism) / ros_btf / 728x90 -->
+<script type="text/javascript">
+	var gr_ads_zone = 'ros_btf';
+	var gr_ads_size = '728x90';
+</script>
+<script type="text/javascript" src="http://a.giantrealm.com/gr.guyism/a.js">
+</script>
+<noscript>
+	<a href='http://ans.giantrealm.com/click/gr.guyism/ros_btf;tile=1;sz=728x90;ord=1234567890'>
+		<img src='http://ans.giantrealm.com/img/gr.guyism/ros_btf;tile=1;sz=728x90;ord=1234567890' width='728' height='90' alt='advertisement' />
+	</a>
+</noscript>
+<!-- AD TAG ENDS: Guyism / ros_btf / 728x90 --> 
+ 
+
+
+</div>
+<div id="basement">
+	<div id="latest">
+		<h3 class="titlebar guyism-latest"><span>Guyism Latest</span></h3>
+		<div style="float: left;" class="footer-headlines">
+			<h4><a href="http://guyism.com/humor/">HUMOR</a></h4>
+			<ul>
+												<li>
+					<a href="http://guyism.com/humor/video-this-is-a-convicted-pedophile-walking-into-a-pole.html">VIDEO: This is a convicted pedophile walking into a pole</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/sports/beejoli-shah-of-quentin-tarantino-toe-sucking-fame-aspired-to-be-a-sports-anchor.html">Beejoli Shah, of Quentin Tarantino toe sucking fame, aspired to be a sports anchor</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/humor/video-flatulent-donkey-ruins-a-russian-interview-segment.html">VIDEO: Flatulent donkey ruins a Russian interview segment</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/humor/video-watch-a-guy-eat-an-entire-jar-of-nutella-in-one-sitting.html">VIDEO: Watch a guy eat an entire jar of Nutella in one sitting</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/humor/video-reckless-wedding-dance-leads-to-a-fall-into-a-fountain.html">VIDEO: Reckless wedding dance leads to a fall into a fountain</a>
+					<div class="dateline">Tuesday, June 28, 2011</div>
+				</li>
+							</ul>
+		</div>
+		<div style="float: right;" class="footer-headlines">
+			<h4><a href="http://guyism.com/celebrities/">CELEBS</a></h4>
+			<ul>
+												<li>
+					<a href="http://guyism.com/celebrities/guyism-after-dark-erin-abbie-or-candice.html">Guyism After Dark: Erin, Abbie, or Candice???</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/celebrities/rihanna-photos.html">Rihanna did a sticky, sweet, sexy photo shoot</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/celebrities/nina-agdal-lingerie-model-photos.html">Nina Agdal is also good at modeling lingerie</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/celebrities/hugh-hefner-shera-bechard-russell-brand-kristen-wiig-sexiest-vegetarians-lady-gaga-panda-japanese-talk-show.html">Celebrity dirt: Hugh Hefner has another new girlfriend plus more of today’s gossip</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/celebrities/meghan-markle-suits.html">Meghan Markle makes for must-see TV</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+							</ul>
+		</div>
+		<div style="float: left; clear: both;" class="footer-headlines">
+		<h4><a href="http://guyism.com/lifestyle/">LIFESTYLE</a></h4>
+			<ul>
+												<li>
+					<a href="http://guyism.com/lifestyle/the-mercenaries-3d-one-save-debacle-aka-why-game-stores-are-so-hated.html">The Mercenaries 3D one save debacle AKA why game stores are so hated</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/video/video-so-what-was-the-deal-with-marios-first-girlfriend-again.html">VIDEO: So what was the deal with Mario’s first girlfriend again?</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/lifestyle/on-masculinity-bros-before-hoes.html">On Masculinity: Bros before hoes</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/video/video-a-dystopian-future-dominated-by-bikers-boobs-and-pixels.html">VIDEO: A dystopian future dominated by bikers, boobs, and pixels</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/video/video-now-let-the-taiwanese-cgi-news-crew-explain-the-supreme-courts-ruling-on-violent-video-games.html">VIDEO: Now let the Taiwanese CGi news crew explain the Supreme Court’s ruling on violent video games</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+							</ul>
+		</div>
+		<div style="float: right;" class="footer-headlines">
+		<h4><a href="http://guyism.com/sports/">SPORTS</a></h4>
+			<ul>
+												<li>
+					<a href="http://guyism.com/sports/dirk-nowitzki-celebrates-championship-in-german-hometown.html">Dirk Nowitzki celebrates championship in German hometown</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/sports/beejoli-shah-of-quentin-tarantino-toe-sucking-fame-aspired-to-be-a-sports-anchor.html">Beejoli Shah, of Quentin Tarantino toe sucking fame, aspired to be a sports anchor</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/sports/video-woman-celebrates-gamecocks-championship-with-confetti-shooter.html">VIDEO:  Woman celebrates Gamecocks championship with confetti shooter</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/sports/tiger-woods-will-promote-bengay-like-product-on-japanese-tv.html">Tiger Woods will promote BenGay-like product on Japanese TV</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+								<li>
+					<a href="http://guyism.com/sports/chris-boshs-bachelor-party-looked-like-fun-lebron-and-wade-noticeably-absent.html">Chris Bosh’s bachelor party looked like fun; LeBron and Wade noticeably absent</a>
+					<div class="dateline">Wednesday, June 29, 2011</div>
+				</li>
+							</ul>
+		</div>
+	</div> 
+		<div id="popular-tags">
+		<h3 class="titlebar popular-tags"><span>Popular Tags</span></h3>
+		<div style="float: left; width: 150px">
+		<li><a href="http://guyism.com/topics/qotd"><span>#</span>quote of the day</a></li>
+		<li><a href="http://guyism.com/topics/babes"><span>#</span>babes</a></li>
+		<li><a href="http://guyism.com/topics/lingerie"><span>#</span>lingerie</a></li>
+		<li><a href="http://guyism.com/topics/wtf"><span>#</span>wtf</a></li>
+		<li><a href="http://guyism.com/topics/crime"><span>#</span>crime</a></li>
+		<li><a href="http://guyism.com/topics/animals"><span>#</span>animals</a></li>
+		<li><a href="http://guyism.com/topics/video"><span>#</span>video</a></li>
+		<li><a href="http://guyism.com/topics/drunkenness"><span>#</span>drunkenness</a></li>
+		<li><a href="http://guyism.com/topics/uk-babes"><span>#</span>uk babes</a></li>
+		<li><a href="http://guyism.com/topics/spanish-babes"><span>#</span>spanish babes</a></li>
+		<li><a href="http://guyism.com/topics/sofia-vergara"><span>#</span>sofia vergara</a></li>
+		<li><a href="http://guyism.com/topics/maite-perroni"><span>#</span>maite perroni</a></li>
+		<li><a href="http://guyism.com/topics/great-ideas"><span>#</span>great ideas</a></li>
+		<li><a href="http://guyism.com/topics/alcohol"><span>#</span>alcohol</a></li>
+		<li><a href="http://guyism.com/topics/neve-campbell"><span>#</span>neve campbell</a></li>
+		<li><a href="http://guyism.com/topics/maria-sharapova"><span>#</span>maria sharapova</a></li>
+		<li><a href="http://guyism.com/topics/celebrities"><span>#</span>celebrities</a></li>
+		</div>
+		<div>
+		<li><a href="http://guyism.com/topics/brazilian-babes"><span>#</span>brazilian babes</a></li>
+		<li><a href="http://guyism.com/topics/bikinis"><span>#</span>bikinis</a></li>
+		<li><a href="http://guyism.com/topics/audrina-patridge"><span>#</span>audrina patridge</a></li>
+		<li><a href="http://guyism.com/topics/natalie-portman-thong"><span>#</span>natalie portman thong</a></li>
+		<li><a href="http://guyism.com/topics/monika-pietrasinska"><span>#</span>monika pietrasinska</a></li>
+		<li><a href="http://guyism.com/topics/health"><span>#</span>health</a></li>
+		<li><a href="http://guyism.com/topics/sexy-news"><span>#</span>sexy news</a></li>
+		<li><a href="http://guyism.com/topics/cleavage"><span>#</span>cleavage</a></li>
+		<li><a href="http://guyism.com/topics/blake-lively-naked"><span>#</span>blake lively naked</a></li>
+		<li><a href="http://guyism.com/topics/irina-shayk"><span>#</span>irina shayk</a></li>
+		<li><a href="http://guyism.com/topics/wardrobe-malfunction"><span>#</span>wardrobe malfunction</a></li>
+		<li><a href="http://guyism.com/topics/lists"><span>#</span>lists</a></li>
+		<li><a href="http://guyism.com/topics/hayden-panettiere"><span>#</span>hayden panettiere</a></li>
+		<li><a href="http://guyism.com/topics/kate-upton"><span>#</span>kate upton</a></li>
+		<li><a href="http://guyism.com/topics/cleavage"><span>#</span>cleavage</a></li>
+		<li><a href="http://guyism.com/topics/katy-perry"><span>#</span>katy perry</a></li>
+		<li><a href="http://guyism.com/topics/leann-rimes"><span>#</span>leann rimes</a></li>
+		</div>
+	</div> 
+</div> 
+<div id="footer"> 
+	<ul>
+		<li><a href="http://guyism.com/" rel="nofollow">Home</a></li>
+		<li><a href="http://guyism.com/about/" rel="nofollow">About</a></li>
+		<li><a href="http://guyism.com/subscribe/" rel="nofollow">Subscribe</a></li>
+		<li><a href="http://guyism.com/advertise/" rel="nofollow">Advertise</a></li>
+		<li><a href="http://guyism.com/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
+		<li><a href="http://guyism.com/legal/" rel="nofollow">Legal</a></li>
+                <li><a href="http://guyism.com/archive">Site Archive</a></li>
+	</ul>
+	<div class="copyright">Copyright © 2011 Guyism, LLC</div>
+</div> 
+
+<!-- START TO LOAD ADS !-->
+
+
+
+ 
+
+ 
+
+
+
+
+<script type="text/javascript" language="javascript">
+			adMove('728x90');
 </script>
 
+
+
+
+<script type="text/javascript" language="javascript">
+			adMove('300x250');
+</script>
+
+
+
+
+<script type="text/javascript" language="javascript">
+adMove('300x250btf');
+</script>
+
+
+
+
+<script type="text/javascript" language="javascript">
+			adMove('160x600');
+</script>
+
+<!-- GOOGLE ANALYTICS -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11062910-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- QUANTCAST -->
+<script type="text/javascript">
+	_qoptions={qacct:"p-21KDx7LYybugQ"};
+</script> 
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><img src="http://pixel.quantserve.com/pixel/p-21KDx7LYybugQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+
+<!-- SITE METER --> 
+<script type="text/javascript" src="http://s36.sitemeter.com/js/counter.js?site=s36bohchris">
+</script>
+<noscript>
+<a href="http://s36.sitemeter.com/stats.asp?site=s36bohchris" target="_top">
+<img src="http://s36.sitemeter.com/meter.asp?site=s36bohchris" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2009 Site Meter -->
+
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://guyism.us.intellitxt.com/intellitxt/front.asp?ipid=29954"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201126.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'9891778',v:'ext',post:'18992'});
+var load_cmc = function(){linktracker_init(9891778,18992,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+<div id="BF_WIDGET_1" style="width:0;height:0;overflow:hidden;">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=guyism&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580441669487"></script></div>
+<script type="text/javascript">
+(function( ){
+	BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
+	BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=guyism&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+	setTimeout(function() {document.getElementById('BF_WIDGET_1').appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+})();
+</script>
+ 
+ 
 </body></html>
