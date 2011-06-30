@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211507id_/http%3A//www.europeanvoice.com/page/european-voice-privacy-policy/9.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630190532id_/http%3A//www.europeanvoice.com/page/european-voice-privacy-policy/9.aspx) for the most accurate reproduction.*
 
 # European Voice | Privacy policy
 
@@ -68,13 +68,15 @@ A cookie is a small file which is placed on your hard drive when you visit any o
 
 You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
 
-You will be able to use our websites even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
+You will be able to use our websites and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
 
-If you specifically do not wish us to collect cookie information for the purpose of content and behavioural targeted advertising, you can "opt out" by following the instructions at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+By visiting an Economist Group website, you consent to the use of cookies as explained above.
 
-Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq).
+You can also choose whether you wish us to collect cookie information for these purposes using the settings in your browser, as further explained at [http://www.cookiecentral.com](http://www.cookiecentral.com/) 
 
-### E-mails
+Further information on the use of cookies can be found at <http://www.cookiecentral.com/faq>
+
+**E-mails**
 
 The Economist Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Economist Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.
 
