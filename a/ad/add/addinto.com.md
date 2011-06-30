@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the addinto.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222192437id_/http%3A//addinto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addinto.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630221839id_/http%3A//www.addinto.com/privacy) for the most accurate reproduction.*
 
 # AddInto - Privacy Policy
 
-### Privacy Policy
+[Home](https://web.archive.org/) Privacy
+
+* * *
 
 This Privacy Policy summarizes how AddInto.com handles the information collected from this site visitors.
 
