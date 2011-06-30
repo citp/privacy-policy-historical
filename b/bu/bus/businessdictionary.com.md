@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222022036id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630075504id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer and Copyright
 
@@ -27,6 +27,31 @@ We are not responsible for the claims or representations made by advertisers and
 
 We are very pleased to have partnered with Vijay Luthra to bring you this dictionary. Vijay is the author and copyright holder of the definitions, and under our partnership we have the exclusive and permanent right to publish the definitions online. Vijay shares our passion for educating as many people as possible about business and helping them to succeed in their careers.
 
-Copyright©2007-2010 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
+Copyright©2007-2011 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
 
-Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20101222022036id_/contact.php).
+Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20110630075504id_/contact.php).
+
+**Copyright Complaints**
+
+WebFinance Inc respects the intellectual property of others, and we ask our users to do the same. WebFinance Inc may, in appropriate circumstances and at its discretion, suspend or terminate the access of and take other action against users, subscribers, registrants and account holders who infringe the copyright rights of others.
+
+If you believe that your work has been copied and is accessible on a WebFinance Inc’s website in a way that constitutes copyright infringement, or that the website contains links or other references to another online location that contains material or activity that infringes your copyright rights, you may notify us by providing the following information (as required by the **Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. sec. 512** ) to our copyright agent set forth below:
+
+  * A physical or electronic signature of person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+  * Identification of the copyrighted work claimed to have been infringed, or if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+  * Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+  * Information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and if available, an electronic mail address at which the complaining party may be contacted;
+  * A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+  * A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed
+
+
+
+Once notice is given to us, we will expeditiously remove, or disable access to, the material. WebFinance Inc is not required to notify the individual responsible for the allegedly infringing material before it has been removed.
+
+**Copyright Agent**
+
+Thomas Murcko  
+10201 Fairfax Blvd, suite 510  
+Fairfax, VA 22030  
+Phone: (703) 865-7217  
+E-mail: 
