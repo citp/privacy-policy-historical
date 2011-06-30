@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obsidian.net privacy policy that was archived on 2010-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100716013421id_/http%3A//www.obsidian.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obsidian.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630190311id_/http%3A//www.obsidian.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
