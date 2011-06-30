@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpeace.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218055521id_/http%3A//www.greenpeace.org/usa/en/about/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpeace.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630080449id_/http%3A//www.greenpeace.org/usa/en/about/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greenpeace USA
 
