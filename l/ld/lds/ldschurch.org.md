@@ -1,43 +1,65 @@
-> *The following text is extracted and transformed from the ldschurch.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205194115id_/http%3A//www.lds.org/library/display/0%2C4945%2C5167-1-2681-1%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldschurch.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630075804id_/http%3A//lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| Privacy Policy: LDS.ORG   
----  
-LDS.ORG is the main Web site of The Church of Jesus Christ of Latter-day Saints (“Church”). We are very sensitive to the privacy of Internet users who visit this site. Therefore, we endeavor to provide users all information regarding our identity, how we use personal information that is collected, how to contact us, and how they can access and update their personal information. We also inform users of all potential recipients of the personal information. We do not use any personal information for purposes beyond those stated herein.  
-   
-Our Identity and How to Contact Us   
-This site is owned and operated by Corporation of the President of The Church of Jesus Christ of Latter-day Saints. Users can contact us by linking to the [Feedback](https://web.archive.org/feedback/1,5403,114,00.html) page and leaving a message detailing any questions or concerns.  
-   
-Personal Information: Collection and Use  
-_**Personal Data.**_ LDS.ORG collects information from users only on a voluntary basis in the following categories and never discloses the information except as provided herein: name, mailing address, telephone number, and e-mail address. Information is provided voluntarily by users and is used by the Church only to the extent necessary to deliver items ordered from Church Distribution, to subscribe to Church publications, to subscribe to summaries of current Church news stories, to submit information regarding news or events, or to provide feedback regarding the site. The information collected is used strictly to facilitate users' requests or to respond to a query. We regard this information as confidential and do not use it for any other purpose, sell it to other parties, or disclose it to any third party (except to third-party delivery services to effectuate delivery of the goods as requested by the user). Users can correct their personal information by clicking on the **Update My Profile** icon for Church Distribution orders. If any problems are encountered in removing or modifying personal information or if any other request to update personal information has been submitted, users can contact us at the [Feedback](https://web.archive.org/feedback/1,5403,114,00.html) page and request assistance.  
-_**  
-Third-Party Data.**_ Users may also submit personal information of third parties, including their names, addresses, e-mail addresses, and telephone numbers. This information is used to allow Church representatives to make contact with the named individual to determine interest in hearing the message of the gospel, and for no other purpose. Users can also provide the same information regarding third parties to order items or subscriptions for the third party. The information collected is used strictly to facilitate the users' requests for delivery of the item to the third party or to simplify the process of future orders or subscription renewals to the same third party, and for no other purpose.
+The privacy of your personal information is important to The Church of Jesus Christ of Latter-day Saints and its affiliated legal entities (the “Church”, “we”, “us”, or similar terms). This Privacy Policy is intended as a general statement regarding collection and use of personal information for Church affiliated Web sites. We strive to collect, use and disclose personal information consistent with the laws in the countries in which we collect personal information. This Privacy Policy applies to this Web site which is owned and operated by Corporation of the President of The Church of Jesus Christ of Latter-Day Saints, Corporation of the Presiding Bishop of the Church of Jesus Christ of Latter-Day Saints, or FamilySearch International (as noted specifically on the first page of the Web site).
 
-_**Local Ward, Stake, and Leadership Data.**_ LDS.ORG has established ward and stake Web sites containing some additional information on members. In order to access member or leader information in these Web sites, the user must be a member of the Church and register by providing his or her membership record number and the date of confirmation as a member of the Church. This information is collected to limit and restrict who can access the ward and stake Web site, and for no other purpose. The member will also provide his or her name, address, telephone number, and e-mail address on his or her registration to use the ward or stake Web site. This information is used strictly to facilitate the user’s request or to respond to a question, and for no other purpose. Access to the ward and stake Web site is allowed only for non-commercial, general Church functions, and all members have the option of having their personal information left off the local Web sites.  
-  
-   
-Site Activities: Collection and Use of Other Data  
-The Church has contracted with a third-party service provider to help track and analyze usage and volume statistics on this site. The third-party service provider does not collect personal information from site visitors, only general summaries of site activities. This information is used only to improve the site’s quality. This third-party service uses cookies and clear gifs (as explained below), neither of which contain personally identifiable information, to help in tracking and analyzing site usage information.  
-_**  
-Cookies and Clear Gifs.**_ In our effort to improve users’ site experience, the site uses cookies and clear gifs to provide pages and features that are most compatible with users’ preferences. A cookie is a small text file that is stored on a browser when a user visits a Web site. A clear gif is a graphic file, rather than a text file, that is similar in function to a cookie. Cookies and clear gifs do not identify the user personally; they simply identify the browser and track the settings, preferences, or features. When a user returns to the site, the user’s browser sends the cookie or clear gif to the Church’s Web server and/or the third party’s server.   
-_**  
-Internet Protocol (“IP”) Addresses.**_ When users request pages from LDS.ORG, our servers may log their IP address in order to improve site administration. This information, along with the other information listed above, can also be used to produce usage statistics to help LDS.ORG to better meet the needs of users and determine specific interests.   
-   
-Protecting Information   
-LDS.ORG is equipped with security measures to protect against the loss, misuse, and unauthorized alteration of the information under our control. We cannot guarantee that the information will not be lost or misused, but we make every effort to ensure that it is secured to avoid such problems.  
-   
-Foreign Transfer of Data   
-This site is designed for use by U.S. residents. If you are not a U.S. resident, you can use this site, but you are responsible for making sure that your actions comply with the laws in your area. When you submit information through this Web site, we understand that your action is an affirmative act, indicating informed consent to the processing as well as informed consent to allow the transborder transfer of the data to the U.S. for the purposes outlined above. If you submit any personal information about yourself or others, including information inferring or demonstrating religious beliefs, affiliations, or practices, you alone are responsible for the consequences of making this transfer of personal information.  
-   
-Children's Privacy   
-We do not knowingly collect information from children under 13. Children under 13 wishing to submit personal information to the site are advised to have their parents submit any requests using the parents' own personal data.  
-   
-Third-Party Links   
-LDS.ORG is not responsible for the privacy practices or content of any third-party sites. For your own protection, you should review the policies of similar sites to ensure they meet your personal expectations of privacy.  
-   
-Future Changes to Privacy Policy   
-We reserve the right, at our discretion, to change, modify, add, or remove portions of the Privacy Policy at any time. As we do not typically use personal information except as provided for above, we are not in a position to notify each user of material changes in our Privacy Policy. We encourage you to check the Privacy Policy to remain informed of any changes.  
-   
-Effective Date  
-This version of the Privacy Policy became effective on the 15th day of November, 2004.
+In selected jurisdictions, the Church affiliated entities may adopt unique privacy policy provisions to reflect the requirements of applicable local laws. When a separate provision is deemed necessary, notice will be provided. 
+
+Although you can visit most Church Web sites without providing any personal information, the Church adheres to the following privacy principles on how we collect, use, disclose, transfer, and store your information. 
+
+## Privacy Practices
+
+**Information Collection, Consent and Use.** When you create an LDS Account, register on a Church Web site, add profile information, or take other similar actions, we may collect or obtain from you or your membership records (if applicable), information including, but not limited to, your name, address, e-mail address, phone number, contact or profile preferences, and Church unit information. We will use such information to allow us to contact you, to fulfill your requests, to seek your voluntary feedback on Web site features or content, and to help fulfill the mission of the Church. We may also use your personal information for internal purposes, including auditing, data analysis, and research. We will use your information for no other purposes unless we specifically inform you otherwise and obtain your prior consent if legally required. We will also make you aware of options to opt-out of or opt-in (as required by law) to certain features. Moreover, we grant individuals the opportunity to object to certain uses of their information. 
+
+If you are a member of the Church, it is understood that membership information, including contact details, are shared on a limited and restricted basis between Church members for internal Church purposes, including over the Internet (with your prior consent if required by law). With respect to the privacy of your personal information, as a Church member you have given your implied or actual consent (as required by law) for the Church to use your personal information for Church purposes. If personal information is to be used for any other purpose, it will only be used with your prior consent. 
+
+**Content Submissions.** When you submit additional content through any Church Web site, such as, but not limited to, sending messages, engaging in on-line chats, replying to surveys, uploading photos, uploading video clips, making personal on-line notes, writing in an on-line journal, or similar feature, your information will be stored on our system. While we intend that certain submissions using features on Church Web sites are to remain private (for example, personal on-line notes, journaling, and so forth), we cannot guarantee the complete privacy of such submissions and may in some instances choose, or be legally required, to disclose such information to third parties as outlined in this policy. Some information you provide to the Church Web sites will be submitted with your express agreement that the submission is to be shared publicly. In such instances, others will have access to any personal information within such submission. We recommend caution in selecting which information you choose to include in such submissions to avoid causing harm or injury, or risk of harm or injury, to yourself or others.
+
+We are under no obligation to monitor such content, but reserve the right to do so in our sole discretion and are authorized to block or remove content we deem inappropriate or objectionable. We prohibit postings or submissions in any form and using any available tool on any Church Web site, whether intended to be private to you or shared with the public, that are obscene, lewd, lascivious, filthy, excessively violent, harassing, defamatory, libelous, tortious, illegal, threatening, or otherwise inappropriate or objectionable. As we do not review all content submitted through every feature on each Church Web site, we are unable to take protective measures in the event you provide content disclosing information about a person that is a victim of harm or abuse or is at risk of becoming a victim of harm or abuse. 
+
+**Retention.** We retain collected personal information for a reasonable period of time to fulfill the collection purpose and then delete it from our records, with the exception of limited historical data and membership information retained as part of a permanent genealogical or Church historical record. 
+
+**Access.** We endeavor to maintain personal information accurately and rely on you to ensure your personal information is complete and accurate. You may verify, correct, or remove your personal information through your Web site specific registration, your profile, or through LDS Account, where applicable. For information taken from your Church membership record, your personal information can only be updated by making changes to your Church membership record. Such changes must be done by contacting the clerk in your Church unit and requesting the change. If you experience problems with modifying your personal information or other requests to update your personal information, you can contact us by sending an email to [DataPrivacyOfficer@ldschurch.org.](mailto:DataPrivacyOfficer@ldschurch.org)
+
+## Disclosure of Personal Information 
+
+We regard your personal information as confidential and do not sell it to anyone. We do not share your personal information with other parties except in the following exceptions (or in other instances where we specifically inform the individual and obtain prior consent): 
+
+**Third Party Providers.** We may provide personal information to third parties for their use in performing internal functions on our behalf (payment processing, maintenance, security, data analysis, hosting, and so forth). In such instances, the providers will be contractually required to protect the personal information from additional use or transfer in accordance with this privacy policy and industry standards. 
+
+**Church Entities.** We may transfer personal information to any Church affiliated entity to meet Church purposes. For membership information transfers from the European Union, we rely on standard clause agreements between Church entities in compliance with European requirements. For online submissions of personal information, we understand an individual’s submission to be an affirmative act, indicating informed consent to the processing as well as informed consent to allow the transborder data transfer to the United States of America for the purposes for which it was provided. 
+
+**Legal Requirements.** We may access and disclose your personal information, posts, journaling, personal notes, content, or other submissions submitted to any Church Web site if we have a good-faith belief that doing so is required by a subpoena or other judicial or administrative order or otherwise required by law. Additionally, we may disclose your personal information and other information where we, in good faith, deem it appropriate or necessary to prevent a violation of our other agreements; to take precautions against liability; to protect the rights, property, or safety of the site, of any individual, or of the general public; to maintain and protect the security and integrity of our services or infrastructure; to protect ourselves and our services from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; or to assist government enforcement agencies. 
+
+## Protecting Information
+
+We use technical and organizational measures to protect the personal information we receive against the loss, misuse, and unauthorized alteration, and to protect its confidentiality. We regularly review our security procedures in order to consider appropriate new technology and methods. Please be aware that despite our best efforts, no security measures are perfect or impenetrable. 
+
+## Third-Party Data 
+
+Where local law permits, you may submit personal information of third parties, including contact information, to allow the Church to make contact, make a delivery, or otherwise meet your request. The information collected will be used solely to facilitate your request. When providing personal information about anyone other than yourself, you must obtain the other person’s informed consent if legally required. 
+
+## Passive Data Collection—Tracking Technologies
+
+A cookie is a small text file that is stored on a browser when a user visits a Web site. A clear gif is a graphic file, rather than a text file, that is similar in function to a cookie. We use these and similar tools in our effort to improve individual site experiences. We do not link the information we store in cookies, clear gifs, or other tracking technologies to any personally identifiable information. When an individual requests pages from a Church site, our servers may also log the user’s IP address in order to improve site administration. This information is used to produce usage statistics to help us better meet the needs of individual users and to determine specific interests. We do not link the IP address to any personal information. 
+
+## Compliance and Questions Regarding the Privacy of Personal Information
+
+We have a Church Data Privacy Officer to assist in ensuring compliance with this Privacy Policy and data security issues. This officer helps educate employees concerning compliance. Inquiries concerning this Privacy Policy or the security of personal information processed by the Church may be sent via email or directly to the following: 
+
+## Children's Privacy
+
+We do not knowingly collect information from children under age 13 from most Church Web sites. Any Church Web site where children’s information is collected will only be done with the prior express and informed consent of the child’s parent or guardian in compliance with applicable law. We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe Internet use practices. 
+
+## Third-Party Links
+
+We are not responsible for the privacy practices or content of any third-party sites. For users own protection, users should review the policies of similar sites to ensure they meet the users’ personal expectations of privacy. 
+
+## Future Changes to Privacy Policy
+
+We reserve the right, at our discretion, to change, modify, add, or remove portions of the Privacy Policy at any time. When we make changes to the Privacy Policy, we will post the changes on this page and update the revision date at the bottom of the Privacy Policy. We encourage users to check the Privacy Policy to remain informed of any changes. 
+
+## Effective Date
+
+This version of the Privacy Policy became effective on September 1, 2010.
