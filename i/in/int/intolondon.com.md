@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207035548id_/http%3A//www.intolondon.com/content/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630072411id_/http%3A//www.intolondon.com/content/resources/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy
+([Click here to see our terms and conditions](https://web.archive.org/content/default/terms/).) 
 
-([Click here](https://web.archive.org/content/default/terms/) to see our terms and conditions.)
-
-When you provide personal information to SPAREROOM, intoLondon or thelondonroom, the data controller is Flatshare Limited ('we' , 'us', 'Our'). The United Kingdom Data Protection Act 1988 gives United Kingdom users the right to access information that is held about them. 
+When you provide personal information to intoLondon.co.uk, the data controller is Flatshare Limited ('we' , 'us', 'Our'). The United Kingdom Data Protection Act 1988 gives United Kingdom users the right to access information that is held about them. 
 
 Flatshare Limited  take the privacy of our users seriously.
 
@@ -21,8 +19,6 @@ As part of the our services, advertisers and users will register and we may ask 
 
 
 If users are asked to submit sensitive personal data under the Act such as their sexual orientation intoLondon.co.uk will require your explicit consent before processing such data by using an 'opt in' box.
-
-When registering you may opt in to receive emails from NI Free Newspapers Ltd, publishers of thelondonpaper about new services, offers and competitions. (Please see their privacy policy [www.nidp.com](http://www.nidp.com/) ). If you give your consent by ticking the 'opt in' box we will provide NI Free Newspapers Ltd with your first and last name; email and the date and time of your registration. We may print your advert/profile and picture/s in thelondonpaper and/or www.thelondonpaper.com if you give us your consent via an 'opt in' box on step 2 of the place advert form. 
 
 We will never divulge information which does not constitute a part of the actual advert.
 
@@ -52,4 +48,4 @@ We are registered and fully comply with the Data Protection Act 1988.
 
 intoLondon.co.uk is operated by Flatshare Limited, company reg #04407847, registered office: 1 Wellington Road, Bollington, Macclesfield, Cheshire SK10 5JR.
 
- [Click here](https://web.archive.org/content/default/terms/) to see our terms and conditions.
+([Click here to see our terms and conditions](https://web.archive.org/content/default/terms/).) 
