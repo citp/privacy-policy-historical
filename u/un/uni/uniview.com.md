@@ -1,40 +1,77 @@
-> *The following text is extracted and transformed from the uniview.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307044812id_/http%3A//www.uniview.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniview.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630213704id_/http%3A//cdn.dsultra.com/t/privacy_ds.htm) for the most accurate reproduction.*
 
-# uniView Technologies Corporation - Privacy Policy - A VPGI, Inc Company
+# Privacy Policy
 
-uniView Technologies Corp. - Internet Privacy Policy 
+### DomainSponsor Privacy Policy Highlights
 
-With the tremendous expansion of the Internet and the increase in information now available, privacy and data security are major concerns. At uniView Technologies Corp., we realize the importance of keeping your personal information confidential. We respect your need for privacy, and therefore have developed this Privacy Policy so that you may understand our commitment to protecting and safeguarding your personal information.
+Last Updated: April 28th, 2010
 
-**Personal Information We May Collect**   
-In connection with the use of some of the pages on our web site, you may be asked to provide personal information, which may include your name, address, telephone number, fax number, e-mail address, and other identifying information. It is your option to provide this information when requested on our web site. If you choose not to provide the information requested, there are some features and pages on our site that you will be unable to use; for example, those pages that enable you to contact the Company directly or fill out an online employment application. However, the majority of the web site will still be available for your viewing. 
+### Scope
 
-uniView Technologies Corp. also collects IP addresses for systems administration and internal tracking purposes only. When you visit our site, our servers will automatically log the IP addresses only. uniView Technologies Corp. does not link the IP address information to any other information that would be considered to be personally identifiable. 
+The DomainSponsor [Privacy Policy](http://domainsponsor.com/privacy.php) applies to DomainSponsor's and our affiliates' websites that link to the [Privacy Policy](http://domainsponsor.com/privacy.php). Below follows some of the highlights of the Privacy Policy. 
 
-**  
-**Uses of Personal Information****   
-The information we collect from you at our site is used for the purposes of maintaining accurate accounts and communications; providing and updating various services; and other corporate purposes in order to enable our site and services to be of maximum use to our visitors. 
+### Information Collection
 
-Your e-mail address, if forwarded to our Company via the web site, will only be used for communications between uniView personnel and yourself. 
+  * We may collect personal information that can identify you, such as your name and e-mail address, as well as other information that does not identify you. 
+  * We may collect and store any personal information you provide to us, such as when you contact us for help. 
+  * We use various technologies to collect information from your computer and about your activities on our Site, such as cookies, log files, clear gifs (also known as web beacons), and other tracking pixels and third parties to help determine your viewing preferences for advertising and other purposes. 
+  * We and our business partners, such as advertisers, may use technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites. 
+  * Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. 
 
-In all cases, we do not share any of the above personal information with other parties unless that information is necessary to provide a service that you have requested. 
 
-uniView Technologies Corp. commits to not using or sharing personal information with other corporations, entities, etc., except as outlined in this section of the Privacy Policy, without obtaining your express permission. Should uniView intend to use this information for other unrelated uses, you will be provided the opportunity to opt-out or prohibit the use of your personal information for these unrelated uses. 
 
-  
-**Data Security**   
-uniView Technologies Corp. strictly protects the security of your personal information, and commits to honoring your choices for its personal use. The Company has put in place the appropriate physical, electronic and managerial procedures to protect the information you provide us online from loss, misuse, unauthorized access, and unauthorized disclosure, alteration or destruction. 
+### Information Use and Sharing
 
-  
-**Children's Privacy **  
-Protecting the privacy of children is especially important to us. For that reason, we never collect or maintain information at our web site from those we actually know are under age 13, and no part of our website is structured to attract anyone under age 13. We encourage parents to have discussions with their children about the safe and responsible use of the Internet, as well as the safe and responsible use of their personal information while using the Internet. We ask that all children consult with their parents before sending any personal information to our Company online via this web site. 
+Examples of some of the ways we use or share information that we collect about you include, but are not limited to, the following: 
 
-**  
-**Access to Personal Information****   
-You can request the information that we have collected about you via the Internet at webmaster@uniView.com. Should any of this information need to be changed or updated, you may send a request to [ webmaster@uniView.com](mailto:webmaster@uniView.com) detailing the information that needs to be changed. 
+  * To provide you with products or services, including the display of customized content, advertising, and services.
+  * To provide technical or customer support.
+  * To perform research and analysis to gauge use of or interest in products, services, or content offered on our sites, and to develop new services.
+  * To communicate with you by e-mail about products or services that may be of interest to you.
+  * To enforce our terms and conditions, or otherwise manage our business.
+  * To perform functions as otherwise described to you at the time of collection.
+  * To communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service, unless you have opted out of these features where available. 
 
-In order to protect your privacy and maintain data security, the Company will take all reasonable steps to verify your identity before granting you access or making the necessary correction. 
 
-**  
-**How to Contact Us****   
-Should you have any questions or concerns about the Privacy Policy, please contact uniView Technologies Corp. via telephone at (214) 263-3122; by mail at our corporate address, 2611 Internet Blvd., Suite 109 Frisco, Texas 75034; or via e-mail at [ webmaster@uniView.com](mailto:webmaster@uniView.com).
+
+### Information Use and Sharing with Third Parties
+
+Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes: 
+
+  * To respond to your request for customer service on our sites.
+  * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+  * To respond to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency. 
+  * To establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. 
+  * To investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.
+  * To protect and defend the rights, property or safety of our company, our users, our employees, or others.
+  * To comply with applicable law or cooperate with law enforcement.
+  * To enforce our sites' terms of use or other agreements or policies.
+
+
+
+We may also rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver targeted advertising, and to conduct general business analysis. We may combine non-personal information we collect with additional non-personal information collected from other sources. 
+
+Our Privacy Policy does not cover any third party's use or handling of your information once it is shared, and the privacy policies of the various third parties will govern. 
+
+Our sites contain links to other websites, including through advertisements. We are not responsible for the privacy practices of third party linked websites, even if our sites frame the linked third party websites. 
+
+### Choice/Opt Out
+
+  * When we collect information from you, you may tell us that you do not want the information used for purposes not directly related to our sites at the point where we ask for the information.
+  * You may choose to discontinue receiving communications or our services by following the <http://www.networkadvertising.org/managing/opt_out.asp> and requesting to opt-out, sending an email to [privacy@domainsponsor.com](mailto:privacy@domainsponsor.com), or sending mail to DomainSponsor, Privacy, 515 S. Flower Street, Suite 4400, Los Angeles, CA 90071.
+  * To opt-out of communications from our third party business partners, please contact them directly. 
+
+
+
+### Privacy Policy Changes
+
+DomainSponsor's Privacy Policy may be updated from time to time to reflect changes in our practices and Services. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will prominently post a notice of the changes on our sites and/or notify you by sending an e-mail to the e-mail address you most recently provided us.
+
+### General Contact:
+
+DomainSponsor  
+Attn: Privacy  
+515 S. Flower Street, Suite 4400  
+Los Angeles, California 90071
+
+[privacy@domainsponsor.com](mailto:privacy@domainsponsor.com)
