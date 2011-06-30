@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031185335id_/http%3A//hrsmart.com/index.php/-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630052413id_/http%3A//www.hrsmart.com/-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Resource Software | Applicant Tracking System
 
-Privacy Policy | Human Resource Software | Applicant Tracking System   
-  
-**[HRsmart Privacy Document](http://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%20%3Chttp://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%3E)**
+**[HRsmart Privacy Document](http://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart)**
 
 **ASP PRIVACY POLICY**
 
@@ -39,4 +37,4 @@ We maintain personal information on behalf of our clients. We provide our client
 HRsmart has verified that it complies with this privacy policy. If you have any questions or complaints about this policy, please contact at [marketing@hrsmart.com](mailto:marketing@hrsmart.com) or mail at 2929 N. Central Expressway, Suite 110, Richardson, TX 75080. If we are unable to resolve your complaint, you may contact the appropriate Data Protection Authority in the European Union.
 
  **[HRsmart Privacy Document  
-](http://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%20%3Chttp://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%3E)**
+](http://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart)**
