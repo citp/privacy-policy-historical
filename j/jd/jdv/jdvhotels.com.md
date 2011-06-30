@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103012741id_/http%3A//www.jdvhotels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630082919id_/http%3A//www.jdvhotels.com/privacy) for the most accurate reproduction.*
 
 # Joie de Vivre Hotels Privacy Policy Statement
 
