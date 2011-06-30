@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226181252id_/http%3A//pointemout.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630171958id_/http%3A//pointemout.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | POINTEMOUT.COM
 
