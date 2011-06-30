@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the muzigle.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213073135id_/http%3A//www.muzigle.com/staticpages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzigle.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630054310id_/http%3A//www.muzigle.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policies - MUZIGLE
+# Muzigle - Privacy Policy
 
-* WHY DO WE COLLECT PERSONAL INFORMATION?
+* **WHY DO WE COLLECT PERSONAL INFORMATION?**
 
 Muzigle collects personal information to improve the manner by which we operate and offer our products and services, communicate with you about those products and services, and provide effective, timely customer support when needed. We will never rent or sell any of the personally-identifiable information we collect from you to third parties, and will not share your personally identifiable information with third parties without your consent, unless such sharing is necessary for the purposes set forth in this Privacy Policy.
 
-Top
-* WHAT PERSONAL INFORMATION DO WE COLLECT?
+* **WHAT PERSONAL INFORMATION DO WE COLLECT?**
 
 You must open an account or complete an online registration with Muzigle to download or purchase Muzigle products and services, including free trials. Information gathered during the registration or account creation process, or during access to particular products and services, may differ based on the nature of the product or service. Information that you provide when registering or creating an account, or accessing or using your account or the Muzigle products or services associated with your account, may include: name and email address; billing information; information concerning software downloaded, products and content purchased, accessed, downloaded and/or burned through Muzigle products or services (including, in the case of music products, tracks streamed, purchased or saved in libraries or play lists); location information (such as zip code or postal code and country); computer configuration (such as operating system, connection speed, and peripherals); the IP Internet (IP) address and URL of the Website that sent you to the Muzigle registration page; the types of peripherals (including portable media players) used by Muzigle products on your computer (to ensure that you have access to the latest fixes and patches for full compatibility with these devices); demographic information provided by you (such as language, gender and age, and if applicable, content preferences and personalization information); and whether you logged into or out of a Muzigle service, or changed your password or billing information. As of the date of this privacy policy, Muzigle does not intentionally collect personally identifiable information from children under the age of 13.
 
 We will not sell, rent or otherwise distribute your personally identifiable information to third parties without your consent, except as set forth below.
 
-Top
-* HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?
+* **HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?**
 
 Muzigle understands that it is a privilege to have you as a customer and is committed to protecting your personal information. We use the following controls to protect your personal information: 
 
@@ -24,8 +22,8 @@ Muzigle understands that it is a privilege to have you as a customer and is comm
   * Restrict employee access to databases containing personal information and impose confidentiality requirements upon employees who do; and 
   * Bind subcontractors with contractual, technical and organizational measures to protect your personal information.
 
-Top
-* HOW DO WE USE YOUR PERSONAL INFORMATION?
+
+* **HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
 Muzigle uses your personal information to: 
 
@@ -41,8 +39,8 @@ Muzigle uses your personal information to:
   * Provide you with news, free newsletters, updates, targeted advertising, promotions, and special offers; and 
   * Better understand how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services. 
 
-Top
-* WHEN AND HOW DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?
+
+* **WHEN AND HOW DO WE SHARE YOUR INFORMATION WITH THIRD PARTIES?**
 
 Muzigle does not use your personal information for purposes incompatible with those listed above. Muzigle does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service.
 
@@ -57,43 +55,40 @@ Muzigle websites, products and services contain links to other websites, and pro
 **Obligatory or Optional Nature of the Requested Information**  
 Some of the personal information collected by Muzigle is necessary to provide you with the Muzigle product or service you choose and to optimize the delivery of audio and video data to your computer. Muzigle software may include the opportunity to disable certain software features to increase your level of privacy. However, certain technical information (e.g. zip code, product id, GUID) may be automatically transmitted between networked servers to authenticate access to products and services, enable their delivery, or optimize your media delivery experience. 
 
-Top
-* E-MAIL FROM MUZIGLE
+* **E-MAIL FROM MUZIGLE**
 
-Registering for a product or service allows you to tell us how or whether you want Muzigle to communicate with you. Generally, we send e-mail to you about our products, content and special offers. Separate Muzigle products, services and lines of business may send separate news letters and marketing emails. During registration, you may opt out of receiving Muzigle marketing e-mails and/or newsletters for the relevant product or service. Additionally, your online Muzigle account, accessed through the "My Account" link on www.muzigle.com, and through other links provided in emails and on Muzigle Web pages, enables you to select whether you wish to receive newsletters, marketing and promotional emails, special offers and the like from various Muzigle's business lines. However, we may continue to send you e-mail about products or services you have previously purchased (such as an available upgrade that you are entitled to receive), your account status or other information concerning functions, features and status of your Muzigle products and services, or to inform you about critical technical service issues relating to a Muzigle product or service. Top
+Registering for a product or service allows you to tell us how or whether you want Muzigle to communicate with you. Generally, we send e-mail to you about our products, content and special offers. Separate Muzigle products, services and lines of business may send separate news letters and marketing emails. During registration, you may opt out of receiving Muzigle marketing e-mails and/or newsletters for the relevant product or service. Additionally, your online Muzigle account, accessed through the "My Account" link on www.muzigle.com, and through other links provided in emails and on Muzigle Web pages, enables you to select whether you wish to receive newsletters, marketing and promotional emails, special offers and the like from various Muzigle's business lines. However, we may continue to send you e-mail about products or services you have previously purchased (such as an available upgrade that you are entitled to receive), your account status or other information concerning functions, features and status of your Muzigle products and services, or to inform you about critical technical service issues relating to a Muzigle product or service. 
 
-* HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION
+* **HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION**
 
 To access your account information and preferences, select "Manage My Account" from the menu on www.muzigle.com. Sign in to your account and modify your information and preferences as needed.
 
 When you access your account by logging in, you can update and/or make sure that your account information is accurate. You can also manage your preferences concerning receipt of newsletters and promotional emails. If you have forgotten a username or password, you can use our online help. 
 
-Top
-* SECURITY OF PERSONAL AND PAYMENT INFORMATION
+* **SECURITY OF PERSONAL AND PAYMENT INFORMATION**
 
 **USE OF COOKIES**  
 Like other major Websites, we use cookies to provide you with a tailored experience when visiting our Websites and using our products. We also use cookies to understand traffic patterns on Muzigle Websites and to authorize access to certain premium or trial content and product features. We treat any personal information that may be contained in cookies with the same level of confidentiality as other information you provide to us.
 
 Muzigle does not require that you accept cookies, however, some functionality on our Websites, our product purchase check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. 
 
-Top
-* CHANGES TO OUR PRIVACY POLICY
+* **CHANGES TO OUR PRIVACY POLICY**
 
-We frequently revise this Privacy Policy to keep it up to date with Muzigle products, services and Web pages. "Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ's from time to time on specific products. Top
+We frequently revise this Privacy Policy to keep it up to date with Muzigle products, services and Web pages. "Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ's from time to time on specific products. 
 
-* NON-US CUSTOMER INFORMATION
+* **NON-US CUSTOMER INFORMATION**
 
 If you are a customer who is logging on from outside the United States, the personal information you submit to Muzigle will be sent to and stored in servers in U.S. The personal information practices set out in this Privacy Policy apply to all Muzigle's customers worldwide.
 
 If you are in the European Union and you choose to purchase Muzigle's products and services, please be aware that payment for such products and services will be handled by Muzigle, Inc. The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, bank account, and amount to be charged. You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please contact/send an email to privacy@muzigle.com. 
 
-Top
-* NO ERROR FREE PERFORMANCE
+* **NO ERROR FREE PERFORMANCE**
 
 We customarily release alpha and beta versions of our products, which are further refined before the release of the final "Gold" version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome feedback on any privacy concerns you may have, and on how to improve our products generally, in all stages of release. Muzigle does not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. Muzigle shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States. 
 
-* CONTACT US ABOUT PRIVACY
+* **CONTACT US ABOUT PRIVACY**
 
 If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: privacy @muzigle.com 
 
-Top
+  
+
