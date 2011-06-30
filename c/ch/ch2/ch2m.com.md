@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222084533id_/http%3A//www.ch2m.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630100018id_/http%3A//www.ch2m.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
 
 # CH2M HILL - Privacy Policy
 
