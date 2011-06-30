@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g4s.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227024912id_/http%3A//www.g4s.com/en/Site%2520Tools/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g4s.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630223928id_/http%3A//www.g4s.com/en/Site%2520Tools/Privacy) for the most accurate reproduction.*
 
 # Privacy | G4S
 
