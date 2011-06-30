@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110065253id_/http%3A//www.kotulas.com/deals/PrivacyView%3FlangId%3D-1%26storeId%3D10152%26catalogId%3D10602) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630220006id_/http%3A//www.kotulas.com/deals/PrivacyView%3FlangId%3D-1%26storeId%3D10152%26catalogId%3D10602) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ www.kotulas.com
 Customer Service  
 2800 Southcross Drive West  
 PO Box 1219  
-Burnsville, MN 55337-0219
+Burnsville, MN 55306-6936
 
 ## Opting Out of Third-party Services
 
@@ -40,4 +40,4 @@ Kotula's
 Customer Service  
 2800 Southcross Drive West  
 PO Box 1219  
-Burnsville, MN 55337-0219
+Burnsville, MN 55306-6936
