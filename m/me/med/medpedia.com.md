@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the medpedia.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324022820id_/http%3A//www.medpedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpedia.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630133743id_/http%3A//www.medpedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medpedia
-
-You do not have permission to view the requested page.
 
 ## Medpedia Privacy Policy
 
@@ -109,9 +107,10 @@ If you have a complaint or problem, please email [here](mailto:contact@medpedia.
 If you do not receive adequate resolution of a privacy related problem, you may write to Medpedia's Privacy Office at:
 
 Medpedia Privacy  
-c/o Medpedia Inc.  
-703 Market Street, Suite 470  
-San Francisco, CA 94103 (USA) 
+c/o Jiff Inc.  
+459 Hamilton Ave,  
+Suite 304  
+Palo Alto, CA 94301 
 
 We will notify you within 30 days of receipt of your letter to confirm your personal identifiers have been removed.
 
@@ -138,9 +137,9 @@ Notwithstanding the above, we will inform you if a material change in the Privac
 For more information about Medpedia privacy practices, please email [here](mailto:contact@medpedia.com) or write to this address:
 
 Medpedia Privacy  
-c/o Medpedia Inc.  
-703 Market Street, Suite 470  
-San Francisco, CA 94103 (USA) 
+c/o Jiff Inc.  
+459 Hamilton Ave, Suite 304  
+Palo Alto, CA 94301 
 
 ### Medpedia Privacy Policy Definitions and FAQ
 
