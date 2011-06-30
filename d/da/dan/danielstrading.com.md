@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103054408id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630090934id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daniels Trading
 
 ## Your Privacy is Our Priority
 
-Daniels Trading, is committed to safeguarding the personal information that you provide us. This Privacy Policy describes how we handle and protect personal information we collect about individuals, such as you, who apply for or receive our products and services. The provisions of this notice apply to former customers as well as our current customers.
+Daniels Trading is committed to safeguarding the personal information that you provide us. This Privacy Policy describes how we handle and protect personal information we collect about individuals, such as you, who apply for or receive our products and services. The provisions of this notice apply to former customers as well as our current customers.
 
 ## Why and How We Collect Personal Information
 
