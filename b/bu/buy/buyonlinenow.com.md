@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225121143id_/http%3A//www.buyonlinenow.com/privacy-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630131133id_/http%3A//www.buyonlinenow.com/privacy-security.asp) for the most accurate reproduction.*
 
 # Privacy & Security | BuyOnlineNow
 
