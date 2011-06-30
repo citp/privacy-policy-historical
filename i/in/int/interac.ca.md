@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interac.ca privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205181429id_/http%3A//www.interac.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interac.ca privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630072414id_/http%3A//www.interac.ca/privacy.php) for the most accurate reproduction.*
 
 # Interac
 
@@ -49,6 +49,8 @@ This Privacy Statement was last updated on March 24th, 2008. We may change this 
 If you have any inquiries, requests or complaints regarding this Privacy Statement or our privacy practices, please contact our Chief Privacy Officer at:
 
 Interac Association/Acxsys Corporation  
-Suite 1905, 121 King Street West  
-Toronto, Ontario M5H 3T9  
+Royal Bank Plaza, North Tower  
+200 Bay Street, Suite 2400  
+P.O. Box 45, Toronto, ON  
+M5J 2J1   
 [privacy@interac.ca](mailto:privacy@interac.ca)
