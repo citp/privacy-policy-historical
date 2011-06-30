@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bankfashion.co.uk privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605031649id_/http%3A//www.bankfashion.co.uk/webapp/wcs/stores/servlet/HelpView%3FlangId%3D-1%26storeId%3D11251%26catalogId%3D12051%26pagename%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankfashion.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630220111id_/http%3A//www.bankfashion.co.uk/customer-service/privacy) for the most accurate reproduction.*
 
-# Privacy - Bank Fashion UK
-
-## PRIVACY POLICY
+# Privacy - BANK Fashion
 
 We (bankfashion.co.uk) are committed to protecting your privacy. This privacy policy explains what personal information is collected from you via this Web Site and what we do with that information. It forms part of our terms and conditions, which we may amend from time to time. By using this Web Site you agree to the way in which we process your personal information as outlined in this policy.
 
@@ -22,7 +20,7 @@ As described above, we sometimes collect anonymous information from visits to ou
 
 #### Customer/User Identification and Log-In
 
-A temporary cookie is currently used to identify a user during the registration and checkout processes. When a user provides a username (email address) and password to “log into” this Web Site, either as an existing or a new user, a temporary cookie is set which identifies the applicable user account. This temporary cookie is maintained until the user:
+A temporary cookie is currently used to identify a user during the registration and checkout processes. When a user provides a username (email address) and password to "log into" this Web Site, either as an existing or a new user, a temporary cookie is set which identifies the applicable user account. This temporary cookie is maintained until the user:
 
   1. Clicks the log out button
   2. Closes down their browser session
@@ -43,7 +41,7 @@ If a "registered" user to this Web Site returns to the site without logging in, 
 
 #### Basket Functionality
 
-This Web Site also utilises cookies for the identification of baskets. When a user clicks an ‘Add to Basket’ button for the first time during a browsing session a temporary cookie is set to identify a unique Basket ID for that user. Any items that the user chooses to add to the basket are associated with the unique Basket ID until the user either:
+This Web Site also utilises cookies for the identification of baskets. When a user clicks an 'Add to Basket' button for the first time during a browsing session a temporary cookie is set to identify a unique Basket ID for that user. Any items that the user chooses to add to the basket are associated with the unique Basket ID until the user either:
 
   * Closes down their browser session
   * Places an order
