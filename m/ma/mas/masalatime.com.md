@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masalatime.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613014216id_/http%3A//www.masalatime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masalatime.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630190157id_/http%3A//www.masalatime.com/privacy.php) for the most accurate reproduction.*
 
 # Masala Time — Jokes, videos, humor, games and funny pictures!
 
@@ -61,4 +61,4 @@ We care about children and understand that they have special privacy needs. Ther
 
   
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [the Webmaster](https://web.archive.org/web/20100613014216id_/http%3A//www.masalatime.com/contact.shtml). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [the Webmaster](https://web.archive.org/web/20110630190157id_/http%3A//www.masalatime.com/contact.shtml). 
