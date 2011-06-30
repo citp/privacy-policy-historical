@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugcomputer.org privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113145051id_/http%3A//plugcomputer.org/index.php/us/component/content/article/63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugcomputer.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630221258id_/http%3A//plugcomputer.org/index.php/us/component/content/article/63) for the most accurate reproduction.*
 
 # Privacy Policy
 
