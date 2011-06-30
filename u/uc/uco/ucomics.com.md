@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucomics.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203034122id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucomics.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630020507id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
 
-# Gocomics.com: Comics, editorial cartoons, email comics, comic strips
+# GoComics.com
 
 At Universal Uclick ("Uclick"), we respect your right to privacy and we understand that visitors to Universal Uclick's Web Sites need to control the uses of their personal information. The privacy policy below details the measures taken by Universal Uclick to protect your privacy in connection with your use of [www.gocomics.com](http://www.gocomics.com/), [www.uPuzzles.com](http://www.upuzzles.com/), [www.ComicsSherpa.com](http://www.comicssherpa.com/) , [www.InfiniteCrosswords.com](http://www.infinitecrosswords.com/) and other sites or applications owned and operated by Universal Uclick, ("Sites"). Universal Uclick does not intend to collect any personal information from children under 13 unless Universal Uclick believes such collection to be permitted by law; please read below for Universal Uclick's policy with respect to children under 13.
 
@@ -65,7 +65,7 @@ The ads appearing on this Web site are delivered to you by our Web advertising p
 [iBlast](http://www.iblast.com/)  
 [Klipmart](http://www.klipmart.com/)  
 [Lightningcast](http://www.lightningcast.com/company/privacy.html)  
-[Lotame](http://www.lotame.com/privacy) [MaxWorldWide](http://www.maxworldwide.com/privacy_policy/index.php)  
+[MaxWorldWide](http://www.maxworldwide.com/privacy_policy/index.php)  
 [MediaPlex](http://www.mediaplex.com/privacy.shtml)  
 [Meebo](http://www.meebo.com/privacy/advertising/) [Platform-A](http://www.platform-a.com/privacy-policy)  
 [Tribal Fusion](http://www.tribalfusion.com/TribalFusion/privacy.html)  
@@ -138,7 +138,7 @@ You can help Universal Uclick maintain the accuracy of your profile by notifying
 **Contacting Universal Uclick**  
 Universal Uclick would like to receive your comments and questions about this Privacy Statement. Please address comments or questions regarding Universal Uclick's Privacy Statement to us via e-mail or postal mail. 
 
-You can complete our e-mail form at: [http://gocomics.com/contact](https://web.archive.org/contact). You may also contact Universal Uclick by mail at: 
+You can complete our e-mail form at: [http://gocomics.com/help/contact](https://web.archive.org/help/contact). You may also contact Universal Uclick by mail at: 
 
 Universal Uclick  
 Attn: Universal Uclick Privacy  
