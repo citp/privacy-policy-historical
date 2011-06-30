@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionworld.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117064858id_/http%3A//www.opinionworld.com/ow/index.aspx%3FChapterid%3D7857) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionworld.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630112157id_/http%3A//www.opinionworld.com/ow/index.aspx%3FChapterid%3D7857) for the most accurate reproduction.*
 
 # OpinionWorld - Member and Non-Member Privacy Policy
 
