@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nd-warez.info privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205031252id_/http%3A//www.nd-warez.info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nd-warez.info privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630190104id_/http%3A//www.nd-warez.info/privacy_policy.php) for the most accurate reproduction.*
 
 # ND-Warez - Next Generation WaRez LeaDers
 
