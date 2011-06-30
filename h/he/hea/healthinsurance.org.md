@@ -1,34 +1,40 @@
-> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616102108id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630040049id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
 
-# Healthinsurance.org privacy policy
+# healthinsurance.org™ privacy policy
 
-This Privacy Policy discloses the information privacy practices for the Web site you are currently visiting. You may contact healthinsurance.org [via e-mail through this form](http://contact.healthinsurance.org/index.php) or via postal mail at healthinsurance.org LLC, 8009 34th Ave. South, Suite 360, Minneapolis, MN  55425\. 
+This privacy policy discloses the information privacy practices for the Web site you are currently visiting. You may contact healthinsurance.org™ [via e-mail through this form](http://www.healthinsurance.org/contact/) or via postal mail at healthinsurance.org™ LLC, 8009 34th Ave. South, Suite 360, Minneapolis, MN  55425\. 
 
-### Your privacy and health insurance quotes
+## your privacy and health insurance quotes
 
-As part of our services, we provide a means to get free quotes on insurance products. You may be directed to one of several Web sites based on the type of product, your ZIP code and product availablity in your area. We selected these other sites using several criteria, most importantly your convenience and privacy:
+We link to sites which provide individual health insurance quotes. The product, your ZIP code and availablity in your area determine which options we display. We choose partners using several criteria, most importantly your convenience and privacy:
 
-  * immediate access to pricing and policy details online -- no agent will call, but they have qualified agents for you to talk to should you choose;
-  * varied offerings make it easy for consumers to shop and compare; 
-  * you can get quotes with only basic information, ZIP code and genders and ages of proposed insured. You do not need to give a name, e-mail or other identifiable information unless you decide to apply for a policy. Since there are several sites we work with, please refer to that site's privacy policy when you are in the quoting process to see how it handles your personal information once your provide it. 
-
-
-
-### No disclosure of your personal information
-
-Healthinsurance.org only collects personal information from you in two instances:
-
-  * if you use our contact form to contact us. We only use your e-mail or other information to reply to your message and do not keep it on file or share it with any other company;
-  * if you are in one of a few selected ZIP codes where we provide insurance quotes to you from a local insurance agent in your area. This is currently a limited pilot project, and is easily identifiable by being the only time you are asked for your name and contact information during the quote request process.
+  * no hassle: shop online, no agent will call
+  * comparison shopping: side-by-side pricing/plans from multiple providers 
+  * mimimum personal information: in most cases just your zip code, birth date and gender 
 
 
 
-In the case of the pilot project, you may be contacted by healthinsurance.org in a followup survey to determine the level of consumer satisfaction with its quote fulfillment process.
+In some ZIP codes, where no online individual health insurance quote is available, we may show you sponsored listings.
 
-### Anonymous information.
+## sponsored listings
 
-This is information about visitors to our site that does not personally identify you, such as the number of visitors to our Web site. You may be included in that number, but are never personally identified. We may share information such as the number of visitors to our Web site from a particular state with partners, but never their names and contact information (except to provide you a quote as disclosed above). 
+For most other products, including Medicare, entering your ZIP code in our form will present you with a page of sponsored listings. Here is an [example of sponsored listings](http://www.healthinsurance.org/quotes/?prodid=210&ad_type=3&zip=55044&source=homepage&-v=3). Healthinsurance.org uses an outside service to manage these sponsored listings. Each sponsored site has its own privacy policy - be a wise consumer and be aware that providing your contact information to these sites give them permission to call or e-mail you.
 
-### Links to Other Web sites
+## no disclosure of your personal information
 
-Our Web site contains links to other Web sites which have information on health insurance and/or related issues. Please note that when you click on one of these links you are "clicking" to another Web site. healthinsurance.org is not responsible for the information privacy practices or the content of such Web sites and we urge you to view the policies of these sites before providing personal information. 
+healthinsurance.org™ only collects personal information from you in these instances:
+
+  * if you use [this form](http://www.healthinsurance.org/contact) to contact us, we only use your information to reply and do not share it
+  * in select ZIP codes a pilot project connects you with insurance agent in your area. It is easily identifiable by being the only time you are directed to [this form.](http://www.healthinsurance.org/quotes/ipa)
+
+
+
+In the case of the pilot project, you may be contacted by healthinsurance.org™ in a followup survey to determine your satisfaction with this process.
+
+## anonymous information
+
+Statistic services log how visitors interact with healthinsurance.org, which helps us improve our site. They do not personally identify you. 
+
+## links to other web sites
+
+When you click on a link that takes you away from healthinsurance.org, be a smart consumer and review the privacy practices at any site you navigate to before providing personal information. 
