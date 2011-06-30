@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeinspectorpro.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526181018id_/http%3A//www.homeinspectorpro.com/Information/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeinspectorpro.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630225752id_/http%3A//www.homeinspectorpro.com/Information/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Home Inspection Software - Home Inspector Pro - Privacy Policy
+# Privacy Policy | Information
 
 This is the web site of **[http://www.homeinspectorpro.com](http://www.homeinspectorpro.com/)**. 
 
@@ -10,7 +10,7 @@ Our postal address is
 **8816 W. Foothill Blvd., 103-187  
 Rancho Cucamonga, CA, 91730**
 
-We can be reached via e-mail at [webmaster@homeinspectorpro.com](mailto://webmaster@homeinspectorpro.com)
+We can be reached via e-mail at [ ](mailto://%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy36306%20=%20'webmaster'%20+%20'@';%20addy36306%20=%20addy36306%20+%20'homeinspectorpro'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy36306%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy36306%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[webmaster@homeinspectorpro.com](mailto:webmaster@homeinspectorpro.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
