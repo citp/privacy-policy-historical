@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425233455id_/http%3A//www.rankranger.com%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankranger.com privacy policy that was archived on 2011-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110701070040id_/http%3A//www.rankranger.com%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# SEO Software | Website Ranking | Keyword Rank Monitoring | Rank Tracking Reports
+# SEO Software | Keyword Rank Monitoring and Website Reports | Rank Ranger
 
 We understand that privacy online is very important to users of Rank Ranger ("Site") Site, especially when conducting business and collecting. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site ("Authorized Customers") and make use of the various services offered by Rank Ranger (collectively, "Services"). 
 
