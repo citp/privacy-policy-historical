@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietribune.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501074127id_/http%3A//www.movietribune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietribune.com privacy policy that was archived on 2011-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110701142339id_/http%3A//www.movietribune.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Movie New Releases New Movies on DVD Movies Online On Demand
 
