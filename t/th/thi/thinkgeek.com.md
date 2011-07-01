@@ -1,50 +1,167 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511181032id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702004156id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
 
 # ThinkGeek :: ThinkGeek :: Privacy Policy
 
-ThinkGeek is committed to the privacy of our customers. ThinkGeek, Inc. is a wholly-owned subsidiary of SourceForge Inc. The following is an Overview of the Privacy Statement of ThinkGeek, Inc. and SourceForge Inc. 
+## Geeknet, INC. PRIVACY STATEMENT (“PRIVACY STATEMENT”)
 
-## GEEKNET, INC. UNITED STATES/EUROPEAN UNION SAFE HARBOR PRIVACY STATEMENT ("PRIVACY STATEMENT") OVERVIEW ("OVERVIEW")
+### (Last Updated June 20, 2011)   
+(Effective Date May 24, 2008)
 
-**(Last Updated July 29, 2010)**
+Geeknet, Inc. (“Geeknet”), comprised of the Internet sites Geek.net, Sourceforge.net, Slashdot.org, ThinkGeek.com, feedery.com, and freshmeat.net (the “Sites”), is committed to protecting the privacy of users of the Sites. Geeknet intends to give users as much control as possible over user's personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information Geeknet collects about users and how that information may be used. 
 
-### Scope
+Geeknet reserves the right to update and change this Privacy Statement from time to time. If Geeknet makes material changes to its privacy practices, a prominent notice will be posted on this web page. Each time a user uses the Sites, the current version of the Privacy Statement applies. Accordingly, a user should check the date of this Privacy Statement (which appears at the top) and review for any changes since the last version. If a user does not agree to the Privacy Statement, the user should not use the Sites. 
 
-  * This Overview highlights the Geeknet, Inc. ("Geeknet") United States/European Union Safe Harbor Privacy Statement, found at: <http://geek.net/privacy-statement>. Geeknet, Inc. is the parent company of ThinkGeek, Inc.
+### NOTICE
+
+Geeknet provides this Privacy Statement to make users aware of Geeknet privacy practices, and of the choices a user may make about the way the user's information is collected and used. 
+
+#### Children
+
+Users represent they are of legal age to create binding and financial obligations for any liability users may incur as a result of their use of the Sites. The Sites are not directed to children under the age of 13, and Geeknet will never request personally identifiable information from anyone whom it knows to be under the age of 13 without verifiable parental or guardian consent. Geeknet does not knowingly collect, or wish to obtain, personally identifiable information from children. If Geeknet becomes aware that a user is under the age of 13 and has provided personally identifiable information without prior verifiable parental or guardian consent, it will remove user's personally identifiable information from its files. 
+
+#### What information Geeknet collects
+
+Geeknet may collect two types of information from users of Sites: "personally identifiable information" (such as name, email address, postal address, telephone, birth date) and "aggregate information" (such as frequency of visits to Sites, IP address, Site pages most frequently accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user of the Sites. Aggregate information is non-personally identifiable/anonymous information about users of the Sites. Aggregate information is used in a collective manner and no single person can be identified by that compiled information. 
+
+On the Sites, users may order products or services, and register to receive materials. Personally identifiable information collected on the Sites includes community forum content, diaries, profiles, photographs, name, unique identifiers (e.g., passwords), contact and billing information (e.g., email address, postal address, telephone, fax), and transaction information. 
+
+In order to tailor Geeknet's subsequent communications to users and continuously improve the Sites' products and services, Geeknet may also ask users to provide information regarding their interests, demographics, experience with its products, and detailed contact preferences. 
+
+#### Web beacons
+
+Geeknet uses web beacons from time to time. Such web beacons may be provided by Geeknet's third party advertising companies to help manage and optimize Geeknet's online advertising. To opt out of targeted advertising delivered by Network Advertising Initiative members, click here: <http://www.networkadvertising.org/consumer/opt_out.asp> . A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable Geeknet to recognize a browser's cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user's computer, and users remain anonymous. 
+
+#### Cookies
+
+Geeknet uses cookies on the Sites. A cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to a user based on a user's browsing program. Geeknet may use cookies to personalize a user's pages at a Site, to remember a user when the user registers for products or services, or to track visits to a Site. If a user does not want Geeknet to deploy cookies in the user's browser, the user may set the browser to reject cookies or to notify the user when a web site tries to place cookies in the browser program. Rejecting cookies may affect a user's ability to use some of the products, features, functions, or services on a Site. Cookies do not contain personally identifiable information. 
+
+The ads appearing on the Sites are delivered to visitors by Google, Inc. (“Google”), Geeknet's current third party web advertising partner. The third party advertising technology that Geeknet uses on the Sites uses information derived from a user's visits to the Sites to target advertising within the Sites. In addition, Geeknet's advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, Google may place or recognize a unique cookie on a user's browser. Information about users' visits to the Sites, such as the number of times users have viewed an ad (but not users' names, addresses, or other personally identifiable information), are used to serve ads to visitors. Google's use of cookies enable it to serve ads to users based on such user's visit to Geeknet's sites and other sites on the Internet. As with other cookies, and consistent with Geeknet's policy on cookies stated above, the user may block or delete such cookies from the user's drive or memory. For more information about Google, Google's use of cookies, and how to "opt out" of Google's email/information lists, please click here: <http://www.google.com/privacy_ads.html> . Geeknet has no access or control over third party cookies. 
+
+#### Log files
+
+Geeknet web servers may automatically log aggregate information, such as a user's IP address, domain name, browser type, date and time of access, and other log file data. This information may be used to analyze trends or administer the Sites. Log files do not contain personally identifiable information. 
+
+With respect to Sourceforge.net, Geeknet contracts with third party mirror providers, who deliver integrated communications services, including Internet access services, to deploy mirrors of downloads in order to make file downloading via Sourceforge.net faster and more convenient. Geeknet has no control over the privacy or logging policies of mirror providers, or the implementation thereof, and such policies may differ from this Privacy Statement. 
+
+#### How Geeknet uses the information collected
+
+Geeknet may use the personally identifiable information a user submits for any purposes related to Geeknet's business, including, but not limited to: 
+
+  1. To understand a user's needs and create content that is relevant to the user; 
+  2. To generate statistical studies; 
+  3. To conduct market research and planning by sending user surveys; 
+  4. To notify user referrals of Geeknet services, information, or products when a user requests that Geeknet send such information to referrals; 
+  5. To improve services, information, and products; 
+  6. To help a user complete a transaction, or provide services or customer support; 
+  7. To communicate back to the user; 
+  8. To update the user on services, information, and products; 
+  9. To personalize a Site for the user; 
+  10. To notify the user of any changes with a Site which may affect the user; 
+  11. To enforce terms of use on a Site; and 
+  12. To allow the user to purchase products, access services, or otherwise engage in activities the user selects. 
 
 
 
-### Information Collected 
+User names, identifications (“IDs”), and email addresses (as well as any additional information that a user may choose to post) may be publicly available on a Site when users voluntarily and publicly disclose personally identifiable information, such as when a user posts personally identifiable information in conjunction with content subject to an Open Source license, or as part of a message posted to a public forum or a publicly-released software application. Users may not be able to change or remove public postings once posted. Such personally identifiable information may be used by visitors of these pages to send unsolicited messages. Geeknet is not responsible for any consequences which may occur from the use of personally identifiable information that a user chooses to submit to public pages. 
 
-  * When you use the Sites, SourceForge may ask you to provide certain personal information. Geeknet may also collect certain non-personal information concerning your use and activity related to the Sites.
-  * The information Geeknet collects may be combined with information collected other Geeknet sites including without limitation [geek.com](http://www.geek.com/), [sourceforge.net](http://sourceforge.net/) and [slashdot.org](http://slashdot.org/).
-  * Geeknet uses cookies and other technologies to keep track of your interactions with the site to offer a personalized experience.
+With respect to surveys, in the event that responses are publicly disclosed, users will be notified at the time they take the survey. Geeknet will disclose only aggregate information regarding its users, which as stated earlier is anonymous information that does not identify any specific individual. Circumstances under which Geeknet would publicly disclose such aggregate information include, but are not limited to, sharing survey results with the site population, providing data to Geeknet advertisers on user preferences and/or demographics, and publicizing overall usage data in press communications. 
 
+Where surveys allow users to submit written comments, and where Geeknet advises users of the possibility of such disclosure at the time they take the survey, Geeknet reserves the right to disclose any information provided by users, provided that no personal information identifying a specific user is disclosed. Participation in surveys is at a user's option; Geeknet does not conduct mandatory surveys. 
 
+#### CHOICE/OPT OUT
 
-### Uses of Information 
+A user makes the decision whether to proceed with any activity that requests personally identifiable information. If a user does not provide requested information, the user may not be able to complete certain transactions. 
 
-  * Geeknet uses the information it collects to provide the services requested by you. Geeknet services may include the display of personalized content and advertising.
-  * Geeknet uses your information to inform you about the products or services offered by Geeknet and its subsidiaries and affiliates, and to send you relevant information related to Geeknet.
-  * Geeknet does not sell, rent, or lease its customer lists to third parties. In order to help provide its services, it occasionally provides customer information to other companies that work on its behalf.
+Users who use the personally identifiable information of other users agree to use such information only for: 
 
-
-
-### Your Choices
-
-  * You can choose to stop delivery of promotional e-mail from Geeknet by following the instructions included in each such email.
-  * To view and edit your personal information, go to the [Data Integrity and Access section of the Privacy Statement](http://web.sourceforge.com/privacy-statement#data_inegrity_and_access).
+  1. Using services offered through a Site; 
+  2. Site transaction-related purposes and not for unsolicited commercial messages; or 
+  3. Other purposes that the other user expressly chooses. 
 
 
 
-### How to Contact Us
+Users are not licensed to add other users to a Site, even users who entered into transactions with them, or to their mail lists without consent. 
 
-  * For more information about Geeknet privacy practices and its contact information, please see the [Privacy Statement](http://web.sourceforge.com/privacy-statement).
+Geeknet encourages users to evaluate privacy and security policies of any of the Sites' transaction partners before entering into transactions or choosing to disclose personally identifiable information. 
 
+#### Emails
 
+Geeknet will not use or share the personally identifiable information provided to it online in ways unrelated to the items described above without first letting a user know and offering the user a choice. If a user no longer wishes to receive direct marketing materials, Geeknet will provide instructions in each of its emails on how to be removed from any lists. Geeknet will make commercially reasonable efforts to honor such requests. 
 
-### Special Note to Users of [ThinkGeek.com](http://thinkgeek.com/)
+#### Profile or User ID Display
 
-  * Display names of [ThinkGeek.com](http://thinkgeek.com/) users are not publicly available. However, if you elect to post a comment to a blog or post in a forum on [ThinkGeek.com](http://thinkgeek.com/), then you will be assigned a nickname that will be publicly available.
+A user's personally identifiable information may be publicly available through a user's profile or user ID display. In such cases, users have the option and discretion to opt out of publicly displaying their real names at any time by changing their display name under the Sites' user preferences. Profile or user ID display may allow other users to see a user's activities, including purchase and sales content, ratings, and comments. 
 
+#### Email Display
 
+Users may have the opportunity to use a service to send electronic mail to another user or email list. In such cases, a user's valid email address and real name will be included with such messages. In order to prevent abuse, users may not opt out of such a display, but may choose to refrain from using such service to transmit an email message. 
+
+Geeknet offers an email alias service that allows a user to create an email alias that forwards to the user's personal email account. Geeknet does not publish a user's personal email address, but does publicize email aliases which may allow an individual to identify or contact a user. A user who obtains an email alias may not opt out of such publication of the email alias. 
+
+#### Photographs
+
+Users may have the opportunity to submit photographs to the Sites for product promotions, contests, and other purposes to be disclosed at the time of request. In these circumstances, the Sites are designed to allow the public to view, download, save, and otherwise access the photographs posted. By submitting a photograph, users waive any privacy expectations users have with respect to the security of such photographs, and Geeknet's use or exploitation of users' likeness. All photographs submitted to Geeknet become the property of Geeknet and will not be returned. 
+
+### ONWARD TRANSFER
+
+#### With whom may Geeknet share information?
+
+Geeknet will not sell, rent, or lease a user's personally identifiable information to others, except as described in this Privacy Statement. Unless Geeknet has a user's permission or as required by law, Geeknet will only share the personally identifiable information a user provides online with other entities that are part of the Geeknet corporate family and/or outside service providers who may be used to ship products, process credit cards, provide technical support, handle order processing, or otherwise act on Geeknet's behalf. These third parties are prohibited from using users' information for any other purpose, including their own marketing. 
+
+When Geeknet uses third parties to assist in processing a Site's user personally identifiable information, Geeknet requests that they comply with Geeknet privacy practices, and other appropriate confidentiality and security measures. 
+
+Please be advised that in certain instances, it may be necessary for Geeknet to disclose a user's personally identifiable information without a user's permission to government officials or otherwise as required by legal obligations. Geeknet may disclose such personally identifiable information when responding to subpoenas, court orders, or legal process, or to establish or exercise legal rights or defend against claims, including fraud or infringement investigations. 
+
+Data collected online may be combined with information a user provides through other means of communication, such as postal mail or third parties to further carry out the purposes described above under the heading “NOTICE, How Geeknet uses the information collected regarding users”. 
+
+When users choose to provide Geeknet with personally identifiable information, users consent to the transfer and storage of such information by Geeknet servers in the United States. 
+
+In addition, Geeknet reserves the right to share aggregate information collected from users of the Sites, without prior notice, with entities that are part of the Geeknet corporate family and unrelated third parties. As stated earlier, aggregate information is used in a collective manner and no single person can be identified by such compiled information. 
+
+Geeknet shares certain Sourceforge.net data with the University of Notre Dame for the sole purpose of supporting academic and scholarly research on free and/or open source software. Geeknet has given the University of Notre Dame permission to share this data with other academic researchers studying free and/or open source software. When such Sourceforge.net data is transmitted to the University of Notre Dame, Geeknet makes reasonable efforts to remove any personally identifiable information, but does not guarantee the complete removal of all information that may identify a user, such as user names or other publicly displayed information. 
+
+#### Service Orders
+
+To purchase services, users may be asked to be directed to a third party site, like PayPal, to pay for their purchases. If applicable, the third party site may collect payment information directly to facilitate a transaction. None of this information will be captured or stored by Geeknet. 
+
+#### Links to third party web sites
+
+Links to third party web sites on the Sites are provided solely as a convenience to the user. When a user uses these links, the user leaves the Sites. Geeknet has not reviewed all of these third party sites, does not control, and is not responsible for, any of the third party sites, their content or privacy practices. Geeknet does not endorse or make any representations about the third party sites, or any information, services, or products found on the sites. If a user decides to access any of the linked sites, Geeknet encourages the user to read their privacy statements. The user accesses such sites at user's own risk. 
+
+#### Project Web
+
+Sourceforge.net offers project web services that permit project teams to share information among developers and end users. The project web services include a pool of web servers which serve project related web content and support common scripting language. Geeknet hosts these web servers, but does not review or control any of the web content, which is created by project teams. Web content created by project teams may contain codes or other technology that collect personally identifiable information. Before linking to, accessing or otherwise using the project web services, a user should take those steps necessary, in such user's discretion, to protect its privacy. 
+
+#### Bankruptcy or Sale of business
+
+Geeknet reserves the right to share or transfer personally identifiable information and aggregate information to a third party should Geeknet ever file for bankruptcy or in the event of a sale, merger or acquisition of Geeknet, provided such third party agrees to adhere to the terms of this Privacy Statement. 
+
+### DATA INTEGRITY AND ACCESS
+
+Should a user find inaccuracies in such user's information, or desire to close an account or view the personally identifiable information Geeknet may have regarding the user, the user may contact Geeknet through the communication methods described below, or when technically feasible, directly on a Site. Geeknet will make commercially reasonable efforts to respond to requests for access within thirty (30) days of receiving requests. Geeknet may decline to process users' access or update requests to their personally identifiable information if the requests require disproportionate technical effort, jeopardize the privacy of other users, or are impractical (for instance, requests concerning information residing on backup tapes). 
+
+### SECURITY
+
+To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, Geeknet implements physical, electronic, and managerial procedures to safeguard and secure the information Geeknet collects. Geeknet uses encryption when collecting or transferring sensitive personally identifiable information. However, Geeknet does not guarantee that unauthorized third parties will never defeat measures taken to prevent improper use of personally identifiable information. 
+
+Internal Geeknet access to users' nonpublic personally identifiable information is restricted to Geeknet's administrators and individuals on a need-to-know basis. These individuals are bound by confidentiality agreements. 
+
+User passwords are keys to accounts. Use unique numbers, letters, and special characters for passwords and do not disclose passwords to other people in order to prevent loss of account control. Users are responsible for all actions taken in their accounts. Notify Geeknet of any password compromises, and change passwords periodically to maintain account protection. In addition to passwords, Sourceforge.net users also obtain encryption keys for the release of files for download, development of web content, and other services. Users are responsible for all actions taken with encryption keys, and must promptly notify Geeknet of any security compromises involving such encryption keys. 
+
+### ENFORCEMENT
+
+In the event Geeknet becomes aware that the security of a Site has been compromised or user's personally identifiable information has been disclosed to unrelated third parties as a result of external activity, including but not limited to security attacks or fraud, Geeknet reserves the right to take reasonable appropriate measures, including but not limited to, investigation and reporting, and notification to and cooperation with law enforcement authorities. 
+
+If Geeknet becomes aware that a user's personally identifiable information has been disclosed in a manner not permitted by this Privacy Statement, Geeknet will make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that Geeknet knows this information. 
+
+If a user has comments or questions about Geeknet's privacy statement, please contact: 
+
+Email: [legal@geek.net](mailto:legal@geek.net)   
+Telephone: (650) 694-2100   
+Fax: (650) 288-1579 
+
+Postal Mail:   
+Attn: Geeknet, Inc. Legal Services - Privacy   
+Geeknet, Inc.   
+11216 Waples Mill Road, Suite 100   
+Fairfax, VA 22030 
