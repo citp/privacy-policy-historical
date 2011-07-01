@@ -1,92 +1,58 @@
-> *The following text is extracted and transformed from the mystarbucksvisit.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229095509id_/http%3A//www.starbucks.com/customer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystarbucksvisit.com privacy policy that was archived on 2011-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110701164242id_/https%3A//www.mystarbucksvisit.com/%28S%28nlab5r45mxjdagyabyun4y45%29%29/DContent.aspx%3FPage%3DPrivacy%26c%3D401011) for the most accurate reproduction.*
 
-# Privacy Statement
+# My Starbucks Visit
 
-  
-The Starbucks name and reputation were built on a foundation of trust. This online privacy policy describes the information Starbucks collects through the services available on our web site, Starbucks.com (the “Site”) and the Starbucks Card Program, and how we use that information. Our policy also describes the choices you can make about how we collect and use your information.
+## WEBSITE PRIVACY POLICY
 
-StarbucksStore.com is a separate website run by Cooking.com. If you order, make a purchase, or sign up for email communications from Cooking.com via the Starbucksstore.com site, the Cooking.com privacy policy will control how Cooking.com may use your personal information. To view the Cooking.com privacy policy click [here](http://www.starbucksstore.com/products/shourplg.asp).
+This Internet website for our Customer Voice Survey (the “Site”) is, with the consent of Starbucks Corporation (“Starbucks”) owned and operated by Service Management Group, a provider of research and website hosting services to Starbucks, and is located on servers in the United States. This Privacy Policy is designed to notify you about how we collect, use, disclose, and otherwise process personally identifiable information (“Personal Information”) that we collect on this particular Site. This Privacy Policy does not apply to any other online Information”) that we collect on this particular Site. This Privacy Policy does not apply to any other online or offline collection, use, disclosure or other processing of personally identifiable information by Starbucks, other than the information directly captured through the Site. Starbucks reserves the right to fully use, disclose, and process any information collected via the Site that is not in personally identifiable form. For information about privacy at Starbucks generally, please visit <http://www.starbucks.ca/en-ca/privacypolicy.htm> in Canada or <http://www.starbucks.com/customer/privacy.asp> in the US.
 
-Starbucks may collect personal information. Personal information means information about an identifiable individual and may include: 
+## CONSENT
 
-|  | identifying information, such as name, address, e-mail address;  
----|---  
-| financial information, such as credit card number; and  
-| employment-related information, such as may be found on resumes, applications, background verification information, or in employment references.  
-  
-  
-Personal information does not include business contact information (e.g. office address, telephone number) in those jurisdictions that recognize such information as not being personal information.
+Please read this Privacy Policy carefully. Each time you visit the Site, you consent to the collection, use, disclosure, and processing of Personal Information in accordance with this Privacy Policy. If you provide any Personal Information that relates to another person, you hereby state and agree that you have obtained proper consent from such person for the use, disclosure, and processing of such Personal Information as described in this Privacy Policy. You may withdraw consent by contacting us at the address at the end of this Privacy Policy and requesting such withdrawal.
 
-We may receive personal information from the website of any Starbucks brand, including Tazo® Tea, Hear Music or EthosTM water.   
-Personal information will be collected, to the extent possible, directly from the individual concerned. 
+## CHILDREN
 
-In addition to the personal information you actively provide us, we also collect web site use information which includes information about your internet service provider, browser type, domain name, IP address, the web site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points. Our collection of web site use information may involve the use of cookies and pixel tags. 
+This Site is a general audience site intended for individuals who have obtained the age of majority in their province or state of residence. Please do not participate in this Survey if you are not an adult.
 
-Starbucks may also collect aggregated data, which is data from which the identity of an individual cannot be determined. Since it is not personal information, Starbucks may use aggregated data in any way that it considers appropriate. 
+## ACTIVE INFORMATION COLLECTION AND USE
 
-Starbucks may use personal information provided verbally or in writing (including via electronic media) by customers and potential employees in order to: 
+This Site actively collects Personal Information from you only if you agree to participate in the survey. The kinds of Personal Information you may provide include your name, contact information, demographic information and your interest in Starbucks products. We will not use or disclose Personal Information for any marketing purposes other than to send you additional surveys, to contact you about this survey, if you affirmatively consent to such contact. We may share your Personal Information with companies that provide support services to us (such as sweepstakes administrators and website hosting companies). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
 
-| Process and manage your purchase of Starbucks products and services, including the purchase and use of your Starbucks Card;  
----|---  
-| Communicate with you about your order or purchase, your Starbucks Card account, your Starbucks.com account, or a contest you have entered;   
-| Respond to your customer service inquiries;  
-| Communicate with you about: |  | specific jobs, job opportunities or general information about employment at Starbucks, in the event you have created a personal profile or submitted your resume online;   
----|---  
-| our brands, products, events or other promotional purposes, including co-branded offers, if you have opted to receive such communications either through providing your email address on the home page of Starbucks.com or by indicating as such in your communication preferences when you signed up for a Starbucks.com account;  
-  
-  
-  
-| Communicate, to the extent required, with and manage our relationship with Starbucks consultants, strategic partners, agents, distributors, suppliers, contractors and other companies affiliated with Starbucks in order to improve Starbucks offering of products and services; and  
-| Meet any applicable legal and regulatory requirement.  
-  
-  
-Is my personal information shared with third parties? We may arrange to have marketing and promotional information of other companies sent to you that we think might be of interest to you only if you tell us that you would like to receive these sorts of materials in your communication preferences.
+## PASSIVE INFORMATION COLLECTION AND USE
 
-Our website may also share information with companies that provide support services to us (such as credit card processors, mailing houses or web hosts) or that help us market our products and services (such as email vendors). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+To complete this survey, our research partner will collect information which may include personal information (such as your name or email address), transaction information (such as information from a store receipt), as well as your survey responses. We also automatically collect information about your computer (IP address and domain), your Internet browser and your operating system (system settings), using standard data collection tools, such as cookies, Web beacons and Web server logs.
 
-We may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our corporate policies, or to protect our or others' rights, property, or safety. We do not provide information to these agencies or companies for marketing or commercial purposes. 
+## DISCLOSURE OF PERSONAL INFORMATION
 
-In the event of a sale of some or all of our business, Starbucks may disclose personal information to those involved in a transfer of all or part of the assets or business.
+We do not disclose Personal Information, except as otherwise provided in this Privacy Policy and expressly permitted by law. We also may disclose Personal Information as necessary or appropriate:  
 
-Unless permitted by law, no personal information is collected, without first obtaining your consent for the collection, use and sharing of that information. The provision of personal information to Starbucks means that you agree and consent that we may collect, use and share your personal information in accordance with this privacy policy.
 
-In addition, where appropriate, specific authorizations or consents may be obtained from time to time. For example, we may seek consent to use and share personal information after it has been collected in those cases where Starbucks wishes to use the information for a purpose not previously identified or for which the individual concerned has not previously provided consent.
+  * to protect the security of the Site;
+  * to protect ourselves, Starbucks and our respective affiliated companies against liability;
+  * to respond to subpoenas, judicial processes, or legitimate requests by law enforcement officials;
+  * if we believe in good faith that the law requires it;
+  * to the purchaser in connection with any sale, assignment, or other transfer of all or a part of our business or company; or
+  * where we believe in good faith that it is in the interest of the health, safety or protection of any third party.
 
-In most cases, and subject to legal and contractual restrictions, an individual is free to refuse or withdraw his or her consent at any time upon reasonable, advance notice. It should be noted that in some circumstances, certain Starbucks products and services can only be offered if a person provides personal information to Starbucks. If you choose not provide us with any required personal information, we may not be able to offer the products or services requested. We will inform you of the consequences of the withdrawal of consent.
 
-We may use your e-mail address and other contact information provided to us through the Site or the Starbucks Card Program to send you promotional materials from us and, if you’ve opted in, from third parties. If you do not want to receive such promotional information, you can change your communication preferences and remove yourself from our e-mail list at any time. If you have a Starbucks.com account, please [log in](https://www.starbucks.com/customer/account.asp) and go to the communication preferences page. If you’ve registered a Starbucks Card over the phone, you may call us at 1-800-STARBUC and we will change your preferences over the phone.
 
-Please also note that even if you opt out of receiving promotional emails from us, we may still use your information to communicate with you for other purposes, such as orders/purchases, your Starbucks Card account, customer service responses and job related communications.
+## ACCESS
 
-Starbucks strives to ensure that any personal information provided and in its possession is as accurate, current and complete as necessary for the purposes for which we use that information.
+If you wish to update any Personal Information you have previously provided, or to exercise any right of access, rectification, deletion, or opposition to the processing of your Personal Information that you may have under applicable law, please contact us at [customervoice@servicemanagement.com](mailto:customervoice@servicemanagement.com) or as indicated under “Contact Us” in this Privacy Policy. We normally will be glad to fulfill your request as appropriate, but we reserve the right to use Personal Information obtained previously to verify your identity and as otherwise described in this Privacy Policy.
 
-If you have signed up for a Starbucks.com account either through registering your Starbucks Card or making a purchase, we have provided you with a means to log into your account and edit your personal information including name, postal address and phone number to ensure its accuracy at all times.
+## DATA SECURITY
 
-If you signed up to receive email communications by providing your email address on the home page of Starbucks.com, you may either call our customer care line at 1-800-STARBUC to remove your email address or click [here](https://www.starbucks.com/customer/account.asp) to opt out.
+Transmissions over the Internet are never 100% secure or error-free. As a result, we do not, and cannot, guarantee the security, accuracy, or completeness of Personal Information. However, we do maintain reasonable physical, electronic, and managerial procedures to protect Personal Information against accidental or unlawful destruction or accidental loss, alteration, or unauthorized disclosure or access. Starbucks stores Personal Information at its offices in Seattle, Washington and on servers in the United States. Please note that laws applicable in the United States may apply to the storage of your data and law enforcement officials and courts may access Personal Information in accordance with those applicable laws. Starbucks stores Personal Information for as long as Starbucks may reasonably deem necessary to support this Site and the Customer Voice program.
 
-If you applied for a position at Starbucks, you can log into the personal profile you created for that purpose and make any necessary changes or updates there.
+## CHANGES TO THIS PRIVACY POLICY
 
-During your visit to Starbucks.com, we will collect certain web site use information for a number of purposes, namely to: 
+We reserve the right to change this Privacy Policy from time to time and in our sole discretion, except where prior notice or consent is required by law. If the Privacy Policy for this Site changes, the revised Privacy Policy will be posted at the “Privacy Policy” link on the Site’s home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read “Newly Revised Privacy Policy.” Please check the Privacy Policy frequently and particularly before you submit additional information via the Site. Your continued use of the Site constitutes acceptance of such changes in the Privacy Policy, except where further steps are required by applicable law. This Privacy Policy was last revised on March 26, 2009.
 
-  
-Our collection of web site use information may involve the use of cookies. A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online surfing and shopping experience. We use cookies to remember the items in your cart, recognize you when you return to our website and analyze visitor behavior.
+## CONTACT US
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly.
+Please feel free to contact us with any comments, questions, or suggestions you might have regarding the information practices described in this Privacy Policy or to opt-out of receiving future communications. 
 
-We also use pixel tags – tiny graphic images – to help us analyze your online behavior, but we do not tie that behavior to any personal information.
+You may contact us at: (800) 235-2883 or by or writing to Starbucks Customer Relations,  
+PO Box 3717, Seattle, WA 98124-3717.
 
-Starbucks strives to maintain appropriate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure, or modification of personal information. This also applies to our disposal or destruction of personal information.
-
-We encrypt the pipe through which personal information, such as credit card numbers, is sent, using Secure Socket Layer (SSL) technology to ensure that your information is safe as it is sent over the Internet to our server. For more information about credit card security, please read our [FAQ](http://www.starbucks.com/customer/faq_qanda.asp?name=card%5Fsecurity).
-
-Starbucks.com is a general audience site that is not designed nor intended to collect personal information from children under the age of 13. Starbucks does not knowingly collect personal information from anyone under the age of 13, and does not use such information if it discovers that it is has been provided. To respect the privacy of children and to comply with the Children's Online Privacy Protection Act, children under the age of 13 should not provide any personal information on this Site. We ask that parents supervise their children while online.
-
-Please be aware that we provide links to third-party web sites as a service to our guests, and that we are not responsible for the content or information collection practices of those pages. Please note that these web sites' privacy policies may differ from this privacy policy. We encourage you to review and understand their privacy practices before providing them with information.
-
-If we decide to change our privacy policy, we will post a new statement on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. If you have provided personal information to us, we will email you any changes to the privacy policy that might affect the way we use your personal information.
-
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
-
-In the event of questions about: (i) access to your personal information; (ii) our collection, use, management or disclosure of personal information; (iii) this privacy policy; or (iv) any other matter, please contact Starbucks [Customer Relations](https://web.archive.org/web/20071229095509id_/http%3A//www.starbucks.com/customer/default.asp). You may also reach Customer Relations by calling (800) 235-2883 or writing to Starbucks Customer Relations, PO Box 3717, Seattle, WA 98124-3717. Starbucks will investigate all complaints and if a complaint is justified, we will take all reasonable steps to resolve the issue.
-
-Please also visit our [Terms and Conditions](http://www.starbucks.com/customer/legal.asp) section that explains other terms governing the use of this Site.
+* * * * * * * * *
