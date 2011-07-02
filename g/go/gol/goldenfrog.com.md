@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenfrog.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202031017id_/http%3A//www.goldenfrog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenfrog.com privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702075424id_/https%3A//www.goldenfrog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Golden Frog
 
@@ -8,13 +8,13 @@ This data is maintained for use with billing, troubleshooting, service offering 
 
 ## What Golden Frog Does _Not_ Collect From VyprVPN Sessions:
 
-Beyond counting the number of bytes uploaded and downloaded, Golden Frog... 
+Beyond counting the number of bytes uploaded and downloaded, Golden Frog...
 
-  * ...does not perform deep packet inspection of your traffic, except where requested by the customer for firewall purposes.
-  * ...does not perform shallow packet inspection of your traffic, except where requested by the customer for firewall purposes.
-  * ...does not discriminate against devices, protocols, or application. Golden Frog is network neutral.
-  * ...does not throttle your Internet connection.
-  * ...does not rate limit Internet connection.
+  * Does not perform deep packet inspection of your traffic, except where requested by the customer for firewall purposes.
+  * Does not perform shallow packet inspection of your traffic, except where requested by the customer for firewall purposes.
+  * Does not discriminate against devices, protocols, or application. Golden Frog is network neutral.
+  * Does not throttle your Internet connection.
+  * Does not rate limit Internet connection.
 
 
 
@@ -32,4 +32,4 @@ Golden Frog collects personally identifiable information from end users only thr
 
 ## How Golden Frog Uses Information Collected From www.goldenfrog.com:
 
-Golden Frog does _not_ use personally identifiable information collected through our Web site to contact users regarding products and services offered by Golden Frog. We do _not_ share a member's personally identifiable information with affiliates, independent contractors, and business partners or outside entities for marketing purposes or otherwise. We hold your data private.
+Golden Frog does _not_ use personally identifiable information collected through our Web site to contact users regarding products and services offered by Golden Frog. We do _not_ share a member's personally identifiable information with affiliates, independent contractors, business partners or outside entities for marketing purposes or otherwise. We hold your data private.
