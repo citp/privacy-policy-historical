@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605042726id_/https%3A//www.firstcitizensonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702033104id_/https%3A//www.firstcitizensonline.com/privacy) for the most accurate reproduction.*
 
 # First Citizens Bank | Privacy and Security
 
@@ -23,8 +23,8 @@ Every day criminals are targeting bank customers and their online transactions i
 
 ## Search our site:
 
-## Earn reward points  
-every time you shop.
-
 ## Free Online Bill Pay.  
 No stamps. No hassles.
+
+## Save more today.  
+Worry less tomorrow.
