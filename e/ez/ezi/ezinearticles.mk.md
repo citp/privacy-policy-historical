@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinearticles.mk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605053059id_/http%3A//www.ezinearticles.mk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinearticles.mk privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702023713id_/http%3A//www.ezinearticles.mk/privacy.php) for the most accurate reproduction.*
 
 # EzineArticles Directory - Free Article Directory
 
