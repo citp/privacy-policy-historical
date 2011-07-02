@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopicnic.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605074623id_/http%3A//www.gopicnic.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopicnic.com privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702065248id_/http%3A//www.gopicnic.com/Privacy-Policy) for the most accurate reproduction.*
 
 # GoPicnic: Privacy Policy
 
@@ -11,10 +11,13 @@ GoPicnic may collect information through our Web site from registration and orde
 ** The information collected by GoPicnic will be used internally to execute and track your purchase orders. Users who have signed up for e-mail from GoPicnic will occasionally receive product updates, special events and offers and newsletters from GoPicnic only. We may share data with companies or persons to provide certain services including credit card processing, shipping, and fulfillment. These service providers will be provided only with the information needed for them to perform these contract services. We will not sell, rent, or distribute any of your personally identifiable information to any company not directly related to the buying, shipping, and servicing of our products. We may offer links to other Web sites. Please note: When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours. 
 
 **Privacy Options**   
-If you prefer not to receive traditional mail or other offline promotions from us, please let us know by contacting us at [info@gopicnic.com](mailto:info@gopicnic.com).
+If you prefer not to receive traditional mail or other offline promotions from us, please let us know by contacting us at [service@gopicnic.com](mailto:service@gopicnic.com).
 
  **Our Commitment to Security  
 ** We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
 
  **How to Contact Us**   
-If you have any questions or concerns about our Privacy Policy or its implementation please contact us at [info@gopicnic.com](mailto:info@gopicnic.com).
+If you have any questions or concerns about our Privacy Policy or its implementation please contact us at [service@gopicnic.com](mailto:service@gopicnic.com).
+
+  
+
