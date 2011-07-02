@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xertive.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527215843id_/http%3A//www.xertive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xertive.com privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702031455id_/http%3A//xertive.com/privacy.html) for the most accurate reproduction.*
 
 # Xertive Ltd. - Professional Internet Services
 
