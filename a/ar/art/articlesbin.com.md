@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesbin.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212170737id_/http%3A//articlesbin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbin.com privacy policy that was archived on 2011-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110703082246id_/http%3A//www.articlesbin.com/privacy.php) for the most accurate reproduction.*
 
 # ArticlesBin Niche Autoresponder Series
 
