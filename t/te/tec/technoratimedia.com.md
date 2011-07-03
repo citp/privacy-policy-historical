@@ -1,117 +1,75 @@
-> *The following text is extracted and transformed from the technoratimedia.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230142659id_/http%3A//technorati.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technoratimedia.com privacy policy that was archived on 2011-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110703082126id_/http%3A//technoratimedia.com%3Fpage_id%3D39) for the most accurate reproduction.*
 
-# Technorati Privacy Policy - Technorati
+# Privacy Policy | Technorati Media
 
-Technorati values the privacy of our visitors and our members and takes many steps to protect their privacy. By visiting Technorati’s primary website or related websites that Technorati controls or operates (collectively “Technorati Sites”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+_Version effective: June 13, 2011_
 
-### What this Privacy Statement Covers
+Technorati Media (“we,” “our” or “us”) is an online advertising network _._ Our customers include advertisers and other ad networks (our “Clients”). These Clients buy and sell space on websites, blogs, and other media (“Publishers”), and we provide the technology that displays their ads on the Publisher sites. We may receive the ads directly from the Client and serve them directly on the Publisher site, or there may be other ad networks, agencies or exchanges (each of which may be our Client) situated between the advertiser and the Publisher site. As part of our services, we will attempt to find Publishers where the ads from our Clients are most likely to be helpful and appreciated, as well as using information received from Publishers as described below. To do this, we may collect information about the types of people that visit the Publisher site, view the ads, and click on the ads to learn more about the product, service or company. The more we learn about the audience, the better the fit of ads with Publishers, and the more useful the Publisher site is to the audience. That’s where you come in; as part of that audience we are interested in the types of Publishers you visit, and the types of ads you are likely to be interested in. That way we can try to avoid showing you ads for products that are _not_ interesting to you. Your privacy is important to us so we have developed this policy to give you details as to what information about you we will collect when we perform these services, and what choices you have relating to our use of that information. __
 
-This Privacy Statement covers Technorati’s treatment of personally identifiable information (“Personal Information”) that Technorati gathers when you access Technorati Sites. This Privacy Statement does not apply to the use of your Personal Information by third parties that Technorati does not own or control, or to individuals that Technorati does not control or manage.
+### **What This Policy Covers**
 
-### Links to Other Sites
+This policy only addresses information that we collect as a function of providing services to Clients and displaying ads on Publisher sites. It does not address information and privacy issues relating to the access and use of the Technorati Media website itself, or any of the websites that Technorati Media, or its parent company Technorati, Inc., owns, controls or operates separate from the services we provide to our Clients and Publishers. That uses of information is addressed by Technorati, Inc.’s general privacy policy found at [www.technorati.com/privacy-policy](http://www.technorati.com/privacy-policy).
 
-Technorati Sites contains links to blogs and other websites that are not owned or controlled by Technorati. We are not responsible for the privacy policies of such other sites.
+### **Information Collection & Use**
 
-### Information Collection & Use
+Information can be either Personally Identifiable Information (“PII”) or non-Personally Identifiable Information (“non-PII”). PII is information that directly identifies you, such as your name, address, email address, and telephone number. Non-PII is information that is not specifically associated with your identity, such as context information, records of what you click on while web browsing (such as a hyperlink), click-stream data, demographic and behavioral data, the IP address from which a website or ad is viewed or accessed, the ads displayed on a Publisher site, which ads you click on and how often, and generally other aggregate or statistical information that is not PII.
 
-Technorati is the sole owner of information collected on Technorati Sites. We do not share or sell your information with anyone without your authorization or consent in ways different from what is disclosed in this Privacy Statement.
+_We do not collect PII as part of our services relating to ads served for Clients on Publisher sites._ If you click on an ad served by us, you may be directed to a third party site, where the advertiser may request PII from you. If so, the collection and use of your PII is governed by the privacy policy for that advertiser’s website, and not this policy.
 
-### Registration
+We use the non-PII collected from Publisher sites and through Client ads to provide our services to you, Clients and Publishers, selecting the ads that you see, so that you are more likely to see ads that are useful to you (also known as “targeting”), internal business operations, planning, evaluation, improvement and enhancement of performance of our services, and external performance reporting. We may add non-PII from other sources (e.g., other ad networks, information provided by Clients) to the non-PII that we collect, again for the above purposes.
 
-Technorati provides some features exclusively to its members. Our registration process requires you to provide Technorati with a valid email address as well as a username and password of your choice. Optional information such as your first and last name, year of birth, zip code, and country of residence helps Technorati have a better understanding of its visitors and members. You can choose not to provide us with certain information, but then you may not be able to take advantage of special features offered only to our members.
+### **Information Sharing**
 
-### Weblog Quickclaim
+We sometimes share aggregated information with our Clients and Publishers, in particular advertisers, to help them improve their ads and offer you a better experience. We do not link this aggregate non-PII with any PII from any source, so you will not be identified as an individual to any Client. We may share aggregated statistics on our services and performance with Clients, Publishers, business partners or outside vendors without permission. As part of our agreements with Clients and Publishers, we require them to use any information they receive from us in accordance with all applicable laws and regulations, and with this Privacy Policy.
 
-As a convenience to its members, Technorati provides the option of claiming a weblog by logging into the administrative interface of their blogging (blog publishing) service. Technorati does not store this login information on our service; we only use this data to determine if you have the ability to alter data on the specified blog.
+Sometimes we use other companies and people to perform tasks on our behalf. For example, as noted above, some ads are served through multiple networks, agencies, exchanges and ad servers. We will share your information with these providers only for the purpose of allowing us to supply our services and deliver the ads to the Publishers.
 
-### Attention.xml
+We also reserve the right to disclose any information we collects if we believe in good faith that its release is necessary to (1) comply with the law; (2) enforce or apply terms and conditions of use and other agreements; (3) or protect the rights, property or safety of our employees, Clients, Publishers, affiliates, and others.
 
-Technorati provides its members a feature, which gives people the ability to store and retrieve an Attention.xml file containing personal attention history. Technorati does not share this information with other parties.
+Finally, in the event Technorati Media experiences a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, any information governed by this policy will be part of the assets transferred. We reserve the right to make such a transfer, and you consent to the transfer and continued use of such information by the acquiring party, but only in accordance with the terms of this policy.
 
-### Minor's Privacy
+### **Collection Technology and Opt-out**
 
-We do not collect or maintain information on Technorati Sites from those people we actually know are under 13 years old, and no part of any Technorati Site is structured to attract anyone under 13 years old.
+We collect non-PII by many means, but all of them are based in some way on technology associated with the ads served on Publisher sites. In particular, we use cookies, pixels, web beacons and other types of collection technology.
 
-### Surveys or Contests
+A cookie is a small text file stored on your computer to track session data, identify that your computer has visited a Publisher site or seen an ad before, and perform other useful functions. A cookie takes up only a small amount of space in a folder on your hard drive, and is not an applet or other type of program. A session cookie expires when you exit your browser. A persistent cookie stays on your computer until it is deleted.
 
-We may provide you the opportunity to participate in contests or surveys on Technorati Sites. If you participate we will request certain Personal Information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
+You can set your browser to reject all cookies, ask your permission before accepting a cookie, or to remove all cookies. Without the cookies, however, you may not be able to experience all of the features of the site or ad.
 
-We only use this information internally to determine eligibility, notify contest winners, and to measure the success of our efforts.
+Pixels and web beacons are a line of code embedded in a website, ad or used by an ad server to track navigation and other activity on a particular webpage (e.g., which ads are clicked).
 
-## Communications from Technorati Sites
+Third parties (including, without limitation, Clients and Publishers) may use cookies or other information collection technology on their sites. We have no access or control over these uses or technology. This policy does not cover the use of cookies or other technology or collection of information by any third parties.
 
-### Newsletters
+### **Opting Out**
 
-If you choose to subscribe to our newsletter(s) we will use your name and email address to send the newsletter to you. Unsubscribe instructions accompany each email.
+You can opt out of our ad optimization in two ways:
 
-### Service-related Announcements
+1\. Block all cookies by disabling cookie use in your browser. This may cause some sites to work incorrectly.
 
-We will send you strictly service-related announcements on the rare occasions when it is necessary to do so. For instance, if Technorati is acquired or an earthquake swallows our data center we might notify you with an e-mail.
+2\. Use our opt-out tool: [Click here to opt-out](https://portal.technoratimedia.com/optout) by setting a special opt-out cookie that tells our system to ignore you.
 
-You may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive these announcements you have the option to deactivate your account.
+> If you choose to opt out using our tool, you need to repeat the process for each computer or browser you use, and every time you clear your cookies.
 
-### Customer Service
+### **Security and Confidentiality**
 
-Based upon the Personal Information you provide us we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or by telephone in accordance with your wishes.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. We review these safeguards regularly and take commercially reasonable steps to ensure they meet current industry standards. You should be aware, however, that no system has perfect security and Technorati Media cannot and does not assume responsibility for the security of information beyond such industry standards and its legal obligations.
 
-## Information Sharing and Disclosure
+### **Collection of Information from Children**
 
-### Aggregate Information (non-personally identifiable)
+Our services, and the ads we deliver, are not intended for children under fourteen (14) years of age. We do not knowingly develop services or direct ads at children. Furthermore, as noted above, we do not knowingly collect any PII from children or otherwise.
 
-We share aggregated demographic information about our visitors and the world of weblogs in general with our partners and advertisers. This information does not identify individual visitors or members. We do not link aggregate visitor or member data with Personal Information.
+### **Changes to This Policy**
 
-If users choose to display their membership information because they have claimed a blog, their user name, blog(s), blogroll(s), vCard(s), hCard(s), and/or Friend Of A Friend files and member photos will be shown as associated with their blog to other users on the Technorati Sites. Any member's information outside of these six kinds of information (user name, blog(s), blogroll(s), vCard(s), hCard(s), and/or Friend Of A Friend files and member photos), including other information from the membership form or any emailed information we receive from members, will not be shared outside the company, except as aggregated statistics, or as required by law. We do not share any individual user information with any of our business partners or outside vendors without permission. We may share aggregated statistics with business partners or outside vendors without permission. 
+This policy is a living document that will change due to internal and external requirements. We may modify this document as we add new features and new services. Changes in information collection practices and technology may also suggest changes in the policy. Changes in the law may also require us to modify our information collection and use practices, which modifications will be reflected in this policy. Accordingly, Technorati Media reserves the right to modify this policy at any time. Although we will attempt to make you aware of material changes through posts on the [www.technoratimedia.com](http://www.technoratimedia.com/) website and other appropriate places, we are not obliged to do so. You should check the date (shown above) on the version of this policy posted on the website occasionally to remain current.
 
-We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples of such services include sending email, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service
+### **Contact Us**
 
-We reserve the right to disclose your Personal Information when we believe in good faith that release is necessary to (1) comply with the law; (2) enforce or apply our conditions of use and other agreements; (3) or protect the rights, property or safety of Technorati, our employees, our users, or others.
+If you have any questions or suggestions about this Privacy Policy please contact Technorati Media at [www.technorati.com/contact-us](http://www.technorati.com/contact-us), or at:
 
-### Security and Confidentiality
+Technorati, Inc.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+Attention: Privacy Officer
 
-### Choice/Opt-out
+360 Post Street, Suite 1100
 
-We provide you the opportunity to access and edit all of your Personal Information within our member profile page or by emailing Customer Support at [support@technorati.com](mailto:support@technorati.com). Information collected for the membership process, if requested, will be deleted within 21 days from the Technorati Sites. However, some Personal Information may need to be maintained if it is connected with billing information or as required by law.
-
-Users of the Technorati Sites are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
-
-You may opt-out of receiving our newsletter by following the instructions included in each newsletter or by [contacting us](https://web.archive.org/about/contact.html) by email, phone, fax, or postal mail.
-
-We gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, requested pages, operating system, and the time and date your browser requested our pages. We use this information, which does not identify individual visitors, to analyze trends, to administer the Technorati Sites, to track visitor movements around the Technorati Sites and to gather demographic information about our user base as a whole. We do not link this collected data to Personal Information.
-
-If you wish to opt-out from receiving browser "cookies", please see this page for more information: <http://networkadvertising.org/managing/opt_out.asp>
-
-### Cookies
-
-We store a small text file called a cookie on your computer to track session data and persist your login for your convenience. A session cookie expires when you exit your browser. A persistent cookie stays on your computer until it is deleted. You can remove persistent cookies by following the directions provided in your browser's "help" files.
-
-If you reject cookies you may still use the Technorati Sites.
-
-Some of our advertisers may use cookies on the Technorati Sites. We have no access or control over these cookies. This Privacy Statement covers the use of cookies by Technorati only and does not cover the use of cookies by any advertisers.
-
-### Third Party Advertisers
-
-The advertisements appearing on Technorati are delivered by third parties, including, among others, Google, DoubleClick, and Bizo. For information about our advertising partners, please visit their website through the link included in the presentation of the advertisements on the Technorati Sites.
-
-About Google and the DoubleClick DART cookie: 
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-
-
-For more information, see: <https://www.google.com/adsense/support/bin/answer.py?answer=100557>
-
-### Business Transitions
-
-In the event Technorati goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of Technorati may continue to use your Personal Information as set forth in this Privacy Statement. You hereby consent to Technorati sharing your Personal Information under the above circumstances. Technorati will contact you at the email address you provided at registration to communicate such transfer. We will also place a prominent notice on the Technorati home page for 30 days after such transfer of your Personal Information.
-
-### Changes in this Privacy Statement
-
-This Privacy Statement is a living document. We will modify this document as we add new features to Technorati Sites. We reserve the right to modify this Privacy Statement at any time. If we make material changes to our privacy policy we will post those changes to this Privacy Statement, the Technorati.com homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-### Contact Us
-
-If you have any questions or suggestions regarding our privacy policy please[ contact us](https://web.archive.org/contact-us/).
+San Francisco, CA  94108
