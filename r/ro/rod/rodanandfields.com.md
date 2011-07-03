@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodanandfields.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606020001id_/https%3A//www.rodanandfields.com/Pages/Company/About/More/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodanandfields.com privacy policy that was archived on 2011-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110703054756id_/https%3A//www.rodanandfields.com/Pages/Company/About/More/Privacy) for the most accurate reproduction.*
 
 # Rodan + Fields
 
