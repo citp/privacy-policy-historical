@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114012750id_/http%3A//www.zyrtec.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2011-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110704164940id_/http%3A//www.zyrtec.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy – ZYRTEC®
 
