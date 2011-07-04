@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104064646id_/http%3A//www.us-immigration.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2011-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110704095512id_/http%3A//www.us-immigration.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -24,7 +24,7 @@ Please be advised that certain PII becomes public record upon the filing of cert
 
 **_Opt-Out_**
 
-If you do not wish to receive mailings regarding new offers, products or services offered by AIC, our partners or our affiliates, you may opt out by emailing a request to Customer Service at any time at info@us-immigration.com. 
+If you do not wish to receive mailings regarding new offers, products or services offered by AIC, our partners or our affiliates, you may opt out by emailing a request to Customer Service at any time at . 
 
 **_Sharing of Information_**
 
@@ -32,7 +32,7 @@ AIC may share information about you with affiliated and non-affiliated third par
 
 AIC may disclose the information that we collect to our affiliated companies from time to time for marketing purposes and to enhance our products or services to better suit your needs. When identifying methods of improving our products or services, or if we think a product or service may be of interest to you, we may extend select special offers of goods or services to you. If you would like to opt-out of receiving these offers, please refer to the "Opt-Out," section above. 
 
-The Website may contain links for other offers, products and/or services that we feel you may have an interest in, however we urge you to review such websites’ respective privacy policies. AIC is deeply committed to a User’s right to privacy. However, please note that this Website’s Privacy Policy only applies to the Website and not to any other websites that a User may access from the Website, each of which may have privacy polices that are materially different from this Privacy Policy. We encourage each User to be aware when he or she leaves the Website and to read the privacy policies of each and every other website. 
+The Website may contain links for other offers, products and/or services that we feel you may have an interest in, however we urge you to review such websites’ respective privacy policies. AIC is deeply committed to a User’s right to privacy. However, please note that this Website’s Privacy Policy only applies to the Website and not to any other websites that a User may access from the Website, each of which may have privacy policies that are materially different from this Privacy Policy. We encourage each User to be aware when he or she leaves the Website and to read the privacy policies of each and every other website. 
 
 **_Tracking Cookies_**
 
