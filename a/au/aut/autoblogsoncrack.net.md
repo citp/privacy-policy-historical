@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoblogsoncrack.net privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503104426id_/http%3A//members.autoblogsoncrack.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoblogsoncrack.net privacy policy that was archived on 2011-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110704232628id_/http%3A//members.autoblogsoncrack.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Autoblogs on Crack
 
