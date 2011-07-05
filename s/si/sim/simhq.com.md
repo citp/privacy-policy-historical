@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523002414id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simhq.com privacy policy that was archived on 2011-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110705083848id_/http%3A//www.simhq.com/_aboutus/aboutus.html%23privacy) for the most accurate reproduction.*
 
 # SimHQ History - Wasn’t the site once owned by....?
 
@@ -206,7 +206,7 @@ Frequently Asked Questions
 
 **What else can I do to support SimHQ?**
 
-> Purchase a book, video, or other product through our [Library](https://web.archive.org/web/20110523002414id_/http%3A//www.simhq.com/_library/library.html). A small percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
+> Purchase a book, video, or other product through our [Library](https://web.archive.org/web/20110705083848id_/http%3A//www.simhq.com/_library/library.html). A small percentage of the [Amazon](http://www.amazon.com/) sales help maintain the site's costs.
 > 
 > Supporting our advertisers’ banner ads and letting them know you appreciate their supporting SimHQ.
 > 
