@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230100958id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2011-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110705124216id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
 
 # Rich Dad PowerPack Privacy Statement | Rich Dad PowerPack
 
@@ -49,10 +49,6 @@ From time to time, we may conduct online surveys to help us better understand an
 ### Information from Other Sources
 
 For reasons such as improving personalization of our service (i.e., providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
-
-### Sharing with Third Parties
-
-In the unlikely event that Rich Dad Coaching, or substantially all of its assets, are acquired or merged with another company, customer information will be one of the transferred assets. Information collected on this Web site from those who have elected to receive offers from business partners of Rich Dad Coaching is made available to such business partners. However, we do not sell your e-mail address. We release account and other personal information when we believe release is appropriate to comply with law or to protect the rights, property, or safety of Rich Dad Coaching, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. We also, from time to time, provide our customer lists to businesses who offer goods or services through direct mail that may be of value to our customers. We do not allow telemarketing of our lists by third parties. The information provided includes; name, address, gender, product(s) purchased and recency of purchase.
 
 ### Links to Other Sites
 
