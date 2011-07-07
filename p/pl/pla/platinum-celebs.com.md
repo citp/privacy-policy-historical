@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platinum-celebs.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606023649id_/http%3A//www.platinum-celebs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinum-celebs.com privacy policy that was archived on 2011-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110707045910id_/http%3A//www.platinum-celebs.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Platinum-Celebs.com
 
@@ -47,6 +47,6 @@ YOUR RIGHTS
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at mr.dee@platinum-celebs.com.
 
   
-[Home - Main Index](http://www.platinum-celebs.com/) | [terms and conditions](https://web.archive.org/web/20110606023649id_/http%3A//www.platinum-celebs.com/terms.php) | privacy policy | [DMCA](https://web.archive.org/web/20110606023649id_/http%3A//www.platinum-celebs.com/dmca.php) | [2257](https://web.archive.org/web/20110606023649id_/http%3A//www.platinum-celebs.com/2257.php)
+[Home - Main Index](http://www.platinum-celebs.com/) | [terms and conditions](https://web.archive.org/web/20110707045910id_/http%3A//www.platinum-celebs.com/terms.php) | privacy policy | [DMCA](https://web.archive.org/web/20110707045910id_/http%3A//www.platinum-celebs.com/dmca.php) | [2257](https://web.archive.org/web/20110707045910id_/http%3A//www.platinum-celebs.com/2257.php)
 
 [](http://www.platinum-celebs.com/)
