@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wepc.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507171723id_/http%3A//wepc.com/General.aspx%3Fpageid%3D148) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wepc.com privacy policy that was archived on 2011-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110708150320id_/http%3A//wepc.com/General.aspx%3Fpageid%3D148) for the most accurate reproduction.*
 
 # WePC
 
