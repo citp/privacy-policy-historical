@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceofsciencepolicy.net privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509213837id_/http%3A//scienceofsciencepolicy.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceofsciencepolicy.net privacy policy that was archived on 2011-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110710005649id_/http%3A//scienceofsciencepolicy.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Science of Science Policy
 
