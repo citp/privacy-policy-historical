@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ew.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628065741id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/ew%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ew.com privacy policy that was archived on 2011-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110709103615id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/ew%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Entertainment Weekly Privacy Policy
 
@@ -70,9 +70,9 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/ew?tmpl=generic_privacy_form_offline&dnp_source=E&referring_url=http://popwatch.ew.com/2010/02/17/james-cameron-avatar-novel/). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/ew?tmpl=generic_privacy_form_offline&dnp_source=E&referring_url=http://www.ew.com/ew/article/0,,189687~4~~ironflag,00.html). |    
   
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/ew?tmpl=generic_privacy_form_online&dnp_source=E&referring_url=http://popwatch.ew.com/2010/02/17/james-cameron-avatar-novel/). 
+If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/ew?tmpl=generic_privacy_form_online&dnp_source=E&referring_url=http://www.ew.com/ew/article/0,,189687~4~~ironflag,00.html). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
