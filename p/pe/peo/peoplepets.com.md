@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peoplepets.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625194131id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/pets%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepets.com privacy policy that was archived on 2011-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110709103630id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/people%3Fdnp_source%3DE) for the most accurate reproduction.*
 
-# People Pets Privacy Policy
+# People Privacy Policy
 
   |  |  |   |    
 **PRIVACY NOTICE** |    
@@ -18,14 +18,14 @@
 * How to Contact Us
 | 
 
-[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/pets?dnp_source=E&tmpl=generic_privacy_new_eu)   
-[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/pets?dnp_source=E&tmpl=generic_privacy_new_caneu)
+[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/people?dnp_source=E&tmpl=generic_privacy_new_eu)   
+[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/people?dnp_source=E&tmpl=generic_privacy_new_caneu)
 
 |    
   
-This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/pets?dnp_source=E&tmpl=generic_privacy_new_eu) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/pets?dnp_source=E&tmpl=generic_privacy_new_caneu). 
+This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/people?dnp_source=E&tmpl=generic_privacy_new_eu) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/people?dnp_source=E&tmpl=generic_privacy_new_caneu). 
 
-Thank you for visiting People Pets, a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice. 
+Thank you for visiting People, a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice. 
 
 |    
   
@@ -70,9 +70,9 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/pets?tmpl=generic_privacy_form_offline&dnp_source=E&referring_url=). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/people?tmpl=generic_privacy_form_offline&dnp_source=E&referring_url=http://www.people.com/people/). |    
   
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/pets?tmpl=generic_privacy_form_online&dnp_source=E&referring_url=). 
+If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/people?tmpl=generic_privacy_form_online&dnp_source=E&referring_url=http://www.people.com/people/). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
@@ -100,7 +100,7 @@ We may also use small pieces of code such as "web beacons" or "clear gifs" to co
 We have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect.  |    
   
 **How You can Access or Correct Information**  
-To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](mailto:privacy@timeinc.customersvc.com).  |    
+To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/wes_email.jsp&MSRSMAG=PE).  |    
   
 **Special Note for Parents**  
 The site you are visiting is one of the Time Inc. general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.  |    
@@ -108,14 +108,14 @@ The site you are visiting is one of the Time Inc. general audience sites and is 
 **Changes to this Notice** This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it and under what circumstances we may disclose it.  |    
   
 **How to Contact Us**  
-If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](mailto:privacy@timeinc.customersvc.com) or at the following address:
+If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/wes_email.jsp&MSRSMAG=PE) or at the following address:
 
 Time Customer Service  
 Attention: Consumer Affairs  
 3000 University Center Drive  
 Tampa, Florida 33612-6408 
 
-[http://www.peoplepets.com](http://www.peoplepets.com/)
+<http://www.people.com/>
 
 | back to top  
 |  This Privacy Notice was revised 1/20/2011.
