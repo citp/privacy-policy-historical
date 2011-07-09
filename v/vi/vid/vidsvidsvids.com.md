@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidsvidsvids.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515070715id_/http%3A//www.vidsvidsvids.com/cimages/legal/privacy.html%3Fsite%3Dvidsvidsvids) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidsvidsvids.com privacy policy that was archived on 2011-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110709171020id_/http%3A//www.vidsvidsvids.com/cimages/legal/privacy.html%3Fsite%3Dvidsvidsvids) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
