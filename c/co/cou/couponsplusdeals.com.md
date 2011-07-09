@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the couponsplusdeals.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510021303id_/http%3A//couponsplusdeals.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsplusdeals.com privacy policy that was archived on 2011-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110710014410id_/http%3A//www.couponsplusdeals.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CouponsPlusDeals.com privacy policy
 
 * * *
 
-**Biharspider.com takes your privacy seriously. Please go through the following to know more about our Privacy Policy**
+**CouponsPlusDeals.com takes your privacy seriously. Please go through the following to know more about our Privacy Policy**
 
-At Biharspider.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting Biharspider.com, you are accepting this privacy policy and our Terms & Conditions.
+At CouponsPlusDeals.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting CouponsPlusDeals.com, you are accepting this privacy policy and our Terms & Conditions.
 
 If you have any questions about this Privacy Policy, please feel free to **[Contact Us](https://web.archive.org/general/ContactUs.aspx)**.
 
  **How do we use the information we gather?**
 
-Biharspider.com is a free community site and we publish almost all information we gather in this site. We do not share or sell your personal information to any third parties . But all personal information you submit as part of your public profile will be publicly accessible in our site, except the email address. We try not to publish your email address to avoid spam, but it is possible that in certain cases your email address may be exposed to public.
+CouponsPlusDeals.com is a free community site and we publish almost all information we gather in this site. We do not share or sell your personal information to any third parties . But all personal information you submit as part of your public profile will be publicly accessible in our site, except the email address. We try not to publish your email address to avoid spam, but it is possible that in certain cases your email address may be exposed to public.
 
  **What kind of information we gather?**
 
@@ -32,16 +32,11 @@ We use advertisements from third party companies. We try to avoid any kind of of
 
  **Business Transfers**
 
-As we continue to develop and grow our web site, we may sell Biharspider.com or part of it. In such transactions, member information generally is one of the transferred business assets. 
+As we continue to develop and grow our web site, we may sell CouponsPlusDeals.com or part of it. In such transactions, member information generally is one of the transferred business assets. 
 
 **Contact Us**
-
-The contact us portion is using our mail id in many sites. This will invite 1000s of spam emails to our webmaster mail id eventually.   
-We should never ever publish our email ids anywhere in the web. The Contact Us portion should be like this for all sites:
 
 If you like to contact the webmaster of this site, please **[contact us](https://web.archive.org/general/ContactUs.aspx)**. We will get back to you as soon as we can.
 
  **SpiderWorks Technologies Pvt Ltd** **  
 Kochi. India**
-
-We would request you please provide us as much information as possible to resolve the issue.
