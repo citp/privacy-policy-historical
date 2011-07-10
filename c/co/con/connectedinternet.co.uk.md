@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectedinternet.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624021818id_/http%3A//www.connectedinternet.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectedinternet.co.uk privacy policy that was archived on 2011-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110711013515id_/http%3A//www.connectedinternet.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# <>Connected Internet
+# Privacy Policy
 
 Connected Internet may from time to time collect names and/or details of website visitors. This may include the mailing list, blog comments sections and in various sections of the Connected Internet site.These details will not be passed onto any other third party or other organisation unless we are required to by government or other law enforcement authority.
 
@@ -17,14 +17,3 @@ We use third-party advertising companies to serve ads when you visit our website
 Connected Internet is suitable for all ages, but not knowingly collect personal information from children under 13 years old.
 
 This policy will be updated from time to time. If we make significant changes to this policy after that time a notice will be posted on the main pages of the website.
-
-  
-
-
-### Read Related Posts
-
-**Tags:** [3](http://www.connectedinternet.co.uk/tag/3/), [av](http://www.connectedinternet.co.uk/tag/av/), [blog](http://www.connectedinternet.co.uk/tag/blog/), [CES](http://www.connectedinternet.co.uk/tag/ces/), [comments](http://www.connectedinternet.co.uk/tag/comments/), [Connected Internet](http://www.connectedinternet.co.uk/tag/connected-internet/), [content](http://www.connectedinternet.co.uk/tag/content/), [domain](http://www.connectedinternet.co.uk/tag/domain/), [ea](http://www.connectedinternet.co.uk/tag/ea/), [ign](http://www.connectedinternet.co.uk/tag/ign/), [IM](http://www.connectedinternet.co.uk/tag/im/), [inter](http://www.connectedinternet.co.uk/tag/inter/), [Internet](http://www.connectedinternet.co.uk/tag/internet/), [ISP](http://www.connectedinternet.co.uk/tag/isp/), [LA](http://www.connectedinternet.co.uk/tag/la/), [MA](http://www.connectedinternet.co.uk/tag/ma/), [ntl](http://www.connectedinternet.co.uk/tag/ntl/), [OS](http://www.connectedinternet.co.uk/tag/os/), [party](http://www.connectedinternet.co.uk/tag/party/), [PDA](http://www.connectedinternet.co.uk/tag/pda/), [Privacy](http://www.connectedinternet.co.uk/tag/privacy/), [Subscribe](http://www.connectedinternet.co.uk/tag/subscribe/), [UK](http://www.connectedinternet.co.uk/tag/uk/), [web](http://www.connectedinternet.co.uk/tag/web/), [website](http://www.connectedinternet.co.uk/tag/website/)
-
-**Next Post:** [Polls Archive](http://www.connectedinternet.co.uk/pollsarchive/) »»
-
-**Prev Post:** [What Is RSS?](http://www.connectedinternet.co.uk/subscribe/) »»
