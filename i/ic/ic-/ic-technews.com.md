@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ic-technews.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521005556id_/http%3A//ic-technews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ic-technews.com privacy policy that was archived on 2011-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110711013303id_/http%3A//ic-technews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - IC Tech News
 
 **IC Tech News: Privacy Policy**
 
@@ -134,5 +134,5 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 We may amend this Privacy Policy at any time by posting the amended terms on the Site.
 
   
-[Next >](http://ic-technews.com/submit-press-release-free)  
----
+[< Prev](http://ic-technews.com/404) |    |  [Next >](http://ic-technews.com/press-release)  
+---|---|---
