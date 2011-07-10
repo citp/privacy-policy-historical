@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctvnews.ca privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622070658id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctvnews.ca privacy policy that was archived on 2011-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110710090338id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
 
 # Bell Media Website Privacy Policy- Bell
 
