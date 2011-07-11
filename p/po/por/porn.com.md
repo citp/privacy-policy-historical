@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porn.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614021754id_/http%3A//www.porn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn.com privacy policy that was archived on 2011-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110711225335id_/http%3A//www.porn.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - PORN.COM The World's Favorite Porn Video XXX DVD Pornstar Sex Tube
 
