@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linxdown.net privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410152718id_/http%3A//www.linxdown.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linxdown.net privacy policy that was archived on 2011-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110711060748id_/http%3A//www.linxdown.net/privacy_policy.html) for the most accurate reproduction.*
 
 # LinxDown.Net Privacy Policy Rapidshare Hotfile Megaupload Mediafire Download Links - LinxDown.Net
 
