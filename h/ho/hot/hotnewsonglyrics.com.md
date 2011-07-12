@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnewsonglyrics.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604221901id_/http%3A//www.hotnewsonglyrics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnewsonglyrics.com privacy policy that was archived on 2011-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110712223356id_/http%3A//www.hotnewsonglyrics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ HotNewSongLyrics.com
 
