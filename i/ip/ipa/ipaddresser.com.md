@@ -46,3 +46,47 @@ Search engines and other sites not affiliated with ipaddresser - including archi
 #### 6\. International Users
 
 By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of ipaddresser we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data. 
+Privacy Policy
+
+IPAddresser.com has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by ipaddresser from time to time. ipaddresser will provide notice of materially significant changes to this privacy policy by posting notice on the ipaddresser site. 
+
+#### 1\. Protecting your privacy
+
+  * We don't share your information with third parties for marketing purposes. 
+  * We don't send you unsolicited communications for marketing purposes. 
+  * ipaddresser does not knowingly collect any information from persons under the age of 13. If ipaddresser learns that a posting is by a person under the age of 13, ipaddresser will remove that post. 
+  * ipaddresser, or people who post on ipaddresser, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited. 
+
+
+
+#### 2\. Data we collect
+
+  * We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, authenticating user accounts, providing subscription email services, registering for forums, etc. 
+  * ipaddresser does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology. 
+  * We may collect personal information if you provide it in feedback or comments, post it on our interactive forums, or if you contact us directly. Please do not post any personal information on ipaddresser's forums or classifieds that you expect to keep private. 
+  * Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the ipaddresser site, and to otherwise provide our service to you. 
+
+
+
+#### 3\. Data we store
+
+  * All postings are stored in our database, even after "deletion," and may be archived elsewhere. 
+  * Our web logs and other records are stored indefinitely. 
+  * Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security. 
+
+
+
+#### 4\. Archiving and display of ipaddresser postings by search engines and other sites
+
+Search engines and other sites not affiliated with ipaddresser - including archive.org, google.com and yahoo.com - archive or otherwise make available postings. 
+
+#### 5\. Circumstances in which ipaddresser may release information
+
+  * IPAddresser.com may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. 
+  * IPAddresser.com may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/terms.php); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of ipaddresser, its users or the general public. 
+
+
+
+#### 6\. International Users
+
+By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of ipaddresser we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data. 
