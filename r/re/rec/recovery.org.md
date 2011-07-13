@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recovery.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229213502id_/http%3A//www.recovery.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recovery.org privacy policy that was archived on 2011-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110713100527id_/http%3A//www.recovery.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Recovery.org – Privacy Policy
 
