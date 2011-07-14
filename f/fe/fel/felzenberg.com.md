@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the felzenberg.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514093842id_/http%3A//www.felzenberg.com/wp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the felzenberg.com privacy policy that was archived on 2011-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110714221041id_/http%3A//www.felzenberg.com/wp/privacy-policy) for the most accurate reproduction.*
 
 # 
 
