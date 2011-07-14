@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronictheatre.co.uk privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514173510id_/http%3A//www.electronictheatre.co.uk/index.php/component/content/article/101-about-us/2024-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronictheatre.co.uk privacy policy that was archived on 2011-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110714110825id_/http%3A//www.electronictheatre.co.uk/index.php/component/content/article/101-about-us/2024-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
