@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankmytattoos.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226174345id_/http%3A//www.rankmytattoos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankmytattoos.com privacy policy that was archived on 2011-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110715154440id_/http%3A//www.rankmytattoos.com/privacy.html) for the most accurate reproduction.*
 
 # RankMyTattoos.com - Privacy Policy
 
