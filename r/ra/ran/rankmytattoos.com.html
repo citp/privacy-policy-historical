@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rankmytattoos.com privacy policy that was archived on 2009-02-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090226174345id_/http%3A//www.rankmytattoos.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rankmytattoos.com privacy policy that was archived on 2011-07-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110715154440id_/http%3A//www.rankmytattoos.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 		<title>
@@ -13,20 +13,17 @@
 		<meta name="keywords" content="Privacy Policy">
 		<meta name="description" content="Privacy Policy At RankMyTattoos.com">
 		<script language="javascript" src="http://www.RankMyTattoos.com/scripts/scripts.js"></script>
-		<link href="http://www.RankMyTattoos.com/css/style.css" type="text/css" rel="stylesheet">
-		<link href="http://www.RankMyTattoos.com/css/ExternalStyle.css" type="text/css" rel="stylesheet"> 
+		<link rel="stylesheet" href="http://www.RankMyTattoos.com/css/css.aspx">
 		
 	</head>
 	<body onbeforeunload="CloseWindow('http://www.RankMyTattoos.com');">
 		<div id="container">
 			<!-- start header top header here -->
 			
-<!-- Start the Top Header  block -->
-
 <!--<script type="text/javascript" src="http://206.207.86.4/LoginJSTest.aspx"></script>-->
 <script type="text/javascript" src="http://www.RankMyTattoos.com/LoginJSTest.aspx"></script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({ publisher:'7de420ba-13f8-4625-9817-e84e6a01a24f'});</script>
 <div id="header">
-
 	<script type="text/javascript"> 
 		/*function stopRKey(evt) 
 		{
@@ -56,39 +53,112 @@
 			history.clear;
 			TopHeader.setLoginStatus();
 		}	
-		//****************************//		
+		//****************************//
+			
+	</script>
+	<script type="text/javascript" language="javascript">
+	function ShowSearch(num)
+	{
+		var radioButtons;	
+		var dvDisplay;
+		var dvHide;
+		var dvDisplayB;
+		var dvHideB;
+		if(num == '1')
+		 {
+			dvdisplay = document.getElementById('dvGoogle');
+			dvdisplay.style.display='Block';
+			dvHide = document.getElementById('dvRankMyTattoo');
+			dvHide.style.display='none';
+			document.getElementById('RadioWeb').checked=true;
+			document.getElementById('RadioTattoo').checked=false;
+			
+			dvdisplayB = document.getElementById('dvGoogleB');
+			dvdisplayB.style.display='Block';
+			dvHideB = document.getElementById('dvRankMyTattooB');
+			dvHideB.style.display='none';
+			document.getElementById('RadioWebB').checked=true;
+			document.getElementById('RadioTattooB').checked=false;
+		 }
+		else
+		{
+			dvdisplay = document.getElementById('dvRankMyTattoo');
+			dvdisplay.style.display='Block';
+			dvHide = document.getElementById('dvGoogle');
+			dvHide.style.display='none';
+			document.getElementById('RadioWeb').checked=false;
+			document.getElementById('RadioTattoo').checked=true;
+			
+			dvdisplayB = document.getElementById('dvRankMyTattooB');
+			dvdisplayB.style.display='Block';
+			dvHideB = document.getElementById('dvGoogleB');
+			dvHideB.style.display='none';
+			document.getElementById('RadioWebB').checked=false;
+			document.getElementById('RadioTattooB').checked=true;
+		}
+	}
+	function change_search_text(a,b)
+	{
+		document.getElementByName(b).value=document.getElementByName(a).value;
+	}
+	/*********** QUICK SEARCH *********/
+function ValidateSearch(form, homeLink)
+{	
+	//alert(form);
+	searchName = document.getElementById('txtSearch');
+	optionName = "T";	
+	alert(homeLink + '/Search.aspx?SearchName=' + searchName.value + '&OptionSearch=' + optionName);
+	/*if (Trim(searchName.value) == "")	
+	{
+		alert('Please enter your search criteria');
+		searchName.focus();
+		return false;
+	}*/	
+	forms.action = homeLink + '/Search.aspx?SearchName=' + searchName.value + '&OptionSearch=' + optionName;
+	alert(forms.action);
+	//document.forms[1].submit();
+	document.forms["SearchForm"].submit();
+	//forms.submit();
+}
+/*********** LOGIN *********/
 	</script>
 	<div id="search">
-		<form id="SearchForm" onsubmit="javascript:return ValidateSearch(this, 'http://www.RankMyTattoos.com');" action="" method="post">
-			<p class="search_input"><input class="search_input" id="txtSearch" type="text" name="txtSearch">
-				<input class="search_btn" type="image" src="http://www.RankMyTattoos.com/images/search.jpg" value="SEARCH" name="search">
-				</p>
-			<p class="search_options"><input class="inputstyle" id="RadioWeb" type="radio" value="W" name="OptionSearch"><span>Web 
-					Search</span> <input class="inputstyle" id="RadioTattoo" type="radio" checked="" value="R" name="OptionSearch"><span>RankMyTattoos.com</span>
-			</p>
-		</form>
+		<div id="dvGoogle" style="DISPLAY: none;width:90%;margin-left:auto;margin-right:auto;">
+			<form action="http://www.RankMyTattoos.com/results.html" id="cse-search-box">
+				<input type="hidden" name="cx" value="partner-pub-4524097030401539:49qz5e-j4bc">
+				<input type="hidden" name="cof" value="FORID:10"> <input type="hidden" name="ie" value="ISO-8859-1">
+				<input class="search_input" type="text" name="q" size="31" onblur="change_search_text('q','txtSearch');">
+				<input class="search_btn" type="image" src="http://www.RankMyTattoos.com/css/search.png" name="sa" value="Search">
+			</form>
+			<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+		</div>
+		<div id="dvRankMyTattoo" style="DISPLAY: block;width:90%;margin-left:auto;margin-right:auto;">
+			<form action="http://www.RankMyTattoos.com/results-internal.html" id="cse-search-box">
+				<input type="hidden" name="cx" value="partner-pub-4524097030401539:9qe8js-wq2f">
+				<input type="hidden" name="cof" value="FORID:10"> <input type="hidden" name="ie" value="ISO-8859-1">
+				<input class="search_input" type="text" name="q" size="31" onblur="change_search_text('q','txtSearch');">
+				<input class="search_btn" type="image" src="http://www.RankMyTattoos.com/css/search.png" name="sa" value="Search">
+			</form>
+			<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+		</div>
+		<p class="search_options"><input class="inputstyle" id="RadioWeb" type="radio" value="W" name="OptionSearch" onclick="javascript:ShowSearch('1');"><span>Web 
+				Search</span> <input class="inputstyle" id="RadioTattoo" type="radio" checked="" value="R" name="OptionSearch" onclick="javascript:ShowSearch('2');"><span>RankMyTattoos.com</span><span>&nbsp;&nbsp;Follow us:</span><span class="st_facebook"></span><span class="st_twitter"></span>
+		</p>
 	</div>
 	<div id="logo"><a href="http://www.RankMyTattoos.com/">RankMyTattoos.com</a>
 	</div>
 	<!-- End the Top Header  block --></div>
-
-
-
-
-
-
-
 
 			
 <!-- Start the Top Menu  block -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
-  GS_googleAddAdSenseService("ca-pub-9475498054882299");  
+    GS_googleAddAdSenseService("ca-pub-9475498054882299");  
   GS_googleEnableAllServices();  
 </script>
 <script type="text/javascript">
-GA_googleAddSlot("ca-pub-9475498054882299", "RMT_PopUnder1x1");
+    GA_googleAddSlot("ca-pub-9475498054882299", "RMT_PopUnder1x1");
 </script>
 <script type="text/javascript">
   GA_googleFetchAds();
@@ -105,7 +175,7 @@ GA_googleAddSlot("ca-pub-9475498054882299", "RMT_728x90_Bottom");
 <div id="nav">
 	<div id="nav_links">
 		<ul>
-			<li class="sel"><a class="sel" href="http://www.RankMyTattoos.com/"><span>Home</span></a></li><li><a href="http://www.RankMyTattoos.com/advanced-search.html" rel="nofollow"><span>Search</span></a></li><li><a href="http://www.RankMyTattoos.com/browse.html"><span>Browse</span></a></li><li><a href="http://www.RankMyTattoos.com/view-random.html"><span>Rate My</span></a></li><li><a href="http://www.RankMyTattoos.com/directory.html"><span>Studios</span></a></li><li><a href="http://mag.rankmytattoos.com/"><span>Magazine</span></a></li><li><a href="http://www.RankMyTattoos.com/promote-your-profile.html" rel="nofollow"><span>Invite</span></a></li><li><a href="http://www.RankMyTattoos.com/groups.html"><span>Groups</span></a></li><li><a href="http://www.RankMyTattoos.com/tattoos/"><span>Tattoos</span></a></li><li><a href="http://www.RankMyTattoos.com/piercings/"><span>Piercings</span></a></li><li><a href="http://www.RankMyTattoos.com/get-recognized.html" rel="nofollow"><span>Sell Designs</span></a></li><li><a href="http://www.RankMyTattoos.com/whats-new.html"><span>Just Added</span></a></li>
+			<li class="sel"><a class="sel" href="http://www.RankMyTattoos.com/"><span>Home</span></a></li><li><a href="http://www.RankMyTattoos.com/advanced-search.html" rel="nofollow"><span>Search</span></a></li><li><a href="http://www.RankMyTattoos.com/browse.html"><span>Browse</span></a></li><li><a href="http://www.RankMyTattoos.com/view-random.html"><span>Rate My</span></a></li><li><a href="http://www.RankMyTattoos.com/directory.html"><span>Studios</span></a></li><li><a href="http://mag.rankmytattoos.com/"><span>Magazine</span></a></li><li><a href="http://www.RankMyTattoos.com/promote-your-profile.html" rel="nofollow"><span>Invite</span></a></li><li><a href="http://www.RankMyTattoos.com/groups.html"><span>Groups</span></a></li><li><a href="http://www.RankMyTattoos.com/tattoos/"><span>Tattoos</span></a></li><li><a href="http://www.RankMyTattoos.com/piercings/"><span>Piercings</span></a></li><li><a href="http://shop.rankmytattoos.com/" rel="nofollow"><span>Buy Designs</span></a></li><li><a href="http://www.RankMyTattoos.com/whats-new.html"><span>Just Added</span></a></li>
 		</ul>
 	</div>
 	<div id="header_ad">
@@ -128,8 +198,9 @@ GA_googleAddSlot("ca-pub-9475498054882299", "RMT_728x90_Bottom");
   GA_googleFillSlot("RMT_728x15");
 </script>
 </div> 
-<link href="http://www.RankMyTattoos.com/css/feedback.css" media="all" rel="Stylesheet" type="text/css">
 <script src="http://www.RankMyTattoos.com/scripts/feedback.js" type="text/javascript"></script>
+
+
 <script type="text/javascript" charset="utf-8">
   var tab_options = {};
   GSFN.feedback('http://www.rankmytattoos.com/membership-types.html', tab_options);
@@ -138,7 +209,7 @@ GA_googleAddSlot("ca-pub-9475498054882299", "RMT_728x90_Bottom");
 
 			<!-- Body start -->
 			<form name="Form1" method="post" action="PageVariableContent.aspx?action=&amp;levels=0&amp;url=privacy.html" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTMxNzI2NjU2Njt0PDtsPGk8MT47PjtsPHQ8O2w8aTwwPjs+O2w8dDxwPHA8bDxUZXh0O1Zpc2libGU7PjtsPFw8dWxcPlw8bGlcPlw8YSBjbGFzcz0iaGlkZSIgaHJlZj0naHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zLydcPlRhdHRvb3NcPC9hXD5cPCFbaWYgbHRlIElFIDZdXD5cPGEgY2xhc3M9InN1YiIgaHJlZj0naHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zLydcPlRhdHRvb3NcPHRhYmxlXD5cPHRyXD5cPHRkXD5cPCFbZW5kaWZdXD5cPHVsXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL3RhdHRvby1yZW1vdmFsLyJcPlRhdHRvbyBSZW1vdmFsXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvY2VsdGljLXRhdHRvb3MvIlw+Q2VsdGljIFRhdHRvb3NcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy9hbmltYWwtYW5kLWNoYXJtLXRhdHRvb3MvIlw+QW5pbWFsIGFuZCBDaGFybSBUYXR0b29zXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvbXl0aGljYWwtdGF0dG9vcy8iXD5NeXRoaWNhbCBUYXR0b29zXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvYm9keS1hcnQvIlw+Qm9keSBBcnRcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy9jdWx0dXJhbC10YXR0b29zLyJcPkN1bHR1cmFsIFRhdHRvb3NcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy9zcGVjaWZpYy1ib2R5LWFyZWFzLyJcPlNwZWNpZmljIEJvZHkgQXJlYXNcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy9yZWxpZ2lvdXMtdGF0dG9vcy8iXD5SZWxpZ2lvdXMgVGF0dG9vc1w8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL3RhdHRvb3MtcmV2ZWFsZWQvIlw+VGF0dG9vcyBSZXZlYWxlZFw8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL2JyYW5kcy1zcG9ydHMtYW5kLXRoZW1lcy8iXD5CcmFuZHMsIFNwb3J0cywgYW5kIFRoZW1lc1w8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL3RlbXBvcmFyeS10YXR0b29zLyJcPlRlbXBvcmFyeSBUYXR0b29zXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvbmF0dXJlLWZsb3dlci10YXR0b29zLyJcPk5hdHVyZSAvIEZsb3dlciBUYXR0b29zXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvdGF0dG9vLWFydC8iXD5UYXR0b28gQXJ0XDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvdHJpYmFsLXRhdHRvb3MvIlw+VHJpYmFsIFRhdHRvb3NcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy95b3VyLXRhdHRvby1kZXNpZ24vIlw+WW91ciBUYXR0b28gRGVzaWduXDwvYVw+XDwvbGlcPlw8L3VsXD5cPCFbaWYgbHRlIElFIDZdXD5cPC90ZFw+XDwvdHJcPlw8L3RhYmxlXD5cPC9hXD5cPCFbZW5kaWZdXD5cPC9saVw+XDwvdWxcPlw8dWxcPlw8bGlcPlw8YSBjbGFzcz0iaGlkZSIgaHJlZj0naHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS9waWVyY2luZ3MvYm9keS1qZXdlbHJ5LydcPlBpZXJjaW5nc1w8L2FcPlw8IVtpZiBsdGUgSUUgNl1cPlw8YSBjbGFzcz0ic3ViIiBocmVmPSdodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3BpZXJjaW5ncy9ib2R5LWpld2VscnkvJ1w+UGllcmNpbmdzXDx0YWJsZVw+XDx0clw+XDx0ZFw+XDwhW2VuZGlmXVw+XDx1bFw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vcGllcmNpbmdzL2JvZHktamV3ZWxyeS93aG9sZXNhbGUtYm9keS1qZXdlbHJ5LXEtYW5kLWEvIlw+V2hvbGVzYWxlIEJvZHkgSmV3ZWxyeSBRIGFuZCBBXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3BpZXJjaW5ncy9ib2R5LWpld2VscnkvYm9keS1qZXdlbHJ5LW1hbnVmYWN0dXJlcnMvIlw+Qm9keSBKZXdlbHJ5IE1hbnVmYWN0dXJlcnNcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vcGllcmNpbmdzL2JvZHktamV3ZWxyeS9kaXNwbGF5aW5nLWJvZHktamV3ZWxyeS8iXD5EaXNwbGF5aW5nIEJvZHkgSmV3ZWxyeVw8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS9waWVyY2luZ3MvYm9keS1qZXdlbHJ5L2JvZHktcGllcmNpbmctamV3ZWxyeS8iXD5Cb2R5IFBpZXJjaW5nIEpld2VscnlcPC9hXD5cPC9saVw+XDwvdWxcPlw8IVtpZiBsdGUgSUUgNl1cPlw8L3RkXD5cPC90clw+XDwvdGFibGVcPlw8L2FcPlw8IVtlbmRpZl1cPlw8L2xpXD5cPC91bFw+O288Zj47Pj47Pjs7Pjs+Pjs+Pjs+uq5BtSSr81dxj/ROjHaGB44xwgY=">
+<input type="hidden" name="__VIEWSTATE" value="dDwyMDUwNjQzNjg3O3Q8O2w8aTwxPjs+O2w8dDw7bDxpPDA+Oz47bDx0PHA8cDxsPFRleHQ7VmlzaWJsZTs+O2w8XDx1bFw+XDxsaVw+XDxhIGNsYXNzPSJoaWRlIiBocmVmPSdodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvJ1w+VGF0dG9vc1w8L2FcPlw8IVtpZiBsdGUgSUUgNl1cPlw8YSBjbGFzcz0ic3ViIiBocmVmPSdodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvJ1w+VGF0dG9vc1w8dGFibGVcPlw8dHJcPlw8dGRcPlw8IVtlbmRpZl1cPlw8dWxcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvdGF0dG9vLXJlbW92YWwvIlw+VGF0dG9vIFJlbW92YWxcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy9jZWx0aWMtdGF0dG9vcy8iXD5DZWx0aWMgVGF0dG9vc1w8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL2FuaW1hbC1hbmQtY2hhcm0tdGF0dG9vcy8iXD5BbmltYWwgYW5kIENoYXJtIFRhdHRvb3NcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy9teXRoaWNhbC10YXR0b29zLyJcPk15dGhpY2FsIFRhdHRvb3NcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy9ib2R5LWFydC8iXD5Cb2R5IEFydFw8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL2N1bHR1cmFsLXRhdHRvb3MvIlw+Q3VsdHVyYWwgVGF0dG9vc1w8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL3NwZWNpZmljLWJvZHktYXJlYXMvIlw+U3BlY2lmaWMgQm9keSBBcmVhc1w8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL3RhdHRvb3MvdGF0dG9vc3RhbXAvIlw+VGF0dG9vIFN0YW1wXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MvcmVsaWdpb3VzLXRhdHRvb3MvIlw+UmVsaWdpb3VzIFRhdHRvb3NcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy90YXR0b29zLXJldmVhbGVkLyJcPlRhdHRvb3MgUmV2ZWFsZWRcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy9icmFuZHMtc3BvcnRzLWFuZC10aGVtZXMvIlw+QnJhbmRzLCBTcG9ydHMsIGFuZCBUaGVtZXNcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vdGF0dG9vcy90ZW1wb3JhcnktdGF0dG9vcy8iXD5UZW1wb3JhcnkgVGF0dG9vc1w8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL25hdHVyZS1mbG93ZXItdGF0dG9vcy8iXD5OYXR1cmUgLyBGbG93ZXIgVGF0dG9vc1w8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL3RhdHRvby1hcnQvIlw+VGF0dG9vIEFydFw8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS90YXR0b29zL3RyaWJhbC10YXR0b29zLyJcPlRyaWJhbCBUYXR0b29zXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3RhdHRvb3MveW91ci10YXR0b28tZGVzaWduLyJcPllvdXIgVGF0dG9vIERlc2lnblw8L2FcPlw8L2xpXD5cPC91bFw+XDwhW2lmIGx0ZSBJRSA2XVw+XDwvdGRcPlw8L3RyXD5cPC90YWJsZVw+XDwvYVw+XDwhW2VuZGlmXVw+XDwvbGlcPlw8L3VsXD5cPHVsXD5cPGxpXD5cPGEgY2xhc3M9ImhpZGUiIGhyZWY9J2h0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vcGllcmNpbmdzL2JvZHktamV3ZWxyeS8nXD5QaWVyY2luZ3NcPC9hXD5cPCFbaWYgbHRlIElFIDZdXD5cPGEgY2xhc3M9InN1YiIgaHJlZj0naHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS9waWVyY2luZ3MvYm9keS1qZXdlbHJ5LydcPlBpZXJjaW5nc1w8dGFibGVcPlw8dHJcPlw8dGRcPlw8IVtlbmRpZl1cPlw8dWxcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3BpZXJjaW5ncy9ib2R5LWpld2Vscnkvd2hvbGVzYWxlLWJvZHktamV3ZWxyeS1xLWFuZC1hLyJcPldob2xlc2FsZSBCb2R5IEpld2VscnkgUSBhbmQgQVw8L2FcPlw8L2xpXD5cPGxpXD5cPGEgaHJlZj0iaHR0cDovL3d3dy5SYW5rTXlUYXR0b29zLmNvbS9waWVyY2luZ3MvYm9keS1qZXdlbHJ5L2JvZHktamV3ZWxyeS1tYW51ZmFjdHVyZXJzLyJcPkJvZHkgSmV3ZWxyeSBNYW51ZmFjdHVyZXJzXDwvYVw+XDwvbGlcPlw8bGlcPlw8YSBocmVmPSJodHRwOi8vd3d3LlJhbmtNeVRhdHRvb3MuY29tL3BpZXJjaW5ncy9ib2R5LWpld2VscnkvZGlzcGxheWluZy1ib2R5LWpld2VscnkvIlw+RGlzcGxheWluZyBCb2R5IEpld2VscnlcPC9hXD5cPC9saVw+XDxsaVw+XDxhIGhyZWY9Imh0dHA6Ly93d3cuUmFua015VGF0dG9vcy5jb20vcGllcmNpbmdzL2JvZHktamV3ZWxyeS9ib2R5LXBpZXJjaW5nLWpld2VscnkvIlw+Qm9keSBQaWVyY2luZyBKZXdlbHJ5XDwvYVw+XDwvbGlcPlw8L3VsXD5cPCFbaWYgbHRlIElFIDZdXD5cPC90ZFw+XDwvdHJcPlw8L3RhYmxlXD5cPC9hXD5cPCFbZW5kaWZdXD5cPC9saVw+XDwvdWxcPjtvPGY+Oz4+Oz47Oz47Pj47Pj47Pq7+PeDHNUE865+XZdn9y7EGIVrE">
 	<script type="text/javascript" src="/ajax/common.ashx"></script>
 
 	<script type="text/javascript" src="/ajax/RankMyTattoos.TopHeader,RankMyTattoos.ashx"></script>
@@ -165,58 +236,85 @@ GA_googleAddSlot("ca-pub-9475498054882299", "RMT_728x90_Bottom");
 			</div>
 			</div></form>
 			
-
+<div class="subfooter">
+	<div class="sub-search">
+		<div id="search">
+			<div class="sub-search-top">
+				Find tattoos, members and shops. Enter a keyword or phrase below!
+			</div>
+			<div id="dvGoogleB" style="DISPLAY: none">
+				<form action="http://www.RankMyTattoos.com/results.html" id="cse-search-box">
+					<input type="hidden" name="cx" value="partner-pub-4524097030401539:49qz5e-j4bc">
+					<input type="hidden" name="cof" value="FORID:10"> <input type="hidden" name="ie" value="ISO-8859-1">
+					<input class="search_input" type="text" name="q" size="31" onblur="change_search_text('q','txtSearch');">
+					<input class="search_btn" type="image" src="http://www.RankMyTattoos.com/images/search.png" name="sa" value="Search">
+				</form>
+			</div>
+			<div id="dvRankMyTattooB" style="DISPLAY: block">
+				<form action="http://www.RankMyTattoos.com/results-internal.html" id="cse-search-box">
+					<input type="hidden" name="cx" value="partner-pub-4524097030401539:9qe8js-wq2f">
+					<input type="hidden" name="cof" value="FORID:10"> <input type="hidden" name="ie" value="ISO-8859-1">
+					<input class="search_input" type="text" name="q" size="31" onblur="change_search_text('q','txtSearch');">
+					<input class="search_btn" type="image" src="http://www.RankMyTattoos.com/images/search.png" name="sa" value="Search">
+				</form>
+			</div>
+			<div class="search_options">
+				<input class="inputstyle" id="RadioWebB" type="radio" value="WB" name="OptionSearchB" onclick="javascript:ShowSearch('1');">
+				<span>Web Search</span> <input class="inputstyle" id="RadioTattooB" type="radio" checked="" value="RB" name="OptionSearchB" onclick="javascript:ShowSearch('2');"> <span>RankMyTattoos.com</span>
+			</div>
+		</div>
+	</div>
+	<div class="sub-left">
+		<a href="http://www.RankMyTattoos.com/membership-types.html"><img src="http://www.RankMyTattoos.com/images/join-rmt-sub.gif" alt="Join RankMyTattoos.com"></a></div>
+</div>
 <div id="footer">
-<br>
-<script type="text/javascript">   GA_googleFillSlot("RMT_728x90_Bottom");  </script>
-<br>
-	<div id="foot1">	
+	<br>
+	<!--iframe src="http://banners.getiton.com/piclist?pid=g1243614-pct.subRMT&amp;display=gio_flash_01&amp;grid=5x1&amp;textsearch=tattoos tattoo tattooed piercing piercings&amp;use_flash=1&amp;no_fakevid=1&amp;photo=2&amp;banner_title=Find%20Hot%20Tattooed%20Singles%20in%20%5BLOC%5D%20Ready%20to%20Hook%20Up%20Today%21&amp;text_color=%23000000&amp;link_color=%23D2020C&amp;background_color=%23F3F3F3&amp;border_color=%23DDDDDD&amp;overlay_color=%23D2020C&amp;overlay_text_color=%23FFFFFF&amp;photo_frame_color=%23D2020C&amp;photo_frame_text_color=%23FFFFFF&amp;thumb=portrait&amp;iframe=1&amp;site=getiton&amp;models=1"
+		width="730" height="270" frameborder="0" marginheight="0" marginwidth="0" align="middle"
+		scrolling="no"></iframe-->
+	<!--%=strAdvertisement%-->
+	<br>
+	<div id="foot1">
 		<p><a href="http://www.RankMyTattoos.com/United_States/">State Site Map</a> | <a href="http://www.RankMyTattoos.com/city-sitemap.html">
 				City Site Map</a> | <a href="http://www.RankMyTattoos.com/picture-gallery/">Tattoo Gallery of 
-				Designs</a> |
-			
-			<a href="http://www.RankMyTattoos.com/best-tattoo-pictures.html">Top Tattoos</a> | <a href="http://www.RankMyTattoos.com/promote-your-profile.html">
-				Promote Your Profile</a></p>
+				Designs</a> | <a href="http://www.RankMyTattoos.com/best-tattoo-pictures.html">Top Tattoos</a>
+			| <a href="http://www.RankMyTattoos.com/promote-your-profile.html">Promote Your Profile</a></p>
 		<p><a href="http://www.RankMyTattoos.com/privacy.html" rel="nofollow">Privacy Policy</a> | <a href="http://www.RankMyTattoos.com/use-and-terms.html" rel="nofollow">
-				Acceptable Use Policy</a>  | <a href="http://www.RankMyTattoos.com/contact-us.html" rel="nofollow">
-				Contact Us</a> | <a href="http://mag.rankmytattoos.com/advertise-here.html" rel="nofollow"><font color="red">Advertise</font></a> </p>
+				Acceptable Use Policy</a> | <a href="http://www.RankMyTattoos.com/contact-us.html" rel="nofollow">
+				Contact Us</a> | <a href="http://mag.rankmytattoos.com/advertise-here.html" rel="nofollow"><font color="red">
+					Advertise</font></a>
+		</p>
 	</div>
 	<div id="foot2">
 		<p><a href="http://www.RankMyTattoos.com/">Home</a> | <a href="http://www.RankMyTattoos.com/advanced-search.html" rel="nofollow">
 				Search</a> | <a href="http://www.RankMyTattoos.com/browse.html">Browse</a> | <a href="http://www.RankMyTattoos.com/view-random.html">
 				Ranking</a> | <a href="http://www.RankMyTattoos.com/directory.html">Directory</a> | <a href="http://mag.rankmytattoos.com/">
-				Magazine</a> | <a href="http://www.RankMyTattoos.com/promote-your-profile.html" rel="nofollow">Invite</a>
-			| <a href="http://www.RankMyTattoos.com/groups.html">Groups</a> | <a href="http://www.RankMyTattoos.com/tattoos/">
-				Tattoos</a> | <a href="http://www.RankMyTattoos.com/piercings/">Piercings</a> | <a href="http://www.RankMyTattoos.com/get-recognized.html">
-				Artist Resource</a> | <a href="http://www.RankMyTattoos.com/whats-new.html">New Members</a>
-			| <a href="http://www.RankMyTattoos.com/view-tattoos.html">Tattoos Pictures</a> | <a href="http://www.RankMyTattoos.com/view-piercings.html">
-				Piercing Pictures</a> | <a href="http://www.RankMyTattoos.com/United_States/">Rate Tattoos 
-				Near You</a> | <a href="http://www.RankMyTattoos.com/view-random.html">Random</a>
+				Magazine</a> |
+			
+			<a href="http://www.RankMyTattoos.com/promote-your-profile.html" rel="nofollow">Invite</a> | <a href="http://www.RankMyTattoos.com/groups.html">
+				Groups</a> | <a href="http://www.RankMyTattoos.com/tattoos/">Tattoos</a> | <a href="http://www.RankMyTattoos.com/piercings/">
+				Piercings</a> | <a href="http://www.RankMyTattoos.com/get-recognized.html">Artist Resource</a>
+			| <a href="http://www.RankMyTattoos.com/whats-new.html">New Members</a> | <a href="http://www.RankMyTattoos.com/view-tattoos.html">
+				Tattoos Pictures</a> | <a href="http://www.RankMyTattoos.com/view-piercings.html">Piercing 
+				Pictures</a> | <a href="http://www.RankMyTattoos.com/United_States/">Rate Tattoos Near You</a>
+			| <a href="http://www.RankMyTattoos.com/view-random.html">Random</a>
 		</p>
-		<p>Copyright © 2003 - 2009 RankMyTattoos.com. All Rights Reserved.</p>
+		<p>Copyright © 2003 -
+			2011
+			RankMyTattoos.com. All Rights Reserved.</p>
 	</div>
-	
-     
-
 </div>
-
-<br><br>
-
+<br>
+<br>
 <!-- Start Quantcast tag -->
-
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-
 <script type="text/javascript">_qacct="p-94i5cPyVlAb0g";quantserve();</script>
-
 <noscript>
-
-<a href="http://www.quantcast.com/p-94i5cPyVlAb0g" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94i5cPyVlAb0g.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-
+	<a href="http://www.quantcast.com/p-94i5cPyVlAb0g" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94i5cPyVlAb0g.gif" style="DISPLAY: none"
+			border="0" height="1" width="1" alt="Quantcast"></a>
 </noscript>
-
 <!-- End Quantcast tag -->
 
-<script type="text/javascript" src="http://rankmytattoos.us.intellitxt.com/intellitxt/front.asp?ipid=7590"></script>
 
 <!--Add New google analytics Code-->
 <script type="text/javascript">
@@ -240,9 +338,8 @@ pageTracker._setDomainName("rankmytattoos.com");
 <!--End google analytics Code-->
 <!--Commented by Anil To Resolve  Invalid character Issue shown on index and other pages-->
 
-<br><br>
-
-
+<br>
+<br>
 
 
 		
