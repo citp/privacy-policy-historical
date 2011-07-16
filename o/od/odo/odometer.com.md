@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513204936id_/http%3A//www.odometer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2011-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110716083400id_/http%3A//www.odometer.com/privacy.html) for the most accurate reproduction.*
 
 # Odometer.com | Privacy Policy
 
@@ -53,3 +53,7 @@ This privacy policy is subject to change at any time, and any modifications will
 * Contacting us and Access to Personal Information
 
 If you have questions regarding anything listed in the privacy policy, privacy practices of Odometer or to utilize the rights granted here, please use the contact form to contact us. Through a written request, Odometer will discuss the disclosure and use, as well as grant access to your personal information.
+
+* Unsubscribing from Odometer
+
+You may opt out of all future mailings and notifications from Odometer by visiting http://www.odometer.com/unsubscribe.html at any time.
