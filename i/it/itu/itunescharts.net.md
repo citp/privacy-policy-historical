@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itunescharts.net privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303235240id_/http%3A//www.itunescharts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itunescharts.net privacy policy that was archived on 2011-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110717141538id_/http%3A//www.itunescharts.net/privacy-policy) for the most accurate reproduction.*
 
 # iTunesCharts.net: About this site
 
