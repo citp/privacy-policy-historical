@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptbai.in privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518110604id_/http%3A//www.ptbai.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptbai.in privacy policy that was archived on 2011-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110718015619id_/http%3A//www.ptbai.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Follow India
 
