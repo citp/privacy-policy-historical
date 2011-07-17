@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plemix.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605130012id_/http%3A//www.plemix.com/help.php%23A_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plemix.com privacy policy that was archived on 2011-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110717172729id_/http%3A//www.plemix.com/help.php%23A_privacy) for the most accurate reproduction.*
 
 # Plemix.com - Help Center
 
@@ -57,11 +57,11 @@ Your order will be shipped usually within 1 - 2 days after payment received.
  12\. Can I track my order?  
 Yes you can. After you have placed an order at plemix.com, we will email you the order detail and order status. You may also check the order status and details online.
 
-Simply login to plemix.com, and go to your [Buying History](https://web.archive.org/web/20110605130012id_/http%3A//www.plemix.com/history.php), all of your previous orders will be shown on the page. You are able to review the details of each order, the price, the item and the order status.
+Simply login to plemix.com, and go to your [Buying History](https://web.archive.org/web/20110717172729id_/http%3A//www.plemix.com/history.php), all of your previous orders will be shown on the page. You are able to review the details of each order, the price, the item and the order status.
 
 We will keep you updated on your orders. Every time when the status of your order has been updated, you will be notified by email from our customer service representatives.
 
-If your order has been shipped, we will email you the tracking number. You may also find the tracking number online in the [Buying History](https://web.archive.org/web/20110605130012id_/http%3A//www.plemix.com/history.php) together with the respecting shipping partner. Click on the name of the shipping partner (e.g. Fedex), it will then lead you to their online tracking page. Input the tracking number to get the most updated information of your package.
+If your order has been shipped, we will email you the tracking number. You may also find the tracking number online in the [Buying History](https://web.archive.org/web/20110717172729id_/http%3A//www.plemix.com/history.php) together with the respecting shipping partner. Click on the name of the shipping partner (e.g. Fedex), it will then lead you to their online tracking page. Input the tracking number to get the most updated information of your package.
 
  13\. What forms of payment do you accept?  
 We do currently accept a number of payment methods. Please refer to payment accept sections.
@@ -69,7 +69,7 @@ We do currently accept a number of payment methods. Please refer to payment acce
  14\. Why do I need the Credit Card authorization form?  
 For security reason, we will randomly select orders requesting additional verification information. We will then send out the Credit Card authorization form for our customers to fill in. This will help speeding up the credit card approval process and to ensure your purchase will be delivered on time.
 
-** If you have any questions, please contact [sales@plemix.com](mailto:sales@plemix.com) or go to[ Contact us ](https://web.archive.org/web/20110605130012id_/http%3A//www.plemix.com/contactus.php)section.  
+** If you have any questions, please contact [sales@plemix.com](mailto:sales@plemix.com) or go to[ Contact us ](https://web.archive.org/web/20110717172729id_/http%3A//www.plemix.com/contactus.php)section.  
   
 ---  
 < back to Top >  
@@ -131,7 +131,7 @@ Please include the following information when returning an item:
   
 Note: Plemix will not be responsible for returned packages if lost by your mailing service. Also note that shipping fees and insurance are NON-Refundable. In certain cases, there might be other miscellaneous fees pertaining to your order which are also non-fundable.
 
-** If you have any questions, please contact at [**sales@plemix.com**](mailto:sales@plemix.com) or go to [**Contact us**](https://web.archive.org/web/20110605130012id_/http%3A//www.plemix.com/contactus.php) section.   
+** If you have any questions, please contact at [**sales@plemix.com**](mailto:sales@plemix.com) or go to [**Contact us**](https://web.archive.org/web/20110717172729id_/http%3A//www.plemix.com/contactus.php) section.   
   
 ---  
 < back to Top >  
@@ -210,7 +210,7 @@ If we materially change our privacy policy, we will post those changes to this p
 
 [](javascript:void\(0\))
 
-[](https://web.archive.org/web/20110605130012id_/http%3A//www.plemix.com/promotion.php)
+[](https://web.archive.org/web/20110717172729id_/http%3A//www.plemix.com/promotion.php)
 
 [](http://www.new.facebook.com/plemix)
 
