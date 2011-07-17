@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximumspeedfind.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517213643id_/http%3A//maximumspeedfind.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximumspeedfind.com privacy policy that was archived on 2011-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110717233215id_/http%3A//maximumspeedfind.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Maximumspeedfind.com- Privacy Policy
 
