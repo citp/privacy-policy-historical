@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapistmagazine.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801063606id_/http%3A//www.themis-media.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapistmagazine.com privacy policy that was archived on 2011-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110717035805id_/http%3A//www.themis-media.com/content/privacy) for the most accurate reproduction.*
 
 # Themis Media : Privacy Policy
 
@@ -52,6 +52,8 @@ Third parties with whom our partners share aggregate anonymous information.
 Advertising agencies, consultants, and market research companies pursuant to confidentiality agreements. These companies may use your personal information to help Themis Media communicate with you. However, these companies do not have any independent right to share this information.
 
 Law enforcement, other government officials or third parties to comply with applicable law or legal process or to protect the personal safety of our users or the public, or if a user violates Themis Media's terms of service. 
+
+Entities that are not affiliated with Themis Media, such as Gaikai (collectively, "Providers") may provide certain products and/or services (e.g., the Gaikai Service) on behalf of Themis Media. Themis Media may disclose and/or share with Gaikai (as a Provider) certain data and other information regarding visitors' usage of Themis Media properties (collective, "Usage Data"), and/or regarding the individuals who access and use the Gaikai Service and the Licensed Content by means of Themis Media properties, and may allow Gaikai (as a Provider) to collect and use certain Usage Data and other information regarding such individuals, their respective computer system configurations and performance characteristics, and their use of the Gaikai Service and the Licensed Content. Such information may include information that is not personally identifiable (e.g., computer CPU, graphics card, stability of Internet connectivity, latency, etc.), and may also include personally identifiable information regarding such individuals (e.g., email addresses, etc.) and/or information that some jurisdictions consider to be personally identifiable information, such as an IP address. Gaikai's collection, retention and use of any and all such information shall be subject to Gaikai's corporate privacy policy, as posted on <http://www.gaikai.com/privacy>, which policy may be amended by Gaikai from time to time, at its sole discretion.
 
 ## How You Can Delete, Update or Correct Your Personal Information
 
