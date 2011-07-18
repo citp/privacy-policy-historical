@@ -1,51 +1,61 @@
-> *The following text is extracted and transformed from the jayinslee.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805183639id_/http%3A//www.jayinslee.com/index.php%3Fpage%3Ddisplay%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayinslee.com privacy policy that was archived on 2011-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110718071753id_/http%3A//wfc2.wiredforchange.com/o/8846/p/salsa/web/common/public/content%3Fcontent_item_KEY%3D10979) for the most accurate reproduction.*
 
-# Jayinslee - Privacy Policy
+# Jay Inslee for Governor - Building a Working Washington
 
-Jay Inslee has been a dedicated advocate of privacy and online security. This privacy policy reflects that commitment. Our privacy policy explains: 
+The Jay Inslee for Washington campaign is committed to protecting your privacy. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide. This Privacy Statement applies to data collection and usage on JayInslee.com; it does not apply to other websites.
 
-  1. How we use the information you provide 
-  2. How we store and protect your information
-  3. How to contact us, unsubscribe from mailing lists, opt out, or correct information 
-  4. Related Security Issues 
+Personal information of all users is collected, used and disclosed as described in this Privacy Statement. Other websites linked to JayInslee.com have their own privacy statements which can be viewed by clicking on the links.
 
+## Collection of your Personal Information
 
+When you sign up on JayInslee.com, we may ask for your name, address, telephone number, email address, and other information. We use the information you provide to send you the latest news and updates from Jay Inslee and his campaign. We work closely with Democratic candidates, parties and allied organizations and may share some basic contact information with them, and they may contact you.
 
-  
-**How we use the information you provide :**
+When you sign one of our petitions: We treat your name, city, state, and any comments as public information. We may, for example, provide compilations of petitions, with your comments, to national leaders, without disclosing email addresses. We may also make comments along with your city and state available to the press and public online.
 
-When you register on JayInslee.com, we will ask for your name, address, telephone number, and email address. We use the information you provide to send you news and information about the activities of Jay Inslee, as well as other key races or candidates. We will not sell this information to any third party, under any circumstances. On rare occasion, we may ask for your permission to share your information with candidates we think you would like to hear from. If and only if you give your consent, we will share basic contact information so they may contact you.
+When you contribute money online: Under Federal Election law, we are required to make periodic filings that provide the Federal Election Commission with the following information on each contributor: name, address, amount of contribution, date of contribution, employer and occupation. For more information on the FEC, visit their website at http://www.fec.gov/. To make a contribution online, we also ask for your credit card number and its expiration date.
 
-When you contribute money online, we are required, under Federal Election law, to report specific information on each contributor. We do this in periodic filings that we provide the Federal Election Commission. Necessary information includes: name, address, amount of contribution, date of contribution, employer and occupation. For more information on the FEC, visit their web site at [http://www.fec.gov/ ](http://www.fec.gov/). To make a credit card contribution online, we also ask for your credit card number and its expiration date.
+## Use of your Personal Information
 
-We make every effort to preserve user privacy. When required by law, we may disclose personal information wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
+JayInslee.com collects and uses your personal information to operate JayInslee.com and deliver the services you have requested. These services may include the display of customized content based upon the information JayInslee.com has collected.
 
-When you receive an email from JayInslee.com, we employ "Web Beacons" to determine if the email has been read. We do not track this information on an individual basis, and no personally identifiable information is transferred. Our database aggregates the results to help us continue improving the content we provide.
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
 
-**How we store and protect your information :**
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, court order or legal process served on our website.
 
-JayInslee.com makes use of the latest security measures to protect against the loss, misuse or alteration of the information under our control. We use encryption technology to ensure that personal information is not susceptible to theft. Additionally, our server is located in a professionally managed, secure environment, with a guard posted 24 hours a day.
+## Control of your Personal Information
 
-**IP Addresses and Log File Data:**
+To contact us or unsubscribe via U.S. Mail: Send a letter with your full name and email address to: Jay Inslee for Washington, PO Box 21067, Seattle, WA 98111 (for unsubscribe requests please include 'Attn: unsubscribe JayInslee.com' in the address.
 
-IP addresses are the location of your computer or network on the Internet. We log them for troubleshooting purposes, and to track which pages people visit in order to improve the quality of the site. We do not use this information to develop individual profiles.
+## Collection and Use of Children's Personal Information
 
-**How to contact us :**
+We care about the safety and privacy of children online, and we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 whenever age-related information is requested.
 
-If you want to contact us to unsubscribe from mailing lists at any time, or opt out, review, update and/or correct your information, you can do so quickly and easily by logging on to JayInslee.com. The site uses a generated password that was sent to you at the time you registered and that you can change at any time. You can receive a new password at any time by requesting one from the login function. 
+## How do we protect your information?
 
-You can also contact JayInslee.com via e-mail, fax, telephone or written letter. For legal and accounting purposes, contribution records will remain in our database. To unsubscribe via email, send a message to unsubscribe@jayinslee.com. To contact us via email for general questions or comments, visit http://www.jayinslee.com/ . To contact us or unsubscribe via US Mail: Send a letter with your full name and email address to: Jay Inslee for Congress, P.O. Box 15021 Aurora Ave. North, Shoreline WA, 98133. To contact us via telephone, please call (206) 533-0575 between the hours of 9 AM and 5 PM PST, Monday through Friday.
+Our website has a number of security measures in place to protect against the loss, misuse or alteration of the information under our control. Computer systems have restricted access limited only to those persons and organizations necessary to the proper functioning of JayInslee.com. This access applies to all electronic and physical security measures. Highly sensitive data including credit card information is additionally secured through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-**Related Security Issues :**
+## Use of Cookies
 
-**Links to other web sites:**
+We use cookies to tailor your experience on our site according to the preferences you have specified. When you visit JayInslee.com, your browser saves a tiny piece of information on your computer. This information personalizes and improves your experience online. JayInslee.com only accesses information set by JayInslee.com. It is not possible and we do not attempt to access information from other websites. Our cookies do not contain any personal identifiable information.
 
-This privacy policy covers Jay Inslee's web site; http://www.jayinslee.com/ . The site links to a number of other web sites. Should you choose to visit those web sites, please remember that the committee is not responsible for their content or privacy policies. We encourage you to read the privacy policies and review the practices of all websites you visit.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience all features of the JayInslee.com site.
 
-**Changes to the Jay Inslee Privacy Statement:**
+## IP Addresses and Log File Data
 
-The committee may modify or amend this statement in the future, to better protect your information. If there are material changes to this statement, we will prominently post such changes prior to implementing the change. Regardless of later updates, we will abide by the practices described in this statement at the time you provided us with your information.
+We log your IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site. There is no personal identifiable information collected in our log files.
 
-**Additional Steps You Can Take to Protect Your Privacy and Security:**
+## Enforcement of this Privacy Statement
 
-Jay Inslee makes every effort to guarantee your privacy and the security of any information that you provide to us. But we urge you to remember that privacy and security begins with you -- you can help avoid cyber crime and identity theft, by being vigilant in maintaining the secrecy of any passwords or password reminders and should always exercise caution when disclosing information online.
+If you have questions regarding this statement, you should first contact JayInslee.com by postal mail to Jay Inslee for Washington, PO Box 21067, Seattle, WA 98111.
+
+## Changes to this Statement
+
+JayInslee.com will occasionally update this Privacy Statement. When JayInslee.com posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of JayInslee.com. If there are material changes to this Statement or in how we will use your personal information, JayInslee.com will prominently post such changes prior to implementing the change. We encourage you to periodically review this Statement to be informed of how JayInslee.com is protecting your information.
+
+## Contact Information
+
+JayInslee.com welcomes your comments regarding this Privacy Statement. If you believe that JayInslee.com has not adhered to this Statement, please contact us by postal mail.
+
+Jay Inslee for Washington  
+PO Box 21067  
+Seattle, WA 98111
