@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderlic.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606015856id_/http%3A//www.wonderlic.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderlic.com privacy policy that was archived on 2011-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110718083454id_/http%3A//www.wonderlic.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Wonderlic
 
