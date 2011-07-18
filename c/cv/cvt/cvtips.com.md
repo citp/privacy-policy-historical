@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvtips.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614214050id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.cvtips.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvtips.com privacy policy that was archived on 2011-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110718213150id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.cvtips.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
