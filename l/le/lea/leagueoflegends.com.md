@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagueoflegends.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617031231id_/http%3A//www.leagueoflegends.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueoflegends.com privacy policy that was archived on 2011-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110719002514id_/http%3A//www.leagueoflegends.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LoL - League of Legends
 
@@ -22,7 +22,7 @@ Please note that in utilizing certain areas of the Site (e.g. purchasing merchan
 
 ### C. What Does Riot Games Do With Collected Information?
 
-(1) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity or to check your qualifications, to inform you of any changes to the Site or Game, or to send you additional information about Riot Games. We may also use your information to contact you should we believe that you are in violation of the [Terms of Use Agreement](http://www.leagueoflegends.com/pages/termsofuse) (“ **Terms of Use** ”) or the [End User License Agreement](http://www.leagueoflegends.com/legal/eula) (“ **EULA** ”).
+(1) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity or to check your qualifications, to inform you of any changes to the Site or Game, or to send you additional information about Riot Games. We may also use your information to contact you should we believe that you are in violation of the [Terms of Use Agreement](http://www.leagueoflegends.com/legal/termsofuse) (“ **Terms of Use** ”) or the [End User License Agreement](http://www.leagueoflegends.com/legal/eula) (“ **EULA** ”).
 
 (2) ANONYMOUS INFORMATION. We use anonymous information to analyze the Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our servers, to administer the Site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
@@ -94,4 +94,4 @@ BY USING THE SITE AND/OR THE GAME, YOU SIGNIFY THAT YOU HAVE READ, UNDERSTAND AN
 
 ### C. Additional Policies
 
-There are additional Riot Games legal policies that govern your use of the Site and the Game. Please take time to review and familiarize yourself with both the [Terms of Use](http://www.leagueoflegends.com/pages/termsofuse) and the [EULA](http://www.leagueoflegends.com/legal/eula).
+There are additional Riot Games legal policies that govern your use of the Site and the Game. Please take time to review and familiarize yourself with both the [Terms of Use](http://www.leagueoflegends.com/legal/termsofuse) and the [EULA](http://www.leagueoflegends.com/legal/eula).
