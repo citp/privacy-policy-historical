@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the milwaukeeinvestor.com privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111043825id_/http%3A//www.milwaukeeinvestor.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milwaukeeinvestor.com privacy policy that was archived on 2011-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110719161356id_/http%3A//milwaukeeinvestor.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Getting started as a successful real estate investor
 
 | 
 
 |   
----  
   
+---  
 |    
   
   
@@ -60,7 +60,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms & Use](https://web.archive.org/web/20110111043825id_/http%3A//www.milwaukeeinvestor.com/term_use_disclaimer.htm)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms & Use](https://web.archive.org/web/20110719161356id_/http%3A//milwaukeeinvestor.com/term_use_disclaimer.htm)
 
  **Your Consent**
 
