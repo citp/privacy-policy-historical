@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130023456id_/http%3A//www.babysteals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2011-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110720080433id_/http%3A//www.babysteals.com/privacy.php) for the most accurate reproduction.*
 
 # BabySteals.com® ~ Deal of the day on brand name baby clothes, maternity products, baby shower gift ideas and baby presents for new moms.
 
