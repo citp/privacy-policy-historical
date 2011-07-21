@@ -1,277 +1,605 @@
-<!--The following is the downloaded HTML source of the internetworld.co.uk privacy policy that was archived on 2007-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071229072728id_/http%3A//www.internetworld.co.uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internetworld.co.uk privacy policy that was archived on 2011-07-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110721182242id_/http%3A//www.ubm.com/ubm/sitetools/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="EN"><head>
-<title>
-Privacy policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="robots" content="index,follow">
-<meta name="description" content="Internet World 2007 – The business event for the Internet and Online Marketing. Visit Internet World and you can learn from industry experts and meet the leading suppliers.">
-<meta name="keywords" content="Digital marketing event, Online marketing event, Online advertising event, online marketing exhibition, Online marketing show, Digital marketing exhibition, Online advertising exhibition, Digital marketing conference, Online marketing conference, Online Advertising conference, learn about online marketing, Internet Exhibition, Internet conference">
-<meta name="Author" content="Mark Ram">
-<meta name="LastUpdated" content="04/07/2007 14:11:59">
-<meta name="Sitekit_Version" content="8.3.0">
-<meta name="Sitekit_siteid" content="2173">
-<meta name="Sitekit_SiteOwner_siteid" content="2284">
-<meta name="Sitekit_locid" content="0at00c">
-<meta name="Server" content="THWWW08">
-<link rel="StyleSheet" href="/welcomeStyle.aspx.ctid-2011.css" type="text/css">
-<link type="application/rss+xml" rel="alternate" title="Internet World News" href="http://www.internetworld.co.uk/RSS.aspx?ID=1235">
-<script type="text/javascript">
-<!--
-Image1= new Image(760,186)
-Image1.src = "top-bg.gif"
-//-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>UBM plc - Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="icon" href="/ubm/images/favicon.ico">
+<link rel="shortcut icon" href="/ubm/images/favicon.ico">
+<link href="http://www.unitedbusinessmedia.com/ubm/media/releases/?t=rss_press" rel="alternate" type="application/rss+xml" title="Press Releases">
+<link href="http://www.unitedbusinessmedia.com/ubm/ir/calendar/?t=rss_eventsnew" rel="alternate" type="application/rss+xml" title="Calendar">
+<link href="http://events.ubm.com/rss" rel="alternate" type="application/rss+xml" title="Upcoming UBM Events">
+<link href="/ubm/css/global_sept9.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/ubm/css/topnav.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/ubm/css/main.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/ubm/css/inlinenav.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/ubm/css/print2.css" rel="stylesheet" type="text/css" media="print">
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+// online form validation function
+function checkForm(form)
+{
+if (document.contactForm.annrep.checked == false && document.contactForm.intrep.checked == false &&	document.contactForm.annintrep.checked == false &&	document.getElementById("annintrep3").checked == false && document.getElementById("annintrep2").checked == false &&	document.contactForm.mailinglist.checked == false)
+ {
+      alert ('Select atleast one report');		
+      return false;		
+ }	
+
+    intro = 'Please provide the following information:\n\n';
+    msg = '';
+    regex = /^.+\@(\[?)[a-zA-Z0-9\-\.]+\.([a-zA-Z]{2,3}|[0-9]{1,3})(\]?)$/;
+    if(document.contactForm.surname.value==''){msg+='Surname\n';}
+    if(document.contactForm.address1.value==''){msg+='Address\n';}
+    if(document.contactForm.city.value==''){msg+='City\n';}
+    if(document.contactForm.county.value==''){msg+='County or State\n';}
+    if(document.contactForm.postzipcode.value==''){msg+='Post or Zip code\n';}
+    if(document.contactForm.country.value==''){msg+='Country\n';}
+    if(msg==''){return true}
+    else if (msg!= ''){alert(intro + '\n' + msg);return false;}
+}
 </script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+
+
+<script src="/ubm/js/common.js" language="javascript" type="text/javascript"></script>
+<script src="/ubm/js/fontsize.js" language="javascript" type="text/javascript"></script>
+<!-- 	//document.getElementById("fontID").innerHTML = (int_fontSize + int_unitType); -->
+<script language="javascript">
+function ValidatePhase1()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer/entry/";
+				}			
+
+	}
+
+function ValidatePhase2()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+
+function ValidatePhase3()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer2/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer2/entry/";
+				}			
+
+	}
+
+function ValidatePhase4()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults2","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+
+function ValidatePhase5()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer3/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer3/entry/";
+				}			
+
+	}
+
+function ValidatePhase6()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults_rns","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function Set_Cookie( name, value, expires, path, domain, secure )
+{
+var today = new Date();
+today.setTime( today.getTime() );
+if ( expires )
+{
+expires = "";
+}
+var expires_date = "" ;
+
+document.cookie = name + "=" +escape( value ) +
+( ( expires ) ? ";expires=" + expires_date : "" ) +
+( ( path ) ? ";path=" + path : "" ) +
+( ( domain ) ? ";domain=" + domain : "" ) +
+( ( secure ) ? ";secure" : "" );
+}
+
+
+function Get_Cookie( check_name ) {
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f
+
+	for ( i = 0; i < a_all_cookies.length; i++ )
+	{
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		if ( cookie_name == check_name )
+		{
+			b_cookie_found = true;
+			if ( a_temp_cookie.length > 1 )
+			{
+				cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+			}
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if ( !b_cookie_found )
+	{
+		return false;
+	}
+}
+
+
+function getQuerystring(key)
+{
+  key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regex = new RegExp("[\\?&]"+key+"=([^&#]*)");
+  var qs = regex.exec(window.location.href);
+  if(qs == null)
+    return false;
+  else
+    return qs[1];
+} 
 </script>
-<script type="text/javascript">
-_uacct = "UA-269434-6";
-urchinTracker();
-</script>
+
+
+
 </head>
-<body>
-<div id="wrap">
-  <div id="wrap2">
-
-    <div id="top">
-      <div class="logo"><a href="../"><img src="/GetImage.aspx.id-83157.gif" alt="logo: Internet World - business for the digital age" width="214" height="82"></a></div>
-      <div class="date"><span class="grey12pxbold">29 December 2007</span>
-        <div class="breadcrumb"><span class="grey11px"><table cellpadding="0" cellspacing="0" summary="This table contains a breadcrumb trial, showing your position in the site"><tbody><tr><td class="CRUMB"><a class="CRUMB" href="/">Home</a></td><td class="CRUMB">/</td><td class="CRUMB">Privacy policy&nbsp;</td></tr></tbody></table>
- 
-</span></div>
-      </div>
-      <div class="topnav">
-<div class="topnavcell" background="#34BADS">
-<table style="border:none;" cellpadding="0" cellspacing="0" width="100%" summary="This table holds the container for this level of site navigation"><tbody><tr class="HorzNav"><td width="100%"><table style="border:none;" cellspacing="0" cellpadding="0" class="HorzNav" summary="This table holds the horizontal navigation links"><tbody><tr><td class="HorzNav"><a class="HorzNav" href="/visiting-the-show.html">Visiting the Show</a></td><td class="HorzNav"><a class="HorzNav" href="/exhibiting.html">Exhibiting</a></td><td class="HorzNav"><a class="HorzNav" href="/seminars.html">Seminars</a></td><td class="HorzNav"><a class="HorzNav" href="/topics.html">Topics</a></td><td class="HorzNav"><a class="HorzNav" href="/the-buzz.html">The Buzz</a></td><td class="HorzNav"><a class="HorzNav" href="/contact-us.html">Contact us</a></td></tr></tbody></table></td></tr></tbody></table></div>
-<div class="topnavcellfirst"><a class="white14px" href="http://www.internetworld.co.uk">Home</a></div>
-      </div>
-    </div>
-
-<div id="LeftNavigation">
-	 
-	 <div class="LeftTopBoxTop"> </div>
-      <div class="LeftBoxStretch">
-        <div class="countdown">
-          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="149" height="79">
-            <param name="movie" value="flash/counter.swf">
-            <param name="quality" value="high">
-            <embed src="flash/counter.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="149" height="79">
-          </object>
-        </div>
-      </div>
-      <div class="LeftBoxBtm"> </div>
-     <variableblock><!--newsletter--></variableblock>                             
-<!-- SHOW SPONSOR START --> 
-      <div class="leftsub">
-        <div class="leftsubdots"> <span class="grey_serif_16px">Show Sponsor </span> </div>
-        <img src="/images/royal-mail.gif" width="90" height="60" border="0" alt="Royal Mail"></div>  
-<!-- SHOW SPONSOR ENDS -->
-<!-- PLATINUM SPONSORS START --> 
-      <div class="leftsub">
-        <div class="leftsubdots"> <span class="grey_serif_16px">Platinum Sponsors </span> </div>
-        <a href="event-sponsors-2008.html"><img src="http://secure.sitekit.net/GetImage.aspx?id=93194" width="100" height="58" border="0"><br><img src="/GetImage.aspx?id=83982" border="0" alt="Interxion logo"></a></div>  
-<!-- PLATINUM SPONSORS ENDS -->    
-<!-- GOLD SPONSOR START -->
-      <div class="leftsub">
-        <div class="leftsubdots"> <span class="grey_serif_16px">Gold Sponsor </span> </div>
-        <a href="event-sponsors-2008.html"><img src="http://secure.sitekit.net/GetImage.aspx?id=87164" width="100" height="45" border="0"></a></div>
-<!-- GOLD SPONSOR END -->   
-<!-- EVENT SPONSORS START -->
-      <div class="leftsub">
-        <div class="leftsubdots"> <span class="grey_serif_16px">Event Sponsors </span> </div>
-        <a href="event-sponsors-2008.html"><img src="http://secure.sitekit.net/GetImage.aspx?id=94138" width="130" height="65" border="0"></a></div>
-<!-- EVENT SPONSORS END -->      
-       <div class="leftsub">
-        <div class="leftsubdots"> <span class="grey_serif_16px">2007 Event Partners </span> </div>
-		<a href="partners.html"><img src="images/iw-event-partners.gif" width="130" height="65" border="0" alt="Event Partners"></a>
-        </div>      
-      <div class="leftsub">
-        <div class="leftsubdots"> <span class="grey_serif_16px">Running Alongside </span> </div>
-         <a href="idmf.html"><img src="images/iw-idmf.gif" width="90" height="34" border="0" alt="IDMF"></a></div>
-<!-- BLOG ENTRY STARTS --><!-- hide for now: 041207
-        <div class="leftsub">
-        <div class="leftsubdots"> <span class="grey_serif_16px">Internet World Blog </span> </div>
-         <a href="http://www.internetworld.co.uk/blog"><img src="images/blog.gif" width="100" height="78" border="0" alt="Internet World Blog"></a></div>-->
-<!-- BLOG ENTRY END -->
-    </div>
-
-
-  <div id="Main">
-      <div class="middle"> <span class="blue_serif_20px">Privacy policy</span></div>
-	  <div class="columnpadmid1"> <span class="lightblue_serif_16px"> </span> </div>
-        <div class="columnpadmid1"> <span class="grey11px"><p><strong>Information Collection<br></strong>Ithaca Media Ltd is the owner of all information collected on <a href="http://www.internetworld.co.uk">www.internetworld.co.uk</a>. We collect personal identifying information such as your name, email address, postal address and phone number along with basic demographic information about your job and place of business. The ways we use the information are outlined below. <br>&nbsp;<br><strong>Registration</strong><br>Attending Internet World requires registration. During registration you will be asked to provide contact information, demographic information, express areas of interest, and preferred method of contact. </p>
-<p><strong>Cookies<br></strong>This section confirms that we use cookies on our sites, and makes it clear why we do so.<br>A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user chooses to reject the cookie, they may still use our site. Cookies also enable us to track and target the interests of our users to enhance the experience on our site. </p>
-<p><strong>Log Files<br></strong>Like most standard website servers, we also use log files. They include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We use them to analyse trends, administer the site, track a user's movement and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.</p>
-<p><strong>Email Communications<br></strong>We send all newly registered users a welcome email to verify username and password. Established users will occasionally receive and update on new content and developments around <a href="http://www.internetworld.co.uk">www.internetworld.co.uk</a>. You have the option to not receive these communications either by clicking a link in the email communication or by sending an email to <a href="mailto:kevin.oreilly@ithacamedia.co.uk">kevin.oreilly@ithacamedia.co.uk</a>&nbsp;</p>
-<p><strong>Client Services<br></strong>We communicate with users on a regular basis to deliver service and address issues. We do in accordance with their wishes and instructions.</p>
-<p><strong>Legal Disclaimer<br></strong>Though we make every effort to preserve users' privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current or pending judicial proceeding, a court order or legal process served on our website.</p>
-<p><strong>Sharing Personal Information<br></strong>Any information about you, which you give to us via the website, registration form, attendance to Internet World, attendance to a seminar within Internet World or any other way,&nbsp;may be used for publication (where you provide details for inclusion in our directories or catalogues and on our websites) and also to supply you with information about our products or services in the form of direct marketing activity by phone, fax or post. This information may also be made available to 3rd parties on a list lease or list rental basis for the purpose of direct marketing. We also reserve the right to disclose details about you to authorised law enforcement agencies where we are asked to do so.</p>
-<p><strong>Business Transitions<br></strong>In the event that Ithaca Media Ltd&nbsp; are subjected to a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via prominent notice on our website 30 days prior to a change of ownership or control of their personal information. If, as a result of the business transition, we have reason to believe that the users' personal information is likely to be used in a manner different from that stated at the time of collection they will be given choice consistent with our Notification of Changes section below.</p>
-<p><strong>Links<br></strong>This website contains links to other sites. Please be aware that we, Ithaca Media Ltd are not responsible for the privacy practices of such other sites. This privacy policy applies solely to information collected by this website. <br>Surveys &amp; Contests<br>From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose personal information. In such circumstances, information will be shared with the contest/survey sponsors in order to notify the winners and award prizes. Anonymous survey information will be used for the purposes of monitoring or improving the use and satisfaction of this website. </p>
-<p><strong>Tell-A-Friend<br></strong>If a user elects to use our referral service for informing a friend about our website, we ask them for the friend's name and email address. Ithaca Media Ltd will automatically send the friend a one-time email inviting them to visit the site.</p>
-<p><strong>Security<br></strong>We use reasonable precautions to keep the personal information that you disclose to us secure and to disclose such information only within the above guidelines. Where information is shared, it is only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information. Our sites also link to many other sites and we are not responsible for their privacy policies or practices.</p>
-<p><strong>Correcting/Updating/Deleting/Deactivating Personal Information<br></strong>If a user's personally identifiable information changes (such as phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing <a href="mailto:kevin.oreilly@ithacamedia.co.uk">kevin.oreilly@ithacamedia.co.uk</a>&nbsp; </p>
-<p><strong>Notification of Changes<br></strong>If we decide to change our privacy policy, we reserve the right to do so, and will notify users that we have done so on the home page.</p>
-<p>If we need to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. If users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change.</p>
-<p><strong>Contact Information<br></strong>If users have any questions or suggestions regarding our privacy policy, please contact us at:<br>Phone: +44 (0) 20 8232 1600<br>Email: <a href="mailto:kevin.oreilly@ithacamedia.co.uk">kevin.oreilly@ithacamedia.co.uk</a><br>Postal Address: 288-290 Worton Rd, Isleworth, Middlesex, TW7 6EL<br>Website: <a href="http://www.internetworld.co.uk">www.internetworld.co.uk</a>&nbsp; </p> </span> </div>
-      	  
-    </div>
-
-
-<div id="RightNavigation">
-      <div class="RightTopBoxTop"> </div>
-      <div class="RightBoxStretch">
-        <div class="columnpad"><span class="blue_serif_16px">Interested in</span></div>
-        <div class="columnpad"> <span class="grey12pxitalic"> exhibiting, sponsoring or speaking at Internet World 2008?
-<br>
-          </span> <!--<span class="blue12pxitalic">150 people have signed up so far this week... join them! </span>--> </div>
-        <div class="columnpad"> <a href="exhibitor_form.html"><img src="images/more-information.gif" width="102" height="21" border="0" alt="Register"></a> </div>
-<!-- VISITOR INFO STARTS -->
-<div class="columnpad"> 
-<span class="blue_serif_16px">Interested in</span>
-<div class="columnpad2">
-<span class="grey12pxitalic"> visiting Internet World 2008?<br><br> </span> <div class="columnpad2"> <a href="visitor-form.html"><img src="images/more-information.gif" width="102" height="21" border="0"></a> </div> </div>
+<body style="font-size: 70%;">
+<div id="access">
+  <a href="#maincontent" accesskey="M">Skip to main content [Access key M]</a><br>
+  <a href="/ubm/sitetools/sitemap/" accesskey="S">Jump to the site map [Access key S]</a><br>
+  <a href="#localnav" accesskey="L">Skip to the second level navigation [Access key L]</a><br>
+  <a href="#mainnav" accesskey="N">Return to main site navigation [Access key N]</a>
 </div>
-<!-- VISITOR INFO ENDS -->
-        <div class="columnpad">
-         <!-- <div class="dottedbox2">
-		  <img src="images/chris_dobson.jpg" width="140" height="70"> <span class="grey12pxbold">Wed 2nd May, 10-11am<br>
-            </span> <span class="grey12pxitalic">Chris Dobson, General manager, Sales and Trade Marketing, MSN International </span>
-            <ul class="arrow_ul">
-              <li class="arrow_li"><a href="#" class="lightblue11px">See all seminars </a> </li>
-            </ul>
-			</div>-->
-<!-- FEATURED SPEAKER STARTS -->
-<div class="dottedbox2">              
-<div class="columnpad2"> <span class="grey12pxbold">2007 Keynote Speakers </span> </div>
-			  <div class="columnpad2"><a href="keynote-theatre.html"><img src="images/iw-keynote-logos.gif" width="140" height="49" border="0"></a></div>
-              </div>
-<!-- FEATURED SPEAKER ENDS -->
-<!--<div class="dottedbox2">
-              <div class="columnpad2"> <span class="grey12pxbold">FREE E-consultancy report </span> </div>
-              <span class="grey12pxitalic">when you register and visit
-Internet World </span>
-              <ul class="arrow_ul">
-			  <li class="arrow_li"><a class="lightblue11px" href="/free-e-consultancy-report.html">Choose from a choice of 14 reports </a></li>
-			  </ul>
-          </div>-->
-		  <!--<div class="dottedbox2">
-              <div class="columnpad2">
-              <ul class="arrow_ul">
-			  <li class="arrow_li"><a class="lightblue11px" onClick="MyWindow=window.open('/exhibitor_form.html','MyWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500, height=400'); return false;" href="#">Click here to find out more about the remaining exhibition stands at
-Internet World 2007. </a></li>
-			  </ul>
-          </div>
-		  </div>-->
-<!-- PRESS RELEASE STARTS -->
-<div class="dottedbox2">
-<div class="columnpad2"> <span class="blue_serif_16px">Almost 13,000 in attendance </span> </div>
-              <div class="columnpad2">
-              <ul class="arrow_ul">
-			  <li class="arrow_li"><a href="http://www.internetworld.co.uk/Default.aspx.LocID-0atnew01g.RefLocID-0at00e.Lang-EN.htm" class="lightblue11px">view the full post show press release </a></li>
-			  </ul>
-          </div>
-		  </div>
-<!-- PRESS RELEASE ENDS -->
-<!-- LATEST EXHIBITOR STARTS -->
-            <!--<div class="dottedbox2">
-              <div class="columnpad2"> <span class="grey12pxbold">Latest Exhibitors </span> </div>
-			  <div class="columnpad2"><a href="exhibitor-list.html"><img src="images/iw-exhibitor-logos.gif" width="140" height="48" border="0"></a></div>
-              </div>-->
-<!-- LATEST EXHIBITOR ENDS -->          
-<div class="dottedbox2"> <a href="web2-0.html"><img src="images/web2.gif" width="140" height="50" border="0" alt="Web2.0"></a> <span class="grey12pxitalic">An interactive feature interpreting the significance of Web2.0 and what it means to your business</span></div>
-          <div class="dottedbox2"> <a href="brandsreignited.html"><img src="images/reignited.gif" width="140" height="60" border="0" alt="Reignited"></a> <span class="grey12pxitalic"> A world class paid-for conference created to help understand the latest developments in digital marketing</span></div>
-          
-<div class="dottedbox2"> <a href="http://www.ecmshow.co.uk"><img src="images/iw-ecm-show.gif" width="140" height="60" border="0" alt="ECM Show"></a></div>
-          <div class="dottedbox2"> <a href="http://www.contentmanagement365.com"><img src="images/iw-ecm365-show.gif" width="140" height="60" border="0" alt="ECM 365"></a></div>
+<div id="wrapper">
+<a name="top"></a><!-- start logo, toplinks and search field --> 
+  <div id="topBlock">     
+    <div id="logo"><a href="/ubm/"><img src="/ubm/images/ubmlogos.gif" alt="UBM plc logo and link to home page" border="0"></a></div> 
+    <div id="searchArea"> 
+      
+<script type="text/javascript">
 
-        </div>
-      </div>
-      <div class="RightBoxBtm"> </div>
-    </div>
+var $j=jQuery.noConflict();
+var $q=jQuery.noConflict();
+$j(document).ready(function(){
+							$j("ul.topnavitemscontainer1 li").dropdown()
+							});
+$j.fn.dropdown=function(){
+	$j(this).hover(function(){$j("ul:first",this).css("visibility","visible")
+						},function(){
+	$j("ul:first",this).css("visibility","hidden")})};
 	
-<div id="Footer">
-<div class="rssbox">
-<div class="rss"> <a class="underline" href="RSS.aspx?ID=1235" target="_blank"><span class="grey12pxbold">internet</span><span class="blue12pxbold">world</span><span class="grey12pxbold"> RSS	
-		</span></a>
-</div>
-<div class="cenews">
-          <ul class="arrow_ul">
-            <li class="arrow_li"><a class="lightblue11px" href="/news.html">Cutting edge news </a></li>
-          </ul>
-</div>
-<div class="friend">
-          <ul class="arrow_ul">
-            <li class="arrow_li"><a class="lightblue11px"><script language="JavaScript1.2" type="text/javascript">
-var baseURL = ''
-var popup
-var browserName = navigator.appName
-var browserVer = parseInt(navigator.appVersion)
-var hideEmailLink
-var sourceTitle = escape(document.title)
-var sourceURL = escape(location)
-var siteIDCSS = 2173
-var CurrentLocIDCSS = "0at00c"
-var CurrentThemeIDCSS = "2011"
-var Lang = "EN"
-var PageBackground = ""
-var BodyBgColor = ""
-var emailLink = baseURL + '/includes/EmailPageForm.asp?Lang=' + Lang + '&amp;URL=' + sourceURL + '&amp;sourceTitle=' + sourceTitle + '&amp;siteIDCSS=' + siteIDCSS + '&amp;CurrentLocIDCSS=' + CurrentLocIDCSS + '&amp;CurrentThemeIDCSS=' + CurrentThemeIDCSS + '&amp;PageBackground=' + PageBackground + '&amp;BodyBgColor=' + BodyBgColor
-if (browserName == "Netscape") {
-  features = "scrollbars=yes,resizable=no,width=510,height=400"
-} else {
-  features = "scrollbars=no,resizable=yes,width=480,height=330"
-}
-function newWindow(url) {
-  if (!popup || popup.closed) {
-    popup = window.open(url,"popup",features)
-  } else {
-    popup.location = url
-    popup.focus()
-  }
-}
+	$q(document).ready(function(){$q("#group_websites").click(function(){
+				$q("#groupSitesContainer").slideToggle("fast")});$q("#groupSitesContainer").click(function(){$q("#groupSitesContainer").slideToggle("fast")})}
+									 );
+
 </script>
-</a><a href="javascript:newWindow(emailLink)" class="emailthispagelink">Send this page to a friend</a> </li>
-          </ul>
-</div>
-<!-- RECOMMENDED SITES STARTS -->
-<div class="sitesbox">
-<div class="sites"> <span class="grey12pxbold">Recommended sites </span>
-</div>
-<div class="recSites">
-          <ul class="arrow_ul">
-            <li class="arrow_li"><a class="lightblue11px" href="http://www.webeventseurope.com">Internet marketing </a></li>
-            <li class="arrow_li"><a class="lightblue11px" href="http://www.contentmanagement365.com">Contentmanagement365 </a></li>
-          </ul>
-</div>
-<!-- RECOMMENDED SITES ENDS -->
-</div>
 
-<div class="bottom">
-<div class="bl">
-<script language="JavaScript">
-var txt = "Bookmark this page";
-var url = "http://www.internetworld.co.uk/privacy-policy.html";
-var who = "Internet World - Privacy policy";
+<div id="rsstop"><a href="/ubm/sitetools/rssfeeds/"><img src="/siteware/rss_newa.gif" alt="Link to the RSS feeds" border="0" align="right"></a></div>
+<div id="sitelinks">
 
-var ver = navigator.appName;
-var num = parseInt(navigator.appVersion);
-if ((ver == "Microsoft Internet Explorer")&&(num >= 4)) {
-document.write('<A class="whitelink" HREF="javascript:window.external.AddFavorite(url,who);" ');
-document.write('onMouseOver=" window.status=');
-document.write("txt; return true ");
-document.write('"onMouseOut=" window.status=');
-document.write("' '; return true ");
-document.write('">'+ txt + '</a>');
+        <ul> 
+          <li class="links"><a href="/ubm/sitetools/alert/" class="last">Email Alerts</a></li> 
+          <li class="links"><a href="/ubm/aboutus/contactus/" class="contactus">Contact Us</a></li> 
+          
+       <li class="links" id="group_websites"><a href="javascript:void(0);">UBM businesses</a></li>
+
+          <li class="linkhome"><a href="/ubm/">Home</a></li> 
+        </ul> 
+      </div> 
+      <div id="searchBlock"> 
+        <form action="/ubm/sitetools/search" method="get" name="freesearch"> 
+<input type="hidden" name="conf" value="htdig.ubm">
+          <div id="searchfield"> 
+            <input class="small" name="freesearch" type="text" value=" Search UBM site..." style="width:125px;" maxlength="50"> 
+          </div> 
+          <div id="searchbutton"> 
+            <input type="image" value="GO" src="/ubm/images/searchbutton.jpg" class="searchbutton"> 
+          </div> 
+        </form> 
+      </div> 
+      
+      
+  <div class="groupSitesContainer" id="groupSitesContainer" style="display: none;">
+  <ul id="groupSitesgroup-sitesUL" class="groupSitesgroup-sitesUL">
+   
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmasia.com">UBM Asia</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmaviation.com">UBM Aviation</a></li>
+    
+<li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmbuiltenvironment">UBM Built Environment</a></li>
+ 
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmcanon.com">UBM Canon</a></li>   
+    <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmconferences">UBM Conferences</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmconnect">UBM Connect</a></li>
+
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmglobaltrade.com">UBM Global Trade</a></li>
+  
+      <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmlive">UBM Live</a></li>
+    
+  <li><a target="_blank" title="Opens in a new window" href="http://www.ubmmedica.com/">UBM Medica</a></li>
+  
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmstudios.com/">UBM Studios</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmtechinsights.com/">UBM TechInsights</a></li>  
+     
+ <li><a target="_blank" title="Opens in a new window" href="http://www.ubmtechweb.com">UBM TechWeb</a></li>  
+ <li><a target="_blank" title="Opens in a new window" href="http://eetimesgroup.com/">EE Times Group</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.everythingchannel.com">Everything Channel</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.prnewswire.com">PR Newswire</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.risiinfo.com">RISI</a></li>       
+      
+  </ul>
+</div>    
+
+
+<style type="text/css">
+
+.groupSitesContainer {
+background:#FFFFFF none repeat scroll 0 0;
+border-left:1px solid #002878;
+border-right:1px solid #002878;
+border-bottom:1px solid #002878;
+border-top:0 none;
+left:0;
+position:absolute;
+top:30px;
+z-index:5000;
+z-order:4000;
+left:-138px;
+
 }
-</script></div>
-<div class="br"><a class="whitelink" href="/about-us.html">About us</a><span class="white11px"> | </span><a class="whitelink" href="privacy-policy.html">Privacy Policy</a><span class="white11px"> | 		
-	</span><a class="whitelink" href="/site-map.html">Site Map</a><span class="white11px"> | </span> 
-	<a class="ww" href="http://www.wickedweb.co.uk" target="_blank">Site by Wickedweb</a></div>
-</div>
-</div>
-  </div>
-</div>
 
-</div></body></html>
+.groupSitesContainer ul#groupSitesgroup-sitesUL {
+	border:0px solid #253370;
+    border-top:1px solid #253370;
+	background:#fff;
+	padding:0px;
+	margin:0px;
+	width:604px;
+}
+.groupSitesContainer ul#groupSitesgroup-sitesUL li {
+	background:0 none;
+    width:151px;
+    float:left;
+    font-weight:normal;
+	list-style:none;
+}
+.groupSitesContainer ul#groupSitesgroup-sitesUL li:hover {
+	color:#BAB5A9;
+}
+
+
+.groupSitesContainer ul#groupSitesgroup-sitesUL li a {
+	border-bottom:1px solid #E2D8AF;
+	color:#253370;
+	display:block;
+	margin:0 10px;
+	padding:5px 0;
+	font-size:10px;
+
+}
+
+.groupSitesContainer ul#groupSitesgroup-sitesUL li a:hover {
+	color:#BAB5A9;
+	}
+
+</style>
+    </div> 
+  </div> 
+  <!-- end logo, toplinks and search field --> 
+  <!-- start top navigation --> 
+  <a name="topnav"></a><div id="topnav"><noindex>
+    <ul> 
+      <li><a href="/ubm/aboutus/">About Us</a></li>
+      <li><a href="/ubm/ourbusinesses/">Our Businesses</a></li> 
+      <li><a href="/ubm/ir/">Investor Relations</a></li> 
+      <li><a href="/ubm/media/">Media Centre</a></li> 
+      <li><a href="/ubm/governance/">Governance</a></li> 
+      <li><a href="/ubm/workingubm/" class="last">Working at UBM</a></li> 
+    </ul> 
+</noindex></div> 
+  <!-- end top navigation --> 
+  <!-- start breadcrumb, print and font size icons --> 
+  <div id="breadcrumbBar"> 
+    <div id="breadcrumb"><span class="black">You are here:</span>  <a class="breadcrumb" href="/ubm/?version=1">Home</a>&nbsp;/&nbsp;Privacy Statement </div> 
+    <div id="icons"> 
+      <div id="print">
+	   <div id="printtext">Print</div> 
+        <div id="printicon"><a href="javascript:window.print();"><img src="/ubm/images/print_icon.gif" alt="Print this page (requires JavaScript)" width="13" height="13" border="0"></a></div> 
+	  </div>  
+      <div id="fontsize"> 
+        <div id="fonttext">Font size</div> 
+        <div id="fonticons"><a href="#" onclick="setFontSize('-');return false;"><img src="/ubm/images/font_minus.jpg" alt="Decrease the font size (requires JavaScript)" width="13" height="13" border="0"></a>&nbsp;<a href="#" onclick="setFontSize('+');return false;"><img src="/ubm/images/font_plus.jpg" alt="Increase the font size (requires JavaScript)" width="13" height="13" border="0"></a></div> 
+      </div> 
+    </div> 
+  </div> 
+  <!-- end breadcrumb, print and font size icons --> 
+  <!-- start main --> 
+  <div id="main"> 
+    <div id="mainwrapper"> 
+      <!-- start left nav block --> 
+      <div id="leftnavBlock"> 
+        <div id="leftnavTitle">Site Tools</div> 
+         <a name="localnav"></a><div id="leftnav">
+		<ul id="navlist">
+
+
+
+
+
+
+
+<li class="nav2"><a href="/ubm/sitetools/search" class="nav2">Search</a></li><li class="nav2"><a href="/ubm/sitetools/alert/" class="nav2">Email Alerts</a></li><li class="nav2"><a href="/ubm/sitetools/sitemap/" class="nav2">Site Map</a></li><li class="nav2"><a href="/ubm/sitetools/disclaimer/" class="nav2">Disclaimer</a></li><li class="nav2aa"><a href="/ubm/sitetools/privacy/" class="nav2aa">Privacy Statement</a></li><li class="nav2"><a href="/ubm/sitetools/accessibility/" class="nav2">Accessibility</a></li><li class="nav2"><a href="/ubm/sitetools/downloads/" class="nav2">Downloads</a></li><li class="nav2"><a href="/ubm/sitetools/rssfeeds/" class="nav2">RSS Feeds</a></li>
+
+
+
+
+
+
+		</ul>
+<br><br>
+
+         </div> 
+      </div> 
+      <!-- end left nav block --> 
+      <!-- start contentBlock --> 
+      <div id="contentBlock"> 
+        <!-- start bannerBar --> 
+        <div id="bannerBar"> 
+          <div id="bannerImg"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="460" height="118" id="ubm_page_banner" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+
+<param name="movie" value="http://www.investis.com/ubm/corpsite06/designs/pageflash/gallery/ubm_page_banner.swf" wmode="transparent">
+
+
+<param name="wmode" value="transparent"> 
+
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+
+
+<embed src="http://www.investis.com/ubm/corpsite06/designs/pageflash/gallery/ubm_page_banner.swf" quality="high" bgcolor="#ffffff" width="460" height="118" name="ubm_page_banner" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object></div> 
+          <!-- start fasttrack links box -->
+          <div id="fasttrackBlock"> 
+            <div id="fasttrack"><strong>Fast track to...</strong><br> 
+<!-- ******* About Us section fast track links ******* --> 
+ 
+<!-- ******* Our Businesses section fast track links ******* --> 
+ 
+<!-- ******* Investor Relations section fast track links ******* --> 
+ 
+<!-- ******* Media Centre section fast track links ******* --> 
+ 
+<!-- ******* Governance section fast track links ******* --> 
+ 
+<!-- ******* Working for UBM section fast track links ******* --> 
+
+<!-- ******* Site tools section fast track links ******* --> 
+<a class="arrow" href="http://www.prnewswire.com" target="_blank">PR Newswire</a> 
+<a class="arrow" href="http://www.ubminformation.com" target="_blank">UBM Information</a> 
+<a class="arrow" href="http://www.ubmmedica.com" target="_blank">UBM Medica</a> 
+<a class="arrow" href="http://www.ubmasia.com" target="_blank">UBM Asia</a> 
+<a class="arrow" href="http://www.everythingchannel.com" target="_blank">Everything Channel</a> 
+<!-- <a class="arrow" href="http://www.channelweb.com" target="_blank">ChannelWeb</a> -->
+<a class="arrow" href="http://www.ubmtechweb.com/" target="_blank">UBM TechWeb</a> 
+<a class="arrow" href="http://www.ubmtechinsights.com" target="_blank">UBM TechInsights</a> 
+<!--<a class="arrow" href="http://www.think-services.com" target="_blank">Think Services</a>--> </div> 
+          </div> 
+          <!-- end fasttrack links box --> 
+        </div> 
+        <!-- end bannerBar --> 
+        <!-- start textBlock --> 
+        <div id="textBlock"> 
+          <a name="maincontent"></a><div id="header"> 
+            
+<h1>Privacy Statement</h1>
+ 
+          </div> 
+          <div id="text">
+
+<h2>Use of Information</h2>
+<br>
+The pages on the website (“the website”) are published
+by Investis Limited (“us” or “we”) on
+behalf of UBM plc. <br>
+ <br>
+Investis Limited (“us” or “we”) will not
+collect any information about individuals, except where it is
+specifically and knowingly provided by them. Examples of such
+information are: <br>
+ <br>
+ 
+<ul>
+<li>Your name<br></li>
+<li>Your mobile telephone number<br></li>
+<li>Your email address<br></li>
+<li>Your occupation</li></ul>
+The information collected will be used to send you the information
+you have requested and to provide information that may be useful to
+you. <br>
+ <br>
+We may share non-personal aggregate statistics (group) data about
+our site visitors’ traffic patterns with partners or other
+parties. However, we do not sell or share any information about
+individual users. <br>
+ <br>
+ 
+<h2>‘Cookies’</h2>
+<br>
+We use cookies on this site when users first enter the site. This
+ensures that on subsequent visits, if the cookie has not been
+deleted, users will not be asked to re-register. Cookies are small
+pieces of information that are stored on your computer by the
+server maintaining and operating the site. They do not compromise
+your privacy or security as they store a randomly generated
+identifying tag on your computer. <br>
+ <br>
+The cookie information does not include personal data such as name,
+age, phone number, email address or mailing address. In addition,
+we do not link cookies to personal data such as name, age, phone
+number, email address or mailing address. Most browsers are
+initially set up to accept cookies. If you would prefer, you can
+set your browser to stop cookies being placed on your terminal
+equipment – please refer to your specific Internet browser
+for instructions. <br>
+ <br>
+ 
+<h2>Your rights</h2>
+<br>
+In addition to the company’s safeguards, your personal data
+is protected in the UK by the Data Protection Act. This provides
+amongst other things that the data we hold about you should be
+processed lawfully and fairly. It should be accurate, relevant and
+not excessive. The information should be kept up to date, where
+necessary, and not retained for longer than is necessary. It should
+be kept securely to prevent unauthorised access by other people.
+You have the right to see what is held about you and correct any
+inaccuracies online. You can do this by using the
+“login” link at the beginning of the Alerting Service
+page. <br>
+ <br>
+ 
+<h2>Policy changes</h2>
+<br>
+Any changes to this policy will be posted here. <br>
+ <br>
+ 
+<h2>Security</h2>
+<br>
+Investis Limited treats all the data held with the utmost care and
+security. Any details you give will remain completely confidential.
+
+
+</div> 
+        </div> 
+        <!-- end textBlock --> 
+        
+        <!-- start Back to Top -->
+        <div id="buffer"><img src="/ubm/images/shim.gif" alt="" width="1" height="5" border="0"></div> 
+        <div id="backtotopBlock">
+          <div id="backtotop"><ul id="backtotop"><li><a href="#top">Top of page</a></li></ul></div> 
+        </div>
+	<!-- end Back to Top -->
+        
+      </div> 
+      <!-- end contentBlock --> 
+    </div> 
+  </div> 
+  <!-- end main --> 
+  <!-- start footer --> 
+  <div id="footer"> 
+    <div id="footerLinks"> 
+      <ul> 
+        <li><a href="/ubm/sitetools/disclaimer/">Disclaimer</a></li> 
+        <li><a href="/ubm/sitetools/privacy/">Privacy</a></li> 
+        <li><a href="/ubm/sitetools/accessibility/">Accessibility</a></li> 
+        <li><a href="/ubm/sitetools/downloads/">Downloads</a></li> 
+        <li><a href="/ubm/sitetools/sitemap/" class="last">Site Map</a></li> 
+      </ul> 
+    </div> 
+ 
+  </div>
+ 
+  <!-- end footer --> 
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4596830-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+<!--  -->
+
+ </body></html>
