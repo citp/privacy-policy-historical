@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miller-mccune.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619215852id_/http%3A//www.miller-mccune.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miller-mccune.com privacy policy that was archived on 2011-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110722122742id_/http%3A//www.miller-mccune.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Smart Journalism. Real Solutions. Miller-McCune.
+# Privacy Statement | Miller-McCune - Nationally Acclaimed Politics, Science and Culture Coverage
 
 Miller-McCune.com respects each individual’s right to personal privacy, and there is no need to identify yourself in order to view anything posted on our site. However, to join in the conversation or to access some off-site features, we do ask that you register. We will collect and use information through our Web site only in the ways disclosed in this statement.
 
