@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the reghelper.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114023748id_/http%3A//reghelper.com/rh/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghelper.com privacy policy that was archived on 2011-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110722115609id_/http%3A//www.reghelper.com/rh/privacy.asp) for the most accurate reproduction.*
 
 # Registry Helper From SafeApp Software, LLC - Detects And Deletes Invalid Entries In Your Computer's Registry
 
-|   
----  
-  
 ** PRIVACY POLICY  
 Version 2.1**
 
@@ -104,38 +101,7 @@ We welcome your questions and/or suggestions about our Privacy Policy. **12. _Re
 
 Safe
 
- _App_ Software reserves the right to revise, amend or modify this Privacy Policy at any time and in any manner. If our information practices change at some time in the future, we will post the policy changes to our Site to notify you of these changes. Where practicable, we will provide you with the ability to opt-out of these new uses. Please check this Privacy Policy periodically to inform yourself of any changes. By accessing the Site or using the Software after modification of the Privacy Policy, you agree to be bound by this Privacy Policy as modified. The last date this Privacy Policy was revised is set forth above. © 2007-2010 Safe _App_ Software, LLC. All rights reserved.
+ _App_ Software reserves the right to revise, amend or modify this Privacy Policy at any time and in any manner. If our information practices change at some time in the future, we will post the policy changes to our Site to notify you of these changes. Where practicable, we will provide you with the ability to opt-out of these new uses. Please check this Privacy Policy periodically to inform yourself of any changes. By accessing the Site or using the Software after modification of the Privacy Policy, you agree to be bound by this Privacy Policy as modified. The last date this Privacy Policy was revised is set forth above. © 2007-2011 Safe _App_ Software, LLC. All rights reserved.
 
   
 
-
-* * *
-
-[ Home](http://reghelper.com/rh/default.asp) | [ End User License Agreement](http://reghelper.com/rh/license.asp) | [ Privacy Policy](http://reghelper.com/rh/privacy.asp) | [Download Disclosures](http://reghelper.com/rh/disclosures.asp) | [Legal Disclaimers](http://reghelper.com/rh/disclaimers.asp)   
-[System Requirements](http://reghelper.com/rh/system_requirements.asp) | [Screenshot](http://reghelper.com/rh/screen_shot.asp) | [Frequently Asked Questions](http://reghelper.com/rh/faqs.asp) | [Testimonials](http://reghelper.com/rh/testimonials.asp) | [Uninstall](http://reghelper.com/rh/uninstall_instructions.asp)   
-[Unsubscribe](http://reghelper.com/rh/regunsub.asp) | [About Us](http://reghelper.com/rh/about.asp) | [Support](http://reghelper.com/rh/support.asp) | [Pricing/Refunds](http://reghelper.com/rh/pricing.asp) | [Contact Us](http://reghelper.com/rh/email.asp?ws=Footer&ak=&url=/rh/privacy.asp)   
-If you ever receive or see an advertisement for Registry Helper that does not meet  
-our [advertising standards](https://web.archive.org/web/20100114023748id_/http%3A//reghelper.com/rh/about.asp?#advertising) please [contact us](https://web.archive.org/web/20100114023748id_/http%3A//reghelper.com/rh/email.asp?ws=Footer&ak=&url=/rh/privacy.asp) immediately.   
-
-
-* * *
-
-© Copyright 2006-2010, Safe _App_ Software, LLC. All Rights Reserved. Trademarks mentioned are the property of their respective holders.
-
-   Safe _App_ Software, LLC, 600 Mamaroneck Avenue, Suite 400. Harrison, NY 10528. United States.
-
-   Safe _App_ Software, LLC is an independent software vendor producing utilities comptabile with the Microsoft® Windows® operating system, and is not affiliated with or endorsed by Microsoft® Corporation, Verisign®, ScanAlert, Inc. or any other company.
-
-Registry Helper is not yet available for download, installation, or sale to citizens or residents of the United States or any of its territories. By using this web site you agree that you are not a citizen or resident of the United States or any of its territories.
-
-Minimum system requirements: Intel® Pentium® or equivalent processor. Windows Vista*/Windows XP/Windows Server 2003. 128 MB of RAM, 10 MB (for installation), 300-400 MB of free disk space for operation and backups (actual requirement will vary due to size of backups for your particular system).
-
-Note: Registry Helper should not be used on Windows® 95 and may not produce optimal results on Windows® 98/Me as they are older operating systems and are not supported. 
-
-* For Windows Vista, an account with Administrator privileges must be used to ensure a maximum registry cleaning.   
- 
-
-Some **Invalid Entries** , if present, may cause **computer problems** such as **slow computer performance** , **slow startup** , or **error messages in applications**.
-
-Download is safe and digitally signed using a Verisign® certificate.  
-Registry Helper was principally engineered by a leading industry expert.
