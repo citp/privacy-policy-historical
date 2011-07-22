@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complore.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523100351id_/http%3A//www.complore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complore.com privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723012805id_/http%3A//complore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
