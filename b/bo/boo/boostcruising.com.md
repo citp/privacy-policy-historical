@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174447id_/http%3A//www.boostcruising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723084553id_/http%3A//www.boostcruising.com/privacy.php) for the most accurate reproduction.*
 
 # Boostcruising - Boostcruising.com - Terms and Conditions
 
