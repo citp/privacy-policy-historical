@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truth-it.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201065010id_/http%3A//www.truth-it.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truth-it.net privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723120903id_/http%3A//www.truth-it.net/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Truth-It
 
