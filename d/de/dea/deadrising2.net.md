@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadrising2.net privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522065021id_/http%3A//deadrising2.net/other/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadrising2.net privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723170119id_/http%3A//www.deadrising2.net/other/privacy.php) for the most accurate reproduction.*
 
 # Dead Rising 2: Off The Record Cheats & Codes, Dead Rising 3 Walkthrough
 
@@ -67,18 +67,11 @@ This Privacy Policy is effective as of 05/09/2010 and last updated 10/01/2010.
   
 ---  
   
-## FORUMS
-
-|  | 
-
-## OPINION POLL  
   
----|---|---  
-  
-[](https://web.archive.org/forums)
+**Warning** : require() [[function.require](https://web.archive.org/web/20110723170119id_/http%3A//www.deadrising2.net/other/function.require)]: open_basedir restriction in effect. File(/home/goozebum/public_html/forums/grabTop2.php) is not within the allowed path(s): (/home/deadrisi/public_html:/usr/lib/php:/usr/local/lib/php:/tmp) in **/home/deadrisi/public_html/inc/latestdiscussion.txt** on line **1**
 
-Sign up on the [discussion forums](http://www.deadrising2.net/forums/index.php?act=Reg&CODE=00) to chat with other Dead Rising fans about the sequel, what you'd like to see and various other topics!
+**Warning** : require() [[function.require](https://web.archive.org/web/20110723170119id_/http%3A//www.deadrising2.net/other/function.require)]: open_basedir restriction in effect. File(/home/goozebum/public_html/forums/grabTop2.php) is not within the allowed path(s): (/home/deadrisi/public_html:/usr/lib/php:/usr/local/lib/php:/tmp) in **/home/deadrisi/public_html/inc/latestdiscussion.txt** on line **1**
 
-|   
-  
+**Warning** : require(/home/goozebum/public_html/forums/grabTop2.php) [[function.require](https://web.archive.org/web/20110723170119id_/http%3A//www.deadrising2.net/other/function.require)]: failed to open stream: Operation not permitted in **/home/deadrisi/public_html/inc/latestdiscussion.txt** on line **1**
 
+**Fatal error** : require() [[function.require](https://web.archive.org/web/20110723170119id_/http%3A//www.deadrising2.net/other/function.require)]: Failed opening required '/home/goozebum/public_html/forums/grabTop2.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/deadrisi/public_html/inc/latestdiscussion.txt** on line **1**
