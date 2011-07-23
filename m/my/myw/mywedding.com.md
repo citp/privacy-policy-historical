@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywedding.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623202027id_/http%3A//www.mywedding.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywedding.com privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723233953id_/http%3A//www.mywedding.com/main/privacy.html) for the most accurate reproduction.*
 
 # mywedding - Privacy Policy
 
