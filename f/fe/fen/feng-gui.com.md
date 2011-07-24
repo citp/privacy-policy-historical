@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527151756id_/http%3A//www.feng-gui.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2011-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110724214230id_/http%3A//www.feng-gui.com/privacy.htm) for the most accurate reproduction.*
 
 # Feng-GUI - Privacy Policy | Attention Analysis for Websites and Advertisements
 
