@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the togetherwithdogs.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525043036id_/http%3A//togetherwithdogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togetherwithdogs.com privacy policy that was archived on 2011-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110724151749id_/http%3A//togetherwithdogs.com/privacy-policy) for the most accurate reproduction.*
 
 # Google Privacy Policy | Together With Dogs
 
