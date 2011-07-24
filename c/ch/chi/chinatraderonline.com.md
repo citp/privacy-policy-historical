@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatraderonline.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525010622id_/http%3A//www.chinatraderonline.com/support/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatraderonline.com privacy policy that was archived on 2011-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110724100233id_/http%3A//www.chinatraderonline.com/support/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - China Trader Online
 
