@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstinterstatebank.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605043945id_/https%3A//www.firstinterstatebank.com/support/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstinterstatebank.com privacy policy that was archived on 2011-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110725055750id_/https%3A//www.firstinterstatebank.com/support/privacy_statement.php) for the most accurate reproduction.*
 
 # First Interstate Bank Privacy Statement
 
