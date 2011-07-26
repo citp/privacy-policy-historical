@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nicusa.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228073835id_/http%3A//www.nicusa.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicusa.com privacy policy that was archived on 2011-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110727013338id_/http%3A//www.egov.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # NIC Privacy Policy
 
 ### NIC Corporate Website Privacy Policy
 
-Last Updated March 31, 2010
+Last Updated March 31, 2011
 
-NIC, Inc. (hereinafter "NIC") is committed to safeguarding your privacy on its websites NICUSA.com (the "Site"). This NIC Privacy Policy does not apply to products or services provided, or information obtained, other than through the Site. Please read the following policy to understand how your information will be treated. This policy may change from time to time so please check back periodically. Please keep in mind that some of the services mentioned specifically in this policy may not be available on the Site at this time. If you have questions concerning this policy, please contact NIC's General Counsel at [brad@nicusa.com](mailto:brad@nicusa.com).
+NIC, Inc. (hereinafter "NIC") is committed to safeguarding your privacy on its websites EGOV.com (the "Site"). This NIC Privacy Policy does not apply to products or services provided, or information obtained, other than through the Site. Please read the following policy to understand how your information will be treated. This policy may change from time to time so please check back periodically. Please keep in mind that some of the services mentioned specifically in this policy may not be available on the Site at this time. If you have questions concerning this policy, please contact NIC's General Counsel at [brad@egov.com](mailto:brad@egov.com).
 
-If you believe that any inaccurate or inappropriate information has been obtained or disseminated through your use of this Site, you should contact a representative of NIC at [custserve@nicusa.com](mailto:custserv@nicusa.com).
+If you believe that any inaccurate or inappropriate information has been obtained or disseminated through your use of this Site, you should contact a representative of NIC at [custserve@egov.com](mailto:custserv@egov.com).
 
 #### What information is being collected from me?
 
@@ -28,7 +28,7 @@ We will not disclose any of your personally identifiable information except when
 
 #### How can I control my personal information?
 
-NIC offers its customers choices for the use and sharing of personal information. You may contact us at [custserve@nicusa.com](mailto:custserve@nicusa.com) if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.
+NIC offers its customers choices for the use and sharing of personal information. You may contact us at [custserve@egov.com](mailto:custserve@egov.com) if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.
 
 #### What security precautions are in place to protect the loss, misuse or alteration of my information?
 
@@ -42,7 +42,7 @@ The Site uses cookies. A cookie is a small amount of data that is sent to your b
 
 When our customer relationship ends, we will keep information about you as if you were still our customer. We may dispose of the information in accordance with our record retention policy. 
 
-If you have questions or comments regarding this Privacy Policy, please send us an email at [custserve@nicusa.com](mailto:custserve@nicusa.com), or write to us at:
+If you have questions or comments regarding this Privacy Policy, please send us an email at [custserve@egov.com](mailto:custserve@egov.com), or write to us at:
 
 NIC Inc.   
 Attention: Investor Relations  
