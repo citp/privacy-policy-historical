@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the townhog.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203001344id_/http%3A//townhog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townhog.com privacy policy that was archived on 2011-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110726193225id_/http%3A//townhog.com/privacy) for the most accurate reproduction.*
 
 # TownHog | privacy
 
