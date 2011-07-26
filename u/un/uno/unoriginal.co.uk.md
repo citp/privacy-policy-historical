@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unoriginal.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624085621id_/http%3A//unoriginal.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unoriginal.co.uk privacy policy that was archived on 2011-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110726120220id_/http%3A//www.unoriginal.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
