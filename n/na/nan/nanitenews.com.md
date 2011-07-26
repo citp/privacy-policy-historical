@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanitenews.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527072332id_/http%3A//www.nanitenews.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanitenews.com privacy policy that was archived on 2011-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110726184949id_/http%3A//www.nanitenews.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # NaniteNews.com - Privacy Policy
 
