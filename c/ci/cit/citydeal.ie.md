@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citydeal.ie privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625213707id_/http%3A//www.citydeal.ie/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citydeal.ie privacy policy that was archived on 2011-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110728004411id_/http%3A//www.citydeal.ie/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - citydeal.ie
 
