@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokeroutpost.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429020008id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.brokeroutpost.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokeroutpost.com privacy policy that was archived on 2011-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110727192604id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.brokeroutpost.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
