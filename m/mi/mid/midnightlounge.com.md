@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midnightlounge.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924235326id_/http%3A//www.midnightlounge.com/products/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnightlounge.com privacy policy that was archived on 2011-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110728020930id_/http%3A//www.midnightlounge.com/products/privacy-policy/default.aspx) for the most accurate reproduction.*
 
 # Midnight Lounge
 
