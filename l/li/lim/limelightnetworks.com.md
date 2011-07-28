@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528205828id_/http%3A//www.limelightnetworks.com/content-delivery-company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2011-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110728073554id_/http%3A//www.limelightnetworks.com/content-delivery-company/privacy) for the most accurate reproduction.*
 
 # Privacy | Limelight Networks
 
@@ -111,4 +111,4 @@ Privacy Policy effective as of March 25, 2010.
 
 Limelight does not send unsolicited e–mails to non–public addresses or to anyone who has asked us not to contact him or her. Any newsletters that we send are only sent to those who have subscribed to them. To stop receiving e–mails or newsletters from Limelight, either click on an unsubscribe link on the e–mail or newsletter itself or send a request to be unsubscribed to websupport@limelightnetworks.com . 
 
-Please contact Limelight with any questions or comments about this Privacy Policy, your personal information, and our third–party disclosure practices or your consent choices at: Limelight Networks, 2220 West 14th Ave, Tempe, AZ 85281, (602) 850–5000 or by email at: websupport@limelightnetworks.com. We will respond to your inquiry within 30 days of its receipt. 
+Please contact Limelight with any questions or comments about this Privacy Policy, your personal information, and our third–party disclosure practices or your consent choices at: Limelight Networks, 222 S. Mill Ave, Tempe, AZ 85281, (602) 850–5000 or by email at: websupport@limelightnetworks.com. We will respond to your inquiry within 30 days of its receipt. 
