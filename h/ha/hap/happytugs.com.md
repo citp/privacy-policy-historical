@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happytugs.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430235922id_/http%3A//service.adultprovide.com/docs/privacy.htm%3Fsite%3Dhappytugs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happytugs.com privacy policy that was archived on 2011-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110728073602id_/http%3A//service.adultprovide.com/docs/privacy.htm%3Fsite%3Dhappytugs) for the most accurate reproduction.*
 
 # RealityKings Privacy Policy
 
