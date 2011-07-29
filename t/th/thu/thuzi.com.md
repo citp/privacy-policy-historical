@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thuzi.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524053346id_/http%3A//thuzi.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thuzi.com privacy policy that was archived on 2011-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110729151749id_/http%3A//www.thuzi.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
