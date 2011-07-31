@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altredo.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511223753id_/http%3A//www.altredo.com/business_intelligence_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altredo.com privacy policy that was archived on 2011-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110731145428id_/http%3A//www.altredo.com/business_intelligence_privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ALTREDO
 
