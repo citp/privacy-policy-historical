@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mwd.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602002356id_/http%3A//www.mwd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwd.com privacy policy that was archived on 2011-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110801211326id_/http%3A//www.mwd.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MWD
 
