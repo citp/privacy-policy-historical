@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812072236id_/https%3A//www.hamcity.com/store/pc/viewContent.asp%3Fidpage%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2011-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110803005132id_/https%3A//www.hamcity.com/store/pc/viewContent.asp%3Fidpage%3D6) for the most accurate reproduction.*
 
-# Privacy Policy - HamCity / Ham Radio Equipment - HamCity / Ham Radio Equipment
+# Privacy Policy - HamCity / Ham Radio Equipment
 
 |   
 ---  
