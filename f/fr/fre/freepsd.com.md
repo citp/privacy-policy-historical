@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepsd.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603063138id_/http%3A//freepsd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepsd.com privacy policy that was archived on 2011-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110802233357id_/http%3A//freepsd.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FreePSD
+# Privacy Policy | FreePSD
 
 Welcome to the Websites of NPA Media Group, Australia (“us”, “we”, “our”, or “NPA Media”). This Privacy Policy applies to all NPA Media’s websites and those websites are referred to collectively as the “NPA Media Websites” or “our Websites”, whether in the singular or the plural.
 
