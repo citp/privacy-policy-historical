@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automild.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605020527id_/http%3A//www.automild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automild.com privacy policy that was archived on 2011-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110802050203id_/http%3A//www.automild.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Car News And Reviews on AutoMild.Com
 
