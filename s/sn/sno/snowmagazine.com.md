@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315173826id_/http%3A//www.snowmagazine.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D309%26Itemid%3D152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2011-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110804163213id_/http%3A//www.snowmagazine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -36,7 +36,7 @@ We shall only use your personal data for the following purposes where applicable
 (g) for our own internal purposes in connection with risk control, resolving consumer disputes; and  
 (h) for producing statistics and other information relating to our business and the users of our website.
 
-You may at any time revoke your consent to us contacting you for the purposes noted in (d) and (e) above by contacting us at [here](https://web.archive.org/index.php?option=com_contact&view=contact&catid=12:contacts&id=1-snowmagazinecom), or by unsubscribing from our email mailing lists by following the procedure set out in any of the relevant emails that we send you.
+You may at any time revoke your consent to us contacting you for the purposes noted in (d) and (e) above by contacting us at [here](http://www.snowmagazine.com/component/contact/12-contacts/1-snowmagazinecom.html), or by unsubscribing from our email mailing lists by following the procedure set out in any of the relevant emails that we send you.
 
 General Information
 
@@ -80,7 +80,7 @@ NOTE. Some of the advertisements on our website may contain cookies, GIFs, or ot
 
 At your request we shall make any amendments that you stipulate to the personal data that you have supplied us with. If you require it we shall also remove your name and personal data from our database. This shall be on the basis that you shall be deemed to have cancelled any contract or licence you may have had with us that the personal data in question related to, and (as we shall not have been at fault in those circumstances) you shall not be entitled to any compensation or refunds in relation to the cancellation of the applicable contract or licence.
 
-Please contact us at [here](https://web.archive.org/index.php?option=com_contact&view=contact&catid=12:contacts&id=1-snowmagazinecom) in relation to the matters to which this point 7 relates, or if you have any questions or concerns regarding our privacy policy.
+Please contact us at [here](http://www.snowmagazine.com/component/contact/12-contacts/1-snowmagazinecom.html) in relation to the matters to which this point 7 relates, or if you have any questions or concerns regarding our privacy policy.
 
 This Privacy Policy has been prepared to meet the requirements of the UK's Data Protection Act 1998, and that Act only relates to the collection, protection, disclosure and use of personal data belonging to living individuals. It does not relate to data regarding companies and other non-living entities, although the general principles regarding our collection and use of data is broadly the same irrespective of whether the users of our website are living individuals or not.
 
