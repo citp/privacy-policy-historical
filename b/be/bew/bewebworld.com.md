@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bewebworld.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604130250id_/http%3A//bewebworld.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewebworld.com privacy policy that was archived on 2011-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110804103447id_/http%3A//bewebworld.com/doc/privacy) for the most accurate reproduction.*
 
-# Privacy - Be Web World
+# Privacy - Be Web World | Free Bookmarking , Microblogging
 
 This document outlines this service's respect for your personal privacy as a user of the service.
 
