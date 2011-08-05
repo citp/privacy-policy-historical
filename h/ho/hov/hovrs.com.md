@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hovrs.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624122039id_/http%3A//www.hovrs.com/common/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hovrs.com privacy policy that was archived on 2011-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110806010451id_/http%3A//www.hovrs.com/common/privacypolicy.aspx) for the most accurate reproduction.*
 
 # HOVRS - Privacy Policy
 
@@ -49,8 +49,8 @@ Users may access, correct, and update information they have provided to HOVRS by
 HOVRS reserves the right to amend this policy at any time. We will provide notices on our web site of any material changes to the privacy statement and in the use of personally identifiable information. Your use of the website after any such changes constitute acceptance of such changes.
 
 **Contacting Us:**  
-For inquiries regarding our privacy statement, use the [Customer Service form](https://web.archive.org/web/20110624122039id_/http%3A//www.hovrs.com/cc/userfeedback.aspx).
+For inquiries regarding our privacy statement, use the [Customer Service form](https://web.archive.org/web/20110806010451id_/http%3A//www.hovrs.com/cc/userfeedback.aspx).
 
 **Your California Privacy Rights:**  
 Effective Date: June 30, 2005  
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our users to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, use the [Customer Service form](https://web.archive.org/web/20110624122039id_/http%3A//www.hovrs.com/cc/userfeedback.aspx).
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our users to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, use the [Customer Service form](https://web.archive.org/web/20110806010451id_/http%3A//www.hovrs.com/cc/userfeedback.aspx).
