@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shepablog.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427153901id_/http%3A//www.shepablog.com/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shepablog.com privacy policy that was archived on 2011-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110805053205id_/http%3A//www.shepablog.com/privay-policy) for the most accurate reproduction.*
 
 # Privay Policy
 
