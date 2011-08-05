@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waroftitans.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606144315id_/http%3A//www.waroftitans.com/index.es%3Faction%3Dinfo%26subAction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waroftitans.com privacy policy that was archived on 2011-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110806011246id_/http%3A//www.waroftitans.com/index.es%3Faction%3Dinfo%26subAction%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ A cookie is a small text file that may be stored on the hard drive of your compu
 2  |  ACCESS TO INFORMATION YOU PROVIDE TO US   
 ---|---  
   
-You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send an email with your request to stop@bigpoint.com.
+You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send an email with your request to stop.en@bigpoint.com.
 
 We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to contact you when necessary; (3) to review Site usage and operations; (4) to address problems with the Site, our business or our products and services; and (5) to protect the security or integrity of the Site and our business. We may also use the information we collect from and about you to contact you with information and promotional materials and offers from our company, as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. If you would prefer not to receive such promotional communications, please follow the unsubscribe instructions within the email you received when setting up your account. 
 
@@ -42,7 +42,7 @@ We may provide your information to third party companies to perform services on 
 5  |  YOUR CALIFORNIA PRIVACY RIGHTS   
 ---|---  
   
-If you are a resident of California, you may request that we not share your personal information with third parties for their own marketing purposes. To do so, please send an email, with “California Opt-Out” in the subject line, to stop@bigpoint.com.
+If you are a resident of California, you may request that we not share your personal information with third parties for their own marketing purposes. To do so, please send an email, with “California Opt-Out” in the subject line, to stop.en@bigpoint.com.
 
 We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from Site visitors.
 
