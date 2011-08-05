@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webaffair.com privacy policy that was archived on 2010-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100807145141id_/http%3A//webaffair.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webaffair.com privacy policy that was archived on 2011-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110805095740id_/http%3A//www.webaffair.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Dating : Free Online Dating at WebAffair.com
 
