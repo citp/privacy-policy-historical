@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316185056id_/http%3A//www.wholesomebabyfood.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2011-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110805142834id_/http%3A//wholesomebabyfood.momtastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Wholesome Baby Food - Privacy Policy, Disclaimers, Use of COntent and Copyright Information
 
@@ -31,7 +31,7 @@ To secure such permission, contact wholesomebabyfood.com via our [Contact Us](ht
 
 **PRIVACY POLICY**
 
-We **do not collect any personal information** such as your name, address, e-mail address, or telephone number. We do not collect or store any names or email addresses sent via the [Contact Us](https://web.archive.org/web/20100316185056id_/http%3A//www.wholesomebabyfood.com/contact_us.htm) form 
+We **do not collect any personal information** such as your name, address, e-mail address, or telephone number. We do not collect or store any names or email addresses sent via the [Contact Us](https://web.archive.org/web/20110805142834id_/http%3A//wholesomebabyfood.momtastic.com/contact_us.htm) form 
 
 We **may collect any other information** such as your IP address, the type of browser and operating system that you use, or the date and time of your visit, the web pages within our site that you may have visited and any files that you may have downloaded. Logging of IP addresses enables us to combat spam and ensure the integrity of voting in our various contests where voting occurs. Our voting provider, www.websitetoolbox.com, enables ip logging to ensure that multiple votes are not included in our contests. 
 
@@ -39,4 +39,5 @@ We **may collect any other information** such as your IP address, the type of br
 
 **We** **do use session specific Cookies** , which are simple text files that are stored on your computer by your web browser.  _Our Merchants may also use session specific cookies; be sure to review their privacy policies as well._ We use this information solely to improve the quality, design and ease of use of our website and to see how many visitors we have based on several advertising and marketing techniques. We are **not collecting** any personal information via cookies.
 
-© Copyright 2003-2010 wholesomebabyfood.com. All Rights Reserved. Information in this website is not meant to be taken as medical advice, we are not licensed medical physicians, and thus the information presented should not replace the medical advice of your doctor or pediatrician. Contents of this website may be reproduced only for personal use. Contents may not be reproduced for other use without the express written consent of wholesomebabyfood.com.[ Privacy Policy & Notices ](https://web.archive.org/web/20100316185056id_/http%3A//www.wholesomebabyfood.com/privacy.htm)
+© Copyright 2003-2010wholesomebabyfood.com. All Rights Reserved. Information on wholesomebabyfood.com is presented for educational purposes only. While the information published on this site is believed to be accurate, it is not intended to substitute for professional medical advice. Statements and opinions expressed should not be considered facts to replace those from your qualified health care provider. Contents of this website may be reproduced only for personal use and may not appear on other websites or in other electronic formats. Contents may not be reproduced for other use without the express written consent of wholesomebabyfood.com.[ Privacy Policy & Notices   
+](https://web.archive.org/web/20110805142834id_/http%3A//wholesomebabyfood.momtastic.com/privacy.htm)
