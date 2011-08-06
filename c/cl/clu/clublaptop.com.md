@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clublaptop.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413161502id_/http%3A//clublaptop.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clublaptop.com privacy policy that was archived on 2011-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110806100812id_/http%3A//www.clublaptop.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Club Laptop
 
