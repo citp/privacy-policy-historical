@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerlifestylemag.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318175945id_/http%3A//www.lifestyleheadlines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerlifestylemag.com privacy policy that was archived on 2011-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110806084332id_/http%3A//www.lifestyleheadlines.com/privacy-policy) for the most accurate reproduction.*
 
 # Lifestyle Headlines.com | Privacy Policy
 
