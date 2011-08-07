@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430113048id_/http%3A//www.xooarticles.com/pages/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808001255id_/http%3A//www.xooarticles.com/pages/1.html) for the most accurate reproduction.*
 
 # XooArticles.com - Xoo Article Submission - Submit press release online free of charge
 
