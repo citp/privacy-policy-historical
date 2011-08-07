@@ -1,73 +1,166 @@
-<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2010-01-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100131005018id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2011-08-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110807225355id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
 <meta name="verify-v1" content="tJW8+KCrvqajnrFbz9ixPDL96E50yo6AFpOZuaTfh3A=">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="copyright" content="© Interparcel Limited">
 <meta http-equiv="content-language" content="en-US,en-UK">
-<meta name="name" content="description">
-<meta name="keywords" content="parcel, parcel delivery, courier, discount courier, cheap courier, worldwide, ups, dhl, parceline, express, import, delivery">
 <meta name="robots" content="INDEX,FOLLOW">
 
-<link rel="stylesheet" title="Interparcel" href="/test.css">
 <link rel="shortcut icon" href="/images/favicon/favicon.ico">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="alternate" title="Interparcel News Feed" href="/news-rss.xml" type="application/rss+xml">
 
+<link rel="stylesheet" title="Interparcel" href="/interparcel.css">
 
-<meta name="content" content="Discount UK and International courier and parcel delivery services. Instant quote and online booking. Services include Next Day, Home Delivery, Express, Freight and Imports.">
-<meta name="description" content="Discount UK and International courier and parcel delivery services. Instant quote and online booking. Services include Next Day, Home Delivery, Express, Freight and Imports.">
-<title>Interparcel : Privacy Policy</title>
+
+<title>Interparcel Privacy Policy</title>
+<meta name="description" content="Interparcel is committed to protecting your privacy. This page explains what happens with any data that we collect.">
+<meta name="keywords" content="Interparcel privacy policy, privacy policy, interparcel data protection">
 
 </head>
 
 <body>
 
-<center>
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="/js/pngfix.js"></script>
+<![endif]-->
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript">
+
+function findPosition(oElement) {
+  if( typeof( oElement.offsetParent ) != 'undefined' ) {
+    for( var posX = 0, posY = 0; oElement; oElement = oElement.offsetParent ) {
+      posX += oElement.offsetLeft;
+      posY += oElement.offsetTop;
+    }
+    return [ posX, posY ];
+  } else {
+    return [ oElement.x, oElement.y ];
+  }
+}
+
+var logintimer = 0;
+
+function show_loginform () {
+  document.getElementById('loginbox').style.visibility = "visible";
+}
+
+function hide_loginform () {
+  document.getElementById('loginbox').style.visibility = "hidden";
+  document.getElementById('logintab').src='/images_new/menu/mnu_login_off.gif';
+}
+
+function start_logintimer() {
+  if (logintimer != 0) {
+    clearTimeout (logintimer); logintimer = 0;
+  } 
+  document.getElementById('logintab').src='/images_new/menu/mnu_login_hover.gif';
+  show_loginform();
+}
+
+function reset_logintimer () {
+  if (logintimer != 0) {
+    clearTimeout (logintimer);
+  }
+  logintimer = setTimeout ('hide_loginform();', 150);
+}
+
+function clear_logintimer () {
+  if (logintimer != 0) {
+    clearTimeout (logintimer); logintimer = 0;
+  }
+}
+
+
+
+var myaccounttimer = 0;
+
+function show_myaccountform () {
+  document.getElementById('myaccountbox').style.visibility = "visible";
+}
+
+function hide_myaccountform () {
+  document.getElementById('myaccountbox').style.visibility = "hidden";
+  document.getElementById('myaccounttab').src='/images_new/menu/mnu_myaccount_off.gif';
+}
+
+function start_myaccounttimer() {
+  if (myaccounttimer != 0) {
+    clearTimeout (myaccounttimer); myaccounttimer = 0;
+  } 
+  document.getElementById('myaccounttab').src='/images_new/menu/mnu_myaccount_hover.gif';
+  show_myaccountform();
+}
+
+function reset_myaccounttimer () {
+  if (myaccounttimer != 0) {
+    clearTimeout (myaccounttimer);
+  }
+  myaccounttimer = setTimeout ('hide_myaccountform();', 150);
+}
+
+function clear_myaccounttimer () {
+  if (myaccounttimer != 0) {
+    clearTimeout (myaccounttimer); myaccounttimer = 0;
+  }
+}
+
+function track_package() {
+  var trackno = document.getElementById('header_track').value;
+  document.location = 'http://www.interparcel.com/tracking.php?action=track&trackno=' + trackno
+}
+
+function enter_trackbox() {
+  var trackno = document.getElementById('header_track').value;
+  if (trackno == 'Enter your tracking number...') {document.getElementById('header_track').value = '';}
+}
+
+function leave_trackbox() {
+  var trackno = document.getElementById('header_track').value;
+  if (trackno == '') {document.getElementById('header_track').value = 'Enter your tracking number...';}
+}
+
+</script>
 
 
 
 
-<!-------------------- TOP PAGE BANNER ------------------->
 
 
-<table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" height="190" width="818">
+<!-- Page Header -->
 
-<tbody><tr><td style="background: url(/images/bg_topleft.gif)"></td>
-<td colspan="5" height="9" width="800" style="background: url(/images/bg_top.gif)"></td>
-<td style="background: url(/images/bg_topright.gif)"></td>
-</tr>
+<table id="header" border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tbody><tr><td colspan="3" height="10"></td></tr>
+
 <tr>
-<td width="9" style="background: url(/images/bg_left.gif)"></td>
-
-<td bgcolor="#ffffff" width="10">&nbsp;</td>
-
-
-<td width="221"><img src="/images/header_left.jpg" width="221" height="190" border="0"></td>
-
-
-<td width="186" bgcolor="#354355">
-<table align="center" valign="middle" width="96%" border="0" cellpadding="7" cellspacing="5">
-<tbody><tr><td bgcolor="#4A5E77" onclick="location.href='http://www.interparcel.com'" style="cursor: pointer;" onmouseover="this.style.backgroundColor='#70869B'" ;="" onmouseout="this.style.backgroundColor='#4A5E77';"><font color="#FFFFFF"><b>&nbsp;&nbsp;Home</b></font></td></tr>
-<tr><td bgcolor="#4A5E77" onclick="location.href='http://www.interparcel.com/quote'" ;="" style="cursor: pointer;" onmouseover="this.style.backgroundColor='#70869B'" onmouseout="this.style.backgroundColor='#4A5E77';"><font color="#FFFFFF"><b>&nbsp;&nbsp;Quote &amp; Book</b></font></td></tr>
-<tr><td bgcolor="#4A5E77" onclick="location.href='http://www.interparcel.com/services.php'" ;="" style="cursor: pointer;" onmouseover="this.style.backgroundColor='#70869B'" onmouseout="this.style.backgroundColor='#4A5E77';"><font color="#FFFFFF"><b>&nbsp;&nbsp;Our Services</b></font></td></tr>
-<tr><td bgcolor="#4A5E77" onclick="location.href='http://www.interparcel.com/help'" ;="" style="cursor: pointer;" onmouseover="this.style.backgroundColor='#70869B'" onmouseout="this.style.backgroundColor='#4A5E77';"><font color="#FFFFFF"><b>&nbsp;&nbsp;Help &amp; Information</b></font></td></tr>
-<tr><td bgcolor="#4A5E77" onclick="location.href='http://www.interparcel.com/contact.php'" ;="" style="cursor: pointer;" onmouseover="this.style.backgroundColor='#70869B'" onmouseout="this.style.backgroundColor='#4A5E77';"><font color="#FFFFFF"><b>&nbsp;&nbsp;Contact Us</b></font></td></tr>
-</tbody></table>
-</td>
-
-
-<td width="373"><img src="/images/header_right.jpg" width="373" height="190" border="0"></td>
-
-
-
-<td bgcolor="#ffffff" width="10">&nbsp;</td>
-
-<td width="9" style="background: url(/images/bg_right.gif)"></td>
-
+<td rowspan="4" width="603"><img src="/images_new/main_layout/logo.png" alt="interparcel.com" title="interparcel.com"></td>
 </tr>
+
+<tr>
+  <td align="right" colspan="2" height="50">
+  <img src="/images_new/main_layout/the_way_parcels_are_meant_to_be_sent.png" alt="The way parcels are meant to be sent" title="The way parcels are meant to be sent"></td>
+</tr>
+
+<tr>
+<td height="33" align="right" valign="bottom" style="background-image: url(/images_new/main_layout/trackingbox.gif); background-repeat: no-repeat; background-position: right;">
+<input type="text" id="header_track" value="Enter your tracking number..." name="header_track" onfocus="enter_trackbox();" onblur="leave_trackbox();" style="width:248px; height: 20px; position: relative; top: -3px; left: -2px; border:0px; outline: none;">
+</td>
+<td width="51" height="33" valign="bottom"><img src="/images_new/main_layout/trackingbutton_off.gif" onmouseover="this.src='/images_new/main_layout/trackingbutton_on.gif';" onmouseout="this.src='/images_new/main_layout/trackingbutton_off.gif';" style="cursor:pointer;" onclick="track_package();" alt="Track your package" title="Track your package"></td>
+</tr>
+
+<tr>
+<td colspan="2" height="15" style="font-size: 1px">&nbsp;</td>
+</tr>
+
+<tr>
+<td height="27" valign="bottom">&nbsp;</td>
+<td valign="bottom" align="right" colspan="2">&nbsp;</td>
+</tr>
+
 </tbody></table>
 
 
@@ -75,75 +168,320 @@
 
 
 
-<!---------------- DRAW CUSTOMER ACCOUNT MANAGEMENT MENU ------------------->
 
 
 
 
 
 
-<!---------------------MAIN PAGE TABLE------------------->
-
-<table cellpadding="0" cellspacing="0" border="0" width="818" height="500">
+<!-- Menu -->
+<table id="header" border="0" cellpadding="0" cellspacing="0" width="960" align="center" style="BACKGROUND-image: url(/images_new/menu/menu_background.gif);">
 <tbody><tr>
-<td width="9" style="background: url(/images/bg_left.gif)"></td>
-<td bgcolor="#ffffff" width="10">&nbsp;</td>
-<td width="780" height="100%" valign="top" bgcolor="#ffffff">
+<td style="BACKGROUND-image: url(/images_new/menu/menu_top_left.gif);" height="42" width="7"></td>
+
+<td width="65" valign="bottom"><a href="http://www.interparcel.com"><img border="0" style="cursor:pointer;" src="/images_new/menu/mnu_home_off.gif" onmouseover="this.src='/images_new/menu/mnu_home_hover.gif'" onmouseout="this.src='/images_new/menu/mnu_home_off.gif'"></a></td><td width="15">&nbsp;</td><td width="113" valign="bottom"><a href="http://www.interparcel.com/quote"><img border="0" style="cursor:pointer;" src="/images_new/menu/mnu_quote_off.gif" onmouseover="this.src='/images_new/menu/mnu_quote_hover.gif'" onmouseout="this.src='/images_new/menu/mnu_quote_off.gif'"></a></td><td width="15">&nbsp;</td><td width="122" valign="bottom"><a href="http://www.interparcel.com/services.php"><img border="0" style="cursor:pointer;" src="/images_new/menu/mnu_services_off.gif" onmouseover="this.src='/images_new/menu/mnu_services_hover.gif'" onmouseout="this.src='/images_new/menu/mnu_services_off.gif'"></a></td><td width="15">&nbsp;</td><td width="132" valign="bottom"><a href="http://www.interparcel.com/help"><img border="0" style="cursor:pointer;" src="/images_new/menu/mnu_help_off.gif" onmouseover="this.src='/images_new/menu/mnu_help_hover.gif'" onmouseout="this.src='/images_new/menu/mnu_help_off.gif'"></a></td><td width="15">&nbsp;</td><td width="108" valign="bottom"><a href="http://www.interparcel.com/contact.php"><img border="0" style="cursor:pointer;" src="/images_new/menu/mnu_contact_off.gif" onmouseover="this.src='/images_new/menu/mnu_contact_hover.gif'" onmouseout="this.src='/images_new/menu/mnu_contact_off.gif'"></a></td><td>&nbsp;</td><td width="92" valign="bottom"><img id="logintab" border="0" style="cursor:pointer;" src="/images_new/menu/mnu_login_off.gif" onmouseover="start_logintimer();" onmouseout="reset_logintimer();"></td><td style="BACKGROUND-image: url(/images_new/menu/menu_top_right.gif);" width="7"></td>
+</tr>
+
+</tbody></table>
 
 
-<!------------------MAIN CONTENT TABLE------------------->
 
 
 
-<span class="pagetitle">Privacy Policy</span>
-<br><br>
+<!-- Container for Login Box Div -->
+<div id="container" style="width:960px; margin: 0 auto; position:relative; z-index:10;" onmouseover="clear_logintimer();" onmouseout="reset_logintimer();">
 
-Interparcel is committed to protecting your privacy. We will only use the
-information that we collect about you lawfully (in accordance with the
-Data Protection Act 1998).<br>  
-<br> We collect information about you for 2 reasons: firstly, to
-process your order and second, to provide you with the best possible
-service.<br>
-<br>
-We will not e-mail you in the future unless you have given us your consent.<br>
-<br>
-The type of information we will collect about you includes:
-<p></p><ul> 
-<li>Your name 
-</li><li>Address 
-</li><li>Phone number 
-</li><li>Email address 
+  <!-- Login Box -->
+  <div id="loginbox" name="loginbox" style="visibility:hidden; position: absolute; top:0px; left:714px; width:246px">
+  <form name="loginform" id="loginform" action="https://www.interparcel.com/authlogin.php" method="POST">
+  <input type="hidden" name="action" value="login">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+  <td width="6" height="6"><img src="/images_new/menu/loginbox/loginbox_top_left.png"></td>
+  <td style="font-size: 1px; background-color:#364550;">&nbsp;</td>
+  <td width="6" height="6"><img src="/images_new/menu/loginbox/loginbox_top_right.png"></td>
+  </tr>
+  <tr>
+  <td style="background-color:#364550;"></td>
+  <td style="background-color:#364550;">
+  
+    <table border="0" cellpadding="0" cellspacing="0" style="background-color:#364550;" align="center">
+    <tbody><tr>
+    <td height="40"><img src="/images_new/menu/loginbox/loginbox_login.gif"></td>
+    </tr>
+    
+    <tr><td height="20" style="font-size: 1px;">&nbsp;</td></tr>
+    
+    <tr>
+    <td height="20" valign="top"><img src="/images_new/menu/loginbox/loginbox_username.gif"></td>
+    </tr>
+    
+    <tr>
+    <td height="50" valign="top">
+    <div class="nice_outer_container" style="width:200px;">
+    <input type="text" name="user" id="user" class="nice_text" style="width:190px;">
+    </div>
+    </td>
+    </tr>
+    
+    
+    <tr>
+    <td height="20" valign="top"><img src="/images_new/menu/loginbox/loginbox_password.gif"></td>
+    </tr>
+    
+    <tr>
+    <td height="40" valign="top">
+    <div class="nice_outer_container" style="width:200px;">
+    <input type="password" name="password" id="password" class="nice_text" style="width:190px;">
+    </div>
+    </td>
+    </tr>
+    
+    <tr>
+    <td height="20" valign="top">
+    <input type="checkbox" name="rememberme" id="rememberme" checked="">&nbsp;<img src="/images_new/menu/loginbox/loginbox_rememberme.gif">
+    </td>
+    </tr>
+    
+    <tr>
+    <td height="60" align="center">
+    <input type="image" src="/images_new/buttons/login_off.gif" onmouseover="this.src='/images_new/buttons/login_on.gif';" onmouseout="this.src='/images_new/buttons/login_off.gif';">
+    </td>
+    </tr>
+    
+    </tbody></table>
+    
+  </td>
+  <td style="background-color:#364550;"></td>
+  </tr>
+  <tr>
+  <td width="6" height="6"><img src="/images_new/menu/loginbox/loginbox_bottom_left.png"></td>
+  <td style="font-size: 1px; background-color:#364550;">&nbsp;</td>
+  <td width="6" height="6"><img src="/images_new/menu/loginbox/loginbox_bottom_right.png"></td>
+  </tr>
+  </tbody></table>
+  </form>
+  </div>
 
-</li><li>Credit/debit card details 
-</li></ul>  
-We will never collect sensitive information about you without your explicit consent.<br>
-<br>
-The information we hold will be accurate and up to date. You can check
-the information that we hold about you by emailing us. If you find any
-inaccuracies we will delete or correct it promptly.<br>
-<br>
-The personal information which we hold will be held securely in accordance with our internal security policy and the law.   
-<br><br>
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.<br> 
-<br>
-We may use technology to track the patterns of behaviour of visitors to
-our site. This can include using a "cookie" which would be stored on
-your browser. You can usually modify your browser to prevent this
-happening. The information collected in this way can be used to
-identify you unless you modify your browser settings.<br>
-<br>
-If you have any questions/comments about privacy, you should <a href="/contact.php">contact us</a>. 
+</div>
 
 
+
+
+
+
+
+
+
+
+<table width="960" bgcolor="#ffffff" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+
+
+<td width="8" height="16" style="background-image: url(/images_new/menu/menu_bottom_left.gif);"></td><td width="944"></td><td width="8" style="background-image: url(/images_new/menu/menu_bottom_right.gif);">
+
+</td>
+</tr>
+<tr><td height="6"></td></tr>
+</tbody></table>
+
+
+
+
+  
+  
+  
+<!-- MAIN PAGE TABLE -->
+<table id="maintable" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="960" height="600" align="center">
+  <tbody><tr>
+  <td width="16" height="100%" bgcolor="#FFFFFF"></td>
+  <td width="928" valign="top" bgcolor="#FFFFFF">
+<!-- MAIN CONTENT TABLE -->
+
+
+
+<div style="width:714px; float: left;">
+
+
+  <h1>Privacy Policy</h1>
+
+
+  <br>
+  <div class="header-description">
+  Interparcel is committed to protecting your privacy.<br>
+  This page explains what we do with any data that we may collect.
+  </div>
+  
+  <br>
+  
+  
+    
+  <table border="0" cellpadding="0" cellspacing="0" style="background-color: #ffffff;">
+  <tbody><tr>
+    <td width="6" height="6"><img src="/images_new/borders/rounded_white_tl.gif"></td>
+    <td style="border-top: 1px solid #e3e3e3; font-size:1px">&nbsp;</td>
+    <td width="6"><img src="/images_new/borders/rounded_white_tr.gif"></td>
+  </tr>
+  
+  <tr>
+    <td height="40" style="border-left: 1px solid #e3e3e3; font-size: 1px">&nbsp;</td>
+    <td style="padding:15px; line-height: 16px;">
+  
+  
+      We only use the information that we collect about you lawfully (in accordance with the
+      Data Protection Act 1998).<br>  
+      <br> We collect information about you for 2 reasons: firstly, to
+      process your order and second, to provide you with the best possible
+      service.<br>
+      <br>
+      If you make a purchase from us, we may e-mail you in the future with news and offers.<br>
+      You can opt out of all marketing emails at any time.
+      <br>
+      We will, however, still email you with information and documentation relating to any orders you place with us. 
+      <br><br>
+      The type of information we will collect about you includes:
+      <p></p>
+      <ul class="send-a-parcel"> 
+      <li>Your name</li>
+      <li>Address </li>
+      <li>Phone number</li>
+      <li>Email address</li>
+      <li>Credit/debit card details</li>
+      </ul>  
+      We will never collect sensitive information about you without your explicit consent.<br>
+      <br>
+      The information we hold will be accurate and up to date. You can check
+      the information that we hold about you by emailing us. If you find any
+      inaccuracies we will delete or correct it promptly.<br>
+      <br>
+      The personal information which we hold will be held securely in accordance with our internal security policy and the law.   
+      <br><br>
+      We may use technology to track the patterns of behaviour of visitors to
+      our site. This includes using "cookies" which are stored in your browser.
+      You can usually modify your browser to prevent this
+      happening, however doing so will prevent bookings from being placed with us.
+      Information collected in this way could be used to identify you unless you modify your browser settings.<br>
+      <br>
+      If you have any questions/comments about privacy, you should <a href="/contact.php">contact us</a>. 
+
+ 
+    </td>
+    <td style="border-right: 1px solid #e3e3e3; font-size: 1px">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="6"><img src="/images_new/borders/rounded_white_bl.gif"></td>
+    <td style="border-bottom: 1px solid #e3e3e3; font-size:1px">&nbsp;</td>
+    <td><img src="/images_new/borders/rounded_white_br.gif"></td>
+  </tr>
+  </tbody></table>
+  
+
+
+
+
+
+<!-- Right Panel -->
+</div><div style="width:200px; float: right;">
+
+
+    <!-- 2nd column container table-->
+  <table style="background-color: #ffffff" width="200" cellspacing="0" cellpadding="0">
+  
+  <tbody><tr>
+  <td>
+    <a href="/help">
+    <img src="/images_new/promos/200px/how_to_wrap_up.gif" alt="Advice and helpful tips for sending your parcel" title="Advice and helpful tips for sending your parcel"></a></td>
+    
+  </tr>
+
+  <tr><td height="20"></td></tr><!-- Spacer -->
+  
+  <tr>
+  <td>
+    <a href="/sameday">
+    <img src="/images_new/promos/200px/same_day_express.gif" alt="Same Day delivery from interparcel.com" title="Same Day delivery from interparcel.com"></a>
+  </td>
+  </tr>
+
+  <tr><td height="25"></td></tr><!-- Spacer -->
+  
+  <tr>
+  <td><a href="/pallet"><img src="/images_new/promos/200px/pallet_delivery.gif" alt="Pallet delivery from interparcel.com" title="Pallet delivery from interparcel.com"></a></td>
+  </tr>
+  </tbody></table>
+  <!-- End of 2nd column container table-->
+
+</div><!-- End of panels -->
 
 <!---------------END OF MAIN (RIGHT)--------------->
 
+
+
 </td>
-<td bgcolor="#ffffff" width="10">&nbsp;</td>
-<td width="9" style="background: url(/images/bg_right.gif)"></td>
+<td width="16" bgcolor="#FFFFFF"></td>
+</tr>
+
+<!---------------Bottom white space on main content window--------------->
+<tr style="background: #FFFFFF;" height="16">
+<td colspan="3" valign="bottom">
+
+<table width="100%" height="7" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td width="7" height="7" style="BACKGROUND-image: url(/images_new/main_layout/main_bottom_left.gif);"></td>
+<td width="946"></td>
+<td width="7" style="BACKGROUND-image: url(/images_new/main_layout/main_bottom_right.gif);"></td>
 </tr>
 </tbody></table>
+
+
+</td></tr>
+</tbody></table>
+
+
 <!---------------MAIN CONTENT TABLE END--------------->
+
+
+
+
+
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18556366-1']);
+    _gaq.push(['_trackPageview']);
+  </script>
+   
+
+
+  
+
+
+  <script>
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -151,36 +489,22 @@ If you have any questions/comments about privacy, you should <a href="/contact.p
 
 <!---------------------------- FOOTER START----------------------------->
 
-<table cellpadding="0" cellspacing="0" border="0" width="818" bgcolor="#4A5E77" height="50">
+<table cellpadding="0" cellspacing="0" border="0" width="960" style="color: #333333; font-size: 11px;" align="center">
 
 <tbody><tr>
-<td width="9" style="background: url(/images/bg_left.gif)"></td>
-<td bgcolor="#FFFFFF" width="10">&nbsp;</td>
 
-<td valign="middle" align="left" height="50">
-<span class="footertext">
-&nbsp;&nbsp;&nbsp;Copyright © Interparcel Ltd 2004-2010&nbsp;&nbsp;&nbsp;:
+<td valign="middle" height="40">
+&nbsp;&nbsp;Copyright © Interparcel Ltd 2004-2011&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/privacy.php" alt="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/terms.php" alt="Terms Of Use">Terms Of Use</a>&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/site-map/index.php" alt="Site Map">Site Map</a>
-</span>
 </td>
-
-
-<td bgcolor="#FFFFFF" width="10">&nbsp;</td>
-<td width="9" style="background: url(/images/bg_right.gif)"></td>
 
 </tr>
 
 <tr>
-<td width="9" style="background: url(/images/bg_left.gif)"></td>
-<td style="font-size: 7pt; font-family: verdana,arial,tahoma; color: #bbbbbb" colspan="3" height="10" bgcolor="#FFFFFF">&nbsp;&nbsp;
-Web Cluster 1&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Cluster Local</td>
-<td width="9" style="background: url(/images/bg_right.gif)"></td>
-</tr>
-<tr><td width="9" style="background: url(/images/bg_bottomleft.gif)"></td>
-<td colspan="3" height="9" style="background: url(/images/bg_bottom.gif)"></td>
-<td width="9" style="background: url(/images/bg_bottomright.gif)"></td>
+<td valign="top" height="30">&nbsp;
+Web Server 1&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;</td>
 </tr>
 </tbody></table> 
 <!---------------------------- FOOTER END----------------------------->
@@ -192,4 +516,4 @@ Web Cluster 1&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Cluster Local</td>
 
 
 
-</center></body></html>
+</body></html>
