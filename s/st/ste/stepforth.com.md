@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105150426id_/http%3A//www.stepforth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2011-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110807052036id_/http%3A//www.stepforth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StepForth Web Marketing Inc.
 
@@ -48,7 +48,7 @@ StepForth has designated a Privacy Officer who is accountable for our compliance
  **Mail:**  
 Ross Dunn, Privacy Officer  
 StepForth Web Marketing Inc.  
-#208 – 26 Bastion Square  
+#101 – 26 Bastion Square  
 Victoria, BC V8W 1H9
 
  **Email:**  
