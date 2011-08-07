@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theofficialboard.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405150620id_/http%3A//www.theofficialboard.com/info/charter.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theofficialboard.com privacy policy that was archived on 2011-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110807215503id_/http%3A//www.theofficialboard.com/info/charter.html) for the most accurate reproduction.*
 
 # Privacy Policy - TheOfficialBoard
 
@@ -8,13 +8,13 @@ The Editor is committed to respecting and to protecting your privacy. This Priva
 
 **Coverage**
 
-TheOfficialBoard.com (the Site) is owned and operated by Alta Data (the Editor). The Privacy Policy covers the Site, its transactions, its electronic newsletters and its e-mails. Websites that have links on the Site, may collect information about you on their websites. Their practices are not covered by this document.
+TheOfficialBoard.com (the Site) is owned and operated by Alta Data (the Editor). The Privacy Policy covers the Site, its transactions, its electronic newsletters and its e-mails. Websites that have links on the Site may collect information about you on their websites. Their practices are not covered by this document.
 
 **Cookies and Web Beacons**
 
 A cookie is a small piece of data sent to your Internet browser by a Web server and stored on your computer's hard drive. A cookie can't read data from your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system.
 
-A Web beacon is a transparent graphic image, usually the size of a pixel, which is placed on a web site or in an e-mail to monitor the users’ behaviours.
+A Web beacon is a transparent graphic image, usually the size of a pixel, which is placed on a web site or in an e-mail to monitor the users’ behaviors.
 
 We use cookies and web beacons to understand traffic patterns and to remember your membership status so that you don’t have to login each time you visit our site. We use those traffic data in an aggregate way on an anonymous basis.
 
@@ -44,7 +44,7 @@ Regarding company information and executive information, we only collect and pos
 
 We cover Executives belonging to companies with a revenue over 100 Millions US$ on three top reporting levels to ensure the public role of each Executive.
 
-At any moment, any user, can contact us to report an error at [contact@theofficialboard.com](mailto:contact@theofficialboard.com). If necessary, we will suspend the publication until we have carried out the right investigation.
+At any moment, any user can contact us to report an error at [contact@theofficialboard.com](mailto:contact@theofficialboard.com). If necessary, we will suspend the publication until we have carried out the right investigation.
 
 **Control of your information**
 
