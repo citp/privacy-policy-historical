@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyguidepro.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404051335id_/http%3A//www.moneyguidepro.com/static/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyguidepro.com privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808042426id_/http%3A//www.moneyguidepro.com/static/privacy.htm) for the most accurate reproduction.*
 
 # MoneyGuidePro
 
