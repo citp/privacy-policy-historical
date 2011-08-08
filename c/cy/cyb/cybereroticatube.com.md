@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybereroticatube.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230041521id_/http%3A//cybereroticatube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybereroticatube.com privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808082807id_/http%3A//cybereroticatube.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
