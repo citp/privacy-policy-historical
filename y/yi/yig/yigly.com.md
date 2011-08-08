@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yigly.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319094801id_/http%3A//yigly.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yigly.com privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808191204id_/http%3A//yigly.com/privacy-policy) for the most accurate reproduction.*
 
-# Yigly Articles » Privacy Policy
+# Privacy Policy | Yigly Articles
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
