@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventionconcept.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301111625id_/http%3A//www.inventionconcept.com/davison-privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventionconcept.com privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808083632id_/http%3A//www.inventionconcept.com/davison-privacy.cfm) for the most accurate reproduction.*
 
 # Davison Privacy
 
