@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pctechbytes.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622153917id_/http%3A//www.pctechbytes.com/disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctechbytes.com privacy policy that was archived on 2011-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110809012538id_/http%3A//www.pctechbytes.com/disclaimer.htm) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
@@ -67,4 +67,4 @@ We provide links to web sites operated by other parties. The links are provided 
 
 All articles on PCTechBytes are protected under Copyright laws. Articles may not be reproduced without permission. If our content is stolen, we will take legal action. While we do allow syndication on our forums, these articles are not to reproduced without permission. 
 
-[Return to pctechbytes](https://web.archive.org/web/20110622153917id_/http%3A//www.pctechbytes.com/index.php)
+[Return to pctechbytes](https://web.archive.org/web/20110809012538id_/http%3A//www.pctechbytes.com/index.php)
