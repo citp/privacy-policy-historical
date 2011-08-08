@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the static-layouts.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130091754id_/http%3A//static-layouts.com/page.php%3Fid%3D72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the static-layouts.com privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808201142id_/http%3A//static-layouts.com/page.php%3Fid%3D72) for the most accurate reproduction.*
 
 # STATIC-LAYOUTS.COM - Summer Layouts, Myspace Layouts, Default Layouts, Skinny Layouts, Bulletin Surveys, Skinny Defaults, Music Skins, Page Graphics
 
