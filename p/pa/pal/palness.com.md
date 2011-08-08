@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palness.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603070414id_/http%3A//www.palness.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palness.com privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808062053id_/http%3A//www.palness.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Palness Social Network
 
