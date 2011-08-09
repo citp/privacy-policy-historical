@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensatwork.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411103518id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmfw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensatwork.com privacy policy that was archived on 2011-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110809122424id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmfw) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -6,7 +6,7 @@ PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (?you?) and members of Mofos.com network (?our?, ?we?, ?us? the ?site?) websites including but not limited to, MILFS Like it Big, Pornstars like it Big, Big Tits at School, Big Tits at Work, Big Boob Pass, Mommy Got Boobs, Baby Got Boobs, Racks and Blacks, Busty and Real, Jizz on my Jugs, Jug Fuckers. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (?you?) and members of Mofos.com network (?our?, ?we?, ?us? the ?site?) websites including but not limited to, MILFS Like It Black, I Know that Girl, She's A Freak, Real Slut Party, Pervs On Patrol, Mofos World Wide, Mofos Old School, Teens At Work, In Gang We Bang, Can She Take It. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
 
 ## USE
 
