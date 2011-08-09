@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsimple.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126174334id_/http%3A//www.smartsimple.com/privacy-policy-terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsimple.com privacy policy that was archived on 2011-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110809055609id_/http%3A//www.smartsimple.com/privacy-policy-terms-and-conditions) for the most accurate reproduction.*
 
 # Privacy Statement | SmartSimple Software Inc.
 
