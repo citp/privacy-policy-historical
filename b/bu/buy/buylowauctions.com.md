@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buylowauctions.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515193231id_/http%3A//buylowauctions.com/index.php%3F/site/pop_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buylowauctions.com privacy policy that was archived on 2011-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110809211556id_/http%3A//www.buylowauctions.com/index.php%3F/site/pop_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
