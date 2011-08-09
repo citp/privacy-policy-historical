@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qilick.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609181503id_/http%3A//www.qilick.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qilick.com privacy policy that was archived on 2011-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110809154424id_/http%3A//www.qilick.com/static/privacy) for the most accurate reproduction.*
 
 # privacy | qilick.com
 
