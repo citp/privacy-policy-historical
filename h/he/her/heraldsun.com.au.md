@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldsun.com.au privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608014938id_/http%3A//www.heraldsun.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldsun.com.au privacy policy that was archived on 2011-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110809082749id_/http%3A//www.heraldsun.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Herald Sun
 
