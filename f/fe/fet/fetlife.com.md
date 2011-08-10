@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619182135id_/http%3A//fetlife.com/fetlife/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2011-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110810211527id_/https%3A//fetlife.com/fetlife/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FetLife
 
@@ -9,6 +9,9 @@ The rule we live by when it comes to making decisions about privacy is:
 > “Treat people's information like we would want others to treat ours.”
 
 If you have any questions or feedback on our privacy policy please don't hesitate to email us at [privacy@fetlife.com](mailto:%70%72%69%76%61%63%79@%66%65%74%6c%69%66%65.%63%6f%6d).
+
+  
+
 
 ### Information You Provide Us
 
@@ -49,7 +52,7 @@ On top of that, we use Google Analytics to better understand how people use FetL
 
 FetLife uses cookies for authentication and to store information in between page requests. If you want to learn more about cookies you should read the [wikipedia article on HTTP cookies](http://en.wikipedia.org/wiki/HTTP_cookie).
 
-At anytime, you can delete the cookies that are on you computer. Instructions: [Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/11471.html), [Chrome](http://www.google.com/support/chrome/bin/answer.py?answer=95626), [Internet Explorer](https://web.archive.org/web/20110619182135id_/http%3A//fetlife.com/fetlife/\(http://support.microsoft.com/kb/278835), [Firefox](http://support.mozilla.com/en-US/kb/Deleting+cookies?bl=n&s=deleting%20cookies&as=q), and [Opera](http://www.opera.com/support/kb/view/806/).
+At anytime, you can delete the cookies that are on you computer. Instructions: [Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/11471.html), [Chrome](http://www.google.com/support/chrome/bin/answer.py?answer=95626), [Internet Explorer](https://web.archive.org/web/20110810211527id_/https%3A//fetlife.com/fetlife/\(http://support.microsoft.com/kb/278835), [Firefox](http://support.mozilla.com/en-US/kb/Deleting+cookies?bl=n&s=deleting%20cookies&as=q), and [Opera](http://www.opera.com/support/kb/view/806/).
 
   
 
