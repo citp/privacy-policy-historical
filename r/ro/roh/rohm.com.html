@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rohm.com privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519062707id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rohm.com privacy policy that was archived on 2011-08-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110810094944id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 
@@ -93,22 +93,11 @@ jq(document).ready(function ()
 <!--------------ここまで---------->
 
 <div id="search" class="clearfix">
-  <form id="pullMnu">
-    <select name="schange" onchange="radioChange();">
-      <option selected="selected">Site Search</option>
-      <option>Catalog Search</option>
-    </select>
-  </form>
-  <form name="form1" method="get" action="http://search.rohm.com/en/" id="s-search" style="display: block;"><!--Site Search-->
-    <input type="text" name="q" value="" onfocus="SiteSearch(this)" onblur="SiteSearch(this)" class="mrg-r">
+  <form name="form1" method="get" action="http://search.rohm.com/en/" id="s-search"><!--Site Search-->
+    <input type="text" name="q" value="Site Search" onfocus="SiteSearch(this)" onblur="SiteSearch(this)" class="mrg-r">
+	<input type="hidden" name="la" value="en"><!--新サイト内検索用20110802-->
     <input type="image" name="sa" src="/cmn/images/search_btn.gif" alt="Search">
   </form>
-
-  <form style="display: none;" name="product_search" method="get" action="http://search.rohm.com/en/pdf/" id="c-search"><!--Catalog Search -->
-    <input type="text" name="q" value="" class="mrg-r">
-    <input type="image" name="sa" src="/cmn/images/search_btn.gif" alt="Search">
-  </form>
-
   <p id="ser-op"><a href="/search-e.html"><img src="/cmn/images/help_btn.gif" alt="Help"></a></p>
   <!--Catalogue Search-->
 </div>
@@ -244,7 +233,7 @@ jq(document).ready(function ()
   </ul>
 
   <ul id="purchase">
-    <li><h2><a href="https://direct.rohm.co.jp/en/index.asp" title="Sales" target="_blank" id="g4"><span class="hideText">Sales</span></a></h2>
+    <li><h2><a href="http://service.stkcheck.com/?mfg=73164481-1808-449e-8974-2d558ac54708" title="Purchase" target="_blank" id="g4"><span class="hideText">Purchase</span></a></h2>
     <ul>
       <li><a href="http://service.stkcheck.com/?mfg=73164481-1808-449e-8974-2d558ac54708" title="Distribution Inventory Search" target="_blank">Distribution Inventory Search</a></li>
       <li><a href="/corporate/group/gb-support-usa.html" title="Sales(U.S.A)">Sales(U.S.A)</a></li>
@@ -261,7 +250,6 @@ jq(document).ready(function ()
         <li><a href="/ad/index.html" title="New products of 2011">New products of 2011</a></li>
         <li><a href="/ad/2010.html" title="New products of 2010">New products of 2010</a></li>
         <li><a href="/ad/2009.html" title="New products of 2009">New products of 2009</a></li>
-        <li><a href="/ad/2008.html" title="New products of 2008">New products of 2008</a></li>
       </ul>
     </li>
   </ul>
