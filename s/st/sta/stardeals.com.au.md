@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the stardeals.com.au privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309230438id_/http%3A//www.stardeals.com.au/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardeals.com.au privacy policy that was archived on 2011-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110810062235id_/http%3A//www.stardeals.com.au/data_privacy) for the most accurate reproduction.*
 
-# Up to 90% discount on restaurants, spas, wellness, fitness - stardeals.com.au
+# Up to 70% discount on restaurants, spas, wellness, fitness - stardeals.com.au
 
 **We protect your personal information and data**
 
 **1\. Protecting You**  
-The Stardeals by Groupon Australia website www.stardeals.com.au is owned and operated by Stardeal Pty Ltd (t/a Groupon Australia). Stardeal Pty Ltd ("Groupon Australia", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully.
+The Groupon Australia website www.stardeals.com.au is owned and operated by Groupon Australia Pty Ltd (t/a Groupon Australia). Groupon Australia Pty Ltd ("Groupon Australia", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully.
 
 Please note that use of the Website by you is subject to this privacy policy (the "Policy") and the Website’s [terms and conditions](http://www.stardeals.com.au/terms_and_conditions) of use ("Terms and Conditions"). Where this Policy uses a word starting with a capital letter, that term will be defined in the Terms and Conditions or elsewhere in this Policy.
 
@@ -23,7 +23,7 @@ We may ask for your e-mail address during your use of the Website. Also, to purc
 **3\. Use and Sharing of PII**  
 All PII is retained in accordance with the Data Protection Act 1998 and other applicable data protection laws in Australia.
 
-We use PII to provide you with information about Stardeals by Groupon Australia, to properly provide you with the Service and for marketing ourselves to you. It is our policy not to sell or pass any PII to any other organisations (outside our group companies) unless we are required to do so for fraud prevention and detection. **We will never sell or rent your PII to anyone else for their marketing purposes without your consent.**
+We use PII to provide you with information about Groupon Australia, to properly provide you with the Service and for marketing ourselves to you. It is our policy not to sell or pass any PII to any other organisations (outside our group companies) unless we are required to do so for fraud prevention and detection. **We will never sell or rent your PII to anyone else for their marketing purposes without your consent.**
 
 However, we may pass your PII to our agents and subcontractors to help us with any of our uses of your data set out in this Policy. For example, we may use third parties to provide us with marketing or customer service assistance or send it to a credit card provider to process a payment.
 
@@ -49,7 +49,7 @@ Please note that we may email you for the following purposes:
     * to send you information or Vouchers which you have asked for;
   * as a newsletter;
   * as promotional emails; and
-  * to offer related services to you from Stardeal Pty Ltd
+  * to offer related services to you from Groupon Australia Pty Ltd
 
 
 
@@ -61,7 +61,7 @@ The PII which we hold will be held securely within our systems in accordance wit
 Regarding information transmitted between the Website and and/or users, while we take reasonable precautions to safeguard this information, we may be unable to prevent unauthorised access to such information by third parties or inadvertent disclosure of such information during transit. Users acknowledge this risk when communicating with the Website.
 
 **7\. Transfer in Certain Circumstances**  
-If there is a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation or Stardeal Pty Ltd then, in our sole discretion, we may transfer, sell or assign information collected on and through this Website (including, without limitation, PII and other information), to one or more relevant third parties.
+If there is a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation or Groupon Australia Pty Ltd then, in our sole discretion, we may transfer, sell or assign information collected on and through this Website (including, without limitation, PII and other information), to one or more relevant third parties.
 
 **8\. Customer Service**  
 If you have any questions or concerns, please feel free to contact us at [support@stardeals.com.au](mailto:mailtosupport@stardeals.com.au).
