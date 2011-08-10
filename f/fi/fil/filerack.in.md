@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filerack.in privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514031520id_/http%3A//www.filerack.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filerack.in privacy policy that was archived on 2011-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110810042607id_/http%3A//www.filerack.in/privacy.php) for the most accurate reproduction.*
 
 # Filerack.in - Easy One Click File Hosting
 
