@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-3gp-video.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424024214id_/http%3A//www.free-3gp-video.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-3gp-video.com privacy policy that was archived on 2011-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110811104427id_/http%3A//www.free-3gp-video.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Free-3gp-video.com Privacy Policy
 
