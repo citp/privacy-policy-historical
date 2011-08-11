@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monolithicpower.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120050921id_/http%3A//www.monolithicpower.com/Page/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monolithicpower.com privacy policy that was archived on 2011-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110811045147id_/http%3A//www.monolithicpower.com/Page/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Page - Privacy_Policy
 
