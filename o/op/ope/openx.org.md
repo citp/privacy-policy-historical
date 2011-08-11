@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openx.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612050640id_/http%3A//www.openx.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openx.org privacy policy that was archived on 2011-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110811134325id_/http%3A//www.openx.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenX
 
@@ -10,15 +10,15 @@ It is important to remember that all publishers and other suppliers of inventory
 
 ### OpenX Website Privacy Policy
 
-To read more about how we use the information we collect about you as you browse through our site, [click here](https://web.archive.org/web/20110612050640id_/http%3A//www.openx.org/about/openx-website-privacy-principles).
+To read more about how we use the information we collect about you as you browse through our site, [click here](https://web.archive.org/web/20110811134325id_/http%3A//www.openx.org/about/openx-website-privacy-principles).
 
 ### OpenX Software Privacy Principles
 
-These principles, [explained here](https://web.archive.org/web/20110612050640id_/http%3A//www.openx.org/about/openx-software-privacy-principles), describe how our ad serving software and hosted service collect and use user and publisher information.
+These principles, [explained here](https://web.archive.org/web/20110811134325id_/http%3A//www.openx.org/about/openx-software-privacy-principles), describe how our ad serving software and hosted service collect and use user and publisher information.
 
 ### OpenX Market Privacy Principles
 
-To read more about how the OpenX Market uses information collected from our member websites, [click here](https://web.archive.org/web/20110612050640id_/http%3A//www.openx.org/about/openx-market-privacy-principles).
+To read more about how the OpenX Market uses information collected from our member websites, [click here](https://web.archive.org/web/20110811134325id_/http%3A//www.openx.org/about/openx-market-privacy-principles).
 
 ### OpenX Market Opt-Out cookie
 
