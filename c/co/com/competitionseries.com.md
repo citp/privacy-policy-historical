@@ -1,48 +1,32 @@
-> *The following text is extracted and transformed from the competitionseries.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118222616id_/http%3A//www.competitionseries.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitionseries.com privacy policy that was archived on 2011-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110811142016id_/http%3A//www.competitionseries.com/privacy-policy) for the most accurate reproduction.*
 
-# General Tire 2008 StreetConcepts Competition Series
+# Privacy Policy » Competition Series
 
-This is the web site of **StreetConcepts Inc.**.
+##  [Privacy Policy](http://www.competitionseries.com/privacy-policy/ "Permalink to Privacy Policy")
 
-Our postal address is  
-**50 Alness St., 2nd floor  
-Toronto, Ontario  
-M3J 2G9  
-Canada**
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-We can be reached via e-mail at [privacy@streetconcepts.com](mailto:privacy@streetconcepts.com)  
-or you can reach us by telephone at 416-907-4566 or fax at 416-628-8325.
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Internet Marketing Blog has no access or control over these cookies that may be used by third party advertisers. 
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes.
+**Our Commitment To Childrens Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, Internet Marketing Blog will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.  
+Under our Terms of Service, children under 18 are not allowed to access our service. 
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
+**Collection of Personal Information**  
+When visiting Internet Marketing Blog, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-If you do not want to receive e-mail from us in the future, please let us know by or E-mail Us To [mailings@streetconcepts.com](mailto:mailings@streetconcepts.com).
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or E-mail Us To [mailings@streetconcepts.com](mailto:mailings@streetconcepts.com).
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or E-mail Us To [mailings@streetconcepts.com](mailto:mailings@streetconcepts.com).
+If you have any questions regarding the privacy policy of Internet Marketing Blog then you may contact us at info@competitionseries.com 
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.
-
-Consumers can access this information by or Logging On To Our System.
-
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them.
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Last updated Wed, 30 Mar 2011 12:52
