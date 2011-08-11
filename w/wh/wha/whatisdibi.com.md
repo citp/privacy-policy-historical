@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatisdibi.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606063417id_/http%3A//www.dibiconference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatisdibi.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812013142id_/http%3A//www.dibiconference.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DIBI
 
