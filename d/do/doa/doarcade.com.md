@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doarcade.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309011032id_/http%3A//doarcade.com/page/3/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doarcade.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812022728id_/http%3A//doarcade.com/page/3/Privacy-Policy.html) for the most accurate reproduction.*
 
 # DoArcade.com - Free Games Online - Privacy Policy
 
