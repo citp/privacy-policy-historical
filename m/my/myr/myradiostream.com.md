@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501001015id_/https%3A//secure.bellonline.co.uk/terms/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myradiostream.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812065228id_/https%3A//secure.bellonline.co.uk/terms/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
