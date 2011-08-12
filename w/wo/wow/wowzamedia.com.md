@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowzamedia.com privacy policy that was archived on 2010-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100714043106id_/http%3A//www.wowzamedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowzamedia.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812233550id_/http%3A//www.wowzamedia.com/privacy.html) for the most accurate reproduction.*
 
 # Wowza Media Systems Privacy Policy
 
