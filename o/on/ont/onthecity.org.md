@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthecity.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612133112id_/http%3A//www.onthecity.org/index.php/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthecity.org privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812121951id_/http%3A//www.onthecity.org/index.php/general/privacy) for the most accurate reproduction.*
 
 # Privacy | The City | Church Software
 
