@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the couriermail.com.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216072807id_/http%3A//www.couriermail.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couriermail.com.au privacy policy that was archived on 2011-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110813000226id_/http%3A//www.couriermail.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Courier Mail
 
 Queensland Newspapers Pty Ltd, trading as News Queensland, recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
 
-We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
+The online channel of Quest Community Newspapers is hosted by News Queensland, and both organisations are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
 ### Personal Information
 
