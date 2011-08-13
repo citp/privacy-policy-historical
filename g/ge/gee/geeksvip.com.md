@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geeksvip.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605010110id_/http%3A//www.vipgeek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksvip.com privacy policy that was archived on 2011-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110813230800id_/http%3A//www.vipgeek.com/privacy.php) for the most accurate reproduction.*
 
-# VIPGeek® 1-800-VIP-GEEK, Computer Repair Chicago & Laptop Repair Chicago Geek - Computer Service Chicago
+# VIPGeek 1-800-VIP-GEEK, Computer Repair Chicago IL & Computer Service Chicago Illinois
 
   
 
@@ -10,7 +10,7 @@
 _**Last Updated on 11/15/2009**_
 
   
-VIPGeek Corporation dba www.vipgeek.com has created this privacy statement in order to demonstrate our firm commitment to internet privacy. The following discloses our information gathering and dissemination practices for the vipgeek.com web site. VIPGeek is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.vipgeek.com/privacy.php](https://web.archive.org/web/20110605010110id_/http%3A//www.vipgeek.com/privacy.php). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+VIPGeek Corporation dba www.vipgeek.com has created this privacy statement in order to demonstrate our firm commitment to internet privacy. The following discloses our information gathering and dissemination practices for the vipgeek.com web site. VIPGeek is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.vipgeek.com/privacy.php](https://web.archive.org/web/20110813230800id_/http%3A//www.vipgeek.com/privacy.php). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
   
 If you have questions or concerns regarding this statement, you should first contact Kathy Glogowski at kglogowski@vipgeek.com . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with us to resolve your concerns.
