@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-pro.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611215539id_/http%3A//www.tech-pro.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-pro.net privacy policy that was archived on 2011-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110813024403id_/http%3A//www.tech-pro.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,14 +9,11 @@ This privacy policy explains how information is handled when you visit this site
 Tech-Pro.net values your privacy. We do not retain personal information about visitors to this site. The only information this site may request from you is your name and email address. You will only be asked for this information if:
 
   * you purchase a Tech-Pro branded product.
-  * you sign up for our newsletter.
   * you send us an email or open a support ticket.
 
 
 
 We hate spam as much as you do. Tech-Pro.net **guarantees** that we will not use any information received from this website for any purpose other than that for which you provided it.
-
-Tech-Pro.net's newsletter is operated on our behalf by Bits du Jour. You can read their privacy statement [here](http://www.bitsdujour.com/privacy/).
 
 ### Cookies and other tracking technologies
 
