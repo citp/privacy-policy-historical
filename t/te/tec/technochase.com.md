@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technochase.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420070620id_/http%3A//www.technochase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technochase.com privacy policy that was archived on 2011-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110814164124id_/http%3A//technochase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
