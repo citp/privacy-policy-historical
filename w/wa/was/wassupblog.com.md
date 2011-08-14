@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wassupblog.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202055610id_/http%3A//wassupblog.com/disclosure/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wassupblog.com privacy policy that was archived on 2011-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110814123037id_/http%3A//wassupblog.com/disclosure/privacy) for the most accurate reproduction.*
 
 # Privacy | WassupBlog
 
