@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doujin-games88.blogspot.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127213231id_/http%3A//doujin-games88.blogspot.com/2009/05/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doujin-games88.blogspot.com privacy policy that was archived on 2011-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110814222856id_/http%3A//doujin-games88.blogspot.com/2009/05/privacy-policy.html) for the most accurate reproduction.*
 
-# PSP, Wii, PS3, NDS, XBOX360, Doujin and Touhou Games Download: PRIVACY POLICY
+# PRIVACY POLICY PSP, Wii, PS3, NDS, XBOX360, Doujin and Touhou Games Info
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site http://doujin-games88.blogspot.com. The following discloses the information gathering and dissemination practices for this Web site.
 
