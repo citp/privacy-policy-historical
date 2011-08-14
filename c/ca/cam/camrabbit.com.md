@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camrabbit.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614191932id_/http%3A//www.camrabbit.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camrabbit.com privacy policy that was archived on 2011-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110814215314id_/http%3A//www.camrabbit.com/policy/privacy) for the most accurate reproduction.*
 
 # Cam Rabbit- sex cams - live sex
 
