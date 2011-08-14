@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshersapply.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612074635id_/http%3A//freshersapply.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshersapply.com privacy policy that was archived on 2011-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110814031130id_/http%3A//www.freshersapply.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreshersApply.com
 
