@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memberspring.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430162108id_/http%3A//www.memberspring.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memberspring.com privacy policy that was archived on 2011-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110814064346id_/http%3A//www.memberspring.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
