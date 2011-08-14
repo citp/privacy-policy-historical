@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhfashionusa.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614174658id_/http%3A//www.dhfashionusa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhfashionusa.com privacy policy that was archived on 2011-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110814195659id_/http%3A//www.dhfashionusa.com/privacy.php) for the most accurate reproduction.*
 
 # hdfashionusa.com: Online wholesale shop for handbags, wallet, belt, scarf and more
 
