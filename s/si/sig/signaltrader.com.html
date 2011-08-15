@@ -1,180 +1,18 @@
-<!--The following is the downloaded HTML source of the signaltrader.com privacy policy that was archived on 2011-01-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110104201724id_/http%3A//www.signaltrader.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the signaltrader.com privacy policy that was archived on 2011-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110816002318id_/http%3A//www.signaltrader.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en"><head>
 <title>Signal Trader Privacy Policy</title>
 <meta name="keywords" content="Signal Trader Privacy Policy">
 <meta name="description" content="Read the Signal Trader Privacy Policy">
 <meta name="language" content="en">
-<link rel="stylesheet" type="text/css" href="/css/main.css">
-<script type="text/javascript" src="/js/libs/jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/main3_cdn.css">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6.css" />
+<![endif]-->
 
-<script type="text/javascript">
-//avoid jQuery conficts with other libs..
-jQuery.noConflict();
-//load IE6 CSS fixes
-var BrowserDetect = {
-	init: function () {
-		this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
-		this.version = this.searchVersion(navigator.userAgent)
-			|| this.searchVersion(navigator.appVersion)
-			|| "an unknown version";
-		this.OS = this.searchString(this.dataOS) || "an unknown OS";
-	},
-	searchString: function (data) {
-		for (var i=0;i<data.length;i++)	{
-			var dataString = data[i].string;
-			var dataProp = data[i].prop;
-			this.versionSearchString = data[i].versionSearch || data[i].identity;
-			if (dataString) {
-				if (dataString.indexOf(data[i].subString) != -1)
-					return data[i].identity;
-			}
-			else if (dataProp)
-				return data[i].identity;
-		}
-	},
-	searchVersion: function (dataString) {
-		var index = dataString.indexOf(this.versionSearchString);
-		if (index == -1) return;
-		return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
-	},
-	dataBrowser: [
-		{
-			string: navigator.userAgent,
-			subString: "Chrome",
-			identity: "Chrome"
-		},
-		{ 	string: navigator.userAgent,
-			subString: "OmniWeb",
-			versionSearch: "OmniWeb/",
-			identity: "OmniWeb"
-		},
-		{
-			string: navigator.vendor,
-			subString: "Apple",
-			identity: "Safari",
-			versionSearch: "Version"
-		},
-		{
-			prop: window.opera,
-			identity: "Opera"
-		},
-		{
-			string: navigator.vendor,
-			subString: "iCab",
-			identity: "iCab"
-		},
-		{
-			string: navigator.vendor,
-			subString: "KDE",
-			identity: "Konqueror"
-		},
-		{
-			string: navigator.userAgent,
-			subString: "Firefox",
-			identity: "Firefox"
-		},
-		{
-			string: navigator.vendor,
-			subString: "Camino",
-			identity: "Camino"
-		},
-		{		// for newer Netscapes (6+)
-			string: navigator.userAgent,
-			subString: "Netscape",
-			identity: "Netscape"
-		},
-		{
-			string: navigator.userAgent,
-			subString: "MSIE",
-			identity: "Explorer",
-			versionSearch: "MSIE"
-		},
-		{
-			string: navigator.userAgent,
-			subString: "Gecko",
-			identity: "Mozilla",
-			versionSearch: "rv"
-		},
-		{ 		// for older Netscapes (4-)
-			string: navigator.userAgent,
-			subString: "Mozilla",
-			identity: "Netscape",
-			versionSearch: "Mozilla"
-		}
-	],
-	dataOS : [
-		{
-			string: navigator.platform,
-			subString: "Win",
-			identity: "Windows"
-		},
-		{
-			string: navigator.platform,
-			subString: "Mac",
-			identity: "Mac"
-		},
-		{
-			   string: navigator.userAgent,
-			   subString: "iPhone",
-			   identity: "iPhone/iPod"
-	    },
-		{
-			string: navigator.platform,
-			subString: "Linux",
-			identity: "Linux"
-		}
-	]
-
-};
-BrowserDetect.init();
-if(jQuery.browser.msie && BrowserDetect.version==6) { document.write('<link rel="stylesheet" type="text/css" href="/css/ie6.css" />'); }
-window.htmDir = 'ltr';
-window.TradencyLanguage = 'en-US';
-
-//Preload Images
-var demo_tab_bg_hover_left = new Image();
-demo_tab_bg_hover_left.src = '/images/tabs_accounts_demo_hover_bg_left.gif';
-var demo_tab_bg_hover_center = new Image();
-demo_tab_bg_hover_center.src = '/images/tabs_accounts_demo_hover_bg_center.gif';
-var demo_tab_hover_bg_right = new Image();
-demo_tab_hover_bg_right.src = '/images/tabs_accounts_demo_hover_bg_right.gif';
-
-var live_tab_bg_hover_left = new Image();
-live_tab_bg_hover_left.src = '/images/tabs_accounts_live_hover_bg_left.gif';
-var live_tab_bg_hover_center = new Image();
-live_tab_bg_hover_center.src = '/images/tabs_accounts_live_hover_bg_center.gif';
-var live_tab_hover_bg_right = new Image();
-live_tab_hover_bg_right.src = '/images/tabs_accounts_live_hover_bg_right.gif';
-
-var btnMiniBlueNoShade_left = new Image();
-btnMiniBlueNoShade_left.src = '/images/btnMiniBlueNoShade_hover_left.gif';
-var btnMiniBlueNoShade_rest = new Image();
-btnMiniBlueNoShade_rest.src = '/images/btnMiniBlueNoShade_hover_rest.gif';
-
-var btn_open_live_account_hover_left = new Image();
-btn_open_live_account_hover_left.src = '/images/btn_open_live_account_hover_left_corner.gif';
-var btn_open_live_account_hover_rest = new Image();
-btn_open_live_account_hover_rest.src = '/images/btn_open_live_account_hover_rest.gif';
-
-var btn_open_demo_account_hover_left = new Image();
-btn_open_demo_account_hover_left.src = '/images/btn_open_demo_account_hover_left_corner.gif';
-var btn_open_demo_account_hover_rest = new Image();
-btn_open_demo_account_hover_rest.src = '/images/btn_open_demo_account_hover_rest.gif';
-
-var btn_trade_hover_left = new Image();
-btn_trade_hover_left.src = '/images/btn_trade_hover_left.gif';
-var btn_trade_hover_rest = new Image();
-btn_trade_hover_rest.src = '/images/btn_trade_hover_rest.gif';
-</script>
-
-<script type="text/javascript" src="/js/dropdown.js"></script>
-<script type="text/javascript" src="/js/functions.js"></script>
-
-
-</head>
-<body class="browserChrome browserChrome6 browserSafari">
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=25172214"></script></head>
+<body>
 
 <table cellpadding="0" cellspacing="0" width="100%" id="MainTable">
 	<tbody><tr>
@@ -187,37 +25,47 @@ btn_trade_hover_rest.src = '/images/btn_trade_hover_rest.gif';
 	<table cellspacing="0" cellpadding="0">
 		<tbody>
 			<tr>
-								<td>&nbsp;</td>
+				<td><div class="flags"><a href="http://www.signaltrader.fr"><img border="0" alt="Trading Automatique" src="/images/flags/france.png" width="16" height="16"></a></div></td><td><div class="flags"><a href="http://de.signaltrader.com"><img border="0" alt="Vollautomatischer handel" src="/images/flags/germany.png" width="16" height="16"></a></div></td><td><div class="flags"><a href="http://www.signaltrader.es"><img border="0" alt="Trading Automático" src="/images/flags/spain.png" width="16" height="16"></a></div></td><td><div class="flags"><a href="http://www.signaltrader.ru"><img border="0" alt="Автоматическая торговля" src="/images/flags/russia.png" width="16" height="16"></a></div></td><td><div class="flags"><a href="http://nl.signaltrader.com"><img border="0" alt="Autotrade Forex" src="/images/flags/netherlands.png" width="16" height="16"></a></div></td><td><div class="flags"><a href="http://www.signaltrader.it"><img border="0" alt="Trade automatico" src="/images/flags//italy.png" width="16" height="16"></a></div></td>				<td>&nbsp;</td>
 			</tr>
 		</tbody>			
 	</table>
 </div>
 <div class="clear"></div>
 <div class="subHeader2">
-	<div class="float_lang_base_1 logo"><a href="http://www.signaltrader.com"><img src="/images/logo_com.gif" alt="Signal Trader - The Ultimate Forex Auto Trading Experience" border="0"></a></div>
+	<div class="float_lang_base_1 logo"><a href="http://www.signaltrader.com"><img src="http://c3016312.cdn.cloudfiles.rackspacecloud.com/logo_com_v2.png" alt="Signal Trader - The Ultimate Forex Auto Trading Experience" border="0"></a></div>
 	<div class="float_lang_base_2 login_buttons">
 	
-		<div class="telephone float_lang_base_1"><img src="/images/number_com.png"></div>	
-			<div class="float_lang_base_1" style="width:135px;"><img src="/images/spacer.gif"></div>
-			
-		<div class="login-logout float_lang_base_1 trebuchet_14" style="color:#fff;">
-							Already a Customer? <a href="https://room.signaltrader.com/login" class="trebuchet_16" style="color:#C5EAFF;">Login</a>
+		<div class="login-logout float_lang_base_2 trebuchet_14" style="color:#fff;">
+							Already a Customer? <a href="https://room.signaltrader.com/en/login" class="trebuchet_16" style="color:#C5EAFF;">Login</a>
 						</div>
+		
+				
+		<div class="live-chat float_lang_base_2">
+						<!-- BEGIN LivePerson Button Code -->
+			<div class="icon-sprite icon live-chat"></div>
+			<div id="lpButDivID-1297882065"></div>
+			<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/25172214/?cmd=mTagRepstate&amp;site=25172214&amp;buttonID=7&amp;divID=lpButDivID-1297882065&amp;bt=3&amp;c=1"></script>
+			<!-- END LivePerson Button code -->
+		</div>
+		
+			<div class="float_lang_base_2" style="width:8px;"><img src="/images/spacer.gif"></div>
 			
+		<div class="float_lang_base_2 telephone-number">+357-22030680</div><div class="float_lang_base_2 icon-sprite telephone"></div>			
 	</div>
+	
 </div>				</div>
 				
 					<div class="clear"></div>
 				
 				<div id="HeaderInner" class="float_lang_base_1">
 					<div class="TopMenu">
-	<table class="MenuTable float_lang_base_1" cellpadding="0" cellspacing="0"><tbody><tr class="tabs"><td class="MenuLeftCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/" class="top_menu_tab trebuchet_16_lilac_b" title="Signal Trader Homepage">Home</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/tour/" class="top_menu_tab trebuchet_16_lilac_b" title="Tour">Tour</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/trading-rooms/" class="top_menu_tab trebuchet_16_lilac_b" title="Live Trading Rooms">Live Trading Rooms</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/learn/" class="top_menu_tab trebuchet_16_lilac_b" title="Learn">Learn</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/support/" class="top_menu_tab trebuchet_16_lilac_b" title="">Support</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/about-us/" class="top_menu_tab trebuchet_16_lilac_b" title="About Signal Trader">About Us</a></td><td class="MenuRightCorner"><img src="/images/spacer.gif"></td></tr><tr class="fade"><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td></tr></tbody></table></div>					<div class="HeaderBlock float_lang_base_1">
+	<table class="MenuTable float_lang_base_1" cellpadding="0" cellspacing="0"><tbody><tr class="tabs"><td class="MenuLeftCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/" class="top_menu_tab trebuchet_16_lilac_b" title="Signal Trader Homepage">Home</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/tour/" class="top_menu_tab trebuchet_16_lilac_b" title="Tour">Tour</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/trading-rooms/" class="top_menu_tab trebuchet_16_lilac_b" title="Live Trading Rooms">Live Trading Rooms</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/support/" class="top_menu_tab trebuchet_16_lilac_b" title="">FAQ</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/partners/" class="top_menu_tab trebuchet_16_lilac_b" title="">Partners</a></td><td class="TabRightCorner"><img src="/images/spacer.gif"></td><td class="MenuElement"><a href="/about-us/" class="top_menu_tab trebuchet_16_lilac_b" title="About Signal Trader">About Us</a></td><td class="MenuRightCorner"><img src="/images/spacer.gif"></td></tr><tr class="fade"><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td><td><img src="/images/spacer.gif"></td></tr></tbody></table></div>					<div class="HeaderBlock float_lang_base_1">
 		
 		<div class="clear float_lang_base_1" style="width:927px;">
 			<div class="float_lang_base_1" style="height:65px;"><h1>Privacy Policy</h1></div>
 			<div class="float_lang_base_2" style="margin-right:20px;">
 							<div class="btn-azure-34">
-			<a href="https://room.signaltrader.com/open-trial-account" onclick="" id="" class="" style="font:bold 18px Trebuchet MS;color:#163E6B;text-shadow:0 1px 0 #fff;">
+			<a href="https://room.signaltrader.com/en/open-trial-account" onclick="" id="" class="" style="font:bold 18px Trebuchet MS;color:#163E6B;text-shadow:0 1px 0 #fff;">
 				<span class="Left">&nbsp;</span>
 				<span class="Center"><span class="padding">Join the Trading Room</span></span>
 				<span class="Right">&nbsp;</span>
@@ -225,7 +73,7 @@ btn_trade_hover_rest.src = '/images/btn_trade_hover_rest.gif';
 		</div>
 				</div>
 		</div>
-		<div><div><div class="float_lang_base_1"><a href="http://www.signaltrader.com" class="arial_12_blue">Home</a>&nbsp;&nbsp;</div><div class="float_lang_base_1" style="padding-top:4px;"><img src="/images/icons/IconGreyArrowRight.gif"></div><div class="float_lang_base_1 arial_12_grey">&nbsp;&nbsp;Privacy Policy</div></div></div>
+		<div><div><div class="float_lang_base_1"><a href="http://www.signaltrader.com" class="arial_12_blue">Home</a>&nbsp;&nbsp;</div><div class="float_lang_base_1" style="padding-top:4px;"><img src="/images/icons2/IconGreyArrowRight.gif"></div><div class="float_lang_base_1 arial_12_grey">&nbsp;&nbsp;Privacy Policy</div></div></div>
 	
 		
 </div>				</div>
@@ -283,42 +131,24 @@ Should THE COMPANY amend this Privacy Policy in order to adapt it to new legal r
 	<tr>
 	<td class="SupportedPaymentMethods">
 		<div class="Container">
-			<!--<div class="float_lang_base_1 Element"><img src="/images/icons/IconVeriSign.gif"></div>
-			<div class="float_lang_base_1 Separator"><img src="/images/spacer.gif"></div>-->
-			<div class="float_lang_base_1 Element"><img src="/images/icons/IconVisa.gif"></div>
-			<div class="float_lang_base_1 Separator"><img src="/images/spacer.gif"></div>
-			<div class="float_lang_base_1 Element"><img src="/images/icons/IconMasterCard.gif"></div>
-			<div class="float_lang_base_1 Separator"><img src="/images/spacer.gif"></div>
-			<!--<div class="float_lang_base_1 Element"><img src="/images/icons/IconSomething.gif"></div>
-			<div class="float_lang_base_1 Separator"><img src="/images/spacer.gif"></div>-->
-			<div class="float_lang_base_1 Element"><img src="/images/icons/IconAmericanExpress.gif"></div>
-			<!--<div class="float_lang_base_1 Separator"><img src="/images/spacer.gif"></div>
-			<div class="float_lang_base_1 Element"><img src="/images/icons/IconJcb.gif"></div>
-			<div class="float_lang_base_1 Separator"><img src="/images/spacer.gif"></div>
-			<div class="float_lang_base_1 Element"><img src="/images/icons/IconGyroPay.gif"></div>
-			<div class="float_lang_base_1 Separator"><img src="/images/spacer.gif"></div> 
-			<div class="float_lang_base_1 Element"><img src="/images/icons/IconPayPal.gif"></div>-->
-		</div>
+					</div>
 	</td>
 </tr>
 <tr>
 	<td class="FooterNavigation">
-		<div class="Container" style="width:570px;"><div class="Navigation align_center"><table width="100%"><tbody><tr><td class="block text_align_lang_base_1"><h5>Information</h5><ul class="FooterLinks"><li><a href="http://www.signaltrader.com/about-us/company-profile" class="arial_14_teal">Company Profile</a></li><li><a href="http://www.signaltrader.com/about-us/why-signal-trader" class="arial_14_teal">Why Signal Trader</a></li><li><a href="http://www.signaltrader.com/about-us/press-releases" class="arial_14_teal">Press Releases</a></li></ul></td><td class="block text_align_lang_base_1"><h5>Help</h5><ul class="FooterLinks"><li><a href="http://www.signaltrader.com/support/faq" class="arial_14_teal">FAQ</a></li><li><a href="http://www.signaltrader.com/tour/" class="arial_14_teal">System Tour</a></li><li><a href="http://www.signaltrader.com/learn/glossary" class="arial_14_teal">Glossary</a></li></ul></td><td class="block text_align_lang_base_1"><h5>Join Today</h5><ul class="FooterLinks"><li><a href="https://room.signaltrader.com/open-trial-account" class="arial_14_teal">Free Trading Room Trial</a></li><li><a href="http://www.signaltrader.com/trading-rooms/pricing" class="arial_14_teal">Trading Room Pricing</a></li></ul></td></tr></tbody></table></div></div>	</td>
+		<div class="Container" style="width:760px;"><div class="Navigation align_center"><table width="100%"><tbody><tr><td class="block text_align_lang_base_1"><h5>Information</h5><ul class="FooterLinks"><li><a href="http://www.signaltrader.com/about-us/company-profile" class="arial_14_teal">Company Profile</a></li><li><a href="http://www.signaltrader.com/about-us/why-signal-trader" class="arial_14_teal">Why Signal Trader</a></li><li><a href="http://www.signaltrader.com/about-us/press-releases" class="arial_14_teal">Press Releases</a></li><li><a href="http://www.signaltrader.com/about-us/contact-us" class="arial_14_teal">Contact Us</a></li></ul></td><td class="block text_align_lang_base_1"><h5>Learn</h5><ul class="FooterLinks"><li><a href="http://www.signaltrader.com/tour/forex-trading" class="arial_14_teal">Forex Trading</a></li><li><a href="http://www.signaltrader.com/tour/automated-trading" class="arial_14_teal">Automated Trading</a></li><li><a href="http://www.signaltrader.com/tour/glossary" class="arial_14_teal">Glossary</a></li></ul></td><td class="block text_align_lang_base_1"><h5>Support</h5><ul class="FooterLinks"><li><a href="http://www.signaltrader.com/support/faq" class="arial_14_teal">F.A.Q</a></li><li><a href="http://www.signaltrader.com/support/general" class="arial_14_teal">General</a></li><li><a href="http://www.signaltrader.com/support/trading-rooms" class="arial_14_teal">Trading Rooms</a></li><li><a href="http://www.signaltrader.com/support/membership" class="arial_14_teal">Membership</a></li></ul></td><td class="block text_align_lang_base_1"><h5>Partners</h5><ul class="FooterLinks"><li><a href="http://www.signaltrader.com/partners/affiliates" class="arial_14_teal">Affiliate Program</a></li><li><a href="http://www.signaltrader.com/partners/money-managers" class="arial_14_teal">Money Managers</a></li><li><a href="http://www.signaltrader.com/partners/signal-providers" class="arial_14_teal">Signal Providers</a></li></ul></td></tr></tbody></table></div></div>	</td>
 </tr>
 <tr>
 	<td class="Footer">
 		<div class="Container">
 			<div class="Copyright arial_11_white">Copyright © 2009-2011 I.S. Signal Trader Limited. All Rights Reserved</div>
 			<div class="MainLinks arial_12_white">
-								<a href="/about-us/" class="arial_12_white">About Us</a>&nbsp;|&nbsp;
-								<a href="http://www.signaltrader.com/about-us/contact-us" class="arial_12_white">Contact Us</a>
-				<br>
-								<a href="http://www.signaltrader.com/risk-warning" class="arial_12_white" rel="nofollow">Risk Warning</a>&nbsp;|&nbsp;
+												<a href="http://www.signaltrader.com/risk-warning" class="arial_12_white" rel="nofollow">Risk Warning</a>&nbsp;|&nbsp;
 								<a href="http://www.signaltrader.com/terms-and-conditions" class="arial_12_white" rel="nofollow">Terms And Conditions</a>&nbsp;|&nbsp;
 								<a href="http://www.signaltrader.com/privacy-policy" class="arial_12_white" rel="nofollow">Privacy Policy</a>
 			</div>
 			<div class="RiskDisclosure">
-								<p class="arial_11_white ltr" style="text-align:justify;direction:ltr;"><span class="arial_16_white">Disclaimer:</span> Trading foreign exchange (“Forex”), Commodity futures, options, CFDs and SpreadBetting on margin carries a high level of risk, and may not be suitable for all investors. Before deciding to trade foreign exchange (“Forex”), Commodity futures, options, CFDs or SpreadBetting you should carefully consider your monetary objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your deposited funds and therefore you should not speculate with capital that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange, Commodity futures, options, CFDs and SpreadBetting trading, and seek advice from an independent advisor if you have any doubts. Past returns are not indicative of future results. <br><br>HYPOTHETICAL PERFORMANCE RESULTS HAVE MANY INHERENT LIMITATIONS, SOME OF WHICH ARE DESCRIBED BELOW. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN. IN FACT, THERE ARE FREQUENTLY SHARP DIFFERENCES BETWEEN HYPOTHETICAL PERFORMANCE RESULTS AND THE ACTUAL RESULTS SUBSEQUENTLY ACHIEVED BY ANY PARTICULAR TRADING PROGRAM. ONE OF THE LIMITATIONS OF HYPOTHETICAL PERFORMANCE RESULTS IS THAT THEY ARE GENERALLY PREPARED WITH THE BENEFIT OF HINDSIGHT. IN ADDITION, HYPOTHETICAL TRADING DOES NOT INVOLVE FINANCIAL RISK, AND NO HYPOTHETICAL TRADING RECORD CAN COMPLETELY ACCOUNT FOR THE IMPACT OF FINANCIAL RISK IN ACTUAL TRADING. FOR EXAMPLE, THE ABILITY TO WITHSTAND LOSSES OR TO ADHERE TO A PARTICULAR TRADING PROGRAM IN SPITE OF TRADING LOSSES ARE MATERIAL POINTS WHICH CAN ALSO ADVERSELY AFFECT ACTUAL TRADING RESULTS. THERE ARE NUMEROUS OTHER FACTORS RELATED TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFIC TRADING PROGRAM WHICH CANNOT BE FULLY ACCOUNTED FOR IN THE PREPARATION OF HYPOTHETICAL PERFORMANCE RESULTS AND ALL OF WHICH CAN ADVERSELY AFFECT ACTUAL TRADING RESULTS. PERFORMANCE POSTED BY SYSTEM PROVIDERS MAY HAVE HAD LITTLE OR NO EXPERIENCE IN TRADING ACTUAL ACCOUNTS FOR ITSELF OR FOR CUSTOMERS. BECAUSE THERE ARE NO ACTUAL TRADING RESULTS TO COMPARE TO THE HYPOTHETICAL PERFORMANCE RESULTS CUSTOMERS SHOULD BE PARTICULARLY WARY OF PLACING UNDUE RELIANCE ON THESE HYPOTHETICAL PERFORMANCE RESULTS.<br><br></p>
+								<p class="arial_11_white ltr" style="text-align:justify;direction:ltr;"><span class="arial_16_white">Disclaimer:</span> Trading foreign exchange (“Forex”), Commodity futures, options, CFDs and SpreadBetting on margin carries a high level of risk, and may not be suitable for all investors. Before deciding to trade foreign exchange (“Forex”), Commodity futures, options, CFDs or SpreadBetting you should carefully consider your monetary objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your deposited funds and therefore you should not speculate with capital that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange, Commodity futures, options, CFDs and SpreadBetting trading, and seek advice from an independent advisor if you have any doubts. Past returns are not indicative of future results. <br><br>PAST PERFORMANCE RESULTS ARE NOT NECESSARILY INDICATIVE OF FUTURE RESULTS. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN. THERE ARE NUMEROUS OTHER FACTORS RELATED TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFIC TRADING PROGRAM WHICH CANNOT BE FULLY ACCOUNTED FOR BY PAST PERFORMANCE RESULTS. PROSPECTIVE CLIENTS SHOULD BE PARTICULARLY WARY OF PLACING UNDUE RELIANCE ON PAST PERFORMANCE RESULTS AND SHOULD NOT BASE THEIR DECISION ON INVESTING IN ANY TRADING PROGRAM SOLELY ON THE PAST PERFORMANCE PRESENTED. ADDITIONALLY, IN MAKING AN INVESTMENT DECISION, PROSPECTIVE CLIENTS MUST ALSO RELY ON THEIR OWN EXAMINATION OF THE PERSON OR ENTITY MAKING THE TRADING DECISIONS AND THE TERMS OF THE ADVISORY AGREEMENT INCLUDING THE MERITS AND RISKS INVOLVED.<br><br>You understand that there is no trading system or recommendation service that is free from the risk of loss. Signal Trader does not imply or guarantee that you will make a profit and you agree that neither Signal Trader nor any of its officers, directors, employees, consultants, agents or affiliates will be held responsible for the performance of the signals generated by third parties and transferred by the Application to Your brokers trading account or trading losses in your account. If you do not agree with the terms of the Disclaimer, please exit the website and do not use any of its products and services.<br><br></p>
 				<p class="arial_11_white ">Please refer to our <a href="http://www.signaltrader.com/risk-warning" class="arial_12_white" style="text-decoration:underline;">Risk Warning</a> for more detailed information.</p>
 			</div>
 		</div>
@@ -326,7 +156,7 @@ Should THE COMPANY amend this Privacy Policy in order to adapt it to new legal r
 </tr>	
 </tbody></table>
 
-<script type="text/javascript" src="/js/browsers.js"></script><script type="text/javascript">check_top_links_dropdowns();</script><script type="text/javascript">
+<script type="text/javascript" src="http://c3016312.cdn.cloudfiles.rackspacecloud.com/jquery.js"></script><script type="text/javascript">jQuery.noConflict();</script><script type="text/javascript" src="http://c3016312.cdn.cloudfiles.rackspacecloud.com/browsers.js"></script><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -339,5 +169,6 @@ try {
 var pageTracker2 = _gat._getTracker("UA-10979042-8");
 pageTracker2._trackPageview();
 } catch(err) {}</script>
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "25172214",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 
 </body></html>
