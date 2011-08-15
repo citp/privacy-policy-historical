@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatlossquickie.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612090712id_/http%3A//fatlossquickie.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatlossquickie.com privacy policy that was archived on 2011-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110816010353id_/http%3A//fatlossquickie.com/Privacy.php) for the most accurate reproduction.*
 
 # Fat Loss Quickie Privacy Policy Statement
 
