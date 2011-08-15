@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510084105id_/http%3A//devex.com/home/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2011-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110815203045id_/http%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
 
-# International Development - Home
+# International Development
 
 ## Privacy Statement
 
-This is the official privacy statement that applies to Devex (officially DevelopmentEx.com, Inc., and d/b/a The Development Executive Group and Devex). Devex will hereafter be referred to as "Company", "we", "us", or "our". We take your privacy seriously and are committed to keeping our users information secure. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. This privacy statement applies to our website that you were viewing when you clicked through to this privacy statement and to all other associated website pages.
+This is the official privacy statement that applies to Devex. Devex will hereafter be referred to as "Company", "we", "us", or "our". We take your privacy seriously and are committed to keeping our users
 
 **Information Collected**
 
@@ -50,11 +50,11 @@ We will make your personally identifiable information available to other compani
 
 **Personal Profiles**
 
-We provide you with the option of posting your personal profile including your skills, experience, contact information, employment history, references, and CV on our website. We use our best efforts to ensure that only employers, recruiters, hiring managers, headhunters, and human resource professionals access these directories, but cannot guarantee that other parties will not, without our consent, gain access to their contents. In addition, all visitor s to our website may have access to a limited version of your profile free of charge. This limited version does not contain your full name or contact information. You may remove and/or deactivate your profile from our searchable directories at any time. However, employers and recruiters who have paid for access to the directory, and other parties who have otherwise gained access to the directory, may have retained a copy of your profile in their own files or databases. We are not responsible or liable for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties while profiles are in the directory.
+We provide you with the option of posting your personal profile including your skills, experience, contact information, employment history, references, and CV on our website. We use our best efforts to ensure that only employers, recruiters, hiring managers, headhunters, and human resource professionals access these directories, but cannot guarantee that other parties will not, without our consent, gain access to their contents. In addition, all visitors to our website may have access to a limited version of your profile free of charge. This limited version does not contain your full name or contact information. You may remove and/or deactivate your profile from our searchable directories at any time. However, employers and recruiters who have paid for access to the directory, and other parties who have otherwise gained access to the directory, may have retained a copy of your profile in their own files or databases. We are not responsible or liable for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties while profiles are in the directory.
 
 **Opt-in and Opt-out**
 
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view certain of the content and use certain of the services offered by our website without registering. We also give users the following options 
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. YYou can still view certain content and use certain services offered by our website without registering. We also give users the following options 
 
   * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us and
   * Opting not to provide certain personal information when registering for a website, provided, however, that you may not be able to use some of our services without providing us with certain information.
@@ -63,7 +63,7 @@ Users who would rather not provide any of the user data requested by our registr
 
 **Updating Personal Profile Information**
 
-We allow you to change, correct or remove from public view your personal profile at any time. To do so, simply log into your DevelopmentEx.com account, go to your account profile, and select the options for editing the information you have submitted. 
+We allow you to change, correct or remove from public view your personal profile at any time. To do so, simply log into your Devex.com account, go to your account profile, and select the options for editing the information you have submitted. 
 
 **Use of Subscriber Names for Promotional Marketing**
 
@@ -75,8 +75,12 @@ The Company will maintain appropriate measures to ensure that users’ personal 
 
 **Privacy Policy Changes**
 
-Devex is committed to ensuring the most secure and private operating environment for all users of the Company’s website. We will post any amendments or revisions of our privacy policy here so that you will always know what information we gather, how we might use that information, and how we protect you and your organization’s privacy. If at any time you have questions or concerns about our privacy policy please feel free to email us at [info@developmentex.com](https://web.archive.org/messaging/contact_us?email=info&email_action=Privacy+Statement&path%5Baction%5D=privacy_statement&path%5Bcontroller%5D=home) or call +1 202.249.9222 to speak to one of our representatives. 
+Devex is committed to ensuring the most secure and private operating environment for all users of the Company’s website. We will post any amendments or revisions of our privacy policy here so that you will always know what information we gather, how we might use that information, and how we protect you and your organization’s privacy. If at any time you have questions or concerns about our privacy policy please feel free to email us at [info@devex.com](mailto:info@devex.com) or call +1 202.249.9222 to speak to one of our representatives. 
 
 Thank you for using our services. We’ll keep working hard to earn your business, and your loyalty. 
 
-This privacy statement was last modified on December 5, 2007 and is effective immediately.
+This privacy statement was last modified on December 5, 2007 and is effective immediately. 
+
+Devex   
+Corporate Headquarters: 1341 Connecticut Avenue, NW Washington, DC 20036 USA   
++1 (202) 249-9222
