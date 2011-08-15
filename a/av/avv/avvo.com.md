@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513051520id_/http%3A//www.avvo.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avvo.com privacy policy that was archived on 2011-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110815184749id_/http%3A//www.avvo.com/support/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Avvo.com
 
 **AVVO.COM  
 PRIVACY POLICY**
 
-Last Revised: October 31, 2010
+Last Revised: July 19, 2011
 
 This privacy policy ("Policy") applies to the Web site owned and operated by Avvo, Inc. ("Avvo" "we" or "us") located at www.avvo.com (the "Site"). The Policy is designed to tell you how we collect and use personal information (as defined below) so you can make an informed decision about using our Site. Please read this statement before using our Site or submitting any personal information to us. By using our Site, you represent that you are 13 years old or older and you consent to the information collection and use practices described herein. **We reserve the right to change the provisions of this privacy policy at any time.  We will notify you of these changes by posting a revised privacy policy on the Site and indicating on the privacy policy the date it was last updated. The revised privacy policy will also be posted to the Avvo Blog ([www.avvoblog.com](http://avvoblog.com/)); to receive additional notice of such changes visit the Avvo Blog and subscribe to updates via RSS or email. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any such changes.** We encourage you to review our privacy policy whenever you visit our Site to determine if any changes have been made and to make sure that you understand how any personal information you provide will be used.
 
@@ -60,6 +60,6 @@ We may automatically enroll you in one or more of our email subscription program
 If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please [contact us](http://www.avvo.com/support/contact_us), and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. You can correct certain information by logging into your account and changing the information, and you may also delete certain information by closing your account. In addition, lawyers may change certain information contained in their Profile by claiming their Profile and editing the information contained therein, or by [sending us an email](http://www.avvo.com/support/contact_us). However, please note that in certain circumstances, we may not, or may not be able to, remove or change certain information, even in the event an account is closed. For example, we may retain certain information, such as credit card information, for a certain period of time, and we also may retain and continue to display any information you provided in connection with a lawyer Profile or a blog or other interactive forum. In lieu of email, you may also contact us by mail at the following address:
 
 Avvo, Inc.  
-1218 Third Avenue, Suite 300  
+1501 Fourth Avenue, Suite 1900  
 Seattle, WA 98101  
 Attn: Privacy Policy
