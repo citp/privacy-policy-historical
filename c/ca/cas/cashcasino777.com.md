@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashcasino777.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609145926id_/http%3A//www.cashcasino777.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashcasino777.com privacy policy that was archived on 2011-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110816070029id_/http%3A//www.cashcasino777.com/privacy.html) for the most accurate reproduction.*
 
 # CashCasino777
 
@@ -10,34 +10,34 @@ We collect personal data, which is saved and processed. The visit of a user on o
 
 Personal data (such as name, address, e-mail address), the user gives us, will only be used for correspondency with this user and will only be used in the way the user allowed us to use it. Passing these datas to a third party wont happen except we are forced to do so by law or the user allowed us to do so.
 
-* Silme
+* Deletetion
 
 Specific Personal data of a user given to us, may be deleted at will from that user.
 
-* Kullanıcı hesabı
+* Useraccount
 
-Bir kullanici bir hesap acarsa, kisisel (Isim, Adres, Mail) ve kullanici bilgilerinin (Kullanici ismi, Sifre) kaydedilmesine izin verir.
+If a user opens a useraccount, this user also allows us explicitly to save personal data such as address, e-mail, name and to save user data such as username and password.
 
-* Kayıt süresi
+* Period of saving data 
 
-Kisiel bilgileri yerine göre kullanicagiz ve sonra silecegiz. Ayrics kanunen bir zaman sonra bilgileri silme mecburiyetimiz var.
+Personal data is only saved as long as it is neccessary to achieve our company's goal. Further on we need to save parts for trading and/or tax record retention periods.
 
-* Sizin haklariniz
+* Your rights
 
 If a user does not agree with saving her personal data anymore or the data becomes invalid, we will delete or update this data after a brief message on this issue. We also will inform the user on request about which data is saved about her. See end of this document for contact informations.
 
-* Cookies
+* cashcasino_GenericPrivacyParagraph7Head
 
 The usage of our online service has the neccessity for cookies. In such cookies we save a random generated session code and probably a user id which allows to identify the user as a registered one.
 
-* Linkler
+* cashcasino_GenericPrivacyParagraph8Head
 
-Bu gizlilik açıklamasi başka siteler için geçerli değildir.
+This privacy policy is not valid on linked other third party pages. 
 
-* Gizlilik açıklaması degişiklilikleri
+* Changes of this privacy policy 
 
 We will, depending on the ongoing technical development of our online service, update this provacy policy. Changes to this policy will be announced in this document.
 
-* Gizlilik iliskisi
+* Contact for Privacy protection
 
-Gizlilik hakkinda sorulariniz olursa, buraya basvur: [info@cash-safe.com](mailto:info@casinotronic-media.de)
+In case you have questions about privacy policy, don't hesitate to contact [info@CashCasino777.com](mailto:info@casinotronic-media.de)
