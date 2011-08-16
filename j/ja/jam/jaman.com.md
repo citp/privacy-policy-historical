@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617045931id_/http%3A//www.jaman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2011-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110816175307id_/http%3A//www.jaman.com/privacy-policy) for the most accurate reproduction.*
 
 # Jaman - Jaman Privacy Policy
 
