@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exambible.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511184509id_/http%3A//www.exambible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exambible.com privacy policy that was archived on 2011-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110816194452id_/http%3A//www.exambible.com/privacy) for the most accurate reproduction.*
 
 # Privacy. Fastest and Guaranteed Certify - Exambible
 
