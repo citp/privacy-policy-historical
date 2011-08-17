@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frontarticle.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218131722id_/http%3A//frontarticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontarticle.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818001325id_/http%3A//frontarticle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Front Article
+# Privacy Policy » Front Article – Article Directory
 
 **Our Commitment To Your Privacy**
 
