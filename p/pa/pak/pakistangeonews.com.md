@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the pakistangeonews.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313081719id_/http%3A//www.pakistangeonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistangeonews.com privacy policy that was archived on 2011-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110817091025id_/http%3A//www.pakistangeonews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistan Geo News
 
-By Pakistan Geo News \- Thu Mar 10, 10:24 pm
-
-  * 0 views
-  *   *   * [](http://www.pakistangeonews.com/privacy-policy/emailpage/ "Email") [Email](http://www.pakistangeonews.com/privacy-policy/emailpage/ "Email")
-
-
-
-**PAKISTAN GEO NEWS[PRIVACY POLICY](http://www.pakistangeonews.com/privacy-policy "PRIVACY POLICY")**
+**PAKISTAN GEO NEWS PRIVACY POLICY**
 
 Pakistan Geo News is Pakistan Herald Publications (Pvt.) Ltd. website. Please know that while using this website and/or submitting information at this website you are volunteering the same; you are informed of the way such information may be used and you agree to such use.
 
@@ -31,9 +24,9 @@ We use the non-personally identifiable information that you submit to improve ou
 
 We may disclose personally identifiable information in response to legal process, for example, in response to a court order or summon. We may also disclose such information in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our website and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, or merged with another company. Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for us.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that you submit will never be disclosed in a manner that is inconsistent with this [Privacy Policy](http://www.pakistangeonews.com/privacy-policy "Privacy Policy").
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that you submit will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-We may disclose personally identifiable information to companies whose practices are not covered by this [privacy policy](http://www.pakistangeonews.com/privacy-policy "privacy policy") (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
+We may disclose personally identifiable information to companies whose practices are not covered by this privacy policy (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
 
 **Cookies & Web Beacons**
 
@@ -65,4 +58,4 @@ If you are aged 18 or under, please get your parent/guardian’s permission befo
 
 **Updates & Effective Date**
 
-We may update or amend this [privacy policy](http://www.pakistangeonews.com/privacy-policy "privacy policy") from time to time. You are advised to review this policy each time you use this website..
+We may update or amend this privacy policy from time to time. You are advised to review this policy each time you use this website..
