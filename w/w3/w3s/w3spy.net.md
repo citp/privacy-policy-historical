@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3spy.net privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606090425id_/http%3A//w3spy.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3spy.net privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818015827id_/http%3A//w3spy.net/privacy.php) for the most accurate reproduction.*
 
 # W3Spy.net - Privacy Policy
 
