@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notebookv.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618013950id_/http%3A//www.notebookv.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notebookv.com privacy policy that was archived on 2011-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110817154520id_/http%3A//www.notebookv.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
