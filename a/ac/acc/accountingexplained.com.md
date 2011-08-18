@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingexplained.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507220620id_/http%3A//www.accountingexplained.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingexplained.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818191007id_/http%3A//accountingexplained.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingExplained.com
 
@@ -13,3 +13,17 @@ You privacy is important to us. Please read the following points regarding our p
 **Note:** This does not include user-specific information like name and email etc.
 
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
