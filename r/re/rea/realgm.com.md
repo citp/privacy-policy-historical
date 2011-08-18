@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227000549id_/http%3A//www.realgm.com/src_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818234810id_/http%3A//www1.realgm.com/info/privacy_policy) for the most accurate reproduction.*
 
 # RealGM: Privacy Policy
 
-**Privacy Statement:**
+## Privacy Statement
 
 RealGM, L.L.C., which operates the Web site RealGM.com ("RealGM.com"), is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to families' concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep RealGM.com a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information.
 
