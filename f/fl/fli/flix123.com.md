@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flix123.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618004631id_/http%3A//flix123.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flix123.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818055014id_/http%3A//flix123.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
