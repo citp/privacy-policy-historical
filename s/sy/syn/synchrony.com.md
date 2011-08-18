@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synchrony.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618055053id_/http%3A//www.synchrony.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synchrony.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818045626id_/http%3A//www.synchrony.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
