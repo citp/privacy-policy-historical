@@ -1,53 +1,106 @@
-> *The following text is extracted and transformed from the essayrater.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204030140id_/http%3A//essayrater.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essayrater.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818031813id_/http%3A//privacy-policy.truste.com/verified-policy/www.grammarly.com) for the most accurate reproduction.*
 
-# Essay Rater - Privacy Policy
+# Privacy Policy for www.grammarly.com
 
-This privacy statement is designed to help you understand how we use and safeguard the personal information you provide to us. This privacy statement describes the practices of essayrater.com.
+Effective on April 13, 2010
 
-Please note that this website provides direct links to various sponsor and marketing partner sites, where you can apply for products and services (such as student loans) or register for more information. This privacy statement does not describe the practices of our partners. Before disclosing personal information on any other company's web site, you should read the privacy policy associated with that site.
+This privacy statement describes how Applied Linguistics LLC collects and uses the personal information you provide on our Web site: [www.grammarly.com](http://www.grammarly.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**Information That We Collect**
+**TRUSTe**
 
-When you visit our Web site, you may provide us with information in different ways. For example, you may register with us or sign up for our newsletter. Or, you may complete search forms to get information from us about things like colleges or financial aid. Additionally, we collect information on an aggregate basis as you and others browse our web site.
+Applied Linguistics LLC is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-The types of information we ask for varies with the search you're conducting. In addition to your name and contact information, we will ask for other information related to the topic. For example, in order to personalize your search for a college, we may ask about your high school graduation date, school performance, desired college locations, and career goals. If you request document editing services from us, you will provide a copy of the letter, essay or resume you want us to revise.
+If you have questions or concerns regarding this policy, you should first contact us at [support@grammarly.com](mailto:support@grammarly.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-**How We Use the Information**
+## Collection and Use of Personal Information
 
-In general, we use the information you provide in order to:
+We collect the following personal information from you
 
-  * respond to your requests for information  
-
-  * provide the services you request  
-
-  * provide customer service  
-
-  * provide links between targeted product and service providers and appropriate individuals
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
 
 
 
-For example, if you request information on financial aid, we will send you that information. If you so choose, we can also provide your information to those marketing partners who offer financial aid packages so they may send you information on their products and services.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-If you request editing or resume writing services, we provide those services and bill you for the services as instructed. We do NOT sell any personal information from essays or resumes to any third parties. For example, unlike some resume services, we do not sell resume information to job posting boards. The full policy regarding use of customer information can be found in the Terms of Service that you must check to complete your order.
+We use this information to
 
-If you purchase a product or service on our site, you may provide us with a credit card number. This credit card number will only be used to process your purchase. We will not disclose credit card numbers to third parties for marketing purposes under any circumstances.
+  * Fulfill your order
+  * Send you an order confirmation
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
 
-**Cookies and Web Site Information**
 
-Like most other commercial websites, we use standard "cookie" technology and web server logs to collect information about how our web site is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session.
 
-Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+**Choice/Opt-Out**
 
-**Children's Data**
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@grammarly.com](mailto:support@grammarly.com).
 
-The Essay Rater websites are designed for high school students, their parents, and adults seeking information on higher education. Children under 13 years of age may use these websites to get general information about higher education. However, we do not collect personal information from anyone under 13, and children under 13 may not register or conduct personalized searches.
+**Information Obtained from Third Parties**
 
-**How Do We Secure Information Transmissions?**
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-If you purchase a product from us, we will ask for a credit card number. These transactions are secured using licensed secure server software which encrypts the information you provide.
+## Information Sharing
 
-Additionally, we periodically review our operations and business practices for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-**Contact Us With Any Questions**
+We may also disclose your personal information
 
-If you have any questions about this privacy statement, the practices of our websites, or your dealings with this web site, please contact us.
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Applied Linguistics LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so. 
+
+
+
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Applied Linguistics LLC. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@grammarly.com](mailto:support@grammarly.com)
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [support@grammarly.com](mailto:support@grammarly.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+Applied Linguistics LLC
+
+93 South Jackson Street, #35410 
+
+Seattle, WA, United States 98104
+
+Phone: 888-318-6146
