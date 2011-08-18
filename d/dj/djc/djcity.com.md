@@ -1,47 +1,127 @@
-> *The following text is extracted and transformed from the djcity.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221163218id_/http%3A//www.djcity.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djcity.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818030511id_/http%3A//privacy-policy.truste.com/verified-policy/www.djcity.com) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for www.djcity.com
 
-Privacy Policy
+Effective on March 8, 2010
 
-Your privacy is our concern.
+This privacy statement describes how DJCity, Inc. collects and uses the personal information you provide on our Web site: [www.djcity.com](http://www.djcity.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-DJCity, Inc. is committed to protecting our customers' personal and financial information. In the course of providing you with online products and services, we need to collect and maintain certain nonpublic personal information about you in order to meet your interest and needs. This Privacy Statement answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it.
+**TRUSTe**
 
-_What types of nonpublic personal information about me does DJCity, Inc. collect?_
+DJCity, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-When you purchase or maintain an account with DJCity, Inc., we collect the following types of information: 
+If you have questions or concerns regarding this policy, you should first contact us at [info@djcity.com](mailto:info@djcity.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-  * Information provided by you, such as your name, addresses, and interests.
-  * Information about your transactions with us.
-  * In reseller and bulk buyer cases we will may collect other pertinent financial background information.
+## Collection and Use of Personal Information
 
-_What types of nonpublic personal information about me does DJCity, Inc. disclose?_
+We collect the following personal information from you
 
-DJCity, Inc. does not discloses the nonpublic personal information about you described above, except only to provide you with the optional line of credit resellers or bulk buyers seek from us if necessary. We do not disclose nonpublic personal information about former customers nor do we sell any of your personal information.
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Financial Information such as bank or brokerage account numbers, types of investments
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
-_To what types of companies (other than those companies used to service transactions) does DJCity, Inc. disclose my nonpublic personal information?_
 
-DJCity, Inc. will only disclose nonpublic personal information about you to a financial services company, such as a bank or line of credit agency, only after permission has been granted. Future considerations including marketing programs and incentive programs will only receive our user demographics and interests surveys as a whole. The information shared is limited to a non-identifying nature.. Order history and credit and financial information is never disclosed.
 
-_What are my rights to opt-out of disclosure and how can I exercise them?_
+We also collect the following information from you
 
-If you prefer that we do not disclose nonpublic personal information about you to the non-financial services companies described in the previous paragraph, you may opt-out of those disclosures, that is, you may direct us not to make those disclosures (other than those disclosures required by law). You may send correspondence for opt-out requests to us by e-mail.
+  * Demographic information such as age, education, gender, interests and zip code
 
-_To what other types of entities might DJCity, Inc. disclose my nonpublic personal information?_
 
-DJCity, Inc. may disclose information we collect from you such as your contact information, to service providers who perform marketing functions on our behalf. Specifically, your name, address and/or e-mail address are sometimes provided to vendors who send e-mail or regular mail on DJCity, Inc.'s behalf.
 
-We disclose information to nonaffiliated companies that work for us in providing financial services to you. For example, we provide information to nonaffiliated companies that prepare and mail statements and transaction confirmations. These companies acting on our behalf are required to keep your personal information confidential.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-We may disclose information, as permitted by law, with our affiliated companies. By sharing information about your accounts and interests with our affiliated companies, we can offer you a broader range of products and services, improve your experience with us and serve you more efficiently.
+We use this information to
 
-Finally, DJCity, Inc. discloses nonpublic personal information to nonaffiliated third parties as permitted or required by law. These parties include government/regulatory organizations such as the Internal Revenue Service (IRS) and the Securities and Exchange Commission (SEC). Disclosures for which you have provided your consent are also permitted.
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Administer contests and sweepstakes you entered, and notify you if you won
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
 
-_How does DJCity, Inc. protect the confidentiality and security of my nonpublic personal information?_
 
-We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. We protect your account information by placing it on the secure portion of our website. Our hosted servers have been enabled with Secure Sockets Layer (SSL) technology to prevent unauthorized parties from viewing your nonpublic personal information that you give or access during a secure session. This is why you must enter a unique User Name and Password each time you access your account information online. In addition, we employ SSL digital certificate services to authenticate that you are transacting with djcity.com.
 
-Access to your nonpublic personal information is limited to those employees who need to know that information to provide products or services to you, such as customer service personnel. 
+**Choice/Opt-Out**
 
-You can take steps to maximize your security online and to protect your confidential information. NEVER share your Password with anyone, and change it periodically.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@djcity.com](mailto:info@djcity.com).
+
+We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
+
+**Information Obtained from Third Parties**
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+## Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if DJCity, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so. 
+
+
+
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of DJCity, Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@djcity.com](mailto:info@djcity.com)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [info@djcity.com](mailto:info@djcity.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+DJCity, Inc.
+
+4041 Sepulveda Blvd 
+
+Culver City, CA, United States 90230
+
+Phone: 310-737-9200
