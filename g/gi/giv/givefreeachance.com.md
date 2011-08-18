@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the givefreeachance.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619032306id_/http%3A//www.givefreeachance.com/Privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givefreeachance.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818234310id_/http%3A//givefreeachance.com/Privacy/index.asp) for the most accurate reproduction.*
 
 # .: Click & Pledge :. Privacy Statement
 
 ### Privacy Statement
 
-_Last update: August 10, 2009_
+_Last update: June 23, 2011_
 
 [](http://www.truste.org/ivalidate.php?url=www.clickandpledge.com&sealid=102) | 
 
@@ -17,7 +17,7 @@ Email:  [Privacy@ClickandPledge.com](mailto:Privacy@ClickandPledge.com)
   
 ---|---  
   
-ClickandPledge.com Corporation is a licensee of the TRUSTe Privacy Program. This privacy statement covers www.clickandpledge.com. TRUSTe is an independent, organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+ClickandPledge.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers www.clickandpledge.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. ClickandPledge.com Corporation is a licensee of the TRUSTe Privacy Program. This privacy statement covers www.clickandpledge.com. TRUSTe is an independent, organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
   * What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site
   * The organization collecting the information
@@ -26,14 +26,17 @@ ClickandPledge.com Corporation is a licensee of the TRUSTe Privacy Program. This
   * What choices are available to you regarding collection, use and distribution of the information
   * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ClickandPledge.com control
   * How you can correct any inaccuracies in the information.
-  * This site complies EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
+  * This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
 
 
 
-If you have questions or concerns regarding this statement, you should first contact ClickandPledge Privacy Group by [Privacy@ClickandPledge.com](mailto:Privacy@ClickandPledge.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Website to resolve your concerns.
+If you have questions or complaints regarding our privacy policy or practices, please contact ClickandPledge Privacy Group by [Privacy@ClickandPledge.com](mailto:Privacy@ClickandPledge.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "File a Privacy Complaint").
+
+If you have questions or concerns regarding this statement, you should first contact ClickandPledge Privacy Group by [Privacy@ClickandPledge.com](mailto:Privacy@ClickandPledge.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint "File a Privacy Complaint"). TRUSTe will then serve as a liaison with the Website to resolve your concerns.  
+
 
 **Information Collection and Use**  
-ClickandPledge.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed inthis statement. ClickandPledge.com collects information from our users at several different points on our web site.
+ClickandPledge.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. ClickandPledge.com collects information from our users at several different points on our web site.
 
 We offer various services to organizations where different information needs to be collected either from the organization or on behalf of the organization.
 
@@ -43,15 +46,22 @@ Upon completion of the application the organization's information is saved for m
 **Donors & Organization's web site visitors:**  
 As part of web content management solution and online payment system donor's information is saved in our system on behalf of the organization. We neither use this information in anyway nor share it with any other party.
 
-Donors may choose to make a donation as a gift, in memory of someone, or in honor of someone. The gift recipient informationis shared with the organization only if the donor informs the organization otherwise the system will not share the information with the organization or any third party. No data will be saved or stored.
+Donors may choose to make a donation as a gift, in memory of someone, or in honor of someone. The gift recipient information is shared with the organization only if the donor informs the organization otherwise the system will not share the information with the organization or any third party. No data will be saved or stored.
 
 Donors may choose to send an email to a friend regarding a listing on any of the catalogue checkout pages. The email is considered a private communication between the donor and the friend and the organization will not be notified of this communication. No data will be saved or stored.
 
 **Third Party Intermediaries**  
 We use the following third party companies for providing the listed services. These companies do not share, or use personally identifiable information for any secondary purpose:
 
-eFunds: Credit card processing and authentication  
-Kayako SupportSuite :  Live support system used for providing online support.
+_Gateways:_
+
+  * Transfirst
+  * Global Payments
+  * Clear Commerce
+  * Optimal Payments
+  * Payvision
+
+
 
 **Applying for an Account**  
 In order to use some of our services, a user must first complete the application form.  When completing the application a user is required to give their contact information (such as name, address, and email address) and information about their organization (such as name of organization, Tax ID, and tax designation).  This information is used to contact the user about the services on our site for which they have expressed interest.
@@ -97,11 +107,11 @@ ClickandPledge does not send any advertisements, emails (other than related to p
 **Co-Branded Sites**  
 Click & Pledge provides hosting services for nonprofit web sites. Information collected on these sites is the property of the organization and is not shared by Click & Pledge with any third party. Any questions regarding the PII information collected on these sites should be addressed to the organization directly through the contact form provided on the respective site.
 
-Bulletin Boards/Chat Rooms  
-If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+**Bulletin Boards/Chat Rooms**  
+If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [Privacy@ClickandPledge.com](mailto:Privacy@ClickandPledge.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 **Testimonials**  
-We post customer testimonials on our web site which may contain personally identifiable information as the customer's name. We do obtain the customer's consent prior to posting the testimonials to post their name along with their testimonial.
+We post customer testimonials on our web site which may contain personally identifiable information as the customer's name. We do obtain the customer's consent prior to posting the testimonials to post their name along with their testimonial. To request removal of your personal information from these testimonials, contact us at [Privacy@ClickandPledge.com](mailto:Privacy@ClickandPledge.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 **Security**  
 This web site takes every precaution to protect our users' information. When users submit sensitive information via the web site, your information is protected both online and offline.
@@ -121,13 +131,15 @@ We also send clients site and service announcement updates. Clients are not able
 **Correction/Updating Personal Information**  
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or delete that user's personal data provided to us. This can be done at the member information page or by emailing our Customer Support at [Support@ClickandPledge.com.](mailto:Support@ClickandPledge.com) All requests will be responded to within 48 hours.
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [Support@ClickandPledge.com](mailto:Support@ClickandPledge.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 **Choice/Opt-out**  
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [Support@ClickandPledge.com](mailto:Support@ClickandPledge.com) [We offer an opportunity to opt-out of certain communications on our [MEMBER INFORMATION PAGES], or you may contact us at 866.999.2542, [Support@ClickandPledge.com](mailto:Support@ClickandPledge.com) or write to: ClickandPledge, 2200 Kraft Drive, Suite 1175, Blacksburg, Virginia 24060-6356 to opt-out.]
 
 **EU Safe Harbor**  
-Clickandpledge.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon request and within 30 days, Clickandpledge.comwill grant individuals reasonable access to personal information that it holds about them. In addition, Clickandpledge.comwill take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact Support@ClickandPledge.com.com to change your personal information gathered on the Site.
+Clickandpledge.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon request and within 30 days, Clickandpledge.com will grant individuals reasonable access to personal information that it holds about them. In addition, Clickandpledge.com will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact Support@ClickandPledge.com.com to change your personal information gathered on the Site.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
 
