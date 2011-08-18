@@ -1,99 +1,95 @@
-> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722023308id_/http%3A//www.cheathouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818041853id_/http%3A//privacy-policy.truste.com/verified-policy/www.writework.com) for the most accurate reproduction.*
 
-# Privacy - WriteWork - Essays and Papers for Students
+# Privacy Policy for www.writework.com
 
-Our Privacy Policy is designed to assist you-businesses, consumers and the general public-in understanding how we collect and use the personal information you provide to us, and to help you make informed decisions when using our web site and all of our related services therein. 
+Effective on September 2, 2009
 
-###### Contact Information
+This privacy statement describes how Valvant LLC collects and uses the personal information you provide on our Web site: [www.writework.com](http://www.writework.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us: e-mail:
+**TRUSTe**
 
-Surface mailing address:
+Valvant LLC is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-Gradua Networks  
-SRTVS, Qd. 701, Bl "A" sala 625/627  
-Centro Empresarial Brasilia  
-70.340-907  
-Brasília D.F.  
-Brazil
+If you have questions or concerns regarding this policy, you should first contact us at [maximo.migliari@gmail.com](mailto:maximo.migliari@gmail.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-Phone: (347) 404-5110  
-Email: privacy@writework.com 
+## Collection and Use of Personal Information
 
-###### What Information Do We Collect?
+We collect the following personal information from you
 
-When visiting the our web site, you may provide us with two types of information: personal information you voluntarily choose to disclose that is collected on an individual basis, and Web site use information gathered on a collective basis as you and others browse our Web site. 
+  * Contact Information such as name, email address, mailing address, phone number
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
-**Personal Information You Choose to Provide**
 
-**Registration Information**
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a user of our services, register for certain services, or register for email newsletters and alerts.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-**Email Information**
+We use this information to
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. If you use our "Email this page" feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose. 
+  * Send you an order confirmation
+  * Respond to customer service requests
+  * Administer your account
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
 
-###### How Do We Use the Information That You Provide to Us?
 
-Generally, we use personal information for purposes of managing and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.
 
-Choice/Opt-out
+## Information Sharing
 
-We allow you the choice to opt-out of having your information used for purposes not directly related to our site, when we ask for the information.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-Until you explicitly opt-in for the first time we consider you in the opt-out category. We always notify our customers when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+We may also disclose your personal information
 
-If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by using the opt-out mechanism on the User Account Settings Web page, or by sending an e-mail with the subject line "Unsubscribe" to or e-mail address - see above. 
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Valvant LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so. 
 
-###### What Are Cookies?
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
 
-###### How Do We Use Information We Collect from Cookies?
+_PayPal_
 
-As you visit our Web site, the site uses its cookies to differentiate you from other customers. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security.
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
 
-Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies. 
+## Cookies and Other Tracking Technologies
 
-###### Sharing Information with Third Parties
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you.
+_Web beacons_
 
-In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party.
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities.
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution. 
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
-###### How Do We Protect Your Information?
+_Links to Other Web Sites_
 
-Secure Information Transmissions
+Our Site includes links to other Web sites whose privacy practices may differ from those of Valvant LLC. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact privacy@writework.com if you have any questions or concerns.
+## Security
 
-###### How Can You Access and Correct Your Information?
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [maximo.migliari@gmail.com](mailto:maximo.migliari@gmail.com)
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by contact us, see the above contact information. 
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-###### What About Other Web Sites Linked to Our Web Site?
+## Additional Policy Information
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+**Correcting and Updating Your Personal Information**
 
-###### Your Consent
+To review and update your personal information to ensure it is accurate, contact us at [maximo.migliari@gmail.com](mailto:maximo.migliari@gmail.com).
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. At any time you may request to view any and all changes and updates, via surface mail. 
+**Notification of Privacy Statement Changes**
 
-###### Notification of Changes
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-The Privacy Policy is subject to periodic review and change. In order to view the current Privacy Policy, simply check this section of the website. If we materially change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so users are aware of what information we collect, how it is used, and under what circumstances, if any, we disclose it. In some cases where we post a notice, we may also email user who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+You can contact us about this privacy statement by writing or email us at the address below:
 
-###### Do you share visitor information with 3rd parties?
+Valvant LLC
 
-The only information WriteWork.com may share with any 3rd party is general statistical information concerning the browsing patterns and target audience for specific pages of our site. We do NOT give out specific user information such as e-mails, names and addresses. In fact, we consider such information so precious, we are not willing to part with it for any cost.
+501 Silverside Road, ste 105 
 
-We may from time to time annouce big changes or improvements on WriteWork.com via email. We know that some people get very annoyed with this, so it will always be possible opt-out of these info-mails. And no, we don't send mails to people who have nothing to do with our services.
+Wilmington, DE, United States 19809
 
-You are our customers, and we value your loyalty - we will never wish you to be bothered by SPAM e-mail or any other kind of unsolicited e-mail potentially caused by sharing such information with a 3rd party.
-
-As big supporters of OpenSource software (and frequent visitors to sites such as [Slashdot.org](http://www.slashdot.org/)) you can easily imagine where we stand on this personally. 
+Phone: +55 61 3202 5023
