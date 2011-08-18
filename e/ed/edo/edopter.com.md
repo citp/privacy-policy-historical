@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edopter.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606034627id_/http%3A//www.edopter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edopter.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818233137id_/http%3A//www.edopter.com/privacy) for the most accurate reproduction.*
 
 # edopter is social trendcasting. Discover the next big trends.
 
