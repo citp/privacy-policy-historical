@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106023952id_/http%3A//www.teach12.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819010720id_/http%3A//www.thegreatcourses.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.*
 
 # Personal Information and Privacy Policy
 
@@ -24,9 +24,9 @@ Here's what we do with your e-mail address:
 
 ## How we protect your billing information
 
-When you order from us online, we protect your information by using Secure Sockets Layer (SSL) protocol. We are secured by VeriSign, the leading provider of SSL encryption keys. SSL encryption electronically masks any information you send us. With this state-of-the-art system, you can enter your credit card number and delivery and billing information safely. The encryption process protects the information by scrambling it before it is sent to us.
+When you order from us online, we protect your information by using Secure Sockets Layer (SSL) protocol. We are secured by Comodo, the leading provider of SSL encryption keys. SSL encryption electronically masks any information you send us. With this state-of-the-art system, you can enter your credit card number and delivery and billing information safely. The encryption process protects the information by scrambling it before it is sent to us.
 
-You can verify our compliance at any time by clicking on the VeriSign logo located on our Shopping Cart page or any page in the checkout process. 
+You can verify our compliance at any time by clicking on the Comodo logo located on our Shopping Cart page or any page in the checkout process. 
 
 If you feel uncomfortable buying through our site, we'd be delighted to take your orders via: 
 
