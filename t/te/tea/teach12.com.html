@@ -1,410 +1,39 @@
-<!--The following is the downloaded HTML source of the teach12.com privacy policy that was archived on 2011-01-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110106023952id_/http%3A//www.teach12.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teach12.com privacy policy that was archived on 2011-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110819010720id_/http%3A//www.thegreatcourses.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"><link rel="shortcut icon" href="/tgc/favicon.ico" type="image/x-icon"><link rel="icon" href="/tgc/favicon.ico" type="image/ico"><title>
 	Personal Information and Privacy Policy
-</title>
-	<!-- begin Marin Software Tracking Script --> 
-<script type="text/javascript"> 
-var _marinClientId = '5287ml2139'; 
-var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://"); 
-document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" + 
-_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E")); 
-</script><script src="https://tracker.marinsm.com/tracker/5287ml2139.js" type="text/javascript"></script> 
-<script type="text/javascript"> 
-try { 
-_marinTrack.trackPage(); 
-} catch(err) {} 
-</script> 
-<noscript> 
-<img src="https://tracker.marinsm.com/tp?act=1&cid=5287ml2139&script=no" > 
-</noscript> 
-<!-- end Copyright Marin Software -->
-
-    <link rel="stylesheet" href="/tgc/css/tgc_min.css" type="text/css">	
+</title><link rel="stylesheet" href="/tgc/css/thickbox.css" type="text/css"><link rel="stylesheet" href="/tgc/css/tgc_min.css" type="text/css">	
    <!--[if IE]><link href="/tgc/css/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
    <!--[if lte IE 6]><link href="/tgc/css/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
    <!--[if lte IE 7]><link href="/tgc/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
- 
+
 	 <link type="text/css" rel="Stylesheet" href="https://ajax.microsoft.com/ajax/jquery.ui/1.8.5/themes/smoothness/jquery-ui.css">  	
-   	<script src="https://ajax.microsoft.com/ajax/jQuery/jquery-1.4.2.min.js" type="text/javascript"></script>   	
+   <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jQuery/jquery-1.4.4.min.js"></script>   
 	 <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.ui/1.8.5/jquery-ui.js"></script>  
-	
-	
-	
-   	<script type="text/javascript">
-	  function TGC_Quicklook() {
-	 
-	
-	$(".product").hover(
-      function () {
-        var productid =  $(this).attr("id");
-		$("#" + productid + "_ql").show();		
-		
-      }, 
-      function () {
-		 var productid =  $(this).attr("id");
-       	$("#" + productid + "_ql").hide();		
-      }
-    );	
-	
-	$(".quicklook").hover(
-      function () {
-        
-		
-		$(this).show();	
-		
-	
-      }, 
-      function () {
-       		$(this).hide();	
-			
+	<script type="text/javascript" src="/tgc/scripts/js/tgcmaster.js"></script>
 
-      }
-    );
-	}
-		$(document).ready(function(){
-			$.ajaxSetup ({ 
-            cache: false 
-		   });  
-		 
-		var ajax_load = "<img src='/tgc/media/_img/progress.gif' alt='loading...' />";
-
-		
-		 $(".quicklook").live('click', function() {
-			var intcourseid = $(this).attr("name");
-			 var loadUrl = "/tgc/dialogs/Course_QuickLook.aspx?cid=" + intcourseid ;
-			 $("a#click").click(function() { return false; });
-			 $("#CourseQuickLook_scroll" ).html(ajax_load).load(loadUrl + " #QuickLook_Content");
-			$("#CourseQuickLook_scroll").toggle();
-			$("#CourseQuickLook_" + intcourseid).html(ajax_load).load(loadUrl + " #QuickLook_Content");
-			$("#CourseQuickLook_" + intcourseid).toggle();
-			$("#content").css("z-index",15);	
-			$("#header").css("z-index",15);		
-			$(".thumbnail").css("z-index",-1);
-			
-			});	
-		
-			TGC_Quicklook()
-					
-				$('#btnGreatCourses').click(function(){
-					$('#dialogGreatCourses').dialog('open');
-					var loadUrl = "/tgc/dialogs/Masterpage_AboutGreatCourses.htm";		
-					$("#dialogGreatCourses" ).html(ajax_load).load(loadUrl);
-				});
-				
-			$('#dialogGreatCourses').dialog({
-					autoOpen: false,
-					width: 600, modal:true
-				});
-				
-			$('#btnSales').click(function(){
-					$('#dialogSales').dialog('open');
-					 var loadUrl = "/tgc/dialogs/Masterpage_OurSales.htm";		
-					$("#dialogSales" ).html(ajax_load).load(loadUrl);
-				});
-				
-			$('#dialogSales').dialog({
-					autoOpen: false,
-					width: 600, modal:true
-				});
-				
-			$('#btnGuarantee').click(function(){
-					$('#dialogGuarantee').dialog('open');
-					 var loadUrl = "/tgc/dialogs/Masterpage_Guarantee.htm";		
-					$("#dialogGuarantee" ).html(ajax_load).load(loadUrl);
-				});
-				
-			$('#dialogGuarantee').dialog({
-					autoOpen: false,
-					width: 600, modal:true
-				});
-				
-			$('#btnTestimonials').click(function(){
-					$('#dialogTestimonials').dialog('open');
-					 var loadUrl = "/tgc/dialogs/Masterpage_Testimonials.htm";		
-					$("#dialogTestimonials" ).html(ajax_load).load(loadUrl);
-				});
-				
-			$('#dialogTestimonials').dialog({
-					autoOpen: false,
-					width: 600, modal:true
-				});
-				
-				$('#btnnewsletter_privacy').click(function(){
-					$('#dialognewsletter_privacy').dialog('open');
-					 var loadUrl = "/tgc/dialogs/Masterpage_Privacy.htm";		
-					$("#dialognewsletter_privacy").html(ajax_load).load(loadUrl);
-				});
-				
-			$('#dialognewsletter_privacy').dialog({
-					autoOpen: false,
-					width: 600, modal:true
-				});
-				
-			$('#dialogSecure').dialog({
-					autoOpen: false,
-					width: 600, modal:true
-				});
-				
-				$('#btnSecure').click(function(){
-					$('#dialogSecure').dialog('open');
-					return false;
-				});
-				
-			$('#dialogCompanyStore').dialog({
-					autoOpen: false,
-					width: 600,modal: true
-				});
-				
-				$('#btnCompanyStore').click(function(){
-					$('#dialogCompanyStore').dialog('open');
-					 var loadUrl = "/tgc/dialogs/Company_Store.htm";		
-					$("#dialogCompanyStore" ).html(ajax_load).load(loadUrl);
-					
-				});
-				
-			$('#dialogGreatCourses').dialog({
-					autoOpen: false,
-					width: 600,modal: true
-				});
-				
-				$('#btnGreatCourses').click(function(){
-					$('#dialogGreatCourses').dialog('open');
-					 var loadUrl = "/tgc/dialogs/great_courses.htm";		
-					$("#dialogGreatCourses" ).html(ajax_load).load(loadUrl);
-					
-				});
-			
-			$('#dialogAdventure').dialog({
-					autoOpen: false,
-					width: 600,modal: true
-				});
-				
-				$('#btnAdventure').click(function(){
-					$('#dialogAdventure').dialog('open');
-					 var loadUrl = "/tgc/dialogs/Adventure.htm";		
-					$("#dialogAdventure" ).html(ajax_load).load(loadUrl);
-					
-				});
-			
-			$('#dialogGuaranteeSpaceAd').dialog({
-					autoOpen: false,
-					width: 600,modal: true
-				});
-				
-				$('#btnGuaranteeSpaceAd').click(function(){
-					$('#dialogGuaranteeSpaceAd').dialog('open');
-					 var loadUrl = "/tgc/dialogs/Guarantee.htm";		
-					$("#dialogGuaranteeSpaceAd" ).html(ajax_load).load(loadUrl);
-					
-				});
-		$('#dialogGreatValue').dialog({
-					autoOpen: false,
-					width: 600,modal: true
-				});
-				
-				$('#btnGreatValue').click(function(){
-					$('#dialogGreatValue').dialog('open');
-					 var loadUrl = "/tgc/dialogs/great_value.htm";		
-					$("#dialogGreatValue" ).html(ajax_load).load(loadUrl);
-					
-				});
-		$('#dialogGreatProfessorsSpace').dialog({
-					autoOpen: false,
-					width: 600,modal: true
-				});
-				
-				$('#btnGreatProfessorsSpace').click(function(){
-					$('#dialogGreatProfessorsSpace').dialog('open');
-					 var loadUrl = "/tgc/dialogs/great_professors.htm";		
-					$("#dialogGreatProfessorsSpace" ).html(ajax_load).load(loadUrl);
-					
-				});
-				
-			$('#dialogOfferDetails').dialog({
-					autoOpen: false,
-					width: 600,modal: true
-				});
-				
-				$('#btnOfferDetails').click(function(){
-					$('#dialogOfferDetails').dialog('open');
-					var offerday = $(this).attr("name");
-					 var loadUrl = "/tgc/dialogs/OfferDetails" + offerday + ".htm";		
-					$("#dialogOfferDetails" ).html(ajax_load).load(loadUrl);
-					
-				});
-		function SetCookie(cookieName,cookieValue,nDays) {
-		 var today = new Date();
-		 var expire = new Date();
-		 if (nDays==null || nDays==0) nDays=1;
-		 expire.setTime(today.getTime() + 3600000*24*nDays);
-		 document.cookie = cookieName+"="+escape(cookieValue)
-						 + ";expires="+expire.toGMTString();
-		}
-		
-		function GetCookie (name) {
-			  var arg = name + "=";
-			  var alen = arg.length;
-			  var clen = document.cookie.length;
-			  var i = 0;
-			  while (i < clen) {
-				var j = i + alen;
-				if (document.cookie.substring(i, j) == arg) {
-				  return getCookieVal (j);
-				  }
-				i = document.cookie.indexOf(" ", i) + 1;
-				if (i == 0) break; 
-				}
-			  return null;
-			  }
-			  
-		function getCookieVal (offset) {
-		  var endstr = document.cookie.indexOf (";", offset);
-		  if (endstr == -1) { endstr = document.cookie.length; }
-		  return unescape(document.cookie.substring(offset, endstr));
-		  }
-
-		$("#lnkRecentlyview").hover(function() {
-			  $("#RecentlyViewedShow").addClass("on");
-			  $("#MainNav_Filler").css("z-index",-1);
-			  $("#main_nav").css("z-index",-1);
-			  $(".Above-Search_").css("z-index",-1);
-			   $(".Below-Search_").css("z-index",-1);
-			    $("#main_search").css("z-index",-1);
-			}, function() {
-			  $("#RecentlyViewedShow").removeClass("on");
-			   $("#MainNav_Filler").css("z-index",0);
-			   $("#main_nav").css("z-index",0);
-			   $(".Above-Search_").css("z-index",0);
-			   $(".Below-Search_").css("z-index",0);
-			    $("#main_search").css("z-index",0);
-			});
-			
-		$("#RV_div").hover(function() {
-			  $("#RecentlyViewedShow").addClass("on");
-			 
-			   $("#MainNav_Filler").css("z-index",-1);
-			  $("#main_nav").css("z-index",-1);
-			  $(".Above-Search_").css("z-index",-1);
-			   $(".Below-Search_").css("z-index",-1);
-			    $("#main_search").css("z-index",-1);
-				
-			}, function() {
-			  $("#RecentlyViewedShow").removeClass("on");
-			   $("#MainNav_Filler").css("z-index",0);
-			   $("#main_nav").css("z-index",0);
-			   $(".Above-Search_").css("z-index",0);
-			   $(".Below-Search_").css("z-index",0);
-			    $("#main_search").css("z-index",0);
-			});
-
-		 $.urlParam = function(name) {
-            var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
-            if (!results) { return 0; }
-            return results[1] || 0;
-        }
-
-        
-		var SubjectareaID = $.urlParam("ps");
-
-		var SubCatagorySubjectareaID = $.urlParam("s");
-
-        $("#" + SubjectareaID + "_subcat").removeClass("navSubcat");
-		$("#" + SubjectareaID + "_navLink").addClass("on");
-		
-		
-		
-		if (SubCatagorySubjectareaID.length == 3)
-		  {
-			$("#" + SubCatagorySubjectareaID + "_navLink").addClass("on");
-			$("#" + SubjectareaID + "_navLink").removeClass("on");
-		  }
-		  
-		  if (SubCatagorySubjectareaID.length != 3 )
-		  {
-			$("#" + SubCatagorySubjectareaID + "_navLink").removeClass("on");
-			$("#" + SubjectareaID + "_navLink").addClass("on");
-		  }
-
-		  $("#DescriptionsToggle").click(function() { 
-		       $("#DescriptionsToggle").addClass("on");
-			   $("#ThumbnailsToggle").removeClass("on");
-			   $("#Thumbnail_view").hide();	
-			   $("#Description_view").show();	
-			   SetCookie("CourseView","Description",1);
-        });
-		
-		    $("#ThumbnailsToggle").click(function() { 
-		       $("#DescriptionsToggle").removeClass("on");
-			   $("#ThumbnailsToggle").addClass("on");
-			   $("#Thumbnail_view").show();
-			   $("#Description_view").hide();	
-			   SetCookie("CourseView","Thumbnail",1);
-        });
-		
-		 $("#DescriptionsToggleR").click(function() { 
-		       $("#DescriptionsToggleR").addClass("on");
-			   $("#ThumbnailsToggleR").removeClass("on");
-			   $("#Thumbnail_viewR").hide();	
-			   $("#Description_viewR").show();				 
-        });
-		
-		    $("#ThumbnailsToggleR").click(function() { 
-		       $("#DescriptionsToggleR").removeClass("on");
-			   $("#ThumbnailsToggleR").addClass("on");
-			   $("#Thumbnail_viewR").show();
-			   $("#Description_viewR").hide();	
-			  
-        });
-		  
-		
-		
-		if (GetCookie("CourseView") == "Thumbnail")
-		  {
-		  $("#DescriptionsToggle").removeClass("on");
-		  $("#ThumbnailsToggle").addClass("on");
-		  }
-		  else
-		  {
-		   $("#DescriptionsToggle").addClass("on");
-		   $("#ThumbnailsToggle").removeClass("on");
-		  }
-
-		  $(".watermarkOn").focus(function() {
-             if ($(this).val() == this.defaultValue) {
-                 $(this).val("").addClass("text");				
-             }
-         });
-
-         $(".watermarkOn").blur(function() {
-             if ($.trim($(this).val()) == "") {
-                 $(this).val(this.defaultValue).addClass("watermarkOn");
-             }
-         });
-    
-		});
-   	</script>
 
     
-<meta name="DCSExt.split" content="T12_201011_1"><meta name="copyright" content="Copyright (c)2011 The Teaching Company, LLC, All rights reserved."><meta name="userid" content="C046A81E-1331-4D72-B6FD-C44340167EA9"><script src="https://web.archive.org/web/20111001091207/http://www.tide.com/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
+<meta name="DCSExt.split"><meta name="copyright" content="Copyright (c)2011 The Teaching Company, LLC, All rights reserved."><meta name="userid" content="2531F27F-D5BF-4987-9354-2B85D0DC46A3"><script src="https://web.archive.org/web/20111001091207/http://www.tide.com/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 <body>
     <form name="aspnetForm" method="post" action="/tgc/About Us/privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWDmYPDxYCHgRUZXh0ZWRkAgEPFgIeC18hSXRlbUNvdW50Av////8PZAIDDw8WAh4HVmlzaWJsZWhkZAIEDw8WAh8CaGRkAgYPDxYCHwJoZGQCBw8PFgIfAmhkZAIMDw9kDxAWAmYCARYCFgIeDlBhcmFtZXRlclZhbHVlZBYCHwNkFgICAwIDZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGGN0bDAwJG1haW5fc2VhcmNoX3N1Ym1pdAUaY3RsMDAkY291cnNlX3NlYXJjaF9zdWJtaXQFHGN0bDAwJGJ0bl9uZXdzX2xldHRlcl9zdWJtaXT0CfW6wbeYyWn9pCZQZn9nqMg5AA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIBD2QWDGYPDxYCHgRUZXh0ZWRkAgUPDxYCHgdWaXNpYmxlaGRkAgYPDxYCHwFoZGQCCA8PFgIfAWhkZAIJDw8WAh8BaGRkAg4PD2QPEBYCZgIBFgIWAh4OUGFyYW1ldGVyVmFsdWVkFgIfAmQWAgIDAgNkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUYY3RsMDAkbWFpbl9zZWFyY2hfc3VibWl0BRpjdGwwMCRjb3Vyc2Vfc2VhcmNoX3N1Ym1pdAUcY3RsMDAkYnRuX25ld3NfbGV0dGVyX3N1Ym1pdFr/HQ2BBwRlMLDMpOqGJRYgdXOs">
 
 
-<script src="/ScriptResource.axd?d=XqROIoTJLAk23FJEhXP19UI3eXiY5ShKgcCekfXyPsWqLa0TqQ8VkDBhBVhYLVvCGaRfXFGBHluA_C0dxLf9bFksifACIUEllGkul83yIqA1&amp;t=52f7aabe" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwLZ/u/eBwKy7e3IDQKH1u+/AQL8xciwDQK1nLncCgKPgdbJCwK+95HPBFzIpgBt+SFVgd3UZjL8gx6RtsBK">
+<script src="/ScriptResource.axd?d=ILJgt25BHrLP0u0EBUhTEcbZSVAvZis3SKxVNLQOFcBITtOIT8qP94epQifNNm3eieZIfb45Yz2Unlj7-8I9x4GxKbfvr8BUDVz2f_YG2o01&amp;t=724bc80a" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwK+rPeAAwKy7e3IDQKH1u+/AQL8xciwDQK1nLncCgKPgdbJCwK+95HPBBgvEX3IghJgkmjMy7eG0WQQ3516">
 	
     <div id="wrapper">
 	<div id="header">
-		<a href="/greatcourses.aspx" id="logo"><img src="https://secureimages.teach12.com/tgc/media/_img/logo_the_great_courses.gif" alt="The Great Courses"></a>
-		<ul id="utility_nav">
+		<a href="/greatcourses.aspx" id="logo"><img src="http://secureimages.teach12.com/tgc/media/_img/logo_the_great_courses.gif" alt="The Great Courses"></a>
+		<ul class="utility_nav">
 			<li class="phone">1-800-832-2412</li>
 			<li><a href="/tgc/about us/help.aspx">Help &amp; Customer Service</a></li>
 			<li><a href="/tgc/about us/home.aspx">About Us</a></li>
-
-			<li class="account"><a href="/tgc/checkout/basket.aspx">Shopping Cart<span id="ctl00_lblBasketItemCount"><b></b></span></a></li>              
+        </ul>
+        <ul class="utility_nav">
+			<li class="account"><a href="/tgc/checkout/basket.aspx" class="utNavCartLink">Shopping Cart<span id="ctl00_lblBasketItemCount"><b></b></span></a></li>              
 			
 			<li id="RecentlyViewedShow" class="account"><a id="lnkRecentlyview" href="#">Recently Viewed</a>
 							<div id="RV_div" class="popup" style="margin-top:-3px;">
@@ -417,11 +46,13 @@ _marinTrack.trackPage();
 				</div>
 
 			</li>
-			<li id="SignOut" class="account"><a href="/tgc/accounts/home.aspx">My Account</a></li>
-			<li id="AccountLink" class="account"></li>			
+			
+			<li id="" class="account"><a href="/tgc/accounts/home.aspx">My Account</a></li>
+			<li id="AccountLinkNoDownload" class="account"></li>		
+            	
 		</ul>
 			
-		<div id="MainNav_Filler" style="z-index: 0;position:absolute;bottom:12px; background-image: url(https://secureimages.teach12.com/tgc/media/_img/Nav_Bar.gif); background-repeat:repeat-x;width:95%;height:48px;"></div>
+		<div id="MainNav_Filler" style="z-index: 0;position:absolute;bottom:12px; background-image: url(http://secureimages.teach12.com/tgc/media/_img/Nav_Bar.gif); background-repeat:repeat-x;width:95%;height:48px;"></div>
 		
 		<ul id="main_nav">
 		
@@ -429,17 +60,18 @@ _marinTrack.trackPage();
 			<li class="courses"><a id="CoursesNav" href="/tgc/courses/courses.aspx"><span>Courses</span></a></li>
 			<li class="professors"><a id="ProfessorsNav" href="/tgc/professors/professors.aspx"><span>Professors</span></a></li>
 			<li class="wheretostart"><a id="RecommendationsNav" href="/tgc/courses/recommendations.aspx"><span>Recommendations</span></a></li>
-		
+            
+            
 		</ul>
 		<div class="Nav-Bar_" style="width:40%;">
 		</div>
 		
 		
 		<div class="Above-Search_">
-		<img id="Above_Search" src="https://secureimages.teach12.com/tgc/media/_img/Above_Search.jpg" width="220" height="13" alt="">
+		<img id="Above_Search" src="http://secureimages.teach12.com/tgc/media/_img/Above_Search.jpg" width="220" height="13" alt="">
 	</div>
 	<div class="Nav-Right_">
-		<img id="Nav_Right" src="https://secureimages.teach12.com/tgc/media/_img/Nav_Right.jpg" width="17" height="48" alt="">
+		<img id="Nav_Right" src="http://secureimages.teach12.com/tgc/media/_img/Nav_Right.jpg" width="17" height="48" alt="">
 	</div>
 	<div id="ctl00_primary_search">
 	
@@ -453,7 +85,7 @@ _marinTrack.trackPage();
 		
 </div>
 	<div class="Below-Search_">
-		<img id="Below_Search" src="https://secureimages.teach12.com/tgc/media/_img/Below_Search.jpg" width="220" height="14" alt="">
+		<img id="Below_Search" src="http://secureimages.teach12.com/tgc/media/_img/Below_Search.jpg" width="220" height="14" alt="">
 	</div>
 		<div id="recently_viewed" class="recent_view">
  
@@ -476,7 +108,12 @@ _marinTrack.trackPage();
 					<li><a href="/tgc/courses/Courses.aspx?ps=915">New Releases</a></li>
 					<li><a href="/tgc/courses/Courses.aspx?ps=914">Best Sellers</a></li>
 					<li><a href="/tgc/courses/Courses.aspx?ps=916">Special Set Offers</a></li>					
-					<li><a href="/tgc/courses/Recommendations.aspx">Recommendations</a></li>
+					
+
+					<li><a href="/tgc/courses/complete_course_listing.aspx">Complete A-Z Listing</a></li>
+					<li class="special"><a href="/tgc/courses/Courses.aspx?ps=922">Courses Under $40</a></li>						
+					
+			
 					
 				</ul>
 			</div><!-- .links -->
@@ -508,7 +145,7 @@ _marinTrack.trackPage();
 							<li class="his"><a id="845_navLink" href="/tgc/courses/courses.aspx?s=845&amp;ps=918">Renaissance &amp; Early Modern</a></li>				
 							<li class="his"><a id="850_navLink" href="/tgc/courses/courses.aspx?s=850&amp;ps=918">Civilization &amp; Culture</a></li>
 							
-							<li class="his"><a id="829_navLink" href="/tgc/courses/courses.aspx?s=852&amp;ps=918">Special Sets</a></li>
+							<li class="his"><a id="852_navLink" href="/tgc/courses/courses.aspx?s=852&amp;ps=918">Special Sets</a></li>
 							</ul>
 						</div>
 					<li class="art"><a id="904_navLink" href="/tgc/courses/CoursesByCategory.aspx?ps=904">Fine Arts &amp; Music</a></li>
@@ -525,7 +162,7 @@ _marinTrack.trackPage();
 							<li class="rel"><a id="817_navLink" href="/tgc/courses/courses.aspx?s=817&amp;ps=909">Christianity</a></li>
 							<li class="rel"><a id="818_navLink" href="/tgc/courses/courses.aspx?s=818&amp;ps=909">Judaism</a></li>
 							<li class="rel"><a id="819_navLink" href="/tgc/courses/courses.aspx?s=819&amp;ps=909">General</a></li>
-							<li class="rel"><a id="801_navLink" href="/tgc/courses/courses.aspx?s=832&amp;ps=909">Special Sets</a></li>
+							<li class="rel"><a id="832_navLink" href="/tgc/courses/courses.aspx?s=832&amp;ps=909">Special Sets</a></li>
 							</ul>
 						</div>
 					<li class="phi"><a id="907_navLink" href="/tgc/courses/CoursesByCategory.aspx?ps=907">Philosophy &amp; Intellectual History</a></li>
@@ -552,7 +189,7 @@ _marinTrack.trackPage();
 					<li class="liv"><a id="927_navLink" href="/tgc/courses/Courses.aspx?ps=927">Better Living</a></li>
 					<li class="pro"><a id="926_navLink" href="/tgc/courses/Courses.aspx?ps=926">Professional</a></li>
 					<li class="hsl"><a id="902_navLink" href="/tgc/courses/Courses.aspx?ps=902">High School</a></li>
-					<li class="all"><a href="/tgc/courses/Courses.aspx">View All Courses</a></li>
+					
 				</ul>
 			</div><!-- .categories -->
 			
@@ -581,13 +218,13 @@ _marinTrack.trackPage();
 				</h3>
 				
 				<ul>
-					<li><a style="cursor:pointer;" id="btnGreatCourses">What are The Great Courses?</a></li>					
+					<li><a style="cursor:pointer;" id="btnGreatCourses" title="What Are The Great Courses?">What Are The Great Courses?</a></li>					
 					<li><a style="cursor:pointer;" id="btnSales">About Our Sales</a></li>
 					<li><a style="cursor:pointer;" id="btnGuarantee">Lifetime Guarantee</a></li>
 					<li><a href="/tgc/courses/recommendations.aspx">Recommendations</a></li>					
 				</ul>				
 			</div><!-- .learn -->
-			<div id="dialogGreatCourses" title="What are The Great Courses">				
+			<div id="dialogWhatGreatCourses" title="What are The Great Courses?">				
 				
 				</div>	
 			<div id="dialogSales" title="About Our Sales">				
@@ -598,9 +235,8 @@ _marinTrack.trackPage();
 				</div>
          
 			
-</div>
 			<div class="quote">
-			<blockquote>"One could devote a lifetime to the lectures from [The Great Courses], and it would be a life well spent."</blockquote><p>—<em>AudioFile Magazine</em></p>
+			<blockquote>"A serious force in American education."</blockquote><p>—<em>The Wall Street Journal</em></p>
 				<br>
 					<a style="cursor:pointer;" id="btnTestimonials">More Testimonials</a>
 				<p></p>
@@ -609,11 +245,13 @@ _marinTrack.trackPage();
 			
 
 			</div> 
+			
+</div>
 			<div id="ctl00_Panel_EmailSignUp">
 	
 			<div class="form newsletter">
 				<h3>Newsletter Sign-Up</h3>
-				<p>Be notified of special promotions and new releases <a id="btnnewsletter_privacy" href="javascript:openHeaderLink('/tgc/dialogs/privacyinfo.htm',410,535,1)" style="font-size:8pt;ursor:pointer;">(privacy policy)</a></p>
+				<p>Be notified of special promotions and new releases <a id="btnnewsletter_privacy" style="font-size:8pt;cursor:pointer;">(privacy policy)</a></p>
 				<div id="Privacy_Dialog" style="display:none;"></div>
 				<label for="news_letter_email">Your email address</label>
 				<input name="ctl00$tbemail" type="text" value="Your email address" id="ctl00_tbemail" class="watermarkOn">
@@ -653,8 +291,8 @@ _marinTrack.trackPage();
 </ul>
 <br>
 <h2>How we protect your billing information</h2>
-<p>When you order from us online, we protect your information by using Secure Sockets Layer (SSL) protocol.  We are secured by VeriSign, the leading provider of SSL encryption keys. SSL encryption electronically masks any information you send us. With this state-of-the-art system, you can enter your credit card number and delivery and billing information safely. The encryption process protects the information by scrambling it before it is sent to us.</p>
-<p>You can verify our compliance at any time by clicking on the VeriSign logo located on our Shopping Cart page or any page in the checkout process. </p>
+<p>When you order from us online, we protect your information by using Secure Sockets Layer (SSL) protocol.  We are secured by Comodo, the leading provider of SSL encryption keys. SSL encryption electronically masks any information you send us. With this state-of-the-art system, you can enter your credit card number and delivery and billing information safely. The encryption process protects the information by scrambling it before it is sent to us.</p>
+<p>You can verify our compliance at any time by clicking on the Comodo logo located on our Shopping Cart page or any page in the checkout process. </p>
 <p>If you feel uncomfortable buying through our site, we'd be delighted to take your orders via: </p>
 
 <p><strong>Phone:</strong> 1-800-832-2412 </p><p>
@@ -704,12 +342,30 @@ Office hours: 9:00 a.m. to 12 midnight eastern time Monday through Friday; and 9
 			© This site and content copyright 2011. The Teaching Company, LLC. Site contents are also protected by<br>
 			other copyrights and trademarks. All rights reserved.
 		</p>
-		<table style="position:absolute; right: 160px;top: 40px;" width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+		
+		<table style="position:absolute; right: 160px;top: 40px;" width="135" border="0" cellpadding="2" cellspacing="0">
 <tbody><tr>
-<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.teach12.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
-<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+<td width="135" align="center" valign="top">
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+var tl_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" :
+"http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
+document.writeln('<scr' + 'ipt language="JavaScript" src="'+tl_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+//]]>
+</script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
+
+<!--
+TrustLogo Html Builder Code:
+Shows the logo at URL http://www.thegreatcourses.com.au/tgc/media/images/tl_white.gif
+Logo type is  ("SC4")
+undefined
+//-->
+<a href="http://www.instantssl.com" id="comodoTL">SSL</a>
+<script type="text/javascript">TrustLogo("https://secureimages.teach12.com/images/comodo_logo.gif", "SC4", "none");</script>
+</td>
 </tr>
 </tbody></table>
+
 		<div class="corner_left"></div><div class="corner_right"></div>
 	</div><!-- #footer -->
 </div> <!-- #wrapper -->
@@ -722,16 +378,13 @@ Sys.Application.initialize();
 </script>
 </form>
 <!-- BEGIN COREMETRICS -->
-
 <script language="javascript1.1" src="/coremetrics/v40/eluminate.js"></script>
-
 <script language="javascript1.1" src="/coremetrics/cmdatatagutils.js"></script>
-
 <script language="javascript1.1" src="/coremetrics/cmtaggingservices.js"></script>
 
 <!-- END COREMETRICS -->
 	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
-<script type="text/javascript">ForeSee.CPPS.fsr$set('UserID','C046A81E-1331-4D72-B6FD-C44340167EA9')</script>
+<script type="text/javascript">ForeSee.CPPS.fsr$set('UserID','2531F27F-D5BF-4987-9354-2B85D0DC46A3')</script>
   <script type="text/javascript">ForeSee.CPPS.fsr$set('SiteID','1')</script>
 
 
