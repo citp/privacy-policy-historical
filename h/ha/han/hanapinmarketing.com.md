@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hanapinmarketing.com privacy policy that was archived on 2009-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090712084749id_/http%3A//www.hanapinmarketing.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hanapinmarketing.com privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819064223id_/http%3A//www.hanapinmarketing.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Hanapin Marketing
+# Privacy Policy | Hanapin Marketing®
 
 This website defines the ways in which Hanapin Marketing uses and protects the information that you provide when using our website. By using this website you are accepting the practices described in this Privacy Policy. 
 
