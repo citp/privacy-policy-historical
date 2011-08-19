@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzcrunch.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620010043id_/http%3A//www.buzzcrunch.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzcrunch.net privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819193603id_/http%3A//www.buzzcrunch.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BuzzCrunch
 
