@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryobi.com.au privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619203601id_/http%3A//ryobi.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryobi.com.au privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819110348id_/http%3A//www.ryobi.com.au/privacy.aspx) for the most accurate reproduction.*
 
-# Ryobi - Privacy
+# Ryobi - RYOBI Tools
 
 Techtronic Industries Australasia Pty Ltd, Ryobi Power Tools (“we”, “us”, “our”, or “Ryobi”) created this Privacy Policy (“Privacy Policy”) in order to ensure the confidence of visitors and customers (“you” or “your”) of and to our website (the “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy. 
 
