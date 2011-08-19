@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619201658id_/http%3A//www.greekrank.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819112911id_/http%3A//www.greekrank.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Fraternity and Sorority Reviews, Ratings, & Rankings - GreekRank
 
@@ -21,4 +21,4 @@ We have relationships with other companies that we allow to place ads on this Si
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to this Site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at this Site periodically.
 
-If you have any questions, please [contact us](https://web.archive.org/web/20110619201658id_/http%3A//www.greekrank.com/contact.php). 
+If you have any questions, please [contact us](https://web.archive.org/web/20110819112911id_/http%3A//www.greekrank.com/contact.php). 
