@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the we.org privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723162251id_/http%3A//we.org/privacyPolicy.php%3FINC%3DYes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we.org privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819064733id_/http%3A//we.org/privacyPolicy.php%3FINC%3DYes) for the most accurate reproduction.*
 
 # We.org Privacy Policy
 
 Your privacy is very important to We.org. As part of the normal operation of our services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what can happen to that information. Although this Privacy Policy can be changed at any time, no information collected on the Site will be used by We.org for marketing purposes, nor will your information ever be sold or provided to a third party for marketing purposes.
 
-As described below, some of your personally identifiable information is disclosed to Site visitors () for use in the defined services of the Site.
+As described below, some of your personally identifiable information is disclosed to Site visitors for use in the defined services of the Site.
 
 **1\. INFORMATION WE COLLECT.**  
 If you are just visiting our Site, we collect and store only the following information about you:  
@@ -20,11 +20,11 @@ If you are a Seller, we will obtain the following additional information about y
 * Your Mobile Number, if you would like potential Buyers to contact you on your cell phone.  
 * The date your Account was created.  
 * The date your Account was last edited.  
-* Information about the , including the location (such as State, County, City, Zip).
+* Information about the item or service, including the location (such as State, County, City, Zip).
 
 **2\. HOW WE.ORG USES THE COLLECTED INFORMATION.**  
 The above collected information is used per the following:  
-* Your Contact E-Mail Address is used for either We.org or the to contact you. We.org will not add your information to any marketing lists, and will contact you only for administrative purposes (activity that occurs or should occur within either your Account or any of your Ads). In order to protect the integrity of your E-Mail Address, it is not published for Buyers or other Site Visitors to see. Instead, We.org provides a contact form for the Buyer to use to contact you. We.org does this so that SPAMMERS (people who collect e-mail addresses and send unsolicited e-mail) cannot use their automated systems to read your E-Mail Address from the We.org Site pages.  
+* Your Contact E-Mail Address is used for either We.org or the Site User to contact you regarding your products or services. We.org will not add your information to any marketing lists, and will contact you only for administrative purposes (activity that occurs or should occur within either your Account or any of your Ads). In order to protect the integrity of your E-Mail Address, it is not published for Buyers or other Site Visitors to see. Instead, We.org provides a contact form for the Buyer to use to contact you. We.org does this so that SPAMMERS (people who collect e-mail addresses and send unsolicited e-mail) cannot use their automated systems to read your E-Mail Address from the We.org Site pages.  
 * Any information collected for a Security Question and Response is used by the We.org Site only to determine your identity in order to provide you with your UserName and/or to create a new PassWord for you, should you ever lose your UserName and/or PassWord. We.org Administrators cannot determine your current PassWord, as it is encrypted before it is saved in the Site databases.  
 * If you provide either a Phone Number or a Mobile Phone Number, this information is published on your We.org Listing Ad detail page, as a means for Buyers to contact you. We.org will only use either of these numbers to contact you if the Administrator was not able to contact you by e-mail and your Account or Ad(s) requires your attention.  
 * The "Account Created" and "Account Last Edited" dates are for use by the We.org Site Administrator to help determine the Account's activity status, to avoid deleting an Account that is currently in use, and to acquire Seller use metrics.
