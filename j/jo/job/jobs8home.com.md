@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs8home.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620012745id_/http%3A//www.jobs8home.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs8home.com privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819090645id_/http%3A//www.jobs8home.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - ClassicIncome
 
