@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeroworktraffic.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620150301id_/http%3A//www.zeroworktraffic.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeroworktraffic.com privacy policy that was archived on 2011-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110820134022id_/http%3A//www.zeroworktraffic.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zero Work Traffic
 
