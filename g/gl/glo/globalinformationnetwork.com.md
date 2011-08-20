@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalinformationnetwork.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027183445id_/https%3A//www.globalinformationnetwork.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalinformationnetwork.com privacy policy that was archived on 2011-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110820092622id_/https%3A//www.globalinformationnetwork.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Global Information Network
 
