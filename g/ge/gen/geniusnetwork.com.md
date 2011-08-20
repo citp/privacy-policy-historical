@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniusnetwork.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516073738id_/http%3A//geniusnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusnetwork.com privacy policy that was archived on 2011-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110820101425id_/http%3A//geniusnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Genius Network
 
