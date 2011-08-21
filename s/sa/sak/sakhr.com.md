@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sakhr.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620180922id_/http%3A//international.sakhr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakhr.com privacy policy that was archived on 2011-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110821092352id_/http%3A//international.sakhr.com/privacy.html) for the most accurate reproduction.*
 
 # Sakhr Privacy
 
