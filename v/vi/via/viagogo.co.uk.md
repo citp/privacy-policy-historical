@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101093842id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2011-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110821114601id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
 
 # 
 
-You should be aware that in addition to the circumstances described above, viagogo may disclose your financial or personal information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of viagogo or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
-
-This policy is effective as of March 19, 2009. Any material changes in the way viagogo uses personal information will be described in future versions of this Privacy Statement. 
-
-You can always submit concerns regarding our Privacy Policy or our privacy practices via email by [clicking here](https://web.archive.org/ContactUs.aspx). Please reference the privacy policy in your subject line. viagogo will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. You can also write to us at: 
-
-**viagogo**  
-Attn: Privacy Team   
-160 Greentree Drive,   
-Suite 101,   
-Dover, Delaware,   
-County of Kent, 19904. 
-
-Thank you for using viagogo! 
-
 ## Privacy Policy
-
-Privacy Policy
 
 Your privacy is very important to us. We understand you want to remain in control of your personal information and that we must earn and retain your trust. viagogo has created this privacy statement to show our commitment to the privacy of any personal details that you provide us when using our web site. We can assure you that we keep your information confidential and do not sell or rent our customers' personal information to third parties. 
 
