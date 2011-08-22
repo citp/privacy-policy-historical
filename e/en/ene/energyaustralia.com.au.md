@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605025539id_/http%3A//www.energyaustralia.com.au/Common/About-EnergyAustralia/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822034049id_/http%3A//www.energyaustralia.com.au/Common/About-EnergyAustralia/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - EnergyAustralia
 
