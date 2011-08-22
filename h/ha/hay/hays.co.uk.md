@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604211108id_/http%3A//www.hays.co.uk/general-content/HAYS_006054) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822092349id_/http%3A//www.hays.co.uk/general-content/HAYS_006054) for the most accurate reproduction.*
 
-# Privacy Policy | UK jobs and recruitment | Hays - Recruiting experts worldwide
+# Privacy Policy | Hays - Recruiting experts worldwide
 
 ### What if I do not agree with this Privacy Policy?
 
@@ -94,4 +94,4 @@ Any changes to this Privacy Policy will be posted on this website so you are alw
 * * *
 
   
-© Hays Specialist Recruitment 2000 - 2010. All rights reserved.
+© Hays Specialist Recruitment 2000 - 2011. All rights reserved.
