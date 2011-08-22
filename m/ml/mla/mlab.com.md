@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlab.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513220049id_/http%3A//www.funmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlab.com privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822114853id_/http%3A//www.funmo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FunMo
 
