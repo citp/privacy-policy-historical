@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bengali-mp3.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422192430id_/http%3A//bengali-mp3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengali-mp3.com privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822150116id_/http%3A//bengali-mp3.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
-
-[](http://ads2.mojiva.com/redir/26c35b02-6d16-11e0-90d6-001ec9fd582d/0/18181)  
-[Cool People, Hot Fun](http://ads2.mojiva.com/redir/26c35b02-6d16-11e0-90d6-001ec9fd582d/0/18181)
 
 * * *
 
