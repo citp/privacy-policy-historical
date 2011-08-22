@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgroup.ca privacy policy that was archived on 2008-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081029150534id_/http%3A//www.allgroup.ca/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgroup.ca privacy policy that was archived on 2011-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110823000348id_/http%3A//www.allgroup.ca/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # All Group | Privacy Policy
 
