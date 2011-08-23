@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-providers.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612152904id_/http%3A//www.free-providers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-providers.com privacy policy that was archived on 2011-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110823053224id_/http%3A//www.free-providers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Providers
 
