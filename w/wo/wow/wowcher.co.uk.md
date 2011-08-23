@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622001148id_/http%3A//www.wowcher.co.uk/static/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2011-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110823021339id_/http%3A//www.wowcher.co.uk/static/privacy-policy.php) for the most accurate reproduction.*
 
-# Delicious gourmet Indian meal for two delivered to your door from Ask Away, Shepherds Bush for only £14 (worth £35.65) - Wowcher Deal Of The Day for London
+# £29 instead of £65 for a full day guided vintage bike tour of Hampton Court Palace including bike hire, palace entrance and rail fare - save 55% - Wowcher Deal Of The Day for London
 
 ## Privacy Policy
 
