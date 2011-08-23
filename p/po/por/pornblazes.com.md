@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornblazes.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513081025id_/http%3A//www.pornblazes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornblazes.com privacy policy that was archived on 2011-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110823093202id_/http%3A//www.pornblazes.com/privacy) for the most accurate reproduction.*
 
 # privacy policy - PornBlazes - The internet is for porn :)
 
