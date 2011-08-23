@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneriot.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612233114id_/http%3A//www.oneriot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneriot.com privacy policy that was archived on 2011-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110823173142id_/http%3A//www.oneriot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OneRiot
 
