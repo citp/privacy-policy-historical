@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleshmarticle.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209020910id_/http%3A//www.articleshmarticle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleshmarticle.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824222321id_/http%3A//www.articleshmarticle.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleshmArticle.com | Privacy Statement
 
