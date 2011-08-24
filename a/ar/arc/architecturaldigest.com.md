@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222022947id_/http%3A//www.architecturaldigest.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825002618id_/http%3A//www.architecturaldigest.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: architecturaldigest.com
 
