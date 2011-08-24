@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scifiscoop.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306163616id_/http%3A//www.scifiscoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scifiscoop.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824222515id_/http%3A//www.scifiscoop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sci Fi Scoop
 
