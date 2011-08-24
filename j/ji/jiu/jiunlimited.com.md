@@ -1,79 +1,97 @@
-> *The following text is extracted and transformed from the jiunlimited.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201042843id_/http%3A//www.jiunlimited.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiunlimited.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824074144id_/http%3A//www.thinkstockphotos.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
-# Stock Photos, Royalty Free Images and Stock Photography - Jupiterimages Unlimited
+# Thinkstock Privacy Policy | Royalty-Free Images Subscriptions
 
-**Jupitermedia Corporation Privacy Policy**
+#### THINKSTOCK PRIVACY POLICY
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the JUPM Network. The "JUPM Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by Jupitermedia Corporation and each of its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Bananastock Ltd., Cover Imagen Y Publicaciones S.L., HAAP Media Services and Consulting, LLC, Hemera Technologies Inc., IFA Bilderteam GmbH, IT Stock International Ltd., Jupiterimages (UK) Ltd., Jupiterimages France SAS, Jupiterimages GmbH, Jupiterimages Pty Ltd., and Workbook Inc., as linked directly or indirectly from the Jupitermedia.com (collectively the ìSiteî) home page (collectively hereafter "JUPM"). By accessing the JUPM Network, you are consenting to the information collection and use practices described in this Privacy Policy.
+Last updated: January 2010
 
-We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:
+Thinkstock is committed to protecting your privacy. This privacy policy tells you about our online collection and use of data. The terms of this policy apply to all Thinkstock websites, unless different terms are specified in a form or contract provided to you online or offline.
 
-**What information are you collecting and how are you collecting it?**
+By using this site, you understand and agree to the terms of this policy. This site is owned by Thinkstock, a division of Getty Images, and may be accessed in the United States and abroad. For data protection purposes, Thinkstock is the controller and, unless otherwise noted, is also the processor of data. Information collected may be retained, and may be stored, processed, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction.
 
-**Do you collect IP addresses?**  
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
+Collection of Your Personal Information
 
-**What are cookies?**  
-From time to time, JUPM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
+When you visit this site, certain kinds of information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site’s operation. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. 
 
-**How do you use single-pixel gifs?**  
-JUPM, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. JUPM does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer. JUPM also uses various third party providers (including Revenue Science, Inc.) to track and analyze non-personally identifiable aggregate usage information from visitors to our websites in order to continuously improve the quality of our sites and services to you. To view Revenue Scienceís privacy policy, please see <http://www.revenuescience.com/privacy.asp>.
+We may combine your visit and navigational information with personal information that you provide. You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you. Personal information (e.g., your username and password, your name, your mailing address, email address, and phone number) is collected when you register. Additional personal information (e.g., your credit card number and billing address) is collected to process transactions or to provide you with products and services.
 
-**What personal information do you collect?**  
-Wherever JUPM collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information.
+Demographic information (e.g., your age, hobbies, income, gender, or interests) may also be collected and may be linked to your personal information.
 
-We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows). Participation in contests or other promotions on the JUPM Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes.
+Use of Your Personal Information
 
-If you are purchasing something on the JUPM Network, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission.
+Thinkstock collects and uses your personal information to operate and improve our sites, to process your transactions, to provide customer service, to perform research and analysis aimed at improving our products, services and technologies, and to display content that is customized to your interests and preferences. 
 
-JUPM also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties.
+We also use your personal information to communicate with you. We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations. We may also send you surveys or marketing communications to inform you of new products or services or other information that may be of interest. If you do not wish to receive marketing communications, you may adjust your "Personal Information Preferences" as described below or follow the "unsubscribe" instructions included within each email communication. Please keep in mind that, if you choose not to receive marketing communications, you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
 
-When you sign up for a JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with JUPM to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive.
+Personal information collected by Thinkstock may be stored and processed in the United States or any other country in which Thinkstock or its affiliates, subsidiaries, contractors or agents maintain facilities, and by using our sites or services, you consent to any such transfer of information outside of your country. Thinkstock abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. If you would like to exercise any of your data protection rights (including the right to have your personal information deleted), please contact us using the "Contact Information" below.
 
-When you sign up for a JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network.
+Sharing of Your Personal Information
 
-When you use co-branded services, or those provided by a third party, within the JUPM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies.
+Except as disclosed in this privacy policy, Thinkstock does not share your personal information with any outside parties. 
 
-We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from JUPM or third party companies.
+We may share your personal information within our corporate group, including with our subsidiaries, affiliated companies and divisions, all of whom may use your information for the purposes disclosed herein.
 
-**Will you disclose the information you collect to outside third parties?**  
-JUPM will disclose personal information and/or an IP address: 
+We may share your personal information with service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, to provide data storage, to host websites, to fulfill orders and shipments, to assist in direct marketing, to conduct audits, etc. Those companies will be permitted to obtain only the personal information they need to provide the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-  1. To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact;
-  2. When required by law or in the good-faith belief that such action is necessary to:
-    1. Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM;
-    2. Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties;
-    3. Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties;
-    4. Fulfill a user's order or request;
-  3. To process and fulfill your order or notify you of order status;
-  4. When we have your consent to share the information;
-  5. When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
+Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company. We will notify you of such an occurrence as described in the "Changes to This Privacy Policy" section below.
 
+We reserve the right to disclose your personal information if required to do so by law, or in the good-faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
 
+Accessing Your Personal Information
 
-We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.
+If you would like to review or revise information that you previously provided to us, you may access your information in the "My Account" section of the website. Your Account Executive can also assist you in making any changes, as well as in exercising your right to have your personal information deleted. If you need additional assistance, please contact us at [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20110824074144id_/http%3A//www.thinkstockphotos.com/Legal/__nbjmup;tbmftAuijoltupdl/dpn). You can expect a response from us within 10 calendar days. Please be advised that you cannot change your username without re-registering. 
 
-**What else should I know about my privacy when online?**  
-JUPM may use third-party advertising companies and advertising networks (including Revenue Science, Inc.) to serve ads to you based on information (not including your name, address, email address or telephone number) about your visits to our Web sites in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. For more information about Revenue Science, Inc. and targeted ads, please see <http://www.revenuescience.com/privacy.asp>. To opt out of the targeting program, please go to <http://www.networkadvertising.org/consumer/opt_out.asp>. Opting out does not mean that you will not receive online advertising.
+Personal Information Preferences
 
-The JUPM Network contains many hyperlinks to third party Web sites. The JUPM Network also contains advertisements of third parties. JUPM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. JUPM does not share any of the individual personal information you provide JUPM with the third parties to which JUPM links, except as stated elsewhere within this Privacy Policy, although JUPM may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy.
+Thinkstock respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing communications from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or by clicking "My account", and then clicking "Contact information" on the website; (2) contacting your Account Executive; or (3) sending an email to [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20110824074144id_/http%3A//www.thinkstockphotos.com/Legal/__nbjmup;tbmftAuijoltupdl/dpn). 
 
-If you use JUPM's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, JUPM advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums.
+If you choose not to receive marketing communications, please be advised that you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+Use of Cookies and Other Technologies
 
-Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information.
+Thinkstock uses "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard drive. Cookies contain information, including personal information that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, and your navigational and purchase history. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+Cookies offer you many conveniences. They allow us to identify registered users when they return to the site so that they can retrieve previous image search results, access Lightboxes and Clipbins and view their previous invoices. Cookies also save you time by eliminating the need to repeatedly enter the same information.
 
-**Business transfers**  
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or websites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes.
+In some cases, our third-party service providers may use cookies on our sites. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Thinkstock only, and does not cover the use of cookies by third parties.
 
-**Your Consent To This Agreement**  
-By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies.
 
-Please send any questions about JUPM's Privacy Policy to: [mailto:privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
+In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in promotional e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters. We do not use these images to collect personal information.
 
-Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html).
+Security of Your Personal Information
 
-(Revised March 28, 2007)
+The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information. For instance, when you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer (SSL) technology. No method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. 
+
+If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.
+
+Forums & Other Interactive Services
+
+Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20110824074144id_/http%3A//www.thinkstockphotos.com/Legal/__nbjmup;tbmftAuijoltupdl/dpn). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems. 
+
+Email Referrals
+
+If you choose to use our email referral services to tell a friend about our products or services (including images in your lightbox, promotional campaigns, new websites, job postings, etc.), we will ask you for your friend’s name and email address. We will use that information to send your friend a one-time email inviting him or her to visit the site and review the product or service you have selected. We may use a third-party provider to administer this function, but any such third party provider may only use the information submitted to facilitate this one-time email. Neither Thinkstock nor any third-party provider stores this information after the email is sent. 
+
+Children
+
+We do not intend to solicit or collect personal information from anyone under the age of 18. If you are under 18, you should not use or enter information on this site, including without limitation, any Interactive Areas of the site. 
+
+Links
+
+We may link to websites, including those of our third-party content providers, that have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of such linked sites, and encourage you to become acquainted with them prior to use. 
+
+DMA
+
+If you have questions or concerns regarding this privacy policy, you should first contact Thinkstock (using the Contact Information below). If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "[__tbgfibscpsAuif.enb/psh](https://web.archive.org/web/20110824074144id_/http%3A//www.thinkstockphotos.com/Legal/__nbjmup;tbgfibscpsAuif.enb/psh)", by mail at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410. 
+
+Changes to This Privacy Policy
+
+We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the "last updated" date at the top of the policy. If there are material changes to this statement or in how Thinkstock will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites. 
+
+Contact Information
+
+You can contact Thinkstock Sales by emailing [__tbmftAuijoltupdl/dpn](https://web.archive.org/web/20110824074144id_/http%3A//www.thinkstockphotos.com/Legal/__nbjmup;tbmftAuijoltupdl/dpn), or by phone at (206) 925-5000, or by postal mail at Thinkstock, Sales, 601 N. 34th Street, Seattle, WA 98103.
+
+© 2010 Thinkstock. All rights reserved.
