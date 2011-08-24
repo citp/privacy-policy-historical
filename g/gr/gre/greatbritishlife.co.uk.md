@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatbritishlife.co.uk privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210032737id_/http%3A//www.greatbritishlife.co.uk/smallprint/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbritishlife.co.uk privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824021307id_/http%3A//www.greatbritishlife.co.uk/smallprint/privacy) for the most accurate reproduction.*
 
-# Great British Life - Privacy policy
+# Privacy policy | Great British Life
 
 Privacy statement for Archant Group websites
 
