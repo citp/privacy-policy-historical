@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the migrationexpert.co.uk privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219172433id_/https%3A//www.migrationexpert.co.uk/visa/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationexpert.co.uk privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824064328id_/http%3A//www.migrationexpert.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy UK: UK Visa Services
+# Privacy Policy UK: United Kingdom Visa Services
 
 Migration Expert knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. 
 
@@ -81,23 +81,3 @@ Our Privacy Policy and the Terms & Conditions may change from time to time. Clie
 **Links**
 
 This web site contains links to other sites. Please be aware that we, Migration Expert, are not responsible for the accuracy or the privacy practices of other such sites. We encourage our clients to be aware that when they leave our site, they should read the privacy statements of each and every web site that collects identifiable personal information. This privacy statement applies solely to information collected on this web site.
-
-  
-|  |  [Email to a friend  ](https://web.archive.org/member/send_mail_to_friend.asp?refer=)  
----|---|---  
-  
-
-
-UKLATEST IMMIGRATION NEWS
-
-**[Further changes to the UK immigrations rules for April 2011](https://web.archive.org/visa/uk_immigration_news/2011/feb/0/343/further_changes_to_the_uk_immigrations_rules_for_april_2011)**  
-As part of a shake up of the immigration system, on the 23rd November 2011, the Home Secretary announced significant changes that would be enforced as part of the government’s pledge to cut migrant numbers. 
-
-**[71 job roles to be outlawed under UK Tier 2 Visa](https://web.archive.org/visa/uk_immigration_news/2011/feb/0/342/71_job_roles_to_be_outlawed_under_uk_tier_2_visa)**  
-The Migration Advisory Committee (MAC), the independent body which reports to the government on migration and labour issues, has recommended a new shorter list of occupations eligible under UK Tier 2 of the points-based. According to the recommendation, 71 shortage occupations are set to be removed from UK Tier 2 Visa. 
-
-**[UK closed Student Visa national consultation](https://web.archive.org/visa/uk_immigration_news/2011/feb/0/341/uk_closed_student_visa_national_consultation)**  
-The public consultation on the UK student visa system closed and responses are being considered carefully before final decision, according to UK Immigration Minister Damian Green in his speech to the think tank Reform last week. 
-
-  
-
