@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youngmoney.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815061723id_/http%3A//www.youngmoney.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngmoney.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824081512id_/http%3A//www.youngmoney.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-This website (”Company Website”) is operated by Young Money Media, LLC (”Company”) and this policy applies to all websites owned, operated, controlled and otherwise made available by Company, its affiliates and supported organizations (including, but not limited to, mirrored, co-branded and successor sites). Our office address is:
+This website (“Company Website”) is operated by Young Money Media, LLC (“Company”) and this policy applies to all websites owned, operated, controlled and otherwise made available by Company, its affiliates and supported organizations (including, but not limited to, mirrored, co-branded and successor sites). Our office address is:
 
 Young Money Media, LLC  
 10950 Gilroy Road  
@@ -13,7 +13,7 @@ We may be reached via [email](mailto:admin@youngmoney.com).
 
 Introduction
 
-Company respects the privacy and security of your personal information. The following privacy policy describes the information we collect, how we use it and what rights you have to it. By using this Company Website, you acknowledge and agree to the terms and conditions of this Website Privacy Policy Statement (”Privacy Policy”). If you do not agree to these terms and conditions, please do not use this Company Website.
+Company respects the privacy and security of your personal information. The following privacy policy describes the information we collect, how we use it and what rights you have to it. By using this Company Website, you acknowledge and agree to the terms and conditions of this Website Privacy Policy Statement (“Privacy Policy”). If you do not agree to these terms and conditions, please do not use this Company Website.
 
 We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Company Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Company Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.
 
