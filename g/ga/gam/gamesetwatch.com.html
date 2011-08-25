@@ -1,0 +1,498 @@
+<!--The following is the downloaded HTML source of the gamesetwatch.com privacy policy that was archived on 2011-08-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110826004812id_/http%3A//legal.us.ubm.com/privacy-notice-highlights) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>UBM - UBM LLC Privacy Notice Highlights</title>
+<base href="http://ubm.com">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="icon" href="/ubm/images/favicon.ico">
+<link rel="shortcut icon" href="/ubm/images/favicon.ico">
+<link href="http://www.unitedbusinessmedia.com/ubm/media/releases/?t=rss_press" rel="alternate" type="application/rss+xml" title="Press Releases">
+<link href="http://www.unitedbusinessmedia.com/ubm/ir/calendar/?t=rss_eventsnew" rel="alternate" type="application/rss+xml" title="Calendar">
+<link href="http://events.ubm.com/rss" rel="alternate" type="application/rss+xml" title="Upcoming UBM Events">
+<link href="http://events.ubm.com/ubm/css/global_sept9.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://events.ubm.com/ubm/css/topnav.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://events.ubm.com/ubm/css/main.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://events.ubm.com/ubm/css/inlinenav.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://events.ubm.com/ubm/css/print2.css" rel="stylesheet" type="text/css" media="print">
+
+
+<script language="javascript" type="text/javascript">
+// online form validation function
+function checkForm(form)
+{
+if (document.contactForm.annrep.checked == false && document.contactForm.intrep.checked == false &&	document.contactForm.annintrep.checked == false &&	document.getElementById("annintrep3").checked == false && document.getElementById("annintrep2").checked == false &&	document.contactForm.mailinglist.checked == false)
+ {
+      alert ('Select atleast one report');		
+      return false;		
+ }	
+
+    intro = 'Please provide the following information:\n\n';
+    msg = '';
+    regex = /^.+\@(\[?)[a-zA-Z0-9\-\.]+\.([a-zA-Z]{2,3}|[0-9]{1,3})(\]?)$/;
+    if(document.contactForm.surname.value==''){msg+='Surname\n';}
+    if(document.contactForm.address1.value==''){msg+='Address\n';}
+    if(document.contactForm.city.value==''){msg+='City\n';}
+    if(document.contactForm.county.value==''){msg+='County or State\n';}
+    if(document.contactForm.postzipcode.value==''){msg+='Post or Zip code\n';}
+    if(document.contactForm.country.value==''){msg+='Country\n';}
+    if(msg==''){return true}
+    else if (msg!= ''){alert(intro + '\n' + msg);return false;}
+}
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+
+
+<script src="http://events.ubm.com/ubm/js/common.js" language="javascript" type="text/javascript"></script>
+<script src="http://events.ubm.com/ubm/js/fontsize.js" language="javascript" type="text/javascript"></script>
+<!-- 	//document.getElementById("fontID").innerHTML = (int_fontSize + int_unitType); -->
+
+<script language="javascript">
+function ValidatePhase1()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer/entry/";
+				}			
+
+	}
+
+function ValidatePhase2()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+
+function ValidatePhase3()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer2/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer2/entry/";
+				}			
+
+	}
+
+function ValidatePhase4()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults2","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+
+function ValidatePhase5()
+{
+
+var form_field_country = document.getElementById("form_field_country").value;
+
+if((form_field_country=="CA")||(form_field_country=="AU")||(form_field_country=="US")||(form_field_country=="GB")||(form_field_country=="JP")||(form_field_country==""))
+	{
+					window.location.href="/ubm/disclaimer3/denied/"
+				}
+			else
+				{
+					window.location.href="/ubm/disclaimer3/entry/";
+				}			
+
+	}
+
+function ValidatePhase6()
+{
+if(Get_Cookie("URLReferal"))
+	{
+		var URLReferal=Get_Cookie("URLReferal");
+		Set_Cookie("ubmresults_rns","1","","/","","");
+		location.href=URLReferal;
+	}
+
+}
+
+
+
+function Set_Cookie( name, value, expires, path, domain, secure )
+{
+var today = new Date();
+today.setTime( today.getTime() );
+if ( expires )
+{
+expires = "";
+}
+var expires_date = "" ;
+
+document.cookie = name + "=" +escape( value ) +
+( ( expires ) ? ";expires=" + expires_date : "" ) +
+( ( path ) ? ";path=" + path : "" ) +
+( ( domain ) ? ";domain=" + domain : "" ) +
+( ( secure ) ? ";secure" : "" );
+}
+
+
+function Get_Cookie( check_name ) {
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f
+
+	for ( i = 0; i < a_all_cookies.length; i++ )
+	{
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		if ( cookie_name == check_name )
+		{
+			b_cookie_found = true;
+			if ( a_temp_cookie.length > 1 )
+			{
+				cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
+			}
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if ( !b_cookie_found )
+	{
+		return false;
+	}
+}
+
+
+function getQuerystring(key)
+{
+  key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regex = new RegExp("[\\?&]"+key+"=([^&#]*)");
+  var qs = regex.exec(window.location.href);
+  if(qs == null)
+    return false;
+  else
+    return qs[1];
+} 
+</script>
+
+
+
+
+</head>
+<body>
+<div id="access">
+
+  <a href="#maincontent" accesskey="M">Skip to main content [Access key M]</a><br>
+  <a href="/ubm/sitetools/sitemap/" accesskey="S">Jump to the site map [Access key S]</a><br>
+  <a href="#localnav" accesskey="L">Skip to the second level navigation [Access key L]</a><br>
+  <a href="#mainnav" accesskey="N">Return to main site navigation [Access key N]</a>
+</div>
+<div id="wrapper">
+<a name="top"></a><!-- start logo, toplinks and search field --> 
+  <div id="topBlock">     
+    <div id="logo"><a href="/ubm/"><img src="http://events.ubm.com/ubm/images/ubmlogos.gif" alt="UBM logo and link to home page" border="0"></a></div> 
+    <div id="searchArea"> 
+      
+
+<script type="text/javascript">
+
+var $j=jQuery.noConflict();
+var $q=jQuery.noConflict();
+$j(document).ready(function(){
+							$j("ul.topnavitemscontainer1 li").dropdown()
+							});
+$j.fn.dropdown=function(){
+	$j(this).hover(function(){$j("ul:first",this).css("visibility","visible")
+						},function(){
+	$j("ul:first",this).css("visibility","hidden")})};
+	
+	$q(document).ready(function(){$q("#group_websites").click(function(){
+				$q("#groupSitesContainer").slideToggle("fast")});$q("#groupSitesContainer").click(function(){$q("#groupSitesContainer").slideToggle("fast")})}
+									 );
+
+</script>
+
+<div id="rsstop"><a href="/ubm/sitetools/rssfeeds/"><img src="http://events.ubm.com/ubm/images/rss_newa.gif" alt="Link to the RSS feeds" border="0" align="right"></a></div>
+<div id="sitelinks">
+
+        <ul> 
+          <li class="links"><a href="/ubm/sitetools/alert/" class="last">Email Alerts</a></li> 
+          <li class="links"><a href="/en/about-ubm/bk-%20ubm-overview/contact-us.aspx" class="contactus">Contact Us</a></li> 
+          
+       <li class="links" id="group_websites"><a href="javascript:void(0);">UBM businesses</a></li>
+
+          <li class="linkhome"><a href="/">Home</a></li> 
+        </ul> 
+      </div> 
+      <div id="searchBlock"> 
+        <form action="/ubm/sitetools/search" method="get" name="freesearch"> 
+
+<input type="hidden" name="conf" value="htdig.ubm">
+          <div id="searchfield"> 
+            <input class="small" name="freesearch" type="text" value=" Search UBM site..." style="width:125px;" maxlength="50"> 
+          </div> 
+          <div id="searchbutton"> 
+            <input type="image" value="GO" src="http://events.ubm.com/ubm/images/searchbutton.jpg" class="searchbutton"> 
+          </div> 
+        </form> 
+      </div> 
+      
+      
+  <div class="groupSitesContainer" id="groupSitesContainer" style="display: none;">
+  <ul id="groupSitesgroup-sitesUL" class="groupSitesgroup-sitesUL">
+   
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmasia.com">UBM Asia</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmaviation.com">UBM Aviation</a></li>
+
+    
+<li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmbuiltenvironment">UBM Built Environment</a></li>
+ 
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmcanon.com">UBM Canon</a></li>   
+    <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmconferences">UBM Conferences</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmconnect">UBM Connect</a></li>
+
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmglobaltrade.com">UBM Global Trade</a></li>
+  
+      <li><a target="_blank" title="Opens in a new window" href="http://www.cmpi.biz/ubmlive">UBM Live</a></li>
+
+    
+  <li><a target="_blank" title="Opens in a new window" href="http://www.ubmmedica.com/">UBM Medica</a></li>
+  
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmstudios.com/">UBM Studios</a></li>
+    
+    <li><a target="_blank" title="Opens in a new window" href="http://www.ubmtechinsights.com/">UBM TechInsights</a></li>  
+     
+ <li><a target="_blank" title="Opens in a new window" href="http://www.ubmtechweb.com">UBM TechWeb</a></li>  
+ <li><a target="_blank" title="Opens in a new window" href="http://eetimesgroup.com/">EE Times Group</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.everythingchannel.com">Everything Channel</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.prnewswire.com">PR Newswire</a></li>    
+
+ <li><a target="_blank" title="Opens in a new window" href="http://www.risiinfo.com">RISI</a></li>       
+      
+  </ul>
+
+</div>    
+
+
+<style type="text/css">
+
+.groupSitesContainer {
+background:#FFFFFF none repeat scroll 0 0;
+border-left:1px solid #002878;
+border-right:1px solid #002878;
+border-bottom:1px solid #002878;
+border-top:0 none;
+left:0;
+position:absolute;
+top:30px;
+z-index:5000;
+z-order:4000;
+left:-138px;
+
+}
+
+.groupSitesContainer ul#groupSitesgroup-sitesUL {
+	border:0px solid #253370;
+    border-top:1px solid #253370;
+	background:#fff;
+	padding:0px;
+	margin:0px;
+	width:604px;
+}
+.groupSitesContainer ul#groupSitesgroup-sitesUL li {
+	background:0 none;
+    width:151px;
+    float:left;
+    font-weight:normal;
+	list-style:none;
+}
+.groupSitesContainer ul#groupSitesgroup-sitesUL li:hover {
+	color:#BAB5A9;
+}
+
+
+.groupSitesContainer ul#groupSitesgroup-sitesUL li a {
+	border-bottom:1px solid #E2D8AF;
+	color:#253370;
+	display:block;
+	margin:0 10px;
+	padding:5px 0;
+	font-size:10px;
+
+}
+
+.groupSitesContainer ul#groupSitesgroup-sitesUL li a:hover {
+	color:#BAB5A9;
+	}
+
+</style>
+    </div> 
+  </div> 
+  <!-- end logo, toplinks and search field --> 
+  <!-- start top navigation --> 
+  <a name="topnav"></a><div id="topnav"><noindex>
+    <ul> 
+      <li id="nav1a"><a href="/en/about-ubm.aspx">About Us</a></li>
+      <li><a href="/en/ubm-businesses.aspx">Our Businesses</a></li> 
+      <li><a href="http://investors.ubm.com/">Investor Relations</a></li> 
+      <li><a href="http://media.ubm.com/">Media Centre</a></li> 
+      <li><a href="http://sustainability.ubm.com/governance">Governance</a></li> 
+      <li><a href="/en/people/jobshop.aspx" class="last">Working at UBM</a></li> 
+    </ul> 
+
+</noindex></div> 
+  <!-- end top navigation --> 
+  <!-- start breadcrumb, print and font size icons --> 
+  <div id="breadcrumbBar"> 
+    <div id="breadcrumb"><span class="black">You are here:</span> 
+
+
+<a class="breadcrumb" href="/">Home</a> / UBM LLC Privacy Notice Highlights </div> 
+    <div id="icons"> 
+      <div id="print">
+	   <div id="printtext">Print</div> 
+        <div id="printicon"><a href="javascript:window.print();"><img src="http://events.ubm.com/ubm/images/print_icon.gif" alt="Print this page (requires JavaScript)" width="13" height="13" border="0"></a></div> 
+	  </div>  
+      <div id="fontsize"> 
+        <div id="fonttext">Font size</div> 
+        <div id="fonticons"><a href="#" onclick="setFontSize('-');return false;"><img src="http://events.ubm.com/ubm/images/font_minus.jpg" alt="Decrease the font size (requires JavaScript)" width="13" height="13" border="0"></a>&nbsp;<a href="#" onclick="setFontSize('+');return false;"><img src="http://events.ubm.com/ubm/images/font_plus.jpg" alt="Increase the font size (requires JavaScript)" width="13" height="13" border="0"></a></div> 
+      </div> 
+    </div> 
+  </div> 
+  <!-- end breadcrumb, print and font size icons --> 
+  <!-- start main --> 
+  <div id="main"> 
+    <div id="mainwrapper"> 
+      <!-- start left nav block --> 
+      <div id="leftnavBlock"> 
+        <div id="leftnavTitle">Site Contents</div> 
+         <div id="leftnav">
+
+<ul id="navlist">
+
+	<li class="nav2"><a href="http://legal.us.ubm.com/">Home</a></li>
+	<li class="nav2"><a href="http://legal.us.ubm.com/privacy-notice-highlights/">Privacy Notice Highlights</a></li>
+    <li class="nav2"><a href="http://legal.us.ubm.com/privacy-notice/">Privacy Notice</a></li>
+    <li class="nav2"><a href="http://legal.us.ubm.com/terms-of-service/">Terms of Service</a></li>
+    <li class="nav2"><a href="http://legal.us.ubm.com/copyright-notice/">Copyright Notice</a></li>
+    <li class="nav2" style="display:none;"><a href="http://legal.us.ubm.com/privacy-notice/#More_info">More info about Cookies</a></li>
+    <li class="nav2" style="display:none;"><a href="http://legal.us.ubm.com/privacy-notice/#Choices">Your Choices</a></li>
+		</ul>
+<br><br>
+         </div> 
+      </div> 
+      <!-- end left nav block --> 
+      <!-- start contentBlock --> 
+      <div id="contentBlock"> 
+        
+        <!-- start textBlock --> 
+
+<div id="textBlock"> 
+          <div id="header" style="padding-left:20px; padding-right:20px;">        <h1>UBM LLC Privacy Notice Highlights</h1>
+
+  <!-- title UBM LLC Privacy Notice Highlights -->
+  <p>Effective January 4th, 2009</p>
+  <h2>SCOPE</h2>
+  <p>This Privacy Notice Highlights and the full&nbsp;<a href="http://legal.us.ubm.com/privacy-notice/"><strong>UBM LLC&nbsp;Privacy Notice</strong></a>&nbsp;(together, simply the Notice) apply to our face-to-face events, print publications distributed within the United States and their digital versions, our online events, web sites, and web properties, our email newsletters and our participation in social media.</p>
+  <h2>PERSONAL INFORMATION</h2>
+  <ul>
+    <li>We collect information you give us directly.</li>
+    <li>We may add information from other sources.</li>
+    <li>We use common Internet technologies such as cookies and web beacons on our websites and in our emails.</li>
+  </ul>
+  <h2>USES</h2>
+  <p>We use information about you&nbsp;</p>
+  <ul>
+    <li>to provide the products and services you request and to manage your account,</li>
+    <li>to provide you with content and information about other products and services that may be of interest to you, and</li>
+    <li>to allow you to connect directly with other companies and with colleagues.</li>
+  </ul>
+  <h2>YOUR CHOICES</h2>
+  <ul>
+    <li>To find out how to control&nbsp;whether or not to connect with other companies, opt out of our email marketing programs, or&nbsp;keep your account or subscription information up to date, please visit <a href="http://legal.us.ubm.com/privacy-notice/#Choices">Your Choices</a> in the full Notice.</li>
+    <li>To find out how to control&nbsp;the display of advertising or content based on your interests, please review <a href="http://legal.us.ubm.com/privacy-notice/#More_info">More Information About Cookies</a> in the full Notice.</li>
+  </ul>
+  <h2>IMPORTANT INFORMATION</h2>
+  <ul>
+    <li>We collect and process information on servers around the world.</li>
+    <li>We use reasonable security measures to protect information about you.</li>
+    <li>This Notice covers how we use information you provide to us. We cannot control how others may use information you may make public or choose to disclose online or at face-to-face events.</li>
+    <li>Our products, services, events and offerings are directed to professionals and not children thirteen or under.</li>
+    <li>We will post and date any changes to this Notice. Please check here periodically. Your continued use of our products and services covered by this Notice constitutes your acceptance of the terms in place at the time of your use.</li>
+  </ul>
+  <h2>HOW TO CONTACT US</h2>
+  <p>For more information about our privacy practices and how to contact us, please review the full <a href="http://legal.us.ubm.com/privacy-notice/"><strong>UBM LLC Privacy Notice</strong></a>.</p>
+  <p><br>
+    UBM LLC, 600 Community Drive, Manhasset NY, 11030.</p>
+
+
+
+</div> 
+        </div>
+
+<div id="buffer"><img src="/ubm/images/shim.gif" alt="" width="1" height="5" border="0"></div> 
+
+ 
+      </div> 
+      <!-- end contentBlock --> 
+    </div> 
+  </div> 
+  <!-- end main --> 
+  <!-- start footer --> 
+  <div id="footer"> 
+    <div id="footerLinks"> 
+      <ul> 
+		<li><a href="http://legal.us.ubm.com/privacy-notice/">Privacy Notice </a></li>
+        <li><a href="http://legal.us.ubm.com/terms-of-service/">Terms of Service</a></li>
+        <li><a href="http://legal.us.ubm.com/contact-us/">Contact Us</a>        
+        </li><li><a href="mailto:webmaster@ubm-us.com">WebMaster</a>        
+      </li></ul> 
+    </div> 
+ 
+  </div>
+
+ 
+  <!-- end footer --> 
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4596830-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+<!--  --></body></html>
