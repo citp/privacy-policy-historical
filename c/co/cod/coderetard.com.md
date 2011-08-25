@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coderetard.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115043523id_/http%3A//www.coderetard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderetard.com privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825093429id_/http%3A//www.coderetard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy § Code Retard
+# Code Retard: Anything Geeky Goes
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
