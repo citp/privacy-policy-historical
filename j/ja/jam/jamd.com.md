@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamd.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625174057id_/http%3A//jamd.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamd.com privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825151609id_/http%3A//jamd.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LIFE
 
