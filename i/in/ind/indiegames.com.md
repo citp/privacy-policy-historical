@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the indiegames.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222041541id_/http%3A//www.ubmtechnology.com/united-business-media-llc-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegames.com privacy policy that was archived on 2011-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110826004812id_/http%3A//legal.us.ubm.com/privacy-notice-highlights) for the most accurate reproduction.*
 
-# UBMTechnology.com » United Business Media LLC Privacy Notice Highlights
+# UBM - UBM LLC Privacy Notice Highlights
 
 Effective January 4th, 2009
 
 ## SCOPE
 
-This Privacy Notice Highlights and the full [ _ **United Business Media LLC  Privacy Notice**_](http://ubmtechnology.com/united-business-media-llc-privacy-notice/) (together, simply the Notice) apply to our face-to-face events, print publications distributed within the United States and their digital versions, our online events, web sites, and web properties, our email newsletters and our participation in social media.
+This Privacy Notice Highlights and the full [ **UBM LLC  Privacy Notice**](http://legal.us.ubm.com/privacy-notice/) (together, simply the Notice) apply to our face-to-face events, print publications distributed within the United States and their digital versions, our online events, web sites, and web properties, our email newsletters and our participation in social media.
 
 ## PERSONAL INFORMATION
 
@@ -28,8 +28,8 @@ We use information about you 
 
 ## YOUR CHOICES
 
-  * To find out how to control whether or not to connect with other companies, opt out of our email marketing programs, or keep your account or subscription information up to date, please visit [Your Choices](http://ubmtechnology.com/united-business-media-llc-privacy-notice/#Choices) in the full Notice.
-  * To find out how to control the display of advertising or content based on your interests, please review [More Information About Cookies](http://ubmtechnology.com/united-business-media-llc-privacy-notice/#More_info) in the full Notice.
+  * To find out how to control whether or not to connect with other companies, opt out of our email marketing programs, or keep your account or subscription information up to date, please visit [Your Choices](http://legal.us.ubm.com/privacy-notice/#Choices) in the full Notice.
+  * To find out how to control the display of advertising or content based on your interests, please review [More Information About Cookies](http://legal.us.ubm.com/privacy-notice/#More_info) in the full Notice.
 
 
 
@@ -45,7 +45,7 @@ We use information about you 
 
 ## HOW TO CONTACT US
 
-For more information about our privacy practices and how to contact us, please review the full [_**United Business Media LLC Privacy Notice**_](http://ubmtechnology.com/united-business-media-llc-privacy-notice/).
+For more information about our privacy practices and how to contact us, please review the full [**UBM LLC Privacy Notice**](http://legal.us.ubm.com/privacy-notice/).
 
   
-United Business Media LLC, 600 Community Drive, Manhasset NY, 11030.
+UBM LLC, 600 Community Drive, Manhasset NY, 11030.
