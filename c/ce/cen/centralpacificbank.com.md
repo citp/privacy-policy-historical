@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centralpacificbank.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430220008id_/https%3A//www.centralpacificbank.com/content/additional/privacypolicy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralpacificbank.com privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825172428id_/https%3A//www.centralpacificbank.com/content/additional/privacypolicy.shtm) for the most accurate reproduction.*
 
 # Central Pacific Bank - Privacy Policy
 
-[Printer-friendly](https://web.archive.org/web/20110430220008id_/https%3A//www.centralpacificbank.com/pdfs/privacypolicy.pdf)
+[Printer-friendly](https://web.archive.org/web/20110825172428id_/https%3A//www.centralpacificbank.com/pdfs/privacypolicy.pdf)
 
   
 FACTS | **WHAT DOES CENTRAL PACIFIC FINANCIAL CORPORATION DO WITH YOUR PERSONAL INFORMATION?**  
