@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestige-clicks.info privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625151251id_/http%3A//www.prestige-clicks.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestige-clicks.info privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825104837id_/http%3A//www.prestige-clicks.info/privacy) for the most accurate reproduction.*
 
 # Privacy | Point & Click
 
