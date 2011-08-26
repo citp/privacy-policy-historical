@@ -1,77 +1,74 @@
-> *The following text is extracted and transformed from the goforyourraise.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502010944id_/http%3A//www.goforyourraise.com/_legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goforyourraise.com privacy policy that was archived on 2011-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110827015723id_/http%3A//www.goforyourraise.com/privacy-policy) for the most accurate reproduction.*
 
-# How to ask for a raise | How to negotiate your salary
+# Privacy Policy | Go for Your Raise!
 
-**PRIVACY POLICY**
+### Business privacy policy – sample template
 
-This privacy policy applies to the use of goforyourraise.com. 
+This privacy policy sets out how goforyourraise.com uses and protects any information that you give goforyourraise.com when you use this website.
 
-We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site. 
+goforyourraise.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Log Files and Cookies 
+[business name] may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2010.
 
-This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends. 
+### What we collect
 
-Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site. 
+We may collect the following information:
 
-We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site. 
+  * name and job title
 
-We have no access to or administration abilities over any cookies that are used by any advertisers on our site. 
+  * contact information including email address
 
-Links to Other Websites 
+  * demographic information such as postcode, preferences and interests
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site. 
-
-Registration and Use of Personal Information 
-
-Registration is not required in order to use or access this website. 
-
-However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles. 
-
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent. 
-
-Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels. 
-
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at abuse@goforyourraise.com, by clicking on the 'unsubscribe' link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line. 
-
-Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent. 
-
-Access to Personally Identifiable Information 
-
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at questions@goforyourraise.com. 
-
-Security 
-
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore - as is the case with any organization - we are not in a position to guarantee the absolute security of your information. 
-
-You may submit any questions you may have about our security procedures by emailing us at questions@goforyourraise.com 
-
-Links to Other Websites 
-
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site. 
-
-Legal Disclaimer 
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website. 
-
-Contact Details 
-
-If you have any questions or concerns regarding this privacy policy, or you wish to contact us, please send an email to: 
-
-questions@goforyourraise.com or office@goforyourraise.com 
-
-or 
-
-Clarity Consulting SRL   
-str. Ion Budai Deleanu no. 64   
-400474 Cluj Napoca   
-Romania, European Union   
+  * other information relevant to customer surveys and/or offers
 
 
-This privacy policy was last updated on December 5, 2008. 
 
-* * *
 
-We take your privacy very seriously. You can read our entire [privacy policy](http://www.goforyourraise.com/_legal/privacy.php) here. 
+### What we do with the information we gather
 
-©2008-2009 Clarity Consulting, All Rights Reserved. By entering, you agree to the terms and conditions found [here](http://www.goforyourraise.com/_legal/privacy.php). By entering your email address you are also requesting and agreeing to subscribe to our free email newsletter. Click [here](http://www.goforyourraise.com/affiliateInfo.php) to read about our affiliate program. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+
+  * We may use the information to improve our products and services.
+
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@goforyourraise.com
+
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
