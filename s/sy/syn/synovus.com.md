@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527034452id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2011-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110826031353id_/https%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
 
 # Synovus
 
   
 |   
 ---  
-5/26/11 5:00 PM  
+8/25/11 5:00 PM  
 **Synovus**  
-SNV: | **$2.41** | \+ 0.05 | \+ 2.12%  
+SNV: | **$1.30** |  -0.06 |  -4.41%  
 Buy Synovus Stock  
   
 Rev. September 2010
