@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfrevenge.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516171254id_/http%3A//service.adultprovide.com/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfrevenge.com privacy policy that was archived on 2011-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110827013539id_/http%3A//service.adultprovide.com/docs/privacy.htm%3Fsite%3Ddickdorm) for the most accurate reproduction.*
 
 # RealityKings Privacy Policy
 
@@ -61,3 +61,7 @@ Changes in the Ownership of the Sites
 
 
 The Sites are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+
+* * *
+
+The RK Net Help support center is here to help you with any problems you may have from billing to technical issues or password recovery. We know that when it comes to [iPhone porn](http://mobile.bigtits.com/) and [mobile porn](http://mobile.madthumbs.com/), there can be streaming snags, but that's why the RK Net Help support center is here to make sure you have the smoothest and best [porn](http://www.madthumbs.com/) experience possible. We want you to get back to enjoying [boobs](http://www.bigtits.com/) as soon as possible, so let us handle all your problems, and you sit back and enjoy. 
