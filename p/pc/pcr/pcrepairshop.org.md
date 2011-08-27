@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcrepairshop.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624010301id_/http%3A//www.pcrepairshop.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrepairshop.org privacy policy that was archived on 2011-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110827030747id_/http%3A//www.pcrepairshop.org/privacy) for the most accurate reproduction.*
 
-# The PC Repair Shop - Computers, Laptops, Servers, Networking, and More!
+# The PC Repair Shop | Privacy Policy
 
 Your privacy is important to us. At The PC Repair Shop we have a few fundamental principles:
 
