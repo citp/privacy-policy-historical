@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the greenerideal.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628005048id_/http%3A//www.greenerideal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenerideal.com privacy policy that was archived on 2011-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110827195715id_/http%3A//www.greenerideal.com/privacy-policy) for the most accurate reproduction.*
 
 # Greener Ideal Privacy Policy | Greener Ideal
-
-* * *
 
 * * *
 
@@ -36,6 +34,5 @@ When Greener Ideal makes changes to this privacy policy we will post those chang
 **Contact Information**   
 If you have any questions regarding our privacy policy, please contact us.
 
-  
   
 
