@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcamp.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203062627id_/http%3A//www.allcamp.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcamp.com privacy policy that was archived on 2011-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110827200514id_/http%3A//www.allcamp.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Camping Directory
 
