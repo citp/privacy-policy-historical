@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleassault.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628224021id_/http%3A//articleassault.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleassault.com privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828133700id_/http%3A//articleassault.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Article Assault | Article Directory
 
