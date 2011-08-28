@@ -1,151 +1,276 @@
-<!--The following is the downloaded HTML source of the ujam.com privacy policy that was archived on 2010-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201042913id_/http%3A//www.ujam.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ujam.com privacy policy that was archived on 2011-08-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110828075839id_/http%3A//www.ujam.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script src="http://184.72.58.56/latencycheck.js?1582541732906"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="language" content="en">
+	
+	<meta property="og:type" content="website">
+<meta property="og:title" content="UJAM">
+<meta property="og:site_name" content="UJAM">
+<meta property="og:url" content="http://www.ujam.com">
+<meta property="og:description" content="UJAM empowers everybody to easily create new music and share it with friends, for free.">
+<meta property="og:image" content="http://www.ujam.com/images/slideshow_protagonists/02b.jpg">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript">
 /*<![CDATA[*/
 
-	var testing_mode = 0;
-	var debug_mode = 0;
-	var baseUrl = "";
-	var sct_ping_timeout = 3000;
-	var sct_ping_retries = 2;
-	var audioServers = [];
 	// deployment: live
-	audioServers.push("184.72.58.56");
-	audioServers.push("79.125.120.216");
 
+	var clientVars = {
+		baseUrl: "",
+		absBaseUrl: "http://www.ujam.com",
+		testingMode: false,
+		debugMode: false,
+		sctPingTimeout: 3000,
+		sctPingRetries: 2,
+		audioServers: new Array(),
+		revision: 9993,
+		protocol: "http",
+		userId: null,
+		fbAppId: "116964928372956",
+		fbUjamId: "120686501282429",
+		urls: {
+			song_my: "/song/my",
+			song_is_published: "/song/isPublished",
+			song_publish: "/song/publish",
+			song_unpublish: "/song/unpublish",
+			song_rate: "/song/rate",
+			song_Mp3Url: "/song/songUrl/hash",
+			song_privateMp3Url: "/song/privateSongUrl/id",
+			song_scExport: "/song/scExport",
+			song_deleteMy: "/song/deleteMy",
+			song_updateMy: "/song/updateMy",
+			song_songstoreFull: "/song/songstoreFull",
+			song_public: "/songs",
+			swf_hiddenplayer: "/flex/hiddenplayer.swf?9993",
+			swf_expressinstall: "/flex/expressinstall.swf?9993",
+			landing_after_fb_login: "http://www.ujam.com",
+			landing_after_fb_register: "/landingFbInit",
+			twitter_feeds: "http://api.twitter.com/1/statuses/user_timeline.json",
+			youtube_uploads: "http://gdata.youtube.com/feeds/api/playlists/0867CCAA7335DFFE",
+			facebook_posts: "https://graph.facebook.com/120686501282429/feed",
+			facebook_permalink: "http://www.facebook.com/permalink.php",
+			login_via_fb: "/fb/loginViaFb",
+			browserDeprecated: "/site/browserDeprecated",
+			quickEntrance: "/registration/quickEntrance"
+		},
+		ytplayer: {
+			ytplayer : null,
+			params : {
+				allowScriptAccess: "always",
+				allowFullScreen: "true",
+				wmode: "opaque"
+			},
+			atts : {
+				id: "ujamytplayer"
+			}
+
+		}
+	};
+
+	var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+
+			clientVars.audioServers['us'] = "184.72.58.56";
+			clientVars.audioServers['eu'] = "79.125.120.216";
+	
+	var logger = function()
+	{
+		return {
+			tryLogging : tryLogging
+		};
+
+		function tryLogging(message) {
+			if(clientVars.debugMode && window.console && console.log) {
+				console.log(message);
+			}
+		}
+	}();
+
+	// this var is used by googleAnalytics and needs to be globally accessible
+	var _gaq = [];
 
 /*]]>*/
 </script>
-	<script type="text/javascript" src="/assets/ea218d0/jquery.min.js"></script>
-<script type="text/javascript" src="/js/jquery.cycle.lite.1.0.min-iefix.js"></script>
-<script type="text/javascript" src="/js/hovereffect.js"></script>
-<script type="text/javascript" src="/js/balloonpopup.js"></script>
-<script type="text/javascript" src="/js/messageBox.js"></script>
-<script type="text/javascript" src="/js/swfobject.js"></script>
-<script type="text/javascript" src="/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="/js/ujamServerSelection.js"></script>
-<script type="text/javascript" src="/js/updateSongCounter.js"></script>
+	<link rel="stylesheet" type="text/css" href="/site/css/components,mainMenu.css?9993">
+<script type="text/javascript" src="/assets/7ec8ec5f/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cycle.all.min.js?9993"></script>
+<script type="text/javascript" src="/js/jquery.browser.min.js?9993"></script>
+<script type="text/javascript" src="/js/hovereffect.js?9993"></script>
+<script type="text/javascript" src="/js/balloonpopup.js?9993"></script>
+<script type="text/javascript" src="/js/messageBox.js?9993"></script>
+<script type="text/javascript" src="/js/swfobject.js?9993"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?9993"></script>
+<script type="text/javascript" src="/js/jquery.fancybox-1.3.4.pack.js?9993"></script>
+<script type="text/javascript" src="/js/jquery.easing-1.3.pack.js?9993"></script>
+<script type="text/javascript" src="/site/js/jquery.scrollTo-min.js?9993"></script>
+<script type="text/javascript" src="/js/buttons.js?9993"></script>
+<script type="text/javascript" src="/js/browserCheck.js?9993"></script>
+<script type="text/javascript" src="/js/fbLogin.js?9993"></script>
+<script type="text/javascript" src="/js/mainMenu.js?9993"></script>
 <title>UJAM - Privacy Policy</title>
 
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?9993">
 
 	<!-- blueprint CSS framework -->
-	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection">
-	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
-	<link rel="stylesheet" type="text/css" href="/css/form.css">
-    <link rel="stylesheet" type="text/css" href="/css/ujam.css">
-    <link rel="stylesheet" type="text/css" href="/css/components/messageBox.css">
-	<!--[if lt IE 8]>
-	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
-	<link rel="stylesheet" type="text/css" href="/css/ujam-ie.css" media="screen, projection" />
-	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/site/css/screen.css?9993" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/site/css/print.css?9993" media="print">
+	<link rel="stylesheet" type="text/css" href="/site/css/form.css?9993">
+	<link rel="stylesheet" type="text/css" href="/site/css/buttons.css?9993">
+    <link rel="stylesheet" type="text/css" href="/site/css/ujam.css?9993">
+    <link rel="stylesheet" type="text/css" href="/site/css/components,messageBoxNew.css?9993">
+	<link rel="stylesheet" type="text/css" href="/css/fancybox/jquery.fancybox-1.3.4.css?9993">
 	<!--[if IE 8]>
-	<link rel="stylesheet" type="text/css" href="/css/ujam-ie-8.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/site/css/ujam-ie-8.css?9993" media="screen, projection" />
 	<![endif]-->
-
-    
-    <!-- Google analytics -->
-
-    <!-- Google API -->
-    <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAdM0NJVjKUDyGdEo0F2H1exSkzYYPPK7GbmF26jfHZpC4vYnsFBSCvXuJLG3-Tbr6MQev4eBJq_WQSw"></script>
-
-    
-        	<script type="text/javascript">
-
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-782501-2']);
-		  _gaq.push(['_setCustomVar', 1, "User Type", "Visitor", 2]);
-		  _gaq.push(['_trackPageview']);
-
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-
-		</script>
 
 	
+    
 </head>
 
 <!-- UJAM body -->
 <body class="oneColLiqCtrHdr">
 
+<noscript>
+	<iframe src="http://www.ujam.com/site/browserNoJS"
+		style="left:0; top:0; width:100%; height:100%; position:fixed; z-index:9999"></iframe>
+</noscript>
+
+<div id="fb-root"></div>
+<div id="feedback-container"></div>
 <div class="oneColLiqCtrHdr" id="container">
 
 
 <!-- Header begin -->
   <div id="header">
     <div style="position:relative;" class="container">
+
     	<div class="span-4">
-
-			        	<a href="/">
-            <img align="left" src="/images/LogoHeader.png" alt="UJAM">
+        	<a href="http://www.ujam.com">
+            	<img id="logo" src="/images/LogoHeader.png?9993" alt="UJAM - Make. Music. Now.">
             </a>
-			
-			
+            <a class="public-beta-link" href="#">
+            	<span class="alt">Public Beta</span>  
+            </a>
         </div>
-        <div style="margin-top:20px;" class="push-4 span-4 last">
 
-            <div style="position:absolute; left:0px; top:0px;">
-            <img align="left" src="/images/verticaLine1x60.png" alt="line">
-            </div>
+		
+<div id="mainmenu">
 
-            <div style="position:absolute; left:20px; top:-5px">
 
-									<span class="large midlight">Hello</span>
-					<span class="large yellow">Guest</span>
+		<!-- GUEST menu items -->
+	<ul>
+		
+		<li>
+			<a class="button01 menubutton quick-entrance" href="/app">
+				Create
+			</a>
+		</li>
+                
+		<li>
+			<a class="button01 menubutton" href="/song/explore">
+				Explore
+			</a>
+		</li>
 
-					<p style="margin:10px 0 0 0; padding:0;">
-						<a class="midlight" href="http://ujam.com/login"><span class="small">LOGIN</span></a>
-						<span class="small midlight">&nbsp;|&nbsp;</span>
-						<a class="midlight" href="http://ujam.com/registration"><span class="small">SIGN UP</span></a>
-					</p>
-				
-				
-            </div>
+		<li>
+			<a class="button01 menubutton" href="/start">
+				Learn
+			</a>
+		</li>
 
-        </div>
+		<li>
+			<a class="button01 menubutton dropdown" rel="panel_login">
+				Log In
+				<span class="small_icon icon_dropdown"></span>
+			</a>
+			<span class="panel_connector"></span>
+		</li>
+
+		<li>
+			<a class="button01 menubutton button-facebook-left waiting" id="fb_login_button">
+				Log In
+			</a>
+			<span class="panel_connector"></span>
+		</li>
+                
+                <li class="last">
+			<a class="button-signup" href="/registration">
+                            <span class="alttext">Sign Up</span>
+                        </a>
+		</li>
+
+	</ul>
+
+
+	<!-- GUEST panels -->
+	<div class="panel" id="panel_login">
+		
+<div class="panel_section last">
+
+	
+	<div class="loginBox bottommargin">
+		<form action="https://www.ujam.com/login" method="post">			<div class="row">
+				<label for="LoginForm_username">Username or E-Mail</label>				<div class="login_input"><input name="LoginForm[username]" id="LoginForm_username" type="text"></div>
+			</div>
+			<div class="row">
+				<label for="LoginForm_password">Password</label>				<div class="login_input"><input name="LoginForm[password]" id="LoginForm_password" type="password"></div>
+			</div>
+
+			<div class="topmargin">
+				<div class="login_forgot midlight">
+					<a href="/password/send" class="midlight">Forgot your password?</a>
+				</div>
+
+				<input class="button01" type="submit" name="yt0" value="Log In">			</div>
+		</form>	</div>
+
+</div>
+
+
+<div class="panel_end"></div>	</div>
+
+
+	
+
+	
+</div>
 
     </div>
   </div>
 
-  <div id="headerspacer" class="lightbg"></div>
-  <div id="mainmenu" class="darkbg">
-	  </div>
-  <div id="shadowtop"></div>
 <!-- Header end -->
 
 <!-- Main Content begin -->
-
-  	
-  	
+<div id="contentArea">
+	  	
   	<div id="messageBoxContainer" style="display:none;"></div>
 
-<div class="container" id="content">
-  	
-
-<div class="span-12">
-
-    <div class="span-12 last">
-		<img class="headline" align="left" src="/images/headlines/PRIVACY.png" alt="privacy policy">
+	<div class="container" id="content">
+	  	
+<div class="page-title">
+	<div class="span-12">
+		<div class="compact">
+			<h1>
+				UJAM <span class="yellow">Privacy Policy</span>
+			</h1>
+		</div>
 	</div>
+</div>
+<div class="page-title-spacer"></div>
 
 
-	<p class="" align="justify">
+<div class="span-6 topmargin">
+
+	<p>
     	The purpose of the UJAM Privacy Policy is to inform users of the UJAM service about
     	the information that UJAM collects, how UJAM uses that information and how users can
     	control how that information is used or shared.  To make it a bit easier to digest
     	our Privacy Policy, we want to highlight some key issues to keep in mind about our
     	data collection and use practices. For information about users' obligations and the
     	proper use of the UJAM service, please see our
-    	<a class="yellow" href="http://www.UJAM.com/terms">Terms of Service</a>.
+    	<a href="http://www.UJAM.com/terms">Terms of Service</a>.
     </p>
 
     <div>
@@ -175,390 +300,516 @@
 	    </ul>
 	</div>
 
-	<p class="" align="justify">
+	<p>
     	This summary is not the complete picture, so please read the UJAM Privacy Policy
     	below in its entirety to learn more about the information that UJAM collects, how
     	UJAM uses and shares this information, and your options to control how that
     	information is used or shared.
     </p>
 
-	<p>
-    	&nbsp;
-    </p>
+</div>
 
+<div class="span-6 topmargin last">
+	<div class="scrolling-text">
+		<div class="content">
 
-	<span class="huge"><strong>UJAM, INC.</strong></span>
-	<span class="huge"><strong>PRIVACY POLICY</strong></span>
-	<span class="large"><strong>(Effective as of August 24, 2010)</strong></span><br><br>
+			<span class="huge"><strong>UJAM, INC.</strong></span>
+			<span class="huge"><strong>PRIVACY POLICY</strong></span><br>
+			<span class="large"><strong>(Effective as of August 24, 2010)</strong></span><br><br>
 
+		    <p>
+		    	<strong>
+		    	We at UJAM, Inc. have created this Privacy Policy to
+				explain how we collect, process, use and share information we obtain
+				through our web site located at www.UJAM.com (the "UJAM Site"), and any
+				other Internet products and services we may offer (together, the
+				"Internet Products").
+				</strong>
+		    </p>
 
-    <p class="" align="justify">
-    	<strong>
-    	We at UJAM, Inc. have created this Privacy Policy to
-		explain how we collect, process, use and share information we obtain
-		through our web site located at www.UJAM.com (the "UJAM Site"), and any
-		other Internet products and services we may offer (together, the
-		"Internet Products").
-		</strong>
-    </p>
+		    <p>
+			    This Privacy Policy does not govern our
+				use of any information you provide to us when you call us, write to us,
+				or communicate with us in any manner other than through the Internet
+				Products. Because the Internet is global, information about you that we
+				collect or that you submit may be transferred to, processed in, and held
+				in countries (including the United States) other than the one in which
+				you reside.
+			</p>
 
-    <p class="" align="justify">
-	    This Privacy Policy does not govern our
-		use of any information you provide to us when you call us, write to us,
-		or communicate with us in any manner other than through the Internet
-		Products. Because the Internet is global, information about you that we
-		collect or that you submit may be transferred to, processed in, and held
-		in countries (including the United States) other than the one in which
-		you reside.
-	</p>
+		    <p>
+		    	<strong>
+		    	By using the UJAM Site, you explicitly consent to the
+				collection, processing and use of your personal information and agree to
+				the terms of this Privacy Policy. This Privacy Policy is effective as of
+				August 24, 2010.
+				</strong>
+		    </p>
 
-    <p class="" align="justify">
-    	<strong>
-    	By using the UJAM Site, you explicitly consent to the
-		collection, processing and use of your personal information and agree to
-		the terms of this Privacy Policy. This Privacy Policy is effective as of
-		August 24, 2010.
-		</strong>
-    </p>
+		    <span class="large"><strong>INFORMATION YOU CHOOSE TO SUBMIT</strong></span>
+		    <p>
+		    	<strong>
+		    	You can visit the UJAM Site without telling us who you are or revealing to us any
+		    	information by which someone could personally identify you (which we will refer to
+		    	in this Privacy Policy collectively as "Identifiable Personal Data").
+		    	</strong>
+		    </p>
+		    <p>
+		    	However, to
+		    	obtain access to certain areas of the UJAM Site (e.g., chat rooms, bulletin boards
+		    	and other online forums), to receive certain services we provide (e.g., e-mail
+		    	newsletters), to make a purchase from the UJAM Site, to register a product with us,
+		    	or to participate in contests we may offer from time to time, you may be required
+		    	to provide certain Personal Data as well as information about yourself (for example
+		    	your gender, birth date, or zip code) by which it is impossible or substantially
+		    	more difficult for a third party to personally identify you without additional
+		    	information (which we will refer to in this Privacy Policy collectively as
+		    	"Pseudonymized Personal Data").
+			</p>
 
-    <span class="large"><strong>INFORMATION YOU CHOOSE TO SUBMIT</strong></span>
-    <p class="" align="justify">
-    	<strong>
-    	You can visit the UJAM Site without telling us who you are or revealing to us any
-    	information by which someone could personally identify you (which we will refer to
-    	in this Privacy Policy collectively as "Identifiable Personal Data").
-    	</strong>
-    </p>
-    <p class="" align="justify">
-    	However, to
-    	obtain access to certain areas of the UJAM Site (e.g., chat rooms, bulletin boards
-    	and other online forums), to receive certain services we provide (e.g., e-mail
-    	newsletters), to make a purchase from the UJAM Site, to register a product with us,
-    	or to participate in contests we may offer from time to time, you may be required
-    	to provide certain Personal Data as well as information about yourself (for example
-    	your gender, birth date, or zip code) by which it is impossible or substantially
-    	more difficult for a third party to personally identify you without additional
-    	information (which we will refer to in this Privacy Policy collectively as
-    	"Pseudonymized Personal Data").
-	</p>
+			<span class="large"><strong>COLLECTION AND USE OF PERSONAL DATA</strong></span>
+		    <p>
+				We use Personal Data and Pseudonymized Personal Data (which we
+				will refer to in this Privacy Policy collectively as "Personal Data") to
+				conclude contractual relationships with you and to fulfill your requests for
+				products and services, to monitor and improve our UJAM Site, products, and services,
+				and to contact you from time to time about us, the UJAM Site, and our products and
+				services.  We do not use Personal Data for any other purpose.
+		    </p>
 
-	<span class="large"><strong>COLLECTION AND USE OF PERSONAL DATA</strong></span>
-    <p class="" align="justify">
-		We use Personal Data and Pseudonymized Personal Data (which we
-		will refer to in this Privacy Policy collectively as "Personal Data") to
-		conclude contractual relationships with you and to fulfill your requests for
-		products and services, to monitor and improve our UJAM Site, products, and services,
-		and to contact you from time to time about us, the UJAM Site, and our products and
-		services.  We do not use Personal Data for any other purpose.
-    </p>
+		    <span class="large"><strong>INFORMATION WE AUTOMATICALLY COLLECT</strong></span>
+		    <p>
+		    	<strong>
+		    	We automatically collect certain information to help us understand how you use the
+		    	UJAM Site (which we will refer to in this Privacy Policy collectively as "Usage Data").
+		    	</strong>
+		    </p>
+		    <p>
+		    	For example, each time you visit the UJAM Site we may automatically collect your IP
+		    	address, browser type, browser, browser language and computer type, access time and date,
+		    	the webpage from which you came, and
+		    	the webpage(s) that you access during your visit as well as other web server log files.
+		    	Such Usage Data is collected, in particular, for the safety and protection of the UJAM site.
+		    </p>
+		    <p>
+		    	We also may use cookies (which are
+		    	small amounts of data sent from a web server to your browser that are stored on your
+		    	computer's hard drive) and web beacons (which are invisible files located on webpages
+		    	that you visit) to keep track of your use of the UJAM Site, to validate your identity,
+		    	to remember your password and preferences, to tailor the UJAM Site to meet your personal
+		    	interests and needs, for our own market research purposes, to provide advertisements
+		    	that we believe you may be interested in, for billing purposes, and to improve the
+		    	quality of the UJAM Site.
+		    </p>
+		    <p>
+		    	In addition, third
+		    	parties who place advertisements on the UJAM Site may also collect information through
+		    	cookies and web beacons to ensure that their advertising systems and technologies work
+		    	properly and to allow them to track responses to their advertisements. Cookies and web
+		    	beacons set by these third parties are governed by the privacy policies of those third
+		    	parties.
+		    </p>
+		    <p>
+		    	Generally, you can set your browser not to accept cookies or to notify you if
+		    	you are sent a cookie, giving you the opportunity to choose whether or not to accept
+		    	the cookie.
+		    </p>
+		    <p>
+		    	<strong>
+		    	Please note that if you do set your browser not to accept cookies, certain
+		    	areas of the UJAM Site and accompaniment service may not function properly.
+		    	We may combine Usage Data with
+		    	Personal Data in a manner that enables us to trace Usage Data to an individual user.
+		    	</strong>
+		    </p>
 
-    <span class="large"><strong>INFORMATION WE AUTOMATICALLY COLLECT</strong></span>
-    <p class="" align="justify">
-    	<strong>
-    	We automatically collect certain information to help us understand how you use the
-    	UJAM Site (which we will refer to in this Privacy Policy collectively as "Usage Data").
-    	</strong>
-    </p>
-    <p class="" align="justify">
-    	For example, each time you visit the UJAM Site we may automatically collect your IP
-    	address, browser type, browser, browser language and computer type, access time and date,
-    	the webpage from which you came, and
-    	the webpage(s) that you access during your visit as well as other web server log files.
-    	Such Usage Data is collected, in particular, for the safety and protection of the UJAM site.
-    </p>
-    <p class="" align="justify">
-    	We also may use cookies (which are
-    	small amounts of data sent from a web server to your browser that are stored on your
-    	computer's hard drive) and web beacons (which are invisible files located on webpages
-    	that you visit) to keep track of your use of the UJAM Site, to validate your identity,
-    	to remember your password and preferences, to tailor the UJAM Site to meet your personal
-    	interests and needs, for our own market research purposes, to provide advertisements
-    	that we believe you may be interested in, for billing purposes, and to improve the
-    	quality of the UJAM Site.
-    </p>
-    <p class="" align="justify">
-    	In addition, third
-    	parties who place advertisements on the UJAM Site may also collect information through
-    	cookies and web beacons to ensure that their advertising systems and technologies work
-    	properly and to allow them to track responses to their advertisements. Cookies and web
-    	beacons set by these third parties are governed by the privacy policies of those third
-    	parties.
-    </p>
-    <p class="" align="justify">
-    	Generally, you can set your browser not to accept cookies or to notify you if
-    	you are sent a cookie, giving you the opportunity to choose whether or not to accept
-    	the cookie.
-    </p>
-    <p class="" align="justify">
-    	<strong>
-    	Please note that if you do set your browser not to accept cookies, certain
-    	areas of the UJAM Site and accompaniment service may not function properly.
-    	We may combine Usage Data with
-    	Personal Data in a manner that enables us to trace Usage Data to an individual user.
-    	</strong>
-    </p>
+		    <span class="large"><strong>OUR INFORMATION SHARING PRACTICES</strong></span><br><br>
+		    <span class="large"><strong>GENERALLY</strong></span>
+		    <p>
+		    	Except as otherwise described in this section of our Privacy Policy,
+		    	we will not share your Personal Data or Usage Data (which we will refer to in this Privacy
+		    	Policy collectively as "User Information") with any third party without your permission.
+		    </p>
+		    <span class="large"><strong>ADVERTISERS</strong></span>
+		    <p>
+		    	From time to time, we may share your Pseudonymized Personal Data including
+		    	Usage Data to enable third parties who serve advertisements on the UJAM Site to deliver
+		    	advertisements that will be relevant to you.
+		    </p>
+		    <span class="large"><strong>AGGREGATED DATA</strong></span>
+		    <p>
+		    	From time to time, we may share aggregated User Information
+		    	(excluding any credit card numbers you may provide to us to purchase any of our products
+		    	or services) with third parties. We will not share any aggregated data, however, in manner
+		    	that would enable the recipient to personally identify you.
+		    </p>
+		    <span class="large"><strong>THIRD-PARTY MARKETERS</strong></span>
+		    <p>
+		    	If you affirmatively authorize us to do so, from time to time
+		    	we may share your Personal Data with third parties so they may contact you regarding goods
+		    	or services in which you may be interested. If you have authorized us to do, and later decide
+		    	that you would no longer like us to disclose your Personal Data to third parties for the third
+		    	parties' direct marketing purposes, please contact us as noted below in "Choice/Opt-Out."
+		    </p>
+		    <span class="large"><strong>OTHER DISCLOSURE SCENARIOS</strong></span>
+		    <p>
+		    	<strong>
+		    	Notwithstanding anything in this Privacy Policy to the
+		    	contrary, we reserve the right, and you hereby expressly authorize us to, share any User
+		    	Information:
+		    	</strong>
+		    </p>
+		    <div>
+			    <ol>
+			    	<li>
+				    	in response to subpoenas, court orders, or legal process, or to establish,
+				    	protect, or exercise our legal rights or defend against legal claims,
+				    	or where disclosure is otherwise required by law;
+			    	</li>
+			    	<li>
+				    	if we believe it is
+				    	necessary in order to investigate, prevent, or take action regarding illegal activities, fraud,
+				    	or situations involving potential threats to the safety of any person or property;
+			    	</li>
+			    	<li>
+				    	if we
+				    	believe it is necessary to investigate, prevent, or take action regarding abuse of the UJAM
+				    	Site infrastructure or the Internet in general (such as voluminous spamming, denial of service
+				    	attacks, or attempts to compromise the security of information);
+			    	</li>
+			    	<li>
+				    	to our parent company,
+				    	subsidiaries, joint ventures, or other companies under common control with us (in which case
+				    	we will require such entities to honor this Privacy Policy);
+			    	</li>
+			    	<li>
+				    	with potential acquirers or others involved in such transaction if we (or substantially all
+				    	of our assets) are acquired by or merged with another entity; or
+			    	</li>
+			    	<li>
+				    	with third parties who provide services to us (e.g., credit card
+				    	processing services, shipping services, or data management and storage services or other
+				    	services required for the operation of the UJAM Site); provided,
+				    	however, that in those circumstances we request that our service providers not share your User
+				    	Information in a manner inconsistent with this Privacy Policy.
+			    	</li>
+			    </ol>
+			</div>
 
-    <span class="large"><strong>OUR INFORMATION SHARING PRACTICES</strong></span><br><br>
-    <span class="large yellow"><strong>GENERALLY</strong></span>
-    <p class="" align="justify">
-    	Except as otherwise described in this section of our Privacy Policy,
-    	we will not share your Personal Data or Usage Data (which we will refer to in this Privacy
-    	Policy collectively as "User Information") with any third party without your permission.
-    </p>
-    <span class="large yellow"><strong>ADVERTISERS</strong></span>
-    <p class="" align="justify">
-    	From time to time, we may share your Pseudonymized Personal Data including
-    	Usage Data to enable third parties who serve advertisements on the UJAM Site to deliver
-    	advertisements that will be relevant to you.
-    </p>
-    <span class="large yellow"><strong>AGGREGATED DATA</strong></span>
-    <p class="" align="justify">
-    	From time to time, we may share aggregated User Information
-    	(excluding any credit card numbers you may provide to us to purchase any of our products
-    	or services) with third parties. We will not share any aggregated data, however, in manner
-    	that would enable the recipient to personally identify you.
-    </p>
-    <span class="large yellow"><strong>THIRD-PARTY MARKETERS</strong></span>
-    <p class="" align="justify">
-    	If you affirmatively authorize us to do so, from time to time
-    	we may share your Personal Data with third parties so they may contact you regarding goods
-    	or services in which you may be interested. If you have authorized us to do, and later decide
-    	that you would no longer like us to disclose your Personal Data to third parties for the third
-    	parties' direct marketing purposes, please contact us as noted below in "Choice/Opt-Out."
-    </p>
-    <span class="large yellow"><strong>OTHER DISCLOSURE SCENARIOS</strong></span>
-    <p class="" align="justify">
-    	<strong>
-    	Notwithstanding anything in this Privacy Policy to the
-    	contrary, we reserve the right, and you hereby expressly authorize us to, share any User
-    	Information:
-    	</strong>
-    </p>
-    <div>
-	    <ol>
-	    	<li>
-		    	in response to subpoenas, court orders, or legal process, or to establish,
-		    	protect, or exercise our legal rights or defend against legal claims,
-		    	or where disclosure is otherwise required by law;
-	    	</li>
-	    	<li>
-		    	if we believe it is
-		    	necessary in order to investigate, prevent, or take action regarding illegal activities, fraud,
-		    	or situations involving potential threats to the safety of any person or property;
-	    	</li>
-	    	<li>
-		    	if we
-		    	believe it is necessary to investigate, prevent, or take action regarding abuse of the UJAM
-		    	Site infrastructure or the Internet in general (such as voluminous spamming, denial of service
-		    	attacks, or attempts to compromise the security of information);
-	    	</li>
-	    	<li>
-		    	to our parent company,
-		    	subsidiaries, joint ventures, or other companies under common control with us (in which case
-		    	we will require such entities to honor this Privacy Policy);
-	    	</li>
-	    	<li>
-		    	with potential acquirers or others involved in such transaction if we (or substantially all
-		    	of our assets) are acquired by or merged with another entity; or
-	    	</li>
-	    	<li>
-		    	with third parties who provide services to us (e.g., credit card
-		    	processing services, shipping services, or data management and storage services or other
-		    	services required for the operation of the UJAM Site); provided,
-		    	however, that in those circumstances we request that our service providers not share your User
-		    	Information in a manner inconsistent with this Privacy Policy.
-	    	</li>
-	    </ol>
-	</div>
+		    <span class="large"><strong>PUBLIC AREAS</strong></span>
+		    <p>
+		    	There may be areas of the UJAM Site that (e.g., chat rooms, bulletin boards, and other online
+		    	forums) in which you are able to post information that will be available to all other users of
+		    	the UJAM Site. By choosing to use these areas, you understand and agree that anyone may access,
+		    	use, and disclose any information that you post to those areas.
+		    </p>
 
-    <span class="large"><strong>PUBLIC AREAS</strong></span>
-    <p class="" align="justify">
-    	There may be areas of the UJAM Site that (e.g., chat rooms, bulletin boards, and other online
-    	forums) in which you are able to post information that will be available to all other users of
-    	the UJAM Site. By choosing to use these areas, you understand and agree that anyone may access,
-    	use, and disclose any information that you post to those areas.
-    </p>
+		    <span class="large"><strong>ACCESS TO PERSONAL DATA; MODIFYING AND DELETING YOUR PERSONAL DATA</strong></span>
+		    <p>
+		    	You may have certain rights under applicable data protection laws which may include the right
+		    	for you to receive a copy of the personal data that UJAM holds about you, including information
+		    	relating to the source of the data, the recipients to whom data are transferred, and the purpose
+		    	of recording the data. For a copy of your personal data or other information you are entitled to
+		    	request, please contact UJAM at the e-mail address set out below. We may charge you a nominal
+		    	fee for complying with such a request in accordance with applicable law. In addition, you may
+		    	have a right to request that personal data is corrected, blocked or deleted if the data is
+		    	factually incorrect, incomplete or irrelevant for the purposes described in this Privacy Policy.
+		    	If you would like to modify or delete from our database any Personal Data you previously
+		    	submitted to us, please let us know by accessing and updating your profile. Please note that any
+		    	Personal Data that we have copied may remain in back-up storage for some period of time after
+		    	your request, and that if you delete certain information you may not be able to order services
+		    	in the future without re-submitting such information. Also, please note that we will maintain
+		    	Personal Data in our database whenever we are required to do so by law.
+		    </p>
 
-    <span class="large"><strong>ACCESS TO PERSONAL DATA; MODIFYING AND DELETING YOUR PERSONAL DATA</strong></span>
-    <p class="" align="justify">
-    	You may have certain rights under applicable data protection laws which may include the right
-    	for you to receive a copy of the personal data that UJAM holds about you, including information
-    	relating to the source of the data, the recipients to whom data are transferred, and the purpose
-    	of recording the data. For a copy of your personal data or other information you are entitled to
-    	request, please contact UJAM at the e-mail address set out below. We may charge you a nominal
-    	fee for complying with such a request in accordance with applicable law. In addition, you may
-    	have a right to request that personal data is corrected, blocked or deleted if the data is
-    	factually incorrect, incomplete or irrelevant for the purposes described in this Privacy Policy.
-    	If you would like to modify or delete from our database any Personal Data you previously
-    	submitted to us, please let us know by accessing and updating your profile. Please note that any
-    	Personal Data that we have copied may remain in back-up storage for some period of time after
-    	your request, and that if you delete certain information you may not be able to order services
-    	in the future without re-submitting such information. Also, please note that we will maintain
-    	Personal Data in our database whenever we are required to do so by law.
-    </p>
+		    <span class="large"><strong>NEWSLETTERS</strong></span>
+		    <p>
+		    	When you sign up to be on a mailing list for UJAM's e-mail newsletters, your e-mail address and
+		    	selected newsletter list(s) are stored by us. We use this information solely for purposes of
+		    	dispatching newsletters. Data sets are used to analyze system performance for statistical
+		    	purposes. We neither pass on this data to third parties nor use it for any other purposes
+		    	of our own.
+		    </p>
 
-    <span class="large"><strong>NEWSLETTERS</strong></span>
-    <p class="" align="justify">
-    	When you sign up to be on a mailing list for UJAM's e-mail newsletters, your e-mail address and
-    	selected newsletter list(s) are stored by us. We use this information solely for purposes of
-    	dispatching newsletters. Data sets are used to analyze system performance for statistical
-    	purposes. We neither pass on this data to third parties nor use it for any other purposes
-    	of our own.
-    </p>
+		    <span class="large"><strong>CHOICE/OPT-OUT</strong></span>
+		    <p>
+		    	We offer you the opportunity to control whether we share your Personal Data with third parties
+		    	for their direct marketing purposes. You may request that we do so at the time you register to
+		    	become a member of the UJAM Site or at any time thereafter by accessing and updating your privacy
+		    	settings through your profile page. In addition, if you have previously authorized us to do, you
+		    	may request that we no longer share your Personal Data with third parties for their direct
+		    	marketing purposes by accessing and updating your privacy settings through your profile page.
+		    	Please note that sometimes these requests may take up to ten business days to process and that we
+		    	are not responsible for removing information about you from the database of any third party to
+		    	whom we were authorized to disclose your Personal Data prior to processing your request.
+		    </p>
 
-    <span class="large"><strong>CHOICE/OPT-OUT</strong></span>
-    <p class="" align="justify">
-    	We offer you the opportunity to control whether we share your Personal Data with third parties
-    	for their direct marketing purposes. You may request that we do so at the time you register to
-    	become a member of the UJAM Site or at any time thereafter by accessing and updating your privacy
-    	settings through your profile page. In addition, if you have previously authorized us to do, you
-    	may request that we no longer share your Personal Data with third parties for their direct
-    	marketing purposes by accessing and updating your privacy settings through your profile page.
-    	Please note that sometimes these requests may take up to ten business days to process and that we
-    	are not responsible for removing information about you from the database of any third party to
-    	whom we were authorized to disclose your Personal Data prior to processing your request.
-    </p>
+		    <span class="large"><strong>SECURITY</strong></span>
+		    <p>
+		    	We have implemented reasonable measures to help protect your User Information from loss, misuse,
+		    	or unauthorized access or disclosure. Unfortunately, however, no data transmission over the
+		    	Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your User
+		    	Information, we cannot guarantee its security.
+		    </p>
 
-    <span class="large"><strong>SECURITY</strong></span>
-    <p class="" align="justify">
-    	We have implemented reasonable measures to help protect your User Information from loss, misuse,
-    	or unauthorized access or disclosure. Unfortunately, however, no data transmission over the
-    	Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your User
-    	Information, we cannot guarantee its security.
-    </p>
+		    <span class="large"><strong>LINKS</strong></span>
+		    <p>
+		    	The UJAM Site may contain links to other web sites. We are not responsible for the privacy
+		    	practices of any such other web site (whether accessed through an advertisement, service, or
+		    	content link) and urge you to review such practices prior to submitting any information to such
+		    	web sites.
+		    </p>
 
-    <span class="large"><strong>LINKS</strong></span>
-    <p class="" align="justify">
-    	The UJAM Site may contain links to other web sites. We are not responsible for the privacy
-    	practices of any such other web site (whether accessed through an advertisement, service, or
-    	content link) and urge you to review such practices prior to submitting any information to such
-    	web sites.
-    </p>
+		    <span class="large"><strong>USE OF GOOGLE ANALYTICS</strong></span>
+		    <p>
+		    	This website uses Google Analytics, a web analytics service provided by Google, Inc.
+		    	("Google"). Google Analytics uses "cookies", which are text files placed on your computer,
+		    	to help the website analyze how users use the site. The information generated by the cookie
+		    	about your use of the website (including your IP address) will be transmitted to and stored
+		    	by Google on servers in the United States. Google will use this information for the purpose
+		    	of evaluating your use of the website, compiling reports on website activity for website
+		    	operators and providing other services relating to website activity and internet usage.
+		    	Google may also transfer this information to third parties where required to do so by law,
+		    	or where such third parties process the information on Google's behalf. Google will not
+		    	associate your IP address with any other data held by Google. You may refuse the use of
+		    	cookies by selecting the appropriate settings on your browser, however please note that
+		    	if you do this you may not be able to use the full functionality of this website.
+		    	By using this website, you consent to the processing of data about you by Google in the
+		    	manner and for the purposes set out above.
+		    </p>
 
-    <span class="large"><strong>USE OF GOOGLE ANALYTICS</strong></span>
-    <p class="" align="justify">
-    	This website uses Google Analytics, a web analytics service provided by Google, Inc.
-    	("Google"). Google Analytics uses "cookies", which are text files placed on your computer,
-    	to help the website analyze how users use the site. The information generated by the cookie
-    	about your use of the website (including your IP address) will be transmitted to and stored
-    	by Google on servers in the United States. Google will use this information for the purpose
-    	of evaluating your use of the website, compiling reports on website activity for website
-    	operators and providing other services relating to website activity and internet usage.
-    	Google may also transfer this information to third parties where required to do so by law,
-    	or where such third parties process the information on Google's behalf. Google will not
-    	associate your IP address with any other data held by Google. You may refuse the use of
-    	cookies by selecting the appropriate settings on your browser, however please note that
-    	if you do this you may not be able to use the full functionality of this website.
-    	By using this website, you consent to the processing of data about you by Google in the
-    	manner and for the purposes set out above.
-    </p>
+		    <span class="large"><strong>CHILDREN'S PRIVACY</strong></span>
+		    <p>
+		    	We are committed to protecting the privacy needs of children and we encourage parents and
+		    	guardians to take an active role in their children's online activities and interests. The UJAM
+		    	Site is not intended for and may not be used by children under the age of 13. We do not
+		    	knowingly collect information from children under the age of 13 and we do not target the UJAM
+		    	Site to children under the age of 13.
+		    </p>
 
-    <span class="large"><strong>CHILDREN'S PRIVACY</strong></span>
-    <p class="" align="justify">
-    	We are committed to protecting the privacy needs of children and we encourage parents and
-    	guardians to take an active role in their children's online activities and interests. The UJAM
-    	Site is not intended for and may not be used by children under the age of 13. We do not
-    	knowingly collect information from children under the age of 13 and we do not target the UJAM
-    	Site to children under the age of 13.
-    </p>
+		    <span class="large"><strong>CHANGES</strong></span>
+		    <p>
+		    	We may update this Privacy Policy from time to time. If under any such update we make any
+		    	material change to the way in which we treat your User Information, we will inform you of such
+		    	change via email or by posting a notice on relevant areas of the UJAM Site. Any updated
+		    	version of this Privacy Policy will be effective as of the date set forth therein.
+		    </p>
 
-    <span class="large"><strong>CHANGES</strong></span>
-    <p class="" align="justify">
-    	We may update this Privacy Policy from time to time. If under any such update we make any
-    	material change to the way in which we treat your User Information, we will inform you of such
-    	change via email or by posting a notice on relevant areas of the UJAM Site. Any updated
-    	version of this Privacy Policy will be effective as of the date set forth therein.
-    </p>
+		    <span class="large"><strong>STORAGE OF USER INFORMATION</strong></span>
+		    <p>
+		    	After termination of the user relationship, the User Information will be blocked. Upon
+		    	termination of the user relationship, the user's account and all User Information will be
+		    	deleted within 30 days. Deletion will be carried out within six (6) months after the
+		    	invoice has been sent to the user. If objections are raised against the invoice or if it
+		    	has not been paid within such six (6) months period, the user's User Information will
+		    	remain stored until the objection against the invoice is resolved or full payment claim
+		    	has been received. Even after that point of time, the registration data (excluding the
+		    	account name, e-mail address and Usage Data) can be stored by UJAM in anonymized form and
+		    	can be used by UJAM for market research, advertising and other business purposes or
+		    	disclosed to business partners or customers for such purposes.
+		    </p>
 
-    <span class="large"><strong>STORAGE OF USER INFORMATION</strong></span>
-    <p class="" align="justify">
-    	After termination of the user relationship, the User Information will be blocked. Upon
-    	termination of the user relationship, the user's account and all User Information will be
-    	deleted within 30 days. Deletion will be carried out within six (6) months after the
-    	invoice has been sent to the user. If objections are raised against the invoice or if it
-    	has not been paid within such six (6) months period, the user's User Information will
-    	remain stored until the objection against the invoice is resolved or full payment claim
-    	has been received. Even after that point of time, the registration data (excluding the
-    	account name, e-mail address and Usage Data) can be stored by UJAM in anonymized form and
-    	can be used by UJAM for market research, advertising and other business purposes or
-    	disclosed to business partners or customers for such purposes.
-    </p>
+		    <span class="large"><strong>QUESTIONS</strong></span>
+		    <p>
+		    	If you have any questions about this Privacy Policy, please feel free to contact us by email
+		    	to: <a href="mailto:privacy@ujam.com">privacy@ujam.com</a>
+		    </p>
 
-    <span class="large"><strong>QUESTIONS</strong></span>
-    <p class="" align="justify">
-    	If you have any questions about this Privacy Policy, please feel free to contact us by email
-    	to: <a class="yellow" href="mailto:privacy@ujam.com">privacy@ujam.com</a>
-    </p>
+	    </div>
 
-</div></div>
+    </div>
 
-<hr class="space">
-<hr class="space">
-<hr class="space">
-<hr class="space">
+</div>	</div>
 
+</div>
 <!-- Main Content end -->
 
-  <!-- first: make room for footer in 100% height content area -->
-  <div id="footerPush"></div>
-  <!-- end footerpush -->
 
-</div>
-
-<!-- Footer begin, will be moved up due to negative margin of container -->
+<!-- Footer begin -->
   <div id="footer">
-    <div id="shadowbottom"></div>
-    <div id="footerspacer" class="lightbg"></div>
     <div class="container">
         
-<hr class="space">
+<div class="span-7 bottommargin">
 
-<div class="span-8">
+	<ul class="secondaryLinks">
+		<li class="first">
+			<span class="title light">Corporation</span>
+			<a href="/about" class="midlight">About</a>
+			<a href="/jobs" class="midlight">Jobs</a>
+			<a href="/press" class="midlight">Press</a>
+		</li>
 
-	<p align="left">
-	<span class="midlight small">
-		<a href="http://ujam.com/contact" class="midlight">CONTACT&nbsp;US</a>
-		&nbsp;|&nbsp;
-		<a href="http://ujam.com/jobs" class="midlight">JOBS</a>
-		&nbsp;|&nbsp;
-		<a href="http://ujam.com/press" class="midlight">PRESS</a>
-		&nbsp;|&nbsp;
-		<a href="http://ujam.com/about" class="midlight">ABOUT</a>
-		&nbsp;|&nbsp;
-		<a href="http://ujam.com/terms" class="midlight">TERMS&nbsp;OF&nbsp;SERVICE</a>
-		&nbsp;|&nbsp;
-		<a href="http://ujam.com/privacy" class="midlight">PRIVACY&nbsp;POLICY</a>
-		&nbsp;|&nbsp;
-		<a href="http://ujam.com/legal" class="midlight">LEGAL&nbsp;NOTICE</a>
-	</span>
-	</p>
+		<li>
+			<span class="title light">Business Conditions</span>
+			<a href="/terms" class="midlight">Terms of Service</a>
+			<a href="/privacy" class="midlight">Privacy Policy</a>
+			<a href="/legal" class="midlight">Legal Notice</a>
+		</li>
+		<li>
+			<span class="title light">Community</span>
+			<a href="/faq" class="midlight">FAQ</a>
+			<a href="/support" class="midlight">Support</a>
+			<a href="http://www.getsatisfaction.com/ujam" class="midlight">Community</a>
+		</li>
+
+	</ul>
+
 
 </div>
 
+<div class="span-5 last bottommargin">
 
+	<a class="button01" href="/contact">Contact</a>
+			<div class="topmargin">
+		<div id="copyright" style="clear:both;">
+			<span class="midlight">Copyright © 2011 UJAM Incorporated. All rights reserved.</span>
+		</div>
+		<div id="revision">
+	  		<span class="mid">Version: UJAM V:0.0.0.09993 (Neo)</span>
+	  	</div>
+  	</div>
 
-        <div id="copyright" class="span-8">
-	<p align="left">
-		<span class="mid small">
-			Copyright © 2010 UJAM Incorporated. All rights reserved.
-		</span>
-	</p>
-</div>        <div id="revision" class="span-3 push-1 last">
-	  		<p align="right"><span class="mid small">Version: UJAM V:0.0.0.02379 (Dozer)</span></p>
-  		</div>
-    </div>
+</div>    </div>
   </div>
 <!-- Footer end -->
 
-<!--
+<div id="pageEnd"></div>
+
+</div>
+
 <script type="text/javascript">
+/*<![CDATA[*/
 
-swfobject.registerObject("FlashID");
 
+	var browserCheck = new BrowserCheck();
+	browserCheck.checkAndWarn();
+
+
+jQuery(function($) {
+
+			jQuery('.public-beta-link').click(function() {
+				showBetaDisclaimer();
+				return false;
+			});
+		
+
+			jQuery('body').bind('READY_FOR_EXTERNAL_JS', initExternalJs);
+
+			function initExternalJs() {
+				logger.tryLogging('initializing external js');
+				jQuery.noConflict();
+				initGoogleAnalyticsJs();
+				initFacebookJs();
+				
+			}
+
+			function initGoogleAnalyticsJs() {
+				logger.tryLogging('calling for google analytics lib js');
+				var protocol = ('https:' == document.location.protocol) ? 'https' : 'http';
+  				var scriptUrl = protocol + '://www.google.com/jsapi?key=ABQIAAAAdM0NJVjKUDyGdEo0F2H1exSkzYYPPK7GbmF26jfHZpC4vYnsFBSCvXuJLG3-Tbr6MQev4eBJq_WQSw';
+  				jQuery.getScript(
+					scriptUrl,
+					onReceivedGoogleAnalyticsJs
+  				);
+			}
+
+			function onReceivedGoogleAnalyticsJs(data) {
+				logger.tryLogging('prepare tracking via google analytics');
+				var account = 'UA-782501-2';
+				if(!account) { //abort if no googleAnalyticsAccount available (eg. on staging)
+					logger.tryLogging('no google analytics account available');
+					return false;
+				}
+
+				if(! _gaq) { //global var _gaq is required, abort if not available
+					logger.tryLogging('global var _gaq missing');
+					return false;
+				}
+
+				_gaq.push(['_setAccount', account]);
+				_gaq.push(['_setCustomVar', 1, "User Type", 'Visitor', 2]);
+				_gaq.push(['_trackPageview']);
+
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+				logger.tryLogging('tracking via google analytics');
+			}
+
+			function initFacebookJs() {
+				logger.tryLogging('calling for facebook lib js');
+				window.fbAsyncInit = function() {
+	      			FB.init({appId: '116964928372956', status: true, cookie: true, xfbml: true});
+					jQuery('body').trigger(jQuery.Event('FB_INIT_COMPLETE'));
+	    		};
+				(function() {
+					var e = document.createElement('script'); e.async = true;
+					e.src = document.location.protocol +
+					'//connect.facebook.net/en_US/all.js';
+					document.getElementById('fb-root').appendChild(e);
+				}());
+			}
+
+			function initGetSatisfactionJs() {
+				logger.tryLogging('calling for getSatisfaction lib js');
+				var is_ssl = ('https:' == document.location.protocol);
+  				var asset_host = is_ssl ? 'https://s3.amazonaws.com/getsatisfaction.com/' : 'http://s3.amazonaws.com/getsatisfaction.com/';
+  				jQuery.getScript(
+					asset_host + 'javascripts/feedback-v2.js',
+					onReceivedGetSatisfactionJs
+  				);
+			}
+
+			function onReceivedGetSatisfactionJs(data) {
+				logger.tryLogging('adding getSatisfaction widget');
+				var feedback_widget_options = {};
+
+  				feedback_widget_options.display = 'overlay';
+  				feedback_widget_options.company = 'ujam';
+  				feedback_widget_options.placement = 'left';
+  				feedback_widget_options.color = '#1A1A18';
+  				feedback_widget_options.style = 'idea';
+  				feedback_widget_options.container = 'feedback-container';
+
+  				var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+			}
+
+
+		
+
+
+		mainMenu = new MainMenu(
+			jQuery("#mainmenu .menubutton"),
+			jQuery("#mainmenu .panel"),
+			jQuery("#mainmenu .menu")
+		);
+		mainMenu.init();
+	
+
+
+		// set focus to username input field when panel is opened
+		jQuery('a[rel=panel_login]').bind('click.setFocus', function() {
+			jQuery('#LoginForm_username').focus();
+		});
+	
+
+	jQuery('body').bind('FB_INIT_COMPLETE', initFbLikeButton);
+
+	function initFbLikeButton() {
+		jQuery('#fbLikeButtonContainer').html(
+		'<fb:like href="www.ujam.com" layout="button_count" show_faces="false" width="225" colorscheme="light"></fb:like>');
+	}
+
+});
+jQuery(window).load(function() {
+
+		jQuery('body').trigger(jQuery.Event('READY_FOR_EXTERNAL_JS'));
+	
+});
+/*]]>*/
 </script>
--->
-
-
 
 
 
