@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphene-info.com privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111040636id_/http%3A//www.graphene-info.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphene-info.com privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828155551id_/http%3A//www.graphene-info.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
