@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ujam.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201042913id_/http%3A//www.ujam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ujam.com privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828075839id_/http%3A//www.ujam.com/privacy) for the most accurate reproduction.*
 
 # UJAM - Privacy Policy
 
@@ -14,7 +14,8 @@ The purpose of the UJAM Privacy Policy is to inform users of the UJAM service ab
 
 This summary is not the complete picture, so please read the UJAM Privacy Policy below in its entirety to learn more about the information that UJAM collects, how UJAM uses and shares this information, and your options to control how that information is used or shared. 
 
-**UJAM, INC.** **PRIVACY POLICY** **(Effective as of August 24, 2010)**
+**UJAM, INC.** **PRIVACY POLICY**  
+**(Effective as of August 24, 2010)**
 
 **We at UJAM, Inc. have created this Privacy Policy to explain how we collect, process, use and share information we obtain through our web site located at www.UJAM.com (the "UJAM Site"), and any other Internet products and services we may offer (together, the "Internet Products").**
 
