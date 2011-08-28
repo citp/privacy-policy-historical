@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220081822id_/http%3A//www.lookingyourbest.com/info/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828035349id_/http%3A//www.lookingyourbest.com/info/privacystatement) for the most accurate reproduction.*
 
 # LookingYourBest.com - Your Plastic Surgery Resource
 
-Please read this privacy statement carefully. (Click [**here**](http://www.lookingyourbest.com/info/termsofservice.php) to read Terms and Conditions related to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
+[ Share](http://www.addthis.com/bookmark.php)
+
+Please read this privacy statement carefully. (Click [**here**](http://www.lookingyourbest.com/info/termsofservice) to read Terms and Conditions related to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
 
 What Does LOOKINGYOURBEST.COM Do with Non-personal Information?  
 What Does LOOKINGYOURBEST.COM Do with Non-personal Information?  
@@ -35,7 +37,7 @@ Non-personal information is information we collect through this web site that do
 
 
 
-If you visit our web site to read or download information, such as information about a health condition or about one of our products, we may collect certain non-personal information about you from your computer. This information is collected from your computer's web browser: If you only read or download information on our web site, we do not collect or learn your name, e-mail address, home address, or other personal information about you. We may place a text file called a cookie in the browser files of your computer when you visit. The cookie may be stored on your computerï¿½s hard drive. The information that we collect using cookies is non-personal information. US Government Information Bulletin (I-034) contains a good description of cookie technology at: http://www.ciac.org/ciac/bulletins/i-034.shtml. You are always free to decline our cookies if your browser permits, but some parts of our web site may not work properly for you if you do so. We will not allow third parties to place cookies on our web site.
+If you visit our web site to read or download information, such as information about a health condition or about one of our products, we may collect certain non-personal information about you from your computer. This information is collected from your computer's web browser: If you only read or download information on our web site, we do not collect or learn your name, e-mail address, home address, or other personal information about you. We may place a text file called a cookie in the browser files of your computer when you visit. The cookie may be stored on your computer�s hard drive. The information that we collect using cookies is non-personal information. US Government Information Bulletin (I-034) contains a good description of cookie technology at: http://www.ciac.org/ciac/bulletins/i-034.shtml. You are always free to decline our cookies if your browser permits, but some parts of our web site may not work properly for you if you do so. We will not allow third parties to place cookies on our web site.
 
 **What Does LOOKINGYOURBEST.COM Do with Non-personal Information?**
 
@@ -146,5 +148,3 @@ Telephone: 800-873-9062
 E-mail: [webmaster@lookingyourbest.com](mailto:webmaster@lookingyourbest.com)
 
 | 
-
-[](http://ad.doubleclick.net/clk;222375406;46047517;e)
