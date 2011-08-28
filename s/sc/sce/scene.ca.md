@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scene.ca privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211181629id_/http%3A//www.scene.ca/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scene.ca privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828043204id_/https%3A//www.scene.ca/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SCENE - Privacy Policy
 
@@ -21,11 +21,11 @@ Your personal information will not be collected, used or disclosed without your 
   * Your enrollment in SCENE;
   * Online and electronic activity with Scene LP;
   * Telephone, paper and online surveys and contests; and,
-  * Your use of your SCENE membership card and SCENE™ ScotiaCard™* and SCENE VISA* card issued by Scotiabank.
+  * Your use of your SCENE membership card and SCENE™ _ScotiaCard_ ◊ and SCENE VISA* card issued by Scotiabank.
 
 
 
-The personal information we collect includes your name, mailing address, home telephone number and e-mail address. We ask for your birth date to verify eligibility for SCENE and to facilitate the automatic connection and/or enrollment of your Scene membership account to your Scene ScotiaCard and/or Scene Visa card. We also ask you to choose a password to verify your identity, and a unique question related to your password. We may also ask for your cell number and secure messaging service number, but providing this information is optional. We will disclose your name, email address, postal code, birth date and home telephone number to Scotiabank for the purpose of connecting your Scene membership account with your Scene ScotiaCard and/or Scene Visa card. 
+The personal information we collect includes your name, mailing address, home telephone number and e-mail address. We ask for your birth date to verify eligibility for SCENE and to facilitate the automatic connection and/or enrollment of your Scene membership account to your Scene _ScotiaCard_ and/or Scene Visa card. We also ask you to choose a password to verify your identity, and a unique question related to your password. We may also ask for your cell number and secure messaging service number, but providing this information is optional. We will disclose your name, email address, postal code, birth date and home telephone number to Scotiabank for the purpose of connecting your Scene membership account with your Scene _ScotiaCard_ and/or Scene Visa card. 
 
 We may collect additional information from you to create a member profile including marital status, number of people in household, household income, gender, education, home language, movie-going preferences and information that identifies you as an existing Scotiabank customer, if applicable. Providing this information is optional. We do not collect the personal information of individuals under 14 years of age and only collect a limited amount of personal information from Members who are under the age of majority in the province in which they reside. For further details on this matter please see the SCENE Terms and Conditions available at [www.scene.ca](http://www.scene.ca/) . 
 
@@ -46,11 +46,11 @@ We do not provide directly all the services related to your relationship with us
 
 You agree that we may use, disclose to and collect from credit bureaus or financial service industry databases, credit and other information about you in order to offer you pre-approved credit products . You may withdraw your consent at any time by giving us reasonable notice. 
 
-### SCENE ScotiaCards from Scotiabank
+### SCENE _ScotiaCard_ s from Scotiabank
 
-Eligible SCENE Members will be entitled to apply for the SCENE _ScotiaCard_ banking card or SCENE™ VISA* credit card issued by Scotiabank.
+Eligible SCENE Members will be entitled to apply for the SCENE __ScotiaCard__ banking card or SCENE™ VISA* credit card issued by Scotiabank.
 
-The SCENE _ScotiaCard_ banking card and SCENE VISA credit card are subject to separate Terms and Conditions, and a separate application must be completed to enroll for these cards. These documents can be found on the [www.scene.ca](http://www.scene.ca/) website. The SCENE _ScotiaCard_ banking card and SCENE VISA credit card are subject to the Scotiabank Group Privacy Agreement, which is available on the Scotiabank website at [www.scotiabank.com](http://www.scotiabank.com/).
+The SCENE __ScotiaCard__ banking card and SCENE VISA credit card are subject to separate Terms and Conditions, and a separate application must be completed to enroll for these cards. These documents can be found on the [www.scene.ca](http://www.scene.ca/) website. The SCENE __ScotiaCard__ banking card and SCENE VISA credit card are subject to the Scotiabank Group Privacy Agreement, which is available on the Scotiabank website at [www.scotiabank.com](http://www.scotiabank.com/).
 
 ### Consent
 
@@ -102,8 +102,10 @@ If you have a general question or you have a concern regarding this Policy or wo
 
 Last revised May 2008.
 
-© 2007 Scene LP
+© 2010 Scene LP
 
-™ Trademarks of The Bank of Nova Scotia or Scene LP.
+™ Trademark of SCENE IP LP.
+
+◊ Registered Trademark of the Bank of Nova Scotia, used under license.
 
 * VISA Int./Lic. user The Bank of Nova Scotia.
