@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickcompare.co.uk privacy policy that was archived on 2010-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100715230258id_/http%3A//www.clickcompare.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickcompare.co.uk privacy policy that was archived on 2011-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110829204017id_/http%3A//life.clickcompare.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Click Compare - The UK's largest brokerage
 
@@ -6,7 +6,7 @@ The Data Protection Act requires us to tell you how we collect and use data abou
 
 We collect personal information about you from different sources including the details you provide through this website and over the telephone. This information will be needed to provide you with the service you have requested. When dealing with your request we may contact you by post, telephone, email and SMS text.
 
-We may need to disclose your personal information to third parties such as other members of the Click Group, other brokers, insurance companies and lenders in order to process any policy or loan you require. We may also provide your personal details to regulatory bodies if legally required to do so.
+We may need to disclose your personal information to third parties such as other members of the Tuscarora Group, other brokers, insurance companies and lenders in order to process any policy or loan you require. We may also provide your personal details to regulatory bodies if legally required to do so.
 
 Unless you ask otherwise, we will retain your details and may also send you emails about products and services that we can offer. We will always give you the choice of whether to opt out of these emails.
 
