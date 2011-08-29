@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worryfreetraffic.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211234900id_/http%3A//worryfreetraffic.com/wftprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worryfreetraffic.com privacy policy that was archived on 2011-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110829024812id_/http%3A//worryfreetraffic.com/wftprivacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
