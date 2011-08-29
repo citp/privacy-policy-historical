@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cfagbata.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404051643id_/http%3A//cfagbata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfagbata.com privacy policy that was archived on 2011-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110829101647id_/http%3A//cfagbata.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Going Green Tips | Business Opportunities
+# » Privacy Policy
 
-#### You are most welcome to cfagbata.com, also Creating Fresh Awareness (the “Site”).
+#### You are most welcome to cfagbata.com, also Green Business (the “Site”).
 
 We understand that privacy online is important to users of our Site and this policy governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by cfagbata.com (collectively, “Services”) (“Authorized Customers”).
 
@@ -18,7 +18,7 @@ cfagbata.com will never ask for Credit Card details and request that you **Do No
 
 **External Sites**
 
-cfagbata.com is not responsible for the content of external Internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+cfagbata.com is not responsible for the content of external Internet sites. You are advised to read the _privacy policy_ of external sites before disclosing any personal information.
 
 **Cookies**
 
@@ -32,7 +32,7 @@ A “cookie” is a small data text file that is placed in your browser and allo
   * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet.
 
 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network _privacy policy_.
 
 
 
@@ -54,4 +54,4 @@ Please reach **** those webmasters and others directly if you have any questions
 
 cfagbata.com reserves the right to change, modify or update this policy at any time without notice. Any substantial changes in the way we use your personal information will be posted on this site.
 
-For any other information, please **[contact](http://cfagbata.com/contact/ "contact") **us.
+For any other information, please **contact** us.
