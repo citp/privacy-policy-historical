@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemakemoneyadvice.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509013403id_/http%3A//www.freemakemoneyadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemakemoneyadvice.com privacy policy that was archived on 2011-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110830023335id_/http%3A//www.freemakemoneyadvice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FREE MAKE MONEY ADVICE
 
@@ -24,7 +24,7 @@ As is true of most websites, we gather certain information automatically and sto
 **Cookies**  
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers & [Links](http://www.freemakemoneyadvice.com/links/ "Links").” This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers. [See the “Third Party Advertisers” section.]
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers & Links.” This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers. [See the “Third Party Advertisers” section.]
 
 **Third Party Advertisers Links  
 **Our websites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. While we may use cookies in some parts of our website, cookies received with advertisements on our website are collected by the respective advertising companies, and we do not possess access to or control of such information gathered.
