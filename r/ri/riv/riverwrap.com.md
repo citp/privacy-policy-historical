@@ -1,34 +1,37 @@
-> *The following text is extracted and transformed from the riverwrap.com privacy policy that was archived on 2010-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100512230600id_/http%3A//www.riverwrap.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverwrap.com privacy policy that was archived on 2011-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110830185302id_/http%3A//yardandgardens.com/about/privacy-policy) for the most accurate reproduction.*
 
-# RiverWrap.com - privacy policy
+# Privacy Policy | Organic Lawn and Yard Care
 
-## Privacy Policy
+This website/blog uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit Google’s Advertising and Privacy page.
 
-**Introduction**
+If you wish to opt out of Advertising companies tracking and tailoring advertisements to your surfing patterns you may do so at Network Advertising Initiative.
 
-We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.   
+Google uses the Doubleclick DART cookie to serve ads across it’s Adsense network and you can get further information regarding the DART cookie at Doubleclick as well as opt out options at Google’s Privacy Center
 
+Privacy
 
-**Website Administration**
+I respect your privacy and I am committed to safeguarding your privacy while online at this site yardandgardens.com The following discloses how I gather and disseminate information for this Blog.
 
-Prosper Creative Media   
-920 20th Street, Suite 125   
-Sacramento, CA 95814   
-USA   
-Collected Information 
+RSS Feeds and Email Updates
 
-We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.
+If a user wishes to subscribe to my RSS Feeds or Email Updates, I ask for contact information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by me – ever)
 
-The information we collect regarding visitor behavior is used only for the purpose of improving the content of our Web site. This site also uses cookies, which enables us to better store data about a visitor's use of the site, so that we can enhance future visits to the site.
+Log Files and Stats
 
-**Confilct Resolution**
+Like most blogging platforms I use log files, in this case Google Analytics. This stores information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information.
 
-We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact us by email or telephone.
+Cookies
 
-**Changes to this Policy**
+A cookie is a piece of data stored on the user’s computer tied to information about the user. This blog doesn’t use cookies. However, some of my business partners use cookies on this site (for example – advertisers). I can’t access or control these cookies once the advertisers have set them.
 
-As policies improve or change, we will revise this policy. Refer back to this page often for the latest information and the effective date of any changes. If any changes are made to our privacy practices, we will post updates on this page. 
+Links
 
-**Contact Information**
+This Blog contains links to other sites. Please be aware that I am not responsible for the privacy practices of these other sites. I suggest my users to be aware of this when they leave this blog and to read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies solely to information collected by this Blog.
 
-If site users have any questions or suggestions regarding this website or our privacy policy, please contact [zach@prospercreative.com](mailto:zach@prospercreative.com?Subject=RiverWrap.Com).
+Advertisers
+
+I use outside ad companies to display ads on this blog. These ads may contain cookies and are collected by the advertising companies and I do not have access to this information.  Please check the advertisers websites for respective privacy policies.
+
+Contact Information
+
+If you have any questions or concerns please contact me on my contact page. This privacy policy updated February 2010
