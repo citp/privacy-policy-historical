@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eetimes.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630153154id_/http%3A//legal.us.ubm.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetimes.com privacy policy that was archived on 2011-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110830131446id_/http%3A//legal.us.ubm.com/privacy-notice) for the most accurate reproduction.*
 
-# UBM - United Business Media LLC Privacy Notice
+# UBM - UBM LLC Privacy Notice
 
 Effective: January 4th, 2009 
 
 ## Scope
 
-United Business Media LLC (“UBM” or "we")operates through four separate divisions: [Everything Channel](http://everythingchannel.com/)™; [UBM Electronics](http://electronics.ubm.com/)™; [UBM TechWeb](http://www.ubmtechweb.com/)™; and [UBM Studios](http://www.ubmstudios.com/)™.  Each division focuses on the needs of a specific community of technology professionals or other specialized community with shared interests and responsibilities.
+UBM LLC (“UBM” or "we")operates through four separate divisions: [Everything Channel](http://everythingchannel.com/)™; [UBM Electronics](http://electronics.ubm.com/)™; [UBM TechWeb](http://www.ubmtechweb.com/)™; and [UBM Studios](http://www.ubmstudios.com/)™.  Each division focuses on the needs of a specific community of technology professionals or other specialized community with shared interests and responsibilities.
 
 This Privacy Notice covers information which you give any of the four divisions about yourself and your professional background as you register for or attend our face-to-face events around the world, as you visit or participate in any of our web sites or online venues hosted on servers in the United States, or subscribe to any of our print publications distributed in the United States, or volunteer information in any social media context. We will post or display a link to this UBM Privacy Notice on all forms and all online pages to which it is applicable.
 
@@ -62,7 +62,7 @@ You have a choice about and control over:
 
 
 
-**Whether your account information is up to date.** Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please check the United Business Media LLC information (the “masthead”) inside the print publication. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
+**Whether your account information is up to date.** Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please check the UBM LLC information (the “masthead”) inside the print publication. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
 
 ## More Information About Cookies
 
@@ -84,7 +84,7 @@ You will still be able to log on to a gated community if you decline or delete o
 
 **Third party advertising cookies.** We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
 
-  * The divisions of United Business Media LLC currently allow the following third party ad servers to serve ads on our web pages: the [BBN Business to Business Network, Inc.](http://bbnnetworks.com/), powered by [24/7 RealMedia Inc.](http://www.247realmedia.com/EN-US/); [Bizo, Inc.](http://www.bizo.com/home); [Conductor](http://www.conductor.com/); [Google AdSense](http://www.google.com/privacy_ads.html); [Intergi, Inc. ](http://www.intergi.com/)(an ad network for online games and entertainment);  [Microsoft](http://privacy.microsoft.com/en-us/fullnotice.mspx#EIG); [Marchex, Inc.](http://www.marchex.com/); [Platform A’s Behavioral Targeting](http://www.platform-a.com/privacy-policy), powered by Tacoda; [ScanScout Inc.](http://www.scanscout.com/privacy-policy.php); and [Tribal Fusion/Exponential Interactive, Inc. ](http://www.tribalfusion.com/)Some companies, such as Google Adsense, may offer additional choices about your preferences. Please visit each of their websites for more information about the technologies they use and their privacy practices.
+  * The divisions of UBM LLC currently allow the following third party ad servers to serve ads on our web pages: the [BBN Business to Business Network, Inc.](http://bbnnetworks.com/), powered by [24/7 RealMedia Inc.](http://www.247realmedia.com/EN-US/); [Bizo, Inc.](http://www.bizo.com/home); [Conductor](http://www.conductor.com/); [Google AdSense](http://www.google.com/privacy_ads.html); [Intergi, Inc. ](http://www.intergi.com/)(an ad network for online games and entertainment);  [Microsoft](http://privacy.microsoft.com/en-us/fullnotice.mspx#EIG); [Marchex, Inc.](http://www.marchex.com/); [Platform A’s Behavioral Targeting](http://www.platform-a.com/privacy-policy), powered by Tacoda; [ScanScout Inc.](http://www.scanscout.com/privacy-policy.php); and [Tribal Fusion/Exponential Interactive, Inc. ](http://www.tribalfusion.com/)Some companies, such as Google Adsense, may offer additional choices about your preferences. Please visit each of their websites for more information about the technologies they use and their privacy practices.
   * Many of the third party ad serving companies that serve ads to our websites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/).
 
 
@@ -97,7 +97,7 @@ We reserve the right to disclose information about you to third parties in certa
 
 ## Important Information
 
-United Business Media LLC is a subsidiary of [United Business Media Limited](http://www.ubm.com/).
+UBM LLC is a subsidiary of [UBM plc](http://www.ubm.com/).
 
 We collect and process information on servers around the world.
 
@@ -119,7 +119,7 @@ For questions about this privacy Notice, please contact:
 
 [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com?subject=From%20UBMTechnology.com--), or
 
-United Business Media LLC   
+UBM LLC   
 Attn: UBM Legal  
 240 West 35th Street   
 New York, New York, 10001
