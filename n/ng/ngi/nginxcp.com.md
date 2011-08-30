@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nginxcp.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630082338id_/http%3A//nginxcp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nginxcp.com privacy policy that was archived on 2011-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110830034501id_/http%3A//nginxcp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NginxCP.com
 
