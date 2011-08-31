@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizdesign.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512044944id_/http%3A//www.bizsecure.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizdesign.com privacy policy that was archived on 2011-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110831200929id_/http%3A//www.bizsecure.com/policies/privacy) for the most accurate reproduction.*
 
 # BizSecure : Privacy Policy
 
