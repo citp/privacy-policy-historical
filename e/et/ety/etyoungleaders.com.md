@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etyoungleaders.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502023429id_/http%3A//www.etyoungleaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etyoungleaders.com privacy policy that was archived on 2011-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110831150958id_/http%3A//etyoungleaders.com/privacy-policy) for the most accurate reproduction.*
 
 # ETYL - Privacy Policy
 
