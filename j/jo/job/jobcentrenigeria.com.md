@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobcentrenigeria.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607122314id_/http%3A//www.jobcentrenigeria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcentrenigeria.com privacy policy that was archived on 2011-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110831222905id_/http%3A//www.jobcentrenigeria.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobs in Nigeria - Latest Jobs in Nigeria, Recruitment Employment In Nigeria
+# Privacy Policy — Jobcentre Nigeria
 
 This website uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit **[Google’s Advertising and Privacy](http://www.google.com/privacy_ads.html)** page.
 
@@ -34,4 +34,4 @@ _**Contact Information**_
 
 If you have any questions or concerns please contact  ** _[admin@jobcentrenigeria.com](mailto:admin@jobcentrenigeria.com)._**
 
-This privacy policy updated April 2009
+This privacy policy updated April 2009 
