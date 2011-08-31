@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metricstream.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625004021id_/http%3A//www.metricstream.com/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metricstream.com privacy policy that was archived on 2011-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110831072527id_/http%3A//www.metricstream.com/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # MetricStream Privacy Policy - MetricStream
 
