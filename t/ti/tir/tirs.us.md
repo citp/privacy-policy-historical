@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tirs.us privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501102743id_/http%3A//www.tirs.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirs.us privacy policy that was archived on 2011-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110831055108id_/http%3A//tirs.us/privacy.php) for the most accurate reproduction.*
 
 # TIRS.us Telephony Investigator's Research System | Phone Number Lookup
 
