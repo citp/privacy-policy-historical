@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesib.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501131914id_/http%3A//www.gamesib.com/page/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesib.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902015946id_/http%3A//www.gamesib.com/page/3.html) for the most accurate reproduction.*
 
 # Online games - Play Free Games Online - Privacy Policy
 
