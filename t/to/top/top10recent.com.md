@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top10recent.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419004829id_/http%3A//top10recent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10recent.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901160258id_/http%3A//top10recent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Top 10 Recent
+# Privacy Policy | Top Ten Lists - Top 10 Lists - Top 10 Recent
 
 This privacy policy is for both top10recent.com-
 
