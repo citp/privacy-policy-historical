@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spydermate.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127201440id_/http%3A//spydermate.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydermate.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901223044id_/http%3A//spydermate.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpyderMate™
 
