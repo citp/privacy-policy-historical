@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paiskincare.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515202526id_/http%3A//www.paiskincare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paiskincare.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901214227id_/http%3A//www.paiskincare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Pai Skincare, Organic Skin Care for Sensitive Skin
 
