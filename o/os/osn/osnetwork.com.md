@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osnetwork.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190113id_/http%3A//www.osnetwork.com/privacy_en_gb.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osnetwork.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901230119id_/http%3A//www.osnetwork.com/privacy_en_gb.aspx) for the most accurate reproduction.*
 
 # OSN - Orbit Showtime Network -
 
