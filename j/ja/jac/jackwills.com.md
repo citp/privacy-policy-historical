@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackwills.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213084426id_/http%3A//jackwills.com/Jack/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackwills.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902013620id_/http%3A//www.jackwills.com/Jack/Privacy.aspx) for the most accurate reproduction.*
 
 # Jack Wills | University Outfitters
 
