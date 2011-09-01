@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the osnetwork.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120190113id_/http%3A//www.osnetwork.com/privacy_en_gb.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the osnetwork.com privacy policy that was archived on 2011-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110901230119id_/http%3A//www.osnetwork.com/privacy_en_gb.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<title>OSN - Orbit Showtime Network - </title>
@@ -21,7 +21,7 @@
 		<script type="text/javascript" src="/$Common/Javascript/jquery.suggest.js"></script>
 		<script type="text/javascript" src="/$Common/Javascript/QuickSearch.js"></script>
 
-	<style type="text/css" media="screen">#TopBanner {visibility:hidden}#TopBanner {visibility:hidden}</style><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+	<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 	<body>
 
 <div id="MainContainer">
@@ -56,67 +56,152 @@ function roll_over(img_name, img_src)
         <img src="/$Common/Image/Content/STNew2/Content/OSN/Login_BtnBG_en_gb.gif" name="Login1"></a></span></li>
     <li><span id="OSNRegister"><a href="https://customer.osnetwork.com/Register_en_gb.aspx" onmouseover="roll_over('Reg1', '/$Common/Image/Content/STNew2/Content/OSN/Register_BtnOver_en_gb.gif')" onmouseout="roll_over('Reg1', '/$Common/Image/Content/STNew2/Content/OSN/Register_Btn_en_gb.gif')">
         <img src="/$Common/Image/Content/STNew2/Content/OSN/Register_Btn_en_gb.gif" name="Reg1"></a></span></li>
-    <li><span id="OSNLogo"></span></li>
-            <!--Header Banner-->
-            <li id="TopBannerCont">
-           <script type="text/javascript" src="/$Common/Javascript/swfobject.js"></script>
-           <script type="text/javascript" src="/$Common/Javascript/EPLDefault.js"></script>
-           <script type="text/javascript">
-           swfobject.registerObject("TopBanner", "8");
-           var RandomNumber = GetRandom();
-           </script> 
-	        <script type="text/javascript">
-            swfobject.embedSWF("/$Common/Flash/hdr_nelly.swf", "TopBanner", "260", "93", "9.0.0","expressInstall.swf");
-            </script> 
-            <div id="TopBanner" style="visibility: visible;">
-             <!--<a href="http://www.macromedia.com/go/getflash/" target="_blank">-->
-             <a href="//www.osnetwork.com/Announcements/NellyFurtado_en_gb.aspx" target="_self">
-             <img border="0" src="/$Common/Image/Generic/hdr_banner.gif" alt=""> </a>
-            </div>	            
-            </li>
-            <!--Header Banner-->
+    <li><a href="http://www.osnetwork.com"><span id="OSNLogo"></span></a></li>
+
+
+
     <li><span id="OSNSearch">
         <!--<input name="SearchBox" id="OSNSearchBox" type="text"/><input type="image" id="OSNSearchBoxImg" src="/$Common/Image/Content/STNew2/Content/OSN/Search_Btn_en_gb.gif"/>-->
         
-<form method="post" action="/Search_en_gb.aspx">
-<script langauge="javascript">
-function redir(){
-window.location = "/onlineguide/schedules/advancesearch_en_gb.aspx";
-}
-</script>
-<fieldset>
-	<ul>
-		<li id="OHeader1_Search_liSiteSearch" style="display:none;" class="Active">
-			<label for="Site" class="SearchSite"></label>
-			<input id="Site" name="SearchMode" class="Radio" type="radio" value="" checked="checked">
-		</li>
-		<li id="OHeader1_Search_liProgramSearch" style="display:none;">
-			<label for="Programmes" class="SearchProgrammes"></label>
-			<input id="Programmes" name="SearchMode" class="Radio" type="radio" value="">
-		</li>
-	</ul>
-	<input style="display:none;" class="SearchInput" id="SearchInput" name="SearchInput" type="text" maxlength="255" value=""><script type="text/javascript"> var searchKey = '' ;</script>
-	<input style="display:none;" class="SearchButton" type="image" src="/$Common/Image/Button/SearchOk_en_gb.gif" alt="OK" value="Search">
-<a href="/onlineguide/schedules/advancesearch_en_gb.aspx" onmouseover="roll_over('Search1', '/$Common/Image/Button/SearchOkOver_en_gb.gif')" onmouseout="roll_over('Search1', '/$Common/Image/Button/SearchOk_en_gb.gif')"><img class="SearchButton" src="/$Common/Image/Button/SearchOk_en_gb.gif" alt="Search" style="cursor:hand" name="Search1"></a>
-</fieldset>
-</form></span></li>
-    <li><span id="OSNSwitchBtn"><a href="/privacy_ar_ae.aspx" onmouseover="roll_over('Switch1', '/$Common/Image/Content/STNew2/Content/OSN/Arabic_BtnOver_en_gb.gif')" onmouseout="roll_over('Switch1', '/$Common/Image/Content/STNew2/Content/OSN/Arabic_Btn_en_gb.gif')">
-        <img src="/$Common/Image/Content/STNew2/Content/OSN/Arabic_Btn_en_gb.gif" alt="Switch" name="Switch1"></a></span></li>
+<a href="/onlineguide/schedules/advancesearch_en_gb.aspx" onmouseover="roll_over('Search1', '/$Common/Image/Button/SearchOkOver_en_gb.gif')" onmouseout="roll_over('Search1', '/$Common/Image/Button/SearchOk_en_gb.gif')">
+    <img class="SearchButton" src="/$Common/Image/Button/SearchOk_en_gb.gif" alt="Search" style="cursor: hand" name="Search1"></a> </span></li>
+    <li><form id="Form1">
+    <script type="text/javascript">
+    function chklang99()
+    {
+        var sel = document.forms[0].lang;
+        var currenturl = location.href;
+        if (sel.options[sel.selectedIndex].value == "AR") {
+            currenturl = currenturl.replace(/en_gb/ig, "ar_ae");
+            var compareurl = location.href;
+            if (compareurl == currenturl)
+                window.location = "http://www.osnetwork.com/default_ar_ae.aspx";
+            else
+                window.location = currenturl;
+        }
+        else 
+        {
+            currenturl = currenturl.replace(/ar_ae/ig, "en_gb");
+            window.location = currenturl;
+        }
+    }
+    </script>
+    <span id="OSNSwitchBtn"><span id="OSNSwitchLabel">Language</span><br>   
+    <select id="lang" onchange="chklang99()">
+    <option value="EN" selected="selected">English</option>
+    <option value="AR">عربي</option>
+    </select></span>
+    </form>
+        </li>
 </ul>
 <ul id="OSNTM">
+    
+    <li id="flows">
+﻿<div id="Page11">
+  <div id="leftcorner">
+  </div>
+  <div id="dropdown">
+    <ul>
+      <li id="sep">
+      </li>
+      <li>
+        <a href="/default_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        <ul>
+        </ul>
+      </li>
+      <li id="sep">
+      </li>
+      <li>
+        <a href="/onlineguide/default_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TV Guide&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        <ul>
+          <li>
+            <a href="/onlineguide/highlights/default_en_gb.aspx">Highlights</a>
+          </li>
+          <li>
+            <a href="/onlineguide/schedules/default_en_gb.aspx">Schedules</a>
+          </li>
+          <li>
+            <a href="/onlineguide/guide_en_gb.aspx">September TV Guide</a>
+          </li>
+        </ul>
+      </li>
+      <li id="sep">
+      </li>
+      <li>
+        <a href="/topseries/default_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top Series&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        <ul>
+          <li>
+          </li>
+          <li>
+          </li>
+          <li>
+          </li>
+          <li>
+          </li>
+          <li>
+          </li>
+          <li>
+          </li>
+          <li>
+          </li>
+          <li>
+          </li>
+        </ul>
+      </li>
+      <li id="sep">
+      </li>
+      <li>
+        <a href="/contact_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        <ul>
+        </ul>
+      </li>
+      <li id="sep">
+      </li>
+      <li>
+        <a href="/packages_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        <ul>
+        </ul>
+      </li>
+      <li id="sep">
+      </li>
+      <li>
+        <a href="/subscribe/default_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subscribe Now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        <ul>
+        </ul>
+      </li>
+      <li id="sep">
+      </li>
+    </ul>
+  </div>
+  <div id="rightcorner">
+  </div>
+</div>
+    </li>
     <li id="OSNTicker">
         
 
 
 	<div id="newsFeedContainer" class="NewsFeedContainer">
-		<div id="scrollTicker" style="width: 1308px; left: 1115px;">
+		<div id="scrollTicker" style="width: 612px; left: 1043px;">
 			
 					<span id="NewsHolder" class="newsContentHolder">
 						<span id="temp">
 				
 					<span class="newsHeader">
-						<a href="http://www.osnetwork.com/Announcements/NellyFurtado_en_gb.aspx">
-						Win tickets to Nelly Furtado Live in concert, Abu Dhabi on Nov 26th
+						<a href="http://www.osnetwork.com/onlineguide/sep/index.html">
+						September TV Guide
+					</a>
+					</span>					
+				
+					<span class="newsHeader">
+						<a href="http://www.osnetwork.com/Announcements/golfingworld_en_gb.aspx">
+						Golfing World - Video Highlights
+					</a>
+					</span>					
+				
+					<span class="newsHeader">
+						<a href="http://www.emirates.com/ae/english/destinations_offers/subscribe_to_offers/campaigns/rugby_world_cup_2011_with_emirates/rugby_world_cup_2011_with_emirates.aspx">
+						Emirates Flagbearer Competition
 					</a>
 					</span>					
 				
@@ -127,38 +212,14 @@ window.location = "/onlineguide/schedules/advancesearch_en_gb.aspx";
 					</span>					
 				
 					<span class="newsHeader">
-						<a href="http://www.osnetwork.com/onlineguide/nov/index.html">
-						November TV Guide
+						<a href="http://www.osnetwork.com/Announcements/iphone_en_gb.aspx">
+						MY OSN launches free on iPhone, iPad &amp; iPod touch
 					</a>
 					</span>					
 				
 					<span class="newsHeader">
-						<a href="http://www.osnetwork.com/Announcements/travel_comp_en_gb.aspx">
-						Our 10 winners names with OSN &amp; Travel Channel
-					</a>
-					</span>					
-				
-					<span class="newsHeader">
-						<a href="http://www.osnetwork.com/Announcements/HDchannels_en_gb.aspx">
-						12 HD channels exclusively on OSN - Orbit Showtime Network
-					</a>
-					</span>					
-				
-					<span class="newsHeader">
-						<a href="http://www.osnetwork.com/Announcements/SkyNewsHD_en_gb.aspx">
-						Sky News HD launches on OSN 
-					</a>
-					</span>					
-				
-					<span class="newsHeader">
-						<a href="http://www.osnetwork.com/Announcements/HD_req_en_gb.aspx ">
-						Requirements to receive HD
-					</a>
-					</span>					
-				
-					<span class="newsHeader">
-						<a href="http://www.osnetwork.com/Announcements/samsungtv_en_gb.aspx">
-						Abdullatif Al-Omair from KSA is the winner of a Samsung HD 3D LED TV!
+						<a href="http://www.osnetwork.com/Announcements/galleries_en_gb.aspx">
+						Be seen on OSN
 					</a>
 					</span>					
 				
@@ -209,97 +270,6 @@ window.location = "/onlineguide/schedules/advancesearch_en_gb.aspx";
 </script>
                 
     </li>
-    <li id="flows">
-﻿<div id="Page11">
-  <div id="leftcorner">
-  </div>
-  <div id="dropdown">
-    <ul>
-      <li id="sep">
-      </li>
-      <li>
-        <a href="/default_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        <ul>
-        </ul>
-      </li>
-      <li id="sep">
-      </li>
-      <li>
-        <a href="/onlineguide/default_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TV GUIDE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        <ul>
-          <li>
-            <a href="/onlineguide/highlights/default_en_gb.aspx">Highlights</a>
-          </li>
-          <li>
-            <a href="/onlineguide/schedules/default_en_gb.aspx">Schedules</a>
-          </li>
-          <li>
-            <a href="/onlineguide/trailer/default_en_gb.aspx">Movies A-Z</a>
-          </li>
-          <li>
-            <a href="/onlineguide/guide_en_gb.aspx">November TV Guide</a>
-          </li>
-        </ul>
-      </li>
-      <li id="sep">
-      </li>
-      <li>
-        <a href="/topseries/default_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top Series&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        <ul>
-          <li>
-          </li>
-          <li>
-          </li>
-          <li>
-          </li>
-          <li>
-          </li>
-          <li>
-          </li>
-          <li>
-          </li>
-          <li>
-          </li>
-        </ul>
-      </li>
-      <li id="sep">
-      </li>
-      <li>
-        <a href="/contact_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        <ul>
-        </ul>
-      </li>
-      <li id="sep">
-      </li>
-      <li>
-        <a href="/packages_en_gb.aspx" id="first">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        <ul>
-        </ul>
-      </li>
-      <li id="sep">
-      </li>
-      <li>
-        <object height="30" width="125" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
-          <param value="/Subscribe/but_subscribe.swf" name="movie">
-          <param value="false" name="menu">
-          <param value="always" name="allowscriptaccess">
-          <param value="high" name="quality">
-          <param value="noscale" name="scale">
-          <param value="transparent" name="wmode">
-          <embed height="30" width="125" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" swliveconnect="false" allowscriptaccess="always" scale="noscale" wmode="transparent" quality="high" menu="false" src="/Subscribe/but_subscribe.swf">
-          
-        </object>
-        <ul>
-        </ul>
-      </li>
-      <li id="sep">
-      </li>
-    </ul>
-  </div>
-  <div id="rightcorner">
-  </div>
-</div>
-    </li>
 </ul>   
     <!--OSN Header Control-->
 
@@ -342,13 +312,13 @@ window.location = "/onlineguide/schedules/advancesearch_en_gb.aspx";
 //<![CDATA[
 document.write("<scr" + "ipt type=\"text/javascript\" src=\"/Advertiser/Delivery/serve.ashx?p=208458&n=" + Math.random() + "\"></scr" + "ipt>");
 //]]>
-</script><script type="text/javascript" src="/Advertiser/Delivery/serve.ashx?p=208458&amp;n=0.8678702365299962"></script> <!--Banner Left 362x93--></td>
+</script><script type="text/javascript" src="/Advertiser/Delivery/serve.ashx?p=208458&amp;n=0.26756696943004354"></script> <!--Banner Left 362x93--></td>
                             <td width="15" valign="top">&nbsp;</td>
                             <td width="522" valign="top"><!--Banner Right 522x93--> <script type="text/javascript">
 //<![CDATA[
 document.write("<scr" + "ipt type=\"text/javascript\" src=\"/Advertiser/Delivery/serve.ashx?p=208459&n=" + Math.random() + "\"></scr" + "ipt>");
 //]]>
-</script><script type="text/javascript" src="/Advertiser/Delivery/serve.ashx?p=208459&amp;n=0.7022209003037843"></script> <!--Banner Right 522x93--></td>
+</script><script type="text/javascript" src="/Advertiser/Delivery/serve.ashx?p=208459&amp;n=0.7458189142303688"></script> <!--Banner Right 522x93--></td>
                           </tr>
                         </tbody></table>
                         </td>
@@ -361,15 +331,7 @@ document.write("<scr" + "ipt type=\"text/javascript\" src=\"/Advertiser/Delivery
             
             			
             
-<script> 
-function pop(file,width,height,scroll,left,top)
-{
-if(scroll==null)
-scroll='no';
-atrib='left='+left+',top='+left+',scrollbars='+scroll+',resizable='+scroll+',width='+width+',height='+height+',status=no,location=no,toolbar=no';
-popup=window.open(file,'orb',atrib);
-}
-</script>
+
 <div id="Footer">
 	    <ul id="Navigation2">
 		    <li><a href="/terms_en_gb.aspx">Terms &amp; Conditions</a><span id="footSep">|</span></li>
@@ -384,7 +346,7 @@ popup=window.open(file,'orb',atrib);
       
 		    <li><a href="http://www.osnetwork.com/press_en_gb.aspx" onclick="javascript:(window.open(this.href));return false;">Press Site</a><span id="footSep">|</span></li>
             
-            <li><a href="javascript:pop('http://www.osnetwork.com/mediasales/sales.html',885,652,'no','auto','auto');">AD SALES</a><span id="footSep">|</span></li>
+           
 
 		    <li><a href="/contact_en_gb.aspx">Contact Us</a><span id="footSep">|</span></li>
       
@@ -393,7 +355,7 @@ popup=window.open(file,'orb',atrib);
 		    <li class="AlignRight"><a href="/country_en_gb.aspx">Change Country</a></li>
 	    </ul>
 	    <ul id="Copyright">
-		    <li>© Panther Media Group Limited 2010.</li>
+		    <li>© Panther Media Group Limited 2011.</li>
 		    <li>All rights reserved</li>
 	    </ul>
 	</div>
@@ -408,22 +370,14 @@ popup=window.open(file,'orb',atrib);
         {
         }
         //--><!]]></script>
-        <!--ONESTAT SCRIPTCODE START-->
+        
   <script type="text/javascript">
   <!--
   // Account ID : 199385
   // Website URL: http://www.showtimearabia.com
   // Copyright (C) 2002-2004 OneStat.com All Rights Reserved 
   OneStat_Pageview();
-  //-->
-  </script><a href="https://web.archive.org/web/20120722012728/http://www.onestat.com/aspx/login.aspx?sid=199385" target="_blank"><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=199385&amp;url=https%3A//web.archive.org/web/20101120190113id_/http%253A//www.osnetwork.com/privacy_en_gb.aspx&amp;ti=OSN%20-%20Orbit%20Showtime%20Network%20-&amp;section=&amp;custom=&amp;rf=&amp;tz=0&amp;ch=4&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No"></a>
-  <noscript>
-  <div><a href="http://www.onestat.com/aspx/login.aspx?sid=199385"><img width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=199385&amp;js=No&amp;" alt=""  /></a></div>
-  </noscript>
-  <!--ONESTAT SCRIPTCODE END-->
-  
-  <!-- GOOGLE ANALYTICS CODE START -->
-  <script type="text/javascript">
+
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-8290024-2'],
     ['_setDomainName', 'osnetwork.com']);
@@ -436,8 +390,13 @@ popup=window.open(file,'orb',atrib);
         ga.setAttribute('async', 'true');
         document.documentElement.firstChild.appendChild(ga);
     })();
-</script>  
-  <!-- GOOGLE ANALYTICS CODE END -->
+  //-->
+  </script><a href="https://web.archive.org/web/20120722012728/http://www.onestat.com/aspx/login.aspx?sid=199385" target="_blank"><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=199385&amp;url=https%3A//web.archive.org/web/20110901230119id_/http%253A//www.osnetwork.com/privacy_en_gb.aspx&amp;ti=OSN%20-%20Orbit%20Showtime%20Network%20-&amp;section=&amp;custom=&amp;rf=&amp;tz=0&amp;ch=4&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No"></a>
+  <noscript>
+  <div><a href="http://www.onestat.com/aspx/login.aspx?sid=199385"><img width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=199385&amp;js=No&amp;" alt=""  /></a></div>
+  </noscript>
+  
+
     
 
-<!-- {Country, Timestamp, Render time} = {hLYO+WezvYs=, 11/20/2010 7:01:15 PM, 15.625ms} --></body></html>
+</body></html>
