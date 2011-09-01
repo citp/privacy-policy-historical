@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexus.net privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612234853id_/http%3A//www.hexus.net/content/static/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexus.net privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901215655id_/http%3A//www.hexus.net/content/static/terms.php) for the most accurate reproduction.*
 
 # HEXUS.net : About Us
 
