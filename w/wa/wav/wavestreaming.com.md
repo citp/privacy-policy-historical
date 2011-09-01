@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavestreaming.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606170606id_/http%3A//www.wavestreaming.com/about/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavestreaming.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901202346id_/http%3A//www.wavestreaming.com/about/privacy-statement.php) for the most accurate reproduction.*
 
 # Wavestreaming Privacy Statement
 
@@ -18,6 +18,6 @@ Our parent company, Igniso Ltd is registered with the Information Commissioners 
 
 Wavestreaming reserves the right to make alterations to this document whenever we deem reasonable. It is the clients sole responsibility to check this document for updates on a regular basis.
 
-You may also review our [Terms and Conditions](https://web.archive.org/web/20110606170606id_/http%3A//www.wavestreaming.com/about/terms-and-conditions.php).
+You may also review our [Terms and Conditions](https://web.archive.org/web/20110901202346id_/http%3A//www.wavestreaming.com/about/terms-and-conditions.php).
 
 Last updated on 20th January 2009
