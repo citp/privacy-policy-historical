@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accelerator-media.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219054523id_/http%3A//www.accelerator-media.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accelerator-media.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901232019id_/http%3A//www.accelerator-media.com/privacy.html) for the most accurate reproduction.*
 
 # Targeted Advertising - Accelerator Media
 
