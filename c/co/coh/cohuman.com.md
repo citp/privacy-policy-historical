@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cohuman.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621032916id_/http%3A//cohuman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cohuman.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901222709id_/http%3A//www.cohuman.com/privacy) for the most accurate reproduction.*
 
 # cohuman
 
