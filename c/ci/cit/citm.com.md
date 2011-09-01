@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citm.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221092429id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citm.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902012357id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
 
 # Checks In The Mail - Online Privacy Policy
 
