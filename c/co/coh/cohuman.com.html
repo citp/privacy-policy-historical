@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the cohuman.com privacy policy that was archived on 2011-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621032916id_/http%3A//cohuman.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cohuman.com privacy policy that was archived on 2011-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110901222709id_/http%3A//www.cohuman.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>
       cohuman
     </title>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <link href="/icons/app_icon.png" rel="apple-touch-icon">
     <link href="/lib/jquery-ui/css/cohuman/jquery-ui-1.8.6.custom.css" rel="stylesheet" type="text/css">
     <meta content="7BLKjNMEV0jSt6ofx6Q59tHRlf1xtQdtPpT-edzvLTE" name="google-site-verification">
@@ -202,6 +203,12 @@ div.input {
   background: -webkit-gradient(linear, left top, left bottom, from(#82B700), to(#659600));
   background: -moz-linear-gradient(top,  #82B700,  #659600);
 }
+#new_search {
+  font-size: 1em;
+  height: 1em;
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+}
 .create_button:hover {
   background: #659600;
   background: -webkit-gradient(linear, left top, left bottom, from(#659600), to(#659600));
@@ -246,11 +253,13 @@ div.input {
 }
 .activity_button span {
   display: block;
-  padding: 0.15em 0.5em;
 }
 a.activity_button, input.activity_button {
   padding: 0 0.5em;
   color: white;
+}
+input.activity_button {
+  top: -1px;
 }
 a.activity_button {
   font-size: 0.9em;
@@ -406,7 +415,7 @@ label.external_label {
   position: absolute;
   top: -3px;
   right: 44px;
-  z-index: 2000;
+  z-index: 1000;
   width: 175px;
   padding: 10px;
   border-radius: 0.5em;
@@ -492,7 +501,7 @@ body a#fdbk_tab {
 }
 .overlay {
   position: absolute;
-  z-index: 100;
+  z-index: 400;
   font-size: 0;
   line-height: 0;
   background-color: #666;
@@ -689,12 +698,13 @@ a.skip {
   #workspace .wizard {
     min-height: 0px;
     background: transparent;
+    position: relative;
   }
     #workspace .wizard .big_arrow {
       position: absolute;
-      top: 62px;
-      left: 534px;
-      z-index: 3000;
+      top: 58px;
+      left: 355px;
+      z-index: 300;
     }
     #workspace .wizard div.complete {
       background: white;
@@ -714,8 +724,8 @@ a.skip {
     #workspace .wizard img.close {
       position: absolute;
       top: 8px;
-      left: 990px;
-      z-index: 1000;
+      left: 810px;
+      z-index: 300;
       cursor: pointer;
     }
 
@@ -1696,6 +1706,25 @@ GOOGLE_ANALYTICS_ID='UA-11345900-1';
 
     </script>
     <script type="text/javascript">
+Array.prototype.compact = function(){
+	var compacted = [];
+	for (var i = 0 ; i < this.length ; i++){
+		if (!(this[i] == null || this[i] === '')) {
+			compacted.push(this[i]);
+		}
+	}
+	
+	return compacted;
+};
+
+Array.prototype.isEmpty = function(){
+	return this.length == 0;
+};
+
+$.fn.reverse = [].reverse;
+
+    </script>
+    <script type="text/javascript">
 // qs_score - Quicksilver Score
 // 
 // A port of the Quicksilver string ranking algorithm
@@ -1790,25 +1819,6 @@ String.prototype.score = function(abbreviation,offset) {
   }
   return 0.0
 }
-
-    </script>
-    <script type="text/javascript">
-Array.prototype.compact = function(){
-	var compacted = [];
-	for (var i = 0 ; i < this.length ; i++){
-		if (!(this[i] == null || this[i] === '')) {
-			compacted.push(this[i]);
-		}
-	}
-	
-	return compacted;
-};
-
-Array.prototype.isEmpty = function(){
-	return this.length == 0;
-};
-
-$.fn.reverse = [].reverse;
 
     </script>
     <script type="text/javascript">
@@ -1991,11 +2001,11 @@ var CoDomain = Class.subclass({
 	addListeners : function(){}, // added just so subclasses don't freak with a _super call
 	
 	
-	replaceDom : function(view, selector){
+	replaceDom : function(view){
 		if (this.dom){
 			var parent = this.dom.parent();
 			this.dom.replaceWith(view);
-	  	this.init( parent.children(selector), this.opts);
+	  	this.init( parent.children(this.selector()), this.opts);
 		}
 	},
 	
@@ -2005,12 +2015,17 @@ var CoDomain = Class.subclass({
 	
 	hideTitleBar : function(){
 		$(".ui-dialog-titlebar").hide();
+	},
+	
+	selector: function(){
+		return eval(this.className).selector;
 	}
 },{ //class methods
 	className : 'CoDomain',
 	dataName : function() { 
 		return this.className; 
 	},
+	
 	build : function(html, dependencies){
 		if(!this.selector || !this.dataName()){
 			throw 'To use build() define a selector and className on the class.'
@@ -2477,6 +2492,7 @@ var Requester = Class.subclass({
 		this.outstandingRequests--;
 		originalCallback.call(options.bindCallbacksTo || this, response);
 		if (response.redirect){
+			log('redirecting to ' + response.redirect)
 			this.redirect(response.message, response.redirect)
 		}
 	},
@@ -2491,8 +2507,13 @@ var Requester = Class.subclass({
 			flash(message);
 		}
 		
+		var self = this;
+		
 		setTimeout(function(){
 			window.location = location;
+			if (location.match(/\/app#/)){
+				window.location.reload();
+			}
 		}, Flash.duration);
 	}
 });
@@ -2508,10 +2529,10 @@ var Rollover = Class.subclass({
 		this.rolloverElement = this.rolloverElement || this.dom;
 		
 		var self = this;
-		this.rolloverElement.bind('mouseover', function(event){
+		this.rolloverElement.bind('mouseenter', function(event){
 			self.rollover();
 		});
-		this.rolloverElement.bind('mouseout', function(event){
+		this.rolloverElement.bind('mouseleave', function(event){
 			self.rollout();
 		});
 		
@@ -2538,28 +2559,50 @@ var Rollover = Class.subclass({
 
     </script>
     <script type="text/javascript">
-var GoogleAppsLink = Link.subclass({
+var SignupToggle = Link.subclass({
+  // Instance Methods
+  init : function(dom, opts){
+    this._super(dom, opts);
+		this.div = $(this.dom.parents('.hide').get(0));
+  },
+
+	handleClick : function() {
+		if( this.div.is('.signup') ) {
+			this.div.removeClass('signup');
+			this.div.addClass('login');
+		} else {
+			this.div.removeClass('login');
+			this.div.addClass('signup');
+		}
+	}
+}, { // Class methods
+  selector : 'a.toggle_signup',
+  className : 'SignupToggle'
+})
+
+
+    </script>
+    <script type="text/javascript">
+var GoogleLink = CoDomain.subclass({
 	init : function(dom){
 		this._super(dom);
-		this.appsDomain = this.dom.siblings('div.apps_domain');
-		this.addListeners();
-		this.addDestinationToForm();
+		this.addDestinationToLink();
 	},
-	
-	addDestinationToForm : function(){
-		this.appsDomain.find('input[name=destination]').val(windowHash());
-	},
-	
-	handleClick : function(){
-		this.appsDomain.removeClass('collapsed');
-		return false;
+		
+	addDestinationToLink : function() {
+		if (windowHash()) {
+			this.dom.attr('href', this.dom.attr('href') + "&destination=" + windowHash());
+		}
 	}
 	
 }, { // class methods
-	selector : 'a.google_apps',
-	className : 'GoogleAppsLink'
+	selector : 'a.google',
+	className : 'GoogleLink'
 });
 
+
+    </script>
+    <script type="text/javascript">
 
     </script>
     <script type="text/javascript">
@@ -2590,65 +2633,6 @@ var RolloverTab = CoDomain.subclass({
 });
 
 RolloverTab.mixin(Rollover);
-
-    </script>
-    <script type="text/javascript">
-var SignupToggle = Link.subclass({
-  // Instance Methods
-  init : function(dom, opts){
-    this._super(dom, opts);
-		this.div = $(this.dom.parents('.hide').get(0));
-  },
-
-	handleClick : function() {
-		if( this.div.is('.signup') ) {
-			this.div.removeClass('signup');
-			this.div.addClass('login');
-		} else {
-			this.div.removeClass('login');
-			this.div.addClass('signup');
-		}
-	}
-}, { // Class methods
-  selector : 'a.toggle_signup',
-  className : 'SignupToggle'
-})
-
-
-    </script>
-    <script type="text/javascript">
-var ApplicationKeyForm = AjaxForm.subclass({
-	onSuccess : function(view){
-		this.replaceDom(view, ApplicationKeyForm.selector);
-	}
-}, { // Class methods
-  selector : 'form.application_key',
-  className : 'ApplicationKeyForm'
-})
-
-
-    </script>
-    <script type="text/javascript">
-var GoogleLink = CoDomain.subclass({
-	init : function(dom){
-		this._super(dom);
-		this.addDestinationToLink();
-	},
-		
-	addDestinationToLink : function() {
-		if (windowHash()) {
-			this.dom.attr('href', this.dom.attr('href') + "&destination=" + windowHash());
-		}
-	}
-	
-}, { // class methods
-	selector : 'a.google',
-	className : 'GoogleLink'
-});
-
-
-    </script>
-    <script type="text/javascript">
 
     </script>
     <script type="text/javascript">
@@ -2719,6 +2703,43 @@ var ContentPage = CoDomain.subclass({
 	selector : '.content_page',
 	className : 'ContentPage'
 });
+
+
+    </script>
+    <script type="text/javascript">
+var GoogleAppsLink = Link.subclass({
+	init : function(dom){
+		this._super(dom);
+		this.appsDomain = this.dom.siblings('div.apps_domain');
+		this.addListeners();
+		this.addDestinationToForm();
+	},
+	
+	addDestinationToForm : function(){
+		this.appsDomain.find('input[name=destination]').val(windowHash());
+	},
+	
+	handleClick : function(){
+		this.appsDomain.removeClass('collapsed');
+		return false;
+	}
+	
+}, { // class methods
+	selector : 'a.google_apps',
+	className : 'GoogleAppsLink'
+});
+
+
+    </script>
+    <script type="text/javascript">
+var ApplicationKeyForm = AjaxForm.subclass({
+	onSuccess : function(view){
+		this.replaceDom(view);
+	}
+}, { // Class methods
+  selector : 'form.application_key',
+  className : 'ApplicationKeyForm'
+})
 
 
     </script>
@@ -3322,6 +3343,11 @@ $(document).ready(function(){
   .content_page .new_password input[type=submit] {
     margin-top: 1em;
   }
+  /* .content_page.translate {} */
+    /* .content_page.translate .content_wrapper {} */
+      .content_page.translate .content_wrapper a {
+        text-decoration: underline;
+      }
 
     </style>
   <script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
@@ -3956,8 +3982,6 @@ $(document).ready(function(){
                 </li>
                 <li>
 <a href="/about_us">Our Vision</a>                </li>
-                <li>
-<a href="/team">The Team</a>                </li>
                 <li>
 <a href="http://blog.cohuman.com">Blog</a>                </li>
                 <li>
