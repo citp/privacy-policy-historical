@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvbreak.net privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503060259id_/http%3A//www.tvbreak.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbreak.net privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902001448id_/http%3A//www.tvbreak.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · Free Online Episodes and Movies : TVBreak
+# Privacy Policy · TV
 
 **Last Modified:** __ October 24, 2009 __
 
@@ -31,3 +31,5 @@ This Privacy Policy applies to www.tvbreak.net services only. We do not exercise
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us by email at info [at] tvbreak.net
+
+**Tags:**    are there other sites like tvbreak net, sites like tvbreak, tv break net review,
