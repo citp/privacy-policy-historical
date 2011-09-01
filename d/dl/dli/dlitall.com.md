@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlitall.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401120451id_/http%3A//www.dlitall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlitall.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902002826id_/http%3A//dlitall.com/privacy.php) for the most accurate reproduction.*
 
 # Download the Latest Software, Games, DVD Movies, Music, TV Shows and ebooks! -
 
