@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teeshirtpalace.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604144212id_/http%3A//www.teeshirtpalace.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeshirtpalace.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902015900id_/http%3A//www.teeshirtpalace.com/privacypolicy.html) for the most accurate reproduction.*
 
-# teeshirtpalace.com
+# Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
@@ -34,7 +34,7 @@ How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to? keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
@@ -79,7 +79,5 @@ United States
 248-549-7922
 
  ** _Free Shipping on all orders of $50.00 or more in the continental US!_**
-
-**Hi Quality Digital Graphics Printing and Screen Printing**
 
 **Return or exchanges accepted within 14 days of purchase. There are no returns or exchanges on custom made or personalized items.**
