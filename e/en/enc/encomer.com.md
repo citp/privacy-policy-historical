@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encomer.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616054436id_/http%3A//www.encomer.com/en-us/resources/docs-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encomer.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901234136id_/http%3A//www.encomer.com/en-us/resources/docs-privacy) for the most accurate reproduction.*
 
 # Encomer.com — Privacy Policy
 
