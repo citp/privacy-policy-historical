@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endlessmatches.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412120120id_/http%3A//www.endlessmatches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endlessmatches.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902005042id_/http%3A//www.endlessmatches.com/privacy) for the most accurate reproduction.*
 
 # Endless Matches
 
