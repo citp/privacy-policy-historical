@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedmoon.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123052709id_/http%3A//www.seedmoon.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedmoon.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902102827id_/http%3A//www.seedmoon.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for seedmoon.com
 
