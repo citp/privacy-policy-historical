@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automasscommissions.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401152854id_/http%3A//automasscommissions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automasscommissions.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902050208id_/http%3A//automasscommissions.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
