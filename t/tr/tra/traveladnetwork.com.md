@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveladnetwork.com privacy policy that was archived on 2010-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100703114148id_/http%3A//www.traveladnetwork.com/tan_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveladnetwork.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902020146id_/http%3A//www.traveladnetwork.com/tan_privacypolicy.html) for the most accurate reproduction.*
 
 # TAN - TRAVEL AD NETWORK
 
@@ -73,7 +73,9 @@ From time to time we may revise this Privacy Policy. If we make revi- sions that
 
 **Cookie Opt Out:.** To visit the TAN opt out, go to [http://privacy.traveladnetwork.com/optout](http://privacy.traveladvertising.com/OptOut.aspx)
 
-To visit the Atlas (Microsoft Advertising) opt out, go to [http://www.atlassolutions.com/optout.aspx.](http://www.atlassolutions.com/optout.aspx)
+To visit the DFP (Doubleclick) opt out, go to <http://www.google.com/privacy/ads/>
+
+To visit the Audience Science opt out, go to [http://www.traveladnetwork.com/asi_optout.html](https://web.archive.org/asi_optout.html)
 
 To opt-out of other cookies, or if you would like more information about this practice, please visit the Network Advertising Initiative, an organization championing consumer privacy and establishing advertising standards, at this URL: <http://www.networkadvertising.org/optout_nonppii.asp>
 
