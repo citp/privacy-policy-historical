@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moki.tv privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609234328id_/http%3A//moki.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moki.tv privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902115608id_/http%3A//moki.tv/privacy) for the most accurate reproduction.*
 
 # Moki
 
