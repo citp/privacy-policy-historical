@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the programmingbulls.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515100818id_/http%3A//www.programmingbulls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmingbulls.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902053535id_/http%3A//www.programmingbulls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-  
-
-
 This _Comment_ will be submitted for moderation and will not be accessible to other users until it has been approved.
+
+  
+  
+
 
 Programmingbulls respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. Please read the following to learn more about our privacy policy.
 
@@ -45,107 +45,3 @@ By using the Programmingbulls, you consent to the collection and use of informat
 
 If you have questions or comments about Programmingbulls's privacy policy, please feel free to contact us at:  
 Programmingbulls@gmail.com.
-
-                                     
-
-## People interested in above are also interested in: 
-
-  * ### [PHP Cookies](https://web.archive.org/php-cookies)
-
-What are Cookies?
-
-Cookie is a piece of information that is stored as text files on the visitor's browser/computer. This allows the website server to keep track of what a visitor is doing during their visit (or even across multiple visits).
-
-As an example to this is Amazon.com: do you notice that if you visit Amazon.com, Amazon keeps track of the click you have made. Even if you come to the site after sometime, it knows that you had visited earlier and would show you your earlier visits. This happens because Amazon.com stores cookies on your computer.
-
-  * ### [Tomcat: Cookies lenght problem](https://web.archive.org/tomcat-cookies-lenght-problem)
-
-Hi,
-
-I'm creating and attaching a cooking for my application with some useful information. 
-
-But this information is not accessible after that.
-
-The problem is that when I try to attach too much information, my cookie is not passed forward. When I try to attach few information it's OK.
-
-My questions:
-
-What is the max length for cookies values?  
-If it's a bug, there is any workaround for Tomcat 5.5?
-
-I'm creating my cookie using the following code:
-
-  * ### [Bowser bugs – helping e-Commerce sites/Ad firms](https://web.archive.org/bowser-bugs-helping-e-commerce-sites-ad-firms)
-
-The practice of online hacking of confidential and personal data is not new to the cyber world. Events which may not look as acute as hacking are equally profitable for those who’ve been driving the illegitimate exercise on the internet over the years.
-
-  * ### [PHP Regex for file/path](https://web.archive.org/php-regex-file-path)
-
-Hi,
-
-What would be the php regex to match any one of the following:
-
-privacy.html  
-privacy.htm  
-privacy  
-w3c/privacy.html  
-w3c/privacy.htm  
-w3c/privacy
-
-thanks
-
-JP
-
-Hi,
-
-What would be the php regex to match any one of the following:
-
-privacy.html  
-privacy.htm  
-privacy  
-w3c/privacy.html  
-w3c/privacy.htm  
-w3c/privacy
-
-thanks
-
-JP
-
-Original Question by: JP19
-
-  * ### [Is it possible to check if user has cookies enabled in php without a page reload?](https://web.archive.org/it-possible-check-if-user-has-cookies-enabled-php-without-page-reload)
-
-For example, code such as the following doesn't seem to work, even if the cookie is actually set, until I refresh the page.
-
-  * ### [Cross-login and parsing user specific data](https://web.archive.org/cross-login-and-parsing-user-specific-data)
-
-Hey,
-
-I want to develop an application for a website which provides user specific information. These user specific information of course are just visible as long as you're logged-in. Json-interface and parser will be hosted on a different server and I'm wondering how to handle the login + maintain a session in order to parse the data. The loginscript of the website which I want to parse is using POST and puts a cookie with username + md5 password. 
-
-These are all information I can provide. Thanks in advance.
-
-  * ### [Contact Us form and email not working](https://web.archive.org/contact-us-form-and-email-not-working)
-
-forgive me if this subject is here, but i can't seem to track it down. i'm brand new to drupal- spent the last few years developing in joomla.  
-i've just put up my first site, and it appears that the site sends mail to ANY email address (i.e.: @earthlink.net, @mac.com, @me.com, etc) except to an address @ my site name. 
-
-  * ### [How to find number of CPU processors on a Linux machine](https://web.archive.org/how-find-number-cpu-processors-linux-machine)
-
-You can find the number or processors on your linux machine as follows:
-
-shell> grep processor /proc/cpuinfo
-
-This would give output like (which means the following computer has 8 processors:
-
-processor : 0  
-processor : 1  
-processor : 2  
-processor : 3  
-processor : 4  
-processor : 5  
-processor : 6  
-processor : 7
-
-
-
