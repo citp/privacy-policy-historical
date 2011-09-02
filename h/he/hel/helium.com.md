@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521052956id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902055547id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Helium
 
