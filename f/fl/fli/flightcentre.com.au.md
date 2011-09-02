@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightcentre.com.au privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226150645id_/http%3A//www.flightcentre.com.au/footer/misc/pages/links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.com.au privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902042946id_/http%3A//www.flightcentre.com.au/footer/misc/pages/links/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
