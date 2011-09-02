@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dspconcepts.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322061232id_/http%3A//www.dspconcepts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dspconcepts.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902232600id_/http%3A//www.dspconcepts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DSP Concepts
 
@@ -39,8 +39,7 @@ Unfortunately, to the extent that such information is also stored in other datab
 
 VIII. CHOICE; OPT OUT
 
-You may opt-out of receiving communications from us, by the following means:
-
+You may opt-out of receiving communications from us, by the following means:  
 (1) send an e-mail to [pbeckmann@dspconcepts.com](mailto:pbeckmann@dspconcepts.com)
 
 Contacting us:  
