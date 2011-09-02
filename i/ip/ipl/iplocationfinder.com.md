@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplocationfinder.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209042322id_/http%3A//www.iplocationfinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplocationfinder.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902060529id_/http%3A//www.iplocationfinder.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
