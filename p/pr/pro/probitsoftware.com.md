@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the probitsoftware.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507162803id_/http%3A//www.probitsoftware.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probitsoftware.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902064840id_/http%3A//www.probitsoftware.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Probit Software LTD
 
