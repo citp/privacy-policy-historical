@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709174023id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902084716id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Green Mountain Coffee
-
-  |    
-
 
 We at Green Mountain Coffee Roasters take your privacy concerns very seriously. This our privacy policy, spelled out in plain English. We hope it answers any questions you might have, and that you'll return often to visit and shop with us. 
 
