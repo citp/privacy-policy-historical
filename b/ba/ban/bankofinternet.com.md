@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222124328id_/http%3A//www.bankofinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903003119id_/http%3A//www.bankofinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bank of Internet
 
@@ -93,6 +93,11 @@ A formal agreement between nonaffiliated financial companies that together marke
   
 **Other important information**  
 ---  
+  
+Bank of Internet USA does not knowingly collect, use or disclose personal information from children under age 13 without obtaining verifiable parental consent. Our website is directed to a general audience, and may be accessed by the public. Should a child whom we know to be under 13 send personal information to us, we will only use that information to respond to a one-time request from the child, provide notice to the child’s parents, or ensure the safety of the child.
+
+The Children’s Online Privacy Protection Act (COPPA) protects children under the age of 13 from the online collection of personal information. For more information about COPPA, visit the Federal Trade Commission website: [www.ftc.gov](http://www.ftc.gov/)
+
 It is the policy of Bank of Internet USA to maintain accurate and complete information on our customers. If you have reason to believe that the information we hold with respect to you or your account is inaccurate, outdated, or incomplete, please contact us by telephone (877) 541.BOFI (2634); or write to us at **Bank of Internet USA, 12777 High Bluff Drive, Suite 100, San Diego, CA 92130.**  
   
 Rev. November 2010
