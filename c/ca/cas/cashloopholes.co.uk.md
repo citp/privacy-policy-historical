@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashloopholes.co.uk privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105184402id_/http%3A//www.cashloopholes.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashloopholes.co.uk privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902083945id_/http%3A//www.cashloopholes.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
 
