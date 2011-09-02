@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414004447id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902034609id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@
 
 MindMyHouse protects your privacy and respects your concerns about the security of the information you submit to the site. In order to create the best possible service for members, MindMyHouse needs to collect, store, use and display different elements of the information members provide. MindMyHouse will only use the information collected for the purposes outlined in this privacy policy. By submitting the information required to become a member of MindMyHouse, you consent to having that information used in the ways set out in this Privacy Policy.
 
-MindMyHouse, being based in the United Kingdom (UK), complies with the UK’s Data Protection Laws. The UK’s Information Commissioner has been notified of the type of information collected on this website and the ways in which it is stored and processed. MindMyHouse fully complies with the eight principles of secure data management as set out in the Data Protection Law 1998. 
+MindMyHouse, being based in New Zealand (prior to 2008 MindMyHouse was based in the UK), complies with [New Zealands' Privacy Act 1993](http://privacy.org.nz/).
 
 This Privacy Policy should be read in partnership with the Terms and Conditions document.
 
