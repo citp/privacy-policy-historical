@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the better.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101081623id_/http%3A//www.better.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902093916id_/http%3A//www.better.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -31,7 +31,7 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20101101081623id_/http%3A//www.better.com/contact.aspx). **Effective Date: Privacy Notice last modified February 11, 2008.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20110902093916id_/http%3A//www.better.com/contact.aspx). **Effective Date: Privacy Notice last modified February 11, 2008.**
 
 © 2008 Better.com 
 
