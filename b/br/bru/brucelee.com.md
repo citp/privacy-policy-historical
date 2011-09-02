@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brucelee.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303114543id_/http%3A//www.brucelee.com/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brucelee.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902070624id_/http%3A//www.brucelee.com/site/privacypolicy.html) for the most accurate reproduction.*
 
 # .:: Bruce Lee Enterprise - Leeway Media ::.
 
