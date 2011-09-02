@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelance-projects.net privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112033902id_/http%3A//freelance-projects.net/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelance-projects.net privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902090437id_/http%3A//freelance-projects.net/site%7Eprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
