@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugintogreenprofits.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229212331id_/http%3A//www.plugintogreenprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugintogreenprofits.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902050949id_/http%3A//www.plugintogreenprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Plug into Green Profits- Privacy Policy .
 
