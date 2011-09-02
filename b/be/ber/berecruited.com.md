@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berecruited.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608005247id_/http%3A//www.berecruited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berecruited.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902020446id_/http%3A//www.berecruited.com/privacy) for the most accurate reproduction.*
 
 # beRecruited.com: Free College Recruiting Service and NCAA Athletic Scholarships Network
 
