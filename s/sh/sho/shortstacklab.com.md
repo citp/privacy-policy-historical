@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shortstacklab.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508233151id_/http%3A//www.shortstacklab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortstacklab.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902031037id_/http%3A//www.shortstacklab.com/privacy) for the most accurate reproduction.*
 
-# ShortStack | Privacy Policy
+# ShortStack Facebook Page Creator | Privacy Policy
 
 **Privacy Policy**
 
@@ -35,7 +35,7 @@ Examples of personal data include:
 
 This is not a website directed to children under the age of 13, and Pancake Laboratories, Inc. does not knowingly collect personally identifiable information from children under 13 years of age. If you are under 13 years of age you should not use this website, and under no circumstances should you send information about yourself to Pancake Laboratories, Inc.. If Pancake Laboratories, Inc. discovers that a child under the age of 13 has provided Pancake Laboratories, Inc. with personally identifiable information, Pancake Laboratories, Inc. will immediately delete that child’s personally identifiable information from the website.
 
-**How we protect your personal information:**
+**How we protect your personal information and data:**
 
   * Your information will never be shared with others outside of Pancake Laboratories, Inc. unless it is required to be shared by law.
   * Your information will never be sold to anyone. Never.
@@ -50,6 +50,13 @@ This is not a website directed to children under the age of 13, and Pancake Labo
 
   * Your Facebook user ID will be collected for access, installation and application updating purposes.
   * Pancake Laboratories, Inc. will collect and use your personal information for the purposes of subscriptions and/or billing.
+
+
+
+**Data collected via forms and databases**
+
+  * The data collected by the forms created and embedded on ShortStack tabs belongs solely to the user. Pancake Laboratories, Inc. makes no claim to the data in any way.
+  * Whatever specific information you give to us will be used only to enable user specific features of the Application Database. We will give your information to no third parties, nor accessed unless requested by the user.
 
 
 
