@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcwatch.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131140201id_/http%3A//www.pcwatch.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwatch.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902074730id_/http%3A//www.pcwatch.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Windows 7 Tips, Wallpapers, Themes and Software, PCWatch.com
 
