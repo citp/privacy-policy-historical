@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rachelzoe.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402054318id_/http%3A//www.rachelzoe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachelzoe.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902031400id_/http%3A//www.rachelzoe.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Rachel Zoe | The Zoe Report
+# Privacy | RachelZoe.com
 
 Last Updated: June 30, 2009
 
