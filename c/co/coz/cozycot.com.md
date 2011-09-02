@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cozycot.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215022512id_/http%3A//www.cozycot.com/content/legal-cozycot.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cozycot.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902095653id_/http%3A//www1.cozycot.com/content/legal-cozycot.html) for the most accurate reproduction.*
 
-# Legal | CozyCot
+# CozyCot - Legal | CozyCot
 
 **Your information**
 
