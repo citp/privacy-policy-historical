@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chobots.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629121549id_/http%3A//www.chobots.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chobots.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902030950id_/http%3A//chobots.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Chobots.com - Your Family Game!
 
