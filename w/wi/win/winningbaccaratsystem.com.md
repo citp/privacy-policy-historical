@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningbaccaratsystem.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511152848id_/http%3A//www.winningbaccaratsystem.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningbaccaratsystem.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902081903id_/http%3A//www.winningbaccaratsystem.com/privacy.htm) for the most accurate reproduction.*
 
 # $1000 Free Casino Cash!
 
