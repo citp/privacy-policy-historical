@@ -1,161 +1,107 @@
-> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221050327id_/http%3A//www.goldencasket.com/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902050829id_/http%3A//www.goldencasket.com/site/privacy.asp) for the most accurate reproduction.*
 
 # Golden Casket
 
-**Download a PDF version of[Golden Casket Privacy Policy](https://web.archive.org/corporate/content/GC_Privacy_Policy_Aug_2009.pdf)**
+**Download a PDF version of[Tatts Group Privacy Policy](https://web.archive.org/corporate/content/Tatts_Group_Privacy_Policy%20260210.pdf)**
 
-Privacy Statement
-
-When you apply to register we collect personal information about you. We also collect information about you regarding your transactions with us after you register. We will use this information to register you, to verify your identity, to provide our products to you, to market our products to you (unless you ask us not to), to provide you with any winnings, to improve our products, and to manage your accounts (if any) with us. Gaming laws require us to verify your age and address.
-
-If you do not provide us with, (and allow us to use), the personal information we have requested we may not be able to register you.
-
-We may disclose your personal information to third parties, including your and our financial institutions, our selling agents, our contractors (such as mail suppliers, IT suppliers, data information services and marketing services), our professional advisers and gaming regulators and legal enforcement agencies. You agree that we may provide information (including personal information) you supply to us on this website to Veda Advantage Group of companies including its related entities for Identity Validation purposes.
-
-You are entitled to have access to your personal information. Access can be obtained by contacting us on 131 868.
-
-Unless you tell us otherwise, we will assume you consent to the collection, uses and disclosures. For more information see our Privacy Policy or contact us. We may change this Privacy Statement from time to time. If we do, these changes will be reflected in our Privacy Policy.
-
-Privacy Policy
-
-This Privacy Policy explains how we manage the personal information that we collect, use and disclose and how to contact us if you have any queries.
-
-Purpose
-
-To ensure that Golden Casket Lottery Corporation Limited protects its customer's privacy while interacting with our web content, products and services in accordance with the National Privacy Principles in the Privacy Act 1988.
-
-Policy Statement 
-
-**"The Golden Casket Lottery Corporation Limited will effectively manage the collection and storage of personal information in accordance with the National Privacy Principles in the Privacy Act 1988."**
-
-Policy Guidelines 
-
-Golden Casket Lottery Corporation Limited ABN 27 078 785 449 provides lottery products and services to Queenslanders. Under Australian laws your rights to privacy are protected. Golden Casket is bound by the National Privacy Principles contained in the Privacy Act 1988. These National Privacy Principles set out principles for the management of personal information. They are intended to protect the confidentiality of your personal information. We respect an individual's right to privacy and we take the protection of your personal information seriously.
-
-**What is personal information?**  
-Personal information is any information about you that identifies you or by which your identity can be reasonably determined.
-
- **What personal information we collect**  
-The personal information that Golden Casket collects about you could include your:
-
-  * Name
-  * Date of Birth
-  * Mailing address
-  * Email address
-  * Telephone number
-  * Financial institution account numbers
-  * Credit Card details
-  * Details of any account you may have with us
-  * Transfers to or from your account with us
-  * Information in identity verification documents which we require for Lotto Direct registration
-  * Usernames and passwords for our website
-  * Transaction records relating to your lottery purchases and wins
-  * If you win Division 1 - your details about you that you consent to provide us with
-  * Communications between you and us
+**Privacy Policy**
 
 
 
-If you do not provide us with your personal information we may not be able to provide you with our lottery products and services.
 
-**How we collect your personal information**  
-We collect information from you in the following ways:
+The Board and management of Tatts Group Limited are committed to the protection of the personal information of individuals that it collects in the course of conducting its various businesses. This privacy policy describes how we manage any information that we have about you. 
 
-  * Through communications between you and us by phone, correspondence, email, application forms and through our website
-  * Our transaction records relating to your use of Winners Circle or Lotto Direct to purchase our lottery products and services
-  * Third parties such as our selling agents or your representatives
+Personal information of individuals which is collected can be used in connection with the conduct of the businesses of Tatts Group. 
 
 
 
-**How we use personal information**  
-Your personal information may be used to:
 
-  * Verify your name, age, address and identity
-  * Provide our lottery products and services to you
-  * Enable you to participate in the Winners Circle loyalty program
-  * Enable you to participate in promotions
-  * Record and register your lottery purchases and other transactions with us and manage your accounts (if any) with us
-  * Notify you of, and provide you with, any lottery winnings
-  * Market our lottery products, promotions and services. If you do not wish to receive emails or letters notifying you of our lottery products, promotions and services, please call us on 131 868.
-  * Better understand our customers so that we can develop and improve the lottery products and services we provide
-  * Register you for and allow you to use Winners Circle and Lotto Direct
-  * Contact you for any other reason
-  * Address any query, feedback or complaints you may have
-  * Protect your personal information from unauthorised access
-  * Attend to any other purpose notified to you at the time of collection of the personal information
-  * Comply with any mandatory requirements of law 
+This privacy policy is applicable to Tatts Group Limited and all of its subsidiaries that conduct business within Australia. In this policy, a reference to Tatts Group is a reference to Tatts Group Limited   
+(ACN 108 686 040) and all of its subsidiaries. 
 
 
 
-We may also use your personal information for any other purpose you have consented to.
 
-**How we disclose personal information**  
-In order to provide our lottery products and services to you and to carry on our business, at times we need to disclose your personal information to our selling agents, to other individuals and to other organisations.
-
-We disclose your personal information to our service providers including providers of: 
-
-  * Information technology services
-  * Marketing services
-  * Market research services
-  * Data information services
-  * Website development and website usage services
-  * Mail services
-  * Equipment installation, maintenance and repair services
-  * Computer software upgrade and maintenance services
+Tatts Group is bound by, and will comply with, the National Privacy Principles (NPPs) set out in the Privacy Act 1988 (Act). 
 
 
 
-Golden Casket may also disclose your personal information to:
 
-  * Your and our financial institutions 
-  * Our professional advisors including our lawyers, accountants and auditors 
-  * Any organisation or individual notified to you at the time of collection of the personal information or any organisation or individual that you have provided your consent (express or implied) for us to disclose your personal information to 
-  * Organisations involved in a transfer/sale of all or part of our assets or business (including account and trade receivables) 
-  * Lottery and gaming regulators, legal enforcement agencies or investigative agencies 
-  * Organisations that have been appointed to wind down an agency or appointed as Receiver/Manager or Administrator of an agency 
-  * Any entity or individual which we are required or authorised by law to disclose such personal information (for instance Federal or State law enforcement agencies, ASIO, courts and various other Federal or State government bodies) 
+**4.1 Definition of personal information**
 
+Personal information is generally defined as information or an opinion that can identify a person. This usually includes information such as your name, date of birth, address, telephone number and possibly your email address. The type of personal information that Tatts Group may collect about you will depend upon the nature of your relationship with Tatts Group. For example, we may need more information about you to become a Tatts Card and Winners Circle card member or a Telebet account holder than we would if you wished only to enter a promotion conducted by Tatts Group. Where reasonable, we will collect information directly from you and also from your use of our various products and services. 
 
+**4.2 Privacy Statement/Notice**
 
-**Our Website**  
-When you visit our website, we or our contractors may collect information about your visit. This information may include your server address, the date and time of your visit, the pages you accessed, the information you downloaded and the types of internet browser you used. We or our service providers may use this information in anonymous form for statistical purposes to assist our continued improvement of our website.
-
-We may use cookies on our website. A cookie is a small string of information that a website transfers to your browser for identification purposes. If you do not want to accept persistent cookies, you can adjust your Internet browser to reject them or to notify you when they are being used. However, rejecting persistent cookies may limit the functionality of our website.
-
-Our website may contain links to third party websites. We do not operate or control these websites. We are not responsible for their practices and those sites are not covered by this policy.
-
-**You can access your personal information**  
-You have a right to access your personal information, subject to some exceptions allowed by law where we may refuse you access. If you would like to access your personal information please call us on   
-131 868.
-
-We may require you to complete a request form to gain access to certain personal information. We do not usually charge any fee to allow you to access your personal information. However, we reserve our right to charge a reasonable fee if we consider it appropriate.
-
-**Keeping your personal information up-to-date**  
-It is important that the personal information we hold about you is accurate, complete and up-to-date. The accuracy of the personal information depends to a large extent on the information you provide to us. Please let us know if you are aware of any errors in your personal information and keep us up-to-date with changes to your personal information, such as changes to your name or address.
-
-**Your personal information is secure**  
-Protection of your personal information from unauthorised access is important to us. We use a range of security mechanisms and procedures to protect the personal information we hold about you.
-
-We make all reasonable efforts to ensure that your personal information is stored securely both in electronic and physical forms. The Golden Casket Winners Circle On-line and Lotto Direct website pages from which you may forward to us personal information are encrypted through a password protected portal using 128 bit SSL encryption. However, there may be risks associated when you transfer personal information to us from other internet facilities or by email.
-
-**Updating this policy**  
-We may amend this policy at any time and from time to time. If we do so, we will post the amended policy on our website so that you will always be aware of how we manage your personal information.
-
-**Contact Us**  
-Please contact us if you have any queries about this policy. 
-
-You can contact us:
-
-  * By telephone on 131 868 
-  * By email on playersupport@goldencasket.com 
-  * By writing to  
-Golden Casket Lottery Corporation Limited ABN 27 078 785 449  
-Locked Bag 7  
-Coorparoo DC Qld 4151
+At or before the time that Tatts Group collects personal information from you (or, if that is not practicable, as soon as practicable after) it will take reasonable steps to ensure that you are given a privacy statement/notice where you will be made aware of the purpose for collecting that information and how that information will be used. 
 
 
 
-**How do you make a complaint?**  
-If you have a complaint about the way we have collected, used or disclosed your personal information please contact us by phone, email or in writing as shown above. We take complaints about privacy concerns seriously and we will work to resolve your complaint and correct any errors on our part. If you are not satisfied with the outcome of your complaint, you may refer your complaint to the Federal Privacy Commissioner by contacting 1300 363 992 or by visiting the website at www.privacy.gov.au. 
+
+In general, Tatts Group policy is that we will use or disclose personal information for the purpose which was either specified or reasonably apparent at the time of collection. For example to provide our products and services to you and enable you to participate in any loyalty programs that we may be involved in or promotions conducted by Tatts Group. We may also use or disclose it for any other related purpose for which you would reasonably expect it to be used. Tatts Group may also use your personal information to send marketing or promotional material to you, unless you indicate that you do not wish to receive it. 
+
+Tatts Group does not generally disclose personal information to third parties except: 
+
+  * information relevant to the management of Tatts Group businesses which is otherwise available in the public domain; 
+  * where third party contractors appointed by Tatts Group require access to personal information held by us to perform services for us or on your behalf; or 
+  * where Tatts Group reasonably believes it is necessary to protect any person and/or Tatts Group rights or property; 
+  * where Tatts Group is required or authorised by law to do so; or 
+  * with your consent. 
+
+
+
+
+Specific Tatts Group websites may collect “click stream” information (such as areas of our websites you have accessed and the time and date of access) from your use of our websites. Tatts Group may also collect Doubleclick Adserving information (such as whether a marketing campaign has been effective) from your use of our websites. 
+
+We may also store "cookie" information, such as user preferences relating to the use of our websites. A cookie is a small data file that may be placed on the computer of a web user (usually in the browser software folder). The information collected is used to customise and improve websites. If you do not want us to store cookie information on your computer, you can set your browser to disable this feature. This may mean you will not be able to take full advantage of Tatts Group services offered on our websites. 
+
+
+
+
+Tatts Group will take reasonable steps to (a) protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure; and (b) to ensure that the personal information that it collects, uses or discloses is accurate, complete and up to date. 
+
+
+
+
+You are welcome to request access to personal information Tatts Group holds about you. There are certain situations where Tatts Group may decline to give you access to your personal information, and these are set out in the Act. We will give you reasons if we deny access. In specific cases, please write directly to the relevant Tatts Group company and include your name, address, date of birth and signature. We will send you the appropriate access form. In all cases we will inform you if a cost applies to finding and supplying the information before we perform this task. 
+
+
+
+
+If you have reason to believe personal information which we hold about you is inaccurate or out of date, please write to the relevant Tatts Group company and include your full name, address, date of birth, membership or account number (if any), signature and specify the information you wish to change. 
+
+
+
+
+Where it is lawful and practicable to do so, you may transact with Tatts Group without providing personal information. 
+
+
+
+
+Tatts Group will only transfer personal information overseas in circumstances where it is permitted by the Act. 
+
+
+
+
+Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](http://www.tattsgroup.com/). 
+
+
+
+
+For further information about privacy issues and the protection of privacy, visit the Australian Federal Privacy Commissioner’s website at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+
+
+
+
+If you have any issues that you wish to raise with Tatts Group or you wish to make a complaint regarding Tatts Group’s management of your personal information please contact us. We take complaints about privacy concerns seriously and we will work to resolve your complaint and correct any errors on our part. 
+
+Our contact details are as follows: 
+
+**Tatts Group Limited**  
+Street Address: 615 St.Kilda Rd, Melbourne VIC 3004   
+Postal Address: Locked Bag 888 St.Kilda Rd Central, VIC 8008   
+General Phone Number: +61 3 8517 7777   
+Email address: PrivacyOfficer@tattsgroup.com 
 
   
 
