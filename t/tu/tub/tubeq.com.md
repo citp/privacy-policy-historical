@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeq.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004247id_/http%3A//www.tubeq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeq.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902231841id_/http%3A//tubeq.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
