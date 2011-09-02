@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblo.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624004844id_/http%3A//www.joblo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblo.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902041057id_/http%3A//www.joblo.com/privacy.htm) for the most accurate reproduction.*
 
 # The JoBlo.com Privacy policy
 
