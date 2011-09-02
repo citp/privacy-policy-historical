@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homecookingrocks.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503200748id_/http%3A//homecookingrocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homecookingrocks.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902165853id_/http%3A//homecookingrocks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy – Home Cooking Rocks!
 
 [](http://view.picapp.com/pictures.photo/creative/rubber-confidential-stamp/image/177697?term=confidential)Posting a comment requires that you provide your e-mail address in a special required field. The system also records your IP address. Your privacy is valued and assured; no private information will be shared with third persons nor used in any way that compromises your privacy.
 
