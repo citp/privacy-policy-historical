@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthinsiders.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428134018id_/http%3A//www.healthinsiders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsiders.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902033708id_/http%3A//www.healthinsiders.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | HealthInsiders.com
+# Privacy Policy
 
 HealthInsiders.com (“The Site”) has created this privacy statement in order to demonstrate our firm commitment to privacy. This Web site provides health information and resources. We understand that health is a personal and private matter, and we do not want you to have to be concerned about the security or use of any information you provide to us. The following discloses our information gathering and dissemination practices for the Web site, HealthInsiders.com.
 
