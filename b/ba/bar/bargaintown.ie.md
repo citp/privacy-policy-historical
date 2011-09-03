@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargaintown.ie privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414172443id_/http%3A//www.bargaintown.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargaintown.ie privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903211310id_/http%3A//www.bargaintown.ie/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Bargaintown, Furniture Stores Ireland for low cost bedroom furniture, low price beds and more...
 
