@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the ukfamily.co.uk privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921023428id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukfamily.co.uk privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903021804id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue) for the most accurate reproduction.*
 
 # Disney Registration
 
 **Privacy Policy**   
-dated July 2009
+dated December 2010
 
 This policy (the “Privacy Policy”) tells you how The Walt Disney Company Limited of 3 Queen Caroline Street, London, England collects information from you, how we protect it and how we use it, and covers all personal information which you provide when you use any of our Disney sites (the “Sites”), unless otherwise specified on the relevant Site where a different privacy policy will be displayed, and also controls information provided by you when dealing with any one of Disney’s promotional partners where you may opt in to receive information from Disney and agree to your information being forwarded by that partner to us but do not directly register on a Disney Site.
 
 If we collect information about you as part of another Disney service on-line (for example, if you order goods from The Disney Store), then the Disney company that provides that service will also control that information. We tell you who that company is in the terms and conditions for that service.
 
-This Privacy Policy also covers any other personal information which you may provide when dealing with the Disney Group of companies or interacting with any of our Sites (whether or not you are registered), including data when you make a purchase, register for one of our reward schemes, book a holiday or register for or use any other Disney service. We refer to this type of information as transactional data   
-
+This Privacy Policy also covers any other personal information which you may provide when dealing with the Disney Group of companies or interacting with any of our Sites (whether or not you are registered), including data when you make a purchase, register for one of our reward schemes, book a holiday or register for or use any other Disney service. We refer to this type of information as transactional data 
 
 This Privacy Policy explains how companies within the Disney Group collect, record and use information about you and the choices you can make about how the information is collected and used. By using the Sites or by clicking the “Register” button or other relevant button during your initial registration with the relevant Site, you signify your consent that we store and process your personal data in accordance with this Privacy Policy.
 
@@ -28,7 +27,8 @@ We may use information about you to create a picture of your interests. This wil
 
 ## Use of information for marketing
 
-In line with any permissions you give us, we may send you direct marketing about our own, or carefully selected third parties’ goods and services and disclose your information to other organisations who may send direct marketing to you. You can change your marketing preferences if you are registered with us. Details on how to do this are set out below under “Our Registration Policy”. 
+In line with any permissions you give us, we may send you direct marketing about our own, or carefully selected third parties’ goods and services and disclose your information to other organisations who may send direct marketing to you. You can change your marketing preferences if you are registered with us. Details on how to do this are set out below under “Our Registration Policy”.   
+
 
 In addition, you can unsubscribe from email communications via unsubscribe links provided in communications sent to you.
 
@@ -64,25 +64,37 @@ You can ask us to modify or remove your personal information from any or all of 
 
 We will use our reasonable endeavours to remove your name from the related mailing list within 10 working days of your request.
 
-## Use of cookies and web beacons
+## Use of cookies, web beacons, and IP addresses
 
-We collect information through technology to make our Sites and other content or services which we make available to you more interesting and useful to you. For instance, when you come to one of our Sites via your computer or other media device, we may place cookies and web beacons on our Sites which may be used to collect information about the sections you visit, the products you are interested in and the frequency with which you visit various parts of our Sites. You agree that we collect your IP address or other unique identifier. At times, we also use these identifiers to collect information regarding the frequency with which our guests visit various parts of our Sites. We may combine your IP address with other personally identifiable information for marketing and for market research purposes, including internal demographic studies, so we can optimize our products and services and customize the Sites for you.
+Our Sites use a variety of technical methods, including cookies and web beacons for marketing, research purposes and to enable certain functions of the site to operate.  The information collected from use of this technology may be collected in a form that identifies you personally.   We may also combine your visitor session information, and other information collected through technical methods, with personally identifiable information.
 
-Our Sites use a variety of technical methods for tracking purposes, including cookies and web beacons.
+## What are Cookies and Web Beacons?
 
-Cookies are pieces of information that a Site sends to your computer or other media device while you are viewing or interacting with the Site. We use cookies for a variety of purposes including tracking usage on our Sites in order to- enhance our guests’ experience on our Sites and to learn more about your preferences and interests. For instance, when you return to one of our Sites after logging in via your computer, cookies provide information to the Site so that the Site will remember who you are (“visitor session information”). You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. 
+Cookies are pieces of information that a Site sends to your computer or other media device while you are using with the Site. For example, if you return to one of our Sites after logging in via your computer, cookies provide information to the Site so that the Site will remember that you have logged in (we call this “visitor session information”). You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. 
 
-You do this through your browser settings. Each browser is a little different, so look at your browser’s Help to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your interaction with Disney Sites smoother, like the features mentioned above, and some of our services will not function properly. We may use cookies to analyse the traffic patterns on our Sites, such as the frequency which our users visit various parts of our Sites.
+Web beacons are small pieces of data that are embedded in images on the pages of Sites. We use web beacons to analyse traffic patterns on our Sites. 
 
-Web beacons are small pieces of data that are embedded in images on the pages of Sites. We also use these technical methods to analyse the traffic patterns on our Sites, such as the frequency with which our users visit various parts of our Sites.
+## Why?
 
-We may combine your visitor session information or other information collected through cookies, web beacons and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what products, promotions and services you prefer or are likely to be of interest to you.
+We use cookies, web beacons and other technology to enhance your use of our Sites, with the aim of making our Sites and other content or services more interesting and useful to you. We are trying to understand and improve your online experiences by determining what products, promotions and services we think are likely to be of interest to you, and by customising the display of banner advertisements and other messages. 
 
-We also use these technical methods in HTML e-mails that we send our guests for a number of purposes including: to determine whether our guests have opened or forwarded those e-mails and/or clicked on links in those e-mails; to customise the display of the banner advertisements and other messages after a guest has closed an email; and to determine whether a guest has made an enquiry or purchase in response to a particular email.
+We also use these technical methods in HTML e-mails that we send our guests for a number of purposes including to determine whether our guests have opened or forwarded those e-mails and/or clicked on links in those e-mails, to customise the display of the banner advertisements and other messages after a guest has closed an e-mail, and to determine whether a guest has made an enquiry or purchase in response to a particular e-mail. 
 
-Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorised by us to collect information on our behalf. The information from use of these technical methods may be collected in a form that identifies you personally.
+## Who?
 
-You may get cookies from our advertisers. We do not control these cookies, and once you have clicked on the advertisement and left our Sites our Privacy Policy no longer applies.
+Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorised by us to collect information on our behalf. Also, you may get cookies (including “Flash cookies”) from our advertisers and sponsors. We do not control these cookies, and once you have clicked on the advertisement and left our Sites our Privacy Policy no longer applies. 
+
+## Controlling Cookies
+
+Using the settings of your internet browser software, such as Chrome, Firefox, Internet Explorer and Safari, you can control how cookies are put on your computer or media device. Each browser is a little different, so please look at your browser’s Help to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your interaction with our Sites smoother, like the features mentioned above, and some of our services will not function properly. 
+
+## Use of Your IP Address
+
+By using one of our Sites, you agree that we may collect your IP address or other unique identifier. At times, we use these identifiers to collect information regarding how often our guests visit various parts of our Sites. We may combine your IP address with other personally identifiable information for marketing (where you have opted in to receive it) and for market research purposes, including internal demographic studies, so we can optimize our products and services and customize the Sites for you. 
+
+## “Flash Cookies”
+
+We may use local shared objects, also known as “Flash cookies”, to store your preferences or display content based upon what you view on our site to personalize your visit. Flash cookies are different from browser cookies because of the amount of data, type of data , and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 ## Links to other sites
 
