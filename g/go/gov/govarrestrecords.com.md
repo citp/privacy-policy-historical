@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govarrestrecords.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215194854id_/http%3A//govarrestrecords.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govarrestrecords.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903203443id_/http%3A//govarrestrecords.com/Privacy.aspx) for the most accurate reproduction.*
 
 # GovArrestRecords.com - Comprehensive Online Arrest and Warrent Records Searches
 
@@ -18,6 +18,6 @@ You may choose to restrict the collection or use of your personal information in
 
         whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-        if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us right [ here](https://web.archive.org/web/20101215194854id_/http%3A//govarrestrecords.com/Support.aspx).
+        if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us right [ here](https://web.archive.org/web/20110903203443id_/http%3A//govarrestrecords.com/Support.aspx).
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
