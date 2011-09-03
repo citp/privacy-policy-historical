@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visualeconomics.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124091418id_/http%3A//www.visualeconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualeconomics.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903091432id_/http%3A//www.visualeconomics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VisualEconomics.com
+# Privacy Policy -
 
 This privacy statement covers the site www.VisualEconomics.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices.
 
