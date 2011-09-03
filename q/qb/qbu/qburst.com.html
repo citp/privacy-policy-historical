@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qburst.com privacy policy that was archived on 2010-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100722060520id_/http%3A//www.qburst.com/privatepolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qburst.com privacy policy that was archived on 2011-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110903154414id_/http%3A//www.qburst.com/privatepolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>QBurst - Privacy Policy</title>
@@ -12,15 +12,17 @@
         <link href="/css/style.css" type="text/css" rel="stylesheet">
 
         <link rel="shortcut icon" href="/images/Fav.png" type="image/x-icon">
-                <script type="text/javascript" src="/scripts/jquery-1.3.2.js"></script>
+                         
+        <!--[if !IE 6]><!-->
+        <script type="text/javascript" src="/scripts/jquery-1.3.2.js"></script>
         <script src="/scripts/jquery-1.3.1.min.js" type="text/javascript"></script>
 
         <script type="text/javascript" src="/scripts/effects.core.js"></script>
         <script type="text/javascript" src="/scripts/effects.drop.js"></script>
         <script type="text/javascript" src="/scripts/effects.slide.js"></script>
-        <script type="text/javascript" src="/scripts/effects.contactpopup.js"></script>
+        <script type="text/javascript" src="/scripts/effects.contactpopup.js"></script> <!--<![endif]-->
         <!--<script src="/scripts/dhtml.js" type="text/javascript"></script>-->
-
+        <script src="/scripts/slideshow.js" type="text/javascript"></script>
                 <script src="/scripts/footermap.js" type="text/javascript"></script>
 
 
@@ -30,21 +32,16 @@
                 
         
 
-        <style type="text/css">
-    .cntctPopupInner {
-background-image:url("/images/bannerBg.png");
-background-position:right bottom;
-background-repeat:repeat-x;
-float:left;
-height:307px;
-padding-top:10px;
-width:532px;
-}
-</style>
+        
 
+        
     </head>
 
     <body>
+    
+    <!--[if lte IE 6]>
+  <iframe src="http://www.browserupgrade.info/ie6-upgrade/" frameborder="no" style="height: 81px; width: 100%; border: none;"></iframe>
+<![endif]-->
                 <div id="container">
             <div class="cmpnyHeader">
                 <div class="headerTop">
@@ -55,7 +52,8 @@ width:532px;
                         <p id="red">Call Us</p>
                         <p> USA: +1-703-652-8473</p>
                         <p> UK: +44-114-279-2798</p>
-                        <p> UAE: +971-50-1887848</p>
+                        <p> UAE: +971-55-745-9871</p>
+                        <p> Singapore: +65-6492-8150</p>
                     </div>
                 </div>
                 <div class="homeMenu">
@@ -85,11 +83,14 @@ width:532px;
                                     <li><a href="/services/design" class="emptybgnd" title="Graphic Design">Design</a>
                                         
                                         </li>
-                                    <li><a href="/services/content" class="emptybgnd" title="Content Writing">Content</a></li>
+                                    <!--<li><a href="/services/content" class="emptybgnd" title="Content Writing">Content</a></li>-->
                                     <li><a href="/services/rich-internet-applications" class="emptybgnd" title="Rich Internet Applications">RIA</a></li>
-                                        <li><a href="/services/search-engine-optimization" class="emptybgnd" title="Search Engine Optimization">SEO</a></li>
+                                        <!--<li><a href="/services/search-engine-optimization" class="emptybgnd" title="Search Engine Optimization">SEO</a></li>-->
                                         <li><a href="/services/google-apps" class="emptybgnd">Google Apps</a></li>
-
+                                        <li><a href="/services/websites" class="emptybgnd">Websites</a></li>
+                                        <li><a href="/services/business-intelligence" class="emptybgnd">Business Intelligence</a></li>
+                                        <li><a href="/services/microsoft" class="emptybgnd">Microsoft</a></li>
+                                        <li><a href="/services/ecommerce" class="emptybgnd">eCommerce</a></li>
                                     
 
                                 </ul>
@@ -109,6 +110,8 @@ width:532px;
                                      <li><a href="/products/S3CRM" class="emptybgnd">S3 CRM</a></li>
                                      <li><a href="/products/crickees" class="emptybgnd">Crickees</a></li>
                                     <li><a href="/products/TalentView" class="emptybgnd">Talent on View</a></li>
+                                    <!--<li><a href="/products/petro" class="emptybgnd">BlackBerry Petro</a></li> 
+                                     <li><a href="/games/jigsaw-puzzle" class="emptybgnd">Games</a></li>-->
                                    
                                     
                                 </ul>
@@ -138,13 +141,14 @@ width:532px;
                         </ul>
                     </div>
                 </div>
+                </div>
 
 
 
 
 <div>
     <a href="javascript:void(0)" id="show" class="contact"></a>
-    <div class="cntctPopup" id="cform" style="display:none;" onmouseover="document.feedback.email.focus();">
+    <div class="cntctPopup" id="cform" style="display:none;">
 
 
         <div class="cntctPopupInner">
@@ -154,16 +158,26 @@ width:532px;
                 
             </div>
             <div id="popheaderbottom"></div>
-            <form method="post" action="" onsubmit="return contact_validate()" name="feedback">
+            <form method="post" action="" onsubmit="return contact_validate('112.52.106.122.108')" name="feedback">
                 <div class="cntctPopupFrm">
                     <label class="cntctPopupLbl"> Your Email</label>
-                    <input class="cntctPopupTxt" name="email" id="email" onkeyup="limitText(this.form.email,100)" type="text">
+                    <input class="cntctPopupTxt" name="email" id="email" onkeyup="limitText(this.form.email,120)" type="text">
                     <span id="mailValmsg"></span>
                 </div>
                 <div class="cntctPopupFrm">
                     <label class="cntctPopupLbl">Inquiry / Feedback</label>
-                    <textarea name="comments" cols="" rows="" class="cntctPopupTxtArea" id="coments" onkeypress="return validate_character(event)" onkeyup="limitText(this.form.comments,1000)"></textarea>
+                    <textarea name="comments" cols="" rows="" class="cntctPopupTxtArea" id="coments" style="height:100px;" onkeypress="return validate_character(event)" onkeyup="limitText(this.form.comments,1000)"></textarea>
                     <span id="comntValmsg"></span>
+
+                   
+                    <div class="clear"></div>
+                        <label class="cntctPopupLbl" style="margin-top:10px;">Enter security code </label>
+                        <input name="captcha" type="text" class="cntctPopupTxt" id="captcha_id_feed" style="width:240px;margin-top:10px;">
+  <div class="captcha_feedback">
+                        <img src="/captchasecurityfeedback.php?width=100&amp;height=40&amp;characters=5" alt="Captcha code"><br>
+                    </div>
+                        <span id="captchafeedValMsg" style="padding-left:156px;margin-top:-20px;"></span>
+                    
                 </div>
                 <br clear="all">
                 <div class="cntctPopupBtm"></div>
@@ -211,6 +225,9 @@ width:532px;
             function highLight8(){
             document.getElementById("map_bottom").className="india_bottom";
             }
+            function highLight16(){
+            document.getElementById("map_bottom").className="singapore_bottom";
+            }
             function deselect1(){
             document.getElementById("map_bottom").className="none";
             }
@@ -218,7 +235,7 @@ width:532px;
     </script>
            <style>
 #map_bottom{
-width:512px; height:145px; background-image:url(/images/footer_sprite.png); background-repeat:no-repeat; background-position: 0 0; overflow:hidden;
+width:512px; height:145px; background-image:url(/images/footerimagesprite.png); background-repeat:no-repeat; background-position: 0 0; overflow:hidden;
 }
 .us_bottom{
 width:512px; height:145px; background-position:0 -145px !important;
@@ -231,6 +248,9 @@ width:512px; height:145px; background-position:0 -435px !important;
 }
 .india_bottom{
 width:512px; height:145px; background-position:0 -580px !important;
+}
+.singapore_bottom{
+width:512px; height:145px; background-position:0 -725px !important;
 }
            </style>
 <div id="footer">
@@ -259,11 +279,11 @@ width:512px; height:145px; background-position:0 -580px !important;
                     <img src="/images/slide_share.gif" alt="slideshare" width="31" height="32">
                 </a>
             </p>
-						<p>Copyright © QBurst Technologies 2010. All Rights Reserved.</p><p><a href="/privatepolicy" class="privacy"> Privacy Policy </a></p> 
+						<p style="padding-bottom:5px;">Copyright © QBurst Technologies 2010. All Rights Reserved.</p><p>Mobile Version -<a href="http://m.qburst.com" class="privacy " style="margin:0 5px;">http://m.qburst.com</a>|<a class="privacy" style="margin-left:5px;" href="/privatepolicy"> Privacy Policy </a></p>
         </div>
         <div class="footerBtmRt">
             <div id="map_bottom">
-            <img src="/images/footer_bubbles.png" width="512" height="145" alt="Footer map" class="map" usemap="#simple">
+            <img src="/images/footer_bubblesnew.png" width="512" height="145" alt="Footer map" class="map" usemap="#simple">
           <map name="simple" id="map">
 
                 <area href="/contact" shape="poly" coords="146,32, 147,31, 151,30, 158,30, 160,31, 162,32, 163,33, 165,37, 166,38, 166,43, 163,45,  161,49, 154,60, 141,40, 144,32" title="QBurst USA" alt="QBurst USA" onmouseover="highLight5()" onmouseout="deselect1()">
@@ -271,6 +291,8 @@ width:512px; height:145px; background-position:0 -580px !important;
                 <area href="/contact" shape="poly" coords="258,26, 262,26, 265,26, 268,27, 269,29, 268,34, 263,45, 256,34, 257,35, 255,33, 255,30" title="QBurst UK" alt="QBurst UK" onmouseover="highLight6()" onmouseout="deselect1()">
                 <area href="/contact" shape="poly" coords="323,46, 329,44, 338,46, 342,52, 341,57, 329,76, 331,70, 326,62, 323,59, 322,52" title="QBurst Middle East" alt="QBurst Middle East" onmouseover="highLight7()" onmouseout="deselect1()">
                 <area href="/contact" shape="poly" coords="363,50, 369,48, 378,50, 382,57, 381,62, 369,81, 368,75, 363,67, 360,64, 359,57" title="QBurst India" alt="QBurst India" onmouseover="highLight8()" onmouseout="deselect1()">
+                <area href="/contact" shape="poly" coords="426,92,423,83,418,78,421,72,426,71,431,72,433,78,427,90" title="QBurst Singapore" alt="QBurst Singapore" onmouseover="highLight16()" onmouseout="deselect1()">
+            
             </map>
             </div>
         </div>
@@ -289,4 +311,4 @@ pageTracker._trackPageview();
 
     
 
-</div></body></html>
+</body></html>
