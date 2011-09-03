@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websiteforever.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427104913id_/http%3A//www.websiteforever.com/global/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteforever.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903102317id_/http%3A//www.websiteforever.com/policy.htm) for the most accurate reproduction.*
 
-# Website Builder
+# Safest Website Builder for Students
 
 This Privacy Statement governs the manner in which WebsiteForever ("WebsiteForever" or "we") collects, uses, maintains and discloses information collected from customers in connection with WebsiteForever web services including web hosting, secure certificates, E-Commerce Solutions, and other internet services. WebsiteForever reserves the right to change this Privacy Statement and its policies prospectively at any time, subject to applicable laws and regulations, by posting notice of such changes on its web sites.
 
