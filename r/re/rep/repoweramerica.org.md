@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repoweramerica.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222143944id_/http%3A//repoweramerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repoweramerica.org privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903041052id_/http%3A//www.repoweramerica.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
