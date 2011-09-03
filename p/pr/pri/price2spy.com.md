@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502121356id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903024512id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Price2Spy - competitor price monitoring tool
 
