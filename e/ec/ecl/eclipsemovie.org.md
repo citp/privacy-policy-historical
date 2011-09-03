@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclipsemovie.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515183159id_/http%3A//www.eclipsemovie.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipsemovie.org privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903032329id_/http%3A//eclipsemovie.org/privacy.html) for the most accurate reproduction.*
 
 # 
 
