@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestpetssites.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228050430id_/http%3A//www.bestpetssites.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestpetssites.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903081206id_/http%3A//www.bestpetssites.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
