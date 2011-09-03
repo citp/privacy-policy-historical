@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwspoilers.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231014643id_/http%3A//pwspoilers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwspoilers.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903122102id_/http%3A//pwspoilers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PWSpoilers.com
 
