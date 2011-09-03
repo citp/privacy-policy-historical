@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-strategies.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630233541id_/http%3A//www.seo-strategies.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-strategies.org privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903024621id_/http%3A//www.seo-strategies.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
