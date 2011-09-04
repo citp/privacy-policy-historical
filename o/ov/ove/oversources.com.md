@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oversources.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505175949id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oversources.com privacy policy that was archived on 2011-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110905014634id_/http%3A//www.oversources.com/static/privacy_notice.shtml) for the most accurate reproduction.*
 
-# Privacy Notice - China Electronics Wholesaler
+# Privacy Notice - LED Lights & Accessories Wholesaler
 
 Privacy Notice 
 
