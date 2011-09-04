@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lineafashion.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213053141id_/http%3A//www.lineafashion.com/store/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lineafashion.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904030752id_/http%3A//www.lineafashion.com/store/privacy.php) for the most accurate reproduction.*
 
 # London fashion exclusive, Hampstead exclusive boutique, top London boutique, exclusive fashion house London,
 
