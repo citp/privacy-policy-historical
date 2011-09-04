@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalmeet.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325140250id_/http%3A//www.globalmeet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmeet.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904091200id_/http%3A//www.globalmeet.com/privacy) for the most accurate reproduction.*
 
 # GlobalMeet | Privacy Policy
 
