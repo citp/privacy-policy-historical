@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venue.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527044933id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venue.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904103118id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Venue.com: Privacy Policy
 
@@ -33,13 +33,15 @@ Venue does not rent, sell, or share personal information about you with other pe
 
 VENUE  
 Attn: Privacy Policy  
-11870 Santa Monica Blvd.  
-Suite 106-736  
-Los Angeles, CA 90025
+4607 Lakeview Canyon Rd  
+Suite 455  
+Westlake Village, CA 91361
 
 • We may share information as necessary to respond to subpoenas, court orders, or legal processes, to establish or exercise our legal rights or defend against legal claims. 
 
 • We may share information when we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Venue.com terms of use, or as otherwise required by law. 
+
+• COLLECTION AND USE OF BANK ACCOUNT INFORMATION FOR PURPOSES OF COLLECTING LOAN PAYMENTS: If we extend credit to a consumer, we will consider the bank account information provided by the consumer as eligible for us to process payments against. In addition, as part of our information collection process, we may detect additional bank accounts under the ownership of the consumer. We will consider these additional accounts to be part of the application process and eligible for payment retrieval. 
 
 • We may transfer information about you in connection with an acquisition of Venue or a merger with another company. In this event, Venue will notify you if information about you becomes subject to a different privacy policy. 
 
@@ -65,9 +67,9 @@ If you wish to correct, update or remove any personal information that you have 
 
 VENUE  
 Attn: Privacy Policy  
-11870 Santa Monica Blvd.  
-Suite 106-736  
-Los Angeles, CA 90025
+4607 Lakeview Canyon Rd  
+Suite 455  
+Westlake Village, CA 91361
 
   
 
