@@ -1,56 +1,65 @@
-> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630103430id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904042136id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Honestly, we have no interest in any of your information, but here’s a legal notice just in case._
+**Privacy Policy**
 
-PRIVACY POLICY AND CONSUMER EDUCATION  
-It is Guyism, LLC’s policy to respect the privacy of Members. We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use our website located at guyism.com . This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes.
+Guyism, LLC knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
-Except as otherwise provided in this Privacy Policy, we will not disclose to any member’s name or contact information or Personal Information (defined below). Guyism will also not monitor, edit, or disclose member’s information unless required to do so by law or in the good faith belief that such action is necessary to: (1) cooperate with law enforcement authorities or comply with legal process served on Guyism; (2) to protect the property and rights of Guyism or a third party; or (3) to protect the safety of the public or any person; (4) to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or (5) fix or debug problems with the Guyism servers, software or service.
+This Privacy Policy covers Guyism’s treatment of personal information that Guyism gathers when you are on the Guyism website and when you use Guyism services. This policy does not apply to the practices of third parties that Guyism does not own or control, or to individuals that Guyism does not employ or manage.
 
-Children’s Privacy  
-The Site is not directed to children under 13 years of age, and Guyism requires users of its service to be 13 years of age or older. Accordingly, Guyism does not knowingly collect or maintain on its Site personally identifiable information from children under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at legal@guyism.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+**Information Collected by Guyism**
 
-We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Guyism users: 
 
-THE PERSONAL INFORMATION WE COLLECT  
-When you post or register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (”Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. Guyism may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to Guyism, and make public via your privacy settings, will also be available to other Guyism users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on Guyism. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.  
-As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  
+2\. Automatic Information:  
+• We receive and store certain types of information whenever you interact with us. Guyism and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Guyism cookie information, and the page you requested. Guyism uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
+• Guyism may collect and, on any page, display the total counts that page has been viewed.  
+• Many companies offer programs that help you to visit websites anonymously. While Guyism will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-HOW WE USE PERSONAL INFORMATION  
-Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and Guyism account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on Guyism related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
+**E-mail Communications**
 
-OTHER INFORMATION/LOGGING AND COOKIES  
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+Guyism is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Guyism may send out e-mails with Guyism-related news, products, offers, surveys or promotions. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+**Cookies**
 
-INFORMATION SHARING AND DISCLOSURE  
-Guyism Members. In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Guyism cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
 
-Even with all the appropriate precautions Guyism takes to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services.  
-Aggregate Information and Non-Identifying Information. We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Guyism’s coolest features. 
 
-Service Providers  
-We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Guyism’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
 
-Business Transfers. Guyism may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+**Sharing Your Information**
 
-Invite-A-Friend  
-If you choose to invite your friends to use Guyism, using our invitation options, we will ask for information such as an e-mail address. We will automatically send your friend(s) a one-time e-mail invitation to visit the Site. Guyism stores this information to send this one-time invitation, and to track the success of this referral feature.
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
 
-CHANGING OR DELETING YOUR INFORMATION  
-All Guyism members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+Guyism Personnel: Guyism personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Guyism business. 
 
-SECURITY  
-Guyism is concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Guyism, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
 
-INTERNATIONAL TRANSFER  
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Guyism, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Protection of Guyism and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Guyism, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-LINKS TO OTHER SITES  
-The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+Syndication: Guyism allows for the RSS syndication of all of its public content within the Guyism website. 
 
-CONTACTING GUYISM  
-If you have any questions about this Privacy Policy, please contact us at legal@guyism.com. 
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
+
+**Children Under 18 Years of Age**
+
+You must be 13 years and older to register to use the Guyism website. As a result, Guyism does not specifically collect information about children. If we learn that Guyism has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Guyism or sending information about themselves or anyone else over the Internet. 
+
+**Changes to this Privacy Policy**
+
+Guyism may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Guyism website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
+
+**Conditions of Use**
+
+If you decide to visit Guyism website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
+
+**Effective Date of this Privacy Policy**
+
+This Privacy Policy is effective as of October 12th, 2009 and was last updated August 31st, 2011.
+
+**Questions or Concerns**
+
+Any questions or concerns about this Privacy Policy may be directed to legal@guyism.com.
