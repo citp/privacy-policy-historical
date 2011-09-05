@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ibangpornstars.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808041648id_/http%3A//www.ibangpornstars.com/information.php%3Fprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibangpornstars.com privacy policy that was archived on 2011-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110906004915id_/http%3A//secure.ibangpornstars.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-**Ibangpornstars.com**  
-
+**iBangPornstars.com**
 
 **PRIVACY POLICY STATEMENT**  
+  
 
 
 * * *
 
-We have created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of ibangpornstars.com. ibangpornstars.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
+has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of ibangpornstars.com. ibangpornstars.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
 
 ### Non-Personal Information and Cookies
 
@@ -21,6 +21,8 @@ Certain non-personal information may be collected from visitors to this Site inc
 We collect personal information so that we may custom tailor the web experience for each subscriber and offer the best products and services to meet the needs of each subscriber.
 
 We may use information collected from visitors to our Site for any of the following purposes: (1) to send visitors information and promotional materials about our company, which will not continue if opted out of, (2) to send visitors information and promotional materials from our marketing partners and third parties (3) to deliver targeted display advertisements and offers by email, which will not continue if opted out of (4) to contact visitors to our Site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, all as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Site, (8) to conduct internal reviews of our Site (e.g., to determine the number of visitors to the Site), (9) to help us better understand visitors' use of our Site, and (10) to protect the security or integrity of our Site.
+
+No credit card holder information is shared with third parties
 
 Since part of the personal information that is collected and safeguarded by us is your email address, we try very hard to respect your time and privacy by controlling and limiting the frequency of mailings. If you receive a mailing from us or one of our marketing partners, it is because your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future, or you have registered or purchased or otherwise have an existing relationship with us.
 
