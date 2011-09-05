@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroteenmovs.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128023948id_/http%3A//sign.euroteenmovs.com/ttrack/MC4wLjEuMS4wLjAuMC4wLjA/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroteenmovs.com privacy policy that was archived on 2011-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110905190337id_/http%3A//sign.euroteenmovs.com/ttrack/MC4wLjEuMS4wLjAuMC4wLjA%26click%3DFooterPrivacy/privacy.php) for the most accurate reproduction.*
 
 # Euroteenmovs privacy
 
