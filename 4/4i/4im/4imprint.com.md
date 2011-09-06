@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024173915id_/http%3A//info.4imprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2011-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110906144502id_/http%3A//info.4imprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 4imprint Promotional Products Blog
 
