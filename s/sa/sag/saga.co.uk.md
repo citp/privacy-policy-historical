@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612233707id_/http%3A//www.saga.co.uk/general/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907000525id_/http%3A//www.saga.co.uk/general/privacy-policy.asp) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
@@ -256,3 +256,9 @@ If we decide to change our Privacy Policy, we will update all relevant documenta
 ##### Tell us what you think
 
 Saga and AA welcome your questions and comments about privacy. Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE, United Kingdom or The AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA or Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
+
+  
+  
+  
+[Back]( "Back")   
+
