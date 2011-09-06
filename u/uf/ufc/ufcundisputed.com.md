@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufcundisputed.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605075146id_/http%3A//www.thq.com/us/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcundisputed.com privacy policy that was archived on 2011-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110906115456id_/http%3A//www.thq.com/us/pages/privacy) for the most accurate reproduction.*
 
 # THQ - Privacy policy
 
