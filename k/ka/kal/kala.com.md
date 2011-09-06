@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kala.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527152739id_/http%3A//kala.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kala.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907012707id_/http%3A//kala.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
