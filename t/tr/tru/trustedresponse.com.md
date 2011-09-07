@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedresponse.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221192723id_/http%3A//www.trustedresponse.com/PrivacyPolicy-TrustedResponse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedresponse.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907042221id_/http%3A//trustedresponse.com/PrivacyPolicy-TrustedResponse.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
