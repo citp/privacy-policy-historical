@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalproworld.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516031520id_/http%3A//www.digitalproworld.com/prp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalproworld.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907061538id_/http%3A//digitalproworld.com/prp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
