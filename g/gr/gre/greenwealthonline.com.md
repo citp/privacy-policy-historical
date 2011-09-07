@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenwealthonline.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727143547id_/http%3A//www.greenwealthonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwealthonline.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907220838id_/http%3A//www.greenwealthonline.com/privacy.php) for the most accurate reproduction.*
 
 # Green Wealth Online
 
