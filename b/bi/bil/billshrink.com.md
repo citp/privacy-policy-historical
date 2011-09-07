@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billshrink.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612071702id_/https%3A//www.billshrink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billshrink.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907103235id_/https%3A//www.billshrink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shrinkage Is Good
 
