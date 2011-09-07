@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cactuslanguagetraining.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114061135id_/http%3A//www.cactuslanguagetraining.com/en/english/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cactuslanguagetraining.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907195806id_/http%3A//www.cactuslanguagetraining.com/us/english/view/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learn English your way - Cactus Language Training
 
@@ -42,6 +42,6 @@ If you have any questions about our Privacy Policy, or if you want to know what 
 Tags: 
 
 Posted by **Cactus** 2007-01 under   
-[Permalink](https://web.archive.org/en/english/view/privacy-policy "Permanent Link to Privacy Policy")
+[Permalink](https://web.archive.org/us/english/view/privacy-policy "Permanent Link to Privacy Policy")
 
-[](http://www.addthis.com/bookmark.php) [Share](http://www.facebook.com/sharer.php)
+[](http://www.addthis.com/bookmark.php)
