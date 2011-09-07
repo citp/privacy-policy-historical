@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildcoinwealth.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629090816id_/http%3A//www.buildcoinwealth.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildcoinwealth.net privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907031211id_/http%3A//www.buildcoinwealth.net/privacy.html) for the most accurate reproduction.*
 
 # disclaimer
 
