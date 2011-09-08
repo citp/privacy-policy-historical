@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetripclip.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112081145id_/http%3A//thetripclip.com/tc/foot/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetripclip.com privacy policy that was archived on 2011-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110909014335id_/http%3A//thetripclip.com/tc/foot/privacy.php) for the most accurate reproduction.*
 
-# The Trip Clip
+# The Trip Clip - Privacy Policy
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting TheTripClip.com, you are accepting the practices described in this Privacy Notice.**
 
