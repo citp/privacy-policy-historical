@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technewsdaily.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627003053id_/http%3A//www.technewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsdaily.com privacy policy that was archived on 2011-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110908064051id_/http%3A//www.technewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechNewsDaily
 
