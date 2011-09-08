@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon.com.my privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509172304id_/http%3A//www.canon.com.my/section/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.com.my privacy policy that was archived on 2011-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110908044029id_/http%3A//www.canon.com.my/section/privacypolicy) for the most accurate reproduction.*
 
 # Terms of Use - Canon Malaysia
 
