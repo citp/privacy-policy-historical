@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wppionline.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510155019id_/http%3A//www.wppionline.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wppionline.com privacy policy that was archived on 2011-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110908071712id_/http%3A//www.wppionline.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,6 +46,6 @@ Rangefinder Publishing may add to, change or remove any part of this Privacy Pol
 **Contacting Us**
 
 Any and all questions regarding this Privacy Policy should be directed to subscriptions@rfpublishing.com or via mail to Rangefinder Publishing, Nielsen Expositions  
-11835 W. Olympic Blvd. Suite 550-E  
-Los Angeles, CA 90064  
-310-481-8036
+6255 W. Sunset Blvd., 20th Floor  
+Los Angeles, CA 90028  
+323-817-3500
