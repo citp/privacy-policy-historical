@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tristarhost.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517064012id_/http%3A//tristarhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tristarhost.com privacy policy that was archived on 2011-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110908024344id_/http%3A//tristarhost.com/privacy.html) for the most accurate reproduction.*
 
 # Tristarhost.com
 
