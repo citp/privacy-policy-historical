@@ -1,56 +1,7 @@
-> *The following text is extracted and transformed from the felixfilms.net privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912180348id_/http%3A//www.felixfilms.net/default/off/page/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the felixfilms.net privacy policy that was archived on 2011-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110909051431id_/http%3A//www.felixfilms.net/default/off/page/Privacy.html) for the most accurate reproduction.*
 
 # Felix Films Ltd - Privacy
 
-|  |  |  |   
----|---|---  
-  | 
-
-Products  
-[Books](https://web.archive.org/default/on/category/Books)  
-[Felix Films DVDs](https://web.archive.org/default/on/category/Felix_Films_DVDs)  
-[Football DVDs](https://web.archive.org/default/on/category/Football_DVDs)  
-[Ghost Tour DVDs](https://web.archive.org/default/on/category/Ghost_Tour_DVDs)  
-[Past In Pictures](https://web.archive.org/default/on/category/Past_In_Pictures)  
-[Staffordshire Films](https://web.archive.org/default/on/category/Staffordshire_Films)  
-[Site Map](https://web.archive.org/default/off/page/Site_Map.html) (160)  
-
-
-|    
-|  |   
----|---|---  
-  | 
-
-Customer Accounts  
-[Customer Login](http://www.felixfilms.net/ingenii.cgi?session_login=yes&secure=yes&cart_id=zL2FGj.a7925)   
-[Lost Password](http://www.felixfilms.net/ingenii.cgi?lost_password=yes&secure=yes&cart_id=zL2FGj.a7925)   
-[Create an Account](http://www.felixfilms.net/ingenii.cgi?customer_register=yes&secure=yes&cart_id=zL2FGj.a7925)   
-[Benefits of Registering](https://web.archive.org/ingenii.cgi?page=Benefits_of_Registering.html)
-
-|    
-|  |   
----|---|---  
-  | 
-
-We Recommend
-
-[  
- **North Wales Ghosts**  
-£ 9.99](https://web.archive.org/more/on/details/0048)
-
-|    
-|  |   
----|---|---  
-  | 
-
-Free Newsletter  
-Enter your email
-
-|  |   
----|---  
-  
-   
-  
 Privacy
 
 The Felix Films website retains information SOLELY for your own use when checking out at our online store.  We do not place any tracking cookies on your computer, and will not monitor any activity within, or outwith, the Felix Films website.  If you choose not to register with us, the only information that will be stored on our server and your own PC is a unique Cart ID which allows the store software to recall any items that you placed within your cart on your last visit.  No other information is stored.
