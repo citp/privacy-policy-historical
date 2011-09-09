@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228021229id_/http%3A//www.currys.co.uk/gbuk/Privacy_Policy-1264-theme.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2011-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110909135517id_/http%3A//www.currys.co.uk/gbuk/Privacy_Policy-1264-theme.html) for the most accurate reproduction.*
 
 # Privacy_Policy | Currys
 
