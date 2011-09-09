@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfbargainoffers.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122161250id_/http%3A//www.golfbargainoffers.com/article-23-Privacy%2BNotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfbargainoffers.com privacy policy that was archived on 2011-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110909201528id_/http%3A//www.golfbargainoffers.com/article-23-Privacy%2BNotice.html) for the most accurate reproduction.*
 
 # Privacy Notice - Service Center
 
