@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seti.org privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615074238id_/http%3A//www.seti.org/page.aspx%3Fpid%3D374) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seti.org privacy policy that was archived on 2011-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110910215938id_/http%3A//www.seti.org/page.aspx%3Fpid%3D374) for the most accurate reproduction.*
 
 # SETI Institute
 
