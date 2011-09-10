@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183629id_/http%3A//www.bidhere.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2011-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110910131206id_/http%3A//www.bidhere.com/Page/262) for the most accurate reproduction.*
 
-# Privacy Policy - BidHere.com
+# Privacy Policy - Online auctions - Bid Here!
 
   
 
@@ -118,3 +118,5 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/DisputeResolution/). 
 
 BidHere Team
+
+ 
