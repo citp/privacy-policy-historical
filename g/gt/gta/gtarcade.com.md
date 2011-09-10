@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtarcade.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511024446id_/http%3A//www.gtarcade.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtarcade.com privacy policy that was archived on 2011-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110910180517id_/http%3A//gtarcade.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : GT Arcade, Your #1 Stop Shop for Custom Sticks
 
