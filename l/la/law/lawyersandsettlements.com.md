@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lawyersandsettlements.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515213554id_/http%3A//www.lawyersandsettlements.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersandsettlements.com privacy policy that was archived on 2011-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110911012053id_/http%3A//www.lawyersandsettlements.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.lawyersandsettlements.com/openx/www/delivery/ck.php?oaparams=2__bannerid=1__zoneid=1__cb=6daf2615eb__oadest=http%3A%2F%2Fwww.pivotaldiscovery.com)
+[](https://web.archive.org/)
+
+What are you looking for?
 
 This Privacy Policy explains what Online Legal Media ("OLM") does with the personal information that is collected from the users of our website currently located at http://LawyersandSettlements.com (the “Site”). OLM may change its policy from time to time, so it is suggested that you check the Site from time to time to ensure that you know about current policy. If you have any questions or concerns regarding this policy, you should contact us via our [Contact Page](http://www.lawyersandsettlements.com/contact.html).
 
@@ -46,7 +48,5 @@ If you have any questions or comments about the practices of this site, or your 
 
 Last modified 2009-11-09
 
-| 
-
-Search 10,000 recent  
-cases and settlements 
+|   
+---|---
