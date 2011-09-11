@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syncapse.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513072559id_/http%3A//www.syncapse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncapse.com privacy policy that was archived on 2011-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110911031849id_/http%3A//www.syncapse.com/privacy) for the most accurate reproduction.*
 
 # Syncapse » Privacy Policy
 
