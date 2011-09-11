@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the callferret.com privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705125540id_/http%3A//callferret.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callferret.com privacy policy that was archived on 2011-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110911150806id_/http%3A//www.callferret.com/privacy.html) for the most accurate reproduction.*
 
 # CallFerret.com Privacy Policy
+
+CallFerret needs your help ! Please take a quick look at our [donation support page](http://www.gofundme.com/callferret "Support CallFerret") and keep information free and highly visible...
 
 Please read the terms and conditions of use before using this site: <http://www.callferret.com/terms.html>. By continuing to access or use this site, or any service on this site, you signify YOUR ACCEPTANCE OF THESE TERMS AND CONDITIONS OF USE.
 
@@ -49,7 +51,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
 
   * Users can send email to [tosprivacy@callferret.com](mailto:tosprivacy@callferret.com)
-  * Users can call the following telephone number: 1-206-600-5751
+  * Users can call the following telephone number: 1-775-878-6240
 
 
 
@@ -58,8 +60,8 @@ This site gives users the following options for removing their information from 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
 CallFerret.com  
-1-206-600-5751  
-[tosprivacy@callferret.com](mailto:tosprivacy@callferret.com)
+1-775-878-6240  
+[contact@callferret.com](mailto:contact@callferret.com)
 
   
 
