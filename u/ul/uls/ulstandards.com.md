@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the ulstandards.com privacy policy that was archived on 2011-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110912010258id_/https%3A//www.ulstandards.com/unsecured/privacy.aspx) for the most accurate reproduction.*
+
+# UL SCCL :: Privacy Policy
+
+UL respects the privacy of its customers and users of this site. We will NOT sell or otherwise provide any of your personal information to any third party without your permission unless required to do so by law or in good faith belief if such action is necessary or desirable to comply with the law, protect or defend the rights of property of UL, this site or its users.
+
+When you register to use our Extranet site and access its online programs and services you must provide some personal information such as your name, company name, title, e-mail address, address, phone and certain demographic information. We will not disclose the individual information you provided to us on-line to anyone outside of UL unless you specifically authorize it, it is required by law in order to defend UL, or disclosure is necessary to protect the safety of customers, employees or property. UL from time to time uses third party contractors to perform services such as website management, site design, site hosting and special promotions but does not use user information for other purposes beyond providing specific services on our site.
+
+UL does not send unsolicited "junk" email (spam). We may use email to communicate with our customers, to respond to users' e-mails, to confirm service requests and to send information on programs and services that we believe may be of interest to you. We reserve the right to disclose information about your usage and demographics, provided that it will not reveal your personal identity in connection with the disclosure of such information.
