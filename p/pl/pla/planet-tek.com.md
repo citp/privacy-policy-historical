@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the planet-tek.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510000004id_/http%3A//planet-tek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-tek.com privacy policy that was archived on 2011-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110911135509id_/http%3A//planet-tek.com/privacy.html) for the most accurate reproduction.*
 
 # Planet-Tek Systems - Privacy Policy
 
-[](https://web.archive.org/web/20110510000004id_/http%3A//planet-tek.com/index.html)
+[](https://web.archive.org/web/20110911135509id_/http%3A//planet-tek.com/index.html)
 
 ## Privacy Policy
 
@@ -39,4 +39,4 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Should you have other questions or concerns about these privacy policies, please call us at +1.416.860.1100 or send us an email at [info@planet-tek.com](mailto:%20info@planet-tek.com).
 
-[back to planet-tek.com](https://web.archive.org/web/20110510000004id_/http%3A//planet-tek.com/index.html)
+[back to planet-tek.com](https://web.archive.org/web/20110911135509id_/http%3A//planet-tek.com/index.html)
