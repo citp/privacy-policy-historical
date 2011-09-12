@@ -1,10 +1,34 @@
-> *The following text is extracted and transformed from the clarintontrading.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513072631id_/http%3A//clarintontrading.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarintontrading.com privacy policy that was archived on 2011-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110912035233id_/http%3A//clarintontrading.com/privacy_policy) for the most accurate reproduction.*
 
 # CLARINTON Trading - Security Information
 
 ## The news
 
 * * *
+
+06.09.2011 [](https://web.archive.org/news/ "Read more")
+
+Alert Pay Integration!
+
+Alert Pay Integration! Dear respectable users, we do really apologize for the inconvenience that can be caused by a delay, however from now on you can easily use Alert Pay as another payment option for investments
+
+02.08.2011 [](https://web.archive.org/news/ "Read more")
+
+Our survey is completed
+
+Our survey is completed. We are very grateful to those who took part in it, in the nearest future you will see the results and appropriate changes in our company's work.
+
+22.07.2011 [](https://web.archive.org/news/ "Read more")
+
+The survey
+
+Dear users! We decided to make a survey and find out your attitude toward Clarinton Trading. We highly appreciate your opinion. Please answer several questions:   
+1\. Are you satisfied with our company's activity?  
+2\. Have you ever had any technical problems on the site, if so, please describe them.  
+3\. Are you satisfied with the customer care support?   
+4\. Please list the payment systems that you like, and you want us to work with in the future.   
+5\. You could send us your comments and suggestions on the e-mail.  
+
 
 07.05.2011 [](https://web.archive.org/news/ "Read more")
 
@@ -17,18 +41,6 @@ Technical work is finished, instant payments work as usual.
 Technical works
 
 On the server conducted the technical work. Instant payments temporarily disabled.
-
-04.04.2011 [](https://web.archive.org/news/ "Read more")
-
-Liberty Reserve problems
-
-Dear users, the Liberty Reserve system is down for the last three days. We contacted to their support service, and they promised to reestablish functionality till tomorrow. As soon as they finish, all withdrawal requests would be paid. 
-
-08.03.2011 [](https://web.archive.org/news/ "Read more")
-
-Congrats on your start!
-
-Honorable guests, Administration CLARINTON are happy to inform you that we start our investment activities. We have made numerous efforts to open an investment organization. We have no doubts that CLARINTON Trading in short time will beat your most brave awaiting, and going to became a confident investment partner for a long period of time. 
 
 * * *
 
