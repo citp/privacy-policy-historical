@@ -1,25 +1,31 @@
-> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105050248id_/http%3A//www.vocus.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2011-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110912055928id_/http%3A//www.vocus.com/content/privacy.asp) for the most accurate reproduction.*
 
 # Vocus Privacy Statement
 
-This is the web site of Vocus Europe Ltd.
+This is the web site of Vocus, Inc.
 
 Our postal address is:  
-Vocus Europe Ltd  
-61 St Mary Axe  
-London, EC3A 8AA, United Kingdom 
+4296 Forbes Boulevard  
+Lanham, MD 20706  
+Phone: 301.459.2590
 
-We can be reached via email at [privacy@vocus.com](mailto:privacy@vocus.com) or you can reach us by telephone at +44 (0) 20 7481 6150. Vocus collects information from our users at several different points on our website to enable us to better inform you about our service. By knowing your preferences we can deliver relevant information that meets your needs and ensure that your visit to our site is quick, easy and productive. Vocus is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+Vocus takes privacy seriously. As a leading provider of on-demand software for corporate communications and public relations, we are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers, prospects and other visitors to our website.
+
+Vocus collects information from our users at several different points on our website to enable us to better inform you about our service. By knowing your preferences we can deliver relevant information that meets your needs and ensure that your visit to our site is quick, easy and productive. Vocus is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+
+If you have any questions about this privacy statement or the practices of this site, you may contact us via email at [privacy@vocus.com](mailto:privacy@vocus.com). In order for Vocus to take the appropriate action please describe in reasonable detail the nature of your request or inquiry.
 
 ## Collected Information:
 
-For each visitor to our Web page, our Web server automatically recognises only the consumer's domain name, but not the email address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the email address (where possible).
 
-We collect the email addresses of those who communicate with us via email, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used by us to contact consumers for marketing purposes, not shared with other organisations for commercial purposes. If you do not want to receive email from us in the future, please let us know by sending us an email at the above address.
+We collect the email addresses of those who communicate with us via email, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used by us to contact consumers for marketing purposes, not shared with other organizations for commercial purposes. If you do not want to receive email from us in the future, please unsubscribe [here](http://prsoftware.vocus.com/content/VOCUSUNSUBSCRIBE).
 
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organisations.
+If you are a member of the media and would like to discuss your Vocus database record, please email [mrg@vocus.com](mailto:mrg@vocus.com) and our research team will contact you.
 
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us an email at the above address. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organisations.
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
+
+Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us an email at the above address. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
 ## Cookies:
 
@@ -47,7 +53,7 @@ If you feel that this site is not following its stated information policy, you m
 
 Last revised 11/03/2003 
 
-Vocus Europe Ltd is committed to protecting the privacy of anyone who uses Vocus' online software. One of the ways in which we demonstrate this commitment is through the care we take to protect the privacy of information which we collect when we host your data on our servers. Vocus owns and manages all of its servers. We typically purchase or lease these servers, which we then install in a state-of-the-art data center operated by Qwest. Vocus selected Qwest based on its ability to provide fast and redundant access to the Internet and world class facilities for Vocus applications. Vocus has entered into binding legal agreements with Qwest, with the objective, among others, of protecting your privacy, and the privacy of the people who use our software.
+Vocus, Inc. is committed to protecting the privacy of anyone who uses Vocus' online software. One of the ways in which we demonstrate this commitment is through the care we take to protect the privacy of information which we collect when we host your data on our servers. Vocus owns and manages all of its servers. We typically purchase or lease these servers, which we then install in a state-of-the-art data center operated by Qwest. Vocus selected Qwest based on its ability to provide fast and redundant access to the Internet and world class facilities for Vocus applications. Vocus has entered into binding legal agreements with Qwest, with the objective, among others, of protecting your privacy, and the privacy of the people who use our software.
 
 ## Collected Information:
 
@@ -59,7 +65,7 @@ If you feel that Vocus is not abiding by this statement, you should contact us b
 
 ## Cookies:
 
-The Vocus application utilises session specific cookies so that only authenticated users can navigate the application. We also support non-session cookies for allowing the user to automatically remember their login credentials to gain access to the application. If Advanced User Account Security is enabled, then support for non-session cookies is disabled.
+The Vocus application utilizes session specific cookies so that only authenticated users can navigate the application. We also support non-session cookies for allowing the user to automatically remember their login credentials to gain access to the application. If Advanced User Account Security is enabled, then support for non-session cookies is disabled.
 
 ## Security:
 
@@ -83,4 +89,4 @@ Vocus will update this policy from time to time. A "last revised" date will alwa
 
 If you have any questions about this statement, or our practices as they affect the privacy of hosted data, you can contact us on [privacy@vocus.com.](mailto:privacy@vocus.com)
 
-Last revised 11/4/2008.
+Last revised 09/30/2003
