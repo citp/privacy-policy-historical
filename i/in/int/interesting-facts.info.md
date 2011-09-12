@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interesting-facts.info privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611015927id_/http%3A//interesting-facts.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesting-facts.info privacy policy that was archived on 2011-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110912071631id_/http%3A//interesting-facts.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interesting Facts
 
