@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the ashworthcollege.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226002811id_/http%3A//www.ashworthcollege.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashworthcollege.edu privacy policy that was archived on 2011-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110913225647id_/http%3A//www.ashworthcollege.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Ashworth College
 
-## Introduction
+## Privacy Policy and Terms of Use
 
-We recognize the importance of protecting your privacy and the information that you share with us. Described below is our policy on the collection, use, disclosure, maintenance, and protection of personal information that you provide to us through this website.
-
-### Email Policy
-
-We have established an [Email Policy](http://www.ashworthcollege.edu/email/policy/) with respect to email messages containing our content and submitted by third parties on its behalf to email recipients. Please [click here](http://www.ashworthcollege.edu/email/policy/) to view Email Policy.
+We recognize the importance of protecting your privacy and the information that you share with us. Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity. It is designed to assist you in understanding how we collect, use and safeguard the personal information you provide and to help you in making informed decisions when using our site, products and services. This Privacy Policy will be continually assessed against new technologies, business practices and our customers' needs.
 
 ### Collection of Information 
 
-The information that we collect from you through this website will vary depending upon how you use the website and what information you choose to provide to us.If you contact us via e-mail or submit an online request for information, we will collect the information that you provide to us in your e-mail message or request, including your name, contact information, e-mail address and any questions or comments that you may submit.
+We collect personally identifiable information you voluntarily choose to disclose and aggregate information that is automatically collected when you visit the web site. The information that we collect from you will vary depending on how you choose to contact us. If you contact us via e-mail or submit an online request for information, we will collect the information that you provide to us in your e-mail message or request, including your name, contact information, e-mail address and any questions or comments that you may submit.
 
 _We may use cookies or scripts to collect any of the information described above. You may adjust your Internet browser to disable the use of cookies and scripts; however, some functionalities of this website may not be available without the use of cookies and scripts._
 
@@ -22,7 +18,7 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 
 ### Use of Information
 
-If you send us any questions or comments by e-mail, we will use your e-mail address to respond to your questions or comments. If you submit an online request for information, we will use your name and contact information to process your request.
+Broadly speaking, your personal information is used to process your information request and help match your interests with the training you seek. We may store your information and send you updates on your program and our school. We also use personal information for purposes of administering our business activities, providing customer service, and making other products and services available to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to the web site, new services and special offers we think you will find valuable. 
 
 ### Distribution of Information 
 
@@ -34,9 +30,14 @@ When we obtain personal information from you, we will provide you with the oppor
 
 **Ashworth College**  
 Attn: Marketing Manager  
-430 Technology Parkway  
-Norcross, Georgia 30092 e-mail: [marketingmanager@ashworthcollege.edu](mailto:marketingmanager@ashworthcollege.edu)   
-This e-mail address is for name removal only 
+6625 The Corners Parkway, Suite 500  
+Norcross, Georgia 30092
+
+**Phone:** 1-800-957-5412  
+**Fax:** 770-729-9294
+
+**E-mail:** [marketingmanager@ashworthcollege.edu](mailto:marketingmanager@ashworthcollege.edu)   
+(This e-mail address is for name removal only) 
 
 ### Access To Your Information 
 
@@ -45,3 +46,7 @@ Maintaining information that is current, accurate, and complete allows us to mak
 ### Security
 
 We use industry standard security measures to protect any personal information that you may provide to us. However, we cannot guarantee that your submissions to our website, any content residing on our servers, or any transmissions from our server will be completely secure.The Student Online Help Line and the online exams can only be accessed with a valid student number. You are responsible for keeping your student number secret and confidential, and for notifying us if you believe that your student number has been stolen or might otherwise be misused.
+
+### Email Policy
+
+We have established an [Email Policy](http://www.ashworthcollege.edu/email/policy/) with respect to email messages containing our content and submitted by third parties on its behalf to email recipients. Please [click here](http://www.ashworthcollege.edu/email/policy/) to view Email Policy.
