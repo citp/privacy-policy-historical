@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newbizine.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606101301id_/http%3A//newbizine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbizine.com privacy policy that was archived on 2011-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110913085920id_/http%3A//newbizine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NewBiZine Article Directory
+# Privacy Policy | Business Article Directory
 
 ****  
 We look forward to receiving your articles, but we DO NOT under any circumstances accept submissions from bots or services we have not approved. The captcha is there to prove you are human. Any attempts to bypass it using automated services is a blatant disregard for our Terms of Service and will be dealt with accordingly. Please be sure you agree with these terms prior to signing up.
