@@ -1,810 +1,493 @@
-<!--The following is the downloaded HTML source of the terraplana.com privacy policy that was archived on 2011-01-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110103155946id_/http%3A//www.terraplana.com/privacy.php) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title></title>
-<meta name="description" content="Terra Plana employs an innovative approach to shoe making. We strive to achieve our goals of urban respect and eco-sustainability whilst producing shoes that are good for your feet. Terra Plana creates shoes from recycled materials using an unusual combination of artisan techniques and modern technology. We have a number of sub brands which exemplify different aspects of our ethos, such as Vivobarefoot, Worn Again, Dopie and Trip Clip.">
-<meta name="keywords" content="footwear, shoes, fashion, award winning, chrome free, recycled, worn again, dopie, terra plana, trip clip, ladies, men's, sandals, vegetable leather, vivo barefoot">
-<base href="http://www.terraplana.com/">
-<link type="text/css" rel="StyleSheet" href="terraplana-fashion-footwear.css">
-<script language="JavaScript" type="text/javascript" src="includes/google.js"></script>
-<script type="text/javascript"><!--
-  if(window.attachEvent)
-    window.attachEvent("onload",setListeners);
-
-  function setListeners(){
-    inputList = document.getElementsByTagName("INPUT");
-    for(i=0;i<inputList.length;i++){
-      inputList[i].attachEvent("onpropertychange",restoreStyles);
-      inputList[i].style.backgroundColor = "";
-    }
-    selectList = document.getElementsByTagName("SELECT");
-    for(i=0;i<selectList.length;i++){
-      selectList[i].attachEvent("onpropertychange",restoreStyles);
-      selectList[i].style.backgroundColor = "";
-    }
-  }
-
-  function restoreStyles(){
-    if(event.srcElement.style.backgroundColor != "")
-      event.srcElement.style.backgroundColor = "";
-  }
-  
-
-function check_advanced_search() {
-	keywords_value = document.getElementById('keywords').value;
-	if (keywords_value == '' || keywords_value == 'Search keyword or item number') {
-		alert('You must enter some keywords to search');
-		return false;
-	} else {
-		return true;
-	}
-}
--->  
-</script>		
-<!-- BEGIN Joe-so tag --><script src="http://platform.communicatorcorp.com/public/scripts/ConversionTracking.js" type="text/javascript"></script> <script type="text/javascript"> cc_Duration = 10; // Default is 30 days if omitted // ... Set cc_CrossDomain variable here if required (see below) ProcessInbound(); </script> <!-- END Joe-so tag -->
-								<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>  
-  
-  
-<script language="javascript"><!--
-function rowOverEffect(object) {
-  if (object.className == 'moduleRow') object.className = 'moduleRowOver';
-}
-
-function rowOutEffect(object) {
-  if (object.className == 'moduleRowOver') object.className = 'moduleRow';
-}
-//--></script>
-<script language="javascript"><!--
-var form = "";
-var submitted = false;
-var error = false;
-var error_message = "";
-
-function check_dob(year_field_name, month_field_name, day_field_name, field_size, message, valid_empty) {
-  var exists_flags = 0;
-  if (form.elements[year_field_name] && (form.elements[year_field_name].type != "hidden")) {
-    var year_field_value = form.elements[year_field_name].value;
-    if (year_field_value.length > 0) {
-      exists_flags += 100;
-    }
-  }
-  if (form.elements[month_field_name] && (form.elements[month_field_name].type != "hidden")) {
-    var month_field_value = form.elements[month_field_name].value;
-    if (month_field_value.length > 0) {
-      exists_flags += 10;
-    }
-  }
-  if (form.elements[day_field_name] && (form.elements[day_field_name].type != "hidden")) {
-    var day_field_value = form.elements[day_field_name].value;
-    if (day_field_value.length > 0) {
-      exists_flags += 1;
-    }
-  }
-  //user must set no fields or all fields
-  if ( exists_flags != 0 && exists_flags != 111 ) {
-    error_message = error_message + "* " + message + "\n";
-    error = true;
-  }
-  
-  // exception if it's valid to be empty
-  if (!valid_empty && exists_flags == 0) {
-    error_message = error_message + "* " + message + "\n";
-    error = true;
-  }
-}
-
-function check_input(field_name, field_size, message) {
-  if (form.elements[field_name] && (form.elements[field_name].type != "hidden")) {
-    var field_value = form.elements[field_name].value;
-
-    if (field_value == '' || field_value.length < field_size) {
-      error_message = error_message + "* " + message + "\n";
-      error = true;
-    }
-  }
-}
-
-function check_radio(field_name, message) {
-  var isChecked = false;
-
-  if (form.elements[field_name] && (form.elements[field_name].type != "hidden")) {
-    var radio = form.elements[field_name];
-
-    for (var i=0; i<radio.length; i++) {
-      if (radio[i].checked == true) {
-        isChecked = true;
-        break;
-      }
-    }
-
-    if (isChecked == false) {
-      error_message = error_message + "* " + message + "\n";
-      error = true;
-    }
-  }
-}
-
-function check_checkbox(field_name, message) {
-  var isChecked = false;
-
-  if (form.elements[field_name] && (form.elements[field_name].type != "hidden")) {
-    var checkbox = form.elements[field_name];
-    if (checkbox.checked == true) {
-        isChecked = true;
-    }
-
-    if (isChecked == false) {
-      error_message = error_message + "* " + message + "\n";
-      error = true;
-    }
-  }
-}
-
-function check_select(field_name, field_default, message) {
-
-  if (form.elements[field_name] && (form.elements[field_name].type != "hidden")) {
-    var field_value = form.elements[field_name].value;
-
-    if (field_value == field_default) {
-      error_message = error_message + "* " + message + "\n";
-      error = true;
-    }
-  }
-}
-
-function check_password(field_name_1, field_name_2, field_size, message_1, message_2) {
-  if (form.elements[field_name_1] && (form.elements[field_name_1].type != "hidden")) {
-    var password = form.elements[field_name_1].value;
-    var confirmation = form.elements[field_name_2].value;
-
-    if (password == '' || password.length < field_size) {
-      error_message = error_message + "* " + message_1 + "\n";
-      error = true;
-    } else if (password != confirmation) {
-      error_message = error_message + "* " + message_2 + "\n";
-      error = true;
-    }
-  }
-}
-  
- 
-function check_email_confirm(email_field, confirm_field) {
-	if (form.elements[email_field] && form.elements[confirm_field]) {
-		var email_address = form.elements[email_field].value;
-		var email_confirm = form.elements[confirm_field].value;
-		
-		if (email_address != email_confirm) {
-			confirm_error = "The E-Mail Address field must match the Confirm E-Mail Address field";
-			error_message = error_message + "* " + confirm_error + "\n";
-			error = true;
-		}
-	}
-}
-
-
-function check_password_new(field_name_1, field_name_2, field_name_3, field_size, message_1, message_2, message_3) {
-  if (form.elements[field_name_1] && (form.elements[field_name_1].type != "hidden")) {
-    var password_current = form.elements[field_name_1].value;
-    var password_new = form.elements[field_name_2].value;
-    var password_confirmation = form.elements[field_name_3].value;
-
-    if (password_current == '' || password_current.length < field_size) {
-      error_message = error_message + "* " + message_1 + "\n";
-      error = true;
-    } else if (password_new == '' || password_new.length < field_size) {
-      error_message = error_message + "* " + message_2 + "\n";
-      error = true;
-    } else if (password_new != password_confirmation) {
-      error_message = error_message + "* " + message_3 + "\n";
-      error = true;
-    }
-  }
-}
-function refresh_form(form_name) {
-   form_name.action.value = 'refresh';
-   form_name.submit();
-   return true;
-   }
-function check_postcode_finder() {
-	postcode_error = false;
-
-	if (form.elements['street_address'].value == '') postcode_error = true;
-	if (form.elements['postcode'].value == '') postcode_error = true;
-	if (form.elements['city'].value == '') postcode_error = true;
-	if (form.elements['country'].value == '') postcode_error = true;
-	if (form.elements['state'].value == '') postcode_error = true;
-
-	
-	if (postcode_error) {
-		message_postcode_finder = "Please use the Find My Address function to insert your address";
-		error_message = error_message + "* " + message_postcode_finder + "\n";
-		 error = true;
-	}
-}
-
-function check_form(form_name) {
-  if (submitted == true) {
-    alert("This form has already been submitted. Please press Ok and wait for this process to be completed.");
-    return false;
-  }
-  
-  //alert('test');
-
-  error = false;
-  form = form_name;
-  error_message = "Errors have occured during the process of your form.\n\nPlease make the following corrections:\n\n";
-
- 
-  //subzerostudio.com - fix for checkout_shipping_address.php title select error
-  check_select("title", "", "You must select a title from the Titles pull down menu."); 
-  //subzerostudio.com - end
-  
-  check_select("title_id", "", "You must select a title from the Titles pull down menu.");
-  check_input("firstname", 2, "Your First Name must contain a minimum of 2 characters.");
-  check_input("lastname", 2, "Your Last Name must contain a minimum of 2 characters.");
-  
-
-  check_input("email_address", 6, "Your E-Mail Address must contain a minimum of 6 characters.");
-  //check_input("email_address_confirm", 1 "You must fill in the Confirm Email Address field.");
-  check_email_confirm('email_address','email_address_confirm');
-  
-  check_dob("year", "month", "day", 1, "A complete date of birth or leave blank", true);
-  
-  check_address_parts = true;
-  if (document.getElementById('addresstype')) {
-  	if (document.getElementById('addresstype').value == 'uk') {
-  		check_address_parts = false;
-  	}
-  }
-  if (check_address_parts) {
-	  check_input("street_address", 5, "Your Street Address must contain a minimum of 5 characters.");
-	  check_input("postcode2", 4, "Your Post Code must contain a minimum of 4 characters.");
-	  check_input("city", 3, "Your City must contain a minimum of 3 characters.");
-	
-	  check_input("state", 2, "Your State must contain a minimum of 2 characters.");
-	
-	  check_select("country", "", "You must select a country from the Countries pull down menu.");
-  } else {
-  	  check_postcode_finder();
-  }
-
-  check_input("telephone", 3, "Your Telephone Number must contain a minimum of 3 characters.");
-  
-    //subzerostudio.com - added for new medical conditions bit on create account
-  //check_medical_conditions();
-
-  check_password("password", "confirmation", 5, "Your Password must contain a minimum of 5 characters.", "The Password Confirmation must match your Password.");
-  check_password_new("password_current", "password_new", "password_confirmation", 5, "Your Password must contain a minimum of 5 characters.", "Your new Password must contain a minimum of 5 characters.", "The Password Confirmation must match your new Password.");
-
-  check_checkbox('privacy', 'Please confirm your agreement with the privacy policy');
-
-  if (error == true) {
-    alert(error_message);
-    return false;
-  } else {
-    submitted = true;
-    return true;
-  }
-}
-//--></script>
-<link type="text/css" rel="StyleSheet" href="css/tab.webfx.css">
-
-
-
-</head>
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../../Desktop/chinese_trans/menstrans2.gif')">
-<div align="center">
-  <table width="978" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
-    <tbody><tr>
-      <td align="center"><script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
- 
-<table width="1005" border="0" cellspacing="0" cellpadding="0" bgcolor="white" onload="MM_preloadImages('tpimages/mens2.jpg','tpimages/womens2.jpg','tpimages/accessories2.jpg','tpimages/tpbrand2.jpg','tpimages/vivobrand2.jpg','tpimages/dopbrand2.jpg')">
-    <tbody><tr>
-      <td height="16" colspan="2">&nbsp;</td>
-    </tr>
-    <tr>
-      <td height="33" colspan="2" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="16" valign="top"></td>
-          <td width="285" height="33" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td height="1"><img src="images/spacer.gif" width="1" height="1"></td>
-            </tr>
-            <tr>
-              <td><a href="http://www.terraplana.com/index.php"><img src="tpimages/tplogo.gif" alt="TERRA PLANA" width="285" height="26" border="0"></a></td>
-                          </tr>
-          </tbody></table></td>
-          <td height="32" align="right" valign="top"><table border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td width="300" height="1" align="right" valign="bottom"><div id="PLHIM0Div" style="position:relative; width:296px; white-space:nowrap; top: 6px;" dir="ltr">
-  <div id="PLHIM0Main" style="width:100%; height:32px">
-    <ul style="margin:0px;padding:0px;font-family:Tahoma,Verdana,Arial,Helvetica,sans-serif;font-size:9px;font-weight:normal;font-style:normal;">
-  <li style="float:left;list-style:none;text-align:left;width:100px;height:32px;font-size:1px;background-image:url(tpimages/menu/1a.gif);"><a href="account.php" style="display:block;height:32px;"></a></li><li style="float:left;list-style:none;text-align:left;width:98px;height:32px;font-size:1px;background-image:url(tpimages/menu/2a.gif);"><a href="about_tp.php" style="display:block;height:32px;"></a></li><li style="float:left;list-style:none;text-align:left;width:98px;height:32px;font-size:1px;background-image:url(tpimages/menu/3a.gif);">
-<a href="/info" style="display:block;height:32px;"></a></li></ul></div><script type="text/javascript">var PLHIM_ID="PLHIM0"</script>
-    <script type="text/javascript" src="Pluginlab/Scripts/PLHIM5.js">/* PLHIMMenu script ID:PLHIM0 */</script>
- </div>              </td>
-              <td width="14" align="right" valign="bottom">&nbsp;</td>
-              <td width="50" align="right" valign="bottom"><a href="contact_us.php?tab=shops"><img src="tpimages/ourshops.gif" alt="Our Shops" width="57" height="19" border="0"></a></td>
-              <td width="28" align="right" valign="bottom">&nbsp;</td>
-              <td width="15" align="right" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td><img src="images/spacer.gif" width="1" height="11"></td>
-                  <td><a href="http://www.terraplana.com/shopping_cart.php"><img src="tpimages/bag.gif" alt="Shopping bag" width="16" height="19" border="0"></a></td>
-                </tr>
-                <tr>
-                  <td height="3" colspan="2"><img src="images/spacer.gif" width="1" height="3"></td>
-                  </tr>
-              </tbody></table></td>
-              <td width="63" align="center" valign="bottom" class="tpbasket"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td align="center"><a class="tpbasket" href="http://www.terraplana.com/shopping_cart.php">                    0 items</a></td>
-                </tr>
-                <tr>
-                  <td height="4"><img src="images/spacer.gif" width="1" height="4"></td>
-                </tr>
-              </tbody></table></td>
-              <td width="1" align="right" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="tpimages/divider.gif" width="1" height="17"></td>
-  </tr>
-  <tr>
-    <td><img src="images/spacer.gif" width="1" height="3"></td>
-  </tr>
-</tbody></table>
-</td>
-              <td width="13" align="right" valign="bottom">&nbsp;</td>
-              <td width="42" align="right" valign="bottom">
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-					  <td>
-					  <table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="0" class="maincopy">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText"><a href="http://www.terraplana.com/privacy.php?currency=GBP"><img src="images/icons/currency-gbp-off.gif" border="0" alt="Pound (£)" title=" Pound (£) " width="18" height="14"></a><a href="http://www.terraplana.com/privacy.php?currency=EUR"><img src="images/icons/currency-eur-off.gif" border="0" alt="Euro (€)" title=" Euro (€) " width="18" height="14"></a><a href="http://www.terraplana.com/privacy.php?currency=USD"><img src="images/icons/currency-usd.gif" border="0" alt="US Dollar ($)" title=" US Dollar ($) " width="18" height="14"></a><a href="http://www.terraplana.cn/"><img src="images/icons/currency-cn-off.gif" border="0" alt="RMB (�)" title=" RMB (�) " width="18" height="14"></a></td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-					  </td> 
-					</tr>
-					<tr>
-					  <td width="100%" height="3" align="right" valign="bottom"></td>
-					</tr>
-				</tbody></table>
-			  </td>
-			</tr>
-		  </tbody></table>          </td>
-          <td width="13" valign="top"></td>
-        </tr>
-      </tbody></table>        
-      </td>
-    </tr>
-    <tr>
-      <td height="30" colspan="2"><img src="images/spacer.gif" width="1" height="23"></td>
-    </tr>
-    <tr>
-      <td height="45" width="12"></td>
-     
-      <td height="45" valign="top"><table width="978" border="0" cellspacing="0" cellpadding="0" background="tpimages/navbg.jpg">
-        <tbody><tr>
-          <td width="20">&nbsp;</td>
-             
-          <td width="57" height="45" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td height="1"><img src="images/spacer.gif" width="1" height="1"></td>
-            </tr>
-            <tr>
-              <td>                <a class="hcare" href="http://www.terraplana.com/mens-c-153.html"><img src="tpimages/mens1.jpg" alt="Mens" name="mens" width="36" height="14" border="0" id="mens" onmouseover="MM_swapImage('mens','','tpimages/mens2.jpg',1)" onmouseout="MM_swapImgRestore()"></a>                </td>
-            </tr>
-          </tbody></table></td>
-         
-          <td width="2" valign="middle"><img src="tpimages/navrule.jpg" width="2" height="45"></td>
-          <td width="22" valign="middle">&nbsp;</td>
-                  <td width="80" valign="middle">          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td height="1"><img src="images/spacer.gif" width="1" height="1"></td>
-            </tr>
-            <tr>
-              <td>                <a class="hcare" href="http://www.terraplana.com/womens-c-154.html"><img src="tpimages/womens1.jpg" alt="Womens" name="womens" width="59" height="14" border="0" id="womens" onmouseover="MM_swapImage('womens','','tpimages/womens2.jpg',1)" onmouseout="MM_swapImgRestore()"></a>                              </td>
-            </tr>
-          </tbody></table>
-</td>
-         
-          <td width="2" valign="middle"><img src="tpimages/navrule.jpg" width="2" height="45"></td>
-          <td width="22" valign="middle">&nbsp;</td>
-                  <td width="46" valign="middle">            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td height="1"><img src="images/spacer.gif" width="1" height="1"></td>
-              </tr>
-              <tr>
-                <td>                  <a class="hcare" href="http://www.terraplana.com/kids-c-189.html"><img src="tpimages/kids1.jpg" alt="Kids" name="kids" width="29" height="14" border="0" id="kids" onmouseover="MM_swapImage('kids','','tpimages/kids2.jpg',1)" onmouseout="MM_swapImgRestore()"></a>                                  </td>
-              </tr>
-            </tbody></table></td>
-   
-         
-          <td width="2" valign="middle"><img src="tpimages/navrule.jpg" width="2" height="45"></td>
-          <td width="22" valign="middle">&nbsp;</td>
-                  <td width="98" valign="middle">            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td height="1"><img src="images/spacer.gif" width="1" height="1"></td>
-              </tr>
-              <tr>
-                <td>                  <a class="hcare" href="http://www.terraplana.com/accessories-c-155.html"><img src="tpimages/accessories1.jpg" alt="Accessories" name="accessories" width="77" height="14" border="0" id="accessories" onmouseover="MM_swapImage('accessories','','tpimages/accessories2.jpg',1)" onmouseout="MM_swapImgRestore()"></a>                                  </td>
-              </tr>
-            </tbody></table></td>
-             
-          <td width="33" valign="middle"><img src="tpimages/navrule.jpg" width="2" height="45"></td>
-          <td width="121" valign="middle"><a href="http://www.terraplana.com/terraplana.php"><img src="tpimages/tpbrand.jpg" alt="TERRA PLANA" name="tplogo" width="121" height="45" border="0" id="tplogo" onmouseover="MM_swapImage('tplogo','','tpimages/tpbrand2.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-          <td width="22" valign="middle">&nbsp;</td>
-<!--?php
-if ($man_id == 5) { 
-?>	          
-          <td width="80" valign="middle"><!--?php echo '<a href="' . tep_href_link('tripclip.php') . '">'; ?><img src="tpimages/tripclipbrand2.gif" alt="TRIPCLIP" name="tclogo" width="80" height="14" border="0" id="tclogo" ><!--?php echo '</a>' ?></td>
-<!--?php
-} else { 
-?>
-          <td width="80" valign="middle"><!--?php echo '<a href="' . tep_href_link('tripclip.php') . '">'; ?><img src="tpimages/tripclipbrand.gif" alt="TRIPCLIP" name="tclogo" width="80" height="14" border="0" id="tclogo" onMouseOver="MM_swapImage('tclogo','','tpimages/tripclipbrand2.gif',1)" onMouseOut="MM_swapImgRestore()"><!--?php echo '</a>' ?></td>
-<!--?php
-}
-?>
-          <td width="12" valign="middle">&nbsp;</td-->
-          <td width="167" valign="middle"><a href="http://www.terraplana.com/vivobarefoot.php"><img src="tpimages/vivobrand.jpg" alt="VIVOBAREFOOT" name="vblogo" width="152" height="45" border="0" id="vblogo" onmouseover="MM_swapImage('vblogo','','tpimages/vivobrand2.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-          
-<!--?php
-if ($man_id == 3) { 
-?>	          
-          <td width="54" valign="middle"><!--?php echo '<a href="' . tep_href_link('wornagain.php') . '">'; ?><img src="tpimages/wabrand2.gif" alt="WORN AGAIN" name="walogo" width="37" height="27" border="0" id="walogo" ><!--?php echo '</a>' ?></td>
-<!--?php
-} else { 
-?>
-          <td width="54" valign="middle"><!--?php echo '<a href="' . tep_href_link('wornagain.php') . '">'; ?><img src="tpimages/wabrand.gif" alt="WORN AGAIN" name="walogo" width="37" height="27" border="0" id="walogo" onMouseOver="MM_swapImage('walogo','','tpimages/wabrand2.gif',1)" onMouseOut="MM_swapImgRestore()"><!--?php echo '</a>' ?></td>
-<!--?php
-}
-?-->
-          <td width="76" valign="middle"><a href="http://www.terraplana.com/dopie.php"><img src="tpimages/dopbrand.jpg" alt="dopie" name="dopielogo" width="54" height="45" border="0" id="dopielogo" onmouseover="MM_swapImage('dopielogo','','tpimages/dopbrand2.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-
-      <td width="*" valign="middle">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td><form name="quick_find" action="advanced_search_result.php" method="get" style="margin:0; padding:0;" onsubmit="return check_advanced_search()"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td align="right"><script>
-function clearDefault(el) {
-  if (el.defaultValue==el.value) el.value = ""
-}
-            </script>
-                  <input id="keywords" style="border: 1px solid rgb(196, 196, 196); padding-top: 4px; padding-left: 8px; BACKGROUND-COLOR: #FEFEFE; vertical-align:bottom; color: rgb(51, 51, 51); font-size: 11px; height: 23; width: 187px; font-color: rgb(77, 77, 77);font-family: Tahoma,Verdana,Arial,Helvetica,sans-serif" type="text" name="keywords" value="Search" size="28" onfocus="clearDefault(this)">
-                </td>
-
-                <td><input type="image" src="includes/languages/english/images/buttons/searchtp.gif" border="0" alt="search" title=" search "></td>
-              </tr>
-            </tbody></table></form></td>
-          </tr>
-      </tbody></table></td>
-      <td width="12" valign="middle"></td>
-	  </tr></tbody></table></td>
-    </tr>
-	<tr>
-		<td height="12" colspan="15" bgcolor="white"></td>
-	</tr>
-	<tr>
-		<td height="12" colspan="15" bgcolor="#dedede"></td>
-	</tr>
-  </tbody></table>						<table width="1005" border="0" cellspacing="0" cellpadding="13" class="bgimgfix2 " style=""><tbody><tr><td align="center">   
-          <table width="978" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td class="bctp"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td class="bctp"><a href="http://www.terraplana.com/index.php" class="bnew5">Home</a> &gt; Privacy Policy</td>
-                  </tr>
-                </tbody></table>
-              </td>
-            </tr>
-          </tbody></table>
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td width="235" valign="top">
-								<table width="100%" border="0" cellpadding="0" cellspacing="0">
-									<tbody><tr>
-										<td>
-											<table width="100%" border="0" cellspacing="0" cellpadding="0">
-												<tbody><tr>
-													<td height="3" colspan="2"><img src="images/spacer.gif" width="1" height="3"></td>
-												</tr>
-												<tr>
-													<td width="14">&nbsp;</td>
-													<td height="60" valign="middle"><img src="tpimages/privacytit.gif" alt="Privacy"></td>
-												</tr>
-											</tbody></table>
-										</td>
-									</tr>
-								</tbody></table>
-								<table width="235" border="0" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td height="1"><hr></td>
-									</tr>
-								</tbody></table>
-				  
-								  
-
-
-  
-
-
-
-  <table width="235" border="0" cellspacing="0" cellpadding="0">
-
-    <tbody><tr>
-
-      <td height="56" align="center" bgcolor="#F4F4F4"><table width="109" border="0" cellspacing="0" cellpadding="0">
-
-          <tbody><tr>
-
-            <td width="107"><a href="index.php"><img src="tpimages/returntoshop_grey.gif" alt="< return to shop" width="107" height="24" border="0"></a></td>
-
-            <td width="2">&nbsp;</td>
-
-          </tr>
-
-        </tbody></table>
-
-      </td>
-
-    </tr>
-
-  </tbody></table>
-
-  
-
-                
-
-  
-
-
-  
-
-  								
-
-							</td>
-							<td width="14" valign="top">&nbsp;</td>
-							<td valign="top">
-                
-              <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td height="63">&nbsp;</td>
-                </tr>
-                <tr>
-                  <td height="40" valign="middle"><h1 class="title">Our company privacy policy</h1></td>
-                </tr>
-              </tbody></table>
-              <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td valign="top" class="tpmodel"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td height="20">&nbsp;</td>
-                          </tr>
-                          <tr>
-                            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td width="8">&nbsp;</td>
-                                <td class="tpmodel">We are committed to protecting
-                                  your privacy. We will only use the information
-                                  that we collect about you lawfully in accordance
-                                  with the Data Protection Act 1998.
-                                  <p>We collect information about you for 2 reasons:
-                                    firstly, to process your order and secondly,
-                                    to provide you with the best possible service.</p>
-                                  <p>From time to time, we may make sections
-                                    of our mailing list available to carefully
-                                    selected companies whose products and services
-                                    may be of interest to you. We will only include
-                                    your information if you have specifically
-                                    given your consent when creating an account
-                                    or placing an order. We will also give you
-                                    the chance to refuse any marketing email
-                                    from us.</p>
-                                  <p>The type of information we will collect
-                                    about you includes:</p>
-                                  <p><span class="tplistmodel">•</span> your name<br>
-                                    <span class="tplistmodel">•</span>                                    address<br>
-                                    <span class="tplistmodel">•</span>                                    phone number<br>
-                                    <span class="tplistmodel">•</span>                                    email address<br>
-                                    <span class="tplistmodel">•</span>                                    credit/debit card details</p>
-                                  <p>We will never collect sensitive information
-                                    about you without your explicit consent.</p>
-                                  <p>The information we hold will be accurate
-                                    and up to date. You can check the information
-                                    that we hold about you by emailing us. If
-                                    you find any inaccuracies we will delete
-                                    or correct it promptly.</p>
-                                  <p>The personal information which we hold will
-                                    be held securely in accordance with our internal
-                                    security policy and the law.</p>
-                                  <p>We will not transfer your information outside
-                                    the EEA (European Economic Area).</p>
-                                  <p>We may use technology to track the patterns
-                                    of behaviour of visitors to our site. This
-                                    can include using a "cookie" which
-                                    would be stored on your browser. You can
-                                    usually modify your browser to prevent this
-                                    happening. The information collected in this
-                                    way can be used to identify you unless you
-                                    modify your browser settings.</p>
-                                  <p>If you have any questions/comments about
-                                    privacy, you should e-mail us. <br>
-                                    E-mail <strong><a href="mailto:privacy@terraplana.com" class="tplistmodel">privacy@terraplana.com</a></strong>.</p>
-                                  </td>
-                              </tr>
-                            </tbody></table>
-                              </td>
-                          </tr>
-                        </tbody></table></td>
-                      </tr>
-                    </tbody></table>
-                    </td>
-                  </tr>
-                </tbody></table>  
-                <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td height="38">&nbsp;</td>
-                </tr>
-              </tbody></table>
-  							</td>
-            </tr>
-          </tbody></table>
-      </td></tr></tbody></table>
-		</td></tr>
-		<tr bgcolor="#dedede"><td height="12" align="center"></td></tr>
-		<tr><td align="center">			
-			<table width="978" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td height="13" valign="top"><img src="tpimages/spacer.gif" width="1" height="13"></td>
-				</tr>
-				<tr>
-					<td>
-							
-<script language="javascript">
-<!--
-function check_newsletter() {
-	email_value = document.getElementById('femail').value;
-	if (email_value == '' || email_value == 'Email address') {
-		alert('You must enter your email address to continue');
-		return false;
-	} else {
-		return true;
-	}
-}
--->
-</script>
-
-<table width="978" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="40" valign="top" bgcolor="#F4F4F4"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="50%" valign="middle">      <form method="get" action="newsletter.php" style="margin:0; padding:0;" onsubmit="return check_newsletter()"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="137"><img src="tpimages/emailsu.gif" alt="email sign up" width="137" height="40"></td>
-          <td width="10">&nbsp;</td>
-          <td width="187"><input id="femail" name="femail" type="text" value="Email address" style="border: 1px solid rgb(196, 196, 196); padding-top: 4px; padding-left: 8px; BACKGROUND-COLOR: #FEFEFE; vertical-align:bottom; color: rgb(51, 51, 51); font-size: 11px; height: 23; width: 187px; font-color: rgb(77, 77, 77);font-family: Tahoma,Verdana,Arial,Helvetica,sans-serif" size="40" onfocus="clearDefault(this)"></td>
-          <td width="9">&nbsp;</td>
-          <td>            <input name="homebtn" type="image" value="ok" src="tpimages/sendmegoodness.gif" alt="send me goodness" width="128" height="23"></td>
-          <td width="2"></td>
-        </tr>
-      </tbody></table></form></td>
-    <td width="50%" align="right" valign="middle">
-<!-- ADDTHIS BUTTON BEGIN -->
+<!--The following is the downloaded HTML source of the terraplana.com privacy policy that was archived on 2011-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110913052414id_/http%3A//www.terraplana.com/uk/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Terra Plana |  Privacy Policy UK</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="We make shoes. Better for you. Better for the environment.">
+<meta name="keywords" content="terraplana, ethical, fashion, footwear">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://www.terraplana.com/skin/frontend/default/blank/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.terraplana.com/skin/frontend/default/blank/favicon.ico" type="image/x-icon">
 <script type="text/javascript">
-addthis_pub             = 'cforscutt'; 
-addthis_logo            = 'http://www.terraplana.com/tpimages/tplogo.gif';
-addthis_logo_background = 'FFFFFF';
-addthis_logo_color      = '000000';
-addthis_brand           = 'Terra Plana';
-addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+//<![CDATA[
+    var BLANK_URL = 'http://www.terraplana.com/js/blank.html';
+    var BLANK_IMG = 'http://www.terraplana.com/js/spacer.gif';
+	var MBASE_URL = 'http://www.terraplana.com/uk/';
+//]]>
 </script>
-<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" alt="" width="125" height="16" vspace="11" border="0"></a>
-<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-<!-- ADDTHIS BUTTON END -->&nbsp;</td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-  <tr>
-    <td height="19" valign="top"><img src="tpimages/spacer.gif" width="1" height="19"></td>
-  </tr>
-  <tr>
-    <td height="11" valign="top">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="8"><img src="tpimages/spacer.gif" width="8" height="1"></td>
-          <td height="11" class="tpfooter"><a href="about_tp.php" class="tpfooter">About
-              Terra Plana</a><span class="tpfooter">|</span><a href="/presscentre" class="tpfooter">Press</a><span class="tpfooter">|</span><a href="contact_us.php" class="tpfooter">Contact
-              us</a><span class="tpfooter">|</span><a href="help.php" class="tpfooter">Help</a><span class="tpfooter">|</span><a href="downloads.php" class="tpfooter">Downloads</a>
-<span class="tpfooter">|</span><a href="privacy.php" class="tpfooter">Privacy
-              policy</a><span class="tpfooter">|</span><a href="conditions_usa.php" class="tpfooter">Terms and conditions</a>
-<span class="tpfooter">|</span><a href="sitemap.php" class="tpfooter">Site
-              map</a><span class="tpfooter">|</span><a href="delivery.php" class="tpfooter">Delivery
-              and returns</a><span class="tpfooter">|</span><a class="tpfooter" href="ftp://ftp.terraplana.com" target="_blank">Wholesaler
-              log-in</a></td>
-          <td align="right" class="tpfooter3">© 2011  <a href="http://www.fullenglish.com" target="_blank" class="tpfooter">fullenglish.com</a></td>
-          <td width="4" align="right"><img src="tpimages/spacer.gif" width="4" height="1"></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td height="19" valign="top">&nbsp;</td>
-  </tr>
-</tbody></table>
-<script language="JavaScript" type="text/javascript" src="includes/google2.js"></script>					</td>
-				</tr>
-			</tbody></table>
-		</td></tr>
-		<tr bgcolor="#dedede"><td height="41" align="center"></td></tr>
-	</tbody></table>
-</div>
+<script type="text/javascript" src="http://www.terraplana.com/js/index.php?c=auto&amp;f=,jquery/jquery-1.4.2.min.js,jquery/jquery-noconflict.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/default/blank/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/default/blank/css/main.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/default/blank/css/blog.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/default/default/css/magentweet.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/default/blank/css/print.css" media="print">
+<script type="text/javascript" src="http://www.terraplana.com/media/js/46528d9ebf6dbebb5f81e8eebac61edc.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/default/blank/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/default/blank/css/ie.css" media="all" />
+<script type="text/javascript" src="http://www.terraplana.com/media/js/994d3e489fcc1ed9c85314553df66c27.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://www.terraplana.com/skin/frontend/default/blank/css/styles-ie-all.css" media="all" />
+<![endif]-->
 
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><link href="http://www.terraplana.com/skin/frontend/default/blank/css/stylish-select.css" rel="stylesheet" type="text/css">
+<script src="http://www.terraplana.com/skin/frontend/default/blank/js/jquery.DOMWindow.pack.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.terraplana.com/skin/frontend/default/blank/js/jquery.tabs.pack.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.terraplana.com/skin/frontend/default/blank/js/jquery.textoverflow.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.terraplana.com/skin/frontend/default/blank/js/scripts.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.terraplana.com/skin/frontend/default/blank/js/jquery.jqtransform.js" type="text/javascript" charset="utf-8"></script>
+<!--[if lte IE 6]>
+	<script type="text/javascript">
+		sfHover = function() {
+		var sfEls = document.getElementById("mainNav").getElementsByTagName("LI");
+		for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+		this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+		this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+		}
+		}
+		if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+	<style type="text/css" media="screen"> 
+		body { behaviour:url(http://www.terraplana.com/skin/frontend/default/blank/js/csshover.htc) }
+		#non-bg .shop #sidebar { background:#f9f9f9; filter:alpha(opacity=60); opacity:0.6; }
+		#menu { background:#000000; filter:alpha(opacity=30); opacity:0.3; }
+		.products-grid li.item.sfhover .item_h { background:#efefef; }
+</style>
+<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body class=" cms-page-view cms-privacy-policy">
+		<div id="non-bg" class="TPInfoPro">
+	
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+
+    var _gaq = _gaq || [];
+
+_gaq.push(['_setAccount', 'UA-202834-11']);
+_gaq.push(['_trackPageview']);
+
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->        <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+            </div>
+        </div>
+    </noscript>
+         
+<div id="header" class="section">
+			<div class="contents">
+				<h1 id="logo"><a href="http://www.terraplana.com/uk/" title="Terra Plana" class="logo"><img src="http://www.terraplana.com/skin/frontend/default/blank/images/logo-terra-plana.png" alt="Terra Plana"></a></h1>
+												<form id="search_mini_form" action="http://www.terraplana.com/uk/catalogsearch/result/" method="get" onsubmit="return CheckBlVal();">
+					<fieldset id="search-box">
+						<input type="text" class="text" name="q" id="search" value="SEARCH" onfocus="javascript:if(this.value=='SEARCH')this.value='';" onblur="javascript:if(this.value=='')this.value='SEARCH';">
+						<input type="image" class="button" src="http://www.terraplana.com/skin/frontend/default/blank/images/forms/btn-search.gif" alt="Go!">
+					</fieldset><!-- /#search-box -->
+</form>
+<script type="text/javascript">
+	function CheckBlVal(){
+		if($('search').value=='' || $('search').value=='SEARCH'){
+			return false;
+		}
+		return true;
+	}
+</script>				
+				<ul class="nav">
+            <li class="first"><a href="https://www.terraplana.com/uk/customer/account/" title="My Account">My Account</a></li>
+            <li class=" last"><a href="http://www.terraplana.com/uk/checkout/cart/" title="My Shopping Bag" class="top-link-cart">My Shopping Bag</a></li>
+    				<li><a class="popup-countries" href="#country-selection">United Kingdom</a></li>
+</ul>
+<!-- /.nav -->
+								
+			</div><!-- /.contents -->
+			
+		</div>
+		
+        <div id="menu" class="section">
+    <ul class="contents nav">
+        <li class="level0 nav-1">
+<a href="http://www.terraplana.com/uk/mens.html"><span>Mens</span></a>
+</li>
+<li class="level0 nav-2">
+<a href="http://www.terraplana.com/uk/ladies.html"><span>Ladies</span></a>
+</li>
+		<li><a href="http://www.terraplana.com/uk/about-us/">About</a></li>
+		
+		<li><a href="http://www.terraplana.com/uk/community/">Community</a></li>
+		
+		<li><a href="http://www.terraplana.com/uk/info/">Info</a></li>
+		
+		<!--<li class='active'><a href="">Join</a></li>-->
+		<li class="navigationimage"><a href="http://www.vivobarefoot.com/" target="_blank"><img src="http://www.terraplana.com/skin/frontend/default/blank/images/vivologotp.png" alt="VISIT OUR VIVOBAREFOOT SITE" title="VISIT OUR VIVOBAREFOOT SITE"></a></li>
+    </ul>
+</div>
+		<div id="body" class="section">
+			<div class="contents page">
+				<h2 class="page-head"><a href="http://www.terraplana.com/uk/info/" class="communityLink">Info</a></h2>
+				<div class="col-left sidebar" id="sidebar">
+						
+
+
+<div class="module">
+
+						<h2>In This Section</h2>
+						<ul class="cmsleft">
+
+							<li><a href="http://www.terraplana.com/uk/contacts/">Customer Service</a>
+								<ul>
+									<li><a href="http://www.terraplana.com/uk/contacts/">Contact us</a></li>
+									<li><a href="http://www.terraplana.com/uk/ifaq/">FAQ</a></li>
+									<li><a href="http://www.terraplana.com/uk/delivery-returns/">Deliveries and Returns</a></li>
+									<li><a href="http://www.terraplana.com/uk/sizing/">Size Guide</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="http://www.terraplana.com/uk/our-shops/">Shops</a>
+								<ul>
+									<li><a href="http://www.terraplana.com/uk/our-shops/">Our Shops</a></li>
+		
+									<li><a href="http://www.terraplana.com/uk/store-locator/">Store Locator</a></li>
+									<li><a href="http://www.terraplana.com/uk/wholesale/">Wholesale and PR</a></li>
+								</ul>
+							</li>
+							
+							<li><a href="http://www.terraplana.com/uk/newsletter/">Newsletter</a></li>
+							<li><a href="http://www.terraplana.com/uk/affiliates/">Affiliates</a></li>
+							<li><a href="http://www.terraplana.com/uk/friends-of-tp/">Friends of TP</a></li>
+							<li class="active"><a href="http://www.terraplana.com/uk/privacy-policy/">Privacy Policy</a></li>
+							<li><a href="http://www.terraplana.com/uk/terms-conditions/">Terms and Conditions</a></li>
+							<li><a href="http://www.terraplana.com/uk/careers/">Careers</a></li>
+							<li><a href="http://www.terraplana.com/uk/sitemap/">Sitemap</a></li>
+						</ul>
+
+					</div>
+
+																</div>
+                <div class="col-main" id="content">
+					                                        <div class="std"><h3 class="title">Privacy Policy UK</h3>
+<p>We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998.</p>
+<p>We collect information about you for two reasons: firstly, to process your order and secondly, to provide you with the best possible service.</p>
+<p>From time to time, we may make sections of our mailing list available to carefully selected companies whose products and services may be of interest to you. We will only include your information if you have specifically given your consent when creating an account or placing an order. We will also give you the chance to refuse any marketing emails from us.</p>
+<p>The type of information we will collect about you includes:</p>
+<p>•&nbsp;your name<br> •&nbsp;address<br> •&nbsp;phone number<br> •&nbsp;email address<br> •&nbsp;credit/debit card details</p>
+<p>We will never collect sensitive information about you without your explicit consent.</p>
+<p>The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.</p>
+<p>The personal information which we hold will be held securely in accordance with our internal security policy and the law.</p>
+<p>We will not transfer your information outside the EEA (European Economic Area).</p>
+<p>We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.</p>
+<p>If you have any questions/comments about privacy, you should e-mail us.&nbsp;<br> E-mail&nbsp;<a href="mailto:privacy@terraplana.com">privacy@terraplana.com</a>.</p></div>                </div>
+				<div id="sidebar2">  </div>
+            </div>
+        </div>
+		<div style="clear:both;"></div>
+        
+<div id="footer" class="section">
+  <div class="contents"> <div class="col">
+<h2>Mens</h2>
+<ul class="nav">
+<li><a href="http://www.terraplana.com/uk/mens.html?type_product=91/">Terra Plana</a></li>
+<li><a href="http://www.terraplana.com/uk/mens.html?type_product=40/">Dopie</a></li>
+<li><a href="http://www.terraplana.com/uk/mens.html?type_product=42/">Accessories</a></li>
+</ul>
+</div>
+<!-- /.col -->
+<div class="col">
+<h2>Ladies</h2>
+<ul class="nav">
+<li><a href="http://www.terraplana.com/uk/ladies.html?type_product=91/">Terra Plana</a></li>
+<li><a href="http://www.terraplana.com/uk/ladies.html?type_product=40/">Dopie</a></li>
+<li><a href="http://www.terraplana.com/uk/ladies.html?type_product=42/">Accessories</a></li>
+</ul>
+</div>
+<!-- /.col -->
+<!--<div class="col">
+<h2>Kids</h2>
+<ul class="nav">
+<li><a href="http://www.terraplana.com/uk/kids.html?type_product=40/">Dopie</a></li>
+</ul>
+</div>-->
+<!-- /.col -->
+<div class="col">
+<h2>About</h2>
+<ul class="nav">
+<li><a href="http://www.terraplana.com/uk/about-us/">About Terra Plana</a></li>
+<li><a href="http://www.terraplana.com/uk/ethical-policy/">Ethical Policy</a></li>
+<li><a href="http://www.terraplana.com/uk/eco-partners/">Eco Partners and Materials</a></li>
+<li><a href="http://www.terraplana.com/uk/vegan-greenpeace/">Vegan including Greenpeace</a></li>
+<li><a href="http://www.terraplana.com/uk/eco-matrix/">Eco Matrix</a></li>
+<li><a href="http://www.terraplana.com/uk/guarantee/">Sustainable Guarantee</a></li>
+<li><a href="http://www.terraplana.com/uk/key-people/">Key People</a></li>
+</ul>
+</div>
+<!-- /.col -->
+<div class="col">
+<h2>Community</h2>
+<ul class="nav">
+<li><a href="http://www.terraplana.com/uk/community/?cat=36/">Blog</a></li>
+<li><a href="http://www.terraplana.com/uk/community/?cat=8/">Press</a></li> 
+<li><a href="http://www.facebook.com/terraplana" target="_blank">Facebook</a></li>
+<li><a href="http://twitter.com/Terra_Plana" target="_blank">Twitter</a></li>
+</ul>
+</div>
+<!-- /.col -->
+<div class="col info last">
+<h2>Info</h2>
+<ul class="nav">
+<li><a href="http://www.terraplana.com/uk/contacts/">Customer Service</a></li>
+<li><a href="http://www.terraplana.com/uk/our-shops/">Shops</a></li>
+<li><a href="http://www.terraplana.com/uk/sizing/">Sizing</a></li>
+<li><a href="http://www.terraplana.com/uk/delivery-returns/">Deliveries and Returns</a></li>
+<li><a href="http://www.terraplana.com/uk/newsletter/">Newsletter</a></li>
+<li><a href="http://www.terraplana.com/uk/ifaq/">FAQ</a></li>
+<li><a href="http://www.terraplana.com/uk/careers/">Careers</a></li>
+<li><a href="http://www.terraplana.com/uk/contacts/">Contact us</a></li>
+<li><a href="ftp://ftp.terraplana.com" target="_blank">Wholesaler log-in</a></li>
+</ul>
+</div>
+<!-- /.col --> 
+<div id="popups">
+  <div id="join-popup">
+    <div class="popup-conts"> <a href="#" class="close-popup">close</a>
+      <h1>Join</h1>
+      <p>Want to be the first to hear about our exciting new products and offers?</p>
+      <p>Sign up here:</p>
+      <form action="#">
+        <fieldset>
+        <input class="text" type="text" value="FIRST NAME" onfocus="javascript:if(this.value=='FIRST NAME')this.value='';" onblur="javascript:if(this.value=='')this.value='FIRST NAME';">
+        <input class="text" type="text" value="LAST NAME" onfocus="javascript:if(this.value=='LAST NAME')this.value='';" onblur="javascript:if(this.value=='')this.value='LAST NAME';">
+        <input class="text" type="text" value="EMAIL" onfocus="javascript:if(this.value=='EMAIL')this.value='';" onblur="javascript:if(this.value=='')this.value='EMAIL';">
+        <input class="button" type="submit" value="SIGN ME UP!">
+        </fieldset>
+      </form>
+    </div>
+  </div>
+		
+    <div id="sizing-chart-mens"><div class="popup-conts">
+	<a href="#" class="close-popup">close</a>
+	<h1>Mens Sizing Chart</h1>
+	<p>Size comparison table between regions:</p>
+	<table cellspacing="0" class="sizing">
+	<tbody>
+	    <tr class="first">
+		<th>European</th>
+		<td>40</td>
+		<td>41</td>
+		<td>42</td>
+		<td>43</td>
+		<td>44</td>
+		<td>45</td>
+		<td>46</td>
+		<td>47</td>
+		<td>48</td>
+		<td>49</td>
+	    </tr>
+	    <tr>
+		<th>UK</th>
+		<td>6</td>
+		<td>7</td>
+		<td>8</td>
+		<td>9</td>
+		<td>10</td>
+		<td>11</td>
+		<td>12</td>
+		<td>13</td>
+		<td>14</td>
+		<td>15</td>
+	    </tr>
+	    <tr class="last">
+		<th>USA</th>
+		<td>7</td>
+		<td>8</td>
+		<td>9</td>
+		<td>10</td>
+		<td>11</td>
+		<td>12</td>
+		<td>13</td>
+		<td>14</td>
+		<td>15</td>
+		<td>16</td>
+	    </tr>
+	</tbody>
+	</table><!-- /.sizing -->
+    </div></div><!-- /.popup-conts -->
+
+    <div id="sizing-chart-ladies"><div class="popup-conts">
+	<a href="#" class="close-popup">close</a>
+	<h1>Women's Sizing Chart</h1>
+	<p>Size comparison table between regions:</p>
+	<table cellspacing="0" class="sizing">
+	<tbody>
+	    <tr class="first">
+		<th>European</th>
+		<td>35</td>
+		<td>36</td>
+		<td>37</td>
+		<td>38</td>
+		<td>39</td>
+		<td>40</td>
+		<td>41</td>
+		<td>42</td>
+		<td>43</td>
+	    </tr>
+	    <tr>
+		<th>UK</th>
+		<td>2.5</td>
+		<td>3</td>
+		<td>4</td>
+		<td>5</td>
+		<td>6</td>
+		<td>7</td>
+		<td>8</td>
+		<td>9</td>
+		<td>10</td>
+	    </tr>
+	    <tr class="last">
+		<th>USA</th>
+		<td>4.5</td>
+		<td>6</td>
+		<td>7</td>
+		<td>8</td>
+		<td>8.5</td>
+		<td>9</td>
+		<td>10</td>
+		<td>11</td>
+		<td>12</td>
+	    </tr>
+	</tbody>
+	</table><!-- /.sizing -->
+    </div></div><!-- /.popup-conts -->
+
+    <div id="sizing-chart-kids"><div class="popup-conts">
+	<a href="#" class="close-popup">close</a>
+	<h1>Kid's Sizing Chart</h1>
+	<p>Size comparison table between regions:</p>
+	<table cellspacing="0" class="sizing">
+	<tbody>
+	    <tr class="first">
+		<th>European</th>
+		<td>18</td>
+		<td>20</td>
+		<td>21</td>
+		<td>22</td>
+		<td>23</td>
+		<td>24</td>
+		<td>25</td>
+		<td>26</td>
+		<td>27</td>
+		<td>28</td>
+		<td>29</td>
+		<td>30</td>
+		<td>31</td>
+		<td>32</td>
+		<td>33</td>
+		<td>34</td>
+		<td>35</td>
+		<td>36</td>
+		<td>37</td>
+		<td>38</td>
+		<td>39</td>
+	    </tr>
+	    <tr>
+		<th>UK</th>
+		<td>2</td>
+		<td>4</td>
+		<td>4.5</td>
+		<td>5.5</td>
+		<td>6</td>
+		<td>7</td>
+		<td>8</td>
+		<td>8.5</td>
+		<td>9.5</td>
+		<td>10</td>
+		<td>10.5</td>
+		<td>11.5</td>
+		<td>12.5</td>
+		<td>13</td>
+		<td>1</td>
+		<td>2</td>
+		<td>2.5</td>
+		<td>3</td>
+		<td>4</td>
+		<td>5</td>
+		<td>6</td>
+	    </tr>
+	    <tr class="last">
+		<th>USA</th>
+		<td>3</td>				
+		<td>5</td>
+		<td>5.5</td>
+		<td>6.5</td>
+		<td>7</td>
+		<td>8</td>
+		<td>9</td>
+		<td>9.5</td>
+		<td>10.5</td>
+		<td>11</td>
+		<td>11.5</td>
+		<td>12.5</td>
+		<td>13.5</td>
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+		<td>4.5</td>
+		<td>6</td>
+		<td>7</td>
+		<td>8</td>
+		<td>8.5</td>
+	    </tr>
+	</tbody>
+	</table><!-- /.sizing -->
+    </div></div><!-- /.popup-conts -->
+
+
+
+
+ 
+  <div id="country-selection">
+    <div class="popup-conts"> <a href="#" class="close-popup">close</a>
+      <h1>Your Country</h1>
+      <p>Please select a country from below:</p>
+<ul class="countries">
+         <li><img src="http://www.terraplana.com/skin/frontend/default/blank/images/icons/flag_eu.gif" width="22" height="16" alt=""><a href="http://www.terraplana.com/eu/">Europe</a></li>
+	      <li><img src="http://www.terraplana.com/skin/frontend/default/blank/images/icons/flag_uk.gif" width="22" height="16" alt=""><a href="http://www.terraplana.com/uk/">United Kingdom</a></li>
+	      <li><img src="http://www.terraplana.com/skin/frontend/default/blank/images/icons/flag_us.gif" width="22" height="16" alt=""><a href="http://www.terraplana.com/us/">United States</a></li>
+	</ul>
+    <div class="note"><p>At Terra Plana we have two fulfillment warehouses. We have one in the USA that handles orders for 'Americas' and a UK warehouse that handles all other destinations. <br>Please use the destination selector above which will allow you to place your order to the correct warehouse.</p></div>
+    </div>
+  </div>
+</div>
+    <p id="copyright">
+		© 2011 Terra Plana. All rights reserved | <a href="http://www.terraplana.com/uk/privacy-policy/">Privacy</a> | <a href="http://www.terraplana.com/uk/sitemap/">Site Map</a> | <a href="http://www.terraplana.com/uk/terms-conditions/">Conditions of Use</a>.	</p>
+	<!-- IP: 10.56.129.254 -->
+  </div>
+<p></p>
+  <!-- /.contents -->
+</div>
+<!---->
+        </div>
 
 
 </body></html>
