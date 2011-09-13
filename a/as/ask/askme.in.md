@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askme.in privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511145416id_/http%3A//www.askme.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askme.in privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914014807id_/http%3A//www.askme.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy on Askme
 
 ## We take your privacy seriously. Please read the following to learn more about our privacy policy
 
