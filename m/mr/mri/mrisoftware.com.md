@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrisoftware.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520014516id_/http%3A//www.mrisoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrisoftware.com privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914031606id_/http%3A//www.mrisoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -22,9 +22,9 @@ We have limited relationships with third parties to assist us in servicing you, 
 Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. [Tell me more](http://www.mrisoftware.com/privacy/webtechnology.asp)
 
 **We give you choice and control**  
-We may use your contact information to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. You may also specify your contact preferences by visiting our [Contact Change Form](https://web.archive.org/web/20110520014516id_/http%3A//CSLogin/ClientUpdate.asp). If you do not want to receive this type of information about MRI Software products and services, please visit our [Contact Change Form](https://web.archive.org/web/20110520014516id_/http%3A//CSLogin/ClientUpdate.asp). When you decide to decline promotional materials, you will still receive service communications, legally mandated notices, and critical messages that could impact your business and usage of the product. 
+We may use your contact information to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. You may also specify your contact preferences by visiting our [Contact Change Form](https://web.archive.org/web/20110914031606id_/http%3A//CSLogin/ClientUpdate.asp). If you do not want to receive this type of information about MRI Software products and services, please visit our [Contact Change Form](https://web.archive.org/web/20110914031606id_/http%3A//CSLogin/ClientUpdate.asp). When you decide to decline promotional materials, you will still receive service communications, legally mandated notices, and critical messages that could impact your business and usage of the product. 
 
-You can update or correct your contact information anytime by visiting our [Contact Change Form](https://web.archive.org/web/20110520014516id_/http%3A//CSLogin/ClientUpdate.asp)[.](mailto:%20%20IRESprivacy@intuit.com)
+You can update or correct your contact information anytime by visiting our [Contact Change Form](https://web.archive.org/web/20110914031606id_/http%3A//CSLogin/ClientUpdate.asp)[.](mailto:%20%20IRESprivacy@intuit.com)
 
 **You can contact us**  
 If you have questions or concerns about MRI Software's collection, use, or disclosure of your personal information, please contact MRI Software's Privacy Team or write us at: 
