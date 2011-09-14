@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laptopdrivers.net privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126053441id_/http%3A//www.laptopdrivers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopdrivers.net privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914113608id_/http%3A//www.laptopdrivers.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Ultimate Laptop Drivers, Laptop Reviews & Laptop Specs Resource – Laptopdrivers.net
+# Privacy Policy All Laptop Drivers, Patches and Updates. – Laptopdrivers.net
 
 Thank you for visiting Laptopdrivers.net, an Ultimate Laptop Drivers site. Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this site.  
 The Information We Collect
