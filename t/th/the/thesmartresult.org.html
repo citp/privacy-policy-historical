@@ -1,133 +1,202 @@
-<!--The following is the downloaded HTML source of the thesmartresult.org privacy policy that was archived on 2010-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629025828id_/http%3A//thesmartresult.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesmartresult.org privacy policy that was archived on 2011-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110914160022id_/http%3A//shop.thesmartresult.org/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-	<title>TheSmartResult</title>
-	<style type="text/css" media="screen"> 
-		/* baseurl = 100/7594/ */
-		/* adtype = 100 */
-		/* adid = 7594 */
-	</style>
+<html><head>
+	<title>The Smart Result - hdtv tvs</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+	<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css">
+	<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu-v.css">
+	<link rel="stylesheet" type="text/css" href="css/tsr.css">
+	<style type="text/css">
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+/* smart image enlarger starts here */
+/* If your images are not linking to other pages leave the links as <a href="#nogo"> Otherwise enlarger won't work in IE6 */
+
+.ienlarger {
+	float: left;
+	clear: none; /* set to left or right if needed */
+	padding-bottom: 5px; /* space between thumbs. Don't change this to margin */
+	padding-right: 5px; /* space between thumbs and wrapping text when there is any text around it */
+}
+
+.ienlarger a { 
+	display:block;
+	text-decoration: none;
+/* add cursor:default; to this rule to disable the hand cursor */
+}
+
+.ienlarger a:hover{ /* don't move this positioning to normal state */
+ 	position:relative;
+}
+
+.ienlarger span img {
+	border: 1px solid #FFFFFF; /* adds a border around the image */
+	margin-bottom: 8px; /* pushes the text down from the image */
+}
+
+.ienlarger a span {  /* this is for the large image and the caption */
+	position: absolute;
+	display:none;
+	color: #FFCC00; /* caption text colour */
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px; /* caption text size */
+	background-color: #9AC774;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 13px;
+	padding-left: 10px;
+}
+
+.ienlarger img { /* leave or IE puts a border around links */
+border-width: 0;
+}
+
+.ienlarger a:hover span { 
+	display:block;
+	top: 50px; /* means the pop-up's top is 50px away from thumb's top */
+	left: 90px; /* means the pop-up's left is 90px far from the thumb's left */
+	z-index: 100;
 	
-	<link href="../../css/style_old.css" rel="stylesheet" type="text/css" media="all">
-	<link href="../../css/style.css" rel="stylesheet" type="text/css" media="all">
+/* If you want the pop-up open to the left of thumb, remove the left: 90px; and add  
+right: 90px; This would mean the right side of the pop-up is 90px far from the right side of thumb */	
+
+/* If you want the pop-up open above the thumb, remove the top: 50px; and add  
+bottom: 50px; This would mean the bottom of the pop-up is 50px far from the bottom of thumb */	
+
+/* add cursor:default; to this rule to disable the hand cursor only for the large image */
+}
+
+.resize_thumb {
+	width: 60px; /* enter desired thumb width here */
+	height : auto;
+}
+
+/* smart image enlarger ends here */
+
+</style>
+
 	
-	<script type="text/javascript" src="../../js/jquery.min.js"></script>
-	<script type="text/javascript" src="../../js/jquery.pngFix.js"></script>
-	<!--<script type="text/javascript" src="../../js/jquery.pngFix.pack.js"></script>-->
-	<script type="text/javascript"> 
-		$(document).ready(function(){ 
-			$(document).pngFix(); 
-		}); 
-	</script>
-	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="js/ddsmoothmenu.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".expand_shopping").click( function() {
+		$(".expand_shopping").hide();
+		$(".prod_title").hide();
+		$(".prod_desc").hide();
+		$(".prod_price").hide();
+		$(".prod_desc_full").css('display','block');
+		}, function() {
+		$(".prod_desc_full").hide();
+		$(".prod_desc").css('display','block');
+		$(".prod_title").css('display','block');
+		$(".prod_price").css('display','block');
+		});	
+});
+
+
+//***this goes on the global scope
+//get querystring as an array split on "&"
+var querystring = location.search.replace( '?', '' ).split( '&' );
+//declare object
+var queryObj = {};
+//loop through each name-value pair and populate object
+for ( var i=0; i<querystring.length; i++ ) {
+ // get name and value
+ var name = querystring[i].split('=')[0];
+ var value = querystring[i].split('=')[1];
+ // populate object
+ queryObj[name] = value;
+}
+
+if (queryObj[ "exp" ] == "1" ) {
+	$(document).ready(function() {
+			$(".expand_shopping").hide();
+			$(".prod_title").hide();
+			$(".prod_desc").hide();
+			$(".prod_price").hide();
+			$(".prod_desc_full").css('display','block');
+			});	
+}
+
+</script>	
 	<script type="text/javascript">
-    function ChangeColor(tableRow, highLight)
-    {
-    if (highLight)
-    {
-      tableRow.style.backgroundColor = '#DBEBFF';
-      tableRow.style.cursor = 'default';
-    }
-    else
-    {
-      tableRow.style.backgroundColor = 'white';
-      tableRow.style.cursor = 'default';
-    }
-  }
 
-	function DoNav(theUrl)
-	{
-	document.location.href = theUrl;
-	}
-  </script>
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu1", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
 
-	
-	
-	<!--[if IE 7]>
-	<link href="../../css/ie7.css" rel="stylesheet" type="text/css">
-	<![endif]-->
-	<!--[if IE 6]>
-	<link href="../../css/ie6.css" rel="stylesheet" type="text/css">
-	<![endif]--></head>
+//ddsmoothmenu.init({
+//	mainmenuid: "smoothmenu2", //Menu DIV id
+//	orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+//	classname: 'ddsmoothmenu-v', //class added to menu's outer DIV
+//	//customtheme: ["#804000", "#482400"],
+//	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+//})
+
+</script>
+
+	<style type="text/css">
+
+	</style>
+</head>
 <body>
-	<!--/*Tabs*/-->
-		<div id="info_searchbk">
-	<div id="infosearch">
-		<div id="info-menu">
-		 	<span class="menu1"></span>
-			<span class="menu2">
-				<ul class="tre">
-					<li class="tre"><a href="index.php"><img src="../../images/trends-but.png" alt="trends" border="0"></a></li>
-				</ul>
-			</span>
-			<span class="menu3"></span>
-			<span class="menu4"></span>
-			<span class="menu5">
-			<ul class="tre">
-				<li class="tre"><a href="history.php"><img src="../../images/history-but.png" alt="history" border="0"></a></li>
-			</ul>
-			</span>
-			<span class="menu6"></span>
-		</div>	
-	</div>
-</div>	<!--/*Tabs*/-->
-	<!--/*container*/-->
-	<div id="info_container">
-	<!-- Searchbox	-->
-	<div id="info-banner">
-   <div id="hrsearch">
-      <a href="../../index.php"><span class="logo"><img src="../../images/logo.png" alt="logo" border="0"></span></a>
-	    <span class="searchboox">
-		<span class="searchbar"></span>	
-		<form action="http://www.thesmartresult.org/100/7594/index.php">
-		  <span class="searchbar2">		
-			<input type="text" name="searchbox" id="keyword_name" class="search_box" value="Enter keyword" onfocus="if (this.value == 'Enter keyword') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter keyword';}">
-		  </span>
-		  <span class="searchbar3"></span>
-		  <span class="searchbutton">
-			<input type="image" src="../../images/search.jpg" value="Submit" alt="Submit">
-		  </span> 
-		</form>
-	    </span>
-   </div>
-</div>	<div id="info_area" style="padding-top:20px">
-			<div id="big_top"></div>
-			<div id="big_content">
-						TheSmartResult respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not wilfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children.<br><br>
-						<b>What Information Do We Collect?</b><br>
-						From time to time we may request that an entity making application for an account with TheSmartResult provide us with certain personal information (such as their name, email address, etc.) in connection with various services offered on our site. We do not collect any personal information except when an individual specifically and knowingly provides such information. When we request information, we explain how this information may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us.<br><br>
-						<b>Cookies</b><br>
-						For account management purposes and like most sites, TheSmartResult uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.<br><br>
-						<b>Links to Other Sites</b><br>
-						TheSmartResult contains links to other sites. These sites may send their own cookies to users, collect data, or solicit personal information. Since we do not control these sites; we are not responsible or liable for the privacy practices or content of such sites.<br><br>
-						<b>With Whom Do We Share Information?</b><br>
-						TheSmartResult may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information, such as how often the average user visits TheSmartResult. We will not share personally identifiable information with any third party without your express consent.<br><br>
-						<b>Consent and Changes to this Privacy Statement</b><br>
-						By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. TheSmartResult may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.<br><br>
-						<b>Who Can I Ask If I Have Additional Questions?</b><br>
-						Feel free to contact us any time with any questions you may have regarding our privacy statement. Our email address is <a href="mailto:info@TheSmartResult.org">info@TheSmartResult.org</a>.
+	<div class="main_container">
+		<div>
+			<img alt="The Smart Result Logo" src="images/logo.png">
+		</div>
+		<div class="search">
+			<span style="color: #1061AC; font-weight: bold;">Search for products</span><br>
+			     <form action="index.php" method="get">
+                <table cellpadding="0" cellspacing="0" border="0">
+                    <tbody><tr>
+                        <td valign="top" align="left">
+                        <input name="keyword" type="text" value="hdtv tvs" id="searchme" class="search_input">
+                        </td>
+                        <td class="search_go" valign="top" align="left">
+                        <input name="" type="image" value="d" src="images/go.png">
+                        </td>
+                    </tr>
+                </tbody></table>
+                </form>	
+		</div>		<div class="sponsored">
+			<div class="sponsored_header">
+				The smart result <span style="font-weight: bold; color:red;">&gt;&gt; </span><span style="font-weight: bold; color:black;">Privacy Policy</span>
 			</div>
-			<div id="big_bot"></div>					
+		</div>
+		<div class="content_container">
+			<br>
+			thesmartresult.org respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not wilfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children.<br><br>
+			<b>What Information Do We Collect?</b><br>
+			From time to time we may request that an entity making application for an account with thesmartresult.org provide us with certain personal information (such as their name, email address, etc.) in connection with various services offered on our site. We do not collect any personal information except when an individual specifically and knowingly provides such information. When we request information, we explain how this information may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us.<br><br>
+			<b>Cookies</b><br>
+			For account management purposes and to eliminate fraudulent and abusive users, thesmartresult.org uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to identify fraudulent, malicious and abusive users but also to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.<br><br>
+			<b>Links to Other Sites</b><br>
+			thesmartresult.org contains links to other sites. These sites may send their own cookies to users, collect data, or solicit personal information. Since we do not control these sites; we are not responsible or liable for the privacy practices or content of such sites.<br><br>
+			<b>With Whom Do We Share Information?</b><br>
+			thesmartresult.org may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information, such as how often the average user visits thesmartresult.org. We will not share personally identifiable information with any third party without your express consent.<br><br>
+			<b>Consent and Changes to this Privacy Statement</b><br>
+			By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. thesmartresult.org may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.<br><br>
+			<b>Who Can I Ask If I Have Additional Questions?</b><br>
+			Feel free to contact us any time with any questions you may have regarding our privacy statement. Our email address is <a href="mailto:info@thesmartresult.org">info@thesmartresult.org</a>.
+		</div>
+		<div class="round_bottom"></div>	
+				<div class="round_top"></div>
+		<div class="content_container">
+			<div class="footer">
+				<a href="index.php">home</a> | <a href="terms.php">terms</a> | <a href="privacy.php">privacy</a> | <a href="contact.php">contact</a> | <a href="cookies.php">cookies policy</a> | <a href="about.php">about</a>
 			</div>
-		
-	
-
-</div>
-<div id="footer_menu">
-	<ul id="primaryfooter_menu">
-		<li><a href="about.php">about</a></li>
-		<li><a href="contact.php">contact</a></li>
-		<li><a href="terms.php">terms</a></li>
-		<li><a href="privacy.php">privacy</a></li>
-		<!--<li><a href="#">site map</a></li>-->
-	</ul>
-	<div class="share">
-	<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4aa57b29208bbac6">
-		<img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0">
-	</a>
-	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4aa57b29208bbac6"></script>
+		</div>
+		<div class="round_bottom"></div>		
 	</div>
-</div>
 
 </body></html>
