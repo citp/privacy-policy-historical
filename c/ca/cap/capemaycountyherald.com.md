@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capemaycountyherald.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626183122id_/http%3A//www.capemaycountyherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capemaycountyherald.com privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914171301id_/http%3A//www.capemaycountyherald.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cape May County Herald
 
@@ -62,6 +62,6 @@ If you have registered on the Site as a Member and wish to update or change regi
 The Site is not directed to children under 18 years old. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [admin@cmcherald.com](mailto:admin@cmcherald.com). If we become aware that a child under 13 years old has provided us with Personal Information, we will delete such information from our files. If you are under 13 years old and wish to access the Site, please consult your parents or guardian first.
 
 **Contact Us**  
-Questions regarding this Privacy Policy or the practices of the Site should be directed to our Privacy Administrator, Rick Racela, by e-mailing such questions to [admin@cmcherald.com](mailto:admin@cmcherald.com) or by regular mail to: Seawave Corporation, 1508 Route 47, Rio Grande, NJ 08242.
+Questions regarding this Privacy Policy or the practices of the Site should be directed to our Privacy Administrator, by e-mailing such questions to [admin@cmcherald.com](mailto:admin@cmcherald.com) or by regular mail to: Seawave Corporation, 1508 Route 47, Rio Grande, NJ 08242.
 
-©2008 Seawave Corporation. All rights reserved. 
+©2011 Seawave Corporation. All rights reserved. 
