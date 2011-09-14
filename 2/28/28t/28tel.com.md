@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 28tel.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427033634id_/http%3A//www.28tel.com/English/Contacts/About_28tel.asp%3Fclassid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 28tel.com privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914103435id_/http%3A//www.28tel.com/English/Contacts/About_28tel.asp%3Fclassid%3D8) for the most accurate reproduction.*
 
 # 28TEL_Make International Call For Free_From LINKWELL
 
