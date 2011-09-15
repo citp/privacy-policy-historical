@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the mapleme.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505231518id_/http%3A//www.mapleme.com/5/content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapleme.com privacy policy that was archived on 2011-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110915224412id_/http%3A//www.mapleme.com/5/content.html) for the most accurate reproduction.*
 
-# Privacy Policy: Online Portals of Canada, Event, Date, Models, Jobs, Forum
+# Online Free Dating | Festivals in 2011 | Mapleme
 
-MapleMe.com PRIVACY POLICY:  
-MapleMe.com is committed to honoring the privacy and security of visitors to web sites owned and operated by MapleMe.com or its affiliates and have explained the steps we have taken to do so. We urge you to read the following sections.
+MapleMe.com PRIVACY POLICY:
+
+MapleMe.com is committed to honoring the privacy and security of visitors to web sites owned and operated by MapleMe.com or its affiliates and have hereby explain the steps we have taken to do so. We urge you to read the following sections.
 
 PERSONALLY IDENTIFIABLE INFORMATION. When you submit a request or electronically pass information to MapleMe.com (including, but not limited to, comments, feedback, employment applications and resumes), you are sometimes asked to provide certain information, including, but not limited to, your name, title, company, address, phone and fax numbers, e-mail address and line of business. We ask for this personally identifiable information in order to facilitate your requests, provide personalized service and communicate separately with you. Except as otherwise set forth herein, we do not sell, trade, or rent your personally identifiable information with any third parties outside of MapleMe.com.
 
 Because we rely on third party commercial software and programs to operate our servers, we may inadvertently collect personal information due to certain automatic functions or features contained in such software or due to certain software changes or upgrades. We will use reasonable efforts to remove any such information after we discover such information in our system. If you know of any such unintended collections, please notify us promptly so we can take the necessary action to remove such information from our system.
 
-CLICKSTREAM DATA. As you browse the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes called ("clickstream")data, can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use, the address of the web site from which you linked to the Web Site, and in some instances, your e-mail address. We may use clickstream data to determine how much time visitors spend on each page of the Web Site and how they navigate through the Web Site. [We will only use this information to improve the Web Site. Any collection or use of clickstream data will be anonymous and aggregate, and will not contain any personally identifiable information.
+CLICKSTREAM DATA. As you browse the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes called ("clickstream") data, can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use, the address of the web site from which you linked to the Web Site, and in some instances, your e-mail address. We may use clickstream data to determine how much time visitors spend on each page of the Web Site and how they navigate through the Web Site. [We will only use this information to improve the Web Site. Any collection or use of clickstream data will be anonymous and aggregate, and will not contain any personally identifiable information.
 
 CONSENT TO PROCESSING. By providing any information to the Web Site, all users fully understand and unambiguously consent to the collection and processing of such information.
 
@@ -17,6 +18,6 @@ LEGAL DISCLOSURE; CIRCUMSTANCES OF DISCLOSURE. Notwithstanding anything to the c
 
 USER'S ACCEPTANCE OF THIS POLICY. By visiting the Web Site, you signify your assent to the terms of MapleMe.com privacy policy. If you do not agree with the terms of this privacy policy, please do not use the Web Site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions from this privacy policy at any time. Your continued use of the Web Site following the posting of changes to these terms means you accept these changes. If you have any questions or comments regarding privacy issues on the MapleMe.com Web Site, please use the following mailbox: contact@MapleMe.com.
 
-SECURITY. MapleMe.com tries to take all the necessary steps to prevent any security breach. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and MapleMe.com, and MapleMe.com and you, will be free from unauthorized access by third parties. Users of the Web Site use the Web Site at their own risk.
+SECURITY. MapleMe.com tries to take all necessary steps to prevent any breach of security. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and MapleMe.com, and MapleMe.com and you, will be free from unauthorized access by third parties. Users of the Web Site use the Web Site at their own risk.
 
 IF YOU DO NOT AGREE WITH TERM AND CONDITION MENTIONED HERE THEN PLEASE LEAVE THE WEBSITE IMMEDIATELY. BY USING THIS WEBSITE HENCEFORTH, YOU AUTOMATICALLY AGREED TO ACCEPT ALL TERMS AND CONDITIONS OF MapleMe.com.
