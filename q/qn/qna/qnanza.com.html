@@ -1,0 +1,378 @@
+<!--The following is the downloaded HTML source of the qnanza.com privacy policy that was archived on 2011-09-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110916183614id_/http%3A//qnanza.com/c/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="/img/stores/favicons/195/favicon.ico"><title>Privacy Policy | Qnanza.com Chicago</title>
+<link rel="stylesheet" type="text/css" href="/css/jquery.ui.selectmenu.css"><link rel="stylesheet" type="text/css" href="/css/stores_customized/195/customized.css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/js/stores/plugins.js"></script>
+	<script type="text/javascript" src="/js/stores/global.js"></script>
+	<script type="text/javascript" src="/js/jquery.ui.selectmenu.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+	var data = new Object();
+	data.division_id = '';
+	data.email = '';
+	data.cell_phone = '';	
+	
+	/* New User Lightbox */
+	
+	//bof
+	$("a#step1").click(function () {
+		var division_id = $('#new-user #SubscriberDivisionId>option:selected').val();
+		if(division_id == 'choose') {
+			$('.step1-message').html('Please select a division');
+			return false;
+		}
+		$('.step1-message').html('');
+		data.division_id = division_id;		
+		  $('#new-user').hide();
+		$("a[href='#new-user-step2']").fancybox({
+			'padding' : 0,
+			'overlayOpacity' : 0.75,
+			'overlayColor' : '#000',
+			'onComplete' : function() {
+				$("form#new-user-step2 a.subscriber").click(function() {
+					parent.$.fancybox.close();
+					$('#DivisionId').val(data.division_id);
+					return false;
+				});
+			}
+		}).trigger("click");
+		$('#DivisionId').val(data.division_id);
+        return false; 
+    }); 
+	  
+	  $("a#prev1").click(function () { 
+		  $('#new-user').show();
+			$("a[href='#new-user']").fancybox({
+				'padding' : 0,
+				'overlayOpacity' : 0.75,
+				'overlayColor' : '#000',
+				'onComplete' : function() {
+		      $("form#new-user a.subscriber").click(function() {
+		        parent.$.fancybox.close();
+		        return false;
+		      });
+		    }
+			}).trigger("click");
+		  $('#new-user').show();
+		  return false; 
+	  });	  
+	  
+	  $("a#step2").click(function () { 
+		  var email = $('.SubscriberEmail').val();
+		  var cell_phone = $('.SubscriberCellPhone').val();
+		  if(cell_phone == undefined) {
+			  cell_phone = '';
+		  }
+		  var flag = validateEmail(email);
+		  if(flag == false || email == '') {
+			  $('.step2-message').html('Please enter a valid email');
+			  return false;			  
+		  }
+
+		  $('.step2-message').html('');
+		  data.email = email;
+		  data.cell_phone = cell_phone;
+		  $('#new-user-step2').hide();
+		  $("a[href='#new-user-step3']").fancybox({
+			  'padding' : 0,
+			  'overlayOpacity' : 0.75,
+			  'overlayColor' : '#000',
+			  'onComplete' : function() {
+		      $("form#new-user-step3 a.subscriber").click(function() {
+		        parent.$.fancybox.close();
+		        return false;
+		      });
+		    }
+		  }).trigger("click");
+		  
+		  $('#DivisionId').val(data.division_id);	
+		  $('#SubscriberCellPhone').val(data.cell_phone);
+		  $('#SubscriberEmail').val(data.email);		
+		  
+		  
+		  return false; 
+	  });
+	  
+	  $("a#prev2").click(function () { 
+		  $('#new-user-step2').show();
+			$("a[href='#new-user-step2']").fancybox({
+				'padding' : 0,
+				'overlayOpacity' : 0.75,
+				'overlayColor' : '#000',
+				'onComplete' : function() {
+		      $("form#new-user-step2 a.subscriber").click(function() {
+		        parent.$.fancybox.close();
+		        return false;
+		      });
+		    }
+			}).trigger("click");
+			return false; 
+	  });	  
+	  
+
+	  //if there are no categories, consumer submits on 2nd page
+	  //need this to add division to $_POST data
+	  $('#submit-on-new-user-step2').click(function() {
+		  $('.DivisionId').val(data.division_id);
+		});	  
+	  
+	  function validateEmail(email) {
+		  var emailReg = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+		  if( !emailReg.test(email) ) {
+			  return false;
+		  }
+		  else {
+			  return true;
+		  }
+	  }	  
+	
+	//eof	
+	
+});	
+</script>  </head>
+<body id="page-privacy-policy">
+<div id="wrapper">
+
+<div id="container">
+<div id="top-modules">
+<div class="module clickable-module" style="" module-click-url="http://Qnanza.com/moduleClick/2547"><img src="http://c437190.r90.cf2.rackcdn.com/files/StoreModule/2547/20110710072253__qnanza-232x82.png" alt=""></div><div class="module" style=""><div id="header">
+
+<div class="wrapper hook">
+<p class="signin-register">
+<span class="first"><a href="http://Qnanza.com/accounts/signIn">Sign In</a> or Login with Facebook: <fb:login-button perms="email,user_birthday,user_location"></fb:login-button>
+</span><span><a href="http://Qnanza.com/accounts/signUp">Sign Up</a></span></p>
+<h1>
+Your City<strong><a href="http://Qnanza.com/">Chicago</a></strong></h1>
+<div id="cities-list">
+<a class="select-city" href="#" title="Select Another City">Select Another City</a>
+<div class="cities hook">
+<ul><li><a href="http://Qnanza.com/d/729/atlanta">Atlanta</a></li><li><a href="http://Qnanza.com/d/1221/augusta-ga">Augusta GA</a></li><li><a href="http://Qnanza.com/d/1291/baltimore">Baltimore</a></li><li><a href="http://Qnanza.com/d/759/boston">Boston</a></li><li><a href="http://Qnanza.com/d/1295/canada">CANADA</a><ul><li><a href="http://Qnanza.com/d/1293/calgary">Calgary</a></li><li><a href="http://Qnanza.com/d/1151/toronto">Toronto</a></li><li><a href="http://Qnanza.com/d/775/vancouver-bc">Vancouver, BC</a></li></ul></li><li><a href="http://Qnanza.com/d/1149/charlotte">Charlotte</a></li><li><a href="http://Qnanza.com/d/733/chicago">Chicago</a></li><li><a href="http://Qnanza.com/d/1231/cincinnati">Cincinnati</a></li><li><a href="http://Qnanza.com/d/1209/cleveland">Cleveland</a></li><li><a href="http://Qnanza.com/d/1329/colorado-springs">Colorado Springs</a></li></ul><ul><li><a href="http://Qnanza.com/d/1219/columbus-oh">Columbus OH</a></li><li><a href="http://Qnanza.com/d/771/dallas--ft-worth">Dallas / Ft. Worth</a></li><li><a href="http://Qnanza.com/d/817/denver">Denver</a></li><li><a href="http://Qnanza.com/d/789/fort-lauderdale">Fort Lauderdale</a></li><li><a href="http://Qnanza.com/d/1173/fresno">Fresno</a></li><li><a href="http://Qnanza.com/d/1223/ft-myers">Ft. Myers</a></li><li><a href="http://Qnanza.com/d/1225/hampton-roads">Hampton Roads</a></li><li><a href="http://Qnanza.com/d/1175/houston">Houston</a></li><li><a href="http://Qnanza.com/d/1213/las-vegas">Las Vegas</a></li><li><a href="http://Qnanza.com/d/763/los-angeles">Los Angeles</a></li><li><a href="http://Qnanza.com/d/761/miami">Miami</a></li><li><a href="http://Qnanza.com/d/1229/minneapolis">Minneapolis</a></li><li><a href="http://Qnanza.com/d/767/new-york">New York</a></li></ul><ul><li><a href="http://Qnanza.com/d/1381/omaha">Omaha</a></li><li><a href="http://Qnanza.com/d/1265/orange-county-ca">Orange County CA</a></li><li><a href="http://Qnanza.com/d/1207/orlando">Orlando</a></li><li><a href="http://Qnanza.com/d/1211/philadelphia">Philadelphia</a></li><li><a href="http://Qnanza.com/d/769/phoenix">Phoenix</a></li><li><a href="http://Qnanza.com/d/1203/portland">Portland</a></li><li><a href="http://Qnanza.com/d/1217/raleighdurham">Raleigh/Durham</a></li><li><a href="http://Qnanza.com/d/731/sacramento">Sacramento</a></li><li><a href="http://Qnanza.com/d/1227/salt-lake-city">Salt Lake City</a></li><li><a href="http://Qnanza.com/d/765/san-diego">San Diego</a></li><li><a href="http://Qnanza.com/d/777/san-francisco">San Francisco</a></li><li><a href="http://Qnanza.com/d/773/seattle">Seattle</a></li><li><a href="http://Qnanza.com/d/735/tampa-bay">Tampa Bay</a></li><li><a href="http://Qnanza.com/d/1215/tucson">Tucson</a></li><li><a href="http://Qnanza.com/d/1205/washington-dc">Washington DC</a></li><li><a href="http://Qnanza.com/d/1191/-city-not-found-on-list-yet-">{ City not found on list... (yet) }</a></li></ul></div>
+</div>
+<ul id="navigation"><li><a href="http://Qnanza.com/p/how-it-works">How It Works</a></li><li><a href="http://Qnanza.com/p/shop-qnanza">Shop Qnanza</a></li><li><a href="http://Qnanza.com/referral-links">Customer Rewards</a></li></ul>
+<form id="sign-up" class="header menu_sign_up_form " method="post" action="http://Qnanza.com/signup_alerts">
+                <a class="sign-up " id="sign-up-menu" href="#" title="Subscribe for Daily Alerts">Subscribe for Daily Alerts</a>              
+<div class="hidden">
+<fieldset>
+         <div id="sign-up-results-menu" class="hidden"></div>
+<h2>Subscribe for Daily Alerts</h2>
+<select name="data[NonAccountEmail][division_id]" id="NonAccountEmailDivisionId">
+<option value="choose">Choose Your City</option>
+<option value="729">Atlanta</option>
+<option value="1221">Augusta GA</option>
+<option value="1291">Baltimore</option>
+<option value="759">Boston</option>
+<option value="1295">CANADA</option>
+<option value="1293">CANADA -- Calgary</option>
+<option value="1151">CANADA -- Toronto</option>
+<option value="775">CANADA -- Vancouver, BC</option>
+<option value="1149">Charlotte</option>
+<option value="733" selected="selected">Chicago</option>
+<option value="1231">Cincinnati</option>
+<option value="1209">Cleveland</option>
+<option value="1329">Colorado Springs</option>
+<option value="1219">Columbus OH</option>
+<option value="771">Dallas / Ft. Worth</option>
+<option value="817">Denver</option>
+<option value="789">Fort Lauderdale</option>
+<option value="1173">Fresno</option>
+<option value="1223">Ft. Myers</option>
+<option value="1225">Hampton Roads</option>
+<option value="1175">Houston</option>
+<option value="1213">Las Vegas</option>
+<option value="763">Los Angeles</option>
+<option value="761">Miami</option>
+<option value="1229">Minneapolis</option>
+<option value="767">New York</option>
+<option value="1381">Omaha</option>
+<option value="1265">Orange County CA</option>
+<option value="1207">Orlando</option>
+<option value="1211">Philadelphia</option>
+<option value="769">Phoenix</option>
+<option value="1203">Portland</option>
+<option value="1217">Raleigh/Durham</option>
+<option value="731">Sacramento</option>
+<option value="1227">Salt Lake City</option>
+<option value="765">San Diego</option>
+<option value="777">San Francisco</option>
+<option value="773">Seattle</option>
+<option value="735">Tampa Bay</option>
+<option value="1215">Tucson</option>
+<option value="1205">Washington DC</option>
+<option value="1191">{ City not found on list... (yet) }</option>
+</select><label for="NonAccountEmailEmail">Enter Your Email Address</label><input name="data[NonAccountEmail][email]" type="text" value="Enter your email" onfocus="if(this.value == 'Enter your email'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Enter your email';}" id="NonAccountEmailEmail"><button type="submit" name="" value="Sign Up">Sign Up</button>	  
+                </fieldset>
+</div>
+		<input type="hidden" name="data[NonAccountEmail][hide_signup_url]" value="http://Qnanza.com/hideSignup" id="NonAccountEmailHideSignupUrl">	</form>
+</div>
+</div>
+</div></div>
+
+
+<div id="content" class="hook">
+<div id="main"><div class="section hook">
+<h2>Privacy Policy</h2><p class="wysiwyg-editor-text">
+	<strong>Privacy Statement</strong></p>
+<p class="wysiwyg-editor-text">
+	This Privacy Policy discloses the privacy practices for the Qnanza website (collectively, the Website located at www.qnanza.com). Qnanza LLC, a Delaware limited liability company, the provider of the Website (referred to as us or we ), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the User or the End User ) and how we use that information. If you have any questions about our privacy policy, please email us.</p>
+<p class="wysiwyg-editor-text">
+	PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOUACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.</p>
+<p class="wysiwyg-editor-text">
+	<strong>1. Changes to Privacy Policy </strong></p>
+<p class="wysiwyg-editor-text">
+	If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of notice on our home page.</p>
+<p class="wysiwyg-editor-text">
+	<strong>2. Types of Information Collected and Uses of Collected Information </strong></p>
+<p class="wysiwyg-editor-text">
+	We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information.</p>
+<p class="wysiwyg-editor-text">
+	<strong>Personally Identifiable Information</strong> Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Website, such as creating an account, ordering a product or service from us or our Merchants, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our Merchant’s feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Website (collectively, Identification Activities ), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address (including zip code), email address, telephone number and date of birth. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.</p>
+<p class="wysiwyg-editor-text">
+	We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. Your comments may contain personal information such as your name; we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. In addition, if you use our Website to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.</p>
+<p class="wysiwyg-editor-text">
+	<strong>Non-Personally Identifiable Information</strong></p>
+<p class="wysiwyg-editor-text">
+	Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator ( URL ) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol ( IP ) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.</p>
+<p class="wysiwyg-editor-text">
+	<strong>3. Release of Personally Identifiable Information </strong></p>
+<p class="wysiwyg-editor-text">
+	We will not share, sell, rent, or trade your Personally Identifiable Information with other parties except as provided below:</p>
+<p class="wysiwyg-editor-text">
+	<strong>We may share your information with Qnanza Merchants.</strong> From time to time, we provide offers from particular merchants (referred to as Qnanza Merchants ) who, as part of the offer, request information on Qnanza customers who purchased the offer in order to aid redemption. In those cases, we share some of your Personally Identifiable Information with Qnanza Merchants. Sharing this Information may allow a Qnanza Merchant to market directly to you should they choose to do so. However, we will only share Personally Identifiable Information with a Qnanza Merchant if you engage in an Identification Activity, and then only to the Qnanza Merchant involved in that Identification Activity. We specifically disclaim any responsibility or liability for the actions of such Qnanza Merchant. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion with Qnanza, we do not have any responsibility for the actions of the Qnanza Merchant, and the actions of the Qnanza Merchant are not in our control.</p>
+<p class="wysiwyg-editor-text">
+	<strong>We may share your information with Authorized Third Party Service Providers.</strong> We provide services and products through third parties. These Third Party Service Providers perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies ( Affiliates ) with whom we have business relationships and may share your information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate’s information to our bank to send out a payment. We encourage Qnanza Merchants and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control.</p>
+<p class="wysiwyg-editor-text">
+	<strong>We may remarket your information.</strong> Remarketing is a way for us to connect with users, based upon your past interactions with the Qnanza website. Third-party marketing vendors may be hired by Qnanza to perform remarketing services. As a result, third-party vendors, including Google, may show Qnanza ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user s prior visits to Qnanza’s website. Users may opt out of Google s use of cookies by visiting the Google advertising opt-out page at http://www.google.com/privacy_ads.html this information is used only for remarketing purposes and will not be used by them for any other purpose.</p>
+<p class="wysiwyg-editor-text">
+	<strong>We may share your information in a Business Transfer.</strong> If we merge or sell to any other business the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.</p>
+<p class="wysiwyg-editor-text">
+	<strong>We may share your information for our Protection and the Protection of Others.</strong> We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website; enforce or apply this Privacy Policy, our Website Terms of Use or other agreements; or protect the rights, property or safety of the Website, its Users or others.</p>
+<p class="wysiwyg-editor-text">
+	<strong>4. Release of Non-Personally Identifiable Information</strong></p>
+<p class="wysiwyg-editor-text">
+	We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers.</p>
+<p class="wysiwyg-editor-text">
+	We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative ( NAI ). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here:&nbsp;<a href="http://www.networkadvertising.org/consumer/opt_out.asp ">http://www.networkadvertising.org/consumer/opt_out.asp </a>.</p>
+<p class="wysiwyg-editor-text">
+	We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.</p>
+<p class="wysiwyg-editor-text">
+	<strong>5. Updating and Correcting Information </strong></p>
+<p class="wysiwyg-editor-text">
+	You have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account.</p>
+<p class="wysiwyg-editor-text">
+	We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.</p>
+<p class="wysiwyg-editor-text">
+	If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time by going to the my account section of your profile.</p>
+<p class="wysiwyg-editor-text">
+	<strong>6. User Choices on Collection and Use of Information </strong></p>
+<p class="wysiwyg-editor-text">
+	As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.</p>
+<p class="wysiwyg-editor-text">
+	As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. Administrative Emails relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at <a href="mailto:support@qnanza.com?subject=Privacy%20Policy%20Question&amp;body=Hello%20Qnanza%2C%20I%20have%20a%20question%20about%20your%20Privacy%20Policy.">support@qnanza.com</a>&nbsp;or by hitting the unsubscribe button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.</p>
+<p class="wysiwyg-editor-text">
+	<strong>7. Security of Information </strong></p>
+<p class="wysiwyg-editor-text">
+	We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Website through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. Your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.</p>
+<p class="wysiwyg-editor-text">
+	Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. While we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information.</p>
+<p class="wysiwyg-editor-text">
+	<strong>8. Data Tracking Cookies </strong></p>
+<p class="wysiwyg-editor-text">
+	To facilitate and customize your experience with the Website, we store cookies on your computer. A cookie is a small text file that is stored on a User's computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.</p>
+<p class="wysiwyg-editor-text">
+	<strong>Other Tracking Devices.&nbsp;</strong>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.</p>
+<p class="wysiwyg-editor-text">
+	<strong>9. Privacy Policies of Third Party Websites </strong></p>
+<p class="wysiwyg-editor-text">
+	This Privacy Policy only addresses the use and disclosure of information we collect from you on <a href="http://www.qnanza.com">http://www.qnanza.com</a>&nbsp;. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.</p>
+<p class="wysiwyg-editor-text">
+	<strong>10. Miscellaneous Privacy Issues </strong></p>
+<p class="wysiwyg-editor-text">
+	Children Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Qnanza does not sell products for purchase by children. In certain instances, we sell children s products for purchase by adults.</p>
+<p class="wysiwyg-editor-text">
+	<strong>Public Areas.</strong> We may provide areas on our Website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.</p>
+<p class="wysiwyg-editor-text">
+	<strong>Notice of Privacy Rights to California Residents.</strong> California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the Act ) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of our legal department, and labeled California Customer Choice Notice. Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.</p>
+<p class="wysiwyg-editor-text">
+	<strong>11. Contacting Us</strong></p>
+<p class="wysiwyg-editor-text">
+	Whether you are a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we would like to stay connected and want to hear from you!</p>
+<p class="wysiwyg-editor-text">
+	<strong>Address</strong></p>
+<p class="wysiwyg-editor-text">
+	Qnanza LLC. (d/b/a Qnanza) 1601 Zack Hinton Parkway McDonough GA 30253</p>
+<p class="wysiwyg-editor-text">
+	<strong>For Customers </strong></p>
+<p class="wysiwyg-editor-text">
+	Customer Service Inquiries |&nbsp;<a href="mailto:support@qnanza.com?subject=Customer%20Service%20Inquiry">support@qnanza.com</a></p>
+</div>
+</div><!-- end main -->
+<div id="sidebar"><div class="module clickable-module" module-click-url="http://Qnanza.com/moduleClick/2817"><img src="http://c437190.r90.cf2.rackcdn.com/files/StoreModule/2817/20110725193226__qbucks2.png" alt=""></div><div class="module"><div class="sidedeals sidedeals">
+<h3>Featured Deals</h3>
+<a href="http://Qnanza.com/deal/1573/rosatis-pizza-wheaton"><div class="sidedeal"><div class="sidedeal-details"><table id="logo-tab" width="100%"><tbody><tr><td width="1%"><img src="http://c437190.r90.cf2.rackcdn.com/files/Merchant/1243/20110725153809__Rosatis Pizza.jpg" width="50" alt=""></td><td align="left"><span class="sidedeal-merchant">Rosati's Pizza Wheaton</span></td></tr></tbody></table><ul class="value">
+  <li>Value <strong>$30</strong></li>
+  <li>Discount <strong>50%</strong></li>
+  <li class="bold">Savings <strong>$15</strong></li>
+</ul>
+<br clear="all"></div></div></a><a href="http://Qnanza.com/deal/2727/photography-by-fender-and-donisch-downers-grove"><div class="sidedeal"><div class="sidedeal-details"><table id="logo-tab" width="100%"><tbody><tr><td width="1%"><img src="http://c437190.r90.cf2.rackcdn.com/files/Merchant/2279/20110829170212__Photographer 3.jpg" width="50" alt=""></td><td align="left"><span class="sidedeal-merchant">Photography by Fender and Donisch - Downers Grove</span></td></tr></tbody></table><ul class="value">
+  <li>Value <strong>$250</strong></li>
+  <li>Discount <strong>70%</strong></li>
+  <li class="bold">Savings <strong>$175</strong></li>
+</ul>
+<br clear="all"></div></div></a><a href="http://Qnanza.com/deal/2357/acceleration-sports-performance"><div class="sidedeal"><div class="sidedeal-details"><table id="logo-tab" width="100%"><tbody><tr><td width="1%"><img src="http://c437190.r90.cf2.rackcdn.com/files/Merchant/1921/20110812161720__FITNESS BOOT CAMP.jpg" width="50" alt=""></td><td align="left"><span class="sidedeal-merchant">Acceleration Sports Performance</span></td></tr></tbody></table><ul class="value">
+  <li>Value <strong>$500</strong></li>
+  <li>Discount <strong>55%</strong></li>
+  <li class="bold">Savings <strong>$275</strong></li>
+</ul>
+<br clear="all"></div></div></a></div>
+
+</div></div><!-- end sidebar -->
+</div><!-- end content -->
+
+
+<div id="drip-pan"></div><!-- end drip-pan -->
+
+<div id="footer"><div class="wrapper hook">
+<ul>
+<li><a href="http://Qnanza.com/c/about-us">About Us</a></li><li> | <a href="http://Qnanza.com/c/contact-us">Contact Us</a></li><li> | <a href="http://Qnanza.com/c/support">Support</a></li><li> | <a href="http://Qnanza.com/c/terms-and-conditions">Terms</a></li><li> | <a href="http://Qnanza.com/c/privacy-policy">Privacy Policy</a></li></ul>
+</div>
+</div><!-- end footer -->
+
+</div><!-- end container -->
+
+</div><!-- end wrapper -->
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'70dc1fad-e7fb-4845-9bc5-277c1e394164'});</script>
+<img src="https://Qnanza.com/analytics_image/66264?source_type=dealicio&amp;store_id=195&amp;current_page=%2Fc%2Fprivacy-policy" style="display: none;" alt=""><div id="fb-root"></div>
+<script src="https://connect.facebook.net/en_US/all.js"></script>
+<script>
+FB.init({
+  appId: '236716786350149', 
+  status: true,
+  cookie: true, 
+  xfbml: true
+});
+FB.Event.subscribe(
+    'auth.login', function(response) { window.location.reload(); }
+);
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6717532-3']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+</body></html>
