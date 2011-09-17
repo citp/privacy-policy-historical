@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stagestores.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514163040id_/http%3A//www.stagestoresinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagestores.com privacy policy that was archived on 2011-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110917153530id_/http%3A//www.stagestoresinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stage
 
