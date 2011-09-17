@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-yearbook.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215082455id_/http%3A//www.e-yearbook.com/sp/terms%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-yearbook.com privacy policy that was archived on 2011-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110917202717id_/http%3A//www.e-yearbook.com/sp/terms%3Fprivacy%3D1) for the most accurate reproduction.*
 
 # E-Yearbook.com Privacy Policy
 
