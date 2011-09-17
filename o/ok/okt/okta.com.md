@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okta.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206234118id_/http%3A//www.okta.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okta.com privacy policy that was archived on 2011-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110917111018id_/http%3A//www.okta.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy -- Okta
 
