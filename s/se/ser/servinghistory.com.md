@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servinghistory.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104152906id_/http%3A//www.servinghistory.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servinghistory.com privacy policy that was archived on 2011-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110917045740id_/http%3A//www.servinghistory.com/pages/privacy) for the most accurate reproduction.*
 
 # Serving History : privacy
 
