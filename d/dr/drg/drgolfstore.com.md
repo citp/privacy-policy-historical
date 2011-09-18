@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the drgolfstore.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508044137id_/http%3A//www.drgolfstore.com/article-23-Privacy%2BNotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgolfstore.com privacy policy that was archived on 2011-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110918122839id_/http%3A//www.drgolfstore.com/article-23-Privacy%2BNotice.html) for the most accurate reproduction.*
 
-# Privacy Notice_Service Center_Golf Clubs for sale
-
-Privacy Notice  
-drgolfstore.com / 09/14
+# Privacy Notice _ Service Center _ Help _ golf clubs store online _ golf clubs store online
 
 This Privacy Notice describes how we treat personal information when you buy and enjoy Drgolfstore' products and services, including information provided since you register at our site.
 
