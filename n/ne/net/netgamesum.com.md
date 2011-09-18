@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgamesum.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429020103id_/http%3A//www.netgamesum.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgamesum.com privacy policy that was archived on 2011-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110919005759id_/http%3A//www.netgamesum.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Netgamesum.com
 
