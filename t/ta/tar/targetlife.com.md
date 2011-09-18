@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetlife.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324155327id_/http%3A//targetlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetlife.com privacy policy that was archived on 2011-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110918115136id_/http%3A//targetlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Targetlife
 
@@ -72,5 +72,3 @@ A copy of this is pasted Bellow. We strongly recommend you to visit above link t
 > 
 > Please note that Google has started showing 3rd Party Ads in Adsense. This essentially means that 3rd Party ads can appear on all the websites in iLuvDesi.com and Targetlife.com Network.  
 >  These third parties may be placing and reading cookies on your browser’s/computer and they might be using them to track few of our information.
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
