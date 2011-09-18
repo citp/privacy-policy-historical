@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salemfive.com privacy policy that was archived on 2010-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230050701id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salemfive.com privacy policy that was archived on 2011-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110918101556id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 	<meta name="verify-v1" content="88I5w+Mk7Bh5qiYJjyU+HaBHs4nCr/7Px0Swc8yBpPU=">
@@ -12,7 +12,7 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Notice</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
 
 
@@ -24,7 +24,9 @@
 	<!--[if IE 7]>
 			<link rel="stylesheet" media="screen, print" type="text/css" href="/templates/salemfive/css/ie7.css"  />
 		<![endif]-->
-	        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+		<!--<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js'></script>-->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+	<!--script type="text/javascript" src="/templates/salemfive/scripts/jquery.js"></script --> 
 	<script type="text/javascript" src="/templates/salemfive/scripts/jqcookie.js"></script>
 	<script type="text/javascript" src="/templates/salemfive/scripts/cufon.js"></script>
 	<script type="text/javascript" src="/templates/salemfive/scripts/VAG_Rounded_Std_250.font.js"></script>
@@ -61,7 +63,7 @@
 
 			});
 
-			Cufon.replace('.slide h2, .slide h3, .cufon');
+			Cufon.replace('.slide h2, .slide h3, .cufon, .bg-selector h2');
 
 
 
@@ -92,7 +94,7 @@
 	$(document).ready(function(){
 		
 		//First Level arrows
-		$('#sub-nav a[href$=' + section + ']').parent('li').addClass("currentSection");
+		$('#sub-nav a[href$="' + section + '"]').parent('li').addClass("currentSection");
 	
 		$('#sub-nav > ul.menu > li:has(>ul) > a').before('<a href="javascript:;" class="more-nav-arrow">more</a>');
 		
@@ -116,7 +118,7 @@
 		});
 		
 		//Second Level arrows
-		$('#sub-nav a[href$=' + subSection + ']').parent('li').addClass("currentSection");
+		$('#sub-nav a[href$="' + subSection + '"]').parent('li').addClass("currentSection");
 		
 		$('#sub-nav > ul.menu > li > ul > li:has(>ul) > a').before('<a href="javascript:;" class="sub-more-nav-arrow">more</a>');
 		
@@ -142,7 +144,7 @@
 		});
 
                //Third Level arrows
-		$('#sub-nav a[href$=' + subSubSection + ']').parent('li').addClass("currentSection");
+		$('#sub-nav a[href$="' + subSubSection + '"]').parent('li').addClass("currentSection");
 		
 		$('#sub-nav > ul.menu > li > ul > li > ul > li:has(>ul) > a').before('<a href="javascript:;" class="sub-more-nav-arrow">more</a>');
 		
@@ -172,11 +174,63 @@
 	
 </script>
 
+<!-- Google Analytics -->
+	<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25566418-3']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100);
+  }
+</script>
+
+	
 </head>
 <body>
 
 <!-- DART Tags -->
+	<script type="text/javascript">
+	function callFloodlight_new(source, type, cat) {
+		var tag_url="http://fls.doubleclick.net/activityi;src="/ + source + ";type=" + type + ";cat=" + cat + ";ord=1;num="+Math.floor(Math.random()*999999)+"?";
+		if(document.getElementById("DCLK_FLDiv")){var flDiv=document.getElementById("DCLK_FLDiv");}
+		else{var flDiv=document.body.appendChild(document.createElement("div"));flDiv.id="DCLK_FLDiv";flDiv.style.display="none";}
+		var DCLK_FLIframe=document.createElement("iframe");
+		DCLK_FLIframe.id="DCLK_FLIframe_"+Math.floor(Math.random()*999999);
+		DCLK_FLIframe.src=tag_url;
+		flDiv.appendChild(DCLK_FLIframe);
+	}
+	function callFloodlight_same(source, type, cat) {
+		var tag_url="http://fls.doubleclick.net/activityi;src="/ + source + ";type=" + type + ";cat=" + cat + ";ord=1;num="+Math.floor(Math.random()*999999)+"?";
+		if(document.getElementById("DCLK_FLDiv")){var flDiv=document.getElementById("DCLK_FLDiv");}
+		else{var flDiv=document.body.appendChild(document.createElement("div"));flDiv.id="DCLK_FLDiv";flDiv.style.display="none";}
+		var DCLK_FLIframe=document.createElement("iframe");
+		DCLK_FLIframe.id="DCLK_FLIframe_"+Math.floor(Math.random()*999999);
+		DCLK_FLIframe.src=tag_url;
+		flDiv.appendChild(DCLK_FLIframe);
+		setTimeout("window.location.href = 'http://www.google.com/';", 1000);
+		
+	}
+	function callSpot(source, type, cat) {
+		var axel = Math.random() + "";
+		var num = axel * 1000000000000000000;
+		var tag_url = new Image();
+		tag_url.src = 'https://ad.doubleclick.net/activity;src=' + source + ';type=' + type + ';cat=' + cat + ';ord=1;num='+num+'?';
+	}
+</script>
+
 
 <div class="header-wrap">
 	<div id="header">
@@ -184,9 +238,9 @@
 		<h1 id="logo">
 			<a href="/"><img src="/images/salem-five-logo.png" alt="Logo title" title="Take me home"></a>
 		</h1>
-		<p class="date">Wednesday, December 29, 2010</p>
+		<p class="date">Sunday, September 18, 2011</p>
 		<ul class="menu" id="utility-nav"><li class="parent item10"><a href="/index.php/locations"><span>Locations</span></a></li><li class="parent item22"><a href="/index.php/open-an-account"><span>Open An Account</span></a></li><li class="parent item3"><a href="/index.php/about-salem-five"><span>About Salem Five</span></a></li><li class="parent item26"><a href="/index.php/in-the-community"><span>In The Community</span></a></li><li class="parent item27"><a href="/index.php/careers"><span>Careers</span></a></li></ul><ul id="social-media">
-	<li id="twitter"><a href="https://www.twitter.com/salemfivebank" alt="Follow Salem Five on Twitter" title="Follow Salem Five on Twitter">twitter</a></li>
+	<li id="twitter"><a href="https://twitter.com/#!/SalemFive" alt="Follow Salem Five on Twitter" title="Follow Salem Five on Twitter">twitter</a></li>
 	<li id="facebook"><a href="https://www.facebook.com/salemfivebank" alt="Follow Salem Five on Facebook" title="Follow Salem Five on Facebook">facebook</a></li>
 </ul>
 <form action="index.php" method="post">
@@ -240,11 +294,6 @@
 					<li class="parent item238">
 						<a href="/index.php/personal/banking/loans">
 							<span>Loans</span>
-						</a>
-					</li>
-					<li class="item289">
-						<a href="/index.php/personal/banking/credit-card">
-							<span>Credit Card</span>
 						</a>
 					</li>
 					<li class="parent item199">
@@ -464,11 +513,6 @@
 							<span>Government &amp; Intl.</span>
 						</a>
 					</li>
-					<li class="item420">
-						<a href="/index.php/business/loans-and-lines-of-credit/business-credit-card">
-							<span>Business Credit Card</span>
-						</a>
-					</li>
 				</ul>
 			</li>
 			<li class="parent item79">
@@ -586,7 +630,7 @@
 		<ul>
 			<li class="parent item13">
 				<a href="/index.php/calculators-and-planning/mortgage">
-					<span>Mortgage Calculators</span>
+					<span>Mortgage</span>
 				</a>
 				<ul>
 					<li class="item17">
@@ -633,7 +677,7 @@
 			</li>
 			<li class="parent item14">
 				<a href="/index.php/calculators-and-planning/savings-and-investment-calculators">
-					<span>Savings &amp; Investment Calculators</span>
+					<span>Savings &amp; Investment</span>
 				</a>
 				<ul>
 					<li class="item97">
@@ -680,7 +724,7 @@
 			</li>
 			<li class="parent item15">
 				<a href="/index.php/calculators-and-planning/retirement-savings-and-planning-calculators">
-					<span>Retirement Calculators</span>
+					<span>Retirement</span>
 				</a>
 				<ul>
 					<li class="item105">
@@ -722,7 +766,7 @@
 			</li>
 			<li class="parent item16">
 				<a href="/index.php/calculators-and-planning/personal-finance-calculators">
-					<span>Personal Finance Calculators</span>
+					<span>Personal Finance</span>
 				</a>
 				<ul>
 					<li class="item112">
@@ -758,6 +802,63 @@
 					<li class="item118">
 						<a href="/index.php/calculators-and-planning/personal-finance-calculators/debt-consolidation">
 							<span>Debt Consolidation</span>
+						</a>
+					</li>
+					<li class="item672">
+						<a href="/index.php/calculators-and-planning/personal-finance-calculators/auto-loan">
+							<span>Auto Loan</span>
+						</a>
+					</li>
+				</ul>
+			</li>
+			<li class="parent item671">
+				<a href="/index.php/calculators-and-planning/business-calculators">
+					<span>Business</span>
+				</a>
+				<ul>
+					<li class="item667">
+						<a href="/index.php/calculators-and-planning/business-calculators/financial-ratios">
+							<span>Financial Ratios</span>
+						</a>
+					</li>
+					<li class="item670">
+						<a href="/index.php/calculators-and-planning/business-calculators/working-capital-needs">
+							<span>Working Capital</span>
+						</a>
+					</li>
+					<li class="item661">
+						<a href="/index.php/calculators-and-planning/business-calculators/breakeven-analysis">
+							<span>Breakeven Analysis</span>
+						</a>
+					</li>
+					<li class="item669">
+						<a href="/index.php/calculators-and-planning/business-calculators/profit-margin">
+							<span>Profit Margin</span>
+						</a>
+					</li>
+					<li class="item668">
+						<a href="/index.php/calculators-and-planning/business-calculators/inventory-analysis">
+							<span>Inventory Analysis</span>
+						</a>
+					</li>
+					<li class="item664">
+						<a href="/index.php/calculators-and-planning/business-calculators/cash-flow">
+							<span>Cash Flow</span>
+						</a>
+					</li>
+					<li class="item663">
+						<a href="/index.php/calculators-and-planning/business-calculators/business-valuation">
+							<span>Business Valuation</span>
+						</a>
+					</li>
+					<li class="item662">
+						<a href="/index.php/calculators-and-planning/business-calculators/debt-consolidation">
+							<span>Debt Consolidation</span>
+						</a>
+					</li>
+					<li class="item666">
+						<a href="/index.php/calculators-and-planning/business-calculators/buy-vs-lease">
+							<span>Buy vs. Lease</span>
 						</a>
 					</li>
 				</ul>
@@ -964,7 +1065,9 @@
 <img src="/templates/salemfive/images/bg/content-top.png" style="width:967px; height:27px; border: 0px;">
 <!-- span id="top"></span -->
 <div id="breadcrumbs">
-	<script language="javascript">
+	<span class="breadcrumbs pathway">
+<a href="https://www.salemfive.com/" class="pathway">Home</a> <img src="/images/M_images/arrow.png" alt=""> Privacy Notice</span>
+<script language="javascript">
 $(document.getElementById('s5LoginForm')).ready(function() {
 	s5loginhideshow();
 });
@@ -1089,8 +1192,6 @@ function block_hideshow(obj,act) {
 	</form>
 	
 </div>
-<span class="breadcrumbs pathway">
-<a href="https://www.salemfive.com/" class="pathway">Home</a> <img src="/images/M_images/arrow.png" alt=""> Privacy Notice</span>
 
 		
 </div>
@@ -1331,7 +1432,8 @@ function block_hideshow(obj,act) {
 
 		
 	</div><!--content-->
-	<span id="bot"></span>
+	<!-- span id="bot"></span -->
+        <img src="/templates/salemfive/images/bg/content-bot.png" style="width:965px; height:27px; border: 0px;">
 </div><!--content-wrap-->
 	<div id="footer">
 		<ul class="menu"><li class="item8"><a href="/index.php/member-fdic"><span>Member FDIC</span></a></li><li class="item9"><a href="/index.php/member-dif"><span>Member DIF</span></a></li><li class="item18"><a href="/index.php/terms-and-conditions"><span>Terms &amp; Conditions</span></a></li><li id="current" class="active item19"><a href="/index.php/privacy-policy"><span>Privacy Notice</span></a></li><li class="parent item20"><a href="/index.php/disclosures"><span>Disclosures</span></a></li><li class="item21"><a href="/index.php/external-links"><span>External Links</span></a></li><li class="item621"><a href="http://www.hud.gov/library/bookshelf09/index.cfm"><span>Equal Housing Lender</span></a></li></ul>
