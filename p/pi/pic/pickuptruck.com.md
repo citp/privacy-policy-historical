@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickuptruck.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520212854id_/http%3A//www.cars.com/go/about/privacy.jsp%3Faff%3Dtrucks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickuptruck.com privacy policy that was archived on 2011-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110919055419id_/http%3A//www.cars.com/go/about/privacy.jsp%3Faff%3Dtrucks) for the most accurate reproduction.*
 
 # Privacy Statement - Cars.com
 
