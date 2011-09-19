@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empivot.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085401id_/http%3A//www.empivot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empivot.com privacy policy that was archived on 2011-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110919043014id_/http%3A//www.empivot.com/privacy-policy) for the most accurate reproduction.*
 
 # emPivot Company Blog | The Online Network for Green Video » Privacy Policy
 
