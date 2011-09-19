@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the shopwss.com privacy policy that was archived on 2010-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100718065351id_/http%3A//www.shopwss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwss.com privacy policy that was archived on 2011-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110919043246id_/http%3A//www.shopwss.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ShopWSS.com
+# Privacy | ShopWSS.com
 
-## **Privacy Policy**
-
-ShopWss is committed to protecting your privacy. The following statement provides details about our privacy policy.
+ShopWSS.com is committed to protecting your privacy. The following statement provides details about our privacy policy.
 
 **Receiving Email Promotions**  
-To receive promotions, offers, coupons and other specials you may subscribe(Opt-In) to the [**_WSS Email Exclusives_**](http://visitor.constantcontact.com/manage/optin?v=001CPbz0pBDAy7tDvRO_fnbZguuDPcZN7osg2IKJkZvzR7bxBfvxw4mPQ%3D%3D) mailing list for FREE! You may also select to receive or not to receive offers or other information from ShopWss.com upon your registration. At any time you may request to unsubscribe(Opt-Out) from our mailing list. To unsubscribe follow the link "Instant removal with SafeUnsubscribe™" at the bottom of the email you have received.
+To receive promotions, offers, coupons and other specials you may subscribe (Opt-In) to the [**_WSS Email Exclusives_**](http://visitor.constantcontact.com/manage/optin?v=001CPbz0pBDAy7tDvRO_fnbZguuDPcZN7osg2IKJkZvzR7bxBfvxw4mPQ%3D%3D) mailing list for FREE! You may also select to receive or not to receive offers or other information from ShopWss.com upon your registration. At any time you may request to unsubscribe(Opt-Out) from our mailing list. To unsubscribe follow the link "Instant removal with SafeUnsubscribe™" at the bottom of the email you have received.
 
 **Special Rules for Children**  
 As a result of the Children's Online Privacy Protection Act, you must be at least 13 year old to register or make a purchase on our website.
@@ -65,14 +63,10 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**  
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. This policy was last modified on 09.24.2009
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. This policy was last modified on 09.24.2010
 
 **Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below:
 
-www.shopwss.com  
-13425 S Figueroa St  
-Los Angeles, CA 90061  
-USA  
-cservice@warehouseshoesale.com  
-1.800.276.2002
+Toll Free: (800) 276-2002  
+Email: [cs@shopwss.com](mailto:cs@shopwss.com)
