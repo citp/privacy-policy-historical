@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dashingarticles.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521020955id_/http%3A//dashingarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashingarticles.com privacy policy that was archived on 2011-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110919152621id_/http%3A//dashingarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | DashingArticles.com
 
