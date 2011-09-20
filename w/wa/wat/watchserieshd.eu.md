@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchserieshd.eu privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521000617id_/http%3A//watchserieshd.eu/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchserieshd.eu privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920093601id_/http%3A//watchserieshd.eu/info/privacy) for the most accurate reproduction.*
 
 # Watch Tv Series HD - Online Series, Episodes
 
