@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growlonghair.net privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522075217id_/http%3A//www.growlonghair.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growlonghair.net privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920070315id_/http%3A//www.growlonghair.net/privacy-policy) for the most accurate reproduction.*
 
 # Grow Long Hair | Privacy Policy
 
