@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techsliver.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606132558id_/http%3A//www.techsliver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsliver.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920100021id_/http%3A//www.techsliver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TechSliver
 
 ## [ Privacy Policy ](http://www.techsliver.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
