@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427124603id_/http%3A//corp.kaltura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaltura.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920124046id_/http%3A//corp.kaltura.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaltura: Open Source Video Platform
 
