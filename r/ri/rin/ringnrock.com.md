@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringnrock.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220081537id_/http%3A//ringnrock.com/help/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringnrock.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920131824id_/http%3A//ringnrock.com/help/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Ringtone downloads | Ringtones for ATT, T-Mobile, Verizon and more | RingNRock.com
 
