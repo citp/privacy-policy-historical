@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pickysite.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208062426id_/http%3A//www.pickysite.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickysite.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920183153id_/http%3A//www.pickysite.com/page/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy / Search Engine Optimization - SEO - Web Design - Website Design - Web Development - Internet Marketing
+# Privacy Policy / Web Design - Website Designers - Web Design Community and Web Designers Directory
 
 **PRIVACY POLICY**
 
