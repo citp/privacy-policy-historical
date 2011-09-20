@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steadup.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619012341id_/http%3A//www.steadup.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadup.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920234305id_/http%3A//steadup.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Steadup Search Engine - Privacy Policy
 
