@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511144533id_/http%3A//www.alertsite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920174202id_/http%3A//www.alertsite.com/privacy_policy.shtml) for the most accurate reproduction.*
 
-# AlertSite Privacy Policy
-
-Privacy Statement 
+# Privacy Policy
 
 Effective Date: March 30, 2007
 
-The [www.AlertSite.com](http://www.alertsite.com/) Web site is owned and operated by Boca Internet Technologies, Inc., a Florida corporation ("AlertSite"). AlertSite respects your individual privacy. That is why AlertSite adopted this Privacy Policy as evidence of its commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Policy puts you in control of how your personal information is processed. You have our promise that AlertSite will not electronically process your personal information in any way that is incompatible with this Privacy Policy.
+The [www.AlertSite.com](http://www.alertsite.com/) website is owned and operated by [SmartBear Software, Inc.](http://smartbear.com/) AlertSite respects your individual privacy. That is why AlertSite adopted this Privacy Policy as evidence of its commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Policy puts you in control of how your personal information is processed. You have our promise that AlertSite will not electronically process your personal information in any way that is incompatible with this Privacy Policy.
 
 AlertSite designed its business practices to safeguard your privacy and responsible use of your personal information as part of AlertSite's attempt to make you a "Customer For Life."
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.alertsite.com/seal_m "Validate TRUSTe privacy certification")AlertSite has been awarded TRUSTe's Privacy Seal signifying that the privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at admin@alertsite.com. If you are not satisfied with our response, you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at admin@alertsite.com. If you are not satisfied with our response, you can contact TRUSTe [here](http://watchdog.truste.com/pvr.shtml?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloadable from this site.
+The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloadable from this site.
 
 ## Applicability of Privacy Policy
 
@@ -45,7 +43,7 @@ In the unlikely event that an unauthorized third party compromises AlertSite's s
 
 AlertSite reserves the right to share or disclose any information or communication you may submit to [www.AlertSite.com](http://www.alertsite.com/) when AlertSite determines, in its sole discretion, that the disclosure of such information or communication is necessary to identify, contact, or bring legal action against a user who may be:
 
-  1. breaching the terms and conditions of this Privacy Policy or the Agreement of Terms of Use of [www.AlertSite.com](http://www.alertsite.com/) located at the URL [www.alertsite.com/terms.shtml](http://www.alertsite.com/terms.shtml);
+  1. breaching the terms and conditions of this Privacy Policy or the Agreement of Terms of Use of [www.AlertSite.com](http://www.alertsite.com/) located at the URL [www.alertsite.com/terms.shtml](http://www.alertsite.com/terms_of_use.shtml);
   2. causing intentional or unintentional injury to another;
   3. interfering with another's rights or property, including AlertSite's rights or property;
   4. violating any applicable law, rule or regulation; or
@@ -61,7 +59,7 @@ These third parties are prohibited from using your personally identifiable infor
 
 ## Links
 
-[www.AlertSite.com](http://www.alertsite.com/) may contain links to other Web sites. This Privacy Policy applies solely to [www.AlertSite.com](http://www.alertsite.com/), and AlertSite makes no representations or warranties about, nor is it responsible for, the privacy practices of other Web sites. When you enter a linked Web site, AlertSite encourages you to read the privacy policy of that linked Web site, as its privacy policy may differ substantially from that of [www.AlertSite.com](http://www.alertsite.com/).
+[www.AlertSite.com](http://www.alertsite.com/) may contain links to other websites. This Privacy Policy applies solely to [www.AlertSite.com](http://www.alertsite.com/), and AlertSite makes no representations or warranties about, nor is it responsible for, the privacy practices of other websites. When you enter a linked website, AlertSite encourages you to read the privacy policy of that linked website, as its privacy policy may differ substantially from that of [www.AlertSite.com](http://www.alertsite.com/).
 
 ## Cookies
 
@@ -91,7 +89,7 @@ Users who no longer wish to receive our newsletter and promotional communication
 
 ## Access to Personally Identifiable Information
 
-A user may access their personally identifiable information through a secure login provided on our Web site.
+A user may access their personally identifiable information through a secure login provided on our website.
 
 If your personally identifiable information changes, you may correct or update it by making the change directly through your manage account control panel. If you should no longer desire our services, you may delete or deactivate your personally identifiable information by e-mailing our Customer Support at [support@alertsite.com](mailto:support@alertsite.com) or by contacting us by telephone or postal mail at the contact listed below. 
 
@@ -101,26 +99,12 @@ If you use the customer forum on this site, you should be aware that any persona
 
 ## Customer Testimonials
 
-We post customer testimonials on our Web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent, prior to posting the testimonial, to include any personally identifiable information along with the testimonial. 
+We post customer testimonials on our website which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent, prior to posting the testimonial, to include any personally identifiable information along with the testimonial. 
 
 ## Questions, Comments & Complaints
 
 AlertSite encourages you to provide AlertSite with feedback regarding this Privacy Policy. If you have questions, comments or concerns regarding this Privacy Policy, please contact [admin@alertsite.com](mailto:admin@alertsite.com) or send mail to the following address: 
 
-**Boca Internet Technologies, Inc.  
-4611 Johnson Road, Suite 6  
-Coconut Creek, FL 33073**
-
-or call 954-312-0188.
-
-## Governing Law and Jurisdiction
-
-This Privacy Policy is to governed and construed in accordance with the internal laws of the State of Florida, without regard for principles of conflicts of laws.
-
-Any civil action, claim, dispute or proceeding arising out of or relating to this Privacy Policy shall be referred to final and binding arbitration, before a single arbitrator, under the commercial arbitration rules of the American Arbitration Association in Palm Beach County, Florida.
-
-The arbitrator shall be selected by the parties, and if the parties are unable to reach agreement on selection of the arbitrator within thirty (30) days after the notice of arbitration is served, then the arbitrator shall be selected by the American Arbitration Association.
-
-Judgment upon any award rendered by the arbitrator shall be final, binding and conclusive upon the parties and their respective administrators, executors, legal representatives, successors and assigns, and may be entered in any court of competent jurisdiction. Notwithstanding the previous sentence, in no event shall any party be entitled to punitive damages and all parties hereby waive their rights to any punitive, special, indirect or consequential damages, including, but not limited to, damages for any loss of profit, revenue or business.
-
-If any portion of this Privacy Policy is deemed unlawful, void or unenforceable by any arbitrator or court of competent jurisdiction, this Privacy Policy as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Privacy Policy that is unlawful, void or unenforceable shall be stricken from this Privacy Policy.
+**SmartBear Software Inc.  
+100 Cummings Center, Suite 234N  
+Beverly, MA 01915, USA**
