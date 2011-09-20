@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedegree4me.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228212754id_/http%3A//thedegree4me.com/PrivacyPolicy.asp%3FPublisherID%3D1356%26AffiliateID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedegree4me.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920061312id_/http%3A//www.thedegree4me.com/PrivacyPolicy.asp%3FPublisherID%3D1356%26AffiliateID%3D) for the most accurate reproduction.*
 
 # The Degree4me.com - Privacy
 
