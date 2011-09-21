@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astonishingarticles.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116171035id_/http%3A//astonishingarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astonishingarticles.com privacy policy that was archived on 2011-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110921224805id_/http%3A//astonishingarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Article Submission Site | Privacy Statement
 
