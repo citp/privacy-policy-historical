@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airbus.co.nz privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630150304id_/http%3A//www.airbus.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airbus.co.nz privacy policy that was archived on 2011-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110921082251id_/http%3A//www.airbus.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # 
 
