@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcentral.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101010946id_/http%3A//www.jobcentral.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcentral.com privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922015551id_/http%3A//www.jobcentral.com/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Policy | JobCentral
 
@@ -8,7 +8,7 @@ There are several opportunities on our web site for you to provide us with perso
 
 Resume Database
 
-JobCentral provides a resume database for the convenience of job seekers and member companies as well as non-member companies and individuals who are charged a nominal fee to access the resumes. Neither JobCentral nor any other career site on the Internet can assure you that the information on your resume will not be collected and shared with others. JobCentral has a standard "[Terms and Conditions of Service](https://web.archive.org/web/20110101010946id_/http%3A//www.jobcentral.com/terms.asp "JobCentral Terms and Conditions of Service")" policy which governs the use of information, including resumes, obtained from the JobCentral site. Be aware that such "terms and conditions of use", although valid and enforceable, do not protect your resume from being collected and distributed in a manner you may not desire.
+JobCentral provides a resume database for the convenience of job seekers and member companies as well as non-member companies and individuals who are charged a nominal fee to access the resumes. Neither JobCentral nor any other career site on the Internet can assure you that the information on your resume will not be collected and shared with others. JobCentral has a standard "[Terms and Conditions of Service](https://web.archive.org/web/20110922015551id_/http%3A//www.jobcentral.com/terms.asp "JobCentral Terms and Conditions of Service")" policy which governs the use of information, including resumes, obtained from the JobCentral site. Be aware that such "terms and conditions of use", although valid and enforceable, do not protect your resume from being collected and distributed in a manner you may not desire.
 
 Non-Personal Information
 
