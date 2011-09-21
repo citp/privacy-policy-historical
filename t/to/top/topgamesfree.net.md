@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgamesfree.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629162045id_/http%3A//www.topgamesfree.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgamesfree.net privacy policy that was archived on 2011-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110921155137id_/http%3A//www.topgamesfree.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Games for Free
 
@@ -6,7 +6,7 @@
 
 The games provided by this site are considered to be from the public domain, e.g. they are widely found on many other gaming sites etc., and comply with second party site’s policies. We try our best to give as much credit back to those authors/owners/organisations etc. as possible.
 
-But if you believe such a [game](http://www.topgamesfree.net/tag/game/ "Posts tagged with game") should not be featured on our website, Please contact us at webmaster@Topgamesfree.net and we shall arrange to take off the [game](http://www.topgamesfree.net/tag/game/ "Posts tagged with game") as soon as possible. Usually within 24-48 hours.”
+But if you believe such a game should not be featured on our website, Please contact us at webmaster@Topgamesfree.net and we shall arrange to take off the game as soon as possible. Usually within 24-48 hours.”
 
 ## Multi-Player Games Policy.
 
@@ -22,7 +22,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## Log Files
 
-Like many other Web sites, Topgamesfree.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/[time](http://www.topgamesfree.net/tag/time/ "Posts tagged with time") stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, Topgamesfree.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 ## Cookies and Web Beacons
 
@@ -40,7 +40,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Our Commitment To Childrens Privacy
 
-Protecting the privacy of the very young is especially important. For that reason, Topgamesfree.net will never [collect](http://www.topgamesfree.net/tag/collect/ "Posts tagged with Collect") or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
+Protecting the privacy of the very young is especially important. For that reason, Topgamesfree.net will never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
 Under our Terms of Service, children under 13 are not allowed to access our service.
 
 ## Links to third party Websites
