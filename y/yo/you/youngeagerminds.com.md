@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngeagerminds.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523202738id_/http%3A//www.youngeagerminds.com/2009/01/youngeagermindscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngeagerminds.com privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922075126id_/http%3A//www.youngeagerminds.com/2009/01/youngeagermindscom-privacy-policy.html) for the most accurate reproduction.*
 
 # YoungEagerMinds.com Privacy Policy
 
@@ -24,4 +24,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 
-The Privacy Policy may be revised periodically. Please revisit this page to stay aware of any changes.
+The Privacy Policy may be revised periodically. Please revisit this page to stay aware of any changes. 
