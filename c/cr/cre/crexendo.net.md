@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crexendo.net privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522015207id_/http%3A//www.crexendo.net/store/3952084/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crexendo.net privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922020916id_/http%3A//www.crexendo.net/store/3952084/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Business Communication Services
 
