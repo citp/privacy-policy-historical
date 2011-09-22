@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2010-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100910035947id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922225013id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
 
 # Legends of America Privacy Policy
 
@@ -6,9 +6,7 @@
 
 [ Site Map](http://www.legendsofamerica.com/loa-sitemap.html)
 
-[What's New!!](http://www.legendsofamerica.com/whatsnew.html)[ ](http://www.legendsofamerica.com/whatsnew.html)
-
-[ ](mailto:?subject=I%20like%20this%20site!%20%20Check%20out%20www.legendsofamerica.com)
+[ What's New!!](http://www.legendsofamerica.com/whatsnew.html)[ ](http://www.legendsofamerica.com/whatsnew.html)
 
 [ American History](http://www.legendsofamerica.com/americanhistory.html)
 
@@ -20,17 +18,17 @@
 
 [ Native Americans](http://www.legendsofamerica.com/na-nativeamericans.html)
 
-[ The Old West](http://www.legendsofamerica.com/oldwest.html)
+[The Old West](http://www.legendsofamerica.com/oldwest.html)
 
 [ Photo Galleries](http://www.legendsofamerica.com/photogalleries.html)
 
 [** Roadside Attractions**](http://www.legendsofamerica.com/roadsideattractions.html)
 
-[Rocky Mtn Store](http://www.legendsofamerica.com/rockymountaingeneralstore.html)
+[ Rocky Mtn Store](http://www.legendsofamerica.com/rockymountaingeneralstore.html)
 
 [ Route 66](http://www.legendsofamerica.com/66-main.html)
 
-[Travel Destinations](http://www.legendsofamerica.com/destinations.html)
+[ Travel Destinations](http://www.legendsofamerica.com/destinations.html)
 
 **[ Treasure Tales](http://www.legendsofamerica.com/treasures.html)**
 
@@ -38,9 +36,9 @@
 
 **[ Free E-Newsletter](http://www.legendsofamerica.com/newsletter.html)**
 
-[ ](http://www.facebook.com/LegendsOfAmerica?ref=nf)[******Facebook Fanpage**](http://www.legendsofamerica.com/facebook.html)
+[ ](http://www.facebook.com/LegendsOfAmerica?ref=nf)[**Facebook   Fanpage**](http://www.legendsofamerica.com/facebook.html)
 
-**[ Twittering](http://twitter.com/legendsamerica)**
+**[Twittering](http://twitter.com/legendsamerica)**
 
 **
 
@@ -48,22 +46,22 @@
 
 [ Contact Us](http://www.legendsofamerica.com/contact.html)
 
-Please report broken
+**
 
-links, missing pictures, or
+**   ** Though we strive for accuracy, we do make mistakes. We welcome corrections & feedback.  Report  [ HERE](http://www.legendsofamerica.com/brokenlink.html) or  [Email](mailto:dave@legendsofamerica.com).
 
-other problems online by
-
-clicking [ HERE](http://www.legendsofamerica.com/brokenlink.html) or send us
-
- an [ email](mailto:kathy@legendsofamerica.com).  Thanks!
-
-**| | 
+**** | | 
 
 |    
 ---  
   
-Move your mouse over our little [Old West](http://www.legendsofamerica.com/oldwest.html) town, click, and see where it takes you!  
+**[ ](http://www.legendsofamerica.com/)LEGENDS OF AMERICA**
+
+** Privacy Policy**  
+  
+[ ](http://www.facebook.com/LegendsOfAmerica)
+
+  [ ](http://www.addthis.com/bookmark.php?v=250&username=legendsofamerica)  
   
 **Privacy Policy**
 
