@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getasuperbuy.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085933id_/http%3A//getasuperbuy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getasuperbuy.com privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922211950id_/http%3A//getasuperbuy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Furniture Superstore - Rochester, MN - Rochester, Southern Minnesota Furniture Store
 
@@ -83,6 +83,6 @@ Should you have other questions or concerns about these privacy policies, please
 Furniture Superstore - Rochester, MN  
 3185 41st St NW  
 Rochester, Minnesota 55901  
-[Click here to contact us online](https://web.archive.org/web/20110521085933id_/http%3A//getasuperbuy.com/contactus.aspx) -or- call (507) 288-2101  
+[Click here to contact us online](https://web.archive.org/web/20110922211950id_/http%3A//getasuperbuy.com/contactus.aspx) -or- call (507) 288-2101  
   
 ---|---
