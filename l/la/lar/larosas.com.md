@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the larosas.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524155139id_/http%3A//www.larosas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larosas.com privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922224252id_/http%3A//www.larosas.com/privacy.html) for the most accurate reproduction.*
 
-# LaRosa's Pizzeria: Cincinnati's Best Pizza! Company Privacy Statement
+# LaRosa’s Pizzeria: Order Online for Pick Up or Delivery
 
 **We will always respect your privacy.**
 
