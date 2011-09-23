@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the idownloadfast.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617202745id_/http%3A//www.idownloadfast.com/privacy.php%3FPID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadfast.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924013745id_/http%3A//www.idownloadfast.com/privacy.php) for the most accurate reproduction.*
 
 # iDownloadFast.com - Privacy Policy
 
-USERS ONLINE: ** 8396**   AVERAGE DOWNLOAD SPEED: **3945 KB/**s   TOTAL FILES: 3698434   NEW FILES: **1965**
+USERS ONLINE: ** 8395**   AVERAGE DOWNLOAD SPEED: **3942 KB/**s   TOTAL FILES: 3698415   NEW FILES: **1965**
 
 ## Privacy Policy
 
@@ -28,4 +28,4 @@ You can access all your personally identifiable information that we collect onli
 
 
 **How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20110617202745id_/http%3A//www.idownloadfast.com/support.php?PID=).
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20110924013745id_/http%3A//www.idownloadfast.com/support.php).
