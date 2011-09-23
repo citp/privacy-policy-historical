@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bupa.com.au privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519120031id_/http%3A//bupa.com.au/Bupa/site-information/privacy-%26-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bupa.com.au privacy policy that was archived on 2011-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110923030812id_/http%3A//www.bupa.com.au/site-information/privacy-%26-security) for the most accurate reproduction.*
 
 # Privacy & Security - Bupa Australia
 
