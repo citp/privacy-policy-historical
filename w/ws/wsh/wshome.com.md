@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wshome.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516101200id_/http%3A//www.wshome.com/cust/privacy/content.cfm%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wshome.com privacy policy that was archived on 2011-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110923131902id_/http%3A//www.wshome.com/cust/privacy/content.cfm%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Legal and Privacy | Williams-Sonoma Home
 
@@ -25,8 +25,8 @@ To the extent our Web Site contains hyperlinks to outside services and resources
 **Disclaimer**  
 This Web Site and all Content available on this Web Site are provided on an "as is" basis without warranties of any kind, either express or implied, including without limitation warranties of title or implied warranties of merchantability or fitness for a particular purpose. You acknowledge, by your use of this Web Site, that your use of this Web Site is at your sole risk, that you assume full responsibility for all costs associated with all necessary servicing or repairs of any equipment you use in connection with your use of this Web Site, and that Williams-Sonoma, Inc. Brands shall not be liable for any damages of any kind related to your use of this Web Site.
 
-**Product Information**  
-Most products displayed on our Web Site or in our catalog are available in select Williams-Sonoma Home stores. In some cases, merchandise displayed for sale on our Web Site or in our catalog may not be available at Williams-Sonoma Home stores. The prices displayed on our Web Site or in our catalog are quoted in U.S. Dollars and are valid and effective only in the U.S.
+**Product Pricing Information**  
+The prices displayed on our Web Site may differ from prices that are available in stores. The prices displayed in our catalogs are quoted in U.S. Dollars and are valid and effective only in the U.S.
 
 **Inaccuracy Disclaimer**  
 From time to time there may be information on our Web Site or in our catalog that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, and availability. Williams-Sonoma, Inc. Brands reserves the right to correct any errors, inaccuracies or omissions and to change or update information at any time without prior notice (including after you have submitted your order).
@@ -35,7 +35,7 @@ From time to time there may be information on our Web Site or in our catalog tha
 
 Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California.
 
-Last Updated: June 2006
+Last Updated: July 2011
 
 **Privacy Policy**
 
