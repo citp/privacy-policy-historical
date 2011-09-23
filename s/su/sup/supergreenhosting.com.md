@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supergreenhosting.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819153709id_/http%3A//www.supergreenhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergreenhosting.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924015225id_/http%3A//www.supergreenhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Super Green Hosting
 
@@ -6,10 +6,9 @@ This is the web site of Super Green Hosting. (supergreenhosting.com)
 
 For legal and privacy issues, our UK address is:  
 Super Green Hosting.  
-A2 Segensworth Business Center,  
-Segensworth Road,  
-Fareham, Hampshire,  
-PO15 5RQ
+919 East Jefferson St.  
+Phoenix, AZ 85034  
+USA
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
