@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229005751id_/http%3A//www.bidclerk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924025407id_/http%3A//www.bidclerk.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Construction Leads for 1000's of U.S. Projects - Updated Daily, BidClerk Privacy Policy
 
@@ -147,6 +147,17 @@ Support Department ([support@bidclerk.com](mailto:support@bidclerk.com))
    
    
 This material may not be published, broadcast, rewritten, or redistributed in any medium without prior written consent of BidClerk, Inc.   
-Copyright 2010 BidClerk, Inc. All rights reserved   
+Copyright 2011 BidClerk, Inc. All rights reserved   
    
+|  |  |  |   
+---|---|---  
 | 
+
+| BidClerk Advertising Profile |  |    
+---|---|---  
+  
+Phone: 
+
+Fax:   
+  
+|  | 
