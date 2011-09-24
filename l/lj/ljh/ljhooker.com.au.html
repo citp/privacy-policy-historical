@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the ljhooker.com.au privacy policy that was archived on 2011-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110221000634id_/http%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ljhooker.com.au privacy policy that was archived on 2011-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110924044808id_/http%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Privacy Policy - LJ Hooker</title><script type="text/javascript" src="/script/jquery.combined.js"></script>
+<title>Privacy Policy - LJ Hooker</title><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" src="/script/jquery.combined.js"></script>
+<script type="text/javascript" src="/script/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/script/fancybox/jquery.easing-1.3.pack.js"></script>
 <!--[if lt IE 7]><script type="text/javascript" defer src="/script/pngfix.js"></script>
 <![endif]--><script type="text/javascript" src="/tscript/base.js"></script>
 <script type="text/javascript" src="/pscript/Analytics/analytics.js"></script>
@@ -16,9 +18,69 @@ jQuery(function(){
       tracker._setDomainName("auto");
       tracker._trackPageview();
       });
+  
+  $('a.file-link').live('click', function(e){
+    e.preventDefault();
+    
+    var tracker;
+          tracker = _gat._getTracker("UA-5707975-2");
+      tracker._setDomainName("auto");
+      tracker._trackEvent('File Link', this.href);
+        
+    if(this.target){
+      setTimeout('window.open("'+this.href+'", "'+this.target+'")', 100);
+    } else {
+      setTimeout('document.location = "'+this.href+'"', 100);
+    }
+  });
+  
+  $('a.outbound-link').live('click', function(){
+    e.preventDefault();
+    
+    var tracker;
+          tracker = _gat._getTracker("UA-5707975-2");
+      tracker._setDomainName("auto");
+      tracker._trackEvent('Outbound Link', this.href);
+        
+    if(this.target){
+      setTimeout('window.open("'+this.href+'", "'+this.target+'")', 100);
+    } else {
+      setTimeout('document.location = "'+this.href+'"', 100);
+    }
+  });
+  
+  $('a.tracked-link').live('click', function(){
+    e.preventDefault();
+    
+    var tracker;
+          tracker = _gat._getTracker("UA-5707975-2");
+      tracker._setDomainName("auto");
+      tracker._trackEvent('Tracked Link', this.href);
+        
+    if(this.target){
+      setTimeout('window.open("'+this.href+'", "'+this.target+'")', 100);
+    } else {
+      setTimeout('document.location = "'+this.href+'"', 100);
+    }
+  });
 });
 </script>
-<link rel="stylesheet" type="text/css" href="/styles/site.css"><link rel="stylesheet" type="text/css" href="/styles/cupertino/ui.all.css"><link rel="shortcut icon" href="/images/icon.ico">
+<script type="text/javascript">
+piAId = '9412';
+piCId = '1101';
+
+(function() {
+                function async_load(){
+                                var s = document.createElement('script'); s.type = 'text/javascript';
+                                s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+                                var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+                }
+                if(window.attachEvent) { window.attachEvent('onload', async_load); }
+                else { window.addEventListener('load', async_load, false); }
+})();
+
+</script>
+<link rel="stylesheet" type="text/css" href="/styles/site.css"><link rel="stylesheet" type="text/css" href="/styles/cupertino/ui.all.css"><link rel="stylesheet" type="text/css" href="/styles/fancybox-1.3.4.css"><link rel="shortcut icon" href="/images/icon.ico">
 </head>
 <body>
 <div class="site" id="top">
@@ -50,7 +112,7 @@ jQuery(function(){
                   <a href="/buy/other-services-buying">Other services</a>
                   <a href="/buy/questions-about-buying2222">Questions about buying?</a>
               </div>
-          <a href="/finance" target="_blank" class="site-menu-item" id="parent-nav-76">Finance</a>
+          <a href="/finance" class="site-menu-item" id="parent-nav-76">Finance</a>
           <a href="/manage" class="site-menu-item" id="parent-nav-138">Managing</a>
           <div class="site-menu-dropdown" style="display:none" id="sub-nav-138">
                   <a href="/manage/what-makes-us-different">What makes us different?</a>
@@ -69,14 +131,7 @@ jQuery(function(){
                   <a href="/rent/questions-about-renting">Questions about renting?</a>
               </div>
           <a href="/real-estate-agents" class="site-menu-item" id="parent-nav-20">Our Agents</a>
-          <a href="/askljhooker" class="site-menu-item" id="parent-nav-187">Ask LJ Hooker</a>
-          <div class="site-menu-dropdown" style="display:none" id="sub-nav-187">
-                  <a href="/askljhooker/questions-about-buying2222">Questions about buying?</a>
-                  <a href="/askljhooker/questions-about-selling">Questions about selling?</a>
-                  <a href="/askljhooker/questions-about-renting">Questions about renting?</a>
-                  <a href="/askljhooker/questions-about-managing">Questions about managing?</a>
-                  <a href="/askljhooker/ask-about-finance">Questions about finance?</a>
-              </div>
+          <a href="/myljhooker" class="site-menu-item" id="parent-nav-270">myLJHooker</a>
       </div>
 <div class="site-content">
   <div class="content">
@@ -85,18 +140,6 @@ jQuery(function(){
       <div class="menu-active">
         <div class="menu top">
                                                                                                                   </div>
-      </div>
-      <div class="menu-other">
-        <div class="menu">
-                                  <a href="/home" class="top-level bracketed">Home</a>
-                                  <a href="/sell" class="top-level bracketed">Selling</a>
-                                  <a href="/buy" class="top-level bracketed">Buying</a>
-                                  <a href="/finance" target="_blank" class="top-level bracketed">Finance</a>
-                                  <a href="/manage" class="top-level bracketed">Managing</a>
-                                  <a href="/rent" class="top-level bracketed">Renting</a>
-                                  <a href="/real-estate-agents" class="top-level bracketed">Our Agents</a>
-                                  <a href="/askljhooker" class="top-level bracketed">Ask LJ Hooker</a>
-                  </div>
       </div>
     </div>
        
@@ -108,12 +151,25 @@ jQuery(function(){
       <a class="sharing floater" href="javascript:void(0);" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()"><img src="/images/sharing.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a>
       <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>    
     </div>
-  </div>
+          <div class="content-left-ad">
+        <iframe width="100%" height="600px" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://oascentral.theadnetwork.com.au/RealMedia/ads/adstream_sx.ads/ljhooker.com.au/content/1[randomNo]@Left,Top!Left">
+  <A HREF='http://oascentral.theadnetwork.com.au/RealMedia/ads/adstream_sx.ads/ljhooker.com.au/content@Left,Top!Left'>
+    <IMG SRC='http://oascentral.theadnetwork.com.au/RealMedia/ads/adstream_sx.ads/ljhooker.com.au/content@Left,Top!Left'>
+  </A>
+</iframe>      </div>
+      </div>
   <div class="content-right">
-    <div class="trail">
-                      <a href="/privacy-policy">Privacy Policy</a>
-          </div>
-    <div class="content-main">
+          <div class="trail">
+                  <div class="content-ad">
+            <iframe width="100%" height="100px" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://oascentral.theadnetwork.com.au/RealMedia/ads/adstream_sx.ads/ljhooker.com.au/content/1[randomNo]@Left,Top!Top">
+  <A HREF='http://oascentral.theadnetwork.com.au/RealMedia/ads/adstream_sx.ads/ljhooker.com.au/content@Left,Top!Top'>
+    <IMG SRC='http://oascentral.theadnetwork.com.au/RealMedia/ads/adstream_sx.ads/ljhooker.com.au/content@Left,Top!Top'>
+  </A>
+</iframe>          </div>
+                                    <a href="/">Home</a>
+                   -           <a href="/privacy-policy/">Privacy Policy</a>
+              </div>
+        <div class="content-main">
       <div class="basic-content">
   <h1>Privacy Policy</h1>
    <p><strong>LJ Hooker PRIVACY POLICY</strong></p>
@@ -165,4 +221,4 @@ jQuery(function(){
 </div>
 
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
