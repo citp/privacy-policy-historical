@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9magentothemes.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616132357id_/http%3A//www.9magentothemes.com/Magento-Themes/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9magentothemes.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924023721id_/http%3A//www.9magentothemes.com/9MT/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
