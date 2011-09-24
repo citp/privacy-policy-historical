@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upillar.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215003017id_/http%3A//www.upillar.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upillar.com privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925004447id_/http%3A//www.upillar.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# upillar.com | Free Online Classifieds | Privacy Policy
+# upillar.com | Privacy Policy
 
 [UPILLAR.COM](http://upillar.com/) (LEXON INDUSTRIES, INC.)
 
