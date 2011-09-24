@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftedit.net privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113230413id_/http%3A//www.shiftcreate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftedit.net privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924092905id_/http%3A//www.shiftcreate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | ShiftCreate
 
