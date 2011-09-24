@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510093347id_/http%3A//www.libyanspider.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924170457id_/http%3A//www.libyanspider.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,4 +118,4 @@ Due to the constantly changing nature of our business, we reserve the right to c
 
 If you do not agree to be so bound, do not remain on the Site. You are responsible for checking our Site frequently to keep apprised of recent changes. 
 
-If you have any concerns about your privacy at LibyanSpider.com, please [click here](https://web.archive.org/web/20110510093347id_/http%3A//www.libyanspider.com/about/contact.php) to contact Customer Support, and we will attempt to resolve it. 
+If you have any concerns about your privacy at LibyanSpider.com, please [click here](https://web.archive.org/web/20110924170457id_/http%3A//www.libyanspider.com/about/contact.php) to contact Customer Support, and we will attempt to resolve it. 
