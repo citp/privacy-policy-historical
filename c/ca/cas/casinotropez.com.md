@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221025244id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924234334id_/http%3A//www.casinotropez.com/privacy.html) for the most accurate reproduction.*
 
 # Protecting your privacy
 
@@ -37,7 +37,7 @@ Our advertising system logs IP addresses to supply more accurate advertising fea
 
 Account Creation Information
 
-**Information collected**   
+**Information collected**  
 We collect personal information from visitors to this web site through the use of online forms and every time you e-mail us your details. We also collect information about the transactions you undertake including details of payment cards used. The personal information that we collect may include your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which we, or undertakings engaged by us for such purpose, shall undertake.
 
 **Use of personal information**
@@ -89,10 +89,10 @@ If you have any other questions or concerns regarding data privacy and security 
 
 Our Certifications and What They Mean
 
-**Turbo SSL® certificate**   
+**Turbo SSL® certificate**  
 Casino Tropez under the name of the casino group uses a GoDaddy.com Turbo SSL® certificate to ensure 100% security and protection. A SSL certificate is a digital certificate that authenticates the identity of a Web site to visiting browsers and encrypts information for the server via Secure Sockets Layer (SSL) technology. GoDaddy.com SSL certificates support both industry-standard 128-bit (used by all banking infrastructures to safeguard sensitive data) and high-grade 256-bit SSL encryption to secure online transactions.
 
-**TST Technical Systems Testing.**   
+**TST Technical Systems Testing.**  
 TST Technical Systems Testing North America Incorporated is a well-known and respected statistical and technical software testing firm, located in Vancouver, BC Canada. They test all of our poker and casino games to industry-standard levels of fairness and accuracy, and issue letters of compliance for sites that satisfy these stringent standards. Note: all our gaming software is written by PlayTech, the leading software provider in the gaming industry. Therefore, the TST compliance letters feature PlayTech’s name. As a PlayTech client, we use their software without alteration and therefore can display this logo and the compliance letter that it links to. TST compliance letters for our poker and casino games can be accessed from the hyperlinks at the bottom of our webpage. 
 
   
