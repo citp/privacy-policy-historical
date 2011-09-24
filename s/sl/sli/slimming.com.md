@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606070846id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924021417id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slimming.com
 
@@ -62,10 +62,12 @@ SLIMMING.COM LTD. will use reasonable efforts to protect customers' personal inf
 
 SLIMMING.COM LTD. will afford you a reasonable opportunity to review the personal information in your file, if you so request by calling 0115 979 8484 or writing to: 
 
-Slimming.com Ltd.   
-Unit 3A Park Lane Business Centre   
-Nottingham   
-NG6 0DU   
+Slimming.com Ltd.  
+Lace Market House  
+54-56 High Pavement  
+Lace Market  
+Nottingham  
+NG1 1HW   
 England 
 
 If SLIMMING.COM LTD. is not able to provide access to some aspect of a customer's personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney-client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
