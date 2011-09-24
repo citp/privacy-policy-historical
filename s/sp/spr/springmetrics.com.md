@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springmetrics.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510232203id_/http%3A//www.springmetrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springmetrics.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924071914id_/http%3A//www.springmetrics.com/privacy.html) for the most accurate reproduction.*
 
 # Spring Metrics :: Privacy Policy
 
