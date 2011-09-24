@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the picsarus.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924151949id_/http%3A//www.picsarus.com/picsarus) for the most accurate reproduction.*
+
+# Picsarus
+
+All information provided by the user is strictly confidential. Picsar.us reserves the right to distribute aggregated demographic information provided by the user, but Picsar.us will never release any personal information about the user without permission. However, Picsar.us reserves the right to release user information if user has violated the Picsar.us [Terms of Service](www.http://www.picsar.us/terms), if the information is subpoenaed, or if the user has committed unlawful acts.
+
+Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to [Privacychoice.org/choose](http://www.privacychoice.org/choose).
