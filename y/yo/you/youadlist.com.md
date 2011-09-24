@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the youadlist.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521042939id_/http%3A//www.youadlist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youadlist.com privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925004435id_/http%3A//www.youadlist.com/privacy.php) for the most accurate reproduction.*
 
 # Youadlist Privacy Policy
+
+## Privacy Policy
 
 We at Youadlist.com knows the importance of information privacy and we value your privacy seriously. 
 
