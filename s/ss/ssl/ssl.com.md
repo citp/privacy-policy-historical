@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssl.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414072726id_/http%3A//www.ssl.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssl.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924131910id_/http%3A//www.ssl.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # SSL Certificates from SSL.com SSL Certificate Authority Aggregator
 
@@ -51,7 +51,7 @@ The personal contact information will be kept in an active SSL database until th
 ** This site contains links to other sites. We make an effort to encourage our partner sites to comply with the current best practices for the electronic collection of personal and confidential information. However, www.ssl.com is not responsible for the privacy practices or the content of these other sites or their associated companies and partners. SSL recommends that you review the privacy policy on other sites to ensure that you understand how they address issues related to the use of your personal information.
 
 **Choice / Access  
-** We require user consent before collecting or using any personal information. Users may always decline to receive communications from us. Users may review, modify or remove from active use their information in our database, choose to no longer receive communications, or no longer receive our service at any time by [contacting us](https://web.archive.org/web/20110414072726id_/http%3A//www.ssl.com/t-contact.aspx).
+** We require user consent before collecting or using any personal information. Users may always decline to receive communications from us. Users may review, modify or remove from active use their information in our database, choose to no longer receive communications, or no longer receive our service at any time by [contacting us](https://web.archive.org/web/20110924131910id_/http%3A//www.ssl.com/t-contact.aspx).
 
 **Security  
 ** This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Employees are made aware of the security and privacy practices through new hire training, and periodic training for customer service, technical and other departments as needed.
