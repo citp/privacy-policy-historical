@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the myzeo.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208160956id_/http%3A//www.myzeo.com/pages/57_privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzeo.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924024121id_/http%3A//www.myzeo.com/pages/57_privacy_policy.cfm) for the most accurate reproduction.*
 
 # Zeo - Privacy Policy
 
 Privacy
 
- **Privacy Policy  
+**Privacy Policy  
 Effective: May 12, 2009**
 
 Welcome to the web site (the “ **Site** ”) of Zeo, Inc. (“ **Zeo** ”, “ **we** ”, “ **us** ” and/or “ **our** ”). Through the Site, including without limitation the corporate-branded area and the area of the Site made available to registered owners of the Zeo Personal Sleep Coach (the “ **MyZeo Coach** ”), you will have access to an educational tool and motivational program that helps you learn about your sleep and which habits and behaviors may be keeping you from enjoying the sleep that you need (collectively, the “ **Zeo Services** ”). The Zeo Services are neither a medical device nor a medical program and are not intended for the diagnosis and/or treatment of sleep disorders.
 
 Your privacy is very important to us at Zeo. Accordingly, we have developed this Privacy Policy to explain our policy with respect to personally identifiable data (“ **Personal Data** ”) and other information that is collected from those who use our Site.
 
- _ **Information We Collect:**_
+_**Information We Collect:**_
 
 When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below:
 
- **Personal Data That You Provide Through Registration:** We collect Personal Data from you when you register with the Site and create an account.  Except in connection with your order to purchase a product through the Site, we do not collect any credit card or other financial account information, driver’s license numbers and/or social security numbers. 
+**Personal Data That You Provide Through Registration:** We collect Personal Data from you when you register with the Site and create an account.  Except in connection with your order to purchase a product through the Site, we do not collect any credit card or other financial account information, driver’s license numbers and/or social security numbers. 
 
 **Personal Data That You Provide Through Other Use of the Site:  ** We also collect Personal Data from you when you access the Zeo Services and/or other parts of the Site and elect to provide Personal Data through the Site.  For example, when you use the MyZeo Coach, we will collect sleep data that you upload to the Site and information that you input in your sleep journal, such as details regarding your sleeping environment, your feelings, behaviors and other factors that may impact your sleep.
 
- **By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Zeo and the authorized third parties referred to herein located in the United States.**
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Zeo and the authorized third parties referred to herein located in the United States.**
 
 **At no time shall Personal Data collected from you in accordance with this Privacy Policy or any information or materials derived from such Personal Data be deemed to be an electronic health record or an electronic medical record for any purpose whatsoever under any law or regulation, including without limitation for purposes of compliance with the Health Insurance Portability and Accountability Act of 1996.  
 **  
@@ -30,7 +30,7 @@ When you interact with us through the Site, we may collect Personal Data and oth
    **_Our Use of Your Personal Data and Other Information.  
 _** Zeo uses the Personal Data you provide in a manner that is consistent with this Privacy Policy.  We may use your Personal Data for the purpose for which it was provided, including without limitation for the purposes described further below:
 
-  *  _ **Provision and Monitoring of the Zeo Services:**  _ We will use your Personal Data to provide you with access to and support your use of the Zeo Services and to monitor your use of the Zeo Services. As part of the MyZeo Coach, we may use your Personal Data to provide you with personalized coaching on methods for sleep improvement. We will also give you the opportunity to store, review and edit Personal Data and other information on the Site.   
+  * _**Provision and Monitoring of the Zeo Services:**  _ We will use your Personal Data to provide you with access to and support your use of the Zeo Services and to monitor your use of the Zeo Services. As part of the MyZeo Coach, we may use your Personal Data to provide you with personalized coaching on methods for sleep improvement. We will also give you the opportunity to store, review and edit Personal Data and other information on the Site.   
 **__**
   * **_Surveys, Contests and Other Special Offers:_** From time to time, we may offer our users the opportunity to participate in surveys, contest and other special offers.  If you elect to participate in these services, you will need to provide certain Personal Data.   
 **__**
@@ -47,7 +47,7 @@ _****_
 
 
 
- _ **Our Disclosure of Your Personal Data and Other Information.  
+_**Our Disclosure of Your Personal Data and Other Information.  
 **_ We consider your Personal Data and privacy to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
 
   * **_Business Transfers:_** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.    
@@ -63,16 +63,16 @@ _****_
 
 
 
- _ **Your Choices.  
+_**Your Choices.  
 **_ You can use the Site without providing any Personal Data. However, if you choose not to provide any Personal Data, you may not be able to use certain areas of the Site and/or certain Zeo Services.  For example, you will not be able to use the Zeo Services without creating an account, establishing a sleep profile and providing the necessary registration information.  You will have the choice as to whether or not you wish to be contacted by us and/or by any third parties with offers for products, services and/or events that may be of interest to you. You can control these choices at the My Account section of the Site.
 
- _ **Exclusions.  
+_**Exclusions.  
 **_ This Privacy Policy does not apply to any Personal Data collected by Zeo other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Zeo through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Zeo shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
- _ **Children.  
+_**Children.  
 **_ The Site and the Zeo Services are intended for adults.  Users under the age of eighteen (18) are not permitted to use the Site or register for and/or use the Zeo Services without the consent of a parent or legal guardian.
 
- _ **Links to Other Web Sites.**_     
+_**Links to Other Web Sites.**_     
 This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by Zeo (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Zeo endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
 
 **_Security._  
@@ -84,7 +84,7 @@ _**Other Terms and Conditions.
 _**Changes to Zeo’s Privacy Policy.  
 **_ The Site and our business may change from time to time. As a result, at times it may be necessary for Zeo to make changes to this Privacy Policy. Zeo reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
 
- _ **Access to Information; Contacting Zeo.  
+_**Access to Information; Contacting Zeo.  
 **_ To keep your Personal Data accurate, current, and complete, please visit the My Account section of the Site.  You may also contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site. 
 
 Please also feel free to contact us if you have any questions about Zeo’s Privacy Policy or the information practices of this Site. You may contact us as follows: privacy@myzeo.com. 
