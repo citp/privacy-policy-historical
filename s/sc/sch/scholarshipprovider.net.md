@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620212049id_/http%3A//www2.scholarshipprovider.net/%3Fpage%3Dprivacy%26c%3D4dfea0bc59573) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924171019id_/http%3A//www2.scholarshipprovider.net/%3Fpage%3Dprivacy%26c%3D4e7d485de3db7) for the most accurate reproduction.*
 
 # Win A $10,000 Scholarship
 
@@ -6,7 +6,7 @@
 
 ScholarshipProvider.net ("the site") respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
-Free College Scholarships, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@scholorshipprovider.net.If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+Free College Scholarships, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@scholorshipprovider.net.If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 #####  Information Collected: 
 
@@ -31,7 +31,7 @@ ScholarshipProvider.net may occasionally license, share, or otherwise disclose d
 
 Additionally, ScholarshipProvider.net may disclose your information if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the applicable laws; (b) protect and defend the rights and/or property of ScholarshipProvider.net and its family of websites; and (c) comply with the valid legal process. 
 
-#####  Customer Testimonials/Comments/Reviews 
+#####  Customer Testimonials/Comments/Reviews: 
 
 We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information.We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review. 
 
@@ -43,7 +43,11 @@ On some of our sites we have special offers with our partners where another thir
 
 If you click on a link to a third party site, [including on an advertisement], you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as ScholarshipProvider.net. We encourage you to review the privacy statements of any other service provider from whom you request services. 
 
-#####  Widgets: 
+##### Web Beacons:
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+##### Widgets:
 
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying loan information, the news, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
 
@@ -69,7 +73,7 @@ The information and services provided by us are not intended for children under 
 
 #####  Anti-Spam Policy and Your Opt-Out Rights: 
 
-ScholarshipProvider.net has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email).ScholarshipProvider.net reserves the right to send its subscribers registration confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails.Please note you cannot opt-out of service related emails.However, if you have received a ScholarshipProvider.net promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global unsubscribe page: [Unsubscribe](https://web.archive.org/web/20110620212049id_/http%3A//www2.scholarshipprovider.net/%3Fpage%3Dprivacy%26c%3D4dfea0bc59573?page=unsubscribe)
+ScholarshipProvider.net has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email).ScholarshipProvider.net reserves the right to send its subscribers registration confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails.Please note you cannot opt-out of service related emails.However, if you have received a ScholarshipProvider.net promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global unsubscribe page: [Unsubscribe](https://web.archive.org/web/20110924171019id_/http%3A//www2.scholarshipprovider.net/%3Fpage%3Dprivacy%26c%3D4e7d485de3db7?page=unsubscribe)
 
 #####  Help ScholarshipProvider.net Eliminate Spam 
 
@@ -81,17 +85,21 @@ Under California law, site visitors who are residents of California may request 
 
 #####  Access to your information: 
 
-When you submit your personal information on a form, it is not possible to update or change this information unless you resubmit it on the form again. Additionally, you can contact us as described below. 
+When you submit your personal information on a form, it is not possible to update, delete, or change this information unless you resubmit it on the form again. Additionally, you can contact us as described below. 
 
 #####  Transfer, Sale, or Assign: 
 
 At its sole discretion, ScholarshipProvider.net may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of ScholarshipProvider.net. 
 
+##### Data Retention:
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [ScholarshipProvider.net](mailto:info@scholarshipprovider.net). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 #####  Change in Policy: 
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site. 
 
-Effective July 13, 2010 
+Effective July 15, 2011 
 
 #####  Contact Information 
 
