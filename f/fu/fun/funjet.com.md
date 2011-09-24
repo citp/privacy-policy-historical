@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510202521id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924070524id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Funjet Vacations - Customer Information Privacy Protection
 
@@ -64,7 +64,7 @@ Information you submit through any of the online methods, including online booki
 
 To unsubscribe from the Funjet Vacations weekly emails, you can visit the unsubscribe page at <https://www.secure02.com/Funjet/et_unsubscribe.asp>. Your information will be kept in the Funjet Vacations database and will not be shared with any third parties.
 
-To correct or change your My Funjet Club information, visit <http://res.funjet.com/account/retrievelogin.aspx> and login. Then, enter your new information to update your profile.
+To correct or change your My Funjet Club information, visit [http://res.funjet.com/account/retrievelogin.aspx](https://web.archive.org/web/20110924070524id_/http%3A//www.funjet.com/cs/http%3A%2F%2Fres.funjet.com%2Faccount/retrievelogin.aspx) and login. Then, enter your new information to update your profile.
 
 **Opt-In Information**  
 If you wish to receive information about Funjet Vacations news, products, and specials via email, you may sign up on the sign up forms throughout the website or on the My Funjet Club page. You may also sign up to receive email specials when you book online by checking the appropriate box on the online booking form. Information you submit for the purposes of online bookings will not be used to subscribe you for the email guest book unless you specifically opt-in for the email guestbook.
