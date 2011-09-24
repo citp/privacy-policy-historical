@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the information-seeking.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920190005id_/http%3A//information-seeking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-seeking.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924194348id_/http%3A//information-seeking.com/privacy.html) for the most accurate reproduction.*
 
 # Information-Seeking.com
 
