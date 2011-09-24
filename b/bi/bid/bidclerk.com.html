@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bidclerk.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229005751id_/http%3A//www.bidclerk.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bidclerk.com privacy policy that was archived on 2011-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110924025407id_/http%3A//www.bidclerk.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <html><head>
 		<title>Construction Leads for 1000's of U.S. Projects - Updated Daily, BidClerk Privacy Policy</title>
@@ -10,10 +10,17 @@
 		<link rel="stylesheet" href="/css/style-1-1.css" type="text/css">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon"> 
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
-		<script type="text/javascript" src="/js/jquery.tools.min.js"></script>
-		<script type="text/javascript" src="/js/advertising.js"></script>
-		<script type="text/javascript" src="/js/submit-buttons.js"></script>
+		
+		
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/libs/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="/js/libs/jquery-ui-1.8.11.min.js"></script>
+<script type="text/javascript" src="/js/libs/jquery.bgiframe-2.1.2.js"></script>
+
+<script type="text/javascript" src="/js/libs/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/js/libs/jquery.autotab.js"></script>
+<script type="text/javascript" src="/js/libs/bidclerk-jquery-functions.js"></script>
+<script type="text/javascript" src="/js/libs/jquery.scrollTo-min.js" "=""></script>
 		
 		
 
@@ -36,12 +43,87 @@
 		GA_googleFetchAds();
 		</script>
 		
-		
 	</head>
 	<body>
-		<div id="pleaseWaitImageElementId" style="z-index:2;position:absolute;top:40%;left:40%;display:none;">
-			<img src="/images/please-wait.gif">
-		</div>	
+		
+		
+
+
+<style>
+	
+	.expose-window
+	{
+		display:none;
+		background-color:#fff;
+		border:7px solid #333;
+		padding:0px;
+	}
+	
+	.expose-window-title-container
+	{	
+		padding-top:8px;
+		padding-bottom:5px;
+		width:100%;
+		border-bottom:2px solid #ccc;		
+	}
+	
+	.expose-window-title
+	{
+		font-weight:bold;
+		font-size:16px;
+		text-indent:10px;
+	}	
+	
+	.expose-window-text
+	{
+		background-color:#fffff;
+		line-height:18px;
+		padding:20px;
+		font-size:14px;
+		color:#183b63;
+	}		
+		
+</style>
+
+<script type="text/javascript">
+
+	$(document).ready(function(){
+
+		$('.window-link').click(function(){
+
+			var windowId = "#" + $(this).attr("rel") + "-detail-window";
+
+			$(windowId).overlay().load();	
+
+			return false;
+		});
+
+		$(".expose-window").overlay(
+		{
+			mask: 
+			{
+				color: '#666',
+				loadSpeed: 400,
+				opacity: 0.9
+			},
+			fixed: false,
+			//top:"center",
+			//top:"18%",
+			oneInstance: false,
+			onLoad:function(){
+
+				var currStyle 	= this.getOverlay().attr("style");
+				var newStyle 	= currStyle.replace("FILTER:  ;","");
+
+				this.getOverlay().removeAttr("style"); 
+				this.getOverlay().attr("style", newStyle);
+			}		
+		});
+	});
+
+</script>
+
+	
 		
 		
 
@@ -83,13 +165,18 @@
 					<td style="padding-top:26px;">
 						<table cellpadding="0" id="max-width" cellspacing="0" border="0">
 							<tbody><tr>
-								<td align="center">
-									<table cellpadding="0" cellspacing="0">
-										<tbody><tr><td align="center" class="pad-bottom-7"><a href="http://www.bidclerk.com/index.html" title="BidClerk Home"><img src="/images/layout/home.jpg" border="0"></a></td></tr>
-										<tr><td align="center"><a href="http://www.bidclerk.com/index.html" class="header-link" title="BidClerk Home">Home</a></td></tr>
-									</tbody></table>
-								</td>
-								<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+								
+									 
+									 
+										<td align="center">
+											<table cellpadding="0" cellspacing="0">
+												<tbody><tr><td align="center" class="pad-bottom-7"><a href="http://www.bidclerk.com/index.html" title="BidClerk Home"><img src="/images/layout/home.jpg" border="0"></a></td></tr>
+												<tr><td align="center"><a href="http://www.bidclerk.com/index.html" class="header-link" title="BidClerk Home">Home</a></td></tr>
+											</tbody></table>
+										</td>
+										<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+									
+								
 								
 									<td>&nbsp;&nbsp;</td>						
 									<td align="center">
@@ -140,7 +227,7 @@
 						</tbody></table>
 					</td>														
 				</tr>
-				<tr><td colspan="2" style="border-bottom:1px solid #cccccc;">&nbsp;</td></tr>	
+				<tr><td colspan="2" style="border-bottom:1px solid #cccccc;">&nbsp;</td></tr>
 				<tr>
 					<td colspan="2" style="padding-top:10px;">
 						
@@ -197,7 +284,6 @@
 						
 					</td>
 				</tr>
-
 				
 	
 
@@ -212,8 +298,7 @@
 
 
 	
-
-																				
+															
 			</tbody></table>
 		</td>
 		<td style="background-image:url(&quot;/images/layout/right.jpg&quot;);background-repeat:repeat-y;background-color:#576d90;"><img src="/images/layout/transparent.gif" height="1" width="9"></td>
@@ -648,7 +733,7 @@
 	<tr>
 		<td class="blue-bg" align="center" style="color:#ffffff;font-size:10px;">
 			This material may not be published, broadcast, rewritten, or redistributed in any medium without prior written consent of BidClerk, Inc. 
-			<br>Copyright 2010 BidClerk, Inc. All rights reserved
+			<br>Copyright 2011 BidClerk, Inc. All rights reserved
 		</td>
 	</tr>
 	<tr><td class="blue-bg">&nbsp;</td></tr>
@@ -711,63 +796,126 @@
 	<tr><td>&nbsp;</td></tr>
 </tbody></table>
 
-<div id="ad-profile-overlay">
-	<table width="500" class="white-bg" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr><td class="results-table-left-separator results-table-header-bg">&nbsp;&nbsp;BidClerk Advertising Profile</td></tr>
-		<tr><td>&nbsp;</td></tr>		
-		<tr>
-			<td align="center">
-				<table width="98%" cellpadding="4" cellspacing="0" border="0">
-					<tbody><tr><td id="bold-black"><span id="company-name"></span></td></tr>
-					<tr><td><span id="ad-contact"></span></td></tr>
-					<tr><td><span id="company-address"></span></td></tr>
-					<tr><td>Phone:&nbsp;<span id="phone-number"></span></td></tr>
-					<tr><td>Fax:&nbsp;<span id="fax-number"></span></td></tr>
-					<tr><td><a id="ad-email" href="" title="" class="header-link"></a></td></tr>
-					<tr><td><a id="ad-url" href="" title="" target="_blank" class="header-link"></a></td></tr>
-					<tr><td style="padding-bottom:10px;"><span id="ad-description"></span></td></tr>
-					<tr><td class="ad-bottom" align="right"><a href="#" id="close-ad-link" title="Close Window" class="header-link">Close Window</a></td></tr>
-				</tbody></table>
-			</td>
-		</tr>					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="ad-profile-overlay-detail-window" class="expose-window" style="width:500px;"> 
+	
+		<div class="expose-window-title-container">
+			<table id="max-width" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td class="expose-window-title">BidClerk Advertising Profile</td>
+					
+						<td align="right" style="width:26px;"><a href="javascript:void(0);" class="close" title="Close Window"><img src="/images/layout/close.png" border="0"></a></td>
+						<td style="width:5px;">&nbsp;</td>
+										
+				</tr>
+			</tbody></table>
+		</div>
+		
+	<table id="max-width" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td class="expose-window-text"> 
+		<div id="bold-black"><span id="company-name"></span></div>
+		<div><span id="ad-contact"></span></div>
+		<div><span id="company-address"></span></div>
+		<div>Phone:&nbsp;<span id="phone-number"></span></div>
+		<div>Fax:&nbsp;<span id="fax-number"></span></div>
+		<div><a id="ad-email" href="" title="" class="header-link"></a></div>
+		<div><a id="ad-url" href="" title="" target="_blank" class="header-link"></a></div>
+		<div><span id="ad-description"></span></div>
+		<div>&nbsp;</div>
+		<div>&nbsp;</div>
+		<div align="center"><img src="/images/layout/bright-logo.jpg"></div>
+	</td>
+		</tr>
 	</tbody></table>
+	<div>&nbsp;</div>
 </div>
 
-<style>
-	.ad-bottom
-	{
-		border-top:1px solid #cccccc;
-		border-bottom:1px solid #cccccc;
-		padding:5px;
-	}
+<script type="text/javascript">
 
-	#ad-profile-overlay
-	{
-		text-align:left;
-		padding:18px;
-		line-height:20px;
-		display:none;
-		position:absolute;
-		width:500px;
-		height:300px;
-		background-color:#fff;
-		border:6px solid #ccc;
-		z-index:10000;
-	}
+	$(document).ready(function(){
+		
+		$('.text-ad-link').click(function(){
+			
+			var id = $(this).attr( 'id' );
+
+			$.ajax({
+				
+			   type: "POST"
+			   ,dataType: "json"
+			   ,async: "true"
+			   ,url: "/advertising-profile.html"
+			   ,data: "id=" +  id
+			   ,success: function( json, status, xhr )
+			   {
+				   $('#company-name').html( json.companyName );
+				   $('#ad-contact').html( json.adContact );
+				   
+				   if(json.companyAddress != "")
+				   {
+				   		$('#company-address').html( json.companyAddress );
+				   }
+				   
+				   $('#ad-description').html( json.adDescription );
+				   
+				   if(json.phoneNumber != "")
+				   {
+				   		$('#phone-number').html( json.phoneNumber );
+				   }
+				   
+				   if(json.faxNumber != "")
+				   {
+				   		$('#fax-number').html( json.faxNumber );
+				   }
+				   
+				   if(json.emailAddress != "")
+				   {
+				   		$('#ad-email').html( json.emailAddress );
+				   }
+				   
+				   if(json.webAddress != "")
+				   {
+				   		$('#ad-url').html( json.webAddress );
+				   }							   
+				   
+				   toggleRow( json.phoneNumber, 'phone-number' );
+				   toggleRow( json.faxNumber, 'fax-number' );
+				   toggleRow( json.emailAddress, 'ad-email' );
+		       }
+		 	});				
+			
+			$("#ad-profile-overlay-detail-window").overlay().load();
+			
+			return false;
+		});
+	});
 	
-	#ad-profile-overlay .close 
-	{ 
-	    background-image:url(/images/layout//close.png);
-	    position:absolute; 
-	    right:-20px; 
-	    top:-20px; 
-	    cursor:pointer; 
-	    height:35px; 
-	    width:35px; 
-	}
-</style>
-
-<script type="text/javascript" src="/js/pages/mybidclerk/tiles/ad-profile-popup.js"></script></td>
+	function toggleRow( val, field )
+	{
+		if( val != '' ) 
+		{ 
+			$( '#' + field ).parent().parent().show(); 
+		}
+		else
+		{ 
+			$( '#' + field ).parent().parent().hide(); 
+		}
+	}	
+	
+</script></td>
 																</tr>													
 															</tbody></table>
 														</td>
@@ -793,28 +941,74 @@
 		</div>
 		
 		
-		
-		
-		
-		
 
 	
 
 
 	<script type="text/javascript" src="/js/tool-tips.js"></script>
 
+	
+		<div id="quick-action-popup_tt" class="tip-window">
+			<div class="tip-window-title-container">
+				<div style="float:left;padding-top:10px;padding-left:10px;padding-bottom:10px;"><img src="/images/tool-tip-header-icon.gif"></div>
+				<div class="tip-window-title">
+					&nbsp;&nbsp;Tool Tip
+				</div>
+			</div>
+			<div class="tip-window-text" align="left" id="quick-action-popup_textId">
+				Here are options to quickly access BidClerk site functionality. The entire site is at your finger tips. Select the down arrow for a menu of options and then click Go to transfer to that page.
+			</div>
+		</div>		
 		
-		<div id="quick-action-popup_tt" style="position:absolute;z-index:10;display:none;">
-			<table cellpadding="0" cellspacing="0" border="0" width="401" style="background-color:transparent;">
-				<tbody><tr>
-					<td class="toolTipTitle">Tool Tip</td>
-				</tr>
-				<tr>
-					<td class="tooltipbody" id="quick-action-popup_textId">Here are options to quickly access BidClerk site functionality. The entire site is at your finger tips. Select the down arrow for a menu of options and then click Go to transfer to that page.</td>
-				</tr>	
-			</tbody></table>
-		</div>	
-			
+		
+	
+<style>
+	
+	.tip-window
+	{
+		display:none;
+		width:350px;
+		height:175px;
+		background-color:#fff;
+		border:7px solid #193672;
+		position:absolute;
+		z-index:10;
+	}
+	
+	.tip-window-title-container
+	{
+		width:350px;
+		border-bottom:2px solid #cccccc;
+		overflow: auto;
+	}
+	
+	.tip-window-title
+	{
+		font-weight:bold;
+		font-size:14px;
+		float:left;
+		height:20px;
+		padding-top:11px;
+	}
+	
+	.tip-window-title-button
+	{
+		width:40px;
+		float:left;
+		margin-top:9px;
+	}		
+	
+	.tip-window-text
+	{
+		background-color:#fffff;
+		line-height:18px;
+		padding:20px;
+		font-size:12px;
+		color:#183b63;
+		text-align:left;
+	}	
+		
+</style>		
 	
 
 		
