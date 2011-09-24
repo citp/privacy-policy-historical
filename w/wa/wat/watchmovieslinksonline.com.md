@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchmovieslinksonline.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821093406id_/http%3A//www.watchmovieslinksonline.com/movies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmovieslinksonline.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924035712id_/http%3A//www.watchmovieslinksonline.com/movies/privacy) for the most accurate reproduction.*
 
 # Watch Movies Links Online - Watch Movies online for free on WatchMoviesLinksOnline.com . Watch Movies Links, Archive, Large Collection of Free Full Length Movies
 
