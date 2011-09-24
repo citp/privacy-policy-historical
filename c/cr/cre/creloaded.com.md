@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creloaded.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618112136id_/http%3A//www.creloaded.com/pages.php%3FCDpath%3D0_246%26pID%3D284) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creloaded.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924144038id_/http%3A//www.creloaded.com/pages.php%3FCDpath%3D0_246%26pID%3D284) for the most accurate reproduction.*
 
 # CRE Loaded
 
