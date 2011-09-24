@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofreetime.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230214352id_/http%3A//mofreetime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofreetime.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924072734id_/http%3A//mofreetime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
