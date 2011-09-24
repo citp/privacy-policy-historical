@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdis.edu.sg privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504074233id_/http%3A//www.mdis.edu.sg/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdis.edu.sg privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925004203id_/http%3A//www.mdis.edu.sg/PrivacyPolicy) for the most accurate reproduction.*
 
 # Management Development Institute Of Singapore
 
