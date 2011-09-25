@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the vietson.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827174038id_/http%3A//www.vietson.com/home/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietson.com privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925030036id_/http%3A//www.vietson.com/home/privacy.cfm) for the most accurate reproduction.*
 
-# VIETSON Online Gaming | Privacy Policy
+# Privacy Policy at VIETSON
 
   
 
 
 ## PRIVACY POLICY
 
-This privacy policy (the "Privacy Policy") describes the personal information collected about users of the online game service accessible via the Website located at www.VIETSON.com and related URLs (the "Service") and how such information may be used or disclosed by VIETSON.com. ("VIETSON").
+This privacy policy (the "Privacy Policy") describes the personal information collected about users of the online game service accessible via the Website located at vietson.com and related URLs (the "Service") and how such information may be used or disclosed by vietson.com. ("Vietson").
 
-The term "You" (and its variants) refers to You as a user of the Service and the term "Us" (and its variants) refers to VIETSON. 
+The term "You" (and its variants) refers to You as a user of the Service and the term "Us" (and its variants) refers to Vietson. 
 
 #### Overview
 
-As part of the operation of the Service We collect and may disclose information about You. By accepting the VIETSON.com Terms of Use and this Privacy Policy, You consent to Our use and disclosure of Your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the VIETSON.com Terms of Use.
+As part of the operation of the Service We collect and may disclose information about You. By accepting the vietson.com Terms of Use and this Privacy Policy, You consent to Our use and disclosure of Your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the vietson.com Terms of Use.
 
 #### A Special Note About Children
 
@@ -39,11 +39,11 @@ By default, we will send you weekly updates of various site information, a varie
 
 #### Inviting Friends
 
-Inviting friends to VIETSON.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. 
+Inviting friends to vietson.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. 
 
-For your convenience, VIETSON.com offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose then to retrieve your contacts. We never send invitations to contacts you do not explicitly select and your invitations are the only email we will ever send to your friends unless they register to join the site. 
+For your convenience, vietson.com offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose then to retrieve your contacts. We never send invitations to contacts you do not explicitly select and your invitations are the only email we will ever send to your friends unless they register to join the site. 
 
-If you have accidentally sent invitations you did not intend - please [contact us](https://web.archive.org/web/20080827174038id_/http%3A//www.vietson.com/home/Contact.cfm) and we can cancel the reminder message. 
+If you have accidentally sent invitations you did not intend - please [contact us](https://web.archive.org/web/20110925030036id_/http%3A//www.vietson.com/home/Contact.cfm) and we can cancel the reminder message. 
 
 #### Our Disclosure of Your Information
 
