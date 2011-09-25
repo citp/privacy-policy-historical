@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the hkma.gov.hk privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925032825id_/http%3A//www.hkma.gov.hk/eng/other-information/privacy-policy.shtml) for the most accurate reproduction.*
+
+# Hong Kong Monetary Authority - Privacy Policy Statement
+
+It is our policy to meet fully the requirements of the Personal Data (Privacy) Ordinance. In doing so, we will ensure compliance by our staff with the standards of security and confidentiality prescribed by law.
+
+When you visit our website we record your visit only as a "hit" and do not collect any personally identifiable information from you unless you send us a personal e-mail or register to receive our publications or subscribe to our News Update E-mail Service. Click for the personal information statement on [e-mails](https://web.archive.org/eng/other-information/privacy-policy/e-mails.shtml) and [registration](https://web.archive.org/eng/other-information/privacy-policy/registration.shtml). The information collected from you is secured on this website. Access to the information is restricted to personnel within the HKMA who have a need to use the information. Transmission of any information on-line is not secured by encryption. If you have any queries about our Privacy Policy Statement, please contact [us](mailto:hkma@hkma.gov.hk).
