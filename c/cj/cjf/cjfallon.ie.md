@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cjfallon.ie privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524155802id_/http%3A//www.cjfallon.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjfallon.ie privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925022905id_/http%3A//www.cjfallon.ie/privacy.aspx) for the most accurate reproduction.*
 
 # :: CJ Fallon :: Privacy
 
