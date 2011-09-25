@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildseo.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504122926id_/http%3A//wildseo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildseo.com privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925155354id_/http%3A//www.wildseo.com/privacy.html) for the most accurate reproduction.*
 
 # Wild SEO
 
