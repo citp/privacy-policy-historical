@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puxee.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525072602id_/http%3A//blog.puxee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puxee.com privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925101324id_/http%3A//blog.puxee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Puxee.com Blog
 
