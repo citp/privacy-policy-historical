@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autojunction.co.za privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526235144id_/http%3A//www.autojunction.co.za/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autojunction.co.za privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925163040id_/http%3A//www.autojunction.co.za/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AutoJunction | Better Cars. More Often.
 
@@ -20,7 +20,7 @@
   14. Communications
   15. Security
   16. Correcting/Updating Personal Information
-  17. [Choice/Opt Out](https://web.archive.org/web/20110526235144id_/http%3A//www.autojunction.co.za/pages/choice)
+  17. [Choice/Opt Out](https://web.archive.org/web/20110925163040id_/http%3A//www.autojunction.co.za/pages/choice)
   18. Blog Disclosure
   19. Notification Of Changes
   20. Contact Us 
