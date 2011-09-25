@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tylertech.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101001615id_/http%3A//www.tylertech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylertech.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926010801id_/http%3A//www.tylertech.com/privacy) for the most accurate reproduction.*
 
-# Tyler Privacy Statement
+# Tyler Privacy Statement | Tyler Technologies
 
 * * *
 
