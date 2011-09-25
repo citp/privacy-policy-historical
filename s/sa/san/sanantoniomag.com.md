@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanantoniomag.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528131642id_/http%3A//www.sanantoniomag.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D91%26Itemid%3D95%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanantoniomag.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926000047id_/http%3A//sanantoniomag.com/index.php/components/com_jcalpro/themes/images/gallery/templates/yoo_enterprise_downstream/css/variations/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D91%26Itemid%3D95%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
