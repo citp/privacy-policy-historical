@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521021107id_/http%3A//www.sparebackup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926082542id_/http%3A//www.sparebackup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ We have implemented numerous safeguards designed to protect personally identifia
 
 ### How can I limit the use and sharing of personally identifiable information about me?
 
-You may decline to receive promotional emails from us. Every promotional email we send contains instructions and an Internet link to opt out of future email promotions. You may also opt-out of promotional emails by sending an email request to [customercare@sparebackup.com](mailto:customercare@sparebackup.com) or by calling us at 760-340-4450.
+You may decline to receive promotional emails from us. Every promotional email we send contains instructions and an Internet link to opt out of future email promotions. You may also opt-out of promotional emails by sending an email request to [customercare@sparebackup.com](mailto:customercare@sparebackup.com) or by calling us at (775) 392-2181.
 
 ### How will SBI handle changes in the Privacy Policy or data practices?
 
@@ -61,7 +61,7 @@ We reserve the right to change our data practices from time to time. The current
 
 ### How I Can Access Or Correct My Personal Information?
 
-You can access selected Personal Information that we collect online by by sending an email request to [customercare@sparebackup.com](mailto:customercare@sparebackup.com) or by calling us at 760-340-4450. You can correct factual errors in your Personal Information by sending a request to [customercare@sparebackup.com](mailto:customercare@sparebackup.com) that credibly shows the error. To protect your privacy and security, we take commercially reasonable steps to verify your identity before making corrections.
+You can access selected Personal Information that we collect online by by sending an email request to [customercare@sparebackup.com](mailto:customercare@sparebackup.com) or by calling us at (775) 392-2181. You can correct factual errors in your Personal Information by sending a request to [customercare@sparebackup.com](mailto:customercare@sparebackup.com) that credibly shows the error. To protect your privacy and security, we take commercially reasonable steps to verify your identity before making corrections.
 
 ### Severability
 
