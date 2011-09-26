@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629103415id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926213820id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
