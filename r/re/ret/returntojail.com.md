@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returntojail.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419232817id_/https%3A//returntojail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returntojail.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926045420id_/http%3A//returntojail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
