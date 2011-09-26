@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexlovers.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924020021id_/http%3A//www.forexlovers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexlovers.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926134615id_/http%3A//www.forexlovers.com/privacy.html) for the most accurate reproduction.*
 
 # Forex Lovers - Forex Trading Strategy
 
