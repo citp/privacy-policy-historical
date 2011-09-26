@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the social-bookmarking.net privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302081019id_/http%3A//www.social-bookmarking.net/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the social-bookmarking.net privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926070409id_/http%3A//www.social-bookmarking.net/static/privacy) for the most accurate reproduction.*
 
-# Social-Bookmarking.Net | Privacy Policy
+# Privacy Policy | Social Bookmarking .Net
+
+## Privacy Policy
 
 ### What information do we collect?  
 
@@ -63,14 +65,14 @@ This policy was last modified on 15.03.2010
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](http://www.social-bookmarking.net/module.php?module=rcContactus) using the information below.   
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact) using the information below.   
 
 
-Stephan Struck  
-Am Korstick 4  
-D-45239 Essen  
+Martin Junker  
+Hermann-Kauffmann-Str. 8b  
+D-22307 Hamburg  
 Germany  
 [info@social-bookmarking.net](mailto:info@social-bookmarking.net)  
-+49 163 / 63 66 811
++49 160 / 927 08 611
 
 Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
