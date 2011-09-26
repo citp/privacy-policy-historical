@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loqqad.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614220224id_/http%3A//www.loqqad.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loqqad.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926072622id_/http%3A//www.loqqad.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Loqqad - Unique Way For Online Local Classifieds
 
