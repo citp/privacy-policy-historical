@@ -1,103 +1,108 @@
-> *The following text is extracted and transformed from the playhaven.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427035930id_/http%3A//www.playhaven.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playhaven.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926220415id_/http%3A//www.playhaven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PlayHaven
 
-PlayHaven Privacy Policy
+Last Revised: August 4, 2011 
 
-This Privacy Policy was last updated in December 2008. 
+This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Medium Entertainment, Inc., doing business as “PlayHaven” ("PlayHaven ", "we" or "us") when you access the PlayHaven web site at [www.PlayHaven.com](http://www.playhaven.com/) (the "Site") or interact with the PlayHaven advertising platform (the " PlayHaven Platform"). The PlayHaven Platform enables PlayHaven to serve advertisements ("Ads") from advertisers that are part of the PlayHaven network (“Advertisers”) through mobile applications ("Applications") operated by third party publishers (“Publishers”). The Site, PlayHaven Platform, Ads, and the Applications are collectively referred to as the “Services”. If you do not agree to the terms of this Policy, please do not use the Services. 
 
-PlayHaven.com, a service of Medium Entertainment, Inc., ("PlayHaven", "we", or "us") takes the privacy and protection of personal information very seriously. By visiting and using the Web Site and Services or by registering for the Services and creating an Account, you acknowledge that you accept the practices and policies outlined in this privacy policy ("Privacy Policy"). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the PlayHaven Terms of Service that you can find at http://www.playhaven.com/about/terms and which incorporate this Privacy Policy by reference. 
+**We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was revised. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.** Your continued use of the Services following the posting of changes to these terms will mean you accept those changes. 
 
-What This Privacy Policy Covers
+What Is Personal Information?
 
-This Privacy Policy describes PlayHaven's practices with respect to Personal Information and Anonymous Information that we collect when you use the Services. This Privacy Policy does not apply to the use of your Personal Information that is collected by third parties that PlayHaven does not own or control or that do not support PlayHaven in providing the Services. 
+As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number), or information about that individual that is directly linked to personally identifiable information. Personal information does not include "aggregate" information, which is data we collect about the use of the Services or about a group or category of services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. 
 
-**"Personal Information"** is information that is personally identifiable like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. 
+What Information Do We Collect?
 
-**"Anonymous Information"** means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. 
+We may collect information in a number of ways when you use Applications or visit our Site: 
 
-We collect and use Personal Information and Anonymous Information as described in this Privacy Policy from Users. 
+Active Collection:
 
-**BY USING THE SERVICES OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICES, YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.**
+We collect certain information when you voluntarily provide it, such as if you send us an email, fill out a form, post comments or other content, or otherwise provide or request information. This may include when you provide information in connection with an Ad in the Application. Such information may include personal information, such as your name, user name, email, address, telephone number, and other contact and demographic information. Personal and demographic information may also be collected if you provide such information in connection with leaving comments, posting content, sending an email or message to another user, or participating in any interactive forums or features on the Services. In addition, from time to time we may collect demographic, contact, or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on the Services. 
 
-**YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY AND BY USING THE SERVICES OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICES, YOU ARE EXPRESSLY CONSENTING TO SUCH PROCESSING.**
+Passive Collection
 
-Personal Information We Collect
+When you use the Services, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on the Site. When you view an Ad while accessing or using an Application, we may automatically collect your device type and IP address as well as the unique device identifier ("UDID") for your mobile device. We also may collect information about your use and activity on the Application and the PlayHaven Platform. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
-We collect the following Personal Information that you submit to us voluntarily:
+We may also automatically collect certain information and monitor user activity through the use of "cookies" or web beacons (also known as web bugs, pixel tags, tracking pixels, clear gifs, or by monitoring a user’s UDID) either on the Services or in Ads served in Applications. If we link cookies to any personally identifying information, we will treat this information as personal information. The web beacons we use do not collect any personal information If you wish to block, erase, or be warned of cookies on the Services, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features on the Services. Information provided by cookies, web beacons, UDID’s or other devices may be used, among other things, to analyze data, to determine the popularity of certain content, to deliver advertising targeted to your interests, to make recommendations to you and to better understand the usage and visitation of the Services and the effectiveness of Ads.
 
-  * If you register for the Services and create an Account to become a Member, we collect your username, your e-mail address, a password, and your date of birth for your Account. 
-  * When you create your Profile, we also collect the following additional information on an optional basis: you real name, your sex, your AIM, MSN, and Yahoo user names, and other information about you that you decide to provide in your Profile. You can also provide your XBOX 360 Gamer ID, Steam, and PSN ID and your Wii Friend Code. You can also upload a photo for your Profile (the "Mug Shot") and you can provide information about the games you own and play. We may also collect other information about you and how you play games on an optional basis, including, but not limited to, the city, state, and country where you live and your playing schedule. 
-  * When you take the PlayHaven Match Test, we collect information about your gaming preferences. 
-  * When you use the Services, you may add friends, send messages, perform searches and queries, form guilds or clans, contribute to game information, and transmit information through various channels and we collect all the information associated therewith. 
-  * When you contact us by sending us an e-mail, we will collect any information that is contained in (and/or attached to) your e-mail. 
+For some features of the Services, you may be able to submit information about other people. For instance, if you wish to send a coupon or advertisement to a friend you may submit some of your friend’s personal information. PlayHaven will use any such information that we collect from you about another person to carry out your request. We may also share such information with our Advertising Partners for them to carry out your request.
+
+Third parties may also use cookies, web beacons or other devices to collect information when you use the Services. PlayHaven does not control any cookies or other data collection tools that may be placed on the Services or in Ads or Applications by a third party, including Publishers or Advertisers, and this Privacy Policy does not cover the use of such cookies and/or other data collection tools by any third party. We encourage you to read the privacy policies of the Applications you use to find out more about the information that may be collected by third parties and the choices you have regarding the collection, use and sharing of such information. 
+
+Active Collection
+
+We collect certain information when you voluntarily provide it, such as if you send us an email, fill out a form, post comments or other content, or otherwise provide or request information. This may include when you provide information in connection with an Ad in the Application. Such information may include personal information, such as your name, user name, email, address, telephone number, and other contact and demographic information. Personal and demographic information may also be collected if you provide such information in connection with leaving comments, posting content, sending an email or message to another user, or participating in any interactive forums or features on the Services. In addition, from time to time we may collect demographic, contact, or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on the Services. 
+
+Information Received From Third Parties
+
+We may also obtain certain non-personal information about you from third parties, including our Publishers or Advertisers. This information may include demographic, geographic, psychographic and other usage information that does not personally identify an individual user and may be associated with an anonymous device ID. The collection and use of this information is pursuant to such third party's information collection practices, which are typically outlined in a privacy policy like this one, provided on the third party's website or in the Application. This Privacy Policy does not apply to information received from third parties, and PlayHaven is not responsible for the Privacy and security practices and policies of such third parties.
+
+We may store and process personal information in the United States and other countries. 
+
+What Information Do We Collect?
+
+We use personal information we collect through the Services for the purposes described in this Policy or elsewhere on the Site or in the Applications. For example, we may use personal and other information we collect:
+
+  * to provide the services, products, or information you request and to process and complete any transactions in connection therewith;
+  * to request feedback and to otherwise contact you about your account or your use of the Services;
+  * to communicate with you and respond to your emails, submissions, questions, inquiries, comments, requests, and complaints and to provide customer service;
+  * to personalize and improve the Services and users' experiences, to increase the functionality and user friendliness of the Site and the Applications, to deliver Ads, content, or features that match user profiles or interests, and to provide recommendations as to other Ads, Applications, content or features that may be of interest to users;
+  * to monitor and analyze Ad, Site and Application usage and trends and otherwise measure the effectiveness of the Services;
+  * to provide you with news and information about our or third party events, activities, offers, promotions, products, and services we think will be of interest to you;
+  * to send you confirmations, updates, security alerts, and support and administrative messages, to detect and prevent fraud, and to otherwise facilitate your use of, and our administration and operation of, the Site and the PlayHaven Platform;
+  * to notify you about important changes to our Site and the PlayHaven Platform;
+  * to conduct surveys and to notify and contact contest and sweepstakes entrants; and
+  * for any other purpose for which the information was collected.
 
 
 
-Personal Information Collected Via Technology
+What Personal Information Do We Share With Third Parties?
 
-As you use the Services, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Web Site. PlayHaven also stores a small text file called a "Cookie" on your computer to store your login information (if any) and your personal preferences for the Services. PlayHaven may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). While you will still be able to use the Services if you disable Cookies in your browser, certain parts of the Services may not function as effectively. 
+We will not share the personal information we collect from you through the Services with third parties, except as described in this Policy, on the Site or in the Applications. For example, we may share personal information as follows:
 
-Since the foregoing information may be collected when you are signed into the Services, this information may be associated by us with Personal Information that we have collected from you. 
+  * with vendors, consultants, and other service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Site, the PlayHaven Platform or the other services we provide and who need access to such information to carry out their work for us;
+  * with Advertising Partners to send you coupons, promotions, rewards, awards, and advertisements you request;
+  * when you give us your consent to do so, including if we notify you that the information you provide will be shared in a particular manner and you provide such information;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of PlayHaven, our users, our employees, our Publishers and Advertisers, copyright owners, third parties or the public, including without limitation to protect PlayHaven or our users, Publishers or Advertisers from fraudulent, abusive, inappropriate, or unlawful use of our Site, the Applications and the PlayHaven Platform;
+  * to enforce or apply this Policy, our Terms of Use, or our other policies or agreements;
+  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of the business assets of PlayHaven;
+  * to enter you into a sweepstakes, contest or promotion; and
+  * to respond to your questions.
 
-Personal Information Collected From Other Sources
 
-We may receive Personal Information about you from outside the Web Site, such as telephone, fax, mail, or from third parties that provide services for us that are related to the Services. We may add this information to the information we have already collected from you via the Services. 
 
-Use of Information We Collect
+Nothing herein restricts the sharing of information we collect from you in an aggregated or anonymized form that does not directly identify you, and such information may be shared in any manner and for any purpose without your consent. This can include a UDID and/or usage information that is not connected to personal information.
 
-In general, information (including Personal Information) you submit to us, or to third parties that support us in collecting information, is used by us to provide you and others with the Services, to match you with other gamers, to respond to requests that you make, to improve our Services and to better tailor the features, performance and support of the Services. 
+You understand that when you use the Site or the Applications, any information you post in any interactive areas of the Site or the Applications, including in any comments, listings, profiles, public or private groups or forums, as well as any information you share with individuals through the Site or the Applications or through social network sites or other social feeds, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums.
 
-PlayHaven provides the Services that are intended to help gamers form and maintain friendships with other gamers. As such, the information you provide is intended to describe yourself to other gamers. One of the ideas behind our Services is that Members of the Services share gaming-related information with other Members. Therefore, you should assume that any information (including any Personal Information you may choose to provide, but excluding your registration information) that you post in generally available sections of the Services will be shared with other Members of the Services. 
+We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent. 
 
-We may also use your Personal Information to provide you with notifications related to your use of the Services, such as electronic newsletters or promotional e-mails, should you request to receive such communications from us. 
+Your California Privacy Rights
 
-If you choose to use our invitation service to invite a friend to our Web Site, we will use the information that you have provided in connection with sending the invitation, such as your friend's email address, to send your friend a one-time email inviting him or her to visit the Web Site. 
+The following applies solely to California residents who have an established business relationship with PlayHaven. If we collect personal information from you, we may make that personal information available to third parties for their marketing and promotional purposes. If you decide that you do not want us to share your personal information with these companies for their marketing and promotional purposes, please send an e-mail to [privacy@playhaven.com](mailto:privacy@playhaven.com). In this email, state that you would like PlayHaven to not share your personal information with third parties for their marketing purposes. Your opt out request will be processed within thirty (30) days of the date of which we receive it. 
 
-We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may also create Anonymous Information on how you use the Services. We may use this Anonymous Information for internal purposes, such as analyzing usage patterns so that we may enhance the Services, and we also reserve the right to use and disclose any Anonymous Information at our sole discretion. Any information that you provide that is not Personal Information (such as usage patterns, information about games you play, and so forth) may be used by us for any reason, at our sole discretion. 
+Links to Other Websites
 
-Feedback
+The Services may contain links to other websites. Any personal information you provide on linked pages or applications is provided directly to that third party and is subject to that third party's privacy policy. This Privacy Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from the Services. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. 
 
-If you provide feedback about the Services to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy. 
+What Steps Do We Take To Protect Your Information Online?
 
-Disclosure of Personal Information
+We take measures designed to protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse. To protect the confidentiality of personal information maintained in your account, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Site and the PlayHaven Platform by any person using your password. Please advise us immediately if you believe your password has been misused. 
 
-Except as otherwise stated in this Privacy Policy, we do not disclose to or share your Personal Information with third parties, unless you ask or authorize us to do so. 
+Children's Privacy
 
-We may provide your Personal Information to third party service providers and suppliers who work on behalf of or with us to provide you with some of the services and features of the Services and to help us communicate with our Users. However, these service providers and suppliers do not have any independent right to use this information except to help us provide the Services. 
+The PlayHaven Application and Site are not intended for use by children under the age of 13, and PlayHaven does not knowingly collect or use any personal information from such children. If we become aware that we have unknowingly collected personal information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database. 
 
-We may sometime include advertisements on the Services for products or services, as well as products and services offered by other companies. These advertisements may target a particular set of Users (for example, advertisements for a roleplaying game might be displayed more often to people who have included the names of roleplaying games in their Profile). We do not provide any personally-identifying information to the advertising servers or agencies that display these advertisements. 
+What Choices Do You Have Regarding the Use of Your Information?
 
-Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. 
+You may "opt out" of receiving marketing or promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
-In the event PlayHaven goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of PlayHaven or its assets may continue to use your Personal Information as set forth in this Privacy Policy. You hereby consent to PlayHaven sharing your Personal Information under the above circumstances. 
+**Miscellaneous**
 
-We may (and you authorize us to) disclose information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce any agreement we may have entered into with you and to enforce the Privacy Policy; or (c) to protect and defend the rights or property of us, other Users, or third parties. 
+This Privacy Policy and the privacy practices of PlayHaven will be subject exclusively to the laws of the State of California within the United States. PlayHaven makes no representation that this Privacy Policy and our practices comply with the laws of any other country or jurisdiction. Visitors who use the Services and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. If you reside outside of the United States, by using the Services, you consent to the transfer, processing and use of your information outside your country.
 
-Choices Regarding Personal Information
+**Questions?**
 
-We will include unsubscribe instructions in each newsletter or promotional communication you receive from us. 
-
-We may send you service-related announcements (such as, but not limited to, notice that we have changed the Services, the Terms of Service, or the Privacy Policy) when we believe it is necessary to do so. You may not opt-out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate the Account you may have with us. You understand that any termination of your Account may involve deletion of your Account and Profile information from our live databases and all the information and data stored for such Account and Profile in the Services. PlayHaven will not have any liability whatsoever to you for any termination of your account or related deletion of you information. 
-
-When you update information, we sometimes keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. When we delete information that we have collected from or about you, it will be deleted from our active databases but may remain in our archives. 
-
-Links to Other Web Sites
-
-The Services may contain links to other web sites that are not owned or controlled by PlayHaven. The provision of such links is for your convenience and does not signify our endorsement of such web sites or location or its contents. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other web sites. Please be aware that the terms of the Privacy Policy do not apply to any outside web sites. 
-
-Privacy of Minors
-
-We do not intentionally collect or maintain information from persons under the age of 13. 
-
-Security and Confidentiality
-
-PlayHaven has put in place commercially reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. However, no company, including PlayHaven, can fully eliminate security risks associated with Personal Information. 
-
-Changes in this Privacy Policy
-
-As part of the Terms of Service, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the Terms of Service. 
-
-Contact Us
-
-If you have any questions or suggestions regarding our Privacy Policy please contact us using our [contact form](http://www.playhaven.com/about/contact/). 
+If you have any questions about this Policy, please contact us at [privacy@playhaven.com](mailto:privacy@playhaven.com). 
