@@ -1,8 +1,147 @@
-> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418082954id_/http%3A//www.huntonprivacyblog.com/tags/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926060831id_/http%3A//www.huntonprivacyblog.com/tags/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy : Privacy & Information Security Law Blog
 
+###  [Use of Google Analytics Now Lawful in Germany, Subject to Certain Guidelines](http://www.huntonprivacyblog.com/2011/09/articles/european-union-1/use-of-google-analytics-now-lawful-in-germany-subject-to-certain-guidelines/)
+
+On September 15, 2011, the data protection authority of the German federal state of Hamburg (the “DPA”) published a [press release](http://www.datenschutz-hamburg.de/news/detail/article/beanstandungsfreier-betrieb-von-google-analytics-ab-sofort-moeglich.html) confirming that Google has significantly improved compliance with respect to the implementation of Google Analytics in Germany.  This finding is the result of two years of fruitful dialog between Google and the DPA, which was acting on behalf of the conference of German data protection authorities responsible for the private sector (the “Düsseldorfer Kreis”).
+
+According to the DPA, Google has now improved the use of Google Analytics by:
+
+  * Giving users of major browsers ( _i.e._ , Internet Explorer, Mozilla Firefox, Google Chrome, Safari and Opera) the opportunity to object to the collection of their data by using the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout?hl=de) function;
+  * offering website operators the option to request anonymization of IP addresses that are collected (by deleting the last digits); and
+  * entering into a data processing agreement with website operators regarding the processing of personal data in compliance with the German Federal Data Protection Act (“FDPA”).
+
+
+
+The DPA endorsed Google’s intention to implement technical changes throughout Europe, and emphasized that “it is not Google, but the website operators using this product [as data controllers] that are responsible for ensuring privacy-friendly use.”
+
+Against this background, the DPA also issued [guidelines](http://www.datenschutz-hamburg.de/uploads/media/GoogleAnalytics_Hinweise_Webseitenbetreiber_in_Hamburg.pdf) for helping website operators ensure compliance.  According to the DPA, website operators should:
+
+  * Enter into a data processing agreement with Google regarding the processing of personal data, using a [standard agreement](http://www.google.de/intl/de/analytics/tos.pdf) approved by the DPAs that imposes specific obligations on data controllers ( _i.e._ , website operators) in accordance with the FDPA;
+  * inform users about the use of Google Analytics in their privacy policy, and also provide users with an opportunity to object by using the following link: <http://tools.google.com/dlpage/gaoptout?hl=de>;
+  * entrust Google with the anonymization of IP addresses by appropriately adjusting the [Google Analytics Program Code](http://code.google.com/intl/de/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) privacy settings, and using the “_anonymizelp()” function on their websites; and
+  * delete all old data that was collected using non-compliant Google Analytics, close old Google Analytics Profiles and establish new profiles.
+
+
+
+The DPA cautioned that additional improvements might be necessary in the future, particularly following the implementation of the [EU’s new cookies law](http://www.huntonprivacyblog.com/2011/06/articles/european-union-1/hunton-hosts-webinar-on-preparing-for-the-eu-cookie-law/) and the introduction of Internet Protocol version 6 in Germany.
+
+For further information on the DPA's press release, please contact [Dr. Jörg Hladjk](http://www.hunton.com/jorg_hladjk/) in the Brussels office of Hunton & Williams.
+
+  * [_Email This_](http://www.huntonprivacyblog.com/2011/09/articles/european-union-1/use-of-google-analytics-now-lawful-in-germany-subject-to-certain-guidelines/#emailForm "Email This Post")
+  * [_Print_](http://www.huntonprivacyblog.com/2011/09/articles/european-union-1/use-of-google-analytics-now-lawful-in-germany-subject-to-certain-guidelines/print.html "Print This Post")
+  * [Trackbacks ](http://www.huntonprivacyblog.com/2011/09/articles/european-union-1/use-of-google-analytics-now-lawful-in-germany-subject-to-certain-guidelines/#pings "Trackbacks")
+  * [_Share Link_](http://www.addthis.com/bookmark.php?v=20)
+
+
+
+###  [Outsourcers Exempt from India's Privacy Regulations](http://www.huntonprivacyblog.com/2011/08/articles/information-security/outsourcers-exempt-from-indias-privacy-regulations/)
+
+Posted on August 24, 2011 by [Hunton & Williams LLP](http://www.hunton.com/)
+
+On August 24, 2011, the Government of India’s Ministry of Communications & Information Technology [issued a clarification](http://pib.nic.in/newsite/erelease.aspx?relid=74990) regarding India’s new privacy regulations, known as the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (the “Rules”), under Section 43A of the Information Technology Act 2000.
+
+Under the Rules, which [were first published on April 11](http://www.huntonprivacyblog.com/2011/05/articles/international/india-drafts-new-privacy-regulations/), an individual’s prior written consent is required to process or disclose sensitive personal data.  Outsourcing service providers in India had been concerned that it would be impossible to comply with this requirement given that they typically do not have direct contact with the individuals from whom they would need to obtain consent.  The clarification states that any “body corporate providing services relating to collection, storage, dealing or handling of sensitive personal data or information under contractual obligation with any legal entity located within or outside India” is exempt from the requirement to obtain consent.  Accordingly, Indian outsourcing service providers will not need to obtain consent from individuals before processing their data, regardless of whether the outsourcing services are provided to companies based in India or abroad.  The Rules will apply only to Indian companies that obtain sensitive personal data directly.
+
+The clarification also defines “provider of information” (a term used in the Rules), as “those natural persons who provide sensitive personal data or information to a body corporate.”
+
+Since the [Rules were published](http://www.huntonprivacyblog.com/2011/05/articles/international/india-drafts-new-privacy-regulations/), it has not been clear how they would apply in practice to companies that outsource their data processing activities to India.  The Indian government’s clarification should come as a welcome relief to the Indian outsourcing industry, and to the companies that use Indian outsourcing services.
+
+View the [Ministry’s Press Note](http://pib.nic.in/newsite/erelease.aspx?relid=74990).
+
+  * [_Email This_](http://www.huntonprivacyblog.com/2011/08/articles/information-security/outsourcers-exempt-from-indias-privacy-regulations/#emailForm "Email This Post")
+  * [_Print_](http://www.huntonprivacyblog.com/2011/08/articles/information-security/outsourcers-exempt-from-indias-privacy-regulations/print.html "Print This Post")
+  * [Trackbacks ](http://www.huntonprivacyblog.com/2011/08/articles/information-security/outsourcers-exempt-from-indias-privacy-regulations/#pings "Trackbacks")
+  * [_Share Link_](http://www.addthis.com/bookmark.php?v=20)
+
+
+
+###  [Representative Mary Bono Mack Releases Discussion Draft of the SAFE Data Act](http://www.huntonprivacyblog.com/2011/06/articles/enforcement-1/representative-mary-bono-mack-releases-discussion-draft-of-the-safe-data-act/)
+
+Posted on June 17, 2011 by [Hunton & Williams LLP](http://www.hunton.com/)
+
+On June 13, 2011, Representative [Mary Bono Mack](http://bono.house.gov/) (R-CA) released a [discussion draft](http://bono.house.gov/UploadedFiles/Data_Breach_Draft.pdf) of the Secure and Fortify Data Act (the “SAFE Data Act”), which is designed to “protect consumers by requiring reasonable security policies and procedures to protect data containing personal information, and to provide for nationwide notice in the event of a security breach.”  Representative Bono Mack is Chairman of the House Subcommittee on Commerce, Manufacturing and Trade.  In a [press release](http://bono.house.gov/News/DocumentSingle.aspx?DocumentID=246029), Representative Bono Mack remarked that “E-commerce is a vital and growing part of our economy.  We should take steps to embrace and protect it – and that starts with robust cyber security.”  She added that “consumers have a right to know when their personal information has been compromised, and companies and other organizations have an overriding responsibility to promptly alert them.”
+
+The legislation would apply to persons engaged in interstate commerce that own or possess data containing personal information related to that commercial activity, including information brokers and third parties contracted to maintain data on the person’s behalf.  Under the SAFE Data Act, the term “personal information” means an individual’s first name or initial and last name, address or phone number, in combination with any one or more of the following: (1) Social Security number, (2) driver’s license number, passport number, military ID or similar number, or (3) financial account number, or credit or debit card number, and any required security code, access code or password that is necessary to permit access to individual’s financial account.  The SAFE Data Act grants the FTC the authority to modify the definition of personal information to the extent necessary to effectuate the Act’s purposes. 
+
+In brief, the bill features two key elements:
+
+  * _Data Security Requirements.  _ The bill instructs the Federal Trade Commission to promulgate regulations that require persons to establish and implement information security policies and procedures regarding the treatment and protection of personal information.  The SAFE Data Act exempts from this requirement entities subject to the Gramm-Leach-Bliley Act and HIPAA, as well as certain service providers.
+  * _Breach Notification Requirements._   In the event of a breach, which the SAFE Data Act defines as “any unauthorized access to or acquisition of data in electronic form containing personal information,” a person must: (1) notify law enforcement within 48 hours of discovery unless the breach involves the inadvertent access or acquisition of data by the person’s employee or agent and (2) assess the nature and scope of the breach and take mitigating steps to prevent further disclosure.  If the person determines, based on the assessment, that the breach presents a “reasonable risk of identity theft, fraud, or other unlawful conduct,” within 48 hours the person must notify the FTC and begin to notify affected individuals “as promptly as possible.”  Similar to various state breach laws, the SAFE Data Act specifies acceptable methods for notifying individuals and content requirements, and mandates the provision of free consumer credit reports and credit monitoring in certain instances.  Entities that comply with certain other federal laws with breach notification requirements would be deemed in compliance with the notification requirements of the SAFE Data Act.
+
+
+
+Violations of the legislation would constitute unfair or deceptive acts or practices enforceable under the FTC Act and may result in civil penalties.  While state attorneys general also may bring civil actions on behalf of their residents, there is no private right of action.  With respect to state privacy laws, the SAFE Data Act would supersede any provision of a state statute, regulation or rule that expressly requires similar information security practices and breach notification to individuals.
+
+  * [_Email This_](http://www.huntonprivacyblog.com/2011/06/articles/enforcement-1/representative-mary-bono-mack-releases-discussion-draft-of-the-safe-data-act/#emailForm "Email This Post")
+  * [_Print_](http://www.huntonprivacyblog.com/2011/06/articles/enforcement-1/representative-mary-bono-mack-releases-discussion-draft-of-the-safe-data-act/print.html "Print This Post")
+  * [Trackbacks ](http://www.huntonprivacyblog.com/2011/06/articles/enforcement-1/representative-mary-bono-mack-releases-discussion-draft-of-the-safe-data-act/#pings "Trackbacks")
+  * [_Share Link_](http://www.addthis.com/bookmark.php?v=20)
+
+
+
+###  [India Drafts New Privacy Regulations](http://www.huntonprivacyblog.com/2011/05/articles/international/india-drafts-new-privacy-regulations/)
+
+Posted on May 18, 2011 by [Hunton & Williams LLP](http://www.hunton.com/)
+
+On April 11, 2011, India [adopted new privacy regulations](http://www.mit.gov.in/sites/upload_files/dit/files/RNUS_CyberLaw_15411.pdf), known as the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (the “Rules”).  The Rules are final versions of the [draft regulations issued in February 2011](http://www.huntonprivacyblog.com/2011/02/articles/international/india-issues-draft-privacy-rules/) and impose wide-ranging obligations on any “body corporate” (company) that “collects, receives, possesses, stores, deals or handles” personal information.  These obligations require companies to provide privacy policies, restrict the processing of sensitive personal data, restrict international data transfers and require additional security measures.  The Rules introduce an omnibus privacy law that is similar in many respects to existing EU data protection law, but which raises some fundamental challenges for India’s numerous outsourcing vendors, and their customers.
+
+**Key Provisions**
+
+The Rules impose a number of additional obligations on organizations, as summarized below.
+
+  * _Privacy Policy_ – The body corporate, or any person on its behalf, that “collects, receives, possesses, stores, deals or handles” personal information must provide a privacy policy that clearly sets out its practices and policies, identifies any sensitive personal data collected and processed, explains the purposes for which the data is collected and used, discloses specific information in relation to the newly defined category of “sensitive personal data,” and provides for reasonable security practices and procedures.
+  * _Definition of Sensitive Personal Data_ – Sensitive personal data is now a defined term, although the definition is narrower than had originally been proposed in draft regulations.  Mirroring EU data protection law to some extent, sensitive personal data includes physical, physiological and mental health conditions, medical records and history, and sexual orientation.  The definition also includes biometric data, passwords and financial information such as bank account details, credit and debit card details.  Information that is freely available or accessible in the public domain or furnished under the Right to Information Act 2005 is excluded from the definition of sensitive personal data.
+  * _Restrictions on Data Collection and Processing_ – At the point of collection of any data, individuals must be made aware of the fact that their data are being collected, the purpose for which the data are collected, the intended recipients of the data and the contact details of both the agency collecting the data and the agency that will retain the data.  Further, all data is subject to a restriction on any processing for secondary purposes.  It must be processed only for the purpose for which it was collected.
+  * _Additional Restrictions for Sensitive Personal Data_ – The prior written consent of an individual is required before their sensitive personal data may be processed.  Consent may be obtained by letter, fax or email.  The provider of the sensitive personal data must be given the option, at the outset, not to provide data and may withdraw their consent to the processing at any time.  In addition, sensitive personal data may only be collected for a lawful purpose connected with a function or activity of the body corporate, and the collection of the data must be necessary for that purpose.  Sensitive personal data may not be retained for longer than required for the purpose for which it may lawfully be used.
+  * _Rights of Access and Correction_ – Individuals have the right to review the information about them and to ensure that inaccurate or deficient data is corrected or amended, as feasible.
+  * _Disclosure to Third Parties_ – Information (including sensitive personal data) may only be provided to a third party with the consent of the provider of the information.  There are exceptions where the disclosure has been agreed to contractually, is required for legal compliance purposes, or where the disclosure is to government agencies mandated to obtain the information for specific purposes.  The body corporate processing the information (or any person on its behalf) may not publish it and any third party recipient is prohibited from further disclosing the information.
+  * _International Data Transfers_ – A body corporate or another person on its behalf may transfer sensitive personal data or information to another body corporate or person in India or abroad where the same level of data protection is assured.  The Rules also stipulate that “the transfer may be allowed only if it is necessary” for the performance of a lawful contract with the provider of the data or with their consent.
+  * _Security_ – The Rules state that a body corporate will be taken to have complied with reasonable security practices and procedures where they have implemented those practices and have a comprehensive documented information security program and policies that contain managerial, technical, operational and physical control measures commensurate with the information assets and nature of the business.  In the event of a security breach, the organization must be able to demonstrate that it has implemented its documented security control measures when asked to do so.  An organization that has implemented International Standard IS/ISO/IEC 27001 or an approved industry code of practice is deemed to have complied with reasonable security practices and procedures, provided that compliance with the standard or code of practice has been audited annually.
+
+
+
+It is not yet clear how the Rules will apply in practice, particularly in the context of data processing activities outsourced to India.  There is some ambiguity as to the extent to which the Rules will apply to local outsourcing vendors and/or to off-shore arrangements where data processing remains within the corporate group, albeit in India.  Existing contract terms also will be relevant to any assessment of whether existing data processing arrangements require amendment in light of the Rules.  Organizations with operations in India, or which use vendors based in India, will need to review their existing data processing arrangements in light of these new requirements.
+
+[View the Rules](http://www.mit.gov.in/sites/upload_files/dit/files/RNUS_CyberLaw_15411.pdf).
+
+  * [_Email This_](http://www.huntonprivacyblog.com/2011/05/articles/international/india-drafts-new-privacy-regulations/#emailForm "Email This Post")
+  * [_Print_](http://www.huntonprivacyblog.com/2011/05/articles/international/india-drafts-new-privacy-regulations/print.html "Print This Post")
+  * [Trackbacks ](http://www.huntonprivacyblog.com/2011/05/articles/international/india-drafts-new-privacy-regulations/#pings "Trackbacks")
+  * [_Share Link_](http://www.addthis.com/bookmark.php?v=20)
+
+
+
+###  [Court Finds Allegations of Harm Sufficient to Allow Breach-Related Class Action Suit to Proceed](http://www.huntonprivacyblog.com/2011/04/articles/online-privacy/court-finds-allegations-of-harm-sufficient-to-allow-breachrelated-class-action-suit-to-proceed/)
+
+Posted on April 22, 2011 by [Hunton & Williams LLP](http://www.hunton.com/)
+
+On April 11, 2011, the United States District Court for the Northern District of California [declined to dismiss](http://www.huntonprivacyblog.com/uploads/file/PrivacyLaw_Claridge_RockYou_Decision.pdf) four of the nine claims in a class action lawsuit filed against RockYou, Inc. (“RockYou”), a publisher and developer of applications used on popular social media sites.  The suit stems from a December 2009 security breach caused by an SQL injection flaw that resulted in the exposure of unencrypted user names and passwords of approximately 32 million RockYou users.  RockYou subsequently fixed the error and acknowledged in a public statement that “one or more individuals had illegally breached its databases” and that “at the time of the breach, the hacked database had not been up to date with industry standard security protocols.”  After receiving notification of the security breach from RockYou in mid-December, on December 28, 2009, a RockYou user who had signed up for a photo-sharing application filed a complaint seeking injunctive relief and damages for himself and on behalf of all other similarly-situated individuals.    
+ 
+
+The plaintiff’s [complaint](http://www.huntonprivacyblog.com/uploads/file/PrivacyLaw_Claridge_Amended_complaint.pdf) (as amended on August 12, 2010) alleged that RockYou failed “to secure and safeguard users’ sensitive personally identifiable information (‘PII’), including e-mail addresses and passwords and login credentials for social networks” in violation of RockYou’s terms of service and “accepted, long-standing industry standards.”  Although RockYou’s privacy policy stated that “RockYou! uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information,” the company failed to use any form of encryption to protect the PII, which was stored in “clear” or “plain text” format, and did not use “hashing, salting, or any other common and reasonable method of data protection and therefore drastically exacerbated the consequences of a hacker bypassing its outer layer of web security.”  
+
+The plaintiff asserted nine causes of action against RockYou, five of which were dismissed in the April 11, 2011 order.  The remaining four claims (breach of contract, breach of implied contract, negligence and negligence per se) were not dismissed, leaving open the possibility that RockYou could be held liable for breach of contract with respect to data security promises it made in its online privacy policy.  The following are some key points from the court’s order.
+
+  * The court ruled that the plaintiff’s allegations of harm were sufficient at that stage of the proceedings “to allege a generalized injury in fact” despite RockYou’s argument that the plaintiff had failed to sufficiently allege “any actionable harm or concrete, tangible, non-speculative harm or loss.” 
+  * The court held that “[n]ot only is there a paucity of controlling authority regarding the legal sufficiency of plaintiff’s damages theory, but the court also takes note that the context in which plaintiff's theory arises — i.e., the unauthorized disclosure of personal information via the Internet — is itself relatively new, and therefore more likely to raise issues of law not yet settled in the courts.”  The court noted, however, that it has “doubts about plaintiff’s ultimate ability to prove his damages theory in this case.”  
+  * RockYou challenged the plaintiff’s three contract-based claims (breach of contract, breach of implied contract, and breach of the implied covenant of good faith and fair dealing) for failure to allege any actionable damages, and argued that the “contractual claims should be dismissed because the provisions of the privacy policy maintained by defendant expressly provide that no liability will result due to a third party’s unauthorized access of defendant’s computer system.”  According to the court, however, the relevant section of RockYou’s privacy policy indicated that RockYou “assumes no liability or responsibility for . . . any unauthorized access to or use of our secure servers and/or any and all personal information and/or financial information stored therein” and thus, “since plaintiff is alleging that the servers were not, in fact, secure, this provision of the policy does not automatically preclude plaintiff’s contract claims.”
+  * The court refused to dismiss the plaintiff’s claims for breach of contract and breach of implied contract, but dismissed the claim for breach of the implied covenant of good faith and fair dealing because the plaintiff did not provide any “supporting or factual allegations that adequately allege the type of conscious and deliberate acts” required to prevail on this count. 
+  * The court’s order allows the plaintiff to amend two of its claims, including the breach of implied contract claim, to re-allege any additional facts sufficient to state a proper claim.  The plaintiff has until May 11, 2011 to amend its complaint.  As the court noted, however, “[i]f it becomes apparent, through discovery, that no basis exists upon which plaintiff could legally demonstrate tangible harm via the unauthorized disclosure of personal information, the court will dismiss plaintiff’s claims for lack of standing at the dispositive motion stage.”
+
+
+
+  * [_Email This_](http://www.huntonprivacyblog.com/2011/04/articles/online-privacy/court-finds-allegations-of-harm-sufficient-to-allow-breachrelated-class-action-suit-to-proceed/#emailForm "Email This Post")
+  * [_Print_](http://www.huntonprivacyblog.com/2011/04/articles/online-privacy/court-finds-allegations-of-harm-sufficient-to-allow-breachrelated-class-action-suit-to-proceed/print.html "Print This Post")
+  * [Trackbacks ](http://www.huntonprivacyblog.com/2011/04/articles/online-privacy/court-finds-allegations-of-harm-sufficient-to-allow-breachrelated-class-action-suit-to-proceed/#pings "Trackbacks")
+  * [_Share Link_](http://www.addthis.com/bookmark.php?v=20)
+
+
+
 ###  [Representative Stearns Introduces Consumer Privacy Protection Act](http://www.huntonprivacyblog.com/2011/04/articles/online-privacy/representative-stearns-introduces-consumer-privacy-protection-act/)
+
+Posted on April 15, 2011 by [Hunton & Williams LLP](http://www.hunton.com/)
 
 On April 13, 2011, Representative [Cliff Stearns](http://stearns.house.gov/News/DocumentSingle.aspx?DocumentID=236296) (R-FL) introduced the [Consumer Privacy Protection Act of 2011](http://stearns.house.gov/UploadedFiles/Privacy_Bill.pdf) (the “Act”), which seeks to “protect and enhance consumer privacy” both online and offline by imposing certain notice and choice requirements with respect to the collection and use of personal information.
 
