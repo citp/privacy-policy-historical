@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowlarity.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418204338id_/http%3A//www.knowlarity.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowlarity.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926033248id_/http%3A//www.knowlarity.com/company/privacy.html) for the most accurate reproduction.*
 
 # Knowlarity - Privacy Policy
 
