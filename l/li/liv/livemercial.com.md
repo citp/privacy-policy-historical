@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livemercial.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614001108id_/http%3A//www.livemercial.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemercial.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926181517id_/http%3A//www.livemercial.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Livemercial™
 
