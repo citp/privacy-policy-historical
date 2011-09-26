@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xpressdocs.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128183753id_/http%3A//www.xpressdocs.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpressdocs.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927005006id_/http%3A//www.xpressdocs.com/privacy_policy.php%3Fid_session%3D5addf24ad4ad0b80b57d9918c51ea945cccf1fd8) for the most accurate reproduction.*
 
-# Xpressdocs Privacy Policy
+# XpressdocsPrivacy Policy
 
 Xpressdocs knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Xpressdocs´ website, you are accepting the practices described in this Privacy Policy.
 
