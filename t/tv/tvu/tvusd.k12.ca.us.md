@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvusd.k12.ca.us privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104030237id_/http%3A//www.tvusd.k12.ca.us/portal/privacy%3Fd%3Dx%26return_url%3D1288710558044) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvusd.k12.ca.us privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927221112id_/http%3A//www.tvusd.k12.ca.us/portal/privacy%3Fd%3Dx%26return_url%3D1317160796215) for the most accurate reproduction.*
 
 # Privacy Notice
 
