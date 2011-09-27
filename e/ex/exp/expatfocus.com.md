@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expatfocus.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526223354id_/http%3A//www.expatfocus.com/index.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatfocus.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927163643id_/http%3A//www.expatfocus.com/index.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Move Abroad, Live Abroad, Work Abroad, Retire Abroad
 
 **Privacy Policy**
 
@@ -12,7 +12,7 @@ _Acceptable Use Policy_
 
 \- You agree not to post any forum or private messages advertising or promoting a particular website, product, service or venture (regardless of whether it is for profit or not) unless it is in direct response and relevant to a request for such information and any interest is fully disclosed. If you wish to advertise at Expat Focus please see the relevant advertising section in the main menu for details. 
 
-\- You agree not to post any material which is false, defamatory, derogatory, inflammatory, inaccurate, abusive, vulgar, hateful, racist, harassing, obscene, profane, sexually oriented, threatening, invasive of a person's privacy, or otherwise in violation of any law. Contravention of this agreement may result in criminal action being taken against you. You also agree not to post any copyrighted material unless you own the copyright or you have consent from the owner of the copyrighted material. 
+\- You agree not to post any material which is false, defamatory, derogatory, inflammatory, inaccurate, abusive, vulgar, hateful, racist, harassing, obscene, profane, sexually oriented, threatening, violent, invasive of a person's privacy, or otherwise in violation of any law. Contravention of this agreement may result in criminal action being taken against you. You also agree not to post any copyrighted material unless you own the copyright or you have consent from the owner of the copyrighted material. 
 
 \- You agree not to use the public forums to "name and shame" companies or individuals. If you wish to warn other members of poor service or fraudulent activity please invite them to contact you privately for further details. 
 
@@ -28,7 +28,9 @@ In addition, please note:
 
 \- Please be courteous at all times, even if you disagree with another member's point of view! Opposing viewpoints are very welcome but personal, derogatory attacks on other members or moderators are not acceptable. 
 
-\- Promotion of political groups or ideologies, political rants, inflammatory religious content, any form of spam, flooding, advertisements, petitions, chain letters, pyramid schemes or solicitations of any kind are strictly prohibited, as is cross-posting the same message across multiple forums. 
+\- Posting of inflammatory, extraneous, or off-topic messages (especially those likely to provoke an emotional response) or otherwise disrupting normal on-topic discussion, i.e. "trolling", is strictly forbidden. 
+
+\- Promotion of political groups or ideologies, political rants, inflammatory religious content, any form of spam, flooding, advertisements, chain letters, pyramid schemes or solicitations of any kind are strictly prohibited, as is cross-posting the same message across multiple forums. 
 
 It is impossible for us to confirm the validity of posts on this forum. Please remember that we do not actively monitor the posted messages and are not responsible for their content. We do not warrant the accuracy, completeness or usefulness of any information presented. The messages express the views of the author, not necessarily the views of this forum. Anyone who feels that a posted message is objectionable is encouraged to notify an administrator of this forum immediately. We have the right to remove objectionable content, within a reasonable time frame, if we determine that removal is necessary. Any removal will be completed as soon as possible. We also retain the right to edit, move or delete any posted message and suspend, delete or deny any account or account registration request without giving any reason. Individuals, companies or their representatives are expressly prohibited from opening a new account if an earlier account has been closed or suspended or earlier registration request denied. You acknowledge that all posts made to this website express the views and opinions of the author and not the site owner, administrators or moderators (except for messages by these people) who cannot be held liable for the contents of such posts. 
 
