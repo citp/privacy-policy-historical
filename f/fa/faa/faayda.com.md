@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faayda.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312082237id_/http%3A//blog.faayda.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faayda.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927031756id_/http%3A//blog.faayda.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | faayda.com | The Job Blog
 
