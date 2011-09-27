@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electrictoolbox.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214041403id_/http%3A//www.electrictoolbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrictoolbox.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927040949id_/http%3A//www.electrictoolbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
