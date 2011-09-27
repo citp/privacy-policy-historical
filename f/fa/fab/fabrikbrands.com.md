@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabrikbrands.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410080640id_/http%3A//fabrikbrands.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabrikbrands.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927170232id_/http%3A//fabrikbrands.com/privacy-statement) for the most accurate reproduction.*
 
 # Branding Agency | Digital Agency | Design Agency | Naming Agency | Fabrik Brands
 
