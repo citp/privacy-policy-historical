@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chimerabondage.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501063039id_/http%3A//chimerabondage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chimerabondage.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927120455id_/http%3A//www.chimerabondage.com/privacy.html) for the most accurate reproduction.*
 
 # chimerabondage.com - Female Self Bondage
 
