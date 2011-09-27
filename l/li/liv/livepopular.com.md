@@ -1,60 +1,59 @@
-> *The following text is extracted and transformed from the livepopular.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125011428id_/http%3A//www.livepopular.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepopular.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927062017id_/http%3A//www.livepopular.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Security & Privacy - PS3 Jailbreak, PS Jailbreak, PS3 break, PS3 dongle, Mini wireless keyboard, Memory Stick Pro, Dingoo Console, SDHC 16gb
+# Privacy Policy - Vibram Five Fingers Shoes | GHD Hair Straightener | Tennis Racquets | Outdoor Shoes, Jacket at Livepopular.com
 
-**How can we protect your privacy?  
-** The security of your personal information is very important to us. We never sell or rent your personal information to any third parties under any circumstances. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as we have described in our Privacy Policy.
+LivePopular.com has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online.
 
- **Safe purchase at LivePopular.com**  
-We want you to feel completely secure when ordering from LivePopular.com. We use a technology called Secure Sockets Layer ( **SSL** ), which encrypts (or encodes) sensitive information before it is sent over the Internet.
+1. ** _Consent for Collection, Use and Disclosure_**  
+Your use of the LivePopular.com site and/or your registration for LivePopular.com products and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the LivePopular.com site.   
+LivePopular.com may occasionally update this Privacy Policy. When it does, LivePopular.com will also revise the "last update" date at the top of this Privacy Policy. In addition, LivePopular.com will seek a customer's prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change.LivePopular.com will notify customers by email of changes to this policy that will affect information collected from them in the future. In certain circumstances, however, LivePopular.com will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order.   
+A customer may withdraw his or her consent for collection, use and disclosure at any time by sending an email to unsubscribe@LivePopular.com. Please note that, if you do, LivePopular.com may suspend its provision of products and services to you. When you unsubscribe, if you fall within the guarantee period for any LivePopular.com product and you request a refund, the guarantee will be honoured.
 
- **What personal information do we collect?**  
-As set forth in more detail below, LivePopular.com ("LivePopular.com" or "We") collects personal information that you provide when using the LivePopular.com web site ("Site"). This information includes your first and last name, email address and a password when you create your LivePopular.com account. You can browse this site without creating an account, but you will need to create an account when you purchase something and in order to take advantage of certain features, such as "Save for Later," "Address Book" and the other LivePopular.com services. We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to protect your confidentiality by verifying your identity.  
-LivePopular.com does not intentionally collect personal information about children under the age of 13. If you are under the age of 18 but at least 13 years of age you may use this Site only under the supervision of a parent or legal guardian who agrees to be bound by the LivePopular.com Terms of Use. Children under the age of 13 may not use this Site and parents or legal guardians may not agree to the LivePopular.com Terms of Use on their behalf. If you do not agree to (or cannot comply with) any of the LivePopular.com Terms of Use, do not use this Site.  
- **  
-Purchase Information**  
-When you make a purchase from LivePopular.com, we collect your name and payment method information. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address, and phone number of the intended recipient(s).  
-When you create an account at LivePopular.com, you can choose to save your billing information in "My LivePopular." You can also save one or more shipping addresses in your Account Address Book. You may change or delete this saved information anytime. Simply go to My LivePopular. Log in with your ID and password, then edit or delete whatever personal information you wish.
+2\. **_Accountability_**  
+LivePopular.com collects, at the time of your registration and your sign-on to its web site, certain "personal information" (information that personally identifies you) including but not limited to your name, email address, home or work address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses).   
+LivePopular.com has implemented this Privacy Policy to protect personal information received from its customers, and to respond to any inquiries. The Privacy Policy also provides that LivePopular.com will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties on LivePopular.com's behalf.   
+LivePopular.com has designated responsibility for your personal information to its Privacy Officer, who ensures compliance with the principles in this Privacy Policy. Other LivePopular.com individuals may be delegated to act on behalf of the Privacy Officer.
 
- **Services Account Information**  
-We collect personal information from users who wish to use any of the LivePopular.com services, including but not limited to, LivePopular.com's Transaction Platform. In order to use these services you must provide your email address and password or create an account at LivePopular.com.
+3\. **_Purposes for Collecting Personal Information_**  
+LivePopular.com collects and uses personal information for the following Identified Purposes:   
+(a) to understand customer needs regarding LivePopular.com's services;   
+(b) to develop and provide our web site and our products and services for our customers;   
+(c) to fulfill your requests for products, services or information;   
+(d) to communicate with customers and site visitors, when necessary, and to inform customers of upgrades, as well as of other products and services available from LivePopular.com, its affiliates and third parties;   
+(e) to allow customers to access limited-entry areas of LivePopular.com's site;   
+(f) to personalize some of our services and products for you and to deliver targeted advertisements and offers from LivePopular.com and third parties;   
+(g) to bill accounts and maintain payment records;   
+(h) to comply with any applicable law, regulation, legal process or government request;   
+(i) to respond to a legitimate claim, or to address our reasonable belief, that you are violating the rights of any third party or any of the agreements or policies that govern your use of the LivePopular.com site or any LivePopular.com product or service;   
+(j) to protect the services, products or rights of LivePopular.com, including but not limited to the security or integrity of the LivePopular.com site; and   
+(k) to identify and resolve technical problems concerning LivePopular.com's site, products and services.   
+LivePopular.com also uses personal information in an aggregate form (i.e., not individually attributable to you) for its business analysis, operational, marketing and other promotional purposes.   
+If we hire other companies to provide some products or services on our behalf, then we will only provide those companies the personal information they need for the Identified Purposes, and we will limit their rights to use and further disclose your personal information as appropriate in the course of their work for us.
 
- **Cookies and Other Computer Information**  
-When you visit LivePopular.com, you will be assigned a permanent "cookie" (a small text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit this Site so we can enhance and customize your online purchase experience.  
-You can choose to browse on LivePopular.com without cookies, but without these identifier files you will not be able to complete a purchase or take advantage of certain features of this Site. These features include storing your shopping cart for later use and, in the future, providing a more personalized shopping experience. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.  
-We also collect certain technical information from your computer each time you request a page during a visit to LivePopular.com. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring web site, if any. We collect this information to enhance the quality of your experience during your visit to this Site and will not sell or rent this information to any third parties.  
-We also contract with third parties to provide us with data collection and reporting services regarding our customers' activities on this Site and to track and measure performance of our marketing efforts. These third parties may use cookies and may receive anonymous information about your browsing and buying activity on this Site. None of your personally identifiable information (such as your name, address, email address, etc.) will be received by or shared with these third parties.
+4. ** _Limiting the Collection of Personal Information_**  
+LivePopular.com limits its collection of personal information to only that information which is necessary for the Identified Purposes. LivePopular.com does not direct its site to, nor does it knowingly collect any personal information from children under the age of thirteen.   
+When you visit the LivePopular.com web site, a cookie may be placed on your computer or the cookie may be read if you have visited the LivePopular.com site previously. LivePopular.com uses cookies to allow LivePopular.com to determine which products and services you have already purchased so that LivePopular.com does not provide redundant information to you, and, if you are an LivePopular.com affiliate, to track LivePopular.com sales made to customers referred by you so that you can receive compensation under our affiliate program. If you choose to not have your browser accept cookies from the LivePopular.com web site, you may not be able to view all the text on the screens, or to experience a personalised visit, or to subscribe to certain service and product offerings on the LivePopular.com site.
 
- **Contacting LivePopular.com**  
-We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using this Site.
+5\. **_Disclosure, Processing and Retention_**  
+LivePopular.com does not sell, rent or disclose your personal information to anyone else, except:   
+(a) to someone you have designated to act as your agent, for one or more of the Identified Purposes (listed in Section 2, above);   
+(b) to LivePopular.com's employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, suppliers and agents, acting on LivePopular.com's behalf for any of the Identified Purposes;   
+(c) as necessary if LivePopular.com has reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with LivePopular.com's rights or property, other users of LivePopular.com's web site, products or services, or anyone else that could be harmed by such activities; and   
+(d) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.   
+In addition, as we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company. In such transactions, personal information may be one of the transferred business assets. Also, in the event that LivePopular.com or substantially all of its assets are acquired, your personal information may be one of the transferred assets.   
+Your information may be stored and processed in the United States, or in any other country in which LivePopular.com or its affiliates, subsidiaries or agents maintain facilities. By using this web site, you consent to any such transfer of information outside of your country.   
+After your account becomes inactive (that is, if you request to be removed from our database), LivePopular.com will keep your personal information in its archives. Your information will then be used only as necessary for tax reasons or to prove LivePopular.com's compliance with any applicable law.
 
- **Other times we may collect personal information**  
-From time to time, LivePopular.com may conduct surveys and contests via this Site, email, other media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will never sell or rent such information to any third parties.
+6\. **_Accuracy of Personal Information_**  
+LivePopular.com will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing LivePopular.com about changes to their personal information. You can do this by sending an email to our privacy department. LivePopular.com will use new or updated personal information it receives from customers to update its own records.
 
- **How we use your personal information?**  
-Information we collect on LivePopular.com may be used to enhance your shopping experience in the following ways:  
-Deliver merchandise and services that you purchase online  
-Register you as a member of LivePopular.com  
-Prevent fraud and bill you for your purchases  
-Confirm your orders  
-Respond to your customer-service inquiries or requests  
-Communicate great values and featured items to youFind and stock the products you want   
-Customize your purchase experience
+7\. **_Security Safeguards_**  
+LivePopular.com will use reasonable efforts to protect customers' personal information. 
 
-**When and with whom can we share your personal information?**  
-We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information only with our agents, representatives, service providers, and contractors for limited purposes, including fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; storing, sharing and retrieving customers' photo images in our Photo Center; enhancing and improving clients' purchase experience; enabling access to our partners' web sites; providing a personalized purchase experience; preventing fraud and completing payment method processing.  
-Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability) or to comply with valid legal processes (subpoenas, warrants) or as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
+8\. **_Access to Personal Information_**  
+LivePopular.com will afford you a reasonable opportunity to review the personal information in your file, if you so request by emailing admin@LivePopular.com  
+... Or upon request to the Privacy Officer. 
 
- **How can you control the use of your personal information?**  
-You can modify or delete your personal information anytime. Simply go to My LivePopular. Log in with your ID and password, then edit or delete whatever personal information you wish. Do not share your LivePopular password with anyone. Other than on this Site, LivePopular.com will never ask you for your password.
+If LivePopular.com is not able to provide access to some aspect of a customer's personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual. 
 
- **How can we protect the security of your personal information?**  
-Your personal information is protected by the password you created when you created an account at LivePopular.com (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of LivePopular.com will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime by going to My LivePopular. Log in with your email address and password, then click "Change Name, Email & Password" and enter a new password.
-
- **More about your privacy**  
-We realize that making purchases at LivePopular.com, or any other web site, requires trust on your part. We value your trust very highly, and pledge to you, our clients, that we will work to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in this Policy. This includes your name, address, phone number, email address or checking account information, in addition to any other personal information that can be linked to you, personally.  
-We believe that you have a right to know, before purchase at LivePopular.com or at any other time, exactly what information we might collect from you, why we collect it and how we use it.  
-We do not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit.  
-If you have an account at LivePopular.com and you want to change, modify or delete any of your personal information, you can do so anytime by going to My LivePopular. Log in with your ID and password, then edit or delete whatever personal information you wish.  
-LivePopular.com may provide links to certain third party web sites. This Privacy Policy applies only to activities conducted and personal information collected on LivePopular.com. Other web sites may have their own policies regarding privacy and security.  
-LivePopular.com will obtain your consent before allowing the download of any software from the LivePopular.com, and LivePopular.com will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to downloaded software, required or automated updates, modifications, reinstallations, or software otherwise obtained through the use of the LivePopular.com is done at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.
+Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting LivePopular.com or the Privacy Officer as described above. LivePopular.com will promptly correct such personal information.
