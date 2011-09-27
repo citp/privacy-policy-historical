@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vghq.net privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530205433id_/http%3A//vghq.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vghq.net privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927023147id_/http%3A//vghq.net/privacy-policy) for the most accurate reproduction.*
 
 # VGHQ » Privacy Policy
 
