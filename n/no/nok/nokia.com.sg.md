@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.com.sg privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510012942id_/http%3A//www.nokia.com.sg/about-nokia/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.sg privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927024507id_/http%3A//www.nokia.com.sg/about-nokia/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Nokia Singapore - Privacy Policy - Privacy - About Nokia
 
