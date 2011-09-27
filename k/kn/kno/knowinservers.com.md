@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowinservers.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109042857id_/http%3A//www.knowinservers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowinservers.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927200416id_/http%3A//www.knowinservers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Knowin Servers
+# Privacy Policy : Knowin Servers
 
 This Privacy Policy discusses how knowinservers.com collects, uses, maintains and discloses information collected from our customers, visitors to our websites, individuals who contact us and visitors to our customers websites (all: Users).  
 Please review our Privacy Policy in conjunction with our Acceptable Use Policy (AUP) and your contract with us. The terms of this Privacy Policy are in addition to the terms of our AUP and our contract. We collect information from Users in many ways. The purpose of this Privacy Policy is to provide Users with an understanding of what types of information we collect, how we treat it, and choices they may have related to this information. We reserve the right to change our Privacy Policy at any time. To stay updated on our current Privacy Policy, please visit this page often. If you have a question about how a certain type of information is handled, please e-mail us at: support@knowinservers.com.
