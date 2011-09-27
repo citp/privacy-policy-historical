@@ -1,22 +1,32 @@
-> *The following text is extracted and transformed from the connectedhq.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528230655id_/http%3A//connectedhq.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectedhq.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927044426id_/http%3A//connectedhq.com/about/privacy) for the most accurate reproduction.*
 
 # Connected | About
 
 ## Privacy Policy
 
-Last modified on September 13, 2010.
+Last modified on June 28, 2011.
 
 Connected understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, platforms, websites, or other affiliated ventures offered by Connected. Throughout this Policy, "Connected" and "We" refers to Connected and its affiliates. "You" or "Users" refers to you, our users - everyone who uses, subscribes to, publishes through, joins, or visits Connected. The "Connected Platform" refers to the applications, platform, web site and services controlled, operated or produced by Connected.
 
 By using the Connected Platform, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Connected Platform [Terms of Use](https://web.archive.org/about/terms/). Your use of the Connected Platform and any personal information you provide through the Connected Platform are subject at all times to this Privacy Policy and the [Terms of Use](https://web.archive.org/about/terms/).
 
+[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.connectedhq.com/seal_m "TRUSTe online privacy certification")
+
+Connected has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web Site, www.connectedhq.com and does not cover information that may be collected through our applications, platforms, mobile applications or information collected behind the log in on our Web Site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@connectedhq.com](mailto:privacy@connectedhq.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+
 ## 1\. The Information Connected Collects
 
-  * **Information You Provide:** You may provide to Connected what is generally called "personally identifiable" information (such as your name, age, zip code, email address, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Connected Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Connected Platform.
+  * **Information You Provide:** You may provide to Connected what is generally called "personally identifiable" information (such as your name, zip code, email address, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Connected Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Connected Platform.
 
   * **"Automatically Collected" Information:** When you access the Connected Platform (including through your computer or your mobile device) or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique user ID, version of software installed, system type, the content and pages that you access on the Connected Platform, and the dates and times that you visit the Connected Platform.
 
   * **"Cookies" Information:** When you access the Connected Platform, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Connected may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Connected Platform. Persistent cookies can be removed. Please review your web browser "Help" file to learn the best way to modify your cookie settings.
+
+  * **Imported Contacts** : You can import contacts from sources such as email, social networks, address books, and others in order to organize all your contacts and conversations within Connected. This is provided as a benefit to you and only the contacts you have requested are imported this way.
+
+  * **Customer Testimonials/Comments/Reviews:** We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+
+  * **Blogs** : Our Web site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@connectedhq.com](mailto:privacy@connectedhq.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 
 
@@ -26,6 +36,8 @@ By using the Connected Platform, you expressly consent to the information handli
   * Connected uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Connected Platform.
 
   * We may use your email address or mobile number, without further consent, for administrative communications such as notifying you of major Connected Platform updates, for customer service purposes, and to send privacy or security related notices.
+
+  * Choice/Opt-Out: You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@connectedhq.com](mailto:support@connectedhq.com).
 
   * Connected uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Connected Platform works and looks, to create new features and functionality.
 
@@ -67,7 +79,11 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Connected uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Connected, and you do so at your own risk. Once we receive your transmission of information, Connected makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Connected learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Connected may post a notice on the Connected Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@connectedhq.com](mailto:privacy@connectedhq.com).
+When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+If Connected learns of a security systems breach, then we will attempt to notify you electronically so that you can take appropriate protective steps. Connected will post a notice on the Connected Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@connectedhq.com](mailto:privacy@connectedhq.com).
+
+**Data Retention** : We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@connectedhq.com](mailto:support@connectedhq.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## 7\. Our Commitment to Children's Privacy
 
@@ -91,9 +107,7 @@ Except as otherwise expressly provided otherwise, this document addresses only t
 
 ## 11\. Changes and Updates to this Privacy Policy
 
-This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "last modified" date above. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the Connected Platform constitutes your agreement to this Privacy Policy and any future revisions.
-
-For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ## 12\. Connected Contact Information
 
