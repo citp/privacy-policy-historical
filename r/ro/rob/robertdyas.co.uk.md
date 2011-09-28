@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robertdyas.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231012621id_/http%3A//www.robertdyas.co.uk/C%7E14%7EPrivacy%2B%2B%2BSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertdyas.co.uk privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928112613id_/http%3A//www.robertdyas.co.uk/C%7E14%7EPrivacy-and-Security) for the most accurate reproduction.*
 
 # Privacy & Security - Robert Dyas
 
