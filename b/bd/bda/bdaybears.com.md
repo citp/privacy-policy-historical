@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdaybears.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221133238id_/https%3A//www.bdaybears.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdaybears.com privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928034929id_/https%3A//www.bdaybears.com/privacy.html) for the most accurate reproduction.*
 
 # Bday Bears - Wholesale Unstuffed Bears and Animals
 
