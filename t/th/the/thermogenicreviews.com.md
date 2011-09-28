@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thermogenicreviews.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612232429id_/http%3A//communemedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermogenicreviews.com privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928021258id_/http%3A//thermogenicreviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Commune Media Network » Privacy policy
+# Privacy policy - Thermogenic Reviews
 
-**This privacy policy governs your use of websites on the Commune Media Network (hereafter “the Network”), run by Commune Media Inc. (hereafter “Commune”).**
+**ThermogenicReviews.com is part of the Commune Media Network. This privacy policy governs your use of websites on the Commune Media Network (hereafter “the Network”), run by Commune Media Inc. (hereafter “Commune”).**
 
 Commune is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This privacy statement applies to websites on the Network and governs data collection and usage. By using websites on the Network, you consent to the data practices described in this statement.
 
@@ -35,6 +35,15 @@ Websites on the Network uses “cookies” to help you personalize your online e
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize website pages on the Network, or register with websites on the Network, a cookie helps our web server to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses and so on.
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to experience some features of websites on the Network.
+
+Among other cookies, we may use cookies that:
+
+  * Allow third party vendors, including Google, to show our ads on sites on the internet
+  * Allow third party vendors, including Google, to serve ads based on a user’s prior visits to our websites
+
+
+
+Users can opt out of such cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising Initiative"). Users can specifically opt out of Google cookies at the [Google advertising opt-out page](http://www.google.com/privacy/ads/ "Advertising and Privacy – Google Privacy Center"), opt out of Teracent cookies at the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out/ "Opt Out"), and opt out of DoubleClick cookies at the [DoubleClick opt-out page](http://www.google.com/privacy/ads/ "Advertising and Privacy – Google Privacy Center").
 
 ### Security of your personal information
 
