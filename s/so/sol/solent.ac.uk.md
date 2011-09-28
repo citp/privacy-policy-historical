@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solent.ac.uk privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610075214id_/http%3A//www.solent.ac.uk/aboutus/disclaimer.aspx%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solent.ac.uk privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928052514id_/http%3A//www.solent.ac.uk/aboutus/disclaimer.aspx%23pp) for the most accurate reproduction.*
 
 # Disclaimer
 
