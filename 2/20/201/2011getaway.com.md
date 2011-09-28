@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2011getaway.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605004754id_/http%3A//www.2011getaway.com/Engines/Inc/Privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2011getaway.com privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928113758id_/http%3A//2011getaway.com/Engines/Inc/Privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Caribbean Cruise line
 
