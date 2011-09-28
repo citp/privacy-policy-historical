@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520140214id_/http%3A//www.caringbridge.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928202602id_/http%3A//www.caringbridge.org/privacy) for the most accurate reproduction.*
 
 # CaringBridge Privacy Policy.
 
