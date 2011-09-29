@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleyourdating.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524223045id_/http%3A//www.doubleyourdating.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleyourdating.com privacy policy that was archived on 2011-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110929062449id_/http%3A//www.doubleyourdating.com/privacy/index.html) for the most accurate reproduction.*
 
 # Double Your Dating | Your Privacy
 
@@ -6,7 +6,7 @@ Read very carefully:
 
 ## Who do we contact?
 
-David DeAngelo Marketing Inc (DDMI) only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products.
+David DeAngelo Marketing Inc (DDMI) only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. 
 
 ## What information do we collect?
 
@@ -28,13 +28,13 @@ In that case, we have to provide back to "modern world fashion" your email addre
 
 A note about demographic information:
 
-We contract with information providers to get this data so that we can advertise to those who find our content relevant. This technique is also called “database marketing”. It is practiced by virtually every US corporation. Every US consumer can assume that there is a fair amount of available data about them, including personal data such as buying preferences and education level.
+We contract with information providers that help us better understand people visiting our sites and advertise to those who find our content relevant. We may share PII with such companies provided that they have explicit policies to not share our data with any other parties and solely for the purpose of helping us understand our customers better. This technique is also called “database marketing”. It is practiced by virtually every US corporation. Every US consumer can assume that there is a fair amount of available data about them, including personal data such as buying preferences and education level.
 
 There is no central “opt out” place that we are aware of. There are efforts underway to reach a standard that would apply automatically based on browser settings.
 
 Regardless of the state of privacy as a whole, you can avoid us finding out extra demographic information about you by doing the following:
 
-1\. email us using our [ contact page](https://web.archive.org/web/20110524223045id_/http%3A//www.doubleyourdating.com/contact.html)
+1\. email us using our [ contact page](https://web.archive.org/web/20110929062449id_/http%3A//www.doubleyourdating.com/contact.html?s=17477)
 
 2\. in the subject line write: “Privacy - opt out of demographic information”
 
@@ -74,13 +74,13 @@ Clear GIFs can "work with" existing cookies on a computer if they are both from 
 
 Your email information (email address, first name) is stored at the list server that delivers DDMI newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive DDMI's newsletters.
 
-All of the newsletters that are sent to you by DDMI include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also unsubscribe yourself at any time by [clicking here](https://web.archive.org/u/). 
+All of the newsletters that are sent to you by DDMI include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also unsubscribe yourself at any time by [clicking here](https://web.archive.org/u/?s=17477). 
 
 ## Disclaimer
 
-This policy may be changed at any time at DDMI's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised December 13, 2010.
+This policy may be changed at any time at DDMI's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised September 19, 2011.
 
-If you have any questions or concerns regarding our privacy policy please send us your question by [going here](https://web.archive.org/web/20110524223045id_/http%3A//www.doubleyourdating.com/contact.html). You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please send us your question by [going here](https://web.archive.org/web/20110929062449id_/http%3A//www.doubleyourdating.com/contact.html?s=17477). You may also send a letter to:
 
 David DeAngelo Marketing Inc  
 3960 Howard Hughes Pkwy.  
