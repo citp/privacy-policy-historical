@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626001117id_/http%3A//www.top5.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2011-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110929193558id_/http%3A//www.top5.com/contact/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - top5.com
 
