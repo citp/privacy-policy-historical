@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartlessons.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130142335id_/http%3A//chartlessons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartlessons.com privacy policy that was archived on 2011-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110929125051id_/http%3A//www.chartlessons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chart Lessons
 
@@ -45,7 +45,7 @@ Contacting Us
 You can contact us anytime by addressing your query to:  
 The Manager  
   
-Fax: +1 (347) 4383131
+
 
 Changes to this Policy
 
@@ -54,9 +54,7 @@ We reserve the right to change this policy at any time. Please check this page p
 Governing law
 
 This policy and the use of this Site and purchase of any product from this site are governed by the laws of the Republic of South Africa. If a dispute arises under this Policy (agreement) we agree to first try to resolve it with the help of a mutually agreed-upon arbitrator in the following  
-location: Umhlanga, Kwazulu Natal, South Africa.
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Umhlanga, under the rules of the Arbitration Foundation of South Africa and an arbitrator appointed by the Foundation.
+location: 
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
