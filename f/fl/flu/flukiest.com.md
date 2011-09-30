@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flukiest.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630235346id_/http%3A//www.flukiest.com/html%3Ff_template%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flukiest.com privacy policy that was archived on 2011-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110930185648id_/http%3A//www.flukiest.com/html%3Ff_template%3Dprivacy) for the most accurate reproduction.*
 
 # Flukiest: Photo Sharing Community
 
