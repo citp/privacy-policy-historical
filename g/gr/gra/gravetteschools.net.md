@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gravetteschools.net privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108033812id_/http%3A//gravetteschools.net/privacy.phtml%3Fsessionid%3D43867d3d53314dc093a5565364d0c590) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gravetteschools.net privacy policy that was archived on 2011-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110930074806id_/http%3A//gravetteschools.net/privacy.phtml%3Fsessionid%3Deb5bdbf6d9fa5a2bffaf8798bf0ac489) for the most accurate reproduction.*
 
 # Gravette Public Schools
 
