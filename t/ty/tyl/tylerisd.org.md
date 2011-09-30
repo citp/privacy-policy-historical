@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylerisd.org privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514134026id_/http%3A//tylerisd.org/privacy.phtml%3Fsessionid%3Dcdfda975457e0ac335ae35ac4ad18885) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerisd.org privacy policy that was archived on 2011-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110930221052id_/http%3A//www.tylerisd.org/privacy.phtml%3Fsessionid%3De5429889ca06559343d3577d76cf6183) for the most accurate reproduction.*
 
 # Tyler ISD
 
