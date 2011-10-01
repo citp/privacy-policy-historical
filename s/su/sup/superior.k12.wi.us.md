@@ -1,34 +1,60 @@
-> *The following text is extracted and transformed from the superior.k12.wi.us privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425155351id_/http%3A//www.superior.k12.wi.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superior.k12.wi.us privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001032539id_/http%3A//www.superior.k12.wi.us/privacy.phtml%3Fsessionid%3D423baafa75822c74fc286a82804208d1) for the most accurate reproduction.*
 
-# School District of Superior - Privacy Policy
+# Superior School District
 
-## Privacy Statement
+Centrifuge Solutions LLC (dba "SchoolFusion") uses My Payment Network (SchoolPay) solution which delivers payment services to schools and businesses and offers its service under many brand names, powered by My Payment Network (SchoolPay). Part of the payment process involves the collecting of personal information. Such information is voluntarily submitted by people who submit payments through any branded version of their services and is required to submit transactions.
 
-The School District of Superior is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously and demonstrate a strong commitment to online privacy. In acknowledgment of that commitment, we have adopted a comprehensive policy to safeguard the privacy of all visitors to The School District of Superior website.
+**Changes In Our Privacy Policy**
 
-## Collection of Data
+We reserve the right to change this Privacy Policy without providing you with advance notice of our intent to make the changes.
 
-We store data on our servers for various security reasons. This data may include the name of your Internet service provider, click sources, the websites that you visit from our site, and your Internet Protocol (IP) address. This information can be used to help diagnose problems with our server, to administer our website, to help identify you, and to gather broad demographic information. 
+**Use of Information**
 
-The data we collect will only be used for the purpose of supplying you with the requested products or services, company marketing purposes, or for other reasons for which you have given your consent, except where otherwise provided by law. 
+All information collected is solely used in the fulfillment of payment services. The information collected is required to complete transactions. My Payment Network (SchoolPay) will never release or sell any personal information collected through any of their branded services.
 
-## Security
+**Cookies**
 
-The School District of Superior uses technical and organizational security precautions to protect your data from manipulation, loss, destruction, or access by unauthorized persons. 
+My Payment Network and any branded version of their services do not use cookies.
 
-## Children
+**Browser Level Information**
 
-We do not collect, process, or use on our website, any information relating to an individual whom we know to be under 13 years old, without the prior, verifiable consent of his or her legal representative. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information.
+The My Payment Network.com webserver automatically collects information about a site user's IP address, browser type and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected and logged for security purposes, as an activity log of which people have been in the system and what have they done. It is also used by businesses and schools in reconciling disputed transactions. The IP address is used only for these purposes.
 
-## Disclaimer
+**Email**
 
-This site contains links to other sites. The School District of Superior is not responsible for the content or privacy practices of these sites.
+SchoolFusion and My Payment Network (SchoolPay) respects the privacy of its readers and shall not disclose, distribute or rent its email list to any third party, nor shall it permit anyone else to do so. Email addresses used in by any of their branded services for the sending of payment alerts, receipts and other communication regarding the payment services shall not be disclosed or distributed to any third party.
 
-## Contact Us
+**Secure Hosting**
 
-Please [contact us](https://web.archive.org/web/20110425155351id_/http%3A//www.superior.k12.wi.us/contactus.php) if you have any questions or concerns about our privacy policy. 
+All branded versions of My Payment Network’s (Schoolpay) services are hosted on a dedicated secure server. The server is located in a secure location at a national hosting company. All branded versions of My Payment Network (SchoolPay) transaction data are stored on this server. All user and customer sessions are hosted on the secure server.
 
-Administrative Offices  
-3025 Tower Avenue  
-Superior, WI 54880  
-(715) 394-8700 
+**Secure Sessions**
+
+All branded versions of My Payment Network (SchoolPay) sessions (after logging into the services) are conducted with SSL security. SSL security is the standard for internet e-commerce session security. All payment pages are hosted in SSL. This means that when people make a payment, even if they are not logged into any branded service, they are protected by SSL security. My Payment Network maintains security certificates with nationally known firms. Users will need to have their browser settings such that they can go to secure sites to use any branded version of My Payment Network’s services.
+
+**Encrypted Database**
+
+The My Payment Network (SchoolPay) databases are encrypted. Data is only un-encrypted when it is pulled from the database and presented to a user or administrator during a logged in session.
+
+**Third Party Links**
+
+This Web site may contain links to third party Web sites that are not controlled by SchoolFusion. These third party links are made available to you as a convenience and you agree to use these links at your own risk. Please be aware that SchoolFusion is not responsible for the content of third party Web sites linked to the SchoolFusion website, nor are we responsible for the privacy policy or practices of third party Web sites linked to the SchoolFusion website. Our Privacy Policy only applies to information we collect from you while you are actively in a session with SchoolFusion. If you should link to a third party Web site from SchoolFusion, we strongly encourage you to review and become familiar with that Web site's privacy policy.
+
+**Hosting Firewall**
+
+All branded versions of My Payment Network (SchoolPay) services are protected by the hosting company’s firewall. This is state-of-the art firewall security that is constantly monitored and updated.
+
+| 
+
+SchoolFusion is a web-based school/district content management system. Our system fosters improved communication between parents, students and school staff. You must have a user account in order to utilize the advanced features of the system.
+
+Your personal information is entered into the system one of two ways. Either an administrator at the school enters personal information or you may register for a user account yourself. If you register, you will be asked for your First and Last name, information to help identify you, your email address and to create a password.
+
+  * Your first and last name is used to identify you within the site and will appear when posting to a Chat or Discussion board.
+  * Information to help identify you is used if the school/district has chosen to approval all user accounts. This information is viewed by the website administrator to ensure you are an approved community member. Only website administrators can view this information.
+  * Your email address allows teachers or website administrators to email you from within the website. You can also sign-up to receive emails that include daily homework assignments and calendar events. Website administrators can also send mass emails to this address. You will receive these emails in your regular inbox. This email is only readable by the sender and the recipient, and no personal information collected or stored in this process.
+  * Your password is encrypted and cannot be read by anyone. Therefore, if you forget your password you must re-set it or a website administrator must re-set it for you.
+  * SchoolFusion does not use your personal information or email content for any marketing or sales purposes. 
+  * SchoolFusion does not share or sell any of your personal information or email content to any third party.
+
+
