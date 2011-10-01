@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seopositive.co.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629013808id_/http%3A//www.seopositive.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seopositive.co.uk privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001125529id_/http%3A//www.seopositive.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # SEO Positive's Privacy Policy
 
 * * *
 
-At SEO Positive we are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by our solicitors. This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit this site. Our Privacy Policy should be read in conjunction with our terms of website use. We do occasionally update this Policy so please do return and review this Policy from time to time.
+At [SEO Positive](http://www.seopositive.co.uk/) we are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by our solicitors. This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit this site. Our Privacy Policy should be read in conjunction with our terms of website use. We do occasionally update this Policy so please do return and review this Policy from time to time.
 
 * * *
 
@@ -20,7 +20,7 @@ In running and operating this website we may collect and process certain data an
 * * *
 
 **Use of Cookies**  
-Cookies are sometimes used to improve the website experience of a visitor to a website. We may sometimes use cookies on this website to record aggregate statistical information about the visitors to our site and the use that our visitors make of the website. When collected this information is used by us to improve our website and further enhance the visitor experience and, may be shared with advertisers. Pease note that no personally identifiable information is recorded.
+Cookies are sometimes used to improve the website experience of a visitor to a website. We may sometimes use cookies on this website to record aggregate statistical information about the visitors to our site and the use that our visitors make of the website. When collected this information is used by us to improve our website and further enhance the visitor experience and, may be shared with advertisers. Please note that no personally identifiable information is recorded.
 
 We may also use the cookies to gather information about your general internet use to further assist us in developing or website. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive and then stored there and transferred to us where appropriate to help us to improve our website and the service that we provide to you.
 
@@ -69,7 +69,7 @@ We may also disclose your personal information to third parties:
 * * *
 
 **Third Party Links**  
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+You mind find [links](http://www.seopositive.co.uk/link-building.php) to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
 * * *
 
@@ -82,11 +82,11 @@ The Data Protection Act 1998 gives all individuals the right to access personal 
 If you have any questions or queries relating to this Privacy Policy then please contact us on:
 
 **Tel:** 0800 879 9000  
-**Email:** [matt@seopositive.com](mailto:matt@seopositive.com)
+**Email:** [info@seopositive.com](mailto:matt@seopositive.com)
 
 **Address:** SEO Positive Ltd  
-Waterhouse Business Centre  
-2 Cromar Way  
+Milstrete House  
+29 New Street  
 Chelmsford  
 Essex  
-CM1 2QE
+CM1 1NT
