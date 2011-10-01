@@ -1,21 +1,49 @@
-> *The following text is extracted and transformed from the buzzhollywood.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123120305id_/http%3A//www.buzzhollywood.com/celebrity-news/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzhollywood.com privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001065941id_/http%3A//www.buzzhollywood.com/celebrity-news/privacy-policy) for the most accurate reproduction.*
 
-# privacy | Celebrity News | Celebrity Gossip | BuzzHollywood.com
+# Celebrity News | Celebrity Gossip | BuzzHollywood.com | PRIVACY POLICY
 
-At BuzzHollywood.com we appreciate your readership and value your personal privacy. In adopting this privacy policy, our intent is to balance our legitimate interests in improving our service by collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
+PRIVACY POLICY
 
-## When does BuzzHollywood.com collect my personal information?
+http://www.buzzhollywood.com/ strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. “Period.”
 
-You may provide personal information to BuzzHollywood.com in one of three ways: (1) by sharing your e-mail when you provide tips to our editor or communicate with our employees, (2) by sharing your email or IM when you using our content sharing features, and (3) by sharing your e-mail and other information when registering with BuzzHollywood. We may also ask for other information at other times but at no time will you be required to share any personal information to gain access to our main public site. 
+How we gather information from users
 
-In addition to personal information such as name, street, e-mail addresses, and telephone numbers we may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the Internet browser you are using, the domain name of your internet service provider, and the web sites you visit directly before and after your visit to BuzzHollywood.com. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, http://www.buzzhollywood.com/ also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
-## How does BuzzHollywood.com use my personal information?
+What we do with the information we collect
 
-The more we know about you, the better we are able to customize our web site to suit your personal preferences and interests. The e-mail address you provide may be used by us for any reason, such as contacting you for editorial purposes, advising you of any changes to our site, or alerting you when we link from BuzzHollywood to your site. We may also from time to time send you messages about our marketing partners products. When you sign up for our updates or receive e-mail messages from BuzzHollywood.com, you will always be given the chance to opt-out of special offers and site updates. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences. 
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information will never be disclosed to them. 
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
-## Is there anything else I should know about my privacy and BuzzHollywood.com?
+We may use Personally Identifiable Information collected on http://www.buzzhollywood.com/ to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by http://www.buzzhollywood.com/ and other topics we think you might find of interest.
 
-Any information you disclose voluntarily through submissions or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online. 
+Personally Identifiable Information collected by http://www.buzzhollywood.com/ may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+
+Affiliated sites, linked sites and advertisements*
+
+http://www.buzzhollywood.com/ expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a http://www.buzzhollywood.com/ page, certain content that is actually created or hosted by a third party. Also, through http://www.buzzhollywood.com/ you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. http://www.buzzhollywood.com/ is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. http://www.buzzhollywood.com/ does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of http://www.buzzhollywood.com/ and this policy.
+
+Children
+
+http://www.buzzhollywood.com/ does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe http://www.buzzhollywood.com/ has any information from or about anyone under 13, please contact us at the address listed below.
+
+We can be reached by contacting:
+
+Email: info (at) buzzhollywood.com
+
+Changes to this Policy
+
+http://www.buzzhollywood.com/ reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+Governing law
+
+This policy and the use of this Site are governed by California law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: California. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: California, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
