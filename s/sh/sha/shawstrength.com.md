@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawstrength.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606112538id_/http%3A//shawstrength.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawstrength.com privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001065920id_/http%3A//shawstrength.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shaw Strength | Brian Shaw Professional Strongman
 
