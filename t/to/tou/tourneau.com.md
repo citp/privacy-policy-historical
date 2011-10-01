@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209134543id_/http%3A//www.tourneau.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001230051id_/http%3A//www.tourneau.com/Privacy) for the most accurate reproduction.*
 
 # Tourneau|Privacy
 
