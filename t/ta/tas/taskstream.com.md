@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taskstream.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120015154id_/http%3A//www.taskstream.com/pub/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskstream.com privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001232107id_/http%3A//www.taskstream.com/pub/Privacy.asp) for the most accurate reproduction.*
 
 # TaskStream - Privacy Policy
 
