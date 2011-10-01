@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webassign.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628214754id_/http%3A//webassign.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webassign.com privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001203452id_/http%3A//www.webassign.com/info/privacy.html) for the most accurate reproduction.*
 
 # WebAssign - Privacy
 
