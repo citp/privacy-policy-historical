@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612085943id_/http%3A//www.teletextholidays.co.uk/Home/Holidays/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001152005id_/http%3A//www.teletextholidays.co.uk/Home/Holidays/About/privacy.aspx) for the most accurate reproduction.*
 
 # Teletext Holidays - Privacy Policy
 
 ## Privacy Policy
 
-Teletext Limited (“we”, “us” or “our”) is committed to protecting your right to privacy and ensuring your enjoyment of our website (which includes the Teletext Limited websites accessible via our website) located at [www.teletext.co.uk](http://www.teletext.co.uk/) (the “Website”). This Privacy Policy covers our use of any personal data you provide us with when using any part of the Website. This privacy policy (together with our Terms and Conditions) sets out the basis on which any personal data we collect from you will be used and/or processed by us. 
+Teletext Limited (“we”, “us” or “our”) is committed to protecting your right to privacy and ensuring your enjoyment of our website (which includes the Teletext Limited websites accessible via our website) located at [www.teletext.co.uk](http://www.teletext.co.uk/ "www.teletext.co.uk") (the “Website”). This Privacy Policy covers our use of any personal data you provide us with when using any part of the Website. This privacy policy (together with our Terms and Conditions) sets out the basis on which any personal data we collect from you will be used and/or processed by us. 
 
-This privacy policy does not apply to any personal data which you might submit to a third party website which you may access via a link from the Website, and we would advise that you review the relevant third party’s privacy policy when using such third party’s website. For the purposes of the Data Protection Act 1998 (the “Act”), the Data Controller (as defined in the Act) in respect of your personal data is Teletext Limited, a company incorporated under the laws of England and Wales (company number: 02694814) and whose registered address is at 2nd Floor, Building 10, Chiswick Park, 566 Chiswick High Road, London, W4 5TS. Teletext Limited is listed in the Register of Data Controllers under the number Z6064260. This list can be accessed via the website located at [www.ico.gov.uk](http://www.ico.gov.uk/).
+This privacy policy does not apply to any personal data which you might submit to a third party website which you may access via a link from the Website, and we would advise that you review the relevant third party’s privacy policy when using such third party’s website. For the purposes of the Data Protection Act 1998 (the “Act”), the Data Controller (as defined in the Act) in respect of your personal data is Teletext Limited, a company incorporated under the laws of England and Wales (company number: 02694814) and whose registered address is at 2nd Floor, Building 10, Chiswick Park, 566 Chiswick High Road, London, W4 5TS. Teletext Limited is listed in the Register of Data Controllers under the number Z6064260. This list can be accessed via the website located at [www.ico.gov.uk](http://www.ico.gov.uk/ "www.ico.gov.uk").
 
   **What information do we and third parties collect about you via this website?  
 **    
@@ -64,4 +64,4 @@ Links from the Website to other websites are provided for information only. Plea
 
   **Complaints**
 
-If you have any questions or complaints about how we use your personal data, then please email [webmaster@teletext.co.uk](mailto:webmaster@teletext.co.uk).
+If you have any questions or complaints about how we use your personal data, then please email [webmaster@teletext.co.uk](mailto:webmaster@teletext.co.uk "webmaster@teletext.co.uk").
