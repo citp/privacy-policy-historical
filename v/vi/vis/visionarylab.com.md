@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visionarylab.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914233626id_/http%3A//www.visionarylab.com/newsite/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionarylab.com privacy policy that was archived on 2011-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111002062107id_/http%3A//www.visionarylab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visionary Lab
 
