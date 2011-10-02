@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detectiveconanworld.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527075819id_/http%3A//www.detectiveconanworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detectiveconanworld.com privacy policy that was archived on 2011-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111002042541id_/http%3A//www.detectiveconanworld.com/privacy) for the most accurate reproduction.*
 
 # Detective Conan World
 
