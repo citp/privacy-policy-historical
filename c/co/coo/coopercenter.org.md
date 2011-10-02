@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopercenter.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205030108id_/http%3A//www.coopercenter.org/ccps-privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopercenter.org privacy policy that was archived on 2011-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111002110559id_/http%3A//www.coopercenter.org/ccps-privacy-statment) for the most accurate reproduction.*
 
 # CCPS Privacy Statement | Weldon Cooper Center for Public Service
 
