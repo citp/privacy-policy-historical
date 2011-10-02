@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3dl.co.cc privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621054558id_/http%3A//mp3dl.co.cc/preferences.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3dl.co.cc privacy policy that was archived on 2011-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111002213711id_/http%3A//mp3dl.co.cc/preferences.php) for the most accurate reproduction.*
 
 # Listen to Free Music Online - Disclaimer & Privacy Policy
 
