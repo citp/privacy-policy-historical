@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seqlegal.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207232123id_/http%3A//www.seqlegal.co.uk/ourprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seqlegal.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003070120id_/http%3A//www.seqlegal.co.uk/ourprivacypolicy.html) for the most accurate reproduction.*
 
 # SEQ Legal LLP | Our privacy policy
 
