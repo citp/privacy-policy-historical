@@ -1,27 +1,9 @@
-> *The following text is extracted and transformed from the submitseoarticle.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605062647id_/http%3A//submitseoarticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitseoarticle.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003234316id_/http%3A//submitseoarticle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Submit Seo Article
+# submitseoarticle.com - submitseoarticle Resources and Information. This website is for sale!
 
-**article.searchengine-optimization-software.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+This page provided to the domain owner **free** by Sedo's [Domain Parking](http://www.sedo.com/services/parking.php3?language=e&partnerid=20293 "Domain Parking"). Disclaimer: Domain owner and Sedo maintain no relationship with third party advertisers. Reference to any specific service or trade mark is not controlled by Sedo or domain owner and does not constitute or imply its association, endorsement or recommendation.
 
-## Routine Information Collection
+By using our site, you consent to this privacy policy: This website allows third-party advertising companies for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities to use Cookies and /or Web Beacons and other monitoring technologies to serve ads and to compile anonymous statistics about you when you visit this website. Cookies are small text files stored on your local internet browser cache. A Web Beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel that is placed on a Web site. Both are created for the main purpose of helping your browser process the special features of websites that use Cookies or Web Beacons. The gathered information about your visits to this and other websites are used by these third party companies in order to provide advertisements about goods and services of interest to you. The information do not include any personal data like your name, address, email address, or telephone number. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
-
-## Cookies and Web Beacons
-
-Where necessary, **article.searchengine-optimization-software.com** uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
-
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
-
-## Controlling Your Privacy
-
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
-
-## Special Note About Google Advertising
-
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
-
-## Contact Information
-
-Concerns or questions about this privacy policy can be directed to [contact@factoryarticle.com](http://factoryarticle.com/contact/ "Contact Us") for further clarification.
+Privacy Policies
