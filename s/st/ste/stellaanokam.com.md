@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stellaanokam.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322020532id_/http%3A//www.stellaanokam.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaanokam.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003154555id_/http%3A//www.stellaanokam.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Welcome! If you're new here, you may want to [subscribe to get latest posts in your RSS Feeds Reader](http://www.stellaanokam.com/feed/). You may also want to download my Free eBook ["Passion to Profits Blueprint"](http://www.stellaanokam.com/passion-to-profits) and get my extra Bonus Free Gifts. Enjoy your reading!
 
 ## **Your Privacy**
 
