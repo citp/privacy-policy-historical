@@ -1,33 +1,25 @@
-> *The following text is extracted and transformed from the adhyapak.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607072937id_/http%3A//www.adhyapak.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhyapak.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003194854id_/http%3A//www.adhyapak.com/privacy-policy) for the most accurate reproduction.*
 
-# Adhyapak.com: Privacy policy
+# Privacy Policy | www.adhyapak.com
 
-[Home](http://www.adhyapak.com/) >> Privacy Policy 
-
-We, at 'Adhyapak.com' are committed to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information you share with us. "Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Adhyapak.com's Web pages without telling us who you are or revealing any Personal Information about yourself. 
+We, at 'Adhyapak.com' are committed to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information you share with us. "Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Adhyapak.com's Web pages without telling us who you are or revealing any Personal Information about yourself.
 
 At Adhyapak.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting Adhyapak.com, you are accepting this privacy policy and our terms & conditions.
 
-**How do we use the information we gather?**
+**How do we use the information we gather?**  
+Adhyapak.com is a free community site and we publish almost all information we gather in this site. We do not share or sell your personal information to any third parties . But all personal information you submit as part of your public profile will be publicly accessible in our site, except the email address. We try not to publish your email address to avoid spam, but it is possible that in certain cases your email address may be exposed to public.
 
-Adhyapak.com is a free community site and we publish almost all information we gather in this site. **We do not share or sell your personal information to any third parties** . But all personal information you submit as part of your public profile will be publicly accessible in our site, except the email address. We try not to publish your email address to avoid spam, but it is possible that in certain cases your email address may be exposed to public.
-
-**What kind of information we gather?**
-
+**What kind of information we gather?**  
 We store any information you submit to our site. This includes, but not limited to, the profile you create at the time of registration, the resume you post in the job section etc. If you prefer not to publish any information, you may not submit it in the site. By doing so, you may be restricted from taking advantage of certain features of the site.
 
-**General visitor information**
-
+**General visitor information**  
 For statistical purposes, we gather and store general visitor information like Ip Address, browser version, visting time, duration etc. We may share such information with third parties or publish in our site for marketing purposes.
 
-**Cookies**
-
+**Cookies**  
 Cookies are small pieces of information stored in your computer. When you login to Adhyapak.com, we store small cookies in your computer, to provide a better browsing experience for you.
 
-**Advertisements**
-
+**Advertisements**  
 We use advertisements from third party companies. We try to avoid any kind of offensive and harmfull advertisements in our site, but in many cases we do not have complete control of which advertisements appear in our site, due to the fact that many advertisements are automatically served by third party advertisers. We will not be responsible for any harms caused by such third party advertisements served in our site. However, if such issues are pointed to our notice, we will make all attempts to stop publishing such advertisements in our site.
 
-**Business Transfers**
-
+**Business Transfers**  
 As we continue to develop and grow our web site, we may sell Adhyapak.com or part of it. In such transactions, member information generally is one of the transferred business assets.
