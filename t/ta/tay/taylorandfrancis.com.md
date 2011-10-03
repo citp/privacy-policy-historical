@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922040648id_/http%3A//www.taylorandfrancis.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003051911id_/http%3A//www.taylorandfrancis.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Taylor & Francis
-
-We are committed to preserving the privacy of all visitors to our website. If you are interested to understand how we use and protect the information that you provide to us, please read on.
 
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.
 
