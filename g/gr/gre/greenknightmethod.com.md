@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenknightmethod.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511112822id_/http%3A//www.greenknightmethod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenknightmethod.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003075526id_/http%3A//www.greenknightmethod.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Green Knight Method
 
