@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritual.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613013148id_/http%3A//www.ritual.com/game/privpol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritual.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004023552id_/http%3A//www.ritual.com/game/privpol) for the most accurate reproduction.*
 
 # MumboJumbo | Premium Casual Games
 
@@ -107,6 +107,6 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
     	Suite 300
     	Dallas, Texsas 75202
     	Fax: (214) 855-5980
-    	[Support@mumbojumbo.com](https://web.archive.org/web/20110613013148id_/http%3A//www.ritual.com/game/support@mumbojumbo.com)
+    	[Support@mumbojumbo.com](https://web.archive.org/web/20111004023552id_/http%3A//www.ritual.com/game/support@mumbojumbo.com)
 
 This Privacy Policy was last updated on October 7, 2006.
