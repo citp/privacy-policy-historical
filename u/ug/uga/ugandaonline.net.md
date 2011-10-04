@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugandaonline.net privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109130216id_/http%3A//www.ugandaonline.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugandaonline.net privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005005414id_/http%3A//www.ugandaonline.net/privacy_policy) for the most accurate reproduction.*
 
 # Uganda Online - Uganda Online Website Directory Privacy Policy
 
