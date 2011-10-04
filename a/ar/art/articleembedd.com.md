@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleembedd.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119133009id_/http%3A//articleembedd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleembedd.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004075550id_/http%3A//articleembedd.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
