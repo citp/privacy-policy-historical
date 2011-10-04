@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagfull.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524210206id_/http%3A//www.bagfull.net/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagfull.net privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004065950id_/http%3A//www.bagfull.net/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Details of how customer's information is protected | Bagfull
 
