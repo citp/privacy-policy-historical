@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412022718id_/http%3A//www.chikka.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chikka.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004163911id_/http%3A//www.chikka.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Chikka
 
