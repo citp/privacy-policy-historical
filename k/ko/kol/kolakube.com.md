@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kolakube.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507105326id_/http%3A//kolakube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolakube.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004042648id_/http%3A//kolakube.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
