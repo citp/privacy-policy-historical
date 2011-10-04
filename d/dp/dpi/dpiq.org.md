@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpiq.org privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130114745id_/http%3A//wallpapers-diq.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpiq.org privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004025118id_/http%3A//wallpapers-diq.net/privacy.php) for the most accurate reproduction.*
 
 # Desktop Wallpaper · Privacy Policy for WALLPAPERS-DIQ.NET
 
