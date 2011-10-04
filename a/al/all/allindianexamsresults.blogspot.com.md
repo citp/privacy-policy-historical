@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allindianexamsresults.blogspot.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119183928id_/http%3A//allindianexamsresults.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindianexamsresults.blogspot.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004020326id_/http%3A//allindianexamsresults.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | All Indian Exams Results
 
 ## Subscribe to Get Free SMS alert for Latest Exam Results
 
-[ ](http://www.blogger.com/rearrange?blogID=645918958968810819&widgetType=Text&widgetId=Text1&action=editWidget "Edit")
+[ ](http://www.blogger.com/rearrange?blogID=645918958968810819&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=main "Edit")
 
 ###  [Privacy Policy](http://allindianexamsresults.blogspot.com/2009/09/privacy-policy.html)
 
@@ -21,29 +21,10 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 for more details on it please contact us : [swadas.bhavin@gmail.com](mailto:swadas.bhavin@gmail.com)
 
-## Most Popular Results/Jobs
+## Subscribe to All India Exams Results for SMS Alerts
 
-  * Mumbai University TY BCom Results 2011 at www.mu.ac.inMumbai University TY/SY/FY Results 2011Mumbai University B.Com/B.A/B.Sc Results 2011 a...
+Simply enter your mobile number to get yourself register or Subscribe for upcoming India Exam Results in Year 2011 - 2012.
 
-  * GATE 2011 Apply Online Gat 2011 forms Apply Online GATE Application forms 2011, GATE 2011 Exam Dates GATE 2011 Application forms Updated ( ...
+If you want to unsubscribe from this free sms service, Please post email query at software.engineering[at]gmail[dot]com.
 
-  * IGNOU B.Ed Entrance Examination Results 2010 - 2011 will be declared soon, check out ignou b ed entrance exam results for year 2010 - 2011 a...
-
-  * TNTEU B.Ed Results 2011 Tamilnadu Teachers Education Result 2011 Tamil Nadu Teachers Education University (TNTEU) will published the B.Ed 2...
-
-  * IGNOU End Exam Results 2011 at www.ignou.ac.in Few month ago IGNOU took the IGNOU end term exam 2011. Now IGNOU will announced the IGNOU R...
-
-  * Annamalai University Results of May 2010 Annamalai University is one of the best South Indian University. Many students gets admission int...
-
-  * Karnataka ITI Results 2010 at www.kar.nic.in ITI Result 2010 - 2011 at www.kar.nic.in Karnataka ITI Entrance Exam Result 2010 will be decla...
-
-  * Anna University Trichy Results 2011 at www.tau.edu.in Trichy Anna University Results 2011 at www.tau.edu.in The Tirunelveli students of An...
-
-  * MJP Rohilkhand University Results 2010 at mjpru.ac.in MJP Rohilkhand University Bareilly Re...
-
-  * Pune Centralized Admission Merit list 2011 at www.punenet.net Pune Admission list 2011 at www.punenet.net Pune Centralized Admission Merit ...
-
-
-
-
-[ ](http://www.blogger.com/rearrange?blogID=645918958968810819&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget "Edit")
+[ ](http://www.blogger.com/rearrange?blogID=645918958968810819&widgetType=Text&widgetId=Text6&action=editWidget&sectionId=main "Edit")
