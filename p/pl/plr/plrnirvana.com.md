@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrnirvana.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427104527id_/http%3A//plrnirvana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrnirvana.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004091259id_/http%3A//plrnirvana.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :PLR Nirvana
 
