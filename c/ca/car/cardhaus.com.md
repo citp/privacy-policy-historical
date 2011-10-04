@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardhaus.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114181912id_/http%3A//cardhaus.com/cgi-local/shop3.pl/SID%3D8761237030912766921/page%3DPrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardhaus.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004055814id_/http%3A//cardhaus.com/cgi-local/shop3.pl/SID%3D8444238301011520319/page%3DPrivacyStatement.htm) for the most accurate reproduction.*
 
 # Cardhaus Games - Online Superstore for CCG single cards, boardgames , and miniatures singles.
 
