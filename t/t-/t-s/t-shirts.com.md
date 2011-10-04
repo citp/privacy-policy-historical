@@ -1,51 +1,143 @@
-> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507104947id_/http%3A//www.t-shirts.com/info/default.asp%3Fsid%3D205321861804%26cmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004120612id_/http%3A//www.t-shirts.com/privacy-policy) for the most accurate reproduction.*
 
-# T-Shirts.com: funny, vintage, 80s, animal, custom, tshirts, t shirts, t-shirt, tshirt, t shirt, tees, tee-shirts, screen printing, embroidery!
+# Privacy Policy
 
-  
-**Information**  
-  
-  
-  
-  
-**Privacy Statement**  
-  
-  
-  
-At T-Shirts.com, we are committed to protecting your privacy and we acknowledge that you may have concerns regarding the use of personal information. With our statement, we intend to explain how we use the information we have gathered from our visitors or members. 
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.t-shirts.com/seal_m "Validate TRUSTe privacy certification")
 
-  
-Personally identifiable information is information that identifies you as an individual, such as your name, mailing address, phone number, email address, credit card information and password. We may collect Personally Identifiable Information from you when you make a purchase, register to become a member, voluntarily provide it when you use the site, disclose it in a public area of the site (such as submitting a quote or newsletter request) or provide it when you communicate with us. 
+Effective on date 08/10/2011
 
-Non-personally identifiable information is information that does not identify you as an individual. Non-Personally Identifiable Information includes information such as your browser type, the URL of the previous Web site you visited, the Web pages and advertisements you view or select, and the types of services you use. 
+This privacy statement describes how T-Shirts.com collects and uses the personal information you provide on our Web site [www.T-Shirts.com](http://www.t-shirts.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-  
-At T-Shirts.com, we gather and store certain types of information you provide to us through our website, surveys, or other data gathering methods. This information includes contact, demographic and financial information. We use the contact and demographic information to communicate effectively with you and to create a more personalized shopping experience. We may also use the Personally Identifiable Information you provide to administer and manage your account, pay commissions to you, include you on mailing lists and advertise and promote our services. In addition, we may disclose your Personally Identifiable Information when we believe in good faith that it is required by any applicable law or legal process, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties. Without limitation of the foregoing, we may disclose your information pursuant to our Intellectual Property Rights Policy to a third party that alleges you have infringed their intellectual property rights. 
+T-Shirts.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/contact-us.asp). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-We may disclose Non-Personally Identifiable Information in connection with improving the services we offer and facilitating our marketing efforts. In addition, we may combine your Non-Personally Identifiable Information that relates to your use of the Site with that of other users to determine which areas of the Site are most popular, and how our services are used. By collecting this Aggregate Information and analyzing it, we can use it to improve the Site. We may disclose Aggregate Information in connection with improving the services we offer and facilitating our marketing efforts. 
+**Collection and Use of Personal Information**
 
-  
-Cookies are information files that are placed on the hard drive of your computer by your browser. Cookies allow websites to remember users activities and visits to a site. At T-Shirts.com, we use cookies to determine the number of unique visitors we host on our website over any given period of time. Cookies are also used to remember user screen names so multiple logins are not necessary. We do not use cookies to store or gather personal information from our visitors. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser. For more about cookies see [[http://www.cookiecentral.com](http://www.cookiecentral.com/)]. 
+We collect the following personal information from you:
 
-  
-T-Shirts.com is committed to ensuring the security of your information. To help prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. Preventing credit card fraud is important to protect your personal financial data security. 
+• Contact Information such as name, email address, mailing address, phone number
 
-  
-T-Shirts.com does not sell products for purchase by children but we do sell children’s products for purchase by adults. In compliance with the Children’s Online Privacy Protection Act of 1998 (COPPA), if you are under the age of 13, you may use T-Shirts.com only with involvement of a parent or guardian. We encourage children to involve their parents in any interactive activity they participate in online. We will not knowingly collect or use any personal information from children we know to be under the age of thirteen. In addition, once we are notified we will delete any information in our databases that originates from a child under the age of thirteen. 
+• Billing Information such as credit card number, and billing address
 
-  
-Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control. 
+• Unique Identifiers such as user name, account number, password
 
-  
-In an effort to enhance your shopping experience, we may use your contact and demographic information we have collected through our website, surveys, or other data gathering methods to send you news, offers and e-mails from some of our partners. To opt out of receiving news, offers and e-mails [[click here](https://web.archive.org/email/default.asp?sid=205325014453&cmd=remove)]. 
+We also collect the following optional information from you:
 
-As a part of our business relationships, we may from time to time have banner or link redirects to a third party accessible from the T-Shirts.com Site. Any transactions that occur between you and a third party are strictly between you and the third party and are not the responsibility of T-Shirts.com. We do not control the privacy policies of our advertisers or other third parties that have Web sites linked to the Site. If you click on an advertisement or link, the privacy policies of the Web site that you link to will govern the use of your information by that Web site's operator. We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. 
+• Information about your business such as company name
 
-  
-As our company grows, there is a possibility that we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company. 
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to:
 
-  
-If you do not wish to receive announcements or special offers from us or third parties, you can [[click here](https://web.archive.org/email/default.asp?sid=205325014453&cmd=remove)] to unsubscribe from receiving e-mail communications regarding news, exclusive offers and reminders. 
+• Fulfill your order
 
-  
-If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. Use of this site is when this privacy effective date begins. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Site after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes. 
+• Send you an order confirmation
+
+• Assess the needs of your business to determine suitable products
+
+• Send you requested product or service information
+
+• Send product updates
+
+• Administer your account or process refunds
+
+• Send you a newsletter
+
+• Send you marketing communications
+
+• Administer contests and sweepstakes you entered, and notify you if you won
+
+• Respond to your questions and concerns
+
+• Improve our Web site and marketing efforts
+
+• Conduct research and analysis
+
+• Display content based upon your interests
+
+• List you in our member directory made available only to select employees
+
+**Choice/Opt-Out**
+
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can [contact us](https://web.archive.org/contact-us.asp).
+
+**Testimonials**
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personal information that is being displayed on our website under public pages please send your request to our [contact form](https://web.archive.org/contact-us.asp). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Information Obtained from Third Parties**
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+**Information Sharing**
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may also disclose your personal information
+
+• as required by law such as to comply with a subpoena, or similar legal process
+
+• when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+
+• if T-Shirts.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+
+• to any other third party with your prior consent to do so
+
+_Third Party E-Commerce Solutions Provider_
+
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
+
+**Cookies and Other Tracking Technologies**
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of T-Shirts.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services please
+
+**Security**
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](https://web.archive.org/contact-us.asp).
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+**Additional Policy Information**
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+
+Our Web site offers a publicly accessible blog or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access it. The blog is mediated and you may have comments made by yourself removed by [contacting us](https://web.archive.org/contact-us.asp).
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, please [contact us](https://web.archive.org/contact-us.asp).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**Contact Information**
+
+You can contact us by phone, mail or email:
+
+T-Shirts.com
+
+2080 Lookout Dr.
+
+North Mankato, MN 56003
+
+Phone: 507-386-8388 Mon-Fri from 7am-6pm CST.
+
+[Contact Form](https://web.archive.org/contact-us.asp)
+
+**California Residents: Your California Privacy Rights**
+
+Under California law, our customers that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. As detailed above, we do not share our customer's personal information with unaffiliated third parties for direct marketing purposes without their approval.
+
+If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from T-Shirts.com (via e-mail or postal mail) about new products, services, or promotions, you can do so. You can contact us by through our [contact form](https://web.archive.org/contact-us.asp). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
