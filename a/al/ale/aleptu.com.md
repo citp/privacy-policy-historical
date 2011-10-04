@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aleptu.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114180838id_/http%3A//aleptu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleptu.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004064939id_/http%3A//aleptu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Aleptu
 
 Your privacy is critically important to us. At Aleptu we have a few fundamental principles:
 
@@ -33,7 +33,7 @@ Aleptu discloses potentially personally-identifying and personally-identifying i
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Aleptu uses cookies to help Aleptu identify and track visitors, their usage of Aleptu website, and their website access preferences. Aleptu visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Aleptu’s websites, with the drawback that certain features of Aleptu’s websites may not function properly without the aid of cookies. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Aleptu uses cookies to help Aleptu identify and track visitors, their usage of Aleptu website, and their website access preferences. Aleptu visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Aleptu’s websites, with the drawback that certain features of Aleptu’s websites may not function properly without the aid of cookies. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy/ads/).
 
 ### Privacy Policy Changes
 
