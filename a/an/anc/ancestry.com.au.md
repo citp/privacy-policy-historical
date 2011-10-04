@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629040007id_/http%3A//www.ancestry.com.au/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004033137id_/http%3A//www.ancestry.com.au/legal/privacy.aspx) for the most accurate reproduction.*
 
 # - Ancestry.com.au
 
