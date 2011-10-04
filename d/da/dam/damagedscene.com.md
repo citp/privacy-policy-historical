@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damagedscene.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218165757id_/http%3A//damagedscene.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damagedscene.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004022317id_/http%3A//damagedscene.com/privacy-policy.php) for the most accurate reproduction.*
 
 # DAMAGED SCENE - Winter Layouts, Christmas Layouts, Myspace Layouts, Default Layouts, Skinny layouts, Page Graphics, Photography Graphics, xmas layouts, Surveys & much more!
 
