@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrafficsurvey.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513114207id_/http%3A//thetrafficsurvey.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrafficsurvey.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005003641id_/http%3A//www.thetrafficsurvey.com/Privacy.html) for the most accurate reproduction.*
 
 # The Traffic Survey - Privacy
 
