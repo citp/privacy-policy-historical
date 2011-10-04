@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joann-mail.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225100557id_/http%3A//joann-mail.com/MSC_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joann-mail.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004055337id_/http%3A//joann-mail.com/MSC_privacy_policy.html) for the most accurate reproduction.*
 
 # MSC - Privacy Policy
 
