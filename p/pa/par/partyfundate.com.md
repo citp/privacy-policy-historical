@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partyfundate.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712064839id_/http%3A//partyfundate.com/privacy.html%3Fid%3Dpartyfundate%26prg%3D1%26tour%3D1%26g%3D1%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyfundate.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004195330id_/http%3A//partyfundate.com/privacy.html%3Fid%3Dpartyfundate%26prg%3D1%26tour%3D1%26g%3D1%26pg%3D1) for the most accurate reproduction.*
 
 # Partyfundate.com - World's Best Personals
 
