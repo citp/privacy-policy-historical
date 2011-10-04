@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daymst.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311232624id_/http%3A//daymst.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daymst.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004062432id_/http%3A//daymst.com/privacy.php) for the most accurate reproduction.*
 
 # Daymst - ProSearch PPC!
 
