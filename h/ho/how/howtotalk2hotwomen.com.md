@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtotalk2hotwomen.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226205723id_/http%3A//www.howtotalk2hotwomen.com/commerce/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtotalk2hotwomen.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004110549id_/http%3A//www.howtotalk2hotwomen.com/commerce/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
