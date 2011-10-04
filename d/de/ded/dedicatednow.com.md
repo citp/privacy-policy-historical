@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatednow.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229122507id_/http%3A//www.dedicatednow.com/%3Fabout-privacy%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatednow.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005000720id_/http%3A//www.dedicatednow.com/%3Fabout-privacy%3D) for the most accurate reproduction.*
 
 # DedicatedNOW: Privacy Policy
 
