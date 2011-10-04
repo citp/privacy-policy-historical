@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monevator.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501184312id_/http%3A//monevator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monevator.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004111142id_/http%3A//monevator.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for Monevator
 
