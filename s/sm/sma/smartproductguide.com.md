@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartproductguide.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222222446id_/http%3A//smartproductguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartproductguide.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004045642id_/http%3A//smartproductguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart Product Guide
 
