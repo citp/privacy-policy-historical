@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taleo.net privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210115422id_/http%3A//www.taleo.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleo.net privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005233508id_/https%3A//www.taleo.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,13 +63,19 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 Like most standard Web site servers, we collect and use IP addresses from browsing machines to analyze trends, administer the site, track pages that have been viewed, and gather broad demographic information for aggregate use. Taleo does not link this information with Personal Information about individual users. We reserve the right to share aggregate and anonymous information with potential partners and other third parties without restriction.
 
-#### Use of Cookies
+#### Use of Cookies and Clear Gifs
 
 Our sites may use cookies to enhance your experience while visiting our sites. Cookies are pieces of information transferred to the browsing computer and used for record-keeping purposes. Cookies generally assist users by performing certain functions such as saving passwords and personal preferences regarding the sites. Cookies are linked to personally identifiable information. Many consider the use of cookies to be an industry standard.
 
 Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our sites will not function properly when you view them.
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Taleo only and does not cover the use of cookies by any advertisers.
+
+We employ a third-party product called Eloqua which uses a software technology called clear gifs (also known as Web beacons or Web bugs), that help us provide better content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to generate an anonymous notice of a visit by a Web user.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages. We use these technologies to provide you with the products and services you requested or with offers or promotions that may interest you and to save you time. We tie the information gathered by clear gifs to information about your company and the personal information you have provided to us.
+
+  To learn more about Eloqua’s use of clear gifs, please go to <http://www.eloqua.com/>.
+
+  We also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.  If you would like to opt-out of these emails, or any other communications, you may email us at [newfeedback@taleo.com](mailto:newfeedback@taleo.com?subject=Subcription%20Removal).
 
 #### Disclosures of Personal Information
 
@@ -109,8 +115,9 @@ Email: [Taleo Privacy Office](mailto:privacyofficer@taleo.com?subject=Taleo%20Pr
 
 [Back To Top](https://web.archive.org/privacy/privacy-policy#top)
 
-[We self-certify adherence to  
-](http://www.export.gov/safeharbor/ "opens new tab/window")
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
+
+[ ](http://www.export.gov/safeharbor/ "opens new tab/window")
 
 This Statement describes how Taleo Corporation and its affiliated companies ("Taleo") collects, uses, and discloses certain personally identifiable information that it receives in the United States from the European Union and Switzerland ("EU and Swiss Personal Data"). In particular, Taleo recognizes that the European Union and Switzerland have established strict protections regarding the handling of EU and Swiss Personal Data, and Taleo therefore has elected to adhere to the US-EU Safe Harbor Privacy Principles and US-Switzerland Safe Harbor Privacy Principles (together, the "Safe Harbors") with respect to such EU and Swiss Personal Data that it receives in the United States. For further background and information about the Safe Harbors, and to see Taleo's representation on the Safe Harbor List, please refer to the U.S. Department of Commerce's website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/ "opens
 new tab/window").
