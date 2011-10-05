@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojovox.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508050019id_/http%3A//www.mojovox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojovox.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005031413id_/http%3A//www.mojovox.com/privacy.php) for the most accurate reproduction.*
 
 # MojoVox: Privacy Policy
 
