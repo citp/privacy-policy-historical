@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forabeautifulweb.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218171118id_/http%3A//forabeautifulweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forabeautifulweb.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005183334id_/http%3A//forabeautifulweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy policy | For A Beautiful Web
 
