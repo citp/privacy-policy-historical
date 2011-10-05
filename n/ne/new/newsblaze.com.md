@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724185313id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005165844id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
