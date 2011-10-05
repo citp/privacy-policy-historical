@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlygirlsgames.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322181009id_/http%3A//www.onlygirlsgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlygirlsgames.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005222856id_/http%3A//www.onlygirlsgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+ 
 
 The following is the official privacy policy for [www.onlygirlsgames.com](http://www.onlygirlsgames.com/) , a website centered around flash games and child-friendly content, suitable for children and teens. This Privacy Policy covers the issues related to personal information collected by the site and information regarding tracking and information collection from our affiliates, advertisers and partners.
 
