@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the byronkatie.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419203754id_/http%3A//www.thework.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byronkatie.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005233338id_/http%3A//www.thework.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy statement :: The Work of Byron Katie
 
   |    
 Any information you give to Byron Katie International Inc. and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. 
 
-A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to [let us know](https://web.archive.org/web/20110427115501id_/http://www.thework.com/mail.php?who=info). 
+A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to [let us know](https://web.archive.org/web/20111006010817id_/http://www.thework.com/mail.php?who=info). 
 
 We do not collect any personal information from users who browse our website. Users browse anonymously. We do analyze our website logs to collect aggregate data—such as the number of hits per page—and use this data to improve the value of the materials available on our website. We also collect information voluntarily given to us by our registered customers on certain protected registration or subscription areas of the site as well as the web store. This data is used for internal purposes only. The **Institute for The Work** has its own set of privacy requirements. If you decide to join the community, you accept responsibility for your profile information. 
 
@@ -20,7 +20,7 @@ We maintain several email lists to keep interested parties informed about Byron 
 
 You can request to no longer receive email from us. To opt out of our email list, reply to one of our emails and request to be removed or send an email to webmaster@thework.com. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20110427115501id_/http://www.thework.com/mail.php?who=info). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20111006010817id_/http://www.thework.com/mail.php?who=info). 
 
 |   |    
 This site and all content in this site may not be copied, reproduced, republished, uploaded, posted, transmitted, distributed, or used for the creation of derivative works without prior written consent from Byron Katie International (BKI), except that BKI grants you non-exclusive, non-transferable, limited permission to access and display the web pages within this site, solely on your computer and for your personal, non-commercial use of this website. This permission is conditioned on your not modifying the content displayed on this site; your keeping intact all copyright, trademark, and other proprietary notices; and your acceptance of any terms, conditions, and notices accompanying the content or otherwise set forth in this site. Notwithstanding the foregoing, any content, text, audio, images, and other materials that are made available for downloading, access, or other use from this site with their own license terms, conditions, and notices will be governed by such terms, conditions, and notices. 
@@ -37,5 +37,5 @@ There is only one authorized School for The Work, and it is presented by Byron K
 
 
 
-Any other website that presents a school for The Work or a certification program for The Work is illegitimate. There are many people on the Internet today advertising workshops, courses, or trainings in The Work. Please don’t be fooled if you should stumble onto unauthorized certification programs for The Work. Facilitators/trainers who are certified and therefore authorized through Byron Katie International will always have a Certified Facilitator for The Work logo on their website, assuring you that what they offer is legitimate. For your convenience and for official verification, we proudly list these websites and profiles and their contact information on [www.thework.com/facilitators.php](https://web.archive.org/web/20110427115501id_/http://www.thework.com/facilitators.php)   
+Any other website that presents a school for The Work or a certification program for The Work is illegitimate. There are many people on the Internet today advertising workshops, courses, or trainings in The Work. Please don’t be fooled if you should stumble onto unauthorized certification programs for The Work. Facilitators/trainers who are certified and therefore authorized through Byron Katie International will always have a Certified Facilitator for The Work logo on their website, assuring you that what they offer is legitimate. For your convenience and for official verification, we proudly list these websites and profiles and their contact information on [www.thework.com/facilitators.php](https://web.archive.org/web/20111006010817id_/http://www.thework.com/facilitators.php)   
 
