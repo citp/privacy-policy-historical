@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifetechnologies.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221091533id_/http%3A//www.lifetechnologies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetechnologies.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005170150id_/http%3A//www.lifetechnologies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Life Technologies
 
