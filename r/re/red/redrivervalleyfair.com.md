@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redrivervalleyfair.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522090557id_/http%3A//www.redrivervalleyfair.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redrivervalleyfair.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005220519id_/http%3A//redrivervalleyfair.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Red River Valley Fair Association
 
