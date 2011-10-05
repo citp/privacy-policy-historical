@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drippingcreampies.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519013745id_/http%3A//drippingcreampies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drippingcreampies.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005162015id_/http%3A//drippingcreampies.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
