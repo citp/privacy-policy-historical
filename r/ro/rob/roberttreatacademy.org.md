@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the roberttreatacademy.org privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107000011id_/http%3A//webschoolpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberttreatacademy.org privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005153220id_/http%3A//webschoolpro.com/privacy.html) for the most accurate reproduction.*
 
 # WebSchoolPro Privacy Policy
-
-## Privacy Policy
 
 **Privacy Policy**
 
@@ -100,3 +98,6 @@ A member or customer may decide at any time to terminate his/her relationship wi
 
 **IX. Protection of Minors**  
 The protection of children's online privacy is very important to The WildFireWeb Network. For that reason, it is our policy not to collect or maintain information at our web sites from those we actually know are under 13 and no part of our web sites is structured to attract anyone under 13. 
+
+  
+
