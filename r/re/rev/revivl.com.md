@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revivl.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004906id_/http%3A//revivl.com/%3Fpage_id%3D595) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revivl.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005180025id_/http%3A//revivl.com/%3Fpage_id%3D595) for the most accurate reproduction.*
 
 # Privacy Policy | Revivl
 
