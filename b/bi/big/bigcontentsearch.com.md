@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcontentsearch.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101165736id_/http%3A//bigcontentsearch.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcontentsearch.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005152950id_/http%3A//bigcontentsearch.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Big Content Search
 
