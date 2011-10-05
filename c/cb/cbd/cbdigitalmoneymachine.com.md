@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbdigitalmoneymachine.com privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202193638id_/http%3A//www.cbdigitalmoneymachine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbdigitalmoneymachine.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005193041id_/http%3A//www.cbdigitalmoneymachine.com/privacy) for the most accurate reproduction.*
 
 # Clickbank Digital Money Machine Privacy Policy
 
