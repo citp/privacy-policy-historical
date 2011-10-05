@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123081623id_/http%3A//www.hotfreelayouts.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005202930id_/http%3A//www.hotfreelayouts.com/main/privacy) for the most accurate reproduction.*
 
 # MyHotComments - Privacy Policy
 
@@ -7,11 +7,11 @@ Contact:
     
     Stylem Media
     apps AT stylem.com
-    11661 San Vicente Blvd Suite 700
-    Los Angeles, CA 90049
+    5757 Wilshire Blvd Suite 620
+    Los Angeles, CA 90036
     
 
-This Privacy Policy is effective on 10/10/09 
+This Privacy Policy is effective on 10/10/05 
 
 third parties may be placing and reading cookies on your users. browser, or using web beacons to collect information, in the course of ads being served on your website. 
 
@@ -35,6 +35,6 @@ Please provide us with your name and phone number. We will be sure your name is 
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. Upon request we provide site visitors with access to a description of information that we maintain about them. 
 
-Consumers can access this information by sending us e-mail us at the above address. Consumers can have this information corrected by sending us e-mail at the above address. With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>
+Consumers can access this information by sending us e-mail us at the above address. Consumers can have this information corrected by sending us e-mail at the above address. With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number or via [Contact Form](https://web.archive.org/main/contactus)
