@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmyschoolfriend.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520170629id_/http%3A//findmyschoolfriend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyschoolfriend.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005215653id_/http%3A//findmyschoolfriend.com/privacy.php) for the most accurate reproduction.*
 
 # Find My School Friend
 
@@ -28,4 +28,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20110520170629id_/http%3A//findmyschoolfriend.com/contact.php) here. 
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20111005215653id_/http%3A//findmyschoolfriend.com/contact.php) here. 
