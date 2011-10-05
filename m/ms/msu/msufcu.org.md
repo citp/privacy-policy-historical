@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228063733id_/https%3A//www.msufcu.org/p_privacypolicy.html%3Fmnuccid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005045348id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
 
-# MSUFCU Privacy Policy
+# MSU Federal Credit Union | Disclosures | Savings & Checking
 
-  
-|  | MSUFCU Privacy Policy |   | 
+  | 
 
 **Privacy Policy**
 
@@ -62,8 +61,8 @@ REV. 07/10
   
 ---|---|---  
   
-> **For our everyday business purposes-**   
-> such as to process your transaction, maintain your accounts(s), respond to court orders and legal investigations, or report to credit bureaus
+> **For our everyday business purposes-**  
+>  such as to process your transaction, maintain your accounts(s), respond to court orders and legal investigations, or report to credit bureaus
 
 | 
 
@@ -73,8 +72,8 @@ REV. 07/10
 
 **NO**  
   
-> **For our marketing purposes-**   
-> to offer our products and services to you
+> **For our marketing purposes-**  
+>  to offer our products and services to you
 
 | 
 
@@ -94,8 +93,8 @@ REV. 07/10
 
 **YES**  
   
-> **For our affiliates' everyday business purposes-**   
-> information about your transactions and experiences
+> **For our affiliates' everyday business purposes-**  
+>  information about your transactions and experiences
 
 | 
 
@@ -105,8 +104,8 @@ REV. 07/10
 
 **We don't share**  
   
-> **For our affiliates' everyday business purposes-**   
-> information about your creditworthiness
+> **For our affiliates' everyday business purposes-**  
+>  information about your creditworthiness
 
 | 
 
@@ -138,7 +137,7 @@ REV. 07/10
 
 **Please note:**
 
-If you are a _new_ member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. 
+If you are a _new_ member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice.
 
 However, you can contact us at anytime to limit our sharing. 
 
@@ -160,7 +159,7 @@ However, you can contact us at anytime to limit our sharing.
 
 > **What we do**
 
-|   
+|     
 ---|---  
   
 > **How does Michigan State University Federal Credit Union protect my personal information?**
@@ -175,7 +174,7 @@ However, you can contact us at anytime to limit our sharing.
 
 > We collect your personal information, for example, when you
 
-    * open an account or deposit money
+  *     * open an account or deposit money
     * pay your bills or apply for a loan
     * use your credit or debit card
 
@@ -190,7 +189,7 @@ We also collect your personal information from others, such as credit bureaus, a
 
 > Federal law gives you the right to limit only
 
-    * sharing for affiliates' everyday business purposes- information about your credit worthiness
+  *     * sharing for affiliates' everyday business purposes- information about your credit worthiness
     * affiliates from using your information to market to you
     * sharing for nonaffiliates to market to you.
 
@@ -248,8 +247,9 @@ We also collect your personal information from others, such as credit bureaus, a
 
 * * *
 
-Our privacy policy is the same whether you are online or not. At our website, [www.msufcu.org](http://www.msufcu.org/), you may apply for membership, accounts, loans and services. You may also communicate with us via the secure "Contact Us" form. To protect information you provide us online, we use multiple levels of security. All applications, forms and ComputerLine transactions are submitted to us securely using the industry standard "Secure Socket Layer" (SSL) encryption to secure your submission. MSUFCU uses 128-bit encryption and we use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. We analyze the traffic coming in and out of the firewall, which could indicate intrusion activity and computer viruses. MSUFCU contracts with a third-party technology specialist to try to penetrate our network and evaluate the security of our online applications and ComputerLine. MSUFCU has successfully passed each evaluation and is annually certified as a secure site. To read more about online security requirements [click here](https://web.archive.org/securityrequirements.html). 
+Our privacy policy is the same whether you are online or not. At our website, [www.msufcu.org](http://www.msufcu.org/), you may apply for membership, accounts, loans and services. You may also communicate with us via the secure "Contact Us" form. To protect information you provide us online, we use multiple levels of security. All applications, forms and ComputerLine transactions are submitted to us securely using the industry standard "Secure Socket Layer" (SSL) encryption to secure your submission. MSUFCU uses 128-bit encryption and we use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. We analyze the traffic coming in and out of the firewall, which could indicate intrusion activity and computer viruses. MSUFCU contracts with a third-party technology specialist to try to penetrate our network and evaluate the security of our online applications and ComputerLine. MSUFCU has successfully passed each evaluation and is annually certified as a secure site. To read more about online security requirements [click here](https://web.archive.org/siteadmin/2010_www/security_center/?expand=online_protection#online_protection).
 
+  
 **Links to Other Web Sites**
 
 * * *
@@ -267,12 +267,20 @@ If you conduct transactions with MSUFCU via ComputerLine, you may notice our use
 
 * * *
 
-MSUFCU does not knowingly collect, nor is our web site designed or directed to use personal information from children under the age of 13 without containing verifiable consent from their parents. We do offer three children's programs on our web site: Sweet Pea for children ages 0-4, Dollar Dog Kids Club for children ages 5-12, and the Cha-ching program for teens age 13-17. Unless applying for MSUFCU membership, no information is collected from children to participate in the online activities and information found in these areas of our web site. 
+MSUFCU does not knowingly collect, nor is our web site designed or directed to use personal information from children under the age of 13 without containing verifiable consent from their parents. We do offer three children's programs on our web site: Sweet Pea for children ages 0-4, Dollar Dog Kids Club for children ages 5-12, and the Cha-ching program for teens age 13-17. Unless applying for MSUFCU membership, no information is collected from children to participate in the online activities and information found in these areas of our website. 
 
-**Sweet Pea:** Contains an online membership application that is designed to be submitted by a parent or guardian. In this membership application we ask information about the child for the purpose of establishing a Sweet Pea account for membership. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. Before the application can be submitted, the parent/guardian has to agree to consent to submit this information solely for the purpose of establishing a Sweet Pea account at MSUFCU. Parents/guardians have the ability to review the personal information collected prior to submitting the application. The child's name, age, and address information will also be used to send via U.S. Postal Mail a yearly Sweet Pea account birthday card. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at [www.msufcu.org](http://www.msufcu.org/). In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party. 
+  
+**Sweet Pea:** Contains an online membership application that is designed to be submitted by a parent or guardian. In this membership application we ask information about the child for the purpose of establishing a Sweet Pea account for membership. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. Before the application can be submitted, the parent/guardian has to agree to consent to submit this information solely for the purpose of establishing a Sweet Pea account at MSUFCU. Parents/guardians have the ability to review the personal information collected prior to submitting the application. The child's name, age, and address information will also be used to send via U.S. Postal Mail a yearly Sweet Pea account birthday card. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at [www.msufcu.org](http://www.msufcu.org/). In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party.
 
-**Dollar Dog:** Contains an online membership application that is designed to be submitted by a parent or guardian. In this membership application we ask information about the child for the purpose of establishing a Dollar Dog account for membership. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. Before the application can be submitted, the parent/guardian has to agree to consent to submit this information solely for the purpose of establishing a Dollar Dog account at MSUFCU. Parents/guardians have the ability to review the personal information collected prior to submitting the application. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at [www.msufcu.org](http://www.msufcu.org/). In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party. 
+  
+**Dollar Dog:** Contains an online membership application that is designed to be submitted by a parent or guardian. In this membership application we ask information about the child for the purpose of establishing a Dollar Dog account for membership. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. Before the application can be submitted, the parent/guardian has to agree to consent to submit this information solely for the purpose of establishing a Dollar Dog account at MSUFCU. Parents/guardians have the ability to review the personal information collected prior to submitting the application. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at [www.msufcu.org](http://www.msufcu.org/). In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party.
 
-**Cha-ching:** This section of our web site is designed for teens ages 13-17. A Cha-ching membership application is available to submit online to establish an MSUFCU Cha-ching membership account. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at [www.msufcu.org](https://web.archive.org/). In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party. 
+  
+**Cha-ching:** This section of our web site is designed for teens ages 13-17. A Cha-ching membership application is available to submit online to establish an MSUFCU Cha-ching membership account. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at [www.msufcu.org](https://web.archive.org/). In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party.
 
-| 
+  
+[
+
+* * *
+
+](https://www.msufcu.org/disclosures/?#privacy_policy "Close This Section")
