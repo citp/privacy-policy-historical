@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keezpersonals.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304111822id_/http%3A//keezpersonals.com/go/page/privacy.html%3Fdcb%3Dkeezpersonals.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keezpersonals.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005171029id_/http%3A//keezpersonals.com/go/page/privacy.html%3F%26who%3Dr%2CLdbzCr/uy0ZumnptzcxSZiMHcEUUHEO9iOSk7YBaV4ZrGOMHXuJ6imm4sLcofciCgQsJbp1_COBUk0kbI7gZLj84OuYDKIXgSiDrbXNyxeBtSwdVtFgmPy4/yIqLkDEmuClnlcrsPk9iw8PU02f2s8ZCEfiOaMQtWdWuyvLQvkc-%26dcb%3Dkeezpersonals.com) for the most accurate reproduction.*
 
 # keezpersonals - keezpersonals PRIVACY POLICY
 
@@ -90,10 +90,7 @@ You have the following choices to modify or delete your PII from our database:
 * Send an email to [privacy@ffn.com](mailto:privacy@ffn.com)  
 * Log in with your password and modify/delete your profile  
 * Send a snail mail to Friendfinder Networks Inc. at 220 Humboldt Ct, Sunnyvale, CA 94089, United States, Attn: Privacy  
-* Call us at (610) 757-1920 
-
-By using the above contact information, you may also receive emails from third party advertisers.
-
+* Call us at (408)702-1040
 * **13\. Revisions to this Privacy Policy**
 
 FFN reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the FFN Websites.
