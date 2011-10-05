@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615063339id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006000754id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
 
 # Experience Project : Privacy Policy
 
@@ -8,7 +8,7 @@ At Experience Project, we recognize that privacy is critically important. This P
 
 In short, Experience Project collects as little sensitive information as possible in order to foster an environment where our members are comfortable that they can share their experiences without being personally identified. For example,we do not ask for your given name or physical address during registration. However, for your own protection, always note that any activities on a public medium such as the internet, at our site or others, are traceable under extreme circumstances (e.g., we must comply with legitimate requests from law enforcement agencies to provide IP address data, which your internet service provider can trace back to you individually). With that being our general policy, details follow. 
 
-If you have any questions about this Policy, please feel free to [contact us](http://www.experienceproject.com/contact-support.php) through our website
+If you have any questions about this Policy, please feel free to [contact us](http://www.experienceproject.com/contact-support.php) through our website.
 
 **Information we collect and how we use it:**
 
@@ -25,10 +25,10 @@ We offer a number of services that do not require you to register for an account
 
 Experience Project only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
-  * Providing our products and services to users, including the display of customized content and advertising; 
-  * Auditing, research and analysis in order to maintain, protect and improve our services; 
-  * Ensuring the technical functioning of our network; and 
-  * Developing new services. 
+  * Providing our products and services to users, including the display of customized content and advertising;
+  * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Ensuring the technical functioning of our network; and
+  * Developing new services.
 
 
 
