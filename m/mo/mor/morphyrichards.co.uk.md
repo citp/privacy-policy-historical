@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205051516id_/http%3A//www.morphyrichards.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005173205id_/http%3A//morphyrichards.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Morphy Richards - News
 
@@ -134,9 +134,17 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 #### 12\. Cookies
 
-12.1 Morphy Richards may set and access Cookies on your computer. You may delete Cookies, but doing so you may hinder your use of the Web Site. 
+12.1 Morphy Richards may set and access Cookies on your computer. You can read more about cookies at [ http://www.allaboutcookies.org/ ](http://www.allaboutcookies.org/)
 
-12.2 Additionally, you can choose to disable Cookies in your web browser. By default, your browser will accept Cookies, but this can be altered. For further details please consult the help menu within your browser. Disabling Cookies may hinder your use of the Web Site. 
+12.2 You can choose to disable Cookies in your web browser. By default, your browser will accept Cookies, but this can be altered. For further details please consult the help menu within your browser. 
+
+12.3 Morphy Richards use 2 types of cookies on our website
+
+12.3.1 Cookies to help the use of your site. These do things such as remember items in your shopping basket and your email address when loggin in. If you restrict or reject your use of these cookies you will find that your use of this website will be hindered including the inability to purchase items. 
+
+12.3.2 Third party cookies – The main third party cookies that Morphy Richards use are one that track the use of this website. Morphy Richards uses Google Analytics, supplied by Google Inc, to report on activity on this website. These cookies can only identify that someone has used the site and do not collect any personal data. For more information on this you can view Google Analytic’s privacy policy at <http://www.google.com/intl/en/privacy/privacy-policy.html>
+
+During your visit there may be cookies used that are not related to this website. These could be placed if you view images or video via YouTube or Flickr that are embedded in a page. Morphy Richards does not control these cookies and you should check with the individual site for more information on these. 
 
 #### 13\. Changes to this Policy
 
