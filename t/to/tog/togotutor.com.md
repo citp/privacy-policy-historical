@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the togotutor.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104195207id_/http%3A//www.togotutor.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togotutor.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005174810id_/http%3A//togotutor.com/about/privacy.php) for the most accurate reproduction.*
 
 # None
-
-**NOTE: -- > All Tutorials being Updated On a MONTHLY BASIS. So Please keep Visiting your Favorite Section on this site.**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at togotutor@gmail.com. At http://www.togotutor.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.togotutor.com and how it is used. 
 
