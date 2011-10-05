@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconsoffright.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215212533id_/http%3A//iconsoffright.com/Private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconsoffright.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005162640id_/http%3A//iconsoffright.com/Private.html) for the most accurate reproduction.*
 
 # Icons Of Fright Private Policy
 
