@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thefitnessdiva.blogspot.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231082910id_/http%3A//thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefitnessdiva.blogspot.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005213616id_/http%3A//thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html) for the most accurate reproduction.*
 
 # Confessions of a Fitness Diva....: Adsense Privacy Policy for thefitnessdiva.blogspot.com
-
-###  [Adsense Privacy Policy for thefitnessdiva.blogspot.com](http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html)
 
 Privacy Policy for thefitnessdiva.blogspot.com
 
@@ -20,7 +18,7 @@ We also use third party advertisements on thefitnessdiva.blogspot.com to support
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20091231082910id_/http%3A//thefitnessdiva.blogspot.com/2009/03/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20111005213616id_/http%3A//thefitnessdiva.blogspot.com/2009/03/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
 [Add to del.icio.us](http://del.icio.us/post?url=http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html&title=Adsense%20Privacy%20Policy%20for%20thefitnessdiva.blogspot.com)♦ [DiggIt!](http://digg.com/submit?phase=2&url=http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html&title=Adsense%20Privacy%20Policy%20for%20thefitnessdiva.blogspot.com)♦ [Reddit](http://reddit.com/submit?url=http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html&title=Adsense%20Privacy%20Policy%20for%20thefitnessdiva.blogspot.com)♦ [Stumble This](http://www.stumbleupon.com/refer.php?url=http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html&title=Adsense%20Privacy%20Policy%20for%20thefitnessdiva.blogspot.com)♦ [Add to Google Bookmarks](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html&title=Adsense%20Privacy%20Policy%20for%20thefitnessdiva.blogspot.com)♦ [Add to Yahoo MyWeb](http://myweb2.search.yahoo.com/myresults/bookmarklet?t=http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html&title=Adsense%20Privacy%20Policy%20for%20thefitnessdiva.blogspot.com)♦ [Add to Technorati Faves](http://technorati.com/faves?add=http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html&title=Adsense%20Privacy%20Policy%20for%20thefitnessdiva.blogspot.com)♦ [Slashdot it](http://slashdot.org/bookmark.pl?url=http://thefitnessdiva.blogspot.com/2009/03/adsense-privacy-policy-for.html&title=Adsense%20Privacy%20Policy%20for%20thefitnessdiva.blogspot.com)
 
