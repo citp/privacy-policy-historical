@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konami.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510013807id_/http%3A//konami.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konami.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005153543id_/http%3A//www.konami.com/privacy) for the most accurate reproduction.*
 
 # Konami Digital Entertainment, Inc. :
 
