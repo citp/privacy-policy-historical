@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.co.tv privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427030132id_/http%3A//www.co.tv/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.co.tv privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005171353id_/http%3A//www.co.tv/security.php) for the most accurate reproduction.*
 
 # Free domain name Co.TV . Free Set Up: URL forwarding, DNS set up, Zone records or Free Sitebuilder.
 
