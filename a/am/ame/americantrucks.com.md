@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americantrucks.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227214701id_/http%3A//www.americantrucks.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americantrucks.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006015619id_/http%3A//www.americantrucks.com/privacypolicy.html) for the most accurate reproduction.*
 
 # AmericanTrucks Privacy Policy
 
@@ -19,4 +19,4 @@ Malvern, PA 19355
 
 Please note this is a mailing address only.
 
-For more information about AmericanTrucks.com, please refer to our [info page](https://web.archive.org/web/20101227214701id_/http%3A//www.americantrucks.com/info.html).
+For more information about AmericanTrucks.com, please refer to our [info page](https://web.archive.org/web/20111006015619id_/http%3A//www.americantrucks.com/info.html).
