@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applicationsearch.net privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619024904id_/http%3A//applicationsearch.net/landing/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicationsearch.net privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005022350id_/http%3A//applicationsearch.net/landing/misc/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
