@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingcolumns.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324213145id_/http%3A//webhostingcolumns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingcolumns.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005234413id_/http%3A//webhostingcolumns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
