@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gayguysfilm.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607162158id_/http%3A//www.gayguysfilm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayguysfilm.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006220247id_/http%3A//www.gayguysfilm.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy at Gay Men Fucking
+# Privacy at Gay Guy Tube
 
 AE Media Group recognizes that its customers, visitors, users, and others who use Gay Guys Film value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Gay Guys Film site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. 
 
