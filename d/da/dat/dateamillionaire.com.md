@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112080144id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateamillionaire.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006152643id_/http%3A//www.dateamillionaire.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
 
 # .: Date A Millionaire - Singles Looking for Wealthy Rich Men & Women
 
