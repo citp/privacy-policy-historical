@@ -1,1432 +1,912 @@
-<!--The following is the downloaded HTML source of the famousfootwear.com privacy policy that was archived on 2007-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071012032438id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the famousfootwear.com privacy policy that was archived on 2011-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006135954id_/http%3A//www.famousfootwear.com/content.aspx%3Fcontentid%3DPRIVACY) for the most accurate reproduction.-->
 
-<html><head>
-<link rel="stylesheet" href="/bdimages/famous/css/famous5.css">
-<link rel="stylesheet" href="/bdimages/famous/css/famous6.css">
-<link rel="stylesheet" href="/bdimages/famous/css/famous7.css">
-<link rel="stylesheet" href="/bdimages/famous/css/famous8.css">
-<script language="JavaScript" src="/include/jcommon.js"></script>
-<script language="JavaScript" src="/bdimages/famous/js/preload.js"></script>
-<title></title>
-
-	<script language="JavaScript" src="/ForeSeeScripts/triggerParams.js"></script> 
-	<script language="JavaScript" src="/ForeSeeScripts/stdLauncher.js"></script>
-	<script language="JavaScript">
-	triggerParms["cpp_5"] = "PARTNERID:"+ cppUrlPatch (getQueryStringVar("partnerID")); // CPP -5 -Optional
-	triggerParms["cpp_6"] = "PAGEURL:"+ cppUrlPatch (document.location.href); // CPP -6 -Optional
-	</script>
-	<script language="JavaScript">Poll(); </script>
-
-
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();shoes_onLoad();initDropMenu();">
-<style>
-body { 
-	text-align:center;
-}
-#wrapper {
-	width:759px;
-	position:relative;
-	margin:0 auto;
-	text-align:left;
-}
-</style>
-<div id="wrapper">
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="760" id="Table1">
-<tbody><tr><td><img src="images/spacer.gif" width="10" height="10"></td></tr>
-<tr><td>
-			<script language="javascript">
-		<!--
-			//for hiding comps which appear above top nav drop downs
-			
-			function toggleComp(toHide, vStatus)
-			{
-				return;
-				var tag, each;
-				for (each in toHide)
-				{
-					tag = document.getElementById(toHide[each]);
-					if(tag != null)
-					{
-						tag.style.visibility = (tag.style.visibility == 'hidden' ? 
-												'visible' : 'hidden');
-					}
-				}
-			}
-		-->
-		</script>
-		<script language="JavaScript">
-		<!--
-			function storeLocator() {
-			document.forms[1].submit();
-		}
-
-		function lnavSearchSubmit() {
-			//if (document.lnavSearch.category_name.selectedIndex == 0 && document.lnavSearch.Keyword.value == '') {
-				//return false;
-			//}
-			//else {
-				if (document.lnavSearch.Keyword.value != '') document.lnavSearch.as.value = '1';
-				return true;
-			//}
-		}
-
-		function goSearch(selObj) {
-			if (selObj.selectedIndex > 0)
-				document.lnavSearch.submit();
-		}
-
-		function mOver(obj) {
-			obj.style.backgroundColor = '#613800';
-		}
-
-		function mOut(obj) {
-			obj.style.backgroundColor = '#CF142B';
-		}
-		//-->
-		</script>
-		<script language="JavaScript" type="text/javascript">
-			var objNavMenu = null;
-			var prevObjNavMenu = null;
-			var prevObjDropMenu = null;
-			var numDropMenu = 9;
-			////// link styles
-			var bgLinkColor = '#CCCCCC';
-			var bgLinkHover = '#3D1F00'
-			var bgLinkActive = '#3D1F00'
-			var linkColor = '#ffffff'
-			var linkHover = '#ffffff'
-			var linkActive = '#ffffff'
-			
-			var isIE = null;
-			if (navigator.appName.indexOf('Microsoft Internet Explorer') != -1) isIE=1;
-
-			function initDropMenu () {
-				document.onclick = hideDropMenu;
-				for (i=1; i<=numDropMenu; i++) {
-					menuName = 'dropMenu' + i;
-					navName = 'navMenu' + i;
-					objDropMenu = document.getElementById(menuName);
-					objNavMenu = document.getElementById(navName);
-					objDropMenu.style.visibility = 'hidden';
-					objNavMenu.onmouseover =  showDropMenu;/*menuHover + */
-					objNavMenu.onmouseout = menuOut;
-					//objNavMenu.onclick = showDropMenu;
-				}
-				objNavMenu = null;
-				return;
-			}
-
-			function  menuHover(e) {
-				document.onclick = null;
-				hoverObjNavMenu = document.getElementById(this.id);
-				if (hoverObjNavMenu != objNavMenu) {
-					hoverObjNavMenu.style.color = linkHover;
-					hoverObjNavMenu.style.backgroundColor = bgLinkHover;
-				}		
-			}
-			
-			function menuOut (e) {
-				document.onclick = hideDropMenu;
-				outObjNavMenu = document.getElementById(this.id);
-				if (outObjNavMenu != objNavMenu) {
-					outObjNavMenu.style.color = linkColor;
-					outObjNavMenu.style.backgroundColor = bgLinkColor;
-				}
-			}
-			
-			function showDropMenu(e) {
-				menuName = 'drop' + this.id.substring(3,this.id.length);
-				objDropMenu = document.getElementById(menuName);
-				if (prevObjDropMenu == objDropMenu) {
-						hideDropMenu();
-					return;
-				}
-				if (prevObjDropMenu != null) hideDropMenu();
-				objNavMenu = document.getElementById(this.id);
-				if ((prevObjNavMenu != objNavMenu ) || (prevObjDropMenu == null)) {
-					objNavMenu.style.color = linkActive;
-					objNavMenu.style.backgroundColor = bgLinkActive;
-				}
-				
-				if (objDropMenu) {
-					xPos = objNavMenu.offsetParent.offsetLeft + objNavMenu.offsetLeft;
-					yPos = objNavMenu.offsetParent.offsetTop + objNavMenu.offsetParent.offsetHeight;
-					if (isIE) {
-						yPos -= 1;
-						xPos -= 6;
-					}
-					objDropMenu.style.left = xPos + 'px';
-					objDropMenu.style.top = yPos + 'px';
-					objDropMenu.style.visibility = 'visible';
-					prevObjDropMenu = objDropMenu;
-					prevObjNavMenu = objNavMenu;
-				}			
-			}
-			
-			function hideDropMenu() {
-				document.onclick = null;
-				if (prevObjDropMenu) {
-					prevObjDropMenu.style.visibility = 'hidden';
-					prevObjDropMenu = null;
-					prevObjNavMenu.style.color = linkColor;
-					prevObjNavMenu.style.backgroundColor = bgLinkColor;
-				}
-				objNavMenu = null;
-			}
-			
-			function onDropDownMouseOut()
-			{
-				dropDownLive = false;
-				setTimeout('updateLiveDropDown()', 1000);			 
-			}		
-				
-			function updateLiveDropDown()
-			{
-				if (!dropDownLive)
-					hideDropMenu();
-			}			
-		</script>
-<style type="text/css" media="print">
-#TopNav,.footermessage, #mainfooter
-{
-	display:none;
-}
-/*
-#menuBar
-{
-	background-color:blue;
-	position:static;
-	display:block;
-}
-.menuDrop 
-{
-	color:blue;
-	background-color:green;
-	position:absolute;
-	left:0;
-	top:0;
-	display:inline;
-}
-*/
-</style>		
-		<style type="text/css" media="screen"><!--
-body {
-	margin: 0px;
-	padding: 0px;
-}
-
-#page {
-	margin: 10px;
-}
-
-#menuBar {
-	color: #ffffff;
-	font-size: 12px;
-	font-family: verdana, arial, Helvetica, sans-serif;
-	font-weight: normal;
-	text-align: left;
-	display: block;
-	margin-bottom: 10px;
-	position: relative;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	width: 99%;
-	overflow: hidden;
-	vertical-align: middle;
-	border: solid 1px #845238;
-	background-color: #845238;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	Privacy Policy - Famous Footwear
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script> var seoRoutesNativeUrl = "http://www.famousfootwear.com/content.aspx?contentid=PRIVACY"; </script><script language="javascript" type="text/javascript" src="/scripts/MobileRedirect.js"></script>
+    <script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="/Scripts/JavascriptErrorLogger.js"></script>
+    <script type="text/javascript" src="/scripts/Scripts.js"></script>
+    <script type="text/javascript" src="/scripts/ProductFindingMethod.js"></script>
+    <script type="text/javascript" src="/scripts/QueryString_Cookie_Managers.js"></script>
+    <script type="text/javascript" src="/Scripts/ClientLogger.js?v4"></script>
+    
+    <link href="/App_Themes/Default/account.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/boutiques.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/content.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/CSS/qas.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/giftshop.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/loyalty.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/master.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/MTF.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/recommendations.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/returns.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/SiteNavigation.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/zAppDev.css" type="text/css" rel="stylesheet"><meta name="Keywords"><meta name="Description"><link title="famousfootwear.com Search Provider" type="application/opensearchdescription+xml" rel="search" href="/Shopping/SearchProviders/SearchProvider_Famous.xml"></head>
+<body id="ctl00_bodyElement" class="privacy contentPage">
+        <script type="text/javascript">
+	var CartQuantityScript = function () {
+		var cookies = new CookieManager();
+		var qty = cookies.getValue("CART_TOTAL_QUANTITY_20000", null);
+		var link = document.getElementById("myCartActive");
+		if(link && qty && (qty > 0)){
+		 $('#topnav-service ul li#topnav-cart a').addClass('notEmpty');
+		link.innerHTML = " (" + qty + ")";
 	}
-
-.menuHeader {
-	color: #ffffff;
-	text-decoration: none;
-	white-space: nowrap;
-	cursor: pointer;
-	padding: 5px;
-	margin: 0px;
-	padding-right: 10px;
-	padding-left: 10px;
-	display: inline;
-	position: relative;
-	border-right: 1px solid #ffffff;
 	}
-
-a.menuLink {
-	display: block;
-	padding: 8px 5px;
-	border-top: 1px solid #ba1319
-	}
-
-a.menuLink:link {
-	color: #845238;
-	text-decoration: none
-	}
-
-a.menuLink:visited {
-	color: #845238;
-	text-decoration: none
-	}
-
-a.menuLink:hover {
-	color: #ffffff;
-	background-color: #845238;
-	text-decoration: none
-	}
-
-a.menuLink:active {
-	color: #ffffff;
-	text-decoration: none;
-	background-color: #845238;
-	}
-
-.menuDrop {
-	color: #845238;
-	font-size: 10px;
-	font-family: verdana, arial, Helvetica, sans-serif;
-	background-color: #efe9dd;
-	background-repeat: repeat;
-	visibility: hidden;
-	margin: 0;
-	padding: 0;
-	position: absolute;
-	z-index: 1000;
-	top: 60px;
-	left: 0;
-	width: auto;
-	height: auto;
-	border-style: solid;
-	border-width: 0 1px 1px;
-	border-color: #ba1319
-	text-align:center;
-	}
-
---></style>
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td align="right" valign="absmiddle" class="brownpipe">
-	<a href="https://secure.famousfootwear.com/login/login.asp" class="topnav">log in</a>&nbsp;|&nbsp;
-	<a href="http://www.famousfootwear.com/basket.asp" class="topnav"><img src="/bdimages/famous/images/cart.gif" width="16" height="18" border="0">&nbsp;view cart</a>&nbsp;|&nbsp;
-	<a href="http://www.famousfootwear.com/Community/CustomerService.asp" class="topnav">customer service</a>&nbsp;|&nbsp;
-	<a href="https://secure.famousfootwear.com/login/login.asp?REWARDS=Y" class="topnav">rewards program</a>
-</td></tr> 
-
-<tr><td>
-	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr valign="top">
-			<td rowspan="2"><img src="/bdimages/famous/images/spacer.gif" height="50" width="10" border="0"><a href="http://www.famousfootwear.com/"><img src="/bdimages/famous/images/ff-logo.jpg" width="308" height="50" border="0" alt="Famous Footwear"></a></td>
-			<td colspan="2"><img src="/bdimages/famous/images/spacer.gif" border="0" width="10" height="22"></td>
-		</tr>
-		<tr valign="top">
-			<td align="right">
-				<table cellpadding="0" cellspacing="0">
-					<tbody><tr>				
-			<!--this is the find a store search, should function as it does on current site-->
-			<form name="storeloc" method="post" action="/community/storelocator.asp"></form>
-			<td align="right"><input type="text" name="ZipCode" size="16" value="Enter Zip"><input type="image" src="/bdimages/famous/images/btnfindstore.gif" width="89" height="23" border="0" align="absmiddle"></td>
-			<input type="hidden" name="mode" value="1">
-			
-			<td><img src="/bdimages/famous/images/spacer.gif" border="0" width="17" height="0"></td>
-			<!--this is the find a main site search, should function as it does on current site-->
-			<form name="lnavSearch" onsubmit="return lnavSearchSubmit();" action="/category.asp"></form>
-			<input type="hidden" name="as" value="1">
-			<td align="right"><input type="text" name="Keyword" size="16"><input type="image" src="/bdimages/famous/images/btnSearch.gif" width="58" height="26" border="0" align="absmiddle"></td>
-			
-					</tr>
-					<tr><td class="brownpipe" align="right"><a href="http://www.famousfootwear.com/Community/StoreLocator.asp">Search by City</a></td><td>&nbsp;</td></tr>				
-				</tbody></table>
-			</td>
-		</tr>
-	</tbody></table>
-</td></tr>
-<tr style="display:none;"><td>
-	<table id="TopNav" height="21" border="0" cellpadding="0" cellspacing="0" align="center" onmouseout="onDropDownMouseOut();" width="100%">
-		<tbody><tr id="menuBar" onmouseout="onDropDownMouseOut();">
-			<td id="navMenu1">
-				<a href="http://www.famousfootwear.com" onmouseover="changeImages('ff_nav_01', '/bdimages/famous/images/ff-nav_01-over.jpg'); return true;" onmouseout="changeImages('ff_nav_01', '/bdimages/famous/images/ff-nav_01.jpg'); return true;" onmousedown="changeImages('ff_nav_01', '/bdimages/famous/images/ff-nav_01-over.jpg'); return true;" onmouseup="changeImages('ff_nav_01', '/bdimages/famous/images/ff-nav_01-over.jpg'); return true;">
-					<img name="ff_nav_01" src="/bdimages/famous/images/ff-nav_01.jpg" width="74" height="21" border="0" alt=""></a></td>
-			<td id="navMenu2">
-				<a href="http://www.famousfootwear.com/shop/womens.asp" onmouseover="changeImages('ff_nav_02', '/bdimages/famous/images/ff-nav_02-over.jpg'); toggleComp(new Array('frmEditBillShip'));return true;" onmouseout="changeImages('ff_nav_02', '/bdimages/famous/images/ff-nav_02.jpg'); toggleComp(new Array('frmEditBillShip'));return true;" onmousedown="changeImages('ff_nav_02', '/bdimages/famous/images/ff-nav_02-over.jpg'); return true;" onmouseup="changeImages('ff_nav_02', '/bdimages/famous/images/ff-nav_02-over.jpg'); return true;">
-					<img name="ff_nav_02" src="/bdimages/famous/images/ff-nav_02.jpg" width="97" height="21" border="0" alt=""></a></td>
-			<td id="navMenu3">
-				<a href="http://www.famousfootwear.com/shop/mens.asp" onmouseover="changeImages('ff_nav_03', '/bdimages/famous/images/ff-nav_03-over.jpg'); toggleComp(new Array('frmEditBillShip'));return true;" onmouseout="changeImages('ff_nav_03', '/bdimages/famous/images/ff-nav_03.jpg'); toggleComp(new Array('frmEditBillShip'));return true;" onmousedown="changeImages('ff_nav_03', '/bdimages/famous/images/ff-nav_03-over.jpg'); return true;" onmouseup="changeImages('ff_nav_03', '/bdimages/famous/images/ff-nav_03-over.jpg'); return true;">
-					<img name="ff_nav_03" src="/bdimages/famous/images/ff-nav_03.jpg" width="71" height="21" border="0" alt=""></a></td>
-			<td id="navMenu4">
-				<a href="http://www.famousfootwear.com/shop.asp?shopID=JUNIORS" onmouseover="changeImages('ff_nav_04', '/bdimages/famous/images/ff-nav_04-over.jpg'); toggleComp(new Array('frmEditBillShip'));return true;" onmouseout="changeImages('ff_nav_04', '/bdimages/famous/images/ff-nav_04.jpg'); toggleComp(new Array('frmEditBillShip'));return true;" onmousedown="changeImages('ff_nav_04', '/bdimages/famous/images/ff-nav_04-over.jpg'); return true;" onmouseup="changeImages('ff_nav_04', '/bdimages/famous/images/ff-nav_04-over.jpg'); return true;">
-					<img name="ff_nav_04" src="/bdimages/famous/images/ff-nav_04.jpg" width="81" height="21" border="0" alt=""></a></td>
-			<td id="navMenu5">
-				<a href="http://www.famousfootwear.com/shop/athletics.asp" onmouseover="changeImages('ff_nav_05', '/bdimages/famous/images/ff-nav_05-over.jpg'); toggleComp(new Array('frmEditBillShip'));return true;" onmouseout="changeImages('ff_nav_05', '/bdimages/famous/images/ff-nav_05.jpg'); toggleComp(new Array('frmEditBillShip'));return true;" onmousedown="changeImages('ff_nav_05', '/bdimages/famous/images/ff-nav_05-over.jpg'); return true;" onmouseup="changeImages('ff_nav_05', '/bdimages/famous/images/ff-nav_05-over.jpg'); return true;">
-					<img name="ff_nav_05" src="/bdimages/famous/images/ff-nav_05.jpg" width="85" height="21" border="0" alt=""></a></td>
-			<td id="navMenu6">
-				<a href="http://www.famousfootwear.com/shop/kids.asp" onmouseover="changeImages('ff_nav_06', '/bdimages/famous/images/ff-nav_06-over.jpg'); toggleComp(new Array('cellSize', 'cellColor'));return true;" onmouseout="changeImages('ff_nav_06', '/bdimages/famous/images/ff-nav_06.jpg'); toggleComp(new Array('cellSize', 'cellColor'));return true;" onmousedown="changeImages('ff_nav_06', '/bdimages/famous/images/ff-nav_06-over.jpg'); return true;" onmouseup="changeImages('ff_nav_06', '/bdimages/famous/images/ff-nav_06-over.jpg'); return true;">
-					<img name="ff_nav_06" src="/bdimages/famous/images/ff-nav_06.jpg" width="57" height="21" border="0" alt=""></a></td>
-			<td id="navMenu7">
-				<a href="http://www.famousfootwear.com/shop.asp?shopID=accessories" onmouseover="changeImages('ff_nav_07', '/bdimages/famous/images/ff-nav_07-over.jpg'); toggleComp(new Array('cellSize', 'cellColor'));return true;" onmouseout="changeImages('ff_nav_07', '/bdimages/famous/images/ff-nav_07.jpg'); toggleComp(new Array('cellSize', 'cellColor'));return true;" onmousedown="changeImages('ff_nav_07', '/bdimages/famous/images/ff-nav_07-over.jpg'); return true;" onmouseup="changeImages('ff_nav_07', '/bdimages/famous/images/ff-nav_07-over.jpg'); return true;">
-					<img name="ff_nav_07" src="/bdimages/famous/images/ff-nav_07.jpg" width="101" height="21" border="0" alt=""></a></td>
-			<td id="navMenu8">
-				<a href="http://www.famousfootwear.com/shop/brands.asp" onmouseover="changeImages('ff_nav_08', '/bdimages/famous/images/ff-nav_08-over.jpg'); toggleComp(new Array('cellSize', 'cellColor'));return true;" onmouseout="changeImages('ff_nav_08', '/bdimages/famous/images/ff-nav_08.jpg'); toggleComp(new Array('cellSize', 'cellColor'));return true;" onmousedown="changeImages('ff_nav_08', '/bdimages/famous/images/ff-nav_08-over.jpg'); return true;" onmouseup="changeImages('ff_nav_08', '/bdimages/famous/images/ff-nav_08-over.jpg'); return true;">
-					<img name="ff_nav_08" src="/bdimages/famous/images/ff-nav_08.jpg" width="109" height="21" border="0" alt=""></a></td>
-			<td id="navMenu9">
-				<a href="http://search.famousfootwear.com/?Query=Sale" onmouseover="changeImages('ff_nav_09', '/bdimages/famous/images/ff-nav_09-over.jpg'); return true;" onmouseout="changeImages('ff_nav_09', '/bdimages/famous/images/ff-nav_09.jpg'); return true;" onmousedown="changeImages('ff_nav_09', '/bdimages/famous/images/ff-nav_09-over.jpg'); return true;" onmouseup="changeImages('ff_nav_09', '/bdimages/famous/images/ff-nav_09-over.jpg'); return true;">
-					<img name="ff_nav_09" src="/bdimages/famous/images/ff-nav_09.jpg" width="85" height="21" border="0" alt=""></a></td>
-			<td width="100%" background="/bdimages/famous/images/spacer.gif" rowspan="2">&nbsp;</td>
-		</tr>
-		<tr onmouseover="dropDownLive=true;">
-			<td id="dropMenu1"></td>	
-			<td id="dropMenu2" class="menuDrop"> 
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens" onfocus="if(this.blur)this.blur();">view all</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+Boots" onfocus="if(this.blur)this.blur();">boots</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+Casual" onfocus="if(this.blur)this.blur();">casual</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+Dress" onfocus="if(this.blur)this.blur();">dress</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors" onfocus="if(this.blur)this.blur();">juniors</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+Sandals" onfocus="if(this.blur)this.blur();">sandals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=womens+wides" onfocus="if(this.blur)this.blur();">wides</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=womens+narrows" onfocus="if(this.blur)this.blur();">narrows</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();">bags and backpacks</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+socks" onfocus="if(this.blur)this.blur();">socks</a>
-			</td>
-			<td id="dropMenu3" class="menuDrop"> 
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens" onfocus="if(this.blur)this.blur();">view all</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+Boots" onfocus="if(this.blur)this.blur();">boots</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+Casual" onfocus="if(this.blur)this.blur();">casual</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+Dress" onfocus="if(this.blur)this.blur();">dress</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+Sandals" onfocus="if(this.blur)this.blur();">sandals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+wides" onfocus="if(this.blur)this.blur();">wides</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+narrows" onfocus="if(this.blur)this.blur();">narrows</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();">bags and backpacks</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+socks" onfocus="if(this.blur)this.blur();">socks</a>
-			</td>
-			<td id="dropMenu4" class="menuDrop"> 
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors" onfocus="if(this.blur)this.blur();">view all</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+Boots" onfocus="if(this.blur)this.blur();">boots</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+Casual" onfocus="if(this.blur)this.blur();">casual</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+Dress" onfocus="if(this.blur)this.blur();">dress</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+Sandals" onfocus="if(this.blur)this.blur();">sandals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();">bags and backpacks</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+socks" onfocus="if(this.blur)this.blur();">socks</a>
-			</td>
-			<td id="dropMenu5" class="menuDrop"> 
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics" onfocus="if(this.blur)this.blur();">view all</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+Womens" onfocus="if(this.blur)this.blur();">women</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+Mens" onfocus="if(this.blur)this.blur();">men</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+Boys" onfocus="if(this.blur)this.blur();">boys</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+Girls" onfocus="if(this.blur)this.blur();">girls</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=basketball" onfocus="if(this.blur)this.blur();">basketball</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=fashion+athletics" onfocus="if(this.blur)this.blur();">fashion</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=golf" onfocus="if(this.blur)this.blur();">golf</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=mens+running" onfocus="if(this.blur)this.blur();">mens running</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=womens+running" onfocus="if(this.blur)this.blur();">womens running</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=sandals+athletics" onfocus="if(this.blur)this.blur();">sandals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=skate" onfocus="if(this.blur)this.blur();">skate</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=soccer" onfocus="if(this.blur)this.blur();">soccer</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=trail" onfocus="if(this.blur)this.blur();">trail</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=walking" onfocus="if(this.blur)this.blur();">walking</a>
-				<a class="menuLink" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onfocus="if(this.blur)this.blur();">bags and backpacks</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories" onfocus="if(this.blur)this.blur();">socks</a>
-			</td>
-			<td id="dropMenu6" class="menuDrop"> 
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=kids" onfocus="if(this.blur)this.blur();">view all</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+Boys" onfocus="if(this.blur)this.blur();">boys</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+Girls" onfocus="if(this.blur)this.blur();">girls</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+Little Kids" onfocus="if(this.blur)this.blur();">little kids</a>
-				<a class="menuLink" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onfocus="if(this.blur)this.blur();">bags and backpacks</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories+Socks+Kids" onfocus="if(this.blur)this.blur();">socks</a>
-			</td>
-			<td id="dropMenu7" class="menuDrop"> 
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories" onfocus="if(this.blur)this.blur();">view all</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories+New+Arrivals" onfocus="if(this.blur)this.blur();">new arrivals</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories+Socks" onfocus="if(this.blur)this.blur();">socks</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Laces" onfocus="if(this.blur)this.blur();">laces</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Shoe+Care+Insoles" onfocus="if(this.blur)this.blur();">shoe care and insoles</a>
-				<a class="menuLink" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onfocus="if(this.blur)this.blur();">bags and backpacks</a>
-			</td>
-			<td id="dropMenu8" class="menuDrop"> 
-				<a class="menuLink" href="http://www.famousfootwear.com/shop/brands.asp" onfocus="if(this.blur)this.blur();">view all brands</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Adidas" onfocus="if(this.blur)this.blur();">Adidas</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Aerosoles" onfocus="if(this.blur)this.blur();">Aerosoles</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Bass" onfocus="if(this.blur)this.blur();">Bass</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Birkenstock" onfocus="if(this.blur)this.blur();">Birkenstock</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Buster+Brown" onfocus="if(this.blur)this.blur();">Buster Brown</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Clarks" onfocus="if(this.blur)this.blur();">Clarks</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Connie" onfocus="if(this.blur)this.blur();">Connie</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Converse" onfocus="if(this.blur)this.blur();">Converse</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Keds" onfocus="if(this.blur)this.blur();">Keds</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Lifestride" onfocus="if(this.blur)this.blur();">Lifestride</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mudd" onfocus="if(this.blur)this.blur();">Mudd</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Naturalizer" onfocus="if(this.blur)this.blur();">Naturalizer</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=New+Balance" onfocus="if(this.blur)this.blur();">New Balance</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Nike" onfocus="if(this.blur)this.blur();">Nike</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Rampage" onfocus="if(this.blur)this.blur();">Rampage</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Reebok" onfocus="if(this.blur)this.blur();">Reebok</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Report" onfocus="if(this.blur)this.blur();">Report</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Rockport" onfocus="if(this.blur)this.blur();">Rockport</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Skechers" onfocus="if(this.blur)this.blur();">Skechers</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Steve+Madden" onfocus="if(this.blur)this.blur();">Steve Madden</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Timberland" onfocus="if(this.blur)this.blur();">Timberland</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Tommy+Hilfiger" onfocus="if(this.blur)this.blur();">Tommy Hilfiger</a>
-				<a class="menuLink" href="http://www.famousfootwear.com/shop/brands.asp" onfocus="if(this.blur)this.blur();">view all brands</a>
-			</td>
-			<td id="dropMenu9" class="menuDrop"> 
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=finds" onfocus="if(this.blur)this.blur();">famous finds</a>				
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+On+Sale" onfocus="if(this.blur)this.blur();">womens</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+On+Sale" onfocus="if(this.blur)this.blur();">mens</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+On+Sale" onfocus="if(this.blur)this.blur();">kids</a>
-				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+On+Sale" onfocus="if(this.blur)this.blur();">athletic</a>
-			</td>
-		</tr>
-	</tbody></table>
-</td></tr>
-	<tr>
-		<td>
+	$(document).ready(CartQuantityScript);
+</script>
 		
-<style>
-/*** SHOES.COM HEADER.INC STYLES ***/
+		<script language="Javascript" type="text/javascript">var serverDate= new Date("10/6/2011 8:58:05 AM")</script>
+					<!-- SiteCatalyst code version: H.15.1.
+					Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+					<script language="Javascript" type="text/javascript">
+						var s_account="bshoefamous"
+					</script>
+					<script language="JavaScript" type="text/javascript" src="/Common/Scripts/Omniture/s_code.js"></script>
+					<script language="Javascript" type="text/javascript">
+						s.linkInternalFilters="javascript:,famousfootwear.com"
+						s.pageName="Content:PRIVACY"
+						s.server="www.famousfootwear.com"
+						s.channel="Customer Service"
+						s.pageType=""
+						s.prop1="Customer Service"
+						s.prop2="Privacy Policy"
+						s.prop3=""
+						s.prop4=""
+						s.prop6=""
+						s.prop7=""
+						s.prop8=""
+						s.prop9=""
+						s.prop10=""
+						s.prop11=""
+						s.prop12=""
+						s.prop13=""
+						s.prop14=""
+						s.prop15=""
+						s.prop19=""
+						s.prop22=""
+						s.prop23=""
+						s.prop24=""
+						s.prop25=""
+						s.state=""
+						s.zip=""
+						s.events=""
+						s.products=""
+						s.purchaseID=""
+						s.eVar1=""
+						s.eVar4=""
+						s.eVar5=""
+						s.eVar6=""
+						s.eVar11=""
+						s.eVar13=""
+						s.eVar14=""
+						s.eVar15=""
+						s.eVar16=""
+						s.eVar17=""
+						s.eVar18=""
+						s.eVar19=""
+						s.eVar20=""
+            s.eVar22=""
+						s.eVar23=""
+            s.eVar24=""
+						s.eVar25=""
+						s.eVar26=""
+						s.eVar27=""
+						s.eVar28=""
+            s.eVar40=""
+						s.eVar41=""
+            s.eVar42=""
+            s.eVar43=""
+					</script>
+					
+						<script language="JavaScript" type="text/javascript">
+							var s_code=s.t();
+							if(s_code) { document.write(s_code); }
+						</script>
+						<script language="JavaScript" type="text/javascript">
+							//if(navigator.appVersion.indexOf('MSIE')>=0) { document.write(unescape('%3C')+'\!-'+'-'); }
+						</script>
+						<noscript>
+							<a href="http://www.omniture.com" title="Web Analytics">
+								<img src="http://brownshoe.112.2o7.net/b/ss/bshoefamous/1/H.15.1--NS/0" height="1" width="1" border="0" alt="" />
+							</a>
+						</noscript>
+						<!--/DO NOT REMOVE/-->
+						<!-- End SiteCatalyst code version: H.15.1. -->
+					
+					<script type="text/javascript">
+						var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+						document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+					</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+					<script type="text/javascript">
+						try 
+						{
+							var pageTracker = _gat._getTracker("UA-1033819-1");
+							pageTracker._setDomainName(".famousfootwear.com");
+							pageTracker._trackPageview("Content:PRIVACY");
+							if(s && s.campaign) {
+								pageTracker._setVar(s.campaign);
+							}
+							
+							
+							
+						} 
+							catch(err) {}
+					</script>
+					
 
-#headerContainer {
-	width: 778px;
-	position:relative;
-	z-index:99999 !important;
+		<script>siteDomain = 'famousfootwear.com';</script>
+		
+		
+        <script type="text/javascript" src="/Scripts/jquery.ezpz_tooltip.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/tooltip.css">
+        <div id="tooltipBucket"></div>
+		
+		
+		<div id="ctl00_RewardsLoyaltyBanner" class="RewardsLoyaltyBanner">
+	
+        <div id="phNotLoggedIn" class="signin">
+            <a href="/Profiles/Welcomedashboard.aspx">sign in</a> | <a href="/Profiles/CreateAccount2.aspx">join now</a><br><a href="/Content.aspx?ContentID=rewardsoverview">why join?</a> 
+        </div>   
+        <div id="phSuccessful" style="display: none;">
+            <div id="firstname" class="firstname"><a href="/Profiles/Login.aspx"> Not ?</a></div>
+            <div id="membership" class="membership"></div>
+            <div id="rewardpoints" class="rewardpoints">Current REWARDS Points:  <a href="#">details</a></div>
+            <div id="rewardsearned" class="rewardsearned">REWARDS Earned<br><span id="pointsearned">$NaN</span> <a href="#">details</a></div>	
+            <div id="awaygold" class="awaygold"></div>
+        </div>
+		<script src="/Content/scripts/rewardsLoyaltyBanner.js"></script>
+		
+<div id="rewardsdisplay" style="display:none;"></div></div>
+		
+		<div id="TopMargin">
+			<!-- Shop:20000_Template_TopMargin [Main] START -->
+<style type="text/css">
+a.top-level {
+   -moz-border-radius:4px 4px 0px 0px;
+   -webkit-border-radius:4px 4px 0px 0px;
+   border-radius:4px 4px 0px 0px;
+}
+.navlist-main li ul {
+	-moz-border-radius-topleft: 0px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomright: 4px;
+	-moz-border-radius-bottomleft: 4px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px; 
+	-webkit-box-shadow: 0px 2px 4px #1a1a1a;
+	-moz-box-shadow: 0px 2px 4px #1a1a1a;
+	box-shadow: 0px 2px 4px #1a1a1a; 
 }
 
-/** top row items (logo & links) **/
-.header-hBorder { border-bottom: 1px solid #E5DACF; }
-.header-topLinks {
-	position:relative;
-	float:right;
-	top: 21px;
-	right:22px;
-	width: 500px;
-	height:auto;
-	text-align: right; }
-
-.header-topLinks TABLE { margin: auto 0 auto auto; font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
-.header-topLinks TD { padding: 0 0 0 11px; }
-.header-topLinks A:LINK { color:#039; text-decoration: none; }
-.header-topLinks A:HOVER { color:#039; text-decoration: underline; }
-.header-topLinks A:VISITED { color:#039; text-decoration: none; }
-.header-topLinks A:VISITED:HOVER { color:#039; text-decoration: underline; }
-
-/** text graphics row styles (free shipping & BML) **/
-.header-info {
-	float:left; position:relative; width: 778px;height:45px; }
-.header-infoContainer {
-	float:left; position:relative; left: 19px;width: 400px;height:45px; }
-
-
-/* ========================================================================================================= */
-
-/**** MAIN NAV BUTTONS & DROPDOWNS ****/
-
-.header-topNav {
-	z-index:99999 !important;
-}
-.topNavWrapTD {
-	/*background:#2574c3;*/
-	width: 769px;
-	height: 38px;
-	padding:0px;
-	z-index:99999 !important;
+.navlist-main li ul li.bottom {
+   -moz-border-radius:0px 0px 4px 4px;
+   -webkit-border-radius:0px 0px 4px 4px;
+   border-radius:0px 0px 4px 4px;
 }
 
-/**** Main Navigation ****/
+</style>      
+<link href="/Content/style/theme-grey-red.css?v=2" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+var blowerfish = {
+	init: function() {
+		//Add JS Behavior for IE for activating the menus.  
+		//		Note: An unexpected behavior exists that moving from the LI to the child UL causes the 'mouseout' event to fire
+		//			on the main LI, casuing the function to fire.
+		//		Note: I tried using an .invoke('observe') method, but it did not work correctly in IE.  
+		if(document.all) {
+			$('.navlist-main > li').each(
+				function(index, e) {
+					e.onmouseover = function() { $(this).addClass('navover'); blowerfish.hideSelects(); }
+					e.onmouseout = function() { $(this).removeClass('navover'); blowerfish.showSelects(); }
+				}
+			);
+		}
+		
+		//Add Sticky Class to keep the top level menu lit-up.
+		$('.navlist-main > li > ul').mouseover( function() { $(this).parent('li').addClass('navsticky'); } );
+		$('.navlist-main > li > ul').mouseout( function() { $(this).parent('li').removeClass('navsticky'); } );
+	},
+	
+	hideSelects: function() {
+		$('#refineBar select').css('visibility', 'hidden');
+		$('.sortBar select').css('visibility', 'hidden');
+	},
 
-.topNavTable { position:relative; left:10px; z-index:99999;}
-
-#topNav {
-	font-family: Arial, Helvetica, sans-serif !important;
-	font-size: 11px;
-	float: left;
-	clear: right;
-	position: relative;
-	z-index: 99998;
-	height:21px;
-}
-#topNav h5 { font-family:Arial; font-size:8px; display:none; }
-
-
-ul#hdrNav {
-	font-family: Arial, Helvetica, sans-serif !important;
-	float: left;
-	list-style: none !important;
-	padding: 0;
-	margin: 0;
-	height: 21px;
-	z-index: 99998;
-
+	showSelects: function() {
+		$('#refineBar select').css('visibility', 'visible');
+		$('.sortBar select').css('visibility', 'visible');
 	}
-#hdrNav li { float: left; padding: 0; width: auto; list-style: none !important; z-index: 99998; }
-#hdrNav ul { float: left; list-style: none !important; /*line-height: 1*/; padding: 0; margin: 0; }
+};
 
-#headerContainer li ul {
- 	margin: 0; position: absolute; list-style: none; height:auto; display: none;}
+$(document).ready(blowerfish.init);
+/* UPDATED CART SCRIPT */
+$(document).ready(function() {
+	var cookies = new CookieManager();
+	var qty = cookies.getValue("CART_TOTAL_QUANTITY_20000", null);
+	if (qty > 0) {
+		$('#myCartActive2').html('(' + qty + ')');
+	}
+});
 
-#hdrNav .menuTop { height:21px; top:0px; cursor:pointer; margin:0; }
-ul#nav li .menuTop:hover  /* Sets background of menu headers on hover*/
-	{ background:#4595e5; }
-ul#hdrNav li a {
-	display: block;
-	text-decoration: none;
-	z-index: 99998;
+</script>
+<script type="text/javascript">
+var $j = $;
+
+function SearchSubmitOne() {
+	if (document.endeca1.Ntt.value == '') {
+		return false;
+	} else {
+		return true;
+	}
+		return false;
 }
-
-/**** NAV MENU HEADERS ****/
-
-li#topNav_Home a { width:74px; cursor: pointer; position:relative; }
-#Home_btn { /* background: url(/bdimages/famous/images/ff-nav_01.jpg) left top no-repeat;*/ border:0; width:74px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important;}
-#Home_btn_over { /* background: url(/bdimages/famous/images/ff-nav_01.jpg) left top no-repeat;*/ border:0; width:74px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important;}
-
-li#topNav_Women a { width:97px; cursor: pointer; position:relative; }
-#Women_btn { /* background: url(/bdimages/famous/images/ff-nav_02.jpg) left top no-repeat;*/ border:0; width:97px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important; }
-#Women_btn_over { /* background: url(/bdimages/famous/images/ff-nav_02.jpg) left top no-repeat;*/ border:0; width:97px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important; }
-
-li#topNav_Men a { width:71px; cursor: pointer; position:relative; }
-#Men_btn { /* background: url(/bdimages/famous/images/ff-nav_03.jpg) left top no-repeat; */  border:0; width:71px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important; }
-#Men_btn_over { /* background: url(/bdimages/famous/images/ff-nav_03.jpg) left top no-repeat; */  border:0; width:71px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important; }
-
-li#topNav_Juniors a { width:81px; cursor: pointer; position:relative; }
-#Juniors_btn { /*background: url(/bdimages/images/header-btn-kids.gif) left top no-repeat;*/ border:0; width:81px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important; }
-#Juniors_btn_over { /*background: url(/bdimages/images/header-btn-kids.gif) left top no-repeat;*/ border:0; width:81px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important; }
-
-li#topNav_Athletics a { width:85px; cursor: pointer; position:relative; }
-#Athletics_btn {/* background: url(/bdimages/famous/images/ff-nav_05.jpg) left top no-repeat;*/ border:0; width:85px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important; }
-#Athletics_btn_over {/*background: url(/bdimages/famous/images/ff-nav_05.jpg) left top no-repeat;*/ border:0; width:85px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important; }
-
-li#topNav_Kids a { width:57px; cursor: pointer; position:relative; }
-#Kids_btn { /*background: url(/bdimages/images/header-btn-kids.gif) left top no-repeat;*/ border:0; width:57px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important; }
-#Kids_btn_over { /*background: url(/bdimages/images/header-btn-kids.gif) left top no-repeat;*/ border:0; width:57px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important; }
-
-li#topNav_Accessories a#acc { width:101px; cursor: pointer; position:relative; }
-#Accessories_btn { /* background: url(/bdimages/famous/images/ff-nav_07.jpg) left top no-repeat; */ border:0; width:101px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important; }
-#Accessories_btn_over { /* background: url(/bdimages/famous/images/ff-nav_07.jpg) left top no-repeat; */ border:0; width:101px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important; }
-
-li#topNav_Brands a { width:109px; cursor: pointer; position:relative; }
-#Brands_btn { /*background: url(/bdimages/famous/images/ff-nav_08.jpg) left top no-repeat; */ border:0; width:109px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important; }
-#Brands_btn_over { /*background: url(/bdimages/famous/images/ff-nav_08.jpg) left top no-repeat; */ border:0; width:109px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important; }
-
-li#topNav_Sale a { width:85px; cursor: pointer; position:relative; }
-#Sale_btn {/*background: url(/bdimages/famous/images/ff-nav_09.jpg) left top no-repeat;*/ border:0; width:85px; height:21px; position:absolute !important; cursor:pointer; display:block; z-index: 99999; top:0px !important; }
-#Sale_btn_over {/*background: url(/bdimages/famous/images/ff-nav_09.jpg) left top no-repeat;*/ border:0; width:85px; height:21px; position:absolute !important; cursor:pointer; display:none; z-index: 99999; top:0px !important; }
-
-/**** Styles for Menu Items ****/
-ul#blueBrdr { text-align:left; background:#4595e5; width:133px; z-index:99999; }
-
-ul#blueBrdr li {
-	font-family: Arial, Helvetica, sans-serif !important;
-	padding:0 !important;
-	background:#4595e5;
-	width: 130px;
-	z-index: 50;
-	list-style: none !important;
+function SearchSubmit() {
+	if (document.endeca2.Ntt.value == '') {
+		return false;
+	} else {
+		return true;
+	}
+		return false;
 }
-
-ul#blueBrdr li a {	
-	font-family: verdana, arial, Helvetica, sans-serif !important;
-	float:left;
-	display: block;
-	width:100% !important;
-	text-decoration: none;
-	background:#efe9dd; /* IE6 Bug */
-	padding: 3px 0 2px 0;
-	margin:0;
+$(document).ready(function() {
+	/* CHANGE Z-INDEX OF ACTIVE LIST ELEMENT FOR IE */
+	$('.navlist-main .navlist-drop a.button').mouseenter(function() {
+		$(this).parent('li').css({ 'z-index' : '4' });
+	}).mouseleave(function() {
+		$(this).parent('li').removeAttr('style');
+	});
 	
-	
-	color: #845238;
-	font-size: 10px;
-	background-color: #efe9dd;
-	height: auto;
-	border-style: solid;
-	border-width: 0 1px 1px;
-	border-color: #ba1319;
-	text-align:left;
-}
-
-ul#blueBrdr li a span {
-	position:relative;
-	left:2px;
-}
-
-/* Fix IE. Hide from IE Mac \*/
-* html #headerContainer ul li { float: left; height: 1%; }
-* html #headerContainer ul li a { height: 1%; }
-/* End */
-
-.topLine {border-top:1px solid #ba1319 !important;  /*border-right:0 !important;*/ background:#4595e5; width:133px; }
-/*.topLine a:hover { background:#515151;}
-li.topLine:hover { background:#515151; }*/
-
-ul#blueBrdr li a:hover { color:#FFF; font-weight: normal; background: #845238; z-index: 99999; } /* Hover Styles */
-
-#hdrNav li:hover ul, #hdrNav li.over ul { display: block; }
-
-.bot  /* Style for bottom space of dropdown */
-	{ /*border-bottom:5px solid #4595e5;*/ }
-
-/* ========================================================================================================= */
-
-
-#searchSelect { font-size:11px; color:#666; border: 1px solid #94ADC5; }
-.searchBar { text-align:right; }
-.searchBar TABLE { margin:auto 0 auto auto; }
-.mainSearchBox {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	color:#666;
-	height: 18px;
-	width: 120px;
-	margin: 0 0 0px 0;
-	padding: 0 0 0 5px;
-	border: 1px solid #94ADC5;
-}
-
-.mainSearchBtn {
-	background: url(/bdimages/nav2006/header-srch-btn.gif) no-repeat;
-	position:relative;
-	top:4px;
-	margin:0 9px 0 3px;
-	width:63px;
-	height:17px;
-	cursor: pointer;
+	/* AUTO CHECK INPUT VALUE WITH TITLE VALUE */
+	$('input:visible').focus(function() {
+			if ($(this).val() == $(this).attr('title')) {			
+				if ($(this).attr('title')) { $(this).val(''); }
+			}
+		}).blur(function() {
+			if ($(this).val() == '') {
+				if ($(this).attr('title')) { $(this).val($(this).attr('title')); }
+			}
+		});
+		
+	/* IMPLEMENT SEARCH FUNCTIONALITY */
+	$('#search-button').click(function() {
+		var searchVal = escape($('#search-box').val());
+		if (searchVal != '') {
+			window.location ='/Shopping/Results.aspx?N=0&Ntk=SearchInterface&Ntt=' + searchVal + '&Ntx=mode%2Bmatchallany&Nty=1';
+		}
+		return false;
+	});
+	var rootURL = window.location.href;
+	var pos = rootURL.indexOf('.com') + 4;
+	rootURL = rootURL.substr(0, pos);
+	$('#search-box').keyup(function(e) {
+	  if(e.keyCode == 13) {
+		  var key = $("#search-box").attr("value");
+		  if (key != '') {
+			 window.location = rootURL + '/Shopping/Results.aspx?N=0&Ntk=SearchInterface&Ntt='+ key +'&Ntx=mode%2Bmatchallany&Nty=1';
+		  }
+		  else {
+			return false;
+		  }
+	  }
+  	});
+});
+</script>
+<script type="text/javascript" src="/Content/scripts/livequery/jquery.livequeryNoConflict.js"></script>
+<!--[if lte IE 7]>
+<style>
+input#search-box {
+	font-style:normal;
+	color:#5e5e5e;
 }
 </style>
+<![endif]-->
 
-<div style="z-index:9999999;">
+<!-- **************** -->
+<!-- ORIGINAL VERSION -->
+<!-- **************** -->
 
-<table cellpadding="0" cellspacing="0" width="778" id="headerContainer">
-	<tbody><tr>
-		<td><div class="header-topNav">
+<div class="origVarColor">
+    <div id="topnav-upper">
+        <a id="topnav-logo-mtf" href="http://www.famousfootwear.com" title="Famous Footwear"><img src="/Content/core/icons/ff-logo-bright-cherry.gif" width="230" height="82" border="0"></a>
+        
+        
+    
+        
+    <div id="topnav-service">
+    
+    
+            <ul>
+              <li><a href="/Profiles/WelcomeDashboard.aspx" rel="nofollow">my account</a>&nbsp;|&nbsp;</li>
+              <li><a href="/trackorder?src=top" rel="nofollow">order status</a>&nbsp;|&nbsp;</li>
+              <li><a href="/Community/StoreLocator.aspx">store locator</a>&nbsp;|&nbsp;</li>
+              <li><a href="/Profiles/WelcomeDashboard.aspx" rel="nofollow">wishlist</a>&nbsp;|&nbsp;</li>
+              <li id="topnav-help"><a href="/Content.aspx?contentID=CUSTSERV" rel="nofollow">help</a>&nbsp;|&nbsp;</li>
+                           <li><a href="/Checkout/Cart.aspx" rel="nofollow" class="noLink">my cart <span id="myCartActive"></span></a></li>
 
-			<table cellpadding="0" cellspacing="0" width="100%" id="Table4">
-				<tbody><tr>
-					<td colspan="2" class="topNavWrapTD">
-						<table cellpadding="0" cellspacing="0" width="100%" border="0" id="Table5">
-							<tbody><tr>
-								<td><table border="0" cellpadding="0" cellspacing="0" class="topNavTable" id="Table6">
-									  <tbody><tr>
-										<td id="topNav">
-										<script language="javascript">
-										<!--
-										function hideIt(toHide){
-											return;
-											var ecks = document.getElementById(toHide);
-											if(ecks != null){
-											  if ((ecks.style.visibility == 'visible')||(ecks.style.visibility == '')){
-											  	  ecks.style.visibility = 'hidden'; }
-											 }
-											}
-										function showIt (toShow){
-											return;
-											var whye = document.getElementById(toShow);
-											if(whye != null){
-											  if (whye.style.visibility == 'hidden'){
-											  	  whye.style.visibility = 'visible'; }
-											 }
-											}
-										//-->
-										</script>
+                        
+            </ul>
+   
+        </div>
+        
+        
+      </div>
+        <div id="topnav-bar">
+        <div id="topnav">
+        
+        <div id="topnav-search">
+          <form name="endeca1" method="get" action="/Shopping/Results.aspx?" onsubmit="return SearchSubmitOne();">	      <input name="N" type="hidden" value="0">
+    <input type="hidden" name="Ntk" value="SearchInterface">  	      
+    <div id="top-search-box">
+    <input id="Ntt" name="Ntt" type="text" class="sf_inactive">
+    </div>
+    <input type="hidden" name="Ntx" value="mode+matchallany">
+        <input type="hidden" name="Nty" value="1">
+    
+              <a href="javascript:document.endeca1.submit();" class="btn-search-submit" title="Search">Search</a>
+          </form>
+        </div>
+    
+        
+        
+        <ul class="navlist-main"><li><a class="top-level" href="http://www.famousfootwear.com">home</a></li>
+            <li><a class="top-level" href="/Shopping/Results.aspx?N=6207">women</a>
+                <ul>
+                    <li><a href="/Shopping/Results.aspx?N=6207">view all</a></li>
+                    <li><a href="/shopping/Results.aspx?N=4294965930+6207">new arrivals</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957537+6207">athletic shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294967251+6207">boots</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294961719+6211">slippers</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957630+6207">casual shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957708+6207">dress shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294967138+6207">sandals</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294961980+6207">wides</a></li>
+                    <li class="bottom"><a href="/Shopping/Results.aspx?N=4294961979+6207">narrows</a></li>
+                 
+                </ul>
+            </li>
+            <li><a class="top-level" href="/Shopping/Results.aspx?N=6208">men</a>
+                <ul>
+                    <li><a href="/Shopping/Results.aspx?N=6208">view all</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294965930+6208">new arrivals</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957537+6208">athletic shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294967251+6208">boots</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294961718+6211">slippers</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957630+6208">casual shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957708+6208">dress shoes</a></li>
+                    <li><a href="/shopping/results.aspx?N=4294967138+6208">sandals</a></li>
+                    <li class="bottom"><a href="/Shopping/Results.aspx?N=4294961980+6208">wides</a></li>
+           </ul>
+            </li>
+            <li><a class="top-level" href="/Shopping/Results.aspx?N=6347">juniors</a>
+                <ul>
+                    <li><a href="/Shopping/Results.aspx?N=6347">view all</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294965930+6347">new arrivals</a></li>
+                     <li><a href="/Shopping/Results.aspx?N=4294957537+6347">athletic shoes</a></li>
+                     <li><a href="/Shopping/Results.aspx?N=4294967251+6347">boots</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957630+6347">casual shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957708+6347">dress shoes</a></li>
+                    <li class="bottom"><a href="/shopping/results.aspx?N=4294967138+6347">sandals</a></li>
+                 
+                  
+              </ul>
+            </li>
+           <li><a class="top-level" href="/Shopping/Results.aspx?N=6209">girls</a>
+                <ul>
+                    <li><a href="/Shopping/Results.aspx?N=6209">view all</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294965930+6209">new arrivals</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957537+6209">athletic shoes</a></li>
+                     <li><a href="/Shopping/Results.aspx?N=4294967251+6209">boots</a></li>
+                     <li><a href="/Shopping/Results.aspx?N=4294961713+6211">slippers</a></li>
+                     <li><a href="/Shopping/Results.aspx?N=4294957630+6209">casual shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957708+6209">dress shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294967138+6209">sandals</a></li>
+                     <li class="bottom"><a href="/Shopping/Results.aspx?N=6209+6343">infants</a></li>
+<li class="bottom"><a href="/Shopping/Results.aspx?N=6209+6344">toddlers</a></li>
+    </ul>
+            </li>
+           <li><a class="top-level" href="/Shopping/Results.aspx?N=6210">boys</a>
+                        <ul>
+                    <li><a href="/Shopping/Results.aspx?N=6210">view all</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294965930+6210">new arrivals</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957537+6210">athletic shoes</a></li>
+                     <li><a href="/Shopping/Results.aspx?N=4294967251+6210">boots</a></li>
+                     <li><a href="/Shopping/Results.aspx?N=4294961714+6210">slippers</a></li>
+                     <li><a href="/Shopping/Results.aspx?N=4294957630+6210">casual shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294957708+6210">dress shoes</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294967138+6210">sandals</a></li>
+                     <li class="bottom"><a href="/Shopping/Results.aspx?N=6210+6343">infants</a></li>
+<li class="bottom"><a href="/Shopping/Results.aspx?N=6210+6344">toddlers</a></li>
+                </ul>
+            </li>
+            <li><a class="top-level" href="/Shopping/Results.aspx?N=6211">accessories</a>
+          <ul>
+                    <li><a href="/Shopping/Results.aspx?N=6211">view all</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294965930+6211">new arrivals</a></li>
+                    <li><a href="/Shopping/Results.aspx?N=4294961961+6211">backpacks</a></li>
+                        
+        <li><a href="/Shopping/Results.aspx?N=4294961883+6211">gymsacks</a></li>
+        <li><a href="/Shopping/Results.aspx?N=4294966196+6211">handbags</a></li>
 
-											<ul id="hdrNav" name="hdrNav">
-											  <li id="topNav_Home"><a href="http://www.famousfootwear.com" class="menuTop" id="home" onmouseover="tabON('Home_btn');" onmouseout="tabOFF('Home_btn');"><img id="Home_btn" title="Home" src="/bdimages/famous/images/ff-nav_01.jpg"><img id="Home_btn_over" title="Home" src="/bdimages/famous/images/ff-nav_01-over.jpg"><!--<h5>Home</h5></div>--></a>
-											  </li>
-											  <li id="topNav_Women"><a href="http://www.famousfootwear.com/shop/womens.asp" class="menuTop" id="women" onmouseover="tabON('Women_btn');" onmouseout="tabOFF('Women_btn');solidBG();"><img src="/bdimages/famous/images/ff-nav_02.jpg" id="Women_btn" title="Women"><img src="/bdimages/famous/images/ff-nav_02-over.jpg" id="Women_btn_over" title="Women"><!--<h5>Women</h5></div>--></a>
-												  <ul id="blueBrdr" onmouseover="tabON('Women_btn');" onmouseout="tabOFF('Women_btn');solidBG();">
-													<div style="z-index:10000; position:absolute;">
-														<li><a href="http://search.famousfootwear.com/?Query=Womens" onfocus="if(this.blur)this.blur();" class="topLine"><span>view all</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=Womens+New+Arrival" onfocus="if(this.blur)this.blur();"><span>new arrivals</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=Womens+Boots" onfocus="if(this.blur)this.blur();"><span>boots</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=Womens+Casual" onfocus="if(this.blur)this.blur();"><span>casual</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=Womens+Dress" onfocus="if(this.blur)this.blur();"><span>dress</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=juniors" onfocus="if(this.blur)this.blur();"><span>juniors</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=Womens+Sandals" onfocus="if(this.blur)this.blur();"><span>sandals</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=womens+wides" onfocus="if(this.blur)this.blur();"><span>wides</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=womens+narrows" onfocus="if(this.blur)this.blur();"><span>narrows</span></a></li>
-														<li><a href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();"><span>bags and backpacks</span></a></li>
-														<li class="bot"><a href="http://search.famousfootwear.com/?Query=Womens+socks" onfocus="if(this.blur)this.blur();"><span>socks</span></a></li>
-													</div>
-
-												  </ul>
-											  </li>
-											  <li id="topNav_Men"><a href="http://www.famousfootwear.com/shop/mens.asp" class="menuTop" id="men" onmouseover="tabON('Men_btn');hideIt('selSortBy');" onmouseout="tabOFF('Men_btn');solidBG();showIt('selSortBy');"><img src="/bdimages/famous/images/ff-nav_03.jpg" id="Men_btn" title="Men"><img src="/bdimages/famous/images/ff-nav_03-over.jpg" id="Men_btn_over" title="Men"><!--<h5>Men</h5></div>--></a>
-												  <ul id="blueBrdr" onmouseover="tabON('Men_btn');hideIt('selSortBy');" onmouseout="tabOFF('Men_btn');solidBG();showIt('selSortBy');">
-													<div style="z-index:10000; position:absolute;">
-				<li><a href="http://search.famousfootwear.com/?Query=Mens" onfocus="if(this.blur)this.blur();" class="topLine"><span>view all</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mens+New+Arrival" onfocus="if(this.blur)this.blur();"><span>new arrivals</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mens+Boots" onfocus="if(this.blur)this.blur();"><span>boots</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mens+Casual" onfocus="if(this.blur)this.blur();"><span>casual</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mens+Dress" onfocus="if(this.blur)this.blur();"><span>dress</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mens+Sandals" onfocus="if(this.blur)this.blur();"><span>sandals</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mens+wides" onfocus="if(this.blur)this.blur();"><span>wides</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mens+narrows" onfocus="if(this.blur)this.blur();"><span>narrows</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();"><span>bags and backpacks</span></a></li>
-				<li class="bot"><a href="http://search.famousfootwear.com/?Query=Mens+socks" onfocus="if(this.blur)this.blur();"><span>socks</span></a></li>
-													</div>
-												  </ul>
-											  </li>
-											  
-											  <li id="topNav_Juniors"><a href="http://www.famousfootwear.com/shop.asp?shopID=JUNIORS" class="menuTop" id="juniors" onmouseover="tabON('Juniors_btn');hideIt('selSortBy');" onmouseout="tabOFF('Juniors_btn');solidBG();showIt('selSortBy');"><img src="/bdimages/famous/images/ff-nav_04.jpg" id="Juniors_btn" title="Juniors"><img src="/bdimages/famous/images/ff-nav_04-over.jpg" id="Juniors_btn_over" title="Juniors"><!--<h5>Kids</h5></div>--></a>
-												  <ul id="blueBrdr" onmouseover="tabON('Juniors_btn');hideIt('selSortBy');" onmouseout="tabOFF('Juniors_btn');solidBG();showIt('selSortBy');">
-													<div style="z-index:10000; position:absolute;">
-				<li><a href="http://search.famousfootwear.com/?Query=juniors" onfocus="if(this.blur)this.blur();" class="topLine"><span>view all</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=juniors+New+Arrival" onfocus="if(this.blur)this.blur();"><span>new arrivals</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=juniors+Boots" onfocus="if(this.blur)this.blur();"><span>boots</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=juniors+Casual" onfocus="if(this.blur)this.blur();"><span>casual</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=juniors+Dress" onfocus="if(this.blur)this.blur();"><span>dress</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=juniors+Sandals" onfocus="if(this.blur)this.blur();"><span>sandals</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();"><span>bags and backpacks</span></a></li>
-				<li class="bot"><a href="http://search.famousfootwear.com/?Query=Womens+socks" onfocus="if(this.blur)this.blur();"><span>socks</span></a></li>
-
-													</div>
-												  </ul>
-											  </li>
-											  <li id="topNav_Athletics"><a href="http://www.famousfootwear.com/shop/athletics.asp" class="menuTop" id="athletics" onmouseover="tabON('Athletics_btn');hideIt('selSortBy');" onmouseout="tabOFF('Athletics_btn');solidBG();showIt('selSortBy');"><img src="/bdimages/famous/images/ff-nav_05.jpg" id="Athletics_btn" title="Athletics"><img src="/bdimages/famous/images/ff-nav_05-over.jpg" id="Athletics_btn_over" title="Athletics"><!--<h5>Kids</h5></div>--></a>
-												  <ul id="blueBrdr" onmouseover="tabON('Athletics_btn');hideIt('selSortBy');" onmouseout="tabOFF('Athletics_btn');solidBG();showIt('selSortBy');">
-													<div style="z-index:10000; position:absolute;">
-				<li><a href="http://search.famousfootwear.com/?Query=Athletics" onfocus="if(this.blur)this.blur();" class="topLine"><span>view all</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Athletics+New+Arrival" onfocus="if(this.blur)this.blur();"><span>new arrivals</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Athletics+Womens" onfocus="if(this.blur)this.blur();"><span>women</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Athletics+Mens" onfocus="if(this.blur)this.blur();"><span>men</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Athletics+Boys" onfocus="if(this.blur)this.blur();"><span>boys</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Athletics+Girls" onfocus="if(this.blur)this.blur();"><span>girls</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=basketball" onfocus="if(this.blur)this.blur();"><span>basketball</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=fashion+athletics" onfocus="if(this.blur)this.blur();"><span>fashion</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=golf" onfocus="if(this.blur)this.blur();"><span>golf</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=mens+running" onfocus="if(this.blur)this.blur();"><span>mens running</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=womens+running" onfocus="if(this.blur)this.blur();"><span>womens running</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=sandals+athletics" onfocus="if(this.blur)this.blur();"><span>sandals</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=skate" onfocus="if(this.blur)this.blur();"><span>skate</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=soccer" onfocus="if(this.blur)this.blur();"><span>soccer</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=trail" onfocus="if(this.blur)this.blur();"><span>trail</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=walking" onfocus="if(this.blur)this.blur();"><span>walking</span></a></li>
-				<li><a href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onfocus="if(this.blur)this.blur();"><span>bags and backpacks</span></a></li>
-				<li class="bot"><a href="http://search.famousfootwear.com/?Query=socks" onfocus="if(this.blur)this.blur();"><span>socks</span></a></li>
-													</div>
-												  </ul>
-											  </li>											  
-											  <li id="topNav_Kids"><a href="http://www.famousfootwear.com/shop/kids.asp" class="menuTop" id="kids" onmouseover="tabON('Kids_btn');hideIt('selSortBy');" onmouseout="tabOFF('Kids_btn');solidBG();showIt('selSortBy');"><img src="/bdimages/famous/images/ff-nav_06.jpg" id="Kids_btn" title="Kids"><img src="/bdimages/famous/images/ff-nav_06-over.jpg" id="Kids_btn_over" title="Kids"><!--<h5>Kids</h5></div>--></a>
-												  <ul id="blueBrdr" onmouseover="tabON('Kids_btn');hideIt('selSortBy');" onmouseout="tabOFF('Kids_btn');solidBG();showIt('selSortBy');">
-													<div style="z-index:10000; position:absolute;">
-				<li><a href="http://search.famousfootwear.com/?Query=kids" onfocus="if(this.blur)this.blur();" class="topLine"><span>view all</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Kids+New+Arrival" onfocus="if(this.blur)this.blur();"><span>new arrivals</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Kids+Boys" onfocus="if(this.blur)this.blur();"><span>boys</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Kids+Girls" onfocus="if(this.blur)this.blur();"><span>girls</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Kids+Little Kids" onfocus="if(this.blur)this.blur();"><span>little kids</span></a></li>
-				<li><a href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onfocus="if(this.blur)this.blur();"><span>bags and backpacks</span></a></li>
-				<li class="bot"><a href="http://search.famousfootwear.com/?Query=Accessories+Socks+Kids" onfocus="if(this.blur)this.blur();"><span>socks</span></a></li>
-													</div>
-												  </ul>
-											  </li>
-											  <li id="topNav_Accessories"><a href="http://search.famousfootwear.com/?Query=Accessories" class="menuTop" id="acc" onmouseover="tabON('Accessories_btn');hideIt('selSortBy');" onmouseout="tabOFF('Accessories_btn');solidBG();showIt('selSortBy');"><img src="/bdimages/famous/images/ff-nav_07.jpg" id="Accessories_btn" title="Accessories"><img src="/bdimages/famous/images/ff-nav_07-over.jpg" id="Accessories_btn_over" title="Accessories"><!--<h5>Accessories</h5></div>--></a>
-												  <ul id="blueBrdr" onmouseover="tabON('Accessories_btn');hideIt('selSortBy');" onmouseout="tabOFF('Accessories_btn');solidBG();showIt('selSortBy');">
-													<div style="z-index:10000; position:absolute;">
-				<li><a href="http://search.famousfootwear.com/?Query=Accessories" onfocus="if(this.blur)this.blur();" class="topLine"><span>view all</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Accessories+New+Arrivals" onfocus="if(this.blur)this.blur();"><span>new arrivals</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Accessories+Socks" onfocus="if(this.blur)this.blur();"><span>socks</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Laces" onfocus="if(this.blur)this.blur();"><span>laces</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Shoe+Care+Insoles" onfocus="if(this.blur)this.blur();"><span>shoe care and insoles</span></a></li>
-				<li class="bot"><a href="http://search.famousfootwear.com/?Query=backpacks+bags" onfocus="if(this.blur)this.blur();"><span>backs and backpacks</span></a></li>													</div>
-												  </ul>
-											  </li>
-											  <li id="topNav_Brands"><a href="http://www.famousfootwear.com/shop/brands.asp" class="menuTop" id="brands" onmouseover="tabON('Brands_btn');hideIt('selSortBy');" onmouseout="tabOFF('Brands_btn');solidBG();showIt('selSortBy');"><img src="/bdimages/famous/images/ff-nav_08.jpg" id="Brands_btn" title="Brands"><img src="/bdimages/famous/images/ff-nav_08-over.jpg" id="Brands_btn_over" title="Brands"><!--<h5>Brands</h5></div>--></a>
-											  	  <ul id="blueBrdr" onmouseover="tabON('Brands_btn');hideIt('selSortBy');" onmouseout="tabOFF('Brands_btn');solidBG();showIt('selSortBy');">
-													<div style="z-index:10000; position:absolute;">				
-													<li><a href="http://www.famousfootwear.com/shop/brands.asp" onfocus="if(this.blur)this.blur();" class="topLine"><span>view all brands</span></a></li>
-													
-				<li><a href="http://search.famousfootwear.com/?Query=Adidas" onfocus="if(this.blur)this.blur();"><span>Adidas</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Buster+Brown" onfocus="if(this.blur)this.blur();"><span>Buster Brown</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Clarks" onfocus="if(this.blur)this.blur();"><span>Clarks</span></a></li>
-				<li><a href="http://www.famousfootwear.com/category.asp?Brand=COLUM" onfocus="if(this.blur)this.blur();"><span>Columbia</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Connie" onfocus="if(this.blur)this.blur();"><span>Connie</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Converse" onfocus="if(this.blur)this.blur();"><span>Converse</span></a></li>
-				<li><a href="http://www.famousfootwear.com/category.asp?Brand=DC" onfocus="if(this.blur)this.blur();"><span>DC</span></a></li>				
-				<li><a href="http://search.famousfootwear.com/?Query=Lifestride" onfocus="if(this.blur)this.blur();"><span>Lifestride</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mudd" onfocus="if(this.blur)this.blur();"><span>Mudd</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Naturalizer" onfocus="if(this.blur)this.blur();"><span>Naturalizer</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=New+Balance" onfocus="if(this.blur)this.blur();"><span>New Balance</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Nike" onfocus="if(this.blur)this.blur();"><span>Nike</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Rampage" onfocus="if(this.blur)this.blur();"><span>Rampage</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Reebok" onfocus="if(this.blur)this.blur();"><span>Reebok</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Report" onfocus="if(this.blur)this.blur();"><span>Report</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Rockport" onfocus="if(this.blur)this.blur();"><span>Rockport</span></a></li>
-				<li><a href="http://www.famousfootwear.com/category.asp?Brand=ROXY" onfocus="if(this.blur)this.blur();"><span>Roxy</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Skechers" onfocus="if(this.blur)this.blur();"><span>Skechers</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Steve+Madden" onfocus="if(this.blur)this.blur();"><span>Steve Madden</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Timberland" onfocus="if(this.blur)this.blur();"><span>Timberland</span></a></li>
-				<li><a href="http://www.famousfootwear.com/category.asp?Brand=WHAT" onfocus="if(this.blur)this.blur();"><span>What's What</span></a></li>
-				<li class="bot"><a href="http://www.famousfootwear.com/shop/brands.asp" onfocus="if(this.blur)this.blur();"><span>view all brands</span></a></li>
-													</div>
-												  </ul>
-											  </li>
-											  <li id="topNav_Sale"><a href="http://search.famousfootwear.com/?Query=Sale" class="menuTop" id="sale" onmouseover="tabON('Sale_btn');" onmouseout="tabOFF('Sale_btn');solidBG();"><img src="/bdimages/famous/images/ff-nav_09.jpg" id="Sale_btn" title="Sale"><img src="/bdimages/famous/images/ff-nav_09-over.jpg" id="Sale_btn_over" title="Sale"><!--<h5>Sale</h5></div>--></a>
-												  <ul id="blueBrdr" onmouseover="tabON('Sale_btn');" onmouseout="tabOFF('Sale_btn');solidBG();">
-
-													<div style="z-index:10000; position:absolute;">
-				<li><a href="http://search.famousfootwear.com/?Query=finds" onfocus="if(this.blur)this.blur();" class="topLine"><span>famous finds</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Womens+On+Sale" onfocus="if(this.blur)this.blur();"><span>womens</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Mens+On+Sale" onfocus="if(this.blur)this.blur();"><span>mens</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Kids+On+Sale" onfocus="if(this.blur)this.blur();"><span>kids</span></a></li>
-				<li><a href="http://search.famousfootwear.com/?Query=Athletics+On+Sale" onfocus="if(this.blur)this.blur();"><span>athletic</span></a></li>
-													</div>
-												  </ul>
-
-											  </li>
-
-											</ul>
-										</td>
-									  </tr>
-    								</tbody></table></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-
-			</tbody></table>
-		</div></td>
-	</tr>
-</tbody></table>
+<!--     <li><a href="/Shopping/Results.aspx?N=4294966174+6211">sports</a></li> -->
+        <li><a href="/Shopping/Results.aspx?N=4294966178+6211">socks/hosiery</a></li>
+    <li><a href="/Shopping/Results.aspx?N=4294961720+6211">slippers</a></li>
+                    <li class="bottom"><a href="/Shopping/Results.aspx?N=4294961960+6211">totes</a></li>
+    
+            </ul>
+            </li>
+            <li><a class="top-level" href="/Shopping/MoreBrands.aspx">brands</a>
+                <ul>
+                    <li><a href="/Shopping/MoreBrands.aspx">view all</a></li>
+                    <li><a href="/Shopping/MoreBrands.aspx?show=W#AllBrands">womens shoes</a></li>
+                    <li><a href="/Shopping/MoreBrands.aspx?show=M#AllBrands">mens shoes</a></li>
+                  <li><a href="/Shopping/MoreBrands.aspx?show=J#AllBrands">juniors shoes</a></li>
+                    <li><a href="/Shopping/MoreBrands.aspx?show=G#AllBrands">girls shoes</a></li>
+     <li><a href="/Shopping/MoreBrands.aspx?show=BY#AllBrands">boys shoes</a></li>
+                    <li class="bottom"><a href="/Shopping/MoreBrands.aspx?show=A#AllBrands">accessories</a></li>
+                </ul>
+            </li>
+           <li><a class="top-level" href="/shopping/results.aspx?N=4294965982">SALE</a>
+                <ul>
+                 <li><a href="/Shopping/Results.aspx?N=4294965982+6207">womens</a></li>
+               <li><a href="/Shopping/Results.aspx?N=4294965982+6208">mens</a></li>
+                  <li><a href="/Shopping/Results.aspx?N=4294965982+6347">juniors</a></li>
+                   <li><a href="/Shopping/Results.aspx?N=4294965982+6209">girls</a></li>
+                  <li class="bottom"><a href="/Shopping/Results.aspx?N=4294965982+6210">boys</a></li>
+                </ul>
+            </li>
+        </ul>
+          
+    
+        <div class="clear"></div>
+    </div>
+    </div>
 </div>
-<script language="javascript">
-function tabON(name) 
-{
-	document.getElementById(name).style.display = 'none';
-	document.getElementById(name + '_over').style.display = 'block';
-}
-function tabOFF(name) {
-	document.getElementById(name + '_over').style.display = 'none';
-	document.getElementById(name).style.display = 'block';
-}
-</script>
 
-<!-- SNIFFER SCRIPT THAT ALLOWS THE APPROPRIATE TAB TO BE "ON", DEPENDING ON WHAT GENDER PAGE YOU'RE ON -->
+
+  <!-- REWARDS CONTENT HERE -->
+<div id="rewards-popup">
+		<p>REWARDS certificates are issued 4 times a year — February, April, July and November. Receive your certificates by mail or sign up to get your REWARDS certificates via email by clicking on My Account.</p>
+	<a href="#">close</a>
+</div>
+<!-- END REWARDS CONTENT HERE -->
+
+
+<!-- fix targeted coupon banners -->
+<link rel="stylesheet" href="/Content/style/bannersCoupon.css">
+<script type="text/javascript" src="/Content/scripts/bannersCoupon.js"></script>
+<!-- Shop:20000_Template_TopMargin [Main] END -->
+		</div>
+		
+		<div id="pageContainer">
+		
+			<div class="targettedCampaignBanner"></div>
+			<script src="/Scripts/TargettedCampaignBanner.js"></script>
+			
+			
+			
+
+			
+			
+			
+			
+			
+			
+			<div id="header">
+				<!-- Shop:20000_Template_Header [Main] START --><!-- SITEWIDE BANNER -->
+<link rel="stylesheet" type="text/css" href="/Content/style/bannersCoupon.css">
+<div id="sitewide" class="sitewide_banner">
+	<img width="960" height="60" border="0" src="/Content/2011/banners/wk37-20pct/wk37-20pctOff.gif" name="nfftab" usemap="#m_wk3415off75sw" alt="Shop this week's ad! Take 20% off your entire purchase; some exclusions apply">
+	<map name="m_wk3415off75sw">
+	  <area shape="rect" coords="815,31,951,56" class="printCoupon" href="#swCoupon">
+	  <area shape="rect" coords="598,43,655,58" class="showDetails" href="#swDetails">
+	</map>
+		
+	<div class="coupon-popup" id="swCoupon">
+  <div class="coupon-landing">
+			<p><a href="#" onclick="window.print()" class="print">Print</a> this coupon to shop at your local Famous Footwear store.</p>
+			<div id="couponImg">
+				<img src="/Content/2011/banners/wk37-20pct/wk37-tab-20-site-coupon.gif" class="coupon" alt="Take 20% off your entire purchase">
+			</div>
+				  <p><a href="#" onclick="window.print()" class="print">Print This</a></p>
+		</div>
+		<a href="#close" class="close">x</a>
+	</div>
+
+	<div class="details-popup" id="swDetails">
+		<h4 style="color: #B90101; font-size: 18px;">20% off</h4>
+ 		<ul>
+  <li>Add items to your shopping cart<br>
+  </li>
+  <li>Enter promo code 20SPORT at checkout to receive 20% discount<br>
+  </li>
+  <li>Discount will be deducted from your order after code is applied<br>
+  </li>
+  <li>Offer expires 11:59 p.m. CST October 15, 2011</li>
+</ul>
+<p>Coupon may be used only once in Famous Footwear, Famous Footwear Outlet  or Factory Brand Shoes stores, or online at famousfootwear.com. Not  valid in Mind Body Sole stores. Not valid on Skechers Shape-ups, Reebok  EasyTone, Reebok RunTone, Reebok RealFlex or Reebok ZigTech, for cash or  cash equivalent, on purchase of gift cards or previously purchased  merchandise. On famousfootwear.com, coupon not valid on K-Swiss or  select ASICS styles. Other exclusions may apply, ask store associate for  details. Offer may not be combined with any other coupons (other than  Rewards certificates). Items purchased with certificates, coupons or  special promotions will result in adjusted refund or exchange amount. To  redeem online, enter promotion code 20SPORT in the promo code box at  checkout.</p>
+
+		<a href="#close" class="close">x</a>
+	</div>
+</div>
+<!-- END SITEWIDE BANNER --><!-- Shop:20000_Template_Header [Main] END -->
+			</div>
+			
+			<form name="aspnetForm" method="post" action="/content.aspx?contentid=PRIVACY" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="WV0Y+kbDHZ+GDlyvg39czoy+SA+oatEkehd13bgsgVfLJuA1v5jD8QT0l8pIPkKtSYcjWkZisJ8htcauPrcq0jUvW/k=">
+
+
 <script type="text/javascript">
-  function solidBG() {
-	return;
-	var foo = new String(window.location);
-	var docref = new String(document.referrer);
-	winLoc = foo.toLowerCase();
-	docref = docref.toLowerCase();
-	if ((winLoc.indexOf('women') != -1)||((docref.indexOf('6207') != -1)&&(winLoc.indexOf('product')!=-1))||(winLoc.indexOf('6207') != -1)||((winLoc.indexOf('6207')!= -1)&&(winLoc.indexOf('4294965982')==-1))) {
-		tabON('women');
-		tabOFF('men');
-		tabOFF('kids');
-		tabOFF('acc');
-		tabOFF('brands');
-		tabOFF('sale');
-		}
-	if (((winLoc.indexOf('=men')!= -1)&&(winLoc.indexOf('women')==-1)) || ((winLoc.indexOf('6208')!= -1)&&(winLoc.indexOf('4294965982')==-1)) || (winLoc.indexOf('/mens.asp') != -1) || (winLoc.indexOf('6208') != -1) || ((docref.indexOf('6208') != -1)&&(winLoc.indexOf('product') != -1))) {
-		tabON('men');
-		tabOFF('women');
-		tabOFF('kids');
-		tabOFF('acc');
-		tabOFF('brands');
-		tabOFF('sale');
-		}
-	if ((winLoc.indexOf('kids') != -1) || (winLoc.indexOf('6209') != -1) || (winLoc.indexOf('6210') != -1) || (winLoc.indexOf('6214') != -1) || ((docref.indexOf('6209') != -1)&&(winLoc.indexOf('product')!=-1)) || ((docref.indexOf('6210') != -1)&&(winLoc.indexOf('product')!=-1)) || ((docref.indexOf('6214') != -1)&&(winLoc.indexOf('product')!=-1)) || ((winLoc.indexOf('6209')!= -1)&&(winLoc.indexOf('4294965982')==-1)) || ((winLoc.indexOf('6210')!= -1)&&(winLoc.indexOf('4294965982')==-1)) || ((winLoc.indexOf('6214')!= -1)&&(winLoc.indexOf('4294965982')==-1))) {
-		tabON('kids');
-		tabOFF('women');
-		tabOFF('men');
-		tabOFF('acc');
-		tabOFF('brands');
-		tabOFF('sale');
-		}
-	if ((winLoc.indexOf('accessories') != -1) || (winLoc.indexOf('6211') != -1) || ((docref.indexOf('6211') != -1)&&(winLoc.indexOf('product') != -1)) || ((winLoc.indexOf('6211')!= -1)&&(winLoc.indexOf('4294965982')==-1))) {
-		tabON('acc');
-		tabOFF('women');
-		tabOFF('men');
-		tabOFF('kids');
-		tabOFF('brands');
-		tabOFF('sale');
-		}
-	if (winLoc.indexOf('brands') != -1) {
-		tabON('brands');
-		tabOFF('women');
-		tabOFF('men');
-		tabOFF('kids');
-		tabOFF('acc');
-		tabOFF('sale');
-		}
-	if ((winLoc.indexOf('sale') != -1) || (winLoc.indexOf('4294965982')!= -1)) {
-		tabON('sale');
-		tabOFF('women');
-		tabOFF('men');
-		tabOFF('kids');
-		tabOFF('acc');
-		tabOFF('brands');
-		}
-
-	}
+//<![CDATA[
+  var lessSecure = 'txtfname txtlname partnerid '; 
+                                    var allowAll = '';//]]>
 </script>
 
-<!-- SCRIPT FOR DROPDOWN MENUS -->
-<script type="text/javascript">
-startList = function() {
-if (document.all&&document.getElementById) {
-navRoot = document.getElementById("hdrNav");
-for (i=0; i<navRoot.childNodes.length; i++) {
-node = navRoot.childNodes[i];
-if (node.nodeName=="LI") {
-	node.onmouseover=function() {
-		this.className+=" over";
-  	}
-  	node.onmouseout=function() {
-  		this.className=this.className.replace(" over", "");
-   	}
-   }
-  }
- }
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+			
+			<div id="content-body">
+				<table cellpadding="0" cellspacing="0" border="0" id="content-frame">
+					<tbody><tr>
+						<td colspan="2" id="content-wideShop"><div>
+    <!-- Shop:20000_PRIVACY [Top] START --><!-- Shop:20000_PRIVACY [Top] END -->    
+</div></td>
+					</tr>
+					<tr>
+						<td valign="top" id="content-nav"><div>
+    
+    <!-- Shop:20000_famous_defaultcontent [Left] START --><style>
+.left-nav-h5 {
+padding:0;
+margin:0; 
+color:#333;
+font-size:12px;
+margin-bottom:5px;
 }
-window.onload=startList;
+</style>
+<script type="text/javascript" src="/app_themes/default/scripts/custservnav.js"></script>
 
-</script>
 
-<script language="javascript">solidBG();</script>
+<div class="infoleftNav_Hdr">
+	<div>
+	  <h3><span class="infoleftNav_Hdr"><img src="/Content/core/headers/customer-service.gif" width="170" height="54" border="0" alt="My Account"></span></h3>
+  </div>
 
-<!-- END HEADER CONTENT -->
-		</td>
-	</tr>
-</tbody></table>
-</td></tr>
-<!--we would like to change the copy along this next line periodically, eventually we would like a facility to do so provided in the admin site-->
-<tr><td><!--<img src="images/spacer.gif" width="1" height="200" alt="page place holder" border="0">--><table border="0" cellspacing="0" cellpadding="0" width="540" id="Table3">
-  <tbody><tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"> 
-      <p><font size="2">This privacy statement discloses the privacy practices 
-        for FamousFootwear.com.&nbsp;&nbsp;It is effective 03/08/2005. </font></p>
-      <p>&nbsp;</p>
-      </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2">Because we want to demonstrate our commitment 
-      to your privacy, this privacy statement will notify you of:<br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2">
-      <ol>
-        <li> What personally identifiable information of yours or third party 
-          personal identification is collected from you through the website.</li>
+
+<div class="leftNav-content">
+
+		<ul class="nav-toggle-menu">
+        	  
+            <li>
+				<h5 class="left-nav-h5">Customer Service</h5>
+				
+					<ul>
+
+						<li><a href="/Content.aspx?contentID=CUSTSERV" rel="nofollow">Help</a></li>
+						<li><a href="/content.aspx?contentid=fit">Fit Assistance</a></li>
+						<li><a href="http://famousfootwear.custhelp.com/app/ask" rel="nofollow">Contact Us</a></li>
+						<li><a href="/Content.aspx?contentID=SHIPPING" rel="nofollow">Shipping Policy</a></li>
+                        <li><a href="/Content.aspx?ContentID=howtoreturn" rel="nofollow">Return Policy</a></li>
+						<li><a href="/Content.aspx?ContentID=giftcards">Gift Cards</a></li>
+                        <li><a href="Content.aspx?ContentID=security" rel="nofollow">Security Policy</a></li>
+						<li><a href="/content.aspx?contentid=PRIVACY" rel="nofollow">Privacy Policy</a></li>
+                        <li><a href="/Content.aspx?ContentID=exclusions" rel="nofollow">Exclusions</a></li>
+                        <li><a href="/Content.aspx?ContentID=terms_of_use" rel="nofollow">Terms of Use</a></li>
+					</ul>
+			
+			</li>
+              <li>
+				<h5 class="left-nav-h5">Store Information</h5>
+					<ul>
+
+						<li><a href="/Community/StoreEvents.aspx" rel="nofollow">Store Events</a></li>
+						<li><a href="/Content.aspx?ContentID=homedelivery" rel="nofollow">Home Delivery</a></li>
+		</ul>
+			</li>
+			 <li>
+				<h5 class="left-nav-h5">Company Information</h5>
+				
+					<ul>
+
+						<li><a href="/Content.aspx?ContentID=Company" rel="nofollow">About Us</a></li>
+						<li><a href="/Content.aspx?ContentID=career">Careers</a></li>
+						<li><a href="/Content.aspx?ContentID=MOD" rel="nofollow">March of Dimes</a></li>
+						<li><a href="/Content.aspx?ContentID=sitemap">Site Map</a></li>
+					</ul>
+				
+			</li>
+			<li><a href="/Content.aspx?ContentID=rewardsoverview" rel="nofollow">REWARDS Program</a></li>
+				
+			<li><a href="/Profiles/Welcome.aspx" rel="nofollow">My Account</a></li>
+			
+		</ul>
+		
+		
+
+</div>
+
+
+<!-- Shop:20000_famous_defaultcontent [Left] END -->
+</div></div></td>
+						<td valign="top" id="content-shop"><div>
+    <input type="hidden" id="SEORoutesNativeUrl" value="http://www.famousfootwear.com/content.aspx?contentid=PRIVACY">
+    
+    <!-- Shop:20000_privacy [Main] START --><style>
+#privacy li{
+list-style:decimal;
+font-size:12px;
+color:#3C1B05;
+font-family:Arial,Helvetica,sans-serif;
+line-height:18px;
+}
+</style>
+<div id="customer-service-content">
+<h1>
+	Privacy Policy
+</h1>
+<p>This privacy statement discloses the privacy practices for FamousFootwear.com.&nbsp;&nbsp;It is effective 04/05/2009.</p>
+      <p>Because we want to demonstrate our commitment to your privacy, this privacy statement will notify you of:</p>
+      <ol id="privacy">
+        <li>What personally identifiable information of yours or third party  personal identification is collected from you through the website.</li>
         <li>Who is collecting the information.</li>
         <li>How the information is used.</li>
         <li>With whom the information may be shared.</li>
-        <li>What choices are available to you regarding collection, use and distribution 
-          of the information.</li>
-        <li>The kind of security procedures that are in place to protect the loss, 
-          misuse or alteration of information under our control.</li>
+        <li>What choices are available to you regarding collection, use and distribution of the information.</li>
+        <li>The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control.</li>
         <li>How you can correct any inaccuracies in the information.</li>
       </ol>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2">If you feel that we are not abiding by our 
-      posted privacy policy, you should contact Famous Footwear.com Customer Service 
-      via email at <a href="mailto:service@famousfootwear.com">service@famousfootwear.com</a>, 
-      via postal mail at Famous Footwear, 7010 Mineral Point Road, Madison, WI 
-      53717-1701, or by telephone at <nobr>1-888-869-1053</nobr><br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Information Collection and Use</b><br>
-      Famous Footwear is an operating division of Brown Group Retail, Inc. which 
-      in turn is a wholly owned subsidiary of Brown Shoe Company, Inc. The FamousFootwear.com 
-      website is operated by the Famous Footwear Division of Brown Shoe Company. 
-      Brown Group Retail, Inc. and Brown Shoe Company, Inc. are the sole owners 
-      of all information collected on this site. This information will not be 
-      shared with, sold or rented to others in ways different from what is disclosed 
-      in this statement. This information is collected from users at several different 
-      points on the FamousFootwear.com website.<br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>REWARDS Customers</b><br>
-      In order to become a REWARDS Member, you must first complete the registration 
-      form. During registration you are required to give personal contact information 
-      (such as name and email address). This information is used to reward loyal 
-      customers for their purchases. By becoming a REWARDS Member, you are able 
-      to earn points for purchases made online, and in-store, as well as take 
-      advantage of special offers we make available to REWARDS Members about new 
-      promotions, fashion trends, etc. It is also more convenient for a REWARDS 
-      Member to make purchases online. (In order earn points for online purchase, 
-      you must remember put in your REWARDS Member number at time of checkout). 
-      <br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Orders</b><br>
-      We request information from you on our order form. Here you must provide 
-      contact information (like name and shipping address) and financial information 
-      (like credit card number, expiration date). This information is used for 
-      billing purposes and to fill customers' orders. If we have trouble processing 
-      an order, this contact information is used to get in touch with you. <br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Cookies</b><br>
-      A cookie is a piece of data stored on the hard drive of your computer, containing 
-      information about you. Usage of a cookie is in no way linked to any personally 
-      identifiable information while on our site. Once you close your browser, 
-      the cookie simply terminates. For instance, by accepting a cookie from our 
-      site, you will not have to log in your password more than once, thereby 
-      saving time while on our site. If you reject the cookie, you may still use 
-      our site. The only drawback to this is that you will be limited in some 
-      areas of our site. Cookies can also enable us to track and target the interests 
-      of our customers to enhance the experience on our site. <br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Log Files</b><br>
-      We use IP addresses to analyze trends, administer the site, track users' 
-      movements, and gather broad demographic information for aggregate use. IP 
-      addresses are not linked to personally identifiable information. <br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b><a name="sharing"></a>Sharing</b><br>
-      We use an outside shipping company to ship orders, and a credit card processing 
-      company to bill users for goods and services. These companies do not retain, 
-      share, store or use personally identifiable information for any secondary 
-      purposes.<br>
-      <br>
-      We may partner with other parties from time to time to provide specific 
-      services. The personal information you have provided us and information 
-      about your order may be shared with third parties. This information may 
-      be combined with other personally identifiable information (such as demographic 
-      information and past purchase information) available from our records and 
-      other sources. This information will be used to make our future marketing 
-      efforts more efficient. It may also be used by our marketing partners or 
-      other carefully screened companies whose products may be of interest to 
-      you. <br>
-      <br>
-      If you prefer we do not share your name and address, please see the <b> 
-      Choice and Opt-out</b> section below. If you agreed to receive email from 
-      our marketing partners, we will share with them your email address and the 
-      information described above, so they can send you offers for products and 
-      services that may be of interest to you. We will only share your e-mail 
-      address if you have opted in by checking the box labeled <b>Please send 
-      me exclusive member offers, new promotions and fashion trends</b> on the 
-      <b>REWARDS - Email and Password page.</b> Additionally, each email our partners 
-      send you will include a description of the simple opt out process to enable 
-      you to stop receiving future e-mail.<br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Links</b><br>
-      From time to time, FamousFootwear.com may contain links to other websites. 
-      Please be aware that we cannot be responsible for the privacy practices 
-      of such other sites. We encourage our users to be aware when they leave 
-      our site and to read the privacy statements of each and every website that 
-      collects personally identifiable information. This privacy statement applies 
-      solely to information collected by this site. <br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Surveys and Contests</b><br>
-      From time to time our site requests information from users via surveys or 
-      contests. Participation in these surveys or contests is completely voluntary 
-      and you therefore have a choice whether or not to disclose this information. 
-      Information requested may include contact information (such as name and 
-      shipping address), and demographic information (such as zip code, age level). 
-      Contact information will be used to notify the winners and award prizes. 
-      Survey information will be used for purposes of monitoring or improving 
-      the use and satisfaction of this site.<br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Security</b><br>
-      This website takes every precaution to protect our users' information. When 
-      you submit sensitive information via the website, your information is protected 
-      both online and off-line.<br>
-      <br>
-      When our registration form or order form asks you to enter sensitive information 
-      (such as credit card number), that information is encrypted and is protected 
-      with Secure Sockets Layer (SSL) encryption technology. While on a secure 
-      page, such as our order form, the lock icon on the bottom of web browsers 
-      such as Netscape Navigator and Microsoft Internet Explorer becomes locked, 
-      as opposed to un-locked, or open, when you are just "surfing." 
-      <br>
-      <br>
-      While we use SSL encryption to protect sensitive information online, we 
-      also do everything in our power to protect user information off-line. All 
-      of our users' information, not just the sensitive information mentioned 
-      above, is restricted in our offices. Only employees who need the information 
-      to perform a specific job (for example, our billing clerk or a customer 
-      service representative) are granted access to personally identifiable information. 
-      Furthermore, all employees are kept up-to-date on our security and privacy 
-      practices. Our employees are regularly notified and reminded about the importance 
-      we place on privacy, and what they can do to ensure our customers' information 
-      is protected. Finally, the servers on which we store personally identifiable 
-      information are kept in a secure environment. <br>
-      <br>
-      If you have questions about the security of our website, email us at <a href="mailto:service@famousfootwear.com"> 
-      service@famousfootwear.com</a>.<br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Special Offers</b><br>
-      REWARDS Members will occasionally receive information on products, services, 
-      and special promotions. Out of respect for the privacy of our users we present 
-      the option to not receive these types of communications. Please see "Choice 
-      and Opt-Out" below. <br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Site and Service Updates</b><br>
-      We also send our users site and service announcement updates. We may communicate 
-      with you to provide requested services and, in regards to issues relating 
-      to your account, via email or phone. <br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Correcting or Updating Personal Information</b><br>
-      If your personally identifiable information changes (such as your zip code), 
-      or if you no longer desire our service, we will endeavor to provide a way 
-      for you to correct, update or remove your personal data provided to us. 
-      This can usually be done at the <a href="/services/customer/editemailpassword.asp">REWARDS 
-      Customer Account</a> information page or by emailing us at <a href="mailto:service@famousfootwear.com"> 
-      service@famousfootwear.com</a>.<br>
-      <br>
-      </font> </td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Choice and Opt-out</b><br>
-      Our users are given the opportunity to "opt-out" of having their information 
-      used for purposes not directly related to our site at the point where we 
-      ask for the information. For example, our <a href="/services/customer/editemailpassword.asp"> 
-      REWARDS Customer Account</a> information form has an 'opt-out' mechanism 
-      so users who register with us, but don't want any marketing material or 
-      those of our marketing partners, can keep their email address off of our 
-      lists. If you no longer wish to receive our promotional materials you may 
-      opt -out of receiving these communications by either visiting our <a href="/services/customer/editemailpassword.asp"> 
-      REWARDS Customer Account</a> information page or by sending us an email 
-      at <a href="mailto:service@famousfootwear.com"> service@famousfootwear.com</a>. 
-      </font><p><font size="2">Users of our site are always notified when their information is being 
-        collected by any outside parties. We do this so our users can make an 
-        informed choice as to whether they should proceed with services that require 
-        an outside party, or not. <br>
-        <br>
-      </font> </p></td>
-  </tr>
-  <tr> 
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td colspan="2"><font size="2"><b>Notification of Changes</b><br>
-      If we decide to change our privacy policy, we will post those changes on 
-      our homepage so our users are always aware of what information we collect, 
-      how we use it, and under what circumstances, if any, we disclose it. If 
-      at any point we decide to use personally identifiable information in a manner 
-      different from that stated at the time it was collected, we will notify 
-      you by way of an email. You will have a choice as to whether or not we may 
-      use your information in this different manner. We will use information in 
-      accordance with the privacy policy under which the information was collected. 
-      <br>
-      <br>
-      </font> </td>
-  </tr>
-</tbody></table>
-</td></tr>
-<tr><td align="center">
-	<script language="javascript">
-function openAddEmail() {
-	document.frmEmail.action = 'http://www.famousfootwear.com/shop.asp?ShopID=Email+Signup&emailaddress=' + document.frmEmail.promoEmail.value
-}
-</script>
+  <p>If you feel that we are not abiding by our posted privacy policy, you should <a href="/Contact.aspx">contact</a> Famous Footwear.com Customer Service.</p>
+  <h2>Information Collection and Use</h2>
+    <p>  Famous Footwear is an operating division of Brown Group Retail, Inc. which in turn is a wholly owned subsidiary of Brown Shoe Company, Inc. The FamousFootwear.com 
+	  website is operated by the Famous Footwear Division of Brown Shoe Company. Brown Group Retail, Inc. and Brown Shoe Company, Inc. are the sole owners of all information 
+	  collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement. This information is collected from users at several different points on the FamousFootwear.com website.</p>
+<h2>REWARDS Customers</h2>
+      <p>In order to become a REWARDS Member, you must first complete the registration form. During registration you are required to give personal contact information (such as name and email address). This information is used to reward loyal customers for their purchases. By becoming a REWARDS Member, you are able to earn points for purchases made online, and in-store, as well as take advantage of special offers we make available to REWARDS Members about new promotions, fashion trends, etc. It is also more convenient for a REWARDS Member to make purchases online. (In order earn points for online purchase, you must remember put in your REWARDS Member number at time of checkout).</p>
+<h2>Orders</h2>
+    <p>  We request information from you on our order form. Here you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers' orders. If we have trouble processing an order, this contact information is used to get in touch with you.</p>
+<h2>Cookies</h2>
+    <p>  A cookie is a piece of data stored on the hard drive of your computer, containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once you close your browser, the cookie simply terminates. For instance, by accepting a cookie from our site, you will not have to log in your password more than once, thereby saving time while on our site. If you reject the cookie, you may still use our site. The only drawback to this is that you will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our customers to enhance the experience on our site.</p>
+<h2>Log Files</h2>
+     <p> We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</p>
+<h2><a name="sharing"></a>Sharing</h2>
+     <p> We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.</p><p>We may partner with other parties from time to time to provide specific services. The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners or other carefully screened companies whose products may be of interest to you.</p><p>If you prefer we do not share your name and address, please see the <b>Choice and Opt-out</b> section below. If you agreed to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box labeled <b>Please send me exclusive member offers, new promotions and fashion trends</b> on the <b>REWARDS - Email and Password page.</b> Additionally, each email our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.</p>
+<h2>Links</h2>
+    <p>  From time to time, FamousFootwear.com may contain links to other websites. Please be aware that we cannot be responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this site.</p>
+<h2>Surveys and Contests</h2>
+     <p> From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.</p>
+<h2>Security</h2>
+     <p> This website takes every precaution to protect our users' information. When you submit sensitive information via the website, your information is protected both online and off-line.</p><p>When our registration form or order form asks you to enter sensitive information (such as credit card number), that information is encrypted and is protected with Secure Sockets Layer (SSL) encryption technology. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing."</p><p>While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Our employees are regularly notified and reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment.</p>
+     <p>If you have questions about the security of our website, <a href="/Contact.aspx">contact</a> Famous Footwear Customer Service.</p>
+     <h2>Special Offers</h2>
+    <p>  REWARDS Members will occasionally receive information on products, services, and special promotions. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see "Choice and Opt-Out" below.</p>
+<h2>Site and Service Updates</h2>
+     <p> We also send our users site and service announcement updates. We may communicate with you to provide requested services and, in regards to issues relating to your account, via email or phone.</p>
+<h2>Correcting or Updating Personal Information</h2>
+     <p> If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way for you to correct, update or remove your personal data provided to us. This can usually be done at the <a href="/Profiles/login.aspx?REWARDS=Y">REWARDS Customer Account</a> information page or by <a href="/Contact.aspx">contacting</a> Famous Footwear Customer Service.</p>
+     <h2>Choice and Opt-out</h2>
+    <p>  Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we 
+	  ask for the information. For example, our <a href="/Profiles/login.aspx?REWARDS=Y">REWARDS Customer Account</a> information form has an 
+	  'opt-out' mechanism so users who register with us, but don't want any marketing material or those of our marketing partners, can keep their email 
+	  address off of our lists. If you no longer wish to receive our promotional materials you may opt-out of receiving these communications by either 
+	  visiting our <a href="/Profiles/login.aspx?REWARDS=Y">REWARDS Customer Account</a> information page or by <a href="/Contact.aspx">contacting</a> Famous Footwear Customer Service.</p> 
+    <p>Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.</p>
+<h2>Notification of Changes</h2>
+     <p> If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</p>
+</div><!-- Shop:20000_privacy [Main] END --> 
+    <script type="text/javascript">
+    var cookies = new CookieManager();
+    if (cookies.getValue('trackSearches', '').toLowerCase().indexOf('results.aspx') == -1) {
+        document.cookie = 'trackSearches=' + location.href.substring(location.href.indexOf(location.pathname)) + '; path=/; domain=famousfootwear.com;';
+    }
+    </script>   
+</div></td>
+					</tr>
+					<tr>
+                        <td colspan="2"><div id="prefootertext"></div></td>
+                    </tr>
+				</tbody></table>
+				<div class="clear"></div>
+			</div>
+			
+			<div id="footer">
+				<!-- Shop:20000_Template_Footer [Main] START --><!-- Shop:20000_Template_Footer [Main] END -->
+			</div>
+			
+			</form>
+		</div>
+		
+		<div id="SubFooter">
+			<!-- Shop:20000_Template_SubFooter [Main] START -->
 
-<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-  
-  <tbody><tr><td><img src="/bdimages/famous/footer/spacer-663300-brown.gif" height="5" width="760" border="0"></td></tr>
-  
-  <tr><td><img src="/bdimages/spacer.gif" height="10" width="760" border="0"></td></tr>
-  <tr>
-    <td>
-    		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr><td bgcolor="#F3F3F3">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-		<td><img src="/bdimages/spacer.gif" width="10" height="30"></td>
-		<td><img src="/bdimages/famous/footer/winshoes.gif" width="214" height="17" border="0" align="absmiddle"></td>		
-<form name="frmEmail" onsubmit="openAddEmail();" method="POST" action="/shop.asp?ShopID=Email+Signup"></form>
-		<td><input name="promoEmail" type="text" value="enter email" size="20"></td>
-		<td><a href="javascript:openAddEmail();document.frmEmail.submit();"><img src="/bdimages/famous/footer/brown_arrow_button.gif" width="20" height="19" border="0" align="absmiddle"></a></td>	
-		
-		<td><img src="/bdimages/spacer.gif" width="10" height="30"></td>
-		<td align="center"><a href="http://www.famousfootwear.com/shop.asp?shopID=shoereview"><img src="/bdimages/famous/footer/review.gif" width="309" height="32" border="0" align="absmiddle"></a></td>
-		</tr>
-		</tbody></table></td></tr>
-		
-		<tr><td><img src="/bdimages/spacer.gif" width="760" height="7"></td></tr>
-		<tr><td><img src="/bdimages/famous/footer/spacer-663300-brown.gif" height="1" width="760" border="0"></td></tr>	
-		<tr><td bgcolor="#F3F3F3"><img src="/bdimages/spacer.gif" width="760" height="5"></td></tr>
-		<tr><td bgcolor="#F3F3F3">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-		<td><img src="/bdimages/spacer.gif" width="10" height="105" border="0"></td>
-		<td width="120"><img src="/bdimages/famous/footer/famous_store_2.jpg" width="115" height="90" border="0"></td>
-		<td>
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" height="105" bgcolor="#ffffff">
-			<tbody><tr><td align="center" valign="top" colspan="3" class="footer_head">our stores</td></tr>
-			<tr>
-				<td><img src="/bdimages/spacer.gif" width="5" height="1" border="0"></td>
-				<td class="footer_text"><a href="http://www.famousfootwear.com/Community/StoreLocator.asp" class="footer">store locator</a></td>
-				<td class="footer_text"><a href="http://www.famousfootwear.com/grandopenings.asp" class="footer">grand openings</a></td>
-			</tr>
-			<tr>
-				<td><img src="/bdimages/spacer.gif" width="5" height="1" border="0"></td>
-				<td class="footer_text"><a href="http://www.famousfootwear.com/shop.asp?shopID=Events" class="footer">store events</a></td>
-				<td class="footer_text"><a href="http://www.famousfootwear.com/shop.asp?ShopID=shoelocator" class="footer">shoe finder</a></td>
-			</tr>
-			<tr>
-				<td><img src="/bdimages/spacer.gif" width="5" height="1" border="0"></td>
-				<td class="footer_text"><a href="http://www.famousfootwear.com/shop.asp?ShopID=homedelivery" class="footer">home delivery</a></td>
-				<td class="footer_text">&nbsp;</td>
-			</tr>
-			<tr>
-				<td><img src="/bdimages/spacer.gif" width="5" height="1" border="0"></td>
-				<td class="footer_text">&nbsp;</td>
-				<td class="footer_text">&nbsp;</td>
-			</tr>
-			</tbody></table>		
-		</td>
-		
-		<td background="/bdimages/famous/footer/spacer-663300-brown.gif"><img src="/bdimages/spacer.gif" width="1" height="105" border="0"></td>
-		<td><img src="/bdimages/spacer.gif" width="5" height="105" border="0"></td>
-		<td>
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" height="105">
-			<tbody><tr><td align="center" valign="top" colspan="2" class="footer_head">customer service</td></tr>
-			<tr><td class="footer_text"><a href="http://www.famousfootwear.com/Community/CustomerService.asp" class="footer"><b>contact us</b></a></td>
-				<td class="footer_text"><a href="https://secure.famousfootwear.com/services/customer/myaccount.asp" class="footer">my account</a></td></tr>
-			<tr><td class="footer_text"><a href="http://www.famousfootwear.com/services/customer/orders.asp" class="footer"><b>order status</b></a></td>
-				<td class="footer_text"><a href="http://www.famousfootwear.com/shop.asp?shopID=Gift+Card" class="footer">gift cards</a></td></tr>
-			<tr><td class="footer_text"><a href="http://www.famousfootwear.com/shop/howtoorder.asp" class="footer"><b>shipping</b></a></td>
-				<td class="footer_text"><a href="http://www.famousfootwear.com/community/famous_faq.asp" class="footer">FAQ</a></td></tr>
-			<tr><td class="footer_text"><a href="http://www.famousfootwear.com/shop/howtoreturn.asp" class="footer">returns</a></td>
-				<td class="footer_text">&nbsp;</td>
-			</tr>
-			</tbody></table>
-		</td>
-		<td background="/bdimages/famous/footer/spacer-663300-brown.gif"><img src="/bdimages/spacer.gif" width="1" height="105" border="0"></td>
-		<td valign="top">
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" height="105">
-			<tbody><tr><td class="footer_head" colspan="2" align="center">our company</td></tr>
-			<tr><td><img src="/bdimages/spacer.gif" width="20" height="1" border="0"></td><td class="footer_text"><a href="http://www.famousfootwear.com/community/our_company.asp" class="footer">about us</a></td></tr>
-			<tr><td><img src="/bdimages/spacer.gif" width="20" height="1" border="0"></td><td class="footer_text"><a href="http://www.famousfootwear.com/community/careers.asp" class="footer">careers</a></td></tr>
-			<tr><td><img src="/bdimages/spacer.gif" width="20" height="1" border="0"></td><td class="footer_text"><a href="http://www.famousfootwear.com/shop.asp?ShopID=MOD" class="footer">March Of Dimes</a></td></tr>
-			<tr><td><img src="/bdimages/spacer.gif" width="20" height="1" border="0"></td><td class="footer_text"><a href="http://www.famousfootwear.com/sitemap.asp" class="footer">site map</a></td></tr>
-			</tbody></table>		
-		</td>
-		<td background="/bdimages/famous/footer/spacer-663300-brown.gif"><img src="/bdimages/spacer.gif" width="1" height="105" border="0"></td>
-		<td align="center" valign="top">
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" height="105" bgcolor="#ffffff">
-			<tbody><tr><td class="footer_head" colspan="2" align="center">Rewards program</td></tr>
-			<tr><td><img src="/bdimages/spacer.gif" width="10" height="1" border="0"></td><td class="footer_text"><a href="https://secure.famousfootwear.com/login/login.asp" class="footer">log in</a></td></tr>
-			<tr><td><img src="/bdimages/spacer.gif" width="10" height="1" border="0"></td><td class="footer_text"><a href="https://secure.famousfootwear.com/community/famous_faq.asp" class="footer">learn more</a></td></tr>
-			<tr><td><img src="/bdimages/spacer.gif" width="10" height="1" border="0"></td><td class="footer_text"><a href="https://secure.famousfootwear.com/login/newuser.asp#" class="footer">join today</a></td></tr>
-			<tr><td><img src="/bdimages/spacer.gif" width="10" height="1" border="0"></td><td class="footer_text">&nbsp;</td>
-			</tr>
-			</tbody></table>
-		</td>
-		<td><img src="/bdimages/spacer.gif" width="10" height="105" border="0"></td>
-		</tr>
-		</tbody></table></td></tr>
-		
-		<tr><td bgcolor="#F3F3F3"><img src="/bdimages/spacer.gif" width="760" height="5"></td></tr>
-		<tr><td><img src="/bdimages/spacer.gif" width="760" height="7"></td></tr>	
-    		<tr><td bgcolor="#F3F3F3">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-		<td><img src="/bdimages/spacer.gif" width="10" height="30"></td>
-		<td align="left" class="footer_text">we care about:&nbsp;&nbsp;<a href="http://www.famousfootwear.com/shop/yourpurchase.asp" class="footer">security</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.famousfootwear.com/privacy_policy.asp" class="footer">privacy</a></td>
-		<td align="center"><img src="/bdimages/famous/footer/returns.gif" width="161" height="19" border="0" align="absmiddle"></td>
-		<td align="center"><img src="/bdimages/famous/footer/moreshoes.gif" width="303" height="19" border="0" align="absmiddle"></td>
-		</tr>
-		</tbody></table></td></tr>
-		<tr><td align="right" class="copyright">©&nbsp;copyright Brown Group Retail, Inc.</td></tr>
-		</tbody></table>    </td>
-  </tr>
-</tbody></table></td></tr>
-</tbody></table>
-<!-- HITBOX INCLUDE CODE -->
-<!-- /privacy_policy.asp -->
-<!-- SUBSITE:  -->
-<!-- URL: /privacy_policy.asp -->
-<!-- BEGIN HITBOX CODE--><!--WEBSIDESTORY CODE HBX1.3 (Universal)--><script language="javascript">var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}var hbx=_hbEvent("pv");hbx.vpc="HBX0103u";
-hbx.gn="cuc.famousfootwear.com";
-hbx.mn="we74";
-hbx.epg="n";
-hbx.acct="DM5502166IND93EN3";
-hbx.pn="_privacy_policy";
-hbx.mlc="";
-hbx.pndef="index.html";
-hbx.ctdef="full";
-hbx.fv="";
-hbx.lt="auto";
-hbx.dlf="n";
-hbx.dft="n";
-hbx.elf="n";
-hbx.seg="";
-hbx.fnl="";
-hbx.cmp="";
-hbx.cmpn="";
-hbx.dcmp="";
-hbx.dcmpn="";
-hbx.dcmpe="";
-hbx.dcmpre="";
-hbx.hra="";
-hbx.hqsr="";
-hbx.hqsp="";
-hbx.hlt="";
-hbx.hla="";
-hbx.gp="";
-hbx.gpn="";
-hbx.hcn="";
-hbx.hcv="";
-hbx.cp="null";
-hbx.cpd="";
-hbx.ci="";
-hbx.hc1="-";
-hbx.hc2="-";
-hbx.hc3="-";
-hbx.hc4="-";
-hbx.hrf="";
-hbx.pec="";
-</script><script language="javascript1.1" defer="" src="HTTP://www.famousfootwear.com/hitbox/hbx.js"></script><!-- END HITBOX CODE-->
-<!-- END HITBOX INCLUDE -->
-<script language="javascript">function shoes_onLoad() { }</script>
+<!-- ************ BEGINNING OF VARIATION *********** -->
+
+<div class="greyVarMega">
+  <div id="footer-wrapper-bg">
+    <div id="footer-main-box">
+      <div class="footer-left-box">
+        <ul id="stores-nav-list">
+          <li class="nav-list-title">OUR STORES</li>
+          <li><a href="/Community/StoreLocator.aspx">store locator</a></li>
+          <li><a href="/Community/StoreEvents.aspx" rel="nofollow">store events</a></li>
+          <li><a href="/Content.aspx?ContentID=homedelivery" rel="nofollow">home delivery</a></li>
+          <li><a href="/ReserveOnline/ReservationSearch.aspx" rel="nofollow">pick-up in store</a></li>
+          <li><a href="/Community/GrandOpenings.aspx" rel="nofollow">grand openings</a></li>
+          <li>&nbsp;</li>
+          <li class="nav-list-title">POLICIES</li>
+          <li><a href="/Content.aspx?ContentID=security" rel="nofollow">Security</a></li>
+          <li><a href="/content.aspx?contentid=PRIVACY" rel="nofollow">Privacy</a></li>
+          <li><a href="/Content.aspx?ContentID=text-message-policy" rel="nofollow">Text Messaging</a></li>
+        </ul>
+        <ul id="service-nav-list">
+          <li class="nav-list-title">CUSTOMER SERVICE</li>
+          <li><a href="/content.aspx?contentID=CUSTSERV" rel="nofollow">help</a></li>
+       
+          <li><a href="/trackorder" rel="nofollow">order status</a></li>
+          <li><a href="/Content.aspx?contentID=SHIPPING" rel="nofollow">shipping</a></li>
+          <li><a href="/Content.aspx?ContentID=howtoreturn" rel="nofollow">returns</a></li>
+          <li><a href="/Content.aspx?ContentID=exclusions" rel="nofollow">exclusions</a></li>
+          <li><a href="/Profiles/WelcomeDashboard.aspx" rel="nofollow">my account</a></li>
+          <li><a href="/content.aspx?contentid=fit">fit assistance</a></li>
+          <li><a href="/Content.aspx?ContentID=giftcards">gift cards</a></li>
+        </ul>
+        <ul id="company-nav-list">
+          <li class="nav-list-title">OUR COMPANY</li>
+          <li><a href="/Content.aspx?ContentID=Company" rel="nofollow">about us</a></li>
+          <li><a href="/Content.aspx?ContentID=career">careers</a></li>
+          <li><a href="/Content.aspx?ContentID=sitemap">site map</a></li>
+          <li><a href="/Content.aspx?ContentID=MOD" rel="nofollow">March of Dimes</a></li>
+          <li><a href="/mbs">Mind Body Sole</a></li>
+          <li><a href="/Content.aspx?ContentID=connect">stay connected</a></li>
+        </ul>
+        <ul id="program-nav-list">
+          <li class="nav-list-title">REWARDS PROGRAM</li>
+          <li><a href="/Profiles/WelcomeDashboard.aspx" rel="nofollow">log in</a></li>
+          <li><a href="/Content.aspx?ContentID=rewardsoverview" rel="nofollow">learn more</a></li>
+          <li><a href="/Profiles/CreateAccount2.aspx" rel="nofollow">join today</a></li>
+        </ul>
+        <div class="footer-left-box-2">
+          <ul id="mens-nav-list">
+            <li class="nav-list-title"><h2><a href="http://www.famousfootwear.com/Shopping/Results.aspx?N=6208">MEN'S SHOES</a></h2></li>
+            <li><a href="/shopping/results.aspx?N=4294967138+6208">Men's Sandals</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957708+6208">Men's Dress Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957630+6208">Men's Casual Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294967222+6208">Men's Work Boots</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957537+6208">Men's Athletic Shoes</a></li>
+          </ul>
+          <ul id="womens-nav-list">
+            <li class="nav-list-title"><h2><a href="http://www.famousfootwear.com/Shopping/Results.aspx?N=6207">WOMEN'S SHOES</a></h2></li>
+            <li><a href="/Shopping/Results.aspx?N=4294967138+6207">Women's Sandals</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957708+6207">Women's Dress Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957630+6207">Women's Casual Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294967251+6207">Women's Boots</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957537+6207">Women's Athletic Shoes</a></li>
+          </ul>
+          <ul id="girls-nav-list">
+            <li class="nav-list-title"><h2><a href="http://www.famousfootwear.com/Shopping/Results.aspx?N=6209">GIRLS' SHOES</a></h2></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957537+6209">Girls' Athletic Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294967118+6209">Girls' Skate Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294967138+6209">Girls' Sandals</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957708+6209">Girls' Dress Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=6209+6346">Girls' Grade-School Shoes</a></li>
+          </ul>
+          <ul id="boys-nav-list">
+            <li class="nav-list-title"><h2><a href="http://www.famousfootwear.com/Shopping/Results.aspx?N=6210">BOYS' SHOES</a></h2></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957537+6210">Boys' Athletic Shoes</a></li>
+            <li><a href="/shopping/results.aspx?N=4294967118+6210">Boys' Skate Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294967138+6210">Boys' Sandals</a></li>
+            <li><a href="/Shopping/Results.aspx?N=4294957708+6210">Boys' Dress Shoes</a></li>
+            <li><a href="/Shopping/Results.aspx?N=6210+6346">Boys' Grade-School Shoes</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="footer-right-box">
+        <div id="footer-right-content">
+          <h3 class="email-label">EMAIL SIGN UP</h3>
+          <p class="email-signup-text" title="*By entering my email address, I certify that the information I am providing is accurate and that I am at least 18 years of age.">Sign up for trend updates &amp; special offers, plus get a coupon just for signing up!* </p>
+          <ul id="email-signup-ul">
+            <li class="email-signup-li">
+              <form method="post" name="address-footer" id="address-footer-form" onsubmit="submitEmailFooter2(); return false;">
+                <input class="text-box" type="text" id="footer-email-submit2" name="footer-email-submit" value="Enter email address" title="Enter email address">
+                <a href="#" id="footer-email-submit-button" title="Sign Up for Email">Sign Up for Email</a>
+              </form>
+            </li>
+          </ul>
+          <p style="font-size:11px; line-height:15px;">*By entering my email address, I certify that the information I am providing is accurate and that I am at least 18 years of age.</p>
+          <div id="social-footer-box">
+         	<script type="text/javascript">
+         	var winLoc = window.location.href;
+         	if (winLoc.indexOf('https://')<0) {
+         		document.write('<h3 class="social-label">Social Sign Ups</h3><div id="fb-root"></div>'); 
+         		document.write('<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffamousfootwear&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>');
+         		var scriptSrc = 'http://platform.twitter.com/widgets.js';
+         		document.write('<a href="http://twitter.com/famousfootwear" class="twitter-follow-button" data-show-count="false">Follow @famousfootwear</a>');
+         		document.write(unescape("%3Cscript src='" + scriptSrc + "' type='text/javascript'%3E%3C/script%3E"));
+         	}
+         	</script>
+          	  		<p><a title="eSSENTIAL Accessibility ™" href="http://www.essentialaccessibility.com/"><img alt="eSSENTIAL Accessibility ™" src="/Content/core/icons/accessibility.gif"></a></p>
+<p style="font-size:11px; line-height:15px;">©2011 Brown Group Retail, Inc., a subsidiary of Brown Shoe Company, Inc. (NYSE:BWS)</p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-<!--[STLWEB-PRD21]-->
+
+<script type="text/javascript">
+	function checkEmail(email_val) {
+		var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+		return filter.test(email_val);
+	}
+	$('#footer-email-submit-button').click(function() {              
+		var footerType = $(this).attr('id');
+		var ctrlVal = $('#footer-email-submit2').val();
+
+		if(checkEmail(ctrlVal)) {
+
+		 	var tm_CookieManager = new CookieManager();
+			var tm_UserCountry = tm_CookieManager.getValueIgnoreCase('Country')||'US';
+			var emailURL = '';
+			
+			emailURL = 'http://email-famousfootwearshoes.com/realtimepost.jsp?email='+ctrlVal+'&division=marketing&source=email_signup&welcome=1&remove=0';
+			
+			$('body').append('<iframe style="width:1px; height:1px; position:absolute; left:0; bottom:0; overflow:hidden;" src="'+emailURL+'"  border="0" width="1" height="1" />');
+			$('#footer-email-submit2').attr('email', '').val('Thanks for signing up!');
+
+		} else {
+			// popup?
+			$('#footer-email-submit2').attr('email', ctrlVal).val('Invalid Email.');
+		}	
+		
+		return false;
+	});
+	
+	$('#footer-email-submit2').focus(function(){
+		$(this).val($(this).attr('email'));
+	}).blur(function(){
+		var ctrlVal = $(this).val();
+		if(!checkEmail(ctrlVal)){
+			$(this).attr('email', ctrlVal).val('Invalid Email.');
+		} else {
+			$(this).attr('email', ctrlVal);
+		}		
+	});
+</script><!-- Shop:20000_Template_SubFooter [Main] END -->
+		</div>	
+		
+		
+		
+	<script src="/Scripts/AkamaiTrackingPixel.js"></script><img src="/Akamai/Track.ashx?sciurl=https%3A//web.archive.org/web/20111006135954id_/http%253A//www.famousfootwear.com/content.aspx%253Fcontentid%253DPRIVACY&amp;sciref=" style="visibility:hidden;border:none;height:1px;width:1px;">
+
+
+		
+		
+		
+
+
+        
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+    
+ 
+
 </body></html>
