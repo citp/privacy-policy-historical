@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibis.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626193528id_/http%3A//ibis.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibis.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006084829id_/http%3A//www.ibis.com/privacy.asp) for the most accurate reproduction.*
 
 # Terms & Conditions | I.B.I.S. Inc.
 
