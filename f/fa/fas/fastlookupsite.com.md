@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastlookupsite.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130020758id_/http%3A//fastlookupsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastlookupsite.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006102826id_/http%3A//fastlookupsite.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Fastlookupsite.com- Privacy Policy
 
