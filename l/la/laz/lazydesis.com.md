@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the lazydesis.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217190616id_/http%3A//www.lazydesis.com/announcements/showthread.php%3Ft%3D158311) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydesis.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006150453id_/http%3A//www.lazydesis.com/announcements/showthread.php%3Ft%3D158311) for the most accurate reproduction.*
 
 # Privacy Policy - Lazydesis
 
+  
 _**Privacy Policy for[http://www.lazydesis.com](http://www.lazydesis.com/) **_
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **lazydesis@gmail.com**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **support@keebali.com**
 
 At [http://www.lazydesis.com](http://www.lazydesis.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [http://www.lazydesis.com](http://www.lazydesis.com/) and how it is used. 
 
