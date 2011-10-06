@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsnapshot.co.uk privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328143013id_/http%3A//www.couponsnapshot.co.uk/private-policy-from-couponsnapshot.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsnapshot.co.uk privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006124346id_/http%3A//www.couponsnapshot.co.uk/private-policy-from-couponsnapshot.html) for the most accurate reproduction.*
 
 # Privacy Policy of using CouponSnapshot UK
 
