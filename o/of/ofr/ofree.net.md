@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104203420id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006160426id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
@@ -57,32 +57,32 @@ to
 [Only Free - RSS FEED](http://feedproxy.google.com/OnlyFree-NewestFreebiesAndFreeStuff?format=xml "Only Newest Free Stuff and Free Samples RSS Feed")  
 and Get Only Newest Free Stuff and Free Samples Faster and More Reliably! 
 
-Free Dell Studio 15 Laptop!
+Free Apple iPhone 5
 
-[](https://web.archive.org/go/df.asp?fu9ar1zpyu)
+[](https://web.archive.org/go/df.asp?qmnyn3x03j)
 
-2-min Quiz = Free Dell Studio 15 Laptop! 
+Apple has redefined the mobile world… again 
 
-DELL, HP or Macbook Air for Free!
+Only 7 days left for Free Movie Tickets
 
-[](https://web.archive.org/go/df.asp?m6ccui5wyo)
+[](https://web.archive.org/go/df.asp?qzkitks4n0)
 
-Quantities Limited. 
+Summer blockbusters are on their way - watch them for Free 
 
-Free NESTLE Toll House Morsels
+Do you prefer Nike or Adidas?
 
-[](https://web.archive.org/go/df.asp?j7rgdg5lyg)
+[](https://web.archive.org/go/df.asp?4ru8cf9ah3)
 
-Baker's Best Chocolate Chips - Sample Now! 
+Get the shoe brand of your choice Free! Sign-up now! 
 
-Get your Smartphone for Free!
+Get a New Free Laptop or Tablet Computer – Hurry, Don't Delay
 
-[](https://web.archive.org/go/df.asp?ojj23hjmb8)
+[](https://web.archive.org/go/df.asp?c99e9w2w27)
 
-Claim your Free Blackberry torch, iPhone 4, HTC evo or Motorola Droid x now! 
+Why pay to upgrade? 
 
-Get your no-cost MacBook Air now!
+Free Apple iPad 2 and iPhone 4 combo
 
-[](https://web.archive.org/go/df.asp?wjhykycap4)
+[](https://web.archive.org/go/df.asp?vb1exyhcwn)
 
-Your MacBook Air is waiting – don’t let it slip away! 
+Own Apple’s fastest, most powerful products yet! 
