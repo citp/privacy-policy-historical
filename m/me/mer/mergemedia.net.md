@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mergemedia.net privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611221643id_/http%3A//mergemedia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergemedia.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006062932id_/http%3A//mergemedia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,6 +48,4 @@ If you require any more information or have any questions about our privacy poli
 
   
 |  [< Prev](https://web.archive.org/finance.html) |    |  [Next >](https://web.archive.org/offers.html)  
----|---|---  
-Privacy Policy  
-30332 People have Requested this Article
+---|---|---
