@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b96hits.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428193450id_/http%3A//radio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b96hits.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006220126id_/http%3A//radio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « radio.com
 
@@ -267,7 +267,7 @@ Please note that we may share information about our users with advertisers so th
 
 These online-advertising efforts across CIMG Web Sites do not result in you seeing more advertisements, just more relevant advertising, and they allow us to provide you with free content and services on our Web Sites. We hope you value our efforts to show you content and advertising that more closely reflects your interests.
 
-Some of the advertisements you see on CIMG Web Sites are delivered by third parties. To learn more, please read about [**third-party online advertising**](https://web.archive.org/web/20110428193450id_/http://radio.com/privacy-policy/ThirdParty "third-party online advertising").
+Some of the advertisements you see on CIMG Web Sites are delivered by third parties. To learn more, please read about [**third-party online advertising**](https://web.archive.org/web/20111006220126id_/http://radio.com/privacy-policy/ThirdParty "third-party online advertising").
 
 **Third-Party Online Advertising**
 
