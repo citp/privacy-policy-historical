@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the truenorthlogic.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218064907id_/http%3A//truenorthlogic.com/index.php%3Fid%3DODgw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenorthlogic.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006043930id_/http%3A//www.truenorthlogic.com/privacy) for the most accurate reproduction.*
 
-# Truenorthlogic - Privacy Policy
+# Truenorthlogic - Privacy
 
-#### Truenorthlogic takes your privacy seriously. 
-
-**Please read the following to learn more about our Privacy Policy.**
+**Truenorthlogic takes your privacy and security seriously.  
+**
 
 Truenorthlogic is the sole owner of the information collected on this website. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement.
 
@@ -12,4 +11,4 @@ The Truenorthlogic website contains links to other sites that may or may not be 
 
 Names and brands mentioned on the Truenorthlogic website may be claimed as the property of their respective owners.
 
-Truenorthlogic may update this policy. We will notify you about significant changes in the way we treat personal information by placing a prominent notice on our site.  
+Truenorthlogic reserves the right to change this policy. If we do make changes, the revised privacy policy will be posted on this site.
