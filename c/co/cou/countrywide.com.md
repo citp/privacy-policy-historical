@@ -1,204 +1,139 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023144634id_/https%3A//my.countrywide.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006214227id_/https%3A//www.bankofamerica.com/privacy/index.jsp) for the most accurate reproduction.*
 
-# Countrywide Financial - Home Loans - Equity Loan Mortgages – Mortgage Lender - Refinance
+# Bank of America Privacy and Security
 
-|  |  |  |  Countrywide.com Online Practices   
----  
-|  The Countrywide.com Online Practices Privacy Policy explains how Bank of America and our partners may collect information from you online when you visit Countrywide.com. 
+|  |  | 
 
-The Online Practices Privacy Policy, effective as of April 27, 2009, is for general guidance and subject to change. Please review periodically. 
+Last updated January 10, 2011 
 
-Customer information means personally identifiable information about a consumer or a consumer’s current or former customer relationship with Bank of America.   
-  
----  
-   
-Privacy Policy for Consumers  
-In addition to the protections you enjoy through our Online Practices Privacy Policy, your online activities may also be covered by the Bank of America Privacy Policy for Consumers. This policy explains our collection, use, disclosure, retention and security of consumer information and applies to products and services offered through this website within the United States for consumer (not business) purposes. In addition, the [Bank of America Privacy Policy for Consumers](https://www.bankofamerica.com/privacy/Control.do?body=privacysecur_cnsmr) provides consumers with information on Setting Your Marketing Preferences. For our Insurance customers please select the appropriate Bank of America Privacy Policy for insurance. [California](https://web.archive.org/web/20091023144634id_/https%3A//my.countrywide.com/media/California.pdf)  [All Other States](https://web.archive.org/web/20091023144634id_/https%3A//my.countrywide.com/media/All_Other_States.pdf)  
-   
-About Countrywide.com  
-Our systems automatically switch to "secure" mode when you are asked to enter personal information on this website (such as your loan number, account number or social security number). To keep your data safe, we use: 
-
-  * Encryption and authentication technology 
-  * Website design that blocks or limits online display of customer information when not necessary to the transaction 
-  * IDs and passwords to protect customer information 
-
-
-
-For more details on Internet security, please see our About Internet Security section.  
-  
-  
-   
-Use of cookies, Web beacons and similar files  
-We design many features of our website so new visitors may anonymously learn about our products and services, view today’s rates and use our educational tools without revealing their identity. For new visitors, we use "cookies" and Web beacons to collect limited data (such as the date, time and areas of our website visited and the website the new visitor came from). When you select one of our products or services, review your accounts online or respond to marketing materials sent to you directly, we will try to identify your browser and may combine information from "cookies," Web beacons and other information collected online with any other data we maintain about you. By improving the marketing and content of our website and making your online experience more convenient, we are able to better serve our customers' financial needs.   
-   
-Cookies are required to access your online accounts  
-You can have your Web browser disable "cookies," but if you turn off "cookies," it is not possible to access your online accounts. Cookies are used for security purposes when you log into your account so that we can recognize your computer. Cookies used to access your online account are encrypted and used solely to support your online account activity.   
-   
-Similar Files  
-This website sometimes uses technologies similar to cookies to store information. For example, we also use files called Flash objects to help assure security as part of the online account log-in process. Flash object files are also encrypted and used solely to support your online account activity.   
-   
-Collecting Personally-Identifiable Information  
-When you visit our Web site, we may collect the following information in order to service your accounts, save you time and money, and better respond to your needs: 
-
-  * Application information - Information that you provide to us online in applications and other forms. Examples include your assets, income and debt. 
-  * Identification Information - Information that identifies you such as name, address, telephone number and Social Security number. 
-  * Transaction and experience information - Information about your online transactions and account experience, as well as information about our online communications with you. Examples include your online bill payments and your activity on the Web site, such as collecting information on product information reviewed. 
+This Online Privacy Notice (Notice) applies to this Bank of America website and any Bank of America affiliate website that links to this Notice, (each, a Site, and, collectively, Sites). This Notice explains how Bank of America collects, uses and shares information from or about you when you visit a Site, provides information on how we advertise, both on our Sites and on other websites, and how we collect information based on your interactions with our online ads. In addition to this Notice, depending on your relationship with Bank of America, you may receive and be covered by the [Bank of America U.S. Consumer Privacy Notice](https://web.archive.org/web/20111006214227id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_cnsmr), the [Bank of America Corporation Privacy Notice for Non-U.S. Consumers](http://www.ml.com/media/42386.pdf), other privacy disclosures within account opening documents and other privacy and security rules as may be applicable to the relevant Bank of America affiliate.
 
   
-   
-How to confirm the accuracy of your information  
-We commit to maintain accurate and up-to-date information on all of our customers. We provide a ccess to account information in many ways - over the phone, in online and paper statements, and other communications. If you believe any of your information is incorrect, please notify us immediately using the customer service number provided on your account statement. We will respond timely to your request to correct inaccurate account or transaction information. However, in order to protect your information, we may ask to verify your identity and for other details to respond to your request.   
-   
-About Internet Security   
-| How Does Browser Security Work?  
----  
-Recent versions of most internet browsers support the encrypted transmission of on-line documents and the data you enter on a web page. This means that instead of sending readable text, both your browser and the website's secure server encode all text using a security key. That way, personal data sent to your browser or data you send back would be extremely difficult to decode in the unlikely event it was intercepted by an unauthorized party. The key used for encoding is a random number that is unique to your session at the secure website. 
+ 
 
-There are two grades of internet security: International-grade encryption uses a 40-bit random number negotiated between your browser and the web-server. This means that only one out of about 1,000,000,000,000 possible decoding keys can be used to decipher your data. Domestic-grade encryption uses a 128-bit key, so that the number of possible keys is vastly larger. This site uses the highest grade of encryption supported by your browser and your internet connection.  
-  
-   
-How Do I Know If Security Is Operating?  
-Your internet session is encrypted if your security-enabled browser is connected to a website using the Secure Hypertext Transport Protocol. URL strings beginning with "HTTPS://" instead of the usual "HTTP://" indicate that the secure protocol is in effect. Your browser may also tell you if security is operating. For example, Mozilla's Firefox will display the  icon in the lower right corner of your screen in secure mode. Microsoft Internet Explorer shows a  icon. Note that security may be operating without any visible indication if the web page you are viewing employs frames (see below). 
+## Collecting Information
 
-If secure transmission is not in effect or only part of a frame-based page is secure, Firefox shows the "red-slashed lock" icon , and Explorer does not show the "lock" icon.
+Collecting Information
 
-Most browsers can be set to give you a pop-up announcement when you enter or leave a secure web page. In Firefox, these settings are on the Security section when you select "Options" on the Tools menu. In IE, the setting is on the "Advanced" tab when you select "Options" on the View menu.  
-  
-   
-Secure Mode and Frame-Based Web Pages  
-Security may be operating without displaying any security icons (or Firefox may show the "red-slashed lock" icon) if only part of a frame-based page is employing security. You can verify the security of a page within a frame by opening it in a new browser window. Both IE and Firefox allow you to open a link in a new window by right-clicking on the link and selecting that option from the pop-up context menu. When a secure page is open in its own window, instead of being viewed within a frame, you can then see the security icons provided by your browser as well as the "https://" secure protocol prefix in the URL string.   
-   
-Cookies, Web Beacons   
-| Cookies  
----  
-When you visit a website, a small file called a "cookie" may be saved to your computer’s hard drive during your visit. When you revisit the site, the website’s server may open the cookie file and access the stored information. You can usually set your browser to limit or let you know about cookies that a website places on your computer.   
-   
-Web Beacons  
-A Web beacon is a graphic image (such as a pixel tag or clear GIF) that is placed on a web page or in an e-mail message to monitor user activity (such as whether the web page or e-mail message is read or clicked). They are often invisible because they are very small in size. They are also used on many web pages for alignment purposes. We sometimes use Web beacons to provide an independent accounting of how many people visit our websites or to gather statistics about browser usage at our websites. Some of our web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies. It is difficult for you to limit the use of Web beacons because there is no easy way to distinguish their use from alignment and other purposes. They may be loaded from a different web server than the rest of the page.   
-   
-Third Party Advertising  
-We sometimes use third party advertising companies to serve our internet ad banners on our site and other sites on which we advertise. If you click on one of those ads, you will be directed to one of our sites offering that particular product or service. If you view a web page where our ads appear, the advertising company may place a cookie on your computer or use a Web beacon to access a cookie they previously placed on your computer. These companies do not collect information that can identify you personally, but may use information about your visits to our sites and other sites to measure the effectiveness of ads. We do not give any personally identifiable information to these companies. Unless you are first notified, these advertising companies do not link any online actions or cookie to any information that can be used to personally identify you (such as your name, address or e-mail address). The companies that distribute our ads are prohibited by contract from using information other than for the agreed upon purpose – to help us market our products and services and to measure response rates. 
+  * Cookies
+  * Flash objects
+  * Other technologies
+  * Advertising
+    * Advertising on our Sites
+    * Online Behavioral Advertising on our Sites
+    * Advertising on other websites
+    * Online Behavioral Advertising on other websites
+  * Online surveys and sweepstakes
+  * Planning tools
+  * Aggregation services
 
-Third party advertisers are subject to their own privacy policies. Currently, we use web beacons provided by Doubleclick, Yahoo!, Google and MSN. If you prefer that Doubleclick does not record your information by means of these web beacons on our website, please click here: http://www.networkadvertising.org/managing/opt_out.asp. If you prefer that Yahoo! not record information by means of these Beacons on our website, visit Yahoo! at http://info.yahoo.com/privacy/us/yahoo/webbeacons/details.html to opt out. To prevent other advertising companies from placing cookies on your computer, you may adjust the privacy settings for your browser to block or filter cookies, or visit each website individually and opt-out.  
-  
-   
-Similar Devices  
-For example, we include URLs in e-mail marketing materials sent directly to you (such as special offers) so that we can identify that it is you responding to the campaign and provide details on the offer available to you.   
-   
-Shared Secrets   
-| What are Shared Secrets?  
----  
-Shared secrets are the most common security method for accessing confidential information. A shared secret is something known to both the user and the holder of the confidential information. The most common shared secrets are a user ID and password. These shared secrets allow the user to log into the site of the holder of confidential information such as a financial institution or online merchant. Shared secrets form an integral part of user authentication in today's online environment.   
-   
-Protecting Your Shared Secrets  
-Protecting your shared secrets ensures that information accessed via those shared secrets is protected. You should never record your shared secrets electronically such as in documents or spreadsheets. In the event of a compromise of your computer hard drive, your shared secrets can be compromised as well placing all the data protected by those shared secrets at banks and merchants at risk. Likewise you should never store credit card numbers, expiration dates, bank account number, social security numbers, driver’s license number or other personal identifying information electronically on your computer for the same reason. 
 
-Your shared secrets should never be revealed in response to unsolicited e-mails. Criminals attempt to obtain individual’s personal identifying information and use that information illegally such as to open and/or use credit cards, obtain phone or utility accounts, obtain loans, work, open bank accounts and/or pass fraudulent checks using a technique called "phishing". Criminals may also attempt to obtain that information over the phone posing as a survey taker, telemarketer or other unsolicited caller ("pretexting").  
-  
-   
-Common Shared Secrets  
-To minimize the potential compromise of your shared secrets, you should avoid commonly used secrets such as names (yours, your spouse's, your children's, parents), common terms that appear in the dictionary (brute force attacks to crack passwords often use dictionaries in an attempt to randomly match the password), exclusively numbers (numbers range from 0 to 9 for each character where letters range from a to z creating 26 potential variations or 52 if case sensitive). The best passwords are a combination of both letters and numbers where the letters do not spell words that could be found in a dictionary and the password is of sufficient length, 6 characters or preferably more, to make brute force attacks harder. 
 
-We suggest you do not use shared secrets across multiple domains (e.g. websites). If you use the same logon and password while shopping or surfing online as you use for your bank, if one of the online merchant sites is compromised, your user ID and password could then be used to access your bank information. Not all websites apply the same level of security to their database. The use of a single logon ID and password across multiple sites is only as secure as the least secure site.  
-  
-   
-What Do I Do If My Shared Secrets are Compromised?  
-Immediately change your shared secrets with all sites on which you have used the same shared secrets. Follow the instructions What Should I Do if I Become a Victim of Identity Theft?  
-   
-Safeguarding Social Security Numbers   
-| Tips to Protect Your Social Security Number  
----  
-  
-  * Carry only necessary identification with you. Don't carry your Social Security card.
-  * Never provide your Social Security Number unless you have initiated the contact and have confirmed the business or person's identity
-  * Do not use your full or partial Social Security Number as a Personal Identification Number (PIN) or as a password
-  * If you must send your Social Security Number in an email ensure that the email is encrypted 
-  * Only enter your Social Security Number into internet web sites when the site is secure _and_ you know how the recipient will protect it
-  * Be cautious of your surroundings when disclosing your Social Security number, e.g. if a retail store requests your Social Security Number to look up your store credit card number
-  * Do not transmit your Social Security Number over the Internet unless you know that the connection is secure or you have encrypted the Social Security Number
-  * Be cautious when faxing your Social Security number, double check the fax number to ensure it is the correct number
-  * Do not record your Social Security Number on a check, traveler's check, gift certificate, money order or other negotiable instrument unless required by law
+Using and Sharing Information
+
+Additional Information
+
+  * Social media
+  * Making sure information is accurate
+  * Linking to other sites
+  * Protecting children's privacy online
+  * Frequently asked questions
+
+
+
+Changes to the Online Privacy Notice
+
+When you visit our Sites, we may collect certain categories of information from you, such as personal information that you provide via forms, surveys, applications, or using other online fields. We may also collect information about you from your online browsing and transactions, including your preferences, pages visited and technical information regarding your computer and operating systems; such as your Internet Protocol (IP) address, domain name, system configuration and settings. Personal information means personally identifiable information and does not include aggregated and de-identified data that the bank may create or compile from various sources, including accounts and transactions. This information, which does not identify individual customers, is used by the bank for its business purposes, which may include offering products or services, research, marketing or analyzing market trends, and other purposes consistent with applicable laws. Please see the Cookies, Flash objects, Other technologies and Advertising sections below for more information.
+
+Cookies  
+Cookies are pieces of information stored directly on the computer you are using. Bank of America, or our third-party service providers (including advertising service providers - see the Advertising section below for more information on these advertisers) may place cookies or Flash objects on your hard drive for security purposes, to facilitate site navigation and to personalize your experience. Cookies allow us to: 
+
+  * Offer you more relevant products and services;
+  * Collect technical and navigational information, such as browser type, time spent on our Sites and pages visited;
+  * Monitor viewing and responses to Bank of America advertisements.
+
+
+
+When you visit our Sites we use cookies to monitor your experience. When you apply for a product on one of our Sites, we use cookies to remember you and to provide you information on products and services that best fit your needs. If you have an account with us and access your accounts online, we will maintain information about your visits to personalize your browsing experience and the products and services we offer. If you do not have an account with us and do not wish us to maintain information, please delete your cookies. To do this, you will need to follow your browser's instructions for disabling or deleting cookies.
+
+Cookies and other technologies provide us the capability to monitor the use of our Sites so we can continually improve the design and functionality to better serve you. Cookies we use do not contain or capture unencrypted personal information. If you choose not to accept cookies from our Sites, then you may not be able to access and use all or part of the Sites or benefit from the information and services offered. If you choose not to accept cookies, you will still receive advertisements on our Sites, however, they will not be tailored to your interests or needs.
+
+Flash objects  
+Bank of America uses Flash objects (sometimes referred to as "Local Shared Objects") in two ways. First, as part of our SiteKey® solution for online authentication, we use Flash objects to help us recognize you and your computer when you come back to our site. Second, for our pages running Adobe® Flash® content (demos and tutorials with moving content), we use Flash objects to determine your browser type and version of Adobe Flash in order for you to view the content. As with cookies, we never store personal information in these Flash object files unless encrypted. We do not use Flash objects for any online behavioral advertising purpose. Deleting cookies does not delete Flash objects. You can learn more about Flash objects - including how to control and disable them - through the [Adobe interface](http://www.bankofamerica.com/weblinking/?referredby=adobeinterface). If you choose to delete Flash objects from our Sites, then you may not be able to access and use all or part of the Site or benefit from the information and services offered.
+
+Other technologies  
+We contract with advertising service providers who may serve advertising to you through the use of web beacons. A web beacon is placed on a web page and, in addition to setting HTML cookies, can capture information such as IP address, time, web browser, time zone and domain. Other technologies we use may capture customer specific data to help us understand how customers use our Sites and to assist us with resolving customers' questions regarding the use of our Sites.
+
+Advertising  
+Bank of America advertises on pages within the Sites as well as on other websites not affiliated with Bank of America. Information collected by our advertising service providers through cookies and other technologies includes the number of people who look at each of the pages on the Sites, search engine referrals, browsing patterns within the Sites, and responses to advertisements and promotions on the Sites and on websites where we advertise.
+
+Advertising on our Sites  
+Bank of America advertises its products and services, including prescreened offers of credit, on pages within the Sites. These advertisements may take the form of banner ads, splash ads (ads that appear as you sign on or sign off of your online accounts), and other formats. We may use information about your relationship with us, such as types of accounts you have, transactional information, or the state in which you bank to tailor advertisements that may be of interest to you.
+
+Online Behavioral Advertising on our Sites  
+We also use advertising service providers to help us determine which of our advertisements are most likely to be of interest to you using nonpersonal behavioral information. We limit access and collection of information for specific purposes by advertising service providers.
+
+  * If you prefer not to have nonpersonal information used in this way, you may [opt out of online behavioral advertising on our Sites](https://web.archive.org/web/20111006214227id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=opt_out_popup)Opens new window.
+
+
+
+Please note that if you opt out, you may still receive online advertising from Bank of America. Opting out means that the ads you do receive will not be based on your preferences or behavior.
+
+Advertising on other websites  
+Bank of America contracts with advertising companies such as Google, Yahoo, Advertising.com and MSN, to advertise our accounts and services on websites not affiliated with us.
+
+Online Behavioral Advertising on other websites  
+Some of these ads are online behavioral advertising and may contain cookies that allow monitoring of your response to our advertisements. Cookies placed by these companies do not collect personal information. We limit companies that place our ads from using information for any purpose other than to assist us in our advertising efforts. 
+
+  * If you prefer that our advertising service providers not know which Bank of America website pages you have viewed, you may opt out at [Network Advertising Initiative](http://www.bankofamerica.com/weblinking/?referredby=netadvert).
+
+
+
+Please note that if you opt out, you may still receive online advertising from Bank of America. Opting out from a specific advertising provider means that the ads you do receive will not be based on your preferences or behavior.
+
+In order for behavioral advertising opt-outs to work on your computer, your browser must be set to accept cookies. If you delete cookies, buy a new computer, access the Sites from a different computer, login under a different screen name, or change web browsers, you will need to opt out again. If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
+
+Online surveys and sweepstakes  
+From time to time, you may be asked to participate in online surveys or sweepstakes. You are not required to complete online surveys, sweepstakes or promotions, however, online surveys are used so that we can gather information to better serve you. Based on the information you provide to us, we may inform you of accounts and services from Bank of America.
+
+Planning tools  
+Bank of America provides users visiting our websites with a variety of planning tools, such as mortgage, savings and retirement calculators. Information that you enter into one of these planning tools or calculators may be stored for your future access and use. We will let you know when we plan to store information, and we will give you the option not to have this information saved.
+
+Aggregation services  
+Bank of America offers aggregation services such as My Portfolio® and My Financial Picture®. Bank of America uses the information collected through these services to provide you with requested services and to understand what account or service offers may be of interest to you. 
+
+  * Using other aggregation sites  
+Other companies offer aggregation sites and services that allow you to consolidate your financial account information from different sources (such as Bank of America or other financial institutions) so that you can view all your account information at one online location. To do this, an aggregation provider may request access to your personal information, including financial information, your usernames and passwords. You should use caution and ensure that the aggregator company has appropriate policies and practices to protect the privacy and security of any information you provide or to which they are gaining access. If you provide username, password or other information about your Bank of America accounts to an aggregation site, we will consider that you have authorized all transactions initiated by an aggregation site using access information you provide, whether or not you were aware of a specific transaction.
+
+If you decide to revoke the authority you have given an aggregation site, we strongly recommend that you change your Bank of America password to ensure that the aggregation site cannot continue to access your account. We are not responsible for the use or disclosure of any personal information accessed by any company or person to whom you provide your Site username and password.
+
+
+
+
+### Using and Sharing Information 
+
+At times, Bank of America may make information available to third parties that are financial and nonfinancial companies not related by common ownership or control, such as service providers, credit bureaus, insurance agencies, mortgage brokers, retailers, travel companies, membership organizations, government agencies, courts, legal investigators, and other nonaffililiated third parties as requested by you or your authorized representative, or otherwise when required or permitted by law. Unless otherwise described in this Notice, for U.S. account holders, we will use and share any information that we collect from or about you that is covered by this Notice in accordance with the [Bank of America U.S. Consumer Privacy Notice](https://web.archive.org/web/20111006214227id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_cnsmr), which provides consumers additional direct marketing choices. For Non-U.S. account holders, we will use and share your information in accordance with the privacy disclosure that covers your account and with the privacy and security rules applicable to the relevant Bank of America affiliate.
+
+Social media  
+Bank of America provides experiences on social media platforms such as Facebook®, Twitter® and LinkedIn® that enable online sharing and collaboration among users who have registered to use them. Any content you post, such as pictures, information, opinions, or any personal information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
+
+Making sure information is accurate  
+Keeping your account information accurate and up to date is very important. If your account information is incomplete, inaccurate or not current, please use the Contact Us option on our Site, or call or write to us at the telephone numbers or appropriate address for changes listed on your account statements, records, online or other account materials. You can also speak to a customer representative at a banking center, or to your financial advisor or account representative.
+
+Linking to other sites  
+We may provide links to non-Bank of America websites, such as credit bureaus or merchants. If you follow links to websites not controlled by Bank of America, you should review their privacy policies and other terms, as they may be different from those of our sites. Bank of America does not guarantee and is not responsible for the privacy or security of these websites, including the accuracy, completeness, reliability or suitability of their information.
+
+Protecting children's privacy online  
+We do not knowingly collect information from children under 13 without parental consent. If you are under 13, please do not enter your personal information. For more information about the [Children's Online Privacy Protection Act (COPPA)](http://www.bankofamerica.com/weblinking/?referredby=coppa), visit the Federal Trade Commission website.
+
+Frequently asked questions  
+For more information on Bank of America Privacy Notices and Practices, please see our [Frequently Asked Questions](https://web.archive.org/web/20111006214227id_/https%3A//www.bankofamerica.com/privacy/Control.do?body=privacysecur_faqs).
+
+### Changes to the Online Privacy Notice 
+
+This Online Privacy Notice is subject to change. Please review it periodically. If we make changes to the Online Privacy Notice, we will revise the "Last Updated" date at the top of this Notice. Any changes to this Notice will become effective when we post the revised Notice on the Site. Your use of the Site following these changes means that you accept the revised Notice.
 
   
-   
-We Safeguard Your Social Security Number  
-Our Privacy Protection Policy (1) protects the confidentiality of Social Security numbers, (2) prohibits unlawful disclosure of Social Security Numbers, and (3) limits access to Social Security Numbers. Our consumer customers can obtain more information by reviewing our privacy policy for consumers.   
-   
-Identity Theft   
-| What is Identity Theft?  
----  
-Identity theft is when someone takes and uses your personal information (such as your name, social security or credit card number) without your permission to commit fraud or other crimes. These criminals take the identities of others to open new credit cards; obtain phone or utility accounts, loans, or employment; open bank accounts; and/or pass fraudulent checks. According to the FBI, identity theft is the fastest growing crime in America.  
-   
-How Does Identity Theft Occur?  
-Criminals gain access to personal information in many ways, but the most common method is to take it from the victim themselves. They steal mail (such as account statements, new checks and offers of credit) left in a mailbox, discarded in the trash or stored in an easy to get to location in your home or office. They take credit card and personal identification from your purse or wallet. Without knowing it, you may give the information directly to the criminal when you enter data at an unsecured or unknown website, or in response to a fraudulent request for account information through an unverified e-mail ("phishing"). Imposters also ask for information from you in unsolicited phone calls, tricking you into thinking it is someone you know, such as your bank ("pretexting").   
-   
-What Happens to the Victim?  
-Identity thieves can damage the credit reputations and lives of victims. Studies have shown that victims spend an average of $808 and 205 hours resolving the identity theft. Time and money is spent clearing credit reports, reporting the theft to lenders and merchants, and filing complaints with law enforcement and governmental agencies. One of the menacing problems of identity theft is that it can happen more than once. Once the initial incident is resolved, the thief may begin using the victim’s identity again after waiting 6 months to a year and the cycle begins all over again.   
-   
-How Can I Prevent Becoming a Victim?  
-Identity theft requires someone to gain access to your personal information. You can take steps to decrease the risk of someone stealing your information.  
-  
-  * Destroy papers you throw out. Shred or completely destroy any documents that contain personal information before discarding them in the trash. This includes information about you, your family, your home, or your accounts such as credit card solicitations, pre-approved credit offers, convenience checks contained in your statements, bills, cancelled checks, loan offerings, ATM or credit card receipts, insurance or tax information. Just as important are receipts from ATM’s or self-service devices such as gasoline pumps. Don’t just leave them behind or throw them in the trash. Criminals only need a few pieces of information about you to get credit in your name and access your existing accounts. 
-  * Be careful who you give your information to over the telephone. Do not give out personal information such as your social security number, credit card or bank account numbers, or loan numbers over the phone to anyone who has called you without first confirming who you are speaking to, why they need the information and that they are who they claim to be. 
-  * Guard your PINs. Never give out your Personal Identification Number (PIN). Memorize your PINs and never write them on your cards or carry them in your wallet. 
-  * Report lost or stolen credit cards, checks or identification immediately.
-  * Store your personal information securely. Keep it where it is not easily available in the event of a burglary or other unauthorized access. 
-  * Be cautious online. Be cautious when providing information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see How Do I Know if Security is Operating?). 
-  * Check your credit reports. Review your credit report regularly to identify any inquiries or accounts that you are not aware of and did not apply for. 
-  * Protect your mailbox. If your residential mailbox is not secure, don’t put outgoing mail in the box and promptly pick up incoming mail or obtain a secure postal mailbox. 
-  * Safeguard your checks. Never print your personal information such as a Social Security Number or driver’s license number on your checks.
-
-  
-   
-What Should I Do if I Become a Victim of Identity Theft?  
-  
-  * Contact the three major credit bureaus Ask them to send you a copy of your credit report and instruct them to place a fraud alert on your record. Once you receive the report, review it carefully. Contact any creditors listed that you did not apply for credit with and inform them that you have been a victim of identity theft. Instruct them to close the account, send you copies of the application and any transactions, and to promptly clear your credit record. 
-  * Contact your local police or sheriff’s department and file an identity theft complaint. 
-  * File a complaint with the Federal Trade Commission or call their hotline at 1.877.IDTHEFT (438.4338).
-
-  
-   
-Identity Theft Resources  
-   
-What Are We Doing to Assist in the Battle Against Identity Theft?  
-Protecting the confidentiality and security of our customers’ personal information is a priority for our family of companies. You can find more information in our  Privacy and Security Policy. We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Bank of America has put multiple safety measures in place to combat identity theft.  
-   
-| Training  
----  
-  | We train key employees in customer identification and authentication. Our training is designed to reduce the chance of an account or loan being opened in your name without your permission. We regularly update training to educate our employees on changing trends in identity theft.  
-   
-Fraud Hotline  
-  | For many years, we have maintained a Fraud Hotline for consumers, employees and the public to report crimes, including identity theft. Fraud Hotline staff work with departments across our family of companies to block credit reporting based on claims of identity theft, conduct investigations including reviews of the account or loan documentation, and, if identity theft is confirmed, notify the credit bureaus and correct credit reporting history on affected financial relationships with us. The Fraud Hotline serves as a single point of contact for consumers to report identity theft complaints to us. You can reach the Fraud Hotline by any method described under the Reporting Identity Theft section below.  
-   
-Education  
-  | Consumer awareness is a critical component in reducing the incidence of identity theft. We provide consumer education and training on identity theft through featured articles in our quarterly newsletters, statement messaging and our websites.  
-   
-Industry Associations  
-  | We work in concert with industry groups in developing legislation, policies and practices to fight identity theft and other crimes in the businesses we operate in. We also work with these industry groups in the establishment and adherence to security and customer authentication programs to ensure that we remain an industry leader in protecting your identity and assets held with us.  
-   
-Law Enforcement  
-  | We coordinate with local, state and federal law enforcement when identity theft cases arise.  
-   
-Reporting Identity Theft  
-If you think your identity has been stolen, affecting any of your loans or accounts with any of the companies in our family, or resulting in the establishment of a fraudulent relationship with us, please contact us immediately. The Identity Theft Complaint provided below should be completed and then faxed or mailed back to us at the address shown below. The Complaint, which requires Adobe Acrobat Reader, can be obtained by clicking the link below:  
-|  |    
----  
-e-mail | [fraud_hotline@bankofamerica.com](mailto:fraud_hotline@bankofamerica.com)  
-   
-phone   | 1.877.CUFRAUD (283.7283)  
-   
-fax   | 1.805.306.7158  
-   
-mail   | Bank of America  
-Fraud Investigation  
-30930 Russell Ranch Road, CA6-916-03-05  
-Westlake Village, CA 91362   
-  |  |    
-ID Theft Complaint  | Requires  
-Adobe Acrobat Reader
-
-Click to download free  
   
   
----|---  
-Due to the insecure nature of e-mail, the ID Theft Complaint should be faxed or mailed to us as shown to the left.
+---
