@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the is-teledata.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422155449id_/http%3A//www.interactivedata.com/index.php/titledesc/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the is-teledata.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006110551id_/http%3A//www.interactivedata.com/index.php/titledesc/policy) for the most accurate reproduction.*
 
 # Interactive Data: Privacy Policy
 
