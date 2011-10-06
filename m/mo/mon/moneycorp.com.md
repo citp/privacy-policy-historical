@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycorp.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523133013id_/http%3A//www.moneycorp.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycorp.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006214140id_/http%3A//www.moneycorp.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | Moneycorp
 
