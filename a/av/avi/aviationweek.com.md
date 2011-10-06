@@ -1,17 +1,64 @@
-> *The following text is extracted and transformed from the aviationweek.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226075810id_/http%3A//www.aviationweek.com/aw/jsp_includes/story_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviationweek.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006061328id_/http%3A//www.aviationweek.com/aw/jsp_includes/story_privacy.jsp) for the most accurate reproduction.*
 
 # Aviation Week : Privacy Notice
 
-**AVIATION WEEK Privacy Notice - revised June 21, 2006**
+**AVIATION WEEK Privacy Notice - revised February 24, 2011**
 
-AVIATION WEEK respects your privacy and follows The McGraw-Hill Companies' privacy policy, which may be reviewed at [http://www.mcgraw-hill.com/privacy.html.](http://www.mcgraw-hill.com/privacy.html) This applies to all of our products and services, including our Web site.
+**WHAT PERSONALLY IDENTIFIABLE INFORMATION ("PII") DOES AVIATION WEEK COLLECT ABOUT YOU?**
 
-When you fill out a Web form on one of our Web sites, or send us an email message, you are providing information about yourself, which may include your e-mail address, street address, telephone number and credit card number. We will use this information you provide to fulfill your request or respond to your inquiry. From time to time, we share contact data (such as name and address) about customers and prospects collected within The McGraw-Hill Companies, and with other organizations whose products or services we feel may be of interest to you. Credit card information is used only to fulfill a sale, and is not shared with anyone. At every point where we collect personal information about you, we offer you the opportunity to "opt out" of letting us share information about you.
+Contact information that you provide to us (such as your name, title and organization, address, telephone number, fax number, e-mail address).
 
-AVIATION WEEK also tracks forwarding of products that are delivered by email to subscribers for the purpose of identifying users who are forwarding products illegally. We are able to track the username to whom the forwarded email was originally sent, and the domain name or IP address of the recipient of the forwarded email. AVIATION WEEK reserves the right to use such username or other address information as is necessary to enforce our rights in the event we believe illegal redistribution of our products has occurred. In the course of delivering Web pages and advertisements to you, AVIATION WEEK does NOT collect any personally identifiable information about you such as your name, phone number or email address, except as noted above for the purpose of tracking the forwarding of products that are delivered to subscribers by email. AVIATION WEEK does, however, collect such non-personally-identifiable information as the address of the server your computer is logged on to, your browser type, and whether you clicked on a menu item or advertisement. Such information is used in aggregated form for the purpose of measuring traffic or advertising response, and gaining a general understanding of the types of individuals using our Web sites.
+Contact information obtained via other companies' marketing lists
 
-Some of our Web pages use cookies to prevent users from seeing the same ads repeatedly, and to allow registered users to enter areas requiring registration without having to provide their username and password on each occasion. A cookie is a text-only string of information that a Web site transfers to the cookie file of the browser on your computer's hard disk so that the Web site can remember who you are and your preferences. Such information is also used in aggregated form for the purpose of measuring traffic or advertising response, and gaining a general understanding of the types of individuals using our Web sites.
+Credit card or other payment information for your transactions.
 
-In order to change these cookie preferences, you must change your browser's preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences to not accept cookies are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies; In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked.
+We or our third party services providers also track your use of our Web site at www.aviationweek.com through the use of cookies and other tracking mechanisms. A cookie is a text-only string of information that a Web site transfers to the cookie file of the browser on your computer's hard disk so that the Web site can remember you and your preferences. "Session" cookies are erased from memory when your browser closes. "Persistent" cookies help identify you and your preferences upon your return to the Web site.
 
-All information entered on this Web site is stored in a secure database in the U.S. and access is limited to authorized persons. If you would prefer not to have your information shared at all, or for more information on our privacy practices, send an email to [laurie_becker@aviationweek.com](mailto:laurie_becker@aviationweek.com), or call +1-212-904-3955. If you would like to confirm the accuracy of the specific information we have collected from you, please mail a written request to Laurie Becker, Privacy Official, Aviation Week, Two Penn Plaza, 25th Floor, New York, NY 10121, USA. 
+You must change your browser's preferences to disable or delete cookies.
+
+Note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. For example, to change your browser's preference in Internet Explorer, go to Tools > Internet Options > Privacy. The setting has to be set to _Block All Cookies_
+
+In addition, third party advertising companies who serve ads on our Web site may use cookies (or other mechanisms) to collect information about your visits to this and other Web sites in order to present ads about goods and services that may be of interest to you. If you would like to obtain more information about the practices of these third party advertisers, and to make choices about their use of your information, please visit [AboutAds.Info](http://www.aboutsads.info/).
+
+**WHY DOES AVIATION WEEK COLLECT THIS INFORMATION?**
+
+To process your transactions, maintain your account and respond to your inquiries.
+
+To provide you with information about services and products that we believe may be of interest to you offered by Aviation Week and other parts of our parent company, The McGraw-Hill Companies, Inc. ("McGraw-Hill") and reputable third party companies
+
+**HOW DOES AVIATION WEEK SHARE YOUR PII?**
+
+With our vendors to perform services on our behalf.
+
+In conjunction with a sale or similar transfer of a business.
+
+When legally compelled or for other legal purposes.
+
+With other parts of McGraw-Hill whose services and products might be of interest to you and with reputable third party companies.
+
+**IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:**
+
+Please contact [laurie_becker@aviationweek.com](mailto:laurie_becker@aviationweek.com) or Laurie Becker, Privacy Official, Aviation Week, Two Penn Plaza, 25th Floor, New York, NY 10121 indicating your preferences (please see below).
+
+I do not want to be contacted by Aviation Week via these methods for marketing purposes:
+
+  * ____ Mail 
+  * ____ Telephone 
+  * ____ Fax 
+  * ____ E-mail 
+
+
+
+______ I do not want to be contacted by Aviation Week through any method for marketing purposes.
+
+______ I do not want to be contacted by other parts of McGraw-Hill through any method for marketing purposes.
+
+______ I do not want my information shared with companies outside of McGraw-Hill.
+
+We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
+
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [laurie_becker@aviationweek.com](mailto:laurie_becker@aviationweek.com) or Laurie Becker, Privacy Official, Aviation Week, Two Penn Plaza, 25th Floor, New York, NY 10121.
+
+[Click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) for more information about The McGraw-Hill Companies Customer Privacy Policy.
+
+Last updated: February 24, 2011 - Future revisions to this Privacy Notice will be posted at this location.
