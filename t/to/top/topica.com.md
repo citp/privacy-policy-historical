@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topica.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611040414id_/http%3A//www.topica.com/email-marketing/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topica.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006061543id_/http%3A//www.topica.com/email-marketing/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Topica's Privacy Policy
 
