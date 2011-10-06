@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpressbillpay.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608142840id_/https%3A//www.xpressbillpay.com/common/documents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpressbillpay.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006161909id_/https%3A//www.xpressbillpay.com/common/documents/privacy.php) for the most accurate reproduction.*
 
 # Xpress Bill Pay
 
