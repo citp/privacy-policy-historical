@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the camlive.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209045353id_/http%3A//www.camlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camlive.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006070632id_/http%3A//www.camlive.com/privacy.html%3F) for the most accurate reproduction.*
 
-# CamLive - Privacy Policy
+# CamLive - Privacy
 
 [Home](http://www.camlive.com/) / Privacy Policy
 
@@ -12,7 +12,7 @@ CamLive will not collect any personal identifying information about you (includi
 
 If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-When you do provide us with personal identifying information, such information will be gathered solely by CamLive, and is for use solely by CamLive. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+When you do provide us with personal identifying information, such information will be gathered solely by CamLive, and is for use solely by CamLive and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
 CamLive may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
@@ -39,9 +39,9 @@ Because we care about the safety and privacy of children online, we comply with 
 
 Members areas of CamLive may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@camlive.com](https://web.archive.org/contactsupport.php?).
 
-CamLive does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from CamLive, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
+CamLive does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from CamLive, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
 
-CamLive also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if CamLive becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, CamLive reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the CamLive program, termination of CamLive services, and forfeiture of all commissions.
+CamLive also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if CamLive becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, CamLive reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the CamLive program, termination of CamLive services, and forfeiture of all commissions.
 
 If you have any questions about this Privacy Policy, please contact our customer service department at [support@camlive.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your CamLive login name, and any information you feel is important.
 
@@ -53,5 +53,3 @@ c/o Ariel Secretaries Limited
 1st Flr, Office 102  
 P.O. Box 57528  
 3316 Limassol - Cyprus
-
-CamLive.com LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! CamLive.com is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
