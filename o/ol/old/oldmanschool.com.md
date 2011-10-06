@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldmanschool.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125201137id_/http%3A//www.oldmanschool.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldmanschool.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006084030id_/http%3A//oldmanschool.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
