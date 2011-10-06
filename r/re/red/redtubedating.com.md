@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtubedating.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317191707id_/http%3A//www.redtubedating.com/privacy.html%3Fid%3Dredtubedating%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtubedating.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006080354id_/http%3A//www.redtubedating.com/privacy.html%3Fid%3Dredtubedating%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
 
 # Redtubedating.com - World's Best Personals
 
