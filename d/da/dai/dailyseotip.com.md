@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyseotip.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628040748id_/http%3A//dailyseotip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyseotip.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006204018id_/http%3A//dailyseotip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily SEO Tip
 
