@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madeformums.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231163214id_/http%3A//www.madeformums.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madeformums.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006212449id_/http%3A//www.madeformums.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # MadeForMums - Privacy Policy
 
@@ -29,28 +29,4 @@ If you are a member of this website, we may also permit third parties to use you
 
 You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to access and disclose individually identifiable information concerning your activities whilst using our web site, we shall do so. We also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of our web site, and that use is deemed by us inconsistent with these conditions.
 
-In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.  
-  
-[](http://www.madeformums.com/editorial/editorial.asp?edSec=PP_Subs_Promotion_23082010_V2)
-
-[](https://web.archive.org/members/join.asp)
-
-[](http://www.twitter.com/madeformums/)
-
-[](https://web.archive.org/babynames/)
-
-Find our how big your unborn baby is each week by tracking your pregnancy with our timeline at the top of the page. You'll know what you can expect to happen to your body every step of the way. 
-
-[ ](https://web.archive.org/members/join.asp?v=1)
-
-question of the month poll
-
-[](http://www.madeformums.com/cl.asp?cn=117)
-
-Click here to become a MadeForMums member and enjoy loads of other free benefits 
-
-[ ](https://web.archive.org/members/MyNewsletters.asp?v=1)
-
-[](http://www.madeformums.com/pregnancy-life/this-month-in-practical-parenting/1677.html)
-
-[](http://www.madeformums.com/cl.asp?cn=238)
+In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.
