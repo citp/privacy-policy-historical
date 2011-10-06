@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumecauldron.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225160530id_/http%3A//www.costumecauldron.com/Privacy-Policy-Costume-Cauldron.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecauldron.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006204905id_/http%3A//www.costumecauldron.com/Privacy-Policy-Costume-Cauldron.html) for the most accurate reproduction.*
 
 # Privacy Policy - Costume Cauldron
 
