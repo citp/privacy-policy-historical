@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the deeperblue.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630142355id_/http%3A//www.deeperblue.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeperblue.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006134737id_/http%3A//www.deeperblue.com/about/privacy.php) for the most accurate reproduction.*
 
 # FreeDiving, Scuba Diving & Spearfishing | DeeperBlue.com
 
 ##### Privacy Statement
 
-This is a privacy policy for DeeperBlue.net Ltd. DeeperBlue.net respects your privacy. Below is an outline of the information that DeeperBlue.net gathers, how it´s used, and how you can "opt-out":
+This is a privacy policy for DeeperBlue.net Ltd (hereby known as DeeperBlue.com). DeeperBlue.com respects your privacy. Below is an outline of the information that DeeperBlue.com gathers, how it´s used, and how you can "opt-out":
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
@@ -28,23 +28,23 @@ Whenever you request a page through your browser, navigation and clickstream dat
 
 
 
-are stored in a log file and/or database. Any search terms that you enter into the DeeperBlue.net Site Search are also logged. This information cannot be used to identify specific individuals, and is only used for:
+are stored in a log file and/or database. Any search terms that you enter into the DeeperBlue.com Site Search are also logged. This information cannot be used to identify specific individuals, and is only used for:
 
   * research and development, 
   * anonymous user analysis, and 
   * to provide accurate statistics to advertisers in the form of aggregated data. 
-  * This information is kept on a secure dedicated server hosted by Rackspace as well as servers within the DeeperBlue.net offices. 
+  * This information is kept on a secure dedicated server hosted by LiquidWeb as well as servers within the DeeperBlue.com offices. 
 
 
 
 ## Email Newsletters, Sample Chapter Downloads and Surveys
 
-The email addresses collected from subscriptions to the DeeperBlue.net newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out DeeperBlue.net communications (for example, the DeeperBlue.net newsletter). You will not receive any mailings you did not request. The email addresses collected at DeeperBlue.net are stored on a server hosted by MailerMailer. You can remove yourself from our list at any time by visiting <http://www.mailermailer.com/x?oid=03278u>
+The email addresses collected from subscriptions to the DeeperBlue.com newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out DeeperBlue.com communications (for example, the DeeperBlue.com newsletter). You will not receive any mailings you did not request. The email addresses collected at DeeperBlue.com are stored on a server hosted by Campaign Monitor.
 
 Every marketing or sales email will give you two opt-out options:
 
   * Never contact me about this product again 
-  * I never want to hear from DeeperBlue.net again (global autoresponder blacklist) 
+  * I never want to hear from DeeperBlue.com again (global autoresponder blacklist) 
 
 
 
@@ -67,7 +67,7 @@ Cookies on this site are used by ourselves, our ad management system, and occasi
 
 ##  Registering for the Forums
 
-The information collected during the registration process for the DeeperBlue.net Forums is used to:
+The information collected during the registration process for the DeeperBlue.com Forums is used to:
 
   * contact members, 
   * customize content based upon user preferences, 
@@ -80,7 +80,7 @@ Information collected in this process can also be used to prevent banned users f
 
 ## Buying Products
 
-If you purchase products directly from DeeperBlue.net, your contact information and a transaction history will be kept by DeeperBlue.net. We do not keep credit card information pernametly on file.
+If you purchase products directly from DeeperBlue.com, your contact information and a transaction history will be kept by DeeperBlue.com. We do not store credit card details nor do we share customer details with any 3rd parties.
 
 If you contact us requesting support about a product you bought, assistance buying a product, or questions relating to our ordering process, policies, etc. the contents of your email will be logged pernametly by our Helpdesk system.
 
@@ -90,7 +90,7 @@ We may use your mailing address to market additional products to you via postal 
 
 ## Misc
 
-Any data collected will be used by ourselves and our agents. DeeperBlue.net hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
+Any data collected will be used by ourselves and our agents. DeeperBlue.com hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
 
 If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact us using our contact form.  
 
