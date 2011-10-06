@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527022320id_/http%3A//www.frontiertouring.com/index.php%3FpageID%3D648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006132639id_/http%3A//www.frontiertouring.com/index.php%3FpageID%3D648) for the most accurate reproduction.*
 
 # The Frontier Touring Company - Privacy Policy
 
@@ -44,10 +44,10 @@ You have a right to access most of the information held about you by The Frontie
 
 On every email you receive from us, you are given the opportunity to unsubscribe, and in some cases, to change your preferences. 
 
-When you unsubscribe, we remove your email address permanently from our mailing lists. In the event that you may have subscribed with more than one email address, you will need to unsubscribe each address separately. If you experience any difficultly unsubscribing please [contact us](https://web.archive.org/web/20100527022320id_/http%3A//www.frontiertouring.com/index.php?action=feedback). 
+When you unsubscribe, we remove your email address permanently from our mailing lists. In the event that you may have subscribed with more than one email address, you will need to unsubscribe each address separately. If you experience any difficultly unsubscribing please [contact us](https://web.archive.org/web/20111006132639id_/http%3A//www.frontiertouring.com/index.php?action=feedback). 
 
 ## Contact us
 
 This site is managed and run by Frontier Touring Co Pty Ltd., 9 Dundas Lane, Albert Park, VIC 3206, Australia. Frontier Touring Co Pty Ltd is part of The Mushroom Group Of Companies.
 
-If you have questions concerning this policy, please [contact us](https://web.archive.org/web/20100527022320id_/http%3A//www.frontiertouring.com/index.php?action=feedback) to submit your enquiries. This policy may change as our site develops, so please re-visit this page as often as you wish for the latest updates. 
+If you have questions concerning this policy, please [contact us](https://web.archive.org/web/20111006132639id_/http%3A//www.frontiertouring.com/index.php?action=feedback) to submit your enquiries. This policy may change as our site develops, so please re-visit this page as often as you wish for the latest updates. 
