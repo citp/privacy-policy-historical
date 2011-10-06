@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2011-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110327235659id_/http%3A//michiganbulb.com/article.asp%3Fai%3D131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007000728id_/http%3A//michiganbulb.com/article.asp%3Fai%3D131) for the most accurate reproduction.*
 
 # <b>Michigan Bulb Company Privacy Policy</b>
 
@@ -105,7 +105,7 @@ If you would like to give us your feedback regarding our privacy policy and prac
 
 * * *
 
-[ ](https://web.archive.org/web/20110327235659id_/http%3A//michiganbulb.com/article.asp?ai=129)   
+[ ](https://web.archive.org/web/20111007000728id_/http%3A//michiganbulb.com/article.asp?ai=129)   
 
 
 * * *
