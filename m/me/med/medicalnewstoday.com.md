@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614035729id_/http%3A//www.medicalnewstoday.com/index.php%3Fpage%3Dprivacypolicy%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006020015id_/http%3A//www.medicalnewstoday.com/index.php%3Fpage%3Dprivacypolicy%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,13 +22,3 @@ To learn more about behavioral advertising practices by third party advertisers 
 
   
 
-
-[](http://www.medilexicon.org/)
-
-[Privacy Policy](https://web.archive.org/index.php?page=privacypolicy&title=Privacy+Policy) | [Terms and Conditions](https://web.archive.org/index.php?page=termsandconditions&title=Terms+and+Conditions)
-
-* * *
-
-[MediLexicon International Ltd](http://www.medilexicon.org/)  
-Bexhill-on-Sea, UK  
-MediLexicon International Ltd © 2004-2011 All rights reserved. 
