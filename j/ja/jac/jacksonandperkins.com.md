@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120205158id_/http%3A//www.jacksonandperkins.com/gardening/GP/gatepage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006064934id_/http%3A//www.jacksonandperkins.com/gardening/GP/gatepage/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Jackson & Perkins
 
