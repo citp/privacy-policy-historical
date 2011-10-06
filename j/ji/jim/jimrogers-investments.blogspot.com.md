@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimrogers-investments.blogspot.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205132201id_/http%3A//jimrogers-investments.blogspot.com/2008_01_01_archive.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimrogers-investments.blogspot.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006081731id_/http%3A//jimrogers-investments.blogspot.com/2008_01_01_archive.html) for the most accurate reproduction.*
 
 # Jim Rogers Blog: 01.2008
 
