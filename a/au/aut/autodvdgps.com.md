@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autodvdgps.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630044620id_/http%3A//www.autodvdgps.com/help/entry/51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodvdgps.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006103925id_/http%3A//www.autodvdgps.com/help/entry/51) for the most accurate reproduction.*
 
 # AutoDVDGPS Knowledgebase / Privacy Notice
 
