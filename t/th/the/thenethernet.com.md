@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenethernet.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130111532id_/http%3A//thenethernet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenethernet.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007002123id_/http%3A//thenethernet.com/about/privacy) for the most accurate reproduction.*
 
 # The Privacy Policy of The Nethernet
 
