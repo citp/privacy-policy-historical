@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymarketingtour.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222172208id_/http%3A//yournetbiz.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D20%26Itemid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymarketingtour.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006203800id_/http%3A//yournetbiz.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D20%26Itemid%3D12) for the most accurate reproduction.*
 
 # YourNetBiz.com :: A MyInternetBusiness LLC Company - Privacy Policy
 
