@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the contentbuzz.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514211006id_/http%3A//contentbuzz.com/legal/Privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentbuzz.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007000830id_/http%3A//contentbuzz.com/legal/Privacypolicy.htm) for the most accurate reproduction.*
 
-# VideoWildfire.com Privacy Policy
+# ContentBuzz.com - Privacy Policy
 
-VideoWildfire.com Privacy Policy 
+ContentBuzz.com Privacy Policy 
 
 Introduction 
 
-We at VideoWildfire.com are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. VideoWildfire.com has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
+We at ContentBuzz.com are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. ContentBuzz.com has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. 
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information.
 
   
-VideoWildfire.com strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, VideoWildfire.com intends to adhere to the principles set forth in this online privacy policy.
+ContentBuzz.com strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, ContentBuzz.com intends to adhere to the principles set forth in this online privacy policy.
 
 Cookies 
 
@@ -23,9 +23,9 @@ Tracking technologies may record information such as Internet domain and host na
 
 Security 
 
-Wherever your Personal Information may be held within VideoWildfire.com or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
+Wherever your Personal Information may be held within ContentBuzz.com or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
 
 Your Agreement 
 
   
-By using this web site, you consent to the terms of our online privacy policy and to VideoWildfire.com processing of Personal Information for the purposes given above 
+By using this web site, you consent to the terms of our online privacy policy and to ContentBuzz.com processing of Personal Information for the purposes given above 
