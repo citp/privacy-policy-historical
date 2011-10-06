@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the phing.com privacy policy that was archived on 2011-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110411023757id_/http%3A//www.phing.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phing.com privacy policy that was archived on 2011-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006033638id_/http%3A//www.phing.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	
@@ -14,14 +14,13 @@
 	
 <link rel="stylesheet" type="text/css" href="http://static.phing.com/app/css/generic.css?">	
 	
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1/prototype.js"></script>	
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1/prototype.js"></script>	
 	
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>	
 	
 <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>	
 	
-<script type="text/javascript" src="http://static.new.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>	
-	
+<script type="text/javascript" src="http://static.new.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
 <script type="text/javascript" src="http://static.phing.com/app/js/control.modal.js?"></script>	
 	<script type="text/javascript" src="http://static.phing.com/app/js/cookies.js?"></script>
 	
@@ -36,7 +35,8 @@ ord = window.ord || Math.floor(Math.random()*1E16);
 	
 	
 	
-	
+
+
 
 <script type="text/javascript">
 	function updateLogin() {
@@ -50,14 +50,14 @@ ord = window.ord || Math.floor(Math.random()*1E16);
 		FB.init('768628682fdc4943cbd2255c179af740', "/fbconnect/xd_receiver.htm", { "ifUserConnected": function(uid){ fbCheck(); }, "ifUserNotConnected": function(uid){ fbCheck(); } });
 	}
 </script>
-<script type="text/javascript" src="http://static.phing.com/app/js/phing_bump.js?"></script>
+<script type="text/javascript" src="http://static.phing.com/app/js/phing_bump.js?"></script>	
 
 <style type="text/css" media="screen">
 
 
 
   #ki_container {
-    margin-bottom: 25px;
+    margin-bottom: 0px;
 
   }
 </style></head>
@@ -84,15 +84,16 @@ ord = window.ord || Math.floor(Math.random()*1E16);
 		</div>
 			
 
-	<div class="yui-u">
+<div class="yui-u">
 				
 		<div id="header-menu">
-																Hello there						—
+					
+													Hello there						—
 						Want to post an ad? <a href="/users/login?r=%2Fprivacy-policy" rel="nofollow">Login</a> or <a href="/users/register" rel="nofollow">Register</a> now.										
 										
 					<div style="margin-top:0.2em;">
 					
-											<a href="/users/activate" class="inline-message inline-error" title="Your account has not been activated. If you have waited and not received your activation code, please request for a new one.">Account not activated</a>
+											<span id="facebook-login-message"></span>
 										
 																		<a href="#" onclick="FB.Connect.requireSession(function(){ fbRegister(); }); return false;" class="fbconnect_login_button FBConnectButton FBConnectButton_Small" id="facebook-login-button">
 								<span id="RES_ID_fb_login_text" class="FBConnectButton_Text LoginButton">Connect with Facebook</span>
@@ -105,15 +106,33 @@ ord = window.ord || Math.floor(Math.random()*1E16);
 								
 				
 
-		<div id="search">
-					<p id="header-announcement">
-																			<a href="http://www.phing.com/blog/25-New-Features-Alert-Facebook-Connect-Enabled-and-pHingBump" rel="nofollow">pHingBump your Ads</a>																		
-												
-								&nbsp;
-					</p>
 
-					<a href="/search" rel="nofollow">Browse</a> or Search in					
-		<form id="SearchAddForm" method="get" action="/search">						<select name="c" id="SearchC">
+
+<!--/* Facebook Like Box */-->
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FPhingcom-classifieds%2F198046390246324&amp;width=292&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowtransparency="true"></iframe>
+
+
+
+<div style="text-align: center;"><p>	
+</p><div id="search">
+					
+<p id="header-announcement">
+						
+						
+<!--/* 	<a href="http://www.phing.com/blog/25-New-Features-Alert-Facebook-Connect-Enabled-and-pHingBump" rel="nofollow">pHingBump your Ads</a> */-->
+
+						
+
+			
+&nbsp;
+</p>
+
+
+
+<a href="/search" rel="nofollow">Browse</a> or Search in
+					
+<form id="SearchAddForm" method="get" action="/search">
+<select name="c" id="SearchC">
 <option value="">All Categories</option>
 <option value="1">Animals &amp; Pets</option>
 <option value="15">Announcements &amp; Notices</option>
@@ -130,18 +149,55 @@ ord = window.ord || Math.floor(Math.random()*1E16);
 <option value="13">Real Estate</option>
 <option value="8">Services</option>
 <option value="3">Travel</option>
-</select>							<input name="q" type="text" value="" id="SearchQ">					</form>
+</select>						<input name="q" type="text" value="" id="SearchQ">
+</form>
 				
-		</div>
+</div>
 			
-
-	</div>
-		
-	</div>
-	
+</div>
+</div>
 </div>
 
-	
+<div style="text-align: center;"><p>
+<!--/* OpenX Javascript Tag v2.8.6-rc2 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://d1.openx.org/...'
+  * to
+  *   'https://d1.openx.org/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=221188&amp;withtext=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=221188&amp;withtext=1&amp;cb=82497666046&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006033638id_/http%253A//www.phing.com/privacy-policy"></script><noscript><a href='http://d1.openx.org/ck.php?n=ad92e8ec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=221188&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ad92e8ec' border='0' alt='' /></a></noscript>
+
+</p></div>
+
+
 
 <div id="bd">
 		
@@ -281,7 +337,44 @@ ord = window.ord || Math.floor(Math.random()*1E16);
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=196631&amp;target=_blank&amp;cb=72193373910&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110411023757id_/http%253A//www.phing.com/privacy-policy"></script></p>
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=196631&amp;target=_blank&amp;cb=36368153351&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006033638id_/http%253A//www.phing.com/privacy-policy"></script></p>
+
+<!--/* OpenX Javascript Tag v2.8.6-rc2 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://d1.openx.org/...'
+  * to
+  *   'https://d1.openx.org/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=46419&amp;withtext=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=46419&amp;withtext=1&amp;blockcampaign=1&amp;cb=79155459953&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006033638id_/http%253A//www.phing.com/privacy-policy"></script><noscript><a href='http://d1.openx.org/ck.php?n=a7b07a09&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=46419&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a7b07a09' border='0' alt='' /></a></noscript>
+
 </div>
 
 		
@@ -328,8 +421,11 @@ ord = window.ord || Math.floor(Math.random()*1E16);
 
 <br>	
 
+
+<a href="http://www.linkedin.com/company/clicktrue-pte-ltd/products?trk=fc_badge"><img src="http://static01.linkedin.com/scds/common/u/img/webpromo/btn_cofollow_badge.png" locale="en" alt="clickTRUE Pte Ltd on LinkedIn"></a>
+<br>
 <a href="http://www.clicktrue.biz/company/careers?utm_source=pHing&amp;utm_medium=footer_text&amp;utm_content=pHing_Footer&amp;utm_campaign=pHing" alt="We" re="" hiring!="" join="" us="" today!'="" target="_blank">We're Hiring! Join us today!</a>
-<a href="http://www.seocopywriting.com/training/seo-copywriting-certificate/?affid=21" alt="SEO Copywriting Certificate" target="_blank">SEO Copywriting Certificate</a>
+
 
 </div>
 
@@ -338,6 +434,22 @@ ord = window.ord || Math.floor(Math.random()*1E16);
 
 		
 
+<p>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5150096-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</p>
 
 
 <p>
@@ -352,4 +464,4 @@ ord = window.ord || Math.floor(Math.random()*1E16);
 </div>
 
 
-</body></html>
+</div></body></html>
